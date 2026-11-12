@@ -1,0 +1,465 @@
+{
+"ha": 0.3421,
+"matches": [
+[
+"Avia Swidnik",
+"Bielsko-Biala",
+2.07,
+3
+],
+[
+"Sandecja Nowy S.",
+"Slask Wroclaw II",
+1.5,
+4.93
+],
+[
+"Hutnik Krakow",
+"Zawisza",
+2.28,
+2.76
+],
+[
+"Leczna",
+"Legia II",
+1.83,
+3.61
+],
+[
+"Podhale Nowy Targ",
+"S. Wola",
+2.13,
+2.98
+],
+[
+"Swit Szczecin",
+"Chojniczanka",
+2.79,
+2.17
+],
+[
+"Kleczew",
+"Ol. Grudziadz",
+3.66,
+1.8
+],
+[
+"Pruszkow",
+"Tychy",
+2.29,
+2.76
+],
+[
+"R. Rzeszow",
+"Zielona Gora",
+2.22,
+2.79
+],
+[
+"Legia II",
+"Bielsko-Biala",
+2.11,
+2.99
+],
+[
+"Pruszkow",
+"Hutnik Krakow",
+1.94,
+3.28
+],
+[
+"Slask Wroclaw II",
+"Ol. Grudziadz",
+3.48,
+1.85
+],
+[
+"Tychy",
+"Avia Swidnik",
+1.73,
+4.05
+],
+[
+"Chojniczanka",
+"R. Rzeszow",
+1.71,
+4.07
+],
+[
+"Kleczew",
+"Leczna",
+2.55,
+2.37
+],
+[
+"Podhale Nowy Targ",
+"Sandecja Nowy S.",
+2.5,
+2.55
+],
+[
+"Zielona Gora",
+"Swit Szczecin",
+1.83,
+3.43
+],
+[
+"S. Wola",
+"Zawisza",
+2.17,
+2.89
+],
+[
+"Leczna",
+"Bielsko-Biala",
+1.98,
+3.26
+],
+[
+"Swit Szczecin",
+"Tychy",
+4.2,
+1.67
+],
+[
+"Avia Swidnik",
+"Zielona Gora",
+1.8,
+3.72
+],
+[
+"Hutnik Krakow",
+"S. Wola",
+2.02,
+3.25
+],
+[
+"Kleczew",
+"Chojniczanka",
+2.9,
+2.12
+],
+[
+"Ol. Grudziadz",
+"Podhale Nowy Targ",
+1.81,
+3.71
+],
+[
+"Slask Wroclaw II",
+"Pruszkow",
+2.98,
+2.04
+],
+[
+"Zawisza",
+"Legia II",
+1.81,
+3.69
+],
+[
+"R. Rzeszow",
+"Sandecja Nowy S.",
+3.41,
+1.91
+],
+[
+"Legia II",
+"Kleczew",
+1.69,
+4.1
+],
+[
+"Bielsko-Biala",
+"Ol. Grudziadz",
+2.25,
+2.76
+],
+[
+"Tychy",
+"Slask Wroclaw II",
+1.53,
+5.11
+],
+[
+"Zielona Gora",
+"Hutnik Krakow",
+2.71,
+2.36
+],
+[
+"Avia Swidnik",
+"Zawisza",
+2.16,
+3
+],
+[
+"Podhale Nowy Targ",
+"R. Rzeszow",
+1.95,
+3.4
+],
+[
+"Pruszkow",
+"Swit Szczecin",
+1.54,
+4.61
+],
+[
+"Chojniczanka",
+"S. Wola",
+2.18,
+2.96
+],
+[
+"Sandecja Nowy S.",
+"Leczna",
+2.05,
+3.2
+],
+[
+"Hutnik Krakow",
+"Legia II",
+2.18,
+2.81
+],
+[
+"Pruszkow",
+"Ol. Grudziadz",
+2.08,
+2.95
+],
+[
+"S. Wola",
+"Avia Swidnik",
+2.34,
+2.79
+],
+[
+"Zawisza",
+"Zielona Gora",
+1.79,
+3.76
+],
+[
+"Kleczew",
+"Bielsko-Biala",
+2.73,
+2.27
+],
+[
+"R. Rzeszow",
+"Tychy",
+3.17,
+2.04
+],
+[
+"Slask Wroclaw II",
+"Chojniczanka",
+2.74,
+2.25
+],
+[
+"Swit Szczecin",
+"Sandecja Nowy S.",
+2.96,
+2.15
+],
+[
+"Leczna",
+"Podhale Nowy Targ",
+1.68,
+4.2
+],
+[
+"Avia Swidnik",
+"Sandecja Nowy S.",
+2.5,
+2.5
+],
+[
+"Chojniczanka",
+"Pruszkow",
+2.15,
+2.92
+],
+[
+"Legia II",
+"Swit Szczecin",
+1.78,
+3.8
+],
+[
+"Slask Wroclaw II",
+"Leczna",
+2.65,
+2.37
+],
+[
+"Tychy",
+"Ol. Grudziadz",
+1.88,
+3.73
+],
+[
+"Podhale Nowy Targ",
+"Hutnik Krakow",
+1.7,
+4.38
+],
+[
+"Bielsko-Biala",
+"S. Wola",
+2.22,
+2.94
+],
+[
+"Zawisza",
+"R. Rzeszow",
+1.92,
+3.44
+],
+[
+"Zielona Gora",
+"Kleczew",
+1.86,
+3.67
+],
+[
+"Bielsko-Biala",
+"Zawisza",
+2.54,
+2.54
+],
+[
+"Sandecja Nowy S.",
+"Chojniczanka",
+2.21,
+2.85
+],
+[
+"Hutnik Krakow",
+"Swit Szczecin",
+2.03,
+3.1
+],
+[
+"Kleczew",
+"Podhale Nowy Targ",
+3.74,
+1.81
+],
+[
+"Leczna",
+"Avia Swidnik",
+2.3,
+2.87
+],
+[
+"R. Rzeszow",
+"Slask Wroclaw II",
+1.85,
+3.83
+],
+[
+"Zielona Gora",
+"Ol. Grudziadz",
+2.81,
+2.34
+],
+[
+"Pruszkow",
+"Legia II",
+2.03,
+3.06
+],
+[
+"S. Wola",
+"Tychy",
+2.77,
+2.41
+],
+[
+"Avia Swidnik",
+"Ol. Grudziadz",
+2.75,
+2.25
+],
+[
+"Chojniczanka",
+"Tychy",
+2.5,
+2.5
+],
+[
+"Legia II",
+"S. Wola",
+2.36,
+2.67
+],
+[
+"Podhale Nowy Targ",
+"Slask Wroclaw II",
+1.52,
+5.1
+],
+[
+"Sandecja Nowy S.",
+"Hutnik Krakow",
+2.02,
+3.11
+],
+[
+"Swit Szczecin",
+"Leczna",
+2.59,
+2.35
+],
+[
+"Zawisza",
+"Kleczew",
+1.61,
+4.67
+],
+[
+"Zielona Gora",
+"Bielsko-Biala",
+2.28,
+2.77
+],
+[
+"Pruszkow",
+"R. Rzeszow",
+1.97,
+3.24
+]
+],
+"tg": {
+"Avia Swidnik": 3.5,
+"Bielsko-Biala": 2.73,
+"Chojniczanka": 3.08,
+"Hutnik Krakow": 2.55,
+"Kleczew": 3.26,
+"Leczna": 2.97,
+"Legia II": 3.26,
+"Podhale Nowy Targ": 2.38,
+"Pruszkow": 3.17,
+"R. Rzeszow": 2.79,
+"S. Wola": 2.91,
+"Sandecja Nowy S.": 2.76,
+"Slask Wroclaw II": 3.36,
+"Swit Szczecin": 3.23,
+"Tychy": 3.35,
+"Zawisza": 2.82,
+"Zielona Gora": 2.76,
+"Ol. Grudziadz": 3.19
+},
+"home": "Sandecja Nowy S.",
+"away": "Zielona Gora",
+"expect": {
+"p_home_pct": 70.9727963481532,
+"exp_goals": 2.780511415260509,
+"team_home": 1.7275438618433971,
+"team_away": 1.047773310957149
+}
+}

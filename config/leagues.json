@@ -1,0 +1,37 @@
+{
+  "_note": "ha = fixed home advantage (logit) from last season, taken from the Excel model. tid = SportsAPI Pro / SofaScore uniqueTournament id. season ids are discovered at run time (newest = current, next = previous) unless overridden with current_season / previous_season.",
+  "leagues": {
+    "poland-2":        {"name": "Poland II liga",          "tid": 515,   "ha": 0.3421},
+    "poland-3-g1":     {"name": "Poland III liga Group 1", "tid": 11316, "ha": 0.3421},
+    "poland-3-g2":     {"name": "Poland III liga Group 2", "tid": 11317, "ha": 0.3421},
+    "poland-3-g3":     {"name": "Poland III liga Group 3", "tid": 11315, "ha": 0.3421},
+    "poland-3-g4":     {"name": "Poland III liga Group 4", "tid": 11318, "ha": 0.3421},
+    "korea-k2":        {"name": "South Korea K League 2",  "tid": 777,   "ha": 0.1886},
+    "japan-j1":        {"name": "Japan J1 League",         "tid": 196,   "ha": 0.2188},
+    "latvia-virsliga": {"name": "Latvia Virsliga",         "tid": 197,   "ha": 0.1879},
+    "denmark-3":       {"name": "Denmark 3. Division",     "tid": 17072, "ha": 0.2611},
+    "czech-cfl":       {"name": "Czech CFL (Group A + B)", "tid": 9387,  "ha": 0.3421},
+    "czech-msfl":      {"name": "Czech MSFL",              "tid": 9386,  "ha": 0.4274},
+    "saudi-pro":       {"name": "Saudi Pro League",        "tid": 955,   "ha": 0.2375},
+    "sweden-ettan-n":  {"name": "Sweden Ettan Norra",      "tid": 67,    "ha": 0.315},
+    "sweden-ettan-s":  {"name": "Sweden Ettan Södra",      "tid": 68,    "ha": 0.315},
+    "peru-liga-1":     {"name": "Peru Liga 1",             "tid": 406,   "ha": 0.82}
+  },
+  "model": {
+    "rating_min_matches": 10,
+    "rating_max_matches": 20,
+    "goals_matches": 20,
+    "tg_a": 3.2811119045911443,
+    "tg_b": 0.00883348294300611,
+    "tg_norm": 3.6247,
+    "team_a": -0.3104,
+    "team_b": 1.1921,
+    "team_norm": 2.75
+  },
+  "betting": {
+    "min_ev": 0.10,
+    "stake": 1,
+    "ah_lines": [-3.0, 3.0, 0.25],
+    "total_lines": [0.5, 6.0, 0.25]
+  }
+}
