@@ -1,0 +1,723 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+60631257,2025-05-26 14:00,AFC Wimbledon,Walsall FC,1,0,,,
+61493959,2025-08-02 14:00,Accrington Stanley,Gillingham FC,1,1,,,
+61493961,2025-08-02 14:00,Barnet FC,Fleetwood Town,0,2,,,
+61493963,2025-08-02 14:00,Bristol Rovers,Harrogate Town,0,1,,,
+61493965,2025-08-02 14:00,Cambridge United,Cheltenham Town,1,0,,,
+61493967,2025-08-02 14:00,Chesterfield FC,Barrow AFC,1,0,,,
+61493969,2025-08-02 14:00,Colchester United,Tranmere Rovers FC,1,1,,,
+61493971,2025-08-02 14:00,Grimsby Town,Crawley Town,3,0,,,
+61493973,2025-08-02 14:00,Milton Keynes Dons,Oldham Athletic,0,0,,,
+61493975,2025-08-02 14:00,Newport County,Notts County,1,1,,,
+61493977,2025-08-02 14:00,Salford City,Crewe Alexandra,1,3,,,
+61493979,2025-08-02 14:00,Shrewsbury Town,Bromley FC,0,0,,,
+61493981,2025-08-02 14:00,Walsall FC,Swindon Town,2,1,,,
+61493999,2025-08-09 11:30,Notts County,Salford City,1,2,,,
+61494005,2025-08-09 11:30,Tranmere Rovers FC,Shrewsbury Town,4,0,,,
+61493983,2025-08-09 14:00,Barrow AFC,Milton Keynes Dons,0,2,,,
+61493985,2025-08-09 14:00,Bromley FC,Barnet FC,2,0,,,
+61493987,2025-08-09 14:00,Cheltenham Town,Chesterfield FC,0,2,,,
+61493989,2025-08-09 14:00,Crawley Town,Newport County,1,2,,,
+61493991,2025-08-09 14:00,Crewe Alexandra,Accrington Stanley,2,0,,,
+61493993,2025-08-09 14:00,Fleetwood Town,Bristol Rovers,2,1,,,
+61493995,2025-08-09 14:00,Gillingham FC,Walsall FC,1,0,,,
+61493997,2025-08-09 14:00,Harrogate Town,Grimsby Town,3,3,,,
+61494001,2025-08-09 14:00,Oldham Athletic,Colchester United,1,1,,,
+61494003,2025-08-09 14:00,Swindon Town,Cambridge United,3,2,,,
+61494015,2025-08-16 11:30,Chesterfield FC,Bristol Rovers,3,1,,,
+61494023,2025-08-16 11:30,Oldham Athletic,Swindon Town,1,2,,,
+61494007,2025-08-16 14:00,Barnet FC,Walsall FC,1,2,,,
+61494009,2025-08-16 14:00,Barrow AFC,Notts County,2,1,,,
+61494011,2025-08-16 14:00,Bromley FC,Fleetwood Town,2,2,,,
+61494013,2025-08-16 14:00,Cambridge United,Harrogate Town,1,1,,,
+61494017,2025-08-16 14:00,Crewe Alexandra,Crawley Town,1,0,,,
+61494019,2025-08-16 14:00,Grimsby Town,Newport County,2,1,,,
+61494021,2025-08-16 14:00,Milton Keynes Dons,Cheltenham Town,5,0,,,
+61494025,2025-08-16 14:00,Salford City,Accrington Stanley,2,1,,,
+61494027,2025-08-16 14:00,Shrewsbury Town,Colchester United,0,2,,,
+61494029,2025-08-16 14:00,Tranmere Rovers FC,Gillingham FC,1,1,,,
+61494031,2025-08-19 18:30,Newport County,Salford City,0,1,,,
+61494035,2025-08-19 18:45,Bristol Rovers,Oldham Athletic,0,0,,,
+61494037,2025-08-19 18:45,Cheltenham Town,Bromley FC,1,2,,,
+61494039,2025-08-19 18:45,Colchester United,Cambridge United,1,2,,,
+61494041,2025-08-19 18:45,Crawley Town,Milton Keynes Dons,1,1,,,
+61494043,2025-08-19 18:45,Fleetwood Town,Crewe Alexandra,1,4,,,
+61494045,2025-08-19 18:45,Gillingham FC,Chesterfield FC,4,1,,,
+61494047,2025-08-19 18:45,Harrogate Town,Barrow AFC,1,0,,,
+61494051,2025-08-19 18:45,Swindon Town,Barnet FC,0,2,,,
+61494053,2025-08-19 19:00,Walsall FC,Grimsby Town,0,1,,,
+61494049,2025-08-20 18:45,Notts County,Shrewsbury Town,4,1,,,
+61494071,2025-08-23 11:30,Newport County,Milton Keynes Dons,1,2,,,
+61494077,2025-08-23 11:30,Walsall FC,Salford City,1,0,,,
+61494055,2025-08-23 14:00,Accrington Stanley,Grimsby Town,1,1,,,
+61494057,2025-08-23 14:00,Bristol Rovers,Cambridge United,1,0,,,
+61494059,2025-08-23 14:00,Cheltenham Town,Barnet FC,0,1,,,
+61494061,2025-08-23 14:00,Colchester United,Barrow AFC,0,2,,,
+61494063,2025-08-23 14:00,Crawley Town,Tranmere Rovers FC,0,2,,,
+61494065,2025-08-23 14:00,Fleetwood Town,Oldham Athletic,1,1,,,
+61494067,2025-08-23 14:00,Gillingham FC,Crewe Alexandra,1,0,,,
+61494069,2025-08-23 14:00,Harrogate Town,Chesterfield FC,1,2,,,
+61494073,2025-08-23 14:00,Notts County,Bromley FC,2,2,,,
+61494075,2025-08-23 14:00,Swindon Town,Shrewsbury Town,2,1,,,
+61494097,2025-08-29 18:45,Salford City,Cheltenham Town,1,1,,,
+61494081,2025-08-30 11:30,Barrow AFC,Fleetwood Town,0,1,,,
+61494089,2025-08-30 11:30,Crewe Alexandra,Swindon Town,0,3,,,
+61494079,2025-08-30 14:00,Barnet FC,Colchester United,1,1,,,
+61494083,2025-08-30 14:00,Bromley FC,Harrogate Town,2,0,,,
+61494085,2025-08-30 14:00,Cambridge United,Newport County,2,0,,,
+61494087,2025-08-30 14:00,Chesterfield FC,Crawley Town,2,2,,,
+61494091,2025-08-30 14:00,Grimsby Town,Bristol Rovers,0,1,,,
+61494093,2025-08-30 14:00,Milton Keynes Dons,Walsall FC,0,1,,,
+61494095,2025-08-30 14:00,Oldham Athletic,Gillingham FC,0,1,,,
+61494099,2025-08-30 14:00,Shrewsbury Town,Accrington Stanley,0,0,,,
+61494101,2025-08-30 14:00,Tranmere Rovers FC,Notts County,1,2,,,
+61494119,2025-09-06 11:30,Newport County,Bristol Rovers,2,3,,,
+61494103,2025-09-06 14:00,Barnet FC,Shrewsbury Town,1,3,,,
+61494105,2025-09-06 14:00,Barrow AFC,Swindon Town,1,3,,,
+61494109,2025-09-06 14:00,Cambridge United,Oldham Athletic,0,1,,,
+61494111,2025-09-06 14:00,Cheltenham Town,Accrington Stanley,1,0,,,
+61494113,2025-09-06 14:00,Colchester United,Crewe Alexandra,1,1,,,
+61494115,2025-09-06 14:00,Harrogate Town,Crawley Town,0,1,,,
+61494117,2025-09-06 14:00,Milton Keynes Dons,Grimsby Town,2,3,,,
+61494121,2025-09-06 14:00,Notts County,Fleetwood Town,1,0,,,
+61494123,2025-09-06 14:00,Salford City,Tranmere Rovers FC,3,1,,,
+61494125,2025-09-06 14:00,Walsall FC,Chesterfield FC,1,0,,,
+61494107,2025-09-06 16:30,Bromley FC,Gillingham FC,2,2,,,
+61494127,2025-09-13 11:30,Accrington Stanley,Colchester United,1,0,,,
+61494133,2025-09-13 11:30,Crawley Town,Cheltenham Town,2,0,,,
+61494129,2025-09-13 14:00,Bristol Rovers,Barrow AFC,2,1,,,
+61494131,2025-09-13 14:00,Chesterfield FC,Milton Keynes Dons,1,1,,,
+61494135,2025-09-13 14:00,Crewe Alexandra,Barnet FC,1,2,,,
+61494137,2025-09-13 14:00,Fleetwood Town,Walsall FC,1,1,,,
+61494139,2025-09-13 14:00,Gillingham FC,Notts County,1,0,,,
+61494141,2025-09-13 14:00,Grimsby Town,Cambridge United,1,1,,,
+61494143,2025-09-13 14:00,Oldham Athletic,Bromley FC,1,0,,,
+61494145,2025-09-13 14:00,Shrewsbury Town,Salford City,1,3,,,
+61494147,2025-09-13 14:00,Swindon Town,Harrogate Town,3,1,,,
+61494149,2025-09-13 14:00,Tranmere Rovers FC,Newport County,1,1,,,
+61494157,2025-09-20 11:30,Cambridge United,Fleetwood Town,2,1,,,
+61494163,2025-09-20 11:30,Harrogate Town,Shrewsbury Town,2,0,,,
+61494151,2025-09-20 14:00,Barnet FC,Grimsby Town,3,0,,,
+61494153,2025-09-20 14:00,Barrow AFC,Crewe Alexandra,1,0,,,
+61494155,2025-09-20 14:00,Bromley FC,Chesterfield FC,2,2,,,
+61494159,2025-09-20 14:00,Cheltenham Town,Oldham Athletic,0,3,,,
+61494161,2025-09-20 14:00,Colchester United,Bristol Rovers,1,1,,,
+61494165,2025-09-20 14:00,Milton Keynes Dons,Accrington Stanley,1,2,,,
+61494167,2025-09-20 14:00,Newport County,Gillingham FC,1,3,,,
+61494169,2025-09-20 14:00,Notts County,Crawley Town,4,0,,,
+61494171,2025-09-20 14:00,Salford City,Swindon Town,3,2,,,
+61494173,2025-09-20 14:00,Walsall FC,Tranmere Rovers FC,4,2,,,
+61494183,2025-09-27 11:30,Crewe Alexandra,Notts County,2,1,,,
+61494191,2025-09-27 11:30,Oldham Athletic,Barnet FC,1,1,,,
+61494175,2025-09-27 14:00,Accrington Stanley,Walsall FC,1,3,,,
+61494177,2025-09-27 14:00,Bristol Rovers,Salford City,2,1,,,
+61494179,2025-09-27 14:00,Chesterfield FC,Newport County,4,1,,,
+61494181,2025-09-27 14:00,Crawley Town,Barrow AFC,1,2,,,
+61494185,2025-09-27 14:00,Fleetwood Town,Colchester United,4,2,,,
+61494187,2025-09-27 14:00,Gillingham FC,Harrogate Town,0,1,,,
+61494189,2025-09-27 14:00,Grimsby Town,Cheltenham Town,7,1,,,
+61494193,2025-09-27 14:00,Shrewsbury Town,Milton Keynes Dons,1,2,,,
+61494195,2025-09-27 14:00,Swindon Town,Bromley FC,2,0,,,
+61494197,2025-09-27 14:00,Tranmere Rovers FC,Cambridge United,0,0,,,
+61494213,2025-10-04 11:30,Milton Keynes Dons,Gillingham FC,3,2,,,
+61494215,2025-10-04 11:30,Newport County,Swindon Town,0,1,,,
+61494199,2025-10-04 14:00,Barnet FC,Accrington Stanley,2,0,,,
+61494201,2025-10-04 14:00,Barrow AFC,Shrewsbury Town,0,0,,,
+61494203,2025-10-04 14:00,Bromley FC,Tranmere Rovers FC,3,3,,,
+61494205,2025-10-04 14:00,Cambridge United,Crawley Town,3,1,,,
+61494207,2025-10-04 14:00,Cheltenham Town,Fleetwood Town,2,0,,,
+61494209,2025-10-04 14:00,Colchester United,Chesterfield FC,6,2,,,
+61494217,2025-10-04 14:00,Notts County,Oldham Athletic,3,1,,,
+61494219,2025-10-04 14:00,Salford City,Grimsby Town,0,2,,,
+61494221,2025-10-04 14:00,Walsall FC,Bristol Rovers,2,1,,,
+62819169,2025-10-06 19:00,Harrogate Town,Crewe Alexandra,1,2,,,
+61494223,2025-10-11 14:00,Accrington Stanley,Newport County,0,1,,,
+61494225,2025-10-11 14:00,Bristol Rovers,Milton Keynes Dons,0,4,,,
+61494227,2025-10-11 14:00,Chesterfield FC,Salford City,2,0,,,
+61494229,2025-10-11 14:00,Crawley Town,Walsall FC,1,1,,,
+61494231,2025-10-11 14:00,Crewe Alexandra,Bromley FC,0,1,,,
+61494233,2025-10-11 14:00,Fleetwood Town,Harrogate Town,3,2,,,
+61494235,2025-10-11 14:00,Gillingham FC,Cheltenham Town,1,1,,,
+61494237,2025-10-11 14:00,Grimsby Town,Colchester United,1,2,,,
+61494241,2025-10-11 14:00,Shrewsbury Town,Cambridge United,2,0,,,
+61494245,2025-10-11 14:00,Tranmere Rovers FC,Barnet FC,0,2,,,
+61494239,2025-10-11 16:30,Oldham Athletic,Barrow AFC,0,0,,,
+61494253,2025-10-18 11:30,Cambridge United,Bromley FC,2,1,,,
+61494265,2025-10-18 11:30,Salford City,Oldham Athletic,1,0,,,
+61494247,2025-10-18 14:00,Accrington Stanley,Swindon Town,4,0,,,
+61494249,2025-10-18 14:00,Barnet FC,Notts County,0,1,,,
+61494251,2025-10-18 14:00,Bristol Rovers,Tranmere Rovers FC,1,4,,,
+61494255,2025-10-18 14:00,Chesterfield FC,Fleetwood Town,1,1,,,
+61494257,2025-10-18 14:00,Colchester United,Harrogate Town,3,1,,,
+61494259,2025-10-18 14:00,Grimsby Town,Gillingham FC,1,0,,,
+61494261,2025-10-18 14:00,Milton Keynes Dons,Crewe Alexandra,3,1,,,
+61494263,2025-10-18 14:00,Newport County,Cheltenham Town,0,2,,,
+61494267,2025-10-18 14:00,Shrewsbury Town,Crawley Town,1,0,,,
+61494269,2025-10-18 14:00,Walsall FC,Barrow AFC,1,2,,,
+64371529,2025-10-21 18:45,Swindon Town,Notts County,2,2,,,
+61494275,2025-10-25 11:30,Cheltenham Town,Walsall FC,1,0,,,
+61494281,2025-10-25 11:30,Fleetwood Town,Accrington Stanley,2,1,,,
+61494271,2025-10-25 14:00,Barrow AFC,Barnet FC,2,2,,,
+61494273,2025-10-25 14:00,Bromley FC,Milton Keynes Dons,2,1,,,
+61494277,2025-10-25 14:00,Crawley Town,Bristol Rovers,4,0,,,
+61494279,2025-10-25 14:00,Crewe Alexandra,Grimsby Town,3,2,,,
+61494283,2025-10-25 14:00,Gillingham FC,Salford City,1,2,,,
+61494285,2025-10-25 14:00,Harrogate Town,Newport County,0,3,,,
+61494287,2025-10-25 14:00,Notts County,Cambridge United,2,0,,,
+61494289,2025-10-25 14:00,Oldham Athletic,Shrewsbury Town,2,2,,,
+61494291,2025-10-25 14:00,Swindon Town,Colchester United,0,0,,,
+61494293,2025-10-25 14:00,Tranmere Rovers FC,Chesterfield FC,1,1,,,
+63703615,2025-10-28 19:45,Accrington Stanley,Tranmere Rovers FC,1,1,,,
+61494305,2025-11-08 12:30,Colchester United,Bromley FC,0,2,,,
+61494309,2025-11-08 12:30,Crewe Alexandra,Shrewsbury Town,3,1,,,
+61494295,2025-11-08 15:00,Barnet FC,Milton Keynes Dons,2,2,,,
+61494297,2025-11-08 15:00,Barrow AFC,Grimsby Town,2,2,,,
+61494299,2025-11-08 15:00,Bristol Rovers,Gillingham FC,0,1,,,
+61494303,2025-11-08 15:00,Chesterfield FC,Accrington Stanley,3,3,,,
+61494307,2025-11-08 15:00,Crawley Town,Fleetwood Town,2,1,,,
+61494311,2025-11-08 15:00,Harrogate Town,Oldham Athletic,0,1,,,
+61494313,2025-11-08 15:00,Newport County,Walsall FC,2,4,,,
+61494315,2025-11-08 15:00,Salford City,Cambridge United,0,0,,,
+61494317,2025-11-08 15:00,Swindon Town,Tranmere Rovers FC,2,1,,,
+62819251,2025-11-10 20:00,Cheltenham Town,Notts County,1,2,,,
+61494319,2025-11-15 15:00,Accrington Stanley,Bristol Rovers,3,1,,,
+61494321,2025-11-15 15:00,Bromley FC,Barrow AFC,2,1,,,
+61494323,2025-11-15 15:00,Cambridge United,Barnet FC,0,0,,,
+61494325,2025-11-15 15:00,Fleetwood Town,Swindon Town,1,1,,,
+61494329,2025-11-15 15:00,Grimsby Town,Chesterfield FC,0,1,,,
+61494331,2025-11-15 15:00,Milton Keynes Dons,Salford City,2,0,,,
+61494333,2025-11-15 15:00,Notts County,Harrogate Town,1,1,,,
+61494335,2025-11-15 15:00,Oldham Athletic,Crewe Alexandra,0,0,,,
+61494337,2025-11-15 15:00,Shrewsbury Town,Newport County,1,0,,,
+61494339,2025-11-15 15:00,Tranmere Rovers FC,Cheltenham Town,3,2,,,
+61494341,2025-11-15 15:00,Walsall FC,Colchester United,0,2,,,
+61494327,2025-11-15 17:30,Gillingham FC,Crawley Town,2,2,,,
+61494355,2025-11-22 12:30,Gillingham FC,Barnet FC,1,1,,,
+61494357,2025-11-22 12:30,Harrogate Town,Walsall FC,0,2,,,
+61494343,2025-11-22 15:00,Barrow AFC,Cambridge United,0,2,,,
+61494345,2025-11-22 15:00,Bromley FC,Salford City,2,0,,,
+61494347,2025-11-22 15:00,Cheltenham Town,Bristol Rovers,1,0,,,
+61494349,2025-11-22 15:00,Crawley Town,Accrington Stanley,1,1,,,
+61494351,2025-11-22 15:00,Crewe Alexandra,Chesterfield FC,3,3,,,
+61494353,2025-11-22 15:00,Fleetwood Town,Shrewsbury Town,3,1,,,
+61494359,2025-11-22 15:00,Notts County,Colchester United,1,3,,,
+61494361,2025-11-22 15:00,Oldham Athletic,Newport County,3,0,,,
+61494363,2025-11-22 15:00,Swindon Town,Grimsby Town,2,2,,,
+61494365,2025-11-22 15:00,Tranmere Rovers FC,Milton Keynes Dons,2,2,,,
+61494379,2025-11-27 20:00,Grimsby Town,Tranmere Rovers FC,1,2,,,
+61494367,2025-11-29 12:30,Accrington Stanley,Oldham Athletic,1,0,,,
+61494381,2025-11-29 12:30,Milton Keynes Dons,Fleetwood Town,2,1,,,
+61494369,2025-11-29 15:00,Barnet FC,Harrogate Town,1,1,,,
+61494371,2025-11-29 15:00,Bristol Rovers,Notts County,0,1,,,
+61494373,2025-11-29 15:00,Cambridge United,Crewe Alexandra,2,1,,,
+61494375,2025-11-29 15:00,Chesterfield FC,Swindon Town,1,2,,,
+61494377,2025-11-29 15:00,Colchester United,Cheltenham Town,2,0,,,
+61494383,2025-11-29 15:00,Newport County,Barrow AFC,2,2,,,
+61494385,2025-11-29 15:00,Salford City,Crawley Town,4,3,,,
+61494387,2025-11-29 15:00,Shrewsbury Town,Gillingham FC,3,3,,,
+61494389,2025-11-29 15:00,Walsall FC,Bromley FC,3,1,,,
+61494399,2025-12-06 12:30,Colchester United,Gillingham FC,0,0,,,
+61494391,2025-12-09 19:45,Barnet FC,Bristol Rovers,4,0,1.615,3.750,5.000
+61494393,2025-12-09 19:45,Barrow AFC,Tranmere Rovers FC,0,3,2.625,3.000,2.750
+61494395,2025-12-09 19:45,Bromley FC,Crawley Town,3,1,1.850,3.750,3.750
+61494397,2025-12-09 19:45,Cambridge United,Chesterfield FC,1,1,2.000,3.100,3.900
+61494403,2025-12-09 19:45,Fleetwood Town,Salford City,1,1,3.100,3.600,2.150
+61494405,2025-12-09 19:45,Harrogate Town,Accrington Stanley,0,2,3.400,3.200,2.150
+61494407,2025-12-09 19:45,Notts County,Milton Keynes Dons,3,2,2.800,3.300,2.400
+61494411,2025-12-09 19:45,Shrewsbury Town,Grimsby Town,1,1,3.100,3.400,2.200
+61494413,2025-12-09 19:45,Swindon Town,Cheltenham Town,0,1,1.420,4.200,7.000
+61494401,2025-12-10 19:45,Crewe Alexandra,Newport County,2,2,1.550,4.000,5.500
+61494409,2025-12-10 19:45,Oldham Athletic,Walsall FC,0,1,2.625,3.000,2.800
+61494417,2025-12-13 12:30,Bristol Rovers,Swindon Town,0,3,2.875,3.500,2.250
+61494433,2025-12-13 12:30,Salford City,Colchester United,4,3,2.150,3.500,3.100
+61494415,2025-12-13 15:00,Accrington Stanley,Bromley FC,0,1,2.875,3.000,2.550
+61494419,2025-12-13 15:00,Cheltenham Town,Harrogate Town,1,1,1.950,3.400,3.700
+61494421,2025-12-13 15:00,Chesterfield FC,Barnet FC,3,1,3.200,3.400,2.150
+61494423,2025-12-13 15:00,Crawley Town,Oldham Athletic,2,2,2.500,3.300,2.700
+61494425,2025-12-13 15:00,Gillingham FC,Barrow AFC,2,2,1.900,3.300,4.100
+61494427,2025-12-13 15:00,Grimsby Town,Notts County,0,2,2.050,3.600,3.200
+61494429,2025-12-13 15:00,Milton Keynes Dons,Cambridge United,1,1,2.150,3.300,3.300
+61494431,2025-12-13 15:00,Newport County,Fleetwood Town,0,2,3.000,3.400,2.250
+61494435,2025-12-13 15:00,Tranmere Rovers FC,Crewe Alexandra,1,4,2.550,3.300,2.625
+61494437,2025-12-13 15:00,Walsall FC,Shrewsbury Town,1,1,1.833,3.400,4.333
+61494441,2025-12-19 19:45,Barrow AFC,Cheltenham Town,1,2,2.050,3.400,3.500
+61494445,2025-12-19 19:45,Cambridge United,Accrington Stanley,2,0,1.800,3.500,4.500
+61494449,2025-12-19 19:45,Crewe Alexandra,Bristol Rovers,1,1,1.900,3.400,4.000
+61494443,2025-12-20 12:30,Bromley FC,Grimsby Town,2,0,2.150,3.500,3.100
+61494455,2025-12-20 12:30,Notts County,Walsall FC,0,0,2.400,3.300,2.800
+61494439,2025-12-20 15:00,Barnet FC,Salford City,1,3,1.909,3.600,3.600
+61494447,2025-12-20 15:00,Colchester United,Newport County,4,1,1.420,4.500,6.250
+61494451,2025-12-20 15:00,Fleetwood Town,Gillingham FC,2,1,2.300,3.300,3.000
+61494453,2025-12-20 15:00,Harrogate Town,Milton Keynes Dons,0,4,5.250,4.100,1.571
+61494457,2025-12-20 15:00,Oldham Athletic,Tranmere Rovers FC,3,1,2.050,3.500,3.300
+61494459,2025-12-20 15:00,Shrewsbury Town,Chesterfield FC,0,1,2.700,3.300,2.500
+61494461,2025-12-20 15:00,Swindon Town,Crawley Town,1,0,1.666,4.000,4.500
+61494463,2025-12-26 15:00,Accrington Stanley,Barrow AFC,2,1,2.150,3.200,3.400
+61494465,2025-12-26 15:00,Bristol Rovers,Bromley FC,2,3,2.800,3.200,2.500
+61494467,2025-12-26 15:00,Cheltenham Town,Shrewsbury Town,3,1,2.700,3.400,2.450
+61494469,2025-12-26 15:00,Chesterfield FC,Notts County,2,0,2.700,3.250,2.500
+61494471,2025-12-26 15:00,Crawley Town,Colchester United,1,1,2.900,3.500,2.250
+61494473,2025-12-26 15:00,Gillingham FC,Cambridge United,1,1,2.800,3.000,2.625
+61494475,2025-12-26 15:00,Grimsby Town,Oldham Athletic,0,0,2.050,3.600,3.300
+61494477,2025-12-26 15:00,Milton Keynes Dons,Swindon Town,1,0,1.850,3.400,4.100
+61494479,2025-12-26 15:00,Newport County,Barnet FC,0,0,5.750,3.900,1.550
+61494481,2025-12-26 15:00,Salford City,Harrogate Town,1,0,1.300,5.000,9.000
+61494483,2025-12-26 15:00,Tranmere Rovers FC,Fleetwood Town,1,0,2.300,3.300,3.000
+61494485,2025-12-26 15:00,Walsall FC,Crewe Alexandra,1,0,2.000,3.400,3.500
+61494487,2025-12-29 19:30,Newport County,Crewe Alexandra,2,0,3.300,3.250,2.150
+61494489,2025-12-29 19:45,Accrington Stanley,Harrogate Town,1,0,1.666,3.600,5.000
+61494491,2025-12-29 19:45,Bristol Rovers,Barnet FC,0,2,3.200,3.400,2.150
+61494493,2025-12-29 19:45,Cheltenham Town,Swindon Town,0,2,3.400,3.400,2.050
+61494495,2025-12-29 19:45,Chesterfield FC,Cambridge United,0,1,2.600,3.100,2.700
+61494497,2025-12-29 19:45,Crawley Town,Bromley FC,1,3,3.000,3.250,2.300
+61494499,2025-12-29 19:45,Gillingham FC,Colchester United,1,1,2.700,3.200,2.600
+61494501,2025-12-29 19:45,Grimsby Town,Shrewsbury Town,1,0,1.750,3.700,4.200
+61494503,2025-12-29 19:45,Milton Keynes Dons,Notts County,1,1,1.833,3.500,4.100
+61494505,2025-12-29 19:45,Salford City,Fleetwood Town,0,0,1.750,3.600,4.200
+61494507,2025-12-29 19:45,Tranmere Rovers FC,Barrow AFC,1,3,1.950,3.300,3.800
+61494509,2025-12-29 19:45,Walsall FC,Oldham Athletic,1,2,2.000,3.200,3.900
+61494511,2026-01-01 15:00,Barnet FC,Crawley Town,2,1,1.615,4.000,4.750
+61494513,2026-01-01 15:00,Barrow AFC,Salford City,1,2,3.750,3.400,1.950
+61494515,2026-01-01 15:00,Bromley FC,Newport County,2,1,1.400,4.333,8.000
+61494517,2026-01-01 15:00,Cambridge United,Walsall FC,2,0,2.250,3.000,3.400
+61494519,2026-01-01 15:00,Colchester United,Milton Keynes Dons,1,0,2.625,3.250,2.625
+61494521,2026-01-01 15:00,Crewe Alexandra,Cheltenham Town,4,1,1.850,3.500,3.900
+61494523,2026-01-01 15:00,Fleetwood Town,Grimsby Town,0,1,2.700,3.300,2.500
+61494525,2026-01-01 15:00,Harrogate Town,Tranmere Rovers FC,0,2,3.500,3.400,2.000
+61494527,2026-01-01 15:00,Notts County,Accrington Stanley,0,1,1.750,3.600,4.500
+61494529,2026-01-01 15:00,Oldham Athletic,Chesterfield FC,1,1,2.200,3.250,3.200
+61494531,2026-01-01 15:00,Shrewsbury Town,Bristol Rovers,0,3,2.600,3.200,2.625
+61494533,2026-01-01 15:00,Swindon Town,Gillingham FC,2,0,2.100,3.250,3.500
+61494543,2026-01-04 12:00,Cheltenham Town,Crawley Town,3,0,2.750,3.400,2.450
+61494549,2026-01-04 12:00,Milton Keynes Dons,Chesterfield FC,2,2,1.800,3.500,4.500
+61494567,2026-01-10 15:00,Crewe Alexandra,Harrogate Town,1,1,1.480,4.200,6.500
+61494581,2026-01-10 15:00,Tranmere Rovers FC,Bromley FC,0,2,3.300,3.250,2.150
+61494587,2026-01-17 12:30,Chesterfield FC,Bromley FC,0,0,2.600,3.500,2.500
+61494605,2026-01-17 12:30,Tranmere Rovers FC,Walsall FC,1,3,2.900,3.200,2.500
+61494583,2026-01-17 15:00,Accrington Stanley,Milton Keynes Dons,0,2,3.000,3.500,2.200
+61494585,2026-01-17 15:00,Bristol Rovers,Colchester United,0,1,2.700,3.250,2.625
+61494589,2026-01-17 15:00,Crawley Town,Notts County,1,2,2.875,3.400,2.300
+61494591,2026-01-17 15:00,Crewe Alexandra,Barrow AFC,3,1,1.800,4.000,3.700
+61494593,2026-01-17 15:00,Fleetwood Town,Cambridge United,1,2,3.100,3.100,2.350
+61494595,2026-01-17 15:00,Gillingham FC,Newport County,3,2,1.600,4.000,5.500
+61494597,2026-01-17 15:00,Grimsby Town,Barnet FC,1,0,2.550,3.250,2.625
+61494599,2026-01-17 15:00,Oldham Athletic,Cheltenham Town,2,1,1.800,3.200,5.000
+61494601,2026-01-17 15:00,Shrewsbury Town,Harrogate Town,1,0,1.833,3.750,3.900
+61494603,2026-01-17 15:00,Swindon Town,Salford City,2,3,2.500,3.400,2.700
+61494607,2026-01-24 12:30,Barnet FC,Oldham Athletic,3,2,1.900,3.600,3.800
+61494625,2026-01-24 12:30,Notts County,Crewe Alexandra,1,0,1.950,3.500,3.600
+61494609,2026-01-24 15:00,Barrow AFC,Crawley Town,0,1,2.300,3.500,2.900
+61494611,2026-01-24 15:00,Bromley FC,Swindon Town,2,1,2.050,3.600,3.400
+61494613,2026-01-24 15:00,Cambridge United,Tranmere Rovers FC,4,2,1.700,3.700,5.250
+61494615,2026-01-24 15:00,Cheltenham Town,Grimsby Town,0,2,3.700,3.400,2.000
+61494617,2026-01-24 15:00,Colchester United,Fleetwood Town,2,1,1.750,3.600,4.333
+61494619,2026-01-24 15:00,Harrogate Town,Gillingham FC,0,3,4.500,3.600,1.750
+61494621,2026-01-24 15:00,Milton Keynes Dons,Shrewsbury Town,5,1,1.420,4.200,7.500
+61494623,2026-01-24 15:00,Newport County,Chesterfield FC,2,1,4.100,3.600,1.800
+61494627,2026-01-24 15:00,Salford City,Bristol Rovers,1,0,1.650,3.900,4.750
+61494629,2026-01-24 15:00,Walsall FC,Accrington Stanley,0,0,1.900,3.300,4.200
+61494631,2026-01-27 19:30,Newport County,Accrington Stanley,1,4,3.100,3.100,2.300
+61494633,2026-01-27 19:45,Barnet FC,Tranmere Rovers FC,1,0,1.571,4.000,5.500
+61494637,2026-01-27 19:45,Bromley FC,Crewe Alexandra,2,2,1.700,3.500,4.750
+61494639,2026-01-27 19:45,Cambridge United,Shrewsbury Town,1,0,1.550,3.500,7.000
+61494643,2026-01-27 19:45,Colchester United,Grimsby Town,0,1,2.350,3.100,3.100
+61494645,2026-01-27 19:45,Harrogate Town,Fleetwood Town,1,2,3.500,3.400,2.050
+61494647,2026-01-27 19:45,Milton Keynes Dons,Bristol Rovers,1,0,1.550,4.000,5.750
+61494649,2026-01-27 19:45,Notts County,Swindon Town,2,1,2.100,3.300,3.300
+61494651,2026-01-27 19:45,Salford City,Chesterfield FC,0,1,1.850,3.500,4.100
+61494653,2026-01-27 19:45,Walsall FC,Crawley Town,0,0,1.800,3.400,4.500
+61494657,2026-01-31 12:30,Bristol Rovers,Newport County,3,0,1.727,3.800,4.333
+61494669,2026-01-31 12:30,Grimsby Town,Milton Keynes Dons,2,2,2.625,3.400,2.500
+61494655,2026-01-31 15:00,Accrington Stanley,Cheltenham Town,3,1,1.909,3.400,4.000
+61494659,2026-01-31 15:00,Chesterfield FC,Walsall FC,2,2,2.200,3.250,3.250
+61494661,2026-01-31 15:00,Crawley Town,Harrogate Town,2,0,1.533,4.333,5.250
+61494663,2026-01-31 15:00,Crewe Alexandra,Colchester United,1,0,2.550,3.400,2.700
+61494665,2026-01-31 15:00,Fleetwood Town,Notts County,1,2,3.200,3.500,2.150
+61494667,2026-01-31 15:00,Gillingham FC,Bromley FC,1,4,2.500,3.200,2.900
+61494671,2026-01-31 15:00,Oldham Athletic,Cambridge United,0,3,2.750,3.000,2.700
+61494673,2026-01-31 15:00,Shrewsbury Town,Barnet FC,0,0,3.900,3.500,1.850
+61494675,2026-01-31 15:00,Swindon Town,Barrow AFC,3,1,1.727,3.700,4.500
+61494677,2026-01-31 15:00,Tranmere Rovers FC,Salford City,0,2,4.000,3.750,1.800
+66962690,2026-02-03 19:45,Bristol Rovers,Walsall FC,2,0,2.500,3.000,2.900
+67625186,2026-02-03 19:45,Harrogate Town,Swindon Town,0,1,4.500,3.800,1.700
+67625496,2026-02-03 19:45,Notts County,Gillingham FC,1,0,2.000,3.200,3.750
+68156094,2026-02-03 19:45,Barnet FC,Crewe Alexandra,1,1,1.571,3.900,5.500
+61494679,2026-02-05 20:00,Accrington Stanley,Salford City,1,0,,,
+61494687,2026-02-07 12:30,Crawley Town,Crewe Alexandra,0,1,,,
+61494699,2026-02-07 12:30,Swindon Town,Oldham Athletic,3,0,,,
+61494681,2026-02-07 15:00,Bristol Rovers,Chesterfield FC,2,3,,,
+61494683,2026-02-07 15:00,Cheltenham Town,Milton Keynes Dons,2,3,,,
+61494685,2026-02-07 15:00,Colchester United,Shrewsbury Town,2,0,,,
+61494689,2026-02-07 15:00,Fleetwood Town,Bromley FC,1,2,,,
+61494691,2026-02-07 15:00,Gillingham FC,Tranmere Rovers FC,2,1,,,
+61494693,2026-02-07 15:00,Harrogate Town,Cambridge United,2,1,,,
+61494695,2026-02-07 15:00,Newport County,Grimsby Town,0,0,,,
+61494697,2026-02-07 15:00,Notts County,Barrow AFC,2,1,,,
+61494701,2026-02-07 15:00,Walsall FC,Barnet FC,1,3,,,
+66963248,2026-02-10 19:45,Crawley Town,Cambridge United,0,3,3.200,3.400,2.150
+67466024,2026-02-10 19:45,Shrewsbury Town,Barrow AFC,2,1,2.250,3.250,3.000
+61494715,2026-02-11 19:45,Grimsby Town,Accrington Stanley,1,0,1.850,3.600,3.900
+67092582,2026-02-11 20:00,Swindon Town,Newport County,2,0,1.450,4.100,7.000
+61494703,2026-02-14 12:30,Barnet FC,Cheltenham Town,0,0,1.363,4.750,7.500
+61494705,2026-02-14 15:00,Barrow AFC,Colchester United,1,0,3.200,3.300,2.200
+61494707,2026-02-14 15:00,Bromley FC,Notts County,1,1,2.300,3.100,3.200
+61494709,2026-02-14 15:00,Cambridge United,Bristol Rovers,3,1,1.727,3.500,4.750
+61494711,2026-02-14 15:00,Chesterfield FC,Harrogate Town,1,1,1.480,4.500,5.750
+61494713,2026-02-14 15:00,Crewe Alexandra,Gillingham FC,1,0,2.450,3.200,2.800
+61494717,2026-02-14 15:00,Milton Keynes Dons,Newport County,1,0,1.333,5.250,8.000
+61494719,2026-02-14 15:00,Oldham Athletic,Fleetwood Town,1,1,2.000,3.300,3.700
+61494723,2026-02-14 15:00,Shrewsbury Town,Swindon Town,3,1,3.000,3.300,2.300
+61494725,2026-02-14 15:00,Tranmere Rovers FC,Crawley Town,2,0,2.200,3.400,3.000
+61494727,2026-02-17 19:45,Barnet FC,Swindon Town,1,2,1.750,3.750,4.333
+61494729,2026-02-17 19:45,Barrow AFC,Harrogate Town,0,1,1.800,3.300,4.500
+61494731,2026-02-17 19:45,Bromley FC,Cheltenham Town,1,1,1.550,3.800,6.250
+61494733,2026-02-17 19:45,Cambridge United,Colchester United,1,1,1.850,3.200,4.500
+61494735,2026-02-17 19:45,Chesterfield FC,Gillingham FC,1,0,2.200,3.300,3.100
+61494737,2026-02-17 19:45,Crewe Alexandra,Fleetwood Town,0,1,2.200,3.300,3.100
+61494741,2026-02-17 19:45,Milton Keynes Dons,Crawley Town,0,0,1.533,4.200,5.500
+61494743,2026-02-17 19:45,Oldham Athletic,Bristol Rovers,2,0,2.150,3.250,3.300
+61494745,2026-02-17 19:45,Salford City,Newport County,1,3,1.333,5.000,8.500
+61494747,2026-02-17 19:45,Shrewsbury Town,Notts County,1,0,3.100,3.250,2.250
+61494749,2026-02-17 19:45,Tranmere Rovers FC,Accrington Stanley,0,1,2.300,3.200,3.200
+61494739,2026-02-18 19:45,Grimsby Town,Walsall FC,2,2,1.850,3.400,4.200
+61494761,2026-02-21 12:30,Fleetwood Town,Barrow AFC,3,2,2.000,3.600,3.400
+61494771,2026-02-21 12:30,Swindon Town,Crewe Alexandra,1,2,1.950,3.500,3.600
+61494751,2026-02-21 15:00,Accrington Stanley,Shrewsbury Town,0,2,2.400,3.200,3.000
+61494753,2026-02-21 15:00,Bristol Rovers,Grimsby Town,3,1,3.100,3.400,2.250
+61494755,2026-02-21 15:00,Cheltenham Town,Salford City,3,2,4.100,3.800,1.750
+61494757,2026-02-21 15:00,Colchester United,Barnet FC,4,1,2.750,3.250,2.550
+61494759,2026-02-21 15:00,Crawley Town,Chesterfield FC,1,1,2.900,3.600,2.250
+61494763,2026-02-21 15:00,Gillingham FC,Oldham Athletic,0,3,2.200,3.200,3.300
+61494765,2026-02-21 15:00,Harrogate Town,Bromley FC,0,0,5.000,3.700,1.666
+61494767,2026-02-21 15:00,Newport County,Cambridge United,0,2,5.750,3.750,1.600
+61494769,2026-02-21 15:00,Notts County,Tranmere Rovers FC,5,0,1.666,3.600,5.250
+61494773,2026-02-23 20:00,Walsall FC,Milton Keynes Dons,0,2,3.500,3.200,2.100
+68153878,2026-02-24 19:45,Salford City,Shrewsbury Town,1,2,1.850,3.400,4.200
+68189180,2026-02-24 19:45,Accrington Stanley,Barnet FC,0,1,4.100,3.500,1.850
+61494789,2026-02-27 19:45,Harrogate Town,Cheltenham Town,1,1,2.450,3.200,2.875
+61494781,2026-02-28 12:30,Cambridge United,Milton Keynes Dons,1,1,2.375,3.100,3.100
+61494795,2026-02-28 12:30,Shrewsbury Town,Walsall FC,1,2,2.250,3.000,3.300
+61494797,2026-02-28 12:30,Swindon Town,Bristol Rovers,1,1,1.909,3.500,3.700
+61494775,2026-02-28 15:00,Barnet FC,Chesterfield FC,1,0,2.000,3.700,3.400
+61494777,2026-02-28 15:00,Barrow AFC,Gillingham FC,0,1,2.700,3.200,2.550
+61494779,2026-02-28 15:00,Bromley FC,Accrington Stanley,2,1,1.750,3.400,4.500
+61494783,2026-02-28 15:00,Colchester United,Salford City,0,1,2.150,3.400,3.100
+61494785,2026-02-28 15:00,Crewe Alexandra,Tranmere Rovers FC,2,1,1.850,3.500,3.900
+61494787,2026-02-28 15:00,Fleetwood Town,Newport County,0,0,1.666,3.800,4.750
+61494791,2026-02-28 15:00,Notts County,Grimsby Town,0,1,2.050,3.500,3.300
+61494793,2026-02-28 15:00,Oldham Athletic,Crawley Town,2,0,1.850,3.500,4.100
+67624794,2026-03-03 19:45,Bromley FC,Oldham Athletic,0,0,2.200,3.400,3.100
+67921616,2026-03-03 19:45,Walsall FC,Fleetwood Town,0,1,2.600,3.200,2.625
+68156014,2026-03-03 19:45,Grimsby Town,Salford City,3,1,2.350,3.300,2.900
+68189464,2026-03-03 19:45,Chesterfield FC,Colchester United,3,0,2.250,3.300,3.000
+68448220,2026-03-03 19:45,Newport County,Tranmere Rovers FC,3,1,2.600,3.200,2.700
+61494803,2026-03-06 19:45,Cheltenham Town,Barrow AFC,2,2,2.200,3.400,3.200
+61494811,2026-03-07 12:30,Grimsby Town,Bromley FC,1,1,1.900,3.500,3.800
+61494817,2026-03-07 12:30,Salford City,Barnet FC,2,0,2.625,3.300,2.550
+61494799,2026-03-07 15:00,Accrington Stanley,Cambridge United,1,1,4.750,3.300,1.800
+61494801,2026-03-07 15:00,Bristol Rovers,Crewe Alexandra,2,1,2.300,3.400,3.000
+61494805,2026-03-07 15:00,Chesterfield FC,Shrewsbury Town,2,3,1.750,3.500,4.333
+61494807,2026-03-07 15:00,Crawley Town,Swindon Town,2,2,3.100,3.500,2.150
+61494809,2026-03-07 15:00,Gillingham FC,Fleetwood Town,1,1,2.200,3.100,3.400
+61494813,2026-03-07 15:00,Milton Keynes Dons,Harrogate Town,4,1,1.380,4.333,8.000
+61494815,2026-03-07 15:00,Newport County,Colchester United,1,2,4.200,3.400,1.833
+61494819,2026-03-07 15:00,Tranmere Rovers FC,Oldham Athletic,1,3,3.600,3.400,2.000
+61494821,2026-03-07 15:00,Walsall FC,Notts County,1,2,3.100,3.100,2.350
+67624956,2026-03-10 19:45,Barrow AFC,Bristol Rovers,0,2,,,
+67799902,2026-03-10 19:45,Gillingham FC,Milton Keynes Dons,1,5,,,
+67921612,2026-03-10 19:45,Fleetwood Town,Cheltenham Town,2,2,,,
+68450708,2026-03-10 19:45,Salford City,Walsall FC,1,0,,,
+61494831,2026-03-13 19:45,Colchester United,Crawley Town,0,0,,,
+61494837,2026-03-14 12:30,Harrogate Town,Salford City,0,1,,,
+61494839,2026-03-14 12:30,Notts County,Chesterfield FC,2,3,,,
+61494823,2026-03-14 15:00,Barnet FC,Newport County,1,2,,,
+61494825,2026-03-14 15:00,Barrow AFC,Accrington Stanley,0,0,,,
+61494827,2026-03-14 15:00,Bromley FC,Bristol Rovers,1,0,,,
+61494829,2026-03-14 15:00,Cambridge United,Gillingham FC,5,0,,,
+61494833,2026-03-14 15:00,Crewe Alexandra,Walsall FC,0,3,,,
+61494835,2026-03-14 15:00,Fleetwood Town,Tranmere Rovers FC,0,0,,,
+61494841,2026-03-14 15:00,Oldham Athletic,Grimsby Town,1,0,,,
+61494843,2026-03-14 15:00,Shrewsbury Town,Cheltenham Town,0,2,,,
+61494845,2026-03-14 15:00,Swindon Town,Milton Keynes Dons,1,2,,,
+61494847,2026-03-17 19:30,Newport County,Bromley FC,0,1,,,
+61494849,2026-03-17 19:45,Accrington Stanley,Notts County,0,4,,,
+61494851,2026-03-17 19:45,Bristol Rovers,Shrewsbury Town,1,0,,,
+61494853,2026-03-17 19:45,Cheltenham Town,Crewe Alexandra,1,1,,,
+61494855,2026-03-17 19:45,Chesterfield FC,Oldham Athletic,0,3,,,
+61494857,2026-03-17 19:45,Crawley Town,Barnet FC,1,1,,,
+61494859,2026-03-17 19:45,Gillingham FC,Swindon Town,0,2,,,
+61494861,2026-03-17 19:45,Grimsby Town,Fleetwood Town,1,0,,,
+61494865,2026-03-17 19:45,Salford City,Barrow AFC,3,1,,,
+61494867,2026-03-17 19:45,Tranmere Rovers FC,Harrogate Town,0,3,,,
+61494869,2026-03-17 19:45,Walsall FC,Cambridge United,0,0,,,
+61494863,2026-03-18 20:00,Milton Keynes Dons,Colchester United,1,0,,,
+61494875,2026-03-21 12:30,Cambridge United,Salford City,1,0,,,
+61494883,2026-03-21 12:30,Milton Keynes Dons,Barnet FC,1,3,,,
+61494871,2026-03-21 15:00,Accrington Stanley,Chesterfield FC,0,1,,,
+61494873,2026-03-21 15:00,Bromley FC,Colchester United,1,0,,,
+61494877,2026-03-21 15:00,Fleetwood Town,Crawley Town,1,0,,,
+61494879,2026-03-21 15:00,Gillingham FC,Bristol Rovers,1,2,,,
+61494881,2026-03-21 15:00,Grimsby Town,Barrow AFC,5,0,,,
+61494885,2026-03-21 15:00,Notts County,Cheltenham Town,5,2,,,
+61494887,2026-03-21 15:00,Oldham Athletic,Harrogate Town,1,0,,,
+61494889,2026-03-21 15:00,Shrewsbury Town,Crewe Alexandra,0,4,,,
+61494891,2026-03-21 15:00,Tranmere Rovers FC,Swindon Town,0,1,,,
+61494893,2026-03-21 15:00,Walsall FC,Newport County,2,1,,,
+67921614,2026-03-24 19:45,Oldham Athletic,Notts County,3,0,,,
+61494911,2026-03-28 12:30,Harrogate Town,Notts County,0,2,,,
+61494895,2026-03-28 15:00,Barnet FC,Cambridge United,1,0,,,
+61494897,2026-03-28 15:00,Barrow AFC,Bromley FC,2,1,,,
+61494899,2026-03-28 15:00,Bristol Rovers,Accrington Stanley,2,0,,,
+61494905,2026-03-28 15:00,Colchester United,Walsall FC,1,1,,,
+61494907,2026-03-28 15:00,Crawley Town,Gillingham FC,2,0,,,
+61494909,2026-03-28 15:00,Crewe Alexandra,Oldham Athletic,2,1,,,
+61494913,2026-03-28 15:00,Newport County,Shrewsbury Town,1,0,,,
+61494915,2026-03-28 15:00,Salford City,Milton Keynes Dons,1,0,,,
+61494917,2026-03-28 15:00,Swindon Town,Fleetwood Town,1,1,,,
+61494925,2026-04-02 19:00,Cambridge United,Swindon Town,1,1,1.666,3.400,5.250
+61494919,2026-04-03 14:00,Accrington Stanley,Crewe Alexandra,2,0,3.800,3.400,1.950
+61494921,2026-04-03 14:00,Barnet FC,Bromley FC,2,2,1.950,3.400,3.900
+61494923,2026-04-03 14:00,Bristol Rovers,Fleetwood Town,1,0,2.300,3.200,3.100
+61494927,2026-04-03 14:00,Chesterfield FC,Cheltenham Town,1,0,1.550,3.900,6.000
+61494929,2026-04-03 14:00,Colchester United,Oldham Athletic,1,3,2.400,3.400,2.750
+61494931,2026-04-03 14:00,Grimsby Town,Harrogate Town,1,3,1.533,4.100,5.750
+61494933,2026-04-03 14:00,Milton Keynes Dons,Barrow AFC,0,0,1.420,4.200,7.500
+61494935,2026-04-03 14:00,Newport County,Crawley Town,0,2,2.450,3.400,2.750
+61494937,2026-04-03 14:00,Salford City,Notts County,2,1,2.300,3.400,3.000
+61494939,2026-04-03 14:00,Shrewsbury Town,Tranmere Rovers FC,1,0,2.300,3.200,3.200
+61494941,2026-04-03 14:00,Walsall FC,Gillingham FC,2,2,1.700,3.600,5.000
+61494943,2026-04-06 14:00,Barrow AFC,Chesterfield FC,0,1,3.400,3.250,2.100
+61494947,2026-04-06 14:00,Cheltenham Town,Cambridge United,1,1,6.250,3.400,1.615
+61494949,2026-04-06 14:00,Crawley Town,Grimsby Town,0,2,3.500,3.300,2.050
+61494951,2026-04-06 14:00,Crewe Alexandra,Salford City,1,0,3.200,3.300,2.150
+61494953,2026-04-06 14:00,Fleetwood Town,Barnet FC,2,5,2.750,3.250,2.500
+61494955,2026-04-06 14:00,Gillingham FC,Accrington Stanley,2,0,2.100,3.200,3.500
+61494957,2026-04-06 14:00,Harrogate Town,Bristol Rovers,2,3,2.450,3.200,2.800
+61494959,2026-04-06 14:00,Oldham Athletic,Milton Keynes Dons,1,1,3.000,3.200,2.350
+61494961,2026-04-06 14:00,Swindon Town,Walsall FC,2,1,2.150,3.300,3.200
+61494963,2026-04-06 14:00,Tranmere Rovers FC,Colchester United,0,1,3.200,3.300,2.200
+61494965,2026-04-06 14:00,Notts County,Newport County,3,1,1.571,3.800,5.750
+61494945,2026-04-07 19:00,Bromley FC,Shrewsbury Town,2,1,1.500,4.100,6.250
+61494979,2026-04-10 18:45,Colchester United,Swindon Town,3,0,2.200,3.400,2.700
+61494967,2026-04-11 11:30,Milton Keynes Dons,Bromley FC,2,1,1.750,3.300,5.000
+61494985,2026-04-11 11:30,Bristol Rovers,Crawley Town,3,1,1.850,3.400,4.200
+61494969,2026-04-11 14:00,Walsall FC,Cheltenham Town,0,4,1.727,3.400,5.000
+61494971,2026-04-11 14:00,Shrewsbury Town,Oldham Athletic,1,0,3.900,3.300,1.950
+61494973,2026-04-11 14:00,Salford City,Gillingham FC,0,0,1.533,3.900,6.250
+61494975,2026-04-11 14:00,Newport County,Harrogate Town,2,1,2.250,3.200,3.200
+61494977,2026-04-11 14:00,Grimsby Town,Crewe Alexandra,3,2,1.900,3.600,3.700
+61494981,2026-04-11 14:00,Chesterfield FC,Tranmere Rovers FC,1,1,1.450,4.200,7.000
+61494983,2026-04-11 14:00,Cambridge United,Notts County,4,0,1.800,3.200,4.750
+61494987,2026-04-11 14:00,Barnet FC,Barrow AFC,3,2,1.533,3.800,6.250
+61494989,2026-04-11 14:00,Accrington Stanley,Fleetwood Town,1,2,3.300,3.200,2.200
+68189434,2026-04-14 18:45,Colchester United,Accrington Stanley,2,1,1.571,3.800,5.500
+68840648,2026-04-14 18:45,Barrow AFC,Oldham Athletic,3,2,3.600,3.100,2.150
+69140996,2026-04-14 18:45,Cheltenham Town,Gillingham FC,2,1,2.700,3.100,2.600
+70165956,2026-04-14 18:45,Chesterfield FC,Grimsby Town,2,1,2.550,3.200,2.700
+61495009,2026-04-16 19:00,Bromley FC,Cambridge United,0,0,3.400,3.100,2.200
+61494991,2026-04-18 11:30,Swindon Town,Accrington Stanley,2,2,1.666,3.750,4.750
+61495011,2026-04-18 11:30,Barrow AFC,Walsall FC,1,3,2.500,3.100,2.875
+61494993,2026-04-18 14:00,Tranmere Rovers FC,Bristol Rovers,1,2,2.800,3.400,2.350
+61494995,2026-04-18 14:00,Oldham Athletic,Salford City,1,2,3.250,3.300,2.150
+61494997,2026-04-18 14:00,Notts County,Barnet FC,1,2,2.700,3.300,2.550
+61494999,2026-04-18 14:00,Harrogate Town,Colchester United,1,0,3.200,3.300,2.150
+61495001,2026-04-18 14:00,Gillingham FC,Grimsby Town,1,4,3.800,3.300,1.950
+61495003,2026-04-18 14:00,Crewe Alexandra,Milton Keynes Dons,1,3,3.500,3.600,2.050
+61495005,2026-04-18 14:00,Crawley Town,Shrewsbury Town,0,0,1.850,3.300,4.200
+61495007,2026-04-18 14:00,Cheltenham Town,Newport County,1,0,2.400,3.000,3.000
+61495013,2026-04-18 14:00,Fleetwood Town,Chesterfield FC,1,1,3.300,3.250,2.150
+70100958,2026-04-21 18:45,Cheltenham Town,Tranmere Rovers FC,1,3,2.600,3.200,2.625
+70241646,2026-04-21 18:45,Cambridge United,Grimsby Town,1,2,1.850,3.400,4.000
+61495015,2026-04-23 19:00,Salford City,Bromley FC,2,0,1.900,3.700,3.700
+61495023,2026-04-25 11:30,Milton Keynes Dons,Tranmere Rovers FC,3,0,1.400,4.500,7.500
+61495025,2026-04-25 11:30,Grimsby Town,Swindon Town,4,0,1.700,3.800,4.333
+61495017,2026-04-25 14:00,Walsall FC,Harrogate Town,0,2,2.000,3.700,3.300
+61495019,2026-04-25 14:00,Shrewsbury Town,Fleetwood Town,2,2,3.300,3.100,2.250
+61495021,2026-04-25 14:00,Newport County,Oldham Athletic,3,2,2.300,3.600,2.750
+61495027,2026-04-25 14:00,Chesterfield FC,Crewe Alexandra,2,0,1.533,4.333,5.000
+61495029,2026-04-25 14:00,Cambridge United,Barrow AFC,3,0,1.333,4.500,11.000
+61495031,2026-04-25 14:00,Bristol Rovers,Cheltenham Town,4,0,1.666,3.900,4.750
+61495033,2026-04-25 14:00,Barnet FC,Gillingham FC,6,2,1.380,5.250,6.250
+61495035,2026-04-25 14:00,Accrington Stanley,Crawley Town,3,3,2.800,3.300,2.450
+61495037,2026-04-25 14:00,Colchester United,Notts County,0,1,2.800,3.500,2.300
+61495039,2026-05-02 14:00,Tranmere Rovers FC,Grimsby Town,1,1,3.100,3.400,2.100
+61495041,2026-05-02 14:00,Swindon Town,Chesterfield FC,1,2,3.200,3.700,2.050
+61495043,2026-05-02 14:00,Oldham Athletic,Accrington Stanley,3,0,1.950,4.000,3.300
+61495045,2026-05-02 14:00,Notts County,Bristol Rovers,1,1,1.700,4.333,4.000
+61495047,2026-05-02 14:00,Harrogate Town,Barnet FC,1,2,2.700,3.600,2.350
+61495049,2026-05-02 14:00,Gillingham FC,Shrewsbury Town,1,0,1.850,3.600,4.000
+61495051,2026-05-02 14:00,Fleetwood Town,Milton Keynes Dons,1,1,3.900,3.900,1.800
+61495053,2026-05-02 14:00,Crewe Alexandra,Cambridge United,0,0,6.500,4.200,1.480
+61495055,2026-05-02 14:00,Crawley Town,Salford City,0,0,3.900,3.600,1.850
+61495057,2026-05-02 14:00,Cheltenham Town,Colchester United,1,4,3.000,3.600,2.150
+61495059,2026-05-02 14:00,Bromley FC,Walsall FC,3,1,1.571,4.500,4.750
+61495061,2026-05-02 14:00,Barrow AFC,Newport County,1,2,2.800,3.300,2.450
+71242318,2026-05-10 14:00,Grimsby Town,Salford City,1,2,2.350,3.100,3.100
+71242314,2026-05-10 17:00,Chesterfield FC,Notts County,0,1,2.250,3.100,3.250
+71242320,2026-05-15 18:15,Salford City,Grimsby Town,1,2,2.200,3.250,3.200
+71242316,2026-05-15 19:00,Notts County,Chesterfield FC,0,0,2.300,3.100,3.100
+71532956,2026-05-25 14:00,Notts County,Salford City,3,0,3.200,2.900,2.500
+72341724,2026-08-15 11:30,Newport County,Rochdale AFC,3,0,3.000,3.400,2.250
+72341728,2026-08-15 11:30,Oldham Athletic,Port Vale,2,0,2.300,3.200,3.000
+72341732,2026-08-15 14:00,Accrington Stanley,Colchester United,2,2,2.875,3.200,2.450
+72341736,2026-08-15 14:00,Barnet FC,Salford City,3,1,2.250,3.250,3.100
+72341740,2026-08-15 14:00,Cheltenham Town,Rotherham United,2,1,2.625,3.200,2.625
+72341744,2026-08-15 14:00,Chesterfield FC,Fleetwood Town,0,1,1.750,3.500,4.500
+72341748,2026-08-15 14:00,Crawley Town,Crewe Alexandra,0,1,3.100,3.300,2.250
+72341752,2026-08-15 14:00,Gillingham FC,Walsall FC,0,3,2.375,3.200,3.100
+72341756,2026-08-15 14:00,Grimsby Town,Exeter City,1,0,1.700,3.700,4.750
+72341760,2026-08-15 14:00,Northampton Town,Swindon Town,0,0,2.250,3.400,3.100
+72341764,2026-08-15 14:00,Tranmere Rovers FC,Shrewsbury Town,2,0,2.100,3.300,3.400
+72341768,2026-08-15 14:00,York City FC,Bristol Rovers,3,2,2.250,3.200,3.250
+72341772,2026-08-22 11:30,Bristol Rovers,Newport County,5,3,1.700,3.500,5.000
+72341804,2026-08-22 11:30,Salford City,Chesterfield FC,0,1,1.950,3.250,3.800
+72341814,2026-08-22 11:30,Walsall FC,Grimsby Town,0,0,2.900,3.300,2.300
+72341776,2026-08-22 14:00,Colchester United,Oldham Athletic,2,1,2.600,3.400,2.600
+72341780,2026-08-22 14:00,Crewe Alexandra,Northampton Town,1,0,2.150,3.400,3.200
+72341784,2026-08-22 14:00,Exeter City,Accrington Stanley,2,0,2.000,3.300,3.700
+72341788,2026-08-22 14:00,Fleetwood Town,Gillingham FC,0,0,1.900,3.500,3.900
+72341792,2026-08-22 14:00,Port Vale,Tranmere Rovers FC,1,1,1.909,3.300,4.000
+72341796,2026-08-22 14:00,Rochdale AFC,Crawley Town,1,2,1.833,3.500,4.100
+72341800,2026-08-22 14:00,Rotherham United,York City FC,1,1,2.800,3.250,2.400
+72341808,2026-08-22 14:00,Shrewsbury Town,Barnet FC,1,3,3.900,3.300,1.950
+72341810,2026-08-22 14:00,Swindon Town,Cheltenham Town,2,1,1.950,3.500,3.700
+72341818,2026-08-29 11:30,Barnet FC,Cheltenham Town,2,2,1.533,4.000,5.750
+72341846,2026-08-29 11:30,Port Vale,Crewe Alexandra,0,0,2.250,3.250,3.200
+72341850,2026-08-29 12:00,Rotherham United,Chesterfield FC,2,1,3.300,3.400,2.100
+72341822,2026-08-29 14:00,Colchester United,Rochdale AFC,1,0,1.909,3.500,3.750
+72341826,2026-08-29 14:00,Crawley Town,Bristol Rovers,0,2,4.500,3.800,1.700
+72341830,2026-08-29 14:00,Gillingham FC,Northampton Town,1,1,2.900,3.300,2.350
+72341834,2026-08-29 14:00,Grimsby Town,Fleetwood Town,2,2,1.900,3.500,3.900
+72341838,2026-08-29 14:00,Newport County,Tranmere Rovers FC,2,2,2.900,3.200,2.375
+72341842,2026-08-29 14:00,Oldham Athletic,Swindon Town,3,0,1.800,3.700,4.200
+72341854,2026-08-29 14:00,Shrewsbury Town,Salford City,1,0,3.600,3.400,1.950
+72341856,2026-08-29 14:00,Walsall FC,Accrington Stanley,3,2,2.050,3.300,3.500
+72341860,2026-08-29 14:00,York City FC,Exeter City,2,1,1.615,3.900,5.000
+72341864,2026-09-01 18:45,Accrington Stanley,Grimsby Town,2,2,3.500,3.500,2.000
+72341868,2026-09-01 18:45,Bristol Rovers,Colchester United,2,0,1.850,3.600,3.800
+72341872,2026-09-01 18:45,Cheltenham Town,York City FC,3,2,3.500,3.500,1.950
+72341876,2026-09-01 18:45,Chesterfield FC,Gillingham FC,1,1,1.571,3.800,5.750
+72341880,2026-09-01 18:45,Crewe Alexandra,Walsall FC,2,2,2.300,3.300,2.900
+72341884,2026-09-01 18:45,Exeter City,Barnet FC,1,1,3.000,3.400,2.250
+72341888,2026-09-01 18:45,Fleetwood Town,Oldham Athletic,1,1,2.800,3.200,2.450
+72341892,2026-09-01 18:45,Northampton Town,Crawley Town,1,1,1.615,3.750,5.000
+72341896,2026-09-01 18:45,Rochdale AFC,Shrewsbury Town,3,0,2.250,3.200,3.100
+72341900,2026-09-01 18:45,Salford City,Newport County,2,1,1.420,4.500,7.000
+72341904,2026-09-01 18:45,Swindon Town,Port Vale,3,1,3.000,3.400,2.200
+72341906,2026-09-01 18:45,Tranmere Rovers FC,Rotherham United,2,2,2.250,3.200,3.100
+72341934,2026-09-05 11:30,Fleetwood Town,Shrewsbury Town,2,0,1.900,3.300,4.000
+72341946,2026-09-05 11:30,Salford City,Port Vale,1,0,1.833,3.800,3.900
+72341910,2026-09-05 14:00,Accrington Stanley,Crawley Town,3,2,2.000,3.500,3.300
+72341914,2026-09-05 14:00,Bristol Rovers,Rotherham United,1,0,1.600,4.100,4.750
+72341918,2026-09-05 14:00,Cheltenham Town,Grimsby Town,2,2,3.100,3.400,2.200
+72341922,2026-09-05 14:00,Chesterfield FC,Barnet FC,3,3,2.150,3.400,3.250
+72341926,2026-09-05 14:00,Crewe Alexandra,York City FC,1,1,2.900,3.300,2.350
+72341930,2026-09-05 14:00,Exeter City,Walsall FC,0,0,2.375,3.250,2.900
+72341938,2026-09-05 14:00,Northampton Town,Newport County,1,0,1.727,3.600,4.500
+72341942,2026-09-05 14:00,Rochdale AFC,Gillingham FC,1,4,2.100,3.200,3.500
+72341948,2026-09-05 14:00,Swindon Town,Colchester United,3,1,2.750,3.300,2.450
+72341952,2026-09-05 14:00,Tranmere Rovers FC,Oldham Athletic,2,0,3.200,3.250,2.200
+72341964,2026-09-12 11:30,Crawley Town,Cheltenham Town,1,3,2.700,3.500,2.375
+72341972,2026-09-12 11:30,Grimsby Town,Bristol Rovers,2,0,2.250,3.400,3.000
+72341956,2026-09-12 14:00,Barnet FC,Accrington Stanley,2,1,1.550,4.000,5.750
+72341960,2026-09-12 14:00,Colchester United,Crewe Alexandra,1,1,2.100,3.500,3.200
+72341968,2026-09-12 14:00,Gillingham FC,Tranmere Rovers FC,2,0,2.625,3.100,2.700
+72341976,2026-09-12 14:00,Newport County,Fleetwood Town,1,1,3.100,3.250,2.250
+72341980,2026-09-12 14:00,Oldham Athletic,Chesterfield FC,1,2,2.150,3.400,3.100
+72341984,2026-09-12 14:00,Port Vale,Exeter City,1,0,1.909,3.300,4.000
+72341988,2026-09-12 14:00,Rotherham United,Salford City,3,3,3.400,3.600,2.000
+72341992,2026-09-12 14:00,Shrewsbury Town,Northampton Town,2,0,2.625,3.000,2.750
+72341996,2026-09-12 14:00,Walsall FC,Rochdale AFC,0,0,1.750,3.750,4.200
+72342000,2026-09-12 14:00,York City FC,Swindon Town,4,0,1.571,4.100,5.000
+72342038,2026-09-19 11:30,Rochdale AFC,Oldham Athletic,2,0,3.600,3.300,2.000
+72342046,2026-09-19 11:30,Walsall FC,Port Vale,2,0,2.600,3.300,2.600
+72342004,2026-09-19 14:00,Accrington Stanley,Newport County,0,0,,,
+72342008,2026-09-19 14:00,Barnet FC,Fleetwood Town,3,1,,,
+72342010,2026-09-19 14:00,Chesterfield FC,York City FC,2,0,,,
+72342014,2026-09-19 14:00,Colchester United,Cheltenham Town,1,1,,,
+72342018,2026-09-19 14:00,Crewe Alexandra,Shrewsbury Town,1,1,,,
+72342022,2026-09-19 14:00,Exeter City,Tranmere Rovers FC,0,0,,,
+72342026,2026-09-19 14:00,Gillingham FC,Bristol Rovers,3,0,,,
+72342030,2026-09-19 14:00,Grimsby Town,Crawley Town,2,0,,,
+72342034,2026-09-19 14:00,Northampton Town,Rotherham United,0,1,,,
+72342042,2026-09-19 14:00,Salford City,Swindon Town,1,0,,,
+72342048,2026-09-26 14:00,Bristol Rovers,Exeter City,1,0,1.727,3.500,4.750
+72342052,2026-09-26 14:00,Cheltenham Town,Chesterfield FC,2,1,3.100,3.600,2.100
+72342060,2026-09-26 14:00,Fleetwood Town,Rochdale AFC,1,2,1.909,3.600,3.600
+72342064,2026-09-26 14:00,Newport County,Grimsby Town,2,1,3.900,3.500,1.850
+72342076,2026-09-26 14:00,Rotherham United,Crewe Alexandra,1,1,2.100,3.500,3.200
+72342080,2026-09-26 14:00,Shrewsbury Town,Colchester United,2,2,2.400,3.300,2.800
+72342084,2026-09-26 14:00,Swindon Town,Accrington Stanley,1,1,2.200,3.400,3.000
+72342086,2026-09-26 14:00,Tranmere Rovers FC,Walsall FC,1,1,2.200,3.700,2.875
+72342090,2026-09-26 14:00,York City FC,Gillingham FC,3,0,1.615,4.000,4.750
+72342068,2026-09-26 16:30,Oldham Athletic,Salford City,1,4,2.700,3.500,2.400
+72342102,2026-10-03 11:30,Chesterfield FC,Tranmere Rovers FC,4,2,1.615,4.100,4.750
+72342094,2026-10-03 14:00,Accrington Stanley,Cheltenham Town,2,0,2.600,3.250,2.600
+72342110,2026-10-03 14:00,Crewe Alexandra,Bristol Rovers,3,1,3.000,3.300,2.250
+72342114,2026-10-03 14:00,Exeter City,Rotherham United,1,0,2.500,3.300,2.750
+72342118,2026-10-03 14:00,Gillingham FC,Newport County,0,0,1.950,3.500,3.700
+72342122,2026-10-03 14:00,Grimsby Town,Shrewsbury Town,1,2,1.650,3.900,4.750
+72342130,2026-10-03 14:00,Rochdale AFC,Swindon Town,1,0,2.150,3.600,3.000
+72342132,2026-10-03 14:00,Salford City,Fleetwood Town,1,0,1.615,3.800,5.250
+72342160,2026-10-10 11:30,Oldham Athletic,Accrington Stanley,0,0,1.800,3.400,4.500
+72342176,2026-10-10 11:30,Swindon Town,Crewe Alexandra,0,1,2.500,3.400,2.600
+72342140,2026-10-10 14:00,Bristol Rovers,Barnet FC,1,3,2.200,3.500,3.000
+72342144,2026-10-10 14:00,Cheltenham Town,Salford City,0,2,5.250,3.800,1.615
+72342148,2026-10-10 14:00,Crawley Town,Chesterfield FC,2,2,4.500,3.900,1.666
+72342152,2026-10-10 14:00,Fleetwood Town,Walsall FC,1,1,2.150,3.400,3.200
+72342156,2026-10-10 14:00,Newport County,Colchester United,1,0,2.375,3.400,2.800
+72342164,2026-10-10 14:00,Port Vale,Grimsby Town,1,0,2.800,3.200,2.500
+72342168,2026-10-10 14:00,Rotherham United,Gillingham FC,1,4,2.000,3.300,3.600
+72342172,2026-10-10 14:00,Shrewsbury Town,Exeter City,0,1,2.100,3.100,3.600
+72342180,2026-10-10 14:00,Tranmere Rovers FC,Rochdale AFC,1,1,2.000,3.400,3.600
+72342184,2026-10-10 14:00,York City FC,Northampton Town,1,1,1.650,3.700,5.250
+72342198,2026-10-17 11:30,Fleetwood Town,Rotherham United,2,0,2.200,3.300,3.200
+72342222,2026-10-17 11:30,Shrewsbury Town,Bristol Rovers,1,0,3.100,3.250,2.250
+72342186,2026-10-17 14:00,Accrington Stanley,Gillingham FC,3,1,2.200,3.200,3.250
+72342190,2026-10-17 14:00,Colchester United,Exeter City,0,0,2.250,3.200,3.250
+72342194,2026-10-17 14:00,Crewe Alexandra,Rochdale AFC,3,2,1.909,3.600,3.750
+72342202,2026-10-17 14:00,Grimsby Town,Northampton Town,0,2,1.850,3.400,4.200
+72342206,2026-10-17 14:00,Newport County,York City FC,1,1,3.200,3.500,2.150
+72342210,2026-10-17 14:00,Oldham Athletic,Cheltenham Town,4,1,1.700,3.800,4.500
+72342214,2026-10-17 14:00,Port Vale,Chesterfield FC,1,0,3.000,3.250,2.300
+72342218,2026-10-17 14:00,Salford City,Crawley Town,2,1,1.400,4.750,6.500
+72342226,2026-10-17 14:00,Swindon Town,Walsall FC,1,1,2.700,3.400,2.450
+72342228,2026-10-17 14:00,Tranmere Rovers FC,Barnet FC,1,2,2.900,3.500,2.300
+72342232,2026-10-20 18:45,Barnet FC,Swindon Town,1,3,1.480,4.200,6.250
+72342236,2026-10-20 18:45,Bristol Rovers,Salford City,1,2,3.000,3.200,2.400
+72342240,2026-10-20 18:45,Cheltenham Town,Fleetwood Town,4,2,3.100,3.400,2.150
+72342244,2026-10-20 18:45,Chesterfield FC,Colchester United,1,1,1.500,4.200,5.750
+72342248,2026-10-20 18:45,Crawley Town,Shrewsbury Town,2,3,2.625,3.250,2.625
+72342252,2026-10-20 18:45,Exeter City,Crewe Alexandra,2,0,2.500,3.300,2.625
+72342260,2026-10-20 18:45,Northampton Town,Tranmere Rovers FC,0,1,2.150,3.300,3.300
+72342264,2026-10-20 18:45,Rochdale AFC,Grimsby Town,2,2,3.300,3.600,2.000
+72342268,2026-10-20 18:45,Rotherham United,Newport County,2,2,2.100,3.400,3.300
+72342272,2026-10-20 18:45,Walsall FC,Oldham Athletic,3,0,2.600,3.400,2.500
+72342276,2026-10-20 18:45,York City FC,Accrington Stanley,1,1,1.550,4.333,5.250
+72342256,2026-10-20 19:00,Gillingham FC,Port Vale,1,1,3.400,3.100,2.150
+72342284,2026-10-24 11:30,Bristol Rovers,Swindon Town,0,0,1.615,4.000,4.750
+72342288,2026-10-24 11:30,Cheltenham Town,Newport County,1,0,2.600,3.200,2.625
+72342306,2026-10-24 11:30,Northampton Town,Colchester United,2,0,2.000,3.250,3.700
+72342280,2026-10-24 14:00,Barnet FC,Oldham Athletic,1,1,1.850,3.700,3.800
+72342290,2026-10-24 14:00,Chesterfield FC,Crewe Alexandra,5,1,1.750,3.500,4.500
+72342294,2026-10-24 14:00,Crawley Town,Tranmere Rovers FC,1,1,2.700,3.200,2.550
+72342298,2026-10-24 14:00,Exeter City,Fleetwood Town,2,1,2.450,3.100,2.875
+72342302,2026-10-24 14:00,Gillingham FC,Grimsby Town,1,4,3.400,3.400,2.100
+72342310,2026-10-24 14:00,Rochdale AFC,Accrington Stanley,0,5,2.800,3.400,2.300
+72342314,2026-10-24 14:00,Rotherham United,Shrewsbury Town,3,3,2.375,3.200,2.900
+72342322,2026-10-24 14:00,York City FC,Port Vale,2,0,2.000,3.400,3.700
+73323782,2026-10-26 20:00,Walsall FC,Salford City,2,4,3.400,3.400,2.050
+75089542,2026-10-27 19:45,Barnet FC,York City FC,3,1,2.150,3.500,3.000
+72342344,2026-10-30 19:45,Newport County,Chesterfield FC,4,1,4.333,3.500,1.800
+72342340,2026-10-31 12:30,Grimsby Town,York City FC,5,2,2.250,3.750,2.875
+72342348,2026-10-31 12:30,Port Vale,Rochdale AFC,4,2,1.571,3.800,5.500
+72342326,2026-10-31 15:00,Accrington Stanley,Northampton Town,1,1,2.500,3.100,2.875
+72342330,2026-10-31 15:00,Colchester United,Walsall FC,1,3,2.400,3.600,2.700
+72342332,2026-10-31 15:00,Crewe Alexandra,Barnet FC,1,1,3.100,3.400,2.250
+72342336,2026-10-31 15:00,Fleetwood Town,Bristol Rovers,3,1,2.350,3.300,3.000
+72342346,2026-10-31 15:00,Oldham Athletic,Crawley Town,0,1,1.600,4.100,5.000
+72342350,2026-10-31 15:00,Salford City,Exeter City,2,1,1.480,4.333,6.250
+72342352,2026-10-31 15:00,Shrewsbury Town,Gillingham FC,1,2,2.000,3.400,3.700
+72342354,2026-10-31 15:00,Swindon Town,Rotherham United,2,1,2.100,3.600,3.100
+72342356,2026-10-31 15:00,Tranmere Rovers FC,Cheltenham Town,3,1,1.950,3.500,3.700
+75594398,2026-11-03 19:45,Northampton Town,Oldham Athletic,0,1,2.400,3.000,3.000

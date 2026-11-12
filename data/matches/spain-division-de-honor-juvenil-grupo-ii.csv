@@ -1,0 +1,68 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+72883090,2026-09-05 10:00,Athletic Bilbao,UD Logrones Promesas,6,0,1.200,5.750,9.500
+72883080,2026-09-05 15:00,SD Leioa,CYD Leonesa SAD,4,2,,,
+72883078,2026-09-06 10:00,Deportivo Alaves,Arratia CD,5,0,,,
+72883082,2026-09-06 10:00,Santutxu FC,Danok Bat,1,1,2.375,3.600,2.375
+72883086,2026-09-06 10:00,Ef Mareo Logrono Youth,Real Valladolid CF,2,11,,,
+72883088,2026-09-06 10:00,CD Betono U19,SD Eibar,1,2,2.550,3.500,2.250
+72883092,2026-09-06 14:00,CD Unionistas Salamanca CF U19,Antiguoko Ke,2,2,2.875,3.600,2.050
+72883084,2026-09-06 16:00,Real Sociedad,SD Indautxu U19,5,1,,,
+72883098,2026-09-12 10:30,Danok Bat,SD Leioa,2,1,2.150,3.600,2.700
+72883104,2026-09-12 10:30,SD Eibar,Ef Mareo Logrono Youth,3,0,,,
+72883096,2026-09-12 15:00,CYD Leonesa SAD,Deportivo Alaves,2,2,,,
+72883108,2026-09-12 15:30,Antiguoko Ke,Athletic Bilbao,2,3,,,
+72883094,2026-09-12 15:45,Arratia CD,CD Unionistas Salamanca CF U19,0,1,,,
+72883100,2026-09-12 16:00,SD Indautxu U19,Santutxu FC,1,2,2.350,3.400,2.550
+72883102,2026-09-13 10:00,Real Valladolid CF,Real Sociedad,3,1,2.100,3.900,2.625
+72883106,2026-09-13 15:00,UD Logrones Promesas,CD Betono U19,2,1,1.750,3.750,3.600
+72883116,2026-09-19 14:00,Santutxu FC,Real Valladolid CF,2,3,,,
+72883110,2026-09-19 16:15,Arratia CD,CYD Leonesa SAD,0,5,,,
+72883118,2026-09-20 09:30,Real Sociedad,SD Eibar,2,0,1.833,3.700,3.400
+72883122,2026-09-20 10:00,CD Betono U19,Antiguoko Ke,2,0,,,
+72883120,2026-09-20 14:00,Ef Mareo Logrono Youth,UD Logrones Promesas,2,2,,,
+72883124,2026-09-20 14:00,CD Unionistas Salamanca CF U19,Athletic Bilbao,1,0,,,
+72883134,2026-10-03 10:00,SD Eibar,Santutxu FC,4,2,1.615,3.900,4.200
+72883128,2026-10-03 11:00,Danok Bat,Arratia CD,4,1,1.480,4.000,5.500
+72883136,2026-10-03 14:30,UD Logrones Promesas,Real Sociedad,1,3,2.700,3.700,2.100
+72883126,2026-10-03 15:00,CYD Leonesa SAD,CD Unionistas Salamanca CF U19,0,0,,,
+72883138,2026-10-03 15:30,Antiguoko Ke,Ef Mareo Logrono Youth,5,1,,,
+72883140,2026-10-04 14:00,Athletic Bilbao,CD Betono U19,8,0,1.166,6.500,11.000
+72883132,2026-10-04 14:45,Real Valladolid CF,SD Leioa,3,1,1.550,4.100,4.500
+72883130,2026-10-04 16:00,SD Indautxu U19,Deportivo Alaves,0,0,7.000,4.500,1.333
+72883144,2026-10-10 09:15,Arratia CD,SD Indautxu U19,0,3,,,
+72883146,2026-10-10 10:30,Deportivo Alaves,Real Valladolid CF,2,3,1.850,3.700,3.200
+72883142,2026-10-10 14:30,CYD Leonesa SAD,Danok Bat,2,1,,,
+72883150,2026-10-10 16:00,Santutxu FC,UD Logrones Promesas,2,1,2.000,3.700,3.000
+72883154,2026-10-11 10:00,Ef Mareo Logrono Youth,Athletic Bilbao,0,5,,,
+72883148,2026-10-11 10:30,SD Leioa,SD Eibar,1,4,2.600,3.700,2.150
+72883152,2026-10-11 10:30,Real Sociedad,Antiguoko Ke,0,0,1.571,4.400,4.000
+72883156,2026-10-11 14:00,CD Unionistas Salamanca CF U19,CD Betono U19,4,0,,,
+72883164,2026-10-17 10:00,SD Eibar,Deportivo Alaves,3,0,2.700,3.600,2.150
+72883158,2026-10-17 14:00,Danok Bat,CD Unionistas Salamanca CF U19,1,0,2.350,3.500,2.500
+72883160,2026-10-17 15:30,SD Indautxu U19,CYD Leonesa SAD,1,2,2.250,3.750,2.500
+72883166,2026-10-18 10:00,UD Logrones Promesas,SD Leioa,2,2,2.050,3.700,2.750
+72883168,2026-10-18 10:00,Antiguoko Ke,Santutxu FC,2,1,,,
+72883172,2026-10-18 10:15,CD Betono U19,Ef Mareo Logrono Youth,2,1,,,
+72883162,2026-10-18 13:45,Real Valladolid CF,Arratia CD,12,1,,,
+72883170,2026-10-18 14:00,Athletic Bilbao,Real Sociedad,2,1,1.363,4.500,6.500
+72883186,2026-10-24 15:00,Real Sociedad,CD Betono U19,3,1,,,
+72883184,2026-10-24 17:30,Santutxu FC,Athletic Bilbao,0,2,7.500,5.500,1.250
+72883180,2026-10-25 11:00,Deportivo Alaves,UD Logrones Promesas,5,0,,,
+72883182,2026-10-25 12:00,SD Leioa,Antiguoko Ke,0,1,2.350,3.700,2.400
+72883188,2026-10-25 15:00,CD Unionistas Salamanca CF U19,Ef Mareo Logrono Youth,7,1,1.050,11.000,26.000
+72883194,2026-10-31 12:30,SD Eibar,CYD Leonesa SAD,2,0,,,
+72883200,2026-11-01 11:00,Athletic Bilbao,SD Leioa,5,2,1.100,9.500,15.000
+72883202,2026-11-01 11:00,CD Betono,Santutxu FC,1,0,2.600,3.250,2.500
+72883204,2026-11-01 11:00,Ef Mareo Logrono Youth,Real Sociedad,0,4,,,
+72883198,2026-11-01 11:15,Antiguoko Ke,Deportivo Alaves,2,2,,,
+72883196,2026-11-01 15:30,UD Logrones Promesas,Arratia CD,3,1,1.550,4.200,4.200
+72883192,2026-11-01 15:45,Real Valladolid CF,Danok Bat,3,3,1.300,4.500,8.000
+72883190,2026-11-01 16:00,SD Indautxu,CD Unionistas Salamanca CF,0,1,4.100,4.100,1.571
+72883220,2026-11-07 11:30,CD Unionistas Salamanca CF,Real Sociedad,1,1,2.500,3.600,2.400
+72883208,2026-11-07 12:00,Danok Bat,SD Eibar,0,0,2.800,3.600,2.100
+72883210,2026-11-07 12:30,CYD Leonesa SAD,UD Logrones Promesas,3,0,,,
+72883214,2026-11-07 15:00,Deportivo Alaves,Athletic Bilbao,2,1,4.000,3.900,1.615
+72883212,2026-11-07 17:15,Arratia CD,Antiguoko Ke,0,2,,,
+72883206,2026-11-08 11:00,SD Indautxu,Real Valladolid CF,0,6,5.250,4.500,1.400
+72883216,2026-11-08 11:15,SD Leioa,CD Betono,4,1,1.750,3.800,3.500
+72883218,2026-11-08 17:00,Santutxu FC,Ef Mareo Logrono Youth,7,0,1.222,6.000,8.500

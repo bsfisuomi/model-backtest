@@ -1,0 +1,99 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+72545942,2026-07-31 18:30,Llanelli Town,Newport City FC,1,4,2.500,3.300,2.400
+72545944,2026-07-31 18:45,Trethomas Bluebirds,Baglan Dragons,0,0,1.700,3.900,3.700
+72545946,2026-08-01 13:30,Afan Lido,Aberystwyth Town FC,2,5,2.625,3.600,2.150
+72545948,2026-08-01 13:30,Carmarthen Town,Caerau Ely FC,4,3,3.000,3.600,2.000
+72545950,2026-08-01 13:30,Llantwit Major,Pure Swansea,0,3,2.300,3.600,2.500
+72545952,2026-08-01 13:30,Pontardawe Town FC,Caerphilly Athletic FC,3,0,2.625,3.900,2.100
+72545954,2026-08-01 13:30,Treowen Stars,Pontypridd Town,2,3,2.450,3.600,2.300
+72545956,2026-08-01 13:30,Ynyshir Albions,Cardiff Draconians,1,0,2.500,3.750,2.200
+72545958,2026-08-07 18:30,Afan Lido,Llantwit Major,5,0,2.200,3.600,2.600
+72545962,2026-08-07 18:30,Pontypridd Town,Pontardawe Town FC,3,2,1.800,3.800,3.400
+72545960,2026-08-07 18:45,Caerau Ely FC,Ynyshir Albions,1,1,1.333,5.250,6.000
+72545964,2026-08-07 18:45,Caerphilly Athletic FC,Cardiff Draconians,0,0,2.875,3.700,2.000
+72545966,2026-08-07 18:45,Llanelli Town,Trethomas Bluebirds,1,1,2.750,3.600,2.100
+72545968,2026-08-08 13:30,Aberystwyth Town FC,Treowen Stars,1,2,1.615,4.000,3.900
+72545970,2026-08-08 13:30,Newport City FC,Carmarthen Town,1,2,2.625,3.700,2.200
+72545972,2026-08-09 13:30,Baglan Dragons,Pure Swansea,0,3,2.500,3.700,2.250
+72545974,2026-08-14 18:30,Carmarthen Town,Afan Lido,3,1,1.666,4.100,3.800
+72545976,2026-08-14 18:45,Trethomas Bluebirds,Caerau Ely FC,2,4,3.400,3.900,1.750
+72545978,2026-08-15 13:30,Cardiff Draconians,Pontypridd Town,1,4,2.700,3.750,2.100
+72545980,2026-08-15 13:30,Llantwit Major,Baglan Dragons,0,1,1.950,3.700,3.100
+72545982,2026-08-15 13:30,Pontardawe Town FC,Newport City FC,0,4,2.600,3.800,2.150
+72545984,2026-08-15 13:30,Pure Swansea,Llanelli Town,3,0,1.480,3.700,6.000
+72545986,2026-08-15 13:30,Treowen Stars,Caerphilly Athletic FC,3,0,,,
+72545990,2026-08-21 18:30,Afan Lido,Pontardawe Town FC,1,0,1.650,4.000,3.900
+72545994,2026-08-21 18:30,Newport City FC,Baglan Dragons,0,1,1.533,4.100,4.750
+72545996,2026-08-21 18:30,Pontypridd Town,Trethomas Bluebirds,2,1,1.850,3.750,3.300
+72545992,2026-08-21 18:45,Caerau Ely FC,Pure Swansea,1,5,2.100,3.750,2.700
+72545998,2026-08-22 13:30,Aberystwyth Town FC,Llantwit Major,5,1,1.363,4.500,6.250
+72546000,2026-08-22 13:30,Caerphilly Athletic FC,Ynyshir Albions,2,1,2.600,3.800,2.100
+72546002,2026-08-22 13:30,Cardiff Draconians,Llanelli Town,4,2,2.050,3.750,2.800
+72546004,2026-08-22 13:30,Carmarthen Town,Treowen Stars,2,4,1.800,4.000,3.300
+72546010,2026-08-28 18:30,Baglan Dragons,Caerau Ely FC,3,1,4.500,4.100,1.533
+72546012,2026-08-28 18:30,Llanelli Town,Carmarthen Town,2,2,3.900,4.100,1.650
+72546014,2026-08-28 18:30,Newport City FC,Ynyshir Albions,0,1,1.727,3.800,3.700
+72546016,2026-08-28 18:30,Pure Swansea,Pontypridd Town,4,4,1.727,4.100,3.300
+72546008,2026-08-28 18:45,Aberystwyth Town FC,Pontardawe Town FC,1,0,1.500,4.333,4.750
+72546018,2026-08-28 18:45,Trethomas Bluebirds,Afan Lido,5,2,2.000,3.800,2.900
+72546022,2026-08-31 13:30,Aberystwyth Town FC,Llanelli Town,4,0,1.363,4.750,6.250
+72546024,2026-08-31 13:30,Afan Lido,Ynyshir Albions,0,0,2.400,3.600,2.400
+72546026,2026-08-31 13:30,Baglan Dragons,Caerphilly Athletic FC,0,1,2.150,3.500,2.700
+72546028,2026-08-31 13:30,Caerau Ely FC,Treowen Stars,3,2,1.571,4.333,4.100
+72546032,2026-08-31 13:30,Carmarthen Town,Trethomas Bluebirds,2,3,2.050,3.600,2.900
+72546038,2026-09-04 18:30,Baglan Dragons,Afan Lido,2,1,2.300,3.600,2.500
+72546040,2026-09-04 18:30,Llanelli Town,Treowen Stars,0,2,3.600,4.000,1.700
+72546044,2026-09-04 18:45,Trethomas Bluebirds,Caerphilly Athletic FC,2,2,2.200,3.600,2.600
+72546058,2026-09-11 18:30,Pontypridd Town,Afan Lido,0,1,1.666,3.900,3.750
+72546066,2026-09-11 18:30,Pure Swansea,Pontardawe Town FC,4,0,1.363,5.000,5.750
+72546054,2026-09-11 18:45,Caerau Ely FC,Llanelli Town,3,0,1.250,6.000,7.000
+72546060,2026-09-12 13:30,Caerphilly Athletic FC,Aberystwyth Town FC,2,3,2.450,3.700,2.300
+72546062,2026-09-12 13:30,Cardiff Draconians,Baglan Dragons,2,1,2.150,3.600,2.700
+72546064,2026-09-12 13:30,Carmarthen Town,Ynyshir Albions,2,2,1.800,3.800,3.300
+72546068,2026-09-12 13:30,Treowen Stars,Llantwit Major,1,1,1.420,4.500,5.250
+72546070,2026-09-25 18:30,Afan Lido,Newport City FC,0,0,2.550,3.600,2.250
+72546072,2026-09-25 18:30,Baglan Dragons,Carmarthen Town,1,2,2.550,3.700,2.200
+72546074,2026-09-25 18:45,Caerphilly Athletic FC,Pontypridd Town,1,2,2.500,3.600,2.300
+72546076,2026-09-25 19:00,Aberystwyth Town FC,Pure Swansea,0,0,2.250,3.900,2.450
+72546078,2026-09-26 13:30,Cardiff Draconians,Caerau Ely FC,1,3,3.200,3.900,1.833
+72546080,2026-09-26 13:30,Llantwit Major,Llanelli Town,2,0,,,
+72546082,2026-09-26 13:30,Pontardawe Town FC,Treowen Stars,6,1,,,
+72546084,2026-09-26 13:30,Ynyshir Albions,Trethomas Bluebirds,1,1,2.200,3.700,2.550
+72546088,2026-10-02 18:30,Carmarthen Town,Llantwit Major,1,2,1.571,4.100,4.200
+72546090,2026-10-02 18:30,Llanelli Town,Baglan Dragons,1,2,2.900,3.500,2.050
+72546086,2026-10-02 18:45,Caerau Ely FC,Afan Lido,2,0,1.380,4.500,5.750
+72546092,2026-10-03 13:30,Cardiff Draconians,Newport City FC,1,1,2.750,3.600,2.100
+72546094,2026-10-03 13:30,Pontypridd Town,Aberystwyth Town FC,1,3,2.600,3.700,2.200
+72546096,2026-10-03 13:30,Pure Swansea,Caerphilly Athletic FC,3,1,1.600,4.333,3.900
+72546098,2026-10-03 13:30,Treowen Stars,Ynyshir Albions,1,2,1.950,3.750,3.000
+72546100,2026-10-03 13:30,Trethomas Bluebirds,Pontardawe Town FC,2,3,1.833,3.900,3.250
+74745862,2026-10-06 18:30,Pontypridd Town,Llantwit Major,4,1,1.700,4.000,3.600
+72546102,2026-10-09 18:30,Afan Lido,Pure Swansea,5,5,3.600,4.000,1.700
+72546104,2026-10-09 18:45,Caerphilly Athletic FC,Newport City FC,3,2,2.600,3.600,2.150
+72546106,2026-10-10 13:30,Aberystwyth Town FC,Caerau Ely FC,0,1,2.100,3.600,2.750
+72546108,2026-10-10 13:30,Baglan Dragons,Pontypridd Town,1,1,2.700,3.600,2.100
+72546110,2026-10-10 13:30,Cardiff Draconians,Carmarthen Town,2,2,2.550,3.750,2.200
+72546112,2026-10-10 13:30,Llantwit Major,Pontardawe Town FC,1,1,2.500,3.600,2.250
+72546114,2026-10-10 13:30,Treowen Stars,Trethomas Bluebirds,1,3,2.100,3.800,2.700
+72546116,2026-10-10 13:30,Ynyshir Albions,Llanelli Town,6,2,1.420,4.500,5.250
+72546118,2026-10-23 18:30,Carmarthen Town,Caerphilly Athletic FC,1,3,1.850,4.000,3.100
+72546124,2026-10-23 18:30,Llanelli Town,Afan Lido,0,3,4.333,4.200,1.533
+72546126,2026-10-23 18:30,Newport City FC,Pontypridd Town,4,4,2.250,3.800,2.450
+72546120,2026-10-23 18:45,Caerau Ely FC,Llantwit Major,0,2,1.300,5.250,6.500
+72546134,2026-10-23 18:45,Trethomas Bluebirds,Cardiff Draconians,3,1,2.000,3.900,2.800
+72546138,2026-10-30 19:30,Pontypridd Town,Llanelli Town,4,0,1.200,6.500,9.000
+72546268,2026-10-30 19:30,Baglan Dragons,Treowen Stars,0,1,2.150,3.750,2.625
+72546136,2026-10-30 19:45,Caerphilly Athletic FC,Caerau Ely FC,0,1,3.000,4.000,1.900
+72546140,2026-10-31 14:00,Cardiff Draconians,Afan Lido,2,0,2.350,3.900,2.350
+72546142,2026-10-31 14:00,Llantwit Major,Newport City FC,2,3,2.875,3.600,2.050
+72546144,2026-10-31 14:00,Pontardawe Town FC,Carmarthen Town,2,1,2.100,3.900,2.625
+72546148,2026-10-31 14:00,Ynyshir Albions,Pure Swansea,4,2,3.200,3.800,1.850
+72546150,2026-10-31 14:30,Aberystwyth Town FC,Trethomas Bluebirds,2,1,1.533,4.200,4.333
+72546152,2026-11-06 19:30,Afan Lido,Caerphilly Athletic FC,3,2,2.300,3.750,2.450
+72546154,2026-11-06 19:30,Baglan Dragons,Ynyshir Albions,2,1,2.500,3.400,2.350
+72546158,2026-11-06 19:30,Llanelli Town,Pontardawe Town FC,3,3,5.250,4.750,1.400
+72546160,2026-11-06 19:30,Newport City FC,Treowen Stars,2,2,1.800,4.000,3.300
+72546156,2026-11-06 19:45,Caerau Ely FC,Pontypridd Town,1,3,1.833,4.100,3.100
+72546166,2026-11-07 14:00,Pure Swansea,Cardiff Draconians,2,0,1.500,4.333,4.500
+72546168,2026-11-07 14:30,Trethomas Bluebirds,Llantwit Major,2,2,1.850,4.100,3.100
+72546164,2026-11-07 19:45,Carmarthen Town,Aberystwyth Town FC,0,4,3.800,4.200,1.666

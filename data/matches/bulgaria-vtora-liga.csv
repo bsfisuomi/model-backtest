@@ -1,0 +1,305 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+61379979,2025-08-12 15:00,PFC Spartak Pleven,FC Dunav Ruse,0,2,,,
+61380757,2025-08-19 17:00,SFC Etar Veliko Tarnovo,FC Yantra Gabrovo,0,1,,,
+63091989,2025-09-01 14:30,Marek Dupnica,PFC Minyor Pernik,1,2,,,
+63464793,2025-09-14 12:15,FC Pirin Blagoevgrad,FC Dunav Ruse,1,3,,,
+63464809,2025-09-21 12:00,PFC Minyor Pernik,FC Fratria Varna,2,3,,,
+63464847,2025-10-06 13:00,PFC Vihren Sandanski,Marek Dupnica,2,0,,,
+63464841,2025-10-06 16:00,Gorna Oryahovitsa,FC Fratria Varna,1,1,,,
+63464869,2025-10-18 17:15,FC Yantra Gabrovo,Gorna Oryahovitsa,2,2,,,
+63464883,2025-10-26 12:30,FC Pirin Blagoevgrad,SFC Etar Veliko Tarnovo,1,1,,,
+63464897,2025-10-31 15:30,FC Fratria Varna,PFC Vihren Sandanski,0,0,,,
+63464891,2025-11-02 12:30,Marek Dupnica,FC Pirin Blagoevgrad,3,1,,,
+63464893,2025-11-02 12:30,PFK Sportist Svoge,PFC Belasitsa Petrich,0,1,,,
+63464895,2025-11-02 12:30,FK Sevlievo,FC Dunav Ruse,0,2,,,
+63464889,2025-11-02 14:00,SFC Etar Veliko Tarnovo,PFC Chernomorets Burgas,3,3,,,
+63464899,2025-11-03 15:00,FC Yantra Gabrovo,PFC CSKA SOFIA II,0,3,,,
+63464905,2025-11-07 12:30,PFC CSKA SOFIA II,PFC Minyor Pernik,0,1,,,
+63464903,2025-11-08 12:30,Gorna Oryahovitsa,PFC Ludogorets Razgrad II,0,1,,,
+63464913,2025-11-08 12:30,FC Pirin Blagoevgrad,PFK Sportist Svoge,0,0,,,
+63464909,2025-11-10 15:30,FC Dunav Ruse,FC Fratria Varna,2,0,,,
+63464927,2025-11-15 11:30,FC Fratria Varna,PFC Belasitsa Petrich,5,0,,,
+63464929,2025-11-15 14:30,FC Yantra Gabrovo,FC Dunav Ruse,0,1,,,
+63464921,2025-11-16 12:30,Marek Dupnica,FK Hebar Pazardzhik,2,0,,,
+63464923,2025-11-16 12:30,PFK Sportist Svoge,PFC Chernomorets Burgas,0,1,,,
+63464925,2025-11-16 12:30,FK Sevlievo,FC Pirin Blagoevgrad,1,3,,,
+63464931,2025-11-16 12:30,PFC Minyor Pernik,PFC Vihren Sandanski,3,2,,,
+63464933,2025-11-16 12:30,Gorna Oryahovitsa,PFC Spartak Pleven,3,1,,,
+63464943,2025-11-21 13:00,FC Pirin Blagoevgrad,FC Fratria Varna,0,0,,,
+63464939,2025-11-22 12:30,FC Dunav Ruse,PFC Minyor Pernik,2,0,,,
+63464941,2025-11-22 12:30,PFC Belasitsa Petrich,FC Yantra Gabrovo,0,2,,,
+63464945,2025-11-22 12:30,PFC Chernomorets Burgas,FK Sevlievo,1,0,,,
+63464947,2025-11-22 12:30,FK Hebar Pazardzhik,PFK Sportist Svoge,0,3,,,
+63464937,2025-11-23 12:30,PFC CSKA SOFIA II,Gorna Oryahovitsa,1,1,,,
+63464949,2025-11-23 15:30,SFC Etar Veliko Tarnovo,Marek Dupnica,4,1,,,
+63464935,2025-11-24 12:30,PFC Spartak Pleven,PFC Ludogorets Razgrad II,2,0,,,
+65655312,2025-11-28 12:00,PFC Ludogorets Razgrad II,SFC Etar Veliko Tarnovo,0,1,,,
+63464955,2025-11-28 15:00,FK Hebar Pazardzhik,FK Sevlievo,0,2,,,
+63464957,2025-11-29 12:30,PFC Chernomorets Burgas,FC Fratria Varna,0,2,,,
+63464961,2025-11-29 12:30,PFC Belasitsa Petrich,PFC Minyor Pernik,0,0,,,
+63464963,2025-11-29 12:30,PFC Vihren Sandanski,Gorna Oryahovitsa,6,0,,,
+63464965,2025-11-30 12:30,PFC CSKA SOFIA II,PFC Spartak Pleven,4,0,,,
+63464959,2025-12-01 15:30,FC Pirin Blagoevgrad,FC Yantra Gabrovo,2,2,,,
+63464951,2025-12-02 12:00,PFC Ludogorets Razgrad II,Marek Dupnica,4,0,,,
+65655314,2025-12-02 12:00,SFC Etar Veliko Tarnovo,PFK Sportist Svoge,0,3,,,
+63464971,2025-12-05 15:30,Gorna Oryahovitsa,FC Dunav Ruse,0,1,,,
+63464969,2025-12-06 12:00,PFC Spartak Pleven,PFC Vihren Sandanski,2,3,,,
+63464973,2025-12-06 12:00,PFC Minyor Pernik,FC Pirin Blagoevgrad,0,0,,,
+63464975,2025-12-06 12:00,FC Yantra Gabrovo,PFC Chernomorets Burgas,0,0,,,
+63464967,2025-12-07 12:00,PFC CSKA SOFIA II,PFC Ludogorets Razgrad II,0,0,,,
+63464979,2025-12-07 12:00,FK Sevlievo,SFC Etar Veliko Tarnovo,0,1,,,
+63464981,2025-12-07 12:00,PFK Sportist Svoge,Marek Dupnica,3,1,,,
+65129986,2025-12-12 12:00,PFC Ludogorets Razgrad II,FK Hebar Pazardzhik,2,1,1.615,3.600,4.750
+63464985,2026-02-15 12:00,Marek Dupnica,FK Sevlievo,0,1,1.833,3.000,4.333
+63464989,2026-02-15 12:00,FK Hebar Pazardzhik,FC Yantra Gabrovo,3,2,2.250,3.100,2.900
+63464991,2026-02-15 12:00,PFC Chernomorets Burgas,PFC Minyor Pernik,1,1,1.533,3.500,5.750
+63464993,2026-02-15 12:00,PFC Belasitsa Petrich,Gorna Oryahovitsa,3,3,2.250,3.000,2.900
+63464995,2026-02-15 12:00,FC Dunav Ruse,PFC Spartak Pleven,4,0,1.181,5.750,15.000
+63464997,2026-02-15 12:00,PFC Vihren Sandanski,PFC CSKA SOFIA II,0,0,1.727,3.400,4.200
+63464983,2026-02-16 12:00,PFC Ludogorets Razgrad II,PFK Sportist Svoge,2,2,1.480,3.600,6.500
+68012612,2026-02-17 15:30,SFC Etar Veliko Tarnovo,FC Fratria Varna,1,1,3.600,3.500,1.800
+63464999,2026-02-21 12:00,PFC Vihren Sandanski,PFC Ludogorets Razgrad II,3,1,1.750,3.200,4.333
+63465005,2026-02-21 12:00,Gorna Oryahovitsa,FC Pirin Blagoevgrad,1,2,2.625,3.000,2.500
+63465007,2026-02-21 12:00,PFC Minyor Pernik,FK Hebar Pazardzhik,0,2,2.875,3.000,2.300
+63465011,2026-02-22 14:30,FC Fratria Varna,Marek Dupnica,1,1,1.250,4.750,9.000
+68859188,2026-02-24 15:30,FC Yantra Gabrovo,SFC Etar Veliko Tarnovo,4,0,1.650,3.600,4.500
+63465015,2026-02-28 12:00,PFC Ludogorets Razgrad II,FK Sevlievo,1,1,1.900,3.100,3.900
+63465017,2026-02-28 12:00,PFK Sportist Svoge,FC Fratria Varna,0,3,4.333,3.300,1.700
+63465021,2026-02-28 12:00,SFC Etar Veliko Tarnovo,PFC Minyor Pernik,3,0,1.615,3.100,4.750
+63465023,2026-02-28 12:00,PFC Chernomorets Burgas,Gorna Oryahovitsa,0,0,1.400,3.900,7.000
+63465025,2026-02-28 12:00,FC Pirin Blagoevgrad,PFC Spartak Pleven,1,1,1.300,4.500,7.500
+63465029,2026-03-01 10:30,FC Dunav Ruse,PFC Vihren Sandanski,2,2,1.750,3.100,4.500
+63465019,2026-03-01 12:30,Marek Dupnica,FC Yantra Gabrovo,1,2,3.000,2.875,2.350
+63465027,2026-03-02 13:30,PFC Belasitsa Petrich,PFC CSKA SOFIA II,2,6,3.500,3.000,2.050
+63465033,2026-03-07 10:15,PFC Vihren Sandanski,PFC Belasitsa Petrich,3,1,1.200,5.500,11.000
+63465031,2026-03-07 13:30,FC Dunav Ruse,PFC Ludogorets Razgrad II,1,0,1.250,5.000,10.000
+63465037,2026-03-07 13:30,PFC Spartak Pleven,PFC Chernomorets Burgas,1,2,3.400,2.900,2.050
+63465039,2026-03-07 13:30,Gorna Oryahovitsa,FK Hebar Pazardzhik,1,2,2.800,3.000,2.300
+63465041,2026-03-07 13:30,PFC Minyor Pernik,Marek Dupnica,1,1,2.100,2.875,3.400
+63465043,2026-03-07 13:30,FC Yantra Gabrovo,PFK Sportist Svoge,2,0,1.363,3.700,9.000
+63465045,2026-03-08 13:30,FC Fratria Varna,FK Sevlievo,1,4,1.363,4.100,7.500
+63465035,2026-03-09 13:30,PFC CSKA SOFIA II,FC Pirin Blagoevgrad,2,1,1.550,3.600,5.000
+63465049,2026-03-14 13:30,FK Sevlievo,FC Yantra Gabrovo,1,0,2.600,3.000,2.600
+63465051,2026-03-14 13:30,PFK Sportist Svoge,PFC Minyor Pernik,0,4,2.800,2.800,2.500
+63465053,2026-03-14 13:30,SFC Etar Veliko Tarnovo,Gorna Oryahovitsa,2,1,1.550,3.600,5.000
+63465055,2026-03-14 13:30,FK Hebar Pazardzhik,PFC Spartak Pleven,0,3,1.270,4.500,9.000
+63465061,2026-03-14 13:30,PFC Belasitsa Petrich,FC Dunav Ruse,1,1,7.500,3.800,1.380
+63465059,2026-03-15 10:00,FC Pirin Blagoevgrad,PFC Vihren Sandanski,0,1,2.700,3.500,2.150
+63465047,2026-03-15 13:30,PFC Ludogorets Razgrad II,FC Fratria Varna,0,1,4.500,3.400,1.666
+63465057,2026-03-15 13:30,PFC Chernomorets Burgas,PFC CSKA SOFIA II,2,0,2.375,2.875,2.900
+63465063,2026-03-21 13:30,PFC Belasitsa Petrich,PFC Ludogorets Razgrad II,1,1,1.950,3.250,3.400
+63465065,2026-03-21 13:30,FC Dunav Ruse,FC Pirin Blagoevgrad,0,0,1.420,3.750,7.000
+63465067,2026-03-21 13:30,PFC Vihren Sandanski,PFC Chernomorets Burgas,0,2,1.615,3.500,4.750
+63465071,2026-03-21 13:30,PFC Spartak Pleven,SFC Etar Veliko Tarnovo,3,0,2.900,3.200,2.150
+63465073,2026-03-21 13:30,Gorna Oryahovitsa,Marek Dupnica,0,1,2.400,3.000,2.800
+63465075,2026-03-21 13:30,PFC Minyor Pernik,FK Sevlievo,0,2,2.100,3.000,3.400
+63465077,2026-03-23 16:00,FC Yantra Gabrovo,FC Fratria Varna,1,1,2.250,2.800,3.250
+69503852,2026-03-25 13:30,PFC Spartak Pleven,PFC Belasitsa Petrich,2,1,1.615,3.500,4.500
+69503854,2026-03-25 13:30,FK Sevlievo,PFK Sportist Svoge,0,1,1.571,3.300,5.250
+69503856,2026-03-25 13:30,PFC CSKA SOFIA II,FC Dunav Ruse,1,0,3.800,3.000,1.950
+63465079,2026-03-28 13:30,PFC Ludogorets Razgrad II,FC Yantra Gabrovo,1,2,3.100,2.875,2.250
+63465081,2026-03-28 13:30,FC Fratria Varna,PFC Minyor Pernik,3,1,1.270,4.750,8.500
+63465089,2026-03-28 13:30,FK Hebar Pazardzhik,PFC Vihren Sandanski,1,0,2.400,3.300,2.500
+63465083,2026-03-29 13:30,PFK Sportist Svoge,Gorna Oryahovitsa,0,1,2.350,3.000,2.900
+63465085,2026-03-29 13:30,Marek Dupnica,PFC Spartak Pleven,0,0,1.550,3.400,5.750
+63465087,2026-03-29 13:30,SFC Etar Veliko Tarnovo,PFC CSKA SOFIA II,3,1,2.450,3.300,2.450
+63465091,2026-03-29 13:30,PFC Chernomorets Burgas,FC Dunav Ruse,1,1,3.500,2.900,2.100
+63465093,2026-03-29 15:30,FC Pirin Blagoevgrad,PFC Belasitsa Petrich,1,0,1.250,4.750,9.000
+63465109,2026-04-03 14:00,PFC Minyor Pernik,FC Yantra Gabrovo,0,1,3.100,2.900,2.250
+63465095,2026-04-04 14:00,FC Pirin Blagoevgrad,PFC Ludogorets Razgrad II,0,0,1.750,3.250,4.100
+63465097,2026-04-04 14:00,PFC Belasitsa Petrich,PFC Chernomorets Burgas,1,0,4.750,3.500,1.615
+63465099,2026-04-04 14:00,FC Dunav Ruse,FK Hebar Pazardzhik,0,0,1.400,3.800,7.000
+63465101,2026-04-04 14:00,PFC Vihren Sandanski,SFC Etar Veliko Tarnovo,2,2,1.800,3.400,3.700
+63465105,2026-04-04 14:00,PFC Spartak Pleven,PFK Sportist Svoge,0,0,1.600,3.300,5.500
+63465107,2026-04-04 14:00,Gorna Oryahovitsa,FK Sevlievo,2,1,2.200,3.000,3.200
+63465103,2026-04-05 14:00,PFC CSKA SOFIA II,Marek Dupnica,0,1,1.727,3.250,4.200
+63465115,2026-04-09 14:00,FK Sevlievo,PFC Spartak Pleven,0,2,2.050,2.900,3.500
+63465125,2026-04-09 14:00,PFC Chernomorets Burgas,FC Pirin Blagoevgrad,2,0,,,
+63465123,2026-04-09 15:30,FK Hebar Pazardzhik,PFC Belasitsa Petrich,4,3,,,
+63465113,2026-04-09 16:30,FC Fratria Varna,Gorna Oryahovitsa,3,0,1.300,4.750,8.500
+63465111,2026-04-10 14:00,PFC Ludogorets Razgrad II,PFC Minyor Pernik,4,2,1.500,3.700,5.500
+63465117,2026-04-10 14:00,PFK Sportist Svoge,PFC CSKA SOFIA II,0,1,,,
+63465119,2026-04-10 14:00,Marek Dupnica,PFC Vihren Sandanski,1,0,1.900,3.100,3.700
+63465121,2026-04-13 09:45,SFC Etar Veliko Tarnovo,FC Dunav Ruse,0,0,2.750,3.100,2.300
+63465127,2026-04-16 14:00,PFC Chernomorets Burgas,PFC Ludogorets Razgrad II,0,0,1.550,3.400,5.500
+63465135,2026-04-16 14:00,PFC Vihren Sandanski,PFK Sportist Svoge,4,1,2.700,3.300,2.250
+63465139,2026-04-16 14:00,PFC Spartak Pleven,FC Fratria Varna,1,1,4.750,3.200,1.700
+63465129,2026-04-16 15:00,FC Pirin Blagoevgrad,FK Hebar Pazardzhik,2,2,2.150,3.200,2.900
+63465131,2026-04-17 14:00,PFC Belasitsa Petrich,SFC Etar Veliko Tarnovo,2,4,3.600,3.700,1.800
+63465137,2026-04-17 14:00,PFC CSKA SOFIA II,FK Sevlievo,6,1,1.727,3.300,4.200
+63465141,2026-04-17 15:00,Gorna Oryahovitsa,FC Yantra Gabrovo,2,2,3.250,2.900,2.150
+63465133,2026-04-17 16:30,FC Dunav Ruse,Marek Dupnica,0,0,1.550,3.000,7.000
+70887980,2026-04-22 14:00,PFC CSKA SOFIA II,FK Hebar Pazardzhik,2,0,2.200,3.200,2.800
+63465145,2026-04-24 14:00,FC Yantra Gabrovo,PFC Spartak Pleven,2,1,1.420,3.900,6.500
+63465143,2026-04-25 14:00,PFC Minyor Pernik,Gorna Oryahovitsa,3,0,2.100,3.000,3.300
+63465149,2026-04-25 14:00,FK Sevlievo,PFC Vihren Sandanski,0,4,2.200,3.200,2.900
+63465153,2026-04-25 14:00,Marek Dupnica,PFC Belasitsa Petrich,2,1,1.222,4.750,10.000
+63465155,2026-04-25 14:00,SFC Etar Veliko Tarnovo,FC Pirin Blagoevgrad,3,2,,,
+63465151,2026-04-26 12:00,PFK Sportist Svoge,FC Dunav Ruse,3,2,5.500,3.100,1.615
+63465147,2026-04-26 14:00,FC Fratria Varna,PFC CSKA SOFIA II,2,2,1.500,3.800,5.500
+70913028,2026-04-27 15:30,FK Hebar Pazardzhik,PFC Chernomorets Burgas,1,3,2.250,3.100,2.900
+63465163,2026-05-02 15:00,FC Pirin Blagoevgrad,Marek Dupnica,0,0,,,
+63465165,2026-05-02 15:00,PFC Belasitsa Petrich,PFK Sportist Svoge,3,0,,,
+63465173,2026-05-02 15:00,PFC Spartak Pleven,PFC Minyor Pernik,1,0,1.900,3.100,3.800
+63465167,2026-05-02 16:00,FC Dunav Ruse,FK Sevlievo,2,0,1.222,4.750,11.000
+63465161,2026-05-03 15:00,PFC Chernomorets Burgas,SFC Etar Veliko Tarnovo,1,0,,,
+63465171,2026-05-04 12:30,PFC CSKA SOFIA II,FC Yantra Gabrovo,0,1,2.050,3.300,3.000
+63465169,2026-05-04 14:45,PFC Vihren Sandanski,FC Fratria Varna,2,1,2.400,3.400,2.500
+63465159,2026-05-04 15:30,FK Hebar Pazardzhik,PFC Ludogorets Razgrad II,1,2,,,
+63465189,2026-05-10 15:30,SFC Etar Veliko Tarnovo,FK Hebar Pazardzhik,0,1,,,
+63465179,2026-05-11 14:45,FC Yantra Gabrovo,PFC Vihren Sandanski,0,0,1.833,3.300,3.600
+63465175,2026-05-11 15:00,PFC Ludogorets Razgrad II,Gorna Oryahovitsa,3,1,,,
+63465177,2026-05-11 15:00,PFC Minyor Pernik,PFC CSKA SOFIA II,1,2,,,
+63465183,2026-05-11 15:00,FK Sevlievo,PFC Belasitsa Petrich,2,1,,,
+63465185,2026-05-11 15:00,PFK Sportist Svoge,FC Pirin Blagoevgrad,2,0,,,
+63465187,2026-05-11 15:00,Marek Dupnica,PFC Chernomorets Burgas,3,0,,,
+63465181,2026-05-11 17:15,FC Fratria Varna,FC Dunav Ruse,2,2,1.950,3.200,3.500
+63465191,2026-05-15 15:00,SFC Etar Veliko Tarnovo,PFC Ludogorets Razgrad II,1,0,,,
+63465193,2026-05-15 15:00,FK Hebar Pazardzhik,Marek Dupnica,1,1,,,
+63465195,2026-05-15 15:00,PFC Chernomorets Burgas,PFK Sportist Svoge,1,0,,,
+63465197,2026-05-15 15:00,FC Pirin Blagoevgrad,FK Sevlievo,4,1,,,
+63465199,2026-05-15 15:00,PFC Belasitsa Petrich,FC Fratria Varna,0,3,,,
+63465201,2026-05-15 15:00,FC Dunav Ruse,FC Yantra Gabrovo,0,1,,,
+63465203,2026-05-15 15:00,PFC Vihren Sandanski,PFC Minyor Pernik,3,0,,,
+63465205,2026-05-15 15:00,PFC Spartak Pleven,Gorna Oryahovitsa,5,2,,,
+63465207,2026-05-23 15:00,PFC Ludogorets Razgrad II,PFC Spartak Pleven,3,1,,,
+63465209,2026-05-23 15:00,Gorna Oryahovitsa,PFC CSKA SOFIA II,0,3,,,
+63465211,2026-05-23 15:00,PFC Minyor Pernik,FC Dunav Ruse,1,2,1.700,3.250,4.500
+63465213,2026-05-23 15:00,FC Yantra Gabrovo,PFC Belasitsa Petrich,3,1,,,
+63465215,2026-05-23 15:00,FC Fratria Varna,FC Pirin Blagoevgrad,3,0,,,
+63465217,2026-05-23 15:00,FK Sevlievo,PFC Chernomorets Burgas,3,2,,,
+63465219,2026-05-23 15:00,PFK Sportist Svoge,FK Hebar Pazardzhik,0,0,,,
+63465221,2026-05-23 15:00,Marek Dupnica,SFC Etar Veliko Tarnovo,1,0,,,
+72466368,2026-07-24 15:45,PFK Beroe Stara Zagora,FK Hebar Pazardzhik,2,1,2.400,3.200,2.700
+72466356,2026-07-25 15:30,PFK Sportist Svoge,PFC Montana 1921,2,2,2.800,2.875,2.400
+72466358,2026-07-25 15:30,OFC Nesebar,SFC Etar Veliko Tarnovo,1,5,3.500,3.400,1.900
+72466360,2026-07-25 17:00,FC Yantra Gabrovo,PFC Spartak Pleven,0,2,1.550,3.500,5.750
+72466366,2026-07-25 17:00,Gorna Oryahovitsa,PFC Chernomorets Burgas,1,1,2.700,3.000,2.400
+72466668,2026-07-25 17:00,FC Fratria Varna,Marek Dupnica,0,1,1.480,3.300,7.000
+72466354,2026-07-28 15:30,PFC Dobrudzha Dobrich,FC Pirin Blagoevgrad,5,1,1.727,3.500,4.200
+72466364,2026-07-28 15:30,PFC Rilski Sportist Samokov,PFC Ludogorets Razgrad II,0,1,1.850,3.400,3.750
+72466370,2026-07-28 15:30,PFC Vihren Sandanski,PFC CSKA SOFIA II,1,1,1.800,3.400,3.900
+72466376,2026-08-01 15:00,PFC Chernomorets Burgas,PFK Beroe Stara Zagora,1,0,1.750,3.300,4.000
+72466380,2026-08-01 17:00,FC Fratria Varna,PFC Rilski Sportist Samokov,1,0,1.363,4.000,8.000
+72466382,2026-08-01 17:00,PFC Spartak Pleven,Marek Dupnica,2,1,2.250,2.800,3.200
+72466374,2026-08-02 17:00,FK Hebar Pazardzhik,PFC Vihren Sandanski,2,3,2.625,3.100,2.350
+72466388,2026-08-02 17:00,PFC Dobrudzha Dobrich,PFK Sportist Svoge,0,0,1.444,3.900,6.000
+72466384,2026-08-03 15:45,SFC Etar Veliko Tarnovo,FC Yantra Gabrovo,2,1,2.250,3.300,2.875
+72466372,2026-08-03 17:00,FC Pirin Blagoevgrad,PFC CSKA SOFIA II,0,3,3.300,3.400,2.100
+72466378,2026-08-03 17:00,PFC Ludogorets Razgrad II,Gorna Oryahovitsa,2,1,1.480,3.600,6.000
+72466386,2026-08-04 15:30,PFC Montana 1921,OFC Nesebar,3,1,1.363,4.500,8.500
+72466702,2026-08-07 15:45,SFC Etar Veliko Tarnovo,Marek Dupnica,1,0,1.833,3.500,3.500
+72466390,2026-08-09 15:00,PFK Sportist Svoge,FC Pirin Blagoevgrad,1,0,1.480,3.600,6.250
+72466398,2026-08-09 15:00,PFC Rilski Sportist Samokov,PFC Spartak Pleven,2,2,1.750,3.500,3.800
+72466404,2026-08-09 15:00,PFC Vihren Sandanski,PFC Chernomorets Burgas,1,1,1.533,3.700,5.500
+72466400,2026-08-09 17:00,Gorna Oryahovitsa,FC Fratria Varna,0,2,3.900,3.250,1.833
+72466392,2026-08-10 15:00,OFC Nesebar,PFC Dobrudzha Dobrich,2,0,2.900,3.300,2.100
+72466402,2026-08-10 17:00,PFK Beroe Stara Zagora,PFC Ludogorets Razgrad II,2,0,1.800,3.100,4.200
+72466406,2026-08-11 15:00,PFC CSKA SOFIA II,FK Hebar Pazardzhik,4,3,1.727,3.400,4.100
+72466394,2026-08-11 17:00,FC Yantra Gabrovo,PFC Montana 1921,3,2,2.000,3.000,3.500
+72466414,2026-08-14 15:45,FC Fratria Varna,PFK Beroe Stara Zagora,2,0,1.650,3.300,5.000
+72466418,2026-08-15 16:00,SFC Etar Veliko Tarnovo,PFC Rilski Sportist Samokov,1,1,1.550,4.100,4.750
+72466424,2026-08-16 15:00,PFK Sportist Svoge,OFC Nesebar,0,1,1.600,3.500,5.000
+72466416,2026-08-16 17:00,PFC Spartak Pleven,Gorna Oryahovitsa,0,1,1.700,3.500,4.200
+72466420,2026-08-16 17:00,PFC Montana 1921,Marek Dupnica,1,0,1.833,3.300,3.750
+72466422,2026-08-16 17:00,PFC Dobrudzha Dobrich,FC Yantra Gabrovo,0,1,2.900,3.250,2.150
+72466410,2026-08-17 15:00,PFC Chernomorets Burgas,PFC CSKA SOFIA II,0,1,1.727,3.400,4.100
+72466408,2026-08-18 15:30,FC Pirin Blagoevgrad,FK Hebar Pazardzhik,2,3,3.500,3.300,1.900
+72466412,2026-08-18 17:00,PFC Ludogorets Razgrad II,PFC Vihren Sandanski,0,2,2.500,3.200,2.500
+72466434,2026-08-21 15:45,Gorna Oryahovitsa,SFC Etar Veliko Tarnovo,2,1,3.100,3.400,1.950
+72466432,2026-08-22 15:00,PFC Rilski Sportist Samokov,PFC Montana 1921,2,1,2.250,3.500,2.600
+72466426,2026-08-23 15:00,OFC Nesebar,FC Pirin Blagoevgrad,7,0,1.615,3.400,5.500
+72466430,2026-08-23 15:00,Marek Dupnica,PFC Dobrudzha Dobrich,4,2,1.533,3.300,6.000
+72466428,2026-08-23 17:00,FC Yantra Gabrovo,PFK Sportist Svoge,1,0,1.600,3.500,5.000
+72466442,2026-08-23 17:00,FK Hebar Pazardzhik,PFC Chernomorets Burgas,1,0,1.666,3.600,4.200
+72466438,2026-08-24 15:00,PFC Vihren Sandanski,FC Fratria Varna,2,2,2.000,3.400,3.100
+72466440,2026-08-25 15:00,PFC CSKA SOFIA II,PFC Ludogorets Razgrad II,1,1,1.480,4.000,5.500
+73721698,2026-08-25 15:30,PFK Beroe Stara Zagora,PFC Spartak Pleven,3,0,1.727,3.300,4.500
+72466458,2026-08-29 15:00,PFK Sportist Svoge,Marek Dupnica,0,0,2.150,3.000,3.200
+72466460,2026-08-29 15:00,OFC Nesebar,FC Yantra Gabrovo,1,1,3.250,3.100,2.050
+72466452,2026-08-29 15:45,SFC Etar Veliko Tarnovo,PFK Beroe Stara Zagora,2,2,1.600,3.500,5.000
+72466444,2026-08-29 17:00,FC Pirin Blagoevgrad,PFC Chernomorets Burgas,0,3,,,
+72466446,2026-08-29 17:00,PFC Ludogorets Razgrad II,FK Hebar Pazardzhik,1,1,3.300,3.400,1.909
+72466448,2026-08-29 17:00,FC Fratria Varna,PFC CSKA SOFIA II,1,0,1.600,3.500,4.750
+72466456,2026-08-29 17:00,PFC Dobrudzha Dobrich,PFC Rilski Sportist Samokov,0,0,2.700,3.100,2.375
+72466454,2026-08-30 15:00,PFC Montana 1921,Gorna Oryahovitsa,3,0,1.420,4.500,5.500
+72466450,2026-08-30 17:00,PFC Spartak Pleven,PFC Vihren Sandanski,0,2,3.750,3.400,1.833
+72466476,2026-09-01 17:00,FK Hebar Pazardzhik,FC Fratria Varna,1,1,2.450,3.300,2.450
+72466464,2026-09-02 14:00,Marek Dupnica,OFC Nesebar,1,0,1.571,3.500,5.250
+72466466,2026-09-02 14:00,PFC Rilski Sportist Samokov,PFK Sportist Svoge,2,1,1.571,3.400,5.250
+72466478,2026-09-02 14:00,PFC Chernomorets Burgas,PFC Ludogorets Razgrad II,1,0,1.533,4.000,4.750
+72466462,2026-09-02 16:00,FC Yantra Gabrovo,FC Pirin Blagoevgrad,2,0,1.083,9.000,23.000
+72466472,2026-09-03 14:00,PFC Vihren Sandanski,SFC Etar Veliko Tarnovo,4,1,1.571,4.000,4.333
+72466474,2026-09-03 14:00,PFC CSKA SOFIA II,PFC Spartak Pleven,5,1,1.450,4.000,6.000
+72466468,2026-09-03 16:00,Gorna Oryahovitsa,PFC Dobrudzha Dobrich,2,0,2.450,3.100,2.625
+72466470,2026-09-03 17:00,PFK Beroe Stara Zagora,PFC Montana 1921,0,0,2.300,3.100,2.750
+72466494,2026-09-06 14:00,OFC Nesebar,PFC Rilski Sportist Samokov,2,1,2.050,3.200,3.200
+72466486,2026-09-06 16:00,SFC Etar Veliko Tarnovo,PFC CSKA SOFIA II,1,0,2.300,3.600,2.550
+72466490,2026-09-06 16:00,PFC Dobrudzha Dobrich,PFK Beroe Stara Zagora,2,2,2.750,3.200,2.400
+72466496,2026-09-06 16:00,FC Yantra Gabrovo,Marek Dupnica,3,0,1.650,3.300,4.750
+72466492,2026-09-07 14:00,PFK Sportist Svoge,Gorna Oryahovitsa,0,0,2.100,3.000,3.250
+72466482,2026-09-07 15:00,FC Fratria Varna,PFC Chernomorets Burgas,2,2,1.500,3.800,5.000
+72466480,2026-09-07 16:00,FC Pirin Blagoevgrad,PFC Ludogorets Razgrad II,0,3,,,
+72466484,2026-09-07 16:00,PFC Spartak Pleven,FK Hebar Pazardzhik,3,2,2.600,3.250,2.375
+72466488,2026-09-08 16:00,PFC Montana 1921,PFC Vihren Sandanski,1,4,2.500,3.400,2.350
+72466498,2026-09-13 14:00,Marek Dupnica,FC Pirin Blagoevgrad,3,0,,,
+72466500,2026-09-13 14:00,PFC Rilski Sportist Samokov,FC Yantra Gabrovo,2,0,2.750,2.900,2.400
+72466506,2026-09-13 14:00,PFC Vihren Sandanski,PFC Dobrudzha Dobrich,2,0,1.181,6.000,11.000
+72466508,2026-09-13 14:00,PFC CSKA SOFIA II,PFC Montana 1921,4,0,1.833,3.400,3.500
+72466512,2026-09-13 14:00,PFC Chernomorets Burgas,PFC Spartak Pleven,3,0,1.500,3.600,5.500
+72466504,2026-09-13 16:00,PFK Beroe Stara Zagora,PFK Sportist Svoge,1,0,1.571,3.400,5.250
+72466510,2026-09-14 14:45,FK Hebar Pazardzhik,SFC Etar Veliko Tarnovo,4,1,2.050,3.600,2.875
+72466502,2026-09-15 15:30,Gorna Oryahovitsa,OFC Nesebar,1,1,1.833,3.200,3.900
+72466514,2026-09-15 16:00,PFC Ludogorets Razgrad II,FC Fratria Varna,1,1,3.600,3.500,1.833
+72466528,2026-09-20 14:00,OFC Nesebar,PFK Beroe Stara Zagora,4,3,2.625,3.000,2.500
+72466532,2026-09-20 14:00,Marek Dupnica,PFC Rilski Sportist Samokov,1,3,1.900,3.100,3.700
+72466516,2026-09-20 16:00,FC Pirin Blagoevgrad,FC Fratria Varna,1,2,,,
+72466530,2026-09-20 16:00,FC Yantra Gabrovo,Gorna Oryahovitsa,0,1,1.500,3.800,5.500
+72466520,2026-09-20 17:30,SFC Etar Veliko Tarnovo,PFC Chernomorets Burgas,2,4,2.250,3.400,2.700
+72466526,2026-09-21 14:00,PFK Sportist Svoge,PFC Vihren Sandanski,3,2,4.500,4.000,1.571
+72466518,2026-09-21 16:00,PFC Spartak Pleven,PFC Ludogorets Razgrad II,1,0,2.150,3.300,2.900
+72466524,2026-09-21 16:00,PFC Dobrudzha Dobrich,PFC CSKA SOFIA II,1,3,2.900,3.400,2.050
+72466522,2026-09-21 16:30,PFC Montana 1921,FK Hebar Pazardzhik,0,5,2.200,3.500,2.700
+72466534,2026-09-26 13:00,PFC Rilski Sportist Samokov,FC Pirin Blagoevgrad,1,0,1.090,9.000,21.000
+72466536,2026-09-26 13:00,Gorna Oryahovitsa,Marek Dupnica,0,0,1.950,3.100,3.700
+72466540,2026-09-27 11:00,PFC Vihren Sandanski,OFC Nesebar,2,0,1.300,4.500,7.500
+72466538,2026-09-27 13:30,PFK Beroe Stara Zagora,FC Yantra Gabrovo,1,0,1.909,3.100,3.900
+72466542,2026-09-27 14:00,PFC CSKA SOFIA II,PFK Sportist Svoge,1,0,1.500,3.800,5.250
+72466546,2026-09-27 14:00,PFC Chernomorets Burgas,PFC Montana 1921,2,0,1.444,4.100,5.750
+72466544,2026-09-27 16:00,FK Hebar Pazardzhik,PFC Dobrudzha Dobrich,1,2,1.615,3.800,4.200
+72466550,2026-09-27 16:00,FC Fratria Varna,PFC Spartak Pleven,3,0,1.363,4.000,8.000
+72466564,2026-10-09 14:30,FC Yantra Gabrovo,PFC Vihren Sandanski,1,0,2.875,3.250,2.200
+72466554,2026-10-09 17:00,SFC Etar Veliko Tarnovo,FC Fratria Varna,2,0,2.600,3.400,2.300
+72466552,2026-10-10 13:00,FC Pirin Blagoevgrad,PFC Spartak Pleven,1,1,3.500,3.250,1.909
+72466560,2026-10-10 13:00,PFK Sportist Svoge,FK Hebar Pazardzhik,1,3,3.100,3.200,2.100
+72466562,2026-10-10 13:00,OFC Nesebar,PFC CSKA SOFIA II,0,0,2.750,3.250,2.250
+72466566,2026-10-10 13:00,Marek Dupnica,PFK Beroe Stara Zagora,3,2,2.250,3.000,3.000
+72466568,2026-10-10 13:00,PFC Rilski Sportist Samokov,Gorna Oryahovitsa,0,0,1.950,3.200,3.500
+72466558,2026-10-10 15:00,PFC Dobrudzha Dobrich,PFC Chernomorets Burgas,0,3,3.700,3.250,1.833
+72466556,2026-10-13 15:00,PFC Montana 1921,PFC Ludogorets Razgrad II,2,3,1.909,3.250,3.400
+72466574,2026-10-23 13:00,PFC Vihren Sandanski,Marek Dupnica,1,1,1.666,3.200,5.000
+72466576,2026-10-23 13:00,PFC CSKA SOFIA II,FC Yantra Gabrovo,3,3,2.400,3.100,2.625
+72466580,2026-10-23 13:00,PFC Chernomorets Burgas,PFK Sportist Svoge,1,1,1.222,5.000,12.000
+72466570,2026-10-23 15:00,Gorna Oryahovitsa,FC Pirin Blagoevgrad,2,0,1.222,5.000,11.000
+72466572,2026-10-23 15:00,PFK Beroe Stara Zagora,PFC Rilski Sportist Samokov,3,1,1.750,3.400,4.200
+72466578,2026-10-23 15:00,FK Hebar Pazardzhik,OFC Nesebar,2,1,1.533,4.200,4.500
+72466586,2026-10-23 15:00,PFC Spartak Pleven,SFC Etar Veliko Tarnovo,2,1,2.750,3.400,2.250
+72466582,2026-10-27 16:00,PFC Ludogorets Razgrad II,PFC Dobrudzha Dobrich,5,1,1.666,3.600,4.333
+72466584,2026-10-28 16:00,FC Fratria Varna,PFC Montana 1921,1,2,1.420,3.800,7.000
+72466598,2026-10-29 16:00,FC Yantra Gabrovo,FK Hebar Pazardzhik,3,0,1.850,3.400,3.500
+72466602,2026-10-30 12:15,PFC Rilski Sportist Samokov,PFC Vihren Sandanski,0,0,3.000,3.200,2.150
+72466600,2026-10-30 12:30,Marek Dupnica,PFC CSKA SOFIA II,1,3,3.300,3.250,2.000
+72466588,2026-10-30 15:30,FC Pirin Blagoevgrad,SFC Etar Veliko Tarnovo,0,2,3.250,3.900,1.833
+72466604,2026-10-30 15:30,Gorna Oryahovitsa,PFK Beroe Stara Zagora,2,0,2.400,3.100,2.700
+72466596,2026-10-31 12:30,OFC Nesebar,PFC Chernomorets Burgas,1,2,3.100,3.400,2.050
+72466594,2026-11-02 12:30,PFK Sportist Svoge,PFC Ludogorets Razgrad II,1,1,2.250,3.000,3.000
+72466590,2026-11-02 15:30,PFC Montana 1921,PFC Spartak Pleven,1,2,1.800,3.250,3.900
+72466608,2026-11-08 12:30,PFC Vihren Sandanski,Gorna Oryahovitsa,3,1,1.500,3.700,5.500
+72466620,2026-11-08 12:30,PFC Spartak Pleven,PFC Dobrudzha Dobrich,1,1,1.380,4.500,7.500
+72466606,2026-11-08 14:30,PFK Beroe Stara Zagora,FC Pirin Blagoevgrad,3,3,1.181,6.250,13.000
+72466612,2026-11-08 14:30,FK Hebar Pazardzhik,Marek Dupnica,3,1,1.615,3.700,4.500
+72466616,2026-11-08 14:30,PFC Ludogorets Razgrad II,OFC Nesebar,2,0,1.700,3.500,4.100
+72466610,2026-11-09 12:30,PFC CSKA SOFIA II,PFC Rilski Sportist Samokov,3,1,1.571,3.700,4.750
+72466614,2026-11-09 12:30,PFC Chernomorets Burgas,FC Yantra Gabrovo,3,3,1.727,3.600,3.700
+72466622,2026-11-09 15:00,SFC Etar Veliko Tarnovo,PFC Montana 1921,1,1,1.850,3.600,3.600
+72466618,2026-11-09 15:30,FC Fratria Varna,PFK Sportist Svoge,6,2,1.285,4.500,9.000

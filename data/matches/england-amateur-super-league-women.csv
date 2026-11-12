@@ -1,0 +1,64 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+73345984,2026-09-04 18:00,London City Lionesses,Manchester United WFC,2,1,2.150,3.500,3.200
+73345986,2026-09-05 11:30,Chelsea FC,Aston Villa WFC,1,1,1.166,8.000,12.000
+73345988,2026-09-06 11:00,Tottenham Hotspur FC,West Ham United FC,3,1,1.480,4.500,5.750
+73345990,2026-09-06 11:00,Brighton and Hove Albion WFC,Arsenal WFC,0,1,9.000,5.750,1.300
+73345992,2026-09-06 13:00,Charlton Athletic,Liverpool LFC,0,4,5.500,4.100,1.550
+73345994,2026-09-06 13:00,Crystal Palace,Everton FC,1,0,3.600,3.500,1.909
+73345996,2026-09-06 13:30,Manchester City WFC,Birmingham City WFC,3,1,1.090,9.500,21.000
+73345998,2026-09-12 11:45,West Ham United FC,London City Lionesses,2,1,6.500,5.250,1.380
+73346000,2026-09-13 11:00,Manchester United WFC,Chelsea FC,0,5,5.250,4.750,1.480
+73346002,2026-09-13 13:00,Everton FC,Charlton Athletic,1,0,1.480,4.500,5.750
+73346004,2026-09-13 13:00,Liverpool LFC,Tottenham Hotspur FC,1,1,2.550,3.500,2.500
+73346006,2026-09-13 13:00,Birmingham City WFC,Brighton and Hove Albion WFC,2,2,4.500,4.500,1.571
+73346008,2026-09-13 13:45,Arsenal WFC,Crystal Palace,0,0,1.050,13.000,34.000
+73346010,2026-09-13 17:30,Aston Villa WFC,Manchester City WFC,1,4,8.500,6.000,1.270
+73346012,2026-09-18 18:00,Manchester City WFC,Liverpool LFC,4,2,1.333,5.250,7.000
+73346014,2026-09-19 11:30,Charlton Athletic,London City Lionesses,1,4,13.000,5.500,1.222
+73346016,2026-09-19 11:45,Chelsea FC,Birmingham City WFC,2,0,1.062,13.000,21.000
+73346018,2026-09-19 16:30,Arsenal WFC,Manchester United WFC,1,1,1.166,8.000,10.000
+73346020,2026-09-20 13:00,West Ham United FC,Everton FC,0,1,2.350,3.000,3.200
+73346022,2026-09-20 13:00,Crystal Palace,Tottenham Hotspur FC,0,7,6.500,4.750,1.400
+73346024,2026-09-20 13:00,Brighton and Hove Albion WFC,Aston Villa WFC,1,1,1.480,4.750,5.500
+73346026,2026-09-26 12:30,Charlton Athletic,Manchester City WFC,0,1,34.000,13.000,1.045
+73346028,2026-09-26 16:00,London City Lionesses,Brighton and Hove Albion WFC,2,0,1.833,3.900,3.700
+73346030,2026-09-27 12:00,Manchester United WFC,West Ham United FC,2,1,1.480,4.500,5.750
+73346032,2026-09-27 13:00,Tottenham Hotspur FC,Aston Villa WFC,4,0,1.400,5.000,6.500
+73346034,2026-09-27 13:00,Birmingham City WFC,Crystal Palace,3,3,1.700,3.750,4.500
+73346036,2026-09-27 13:00,Liverpool LFC,Everton FC,2,0,1.700,3.800,4.333
+73346038,2026-09-27 15:30,Chelsea FC,Arsenal WFC,1,0,2.300,3.500,2.800
+73346042,2026-10-03 12:30,Manchester United WFC,Liverpool LFC,1,0,1.909,3.800,3.500
+73346040,2026-10-04 13:00,Tottenham Hotspur FC,London City Lionesses,1,6,2.375,3.500,2.700
+73346044,2026-10-04 13:00,West Ham United FC,Chelsea FC,0,3,12.000,7.500,1.166
+73346046,2026-10-04 13:00,Everton FC,Birmingham City WFC,2,1,1.750,3.700,4.200
+73346048,2026-10-04 13:00,Brighton and Hove Albion WFC,Charlton Athletic,5,1,1.222,7.000,9.000
+73346050,2026-10-04 13:00,Aston Villa WFC,Crystal Palace,1,1,1.800,4.100,3.700
+73346052,2026-10-04 15:30,Manchester City WFC,Arsenal WFC,4,2,2.250,3.600,2.875
+73346056,2026-10-17 11:45,Arsenal WFC,Birmingham City WFC,1,1,1.100,9.000,19.000
+73346062,2026-10-18 11:00,Crystal Palace,West Ham United FC,0,1,3.700,3.700,1.900
+73346064,2026-10-18 11:00,Chelsea FC,Tottenham Hotspur FC,6,2,1.270,6.000,8.000
+73346054,2026-10-18 13:00,Aston Villa WFC,Liverpool LFC,2,1,4.750,4.200,1.600
+73346060,2026-10-18 13:00,London City Lionesses,Everton FC,2,1,1.200,6.500,12.000
+73346066,2026-10-18 13:00,Charlton Athletic,Manchester United WFC,1,3,13.000,6.500,1.181
+73346058,2026-10-18 13:30,Manchester City WFC,Brighton and Hove Albion WFC,3,2,1.363,5.250,7.000
+73346070,2026-10-24 11:45,Tottenham Hotspur FC,Arsenal WFC,1,2,5.250,4.750,1.500
+73346078,2026-10-24 16:15,Brighton and Hove Albion WFC,West Ham United FC,3,0,1.444,4.750,6.000
+73346076,2026-10-25 12:00,Crystal Palace,Chelsea FC,1,3,23.000,11.000,1.071
+73346072,2026-10-25 14:00,Liverpool LFC,London City Lionesses,2,2,4.333,4.333,1.615
+73346074,2026-10-25 14:00,Everton FC,Aston Villa WFC,2,3,1.850,3.600,4.000
+73346080,2026-10-25 14:00,Birmingham City WFC,Charlton Athletic,1,0,1.500,4.750,5.250
+73346068,2026-10-25 18:00,Manchester United WFC,Manchester City WFC,1,1,5.000,4.500,1.533
+73346082,2026-10-31 12:45,Everton FC,Manchester United WFC,0,0,4.750,3.800,1.666
+73346084,2026-11-01 12:00,Arsenal WFC,Aston Villa WFC,1,1,1.142,9.000,12.000
+73346088,2026-11-01 12:00,London City Lionesses,Manchester City WFC,1,2,2.900,3.700,2.200
+73346086,2026-11-01 14:00,West Ham United FC,Liverpool LFC,4,1,3.800,3.500,1.909
+73346092,2026-11-01 14:00,Brighton and Hove Albion WFC,Crystal Palace,2,1,1.250,6.500,9.000
+73346094,2026-11-01 14:00,Birmingham City WFC,Tottenham Hotspur FC,1,4,5.000,4.500,1.550
+73346090,2026-11-01 14:30,Charlton Athletic,Chelsea FC,0,6,23.000,12.000,1.071
+73346100,2026-11-07 12:45,Manchester City WFC,West Ham United FC,5,0,1.142,8.000,12.000
+73346102,2026-11-07 12:45,Chelsea FC,Everton FC,1,1,1.125,8.000,17.000
+73346096,2026-11-08 12:00,Liverpool LFC,Arsenal WFC,1,2,5.000,4.200,1.550
+73346104,2026-11-08 12:00,Aston Villa WFC,Manchester United WFC,0,1,5.000,4.000,1.600
+73346106,2026-11-08 14:00,Tottenham Hotspur FC,Brighton and Hove Albion WFC,2,1,2.100,3.700,3.100
+73346108,2026-11-08 14:00,Crystal Palace,Charlton Athletic,3,2,1.444,4.333,6.500
+73346098,2026-11-08 14:30,London City Lionesses,Birmingham City WFC,4,1,1.166,8.000,11.000

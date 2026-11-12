@@ -1,0 +1,511 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+61708874,2025-08-01 17:00,Rot-Weiss Essen,TSV 1860 Munich,1,1,,,
+61708876,2025-08-02 12:00,FC Ingolstadt 04,Jahn Regensburg,1,1,,,
+61708882,2025-08-02 12:00,VfL 1899 Osnabruck,Alemannia Aachen,0,0,,,
+61708888,2025-08-02 12:00,Energie Cottbus,1. FC Saarbrucken,3,3,,,
+61708890,2025-08-02 12:00,TSG Hoffenheim II,TSV Havelse,0,0,,,
+61708892,2025-08-02 12:00,SV Waldhof Mannheim 07,SC Verl,2,2,,,
+61708886,2025-08-02 14:30,MSV Duisburg,VfB Stuttgart II,2,1,,,
+61708880,2025-08-03 11:30,Erzgebirge Aue,Hansa Rostock,0,0,,,
+61708878,2025-08-03 14:30,FC Viktoria Cologne,1. FC Schweinfurt 05,2,0,,,
+61708884,2025-08-03 17:30,SV Wehen Wiesbaden,SSV Ulm 1846,3,1,,,
+61708912,2025-08-08 17:00,1. FC Schweinfurt 05,Energie Cottbus,0,2,,,
+61708894,2025-08-09 12:00,1. FC Saarbrucken,FC Viktoria Cologne,2,1,,,
+61708898,2025-08-09 12:00,SSV Ulm 1846,Erzgebirge Aue,1,0,,,
+61708904,2025-08-09 12:00,TSV Havelse,Rot-Weiss Essen,1,1,,,
+61708906,2025-08-09 12:00,Alemannia Aachen,TSG Hoffenheim II,2,4,,,
+61708908,2025-08-09 12:00,TSV 1860 Munich,VfL 1899 Osnabruck,3,1,,,
+61708910,2025-08-09 14:30,SC Verl,SV Wehen Wiesbaden,2,2,,,
+61708902,2025-08-10 11:30,Jahn Regensburg,MSV Duisburg,0,4,,,
+61708900,2025-08-10 14:30,Hansa Rostock,SV Waldhof Mannheim 07,1,0,,,
+61708896,2025-08-10 17:30,VfB Stuttgart II,FC Ingolstadt 04,2,1,,,
+61708924,2025-08-22 17:00,SV Wehen Wiesbaden,Rot-Weiss Essen,3,4,,,
+61708918,2025-08-23 12:00,VfB Stuttgart II,SC Verl,1,1,,,
+61708922,2025-08-23 12:00,VfL 1899 Osnabruck,1. FC Saarbrucken,2,0,,,
+61708926,2025-08-23 12:00,Jahn Regensburg,1. FC Schweinfurt 05,3,0,,,
+61708930,2025-08-23 12:00,Alemannia Aachen,TSV 1860 Munich,0,2,,,
+61708932,2025-08-23 12:00,TSG Hoffenheim II,Energie Cottbus,4,1,,,
+61708928,2025-08-23 14:30,MSV Duisburg,SSV Ulm 1846,2,1,,,
+61708916,2025-08-24 11:30,FC Ingolstadt 04,Hansa Rostock,1,1,,,
+61708920,2025-08-24 14:30,Erzgebirge Aue,TSV Havelse,2,1,,,
+61708914,2025-08-24 17:30,SV Waldhof Mannheim 07,FC Viktoria Cologne,2,0,,,
+61708936,2025-08-29 17:00,FC Viktoria Cologne,Jahn Regensburg,1,0,,,
+61708934,2025-08-30 12:00,1. FC Saarbrucken,Erzgebirge Aue,4,1,,,
+61708940,2025-08-30 12:00,Energie Cottbus,FC Ingolstadt 04,1,1,,,
+61708944,2025-08-30 12:00,TSV Havelse,VfL 1899 Osnabruck,0,2,,,
+61708948,2025-08-30 12:00,TSV 1860 Munich,VfB Stuttgart II,1,1,,,
+61708950,2025-08-30 12:00,SC Verl,MSV Duisburg,2,3,,,
+61708942,2025-08-30 14:30,Hansa Rostock,TSG Hoffenheim II,0,1,,,
+61708938,2025-08-31 11:30,SSV Ulm 1846,SV Waldhof Mannheim 07,1,2,,,
+61708952,2025-08-31 14:30,1. FC Schweinfurt 05,SV Wehen Wiesbaden,0,1,,,
+61708946,2025-08-31 17:30,Rot-Weiss Essen,Alemannia Aachen,2,3,,,
+61708966,2025-09-12 17:00,Jahn Regensburg,Rot-Weiss Essen,1,3,,,
+61708956,2025-09-13 12:00,FC Ingolstadt 04,1. FC Schweinfurt 05,2,3,,,
+61708958,2025-09-13 12:00,VfB Stuttgart II,1. FC Saarbrucken,1,3,,,
+61708960,2025-09-13 12:00,Erzgebirge Aue,FC Viktoria Cologne,0,3,,,
+61708968,2025-09-13 12:00,MSV Duisburg,SV Wehen Wiesbaden,3,1,,,
+61708974,2025-09-13 12:00,TSG Hoffenheim II,SC Verl,2,4,,,
+61708970,2025-09-13 14:30,Alemannia Aachen,SSV Ulm 1846,1,3,,,
+61708962,2025-09-14 11:30,VfL 1899 Osnabruck,Hansa Rostock,0,0,,,
+61708954,2025-09-14 14:30,SV Waldhof Mannheim 07,Energie Cottbus,0,3,,,
+61708972,2025-09-14 17:30,TSV 1860 Munich,TSV Havelse,3,2,,,
+61708976,2025-09-16 17:00,1. FC Saarbrucken,SSV Ulm 1846,3,1,,,
+61708980,2025-09-16 17:00,FC Viktoria Cologne,TSG Hoffenheim II,2,1,,,
+61708986,2025-09-16 17:00,SV Wehen Wiesbaden,Jahn Regensburg,2,0,,,
+61709076,2025-09-16 17:00,SC Verl,Alemannia Aachen,2,1,,,
+61709078,2025-09-16 17:00,1. FC Schweinfurt 05,MSV Duisburg,0,3,,,
+61708978,2025-09-17 17:00,SV Waldhof Mannheim 07,VfB Stuttgart II,0,1,,,
+61708982,2025-09-17 17:00,Energie Cottbus,Erzgebirge Aue,2,1,,,
+61708984,2025-09-17 17:00,Hansa Rostock,TSV 1860 Munich,2,1,,,
+61709050,2025-09-17 17:00,TSV Havelse,FC Ingolstadt 04,2,6,,,
+61709074,2025-09-17 17:00,Rot-Weiss Essen,VfL 1899 Osnabruck,1,1,,,
+61709080,2025-09-19 17:00,1. FC Saarbrucken,1. FC Schweinfurt 05,2,1,,,
+61709082,2025-09-20 12:00,FC Ingolstadt 04,SV Wehen Wiesbaden,0,0,,,
+61709084,2025-09-20 12:00,VfB Stuttgart II,FC Viktoria Cologne,2,1,,,
+61709088,2025-09-20 12:00,VfL 1899 Osnabruck,Erzgebirge Aue,3,1,,,
+61709092,2025-09-20 12:00,Alemannia Aachen,SV Waldhof Mannheim 07,3,2,,,
+61709094,2025-09-20 12:00,Rot-Weiss Essen,Hansa Rostock,3,0,,,
+61709096,2025-09-20 14:30,TSV 1860 Munich,TSG Hoffenheim II,1,5,,,
+61709090,2025-09-21 11:30,TSV Havelse,MSV Duisburg,1,1,,,
+61709098,2025-09-21 14:30,SC Verl,Energie Cottbus,2,1,,,
+61709086,2025-09-21 17:30,SSV Ulm 1846,Jahn Regensburg,2,1,,,
+61709106,2025-09-26 17:00,Energie Cottbus,VfB Stuttgart II,5,0,,,
+61709104,2025-09-27 12:00,Erzgebirge Aue,TSV 1860 Munich,2,0,,,
+61709108,2025-09-27 12:00,Hansa Rostock,TSV Havelse,1,1,,,
+61709110,2025-09-27 12:00,SV Wehen Wiesbaden,1. FC Saarbrucken,1,1,,,
+61709114,2025-09-27 12:00,MSV Duisburg,FC Ingolstadt 04,2,1,,,
+61709118,2025-09-27 12:00,1. FC Schweinfurt 05,Alemannia Aachen,1,5,,,
+61709100,2025-09-27 14:30,SV Waldhof Mannheim 07,Rot-Weiss Essen,6,1,,,
+61709112,2025-09-28 11:30,Jahn Regensburg,SC Verl,2,0,,,
+61709116,2025-09-28 14:30,TSG Hoffenheim II,SSV Ulm 1846,1,1,,,
+61709102,2025-09-28 17:30,FC Viktoria Cologne,VfL 1899 Osnabruck,0,0,,,
+61709120,2025-09-30 17:00,1. FC Saarbrucken,MSV Duisburg,0,0,,,
+61709122,2025-09-30 17:00,VfB Stuttgart II,SV Wehen Wiesbaden,0,0,,,
+61709128,2025-09-30 17:00,Hansa Rostock,Energie Cottbus,1,3,,,
+61709130,2025-09-30 17:00,TSV Havelse,SV Waldhof Mannheim 07,2,3,,,
+61709132,2025-09-30 17:00,Alemannia Aachen,Erzgebirge Aue,0,1,,,
+61709124,2025-10-01 17:00,SSV Ulm 1846,1. FC Schweinfurt 05,5,1,,,
+61709126,2025-10-01 17:00,VfL 1899 Osnabruck,Jahn Regensburg,2,0,,,
+61709134,2025-10-01 17:00,Rot-Weiss Essen,TSG Hoffenheim II,3,1,,,
+61709136,2025-10-01 17:00,TSV 1860 Munich,FC Viktoria Cologne,2,2,,,
+61709138,2025-10-01 17:00,SC Verl,FC Ingolstadt 04,2,2,,,
+61709154,2025-10-03 17:00,MSV Duisburg,Hansa Rostock,2,2,,,
+61709140,2025-10-04 12:00,SV Waldhof Mannheim 07,VfL 1899 Osnabruck,1,4,,,
+61709142,2025-10-04 12:00,FC Ingolstadt 04,SSV Ulm 1846,4,1,,,
+61709144,2025-10-04 12:00,FC Viktoria Cologne,TSV Havelse,4,1,,,
+61709152,2025-10-04 12:00,Jahn Regensburg,1. FC Saarbrucken,1,1,,,
+61709158,2025-10-04 12:00,1. FC Schweinfurt 05,SC Verl,1,2,,,
+61709148,2025-10-04 14:30,Energie Cottbus,Alemannia Aachen,3,2,,,
+61709146,2025-10-05 11:30,Erzgebirge Aue,Rot-Weiss Essen,2,2,,,
+61709150,2025-10-05 14:30,SV Wehen Wiesbaden,TSV 1860 Munich,1,0,,,
+61709156,2025-10-05 17:30,TSG Hoffenheim II,VfB Stuttgart II,1,3,,,
+61709166,2025-10-17 17:00,Erzgebirge Aue,SV Waldhof Mannheim 07,0,2,,,
+61709160,2025-10-18 12:00,1. FC Saarbrucken,SC Verl,2,4,,,
+61709162,2025-10-18 12:00,VfB Stuttgart II,1. FC Schweinfurt 05,3,0,,,
+61709168,2025-10-18 12:00,VfL 1899 Osnabruck,TSG Hoffenheim II,0,4,,,
+61709170,2025-10-18 12:00,Hansa Rostock,SV Wehen Wiesbaden,3,0,,,
+61709174,2025-10-18 12:00,Alemannia Aachen,FC Ingolstadt 04,0,1,,,
+61709176,2025-10-18 14:30,Rot-Weiss Essen,FC Viktoria Cologne,1,0,,,
+61709164,2025-10-19 11:30,SSV Ulm 1846,Energie Cottbus,1,2,,,
+61709178,2025-10-19 14:30,TSV 1860 Munich,MSV Duisburg,3,1,,,
+61709172,2025-10-19 17:30,TSV Havelse,Jahn Regensburg,1,2,,,
+61709188,2025-10-24 17:00,SV Wehen Wiesbaden,Alemannia Aachen,1,2,,,
+61709180,2025-10-25 12:00,SV Waldhof Mannheim 07,TSV 1860 Munich,3,1,,,
+61709182,2025-10-25 12:00,FC Ingolstadt 04,1. FC Saarbrucken,2,1,,,
+61709186,2025-10-25 12:00,Energie Cottbus,TSV Havelse,4,3,,,
+61709190,2025-10-25 12:00,Jahn Regensburg,VfB Stuttgart II,3,2,,,
+61709196,2025-10-25 12:00,SC Verl,SSV Ulm 1846,5,0,,,
+61709198,2025-10-25 14:30,1. FC Schweinfurt 05,VfL 1899 Osnabruck,1,2,,,
+61709194,2025-10-26 12:30,TSG Hoffenheim II,Erzgebirge Aue,1,1,,,
+61709184,2025-10-26 15:30,FC Viktoria Cologne,Hansa Rostock,2,4,,,
+61709192,2025-10-26 18:30,MSV Duisburg,Rot-Weiss Essen,1,1,,,
+61709200,2025-10-31 18:00,FC Viktoria Cologne,FC Ingolstadt 04,3,1,,,
+61709202,2025-11-01 13:00,SSV Ulm 1846,VfB Stuttgart II,1,3,,,
+61709204,2025-11-01 13:00,Erzgebirge Aue,Jahn Regensburg,4,3,,,
+61709206,2025-11-01 13:00,VfL 1899 Osnabruck,MSV Duisburg,0,0,,,
+61709210,2025-11-01 13:00,TSV Havelse,SV Wehen Wiesbaden,0,2,,,
+61709216,2025-11-01 13:00,TSV 1860 Munich,Energie Cottbus,3,0,,,
+61709208,2025-11-01 15:30,Hansa Rostock,SC Verl,2,2,,,
+61709218,2025-11-02 12:30,TSG Hoffenheim II,SV Waldhof Mannheim 07,2,0,,,
+61709214,2025-11-02 15:30,Rot-Weiss Essen,1. FC Schweinfurt 05,2,1,,,
+61709212,2025-11-02 18:30,Alemannia Aachen,1. FC Saarbrucken,2,0,,,
+61709234,2025-11-07 18:00,MSV Duisburg,SV Waldhof Mannheim 07,2,1,,,
+61709222,2025-11-08 13:00,FC Ingolstadt 04,Rot-Weiss Essen,1,2,,,
+61709226,2025-11-08 13:00,SSV Ulm 1846,Hansa Rostock,0,5,,,
+61709228,2025-11-08 13:00,Energie Cottbus,VfL 1899 Osnabruck,0,1,,,
+61709236,2025-11-08 13:00,SC Verl,Erzgebirge Aue,1,1,,,
+61709238,2025-11-08 13:00,1. FC Schweinfurt 05,TSG Hoffenheim II,2,1,,,
+61709220,2025-11-08 15:30,1. FC Saarbrucken,TSV Havelse,1,1,,,
+61709224,2025-11-09 12:30,VfB Stuttgart II,Alemannia Aachen,1,3,,,
+61709232,2025-11-09 15:30,Jahn Regensburg,TSV 1860 Munich,4,0,,,
+61709230,2025-11-09 18:30,SV Wehen Wiesbaden,FC Viktoria Cologne,0,1,,,
+61709258,2025-11-21 18:00,TSG Hoffenheim II,MSV Duisburg,4,1,,,
+61709240,2025-11-22 13:00,SV Waldhof Mannheim 07,SV Wehen Wiesbaden,1,0,,,
+61709242,2025-11-22 13:00,FC Viktoria Cologne,SC Verl,1,5,,,
+61709248,2025-11-22 13:00,Hansa Rostock,1. FC Schweinfurt 05,2,0,,,
+61709250,2025-11-22 13:00,TSV Havelse,SSV Ulm 1846,2,1,,,
+61709252,2025-11-22 13:00,Alemannia Aachen,Jahn Regensburg,0,2,,,
+61709246,2025-11-22 15:30,VfL 1899 Osnabruck,FC Ingolstadt 04,1,0,,,
+61709256,2025-11-23 12:30,TSV 1860 Munich,1. FC Saarbrucken,2,0,,,
+61709244,2025-11-23 15:30,Erzgebirge Aue,VfB Stuttgart II,0,0,,,
+61709254,2025-11-23 18:30,Rot-Weiss Essen,Energie Cottbus,2,3,,,
+61709270,2025-11-28 18:00,SV Wehen Wiesbaden,Erzgebirge Aue,3,1,,,
+61709260,2025-11-29 13:00,1. FC Saarbrucken,Rot-Weiss Essen,2,3,,,
+61709262,2025-11-29 13:00,FC Ingolstadt 04,TSG Hoffenheim II,3,2,,,
+61709266,2025-11-29 13:00,SSV Ulm 1846,TSV 1860 Munich,0,1,,,
+61709268,2025-11-29 13:00,Energie Cottbus,FC Viktoria Cologne,3,2,,,
+61709274,2025-11-29 13:00,MSV Duisburg,Alemannia Aachen,3,1,,,
+61709278,2025-11-29 15:30,1. FC Schweinfurt 05,SV Waldhof Mannheim 07,2,3,,,
+61709272,2025-11-30 12:30,Jahn Regensburg,Hansa Rostock,0,3,,,
+61709276,2025-11-30 15:30,SC Verl,VfL 1899 Osnabruck,4,1,,,
+61709264,2025-11-30 18:30,VfB Stuttgart II,TSV Havelse,2,1,,,
+61709294,2025-12-05 18:00,Rot-Weiss Essen,VfB Stuttgart II,1,1,,,
+61709282,2025-12-06 13:00,FC Viktoria Cologne,SSV Ulm 1846,0,1,,,
+61709286,2025-12-06 13:00,VfL 1899 Osnabruck,SV Wehen Wiesbaden,0,1,,,
+61709288,2025-12-06 13:00,Energie Cottbus,MSV Duisburg,3,2,,,
+61709292,2025-12-06 13:00,TSV Havelse,SC Verl,2,2,,,
+61709298,2025-12-06 13:00,TSG Hoffenheim II,Jahn Regensburg,1,0,,,
+61709296,2025-12-06 15:30,TSV 1860 Munich,1. FC Schweinfurt 05,3,1,,,
+61709280,2025-12-07 12:30,SV Waldhof Mannheim 07,1. FC Saarbrucken,2,1,,,
+61709290,2025-12-07 15:30,Hansa Rostock,Alemannia Aachen,2,2,,,
+61709284,2025-12-07 18:30,Erzgebirge Aue,FC Ingolstadt 04,2,2,,,
+61709306,2025-12-12 18:00,SSV Ulm 1846,VfL 1899 Osnabruck,3,5,3.000,3.300,2.100
+61709300,2025-12-13 13:00,1. FC Saarbrucken,TSG Hoffenheim II,2,2,2.400,3.600,2.450
+61709302,2025-12-13 13:00,FC Ingolstadt 04,TSV 1860 Munich,1,2,2.500,3.600,2.400
+61709304,2025-12-13 13:00,VfB Stuttgart II,Hansa Rostock,0,1,3.100,3.500,2.050
+61709312,2025-12-13 13:00,MSV Duisburg,Erzgebirge Aue,0,0,1.666,3.900,4.333
+61709314,2025-12-13 13:00,Alemannia Aachen,FC Viktoria Cologne,0,3,2.250,3.300,2.875
+61709316,2025-12-13 15:30,SC Verl,Rot-Weiss Essen,0,0,2.100,3.800,2.800
+61709308,2025-12-14 12:30,SV Wehen Wiesbaden,Energie Cottbus,3,1,2.700,3.500,2.250
+61709310,2025-12-14 15:30,Jahn Regensburg,SV Waldhof Mannheim 07,3,0,2.400,3.500,2.550
+61709318,2025-12-14 18:30,1. FC Schweinfurt 05,TSV Havelse,2,3,2.300,3.700,2.550
+61709328,2025-12-19 18:00,Energie Cottbus,Jahn Regensburg,2,2,1.850,3.700,3.500
+61709320,2025-12-20 13:00,SV Waldhof Mannheim 07,FC Ingolstadt 04,2,2,2.000,3.600,3.100
+61709324,2025-12-20 13:00,Erzgebirge Aue,1. FC Schweinfurt 05,4,0,1.666,3.700,4.333
+61709326,2025-12-20 13:00,VfL 1899 Osnabruck,VfB Stuttgart II,1,2,1.950,3.500,3.400
+61709330,2025-12-20 13:00,Hansa Rostock,1. FC Saarbrucken,1,1,1.833,3.700,3.600
+61709334,2025-12-20 13:00,Rot-Weiss Essen,SSV Ulm 1846,3,2,1.650,3.900,4.333
+61709336,2025-12-20 15:30,TSV 1860 Munich,SC Verl,0,2,2.900,3.500,2.150
+61709332,2025-12-21 12:30,TSV Havelse,Alemannia Aachen,1,1,3.000,3.750,2.000
+61709338,2025-12-21 15:30,TSG Hoffenheim II,SV Wehen Wiesbaden,3,1,1.900,3.600,3.400
+61709322,2025-12-21 18:30,FC Viktoria Cologne,MSV Duisburg,0,0,2.500,3.400,2.600
+61709348,2026-01-16 18:00,Jahn Regensburg,FC Ingolstadt 04,0,3,2.250,3.600,2.550
+61709340,2026-01-17 13:00,1. FC Saarbrucken,Energie Cottbus,1,1,2.100,3.600,2.800
+61709344,2026-01-17 13:00,SSV Ulm 1846,SV Wehen Wiesbaden,0,1,2.375,3.500,2.450
+61709346,2026-01-17 13:00,Hansa Rostock,Erzgebirge Aue,2,1,1.500,3.900,5.250
+61709354,2026-01-17 13:00,TSV 1860 Munich,Rot-Weiss Essen,1,1,2.625,3.400,2.250
+61709356,2026-01-17 13:00,SC Verl,SV Waldhof Mannheim 07,5,2,1.750,3.600,3.600
+61709352,2026-01-17 15:30,Alemannia Aachen,VfL 1899 Osnabruck,0,3,2.625,3.250,2.350
+61709342,2026-01-18 12:30,VfB Stuttgart II,MSV Duisburg,0,4,2.400,3.200,2.500
+61709358,2026-01-18 15:30,1. FC Schweinfurt 05,FC Viktoria Cologne,2,0,3.900,3.400,1.750
+61709350,2026-01-18 18:30,TSV Havelse,TSG Hoffenheim II,4,0,3.400,3.600,1.833
+61709364,2026-01-23 18:00,FC Viktoria Cologne,1. FC Saarbrucken,2,0,2.625,3.400,2.350
+61709362,2026-01-24 13:00,FC Ingolstadt 04,VfB Stuttgart II,2,1,2.200,3.600,2.750
+61709366,2026-01-24 13:00,Erzgebirge Aue,SSV Ulm 1846,0,3,2.100,3.400,3.100
+61709370,2026-01-24 13:00,Energie Cottbus,1. FC Schweinfurt 05,2,1,1.420,4.333,6.000
+61709376,2026-01-24 13:00,Rot-Weiss Essen,TSV Havelse,4,1,1.480,4.333,5.000
+61709378,2026-01-24 13:00,TSG Hoffenheim II,Alemannia Aachen,2,3,2.100,3.500,3.000
+61709374,2026-01-24 15:30,MSV Duisburg,Jahn Regensburg,2,0,1.800,3.600,4.000
+61709360,2026-01-25 12:30,SV Waldhof Mannheim 07,Hansa Rostock,0,4,3.000,3.600,2.100
+61709368,2026-01-25 15:30,VfL 1899 Osnabruck,TSV 1860 Munich,1,1,1.850,3.400,3.750
+61709372,2026-01-25 18:30,SV Wehen Wiesbaden,SC Verl,2,1,3.500,3.700,1.850
+61709390,2026-01-30 18:00,TSV Havelse,Erzgebirge Aue,3,1,2.625,3.400,2.250
+61709380,2026-01-31 13:00,1. FC Saarbrucken,VfL 1899 Osnabruck,0,1,2.200,3.250,2.875
+61709382,2026-01-31 13:00,FC Viktoria Cologne,SV Waldhof Mannheim 07,1,3,2.150,3.300,2.875
+61709386,2026-01-31 13:00,Energie Cottbus,TSG Hoffenheim II,3,1,1.950,3.800,2.875
+61709388,2026-01-31 13:00,Hansa Rostock,FC Ingolstadt 04,0,3,1.650,3.700,4.100
+61709394,2026-01-31 13:00,TSV 1860 Munich,Alemannia Aachen,2,2,2.050,3.300,3.100
+61709398,2026-01-31 15:30,1. FC Schweinfurt 05,Jahn Regensburg,0,1,3.400,3.400,1.850
+61709384,2026-02-01 12:30,SSV Ulm 1846,MSV Duisburg,1,0,3.000,3.250,2.100
+61709396,2026-02-01 15:30,SC Verl,VfB Stuttgart II,4,0,1.700,3.700,3.900
+61709392,2026-02-01 18:30,Rot-Weiss Essen,SV Wehen Wiesbaden,1,1,1.900,3.500,3.400
+61709400,2026-02-06 18:00,SV Waldhof Mannheim 07,SSV Ulm 1846,2,1,2.050,3.400,3.100
+61709402,2026-02-07 13:00,FC Ingolstadt 04,Energie Cottbus,0,0,2.450,3.600,2.300
+61709406,2026-02-07 13:00,Erzgebirge Aue,1. FC Saarbrucken,0,0,2.750,3.400,2.200
+61709408,2026-02-07 13:00,VfL 1899 Osnabruck,TSV Havelse,2,0,1.533,3.800,5.250
+61709410,2026-02-07 13:00,SV Wehen Wiesbaden,1. FC Schweinfurt 05,2,0,1.500,4.000,5.000
+61709412,2026-02-07 13:00,Jahn Regensburg,FC Viktoria Cologne,0,0,2.250,3.300,2.700
+61709404,2026-02-07 15:30,VfB Stuttgart II,TSV 1860 Munich,2,1,2.200,3.400,2.875
+61709418,2026-02-08 12:30,TSG Hoffenheim II,Hansa Rostock,2,2,3.100,3.750,1.950
+61709416,2026-02-08 15:30,Alemannia Aachen,Rot-Weiss Essen,3,3,2.900,3.500,2.100
+61709414,2026-02-08 18:30,MSV Duisburg,SC Verl,4,2,2.625,3.700,2.250
+61709422,2026-02-13 18:00,FC Viktoria Cologne,Erzgebirge Aue,2,2,2.150,3.200,2.900
+61709420,2026-02-14 13:00,1. FC Saarbrucken,VfB Stuttgart II,2,0,1.833,3.600,3.600
+61709428,2026-02-14 13:00,Hansa Rostock,VfL 1899 Osnabruck,2,2,1.909,3.200,3.500
+61709430,2026-02-14 13:00,SV Wehen Wiesbaden,MSV Duisburg,6,1,2.600,3.100,2.450
+61709432,2026-02-14 13:00,TSV Havelse,TSV 1860 Munich,0,5,3.100,3.500,2.050
+61709436,2026-02-14 13:00,SC Verl,TSG Hoffenheim II,3,1,1.500,4.200,4.750
+61709434,2026-02-14 15:30,Rot-Weiss Essen,Jahn Regensburg,3,2,1.850,3.400,3.600
+61709426,2026-02-15 12:30,Energie Cottbus,SV Waldhof Mannheim 07,1,1,1.700,3.700,3.800
+61709424,2026-02-15 15:30,SSV Ulm 1846,Alemannia Aachen,1,3,2.150,3.400,2.750
+61709438,2026-02-15 18:30,1. FC Schweinfurt 05,FC Ingolstadt 04,1,1,4.200,3.750,1.650
+61709442,2026-02-20 18:00,VfB Stuttgart II,SV Waldhof Mannheim 07,3,1,2.100,3.300,2.875
+61709440,2026-02-21 13:00,FC Ingolstadt 04,TSV Havelse,3,2,1.600,3.900,4.333
+61709448,2026-02-21 13:00,VfL 1899 Osnabruck,Rot-Weiss Essen,3,0,2.300,3.250,2.750
+61709450,2026-02-21 13:00,Jahn Regensburg,SV Wehen Wiesbaden,2,1,2.300,3.300,2.700
+61709452,2026-02-21 13:00,MSV Duisburg,1. FC Schweinfurt 05,3,1,1.420,4.500,6.250
+61709454,2026-02-21 13:00,Alemannia Aachen,SC Verl,3,1,3.250,3.700,1.850
+61709444,2026-02-21 15:30,SSV Ulm 1846,1. FC Saarbrucken,1,1,2.875,3.400,2.100
+61709456,2026-02-22 12:30,TSV 1860 Munich,Hansa Rostock,1,0,2.700,3.400,2.250
+61709446,2026-02-22 15:30,Erzgebirge Aue,Energie Cottbus,1,2,2.875,3.500,2.100
+61709458,2026-02-22 18:30,TSG Hoffenheim II,FC Viktoria Cologne,1,3,2.050,3.500,3.000
+61709476,2026-02-27 18:00,TSG Hoffenheim II,TSV 1860 Munich,1,2,2.700,3.500,2.250
+61709462,2026-02-28 13:00,FC Viktoria Cologne,VfB Stuttgart II,2,0,2.450,3.400,2.450
+61709464,2026-02-28 13:00,Erzgebirge Aue,VfL 1899 Osnabruck,1,3,3.000,3.200,2.150
+61709468,2026-02-28 13:00,Hansa Rostock,Rot-Weiss Essen,3,2,1.909,3.400,3.200
+61709470,2026-02-28 13:00,SV Wehen Wiesbaden,FC Ingolstadt 04,2,1,2.150,3.500,2.700
+61709472,2026-02-28 13:00,Jahn Regensburg,SSV Ulm 1846,1,1,1.850,3.600,3.400
+61709466,2026-02-28 15:30,Energie Cottbus,SC Verl,0,0,2.550,3.600,2.250
+61709460,2026-03-01 12:30,SV Waldhof Mannheim 07,Alemannia Aachen,2,1,2.450,3.500,2.400
+61709474,2026-03-01 15:30,MSV Duisburg,TSV Havelse,1,1,1.400,4.200,6.000
+61709478,2026-03-01 18:30,1. FC Schweinfurt 05,1. FC Saarbrucken,2,2,5.250,3.800,1.500
+61709484,2026-03-03 18:00,VfB Stuttgart II,Energie Cottbus,1,2,2.300,3.500,2.550
+61709486,2026-03-03 18:00,SSV Ulm 1846,TSG Hoffenheim II,1,3,2.100,3.500,2.750
+61709488,2026-03-03 18:00,VfL 1899 Osnabruck,FC Viktoria Cologne,2,0,1.900,3.200,3.750
+61709496,2026-03-03 18:00,TSV 1860 Munich,Erzgebirge Aue,2,1,1.750,3.500,3.900
+61709498,2026-03-03 18:00,SC Verl,Jahn Regensburg,1,2,1.615,3.700,4.333
+61709480,2026-03-04 18:00,1. FC Saarbrucken,SV Wehen Wiesbaden,2,0,1.900,3.500,3.750
+61709482,2026-03-04 18:00,FC Ingolstadt 04,MSV Duisburg,0,0,2.500,3.400,2.550
+61709490,2026-03-04 18:00,TSV Havelse,Hansa Rostock,1,3,5.500,4.200,1.533
+61709492,2026-03-04 18:00,Alemannia Aachen,1. FC Schweinfurt 05,1,0,1.420,4.750,6.250
+61709494,2026-03-04 18:00,Rot-Weiss Essen,SV Waldhof Mannheim 07,1,0,1.833,4.100,3.400
+61709504,2026-03-06 18:00,FC Viktoria Cologne,TSV 1860 Munich,0,1,2.400,3.300,2.500
+61709506,2026-03-07 13:00,Erzgebirge Aue,Alemannia Aachen,1,3,2.550,3.300,2.375
+61709508,2026-03-07 13:00,Energie Cottbus,Hansa Rostock,0,0,2.100,3.500,2.875
+61709510,2026-03-07 13:00,SV Wehen Wiesbaden,VfB Stuttgart II,2,1,2.200,3.500,2.700
+61709516,2026-03-07 13:00,TSG Hoffenheim II,Rot-Weiss Essen,2,4,2.700,3.600,2.100
+61709518,2026-03-07 13:00,1. FC Schweinfurt 05,SSV Ulm 1846,3,2,3.750,3.600,1.750
+61709512,2026-03-07 15:30,Jahn Regensburg,VfL 1899 Osnabruck,0,2,2.375,3.200,2.625
+61709500,2026-03-08 12:30,SV Waldhof Mannheim 07,TSV Havelse,3,1,1.600,3.800,4.333
+61709514,2026-03-08 15:30,MSV Duisburg,1. FC Saarbrucken,4,2,2.100,3.250,3.000
+61709502,2026-03-08 18:30,FC Ingolstadt 04,SC Verl,1,2,2.625,3.600,2.250
+61709532,2026-03-13 18:00,Alemannia Aachen,Energie Cottbus,4,1,2.550,3.500,2.400
+61709520,2026-03-14 13:00,1. FC Saarbrucken,Jahn Regensburg,1,1,1.909,3.500,3.600
+61709526,2026-03-14 13:00,VfL 1899 Osnabruck,SV Waldhof Mannheim 07,4,1,1.615,3.750,4.750
+61709528,2026-03-14 13:00,Hansa Rostock,MSV Duisburg,5,1,1.850,3.500,3.750
+61709530,2026-03-14 13:00,TSV Havelse,FC Viktoria Cologne,3,2,4.000,3.750,1.750
+61709534,2026-03-14 13:00,Rot-Weiss Essen,Erzgebirge Aue,4,2,1.600,3.900,4.500
+61709536,2026-03-14 15:30,TSV 1860 Munich,SV Wehen Wiesbaden,0,0,1.909,3.500,3.600
+61709522,2026-03-15 12:30,VfB Stuttgart II,TSG Hoffenheim II,1,0,2.450,3.600,2.450
+61709538,2026-03-15 15:30,SC Verl,1. FC Schweinfurt 05,4,0,1.200,6.500,11.000
+61709524,2026-03-15 18:30,SSV Ulm 1846,FC Ingolstadt 04,1,3,2.375,3.500,2.625
+61709548,2026-03-20 18:00,SV Wehen Wiesbaden,Hansa Rostock,0,1,2.800,3.300,2.200
+61709540,2026-03-21 13:00,SV Waldhof Mannheim 07,Erzgebirge Aue,2,1,2.050,3.400,3.000
+61709542,2026-03-21 13:00,FC Ingolstadt 04,Alemannia Aachen,1,2,2.200,3.500,2.700
+61709546,2026-03-21 13:00,Energie Cottbus,SSV Ulm 1846,1,1,1.533,3.900,4.750
+61709550,2026-03-21 13:00,Jahn Regensburg,TSV Havelse,5,2,1.444,4.100,5.500
+61709558,2026-03-21 13:00,1. FC Schweinfurt 05,VfB Stuttgart II,3,1,4.750,4.000,1.550
+61709556,2026-03-21 15:30,SC Verl,1. FC Saarbrucken,3,0,1.800,3.600,3.500
+61709554,2026-03-22 12:30,TSG Hoffenheim II,VfL 1899 Osnabruck,0,1,2.800,3.600,2.100
+61709552,2026-03-22 15:30,MSV Duisburg,TSV 1860 Munich,2,1,2.150,3.250,3.000
+61709544,2026-03-22 18:30,FC Viktoria Cologne,Rot-Weiss Essen,1,2,2.700,3.400,2.200
+61709566,2026-04-04 12:00,VfL 1899 Osnabruck,1. FC Schweinfurt 05,4,0,1.270,4.750,9.000
+61709568,2026-04-04 12:00,Hansa Rostock,FC Viktoria Cologne,2,3,1.615,3.900,4.500
+61709570,2026-04-04 12:00,TSV Havelse,Energie Cottbus,0,3,4.500,4.750,1.500
+61709576,2026-04-04 12:00,TSV 1860 Munich,SV Waldhof Mannheim 07,1,1,1.850,3.600,3.600
+61709578,2026-04-04 12:00,Erzgebirge Aue,TSG Hoffenheim II,3,5,2.250,3.500,2.800
+61709562,2026-04-04 14:30,VfB Stuttgart II,Jahn Regensburg,3,1,2.050,3.700,2.900
+61709574,2026-04-04 14:30,Rot-Weiss Essen,MSV Duisburg,1,0,1.900,3.500,3.400
+61709564,2026-04-05 11:30,SSV Ulm 1846,SC Verl,1,0,3.500,4.000,1.800
+61709560,2026-04-05 14:30,1. FC Saarbrucken,FC Ingolstadt 04,1,0,1.850,3.600,3.600
+61709572,2026-04-05 17:30,Alemannia Aachen,SV Wehen Wiesbaden,3,0,1.900,3.900,3.300
+61709582,2026-04-07 17:00,SV Waldhof Mannheim 07,TSG Hoffenheim II,1,1,2.300,3.600,2.400
+61709588,2026-04-07 17:00,Energie Cottbus,TSV 1860 Munich,3,0,1.800,3.600,3.500
+61709592,2026-04-07 17:00,Jahn Regensburg,Erzgebirge Aue,1,0,1.833,3.500,3.400
+61709594,2026-04-07 17:00,MSV Duisburg,VfL 1899 Osnabruck,1,0,3.400,3.250,1.950
+61709598,2026-04-07 17:00,1. FC Schweinfurt 05,Rot-Weiss Essen,1,3,6.250,4.333,1.380
+61709580,2026-04-08 17:00,1. FC Saarbrucken,Alemannia Aachen,1,1,2.150,3.300,2.900
+61709584,2026-04-08 17:00,FC Ingolstadt 04,FC Viktoria Cologne,1,2,1.833,3.600,3.400
+61709586,2026-04-08 17:00,VfB Stuttgart II,SSV Ulm 1846,1,1,1.850,3.600,3.250
+61709590,2026-04-08 17:00,SV Wehen Wiesbaden,TSV Havelse,1,4,1.571,3.800,4.500
+61709596,2026-04-08 17:00,SC Verl,Hansa Rostock,1,2,1.950,3.500,3.100
+61709618,2026-04-10 17:00,TSG Hoffenheim II,1. FC Schweinfurt 05,1,1,1.444,4.200,6.000
+61709600,2026-04-11 12:00,SV Waldhof Mannheim 07,MSV Duisburg,1,4,2.500,3.400,2.400
+61709602,2026-04-11 12:00,FC Viktoria Cologne,SV Wehen Wiesbaden,2,1,2.200,3.300,2.800
+61709610,2026-04-11 12:00,TSV Havelse,1. FC Saarbrucken,2,0,4.100,3.800,1.615
+61709612,2026-04-11 12:00,Alemannia Aachen,VfB Stuttgart II,3,1,1.800,3.600,3.500
+61709614,2026-04-11 12:00,Rot-Weiss Essen,FC Ingolstadt 04,4,1,1.600,4.000,4.200
+61709608,2026-04-11 14:30,Hansa Rostock,SSV Ulm 1846,5,1,1.450,4.000,5.500
+61709606,2026-04-12 11:30,VfL 1899 Osnabruck,Energie Cottbus,1,0,2.150,3.300,2.900
+61709604,2026-04-12 14:30,Erzgebirge Aue,SC Verl,1,1,3.900,3.700,1.700
+61709616,2026-04-12 17:30,TSV 1860 Munich,Jahn Regensburg,2,2,2.200,3.300,2.800
+61709632,2026-04-17 17:00,Jahn Regensburg,Alemannia Aachen,1,3,2.550,3.600,2.350
+61709620,2026-04-18 12:00,1. FC Saarbrucken,TSV 1860 Munich,0,0,2.000,3.400,3.300
+61709622,2026-04-18 12:00,FC Ingolstadt 04,VfL 1899 Osnabruck,0,1,3.400,3.500,1.950
+61709634,2026-04-18 12:00,MSV Duisburg,TSG Hoffenheim II,3,1,1.650,3.900,4.200
+61709636,2026-04-18 12:00,SC Verl,FC Viktoria Cologne,2,0,1.533,4.000,5.250
+61709638,2026-04-18 12:00,1. FC Schweinfurt 05,Hansa Rostock,0,0,8.000,4.750,1.300
+61709626,2026-04-18 14:30,SSV Ulm 1846,TSV Havelse,2,1,1.615,4.000,4.333
+61709628,2026-04-19 11:30,Energie Cottbus,Rot-Weiss Essen,5,3,2.150,3.500,2.900
+61709624,2026-04-19 14:30,VfB Stuttgart II,Erzgebirge Aue,2,2,1.750,3.750,3.900
+61709630,2026-04-19 17:30,SV Wehen Wiesbaden,SV Waldhof Mannheim 07,3,3,2.150,3.400,3.000
+61709652,2026-04-24 17:00,Alemannia Aachen,MSV Duisburg,3,1,2.000,3.400,3.100
+61709644,2026-04-25 12:00,Erzgebirge Aue,SV Wehen Wiesbaden,2,2,2.750,3.500,2.150
+61709646,2026-04-25 12:00,VfL 1899 Osnabruck,SC Verl,2,1,2.350,3.300,2.600
+61709648,2026-04-25 12:00,Hansa Rostock,Jahn Regensburg,2,5,1.615,3.900,4.200
+61709656,2026-04-25 12:00,TSV 1860 Munich,SSV Ulm 1846,3,2,1.909,3.500,3.200
+61709658,2026-04-25 12:00,TSG Hoffenheim II,FC Ingolstadt 04,0,3,2.100,3.600,2.700
+61709640,2026-04-25 14:30,SV Waldhof Mannheim 07,1. FC Schweinfurt 05,2,2,1.450,4.200,5.250
+61709642,2026-04-26 11:30,FC Viktoria Cologne,Energie Cottbus,0,2,3.250,4.100,1.800
+61709654,2026-04-26 14:30,Rot-Weiss Essen,1. FC Saarbrucken,1,2,1.750,3.700,3.600
+61709650,2026-04-26 17:30,TSV Havelse,VfB Stuttgart II,3,2,3.400,3.750,1.800
+61709660,2026-05-02 12:00,1. FC Saarbrucken,SV Waldhof Mannheim 07,2,0,1.615,3.900,4.200
+61709670,2026-05-02 12:00,Jahn Regensburg,TSG Hoffenheim II,2,1,1.900,3.800,3.000
+61709674,2026-05-02 12:00,Alemannia Aachen,Hansa Rostock,1,1,2.250,3.600,2.550
+61709676,2026-05-02 12:00,SC Verl,TSV Havelse,4,0,1.250,5.500,8.000
+61709678,2026-05-02 12:00,1. FC Schweinfurt 05,TSV 1860 Munich,1,1,4.200,3.800,1.615
+61709664,2026-05-02 14:30,VfB Stuttgart II,Rot-Weiss Essen,6,1,3.250,4.000,1.800
+61709666,2026-05-02 14:30,SSV Ulm 1846,FC Viktoria Cologne,0,2,2.150,3.400,2.750
+61709672,2026-05-03 11:30,MSV Duisburg,Energie Cottbus,2,1,2.625,3.500,2.200
+61709668,2026-05-03 14:30,SV Wehen Wiesbaden,VfL 1899 Osnabruck,2,3,2.800,3.300,2.200
+61709662,2026-05-03 17:30,FC Ingolstadt 04,Erzgebirge Aue,3,5,1.615,3.900,4.100
+61709684,2026-05-08 17:00,Erzgebirge Aue,MSV Duisburg,0,0,3.800,3.800,1.666
+61709686,2026-05-09 12:00,VfL 1899 Osnabruck,SSV Ulm 1846,1,1,1.571,3.900,4.500
+61709688,2026-05-09 12:00,Energie Cottbus,SV Wehen Wiesbaden,2,1,1.533,4.500,4.200
+61709690,2026-05-09 12:00,Hansa Rostock,VfB Stuttgart II,5,3,1.666,4.000,3.750
+61709694,2026-05-09 12:00,Rot-Weiss Essen,SC Verl,1,0,2.150,3.800,2.625
+61709696,2026-05-09 12:00,TSV 1860 Munich,FC Ingolstadt 04,1,2,2.150,3.600,2.700
+61709680,2026-05-09 14:30,SV Waldhof Mannheim 07,Jahn Regensburg,1,0,2.350,3.700,2.375
+61709692,2026-05-10 11:30,TSV Havelse,1. FC Schweinfurt 05,3,2,2.100,3.600,2.750
+61709682,2026-05-10 14:30,FC Viktoria Cologne,Alemannia Aachen,0,3,2.750,3.600,2.050
+61709698,2026-05-10 17:30,TSG Hoffenheim II,1. FC Saarbrucken,3,2,3.000,3.900,1.850
+61709700,2026-05-16 11:30,1. FC Saarbrucken,Hansa Rostock,3,4,2.250,3.750,2.500
+61709702,2026-05-16 11:30,FC Ingolstadt 04,SV Waldhof Mannheim 07,5,1,1.900,3.900,3.100
+61709704,2026-05-16 11:30,VfB Stuttgart II,VfL 1899 Osnabruck,3,4,3.400,4.000,1.750
+61709706,2026-05-16 11:30,SSV Ulm 1846,Rot-Weiss Essen,2,3,4.200,4.100,1.571
+61709708,2026-05-16 11:30,SV Wehen Wiesbaden,TSG Hoffenheim II,2,0,1.727,3.900,3.500
+61709710,2026-05-16 11:30,Jahn Regensburg,Energie Cottbus,0,1,4.750,4.200,1.500
+61709712,2026-05-16 11:30,MSV Duisburg,FC Viktoria Cologne,1,1,1.480,4.100,5.500
+61709714,2026-05-16 11:30,Alemannia Aachen,TSV Havelse,6,1,1.285,5.500,6.500
+61709716,2026-05-16 11:30,SC Verl,TSV 1860 Munich,3,0,1.420,4.333,5.250
+61709718,2026-05-16 11:30,1. FC Schweinfurt 05,Erzgebirge Aue,2,4,2.700,3.700,2.100
+72680026,2026-08-07 17:00,SV Waldhof Mannheim 07,Fortuna Dusseldorf,2,1,3.000,3.600,2.050
+72680028,2026-08-08 12:00,FC Ingolstadt 04,FC Wurzburger Kickers,2,2,1.700,3.750,4.000
+72680030,2026-08-08 12:00,MSV Duisburg,SV Meppen 1912,3,0,1.480,4.000,5.250
+72680032,2026-08-08 12:00,SV Wehen Wiesbaden,SC Preussen 06 Munster,1,3,,,
+72680034,2026-08-08 12:00,FC Viktoria Cologne,Jahn Regensburg,2,5,2.100,3.600,2.800
+72680040,2026-08-08 12:00,TSV Havelse,VfB Stuttgart II,2,3,3.100,3.750,1.909
+72680044,2026-08-08 14:30,SG Sonnenhof Grossaspach,Fortuna Cologne,1,0,2.375,3.300,2.550
+72680038,2026-08-09 11:30,TSG Hoffenheim II,Hansa Rostock,2,3,4.333,4.000,1.600
+72680036,2026-08-09 14:30,1. FC Saarbrucken,Rot-Weiss Essen,5,2,2.800,3.500,2.100
+72680042,2026-08-09 17:30,Alemannia Aachen,SC Verl,4,1,2.100,3.700,2.800
+72680064,2026-08-14 17:00,FC Wurzburger Kickers,SV Wehen Wiesbaden,4,0,2.550,3.000,2.550
+72680046,2026-08-15 12:00,Fortuna Dusseldorf,TSG Hoffenheim II,0,2,1.500,4.500,4.333
+72680048,2026-08-15 12:00,SC Preussen 06 Munster,FC Ingolstadt 04,1,1,2.625,2.900,2.550
+72680050,2026-08-15 12:00,Rot-Weiss Essen,TSV Havelse,1,0,1.270,6.000,7.500
+72680060,2026-08-15 12:00,Fortuna Cologne,Alemannia Aachen,1,1,3.800,3.200,1.833
+72680062,2026-08-15 12:00,SV Meppen 1912,SG Sonnenhof Grossaspach,2,0,2.550,3.100,2.550
+72680054,2026-08-15 14:30,SC Verl,MSV Duisburg,2,4,3.100,3.400,2.100
+72680052,2026-08-16 11:30,Hansa Rostock,SV Waldhof Mannheim 07,3,3,1.600,4.200,4.333
+72680056,2026-08-16 14:30,Jahn Regensburg,1. FC Saarbrucken,0,1,2.450,3.500,2.450
+72680058,2026-08-16 17:30,VfB Stuttgart II,FC Viktoria Cologne,1,3,2.700,3.500,2.250
+72680068,2026-08-28 17:00,Fortuna Dusseldorf,VfB Stuttgart II,1,0,1.700,3.800,3.800
+72680070,2026-08-29 12:00,MSV Duisburg,FC Wurzburger Kickers,3,0,1.480,3.700,5.500
+72680072,2026-08-29 12:00,Alemannia Aachen,SV Meppen 1912,0,3,1.533,3.900,5.000
+72680074,2026-08-29 12:00,SC Verl,Fortuna Cologne,1,2,1.727,3.700,3.900
+72680076,2026-08-29 12:00,SV Wehen Wiesbaden,Rot-Weiss Essen,0,0,3.000,3.500,2.050
+72680084,2026-08-29 12:00,SG Sonnenhof Grossaspach,FC Ingolstadt 04,0,2,2.450,3.500,2.375
+72680082,2026-08-29 14:30,TSG Hoffenheim II,Jahn Regensburg,5,1,2.550,3.500,2.300
+72680080,2026-08-30 11:30,1. FC Saarbrucken,Hansa Rostock,2,4,2.450,3.400,2.375
+73269708,2026-08-30 14:30,TSV Havelse,SV Waldhof Mannheim 07,3,2,4.200,4.000,1.600
+73269710,2026-08-30 17:30,FC Viktoria Cologne,SC Preussen 06 Munster,4,1,1.909,3.400,3.400
+72680094,2026-09-04 17:00,FC Ingolstadt 04,Alemannia Aachen,0,3,2.150,3.600,2.700
+72680086,2026-09-05 12:00,Hansa Rostock,SV Wehen Wiesbaden,1,1,1.650,3.750,4.200
+72680088,2026-09-05 12:00,SC Preussen 06 Munster,TSV Havelse,2,1,1.666,3.750,4.000
+72680092,2026-09-05 12:00,SV Waldhof Mannheim 07,SC Verl,0,1,1.900,3.700,3.200
+72680096,2026-09-05 12:00,Jahn Regensburg,MSV Duisburg,1,2,3.300,3.600,1.900
+72680100,2026-09-05 12:00,SV Meppen 1912,1. FC Saarbrucken,1,6,2.350,3.400,2.550
+72680090,2026-09-05 14:30,Rot-Weiss Essen,FC Viktoria Cologne,1,0,1.950,3.500,3.200
+72680104,2026-09-06 11:30,FC Wurzburger Kickers,VfB Stuttgart II,1,2,2.000,3.600,3.000
+73269894,2026-09-06 14:30,SG Sonnenhof Grossaspach,TSG Hoffenheim II,1,0,2.200,3.750,2.600
+73270034,2026-09-06 17:30,Fortuna Cologne,Fortuna Dusseldorf,0,0,2.750,3.100,2.350
+72680116,2026-09-11 17:00,FC Viktoria Cologne,Hansa Rostock,4,0,2.700,3.500,2.200
+72680108,2026-09-12 12:00,Fortuna Dusseldorf,MSV Duisburg,2,1,2.500,3.300,2.450
+72680110,2026-09-12 12:00,Rot-Weiss Essen,FC Wurzburger Kickers,6,2,1.550,3.900,5.000
+72680112,2026-09-12 12:00,SC Verl,SV Meppen 1912,2,1,2.100,3.600,2.900
+72680120,2026-09-12 12:00,1. FC Saarbrucken,FC Ingolstadt 04,0,1,2.000,3.400,3.000
+72680124,2026-09-12 12:00,TSV Havelse,SG Sonnenhof Grossaspach,2,2,3.100,3.750,1.850
+72680106,2026-09-12 14:30,Alemannia Aachen,Jahn Regensburg,2,2,1.800,3.750,3.500
+72680118,2026-09-13 11:30,VfB Stuttgart II,SC Preussen 06 Munster,1,2,2.450,3.400,2.450
+73270128,2026-09-13 14:30,SV Wehen Wiesbaden,SV Waldhof Mannheim 07,0,1,2.000,3.500,3.000
+73270130,2026-09-13 17:30,TSG Hoffenheim II,Fortuna Cologne,2,2,1.950,3.500,3.250
+72680130,2026-09-15 17:00,MSV Duisburg,TSV Havelse,2,1,1.270,5.250,7.000
+72680136,2026-09-15 17:00,Jahn Regensburg,Fortuna Dusseldorf,1,2,2.900,3.300,2.100
+72680140,2026-09-15 17:00,SV Meppen 1912,FC Viktoria Cologne,1,3,3.100,3.600,2.000
+72680142,2026-09-15 17:00,SG Sonnenhof Grossaspach,SC Verl,1,1,2.000,3.600,3.000
+72680144,2026-09-15 17:00,FC Wurzburger Kickers,Alemannia Aachen,1,0,3.100,3.400,1.950
+72680126,2026-09-16 17:00,FC Ingolstadt 04,TSG Hoffenheim II,1,2,1.850,3.600,3.250
+72680128,2026-09-16 17:00,SC Preussen 06 Munster,1. FC Saarbrucken,3,3,2.625,3.250,2.350
+72680132,2026-09-16 17:00,Hansa Rostock,VfB Stuttgart II,3,2,1.500,4.100,4.750
+72680134,2026-09-16 17:00,SV Waldhof Mannheim 07,Rot-Weiss Essen,1,2,3.100,3.700,1.909
+72680138,2026-09-16 17:00,Fortuna Cologne,SV Wehen Wiesbaden,0,2,2.750,3.250,2.250
+72680150,2026-09-18 17:00,SC Verl,FC Wurzburger Kickers,2,1,1.950,3.600,3.300
+72680148,2026-09-19 12:00,Alemannia Aachen,Fortuna Dusseldorf,1,0,2.050,3.400,3.000
+72680156,2026-09-19 12:00,FC Viktoria Cologne,FC Ingolstadt 04,3,0,1.800,3.900,3.700
+72680158,2026-09-19 12:00,VfB Stuttgart II,Jahn Regensburg,3,3,2.600,3.600,2.350
+72680160,2026-09-19 12:00,TSG Hoffenheim II,SV Meppen 1912,1,0,1.650,4.100,4.200
+72680164,2026-09-19 14:30,1. FC Saarbrucken,SG Sonnenhof Grossaspach,2,1,1.833,3.600,3.600
+72680146,2026-09-20 11:30,Rot-Weiss Essen,Hansa Rostock,1,1,1.850,3.700,3.300
+73270134,2026-09-20 14:30,SV Waldhof Mannheim 07,SC Preussen 06 Munster,2,0,1.900,3.500,3.400
+72680152,2026-09-20 17:30,SV Wehen Wiesbaden,MSV Duisburg,1,4,2.625,3.400,2.250
+72680162,2026-09-25 17:00,TSV Havelse,Fortuna Cologne,1,3,2.550,3.400,2.300
+72680166,2026-10-09 17:00,SC Preussen 06 Munster,Rot-Weiss Essen,3,3,3.400,3.400,1.850
+72680174,2026-10-10 12:00,Jahn Regensburg,TSV Havelse,5,0,1.600,3.900,4.333
+72680176,2026-10-10 12:00,Fortuna Cologne,1. FC Saarbrucken,0,0,2.800,3.400,2.150
+72680178,2026-10-10 12:00,SV Meppen 1912,VfB Stuttgart II,1,1,2.300,3.500,2.500
+72680180,2026-10-10 12:00,SG Sonnenhof Grossaspach,SV Waldhof Mannheim 07,1,5,2.200,3.500,2.700
+72680182,2026-10-10 12:00,FC Wurzburger Kickers,Hansa Rostock,0,2,3.600,3.600,1.800
+72680168,2026-10-10 14:30,MSV Duisburg,TSG Hoffenheim II,3,2,1.615,3.900,4.000
+72680172,2026-10-11 11:30,FC Ingolstadt 04,SV Wehen Wiesbaden,2,4,2.300,3.300,2.625
+72680170,2026-10-11 14:30,Alemannia Aachen,FC Viktoria Cologne,2,5,2.050,3.400,2.900
+72680184,2026-10-11 17:30,Fortuna Dusseldorf,SC Verl,2,2,1.800,3.500,3.600
+72680186,2026-10-13 17:00,Hansa Rostock,SV Meppen 1912,0,2,1.444,4.333,5.250
+72680190,2026-10-13 17:00,Rot-Weiss Essen,Fortuna Cologne,2,0,1.450,4.100,5.500
+72680200,2026-10-13 17:00,VfB Stuttgart II,TSG Hoffenheim II,3,2,2.700,3.600,2.100
+72680202,2026-10-13 17:00,1. FC Saarbrucken,MSV Duisburg,2,4,2.450,3.500,2.450
+72680204,2026-10-13 17:00,TSV Havelse,FC Wurzburger Kickers,2,2,2.750,3.500,2.150
+72680188,2026-10-14 17:00,SC Preussen 06 Munster,Fortuna Dusseldorf,1,2,2.625,3.300,2.300
+72680192,2026-10-14 17:00,SC Verl,Jahn Regensburg,2,2,2.350,3.600,2.400
+72680194,2026-10-14 17:00,SV Wehen Wiesbaden,Alemannia Aachen,3,0,2.100,3.500,2.800
+72680196,2026-10-14 17:00,SV Waldhof Mannheim 07,FC Ingolstadt 04,0,3,1.727,3.800,3.700
+72680198,2026-10-14 17:00,FC Viktoria Cologne,SG Sonnenhof Grossaspach,2,2,1.571,4.000,4.500
+72680216,2026-10-16 17:00,Fortuna Cologne,VfB Stuttgart II,0,1,2.100,3.500,2.875
+72680206,2026-10-17 12:00,Fortuna Dusseldorf,1. FC Saarbrucken,1,3,2.050,3.500,2.900
+72680210,2026-10-17 12:00,FC Ingolstadt 04,Rot-Weiss Essen,1,0,3.300,3.500,1.900
+72680212,2026-10-17 12:00,Jahn Regensburg,SV Wehen Wiesbaden,0,0,2.300,3.400,2.550
+72680220,2026-10-17 12:00,SG Sonnenhof Grossaspach,SC Preussen 06 Munster,3,2,2.150,3.500,2.750
+72680224,2026-10-17 12:00,Alemannia Aachen,Hansa Rostock,2,0,2.450,3.500,2.350
+72680222,2026-10-17 14:30,FC Wurzburger Kickers,SV Waldhof Mannheim 07,2,0,3.300,3.600,1.900
+72680214,2026-10-18 11:30,TSG Hoffenheim II,SC Verl,2,1,1.800,4.000,3.300
+72680208,2026-10-18 14:30,MSV Duisburg,FC Viktoria Cologne,1,1,2.200,3.500,2.700
+72680218,2026-10-18 17:30,SV Meppen 1912,TSV Havelse,1,1,1.533,4.000,4.500
+72680230,2026-10-23 17:00,Rot-Weiss Essen,Jahn Regensburg,1,0,1.750,3.750,3.500
+72680226,2026-10-24 12:00,FC Viktoria Cologne,SC Verl,3,1,1.600,4.000,4.100
+72680232,2026-10-24 12:00,Hansa Rostock,Fortuna Dusseldorf,1,1,2.200,3.400,2.800
+72680234,2026-10-24 12:00,SV Wehen Wiesbaden,SG Sonnenhof Grossaspach,7,1,1.900,3.600,3.200
+72680238,2026-10-24 12:00,FC Ingolstadt 04,MSV Duisburg,2,1,3.000,3.400,2.000
+72680244,2026-10-24 12:00,SV Meppen 1912,FC Wurzburger Kickers,4,0,1.666,3.900,3.750
+72680240,2026-10-24 14:30,VfB Stuttgart II,Alemannia Aachen,1,2,2.625,3.500,2.150
+72680242,2026-10-25 12:30,TSV Havelse,1. FC Saarbrucken,3,2,4.100,3.900,1.615
+72680228,2026-10-25 15:30,SC Preussen 06 Munster,Fortuna Cologne,1,0,2.050,3.250,3.000
+72680236,2026-10-25 18:30,SV Waldhof Mannheim 07,TSG Hoffenheim II,4,1,2.100,3.500,2.750
+72680248,2026-10-30 18:00,Fortuna Dusseldorf,SV Meppen 1912,0,0,1.850,3.600,3.600
+72680246,2026-10-31 13:00,TSG Hoffenheim II,FC Viktoria Cologne,0,1,3.300,4.000,1.833
+72680250,2026-10-31 13:00,MSV Duisburg,VfB Stuttgart II,3,3,1.450,4.500,5.500
+72680254,2026-10-31 13:00,SC Verl,SV Wehen Wiesbaden,1,4,3.100,3.600,2.050
+72680256,2026-10-31 13:00,Jahn Regensburg,Hansa Rostock,2,1,2.625,3.600,2.250
+72680260,2026-10-31 13:00,TSV Havelse,FC Ingolstadt 04,1,1,3.600,3.800,1.800
+72680262,2026-10-31 15:30,Fortuna Cologne,FC Wurzburger Kickers,1,2,1.850,3.500,3.700
+72680258,2026-11-01 12:30,1. FC Saarbrucken,SV Waldhof Mannheim 07,2,1,2.100,3.750,2.900
+72680264,2026-11-01 15:30,SG Sonnenhof Grossaspach,Rot-Weiss Essen,0,1,3.500,3.500,1.900
+72680252,2026-11-01 18:30,Alemannia Aachen,SC Preussen 06 Munster,2,1,1.700,3.700,4.333
+72680276,2026-11-06 18:00,FC Viktoria Cologne,1. FC Saarbrucken,5,3,1.833,3.700,3.300
+72680268,2026-11-07 13:00,Rot-Weiss Essen,Alemannia Aachen,1,0,1.800,3.600,3.600
+72680270,2026-11-07 13:00,Hansa Rostock,SG Sonnenhof Grossaspach,3,0,1.615,3.800,4.200
+72680272,2026-11-07 13:00,SV Wehen Wiesbaden,TSV Havelse,3,0,1.400,4.333,5.750
+72680274,2026-11-07 13:00,SV Waldhof Mannheim 07,Fortuna Cologne,2,1,1.800,3.600,3.500
+72680278,2026-11-07 13:00,FC Ingolstadt 04,Fortuna Dusseldorf,3,2,2.625,3.400,2.300
+72680266,2026-11-07 15:30,SC Preussen 06 Munster,MSV Duisburg,1,2,3.500,3.400,1.833
+72680282,2026-11-08 12:30,SV Meppen 1912,Jahn Regensburg,2,1,2.100,3.700,2.700
+72680280,2026-11-08 15:30,VfB Stuttgart II,SC Verl,1,0,2.350,3.600,2.400
+72680284,2026-11-08 18:30,FC Wurzburger Kickers,TSG Hoffenheim II,0,1,2.800,3.600,2.050

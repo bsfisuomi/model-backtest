@@ -1,0 +1,406 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+60531193,2025-05-24 16:00,Burgos CF Promesas,Arandina CF,3,1,,,
+60531195,2025-05-25 15:00,SDA Tordesillas,CD Mirandes B,0,0,,,
+60808999,2025-06-01 17:00,Burgos CF Promesas,SDA Tordesillas,3,0,,,
+60809011,2025-06-07 16:00,SDA Tordesillas,Burgos CF Promesas,3,1,,,
+63141935,2025-09-06 15:00,Unionistas de Salamanca CF B,SDA Tordesillas,1,1,,,
+63141925,2025-09-06 15:30,CD Colegios Diocesanos,CD Numancia B,2,2,,,
+63141929,2025-09-06 16:00,Cultural Deportiva Leonesa B,CD Virgen Del Camino,0,1,,,
+63141931,2025-09-06 16:00,CD Mirandes B,CD Becerril,4,1,,,
+63141933,2025-09-06 16:00,Palencia CF,Arandina CF,4,0,,,
+63141937,2025-09-06 16:00,CD Villaralbo,CD Palencia Cristo Atletico,0,2,,,
+63141923,2025-09-06 16:30,CD Mojados,UD Santa Marta,1,3,,,
+63141921,2025-09-07 16:00,SD Almazan,CA Bembibre,1,1,,,
+63141927,2025-09-07 16:00,CD Guijuelo,CD Atletico Mansilles,1,0,,,
+63141943,2025-09-13 14:00,SDA Tordesillas,CD Colegios Diocesanos,0,0,,,
+63141941,2025-09-13 15:00,Arandina CF,SD Almazan,1,1,,,
+63141951,2025-09-13 15:00,CD Numancia B,CD Villaralbo,1,1,,,
+63141947,2025-09-13 15:30,CD Virgen Del Camino,CD Guijuelo,2,2,,,
+63141949,2025-09-13 16:00,CD Atletico Mansilles,Unionistas de Salamanca CF B,0,0,,,
+63141955,2025-09-13 16:00,UD Santa Marta,Cultural Deportiva Leonesa B,2,0,,,
+63141939,2025-09-13 17:00,CA Bembibre,CD Mojados,4,0,,,
+63141953,2025-09-14 10:00,CD Palencia Cristo Atletico,CD Mirandes B,1,0,,,
+63141945,2025-09-14 16:00,CD Becerril,Palencia CF,1,2,,,
+63141961,2025-09-20 14:00,CD Colegios Diocesanos,CD Atletico Mansilles,1,2,,,
+63141971,2025-09-20 15:00,Unionistas de Salamanca CF B,CD Virgen Del Camino,0,1,,,
+63141973,2025-09-20 15:30,CD Villaralbo,SDA Tordesillas,0,2,,,
+63141959,2025-09-20 16:00,CD Mojados,Arandina CF,0,1,,,
+63141963,2025-09-20 16:00,CD Guijuelo,UD Santa Marta,1,1,,,
+63141965,2025-09-21 10:00,Cultural Deportiva Leonesa B,CA Bembibre,1,2,,,
+63141967,2025-09-21 10:00,CD Mirandes B,Palencia CF,0,2,,,
+63141957,2025-09-21 15:00,SD Almazan,CD Becerril,1,1,,,
+63141969,2025-09-21 15:00,CD Palencia Cristo Atletico,CD Numancia B,2,0,,,
+63141987,2025-09-27 15:00,CD Numancia B,CD Mirandes B,0,1,,,
+63141991,2025-09-27 15:00,UD Santa Marta,Unionistas de Salamanca CF B,2,2,,,
+63141983,2025-09-27 15:30,CD Virgen Del Camino,CD Colegios Diocesanos,0,0,,,
+63141985,2025-09-27 15:30,CD Atletico Mansilles,CD Villaralbo,0,0,,,
+63141975,2025-09-27 16:00,Arandina CF,Cultural Deportiva Leonesa B,0,1,,,
+63141977,2025-09-27 16:00,SDA Tordesillas,CD Palencia Cristo Atletico,0,1,,,
+63141979,2025-09-28 15:00,CD Becerril,CD Mojados,3,1,,,
+63141981,2025-09-28 15:00,CA Bembibre,CD Guijuelo,1,2,,,
+63141989,2025-09-28 16:00,Palencia CF,SD Almazan,1,0,,,
+63141993,2025-10-04 14:00,CD Mojados,Palencia CF,0,0,,,
+63141995,2025-10-04 14:00,CD Colegios Diocesanos,UD Santa Marta,0,1,,,
+63142003,2025-10-04 15:00,CD Numancia B,SDA Tordesillas,0,2,,,
+63142009,2025-10-04 15:00,CD Villaralbo,CD Virgen Del Camino,1,0,,,
+63142001,2025-10-04 15:30,CD Mirandes B,SD Almazan,3,0,,,
+63141999,2025-10-05 10:00,Cultural Deportiva Leonesa B,CD Becerril,2,1,,,
+63142007,2025-10-05 10:00,Unionistas de Salamanca CF B,CA Bembibre,3,2,,,
+63141997,2025-10-05 15:00,CD Guijuelo,Arandina CF,2,0,,,
+63142005,2025-10-05 15:00,CD Palencia Cristo Atletico,CD Atletico Mansilles,1,2,,,
+63142021,2025-10-11 14:30,CD Virgen Del Camino,CD Palencia Cristo Atletico,0,2,,,
+63142015,2025-10-11 15:00,SDA Tordesillas,CD Mirandes B,1,0,,,
+63142023,2025-10-11 15:00,CD Atletico Mansilles,CD Numancia B,0,0,,,
+63142027,2025-10-11 15:00,UD Santa Marta,CD Villaralbo,3,0,,,
+63142011,2025-10-11 16:00,SD Almazan,CD Mojados,4,1,,,
+63142013,2025-10-12 14:30,Arandina CF,Unionistas de Salamanca CF B,2,1,,,
+63142017,2025-10-12 15:00,CD Becerril,CD Guijuelo,1,3,,,
+63142019,2025-10-12 15:00,CA Bembibre,CD Colegios Diocesanos,0,1,,,
+63142025,2025-10-12 15:00,Palencia CF,Cultural Deportiva Leonesa B,3,2,,,
+63142031,2025-10-18 14:00,CD Colegios Diocesanos,Arandina CF,2,0,,,
+63142039,2025-10-18 15:00,CD Numancia B,CD Virgen Del Camino,0,1,,,
+63142045,2025-10-18 15:00,CD Villaralbo,CA Bembibre,0,1,,,
+63142037,2025-10-19 10:00,CD Mirandes B,CD Mojados,0,0,,,
+63142043,2025-10-19 10:00,Unionistas de Salamanca CF B,CD Becerril,1,2,,,
+63142035,2025-10-19 14:00,Cultural Deportiva Leonesa B,SD Almazan,2,3,,,
+63142029,2025-10-19 15:00,SDA Tordesillas,CD Atletico Mansilles,2,0,,,
+63142033,2025-10-19 15:00,CD Guijuelo,Palencia CF,2,1,,,
+63142041,2025-10-19 15:00,CD Palencia Cristo Atletico,UD Santa Marta,2,1,,,
+63142055,2025-10-25 14:00,CD Mojados,Cultural Deportiva Leonesa B,1,0,,,
+63142057,2025-10-25 14:30,CD Virgen Del Camino,SDA Tordesillas,0,1,,,
+63142059,2025-10-25 14:30,CD Atletico Mansilles,CD Mirandes B,1,0,,,
+63142063,2025-10-25 14:30,UD Santa Marta,CD Numancia B,1,0,,,
+63142047,2025-10-25 15:00,SD Almazan,CD Guijuelo,1,0,,,
+63142051,2025-10-25 15:00,CD Becerril,CD Colegios Diocesanos,0,1,,,
+63142049,2025-10-26 11:00,Arandina CF,CD Villaralbo,2,0,,,
+63142061,2025-10-26 11:00,Palencia CF,Unionistas de Salamanca CF B,3,1,,,
+63142053,2025-10-26 11:30,CA Bembibre,CD Palencia Cristo Atletico,0,1,,,
+63142067,2025-11-01 15:00,CD Colegios Diocesanos,Palencia CF,1,2,,,
+63142079,2025-11-01 15:00,Unionistas de Salamanca CF B,SD Almazan,1,1,,,
+63142071,2025-11-01 15:15,CD Atletico Mansilles,CD Virgen Del Camino,2,1,,,
+63142075,2025-11-01 15:15,CD Numancia B,CA Bembibre,0,1,,,
+63142081,2025-11-01 15:30,CD Villaralbo,CD Becerril,2,0,,,
+63142069,2025-11-01 16:00,CD Guijuelo,CD Mojados,1,1,,,
+63142077,2025-11-01 17:00,CD Palencia Cristo Atletico,Arandina CF,1,0,,,
+63142073,2025-11-02 11:00,CD Mirandes B,Cultural Deportiva Leonesa B,0,1,,,
+63142065,2025-11-02 15:15,SDA Tordesillas,UD Santa Marta,2,1,,,
+63142093,2025-11-08 14:45,CD Virgen Del Camino,CD Mirandes B,1,1,,,
+63142095,2025-11-08 15:00,Cultural Deportiva Leonesa B,CD Guijuelo,1,2,,,
+63142091,2025-11-08 15:30,CD Mojados,Unionistas de Salamanca CF B,1,0,,,
+63142099,2025-11-08 15:30,UD Santa Marta,CD Atletico Mansilles,2,0,,,
+63142085,2025-11-08 16:00,Arandina CF,CD Numancia B,0,0,,,
+63142097,2025-11-08 16:00,Palencia CF,CD Villaralbo,0,0,,,
+63142087,2025-11-09 15:30,CD Becerril,CD Palencia Cristo Atletico,1,1,,,
+63142083,2025-11-09 16:00,SD Almazan,CD Colegios Diocesanos,0,2,,,
+63142089,2025-11-09 16:00,CA Bembibre,SDA Tordesillas,0,4,,,
+63142105,2025-11-15 14:45,CD Virgen Del Camino,UD Santa Marta,0,1,,,
+63142109,2025-11-15 14:45,CD Mirandes B,CD Guijuelo,0,0,,,
+63142103,2025-11-15 15:00,CD Colegios Diocesanos,CD Mojados,2,2,,,
+63142107,2025-11-15 15:00,CD Atletico Mansilles,CA Bembibre,1,0,,,
+63142111,2025-11-15 15:00,CD Numancia B,CD Becerril,2,1,,,
+63142115,2025-11-15 15:00,Unionistas de Salamanca CF B,Cultural Deportiva Leonesa B,0,0,,,
+63142117,2025-11-15 15:00,CD Villaralbo,SD Almazan,0,0,,,
+63142101,2025-11-16 15:15,SDA Tordesillas,Arandina CF,3,1,,,
+63142113,2025-11-16 17:00,CD Palencia Cristo Atletico,Palencia CF,1,2,,,
+63142127,2025-11-22 15:00,CD Mojados,CD Villaralbo,1,2,,,
+63142131,2025-11-22 15:00,Cultural Deportiva Leonesa B,CD Colegios Diocesanos,2,2,,,
+63142135,2025-11-22 15:15,UD Santa Marta,CD Mirandes B,0,2,,,
+63142121,2025-11-22 15:30,Arandina CF,CD Atletico Mansilles,0,0,,,
+63142133,2025-11-23 11:00,Palencia CF,CD Numancia B,2,0,,,
+63142123,2025-11-23 15:00,CD Becerril,SDA Tordesillas,2,3,,,
+63142119,2025-11-23 15:30,SD Almazan,CD Palencia Cristo Atletico,1,1,,,
+63142125,2025-11-23 16:00,CA Bembibre,CD Virgen Del Camino,1,2,,,
+63142129,2025-11-23 16:00,CD Guijuelo,Unionistas de Salamanca CF B,1,0,,,
+63142145,2025-12-06 14:30,CD Mirandes B,Unionistas de Salamanca CF B,3,1,,,
+63142141,2025-12-06 14:45,CD Virgen Del Camino,Arandina CF,1,1,,,
+63142143,2025-12-06 14:45,CD Atletico Mansilles,CD Becerril,2,2,,,
+63142137,2025-12-06 15:00,SDA Tordesillas,Palencia CF,1,0,,,
+63142139,2025-12-06 15:00,CD Colegios Diocesanos,CD Guijuelo,0,1,,,
+63142147,2025-12-06 15:00,CD Numancia B,SD Almazan,0,2,,,
+63142153,2025-12-06 15:00,CD Villaralbo,Cultural Deportiva Leonesa B,0,0,,,
+63142151,2025-12-06 15:15,UD Santa Marta,CA Bembibre,2,0,,,
+63142149,2025-12-06 16:00,CD Palencia Cristo Atletico,CD Mojados,3,0,,,
+63142163,2025-12-13 15:00,CD Mojados,CD Numancia B,3,2,,,
+63142167,2025-12-13 15:00,Cultural Deportiva Leonesa B,CD Palencia Cristo Atletico,2,1,,,
+63142169,2025-12-13 15:00,Palencia CF,CD Atletico Mansilles,1,1,1.600,3.400,5.250
+63142171,2025-12-13 15:00,Unionistas de Salamanca CF B,CD Colegios Diocesanos,1,2,1.950,3.200,3.500
+63142157,2025-12-13 16:00,Arandina CF,UD Santa Marta,0,1,,,
+63142159,2025-12-14 15:00,CD Becerril,CD Virgen Del Camino,1,2,2.250,3.100,2.800
+63142155,2025-12-14 15:30,SD Almazan,SDA Tordesillas,1,1,,,
+63142165,2025-12-14 15:30,CD Guijuelo,CD Villaralbo,1,0,,,
+63142161,2025-12-14 16:00,CA Bembibre,CD Mirandes B,1,0,3.750,3.250,1.850
+63142181,2025-12-20 14:30,CD Mirandes B,CD Colegios Diocesanos,3,0,1.909,3.250,3.500
+63142177,2025-12-20 14:45,CD Virgen Del Camino,Palencia CF,2,0,,,
+63142189,2025-12-20 15:00,CD Villaralbo,Unionistas de Salamanca CF B,0,0,,,
+63142187,2025-12-20 15:15,UD Santa Marta,CD Becerril,5,0,,,
+63142175,2025-12-20 15:30,CA Bembibre,Arandina CF,1,1,2.600,3.100,2.450
+63142185,2025-12-20 16:00,CD Palencia Cristo Atletico,CD Guijuelo,1,2,2.450,2.900,2.750
+63142173,2025-12-21 11:00,SDA Tordesillas,CD Mojados,4,1,,,
+63142183,2025-12-21 12:00,CD Numancia B,Cultural Deportiva Leonesa B,2,1,,,
+63142203,2026-01-03 14:45,CD Mirandes B,Arandina CF,3,0,,,
+63142207,2026-01-03 15:00,Unionistas de Salamanca CF B,CD Palencia Cristo Atletico,0,0,4.200,3.250,1.750
+63142191,2026-01-03 15:30,SD Almazan,CD Virgen Del Camino,0,0,2.250,2.900,3.000
+63142205,2026-01-04 11:00,Palencia CF,UD Santa Marta,2,1,2.050,3.100,3.300
+63142197,2026-01-04 15:00,CD Colegios Diocesanos,CD Villaralbo,1,2,,,
+63142201,2026-01-04 15:00,Cultural Deportiva Leonesa B,SDA Tordesillas,1,1,,,
+63142195,2026-01-04 15:30,CD Mojados,CD Atletico Mansilles,1,1,3.100,3.000,2.200
+63142199,2026-01-04 15:30,CD Guijuelo,CD Numancia B,3,0,,,
+63142193,2026-01-04 16:00,CD Becerril,CA Bembibre,2,1,,,
+63142215,2026-01-10 14:45,CD Virgen Del Camino,CD Mojados,2,0,,,
+63142217,2026-01-10 15:00,CD Atletico Mansilles,Cultural Deportiva Leonesa B,1,0,,,
+63142219,2026-01-10 15:00,CD Numancia B,Unionistas de Salamanca CF B,2,0,,,
+63142225,2026-01-10 15:00,CD Villaralbo,CD Mirandes B,1,1,2.700,3.000,2.450
+63142223,2026-01-10 15:15,UD Santa Marta,SD Almazan,3,2,1.571,3.400,5.500
+63142209,2026-01-10 16:00,Arandina CF,CD Becerril,1,0,2.900,3.100,2.200
+63142211,2026-01-11 15:15,SDA Tordesillas,CD Guijuelo,0,0,2.400,3.000,2.800
+63142213,2026-01-11 15:30,CA Bembibre,Palencia CF,1,4,4.100,3.100,1.833
+63142221,2026-01-11 16:00,CD Palencia Cristo Atletico,CD Colegios Diocesanos,3,1,1.480,3.750,6.250
+63142235,2026-01-17 14:45,CD Virgen Del Camino,Cultural Deportiva Leonesa B,1,0,,,
+63142243,2026-01-17 15:15,UD Santa Marta,CD Mojados,1,0,1.420,3.900,6.500
+63142227,2026-01-17 17:00,Arandina CF,Palencia CF,0,1,,,
+63142229,2026-01-18 15:15,SDA Tordesillas,Unionistas de Salamanca CF B,2,0,1.420,3.800,7.000
+63142237,2026-01-18 15:15,CD Atletico Mansilles,CD Guijuelo,2,1,3.300,2.900,2.100
+63142231,2026-01-18 15:30,CD Becerril,CD Mirandes B,0,1,,,
+63142233,2026-01-18 15:30,CA Bembibre,SD Almazan,2,2,2.750,3.000,2.375
+63142241,2026-01-18 16:00,CD Palencia Cristo Atletico,CD Villaralbo,2,0,,,
+63142253,2026-01-24 15:00,Cultural Deportiva Leonesa B,UD Santa Marta,1,0,,,
+63142255,2026-01-24 15:00,CD Mirandes B,CD Palencia Cristo Atletico,2,1,2.375,3.000,2.750
+63142261,2026-01-24 15:30,CD Villaralbo,CD Numancia B,3,1,,,
+63142257,2026-01-25 11:00,Palencia CF,CD Becerril,2,1,1.450,3.750,6.500
+63142245,2026-01-25 15:30,SD Almazan,Arandina CF,1,3,,,
+63142251,2026-01-25 15:30,CD Guijuelo,CD Virgen Del Camino,3,1,1.727,3.300,4.333
+63142273,2026-01-31 15:15,CD Atletico Mansilles,CD Colegios Diocesanos,1,0,,,
+63142279,2026-01-31 15:15,UD Santa Marta,CD Guijuelo,1,0,2.200,3.000,3.100
+63142275,2026-01-31 15:30,CD Numancia B,CD Palencia Cristo Atletico,1,0,,,
+63142263,2026-01-31 17:00,Arandina CF,CD Mojados,1,1,,,
+63142277,2026-02-01 11:00,Palencia CF,CD Mirandes B,3,1,1.800,3.250,3.900
+63142265,2026-02-01 15:30,SDA Tordesillas,CD Villaralbo,3,1,1.444,4.000,6.000
+63142267,2026-02-01 15:30,CD Becerril,SD Almazan,1,3,2.600,3.200,2.400
+63142269,2026-02-01 15:30,CA Bembibre,Cultural Deportiva Leonesa B,0,1,,,
+68095348,2026-02-04 15:30,CD Numancia B,CD Colegios Diocesanos,6,1,,,
+63142285,2026-02-07 15:00,CD Colegios Diocesanos,CD Virgen Del Camino,0,1,,,
+63142289,2026-02-07 15:00,Cultural Deportiva Leonesa B,Arandina CF,3,0,,,
+63142291,2026-02-07 15:00,CD Mirandes B,CD Numancia B,2,0,1.571,3.400,5.250
+63142295,2026-02-07 15:00,Unionistas de Salamanca CF B,UD Santa Marta,0,0,4.100,3.700,1.666
+63142283,2026-02-07 15:30,CD Mojados,CD Becerril,1,0,2.875,3.200,2.350
+63142297,2026-02-07 15:30,CD Villaralbo,CD Atletico Mansilles,1,0,,,
+63142293,2026-02-07 16:00,CD Palencia Cristo Atletico,SDA Tordesillas,0,0,,,
+63142287,2026-02-08 15:30,CD Guijuelo,CA Bembibre,0,0,,,
+63142281,2026-02-08 16:00,SD Almazan,Palencia CF,3,1,,,
+68425924,2026-02-11 18:00,CD Colegios Diocesanos,SDA Tordesillas,3,2,4.750,3.500,1.615
+63142315,2026-02-14 15:15,UD Santa Marta,CD Colegios Diocesanos,0,0,1.363,4.100,7.500
+63142311,2026-02-14 15:30,CD Atletico Mansilles,CD Palencia Cristo Atletico,0,2,,,
+63142299,2026-02-14 16:00,SD Almazan,CD Mirandes B,1,1,,,
+63142301,2026-02-15 15:30,Arandina CF,CD Guijuelo,1,2,,,
+63142303,2026-02-15 15:30,SDA Tordesillas,CD Numancia B,3,0,1.420,3.700,7.000
+63142307,2026-02-15 15:30,CA Bembibre,Unionistas de Salamanca CF B,0,0,2.250,3.000,2.900
+63142305,2026-02-15 16:00,CD Becerril,Cultural Deportiva Leonesa B,2,1,,,
+63142313,2026-02-15 16:00,Palencia CF,CD Mojados,2,0,1.333,4.100,8.000
+63142325,2026-02-22 11:00,CD Mirandes B,SDA Tordesillas,0,1,3.100,2.900,2.250
+63142331,2026-02-22 11:00,Unionistas de Salamanca CF B,Arandina CF,2,2,2.200,3.000,3.000
+63142319,2026-02-22 11:30,CD Colegios Diocesanos,CA Bembibre,2,1,,,
+63142323,2026-02-22 15:00,Cultural Deportiva Leonesa B,Palencia CF,2,2,,,
+63142317,2026-02-22 15:30,CD Mojados,SD Almazan,1,1,3.400,3.200,1.950
+63142321,2026-02-22 15:30,CD Guijuelo,CD Becerril,2,1,,,
+63142327,2026-02-22 15:30,CD Numancia B,CD Atletico Mansilles,0,1,,,
+63142333,2026-02-22 15:30,CD Villaralbo,UD Santa Marta,0,1,,,
+63142329,2026-02-22 17:00,CD Palencia Cristo Atletico,CD Virgen Del Camino,0,1,,,
+63142343,2026-02-28 15:00,CD Mojados,CD Mirandes B,1,2,4.250,3.250,1.750
+63142341,2026-02-28 15:30,CA Bembibre,CD Villaralbo,1,0,,,
+63142345,2026-02-28 15:30,CD Virgen Del Camino,CD Numancia B,0,2,1.800,3.000,4.500
+63142351,2026-02-28 15:30,UD Santa Marta,CD Palencia Cristo Atletico,1,2,1.833,3.000,4.200
+63142337,2026-02-28 16:00,Arandina CF,CD Colegios Diocesanos,2,0,,,
+63142347,2026-02-28 16:00,CD Atletico Mansilles,SDA Tordesillas,0,4,,,
+63142349,2026-02-28 16:00,Palencia CF,CD Guijuelo,1,2,,,
+63142335,2026-03-01 16:00,SD Almazan,Cultural Deportiva Leonesa B,3,0,,,
+63142339,2026-03-01 16:00,CD Becerril,Unionistas de Salamanca CF B,3,3,1.950,3.000,3.700
+69116196,2026-03-04 18:00,Unionistas de Salamanca CF B,CD Atletico Mansilles,2,2,2.200,3.100,3.000
+68939050,2026-03-04 19:00,CD Mojados,CA Bembibre,0,0,,,
+63142359,2026-03-07 15:00,Cultural Deportiva Leonesa B,CD Mojados,2,0,,,
+63142361,2026-03-07 15:00,CD Mirandes B,CD Atletico Mansilles,0,0,1.500,3.500,6.000
+63142357,2026-03-07 15:30,CD Guijuelo,SD Almazan,0,2,1.550,3.500,5.250
+63142365,2026-03-07 16:00,CD Palencia Cristo Atletico,CA Bembibre,2,0,1.650,3.300,5.000
+63142369,2026-03-07 16:00,CD Villaralbo,Arandina CF,2,0,,,
+63142355,2026-03-07 17:30,CD Colegios Diocesanos,CD Becerril,1,5,,,
+63142367,2026-03-08 11:00,Unionistas de Salamanca CF B,Palencia CF,0,1,,,
+63142363,2026-03-08 12:00,CD Numancia B,UD Santa Marta,1,3,3.900,3.200,1.850
+63142353,2026-03-08 16:00,SDA Tordesillas,CD Virgen Del Camino,1,0,1.571,3.400,5.500
+63142377,2026-03-14 15:30,CA Bembibre,CD Numancia B,2,0,2.150,3.000,3.100
+63142381,2026-03-14 15:30,CD Virgen Del Camino,CD Atletico Mansilles,0,0,,,
+63142387,2026-03-14 15:30,UD Santa Marta,SDA Tordesillas,1,2,2.900,2.500,2.625
+63142385,2026-03-14 16:00,Palencia CF,CD Colegios Diocesanos,2,1,1.333,4.200,8.000
+63142373,2026-03-14 17:00,Arandina CF,CD Palencia Cristo Atletico,0,2,,,
+63142383,2026-03-15 10:30,Cultural Deportiva Leonesa B,CD Mirandes B,2,0,,,
+63142371,2026-03-15 15:30,SD Almazan,Unionistas de Salamanca CF B,3,0,,,
+63142375,2026-03-15 16:00,CD Becerril,CD Villaralbo,0,0,2.100,3.200,3.100
+63142379,2026-03-15 16:00,CD Mojados,CD Guijuelo,3,1,5.250,3.400,1.571
+69618272,2026-03-18 16:00,CD Virgen Del Camino,Unionistas de Salamanca CF B,1,1,1.800,3.250,3.900
+63142391,2026-03-21 15:00,CD Colegios Diocesanos,SD Almazan,1,0,,,
+63142397,2026-03-21 15:00,CD Mirandes B,CD Virgen Del Camino,1,1,,,
+63142389,2026-03-21 16:00,SDA Tordesillas,CA Bembibre,4,1,,,
+63142395,2026-03-21 16:00,CD Atletico Mansilles,UD Santa Marta,2,0,,,
+63142399,2026-03-21 16:00,CD Numancia B,Arandina CF,0,2,2.150,3.000,3.000
+63142405,2026-03-21 16:00,CD Villaralbo,Palencia CF,3,2,,,
+63142403,2026-03-21 17:00,Unionistas de Salamanca CF B,CD Mojados,3,1,1.850,3.200,4.000
+63142393,2026-03-22 16:00,CD Guijuelo,Cultural Deportiva Leonesa B,4,0,,,
+63142401,2026-03-22 16:00,CD Palencia Cristo Atletico,CD Becerril,1,1,1.420,3.800,7.000
+63142419,2026-03-28 15:15,Cultural Deportiva Leonesa B,Unionistas de Salamanca CF B,0,4,,,
+63142409,2026-03-28 15:30,Arandina CF,SDA Tordesillas,1,2,,,
+63142413,2026-03-28 15:30,CA Bembibre,CD Atletico Mansilles,1,1,,,
+63142423,2026-03-28 15:30,UD Santa Marta,CD Virgen Del Camino,4,0,,,
+63142407,2026-03-28 16:00,SD Almazan,CD Villaralbo,2,1,,,
+63142415,2026-03-28 16:00,CD Mojados,CD Colegios Diocesanos,0,1,2.375,3.100,2.750
+63142421,2026-03-28 17:00,Palencia CF,CD Palencia Cristo Atletico,0,1,2.300,3.000,2.900
+63142411,2026-03-29 15:00,CD Becerril,CD Numancia B,1,1,1.700,3.750,3.900
+63142417,2026-03-29 15:00,CD Guijuelo,CD Mirandes B,1,0,,,
+69618276,2026-04-01 15:30,CD Virgen Del Camino,CD Villaralbo,1,0,,,
+63142433,2026-04-03 11:00,CD Mirandes B,UD Santa Marta,2,3,2.450,3.000,2.750
+63142425,2026-04-03 15:00,SDA Tordesillas,CD Becerril,2,1,1.333,4.500,7.500
+63142431,2026-04-04 15:00,CD Atletico Mansilles,Arandina CF,1,1,2.050,3.100,3.300
+63142437,2026-04-04 15:00,CD Palencia Cristo Atletico,SD Almazan,4,2,,,
+63142439,2026-04-04 15:00,Unionistas de Salamanca CF B,CD Guijuelo,1,2,3.300,3.200,2.000
+63142441,2026-04-04 15:00,CD Villaralbo,CD Mojados,1,1,,,
+63142429,2026-04-05 10:00,CD Virgen Del Camino,CA Bembibre,3,1,2.100,3.000,3.300
+63142427,2026-04-05 15:00,CD Colegios Diocesanos,Cultural Deportiva Leonesa B,0,3,,,
+63142435,2026-04-05 16:00,CD Numancia B,Palencia CF,2,3,,,
+63142455,2026-04-11 14:00,Cultural Deportiva Leonesa B,CD Villaralbo,1,2,,,
+63142449,2026-04-11 15:00,CA Bembibre,UD Santa Marta,2,2,,,
+63142451,2026-04-11 15:00,CD Mojados,CD Palencia Cristo Atletico,1,2,,,
+63142459,2026-04-11 15:00,Unionistas de Salamanca CF B,CD Mirandes B,1,2,,,
+63142443,2026-04-11 15:30,SD Almazan,CD Numancia B,5,0,,,
+63142445,2026-04-11 16:00,Arandina CF,CD Virgen Del Camino,3,1,,,
+63142457,2026-04-11 16:00,Palencia CF,SDA Tordesillas,1,2,,,
+63142447,2026-04-12 15:00,CD Becerril,CD Atletico Mansilles,0,2,,,
+63142453,2026-04-12 15:00,CD Guijuelo,CD Colegios Diocesanos,4,0,,,
+63142477,2026-04-18 14:00,CD Villaralbo,CD Guijuelo,1,1,,,
+63142465,2026-04-18 14:15,CD Virgen Del Camino,CD Becerril,0,1,,,
+63142467,2026-04-18 15:00,CD Atletico Mansilles,Palencia CF,2,1,,,
+63142471,2026-04-18 15:00,CD Numancia B,CD Mojados,1,1,1.700,3.600,4.100
+63142473,2026-04-18 15:00,CD Palencia Cristo Atletico,Cultural Deportiva Leonesa B,1,0,,,
+63142475,2026-04-18 15:00,UD Santa Marta,Arandina CF,1,1,,,
+63142469,2026-04-18 15:30,CD Mirandes B,CA Bembibre,2,2,,,
+63142461,2026-04-19 15:00,SDA Tordesillas,SD Almazan,1,0,,,
+63142463,2026-04-19 16:30,CD Colegios Diocesanos,Unionistas de Salamanca CF B,0,1,,,
+70478984,2026-04-23 15:00,CD Atletico Mansilles,SD Almazan,1,0,,,
+63142487,2026-04-25 14:00,CD Colegios Diocesanos,CD Mirandes B,3,1,,,
+63142491,2026-04-25 14:00,Cultural Deportiva Leonesa B,CD Numancia B,3,0,,,
+63142493,2026-04-25 15:00,Palencia CF,CD Virgen Del Camino,3,2,,,
+63142495,2026-04-26 10:00,Unionistas de Salamanca CF B,CD Villaralbo,0,1,,,
+63142479,2026-04-26 15:00,SD Almazan,CD Atletico Mansilles,0,1,,,
+63142485,2026-04-26 15:00,CD Mojados,SDA Tordesillas,0,4,,,
+63142489,2026-04-26 15:00,CD Guijuelo,CD Palencia Cristo Atletico,1,2,,,
+63142481,2026-04-26 16:00,Arandina CF,CA Bembibre,3,3,,,
+63142483,2026-04-26 16:00,CD Becerril,UD Santa Marta,2,2,,,
+63142503,2026-05-01 11:00,CD Virgen Del Camino,SD Almazan,1,2,,,
+63142513,2026-05-02 14:30,CD Villaralbo,CD Colegios Diocesanos,2,1,,,
+63142501,2026-05-02 15:00,CA Bembibre,CD Becerril,4,1,2.800,3.100,2.250
+63142511,2026-05-02 15:00,UD Santa Marta,Palencia CF,2,1,1.850,3.200,3.900
+63142499,2026-05-02 15:30,SDA Tordesillas,Cultural Deportiva Leonesa B,1,2,,,
+63142505,2026-05-02 15:30,CD Atletico Mansilles,CD Mojados,0,1,,,
+63142507,2026-05-02 15:30,CD Numancia B,CD Guijuelo,0,2,,,
+63142497,2026-05-02 16:00,Arandina CF,CD Mirandes B,2,1,,,
+63142509,2026-05-02 16:00,CD Palencia Cristo Atletico,Unionistas de Salamanca CF B,0,1,,,
+63142527,2026-05-09 11:00,CD Mirandes B,CD Villaralbo,4,2,,,
+63142515,2026-05-10 16:00,SD Almazan,UD Santa Marta,1,1,,,
+63142517,2026-05-10 16:00,CD Becerril,Arandina CF,2,0,,,
+63142519,2026-05-10 16:00,CD Mojados,CD Virgen Del Camino,2,1,,,
+63142521,2026-05-10 16:00,CD Colegios Diocesanos,CD Palencia Cristo Atletico,1,2,,,
+63142523,2026-05-10 16:00,CD Guijuelo,SDA Tordesillas,4,0,,,
+63142525,2026-05-10 16:00,Cultural Deportiva Leonesa B,CD Atletico Mansilles,1,1,,,
+63142529,2026-05-10 16:00,Palencia CF,CA Bembibre,4,1,,,
+63142531,2026-05-10 16:00,Unionistas de Salamanca CF B,CD Numancia B,1,0,,,
+71482828,2026-05-16 15:00,UD Santa Marta,CD Guijuelo,1,1,2.300,3.000,2.875
+71482902,2026-05-17 10:00,Palencia CF,CD Palencia Cristo Atletico,2,0,,,
+71482908,2026-05-23 16:00,CD Palencia Cristo Atletico,Palencia CF,1,0,,,
+71482906,2026-05-24 16:00,CD Guijuelo,UD Santa Marta,2,0,1.750,3.400,3.900
+71730268,2026-05-31 17:00,Palencia CF,CD Guijuelo,2,3,2.800,3.000,2.400
+71730276,2026-06-07 16:00,CD Guijuelo,Palencia CF,0,1,1.666,3.600,4.200
+73582002,2026-09-05 14:30,Turegano CF,CD Atletico Mansilles,1,2,,,
+73582000,2026-09-05 16:00,CD Palencia Cristo Atletico,CA Bembibre,0,2,1.400,3.900,6.500
+73582010,2026-09-05 16:00,UD Santa Marta,Arandina CF,1,0,,,
+73582006,2026-09-06 10:00,Salamanca CF Uds B,CD Virgen Del Camino,1,2,2.500,3.100,2.550
+73582012,2026-09-06 10:00,Burgos CF Promesas,CD Villaralbo,1,0,1.700,3.400,4.333
+73582014,2026-09-06 10:00,Jupiter Leones,CD Colegios Diocesanos,2,0,,,
+73582004,2026-09-06 15:00,CD Calasanz,CD Guijuelo,1,0,,,
+73582008,2026-09-06 16:00,SD Almazan,Unionistas de Salamanca CF B,2,1,,,
+73582016,2026-09-06 16:00,CD Mirandes B,Palencia CF,0,2,2.500,3.100,2.550
+73582032,2026-09-12 14:00,CD Colegios Diocesanos,Burgos CF Promesas,0,3,,,
+73582026,2026-09-12 15:00,Unionistas de Salamanca CF B,Salamanca CF Uds B,1,1,,,
+73582028,2026-09-12 15:00,Arandina CF,SD Almazan,1,1,,,
+73582020,2026-09-12 15:30,CD Atletico Mansilles,CD Palencia Cristo Atletico,1,1,,,
+73582024,2026-09-12 15:30,CD Virgen Del Camino,CD Calasanz,4,1,,,
+73582030,2026-09-13 10:00,CD Villaralbo,UD Santa Marta,1,2,3.000,3.100,2.200
+73582034,2026-09-13 16:00,Palencia CF,Jupiter Leones,0,1,,,
+73582018,2026-09-13 17:00,CA Bembibre,CD Mirandes B,1,1,2.500,3.250,2.400
+73582040,2026-09-19 15:00,Turegano CF,CD Virgen Del Camino,0,1,,,
+73582042,2026-09-19 15:00,CD Calasanz,Unionistas de Salamanca CF B,3,2,,,
+73582046,2026-09-19 16:00,SD Almazan,CD Villaralbo,2,2,,,
+73582044,2026-09-20 10:00,Salamanca CF Uds B,Arandina CF,3,4,2.375,2.900,2.875
+73582050,2026-09-20 10:00,Burgos CF Promesas,Palencia CF,3,0,2.250,3.200,2.800
+73582036,2026-09-20 10:30,CA Bembibre,CD Atletico Mansilles,0,2,3.100,3.100,2.100
+73582052,2026-09-20 15:30,CD Mirandes B,Jupiter Leones,0,1,2.350,3.000,2.800
+73582048,2026-09-20 16:00,UD Santa Marta,CD Colegios Diocesanos,3,0,,,
+73582038,2026-09-20 16:30,CD Palencia Cristo Atletico,CD Guijuelo,1,0,2.150,3.100,3.200
+73582060,2026-09-26 14:00,Unionistas de Salamanca CF B,Turegano CF,0,0,1.900,3.100,3.800
+73582058,2026-09-26 15:00,CD Virgen Del Camino,CD Palencia Cristo Atletico,0,1,,,
+73582062,2026-09-26 15:00,Arandina CF,CD Calasanz,1,0,,,
+73582064,2026-09-26 16:00,CD Villaralbo,Salamanca CF Uds B,4,0,,,
+73582054,2026-09-27 10:00,CD Atletico Mansilles,CD Mirandes B,1,0,,,
+73582070,2026-09-27 10:00,Jupiter Leones,Burgos CF Promesas,0,0,,,
+73582066,2026-09-27 14:00,CD Colegios Diocesanos,SD Almazan,1,1,,,
+73582068,2026-09-27 15:00,Palencia CF,UD Santa Marta,3,0,2.150,3.200,3.000
+73582056,2026-09-27 16:00,CD Guijuelo,CA Bembibre,1,2,,,
+73582072,2026-10-03 15:00,CD Calasanz,CD Villaralbo,2,2,,,
+73582080,2026-10-03 15:00,CD Mirandes B,Burgos CF Promesas,1,2,2.700,3.000,2.450
+73582082,2026-10-03 15:00,CD Atletico Mansilles,CD Guijuelo,0,0,,,
+73582088,2026-10-03 15:00,Turegano CF,Arandina CF,1,1,,,
+73582074,2026-10-03 16:00,Salamanca CF Uds B,CD Colegios Diocesanos,1,0,,,
+73582076,2026-10-03 16:00,SD Almazan,Palencia CF,2,2,,,
+73582086,2026-10-04 10:00,CD Palencia Cristo Atletico,Unionistas de Salamanca CF B,3,0,1.666,3.500,4.333
+73582084,2026-10-04 15:00,CA Bembibre,CD Virgen Del Camino,2,0,2.550,3.000,2.500
+73582078,2026-10-04 16:00,UD Santa Marta,Jupiter Leones,2,0,,,
+73582094,2026-10-10 14:00,Unionistas de Salamanca CF B,CA Bembibre,1,2,2.050,3.200,3.100
+73582092,2026-10-10 14:30,CD Virgen Del Camino,CD Atletico Mansilles,1,0,,,
+73582396,2026-10-10 14:30,CD Mirandes B,CD Guijuelo,0,2,2.625,3.100,2.400
+73582098,2026-10-10 15:00,CD Villaralbo,Turegano CF,2,2,,,
+73582096,2026-10-10 16:00,Arandina CF,CD Palencia Cristo Atletico,1,3,,,
+73582104,2026-10-10 16:15,Jupiter Leones,SD Almazan,5,2,,,
+73582100,2026-10-11 10:00,CD Colegios Diocesanos,CD Calasanz,2,0,,,
+73582106,2026-10-11 10:00,Burgos CF Promesas,UD Santa Marta,1,1,,,
+73582102,2026-10-11 15:00,Palencia CF,Salamanca CF Uds B,5,1,1.750,3.250,4.200
+73582110,2026-10-17 14:30,CD Atletico Mansilles,Unionistas de Salamanca CF B,1,2,,,
+73582112,2026-10-17 15:00,CA Bembibre,Arandina CF,1,1,2.450,3.100,2.625
+73582116,2026-10-17 15:00,Turegano CF,CD Colegios Diocesanos,3,2,2.200,3.200,2.875
+73582118,2026-10-17 15:00,CD Calasanz,Palencia CF,0,1,,,
+73582120,2026-10-17 15:00,Salamanca CF Uds B,Jupiter Leones,0,2,3.600,3.250,1.850
+73582122,2026-10-18 10:00,SD Almazan,Burgos CF Promesas,1,0,2.750,3.100,2.350
+73582124,2026-10-18 14:30,CD Mirandes B,UD Santa Marta,0,0,2.600,2.750,2.750
+73582114,2026-10-18 15:00,CD Palencia Cristo Atletico,CD Villaralbo,2,0,1.571,3.500,5.250
+73582108,2026-10-18 16:00,CD Guijuelo,CD Virgen Del Camino,5,1,,,
+73582134,2026-10-24 14:00,CD Colegios Diocesanos,CD Palencia Cristo Atletico,0,2,5.000,3.600,1.571
+73582126,2026-10-24 14:15,CD Virgen Del Camino,CD Mirandes B,0,0,2.100,3.200,3.200
+73582132,2026-10-24 15:00,CD Villaralbo,CA Bembibre,2,0,,,
+73582136,2026-10-24 15:00,Palencia CF,Turegano CF,1,1,1.444,3.900,6.000
+73582142,2026-10-24 15:00,UD Santa Marta,SD Almazan,2,1,,,
+73582130,2026-10-24 16:00,Arandina CF,CD Atletico Mansilles,2,2,,,
+73582128,2026-10-25 11:00,Unionistas de Salamanca CF B,CD Guijuelo,0,1,3.400,3.300,1.950
+73582140,2026-10-25 11:00,Burgos CF Promesas,Salamanca CF Uds B,3,0,1.285,4.750,8.500
+73582138,2026-10-25 15:30,Jupiter Leones,CD Calasanz,2,1,,,
+73582144,2026-10-31 14:45,CD Virgen Del Camino,Unionistas de Salamanca CF B,2,1,1.950,3.250,3.300
+73582148,2026-10-31 15:00,CD Atletico Mansilles,CD Villaralbo,1,1,,,
+73582156,2026-10-31 16:00,CD Calasanz,Burgos CF Promesas,0,2,,,
+73582158,2026-10-31 16:00,Salamanca CF Uds B,UD Santa Marta,0,2,,,
+73582152,2026-10-31 17:00,CD Palencia Cristo Atletico,Palencia CF,1,0,1.909,3.200,3.600
+73582154,2026-11-01 11:00,Turegano CF,Jupiter Leones,1,1,,,
+73582160,2026-11-01 15:00,CD Mirandes B,SD Almazan,0,2,2.350,3.200,2.625
+73582146,2026-11-01 16:00,CD Guijuelo,Arandina CF,2,2,,,
+73582150,2026-11-01 16:00,CA Bembibre,CD Colegios Diocesanos,1,1,1.833,3.300,3.750
+73582162,2026-11-07 15:00,Unionistas de Salamanca CF B,CD Mirandes B,1,0,2.150,3.100,3.000
+73582166,2026-11-07 15:00,CD Villaralbo,CD Guijuelo,2,0,,,
+73582168,2026-11-07 15:00,CD Colegios Diocesanos,CD Atletico Mansilles,2,2,,,
+73582172,2026-11-07 15:30,Jupiter Leones,CD Palencia Cristo Atletico,0,0,,,
+73582176,2026-11-07 16:00,UD Santa Marta,CD Calasanz,5,0,,,
+73582174,2026-11-08 10:45,Burgos CF Promesas,Turegano CF,0,2,1.270,4.750,8.500
+73582164,2026-11-08 11:00,Arandina CF,CD Virgen Del Camino,0,0,,,
+73582178,2026-11-08 15:30,SD Almazan,Salamanca CF Uds B,3,1,,,
+73582170,2026-11-08 16:00,Palencia CF,CA Bembibre,2,0,1.700,3.700,4.100

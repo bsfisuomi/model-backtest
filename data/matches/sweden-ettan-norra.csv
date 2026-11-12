@@ -1,0 +1,272 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+57034279,2025-05-23 17:00,Karlbergs BK,Hammarby Talang FF,1,1,,,
+57034273,2025-05-23 17:30,FC Arlanda,IFK Stocksund,5,3,,,
+57034283,2025-05-24 11:00,FC Stockholm Internazionale,Enkopings SK,3,1,,,
+57034271,2025-05-24 14:00,AFC Eskilstuna,Vasalunds IF,0,2,,,
+57034277,2025-05-24 14:00,IFK Haninge,Gefle IF,1,1,,,
+57034281,2025-05-24 14:00,Sollentuna FK,IF Karlstad Fotbol,0,3,,,
+57034285,2025-05-25 14:00,Orebro Syrianska IF,Team TG FF,0,4,,,
+57034269,2025-05-25 15:00,Assyriska FF,Nordic United FC,2,1,,,
+57034289,2025-05-28 17:00,Enkopings SK,IFK Stocksund,5,1,,,
+57034301,2025-05-28 17:00,Vasalunds IF,Sollentuna FK,4,1,,,
+57034287,2025-05-29 11:00,AFC Eskilstuna,Karlbergs BK,0,2,,,
+57034293,2025-05-29 11:00,Hammarby Talang FF,IFK Haninge,3,0,,,
+57034299,2025-05-29 11:00,Team TG FF,Assyriska FF,1,2,,,
+57034291,2025-05-29 14:00,Gefle IF,FC Stockholm Internazionale,0,1,,,
+57034295,2025-05-29 14:00,IF Karlstad Fotbol,FC Arlanda,3,0,,,
+57034297,2025-05-29 14:00,Nordic United FC,Orebro Syrianska IF,3,1,,,
+57034313,2025-06-01 12:00,Karlbergs BK,Team TG FF,1,1,,,
+57034307,2025-06-01 14:00,Hammarby Talang FF,Vasalunds IF,3,2,,,
+57034303,2025-06-01 15:00,Assyriska FF,Enkopings SK,0,3,,,
+57034305,2025-06-02 17:00,Gefle IF,FC Arlanda,1,1,,,
+57034315,2025-06-02 17:00,Sollentuna FK,IFK Haninge,3,2,,,
+57034317,2025-06-02 17:00,FC Stockholm Internazionale,AFC Eskilstuna,4,0,,,
+57034309,2025-06-03 17:00,IF Karlstad Fotbol,Orebro Syrianska IF,0,0,,,
+57034311,2025-06-04 17:00,IFK Stocksund,Nordic United FC,1,0,,,
+57034319,2025-06-07 11:00,Enkopings SK,Gefle IF,2,0,,,
+57034333,2025-06-07 11:00,Orebro Syrianska IF,Sollentuna FK,2,3,,,
+57034325,2025-06-08 11:00,IFK Stocksund,Assyriska FF,3,2,,,
+57034329,2025-06-08 12:00,Team TG FF,FC Stockholm Internazionale,1,3,,,
+57034321,2025-06-08 14:00,FC Arlanda,Hammarby Talang FF,1,0,,,
+57034323,2025-06-08 14:00,IFK Haninge,AFC Eskilstuna,9,3,,,
+57034331,2025-06-08 14:00,Vasalunds IF,IF Karlstad Fotbol,1,3,,,
+57034327,2025-06-09 17:30,Nordic United FC,Karlbergs BK,4,3,,,
+57034347,2025-06-14 11:00,Sollentuna FK,IFK Stocksund,3,2,,,
+57034339,2025-06-14 14:00,Gefle IF,Assyriska FF,1,1,,,
+57034341,2025-06-14 14:00,Hammarby Talang FF,IF Karlstad Fotbol,3,1,,,
+57034343,2025-06-14 14:00,IFK Haninge,Nordic United FC,2,2,,,
+57034337,2025-06-15 13:00,Enkopings SK,Team TG FF,2,0,,,
+57034349,2025-06-15 13:00,Vasalunds IF,Orebro Syrianska IF,3,0,,,
+57034335,2025-06-15 14:00,AFC Eskilstuna,FC Arlanda,1,0,,,
+57034345,2025-06-15 14:00,Karlbergs BK,FC Stockholm Internazionale,0,0,,,
+57034357,2025-06-19 17:00,IFK Stocksund,Hammarby Talang FF,2,0,,,
+57034361,2025-06-19 17:00,FC Stockholm Internazionale,Vasalunds IF,0,0,,,
+57034353,2025-06-19 17:30,FC Arlanda,Karlbergs BK,0,1,,,
+57034359,2025-06-21 14:00,Nordic United FC,Enkopings SK,3,2,,,
+57034355,2025-06-22 14:00,IF Karlstad Fotbol,AFC Eskilstuna,1,2,,,
+57034363,2025-06-22 14:00,Team TG FF,IFK Haninge,1,2,,,
+57034365,2025-06-22 14:00,Orebro Syrianska IF,Gefle IF,2,1,,,
+57034351,2025-06-22 15:00,Assyriska FF,Sollentuna FK,0,0,,,
+57034369,2025-06-25 17:00,Enkopings SK,Vasalunds IF,1,4,,,
+57034373,2025-06-25 17:00,Hammarby Talang FF,Nordic United FC,2,0,,,
+57034367,2025-06-27 17:00,AFC Eskilstuna,Orebro Syrianska IF,1,1,,,
+57034379,2025-06-27 17:00,Karlbergs BK,Sollentuna FK,1,2,,,
+57034377,2025-06-28 11:00,IFK Haninge,Assyriska FF,0,1,,,
+57034371,2025-06-28 14:00,FC Arlanda,FC Stockholm Internazionale,1,1,,,
+57034375,2025-06-28 14:00,IF Karlstad Fotbol,Gefle IF,2,2,,,
+57034381,2025-06-29 13:00,Team TG FF,IFK Stocksund,2,1,,,
+57034393,2025-08-02 11:00,FC Stockholm Internazionale,Orebro Syrianska IF,3,1,,,
+61616276,2025-08-02 11:00,Sollentuna FK,Enkopings SK,0,0,,,
+57034385,2025-08-02 14:00,AFC Eskilstuna,IFK Haninge,3,2,,,
+57034387,2025-08-02 14:00,Gefle IF,Karlbergs BK,1,1,,,
+57034391,2025-08-02 14:00,Nordic United FC,IF Karlstad Fotbol,1,1,,,
+57034389,2025-08-03 11:00,IFK Stocksund,FC Arlanda,2,1,,,
+57034383,2025-08-03 13:00,Assyriska FF,Team TG FF,4,0,,,
+57034395,2025-08-04 17:00,Vasalunds IF,Hammarby Talang FF,1,1,,,
+57034397,2025-08-08 17:00,Enkopings SK,AFC Eskilstuna,2,3,,,
+57034403,2025-08-09 11:00,IFK Haninge,Sollentuna FK,3,3,,,
+57034411,2025-08-09 11:00,Orebro Syrianska IF,IFK Stocksund,1,2,,,
+57034405,2025-08-09 14:00,Karlbergs BK,FC Arlanda,1,3,,,
+57034401,2025-08-10 11:00,IF Karlstad Fotbol,Team TG FF,1,0,,,
+57034409,2025-08-10 14:00,Vasalunds IF,Gefle IF,4,1,,,
+57034407,2025-08-10 16:00,Nordic United FC,Assyriska FF,1,0,,,
+57034399,2025-08-11 17:00,Hammarby Talang FF,FC Stockholm Internazionale,1,1,,,
+57034421,2025-08-15 17:00,Sollentuna FK,Vasalunds IF,3,2,,,
+57034415,2025-08-15 17:30,FC Arlanda,IFK Haninge,5,4,,,
+57034423,2025-08-16 11:00,FC Stockholm Internazionale,Karlbergs BK,3,1,,,
+57034427,2025-08-16 11:00,Orebro Syrianska IF,Hammarby Talang FF,0,2,,,
+57034413,2025-08-16 14:00,AFC Eskilstuna,Assyriska FF,2,1,,,
+57034417,2025-08-16 14:00,Gefle IF,Enkopings SK,5,1,,,
+57034419,2025-08-16 14:00,IFK Stocksund,IF Karlstad Fotbol,1,4,,,
+57034425,2025-08-17 14:00,Team TG FF,Nordic United FC,0,2,,,
+57034441,2025-08-23 14:00,Nordic United FC,IFK Stocksund,3,0,,,
+57034439,2025-08-24 11:00,IFK Haninge,FC Stockholm Internazionale,0,1,,,
+57034435,2025-08-24 13:00,Hammarby Talang FF,Team TG FF,2,1,,,
+57034431,2025-08-24 14:00,Enkopings SK,Karlbergs BK,4,2,,,
+57034433,2025-08-24 14:00,FC Arlanda,Gefle IF,2,0,,,
+57034437,2025-08-24 14:00,IF Karlstad Fotbol,Vasalunds IF,2,3,,,
+57034429,2025-08-24 15:00,Assyriska FF,Orebro Syrianska IF,3,1,,,
+57034443,2025-08-25 17:30,Sollentuna FK,AFC Eskilstuna,4,3,,,
+57034455,2025-08-30 11:00,FC Stockholm Internazionale,FC Arlanda,0,0,,,
+57034447,2025-08-30 14:00,Gefle IF,Sollentuna FK,5,1,,,
+57034453,2025-08-30 14:00,Karlbergs BK,IFK Haninge,3,1,,,
+57034451,2025-08-31 13:00,IFK Stocksund,Team TG FF,3,1,,,
+57034445,2025-08-31 14:00,AFC Eskilstuna,IF Karlstad Fotbol,4,3,,,
+57034457,2025-08-31 14:00,Vasalunds IF,Enkopings SK,2,0,,,
+57034459,2025-08-31 14:00,Orebro Syrianska IF,Nordic United FC,0,2,,,
+57034449,2025-09-01 17:00,Hammarby Talang FF,Assyriska FF,4,0,,,
+57034463,2025-09-05 17:30,Enkopings SK,Hammarby Talang FF,2,2,,,
+57034467,2025-09-06 11:00,Gefle IF,IFK Haninge,2,0,,,
+57034471,2025-09-06 11:00,Sollentuna FK,Orebro Syrianska IF,3,1,,,
+57034465,2025-09-06 14:00,FC Arlanda,AFC Eskilstuna,2,1,,,
+57034469,2025-09-06 14:00,Karlbergs BK,IFK Stocksund,3,2,,,
+57034473,2025-09-07 11:00,FC Stockholm Internazionale,Nordic United FC,1,2,,,
+57034475,2025-09-07 12:00,Team TG FF,Vasalunds IF,0,5,,,
+57034461,2025-09-07 14:00,Assyriska FF,IF Karlstad Fotbol,2,0,,,
+57034265,2025-09-12 17:30,Sollentuna FK,FC Arlanda,2,0,,,
+57034485,2025-09-13 10:00,IFK Stocksund,FC Stockholm Internazionale,0,2,,,
+57034483,2025-09-13 11:00,IFK Haninge,Orebro Syrianska IF,3,1,,,
+57034477,2025-09-13 14:00,AFC Eskilstuna,Gefle IF,2,0,,,
+57034481,2025-09-13 14:00,IF Karlstad Fotbol,Karlbergs BK,1,0,,,
+57034487,2025-09-13 14:00,Nordic United FC,Hammarby Talang FF,1,1,,,
+57034489,2025-09-14 11:00,Team TG FF,Enkopings SK,2,3,,,
+57034491,2025-09-14 14:00,Vasalunds IF,Assyriska FF,1,2,,,
+57034501,2025-09-19 17:30,IFK Haninge,IFK Stocksund,2,4,,,
+57034495,2025-09-20 11:00,Enkopings SK,Nordic United FC,1,3,,,
+57034507,2025-09-20 11:00,Orebro Syrianska IF,Vasalunds IF,0,5,,,
+57034503,2025-09-20 14:00,Karlbergs BK,AFC Eskilstuna,4,2,,,
+57034505,2025-09-21 13:00,FC Stockholm Internazionale,Team TG FF,5,0,,,
+57034493,2025-09-21 14:00,Assyriska FF,FC Arlanda,1,2,,,
+57034497,2025-09-21 14:00,Gefle IF,IF Karlstad Fotbol,1,1,,,
+57034499,2025-09-22 17:00,Hammarby Talang FF,Sollentuna FK,4,0,,,
+57034519,2025-09-26 17:00,Nordic United FC,Vasalunds IF,4,1,,,
+57034523,2025-09-27 10:00,Team TG FF,Karlbergs BK,2,4,,,
+57034515,2025-09-27 11:00,IF Karlstad Fotbol,Enkopings SK,2,0,,,
+57034517,2025-09-27 11:00,IFK Stocksund,Gefle IF,2,2,,,
+57034521,2025-09-27 11:00,Sollentuna FK,FC Stockholm Internazionale,1,1,,,
+57034511,2025-09-27 14:00,AFC Eskilstuna,Hammarby Talang FF,3,1,,,
+57034513,2025-09-27 14:00,FC Arlanda,Orebro Syrianska IF,0,2,,,
+57034509,2025-09-28 14:00,Assyriska FF,IFK Haninge,3,0,,,
+57034537,2025-10-03 17:00,Vasalunds IF,FC Stockholm Internazionale,1,1,,,
+57034531,2025-10-04 11:00,IFK Stocksund,Sollentuna FK,2,1,,,
+57034525,2025-10-04 14:00,Enkopings SK,Assyriska FF,3,1,,,
+57034533,2025-10-04 14:00,Nordic United FC,AFC Eskilstuna,3,2,,,
+57034539,2025-10-04 14:00,Orebro Syrianska IF,Karlbergs BK,1,1,,,
+57034527,2025-10-05 14:00,Hammarby Talang FF,FC Arlanda,3,1,,,
+57034529,2025-10-05 14:00,IF Karlstad Fotbol,IFK Haninge,7,1,,,
+57034535,2025-10-05 14:00,Team TG FF,Gefle IF,0,1,,,
+57034555,2025-10-10 17:30,Orebro Syrianska IF,Enkopings SK,1,1,,,
+57034549,2025-10-11 11:00,Karlbergs BK,Vasalunds IF,0,0,,,
+57034551,2025-10-11 11:00,Sollentuna FK,Assyriska FF,2,1,,,
+57034541,2025-10-11 14:00,AFC Eskilstuna,IFK Stocksund,3,4,,,
+57034547,2025-10-11 14:00,IFK Haninge,Hammarby Talang FF,1,2,,,
+57034553,2025-10-11 14:00,FC Stockholm Internazionale,IF Karlstad Fotbol,0,1,,,
+57034543,2025-10-12 13:30,FC Arlanda,Team TG FF,4,3,,,
+57034545,2025-10-12 14:00,Gefle IF,Nordic United FC,0,2,,,
+57034557,2025-10-17 17:00,Assyriska FF,IFK Stocksund,3,3,,,
+57034567,2025-10-18 11:00,FC Stockholm Internazionale,Gefle IF,2,0,,,
+57034563,2025-10-18 14:00,IF Karlstad Fotbol,Sollentuna FK,1,1,,,
+57034569,2025-10-19 11:00,Team TG FF,Orebro Syrianska IF,0,1,,,
+57034559,2025-10-19 14:00,Enkopings SK,FC Arlanda,1,3,,,
+57034565,2025-10-19 14:00,Nordic United FC,IFK Haninge,6,0,,,
+57034571,2025-10-19 14:00,Vasalunds IF,AFC Eskilstuna,4,2,,,
+57034561,2025-10-20 17:00,Hammarby Talang FF,Karlbergs BK,1,1,,,
+57034589,2025-10-24 17:00,Orebro Syrianska IF,IF Karlstad Fotbol,1,2,,,
+57034581,2025-10-25 11:00,IFK Stocksund,Enkopings SK,2,3,,,
+57034585,2025-10-25 11:00,Sollentuna FK,Nordic United FC,3,3,,,
+57034573,2025-10-25 14:00,AFC Eskilstuna,FC Stockholm Internazionale,0,3,,,
+57034583,2025-10-25 14:00,Karlbergs BK,Assyriska FF,2,3,,,
+57034575,2025-10-26 12:00,FC Arlanda,Vasalunds IF,4,1,,,
+57034577,2025-10-26 12:00,Gefle IF,Hammarby Talang FF,2,4,,,
+57034579,2025-10-26 15:00,IFK Haninge,Team TG FF,3,2,,,
+57034605,2025-11-01 12:00,Orebro Syrianska IF,AFC Eskilstuna,2,4,,,
+57034595,2025-11-01 15:00,FC Arlanda,IF Karlstad Fotbol,3,5,,,
+57034599,2025-11-01 15:00,Karlbergs BK,Nordic United FC,1,4,,,
+57034601,2025-11-02 14:00,Team TG FF,Sollentuna FK,0,0,,,
+57034591,2025-11-02 15:00,Assyriska FF,Gefle IF,1,2,,,
+57034593,2025-11-02 15:00,Enkopings SK,FC Stockholm Internazionale,0,2,,,
+57034603,2025-11-02 15:00,Vasalunds IF,IFK Haninge,3,1,,,
+57034597,2025-11-03 18:00,Hammarby Talang FF,IFK Stocksund,4,1,,,
+57034607,2025-11-09 14:00,AFC Eskilstuna,Team TG FF,1,0,,,
+57034609,2025-11-09 14:00,Gefle IF,Orebro Syrianska IF,3,3,,,
+57034611,2025-11-09 14:00,IF Karlstad Fotbol,Hammarby Talang FF,1,2,,,
+57034613,2025-11-09 14:00,IFK Haninge,Enkopings SK,0,0,,,
+57034615,2025-11-09 14:00,IFK Stocksund,Vasalunds IF,1,7,,,
+57034617,2025-11-09 14:00,Nordic United FC,FC Arlanda,3,2,,,
+57034619,2025-11-09 14:00,Sollentuna FK,Karlbergs BK,2,2,,,
+57034621,2025-11-09 14:00,FC Stockholm Internazionale,Assyriska FF,0,1,,,
+68310956,2026-06-12 17:00,Umea,Pitea,2,0,1.533,4.333,4.500
+68310958,2026-06-13 14:00,Jarfalla,Arlanda,2,3,3.500,3.700,1.800
+68310960,2026-06-13 14:00,Karlstad Fotbol,Gefle,2,0,1.450,4.100,5.500
+68310962,2026-06-13 14:00,Stocksund,Sollentuna,3,3,2.900,3.800,1.950
+68310964,2026-06-14 11:00,Karlbergs,Hammarby Talang,0,2,4.200,3.900,1.615
+68310966,2026-06-14 14:00,Eskilstuna,Assyriska,1,0,1.900,3.600,3.300
+68310968,2026-06-14 14:00,Enkopings,Vasalunds,1,1,2.450,3.750,2.300
+68310970,2026-06-14 14:00,Stockholm Intern.,FBK Karlstad,3,1,1.700,3.800,3.800
+68310972,2026-06-18 17:00,Gefle,Stockholm Intern.,0,2,4.333,4.000,1.600
+68310974,2026-06-18 17:00,Hammarby Talang,Jarfalla,1,1,1.181,6.500,11.000
+68310976,2026-06-18 17:00,Vasalunds,Karlbergs,0,4,1.800,3.800,3.400
+68310978,2026-06-18 17:15,Arlanda,Stocksund,1,0,1.480,4.500,4.750
+68310980,2026-06-18 17:30,Sollentuna,FBK Karlstad,0,2,3.250,3.300,2.000
+68310982,2026-06-21 11:00,Pitea,Eskilstuna,2,2,2.900,3.800,1.950
+68310984,2026-06-21 13:00,Enkopings,Umea,3,1,2.250,3.500,2.625
+68310986,2026-06-21 15:00,Assyriska,Karlstad Fotbol,2,2,3.900,3.900,1.666
+68311000,2026-06-24 17:00,Karlbergs,Pitea,3,1,1.380,4.333,5.500
+68310988,2026-06-26 17:00,FBK Karlstad,Hammarby Talang,0,7,3.600,3.200,1.909
+68310990,2026-06-26 17:00,Sollentuna,Eskilstuna,1,4,2.100,3.800,2.625
+68310992,2026-06-26 17:30,Assyriska,Vasalunds,3,1,2.700,3.800,2.100
+68310994,2026-06-27 11:00,Stockholm Intern.,Enkopings,2,0,1.363,4.750,6.000
+68310998,2026-06-27 14:00,Gefle,Stocksund,2,1,1.800,3.800,3.400
+68310996,2026-06-27 15:00,Arlanda,Karlstad Fotbol,1,0,3.200,3.700,1.850
+68311002,2026-06-28 14:00,Umea,Jarfalla,1,3,1.650,4.200,3.700
+68311004,2026-08-01 12:00,Piteaa IF,Gefle IF,0,2,3.100,3.500,2.050
+68311006,2026-08-01 14:00,FBK Karlstad,Assyriska FF,0,2,1.650,3.750,4.100
+68311008,2026-08-01 14:00,FC Jarfalla,FC Stockholm Internazionale,0,4,4.500,4.333,1.500
+68311010,2026-08-01 14:00,IFK Stocksund,Karlbergs BK,0,2,3.100,3.900,1.833
+68311012,2026-08-02 13:00,AFC Eskilstuna,Umea FC,1,0,2.050,3.900,2.750
+68311014,2026-08-02 14:00,IF Karlstad Fotbol,Enkopings SK,2,1,1.400,4.200,6.000
+68311016,2026-08-03 17:00,Vasalunds IF,Sollentuna FK,1,1,2.100,3.700,2.875
+68311018,2026-08-03 17:30,Hammarby Talang FF,FC Arlanda,5,1,1.450,4.500,5.000
+68311020,2026-08-07 17:30,Enkopings SK,Karlbergs BK,2,1,2.500,3.600,2.250
+68311022,2026-08-08 14:00,FC Jarfalla,IF Karlstad Fotbol,1,4,5.250,4.200,1.450
+68311024,2026-08-08 14:00,IFK Stocksund,Gefle IF,5,0,3.100,3.800,1.909
+68311026,2026-08-09 11:00,Umea FC,AFC Eskilstuna,1,3,2.050,3.800,2.750
+68311028,2026-08-09 11:00,Vasalunds IF,FC Stockholm Internazionale,2,0,3.900,3.700,1.700
+68311032,2026-08-09 14:00,Hammarby Talang FF,FBK Karlstad,1,1,1.222,6.000,8.000
+68311030,2026-08-09 15:00,FC Arlanda,Piteaa IF,0,0,1.420,4.333,5.750
+68311034,2026-08-09 16:00,Assyriska FF,Sollentuna FK,3,0,2.150,3.500,2.750
+68311036,2026-08-14 17:00,AFC Eskilstuna,Hammarby Talang FF,1,0,3.700,4.000,1.666
+68311038,2026-08-15 11:00,Gefle IF,Umea FC,2,0,2.050,3.500,2.900
+68311040,2026-08-15 11:00,Karlbergs BK,IFK Stocksund,2,0,2.050,4.000,2.625
+68311044,2026-08-15 14:00,IF Karlstad Fotbol,Assyriska FF,0,2,1.533,4.000,4.750
+68311046,2026-08-15 14:00,Sollentuna FK,FC Jarfalla,2,1,1.850,3.700,3.300
+68311048,2026-08-16 10:30,Piteaa IF,Vasalunds IF,1,1,3.600,3.700,1.750
+68311042,2026-08-16 11:00,FC Stockholm Internazionale,FC Arlanda,4,1,1.380,4.333,6.000
+68311050,2026-08-16 14:00,FBK Karlstad,Enkopings SK,2,0,1.900,3.600,3.300
+68311052,2026-08-21 17:00,FC Stockholm Internazionale,FC Jarfalla,2,0,1.142,7.000,12.000
+68311056,2026-08-22 14:00,Sollentuna FK,IF Karlstad Fotbol,2,1,3.900,3.500,1.727
+68311054,2026-08-23 11:00,Karlbergs BK,AFC Eskilstuna,0,3,2.200,3.750,2.600
+68311058,2026-08-23 11:00,Umea FC,Enkopings SK,0,0,2.150,3.700,2.600
+68311060,2026-08-23 11:00,Vasalunds IF,IFK Stocksund,4,3,1.800,3.800,3.300
+68311062,2026-08-23 14:00,FC Arlanda,FBK Karlstad,5,1,2.625,3.500,2.250
+68311064,2026-08-23 14:00,Hammarby Talang FF,Piteaa IF,1,1,1.181,7.000,11.000
+68311066,2026-08-23 16:00,Assyriska FF,Gefle IF,1,2,1.900,3.600,3.250
+68311068,2026-08-29 11:00,AFC Eskilstuna,Sollentuna FK,2,1,1.571,3.900,4.200
+68311070,2026-08-29 14:00,Gefle IF,IF Karlstad Fotbol,2,2,3.400,3.100,2.000
+68311072,2026-08-29 14:00,FC Jarfalla,Assyriska FF,0,2,3.600,3.700,1.800
+68311074,2026-08-29 14:00,IFK Stocksund,FC Arlanda,2,3,3.100,4.200,1.833
+68311076,2026-08-30 11:00,Enkopings SK,FC Stockholm Internazionale,0,3,7.000,4.750,1.333
+68311078,2026-08-30 11:00,FBK Karlstad,Piteaa IF,4,3,1.750,3.700,4.000
+68311080,2026-08-30 11:45,Umea FC,Vasalunds IF,3,2,2.150,3.600,2.600
+68311082,2026-08-31 17:00,Hammarby Talang FF,Karlbergs BK,0,0,1.285,5.000,7.000
+68311084,2026-09-04 17:30,Assyriska FF,IFK Stocksund,2,1,1.650,4.333,3.600
+68311086,2026-09-05 11:00,FC Stockholm Internazionale,Hammarby Talang FF,3,0,1.950,3.200,3.400
+68311088,2026-09-05 14:00,FC Jarfalla,FBK Karlstad,0,3,3.300,3.600,1.900
+68311090,2026-09-05 14:00,IF Karlstad Fotbol,AFC Eskilstuna,1,2,1.909,3.600,3.200
+68311092,2026-09-05 14:00,Sollentuna FK,Gefle IF,1,0,2.400,3.300,2.500
+68311094,2026-09-06 11:00,Vasalunds IF,Enkopings SK,2,3,1.700,3.800,3.800
+68311096,2026-09-06 12:30,FC Arlanda,Umea FC,1,2,1.727,3.900,3.600
+68311098,2026-09-06 13:00,Piteaa IF,Karlbergs BK,3,0,2.600,3.500,2.300
+68311808,2026-09-11 17:00,Lunds BK,FC Rosengaard 1917,2,0,2.150,3.700,2.700
+68311810,2026-09-11 17:00,FC Trollhattan,Utsiktens BK,5,0,1.400,4.750,5.500
+68311114,2026-09-13 13:00,AFC Eskilstuna,Piteaa IF,1,0,1.500,4.333,4.750
+68311170,2026-10-03 13:00,FBK Karlstad,AFC Eskilstuna,2,2,2.300,3.700,2.500
+68311182,2026-10-10 11:00,Karlbergs BK,Vasalunds IF,3,3,2.550,3.600,2.200
+68311888,2026-10-10 11:00,Eskilsminne IF,BK Olympic,2,7,2.700,3.750,2.050
+68311890,2026-10-10 11:00,Hassleholms IF,Jonkopings Sodra IF,1,0,2.625,3.100,2.400
+68311892,2026-10-10 11:00,Trelleborgs FF,Kristianstad FC,2,0,1.420,4.200,5.750
+68311184,2026-10-10 14:00,AFC Eskilstuna,FC Stockholm Internazionale,1,3,3.750,3.600,1.727
+68311186,2026-10-10 14:00,IF Karlstad Fotbol,FC Arlanda,3,0,1.727,3.750,3.700
+68311894,2026-10-10 14:00,Ariana FC,Skovde AIK,4,2,1.480,4.100,5.000
+68311896,2026-10-10 14:00,Lunds BK,FC Trollhattan,4,3,1.833,3.700,3.250
+68311898,2026-10-10 14:00,FC Rosengaard 1917,Aatvidabergs FF,1,1,2.000,3.600,2.900
+68311204,2026-10-18 12:00,Umea FC,Assyriska FF,3,1,1.900,3.300,3.200
+68311226,2026-10-25 15:00,Enkopings SK,Piteaa IF,3,1,1.850,3.800,3.250
+68311244,2026-11-08 14:00,AFC Eskilstuna,Enkopings SK,0,1,1.500,4.500,4.333
+68311246,2026-11-08 14:00,Assyriska FF,Hammarby Talang FF,1,2,2.875,4.333,1.850
+68311248,2026-11-08 14:00,Gefle IF,Karlbergs BK,7,0,1.571,4.333,4.100
+68311250,2026-11-08 14:00,FC Jarfalla,Vasalunds IF,2,3,3.400,4.500,1.666
+68311252,2026-11-08 14:00,IF Karlstad Fotbol,Umea FC,2,2,1.800,4.000,3.200
+68311254,2026-11-08 14:00,Sollentuna FK,FC Arlanda,2,1,2.875,3.700,2.050
+68311256,2026-11-08 14:00,FC Stockholm Internazionale,Piteaa IF,3,0,1.222,6.250,9.000
+68311258,2026-11-08 14:00,IFK Stocksund,FBK Karlstad,3,2,4.333,4.500,1.533

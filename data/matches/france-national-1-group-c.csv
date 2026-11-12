@@ -1,0 +1,56 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+74041516,2026-08-28 17:30,LB Chateauroux,Hyeres FC,0,1,2.300,3.000,2.800
+74041518,2026-08-29 16:00,FC Limonest Dardilly Saint-Didier,UF Touraine,0,1,,,
+74041520,2026-09-05 16:00,Hyeres FC,Istres FC,3,0,,,
+74041522,2026-09-05 17:00,UF Touraine,LB Chateauroux,1,1,,,
+73080312,2026-09-11 17:30,Andrezieux-Boutheon FC,Lyon La Duchere,3,1,1.400,4.500,5.500
+74041528,2026-09-11 18:00,LB Chateauroux,FC Limonest Dardilly Saint-Didier,0,1,1.727,3.600,3.900
+74041524,2026-09-12 16:00,Istres FC,UF Touraine,0,0,,,
+74041526,2026-09-12 16:00,GFA Rumilly-Vallieres,Hyeres FC,0,3,2.200,3.000,3.100
+73080232,2026-09-18 17:00,US Granville,US Saint-Malo,1,0,2.700,2.875,2.500
+73080274,2026-09-18 17:00,Saint-Colomban Locmine,US Avranches,1,0,2.600,2.900,2.600
+73080160,2026-09-18 17:30,US Creteil-Lusitanos,US Chantilly,3,1,1.650,3.600,4.333
+73080256,2026-09-18 17:30,Angouleme Charente FC,Aviron Bayonnais FC,2,2,,,
+73080346,2026-09-19 15:00,Estac Troyes 2,Andrezieux-Boutheon FC,3,2,3.250,3.800,1.833
+74041530,2026-09-19 16:00,Hyeres FC,AS Saint Priest,1,1,,,
+74041532,2026-09-19 16:00,FC Limonest Dardilly Saint-Didier,Istres FC,1,1,,,
+73080370,2026-09-19 17:00,Canet Roussillon FC,Bourges FC,0,0,,,
+74041534,2026-09-19 17:00,UF Touraine,GFA Rumilly-Vallieres,1,0,,,
+74041536,2026-10-02 18:30,Istres FC,LB Chateauroux,0,0,,,
+73080396,2026-10-03 15:00,Andrezieux-Boutheon FC,FC Hauts Lyonnais,1,1,,,
+73080402,2026-10-03 16:00,SC Toulon,Estac Troyes 2,1,0,,,
+73080408,2026-10-03 16:00,FC Goal,Lyon La Duchere,2,0,1.615,3.700,4.333
+73080414,2026-10-03 16:00,Bourges FC,EFC Frejus Saint-Raphael,0,1,2.100,3.000,3.300
+74041538,2026-10-03 16:00,GFA Rumilly-Vallieres,FC Limonest Dardilly Saint-Didier,4,1,1.909,3.100,3.700
+74041540,2026-10-03 16:00,AS Saint Priest,UF Touraine,2,2,,,
+74041542,2026-10-03 16:00,Nimes Olympique,Hyeres FC,1,1,,,
+74041544,2026-10-16 17:30,LB Chateauroux,GFA Rumilly-Vallieres,4,7,2.450,3.100,2.625
+74041548,2026-10-17 14:00,FC Limonest Dardilly Saint-Didier,AS Saint Priest,1,1,,,
+73080436,2026-10-17 15:00,Estac Troyes 2,FC Goal,1,0,,,
+74041550,2026-10-17 15:00,UF Touraine,Nimes Olympique,1,0,,,
+73080426,2026-10-17 16:00,EFC Frejus Saint-Raphael,Canet Roussillon FC,4,0,1.666,3.600,4.200
+73080432,2026-10-17 16:00,Lyon La Duchere,Bourges FC,3,0,3.200,3.100,2.100
+73080442,2026-10-17 16:00,FC Hauts Lyonnais,SC Toulon,0,0,,,
+74041546,2026-10-17 16:00,Hyeres FC,Andrezieux-Boutheon FC,0,0,,,
+74041558,2026-10-30 18:30,Andrezieux-Boutheon FC,UF Touraine,1,0,2.050,3.400,3.000
+73080494,2026-10-31 17:00,FC Goal,FC Hauts Lyonnais,2,3,1.909,3.400,3.400
+73080500,2026-10-31 17:00,Bourges FC,Estac Troyes 2,2,3,1.950,3.100,3.600
+74041552,2026-10-31 17:00,GFA Rumilly-Vallieres,Istres FC,5,0,1.550,3.600,5.250
+74041554,2026-10-31 17:00,AS Saint Priest,LB Chateauroux,2,1,,,
+74041556,2026-10-31 17:00,Nimes Olympique,FC Limonest Dardilly Saint-Didier,2,2,,,
+74041560,2026-10-31 17:00,SC Toulon,Hyeres FC,0,0,,,
+73080512,2026-10-31 18:00,Canet Roussillon FC,Lyon La Duchere,0,0,,,
+74041568,2026-11-06 18:00,UF Touraine,SC Toulon,2,0,,,
+74041564,2026-11-06 18:30,FC Limonest Dardilly Saint-Didier,Andrezieux-Boutheon FC,2,2,2.450,3.000,2.700
+74041570,2026-11-06 18:30,LB Chateauroux,Nimes Olympique,1,1,3.200,3.200,2.050
+73080524,2026-11-07 15:00,Estac Troyes 2,Canet Roussillon FC,1,0,1.700,3.300,4.500
+74041562,2026-11-07 16:00,Hyeres FC,FC Goal,0,0,,,
+73080518,2026-11-07 17:00,Lyon La Duchere,EFC Frejus Saint-Raphael,2,2,2.700,3.200,2.350
+73080530,2026-11-07 17:00,FC Hauts Lyonnais,Bourges FC,2,0,1.727,3.200,4.500
+74041566,2026-11-07 17:00,Istres FC,AS Saint Priest,0,0,,,
+74347980,2026-11-10 18:00,Nimes Olympique,Istres FC,3,0,,,
+73080606,2026-11-11 16:00,Canet Roussillon FC,FC Hauts Lyonnais,1,0,,,
+74041572,2026-11-11 16:00,AS Saint Priest,GFA Rumilly-Vallieres,2,4,3.700,3.400,1.800
+74348536,2026-11-11 16:00,EFC Frejus Saint-Raphael,Estac Troyes 2,4,1,1.727,3.500,4.000
+74041576,2026-11-11 17:00,SC Toulon,FC Limonest Dardilly Saint-Didier,1,0,,,
+74041580,2026-11-11 17:00,Bourges FC,Hyeres FC,2,1,3.000,3.400,2.050

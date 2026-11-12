@@ -1,0 +1,304 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+62116110,2025-08-22 17:00,AEL Limassol,Olympiakos Nicosia,2,0,,,
+62116114,2025-08-23 16:00,Aris Limassol FC,Apollon Limassol,3,1,,,
+62116112,2025-08-23 17:00,Anorthosis Famagusta,Omonia Aradippou,0,0,,,
+62116106,2025-08-24 16:00,Ethnikos Achnas FC,Akritas Chlorakas,0,0,,,
+62116116,2025-08-24 17:00,Krasava ENY Ypsonas FC,APOEL Nikosia,1,2,,,
+62116132,2025-08-29 16:00,Akritas Chlorakas,Enosis Neon Paralimni FC,1,0,,,
+62116124,2025-08-29 17:00,Apollon Limassol,Krasava ENY Ypsonas FC,0,3,,,
+62116126,2025-08-30 16:00,Omonia Aradippou,Aris Limassol FC,0,1,,,
+62116128,2025-08-30 16:00,Olympiakos Nicosia,Anorthosis Famagusta,2,1,,,
+62116120,2025-08-31 16:00,Ethnikos Achnas FC,AC Omonia Nicosia,2,1,,,
+62116130,2025-08-31 16:00,AEK Larnaca,AEL Limassol,2,0,,,
+62116122,2025-08-31 17:00,APOEL Nikosia,Pafos FC,0,1,,,
+62116134,2025-09-13 16:00,AC Omonia Nicosia,Akritas Chlorakas,3,0,,,
+62116138,2025-09-13 17:00,Anorthosis Famagusta,AEK Larnaca,1,1,,,
+62116144,2025-09-13 17:00,Pafos FC,Apollon Limassol,0,1,,,
+62116136,2025-09-14 16:00,AEL Limassol,Ethnikos Achnas FC,2,2,,,
+62116146,2025-09-14 16:00,Enosis Neon Paralimni FC,APOEL Nikosia,0,2,,,
+62116140,2025-09-15 16:00,Aris Limassol FC,Olympiakos Nicosia,2,0,,,
+62116142,2025-09-15 16:00,Krasava ENY Ypsonas FC,Omonia Aradippou,2,0,,,
+63506161,2025-09-17 16:00,AC Omonia Nicosia,AEK Larnaca,1,0,,,
+62116156,2025-09-19 16:00,Olympiakos Nicosia,Krasava ENY Ypsonas FC,1,1,,,
+62116148,2025-09-20 16:00,Ethnikos Achnas FC,Anorthosis Famagusta,2,0,,,
+62116160,2025-09-20 16:00,Akritas Chlorakas,APOEL Nikosia,0,4,,,
+62116152,2025-09-21 16:00,Apollon Limassol,Enosis Neon Paralimni FC,3,0,,,
+62116154,2025-09-21 16:00,Omonia Aradippou,Pafos FC,0,2,,,
+62116150,2025-09-22 16:00,AC Omonia Nicosia,AEL Limassol,5,0,,,
+62116158,2025-09-22 16:00,AEK Larnaca,Aris Limassol FC,3,2,,,
+63506169,2025-09-24 16:00,Pafos FC,Enosis Neon Paralimni FC,3,0,,,
+62116166,2025-09-26 16:00,Aris Limassol FC,Ethnikos Achnas FC,3,0,,,
+62116162,2025-09-27 16:00,AEL Limassol,Akritas Chlorakas,0,2,,,
+62116168,2025-09-27 16:00,Krasava ENY Ypsonas FC,AEK Larnaca,0,4,,,
+62116170,2025-09-27 16:00,Pafos FC,Olympiakos Nicosia,2,1,,,
+62116164,2025-09-28 16:00,Anorthosis Famagusta,AC Omonia Nicosia,0,5,,,
+62116172,2025-09-28 16:00,Enosis Neon Paralimni FC,Omonia Aradippou,0,1,,,
+62116174,2025-09-28 16:00,APOEL Nikosia,Apollon Limassol,2,0,,,
+62116182,2025-10-03 16:00,Omonia Aradippou,APOEL Nikosia,0,4,,,
+62116184,2025-10-04 14:00,Olympiakos Nicosia,Enosis Neon Paralimni FC,1,1,,,
+62116188,2025-10-04 16:00,Akritas Chlorakas,Apollon Limassol,0,2,,,
+62116180,2025-10-04 17:00,AEL Limassol,Anorthosis Famagusta,4,1,,,
+62116176,2025-10-05 14:00,Ethnikos Achnas FC,Krasava ENY Ypsonas FC,1,0,,,
+62116186,2025-10-05 16:00,AEK Larnaca,Pafos FC,2,4,,,
+62116178,2025-10-05 17:00,AC Omonia Nicosia,Aris Limassol FC,0,0,,,
+62116196,2025-10-17 16:00,Pafos FC,Ethnikos Achnas FC,4,0,,,
+62116190,2025-10-18 16:00,Anorthosis Famagusta,Akritas Chlorakas,2,2,,,
+62116198,2025-10-18 16:00,Enosis Neon Paralimni FC,AEK Larnaca,0,2,,,
+62116202,2025-10-18 16:00,Apollon Limassol,Omonia Aradippou,1,0,,,
+62116194,2025-10-19 15:00,Krasava ENY Ypsonas FC,AC Omonia Nicosia,1,2,,,
+62116192,2025-10-19 16:00,Aris Limassol FC,AEL Limassol,4,0,,,
+62116200,2025-10-19 16:00,APOEL Nikosia,Olympiakos Nicosia,2,2,,,
+62116204,2025-10-25 14:00,Ethnikos Achnas FC,Enosis Neon Paralimni FC,5,1,,,
+62116212,2025-10-25 16:00,Olympiakos Nicosia,Apollon Limassol,2,2,,,
+62116216,2025-10-26 15:00,Akritas Chlorakas,Omonia Aradippou,0,1,,,
+62116208,2025-10-26 17:00,AEL Limassol,Krasava ENY Ypsonas FC,1,0,,,
+62116210,2025-10-26 17:00,Anorthosis Famagusta,Aris Limassol FC,1,1,,,
+62116206,2025-10-27 17:00,AC Omonia Nicosia,Pafos FC,2,1,,,
+62116214,2025-10-27 17:00,AEK Larnaca,APOEL Nikosia,1,1,,,
+62116218,2025-10-31 17:00,Aris Limassol FC,Akritas Chlorakas,3,1,,,
+62116230,2025-11-01 15:00,Omonia Aradippou,Olympiakos Nicosia,0,1,,,
+62116224,2025-11-01 17:00,Enosis Neon Paralimni FC,AC Omonia Nicosia,0,2,,,
+62116226,2025-11-01 17:00,APOEL Nikosia,Ethnikos Achnas FC,4,1,,,
+62116220,2025-11-02 15:00,Krasava ENY Ypsonas FC,Anorthosis Famagusta,0,1,,,
+62116222,2025-11-02 17:00,Pafos FC,AEL Limassol,1,0,,,
+62116228,2025-11-02 17:00,Apollon Limassol,AEK Larnaca,1,2,,,
+62116236,2025-11-07 17:00,AEL Limassol,Enosis Neon Paralimni FC,3,0,,,
+62116244,2025-11-08 14:00,Akritas Chlorakas,Olympiakos Nicosia,1,1,,,
+62116232,2025-11-08 16:00,Ethnikos Achnas FC,Apollon Limassol,0,1,,,
+62116240,2025-11-08 17:00,Aris Limassol FC,Krasava ENY Ypsonas FC,3,0,,,
+62116242,2025-11-09 15:00,AEK Larnaca,Omonia Aradippou,1,0,,,
+62116234,2025-11-09 17:00,AC Omonia Nicosia,APOEL Nikosia,2,2,,,
+62116238,2025-11-09 17:00,Anorthosis Famagusta,Pafos FC,1,1,,,
+62116248,2025-11-21 17:00,Pafos FC,Aris Limassol FC,2,1,,,
+62116256,2025-11-22 15:00,Omonia Aradippou,Ethnikos Achnas FC,3,2,,,
+62116258,2025-11-22 17:00,Olympiakos Nicosia,AEK Larnaca,1,4,,,
+62116250,2025-11-23 15:00,Enosis Neon Paralimni FC,Anorthosis Famagusta,2,3,,,
+62116252,2025-11-23 17:00,APOEL Nikosia,AEL Limassol,1,2,,,
+62116254,2025-11-23 17:00,Apollon Limassol,AC Omonia Nicosia,2,0,,,
+62116246,2025-11-24 17:00,Krasava ENY Ypsonas FC,Akritas Chlorakas,0,3,,,
+62116260,2025-11-29 15:00,Ethnikos Achnas FC,Olympiakos Nicosia,0,1,,,
+62116268,2025-11-29 15:00,Aris Limassol FC,Enosis Neon Paralimni FC,4,0,,,
+62116266,2025-11-29 17:00,Anorthosis Famagusta,APOEL Nikosia,1,1,,,
+62116270,2025-11-30 15:00,Krasava ENY Ypsonas FC,Pafos FC,2,3,,,
+62116264,2025-11-30 17:00,AEL Limassol,Apollon Limassol,2,2,,,
+62116262,2025-12-01 17:00,AC Omonia Nicosia,Omonia Aradippou,3,1,,,
+62116272,2025-12-01 17:00,Akritas Chlorakas,AEK Larnaca,1,1,,,
+62116274,2025-12-05 16:00,Pafos FC,Akritas Chlorakas,4,0,,,
+62116276,2025-12-05 17:00,Enosis Neon Paralimni FC,Krasava ENY Ypsonas FC,0,1,,,
+62116284,2025-12-06 15:00,Olympiakos Nicosia,AC Omonia Nicosia,0,3,,,
+62116286,2025-12-06 17:00,AEK Larnaca,Ethnikos Achnas FC,2,1,,,
+62116278,2025-12-07 15:00,APOEL Nikosia,Aris Limassol FC,2,0,,,
+62116282,2025-12-07 15:00,Omonia Aradippou,AEL Limassol,1,3,,,
+62116280,2025-12-07 17:00,Apollon Limassol,Anorthosis Famagusta,0,0,,,
+62116288,2025-12-13 15:00,Akritas Chlorakas,Ethnikos Achnas FC,3,1,2.625,3.300,2.625
+62116298,2025-12-13 16:00,APOEL Nikosia,Krasava ENY Ypsonas FC,0,0,1.285,5.000,11.000
+62116294,2025-12-13 17:00,Omonia Aradippou,Anorthosis Famagusta,1,0,4.333,3.500,1.800
+62116292,2025-12-14 14:00,Olympiakos Nicosia,AEL Limassol,0,0,3.400,3.400,2.100
+62116296,2025-12-14 17:00,Apollon Limassol,Aris Limassol FC,0,2,3.900,3.400,1.950
+62116300,2025-12-14 17:00,Enosis Neon Paralimni FC,Pafos FC,0,2,17.000,7.000,1.166
+62116290,2025-12-15 17:00,AEK Larnaca,AC Omonia Nicosia,1,1,2.350,3.300,3.000
+62116308,2025-12-20 15:00,Aris Limassol FC,Omonia Aradippou,2,2,1.166,7.500,13.000
+62116314,2025-12-20 15:00,Enosis Neon Paralimni FC,Akritas Chlorakas,0,1,4.500,3.750,1.750
+62116310,2025-12-20 17:00,Anorthosis Famagusta,Olympiakos Nicosia,0,0,1.750,3.500,4.750
+62116306,2025-12-21 17:00,Krasava ENY Ypsonas FC,Apollon Limassol,0,1,5.500,3.400,1.650
+62116302,2025-12-22 17:00,AC Omonia Nicosia,Ethnikos Achnas FC,4,0,1.222,6.500,9.500
+62116312,2025-12-22 17:00,AEL Limassol,AEK Larnaca,0,1,4.000,3.500,1.909
+62116324,2026-01-02 17:00,Omonia Aradippou,Krasava ENY Ypsonas FC,1,0,2.350,2.900,3.300
+62116318,2026-01-03 15:00,Ethnikos Achnas FC,AEL Limassol,0,1,3.100,3.300,2.300
+62116328,2026-01-03 16:00,APOEL Nikosia,Enosis Neon Paralimni FC,3,0,1.071,9.500,29.000
+62116316,2026-01-03 17:00,Akritas Chlorakas,AC Omonia Nicosia,0,4,8.000,4.750,1.363
+62116322,2026-01-04 14:00,Olympiakos Nicosia,Aris Limassol FC,0,0,7.500,4.200,1.420
+62116320,2026-01-04 15:00,AEK Larnaca,Anorthosis Famagusta,4,0,1.533,3.750,6.500
+62116326,2026-01-04 17:00,Apollon Limassol,Pafos FC,2,1,4.000,3.250,1.950
+62116332,2026-01-09 17:00,AEL Limassol,AC Omonia Nicosia,0,2,5.250,4.000,1.615
+62116340,2026-01-10 17:00,Aris Limassol FC,AEK Larnaca,1,0,2.450,2.900,3.200
+62116342,2026-01-10 17:00,APOEL Nikosia,Akritas Chlorakas,2,1,1.250,6.000,9.500
+62116330,2026-01-11 15:00,Anorthosis Famagusta,Ethnikos Achnas FC,1,0,1.850,3.400,4.333
+62116334,2026-01-11 15:00,Enosis Neon Paralimni FC,Apollon Limassol,0,1,9.500,5.250,1.300
+62116336,2026-01-12 17:00,Pafos FC,Omonia Aradippou,2,0,1.200,7.500,12.000
+62116338,2026-01-12 17:00,Krasava ENY Ypsonas FC,Olympiakos Nicosia,1,0,2.700,3.000,2.875
+62116348,2026-01-17 14:00,Ethnikos Achnas FC,Aris Limassol FC,0,3,8.500,4.750,1.380
+62116344,2026-01-17 15:00,Akritas Chlorakas,AEL Limassol,0,2,4.000,3.400,1.900
+62116352,2026-01-17 17:00,Olympiakos Nicosia,Pafos FC,2,0,6.500,4.500,1.450
+62116346,2026-01-18 14:00,AC Omonia Nicosia,Anorthosis Famagusta,2,0,1.363,5.000,8.500
+62116350,2026-01-18 15:00,AEK Larnaca,Krasava ENY Ypsonas FC,2,1,1.270,5.500,11.000
+62116356,2026-01-18 17:00,Apollon Limassol,APOEL Nikosia,2,1,2.750,3.100,2.625
+62116354,2026-01-19 17:00,Omonia Aradippou,Enosis Neon Paralimni FC,4,1,1.400,4.200,8.500
+62116364,2026-01-23 17:00,APOEL Nikosia,Omonia Aradippou,1,1,1.400,4.500,8.000
+62116358,2026-01-24 14:00,Krasava ENY Ypsonas FC,Ethnikos Achnas FC,1,0,2.250,3.200,3.200
+62116370,2026-01-24 17:00,Apollon Limassol,Akritas Chlorakas,4,0,1.333,4.750,10.000
+62116362,2026-01-25 14:00,Anorthosis Famagusta,AEL Limassol,2,1,2.550,3.000,3.000
+62116360,2026-01-25 17:00,Aris Limassol FC,AC Omonia Nicosia,3,5,2.800,3.200,2.550
+62116368,2026-01-25 17:00,Pafos FC,AEK Larnaca,1,2,2.450,3.200,2.900
+68195232,2026-01-26 17:00,Enosis Neon Paralimni FC,Olympiakos Nicosia,0,2,5.250,4.333,1.571
+62116384,2026-01-30 17:00,Omonia Aradippou,Apollon Limassol,0,1,4.333,3.500,1.800
+62116378,2026-01-31 14:00,Ethnikos Achnas FC,Pafos FC,2,1,6.500,4.500,1.444
+62116380,2026-01-31 15:00,AEK Larnaca,Enosis Neon Paralimni FC,5,0,1.045,15.000,26.000
+62116382,2026-01-31 17:00,Olympiakos Nicosia,APOEL Nikosia,0,2,5.250,3.400,1.700
+62116376,2026-02-01 14:00,AC Omonia Nicosia,Krasava ENY Ypsonas FC,1,0,1.200,6.250,13.000
+62116372,2026-02-01 15:00,Akritas Chlorakas,Anorthosis Famagusta,2,0,5.250,3.900,1.615
+62116374,2026-02-01 17:00,AEL Limassol,Aris Limassol FC,2,1,5.500,3.800,1.615
+67302900,2026-02-04 17:00,Pafos FC,APOEL Nikosia,2,0,1.950,3.300,3.900
+62116386,2026-02-07 15:00,Enosis Neon Paralimni FC,Ethnikos Achnas FC,0,2,15.000,6.000,1.200
+62116396,2026-02-08 14:00,APOEL Nikosia,AEK Larnaca,1,2,2.875,3.000,2.600
+62116394,2026-02-08 16:00,Apollon Limassol,Olympiakos Nicosia,3,1,1.480,4.200,6.500
+62116388,2026-02-08 17:00,Pafos FC,AC Omonia Nicosia,2,4,2.625,3.300,2.625
+62116390,2026-02-09 17:00,Krasava ENY Ypsonas FC,AEL Limassol,3,0,3.250,3.200,2.250
+62116392,2026-02-09 17:00,Aris Limassol FC,Anorthosis Famagusta,0,1,1.444,4.750,6.250
+62116398,2026-02-09 17:00,Omonia Aradippou,Akritas Chlorakas,2,0,1.833,3.400,4.333
+62116402,2026-02-13 17:00,Anorthosis Famagusta,Krasava ENY Ypsonas FC,1,1,1.727,3.500,5.000
+62116400,2026-02-14 14:00,Akritas Chlorakas,Aris Limassol FC,1,1,9.000,5.000,1.333
+62116406,2026-02-14 15:00,AC Omonia Nicosia,Enosis Neon Paralimni FC,3,0,1.030,17.000,41.000
+62116410,2026-02-14 17:00,AEK Larnaca,Apollon Limassol,0,1,1.950,3.400,3.900
+62116412,2026-02-15 13:00,Olympiakos Nicosia,Omonia Aradippou,0,0,2.400,3.250,2.900
+62116408,2026-02-15 14:00,Ethnikos Achnas FC,APOEL Nikosia,3,2,4.500,3.600,1.750
+62116404,2026-02-15 17:00,AEL Limassol,Pafos FC,0,1,4.500,3.700,1.750
+62116418,2026-02-20 17:00,Enosis Neon Paralimni FC,AEL Limassol,0,2,10.000,5.250,1.285
+62116422,2026-02-20 17:00,Krasava ENY Ypsonas FC,Aris Limassol FC,1,1,5.250,3.800,1.615
+62116414,2026-02-21 15:00,Apollon Limassol,Ethnikos Achnas FC,1,0,1.450,4.500,7.000
+62116420,2026-02-21 16:00,Pafos FC,Anorthosis Famagusta,0,0,1.500,4.100,6.250
+62116426,2026-02-21 16:00,Olympiakos Nicosia,Akritas Chlorakas,1,3,2.000,3.250,3.800
+62116416,2026-02-22 15:00,APOEL Nikosia,AC Omonia Nicosia,1,0,2.450,2.900,3.100
+62116424,2026-02-22 17:00,Omonia Aradippou,AEK Larnaca,2,1,5.500,3.700,1.615
+62116438,2026-02-28 14:00,Ethnikos Achnas FC,Omonia Aradippou,0,1,2.625,3.250,2.700
+62116434,2026-02-28 15:00,AEL Limassol,APOEL Nikosia,2,3,3.400,3.400,2.100
+62116432,2026-02-28 16:00,Anorthosis Famagusta,Enosis Neon Paralimni FC,3,0,1.125,8.000,21.000
+62116428,2026-03-01 14:00,Akritas Chlorakas,Krasava ENY Ypsonas FC,1,3,2.900,3.000,2.500
+62116440,2026-03-01 15:00,AEK Larnaca,Olympiakos Nicosia,1,1,1.363,5.000,7.500
+62116430,2026-03-01 17:00,Aris Limassol FC,Pafos FC,2,2,3.000,3.400,2.300
+62116436,2026-03-02 17:00,AC Omonia Nicosia,Apollon Limassol,1,1,1.950,3.400,3.750
+62116454,2026-03-06 17:00,AEK Larnaca,Akritas Chlorakas,3,0,1.270,5.750,10.000
+62116442,2026-03-07 15:00,Olympiakos Nicosia,Ethnikos Achnas FC,2,1,2.300,3.400,3.000
+62116452,2026-03-07 16:00,Pafos FC,Krasava ENY Ypsonas FC,7,0,1.400,4.750,7.000
+62116444,2026-03-07 17:00,Omonia Aradippou,AC Omonia Nicosia,0,2,5.000,4.000,1.615
+62116446,2026-03-08 14:00,Apollon Limassol,AEL Limassol,2,1,1.650,3.700,5.250
+62116450,2026-03-08 14:00,Enosis Neon Paralimni FC,Aris Limassol FC,0,4,29.000,7.500,1.090
+62116448,2026-03-08 15:00,APOEL Nikosia,Anorthosis Famagusta,0,2,1.666,3.700,5.250
+62116464,2026-03-14 15:00,AEL Limassol,Omonia Aradippou,1,2,2.100,3.300,3.500
+62116456,2026-03-14 16:00,Akritas Chlorakas,Pafos FC,0,4,9.000,6.500,1.181
+62116462,2026-03-15 14:00,Anorthosis Famagusta,Apollon Limassol,1,1,3.500,3.200,2.100
+62116460,2026-03-15 17:00,Aris Limassol FC,APOEL Nikosia,1,2,1.950,3.750,3.500
+62116466,2026-03-15 18:30,AC Omonia Nicosia,Olympiakos Nicosia,5,0,1.300,5.250,9.000
+62116458,2026-03-16 17:00,Krasava ENY Ypsonas FC,Enosis Neon Paralimni FC,4,0,1.111,8.000,19.000
+62116468,2026-03-16 17:00,Ethnikos Achnas FC,AEK Larnaca,0,2,5.000,3.600,1.727
+69997160,2026-03-20 17:00,Omonia Aradippou,Enosis Neon Paralimni FC,1,2,1.111,9.000,19.000
+69996996,2026-03-21 15:00,Aris Limassol FC,AC Omonia Nicosia,2,2,3.600,3.700,1.950
+69997162,2026-03-21 15:00,Anorthosis Famagusta,Akritas Chlorakas,3,2,1.550,3.800,6.500
+69997240,2026-03-21 17:00,Krasava ENY Ypsonas FC,Olympiakos Nicosia,1,0,2.150,3.000,3.750
+69997242,2026-03-22 14:00,AEL Limassol,Ethnikos Achnas FC,1,1,1.900,3.500,3.900
+69996998,2026-03-22 15:00,Pafos FC,Apollon Limassol,1,1,1.850,3.400,4.200
+69997076,2026-03-22 17:00,AEK Larnaca,APOEL Nikosia,1,0,2.100,3.400,3.300
+70234934,2026-04-04 13:00,Enosis Neon Paralimni FC,Olympiakos Nicosia,1,3,12.000,5.500,1.250
+70234302,2026-04-04 16:00,AC Omonia Nicosia,Pafos FC,2,0,1.950,3.700,3.600
+70235048,2026-04-04 16:00,Omonia Aradippou,AEL Limassol,0,3,2.000,3.100,4.200
+70235166,2026-04-05 13:00,Ethnikos Achnas FC,Anorthosis Famagusta,1,0,1.750,3.600,4.333
+70234304,2026-04-05 14:00,APOEL Nikosia,Aris Limassol FC,2,1,2.150,3.500,3.200
+70234306,2026-04-05 16:00,Apollon Limassol,AEK Larnaca,1,1,2.350,3.250,3.000
+70235392,2026-04-06 16:00,Akritas Chlorakas,Krasava ENY Ypsonas FC,0,2,3.200,3.250,2.200
+70234308,2026-04-14 14:00,Aris Limassol FC,Pafos FC,1,1,3.000,3.300,2.300
+70234310,2026-04-14 14:00,APOEL Nikosia,Apollon Limassol,2,3,2.600,3.100,2.800
+70234312,2026-04-14 16:00,AEK Larnaca,AC Omonia Nicosia,0,2,3.200,3.000,2.400
+70235564,2026-04-17 16:00,AEL Limassol,Enosis Neon Paralimni FC,2,1,1.181,7.000,12.000
+70234314,2026-04-18 15:00,AC Omonia Nicosia,APOEL Nikosia,2,0,1.600,3.900,5.500
+70234316,2026-04-18 15:00,Pafos FC,AEK Larnaca,1,1,2.450,3.200,2.800
+70234318,2026-04-18 16:00,Aris Limassol FC,Apollon Limassol,3,0,2.700,3.400,2.500
+70235792,2026-04-19 13:00,Olympiakos Nicosia,Akritas Chlorakas,0,1,1.950,3.500,3.800
+70235906,2026-04-19 14:00,Anorthosis Famagusta,Omonia Aradippou,1,1,2.400,3.200,3.000
+70236020,2026-04-19 16:00,Krasava ENY Ypsonas FC,Ethnikos Achnas FC,3,1,2.900,3.300,2.350
+70236194,2026-04-25 13:00,Enosis Neon Paralimni FC,Akritas Chlorakas,1,2,8.000,4.750,1.363
+70236308,2026-04-25 14:00,Omonia Aradippou,Krasava ENY Ypsonas FC,1,1,1.615,4.200,4.750
+70234320,2026-04-25 16:00,AEK Larnaca,Aris Limassol FC,2,0,1.950,3.700,3.300
+70236480,2026-04-26 13:00,Ethnikos Achnas FC,Olympiakos Nicosia,2,1,2.200,3.100,3.500
+70234322,2026-04-26 14:00,APOEL Nikosia,Pafos FC,3,3,3.100,3.400,2.250
+70234436,2026-04-26 16:00,Apollon Limassol,AC Omonia Nicosia,2,3,3.800,3.600,1.909
+70236482,2026-04-27 16:00,AEL Limassol,Anorthosis Famagusta,0,1,3.000,3.400,2.250
+71056626,2026-05-01 16:00,Olympiakos Nicosia,Omonia Aradippou,2,1,2.600,3.400,2.600
+71056628,2026-05-01 16:00,Akritas Chlorakas,Ethnikos Achnas FC,1,0,2.750,3.600,2.400
+71056630,2026-05-02 14:00,Krasava ENY Ypsonas FC,AEL Limassol,1,1,2.750,3.300,2.500
+71056598,2026-05-02 16:00,AC Omonia Nicosia,Aris Limassol FC,3,0,1.533,4.500,5.500
+71056632,2026-05-02 16:00,Anorthosis Famagusta,Enosis Neon Paralimni FC,2,0,1.166,7.500,15.000
+71056600,2026-05-03 14:00,APOEL Nikosia,AEK Larnaca,1,0,2.875,3.300,2.450
+71056602,2026-05-03 16:00,Apollon Limassol,Pafos FC,2,1,2.800,3.300,2.450
+71056604,2026-05-06 16:00,AEK Larnaca,Apollon Limassol,1,0,1.533,3.500,5.500
+71056606,2026-05-06 16:00,Pafos FC,AC Omonia Nicosia,0,2,1.550,4.750,5.000
+71056608,2026-05-06 16:00,Aris Limassol FC,APOEL Nikosia,1,0,2.150,3.500,3.200
+71186852,2026-05-08 16:00,Anorthosis Famagusta,Krasava ENY Ypsonas FC,5,2,1.800,3.500,4.500
+71186854,2026-05-09 15:00,Enosis Neon Paralimni FC,Ethnikos Achnas FC,1,3,13.000,7.500,1.166
+71186856,2026-05-09 15:00,Omonia Aradippou,Akritas Chlorakas,2,1,1.833,3.750,3.900
+71186858,2026-05-09 15:00,AEL Limassol,Olympiakos Nicosia,1,3,3.100,3.300,2.250
+71186812,2026-05-10 15:00,Pafos FC,Aris Limassol FC,2,0,1.650,4.000,4.750
+71186814,2026-05-10 15:00,AC Omonia Nicosia,AEK Larnaca,1,1,1.550,4.000,5.500
+71186816,2026-05-10 15:00,Apollon Limassol,APOEL Nikosia,2,0,1.750,3.600,4.333
+71343370,2026-05-15 16:00,Ethnikos Achnas FC,Omonia Aradippou,1,2,2.450,3.500,2.625
+71343372,2026-05-15 16:00,Olympiakos Nicosia,Anorthosis Famagusta,1,0,1.571,3.600,6.500
+71343380,2026-05-15 16:00,Akritas Chlorakas,AEL Limassol,1,2,1.750,3.750,4.333
+71186818,2026-05-16 15:00,APOEL Nikosia,AC Omonia Nicosia,0,3,4.333,3.900,1.727
+71186820,2026-05-16 15:00,AEK Larnaca,Pafos FC,2,2,2.300,3.500,2.900
+71186822,2026-05-16 15:00,Apollon Limassol,Aris Limassol FC,3,2,2.050,3.500,3.300
+71343382,2026-05-17 14:00,Krasava ENY Ypsonas FC,Enosis Neon Paralimni FC,0,0,,,
+71186824,2026-05-22 14:30,AC Omonia Nicosia,Apollon Limassol,5,2,1.800,4.100,3.750
+71186826,2026-05-22 14:30,Aris Limassol FC,AEK Larnaca,3,4,2.200,3.600,3.000
+71186828,2026-05-22 14:30,Pafos FC,APOEL Nikosia,2,0,1.850,3.600,4.100
+73160350,2026-08-28 16:00,Krasava ENY Ypsonas FC,Als Omonia,0,3,,,
+73160354,2026-08-28 17:00,Olympiakos Nicosia,Nea Salamina Famagusta,3,3,2.350,3.250,3.100
+73160356,2026-08-29 16:00,AEK Larnaca,APOEL Nikosia,3,1,1.850,3.600,4.000
+73160346,2026-08-29 17:00,Aris Limassol FC,Apollon Limassol,2,2,2.500,3.400,2.750
+73160358,2026-08-30 16:00,AEL Limassol,Anorthosis Famagusta,2,0,1.850,3.400,4.500
+73160352,2026-08-30 17:00,Karmiotissa FC,Pafos FC,0,3,11.000,5.750,1.250
+73160348,2026-08-31 17:00,AC Omonia Nicosia,Omonia Aradippou,0,0,1.200,6.500,12.000
+73160368,2026-09-04 16:00,Als Omonia,Karmiotissa FC,2,2,2.450,3.300,2.625
+73160372,2026-09-05 16:00,Apollon Limassol,Anorthosis Famagusta,3,1,1.550,3.900,5.500
+73160370,2026-09-05 17:00,Omonia Aradippou,Krasava ENY Ypsonas FC,2,1,2.150,3.250,3.200
+73160362,2026-09-06 16:00,APOEL Nikosia,AEL Limassol,6,0,1.850,3.500,3.900
+73160364,2026-09-06 16:00,Nea Salamina Famagusta,AEK Larnaca,1,4,4.333,3.600,1.727
+73160366,2026-09-07 16:00,Pafos FC,Olympiakos Nicosia,0,0,1.363,4.750,7.000
+73160360,2026-09-07 17:00,Aris Limassol FC,AC Omonia Nicosia,1,4,3.900,3.600,1.900
+73160384,2026-09-11 17:00,AEL Limassol,Nea Salamina Famagusta,2,1,1.800,3.300,4.333
+73160378,2026-09-12 16:00,Karmiotissa FC,Omonia Aradippou,1,1,2.900,3.200,2.300
+73160386,2026-09-12 16:00,Anorthosis Famagusta,APOEL Nikosia,2,1,3.700,3.500,1.850
+73160374,2026-09-12 17:00,AC Omonia Nicosia,Apollon Limassol,0,0,1.666,3.600,4.500
+73160382,2026-09-13 16:00,AEK Larnaca,Pafos FC,0,1,2.600,3.200,2.600
+73160380,2026-09-13 17:00,Olympiakos Nicosia,Als Omonia,3,3,1.900,3.300,4.000
+73160376,2026-09-14 17:00,Krasava ENY Ypsonas FC,Aris Limassol FC,0,1,4.100,3.750,1.727
+73160394,2026-09-18 17:00,Pafos FC,AEL Limassol,0,2,1.450,4.100,6.250
+73160396,2026-09-18 17:00,Als Omonia,AEK Larnaca,1,2,7.000,4.500,1.363
+73160392,2026-09-19 16:00,Nea Salamina Famagusta,Anorthosis Famagusta,3,0,2.750,3.200,2.450
+73160400,2026-09-19 16:00,Apollon Limassol,APOEL Nikosia,2,2,2.250,3.250,3.000
+73160388,2026-09-20 16:00,Aris Limassol FC,Karmiotissa FC,0,0,1.444,4.750,6.000
+73160390,2026-09-20 16:00,AC Omonia Nicosia,Krasava ENY Ypsonas FC,4,1,1.200,6.000,12.000
+73160398,2026-09-20 17:00,Omonia Aradippou,Olympiakos Nicosia,1,1,2.200,3.200,3.100
+73160404,2026-10-09 16:00,Karmiotissa FC,AC Omonia Nicosia,0,3,9.000,5.250,1.285
+73160402,2026-10-10 15:00,Krasava ENY Ypsonas FC,Apollon Limassol,1,3,5.500,4.333,1.480
+73160414,2026-10-10 16:00,APOEL Nikosia,Nea Salamina Famagusta,2,1,1.450,4.100,6.000
+73160412,2026-10-11 15:00,Anorthosis Famagusta,Pafos FC,1,3,4.333,3.400,1.750
+73160406,2026-10-11 16:00,Olympiakos Nicosia,Aris Limassol FC,1,2,3.600,3.300,2.000
+73160410,2026-10-11 16:00,AEL Limassol,Als Omonia,2,1,1.571,3.800,5.500
+73160408,2026-10-12 16:00,AEK Larnaca,Omonia Aradippou,1,0,1.333,4.750,8.500
+73160420,2026-10-17 15:00,Krasava ENY Ypsonas FC,Karmiotissa FC,2,1,2.550,3.250,2.550
+73160428,2026-10-17 16:00,Apollon Limassol,Nea Salamina Famagusta,4,2,1.500,3.900,6.000
+73160426,2026-10-18 15:00,Omonia Aradippou,AEL Limassol,0,2,2.900,3.250,2.250
+73160416,2026-10-18 16:00,Aris Limassol FC,AEK Larnaca,1,1,2.750,3.100,2.550
+73160424,2026-10-18 16:00,Als Omonia,Anorthosis Famagusta,1,0,4.100,3.750,1.750
+73160422,2026-10-19 15:00,Pafos FC,APOEL Nikosia,0,0,1.850,3.500,3.600
+73160418,2026-10-19 16:00,AC Omonia Nicosia,Olympiakos Nicosia,2,2,1.222,5.750,11.000
+73160432,2026-10-24 15:00,Olympiakos Nicosia,Krasava ENY Ypsonas FC,1,1,1.700,3.700,4.333
+73160438,2026-10-24 16:00,Anorthosis Famagusta,Omonia Aradippou,2,0,2.050,3.100,3.600
+73160430,2026-10-25 15:00,Karmiotissa FC,Apollon Limassol,0,5,8.500,4.500,1.333
+73160440,2026-10-25 16:00,APOEL Nikosia,Als Omonia,4,1,1.285,4.750,9.000
+73160436,2026-10-25 17:00,AEL Limassol,Aris Limassol FC,1,3,3.100,3.300,2.150
+73160442,2026-10-26 16:00,Nea Salamina Famagusta,Pafos FC,0,0,4.333,3.600,1.700
+73160434,2026-10-26 17:00,AEK Larnaca,AC Omonia Nicosia,2,0,2.875,3.300,2.300
+73160450,2026-10-30 17:00,Karmiotissa FC,Olympiakos Nicosia,1,0,3.100,3.400,2.150
+73160448,2026-10-31 14:00,Krasava ENY Ypsonas FC,AEK Larnaca,2,2,8.000,5.250,1.285
+73160456,2026-10-31 15:00,Apollon Limassol,Pafos FC,2,2,2.250,3.300,3.000
+73160446,2026-10-31 17:00,AC Omonia Nicosia,AEL Limassol,2,0,1.363,4.500,7.500
+73160452,2026-11-01 15:00,Als Omonia,Nea Salamina Famagusta,1,0,4.200,3.700,1.727
+73160444,2026-11-01 16:00,Aris Limassol FC,Anorthosis Famagusta,2,1,1.666,3.600,5.000
+73160454,2026-11-01 17:00,Omonia Aradippou,APOEL Nikosia,1,2,6.000,4.100,1.480
+73160460,2026-11-06 17:00,AEK Larnaca,Karmiotissa FC,4,1,1.222,6.000,11.000
+73160468,2026-11-06 17:00,Nea Salamina Famagusta,Omonia Aradippou,3,2,2.150,3.200,3.200
+73160462,2026-11-07 14:00,AEL Limassol,Krasava ENY Ypsonas FC,3,1,1.480,4.000,6.250
+73160458,2026-11-07 17:00,Olympiakos Nicosia,Apollon Limassol,1,0,4.333,3.900,1.700
+73160464,2026-11-08 14:00,Anorthosis Famagusta,AC Omonia Nicosia,0,2,5.250,3.800,1.571
+73160466,2026-11-08 17:00,APOEL Nikosia,Aris Limassol FC,3,1,2.050,3.400,3.200
+73160470,2026-11-08 17:00,Pafos FC,Als Omonia,4,2,1.222,5.750,11.000

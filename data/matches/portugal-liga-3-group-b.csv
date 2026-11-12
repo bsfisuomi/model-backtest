@@ -1,0 +1,46 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+72939154,2026-08-08 10:00,UD Oliveirense,Louletano DC,0,0,1.727,3.500,4.000
+72939156,2026-08-08 16:00,SC Covilha,UD Santarem,2,0,2.450,3.000,2.550
+72939160,2026-08-08 16:00,Lusitano GC,Atletico Clube de Portugal,0,1,,,
+72939162,2026-08-08 16:30,CF Os Belenenses,Caldas SC,1,0,1.600,3.500,5.250
+72939158,2026-08-08 19:00,CD Mafra,GD Vitoria Sernache,5,0,1.650,3.400,4.750
+72939168,2026-08-14 19:30,UD Santarem,UD Oliveirense,1,1,2.450,3.100,2.625
+72939172,2026-08-15 10:00,Atletico Clube de Portugal,CD Mafra,1,1,,,
+72939166,2026-08-15 16:00,Louletano DC,CF Os Belenenses,1,3,3.100,3.100,2.100
+72939170,2026-08-16 16:00,GD Vitoria Sernache,SC Covilha,0,0,2.875,3.100,2.300
+72939164,2026-08-16 16:30,Caldas SC,Lusitano GC,0,0,2.450,3.100,2.625
+72939174,2026-08-22 10:00,CF Os Belenenses,UD Santarem,5,0,1.550,3.700,5.000
+72939176,2026-08-22 16:00,Lusitano GC,CD Mafra,2,1,2.625,2.875,2.550
+72939178,2026-08-22 17:00,SC Covilha,Atletico Clube de Portugal,0,3,,,
+72939182,2026-08-23 16:00,Caldas SC,Louletano DC,2,4,2.100,3.200,3.000
+72939180,2026-08-23 16:30,UD Oliveirense,GD Vitoria Sernache,3,2,1.700,3.500,4.200
+72939186,2026-09-04 19:00,UD Santarem,Caldas SC,0,1,2.100,3.250,3.000
+72939192,2026-09-05 16:00,CD Mafra,SC Covilha,1,0,1.666,3.300,4.750
+72939188,2026-09-06 13:30,GD Vitoria Sernache,CF Os Belenenses,1,3,5.250,3.400,1.571
+72939190,2026-09-06 15:00,Atletico Clube de Portugal,UD Oliveirense,3,1,,,
+72939184,2026-09-06 16:00,Louletano DC,Lusitano GC,1,0,3.100,2.750,2.350
+72939196,2026-09-12 10:00,UD Oliveirense,CD Mafra,2,1,2.800,3.300,2.200
+72939200,2026-09-12 15:00,Louletano DC,UD Santarem,1,2,1.900,3.250,3.500
+72939194,2026-09-12 16:00,Lusitano GC,SC Covilha,2,2,1.615,3.500,5.000
+72939202,2026-09-13 10:00,CF Os Belenenses,Atletico Clube de Portugal,1,0,,,
+72939198,2026-09-13 16:00,Caldas SC,GD Vitoria Sernache,2,0,2.150,3.200,3.000
+72939204,2026-10-09 20:00,UD Santarem,Lusitano GC,3,0,3.100,3.100,2.200
+72939206,2026-10-10 14:00,GD Vitoria Sernache,Louletano DC,1,0,2.700,3.250,2.300
+72939212,2026-10-10 16:30,SC Covilha,UD Oliveirense,0,0,2.600,3.200,2.450
+72939210,2026-10-11 10:00,CD Mafra,CF Os Belenenses,2,2,2.875,3.200,2.200
+72939208,2026-10-11 14:00,Atletico Clube de Portugal,Caldas SC,4,1,,,
+72939218,2026-10-24 14:00,Caldas SC,CD Mafra,3,3,3.200,3.300,2.000
+72939222,2026-10-24 14:00,Lusitano GC,UD Oliveirense,2,2,2.000,3.200,3.400
+72939216,2026-10-25 15:00,Louletano DC,Atletico Clube de Portugal,2,2,,,
+72939220,2026-10-25 15:00,CF Os Belenenses,SC Covilha,1,1,1.400,4.100,6.250
+72939214,2026-10-25 20:00,UD Santarem,GD Vitoria Sernache,2,1,2.100,3.100,3.250
+72939230,2026-10-31 15:00,CD Mafra,Louletano DC,2,1,1.500,3.700,5.500
+72939232,2026-10-31 15:00,Atletico Clube de Portugal,UD Santarem,3,1,,,
+72939226,2026-10-31 17:30,UD Oliveirense,CF Os Belenenses,1,2,3.100,3.300,2.000
+72939224,2026-11-01 15:00,Lusitano GC,GD Vitoria Sernache,0,1,1.700,3.300,4.333
+72939228,2026-11-01 15:00,SC Covilha,Caldas SC,0,1,2.250,3.000,2.875
+72939236,2026-11-06 19:00,UD Santarem,CD Mafra,2,1,3.400,3.400,1.900
+72939242,2026-11-06 20:00,CF Os Belenenses,Lusitano GC,0,0,1.500,3.700,5.500
+72939240,2026-11-07 15:00,Caldas SC,UD Oliveirense,0,1,2.625,3.100,2.400
+72939238,2026-11-08 11:00,Louletano DC,SC Covilha,2,0,2.000,3.200,3.300
+72939234,2026-11-08 15:00,GD Vitoria Sernache,Atletico Clube de Portugal,0,1,,,

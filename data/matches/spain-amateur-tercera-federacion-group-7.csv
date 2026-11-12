@@ -1,0 +1,403 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+60531185,2025-05-25 09:30,AD Torrejon CF,SAD Villaverde San Andres,0,0,,,
+60531187,2025-05-25 10:00,Rayo Vallecano B,CD Galapagar,0,0,,,
+60809117,2025-06-01 09:30,AD Torrejon CF,Rayo Vallecano B,1,1,,,
+63139439,2025-09-06 15:00,CD Leganes B,AD Alcorcon B,0,0,,,
+63139445,2025-09-07 09:30,Cdb Siello FC,CDF Tres Cantos,2,1,,,
+63139451,2025-09-07 09:30,SAD Villaverde San Andres,CD Mostoles URJC,1,1,,,
+63139437,2025-09-07 10:00,Las Rozas CF,Sad Racing Ciudad de Madrid,2,1,,,
+63139449,2025-09-07 10:00,AD Union Adarve,UD Sanse,1,0,,,
+63330953,2025-09-07 10:00,CF Pozuelo de Alarcon,Mexico FC,1,2,,,
+63139435,2025-09-07 14:30,CD Galapagar,AD Torrejon CF,2,1,,,
+63139447,2025-09-07 16:30,CF Trival Valderas Alcoron,AD Parla,3,0,,,
+63330951,2025-09-07 17:00,Atletico Madrid C,RCD Carabanchel,3,1,,,
+63139455,2025-09-13 14:00,AD Alcorcon B,CF Pozuelo de Alarcon,1,1,,,
+63641109,2025-09-13 15:00,Mexico FC,Cdb Siello FC,0,1,,,
+63139453,2025-09-14 09:30,AD Torrejon CF,CF Trival Valderas Alcoron,2,1,,,
+63139459,2025-09-14 09:30,RCD Carabanchel,SAD Villaverde San Andres,3,0,,,
+63139465,2025-09-14 09:30,AD Parla,CD Leganes B,1,1,,,
+63139461,2025-09-14 10:00,CD Mostoles URJC,AD Union Adarve,0,3,,,
+63139637,2025-09-14 10:00,CDF Tres Cantos,Atletico Madrid C,0,1,,,
+63139463,2025-09-14 14:00,Sad Racing Ciudad de Madrid,CD Galapagar,1,1,,,
+63139467,2025-09-14 17:00,UD Sanse,Las Rozas CF,1,2,,,
+63139487,2025-09-21 09:30,SAD Villaverde San Andres,CDF Tres Cantos,3,0,,,
+63139793,2025-09-21 09:30,Atletico Madrid C,Mexico FC,3,2,,,
+63139475,2025-09-21 10:00,Las Rozas CF,CD Mostoles URJC,2,4,,,
+63139477,2025-09-21 10:00,CD Leganes B,AD Torrejon CF,2,0,,,
+63139481,2025-09-21 10:00,CF Pozuelo de Alarcon,AD Parla,0,0,,,
+63139483,2025-09-21 10:00,Cdb Siello FC,AD Alcorcon B,2,0,,,
+63139485,2025-09-21 10:00,AD Union Adarve,RCD Carabanchel,3,3,,,
+63139471,2025-09-21 14:00,Sad Racing Ciudad de Madrid,UD Sanse,2,2,,,
+63139473,2025-09-21 14:30,CD Galapagar,CF Trival Valderas Alcoron,2,1,,,
+63139971,2025-09-27 10:00,AD Alcorcon B,Atletico Madrid C,1,3,,,
+63139651,2025-09-27 15:00,Mexico FC,SAD Villaverde San Andres,0,1,,,
+63139489,2025-09-28 09:30,AD Torrejon CF,CF Pozuelo de Alarcon,1,3,,,
+63139495,2025-09-28 09:30,RCD Carabanchel,Las Rozas CF,0,1,,,
+63139499,2025-09-28 09:30,AD Parla,Cdb Siello FC,2,1,,,
+63139505,2025-09-28 09:30,CF Trival Valderas Alcoron,CD Leganes B,0,2,,,
+63139497,2025-09-28 09:45,CD Mostoles URJC,Sad Racing Ciudad de Madrid,3,2,,,
+63139503,2025-09-28 10:00,CDF Tres Cantos,AD Union Adarve,1,0,,,
+63139501,2025-09-28 10:30,UD Sanse,CD Galapagar,0,0,,,
+63139523,2025-10-05 09:30,SAD Villaverde San Andres,AD Alcorcon B,1,0,,,
+63139987,2025-10-05 09:30,Atletico Madrid C,AD Parla,0,1,,,
+63139511,2025-10-05 10:00,Las Rozas CF,CDF Tres Cantos,9,1,,,
+63139515,2025-10-05 10:00,CF Pozuelo de Alarcon,CF Trival Valderas Alcoron,1,0,,,
+63139677,2025-10-05 10:00,AD Union Adarve,Mexico FC,2,2,,,
+63139517,2025-10-05 10:30,UD Sanse,CD Mostoles URJC,1,1,,,
+63139507,2025-10-05 14:00,Sad Racing Ciudad de Madrid,RCD Carabanchel,0,1,,,
+63139519,2025-10-05 14:00,Cdb Siello FC,AD Torrejon CF,2,3,,,
+63139509,2025-10-05 14:30,CD Galapagar,CD Leganes B,2,2,,,
+63139527,2025-10-11 14:00,AD Alcorcon B,AD Union Adarve,1,1,,,
+63139685,2025-10-11 15:00,Mexico FC,Las Rozas CF,2,2,,,
+63139531,2025-10-12 09:30,RCD Carabanchel,UD Sanse,1,1,,,
+63139537,2025-10-12 09:30,AD Parla,SAD Villaverde San Andres,0,2,,,
+63139541,2025-10-12 09:30,CF Trival Valderas Alcoron,Cdb Siello FC,1,0,,,
+63140005,2025-10-12 09:30,AD Torrejon CF,Atletico Madrid C,4,3,,,
+63139533,2025-10-12 09:45,CD Mostoles URJC,CD Galapagar,1,0,,,
+63139535,2025-10-12 10:00,CD Leganes B,CF Pozuelo de Alarcon,3,0,,,
+63139539,2025-10-12 10:00,CDF Tres Cantos,Sad Racing Ciudad de Madrid,1,0,,,
+63140025,2025-10-18 09:00,Atletico Madrid C,CF Trival Valderas Alcoron,2,1,,,
+63139559,2025-10-19 09:30,SAD Villaverde San Andres,AD Torrejon CF,0,0,,,
+63139543,2025-10-19 09:45,CD Mostoles URJC,RCD Carabanchel,1,0,,,
+63139549,2025-10-19 10:00,Las Rozas CF,AD Alcorcon B,1,0,,,
+63139557,2025-10-19 10:00,AD Union Adarve,AD Parla,2,0,,,
+63139705,2025-10-19 12:00,Sad Racing Ciudad de Madrid,Mexico FC,1,3,,,
+63139547,2025-10-19 14:30,CD Galapagar,CF Pozuelo de Alarcon,2,2,,,
+63139555,2025-10-19 14:45,Cdb Siello FC,CD Leganes B,0,7,,,
+63139553,2025-10-19 15:30,UD Sanse,CDF Tres Cantos,2,1,,,
+63139563,2025-10-25 14:00,AD Alcorcon B,Sad Racing Ciudad de Madrid,0,0,,,
+63139721,2025-10-25 15:00,Mexico FC,UD Sanse,0,0,,,
+63139561,2025-10-26 10:30,AD Torrejon CF,AD Union Adarve,0,0,,,
+63139567,2025-10-26 10:30,RCD Carabanchel,CD Galapagar,1,0,,,
+63139571,2025-10-26 10:30,AD Parla,Las Rozas CF,1,2,,,
+63139587,2025-10-26 10:30,CF Trival Valderas Alcoron,SAD Villaverde San Andres,1,1,,,
+63139573,2025-10-26 11:00,CF Pozuelo de Alarcon,Cdb Siello FC,2,1,,,
+63139575,2025-10-26 11:00,CDF Tres Cantos,CD Mostoles URJC,2,3,,,
+63140045,2025-10-26 11:00,CD Leganes B,Atletico Madrid C,2,2,,,
+63139755,2025-11-01 10:30,Atletico Madrid C,CF Pozuelo de Alarcon,0,0,,,
+63139589,2025-11-02 10:30,RCD Carabanchel,CDF Tres Cantos,0,0,,,
+63139605,2025-11-02 10:30,SAD Villaverde San Andres,CD Leganes B,0,3,,,
+63139597,2025-11-02 11:00,Las Rozas CF,AD Torrejon CF,2,0,,,
+63139603,2025-11-02 11:00,AD Union Adarve,CF Trival Valderas Alcoron,0,2,,,
+63139601,2025-11-02 11:30,UD Sanse,AD Alcorcon B,2,1,,,
+63139593,2025-11-02 15:30,Sad Racing Ciudad de Madrid,AD Parla,0,0,,,
+63139595,2025-11-02 15:30,CD Galapagar,Cdb Siello FC,2,1,,,
+63139739,2025-11-02 16:00,CD Mostoles URJC,Mexico FC,2,1,,,
+63139609,2025-11-08 15:00,AD Alcorcon B,CD Mostoles URJC,1,0,,,
+63139607,2025-11-09 10:30,AD Torrejon CF,Sad Racing Ciudad de Madrid,4,1,,,
+63139615,2025-11-09 10:30,AD Parla,UD Sanse,1,0,,,
+63139613,2025-11-09 11:00,CD Leganes B,AD Union Adarve,5,0,,,
+63139617,2025-11-09 11:00,CF Pozuelo de Alarcon,SAD Villaverde San Andres,0,1,,,
+63139621,2025-11-09 11:00,CDF Tres Cantos,CD Galapagar,0,0,,,
+63139781,2025-11-09 17:00,Cdb Siello FC,Atletico Madrid C,1,2,,,
+63139957,2025-11-15 15:30,CD Galapagar,Atletico Madrid C,1,8,,,
+63139625,2025-11-16 10:30,RCD Carabanchel,AD Alcorcon B,2,3,,,
+63139641,2025-11-16 10:30,SAD Villaverde San Andres,Cdb Siello FC,1,3,,,
+63139627,2025-11-16 10:45,CD Mostoles URJC,AD Parla,3,1,,,
+63139633,2025-11-16 11:00,Las Rozas CF,CD Leganes B,2,1,,,
+63139639,2025-11-16 11:00,AD Union Adarve,CF Pozuelo de Alarcon,1,1,,,
+63757127,2025-11-16 11:00,CDF Tres Cantos,Mexico FC,3,1,,,
+63139629,2025-11-16 15:00,Sad Racing Ciudad de Madrid,CF Trival Valderas Alcoron,0,3,,,
+63139635,2025-11-16 18:00,UD Sanse,AD Torrejon CF,2,1,,,
+63139645,2025-11-22 15:00,AD Alcorcon B,CDF Tres Cantos,2,1,,,
+63139941,2025-11-22 15:00,Mexico FC,CD Galapagar,2,0,,,
+63139643,2025-11-23 10:30,AD Torrejon CF,CD Mostoles URJC,0,1,,,
+63139653,2025-11-23 10:30,AD Parla,RCD Carabanchel,3,1,,,
+63139659,2025-11-23 10:30,CF Trival Valderas Alcoron,UD Sanse,1,1,,,
+64011039,2025-11-23 10:30,Atletico Madrid C,SAD Villaverde San Andres,5,1,,,
+63139649,2025-11-23 11:00,CD Leganes B,Sad Racing Ciudad de Madrid,1,1,,,
+63139655,2025-11-23 11:00,CF Pozuelo de Alarcon,Las Rozas CF,1,1,,,
+63139657,2025-11-23 17:00,Cdb Siello FC,AD Union Adarve,2,1,,,
+63139663,2025-12-06 10:30,RCD Carabanchel,AD Torrejon CF,0,1,,,
+63139669,2025-12-06 10:30,CD Galapagar,SAD Villaverde San Andres,0,0,,,
+63139815,2025-12-06 16:00,Mexico FC,AD Alcorcon B,2,0,,,
+63139667,2025-12-06 19:30,Sad Racing Ciudad de Madrid,CF Pozuelo de Alarcon,0,1,,,
+63139665,2025-12-07 10:45,CD Mostoles URJC,CF Trival Valderas Alcoron,3,1,,,
+63139671,2025-12-07 11:00,Las Rozas CF,Cdb Siello FC,1,0,,,
+63139675,2025-12-07 11:00,CDF Tres Cantos,AD Parla,3,1,,,
+64011041,2025-12-07 11:00,AD Union Adarve,Atletico Madrid C,3,2,,,
+63139673,2025-12-07 17:00,UD Sanse,CD Leganes B,1,0,,,
+63139681,2025-12-13 15:00,AD Alcorcon B,CD Galapagar,2,1,2.150,3.200,3.000
+63139679,2025-12-14 10:30,AD Torrejon CF,CDF Tres Cantos,1,0,1.850,3.600,3.400
+63139693,2025-12-14 10:30,CF Trival Valderas Alcoron,RCD Carabanchel,1,0,2.200,3.200,2.900
+63139695,2025-12-14 10:30,SAD Villaverde San Andres,AD Union Adarve,0,0,2.150,3.000,3.100
+63139837,2025-12-14 10:30,AD Parla,Mexico FC,1,3,2.100,3.100,3.200
+63139689,2025-12-14 11:00,CF Pozuelo de Alarcon,UD Sanse,2,1,,,
+63139683,2025-12-14 14:30,CD Leganes B,CD Mostoles URJC,2,0,1.909,3.300,3.500
+63139529,2025-12-14 16:00,Atletico Madrid C,Las Rozas CF,1,1,1.950,3.600,3.200
+63139691,2025-12-14 17:00,Cdb Siello FC,Sad Racing Ciudad de Madrid,1,1,,,
+63139697,2025-12-20 15:00,AD Alcorcon B,AD Parla,4,1,2.000,3.300,3.250
+66168036,2025-12-20 15:30,CD Galapagar,AD Union Adarve,1,0,2.625,3.200,2.375
+63139849,2025-12-20 16:00,Mexico FC,AD Torrejon CF,1,2,2.200,3.250,2.800
+63139701,2025-12-21 10:30,RCD Carabanchel,CD Leganes B,1,2,3.500,3.300,1.900
+63139703,2025-12-21 10:45,CD Mostoles URJC,CF Pozuelo de Alarcon,1,1,1.500,3.800,5.500
+63139709,2025-12-21 11:00,Las Rozas CF,SAD Villaverde San Andres,0,3,1.850,3.400,3.600
+63139713,2025-12-21 11:00,CDF Tres Cantos,CF Trival Valderas Alcoron,2,0,2.500,3.400,2.400
+63139711,2025-12-21 15:30,UD Sanse,Cdb Siello FC,2,0,2.100,3.100,3.200
+63139545,2025-12-21 16:00,Sad Racing Ciudad de Madrid,Atletico Madrid C,2,6,,,
+63139719,2026-01-03 15:00,CD Leganes B,CDF Tres Cantos,0,0,1.270,5.000,8.000
+63139715,2026-01-04 10:30,AD Torrejon CF,AD Alcorcon B,1,0,2.400,3.200,2.625
+63139731,2026-01-04 10:30,SAD Villaverde San Andres,Sad Racing Ciudad de Madrid,1,2,,,
+63139877,2026-01-04 10:30,CF Trival Valderas Alcoron,Mexico FC,2,3,2.200,3.100,3.000
+63139723,2026-01-04 11:00,CF Pozuelo de Alarcon,RCD Carabanchel,1,1,2.050,3.100,3.300
+63139729,2026-01-04 11:00,AD Union Adarve,Las Rozas CF,1,0,2.600,3.100,2.500
+63139725,2026-01-04 15:00,Cdb Siello FC,CD Mostoles URJC,1,2,4.333,3.300,1.727
+63139717,2026-01-04 15:30,CD Galapagar,AD Parla,2,1,2.100,3.000,3.300
+66893084,2026-01-04 16:00,Atletico Madrid C,UD Sanse,5,1,1.700,3.600,4.200
+63139733,2026-01-10 15:00,AD Alcorcon B,CF Trival Valderas Alcoron,0,1,2.000,3.200,3.400
+63139887,2026-01-10 16:00,Mexico FC,CD Leganes B,0,1,4.750,3.300,1.666
+63139737,2026-01-11 10:30,RCD Carabanchel,Cdb Siello FC,0,0,2.000,3.200,3.300
+63139745,2026-01-11 10:30,AD Parla,AD Torrejon CF,1,3,2.800,3.200,2.250
+67546186,2026-01-11 10:45,CD Mostoles URJC,Atletico Madrid C,2,3,,,
+63139743,2026-01-11 11:00,Las Rozas CF,CD Galapagar,1,1,1.666,3.600,4.100
+63139749,2026-01-11 11:00,CDF Tres Cantos,CF Pozuelo de Alarcon,0,2,2.250,3.200,2.800
+63139741,2026-01-11 17:00,Sad Racing Ciudad de Madrid,AD Union Adarve,3,1,,,
+63139747,2026-01-11 17:00,UD Sanse,SAD Villaverde San Andres,1,1,2.450,3.100,2.550
+63139599,2026-01-17 16:00,Mexico FC,CF Pozuelo de Alarcon,0,3,1.950,3.250,3.400
+63139751,2026-01-18 10:30,AD Torrejon CF,CD Galapagar,4,0,1.950,3.200,3.400
+63139765,2026-01-18 10:30,AD Parla,CF Trival Valderas Alcoron,2,1,2.200,3.200,2.800
+63139915,2026-01-18 10:30,RCD Carabanchel,Atletico Madrid C,1,1,3.100,3.300,2.050
+63139759,2026-01-18 10:45,CD Mostoles URJC,SAD Villaverde San Andres,4,1,1.650,3.600,4.333
+63139753,2026-01-18 11:00,AD Alcorcon B,CD Leganes B,0,1,,,
+63139769,2026-01-18 11:00,CDF Tres Cantos,Cdb Siello FC,0,1,2.625,3.200,2.350
+63139763,2026-01-18 16:15,Sad Racing Ciudad de Madrid,Las Rozas CF,0,3,,,
+63139767,2026-01-18 17:00,UD Sanse,AD Union Adarve,1,2,2.450,3.300,2.450
+63139783,2026-01-25 10:30,CF Trival Valderas Alcoron,AD Torrejon CF,2,1,2.375,3.200,2.600
+63139787,2026-01-25 10:30,SAD Villaverde San Andres,RCD Carabanchel,0,0,2.150,3.200,3.000
+63139773,2026-01-25 11:00,Las Rozas CF,UD Sanse,1,0,1.727,3.400,4.200
+63139779,2026-01-25 11:00,CF Pozuelo de Alarcon,AD Alcorcon B,1,0,2.100,3.200,3.100
+63139785,2026-01-25 11:00,AD Union Adarve,CD Mostoles URJC,0,2,2.750,3.400,2.200
+63139775,2026-01-25 15:00,CD Leganes B,AD Parla,2,0,1.400,3.900,7.000
+63139771,2026-01-25 15:30,CD Galapagar,Sad Racing Ciudad de Madrid,3,0,,,
+63139937,2026-01-25 16:00,Atletico Madrid C,CDF Tres Cantos,1,0,1.400,4.333,6.250
+63139619,2026-01-25 17:00,Cdb Siello FC,Mexico FC,1,2,2.200,3.250,2.800
+63139791,2026-01-31 15:00,AD Alcorcon B,Cdb Siello FC,1,0,2.150,3.100,3.100
+63738281,2026-01-31 16:00,Mexico FC,Atletico Madrid C,2,1,3.400,3.400,1.909
+63139789,2026-02-01 10:15,AD Torrejon CF,CD Leganes B,2,5,3.400,3.250,1.950
+63139795,2026-02-01 10:30,RCD Carabanchel,AD Union Adarve,0,1,2.400,3.100,2.700
+63139799,2026-02-01 10:30,AD Parla,CF Pozuelo de Alarcon,0,0,3.000,2.900,2.300
+63139805,2026-02-01 10:30,CF Trival Valderas Alcoron,CD Galapagar,2,2,2.000,3.250,3.300
+63139797,2026-02-01 10:45,CD Mostoles URJC,Las Rozas CF,3,1,1.727,3.600,3.800
+63139803,2026-02-01 11:00,CDF Tres Cantos,SAD Villaverde San Andres,1,2,3.100,3.250,2.100
+63139801,2026-02-01 17:00,UD Sanse,Sad Racing Ciudad de Madrid,2,0,,,
+63139967,2026-02-08 10:30,SAD Villaverde San Andres,Mexico FC,1,1,2.200,3.300,2.800
+63139661,2026-02-08 11:00,Atletico Madrid C,AD Alcorcon B,1,1,1.500,3.750,5.250
+63139811,2026-02-08 11:00,Las Rozas CF,RCD Carabanchel,0,0,1.833,3.200,4.000
+63139813,2026-02-08 11:00,CD Leganes B,CF Trival Valderas Alcoron,0,1,1.450,4.000,5.750
+63139817,2026-02-08 11:00,CF Pozuelo de Alarcon,AD Torrejon CF,0,1,2.300,3.000,2.900
+63139819,2026-02-08 11:00,Cdb Siello FC,AD Parla,1,0,2.250,3.100,2.900
+63139821,2026-02-08 11:00,AD Union Adarve,CDF Tres Cantos,1,2,1.480,3.750,5.750
+63139809,2026-02-08 15:30,CD Galapagar,UD Sanse,1,1,2.350,2.875,3.000
+63139807,2026-02-08 16:30,Sad Racing Ciudad de Madrid,CD Mostoles URJC,1,1,,,
+63139827,2026-02-14 15:00,AD Alcorcon B,SAD Villaverde San Andres,0,0,2.300,3.200,2.875
+63139975,2026-02-14 16:00,Mexico FC,AD Union Adarve,1,0,2.450,3.300,2.400
+63139825,2026-02-15 10:30,AD Torrejon CF,Cdb Siello FC,3,1,1.800,3.000,4.333
+63139831,2026-02-15 10:30,RCD Carabanchel,Sad Racing Ciudad de Madrid,1,0,,,
+63139841,2026-02-15 10:30,CF Trival Valderas Alcoron,CF Pozuelo de Alarcon,1,0,2.300,3.100,2.800
+63139833,2026-02-15 10:45,CD Mostoles URJC,UD Sanse,1,1,1.480,3.800,5.750
+63139687,2026-02-15 11:00,AD Parla,Atletico Madrid C,1,4,5.000,3.600,1.571
+63139839,2026-02-15 11:00,CDF Tres Cantos,Las Rozas CF,0,2,3.500,3.300,1.909
+63139835,2026-02-15 15:00,CD Leganes B,CD Galapagar,0,1,1.420,4.000,6.500
+63139699,2026-02-21 18:00,Atletico Madrid C,AD Torrejon CF,2,2,1.727,3.500,4.000
+63139859,2026-02-22 10:30,SAD Villaverde San Andres,AD Parla,0,1,1.833,3.250,3.800
+63139851,2026-02-22 11:00,CF Pozuelo de Alarcon,CD Leganes B,2,1,3.800,3.400,1.800
+63139855,2026-02-22 11:00,Cdb Siello FC,CF Trival Valderas Alcoron,1,2,2.100,3.250,3.000
+63139857,2026-02-22 11:00,AD Union Adarve,AD Alcorcon B,2,1,1.950,3.000,3.600
+63139997,2026-02-22 11:00,Las Rozas CF,Mexico FC,1,1,1.750,3.600,3.750
+63139853,2026-02-22 11:30,UD Sanse,RCD Carabanchel,1,0,2.250,2.900,3.000
+63139843,2026-02-22 15:00,Sad Racing Ciudad de Madrid,CDF Tres Cantos,4,2,,,
+63139845,2026-02-22 15:30,CD Galapagar,CD Mostoles URJC,1,1,3.700,3.500,1.800
+63139869,2026-02-28 15:00,CD Leganes B,Cdb Siello FC,1,1,1.250,4.750,10.000
+63140009,2026-02-28 16:00,Mexico FC,Sad Racing Ciudad de Madrid,0,1,,,
+63139863,2026-03-01 10:00,AD Alcorcon B,Las Rozas CF,2,2,2.875,3.200,2.200
+63139727,2026-03-01 10:30,CF Trival Valderas Alcoron,Atletico Madrid C,2,2,2.800,3.500,2.150
+63139861,2026-03-01 10:30,AD Torrejon CF,SAD Villaverde San Andres,2,2,1.950,3.200,3.400
+63139867,2026-03-01 10:30,RCD Carabanchel,CD Mostoles URJC,1,0,3.400,3.250,1.950
+63139871,2026-03-01 10:30,AD Parla,AD Union Adarve,0,1,2.875,2.900,2.500
+63139873,2026-03-01 11:00,CF Pozuelo de Alarcon,CD Galapagar,0,0,2.150,3.100,3.000
+63139875,2026-03-01 11:00,CDF Tres Cantos,UD Sanse,0,6,3.200,3.000,2.150
+63139895,2026-03-08 10:30,SAD Villaverde San Andres,CF Trival Valderas Alcoron,0,2,2.050,3.200,3.200
+63139879,2026-03-08 10:45,CD Mostoles URJC,CDF Tres Cantos,3,1,1.250,5.250,8.000
+63139885,2026-03-08 11:00,Las Rozas CF,AD Parla,3,0,1.650,3.500,4.500
+63139893,2026-03-08 11:00,AD Union Adarve,AD Torrejon CF,2,2,2.100,3.200,3.100
+63140037,2026-03-08 12:00,UD Sanse,Mexico FC,2,1,,,
+63139883,2026-03-08 15:30,CD Galapagar,RCD Carabanchel,2,1,3.000,2.900,2.300
+63139891,2026-03-08 16:00,Cdb Siello FC,CF Pozuelo de Alarcon,1,0,3.100,3.000,2.200
+63139735,2026-03-08 18:00,Atletico Madrid C,CD Leganes B,3,2,2.250,3.200,2.800
+63139881,2026-03-08 19:00,Sad Racing Ciudad de Madrid,AD Alcorcon B,1,2,,,
+63139899,2026-03-14 15:00,AD Alcorcon B,UD Sanse,0,0,3.100,3.100,2.100
+63140047,2026-03-14 16:00,Mexico FC,CD Mostoles URJC,1,0,4.200,3.600,1.666
+63139897,2026-03-15 10:30,AD Torrejon CF,Las Rozas CF,1,1,2.400,3.300,2.500
+63139905,2026-03-15 10:30,AD Parla,Sad Racing Ciudad de Madrid,0,2,,,
+63139913,2026-03-15 10:30,CF Trival Valderas Alcoron,AD Union Adarve,1,0,2.400,3.300,2.500
+63139911,2026-03-15 11:00,CDF Tres Cantos,RCD Carabanchel,1,0,3.800,3.300,1.800
+63139903,2026-03-15 15:00,CD Leganes B,SAD Villaverde San Andres,0,0,1.533,3.700,5.000
+63139909,2026-03-15 17:00,Cdb Siello FC,CD Galapagar,1,1,2.400,3.100,2.600
+63139927,2026-03-22 10:00,UD Sanse,AD Parla,2,3,,,
+63139757,2026-03-22 10:30,RCD Carabanchel,Mexico FC,0,0,2.050,3.100,3.300
+63139931,2026-03-22 10:30,SAD Villaverde San Andres,CF Pozuelo de Alarcon,2,0,2.150,3.100,3.100
+63139917,2026-03-22 10:45,CD Mostoles URJC,AD Alcorcon B,0,1,1.500,3.750,5.500
+63139923,2026-03-22 11:00,Las Rozas CF,CF Trival Valderas Alcoron,2,3,2.000,3.100,3.400
+63139929,2026-03-22 11:00,AD Union Adarve,CD Leganes B,4,3,3.100,3.300,2.050
+70077074,2026-03-22 11:00,Atletico Madrid C,Cdb Siello FC,0,0,,,
+63139921,2026-03-22 15:30,CD Galapagar,CDF Tres Cantos,0,1,1.571,3.700,4.750
+63139919,2026-03-22 17:00,Sad Racing Ciudad de Madrid,AD Torrejon CF,1,2,,,
+63139935,2026-03-28 15:00,AD Alcorcon B,RCD Carabanchel,1,1,3.200,3.100,2.100
+63139777,2026-03-28 16:00,Mexico FC,CDF Tres Cantos,0,5,1.700,3.000,5.000
+63139945,2026-03-28 16:30,CF Pozuelo de Alarcon,AD Union Adarve,2,2,2.250,3.250,2.875
+63139647,2026-03-28 17:00,Atletico Madrid C,CD Galapagar,2,3,1.550,3.750,5.000
+63139947,2026-03-28 19:00,Cdb Siello FC,SAD Villaverde San Andres,0,1,2.900,3.000,2.300
+63139933,2026-03-29 09:30,AD Torrejon CF,UD Sanse,1,1,,,
+63139943,2026-03-29 09:30,AD Parla,CD Mostoles URJC,1,1,3.900,3.400,1.800
+63139949,2026-03-29 09:30,CF Trival Valderas Alcoron,Sad Racing Ciudad de Madrid,4,2,,,
+63139939,2026-03-29 11:30,CD Leganes B,Las Rozas CF,1,0,1.950,3.500,3.300
+63139823,2026-04-01 15:00,SAD Villaverde San Andres,Atletico Madrid C,1,1,2.750,3.100,2.400
+63139959,2026-04-01 18:00,Las Rozas CF,CF Pozuelo de Alarcon,1,0,2.050,3.250,3.200
+63139963,2026-04-02 10:00,CDF Tres Cantos,AD Alcorcon B,1,3,2.625,3.100,2.450
+63139965,2026-04-02 10:00,AD Union Adarve,Cdb Siello FC,1,0,1.700,3.400,4.333
+63139631,2026-04-02 15:00,CD Galapagar,Mexico FC,1,3,2.200,3.100,3.000
+63139955,2026-04-03 09:30,Sad Racing Ciudad de Madrid,CD Leganes B,0,6,,,
+63139951,2026-04-05 09:30,RCD Carabanchel,AD Parla,3,1,1.950,3.100,3.600
+63139961,2026-04-05 14:30,UD Sanse,CF Trival Valderas Alcoron,0,0,,,
+63139953,2026-04-05 16:00,CD Mostoles URJC,AD Torrejon CF,2,3,,,
+64542076,2026-04-11 14:00,AD Alcorcon B,Mexico FC,1,1,,,
+63139829,2026-04-11 16:00,Atletico Madrid C,AD Union Adarve,3,0,1.800,3.500,3.800
+63139969,2026-04-12 09:30,AD Torrejon CF,RCD Carabanchel,1,1,2.000,3.200,3.400
+63139977,2026-04-12 09:30,AD Parla,CDF Tres Cantos,3,4,2.000,3.100,3.400
+63139983,2026-04-12 09:30,CF Trival Valderas Alcoron,CD Mostoles URJC,1,0,2.100,3.400,2.900
+63139985,2026-04-12 09:30,SAD Villaverde San Andres,CD Galapagar,1,1,,,
+63139973,2026-04-12 10:00,CD Leganes B,UD Sanse,2,3,,,
+63139979,2026-04-12 10:00,CF Pozuelo de Alarcon,Sad Racing Ciudad de Madrid,4,1,,,
+63139981,2026-04-12 16:00,Cdb Siello FC,Las Rozas CF,2,1,4.000,3.400,1.750
+64542438,2026-04-18 15:00,Mexico FC,AD Parla,2,2,,,
+63139989,2026-04-19 09:30,RCD Carabanchel,CF Trival Valderas Alcoron,0,1,2.350,3.100,2.750
+63139991,2026-04-19 09:45,CD Mostoles URJC,CD Leganes B,1,1,2.500,3.750,2.250
+63139847,2026-04-19 10:00,Las Rozas CF,Atletico Madrid C,3,5,2.200,3.500,2.700
+63140001,2026-04-19 10:00,CDF Tres Cantos,AD Torrejon CF,2,3,3.400,3.600,1.833
+63140003,2026-04-19 10:00,AD Union Adarve,SAD Villaverde San Andres,3,0,,,
+63139995,2026-04-19 14:30,CD Galapagar,AD Alcorcon B,0,2,,,
+63139993,2026-04-19 16:00,Sad Racing Ciudad de Madrid,Cdb Siello FC,0,1,,,
+63139999,2026-04-19 16:00,UD Sanse,CF Pozuelo de Alarcon,1,1,,,
+63140013,2026-04-25 14:00,CF Pozuelo de Alarcon,CD Mostoles URJC,2,0,,,
+63140007,2026-04-25 15:00,CD Leganes B,RCD Carabanchel,0,1,1.550,3.700,5.000
+63139865,2026-04-25 16:30,Atletico Madrid C,Sad Racing Ciudad de Madrid,5,1,,,
+63140011,2026-04-26 09:30,AD Parla,AD Alcorcon B,0,4,,,
+63140017,2026-04-26 09:30,CF Trival Valderas Alcoron,CDF Tres Cantos,3,1,1.533,3.750,5.000
+63140021,2026-04-26 09:30,SAD Villaverde San Andres,Las Rozas CF,0,5,,,
+64541994,2026-04-26 09:30,AD Torrejon CF,Mexico FC,3,3,,,
+63140019,2026-04-26 10:00,AD Union Adarve,CD Galapagar,3,1,,,
+63140015,2026-04-26 16:00,Cdb Siello FC,UD Sanse,2,1,,,
+63139551,2026-05-03 09:30,Mexico FC,CF Trival Valderas Alcoron,0,2,,,
+63139889,2026-05-03 09:30,UD Sanse,Atletico Madrid C,1,0,,,
+63140023,2026-05-03 09:30,AD Alcorcon B,AD Torrejon CF,0,1,,,
+63140027,2026-05-03 09:30,RCD Carabanchel,CF Pozuelo de Alarcon,3,2,,,
+63140029,2026-05-03 09:30,CD Mostoles URJC,Cdb Siello FC,3,5,,,
+63140031,2026-05-03 09:30,Sad Racing Ciudad de Madrid,SAD Villaverde San Andres,0,4,,,
+63140033,2026-05-03 09:30,Las Rozas CF,AD Union Adarve,0,2,,,
+63140035,2026-05-03 09:30,AD Parla,CD Galapagar,0,5,,,
+63140039,2026-05-03 09:30,CDF Tres Cantos,CD Leganes B,2,3,,,
+63139569,2026-05-10 09:30,CD Leganes B,Mexico FC,1,2,,,
+63139901,2026-05-10 09:30,Atletico Madrid C,CD Mostoles URJC,1,1,,,
+63140041,2026-05-10 09:30,AD Torrejon CF,AD Parla,1,0,,,
+63140043,2026-05-10 09:30,CD Galapagar,Las Rozas CF,3,1,,,
+63140049,2026-05-10 09:30,CF Pozuelo de Alarcon,CDF Tres Cantos,3,1,,,
+63140051,2026-05-10 09:30,Cdb Siello FC,RCD Carabanchel,3,0,,,
+63140053,2026-05-10 09:30,CF Trival Valderas Alcoron,AD Alcorcon B,2,2,,,
+63140055,2026-05-10 09:30,AD Union Adarve,Sad Racing Ciudad de Madrid,5,0,,,
+63140057,2026-05-10 09:30,SAD Villaverde San Andres,UD Sanse,0,4,,,
+71482706,2026-05-17 10:00,Las Rozas CF,AD Torrejon CF,1,0,2.450,3.100,2.550
+71482712,2026-05-17 14:00,CD Leganes B,CF Trival Valderas Alcoron,0,1,2.450,2.700,2.700
+71482716,2026-05-24 09:30,CF Trival Valderas Alcoron,CD Leganes B,1,1,,,
+71482718,2026-05-24 09:30,AD Torrejon CF,Las Rozas CF,0,3,,,
+71730320,2026-05-31 10:00,Las Rozas CF,CF Trival Valderas Alcoron,1,1,2.375,,2.750
+71730322,2026-06-07 09:30,CF Trival Valderas Alcoron,Las Rozas CF,3,1,,,
+73581166,2026-09-05 17:00,Mexico FC,CF Fuenlabrada,0,0,3.600,3.200,1.909
+73581180,2026-09-05 17:00,AD Cala Pozuelo,Las Rozas CF,1,3,3.500,3.200,1.950
+73581170,2026-09-06 09:00,UD Sanse,AD Union Adarve,0,2,,,
+73581172,2026-09-06 09:30,CF Trival Valderas Alcoron,Siello Nuevo Boadilla FC,3,1,1.615,3.400,4.750
+73581174,2026-09-06 09:30,Rayo Ciudad Alcobendas,Cp Parla Escuela,5,2,2.150,3.200,3.000
+73581182,2026-09-06 09:45,CD Mostoles URJC,Rayo Vallecano B,0,0,1.500,3.600,5.750
+73581176,2026-09-06 14:30,CD Galapagar,CF Pozuelo de Alarcon,1,1,2.450,3.100,2.550
+73581178,2026-09-06 16:45,CD Leganes B,Real Aranjuez CF,2,0,1.600,3.250,5.500
+73581168,2026-09-06 17:00,CD Colonia Moscardo,AD Torrejon CF,1,0,3.500,3.100,2.000
+73581194,2026-09-12 16:00,CF Pozuelo de Alarcon,Rayo Ciudad Alcobendas,1,1,,,
+73581196,2026-09-12 16:00,Real Aranjuez CF,CD Galapagar,2,5,,,
+73581184,2026-09-13 09:30,CF Fuenlabrada,CD Mostoles URJC,1,3,2.100,3.100,3.100
+73581186,2026-09-13 09:30,AD Torrejon CF,Mexico FC,1,0,1.833,3.300,3.800
+73581190,2026-09-13 09:30,Siello Nuevo Boadilla FC,UD Sanse,0,2,,,
+73581192,2026-09-13 09:30,Cp Parla Escuela,CF Trival Valderas Alcoron,0,0,3.900,3.100,1.850
+73581188,2026-09-13 10:00,AD Union Adarve,CD Colonia Moscardo,1,1,2.300,3.100,2.800
+73581198,2026-09-13 10:00,Las Rozas CF,CD Leganes B,3,2,2.500,3.100,2.600
+73581200,2026-09-13 10:30,Rayo Vallecano B,AD Cala Pozuelo,2,3,1.727,3.400,4.100
+73581216,2026-09-19 15:00,CD Leganes B,Rayo Vallecano B,4,1,1.909,3.400,3.400
+73581202,2026-09-19 17:00,CF Fuenlabrada,AD Torrejon CF,3,1,2.050,3.200,3.100
+73581204,2026-09-19 17:00,Mexico FC,AD Union Adarve,1,1,2.800,3.100,2.250
+73581208,2026-09-20 09:00,UD Sanse,Cp Parla Escuela,0,3,,,
+73581210,2026-09-20 09:30,CF Trival Valderas Alcoron,CF Pozuelo de Alarcon,1,1,1.727,3.400,4.200
+73581218,2026-09-20 09:45,CD Mostoles URJC,AD Cala Pozuelo,1,0,,,
+73581206,2026-09-20 10:00,CD Colonia Moscardo,Siello Nuevo Boadilla FC,5,1,1.400,3.900,7.000
+73581212,2026-09-20 14:00,Rayo Ciudad Alcobendas,Real Aranjuez CF,1,1,,,
+73581214,2026-09-20 14:30,CD Galapagar,Las Rozas CF,1,1,4.200,3.600,1.666
+73581230,2026-09-26 14:00,Real Aranjuez CF,CF Trival Valderas Alcoron,1,2,3.400,3.250,1.950
+73581236,2026-09-26 17:00,AD Cala Pozuelo,CD Leganes B,1,0,3.500,3.500,1.833
+73581234,2026-09-27 09:00,Rayo Vallecano B,CD Galapagar,1,2,1.571,3.800,4.750
+73581220,2026-09-27 09:30,AD Torrejon CF,CD Mostoles URJC,0,1,1.909,3.500,3.300
+73581224,2026-09-27 09:30,Siello Nuevo Boadilla FC,Mexico FC,3,2,3.750,3.200,1.900
+73581226,2026-09-27 09:30,Cp Parla Escuela,CD Colonia Moscardo,2,2,3.000,3.300,2.100
+73581222,2026-09-27 10:00,AD Union Adarve,CF Fuenlabrada,2,2,2.875,3.200,2.200
+73581228,2026-09-27 10:00,CF Pozuelo de Alarcon,UD Sanse,3,2,,,
+73581252,2026-10-03 15:00,Mexico FC,Cp Parla Escuela,1,0,2.050,3.200,3.200
+73581240,2026-10-04 09:30,CF Trival Valderas Alcoron,Las Rozas CF,2,1,2.875,3.200,2.150
+73581242,2026-10-04 09:30,Rayo Ciudad Alcobendas,Rayo Vallecano B,4,2,1.909,3.600,3.200
+73581248,2026-10-04 09:30,AD Torrejon CF,AD Union Adarve,4,0,2.100,3.200,3.000
+73581246,2026-10-04 09:45,CD Mostoles URJC,CD Leganes B,1,1,2.100,3.250,3.000
+73581250,2026-10-04 10:00,CF Fuenlabrada,Siello Nuevo Boadilla FC,1,0,1.380,4.000,7.000
+73581254,2026-10-04 10:00,CD Colonia Moscardo,CF Pozuelo de Alarcon,5,1,1.800,3.300,3.750
+73581244,2026-10-04 14:30,CD Galapagar,AD Cala Pozuelo,1,3,2.250,3.100,2.900
+73581238,2026-10-04 16:00,UD Sanse,Real Aranjuez CF,3,5,,,
+75182356,2026-10-07 18:15,Las Rozas CF,Rayo Ciudad Alcobendas,3,0,1.900,3.200,3.600
+73581264,2026-10-10 14:30,Real Aranjuez CF,CD Colonia Moscardo,1,1,3.600,3.500,1.833
+73581270,2026-10-10 17:30,AD Cala Pozuelo,Rayo Ciudad Alcobendas,2,1,2.800,3.200,2.200
+73581258,2026-10-11 09:30,Siello Nuevo Boadilla FC,AD Torrejon CF,1,1,4.500,3.500,1.650
+73581260,2026-10-11 09:30,Cp Parla Escuela,CF Fuenlabrada,2,2,3.400,3.100,2.000
+73581268,2026-10-11 09:30,Rayo Vallecano B,CF Trival Valderas Alcoron,1,0,3.000,3.250,2.150
+73581256,2026-10-11 10:00,AD Union Adarve,CD Mostoles URJC,2,1,2.700,3.250,2.350
+73581262,2026-10-11 10:00,CF Pozuelo de Alarcon,Mexico FC,4,3,2.100,3.200,3.100
+73581266,2026-10-11 10:00,Las Rozas CF,UD Sanse,4,2,,,
+73581272,2026-10-11 10:00,CD Leganes B,CD Galapagar,2,3,1.700,3.700,3.900
+73581276,2026-10-17 15:00,CF Fuenlabrada,CF Pozuelo de Alarcon,0,1,1.666,3.500,4.333
+73581278,2026-10-17 15:00,Mexico FC,Real Aranjuez CF,2,2,1.750,3.400,3.800
+73581274,2026-10-18 09:30,AD Torrejon CF,Cp Parla Escuela,4,0,1.800,3.300,3.750
+73581284,2026-10-18 09:30,CF Trival Valderas Alcoron,AD Cala Pozuelo,2,2,1.833,3.300,3.600
+73581286,2026-10-18 09:30,Rayo Ciudad Alcobendas,CD Leganes B,1,2,2.375,3.400,2.500
+73581288,2026-10-18 09:45,CD Mostoles URJC,CD Galapagar,3,0,1.750,3.500,3.900
+73581280,2026-10-18 10:00,CD Colonia Moscardo,Las Rozas CF,1,1,2.100,3.250,3.200
+73581290,2026-10-18 10:00,AD Union Adarve,Siello Nuevo Boadilla FC,4,0,1.400,4.000,6.500
+73581282,2026-10-18 16:00,UD Sanse,Rayo Vallecano B,4,3,2.400,3.500,2.400
+73581298,2026-10-24 14:30,Real Aranjuez CF,CF Fuenlabrada,0,0,3.900,3.400,1.800
+73581300,2026-10-24 16:00,Las Rozas CF,Mexico FC,4,3,1.700,3.750,3.900
+73581304,2026-10-24 17:00,AD Cala Pozuelo,UD Sanse,1,1,,,
+73581292,2026-10-25 10:30,Siello Nuevo Boadilla FC,CD Mostoles URJC,1,6,5.000,3.900,1.533
+73581294,2026-10-25 10:30,Cp Parla Escuela,AD Union Adarve,1,1,3.000,3.200,2.150
+73581308,2026-10-25 10:30,CD Galapagar,Rayo Ciudad Alcobendas,4,1,1.800,3.700,3.500
+73581302,2026-10-25 10:45,Rayo Vallecano B,CD Colonia Moscardo,1,1,2.900,3.600,2.050
+73581296,2026-10-25 11:00,CF Pozuelo de Alarcon,AD Torrejon CF,1,0,2.375,3.250,2.600
+73581306,2026-10-25 11:00,CD Leganes B,CF Trival Valderas Alcoron,2,2,2.350,3.300,2.625
+73581312,2026-10-31 15:00,AD Union Adarve,CF Pozuelo de Alarcon,3,1,1.900,3.300,3.600
+73581318,2026-10-31 16:00,Mexico FC,Rayo Vallecano B,1,1,2.300,3.400,2.600
+73581320,2026-10-31 17:00,CD Colonia Moscardo,AD Cala Pozuelo,1,0,1.750,3.600,3.800
+73581310,2026-11-01 10:30,Siello Nuevo Boadilla FC,Cp Parla Escuela,1,4,3.300,3.250,1.950
+73581314,2026-11-01 10:30,AD Torrejon CF,Real Aranjuez CF,4,1,1.650,3.600,4.333
+73581324,2026-11-01 10:30,CF Trival Valderas Alcoron,CD Galapagar,2,2,1.800,3.500,3.750
+73581326,2026-11-01 10:45,CD Mostoles URJC,Rayo Ciudad Alcobendas,5,1,1.400,4.500,6.000
+73581316,2026-11-01 11:00,CF Fuenlabrada,Las Rozas CF,3,0,2.300,3.250,2.625
+73581322,2026-11-01 19:00,UD Sanse,CD Leganes B,0,4,3.250,3.500,1.900
+73581336,2026-11-07 15:00,Rayo Vallecano B,CF Fuenlabrada,2,0,3.100,3.200,2.100
+73581332,2026-11-07 15:30,Real Aranjuez CF,AD Union Adarve,2,1,3.250,3.300,2.000
+73581338,2026-11-07 17:00,AD Cala Pozuelo,Mexico FC,1,0,2.100,3.300,2.900
+73581328,2026-11-08 10:30,Cp Parla Escuela,CD Mostoles URJC,1,3,3.800,3.500,1.800
+73581342,2026-11-08 10:30,CD Galapagar,UD Sanse,2,0,,,
+73581344,2026-11-08 10:30,Rayo Ciudad Alcobendas,CF Trival Valderas Alcoron,1,1,3.250,3.500,1.950
+73581330,2026-11-08 11:00,CF Pozuelo de Alarcon,Siello Nuevo Boadilla FC,0,1,1.250,4.750,9.500
+73581334,2026-11-08 11:00,Las Rozas CF,AD Torrejon CF,2,2,2.150,3.300,2.875
+73581340,2026-11-08 11:00,CD Leganes B,CD Colonia Moscardo,2,2,2.300,3.300,2.600

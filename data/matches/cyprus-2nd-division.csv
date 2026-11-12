@@ -1,0 +1,272 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+62512142,2025-09-12 16:00,Doxa Katokopias,Nea Salamina Famagusta,0,1,,,
+62512150,2025-09-12 16:00,MEAP Pera Choriou Nisou,PAEEK Kyrenia,0,2,,,
+62512146,2025-09-13 16:00,Digenis Akritas Morphou FC,Karmiotissa FC,3,1,,,
+62512148,2025-09-13 16:00,Achyronas Onisilos,Spartakos Kitiou FC,0,2,,,
+62512154,2025-09-13 16:00,Asil Lysis,AEZ Zakakiou,2,0,,,
+62512152,2025-09-14 16:00,Halkanoras,Als Omonia,2,1,,,
+62512166,2025-09-19 15:55,Ethnikos Latsion,Digenis Akritas Morphou FC,0,3,,,
+62512156,2025-09-19 16:00,Apea Akrotiriou,Doxa Katokopias,1,2,,,
+62512164,2025-09-20 13:30,Karmiotissa FC,Achyronas Onisilos,3,0,,,
+62512160,2025-09-20 16:00,PAEEK Kyrenia,Halkanoras,4,0,,,
+62512168,2025-09-20 16:00,Nea Salamina Famagusta,Iraklis Gerolakkou,0,0,,,
+62512170,2025-09-20 16:00,AO Agia Napa,AEZ Zakakiou,1,0,,,
+62512158,2025-09-21 16:00,Als Omonia,Asil Lysis,1,1,,,
+62512162,2025-09-21 16:00,Spartakos Kitiou FC,MEAP Pera Choriou Nisou,1,1,,,
+62512172,2025-09-27 16:00,Doxa Katokopias,AO Agia Napa,1,1,,,
+62512178,2025-09-27 16:00,Achyronas Onisilos,Ethnikos Latsion,0,1,,,
+62512186,2025-09-27 16:00,AEZ Zakakiou,Als Omonia,2,4,,,
+62512184,2025-09-28 15:00,Asil Lysis,PAEEK Kyrenia,1,1,,,
+62512174,2025-09-28 16:00,Iraklis Gerolakkou,Apea Akrotiriou,1,2,,,
+62512202,2025-10-03 16:00,AO Agia Napa,Als Omonia,0,1,,,
+62512192,2025-10-04 13:00,PAEEK Kyrenia,AEZ Zakakiou,2,0,,,
+62512194,2025-10-04 13:00,Spartakos Kitiou FC,Asil Lysis,1,2,,,
+62512196,2025-10-04 13:00,Karmiotissa FC,Halkanoras,2,0,,,
+62512188,2025-10-05 13:00,Apea Akrotiriou,Digenis Akritas Morphou FC,0,4,,,
+62512198,2025-10-05 13:00,Ethnikos Latsion,MEAP Pera Choriou Nisou,1,4,,,
+62512200,2025-10-05 13:00,Nea Salamina Famagusta,Achyronas Onisilos,3,0,,,
+62512204,2025-10-18 12:30,Iraklis Gerolakkou,AO Agia Napa,2,4,,,
+62512208,2025-10-18 12:30,Achyronas Onisilos,Apea Akrotiriou,0,1,,,
+62512212,2025-10-18 12:30,Halkanoras,Ethnikos Latsion,4,2,,,
+62512216,2025-10-19 12:30,AEZ Zakakiou,Spartakos Kitiou FC,2,2,,,
+62512230,2025-10-24 16:00,Ethnikos Latsion,Asil Lysis,1,0,,,
+62512224,2025-10-25 12:00,Iraklis Gerolakkou,Digenis Akritas Morphou FC,1,1,,,
+62512232,2025-10-25 12:00,Nea Salamina Famagusta,Halkanoras,1,0,,,
+62512226,2025-10-26 12:30,Spartakos Kitiou FC,Als Omonia,0,1,,,
+62512228,2025-10-26 12:30,Karmiotissa FC,AEZ Zakakiou,3,0,,,
+62512236,2025-11-01 12:30,Digenis Akritas Morphou FC,AO Agia Napa,1,2,,,
+62512240,2025-11-01 12:30,MEAP Pera Choriou Nisou,Doxa Katokopias,3,2,,,
+62512242,2025-11-01 12:30,Halkanoras,Apea Akrotiriou,1,0,,,
+62512244,2025-11-01 12:30,Asil Lysis,Nea Salamina Famagusta,0,1,,,
+62512246,2025-11-01 12:30,AEZ Zakakiou,Ethnikos Latsion,2,0,,,
+62512250,2025-11-01 12:30,PAEEK Kyrenia,Spartakos Kitiou FC,0,0,,,
+62512248,2025-11-02 14:00,Als Omonia,Karmiotissa FC,3,2,,,
+62512258,2025-11-07 17:00,Digenis Akritas Morphou FC,Achyronas Onisilos,1,1,,,
+62512254,2025-11-08 12:30,Doxa Katokopias,Halkanoras,2,1,,,
+62512260,2025-11-08 12:30,Karmiotissa FC,PAEEK Kyrenia,2,1,,,
+62512264,2025-11-08 12:30,Nea Salamina Famagusta,AEZ Zakakiou,2,1,,,
+62512266,2025-11-08 12:30,AO Agia Napa,Spartakos Kitiou FC,2,0,,,
+62512256,2025-11-09 12:30,Iraklis Gerolakkou,MEAP Pera Choriou Nisou,1,1,,,
+62512262,2025-11-09 14:00,Ethnikos Latsion,Als Omonia,1,1,,,
+65312742,2025-11-12 12:30,Doxa Katokopias,Achyronas Onisilos,2,0,,,
+62512268,2025-11-22 12:30,Achyronas Onisilos,AO Agia Napa,1,2,,,
+62512270,2025-11-22 12:30,MEAP Pera Choriou Nisou,Digenis Akritas Morphou FC,0,3,,,
+62512272,2025-11-22 12:30,Halkanoras,Iraklis Gerolakkou,1,1,,,
+62512274,2025-11-22 12:30,Asil Lysis,Doxa Katokopias,1,2,,,
+62512276,2025-11-22 12:30,AEZ Zakakiou,Apea Akrotiriou,1,1,,,
+62512282,2025-11-22 12:30,Spartakos Kitiou FC,Karmiotissa FC,2,2,,,
+62512278,2025-11-22 15:00,Als Omonia,Nea Salamina Famagusta,2,3,,,
+62512280,2025-11-22 16:00,PAEEK Kyrenia,Ethnikos Latsion,1,1,,,
+62512290,2025-11-28 17:00,Digenis Akritas Morphou FC,Halkanoras,3,2,,,
+62512296,2025-11-28 17:00,Nea Salamina Famagusta,PAEEK Kyrenia,2,1,,,
+62512284,2025-11-29 12:30,Apea Akrotiriou,Als Omonia,0,3,,,
+62512288,2025-11-29 12:30,Iraklis Gerolakkou,Asil Lysis,1,1,,,
+62512292,2025-11-29 12:30,Achyronas Onisilos,MEAP Pera Choriou Nisou,0,1,,,
+62512294,2025-11-29 12:30,Ethnikos Latsion,Spartakos Kitiou FC,1,1,,,
+62512298,2025-11-29 12:30,AO Agia Napa,Karmiotissa FC,0,0,,,
+62512286,2025-11-30 12:30,Doxa Katokopias,AEZ Zakakiou,0,0,,,
+62512304,2025-12-05 17:00,Asil Lysis,Digenis Akritas Morphou FC,1,0,,,
+62512306,2025-12-06 12:30,AEZ Zakakiou,Iraklis Gerolakkou,0,1,,,
+62512310,2025-12-06 12:30,PAEEK Kyrenia,Apea Akrotiriou,3,2,,,
+62512312,2025-12-06 12:30,Spartakos Kitiou FC,Nea Salamina Famagusta,0,2,,,
+62512314,2025-12-07 12:30,Karmiotissa FC,Ethnikos Latsion,3,2,,,
+62512328,2025-12-12 17:00,Nea Salamina Famagusta,Karmiotissa FC,0,0,1.615,3.400,5.000
+62512316,2025-12-13 12:30,Apea Akrotiriou,Spartakos Kitiou FC,0,0,3.200,3.700,1.900
+62512320,2025-12-13 12:30,Iraklis Gerolakkou,Als Omonia,0,0,,,
+62512322,2025-12-13 12:30,Digenis Akritas Morphou FC,AEZ Zakakiou,1,2,,,
+62512324,2025-12-13 12:30,Achyronas Onisilos,Asil Lysis,0,1,4.750,3.500,1.615
+62512326,2025-12-13 12:30,MEAP Pera Choriou Nisou,Halkanoras,1,2,,,
+62512330,2025-12-13 12:30,AO Agia Napa,Ethnikos Latsion,2,0,1.615,3.500,4.750
+62512318,2025-12-14 12:30,Doxa Katokopias,PAEEK Kyrenia,0,2,2.050,3.200,3.200
+62512346,2025-12-19 17:00,Ethnikos Latsion,Nea Salamina Famagusta,0,2,7.500,3.900,1.400
+62512332,2025-12-20 12:30,Halkanoras,AO Agia Napa,1,2,2.375,3.200,2.625
+62512334,2025-12-20 12:30,Asil Lysis,MEAP Pera Choriou Nisou,0,0,,,
+62512336,2025-12-20 12:30,AEZ Zakakiou,Achyronas Onisilos,0,2,1.250,4.750,9.500
+62512340,2025-12-20 12:30,PAEEK Kyrenia,Iraklis Gerolakkou,3,0,1.500,3.500,6.000
+62512342,2025-12-20 12:30,Spartakos Kitiou FC,Doxa Katokopias,0,4,,,
+62512344,2025-12-20 12:30,Karmiotissa FC,Apea Akrotiriou,1,2,1.300,4.500,8.000
+62512338,2025-12-20 15:00,Als Omonia,Digenis Akritas Morphou FC,0,3,,,
+64036273,2026-01-03 12:30,Apea Akrotiriou,Ethnikos Latsion,3,0,2.150,3.250,3.000
+64036283,2026-01-03 12:30,AO Agia Napa,Nea Salamina Famagusta,0,2,7.000,3.600,1.444
+64036285,2026-01-03 12:30,Iraklis Gerolakkou,Spartakos Kitiou FC,1,1,3.700,3.500,1.800
+64036291,2026-01-03 12:30,Halkanoras,Asil Lysis,1,2,2.700,3.250,2.250
+64036403,2026-01-03 12:30,MEAP Pera Choriou Nisou,AEZ Zakakiou,1,0,,,
+64036405,2026-01-03 12:30,Achyronas Onisilos,Als Omonia,0,5,,,
+64036407,2026-01-03 12:30,Digenis Akritas Morphou FC,PAEEK Kyrenia,0,2,,,
+64036289,2026-01-04 12:30,Doxa Katokopias,Karmiotissa FC,0,1,2.750,3.300,2.200
+64036413,2026-01-10 12:30,Nea Salamina Famagusta,Apea Akrotiriou,2,0,1.166,5.750,15.000
+64036417,2026-01-10 12:30,Karmiotissa FC,Iraklis Gerolakkou,2,0,1.200,5.250,12.000
+64036421,2026-01-10 12:30,Als Omonia,MEAP Pera Choriou Nisou,7,0,,,
+64036423,2026-01-10 12:30,AEZ Zakakiou,Halkanoras,1,1,2.050,3.500,3.000
+64036425,2026-01-10 12:30,Asil Lysis,AO Agia Napa,1,1,2.700,2.375,3.200
+64036427,2026-01-10 12:30,Spartakos Kitiou FC,Digenis Akritas Morphou FC,2,0,,,
+64036431,2026-01-10 12:30,PAEEK Kyrenia,Achyronas Onisilos,1,0,1.083,10.000,21.000
+64036419,2026-01-11 12:30,Ethnikos Latsion,Doxa Katokopias,0,2,5.000,3.700,1.533
+67731876,2026-01-16 17:00,Doxa Katokopias,Karmiotissa FC,1,1,2.450,3.200,2.550
+67731878,2026-01-17 12:30,PAEEK Kyrenia,Asil Lysis,3,1,1.600,3.700,4.500
+67732984,2026-01-17 12:30,Apea Akrotiriou,AEZ Zakakiou,2,3,1.833,3.600,3.500
+67732986,2026-01-17 12:30,Halkanoras,Ethnikos Latsion,2,3,1.571,3.600,5.000
+67732988,2026-01-17 12:30,Spartakos Kitiou FC,Iraklis Gerolakkou,1,1,1.380,3.800,7.500
+67731880,2026-01-17 15:00,Als Omonia,AO Agia Napa,2,2,,,
+67731882,2026-01-18 12:30,Nea Salamina Famagusta,MEAP Pera Choriou Nisou,1,0,,,
+67732990,2026-01-18 12:30,Digenis Akritas Morphou FC,Achyronas Onisilos,5,1,,,
+67798910,2026-01-24 12:30,Karmiotissa FC,Als Omonia,1,1,,,
+67798912,2026-01-24 12:30,Asil Lysis,Doxa Katokopias,2,0,4.100,4.000,1.615
+67798914,2026-01-24 12:30,MEAP Pera Choriou Nisou,AO Agia Napa,0,2,,,
+67799014,2026-01-24 12:30,Achyronas Onisilos,Iraklis Gerolakkou,1,1,4.333,3.200,1.800
+67799018,2026-01-24 12:30,AEZ Zakakiou,Halkanoras,2,4,2.625,3.100,2.400
+67799020,2026-01-24 12:30,Ethnikos Latsion,Spartakos Kitiou FC,0,3,2.875,3.300,2.150
+67798916,2026-01-25 12:30,Nea Salamina Famagusta,PAEEK Kyrenia,4,1,1.571,3.500,5.000
+67799016,2026-01-25 12:30,Digenis Akritas Morphou FC,Apea Akrotiriou,1,1,,,
+67798920,2026-01-30 17:00,Doxa Katokopias,Nea Salamina Famagusta,0,2,4.333,3.100,1.800
+67798918,2026-01-31 12:30,PAEEK Kyrenia,MEAP Pera Choriou Nisou,2,1,,,
+67798924,2026-01-31 12:30,AO Agia Napa,Karmiotissa FC,0,2,3.100,3.100,2.100
+67799022,2026-01-31 12:30,Apea Akrotiriou,Achyronas Onisilos,3,1,1.333,4.333,7.500
+67799024,2026-01-31 12:30,Halkanoras,Digenis Akritas Morphou FC,2,2,,,
+67799026,2026-01-31 12:30,Spartakos Kitiou FC,AEZ Zakakiou,4,0,1.666,3.800,3.800
+67798922,2026-01-31 15:00,Als Omonia,Asil Lysis,3,1,,,
+67799028,2026-02-01 12:30,Iraklis Gerolakkou,Ethnikos Latsion,2,1,2.100,3.400,2.900
+67798926,2026-02-07 13:00,Nea Salamina Famagusta,Als Omonia,2,1,,,
+67798928,2026-02-07 13:00,MEAP Pera Choriou Nisou,Karmiotissa FC,1,3,,,
+67798932,2026-02-07 13:00,PAEEK Kyrenia,Doxa Katokopias,1,2,1.909,3.500,3.200
+67799030,2026-02-07 13:00,Digenis Akritas Morphou FC,Spartakos Kitiou FC,1,5,,,
+67799032,2026-02-07 13:00,Achyronas Onisilos,Ethnikos Latsion,1,1,3.400,3.500,1.900
+67799036,2026-02-07 13:00,Apea Akrotiriou,Halkanoras,0,1,2.100,3.500,2.800
+67798930,2026-02-08 13:00,Asil Lysis,AO Agia Napa,2,3,2.100,3.200,3.100
+67799034,2026-02-08 13:00,AEZ Zakakiou,Iraklis Gerolakkou,0,0,2.150,3.250,2.875
+67798934,2026-02-13 17:00,AO Agia Napa,Nea Salamina Famagusta,0,2,6.500,4.000,1.420
+67798936,2026-02-14 13:00,Karmiotissa FC,Asil Lysis,5,0,,,
+67798938,2026-02-14 13:00,Als Omonia,PAEEK Kyrenia,2,0,,,
+67798940,2026-02-14 13:00,Doxa Katokopias,MEAP Pera Choriou Nisou,0,2,,,
+67799038,2026-02-14 13:00,Iraklis Gerolakkou,Digenis Akritas Morphou FC,2,1,,,
+67799040,2026-02-14 13:00,Ethnikos Latsion,AEZ Zakakiou,1,1,2.250,3.500,2.700
+67799042,2026-02-14 13:00,Spartakos Kitiou FC,Apea Akrotiriou,2,0,1.571,4.000,4.333
+67799044,2026-02-14 13:00,Halkanoras,Achyronas Onisilos,3,0,1.222,5.500,9.000
+67798942,2026-02-21 13:00,MEAP Pera Choriou Nisou,Asil Lysis,0,0,,,
+67798944,2026-02-21 13:00,Nea Salamina Famagusta,Karmiotissa FC,1,0,,,
+67798946,2026-02-21 13:00,PAEEK Kyrenia,AO Agia Napa,0,0,1.833,3.400,3.700
+67798948,2026-02-21 13:00,Doxa Katokopias,Als Omonia,1,2,,,
+67799046,2026-02-21 13:00,Achyronas Onisilos,AEZ Zakakiou,0,3,,,
+67799048,2026-02-21 13:00,Digenis Akritas Morphou FC,Ethnikos Latsion,2,0,,,
+67799050,2026-02-21 13:00,Apea Akrotiriou,Iraklis Gerolakkou,0,1,1.700,3.500,4.200
+67799052,2026-02-21 13:00,Halkanoras,Spartakos Kitiou FC,1,0,2.000,3.600,2.900
+67798952,2026-02-28 12:00,Karmiotissa FC,PAEEK Kyrenia,2,1,1.571,3.600,5.000
+67798950,2026-02-28 13:00,Asil Lysis,Nea Salamina Famagusta,1,2,7.500,3.700,1.380
+67798954,2026-02-28 13:00,AO Agia Napa,Doxa Katokopias,1,2,2.600,3.100,2.450
+67799054,2026-02-28 13:00,Ethnikos Latsion,Apea Akrotiriou,0,1,2.875,3.500,2.100
+67799056,2026-02-28 13:00,AEZ Zakakiou,Digenis Akritas Morphou FC,2,3,,,
+67799058,2026-02-28 13:00,Spartakos Kitiou FC,Achyronas Onisilos,2,2,,,
+67799060,2026-02-28 13:00,Iraklis Gerolakkou,Halkanoras,0,0,1.800,3.700,3.500
+67798956,2026-02-28 15:00,Als Omonia,MEAP Pera Choriou Nisou,1,0,,,
+67798964,2026-03-06 17:00,AO Agia Napa,Als Omonia,0,2,,,
+67799062,2026-03-07 13:00,Iraklis Gerolakkou,Spartakos Kitiou FC,2,1,,,
+67798958,2026-03-07 13:30,Karmiotissa FC,Doxa Katokopias,2,2,,,
+67798962,2026-03-07 13:30,MEAP Pera Choriou Nisou,Nea Salamina Famagusta,2,4,,,
+67799064,2026-03-07 13:30,Achyronas Onisilos,Digenis Akritas Morphou FC,0,4,,,
+67799066,2026-03-07 13:30,Ethnikos Latsion,Halkanoras,3,1,,,
+67799068,2026-03-07 13:30,AEZ Zakakiou,Apea Akrotiriou,1,1,,,
+67798960,2026-03-08 13:30,Asil Lysis,PAEEK Kyrenia,1,3,,,
+67798972,2026-03-13 15:00,Doxa Katokopias,Asil Lysis,1,0,,,
+67798970,2026-03-13 17:00,PAEEK Kyrenia,Nea Salamina Famagusta,0,0,,,
+67798966,2026-03-14 13:30,AO Agia Napa,MEAP Pera Choriou Nisou,0,2,,,
+67799070,2026-03-14 13:30,Iraklis Gerolakkou,Achyronas Onisilos,3,2,,,
+67799072,2026-03-14 13:30,Spartakos Kitiou FC,Ethnikos Latsion,0,2,,,
+67799074,2026-03-14 13:30,Halkanoras,AEZ Zakakiou,3,0,,,
+67799076,2026-03-14 13:30,Apea Akrotiriou,Digenis Akritas Morphou FC,1,0,,,
+67798968,2026-03-14 15:00,Als Omonia,Karmiotissa FC,2,2,,,
+67798974,2026-03-18 13:30,Karmiotissa FC,AO Agia Napa,3,0,,,
+67798976,2026-03-18 13:30,Asil Lysis,Als Omonia,0,1,,,
+67798980,2026-03-18 13:30,MEAP Pera Choriou Nisou,PAEEK Kyrenia,1,2,,,
+67799078,2026-03-18 13:30,Ethnikos Latsion,Iraklis Gerolakkou,0,0,,,
+67799080,2026-03-18 13:30,AEZ Zakakiou,Spartakos Kitiou FC,2,4,,,
+67799082,2026-03-18 13:30,Digenis Akritas Morphou FC,Halkanoras,0,0,,,
+67799084,2026-03-18 13:30,Achyronas Onisilos,Apea Akrotiriou,1,1,,,
+67798978,2026-03-18 15:00,Nea Salamina Famagusta,Doxa Katokopias,2,1,,,
+67798984,2026-03-21 13:30,Doxa Katokopias,PAEEK Kyrenia,0,0,,,
+67798986,2026-03-21 13:30,AO Agia Napa,Asil Lysis,0,0,,,
+67798988,2026-03-21 13:30,Karmiotissa FC,MEAP Pera Choriou Nisou,1,0,,,
+67799086,2026-03-21 13:30,Ethnikos Latsion,Achyronas Onisilos,3,1,,,
+67799088,2026-03-21 13:30,Iraklis Gerolakkou,AEZ Zakakiou,4,1,,,
+67799090,2026-03-21 13:30,Halkanoras,Apea Akrotiriou,3,1,,,
+67799092,2026-03-21 13:30,Spartakos Kitiou FC,Digenis Akritas Morphou FC,3,0,,,
+67798982,2026-03-22 13:30,Als Omonia,Nea Salamina Famagusta,2,2,,,
+67798994,2026-04-04 12:00,Nea Salamina Famagusta,AO Agia Napa,3,0,,,
+67798990,2026-04-04 13:30,MEAP Pera Choriou Nisou,Doxa Katokopias,0,0,,,
+67798992,2026-04-04 13:30,PAEEK Kyrenia,Als Omonia,3,3,,,
+67798996,2026-04-04 13:30,Asil Lysis,Karmiotissa FC,0,0,,,
+67799094,2026-04-04 13:30,Achyronas Onisilos,Halkanoras,0,3,,,
+67799096,2026-04-04 13:30,Apea Akrotiriou,Spartakos Kitiou FC,4,0,,,
+67799098,2026-04-04 13:30,Digenis Akritas Morphou FC,Iraklis Gerolakkou,1,0,,,
+67799100,2026-04-04 13:30,AEZ Zakakiou,Ethnikos Latsion,1,0,,,
+67799004,2026-04-17 13:30,Asil Lysis,MEAP Pera Choriou Nisou,2,1,,,
+67798998,2026-04-19 13:00,Karmiotissa FC,Nea Salamina Famagusta,1,0,,,
+67799000,2026-04-19 13:00,AO Agia Napa,PAEEK Kyrenia,6,3,,,
+67799002,2026-04-19 13:00,Als Omonia,Doxa Katokopias,5,1,,,
+70914776,2026-04-21 14:00,Spartakos Kitiou FC,Halkanoras,0,1,,,
+70914780,2026-04-21 14:00,Ethnikos Latsion,Digenis Akritas Morphou FC,2,1,,,
+70914782,2026-04-21 14:00,AEZ Zakakiou,Achyronas Onisilos,4,2,,,
+70914784,2026-04-21 14:00,Iraklis Gerolakkou,Apea Akrotiriou,0,2,,,
+67799008,2026-04-24 14:00,PAEEK Kyrenia,Karmiotissa FC,0,0,,,
+67799012,2026-04-24 14:00,MEAP Pera Choriou Nisou,Als Omonia,3,3,,,
+67799006,2026-04-25 13:30,Nea Salamina Famagusta,Asil Lysis,0,0,,,
+67799110,2026-04-25 13:30,Digenis Akritas Morphou FC,AEZ Zakakiou,1,1,,,
+67799114,2026-04-25 13:30,Halkanoras,Iraklis Gerolakkou,0,0,,,
+67799116,2026-04-25 13:30,Achyronas Onisilos,Spartakos Kitiou FC,0,2,,,
+67799010,2026-04-25 14:00,Doxa Katokopias,AO Agia Napa,0,3,,,
+67799112,2026-04-25 14:00,Apea Akrotiriou,Ethnikos Latsion,2,1,,,
+73242444,2026-09-11 16:00,Ermis Aradippou FC,Akritas Chlorakas,2,0,,,
+73242446,2026-09-12 16:00,PAEEK Kyrenia,Ethnikos Achnas FC,2,4,,,
+73242448,2026-09-12 16:00,Aep Polemidion,Spartakos Kitiou FC,1,0,6.500,3.800,1.420
+73242450,2026-09-12 16:00,MEAP Pera Choriou Nisou,Digenis Akritas Morphou FC,0,0,,,
+73242452,2026-09-12 16:00,Apea Akrotiriou,Doxa Katokopias,3,3,3.000,3.200,2.100
+73242454,2026-09-12 16:00,Anagennisi Deryneia,Enosis Neon Paralimni FC,0,3,,,
+73242456,2026-09-12 16:00,Halkanoras,Iraklis Gerolakkou,0,2,1.950,3.400,3.250
+73242458,2026-09-12 16:00,AO Agia Napa,Asil Lysis,1,3,4.000,3.400,1.750
+74084502,2026-09-18 16:00,Iraklis Gerolakkou,AO Agia Napa,1,1,2.150,3.300,2.875
+74084506,2026-09-18 16:00,Spartakos Kitiou FC,MEAP Pera Choriou Nisou,4,1,,,
+74084492,2026-09-19 16:00,Digenis Akritas Morphou FC,Apea Akrotiriou,0,1,,,
+74084494,2026-09-19 16:00,Ethnikos Achnas FC,Aep Polemidion,3,0,1.500,3.750,5.500
+74084498,2026-09-19 16:00,Doxa Katokopias,Anagennisi Deryneia,2,1,1.500,4.000,5.000
+74084500,2026-09-19 16:00,Enosis Neon Paralimni FC,Halkanoras,0,0,1.533,3.750,5.000
+74084504,2026-09-19 16:00,Akritas Chlorakas,Asil Lysis,1,1,1.833,3.600,3.500
+74084496,2026-09-20 16:00,Ermis Aradippou FC,PAEEK Kyrenia,1,2,2.875,3.100,2.250
+74084510,2026-10-10 12:30,Aep Polemidion,Ermis Aradippou FC,0,1,,,
+74084512,2026-10-10 12:30,MEAP Pera Choriou Nisou,Ethnikos Achnas FC,0,5,,,
+74084514,2026-10-10 12:30,Apea Akrotiriou,Spartakos Kitiou FC,0,0,2.375,3.250,2.550
+74084516,2026-10-10 12:30,Anagennisi Deryneia,Digenis Akritas Morphou FC,1,3,,,
+74084518,2026-10-10 12:30,Halkanoras,Doxa Katokopias,3,4,2.900,3.300,2.150
+74084520,2026-10-10 12:30,AO Agia Napa,Enosis Neon Paralimni FC,1,2,,,
+74084522,2026-10-10 12:30,Asil Lysis,Iraklis Gerolakkou,2,0,1.615,3.600,4.500
+74084508,2026-10-10 16:00,PAEEK Kyrenia,Akritas Chlorakas,2,1,1.650,4.000,3.900
+74084534,2026-10-16 16:00,Enosis Neon Paralimni FC,Asil Lysis,2,1,1.950,3.300,3.400
+74084524,2026-10-17 12:30,Ethnikos Achnas FC,Apea Akrotiriou,0,1,1.500,3.800,5.500
+74084526,2026-10-17 12:30,PAEEK Kyrenia,Aep Polemidion,4,0,1.181,5.750,11.000
+74084528,2026-10-17 12:30,Ermis Aradippou FC,MEAP Pera Choriou Nisou,2,0,,,
+74084530,2026-10-17 12:30,Spartakos Kitiou FC,Anagennisi Deryneia,2,3,1.300,4.500,7.500
+74084532,2026-10-17 12:30,Doxa Katokopias,AO Agia Napa,3,0,1.270,4.750,9.500
+74084536,2026-10-17 12:30,Akritas Chlorakas,Iraklis Gerolakkou,0,0,1.444,3.900,5.750
+74084538,2026-10-18 12:30,Digenis Akritas Morphou FC,Halkanoras,1,1,2.050,3.300,3.100
+74084546,2026-10-23 16:00,Anagennisi Deryneia,Ethnikos Achnas FC,1,3,4.750,4.333,1.480
+74084540,2026-10-24 12:00,Aep Polemidion,Akritas Chlorakas,0,2,3.800,3.600,1.727
+74084542,2026-10-24 12:00,MEAP Pera Choriou Nisou,PAEEK Kyrenia,0,2,,,
+74084544,2026-10-24 12:00,Apea Akrotiriou,Ermis Aradippou FC,2,0,2.100,3.250,3.000
+74084548,2026-10-24 12:00,Halkanoras,Spartakos Kitiou FC,2,1,2.375,3.200,2.600
+74084550,2026-10-24 12:00,AO Agia Napa,Digenis Akritas Morphou FC,2,1,,,
+74084552,2026-10-24 12:00,Asil Lysis,Doxa Katokopias,1,1,2.000,3.400,3.200
+74084554,2026-10-24 12:00,Iraklis Gerolakkou,Enosis Neon Paralimni FC,0,1,4.000,3.250,1.800
+74084560,2026-10-30 17:00,Ermis Aradippou FC,Anagennisi Deryneia,1,2,2.050,3.300,3.000
+74084566,2026-10-30 17:00,Doxa Katokopias,Iraklis Gerolakkou,4,1,1.420,4.200,5.750
+74084556,2026-10-31 12:30,Aep Polemidion,MEAP Pera Choriou Nisou,2,0,,,
+74084558,2026-10-31 12:30,PAEEK Kyrenia,Apea Akrotiriou,3,1,1.363,4.500,6.500
+74084562,2026-10-31 12:30,Ethnikos Achnas FC,Halkanoras,2,0,1.270,5.000,8.000
+74084564,2026-10-31 12:30,Spartakos Kitiou FC,AO Agia Napa,0,0,1.400,4.500,5.750
+74084568,2026-10-31 14:00,Akritas Chlorakas,Enosis Neon Paralimni FC,0,1,2.875,3.100,2.250
+74084570,2026-11-01 12:30,Digenis Akritas Morphou FC,Asil Lysis,0,0,3.100,3.300,2.050
+74084572,2026-11-07 12:30,MEAP Pera Choriou Nisou,Akritas Chlorakas,0,0,,,
+74084576,2026-11-07 12:30,Anagennisi Deryneia,PAEEK Kyrenia,1,1,,,
+74084578,2026-11-07 12:30,Halkanoras,Ermis Aradippou FC,2,2,2.200,3.200,2.900
+74084580,2026-11-07 12:30,AO Agia Napa,Ethnikos Achnas FC,0,3,,,
+74084582,2026-11-07 12:30,Asil Lysis,Spartakos Kitiou FC,0,0,1.833,3.250,3.800
+74084586,2026-11-07 12:30,Enosis Neon Paralimni FC,Doxa Katokopias,1,2,2.350,3.400,2.625
+74084574,2026-11-08 12:30,Apea Akrotiriou,Aep Polemidion,0,1,1.533,3.700,5.250
+74084584,2026-11-08 12:30,Iraklis Gerolakkou,Digenis Akritas Morphou FC,1,0,3.000,3.100,2.200

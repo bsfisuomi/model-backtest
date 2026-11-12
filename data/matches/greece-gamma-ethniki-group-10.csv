@@ -1,0 +1,36 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+74041230,2026-09-27 13:00,ΑΟ Episkopi,AE Neapolis,1,0,,,
+74041232,2026-09-27 13:00,Olympiakos Hersonisou,Chania FC,1,5,,,
+74041234,2026-09-27 13:00,PO Atsaleniou,Ergotelis,1,1,2.800,3.000,2.375
+74041236,2026-09-27 13:00,Nikolaos,AO Tympakiou,2,0,,,
+74041238,2026-09-27 13:00,AO Platanias,Panakrotiriakos,0,1,,,
+74041240,2026-09-27 13:00,Giouchtas,AO Rethymniakos,0,0,1.300,4.500,7.500
+75236254,2026-10-07 12:00,Ergotelis,Chania FC,1,2,5.000,5.000,1.400
+74041254,2026-10-11 13:00,Nikolaos,Giouchtas,1,1,,,
+74041256,2026-10-11 13:00,ΑΟ Episkopi,AO Platanias,1,0,,,
+74041258,2026-10-11 13:00,Olympiakos Hersonisou,AO Tympakiou,1,0,,,
+74041260,2026-10-11 13:00,PO Atsaleniou,Panakrotiriakos,2,2,1.571,3.500,5.250
+74041262,2026-10-11 13:00,Ergotelis,AO Rethymniakos,4,2,1.500,4.000,5.000
+74041264,2026-10-11 13:00,Chania FC,AE Neapolis,8,0,,,
+74041270,2026-10-17 13:00,AO Platanias,PO Atsaleniou,0,1,4.000,3.300,1.750
+74041268,2026-10-18 13:00,Giouchtas,Olympiakos Hersonisou,4,0,1.285,4.500,8.500
+74041272,2026-10-18 13:00,AO Tympakiou,Ergotelis,2,1,8.500,4.500,1.285
+74041274,2026-10-18 13:00,Panakrotiriakos,Chania FC,1,2,,,
+74041276,2026-10-18 13:00,AE Neapolis,AO Rethymniakos,1,3,,,
+74041278,2026-10-25 13:00,Nikolaos,Olympiakos Hersonisou,3,0,1.400,4.500,5.250
+74041280,2026-10-25 13:00,PO Atsaleniou,ΑΟ Episkopi,2,0,,,
+74041282,2026-10-25 13:00,Ergotelis,Giouchtas,1,1,,,
+74041284,2026-10-25 13:00,Chania FC,AO Platanias,1,1,,,
+74041286,2026-10-25 13:00,AE Neapolis,AO Tympakiou,0,1,,,
+74041288,2026-10-25 13:00,AO Rethymniakos,Panakrotiriakos,3,0,,,
+74041290,2026-10-31 13:00,PO Atsaleniou,Nikolaos,1,1,2.000,3.200,3.300
+74041292,2026-10-31 13:00,Olympiakos Hersonisou,Ergotelis,0,0,6.500,5.250,1.285
+74041294,2026-10-31 13:00,ΑΟ Episkopi,Chania FC,1,2,,,
+74041296,2026-10-31 13:00,Giouchtas,AE Neapolis,3,0,,,
+74041298,2026-10-31 13:00,AO Platanias,AO Rethymniakos,0,2,,,
+74041300,2026-10-31 13:00,AO Tympakiou,Panakrotiriakos,1,0,,,
+74041304,2026-11-08 13:00,Chania FC,PO Atsaleniou,0,0,,,
+74041306,2026-11-08 13:00,AE Neapolis,Olympiakos Hersonisou,1,1,,,
+74041308,2026-11-08 13:00,AO Rethymniakos,ΑΟ Episkopi,3,0,,,
+74041310,2026-11-08 13:00,Panakrotiriakos,Giouchtas,0,4,,,
+74041312,2026-11-08 13:00,AO Tympakiou,AO Platanias,0,0,1.666,3.300,4.750

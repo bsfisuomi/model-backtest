@@ -1,0 +1,135 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+62870793,2025-11-16 12:30,East Fife Lfc,St Johnstone Wfc,2,0,,,
+62870887,2025-11-16 13:00,Livingston Wfc,Queen's Park LFC,1,1,,,
+62870939,2025-11-16 14:00,Stirling University,Gartcairn Wfc,0,3,,,
+62870791,2025-11-16 15:30,Dundee United WFC,Spartans WFC,0,0,,,
+62870955,2025-11-23 14:00,Gartcairn Wfc,Queen's Park LFC,2,4,,,
+62870957,2025-11-23 16:00,Livingston Wfc,Stirling University,6,0,,,
+62870961,2025-11-23 16:00,St Johnstone Wfc,Kilmarnock Lfc,2,7,,,
+62870973,2025-12-14 13:00,Queen's Park LFC,St Johnstone Wfc,5,0,1.111,8.500,15.000
+62870975,2025-12-14 14:00,Spartans WFC,Stirling University,7,0,,,
+62870971,2025-12-14 15:00,Kilmarnock Lfc,East Fife Lfc,6,1,,,
+62870969,2025-12-14 15:30,Dundee United WFC,Gartcairn Wfc,3,0,,,
+62870965,2025-12-14 16:00,Livingston Wfc,Boroughmuir Thistle FC,0,6,,,
+62870991,2025-12-21 12:00,Livingston Wfc,Kilmarnock Lfc,0,6,,,
+62870993,2025-12-21 13:00,Queen's Park LFC,Spartans WFC,1,1,,,
+62870977,2025-12-21 14:00,Gartcairn Wfc,East Fife Lfc,6,1,,,
+62870997,2025-12-21 14:00,Stirling University,Dundee United WFC,0,4,,,
+62870995,2025-12-21 16:00,St Johnstone Wfc,Boroughmuir Thistle FC,0,4,,,
+62871007,2026-01-18 12:30,East Fife Lfc,Queen's Park LFC,1,7,,,
+62871011,2026-01-18 13:00,Spartans WFC,St Johnstone Wfc,1,0,1.055,13.000,26.000
+62871001,2026-01-18 15:30,Dundee United WFC,Livingston Wfc,1,1,1.125,8.000,15.000
+62871009,2026-01-18 15:30,Kilmarnock Lfc,Stirling University,8,0,,,
+62871059,2026-01-25 13:00,Queen's Park LFC,Dundee United WFC,2,1,1.750,4.000,3.300
+62871043,2026-01-25 14:00,Gartcairn Wfc,St Johnstone Wfc,4,1,,,
+62871061,2026-01-25 14:00,Stirling University,Boroughmuir Thistle FC,0,4,,,
+62871045,2026-01-25 15:00,Kilmarnock Lfc,Spartans WFC,1,0,1.650,3.800,4.100
+62871047,2026-01-25 16:00,Livingston Wfc,East Fife Lfc,5,0,,,
+62871071,2026-02-01 12:30,East Fife Lfc,Stirling University,4,0,,,
+62871067,2026-02-01 13:00,Boroughmuir Thistle FC,Queen's Park LFC,0,1,1.850,3.800,3.250
+62871073,2026-02-01 13:00,Spartans WFC,Gartcairn Wfc,2,0,,,
+62871069,2026-02-01 15:30,Dundee United WFC,Kilmarnock Lfc,0,5,4.000,3.800,1.666
+62871075,2026-02-01 16:00,St Johnstone Wfc,Livingston Wfc,3,7,,,
+68486694,2026-02-04 19:45,Boroughmuir Thistle FC,Gartcairn Wfc,2,1,1.700,3.600,4.000
+62871367,2026-02-08 12:30,East Fife Lfc,Boroughmuir Thistle FC,0,7,26.000,15.000,1.055
+62871383,2026-02-08 14:00,Stirling University,Queen's Park LFC,1,5,,,
+62871379,2026-02-08 15:00,Kilmarnock Lfc,Gartcairn Wfc,4,0,,,
+62871159,2026-02-08 15:30,Dundee United WFC,St Johnstone Wfc,1,1,1.142,7.000,12.000
+62871381,2026-02-08 16:00,Livingston Wfc,Spartans WFC,1,2,8.500,4.750,1.270
+62871457,2026-02-22 12:00,Queen's Park LFC,Kilmarnock Lfc,0,0,3.750,5.000,1.550
+62871385,2026-02-22 13:00,Boroughmuir Thistle FC,Dundee United WFC,0,2,,,
+62871461,2026-02-22 13:00,Spartans WFC,East Fife Lfc,5,0,1.015,23.000,51.000
+62871455,2026-02-22 14:00,Gartcairn Wfc,Livingston Wfc,1,0,1.800,4.200,3.100
+62871465,2026-02-22 16:00,St Johnstone Wfc,Stirling University,5,1,,,
+69279868,2026-03-15 14:00,Kilmarnock Lfc,Dundee United WFC,2,1,,,
+69279870,2026-03-15 14:00,Spartans WFC,Boroughmuir Thistle FC,1,0,,,
+69279872,2026-03-15 14:00,Gartcairn Wfc,Queen's Park LFC,1,2,,,
+69279928,2026-03-15 14:00,East Fife Lfc,St Johnstone Wfc,2,0,,,
+69279930,2026-03-15 14:00,Livingston Wfc,Stirling University,6,1,,,
+69279874,2026-03-18 19:30,Dundee United WFC,Boroughmuir Thistle FC,2,3,2.600,3.300,2.300
+69279878,2026-03-18 20:00,Queen's Park LFC,Spartans WFC,0,4,,,
+69279876,2026-03-18 20:15,Kilmarnock Lfc,Gartcairn Wfc,4,0,1.142,7.500,13.000
+69279880,2026-03-22 14:00,Spartans WFC,Kilmarnock Lfc,1,0,,,
+69279882,2026-03-22 14:00,Gartcairn Wfc,Dundee United WFC,0,2,,,
+69279884,2026-03-22 14:00,Boroughmuir Thistle FC,Queen's Park LFC,1,1,,,
+69279932,2026-03-22 14:00,Livingston Wfc,East Fife Lfc,4,0,,,
+69279934,2026-03-22 14:00,Stirling University,St Johnstone Wfc,4,5,5.750,5.000,1.380
+69279886,2026-04-01 18:30,Dundee United WFC,Spartans WFC,0,3,4.750,3.700,1.571
+69279888,2026-04-01 18:30,Gartcairn Wfc,Boroughmuir Thistle FC,1,1,5.750,4.333,1.400
+69279896,2026-04-05 12:00,Spartans WFC,Gartcairn Wfc,3,0,,,
+69279894,2026-04-05 13:00,Queen's Park LFC,Dundee United WFC,2,0,,,
+69279938,2026-04-05 13:00,Stirling University,East Fife Lfc,0,2,2.900,4.100,1.909
+69279892,2026-04-05 15:00,Boroughmuir Thistle FC,Kilmarnock Lfc,3,2,,,
+69279936,2026-04-05 15:00,St Johnstone Wfc,Livingston Wfc,2,5,,,
+69279898,2026-04-24 18:30,Dundee United WFC,Gartcairn Wfc,1,1,1.750,4.100,3.300
+69279902,2026-04-24 18:45,Kilmarnock Lfc,Spartans WFC,0,2,2.100,3.600,2.800
+69279900,2026-04-24 19:00,Queen's Park LFC,Boroughmuir Thistle FC,0,1,2.800,3.750,2.050
+69279940,2026-04-26 11:30,East Fife Lfc,Livingston Wfc,0,0,,,
+69279904,2026-04-29 18:30,Boroughmuir Thistle FC,Dundee United WFC,0,0,,,
+69279906,2026-04-29 18:45,Gartcairn Wfc,Kilmarnock Lfc,0,0,,,
+69279908,2026-04-29 18:45,Spartans WFC,Queen's Park LFC,2,0,1.480,5.000,4.200
+69279910,2026-05-03 12:00,Boroughmuir Thistle FC,Spartans WFC,0,2,,,
+69279914,2026-05-03 12:00,Queen's Park LFC,Gartcairn Wfc,0,0,,,
+69279912,2026-05-03 14:30,Dundee United WFC,Kilmarnock Lfc,0,0,4.750,4.750,1.450
+69279942,2026-05-03 15:00,St Johnstone Wfc,Stirling University,0,0,,,
+69279944,2026-05-10 11:30,East Fife Lfc,Stirling University,0,0,,,
+69279920,2026-05-10 12:05,Kilmarnock Lfc,Boroughmuir Thistle FC,0,1,1.615,4.100,3.900
+69279918,2026-05-10 13:00,Gartcairn Wfc,Spartans WFC,0,0,,,
+69279946,2026-05-10 13:00,Livingston Wfc,St Johnstone Wfc,0,0,,,
+69279916,2026-05-10 14:30,Dundee United WFC,Queen's Park LFC,0,0,,,
+69279950,2026-05-17 13:00,Stirling University,Livingston Wfc,0,0,,,
+69279922,2026-05-17 15:00,Boroughmuir Thistle FC,Gartcairn Wfc,0,0,,,
+69279924,2026-05-17 15:00,Queen's Park LFC,Kilmarnock Lfc,0,0,,,
+69279926,2026-05-17 15:00,Spartans WFC,Dundee United WFC,0,0,,,
+69279948,2026-05-17 15:00,St Johnstone Wfc,East Fife Lfc,2,1,2.400,4.100,2.200
+71602082,2026-05-28 18:30,East Fife Lfc,Falkirk FC,1,2,2.100,3.700,2.700
+72408256,2026-08-16 11:00,Renfrew Lfc,Kilmarnock Lfc,1,5,,,
+72408258,2026-08-16 12:00,Queen's Park LFC,Hamilton Academical WFC,2,1,,,
+72408254,2026-08-16 13:00,Gartcairn Wfc,Boroughmuir Thistle FC,1,4,3.600,3.900,1.727
+72408250,2026-08-16 14:30,Dundee United WFC,Falkirk FC,2,2,,,
+72408252,2026-08-16 15:00,St Johnstone Wfc,Livingston Wfc,3,1,3.600,4.000,1.700
+72408260,2026-08-23 12:00,Boroughmuir Thistle FC,Queen's Park LFC,1,0,,,
+72408268,2026-08-23 13:30,Hamilton Academical WFC,Renfrew Lfc,1,1,,,
+72408262,2026-08-23 14:00,Kilmarnock Lfc,Dundee United WFC,3,0,,,
+72408266,2026-08-23 14:00,Falkirk FC,St Johnstone Wfc,1,1,,,
+72408264,2026-08-23 15:00,Livingston Wfc,Gartcairn Wfc,0,2,,,
+72408276,2026-08-30 11:00,Renfrew Lfc,Queen's Park LFC,0,7,5.000,5.500,1.363
+72408278,2026-08-30 12:00,Boroughmuir Thistle FC,Kilmarnock Lfc,3,0,,,
+72408272,2026-08-30 13:00,Gartcairn Wfc,Hamilton Academical WFC,3,4,,,
+72408270,2026-08-30 14:00,Falkirk FC,Livingston Wfc,2,0,,,
+72408274,2026-08-30 15:00,St Johnstone Wfc,Dundee United WFC,3,4,,,
+72408284,2026-09-06 12:00,Queen's Park LFC,Gartcairn Wfc,2,0,1.333,5.000,5.750
+72408288,2026-09-06 12:00,Kilmarnock Lfc,St Johnstone Wfc,7,0,,,
+72408280,2026-09-06 13:30,Hamilton Academical WFC,Falkirk FC,0,1,,,
+72408286,2026-09-06 14:30,Dundee United WFC,Renfrew Lfc,3,0,,,
+72408282,2026-09-06 15:00,Livingston Wfc,Boroughmuir Thistle FC,1,3,,,
+72408294,2026-09-20 11:00,Renfrew Lfc,Boroughmuir Thistle FC,0,4,,,
+72408296,2026-09-20 14:00,Falkirk FC,Gartcairn Wfc,3,0,,,
+72408298,2026-09-20 14:00,Kilmarnock Lfc,Livingston Wfc,3,0,1.062,12.000,23.000
+72408290,2026-09-20 14:30,Dundee United WFC,Queen's Park LFC,1,2,,,
+72408292,2026-09-20 15:00,St Johnstone Wfc,Hamilton Academical WFC,1,2,,,
+72408302,2026-09-27 12:00,Queen's Park LFC,Falkirk FC,5,1,,,
+72408304,2026-09-27 12:00,Boroughmuir Thistle FC,St Johnstone Wfc,1,1,,,
+72408300,2026-09-27 13:00,Gartcairn Wfc,Renfrew Lfc,3,1,,,
+72408306,2026-09-27 13:30,Hamilton Academical WFC,Kilmarnock Lfc,1,3,,,
+72408308,2026-09-27 15:00,Livingston Wfc,Dundee United WFC,3,3,,,
+72408310,2026-10-04 14:00,Falkirk FC,Renfrew Lfc,5,1,,,
+72408314,2026-10-04 14:00,Kilmarnock Lfc,Gartcairn Wfc,1,1,,,
+72408312,2026-10-04 14:30,Dundee United WFC,Boroughmuir Thistle FC,0,2,,,
+72408316,2026-10-04 15:00,St Johnstone Wfc,Queen's Park LFC,4,6,,,
+72408318,2026-10-04 15:00,Livingston Wfc,Hamilton Academical WFC,2,4,,,
+72408322,2026-10-18 11:00,Queen's Park LFC,Kilmarnock Lfc,3,1,,,
+72408324,2026-10-18 11:00,Renfrew Lfc,Livingston Wfc,0,5,2.600,3.800,2.100
+72408326,2026-10-18 12:00,Boroughmuir Thistle FC,Falkirk FC,2,0,,,
+72408320,2026-10-18 13:00,Gartcairn Wfc,St Johnstone Wfc,3,0,,,
+72408328,2026-10-18 13:30,Hamilton Academical WFC,Dundee United WFC,0,0,,,
+72408334,2026-10-25 14:30,Hamilton Academical WFC,Boroughmuir Thistle FC,1,2,3.100,4.100,1.833
+72408332,2026-10-25 16:00,Falkirk FC,Kilmarnock Lfc,0,4,,,
+72408336,2026-10-25 16:00,Livingston Wfc,Queen's Park LFC,2,1,5.500,5.250,1.333
+72408338,2026-10-25 16:00,St Johnstone Wfc,Renfrew Lfc,2,1,,,
+76320722,2026-11-04 19:30,Dundee United WFC,Gartcairn Wfc,2,5,,,
+72408342,2026-11-08 12:00,Renfrew Lfc,Hamilton Academical WFC,0,6,7.000,5.250,1.270
+72408346,2026-11-08 12:00,Queen's Park LFC,Dundee United WFC,1,2,,,
+72408348,2026-11-08 14:00,Gartcairn Wfc,Livingston Wfc,2,0,,,
+72408340,2026-11-08 15:00,Kilmarnock Lfc,Boroughmuir Thistle FC,1,3,,,
+72408344,2026-11-08 16:00,St Johnstone Wfc,Falkirk FC,1,2,,,

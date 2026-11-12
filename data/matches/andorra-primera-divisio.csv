@@ -1,0 +1,149 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+64301409,2025-10-11 17:30,CF Esperanca D Andorra,Inter Club de Escaldes,1,2,,,
+64324135,2025-10-12 08:00,FC Rangers,CE Carroi,3,0,,,
+61737504,2025-10-19 09:00,FC Penya d`Andorra,CE Carroi,2,1,,,
+61737506,2025-10-19 11:15,FC Santa Coloma,UE Santa Coloma,1,0,,,
+61737510,2025-10-19 14:00,FC Ordino,CF Esperanca D Andorra,1,1,,,
+64506785,2025-10-22 09:00,FC Ordino,UE Santa Coloma,0,2,,,
+64506825,2025-10-22 12:30,FC Santa Coloma,FC Penya d`Andorra,1,0,,,
+61737512,2025-10-25 15:00,Inter Club de Escaldes,FC Ordino,2,1,,,
+61737518,2025-10-26 10:00,Atletic Club d'Escaldes,FC Santa Coloma,2,2,,,
+61737520,2025-10-26 15:00,CF Esperanca D Andorra,FC Rangers,0,2,,,
+61737516,2025-10-26 18:00,UE Santa Coloma,FC Penya d`Andorra,1,1,,,
+64511789,2025-10-29 10:00,Atletic Club d'Escaldes,CE Carroi,3,0,,,
+64700680,2025-10-29 13:30,Inter Club de Escaldes,FC Rangers,1,1,,,
+61737526,2025-11-01 18:30,FC Penya d`Andorra,Atletic Club d'Escaldes,0,2,,,
+61737522,2025-11-02 10:00,Inter Club de Escaldes,CE Carroi,3,1,,,
+61737530,2025-11-02 12:15,FC Ordino,FC Rangers,0,2,,,
+61737528,2025-11-02 18:00,FC Santa Coloma,CF Esperanca D Andorra,0,0,,,
+64899170,2025-11-05 13:30,UE Santa Coloma,Atletic Club d'Escaldes,2,0,,,
+64888846,2025-11-06 13:30,FC Penya d`Andorra,FC Ordino,3,4,,,
+61737532,2025-11-09 10:00,FC Ordino,CE Carroi,3,1,,,
+61737534,2025-11-09 12:15,UE Santa Coloma,Inter Club de Escaldes,4,1,,,
+61737538,2025-11-09 15:00,CF Esperanca D Andorra,FC Penya d`Andorra,0,1,,,
+61737540,2025-11-09 18:00,FC Rangers,FC Santa Coloma,0,0,,,
+65418142,2025-11-16 10:00,CE Carroi,CF Esperanca D Andorra,2,1,,,
+61737542,2025-11-23 10:00,CE Carroi,UE Santa Coloma,0,5,,,
+61737548,2025-11-23 12:15,FC Penya d`Andorra,FC Rangers,1,3,,,
+61737544,2025-11-23 15:00,Inter Club de Escaldes,Atletic Club d'Escaldes,1,0,,,
+61737550,2025-11-23 18:00,FC Santa Coloma,FC Ordino,3,1,,,
+65684308,2025-11-26 13:30,FC Santa Coloma,Inter Club de Escaldes,1,3,,,
+65684294,2025-11-26 16:00,CF Esperanca D Andorra,UE Santa Coloma,0,4,,,
+65684306,2025-11-27 10:00,FC Ordino,Atletic Club d'Escaldes,0,0,,,
+61737552,2025-11-30 10:00,FC Rangers,CF Esperanca D Andorra,3,1,,,
+61737554,2025-11-30 12:15,UE Santa Coloma,CE Carroi,0,0,,,
+61737558,2025-11-30 15:00,FC Penya d`Andorra,FC Santa Coloma,0,6,,,
+61737560,2025-11-30 18:00,Atletic Club d'Escaldes,FC Ordino,1,0,,,
+61737566,2025-12-06 18:00,Inter Club de Escaldes,CE Carroi,2,0,,,
+61737570,2025-12-07 10:00,FC Ordino,FC Penya d`Andorra,2,4,,,
+61737562,2025-12-07 12:15,CF Esperanca D Andorra,Atletic Club d'Escaldes,0,1,,,
+61737564,2025-12-07 15:00,UE Santa Coloma,FC Rangers,2,1,,,
+65090938,2025-12-10 10:00,UE Santa Coloma,FC Rangers,1,0,2.200,3.100,3.100
+66165704,2025-12-10 14:00,Atletic Club d'Escaldes,CF Esperanca D Andorra,3,0,1.222,6.000,10.000
+61737574,2025-12-14 10:00,FC Rangers,Inter Club de Escaldes,0,1,3.600,3.500,1.800
+61737572,2025-12-14 12:15,UE Santa Coloma,CF Esperanca D Andorra,7,0,1.125,8.000,17.000
+61737576,2025-12-14 15:00,FC Santa Coloma,CE Carroi,7,0,1.111,9.000,19.000
+61737580,2025-12-14 18:00,Atletic Club d'Escaldes,FC Penya d`Andorra,2,0,,,
+66165720,2025-12-17 10:00,CE Carroi,FC Santa Coloma,2,1,29.000,12.000,1.055
+65086460,2025-12-17 13:30,Inter Club de Escaldes,FC Penya d`Andorra,4,0,,,
+61737588,2025-12-20 18:30,CE Carroi,FC Ordino,3,1,,,
+61737582,2025-12-21 10:00,Atletic Club d'Escaldes,UE Santa Coloma,1,2,3.100,3.000,2.100
+61737584,2025-12-21 12:15,Inter Club de Escaldes,CF Esperanca D Andorra,2,0,1.035,17.000,41.000
+61737586,2025-12-21 15:00,FC Santa Coloma,FC Rangers,2,0,1.750,3.500,3.800
+61737592,2026-01-17 18:30,Inter Club de Escaldes,UE Santa Coloma,2,1,2.350,3.250,2.625
+61737594,2026-01-18 10:00,CF Esperanca D Andorra,FC Santa Coloma,0,2,29.000,12.000,1.055
+61737598,2026-01-18 12:15,CE Carroi,FC Penya d`Andorra,0,0,,,
+61737596,2026-01-18 15:00,FC Rangers,FC Ordino,4,0,1.363,4.333,6.500
+61737608,2026-01-24 18:30,FC Rangers,FC Penya d`Andorra,4,0,,,
+61737606,2026-01-25 10:00,CF Esperanca D Andorra,FC Ordino,1,2,4.500,3.500,1.666
+61737602,2026-01-25 12:15,Atletic Club d'Escaldes,Inter Club de Escaldes,0,1,3.600,3.200,1.900
+61737604,2026-01-25 15:00,FC Santa Coloma,UE Santa Coloma,1,2,2.500,3.000,2.700
+61737622,2026-01-31 18:30,CE Carroi,Atletic Club d'Escaldes,1,4,11.000,6.250,1.200
+61737614,2026-02-01 10:00,UE Santa Coloma,FC Ordino,1,0,1.250,5.250,10.000
+61737618,2026-02-01 12:15,FC Penya d`Andorra,CF Esperanca D Andorra,1,0,,,
+61737612,2026-02-01 15:00,Inter Club de Escaldes,FC Santa Coloma,1,1,,,
+61737628,2026-02-07 18:30,FC Penya d`Andorra,UE Santa Coloma,2,1,,,
+61737624,2026-02-08 12:15,Atletic Club d'Escaldes,FC Santa Coloma,2,3,3.400,3.500,1.850
+61737626,2026-02-08 15:00,FC Ordino,Inter Club de Escaldes,0,2,11.000,4.750,1.270
+61737632,2026-02-08 18:00,CE Carroi,FC Rangers,0,3,21.000,9.000,1.111
+61737642,2026-02-14 15:00,Atletic Club d'Escaldes,FC Rangers,0,2,2.450,3.200,2.550
+61737636,2026-02-14 18:00,FC Penya d`Andorra,Inter Club de Escaldes,0,1,,,
+61737640,2026-02-15 10:00,CF Esperanca D Andorra,CE Carroi,0,0,2.800,3.250,2.200
+61737634,2026-02-15 12:15,FC Ordino,FC Santa Coloma,2,1,,,
+61737648,2026-02-22 10:00,FC Santa Coloma,Atletic Club d'Escaldes,3,0,1.750,3.500,4.333
+61737650,2026-02-22 12:15,FC Penya d`Andorra,CE Carroi,0,0,,,
+61737644,2026-02-22 15:00,UE Santa Coloma,FC Ordino,2,1,,,
+61737646,2026-02-22 18:00,CF Esperanca D Andorra,FC Rangers,1,1,15.000,8.500,1.125
+61737658,2026-02-28 18:30,Atletic Club d'Escaldes,CF Esperanca D Andorra,2,1,1.125,8.000,17.000
+61737656,2026-03-01 12:15,FC Rangers,UE Santa Coloma,1,2,2.800,3.250,2.200
+61737662,2026-03-01 14:30,Inter Club de Escaldes,FC Penya d`Andorra,2,1,,,
+61737660,2026-03-01 16:45,CE Carroi,FC Santa Coloma,0,2,17.000,8.500,1.111
+61737664,2026-03-07 18:30,FC Ordino,FC Rangers,1,2,5.000,3.600,1.571
+61737670,2026-03-08 12:15,FC Santa Coloma,Inter Club de Escaldes,3,2,2.700,3.300,2.300
+61737668,2026-03-08 15:00,CF Esperanca D Andorra,CE Carroi,4,1,2.300,3.200,2.750
+61737666,2026-03-08 18:00,UE Santa Coloma,Atletic Club d'Escaldes,0,0,1.800,3.600,3.600
+61737682,2026-03-21 18:30,FC Penya d`Andorra,FC Santa Coloma,0,1,,,
+61737676,2026-03-22 12:15,Atletic Club d'Escaldes,FC Ordino,0,0,1.480,3.900,6.000
+61737678,2026-03-22 15:00,CE Carroi,UE Santa Coloma,0,0,19.000,8.000,1.111
+61737680,2026-03-22 18:00,Inter Club de Escaldes,CF Esperanca D Andorra,0,2,1.071,10.000,23.000
+61737684,2026-04-11 14:00,FC Rangers,Atletic Club d'Escaldes,3,1,2.050,3.300,3.100
+61737686,2026-04-11 17:30,FC Ordino,CE Carroi,5,0,1.363,4.100,7.000
+61737688,2026-04-12 11:15,UE Santa Coloma,Inter Club de Escaldes,1,1,2.450,3.100,2.600
+61737690,2026-04-13 16:00,CF Esperanca D Andorra,FC Penya d`Andorra,0,1,,,
+61737700,2026-04-18 17:30,FC Penya d`Andorra,UE Santa Coloma,0,2,,,
+61737696,2026-04-19 09:00,CE Carroi,FC Rangers,1,2,23.000,9.500,1.083
+61737702,2026-04-19 11:15,FC Santa Coloma,CF Esperanca D Andorra,4,0,1.090,9.500,17.000
+61737698,2026-04-19 14:00,Inter Club de Escaldes,FC Ordino,4,0,1.300,4.750,7.500
+61737710,2026-04-25 14:00,UE Santa Coloma,FC Santa Coloma,0,0,2.900,3.400,2.100
+61737706,2026-04-25 17:30,FC Rangers,Inter Club de Escaldes,3,5,2.875,3.600,2.050
+61737704,2026-04-26 09:00,Atletic Club d'Escaldes,CE Carroi,3,0,1.111,8.500,15.000
+61737708,2026-04-26 14:00,FC Ordino,FC Penya d`Andorra,0,1,,,
+61737716,2026-05-10 09:00,Inter Club de Escaldes,Atletic Club d'Escaldes,3,1,1.444,4.000,5.750
+61737718,2026-05-10 09:00,FC Penya d`Andorra,FC Rangers,1,2,,,
+61737720,2026-05-10 09:00,FC Santa Coloma,FC Ordino,0,1,1.333,4.500,7.500
+61737722,2026-05-10 09:00,CF Esperanca D Andorra,UE Santa Coloma,0,3,,,
+61737724,2026-05-16 14:00,CE Carroi,Inter Club de Escaldes,2,1,11.000,6.500,1.200
+61737730,2026-05-16 14:00,FC Ordino,CF Esperanca D Andorra,2,2,1.615,3.900,4.100
+61737728,2026-05-16 18:45,FC Rangers,FC Santa Coloma,2,0,3.250,3.400,1.950
+61737726,2026-05-17 09:00,Atletic Club d'Escaldes,FC Penya d`Andorra,2,0,,,
+71738554,2026-05-27 18:30,CF Esperanca D Andorra,Sporting Club DE Escaldes,2,0,1.750,3.600,3.600
+73528648,2026-09-05 18:30,CE Carroi,FC Santa Coloma,0,3,17.000,7.000,1.125
+73528646,2026-09-06 09:00,CF Esperanca D Andorra,Inter Club de Escaldes,2,2,10.000,8.000,1.125
+73528644,2026-09-06 12:00,CE Casa De Portugal,FC Rangers,1,1,7.500,5.250,1.270
+73528650,2026-09-06 15:00,Sporting Club DE Escaldes,FC Ordino,1,2,3.400,3.600,1.850
+73528652,2026-09-06 18:00,FC Penya d`Andorra,Atletic Club d'Escaldes,1,1,,,
+73528660,2026-09-12 18:30,Atletic Club d'Escaldes,Sporting Club DE Escaldes,4,1,1.333,4.750,6.500
+73528658,2026-09-13 09:00,FC Ordino,CE Casa De Portugal,3,2,2.000,3.600,3.000
+73528654,2026-09-13 12:00,Inter Club de Escaldes,CE Carroi,3,0,1.111,9.000,15.000
+73528656,2026-09-13 15:00,FC Rangers,CF Esperanca D Andorra,2,1,1.333,5.250,5.500
+73528662,2026-09-13 18:00,FC Santa Coloma,FC Penya d`Andorra,4,0,,,
+73528666,2026-09-19 18:30,CE Carroi,FC Penya d`Andorra,2,2,,,
+73528664,2026-09-20 09:00,Sporting Club DE Escaldes,FC Santa Coloma,1,5,10.000,8.000,1.125
+73528670,2026-09-20 12:00,CF Esperanca D Andorra,FC Ordino,4,0,2.550,3.400,2.350
+73528668,2026-09-20 15:00,CE Casa De Portugal,Atletic Club d'Escaldes,0,3,2.900,3.750,1.950
+73528672,2026-09-20 18:00,Inter Club de Escaldes,FC Rangers,3,0,1.600,3.750,4.500
+73528676,2026-10-10 18:30,FC Ordino,Inter Club de Escaldes,0,4,10.000,6.000,1.200
+73528674,2026-10-11 09:00,FC Rangers,CE Carroi,3,0,1.125,7.500,15.000
+73528682,2026-10-11 12:00,FC Penya d`Andorra,Sporting Club DE Escaldes,2,0,,,
+73528680,2026-10-11 15:00,FC Santa Coloma,CE Casa De Portugal,5,0,1.250,5.500,9.000
+73528678,2026-10-11 18:00,Atletic Club d'Escaldes,CF Esperanca D Andorra,1,1,1.444,4.500,5.500
+73528690,2026-10-17 18:30,FC Rangers,FC Ordino,0,1,,,
+73528684,2026-10-18 09:00,CE Carroi,Sporting Club DE Escaldes,0,1,2.450,3.600,2.375
+73528688,2026-10-18 12:00,CF Esperanca D Andorra,FC Santa Coloma,1,2,10.000,6.250,1.222
+73528686,2026-10-18 15:00,CE Casa De Portugal,FC Penya d`Andorra,3,0,,,
+73528692,2026-10-18 18:00,Inter Club de Escaldes,Atletic Club d'Escaldes,4,2,1.480,4.333,4.750
+73528702,2026-10-24 18:30,Sporting Club DE Escaldes,CE Casa De Portugal,1,1,5.250,4.200,1.444
+73528700,2026-10-25 10:00,FC Penya d`Andorra,CF Esperanca D Andorra,0,1,,,
+73528696,2026-10-25 13:00,Atletic Club d'Escaldes,FC Rangers,1,1,2.150,3.500,2.800
+73528694,2026-10-25 16:00,FC Ordino,CE Carroi,3,2,1.500,4.000,5.000
+73528698,2026-10-25 19:00,FC Santa Coloma,Inter Club de Escaldes,1,1,2.300,3.500,2.550
+73528706,2026-10-31 19:30,CF Esperanca D Andorra,Sporting Club DE Escaldes,5,1,1.500,4.500,4.333
+73528712,2026-11-01 10:00,FC Ordino,Atletic Club d'Escaldes,0,2,6.500,4.500,1.333
+73528704,2026-11-01 13:00,CE Carroi,CE Casa De Portugal,0,3,10.000,5.750,1.222
+73528708,2026-11-01 16:00,Inter Club de Escaldes,FC Penya d`Andorra,0,0,,,
+73528710,2026-11-01 19:00,FC Rangers,FC Santa Coloma,0,2,3.500,3.700,1.800
+73528722,2026-11-07 19:30,CE Casa De Portugal,CF Esperanca D Andorra,2,4,1.727,3.900,3.500
+73528718,2026-11-08 10:00,FC Penya d`Andorra,FC Rangers,1,0,,,
+73528716,2026-11-08 13:00,FC Santa Coloma,FC Ordino,4,0,1.142,7.000,12.000
+73528714,2026-11-08 16:00,CE Carroi,Atletic Club d'Escaldes,0,2,12.000,7.500,1.142
+73528720,2026-11-08 19:00,Sporting Club DE Escaldes,Inter Club de Escaldes,1,1,13.000,9.000,1.125

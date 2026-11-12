@@ -1,0 +1,341 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+60531201,2025-05-25 17:00,CF Motril,UD Torre Del Mar,0,0,,,
+60531203,2025-05-25 17:00,Real Jaen CF,CD Huetor Tajar,1,1,,,
+60808939,2025-06-01 10:00,UD Torre Del Mar,Real Jaen CF,1,0,,,
+63142825,2025-09-06 16:30,CD Huetor Vega,UD Melilla B,2,0,,,
+63142819,2025-09-06 17:00,CD Alhaurino,FC Marbelli,1,2,,,
+63142823,2025-09-07 10:00,CR Granada,CD Martos,1,1,,,
+63142833,2025-09-07 10:00,UD San Pedro,Atletico Mancha Real,1,2,,,
+63142827,2025-09-07 17:30,CF Motril,CD Huetor Tajar,1,0,,,
+63142837,2025-09-14 17:00,CD Torreperogil,CF Motril,0,0,,,
+63142857,2025-09-21 10:15,CD Alhaurino,CD Martos,2,1,,,
+63142861,2025-09-21 10:15,El Palo FC,FC Marbelli,2,2,,,
+63142853,2025-09-21 14:00,UDC Torredonjimeno,UD Melilla B,1,1,,,
+63142859,2025-09-21 17:00,CD Torreperogil,Churriana de la Vega CF,0,1,,,
+63142865,2025-09-21 17:00,CF Motril,CD Huetor Vega,1,0,,,
+63142905,2025-10-04 10:00,UD San Pedro,UD Melilla B,0,1,,,
+63142891,2025-10-05 10:15,CD Alhaurino,CD Huetor Tajar,2,1,,,
+63142897,2025-10-05 10:15,El Palo FC,CD Martos,2,1,,,
+63142899,2025-10-05 17:00,CF Motril,CR Granada,2,0,,,
+63142917,2025-10-11 16:00,FC Marbelli,CD Torreperogil,1,1,,,
+63142923,2025-10-11 16:00,CP Mijas-Las Lagunas,Atletico Porcuna CF,1,0,,,
+63142913,2025-10-12 10:00,CD Huetor Vega,CD Alhaurino,1,1,,,
+63142929,2025-10-19 10:15,CD Alhaurino,CR Granada,2,1,,,
+63142935,2025-10-19 10:15,El Palo FC,CD Huetor Tajar,1,3,,,
+63142957,2025-10-25 16:00,CP Mijas-Las Lagunas,Churriana de la Vega CF,4,0,,,
+63142951,2025-10-26 17:30,FC Marbelli,Arenas Armilla CD,1,0,,,
+63142977,2025-11-02 11:00,UD San Pedro,UDC Torredonjimeno,2,0,,,
+63142969,2025-11-02 11:15,El Palo FC,CR Granada,2,4,,,
+63142993,2025-11-08 17:00,CP Mijas-Las Lagunas,Atletico Mancha Real,2,0,,,
+63142989,2025-11-08 18:00,CD Martos,Arenas Armilla CD,0,2,,,
+63142985,2025-11-09 11:00,CD Huetor Vega,Atletico Porcuna CF,2,0,,,
+63142979,2025-11-09 11:15,CD Alhaurino,UD San Pedro,0,2,,,
+63142983,2025-11-09 11:30,CD Huetor Tajar,CD Torreperogil,1,0,,,
+63142981,2025-11-09 16:00,CR Granada,UD Torre Del Mar,2,0,,,
+63142995,2025-11-09 17:30,UDC Torredonjimeno,El Palo FC,1,0,,,
+63142987,2025-11-09 18:00,FC Marbelli,CF Motril,1,1,,,
+63142997,2025-11-16 10:30,Arenas Armilla CD,UD Melilla B,1,0,,,
+63143007,2025-11-16 11:00,Atletico Mancha Real,CD Martos,1,1,,,
+63143013,2025-11-16 11:00,UD Torre Del Mar,UDC Torredonjimeno,0,0,,,
+63143003,2025-11-16 11:30,Churriana de la Vega CF,CD Huetor Tajar,2,1,,,
+63143005,2025-11-16 11:30,El Palo FC,CD Alhaurino,2,1,,,
+63143009,2025-11-16 16:00,FC Marbelli,CP Mijas-Las Lagunas,1,2,,,
+63142999,2025-11-16 16:30,Atletico Porcuna CF,CR Granada,1,2,,,
+63143001,2025-11-16 16:30,CD Torreperogil,CD Huetor Vega,0,1,,,
+63143011,2025-11-16 17:00,CF Motril,UD San Pedro,3,3,,,
+63143027,2025-11-22 16:30,CP Mijas-Las Lagunas,CF Motril,1,0,,,
+63143017,2025-11-23 11:00,CR Granada,CD Torreperogil,3,0,,,
+63143031,2025-11-23 11:00,UD San Pedro,El Palo FC,2,1,,,
+63143015,2025-11-23 11:15,CD Alhaurino,UD Torre Del Mar,1,1,,,
+63143023,2025-11-23 16:00,CD Martos,FC Marbelli,1,1,,,
+63143029,2025-11-23 16:30,UDC Torredonjimeno,Atletico Porcuna CF,0,0,,,
+63143019,2025-11-23 17:00,CD Huetor Tajar,Arenas Armilla CD,0,0,,,
+63143045,2025-12-06 16:00,CP Mijas-Las Lagunas,CD Martos,4,1,,,
+63143041,2025-12-06 16:30,Atletico Mancha Real,CD Huetor Tajar,1,1,,,
+63143049,2025-12-06 17:00,UD Torre Del Mar,UD San Pedro,1,0,,,
+63143039,2025-12-07 11:30,Churriana de la Vega CF,CR Granada,2,0,,,
+63143043,2025-12-07 15:00,FC Marbelli,UD Melilla B,1,0,,,
+63143035,2025-12-07 17:00,Atletico Porcuna CF,CD Alhaurino,3,4,,,
+63143047,2025-12-07 17:00,CF Motril,El Palo FC,5,0,,,
+63143033,2025-12-07 17:30,Arenas Armilla CD,CD Huetor Vega,2,1,,,
+63143063,2025-12-13 15:00,UD Melilla B,CP Mijas-Las Lagunas,0,1,,,
+63143059,2025-12-14 11:00,CD Huetor Vega,Atletico Mancha Real,1,0,2.250,3.200,2.875
+63143067,2025-12-14 11:00,UD San Pedro,Atletico Porcuna CF,1,0,,,
+63143051,2025-12-14 11:15,CD Alhaurino,CD Torreperogil,1,0,1.750,3.400,4.000
+63143053,2025-12-14 11:30,El Palo FC,UD Torre Del Mar,0,1,3.750,3.400,1.800
+63143055,2025-12-14 15:30,CR Granada,Arenas Armilla CD,1,1,1.750,3.400,4.100
+63143061,2025-12-14 16:00,CD Martos,CF Motril,1,1,,,
+63143057,2025-12-14 16:30,CD Huetor Tajar,FC Marbelli,1,0,2.400,2.900,2.800
+63143065,2025-12-14 16:30,UDC Torredonjimeno,Churriana de la Vega CF,1,1,,,
+63143069,2025-12-20 16:30,Arenas Armilla CD,UDC Torredonjimeno,0,2,2.100,3.000,3.250
+63143073,2025-12-20 16:30,CD Torreperogil,UD San Pedro,2,0,,,
+63143077,2025-12-20 16:30,Atletico Mancha Real,CR Granada,2,0,,,
+63143083,2025-12-20 16:30,CP Mijas-Las Lagunas,CD Huetor Tajar,1,0,1.666,3.300,4.750
+63143075,2025-12-21 11:30,Churriana de la Vega CF,CD Alhaurino,0,0,1.900,3.400,3.400
+63143081,2025-12-21 12:00,CD Martos,UD Melilla B,2,0,,,
+63143079,2025-12-21 16:00,FC Marbelli,CD Huetor Vega,2,0,1.950,3.100,3.600
+63143071,2025-12-21 17:00,Atletico Porcuna CF,El Palo FC,3,0,2.100,3.300,3.000
+63143099,2026-01-03 17:00,UD Torre Del Mar,Atletico Porcuna CF,2,1,1.450,3.750,6.000
+63143091,2026-01-04 11:00,CR Granada,FC Marbelli,2,2,2.150,3.100,3.100
+63143097,2026-01-04 14:30,CF Motril,UD Melilla B,2,1,,,
+63143101,2026-01-04 17:15,UDC Torredonjimeno,Atletico Mancha Real,3,1,1.800,3.200,4.000
+63143093,2026-01-04 18:00,CD Huetor Tajar,CD Martos,2,2,,,
+67353482,2026-01-07 19:00,CD Huetor Vega,CP Mijas-Las Lagunas,1,2,2.800,3.100,2.200
+63143119,2026-01-10 15:00,UD Melilla B,CD Huetor Tajar,1,1,,,
+63143105,2026-01-10 18:00,Arenas Armilla CD,UD San Pedro,2,0,1.600,3.400,5.000
+63143111,2026-01-11 11:30,Churriana de la Vega CF,El Palo FC,1,1,1.571,3.700,4.750
+63143115,2026-01-11 16:00,FC Marbelli,UDC Torredonjimeno,3,0,,,
+63143109,2026-01-11 16:30,CD Torreperogil,UD Torre Del Mar,2,1,5.000,3.200,1.666
+63143113,2026-01-11 16:30,Atletico Mancha Real,CD Alhaurino,2,4,,,
+63143117,2026-01-11 16:30,CD Martos,CD Huetor Vega,1,0,,,
+63143121,2026-01-11 16:45,CP Mijas-Las Lagunas,CR Granada,0,0,,,
+63143107,2026-01-11 17:00,Atletico Porcuna CF,CF Motril,1,0,,,
+67772994,2026-01-14 17:30,CD Alhaurino,Arenas Armilla CD,0,0,,,
+67503034,2026-01-15 18:00,CF Motril,UD Torre Del Mar,0,4,1.750,3.200,4.200
+63143137,2026-01-17 15:00,UD Melilla B,CD Huetor Vega,1,0,,,
+63143127,2026-01-18 11:30,Churriana de la Vega CF,UD Torre Del Mar,0,1,3.000,3.200,2.200
+63143133,2026-01-18 16:00,FC Marbelli,CD Alhaurino,2,1,1.500,3.800,5.250
+63143123,2026-01-18 16:30,Arenas Armilla CD,El Palo FC,3,0,1.500,3.600,5.750
+63143125,2026-01-18 16:30,CD Torreperogil,Atletico Porcuna CF,0,3,,,
+63143131,2026-01-18 16:30,Atletico Mancha Real,UD San Pedro,1,1,,,
+63143135,2026-01-18 16:30,CD Martos,CR Granada,0,0,,,
+63143139,2026-01-18 16:30,CP Mijas-Las Lagunas,UDC Torredonjimeno,0,1,1.450,3.700,6.250
+63143129,2026-01-18 17:00,CD Huetor Tajar,CF Motril,0,2,2.700,2.900,2.500
+63143147,2026-01-24 11:30,CR Granada,UD Melilla B,0,2,1.615,3.400,4.750
+63143153,2026-01-24 17:00,UD Torre Del Mar,Arenas Armilla CD,1,1,1.727,3.500,3.900
+63143145,2026-01-25 11:00,El Palo FC,Atletico Mancha Real,2,0,,,
+63143157,2026-01-25 11:00,UD San Pedro,FC Marbelli,1,0,,,
+63143143,2026-01-25 11:15,CD Alhaurino,CP Mijas-Las Lagunas,1,1,,,
+63143149,2026-01-25 11:30,CD Huetor Vega,CD Huetor Tajar,4,2,,,
+63143151,2026-01-25 17:00,CF Motril,CD Torreperogil,4,1,1.181,5.750,12.000
+63143141,2026-01-25 17:15,Atletico Porcuna CF,Churriana de la Vega CF,0,0,2.300,3.100,2.750
+63143155,2026-01-25 17:15,UDC Torredonjimeno,CD Martos,1,0,,,
+63143173,2026-01-31 15:00,UD Melilla B,UDC Torredonjimeno,2,0,,,
+63143165,2026-01-31 16:30,CD Huetor Vega,CF Motril,1,1,,,
+63143167,2026-02-01 11:00,Atletico Mancha Real,UD Torre Del Mar,1,0,,,
+63143161,2026-02-01 11:30,Churriana de la Vega CF,CD Torreperogil,1,0,,,
+63143159,2026-02-01 16:30,Arenas Armilla CD,Atletico Porcuna CF,0,2,1.700,3.500,4.100
+63143171,2026-02-01 16:30,CD Martos,CD Alhaurino,2,1,,,
+63143163,2026-02-01 16:45,CD Huetor Tajar,CR Granada,1,1,,,
+63143169,2026-02-01 17:00,FC Marbelli,El Palo FC,1,1,,,
+63143175,2026-02-01 17:00,CP Mijas-Las Lagunas,UD San Pedro,3,1,1.571,3.600,5.000
+63143197,2026-02-15 11:00,CR Granada,CF Motril,2,2,2.750,3.100,2.350
+63143203,2026-02-15 11:00,Atletico Mancha Real,CD Torreperogil,3,0,,,
+63143199,2026-02-15 16:00,CD Huetor Tajar,CD Alhaurino,0,2,,,
+63143205,2026-02-15 16:00,FC Marbelli,Atletico Porcuna CF,1,0,,,
+63143207,2026-02-15 16:00,CD Martos,El Palo FC,3,0,,,
+63143195,2026-02-15 16:30,Arenas Armilla CD,Churriana de la Vega CF,3,0,2.100,3.000,3.400
+63143201,2026-02-15 17:00,CD Huetor Vega,UDC Torredonjimeno,1,2,,,
+63143211,2026-02-15 17:00,CP Mijas-Las Lagunas,UD Torre Del Mar,1,1,,,
+63143225,2026-02-22 11:00,UD Torre Del Mar,CD Martos,1,0,1.500,3.600,5.750
+63143229,2026-02-22 11:00,UD San Pedro,CD Huetor Tajar,0,0,,,
+63143219,2026-02-22 11:30,Churriana de la Vega CF,Atletico Mancha Real,1,0,,,
+63143221,2026-02-22 11:30,El Palo FC,UD Melilla B,1,1,,,
+63143215,2026-02-22 16:30,CD Alhaurino,CD Huetor Vega,1,2,,,
+63143217,2026-02-22 16:30,CD Torreperogil,FC Marbelli,0,2,,,
+63143213,2026-02-22 17:00,Atletico Porcuna CF,CP Mijas-Las Lagunas,0,1,,,
+63143223,2026-02-22 17:00,CF Motril,Arenas Armilla CD,1,1,1.571,3.500,5.000
+63143227,2026-02-22 17:15,UDC Torredonjimeno,CR Granada,2,0,,,
+63143231,2026-02-28 11:00,CR Granada,CD Alhaurino,3,1,,,
+63143243,2026-02-28 15:00,UD Melilla B,UD Torre Del Mar,0,0,,,
+63143241,2026-02-28 17:00,CD Martos,Atletico Porcuna CF,0,1,,,
+63143245,2026-02-28 17:00,CP Mijas-Las Lagunas,CD Torreperogil,2,1,1.142,6.000,17.000
+63143235,2026-03-01 11:00,CD Huetor Vega,UD San Pedro,2,1,1.850,3.300,3.750
+63143237,2026-03-01 11:00,Atletico Mancha Real,Arenas Armilla CD,0,2,,,
+63143239,2026-03-01 15:30,FC Marbelli,Churriana de la Vega CF,1,2,,,
+63143247,2026-03-01 16:30,UDC Torredonjimeno,CF Motril,1,3,,,
+63143233,2026-03-01 17:00,CD Huetor Tajar,El Palo FC,2,1,1.650,3.400,4.750
+68939054,2026-03-04 15:30,CD Alhaurino,UD Melilla B,1,1,,,
+69116198,2026-03-04 18:30,UDC Torredonjimeno,CD Huetor Tajar,1,3,1.833,3.250,3.900
+69116200,2026-03-04 19:00,CR Granada,CD Huetor Vega,0,1,1.900,3.200,3.600
+68939102,2026-03-04 19:30,El Palo FC,CP Mijas-Las Lagunas,1,0,3.900,3.400,1.750
+63143249,2026-03-07 18:00,Arenas Armilla CD,FC Marbelli,2,1,2.050,3.000,3.500
+63143263,2026-03-08 11:00,UD Torre Del Mar,CD Huetor Tajar,1,2,1.615,3.300,5.000
+63143265,2026-03-08 11:00,UD San Pedro,CR Granada,1,1,,,
+63143253,2026-03-08 11:15,CD Alhaurino,UDC Torredonjimeno,1,1,,,
+63143257,2026-03-08 11:30,Churriana de la Vega CF,CP Mijas-Las Lagunas,0,0,,,
+63143259,2026-03-08 11:30,El Palo FC,CD Huetor Vega,1,1,,,
+63143251,2026-03-08 12:00,Atletico Porcuna CF,UD Melilla B,1,0,2.250,2.800,3.200
+63143255,2026-03-08 17:00,CD Torreperogil,CD Martos,2,0,3.400,2.875,2.150
+63143261,2026-03-08 17:00,CF Motril,Atletico Mancha Real,3,1,1.400,3.800,7.000
+69116206,2026-03-11 18:30,UD San Pedro,CD Martos,1,1,2.000,3.200,3.400
+63143279,2026-03-14 15:00,UD Melilla B,CD Torreperogil,0,0,,,
+63143269,2026-03-15 11:00,CR Granada,El Palo FC,1,0,,,
+63143273,2026-03-15 11:00,CD Huetor Vega,UD Torre Del Mar,1,1,2.500,3.000,2.550
+63143267,2026-03-15 11:15,CD Alhaurino,CF Motril,0,1,4.100,3.600,1.666
+63143275,2026-03-15 16:00,FC Marbelli,Atletico Mancha Real,1,0,1.727,3.200,4.500
+63143281,2026-03-15 17:00,CP Mijas-Las Lagunas,Arenas Armilla CD,0,1,1.800,3.100,4.200
+63143283,2026-03-15 17:15,UDC Torredonjimeno,UD San Pedro,0,1,,,
+63143271,2026-03-15 17:30,CD Huetor Tajar,Atletico Porcuna CF,1,2,1.750,3.200,4.333
+63143277,2026-03-15 17:30,CD Martos,Churriana de la Vega CF,2,0,,,
+63143291,2026-03-21 11:30,Churriana de la Vega CF,UD Melilla B,2,1,2.050,3.100,3.250
+63143295,2026-03-21 16:30,Atletico Mancha Real,CP Mijas-Las Lagunas,1,0,,,
+63143299,2026-03-22 11:00,UD Torre Del Mar,CR Granada,3,2,1.727,3.250,4.500
+63143301,2026-03-22 11:00,UD San Pedro,CD Alhaurino,0,0,,,
+63143293,2026-03-22 11:30,El Palo FC,UDC Torredonjimeno,3,0,3.000,3.200,2.150
+63143285,2026-03-22 16:30,Arenas Armilla CD,CD Martos,3,2,1.571,3.500,5.250
+63143287,2026-03-22 16:30,Atletico Porcuna CF,CD Huetor Vega,2,2,2.100,3.100,3.200
+63143289,2026-03-22 17:00,CD Torreperogil,CD Huetor Tajar,2,1,3.200,3.000,2.100
+63143297,2026-03-22 17:00,CF Motril,FC Marbelli,0,0,1.500,3.700,5.750
+63143313,2026-03-28 14:00,UD Melilla B,Arenas Armilla CD,3,0,,,
+63143307,2026-03-28 17:00,CD Huetor Tajar,Churriana de la Vega CF,1,1,,,
+63143311,2026-03-28 17:00,CD Martos,Atletico Mancha Real,0,2,,,
+63143317,2026-03-28 17:00,UDC Torredonjimeno,UD Torre Del Mar,0,0,,,
+63143315,2026-03-28 19:45,CP Mijas-Las Lagunas,FC Marbelli,1,0,1.750,3.200,4.333
+63143305,2026-03-29 10:00,CR Granada,Atletico Porcuna CF,3,1,1.750,3.300,4.000
+63143309,2026-03-29 10:00,CD Huetor Vega,CD Torreperogil,0,2,1.600,3.400,5.000
+63143319,2026-03-29 10:00,UD San Pedro,CF Motril,2,1,3.250,3.250,2.000
+63143303,2026-03-29 10:15,CD Alhaurino,El Palo FC,2,1,1.571,3.600,5.000
+69315018,2026-04-01 10:30,UD Melilla B,UD San Pedro,1,1,,,
+69116204,2026-04-01 16:00,UD Torre Del Mar,FC Marbelli,0,0,1.800,3.200,4.000
+69116210,2026-04-01 17:00,Atletico Porcuna CF,Atletico Mancha Real,0,0,2.050,3.200,3.250
+69116208,2026-04-01 17:30,CD Torreperogil,Arenas Armilla CD,1,0,3.250,3.100,2.050
+63143325,2026-04-04 16:00,CD Torreperogil,CR Granada,2,1,2.900,3.200,2.150
+63143323,2026-04-04 16:30,Atletico Porcuna CF,UDC Torredonjimeno,3,1,,,
+63143329,2026-04-05 10:00,El Palo FC,UD San Pedro,0,2,2.450,3.200,2.600
+63143337,2026-04-05 10:00,UD Torre Del Mar,CD Alhaurino,1,0,,,
+63143327,2026-04-05 10:30,Churriana de la Vega CF,CD Huetor Vega,1,4,,,
+63143331,2026-04-05 11:00,Atletico Mancha Real,UD Melilla B,0,0,,,
+63143333,2026-04-05 16:00,FC Marbelli,CD Martos,1,2,,,
+63143335,2026-04-05 16:00,CF Motril,CP Mijas-Las Lagunas,2,2,,,
+63143321,2026-04-05 17:00,Arenas Armilla CD,CD Huetor Tajar,1,1,,,
+63143351,2026-04-11 14:00,UD Melilla B,FC Marbelli,0,1,,,
+63143345,2026-04-11 17:00,CD Huetor Tajar,Atletico Mancha Real,2,1,1.850,3.100,3.900
+63143341,2026-04-12 10:00,El Palo FC,CF Motril,0,1,,,
+63143347,2026-04-12 10:00,CD Huetor Vega,Arenas Armilla CD,1,1,2.350,3.000,2.900
+63143355,2026-04-12 10:00,UD San Pedro,UD Torre Del Mar,0,0,,,
+63143339,2026-04-12 10:15,CD Alhaurino,Atletico Porcuna CF,3,0,,,
+63143349,2026-04-12 15:30,CD Martos,CP Mijas-Las Lagunas,0,0,,,
+63143353,2026-04-12 16:00,UDC Torredonjimeno,CD Torreperogil,3,0,,,
+63143343,2026-04-12 16:15,CR Granada,Churriana de la Vega CF,2,2,1.700,3.300,4.100
+63143357,2026-04-18 17:00,Arenas Armilla CD,CR Granada,3,2,,,
+63143365,2026-04-19 10:00,Atletico Mancha Real,CD Huetor Vega,2,1,2.100,3.100,3.200
+63143369,2026-04-19 10:00,CP Mijas-Las Lagunas,UD Melilla B,4,1,1.363,4.000,8.000
+63143371,2026-04-19 10:00,CF Motril,CD Martos,2,0,1.300,4.500,7.500
+63143373,2026-04-19 10:00,UD Torre Del Mar,El Palo FC,1,1,,,
+63143363,2026-04-19 10:30,Churriana de la Vega CF,UDC Torredonjimeno,1,0,,,
+63143367,2026-04-19 16:00,FC Marbelli,CD Huetor Tajar,2,1,,,
+63143359,2026-04-19 16:30,Atletico Porcuna CF,UD San Pedro,2,3,2.400,3.000,2.750
+63143361,2026-04-19 16:30,CD Torreperogil,CD Alhaurino,2,0,,,
+63143385,2026-04-25 14:00,UD Melilla B,CD Martos,0,0,,,
+63143377,2026-04-25 17:00,El Palo FC,Atletico Porcuna CF,1,2,,,
+63143381,2026-04-26 10:00,CD Huetor Tajar,CP Mijas-Las Lagunas,0,0,,,
+63143383,2026-04-26 10:00,CD Huetor Vega,FC Marbelli,1,1,,,
+63143387,2026-04-26 10:00,UD Torre Del Mar,CF Motril,2,1,,,
+63143391,2026-04-26 10:00,UD San Pedro,CD Torreperogil,0,0,,,
+63143375,2026-04-26 10:15,CD Alhaurino,Churriana de la Vega CF,0,0,,,
+63143379,2026-04-26 16:30,CR Granada,Atletico Mancha Real,2,2,,,
+63143389,2026-04-26 17:00,UDC Torredonjimeno,Arenas Armilla CD,0,0,,,
+63143393,2026-05-03 10:00,Arenas Armilla CD,CD Alhaurino,0,0,,,
+63143395,2026-05-03 10:00,Atletico Porcuna CF,UD Torre Del Mar,0,0,,,
+63143397,2026-05-03 10:00,CD Torreperogil,El Palo FC,0,0,,,
+63143399,2026-05-03 10:00,Churriana de la Vega CF,UD San Pedro,0,0,,,
+63143401,2026-05-03 10:00,Atletico Mancha Real,UDC Torredonjimeno,0,0,,,
+63143403,2026-05-03 10:00,FC Marbelli,CR Granada,0,1,,,
+63143405,2026-05-03 10:00,CD Martos,CD Huetor Tajar,0,0,,,
+63143409,2026-05-03 10:00,CP Mijas-Las Lagunas,CD Huetor Vega,0,0,,,
+63143411,2026-05-10 10:00,CD Alhaurino,Atletico Mancha Real,1,1,,,
+63143413,2026-05-10 10:00,El Palo FC,Churriana de la Vega CF,0,2,,,
+63143415,2026-05-10 10:00,CR Granada,CP Mijas-Las Lagunas,0,0,,,
+63143417,2026-05-10 10:00,CD Huetor Tajar,UD Melilla B,3,1,,,
+63143419,2026-05-10 10:00,CD Huetor Vega,CD Martos,0,0,,,
+63143421,2026-05-10 10:00,CF Motril,Atletico Porcuna CF,2,1,,,
+63143423,2026-05-10 10:00,UD Torre Del Mar,CD Torreperogil,0,0,,,
+63143425,2026-05-10 10:00,UDC Torredonjimeno,FC Marbelli,0,0,,,
+63143427,2026-05-10 10:00,UD San Pedro,Arenas Armilla CD,2,1,,,
+71483358,2026-05-17 10:30,Churriana de la Vega CF,CF Motril,1,1,3.200,3.000,2.150
+71483360,2026-05-17 17:00,Arenas Armilla CD,UD Torre Del Mar,1,0,,,
+71483364,2026-05-24 10:00,UD Torre Del Mar,Arenas Armilla CD,0,1,,,
+71483362,2026-05-24 17:00,CF Motril,Churriana de la Vega CF,0,0,1.571,3.400,5.250
+71752926,2026-05-31 17:00,Arenas Armilla CD,CF Motril,1,0,2.600,,2.600
+71753014,2026-06-07 17:00,CF Motril,Arenas Armilla CD,1,1,,,
+73582732,2026-09-05 10:30,UDC Torredonjimeno,UD Melilla,1,2,,,
+73582730,2026-09-05 17:30,CD Huetor Vega,CF Motril,0,0,3.250,3.100,2.050
+73582734,2026-09-05 18:00,Atletico Mancha Real,FC Marbelli,1,1,,,
+73582722,2026-09-06 10:00,UD San Pedro,Atletico Malagueno,1,0,,,
+73582724,2026-09-06 10:00,CD Alhaurino,CR Granada,0,0,2.625,3.200,2.400
+73582728,2026-09-06 10:00,UD Torre Del Mar,Churriana de la Vega CF,1,0,1.909,3.200,3.700
+73582720,2026-09-06 17:00,Atletico Porcuna CF,CD Cantoria 2017 FC,1,0,,,
+73582726,2026-09-06 17:00,CD Malaga Juniors FC,UD Almeria B,1,2,2.800,3.000,2.375
+73582736,2026-09-06 17:00,CD Atletico de Marbella Paraiso,Arenas Armilla CD,0,2,,,
+73582750,2026-09-12 14:00,UD Melilla,CD Huetor Vega,3,0,,,
+73582740,2026-09-12 16:00,Atletico Malagueno,Atletico Porcuna CF,6,1,1.571,3.500,5.000
+73582744,2026-09-13 10:00,UD Almeria B,CD Alhaurino,2,0,1.650,3.600,4.500
+73582746,2026-09-13 10:30,Churriana de la Vega CF,CD Malaga Juniors FC,4,1,1.900,3.400,3.300
+73582742,2026-09-13 16:00,CR Granada,UD San Pedro,4,0,,,
+73582738,2026-09-13 16:30,CD Cantoria 2017 FC,CD Atletico de Marbella Paraiso,1,1,,,
+73582752,2026-09-13 17:00,FC Marbelli,UDC Torredonjimeno,2,1,1.909,3.100,3.750
+73582754,2026-09-13 17:00,Arenas Armilla CD,Atletico Mancha Real,1,0,1.650,3.300,4.750
+73582748,2026-09-13 18:00,CF Motril,UD Torre Del Mar,1,1,1.750,3.100,4.333
+73582760,2026-09-20 10:00,UD San Pedro,UD Almeria B,1,0,,,
+73582766,2026-09-20 10:00,UD Torre Del Mar,UD Melilla,1,2,,,
+73582768,2026-09-20 10:00,CD Huetor Vega,FC Marbelli,1,3,2.500,3.000,2.625
+73582762,2026-09-20 10:15,CD Alhaurino,Churriana de la Vega CF,2,1,2.250,3.100,2.875
+73582756,2026-09-20 16:30,CD Cantoria 2017 FC,Atletico Malagueno,2,2,,,
+73582764,2026-09-20 16:30,CD Malaga Juniors FC,CF Motril,1,2,,,
+73582758,2026-09-20 17:00,Atletico Porcuna CF,CR Granada,2,1,3.100,3.250,2.100
+73582770,2026-09-20 17:00,UDC Torredonjimeno,Arenas Armilla CD,1,1,,,
+73582772,2026-09-20 17:00,CD Atletico de Marbella Paraiso,Atletico Mancha Real,1,0,,,
+73582774,2026-09-26 17:00,Atletico Malagueno,CD Atletico de Marbella Paraiso,1,0,1.400,4.200,6.250
+73582778,2026-09-27 10:00,UD Almeria B,Atletico Porcuna CF,4,0,1.450,3.800,6.000
+73582788,2026-09-27 10:15,Arenas Armilla CD,CD Huetor Vega,3,3,1.700,3.250,4.500
+73582780,2026-09-27 10:30,Churriana de la Vega CF,UD San Pedro,1,3,,,
+73582784,2026-09-27 10:30,UD Melilla,CD Malaga Juniors FC,2,0,,,
+73582776,2026-09-27 15:30,CR Granada,CD Cantoria 2017 FC,2,0,1.363,4.100,7.500
+73582782,2026-09-27 17:00,CF Motril,CD Alhaurino,2,0,1.500,3.900,5.500
+73582786,2026-09-27 17:00,FC Marbelli,UD Torre Del Mar,1,0,2.150,3.100,3.250
+73582790,2026-09-27 17:30,Atletico Mancha Real,UDC Torredonjimeno,1,1,,,
+73582802,2026-10-03 16:00,Atletico Malagueno,CR Granada,2,0,1.850,3.300,3.700
+73582792,2026-10-04 10:00,CD Alhaurino,UD Melilla,1,2,3.500,3.200,1.950
+73582796,2026-10-04 10:00,UD Torre Del Mar,Arenas Armilla CD,0,1,,,
+73582798,2026-10-04 10:00,CD Huetor Vega,Atletico Mancha Real,3,0,2.350,3.100,2.750
+73582808,2026-10-04 10:00,UD San Pedro,CF Motril,2,3,,,
+73582804,2026-10-04 15:00,CD Cantoria 2017 FC,UD Almeria B,1,1,,,
+73582794,2026-10-04 16:15,CD Malaga Juniors FC,FC Marbelli,0,1,2.600,3.300,2.300
+73582800,2026-10-04 16:30,CD Atletico de Marbella Paraiso,UDC Torredonjimeno,0,1,,,
+73582806,2026-10-04 17:00,Atletico Porcuna CF,Churriana de la Vega CF,2,3,,,
+73582820,2026-10-10 16:00,FC Marbelli,CD Alhaurino,0,2,,,
+73582810,2026-10-11 10:00,CR Granada,CD Atletico de Marbella Paraiso,2,1,,,
+73582812,2026-10-11 10:00,UD Almeria B,Atletico Malagueno,2,1,2.000,3.250,3.300
+73582824,2026-10-11 10:00,Atletico Mancha Real,UD Torre Del Mar,1,3,,,
+73582814,2026-10-11 10:30,Churriana de la Vega CF,CD Cantoria 2017 FC,3,0,1.666,3.500,4.333
+73582818,2026-10-11 10:30,UD Melilla,UD San Pedro,2,0,,,
+73582816,2026-10-11 16:00,CF Motril,Atletico Porcuna CF,1,1,1.300,4.750,7.500
+73582822,2026-10-11 16:00,Arenas Armilla CD,CD Malaga Juniors FC,5,1,1.480,3.800,6.000
+73582826,2026-10-11 16:00,UDC Torredonjimeno,CD Huetor Vega,3,1,,,
+73582842,2026-10-17 16:00,UD Torre Del Mar,UDC Torredonjimeno,0,2,2.050,3.100,3.250
+73582828,2026-10-18 10:00,CR Granada,UD Almeria B,0,1,2.250,3.250,2.700
+73582830,2026-10-18 10:00,Atletico Malagueno,Churriana de la Vega CF,1,1,1.700,3.800,4.100
+73582832,2026-10-18 10:00,CD Cantoria 2017 FC,CF Motril,0,2,4.200,3.500,1.700
+73582836,2026-10-18 10:00,UD San Pedro,FC Marbelli,2,0,,,
+73582838,2026-10-18 10:15,CD Alhaurino,Arenas Armilla CD,2,2,2.750,3.100,2.375
+73582834,2026-10-18 10:30,Atletico Porcuna CF,UD Melilla,2,0,,,
+73582844,2026-10-18 15:00,CD Atletico de Marbella Paraiso,CD Huetor Vega,2,2,,,
+73582840,2026-10-18 16:00,CD Malaga Juniors FC,Atletico Mancha Real,1,2,2.150,3.250,2.875
+73582852,2026-10-24 09:00,UD Melilla,CD Cantoria 2017 FC,2,0,,,
+73582846,2026-10-25 11:00,UD Almeria B,CD Atletico de Marbella Paraiso,2,2,1.285,5.000,7.500
+73582856,2026-10-25 11:00,Arenas Armilla CD,UD San Pedro,1,0,1.727,3.500,4.000
+73582858,2026-10-25 11:00,Atletico Mancha Real,CD Alhaurino,0,0,,,
+73582862,2026-10-25 11:00,CD Huetor Vega,UD Torre Del Mar,0,0,,,
+73582848,2026-10-25 11:30,Churriana de la Vega CF,CR Granada,0,0,,,
+73582850,2026-10-25 16:00,CF Motril,Atletico Malagueno,2,4,1.909,3.400,3.400
+73582854,2026-10-25 16:30,FC Marbelli,Atletico Porcuna CF,0,0,1.533,3.700,5.250
+73582860,2026-10-25 16:30,UDC Torredonjimeno,CD Malaga Juniors FC,4,1,,,
+73582868,2026-10-31 10:00,Atletico Malagueno,UD Melilla,2,2,2.100,3.100,3.100
+73582870,2026-10-31 16:30,CD Cantoria 2017 FC,FC Marbelli,0,0,,,
+73582866,2026-11-01 10:30,CR Granada,CF Motril,1,1,,,
+73582864,2026-11-01 11:00,UD Almeria B,Churriana de la Vega CF,0,0,1.571,3.600,6.000
+73582874,2026-11-01 11:00,UD San Pedro,Atletico Mancha Real,2,0,,,
+73582880,2026-11-01 11:00,CD Atletico de Marbella Paraiso,UD Torre Del Mar,0,0,,,
+73582876,2026-11-01 11:15,CD Alhaurino,UDC Torredonjimeno,2,3,,,
+73582878,2026-11-01 15:30,CD Malaga Juniors FC,CD Huetor Vega,0,1,2.600,3.300,2.350
+73582872,2026-11-01 17:00,Atletico Porcuna CF,Arenas Armilla CD,0,0,,,
+73582890,2026-11-08 11:00,Arenas Armilla CD,CD Cantoria 2017 FC,2,1,,,
+73582892,2026-11-08 11:00,Atletico Mancha Real,Atletico Porcuna CF,3,3,,,
+73582896,2026-11-08 11:00,CD Huetor Vega,CD Alhaurino,2,1,1.909,3.200,3.700
+73582898,2026-11-08 11:00,UD Torre Del Mar,CD Malaga Juniors FC,1,0,,,
+73582882,2026-11-08 11:30,Churriana de la Vega CF,CD Atletico de Marbella Paraiso,2,0,,,
+73582886,2026-11-08 15:00,UD Melilla,CR Granada,0,0,,,
+73582884,2026-11-08 16:00,CF Motril,UD Almeria B,0,0,2.450,3.000,2.700
+73582888,2026-11-08 16:30,FC Marbelli,Atletico Malagueno,0,1,2.700,3.200,2.400
+73582894,2026-11-08 16:30,UDC Torredonjimeno,UD San Pedro,3,1,,,

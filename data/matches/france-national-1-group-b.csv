@@ -1,0 +1,39 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+73080156,2026-09-05 15:00,FC Lorient B,Aviron Bayonnais FC,0,1,,,
+73080140,2026-09-05 16:00,US Saint-Malo,Stade Briochin,0,0,,,
+73080220,2026-09-11 17:00,Aviron Bayonnais FC,Voltigeurs de Chateaubriant,2,1,,,
+73080226,2026-09-11 17:00,Stade Briochin,US Granville,2,2,1.666,3.500,4.333
+73080192,2026-09-11 17:30,FC Chauray,Les Herbiers,1,2,3.000,3.400,2.100
+73080214,2026-09-13 13:00,US Saint-Malo,Saint-Colomban Locmine,1,0,,,
+73080244,2026-09-19 15:00,FC Lorient B,Vendee Poire-Sur-Vie Football,1,2,,,
+73080314,2026-10-02 17:00,Aviron Bayonnais FC,Les Herbiers,0,1,,,
+73080320,2026-10-02 17:00,Stade Briochin,FC Lorient B,1,3,1.650,3.600,4.750
+73080280,2026-10-02 18:00,FC Chauray,US Avranches,0,2,2.600,3.250,2.375
+73080296,2026-10-03 14:00,Vendee Poire-Sur-Vie Football,Voltigeurs de Chateaubriant,3,0,,,
+73080286,2026-10-03 16:00,Tarbes Pyrenees,Dinan-Lehon FC,0,0,,,
+73080292,2026-10-03 16:00,Pontivy GSI,Angouleme Charente FC,0,1,,,
+73080302,2026-10-03 16:00,US Saint-Malo,Olympique Saumur FC,2,1,,,
+73080308,2026-10-03 16:00,US Granville,Saint-Colomban Locmine,2,1,,,
+73080332,2026-10-17 15:00,FC Lorient B,US Saint-Malo,3,1,,,
+73080326,2026-10-17 16:00,Olympique Saumur FC,US Granville,2,1,,,
+73080338,2026-10-17 16:00,Voltigeurs de Chateaubriant,Stade Briochin,1,1,3.600,3.400,1.833
+73080344,2026-10-17 16:00,Angouleme Charente FC,Vendee Poire-Sur-Vie Football,2,1,,,
+73080350,2026-10-17 16:00,Les Herbiers,Pontivy GSI,0,0,,,
+73080356,2026-10-17 16:00,Dinan-Lehon FC,Aviron Bayonnais FC,0,2,,,
+73080362,2026-10-17 16:00,US Avranches,Tarbes Pyrenees,2,0,1.750,3.400,4.000
+73080368,2026-10-17 16:00,Saint-Colomban Locmine,FC Chauray,3,1,,,
+73080386,2026-10-30 18:00,Vendee Poire-Sur-Vie Football,Les Herbiers,1,1,2.200,3.200,2.900
+73080410,2026-10-30 18:00,Aviron Bayonnais FC,US Avranches,0,3,2.150,3.200,3.100
+73080416,2026-10-30 18:00,Stade Briochin,Angouleme Charente FC,0,1,2.500,3.100,2.550
+73080372,2026-10-31 17:00,Tarbes Pyrenees,FC Chauray,2,1,1.800,2.900,4.750
+73080378,2026-10-31 17:00,Pontivy GSI,Dinan-Lehon FC,2,2,,,
+73080392,2026-10-31 17:00,US Saint-Malo,Voltigeurs de Chateaubriant,1,1,,,
+73080398,2026-10-31 17:00,US Granville,FC Lorient B,0,0,,,
+73080404,2026-10-31 17:00,Olympique Saumur FC,Saint-Colomban Locmine,0,1,,,
+73080440,2026-11-06 17:00,Les Herbiers,Stade Briochin,2,1,,,
+73080456,2026-11-06 18:00,FC Chauray,Aviron Bayonnais FC,0,0,,,
+73080422,2026-11-07 16:00,FC Lorient B,Olympique Saumur FC,6,2,,,
+73080428,2026-11-07 17:00,Voltigeurs de Chateaubriant,US Granville,1,0,,,
+73080446,2026-11-07 17:00,Dinan-Lehon FC,Vendee Poire-Sur-Vie Football,1,0,,,
+73080450,2026-11-07 17:00,US Avranches,Pontivy GSI,2,0,1.500,3.600,6.000
+73080462,2026-11-07 17:00,Saint-Colomban Locmine,Tarbes Pyrenees,0,0,,,

@@ -1,0 +1,351 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+54641563,2025-05-24 10:00,Wisla II Krakow,Lewart Lubartow,4,2,,,
+54641567,2025-05-24 13:00,Avia Swidnik,KSZO Ostrowiec Swietokrzyski,3,2,,,
+54641571,2025-05-24 15:00,Wislanie Skawina,Sandecja Nowy Sacz,2,1,,,
+54641577,2025-05-30 11:30,ZKS Unia Tarnow,Podhale Nowy Targ,1,2,,,
+54641585,2025-05-30 16:00,Swidniczanka Swidnik,Avia Swidnik,1,2,,,
+54641591,2025-05-31 15:00,KS Wiazownica,Wisla II Krakow,0,3,,,
+54641587,2025-05-31 17:29,KSZO Ostrowiec Swietokrzyski,KS Wisloka Debica,1,1,,,
+54641605,2025-06-07 13:00,Avia Swidnik,Sandecja Nowy Sacz,3,0,,,
+54641609,2025-06-07 13:00,Wislanie Skawina,Chelmianka Chelm,3,2,,,
+62035748,2025-08-08 15:00,Wislanie Skawina,Sparta Kazimierza Wielka,2,0,,,
+62035744,2025-08-09 10:00,Wisla II Krakow,FKS Stal Krasnik,1,0,,,
+62035742,2025-08-10 13:00,Swidniczanka Swidnik,Siarka Tarnobrzeg,1,2,,,
+62035750,2025-08-16 10:00,Cracovia Krakow II,Pogon Sokol Lubaczow,3,2,,,
+62035766,2025-08-16 10:00,Wisla II Krakow,Chelmianka Chelm,2,4,,,
+62035764,2025-08-16 14:00,Swidniczanka Swidnik,Korona II Kielce SA,1,2,,,
+62035768,2025-08-22 15:00,Avia Swidnik,Sparta Kazimierza Wielka,4,0,,,
+62035784,2025-08-22 15:00,Wislanie Skawina,Cracovia Krakow II,6,2,,,
+62035778,2025-08-22 15:30,Sokol Kolbuszowa Dolna,Wisla II Krakow,1,2,,,
+62035802,2025-08-27 11:00,Wisla II Krakow,Avia Swidnik,2,3,,,
+62035794,2025-08-27 15:00,Siarka Tarnobrzeg,Star Starachowice,2,2,,,
+62035796,2025-08-27 15:00,Sparta Kazimierza Wielka,Korona II Kielce SA,2,3,,,
+62035800,2025-08-27 15:00,Swidniczanka Swidnik,KS Wisloka Debica,1,1,,,
+62035786,2025-08-27 17:00,Cracovia Krakow II,KS Naprzod Jedrzejow,1,1,,,
+62035820,2025-08-31 10:00,Wislanie Skawina,Swidniczanka Swidnik,2,1,,,
+62035804,2025-08-31 14:00,Avia Swidnik,KSZO Ostrowiec Swietokrzyski,1,2,,,
+62035836,2025-09-05 18:00,Wisla II Krakow,MKS Czarni Polaniec,2,4,,,
+62035830,2025-09-06 14:00,Siarka Tarnobrzeg,Korona II Kielce SA,3,1,,,
+62035822,2025-09-06 17:30,Cracovia Krakow II,Avia Swidnik,4,5,,,
+62035856,2025-09-12 14:30,Wislanie Skawina,FKS Stal Krasnik,1,0,,,
+62035844,2025-09-13 14:00,KS Naprzod Jedrzejow,Wisla II Krakow,3,2,,,
+62035852,2025-09-13 14:00,Swidniczanka Swidnik,Cracovia Krakow II,1,2,,,
+62035860,2025-09-20 10:00,Cracovia Krakow II,MKS Czarni Polaniec,1,0,,,
+62035874,2025-09-20 10:00,Wisla II Krakow,Wislanie Skawina,1,2,,,
+62035858,2025-09-20 13:00,Avia Swidnik,Swidniczanka Swidnik,2,3,,,
+62035890,2025-09-26 17:08,KS Wisloka Debica,Pogon Sokol Lubaczow,1,0,,,
+62035886,2025-09-27 14:00,Sokol Kolbuszowa Dolna,Cracovia Krakow II,0,1,,,
+62035910,2025-10-04 10:00,Wisla II Krakow,KS Wisloka Debica,1,2,,,
+62035896,2025-10-05 11:00,Cracovia Krakow II,MKS Podlasie Biala Podlaska,2,4,,,
+62035916,2025-10-10 16:00,Cracovia Krakow II,Sparta Kazimierza Wielka,1,0,,,
+62035938,2025-10-18 10:00,FKS Stal Krasnik,Cracovia Krakow II,2,2,,,
+62035944,2025-10-18 10:00,Wisla II Krakow,KSZO Ostrowiec Swietokrzyski,0,0,,,
+62035932,2025-10-18 13:00,Siarka Tarnobrzeg,Avia Swidnik,2,2,,,
+62035942,2025-10-18 13:00,Swidniczanka Swidnik,MKS Podlasie Biala Podlaska,1,2,,,
+62035948,2025-10-25 12:00,Avia Swidnik,Star Starachowice,1,1,,,
+62035980,2025-10-31 11:00,Wisla II Krakow,Siarka Tarnobrzeg,2,2,,,
+62035970,2025-10-31 13:00,Sokol Kolbuszowa Dolna,KSZO Ostrowiec Swietokrzyski,1,5,,,
+62035972,2025-10-31 13:00,Sparta Kazimierza Wielka,Pogon Sokol Lubaczow,0,3,,,
+62035978,2025-10-31 13:00,Swidniczanka Swidnik,KS Naprzod Jedrzejow,0,2,,,
+62035986,2025-11-07 17:00,KSZO Ostrowiec Swietokrzyski,Cracovia Krakow II,5,0,,,
+62036000,2025-11-08 12:00,Wislanie Skawina,Sokol Kolbuszowa Dolna,2,2,,,
+62035984,2025-11-08 13:00,MKS Czarni Polaniec,Korona II Kielce SA,4,0,,,
+62035996,2025-11-08 13:00,Swidniczanka Swidnik,FKS Stal Krasnik,2,1,,,
+62035990,2025-11-08 15:00,MKS Podlasie Biala Podlaska,Star Starachowice,2,1,,,
+62035998,2025-11-08 18:08,KS Wisloka Debica,Avia Swidnik,0,2,,,
+62036006,2025-11-14 17:00,Cracovia Krakow II,Siarka Tarnobrzeg,0,0,,,
+62036002,2025-11-15 11:00,Avia Swidnik,MKS Czarni Polaniec,5,3,,,
+62036018,2025-11-15 11:00,Wisla II Krakow,MKS Podlasie Biala Podlaska,2,0,,,
+62036016,2025-11-15 12:00,Star Starachowice,Pogon Sokol Lubaczow,1,0,,,
+62036010,2025-11-15 12:30,Sokol Kolbuszowa Dolna,Swidniczanka Swidnik,3,0,,,
+62036012,2025-11-16 12:00,Sparta Kazimierza Wielka,KSZO Ostrowiec Swietokrzyski,2,4,,,
+62036028,2025-11-22 15:00,Star Starachowice,FKS Stal Krasnik,2,0,,,
+62036032,2025-11-22 16:00,Wisla II Krakow,Sparta Kazimierza Wielka,8,0,,,
+62036020,2025-11-23 11:00,Chelmianka Chelm,MKS Podlasie Biala Podlaska,1,0,,,
+62036022,2025-11-23 11:00,Korona II Kielce SA,Sokol Kolbuszowa Dolna,5,0,,,
+62036040,2025-11-29 10:00,Cracovia Krakow II,Star Starachowice,0,2,,,
+62036038,2025-11-29 11:00,Avia Swidnik,KS Naprzod Jedrzejow,4,1,,,
+62036042,2025-11-29 11:00,MKS Czarni Polaniec,Pogon Sokol Lubaczow,3,2,,,
+62036050,2025-11-29 11:00,Sokol Kolbuszowa Dolna,Chelmianka Chelm,0,3,,,
+62036048,2025-11-29 12:00,Siarka Tarnobrzeg,Swidniczanka Swidnik,6,1,,,
+62036058,2026-02-28 11:00,Chelmianka Chelm,Wisla II Krakow,2,1,,,
+62036068,2026-02-28 12:00,Star Starachowice,Sparta Kazimierza Wielka,4,0,,,
+62036056,2026-02-28 13:00,Avia Swidnik,FKS Stal Krasnik,2,0,,,
+62036066,2026-02-28 13:00,Sokol Kolbuszowa Dolna,Siarka Tarnobrzeg,4,1,,,
+62036072,2026-02-28 13:00,Wislanie Skawina,KSZO Ostrowiec Swietokrzyski,0,2,3.900,3.800,1.666
+62036070,2026-02-28 14:00,KS Wisloka Debica,MKS Czarni Polaniec,0,0,1.750,3.800,3.600
+62036060,2026-03-01 11:00,Korona II Kielce SA,Swidniczanka Swidnik,4,0,1.450,5.000,4.333
+62036062,2026-03-01 12:00,KS Naprzod Jedrzejow,MKS Podlasie Biala Podlaska,4,4,,,
+62036064,2026-03-01 12:30,Pogon Sokol Lubaczow,Cracovia Krakow II,3,2,1.800,3.700,3.500
+62036074,2026-03-07 11:00,Cracovia Krakow II,Wislanie Skawina,0,4,2.625,3.750,2.150
+62036088,2026-03-07 11:00,Swidniczanka Swidnik,Star Starachowice,0,1,,,
+62036076,2026-03-07 12:30,MKS Czarni Polaniec,Chelmianka Chelm,1,1,,,
+62036082,2026-03-07 13:00,Siarka Tarnobrzeg,Pogon Sokol Lubaczow,3,1,2.150,3.700,2.600
+62036086,2026-03-07 13:00,FKS Stal Krasnik,Korona II Kielce SA,0,1,,,
+62036078,2026-03-07 16:00,KSZO Ostrowiec Swietokrzyski,KS Naprzod Jedrzejow,2,0,,,
+62036090,2026-03-07 16:00,Wisla II Krakow,Sokol Kolbuszowa Dolna,2,0,1.550,4.200,4.500
+62036080,2026-03-07 17:00,MKS Podlasie Biala Podlaska,KS Wisloka Debica,1,1,2.200,3.400,2.750
+62036084,2026-03-08 12:30,Sparta Kazimierza Wielka,Avia Swidnik,0,6,19.000,9.500,1.111
+62036098,2026-03-14 10:00,Korona II Kielce SA,Sparta Kazimierza Wielka,4,2,1.090,10.000,19.000
+62036094,2026-03-14 11:00,Chelmianka Chelm,FKS Stal Krasnik,4,1,1.571,4.000,4.500
+62036096,2026-03-14 11:00,MKS Czarni Polaniec,KSZO Ostrowiec Swietokrzyski,0,0,,,
+62036092,2026-03-14 13:00,Avia Swidnik,Wisla II Krakow,1,1,1.500,4.000,5.000
+62036108,2026-03-14 13:00,Wislanie Skawina,Pogon Sokol Lubaczow,1,3,1.850,3.800,3.250
+62036100,2026-03-14 13:30,KS Naprzod Jedrzejow,Cracovia Krakow II,0,0,,,
+62036102,2026-03-14 14:00,Sokol Kolbuszowa Dolna,MKS Podlasie Biala Podlaska,0,0,,,
+62036106,2026-03-14 14:00,KS Wisloka Debica,Swidniczanka Swidnik,1,0,,,
+62036104,2026-03-14 16:00,Star Starachowice,Siarka Tarnobrzeg,2,0,2.350,3.500,2.450
+69593918,2026-03-18 17:00,KS Wisloka Debica,Cracovia Krakow II,0,0,,,
+62036122,2026-03-21 11:00,Swidniczanka Swidnik,Wislanie Skawina,0,1,3.900,3.900,1.650
+62036124,2026-03-21 11:00,Wisla II Krakow,Star Starachowice,3,0,2.150,3.600,2.625
+62035808,2026-03-21 13:00,MKS Czarni Polaniec,MKS Podlasie Biala Podlaska,3,2,,,
+62036116,2026-03-21 13:00,Pogon Sokol Lubaczow,FKS Stal Krasnik,0,0,,,
+62036118,2026-03-21 14:00,Siarka Tarnobrzeg,Chelmianka Chelm,0,0,,,
+62036112,2026-03-21 17:00,KSZO Ostrowiec Swietokrzyski,Avia Swidnik,1,2,1.950,3.600,3.100
+62036110,2026-03-22 11:00,Cracovia Krakow II,Korona II Kielce SA,2,1,2.625,3.900,2.100
+62036120,2026-03-22 12:30,Sparta Kazimierza Wielka,Sokol Kolbuszowa Dolna,0,0,,,
+62036126,2026-03-22 14:00,KS Wisloka Debica,KS Naprzod Jedrzejow,0,1,1.900,3.600,3.250
+69593920,2026-03-25 14:00,KS Naprzod Jedrzejow,MKS Czarni Polaniec,0,0,2.200,3.500,2.600
+62036138,2026-03-27 14:45,Sokol Kolbuszowa Dolna,KS Wisloka Debica,1,2,2.600,3.700,2.150
+62036134,2026-03-28 11:00,Korona II Kielce SA,Siarka Tarnobrzeg,1,2,2.150,3.900,2.600
+62036132,2026-03-28 13:00,MKS Czarni Polaniec,Wisla II Krakow,1,0,2.350,3.700,2.400
+62036140,2026-03-28 13:00,FKS Stal Krasnik,Sparta Kazimierza Wielka,0,2,,,
+62036128,2026-03-28 14:00,Avia Swidnik,Cracovia Krakow II,4,0,1.333,4.750,6.500
+62036144,2026-03-28 14:00,Wislanie Skawina,MKS Podlasie Biala Podlaska,1,2,1.650,4.000,3.800
+62036130,2026-03-28 14:30,Chelmianka Chelm,Swidniczanka Swidnik,6,1,1.270,5.250,8.000
+62036142,2026-03-28 18:26,Star Starachowice,KSZO Ostrowiec Swietokrzyski,1,3,3.250,3.600,1.909
+62036136,2026-03-29 13:00,KS Naprzod Jedrzejow,Pogon Sokol Lubaczow,1,0,3.000,3.600,1.950
+62036150,2026-04-02 12:00,Korona II Kielce SA,Star Starachowice,3,2,2.450,3.800,2.250
+62036160,2026-04-02 15:00,FKS Stal Krasnik,Wislanie Skawina,1,2,6.500,4.750,1.333
+62036152,2026-04-03 17:29,KSZO Ostrowiec Swietokrzyski,MKS Podlasie Biala Podlaska,2,1,1.420,4.100,6.250
+62036148,2026-04-04 10:00,Cracovia Krakow II,Swidniczanka Swidnik,1,1,1.666,4.000,3.900
+62036162,2026-04-04 10:00,Wisla II Krakow,KS Naprzod Jedrzejow,1,2,1.615,3.800,4.333
+62036156,2026-04-04 11:00,Siarka Tarnobrzeg,KS Wisloka Debica,0,0,2.000,3.600,3.000
+62036154,2026-04-04 12:00,Pogon Sokol Lubaczow,Sokol Kolbuszowa Dolna,2,1,1.900,3.800,3.100
+62036146,2026-04-04 13:00,Avia Swidnik,Chelmianka Chelm,1,0,2.000,3.600,3.000
+62036158,2026-04-04 14:30,Sparta Kazimierza Wielka,MKS Czarni Polaniec,1,5,,,
+62036178,2026-04-10 17:08,KS Wisloka Debica,Star Starachowice,0,0,2.000,3.500,3.000
+62036164,2026-04-11 12:30,Chelmianka Chelm,Pogon Sokol Lubaczow,0,0,,,
+62036166,2026-04-11 14:00,MKS Czarni Polaniec,Cracovia Krakow II,1,0,1.850,3.800,3.200
+62036176,2026-04-11 14:00,Swidniczanka Swidnik,Avia Swidnik,1,4,7.000,4.750,1.333
+62036180,2026-04-11 14:00,Wislanie Skawina,Wisla II Krakow,0,1,2.050,3.700,2.800
+62036174,2026-04-11 14:30,Sokol Kolbuszowa Dolna,FKS Stal Krasnik,1,0,2.150,3.600,2.700
+62036172,2026-04-11 15:00,MKS Podlasie Biala Podlaska,Siarka Tarnobrzeg,0,0,,,
+62036168,2026-04-11 17:29,KSZO Ostrowiec Swietokrzyski,Korona II Kielce SA,0,0,,,
+62036170,2026-04-12 14:30,KS Naprzod Jedrzejow,Sparta Kazimierza Wielka,0,0,,,
+62036186,2026-04-17 13:00,Korona II Kielce SA,KS Naprzod Jedrzejow,3,2,2.150,3.600,2.700
+62036184,2026-04-18 10:00,Cracovia Krakow II,Sokol Kolbuszowa Dolna,1,2,1.833,3.700,3.300
+62036198,2026-04-18 10:00,Wisla II Krakow,Swidniczanka Swidnik,1,0,1.300,5.000,7.500
+62036188,2026-04-18 13:00,Pogon Sokol Lubaczow,KS Wisloka Debica,1,2,,,
+62036182,2026-04-18 14:00,Avia Swidnik,MKS Podlasie Biala Podlaska,1,1,1.363,4.500,6.250
+62036196,2026-04-18 14:30,Star Starachowice,Wislanie Skawina,2,0,2.100,3.600,2.800
+62036190,2026-04-18 15:00,Siarka Tarnobrzeg,MKS Czarni Polaniec,1,1,1.750,3.800,3.600
+62036192,2026-04-19 11:00,Sparta Kazimierza Wielka,Chelmianka Chelm,0,2,,,
+62036194,2026-04-19 14:00,FKS Stal Krasnik,KSZO Ostrowiec Swietokrzyski,0,1,6.500,4.750,1.333
+62036210,2026-04-24 15:00,Sokol Kolbuszowa Dolna,Star Starachowice,1,2,3.500,3.800,1.750
+62036216,2026-04-24 15:00,Wislanie Skawina,Avia Swidnik,0,0,,,
+62036214,2026-04-24 16:00,KS Wisloka Debica,Wisla II Krakow,0,0,,,
+62036208,2026-04-25 12:00,MKS Podlasie Biala Podlaska,Cracovia Krakow II,0,0,,,
+62036200,2026-04-25 14:00,Chelmianka Chelm,Korona II Kielce SA,0,0,,,
+62036212,2026-04-25 14:00,Swidniczanka Swidnik,Sparta Kazimierza Wielka,4,1,,,
+62036202,2026-04-25 15:00,MKS Czarni Polaniec,FKS Stal Krasnik,1,1,1.571,4.000,4.333
+62036204,2026-04-26 14:00,KSZO Ostrowiec Swietokrzyski,Pogon Sokol Lubaczow,1,1,1.480,4.200,5.000
+62036206,2026-04-26 14:00,KS Naprzod Jedrzejow,Siarka Tarnobrzeg,0,0,,,
+62036228,2026-05-01 10:00,Star Starachowice,KS Naprzod Jedrzejow,2,1,1.700,3.700,3.800
+62036232,2026-05-01 10:00,Wisla II Krakow,Korona II Kielce SA,2,3,1.833,3.900,3.100
+62036230,2026-05-01 14:00,Swidniczanka Swidnik,MKS Czarni Polaniec,1,4,3.300,3.600,1.833
+62036234,2026-05-01 14:00,Wislanie Skawina,Chelmianka Chelm,0,0,3.000,3.700,1.909
+62036222,2026-05-01 15:00,Sokol Kolbuszowa Dolna,Avia Swidnik,1,1,3.800,3.900,1.650
+62036226,2026-05-01 15:00,FKS Stal Krasnik,KS Wisloka Debica,3,1,2.875,3.500,2.100
+62036224,2026-05-02 13:00,Sparta Kazimierza Wielka,Cracovia Krakow II,1,3,9.500,5.750,1.222
+62036220,2026-05-02 15:00,Siarka Tarnobrzeg,KSZO Ostrowiec Swietokrzyski,1,2,3.900,3.800,1.700
+62036218,2026-05-03 11:00,Pogon Sokol Lubaczow,MKS Podlasie Biala Podlaska,1,3,1.850,3.600,3.400
+62036252,2026-05-08 17:08,KS Wisloka Debica,Sparta Kazimierza Wielka,3,0,1.142,8.000,12.000
+62036250,2026-05-08 17:57,MKS Podlasie Biala Podlaska,Swidniczanka Swidnik,3,0,1.533,4.200,4.500
+62036238,2026-05-09 10:00,Chelmianka Chelm,Star Starachowice,0,0,,,
+62036240,2026-05-09 10:00,Cracovia Krakow II,FKS Stal Krasnik,1,2,1.615,3.800,4.200
+62036244,2026-05-09 13:00,Korona II Kielce SA,Pogon Sokol Lubaczow,3,1,2.000,3.900,2.800
+62036236,2026-05-09 14:00,Avia Swidnik,Siarka Tarnobrzeg,1,0,,,
+62036242,2026-05-09 15:00,MKS Czarni Polaniec,Wislanie Skawina,1,0,2.100,3.600,2.750
+62036248,2026-05-09 15:00,KS Naprzod Jedrzejow,Sokol Kolbuszowa Dolna,0,0,,,
+62036246,2026-05-09 17:29,KSZO Ostrowiec Swietokrzyski,Wisla II Krakow,4,3,,,
+62036256,2026-05-13 15:00,Korona II Kielce SA,KS Wisloka Debica,1,0,2.250,3.800,2.450
+62036262,2026-05-13 15:00,FKS Stal Krasnik,Siarka Tarnobrzeg,0,0,,,
+62036266,2026-05-13 15:00,Swidniczanka Swidnik,Pogon Sokol Lubaczow,0,3,3.600,3.900,1.700
+62036270,2026-05-13 15:00,Wislanie Skawina,KS Naprzod Jedrzejow,0,0,,,
+62036258,2026-05-13 15:30,Sokol Kolbuszowa Dolna,MKS Czarni Polaniec,2,1,2.300,3.600,2.400
+62036260,2026-05-13 15:30,Sparta Kazimierza Wielka,MKS Podlasie Biala Podlaska,0,0,,,
+62036268,2026-05-13 15:30,Wisla II Krakow,Cracovia Krakow II,3,1,2.050,5.000,2.350
+62036254,2026-05-13 16:00,Chelmianka Chelm,KSZO Ostrowiec Swietokrzyski,0,0,,,
+62036264,2026-05-13 17:26,Star Starachowice,Avia Swidnik,0,0,,,
+62036284,2026-05-16 13:00,Pogon Sokol Lubaczow,Sparta Kazimierza Wielka,4,0,,,
+62036278,2026-05-16 14:00,KSZO Ostrowiec Swietokrzyski,Sokol Kolbuszowa Dolna,2,1,1.270,5.000,8.000
+62036272,2026-05-16 15:00,Avia Swidnik,Korona II Kielce SA,5,1,1.420,4.333,5.250
+62036276,2026-05-16 15:00,MKS Czarni Polaniec,Star Starachowice,2,1,,,
+62036280,2026-05-16 15:00,KS Naprzod Jedrzejow,Swidniczanka Swidnik,3,2,,,
+62036282,2026-05-16 15:00,MKS Podlasie Biala Podlaska,FKS Stal Krasnik,1,1,,,
+62036286,2026-05-16 15:00,Siarka Tarnobrzeg,Wisla II Krakow,1,2,2.300,3.700,2.400
+62036288,2026-05-16 15:00,KS Wisloka Debica,Wislanie Skawina,2,2,2.250,3.400,2.600
+62036274,2026-05-17 10:00,Cracovia Krakow II,Chelmianka Chelm,3,3,5.500,4.750,1.400
+62036296,2026-05-22 15:00,Korona II Kielce SA,MKS Czarni Polaniec,2,1,2.300,3.500,2.550
+62036298,2026-05-22 15:30,Sokol Kolbuszowa Dolna,Wislanie Skawina,2,0,2.500,3.700,2.250
+62036294,2026-05-23 10:00,Cracovia Krakow II,KSZO Ostrowiec Swietokrzyski,1,2,4.100,4.333,1.550
+62036306,2026-05-23 10:00,Wisla II Krakow,Pogon Sokol Lubaczow,3,1,2.100,3.900,2.700
+62036290,2026-05-23 14:00,Avia Swidnik,KS Wisloka Debica,4,0,1.333,4.200,7.500
+62036292,2026-05-23 15:00,Chelmianka Chelm,KS Naprzod Jedrzejow,2,0,,,
+62036304,2026-05-23 15:00,Star Starachowice,MKS Podlasie Biala Podlaska,1,1,1.950,3.600,3.000
+62036302,2026-05-23 15:30,FKS Stal Krasnik,Swidniczanka Swidnik,2,0,,,
+62036300,2026-05-24 10:00,Sparta Kazimierza Wielka,Siarka Tarnobrzeg,0,0,,,
+62036316,2026-05-29 15:30,Pogon Sokol Lubaczow,Star Starachowice,3,1,1.700,4.000,3.500
+62036314,2026-05-30 13:00,MKS Podlasie Biala Podlaska,Wisla II Krakow,2,3,,,
+62036308,2026-05-30 15:00,MKS Czarni Polaniec,Avia Swidnik,0,0,,,
+62036310,2026-05-30 15:00,KSZO Ostrowiec Swietokrzyski,Sparta Kazimierza Wielka,0,0,,,
+62036312,2026-05-30 15:00,KS Naprzod Jedrzejow,FKS Stal Krasnik,0,3,2.400,3.700,2.350
+62036318,2026-05-30 15:00,Siarka Tarnobrzeg,Cracovia Krakow II,5,6,1.833,3.800,3.200
+62036320,2026-05-30 15:00,Swidniczanka Swidnik,Sokol Kolbuszowa Dolna,0,1,3.700,3.500,1.750
+62036322,2026-05-30 15:00,KS Wisloka Debica,Chelmianka Chelm,1,2,,,
+62036324,2026-05-30 15:00,Wislanie Skawina,Korona II Kielce SA,1,4,2.050,3.800,2.700
+72517104,2026-08-01 10:00,Wisla II Krakow,Star Starachowice,4,2,1.700,3.800,3.800
+72517098,2026-08-01 14:00,Pogon Sokol Lubaczow,Chelmianka Chelm,0,1,,,
+72517102,2026-08-01 15:30,KS Naprzod Jedrzejow,Korona II Kielce SA,5,4,3.400,3.750,1.800
+72517114,2026-08-01 15:30,JKS 1909 Jaroslaw,Sokol Kolbuszowa Dolna,2,2,1.900,3.750,3.200
+72517100,2026-08-02 15:00,Moravia Morawica,Wislanie Skawina,0,2,3.250,3.900,1.800
+72517108,2026-08-02 15:00,KS Hetman Zamosc,Siarka Tarnobrzeg,1,1,,,
+72517110,2026-08-02 15:00,MKS Czarni Polaniec,Wieczysta II Krakow,3,1,,,
+72517112,2026-08-02 15:00,AKS 1947 Busko Zdroj,KS Wisloka Debica,1,1,,,
+72517106,2026-08-02 16:00,KSZO Ostrowiec Swietokrzyski,MKS Podlasie Biala Podlaska,1,0,,,
+72517124,2026-08-07 17:57,MKS Podlasie Biala Podlaska,KS Hetman Zamosc,1,1,,,
+72517120,2026-08-08 10:00,Wieczysta II Krakow,AKS 1947 Busko Zdroj,1,3,1.400,4.333,5.750
+72517128,2026-08-08 10:00,Korona II Kielce SA,Wisla II Krakow,1,2,,,
+72517116,2026-08-08 13:00,Chelmianka Chelm,Sokol Kolbuszowa Dolna,2,0,,,
+72517132,2026-08-08 14:00,Pogon Sokol Lubaczow,Moravia Morawica,0,2,1.333,4.750,7.000
+72517122,2026-08-08 15:00,Siarka Tarnobrzeg,MKS Czarni Polaniec,0,1,2.250,3.600,2.550
+72517130,2026-08-08 15:00,Wislanie Skawina,KS Naprzod Jedrzejow,2,0,,,
+72517118,2026-08-08 17:08,KS Wisloka Debica,JKS 1909 Jaroslaw,3,1,2.100,3.400,3.000
+72517126,2026-08-09 16:00,Star Starachowice,KSZO Ostrowiec Swietokrzyski,0,0,3.600,3.800,1.727
+72517150,2026-08-14 15:30,Sokol Kolbuszowa Dolna,KS Wisloka Debica,1,2,2.450,3.400,2.375
+72517140,2026-08-14 17:29,KSZO Ostrowiec Swietokrzyski,Korona II Kielce SA,3,2,1.571,4.500,3.900
+72517138,2026-08-15 09:00,Wisla II Krakow,Wislanie Skawina,1,2,1.950,3.750,3.000
+72517134,2026-08-15 15:00,Moravia Morawica,Chelmianka Chelm,0,3,4.800,4.200,1.500
+72517136,2026-08-15 15:00,KS Naprzod Jedrzejow,Pogon Sokol Lubaczow,2,1,2.550,3.500,2.300
+72517142,2026-08-15 15:00,KS Hetman Zamosc,Star Starachowice,3,0,,,
+72517144,2026-08-15 15:00,MKS Czarni Polaniec,MKS Podlasie Biala Podlaska,0,2,,,
+72517146,2026-08-15 15:00,AKS 1947 Busko Zdroj,Siarka Tarnobrzeg,1,4,,,
+72517148,2026-08-15 15:00,JKS 1909 Jaroslaw,Wieczysta II Krakow,1,2,2.750,3.800,2.050
+72517166,2026-08-19 14:30,Pogon Sokol Lubaczow,Wisla II Krakow,1,1,,,
+72517152,2026-08-19 15:00,Chelmianka Chelm,KS Wisloka Debica,2,1,,,
+72517154,2026-08-19 15:00,Wieczysta II Krakow,Sokol Kolbuszowa Dolna,1,1,1.833,3.900,3.200
+72517156,2026-08-19 15:00,Siarka Tarnobrzeg,JKS 1909 Jaroslaw,1,3,2.150,3.500,2.800
+72517158,2026-08-19 15:00,MKS Podlasie Biala Podlaska,AKS 1947 Busko Zdroj,2,1,,,
+72517162,2026-08-19 15:00,Korona II Kielce SA,KS Hetman Zamosc,2,2,1.727,3.800,3.500
+72517168,2026-08-19 15:00,Moravia Morawica,KS Naprzod Jedrzejow,4,2,,,
+72517160,2026-08-19 16:00,Star Starachowice,MKS Czarni Polaniec,2,0,2.200,3.750,2.500
+72517164,2026-08-19 17:46,Wislanie Skawina,KSZO Ostrowiec Swietokrzyski,2,2,2.500,3.600,2.300
+72517484,2026-08-22 09:00,Korona II Kielce SA,MKS Czarni Polaniec,3,4,2.050,3.800,2.700
+72517172,2026-08-22 10:00,Wisla II Krakow,Moravia Morawica,1,0,1.500,4.333,4.500
+72517176,2026-08-22 15:00,KS Hetman Zamosc,Wislanie Skawina,0,1,,,
+72517182,2026-08-22 15:00,JKS 1909 Jaroslaw,MKS Podlasie Biala Podlaska,2,0,2.150,3.700,2.700
+72517186,2026-08-22 16:00,KS Wisloka Debica,Wieczysta II Krakow,0,3,2.300,3.700,2.500
+72517486,2026-08-22 16:00,Star Starachowice,AKS 1947 Busko Zdroj,1,1,3.700,3.700,1.727
+72517170,2026-08-23 15:00,KS Naprzod Jedrzejow,Chelmianka Chelm,0,2,,,
+72517184,2026-08-23 15:30,Sokol Kolbuszowa Dolna,Siarka Tarnobrzeg,2,0,1.600,4.000,4.100
+72517174,2026-08-23 16:00,KSZO Ostrowiec Swietokrzyski,Pogon Sokol Lubaczow,1,0,1.727,3.800,3.600
+72517198,2026-08-28 17:00,Wislanie Skawina,MKS Czarni Polaniec,0,1,1.750,3.900,3.400
+72517192,2026-08-28 17:57,MKS Podlasie Biala Podlaska,Sokol Kolbuszowa Dolna,0,0,,,
+72517196,2026-08-29 10:00,Korona II Kielce SA,AKS 1947 Busko Zdroj,4,1,,,
+72517190,2026-08-29 14:00,Siarka Tarnobrzeg,KS Wisloka Debica,1,0,,,
+72517200,2026-08-29 14:00,Pogon Sokol Lubaczow,KS Hetman Zamosc,4,2,,,
+72517500,2026-08-29 14:30,JKS 1909 Jaroslaw,Star Starachowice,3,0,1.850,3.800,3.100
+72517188,2026-08-29 15:00,Chelmianka Chelm,Wieczysta II Krakow,1,0,,,
+72517202,2026-08-30 15:00,Moravia Morawica,KSZO Ostrowiec Swietokrzyski,0,4,4.333,3.900,1.571
+72517204,2026-08-30 15:00,KS Naprzod Jedrzejow,Wisla II Krakow,0,0,2.550,3.900,2.100
+72517218,2026-09-04 15:00,Sokol Kolbuszowa Dolna,Star Starachowice,0,0,1.833,3.600,3.400
+72517206,2026-09-05 10:00,Wisla II Krakow,Chelmianka Chelm,0,2,2.700,3.900,2.050
+72517222,2026-09-05 10:00,Wieczysta II Krakow,Siarka Tarnobrzeg,0,2,2.350,3.800,2.300
+72517212,2026-09-05 12:00,MKS Czarni Polaniec,Pogon Sokol Lubaczow,3,0,,,
+72517216,2026-09-05 14:00,JKS 1909 Jaroslaw,Korona II Kielce SA,6,2,1.500,4.500,4.333
+72517210,2026-09-05 15:00,KS Hetman Zamosc,Moravia Morawica,2,1,,,
+72517208,2026-09-05 16:00,KSZO Ostrowiec Swietokrzyski,KS Naprzod Jedrzejow,2,2,,,
+72517214,2026-09-06 15:00,AKS 1947 Busko Zdroj,Wislanie Skawina,2,1,5.250,4.200,1.450
+72517220,2026-09-06 15:00,KS Wisloka Debica,MKS Podlasie Biala Podlaska,1,0,2.600,3.400,2.300
+72517226,2026-09-11 17:57,MKS Podlasie Biala Podlaska,Wieczysta II Krakow,2,1,2.000,3.750,2.875
+72517230,2026-09-12 10:00,Korona II Kielce SA,Sokol Kolbuszowa Dolna,2,2,1.950,3.800,2.875
+72517240,2026-09-12 10:00,Wisla II Krakow,KSZO Ostrowiec Swietokrzyski,0,1,2.900,3.600,2.000
+72517224,2026-09-12 12:00,Chelmianka Chelm,Siarka Tarnobrzeg,1,1,,,
+72517234,2026-09-12 14:00,Pogon Sokol Lubaczow,AKS 1947 Busko Zdroj,2,1,1.666,4.100,3.750
+72517238,2026-09-12 14:00,KS Naprzod Jedrzejow,KS Hetman Zamosc,4,2,,,
+72517232,2026-09-12 17:00,Wislanie Skawina,JKS 1909 Jaroslaw,3,1,1.850,3.800,3.200
+72517236,2026-09-13 14:00,Moravia Morawica,MKS Czarni Polaniec,1,2,3.500,3.900,1.750
+72517228,2026-09-13 15:00,Star Starachowice,KS Wisloka Debica,2,3,2.200,3.500,2.625
+72517256,2026-09-19 10:00,Wieczysta II Krakow,Star Starachowice,0,0,2.200,3.750,2.500
+72517258,2026-09-19 13:00,Siarka Tarnobrzeg,MKS Podlasie Biala Podlaska,2,0,,,
+72517244,2026-09-19 14:00,KS Hetman Zamosc,Wisla II Krakow,3,3,,,
+72517246,2026-09-19 14:00,MKS Czarni Polaniec,KS Naprzod Jedrzejow,2,5,,,
+72517250,2026-09-19 14:00,JKS 1909 Jaroslaw,Pogon Sokol Lubaczow,5,2,,,
+72517248,2026-09-19 15:00,AKS 1947 Busko Zdroj,Moravia Morawica,2,1,,,
+72517242,2026-09-19 16:00,KSZO Ostrowiec Swietokrzyski,Chelmianka Chelm,0,0,,,
+72517254,2026-09-19 16:00,KS Wisloka Debica,Korona II Kielce SA,1,0,1.800,3.900,3.250
+72517252,2026-09-20 14:00,Sokol Kolbuszowa Dolna,Wislanie Skawina,1,1,2.800,3.700,2.050
+72517274,2026-09-25 11:00,Wisla II Krakow,MKS Czarni Polaniec,1,1,1.833,4.000,3.100
+72517266,2026-09-25 17:00,Wislanie Skawina,KS Wisloka Debica,1,2,1.615,4.000,3.900
+72517264,2026-09-26 09:00,Korona II Kielce SA,Wieczysta II Krakow,1,0,1.800,4.200,3.100
+72517262,2026-09-26 13:00,Star Starachowice,Siarka Tarnobrzeg,4,1,2.450,3.600,2.375
+72517268,2026-09-26 13:00,Pogon Sokol Lubaczow,Sokol Kolbuszowa Dolna,0,1,,,
+72517272,2026-09-26 13:00,KS Naprzod Jedrzejow,AKS 1947 Busko Zdroj,4,1,1.750,3.900,3.400
+72517260,2026-09-26 15:00,Chelmianka Chelm,MKS Podlasie Biala Podlaska,2,1,,,
+72517270,2026-09-27 13:00,Moravia Morawica,JKS 1909 Jaroslaw,2,2,4.500,4.100,1.550
+72517276,2026-09-27 16:00,KSZO Ostrowiec Swietokrzyski,KS Hetman Zamosc,1,2,1.300,4.750,7.000
+72517294,2026-10-01 16:00,MKS Podlasie Biala Podlaska,Star Starachowice,2,2,2.100,3.700,2.800
+72517288,2026-10-02 15:30,KS Wisloka Debica,Pogon Sokol Lubaczow,2,1,2.100,3.300,2.900
+72517290,2026-10-03 10:00,Wieczysta II Krakow,Wislanie Skawina,1,0,2.750,3.600,2.100
+72517292,2026-10-03 13:00,Siarka Tarnobrzeg,Korona II Kielce SA,1,2,,,
+72517280,2026-10-03 13:30,MKS Czarni Polaniec,KSZO Ostrowiec Swietokrzyski,1,1,,,
+72517284,2026-10-03 13:30,JKS 1909 Jaroslaw,KS Naprzod Jedrzejow,1,3,,,
+72517286,2026-10-03 13:30,Sokol Kolbuszowa Dolna,Moravia Morawica,2,2,,,
+72517278,2026-10-04 13:00,KS Hetman Zamosc,Chelmianka Chelm,2,2,,,
+72517282,2026-10-04 13:30,AKS 1947 Busko Zdroj,Wisla II Krakow,3,0,3.700,4.000,1.700
+72517300,2026-10-09 16:30,Wislanie Skawina,Siarka Tarnobrzeg,4,1,1.950,3.700,3.100
+72517308,2026-10-10 10:00,Wisla II Krakow,JKS 1909 Jaroslaw,2,1,2.100,3.600,2.750
+72517298,2026-10-10 12:30,Korona II Kielce SA,MKS Podlasie Biala Podlaska,4,0,2.150,3.600,2.700
+72517296,2026-10-10 13:00,Chelmianka Chelm,Star Starachowice,2,1,,,
+72517302,2026-10-10 13:00,Pogon Sokol Lubaczow,Wieczysta II Krakow,1,1,2.100,3.600,2.750
+72517304,2026-10-10 13:00,Moravia Morawica,KS Wisloka Debica,0,0,,,
+72517310,2026-10-10 16:00,KSZO Ostrowiec Swietokrzyski,AKS 1947 Busko Zdroj,5,0,1.270,5.250,7.500
+72517306,2026-10-11 12:00,KS Naprzod Jedrzejow,Sokol Kolbuszowa Dolna,1,0,2.100,3.500,2.900
+72517312,2026-10-11 13:00,KS Hetman Zamosc,MKS Czarni Polaniec,1,0,,,
+72517324,2026-10-17 10:00,Wieczysta II Krakow,Moravia Morawica,1,0,1.666,4.100,3.750
+72517314,2026-10-17 12:00,MKS Czarni Polaniec,Chelmianka Chelm,0,0,,,
+72517326,2026-10-17 12:00,Siarka Tarnobrzeg,Pogon Sokol Lubaczow,4,0,,,
+72517328,2026-10-17 12:30,MKS Podlasie Biala Podlaska,Wislanie Skawina,1,1,2.550,3.600,2.200
+72517318,2026-10-17 13:00,JKS 1909 Jaroslaw,KSZO Ostrowiec Swietokrzyski,1,3,,,
+72517320,2026-10-17 13:00,Sokol Kolbuszowa Dolna,Wisla II Krakow,1,0,2.375,3.600,2.375
+72517330,2026-10-17 14:00,Star Starachowice,Korona II Kielce SA,4,1,2.100,3.700,2.750
+72517322,2026-10-17 15:00,KS Wisloka Debica,KS Naprzod Jedrzejow,4,0,2.100,3.600,2.900
+72517316,2026-10-18 13:00,AKS 1947 Busko Zdroj,KS Hetman Zamosc,2,4,2.375,3.700,2.375
+72517334,2026-10-23 16:30,Wislanie Skawina,Star Starachowice,1,2,1.800,3.750,3.400
+72517348,2026-10-24 09:00,MKS Czarni Polaniec,AKS 1947 Busko Zdroj,2,1,1.480,4.333,4.750
+72517342,2026-10-24 10:00,Wisla II Krakow,KS Wisloka Debica,3,1,1.666,4.000,3.700
+72517332,2026-10-24 12:00,Chelmianka Chelm,Korona II Kielce SA,2,0,,,
+72517338,2026-10-24 12:00,Moravia Morawica,Siarka Tarnobrzeg,2,3,,,
+72517340,2026-10-24 12:00,KS Naprzod Jedrzejow,Wieczysta II Krakow,2,2,,,
+72517344,2026-10-24 15:00,KSZO Ostrowiec Swietokrzyski,Sokol Kolbuszowa Dolna,2,1,,,
+72517336,2026-10-25 12:30,Pogon Sokol Lubaczow,MKS Podlasie Biala Podlaska,2,0,2.100,3.600,2.750
+72517346,2026-10-25 13:00,KS Hetman Zamosc,JKS 1909 Jaroslaw,1,0,,,
+72517366,2026-10-29 13:00,Korona II Kielce SA,Wislanie Skawina,1,2,2.375,3.700,2.375
+72517358,2026-10-30 13:00,Wieczysta II Krakow,Wisla II Krakow,1,2,2.600,3.800,2.150
+72517362,2026-10-30 17:00,MKS Podlasie Biala Podlaska,Moravia Morawica,0,4,1.900,3.900,3.100
+72517364,2026-10-30 17:30,Star Starachowice,Pogon Sokol Lubaczow,4,3,1.900,3.800,3.200
+72517360,2026-10-31 12:00,Siarka Tarnobrzeg,KS Naprzod Jedrzejow,1,1,,,
+72517350,2026-10-31 12:30,AKS 1947 Busko Zdroj,Chelmianka Chelm,0,3,5.500,4.750,1.400
+72517352,2026-10-31 12:30,JKS 1909 Jaroslaw,MKS Czarni Polaniec,2,2,,,
+72517354,2026-10-31 13:00,Sokol Kolbuszowa Dolna,KS Hetman Zamosc,0,2,2.100,3.400,2.875
+72517356,2026-10-31 18:08,KS Wisloka Debica,KSZO Ostrowiec Swietokrzyski,2,1,3.500,3.500,1.833
+72517376,2026-11-07 11:00,Wisla II Krakow,Siarka Tarnobrzeg,1,0,2.050,3.750,2.800
+72517368,2026-11-07 12:00,Chelmianka Chelm,Wislanie Skawina,2,1,,,
+72517370,2026-11-07 12:00,Pogon Sokol Lubaczow,Korona II Kielce SA,2,2,,,
+72517372,2026-11-07 12:00,Moravia Morawica,Star Starachowice,0,3,,,
+72517374,2026-11-07 12:00,KS Naprzod Jedrzejow,MKS Podlasie Biala Podlaska,3,1,,,
+72517382,2026-11-07 12:00,MKS Czarni Polaniec,Sokol Kolbuszowa Dolna,3,2,,,
+72517378,2026-11-07 14:00,KSZO Ostrowiec Swietokrzyski,Wieczysta II Krakow,0,1,,,
+72517380,2026-11-08 12:00,KS Hetman Zamosc,KS Wisloka Debica,4,2,,,
+72517384,2026-11-08 12:00,AKS 1947 Busko Zdroj,JKS 1909 Jaroslaw,2,1,3.600,4.200,1.666

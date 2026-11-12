@@ -1,0 +1,59 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+72468484,2026-08-15 10:00,MFK Ruzomberok,KFC Komarno,1,2,1.727,4.000,3.500
+72468488,2026-08-15 12:30,FC Tatran Presov,FC Spartak Trnava,0,1,1.615,3.750,4.200
+72468490,2026-08-15 13:00,Slovan Bratislava,FC Vion Zlate Moravce - Vrable,2,0,,,
+72468486,2026-08-15 14:00,FC Petrzalka 1898,AS Trencin,1,6,,,
+72468492,2026-08-15 16:00,Spartak Myjava,MFK Dukla Banska Bystrica,11,0,,,
+72468494,2026-08-22 09:00,FC Spartak Trnava,FC Petrzalka 1898,1,0,,,
+72468502,2026-08-22 12:00,Spartak Myjava,Slovan Bratislava,5,1,,,
+72468496,2026-08-22 12:30,MFK Dukla Banska Bystrica,KFC Komarno,2,3,,,
+72468498,2026-08-22 13:00,FC Vion Zlate Moravce - Vrable,FC Tatran Presov,1,2,,,
+72468500,2026-08-22 13:30,AS Trencin,MFK Ruzomberok,7,0,,,
+72468510,2026-08-29 09:30,KFC Komarno,AS Trencin,1,2,4.200,4.000,1.600
+72468518,2026-08-29 12:30,FC Tatran Presov,Spartak Myjava,1,7,,,
+72468506,2026-08-29 13:00,MFK Ruzomberok,FC Spartak Trnava,3,0,3.250,3.800,1.833
+72468514,2026-08-29 13:00,FC Petrzalka 1898,FC Vion Zlate Moravce - Vrable,4,0,,,
+72468522,2026-08-29 13:00,Slovan Bratislava,MFK Dukla Banska Bystrica,7,0,,,
+72468526,2026-09-05 08:00,FC Spartak Trnava,KFC Komarno,1,1,2.250,3.700,2.500
+72468530,2026-09-05 12:30,MFK Dukla Banska Bystrica,AS Trencin,2,2,,,
+72468534,2026-09-05 13:00,Slovan Bratislava,FC Tatran Presov,5,1,1.040,15.000,34.000
+72468538,2026-09-05 13:00,FC Vion Zlate Moravce - Vrable,MFK Ruzomberok,3,1,3.100,4.500,1.727
+72468542,2026-09-05 16:00,Spartak Myjava,FC Petrzalka 1898,11,1,,,
+72468552,2026-09-12 09:00,MFK Ruzomberok,Spartak Myjava,1,4,,,
+72468548,2026-09-12 12:00,FC Petrzalka 1898,Slovan Bratislava,1,6,,,
+72468560,2026-09-12 12:30,FC Tatran Presov,MFK Dukla Banska Bystrica,2,0,,,
+72468564,2026-09-12 13:30,AS Trencin,FC Spartak Trnava,5,1,,,
+72468568,2026-09-19 12:30,FC Tatran Presov,FC Petrzalka 1898,7,0,1.181,6.500,11.000
+72468572,2026-09-19 12:30,MFK Dukla Banska Bystrica,FC Spartak Trnava,0,1,,,
+72468576,2026-09-19 13:00,Slovan Bratislava,MFK Ruzomberok,7,0,1.025,21.000,41.000
+72468580,2026-09-19 13:00,FC Vion Zlate Moravce - Vrable,AS Trencin,2,1,,,
+72468584,2026-09-19 16:00,Spartak Myjava,KFC Komarno,8,0,,,
+72468592,2026-09-26 09:00,MFK Ruzomberok,FC Tatran Presov,1,2,6.250,5.000,1.333
+72468602,2026-09-26 09:00,FC Spartak Trnava,FC Vion Zlate Moravce - Vrable,3,5,2.100,3.500,2.750
+72468588,2026-09-26 12:30,FC Petrzalka 1898,MFK Dukla Banska Bystrica,1,4,1.700,4.500,3.400
+72468598,2026-09-26 14:00,KFC Komarno,Slovan Bratislava,0,5,,,
+72468614,2026-10-03 11:00,MFK Dukla Banska Bystrica,FC Vion Zlate Moravce - Vrable,1,5,,,
+72468610,2026-10-03 12:30,FC Petrzalka 1898,MFK Ruzomberok,2,5,2.375,4.000,2.300
+72468618,2026-10-03 12:30,FC Tatran Presov,KFC Komarno,0,0,,,
+72468622,2026-10-03 13:45,Slovan Bratislava,AS Trencin,8,0,,,
+72468626,2026-10-03 16:00,Spartak Myjava,FC Spartak Trnava,6,0,,,
+72468630,2026-10-17 09:00,KFC Komarno,FC Petrzalka 1898,5,0,1.222,5.500,8.500
+72468634,2026-10-17 13:00,MFK Ruzomberok,MFK Dukla Banska Bystrica,2,0,1.600,4.000,4.200
+72468648,2026-10-17 13:30,AS Trencin,FC Tatran Presov,3,1,3.400,4.100,1.750
+72468642,2026-10-17 16:00,FC Vion Zlate Moravce - Vrable,Spartak Myjava,0,5,,,
+72468638,2026-10-18 12:00,FC Spartak Trnava,Slovan Bratislava,2,5,29.000,17.000,1.040
+75069082,2026-10-21 13:00,AS Trencin,Spartak Myjava,0,4,,,
+72468660,2026-10-24 12:30,MFK Dukla Banska Bystrica,Spartak Myjava,1,4,,,
+72468652,2026-10-24 13:00,FC Spartak Trnava,FC Tatran Presov,2,1,5.000,4.750,1.420
+72468668,2026-10-24 13:30,AS Trencin,FC Petrzalka 1898,2,1,,,
+72468656,2026-10-24 15:00,KFC Komarno,MFK Ruzomberok,3,0,1.650,4.000,3.900
+72468664,2026-10-24 15:00,FC Vion Zlate Moravce - Vrable,Slovan Bratislava,2,5,,,
+72468672,2026-10-31 10:00,MFK Ruzomberok,AS Trencin,2,0,2.900,3.750,2.000
+72468676,2026-10-31 10:00,KFC Komarno,MFK Dukla Banska Bystrica,3,1,1.050,13.000,34.000
+72468684,2026-10-31 13:30,FC Tatran Presov,FC Vion Zlate Moravce - Vrable,1,1,1.950,4.500,2.900
+72468692,2026-11-07 10:00,FC Spartak Trnava,MFK Ruzomberok,3,0,2.150,3.750,2.600
+72468706,2026-11-07 10:00,AS Trencin,KFC Komarno,1,0,2.375,3.600,2.350
+72468710,2026-11-07 12:00,Spartak Myjava,FC Tatran Presov,3,0,,,
+72468702,2026-11-07 13:00,FC Vion Zlate Moravce - Vrable,FC Petrzalka 1898,11,1,1.142,8.000,15.000
+72468698,2026-11-07 13:30,MFK Dukla Banska Bystrica,Slovan Bratislava,3,2,,,
+76079234,2026-11-11 17:00,FC Petrzalka 1898,FC Spartak Trnava,1,1,15.000,8.500,1.125

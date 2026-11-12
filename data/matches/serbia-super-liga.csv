@@ -1,0 +1,106 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+72082928,2026-07-17 18:00,FK Crvena Zvezda Belgrade,FK Macva Sabac,5,0,1.062,10.000,29.000
+72082936,2026-07-17 18:00,FK Zeleznicar Pancevo,FK Radnicki Nis,2,1,1.750,3.600,4.333
+72082934,2026-07-18 18:00,FK Novi Pazar,FK Radnicki 1923 Kragujevac,1,0,2.450,3.300,2.700
+72082940,2026-07-18 18:00,FK Zemun,FK Partizan Belgrade,2,2,6.500,3.800,1.480
+72082930,2026-07-19 17:00,FK Vojvodina Novi Sad,OFK Beograd,4,0,1.550,4.000,5.250
+72082932,2026-07-19 17:00,FK Radnik Surdulica,FK Mladost Lucani,1,1,1.950,3.250,3.900
+72082938,2026-07-19 17:00,FK Cukaricki Belgrade,FK IMT Novi Beograd,0,1,2.450,3.250,2.800
+72082946,2026-07-25 15:30,FK Radnicki Nis,FK Cukaricki Belgrade,0,2,2.150,3.400,3.000
+72082944,2026-07-25 18:00,FK IMT Novi Beograd,FK Zemun,4,0,1.600,3.800,5.000
+72082952,2026-07-25 18:00,OFK Beograd,FK Radnik Surdulica,0,0,2.150,3.300,3.000
+72082954,2026-07-26 17:00,FK Crvena Zvezda Belgrade,FK Vojvodina Novi Sad,3,1,1.250,6.250,9.000
+72082950,2026-07-26 18:30,FK Mladost Lucani,FK Novi Pazar,0,0,2.700,3.250,2.400
+72082942,2026-07-26 19:00,FK Macva Sabac,FK Partizan Belgrade,1,3,6.250,4.200,1.420
+72082960,2026-08-01 18:00,FK Novi Pazar,OFK Beograd,1,4,2.050,3.200,3.500
+72082964,2026-08-01 18:30,FK Cukaricki Belgrade,FK Radnicki 1923 Kragujevac,3,0,2.200,3.250,3.200
+72082966,2026-08-02 18:00,FK Zemun,FK Radnicki Nis,0,1,3.600,3.300,2.000
+72082968,2026-08-02 18:00,FK Partizan Belgrade,FK IMT Novi Beograd,1,2,2.100,3.700,3.000
+72082956,2026-08-03 17:00,FK Vojvodina Novi Sad,FK Macva Sabac,2,0,1.222,7.000,8.000
+72082962,2026-08-03 19:00,FK Zeleznicar Pancevo,FK Mladost Lucani,0,0,2.050,3.200,3.600
+72082974,2026-08-08 18:00,FK Radnicki 1923 Kragujevac,FK Zemun,3,0,1.333,4.750,9.000
+72082980,2026-08-08 18:00,FK Crvena Zvezda Belgrade,FK Novi Pazar,2,0,1.125,8.500,15.000
+72082970,2026-08-09 18:00,FK Macva Sabac,FK IMT Novi Beograd,1,0,3.900,3.250,1.950
+72082982,2026-08-09 18:00,FK Vojvodina Novi Sad,FK Radnik Surdulica,2,1,1.333,4.750,9.000
+72082976,2026-08-09 19:00,FK Mladost Lucani,FK Cukaricki Belgrade,2,2,3.500,2.900,2.300
+72082978,2026-08-09 19:00,OFK Beograd,FK Zeleznicar Pancevo,2,2,2.450,3.300,2.750
+72082984,2026-08-15 17:00,FK Radnik Surdulica,FK Macva Sabac,2,1,1.833,3.300,4.500
+72082990,2026-08-15 19:00,FK Cukaricki Belgrade,OFK Beograd,2,0,2.500,3.500,2.600
+72082996,2026-08-16 17:00,FK IMT Novi Beograd,FK Radnicki Nis,0,0,2.150,3.400,3.200
+72082992,2026-08-16 19:00,FK Zemun,FK Mladost Lucani,0,1,3.000,3.100,2.300
+72082994,2026-08-16 19:00,FK Partizan Belgrade,FK Radnicki 1923 Kragujevac,0,1,1.650,4.000,4.750
+72082986,2026-08-17 18:00,FK Novi Pazar,FK Vojvodina Novi Sad,2,0,3.900,3.700,1.833
+72082998,2026-08-22 16:30,FK Macva Sabac,FK Radnicki Nis,1,0,3.200,3.300,2.250
+72083000,2026-08-22 17:00,FK Radnicki 1923 Kragujevac,FK IMT Novi Beograd,2,1,2.500,3.200,2.750
+72083004,2026-08-22 19:00,OFK Beograd,FK Zemun,1,0,1.363,4.500,8.000
+72083006,2026-08-23 17:00,FK Crvena Zvezda Belgrade,FK Cukaricki Belgrade,4,0,1.285,5.500,9.000
+72083010,2026-08-23 17:00,FK Radnik Surdulica,FK Novi Pazar,1,0,2.100,3.300,3.300
+72083002,2026-08-23 19:00,FK Mladost Lucani,FK Partizan Belgrade,3,1,4.333,3.800,1.700
+72083008,2026-08-23 19:00,FK Vojvodina Novi Sad,FK Zeleznicar Pancevo,1,0,1.666,3.800,4.750
+72083014,2026-08-29 17:00,FK Zeleznicar Pancevo,FK Radnik Surdulica,5,1,1.800,3.600,4.200
+72083012,2026-08-29 19:00,FK Novi Pazar,FK Macva Sabac,1,1,1.727,3.600,4.750
+72083016,2026-08-29 19:00,FK Cukaricki Belgrade,FK Vojvodina Novi Sad,0,5,4.000,3.800,1.800
+72083024,2026-08-29 19:00,FK Radnicki Nis,FK Radnicki 1923 Kragujevac,1,1,2.450,3.300,2.750
+72083018,2026-08-30 18:00,FK Zemun,FK Crvena Zvezda Belgrade,0,2,15.000,7.500,1.142
+72083022,2026-08-30 19:00,FK IMT Novi Beograd,FK Mladost Lucani,2,0,1.615,3.750,5.500
+72083020,2026-08-31 17:00,FK Partizan Belgrade,OFK Beograd,3,1,1.650,4.100,4.500
+72083038,2026-09-04 17:00,FK Novi Pazar,FK Zeleznicar Pancevo,2,0,2.625,3.400,2.500
+72083036,2026-09-05 16:00,FK Radnik Surdulica,FK Cukaricki Belgrade,3,1,2.150,3.400,3.200
+72083026,2026-09-05 18:00,FK Macva Sabac,FK Radnicki 1923 Kragujevac,0,0,3.300,3.100,2.150
+72083028,2026-09-05 18:00,FK Mladost Lucani,FK Radnicki Nis,1,0,3.000,3.250,2.300
+72083032,2026-09-06 17:00,FK Crvena Zvezda Belgrade,FK Partizan Belgrade,2,1,1.400,5.000,6.000
+72083034,2026-09-06 19:00,FK Vojvodina Novi Sad,FK Zemun,2,1,1.181,7.000,13.000
+72083030,2026-09-07 18:00,OFK Beograd,FK IMT Novi Beograd,1,1,2.200,3.300,3.200
+74314902,2026-09-10 17:00,FK Radnik Surdulica,FK Crvena Zvezda Belgrade,0,0,11.000,5.500,1.250
+72083040,2026-09-11 16:30,FK Zeleznicar Pancevo,FK Macva Sabac,2,0,1.250,5.250,9.500
+72083042,2026-09-12 16:30,FK Cukaricki Belgrade,FK Novi Pazar,1,1,2.300,3.500,2.800
+72083052,2026-09-12 18:30,FK Radnicki 1923 Kragujevac,FK Mladost Lucani,5,0,1.533,4.000,5.750
+72083050,2026-09-13 14:00,FK Radnicki Nis,OFK Beograd,3,1,2.450,3.300,2.700
+72083046,2026-09-13 15:00,FK Partizan Belgrade,FK Vojvodina Novi Sad,2,3,2.250,3.700,2.750
+72083048,2026-09-13 17:00,FK IMT Novi Beograd,FK Crvena Zvezda Belgrade,0,1,11.000,5.750,1.250
+72083044,2026-09-14 17:00,FK Zemun,FK Radnik Surdulica,1,1,2.875,3.200,2.375
+74383004,2026-09-17 18:00,FK Zeleznicar Pancevo,FK Crvena Zvezda Belgrade,1,2,6.250,4.500,1.444
+72083060,2026-09-19 15:00,FK Vojvodina Novi Sad,FK IMT Novi Beograd,1,1,1.800,3.750,3.900
+72083064,2026-09-19 15:00,FK Novi Pazar,FK Zemun,2,2,1.380,4.500,7.000
+72083056,2026-09-19 17:00,OFK Beograd,FK Radnicki 1923 Kragujevac,3,5,2.550,3.200,2.700
+72083062,2026-09-19 17:00,FK Radnik Surdulica,FK Partizan Belgrade,4,4,3.700,3.700,1.850
+72083054,2026-09-20 15:00,FK Macva Sabac,FK Mladost Lucani,1,2,2.700,3.100,2.700
+72083058,2026-09-20 17:00,FK Crvena Zvezda Belgrade,FK Radnicki Nis,3,0,1.166,7.000,12.000
+72083066,2026-09-20 18:00,FK Zeleznicar Pancevo,FK Cukaricki Belgrade,2,1,1.833,3.750,4.000
+72083074,2026-10-10 13:00,FK IMT Novi Beograd,FK Radnik Surdulica,1,0,1.850,3.400,4.100
+72083068,2026-10-10 15:00,FK Cukaricki Belgrade,FK Macva Sabac,2,2,1.480,3.750,8.000
+72083078,2026-10-10 17:00,FK Radnicki 1923 Kragujevac,FK Crvena Zvezda Belgrade,0,3,5.500,4.100,1.533
+72083076,2026-10-11 13:00,FK Radnicki Nis,FK Vojvodina Novi Sad,1,4,4.100,3.750,1.800
+72083072,2026-10-11 15:00,FK Partizan Belgrade,FK Novi Pazar,1,0,1.420,4.100,6.250
+72083070,2026-10-11 17:00,FK Zemun,FK Zeleznicar Pancevo,0,3,5.500,4.200,1.533
+72083080,2026-10-12 18:00,FK Mladost Lucani,OFK Beograd,0,0,2.300,3.300,2.900
+72083088,2026-10-16 15:00,FK Radnik Surdulica,FK Radnicki Nis,3,0,2.050,3.300,3.300
+72083094,2026-10-17 13:00,FK Cukaricki Belgrade,FK Zemun,3,0,1.420,4.750,6.000
+72083086,2026-10-17 15:00,FK Vojvodina Novi Sad,FK Radnicki 1923 Kragujevac,2,0,1.550,4.000,5.500
+72083082,2026-10-17 17:00,FK Macva Sabac,OFK Beograd,1,1,3.000,3.000,2.400
+72083090,2026-10-18 12:00,FK Novi Pazar,FK IMT Novi Beograd,1,2,2.375,3.250,2.800
+72083084,2026-10-18 14:00,FK Crvena Zvezda Belgrade,FK Mladost Lucani,5,1,1.125,7.500,17.000
+72083092,2026-10-18 16:30,FK Zeleznicar Pancevo,FK Partizan Belgrade,1,0,2.300,3.400,2.800
+72083096,2026-10-23 16:00,FK Zemun,FK Macva Sabac,1,0,3.000,3.100,2.400
+72083100,2026-10-23 16:00,FK IMT Novi Beograd,FK Zeleznicar Pancevo,0,1,2.500,3.100,2.800
+72083102,2026-10-23 16:00,FK Radnicki Nis,FK Novi Pazar,0,2,2.700,3.300,2.500
+72083104,2026-10-23 16:00,FK Radnicki 1923 Kragujevac,FK Radnik Surdulica,1,0,1.800,3.500,4.200
+72083098,2026-10-24 14:00,FK Partizan Belgrade,FK Cukaricki Belgrade,0,2,1.615,4.100,4.750
+72083106,2026-10-24 16:00,FK Mladost Lucani,FK Vojvodina Novi Sad,1,1,5.000,4.100,1.600
+72083108,2026-10-25 15:00,OFK Beograd,FK Crvena Zvezda Belgrade,0,1,8.500,5.250,1.333
+75804676,2026-10-28 14:00,FK Radnicki 1923 Kragujevac,FK Zeleznicar Pancevo,1,2,2.100,3.500,3.100
+75812222,2026-10-28 16:00,FK Radnicki Nis,FK Partizan Belgrade,2,3,4.500,4.000,1.615
+72083110,2026-10-31 16:00,FK Macva Sabac,FK Crvena Zvezda Belgrade,2,4,13.000,7.500,1.166
+72083120,2026-11-01 13:00,FK IMT Novi Beograd,FK Cukaricki Belgrade,0,0,1.900,3.600,3.800
+72083112,2026-11-01 14:00,OFK Beograd,FK Vojvodina Novi Sad,0,2,3.700,3.600,1.900
+72083116,2026-11-01 15:00,FK Radnicki 1923 Kragujevac,FK Novi Pazar,2,0,2.000,3.300,3.700
+72083122,2026-11-01 16:00,FK Partizan Belgrade,FK Zemun,3,0,1.181,7.000,13.000
+72083114,2026-11-02 17:00,FK Mladost Lucani,FK Radnik Surdulica,0,1,2.875,3.300,2.450
+72083118,2026-11-02 17:00,FK Radnicki Nis,FK Zeleznicar Pancevo,0,0,3.900,3.500,1.900
+72083126,2026-11-07 12:00,FK Zemun,FK IMT Novi Beograd,1,1,5.000,4.000,1.600
+72083128,2026-11-07 14:00,FK Cukaricki Belgrade,FK Radnicki Nis,2,1,1.615,3.800,4.750
+72083130,2026-11-07 16:00,FK Zeleznicar Pancevo,FK Radnicki 1923 Kragujevac,3,1,2.150,3.500,3.000
+72083132,2026-11-08 12:00,FK Novi Pazar,FK Mladost Lucani,2,0,1.571,3.800,5.250
+72083134,2026-11-08 12:00,FK Radnik Surdulica,OFK Beograd,2,1,2.050,3.300,3.400
+72083124,2026-11-08 16:00,FK Partizan Belgrade,FK Macva Sabac,1,2,1.222,5.750,11.000
+72083136,2026-11-08 18:00,FK Vojvodina Novi Sad,FK Crvena Zvezda Belgrade,0,1,3.900,3.900,1.750

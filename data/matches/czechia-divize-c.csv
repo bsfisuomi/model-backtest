@@ -1,0 +1,281 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+56009201,2025-05-24 08:15,MFk Chrudim B,Rmsk Cidlina,2,1,,,
+56009197,2025-05-25 15:00,MFK Trutnov,FC Hlinsko,0,1,,,
+56009207,2025-05-31 08:15,Brandys Nad Labem,FK Prepere,0,2,,,
+56009221,2025-06-01 15:00,Horni Redice,SK Kosmonosy,2,1,,,
+56009223,2025-06-08 15:00,Horni Redice,Brandys Nad Labem,2,1,,,
+56009243,2025-06-14 08:15,SK Benesov,FK Dobrovice,5,0,,,
+56009249,2025-06-14 08:30,FK Velke Hamry,Spartak Police Nad Metuji,8,0,,,
+62047430,2025-08-09 08:30,FC Hlinsko,FK Chlumec Nad Cidlinou,4,2,,,
+62047444,2025-08-10 15:00,Svitavy,Brandys Nad Labem,0,1,,,
+62047446,2025-08-16 08:15,Horni Redice,MFK Trutnov,2,4,,,
+62047454,2025-08-16 08:30,FC Hlinsko,Svitavy,3,0,,,
+62047456,2025-08-16 15:00,FK Slovan Hradek Nad Nisou 1910,FK Dobrovice,5,3,,,
+62047474,2025-08-24 15:00,MFK Trutnov,Brandys Nad Labem,2,0,,,
+62047478,2025-08-30 08:15,Horni Redice,FK Caslav,2,4,,,
+62047480,2025-08-30 08:15,Brandys Nad Labem,FK Nachod,0,4,,,
+62047484,2025-08-30 15:00,FK Slovan Hradek Nad Nisou 1910,FK Prepere,0,4,,,
+62047486,2025-08-31 08:15,FK Chlumec Nad Cidlinou,MFk Chrudim B,1,0,,,
+62047494,2025-09-06 08:15,MFk Chrudim B,FK Slovan Hradek Nad Nisou 1910,2,0,,,
+62047500,2025-09-06 15:00,FK Nachod,FC Hlinsko,1,3,,,
+62047502,2025-09-06 15:00,FK Dobrovice,Horni Redice,1,4,,,
+62047508,2025-09-07 15:00,MFK Trutnov,Svitavy,6,0,,,
+62047510,2025-09-13 08:15,FK Chlumec Nad Cidlinou,FK Slovan Hradek Nad Nisou 1910,0,0,,,
+62047526,2025-09-20 08:15,MFk Chrudim B,Spartak Police Nad Metuji,2,2,,,
+62047542,2025-09-27 08:15,Horni Redice,MFk Chrudim B,4,1,,,
+62047544,2025-09-27 08:15,Brandys Nad Labem,FK Prepere,1,2,,,
+62047546,2025-09-27 08:30,FC Hlinsko,Vysoke Myto,1,2,,,
+62047550,2025-09-28 08:15,FK Chlumec Nad Cidlinou,FK Turnov,1,3,,,
+62047556,2025-09-28 14:30,MFK Trutnov,FK Nachod,3,3,,,
+62047558,2025-10-04 08:15,MFk Chrudim B,Brandys Nad Labem,1,1,,,
+62047566,2025-10-04 14:00,Vysoke Myto,Svitavy,2,1,,,
+62047576,2025-10-11 08:15,Brandys Nad Labem,FK Slovan Hradek Nad Nisou 1910,2,0,,,
+62047584,2025-10-12 08:15,FK Chlumec Nad Cidlinou,Spartak Police Nad Metuji,1,0,,,
+62047586,2025-10-12 14:00,Svitavy,FK Prepere,0,4,,,
+62047592,2025-10-18 08:30,FK Prepere,SK Kosmonosy,2,0,,,
+63757805,2025-10-22 13:30,Spartak Police Nad Metuji,FK Prepere,0,1,,,
+62047626,2025-11-01 09:15,MFk Chrudim B,MFK Trutnov,1,2,,,
+62047642,2025-11-08 09:30,FC Hlinsko,Horni Redice,0,4,,,
+62047644,2025-11-08 09:30,SK Kosmonosy,FK Turnov,1,2,,,
+62047648,2025-11-08 13:00,FK Dobrovice,Vysoke Myto,1,5,,,
+62047650,2025-11-09 09:15,FK Chlumec Nad Cidlinou,Brandys Nad Labem,2,2,,,
+62047652,2025-11-09 13:00,Svitavy,Spartak Police Nad Metuji,1,1,,,
+62047654,2025-11-09 13:00,FK Caslav,FK Prepere,0,0,,,
+62047656,2025-11-09 13:00,MFK Trutnov,FK Slovan Hradek Nad Nisou 1910,1,0,,,
+62047658,2025-11-15 09:15,MFk Chrudim B,FK Caslav,2,4,,,
+62047662,2025-11-15 09:15,Brandys Nad Labem,FC Hlinsko,3,3,,,
+62047664,2025-11-15 09:30,FK Prepere,FK Dobrovice,2,1,,,
+62047668,2025-11-15 12:30,FK Slovan Hradek Nad Nisou 1910,FK Nachod,1,1,,,
+62047670,2025-11-15 15:00,FK Turnov,MFK Trutnov,3,2,,,
+66606382,2026-03-07 09:15,Brandys Nad Labem,Svitavy,1,1,1.800,3.400,3.700
+66606392,2026-03-07 13:30,MFk Chrudim B,FK Dobrovice,2,0,,,
+66606384,2026-03-07 16:30,Horni Redice,SK Kosmonosy,2,1,,,
+66606396,2026-03-08 09:15,FK Chlumec Nad Cidlinou,FC Hlinsko,3,2,,,
+66606386,2026-03-08 13:30,Spartak Police Nad Metuji,MFK Trutnov,1,4,,,
+66606388,2026-03-08 13:30,FK Turnov,FK Nachod,1,0,,,
+66606390,2026-03-08 13:30,FK Caslav,FK Slovan Hradek Nad Nisou 1910,3,0,,,
+66606398,2026-03-14 09:30,FK Prepere,FK Chlumec Nad Cidlinou,0,0,,,
+66606410,2026-03-14 09:30,SK Kosmonosy,Brandys Nad Labem,3,0,1.615,4.500,3.600
+66606400,2026-03-14 13:30,Vysoke Myto,MFk Chrudim B,1,0,1.833,4.500,2.875
+66606402,2026-03-14 13:30,FK Dobrovice,FK Slovan Hradek Nad Nisou 1910,1,1,2.100,3.800,2.700
+66606406,2026-03-14 13:30,FK Nachod,Spartak Police Nad Metuji,0,0,,,
+66606404,2026-03-15 13:30,FK Caslav,FK Turnov,1,1,1.571,4.000,4.500
+66606408,2026-03-15 13:30,MFK Trutnov,Horni Redice,1,2,2.150,4.000,2.550
+66606412,2026-03-15 13:30,Svitavy,FC Hlinsko,4,3,2.700,3.750,2.050
+66606414,2026-03-21 09:15,Brandys Nad Labem,MFK Trutnov,5,2,2.750,3.600,2.100
+66606416,2026-03-21 09:15,Horni Redice,FK Nachod,5,2,1.363,5.000,5.500
+66606428,2026-03-21 09:30,FC Hlinsko,SK Kosmonosy,5,1,2.625,4.000,2.050
+66606422,2026-03-21 14:00,FK Slovan Hradek Nad Nisou 1910,Vysoke Myto,0,0,,,
+66606424,2026-03-21 14:00,MFk Chrudim B,FK Prepere,0,3,,,
+66606426,2026-03-22 09:15,FK Chlumec Nad Cidlinou,Svitavy,4,1,1.363,4.333,6.500
+66606418,2026-03-22 14:00,Spartak Police Nad Metuji,FK Caslav,0,0,,,
+66606420,2026-03-22 14:00,FK Turnov,FK Dobrovice,3,0,1.270,5.500,7.000
+66606432,2026-03-28 09:30,FK Prepere,FK Slovan Hradek Nad Nisou 1910,3,0,1.250,5.500,8.000
+66606444,2026-03-28 09:30,SK Kosmonosy,Svitavy,4,0,1.500,4.200,4.750
+66606434,2026-03-28 14:00,Vysoke Myto,FK Turnov,0,0,,,
+66606436,2026-03-28 14:00,FK Dobrovice,Spartak Police Nad Metuji,0,0,,,
+66606440,2026-03-28 14:00,FK Nachod,Brandys Nad Labem,0,0,,,
+66606430,2026-03-28 15:00,MFk Chrudim B,FK Chlumec Nad Cidlinou,0,2,3.250,3.700,1.900
+66606438,2026-03-29 13:00,FK Caslav,Horni Redice,2,1,,,
+66606442,2026-03-29 13:00,MFK Trutnov,FC Hlinsko,1,3,1.700,4.333,3.300
+66606446,2026-04-03 08:15,Brandys Nad Labem,FK Caslav,1,1,3.400,3.900,1.800
+66606456,2026-04-03 08:15,FK Chlumec Nad Cidlinou,SK Kosmonosy,2,1,1.800,4.200,3.250
+66606460,2026-04-03 08:30,FC Hlinsko,FK Nachod,3,1,1.500,4.500,4.500
+66606448,2026-04-03 11:30,Horni Redice,FK Dobrovice,5,0,1.222,5.750,8.000
+66606452,2026-04-03 14:30,FK Turnov,FK Prepere,0,3,2.250,3.750,2.500
+66606454,2026-04-04 14:30,FK Slovan Hradek Nad Nisou 1910,MFk Chrudim B,1,2,2.000,3.600,3.000
+66606450,2026-04-05 14:30,Spartak Police Nad Metuji,Vysoke Myto,0,0,,,
+66606458,2026-04-05 14:30,Svitavy,MFK Trutnov,0,0,,,
+66606466,2026-04-11 08:30,FK Prepere,Spartak Police Nad Metuji,0,1,1.380,4.500,5.500
+66606464,2026-04-11 14:30,MFk Chrudim B,FK Turnov,0,0,,,
+66606468,2026-04-11 14:30,Vysoke Myto,Horni Redice,0,0,,,
+66606470,2026-04-11 14:30,FK Dobrovice,Brandys Nad Labem,0,0,,,
+66606474,2026-04-11 14:30,FK Nachod,Svitavy,1,2,1.750,3.750,3.500
+66606462,2026-04-12 13:00,FK Slovan Hradek Nad Nisou 1910,FK Chlumec Nad Cidlinou,1,0,4.750,3.900,1.533
+66606472,2026-04-12 14:30,FK Caslav,FC Hlinsko,3,2,1.450,4.500,5.000
+66606476,2026-04-12 14:30,MFK Trutnov,SK Kosmonosy,3,3,2.300,3.800,2.375
+66606480,2026-04-18 08:15,Brandys Nad Labem,Vysoke Myto,0,0,,,
+66606482,2026-04-18 08:15,Horni Redice,FK Prepere,1,0,,,
+66606490,2026-04-18 08:30,SK Kosmonosy,FK Nachod,2,0,,,
+66606494,2026-04-18 08:30,FC Hlinsko,FK Dobrovice,2,1,1.250,5.250,9.000
+66606488,2026-04-19 08:15,FK Chlumec Nad Cidlinou,MFK Trutnov,1,2,1.550,4.500,4.000
+66606486,2026-04-19 12:00,FK Turnov,FK Slovan Hradek Nad Nisou 1910,3,1,1.420,4.500,5.250
+66606484,2026-04-19 15:00,Spartak Police Nad Metuji,MFk Chrudim B,2,0,1.727,4.100,3.500
+66606492,2026-04-19 15:00,Svitavy,FK Caslav,1,4,,,
+69936536,2026-04-22 15:00,FK Prepere,Vysoke Myto,0,2,,,
+66606502,2026-04-25 08:30,FK Prepere,Brandys Nad Labem,0,0,,,
+66606504,2026-04-25 15:00,Vysoke Myto,FC Hlinsko,0,0,,,
+66606506,2026-04-25 15:00,FK Dobrovice,Svitavy,0,0,,,
+66606510,2026-04-25 15:00,FK Nachod,MFK Trutnov,0,0,,,
+66606498,2026-04-26 13:00,FK Slovan Hradek Nad Nisou 1910,Spartak Police Nad Metuji,0,0,,,
+66606500,2026-04-26 13:30,MFk Chrudim B,Horni Redice,2,0,,,
+66606496,2026-04-26 15:00,FK Turnov,FK Chlumec Nad Cidlinou,0,0,,,
+66606508,2026-04-26 15:00,FK Caslav,SK Kosmonosy,4,3,1.550,4.333,4.200
+66606512,2026-05-01 08:15,Brandys Nad Labem,MFk Chrudim B,1,1,,,
+66606518,2026-05-01 08:15,FK Chlumec Nad Cidlinou,FK Nachod,1,2,,,
+66606522,2026-05-01 08:30,SK Kosmonosy,FK Dobrovice,6,1,,,
+66606526,2026-05-01 08:30,FC Hlinsko,FK Prepere,4,1,,,
+66606514,2026-05-01 12:00,Horni Redice,FK Slovan Hradek Nad Nisou 1910,2,1,1.200,6.250,9.500
+66606516,2026-05-03 15:00,Spartak Police Nad Metuji,FK Turnov,0,0,,,
+66606520,2026-05-03 15:00,MFK Trutnov,FK Caslav,1,2,,,
+66606524,2026-05-03 15:00,Svitavy,Vysoke Myto,0,0,,,
+66606530,2026-05-08 13:00,FK Turnov,Horni Redice,3,2,,,
+66606536,2026-05-09 08:30,FK Prepere,Svitavy,1,0,,,
+66606534,2026-05-09 15:00,MFk Chrudim B,FC Hlinsko,5,0,,,
+66606538,2026-05-09 15:00,Vysoke Myto,SK Kosmonosy,1,1,,,
+66606540,2026-05-09 15:00,FK Dobrovice,MFK Trutnov,0,0,,,
+66606532,2026-05-10 13:00,FK Slovan Hradek Nad Nisou 1910,Brandys Nad Labem,1,2,2.300,3.900,2.450
+66606528,2026-05-10 15:00,Spartak Police Nad Metuji,FK Chlumec Nad Cidlinou,2,1,,,
+66606542,2026-05-10 15:00,FK Caslav,FK Nachod,6,1,1.166,6.000,11.000
+66606544,2026-05-16 08:15,Brandys Nad Labem,FK Turnov,0,0,,,
+66606546,2026-05-16 08:15,Horni Redice,Spartak Police Nad Metuji,3,3,,,
+66606554,2026-05-16 08:30,SK Kosmonosy,FK Prepere,0,0,,,
+66606558,2026-05-16 08:30,FC Hlinsko,FK Slovan Hradek Nad Nisou 1910,1,0,,,
+66606550,2026-05-16 15:00,FK Nachod,FK Dobrovice,3,0,1.420,4.750,5.000
+66606548,2026-05-17 08:15,FK Chlumec Nad Cidlinou,FK Caslav,1,0,,,
+66606552,2026-05-17 15:00,MFK Trutnov,Vysoke Myto,0,0,,,
+66606556,2026-05-17 15:00,Svitavy,MFk Chrudim B,1,2,2.250,3.900,2.400
+66606560,2026-05-23 08:15,Horni Redice,FK Chlumec Nad Cidlinou,4,0,,,
+66606568,2026-05-23 08:15,MFk Chrudim B,SK Kosmonosy,0,0,,,
+66606570,2026-05-23 08:30,FK Prepere,MFK Trutnov,4,1,,,
+66606572,2026-05-23 15:00,Vysoke Myto,FK Nachod,0,0,,,
+66606574,2026-05-23 15:00,FK Dobrovice,FK Caslav,2,5,,,
+66606566,2026-05-24 13:00,FK Slovan Hradek Nad Nisou 1910,Svitavy,0,0,,,
+66606562,2026-05-24 15:00,Spartak Police Nad Metuji,Brandys Nad Labem,1,1,,,
+66606564,2026-05-24 15:00,FK Turnov,FC Hlinsko,4,0,,,
+66606576,2026-05-30 08:15,Brandys Nad Labem,Horni Redice,0,0,,,
+66606586,2026-05-30 08:30,SK Kosmonosy,FK Slovan Hradek Nad Nisou 1910,1,2,,,
+66606590,2026-05-30 08:30,FC Hlinsko,Spartak Police Nad Metuji,2,2,,,
+66606582,2026-05-30 15:00,FK Nachod,FK Prepere,1,2,,,
+66606578,2026-05-31 08:15,FK Chlumec Nad Cidlinou,FK Dobrovice,0,0,,,
+66606580,2026-05-31 15:00,FK Caslav,Vysoke Myto,1,4,,,
+66606584,2026-05-31 15:00,MFK Trutnov,MFk Chrudim B,2,3,,,
+66606588,2026-05-31 15:00,Svitavy,FK Turnov,4,3,,,
+66606592,2026-06-06 08:15,Brandys Nad Labem,FK Chlumec Nad Cidlinou,0,0,,,
+66606594,2026-06-06 08:15,Horni Redice,FC Hlinsko,3,1,,,
+66606604,2026-06-06 08:30,FK Prepere,FK Caslav,0,0,,,
+66606606,2026-06-06 15:00,Vysoke Myto,FK Dobrovice,3,0,,,
+66606600,2026-06-07 13:00,FK Slovan Hradek Nad Nisou 1910,MFK Trutnov,0,0,,,
+66606602,2026-06-07 14:00,MFk Chrudim B,FK Nachod,3,1,,,
+66606596,2026-06-07 15:00,Spartak Police Nad Metuji,Svitavy,0,0,,,
+66606598,2026-06-07 15:00,FK Turnov,SK Kosmonosy,3,3,,,
+66606608,2026-06-13 08:15,Chlumec Nad Cidlinou,Myto,1,4,,,
+66606622,2026-06-13 08:30,Hlinsko,Brandys N. Labem,0,7,,,
+66606610,2026-06-13 11:30,Dobrovice,FK Prepere,0,1,,,
+66606616,2026-06-13 13:30,MFK Trutnov,Turnov,2,4,,,
+66606614,2026-06-13 14:00,FK Nachod,FK Slovan Hradek Nad Nisou 1910,0,0,,,
+66606612,2026-06-13 15:00,FK Caslav,MFk Chrudim B,1,2,,,
+66606618,2026-06-13 15:00,Spartak Police Nad Metuji,SK Kosmonosy,0,0,,,
+66606620,2026-06-13 15:00,Svitavy,Horni Redice,0,0,,,
+72655000,2026-08-08 08:15,FK Cechie Vykan,MFk Chrudim B,7,2,1.333,5.500,5.250
+72655002,2026-08-08 08:30,FC Hlinsko,SK Sparta Kolin,1,1,,,
+72655004,2026-08-08 08:30,FK Prepere,SK Kosmonosy,2,4,1.615,4.000,4.100
+72655008,2026-08-08 15:00,Tj Jiskra Usti Nad Orlici,FK Turnov,2,2,,,
+72655010,2026-08-08 15:00,MFK Trutnov,Spartak Police Nad Metuji,1,2,2.050,3.800,2.750
+72655012,2026-08-08 15:00,Vysoke Myto,FK Chlumec Nad Cidlinou,4,2,1.400,4.500,5.500
+72655006,2026-08-09 15:00,Svitavy,Letohrad,3,1,,,
+72655014,2026-08-09 15:00,Tj Dvur Kralove Nad Labem,FC Slavia HK,2,1,2.150,4.200,2.400
+72655018,2026-08-15 08:15,FC Slavia HK,Svitavy,3,2,2.300,3.700,2.400
+72655016,2026-08-15 08:30,FC Hlinsko,Tj Dvur Kralove Nad Labem,3,2,2.000,4.000,2.750
+72655024,2026-08-15 13:00,SK Kosmonosy,Vysoke Myto,2,2,2.750,3.800,2.100
+72655020,2026-08-15 14:00,MFk Chrudim B,Tj Jiskra Usti Nad Orlici,0,6,,,
+72655022,2026-08-15 15:00,Letohrad,FK Cechie Vykan,1,4,,,
+72655026,2026-08-16 15:00,FK Turnov,MFK Trutnov,4,0,2.000,3.600,3.000
+72655028,2026-08-16 15:00,Spartak Police Nad Metuji,FK Prepere,0,1,,,
+72655030,2026-08-16 15:00,SK Sparta Kolin,FK Chlumec Nad Cidlinou,1,1,1.950,3.900,2.900
+72655034,2026-08-22 08:30,FK Prepere,FK Turnov,5,2,1.900,3.900,3.100
+72655038,2026-08-22 15:00,Tj Jiskra Usti Nad Orlici,Letohrad,4,1,,,
+72655040,2026-08-22 15:00,MFK Trutnov,MFk Chrudim B,5,0,,,
+72655042,2026-08-22 15:00,Vysoke Myto,Spartak Police Nad Metuji,2,0,1.300,5.000,6.500
+72655044,2026-08-23 08:15,FK Chlumec Nad Cidlinou,SK Kosmonosy,0,2,2.350,3.900,2.300
+72655036,2026-08-23 15:00,Svitavy,FC Hlinsko,0,6,,,
+72655046,2026-08-23 15:00,Tj Dvur Kralove Nad Labem,SK Sparta Kolin,2,2,3.300,4.000,1.750
+72655050,2026-08-29 08:15,FC Slavia HK,Tj Jiskra Usti Nad Orlici,3,1,,,
+72655048,2026-08-29 08:30,FC Hlinsko,FK Cechie Vykan,2,1,2.700,3.900,2.050
+72655052,2026-08-29 14:00,MFk Chrudim B,FK Prepere,1,2,,,
+72655054,2026-08-29 15:00,Letohrad,MFK Trutnov,1,2,,,
+72655056,2026-08-30 15:00,Tj Dvur Kralove Nad Labem,Svitavy,1,0,2.000,3.900,2.800
+72655058,2026-08-30 15:00,FK Turnov,Vysoke Myto,0,2,,,
+72655060,2026-08-30 15:00,Spartak Police Nad Metuji,FK Chlumec Nad Cidlinou,3,1,,,
+72655062,2026-08-30 15:00,SK Sparta Kolin,SK Kosmonosy,0,4,2.300,3.900,2.350
+72655064,2026-09-05 08:15,FK Cechie Vykan,Tj Dvur Kralove Nad Labem,2,1,1.333,5.000,6.250
+72655066,2026-09-05 08:30,FK Prepere,Letohrad,8,1,1.222,5.750,8.500
+72655070,2026-09-05 15:00,Tj Jiskra Usti Nad Orlici,FC Hlinsko,2,1,1.750,3.700,3.600
+72655072,2026-09-05 15:00,MFK Trutnov,FC Slavia HK,2,2,1.727,4.000,3.500
+72655074,2026-09-05 15:00,SK Kosmonosy,Spartak Police Nad Metuji,4,1,1.533,4.100,4.500
+72655076,2026-09-05 15:00,Vysoke Myto,MFk Chrudim B,4,4,,,
+72655078,2026-09-06 08:15,FK Chlumec Nad Cidlinou,FK Turnov,1,0,2.150,4.000,2.500
+72655068,2026-09-06 15:00,Svitavy,SK Sparta Kolin,1,3,2.600,4.000,2.100
+72655084,2026-09-12 08:15,FC Slavia HK,FK Prepere,0,1,3.400,3.800,1.800
+72655080,2026-09-12 08:30,FC Hlinsko,MFK Trutnov,1,0,2.000,3.750,2.800
+72655082,2026-09-12 14:00,MFk Chrudim B,FK Chlumec Nad Cidlinou,2,3,3.200,4.100,1.800
+72655088,2026-09-12 15:00,Letohrad,Vysoke Myto,2,3,,,
+72655086,2026-09-13 15:00,Svitavy,FK Cechie Vykan,0,0,4.750,5.250,1.420
+72655090,2026-09-13 15:00,Tj Dvur Kralove Nad Labem,Tj Jiskra Usti Nad Orlici,0,1,4.100,4.200,1.600
+72655092,2026-09-13 15:00,FK Turnov,SK Kosmonosy,4,1,1.950,3.900,2.800
+72655094,2026-09-13 15:00,SK Sparta Kolin,Spartak Police Nad Metuji,3,1,1.750,4.000,3.400
+72655096,2026-09-19 08:15,FK Cechie Vykan,SK Sparta Kolin,2,3,1.500,3.600,6.000
+72655098,2026-09-19 08:30,FK Prepere,FC Hlinsko,5,0,1.363,5.000,5.750
+72655100,2026-09-19 14:30,Tj Jiskra Usti Nad Orlici,Svitavy,0,0,,,
+72655102,2026-09-19 14:30,MFK Trutnov,Tj Dvur Kralove Nad Labem,2,0,,,
+72655104,2026-09-19 14:30,Vysoke Myto,FC Slavia HK,7,2,,,
+72655106,2026-09-19 14:30,SK Kosmonosy,MFk Chrudim B,6,1,1.142,7.500,12.000
+72655108,2026-09-20 08:15,FK Chlumec Nad Cidlinou,Letohrad,4,1,1.222,5.500,8.000
+72655110,2026-09-20 14:30,Spartak Police Nad Metuji,FK Turnov,3,5,,,
+74741878,2026-09-23 14:30,FK Cechie Vykan,FC Slavia HK,1,3,1.420,5.000,4.750
+72655112,2026-09-26 08:15,FK Cechie Vykan,Tj Jiskra Usti Nad Orlici,0,2,,,
+72655118,2026-09-26 08:15,FC Slavia HK,FK Chlumec Nad Cidlinou,0,2,2.625,4.000,2.050
+72655114,2026-09-26 08:30,FC Hlinsko,Vysoke Myto,2,3,,,
+72655116,2026-09-26 14:00,MFk Chrudim B,Spartak Police Nad Metuji,1,2,3.800,4.333,1.615
+72655122,2026-09-26 14:30,Letohrad,SK Kosmonosy,2,3,,,
+72655120,2026-09-27 14:30,Svitavy,MFK Trutnov,1,3,2.875,4.100,1.950
+72655124,2026-09-27 14:30,Tj Dvur Kralove Nad Labem,FK Prepere,1,0,6.250,5.250,1.285
+72655126,2026-09-27 14:30,SK Sparta Kolin,FK Turnov,1,2,2.350,3.900,2.350
+72655128,2026-10-03 08:30,FK Prepere,Svitavy,3,1,1.222,5.500,8.500
+72655132,2026-10-03 14:00,Vysoke Myto,Tj Dvur Kralove Nad Labem,2,0,,,
+72655134,2026-10-03 14:00,MFK Trutnov,FK Cechie Vykan,2,1,2.000,4.100,2.750
+72655136,2026-10-03 14:00,SK Kosmonosy,FC Slavia HK,2,1,1.333,5.000,6.000
+72655138,2026-10-04 08:15,FK Chlumec Nad Cidlinou,FC Hlinsko,2,0,1.615,4.200,3.900
+72655130,2026-10-04 14:00,Tj Jiskra Usti Nad Orlici,SK Sparta Kolin,2,1,1.500,4.333,4.500
+72655140,2026-10-04 14:00,Spartak Police Nad Metuji,Letohrad,4,0,1.285,5.500,7.000
+72655142,2026-10-04 14:00,FK Turnov,MFk Chrudim B,4,1,1.125,7.500,13.000
+72655144,2026-10-10 08:15,FK Cechie Vykan,FK Prepere,0,5,,,
+72655150,2026-10-10 08:15,FC Slavia HK,Spartak Police Nad Metuji,1,1,2.700,3.750,2.100
+72655146,2026-10-10 08:30,FC Hlinsko,SK Kosmonosy,2,5,,,
+72655152,2026-10-10 14:00,Letohrad,FK Turnov,2,2,,,
+72655148,2026-10-11 14:00,Tj Jiskra Usti Nad Orlici,MFK Trutnov,1,2,1.800,3.800,3.500
+72655154,2026-10-11 14:00,Svitavy,Vysoke Myto,3,5,6.250,4.500,1.380
+72655156,2026-10-11 14:00,Tj Dvur Kralove Nad Labem,FK Chlumec Nad Cidlinou,0,0,3.500,4.000,1.727
+72655158,2026-10-11 14:00,SK Sparta Kolin,MFk Chrudim B,5,1,1.181,6.500,11.000
+72655166,2026-10-17 08:30,FK Prepere,Tj Jiskra Usti Nad Orlici,1,0,1.727,4.000,3.500
+72655164,2026-10-17 13:30,MFk Chrudim B,Letohrad,1,1,2.100,4.000,2.625
+72655168,2026-10-17 13:30,Vysoke Myto,FK Cechie Vykan,1,0,1.270,5.000,7.500
+72655170,2026-10-17 13:30,MFK Trutnov,SK Sparta Kolin,1,0,,,
+72655172,2026-10-17 13:30,SK Kosmonosy,Tj Dvur Kralove Nad Labem,1,2,,,
+72655174,2026-10-18 08:15,FK Chlumec Nad Cidlinou,Svitavy,4,1,1.285,5.000,7.000
+72655176,2026-10-18 13:30,Spartak Police Nad Metuji,FC Hlinsko,3,2,,,
+72655178,2026-10-18 13:30,FK Turnov,FC Slavia HK,3,0,1.363,4.750,6.000
+72655180,2026-10-24 08:15,FK Cechie Vykan,FK Chlumec Nad Cidlinou,1,1,,,
+72655186,2026-10-24 08:15,FC Slavia HK,MFk Chrudim B,4,0,1.333,5.000,6.000
+72655182,2026-10-24 08:30,FC Hlinsko,FK Turnov,1,3,3.100,4.100,1.833
+72655184,2026-10-24 12:30,Tj Jiskra Usti Nad Orlici,Vysoke Myto,0,0,3.100,3.800,1.900
+72655188,2026-10-24 12:30,MFK Trutnov,FK Prepere,3,0,,,
+72655190,2026-10-25 13:30,Svitavy,SK Kosmonosy,1,4,4.500,5.250,1.420
+72655192,2026-10-25 13:30,Tj Dvur Kralove Nad Labem,Spartak Police Nad Metuji,0,6,3.100,4.000,1.850
+72655194,2026-10-25 13:30,SK Sparta Kolin,Letohrad,1,2,1.222,6.000,7.500
+72655196,2026-10-31 09:30,FK Prepere,SK Sparta Kolin,3,1,1.450,4.750,4.750
+72655198,2026-10-31 13:00,MFk Chrudim B,FC Hlinsko,1,1,4.500,5.250,1.420
+72655200,2026-10-31 13:00,Letohrad,FC Slavia HK,5,1,,,
+72655202,2026-10-31 13:00,Vysoke Myto,MFK Trutnov,3,0,1.666,4.333,3.500
+72655204,2026-10-31 13:00,SK Kosmonosy,FK Cechie Vykan,4,1,1.450,5.000,4.500
+72655206,2026-11-01 09:15,FK Chlumec Nad Cidlinou,Tj Jiskra Usti Nad Orlici,0,0,2.000,4.100,2.750
+72655208,2026-11-01 13:00,Spartak Police Nad Metuji,Svitavy,5,0,,,
+72655210,2026-11-01 13:00,FK Turnov,Tj Dvur Kralove Nad Labem,4,0,1.250,5.750,7.500
+72655212,2026-11-07 09:15,FK Cechie Vykan,Spartak Police Nad Metuji,2,0,,,
+72655214,2026-11-07 09:30,FC Hlinsko,Letohrad,3,3,1.571,4.500,3.900
+72655218,2026-11-07 09:30,FK Prepere,Vysoke Myto,0,0,,,
+72655216,2026-11-07 13:00,Tj Jiskra Usti Nad Orlici,SK Kosmonosy,2,2,,,
+72655220,2026-11-07 13:00,MFK Trutnov,FK Chlumec Nad Cidlinou,1,0,2.050,3.750,2.800
+72655222,2026-11-08 13:00,Svitavy,FK Turnov,1,1,,,
+72655224,2026-11-08 13:00,Tj Dvur Kralove Nad Labem,MFk Chrudim B,4,0,1.480,4.750,4.500
+72655226,2026-11-08 13:00,SK Sparta Kolin,FC Slavia HK,3,0,1.550,5.000,3.800

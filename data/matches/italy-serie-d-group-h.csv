@@ -1,0 +1,306 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+62753299,2025-09-07 13:00,ASD Real Acerrana 1926,ASD Martina Calcio 1947,0,1,,,
+62753305,2025-09-07 13:00,FC Francavilla 1931,SS Manfredonia Calcio,3,2,,,
+62753301,2025-09-07 14:30,US Citta Di Fasano,AC Afragolese,2,0,,,
+62753303,2025-09-07 15:00,Fidelis Andria,Asd Ferrandina 17890,2,0,,,
+62753313,2025-09-07 15:00,Virtus Francavilla Calcio,Barletta Calcio,2,2,,,
+62753315,2025-09-14 13:00,AC Afragolese,ASD Sarnese 1926,2,3,,,
+62753317,2025-09-14 14:00,Barletta Calcio,Fidelis Andria,1,1,,,
+62753327,2025-09-14 14:00,Paganese Calcio,Heraclea,0,1,,,
+62753325,2025-09-14 16:00,ASD Martina Calcio 1947,AC Nardo,3,0,,,
+62753337,2025-09-19 17:00,Fidelis Andria,Paganese Calcio,1,0,,,
+62753343,2025-09-20 13:00,FC Pompei,SS Manfredonia Calcio,0,0,,,
+62753335,2025-09-20 16:00,ASD Real Acerrana 1926,ASD Real Normanna,1,1,,,
+62753349,2025-09-21 15:00,Virtus Francavilla Calcio,ASD Martina Calcio 1947,1,1,,,
+62753351,2025-09-24 13:00,AC Afragolese,FC Pompei,1,0,,,
+62753355,2025-09-24 13:00,US Citta Di Fasano,Asd SS Nola 1925,3,0,,,
+62753357,2025-09-24 14:00,Asd Ferrandina 17890,Virtus Francavilla Calcio,2,1,,,
+62753361,2025-09-24 14:00,SS Manfredonia Calcio,ASD Sarnese 1926,4,2,,,
+62753353,2025-09-24 15:00,Barletta Calcio,FC Francavilla 1931,0,0,,,
+62753363,2025-09-24 18:30,ASD Martina Calcio 1947,Fidelis Andria,1,1,,,
+62753385,2025-09-28 13:30,Virtus Francavilla Calcio,ASD Real Normanna,2,1,,,
+62753373,2025-09-28 14:00,Fidelis Andria,FBC Gravina,4,1,,,
+62753389,2025-10-04 18:30,Barletta Calcio,FC Pompei,3,0,,,
+62753391,2025-10-05 13:00,US Citta Di Fasano,AC Nardo,1,1,,,
+62753397,2025-10-05 14:00,ASD Martina Calcio 1947,FC Francavilla 1931,1,0,,,
+62753421,2025-10-12 13:00,Virtus Francavilla Calcio,US Citta Di Fasano,0,1,,,
+62753409,2025-10-12 13:30,Barletta Calcio,Asd Ferrandina 17890,1,0,,,
+62753411,2025-10-12 14:00,Fidelis Andria,Asd SS Nola 1925,3,1,,,
+62753425,2025-10-19 13:00,US Citta Di Fasano,Fidelis Andria,2,1,,,
+62753441,2025-10-26 13:30,ASD Real Acerrana 1926,AC Afragolese,0,4,,,
+62753455,2025-10-26 13:30,ASD Sarnese 1926,US Citta Di Fasano,1,1,,,
+62753457,2025-10-26 13:30,Virtus Francavilla Calcio,Heraclea,0,1,,,
+62753463,2025-11-02 13:30,US Citta Di Fasano,FC Francavilla 1931,3,2,,,
+62753471,2025-11-02 13:30,Paganese Calcio,SS Manfredonia Calcio,1,0,,,
+62753475,2025-11-02 13:30,Asd SS Nola 1925,Virtus Francavilla Calcio,3,2,,,
+62753549,2025-12-07 13:30,Barletta Calcio,Heraclea,1,0,,,
+62753551,2025-12-07 13:30,Asd Ferrandina 17890,Asd SS Nola 1925,1,0,,,
+62753557,2025-12-07 13:30,ASD Martina Calcio 1947,US Citta Di Fasano,3,2,,,
+62753567,2025-12-14 13:30,AC Nardo,Asd Ferrandina 17890,1,0,1.700,3.400,4.500
+62753569,2025-12-14 13:30,ASD Real Acerrana 1926,Barletta Calcio,0,4,4.200,3.750,1.650
+62753571,2025-12-14 13:30,US Citta Di Fasano,ASD Real Normanna,0,2,1.615,3.300,5.250
+62753573,2025-12-14 13:30,Fidelis Andria,SS Manfredonia Calcio,0,1,1.750,3.500,4.000
+62753575,2025-12-14 13:30,FC Francavilla 1931,ASD Sarnese 1926,0,4,,,
+62753577,2025-12-14 13:30,FBC Gravina,AC Afragolese,1,0,2.250,3.200,2.800
+62753579,2025-12-14 13:30,Heraclea,ASD Martina Calcio 1947,0,1,,,
+62753581,2025-12-14 13:30,Asd SS Nola 1925,Paganese Calcio,0,1,,,
+62753583,2025-12-14 13:30,Virtus Francavilla Calcio,FC Pompei,1,1,,,
+62753585,2025-12-21 13:30,AC Afragolese,FC Francavilla 1931,1,2,,,
+62753587,2025-12-21 13:30,Barletta Calcio,AC Nardo,0,0,2.100,3.100,3.200
+62753589,2025-12-21 13:30,Asd Ferrandina 17890,Heraclea,2,1,,,
+62753591,2025-12-21 13:30,SS Manfredonia Calcio,ASD Real Acerrana 1926,1,0,,,
+62753593,2025-12-21 13:30,ASD Martina Calcio 1947,Asd SS Nola 1925,3,0,,,
+62753595,2025-12-21 13:30,Paganese Calcio,US Citta Di Fasano,0,0,,,
+62753597,2025-12-21 13:30,FC Pompei,Fidelis Andria,0,1,,,
+62753599,2025-12-21 13:30,ASD Real Normanna,FBC Gravina,3,2,,,
+62753601,2025-12-21 13:30,ASD Sarnese 1926,Virtus Francavilla Calcio,0,0,2.000,3.300,3.200
+62753603,2026-01-04 13:30,AC Afragolese,US Citta Di Fasano,2,3,,,
+62753605,2026-01-04 13:30,Barletta Calcio,Virtus Francavilla Calcio,0,0,1.950,3.100,3.500
+62753607,2026-01-04 13:30,Asd Ferrandina 17890,Fidelis Andria,0,0,,,
+62753609,2026-01-04 13:30,FBC Gravina,Asd SS Nola 1925,0,2,,,
+62753611,2026-01-04 13:30,SS Manfredonia Calcio,FC Francavilla 1931,1,0,,,
+62753613,2026-01-04 13:30,ASD Martina Calcio 1947,ASD Real Acerrana 1926,1,1,,,
+62753615,2026-01-04 13:30,Paganese Calcio,AC Nardo,0,1,1.727,3.200,4.500
+62753617,2026-01-04 13:30,FC Pompei,ASD Sarnese 1926,0,0,,,
+62753619,2026-01-04 13:30,ASD Real Normanna,Heraclea,0,2,,,
+62753621,2026-01-11 13:30,AC Nardo,ASD Martina Calcio 1947,1,1,,,
+62753623,2026-01-11 13:30,ASD Real Acerrana 1926,Asd Ferrandina 17890,1,0,,,
+62753625,2026-01-11 13:30,US Citta Di Fasano,FBC Gravina,4,0,,,
+62753627,2026-01-11 13:30,Fidelis Andria,Barletta Calcio,0,0,2.350,2.900,3.000
+62753629,2026-01-11 13:30,FC Francavilla 1931,FC Pompei,2,0,,,
+62753631,2026-01-11 13:30,Heraclea,Paganese Calcio,1,2,,,
+62753633,2026-01-11 13:30,ASD Sarnese 1926,AC Afragolese,1,2,2.100,3.250,3.000
+62753635,2026-01-11 13:30,Asd SS Nola 1925,ASD Real Normanna,1,1,1.950,3.300,3.400
+62753637,2026-01-11 13:30,Virtus Francavilla Calcio,SS Manfredonia Calcio,2,0,2.050,3.100,3.300
+62753639,2026-01-18 13:30,AC Afragolese,Asd SS Nola 1925,0,0,,,
+62753641,2026-01-18 13:30,Barletta Calcio,ASD Sarnese 1926,3,2,1.850,3.250,3.600
+62753643,2026-01-18 13:30,US Citta Di Fasano,Heraclea,1,0,1.900,3.300,3.400
+62753645,2026-01-18 13:30,Asd Ferrandina 17890,FC Francavilla 1931,0,1,,,
+62753647,2026-01-18 13:30,FBC Gravina,AC Nardo,2,2,,,
+62753649,2026-01-18 13:30,SS Manfredonia Calcio,FC Pompei,0,0,,,
+62753651,2026-01-18 13:30,ASD Martina Calcio 1947,Virtus Francavilla Calcio,0,4,1.666,3.300,4.500
+62753653,2026-01-18 13:30,Paganese Calcio,Fidelis Andria,1,0,,,
+62753655,2026-01-18 13:30,ASD Real Normanna,ASD Real Acerrana 1926,2,0,,,
+62753657,2026-01-25 13:30,AC Nardo,ASD Real Normanna,1,0,1.666,3.300,4.750
+62753659,2026-01-25 13:30,ASD Real Acerrana 1926,Paganese Calcio,0,1,,,
+62753661,2026-01-25 13:30,Fidelis Andria,ASD Martina Calcio 1947,1,2,,,
+62753663,2026-01-25 13:30,FC Francavilla 1931,Barletta Calcio,0,1,,,
+62753665,2026-01-25 13:30,Heraclea,FBC Gravina,2,2,,,
+62753667,2026-01-25 13:30,FC Pompei,AC Afragolese,0,2,,,
+62753669,2026-01-25 13:30,ASD Sarnese 1926,SS Manfredonia Calcio,1,1,1.666,3.500,4.333
+62753671,2026-01-25 13:30,Asd SS Nola 1925,US Citta Di Fasano,1,2,2.700,3.200,2.300
+62753673,2026-01-25 13:30,Virtus Francavilla Calcio,Asd Ferrandina 17890,2,2,,,
+62753675,2026-02-01 13:30,AC Afragolese,Heraclea,1,0,,,
+62753677,2026-02-01 13:30,Barletta Calcio,SS Manfredonia Calcio,4,0,,,
+62753679,2026-02-01 13:30,US Citta Di Fasano,ASD Real Acerrana 1926,1,0,1.363,4.200,7.000
+62753681,2026-02-01 13:30,Asd Ferrandina 17890,FC Pompei,1,0,,,
+62753683,2026-02-01 13:30,FBC Gravina,Fidelis Andria,1,0,,,
+62753685,2026-02-01 13:30,ASD Martina Calcio 1947,ASD Sarnese 1926,3,0,1.666,3.600,4.333
+62753687,2026-02-01 13:30,Paganese Calcio,FC Francavilla 1931,1,3,,,
+62753689,2026-02-01 13:30,ASD Real Normanna,Virtus Francavilla Calcio,0,0,,,
+62753691,2026-02-01 13:30,Asd SS Nola 1925,AC Nardo,3,1,,,
+62753693,2026-02-08 13:30,AC Nardo,US Citta Di Fasano,3,0,2.700,3.100,2.300
+62753695,2026-02-08 13:30,ASD Real Acerrana 1926,FBC Gravina,0,1,,,
+62753697,2026-02-08 13:30,Fidelis Andria,ASD Real Normanna,1,0,,,
+62753699,2026-02-08 13:30,FC Francavilla 1931,ASD Martina Calcio 1947,1,2,,,
+62753701,2026-02-08 13:30,Heraclea,Asd SS Nola 1925,1,1,,,
+62753703,2026-02-08 13:30,SS Manfredonia Calcio,AC Afragolese,1,1,,,
+62753705,2026-02-08 13:30,FC Pompei,Barletta Calcio,0,2,5.500,3.400,1.600
+62753707,2026-02-08 13:30,ASD Sarnese 1926,Asd Ferrandina 17890,1,0,,,
+62753709,2026-02-08 13:30,Virtus Francavilla Calcio,Paganese Calcio,0,2,,,
+62753711,2026-02-15 13:30,AC Afragolese,AC Nardo,0,0,,,
+62753713,2026-02-15 13:30,US Citta Di Fasano,Virtus Francavilla Calcio,0,3,,,
+62753715,2026-02-15 13:30,Asd Ferrandina 17890,Barletta Calcio,0,2,,,
+62753717,2026-02-15 13:30,FBC Gravina,FC Francavilla 1931,2,1,,,
+62753719,2026-02-15 13:30,Heraclea,ASD Real Acerrana 1926,1,0,,,
+62753721,2026-02-15 13:30,ASD Martina Calcio 1947,SS Manfredonia Calcio,4,3,1.600,3.500,5.000
+62753723,2026-02-15 13:30,Paganese Calcio,FC Pompei,1,0,,,
+62753725,2026-02-15 13:30,ASD Real Normanna,ASD Sarnese 1926,2,2,,,
+62753727,2026-02-15 13:30,Asd SS Nola 1925,Fidelis Andria,2,1,2.400,3.200,2.600
+62753729,2026-02-22 13:30,AC Nardo,Heraclea,0,0,1.700,3.300,4.500
+62753731,2026-02-22 13:30,ASD Real Acerrana 1926,Asd SS Nola 1925,4,2,,,
+62753733,2026-02-22 13:30,Barletta Calcio,AC Afragolese,2,0,,,
+62753735,2026-02-22 13:30,Fidelis Andria,US Citta Di Fasano,2,0,,,
+62753737,2026-02-22 13:30,FC Francavilla 1931,ASD Real Normanna,1,1,,,
+62753739,2026-02-22 13:30,SS Manfredonia Calcio,Asd Ferrandina 17890,2,0,,,
+62753741,2026-02-22 13:30,FC Pompei,ASD Martina Calcio 1947,0,2,,,
+62753743,2026-02-22 13:30,ASD Sarnese 1926,Paganese Calcio,1,1,,,
+62753745,2026-02-22 13:30,Virtus Francavilla Calcio,FBC Gravina,0,1,1.909,2.750,3.600
+62753747,2026-03-01 13:30,AC Nardo,Fidelis Andria,3,2,2.100,3.000,3.250
+62753749,2026-03-01 13:30,AC Afragolese,ASD Real Acerrana 1926,5,2,,,
+62753751,2026-03-01 13:30,US Citta Di Fasano,ASD Sarnese 1926,2,1,,,
+62753753,2026-03-01 13:30,FBC Gravina,FC Pompei,2,0,,,
+62753755,2026-03-01 13:30,Heraclea,Virtus Francavilla Calcio,1,3,,,
+62753757,2026-03-01 13:30,ASD Martina Calcio 1947,Asd Ferrandina 17890,1,0,,,
+62753759,2026-03-01 13:30,Paganese Calcio,Barletta Calcio,0,2,2.600,2.700,2.750
+62753761,2026-03-01 13:30,ASD Real Normanna,SS Manfredonia Calcio,1,0,,,
+62753763,2026-03-01 13:30,Asd SS Nola 1925,FC Francavilla 1931,1,2,,,
+62753773,2026-03-15 13:30,FC Francavilla 1931,US Citta Di Fasano,0,0,,,
+62753777,2026-03-15 13:30,FC Pompei,ASD Real Normanna,0,0,,,
+62753765,2026-03-15 14:00,ASD Real Acerrana 1926,AC Nardo,0,0,,,
+62753769,2026-03-15 14:00,Asd Ferrandina 17890,AC Afragolese,0,0,,,
+62753781,2026-03-15 14:00,Virtus Francavilla Calcio,Asd SS Nola 1925,2,1,,,
+62753771,2026-03-15 14:30,Fidelis Andria,Heraclea,1,0,,,
+62753775,2026-03-15 14:30,SS Manfredonia Calcio,Paganese Calcio,0,0,,,
+62753779,2026-03-15 14:30,ASD Sarnese 1926,FBC Gravina,2,0,,,
+62753767,2026-03-15 15:00,Barletta Calcio,ASD Martina Calcio 1947,0,0,,,
+62753799,2026-03-22 13:30,Asd SS Nola 1925,FC Pompei,0,0,,,
+62753783,2026-03-22 14:00,AC Nardo,FC Francavilla 1931,2,1,1.727,3.250,4.333
+62753785,2026-03-22 14:00,ASD Real Acerrana 1926,Virtus Francavilla Calcio,0,0,,,
+62753787,2026-03-22 14:00,AC Afragolese,Fidelis Andria,0,0,,,
+62753791,2026-03-22 14:00,FBC Gravina,Barletta Calcio,0,0,6.000,3.400,1.500
+62753795,2026-03-22 14:00,Paganese Calcio,ASD Martina Calcio 1947,0,0,2.100,3.200,3.000
+62753797,2026-03-22 14:00,ASD Real Normanna,Asd Ferrandina 17890,3,1,1.900,3.100,3.750
+62753789,2026-03-22 14:30,US Citta Di Fasano,SS Manfredonia Calcio,2,1,,,
+62753793,2026-03-22 14:30,Heraclea,ASD Sarnese 1926,0,0,,,
+62753815,2026-03-28 15:00,ASD Sarnese 1926,Asd SS Nola 1925,1,0,,,
+62753813,2026-03-29 13:00,FC Pompei,US Citta Di Fasano,0,0,4.200,3.250,1.750
+62753807,2026-03-29 13:30,FC Francavilla 1931,Heraclea,0,0,,,
+62753809,2026-03-29 13:30,SS Manfredonia Calcio,FBC Gravina,0,0,,,
+62753811,2026-03-29 13:30,ASD Martina Calcio 1947,AC Afragolese,0,0,1.833,3.300,3.900
+62753817,2026-03-29 13:30,Virtus Francavilla Calcio,AC Nardo,0,0,2.000,3.000,3.600
+62753801,2026-03-29 14:00,Barletta Calcio,ASD Real Normanna,0,0,1.480,3.600,6.500
+62753803,2026-03-29 14:00,Asd Ferrandina 17890,Paganese Calcio,0,0,,,
+62753805,2026-03-29 14:00,Fidelis Andria,ASD Real Acerrana 1926,0,0,,,
+62753819,2026-04-02 13:00,AC Nardo,FC Pompei,0,0,1.480,3.800,5.750
+62753821,2026-04-02 13:00,ASD Real Acerrana 1926,ASD Sarnese 1926,2,5,12.000,5.000,1.200
+62753823,2026-04-02 13:00,AC Afragolese,Virtus Francavilla Calcio,2,2,2.100,3.200,3.100
+62753827,2026-04-02 13:00,Fidelis Andria,FC Francavilla 1931,0,0,1.615,3.300,5.250
+62753833,2026-04-02 13:00,ASD Real Normanna,Paganese Calcio,0,0,,,
+62753835,2026-04-02 13:00,Asd SS Nola 1925,Barletta Calcio,0,1,4.200,3.400,1.727
+62753825,2026-04-02 14:00,US Citta Di Fasano,Asd Ferrandina 17890,2,0,1.533,3.600,5.500
+62753829,2026-04-02 14:00,FBC Gravina,ASD Martina Calcio 1947,0,0,,,
+62753831,2026-04-02 16:30,Heraclea,SS Manfredonia Calcio,0,0,,,
+62753847,2026-04-11 13:00,Paganese Calcio,AC Afragolese,1,1,1.750,3.300,4.100
+62753841,2026-04-12 13:00,FC Francavilla 1931,ASD Real Acerrana 1926,0,0,,,
+62753845,2026-04-12 13:00,ASD Martina Calcio 1947,ASD Real Normanna,0,0,1.600,3.600,4.750
+62753849,2026-04-12 13:00,FC Pompei,Heraclea,0,0,,,
+62753837,2026-04-12 13:30,Barletta Calcio,US Citta Di Fasano,0,0,,,
+62753839,2026-04-12 13:30,Asd Ferrandina 17890,FBC Gravina,0,5,2.250,3.100,2.875
+62753851,2026-04-12 13:30,ASD Sarnese 1926,AC Nardo,0,0,2.100,3.200,3.200
+62753843,2026-04-12 14:00,SS Manfredonia Calcio,Asd SS Nola 1925,0,0,,,
+62753853,2026-04-12 14:00,Virtus Francavilla Calcio,Fidelis Andria,0,2,2.050,3.000,3.300
+62753855,2026-04-19 13:00,AC Nardo,SS Manfredonia Calcio,0,0,1.700,3.400,4.200
+62753857,2026-04-19 13:00,ASD Real Acerrana 1926,FC Pompei,0,0,,,
+62753859,2026-04-19 13:00,AC Afragolese,ASD Real Normanna,0,0,,,
+62753861,2026-04-19 13:00,US Citta Di Fasano,ASD Martina Calcio 1947,1,0,2.600,3.250,2.350
+62753863,2026-04-19 13:00,Fidelis Andria,ASD Sarnese 1926,2,1,2.000,3.000,3.600
+62753865,2026-04-19 13:00,FBC Gravina,Paganese Calcio,0,0,,,
+62753867,2026-04-19 13:00,Heraclea,Barletta Calcio,0,0,,,
+62753869,2026-04-19 13:00,Asd SS Nola 1925,Asd Ferrandina 17890,0,0,1.650,3.500,4.500
+62753871,2026-04-19 13:00,Virtus Francavilla Calcio,FC Francavilla 1931,0,0,1.850,3.200,3.700
+62753873,2026-04-26 13:00,AC Afragolese,FBC Gravina,0,0,,,
+62753875,2026-04-26 13:00,Barletta Calcio,ASD Real Acerrana 1926,0,0,,,
+62753877,2026-04-26 13:00,Asd Ferrandina 17890,AC Nardo,0,0,,,
+62753879,2026-04-26 13:00,SS Manfredonia Calcio,Fidelis Andria,0,0,2.000,3.100,3.400
+62753881,2026-04-26 13:00,ASD Martina Calcio 1947,Heraclea,2,1,,,
+62753883,2026-04-26 13:00,Paganese Calcio,Asd SS Nola 1925,5,0,,,
+62753885,2026-04-26 13:00,FC Pompei,Virtus Francavilla Calcio,0,0,,,
+62753887,2026-04-26 13:00,ASD Real Normanna,US Citta Di Fasano,2,0,,,
+62753889,2026-04-26 13:00,ASD Sarnese 1926,FC Francavilla 1931,0,0,1.850,3.500,3.500
+62753891,2026-05-03 13:00,AC Nardo,Barletta Calcio,0,0,,,
+62753893,2026-05-03 13:00,ASD Real Acerrana 1926,SS Manfredonia Calcio,0,0,,,
+62753895,2026-05-03 13:00,US Citta Di Fasano,Paganese Calcio,6,0,,,
+62753897,2026-05-03 13:00,Fidelis Andria,FC Pompei,1,2,,,
+62753899,2026-05-03 13:00,FC Francavilla 1931,AC Afragolese,2,0,,,
+62753901,2026-05-03 13:00,FBC Gravina,ASD Real Normanna,3,2,,,
+62753903,2026-05-03 13:00,Heraclea,Asd Ferrandina 17890,0,0,,,
+62753905,2026-05-03 13:00,Asd SS Nola 1925,ASD Martina Calcio 1947,2,1,,,
+62753907,2026-05-03 13:00,Virtus Francavilla Calcio,ASD Sarnese 1926,2,2,,,
+71322034,2026-05-10 14:00,US Citta Di Fasano,Paganese Calcio,1,1,1.909,3.300,3.500
+71322482,2026-05-10 14:00,ASD Sarnese 1926,FC Pompei,2,1,1.571,3.750,4.750
+71405404,2026-05-10 14:00,Asd SS Nola 1925,Heraclea,0,0,2.250,3.250,2.750
+71322028,2026-05-10 17:30,ASD Martina Calcio 1947,AC Nardo,2,1,2.050,3.100,3.400
+71467824,2026-05-17 14:00,ASD Martina Calcio 1947,Paganese Calcio,0,1,1.800,3.500,3.600
+73632386,2026-09-06 13:00,FC Francavilla 1931,SSD Ischia Calcio,1,0,,,
+73632408,2026-09-06 13:00,Real Forio 2014,Brindisi FC,4,1,,,
+73632382,2026-09-06 14:00,Turris Calcio,ASD Martina Calcio 1947,4,3,,,
+73632390,2026-09-06 14:00,ASD Gladiator 1924,SS Manfredonia Calcio,1,1,,,
+73632404,2026-09-06 14:00,ASD Real Normanna,AS Melfi 1929,2,0,,,
+73632412,2026-09-06 14:00,Virtus Francavilla Calcio,US Palmese 1914,3,1,1.900,3.200,3.600
+73632394,2026-09-06 14:30,AC Nardo,AS Bisceglie,0,2,2.550,2.800,2.750
+73632400,2026-09-06 15:00,ASD Nocerina 1910,ASC Ebolitana 1925,1,1,,,
+73632378,2026-09-06 16:00,Fidelis Andria,FBC Gravina,1,3,2.050,3.000,3.300
+73632420,2026-09-12 18:00,Brindisi FC,Fidelis Andria,1,0,2.600,3.000,2.500
+73632442,2026-09-13 13:00,ASD Martina Calcio 1947,Real Forio 2014,2,0,2.450,3.300,2.450
+73632446,2026-09-13 13:00,AS Melfi 1929,Virtus Francavilla Calcio,0,1,,,
+73632450,2026-09-13 13:00,US Palmese 1914,Turris Calcio,0,0,2.900,3.100,2.250
+73632416,2026-09-13 14:00,AS Bisceglie,FC Francavilla 1931,2,1,2.150,3.100,3.100
+73632466,2026-09-16 13:00,FC Francavilla 1931,US Palmese 1914,0,1,,,
+73632478,2026-09-16 13:00,ASD Real Normanna,ASD Martina Calcio 1947,1,2,2.700,3.100,2.350
+73632482,2026-09-16 13:00,Real Forio 2014,ASD Gladiator 1924,2,1,,,
+73632454,2026-09-16 13:30,ASC Ebolitana 1925,AS Bisceglie,2,1,2.375,3.200,2.625
+73632470,2026-09-16 13:30,AC Nardo,AS Melfi 1929,0,0,2.100,3.250,3.000
+73632462,2026-09-16 15:00,Turris Calcio,FBC Gravina,0,0,2.300,3.250,2.700
+73632474,2026-09-16 18:00,ASD Nocerina 1910,SSD Ischia Calcio,3,2,1.615,3.500,5.000
+73632458,2026-09-16 18:30,Fidelis Andria,SS Manfredonia Calcio,1,1,1.727,3.300,4.200
+73632486,2026-09-16 19:00,Virtus Francavilla Calcio,Brindisi FC,2,1,1.909,3.250,3.400
+73632504,2026-09-20 12:30,FBC Gravina,Real Forio 2014,2,2,,,
+73632508,2026-09-20 12:30,SSD Ischia Calcio,AC Nardo,1,2,,,
+73632500,2026-09-20 13:00,ASD Gladiator 1924,Fidelis Andria,3,2,,,
+73632512,2026-09-20 13:00,SS Manfredonia Calcio,ASC Ebolitana 1925,3,0,,,
+73632520,2026-09-20 13:00,AS Melfi 1929,FC Francavilla 1931,2,1,,,
+73632490,2026-09-20 13:30,AS Bisceglie,ASD Nocerina 1910,3,1,2.700,3.000,2.350
+73632496,2026-09-20 14:00,Brindisi FC,Turris Calcio,1,2,2.900,3.300,2.150
+73632516,2026-09-20 14:30,ASD Martina Calcio 1947,Virtus Francavilla Calcio,1,2,,,
+73632528,2026-09-27 13:00,AS Bisceglie,SSD Ischia Calcio,3,1,1.700,3.500,4.333
+73632532,2026-09-27 13:00,ASC Ebolitana 1925,AS Melfi 1929,1,0,,,
+73632550,2026-09-27 13:00,ASD Nocerina 1910,US Palmese 1914,3,0,,,
+73632558,2026-09-27 13:00,Real Forio 2014,SS Manfredonia Calcio,1,2,,,
+73632542,2026-09-27 13:30,FC Francavilla 1931,Brindisi FC,0,1,,,
+73632538,2026-09-27 14:00,Turris Calcio,Fidelis Andria,2,0,1.666,3.400,4.500
+73632562,2026-09-27 14:00,Virtus Francavilla Calcio,ASD Gladiator 1924,2,1,1.533,3.750,5.000
+73632546,2026-09-27 16:00,AC Nardo,ASD Martina Calcio 1947,0,3,2.900,3.000,2.350
+73632570,2026-10-04 13:00,Fidelis Andria,Real Forio 2014,2,1,1.550,3.500,5.500
+73632574,2026-10-04 13:00,ASD Gladiator 1924,Turris Calcio,1,1,3.200,3.300,2.000
+73632584,2026-10-04 13:00,SSD Ischia Calcio,ASC Ebolitana 1925,1,1,,,
+73632596,2026-10-04 13:00,AS Melfi 1929,ASD Nocerina 1910,0,1,,,
+73632600,2026-10-04 13:00,US Palmese 1914,AC Nardo,4,2,,,
+73632580,2026-10-04 13:30,FBC Gravina,Virtus Francavilla Calcio,4,2,,,
+73632588,2026-10-04 13:30,SS Manfredonia Calcio,AS Bisceglie,1,0,,,
+73632592,2026-10-04 13:30,ASD Martina Calcio 1947,FC Francavilla 1931,1,0,1.380,4.100,7.000
+73632608,2026-10-11 13:00,ASC Ebolitana 1925,ASD Martina Calcio 1947,0,2,,,
+73632616,2026-10-11 13:00,FC Francavilla 1931,ASD Gladiator 1924,1,1,,,
+73632620,2026-10-11 13:00,SSD Ischia Calcio,AS Melfi 1929,3,0,,,
+73632624,2026-10-11 13:00,AC Nardo,FBC Gravina,1,1,2.800,3.200,2.200
+73632634,2026-10-11 13:00,ASD Real Normanna,Fidelis Andria,0,1,2.200,3.100,3.000
+73632638,2026-10-11 13:00,Virtus Francavilla Calcio,Real Forio 2014,2,0,1.666,3.500,4.333
+73632604,2026-10-11 13:30,AS Bisceglie,US Palmese 1914,3,2,1.850,3.400,3.500
+73632612,2026-10-11 14:00,Turris Calcio,SS Manfredonia Calcio,3,0,1.650,3.400,4.750
+73632630,2026-10-11 16:00,ASD Nocerina 1910,Brindisi FC,0,1,1.850,3.300,3.600
+73632666,2026-10-17 13:00,AS Melfi 1929,AS Bisceglie,1,0,,,
+73632670,2026-10-18 12:30,US Palmese 1914,ASC Ebolitana 1925,2,0,,,
+73632650,2026-10-18 13:00,ASD Gladiator 1924,ASD Real Normanna,3,3,,,
+73632658,2026-10-18 13:00,SS Manfredonia Calcio,SSD Ischia Calcio,2,0,,,
+73632674,2026-10-18 13:00,Real Forio 2014,Turris Calcio,1,2,,,
+73632646,2026-10-18 13:30,Fidelis Andria,Virtus Francavilla Calcio,2,1,,,
+73632654,2026-10-18 13:30,FBC Gravina,FC Francavilla 1931,1,1,,,
+73632642,2026-10-18 14:00,Brindisi FC,AC Nardo,2,0,1.600,3.600,4.750
+73632662,2026-10-18 15:00,ASD Martina Calcio 1947,ASD Nocerina 1910,2,0,2.000,3.250,3.250
+73632696,2026-10-24 13:00,AS Melfi 1929,US Palmese 1914,2,2,,,
+73632682,2026-10-25 13:30,ASC Ebolitana 1925,FBC Gravina,2,2,,,
+73632688,2026-10-25 13:30,FC Francavilla 1931,Real Forio 2014,2,1,,,
+73632692,2026-10-25 13:30,SSD Ischia Calcio,ASD Martina Calcio 1947,1,1,,,
+73632700,2026-10-25 14:00,AC Nardo,Fidelis Andria,1,3,2.600,3.100,2.450
+73632704,2026-10-25 14:00,ASD Nocerina 1910,ASD Gladiator 1924,1,2,1.700,3.750,3.800
+73632708,2026-10-25 14:00,ASD Real Normanna,Turris Calcio,1,1,3.400,3.300,1.950
+73632712,2026-10-25 15:00,Virtus Francavilla Calcio,SS Manfredonia Calcio,2,0,1.533,3.800,5.250
+73632678,2026-10-25 17:00,AS Bisceglie,Brindisi FC,0,2,2.050,3.300,3.100
+73632716,2026-11-01 13:30,Brindisi FC,ASC Ebolitana 1925,2,0,1.500,3.700,5.750
+73632724,2026-11-01 13:30,Turris Calcio,Virtus Francavilla Calcio,1,2,,,
+73632732,2026-11-01 13:30,FBC Gravina,ASD Nocerina 1910,2,1,,,
+73632736,2026-11-01 13:30,SS Manfredonia Calcio,AS Melfi 1929,3,0,,,
+73632744,2026-11-01 13:30,US Palmese 1914,SSD Ischia Calcio,1,2,1.950,3.400,3.300
+73632748,2026-11-01 13:30,Real Forio 2014,ASD Real Normanna,1,1,,,
+73632720,2026-11-01 14:00,Fidelis Andria,FC Francavilla 1931,2,0,1.700,3.300,4.333
+73632728,2026-11-01 14:00,ASD Gladiator 1924,AC Nardo,2,1,,,
+73632740,2026-11-01 15:30,ASD Martina Calcio 1947,AS Bisceglie,3,1,1.571,3.500,5.000
+73632758,2026-11-08 13:30,ASC Ebolitana 1925,Fidelis Andria,0,0,3.500,3.250,1.950
+73632762,2026-11-08 13:30,FC Francavilla 1931,Virtus Francavilla Calcio,0,1,,,
+73632766,2026-11-08 13:30,SSD Ischia Calcio,FBC Gravina,0,1,,,
+73632770,2026-11-08 13:30,AS Melfi 1929,Brindisi FC,2,1,,,
+73632774,2026-11-08 13:30,AC Nardo,Turris Calcio,3,1,4.750,3.400,1.650
+73632778,2026-11-08 13:30,ASD Nocerina 1910,Real Forio 2014,1,2,,,
+73632782,2026-11-08 13:30,US Palmese 1914,ASD Martina Calcio 1947,2,0,,,
+73632788,2026-11-08 13:30,ASD Real Normanna,SS Manfredonia Calcio,0,0,,,
+73632754,2026-11-08 14:00,AS Bisceglie,ASD Gladiator 1924,1,1,,,

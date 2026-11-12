@@ -1,0 +1,436 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+60648927,2025-05-22 16:45,AZ Alkmaar,SC Heerenveen,4,1,,,
+60648929,2025-05-22 19:00,FC Twente Enschede,NEC Nijmegen,3,2,,,
+60631079,2025-05-23 18:00,SC Telstar,FC Den Bosch,2,1,,,
+60631153,2025-05-24 18:00,Willem II Tilburg,FC Dordrecht,8,6,,,
+60746401,2025-05-25 16:00,AZ Alkmaar,FC Twente Enschede,3,2,,,
+60786145,2025-05-29 18:00,SC Telstar,Willem II Tilburg,2,2,,,
+60786151,2025-06-01 16:00,Willem II Tilburg,SC Telstar,1,3,,,
+61319673,2025-08-08 18:00,Fortuna Sittard,Go Ahead Eagles,2,2,,,
+61319675,2025-08-09 14:30,NEC Nijmegen,Excelsior Rotterdam,5,0,,,
+61319677,2025-08-09 16:45,Feyenoord Rotterdam,NAC Breda,2,0,,,
+61319679,2025-08-09 18:00,SC Heerenveen,FC Volendam,1,1,,,
+61319681,2025-08-09 19:00,PSV Eindhoven,Sparta Rotterdam,6,1,,,
+61319683,2025-08-10 10:15,PEC Zwolle,FC Twente Enschede,1,0,,,
+61319685,2025-08-10 12:30,AZ Alkmaar,FC Groningen,4,1,,,
+61319687,2025-08-10 12:30,Ajax Amsterdam,SC Telstar,2,0,,,
+61319689,2025-08-10 14:45,FC Utrecht,Heracles Almelo,4,0,,,
+61319691,2025-08-15 18:00,SC Telstar,PEC Zwolle,0,2,,,
+61319695,2025-08-16 16:45,Excelsior Rotterdam,Feyenoord Rotterdam,1,2,,,
+61319697,2025-08-16 18:00,Heracles Almelo,NEC Nijmegen,1,4,,,
+61319693,2025-08-16 19:00,FC Groningen,SC Heerenveen,2,1,,,
+61319699,2025-08-17 10:15,Go Ahead Eagles,Ajax Amsterdam,2,2,,,
+61319701,2025-08-17 12:30,Sparta Rotterdam,FC Utrecht,2,1,,,
+61319703,2025-08-17 12:30,FC Twente Enschede,PSV Eindhoven,0,2,,,
+61319705,2025-08-17 14:45,FC Volendam,AZ Alkmaar,2,2,,,
+61319707,2025-08-17 18:00,NAC Breda,Fortuna Sittard,2,1,,,
+61319709,2025-08-23 14:30,Go Ahead Eagles,Sparta Rotterdam,0,3,,,
+61319711,2025-08-23 16:45,PSV Eindhoven,FC Groningen,4,2,,,
+61319713,2025-08-23 19:00,SC Telstar,FC Volendam,2,2,,,
+61319715,2025-08-24 10:15,SC Heerenveen,FC Twente Enschede,1,2,,,
+61319719,2025-08-24 12:30,FC Utrecht,Excelsior Rotterdam,4,1,,,
+61319721,2025-08-24 12:30,NEC Nijmegen,NAC Breda,3,0,,,
+61319723,2025-08-24 14:45,Ajax Amsterdam,Heracles Almelo,2,0,,,
+61319727,2025-08-29 18:00,FC Groningen,Heracles Almelo,4,0,,,
+61319731,2025-08-30 14:30,FC Volendam,Ajax Amsterdam,1,1,,,
+61319733,2025-08-30 16:45,SC Heerenveen,Go Ahead Eagles,2,2,,,
+61319735,2025-08-30 18:00,PSV Eindhoven,SC Telstar,0,2,,,
+61319737,2025-08-30 19:00,Excelsior Rotterdam,FC Twente Enschede,1,0,,,
+61319729,2025-08-31 10:15,Fortuna Sittard,NEC Nijmegen,3,2,,,
+61319739,2025-08-31 12:30,Sparta Rotterdam,Feyenoord Rotterdam,0,4,,,
+61319741,2025-08-31 12:30,PEC Zwolle,FC Utrecht,0,2,,,
+61319743,2025-08-31 14:45,NAC Breda,AZ Alkmaar,0,1,,,
+61319745,2025-09-13 14:30,Ajax Amsterdam,PEC Zwolle,3,1,,,
+61319747,2025-09-13 16:45,NEC Nijmegen,PSV Eindhoven,3,5,,,
+61319749,2025-09-13 17:10,Go Ahead Eagles,FC Volendam,3,0,,,
+61319751,2025-09-13 19:00,FC Twente Enschede,NAC Breda,2,2,,,
+61319753,2025-09-13 19:00,Feyenoord Rotterdam,SC Heerenveen,1,0,,,
+61319755,2025-09-14 10:15,Excelsior Rotterdam,Sparta Rotterdam,0,1,,,
+61319757,2025-09-14 12:30,FC Utrecht,FC Groningen,0,1,,,
+61319759,2025-09-14 12:30,Heracles Almelo,AZ Alkmaar,1,2,,,
+61319761,2025-09-14 14:45,SC Telstar,Fortuna Sittard,1,3,,,
+61319725,2025-09-17 18:00,Feyenoord Rotterdam,Fortuna Sittard,2,0,,,
+61319763,2025-09-19 18:00,Sparta Rotterdam,FC Twente Enschede,1,5,,,
+61319765,2025-09-20 14:30,FC Volendam,Excelsior Rotterdam,1,2,,,
+61319767,2025-09-20 16:45,FC Groningen,SC Telstar,2,0,,,
+61319769,2025-09-20 18:00,Fortuna Sittard,FC Utrecht,1,0,,,
+61319771,2025-09-20 19:00,NAC Breda,Heracles Almelo,2,1,,,
+61319773,2025-09-21 10:15,PEC Zwolle,Go Ahead Eagles,0,2,,,
+61319775,2025-09-21 12:30,PSV Eindhoven,Ajax Amsterdam,2,2,,,
+61319777,2025-09-21 12:30,SC Heerenveen,NEC Nijmegen,3,2,,,
+61319779,2025-09-21 14:45,AZ Alkmaar,Feyenoord Rotterdam,3,3,,,
+63023793,2025-09-24 18:00,AZ Alkmaar,PEC Zwolle,2,2,,,
+61319781,2025-09-26 18:00,FC Twente Enschede,Fortuna Sittard,3,2,,,
+61319785,2025-09-27 14:30,Ajax Amsterdam,NAC Breda,2,1,,,
+61319787,2025-09-27 16:45,FC Volendam,PEC Zwolle,2,1,,,
+61319789,2025-09-27 18:00,Excelsior Rotterdam,PSV Eindhoven,1,2,,,
+61319793,2025-09-27 19:00,Heracles Almelo,Sparta Rotterdam,3,0,,,
+61319791,2025-09-28 10:15,NEC Nijmegen,AZ Alkmaar,2,1,,,
+61319783,2025-09-28 12:30,FC Groningen,Feyenoord Rotterdam,0,1,,,
+61319795,2025-09-28 12:30,FC Utrecht,SC Heerenveen,2,2,,,
+61319797,2025-09-28 14:45,SC Telstar,Go Ahead Eagles,4,2,,,
+61319799,2025-10-03 18:00,NAC Breda,FC Groningen,1,2,,,
+61319801,2025-10-04 14:30,Sparta Rotterdam,Ajax Amsterdam,3,3,,,
+61319803,2025-10-04 16:45,Fortuna Sittard,FC Volendam,1,0,,,
+61319805,2025-10-04 18:00,PEC Zwolle,PSV Eindhoven,0,4,,,
+61319807,2025-10-04 19:00,SC Heerenveen,Excelsior Rotterdam,2,1,,,
+61319809,2025-10-05 10:15,FC Twente Enschede,Heracles Almelo,2,1,,,
+61319811,2025-10-05 12:30,Feyenoord Rotterdam,FC Utrecht,3,2,,,
+61319813,2025-10-05 14:45,AZ Alkmaar,SC Telstar,2,1,,,
+61319815,2025-10-05 18:00,Go Ahead Eagles,NEC Nijmegen,1,1,,,
+61319833,2025-10-18 14:30,NEC Nijmegen,FC Twente Enschede,3,3,,,
+61319819,2025-10-18 16:45,PSV Eindhoven,Go Ahead Eagles,2,1,,,
+61319821,2025-10-18 16:45,FC Utrecht,FC Volendam,3,1,,,
+61319823,2025-10-18 19:00,Ajax Amsterdam,AZ Alkmaar,0,2,,,
+61319825,2025-10-18 19:00,NAC Breda,PEC Zwolle,2,2,,,
+61319831,2025-10-19 10:15,SC Telstar,SC Heerenveen,2,3,,,
+61319827,2025-10-19 12:30,FC Groningen,Sparta Rotterdam,0,2,,,
+61319829,2025-10-19 12:30,Excelsior Rotterdam,Fortuna Sittard,1,0,,,
+61319817,2025-10-19 14:45,Heracles Almelo,Feyenoord Rotterdam,0,7,,,
+61319835,2025-10-24 18:00,SC Heerenveen,NAC Breda,3,3,,,
+61319837,2025-10-25 14:30,Fortuna Sittard,FC Groningen,1,2,,,
+61319841,2025-10-25 16:45,Sparta Rotterdam,SC Telstar,1,0,,,
+61319839,2025-10-25 18:00,FC Volendam,Heracles Almelo,3,0,,,
+61319843,2025-10-25 19:00,PEC Zwolle,NEC Nijmegen,2,2,,,
+61319845,2025-10-26 11:15,FC Twente Enschede,Ajax Amsterdam,2,3,,,
+61319849,2025-10-26 13:30,Feyenoord Rotterdam,PSV Eindhoven,2,3,,,
+61319851,2025-10-26 15:45,AZ Alkmaar,FC Utrecht,4,1,,,
+61319847,2025-10-26 19:00,Go Ahead Eagles,Excelsior Rotterdam,2,0,,,
+61319853,2025-10-31 19:00,PSV Eindhoven,Fortuna Sittard,5,2,,,
+61319861,2025-11-01 15:30,Ajax Amsterdam,SC Heerenveen,1,1,,,
+61319857,2025-11-01 17:45,NAC Breda,Go Ahead Eagles,1,0,,,
+61319855,2025-11-01 19:00,Feyenoord Rotterdam,FC Volendam,3,1,,,
+61319859,2025-11-01 20:00,SC Telstar,Excelsior Rotterdam,2,2,,,
+61319863,2025-11-02 11:15,Heracles Almelo,PEC Zwolle,8,2,,,
+61319865,2025-11-02 13:30,FC Groningen,FC Twente Enschede,1,1,,,
+61319867,2025-11-02 13:30,Sparta Rotterdam,AZ Alkmaar,0,1,,,
+61319869,2025-11-02 15:45,FC Utrecht,NEC Nijmegen,1,0,,,
+61319871,2025-11-07 19:00,FC Twente Enschede,SC Telstar,0,0,,,
+61319873,2025-11-08 15:30,Excelsior Rotterdam,Heracles Almelo,1,2,,,
+61319875,2025-11-08 17:45,FC Volendam,NAC Breda,2,1,,,
+61319877,2025-11-08 19:00,Fortuna Sittard,SC Heerenveen,2,0,,,
+61319879,2025-11-08 20:00,PEC Zwolle,Sparta Rotterdam,1,0,,,
+61319881,2025-11-09 11:15,FC Utrecht,Ajax Amsterdam,2,1,,,
+61319885,2025-11-09 13:30,NEC Nijmegen,FC Groningen,2,0,,,
+61319883,2025-11-09 15:45,AZ Alkmaar,PSV Eindhoven,1,5,,,
+61319887,2025-11-09 19:00,Go Ahead Eagles,Feyenoord Rotterdam,2,1,,,
+61319905,2025-11-22 15:30,NAC Breda,PSV Eindhoven,0,1,,,
+61319889,2025-11-22 17:45,Ajax Amsterdam,Excelsior Rotterdam,1,2,,,
+61319903,2025-11-22 17:45,FC Volendam,FC Twente Enschede,1,1,,,
+61319897,2025-11-22 20:00,Heracles Almelo,Go Ahead Eagles,4,2,,,
+61319899,2025-11-22 20:00,Sparta Rotterdam,Fortuna Sittard,1,1,,,
+61319895,2025-11-23 11:15,SC Heerenveen,AZ Alkmaar,3,1,,,
+61319891,2025-11-23 13:30,Feyenoord Rotterdam,NEC Nijmegen,2,4,,,
+61319901,2025-11-23 13:30,SC Telstar,FC Utrecht,1,1,,,
+61319893,2025-11-23 15:45,FC Groningen,PEC Zwolle,2,2,,,
+61319923,2025-11-28 19:00,PEC Zwolle,SC Heerenveen,2,1,,,
+61319907,2025-11-29 15:30,Excelsior Rotterdam,NAC Breda,1,0,,,
+61319919,2025-11-29 17:45,Fortuna Sittard,Heracles Almelo,1,1,,,
+61319915,2025-11-29 20:00,NEC Nijmegen,Sparta Rotterdam,3,1,,,
+61319911,2025-11-30 11:15,PSV Eindhoven,FC Volendam,3,0,,,
+61319917,2025-11-30 13:30,SC Telstar,Feyenoord Rotterdam,1,2,,,
+61319921,2025-11-30 13:30,Go Ahead Eagles,FC Utrecht,2,2,,,
+61319909,2025-11-30 15:45,FC Twente Enschede,AZ Alkmaar,1,0,,,
+61319913,2025-12-02 13:30,Ajax Amsterdam,FC Groningen,2,0,,,
+61319925,2025-12-05 19:00,Excelsior Rotterdam,FC Groningen,0,2,,,
+61319931,2025-12-06 15:30,SC Heerenveen,PSV Eindhoven,0,2,,,
+61319937,2025-12-06 17:45,Fortuna Sittard,Ajax Amsterdam,1,3,,,
+61319941,2025-12-06 19:00,Heracles Almelo,SC Telstar,1,1,,,
+61319927,2025-12-06 20:00,Feyenoord Rotterdam,PEC Zwolle,6,1,,,
+61319935,2025-12-07 11:15,FC Utrecht,FC Twente Enschede,1,1,,,
+61319929,2025-12-07 13:30,AZ Alkmaar,Go Ahead Eagles,2,2,,,
+61319939,2025-12-07 13:30,FC Volendam,NEC Nijmegen,2,3,,,
+61319933,2025-12-07 15:45,Sparta Rotterdam,NAC Breda,1,0,,,
+61319949,2025-12-13 15:30,SC Telstar,NEC Nijmegen,2,2,2.900,4.000,2.150
+61319951,2025-12-13 17:45,FC Groningen,FC Volendam,3,0,1.333,4.500,7.000
+61319959,2025-12-13 19:00,PSV Eindhoven,Heracles Almelo,4,3,1.100,12.000,15.000
+61319947,2025-12-13 20:00,PEC Zwolle,Fortuna Sittard,1,0,2.500,3.600,2.700
+61319953,2025-12-14 11:15,Sparta Rotterdam,SC Heerenveen,0,3,2.800,3.750,2.250
+61319945,2025-12-14 13:30,Ajax Amsterdam,Feyenoord Rotterdam,2,0,3.200,4.000,2.050
+61319955,2025-12-14 13:30,FC Twente Enschede,Go Ahead Eagles,2,0,1.400,4.500,7.500
+61319957,2025-12-14 15:45,NAC Breda,FC Utrecht,1,1,2.625,3.400,2.700
+61319965,2025-12-20 15:30,Heracles Almelo,SC Heerenveen,0,3,3.600,3.750,2.000
+61319961,2025-12-20 17:45,Excelsior Rotterdam,PEC Zwolle,2,1,2.150,3.600,3.200
+61319967,2025-12-20 19:00,NEC Nijmegen,Ajax Amsterdam,2,2,2.100,4.100,2.900
+61319969,2025-12-20 20:00,NAC Breda,SC Telstar,0,1,1.750,3.900,4.333
+61319977,2025-12-21 11:15,FC Utrecht,PSV Eindhoven,1,2,4.000,4.000,1.800
+61319973,2025-12-21 13:30,Feyenoord Rotterdam,FC Twente Enschede,1,1,1.909,3.900,3.600
+61319975,2025-12-21 13:30,Go Ahead Eagles,FC Groningen,1,1,3.500,3.500,2.050
+61319963,2025-12-21 15:45,Fortuna Sittard,AZ Alkmaar,4,3,5.000,4.000,1.650
+61319971,2025-12-21 15:45,FC Volendam,Sparta Rotterdam,0,1,2.875,3.700,2.300
+61319989,2026-01-10 15:30,AZ Alkmaar,FC Volendam,1,0,1.142,8.000,17.000
+61319991,2026-01-10 17:45,FC Twente Enschede,PEC Zwolle,1,1,1.300,5.500,9.500
+61319979,2026-01-10 19:00,PSV Eindhoven,Excelsior Rotterdam,5,1,1.166,8.000,15.000
+61319993,2026-01-10 20:00,FC Groningen,NAC Breda,0,0,1.700,3.750,5.000
+61319995,2026-01-11 11:15,SC Heerenveen,Feyenoord Rotterdam,2,2,2.750,3.800,2.350
+61319983,2026-01-11 13:30,SC Telstar,Ajax Amsterdam,2,3,4.000,4.000,1.833
+61319987,2026-01-11 13:30,Go Ahead Eagles,Fortuna Sittard,2,2,1.909,3.800,3.700
+61319981,2026-01-11 15:45,Sparta Rotterdam,Heracles Almelo,2,0,1.850,3.700,4.200
+61320011,2026-01-17 15:30,Ajax Amsterdam,Go Ahead Eagles,2,2,1.650,4.000,5.000
+61320005,2026-01-17 17:45,PEC Zwolle,AZ Alkmaar,3,1,6.000,4.750,1.500
+61319997,2026-01-17 19:00,Excelsior Rotterdam,SC Telstar,2,2,2.250,3.400,3.200
+61319999,2026-01-17 19:00,Fortuna Sittard,PSV Eindhoven,1,2,5.500,5.000,1.500
+61320013,2026-01-17 20:00,NAC Breda,NEC Nijmegen,3,4,2.500,3.400,2.750
+61320009,2026-01-18 11:15,SC Heerenveen,FC Groningen,0,2,1.950,3.400,4.100
+61320001,2026-01-18 13:30,FC Volendam,FC Utrecht,2,1,4.333,3.700,1.833
+61320003,2026-01-18 13:30,Heracles Almelo,FC Twente Enschede,0,2,6.000,4.500,1.500
+61320007,2026-01-18 15:45,Feyenoord Rotterdam,Sparta Rotterdam,3,4,1.450,4.750,7.000
+67114904,2026-01-21 17:45,AZ Alkmaar,Excelsior Rotterdam,1,1,1.333,5.750,8.000
+61320023,2026-01-24 15:30,Ajax Amsterdam,FC Volendam,2,0,1.333,6.250,6.250
+61320019,2026-01-24 17:45,NEC Nijmegen,PEC Zwolle,2,1,1.480,4.500,6.250
+61320017,2026-01-24 19:00,PSV Eindhoven,NAC Breda,2,2,1.420,5.000,6.500
+61320015,2026-01-24 20:00,FC Twente Enschede,Excelsior Rotterdam,0,0,1.250,6.000,11.000
+61320021,2026-01-25 11:15,SC Telstar,AZ Alkmaar,0,1,3.200,3.500,2.200
+61320031,2026-01-25 13:30,FC Groningen,Fortuna Sittard,1,2,1.480,4.000,7.000
+61320027,2026-01-25 15:45,Feyenoord Rotterdam,Heracles Almelo,4,2,1.222,7.500,11.000
+61320029,2026-01-25 15:45,FC Utrecht,Sparta Rotterdam,0,1,2.000,3.500,3.700
+61320043,2026-01-30 19:00,NAC Breda,FC Twente Enschede,2,2,3.200,3.400,2.200
+61320041,2026-01-31 15:30,AZ Alkmaar,NEC Nijmegen,1,3,1.850,3.900,3.750
+61320045,2026-01-31 17:45,PEC Zwolle,SC Telstar,4,1,2.300,3.600,3.000
+61320039,2026-01-31 20:00,Sparta Rotterdam,FC Groningen,2,0,2.350,3.600,2.875
+61320033,2026-02-01 11:15,Excelsior Rotterdam,Ajax Amsterdam,2,2,4.100,3.800,1.800
+61320035,2026-02-01 13:30,Heracles Almelo,Fortuna Sittard,2,1,2.200,3.400,3.250
+61320049,2026-02-01 13:30,PSV Eindhoven,Feyenoord Rotterdam,3,0,1.615,4.333,4.750
+61320037,2026-02-01 15:45,SC Heerenveen,FC Utrecht,1,1,1.750,3.700,4.500
+61320047,2026-02-01 19:00,FC Volendam,Go Ahead Eagles,1,1,3.500,3.600,2.000
+61320051,2026-02-06 19:00,NAC Breda,Excelsior Rotterdam,0,2,1.850,3.600,4.100
+61320065,2026-02-07 15:30,NEC Nijmegen,Heracles Almelo,4,1,1.380,4.750,8.000
+61320061,2026-02-07 17:45,PEC Zwolle,FC Volendam,1,2,1.600,3.800,5.750
+61320053,2026-02-07 19:00,FC Twente Enschede,SC Heerenveen,5,0,1.550,4.500,5.250
+61320067,2026-02-07 20:00,Fortuna Sittard,Sparta Rotterdam,2,2,2.875,3.400,2.350
+61320059,2026-02-08 11:15,FC Utrecht,Feyenoord Rotterdam,0,1,3.400,3.600,2.100
+61320055,2026-02-08 13:30,Go Ahead Eagles,SC Telstar,1,1,1.800,3.700,3.500
+61320057,2026-02-08 13:30,AZ Alkmaar,Ajax Amsterdam,1,1,2.400,3.700,2.750
+61320063,2026-02-08 15:45,FC Groningen,PSV Eindhoven,1,2,4.333,4.500,1.650
+67240484,2026-02-11 17:45,Go Ahead Eagles,SC Heerenveen,1,3,2.600,3.750,2.500
+67959908,2026-02-11 20:00,NEC Nijmegen,FC Utrecht,1,3,1.666,3.900,5.000
+61320081,2026-02-13 19:00,FC Volendam,PSV Eindhoven,2,1,9.000,6.000,1.270
+61320077,2026-02-14 15:30,Heracles Almelo,NAC Breda,0,1,2.875,3.400,2.450
+61320069,2026-02-14 17:45,Excelsior Rotterdam,AZ Alkmaar,1,2,3.100,3.500,2.250
+61320071,2026-02-14 19:00,Ajax Amsterdam,Fortuna Sittard,4,1,1.300,5.500,9.500
+61320079,2026-02-14 20:00,FC Groningen,FC Utrecht,1,2,1.900,3.500,4.200
+61320083,2026-02-15 11:15,Feyenoord Rotterdam,Go Ahead Eagles,1,0,1.400,5.250,6.500
+61320075,2026-02-15 13:30,SC Telstar,FC Twente Enschede,1,1,6.000,4.500,1.500
+61320085,2026-02-15 13:30,SC Heerenveen,PEC Zwolle,4,2,1.615,4.200,5.250
+61320073,2026-02-15 15:45,Sparta Rotterdam,NEC Nijmegen,1,1,2.400,3.600,2.700
+61320087,2026-02-20 19:00,Fortuna Sittard,Excelsior Rotterdam,2,1,2.250,3.500,3.100
+61320103,2026-02-21 17:45,PSV Eindhoven,SC Heerenveen,3,1,1.250,6.500,9.500
+61320099,2026-02-21 19:00,NAC Breda,FC Volendam,1,0,1.615,3.900,5.500
+61320095,2026-02-21 20:00,Ajax Amsterdam,NEC Nijmegen,1,1,1.800,4.200,3.800
+61320089,2026-02-22 11:15,FC Twente Enschede,FC Groningen,2,1,1.500,4.500,6.000
+61320097,2026-02-22 13:30,Go Ahead Eagles,Heracles Almelo,4,0,1.909,3.750,3.800
+61320101,2026-02-22 13:30,FC Utrecht,PEC Zwolle,1,1,1.615,4.100,5.250
+61320093,2026-02-22 15:45,AZ Alkmaar,Sparta Rotterdam,3,1,1.950,3.700,3.700
+61320091,2026-02-22 19:00,Feyenoord Rotterdam,SC Telstar,2,1,1.200,7.000,12.000
+61320115,2026-02-27 19:00,SC Telstar,NAC Breda,3,0,2.550,3.800,2.500
+61320117,2026-02-28 15:30,SC Heerenveen,Sparta Rotterdam,2,1,2.000,3.800,3.400
+61320107,2026-02-28 17:45,Heracles Almelo,PSV Eindhoven,1,3,8.000,6.500,1.285
+61320113,2026-02-28 20:00,NEC Nijmegen,Fortuna Sittard,2,3,1.400,5.250,7.000
+61320111,2026-03-01 11:15,PEC Zwolle,Ajax Amsterdam,0,0,3.800,4.100,1.833
+61320119,2026-03-01 13:30,FC Volendam,FC Groningen,3,2,3.750,3.700,1.950
+61320121,2026-03-01 13:30,FC Twente Enschede,Feyenoord Rotterdam,2,0,2.050,3.900,3.200
+61320109,2026-03-01 15:45,FC Utrecht,AZ Alkmaar,2,0,2.250,3.400,3.100
+61320105,2026-03-01 19:00,Excelsior Rotterdam,Go Ahead Eagles,0,1,2.350,3.500,2.900
+61320135,2026-03-06 19:00,Heracles Almelo,FC Utrecht,0,0,3.100,3.500,2.150
+61320129,2026-03-07 15:30,FC Groningen,Ajax Amsterdam,3,1,2.900,3.750,2.250
+61320137,2026-03-07 19:00,PSV Eindhoven,AZ Alkmaar,2,1,1.420,5.000,7.000
+61320123,2026-03-07 20:00,Excelsior Rotterdam,SC Heerenveen,1,2,2.875,3.750,2.250
+61320131,2026-03-08 11:15,Sparta Rotterdam,PEC Zwolle,1,1,1.750,4.200,4.000
+61320127,2026-03-08 13:30,Go Ahead Eagles,FC Twente Enschede,1,4,4.750,4.000,1.700
+61320139,2026-03-08 13:30,Fortuna Sittard,SC Telstar,1,4,2.300,3.500,2.900
+61320133,2026-03-08 15:45,NAC Breda,Feyenoord Rotterdam,3,3,4.000,3.750,1.850
+61320125,2026-03-08 19:00,NEC Nijmegen,FC Volendam,3,0,1.285,6.250,8.500
+61320155,2026-03-13 19:00,PEC Zwolle,FC Groningen,1,1,2.625,3.500,2.550
+61320145,2026-03-14 15:30,FC Volendam,Fortuna Sittard,1,2,2.350,3.500,2.875
+61320153,2026-03-14 17:45,PSV Eindhoven,NEC Nijmegen,2,3,1.500,5.250,5.000
+61320157,2026-03-14 19:00,SC Heerenveen,SC Telstar,3,0,1.615,4.500,4.500
+61320147,2026-03-14 20:00,Ajax Amsterdam,Sparta Rotterdam,4,0,1.700,4.333,4.200
+61320149,2026-03-15 11:15,FC Twente Enschede,FC Utrecht,0,2,1.650,4.200,5.000
+61320141,2026-03-15 13:30,Feyenoord Rotterdam,Excelsior Rotterdam,2,1,1.333,6.500,6.500
+61320143,2026-03-15 13:30,AZ Alkmaar,Heracles Almelo,4,0,1.363,5.500,7.000
+61320151,2026-03-15 15:45,Go Ahead Eagles,NAC Breda,6,0,2.100,3.500,3.400
+61320159,2026-03-20 19:00,Heracles Almelo,Excelsior Rotterdam,1,1,2.625,3.400,2.625
+61320169,2026-03-21 15:30,Fortuna Sittard,FC Twente Enschede,1,2,6.000,4.500,1.500
+61320171,2026-03-21 17:45,Sparta Rotterdam,FC Volendam,2,0,1.450,5.000,6.000
+61320161,2026-03-21 20:00,PEC Zwolle,NAC Breda,2,1,2.250,3.400,3.200
+61320173,2026-03-22 11:15,NEC Nijmegen,SC Heerenveen,2,2,1.727,4.333,4.100
+61320165,2026-03-22 13:30,FC Utrecht,Go Ahead Eagles,2,0,1.700,3.700,5.250
+61320167,2026-03-22 13:30,Feyenoord Rotterdam,Ajax Amsterdam,1,1,1.909,4.100,3.500
+61320163,2026-03-22 15:45,FC Groningen,AZ Alkmaar,3,0,2.900,3.900,2.200
+61320175,2026-03-22 15:45,SC Telstar,PSV Eindhoven,3,1,5.000,5.500,1.500
+61320183,2026-04-04 14:30,PSV Eindhoven,FC Utrecht,4,3,1.450,5.000,5.750
+61320187,2026-04-04 16:45,SC Telstar,FC Groningen,0,2,2.625,3.600,2.550
+61320179,2026-04-04 17:00,AZ Alkmaar,Fortuna Sittard,2,0,1.300,5.500,9.500
+61320177,2026-04-04 19:00,Excelsior Rotterdam,NEC Nijmegen,0,2,3.700,4.000,1.900
+61320193,2026-04-04 19:00,Ajax Amsterdam,FC Twente Enschede,1,2,2.300,3.750,2.875
+61320189,2026-04-05 11:45,Go Ahead Eagles,PEC Zwolle,5,0,1.850,3.900,3.700
+61320181,2026-04-05 12:30,SC Heerenveen,Heracles Almelo,4,1,1.480,5.250,5.500
+61320185,2026-04-05 12:30,FC Volendam,Feyenoord Rotterdam,0,0,6.000,4.750,1.450
+61320191,2026-04-05 14:45,NAC Breda,Sparta Rotterdam,0,0,2.200,3.500,3.200
+61320211,2026-04-10 18:00,FC Twente Enschede,FC Volendam,2,1,1.200,7.500,11.000
+61320203,2026-04-11 14:30,FC Utrecht,SC Telstar,4,1,1.615,3.800,5.750
+61320199,2026-04-11 16:45,Sparta Rotterdam,PSV Eindhoven,0,2,3.400,4.200,1.909
+61320201,2026-04-11 18:00,FC Groningen,Go Ahead Eagles,0,0,1.727,4.100,4.200
+61320197,2026-04-11 19:00,Heracles Almelo,Ajax Amsterdam,0,3,5.000,4.333,1.571
+61320205,2026-04-12 10:15,Fortuna Sittard,NAC Breda,1,1,2.750,3.400,2.500
+61320195,2026-04-12 12:30,PEC Zwolle,Excelsior Rotterdam,2,2,2.250,3.600,3.000
+61320207,2026-04-12 12:30,NEC Nijmegen,Feyenoord Rotterdam,1,1,2.050,4.000,3.250
+61320209,2026-04-12 14:45,AZ Alkmaar,SC Heerenveen,3,0,1.700,4.200,4.333
+61320229,2026-04-22 18:00,SC Telstar,Sparta Rotterdam,4,1,2.000,3.800,3.400
+61320215,2026-04-23 16:45,Go Ahead Eagles,AZ Alkmaar,0,0,2.150,3.900,3.000
+61320227,2026-04-23 19:00,PSV Eindhoven,PEC Zwolle,6,1,1.300,6.000,8.500
+61320217,2026-04-25 14:30,Feyenoord Rotterdam,FC Groningen,3,1,1.700,4.333,4.200
+61320225,2026-04-25 16:45,SC Heerenveen,Fortuna Sittard,2,1,1.444,5.250,6.000
+61320219,2026-04-25 18:00,NAC Breda,Ajax Amsterdam,0,2,3.500,3.900,1.950
+61320221,2026-04-25 19:00,FC Twente Enschede,NEC Nijmegen,1,1,1.615,4.333,4.750
+61320213,2026-04-26 10:15,Excelsior Rotterdam,FC Utrecht,5,0,3.200,3.500,2.200
+61320223,2026-04-26 12:30,Heracles Almelo,FC Volendam,0,2,2.100,4.100,3.100
+71080880,2026-04-28 16:45,Roda JC Kerkrade,RKC Waalwijk,1,1,2.700,3.700,2.375
+71080908,2026-04-29 16:45,FC Den Bosch,Almere City FC,2,3,3.000,3.600,2.200
+71080884,2026-05-01 18:00,RKC Waalwijk,Roda JC Kerkrade,1,1,1.850,3.900,3.700
+71094444,2026-05-02 12:00,Almere City FC,FC Den Bosch,3,0,1.650,4.333,4.333
+61320239,2026-05-02 14:30,FC Utrecht,NAC Breda,2,0,1.700,4.100,4.500
+61320231,2026-05-02 16:45,FC Groningen,Excelsior Rotterdam,2,3,1.700,4.000,4.500
+61320235,2026-05-02 18:00,Ajax Amsterdam,PSV Eindhoven,2,2,2.375,4.200,2.550
+61320241,2026-05-02 19:00,NEC Nijmegen,SC Telstar,1,1,1.500,4.500,5.250
+61320247,2026-05-03 10:15,FC Volendam,SC Heerenveen,0,2,2.900,4.000,2.150
+61320233,2026-05-03 12:30,Fortuna Sittard,Feyenoord Rotterdam,1,2,4.500,4.500,1.615
+61320243,2026-05-03 12:30,PEC Zwolle,Heracles Almelo,2,0,1.533,5.000,5.000
+61320237,2026-05-03 14:45,Sparta Rotterdam,Go Ahead Eagles,2,2,2.100,3.900,3.100
+61320245,2026-05-03 14:45,AZ Alkmaar,FC Twente Enschede,2,2,2.250,4.000,2.750
+71242236,2026-05-05 16:45,RKC Waalwijk,Willem II Tilburg,0,1,2.250,3.400,3.100
+71242262,2026-05-06 16:45,Almere City FC,De Graafschap,3,1,1.850,4.000,3.600
+71242238,2026-05-09 14:30,Willem II Tilburg,RKC Waalwijk,1,1,1.950,3.750,3.400
+71242264,2026-05-09 18:00,De Graafschap,Almere City FC,2,2,2.100,4.200,2.875
+61320249,2026-05-10 14:45,Excelsior Rotterdam,FC Volendam,1,1,1.700,4.000,4.500
+61320251,2026-05-10 14:45,FC Groningen,NEC Nijmegen,2,2,2.750,3.600,2.400
+61320253,2026-05-10 14:45,Fortuna Sittard,PEC Zwolle,3,2,2.150,3.600,3.100
+61320255,2026-05-10 14:45,Go Ahead Eagles,PSV Eindhoven,1,4,3.250,4.333,1.909
+61320257,2026-05-10 14:45,Ajax Amsterdam,FC Utrecht,1,2,1.650,4.200,4.750
+61320259,2026-05-10 14:45,FC Twente Enschede,Sparta Rotterdam,4,0,1.400,4.750,7.000
+61320261,2026-05-10 14:45,NAC Breda,SC Heerenveen,2,1,2.550,3.700,2.625
+61320263,2026-05-10 14:45,SC Telstar,Heracles Almelo,3,0,1.444,4.750,6.500
+61320265,2026-05-10 14:45,Feyenoord Rotterdam,AZ Alkmaar,1,1,1.950,3.700,3.600
+71412168,2026-05-13 18:00,Almere City FC,Willem II Tilburg,0,1,2.050,3.600,3.400
+71412170,2026-05-16 18:00,Willem II Tilburg,Almere City FC,2,0,2.300,3.600,2.800
+61320267,2026-05-17 12:30,Sparta Rotterdam,Excelsior Rotterdam,2,3,2.050,3.700,3.500
+61320269,2026-05-17 12:30,Heracles Almelo,FC Groningen,1,2,5.500,4.200,1.571
+61320271,2026-05-17 12:30,NEC Nijmegen,Go Ahead Eagles,2,1,1.300,6.500,8.000
+61320273,2026-05-17 12:30,FC Volendam,SC Telstar,1,2,2.625,3.300,2.625
+61320275,2026-05-17 12:30,PEC Zwolle,Feyenoord Rotterdam,0,2,5.500,4.750,1.500
+61320277,2026-05-17 12:30,FC Utrecht,Fortuna Sittard,2,0,1.533,4.750,5.500
+61320279,2026-05-17 12:30,SC Heerenveen,Ajax Amsterdam,0,0,3.250,3.900,2.000
+61320281,2026-05-17 12:30,PSV Eindhoven,FC Twente Enschede,5,1,2.200,4.000,2.750
+61320283,2026-05-17 12:30,AZ Alkmaar,NAC Breda,3,3,1.300,5.750,9.000
+71558030,2026-05-20 16:45,Willem II Tilburg,FC Volendam,1,2,2.400,3.250,2.800
+71558146,2026-05-21 16:45,Ajax Amsterdam,FC Groningen,2,1,1.900,3.700,4.000
+71558148,2026-05-21 19:00,FC Utrecht,SC Heerenveen,3,2,1.909,3.700,3.800
+71558032,2026-05-23 14:30,FC Volendam,Willem II Tilburg,5,7,2.250,3.700,2.900
+71649630,2026-05-24 10:15,Ajax Amsterdam,FC Utrecht,5,4,2.100,3.600,3.200
+72041032,2026-08-07 18:00,SC Cambuur,Excelsior Rotterdam,0,4,2.700,3.400,2.600
+72041034,2026-08-08 14:30,NEC Nijmegen,SC Telstar,1,2,1.480,4.750,6.000
+72041036,2026-08-08 16:45,Go Ahead Eagles,Willem II Tilburg,4,1,1.533,4.500,5.750
+72041038,2026-08-08 18:00,PSV Eindhoven,Fortuna Sittard,2,2,1.166,8.000,15.000
+72041040,2026-08-08 19:00,AZ Alkmaar,ADO Den Haag,2,0,1.363,5.000,8.000
+72041042,2026-08-09 10:15,Sparta Rotterdam,Feyenoord Rotterdam,0,1,5.250,4.500,1.571
+72041044,2026-08-09 12:30,FC Groningen,FC Utrecht,2,1,2.150,3.500,3.300
+72041046,2026-08-09 12:30,PEC Zwolle,Ajax Amsterdam,0,2,6.250,4.500,1.480
+72041048,2026-08-09 14:45,SC Heerenveen,FC Twente Enschede,1,0,3.300,3.900,2.050
+72041050,2026-08-14 18:00,SC Telstar,Sparta Rotterdam,1,3,2.100,3.700,3.200
+72041052,2026-08-15 14:30,Willem II Tilburg,NEC Nijmegen,1,4,4.500,4.750,1.615
+72041054,2026-08-15 16:45,FC Utrecht,AZ Alkmaar,1,4,2.900,3.700,2.300
+72041056,2026-08-15 18:00,Excelsior Rotterdam,PSV Eindhoven,1,2,7.000,5.000,1.420
+72041058,2026-08-15 19:00,Fortuna Sittard,SC Cambuur,3,1,1.615,4.100,5.250
+72041060,2026-08-16 10:15,ADO Den Haag,FC Groningen,1,4,2.450,3.700,2.700
+72041062,2026-08-16 12:30,Feyenoord Rotterdam,Go Ahead Eagles,2,2,1.250,6.500,10.000
+72041064,2026-08-16 12:30,FC Twente Enschede,PEC Zwolle,3,1,1.285,6.250,9.000
+72041066,2026-08-16 14:45,Ajax Amsterdam,SC Heerenveen,2,2,1.444,4.750,6.500
+72041068,2026-08-22 14:30,Fortuna Sittard,AZ Alkmaar,0,2,5.500,4.333,1.571
+72041072,2026-08-22 16:45,Sparta Rotterdam,FC Utrecht,3,3,2.625,3.400,2.625
+72041074,2026-08-22 19:00,SC Heerenveen,PEC Zwolle,0,2,1.500,4.750,6.000
+72041076,2026-08-23 10:15,Go Ahead Eagles,ADO Den Haag,3,1,1.650,4.100,5.000
+72041078,2026-08-23 12:30,PSV Eindhoven,FC Groningen,5,1,1.270,6.000,10.000
+72041080,2026-08-23 14:45,SC Cambuur,Feyenoord Rotterdam,2,5,12.000,6.500,1.222
+72041086,2026-08-28 18:00,FC Groningen,Fortuna Sittard,2,3,1.500,4.500,5.750
+72041088,2026-08-29 14:30,Excelsior Rotterdam,Sparta Rotterdam,2,1,2.250,3.750,2.900
+72041090,2026-08-29 16:45,AZ Alkmaar,Go Ahead Eagles,5,2,1.333,5.500,8.500
+72041092,2026-08-29 19:00,PEC Zwolle,NEC Nijmegen,1,3,3.400,4.100,1.950
+72041094,2026-08-30 10:15,FC Utrecht,PSV Eindhoven,1,6,5.750,5.000,1.450
+72041096,2026-08-30 12:30,Willem II Tilburg,SC Heerenveen,2,2,4.000,4.333,1.750
+72041098,2026-08-30 12:30,Feyenoord Rotterdam,ADO Den Haag,2,2,1.222,7.000,12.000
+72041100,2026-08-30 14:45,SC Telstar,Ajax Amsterdam,0,4,5.500,4.750,1.500
+72041102,2026-08-30 18:00,SC Cambuur,FC Twente Enschede,1,4,7.000,6.250,1.300
+72041104,2026-09-04 18:00,Sparta Rotterdam,PEC Zwolle,2,2,2.000,3.500,3.600
+72041106,2026-09-05 14:30,NEC Nijmegen,Feyenoord Rotterdam,1,3,2.800,3.600,2.350
+72041108,2026-09-05 16:45,FC Utrecht,Go Ahead Eagles,1,3,2.100,4.000,3.100
+72041110,2026-09-05 18:00,Ajax Amsterdam,PSV Eindhoven,1,3,2.625,3.750,2.450
+72041112,2026-09-05 19:00,Willem II Tilburg,Excelsior Rotterdam,0,3,3.200,3.600,2.150
+72041114,2026-09-06 10:15,FC Groningen,FC Twente Enschede,2,2,3.500,4.000,1.909
+72041116,2026-09-06 12:30,SC Heerenveen,AZ Alkmaar,2,3,3.800,4.000,1.833
+72041118,2026-09-06 12:30,SC Telstar,SC Cambuur,2,2,1.727,4.200,4.100
+72041120,2026-09-06 14:45,ADO Den Haag,Fortuna Sittard,2,3,1.950,4.000,3.400
+74104028,2026-09-08 16:45,NEC Nijmegen,Excelsior Rotterdam,2,2,2.000,3.600,3.600
+72041082,2026-09-09 16:45,FC Twente Enschede,SC Telstar,1,0,1.250,6.250,11.000
+72041122,2026-09-11 18:00,AZ Alkmaar,Willem II Tilburg,1,1,1.142,8.500,15.000
+72041124,2026-09-12 14:30,FC Twente Enschede,ADO Den Haag,2,0,1.222,7.000,10.000
+72041126,2026-09-12 16:45,Go Ahead Eagles,FC Groningen,1,1,2.250,4.100,2.700
+72041128,2026-09-12 18:00,Fortuna Sittard,Ajax Amsterdam,1,5,6.500,5.500,1.380
+72041136,2026-09-12 19:00,SC Cambuur,NEC Nijmegen,3,0,4.500,4.750,1.600
+72041132,2026-09-13 10:15,Excelsior Rotterdam,FC Utrecht,1,2,2.000,3.900,3.200
+72041130,2026-09-13 12:30,SC Heerenveen,SC Telstar,0,0,1.600,4.500,4.750
+72041138,2026-09-13 14:45,PEC Zwolle,Feyenoord Rotterdam,0,7,7.000,5.500,1.380
+72041134,2026-09-13 18:00,PSV Eindhoven,Sparta Rotterdam,4,1,1.181,7.500,13.000
+72041084,2026-09-15 18:00,Ajax Amsterdam,Willem II Tilburg,5,1,1.111,9.000,19.000
+72041144,2026-09-18 18:00,FC Groningen,PEC Zwolle,3,0,1.571,4.500,5.000
+72041142,2026-09-19 14:30,ADO Den Haag,SC Cambuur,1,1,1.950,3.800,3.600
+72041140,2026-09-19 16:45,Sparta Rotterdam,SC Heerenveen,0,4,2.500,3.800,2.600
+72041146,2026-09-19 18:00,Ajax Amsterdam,Excelsior Rotterdam,2,2,1.250,6.500,10.000
+72041148,2026-09-19 19:00,Willem II Tilburg,Fortuna Sittard,0,1,2.500,3.750,2.600
+72041150,2026-09-20 10:15,Feyenoord Rotterdam,FC Utrecht,5,0,1.333,5.500,8.500
+72041152,2026-09-20 12:30,AZ Alkmaar,SC Telstar,1,0,1.270,6.000,11.000
+72041156,2026-09-20 12:30,FC Twente Enschede,PSV Eindhoven,3,2,2.900,4.000,2.200
+72041154,2026-09-20 14:45,NEC Nijmegen,Go Ahead Eagles,1,1,2.300,3.800,2.875
+72041158,2026-10-09 18:00,PSV Eindhoven,SC Heerenveen,2,0,1.300,6.250,7.000
+72041162,2026-10-10 14:30,Go Ahead Eagles,Sparta Rotterdam,3,3,1.600,4.100,5.000
+72041160,2026-10-10 16:45,Feyenoord Rotterdam,AZ Alkmaar,2,0,1.727,4.200,4.333
+72041166,2026-10-10 18:00,Fortuna Sittard,FC Twente Enschede,1,1,5.750,4.750,1.450
+72041164,2026-10-10 19:00,Ajax Amsterdam,NEC Nijmegen,1,1,1.300,5.500,8.500
+72041168,2026-10-11 10:15,FC Utrecht,Willem II Tilburg,3,1,1.500,4.333,5.750
+72041170,2026-10-11 12:30,PEC Zwolle,SC Cambuur,0,1,2.000,3.750,3.400
+72041172,2026-10-11 12:30,SC Telstar,ADO Den Haag,2,2,2.300,3.500,2.875
+72041174,2026-10-11 14:45,Excelsior Rotterdam,FC Groningen,1,5,2.625,3.600,2.450
+72041176,2026-10-16 18:00,SC Heerenveen,Excelsior Rotterdam,4,0,1.600,4.333,5.000
+72041178,2026-10-17 14:30,ADO Den Haag,PSV Eindhoven,2,1,8.500,6.000,1.285
+72041182,2026-10-17 18:00,SC Telstar,Feyenoord Rotterdam,3,4,8.000,5.250,1.333
+72041184,2026-10-17 19:00,Sparta Rotterdam,Willem II Tilburg,3,2,1.571,4.500,5.000
+72041186,2026-10-18 10:15,PEC Zwolle,Go Ahead Eagles,4,1,3.800,3.900,1.850
+72041190,2026-10-18 12:30,SC Cambuur,AZ Alkmaar,2,2,6.250,4.750,1.450
+72041192,2026-10-18 14:45,FC Groningen,Ajax Amsterdam,2,5,3.500,3.900,1.950
+72041180,2026-10-18 18:00,NEC Nijmegen,Fortuna Sittard,2,2,1.700,4.000,4.500
+72041188,2026-10-18 18:00,FC Twente Enschede,FC Utrecht,1,2,1.363,5.250,8.500
+72041194,2026-10-23 18:00,Go Ahead Eagles,SC Telstar,3,2,1.600,4.333,5.250
+72041196,2026-10-24 14:30,FC Utrecht,PEC Zwolle,1,1,1.571,4.200,5.500
+72041198,2026-10-24 16:45,Willem II Tilburg,SC Cambuur,1,6,2.550,3.700,2.600
+72041200,2026-10-24 19:00,ADO Den Haag,SC Heerenveen,2,3,3.250,3.800,2.050
+72041202,2026-10-25 11:15,Fortuna Sittard,Excelsior Rotterdam,1,0,2.700,3.400,2.550
+72041204,2026-10-25 13:30,NEC Nijmegen,FC Groningen,2,2,1.950,4.000,3.500
+72041206,2026-10-25 13:30,PSV Eindhoven,Feyenoord Rotterdam,1,1,2.050,4.200,3.000
+72041208,2026-10-25 15:45,Sparta Rotterdam,Ajax Amsterdam,1,2,5.250,4.500,1.533
+72041210,2026-10-25 19:00,AZ Alkmaar,FC Twente Enschede,0,2,2.375,3.750,2.700
+72041212,2026-10-31 15:30,Feyenoord Rotterdam,Fortuna Sittard,1,1,1.166,8.000,15.000
+72041214,2026-10-31 17:45,PSV Eindhoven,Willem II Tilburg,7,0,1.071,13.000,23.000
+72041216,2026-10-31 17:45,SC Heerenveen,NEC Nijmegen,1,0,2.200,3.800,3.000
+72041218,2026-10-31 20:00,Ajax Amsterdam,AZ Alkmaar,1,0,1.833,4.333,3.700
+72041222,2026-11-01 11:15,PEC Zwolle,ADO Den Haag,1,0,2.400,3.600,2.750
+72041224,2026-11-01 13:30,Excelsior Rotterdam,FC Twente Enschede,0,9,6.000,4.500,1.500
+72041226,2026-11-01 13:30,SC Telstar,FC Utrecht,4,2,3.250,3.750,2.100
+72041228,2026-11-01 15:45,FC Groningen,Sparta Rotterdam,2,3,1.700,4.200,4.200
+72041230,2026-11-06 19:00,Willem II Tilburg,PEC Zwolle,1,1,2.875,3.400,2.400
+72041232,2026-11-07 15:30,Fortuna Sittard,SC Telstar,2,2,2.150,3.400,3.400
+72041238,2026-11-07 17:45,ADO Den Haag,Sparta Rotterdam,3,1,2.625,3.700,2.500
+72041234,2026-11-07 20:00,Excelsior Rotterdam,Go Ahead Eagles,0,1,2.450,3.500,2.750
+72041240,2026-11-08 11:15,SC Heerenveen,Feyenoord Rotterdam,5,3,4.333,4.333,1.700
+72041242,2026-11-08 13:30,FC Twente Enschede,Ajax Amsterdam,2,2,1.750,4.200,4.000
+72041236,2026-11-08 15:45,SC Cambuur,PSV Eindhoven,2,5,5.750,5.500,1.420
+72041246,2026-11-08 15:45,AZ Alkmaar,FC Groningen,4,3,1.480,4.750,6.250
+72041244,2026-11-08 19:00,FC Utrecht,NEC Nijmegen,2,3,2.625,3.900,2.400

@@ -1,0 +1,449 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+58787801,2025-05-23 17:30,FC CFR 1907 Cluj,Fotbal Club FCSB,1,1,,,
+58787805,2025-05-24 15:00,FC Universitatea Cluj,Rapid Bucuresti 1923,2,2,,,
+58787803,2025-05-24 18:00,CS Universitatea Craiova,FC Dinamo Bucuresti 1948,2,1,,,
+60668749,2025-05-25 12:00,CSM Politehnica Iasi,Metaloglobus Bucuresti,1,1,,,
+60668823,2025-05-26 17:00,SC FC Voluntari,FC Unirea 2004 Slobozia,2,1,,,
+60668827,2025-06-01 18:00,Metaloglobus Bucuresti,CSM Politehnica Iasi,1,0,,,
+60668821,2025-06-02 17:00,FC Unirea 2004 Slobozia,SC FC Voluntari,5,3,,,
+61470307,2025-07-11 16:00,Metaloglobus Bucuresti,FC Universitatea Cluj,1,4,,,
+61470319,2025-07-11 18:30,ACS Champions FC Arges,Rapid Bucuresti 1923,0,2,,,
+61470305,2025-07-12 15:30,FC Uta Arad,CS Universitatea Craiova,3,3,,,
+61470309,2025-07-12 18:30,Fotbal Club FCSB,AFC Hermannstadt,1,1,,,
+61470311,2025-07-13 15:30,ASC Otelul Galati,FC Petrolul Ploiesti,0,0,,,
+61470317,2025-07-13 18:30,FC CFR 1907 Cluj,FC Unirea 2004 Slobozia,2,1,,,
+61470313,2025-07-14 16:00,FC Botosani,FC Farul Constanta,1,1,,,
+61470315,2025-07-14 18:30,AFK Csikszereda Miercurea Ciuc,FC Dinamo Bucuresti 1948,2,2,,,
+61470323,2025-07-18 16:00,AFC Hermannstadt,Metaloglobus Bucuresti,2,2,,,
+61470335,2025-07-18 18:30,CS Universitatea Craiova,ACS Champions FC Arges,3,1,,,
+61470321,2025-07-19 15:30,FC Universitatea Cluj,FC Uta Arad,1,1,,,
+61470325,2025-07-19 18:30,FC Petrolul Ploiesti,Fotbal Club FCSB,0,1,,,
+61470327,2025-07-20 15:30,FC Farul Constanta,ASC Otelul Galati,3,2,,,
+61470333,2025-07-20 18:30,Rapid Bucuresti 1923,FC CFR 1907 Cluj,1,1,,,
+61470331,2025-07-21 16:00,FC Unirea 2004 Slobozia,AFK Csikszereda Miercurea Ciuc,6,1,,,
+61470329,2025-07-21 18:30,FC Dinamo Bucuresti 1948,FC Botosani,0,0,,,
+61470339,2025-07-25 16:45,Metaloglobus Bucuresti,FC Petrolul Ploiesti,0,3,,,
+61470347,2025-07-25 19:00,AFK Csikszereda Miercurea Ciuc,Rapid Bucuresti 1923,0,2,,,
+61470337,2025-07-26 15:30,FC Uta Arad,AFC Hermannstadt,1,0,,,
+61470341,2025-07-26 18:30,Fotbal Club FCSB,FC Farul Constanta,1,2,,,
+61470349,2025-07-27 15:30,FC CFR 1907 Cluj,ACS Champions FC Arges,0,2,,,
+61470343,2025-07-27 18:30,ASC Otelul Galati,FC Dinamo Bucuresti 1948,2,1,,,
+61470345,2025-07-28 16:00,FC Botosani,FC Unirea 2004 Slobozia,4,0,,,
+61470351,2025-07-28 18:30,CS Universitatea Craiova,FC Universitatea Cluj,2,1,,,
+61470355,2025-08-01 16:00,FC Farul Constanta,Metaloglobus Bucuresti,2,1,,,
+61470353,2025-08-01 18:30,FC Petrolul Ploiesti,FC Uta Arad,1,2,,,
+61470363,2025-08-02 15:30,ACS Champions FC Arges,AFK Csikszereda Miercurea Ciuc,3,1,,,
+61470357,2025-08-02 18:30,FC Dinamo Bucuresti 1948,Fotbal Club FCSB,4,3,,,
+61470365,2025-08-03 15:30,AFC Hermannstadt,FC Universitatea Cluj,2,2,,,
+61470367,2025-08-03 18:30,FC CFR 1907 Cluj,CS Universitatea Craiova,2,3,,,
+61470359,2025-08-04 16:00,FC Unirea 2004 Slobozia,ASC Otelul Galati,0,0,,,
+61470361,2025-08-04 18:30,Rapid Bucuresti 1923,FC Botosani,2,1,,,
+61470371,2025-08-08 18:30,Metaloglobus Bucuresti,FC Dinamo Bucuresti 1948,0,1,,,
+61470369,2025-08-09 15:30,FC Uta Arad,FC Farul Constanta,2,1,,,
+61470379,2025-08-09 18:30,FC Universitatea Cluj,FC Petrolul Ploiesti,1,1,,,
+61470383,2025-08-10 15:30,CS Universitatea Craiova,AFC Hermannstadt,1,0,,,
+61470373,2025-08-10 18:30,Fotbal Club FCSB,FC Unirea 2004 Slobozia,0,1,,,
+61470377,2025-08-11 16:00,FC Botosani,ACS Champions FC Arges,3,1,,,
+61470375,2025-08-11 18:30,ASC Otelul Galati,Rapid Bucuresti 1923,1,1,,,
+61470387,2025-08-15 16:00,FC Unirea 2004 Slobozia,Metaloglobus Bucuresti,2,1,,,
+61470385,2025-08-15 18:30,FC Dinamo Bucuresti 1948,FC Uta Arad,1,1,,,
+61470397,2025-08-16 18:30,FC Petrolul Ploiesti,AFC Hermannstadt,1,1,,,
+61470399,2025-08-17 13:15,AFK Csikszereda Miercurea Ciuc,CS Universitatea Craiova,1,2,,,
+61470395,2025-08-17 15:30,FC CFR 1907 Cluj,FC Botosani,3,3,,,
+61470389,2025-08-17 18:30,Rapid Bucuresti 1923,Fotbal Club FCSB,2,2,,,
+61470391,2025-08-18 16:00,ACS Champions FC Arges,ASC Otelul Galati,2,0,,,
+61470393,2025-08-18 18:30,FC Farul Constanta,FC Universitatea Cluj,0,1,,,
+61470401,2025-08-22 16:00,FC Uta Arad,FC Unirea 2004 Slobozia,1,1,,,
+61470403,2025-08-22 18:30,Metaloglobus Bucuresti,Rapid Bucuresti 1923,1,2,,,
+61470413,2025-08-23 15:45,FC Botosani,AFK Csikszereda Miercurea Ciuc,3,1,,,
+61470407,2025-08-23 18:30,FC Universitatea Cluj,FC Dinamo Bucuresti 1948,0,1,,,
+61470409,2025-08-24 13:15,ASC Otelul Galati,FC CFR 1907 Cluj,4,1,,,
+61470415,2025-08-24 15:30,CS Universitatea Craiova,FC Petrolul Ploiesti,2,0,,,
+61470405,2025-08-24 18:30,Fotbal Club FCSB,ACS Champions FC Arges,0,2,,,
+61470411,2025-08-25 16:00,AFC Hermannstadt,FC Farul Constanta,1,0,,,
+61470417,2025-08-29 17:30,Rapid Bucuresti 1923,FC Uta Arad,2,0,,,
+61470421,2025-08-30 15:45,FC Unirea 2004 Slobozia,FC Universitatea Cluj,0,1,,,
+61470425,2025-08-30 18:30,FC Dinamo Bucuresti 1948,AFC Hermannstadt,2,0,,,
+61470419,2025-08-31 13:00,ACS Champions FC Arges,Metaloglobus Bucuresti,2,1,,,
+61470431,2025-08-31 15:30,FC Botosani,CS Universitatea Craiova,1,1,,,
+61470423,2025-08-31 18:30,FC CFR 1907 Cluj,Fotbal Club FCSB,2,2,,,
+61470427,2025-09-01 15:00,AFK Csikszereda Miercurea Ciuc,ASC Otelul Galati,1,1,,,
+61470429,2025-09-01 18:00,FC Farul Constanta,FC Petrolul Ploiesti,2,1,,,
+61470435,2025-09-12 18:00,FC Universitatea Cluj,Rapid Bucuresti 1923,0,0,,,
+61470433,2025-09-13 13:00,FC Uta Arad,ACS Champions FC Arges,3,3,,,
+61470437,2025-09-13 18:30,Metaloglobus Bucuresti,FC CFR 1907 Cluj,1,1,,,
+61470445,2025-09-14 12:45,ASC Otelul Galati,FC Botosani,0,1,,,
+61470447,2025-09-14 15:00,CS Universitatea Craiova,FC Farul Constanta,2,0,,,
+61510874,2025-09-14 18:00,AFK Csikszereda Miercurea Ciuc,Fotbal Club FCSB,1,1,,,
+61470439,2025-09-15 15:00,AFC Hermannstadt,FC Unirea 2004 Slobozia,0,2,,,
+61470443,2025-09-15 18:00,FC Petrolul Ploiesti,FC Dinamo Bucuresti 1948,0,3,,,
+61470459,2025-09-19 17:30,FC Botosani,Fotbal Club FCSB,3,1,,,
+61470451,2025-09-20 15:45,ACS Champions FC Arges,FC Universitatea Cluj,1,0,,,
+61470463,2025-09-20 18:00,ASC Otelul Galati,CS Universitatea Craiova,1,0,,,
+61470457,2025-09-21 13:00,FC Unirea 2004 Slobozia,FC Petrolul Ploiesti,1,0,,,
+61470449,2025-09-21 15:15,FC CFR 1907 Cluj,FC Uta Arad,1,1,,,
+61470453,2025-09-21 18:00,Rapid Bucuresti 1923,AFC Hermannstadt,1,2,,,
+61470455,2025-09-22 15:00,AFK Csikszereda Miercurea Ciuc,Metaloglobus Bucuresti,2,2,,,
+61470461,2025-09-22 18:00,FC Dinamo Bucuresti 1948,FC Farul Constanta,1,1,,,
+61470469,2025-09-26 15:00,AFC Hermannstadt,ACS Champions FC Arges,0,1,,,
+61470479,2025-09-26 18:00,CS Universitatea Craiova,FC Dinamo Bucuresti 1948,2,2,,,
+61470465,2025-09-27 12:00,FC Uta Arad,AFK Csikszereda Miercurea Ciuc,0,0,,,
+61470471,2025-09-27 17:30,FC Petrolul Ploiesti,Rapid Bucuresti 1923,0,1,,,
+61470475,2025-09-28 14:30,FC Farul Constanta,FC Unirea 2004 Slobozia,1,1,,,
+61470477,2025-09-28 17:30,Fotbal Club FCSB,ASC Otelul Galati,1,0,,,
+61470473,2025-09-29 15:00,Metaloglobus Bucuresti,FC Botosani,0,2,,,
+61470467,2025-09-29 18:00,FC Universitatea Cluj,FC CFR 1907 Cluj,2,2,,,
+61470493,2025-10-03 17:30,FC Unirea 2004 Slobozia,FC Dinamo Bucuresti 1948,0,1,,,
+61470483,2025-10-04 12:00,AFK Csikszereda Miercurea Ciuc,FC Universitatea Cluj,2,1,,,
+61470487,2025-10-04 14:30,ACS Champions FC Arges,FC Petrolul Ploiesti,0,1,,,
+61470489,2025-10-04 17:30,Rapid Bucuresti 1923,FC Farul Constanta,3,1,,,
+61470485,2025-10-05 12:00,FC CFR 1907 Cluj,AFC Hermannstadt,2,1,,,
+61470495,2025-10-05 17:30,Fotbal Club FCSB,CS Universitatea Craiova,1,0,,,
+61470491,2025-10-06 14:30,ASC Otelul Galati,Metaloglobus Bucuresti,4,0,,,
+61470481,2025-10-06 17:30,FC Botosani,FC Uta Arad,2,1,,,
+62719329,2025-10-16 17:30,AFK Csikszereda Miercurea Ciuc,FC CFR 1907 Cluj,2,2,,,
+61470505,2025-10-17 17:30,FC Farul Constanta,ACS Champions FC Arges,0,0,,,
+61470499,2025-10-18 12:00,FC Universitatea Cluj,FC Botosani,0,2,,,
+61470511,2025-10-18 14:30,CS Universitatea Craiova,FC Unirea 2004 Slobozia,3,1,,,
+61470509,2025-10-18 17:30,Metaloglobus Bucuresti,Fotbal Club FCSB,2,1,,,
+61470497,2025-10-19 14:30,FC Uta Arad,ASC Otelul Galati,0,4,,,
+61470507,2025-10-19 17:30,FC Dinamo Bucuresti 1948,Rapid Bucuresti 1923,0,2,,,
+61470501,2025-10-20 15:00,AFC Hermannstadt,AFK Csikszereda Miercurea Ciuc,0,2,,,
+61470503,2025-10-20 17:30,FC Petrolul Ploiesti,FC CFR 1907 Cluj,1,0,,,
+61470519,2025-10-24 14:30,AFK Csikszereda Miercurea Ciuc,FC Petrolul Ploiesti,1,1,,,
+61470523,2025-10-24 17:30,ACS Champions FC Arges,FC Dinamo Bucuresti 1948,1,1,,,
+61470515,2025-10-25 13:00,ASC Otelul Galati,FC Universitatea Cluj,1,2,,,
+61470521,2025-10-25 18:00,FC CFR 1907 Cluj,FC Farul Constanta,0,2,,,
+61470527,2025-10-26 12:00,Metaloglobus Bucuresti,CS Universitatea Craiova,0,0,,,
+61470513,2025-10-26 18:30,Fotbal Club FCSB,FC Uta Arad,4,0,,,
+61470517,2025-10-27 15:30,FC Botosani,AFC Hermannstadt,2,0,,,
+61470525,2025-10-27 18:30,Rapid Bucuresti 1923,FC Unirea 2004 Slobozia,4,1,,,
+61470539,2025-10-31 18:30,FC Dinamo Bucuresti 1948,FC CFR 1907 Cluj,2,1,,,
+61470541,2025-11-01 15:30,FC Unirea 2004 Slobozia,ACS Champions FC Arges,0,1,,,
+61470531,2025-11-01 18:30,FC Universitatea Cluj,Fotbal Club FCSB,0,2,,,
+61470529,2025-11-02 13:30,FC Uta Arad,Metaloglobus Bucuresti,2,0,,,
+61470533,2025-11-02 15:45,AFC Hermannstadt,ASC Otelul Galati,1,3,,,
+61470543,2025-11-02 18:30,CS Universitatea Craiova,Rapid Bucuresti 1923,2,2,,,
+61470537,2025-11-03 15:30,FC Farul Constanta,AFK Csikszereda Miercurea Ciuc,3,0,,,
+61470535,2025-11-03 18:30,FC Petrolul Ploiesti,FC Botosani,0,0,,,
+61510740,2025-11-07 16:00,FC Universitatea Cluj,Metaloglobus Bucuresti,3,1,,,
+61510746,2025-11-07 18:30,FC Farul Constanta,FC Botosani,2,0,,,
+61510744,2025-11-08 12:30,FC Petrolul Ploiesti,ASC Otelul Galati,0,0,,,
+61510748,2025-11-08 15:30,FC Dinamo Bucuresti 1948,AFK Csikszereda Miercurea Ciuc,4,0,,,
+61510752,2025-11-08 18:30,Rapid Bucuresti 1923,ACS Champions FC Arges,2,0,,,
+61510750,2025-11-09 12:30,FC Unirea 2004 Slobozia,FC CFR 1907 Cluj,0,1,,,
+61510738,2025-11-09 15:30,CS Universitatea Craiova,FC Uta Arad,1,2,,,
+61510742,2025-11-09 18:30,AFC Hermannstadt,Fotbal Club FCSB,3,3,,,
+61510764,2025-11-21 15:30,AFK Csikszereda Miercurea Ciuc,FC Unirea 2004 Slobozia,2,1,,,
+61510768,2025-11-21 18:30,ACS Champions FC Arges,CS Universitatea Craiova,1,2,,,
+61510754,2025-11-22 13:00,FC Uta Arad,FC Universitatea Cluj,0,2,,,
+61510758,2025-11-22 18:30,Fotbal Club FCSB,FC Petrolul Ploiesti,1,1,,,
+61510760,2025-11-23 15:30,ASC Otelul Galati,FC Farul Constanta,2,2,,,
+61510766,2025-11-23 18:30,FC CFR 1907 Cluj,Rapid Bucuresti 1923,3,0,,,
+61510756,2025-11-24 15:30,Metaloglobus Bucuresti,AFC Hermannstadt,1,1,,,
+61510762,2025-11-24 18:30,FC Botosani,FC Dinamo Bucuresti 1948,1,1,,,
+61510780,2025-11-28 18:30,Rapid Bucuresti 1923,AFK Csikszereda Miercurea Ciuc,4,1,,,
+61510782,2025-11-29 14:30,ACS Champions FC Arges,FC CFR 1907 Cluj,3,0,,,
+61510776,2025-11-29 18:45,FC Dinamo Bucuresti 1948,ASC Otelul Galati,1,0,,,
+61510770,2025-11-30 13:00,AFC Hermannstadt,FC Uta Arad,1,2,,,
+61510778,2025-11-30 15:30,FC Unirea 2004 Slobozia,FC Botosani,0,1,,,
+61510774,2025-11-30 18:30,FC Farul Constanta,Fotbal Club FCSB,1,2,,,
+61510772,2025-12-01 14:00,FC Petrolul Ploiesti,Metaloglobus Bucuresti,4,1,,,
+61510784,2025-12-01 17:00,FC Universitatea Cluj,CS Universitatea Craiova,0,0,,,
+61510792,2025-12-05 18:30,ASC Otelul Galati,FC Unirea 2004 Slobozia,3,0,,,
+61510796,2025-12-06 15:00,AFK Csikszereda Miercurea Ciuc,ACS Champions FC Arges,0,2,,,
+61510790,2025-12-06 18:30,Fotbal Club FCSB,FC Dinamo Bucuresti 1948,0,0,,,
+61510798,2025-12-07 13:00,FC Universitatea Cluj,AFC Hermannstadt,3,0,,,
+61510788,2025-12-07 15:30,Metaloglobus Bucuresti,FC Farul Constanta,2,1,,,
+61510800,2025-12-07 18:30,CS Universitatea Craiova,FC CFR 1907 Cluj,1,1,,,
+61510786,2025-12-08 15:30,FC Uta Arad,FC Petrolul Ploiesti,1,0,,,
+61510794,2025-12-08 18:30,FC Botosani,Rapid Bucuresti 1923,0,0,2.625,2.900,2.550
+61510814,2025-12-12 18:30,FC CFR 1907 Cluj,AFK Csikszereda Miercurea Ciuc,3,1,,,
+61510810,2025-12-13 15:00,ACS Champions FC Arges,FC Botosani,0,0,,,
+61510808,2025-12-13 18:30,Rapid Bucuresti 1923,ASC Otelul Galati,0,2,1.909,3.500,3.900
+61510812,2025-12-14 13:30,FC Petrolul Ploiesti,FC Universitatea Cluj,0,1,3.250,2.875,2.450
+61510804,2025-12-14 15:45,FC Dinamo Bucuresti 1948,Metaloglobus Bucuresti,4,0,1.333,5.000,8.500
+61510816,2025-12-14 18:30,AFC Hermannstadt,CS Universitatea Craiova,0,2,,,
+61510802,2025-12-15 15:30,FC Farul Constanta,FC Uta Arad,1,1,2.050,3.500,3.400
+61510806,2025-12-15 18:30,FC Unirea 2004 Slobozia,Fotbal Club FCSB,0,2,6.250,4.000,1.533
+61510828,2025-12-19 18:00,FC Botosani,FC CFR 1907 Cluj,0,1,,,
+61510820,2025-12-20 12:30,Metaloglobus Bucuresti,FC Unirea 2004 Slobozia,2,3,2.500,3.000,2.600
+61510824,2025-12-20 15:00,ASC Otelul Galati,ACS Champions FC Arges,2,1,,,
+61510818,2025-12-20 18:00,FC Uta Arad,FC Dinamo Bucuresti 1948,2,0,3.600,3.000,1.950
+61510830,2025-12-21 12:00,AFC Hermannstadt,FC Petrolul Ploiesti,1,1,2.550,2.750,3.000
+61510826,2025-12-21 14:30,FC Universitatea Cluj,FC Farul Constanta,1,0,2.000,3.000,3.400
+61510822,2025-12-21 18:00,Fotbal Club FCSB,Rapid Bucuresti 1923,2,1,2.100,3.200,3.100
+61510832,2025-12-22 18:00,CS Universitatea Craiova,AFK Csikszereda Miercurea Ciuc,5,0,,,
+61510838,2026-01-16 18:00,ACS Champions FC Arges,Fotbal Club FCSB,1,0,,,
+61510834,2026-01-17 11:00,FC Unirea 2004 Slobozia,FC Uta Arad,1,3,3.300,3.100,2.150
+61510844,2026-01-17 15:15,FC Farul Constanta,AFC Hermannstadt,1,1,1.909,3.200,3.800
+61510836,2026-01-17 18:00,Rapid Bucuresti 1923,Metaloglobus Bucuresti,1,0,1.270,5.250,9.000
+61510846,2026-01-18 13:30,AFK Csikszereda Miercurea Ciuc,FC Botosani,1,0,4.750,3.300,1.727
+61510842,2026-01-18 15:45,FC CFR 1907 Cluj,ASC Otelul Galati,1,0,,,
+61510840,2026-01-18 18:30,FC Dinamo Bucuresti 1948,FC Universitatea Cluj,1,0,1.800,3.200,4.500
+61510848,2026-01-19 18:00,FC Petrolul Ploiesti,CS Universitatea Craiova,0,4,,,
+61510852,2026-01-23 15:00,Metaloglobus Bucuresti,ACS Champions FC Arges,0,2,,,
+61510858,2026-01-23 18:00,AFC Hermannstadt,FC Dinamo Bucuresti 1948,1,2,4.333,3.250,1.800
+61510854,2026-01-24 15:00,FC Universitatea Cluj,FC Unirea 2004 Slobozia,1,0,1.500,3.400,7.000
+61510864,2026-01-24 18:00,CS Universitatea Craiova,FC Botosani,2,0,,,
+61510862,2026-01-25 12:30,FC Petrolul Ploiesti,FC Farul Constanta,0,1,2.625,2.900,2.625
+61510856,2026-01-25 18:00,Fotbal Club FCSB,FC CFR 1907 Cluj,1,4,,,
+61510860,2026-01-26 15:00,ASC Otelul Galati,AFK Csikszereda Miercurea Ciuc,3,0,1.270,5.250,11.000
+61510850,2026-01-26 18:00,FC Uta Arad,Rapid Bucuresti 1923,1,2,2.800,3.000,2.700
+61510870,2026-01-30 15:00,FC CFR 1907 Cluj,Metaloglobus Bucuresti,4,2,,,
+61510876,2026-01-30 18:00,FC Dinamo Bucuresti 1948,FC Petrolul Ploiesti,1,1,1.480,4.000,7.000
+61510872,2026-01-31 12:30,FC Unirea 2004 Slobozia,AFC Hermannstadt,2,3,2.900,2.700,2.550
+61510866,2026-01-31 15:00,ACS Champions FC Arges,FC Uta Arad,0,1,,,
+61510868,2026-01-31 18:00,Rapid Bucuresti 1923,FC Universitatea Cluj,0,2,1.800,3.100,4.333
+61510880,2026-02-01 15:15,FC Farul Constanta,CS Universitatea Craiova,4,1,,,
+63619807,2026-02-01 18:00,Fotbal Club FCSB,AFK Csikszereda Miercurea Ciuc,1,0,1.166,5.750,13.000
+61510878,2026-02-02 16:30,FC Botosani,ASC Otelul Galati,0,0,2.900,2.900,2.300
+61510890,2026-02-03 14:00,FC Petrolul Ploiesti,FC Unirea 2004 Slobozia,1,0,1.833,2.875,4.500
+61510884,2026-02-03 16:00,FC Universitatea Cluj,ACS Champions FC Arges,3,1,,,
+61510886,2026-02-03 18:30,AFC Hermannstadt,Rapid Bucuresti 1923,0,3,3.200,3.000,2.100
+61510888,2026-02-04 14:00,Metaloglobus Bucuresti,AFK Csikszereda Miercurea Ciuc,0,1,3.100,3.000,2.200
+61510882,2026-02-04 16:00,FC Uta Arad,FC CFR 1907 Cluj,0,1,,,
+61510894,2026-02-04 18:30,FC Farul Constanta,FC Dinamo Bucuresti 1948,2,3,3.600,3.300,1.850
+61510896,2026-02-05 16:00,CS Universitatea Craiova,ASC Otelul Galati,1,0,,,
+61510892,2026-02-05 18:30,Fotbal Club FCSB,FC Botosani,2,1,1.600,3.600,5.250
+61510902,2026-02-06 15:00,ACS Champions FC Arges,AFC Hermannstadt,3,1,,,
+61510904,2026-02-06 18:00,Rapid Bucuresti 1923,FC Petrolul Ploiesti,1,1,1.666,3.100,5.250
+61510908,2026-02-07 11:00,FC Unirea 2004 Slobozia,FC Farul Constanta,2,1,3.500,3.000,2.050
+61510898,2026-02-07 13:00,AFK Csikszereda Miercurea Ciuc,FC Uta Arad,2,0,3.600,2.900,2.000
+61510900,2026-02-07 18:00,FC CFR 1907 Cluj,FC Universitatea Cluj,3,2,,,
+61510906,2026-02-08 15:00,FC Botosani,Metaloglobus Bucuresti,3,0,1.222,5.500,10.000
+61510910,2026-02-08 18:00,ASC Otelul Galati,Fotbal Club FCSB,1,4,3.300,3.250,2.000
+61510912,2026-02-09 18:00,FC Dinamo Bucuresti 1948,CS Universitatea Craiova,1,1,,,
+61510920,2026-02-13 18:00,FC Petrolul Ploiesti,ACS Champions FC Arges,2,1,,,
+61510924,2026-02-14 12:30,Metaloglobus Bucuresti,ASC Otelul Galati,0,1,5.750,3.500,1.500
+61510916,2026-02-14 17:00,FC Universitatea Cluj,AFK Csikszereda Miercurea Ciuc,4,1,1.380,3.900,8.000
+61510914,2026-02-15 12:00,FC Uta Arad,FC Botosani,2,1,2.450,3.000,2.700
+61510922,2026-02-15 15:00,FC Farul Constanta,Rapid Bucuresti 1923,3,1,3.500,3.600,1.833
+61510928,2026-02-15 18:00,CS Universitatea Craiova,Fotbal Club FCSB,1,0,,,
+61510918,2026-02-16 15:00,AFC Hermannstadt,FC CFR 1907 Cluj,0,1,4.000,3.100,1.833
+61510926,2026-02-16 18:00,FC Dinamo Bucuresti 1948,FC Unirea 2004 Slobozia,1,0,1.222,4.750,11.000
+61510930,2026-02-20 15:00,ASC Otelul Galati,FC Uta Arad,2,2,2.050,2.900,3.600
+61510932,2026-02-20 18:00,FC Botosani,FC Universitatea Cluj,1,3,2.350,2.875,2.900
+61510936,2026-02-21 16:00,FC CFR 1907 Cluj,FC Petrolul Ploiesti,2,1,1.600,3.200,6.250
+61510940,2026-02-21 18:30,Rapid Bucuresti 1923,FC Dinamo Bucuresti 1948,2,1,2.750,3.000,2.500
+61510938,2026-02-22 13:00,ACS Champions FC Arges,FC Farul Constanta,1,0,,,
+61510944,2026-02-22 18:00,FC Unirea 2004 Slobozia,CS Universitatea Craiova,0,3,,,
+61510934,2026-02-23 15:00,AFK Csikszereda Miercurea Ciuc,AFC Hermannstadt,2,1,2.875,3.000,2.450
+61510942,2026-02-23 18:00,Fotbal Club FCSB,Metaloglobus Bucuresti,4,1,1.111,7.500,19.000
+61510950,2026-02-27 15:00,AFC Hermannstadt,FC Botosani,3,1,2.900,3.000,2.300
+61510948,2026-02-27 18:00,FC Universitatea Cluj,ASC Otelul Galati,4,0,1.833,3.200,4.000
+61510960,2026-02-28 13:00,CS Universitatea Craiova,Metaloglobus Bucuresti,2,1,,,
+61510954,2026-02-28 18:00,FC Farul Constanta,FC CFR 1907 Cluj,1,2,3.300,3.200,2.000
+61510952,2026-03-01 13:45,FC Petrolul Ploiesti,AFK Csikszereda Miercurea Ciuc,1,1,1.727,2.875,5.500
+61510956,2026-03-01 16:00,FC Dinamo Bucuresti 1948,ACS Champions FC Arges,0,1,1.571,3.300,5.750
+61510946,2026-03-01 19:00,FC Uta Arad,Fotbal Club FCSB,2,4,,,
+61510958,2026-03-02 17:30,FC Unirea 2004 Slobozia,Rapid Bucuresti 1923,1,2,6.250,4.000,1.450
+61510970,2026-03-06 17:30,AFK Csikszereda Miercurea Ciuc,FC Farul Constanta,1,0,2.700,3.250,2.400
+61510962,2026-03-07 12:30,Metaloglobus Bucuresti,FC Uta Arad,2,2,4.500,3.400,1.700
+61510968,2026-03-07 15:00,FC Botosani,FC Petrolul Ploiesti,0,1,2.000,3.200,3.600
+61510964,2026-03-07 18:00,Fotbal Club FCSB,FC Universitatea Cluj,1,3,1.533,3.800,5.250
+61510966,2026-03-08 12:30,ASC Otelul Galati,AFC Hermannstadt,0,2,2.350,3.000,2.900
+61510974,2026-03-08 15:00,ACS Champions FC Arges,FC Unirea 2004 Slobozia,0,0,1.550,3.500,6.250
+61510976,2026-03-08 18:00,Rapid Bucuresti 1923,CS Universitatea Craiova,1,1,,,
+61510972,2026-03-09 18:00,FC CFR 1907 Cluj,FC Dinamo Bucuresti 1948,2,0,2.450,3.200,2.700
+69744570,2026-03-13 15:30,FC Uta Arad,AFC Hermannstadt,3,2,2.200,3.000,3.000
+69785200,2026-03-13 18:30,CS Universitatea Craiova,ACS Champions FC Arges,0,1,,,
+69744564,2026-03-14 16:15,ASC Otelul Galati,AFK Csikszereda Miercurea Ciuc,2,3,2.100,3.000,3.200
+69785202,2026-03-14 19:00,Rapid Bucuresti 1923,FC Dinamo Bucuresti 1948,3,2,2.250,3.000,3.000
+69744568,2026-03-15 13:00,FC Farul Constanta,FC Petrolul Ploiesti,2,0,,,
+69744566,2026-03-15 18:30,Fotbal Club FCSB,Metaloglobus Bucuresti,0,0,1.100,8.500,21.000
+69744572,2026-03-16 15:30,FC Botosani,FC Unirea 2004 Slobozia,3,2,1.480,3.600,5.750
+69785204,2026-03-16 18:30,FC Universitatea Cluj,FC CFR 1907 Cluj,2,1,2.350,3.000,2.750
+69785206,2026-03-19 18:30,FC Dinamo Bucuresti 1948,CS Universitatea Craiova,0,1,,,
+69744582,2026-03-20 17:00,Fotbal Club FCSB,FC Uta Arad,1,0,1.380,4.000,6.500
+69785208,2026-03-20 19:45,FC CFR 1907 Cluj,Rapid Bucuresti 1923,1,0,2.500,2.875,2.750
+69744574,2026-03-21 13:00,Metaloglobus Bucuresti,FC Petrolul Ploiesti,1,0,4.333,3.000,1.800
+69744576,2026-03-21 15:30,AFK Csikszereda Miercurea Ciuc,FC Farul Constanta,1,1,2.500,3.100,2.500
+69785210,2026-03-21 18:30,ACS Champions FC Arges,FC Universitatea Cluj,0,1,2.750,2.875,2.450
+69744580,2026-03-22 17:00,AFC Hermannstadt,FC Botosani,3,0,2.250,3.100,2.875
+69744578,2026-03-23 18:30,FC Unirea 2004 Slobozia,ASC Otelul Galati,2,1,3.300,3.100,2.150
+69744590,2026-04-03 17:30,FC Botosani,Fotbal Club FCSB,3,2,4.333,3.600,1.615
+69744584,2026-04-04 12:00,ASC Otelul Galati,AFC Hermannstadt,2,0,2.300,3.000,2.875
+69785212,2026-04-04 16:30,ACS Champions FC Arges,FC Dinamo Bucuresti 1948,1,1,3.500,2.875,2.050
+69744592,2026-04-05 12:00,FC Uta Arad,Metaloglobus Bucuresti,5,1,1.400,4.000,7.000
+69744588,2026-04-05 14:30,FC Farul Constanta,FC Unirea 2004 Slobozia,0,1,1.550,3.800,4.750
+69785214,2026-04-05 17:30,Rapid Bucuresti 1923,FC Universitatea Cluj,1,2,1.950,3.200,3.400
+69744586,2026-04-06 14:30,FC Petrolul Ploiesti,AFK Csikszereda Miercurea Ciuc,2,0,1.800,3.200,4.100
+69785216,2026-04-06 17:30,CS Universitatea Craiova,FC CFR 1907 Cluj,2,0,,,
+69744598,2026-04-10 16:00,AFC Hermannstadt,FC Farul Constanta,1,0,1.909,3.300,3.500
+69744602,2026-04-11 14:15,FC Uta Arad,FC Botosani,3,1,2.200,3.100,2.900
+69744600,2026-04-11 17:00,Fotbal Club FCSB,ASC Otelul Galati,4,0,1.380,4.000,7.000
+69744596,2026-04-12 15:15,FC Unirea 2004 Slobozia,FC Petrolul Ploiesti,1,2,3.700,3.000,2.000
+69785220,2026-04-12 18:00,FC CFR 1907 Cluj,FC Dinamo Bucuresti 1948,1,1,2.375,3.000,2.750
+69744594,2026-04-13 12:30,Metaloglobus Bucuresti,AFK Csikszereda Miercurea Ciuc,0,1,3.100,3.100,2.150
+69785222,2026-04-13 15:30,Rapid Bucuresti 1923,ACS Champions FC Arges,0,0,1.800,3.100,4.200
+70238958,2026-04-13 18:30,FC Universitatea Cluj,CS Universitatea Craiova,4,0,,,
+69744612,2026-04-17 14:30,ASC Otelul Galati,FC Uta Arad,1,0,2.350,2.875,3.000
+69785228,2026-04-17 17:30,ACS Champions FC Arges,FC CFR 1907 Cluj,0,1,3.250,2.800,2.200
+69744604,2026-04-18 11:30,AFK Csikszereda Miercurea Ciuc,FC Unirea 2004 Slobozia,3,2,1.800,3.300,3.900
+69785226,2026-04-18 18:00,FC Dinamo Bucuresti 1948,FC Universitatea Cluj,2,1,2.150,3.300,2.900
+69744606,2026-04-19 15:15,FC Petrolul Ploiesti,AFC Hermannstadt,1,1,2.000,3.000,3.500
+69785224,2026-04-19 18:00,CS Universitatea Craiova,Rapid Bucuresti 1923,1,0,,,
+69744610,2026-04-20 14:30,FC Botosani,Metaloglobus Bucuresti,3,2,1.380,4.333,6.250
+69744608,2026-04-20 17:30,FC Farul Constanta,Fotbal Club FCSB,2,3,4.500,3.500,1.615
+69744616,2026-04-24 14:30,AFC Hermannstadt,AFK Csikszereda Miercurea Ciuc,0,0,1.615,3.400,4.750
+69744618,2026-04-24 17:30,Fotbal Club FCSB,FC Petrolul Ploiesti,3,1,1.480,3.600,6.000
+69744622,2026-04-25 12:00,FC Botosani,ASC Otelul Galati,1,1,1.850,3.200,3.800
+69785232,2026-04-25 17:30,FC CFR 1907 Cluj,FC Universitatea Cluj,1,0,2.400,3.200,2.625
+69744620,2026-04-26 11:00,FC Uta Arad,FC Farul Constanta,0,0,2.350,3.100,2.625
+69785234,2026-04-26 18:00,FC Dinamo Bucuresti 1948,Rapid Bucuresti 1923,3,1,2.550,3.100,2.625
+69744614,2026-04-27 14:30,Metaloglobus Bucuresti,FC Unirea 2004 Slobozia,1,1,2.700,3.100,2.350
+69785230,2026-04-27 17:30,ACS Champions FC Arges,CS Universitatea Craiova,0,1,,,
+69744626,2026-05-01 17:30,AFK Csikszereda Miercurea Ciuc,Fotbal Club FCSB,1,0,6.250,4.333,1.400
+69744632,2026-05-02 12:00,ASC Otelul Galati,Metaloglobus Bucuresti,2,2,1.363,4.750,6.500
+69744630,2026-05-02 14:30,FC Farul Constanta,FC Botosani,1,1,2.000,3.500,3.300
+69785240,2026-05-02 17:30,FC Universitatea Cluj,ACS Champions FC Arges,1,0,1.650,3.500,5.000
+69744628,2026-05-03 15:15,FC Petrolul Ploiesti,FC Uta Arad,1,2,2.000,3.250,3.500
+69785236,2026-05-03 18:00,CS Universitatea Craiova,FC Dinamo Bucuresti 1948,2,1,,,
+69744624,2026-05-04 14:30,FC Unirea 2004 Slobozia,AFC Hermannstadt,2,2,3.200,3.250,2.100
+69785238,2026-05-04 17:30,Rapid Bucuresti 1923,FC CFR 1907 Cluj,1,2,2.350,3.100,2.750
+69744638,2026-05-08 15:00,FC Uta Arad,AFK Csikszereda Miercurea Ciuc,1,0,1.650,3.700,4.500
+69785242,2026-05-08 18:00,FC CFR 1907 Cluj,CS Universitatea Craiova,0,0,,,
+69744642,2026-05-09 15:00,ASC Otelul Galati,FC Farul Constanta,3,2,2.450,3.100,2.750
+69785244,2026-05-09 18:00,FC Universitatea Cluj,Rapid Bucuresti 1923,2,0,1.727,3.400,4.500
+69744640,2026-05-10 13:00,FC Botosani,FC Petrolul Ploiesti,1,1,2.450,3.100,2.700
+69785246,2026-05-10 16:00,FC Dinamo Bucuresti 1948,ACS Champions FC Arges,2,1,1.615,3.300,5.500
+69744634,2026-05-11 15:00,Metaloglobus Bucuresti,AFC Hermannstadt,2,2,7.500,5.000,1.333
+69744636,2026-05-11 18:00,Fotbal Club FCSB,FC Unirea 2004 Slobozia,0,1,1.166,6.500,11.000
+69785252,2026-05-15 17:30,ACS Champions FC Arges,Rapid Bucuresti 1923,3,2,3.000,3.250,2.150
+69744648,2026-05-16 15:30,AFK Csikszereda Miercurea Ciuc,FC Botosani,2,0,2.450,3.200,2.500
+69785250,2026-05-16 18:00,FC Dinamo Bucuresti 1948,FC CFR 1907 Cluj,0,0,1.950,3.400,3.250
+69785248,2026-05-17 17:30,CS Universitatea Craiova,FC Universitatea Cluj,5,0,,,
+69744644,2026-05-18 17:30,FC Farul Constanta,Metaloglobus Bucuresti,0,1,1.270,5.750,7.000
+69744646,2026-05-18 17:30,FC Petrolul Ploiesti,ASC Otelul Galati,1,5,1.750,3.200,4.500
+69744650,2026-05-18 17:30,FC Unirea 2004 Slobozia,FC Uta Arad,0,1,2.625,3.300,2.350
+69744652,2026-05-18 17:30,AFC Hermannstadt,Fotbal Club FCSB,2,0,1.850,3.700,3.300
+69785258,2026-05-22 17:30,FC CFR 1907 Cluj,ACS Champions FC Arges,1,1,1.727,3.300,4.500
+71604162,2026-05-23 14:30,AFC Chindia Targoviste,FC Farul Constanta,3,3,4.200,3.500,1.700
+69785256,2026-05-23 17:30,FC Universitatea Cluj,FC Dinamo Bucuresti 1948,1,1,2.375,3.250,2.600
+71604164,2026-05-24 14:30,AFC Hermannstadt,SC FC Voluntari,3,2,2.050,3.100,3.500
+71592420,2026-05-24 17:30,Fotbal Club FCSB,FC Botosani,4,3,1.450,3.900,5.750
+69785254,2026-05-25 17:30,Rapid Bucuresti 1923,CS Universitatea Craiova,0,0,,,
+71704018,2026-05-29 17:30,FC Dinamo Bucuresti 1948,Fotbal Club FCSB,1,2,2.550,3.000,2.700
+71604166,2026-05-31 17:30,FC Farul Constanta,AFC Chindia Targoviste,5,3,1.333,4.500,8.500
+71604168,2026-06-01 17:30,SC FC Voluntari,AFC Hermannstadt,3,0,2.350,3.250,2.800
+72387864,2026-07-17 15:30,SC FC Voluntari,FC Botosani,2,2,2.200,3.100,3.100
+72387856,2026-07-17 18:30,Fotbal Club FCSB,ACS Champions FC Arges,2,0,1.600,4.000,4.500
+72387866,2026-07-18 15:30,ASC Otelul Galati,FC CFR 1907 Cluj,2,1,3.000,3.200,2.300
+72387868,2026-07-18 18:15,CS Universitatea Craiova,FC Uta Arad,4,0,,,
+72387860,2026-07-19 14:00,FC Universitatea Cluj,FC Farul Constanta,2,1,2.150,3.400,2.900
+72387870,2026-07-19 16:30,FC Petrolul Ploiesti,FC Dinamo Bucuresti 1948,1,0,4.200,3.300,1.800
+72387858,2026-07-20 15:30,FC Corvinul Hunedoara 1921,AFK Csikszereda Miercurea Ciuc,3,0,1.900,3.300,3.600
+72387862,2026-07-20 18:30,Rapid Bucuresti 1923,ACS Sepsi OSK Sfantu Gheorghe,1,0,1.615,3.500,4.500
+72387882,2026-07-24 15:30,FC Uta Arad,ASC Otelul Galati,2,2,1.909,3.200,3.400
+72387886,2026-07-24 18:30,ACS Champions FC Arges,FC Petrolul Ploiesti,1,0,1.950,3.000,3.900
+72387874,2026-07-25 14:30,FC Farul Constanta,FC Corvinul Hunedoara 1921,2,0,2.200,3.200,2.875
+72387884,2026-07-25 17:30,FC Dinamo Bucuresti 1948,CS Universitatea Craiova,5,1,,,
+72387876,2026-07-26 14:30,ACS Sepsi OSK Sfantu Gheorghe,FC Universitatea Cluj,1,0,2.300,3.100,2.800
+72387872,2026-07-26 17:30,AFK Csikszereda Miercurea Ciuc,Fotbal Club FCSB,0,2,3.500,3.500,1.850
+72387880,2026-07-27 15:30,FC CFR 1907 Cluj,SC FC Voluntari,5,0,1.850,3.400,3.700
+72387878,2026-07-27 18:30,FC Botosani,Rapid Bucuresti 1923,1,1,3.000,3.100,2.200
+72387902,2026-07-31 15:30,ACS Champions FC Arges,AFK Csikszereda Miercurea Ciuc,1,0,1.615,3.300,5.000
+72387898,2026-07-31 18:30,ASC Otelul Galati,FC Dinamo Bucuresti 1948,1,1,3.100,3.200,2.100
+72387896,2026-08-01 15:30,SC FC Voluntari,FC Uta Arad,1,0,2.750,2.900,2.450
+72387900,2026-08-01 18:30,CS Universitatea Craiova,FC Petrolul Ploiesti,4,0,,,
+72387890,2026-08-02 15:30,FC Corvinul Hunedoara 1921,ACS Sepsi OSK Sfantu Gheorghe,1,1,2.100,3.000,3.300
+72387894,2026-08-02 18:30,Rapid Bucuresti 1923,FC CFR 1907 Cluj,3,1,2.050,3.000,3.300
+72387892,2026-08-03 15:30,FC Universitatea Cluj,FC Botosani,2,1,1.909,3.300,3.300
+72387888,2026-08-03 18:30,Fotbal Club FCSB,FC Farul Constanta,2,2,1.550,3.800,4.750
+72387910,2026-08-07 18:00,FC Uta Arad,Rapid Bucuresti 1923,0,0,2.500,3.100,2.600
+72387916,2026-08-08 15:30,FC Farul Constanta,AFK Csikszereda Miercurea Ciuc,3,2,1.450,4.000,5.750
+72387912,2026-08-08 18:30,FC Dinamo Bucuresti 1948,SC FC Voluntari,4,0,1.450,3.900,5.750
+72387914,2026-08-09 15:30,FC Petrolul Ploiesti,ASC Otelul Galati,1,0,2.550,3.000,2.600
+72387918,2026-08-09 18:30,CS Universitatea Craiova,ACS Champions FC Arges,0,1,,,
+72387906,2026-08-10 15:30,FC Botosani,FC Corvinul Hunedoara 1921,0,0,2.300,3.000,2.800
+72387904,2026-08-10 18:30,ACS Sepsi OSK Sfantu Gheorghe,Fotbal Club FCSB,0,0,3.750,3.300,1.800
+72387928,2026-08-14 15:30,SC FC Voluntari,FC Petrolul Ploiesti,1,2,2.050,3.000,3.600
+72387934,2026-08-14 18:30,ACS Champions FC Arges,FC Farul Constanta,1,1,2.250,3.100,3.000
+72387930,2026-08-15 15:30,AFK Csikszereda Miercurea Ciuc,ACS Sepsi OSK Sfantu Gheorghe,0,0,3.250,3.200,2.150
+72387926,2026-08-15 18:30,Rapid Bucuresti 1923,FC Dinamo Bucuresti 1948,0,1,2.550,3.000,2.625
+72387932,2026-08-16 15:30,ASC Otelul Galati,CS Universitatea Craiova,1,1,,,
+72387922,2026-08-16 18:30,FC Corvinul Hunedoara 1921,FC CFR 1907 Cluj,3,0,2.625,3.100,2.550
+72387924,2026-08-17 15:30,FC Universitatea Cluj,FC Uta Arad,2,1,1.900,3.400,3.600
+72387920,2026-08-17 18:30,Fotbal Club FCSB,FC Botosani,3,2,1.480,4.100,5.750
+72387942,2026-08-21 17:30,FC Petrolul Ploiesti,Rapid Bucuresti 1923,0,2,3.500,3.100,2.100
+72387938,2026-08-22 15:30,FC Uta Arad,FC Corvinul Hunedoara 1921,0,0,2.150,3.100,3.300
+72387940,2026-08-22 18:30,FC Dinamo Bucuresti 1948,FC Universitatea Cluj,2,1,1.800,3.500,4.000
+72387948,2026-08-23 13:00,ACS Sepsi OSK Sfantu Gheorghe,FC Farul Constanta,1,1,2.625,3.100,2.550
+72387946,2026-08-23 15:30,CS Universitatea Craiova,SC FC Voluntari,3,1,1.420,4.333,6.500
+72387936,2026-08-23 18:30,FC CFR 1907 Cluj,Fotbal Club FCSB,1,0,3.900,3.600,1.800
+72387944,2026-08-24 15:30,FC Botosani,AFK Csikszereda Miercurea Ciuc,1,0,1.666,3.600,4.750
+72387950,2026-08-24 18:30,ASC Otelul Galati,ACS Champions FC Arges,1,0,2.500,2.875,2.900
+72387964,2026-08-28 15:00,SC FC Voluntari,ASC Otelul Galati,2,2,2.550,3.000,2.550
+72387956,2026-08-28 18:00,FC Universitatea Cluj,FC Petrolul Ploiesti,2,3,1.600,3.500,4.750
+72387958,2026-08-29 13:00,AFK Csikszereda Miercurea Ciuc,FC CFR 1907 Cluj,2,3,3.400,3.300,1.950
+72387966,2026-08-29 15:30,ACS Champions FC Arges,ACS Sepsi OSK Sfantu Gheorghe,0,1,2.250,2.800,3.100
+72387954,2026-08-29 18:30,FC Corvinul Hunedoara 1921,FC Dinamo Bucuresti 1948,1,1,2.800,3.100,2.250
+72387962,2026-08-30 13:00,FC Farul Constanta,FC Botosani,0,0,1.950,3.500,3.250
+72387952,2026-08-30 18:00,Fotbal Club FCSB,FC Uta Arad,1,3,1.700,3.500,4.200
+72387960,2026-08-31 17:30,Rapid Bucuresti 1923,CS Universitatea Craiova,1,1,3.200,3.100,2.100
+72387976,2026-09-04 17:30,FC CFR 1907 Cluj,FC Farul Constanta,0,0,2.150,3.100,3.100
+72387980,2026-09-05 12:00,FC Botosani,ACS Sepsi OSK Sfantu Gheorghe,5,0,2.050,3.200,3.300
+72387972,2026-09-05 14:30,FC Uta Arad,AFK Csikszereda Miercurea Ciuc,5,1,1.550,3.600,5.250
+72387968,2026-09-05 17:30,FC Dinamo Bucuresti 1948,Fotbal Club FCSB,2,1,2.300,3.200,2.700
+72387970,2026-09-06 12:00,FC Petrolul Ploiesti,FC Corvinul Hunedoara 1921,2,0,2.500,2.900,2.750
+72387978,2026-09-06 17:30,ASC Otelul Galati,Rapid Bucuresti 1923,0,1,3.100,3.000,2.150
+72387982,2026-09-07 14:30,SC FC Voluntari,ACS Champions FC Arges,1,0,2.600,2.800,2.700
+72387974,2026-09-07 17:30,CS Universitatea Craiova,FC Universitatea Cluj,4,0,1.550,3.600,5.000
+72387990,2026-09-11 15:00,FC Farul Constanta,FC Uta Arad,4,2,2.150,3.100,3.000
+72387986,2026-09-11 18:00,AFK Csikszereda Miercurea Ciuc,FC Dinamo Bucuresti 1948,1,3,5.750,3.750,1.480
+72387994,2026-09-12 15:30,ACS Sepsi OSK Sfantu Gheorghe,FC CFR 1907 Cluj,3,1,2.450,3.000,2.750
+72387996,2026-09-12 18:30,Rapid Bucuresti 1923,SC FC Voluntari,2,1,1.400,3.800,7.000
+72387998,2026-09-13 12:00,ACS Champions FC Arges,FC Botosani,1,1,2.300,3.000,2.900
+72387988,2026-09-13 17:30,FC Corvinul Hunedoara 1921,CS Universitatea Craiova,0,1,4.500,3.400,1.650
+72387992,2026-09-14 15:00,FC Universitatea Cluj,ASC Otelul Galati,3,0,1.500,3.800,5.250
+72387984,2026-09-14 18:00,Fotbal Club FCSB,FC Petrolul Ploiesti,2,2,1.333,4.500,7.000
+72388008,2026-09-18 15:00,FC Uta Arad,ACS Sepsi OSK Sfantu Gheorghe,1,0,1.750,3.300,4.000
+72388014,2026-09-18 18:00,Rapid Bucuresti 1923,ACS Champions FC Arges,3,1,1.500,3.600,5.750
+72388012,2026-09-19 14:30,FC CFR 1907 Cluj,FC Botosani,3,1,2.050,3.250,3.100
+72388000,2026-09-19 17:30,CS Universitatea Craiova,Fotbal Club FCSB,5,0,1.650,3.500,4.333
+72388010,2026-09-20 11:00,SC FC Voluntari,FC Universitatea Cluj,0,2,3.100,3.400,1.950
+72388004,2026-09-20 17:30,FC Dinamo Bucuresti 1948,FC Farul Constanta,4,0,1.666,3.600,4.333
+72388006,2026-09-21 15:00,ASC Otelul Galati,FC Corvinul Hunedoara 1921,2,3,2.750,2.900,2.400
+72388002,2026-09-21 18:00,FC Petrolul Ploiesti,AFK Csikszereda Miercurea Ciuc,2,0,1.480,3.800,5.500
+73430770,2026-10-08 17:30,FC CFR 1907 Cluj,FC Universitatea Cluj,1,3,2.875,3.200,2.250
+72388024,2026-10-09 15:00,FC Corvinul Hunedoara 1921,SC FC Voluntari,3,2,1.650,3.600,4.750
+72388022,2026-10-09 18:00,ACS Sepsi OSK Sfantu Gheorghe,FC Dinamo Bucuresti 1948,0,2,4.100,3.700,1.650
+72388026,2026-10-10 14:15,FC Botosani,FC Uta Arad,2,0,2.100,3.200,3.000
+72388016,2026-10-10 18:30,Fotbal Club FCSB,ASC Otelul Galati,1,0,1.444,4.000,5.750
+72388018,2026-10-11 15:00,AFK Csikszereda Miercurea Ciuc,CS Universitatea Craiova,0,1,8.500,5.750,1.250
+72388020,2026-10-11 18:00,FC Farul Constanta,FC Petrolul Ploiesti,3,1,1.750,3.400,3.800
+72388030,2026-10-12 15:00,ACS Champions FC Arges,FC CFR 1907 Cluj,0,1,2.750,3.000,2.400
+72388028,2026-10-12 18:00,FC Universitatea Cluj,Rapid Bucuresti 1923,3,4,2.550,3.200,2.450
+72388034,2026-10-16 15:00,ASC Otelul Galati,AFK Csikszereda Miercurea Ciuc,1,1,1.615,3.400,4.750
+72388040,2026-10-16 18:00,FC Dinamo Bucuresti 1948,FC Botosani,2,0,1.420,4.100,6.000
+72388038,2026-10-17 14:15,FC Petrolul Ploiesti,ACS Sepsi OSK Sfantu Gheorghe,1,1,2.000,3.200,3.300
+72388042,2026-10-17 18:30,Rapid Bucuresti 1923,FC Corvinul Hunedoara 1921,2,0,,,
+72388044,2026-10-18 15:15,FC Uta Arad,FC CFR 1907 Cluj,1,0,2.000,3.400,3.200
+72388036,2026-10-18 18:00,CS Universitatea Craiova,FC Farul Constanta,2,0,1.363,4.200,7.000
+72388046,2026-10-19 15:00,FC Universitatea Cluj,ACS Champions FC Arges,2,2,1.550,3.600,5.000
+72388032,2026-10-19 18:00,SC FC Voluntari,Fotbal Club FCSB,1,2,4.500,3.900,1.571
+72388056,2026-10-23 15:00,FC Botosani,FC Petrolul Ploiesti,1,3,1.800,3.600,3.500
+72388060,2026-10-23 18:00,FC Corvinul Hunedoara 1921,FC Universitatea Cluj,0,3,2.550,3.100,2.450
+72388050,2026-10-24 12:30,AFK Csikszereda Miercurea Ciuc,SC FC Voluntari,2,1,2.750,3.300,2.250
+72388062,2026-10-24 15:00,ACS Champions FC Arges,FC Uta Arad,0,1,2.450,3.000,2.700
+72388048,2026-10-24 18:00,Fotbal Club FCSB,Rapid Bucuresti 1923,4,1,2.200,3.400,2.800
+72388052,2026-10-25 14:00,FC Farul Constanta,ASC Otelul Galati,4,3,1.800,3.300,3.900
+72388058,2026-10-25 17:00,FC CFR 1907 Cluj,FC Dinamo Bucuresti 1948,2,2,4.200,3.600,1.666
+72388054,2026-10-26 18:00,ACS Sepsi OSK Sfantu Gheorghe,CS Universitatea Craiova,0,5,5.250,4.000,1.480
+72388066,2026-10-30 18:30,Rapid Bucuresti 1923,AFK Csikszereda Miercurea Ciuc,2,0,1.222,5.250,9.000
+72388078,2026-10-31 14:00,FC Corvinul Hunedoara 1921,ACS Champions FC Arges,2,0,1.950,3.300,3.300
+72388074,2026-10-31 17:00,FC Petrolul Ploiesti,FC CFR 1907 Cluj,1,1,2.050,3.250,3.200
+72388070,2026-11-01 13:00,ASC Otelul Galati,ACS Sepsi OSK Sfantu Gheorghe,1,1,1.909,3.250,3.600
+72388072,2026-11-01 15:30,CS Universitatea Craiova,FC Botosani,2,1,1.200,5.750,9.000
+72388076,2026-11-01 18:30,FC Dinamo Bucuresti 1948,FC Uta Arad,2,0,1.500,3.750,5.500
+72388068,2026-11-02 15:30,SC FC Voluntari,FC Farul Constanta,1,2,3.200,3.300,2.000
+72388064,2026-11-02 18:30,FC Universitatea Cluj,Fotbal Club FCSB,1,0,2.600,3.400,2.350
+72388092,2026-11-06 15:30,FC Uta Arad,FC Petrolul Ploiesti,0,1,1.750,3.600,4.200
+72388094,2026-11-06 18:30,ACS Champions FC Arges,FC Dinamo Bucuresti 1948,2,1,4.750,3.750,1.615
+72388082,2026-11-07 13:00,AFK Csikszereda Miercurea Ciuc,FC Universitatea Cluj,0,0,5.500,3.700,1.571
+72388084,2026-11-07 15:30,FC Farul Constanta,Rapid Bucuresti 1923,1,1,2.875,3.250,2.300
+72388080,2026-11-07 18:30,Fotbal Club FCSB,FC Corvinul Hunedoara 1921,0,1,1.571,4.000,5.000
+72388086,2026-11-08 14:00,ACS Sepsi OSK Sfantu Gheorghe,SC FC Voluntari,2,1,1.950,3.400,3.500
+72388090,2026-11-08 17:00,FC CFR 1907 Cluj,CS Universitatea Craiova,0,0,6.250,4.000,1.444
+72388088,2026-11-09 18:00,FC Botosani,ASC Otelul Galati,1,1,2.200,3.300,3.000

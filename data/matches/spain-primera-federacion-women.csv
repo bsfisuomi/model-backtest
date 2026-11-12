@@ -1,0 +1,215 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+61837308,2025-09-06 10:00,Real Madrid B,Deportivo Alaves,1,1,,,
+61837302,2025-09-06 11:00,CD Tenerife B,Real Betis Seville,2,1,,,
+61837304,2025-09-06 16:00,Valencia CF,CE Europa,3,2,,,
+61837306,2025-09-06 17:00,Villarreal CF,Atletico Madrid B,1,2,,,
+61837300,2025-09-07 09:00,FC Barcelona B,CA Osasuna,1,0,,,
+61837298,2025-09-07 10:30,SE Aem,Cacereno Femenino,0,0,,,
+61837318,2025-09-13 16:00,Atletico Madrid B,CD Alba Fundacion,3,0,,,
+61837312,2025-09-14 09:00,Oviedo Moderno,CD Tenerife B,2,0,,,
+61837322,2025-09-14 16:10,CE Europa,FC Barcelona B,1,3,,,
+61837334,2025-09-20 10:00,CD Tenerife B,CA Osasuna,2,1,,,
+61837330,2025-09-20 14:00,Valencia CF,Oviedo Moderno,0,0,,,
+61837332,2025-09-20 14:00,Villarreal CF,CE Europa,3,1,,,
+61837328,2025-09-20 15:00,Atletico Madrid B,Real Betis Seville,3,0,,,
+61837336,2025-09-21 10:00,FC Barcelona B,Deportivo Alaves,2,3,,,
+61837346,2025-09-27 09:00,Real Madrid B,FC Barcelona B,2,1,,,
+61837342,2025-09-27 09:30,Deportivo Alaves,CD Tenerife B,2,0,,,
+61837344,2025-09-27 10:30,Real Betis Seville,CD Alba Fundacion,1,1,,,
+61837338,2025-09-27 16:00,SE Aem,Valencia CF,0,0,,,
+61837348,2025-09-27 17:00,CE Europa,Cacereno Femenino,2,3,,,
+61837356,2025-10-04 10:00,Valencia CF,Real Betis Seville,0,1,,,
+61837360,2025-10-04 10:00,FC Barcelona B,SE Aem,5,0,,,
+61837364,2025-10-05 10:00,Atletico Madrid B,Deportivo Alaves,0,2,,,
+61837362,2025-10-05 11:00,CD Tenerife B,CE Europa,2,2,,,
+61837366,2025-10-11 08:30,Real Betis Seville,Oviedo Moderno,1,1,,,
+61837376,2025-10-11 10:00,CA Osasuna,Cacereno Femenino,1,0,,,
+61837372,2025-10-11 14:00,Real Madrid B,Valencia CF,0,1,,,
+61837378,2025-10-12 10:00,CE Europa,Atletico Madrid B,3,1,,,
+61837390,2025-10-18 10:00,CD Tenerife B,Real Madrid B,2,1,,,
+61837384,2025-10-18 10:15,Atletico Madrid B,Valencia CF,0,0,,,
+61837380,2025-10-18 15:00,Real Betis Seville,CA Osasuna,0,0,,,
+61837382,2025-10-18 17:00,CD Alba Fundacion,CE Europa,1,0,,,
+61837388,2025-10-19 10:00,Villarreal CF,FC Barcelona B,1,3,,,
+61837402,2025-11-01 11:00,Valencia CF,CD Alba Fundacion,2,0,,,
+61837396,2025-11-01 15:00,FC Barcelona B,Oviedo Moderno,4,1,,,
+61837398,2025-11-02 10:30,Cacereno Femenino,CD Tenerife B,1,1,,,
+61837406,2025-11-02 15:00,Real Madrid B,Atletico Madrid B,2,0,,,
+61837412,2025-11-08 11:00,CD Tenerife B,Valencia CF,2,2,,,
+61837416,2025-11-08 12:00,Real Betis Seville,FC Barcelona B,1,5,,,
+61837414,2025-11-08 15:00,CD Alba Fundacion,SE Aem,1,1,,,
+61837418,2025-11-08 15:00,Villarreal CF,Cacereno Femenino,1,1,,,
+61837420,2025-11-09 10:00,Oviedo Moderno,Deportivo Alaves,0,1,,,
+61837408,2025-11-09 11:00,CE Europa,Real Madrid B,3,0,,,
+61837410,2025-11-09 16:00,Atletico Madrid B,CA Osasuna,1,1,,,
+61837426,2025-11-15 17:00,Valencia CF,Villarreal CF,1,0,,,
+61837422,2025-11-16 10:00,SE Aem,CD Tenerife B,1,3,,,
+61837432,2025-11-16 10:00,FC Barcelona B,CD Alba Fundacion,1,2,,,
+61837424,2025-11-16 11:00,CA Osasuna,Oviedo Moderno,3,0,,,
+61837428,2025-11-16 11:00,Deportivo Alaves,CE Europa,2,0,,,
+61837434,2025-11-16 11:30,Cacereno Femenino,Atletico Madrid B,0,1,,,
+61837430,2025-11-16 15:00,Real Madrid B,Real Betis Seville,5,1,,,
+61837436,2025-11-22 09:30,CD Alba Fundacion,CD Tenerife B,0,0,,,
+61837438,2025-11-22 11:00,Atletico Madrid B,FC Barcelona B,2,3,,,
+61837444,2025-11-22 15:00,Oviedo Moderno,Cacereno Femenino,2,1,,,
+61837446,2025-11-22 15:00,Villarreal CF,Real Madrid B,1,2,,,
+61837440,2025-11-23 11:00,CA Osasuna,Valencia CF,0,0,,,
+61837442,2025-11-23 11:30,CE Europa,SE Aem,1,0,,,
+61837448,2025-11-23 12:00,Real Betis Seville,Deportivo Alaves,0,5,,,
+61837454,2025-12-06 11:00,CD Tenerife B,Villarreal CF,1,2,,,
+61837456,2025-12-06 11:00,Deportivo Alaves,CA Osasuna,1,0,,,
+61837450,2025-12-06 15:00,SE Aem,Atletico Madrid B,1,0,,,
+61837458,2025-12-06 15:00,Cacereno Femenino,Real Betis Seville,1,0,,,
+61837462,2025-12-06 17:00,Valencia CF,FC Barcelona B,1,2,,,
+61837452,2025-12-07 11:00,CE Europa,Oviedo Moderno,2,2,,,
+61837460,2025-12-07 15:00,Real Madrid B,CD Alba Fundacion,2,1,,,
+61837466,2025-12-13 11:00,Oviedo Moderno,Real Madrid B,2,1,,,
+61837468,2025-12-13 15:00,CD Alba Fundacion,Villarreal CF,1,0,,,
+61837464,2025-12-13 16:00,Real Betis Seville,CE Europa,3,1,2.600,3.400,2.300
+61837476,2025-12-13 17:00,Valencia CF,Deportivo Alaves,1,1,3.100,3.100,2.100
+61837470,2025-12-14 10:00,FC Barcelona B,Cacereno Femenino,4,0,1.444,4.333,5.500
+61837472,2025-12-14 10:00,Atletico Madrid B,CD Tenerife B,0,1,2.200,3.100,3.000
+61837474,2025-12-14 11:00,CA Osasuna,SE Aem,1,2,1.285,4.333,9.000
+61837486,2026-01-10 11:30,CD Tenerife B,Oviedo Moderno,4,2,,,
+61837484,2026-01-10 15:00,Villarreal CF,Real Betis Seville,2,1,1.500,3.800,5.500
+61837478,2026-01-11 11:00,SE Aem,FC Barcelona B,2,2,,,
+61837480,2026-01-11 11:00,CE Europa,Valencia CF,1,2,3.600,3.300,1.900
+61837482,2026-01-11 11:00,Deportivo Alaves,Atletico Madrid B,1,0,1.285,4.500,9.000
+61837490,2026-01-11 15:00,Real Madrid B,CA Osasuna,2,0,2.450,3.100,2.600
+61837488,2026-01-11 17:00,Cacereno Femenino,CD Alba Fundacion,1,1,,,
+61837504,2026-01-17 15:00,CD Alba Fundacion,Deportivo Alaves,0,1,,,
+61837492,2026-01-17 15:30,Oviedo Moderno,Villarreal CF,1,4,,,
+61837502,2026-01-17 16:00,Real Betis Seville,Atletico Madrid B,2,2,2.375,3.200,2.625
+61837494,2026-01-17 17:10,FC Barcelona B,CE Europa,5,0,1.270,5.000,8.000
+61837500,2026-01-18 11:00,Valencia CF,Cacereno Femenino,2,0,1.833,3.100,4.100
+61837496,2026-01-18 11:30,CA Osasuna,CD Tenerife B,1,1,1.727,3.400,4.200
+61837498,2026-01-18 15:00,Real Madrid B,SE Aem,1,1,1.666,3.400,4.500
+61837512,2026-01-24 11:00,Deportivo Alaves,Real Madrid B,0,1,1.400,4.000,7.000
+61837516,2026-01-24 15:00,Villarreal CF,SE Aem,0,1,1.850,3.500,3.400
+61837506,2026-01-25 11:00,Real Betis Seville,Valencia CF,0,0,4.100,3.300,1.750
+61837508,2026-01-25 11:00,Cacereno Femenino,CA Osasuna,1,3,2.800,2.625,2.700
+61837514,2026-01-25 11:00,CE Europa,CD Alba Fundacion,2,0,,,
+61837518,2026-01-25 11:30,CD Tenerife B,FC Barcelona B,1,0,4.333,3.800,1.615
+61837510,2026-01-25 16:00,Atletico Madrid B,Oviedo Moderno,1,1,,,
+61837522,2026-01-31 10:00,CD Alba Fundacion,Atletico Madrid B,0,2,,,
+61837528,2026-02-01 10:00,FC Barcelona B,Villarreal CF,1,0,1.333,4.750,7.000
+61837520,2026-02-01 10:30,Oviedo Moderno,Valencia CF,0,3,,,
+61837524,2026-02-01 11:00,SE Aem,Deportivo Alaves,1,3,,,
+61837526,2026-02-01 11:00,CE Europa,CD Tenerife B,2,0,2.450,3.500,2.375
+61837530,2026-02-01 11:30,CA Osasuna,Real Betis Seville,2,1,1.444,4.200,5.500
+61837532,2026-02-01 15:00,Real Madrid B,Cacereno Femenino,1,2,1.250,4.750,9.500
+61837536,2026-02-07 10:30,Atletico Madrid B,Real Madrid B,1,0,2.625,3.100,2.400
+61837538,2026-02-07 10:30,Deportivo Alaves,FC Barcelona B,1,2,1.850,3.300,3.600
+61837544,2026-02-07 15:00,Villarreal CF,CA Osasuna,2,1,3.100,3.000,2.150
+61837534,2026-02-08 11:00,Cacereno Femenino,CE Europa,2,0,1.950,3.100,3.500
+61837540,2026-02-08 11:00,Oviedo Moderno,CD Alba Fundacion,0,1,,,
+61837546,2026-02-08 11:00,Valencia CF,CD Tenerife B,3,0,1.450,3.800,6.000
+61837554,2026-02-14 10:00,Real Madrid B,CE Europa,2,0,1.700,3.400,4.333
+61837558,2026-02-14 11:30,CA Osasuna,Atletico Madrid B,2,0,1.650,3.500,4.500
+61837548,2026-02-14 15:00,CD Alba Fundacion,Valencia CF,2,1,,,
+61837552,2026-02-14 15:00,FC Barcelona B,Real Betis Seville,1,1,1.083,10.000,21.000
+61837560,2026-02-14 15:00,Villarreal CF,Deportivo Alaves,2,1,5.250,3.500,1.571
+61837556,2026-02-15 10:30,CD Tenerife B,Cacereno Femenino,1,0,,,
+61837550,2026-02-15 11:00,SE Aem,Oviedo Moderno,1,0,,,
+61837568,2026-02-21 10:00,CD Tenerife B,CD Alba Fundacion,1,1,,,
+61837564,2026-02-21 11:00,Atletico Madrid B,Villarreal CF,1,1,2.800,3.100,2.250
+61837566,2026-02-21 15:00,Deportivo Alaves,Real Betis Seville,1,0,,,
+61837562,2026-02-22 11:00,CE Europa,CA Osasuna,0,1,3.400,3.200,1.950
+61837572,2026-02-22 11:00,Oviedo Moderno,FC Barcelona B,2,4,,,
+61837574,2026-02-22 11:00,Valencia CF,Real Madrid B,1,1,1.480,3.750,5.750
+61837570,2026-02-22 11:30,Cacereno Femenino,SE Aem,2,1,2.000,3.000,3.500
+61837584,2026-03-14 12:00,CA Osasuna,CD Alba Fundacion,1,1,,,
+61837582,2026-03-14 15:00,Deportivo Alaves,Oviedo Moderno,3,0,,,
+61837586,2026-03-14 15:00,FC Barcelona B,Atletico Madrid B,2,0,1.222,5.000,9.500
+61837576,2026-03-14 16:00,Real Betis Seville,Cacereno Femenino,3,1,2.900,3.100,2.200
+61837578,2026-03-15 11:00,SE Aem,CE Europa,1,0,,,
+61837580,2026-03-15 11:00,Real Madrid B,CD Tenerife B,2,1,1.500,3.700,5.500
+61837588,2026-03-15 16:00,Villarreal CF,Valencia CF,2,2,2.550,3.100,2.500
+69389948,2026-03-18 17:00,Real Betis Seville,SE Aem,2,2,2.700,3.400,2.250
+61837590,2026-03-22 11:00,CD Alba Fundacion,Real Madrid B,0,0,,,
+61837592,2026-03-22 11:00,CE Europa,Villarreal CF,1,1,2.625,3.200,2.375
+61837594,2026-03-22 11:00,Oviedo Moderno,Real Betis Seville,0,1,,,
+61837596,2026-03-22 11:00,Atletico Madrid B,SE Aem,2,1,2.050,3.100,3.250
+61837598,2026-03-22 11:00,Cacereno Femenino,FC Barcelona B,1,5,4.500,3.500,1.615
+61837600,2026-03-22 11:00,Valencia CF,CA Osasuna,1,0,1.950,3.100,3.600
+61837602,2026-03-22 11:30,CD Tenerife B,Deportivo Alaves,0,1,5.500,3.700,1.500
+61837608,2026-03-28 10:00,FC Barcelona B,Valencia CF,0,0,1.571,3.600,4.750
+61837610,2026-03-28 10:00,Atletico Madrid B,CE Europa,1,1,1.850,3.200,3.800
+61837616,2026-03-29 09:00,Villarreal CF,CD Tenerife B,1,3,1.615,3.500,4.750
+61837604,2026-03-29 10:00,Real Betis Seville,Real Madrid B,0,3,3.400,3.300,1.900
+61837606,2026-03-29 10:00,SE Aem,CD Alba Fundacion,3,0,,,
+61837612,2026-03-29 10:00,Deportivo Alaves,Cacereno Femenino,1,1,1.333,4.100,8.000
+61837614,2026-03-29 10:00,Oviedo Moderno,CA Osasuna,1,0,,,
+61837618,2026-04-04 10:00,CD Alba Fundacion,Real Betis Seville,5,1,,,
+61837626,2026-04-04 10:00,CA Osasuna,FC Barcelona B,1,2,3.500,3.250,1.950
+61837630,2026-04-04 10:00,CE Europa,Deportivo Alaves,0,4,5.250,3.500,1.571
+61837622,2026-04-04 14:00,Real Madrid B,Oviedo Moderno,2,0,,,
+61837628,2026-04-05 10:00,Valencia CF,Atletico Madrid B,4,1,1.380,3.800,8.000
+61837624,2026-04-05 11:00,CD Tenerife B,SE Aem,2,1,1.833,3.300,3.800
+61837620,2026-04-05 15:00,Cacereno Femenino,Villarreal CF,0,0,2.150,3.100,3.100
+61837632,2026-04-25 14:00,Real Betis Seville,CD Tenerife B,1,2,2.625,3.250,2.300
+61837634,2026-04-25 14:00,SE Aem,CA Osasuna,1,0,,,
+61837636,2026-04-25 14:00,FC Barcelona B,Real Madrid B,3,0,1.480,3.900,5.500
+61837638,2026-04-25 14:00,Atletico Madrid B,Cacereno Femenino,0,2,2.875,2.900,2.300
+61837640,2026-04-25 14:00,Deportivo Alaves,Valencia CF,1,0,1.450,3.600,6.500
+61837642,2026-04-25 14:00,Villarreal CF,CD Alba Fundacion,2,2,,,
+61837644,2026-04-25 14:00,Oviedo Moderno,CE Europa,1,1,,,
+61837646,2026-05-02 14:00,CD Alba Fundacion,FC Barcelona B,2,2,,,
+61837648,2026-05-02 14:00,Cacereno Femenino,Oviedo Moderno,1,0,,,
+61837650,2026-05-02 14:00,Real Madrid B,Villarreal CF,1,1,1.615,3.500,4.750
+61837652,2026-05-02 14:00,CE Europa,Real Betis Seville,2,0,1.800,3.300,3.900
+61837654,2026-05-02 14:00,Valencia CF,SE Aem,4,2,1.700,3.300,4.500
+61837656,2026-05-02 14:00,CD Tenerife B,Atletico Madrid B,1,2,2.150,3.100,3.000
+61837658,2026-05-02 14:00,CA Osasuna,Deportivo Alaves,1,1,4.333,3.100,1.800
+71296242,2026-05-09 14:00,CA Osasuna,Villarreal CF,1,2,1.800,3.250,4.100
+71314824,2026-05-10 10:00,CD Alba Fundacion,Valencia CF,0,0,,,
+71421936,2026-05-17 10:00,Valencia CF,CD Alba Fundacion,4,3,,,
+71421938,2026-05-17 18:00,Villarreal CF,CA Osasuna,3,1,2.900,3.100,2.200
+71564482,2026-05-23 16:00,Villarreal CF,Valencia CF,0,0,3.300,3.100,2.050
+71564484,2026-05-30 16:00,Valencia CF,Villarreal CF,1,1,1.571,3.500,5.000
+73295720,2026-09-12 17:00,Atletico Madrid B,CD Alba Fundacion,2,1,,,
+73295722,2026-09-13 09:00,FC Barcelona B,Real Union de Tenerife Santa Cruz,1,1,1.166,6.000,11.000
+73295726,2026-09-13 09:00,Real Sociedad San Sebastian B,Cacereno Femenino,3,2,2.750,3.100,2.300
+73295724,2026-09-13 10:00,CA Osasuna,Real Madrid B,3,3,2.050,3.100,3.250
+73295728,2026-09-13 10:00,Sport Extremadura CD,Athletic Bilbao B,0,0,1.950,3.300,3.250
+73295730,2026-09-13 11:00,CD Tenerife B,Villarreal CF,1,1,,,
+73295718,2026-09-13 17:00,Alhama CF,Levante UD,4,0,2.350,3.100,2.700
+73295742,2026-09-19 10:00,Real Union de Tenerife Santa Cruz,Villarreal CF,1,2,2.900,3.400,2.100
+73295732,2026-09-19 17:00,CD Alba Fundacion,Real Sociedad San Sebastian B,2,0,,,
+73295736,2026-09-20 10:00,Atletico Madrid B,FC Barcelona B,5,3,4.500,3.900,1.600
+73295738,2026-09-20 10:00,Levante UD,Cacereno Femenino,3,0,1.800,3.600,3.600
+73295744,2026-09-20 10:00,Sport Extremadura CD,CA Osasuna,2,2,2.625,3.500,2.250
+73295734,2026-09-20 13:00,Athletic Bilbao B,CD Tenerife B,1,0,2.050,3.500,3.000
+73295740,2026-09-20 16:00,Real Madrid B,Alhama CF,0,1,3.000,3.700,1.950
+73295752,2026-09-26 10:00,CA Osasuna,FC Barcelona B,1,0,2.300,3.600,2.550
+73295754,2026-09-26 14:00,Real Sociedad San Sebastian B,Atletico Madrid B,0,2,,,
+73295758,2026-09-26 14:00,Villarreal CF,Athletic Bilbao B,1,1,1.727,3.500,4.000
+73295746,2026-09-26 16:00,Alhama CF,CD Alba Fundacion,2,1,,,
+73295748,2026-09-27 10:00,Cacereno Femenino,Real Union de Tenerife Santa Cruz,2,0,2.200,3.250,2.875
+73295750,2026-09-27 10:00,Levante UD,Sport Extremadura CD,2,1,1.615,3.600,4.600
+73295756,2026-09-27 11:00,CD Tenerife B,Real Madrid B,3,1,2.750,3.200,2.250
+73295762,2026-10-03 10:30,Athletic Bilbao B,CA Osasuna,0,6,3.900,3.400,1.750
+73295768,2026-10-03 14:00,Real Madrid B,Cacereno Femenino,0,1,2.250,3.250,2.800
+73295760,2026-10-04 09:00,CD Alba Fundacion,CD Tenerife B,4,0,,,
+73295764,2026-10-04 10:00,Atletico Madrid B,Levante UD,4,8,2.500,3.200,2.500
+73295770,2026-10-04 10:00,Real Union de Tenerife Santa Cruz,Real Sociedad San Sebastian B,1,0,,,
+73295772,2026-10-04 10:00,Sport Extremadura CD,Villarreal CF,1,0,2.500,3.300,2.400
+73295766,2026-10-04 15:00,FC Barcelona B,Alhama CF,2,0,1.700,3.800,3.700
+73295782,2026-10-17 14:15,Real Sociedad San Sebastian B,Athletic Bilbao B,0,0,,,
+73295776,2026-10-18 10:00,Cacereno Femenino,Atletico Madrid B,2,0,1.800,3.300,4.000
+73295784,2026-10-18 10:00,Real Union de Tenerife Santa Cruz,Sport Extremadura CD,1,1,,,
+73295780,2026-10-18 14:00,Real Madrid B,FC Barcelona B,3,3,3.300,3.400,1.909
+73295774,2026-10-18 15:00,Alhama CF,CA Osasuna,0,0,2.625,3.300,2.300
+73295790,2026-10-31 11:30,Athletic Bilbao B,Real Madrid B,5,0,3.600,3.500,1.800
+73295798,2026-10-31 12:00,CA Osasuna,Villarreal CF,0,1,1.420,4.000,6.250
+73295792,2026-10-31 16:00,Atletico Madrid B,Alhama CF,1,0,2.875,3.400,2.150
+73295796,2026-10-31 17:00,FC Barcelona B,Levante UD,0,3,,,
+73295794,2026-10-31 19:00,Cacereno Femenino,Sport Extremadura CD,0,1,1.950,3.300,3.300
+73295788,2026-11-01 09:30,CD Alba Fundacion,Real Union de Tenerife Santa Cruz,1,3,,,
+73295802,2026-11-07 15:00,CD Alba Fundacion,FC Barcelona B,1,2,,,
+73295806,2026-11-08 10:00,Levante UD,Real Union de Tenerife Santa Cruz,3,1,1.250,5.500,7.500
+73295812,2026-11-08 11:00,Sport Extremadura CD,Real Sociedad San Sebastian B,1,0,1.727,3.600,3.900
+73295814,2026-11-08 11:00,Villarreal CF,Cacereno Femenino,1,2,,,
+73295804,2026-11-08 16:00,Alhama CF,Athletic Bilbao B,3,1,1.800,3.500,3.600
+73295810,2026-11-08 17:00,Real Madrid B,Atletico Madrid B,3,3,2.750,3.300,2.200
+75880544,2026-11-11 11:00,Villarreal CF,CD Alba Fundacion,2,0,2.000,3.250,3.400

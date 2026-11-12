@@ -1,0 +1,739 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+60559005,2025-05-24 14:00,Sheffield United,Sunderland AFC,1,2,,,
+61489421,2025-08-08 19:00,Birmingham City,Ipswich Town,1,1,,,
+61489423,2025-08-09 11:30,Charlton Athletic,Watford FC,1,0,,,
+61489425,2025-08-09 11:30,Southampton FC,Wrexham AFC,2,1,,,
+61489427,2025-08-09 11:30,Coventry City,Hull City,0,0,,,
+61489429,2025-08-09 14:00,Middlesbrough FC,Swansea City,1,0,,,
+61489431,2025-08-09 14:00,Norwich City,Millwall FC,1,2,,,
+61489433,2025-08-09 14:00,Oxford United,Portsmouth FC,0,1,,,
+61489435,2025-08-09 14:00,Queens Park Rangers,Preston North End,1,1,,,
+61489437,2025-08-09 14:00,Stoke City,Derby County,3,1,,,
+61489439,2025-08-09 14:00,West Bromwich Albion,Blackburn Rovers,1,0,,,
+61489441,2025-08-09 16:30,Sheffield United,Bristol City,1,4,,,
+61489443,2025-08-10 15:30,Leicester City,Sheffield Wednesday,2,1,,,
+61489445,2025-08-16 11:30,Derby County,Coventry City,3,5,,,
+61489447,2025-08-16 11:30,Wrexham AFC,West Bromwich Albion,2,3,,,
+61489457,2025-08-16 11:30,Portsmouth FC,Norwich City,1,2,,,
+61489449,2025-08-16 14:00,Watford FC,Queens Park Rangers,2,1,,,
+61489451,2025-08-16 14:00,Swansea City,Sheffield United,1,0,,,
+61489453,2025-08-16 14:00,Sheffield Wednesday,Stoke City,0,3,,,
+61489455,2025-08-16 14:00,Preston North End,Leicester City,2,1,,,
+61489459,2025-08-16 14:00,Millwall FC,Middlesbrough FC,0,3,,,
+61489465,2025-08-16 14:00,Bristol City,Charlton Athletic,0,0,,,
+61489467,2025-08-16 14:00,Blackburn Rovers,Birmingham City,1,2,,,
+61489461,2025-08-17 11:00,Ipswich Town,Southampton FC,1,1,,,
+61489463,2025-08-17 14:00,Hull City,Oxford United,3,2,,,
+61489473,2025-08-22 19:00,Derby County,Bristol City,1,1,,,
+61489475,2025-08-23 11:30,Hull City,Blackburn Rovers,0,3,,,
+61489485,2025-08-23 11:30,Swansea City,Watford FC,1,1,,,
+61489491,2025-08-23 11:30,Charlton Athletic,Leicester City,0,1,,,
+61489469,2025-08-23 14:00,Birmingham City,Oxford United,1,0,,,
+61489471,2025-08-23 14:00,Coventry City,Queens Park Rangers,7,1,,,
+61489477,2025-08-23 14:00,Norwich City,Middlesbrough FC,1,2,,,
+61489479,2025-08-23 14:00,Preston North End,Ipswich Town,1,0,,,
+61489481,2025-08-23 14:00,Sheffield United,Millwall FC,0,1,,,
+61489483,2025-08-23 14:00,Southampton FC,Stoke City,1,2,,,
+61489487,2025-08-23 14:00,West Bromwich Albion,Portsmouth FC,1,1,,,
+61489489,2025-08-23 14:00,Wrexham AFC,Sheffield Wednesday,2,2,,,
+61489499,2025-08-29 19:00,Leicester City,Birmingham City,2,0,,,
+61489501,2025-08-30 11:30,Middlesbrough FC,Sheffield United,1,0,,,
+61489509,2025-08-30 11:30,Queens Park Rangers,Charlton Athletic,3,1,,,
+61489513,2025-08-30 11:30,Stoke City,West Bromwich Albion,0,1,,,
+61489493,2025-08-30 14:00,Blackburn Rovers,Norwich City,0,2,,,
+61489495,2025-08-30 14:00,Bristol City,Hull City,4,2,,,
+61489497,2025-08-30 14:00,Ipswich Town,Derby County,2,2,,,
+61489503,2025-08-30 14:00,Millwall FC,Wrexham AFC,0,2,,,
+61489505,2025-08-30 14:00,Oxford United,Coventry City,2,2,,,
+61489507,2025-08-30 14:00,Portsmouth FC,Preston North End,1,0,,,
+61489511,2025-08-30 14:00,Sheffield Wednesday,Swansea City,0,2,,,
+61489515,2025-08-30 14:00,Watford FC,Southampton FC,2,2,,,
+61490405,2025-09-12 19:00,Ipswich Town,Sheffield United,5,0,,,
+61490401,2025-09-13 11:30,Charlton Athletic,Millwall FC,1,1,,,
+61490407,2025-09-13 11:30,Oxford United,Leicester City,2,2,,,
+61490409,2025-09-13 11:30,Preston North End,Middlesbrough FC,2,2,,,
+61490403,2025-09-13 14:00,Coventry City,Norwich City,1,1,,,
+61490411,2025-09-13 14:00,Sheffield Wednesday,Bristol City,0,3,,,
+61490415,2025-09-13 14:00,Stoke City,Birmingham City,1,0,,,
+61490417,2025-09-13 14:00,Swansea City,Hull City,2,2,,,
+61490419,2025-09-13 14:00,Watford FC,Blackburn Rovers,0,1,,,
+61490421,2025-09-13 14:00,West Bromwich Albion,Derby County,0,1,,,
+61490423,2025-09-13 14:00,Wrexham AFC,Queens Park Rangers,1,3,,,
+61490413,2025-09-14 11:00,Southampton FC,Portsmouth FC,0,0,,,
+61490437,2025-09-19 19:00,Middlesbrough FC,West Bromwich Albion,2,1,,,
+61490425,2025-09-20 11:30,Birmingham City,Swansea City,1,0,,,
+61490435,2025-09-20 11:30,Leicester City,Coventry City,0,0,,,
+61490445,2025-09-20 11:30,Queens Park Rangers,Stoke City,1,0,,,
+61490431,2025-09-20 14:00,Derby County,Preston North End,0,1,,,
+61490433,2025-09-20 14:00,Hull City,Southampton FC,3,1,,,
+61490441,2025-09-20 14:00,Norwich City,Wrexham AFC,2,3,,,
+61490443,2025-09-20 14:00,Portsmouth FC,Sheffield Wednesday,0,2,,,
+61490447,2025-09-20 14:00,Sheffield United,Charlton Athletic,0,1,,,
+61490429,2025-09-21 14:00,Bristol City,Oxford United,1,3,,,
+61764058,2025-09-22 19:00,Millwall FC,Watford FC,1,0,,,
+61490469,2025-09-26 19:00,West Bromwich Albion,Leicester City,1,1,,,
+61490451,2025-09-27 11:30,Coventry City,Birmingham City,3,0,,,
+61490465,2025-09-27 11:30,Swansea City,Millwall FC,1,1,,,
+61490471,2025-09-27 11:30,Wrexham AFC,Derby County,1,1,,,
+61490449,2025-09-27 14:00,Charlton Athletic,Blackburn Rovers,3,0,,,
+61490453,2025-09-27 14:00,Ipswich Town,Portsmouth FC,2,1,,,
+61490455,2025-09-27 14:00,Oxford United,Sheffield United,0,1,,,
+61490457,2025-09-27 14:00,Preston North End,Bristol City,0,0,,,
+61490459,2025-09-27 14:00,Sheffield Wednesday,Queens Park Rangers,1,1,,,
+61490461,2025-09-27 14:00,Southampton FC,Middlesbrough FC,1,1,,,
+61490463,2025-09-27 14:00,Stoke City,Norwich City,1,1,,,
+61490467,2025-09-27 14:00,Watford FC,Hull City,2,1,,,
+61490473,2025-09-30 18:45,Birmingham City,Sheffield Wednesday,2,2,,,
+61490475,2025-09-30 18:45,Blackburn Rovers,Swansea City,1,2,,,
+61490477,2025-09-30 18:45,Bristol City,Ipswich Town,1,1,,,
+61490481,2025-09-30 18:45,Hull City,Preston North End,2,2,,,
+61490483,2025-09-30 18:45,Leicester City,Wrexham AFC,1,1,,,
+61490485,2025-09-30 18:45,Middlesbrough FC,Stoke City,0,0,,,
+61490487,2025-09-30 18:45,Sheffield United,Southampton FC,1,2,,,
+61490479,2025-09-30 19:00,Derby County,Charlton Athletic,1,1,,,
+61490489,2025-10-01 18:45,Millwall FC,Coventry City,0,4,,,
+61490491,2025-10-01 18:45,Norwich City,West Bromwich Albion,0,1,,,
+61490493,2025-10-01 18:45,Portsmouth FC,Watford FC,2,2,,,
+61490495,2025-10-01 19:00,Queens Park Rangers,Oxford United,0,0,,,
+61490519,2025-10-03 19:00,Wrexham AFC,Birmingham City,1,1,,,
+61490497,2025-10-04 11:30,Blackburn Rovers,Stoke City,1,1,,,
+61490503,2025-10-04 11:30,Hull City,Sheffield United,1,0,,,
+61490513,2025-10-04 11:30,Sheffield Wednesday,Coventry City,0,5,,,
+61490499,2025-10-04 14:00,Bristol City,Queens Park Rangers,1,2,,,
+61490501,2025-10-04 14:00,Derby County,Southampton FC,1,1,,,
+61490507,2025-10-04 14:00,Millwall FC,West Bromwich Albion,3,0,,,
+61490509,2025-10-04 14:00,Portsmouth FC,Middlesbrough FC,1,0,,,
+61490511,2025-10-04 14:00,Preston North End,Charlton Athletic,2,0,,,
+61490515,2025-10-04 14:00,Swansea City,Leicester City,1,3,,,
+61490517,2025-10-04 14:00,Watford FC,Oxford United,2,1,,,
+61490505,2025-10-05 11:00,Ipswich Town,Norwich City,3,1,,,
+61490529,2025-10-17 19:00,Middlesbrough FC,Ipswich Town,2,1,,,
+61490533,2025-10-18 11:30,Oxford United,Derby County,1,0,,,
+61490535,2025-10-18 11:30,Queens Park Rangers,Millwall FC,1,2,,,
+61490539,2025-10-18 11:30,Southampton FC,Swansea City,0,0,,,
+61490521,2025-10-18 14:00,Birmingham City,Hull City,2,3,,,
+61490523,2025-10-18 14:00,Charlton Athletic,Sheffield Wednesday,2,1,,,
+61490525,2025-10-18 14:00,Coventry City,Blackburn Rovers,2,0,,,
+61490531,2025-10-18 14:00,Norwich City,Bristol City,0,1,,,
+61490537,2025-10-18 14:00,Sheffield United,Watford FC,1,0,,,
+61490541,2025-10-18 14:00,Stoke City,Wrexham AFC,1,0,,,
+61490543,2025-10-18 14:00,West Bromwich Albion,Preston North End,2,1,,,
+61490527,2025-10-18 18:45,Leicester City,Portsmouth FC,1,1,,,
+61490545,2025-10-21 18:45,Blackburn Rovers,Sheffield United,1,3,,,
+61490549,2025-10-21 18:45,Derby County,Norwich City,1,0,,,
+61490551,2025-10-21 18:45,Hull City,Leicester City,2,1,,,
+61490553,2025-10-21 18:45,Ipswich Town,Charlton Athletic,0,3,,,
+61490555,2025-10-21 18:45,Millwall FC,Stoke City,2,0,,,
+61490557,2025-10-21 18:45,Portsmouth FC,Coventry City,1,2,,,
+61490559,2025-10-21 18:45,Preston North End,Birmingham City,0,1,,,
+61490547,2025-10-21 19:00,Bristol City,Southampton FC,3,1,,,
+61490563,2025-10-22 18:45,Swansea City,Queens Park Rangers,0,1,,,
+61490565,2025-10-22 18:45,Watford FC,West Bromwich Albion,2,1,,,
+61490567,2025-10-22 18:45,Wrexham AFC,Oxford United,1,0,,,
+61490561,2025-10-22 19:00,Sheffield Wednesday,Middlesbrough FC,0,1,,,
+61490587,2025-10-24 19:00,Preston North End,Sheffield United,3,2,,,
+61490573,2025-10-25 11:30,Coventry City,Watford FC,3,1,,,
+61490579,2025-10-25 11:30,Ipswich Town,West Bromwich Albion,1,0,,,
+61490585,2025-10-25 11:30,Portsmouth FC,Stoke City,0,1,,,
+61490569,2025-10-25 14:00,Blackburn Rovers,Southampton FC,2,1,,,
+61490571,2025-10-25 14:00,Bristol City,Birmingham City,1,0,,,
+61490575,2025-10-25 14:00,Derby County,Queens Park Rangers,1,0,,,
+61490577,2025-10-25 14:00,Hull City,Charlton Athletic,1,1,,,
+61490581,2025-10-25 14:00,Middlesbrough FC,Wrexham AFC,1,1,,,
+61490583,2025-10-25 14:00,Millwall FC,Leicester City,1,0,,,
+61490589,2025-10-25 14:00,Sheffield Wednesday,Oxford United,1,2,,,
+61490591,2025-10-25 14:00,Swansea City,Norwich City,2,1,,,
+61490615,2025-10-31 20:00,Wrexham AFC,Coventry City,3,2,,,
+61490597,2025-11-01 12:30,Leicester City,Blackburn Rovers,0,2,,,
+61490599,2025-11-01 12:30,Norwich City,Hull City,0,2,,,
+61490613,2025-11-01 12:30,West Bromwich Albion,Sheffield Wednesday,0,0,,,
+61490593,2025-11-01 15:00,Birmingham City,Portsmouth FC,4,0,,,
+61490595,2025-11-01 15:00,Charlton Athletic,Swansea City,1,1,,,
+61490601,2025-11-01 15:00,Oxford United,Millwall FC,2,2,,,
+61490603,2025-11-01 15:00,Queens Park Rangers,Ipswich Town,1,4,,,
+61490605,2025-11-01 15:00,Sheffield United,Derby County,1,3,,,
+61490607,2025-11-01 15:00,Southampton FC,Preston North End,0,2,,,
+61490609,2025-11-01 15:00,Stoke City,Bristol City,5,1,,,
+61490611,2025-11-01 15:00,Watford FC,Middlesbrough FC,3,0,,,
+61490617,2025-11-04 19:45,Birmingham City,Millwall FC,4,0,,,
+61490619,2025-11-04 19:45,Bristol City,Blackburn Rovers,0,1,,,
+61490621,2025-11-04 19:45,Charlton Athletic,West Bromwich Albion,1,0,,,
+61490625,2025-11-04 19:45,Derby County,Hull City,2,1,,,
+61490627,2025-11-04 19:45,Ipswich Town,Watford FC,1,1,,,
+61490629,2025-11-04 19:45,Leicester City,Middlesbrough FC,1,1,,,
+61490631,2025-11-04 19:45,Oxford United,Stoke City,0,3,,,
+61490623,2025-11-04 20:00,Coventry City,Sheffield United,3,1,,,
+61490635,2025-11-05 19:45,Preston North End,Swansea City,2,1,,,
+61490637,2025-11-05 19:45,Queens Park Rangers,Southampton FC,1,2,,,
+61490639,2025-11-05 19:45,Sheffield Wednesday,Norwich City,1,1,,,
+61490633,2025-11-05 20:00,Portsmouth FC,Wrexham AFC,0,0,,,
+61490659,2025-11-07 20:00,Watford FC,Bristol City,1,1,,,
+61490641,2025-11-08 12:30,Blackburn Rovers,Derby County,1,2,,,
+61490643,2025-11-08 12:30,Hull City,Portsmouth FC,3,2,,,
+61490647,2025-11-08 12:30,Millwall FC,Preston North End,1,1,,,
+61490645,2025-11-08 15:00,Middlesbrough FC,Birmingham City,2,1,,,
+61490649,2025-11-08 15:00,Norwich City,Leicester City,1,2,,,
+61490651,2025-11-08 15:00,Sheffield United,Queens Park Rangers,0,0,,,
+61490653,2025-11-08 15:00,Southampton FC,Sheffield Wednesday,3,1,,,
+61490655,2025-11-08 15:00,Stoke City,Coventry City,0,1,,,
+61490657,2025-11-08 15:00,Swansea City,Ipswich Town,1,4,,,
+61490661,2025-11-08 15:00,West Bromwich Albion,Oxford United,2,1,,,
+61490663,2025-11-08 15:00,Wrexham AFC,Charlton Athletic,1,0,,,
+61490683,2025-11-21 20:00,Preston North End,Blackburn Rovers,1,2,,,
+61490667,2025-11-22 12:30,Bristol City,Swansea City,3,0,,,
+61490669,2025-11-22 12:30,Charlton Athletic,Southampton FC,1,5,,,
+61490671,2025-11-22 12:30,Coventry City,West Bromwich Albion,3,2,,,
+61490665,2025-11-22 15:00,Birmingham City,Norwich City,4,1,,,
+61490673,2025-11-22 15:00,Derby County,Watford FC,2,3,,,
+61490675,2025-11-22 15:00,Ipswich Town,Wrexham AFC,0,0,,,
+61490677,2025-11-22 15:00,Leicester City,Stoke City,2,1,,,
+61490679,2025-11-22 15:00,Oxford United,Middlesbrough FC,1,1,,,
+61490681,2025-11-22 15:00,Portsmouth FC,Millwall FC,3,1,,,
+61490685,2025-11-22 15:00,Queens Park Rangers,Hull City,3,2,,,
+61490687,2025-11-23 12:00,Sheffield Wednesday,Sheffield United,0,3,,,
+61490689,2025-11-25 19:45,Hull City,Ipswich Town,0,2,,,
+61490691,2025-11-25 19:45,Middlesbrough FC,Coventry City,2,4,,,
+61490699,2025-11-25 19:45,Stoke City,Charlton Athletic,3,0,,,
+61490701,2025-11-25 19:45,Swansea City,Derby County,1,2,,,
+61490703,2025-11-25 19:45,Watford FC,Preston North End,1,1,,,
+61490707,2025-11-25 19:45,Norwich City,Oxford United,1,1,,,
+61490697,2025-11-25 20:00,Southampton FC,Leicester City,3,0,,,
+61490693,2025-11-26 19:45,Millwall FC,Sheffield Wednesday,1,0,,,
+61490695,2025-11-26 19:45,Sheffield United,Portsmouth FC,3,0,,,
+61490705,2025-11-26 19:45,Blackburn Rovers,Queens Park Rangers,0,1,,,
+61490711,2025-11-26 19:45,Wrexham AFC,Bristol City,2,0,,,
+61490709,2025-11-26 20:00,West Bromwich Albion,Birmingham City,1,1,,,
+61490725,2025-11-28 20:00,Oxford United,Ipswich Town,2,1,,,
+61490717,2025-11-29 12:30,Leicester City,Sheffield United,2,3,,,
+61490727,2025-11-29 12:30,Portsmouth FC,Bristol City,0,1,,,
+61490731,2025-11-29 12:30,Stoke City,Hull City,1,2,,,
+61490715,2025-11-29 15:00,Coventry City,Charlton Athletic,3,1,,,
+61490719,2025-11-29 15:00,Middlesbrough FC,Derby County,2,1,,,
+61490721,2025-11-29 15:00,Millwall FC,Southampton FC,3,2,,,
+61490723,2025-11-29 15:00,Norwich City,Queens Park Rangers,3,1,,,
+61490729,2025-11-29 15:00,Sheffield Wednesday,Preston North End,2,3,,,
+61490733,2025-11-29 15:00,West Bromwich Albion,Swansea City,3,2,,,
+61490735,2025-11-29 15:00,Wrexham AFC,Blackburn Rovers,1,1,,,
+62819093,2025-12-01 20:00,Birmingham City,Watford FC,2,1,,,
+64391477,2025-12-02 19:45,Blackburn Rovers,Ipswich Town,1,1,,,
+61490745,2025-12-05 20:15,Hull City,Middlesbrough FC,1,4,,,
+61490743,2025-12-06 12:30,Derby County,Leicester City,1,3,,,
+61490759,2025-12-06 12:30,Watford FC,Norwich City,3,2,,,
+61490739,2025-12-06 15:00,Bristol City,Millwall FC,0,1,,,
+61490747,2025-12-06 15:00,Ipswich Town,Coventry City,3,0,,,
+61490749,2025-12-06 15:00,Preston North End,Wrexham AFC,1,1,,,
+61490751,2025-12-06 15:00,Queens Park Rangers,West Bromwich Albion,3,1,,,
+61490753,2025-12-06 15:00,Sheffield United,Stoke City,4,0,,,
+61490755,2025-12-06 15:00,Southampton FC,Birmingham City,3,1,,,
+61490757,2025-12-06 15:00,Swansea City,Oxford United,2,0,,,
+61490761,2025-12-09 19:45,Blackburn Rovers,Oxford United,1,1,1.700,3.500,5.000
+61490763,2025-12-09 19:45,Charlton Athletic,Middlesbrough FC,1,2,2.900,3.250,2.400
+61490765,2025-12-09 19:45,Preston North End,Coventry City,1,1,3.500,3.500,2.000
+61490769,2025-12-09 19:45,Sheffield United,Norwich City,1,1,,,
+61490771,2025-12-09 19:45,Southampton FC,West Bromwich Albion,3,2,1.800,3.750,4.100
+61490773,2025-12-09 19:45,Swansea City,Portsmouth FC,1,0,1.909,3.500,4.000
+61490775,2025-12-09 19:45,Watford FC,Sheffield Wednesday,1,1,1.550,4.200,5.500
+61490767,2025-12-09 20:00,Queens Park Rangers,Birmingham City,2,1,2.800,3.300,2.450
+61490777,2025-12-10 19:45,Bristol City,Leicester City,2,2,2.250,3.300,3.100
+61490779,2025-12-10 19:45,Derby County,Millwall FC,1,1,2.750,3.100,2.700
+61490783,2025-12-10 19:45,Ipswich Town,Stoke City,1,0,1.571,3.900,5.750
+61490781,2025-12-10 20:00,Hull City,Wrexham AFC,2,0,2.450,3.300,2.800
+61490805,2025-12-12 20:00,West Bromwich Albion,Sheffield United,2,0,,,
+61490795,2025-12-13 12:30,Norwich City,Southampton FC,2,1,3.300,3.900,1.950
+61490797,2025-12-13 12:30,Oxford United,Preston North End,1,2,2.700,3.250,2.700
+61490803,2025-12-13 12:30,Stoke City,Swansea City,2,1,2.100,3.200,3.700
+61490785,2025-12-13 15:00,Birmingham City,Charlton Athletic,1,1,1.500,4.200,6.250
+61490787,2025-12-13 15:00,Coventry City,Bristol City,1,0,1.550,4.333,5.250
+61490789,2025-12-13 15:00,Leicester City,Ipswich Town,3,1,3.250,3.250,2.200
+61490791,2025-12-13 15:00,Middlesbrough FC,Queens Park Rangers,3,1,1.850,3.750,4.000
+61490793,2025-12-13 15:00,Millwall FC,Hull City,1,3,1.950,3.500,3.700
+61490799,2025-12-13 15:00,Portsmouth FC,Blackburn Rovers,2,1,2.900,3.300,2.400
+61490807,2025-12-13 15:00,Wrexham AFC,Watford FC,2,2,2.800,3.300,2.450
+62819165,2025-12-15 20:00,Sheffield Wednesday,Derby County,0,3,3.600,3.250,2.050
+61490829,2025-12-19 20:00,Swansea City,Wrexham AFC,2,1,2.150,3.400,3.300
+61490809,2025-12-20 12:30,Blackburn Rovers,Millwall FC,2,0,2.250,3.300,3.200
+61490821,2025-12-20 12:30,Preston North End,Norwich City,1,1,2.200,3.500,3.100
+61490827,2025-12-20 12:30,Southampton FC,Coventry City,1,1,2.300,3.750,2.875
+61490811,2025-12-20 15:00,Bristol City,Middlesbrough FC,2,0,2.600,3.600,2.500
+61490813,2025-12-20 15:00,Charlton Athletic,Oxford United,1,0,2.050,3.400,3.600
+61490815,2025-12-20 15:00,Derby County,Portsmouth FC,1,1,1.950,3.400,4.000
+61490817,2025-12-20 15:00,Hull City,West Bromwich Albion,1,0,2.900,3.400,2.350
+61490819,2025-12-20 15:00,Ipswich Town,Sheffield Wednesday,3,1,1.181,6.500,15.000
+61490823,2025-12-20 15:00,Queens Park Rangers,Leicester City,4,1,2.400,3.500,2.700
+61490825,2025-12-20 15:00,Sheffield United,Birmingham City,3,0,,,
+61490831,2025-12-20 15:00,Watford FC,Stoke City,1,0,2.000,3.300,3.900
+61490833,2025-12-26 12:30,Birmingham City,Derby County,1,1,1.950,3.300,4.000
+61490841,2025-12-26 13:00,Millwall FC,Ipswich Town,0,0,3.700,3.250,1.850
+61490835,2025-12-26 15:00,Coventry City,Swansea City,1,0,1.550,4.200,5.500
+61490837,2025-12-26 15:00,Leicester City,Watford FC,1,2,2.300,3.500,3.000
+61490839,2025-12-26 15:00,Middlesbrough FC,Blackburn Rovers,0,0,1.700,3.750,4.500
+61490843,2025-12-26 15:00,Norwich City,Charlton Athletic,1,0,2.050,3.500,3.500
+61490845,2025-12-26 15:00,Oxford United,Southampton FC,2,1,3.800,3.750,1.850
+61490847,2025-12-26 15:00,Portsmouth FC,Queens Park Rangers,1,1,3.100,3.400,2.250
+61490849,2025-12-26 15:00,Sheffield Wednesday,Hull City,2,2,4.100,3.700,1.833
+61490851,2025-12-26 15:00,Stoke City,Preston North End,0,0,2.000,3.250,3.750
+61490853,2025-12-26 15:00,West Bromwich Albion,Bristol City,1,2,2.000,3.300,3.500
+61490855,2025-12-26 17:30,Wrexham AFC,Sheffield United,5,3,,,
+61490859,2025-12-29 18:00,Coventry City,Ipswich Town,0,2,2.350,3.300,3.000
+61490861,2025-12-29 19:45,Leicester City,Derby County,2,1,2.050,3.300,3.500
+61490863,2025-12-29 19:45,Middlesbrough FC,Hull City,0,1,1.600,3.800,4.333
+61490865,2025-12-29 19:45,Millwall FC,Bristol City,2,1,2.375,3.250,3.100
+61490867,2025-12-29 19:45,Norwich City,Watford FC,0,1,2.550,3.300,2.700
+61490869,2025-12-29 19:45,Oxford United,Swansea City,0,1,2.625,3.200,2.700
+61490871,2025-12-29 19:45,Portsmouth FC,Charlton Athletic,2,1,2.375,2.875,2.900
+61490873,2025-12-29 19:45,Sheffield Wednesday,Blackburn Rovers,0,0,5.000,3.600,1.700
+61490875,2025-12-29 19:45,Stoke City,Sheffield United,1,2,,,
+61490877,2025-12-29 19:45,West Bromwich Albion,Queens Park Rangers,2,1,1.750,3.750,4.333
+61490879,2025-12-29 19:45,Wrexham AFC,Preston North End,2,1,2.100,3.250,3.500
+61490857,2025-12-29 20:15,Birmingham City,Southampton FC,1,1,2.350,3.500,2.875
+61490881,2026-01-01 12:30,Blackburn Rovers,Wrexham AFC,0,2,2.000,3.400,3.800
+61490883,2026-01-01 15:00,Bristol City,Portsmouth FC,5,0,1.615,3.700,5.750
+61490885,2026-01-01 15:00,Charlton Athletic,Coventry City,1,1,3.700,3.400,2.000
+61490887,2026-01-01 15:00,Derby County,Middlesbrough FC,1,0,2.900,3.300,2.400
+61490889,2026-01-01 15:00,Hull City,Stoke City,0,1,2.250,3.200,3.300
+61490891,2026-01-01 15:00,Ipswich Town,Oxford United,2,1,1.363,4.500,8.500
+61490893,2026-01-01 15:00,Preston North End,Sheffield Wednesday,3,0,1.533,4.000,6.500
+61490895,2026-01-01 15:00,Queens Park Rangers,Norwich City,1,2,1.950,3.600,3.600
+61490899,2026-01-01 15:00,Southampton FC,Millwall FC,0,0,1.900,3.500,4.000
+61490901,2026-01-01 15:00,Swansea City,West Bromwich Albion,1,0,3.200,3.200,2.300
+61490903,2026-01-01 15:00,Watford FC,Birmingham City,3,0,2.200,3.300,3.250
+61490897,2026-01-01 17:30,Sheffield United,Leicester City,3,1,,,
+61490905,2026-01-04 12:00,Birmingham City,Coventry City,3,2,2.625,3.400,2.600
+61490925,2026-01-04 12:00,Queens Park Rangers,Sheffield Wednesday,3,0,1.363,5.000,7.500
+61490907,2026-01-04 15:00,Blackburn Rovers,Charlton Athletic,2,2,2.100,3.100,3.900
+61490909,2026-01-04 15:00,Bristol City,Preston North End,0,2,1.800,3.600,4.333
+61490911,2026-01-04 15:00,Derby County,Wrexham AFC,1,2,2.200,3.200,3.400
+61490917,2026-01-04 15:00,Middlesbrough FC,Southampton FC,4,0,2.200,3.750,3.000
+61490919,2026-01-04 15:00,Millwall FC,Swansea City,2,1,2.100,3.100,3.700
+61490921,2026-01-04 15:00,Norwich City,Stoke City,0,2,1.950,3.500,3.750
+61490915,2026-01-05 20:00,Leicester City,West Bromwich Albion,2,1,2.875,3.400,2.375
+61490949,2026-01-16 20:00,West Bromwich Albion,Middlesbrough FC,2,3,2.450,3.300,2.875
+61490931,2026-01-17 12:30,Coventry City,Leicester City,2,1,1.571,4.333,5.250
+61490933,2026-01-17 12:30,Ipswich Town,Blackburn Rovers,3,0,1.500,4.100,6.250
+61490947,2026-01-17 12:30,Watford FC,Millwall FC,0,2,2.150,3.300,3.400
+61490929,2026-01-17 15:00,Charlton Athletic,Sheffield United,1,0,3.700,3.700,1.950
+61490935,2026-01-17 15:00,Oxford United,Bristol City,0,0,3.250,3.300,2.200
+61490937,2026-01-17 15:00,Preston North End,Derby County,0,1,2.250,3.100,3.400
+61490939,2026-01-17 15:00,Sheffield Wednesday,Portsmouth FC,0,1,4.200,3.600,1.850
+61490941,2026-01-17 15:00,Southampton FC,Hull City,1,2,1.571,3.900,5.750
+61490943,2026-01-17 15:00,Stoke City,Queens Park Rangers,0,0,2.150,3.200,3.500
+61490951,2026-01-17 15:00,Wrexham AFC,Norwich City,1,2,2.150,3.500,3.250
+61490945,2026-01-17 17:30,Swansea City,Birmingham City,1,1,2.700,3.200,2.700
+61490953,2026-01-20 19:45,Coventry City,Millwall FC,2,1,1.800,3.600,4.200
+61490955,2026-01-20 19:45,Ipswich Town,Bristol City,2,0,1.615,3.800,5.500
+61490957,2026-01-20 19:45,Oxford United,Queens Park Rangers,0,0,2.375,3.250,2.875
+61490959,2026-01-20 19:45,Preston North End,Hull City,0,3,2.300,3.250,3.200
+61490961,2026-01-20 19:45,Sheffield Wednesday,Birmingham City,0,2,7.500,4.500,1.400
+61490963,2026-01-20 19:45,Swansea City,Blackburn Rovers,3,1,1.800,3.500,4.500
+61490965,2026-01-20 19:45,West Bromwich Albion,Norwich City,0,5,2.000,3.500,3.600
+61490969,2026-01-20 19:45,Charlton Athletic,Derby County,1,2,2.550,3.000,3.000
+61490967,2026-01-20 20:00,Wrexham AFC,Leicester City,1,1,2.200,3.500,3.200
+61490971,2026-01-21 19:45,Southampton FC,Sheffield United,1,0,2.100,3.900,3.100
+61490975,2026-01-21 19:45,Watford FC,Portsmouth FC,1,1,1.833,3.600,4.333
+61490973,2026-01-21 20:00,Stoke City,Middlesbrough FC,1,2,2.800,3.300,2.450
+61490983,2026-01-23 20:00,Derby County,West Bromwich Albion,1,1,2.625,3.100,2.700
+61490989,2026-01-24 12:30,Middlesbrough FC,Preston North End,4,0,1.500,4.200,6.250
+61490991,2026-01-24 12:30,Millwall FC,Charlton Athletic,4,0,1.700,3.500,4.750
+61490977,2026-01-24 15:00,Birmingham City,Stoke City,1,1,1.750,3.800,4.333
+61490979,2026-01-24 15:00,Blackburn Rovers,Watford FC,1,1,2.200,3.100,3.500
+61490981,2026-01-24 15:00,Bristol City,Sheffield Wednesday,2,0,1.250,7.000,9.500
+61490985,2026-01-24 15:00,Hull City,Swansea City,2,1,2.250,3.200,3.300
+61490987,2026-01-24 15:00,Leicester City,Oxford United,1,2,1.833,3.400,4.500
+61490997,2026-01-24 15:00,Queens Park Rangers,Wrexham AFC,2,3,2.300,3.250,3.100
+61490999,2026-01-24 15:00,Sheffield United,Ipswich Town,3,1,2.700,3.400,2.550
+61490995,2026-01-25 12:00,Portsmouth FC,Southampton FC,1,1,3.300,3.400,2.050
+61490993,2026-01-26 20:00,Norwich City,Coventry City,2,1,3.100,3.600,2.100
+61491003,2026-01-30 20:00,Bristol City,Derby County,0,5,1.950,3.500,3.600
+61491007,2026-01-31 12:30,Leicester City,Charlton Athletic,0,2,1.900,3.400,4.333
+61491019,2026-01-31 12:30,Sheffield Wednesday,Wrexham AFC,0,1,5.250,4.333,1.550
+61491021,2026-01-31 12:30,Stoke City,Southampton FC,0,2,2.625,3.250,2.600
+61491001,2026-01-31 15:00,Blackburn Rovers,Hull City,0,1,2.200,3.300,3.200
+61491005,2026-01-31 15:00,Ipswich Town,Preston North End,1,1,1.363,4.750,8.000
+61491009,2026-01-31 15:00,Middlesbrough FC,Norwich City,1,0,1.666,4.100,4.500
+61491011,2026-01-31 15:00,Millwall FC,Sheffield United,1,1,2.450,3.250,2.875
+61491013,2026-01-31 15:00,Oxford United,Birmingham City,0,2,3.500,3.500,2.050
+61491015,2026-01-31 15:00,Portsmouth FC,West Bromwich Albion,3,0,2.800,3.100,2.625
+61491017,2026-01-31 15:00,Queens Park Rangers,Coventry City,2,1,3.700,3.600,1.909
+61491023,2026-01-31 15:00,Watford FC,Swansea City,0,2,2.150,3.250,3.500
+66852262,2026-02-03 19:45,Blackburn Rovers,Sheffield Wednesday,1,0,1.300,4.500,7.500
+67844082,2026-02-03 19:45,Hull City,Watford FC,0,0,2.200,3.500,3.100
+67844096,2026-02-03 19:45,Sheffield United,Oxford United,3,1,1.400,4.333,8.500
+61491027,2026-02-06 20:00,Charlton Athletic,Queens Park Rangers,0,0,,,
+61491031,2026-02-07 12:30,Derby County,Ipswich Town,1,2,,,
+61491035,2026-02-07 12:30,Norwich City,Blackburn Rovers,2,0,,,
+61491041,2026-02-07 12:30,Southampton FC,Watford FC,1,0,,,
+61491025,2026-02-07 15:00,Birmingham City,Leicester City,2,1,,,
+61491029,2026-02-07 15:00,Coventry City,Oxford United,0,0,,,
+61491033,2026-02-07 15:00,Hull City,Bristol City,2,3,,,
+61491037,2026-02-07 15:00,Preston North End,Portsmouth FC,1,0,,,
+61491045,2026-02-07 15:00,West Bromwich Albion,Stoke City,0,0,,,
+61491047,2026-02-07 15:00,Wrexham AFC,Millwall FC,0,2,,,
+61491043,2026-02-08 12:00,Swansea City,Sheffield Wednesday,4,0,,,
+61491039,2026-02-09 20:00,Sheffield United,Middlesbrough FC,1,2,2.200,3.600,3.000
+61491061,2026-02-10 19:45,Leicester City,Southampton FC,3,4,2.800,3.400,2.450
+61491063,2026-02-10 19:45,Oxford United,Norwich City,0,3,3.000,3.200,2.400
+61491049,2026-02-10 20:00,Birmingham City,West Bromwich Albion,0,0,1.700,3.600,5.000
+61491053,2026-02-11 19:45,Charlton Athletic,Stoke City,1,0,2.750,3.000,2.750
+61491057,2026-02-14 15:00,Derby County,Swansea City,2,0,2.500,3.200,2.800
+61491065,2026-02-14 15:00,Portsmouth FC,Sheffield United,0,1,3.100,3.400,2.250
+61491067,2026-02-14 15:00,Preston North End,Watford FC,2,2,2.800,3.100,2.500
+61491069,2026-02-14 15:00,Queens Park Rangers,Blackburn Rovers,1,3,2.200,3.200,3.300
+61491071,2026-02-14 15:00,Sheffield Wednesday,Millwall FC,1,2,9.000,5.000,1.333
+61491055,2026-02-16 20:00,Coventry City,Middlesbrough FC,3,1,2.250,3.600,3.000
+68189338,2026-02-17 19:45,Charlton Athletic,Portsmouth FC,1,3,2.550,2.900,3.100
+68329680,2026-02-17 19:45,Bristol City,Wrexham AFC,2,2,2.200,3.400,3.200
+61491073,2026-02-20 20:00,Blackburn Rovers,Preston North End,1,0,2.150,3.300,3.500
+61491075,2026-02-21 12:30,Hull City,Queens Park Rangers,1,3,2.250,3.400,3.100
+61491087,2026-02-21 12:30,Stoke City,Leicester City,2,2,2.250,3.250,3.250
+61491089,2026-02-21 12:30,Swansea City,Bristol City,1,0,1.950,3.250,3.400
+61491093,2026-02-21 12:30,West Bromwich Albion,Coventry City,0,2,3.500,3.500,2.050
+61491077,2026-02-21 15:00,Middlesbrough FC,Oxford United,0,0,1.380,4.500,8.000
+61491079,2026-02-21 15:00,Millwall FC,Portsmouth FC,1,3,1.850,3.400,4.333
+61491081,2026-02-21 15:00,Norwich City,Birmingham City,1,2,2.625,3.400,2.625
+61491085,2026-02-21 15:00,Southampton FC,Charlton Athletic,1,1,1.533,4.333,6.000
+61491091,2026-02-21 15:00,Watford FC,Derby County,2,0,1.950,3.400,3.800
+61491095,2026-02-21 15:00,Wrexham AFC,Ipswich Town,5,3,3.300,3.500,2.100
+61491083,2026-02-22 12:00,Sheffield United,Sheffield Wednesday,2,1,1.142,9.000,13.000
+61491097,2026-02-24 19:45,Hull City,Derby County,4,2,2.250,3.400,3.100
+61491099,2026-02-24 19:45,Middlesbrough FC,Leicester City,1,1,1.480,4.500,6.250
+61491105,2026-02-24 19:45,Swansea City,Preston North End,1,1,1.800,3.750,4.100
+61491107,2026-02-24 19:45,Watford FC,Ipswich Town,0,2,3.100,3.300,2.300
+61491109,2026-02-24 19:45,West Bromwich Albion,Charlton Athletic,1,1,1.950,3.400,4.000
+61491111,2026-02-24 19:45,Wrexham AFC,Portsmouth FC,2,1,2.100,3.300,3.500
+61491113,2026-02-24 19:45,Blackburn Rovers,Bristol City,1,2,2.350,3.200,3.100
+61491101,2026-02-24 20:00,Southampton FC,Queens Park Rangers,5,0,1.727,3.800,4.333
+61491115,2026-02-25 19:45,Millwall FC,Birmingham City,3,0,2.700,3.300,2.600
+61491117,2026-02-25 19:45,Norwich City,Sheffield Wednesday,2,0,1.181,6.500,15.000
+61491119,2026-02-25 19:45,Sheffield United,Coventry City,1,2,2.500,3.400,2.700
+61491103,2026-02-25 20:00,Stoke City,Oxford United,2,1,1.900,3.500,4.000
+61491123,2026-02-27 20:00,Bristol City,Watford FC,1,2,2.450,3.400,2.800
+61491129,2026-02-28 12:30,Derby County,Blackburn Rovers,3,1,2.100,3.300,3.400
+61491133,2026-02-28 12:30,Leicester City,Norwich City,0,2,2.450,3.400,2.800
+61491137,2026-02-28 12:30,Portsmouth FC,Hull City,0,1,1.909,3.400,4.000
+61491125,2026-02-28 15:00,Charlton Athletic,Wrexham AFC,0,1,3.200,3.300,2.250
+61491127,2026-02-28 15:00,Coventry City,Stoke City,2,1,1.533,4.200,5.750
+61491131,2026-02-28 15:00,Ipswich Town,Swansea City,3,0,1.571,3.900,5.500
+61491135,2026-02-28 15:00,Oxford United,West Bromwich Albion,2,1,3.300,3.100,2.250
+61491139,2026-02-28 15:00,Preston North End,Millwall FC,0,2,2.900,3.400,2.350
+61491141,2026-02-28 15:00,Queens Park Rangers,Sheffield United,0,2,3.100,3.500,2.200
+61491143,2026-02-28 15:00,Sheffield Wednesday,Southampton FC,1,3,10.000,5.500,1.285
+66421492,2026-03-02 20:00,Birmingham City,Middlesbrough FC,1,3,2.625,3.600,2.450
+68305676,2026-03-03 19:45,Ipswich Town,Hull City,1,0,1.450,4.333,6.500
+61491157,2026-03-06 20:00,Preston North End,Oxford United,1,3,2.200,3.300,3.250
+61491145,2026-03-07 12:30,Blackburn Rovers,Portsmouth FC,1,1,2.625,3.100,2.800
+61491153,2026-03-07 12:30,Hull City,Millwall FC,1,3,3.000,3.300,2.350
+61491147,2026-03-07 15:00,Bristol City,Coventry City,0,2,3.500,3.600,2.000
+61491149,2026-03-07 15:00,Charlton Athletic,Birmingham City,1,0,3.900,3.300,1.950
+61491151,2026-03-07 15:00,Derby County,Sheffield Wednesday,2,1,1.250,5.250,12.000
+61491155,2026-03-07 15:00,Ipswich Town,Leicester City,1,1,1.500,4.333,5.750
+61491161,2026-03-07 15:00,Sheffield United,West Bromwich Albion,1,1,1.615,3.800,5.250
+61491165,2026-03-07 15:00,Swansea City,Stoke City,2,0,1.850,3.400,4.200
+61491159,2026-03-08 16:30,Queens Park Rangers,Middlesbrough FC,0,4,4.100,3.600,1.850
+61491171,2026-03-10 19:45,Leicester City,Bristol City,2,0,2.375,3.500,2.800
+61491173,2026-03-10 19:45,Millwall FC,Derby County,1,0,1.950,3.400,3.750
+61491177,2026-03-10 19:45,Portsmouth FC,Swansea City,1,2,2.350,3.300,3.000
+61491179,2026-03-10 19:45,Sheffield Wednesday,Watford FC,1,1,8.000,4.500,1.400
+61491183,2026-03-10 19:45,Wrexham AFC,Hull City,1,2,1.950,3.600,3.600
+61491181,2026-03-10 20:00,Stoke City,Ipswich Town,3,3,4.750,4.100,1.615
+61491169,2026-03-11 19:45,Birmingham City,Queens Park Rangers,1,0,1.666,3.800,4.750
+61491175,2026-03-11 19:45,Norwich City,Sheffield United,2,1,2.400,3.400,2.800
+61491187,2026-03-11 19:45,Middlesbrough FC,Charlton Athletic,0,1,1.300,5.750,8.000
+61491189,2026-03-11 19:45,Oxford United,Blackburn Rovers,1,0,2.700,3.000,2.800
+61491191,2026-03-11 19:45,West Bromwich Albion,Southampton FC,1,1,3.100,3.500,2.200
+61491185,2026-03-11 20:00,Coventry City,Preston North End,3,0,1.480,4.500,5.750
+61491215,2026-03-13 20:00,Wrexham AFC,Swansea City,2,0,2.300,3.250,3.100
+61491195,2026-03-14 12:30,Coventry City,Southampton FC,1,2,1.900,3.600,3.750
+61491199,2026-03-14 12:30,Middlesbrough FC,Bristol City,1,1,1.400,4.750,7.000
+61491205,2026-03-14 12:30,Oxford United,Charlton Athletic,1,1,2.200,3.200,3.300
+61491193,2026-03-14 15:00,Birmingham City,Sheffield United,1,1,2.050,3.500,3.400
+61491197,2026-03-14 15:00,Leicester City,Queens Park Rangers,1,3,1.750,3.750,4.333
+61491201,2026-03-14 15:00,Millwall FC,Blackburn Rovers,1,2,1.909,3.300,4.200
+61491203,2026-03-14 15:00,Norwich City,Preston North End,2,0,1.550,4.333,5.500
+61491209,2026-03-14 15:00,Sheffield Wednesday,Ipswich Town,0,2,12.000,5.500,1.222
+61491211,2026-03-14 15:00,Stoke City,Watford FC,3,1,2.625,3.300,2.600
+61491213,2026-03-14 15:00,West Bromwich Albion,Hull City,3,0,2.000,3.300,3.800
+68994144,2026-03-16 20:00,Portsmouth FC,Derby County,0,1,2.100,3.250,3.500
+69348116,2026-03-17 19:45,Watford FC,Wrexham AFC,3,1,,,
+69143562,2026-03-18 19:45,Southampton FC,Norwich City,1,0,1.900,3.500,3.900
+61491229,2026-03-20 20:00,Preston North End,Stoke City,3,1,2.550,3.250,2.750
+61491217,2026-03-21 12:30,Blackburn Rovers,Middlesbrough FC,0,0,4.000,3.500,1.900
+61491223,2026-03-21 12:30,Derby County,Birmingham City,1,0,2.700,3.300,2.550
+61491227,2026-03-21 12:30,Ipswich Town,Millwall FC,1,1,1.727,3.800,4.500
+61491219,2026-03-21 15:00,Bristol City,West Bromwich Albion,0,1,2.600,3.300,2.600
+61491221,2026-03-21 15:00,Charlton Athletic,Norwich City,0,1,3.300,3.250,2.200
+61491225,2026-03-21 15:00,Hull City,Sheffield Wednesday,3,1,1.363,5.000,8.000
+61491231,2026-03-21 15:00,Queens Park Rangers,Portsmouth FC,6,1,2.875,3.100,2.550
+61491233,2026-03-21 15:00,Sheffield United,Wrexham AFC,1,2,1.900,3.600,3.900
+61491235,2026-03-21 15:00,Southampton FC,Oxford United,2,0,1.615,3.700,5.750
+61491239,2026-03-21 15:00,Watford FC,Leicester City,0,0,2.000,3.600,3.500
+61491237,2026-03-21 17:15,Swansea City,Coventry City,0,3,3.200,3.500,2.200
+61491249,2026-04-03 11:30,Middlesbrough FC,Millwall FC,1,2,1.727,3.900,4.500
+61491241,2026-04-03 14:00,Birmingham City,Blackburn Rovers,0,1,1.700,3.700,5.000
+61491243,2026-04-03 14:00,Charlton Athletic,Bristol City,1,2,2.400,3.200,3.000
+61491247,2026-04-03 14:00,Leicester City,Preston North End,2,2,1.800,3.600,4.500
+61491251,2026-04-03 14:00,Norwich City,Portsmouth FC,1,1,2.050,3.700,3.400
+61491253,2026-04-03 14:00,Oxford United,Hull City,1,1,2.250,3.250,2.750
+61491255,2026-04-03 14:00,Queens Park Rangers,Watford FC,2,1,2.550,3.300,2.750
+61491257,2026-04-03 14:00,Sheffield United,Swansea City,3,3,1.666,3.800,4.750
+61491261,2026-04-03 14:00,Stoke City,Sheffield Wednesday,2,0,1.420,4.333,8.000
+61491263,2026-04-03 14:00,West Bromwich Albion,Wrexham AFC,2,2,2.050,3.300,3.600
+61491245,2026-04-03 19:00,Coventry City,Derby County,3,2,1.600,4.000,5.250
+61491277,2026-04-06 11:30,Portsmouth FC,Oxford United,2,2,1.950,3.250,4.000
+61491275,2026-04-06 12:00,Millwall FC,Norwich City,1,2,2.200,3.250,3.300
+61491265,2026-04-06 14:00,Blackburn Rovers,West Bromwich Albion,0,0,2.900,3.000,2.550
+61491267,2026-04-06 14:00,Bristol City,Sheffield United,1,0,2.500,3.300,2.750
+61491269,2026-04-06 14:00,Derby County,Stoke City,2,0,1.700,3.800,4.750
+61491273,2026-04-06 14:00,Ipswich Town,Birmingham City,2,1,1.571,3.900,5.750
+61491279,2026-04-06 14:00,Preston North End,Queens Park Rangers,1,1,2.550,3.400,2.625
+61491281,2026-04-06 14:00,Sheffield Wednesday,Leicester City,1,1,7.000,4.000,1.500
+61491285,2026-04-06 14:00,Watford FC,Charlton Athletic,1,1,2.000,3.200,4.000
+61491283,2026-04-06 16:30,Swansea City,Middlesbrough FC,2,2,3.750,3.700,1.900
+61491271,2026-04-06 19:00,Hull City,Coventry City,0,0,4.000,3.600,1.900
+61491287,2026-04-07 19:00,Wrexham AFC,Southampton FC,1,5,2.500,3.200,2.875
+61491309,2026-04-10 19:00,West Bromwich Albion,Millwall FC,0,0,2.300,3.200,3.100
+61491293,2026-04-11 11:30,Coventry City,Sheffield Wednesday,0,0,1.142,8.000,15.000
+61491299,2026-04-11 11:30,Norwich City,Ipswich Town,0,2,2.625,3.400,2.550
+61491303,2026-04-11 11:30,Queens Park Rangers,Bristol City,0,0,2.300,3.300,3.000
+61491291,2026-04-11 14:00,Charlton Athletic,Preston North End,1,2,2.250,3.250,3.200
+61491295,2026-04-11 14:00,Leicester City,Swansea City,0,1,1.850,3.700,4.000
+61491297,2026-04-11 14:00,Middlesbrough FC,Portsmouth FC,0,1,1.480,4.333,6.500
+61491301,2026-04-11 14:00,Oxford United,Watford FC,2,0,2.400,3.300,2.900
+61491305,2026-04-11 14:00,Southampton FC,Derby County,2,1,1.600,4.100,5.000
+61491307,2026-04-11 14:00,Sheffield United,Hull City,2,1,1.700,3.900,4.500
+61491311,2026-04-11 14:00,Stoke City,Blackburn Rovers,1,1,2.700,3.250,2.700
+61491289,2026-04-12 11:00,Birmingham City,Wrexham AFC,2,0,2.050,3.500,3.600
+61491365,2026-04-14 19:00,Southampton FC,Blackburn Rovers,3,0,1.480,4.200,6.250
+69844312,2026-04-14 19:00,Portsmouth FC,Ipswich Town,2,0,3.500,3.500,2.050
+61491313,2026-04-17 19:00,Blackburn Rovers,Coventry City,1,1,4.333,3.400,1.850
+61491325,2026-04-18 11:30,Portsmouth FC,Leicester City,1,0,2.250,3.250,3.100
+61491327,2026-04-18 11:30,Millwall FC,Queens Park Rangers,2,0,1.666,3.800,4.750
+61491333,2026-04-18 11:30,Derby County,Oxford United,1,0,1.950,3.400,3.900
+61491315,2026-04-18 14:00,Wrexham AFC,Stoke City,2,0,1.800,3.700,4.100
+61491317,2026-04-18 14:00,Watford FC,Sheffield United,0,2,2.875,3.500,2.300
+61491319,2026-04-18 14:00,Swansea City,Southampton FC,1,2,3.800,4.333,1.750
+61491321,2026-04-18 14:00,Sheffield Wednesday,Charlton Athletic,1,1,4.100,3.250,1.950
+61491323,2026-04-18 14:00,Preston North End,West Bromwich Albion,0,2,3.400,3.250,2.150
+61491331,2026-04-18 14:00,Hull City,Birmingham City,1,1,2.500,3.400,2.700
+61491335,2026-04-18 14:00,Bristol City,Norwich City,2,4,2.700,3.400,2.500
+61491329,2026-04-19 11:00,Ipswich Town,Middlesbrough FC,2,2,2.250,3.400,3.100
+61491337,2026-04-21 18:45,Coventry City,Portsmouth FC,5,1,1.533,4.200,5.500
+61491341,2026-04-21 18:45,Norwich City,Derby County,2,1,2.200,3.400,3.200
+61491343,2026-04-21 18:45,Oxford United,Wrexham AFC,0,1,2.300,3.200,3.100
+61491345,2026-04-21 18:45,Queens Park Rangers,Swansea City,1,2,2.300,3.250,3.100
+61491347,2026-04-21 18:45,Southampton FC,Bristol City,2,2,1.380,4.750,8.000
+61491349,2026-04-21 18:45,Stoke City,Millwall FC,1,3,4.500,4.000,1.700
+61491351,2026-04-21 18:45,West Bromwich Albion,Watford FC,3,0,1.700,3.800,4.750
+61491355,2026-04-21 18:45,Leicester City,Hull City,2,2,2.100,3.750,3.100
+61491339,2026-04-22 18:45,Middlesbrough FC,Sheffield Wednesday,1,0,1.125,8.000,19.000
+61491353,2026-04-22 18:45,Sheffield United,Blackburn Rovers,1,3,2.100,3.400,3.400
+61491357,2026-04-22 18:45,Birmingham City,Preston North End,2,1,1.500,4.333,5.750
+61491359,2026-04-22 18:45,Charlton Athletic,Ipswich Town,1,2,5.750,4.000,1.550
+61491375,2026-04-24 19:00,Leicester City,Millwall FC,1,1,4.200,4.000,1.750
+61491361,2026-04-25 11:30,West Bromwich Albion,Ipswich Town,0,0,3.200,3.250,2.300
+61491373,2026-04-25 11:30,Middlesbrough FC,Watford FC,5,1,1.571,4.100,5.500
+61491379,2026-04-25 11:30,Charlton Athletic,Hull City,2,1,3.000,3.200,2.375
+61491363,2026-04-25 14:00,Stoke City,Portsmouth FC,1,3,2.150,3.400,3.300
+61491367,2026-04-25 14:00,Sheffield United,Preston North End,2,3,1.550,4.750,4.500
+61491369,2026-04-25 14:00,Queens Park Rangers,Derby County,2,3,3.100,3.400,2.250
+61491371,2026-04-25 14:00,Oxford United,Sheffield Wednesday,4,1,1.533,4.500,5.250
+61491381,2026-04-25 14:00,Birmingham City,Bristol City,2,1,1.833,3.500,3.500
+61491383,2026-04-25 14:00,Norwich City,Swansea City,1,1,1.700,3.900,4.750
+61491377,2026-04-26 11:00,Coventry City,Wrexham AFC,3,1,1.800,3.750,3.400
+69844386,2026-04-28 18:45,Southampton FC,Ipswich Town,2,2,2.100,3.400,3.100
+61491385,2026-05-02 11:30,Wrexham AFC,Middlesbrough FC,2,2,3.000,3.800,2.150
+61491387,2026-05-02 11:30,Watford FC,Coventry City,0,4,2.750,3.700,2.300
+61491389,2026-05-02 11:30,Swansea City,Charlton Athletic,3,1,1.727,3.600,3.900
+61491391,2026-05-02 11:30,Sheffield Wednesday,West Bromwich Albion,2,1,4.750,4.000,1.666
+61491393,2026-05-02 11:30,Preston North End,Southampton FC,1,3,3.600,3.900,1.900
+61491395,2026-05-02 11:30,Portsmouth FC,Birmingham City,1,1,3.500,3.500,2.000
+61491397,2026-05-02 11:30,Millwall FC,Oxford United,2,0,1.380,5.000,7.000
+61491399,2026-05-02 11:30,Ipswich Town,Queens Park Rangers,3,0,1.250,6.500,9.000
+61491401,2026-05-02 11:30,Hull City,Norwich City,2,1,2.100,3.750,3.100
+61491403,2026-05-02 11:30,Derby County,Sheffield United,1,2,2.000,3.600,3.500
+61491405,2026-05-02 11:30,Bristol City,Stoke City,2,0,1.950,3.600,3.750
+61491407,2026-05-02 11:30,Blackburn Rovers,Leicester City,0,1,2.100,3.600,3.200
+71240678,2026-05-08 19:00,Hull City,Millwall FC,0,0,3.000,3.250,2.375
+71240680,2026-05-09 11:30,Middlesbrough FC,Southampton FC,0,0,2.050,3.500,3.500
+71240674,2026-05-11 19:00,Millwall FC,Hull City,0,2,1.833,3.500,4.200
+71240670,2026-05-12 19:00,Southampton FC,Middlesbrough FC,1,1,2.450,3.300,2.800
+71631024,2026-05-23 14:30,Hull City,Middlesbrough FC,1,0,4.200,3.400,1.850
+72339664,2026-08-14 19:00,Wolverhampton Wanderers,Blackburn Rovers,2,2,1.500,4.100,6.500
+72339668,2026-08-15 11:30,Bolton Wanderers,Preston North End,2,1,2.400,3.200,3.000
+72339670,2026-08-15 14:00,Bristol City,Millwall FC,0,2,2.450,3.400,2.800
+72339672,2026-08-15 14:00,Charlton Athletic,Derby County,2,1,2.700,3.100,2.750
+72339674,2026-08-15 14:00,Middlesbrough FC,Lincoln City,2,1,1.500,4.500,5.750
+72339676,2026-08-15 14:00,Norwich City,West Bromwich Albion,1,2,1.950,3.500,3.800
+72339680,2026-08-15 14:00,Portsmouth FC,Queens Park Rangers,1,3,2.300,3.250,3.200
+72339682,2026-08-15 14:00,Stoke City,Swansea City,1,2,2.300,3.400,3.100
+72339684,2026-08-15 16:30,Sheffield United,Birmingham City,0,0,2.200,3.300,3.300
+72339686,2026-08-16 12:30,Watford FC,Southampton FC,2,1,3.700,3.500,1.950
+72339688,2026-08-16 15:00,Burnley FC,West Ham United,2,2,3.000,3.500,2.250
+72339690,2026-08-17 19:00,Cardiff City,Wrexham AFC,1,1,2.500,3.500,2.700
+72339692,2026-08-22 11:30,Birmingham City,Bristol City,2,2,1.727,3.600,4.750
+72339702,2026-08-22 11:30,Lincoln City,Portsmouth FC,1,3,2.250,3.300,3.000
+72339704,2026-08-22 11:30,Millwall FC,Norwich City,3,0,2.750,3.500,2.450
+72339694,2026-08-22 14:00,Blackburn Rovers,Middlesbrough FC,2,1,3.700,3.600,1.909
+72339698,2026-08-22 14:00,Derby County,Cardiff City,2,2,2.150,3.500,3.200
+72339706,2026-08-22 14:00,Preston North End,Wolverhampton Wanderers,1,3,3.800,3.200,2.000
+72339708,2026-08-22 14:00,Queens Park Rangers,Bolton Wanderers,0,0,1.900,3.600,3.750
+72339710,2026-08-22 14:00,Southampton FC,Stoke City,3,1,1.600,4.000,5.000
+72339712,2026-08-22 14:00,Swansea City,Sheffield United,0,0,2.700,3.250,2.600
+72339716,2026-08-22 14:00,West Ham United,Charlton Athletic,1,2,1.420,4.500,6.500
+72339718,2026-08-22 14:00,Wrexham AFC,Watford FC,1,1,1.750,3.600,4.500
+72339714,2026-08-23 11:00,West Bromwich Albion,Burnley FC,3,1,2.450,3.300,2.800
+72339742,2026-08-28 19:00,Wrexham AFC,Birmingham City,1,2,2.200,3.250,3.500
+72339730,2026-08-29 11:30,Derby County,Swansea City,0,3,2.400,3.200,3.000
+72339732,2026-08-29 11:30,Middlesbrough FC,West Bromwich Albion,3,1,1.750,3.800,4.500
+72339740,2026-08-29 11:30,Wolverhampton Wanderers,Stoke City,4,1,1.666,3.800,4.750
+72339720,2026-08-29 14:00,Blackburn Rovers,Queens Park Rangers,1,2,2.750,3.400,2.450
+72339722,2026-08-29 14:00,Bolton Wanderers,Lincoln City,0,1,2.400,3.400,2.800
+72339724,2026-08-29 14:00,Bristol City,Portsmouth FC,2,1,2.150,3.500,3.250
+72339726,2026-08-29 14:00,Cardiff City,Sheffield United,2,2,2.700,3.600,2.375
+72339728,2026-08-29 14:00,Charlton Athletic,Preston North End,1,0,2.150,3.300,3.400
+72339734,2026-08-29 14:00,Norwich City,Burnley FC,4,1,1.950,3.600,3.600
+72339736,2026-08-29 14:00,Southampton FC,Millwall FC,5,1,1.950,3.750,3.500
+72339738,2026-08-29 14:00,Watford FC,West Ham United,1,1,4.100,4.000,1.750
+72339746,2026-09-01 18:45,Lincoln City,Blackburn Rovers,0,0,2.300,3.400,3.000
+72339748,2026-09-01 18:45,Portsmouth FC,Derby County,0,2,2.000,3.300,3.600
+72339750,2026-09-01 18:45,Preston North End,Bristol City,1,3,2.700,3.400,2.500
+72339752,2026-09-01 18:45,Sheffield United,Bolton Wanderers,3,2,1.700,3.750,4.750
+72339756,2026-09-01 18:45,Swansea City,Watford FC,2,0,1.850,3.600,4.000
+72339758,2026-09-01 18:45,West Ham United,Wolverhampton Wanderers,4,2,2.200,3.600,3.100
+72339744,2026-09-01 19:00,Birmingham City,Southampton FC,1,1,2.700,3.400,2.450
+72339754,2026-09-01 19:00,Stoke City,Norwich City,1,0,3.300,3.400,2.150
+72339762,2026-09-02 18:45,Millwall FC,Wrexham AFC,0,3,2.300,3.100,3.300
+72339764,2026-09-02 18:45,Queens Park Rangers,Cardiff City,2,1,2.000,3.800,3.400
+72339766,2026-09-02 18:45,West Bromwich Albion,Charlton Athletic,1,1,1.615,3.750,5.250
+72339760,2026-09-02 19:00,Burnley FC,Middlesbrough FC,1,1,3.200,3.700,2.100
+72339772,2026-09-05 11:30,Lincoln City,Southampton FC,1,1,4.100,3.800,1.800
+72339778,2026-09-05 11:30,Preston North End,Blackburn Rovers,2,1,2.250,3.300,3.100
+72339784,2026-09-05 11:30,Stoke City,Charlton Athletic,4,0,1.950,3.300,3.900
+72339770,2026-09-05 14:00,Burnley FC,Bristol City,1,2,1.950,3.500,3.750
+72339774,2026-09-05 14:00,Millwall FC,Bolton Wanderers,4,0,1.950,3.500,3.750
+72339776,2026-09-05 14:00,Portsmouth FC,Cardiff City,2,0,2.450,3.400,2.800
+72339780,2026-09-05 14:00,Queens Park Rangers,Middlesbrough FC,0,1,2.900,3.500,2.300
+72339782,2026-09-05 14:00,Sheffield United,Norwich City,1,3,2.600,3.300,2.600
+72339788,2026-09-05 14:00,West Bromwich Albion,Watford FC,1,0,1.727,3.750,4.500
+72339790,2026-09-05 14:00,West Ham United,Derby County,3,0,1.363,5.250,7.000
+72339786,2026-09-05 19:00,Swansea City,Wrexham AFC,0,0,2.200,3.200,3.300
+72339768,2026-09-06 11:00,Birmingham City,Wolverhampton Wanderers,2,2,2.875,3.400,2.350
+72339792,2026-09-08 18:45,Blackburn Rovers,Sheffield United,1,2,2.900,3.400,2.350
+72339798,2026-09-08 18:45,Cardiff City,Stoke City,1,1,2.050,3.600,3.250
+72339802,2026-09-08 18:45,Southampton FC,Swansea City,3,1,1.833,3.800,3.800
+72339804,2026-09-08 18:45,Watford FC,Preston North End,2,1,2.200,3.250,3.300
+72339814,2026-09-08 18:45,Wrexham AFC,Burnley FC,1,1,2.100,3.200,3.600
+72339794,2026-09-08 19:00,Bolton Wanderers,West Ham United,2,3,4.500,3.900,1.700
+72339810,2026-09-09 18:45,Derby County,West Bromwich Albion,0,1,3.400,3.250,2.150
+72339812,2026-09-09 18:45,Norwich City,Birmingham City,2,1,1.909,3.500,4.000
+72339808,2026-09-09 19:00,Charlton Athletic,Queens Park Rangers,0,0,3.200,3.250,2.250
+72339838,2026-09-11 19:00,West Ham United,Wrexham AFC,6,0,1.500,4.200,6.250
+72339818,2026-09-12 11:30,Bolton Wanderers,Cardiff City,1,0,2.875,3.600,2.350
+72339822,2026-09-12 11:30,Derby County,Birmingham City,1,2,3.200,3.400,2.250
+72339836,2026-09-12 11:30,West Bromwich Albion,Queens Park Rangers,1,1,2.150,3.250,3.400
+72339816,2026-09-12 14:00,Blackburn Rovers,Millwall FC,3,1,2.550,3.100,2.900
+72339820,2026-09-12 14:00,Charlton Athletic,Portsmouth FC,0,0,2.550,3.100,2.800
+72339824,2026-09-12 14:00,Middlesbrough FC,Norwich City,4,3,1.800,3.900,3.900
+72339826,2026-09-12 14:00,Preston North End,Lincoln City,0,1,2.375,3.400,2.875
+72339830,2026-09-12 14:00,Southampton FC,Bristol City,4,1,1.666,4.000,4.750
+72339832,2026-09-12 14:00,Swansea City,Burnley FC,3,1,2.050,3.500,3.400
+72339834,2026-09-12 14:00,Watford FC,Stoke City,1,2,2.250,3.250,3.200
+72339828,2026-09-13 11:00,Sheffield United,Wolverhampton Wanderers,0,1,3.250,3.400,2.150
+72339796,2026-09-15 18:45,Bristol City,Lincoln City,0,1,1.850,3.500,4.100
+72339800,2026-09-15 18:45,Middlesbrough FC,Millwall FC,2,2,1.420,4.750,7.000
+72339842,2026-09-18 19:00,Bristol City,Watford FC,1,0,1.666,4.000,4.500
+72339846,2026-09-19 11:30,Cardiff City,Charlton Athletic,3,1,1.650,4.200,4.750
+72339850,2026-09-19 11:30,Millwall FC,West Ham United,2,2,5.000,4.100,1.615
+72339858,2026-09-19 11:30,Stoke City,Sheffield United,2,1,2.200,3.300,3.200
+72339840,2026-09-19 14:00,Birmingham City,Middlesbrough FC,2,2,,,
+72339844,2026-09-19 14:00,Burnley FC,Derby County,1,1,,,
+72339848,2026-09-19 14:00,Lincoln City,Swansea City,1,2,,,
+72339854,2026-09-19 14:00,Portsmouth FC,Blackburn Rovers,2,2,,,
+72339856,2026-09-19 14:00,Queens Park Rangers,Preston North End,2,2,,,
+72339862,2026-09-19 14:00,Wrexham AFC,Southampton FC,2,1,,,
+72339860,2026-09-20 11:00,Wolverhampton Wanderers,West Bromwich Albion,1,0,1.850,3.600,4.000
+72339852,2026-09-20 12:30,Norwich City,Bolton Wanderers,3,4,1.420,4.750,6.500
+72339886,2026-10-09 19:00,West Ham United,Queens Park Rangers,1,1,1.450,4.750,6.000
+72339868,2026-10-10 11:30,Charlton Athletic,Bristol City,1,1,3.100,3.200,2.300
+72339880,2026-10-10 11:30,Swansea City,Norwich City,2,1,2.375,3.500,2.875
+72339884,2026-10-10 11:30,West Bromwich Albion,Birmingham City,0,1,2.550,3.250,2.800
+72339864,2026-10-10 14:00,Blackburn Rovers,Cardiff City,2,1,2.625,3.400,2.500
+72339866,2026-10-10 14:00,Bolton Wanderers,Stoke City,1,2,2.700,3.400,2.500
+72339870,2026-10-10 14:00,Derby County,Wrexham AFC,1,1,2.750,3.250,2.550
+72339872,2026-10-10 14:00,Middlesbrough FC,Wolverhampton Wanderers,1,0,2.050,3.750,3.300
+72339874,2026-10-10 14:00,Preston North End,Millwall FC,0,1,3.000,3.400,2.250
+72339876,2026-10-10 14:00,Sheffield United,Lincoln City,3,0,2.050,3.500,3.400
+72339882,2026-10-10 14:00,Watford FC,Burnley FC,0,4,2.900,3.500,2.300
+72339878,2026-10-11 11:00,Southampton FC,Portsmouth FC,1,0,1.500,4.200,6.250
+72339890,2026-10-13 18:45,Bristol City,Blackburn Rovers,0,1,2.250,3.100,3.400
+72339892,2026-10-13 18:45,Burnley FC,Charlton Athletic,2,2,1.600,3.750,5.500
+72339894,2026-10-13 18:45,Cardiff City,Watford FC,5,1,1.650,4.100,4.750
+72339896,2026-10-13 18:45,Millwall FC,Swansea City,0,1,2.350,3.400,2.900
+72339900,2026-10-13 18:45,Wolverhampton Wanderers,Bolton Wanderers,1,3,1.363,4.750,8.500
+72339902,2026-10-13 18:45,Wrexham AFC,West Bromwich Albion,1,2,2.150,3.200,3.400
+72339888,2026-10-13 19:00,Birmingham City,Preston North End,4,0,1.480,4.333,6.000
+72339898,2026-10-13 19:00,Stoke City,Middlesbrough FC,2,3,3.800,3.500,1.909
+72339906,2026-10-14 18:45,Norwich City,Southampton FC,0,1,2.250,3.500,3.000
+72339908,2026-10-14 18:45,Portsmouth FC,Sheffield United,3,2,2.550,3.200,2.800
+72339910,2026-10-14 18:45,Queens Park Rangers,Derby County,4,1,1.800,3.600,4.200
+72339904,2026-10-14 19:00,Lincoln City,West Ham United,0,6,5.000,3.600,1.700
+72339916,2026-10-16 19:00,Burnley FC,Wolverhampton Wanderers,1,2,3.000,3.400,2.350
+72339920,2026-10-17 11:30,Middlesbrough FC,Cardiff City,2,2,1.533,4.500,5.500
+72339922,2026-10-17 11:30,Millwall FC,Lincoln City,2,2,1.571,3.900,5.750
+72339930,2026-10-17 11:30,Watford FC,Charlton Athletic,2,0,2.450,3.300,2.800
+72339912,2026-10-17 14:00,Birmingham City,Queens Park Rangers,3,0,1.950,3.500,3.750
+72339914,2026-10-17 14:00,Bristol City,Sheffield United,0,1,2.000,3.400,3.750
+72339918,2026-10-17 14:00,Derby County,Stoke City,0,1,2.900,3.300,2.400
+72339924,2026-10-17 14:00,Norwich City,Portsmouth FC,0,1,1.800,3.800,4.100
+72339926,2026-10-17 14:00,Southampton FC,Bolton Wanderers,0,0,1.444,4.500,7.000
+72339928,2026-10-17 14:00,Swansea City,West Ham United,0,1,3.300,3.800,2.000
+72339932,2026-10-17 14:00,West Bromwich Albion,Blackburn Rovers,3,2,1.850,3.500,4.200
+72339934,2026-10-17 14:00,Wrexham AFC,Preston North End,4,1,1.550,4.000,5.750
+74235704,2026-10-20 18:45,Wolverhampton Wanderers,Portsmouth FC,1,1,1.550,4.200,5.750
+72339938,2026-10-23 19:00,Bolton Wanderers,Middlesbrough FC,1,5,5.000,4.333,1.533
+72339942,2026-10-24 11:30,Charlton Athletic,Norwich City,1,3,3.200,3.750,2.050
+72339946,2026-10-24 11:30,Portsmouth FC,Millwall FC,2,1,2.375,3.250,2.900
+72339952,2026-10-24 11:30,Sheffield United,Derby County,1,1,1.800,3.600,4.333
+72339936,2026-10-24 14:00,Blackburn Rovers,Wrexham AFC,2,0,3.000,3.400,2.350
+72339940,2026-10-24 14:00,Cardiff City,Birmingham City,1,0,2.600,3.700,2.500
+72339944,2026-10-24 14:00,Lincoln City,Burnley FC,4,1,2.750,3.400,2.500
+72339948,2026-10-24 14:00,Preston North End,West Bromwich Albion,1,1,4.100,3.700,1.800
+72339950,2026-10-24 14:00,Queens Park Rangers,Swansea City,5,0,2.300,3.300,2.900
+72339954,2026-10-24 14:00,Stoke City,Bristol City,0,0,2.250,3.300,3.200
+72339956,2026-10-24 14:00,West Ham United,Southampton FC,2,3,1.700,4.000,4.333
+72339958,2026-10-24 14:00,Wolverhampton Wanderers,Watford FC,1,0,1.480,4.333,6.250
+72339972,2026-10-30 20:00,Sheffield United,Wrexham AFC,1,0,2.250,3.400,3.000
+72339964,2026-10-31 12:30,Lincoln City,Birmingham City,1,3,3.200,3.500,2.200
+72339970,2026-10-31 12:30,Norwich City,Watford FC,3,2,1.571,4.100,5.500
+72339976,2026-10-31 12:30,Stoke City,Preston North End,2,0,1.700,3.750,4.750
+72339960,2026-10-31 15:00,Bolton Wanderers,Bristol City,2,3,3.000,3.300,2.300
+72339962,2026-10-31 15:00,Burnley FC,Portsmouth FC,0,0,2.050,3.500,3.500
+72339966,2026-10-31 15:00,Middlesbrough FC,Charlton Athletic,3,0,1.181,7.000,13.000
+72339968,2026-10-31 15:00,Millwall FC,Derby County,4,1,1.600,3.900,5.500
+72339974,2026-10-31 15:00,Southampton FC,Queens Park Rangers,4,1,2.000,3.600,3.400
+72339978,2026-10-31 15:00,Swansea City,Blackburn Rovers,4,0,1.727,3.700,4.750
+72339980,2026-10-31 15:00,West Ham United,West Bromwich Albion,1,3,1.833,3.800,3.800
+72339982,2026-10-31 15:00,Wolverhampton Wanderers,Cardiff City,3,0,1.550,4.750,5.250
+72339986,2026-11-03 19:45,Blackburn Rovers,Stoke City,1,2,2.700,3.300,2.550
+72339988,2026-11-03 19:45,Derby County,Norwich City,0,4,3.900,3.700,1.850
+72339990,2026-11-03 19:45,Portsmouth FC,Swansea City,3,1,2.500,3.250,2.800
+72339992,2026-11-03 19:45,Preston North End,Sheffield United,2,3,3.800,3.400,1.950
+72339994,2026-11-03 19:45,Queens Park Rangers,Burnley FC,1,1,1.900,3.500,3.900
+72339996,2026-11-03 19:45,Watford FC,Lincoln City,1,0,2.600,3.200,2.700
+72340004,2026-11-03 19:45,Charlton Athletic,Bolton Wanderers,0,1,2.200,3.300,3.250
+72339984,2026-11-03 20:00,Birmingham City,Millwall FC,3,0,1.909,3.600,3.700
+72339998,2026-11-03 20:00,West Bromwich Albion,Southampton FC,1,1,2.250,3.400,3.100
+72340002,2026-11-04 19:45,Cardiff City,West Ham United,3,3,3.400,4.000,1.950
+72340006,2026-11-04 19:45,Wrexham AFC,Middlesbrough FC,2,0,4.500,3.700,1.750
+72340000,2026-11-04 20:00,Bristol City,Wolverhampton Wanderers,1,2,3.400,3.500,2.000
+72340018,2026-11-06 20:00,Derby County,Bolton Wanderers,3,1,2.350,3.250,3.000
+72340012,2026-11-07 12:30,Bristol City,Norwich City,0,5,2.750,3.300,2.500
+72340020,2026-11-07 12:30,Portsmouth FC,Stoke City,1,2,2.375,3.100,3.100
+72340030,2026-11-07 12:30,Wrexham AFC,Wolverhampton Wanderers,1,1,3.600,3.200,2.100
+72340008,2026-11-07 15:00,Birmingham City,Swansea City,2,1,1.900,3.600,4.000
+72340010,2026-11-07 15:00,Blackburn Rovers,West Ham United,2,1,5.250,3.750,1.666
+72340014,2026-11-07 15:00,Cardiff City,Burnley FC,5,4,1.900,4.000,3.600
+72340016,2026-11-07 15:00,Charlton Athletic,Sheffield United,2,1,4.333,3.500,1.800
+72340022,2026-11-07 15:00,Preston North End,Southampton FC,1,0,5.500,4.100,1.571
+72340024,2026-11-07 15:00,Queens Park Rangers,Lincoln City,2,1,1.600,3.900,5.250
+72340026,2026-11-07 15:00,Watford FC,Middlesbrough FC,0,0,6.250,4.333,1.480
+72340028,2026-11-07 15:00,West Bromwich Albion,Millwall FC,3,0,1.909,3.400,3.900

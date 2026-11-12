@@ -1,0 +1,345 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+51158517,2025-05-23 12:30,FC Ingulets Petrove,FC Vorskla Poltava,1,1,,,
+52112255,2025-05-23 12:30,FC Obolon Kyiv,FC Livyi Bereh Kyiv,1,0,,,
+51158529,2025-05-24 10:00,FC Chernomorets Odessa,FC Oleksandriya,0,0,,,
+51158519,2025-05-24 12:30,FC Rukh Lviv,FC Shakhtar Donetsk,1,1,,,
+51158521,2025-05-24 15:00,FC Dynamo Kyiv,Kolos Kovalivka,1,1,,,
+51158515,2025-05-25 12:30,Veres Rivne,LNZ Cherkasy,1,1,,,
+51158523,2025-05-25 15:00,FC Polissya Zhytomyr,FC Kryvbas Kriviy Rih,1,1,,,
+51158531,2025-05-25 15:00,Karpaty Lviv,FC Zorya Luhansk,1,3,,,
+60801981,2025-05-29 12:30,FK Kudrivka,FC Vorskla Poltava,1,2,,,
+60801987,2025-05-29 15:00,FC Livyi Bereh Kyiv,FC Metalist 1925 Kharkiv,0,1,,,
+60801991,2025-06-01 10:00,FC Vorskla Poltava,FK Kudrivka,3,5,,,
+60801989,2025-06-01 12:30,FC Metalist 1925 Kharkiv,FC Livyi Bereh Kyiv,1,0,,,
+61651230,2025-08-01 12:30,Kolos Kovalivka,FC Kryvbas Kriviy Rih,2,1,,,
+61651218,2025-08-01 15:00,FC Rukh Lviv,SC Poltava,2,1,,,
+61651224,2025-08-02 12:30,Veres Rivne,FC Dynamo Kyiv,0,1,,,
+61651226,2025-08-02 15:00,FC Zorya Luhansk,LNZ Cherkasy,0,0,,,
+61651228,2025-08-03 10:00,FK Kudrivka,FC Oleksandriya,3,1,,,
+61651232,2025-08-03 12:30,FC Epitsentr Kamianets-Podilskyi,FC Shakhtar Donetsk,0,1,,,
+61651220,2025-08-03 15:00,Karpaty Lviv,FC Polissya Zhytomyr,0,2,,,
+61651222,2025-08-04 15:00,FC Metalist 1925 Kharkiv,FC Obolon Kyiv,0,0,,,
+61651244,2025-08-08 12:30,SC Poltava,Veres Rivne,1,0,,,
+61651238,2025-08-08 15:00,FC Rukh Lviv,FC Dynamo Kyiv,1,5,,,
+61651236,2025-08-09 10:00,FC Kryvbas Kriviy Rih,FC Metalist 1925 Kharkiv,2,0,,,
+61651248,2025-08-09 12:30,LNZ Cherkasy,FC Epitsentr Kamianets-Podilskyi,1,0,,,
+61651242,2025-08-10 10:00,FC Obolon Kyiv,FC Oleksandriya,1,0,,,
+61651234,2025-08-10 12:30,FC Polissya Zhytomyr,Kolos Kovalivka,0,1,,,
+61651246,2025-08-10 15:00,Karpaty Lviv,FC Shakhtar Donetsk,3,3,,,
+61651240,2025-08-11 15:00,FC Zorya Luhansk,FK Kudrivka,2,1,,,
+61651256,2025-08-15 15:00,FC Rukh Lviv,FC Obolon Kyiv,1,2,,,
+61651250,2025-08-16 10:00,FC Oleksandriya,FC Metalist 1925 Kharkiv,1,4,,,
+61651260,2025-08-16 12:30,Kolos Kovalivka,Karpaty Lviv,1,1,,,
+61651252,2025-08-16 15:00,FC Epitsentr Kamianets-Podilskyi,FC Dynamo Kyiv,1,4,,,
+61651258,2025-08-17 10:00,FK Kudrivka,SC Poltava,3,1,,,
+61651262,2025-08-17 12:30,Veres Rivne,FC Shakhtar Donetsk,0,2,,,
+61651264,2025-08-17 15:00,FC Polissya Zhytomyr,LNZ Cherkasy,0,2,,,
+61651254,2025-08-18 15:00,FC Zorya Luhansk,FC Kryvbas Kriviy Rih,2,3,,,
+61651268,2025-08-29 12:30,SC Poltava,FC Zorya Luhansk,1,4,,,
+61651272,2025-08-29 15:00,FK Kudrivka,Karpaty Lviv,2,2,,,
+61651270,2025-08-30 10:00,FC Kryvbas Kriviy Rih,FC Obolon Kyiv,2,1,,,
+61651278,2025-08-30 12:30,Kolos Kovalivka,FC Epitsentr Kamianets-Podilskyi,1,0,,,
+61651280,2025-08-30 15:00,FC Metalist 1925 Kharkiv,FC Rukh Lviv,2,0,,,
+61651276,2025-08-31 10:00,LNZ Cherkasy,Veres Rivne,0,2,,,
+61651266,2025-08-31 12:30,FC Dynamo Kyiv,FC Polissya Zhytomyr,4,1,,,
+61651274,2025-08-31 15:00,FC Shakhtar Donetsk,FC Oleksandriya,2,0,,,
+61651292,2025-09-12 12:30,FC Oleksandriya,LNZ Cherkasy,4,1,,,
+61651286,2025-09-12 15:00,Veres Rivne,FK Kudrivka,2,0,,,
+61651294,2025-09-13 10:00,FC Rukh Lviv,FC Epitsentr Kamianets-Podilskyi,0,1,,,
+61651284,2025-09-13 12:30,FC Obolon Kyiv,FC Dynamo Kyiv,2,2,,,
+61651296,2025-09-13 15:00,FC Metalist 1925 Kharkiv,FC Shakhtar Donetsk,1,1,,,
+61651288,2025-09-14 10:00,FC Kryvbas Kriviy Rih,FC Polissya Zhytomyr,0,1,,,
+61651282,2025-09-14 12:30,FC Zorya Luhansk,Kolos Kovalivka,1,3,,,
+61651290,2025-09-14 15:00,Karpaty Lviv,SC Poltava,1,1,,,
+61651308,2025-09-20 12:30,Kolos Kovalivka,Veres Rivne,0,0,,,
+61651300,2025-09-20 15:00,FC Polissya Zhytomyr,FK Kudrivka,2,0,,,
+61651304,2025-09-21 10:00,SC Poltava,FC Metalist 1925 Kharkiv,0,2,,,
+61651310,2025-09-21 12:30,LNZ Cherkasy,FC Rukh Lviv,1,0,,,
+61651302,2025-09-21 15:00,FC Epitsentr Kamianets-Podilskyi,FC Kryvbas Kriviy Rih,4,5,,,
+61651298,2025-09-22 10:00,FC Obolon Kyiv,Karpaty Lviv,0,2,,,
+61651306,2025-09-22 12:30,FC Dynamo Kyiv,FC Oleksandriya,2,2,,,
+61651312,2025-09-22 15:00,FC Shakhtar Donetsk,FC Zorya Luhansk,1,0,,,
+61651314,2025-09-26 15:00,FK Kudrivka,FC Epitsentr Kamianets-Podilskyi,2,1,,,
+61651318,2025-09-27 10:00,FC Oleksandriya,SC Poltava,1,0,,,
+61651328,2025-09-27 12:30,FC Zorya Luhansk,FC Obolon Kyiv,0,0,,,
+61651320,2025-09-27 15:00,Karpaty Lviv,FC Dynamo Kyiv,3,3,,,
+61651316,2025-09-28 10:00,LNZ Cherkasy,FC Kryvbas Kriviy Rih,0,0,,,
+61651324,2025-09-28 12:30,FC Metalist 1925 Kharkiv,Kolos Kovalivka,1,0,,,
+61651326,2025-09-28 15:00,FC Rukh Lviv,FC Shakhtar Donetsk,0,4,,,
+61651322,2025-09-29 15:00,Veres Rivne,FC Polissya Zhytomyr,1,4,,,
+61651338,2025-10-03 12:30,Kolos Kovalivka,FC Rukh Lviv,0,2,,,
+61651342,2025-10-03 15:00,FC Epitsentr Kamianets-Podilskyi,FC Zorya Luhansk,1,2,,,
+61651334,2025-10-04 10:00,FC Oleksandriya,Karpaty Lviv,0,2,,,
+61651336,2025-10-04 12:30,FC Obolon Kyiv,Veres Rivne,1,1,,,
+61651332,2025-10-04 15:00,FC Polissya Zhytomyr,SC Poltava,4,0,,,
+61651330,2025-10-05 10:00,FC Kryvbas Kriviy Rih,FK Kudrivka,3,1,,,
+61651344,2025-10-05 12:30,FC Dynamo Kyiv,FC Metalist 1925 Kharkiv,1,1,,,
+61651340,2025-10-05 15:00,FC Shakhtar Donetsk,LNZ Cherkasy,1,4,,,
+61651346,2025-10-17 12:30,SC Poltava,FC Obolon Kyiv,1,2,,,
+61651356,2025-10-18 10:00,FC Rukh Lviv,FC Kryvbas Kriviy Rih,1,2,,,
+61651360,2025-10-18 12:30,FC Zorya Luhansk,FC Dynamo Kyiv,1,1,,,
+61651354,2025-10-18 15:00,FC Polissya Zhytomyr,FC Shakhtar Donetsk,0,0,,,
+61651352,2025-10-19 10:00,LNZ Cherkasy,Kolos Kovalivka,1,0,,,
+61651348,2025-10-19 12:30,Veres Rivne,FC Oleksandriya,1,1,,,
+61651350,2025-10-19 15:00,Karpaty Lviv,FC Epitsentr Kamianets-Podilskyi,1,3,,,
+61651358,2025-10-20 15:00,FK Kudrivka,FC Metalist 1925 Kharkiv,1,1,,,
+61651362,2025-10-24 12:30,FC Oleksandriya,FC Epitsentr Kamianets-Podilskyi,0,1,,,
+61651366,2025-10-24 15:00,Veres Rivne,FC Zorya Luhansk,0,0,,,
+61651370,2025-10-25 10:00,FC Metalist 1925 Kharkiv,LNZ Cherkasy,0,1,,,
+61651364,2025-10-25 12:30,Karpaty Lviv,FC Rukh Lviv,0,0,,,
+61651374,2025-10-25 15:00,FC Obolon Kyiv,FC Polissya Zhytomyr,0,4,,,
+61651368,2025-10-26 11:00,SC Poltava,Kolos Kovalivka,2,2,,,
+61651372,2025-10-26 13:30,FC Shakhtar Donetsk,FK Kudrivka,4,0,,,
+61651376,2025-10-26 16:00,FC Dynamo Kyiv,FC Kryvbas Kriviy Rih,4,0,,,
+61651390,2025-10-31 16:00,FK Kudrivka,FC Obolon Kyiv,1,0,,,
+61651392,2025-11-01 11:00,FC Kryvbas Kriviy Rih,SC Poltava,2,2,,,
+61651382,2025-11-01 13:30,Kolos Kovalivka,FC Oleksandriya,1,1,,,
+61651380,2025-11-01 16:00,FC Epitsentr Kamianets-Podilskyi,Veres Rivne,2,3,,,
+61651386,2025-11-02 13:30,FC Zorya Luhansk,FC Rukh Lviv,1,0,,,
+61651384,2025-11-02 16:00,FC Shakhtar Donetsk,FC Dynamo Kyiv,3,1,,,
+61651378,2025-11-03 13:30,LNZ Cherkasy,Karpaty Lviv,0,1,,,
+61651388,2025-11-03 16:00,FC Polissya Zhytomyr,FC Metalist 1925 Kharkiv,0,0,,,
+61651400,2025-11-07 13:30,FC Epitsentr Kamianets-Podilskyi,FC Obolon Kyiv,1,2,,,
+61651396,2025-11-07 16:00,FK Kudrivka,Kolos Kovalivka,1,3,,,
+61651406,2025-11-08 11:00,FC Metalist 1925 Kharkiv,FC Zorya Luhansk,1,3,,,
+61651394,2025-11-08 13:30,Veres Rivne,FC Rukh Lviv,1,0,,,
+61651408,2025-11-08 16:00,Karpaty Lviv,FC Kryvbas Kriviy Rih,1,0,,,
+61651404,2025-11-09 11:00,FC Oleksandriya,FC Polissya Zhytomyr,0,3,,,
+61651398,2025-11-09 13:30,FC Dynamo Kyiv,LNZ Cherkasy,0,1,,,
+61651402,2025-11-09 16:00,FC Shakhtar Donetsk,SC Poltava,7,1,,,
+61651412,2025-11-21 13:30,SC Poltava,LNZ Cherkasy,0,2,,,
+61651420,2025-11-22 11:00,Karpaty Lviv,FC Metalist 1925 Kharkiv,1,2,,,
+61651410,2025-11-22 13:30,Kolos Kovalivka,FC Dynamo Kyiv,2,1,,,
+61651416,2025-11-22 16:00,FC Obolon Kyiv,FC Shakhtar Donetsk,0,6,,,
+61651424,2025-11-23 11:00,FC Kryvbas Kriviy Rih,Veres Rivne,2,2,,,
+61651414,2025-11-23 13:30,FC Polissya Zhytomyr,FC Epitsentr Kamianets-Podilskyi,0,0,,,
+61651418,2025-11-23 16:00,FC Rukh Lviv,FK Kudrivka,4,2,,,
+61651422,2025-11-24 16:00,FC Zorya Luhansk,FC Oleksandriya,2,2,,,
+61651438,2025-11-28 16:00,FC Obolon Kyiv,Kolos Kovalivka,0,0,,,
+61651426,2025-11-29 13:30,LNZ Cherkasy,FK Kudrivka,1,0,,,
+61651440,2025-11-29 16:00,Veres Rivne,Karpaty Lviv,0,0,,,
+61651432,2025-11-30 11:00,FC Oleksandriya,FC Rukh Lviv,0,1,,,
+61651428,2025-11-30 13:30,FC Epitsentr Kamianets-Podilskyi,FC Metalist 1925 Kharkiv,0,0,,,
+61651434,2025-11-30 16:00,FC Polissya Zhytomyr,FC Zorya Luhansk,2,0,,,
+61651436,2025-12-01 13:30,FC Dynamo Kyiv,SC Poltava,1,2,,,
+61651430,2025-12-01 16:00,FC Shakhtar Donetsk,FC Kryvbas Kriviy Rih,2,2,,,
+61651452,2025-12-05 16:00,FC Zorya Luhansk,Karpaty Lviv,1,0,,,
+61651454,2025-12-06 11:00,LNZ Cherkasy,FC Obolon Kyiv,3,0,,,
+61651444,2025-12-06 13:30,Kolos Kovalivka,FC Shakhtar Donetsk,0,0,,,
+61651450,2025-12-06 16:00,FK Kudrivka,FC Dynamo Kyiv,1,2,,,
+61651456,2025-12-07 11:00,FC Kryvbas Kriviy Rih,FC Oleksandriya,3,0,,,
+61651448,2025-12-07 13:30,FC Metalist 1925 Kharkiv,Veres Rivne,0,0,,,
+61651446,2025-12-07 16:00,FC Rukh Lviv,FC Polissya Zhytomyr,1,0,,,
+61651442,2025-12-08 13:30,SC Poltava,FC Epitsentr Kamianets-Podilskyi,0,3,,,
+61651470,2025-12-12 13:30,FC Oleksandriya,FK Kudrivka,1,1,2.200,3.100,3.000
+61651464,2025-12-12 16:00,FC Obolon Kyiv,FC Metalist 1925 Kharkiv,1,3,4.200,2.900,1.850
+61651472,2025-12-13 11:00,FC Kryvbas Kriviy Rih,Kolos Kovalivka,1,1,2.450,3.200,2.550
+61651468,2025-12-13 13:30,LNZ Cherkasy,FC Zorya Luhansk,2,0,1.800,3.000,4.500
+61651462,2025-12-13 16:00,FC Polissya Zhytomyr,Karpaty Lviv,3,2,2.000,2.625,4.333
+61651460,2025-12-14 11:00,SC Poltava,FC Rukh Lviv,1,2,4.500,3.400,1.666
+61651466,2025-12-14 13:30,FC Dynamo Kyiv,Veres Rivne,3,0,1.380,4.200,6.500
+61651458,2025-12-14 16:00,FC Shakhtar Donetsk,FC Epitsentr Kamianets-Podilskyi,5,0,1.181,6.000,13.000
+61651484,2026-02-20 13:30,Veres Rivne,SC Poltava,3,2,1.444,3.800,6.250
+61651474,2026-02-20 16:00,FC Dynamo Kyiv,FC Rukh Lviv,1,0,1.200,5.750,11.000
+61651488,2026-02-21 11:00,FC Epitsentr Kamianets-Podilskyi,LNZ Cherkasy,0,2,4.750,3.250,1.666
+61651478,2026-02-21 13:30,FC Metalist 1925 Kharkiv,FC Kryvbas Kriviy Rih,0,0,1.800,3.400,3.800
+61651476,2026-02-22 11:00,Kolos Kovalivka,FC Polissya Zhytomyr,0,2,4.333,3.000,1.850
+61651486,2026-02-22 13:30,FC Shakhtar Donetsk,Karpaty Lviv,3,0,1.333,4.100,8.000
+61651482,2026-02-23 11:00,FC Oleksandriya,FC Obolon Kyiv,0,0,2.250,2.900,3.100
+61651480,2026-02-23 13:30,FK Kudrivka,FC Zorya Luhansk,2,2,4.000,3.200,1.800
+61651494,2026-02-27 11:00,FC Dynamo Kyiv,FC Epitsentr Kamianets-Podilskyi,4,0,1.270,5.250,8.500
+61651504,2026-02-27 13:30,FC Shakhtar Donetsk,Veres Rivne,1,0,1.142,7.000,15.000
+61651490,2026-02-28 11:00,LNZ Cherkasy,FC Polissya Zhytomyr,1,3,2.500,2.800,2.900
+61651492,2026-02-28 13:30,FC Metalist 1925 Kharkiv,FC Oleksandriya,1,0,1.480,3.700,6.500
+61651496,2026-03-01 11:00,FC Kryvbas Kriviy Rih,FC Zorya Luhansk,3,1,3.300,3.250,2.100
+61651498,2026-03-01 13:30,FC Obolon Kyiv,FC Rukh Lviv,1,0,2.625,3.000,2.625
+61651502,2026-03-01 16:00,Karpaty Lviv,Kolos Kovalivka,0,1,2.250,3.000,3.100
+61651500,2026-03-02 11:00,SC Poltava,FK Kudrivka,0,2,4.200,3.900,1.666
+61651516,2026-03-06 11:00,FC Oleksandriya,FC Shakhtar Donetsk,0,1,11.000,5.000,1.222
+61651520,2026-03-07 11:00,FC Epitsentr Kamianets-Podilskyi,Kolos Kovalivka,4,0,3.250,3.100,2.100
+61651512,2026-03-07 13:30,FC Obolon Kyiv,FC Kryvbas Kriviy Rih,0,0,3.100,3.100,2.150
+61651510,2026-03-08 11:00,FC Zorya Luhansk,SC Poltava,4,0,1.333,4.500,7.500
+61651514,2026-03-08 13:30,Karpaty Lviv,FK Kudrivka,1,1,1.480,3.800,5.750
+61651508,2026-03-08 16:00,FC Polissya Zhytomyr,FC Dynamo Kyiv,1,2,2.350,3.000,2.900
+61651506,2026-03-09 13:30,FC Rukh Lviv,FC Metalist 1925 Kharkiv,0,3,5.250,3.200,1.650
+61651518,2026-03-09 16:00,Veres Rivne,LNZ Cherkasy,0,3,4.333,2.750,1.909
+61651530,2026-03-13 11:00,SC Poltava,Karpaty Lviv,0,4,8.500,4.750,1.270
+61651522,2026-03-13 16:00,FC Dynamo Kyiv,FC Obolon Kyiv,2,1,1.200,5.250,12.000
+61651532,2026-03-14 11:00,LNZ Cherkasy,FC Oleksandriya,2,0,1.480,3.400,7.000
+61651526,2026-03-14 13:30,FK Kudrivka,Veres Rivne,0,0,2.900,3.100,2.150
+61651528,2026-03-14 16:00,FC Polissya Zhytomyr,FC Kryvbas Kriviy Rih,2,0,1.450,3.700,6.250
+61651534,2026-03-15 11:00,FC Epitsentr Kamianets-Podilskyi,FC Rukh Lviv,2,0,1.615,3.250,5.250
+61651524,2026-03-15 13:30,Kolos Kovalivka,FC Zorya Luhansk,1,1,2.450,2.875,2.700
+61651536,2026-03-15 16:00,FC Shakhtar Donetsk,FC Metalist 1925 Kharkiv,1,0,1.500,3.600,6.000
+61651542,2026-03-18 16:00,FK Kudrivka,FC Polissya Zhytomyr,0,2,9.000,4.000,1.333
+61651548,2026-03-19 11:00,FC Oleksandriya,FC Dynamo Kyiv,0,5,7.000,4.333,1.333
+61651546,2026-03-19 16:00,FC Metalist 1925 Kharkiv,SC Poltava,2,0,1.166,5.750,17.000
+61651544,2026-03-21 11:00,FC Kryvbas Kriviy Rih,FC Epitsentr Kamianets-Podilskyi,2,1,2.200,3.300,2.750
+61651552,2026-03-21 13:30,FC Rukh Lviv,LNZ Cherkasy,1,2,7.500,3.000,1.533
+61651550,2026-03-22 13:30,Veres Rivne,Kolos Kovalivka,0,1,3.600,3.000,2.000
+61651540,2026-03-22 16:00,Karpaty Lviv,FC Obolon Kyiv,4,0,1.700,3.100,5.000
+61651560,2026-04-03 12:30,SC Poltava,FC Oleksandriya,3,3,4.200,3.600,1.700
+61651566,2026-04-04 10:00,Kolos Kovalivka,FC Metalist 1925 Kharkiv,0,0,3.750,2.900,1.950
+61651562,2026-04-04 15:00,FC Dynamo Kyiv,Karpaty Lviv,0,1,1.333,4.500,7.000
+61651558,2026-04-05 10:00,FC Kryvbas Kriviy Rih,LNZ Cherkasy,0,3,4.000,3.100,1.900
+61651554,2026-04-05 12:30,FC Obolon Kyiv,FC Zorya Luhansk,3,3,3.000,2.900,2.350
+61651568,2026-04-05 12:30,FC Shakhtar Donetsk,FC Rukh Lviv,3,0,1.166,6.000,15.000
+61651564,2026-04-05 15:00,FC Polissya Zhytomyr,Veres Rivne,1,1,1.363,3.800,10.000
+61651556,2026-04-06 15:00,FC Epitsentr Kamianets-Podilskyi,FK Kudrivka,1,0,1.650,3.600,4.500
+61651572,2026-04-10 10:00,SC Poltava,FC Polissya Zhytomyr,0,4,15.000,7.000,1.142
+61651578,2026-04-10 15:00,FC Rukh Lviv,Kolos Kovalivka,0,0,4.750,3.000,1.750
+61651574,2026-04-11 10:00,Karpaty Lviv,FC Oleksandriya,2,0,1.571,3.500,5.500
+61651584,2026-04-11 12:30,FC Metalist 1925 Kharkiv,FC Dynamo Kyiv,1,0,3.700,3.100,1.900
+61651576,2026-04-11 15:00,Veres Rivne,FC Obolon Kyiv,2,0,2.300,3.000,2.875
+61651570,2026-04-12 10:00,FK Kudrivka,FC Kryvbas Kriviy Rih,1,2,2.500,3.400,2.375
+61651582,2026-04-12 12:30,FC Zorya Luhansk,FC Epitsentr Kamianets-Podilskyi,1,0,2.400,3.200,2.550
+61651580,2026-04-13 10:00,LNZ Cherkasy,FC Shakhtar Donetsk,2,2,4.200,2.900,1.850
+61651600,2026-04-17 12:30,FC Dynamo Kyiv,FC Zorya Luhansk,3,1,1.444,4.100,5.750
+61651588,2026-04-17 15:00,FC Obolon Kyiv,SC Poltava,1,1,1.533,3.600,6.000
+61651594,2026-04-18 10:00,Kolos Kovalivka,LNZ Cherkasy,1,0,3.400,2.800,2.150
+61651598,2026-04-18 12:30,FC Metalist 1925 Kharkiv,FK Kudrivka,1,0,1.300,4.500,8.500
+61651586,2026-04-19 10:00,FC Kryvbas Kriviy Rih,FC Rukh Lviv,3,0,1.550,3.600,5.000
+61651592,2026-04-19 12:30,FC Epitsentr Kamianets-Podilskyi,Karpaty Lviv,0,0,2.875,3.100,2.250
+61651590,2026-04-20 10:00,FC Oleksandriya,Veres Rivne,0,3,2.200,3.200,3.000
+61651596,2026-04-20 15:00,FC Shakhtar Donetsk,FC Polissya Zhytomyr,1,0,1.600,3.600,5.000
+70806406,2026-04-23 12:30,FC Zorya Luhansk,FC Shakhtar Donetsk,1,2,7.000,4.200,1.400
+61651602,2026-04-24 12:30,Kolos Kovalivka,SC Poltava,2,0,1.200,5.250,13.000
+61651606,2026-04-25 15:00,FC Rukh Lviv,Karpaty Lviv,0,3,4.750,3.400,1.650
+61651616,2026-04-26 10:00,FC Kryvbas Kriviy Rih,FC Dynamo Kyiv,5,6,7.000,4.500,1.333
+61651610,2026-04-26 12:30,LNZ Cherkasy,FC Metalist 1925 Kharkiv,1,1,2.400,2.750,3.000
+61651612,2026-04-26 15:00,FK Kudrivka,FC Shakhtar Donetsk,1,3,13.000,5.500,1.181
+61651614,2026-04-26 15:00,FC Polissya Zhytomyr,FC Obolon Kyiv,3,1,1.333,4.100,9.000
+61651604,2026-04-27 10:00,FC Epitsentr Kamianets-Podilskyi,FC Oleksandriya,1,1,1.727,3.500,4.200
+61651608,2026-04-27 12:30,FC Zorya Luhansk,Veres Rivne,2,0,1.615,3.600,4.750
+61651632,2026-05-01 12:30,SC Poltava,FC Kryvbas Kriviy Rih,3,4,4.750,4.100,1.500
+61651618,2026-05-02 10:00,FC Oleksandriya,Kolos Kovalivka,0,3,3.300,3.000,2.150
+61651622,2026-05-02 12:30,Veres Rivne,FC Epitsentr Kamianets-Podilskyi,3,3,2.800,2.875,2.400
+61651620,2026-05-02 15:00,Karpaty Lviv,LNZ Cherkasy,0,0,3.000,2.800,2.400
+61651630,2026-05-03 10:00,FC Obolon Kyiv,FK Kudrivka,1,1,2.200,3.100,2.875
+61651628,2026-05-03 12:30,FC Metalist 1925 Kharkiv,FC Polissya Zhytomyr,0,1,2.800,2.900,2.400
+61651624,2026-05-03 15:00,FC Dynamo Kyiv,FC Shakhtar Donetsk,1,2,2.200,3.500,2.625
+61651626,2026-05-04 15:00,FC Rukh Lviv,FC Zorya Luhansk,1,2,3.900,3.600,1.727
+61651634,2026-05-08 10:00,FC Kryvbas Kriviy Rih,Karpaty Lviv,1,0,3.100,3.300,2.000
+61651638,2026-05-08 12:30,Kolos Kovalivka,FK Kudrivka,1,0,1.700,3.600,4.000
+61651646,2026-05-08 15:00,FC Polissya Zhytomyr,FC Oleksandriya,2,1,1.222,5.250,11.000
+61651636,2026-05-09 10:00,FC Rukh Lviv,Veres Rivne,0,0,2.750,2.800,2.500
+61651640,2026-05-09 12:30,LNZ Cherkasy,FC Dynamo Kyiv,0,1,3.000,3.000,2.200
+61651642,2026-05-09 15:00,FC Obolon Kyiv,FC Epitsentr Kamianets-Podilskyi,2,2,2.800,2.875,2.400
+61651648,2026-05-09 15:00,FC Zorya Luhansk,FC Metalist 1925 Kharkiv,1,1,3.600,3.200,1.909
+61651644,2026-05-10 12:30,SC Poltava,FC Shakhtar Donetsk,0,4,41.000,15.000,1.035
+61651664,2026-05-12 10:00,FC Oleksandriya,FC Zorya Luhansk,1,2,2.800,3.200,2.250
+61651656,2026-05-12 12:30,FC Epitsentr Kamianets-Podilskyi,FC Polissya Zhytomyr,3,2,6.250,3.600,1.480
+61651650,2026-05-12 15:00,Veres Rivne,FC Kryvbas Kriviy Rih,1,3,2.500,3.300,2.400
+61651662,2026-05-12 15:00,FC Metalist 1925 Kharkiv,Karpaty Lviv,2,2,2.100,3.000,3.250
+61651652,2026-05-13 12:30,FC Dynamo Kyiv,Kolos Kovalivka,2,1,1.550,3.600,5.750
+61651654,2026-05-13 12:30,LNZ Cherkasy,SC Poltava,2,0,1.142,6.500,13.000
+61651658,2026-05-13 15:00,FC Shakhtar Donetsk,FC Obolon Kyiv,3,1,1.181,6.250,13.000
+61651660,2026-05-14 10:00,FK Kudrivka,FC Rukh Lviv,2,1,2.000,3.400,3.300
+61651670,2026-05-16 10:00,FC Metalist 1925 Kharkiv,FC Epitsentr Kamianets-Podilskyi,1,1,1.533,3.600,5.500
+61651678,2026-05-16 10:00,SC Poltava,FC Dynamo Kyiv,0,2,19.000,8.000,1.100
+61651672,2026-05-17 10:00,FC Kryvbas Kriviy Rih,FC Shakhtar Donetsk,2,3,6.500,5.000,1.333
+61651674,2026-05-17 10:00,FC Rukh Lviv,FC Oleksandriya,1,3,2.375,3.000,2.750
+61651666,2026-05-17 12:30,Kolos Kovalivka,FC Obolon Kyiv,0,2,2.150,2.800,3.300
+61651680,2026-05-17 15:00,Karpaty Lviv,Veres Rivne,2,0,1.480,3.800,5.500
+61651668,2026-05-18 10:00,FK Kudrivka,LNZ Cherkasy,1,0,5.750,4.100,1.444
+61651676,2026-05-18 10:00,FC Zorya Luhansk,FC Polissya Zhytomyr,0,0,4.333,3.700,1.666
+61651686,2026-05-21 12:30,FC Shakhtar Donetsk,Kolos Kovalivka,0,1,1.333,4.333,7.500
+61651696,2026-05-23 10:00,FC Oleksandriya,FC Kryvbas Kriviy Rih,1,1,2.800,3.400,2.200
+61651684,2026-05-23 12:30,FC Epitsentr Kamianets-Podilskyi,SC Poltava,0,0,1.363,4.750,6.000
+61651694,2026-05-23 15:00,Karpaty Lviv,FC Zorya Luhansk,1,2,2.150,3.300,2.900
+61651682,2026-05-24 10:00,FC Obolon Kyiv,LNZ Cherkasy,0,1,5.500,3.000,1.700
+61651688,2026-05-24 10:00,FC Polissya Zhytomyr,FC Rukh Lviv,2,0,1.142,7.000,17.000
+61651690,2026-05-24 10:00,Veres Rivne,FC Metalist 1925 Kharkiv,0,1,5.750,3.700,1.500
+61651692,2026-05-24 10:00,FC Dynamo Kyiv,FK Kudrivka,3,2,1.222,5.500,9.500
+71889044,2026-06-05 12:30,FC Oleksandriya,FC Livyi Bereh Kyiv,1,1,2.250,3.000,2.900
+71889074,2026-06-05 15:00,FK Kudrivka,Agrobiznes Volochisk,0,0,1.600,3.400,5.250
+72409608,2026-07-31 15:00,FC Zorya Luhansk,Kolos Kovalivka,2,0,2.600,2.900,2.600
+72409598,2026-08-01 10:00,FC Kryvbas Kriviy Rih,Karpaty Lviv,1,4,3.300,3.700,1.833
+72409606,2026-08-01 12:30,FC Kharkiv,Veres Rivne,1,0,1.333,4.200,8.500
+72409602,2026-08-02 10:00,FC Chernomorets Odessa,FC Polissya Zhytomyr,1,2,7.500,4.333,1.333
+72409600,2026-08-02 12:30,FC Epitsentr Kamianets-Podilskyi,FC Obolon Kyiv,3,0,2.000,3.000,3.400
+72409612,2026-08-03 12:30,FSC Bukovyna Chernivtsi,LNZ Cherkasy,0,0,3.900,3.200,1.950
+72409854,2026-08-03 15:00,FC Shakhtar Donetsk,FK Kudrivka,5,1,,,
+72409622,2026-08-08 14:40,FC Livyi Bereh Kyiv,FK Kudrivka,0,0,1.571,3.500,5.250
+72409628,2026-08-08 15:00,FSC Bukovyna Chernivtsi,FC Obolon Kyiv,0,0,1.666,3.500,4.500
+72409624,2026-08-09 10:00,FC Zorya Luhansk,FC Kryvbas Kriviy Rih,1,3,1.600,3.800,4.500
+72409614,2026-08-09 12:30,FC Epitsentr Kamianets-Podilskyi,FC Shakhtar Donetsk,0,2,9.000,4.500,1.270
+72409626,2026-08-09 15:00,Veres Rivne,FC Dynamo Kyiv,1,2,7.000,4.200,1.333
+72409620,2026-08-10 12:30,FC Polissya Zhytomyr,FC Kharkiv,3,1,1.800,3.200,4.100
+72409618,2026-08-10 15:00,Karpaty Lviv,LNZ Cherkasy,3,0,2.400,3.000,2.700
+72409636,2026-08-14 15:00,FC Epitsentr Kamianets-Podilskyi,Veres Rivne,0,0,1.833,3.400,4.000
+72409640,2026-08-15 10:00,FC Kryvbas Kriviy Rih,FC Livyi Bereh Kyiv,1,1,2.050,3.250,3.100
+72409634,2026-08-15 12:30,FK Kudrivka,FC Obolon Kyiv,0,0,2.300,3.000,2.875
+72409630,2026-08-15 15:00,Karpaty Lviv,FSC Bukovyna Chernivtsi,3,0,1.833,3.300,3.700
+72409632,2026-08-16 10:00,LNZ Cherkasy,FC Chernomorets Odessa,2,0,1.380,4.000,7.000
+72409638,2026-08-16 12:30,FC Kharkiv,FC Shakhtar Donetsk,0,1,4.750,3.600,1.571
+72409644,2026-08-16 15:00,FC Dynamo Kyiv,Kolos Kovalivka,2,1,1.600,3.500,4.750
+72409642,2026-08-17 15:00,FC Polissya Zhytomyr,FC Zorya Luhansk,1,2,1.420,4.100,5.500
+72409648,2026-08-28 12:30,Kolos Kovalivka,FC Obolon Kyiv,0,0,1.850,3.100,3.900
+72409654,2026-08-29 10:00,FK Kudrivka,FC Epitsentr Kamianets-Podilskyi,0,3,3.000,3.100,2.150
+72409658,2026-08-29 12:30,FC Livyi Bereh Kyiv,Karpaty Lviv,1,1,3.100,3.300,2.050
+72409652,2026-08-29 15:00,FC Shakhtar Donetsk,FC Polissya Zhytomyr,0,2,1.700,3.300,4.500
+72409650,2026-08-30 10:00,FC Chernomorets Odessa,FC Kryvbas Kriviy Rih,1,0,2.800,3.300,2.200
+72409656,2026-08-30 12:30,LNZ Cherkasy,Veres Rivne,0,1,1.380,4.000,7.000
+72409660,2026-08-30 15:00,FC Zorya Luhansk,FC Kharkiv,0,3,3.500,3.250,1.900
+72409646,2026-08-31 15:00,FSC Bukovyna Chernivtsi,FC Dynamo Kyiv,3,0,4.500,3.600,1.650
+72409678,2026-09-04 10:00,FC Chernomorets Odessa,FC Livyi Bereh Kyiv,0,0,3.100,3.100,2.150
+72409672,2026-09-04 15:00,FC Polissya Zhytomyr,FK Kudrivka,5,1,1.181,5.250,13.000
+72409668,2026-09-05 10:00,FC Kryvbas Kriviy Rih,Kolos Kovalivka,2,2,3.000,3.250,2.100
+72409676,2026-09-05 10:00,FC Kharkiv,FC Obolon Kyiv,5,0,1.333,4.500,7.500
+72409662,2026-09-05 15:00,Karpaty Lviv,FC Shakhtar Donetsk,1,2,5.250,3.500,1.600
+72409670,2026-09-06 10:00,FC Dynamo Kyiv,LNZ Cherkasy,0,0,2.050,3.100,3.250
+72409674,2026-09-06 12:30,Veres Rivne,FC Zorya Luhansk,1,1,3.200,3.300,2.000
+72409664,2026-09-06 15:00,FC Epitsentr Kamianets-Podilskyi,FSC Bukovyna Chernivtsi,0,0,3.100,3.250,2.050
+72409686,2026-09-11 10:00,Kolos Kovalivka,Karpaty Lviv,0,2,2.700,3.300,2.200
+72409688,2026-09-12 10:00,LNZ Cherkasy,FC Obolon Kyiv,3,1,1.380,3.600,8.500
+72409934,2026-09-13 12:30,FC Polissya Zhytomyr,FC Livyi Bereh Kyiv,1,0,1.380,4.200,7.000
+72409680,2026-09-13 15:00,FSC Bukovyna Chernivtsi,FC Zorya Luhansk,1,1,2.300,3.400,2.550
+72409682,2026-09-14 12:30,FC Dynamo Kyiv,FC Epitsentr Kamianets-Podilskyi,3,0,1.444,4.200,5.750
+72409684,2026-09-14 15:00,FC Shakhtar Donetsk,FC Chernomorets Odessa,2,0,1.111,7.500,21.000
+72409702,2026-09-18 10:00,FC Chernomorets Odessa,FC Obolon Kyiv,1,1,2.800,3.000,2.350
+72409706,2026-09-18 12:30,FC Polissya Zhytomyr,FC Kryvbas Kriviy Rih,1,0,1.270,5.250,7.500
+72409698,2026-09-19 10:00,FC Kharkiv,FSC Bukovyna Chernivtsi,2,0,1.850,3.400,3.600
+72409696,2026-09-19 12:30,FC Zorya Luhansk,FC Dynamo Kyiv,0,2,4.333,3.750,1.600
+72409700,2026-09-19 15:00,FC Epitsentr Kamianets-Podilskyi,FC Livyi Bereh Kyiv,0,2,2.600,3.100,2.450
+72409708,2026-09-20 10:00,FK Kudrivka,Kolos Kovalivka,2,3,4.100,3.400,1.750
+72409710,2026-09-20 12:30,Karpaty Lviv,Veres Rivne,1,1,1.444,3.800,6.500
+72409704,2026-09-20 15:00,FC Shakhtar Donetsk,LNZ Cherkasy,3,0,1.533,3.500,5.750
+74983666,2026-10-03 10:00,Veres Rivne,FK Kudrivka,2,1,1.950,3.400,3.700
+72409716,2026-10-09 12:30,Veres Rivne,FC Shakhtar Donetsk,0,3,10.000,4.500,1.250
+72409718,2026-10-10 10:00,FC Chernomorets Odessa,FC Kharkiv,1,2,7.500,4.750,1.300
+72409720,2026-10-10 10:00,Kolos Kovalivka,FC Epitsentr Kamianets-Podilskyi,3,1,2.150,3.100,3.000
+72409722,2026-10-10 10:00,FC Obolon Kyiv,FC Kryvbas Kriviy Rih,1,0,2.750,3.200,2.300
+72409714,2026-10-11 10:00,FC Dynamo Kyiv,Karpaty Lviv,1,0,1.650,3.700,4.333
+72409726,2026-10-11 10:00,LNZ Cherkasy,FK Kudrivka,2,1,1.480,3.700,6.000
+72409724,2026-10-11 15:00,FSC Bukovyna Chernivtsi,FC Polissya Zhytomyr,2,2,3.700,3.400,1.800
+72409712,2026-10-12 10:50,FC Livyi Bereh Kyiv,FC Zorya Luhansk,1,3,2.500,3.200,2.600
+72409738,2026-10-16 10:00,FC Obolon Kyiv,Veres Rivne,2,0,3.000,2.900,2.250
+72409734,2026-10-17 10:00,FC Zorya Luhansk,FC Chernomorets Odessa,2,1,1.550,3.500,5.250
+72409730,2026-10-17 12:30,FK Kudrivka,FSC Bukovyna Chernivtsi,4,1,4.500,3.750,1.600
+72409736,2026-10-17 15:00,FC Shakhtar Donetsk,Kolos Kovalivka,2,1,1.300,4.500,7.500
+72409740,2026-10-18 10:00,FC Kryvbas Kriviy Rih,LNZ Cherkasy,0,3,3.800,3.300,1.850
+72409742,2026-10-18 10:00,FC Polissya Zhytomyr,FC Dynamo Kyiv,3,1,2.300,3.250,2.700
+72409732,2026-10-18 15:00,Karpaty Lviv,FC Epitsentr Kamianets-Podilskyi,2,2,1.571,3.750,4.750
+72409728,2026-10-19 10:00,FC Kharkiv,FC Livyi Bereh Kyiv,2,1,1.450,3.900,5.750
+72409744,2026-10-23 10:00,FC Dynamo Kyiv,FK Kudrivka,3,1,1.166,6.250,12.000
+72409752,2026-10-23 10:00,Veres Rivne,Kolos Kovalivka,0,2,2.750,3.000,2.375
+72409754,2026-10-23 10:00,FC Polissya Zhytomyr,FC Obolon Kyiv,3,0,1.181,5.250,15.000
+72409748,2026-10-24 10:00,FC Epitsentr Kamianets-Podilskyi,FC Kharkiv,1,2,4.333,3.400,1.666
+72409758,2026-10-24 10:00,FC Livyi Bereh Kyiv,LNZ Cherkasy,0,0,3.300,3.000,2.050
+72409746,2026-10-24 15:00,FC Shakhtar Donetsk,FC Zorya Luhansk,0,0,1.300,4.750,7.500
+72409750,2026-10-25 11:00,FC Chernomorets Odessa,Karpaty Lviv,0,0,5.000,3.750,1.550
+72409756,2026-10-25 11:00,FSC Bukovyna Chernivtsi,FC Kryvbas Kriviy Rih,0,0,1.571,4.100,4.200
+72410010,2026-10-30 16:00,FC Shakhtar Donetsk,FC Obolon Kyiv,2,0,1.125,7.500,21.000
+72409762,2026-10-31 11:00,FC Livyi Bereh Kyiv,FSC Bukovyna Chernivtsi,0,1,2.450,3.400,2.375
+72409768,2026-10-31 11:00,Veres Rivne,FC Chernomorets Odessa,1,3,2.050,3.100,3.400
+72409766,2026-11-02 11:00,FC Zorya Luhansk,FC Epitsentr Kamianets-Podilskyi,1,0,1.750,3.400,4.100
+72409774,2026-11-02 11:00,FC Kryvbas Kriviy Rih,FC Dynamo Kyiv,0,2,6.000,4.100,1.420
+72409764,2026-11-02 16:00,Karpaty Lviv,FK Kudrivka,5,0,1.300,4.750,7.000
+72409776,2026-11-06 11:00,FC Polissya Zhytomyr,Veres Rivne,2,0,1.166,6.250,12.000
+72409790,2026-11-06 11:00,FC Obolon Kyiv,FC Livyi Bereh Kyiv,1,1,3.400,3.000,2.050
+72409784,2026-11-07 11:00,FC Epitsentr Kamianets-Podilskyi,FC Kryvbas Kriviy Rih,1,1,2.150,3.400,2.750
+72409786,2026-11-07 11:00,FK Kudrivka,FC Chernomorets Odessa,1,0,3.800,3.500,1.750
+72409778,2026-11-08 11:00,FC Zorya Luhansk,LNZ Cherkasy,1,2,3.200,3.100,2.100
+72409788,2026-11-08 11:00,FSC Bukovyna Chernivtsi,Kolos Kovalivka,1,1,2.150,3.200,3.000
+72409782,2026-11-08 16:00,FC Shakhtar Donetsk,FC Dynamo Kyiv,0,0,1.615,3.700,4.333

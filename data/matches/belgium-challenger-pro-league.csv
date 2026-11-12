@@ -1,0 +1,343 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+61741966,2025-08-08 18:00,Olympic Club De Charleroi,Jeugd KAA Gent B,1,4,,,
+61741968,2025-08-08 18:00,RFC Seraing,K Beerschot VA,1,2,,,
+61741970,2025-08-09 14:00,RSC Anderlecht Futures,KV Kortrijk,1,3,,,
+61741972,2025-08-09 18:00,KAS Eupen,RFC Liege,2,0,,,
+61741974,2025-08-09 18:00,Patro Eisden Maasmechelen,KSC Lokeren-Temse,2,1,,,
+61741976,2025-08-09 18:00,RWDM Brussels,Lommel SK,3,3,,,
+61741978,2025-08-09 18:00,Koninklijke Lierse Sportkring,SK Beveren,0,2,,,
+61741980,2025-08-10 14:00,Club NXT,Royal Francs Borains,1,1,,,
+61741982,2025-08-15 18:00,SK Beveren,Jong KRC Genk,1,0,,,
+61741984,2025-08-15 18:00,Royal Francs Borains,Patro Eisden Maasmechelen,2,0,,,
+61741986,2025-08-16 14:00,KV Kortrijk,Koninklijke Lierse Sportkring,1,0,,,
+61741988,2025-08-16 18:00,Jeugd KAA Gent B,RSC Anderlecht Futures,0,1,,,
+61741990,2025-08-16 18:00,Lommel SK,Olympic Club De Charleroi,3,0,,,
+61741992,2025-08-16 18:00,KSC Lokeren-Temse,RWDM Brussels,1,3,,,
+61741994,2025-08-16 18:00,K Beerschot VA,KAS Eupen,1,1,,,
+61741996,2025-08-17 14:00,RFC Liege,RFC Seraing,2,0,,,
+61741998,2025-08-22 18:00,Jeugd KAA Gent B,K Beerschot VA,1,1,,,
+61742000,2025-08-22 18:00,Patro Eisden Maasmechelen,Club NXT,2,1,,,
+61742002,2025-08-23 14:00,RWDM Brussels,SK Beveren,0,2,,,
+61742004,2025-08-23 18:00,Olympic Club De Charleroi,KV Kortrijk,0,3,,,
+61742006,2025-08-23 18:00,Jong KRC Genk,RFC Seraing,0,0,,,
+61742008,2025-08-23 18:00,KSC Lokeren-Temse,RFC Liege,0,1,,,
+61742010,2025-08-23 18:00,Royal Francs Borains,Lommel SK,0,0,,,
+61742012,2025-08-23 18:00,Koninklijke Lierse Sportkring,KAS Eupen,3,2,,,
+61742014,2025-08-29 18:00,SK Beveren,Jeugd KAA Gent B,3,0,,,
+61742016,2025-08-29 18:00,KV Kortrijk,Royal Francs Borains,2,0,,,
+61742018,2025-08-30 14:00,K Beerschot VA,Koninklijke Lierse Sportkring,1,0,,,
+61742020,2025-08-30 18:00,Lommel SK,KSC Lokeren-Temse,3,1,,,
+61742022,2025-08-30 18:00,KAS Eupen,RSC Anderlecht Futures,1,0,,,
+61742024,2025-08-30 18:00,RFC Liege,Patro Eisden Maasmechelen,0,2,,,
+61742026,2025-08-30 18:00,RFC Seraing,Olympic Club De Charleroi,3,1,,,
+61742028,2025-08-31 14:00,Club NXT,Jong KRC Genk,1,2,,,
+61742030,2025-09-12 18:00,KSC Lokeren-Temse,Koninklijke Lierse Sportkring,2,0,,,
+61742032,2025-09-12 18:00,RSC Anderlecht Futures,K Beerschot VA,0,2,,,
+61742034,2025-09-13 14:00,Patro Eisden Maasmechelen,Lommel SK,0,2,,,
+61742036,2025-09-13 18:00,Royal Francs Borains,KAS Eupen,0,3,,,
+61742038,2025-09-13 18:00,Club NXT,RFC Liege,0,2,,,
+61742040,2025-09-13 18:00,Jong KRC Genk,KV Kortrijk,1,3,,,
+61742044,2025-09-14 11:30,RWDM Brussels,RFC Seraing,5,0,,,
+61742042,2025-09-14 14:00,Olympic Club De Charleroi,SK Beveren,0,5,,,
+61754814,2025-09-19 18:00,Koninklijke Lierse Sportkring,RWDM Brussels,2,0,,,
+61754818,2025-09-19 18:00,Lommel SK,Jong KRC Genk,1,2,,,
+61754820,2025-09-20 14:00,RFC Liege,RSC Anderlecht Futures,1,1,,,
+61754808,2025-09-20 18:00,K Beerschot VA,Royal Francs Borains,4,1,,,
+61754812,2025-09-20 18:00,KAS Eupen,Patro Eisden Maasmechelen,0,0,,,
+61754822,2025-09-20 18:00,RFC Seraing,Jeugd KAA Gent B,0,2,,,
+61754810,2025-09-21 14:00,SK Beveren,KSC Lokeren-Temse,1,0,,,
+61754816,2025-09-21 14:00,KV Kortrijk,Club NXT,1,1,,,
+61754828,2025-09-23 18:00,Royal Francs Borains,RFC Seraing,0,0,,,
+61754830,2025-09-23 18:00,Jong KRC Genk,K Beerschot VA,0,2,,,
+61754836,2025-09-23 18:00,Olympic Club De Charleroi,RSC Anderlecht Futures,0,2,,,
+61754824,2025-09-24 18:00,Club NXT,Lommel SK,0,2,,,
+61754826,2025-09-24 18:00,RWDM Brussels,KV Kortrijk,1,2,,,
+61754834,2025-09-24 18:00,KSC Lokeren-Temse,KAS Eupen,3,3,,,
+61754838,2025-09-24 18:00,RFC Liege,SK Beveren,1,2,,,
+61754832,2025-09-25 18:00,Jeugd KAA Gent B,Koninklijke Lierse Sportkring,0,0,,,
+61754846,2025-09-26 18:00,Jong KRC Genk,Patro Eisden Maasmechelen,1,4,,,
+61754840,2025-09-27 14:00,RSC Anderlecht Futures,Club NXT,2,2,,,
+61754842,2025-09-27 18:00,K Beerschot VA,KSC Lokeren-Temse,1,0,,,
+61754844,2025-09-27 18:00,SK Beveren,RFC Seraing,2,1,,,
+61754852,2025-09-27 18:00,KV Kortrijk,KAS Eupen,1,0,,,
+61754848,2025-09-28 14:00,Jeugd KAA Gent B,RWDM Brussels,0,2,,,
+61754854,2025-09-28 14:00,Lommel SK,RFC Liege,0,1,,,
+61754850,2025-09-28 17:15,Koninklijke Lierse Sportkring,Olympic Club De Charleroi,0,0,,,
+61754860,2025-10-03 18:00,Royal Francs Borains,RSC Anderlecht Futures,3,3,,,
+61754870,2025-10-03 18:00,RFC Seraing,Lommel SK,2,3,,,
+61754856,2025-10-04 14:00,Club NXT,Jeugd KAA Gent B,0,4,,,
+61754858,2025-10-04 18:00,KAS Eupen,RWDM Brussels,2,2,,,
+61754864,2025-10-04 18:00,Olympic Club De Charleroi,KSC Lokeren-Temse,0,1,,,
+61754866,2025-10-04 18:00,Patro Eisden Maasmechelen,Koninklijke Lierse Sportkring,2,1,,,
+61754862,2025-10-05 14:00,KV Kortrijk,SK Beveren,1,3,,,
+61754868,2025-10-05 14:00,RFC Liege,Jong KRC Genk,5,0,,,
+61754874,2025-10-17 18:00,K Beerschot VA,SK Beveren,1,1,,,
+61754884,2025-10-17 18:00,Olympic Club De Charleroi,KAS Eupen,0,1,,,
+61754878,2025-10-18 14:00,Jong KRC Genk,Royal Francs Borains,3,1,,,
+61754872,2025-10-18 18:00,RSC Anderlecht Futures,Lommel SK,2,2,,,
+61754876,2025-10-18 18:00,RWDM Brussels,Club NXT,3,1,,,
+61754880,2025-10-18 18:00,Jeugd KAA Gent B,KV Kortrijk,2,3,,,
+61754882,2025-10-19 14:00,Koninklijke Lierse Sportkring,RFC Liege,1,2,,,
+61754886,2025-10-19 14:00,Patro Eisden Maasmechelen,RFC Seraing,2,2,,,
+61754896,2025-10-24 18:00,Royal Francs Borains,Jeugd KAA Gent B,2,0,,,
+61754902,2025-10-24 18:00,RFC Seraing,Koninklijke Lierse Sportkring,1,1,,,
+61754892,2025-10-25 14:00,Club NXT,Olympic Club De Charleroi,1,1,,,
+61754890,2025-10-25 18:00,SK Beveren,Patro Eisden Maasmechelen,2,1,,,
+61754894,2025-10-25 18:00,KAS Eupen,Jong KRC Genk,2,1,,,
+61754900,2025-10-25 18:00,RFC Liege,RWDM Brussels,4,3,,,
+61754888,2025-10-26 15:00,RSC Anderlecht Futures,KSC Lokeren-Temse,1,2,,,
+61754898,2025-10-26 15:00,Lommel SK,K Beerschot VA,1,2,,,
+61754912,2025-10-31 19:00,Koninklijke Lierse Sportkring,Lommel SK,4,4,,,
+61754914,2025-10-31 19:00,KSC Lokeren-Temse,Royal Francs Borains,2,2,,,
+61754910,2025-11-01 15:00,Jeugd KAA Gent B,KAS Eupen,2,1,,,
+61754906,2025-11-01 19:00,SK Beveren,Club NXT,2,1,,,
+61754908,2025-11-01 19:00,RWDM Brussels,Jong KRC Genk,1,1,,,
+61754916,2025-11-01 19:00,Olympic Club De Charleroi,RFC Liege,1,1,,,
+61754904,2025-11-02 15:00,K Beerschot VA,KV Kortrijk,1,2,,,
+61754918,2025-11-02 15:00,Patro Eisden Maasmechelen,RSC Anderlecht Futures,0,0,,,
+61754930,2025-11-07 19:00,Lommel SK,SK Beveren,2,2,,,
+61754932,2025-11-07 19:00,RFC Liege,Jeugd KAA Gent B,0,2,,,
+61754920,2025-11-08 19:00,Club NXT,Koninklijke Lierse Sportkring,0,1,,,
+61754928,2025-11-08 19:00,KV Kortrijk,Patro Eisden Maasmechelen,2,0,,,
+61754934,2025-11-08 19:00,RFC Seraing,KSC Lokeren-Temse,1,1,,,
+61754922,2025-11-09 15:00,RWDM Brussels,K Beerschot VA,0,1,,,
+61754924,2025-11-09 15:00,Royal Francs Borains,Olympic Club De Charleroi,0,1,,,
+61754938,2025-11-21 19:00,SK Beveren,KAS Eupen,1,1,,,
+61754940,2025-11-21 19:00,Royal Francs Borains,RFC Liege,2,0,,,
+61754946,2025-11-22 15:00,KSC Lokeren-Temse,Club NXT,3,2,,,
+61754936,2025-11-22 19:00,RSC Anderlecht Futures,RFC Seraing,2,2,,,
+61754942,2025-11-22 19:00,Jeugd KAA Gent B,Jong KRC Genk,0,0,,,
+61754944,2025-11-22 19:00,KV Kortrijk,Lommel SK,4,2,,,
+61754948,2025-11-23 15:00,Olympic Club De Charleroi,K Beerschot VA,1,2,,,
+61754950,2025-11-23 15:00,Patro Eisden Maasmechelen,RWDM Brussels,1,0,,,
+61754952,2025-11-28 19:00,K Beerschot VA,RFC Liege,3,0,,,
+61754956,2025-11-28 19:00,KAS Eupen,Lommel SK,1,2,,,
+61754962,2025-11-29 15:00,KSC Lokeren-Temse,KV Kortrijk,1,1,,,
+61754954,2025-11-29 19:00,RWDM Brussels,Royal Francs Borains,1,3,,,
+61754960,2025-11-29 19:00,Koninklijke Lierse Sportkring,RSC Anderlecht Futures,1,0,,,
+61754964,2025-11-29 19:00,Patro Eisden Maasmechelen,Jeugd KAA Gent B,2,1,,,
+61754958,2025-11-30 15:00,Jong KRC Genk,Olympic Club De Charleroi,3,4,,,
+61754966,2025-11-30 15:00,RFC Seraing,Club NXT,1,0,,,
+61754978,2025-12-05 19:00,Olympic Club De Charleroi,Patro Eisden Maasmechelen,0,0,,,
+61754982,2025-12-05 19:00,RFC Seraing,KAS Eupen,0,1,,,
+61754976,2025-12-06 15:00,Koninklijke Lierse Sportkring,Jong KRC Genk,2,1,,,
+61754968,2025-12-06 19:00,RSC Anderlecht Futures,RWDM Brussels,2,2,,,
+61754970,2025-12-06 19:00,SK Beveren,Royal Francs Borains,1,0,,,
+61754972,2025-12-06 19:00,Club NXT,K Beerschot VA,3,1,,,
+61754974,2025-12-07 12:30,Jeugd KAA Gent B,KSC Lokeren-Temse,1,3,,,
+61754980,2025-12-07 15:00,RFC Liege,KV Kortrijk,2,0,,,
+64982532,2025-12-09 19:00,Jong KRC Genk,RSC Anderlecht Futures,3,2,,,
+61754986,2025-12-12 19:00,SK Beveren,RSC Anderlecht Futures,2,1,1.270,4.750,8.500
+61754998,2025-12-12 19:00,Lommel SK,Jeugd KAA Gent B,2,0,1.850,3.600,3.600
+61754994,2025-12-13 15:00,KV Kortrijk,RFC Seraing,1,0,1.300,4.750,8.500
+61754984,2025-12-13 19:00,K Beerschot VA,Patro Eisden Maasmechelen,0,2,1.833,3.250,4.100
+61754988,2025-12-13 19:00,RWDM Brussels,Olympic Club De Charleroi,3,3,,,
+61754992,2025-12-13 19:00,Royal Francs Borains,Koninklijke Lierse Sportkring,0,1,2.200,3.250,3.100
+61754990,2025-12-14 15:00,KAS Eupen,Club NXT,2,1,,,
+61754996,2025-12-14 15:00,KSC Lokeren-Temse,Jong KRC Genk,2,2,1.500,3.900,5.250
+61755002,2025-12-16 19:00,K Beerschot VA,Jeugd KAA Gent B,1,2,,,
+61755008,2025-12-16 19:00,Koninklijke Lierse Sportkring,KV Kortrijk,0,0,4.333,3.500,1.650
+61755010,2025-12-16 19:00,Olympic Club De Charleroi,Lommel SK,1,2,,,
+61755000,2025-12-17 19:00,RSC Anderlecht Futures,Royal Francs Borains,2,0,2.500,3.400,2.400
+61755004,2025-12-17 19:00,Club NXT,RWDM Brussels,0,1,,,
+61755006,2025-12-17 19:00,Jong KRC Genk,SK Beveren,1,2,7.500,4.750,1.333
+61755012,2025-12-18 19:00,Patro Eisden Maasmechelen,KAS Eupen,0,1,1.750,3.400,4.333
+61755014,2025-12-18 19:00,RFC Liege,KSC Lokeren-Temse,0,1,2.000,3.600,3.200
+61755024,2025-12-19 19:00,Jeugd KAA Gent B,RFC Seraing,3,1,1.833,3.300,3.600
+61755030,2025-12-19 19:00,Lommel SK,Koninklijke Lierse Sportkring,4,3,1.909,3.300,3.400
+61755022,2025-12-20 15:00,Royal Francs Borains,Club NXT,1,0,,,
+61755016,2025-12-20 19:00,SK Beveren,K Beerschot VA,4,2,1.727,3.400,4.000
+61755026,2025-12-20 19:00,KV Kortrijk,RSC Anderlecht Futures,5,2,1.400,4.500,5.750
+61755018,2025-12-21 15:00,RWDM Brussels,RFC Liege,0,3,2.050,3.400,3.000
+61755028,2025-12-21 15:00,KSC Lokeren-Temse,Patro Eisden Maasmechelen,1,1,2.600,3.100,2.450
+61755020,2025-12-21 18:15,KAS Eupen,Olympic Club De Charleroi,2,2,,,
+61755040,2026-01-16 19:00,Jong KRC Genk,Lommel SK,0,2,4.500,3.750,1.600
+61755046,2026-01-16 19:00,RFC Seraing,RWDM Brussels,3,1,2.625,3.200,2.350
+61755032,2026-01-17 15:00,RSC Anderlecht Futures,Jeugd KAA Gent B,1,2,,,
+61755038,2026-01-17 19:00,KAS Eupen,SK Beveren,1,2,4.500,3.400,1.666
+61755042,2026-01-17 19:00,Patro Eisden Maasmechelen,KV Kortrijk,1,0,3.000,3.100,2.200
+61755044,2026-01-17 19:00,RFC Liege,Royal Francs Borains,3,1,1.833,3.300,3.600
+61755034,2026-01-18 15:00,K Beerschot VA,Olympic Club De Charleroi,2,1,,,
+61755036,2026-01-18 15:00,Club NXT,KSC Lokeren-Temse,1,2,,,
+61755054,2026-01-23 19:00,KV Kortrijk,Jong KRC Genk,4,1,1.250,5.250,10.000
+61755060,2026-01-23 19:00,Olympic Club De Charleroi,Club NXT,0,3,,,
+61755056,2026-01-24 15:00,KSC Lokeren-Temse,K Beerschot VA,0,0,3.250,3.500,1.950
+61755050,2026-01-24 19:00,RWDM Brussels,Patro Eisden Maasmechelen,2,4,3.400,3.200,1.950
+61755058,2026-01-24 19:00,Lommel SK,KAS Eupen,3,2,1.800,3.400,3.750
+61755062,2026-01-24 19:00,RFC Seraing,RFC Liege,2,2,3.250,3.250,2.000
+61755048,2026-01-25 15:00,SK Beveren,Koninklijke Lierse Sportkring,1,0,1.222,5.250,10.000
+61755052,2026-01-25 15:00,Jeugd KAA Gent B,Royal Francs Borains,1,0,,,
+61755066,2026-01-27 19:00,K Beerschot VA,RFC Seraing,0,0,1.400,4.200,7.000
+61755068,2026-01-27 19:00,Club NXT,KV Kortrijk,2,0,,,
+61755070,2026-01-27 19:00,KAS Eupen,KSC Lokeren-Temse,1,1,2.500,3.400,2.500
+61755072,2026-01-27 19:00,Jong KRC Genk,RWDM Brussels,0,2,2.625,3.500,2.300
+61755076,2026-01-27 19:00,Patro Eisden Maasmechelen,Olympic Club De Charleroi,1,0,1.400,4.100,7.500
+61755078,2026-01-27 19:00,RFC Liege,Lommel SK,1,0,2.800,3.250,2.350
+61755064,2026-01-28 19:00,RSC Anderlecht Futures,Koninklijke Lierse Sportkring,2,2,,,
+61755074,2026-01-28 19:00,Jeugd KAA Gent B,SK Beveren,2,4,,,
+61755082,2026-01-30 19:00,Club NXT,RFC Seraing,1,0,,,
+61755086,2026-01-30 19:00,Jong KRC Genk,KAS Eupen,2,0,3.700,3.600,1.833
+61755080,2026-01-31 15:00,RSC Anderlecht Futures,RFC Liege,0,0,,,
+61755094,2026-01-31 15:00,Olympic Club De Charleroi,Royal Francs Borains,0,3,2.800,3.200,2.350
+61755084,2026-01-31 19:00,RWDM Brussels,Jeugd KAA Gent B,1,0,,,
+61755092,2026-01-31 19:00,Lommel SK,Patro Eisden Maasmechelen,1,1,2.550,3.200,2.550
+61755088,2026-02-01 12:30,Koninklijke Lierse Sportkring,K Beerschot VA,1,2,4.333,3.750,1.666
+61755090,2026-02-01 12:30,KV Kortrijk,KSC Lokeren-Temse,3,2,1.700,3.600,4.500
+61755106,2026-02-06 19:00,Patro Eisden Maasmechelen,Jong KRC Genk,4,4,1.533,4.000,5.250
+61755108,2026-02-06 19:00,RFC Liege,Koninklijke Lierse Sportkring,2,1,1.950,3.500,3.300
+61755100,2026-02-07 15:00,KAS Eupen,KV Kortrijk,1,0,4.000,3.600,1.800
+61755096,2026-02-07 19:00,K Beerschot VA,Club NXT,2,1,,,
+61755104,2026-02-07 19:00,KSC Lokeren-Temse,Olympic Club De Charleroi,1,1,1.550,4.000,5.000
+61755110,2026-02-07 19:00,RFC Seraing,RSC Anderlecht Futures,1,2,,,
+61755098,2026-02-08 15:00,SK Beveren,Lommel SK,2,0,1.615,3.800,4.500
+61755102,2026-02-08 15:00,Royal Francs Borains,RWDM Brussels,0,0,1.850,3.500,3.700
+61755112,2026-02-13 19:00,Club NXT,Patro Eisden Maasmechelen,2,3,,,
+61755122,2026-02-13 19:00,Koninklijke Lierse Sportkring,RFC Seraing,0,1,2.050,3.200,3.200
+61755126,2026-02-14 15:00,Lommel SK,RSC Anderlecht Futures,2,0,,,
+61755114,2026-02-14 19:00,RWDM Brussels,KSC Lokeren-Temse,1,2,3.100,3.400,2.000
+61755118,2026-02-14 19:00,Jong KRC Genk,RFC Liege,2,0,2.600,3.200,2.375
+61755124,2026-02-14 19:00,KV Kortrijk,K Beerschot VA,1,0,2.300,3.100,2.750
+61755116,2026-02-15 15:00,Royal Francs Borains,SK Beveren,0,2,5.750,3.800,1.480
+61755120,2026-02-15 15:00,Jeugd KAA Gent B,Olympic Club De Charleroi,1,3,,,
+61755128,2026-02-20 19:00,RSC Anderlecht Futures,Jong KRC Genk,2,1,,,
+61755140,2026-02-20 19:00,RFC Liege,Club NXT,3,2,,,
+61755142,2026-02-21 15:00,RFC Seraing,KV Kortrijk,0,0,5.500,3.700,1.500
+61755132,2026-02-21 19:00,KAS Eupen,Royal Francs Borains,1,1,2.050,3.250,3.000
+61755134,2026-02-21 19:00,Koninklijke Lierse Sportkring,Jeugd KAA Gent B,1,3,,,
+61755136,2026-02-21 19:00,KSC Lokeren-Temse,Lommel SK,2,3,2.450,3.300,2.450
+61755130,2026-02-22 15:00,K Beerschot VA,RWDM Brussels,1,1,1.420,4.000,6.250
+61755138,2026-02-22 15:00,Patro Eisden Maasmechelen,SK Beveren,1,4,4.000,3.200,1.800
+61755154,2026-02-27 19:00,Jeugd KAA Gent B,Patro Eisden Maasmechelen,2,1,,,
+61755156,2026-02-27 19:00,KV Kortrijk,RFC Liege,3,1,1.600,3.400,5.000
+61755144,2026-02-28 15:00,SK Beveren,Olympic Club De Charleroi,2,0,1.285,4.750,9.500
+61755146,2026-02-28 19:00,Club NXT,RSC Anderlecht Futures,0,5,,,
+61755150,2026-02-28 19:00,Royal Francs Borains,K Beerschot VA,0,2,3.600,3.400,1.833
+61755152,2026-02-28 19:00,Jong KRC Genk,Koninklijke Lierse Sportkring,2,3,2.150,3.400,2.750
+61755148,2026-03-01 15:00,RWDM Brussels,KAS Eupen,2,2,2.600,3.250,2.375
+61755158,2026-03-01 15:00,Lommel SK,RFC Seraing,0,1,1.533,4.000,5.000
+61755162,2026-03-06 19:00,K Beerschot VA,Jong KRC Genk,1,0,1.500,3.900,5.000
+61755164,2026-03-06 19:00,KAS Eupen,Jeugd KAA Gent B,4,0,1.950,3.400,3.100
+61755166,2026-03-07 15:00,Koninklijke Lierse Sportkring,Club NXT,2,1,,,
+61755160,2026-03-07 19:00,RSC Anderlecht Futures,Patro Eisden Maasmechelen,0,0,,,
+61755170,2026-03-07 19:00,Lommel SK,KV Kortrijk,1,1,,,
+61755172,2026-03-07 19:00,Olympic Club De Charleroi,RWDM Brussels,0,2,,,
+61755168,2026-03-08 12:30,KSC Lokeren-Temse,SK Beveren,1,2,,,
+61755174,2026-03-08 15:00,RFC Seraing,Royal Francs Borains,4,0,,,
+61755176,2026-03-10 19:00,K Beerschot VA,RSC Anderlecht Futures,4,2,,,
+61755180,2026-03-10 19:00,KAS Eupen,Koninklijke Lierse Sportkring,0,1,,,
+61755184,2026-03-10 19:00,Jong KRC Genk,Club NXT,0,0,,,
+61755190,2026-03-10 19:00,Patro Eisden Maasmechelen,RFC Liege,1,1,,,
+61755178,2026-03-11 19:00,SK Beveren,RWDM Brussels,3,2,,,
+61755186,2026-03-11 19:00,Jeugd KAA Gent B,Lommel SK,2,2,3.250,3.500,1.950
+61755188,2026-03-11 19:00,Olympic Club De Charleroi,RFC Seraing,2,4,,,
+61755182,2026-03-12 19:00,Royal Francs Borains,KSC Lokeren-Temse,1,0,,,
+61755192,2026-03-13 19:00,RSC Anderlecht Futures,KAS Eupen,0,1,,,
+61755196,2026-03-13 19:00,Koninklijke Lierse Sportkring,Patro Eisden Maasmechelen,1,2,,,
+61755194,2026-03-14 15:00,Club NXT,SK Beveren,2,2,,,
+61755198,2026-03-14 19:00,KV Kortrijk,Olympic Club De Charleroi,3,1,,,
+61755204,2026-03-14 19:00,RFC Liege,K Beerschot VA,0,1,,,
+61755206,2026-03-14 19:00,RFC Seraing,Jong KRC Genk,2,2,2.300,3.300,2.600
+61755200,2026-03-15 15:00,KSC Lokeren-Temse,Jeugd KAA Gent B,4,1,2.050,3.500,3.200
+61755202,2026-03-15 15:00,Lommel SK,Royal Francs Borains,3,1,,,
+61755212,2026-03-20 19:00,KAS Eupen,RFC Seraing,0,0,,,
+61755220,2026-03-20 19:00,Olympic Club De Charleroi,Jong KRC Genk,1,2,2.150,3.500,2.700
+61755222,2026-03-20 19:00,Patro Eisden Maasmechelen,K Beerschot VA,0,4,,,
+61755214,2026-03-21 15:00,Royal Francs Borains,KV Kortrijk,4,1,,,
+61755216,2026-03-21 15:00,Jeugd KAA Gent B,Club NXT,3,2,,,
+61755208,2026-03-21 19:00,SK Beveren,RFC Liege,4,0,,,
+61755210,2026-03-21 19:00,RWDM Brussels,Koninklijke Lierse Sportkring,1,1,,,
+61755218,2026-03-21 19:00,KSC Lokeren-Temse,RSC Anderlecht Futures,4,2,,,
+61755228,2026-04-03 18:00,Jong KRC Genk,KSC Lokeren-Temse,2,2,3.600,3.600,1.800
+61755232,2026-04-03 18:00,KV Kortrijk,Jeugd KAA Gent B,2,0,1.300,4.750,7.500
+61755224,2026-04-04 14:00,RSC Anderlecht Futures,SK Beveren,0,5,,,
+61755226,2026-04-04 18:00,Club NXT,KAS Eupen,0,1,,,
+61755230,2026-04-04 18:00,Koninklijke Lierse Sportkring,Royal Francs Borains,0,2,,,
+61755234,2026-04-04 18:00,Lommel SK,RWDM Brussels,3,2,,,
+61755236,2026-04-05 14:00,RFC Liege,Olympic Club De Charleroi,2,1,,,
+61755238,2026-04-05 14:00,RFC Seraing,Patro Eisden Maasmechelen,2,0,,,
+61755244,2026-04-10 18:00,KAS Eupen,K Beerschot VA,3,3,,,
+61755250,2026-04-10 18:00,KSC Lokeren-Temse,RFC Seraing,1,1,,,
+61755242,2026-04-11 14:00,RWDM Brussels,RSC Anderlecht Futures,2,1,,,
+61755240,2026-04-11 18:00,SK Beveren,KV Kortrijk,1,0,,,
+61755246,2026-04-11 18:00,Royal Francs Borains,Jong KRC Genk,2,2,1.833,3.500,3.500
+61755252,2026-04-11 18:00,Lommel SK,Club NXT,0,1,,,
+61755254,2026-04-11 18:00,Olympic Club De Charleroi,Koninklijke Lierse Sportkring,0,1,,,
+61755248,2026-04-12 14:00,Jeugd KAA Gent B,RFC Liege,0,2,2.400,3.250,2.500
+61755256,2026-04-17 18:00,RSC Anderlecht Futures,Olympic Club De Charleroi,5,0,,,
+61755258,2026-04-17 18:00,K Beerschot VA,Lommel SK,2,1,,,
+61755260,2026-04-17 18:00,Jong KRC Genk,Jeugd KAA Gent B,1,1,1.800,3.900,3.300
+61755262,2026-04-17 18:00,Koninklijke Lierse Sportkring,KSC Lokeren-Temse,1,1,,,
+61755264,2026-04-17 18:00,KV Kortrijk,RWDM Brussels,3,1,,,
+61755266,2026-04-17 18:00,Patro Eisden Maasmechelen,Royal Francs Borains,4,0,,,
+61755268,2026-04-17 18:00,RFC Liege,KAS Eupen,2,1,,,
+61755270,2026-04-17 18:00,RFC Seraing,SK Beveren,1,2,,,
+72302072,2026-08-14 18:00,Sporting Hasselt,FCV Dender EH,1,0,2.400,3.200,2.625
+72302074,2026-08-14 18:00,RFC Seraing,KSC Lokeren-Temse,0,2,2.625,3.200,2.375
+72302076,2026-08-15 14:00,KAS Eupen,Jong KRC Genk,4,1,1.550,3.750,4.750
+72302078,2026-08-15 14:00,Patro Eisden Maasmechelen,RSC Anderlecht Futures,2,1,,,
+72302080,2026-08-15 18:00,Royal Excelsior Virton,Koninklijke Lierse Sportkring,3,0,2.050,3.500,3.000
+72302082,2026-08-16 14:00,K Beerschot VA,Jeugd KAA Gent B,4,0,1.420,4.000,6.000
+72302084,2026-08-17 18:00,RFC Liege,Royal Francs Borains,1,2,1.900,3.250,3.700
+72302086,2026-08-21 18:00,KSC Lokeren-Temse,KAS Eupen,2,1,2.150,3.500,2.800
+72302088,2026-08-21 18:00,RSC Anderlecht Futures,Royal Excelsior Virton,0,1,1.900,3.700,3.100
+72302090,2026-08-22 14:00,Club NXT,RFC Seraing,3,2,,,
+72302092,2026-08-22 14:00,FCV Dender EH,K Beerschot VA,2,0,3.100,3.400,2.000
+72302094,2026-08-22 18:00,Koninklijke Lierse Sportkring,Patro Eisden Maasmechelen,2,1,3.000,3.000,2.200
+72302096,2026-08-23 14:00,Jong KRC Genk,RFC Liege,2,3,2.700,3.600,2.200
+72302098,2026-08-23 17:15,Royal Francs Borains,Sporting Hasselt,0,1,2.150,3.500,2.750
+72302100,2026-08-28 18:00,KSC Lokeren-Temse,Jong KRC Genk,2,4,1.480,4.333,5.000
+72302102,2026-08-28 18:00,Sporting Hasselt,Jeugd KAA Gent B,0,2,1.600,3.800,4.333
+72302104,2026-08-29 14:00,RFC Liege,FCV Dender EH,1,2,2.875,3.400,2.100
+72302106,2026-08-29 14:00,RSC Anderlecht Futures,K Beerschot VA,0,1,5.000,4.000,1.480
+72302108,2026-08-29 18:00,Patro Eisden Maasmechelen,Club NXT,1,2,,,
+72302110,2026-08-30 14:00,Royal Excelsior Virton,Royal Francs Borains,0,1,2.600,3.250,2.350
+72302112,2026-08-30 17:15,RFC Seraing,Koninklijke Lierse Sportkring,1,1,2.150,3.300,2.875
+72302114,2026-09-04 18:00,K Beerschot VA,Patro Eisden Maasmechelen,4,2,1.615,3.500,4.500
+72302116,2026-09-04 18:00,FCV Dender EH,RFC Seraing,2,0,1.480,3.900,5.250
+72302118,2026-09-05 11:30,Jeugd KAA Gent B,RSC Anderlecht Futures,2,2,2.100,3.400,2.800
+72302120,2026-09-05 14:00,Club NXT,KAS Eupen,0,1,,,
+72302122,2026-09-05 18:00,Jong KRC Genk,Sporting Hasselt,3,0,3.300,3.600,1.833
+72302124,2026-09-06 14:00,Koninklijke Lierse Sportkring,RFC Liege,0,0,2.450,3.300,2.450
+72302126,2026-09-06 17:15,Royal Francs Borains,KSC Lokeren-Temse,3,0,2.200,3.500,2.700
+72302128,2026-09-11 18:00,Jeugd KAA Gent B,FCV Dender EH,0,1,4.000,3.750,1.666
+72302130,2026-09-11 18:00,K Beerschot VA,Koninklijke Lierse Sportkring,3,1,1.420,4.200,6.000
+72302132,2026-09-12 14:00,RSC Anderlecht Futures,KSC Lokeren-Temse,2,6,2.900,3.600,2.050
+72302134,2026-09-12 14:00,RFC Seraing,Sporting Hasselt,1,2,2.900,3.600,2.000
+72302136,2026-09-12 18:00,Royal Excelsior Virton,Jong KRC Genk,3,0,2.050,3.500,2.900
+72302138,2026-09-13 14:00,RFC Liege,Club NXT,4,4,,,
+72302140,2026-09-13 17:15,Patro Eisden Maasmechelen,KAS Eupen,1,2,2.100,3.250,3.000
+72302142,2026-09-18 18:00,Club NXT,Jeugd KAA Gent B,2,2,,,
+72302144,2026-09-18 18:00,Royal Francs Borains,RSC Anderlecht Futures,3,2,1.800,3.700,3.800
+72302146,2026-09-19 14:00,Jong KRC Genk,RFC Seraing,2,2,,,
+72302150,2026-09-19 14:00,Sporting Hasselt,K Beerschot VA,0,1,,,
+72302148,2026-09-19 18:00,KAS Eupen,RFC Liege,3,1,1.615,3.900,4.500
+72302152,2026-09-20 14:00,KSC Lokeren-Temse,Royal Excelsior Virton,1,1,1.900,3.500,3.400
+72302154,2026-09-20 17:15,FCV Dender EH,Patro Eisden Maasmechelen,1,0,1.615,3.750,5.000
+72302156,2026-10-09 18:00,FCV Dender EH,Club NXT,3,0,,,
+72302158,2026-10-09 18:00,RSC Anderlecht Futures,KAS Eupen,0,2,3.750,3.750,1.700
+72302162,2026-10-10 14:00,Royal Excelsior Virton,Sporting Hasselt,3,4,2.400,3.400,2.400
+72302168,2026-10-10 14:00,Koninklijke Lierse Sportkring,Royal Francs Borains,3,0,3.100,3.500,1.950
+72302164,2026-10-10 18:00,K Beerschot VA,RFC Liege,5,1,1.420,4.333,5.500
+72302160,2026-10-11 14:00,Patro Eisden Maasmechelen,Jong KRC Genk,1,0,1.650,3.700,4.200
+72302166,2026-10-11 17:15,Jeugd KAA Gent B,RFC Seraing,3,2,2.000,3.300,3.200
+72302170,2026-10-24 14:00,RFC Seraing,Royal Excelsior Virton,3,1,2.350,3.200,2.700
+72302178,2026-10-24 14:00,Jong KRC Genk,Club NXT,0,0,,,
+72302174,2026-10-24 18:00,KSC Lokeren-Temse,Jeugd KAA Gent B,2,0,1.420,4.200,5.500
+72302172,2026-10-25 15:00,KAS Eupen,K Beerschot VA,1,2,2.600,3.300,2.350
+72302176,2026-10-25 18:15,RFC Liege,Patro Eisden Maasmechelen,2,3,3.500,3.300,1.850
+72302184,2026-10-30 19:00,Jeugd KAA Gent B,Koninklijke Lierse Sportkring,2,0,2.350,3.400,2.500
+72302194,2026-10-30 19:00,RFC Seraing,RFC Liege,1,0,1.850,3.600,3.600
+72302188,2026-10-31 15:00,K Beerschot VA,Royal Francs Borains,3,0,1.571,3.900,5.000
+72302190,2026-10-31 15:00,Patro Eisden Maasmechelen,KSC Lokeren-Temse,3,1,2.550,3.400,2.450
+72302196,2026-10-31 19:00,Club NXT,Sporting Hasselt,3,4,2.450,3.700,2.450
+72302186,2026-11-01 15:00,FCV Dender EH,Jong KRC Genk,1,1,1.666,4.000,4.200
+72302192,2026-11-01 18:15,KAS Eupen,Royal Excelsior Virton,1,2,1.533,4.200,5.000
+75953682,2026-11-04 19:00,RSC Anderlecht Futures,Koninklijke Lierse Sportkring,1,0,2.150,3.500,2.700
+75953684,2026-11-04 19:00,Royal Francs Borains,FCV Dender EH,1,0,3.000,3.300,2.050
+72302202,2026-11-06 19:00,Sporting Hasselt,Patro Eisden Maasmechelen,1,2,2.100,3.700,2.875
+72302204,2026-11-06 19:00,Jong KRC Genk,Jeugd KAA Gent B,1,1,2.200,3.700,2.700
+72302198,2026-11-07 15:00,RSC Anderlecht Futures,Club NXT,4,0,2.600,3.500,2.200
+72302208,2026-11-07 15:00,Royal Francs Borains,RFC Seraing,1,0,1.909,3.400,3.700
+72302210,2026-11-07 19:00,Royal Excelsior Virton,K Beerschot VA,1,2,4.333,3.900,1.650
+72302200,2026-11-08 15:00,Koninklijke Lierse Sportkring,KAS Eupen,2,3,4.000,3.700,1.700
+72302206,2026-11-08 18:15,KSC Lokeren-Temse,FCV Dender EH,2,2,2.400,3.400,2.500

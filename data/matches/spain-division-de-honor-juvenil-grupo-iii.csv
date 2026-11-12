@@ -1,0 +1,64 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+72883624,2026-09-05 16:00,CF Atletico de Monzon U19,CD Espanyol Barcelona,3,6,,,
+72883626,2026-09-05 16:00,FC Barcelona,SD Huesca,6,0,1.062,11.000,17.000
+72883616,2026-09-06 10:00,CF Badalona,CD Oberena,5,3,,,
+72883622,2026-09-06 10:00,CA Osasuna,UD Valle de Aranguren U19,1,2,,,
+72883628,2026-09-06 14:00,CE Sabadell FC,UD Montecarlo,2,1,2.100,3.600,2.800
+72883630,2026-09-06 15:00,Racing Club Zaragoza,Gimnastic Manresa CF,0,1,,,
+72883618,2026-09-06 16:00,UE Sant Andreu,CF Damm,2,2,,,
+72883620,2026-09-06 16:00,Real Zaragoza,Girona FC,3,3,,,
+72883636,2026-09-12 15:00,Girona FC,UE Sant Andreu,4,0,1.571,3.600,5.000
+72883640,2026-09-12 16:00,CD Espanyol Barcelona,CA Osasuna,3,0,1.363,4.750,5.500
+72883642,2026-09-12 16:30,SD Huesca,CF Atletico de Monzon U19,1,1,1.800,3.400,3.750
+72883632,2026-09-13 10:00,CD Oberena,Racing Club Zaragoza,5,0,,,
+72883638,2026-09-13 10:30,UD Valle de Aranguren U19,Real Zaragoza,0,3,,,
+72883644,2026-09-13 15:00,UD Montecarlo,FC Barcelona,0,6,,,
+72883646,2026-09-13 16:00,Gimnastic Manresa CF,CE Sabadell FC,3,3,,,
+72883634,2026-09-13 18:00,CF Damm,CF Badalona,1,1,1.363,4.333,6.500
+72883662,2026-09-19 14:00,Racing Club Zaragoza,CE Sabadell FC,2,2,,,
+72883650,2026-09-20 10:00,CF Badalona,Girona FC,2,2,3.250,3.800,1.833
+72883656,2026-09-20 10:00,CA Osasuna,SD Huesca,4,3,1.750,3.800,3.500
+72883660,2026-09-20 10:00,FC Barcelona,Gimnastic Manresa CF,6,1,1.055,15.000,21.000
+72883654,2026-09-20 15:00,Real Zaragoza,CD Espanyol Barcelona,0,1,3.000,3.750,1.950
+72883652,2026-09-20 16:00,UE Sant Andreu,UD Valle de Aranguren U19,0,0,2.150,4.333,2.400
+72883672,2026-10-03 14:30,SD Huesca,Real Zaragoza,1,0,3.400,3.750,1.800
+72883668,2026-10-03 15:00,UD Valle de Aranguren U19,CF Badalona,1,1,,,
+72883674,2026-10-03 15:30,UD Montecarlo,CA Osasuna,1,3,2.875,3.700,2.000
+72883676,2026-10-03 16:30,Gimnastic Manresa CF,CF Atletico de Monzon U19,3,2,,,
+72883678,2026-10-04 14:00,CE Sabadell FC,FC Barcelona,4,3,15.000,8.000,1.125
+72883670,2026-10-04 16:00,CD Espanyol Barcelona,UE Sant Andreu,4,0,1.142,7.000,13.000
+72883688,2026-10-10 08:30,Real Zaragoza,UD Montecarlo,5,2,1.333,4.333,7.500
+72883694,2026-10-10 14:00,Racing Club Zaragoza,FC Barcelona,1,1,,,
+72883684,2026-10-10 14:30,CF Badalona,CD Espanyol Barcelona,1,4,5.500,4.750,1.380
+72883692,2026-10-10 15:00,CF Atletico de Monzon U19,CE Sabadell FC,0,2,,,
+72883680,2026-10-10 16:00,CF Damm,Girona FC,3,1,2.400,3.600,2.375
+72883682,2026-10-10 17:00,CD Oberena,UD Valle de Aranguren U19,2,2,1.700,4.000,3.600
+72883690,2026-10-11 10:00,CA Osasuna,Gimnastic Manresa CF,2,4,1.909,3.700,3.100
+72883686,2026-10-11 16:00,UE Sant Andreu,SD Huesca,0,1,2.900,3.700,2.000
+72883698,2026-10-17 10:00,UD Valle de Aranguren U19,CF Damm,1,2,2.800,3.700,2.050
+72883710,2026-10-17 10:00,FC Barcelona,CF Atletico de Monzon U19,3,1,1.055,15.000,23.000
+72883696,2026-10-17 12:30,Girona FC,Racing Club Zaragoza,2,1,,,
+72883702,2026-10-17 14:00,SD Huesca,CF Badalona,2,2,,,
+72883708,2026-10-17 14:00,CE Sabadell FC,CA Osasuna,1,0,1.833,3.800,3.300
+72883704,2026-10-17 15:00,UD Montecarlo,UE Sant Andreu,1,0,2.350,3.500,2.500
+72883700,2026-10-17 15:30,CD Espanyol Barcelona,CD Oberena,3,0,1.250,5.500,7.500
+72883706,2026-10-17 16:15,Gimnastic Manresa CF,Real Zaragoza,1,1,3.100,3.800,1.900
+72883712,2026-10-25 11:00,Girona FC,UD Valle de Aranguren U19,4,1,,,
+72883716,2026-10-25 11:00,CD Oberena,SD Huesca,1,3,1.950,3.750,3.000
+72883724,2026-10-25 11:00,CA Osasuna,FC Barcelona,0,6,,,
+72883726,2026-10-25 15:30,Racing Club Zaragoza,CF Atletico de Monzon U19,5,2,,,
+72883740,2026-10-31 11:00,FC Barcelona,Real Zaragoza,1,1,1.222,7.000,8.500
+72883732,2026-10-31 15:00,SD Huesca,CF Damm,0,2,,,
+72883738,2026-10-31 15:30,CE Sabadell FC,UE Sant Andreu,1,1,1.400,4.500,5.500
+72883742,2026-10-31 16:00,CF Atletico de Monzon,CA Osasuna,0,2,,,
+72883736,2026-10-31 17:15,Gimnastic Manresa CF,CF Badalona,2,3,,,
+72883728,2026-11-01 11:00,UD Valle de Aranguren,Racing Club Zaragoza,5,1,2.200,3.600,2.625
+72883730,2026-11-01 11:00,CD Espanyol Barcelona,Girona FC,2,1,1.420,4.500,5.250
+72883744,2026-11-07 11:00,UD Valle de Aranguren,CD Espanyol Barcelona,1,2,8.000,6.250,1.222
+72883752,2026-11-07 15:00,CF Badalona,CE Sabadell FC,1,0,2.000,3.700,2.875
+72883748,2026-11-07 16:00,CF Damm,UD Montecarlo,9,0,1.166,7.000,10.000
+72883750,2026-11-08 11:00,CD Oberena,Gimnastic Manresa CF,0,2,2.550,3.600,2.250
+72883756,2026-11-08 11:00,Real Zaragoza,CF Atletico de Monzon,2,0,,,
+72883746,2026-11-08 13:30,Girona FC,SD Huesca,2,0,1.444,4.500,5.000
+72883758,2026-11-08 15:30,Racing Club Zaragoza,CA Osasuna,1,4,2.200,3.500,2.625
+72883754,2026-11-08 17:00,UE Sant Andreu,FC Barcelona,1,3,15.000,9.500,1.100

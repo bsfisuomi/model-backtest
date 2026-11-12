@@ -1,0 +1,345 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+63472049,2025-09-13 14:00,Kampaniakos,AO Kavala 1965,1,0,,,
+63472285,2025-09-13 14:00,GS Ilioupoli,Panargiakos FC,1,1,,,
+63472289,2025-09-13 14:00,AO Egaleo 1931 PAE,Athens Kallithea FC,1,2,,,
+63472293,2025-09-13 14:00,PAE PS Kalamata,GS Marko,2,0,,,
+63472043,2025-09-14 14:00,POT Iraklis,Asteras Tripolis B,2,2,,,
+63472045,2025-09-14 14:00,Anagennisi Karditsas 1904,Makedonikos FC,3,0,,,
+63472047,2025-09-14 14:00,Nestos Chrysoupoli FC,PAS Giannina,1,0,,,
+63472283,2025-09-14 14:00,Chania FC,Hellas Syrou,1,1,,,
+63472287,2025-09-14 14:00,Olympiacos Piraeus B,Panionios Athens,1,1,,,
+63472041,2025-09-15 14:00,Niki Volou 1924 PAE,PAOK Thessaloniki B,1,0,,,
+63472059,2025-09-20 11:00,PAOK Thessaloniki B,Anagennisi Karditsas 1904,0,1,,,
+63472051,2025-09-20 14:00,AO Kavala 1965,POT Iraklis,1,2,,,
+63472055,2025-09-20 14:00,Makedonikos FC,PAS Giannina,1,0,,,
+63472295,2025-09-20 14:00,GS Marko,GS Ilioupoli,1,0,,,
+63472299,2025-09-20 14:00,Chania FC,PAE PS Kalamata,1,2,,,
+63472301,2025-09-21 11:00,Panionios Athens,Athens Kallithea FC,1,0,,,
+63472053,2025-09-21 14:00,Niki Volou 1924 PAE,Kampaniakos,4,0,,,
+63472057,2025-09-21 14:00,Asteras Tripolis B,Nestos Chrysoupoli FC,2,1,,,
+63472305,2025-09-21 14:00,Panargiakos FC,AO Egaleo 1931 PAE,1,1,,,
+63472307,2025-09-21 14:00,Hellas Syrou,Olympiacos Piraeus B,0,1,,,
+63472313,2025-09-27 11:00,Panionios Athens,Panargiakos FC,3,1,,,
+63472063,2025-09-27 12:00,Makedonikos FC,Asteras Tripolis B,1,1,,,
+63472065,2025-09-27 14:00,PAS Giannina,PAOK Thessaloniki B,2,4,,,
+63472061,2025-09-28 11:00,Anagennisi Karditsas 1904,Niki Volou 1924 PAE,0,3,,,
+63472069,2025-09-28 11:00,Kampaniakos,POT Iraklis,0,1,,,
+63472317,2025-09-28 12:00,Athens Kallithea FC,Hellas Syrou,1,0,,,
+63472311,2025-09-28 13:00,Olympiacos Piraeus B,Chania FC,1,0,,,
+63472319,2025-09-28 14:00,AO Egaleo 1931 PAE,GS Marko,0,1,,,
+63472321,2025-09-28 14:00,PAE PS Kalamata,GS Ilioupoli,5,0,,,
+63472067,2025-09-29 14:00,Nestos Chrysoupoli FC,AO Kavala 1965,0,1,,,
+63472073,2025-10-04 11:00,Niki Volou 1924 PAE,PAS Giannina,1,0,,,
+63472077,2025-10-04 11:00,Anagennisi Karditsas 1904,Kampaniakos,2,0,,,
+63472079,2025-10-04 11:00,PAOK Thessaloniki B,Asteras Tripolis B,0,1,,,
+63472327,2025-10-04 11:00,GS Ilioupoli,AO Egaleo 1931 PAE,1,2,,,
+63472331,2025-10-05 10:00,Hellas Syrou,Panargiakos FC,5,0,,,
+63472075,2025-10-05 11:00,POT Iraklis,Nestos Chrysoupoli FC,3,1,,,
+63472323,2025-10-05 11:00,GS Marko,Panionios Athens,1,1,,,
+63472325,2025-10-05 11:00,Chania FC,Athens Kallithea FC,1,3,,,
+63472329,2025-10-05 11:00,Olympiacos Piraeus B,PAE PS Kalamata,1,4,,,
+63472071,2025-10-05 13:00,AO Kavala 1965,Makedonikos FC,1,1,,,
+63472081,2025-10-11 11:00,Asteras Tripolis B,Niki Volou 1924 PAE,3,1,,,
+63472083,2025-10-11 11:00,Makedonikos FC,POT Iraklis,1,4,,,
+63472339,2025-10-11 11:00,PAE PS Kalamata,AO Egaleo 1931 PAE,1,1,,,
+63472087,2025-10-11 13:00,Kampaniakos,Nestos Chrysoupoli FC,1,1,,,
+63472337,2025-10-11 13:00,GS Marko,Hellas Syrou,1,1,,,
+63472333,2025-10-12 11:00,Panargiakos FC,Chania FC,0,0,,,
+63472335,2025-10-12 11:00,Panionios Athens,GS Ilioupoli,2,0,,,
+63472341,2025-10-12 11:00,Athens Kallithea FC,Olympiacos Piraeus B,2,3,,,
+63472085,2025-10-12 13:00,AO Kavala 1965,PAOK Thessaloniki B,1,1,,,
+63472089,2025-10-12 13:00,PAS Giannina,Anagennisi Karditsas 1904,0,0,,,
+63472093,2025-10-18 11:00,POT Iraklis,PAOK Thessaloniki B,2,1,,,
+63472343,2025-10-18 11:00,Chania FC,GS Marko,1,1,,,
+63472345,2025-10-18 11:00,GS Ilioupoli,Hellas Syrou,1,2,,,
+63472347,2025-10-18 11:00,Olympiacos Piraeus B,Panargiakos FC,2,1,,,
+63472091,2025-10-18 13:00,Niki Volou 1924 PAE,AO Kavala 1965,6,0,,,
+63472097,2025-10-18 13:00,Nestos Chrysoupoli FC,Makedonikos FC,1,0,,,
+63472095,2025-10-19 11:00,Anagennisi Karditsas 1904,Asteras Tripolis B,2,0,,,
+63472099,2025-10-19 11:00,PAS Giannina,Kampaniakos,3,0,,,
+63472349,2025-10-19 11:00,AO Egaleo 1931 PAE,Panionios Athens,0,1,,,
+63472351,2025-10-19 11:00,Athens Kallithea FC,PAE PS Kalamata,1,2,,,
+63472361,2025-10-25 10:00,Hellas Syrou,AO Egaleo 1931 PAE,0,0,,,
+63472103,2025-10-25 11:00,POT Iraklis,Niki Volou 1924 PAE,0,0,,,
+63472107,2025-10-25 11:00,Asteras Tripolis B,PAS Giannina,2,1,,,
+63472101,2025-10-25 12:00,AO Kavala 1965,Anagennisi Karditsas 1904,2,3,,,
+63472355,2025-10-25 12:00,GS Ilioupoli,Chania FC,0,2,,,
+63472359,2025-10-25 12:00,Panargiakos FC,Athens Kallithea FC,0,4,,,
+63472357,2025-10-26 12:00,Panionios Athens,PAE PS Kalamata,1,1,,,
+63472105,2025-10-26 13:00,Makedonikos FC,Kampaniakos,0,1,,,
+63472109,2025-10-26 13:00,PAOK Thessaloniki B,Nestos Chrysoupoli FC,2,0,,,
+63472353,2025-10-26 13:00,GS Marko,Olympiacos Piraeus B,2,0,,,
+63472367,2025-11-01 12:00,Athens Kallithea FC,GS Marko,1,1,,,
+63472113,2025-11-01 13:00,PAOK Thessaloniki B,Makedonikos FC,3,0,,,
+63472117,2025-11-01 13:00,Nestos Chrysoupoli FC,Niki Volou 1924 PAE,0,0,,,
+63472363,2025-11-01 13:00,PAE PS Kalamata,Panargiakos FC,5,1,,,
+63472371,2025-11-01 13:00,Olympiacos Piraeus B,GS Ilioupoli,2,3,,,
+63472365,2025-11-02 11:00,Hellas Syrou,Panionios Athens,1,2,,,
+63472111,2025-11-02 12:00,Kampaniakos,Asteras Tripolis B,0,1,,,
+63472119,2025-11-02 12:00,Anagennisi Karditsas 1904,POT Iraklis,1,1,,,
+63472115,2025-11-02 13:00,PAS Giannina,AO Kavala 1965,0,0,,,
+63472369,2025-11-02 13:00,AO Egaleo 1931 PAE,Chania FC,1,0,,,
+63472125,2025-11-08 12:00,POT Iraklis,PAS Giannina,4,0,,,
+63472129,2025-11-08 12:00,Asteras Tripolis B,AO Kavala 1965,1,0,,,
+63472375,2025-11-08 13:00,Chania FC,Panionios Athens,0,2,,,
+63472121,2025-11-09 11:00,Kampaniakos,PAOK Thessaloniki B,0,0,,,
+63472373,2025-11-09 12:00,PAE PS Kalamata,Hellas Syrou,2,0,,,
+63472123,2025-11-09 13:00,Niki Volou 1924 PAE,Makedonikos FC,6,0,,,
+63472127,2025-11-09 13:00,Nestos Chrysoupoli FC,Anagennisi Karditsas 1904,0,1,,,
+63472381,2025-11-09 13:00,Panargiakos FC,GS Marko,0,1,,,
+63472377,2025-11-10 13:00,GS Ilioupoli,Athens Kallithea FC,0,1,,,
+63472383,2025-11-15 11:00,GS Marko,PAE PS Kalamata,2,3,,,
+63472135,2025-11-15 12:00,Makedonikos FC,Anagennisi Karditsas 1904,0,1,,,
+63472133,2025-11-15 13:00,PAS Giannina,Nestos Chrysoupoli FC,0,1,,,
+63472137,2025-11-15 13:00,PAOK Thessaloniki B,Niki Volou 1924 PAE,1,6,,,
+63472389,2025-11-16 11:00,Hellas Syrou,Chania FC,4,1,,,
+63472139,2025-11-16 12:00,Asteras Tripolis B,POT Iraklis,0,1,,,
+63472131,2025-11-16 13:00,AO Kavala 1965,Kampaniakos,1,0,,,
+63472385,2025-11-16 13:00,Athens Kallithea FC,AO Egaleo 1931 PAE,1,1,,,
+63472391,2025-11-16 13:00,Panargiakos FC,GS Ilioupoli,0,2,,,
+63472141,2025-11-22 12:00,POT Iraklis,AO Kavala 1965,1,0,,,
+63472401,2025-11-22 12:00,Olympiacos Piraeus B,Hellas Syrou,2,2,,,
+63472143,2025-11-22 13:00,Kampaniakos,Niki Volou 1924 PAE,1,3,,,
+63472149,2025-11-22 13:00,Anagennisi Karditsas 1904,PAOK Thessaloniki B,2,1,,,
+63472395,2025-11-22 13:00,PAE PS Kalamata,Chania FC,1,0,,,
+63472147,2025-11-23 12:00,Nestos Chrysoupoli FC,Asteras Tripolis B,0,1,,,
+63472397,2025-11-23 12:00,Athens Kallithea FC,Panionios Athens,0,1,,,
+63472145,2025-11-23 13:00,PAS Giannina,Makedonikos FC,1,0,,,
+63472393,2025-11-23 13:00,GS Ilioupoli,GS Marko,1,2,,,
+63472399,2025-11-23 13:00,AO Egaleo 1931 PAE,Panargiakos FC,0,0,,,
+63472409,2025-11-29 12:00,Chania FC,Olympiacos Piraeus B,1,0,,,
+63472411,2025-11-29 12:00,GS Ilioupoli,PAE PS Kalamata,0,3,,,
+63472151,2025-11-29 13:00,AO Kavala 1965,Nestos Chrysoupoli FC,1,0,,,
+63472155,2025-11-29 13:00,PAOK Thessaloniki B,PAS Giannina,1,0,,,
+63472403,2025-11-29 13:00,GS Marko,AO Egaleo 1931 PAE,3,0,,,
+63472407,2025-11-30 11:00,Hellas Syrou,Athens Kallithea FC,2,0,,,
+63472153,2025-11-30 12:00,Asteras Tripolis B,Makedonikos FC,3,0,,,
+63472157,2025-11-30 12:00,Niki Volou 1924 PAE,Anagennisi Karditsas 1904,0,0,,,
+63472159,2025-11-30 13:00,POT Iraklis,Kampaniakos,2,2,,,
+63472405,2025-11-30 13:00,Panargiakos FC,Panionios Athens,0,3,,,
+65837036,2025-12-03 13:00,Panionios Athens,Olympiacos Piraeus B,4,1,,,
+63472169,2025-12-06 12:00,Asteras Tripolis B,PAOK Thessaloniki B,1,1,,,
+63472419,2025-12-06 12:00,PAE PS Kalamata,Olympiacos Piraeus B,3,1,,,
+63472163,2025-12-06 13:00,PAS Giannina,Niki Volou 1924 PAE,1,1,,,
+63472167,2025-12-06 13:00,Kampaniakos,Anagennisi Karditsas 1904,0,3,,,
+63472161,2025-12-07 11:00,Makedonikos FC,AO Kavala 1965,0,1,,,
+63472413,2025-12-07 12:00,Panionios Athens,GS Marko,1,0,,,
+63472165,2025-12-07 13:00,Nestos Chrysoupoli FC,POT Iraklis,1,2,,,
+63472415,2025-12-07 13:00,Athens Kallithea FC,Chania FC,2,0,,,
+63472417,2025-12-07 13:00,AO Egaleo 1931 PAE,GS Ilioupoli,3,0,,,
+63472421,2025-12-07 13:00,Panargiakos FC,Hellas Syrou,1,3,,,
+63472431,2025-12-13 11:00,Olympiacos Piraeus B,Athens Kallithea FC,0,0,3.500,3.300,2.050
+63472427,2025-12-13 11:30,Hellas Syrou,GS Marko,0,2,2.375,3.100,3.100
+63472429,2025-12-13 12:00,AO Egaleo 1931 PAE,PAE PS Kalamata,0,2,17.000,6.500,1.166
+63472175,2025-12-13 13:00,PAOK Thessaloniki B,AO Kavala 1965,0,2,1.850,3.100,4.750
+63472177,2025-12-13 13:00,Nestos Chrysoupoli FC,Kampaniakos,2,0,1.615,3.500,6.000
+63472171,2025-12-14 12:00,Niki Volou 1924 PAE,Asteras Tripolis B,3,1,1.533,3.800,6.250
+63472173,2025-12-14 13:00,POT Iraklis,Makedonikos FC,3,0,,,
+63472179,2025-12-14 13:00,Anagennisi Karditsas 1904,PAS Giannina,1,0,1.480,3.900,7.000
+63472423,2025-12-14 13:00,Chania FC,Panargiakos FC,2,0,1.400,4.100,9.000
+63472425,2025-12-14 13:00,GS Ilioupoli,Panionios Athens,0,1,23.000,8.500,1.090
+65837038,2025-12-17 13:00,AO Egaleo 1931 PAE,Olympiacos Piraeus B,0,3,2.450,3.250,2.875
+63472441,2025-12-20 12:00,PAE PS Kalamata,Athens Kallithea FC,2,0,1.450,3.900,7.500
+63472187,2025-12-20 13:00,Makedonikos FC,Nestos Chrysoupoli FC,2,2,,,
+63472189,2025-12-20 13:00,Kampaniakos,PAS Giannina,2,0,2.875,3.100,2.500
+63472433,2025-12-21 12:00,GS Marko,Chania FC,2,0,,,
+63472181,2025-12-21 13:00,AO Kavala 1965,Niki Volou 1924 PAE,2,2,5.500,3.750,1.600
+63472183,2025-12-21 13:00,PAOK Thessaloniki B,POT Iraklis,1,2,,,
+63472435,2025-12-21 13:00,Hellas Syrou,GS Ilioupoli,1,1,1.571,3.800,5.750
+63472437,2025-12-21 13:00,Panargiakos FC,Olympiacos Piraeus B,1,2,17.000,8.000,1.125
+63472439,2025-12-21 13:00,Panionios Athens,AO Egaleo 1931 PAE,1,0,1.200,6.000,12.000
+63472185,2025-12-22 12:00,Asteras Tripolis B,Anagennisi Karditsas 1904,0,1,6.000,2.900,1.750
+63472197,2026-01-10 12:00,Niki Volou 1924 PAE,POT Iraklis,1,1,,,
+63472193,2026-01-10 13:00,Nestos Chrysoupoli FC,PAOK Thessaloniki B,0,2,,,
+63472195,2026-01-10 13:00,Kampaniakos,Makedonikos FC,2,1,1.800,3.800,3.900
+63472443,2026-01-10 13:00,Athens Kallithea FC,Panargiakos FC,1,1,1.250,5.500,10.000
+63472445,2026-01-10 13:00,AO Egaleo 1931 PAE,Hellas Syrou,0,2,3.500,3.250,2.050
+63472191,2026-01-11 12:00,PAS Giannina,Asteras Tripolis B,1,1,3.000,3.200,2.350
+63472447,2026-01-11 12:00,PAE PS Kalamata,Panionios Athens,2,0,2.000,3.000,4.000
+63472199,2026-01-11 13:00,Anagennisi Karditsas 1904,AO Kavala 1965,3,0,1.285,5.000,10.000
+63472449,2026-01-11 13:00,Chania FC,GS Ilioupoli,0,2,3.500,3.200,2.200
+63472451,2026-01-11 13:00,Olympiacos Piraeus B,GS Marko,1,0,1.363,4.333,8.000
+63472201,2026-01-17 13:00,Asteras Tripolis B,Kampaniakos,4,1,3.600,3.800,1.850
+63472203,2026-01-17 13:00,POT Iraklis,Anagennisi Karditsas 1904,1,0,,,
+63472205,2026-01-17 13:00,Niki Volou 1924 PAE,Nestos Chrysoupoli FC,2,0,1.166,6.000,21.000
+63472207,2026-01-17 13:00,AO Kavala 1965,PAS Giannina,2,0,1.850,3.250,4.333
+63472209,2026-01-17 13:00,Makedonikos FC,PAOK Thessaloniki B,1,3,,,
+63472453,2026-01-18 13:00,Panargiakos FC,PAE PS Kalamata,0,2,23.000,7.500,1.111
+63472455,2026-01-18 13:00,GS Ilioupoli,Olympiacos Piraeus B,1,0,1.800,3.500,4.333
+63472457,2026-01-18 13:00,Chania FC,AO Egaleo 1931 PAE,1,3,1.850,3.300,4.333
+63472459,2026-01-18 13:00,GS Marko,Athens Kallithea FC,0,1,1.909,3.250,4.100
+63472461,2026-01-18 13:00,Panionios Athens,Hellas Syrou,0,0,1.300,4.750,11.000
+63472211,2026-01-24 13:00,PAOK Thessaloniki B,Kampaniakos,4,1,1.571,3.800,5.000
+63472213,2026-01-24 13:00,Makedonikos FC,Niki Volou 1924 PAE,0,1,13.000,5.500,1.222
+63472215,2026-01-24 13:00,PAS Giannina,POT Iraklis,1,2,,,
+63472217,2026-01-24 13:00,Anagennisi Karditsas 1904,Nestos Chrysoupoli FC,1,2,1.166,6.500,15.000
+63472219,2026-01-24 13:00,AO Kavala 1965,Asteras Tripolis B,1,1,,,
+63472463,2026-01-25 13:00,Hellas Syrou,PAE PS Kalamata,1,2,9.500,4.500,1.363
+63472465,2026-01-25 13:00,Panionios Athens,Chania FC,3,0,1.270,5.250,12.000
+63472467,2026-01-25 13:00,Athens Kallithea FC,GS Ilioupoli,1,1,1.727,3.300,5.250
+63472469,2026-01-25 13:00,Olympiacos Piraeus B,AO Egaleo 1931 PAE,2,1,1.444,4.000,7.500
+63472471,2026-01-25 13:00,GS Marko,Panargiakos FC,1,0,1.600,4.200,4.750
+68535926,2026-02-14 13:00,POT Iraklis,Asteras Tripolis B,2,0,1.300,4.750,11.000
+68535928,2026-02-14 13:00,Anagennisi Karditsas 1904,Niki Volou 1924 PAE,0,0,2.250,2.800,3.500
+68536080,2026-02-14 13:00,Kampaniakos,Nestos Chrysoupoli FC,0,0,5.250,3.900,1.600
+68536082,2026-02-14 13:00,Makedonikos FC,PAS Giannina,0,1,3.800,3.500,1.900
+68536084,2026-02-14 13:00,PAOK Thessaloniki B,AO Kavala 1965,4,0,1.615,3.700,5.500
+68535864,2026-02-15 13:00,GS Marko,Olympiacos Piraeus B,1,1,2.100,3.300,3.400
+68535866,2026-02-15 13:00,PAE PS Kalamata,Panionios Athens,0,2,1.900,3.200,4.500
+68535982,2026-02-15 13:00,Chania FC,Hellas Syrou,1,2,1.950,3.250,4.000
+68535984,2026-02-15 13:00,AO Egaleo 1931 PAE,Athens Kallithea FC,1,0,4.333,3.200,1.900
+68535986,2026-02-15 13:00,GS Ilioupoli,Panargiakos FC,1,0,1.363,4.200,9.500
+68535868,2026-02-21 13:00,Olympiacos Piraeus B,PAE PS Kalamata,0,3,,,
+68535870,2026-02-21 13:00,Panionios Athens,GS Marko,0,0,1.363,4.333,10.000
+68535988,2026-02-21 13:00,Athens Kallithea FC,GS Ilioupoli,1,0,2.150,3.000,3.600
+68535990,2026-02-21 13:00,Hellas Syrou,AO Egaleo 1931 PAE,3,0,,,
+68535992,2026-02-21 13:00,Panargiakos FC,Chania FC,0,1,5.250,3.750,1.615
+68535930,2026-02-22 13:00,Niki Volou 1924 PAE,POT Iraklis,0,1,2.375,3.100,3.100
+68535932,2026-02-22 13:00,Asteras Tripolis B,Anagennisi Karditsas 1904,1,0,5.500,3.200,1.727
+68536086,2026-02-22 13:00,AO Kavala 1965,Kampaniakos,0,0,1.750,3.400,4.750
+68536088,2026-02-22 13:00,PAS Giannina,PAOK Thessaloniki B,1,2,3.250,3.100,2.250
+68536090,2026-02-22 13:00,Nestos Chrysoupoli FC,Makedonikos FC,5,1,1.333,4.750,10.000
+68535934,2026-02-28 13:00,Asteras Tripolis B,Niki Volou 1924 PAE,1,1,4.200,3.000,2.000
+68535936,2026-02-28 13:00,Anagennisi Karditsas 1904,POT Iraklis,0,1,2.500,2.900,3.000
+68536092,2026-02-28 13:00,Kampaniakos,Makedonikos FC,1,2,1.650,3.700,5.000
+68536094,2026-02-28 13:00,Nestos Chrysoupoli FC,PAOK Thessaloniki B,1,0,2.450,2.900,3.100
+68536096,2026-02-28 13:00,AO Kavala 1965,PAS Giannina,3,0,1.909,3.200,4.333
+68535872,2026-03-01 13:00,PAE PS Kalamata,GS Marko,2,0,1.200,6.500,15.000
+68535874,2026-03-01 13:00,Olympiacos Piraeus B,Panionios Athens,2,1,7.500,4.100,1.444
+68535994,2026-03-01 13:00,Panargiakos FC,Athens Kallithea FC,0,1,8.500,4.000,1.400
+68535996,2026-03-01 13:00,Chania FC,AO Egaleo 1931 PAE,0,0,1.909,3.200,4.100
+68535998,2026-03-01 13:00,Hellas Syrou,GS Ilioupoli,1,1,2.300,3.000,3.300
+68535876,2026-03-07 13:00,Olympiacos Piraeus B,GS Marko,0,3,2.600,3.100,2.600
+68535878,2026-03-07 13:00,Panionios Athens,PAE PS Kalamata,0,1,2.875,2.700,2.750
+68536000,2026-03-07 13:00,GS Ilioupoli,Chania FC,0,1,1.571,3.800,5.250
+68536002,2026-03-07 13:00,AO Egaleo 1931 PAE,Panargiakos FC,1,0,1.444,4.000,7.000
+68536004,2026-03-07 13:00,Athens Kallithea FC,Hellas Syrou,1,1,1.700,3.400,5.000
+68535938,2026-03-08 13:00,Niki Volou 1924 PAE,Anagennisi Karditsas 1904,1,0,1.909,2.900,4.750
+68535940,2026-03-08 13:00,Asteras Tripolis B,POT Iraklis,0,2,4.200,3.300,1.900
+68536098,2026-03-08 13:00,PAS Giannina,Nestos Chrysoupoli FC,0,0,3.900,3.100,2.000
+68536100,2026-03-08 13:00,PAOK Thessaloniki B,Kampaniakos,3,0,1.166,7.000,13.000
+68536102,2026-03-08 13:00,Makedonikos FC,AO Kavala 1965,0,0,7.500,3.900,1.450
+68535942,2026-03-14 13:00,POT Iraklis,Niki Volou 1924 PAE,0,0,2.000,3.000,4.100
+68535944,2026-03-14 13:00,Anagennisi Karditsas 1904,Asteras Tripolis B,2,2,1.571,3.500,6.500
+68536104,2026-03-14 13:00,Nestos Chrysoupoli FC,AO Kavala 1965,2,1,2.450,2.875,3.100
+68536106,2026-03-14 13:00,Kampaniakos,PAS Giannina,3,2,2.750,3.200,2.550
+68536108,2026-03-14 13:00,Makedonikos FC,PAOK Thessaloniki B,0,1,7.000,5.000,1.363
+68535880,2026-03-15 13:00,PAE PS Kalamata,Olympiacos Piraeus B,1,0,1.650,4.500,3.900
+68535882,2026-03-15 13:00,GS Marko,Panionios Athens,2,1,3.300,3.000,2.250
+68536006,2026-03-15 13:00,Chania FC,Athens Kallithea FC,1,2,3.800,3.200,2.000
+68536008,2026-03-15 13:00,AO Egaleo 1931 PAE,GS Ilioupoli,2,0,1.533,4.500,5.000
+68536010,2026-03-15 13:00,Hellas Syrou,Panargiakos FC,3,1,1.181,5.750,19.000
+68535884,2026-03-21 13:00,GS Marko,PAE PS Kalamata,0,0,,,
+68535886,2026-03-21 13:00,Panionios Athens,Olympiacos Piraeus B,3,0,,,
+68536012,2026-03-21 13:00,Hellas Syrou,Chania FC,1,0,,,
+68536014,2026-03-21 13:00,Panargiakos FC,GS Ilioupoli,1,1,,,
+68536016,2026-03-21 13:00,Athens Kallithea FC,AO Egaleo 1931 PAE,1,1,1.615,3.750,5.500
+68535946,2026-03-22 13:00,Niki Volou 1924 PAE,Asteras Tripolis B,3,0,,,
+68535948,2026-03-22 13:00,POT Iraklis,Anagennisi Karditsas 1904,3,1,,,
+68536018,2026-03-29 12:00,GS Ilioupoli,Athens Kallithea FC,0,2,4.750,3.500,1.700
+68536020,2026-03-29 12:00,AO Egaleo 1931 PAE,Hellas Syrou,2,1,2.450,3.100,2.900
+68536022,2026-03-29 12:00,Chania FC,Panargiakos FC,2,0,1.450,4.000,7.000
+68536024,2026-04-04 12:00,GS Ilioupoli,Hellas Syrou,0,2,6.000,3.900,1.533
+68536026,2026-04-04 12:00,AO Egaleo 1931 PAE,Chania FC,1,0,1.380,4.500,8.000
+68536028,2026-04-04 12:00,Athens Kallithea FC,Panargiakos FC,1,1,1.125,7.500,19.000
+68536110,2026-04-05 12:00,AO Kavala 1965,PAOK Thessaloniki B,2,1,2.875,3.250,2.250
+68536112,2026-04-05 12:00,PAS Giannina,Makedonikos FC,2,2,1.533,3.800,5.500
+68536114,2026-04-05 12:00,Nestos Chrysoupoli FC,Kampaniakos,3,0,1.181,5.250,13.000
+68536116,2026-04-08 12:00,Kampaniakos,AO Kavala 1965,2,0,,,
+68536118,2026-04-08 12:00,PAOK Thessaloniki B,PAS Giannina,2,1,,,
+68536120,2026-04-08 12:00,Makedonikos FC,Nestos Chrysoupoli FC,0,2,,,
+68536122,2026-04-18 12:00,PAS Giannina,AO Kavala 1965,3,1,,,
+68536124,2026-04-18 12:00,PAOK Thessaloniki B,Nestos Chrysoupoli FC,1,1,,,
+68536126,2026-04-18 12:00,Makedonikos FC,Kampaniakos,4,3,,,
+68536030,2026-04-19 12:00,Chania FC,GS Ilioupoli,1,0,,,
+68536032,2026-04-19 12:00,Panargiakos FC,AO Egaleo 1931 PAE,3,2,,,
+68536034,2026-04-19 12:00,Hellas Syrou,Athens Kallithea FC,0,0,,,
+68536128,2026-04-22 12:00,Nestos Chrysoupoli FC,PAS Giannina,1,0,,,
+68536130,2026-04-22 12:00,Kampaniakos,PAOK Thessaloniki B,1,2,,,
+68536132,2026-04-22 12:00,AO Kavala 1965,Makedonikos FC,5,1,,,
+68536036,2026-04-25 12:00,Panargiakos FC,Hellas Syrou,0,1,,,
+68536038,2026-04-25 12:00,Athens Kallithea FC,Chania FC,2,0,,,
+68536040,2026-04-25 12:00,GS Ilioupoli,AO Egaleo 1931 PAE,1,3,,,
+68536134,2026-04-26 12:00,AO Kavala 1965,Nestos Chrysoupoli FC,2,2,,,
+68536136,2026-04-26 12:00,PAS Giannina,Kampaniakos,4,3,,,
+68536138,2026-04-26 12:00,PAOK Thessaloniki B,Makedonikos FC,3,1,,,
+74172382,2026-09-05 13:00,Panthrakikos FC Komotini,Pas Pyrgos,0,0,,,
+74172368,2026-09-06 13:00,Panionios Athens,Asteras Tripolis B,2,0,1.380,4.333,9.000
+74172376,2026-09-06 13:00,AE Larissa FC,Anagennisi Karditsas 1904,1,1,1.950,3.400,3.900
+74172380,2026-09-06 13:00,Nestos Chrysoupoli FC,APS Zakynthos,1,1,2.200,3.000,3.500
+74172370,2026-09-07 13:00,GS Marko,Panserraikos FC,1,0,3.300,3.000,2.300
+74172374,2026-09-07 14:00,Athens Kallithea FC,Niki Volou 1924 PAE,2,1,2.550,2.875,3.000
+74172372,2026-09-07 14:30,Hellas Syrou,Apollon Kalamarias,2,2,1.950,3.300,3.900
+74272016,2026-09-09 13:00,PAOK Thessaloniki B,Olympiacos Piraeus B,1,1,2.200,3.300,3.300
+74172388,2026-09-12 13:00,GS Marko,Athens Kallithea FC,2,1,2.375,2.875,3.300
+74172394,2026-09-12 15:00,AE Larissa FC,APS Zakynthos,1,0,1.363,4.500,8.500
+74172392,2026-09-13 13:00,Niki Volou 1924 PAE,Olympiacos Piraeus B,1,2,1.380,4.333,9.000
+74172398,2026-09-13 14:00,Nestos Chrysoupoli FC,Pas Pyrgos,1,0,,,
+74172390,2026-09-13 14:30,Hellas Syrou,Anagennisi Karditsas 1904,3,0,2.100,3.100,3.500
+74172384,2026-09-13 15:00,Panserraikos FC,Asteras Tripolis B,1,0,1.420,4.000,8.500
+74172386,2026-09-14 13:00,Panionios Athens,Apollon Kalamarias,1,0,1.363,4.750,8.500
+74172396,2026-09-14 14:00,Panthrakikos FC Komotini,PAOK Thessaloniki B,2,0,2.550,3.100,2.750
+74172404,2026-09-19 13:00,Anagennisi Karditsas 1904,Panionios Athens,0,0,3.800,3.000,2.100
+74172408,2026-09-19 13:00,APS Zakynthos,Hellas Syrou,1,4,2.350,3.200,3.000
+74172402,2026-09-20 11:45,Athens Kallithea FC,Panserraikos FC,2,1,2.450,3.000,3.100
+74172400,2026-09-20 14:00,Asteras Tripolis B,Apollon Kalamarias,1,0,1.909,3.200,4.200
+74172406,2026-09-20 14:00,Olympiacos Piraeus B,GS Marko,2,4,7.000,3.800,1.533
+74172412,2026-09-21 13:00,Pas Pyrgos,AE Larissa FC,0,4,,,
+74172410,2026-09-21 14:00,Panthrakikos FC Komotini,Niki Volou 1924 PAE,1,0,3.250,3.100,2.250
+74172414,2026-09-21 14:00,PAOK Thessaloniki B,Nestos Chrysoupoli FC,2,1,2.250,3.000,3.400
+74172418,2026-09-27 13:00,Apollon Kalamarias,Anagennisi Karditsas 1904,1,0,3.400,2.900,2.300
+74172422,2026-09-27 13:00,Panionios Athens,APS Zakynthos,1,0,1.300,4.750,9.500
+74172428,2026-09-27 13:00,Niki Volou 1924 PAE,Nestos Chrysoupoli FC,2,0,1.300,4.500,11.000
+74172430,2026-09-27 13:00,AE Larissa FC,PAOK Thessaloniki B,1,0,1.500,4.100,6.250
+74172426,2026-09-27 14:00,Hellas Syrou,Pas Pyrgos,0,0,,,
+74172420,2026-09-27 15:15,Panserraikos FC,Olympiacos Piraeus B,4,1,1.200,6.000,15.000
+74172416,2026-09-28 13:00,Athens Kallithea FC,Asteras Tripolis B,2,0,1.571,3.700,6.000
+74172424,2026-09-28 13:00,GS Marko,Panthrakikos FC Komotini,2,1,1.615,3.500,5.750
+74172446,2026-10-03 11:45,Niki Volou 1924 PAE,AE Larissa FC,2,2,2.250,3.000,3.300
+74172438,2026-10-03 12:00,Panthrakikos FC Komotini,Panserraikos FC,1,1,3.750,3.200,2.000
+74172440,2026-10-04 11:45,Pas Pyrgos,Panionios Athens,2,0,5.500,3.800,1.615
+74172432,2026-10-04 12:00,Asteras Tripolis B,Anagennisi Karditsas 1904,2,0,2.875,2.900,2.700
+74172436,2026-10-05 11:00,APS Zakynthos,Apollon Kalamarias,1,1,1.900,3.400,3.900
+74172444,2026-10-05 11:45,PAOK Thessaloniki B,Hellas Syrou,0,0,2.625,3.100,2.625
+74172442,2026-10-05 12:00,Nestos Chrysoupoli FC,GS Marko,1,2,4.500,3.700,1.727
+74172456,2026-10-10 11:45,Panserraikos FC,Nestos Chrysoupoli FC,2,1,1.480,3.900,7.500
+74172452,2026-10-10 12:00,Athens Kallithea FC,Panthrakikos FC Komotini,1,0,1.750,3.600,4.333
+74172464,2026-10-11 10:00,Hellas Syrou,Niki Volou 1924 PAE,0,1,3.000,3.000,2.450
+74172462,2026-10-11 11:45,GS Marko,AE Larissa FC,1,0,1.800,3.500,4.750
+74172454,2026-10-11 12:00,Apollon Kalamarias,Pas Pyrgos,1,0,,,
+74172448,2026-10-11 15:00,Olympiacos Piraeus B,Asteras Tripolis B,1,1,2.600,3.100,2.700
+74172460,2026-10-12 11:45,Panionios Athens,PAOK Thessaloniki B,3,0,1.500,3.800,6.500
+74172450,2026-10-12 12:00,Anagennisi Karditsas 1904,APS Zakynthos,3,0,2.300,3.200,3.100
+75178678,2026-10-14 11:45,Olympiacos Piraeus B,Athens Kallithea FC,0,1,4.100,3.500,1.850
+74172466,2026-10-17 11:45,Asteras Tripolis B,APS Zakynthos,1,1,1.800,3.400,4.500
+74172480,2026-10-17 12:00,GS Marko,Hellas Syrou,0,0,1.400,4.100,8.500
+74172476,2026-10-18 11:45,AE Larissa FC,Panserraikos FC,0,0,2.450,3.100,2.875
+74172468,2026-10-18 12:00,Panthrakikos FC Komotini,Olympiacos Piraeus B,2,2,1.666,3.600,5.000
+74172470,2026-10-18 12:00,Pas Pyrgos,Anagennisi Karditsas 1904,0,1,,,
+74172472,2026-10-18 12:00,Nestos Chrysoupoli FC,Athens Kallithea FC,0,0,4.500,3.100,1.850
+74172478,2026-10-19 11:45,Niki Volou 1924 PAE,Panionios Athens,1,1,2.400,3.000,3.100
+74172474,2026-10-19 12:00,PAOK Thessaloniki B,Apollon Kalamarias,2,1,1.900,3.600,3.700
+74172490,2026-10-24 11:45,Athens Kallithea FC,AE Larissa FC,1,1,2.000,3.100,3.800
+74172486,2026-10-24 12:00,Olympiacos Piraeus B,Nestos Chrysoupoli FC,1,2,2.250,3.200,3.250
+74172492,2026-10-24 12:00,Apollon Kalamarias,Niki Volou 1924 PAE,0,2,10.000,5.250,1.222
+74172494,2026-10-24 12:00,Panserraikos FC,Hellas Syrou,3,2,1.550,3.600,6.500
+74172496,2026-10-25 12:45,Panionios Athens,GS Marko,0,4,2.050,3.100,3.700
+74172482,2026-10-25 13:00,Panthrakikos FC Komotini,Asteras Tripolis B,2,2,1.900,3.400,4.100
+74172488,2026-10-25 13:00,Anagennisi Karditsas 1904,PAOK Thessaloniki B,1,0,2.000,3.000,4.200
+74172484,2026-10-26 12:45,APS Zakynthos,Pas Pyrgos,2,3,1.950,3.700,3.500
+74172506,2026-10-31 12:45,Niki Volou 1924 PAE,Anagennisi Karditsas 1904,2,1,1.700,3.200,6.000
+74172500,2026-10-31 13:00,Nestos Chrysoupoli FC,Panthrakikos FC Komotini,1,3,2.750,3.300,2.450
+74172504,2026-11-01 10:30,AE Larissa FC,Olympiacos Piraeus B,2,1,1.420,4.500,6.500
+74172508,2026-11-01 11:00,Hellas Syrou,Athens Kallithea FC,1,0,3.600,3.000,2.150
+74172512,2026-11-01 12:45,Panionios Athens,Panserraikos FC,5,0,2.100,3.000,3.700
+74172502,2026-11-01 13:00,PAOK Thessaloniki B,APS Zakynthos,1,1,2.100,3.300,3.400
+74172498,2026-11-01 14:00,Asteras Tripolis B,Pas Pyrgos,1,1,,,
+74172510,2026-11-02 13:00,GS Marko,Apollon Kalamarias,2,0,1.111,8.500,17.000
+74172774,2026-11-07 12:45,Panserraikos FC,Apollon Kalamarias,2,1,1.200,5.250,17.000
+74172518,2026-11-07 13:00,Panthrakikos FC Komotini,AE Larissa FC,0,3,3.700,3.400,2.000
+74172522,2026-11-08 10:30,Olympiacos Piraeus B,Hellas Syrou,2,4,2.100,3.400,3.400
+74172526,2026-11-08 12:45,Athens Kallithea FC,Panionios Athens,2,0,2.900,2.900,2.550
+74172514,2026-11-08 13:00,Nestos Chrysoupoli FC,Asteras Tripolis B,1,2,2.350,3.100,3.100
+74172516,2026-11-08 13:00,Pas Pyrgos,PAOK Thessaloniki B,2,4,,,
+74172524,2026-11-08 13:00,Anagennisi Karditsas 1904,GS Marko,1,1,9.000,4.200,1.363
+74172520,2026-11-09 13:00,APS Zakynthos,Niki Volou 1924 PAE,0,2,7.500,5.250,1.300

@@ -1,0 +1,176 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+73025720,2026-08-08 14:00,Aveley FC,Eastbourne Borough,2,2,2.100,3.800,2.700
+73025722,2026-08-08 14:00,Brentwood Town FC,Burgess Hill Town,2,0,1.571,4.200,4.200
+73025724,2026-08-08 14:00,Cheshunt FC,Stanway Rovers,0,0,2.050,3.500,2.900
+73025726,2026-08-08 14:00,Dulwich Hamlet,Maldon and Tiptree FC,6,0,1.750,3.700,3.700
+73025728,2026-08-08 14:00,Lewes FC,Enfield Town,0,4,3.000,3.600,2.000
+73025730,2026-08-08 14:00,Ramsgate FC,Leatherhead FC,1,2,2.200,3.900,2.500
+73025732,2026-08-08 14:00,St. Albans City,Chatham Town,3,1,2.625,3.500,2.200
+73025734,2026-08-08 14:00,Three Bridges,Dartford FC,2,3,2.700,3.600,2.150
+73025736,2026-08-08 14:00,Welling United FC,Whitehawk FC,2,0,1.850,3.700,3.250
+73025738,2026-08-08 14:00,AFC Whyteleafe,Carshalton Athletic FC,0,2,2.450,3.700,2.300
+73025740,2026-08-08 14:00,Wingate & Finchley,Cray Wanderers,1,1,2.625,3.600,2.150
+73025742,2026-08-10 18:45,Carshalton Athletic FC,Wingate & Finchley,2,0,1.800,3.500,3.600
+73025744,2026-08-11 18:45,Burgess Hill Town,AFC Whyteleafe,3,0,2.375,3.600,2.375
+73025746,2026-08-11 18:45,Chatham Town,Dulwich Hamlet,3,1,2.150,3.500,2.800
+73025748,2026-08-11 18:45,Cray Wanderers,Cheshunt FC,0,0,2.000,3.600,3.000
+73025750,2026-08-11 18:45,Dartford FC,Brentwood Town FC,1,0,1.833,3.700,3.300
+73025752,2026-08-11 18:45,Eastbourne Borough,Three Bridges,3,2,1.550,4.200,4.500
+73025754,2026-08-11 18:45,Enfield Town,St. Albans City,1,2,2.300,3.500,2.450
+73025756,2026-08-11 18:45,Leatherhead FC,Welling United FC,4,1,1.850,3.800,3.250
+73025758,2026-08-11 18:45,Maldon and Tiptree FC,Aveley FC,1,0,,,
+73025760,2026-08-11 18:45,Stanway Rovers,Ramsgate FC,1,3,2.450,3.600,2.300
+73025762,2026-08-11 18:45,Whitehawk FC,Lewes FC,0,0,2.000,3.500,2.900
+73025764,2026-08-15 14:00,Aveley FC,Whitehawk FC,3,2,1.380,4.200,6.500
+73025766,2026-08-15 14:00,Burgess Hill Town,Leatherhead FC,2,2,2.700,3.600,2.150
+73025768,2026-08-15 14:00,Carshalton Athletic FC,Cray Wanderers,2,1,1.950,3.500,3.100
+73025770,2026-08-15 14:00,Chatham Town,Three Bridges,3,1,1.666,3.900,3.800
+73025772,2026-08-15 14:00,Dulwich Hamlet,Cheshunt FC,2,0,1.850,3.700,3.250
+73025774,2026-08-15 14:00,Eastbourne Borough,Brentwood Town FC,3,2,1.900,3.800,3.000
+73025776,2026-08-15 14:00,Enfield Town,Ramsgate FC,3,2,1.833,3.750,3.200
+73025778,2026-08-15 14:00,Maldon and Tiptree FC,Dartford FC,1,2,4.333,4.100,1.550
+73025780,2026-08-15 14:00,St. Albans City,Lewes FC,0,2,1.480,4.200,5.000
+73025782,2026-08-15 14:00,Welling United FC,Stanway Rovers,4,0,1.800,3.700,3.400
+73025784,2026-08-15 14:00,AFC Whyteleafe,Wingate & Finchley,2,2,2.250,3.500,2.550
+73025786,2026-08-22 14:00,Brentwood Town FC,Enfield Town,1,3,2.000,3.600,2.900
+73025788,2026-08-22 14:00,Cheshunt FC,Burgess Hill Town,1,1,2.350,3.400,2.500
+73025790,2026-08-22 14:00,Cray Wanderers,Eastbourne Borough,2,1,2.750,3.600,2.100
+73025792,2026-08-22 14:00,Dartford FC,Welling United FC,0,3,1.750,3.700,3.700
+73025794,2026-08-22 14:00,Leatherhead FC,Maldon and Tiptree FC,1,4,1.727,3.750,3.700
+73025796,2026-08-22 14:00,Lewes FC,AFC Whyteleafe,3,1,2.375,3.600,2.400
+73025798,2026-08-22 14:00,Ramsgate FC,St. Albans City,4,0,2.400,3.600,2.375
+73025800,2026-08-22 14:00,Stanway Rovers,Carshalton Athletic FC,1,2,2.875,3.800,1.950
+73025802,2026-08-22 14:00,Three Bridges,Aveley FC,1,5,3.100,3.700,1.950
+73025804,2026-08-22 14:00,Whitehawk FC,Chatham Town,0,3,4.333,4.000,1.571
+73025806,2026-08-22 14:00,Wingate & Finchley,Dulwich Hamlet,1,0,2.600,3.600,2.250
+73025810,2026-08-28 18:45,Burgess Hill Town,Dartford FC,2,1,2.900,3.500,2.050
+73025808,2026-08-29 14:00,Aveley FC,Lewes FC,0,2,1.480,4.500,4.750
+73025812,2026-08-29 14:00,Carshalton Athletic FC,Brentwood Town FC,2,0,2.100,3.700,2.750
+73025814,2026-08-29 14:00,Chatham Town,Wingate & Finchley,2,3,1.615,4.000,4.000
+73025816,2026-08-29 14:00,Dulwich Hamlet,Three Bridges,2,2,1.700,4.100,3.500
+73025818,2026-08-29 14:00,Eastbourne Borough,Leatherhead FC,0,1,1.833,3.900,3.250
+73025820,2026-08-29 14:00,Enfield Town,Whitehawk FC,5,1,1.450,4.333,5.250
+73025824,2026-08-29 14:00,St. Albans City,Stanway Rovers,4,1,1.615,3.800,4.333
+73025826,2026-08-29 14:00,Welling United FC,Ramsgate FC,1,0,2.000,3.700,3.000
+73025828,2026-08-29 14:00,AFC Whyteleafe,Cheshunt FC,2,2,2.350,3.600,2.450
+73025832,2026-08-31 14:00,Cheshunt FC,St. Albans City,1,1,3.000,3.600,1.950
+73025834,2026-08-31 14:00,Cray Wanderers,Welling United FC,4,1,2.300,3.600,2.500
+73025836,2026-08-31 14:00,Dartford FC,Chatham Town,1,0,2.400,3.500,2.450
+73025838,2026-08-31 14:00,Leatherhead FC,Dulwich Hamlet,2,3,2.200,3.600,2.600
+73025840,2026-08-31 14:00,Lewes FC,Eastbourne Borough,1,0,3.250,3.600,1.850
+73025842,2026-08-31 14:00,Ramsgate FC,AFC Whyteleafe,5,1,1.700,3.800,3.700
+73025844,2026-08-31 14:00,Stanway Rovers,Aveley FC,0,2,3.400,3.800,1.800
+73025846,2026-08-31 14:00,Three Bridges,Carshalton Athletic FC,3,2,3.400,3.600,1.850
+73025848,2026-08-31 14:00,Whitehawk FC,Burgess Hill Town,1,1,3.600,3.800,1.727
+73025850,2026-08-31 14:00,Wingate & Finchley,Enfield Town,1,4,2.700,3.500,2.150
+73025852,2026-09-12 14:00,Aveley FC,Leatherhead FC,1,2,1.833,3.700,3.400
+73025854,2026-09-12 14:00,Burgess Hill Town,Ramsgate FC,2,2,2.300,3.300,2.625
+73025856,2026-09-12 14:00,Carshalton Athletic FC,Dartford FC,0,3,2.550,3.400,2.350
+73025858,2026-09-12 14:00,Chatham Town,Lewes FC,3,2,1.615,3.900,4.200
+73025860,2026-09-12 14:00,Dulwich Hamlet,Brentwood Town FC,2,1,1.909,3.600,3.200
+73025862,2026-09-12 14:00,Eastbourne Borough,Cheshunt FC,3,0,1.700,3.800,3.900
+73025864,2026-09-12 14:00,Enfield Town,Cray Wanderers,3,2,1.909,3.600,3.200
+73025866,2026-09-12 14:00,Maldon and Tiptree FC,Whitehawk FC,3,2,,,
+73025868,2026-09-12 14:00,St. Albans City,Three Bridges,4,0,1.650,3.900,4.100
+73025870,2026-09-12 14:00,Welling United FC,Wingate & Finchley,4,1,1.900,3.600,3.300
+73025872,2026-09-12 14:00,AFC Whyteleafe,Stanway Rovers,4,0,1.950,3.500,3.100
+73025874,2026-09-14 18:45,Aveley FC,Wingate & Finchley,3,4,1.500,4.100,5.000
+73025876,2026-09-15 18:45,Brentwood Town FC,Stanway Rovers,2,3,1.533,4.000,4.750
+73025880,2026-09-15 18:45,Cray Wanderers,St. Albans City,3,3,2.500,3.600,2.350
+73025882,2026-09-15 18:45,Eastbourne Borough,Chatham Town,2,1,2.350,3.500,2.500
+73025884,2026-09-15 18:45,Enfield Town,Dartford FC,0,2,2.375,3.600,2.375
+73025886,2026-09-15 18:45,Leatherhead FC,AFC Whyteleafe,0,0,1.700,4.000,3.500
+73025888,2026-09-15 18:45,Lewes FC,Carshalton Athletic FC,3,0,2.800,3.600,2.050
+73025890,2026-09-15 18:45,Ramsgate FC,Maldon and Tiptree FC,2,0,1.700,4.000,3.600
+73025892,2026-09-15 18:45,Welling United FC,Cheshunt FC,2,0,1.650,3.900,4.100
+73025894,2026-09-15 18:45,Whitehawk FC,Three Bridges,3,2,2.625,3.750,2.150
+73025900,2026-09-19 14:00,Cheshunt FC,Lewes FC,3,1,,,
+73026110,2026-09-19 14:00,Maldon and Tiptree FC,Carshalton Athletic FC,2,3,,,
+73025912,2026-09-22 18:45,Three Bridges,Leatherhead FC,3,3,3.600,3.750,1.750
+74756176,2026-09-22 18:45,Brentwood Town FC,Maldon and Tiptree FC,5,1,1.615,4.100,3.900
+74837958,2026-09-29 18:45,Dulwich Hamlet,Aveley FC,2,0,2.375,3.600,2.400
+74837964,2026-09-29 18:45,Maldon and Tiptree FC,Cray Wanderers,1,5,2.900,3.600,2.000
+74889936,2026-09-29 18:45,Dartford FC,Whitehawk FC,2,1,1.420,4.500,5.000
+74889922,2026-09-30 18:45,AFC Whyteleafe,Brentwood Town FC,1,2,3.500,4.200,1.750
+73025922,2026-10-03 14:00,Burgess Hill Town,Maldon and Tiptree FC,4,1,1.533,4.200,4.750
+73025934,2026-10-03 14:00,Ramsgate FC,Carshalton Athletic FC,2,3,2.100,3.600,2.800
+73025936,2026-10-03 14:00,Welling United FC,AFC Whyteleafe,1,0,1.666,3.800,3.900
+73026014,2026-10-03 14:00,Lewes FC,Whitehawk FC,1,0,1.800,3.750,3.400
+73025940,2026-10-05 18:45,Carshalton Athletic FC,Eastbourne Borough,0,4,2.600,3.700,2.150
+73025942,2026-10-06 18:45,Chatham Town,Leatherhead FC,3,0,1.950,3.700,3.000
+73025944,2026-10-06 18:45,Cheshunt FC,Aveley FC,2,1,3.300,3.750,1.850
+73025946,2026-10-06 18:45,Dartford FC,Ramsgate FC,1,2,1.800,3.750,3.500
+73025950,2026-10-06 18:45,Maldon and Tiptree FC,Welling United FC,0,1,6.250,4.750,1.380
+73025954,2026-10-06 18:45,Stanway Rovers,Enfield Town,1,2,3.800,4.000,1.650
+73025962,2026-10-10 14:00,Burgess Hill Town,Aveley FC,1,1,2.100,3.750,2.625
+73025964,2026-10-10 14:00,Carshalton Athletic FC,St. Albans City,0,1,2.750,3.600,2.100
+73025966,2026-10-10 14:00,Chatham Town,Brentwood Town FC,3,0,1.900,3.700,3.100
+73025968,2026-10-10 14:00,Cray Wanderers,Lewes FC,1,2,1.850,3.700,3.200
+73025970,2026-10-10 14:00,Dartford FC,Wingate & Finchley,2,1,1.480,4.200,5.000
+73025972,2026-10-10 14:00,Eastbourne Borough,Welling United FC,1,0,2.050,3.400,3.000
+73025974,2026-10-10 14:00,Enfield Town,Dulwich Hamlet,3,0,1.850,3.700,3.250
+73025976,2026-10-10 14:00,Leatherhead FC,Cheshunt FC,1,2,1.750,3.750,3.600
+73025978,2026-10-10 14:00,Maldon and Tiptree FC,AFC Whyteleafe,1,2,2.450,3.600,2.300
+73025980,2026-10-10 14:00,Stanway Rovers,Three Bridges,1,3,2.625,3.600,2.150
+73025982,2026-10-10 14:00,Whitehawk FC,Ramsgate FC,1,4,3.300,3.800,1.833
+75234278,2026-10-12 18:45,Carshalton Athletic FC,Enfield Town,1,2,3.250,4.000,1.800
+74735510,2026-10-13 18:45,Burgess Hill Town,Dulwich Hamlet,2,0,2.100,3.500,2.800
+74820734,2026-10-13 18:45,Wingate & Finchley,Ramsgate FC,2,0,3.200,3.700,1.850
+75244030,2026-10-13 18:45,Three Bridges,Lewes FC,1,2,3.000,3.750,1.950
+75268640,2026-10-14 18:45,AFC Whyteleafe,Whitehawk FC,5,0,1.833,3.900,3.200
+73025984,2026-10-17 14:00,AFC Whyteleafe,Dartford FC,2,1,3.400,3.750,1.800
+73025986,2026-10-17 14:00,Aveley FC,Chatham Town,1,0,2.550,3.500,2.300
+73025990,2026-10-17 14:00,Cheshunt FC,Whitehawk FC,1,1,1.571,4.000,4.333
+73025992,2026-10-17 14:00,Dulwich Hamlet,Carshalton Athletic FC,2,2,2.000,3.600,2.900
+73025994,2026-10-17 14:00,Lewes FC,Maldon and Tiptree FC,1,1,1.480,4.333,5.000
+73026000,2026-10-17 14:00,Three Bridges,Enfield Town,3,3,4.200,4.500,1.550
+73026002,2026-10-17 14:00,Welling United FC,Burgess Hill Town,4,2,1.850,3.700,3.400
+73026004,2026-10-17 14:00,Wingate & Finchley,Stanway Rovers,4,1,1.666,3.800,3.900
+73026006,2026-10-19 18:45,Aveley FC,Maldon and Tiptree FC,1,2,1.380,4.500,5.500
+73026008,2026-10-20 18:45,Brentwood Town FC,Dartford FC,3,0,2.350,3.700,2.350
+73026012,2026-10-20 18:45,Dulwich Hamlet,Chatham Town,0,4,2.625,3.500,2.200
+73026016,2026-10-20 18:45,Ramsgate FC,Stanway Rovers,2,0,1.270,6.000,6.250
+73026020,2026-10-20 18:45,Three Bridges,Eastbourne Borough,0,2,3.600,4.100,1.700
+73026024,2026-10-20 18:45,Wingate & Finchley,Carshalton Athletic FC,4,2,2.250,3.700,2.450
+73026026,2026-10-21 18:45,AFC Whyteleafe,Burgess Hill Town,2,3,2.700,3.800,2.050
+73026040,2026-10-24 14:00,Enfield Town,Lewes FC,5,1,,,
+73026044,2026-10-24 14:00,Maldon and Tiptree FC,Dulwich Hamlet,1,1,2.700,3.600,2.150
+73026046,2026-10-24 14:00,Stanway Rovers,Cheshunt FC,3,0,3.400,3.800,1.800
+75595242,2026-10-24 14:00,Chatham Town,Welling United FC,3,2,2.000,3.600,3.000
+75722592,2026-10-27 19:45,Enfield Town,Chatham Town,4,0,1.950,3.600,3.100
+75722598,2026-10-27 19:45,Maldon and Tiptree FC,Eastbourne Borough,1,2,4.333,4.100,1.550
+75722616,2026-10-27 19:45,Brentwood Town FC,Cheshunt FC,4,2,1.800,3.800,3.300
+75722618,2026-10-27 19:45,Whitehawk FC,Dulwich Hamlet,1,2,3.200,3.750,1.850
+75722620,2026-10-27 19:45,St. Albans City,Burgess Hill Town,3,1,1.615,4.000,4.100
+75807188,2026-10-27 19:45,Welling United FC,Leatherhead FC,1,0,1.750,3.700,3.750
+73026050,2026-10-31 15:00,AFC Whyteleafe,Dulwich Hamlet,4,2,2.300,3.700,2.400
+73026052,2026-10-31 15:00,Aveley FC,Dartford FC,4,3,2.200,3.600,2.625
+73026054,2026-10-31 15:00,Brentwood Town FC,Cray Wanderers,1,4,2.250,3.800,2.400
+73026056,2026-10-31 15:00,Burgess Hill Town,Enfield Town,0,6,2.625,3.800,2.100
+73026058,2026-10-31 15:00,Cheshunt FC,Chatham Town,3,1,3.250,3.600,1.850
+73026060,2026-10-31 15:00,Eastbourne Borough,Ramsgate FC,2,0,2.050,3.600,3.000
+73026062,2026-10-31 15:00,Leatherhead FC,Stanway Rovers,7,2,1.420,4.333,5.250
+73026064,2026-10-31 15:00,Lewes FC,Wingate & Finchley,2,2,2.050,3.700,2.750
+73026066,2026-10-31 15:00,Maldon and Tiptree FC,Three Bridges,3,1,2.150,3.800,2.550
+73026068,2026-10-31 15:00,Welling United FC,Carshalton Athletic FC,4,0,1.650,3.900,4.100
+73026070,2026-10-31 15:00,Whitehawk FC,St. Albans City,1,3,4.333,4.000,1.550
+75896052,2026-11-02 19:45,Aveley FC,St. Albans City,1,0,2.550,3.700,2.200
+75091000,2026-11-03 19:45,Lewes FC,Dartford FC,1,2,2.800,3.600,2.100
+75655984,2026-11-03 19:45,Brentwood Town FC,Leatherhead FC,1,2,2.050,3.750,2.700
+76029624,2026-11-03 19:45,Eastbourne Borough,Stanway Rovers,1,0,1.181,6.500,10.000
+76029626,2026-11-03 19:45,Wingate & Finchley,Burgess Hill Town,1,1,1.900,4.000,2.900
+73026072,2026-11-07 15:00,Carshalton Athletic FC,Cheshunt FC,4,2,2.150,3.700,2.625
+73026074,2026-11-07 15:00,Chatham Town,Burgess Hill Town,1,1,1.650,4.000,4.000
+73026078,2026-11-07 15:00,Dartford FC,Eastbourne Borough,4,1,2.350,3.400,2.500
+73026080,2026-11-07 15:00,Dulwich Hamlet,Lewes FC,2,3,2.550,3.400,2.350
+73026082,2026-11-07 15:00,Enfield Town,AFC Whyteleafe,0,2,1.450,4.500,4.750
+73026084,2026-11-07 15:00,Ramsgate FC,Aveley FC,4,0,2.350,3.600,2.400
+73026086,2026-11-07 15:00,St. Albans City,Welling United FC,1,3,2.050,3.500,2.900
+73026088,2026-11-07 15:00,Stanway Rovers,Whitehawk FC,0,0,2.450,3.500,2.400
+73026090,2026-11-07 15:00,Three Bridges,Brentwood Town FC,1,1,2.700,3.750,2.100
+73026092,2026-11-07 15:00,Wingate & Finchley,Maldon and Tiptree FC,1,3,1.666,3.900,3.750
+73026104,2026-11-10 19:45,Eastbourne Borough,Dulwich Hamlet,4,2,1.333,4.750,6.250
+75232648,2026-11-10 19:45,Cray Wanderers,Three Bridges,2,0,1.444,4.500,5.000
+75396846,2026-11-10 19:45,Chatham Town,Leatherhead FC,0,1,2.050,3.600,2.900
+75997138,2026-11-10 19:45,Enfield Town,Lewes FC,2,0,1.615,4.500,3.700
+75997142,2026-11-10 19:45,Whitehawk FC,Welling United FC,2,2,5.000,4.750,1.420

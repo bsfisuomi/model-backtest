@@ -1,0 +1,285 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+63137291,2025-12-13 14:30,Deportivo Alaves C,Touring KE,0,0,,,
+63137295,2025-12-13 14:30,CD Aurrera de Vitoria,CD Derio,1,1,3.300,3.200,2.000
+63137297,2025-12-13 16:00,SCD Durango,CD Lagun Onak,1,0,1.700,3.500,4.333
+63137301,2025-12-13 16:00,SD Leioa,CD San Ignacio,0,0,,,
+63137293,2025-12-13 16:45,Anorga Kke,SD Deusto,2,1,,,
+63137303,2025-12-14 10:15,CD Santurtzi KE,Zarautz Ke,2,1,1.550,3.750,5.000
+63137307,2025-12-14 10:30,SD Zamudio,Real Sociedad C,1,1,,,
+63137299,2025-12-14 11:30,SD Eibar C,Club Portugalete,0,5,,,
+63137305,2025-12-14 15:30,UD Aretxabaleta,Pasaia KE,1,0,1.909,3.300,3.500
+63137325,2025-12-20 14:45,Zarautz Ke,Touring KE,1,2,,,
+63137313,2025-12-20 15:30,Pasaia KE,SCD Durango,0,2,2.625,3.000,2.500
+63137311,2025-12-20 16:00,CD Lagun Onak,Anorga Kke,1,0,,,
+63137321,2025-12-20 16:00,CD Santurtzi KE,SD Zamudio,2,0,,,
+63137323,2025-12-20 16:15,SD Deusto,SD Eibar C,0,0,1.600,3.500,4.750
+63137315,2025-12-20 17:00,Club Portugalete,SD Leioa,0,1,,,
+63137309,2025-12-20 17:30,CD Derio,Deportivo Alaves C,2,3,,,
+63137317,2025-12-20 19:30,Real Sociedad C,UD Aretxabaleta,2,0,2.050,3.300,3.100
+63137319,2025-12-21 10:00,CD San Ignacio,CD Aurrera de Vitoria,3,1,2.100,3.000,3.250
+63137331,2026-01-03 15:00,CD Aurrera de Vitoria,Club Portugalete,1,2,5.500,3.600,1.533
+63137333,2026-01-03 16:00,SCD Durango,Real Sociedad C,0,1,2.100,3.100,3.100
+63137335,2026-01-04 10:30,SD Eibar C,CD Lagun Onak,0,1,3.700,3.500,1.800
+63137327,2026-01-04 14:30,Deportivo Alaves C,CD San Ignacio,2,0,2.150,3.000,3.200
+63137343,2026-01-04 14:45,Zarautz Ke,SD Zamudio,2,0,,,
+63137339,2026-01-04 15:30,Touring KE,CD Derio,5,2,2.600,2.900,2.600
+63137341,2026-01-04 15:30,UD Aretxabaleta,CD Santurtzi KE,2,2,,,
+63137329,2026-01-04 16:00,Anorga Kke,Pasaia KE,1,0,,,
+63137337,2026-01-04 16:30,SD Leioa,SD Deusto,3,2,,,
+63137349,2026-01-10 15:30,Pasaia KE,SD Eibar C,1,2,1.900,3.250,3.700
+63137347,2026-01-10 16:00,CD Lagun Onak,SD Leioa,1,0,,,
+63137359,2026-01-10 16:15,SD Deusto,CD Aurrera de Vitoria,0,2,1.833,3.250,3.900
+63137345,2026-01-10 17:30,CD Derio,Zarautz Ke,1,2,1.615,3.400,5.000
+63137353,2026-01-10 18:00,Real Sociedad C,Anorga Kke,0,2,1.285,5.500,7.000
+63137355,2026-01-11 10:00,CD San Ignacio,Touring KE,3,1,2.625,3.100,2.400
+63137357,2026-01-11 10:15,CD Santurtzi KE,SCD Durango,1,1,2.150,3.300,2.875
+63137351,2026-01-11 10:30,Club Portugalete,Deportivo Alaves C,2,1,,,
+63137361,2026-01-11 10:30,SD Zamudio,UD Aretxabaleta,2,0,,,
+63137365,2026-01-17 15:30,Pasaia KE,SD Leioa,1,3,3.300,3.000,2.050
+63137363,2026-01-17 16:00,CD Lagun Onak,CD Aurrera de Vitoria,3,0,,,
+63137375,2026-01-17 17:15,SD Deusto,Deportivo Alaves C,1,1,2.450,2.875,2.800
+63137369,2026-01-18 09:30,Real Sociedad C,SD Eibar C,1,1,,,
+63137373,2026-01-18 10:15,CD Santurtzi KE,Anorga Kke,1,0,1.480,3.900,5.750
+63137367,2026-01-18 10:30,Club Portugalete,Touring KE,2,0,1.800,3.400,3.900
+63137379,2026-01-18 10:30,SD Zamudio,SCD Durango,2,0,,,
+63137377,2026-01-18 15:30,UD Aretxabaleta,Zarautz Ke,2,1,,,
+63137371,2026-01-18 16:00,CD San Ignacio,CD Derio,1,2,2.000,3.250,3.300
+63137381,2026-01-24 14:30,Deportivo Alaves C,CD Lagun Onak,2,3,,,
+63137397,2026-01-24 14:45,Zarautz Ke,CD San Ignacio,0,1,,,
+63137391,2026-01-24 15:00,SD Eibar C,CD Santurtzi KE,1,1,3.400,3.700,1.833
+63137387,2026-01-24 15:15,CD Derio,Club Portugalete,0,1,3.600,3.100,1.909
+63137395,2026-01-24 15:45,Touring KE,SD Deusto,1,0,1.850,3.100,4.000
+63137383,2026-01-24 16:00,Anorga Kke,SD Zamudio,4,1,,,
+63137389,2026-01-24 16:00,SCD Durango,UD Aretxabaleta,1,1,,,
+63137393,2026-01-24 16:00,SD Leioa,Real Sociedad C,2,1,,,
+63137385,2026-01-25 11:00,CD Aurrera de Vitoria,Pasaia KE,3,1,,,
+63137403,2026-01-31 15:30,Pasaia KE,Deportivo Alaves C,0,0,,,
+63137401,2026-01-31 16:00,CD Lagun Onak,Touring KE,0,0,,,
+63137405,2026-01-31 16:00,Club Portugalete,CD San Ignacio,2,1,,,
+63137407,2026-01-31 16:15,Real Sociedad C,CD Aurrera de Vitoria,0,1,,,
+63137411,2026-01-31 16:15,SD Deusto,CD Derio,1,2,,,
+63137399,2026-01-31 16:30,SCD Durango,Zarautz Ke,4,2,1.600,3.400,5.250
+63137409,2026-02-01 10:15,CD Santurtzi KE,SD Leioa,1,2,2.375,3.200,2.700
+63137415,2026-02-01 10:30,SD Zamudio,SD Eibar C,1,0,1.750,3.400,4.000
+63137413,2026-02-01 15:30,UD Aretxabaleta,Anorga Kke,6,3,1.727,3.900,3.700
+63137425,2026-02-07 11:00,SD Eibar C,UD Aretxabaleta,4,2,2.450,3.600,2.300
+63137433,2026-02-07 14:45,Zarautz Ke,Club Portugalete,0,1,,,
+63137417,2026-02-07 15:00,Deportivo Alaves C,Real Sociedad C,3,0,2.150,3.200,3.000
+63137421,2026-02-07 15:00,CD Aurrera de Vitoria,CD Santurtzi KE,1,0,,,
+63137431,2026-02-07 15:30,Touring KE,Pasaia KE,1,1,,,
+63137419,2026-02-07 16:00,Anorga Kke,SCD Durango,1,0,,,
+63137427,2026-02-07 16:00,SD Leioa,SD Zamudio,2,1,,,
+63137423,2026-02-07 17:30,CD Derio,CD Lagun Onak,0,1,2.700,3.400,2.200
+63137429,2026-02-08 15:00,CD San Ignacio,SD Deusto,2,0,2.100,2.900,3.400
+63137443,2026-02-13 19:00,Real Sociedad C,Touring KE,2,0,2.250,3.000,2.900
+63137437,2026-02-14 11:00,SCD Durango,SD Eibar C,3,0,1.750,3.300,4.333
+63137441,2026-02-14 15:30,Pasaia KE,CD Derio,0,4,,,
+63137449,2026-02-14 15:30,UD Aretxabaleta,SD Leioa,3,2,,,
+63137435,2026-02-14 16:00,Anorga Kke,Zarautz Ke,3,0,,,
+63137439,2026-02-14 16:00,CD Lagun Onak,CD San Ignacio,0,1,,,
+63137445,2026-02-14 16:00,CD Santurtzi KE,Deportivo Alaves C,2,2,2.350,3.400,2.600
+63137447,2026-02-14 16:15,SD Deusto,Club Portugalete,1,2,,,
+63137451,2026-02-15 10:30,SD Zamudio,CD Aurrera de Vitoria,3,0,2.000,3.250,3.300
+63137469,2026-02-21 14:45,Zarautz Ke,SD Deusto,1,0,,,
+63137467,2026-02-21 15:30,Touring KE,CD Santurtzi KE,2,0,1.800,3.400,3.800
+63137461,2026-02-21 16:00,SD Leioa,SCD Durango,2,1,1.850,3.250,3.750
+63137463,2026-02-22 10:30,Club Portugalete,CD Lagun Onak,3,0,1.480,3.900,5.500
+63137455,2026-02-22 11:00,CD Aurrera de Vitoria,UD Aretxabaleta,5,1,,,
+63137459,2026-02-22 11:00,SD Eibar C,Anorga Kke,3,0,2.050,3.400,3.000
+63137465,2026-02-22 11:30,CD San Ignacio,Pasaia KE,0,2,,,
+63137457,2026-02-22 16:00,CD Derio,Real Sociedad C,3,1,,,
+63137453,2026-02-22 17:00,Deportivo Alaves C,SD Zamudio,5,0,1.727,3.500,4.000
+63137479,2026-02-28 15:30,Pasaia KE,Club Portugalete,1,1,,,
+63137473,2026-02-28 16:00,SCD Durango,CD Aurrera de Vitoria,1,2,2.050,3.100,3.300
+63137477,2026-02-28 16:00,CD Lagun Onak,SD Deusto,0,0,,,
+63137471,2026-02-28 18:00,Anorga Kke,SD Leioa,0,1,,,
+63137483,2026-03-01 10:15,CD Santurtzi KE,CD Derio,1,1,2.600,3.200,2.450
+63137487,2026-03-01 10:30,SD Zamudio,Touring KE,2,3,,,
+63137475,2026-03-01 11:30,SD Eibar C,Zarautz Ke,3,0,1.850,3.300,3.700
+63137485,2026-03-01 15:30,UD Aretxabaleta,Deportivo Alaves C,3,1,,,
+63137481,2026-03-01 18:15,Real Sociedad C,CD San Ignacio,0,0,,,
+63137499,2026-03-07 14:45,CD San Ignacio,CD Santurtzi KE,3,1,,,
+63137505,2026-03-07 14:45,Zarautz Ke,CD Lagun Onak,1,1,,,
+63137491,2026-03-07 15:00,CD Aurrera de Vitoria,Anorga Kke,3,0,,,
+63137503,2026-03-07 15:30,Touring KE,UD Aretxabaleta,2,1,,,
+63137495,2026-03-07 16:00,SD Leioa,SD Eibar C,1,1,,,
+63137501,2026-03-07 16:00,SD Deusto,Pasaia KE,0,3,,,
+63137497,2026-03-07 16:30,Club Portugalete,Real Sociedad C,4,0,1.380,4.100,7.000
+63137493,2026-03-08 16:30,CD Derio,SD Zamudio,2,1,1.750,3.300,4.200
+63137489,2026-03-08 17:00,Deportivo Alaves C,SCD Durango,3,1,,,
+63137507,2026-03-14 15:00,Anorga Kke,Deportivo Alaves C,2,0,,,
+63137515,2026-03-14 15:30,Pasaia KE,CD Lagun Onak,1,1,,,
+63137513,2026-03-14 16:00,SD Leioa,Zarautz Ke,3,1,,,
+63137523,2026-03-14 16:00,SD Zamudio,CD San Ignacio,2,2,,,
+63137509,2026-03-14 16:30,SCD Durango,Touring KE,4,0,,,
+63137517,2026-03-15 10:00,Real Sociedad C,SD Deusto,1,0,1.950,3.200,3.300
+63137519,2026-03-15 10:15,CD Santurtzi KE,Club Portugalete,0,0,,,
+63137511,2026-03-15 11:30,SD Eibar C,CD Aurrera de Vitoria,0,1,2.100,3.400,2.900
+63137521,2026-03-15 15:30,UD Aretxabaleta,CD Derio,1,2,2.625,3.500,2.250
+63137533,2026-03-19 10:30,Club Portugalete,SD Zamudio,2,0,1.222,5.250,9.000
+63137539,2026-03-19 10:30,Touring KE,Anorga Kke,3,1,1.533,3.700,5.250
+63137541,2026-03-19 14:45,Zarautz Ke,Pasaia KE,0,3,2.550,3.200,2.500
+63137529,2026-03-19 16:00,CD Derio,SCD Durango,4,0,2.375,3.200,2.600
+63137527,2026-03-21 16:00,CD Aurrera de Vitoria,SD Leioa,0,1,3.200,3.100,2.100
+63137537,2026-03-21 16:30,SD Deusto,CD Santurtzi KE,0,2,2.050,3.200,3.200
+63137525,2026-03-21 17:00,Deportivo Alaves C,SD Eibar C,3,1,,,
+63137535,2026-03-22 10:30,CD San Ignacio,UD Aretxabaleta,0,1,,,
+63137531,2026-03-22 16:00,CD Lagun Onak,Real Sociedad C,3,2,,,
+63137543,2026-03-28 11:30,Anorga Kke,CD Derio,3,0,4.333,3.600,1.650
+63137545,2026-03-28 15:30,CD Aurrera de Vitoria,Zarautz Ke,1,3,1.727,3.600,4.000
+63137551,2026-03-28 16:00,SD Leioa,Deportivo Alaves C,1,1,,,
+63137555,2026-03-28 16:00,CD Santurtzi KE,CD Lagun Onak,0,1,2.200,3.200,2.900
+63137547,2026-03-28 16:30,SCD Durango,CD San Ignacio,0,1,,,
+63137549,2026-03-28 16:30,SD Eibar C,Touring KE,0,2,3.000,3.400,2.050
+63137559,2026-03-29 09:15,SD Zamudio,SD Deusto,2,0,2.150,3.100,3.000
+63137557,2026-03-29 14:30,UD Aretxabaleta,Club Portugalete,2,2,,,
+63137553,2026-03-29 15:30,Real Sociedad C,Pasaia KE,2,0,,,
+63137563,2026-04-01 17:00,CD Derio,SD Eibar C,2,2,1.700,3.700,3.900
+63137561,2026-04-01 17:30,Deportivo Alaves C,CD Aurrera de Vitoria,1,1,1.666,3.500,4.333
+63137569,2026-04-01 18:00,Club Portugalete,SCD Durango,1,0,,,
+63137575,2026-04-01 18:00,Touring KE,SD Leioa,2,1,,,
+63137565,2026-04-01 18:30,CD Lagun Onak,SD Zamudio,5,0,,,
+63137571,2026-04-02 09:00,CD San Ignacio,Anorga Kke,2,0,1.650,3.700,4.100
+63137567,2026-04-02 09:30,Pasaia KE,CD Santurtzi KE,0,0,,,
+63137573,2026-04-02 09:30,SD Deusto,UD Aretxabaleta,3,0,2.500,3.250,2.600
+63137577,2026-04-02 09:30,Zarautz Ke,Real Sociedad C,0,0,,,
+63137587,2026-04-11 14:00,SD Eibar C,CD San Ignacio,1,1,2.350,3.300,2.600
+63137581,2026-04-11 14:30,Anorga Kke,Club Portugalete,4,1,,,
+63137583,2026-04-11 15:00,CD Aurrera de Vitoria,Touring KE,0,2,2.875,3.100,2.200
+63137585,2026-04-11 15:00,SCD Durango,SD Deusto,1,1,,,
+63137579,2026-04-11 15:30,Deportivo Alaves C,Zarautz Ke,5,1,,,
+63137593,2026-04-11 15:30,UD Aretxabaleta,CD Lagun Onak,2,1,,,
+63137591,2026-04-12 09:15,CD Santurtzi KE,Real Sociedad C,0,3,,,
+63137595,2026-04-12 09:30,SD Zamudio,Pasaia KE,7,0,2.150,3.250,3.000
+63137589,2026-04-12 15:00,SD Leioa,CD Derio,0,0,1.800,3.500,3.600
+63137601,2026-04-15 18:00,Pasaia KE,UD Aretxabaleta,3,2,2.100,3.600,2.800
+63137605,2026-04-16 18:00,Real Sociedad C,SD Zamudio,3,1,1.950,2.900,3.700
+63137611,2026-04-16 18:00,Touring KE,Deportivo Alaves C,1,2,2.350,2.900,2.900
+63137599,2026-04-16 18:30,CD Lagun Onak,SCD Durango,0,1,1.833,3.250,3.800
+63137603,2026-04-17 17:00,Club Portugalete,SD Eibar C,4,2,,,
+63137597,2026-04-18 15:30,CD Derio,CD Aurrera de Vitoria,1,1,,,
+63137607,2026-04-19 15:00,CD San Ignacio,SD Leioa,1,2,2.375,3.100,2.700
+63137613,2026-04-19 16:30,Zarautz Ke,CD Santurtzi KE,0,1,,,
+63137627,2026-04-25 14:30,Touring KE,Zarautz Ke,0,0,,,
+63137619,2026-04-25 15:00,CD Aurrera de Vitoria,CD San Ignacio,0,1,2.150,3.250,3.000
+63137621,2026-04-25 15:00,SCD Durango,Pasaia KE,0,0,,,
+63137625,2026-04-25 15:00,SD Leioa,Club Portugalete,1,1,,,
+63137631,2026-04-26 09:30,SD Zamudio,CD Santurtzi KE,1,1,,,
+63137617,2026-04-26 10:00,Anorga Kke,CD Lagun Onak,0,0,,,
+63137623,2026-04-26 14:30,SD Eibar C,SD Deusto,0,0,,,
+63137629,2026-04-26 14:30,UD Aretxabaleta,Real Sociedad C,0,0,,,
+63137615,2026-04-26 16:00,Deportivo Alaves C,CD Derio,2,3,1.833,3.300,3.700
+63137633,2026-05-03 16:00,CD Derio,Touring KE,0,0,,,
+63137635,2026-05-03 16:00,CD Lagun Onak,SD Eibar C,0,0,,,
+63137637,2026-05-03 16:00,Pasaia KE,Anorga Kke,0,0,,,
+63137639,2026-05-03 16:00,Club Portugalete,CD Aurrera de Vitoria,1,2,,,
+63137641,2026-05-03 16:00,Real Sociedad C,SCD Durango,0,0,,,
+63137643,2026-05-03 16:00,CD San Ignacio,Deportivo Alaves C,0,1,2.200,3.200,3.000
+63137645,2026-05-03 16:00,CD Santurtzi KE,UD Aretxabaleta,0,0,,,
+63137647,2026-05-03 16:00,SD Deusto,SD Leioa,1,3,,,
+63137649,2026-05-03 16:00,SD Zamudio,Zarautz Ke,0,2,,,
+63137657,2026-05-09 10:15,SCD Durango,CD Santurtzi KE,4,1,,,
+63137651,2026-05-09 15:00,Deportivo Alaves C,Club Portugalete,1,2,,,
+63137653,2026-05-09 15:00,Anorga Kke,Real Sociedad C,0,0,,,
+63137655,2026-05-09 15:00,CD Aurrera de Vitoria,SD Deusto,0,0,,,
+63137659,2026-05-09 15:00,SD Eibar C,Pasaia KE,0,0,,,
+63137661,2026-05-09 15:00,SD Leioa,CD Lagun Onak,2,3,,,
+63137663,2026-05-09 15:00,Touring KE,CD San Ignacio,0,0,,,
+63137665,2026-05-09 15:00,UD Aretxabaleta,SD Zamudio,0,0,,,
+63137667,2026-05-09 15:00,Zarautz Ke,CD Derio,0,0,,,
+71482442,2026-05-16 15:30,Touring KE,SD Leioa,0,1,2.300,3.100,2.875
+71482444,2026-05-17 15:00,CD Lagun Onak,CD Derio,0,0,,,
+71482446,2026-05-23 15:00,SD Leioa,Touring KE,2,3,,,
+71482448,2026-05-24 16:00,CD Derio,CD Lagun Onak,2,0,2.100,3.100,3.200
+71752864,2026-05-31 17:00,CD Derio,SD Leioa,0,1,2.300,2.875,3.000
+71752866,2026-06-06 17:00,SD Leioa,CD Derio,1,0,1.909,3.000,3.800
+73557008,2026-09-05 14:30,Pasaia KE,SD Erandio Club,0,2,3.200,3.000,2.150
+73557004,2026-09-05 15:30,SD Eibar C,Deportivo Alaves C,1,3,,,
+73557018,2026-09-05 15:30,Touring KE,UD Aretxabaleta,0,1,1.666,3.500,4.333
+73557002,2026-09-05 16:00,Amurrio Club,CD Aurrera de Vitoria,1,2,,,
+73557010,2026-09-05 16:00,CD Lagun Onak,SD Leioa,1,1,,,
+73557016,2026-09-05 16:00,SD Beasain,CD Santurtzi KE,2,0,,,
+73557012,2026-09-05 16:30,CD Derio,Real Sociedad C,0,0,2.100,3.200,3.100
+73557014,2026-09-05 17:00,SCD Durango,CD San Ignacio,3,3,,,
+73557006,2026-09-06 15:00,Real Union de Irun B,Sodupe UC,0,2,2.000,3.250,3.200
+73557030,2026-09-12 14:00,Real Sociedad C,CD Lagun Onak,2,0,2.100,3.100,3.200
+73557032,2026-09-12 14:00,CD San Ignacio,CD Derio,1,1,2.200,3.100,3.000
+73557026,2026-09-12 14:30,SD Erandio Club,Real Union de Irun B,0,1,,,
+73557020,2026-09-12 15:00,CD Aurrera de Vitoria,Touring KE,1,1,,,
+73557022,2026-09-12 16:00,Deportivo Alaves C,Amurrio Club,3,0,,,
+73557034,2026-09-13 09:15,CD Santurtzi KE,SCD Durango,2,1,2.200,3.100,3.000
+73557036,2026-09-13 14:30,UD Aretxabaleta,SD Beasain,0,0,3.100,3.000,2.200
+73557024,2026-09-13 15:30,Sodupe UC,SD Eibar C,1,1,,,
+73557028,2026-09-13 16:00,SD Leioa,Pasaia KE,1,1,1.500,3.500,6.250
+73557038,2026-09-19 10:30,CD Aurrera de Vitoria,Deportivo Alaves C,2,1,3.000,3.100,2.150
+73557042,2026-09-19 14:00,SD Eibar C,SD Erandio Club,3,1,,,
+73557046,2026-09-19 14:30,Pasaia KE,Real Sociedad C,3,2,3.600,3.200,1.909
+73557054,2026-09-19 14:30,Touring KE,SD Beasain,2,0,2.550,3.000,2.550
+73557048,2026-09-19 16:00,CD Lagun Onak,CD San Ignacio,1,0,,,
+73557052,2026-09-19 16:15,SCD Durango,UD Aretxabaleta,0,0,2.000,3.200,3.300
+73557044,2026-09-20 14:00,Real Union de Irun B,SD Leioa,3,3,,,
+73557040,2026-09-20 15:00,Amurrio Club,Sodupe UC,0,0,,,
+73557050,2026-09-20 18:00,CD Derio,CD Santurtzi KE,2,0,1.800,3.300,4.000
+73557070,2026-09-26 10:00,UD Aretxabaleta,CD Derio,1,2,2.625,3.200,2.350
+73557056,2026-09-26 14:00,Deportivo Alaves C,Touring KE,1,2,2.100,3.300,3.000
+73557072,2026-09-26 14:30,SD Beasain,SCD Durango,1,2,,,
+73557060,2026-09-26 15:00,SD Erandio Club,Amurrio Club,2,0,1.833,3.500,3.500
+73557058,2026-09-26 16:00,Sodupe UC,CD Aurrera de Vitoria,0,3,,,
+73557062,2026-09-26 16:00,SD Leioa,SD Eibar C,2,1,,,
+73557068,2026-09-27 09:15,CD Santurtzi KE,CD Lagun Onak,0,1,2.450,3.000,2.700
+73557064,2026-09-27 10:15,Real Sociedad C,Real Union de Irun B,3,3,1.833,3.300,3.750
+73557066,2026-09-27 14:00,CD San Ignacio,Pasaia KE,1,2,,,
+73557076,2026-10-03 14:30,Pasaia KE,CD Santurtzi KE,1,0,,,
+73557082,2026-10-03 14:30,Touring KE,SCD Durango,2,2,,,
+73557078,2026-10-03 15:00,CD Lagun Onak,UD Aretxabaleta,1,2,,,
+73557086,2026-10-03 15:00,CD Aurrera de Vitoria,SD Erandio Club,2,1,,,
+73557084,2026-10-04 10:00,Deportivo Alaves C,Sodupe UC,5,1,2.150,3.400,2.875
+73557090,2026-10-04 10:00,SD Eibar C,Real Sociedad C,2,3,,,
+73557088,2026-10-04 15:00,Amurrio Club,SD Leioa,0,5,,,
+73557074,2026-10-04 15:30,Real Union de Irun B,CD San Ignacio,0,3,,,
+73557080,2026-10-04 16:30,CD Derio,SD Beasain,2,0,2.400,3.000,2.625
+73557092,2026-10-10 09:30,Sodupe UC,Touring KE,1,0,2.875,3.300,2.150
+73557100,2026-10-10 10:00,CD San Ignacio,SD Eibar C,2,1,1.950,3.400,3.300
+73557108,2026-10-10 10:00,SCD Durango,CD Derio,1,1,2.150,3.400,2.875
+73557106,2026-10-10 14:30,SD Beasain,CD Lagun Onak,4,2,,,
+73557094,2026-10-10 15:00,SD Erandio Club,Deportivo Alaves C,0,2,,,
+73557102,2026-10-10 15:00,CD Santurtzi KE,Real Union de Irun B,1,0,2.600,3.250,2.375
+73557098,2026-10-10 15:30,Real Sociedad C,Amurrio Club,1,0,1.285,4.500,9.000
+73557096,2026-10-10 16:00,SD Leioa,CD Aurrera de Vitoria,4,0,,,
+73557104,2026-10-11 14:30,UD Aretxabaleta,Pasaia KE,4,2,2.000,3.250,3.250
+73557114,2026-10-17 10:00,CD Aurrera de Vitoria,Real Sociedad C,2,0,2.700,3.100,2.350
+73557122,2026-10-17 14:30,Pasaia KE,SD Beasain,1,4,2.250,3.200,2.800
+73557126,2026-10-17 14:30,Touring KE,CD Derio,2,0,,,
+73557112,2026-10-17 15:00,Deportivo Alaves C,SD Leioa,2,2,2.100,3.250,3.000
+73557124,2026-10-17 15:00,CD Lagun Onak,SCD Durango,1,2,,,
+73557110,2026-10-17 16:00,Sodupe UC,SD Erandio Club,1,0,,,
+73557118,2026-10-18 10:00,SD Eibar C,CD Santurtzi KE,2,1,1.833,3.400,3.600
+73557120,2026-10-18 14:00,Real Union de Irun B,UD Aretxabaleta,0,2,,,
+73557116,2026-10-18 15:30,Amurrio Club,CD San Ignacio,0,1,3.700,3.200,1.850
+73557140,2026-10-24 14:30,SD Beasain,Real Union de Irun B,1,1,,,
+73557128,2026-10-24 15:00,SD Erandio Club,Touring KE,0,1,,,
+73557134,2026-10-24 15:00,CD San Ignacio,CD Aurrera de Vitoria,5,0,,,
+73557142,2026-10-24 15:00,SCD Durango,Pasaia KE,2,0,,,
+73557130,2026-10-24 16:00,SD Leioa,Sodupe UC,3,0,,,
+73557144,2026-10-24 17:00,CD Derio,CD Lagun Onak,2,1,,,
+73557136,2026-10-25 10:15,CD Santurtzi KE,Amurrio Club,2,1,1.600,3.600,4.750
+73557132,2026-10-25 11:15,Real Sociedad C,Deportivo Alaves C,2,2,2.050,3.300,3.000
+73557138,2026-10-25 15:30,UD Aretxabaleta,SD Eibar C,0,2,,,
+73557150,2026-10-31 15:00,Deportivo Alaves C,CD San Ignacio,3,0,2.000,3.250,3.200
+73557160,2026-10-31 15:30,Pasaia KE,CD Derio,2,3,2.900,3.200,2.150
+73557162,2026-10-31 15:30,Touring KE,CD Lagun Onak,0,0,,,
+73557146,2026-10-31 16:00,SD Erandio Club,SD Leioa,2,3,,,
+73557148,2026-10-31 16:00,Sodupe UC,Real Sociedad C,0,3,,,
+73557152,2026-10-31 16:00,CD Aurrera de Vitoria,CD Santurtzi KE,2,1,,,
+73557154,2026-10-31 17:00,Amurrio Club,UD Aretxabaleta,1,2,,,
+73557156,2026-11-01 11:00,SD Eibar C,SD Beasain,0,0,,,
+73557158,2026-11-01 15:00,Real Union de Irun B,SCD Durango,1,1,,,
+73557168,2026-11-07 15:30,CD San Ignacio,Sodupe UC,0,1,,,
+73557164,2026-11-07 16:00,SD Leioa,Touring KE,4,2,,,
+73557174,2026-11-07 16:00,SD Beasain,Amurrio Club,6,0,,,
+73557176,2026-11-07 16:00,SCD Durango,SD Eibar C,2,0,,,
+73557180,2026-11-07 16:15,CD Lagun Onak,Pasaia KE,3,1,,,
+73557166,2026-11-07 17:00,Real Sociedad C,SD Erandio Club,4,1,,,
+73557178,2026-11-07 17:00,CD Derio,Real Union de Irun B,2,3,,,
+73557170,2026-11-08 10:15,CD Santurtzi KE,Deportivo Alaves C,0,1,2.350,3.300,2.600
+73557172,2026-11-08 15:30,UD Aretxabaleta,CD Aurrera de Vitoria,0,3,,,

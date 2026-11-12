@@ -1,22 +1,29 @@
-"""The model, ported 1:1 from the Excel sheets (verified against 'Poland ll').
+"""The model, ported 1:1 from the Excel sheets (tests/test_excel.py checks it against 'Poland ll').
 
-1X2 / strength part (needs >= rating_min_matches current-season matches per team):
-  y = ln(pH/pA) - HA, pH/pA = bet365 closing 1 and 2, normalised without the draw
-  strengths s = OLS without constant on +1 home / -1 away (each team's last <= 20 matches)
-  P(home, 2-way) = logistic(HA + s_home - s_away)
+Strength part (1X2), per league, current season only:
+  y = ln(pH/pA) - HA, pH/pA = bet365 closing 1 and 2 normalised without the draw
+  strengths = OLS without constant on +1 home / -1 away, each team's last <= 20 matches before the match day
+  both teams need >= 10 such matches;  P(home, 2-way) = logistic(HA + s_home - s_away)
+  HA: Excel value where the league is in the workbook, else estimated as the constant of the same
+  regression on LAST season's matches (falls back to this season when last season has < 60 matches).
 
-Goals part (needs exactly goals_matches = 20 matches per team; filled from last season):
-  TG_team = average total goals in the team's last 20 matches
-  E  = (tg_a + tg_b * |P_home - P_away| [in %-points]) * ((TG_home + TG_away) / 2) / tg_norm
-  λh = exp(team_a + team_b * P_home) * E / team_norm,  λa likewise with P_away
-  λh and λa are then scaled so that λh + λa = E (the Excel sum differs by < 1 %).
+Goals part:
+  TG_team = average total goals in the team's last 20 league matches (any collected league, so
+  promoted/relegated teams are filled from the division they played in). Exactly 20 are required.
+  E  = (tg_a + tg_b * |P_home - P_away| [%-points]) * ((TG_home + TG_away) / 2) / tg_norm
+  λh = exp(team_a + team_b * P_home) * E / team_norm,  λa likewise; scaled so that λh + λa = E.
 
-Prices for Asian lines come from independent Poisson goals with λh, λa.
+Prices: independent Poisson goals (λh, λa); quarter lines split, whole lines push.
+
+Seasons are found from the dates: the newest break of >= 21 days after which the set of teams
+changes (promotion/relegation) starts the current season. A winter break keeps the same teams.
 """
 import csv
+import glob
 import json
 import math
 import os
+from bisect import bisect_left
 from collections import defaultdict
 
 import numpy as np
@@ -26,96 +33,161 @@ CFG = json.load(open(os.path.join(ROOT, "config", "leagues.json")))
 M = CFG["model"]
 
 
-def load_matches(key):
-    p = os.path.join(ROOT, "data", "matches", f"{key}.csv")
+def _load(path):
     rows = []
-    if not os.path.exists(p):
-        return rows
-    seen = set()
-    for r in csv.DictReader(open(p, newline="")):
-        if r["match_id"] in seen and r["scope"] != "current":
+    for r in csv.DictReader(open(path, newline="")):
+        if r["home_goals"] in ("", None):
             continue
-        seen.add(r["match_id"])
-        r["day"] = r["kickoff_utc"][:10]
-        r["hg"], r["ag"] = int(r["home_goals"]), int(r["away_goals"])
+        r["day"] = r["date"][:10]
+        r["hg"], r["ag"] = int(float(r["home_goals"])), int(float(r["away_goals"]))
         for k in ("close_1", "close_x", "close_2"):
-            r[k] = float(r[k]) if r[k] else None
+            try:
+                r[k] = float(r[k]) if r[k] else None
+            except ValueError:
+                r[k] = None
         rows.append(r)
-    rows.sort(key=lambda r: r["kickoff_utc"])
+    rows.sort(key=lambda r: r["date"])
     return rows
+
+
+_ALL = None
+
+
+def all_matches():
+    """{slug: rows} for every collected league, and a per-team index of (date, total goals)."""
+    global _ALL
+    if _ALL is None:
+        by = {}
+        team = defaultdict(list)
+        seen = set()
+        for p in glob.glob(os.path.join(ROOT, "data", "matches", "*.csv")):
+            slug = os.path.basename(p)[:-4]
+            rows = _load(p)
+            by[slug] = rows
+            for r in rows:
+                if r["event_id"] in seen:
+                    continue
+                seen.add(r["event_id"])
+                for t in (r["home"], r["away"]):
+                    team[t].append((r["date"], r["hg"] + r["ag"]))
+        for t in team:
+            team[t].sort()
+        _ALL = (by, dict(team))
+    return _ALL
+
+
+def season_start(rows, min_gap=21):
+    """Date (YYYY-MM-DD) where the current season starts, or None when only one season is in the data."""
+    days = sorted({r["day"] for r in rows})
+    if len(days) < 2:
+        return None
+    import datetime as dt
+    d = [dt.date.fromisoformat(x) for x in days]
+    for i in range(len(d) - 1, 0, -1):
+        if (d[i] - d[i - 1]).days < min_gap:
+            continue
+        cut = days[i]
+        before = {t for r in rows if days[max(0, i - 60)] <= r["day"] < cut for t in (r["home"], r["away"])}
+        after = {t for r in rows if r["day"] >= cut for t in (r["home"], r["away"])}
+        if len(before ^ after) >= 2:
+            return cut
+    return None
 
 
 def two_way(o1, o2):
     return (1 / o1) / (1 / o1 + 1 / o2)
 
 
-def fit_strengths(train, ha):
-    teams = sorted({t for m in train for t in (m["home_id"], m["away_id"])})
+def fit(train, ha=None):
+    """OLS of logit(2-way) on +1/-1 dummies. ha=None -> also estimate the constant (= home advantage)."""
+    teams = sorted({t for m in train for t in (m["home_id"] if "home_id" in m else m["home"],
+                                                 m["away_id"] if "away_id" in m else m["away"])})
     ix = {t: i for i, t in enumerate(teams)}
-    X = np.zeros((len(train), len(teams)))
+    k = len(teams) + (1 if ha is None else 0)
+    X = np.zeros((len(train), k))
     y = np.zeros(len(train))
-    for k, m in enumerate(train):
-        X[k, ix[m["home_id"]]] = 1
-        X[k, ix[m["away_id"]]] = -1
+    for j, m in enumerate(train):
+        h = m["home_id"] if "home_id" in m else m["home"]
+        a = m["away_id"] if "away_id" in m else m["away"]
+        X[j, ix[h]] = 1
+        X[j, ix[a]] = -1
         p = two_way(m["close_1"], m["close_2"])
-        y[k] = math.log(p / (1 - p)) - ha
+        y[j] = math.log(p / (1 - p)) - (ha or 0)
+        if ha is None:
+            X[j, -1] = 1
     b, *_ = np.linalg.lstsq(X, y, rcond=None)
-    return {t: float(b[ix[t]]) for t in teams}
+    s = {t: float(b[ix[t]]) for t in teams}
+    return (s, float(b[-1])) if ha is None else s
+
+
+fit_strengths = fit  # name used by tests
 
 
 class LeagueModel:
-    def __init__(self, key):
-        self.key = key
-        self.lg = CFG["leagues"][key]
-        self.ha = self.lg["ha"]
-        self.rows = load_matches(key)
+    def __init__(self, slug):
+        self.slug = slug
+        self.lg = CFG["leagues"].get(slug, {})
+        by, self.team_idx = all_matches()
+        self.rows = by.get(slug, [])
+        self.start = season_start(self.rows)
+        self.cur = [r for r in self.rows if (self.start is None or r["day"] >= self.start)]
+        self.prev = [r for r in self.rows if self.start is not None and r["day"] < self.start]
+        self.ha, self.ha_source = self._ha()
+        self._cache = {}
 
-    # ---- strengths -------------------------------------------------------
+    def _ha(self):
+        if self.lg.get("ha") is not None:
+            return self.lg["ha"], self.lg.get("ha_source", "config")
+        for src, rows in (("last season", self.prev), ("this season", self.cur)):
+            tr = [r for r in rows if r["close_1"] and r["close_2"]]
+            if len(tr) >= 60:
+                _, c = fit(tr, None)
+                return c, f"estimated ({src}, {len(tr)} matches)"
+        return None, "too little data"
+
     def strengths(self, before_day):
-        cur = [r for r in self.rows if r["scope"] == "current" and r["close_1"] and r["day"] < before_day]
-        per = defaultdict(list)
-        for r in cur:
-            per[r["home_id"]].append(r)
-            per[r["away_id"]].append(r)
-        keep = {}
-        for lst in per.values():
-            for r in lst[-M["rating_max_matches"]:]:
-                keep[r["match_id"]] = r
-        if not keep:
-            return {}, {}
-        s = fit_strengths(list(keep.values()), self.ha)
-        n = {t: min(len(v), M["rating_max_matches"]) for t, v in per.items()}
-        return s, n
+        if before_day not in self._cache:
+            cur = [r for r in self.cur if r["close_1"] and r["close_2"] and r["day"] < before_day]
+            per = defaultdict(list)
+            for r in cur:
+                per[r["home"]].append(r)
+                per[r["away"]].append(r)
+            keep = {}
+            for lst in per.values():
+                for r in lst[-M["rating_max_matches"]:]:
+                    keep[r["event_id"]] = r
+            s = fit(list(keep.values()), self.ha) if keep else {}
+            n = {t: min(len(v), M["rating_max_matches"]) for t, v in per.items()}
+            self._cache[before_day] = (s, n)
+        return self._cache[before_day]
 
-    # ---- goals -----------------------------------------------------------
-    def team_goals_avg(self, team_id, before_day):
-        lst = [r for r in self.rows if r["day"] < before_day and team_id in (r["home_id"], r["away_id"])]
-        lst = lst[-M["goals_matches"]:]
-        if len(lst) < M["goals_matches"]:
-            return None, len(lst)
-        return sum(r["hg"] + r["ag"] for r in lst) / len(lst), len(lst)
+    def team_goals_avg(self, team, before_day):
+        lst = self.team_idx.get(team, [])
+        i = bisect_left(lst, (before_day,))
+        last = lst[max(0, i - M["goals_matches"]):i]
+        if len(last) < M["goals_matches"]:
+            return None, len(last)
+        return sum(g for _, g in last) / len(last), len(last)
 
-    # ---- prediction ------------------------------------------------------
-    def predict(self, home_id, away_id, day, _cache={}):
-        ck = (self.key, day)
-        if ck not in _cache:
-            _cache[ck] = self.strengths(day)
-        s, n = _cache[ck]
-        home_id, away_id = str(home_id), str(away_id)
-        out = {"n_home": n.get(home_id, 0), "n_away": n.get(away_id, 0)}
+    def predict(self, home, away, day):
+        out = {"ha": self.ha}
+        if self.ha is None:
+            out["reason"] = "no home advantage (too little data)"
+            return out
+        s, n = self.strengths(day)
+        out.update(n_home=n.get(home, 0), n_away=n.get(away, 0))
         if out["n_home"] < M["rating_min_matches"] or out["n_away"] < M["rating_min_matches"]:
             out["reason"] = "too few rating matches"
             return out
-        L = self.ha + s[home_id] - s[away_id]
-        ph = 1 / (1 + math.exp(-L))
-        out.update(p_home=ph, s_home=s[home_id], s_away=s[away_id])
-        tgh, gn_h = self.team_goals_avg(home_id, day)
-        tga, gn_a = self.team_goals_avg(away_id, day)
-        out.update(g_home=gn_h, g_away=gn_a)
+        ph = 1 / (1 + math.exp(-(self.ha + s[home] - s[away])))
+        pa = 1 - ph
+        out.update(p_home=ph)
+        tgh, gh = self.team_goals_avg(home, day)
+        tga, ga = self.team_goals_avg(away, day)
+        out.update(g_home=gh, g_away=ga)
         if tgh is None or tga is None:
             out["reason"] = "too few goal matches"
             return out
-        pa = 1 - ph
         E = (M["tg_a"] + M["tg_b"] * abs(ph - pa) * 100) * ((tgh + tga) / 2) / M["tg_norm"]
         lh = math.exp(M["team_a"] + M["team_b"] * ph) * E / M["team_norm"]
         la = math.exp(M["team_a"] + M["team_b"] * pa) * E / M["team_norm"]
@@ -132,15 +204,12 @@ def score_matrix(lh, la, n=15):
 
 
 def _split(line):
-    """Quarter lines split in two halves; others are a single part."""
-    q = round(line * 4) % 2
-    if q == 1:
+    if round(line * 4) % 2 == 1:
         return [line - 0.25, line + 0.25]
     return [line]
 
 
 def _settle(margin):
-    """margin > 0 win, = 0 push, < 0 loss -> (win fraction, loss fraction)."""
     if margin > 1e-9:
         return 1.0, 0.0
     if margin < -1e-9:
@@ -149,25 +218,19 @@ def _settle(margin):
 
 
 def outcome_probs(mat, market, line, side):
-    """Expected (win, loss) fractions of the stake. market 'ah' (line is the home handicap, side home/away)
-    or 'total' (side over/under)."""
+    """Expected (win, loss) stake fractions. market 'ah' (line = home handicap; side home/away) or 'total'."""
     n = mat.shape[0]
+    i, j = np.meshgrid(range(n), range(n), indexing="ij")
     w = l = 0.0
     parts = _split(line)
-    for i in range(n):
-        for j in range(n):
-            p = mat[i, j]
-            if p < 1e-12:
-                continue
-            for part in parts:
-                if market == "ah":
-                    m = (i - j) + part if side == "home" else (j - i) - part
-                else:
-                    m = (i + j) - part if side == "over" else part - (i + j)
-                a, b = _settle(m)
-                w += p * a / len(parts)
-                l += p * b / len(parts)
-    return w, l
+    for part in parts:
+        if market == "ah":
+            m = (i - j) + part if side == "home" else (j - i) - part
+        else:
+            m = (i + j) - part if side == "over" else part - (i + j)
+        w += mat[m > 1e-9].sum() / len(parts)
+        l += mat[m < -1e-9].sum() / len(parts)
+    return float(w), float(l)
 
 
 def fair_odds(mat, market, line, side):

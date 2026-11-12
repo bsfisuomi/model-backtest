@@ -1,0 +1,288 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+62734571,2025-09-13 13:00,AC Leon,S.S.D. Virtus Ciseranobergamo 1909,1,1,,,
+62734565,2025-09-14 13:00,ASD Calcio Brusaporto,SSD Real Calepina FC,0,3,,,
+62734569,2025-09-14 13:00,USD Castellanzese 1921,Caldiero Terme,0,0,,,
+63667473,2025-09-17 13:00,Milan Futuro,AC Leon,2,2,,,
+62734587,2025-09-21 13:00,US Folgore Caratese,USD Castellanzese 1921,2,1,,,
+62734593,2025-09-21 13:00,Oltrepo FBC,FC Pavia 1911,0,1,,,
+62734603,2025-09-24 13:00,USD Castellanzese 1921,Oltrepo FBC,2,2,,,
+62734607,2025-09-24 13:00,AC Leon,Caldiero Terme,0,0,,,
+62734613,2025-09-24 13:00,ASD Varesina Calcio,SSD Real Calepina FC,0,2,,,
+62734615,2025-09-24 13:00,Villa d'Alme Valle Brembana,Sondrio Calcio,3,0,,,
+62734619,2025-09-28 13:00,ASD Calcio Brusaporto,AVC Vogherese 1919,2,1,,,
+62734633,2025-09-28 13:00,Villa d'Alme Valle Brembana,ASD Varesina Calcio,1,1,,,
+62734641,2025-10-04 18:30,AC Chievo Verona,Caldiero Terme,1,0,,,
+62734635,2025-10-05 13:00,AVC Vogherese 1919,Sondrio Calcio,1,0,,,
+62734639,2025-10-05 13:00,USD Castellanzese 1921,SSD Real Calepina FC,3,2,,,
+62734655,2025-10-12 13:00,ASD Calcio Brusaporto,FC Pavia 1911,3,1,,,
+62734679,2025-10-19 13:00,AC Leon,SSD Real Calepina FC,2,0,,,
+62734685,2025-10-19 13:00,Usd Scanzorosciate Calcio,ASD Varesina Calcio,2,2,,,
+62734721,2025-11-02 13:30,Usd Scanzorosciate Calcio,AVC Vogherese 1919,0,0,,,
+62734737,2025-11-09 13:30,SSD Real Calepina FC,Caldiero Terme,1,1,,,
+62734775,2025-11-23 13:30,SSD Real Calepina FC,Oltrepo FBC,1,2,,,
+65686188,2025-11-26 13:30,Milan Futuro,SSD Real Calepina FC,1,0,,,
+62734787,2025-11-30 13:30,AC Chievo Verona,ASD Varesina Calcio,1,2,,,
+62734801,2025-12-07 13:30,ASD Calcio Brusaporto,USD Breno,3,2,,,
+62734811,2025-12-07 13:30,SSD Real Calepina FC,US Folgore Caratese,0,1,,,
+62734815,2025-12-07 13:30,Villa d'Alme Valle Brembana,Caldiero Terme,2,1,,,
+62734817,2025-12-14 13:30,USD Breno,ASD Varesina Calcio,2,0,2.550,3.300,2.375
+62734819,2025-12-14 13:30,Caldiero Terme,AVC Vogherese 1919,2,2,,,
+62734821,2025-12-14 13:30,USD Casatese Merate,Usd Scanzorosciate Calcio,1,1,1.615,3.400,4.750
+62734825,2025-12-14 13:30,US Folgore Caratese,ASD Calcio Brusaporto,1,1,2.050,3.250,3.100
+62734827,2025-12-14 13:30,Milan Futuro,USD Castellanzese 1921,3,1,1.850,3.400,3.500
+62734829,2025-12-14 13:30,Oltrepo FBC,Villa d'Alme Valle Brembana,1,2,,,
+62734831,2025-12-14 13:30,SSD Real Calepina FC,Sondrio Calcio,1,1,1.950,3.300,3.300
+62734833,2025-12-14 13:30,S.S.D. Virtus Ciseranobergamo 1909,FC Pavia 1911,1,1,,,
+62734823,2025-12-14 16:00,AC Chievo Verona,AC Leon,0,2,1.700,3.500,4.100
+62734835,2025-12-21 13:30,AVC Vogherese 1919,Milan Futuro,2,2,,,
+62734837,2025-12-21 13:30,ASD Calcio Brusaporto,Oltrepo FBC,0,1,2.000,3.200,3.250
+62734839,2025-12-21 13:30,USD Castellanzese 1921,S.S.D. Virtus Ciseranobergamo 1909,3,1,2.500,3.100,2.500
+62734841,2025-12-21 13:30,AC Leon,USD Casatese Merate,0,0,,,
+62734843,2025-12-21 13:30,Sondrio Calcio,US Folgore Caratese,0,3,4.000,3.400,1.750
+62734845,2025-12-21 13:30,FC Pavia 1911,AC Chievo Verona,0,2,,,
+62734847,2025-12-21 13:30,Usd Scanzorosciate Calcio,SSD Real Calepina FC,1,2,,,
+62734849,2025-12-21 13:30,ASD Varesina Calcio,Caldiero Terme,1,2,2.450,3.200,2.550
+62734851,2025-12-21 13:30,Villa d'Alme Valle Brembana,USD Breno,4,0,,,
+62734885,2026-01-04 13:30,USD Castellanzese 1921,USD Breno,0,2,2.250,3.100,3.000
+62734889,2026-01-04 13:30,Usd Scanzorosciate Calcio,AC Chievo Verona,1,1,3.500,3.100,2.050
+62734893,2026-01-04 13:30,AC Leon,Milan Futuro,0,3,2.600,3.000,2.500
+62734897,2026-01-04 13:30,AVC Vogherese 1919,Oltrepo FBC,0,1,2.450,3.200,2.550
+62734901,2026-01-04 13:30,USD Casatese Merate,S.S.D. Virtus Ciseranobergamo 1909,0,2,,,
+62734887,2026-01-06 13:30,FC Pavia 1911,Caldiero Terme,1,3,3.600,3.400,1.833
+62734891,2026-01-06 13:30,ASD Varesina Calcio,US Folgore Caratese,0,0,3.000,3.300,2.100
+62734895,2026-01-06 13:30,ASD Calcio Brusaporto,Sondrio Calcio,3,0,1.550,3.750,5.000
+62734899,2026-01-06 13:30,Villa d'Alme Valle Brembana,SSD Real Calepina FC,2,2,1.833,3.500,3.500
+62734907,2026-01-10 13:30,AC Chievo Verona,USD Casatese Merate,0,0,,,
+62734903,2026-01-11 13:30,USD Breno,AVC Vogherese 1919,2,1,1.650,3.700,4.333
+62734905,2026-01-11 13:30,SSD Real Calepina FC,ASD Calcio Brusaporto,1,0,2.750,3.300,2.250
+62734909,2026-01-11 13:30,Caldiero Terme,USD Castellanzese 1921,1,1,,,
+62734911,2026-01-11 13:30,S.S.D. Virtus Ciseranobergamo 1909,AC Leon,1,0,2.350,3.200,2.700
+62734913,2026-01-11 13:30,Milan Futuro,FC Pavia 1911,0,1,1.533,3.750,5.000
+62734917,2026-01-11 13:30,Oltrepo FBC,ASD Varesina Calcio,0,1,2.050,3.100,3.250
+62734919,2026-01-11 13:30,US Folgore Caratese,Villa d'Alme Valle Brembana,3,0,1.650,3.700,4.333
+62734937,2026-01-17 13:30,Usd Scanzorosciate Calcio,S.S.D. Virtus Ciseranobergamo 1909,1,0,,,
+62734921,2026-01-18 13:30,AC Leon,USD Breno,3,1,1.950,3.400,3.200
+62734923,2026-01-18 13:30,Villa d'Alme Valle Brembana,ASD Calcio Brusaporto,2,1,2.300,3.300,2.700
+62734925,2026-01-18 13:30,USD Casatese Merate,Caldiero Terme,1,1,,,
+62734927,2026-01-18 13:30,USD Castellanzese 1921,US Folgore Caratese,0,0,4.100,3.500,1.700
+62734931,2026-01-18 13:30,ASD Varesina Calcio,Sondrio Calcio,0,2,1.727,3.400,4.000
+62734933,2026-01-18 13:30,FC Pavia 1911,Oltrepo FBC,0,0,2.400,3.250,2.550
+62734935,2026-01-18 13:30,AVC Vogherese 1919,SSD Real Calepina FC,1,2,,,
+62734929,2026-01-18 17:00,AC Chievo Verona,Milan Futuro,1,3,,,
+62734915,2026-01-21 13:30,Sondrio Calcio,Usd Scanzorosciate Calcio,0,3,2.600,3.000,2.450
+62734939,2026-01-25 13:30,US Folgore Caratese,AVC Vogherese 1919,5,0,,,
+62734941,2026-01-25 13:30,Milan Futuro,USD Casatese Merate,2,3,,,
+62734943,2026-01-25 13:30,Oltrepo FBC,USD Castellanzese 1921,2,0,,,
+62734945,2026-01-25 13:30,S.S.D. Virtus Ciseranobergamo 1909,AC Chievo Verona,0,2,,,
+62734947,2026-01-25 13:30,Caldiero Terme,AC Leon,3,0,2.050,3.200,3.200
+62734949,2026-01-25 13:30,USD Breno,FC Pavia 1911,2,2,,,
+62734951,2026-01-25 13:30,ASD Calcio Brusaporto,Usd Scanzorosciate Calcio,0,2,1.950,3.300,3.400
+62734953,2026-01-25 13:30,SSD Real Calepina FC,ASD Varesina Calcio,2,0,2.200,3.250,2.800
+62734955,2026-01-25 13:30,Sondrio Calcio,Villa d'Alme Valle Brembana,0,1,,,
+62734957,2026-02-01 13:30,AC Chievo Verona,USD Breno,2,0,,,
+62734959,2026-02-01 13:30,AVC Vogherese 1919,ASD Calcio Brusaporto,0,1,6.500,3.900,1.400
+62734961,2026-02-01 13:30,S.S.D. Virtus Ciseranobergamo 1909,Caldiero Terme,1,1,,,
+62734963,2026-02-01 13:30,AC Leon,US Folgore Caratese,2,0,,,
+62734965,2026-02-01 13:30,Usd Scanzorosciate Calcio,Milan Futuro,2,2,,,
+62734967,2026-02-01 13:30,USD Castellanzese 1921,Sondrio Calcio,1,2,1.727,3.500,3.900
+62734969,2026-02-01 13:30,USD Casatese Merate,Oltrepo FBC,0,1,,,
+62734971,2026-02-01 13:30,FC Pavia 1911,SSD Real Calepina FC,0,1,,,
+62734973,2026-02-01 13:30,ASD Varesina Calcio,Villa d'Alme Valle Brembana,4,1,,,
+62734981,2026-02-07 19:30,Caldiero Terme,AC Chievo Verona,4,1,,,
+62734975,2026-02-08 13:30,Sondrio Calcio,AVC Vogherese 1919,4,1,,,
+62734977,2026-02-08 13:30,USD Breno,USD Casatese Merate,0,1,,,
+62734979,2026-02-08 13:30,SSD Real Calepina FC,USD Castellanzese 1921,1,2,2.150,3.200,3.000
+62734983,2026-02-08 13:30,Oltrepo FBC,AC Leon,0,1,2.500,3.100,2.550
+62734985,2026-02-08 13:30,US Folgore Caratese,FC Pavia 1911,2,0,,,
+62734987,2026-02-08 13:30,Villa d'Alme Valle Brembana,Usd Scanzorosciate Calcio,1,1,2.300,2.625,3.250
+62734989,2026-02-08 13:30,ASD Calcio Brusaporto,ASD Varesina Calcio,1,1,,,
+62734991,2026-02-08 13:30,Milan Futuro,S.S.D. Virtus Ciseranobergamo 1909,0,1,,,
+62734993,2026-02-14 13:30,Milan Futuro,USD Breno,1,0,,,
+62734995,2026-02-15 13:30,FC Pavia 1911,ASD Calcio Brusaporto,1,0,,,
+62734997,2026-02-15 13:30,Usd Scanzorosciate Calcio,Caldiero Terme,1,0,,,
+62734999,2026-02-15 13:30,AC Chievo Verona,US Folgore Caratese,1,4,2.600,3.100,2.450
+62735001,2026-02-15 13:30,AC Leon,Sondrio Calcio,4,1,1.850,3.250,3.750
+62735003,2026-02-15 13:30,S.S.D. Virtus Ciseranobergamo 1909,Oltrepo FBC,0,0,2.500,3.000,2.625
+62735005,2026-02-15 13:30,USD Casatese Merate,SSD Real Calepina FC,1,0,2.000,3.300,3.200
+62735007,2026-02-15 13:30,AVC Vogherese 1919,ASD Varesina Calcio,0,0,,,
+62735009,2026-02-15 13:30,USD Castellanzese 1921,Villa d'Alme Valle Brembana,2,0,2.600,3.000,2.500
+62735011,2026-02-22 13:30,Villa d'Alme Valle Brembana,AVC Vogherese 1919,2,0,1.444,4.000,6.000
+62735013,2026-02-22 13:30,US Folgore Caratese,USD Casatese Merate,1,1,1.800,3.400,3.750
+62735015,2026-02-22 13:30,ASD Calcio Brusaporto,USD Castellanzese 1921,1,0,2.000,3.250,3.300
+62735017,2026-02-22 13:30,Oltrepo FBC,AC Chievo Verona,3,0,,,
+62735019,2026-02-22 13:30,SSD Real Calepina FC,AC Leon,1,2,,,
+62735021,2026-02-22 13:30,Caldiero Terme,Milan Futuro,0,3,,,
+62735023,2026-02-22 13:30,Sondrio Calcio,FC Pavia 1911,1,2,,,
+62735025,2026-02-22 13:30,ASD Varesina Calcio,Usd Scanzorosciate Calcio,1,1,,,
+62735027,2026-02-22 13:30,USD Breno,S.S.D. Virtus Ciseranobergamo 1909,0,0,,,
+62735029,2026-03-01 13:30,USD Castellanzese 1921,AVC Vogherese 1919,1,0,1.400,4.200,6.250
+62735031,2026-03-01 13:30,Usd Scanzorosciate Calcio,USD Breno,3,0,,,
+62735033,2026-03-01 13:30,USD Casatese Merate,ASD Calcio Brusaporto,1,1,2.100,3.250,3.000
+62735035,2026-03-01 13:30,Milan Futuro,US Folgore Caratese,1,1,,,
+62735037,2026-03-01 13:30,AC Chievo Verona,Sondrio Calcio,1,0,,,
+62735039,2026-03-01 13:30,Caldiero Terme,Oltrepo FBC,2,4,,,
+62735041,2026-03-01 13:30,S.S.D. Virtus Ciseranobergamo 1909,SSD Real Calepina FC,0,2,2.250,3.100,2.900
+62735043,2026-03-01 13:30,FC Pavia 1911,ASD Varesina Calcio,1,1,2.350,3.100,2.700
+62735045,2026-03-01 13:30,AC Leon,Villa d'Alme Valle Brembana,1,2,2.150,3.200,3.000
+62735047,2026-03-15 13:30,USD Breno,Caldiero Terme,0,0,,,
+62735049,2026-03-15 13:30,Sondrio Calcio,USD Casatese Merate,0,0,,,
+62735053,2026-03-15 13:30,SSD Real Calepina FC,AC Chievo Verona,0,0,,,
+62735057,2026-03-15 13:30,ASD Calcio Brusaporto,AC Leon,0,1,,,
+62735059,2026-03-15 13:30,Oltrepo FBC,Milan Futuro,0,1,2.400,3.200,2.600
+62735061,2026-03-15 13:30,Villa d'Alme Valle Brembana,FC Pavia 1911,0,0,,,
+62735063,2026-03-15 13:30,AVC Vogherese 1919,Usd Scanzorosciate Calcio,1,6,,,
+62735065,2026-03-15 13:30,US Folgore Caratese,S.S.D. Virtus Ciseranobergamo 1909,1,1,,,
+62735051,2026-03-18 13:30,ASD Varesina Calcio,USD Castellanzese 1921,2,2,,,
+62735083,2026-03-21 13:30,AC Chievo Verona,Villa d'Alme Valle Brembana,3,1,,,
+62735067,2026-03-22 13:30,AC Leon,AVC Vogherese 1919,0,0,,,
+62735069,2026-03-22 13:30,S.S.D. Virtus Ciseranobergamo 1909,ASD Calcio Brusaporto,2,1,,,
+62735071,2026-03-22 13:30,FC Pavia 1911,USD Castellanzese 1921,0,0,,,
+62735073,2026-03-22 13:30,USD Breno,US Folgore Caratese,0,0,,,
+62735075,2026-03-22 13:30,Milan Futuro,Sondrio Calcio,0,0,1.380,4.100,6.500
+62735077,2026-03-22 13:30,Usd Scanzorosciate Calcio,Oltrepo FBC,0,0,,,
+62735079,2026-03-22 13:30,Caldiero Terme,SSD Real Calepina FC,0,0,,,
+62735081,2026-03-22 13:30,USD Casatese Merate,ASD Varesina Calcio,0,0,,,
+62735097,2026-03-28 17:30,AVC Vogherese 1919,FC Pavia 1911,0,2,,,
+62735085,2026-03-29 13:00,Oltrepo FBC,USD Breno,2,0,,,
+62735087,2026-03-29 13:00,US Folgore Caratese,Caldiero Terme,0,0,,,
+62735089,2026-03-29 13:00,Villa d'Alme Valle Brembana,USD Casatese Merate,0,1,,,
+62735091,2026-03-29 13:00,ASD Calcio Brusaporto,AC Chievo Verona,0,1,,,
+62735099,2026-03-29 13:00,USD Castellanzese 1921,Usd Scanzorosciate Calcio,0,0,,,
+62735101,2026-03-29 13:00,Sondrio Calcio,S.S.D. Virtus Ciseranobergamo 1909,0,0,,,
+62735103,2026-04-02 12:00,AC Chievo Verona,AVC Vogherese 1919,4,1,,,
+62735105,2026-04-02 13:00,Caldiero Terme,ASD Calcio Brusaporto,0,0,,,
+62735107,2026-04-02 13:00,USD Casatese Merate,USD Castellanzese 1921,0,0,,,
+62735109,2026-04-02 13:00,Usd Scanzorosciate Calcio,US Folgore Caratese,0,0,,,
+62735111,2026-04-02 13:00,USD Breno,Sondrio Calcio,0,0,,,
+62735115,2026-04-02 13:00,Oltrepo FBC,SSD Real Calepina FC,1,0,,,
+62735117,2026-04-02 13:00,S.S.D. Virtus Ciseranobergamo 1909,ASD Varesina Calcio,0,0,,,
+62735119,2026-04-02 13:00,Milan Futuro,Villa d'Alme Valle Brembana,0,0,1.800,3.300,3.900
+62735113,2026-04-02 16:30,AC Leon,FC Pavia 1911,3,1,,,
+62735095,2026-04-08 13:00,SSD Real Calepina FC,Milan Futuro,1,0,2.350,3.250,2.600
+62735125,2026-04-11 16:30,AVC Vogherese 1919,USD Casatese Merate,0,0,,,
+62735133,2026-04-11 18:30,US Folgore Caratese,Oltrepo FBC,0,0,,,
+62735121,2026-04-12 13:00,SSD Real Calepina FC,USD Breno,1,1,,,
+62735123,2026-04-12 13:00,Sondrio Calcio,Caldiero Terme,0,0,,,
+62735127,2026-04-12 13:00,ASD Varesina Calcio,AC Chievo Verona,0,0,,,
+62735129,2026-04-12 13:00,USD Castellanzese 1921,AC Leon,1,0,,,
+62735131,2026-04-12 13:00,ASD Calcio Brusaporto,Milan Futuro,0,0,,,
+62735135,2026-04-12 13:00,FC Pavia 1911,Usd Scanzorosciate Calcio,1,0,,,
+62735139,2026-04-19 13:00,S.S.D. Virtus Ciseranobergamo 1909,AVC Vogherese 1919,6,1,,,
+62735141,2026-04-19 13:00,USD Breno,ASD Calcio Brusaporto,0,0,,,
+62735143,2026-04-19 13:00,AC Chievo Verona,USD Castellanzese 1921,2,2,,,
+62735145,2026-04-19 13:00,Usd Scanzorosciate Calcio,AC Leon,0,0,,,
+62735147,2026-04-19 13:00,Oltrepo FBC,Sondrio Calcio,0,0,,,
+62735149,2026-04-19 13:00,USD Casatese Merate,FC Pavia 1911,0,0,,,
+62735151,2026-04-19 13:00,US Folgore Caratese,SSD Real Calepina FC,1,1,,,
+62735153,2026-04-19 13:00,Milan Futuro,ASD Varesina Calcio,0,0,1.750,3.500,3.800
+62735155,2026-04-19 13:00,Caldiero Terme,Villa d'Alme Valle Brembana,0,0,,,
+62735157,2026-04-26 13:00,ASD Varesina Calcio,USD Breno,2,2,,,
+62735159,2026-04-26 13:00,AVC Vogherese 1919,Caldiero Terme,0,0,,,
+62735161,2026-04-26 13:00,Usd Scanzorosciate Calcio,USD Casatese Merate,0,0,,,
+62735163,2026-04-26 13:00,AC Leon,AC Chievo Verona,2,2,,,
+62735165,2026-04-26 13:00,ASD Calcio Brusaporto,US Folgore Caratese,3,1,,,
+62735167,2026-04-26 13:00,USD Castellanzese 1921,Milan Futuro,1,3,2.250,3.100,2.800
+62735169,2026-04-26 13:00,Villa d'Alme Valle Brembana,Oltrepo FBC,1,3,,,
+62735171,2026-04-26 13:00,Sondrio Calcio,SSD Real Calepina FC,0,0,,,
+62735173,2026-04-26 13:00,FC Pavia 1911,S.S.D. Virtus Ciseranobergamo 1909,0,0,,,
+62735183,2026-05-02 18:30,US Folgore Caratese,Sondrio Calcio,0,0,,,
+62735175,2026-05-03 13:00,Milan Futuro,AVC Vogherese 1919,10,1,,,
+62735177,2026-05-03 13:00,Oltrepo FBC,ASD Calcio Brusaporto,0,0,,,
+62735179,2026-05-03 13:00,S.S.D. Virtus Ciseranobergamo 1909,USD Castellanzese 1921,1,1,,,
+62735181,2026-05-03 13:00,USD Casatese Merate,AC Leon,0,0,,,
+62735185,2026-05-03 13:00,AC Chievo Verona,FC Pavia 1911,0,0,,,
+62735187,2026-05-03 13:00,SSD Real Calepina FC,Usd Scanzorosciate Calcio,1,1,,,
+62735189,2026-05-03 13:00,Caldiero Terme,ASD Varesina Calcio,0,0,,,
+62735191,2026-05-03 13:00,USD Breno,Villa d'Alme Valle Brembana,0,0,,,
+71297044,2026-05-10 14:00,USD Breno,FC Pavia 1911,0,1,,,
+71321700,2026-05-10 14:00,USD Casatese Merate,AC Leon,4,0,,,
+71322112,2026-05-10 14:00,USD Castellanzese 1921,ASD Varesina Calcio,1,2,,,
+71321706,2026-05-10 17:00,AC Chievo Verona,Milan Futuro,0,0,2.250,3.200,2.875
+71467812,2026-05-17 14:00,USD Casatese Merate,AC Chievo Verona,2,2,2.150,2.700,3.100
+73628566,2026-09-06 13:00,Club Milano SSD,Nibbiano And Valtidone,0,1,,,
+73628568,2026-09-06 13:00,US Fiorenzuola,Usd Scanzorosciate Calcio,0,1,,,
+73628570,2026-09-06 13:00,AC Leon,ASD Calcio Brusaporto,2,0,1.909,3.250,3.500
+73628572,2026-09-06 13:00,Milan Futuro,Caldiero Terme,4,3,2.100,3.200,3.100
+73628574,2026-09-06 13:00,SSD Real Calepina FC,Pro Palazzolo,5,1,2.900,3.100,2.200
+73628576,2026-09-06 13:00,Tritium Calcio 1908,Piacenza Calcio 1919,1,2,,,
+73628578,2026-09-06 13:00,Virtus Verona,Villa d'Alme Valle Brembana,2,2,,,
+73628580,2026-09-06 13:00,S.S.D. Virtus Ciseranobergamo 1909,Rovato Vertovese,2,0,,,
+73628582,2026-09-12 14:00,ASD Calcio Brusaporto,Tritium Calcio 1908,2,1,2.100,3.200,3.100
+73628598,2026-09-12 14:00,Villa d'Alme Valle Brembana,S.S.D. Virtus Ciseranobergamo 1909,0,0,2.150,3.100,3.100
+73628596,2026-09-12 18:30,Usd Scanzorosciate Calcio,SSD Real Calepina FC,0,0,2.150,3.100,2.900
+73628588,2026-09-13 13:00,Nibbiano And Valtidone,US Fiorenzuola,1,0,2.200,3.200,2.800
+73628592,2026-09-13 13:00,Piacenza Calcio 1919,Virtus Verona,0,1,1.850,3.250,3.750
+73628600,2026-09-16 12:30,AC Chievo Verona,Club Milano SSD,2,0,1.571,3.400,5.250
+73628604,2026-09-16 13:00,AC Leon,Piacenza Calcio 1919,1,1,2.750,3.400,2.200
+73628608,2026-09-16 13:00,Nibbiano And Valtidone,Usd Scanzorosciate Calcio,2,1,2.375,3.100,2.700
+73628610,2026-09-16 13:00,SSD Real Calepina FC,Caldiero Terme,2,2,2.250,3.100,2.875
+73628614,2026-09-16 13:00,Virtus Verona,Rovato Vertovese,1,1,,,
+73628616,2026-09-16 13:00,S.S.D. Virtus Ciseranobergamo 1909,Calcio Pavonese,1,1,1.950,3.200,3.500
+73628606,2026-09-16 16:00,Milan Futuro,ASD Calcio Brusaporto,2,1,1.727,3.600,3.800
+73628612,2026-09-16 18:00,Tritium Calcio 1908,Villa d'Alme Valle Brembana,1,1,3.300,3.200,2.050
+73628602,2026-09-16 18:30,US Fiorenzuola,Pro Palazzolo,0,1,3.600,3.200,1.850
+73628618,2026-09-20 13:00,ASD Calcio Brusaporto,US Fiorenzuola,1,0,1.800,3.400,3.800
+73628620,2026-09-20 13:00,Caldiero Terme,Usd Scanzorosciate Calcio,1,0,,,
+73628622,2026-09-20 13:00,Calcio Pavonese,Tritium Calcio 1908,3,2,,,
+73628626,2026-09-20 13:00,Club Milano SSD,Virtus Verona,0,1,2.550,3.100,2.600
+73628628,2026-09-20 13:00,Pro Palazzolo,Nibbiano And Valtidone,0,1,,,
+73628630,2026-09-20 13:00,Piacenza Calcio 1919,SSD Real Calepina FC,3,1,1.550,3.600,5.000
+73628632,2026-09-20 13:00,Rovato Vertovese,AC Leon,2,2,,,
+73628634,2026-09-20 13:00,Villa d'Alme Valle Brembana,Milan Futuro,1,2,2.550,3.200,2.450
+73628624,2026-09-21 18:45,AC Chievo Verona,S.S.D. Virtus Ciseranobergamo 1909,2,1,1.615,3.300,5.000
+73628636,2026-09-27 13:00,US Fiorenzuola,Caldiero Terme,1,1,3.200,3.200,2.050
+73628638,2026-09-27 13:00,AC Leon,Villa d'Alme Valle Brembana,1,2,1.850,3.300,3.700
+73628642,2026-09-27 13:00,Nibbiano And Valtidone,AC Chievo Verona,2,0,2.875,3.200,2.200
+73628644,2026-09-27 13:00,SSD Real Calepina FC,ASD Calcio Brusaporto,2,3,2.300,3.200,2.700
+73628646,2026-09-27 13:00,Usd Scanzorosciate Calcio,Pro Palazzolo,1,1,,,
+73628648,2026-09-27 13:00,Tritium Calcio 1908,Rovato Vertovese,2,2,,,
+73628650,2026-09-27 13:00,Virtus Verona,Calcio Pavonese,0,1,1.666,3.500,4.333
+73628652,2026-09-27 13:00,S.S.D. Virtus Ciseranobergamo 1909,Club Milano SSD,1,1,2.250,2.750,3.000
+73628654,2026-10-04 13:00,ASD Calcio Brusaporto,Pro Palazzolo,0,1,,,
+73628656,2026-10-04 13:00,Caldiero Terme,Nibbiano And Valtidone,1,0,,,
+73628662,2026-10-04 13:00,Club Milano SSD,AC Leon,1,2,2.550,3.100,2.550
+73628664,2026-10-04 13:00,Piacenza Calcio 1919,Usd Scanzorosciate Calcio,4,0,1.400,3.900,7.000
+73628666,2026-10-04 13:00,Rovato Vertovese,SSD Real Calepina FC,0,1,2.450,3.250,2.500
+73628668,2026-10-04 13:00,Villa d'Alme Valle Brembana,US Fiorenzuola,0,0,1.750,3.300,4.200
+73628670,2026-10-04 13:00,S.S.D. Virtus Ciseranobergamo 1909,Virtus Verona,3,0,,,
+73628674,2026-10-11 13:00,AC Leon,Calcio Pavonese,3,0,1.700,3.300,4.333
+73628676,2026-10-11 13:00,Milan Futuro,Rovato Vertovese,1,2,1.800,3.500,3.600
+73628678,2026-10-11 13:00,Nibbiano And Valtidone,S.S.D. Virtus Ciseranobergamo 1909,4,1,1.909,3.250,3.500
+73628680,2026-10-11 13:00,Pro Palazzolo,Caldiero Terme,1,3,2.300,3.000,2.875
+73628682,2026-10-11 13:00,SSD Real Calepina FC,Villa d'Alme Valle Brembana,0,3,,,
+73628684,2026-10-11 13:00,Usd Scanzorosciate Calcio,ASD Calcio Brusaporto,1,0,2.450,3.250,2.450
+73628686,2026-10-11 13:00,Tritium Calcio 1908,Club Milano SSD,0,1,,,
+73628688,2026-10-11 16:30,Virtus Verona,AC Chievo Verona,1,1,,,
+73628690,2026-10-18 13:00,ASD Calcio Brusaporto,Nibbiano And Valtidone,0,1,,,
+73628692,2026-10-18 13:00,Calcio Pavonese,US Fiorenzuola,2,1,,,
+73628694,2026-10-18 13:00,AC Chievo Verona,Milan Futuro,1,2,1.900,3.300,3.500
+73628696,2026-10-18 13:00,Club Milano SSD,SSD Real Calepina FC,1,2,2.800,3.100,2.300
+73628698,2026-10-18 13:00,Piacenza Calcio 1919,Caldiero Terme,3,1,1.909,3.200,3.600
+73628700,2026-10-18 13:00,Rovato Vertovese,Usd Scanzorosciate Calcio,1,1,2.200,3.200,2.900
+73628702,2026-10-18 13:00,Villa d'Alme Valle Brembana,Pro Palazzolo,1,0,2.150,3.100,3.100
+73628704,2026-10-18 13:00,Virtus Verona,Tritium Calcio 1908,2,0,,,
+73628706,2026-10-18 13:00,S.S.D. Virtus Ciseranobergamo 1909,AC Leon,1,2,,,
+73628710,2026-10-25 13:30,US Fiorenzuola,Rovato Vertovese,2,1,,,
+73628712,2026-10-25 13:30,AC Leon,AC Chievo Verona,0,4,,,
+73628714,2026-10-25 13:30,Milan Futuro,Club Milano SSD,1,1,1.750,3.400,4.000
+73628716,2026-10-25 13:30,Nibbiano And Valtidone,Virtus Verona,1,0,1.950,3.200,3.400
+73628718,2026-10-25 13:30,Pro Palazzolo,Piacenza Calcio 1919,1,1,3.600,3.250,1.900
+73628720,2026-10-25 13:30,SSD Real Calepina FC,Calcio Pavonese,1,1,2.150,3.100,3.100
+73628724,2026-10-25 13:30,Tritium Calcio 1908,S.S.D. Virtus Ciseranobergamo 1909,2,0,2.700,3.100,2.350
+75695602,2026-10-28 16:30,Calcio Pavonese,Milan Futuro,1,1,1.900,3.500,3.400
+73628726,2026-11-01 13:30,Calcio Pavonese,Pro Palazzolo,2,0,,,
+73628730,2026-11-01 13:30,Club Milano SSD,Usd Scanzorosciate Calcio,1,3,2.150,3.200,3.000
+73628732,2026-11-01 13:30,Piacenza Calcio 1919,Nibbiano And Valtidone,3,2,1.600,3.600,4.750
+73628734,2026-11-01 13:30,Rovato Vertovese,Caldiero Terme,3,1,,,
+73628736,2026-11-01 13:30,Tritium Calcio 1908,AC Leon,0,1,,,
+73628738,2026-11-01 13:30,Villa d'Alme Valle Brembana,ASD Calcio Brusaporto,5,2,1.700,3.500,4.200
+73628740,2026-11-01 13:30,Virtus Verona,Milan Futuro,2,3,,,
+73628742,2026-11-01 13:30,S.S.D. Virtus Ciseranobergamo 1909,SSD Real Calepina FC,1,1,,,
+73628744,2026-11-08 13:30,ASD Calcio Brusaporto,Piacenza Calcio 1919,0,2,5.500,3.800,1.500
+73628746,2026-11-08 13:30,Caldiero Terme,Villa d'Alme Valle Brembana,2,0,2.375,3.100,2.700
+73628748,2026-11-08 13:30,US Fiorenzuola,Club Milano SSD,1,2,,,
+73628750,2026-11-08 13:30,AC Leon,Virtus Verona,4,1,2.050,3.200,3.200
+73628752,2026-11-08 13:30,Milan Futuro,S.S.D. Virtus Ciseranobergamo 1909,3,0,1.700,3.600,4.000
+73628754,2026-11-08 13:30,Nibbiano And Valtidone,Tritium Calcio 1908,1,1,1.550,3.600,5.250
+73628758,2026-11-08 13:30,SSD Real Calepina FC,AC Chievo Verona,0,4,3.400,3.250,1.950
+73628760,2026-11-08 13:30,Usd Scanzorosciate Calcio,Calcio Pavonese,3,3,2.250,3.000,3.000

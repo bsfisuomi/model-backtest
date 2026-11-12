@@ -1,0 +1,72 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+72882486,2026-09-05 09:00,SD Compostela,RS Gimnastica de Torrelavega,1,2,1.900,3.500,3.300
+72882496,2026-09-05 10:15,Victoria CF,RC Deportivo De La Coruna,1,6,5.000,5.000,1.400
+72882488,2026-09-05 14:00,Racing de Santander,Real Oviedo,2,0,1.666,4.100,3.700
+72882484,2026-09-05 15:00,CD Roces,ED Val Minor Nigran,1,2,2.000,3.600,3.000
+72882482,2026-09-06 10:00,CD Marina,CD Lugo,1,1,,,
+72882490,2026-09-06 10:00,Real Aviles CF Sad,Real Sporting de Gijon,1,3,,,
+72882492,2026-09-06 10:00,RC Celta de Vigo,SD Solares Medio Cudeyo U19,5,0,,,
+72882494,2026-09-06 10:30,Club Bansander,Ural CF,0,3,,,
+72882506,2026-09-12 14:00,Real Sporting de Gijon,Racing de Santander,3,3,,,
+72882498,2026-09-12 15:00,CD Lugo,Victoria CF,1,0,,,
+72882508,2026-09-12 15:30,SD Solares Medio Cudeyo U19,Real Aviles CF Sad,0,2,,,
+72882502,2026-09-13 10:00,RS Gimnastica de Torrelavega,CD Roces,0,3,1.750,3.700,3.700
+72882512,2026-09-13 10:00,RC Deportivo De La Coruna,Club Bansander,3,0,1.062,12.000,26.000
+72882510,2026-09-13 10:15,Ural CF,RC Celta de Vigo,0,4,,,
+72882500,2026-09-13 10:30,ED Val Minor Nigran,CD Marina,5,1,1.666,3.800,4.000
+72882504,2026-09-13 14:30,Real Oviedo,SD Compostela,6,0,,,
+72882518,2026-09-19 14:00,CD Roces,Real Oviedo,1,1,,,
+72882520,2026-09-19 14:00,SD Compostela,Real Sporting de Gijon,1,4,,,
+72882522,2026-09-19 14:00,Racing de Santander,SD Solares Medio Cudeyo U19,3,0,,,
+72882524,2026-09-19 14:00,Real Aviles CF Sad,Ural CF,1,1,,,
+72882516,2026-09-20 10:00,CD Marina,RS Gimnastica de Torrelavega,1,1,,,
+72882526,2026-09-20 10:00,RC Celta de Vigo,RC Deportivo De La Coruna,1,0,1.727,4.000,3.500
+72882528,2026-09-20 10:15,Victoria CF,Club Bansander,1,0,,,
+72882514,2026-09-20 10:30,CD Lugo,ED Val Minor Nigran,5,2,,,
+72882536,2026-10-03 14:00,Real Sporting de Gijon,CD Roces,4,0,,,
+72882542,2026-10-03 14:30,RC Deportivo De La Coruna,Real Aviles CF Sad,2,0,1.142,7.000,13.000
+72882534,2026-10-03 16:00,Real Oviedo,CD Marina,2,0,,,
+72882532,2026-10-04 10:00,RS Gimnastica de Torrelavega,CD Lugo,1,3,2.300,3.700,2.450
+72882538,2026-10-04 10:00,SD Solares Medio Cudeyo U19,SD Compostela,0,2,2.350,3.600,2.450
+72882540,2026-10-04 10:15,Ural CF,Racing de Santander,5,2,,,
+72882530,2026-10-04 10:30,ED Val Minor Nigran,Victoria CF,2,0,1.833,3.700,3.250
+72882544,2026-10-04 10:30,Club Bansander,RC Celta de Vigo,0,4,,,
+72882554,2026-10-10 13:55,SD Compostela,Ural CF,3,0,2.250,3.700,2.500
+72882558,2026-10-10 14:00,Real Aviles CF Sad,Club Bansander,2,1,1.650,4.000,3.800
+72882552,2026-10-10 14:30,CD Roces,SD Solares Medio Cudeyo U19,1,1,1.380,4.333,6.250
+72882550,2026-10-11 10:00,CD Marina,Real Sporting de Gijon,1,3,,,
+72882556,2026-10-11 10:15,Racing de Santander,RC Deportivo De La Coruna,1,2,,,
+72882560,2026-10-11 10:15,Victoria CF,RC Celta de Vigo,0,3,,,
+72882546,2026-10-11 10:30,ED Val Minor Nigran,RS Gimnastica de Torrelavega,2,0,1.750,3.900,3.500
+72882548,2026-10-11 14:00,CD Lugo,Real Oviedo,2,1,2.625,3.750,2.150
+72882566,2026-10-17 13:30,Real Sporting de Gijon,CD Lugo,1,4,1.363,4.500,6.500
+72882570,2026-10-17 14:00,Ural CF,CD Roces,3,2,,,
+72882564,2026-10-17 14:30,Real Oviedo,ED Val Minor Nigran,2,1,1.700,3.800,3.800
+72882568,2026-10-17 14:30,SD Solares Medio Cudeyo U19,CD Marina,0,0,,,
+72882576,2026-10-17 15:00,RC Celta de Vigo,Real Aviles CF Sad,2,0,1.083,10.000,21.000
+72882562,2026-10-18 10:00,RS Gimnastica de Torrelavega,Victoria CF,2,5,2.100,3.600,2.800
+72882572,2026-10-18 10:00,RC Deportivo De La Coruna,SD Compostela,3,1,1.142,7.500,12.000
+72882574,2026-10-18 10:00,Club Bansander,Racing de Santander,0,3,8.000,6.250,1.200
+72882584,2026-10-25 11:00,CD Marina,Ural CF,0,2,2.250,3.600,2.625
+72882588,2026-10-25 11:15,SD Compostela,Club Bansander,3,0,1.480,4.100,5.000
+72882590,2026-10-25 11:15,Racing de Santander,RC Celta de Vigo,1,1,,,
+72882580,2026-10-25 11:30,ED Val Minor Nigran,Real Sporting de Gijon,2,3,3.000,3.700,1.950
+72882582,2026-10-25 11:30,CD Lugo,SD Solares Medio Cudeyo U19,1,0,1.363,4.750,6.000
+72882578,2026-10-25 15:00,RS Gimnastica de Torrelavega,Real Oviedo,0,1,,,
+72882586,2026-10-25 15:30,CD Roces,RC Deportivo De La Coruna,0,1,,,
+72882600,2026-10-31 11:15,Ural CF,CD Lugo,1,1,2.550,3.600,2.200
+72882608,2026-10-31 15:00,Real Aviles CF Sad,Racing de Santander,1,2,3.500,4.000,1.727
+72882596,2026-11-01 11:00,Real Sporting de Gijon,RS Gimnastica de Torrelavega,2,2,1.222,5.750,8.000
+72882602,2026-11-01 11:00,RC Deportivo De La Coruna,CD Marina,6,1,1.083,11.000,19.000
+72882604,2026-11-01 11:00,Club Bansander,CD Roces,2,1,,,
+72882606,2026-11-01 11:00,RC Celta de Vigo,SD Compostela,3,1,1.090,10.000,17.000
+72882598,2026-11-01 11:30,SD Solares Medio Cudeyo,ED Val Minor Nigran,0,0,,,
+72882594,2026-11-01 15:00,Real Oviedo,Victoria CF,2,1,1.420,4.200,5.750
+72882616,2026-11-07 15:00,CD Lugo,RC Deportivo De La Coruna,0,1,3.800,4.000,1.650
+72882622,2026-11-07 15:00,SD Compostela,Real Aviles CF Sad,4,0,1.950,3.700,3.000
+72882620,2026-11-07 16:00,CD Roces,RC Celta de Vigo,2,4,21.000,9.000,1.090
+72882618,2026-11-08 11:00,CD Marina,Club Bansander,2,2,2.150,3.600,2.700
+72882624,2026-11-08 11:15,Victoria CF,Racing de Santander,1,7,5.000,4.333,1.450
+72882614,2026-11-08 11:30,ED Val Minor Nigran,Ural CF,1,0,1.650,4.000,3.900
+72882612,2026-11-08 15:00,RS Gimnastica de Torrelavega,SD Solares Medio Cudeyo,2,3,,,
+72882610,2026-11-08 15:30,Real Oviedo,Real Sporting de Gijon,0,0,,,

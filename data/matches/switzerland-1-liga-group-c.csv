@@ -1,0 +1,124 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+72526256,2026-08-08 14:00,FC Kosova Zurich,FC Mendrisio,0,0,1.750,3.800,3.600
+72526258,2026-08-08 14:00,FC Thalwil,FC Collina D Oro,2,1,,,
+72526260,2026-08-08 14:00,FC Baden,FC Winterthur II,2,1,,,
+72526264,2026-08-08 16:00,AC Taverne,USV Eschen-Mauren,1,2,1.615,3.900,4.333
+72526266,2026-08-08 16:00,FC Dietikon,FC Wettswil-Bonstetten,1,0,,,
+72526268,2026-08-08 16:30,FC Tuggen,FC Widnau,3,0,,,
+72526254,2026-08-08 17:00,FC Locarno,FC St. Gallen,2,3,,,
+72526262,2026-08-09 12:00,FC Gossau,FC Freienbach,0,0,3.300,3.600,1.850
+72526272,2026-08-14 18:00,FC Freienbach,FC Baden,2,2,2.400,3.700,2.350
+72526274,2026-08-14 18:00,USV Eschen-Mauren,FC Gossau,1,2,1.833,3.750,3.250
+72526278,2026-08-15 14:00,FC Wettswil-Bonstetten,FC Locarno,2,1,,,
+72526282,2026-08-15 15:00,FC Collina D Oro,FC Kosova Zurich,1,1,2.100,3.800,2.600
+72526284,2026-08-16 12:00,FC Widnau,FC Mendrisio,1,1,,,
+72526276,2026-08-18 14:00,FC St. Gallen,AC Taverne,2,2,,,
+72526270,2026-08-19 18:15,FC Winterthur II,FC Thalwil,2,0,,,
+72526290,2026-08-22 14:00,FC Dietikon,FC Widnau,2,1,,,
+72526292,2026-08-22 14:00,FC Gossau,FC St. Gallen,1,2,,,
+72526294,2026-08-22 14:00,FC Baden,USV Eschen-Mauren,3,1,,,
+72526298,2026-08-22 14:00,FC Kosova Zurich,FC Winterthur II,2,1,,,
+72526300,2026-08-22 16:00,AC Taverne,FC Wettswil-Bonstetten,3,1,2.200,3.600,2.625
+72526286,2026-08-22 17:00,FC Locarno,FC Tuggen,1,2,3.800,5.000,1.550
+72526538,2026-08-22 18:00,FC Collina D Oro,FC Mendrisio,1,1,2.000,3.500,3.000
+72526296,2026-08-23 12:00,FC Thalwil,FC Freienbach,3,0,2.600,3.500,2.250
+72526304,2026-08-29 13:00,FC St. Gallen,FC Baden,0,3,,,
+72526306,2026-08-29 14:00,FC Freienbach,FC Kosova Zurich,3,3,,,
+72526310,2026-08-29 14:00,FC Wettswil-Bonstetten,FC Gossau,2,2,,,
+72526312,2026-08-29 14:00,FC Tuggen,AC Taverne,4,2,,,
+72526314,2026-08-29 14:00,FC Dietikon,FC Locarno,2,2,,,
+72526302,2026-08-29 14:30,FC Winterthur II,FC Mendrisio,2,1,1.850,3.750,3.200
+72526308,2026-08-29 15:00,USV Eschen-Mauren,FC Thalwil,0,0,,,
+72526316,2026-08-30 12:00,FC Widnau,FC Collina D Oro,0,1,2.750,3.700,2.050
+72526322,2026-09-05 14:00,FC Thalwil,FC St. Gallen,5,1,,,
+72526324,2026-09-05 14:00,FC Baden,FC Wettswil-Bonstetten,3,1,,,
+72526326,2026-09-05 14:00,FC Gossau,FC Tuggen,1,4,,,
+72526328,2026-09-05 14:00,FC Kosova Zurich,USV Eschen-Mauren,5,0,,,
+72526330,2026-09-05 15:00,AC Taverne,FC Dietikon,3,2,,,
+72526332,2026-09-05 15:00,FC Collina D Oro,FC Winterthur II,1,0,2.050,3.800,2.750
+72526318,2026-09-05 18:00,FC Locarno,FC Widnau,0,0,2.150,3.800,2.625
+72526320,2026-09-06 14:00,FC Mendrisio,FC Freienbach,2,0,2.300,3.600,2.500
+72526338,2026-09-12 14:00,FC Freienbach,FC Collina D Oro,3,1,,,
+72526344,2026-09-12 14:00,FC Tuggen,FC Baden,2,1,,,
+72526346,2026-09-12 14:00,FC Dietikon,FC Gossau,2,1,,,
+72526340,2026-09-12 15:00,USV Eschen-Mauren,FC Mendrisio,4,3,,,
+72526336,2026-09-12 16:00,FC Locarno,AC Taverne,0,0,3.300,3.750,1.850
+72526334,2026-09-13 12:00,FC St. Gallen,FC Kosova Zurich,5,1,,,
+72526342,2026-09-13 12:00,FC Wettswil-Bonstetten,FC Thalwil,1,1,3.200,3.700,1.850
+72526348,2026-09-13 12:00,FC Widnau,FC Winterthur II,1,0,2.600,3.700,2.150
+72526352,2026-09-19 14:00,FC Winterthur II,FC Freienbach,3,2,,,
+72526354,2026-09-19 14:00,FC Kosova Zurich,FC Wettswil-Bonstetten,2,1,,,
+72526356,2026-09-19 14:00,FC Thalwil,FC Tuggen,2,1,,,
+72526358,2026-09-19 14:00,FC Baden,FC Dietikon,2,1,,,
+72526360,2026-09-19 14:00,FC Gossau,FC Locarno,1,0,,,
+72526362,2026-09-19 15:00,AC Taverne,FC Widnau,5,0,1.363,4.200,6.500
+72526364,2026-09-19 15:00,FC Collina D Oro,USV Eschen-Mauren,1,0,1.950,3.600,3.100
+72526350,2026-09-20 14:00,FC Mendrisio,FC St. Gallen,1,3,,,
+72526372,2026-09-26 14:00,AC Taverne,FC Gossau,5,0,1.444,4.333,5.500
+72526374,2026-09-26 14:00,FC Dietikon,FC Thalwil,1,1,,,
+72526376,2026-09-26 14:00,FC Tuggen,FC Kosova Zurich,0,0,,,
+72526378,2026-09-26 14:00,FC Wettswil-Bonstetten,FC Mendrisio,1,1,,,
+72526368,2026-09-26 16:00,FC St. Gallen,FC Collina D Oro,2,0,,,
+72526380,2026-09-27 12:00,FC Widnau,FC Freienbach,0,1,2.700,3.750,2.100
+72526366,2026-09-27 14:00,FC Locarno,FC Baden,3,1,,,
+72525400,2026-10-03 13:00,FC La Chaux De Fonds,FC Prishtina Bern,1,4,,,
+72525396,2026-10-03 14:00,FC Naters Oberwallis,Usi Azzurri,1,3,,,
+72525888,2026-10-03 14:00,FC Solothurn,FC Munsingen,3,0,,,
+72525890,2026-10-03 14:00,Zug 94,FC Courtetelle,1,2,,,
+72525892,2026-10-03 14:00,FC Muri-Gumligen,FC Concordia Basel,2,3,,,
+72525894,2026-10-03 14:00,SC Buochs,FC Langenthal,1,2,,,
+72525896,2026-10-03 14:00,SV Muttenz,FC Black Stars,2,2,,,
+72526388,2026-10-03 14:00,FC Collina D Oro,FC Wettswil-Bonstetten,1,0,,,
+72526392,2026-10-03 14:00,FC Thalwil,FC Locarno,2,2,,,
+72526394,2026-10-03 14:00,FC Baden,AC Taverne,2,3,2.700,3.750,2.100
+72526396,2026-10-03 14:00,FC Gossau,FC Widnau,4,1,,,
+72526384,2026-10-03 14:30,FC Mendrisio,FC Tuggen,1,1,2.900,3.750,2.000
+72525398,2026-10-03 15:00,FC Monthey,Lancy FC,1,2,,,
+72525402,2026-10-03 15:00,FC Echallens Region,FC Meyrin,2,1,,,
+72525404,2026-10-03 15:00,Stade Payerne,FC Portalban/Gletterens,0,3,,,
+72525394,2026-10-03 15:30,CS Chenois,Vevey-Sports,0,4,,,
+72525406,2026-10-04 12:00,Servette FC ,FC Lausanne Sports,2,2,1.800,4.000,3.200
+72525408,2026-10-04 12:30,FC Coffrane,FC Sion,1,1,,,
+72525884,2026-10-04 12:30,Grasshopper Club Zurich II,SR Delemont,2,0,,,
+72525898,2026-10-04 12:30,FC Bassecourt,FC Thun Berner Oberland U21,0,2,,,
+72526382,2026-10-04 14:00,FC Winterthur II,FC St. Gallen,1,2,2.000,4.000,2.750
+72526402,2026-10-09 17:30,FC Wettswil-Bonstetten,FC Winterthur II,3,0,1.900,4.100,3.000
+72525422,2026-10-11 12:00,Servette FC ,CS Chenois,2,1,,,
+72526412,2026-10-11 12:00,FC Widnau,USV Eschen-Mauren,4,4,3.250,3.500,1.909
+72525914,2026-10-11 12:30,FC Munsingen,Zug 94,1,2,2.250,3.900,2.400
+72525424,2026-10-11 14:00,Usi Azzurri,FC Echallens Region,6,1,,,
+72526424,2026-10-24 12:30,FC Collina D Oro,FC Dietikon,2,0,2.000,3.400,3.100
+72525432,2026-10-24 13:00,FC La Chaux De Fonds,FC Sion,3,1,,,
+72525428,2026-10-24 14:00,FC Naters Oberwallis,Lancy FC,2,1,,,
+72525438,2026-10-24 14:00,FC Meyrin,Usi Azzurri,0,1,3.250,3.900,1.833
+72525920,2026-10-24 14:00,FC Solothurn,FC Thun Berner Oberland U21,3,1,,,
+72525922,2026-10-24 14:00,Zug 94,FC Black Stars,4,2,,,
+72525924,2026-10-24 14:00,FC Muri-Gumligen,FC Munsingen,1,0,2.100,3.500,2.800
+72525926,2026-10-24 14:00,SC Buochs,FC Concordia Basel,1,0,,,
+72525928,2026-10-24 14:00,SV Muttenz,FC Schotz,2,0,,,
+72526416,2026-10-24 14:00,FC Winterthur II,FC Tuggen,1,3,,,
+72526418,2026-10-24 14:00,FC Kosova Zurich,AC Taverne,1,1,3.200,3.900,1.850
+72526420,2026-10-24 14:00,FC Thalwil,FC Gossau,2,1,,,
+72526422,2026-10-24 14:00,FC Baden,FC Widnau,6,0,,,
+72526426,2026-10-24 14:00,FC Freienbach,FC Wettswil-Bonstetten,1,2,,,
+72526414,2026-10-24 14:30,FC Mendrisio,FC Locarno,0,0,2.050,3.600,2.900
+72525430,2026-10-24 15:00,Stade Payerne,Servette FC ,3,3,,,
+72525434,2026-10-24 15:00,FC Echallens Region,FC Prishtina Bern,0,4,,,
+72526428,2026-10-24 15:00,USV Eschen-Mauren,FC St. Gallen,2,3,,,
+72525426,2026-10-24 15:30,CS Chenois,FC Lausanne Sports,2,1,,,
+72525440,2026-10-25 13:00,FC Coffrane,Vevey-Sports,5,1,1.950,3.900,2.900
+72525930,2026-10-25 13:30,FC Bassecourt,FC Wohlen,2,1,,,
+72525436,2026-10-25 14:00,FC Monthey,FC Portalban/Gletterens,0,1,,,
+72525918,2026-10-25 14:00,FC Langenthal,SR Delemont,0,0,1.700,3.900,3.700
+72526442,2026-10-31 15:00,FC Wettswil-Bonstetten,USV Eschen-Mauren,4,1,,,
+72525456,2026-11-01 13:00,Servette FC ,FC Coffrane,1,2,,,
+72526444,2026-11-01 13:00,FC Widnau,FC St. Gallen,0,1,,,
+72525946,2026-11-01 13:30,FC Munsingen,Grasshopper Club Zurich II,1,1,,,
+72526454,2026-11-07 15:00,FC Thalwil,FC Widnau,0,4,,,
+72526456,2026-11-07 15:00,FC Kosova Zurich,FC Baden,2,2,,,
+72526458,2026-11-07 15:00,FC Collina D Oro,AC Taverne,0,2,,,
+72526460,2026-11-07 15:00,FC Freienbach,FC Dietikon,4,3,,,
+72526448,2026-11-07 15:30,FC Mendrisio,FC Gossau,4,1,1.666,3.750,3.900
+72526452,2026-11-07 16:00,FC St. Gallen,FC Wettswil-Bonstetten,1,2,,,
+72526446,2026-11-08 14:00,USV Eschen-Mauren,FC Tuggen,4,0,,,
+72526450,2026-11-08 15:00,FC Winterthur II,FC Locarno,2,1,1.850,3.600,3.250

@@ -1,0 +1,66 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+72595328,2026-08-15 12:30,ACV Assen,Tec,1,0,1.600,4.200,3.900
+72595330,2026-08-15 12:30,Dovo Veenendaal,Staphorst,2,2,,,
+72595332,2026-08-15 12:30,Excelsior ´31,VV Eemdijk,4,0,,,
+72595334,2026-08-15 12:30,Harkemase Boys,HVV Hollandia Hoorn,2,1,,,
+72595336,2026-08-15 12:30,SC Genemuiden,SV Dvs 33 Ermelo,2,1,,,
+72595340,2026-08-15 12:30,VV Hoogeveen,SV Zwaluwen Wierden,4,3,,,
+72595344,2026-08-15 12:45,Vpv Purmersteijn,VV Scherpenzeel,3,1,,,
+72595338,2026-08-15 13:00,VV Sparta Nijkerk,ZSV Sportlust 46,3,3,,,
+72595342,2026-08-16 12:00,ADO 20 Heemskerk,USV Hercules,3,1,1.727,3.750,3.750
+72595346,2026-08-22 12:30,VV Eemdijk,ADO 20 Heemskerk,4,1,,,
+72595348,2026-08-22 12:30,Staphorst,Excelsior ´31,2,4,1.950,3.600,3.100
+72595350,2026-08-22 12:45,SV Zwaluwen Wierden,Dovo Veenendaal,1,1,,,
+72595352,2026-08-22 13:00,SV Dvs 33 Ermelo,Harkemase Boys,0,1,,,
+72595354,2026-08-22 13:00,VV Scherpenzeel,VV Hoogeveen,2,1,,,
+72595356,2026-08-22 13:00,ZSV Sportlust 46,Vpv Purmersteijn,1,1,,,
+72595358,2026-08-22 13:00,Tec,VV Sparta Nijkerk,3,1,,,
+72595360,2026-08-22 13:30,USV Hercules,SC Genemuiden,0,4,,,
+72595362,2026-08-22 14:00,HVV Hollandia Hoorn,ACV Assen,0,2,,,
+72595364,2026-08-29 12:30,ACV Assen,SV Dvs 33 Ermelo,1,1,1.800,4.000,3.300
+72595366,2026-08-29 12:30,ADO 20 Heemskerk,Staphorst,0,0,,,
+72595368,2026-08-29 12:30,Dovo Veenendaal,VV Scherpenzeel,2,3,,,
+72595370,2026-08-29 12:30,Excelsior ´31,SV Zwaluwen Wierden,4,0,,,
+72595372,2026-08-29 12:30,Harkemase Boys,USV Hercules,5,3,1.700,3.900,3.750
+72595374,2026-08-29 12:30,SC Genemuiden,VV Eemdijk,3,1,,,
+72595376,2026-08-29 13:00,VV Sparta Nijkerk,HVV Hollandia Hoorn,5,5,,,
+72595378,2026-08-29 13:00,Tec,ZSV Sportlust 46,1,2,,,
+72595380,2026-08-30 12:00,VV Hoogeveen,Vpv Purmersteijn,1,3,1.850,3.700,3.200
+72595398,2026-09-06 12:00,HVV Hollandia Hoorn,Tec,4,5,,,
+72595400,2026-09-12 12:30,ACV Assen,VV Eemdijk,5,1,1.420,4.500,5.000
+72595402,2026-09-12 12:30,Dovo Veenendaal,VV Hoogeveen,1,4,,,
+72595404,2026-09-12 12:30,Excelsior ´31,Vpv Purmersteijn,1,1,,,
+72595406,2026-09-12 12:30,Harkemase Boys,Staphorst,1,1,1.833,3.900,3.200
+72595408,2026-09-12 12:30,SC Genemuiden,SV Zwaluwen Wierden,3,0,,,
+72595412,2026-09-12 13:00,Tec,SV Dvs 33 Ermelo,4,4,,,
+72595414,2026-09-12 14:00,HVV Hollandia Hoorn,ZSV Sportlust 46,2,4,,,
+72595416,2026-09-13 12:00,ADO 20 Heemskerk,VV Scherpenzeel,0,1,2.000,3.500,3.100
+72595418,2026-09-19 12:30,VV Eemdijk,VV Sparta Nijkerk,0,4,,,
+72595420,2026-09-19 12:30,Staphorst,ACV Assen,2,3,,,
+72595422,2026-09-19 12:45,SV Zwaluwen Wierden,Harkemase Boys,1,2,,,
+72595424,2026-09-19 13:00,SV Dvs 33 Ermelo,HVV Hollandia Hoorn,2,1,,,
+72595426,2026-09-19 13:00,VV Scherpenzeel,SC Genemuiden,1,0,,,
+72595428,2026-09-19 13:00,ZSV Sportlust 46,Dovo Veenendaal,2,0,,,
+72595430,2026-09-19 16:00,VV Hoogeveen,Excelsior ´31,0,2,2.200,4.000,2.450
+72595432,2026-09-20 12:00,USV Hercules,Tec,2,4,2.450,3.800,2.200
+72595434,2026-09-20 12:00,Vpv Purmersteijn,ADO 20 Heemskerk,2,1,2.700,3.800,2.100
+72595436,2026-09-26 12:30,ACV Assen,SV Zwaluwen Wierden,4,0,,,
+72595438,2026-09-26 12:30,Excelsior ´31,Dovo Veenendaal,3,0,,,
+72595440,2026-09-26 12:30,Harkemase Boys,VV Scherpenzeel,0,0,,,
+72595442,2026-09-26 12:30,SC Genemuiden,Vpv Purmersteijn,2,0,,,
+72595444,2026-09-26 13:00,SV Dvs 33 Ermelo,ZSV Sportlust 46,1,2,,,
+72595446,2026-09-26 13:00,VV Sparta Nijkerk,Staphorst,3,2,,,
+72595448,2026-09-26 13:00,Tec,VV Eemdijk,7,2,,,
+72595450,2026-09-27 12:00,ADO 20 Heemskerk,VV Hoogeveen,1,5,1.850,3.900,3.100
+72595452,2026-09-27 12:00,HVV Hollandia Hoorn,USV Hercules,0,3,2.250,3.750,2.500
+72595474,2026-10-10 13:00,ADO 20 Heemskerk,Excelsior ´31,3,1,,,
+72595510,2026-10-23 18:00,VV Eemdijk,ZSV Sportlust 46,3,1,3.500,5.250,1.600
+72595526,2026-11-07 13:30,ADO 20 Heemskerk,Harkemase Boys,2,1,,,
+72595528,2026-11-07 13:30,Dovo Veenendaal,VV Sparta Nijkerk,2,2,,,
+72595530,2026-11-07 13:30,Excelsior ´31,ACV Assen,0,3,,,
+72595532,2026-11-07 13:30,Staphorst,VV Eemdijk,1,3,1.850,4.200,3.000
+72595534,2026-11-07 13:45,SV Zwaluwen Wierden,USV Hercules,2,3,,,
+72595536,2026-11-07 14:00,VV Scherpenzeel,SV Dvs 33 Ermelo,3,1,,,
+72595538,2026-11-07 14:00,ZSV Sportlust 46,SC Genemuiden,1,0,,,
+72595540,2026-11-08 13:00,VV Hoogeveen,Tec,2,2,3.200,4.200,1.800
+72595542,2026-11-08 13:00,Vpv Purmersteijn,HVV Hollandia Hoorn,4,1,1.700,4.333,3.400

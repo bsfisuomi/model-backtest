@@ -1,0 +1,45 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+31799589194,2026-10-10 17:30,Royale Union Hutoise,KAS Eupen U23,0,0,,,
+28359497720,2026-10-10 18:00,FC United Richelle,RUS Binche,1,1,,,
+29136566659,2026-10-10 18:00,RCS Brainois,CS Pays Vert Ostiches Ath,0,0,,,
+31113392359,2026-10-10 18:00,Union Namur,RSD Jette,0,0,,,
+31943690606,2026-10-10 18:00,Stade Verviétois,U. Saint-Ghislain Tertre Hautrage,2,4,,,
+28321339160,2026-10-11 13:00,Royal Racing Club Stockay-Warfusée,Crossing Schaerbeek,0,0,,,
+28677289497,2026-10-11 13:00,CS Entité Manageoise,RFC Union La Calamine,1,0,1.900,3.600,3.200
+29725461467,2026-10-11 13:00,FC Ganshoren,Stade Mouscronnois,0,2,1.700,3.900,3.700
+31462178772,2026-10-11 13:00,Royal Aywaille FC,Royale Entente Acren Lessines,0,2,,,
+31570926250,2026-10-17 17:30,RFC Union La Calamine,FC Ganshoren,1,0,4.750,4.200,1.500
+29778748508,2026-10-17 18:00,CS Pays Vert Ostiches Ath,Union Namur,3,0,,,
+32035106302,2026-10-17 18:00,Stade Mouscronnois,FC United Richelle,6,2,,,
+28197152390,2026-10-18 13:00,Royal Aywaille FC,CS Entité Manageoise,0,2,,,
+29048115253,2026-10-18 13:00,RUS Binche,Royale Union Hutoise,1,2,2.300,3.900,2.350
+30178865257,2026-10-18 13:00,Crossing Schaerbeek,RCS Brainois,2,3,1.550,4.500,4.200
+30446544523,2026-10-18 13:00,U. Saint-Ghislain Tertre Hautrage,Royal Racing Club Stockay-Warfusée,3,0,1.550,4.100,4.500
+30631703514,2026-10-18 13:00,Royale Entente Acren Lessines,RSD Jette,1,1,,,
+28603666111,2026-10-24 17:30,Royale Union Hutoise,Stade Mouscronnois,6,1,,,
+28760437287,2026-10-24 18:00,FC United Richelle,RFC Union La Calamine,3,2,,,
+29130586675,2026-10-24 18:00,RCS Brainois,U. Saint-Ghislain Tertre Hautrage,0,0,,,
+30206243340,2026-10-24 18:00,Stade Verviétois,RUS Binche,2,2,,,
+31564220310,2026-10-24 18:00,Union Namur,Crossing Schaerbeek,0,4,,,
+28627341277,2026-10-25 14:00,RSD Jette,CS Pays Vert Ostiches Ath,0,0,1.833,3.600,3.400
+28734769145,2026-10-25 14:00,FC Ganshoren,Royal Aywaille FC,2,0,,,
+30113913611,2026-10-25 14:00,CS Entité Manageoise,Royale Entente Acren Lessines,2,3,2.550,3.600,2.250
+30200888699,2026-10-25 14:00,Royal Racing Club Stockay-Warfusée,KAS Eupen U23,3,1,2.150,3.750,2.600
+28806495956,2026-10-31 18:30,RFC Union La Calamine,Royale Union Hutoise,4,1,,,
+28365149237,2026-10-31 19:00,Stade Mouscronnois,Stade Verviétois,2,1,,,
+28298529522,2026-11-01 14:00,Royale Entente Acren Lessines,CS Pays Vert Ostiches Ath,0,1,2.050,3.700,2.800
+28316170232,2026-11-01 14:00,KAS Eupen U23,RCS Brainois,2,0,,,
+28796912598,2026-11-01 14:00,Crossing Schaerbeek,RSD Jette,5,0,,,
+29931311373,2026-11-01 14:00,U. Saint-Ghislain Tertre Hautrage,Union Namur,1,1,,,
+30302357265,2026-11-01 14:00,Royal Aywaille FC,FC United Richelle,2,1,,,
+30420096546,2026-11-01 14:00,CS Entité Manageoise,FC Ganshoren,2,4,,,
+31111421225,2026-11-01 14:00,RUS Binche,Royal Racing Club Stockay-Warfusée,1,0,1.950,4.000,2.875
+32031168094,2026-11-07 18:30,Royale Union Hutoise,Royal Aywaille FC,0,1,1.333,4.750,6.500
+29498288008,2026-11-07 19:00,CS Pays Vert Ostiches Ath,Crossing Schaerbeek,1,5,,,
+29552497047,2026-11-07 19:00,Union Namur,KAS Eupen U23,0,0,,,
+29778102685,2026-11-07 19:00,FC United Richelle,CS Entité Manageoise,0,2,1.900,3.700,3.100
+29861533036,2026-11-07 19:00,Stade Verviétois,RFC Union La Calamine,1,0,,,
+30479001356,2026-11-07 19:00,RCS Brainois,RUS Binche,2,0,1.650,4.000,3.900
+28213818810,2026-11-08 14:00,Royal Racing Club Stockay-Warfusée,Stade Mouscronnois,1,1,,,
+28812633502,2026-11-08 14:00,RSD Jette,U. Saint-Ghislain Tertre Hautrage,2,2,,,
+29498760045,2026-11-08 14:00,FC Ganshoren,Royale Entente Acren Lessines,2,1,1.727,4.000,3.500

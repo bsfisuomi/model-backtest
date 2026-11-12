@@ -1,0 +1,96 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+63075331,2025-09-11 15:55,Maccabi Tel Aviv WFC,Hapoel Nir Ramat Hasharon,6,0,,,
+63931343,2025-09-25 16:10,Kiryat Gat SC,Maccabi Panterot Ashdod,10,0,,,
+64359705,2025-10-09 17:00,Hapoel Raanana,Kiryat Gat SC,1,5,,,
+64480905,2025-10-30 17:00,Maccabi Holon FC,Hapoel Nir Ramat Hasharon,1,0,,,
+64480917,2025-10-30 17:10,Maccabi Panterot Ashdod,Hapoel Raanana,0,0,,,
+64480907,2025-11-10 17:00,Maccabi Kishronot Hadera,Hapoel Katamon Jerusalem,1,2,,,
+66643778,2025-12-18 11:30,Kiryat Gat SC,Hapoel Nir Ramat Hasharon,5,0,,,
+66674512,2025-12-18 15:40,Maccabi Kishronot Hadera,Maccabi Panterot Ashdod,2,1,,,
+66645062,2025-12-18 15:45,Maccabi Holon FC,Hapoel Raanana,2,2,1.727,4.000,3.500
+66674510,2025-12-18 15:50,Hapoel Katamon Jerusalem,Maccabi Tel Aviv WFC,2,0,,,
+66853866,2025-12-23 14:35,Hapoel Nir Ramat Hasharon,Hapoel Katamon Jerusalem,0,2,,,
+66853868,2025-12-23 14:40,Maccabi Tel Aviv WFC,Maccabi Holon FC,0,2,,,
+66853872,2025-12-23 14:50,Maccabi Panterot Ashdod,Kiryat Gat SC,0,4,,,
+67236574,2025-12-29 16:30,Maccabi Panterot Ashdod,Hapoel Nir Ramat Hasharon,1,1,,,
+67179568,2025-12-29 16:35,Kiryat Gat SC,Hapoel Raanana,2,1,1.071,12.000,21.000
+67236576,2025-12-29 16:40,Maccabi Kishronot Hadera,Maccabi Tel Aviv WFC,0,0,2.250,3.600,2.550
+67122602,2026-01-01 15:30,Hapoel Nir Ramat Hasharon,Maccabi Holon FC,0,0,7.500,4.500,1.333
+67122600,2026-01-01 15:35,Kiryat Gat SC,Maccabi Tel Aviv WFC,8,0,1.285,4.750,8.500
+67122604,2026-01-01 15:45,Hapoel Katamon Jerusalem,Maccabi Kishronot Hadera,3,3,1.363,4.500,6.250
+67236580,2026-01-08 15:00,Hapoel Raanana,Hapoel Nir Ramat Hasharon,1,0,1.200,6.000,9.500
+67236582,2026-01-08 15:05,Maccabi Panterot Ashdod,Maccabi Tel Aviv WFC,0,0,,,
+67236584,2026-01-08 15:10,Kiryat Gat SC,Hapoel Katamon Jerusalem,1,3,1.850,3.700,3.300
+67236586,2026-01-08 15:15,Maccabi Kishronot Hadera,Maccabi Holon FC,2,1,1.950,4.333,2.750
+67674142,2026-01-12 17:00,Hapoel Raanana,Maccabi Panterot Ashdod,4,2,,,
+67674940,2026-01-12 17:15,Hapoel Katamon Jerusalem,Maccabi Holon FC,6,1,1.333,5.250,8.000
+67543048,2026-01-15 16:05,Hapoel Nir Ramat Hasharon,Maccabi Kishronot Hadera,0,3,11.000,7.000,1.166
+67543050,2026-01-15 16:10,Maccabi Holon FC,Kiryat Gat SC,2,2,,,
+67543052,2026-01-15 16:15,Hapoel Katamon Jerusalem,Maccabi Panterot Ashdod,6,1,,,
+67543054,2026-01-15 16:20,Maccabi Tel Aviv WFC,Hapoel Raanana,1,0,,,
+67543056,2026-01-22 18:00,Maccabi Tel Aviv WFC,Hapoel Nir Ramat Hasharon,0,0,1.090,9.000,21.000
+67543058,2026-01-22 18:00,Hapoel Katamon Jerusalem,Hapoel Raanana,1,0,1.111,8.000,17.000
+67543060,2026-01-22 18:00,Maccabi Holon FC,Maccabi Panterot Ashdod,3,1,,,
+67543062,2026-01-22 18:00,Maccabi Kishronot Hadera,Kiryat Gat SC,0,4,6.500,4.500,1.363
+68088814,2026-01-29 16:00,Hapoel Nir Ramat Hasharon,Kiryat Gat SC,0,6,41.000,15.000,1.035
+68088820,2026-01-29 16:00,Maccabi Panterot Ashdod,Maccabi Kishronot Hadera,1,3,,,
+68088822,2026-01-29 16:00,Hapoel Raanana,Maccabi Holon FC,0,0,2.300,3.400,2.600
+68088826,2026-01-29 16:00,Maccabi Tel Aviv WFC,Hapoel Katamon Jerusalem,0,1,,,
+68124704,2026-02-05 16:40,Maccabi Holon FC,Maccabi Tel Aviv WFC,4,0,2.300,3.400,2.625
+68124706,2026-02-05 16:40,Maccabi Kishronot Hadera,Hapoel Raanana,2,0,1.833,3.700,3.300
+68124708,2026-02-05 16:40,Kiryat Gat SC,Maccabi Panterot Ashdod,9,0,,,
+68124710,2026-02-05 16:40,Hapoel Katamon Jerusalem,Hapoel Nir Ramat Hasharon,7,0,,,
+68124712,2026-02-08 14:50,Hapoel Nir Ramat Hasharon,Maccabi Panterot Ashdod,1,2,,,
+68124714,2026-02-08 14:50,Hapoel Raanana,Kiryat Gat SC,0,4,19.000,8.500,1.100
+68124720,2026-02-12 15:40,Kiryat Gat SC,Maccabi Tel Aviv WFC,2,2,1.071,11.000,23.000
+68124722,2026-02-12 15:40,Maccabi Panterot Ashdod,Hapoel Raanana,0,0,,,
+68124724,2026-02-12 15:40,Maccabi Kishronot Hadera,Hapoel Katamon Jerusalem,0,5,7.000,4.750,1.300
+68124726,2026-02-12 15:40,Maccabi Holon FC,Hapoel Nir Ramat Hasharon,4,3,,,
+68124732,2026-02-19 15:50,Hapoel Katamon Jerusalem,Kiryat Gat SC,0,0,2.150,3.750,2.600
+68124728,2026-02-19 16:00,Hapoel Nir Ramat Hasharon,Hapoel Raanana,1,4,,,
+68124730,2026-02-19 16:00,Maccabi Tel Aviv WFC,Maccabi Panterot Ashdod,3,0,,,
+68124734,2026-02-19 16:00,Maccabi Holon FC,Maccabi Kishronot Hadera,2,2,2.300,3.700,2.450
+70916772,2026-04-23 15:00,Hapoel Katamon Jerusalem,Maccabi Holon FC,4,0,1.222,5.750,9.500
+70916780,2026-04-23 15:00,Kiryat Gat SC,Maccabi Tel Aviv WFC,2,0,1.111,8.500,17.000
+70916788,2026-04-23 15:00,Maccabi Kishronot Hadera,Hapoel Nir Ramat Hasharon,4,2,1.111,9.000,17.000
+70916790,2026-04-23 15:00,Hapoel Raanana,Maccabi Panterot Ashdod,3,0,,,
+71040488,2026-04-27 15:00,Maccabi Holon FC,Maccabi Tel Aviv WFC,1,1,2.550,3.400,2.375
+71040490,2026-04-27 15:00,Hapoel Katamon Jerusalem,Kiryat Gat SC,1,0,2.600,3.700,2.200
+71040494,2026-04-27 15:00,Hapoel Nir Ramat Hasharon,Maccabi Panterot Ashdod,3,4,,,
+71040504,2026-04-27 15:00,Maccabi Kishronot Hadera,Hapoel Raanana,0,5,2.050,3.700,2.875
+71208820,2026-05-07 13:50,Kiryat Gat SC,Maccabi Holon FC,4,0,1.083,10.000,21.000
+71208824,2026-05-07 13:50,Maccabi Tel Aviv WFC,Hapoel Katamon Jerusalem,0,4,5.750,4.500,1.380
+71208830,2026-05-07 13:50,Hapoel Raanana,Hapoel Nir Ramat Hasharon,4,1,,,
+71208832,2026-05-07 13:50,Maccabi Panterot Ashdod,Maccabi Kishronot Hadera,3,1,,,
+71456912,2026-05-14 15:10,Maccabi Holon FC,Hapoel Katamon Jerusalem,0,2,,,
+71456914,2026-05-14 15:10,Maccabi Tel Aviv WFC,Kiryat Gat SC,0,2,,,
+71456920,2026-05-14 15:10,Hapoel Nir Ramat Hasharon,Maccabi Kishronot Hadera,3,1,4.750,4.333,1.500
+71456924,2026-05-14 15:10,Maccabi Panterot Ashdod,Hapoel Raanana,2,0,,,
+71582650,2026-05-20 13:00,Maccabi Tel Aviv WFC,Maccabi Holon FC,2,1,1.666,3.800,4.000
+71582654,2026-05-20 13:00,Kiryat Gat SC,Hapoel Katamon Jerusalem,3,2,2.050,3.600,2.875
+71582696,2026-05-20 13:00,Maccabi Panterot Ashdod,Hapoel Nir Ramat Hasharon,2,3,,,
+71582698,2026-05-20 13:00,Hapoel Raanana,Maccabi Kishronot Hadera,4,0,1.550,4.100,4.333
+71702796,2026-05-25 13:45,Maccabi Holon FC,Kiryat Gat SC,1,3,,,
+71702810,2026-05-25 13:45,Hapoel Katamon Jerusalem,Maccabi Tel Aviv WFC,4,1,,,
+71702814,2026-05-25 13:45,Hapoel Nir Ramat Hasharon,Hapoel Raanana,2,2,,,
+71702818,2026-05-25 13:45,Maccabi Kishronot Hadera,Maccabi Panterot Ashdod,2,0,,,
+74597456,2026-09-16 16:40,Kiryat Gat SC,Bnot Netanya FC,5,0,,,
+74597458,2026-09-16 16:40,Maccabi Tel Aviv WFC,Maccabi Kishronot Hadera,2,1,2.300,3.750,2.450
+74597460,2026-09-16 16:40,Maccabi Holon FC,Hapoel Tel Aviv,2,1,,,
+74597462,2026-09-16 16:40,Hapoel Raanana,Hapoel Katamon Jerusalem,1,4,15.000,5.750,1.200
+75556100,2026-10-22 15:10,Kiryat Gat SC,Maccabi Tel Aviv WFC,4,1,1.500,4.200,4.750
+75556102,2026-10-22 15:10,Maccabi Holon FC,Bnot Netanya FC,2,1,1.111,8.000,
+75556104,2026-10-22 15:10,Hapoel Raanana,Maccabi Kishronot Hadera,1,2,2.700,3.700,2.150
+75556106,2026-10-22 15:10,Hapoel Katamon Jerusalem,Hapoel Tel Aviv,4,1,1.181,6.500,8.500
+75823128,2026-10-29 16:00,Hapoel Tel Aviv,Kiryat Gat SC,0,2,11.000,6.500,1.200
+75823130,2026-10-29 16:00,Maccabi Kishronot Hadera,Hapoel Katamon Jerusalem,1,2,6.000,4.750,1.363
+75823134,2026-10-29 16:00,Maccabi Tel Aviv WFC,Maccabi Holon FC,0,1,1.533,3.900,5.000
+76084984,2026-10-29 16:00,Hapoel Raanana,Bnot Netanya FC,3,0,1.071,11.000,23.000
+76221052,2026-11-05 16:00,Kiryat Gat SC,Maccabi Holon FC,2,0,1.166,6.250,11.000
+76221054,2026-11-05 16:00,Hapoel Raanana,Maccabi Tel Aviv WFC,0,0,2.625,3.800,2.100
+76221056,2026-11-05 16:00,Hapoel Katamon Jerusalem,Bnot Netanya FC,3,0,,,
+76221058,2026-11-05 16:00,Hapoel Tel Aviv,Maccabi Kishronot Hadera,0,2,3.600,4.333,1.700
+76366220,2026-11-09 14:50,Maccabi Kishronot Hadera,Kiryat Gat SC,0,1,3.900,3.900,1.650
+76366222,2026-11-09 14:50,Hapoel Katamon Jerusalem,Maccabi Tel Aviv WFC,0,2,1.420,4.100,5.750
+76366224,2026-11-09 14:50,Maccabi Holon FC,Hapoel Raanana,0,0,4.200,3.600,1.650
+76366218,2026-11-09 18:30,Bnot Netanya FC,Hapoel Tel Aviv,0,4,11.000,6.250,1.181

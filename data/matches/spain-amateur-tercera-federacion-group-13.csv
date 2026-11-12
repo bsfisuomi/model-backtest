@@ -1,0 +1,393 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+60531399,2025-05-25 17:00,Union Molinense CF 2020,CF Santomera,1,2,,,
+60808597,2025-05-31 16:30,CA Pulpileno,CF Santomera,0,0,,,
+63146141,2025-09-06 16:00,FC Cartagena B,Union Molinense CF 2020,1,2,,,
+63146149,2025-09-06 16:30,CA Pulpileno,UCAM Murcia II,1,1,,,
+63146153,2025-09-06 17:00,Yeclano Deportivo B,El Palmar CF-Estrella Grana,2,1,,,
+63146151,2025-09-07 08:00,Real Murcia Imperial FC,Deportivo Maritimo,2,1,,,
+63146139,2025-09-07 16:00,CD Cieza,UD Caravaca,2,0,,,
+63146143,2025-09-07 16:15,SFC Minerva,Mazarron FC,1,2,,,
+63146147,2025-09-07 16:30,Olimpico Totana,Atletico Santa Cruz,0,0,,,
+63146137,2025-09-07 17:00,CD Bala Azul,CF Santomera,3,0,,,
+63146145,2025-09-07 17:00,Muleno CF,Aguilas FC B,1,3,,,
+63146161,2025-09-13 16:00,El Palmar CF-Estrella Grana,Real Murcia Imperial FC,0,1,,,
+63146167,2025-09-13 16:00,Atletico Santa Cruz,CD Bala Azul,1,0,,,
+63146169,2025-09-13 16:30,CF Santomera,CD Cieza,1,2,,,
+63146155,2025-09-13 17:00,Aguilas FC B,CA Pulpileno,1,1,,,
+63146157,2025-09-13 17:30,UD Caravaca,Muleno CF,2,0,,,
+63146171,2025-09-14 08:00,UCAM Murcia II,SFC Minerva,0,0,,,
+63146165,2025-09-14 09:30,Union Molinense CF 2020,Olimpico Totana,1,2,,,
+63146163,2025-09-14 16:00,Mazarron FC,Yeclano Deportivo B,0,1,,,
+63146159,2025-09-14 16:30,Deportivo Maritimo,FC Cartagena B,1,2,,,
+63146179,2025-09-20 15:00,FC Cartagena B,El Palmar CF-Estrella Grana,4,1,,,
+63146181,2025-09-20 15:00,SFC Minerva,Aguilas FC B,0,0,,,
+63146173,2025-09-20 16:30,CD Bala Azul,Union Molinense CF 2020,0,0,,,
+63146183,2025-09-20 16:30,Muleno CF,CA Pulpileno,1,0,,,
+63146189,2025-09-20 17:00,Yeclano Deportivo B,UCAM Murcia II,0,4,,,
+63146187,2025-09-21 08:00,Real Murcia Imperial FC,Mazarron FC,2,2,,,
+63146175,2025-09-21 16:00,UD Caravaca,CF Santomera,1,1,,,
+63146177,2025-09-21 16:00,CD Cieza,Atletico Santa Cruz,1,2,,,
+63146185,2025-09-21 16:00,Olimpico Totana,Deportivo Maritimo,4,1,,,
+63146191,2025-09-26 18:00,Aguilas FC B,Yeclano Deportivo B,2,1,,,
+63146203,2025-09-27 15:45,Atletico Santa Cruz,UD Caravaca,3,2,,,
+63146193,2025-09-27 18:30,Deportivo Maritimo,CD Bala Azul,1,1,,,
+63146195,2025-09-28 10:00,El Palmar CF-Estrella Grana,Olimpico Totana,1,1,,,
+63146201,2025-09-28 10:15,CA Pulpileno,SFC Minerva,1,1,,,
+63146197,2025-09-28 16:00,Mazarron FC,FC Cartagena B,1,1,,,
+63146199,2025-09-28 16:00,Union Molinense CF 2020,CD Cieza,0,2,,,
+63146205,2025-09-28 16:00,CF Santomera,Muleno CF,0,0,,,
+63146207,2025-09-28 16:00,UCAM Murcia II,Real Murcia Imperial FC,1,3,,,
+63146225,2025-10-04 16:30,Yeclano Deportivo B,CA Pulpileno,0,1,,,
+63146221,2025-10-05 08:00,Real Murcia Imperial FC,Aguilas FC B,2,1,,,
+63146215,2025-10-05 08:30,FC Cartagena B,UCAM Murcia II,1,2,,,
+63146209,2025-10-05 16:00,CD Bala Azul,El Palmar CF-Estrella Grana,1,1,,,
+63146213,2025-10-05 16:00,CD Cieza,Deportivo Maritimo,3,1,,,
+63146223,2025-10-05 16:00,CF Santomera,Atletico Santa Cruz,0,1,,,
+63146219,2025-10-05 16:15,Olimpico Totana,Mazarron FC,3,0,,,
+63146211,2025-10-05 16:30,UD Caravaca,Union Molinense CF 2020,1,2,,,
+63146217,2025-10-05 16:30,Muleno CF,SFC Minerva,0,1,,,
+63146241,2025-10-11 14:00,Atletico Santa Cruz,Muleno CF,1,1,,,
+63146239,2025-10-11 15:00,CA Pulpileno,Real Murcia Imperial FC,1,0,,,
+63146235,2025-10-12 09:30,SFC Minerva,Yeclano Deportivo B,0,0,,,
+63146227,2025-10-12 10:00,Aguilas FC B,FC Cartagena B,0,0,,,
+63146231,2025-10-12 10:00,El Palmar CF-Estrella Grana,CD Cieza,2,3,,,
+63146233,2025-10-12 15:30,Mazarron FC,CD Bala Azul,1,1,,,
+63146243,2025-10-12 15:30,UCAM Murcia II,Olimpico Totana,1,0,,,
+63146237,2025-10-12 16:00,Union Molinense CF 2020,CF Santomera,0,1,,,
+63146229,2025-10-12 16:30,Deportivo Maritimo,UD Caravaca,3,0,,,
+63146259,2025-10-18 14:30,Atletico Santa Cruz,Union Molinense CF 2020,0,1,,,
+63146251,2025-10-19 08:00,FC Cartagena B,CA Pulpileno,1,2,,,
+63146257,2025-10-19 08:00,Real Murcia Imperial FC,SFC Minerva,1,1,,,
+63146261,2025-10-19 09:30,CF Santomera,Deportivo Maritimo,0,1,,,
+63146245,2025-10-19 15:00,CD Bala Azul,UCAM Murcia II,0,0,,,
+63146249,2025-10-19 15:30,CD Cieza,Mazarron FC,1,1,,,
+63146255,2025-10-19 15:30,Olimpico Totana,Aguilas FC B,1,0,,,
+63146247,2025-10-19 16:00,UD Caravaca,El Palmar CF-Estrella Grana,1,2,,,
+63146253,2025-10-19 16:00,Muleno CF,Yeclano Deportivo B,0,0,,,
+63146263,2025-10-26 10:30,Aguilas FC B,CD Bala Azul,2,0,,,
+63146271,2025-10-26 10:30,SFC Minerva,FC Cartagena B,2,2,,,
+63146267,2025-10-26 11:00,El Palmar CF-Estrella Grana,CF Santomera,2,2,,,
+63146273,2025-10-26 11:00,Union Molinense CF 2020,Muleno CF,1,1,,,
+63146275,2025-10-26 11:00,CA Pulpileno,Olimpico Totana,1,1,,,
+63146277,2025-10-26 11:00,UCAM Murcia II,CD Cieza,0,3,,,
+63146269,2025-10-26 17:00,Mazarron FC,UD Caravaca,1,1,,,
+63146265,2025-10-26 17:30,Deportivo Maritimo,Atletico Santa Cruz,1,2,,,
+63146279,2025-10-26 18:00,Yeclano Deportivo B,Real Murcia Imperial FC,1,2,,,
+63146295,2025-11-01 15:30,Atletico Santa Cruz,El Palmar CF-Estrella Grana,1,2,,,
+63146287,2025-11-02 15:00,FC Cartagena B,Yeclano Deportivo B,0,0,,,
+63146297,2025-11-02 15:15,CF Santomera,Mazarron FC,0,1,,,
+63146601,2025-11-02 15:30,UCAM Murcia II,UD Caravaca,0,0,,,
+63146281,2025-11-02 16:00,CD Bala Azul,CA Pulpileno,0,0,,,
+63146285,2025-11-02 16:00,CD Cieza,Aguilas FC B,3,0,,,
+63146289,2025-11-02 16:00,Union Molinense CF 2020,Deportivo Maritimo,3,1,,,
+63146291,2025-11-02 16:00,Muleno CF,Real Murcia Imperial FC,2,4,,,
+63146293,2025-11-02 16:00,Olimpico Totana,SFC Minerva,1,0,,,
+63146299,2025-11-08 15:00,Aguilas FC B,UD Caravaca,3,2,,,
+63146315,2025-11-08 18:30,Yeclano Deportivo B,Olimpico Totana,0,1,,,
+63146311,2025-11-09 09:00,Real Murcia Imperial FC,FC Cartagena B,2,1,,,
+63146307,2025-11-09 10:30,SFC Minerva,CD Bala Azul,0,0,,,
+63146303,2025-11-09 11:00,El Palmar CF-Estrella Grana,Union Molinense CF 2020,0,1,,,
+63146313,2025-11-09 15:30,UCAM Murcia II,CF Santomera,2,2,,,
+63146301,2025-11-09 16:00,Deportivo Maritimo,Muleno CF,4,2,,,
+63146305,2025-11-09 16:30,Mazarron FC,Atletico Santa Cruz,1,0,,,
+63146309,2025-11-09 17:30,CA Pulpileno,CD Cieza,1,0,,,
+63146331,2025-11-15 15:00,Atletico Santa Cruz,UCAM Murcia II,0,1,,,
+63146333,2025-11-16 10:30,CF Santomera,Aguilas FC B,2,2,,,
+63146319,2025-11-16 15:30,UD Caravaca,CA Pulpileno,2,1,,,
+63146323,2025-11-16 15:30,Deportivo Maritimo,El Palmar CF-Estrella Grana,0,0,,,
+63146325,2025-11-16 15:45,Union Molinense CF 2020,Mazarron FC,1,1,,,
+63146327,2025-11-16 15:45,Muleno CF,FC Cartagena B,0,2,,,
+63146317,2025-11-16 16:00,CD Bala Azul,Yeclano Deportivo B,4,1,,,
+63146321,2025-11-16 16:00,CD Cieza,SFC Minerva,1,0,,,
+63146329,2025-11-16 16:00,Olimpico Totana,Real Murcia Imperial FC,1,1,,,
+63146335,2025-11-22 15:00,Aguilas FC B,Atletico Santa Cruz,0,3,,,
+63146339,2025-11-22 15:00,FC Cartagena B,Olimpico Totana,0,1,,,
+63146341,2025-11-22 16:00,Mazarron FC,Deportivo Maritimo,1,0,,,
+63146345,2025-11-22 16:30,CA Pulpileno,CF Santomera,3,2,,,
+63146347,2025-11-23 09:00,Real Murcia Imperial FC,CD Bala Azul,1,1,,,
+63146343,2025-11-23 10:30,SFC Minerva,UD Caravaca,1,0,,,
+63146337,2025-11-23 11:00,El Palmar CF-Estrella Grana,Muleno CF,2,1,,,
+63146349,2025-11-23 15:00,UCAM Murcia II,Union Molinense CF 2020,0,1,,,
+63146351,2025-11-23 18:30,Yeclano Deportivo B,CD Cieza,1,2,,,
+63146355,2025-12-06 10:30,UD Caravaca,Yeclano Deportivo B,2,1,,,
+63146369,2025-12-06 15:00,CF Santomera,SFC Minerva,3,1,,,
+63146353,2025-12-06 16:00,CD Bala Azul,FC Cartagena B,2,1,,,
+63146361,2025-12-07 10:00,El Palmar CF-Estrella Grana,Mazarron FC,1,0,,,
+63146367,2025-12-07 11:00,Atletico Santa Cruz,CA Pulpileno,0,0,,,
+63146359,2025-12-07 15:30,Deportivo Maritimo,UCAM Murcia II,1,2,,,
+63146365,2025-12-07 15:30,Muleno CF,Olimpico Totana,1,0,,,
+63146357,2025-12-07 16:00,CD Cieza,Real Murcia Imperial FC,2,0,,,
+63146363,2025-12-07 16:00,Union Molinense CF 2020,Aguilas FC B,4,2,,,
+63146379,2025-12-13 15:00,Olimpico Totana,CD Bala Azul,2,0,2.050,2.875,3.700
+63146371,2025-12-13 15:30,Aguilas FC B,Deportivo Maritimo,3,1,,,
+63146387,2025-12-13 15:30,Yeclano Deportivo B,CF Santomera,0,1,3.300,3.100,2.050
+63146377,2025-12-14 10:30,SFC Minerva,Atletico Santa Cruz,0,2,3.100,3.100,2.200
+63146385,2025-12-14 15:00,UCAM Murcia II,El Palmar CF-Estrella Grana,1,0,,,
+63146373,2025-12-14 15:30,FC Cartagena B,CD Cieza,0,0,4.750,3.500,1.615
+63146403,2025-12-17 19:30,Atletico Santa Cruz,Yeclano Deportivo B,3,0,1.550,3.500,5.500
+63146389,2025-12-20 15:30,UD Caravaca,FC Cartagena B,1,1,,,
+63146395,2025-12-20 15:30,El Palmar CF-Estrella Grana,Aguilas FC B,0,0,2.600,3.300,2.300
+63146397,2025-12-20 15:30,Mazarron FC,UCAM Murcia II,1,1,,,
+63146391,2025-12-20 16:00,CD Cieza,Olimpico Totana,1,0,,,
+63146405,2025-12-21 10:30,CF Santomera,Real Murcia Imperial FC,0,4,2.500,3.100,2.600
+63146399,2025-12-21 10:45,Union Molinense CF 2020,SFC Minerva,5,1,1.480,3.750,6.000
+63146393,2025-12-21 15:00,Deportivo Maritimo,CA Pulpileno,2,1,2.900,3.100,2.250
+63146401,2025-12-21 15:30,Muleno CF,CD Bala Azul,2,1,2.900,3.100,2.250
+63146407,2026-01-03 16:00,Aguilas FC B,Mazarron FC,1,3,2.625,3.200,2.400
+63146413,2026-01-04 10:30,SFC Minerva,Deportivo Maritimo,2,1,2.550,3.000,2.550
+63146417,2026-01-04 10:30,Olimpico Totana,UD Caravaca,0,0,,,
+63146419,2026-01-04 11:00,CA Pulpileno,El Palmar CF-Estrella Grana,1,0,1.700,3.200,4.750
+63146421,2026-01-04 11:00,Real Murcia Imperial FC,Atletico Santa Cruz,3,1,1.900,3.200,3.600
+63146423,2026-01-04 11:30,Yeclano Deportivo B,Union Molinense CF 2020,0,0,5.500,3.400,1.571
+63146411,2026-01-04 15:30,FC Cartagena B,CF Santomera,4,4,1.900,3.100,3.700
+63146415,2026-01-04 15:30,Muleno CF,UCAM Murcia II,2,2,,,
+63146409,2026-01-04 16:00,CD Bala Azul,CD Cieza,1,2,5.000,3.250,1.615
+63146437,2026-01-10 15:00,Atletico Santa Cruz,FC Cartagena B,0,2,1.950,3.200,3.400
+63146439,2026-01-11 10:30,CF Santomera,Olimpico Totana,2,2,2.600,3.200,2.400
+63146425,2026-01-11 11:00,UD Caravaca,CD Bala Azul,0,0,,,
+63146431,2026-01-11 11:00,El Palmar CF-Estrella Grana,SFC Minerva,0,1,2.050,3.100,3.300
+63146435,2026-01-11 11:15,Union Molinense CF 2020,Real Murcia Imperial FC,0,3,1.850,3.200,3.800
+63146429,2026-01-11 15:00,Deportivo Maritimo,Yeclano Deportivo B,1,1,1.950,3.200,3.500
+63146441,2026-01-11 15:00,UCAM Murcia II,Aguilas FC B,1,1,,,
+63146433,2026-01-11 15:30,Mazarron FC,CA Pulpileno,2,0,1.950,3.000,3.700
+63146427,2026-01-11 16:00,CD Cieza,Muleno CF,4,1,,,
+67242760,2026-01-14 15:30,Real Murcia Imperial FC,UD Caravaca,4,3,1.480,4.200,5.000
+63146455,2026-01-17 15:00,Atletico Santa Cruz,Olimpico Totana,1,2,2.600,3.000,2.550
+63146443,2026-01-17 16:00,Aguilas FC B,Muleno CF,2,2,1.750,3.400,4.000
+63146457,2026-01-18 10:30,CF Santomera,CD Bala Azul,1,1,2.250,3.000,3.000
+63146453,2026-01-18 10:45,Union Molinense CF 2020,FC Cartagena B,0,1,1.850,3.100,3.900
+63146445,2026-01-18 11:00,UD Caravaca,CD Cieza,1,1,,,
+63146449,2026-01-18 11:00,El Palmar CF-Estrella Grana,Yeclano Deportivo B,0,1,1.800,3.250,4.000
+63146447,2026-01-18 15:00,Deportivo Maritimo,Real Murcia Imperial FC,2,1,2.700,3.300,2.350
+63146459,2026-01-18 15:00,UCAM Murcia II,CA Pulpileno,2,0,,,
+63146451,2026-01-18 15:30,Mazarron FC,SFC Minerva,0,1,1.550,3.400,5.750
+67093610,2026-01-21 19:00,CA Pulpileno,Union Molinense CF 2020,0,1,2.375,2.875,2.875
+63146469,2026-01-24 15:45,Muleno CF,UD Caravaca,1,1,2.550,3.100,2.450
+63146477,2026-01-24 17:30,Yeclano Deportivo B,Mazarron FC,0,3,4.000,3.100,1.850
+63146475,2026-01-25 09:00,Real Murcia Imperial FC,El Palmar CF-Estrella Grana,0,0,1.480,3.800,5.750
+63146467,2026-01-25 10:30,SFC Minerva,UCAM Murcia II,1,0,,,
+63146465,2026-01-25 11:00,FC Cartagena B,Deportivo Maritimo,1,1,2.200,3.200,2.875
+63146473,2026-01-25 11:00,CA Pulpileno,Aguilas FC B,1,0,1.850,3.000,4.100
+63146461,2026-01-25 16:00,CD Bala Azul,Atletico Santa Cruz,0,1,2.000,3.000,3.600
+63146463,2026-01-25 16:00,CD Cieza,CF Santomera,5,0,1.270,4.500,10.000
+63146471,2026-01-25 16:00,Olimpico Totana,Union Molinense CF 2020,1,2,2.800,2.625,2.300
+63146479,2026-01-31 15:00,Aguilas FC B,SFC Minerva,2,4,1.900,3.250,3.700
+63146493,2026-02-01 10:30,CF Santomera,UD Caravaca,1,0,2.100,3.200,3.100
+63146487,2026-02-01 10:45,Union Molinense CF 2020,CD Bala Azul,2,1,1.666,3.300,4.750
+63146483,2026-02-01 11:00,El Palmar CF-Estrella Grana,FC Cartagena B,0,1,2.450,3.100,2.625
+63146491,2026-02-01 11:00,Atletico Santa Cruz,CD Cieza,0,3,,,
+63146495,2026-02-01 15:00,UCAM Murcia II,Yeclano Deportivo B,4,1,,,
+63146481,2026-02-01 15:30,Deportivo Maritimo,Olimpico Totana,1,1,2.625,3.400,2.300
+63146485,2026-02-01 15:30,Mazarron FC,Real Murcia Imperial FC,3,2,2.300,3.200,2.750
+63146489,2026-02-01 16:00,CA Pulpileno,Muleno CF,2,0,1.650,3.400,4.750
+63146503,2026-02-07 15:00,FC Cartagena B,Mazarron FC,2,3,3.400,3.300,1.950
+63146511,2026-02-08 09:00,Real Murcia Imperial FC,UCAM Murcia II,2,0,,,
+63146507,2026-02-08 10:45,Muleno CF,CF Santomera,3,0,2.500,3.200,2.500
+63146513,2026-02-08 11:30,Yeclano Deportivo B,Aguilas FC B,0,2,2.900,3.200,2.200
+63146497,2026-02-08 16:00,CD Bala Azul,Deportivo Maritimo,3,0,,,
+63146501,2026-02-08 16:00,CD Cieza,Union Molinense CF 2020,3,0,,,
+63146509,2026-02-08 16:00,Olimpico Totana,El Palmar CF-Estrella Grana,0,1,1.800,3.200,4.000
+68827882,2026-02-10 19:30,UD Caravaca,Atletico Santa Cruz,0,0,2.450,3.100,2.550
+63146523,2026-02-15 10:30,SFC Minerva,Muleno CF,0,0,2.050,3.250,3.100
+63146519,2026-02-15 11:00,El Palmar CF-Estrella Grana,CD Bala Azul,1,2,2.750,3.000,2.450
+63146531,2026-02-15 15:00,UCAM Murcia II,FC Cartagena B,2,1,,,
+63146521,2026-02-15 15:15,Mazarron FC,Olimpico Totana,1,2,1.700,3.300,4.333
+63146517,2026-02-15 16:00,Deportivo Maritimo,CD Cieza,0,2,7.500,4.200,1.363
+63146525,2026-02-15 16:00,Union Molinense CF 2020,UD Caravaca,1,1,1.615,3.400,4.750
+69025516,2026-02-18 19:30,Atletico Santa Cruz,CF Santomera,0,2,1.650,3.700,4.200
+63146539,2026-02-21 15:00,FC Cartagena B,Aguilas FC B,1,0,1.850,3.500,3.600
+63146543,2026-02-21 15:00,Olimpico Totana,UCAM Murcia II,2,2,,,
+63146549,2026-02-21 15:00,Yeclano Deportivo B,SFC Minerva,0,0,,,
+63146545,2026-02-22 09:00,Real Murcia Imperial FC,CA Pulpileno,3,2,2.350,3.100,2.700
+63146547,2026-02-22 10:30,CF Santomera,Union Molinense CF 2020,1,2,3.200,3.200,2.050
+63146541,2026-02-22 10:45,Muleno CF,Atletico Santa Cruz,0,4,2.550,3.100,2.450
+63146535,2026-02-22 11:00,UD Caravaca,Deportivo Maritimo,1,0,,,
+63146537,2026-02-22 11:00,CD Cieza,El Palmar CF-Estrella Grana,3,0,,,
+63146533,2026-02-22 16:00,CD Bala Azul,Mazarron FC,1,1,,,
+63146551,2026-02-28 15:00,Aguilas FC B,Olimpico Totana,0,0,2.900,3.000,2.300
+63146567,2026-02-28 19:00,Yeclano Deportivo B,Muleno CF,3,3,2.250,3.000,3.000
+63146559,2026-03-01 10:30,SFC Minerva,Real Murcia Imperial FC,0,1,3.750,3.200,1.900
+63146561,2026-03-01 10:45,Union Molinense CF 2020,Atletico Santa Cruz,2,0,1.750,3.200,4.333
+63146555,2026-03-01 11:00,El Palmar CF-Estrella Grana,UD Caravaca,3,1,2.500,3.000,2.700
+63146565,2026-03-01 15:00,UCAM Murcia II,CD Bala Azul,1,1,,,
+63146557,2026-03-01 15:45,Mazarron FC,CD Cieza,0,0,3.800,3.300,1.800
+63146553,2026-03-01 16:00,Deportivo Maritimo,CF Santomera,2,1,2.100,3.200,3.100
+63146563,2026-03-01 16:00,CA Pulpileno,FC Cartagena B,1,0,1.950,3.100,3.600
+63146575,2026-03-07 15:00,FC Cartagena B,SFC Minerva,3,0,1.700,3.200,5.000
+63146583,2026-03-07 15:30,Atletico Santa Cruz,Deportivo Maritimo,0,0,1.950,3.250,3.300
+63146577,2026-03-07 15:45,Muleno CF,Union Molinense CF 2020,0,1,4.100,3.300,1.750
+63146581,2026-03-08 09:00,Real Murcia Imperial FC,Yeclano Deportivo B,4,0,1.400,3.900,7.500
+63146585,2026-03-08 10:30,CF Santomera,El Palmar CF-Estrella Grana,0,1,1.950,3.300,3.400
+63146571,2026-03-08 11:00,UD Caravaca,Mazarron FC,1,1,,,
+63146573,2026-03-08 11:00,CD Cieza,UCAM Murcia II,1,1,,,
+63146569,2026-03-08 16:00,CD Bala Azul,Aguilas FC B,0,0,,,
+63146579,2026-03-08 16:00,Olimpico Totana,CA Pulpileno,2,0,2.450,2.800,2.875
+63146599,2026-03-14 15:00,Real Murcia Imperial FC,Muleno CF,3,0,,,
+63146587,2026-03-14 16:00,Aguilas FC B,CD Cieza,1,0,6.500,3.900,1.400
+63146603,2026-03-14 19:00,Yeclano Deportivo B,FC Cartagena B,2,0,4.000,3.300,1.750
+63146595,2026-03-15 10:30,SFC Minerva,Olimpico Totana,0,2,3.300,3.000,2.100
+63146591,2026-03-15 11:00,El Palmar CF-Estrella Grana,Atletico Santa Cruz,1,3,2.500,3.200,2.500
+63146597,2026-03-15 11:00,CA Pulpileno,CD Bala Azul,1,1,2.200,2.900,3.100
+63146589,2026-03-15 16:00,Deportivo Maritimo,Union Molinense CF 2020,1,1,3.750,3.250,1.850
+63146593,2026-03-15 16:00,Mazarron FC,CF Santomera,5,0,1.650,3.500,4.750
+65092344,2026-03-15 16:00,UD Caravaca,UCAM Murcia II,0,2,,,
+69232484,2026-03-18 18:00,Aguilas FC B,Real Murcia Imperial FC,4,0,3.300,3.300,2.000
+68939112,2026-03-19 10:30,SFC Minerva,CA Pulpileno,3,1,3.250,3.100,2.050
+63146619,2026-03-21 15:30,Atletico Santa Cruz,Mazarron FC,1,1,2.900,3.250,2.200
+63146621,2026-03-22 10:30,CF Santomera,UCAM Murcia II,2,4,3.300,3.400,1.950
+63146613,2026-03-22 10:45,Union Molinense CF 2020,El Palmar CF-Estrella Grana,3,0,1.380,4.100,7.500
+63146607,2026-03-22 11:00,UD Caravaca,Aguilas FC B,0,1,,,
+63146609,2026-03-22 11:00,CD Cieza,CA Pulpileno,1,1,,,
+63146615,2026-03-22 11:00,Muleno CF,Deportivo Maritimo,0,1,,,
+63146611,2026-03-22 15:30,FC Cartagena B,Real Murcia Imperial FC,1,1,2.625,3.300,2.250
+63146605,2026-03-22 16:00,CD Bala Azul,SFC Minerva,0,0,1.727,3.250,4.333
+63146617,2026-03-22 16:00,Olimpico Totana,Yeclano Deportivo B,1,1,1.400,3.800,7.000
+63146635,2026-03-28 11:00,Real Murcia Imperial FC,Olimpico Totana,2,4,,,
+63146623,2026-03-28 16:00,Aguilas FC B,CF Santomera,2,0,,,
+63146633,2026-03-28 16:00,CA Pulpileno,UD Caravaca,1,0,1.909,3.000,3.700
+63146639,2026-03-28 19:00,Yeclano Deportivo B,CD Bala Azul,0,3,3.400,3.100,2.000
+63146631,2026-03-29 09:30,SFC Minerva,CD Cieza,1,1,,,
+63146625,2026-03-29 10:00,El Palmar CF-Estrella Grana,Deportivo Maritimo,1,0,2.800,3.300,2.200
+63146627,2026-03-29 10:30,FC Cartagena B,Muleno CF,0,1,,,
+63146637,2026-03-29 14:00,UCAM Murcia II,Atletico Santa Cruz,4,0,1.950,3.200,3.400
+63146629,2026-03-29 16:00,Mazarron FC,Union Molinense CF 2020,1,0,2.050,3.200,3.250
+63146653,2026-04-01 15:45,Olimpico Totana,FC Cartagena B,0,2,1.800,3.300,3.900
+63146655,2026-04-01 18:00,Atletico Santa Cruz,Aguilas FC B,2,1,2.300,3.100,2.750
+63146649,2026-04-02 09:30,Union Molinense CF 2020,UCAM Murcia II,3,3,1.800,3.100,4.200
+63146645,2026-04-02 10:00,CD Cieza,Yeclano Deportivo B,1,0,1.142,6.500,15.000
+63146651,2026-04-02 10:00,Muleno CF,El Palmar CF-Estrella Grana,0,0,,,
+63146657,2026-04-04 15:30,CF Santomera,CA Pulpileno,0,2,3.250,3.000,2.100
+63146643,2026-04-04 16:30,UD Caravaca,SFC Minerva,3,0,,,
+63146641,2026-04-05 15:00,CD Bala Azul,Real Murcia Imperial FC,2,0,,,
+63146647,2026-04-05 16:00,Deportivo Maritimo,Mazarron FC,0,0,4.000,3.300,1.750
+63146671,2026-04-10 19:00,Real Murcia Imperial FC,CD Cieza,0,0,,,
+63146673,2026-04-11 14:00,UCAM Murcia II,Deportivo Maritimo,1,1,1.666,3.500,4.333
+63146659,2026-04-11 16:00,Aguilas FC B,Union Molinense CF 2020,2,1,,,
+63146665,2026-04-12 09:30,SFC Minerva,CF Santomera,1,0,,,
+63146669,2026-04-12 09:30,CA Pulpileno,Atletico Santa Cruz,1,0,2.000,3.000,3.500
+63146661,2026-04-12 14:30,FC Cartagena B,CD Bala Azul,2,3,,,
+63146675,2026-04-12 15:00,Yeclano Deportivo B,UD Caravaca,3,1,,,
+63146663,2026-04-12 16:00,Mazarron FC,El Palmar CF-Estrella Grana,4,1,,,
+63146667,2026-04-12 16:00,Olimpico Totana,Muleno CF,1,1,,,
+63146691,2026-04-18 14:00,Atletico Santa Cruz,SFC Minerva,1,0,,,
+63146681,2026-04-18 16:00,CD Cieza,FC Cartagena B,1,1,,,
+63146687,2026-04-19 09:30,Union Molinense CF 2020,CA Pulpileno,1,1,1.900,3.100,3.900
+63146685,2026-04-19 10:00,El Palmar CF-Estrella Grana,UCAM Murcia II,0,4,3.200,3.250,2.050
+63146679,2026-04-19 15:00,UD Caravaca,Real Murcia Imperial FC,1,1,,,
+63146689,2026-04-19 15:30,Muleno CF,Mazarron FC,1,1,,,
+63146693,2026-04-19 15:45,CF Santomera,Yeclano Deportivo B,3,1,,,
+63146677,2026-04-19 16:00,CD Bala Azul,Olimpico Totana,0,0,,,
+63146683,2026-04-19 16:00,Deportivo Maritimo,Aguilas FC B,1,2,,,
+63146699,2026-04-25 14:30,FC Cartagena B,UD Caravaca,0,0,,,
+63146695,2026-04-25 16:00,Aguilas FC B,El Palmar CF-Estrella Grana,2,1,,,
+63146707,2026-04-25 16:30,Real Murcia Imperial FC,CF Santomera,2,3,,,
+63146701,2026-04-26 09:30,SFC Minerva,Union Molinense CF 2020,2,0,,,
+63146705,2026-04-26 09:30,CA Pulpileno,Deportivo Maritimo,1,0,,,
+63146709,2026-04-26 15:00,UCAM Murcia II,Mazarron FC,3,3,2.750,3.100,2.350
+63146711,2026-04-26 15:30,Yeclano Deportivo B,Atletico Santa Cruz,0,2,,,
+63146697,2026-04-26 16:00,CD Bala Azul,Muleno CF,3,4,,,
+63146703,2026-04-26 16:00,Olimpico Totana,CD Cieza,2,2,,,
+63146725,2026-05-02 08:00,Atletico Santa Cruz,Real Murcia Imperial FC,1,2,,,
+63146727,2026-05-02 15:30,CF Santomera,FC Cartagena B,2,1,,,
+63146715,2026-05-02 16:00,CD Cieza,CD Bala Azul,3,1,,,
+63146713,2026-05-03 10:00,UD Caravaca,Olimpico Totana,0,1,,,
+63146719,2026-05-03 10:00,El Palmar CF-Estrella Grana,CA Pulpileno,0,0,4.200,3.200,1.800
+63146729,2026-05-03 14:00,UCAM Murcia II,Muleno CF,1,1,1.533,3.800,5.000
+63146717,2026-05-03 16:30,Deportivo Maritimo,SFC Minerva,4,0,,,
+63146723,2026-05-03 16:30,Union Molinense CF 2020,Yeclano Deportivo B,2,0,,,
+63146721,2026-05-03 17:00,Mazarron FC,Aguilas FC B,2,3,1.666,3.500,4.333
+63146733,2026-05-09 16:00,CD Bala Azul,UD Caravaca,2,4,,,
+63146735,2026-05-10 10:00,FC Cartagena B,Atletico Santa Cruz,0,1,,,
+63146731,2026-05-10 16:00,Aguilas FC B,UCAM Murcia II,2,2,,,
+63146737,2026-05-10 16:00,SFC Minerva,El Palmar CF-Estrella Grana,3,2,,,
+63146739,2026-05-10 16:00,Muleno CF,CD Cieza,1,6,,,
+63146741,2026-05-10 16:00,Olimpico Totana,CF Santomera,3,1,,,
+63146743,2026-05-10 16:00,CA Pulpileno,Mazarron FC,0,1,,,
+63146745,2026-05-10 16:00,Real Murcia Imperial FC,Union Molinense CF 2020,0,2,,,
+63146747,2026-05-10 16:00,Yeclano Deportivo B,Deportivo Maritimo,1,3,,,
+71456926,2026-05-16 17:30,Mazarron FC,Real Murcia Imperial FC,1,1,,,
+71456930,2026-05-17 16:00,Olimpico Totana,Union Molinense CF 2020,0,0,2.500,2.900,2.700
+71456928,2026-05-24 09:00,Real Murcia Imperial FC,Mazarron FC,2,0,,,
+71456932,2026-05-24 17:15,Union Molinense CF 2020,Olimpico Totana,0,2,2.150,3.000,3.200
+71748584,2026-05-31 17:00,Olimpico Totana,Real Murcia Imperial FC,1,1,,,
+71748586,2026-06-07 09:00,Real Murcia Imperial FC,Olimpico Totana,2,1,,,
+73586486,2026-09-05 16:30,CF Santomera,UCAM Murcia II,2,1,2.150,3.100,3.100
+73586490,2026-09-05 16:30,CA Pulpileno,CD Algar,2,0,1.380,3.700,8.500
+73586482,2026-09-06 08:30,FC Cartagena B,Union Molinense CF 2020,2,4,2.700,3.400,2.250
+73586474,2026-09-06 10:00,Aguilas FC B,Alcantarilla FC,1,1,1.615,3.600,4.500
+73586478,2026-09-06 16:30,Olimpico Totana,CD Bala Azul,2,2,1.850,3.100,4.100
+73586484,2026-09-06 16:30,Deportivo Maritimo,SFC Minerva,0,1,1.700,3.250,4.500
+73586488,2026-09-06 16:30,Bullas Deportivo,UD Los Garres,1,1,,,
+73586480,2026-09-06 17:00,San Javier Mar Menor CF,Atletico Santa Cruz,3,2,,,
+73586492,2026-09-12 16:00,Alcantarilla FC,CA Pulpileno,0,0,,,
+73586498,2026-09-12 16:00,Atletico Santa Cruz,Olimpico Totana,2,1,1.950,3.000,3.750
+73586496,2026-09-12 18:00,CD Bala Azul,Mazarron FC,1,0,2.750,3.100,2.350
+73586502,2026-09-13 09:00,SFC Minerva,FC Cartagena B,0,0,2.200,3.300,2.800
+73586506,2026-09-13 09:30,UD Los Garres,CF Santomera,2,2,2.800,3.300,2.150
+73586508,2026-09-13 09:30,CD Algar,Bullas Deportivo,0,3,2.700,3.000,2.450
+73586504,2026-09-13 14:00,UCAM Murcia II,Deportivo Maritimo,4,0,1.950,3.200,3.400
+74567782,2026-09-13 16:00,Cotillas CD,Aguilas FC B,2,2,2.400,3.200,2.600
+73586500,2026-09-13 17:00,Union Molinense CF 2020,San Javier Mar Menor CF,2,2,1.750,3.200,4.333
+73586520,2026-09-20 09:00,FC Cartagena B,UCAM Murcia II,2,2,2.800,3.300,2.150
+73586512,2026-09-20 15:30,Aguilas FC B,CD Bala Azul,0,0,2.250,3.200,2.875
+73586514,2026-09-20 15:30,Mazarron FC,Atletico Santa Cruz,2,2,,,
+73586518,2026-09-20 16:00,San Javier Mar Menor CF,SFC Minerva,1,0,,,
+73586524,2026-09-20 16:00,CF Santomera,CD Algar,2,0,1.200,5.250,12.000
+74567784,2026-09-20 16:00,Alcantarilla FC,Cotillas CD,2,0,2.400,3.100,2.625
+73586522,2026-09-20 16:15,Deportivo Maritimo,UD Los Garres,0,1,,,
+73586526,2026-09-20 16:45,CA Pulpileno,Bullas Deportivo,0,0,,,
+73586516,2026-09-20 17:00,Olimpico Totana,Union Molinense CF 2020,1,0,2.450,3.000,2.700
+73586532,2026-09-26 15:00,Atletico Santa Cruz,Aguilas FC B,1,1,1.850,3.300,3.750
+73586536,2026-09-27 09:30,SFC Minerva,Olimpico Totana,1,1,3.600,3.100,2.000
+73586540,2026-09-27 10:00,UD Los Garres,FC Cartagena B,0,1,2.450,3.100,2.600
+73586542,2026-09-27 14:30,CD Algar,Deportivo Maritimo,1,2,3.700,3.300,1.850
+73586538,2026-09-27 15:00,UCAM Murcia II,San Javier Mar Menor CF,1,1,1.909,3.400,3.400
+73586544,2026-09-27 15:30,Bullas Deportivo,CF Santomera,1,2,,,
+74567786,2026-09-27 16:00,Cotillas CD,CA Pulpileno,1,2,2.900,3.000,2.300
+73586530,2026-09-27 17:00,CD Bala Azul,Alcantarilla FC,0,1,1.800,3.250,4.000
+73586534,2026-09-27 17:00,Union Molinense CF 2020,Mazarron FC,3,2,2.300,3.100,2.800
+73586550,2026-10-04 09:00,FC Cartagena B,CD Algar,1,2,1.285,4.750,8.500
+73586554,2026-10-04 09:30,CA Pulpileno,CF Santomera,2,3,2.600,3.200,2.450
+73586560,2026-10-04 10:00,Aguilas FC B,Union Molinense CF 2020,1,1,2.600,3.200,2.450
+73586548,2026-10-04 15:00,San Javier Mar Menor CF,UD Los Garres,1,0,,,
+73586562,2026-10-04 15:30,Mazarron FC,SFC Minerva,0,1,,,
+73586546,2026-10-04 16:00,Olimpico Totana,UCAM Murcia II,1,0,,,
+73586558,2026-10-04 16:00,Alcantarilla FC,Atletico Santa Cruz,1,1,2.800,3.200,2.250
+74567788,2026-10-04 16:00,Cotillas CD,CD Bala Azul,2,1,2.400,3.200,2.625
+73586568,2026-10-10 09:30,CF Santomera,Deportivo Maritimo,3,0,1.363,4.100,7.000
+73586574,2026-10-10 15:00,Union Molinense CF 2020,Alcantarilla FC,3,0,,,
+73586870,2026-10-10 15:00,CA Pulpileno,CD Bala Azul,2,3,2.050,3.100,3.250
+74567790,2026-10-10 15:00,Atletico Santa Cruz,Cotillas CD,1,0,1.420,3.600,7.000
+73586566,2026-10-10 16:00,Bullas Deportivo,FC Cartagena B,2,3,,,
+73586578,2026-10-11 08:00,UCAM Murcia II,Mazarron FC,5,1,2.800,3.300,2.150
+73586576,2026-10-11 09:30,SFC Minerva,Aguilas FC B,0,2,2.550,3.300,2.400
+73586564,2026-10-11 15:00,CD Algar,San Javier Mar Menor CF,0,3,4.100,3.400,1.727
+73586580,2026-10-11 16:00,UD Los Garres,Olimpico Totana,2,1,3.700,3.300,1.850
+75448746,2026-10-14 18:30,Deportivo Maritimo,Bullas Deportivo,4,1,2.700,3.100,2.400
+73586600,2026-10-24 09:30,Atletico Santa Cruz,CA Pulpileno,3,2,1.909,3.100,3.700
+73586606,2026-10-24 10:30,UCAM Murcia II,Alcantarilla FC,2,1,1.850,3.400,3.500
+73586614,2026-10-24 15:00,CF Santomera,San Javier Mar Menor CF,4,0,1.600,3.600,4.750
+73586608,2026-10-24 15:30,UD Los Garres,Aguilas FC B,1,2,,,
+73586610,2026-10-24 15:30,CD Algar,Mazarron FC,2,1,,,
+74567794,2026-10-25 10:30,SFC Minerva,Cotillas CD,1,3,2.150,2.900,3.300
+73586602,2026-10-25 10:45,Union Molinense CF 2020,CD Bala Azul,1,1,1.900,3.200,3.600
+73586612,2026-10-25 16:00,Bullas Deportivo,Olimpico Totana,1,3,2.625,3.100,2.400
+73586616,2026-10-25 16:00,Deportivo Maritimo,FC Cartagena B,2,1,2.800,3.300,2.150
+73586624,2026-10-31 15:00,Alcantarilla FC,UD Los Garres,0,2,1.833,3.250,3.700
+73586618,2026-10-31 15:30,Atletico Santa Cruz,Union Molinense CF 2020,2,0,2.050,3.100,3.100
+74567796,2026-10-31 15:30,Cotillas CD,UCAM Murcia II,0,1,3.600,3.500,1.800
+73586634,2026-10-31 16:00,CA Pulpileno,FC Cartagena B,3,2,1.909,3.300,3.400
+73586628,2026-10-31 17:00,Mazarron FC,Bullas Deportivo,5,1,,,
+73586632,2026-11-01 11:00,San Javier Mar Menor CF,Deportivo Maritimo,1,1,1.666,3.750,4.500
+73586626,2026-11-01 11:30,Aguilas FC B,CD Algar,2,0,,,
+73586630,2026-11-01 16:00,Olimpico Totana,CF Santomera,1,3,2.600,3.250,2.500
+73586620,2026-11-01 17:30,CD Bala Azul,SFC Minerva,2,0,1.727,3.400,4.200
+73586640,2026-11-08 10:00,UCAM Murcia II,CD Bala Azul,2,2,1.800,3.400,3.700
+73586638,2026-11-08 10:30,SFC Minerva,Atletico Santa Cruz,0,2,3.600,3.200,1.900
+73586652,2026-11-08 11:00,FC Cartagena B,San Javier Mar Menor CF,2,2,2.150,3.300,2.875
+73586648,2026-11-08 15:00,CF Santomera,Mazarron FC,1,0,1.615,3.700,4.750
+73586650,2026-11-08 15:30,Deportivo Maritimo,Olimpico Totana,3,2,3.400,3.250,1.909
+73586636,2026-11-08 16:00,Union Molinense CF 2020,CA Pulpileno,2,0,1.909,3.300,3.400
+73586646,2026-11-08 16:00,Bullas Deportivo,Aguilas FC B,0,3,,,
+74567798,2026-11-08 16:30,UD Los Garres,Cotillas CD,2,0,2.350,3.100,2.700
+73586644,2026-11-08 17:30,CD Algar,Alcantarilla FC,1,7,,,

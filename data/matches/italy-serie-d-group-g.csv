@@ -1,0 +1,295 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+62752101,2025-09-07 13:00,Montespaccato Calcio,Scafatese Calcio 1922,0,2,,,
+62752129,2025-09-13 14:00,ASD Trastevere Calcio,US Palmese 1914,1,1,,,
+62752123,2025-09-14 13:00,Monastir,Montespaccato Calcio,2,0,,,
+62752141,2025-09-20 13:00,Real Monterotondo Scalo,Monastir,1,0,,,
+62752139,2025-09-20 13:30,ASD Nocerina 1910,SSD Albalonga,1,2,,,
+62752137,2025-09-21 13:00,Montespaccato Calcio,ASD Anzio Calcio 1924,1,2,,,
+62752143,2025-09-21 13:00,Sarrabus Ogliastra,SSD Ischia Calcio,1,1,,,
+62752159,2025-09-24 13:00,Monastir,ASD Cassino Calcio 1924,2,1,,,
+62752163,2025-09-24 13:00,Scafatese Calcio 1922,Budoni Calcio,0,0,,,
+62752177,2025-09-28 12:30,ASD Nocerina 1910,Olbia Calcio,2,1,,,
+62752181,2025-09-28 12:30,Sarrabus Ogliastra,Scafatese Calcio 1922,0,4,,,
+62752193,2025-10-05 13:00,Monastir,Sarrabus Ogliastra,2,3,,,
+62752197,2025-10-05 13:00,Scafatese Calcio 1922,Real Monterotondo Scalo,2,0,,,
+62752217,2025-10-12 13:00,Sarrabus Ogliastra,ASD Anzio Calcio 1924,3,2,,,
+62752227,2025-10-19 13:00,Monastir,Atletico Lodigiani,0,0,,,
+62752253,2025-10-26 13:30,Sarrabus Ogliastra,US Palmese 1914,2,0,,,
+62752257,2025-11-02 13:30,SSD Albalonga,Sarrabus Ogliastra,4,2,,,
+62752261,2025-11-02 13:30,Monastir,ASD Flaminia Civita Castellana,2,2,,,
+62752265,2025-11-02 13:30,ASD Nocerina 1910,ASD Cassino Calcio 1924,2,0,,,
+62752355,2025-12-07 13:30,Monastir,SSD Albalonga,2,1,,,
+62752357,2025-12-07 13:30,Sarrabus Ogliastra,Real Monterotondo Scalo,1,0,,,
+62752361,2025-12-07 13:30,ASD Trastevere Calcio,Olbia Calcio,2,2,,,
+62752365,2025-12-14 13:30,SSD Albalonga,ASD Trastevere Calcio,2,2,,,
+62752367,2025-12-14 13:30,ASD Anzio Calcio 1924,Olbia Calcio,2,0,,,
+62752369,2025-12-14 13:30,Budoni Calcio,ASD Flaminia Civita Castellana,0,0,2.250,3.400,2.625
+62752371,2025-12-14 13:30,ASD Cassino Calcio 1924,Sassari Calcio Latte Dolce,2,0,,,
+62752373,2025-12-14 13:30,Montespaccato Calcio,SSD Ischia Calcio,2,0,2.500,3.300,2.400
+62752375,2025-12-14 13:30,ASD Nocerina 1910,Monastir,2,2,1.500,3.750,5.250
+62752377,2025-12-14 13:30,Real Monterotondo Scalo,Atletico Lodigiani,1,1,2.250,3.200,2.800
+62752379,2025-12-14 13:30,Sarrabus Ogliastra,Valmontone,0,1,,,
+62752381,2025-12-14 13:30,US Palmese 1914,Scafatese Calcio 1922,1,1,,,
+62752383,2025-12-21 13:30,Atletico Lodigiani,ASD Cassino Calcio 1924,2,2,,,
+62752385,2025-12-21 13:30,ASD Flaminia Civita Castellana,Montespaccato Calcio,3,1,1.571,3.750,4.750
+62752387,2025-12-21 13:30,SSD Ischia Calcio,ASD Nocerina 1910,2,1,,,
+62752389,2025-12-21 13:30,Sassari Calcio Latte Dolce,Budoni Calcio,4,1,,,
+62752391,2025-12-21 13:30,Monastir,US Palmese 1914,1,2,2.050,3.100,3.300
+62752393,2025-12-21 13:30,Olbia Calcio,Sarrabus Ogliastra,0,1,,,
+62752395,2025-12-21 13:30,Scafatese Calcio 1922,SSD Albalonga,3,0,,,
+62752397,2025-12-21 13:30,ASD Trastevere Calcio,ASD Anzio Calcio 1924,3,3,1.700,3.600,4.100
+62752399,2025-12-21 13:30,Valmontone,Real Monterotondo Scalo,2,1,,,
+62752401,2026-01-04 13:30,ASD Anzio Calcio 1924,US Palmese 1914,0,0,2.300,3.250,2.700
+62752403,2026-01-04 13:30,Atletico Lodigiani,Valmontone,2,1,,,
+62752405,2026-01-04 13:30,ASD Flaminia Civita Castellana,Real Monterotondo Scalo,1,1,1.666,3.500,4.333
+62752407,2026-01-04 13:30,SSD Ischia Calcio,ASD Cassino Calcio 1924,1,1,,,
+62752409,2026-01-04 13:30,Sassari Calcio Latte Dolce,Sarrabus Ogliastra,1,0,,,
+62752411,2026-01-04 13:30,Monastir,Budoni Calcio,1,0,,,
+62752413,2026-01-04 13:30,Olbia Calcio,SSD Albalonga,1,4,,,
+62752415,2026-01-04 13:30,Scafatese Calcio 1922,Montespaccato Calcio,2,0,1.400,4.500,5.750
+62752417,2026-01-04 13:30,ASD Trastevere Calcio,ASD Nocerina 1910,4,1,2.000,3.250,3.300
+62752419,2026-01-11 13:30,SSD Albalonga,ASD Anzio Calcio 1924,1,3,,,
+62752421,2026-01-11 13:30,Budoni Calcio,SSD Ischia Calcio,0,0,,,
+62752423,2026-01-11 13:30,ASD Cassino Calcio 1924,ASD Flaminia Civita Castellana,0,3,,,
+62752425,2026-01-11 13:30,Montespaccato Calcio,Monastir,2,2,,,
+62752427,2026-01-11 13:30,ASD Nocerina 1910,Scafatese Calcio 1922,0,2,,,
+62752429,2026-01-11 13:30,Real Monterotondo Scalo,Sassari Calcio Latte Dolce,5,1,,,
+62752431,2026-01-11 13:30,Sarrabus Ogliastra,Atletico Lodigiani,1,3,,,
+62752433,2026-01-11 13:30,US Palmese 1914,ASD Trastevere Calcio,5,0,,,
+62752435,2026-01-11 13:30,Valmontone,Olbia Calcio,1,1,1.500,3.800,5.250
+62752437,2026-01-18 13:30,SSD Albalonga,ASD Nocerina 1910,0,1,,,
+62752439,2026-01-18 13:30,ASD Anzio Calcio 1924,Montespaccato Calcio,0,1,,,
+62752441,2026-01-18 13:30,ASD Flaminia Civita Castellana,Valmontone,0,2,,,
+62752443,2026-01-18 13:30,SSD Ischia Calcio,Sarrabus Ogliastra,0,3,,,
+62752445,2026-01-18 13:30,Sassari Calcio Latte Dolce,Atletico Lodigiani,1,2,2.150,3.400,2.875
+62752447,2026-01-18 13:30,Monastir,Real Monterotondo Scalo,2,0,2.050,3.300,3.100
+62752449,2026-01-18 13:30,Olbia Calcio,US Palmese 1914,0,0,,,
+62752451,2026-01-18 13:30,Scafatese Calcio 1922,ASD Cassino Calcio 1924,3,0,1.222,5.000,11.000
+62752453,2026-01-18 13:30,ASD Trastevere Calcio,Budoni Calcio,1,0,,,
+62752455,2026-01-25 13:30,Atletico Lodigiani,Olbia Calcio,2,0,1.666,3.600,4.100
+62752457,2026-01-25 13:30,Budoni Calcio,Scafatese Calcio 1922,0,1,,,
+62752459,2026-01-25 13:30,ASD Cassino Calcio 1924,Monastir,1,0,2.625,3.300,2.300
+62752461,2026-01-25 13:30,Montespaccato Calcio,ASD Trastevere Calcio,1,2,,,
+62752463,2026-01-25 13:30,ASD Nocerina 1910,ASD Anzio Calcio 1924,0,0,,,
+62752465,2026-01-25 13:30,Real Monterotondo Scalo,SSD Ischia Calcio,3,2,,,
+62752467,2026-01-25 13:30,Sarrabus Ogliastra,ASD Flaminia Civita Castellana,0,2,2.200,3.500,2.700
+62752469,2026-01-25 13:30,US Palmese 1914,SSD Albalonga,1,0,,,
+62752471,2026-01-25 13:30,Valmontone,Sassari Calcio Latte Dolce,1,2,,,
+62752473,2026-02-01 13:30,SSD Albalonga,Budoni Calcio,3,0,,,
+62752475,2026-02-01 13:30,ASD Anzio Calcio 1924,ASD Cassino Calcio 1924,2,1,,,
+62752477,2026-02-01 13:30,ASD Flaminia Civita Castellana,Sassari Calcio Latte Dolce,2,0,,,
+62752479,2026-02-01 13:30,SSD Ischia Calcio,Atletico Lodigiani,2,2,,,
+62752483,2026-02-01 13:30,Olbia Calcio,ASD Nocerina 1910,2,3,,,
+62752485,2026-02-01 13:30,Scafatese Calcio 1922,Sarrabus Ogliastra,3,0,,,
+62752487,2026-02-01 13:30,ASD Trastevere Calcio,Real Monterotondo Scalo,3,0,1.900,3.300,3.600
+62752489,2026-02-01 13:30,US Palmese 1914,Montespaccato Calcio,3,3,,,
+62752491,2026-02-08 13:30,Atletico Lodigiani,ASD Flaminia Civita Castellana,0,2,,,
+62752493,2026-02-08 13:30,Budoni Calcio,ASD Anzio Calcio 1924,0,1,,,
+62752495,2026-02-08 13:30,ASD Cassino Calcio 1924,ASD Trastevere Calcio,1,3,,,
+62752497,2026-02-08 13:30,Sassari Calcio Latte Dolce,Olbia Calcio,1,1,2.100,3.400,3.000
+62752499,2026-02-08 13:30,Montespaccato Calcio,SSD Albalonga,1,1,,,
+62752501,2026-02-08 13:30,ASD Nocerina 1910,US Palmese 1914,1,2,,,
+62752503,2026-02-08 13:30,Real Monterotondo Scalo,Scafatese Calcio 1922,0,1,,,
+62752505,2026-02-08 13:30,Sarrabus Ogliastra,Monastir,1,3,2.350,3.500,2.500
+62752507,2026-02-08 13:30,Valmontone,SSD Ischia Calcio,1,2,,,
+62752509,2026-02-15 13:30,SSD Albalonga,Real Monterotondo Scalo,5,3,,,
+62752511,2026-02-15 13:30,ASD Anzio Calcio 1924,Sarrabus Ogliastra,0,2,,,
+62752515,2026-02-15 13:30,Monastir,Sassari Calcio Latte Dolce,3,2,1.800,3.500,3.750
+62752517,2026-02-15 13:30,ASD Nocerina 1910,Budoni Calcio,1,1,,,
+62752519,2026-02-15 13:30,Olbia Calcio,Montespaccato Calcio,0,1,,,
+62752521,2026-02-15 13:30,Scafatese Calcio 1922,Atletico Lodigiani,3,2,1.550,3.500,5.500
+62752523,2026-02-15 13:30,ASD Trastevere Calcio,Valmontone,5,0,1.800,3.300,3.800
+62752525,2026-02-15 13:30,US Palmese 1914,ASD Cassino Calcio 1924,0,1,,,
+62752527,2026-02-22 13:30,Atletico Lodigiani,Monastir,2,0,2.600,3.000,2.500
+62752529,2026-02-22 13:30,Budoni Calcio,US Palmese 1914,0,0,2.750,2.700,2.350
+62752531,2026-02-22 13:30,ASD Cassino Calcio 1924,SSD Albalonga,0,2,,,
+62752533,2026-02-22 13:30,ASD Flaminia Civita Castellana,Olbia Calcio,1,1,,,
+62752535,2026-02-22 13:30,Sassari Calcio Latte Dolce,SSD Ischia Calcio,1,3,,,
+62752537,2026-02-22 13:30,Montespaccato Calcio,ASD Nocerina 1910,0,0,,,
+62752539,2026-02-22 13:30,Real Monterotondo Scalo,ASD Anzio Calcio 1924,1,1,,,
+62752541,2026-02-22 13:30,Sarrabus Ogliastra,ASD Trastevere Calcio,3,1,,,
+62752543,2026-02-22 13:30,Valmontone,Scafatese Calcio 1922,0,2,,,
+62752545,2026-03-01 13:30,SSD Albalonga,Valmontone,2,0,,,
+62752547,2026-03-01 13:30,ASD Anzio Calcio 1924,Atletico Lodigiani,1,1,,,
+62752549,2026-03-01 13:30,Monastir,SSD Ischia Calcio,0,1,,,
+62752551,2026-03-01 13:30,Montespaccato Calcio,ASD Cassino Calcio 1924,1,1,,,
+62752553,2026-03-01 13:30,ASD Nocerina 1910,Real Monterotondo Scalo,0,1,,,
+62752555,2026-03-01 13:30,Olbia Calcio,Budoni Calcio,1,0,,,
+62752557,2026-03-01 13:30,Scafatese Calcio 1922,ASD Flaminia Civita Castellana,2,1,,,
+62752559,2026-03-01 13:30,ASD Trastevere Calcio,Sassari Calcio Latte Dolce,0,2,,,
+62752561,2026-03-01 13:30,US Palmese 1914,Sarrabus Ogliastra,0,0,,,
+62752571,2026-03-15 10:00,SSD Ischia Calcio,Olbia Calcio,0,0,,,
+62752563,2026-03-15 13:30,Atletico Lodigiani,ASD Trastevere Calcio,1,2,,,
+62752565,2026-03-15 13:30,Budoni Calcio,Montespaccato Calcio,0,0,,,
+62752567,2026-03-15 13:30,ASD Cassino Calcio 1924,ASD Nocerina 1910,0,0,,,
+62752569,2026-03-15 13:30,ASD Flaminia Civita Castellana,Monastir,0,0,,,
+62752573,2026-03-15 13:30,Sassari Calcio Latte Dolce,Scafatese Calcio 1922,0,0,,,
+62752575,2026-03-15 13:30,Real Monterotondo Scalo,US Palmese 1914,0,0,,,
+62752577,2026-03-15 13:30,Sarrabus Ogliastra,SSD Albalonga,0,0,,,
+62752579,2026-03-15 14:15,Valmontone,ASD Anzio Calcio 1924,0,0,,,
+62752581,2026-03-22 13:30,SSD Albalonga,Sassari Calcio Latte Dolce,3,1,,,
+62752585,2026-03-22 13:30,Budoni Calcio,Real Monterotondo Scalo,0,0,,,
+62752591,2026-03-22 13:30,Olbia Calcio,ASD Cassino Calcio 1924,0,0,1.727,3.400,4.100
+62752593,2026-03-22 13:30,Scafatese Calcio 1922,Monastir,0,0,,,
+62752595,2026-03-22 13:30,ASD Trastevere Calcio,SSD Ischia Calcio,0,0,1.850,3.400,3.600
+62752597,2026-03-22 13:30,US Palmese 1914,Atletico Lodigiani,0,0,,,
+62752583,2026-03-22 14:00,ASD Anzio Calcio 1924,ASD Flaminia Civita Castellana,0,0,,,
+62752587,2026-03-22 14:00,Montespaccato Calcio,Sarrabus Ogliastra,0,0,,,
+62752589,2026-03-22 14:00,ASD Nocerina 1910,Valmontone,0,0,,,
+62752607,2026-03-28 13:30,Sassari Calcio Latte Dolce,ASD Anzio Calcio 1924,0,0,,,
+62752599,2026-03-28 14:00,Atletico Lodigiani,SSD Albalonga,0,0,,,
+62752613,2026-03-29 12:00,Sarrabus Ogliastra,ASD Nocerina 1910,0,0,,,
+62752605,2026-03-29 12:30,SSD Ischia Calcio,Scafatese Calcio 1922,0,0,,,
+62752601,2026-03-29 13:00,ASD Cassino Calcio 1924,Budoni Calcio,0,0,,,
+62752603,2026-03-29 13:00,ASD Flaminia Civita Castellana,ASD Trastevere Calcio,2,1,2.250,3.200,2.800
+62752609,2026-03-29 13:00,Monastir,Olbia Calcio,1,0,1.850,3.200,3.750
+62752611,2026-03-29 13:00,Real Monterotondo Scalo,Montespaccato Calcio,0,0,,,
+62752615,2026-03-29 13:30,Valmontone,US Palmese 1914,0,0,2.500,3.200,2.500
+62752627,2026-04-02 12:00,ASD Nocerina 1910,Sassari Calcio Latte Dolce,0,0,,,
+62752619,2026-04-02 12:30,ASD Anzio Calcio 1924,Monastir,0,0,2.700,3.400,2.250
+62752623,2026-04-02 12:30,ASD Cassino Calcio 1924,Sarrabus Ogliastra,0,0,,,
+62752617,2026-04-02 13:00,SSD Albalonga,SSD Ischia Calcio,0,0,,,
+62752621,2026-04-02 13:00,Budoni Calcio,Valmontone,0,0,,,
+62752625,2026-04-02 13:00,Montespaccato Calcio,Atletico Lodigiani,0,0,,,
+62752629,2026-04-02 13:00,Olbia Calcio,Real Monterotondo Scalo,0,0,2.100,3.200,3.100
+62752631,2026-04-02 13:00,ASD Trastevere Calcio,Scafatese Calcio 1922,3,2,3.500,3.300,1.900
+62752633,2026-04-02 13:00,US Palmese 1914,ASD Flaminia Civita Castellana,0,0,,,
+62752639,2026-04-12 12:30,SSD Ischia Calcio,ASD Anzio Calcio 1924,0,0,,,
+62752649,2026-04-12 12:30,Scafatese Calcio 1922,Olbia Calcio,0,0,1.380,4.333,6.250
+62752635,2026-04-12 13:00,Atletico Lodigiani,ASD Nocerina 1910,0,0,2.200,3.250,2.875
+62752637,2026-04-12 13:00,ASD Flaminia Civita Castellana,SSD Albalonga,0,0,,,
+62752641,2026-04-12 13:00,Sassari Calcio Latte Dolce,US Palmese 1914,0,0,2.500,3.200,2.550
+62752643,2026-04-12 13:00,Monastir,ASD Trastevere Calcio,2,2,2.150,3.500,2.800
+62752645,2026-04-12 13:00,Real Monterotondo Scalo,ASD Cassino Calcio 1924,0,0,1.800,3.500,3.750
+62752647,2026-04-12 13:00,Sarrabus Ogliastra,Budoni Calcio,0,0,,,
+62752651,2026-04-12 13:00,Valmontone,Montespaccato Calcio,0,0,1.850,3.300,3.750
+62752653,2026-04-18 13:00,SSD Albalonga,Monastir,1,1,,,
+62752667,2026-04-19 12:30,Real Monterotondo Scalo,Sarrabus Ogliastra,2,1,2.450,3.300,2.450
+62752655,2026-04-19 13:00,ASD Anzio Calcio 1924,Scafatese Calcio 1922,0,0,,,
+62752657,2026-04-19 13:00,Budoni Calcio,Atletico Lodigiani,0,0,,,
+62752659,2026-04-19 13:00,ASD Cassino Calcio 1924,Valmontone,0,0,,,
+62752663,2026-04-19 13:00,ASD Nocerina 1910,ASD Flaminia Civita Castellana,1,1,2.000,3.300,3.100
+62752665,2026-04-19 13:00,Olbia Calcio,ASD Trastevere Calcio,0,0,,,
+62752669,2026-04-19 13:00,US Palmese 1914,SSD Ischia Calcio,0,0,,,
+62752661,2026-04-19 14:30,Montespaccato Calcio,Sassari Calcio Latte Dolce,2,3,2.450,3.400,2.400
+62752679,2026-04-26 12:00,Monastir,ASD Nocerina 1910,1,0,2.350,3.100,2.700
+62752671,2026-04-26 13:00,Atletico Lodigiani,Real Monterotondo Scalo,0,0,,,
+62752673,2026-04-26 13:00,ASD Flaminia Civita Castellana,Budoni Calcio,0,0,,,
+62752675,2026-04-26 13:00,SSD Ischia Calcio,Montespaccato Calcio,0,0,,,
+62752677,2026-04-26 13:00,Sassari Calcio Latte Dolce,ASD Cassino Calcio 1924,0,0,,,
+62752681,2026-04-26 13:00,Olbia Calcio,ASD Anzio Calcio 1924,0,0,,,
+62752683,2026-04-26 13:00,Scafatese Calcio 1922,US Palmese 1914,0,0,,,
+62752687,2026-04-26 13:00,Valmontone,Sarrabus Ogliastra,0,0,,,
+62752685,2026-04-26 15:30,ASD Trastevere Calcio,SSD Albalonga,3,0,,,
+62752705,2026-05-02 12:30,US Palmese 1914,Monastir,0,2,,,
+62752689,2026-05-03 13:00,SSD Albalonga,Scafatese Calcio 1922,0,0,,,
+62752691,2026-05-03 13:00,ASD Anzio Calcio 1924,ASD Trastevere Calcio,0,0,,,
+62752693,2026-05-03 13:00,Budoni Calcio,Sassari Calcio Latte Dolce,0,0,,,
+62752695,2026-05-03 13:00,ASD Cassino Calcio 1924,Atletico Lodigiani,0,0,,,
+62752697,2026-05-03 13:00,Montespaccato Calcio,ASD Flaminia Civita Castellana,2,4,,,
+62752699,2026-05-03 13:00,ASD Nocerina 1910,SSD Ischia Calcio,0,1,2.050,3.000,3.300
+62752701,2026-05-03 13:00,Real Monterotondo Scalo,Valmontone,0,0,,,
+62752703,2026-05-03 13:00,Sarrabus Ogliastra,Olbia Calcio,2,2,,,
+71320438,2026-05-10 13:00,Monastir,ASD Flaminia Civita Castellana,3,3,2.150,3.100,3.100
+71320368,2026-05-10 14:00,ASD Trastevere Calcio,SSD Albalonga,2,0,,,
+71322474,2026-05-10 14:00,SSD Ischia Calcio,Olbia Calcio,2,1,,,
+71322476,2026-05-10 14:00,ASD Anzio Calcio 1924,Real Monterotondo Scalo,2,1,,,
+71467822,2026-05-16 14:00,ASD Trastevere Calcio,Monastir,0,1,,,
+73631114,2026-09-05 15:00,Polisportiva Ossese,Sassari Calcio Latte Dolce,3,0,2.700,3.000,2.450
+73631102,2026-09-06 13:00,Asd Aranova,ASD Anzio Calcio 1924,0,0,,,
+73631112,2026-09-06 13:00,Paganese Calcio,Unipomezia 1938,2,1,,,
+73631116,2026-09-06 13:00,ASD Sarnese 1926,Budoni Calcio,2,1,,,
+73631118,2026-09-06 13:00,US Venafro,ASD Trastevere Calcio,0,1,,,
+73631110,2026-09-06 14:00,ASD Gelbison,AC Afragolese,0,0,,,
+73631104,2026-09-06 14:30,Atletico Lodigiani,SSD Albalonga,2,3,2.250,3.000,2.900
+73631106,2026-09-06 15:00,Sarrabus Ogliastra,Monastir,1,2,,,
+73631128,2026-09-12 13:00,Monastir,Atletico Lodigiani,5,1,1.650,3.400,4.500
+73631120,2026-09-12 14:00,AC Afragolese,ASD Sarnese 1926,1,1,2.350,3.100,2.700
+73864318,2026-09-12 14:00,Certosa Vigor Campagnano,Polisportiva Ossese,0,0,,,
+73631122,2026-09-12 14:30,SSD Albalonga,Citta Di Anagni,3,1,1.571,3.600,5.250
+73631124,2026-09-13 12:30,ASD Anzio Calcio 1924,Sarrabus Ogliastra,0,1,,,
+73631134,2026-09-13 13:00,ASD Trastevere Calcio,ASD Gelbison,2,1,2.600,3.200,2.375
+73631136,2026-09-13 13:00,Unipomezia 1938,US Venafro,1,1,,,
+73631148,2026-09-16 10:00,ASD Gelbison,Budoni Calcio,2,1,1.600,3.500,5.000
+73631138,2026-09-16 13:00,ASD Anzio Calcio 1924,Monastir,3,1,4.000,3.800,1.650
+73631140,2026-09-16 13:00,Asd Aranova,SSD Albalonga,1,0,,,
+73631144,2026-09-16 13:00,Sarrabus Ogliastra,Certosa Vigor Campagnano,0,2,,,
+73631146,2026-09-16 13:00,Citta Di Anagni,Unipomezia 1938,0,2,3.200,3.500,1.950
+73631154,2026-09-16 13:00,US Venafro,ASD Sarnese 1926,0,1,,,
+73864320,2026-09-16 13:00,Sarrabus Ogliastra,Certosa Vigor Campagnano,0,2,2.375,3.200,2.625
+73631142,2026-09-16 14:00,Atletico Lodigiani,Sassari Calcio Latte Dolce,2,2,1.900,3.600,3.200
+73631152,2026-09-16 14:00,Polisportiva Ossese,ASD Trastevere Calcio,1,1,2.375,3.200,2.600
+73631150,2026-09-16 18:30,Paganese Calcio,AC Afragolese,0,0,1.480,4.100,5.000
+73631158,2026-09-20 12:30,SSD Albalonga,Sarrabus Ogliastra,1,1,,,
+73631156,2026-09-20 13:00,AC Afragolese,US Venafro,4,0,1.666,3.300,4.750
+73631160,2026-09-20 13:00,Certosa Vigor Campagnano,Atletico Lodigiani,1,0,1.550,3.800,4.750
+73631162,2026-09-20 13:00,Monastir,Asd Aranova,2,1,1.833,3.300,3.800
+73631164,2026-09-20 13:00,Budoni Calcio,ASD Anzio Calcio 1924,2,0,,,
+73631168,2026-09-20 13:00,Sassari Calcio Latte Dolce,Citta Di Anagni,1,2,1.833,3.500,3.750
+73631170,2026-09-20 13:00,ASD Trastevere Calcio,Paganese Calcio,1,5,2.600,3.200,2.375
+73631172,2026-09-20 13:00,Unipomezia 1938,Polisportiva Ossese,2,0,,,
+73864322,2026-09-20 13:00,Certosa Vigor Campagnano,Atletico Lodigiani,1,0,,,
+73631166,2026-09-20 14:00,ASD Sarnese 1926,ASD Gelbison,3,1,2.200,3.200,2.900
+73631176,2026-09-27 12:00,Asd Aranova,Sassari Calcio Latte Dolce,1,1,,,
+73631190,2026-09-27 12:30,US Venafro,Budoni Calcio,2,3,3.000,3.200,2.100
+73631178,2026-09-27 13:00,Atletico Lodigiani,ASD Trastevere Calcio,2,3,2.700,3.250,2.250
+73631180,2026-09-27 13:00,Sarrabus Ogliastra,Unipomezia 1938,0,0,,,
+73631182,2026-09-27 13:00,Citta Di Anagni,AC Afragolese,4,0,,,
+73631186,2026-09-27 13:00,Paganese Calcio,ASD Gelbison,2,3,1.750,3.400,4.000
+73631188,2026-09-27 13:00,Polisportiva Ossese,ASD Sarnese 1926,2,2,3.000,3.200,2.100
+73864326,2026-09-27 13:00,ASD Anzio Calcio 1924,Certosa Vigor Campagnano,2,1,,,
+73631184,2026-09-27 13:30,Monastir,SSD Albalonga,2,2,2.050,3.300,3.100
+73631192,2026-10-04 12:00,AC Afragolese,Polisportiva Ossese,0,2,1.700,3.400,4.333
+73631198,2026-10-04 13:00,ASD Gelbison,US Venafro,0,1,1.333,4.333,8.000
+73631204,2026-10-04 13:00,Sassari Calcio Latte Dolce,Sarrabus Ogliastra,1,0,2.300,3.250,2.700
+73631206,2026-10-04 13:00,ASD Trastevere Calcio,Citta Di Anagni,0,0,1.900,3.500,3.300
+73631208,2026-10-04 13:00,Unipomezia 1938,Atletico Lodigiani,3,1,,,
+73864328,2026-10-04 13:00,Certosa Vigor Campagnano,Asd Aranova,2,1,,,
+73631194,2026-10-04 13:30,SSD Albalonga,ASD Anzio Calcio 1924,0,2,,,
+73631202,2026-10-04 13:30,ASD Sarnese 1926,Paganese Calcio,2,1,2.200,3.250,2.875
+73631200,2026-10-04 14:00,Budoni Calcio,Monastir,1,5,,,
+73631212,2026-10-11 13:00,ASD Anzio Calcio 1924,Unipomezia 1938,0,0,,,
+73631214,2026-10-11 13:00,Asd Aranova,ASD Trastevere Calcio,2,0,2.500,3.250,2.450
+73631216,2026-10-11 13:00,Atletico Lodigiani,ASD Sarnese 1926,0,1,5.250,3.900,1.500
+73631218,2026-10-11 13:00,Sarrabus Ogliastra,AC Afragolese,0,0,,,
+73631220,2026-10-11 13:00,Citta Di Anagni,ASD Gelbison,3,1,2.550,3.500,2.300
+73631222,2026-10-11 13:00,Monastir,Sassari Calcio Latte Dolce,2,1,1.615,3.600,4.500
+73631224,2026-10-11 13:00,Paganese Calcio,Budoni Calcio,3,0,1.500,3.700,5.500
+73631226,2026-10-11 13:00,Polisportiva Ossese,US Venafro,1,1,1.480,3.750,5.750
+73864330,2026-10-11 13:00,SSD Albalonga,Certosa Vigor Campagnano,0,0,,,
+73631228,2026-10-17 13:00,AC Afragolese,Atletico Lodigiani,4,0,,,
+73631240,2026-10-18 12:30,ASD Trastevere Calcio,Sarrabus Ogliastra,3,2,2.000,3.250,3.250
+73631232,2026-10-18 13:00,ASD Gelbison,Polisportiva Ossese,2,1,,,
+73631234,2026-10-18 13:00,Budoni Calcio,SSD Albalonga,2,4,,,
+73631236,2026-10-18 13:00,ASD Sarnese 1926,Citta Di Anagni,1,0,1.480,3.750,5.500
+73631238,2026-10-18 13:00,Sassari Calcio Latte Dolce,ASD Anzio Calcio 1924,1,1,2.400,3.200,2.625
+73631242,2026-10-18 13:00,Unipomezia 1938,Asd Aranova,3,4,,,
+73631244,2026-10-18 13:00,US Venafro,Paganese Calcio,1,0,,,
+73864332,2026-10-18 13:00,Certosa Vigor Campagnano,Monastir,3,2,,,
+73631260,2026-10-24 13:00,Monastir,ASD Trastevere Calcio,2,2,1.750,3.500,3.800
+73631248,2026-10-25 13:30,ASD Anzio Calcio 1924,AC Afragolese,0,0,,,
+73631250,2026-10-25 13:30,Asd Aranova,ASD Sarnese 1926,2,1,,,
+73631252,2026-10-25 13:30,Atletico Lodigiani,US Venafro,1,1,,,
+73631254,2026-10-25 13:30,Sarrabus Ogliastra,ASD Gelbison,3,0,,,
+73631258,2026-10-25 13:30,Citta Di Anagni,Paganese Calcio,2,1,,,
+73864334,2026-10-25 13:30,Certosa Vigor Campagnano,Sassari Calcio Latte Dolce,1,1,,,
+73631246,2026-10-25 14:00,SSD Albalonga,Unipomezia 1938,1,1,,,
+73631262,2026-10-25 14:30,Polisportiva Ossese,Budoni Calcio,2,2,1.666,3.600,4.200
+73631264,2026-10-31 13:30,AC Afragolese,Asd Aranova,4,1,2.100,3.200,3.100
+73631268,2026-11-01 13:00,Paganese Calcio,Polisportiva Ossese,1,1,,,
+73631272,2026-11-01 13:00,ASD Sarnese 1926,Sarrabus Ogliastra,2,0,,,
+73631266,2026-11-01 13:30,ASD Gelbison,Atletico Lodigiani,1,1,,,
+73631276,2026-11-01 13:30,ASD Trastevere Calcio,ASD Anzio Calcio 1924,0,1,,,
+73631278,2026-11-01 13:30,Unipomezia 1938,Monastir,4,2,,,
+73631280,2026-11-01 13:30,US Venafro,Citta Di Anagni,1,1,,,
+73864336,2026-11-01 13:30,Budoni Calcio,Certosa Vigor Campagnano,3,1,,,
+73631274,2026-11-01 14:00,Sassari Calcio Latte Dolce,SSD Albalonga,0,2,4.100,3.250,1.800
+73631290,2026-11-08 13:00,Sarrabus Ogliastra,Paganese Calcio,2,0,,,
+73631282,2026-11-08 13:30,SSD Albalonga,AC Afragolese,0,0,,,
+73631284,2026-11-08 13:30,ASD Anzio Calcio 1924,ASD Gelbison,2,0,,,
+73631286,2026-11-08 13:30,Asd Aranova,US Venafro,0,1,,,
+73631294,2026-11-08 13:30,Citta Di Anagni,Budoni Calcio,1,2,,,
+73631296,2026-11-08 13:30,Monastir,ASD Sarnese 1926,2,5,2.500,3.200,2.550
+73631298,2026-11-08 13:30,Sassari Calcio Latte Dolce,Unipomezia 1938,3,1,3.100,3.200,2.050
+73864338,2026-11-08 13:30,Certosa Vigor Campagnano,ASD Trastevere Calcio,1,3,1.450,3.900,5.750
+73631288,2026-11-08 14:00,Atletico Lodigiani,Polisportiva Ossese,3,0,3.600,3.400,1.833

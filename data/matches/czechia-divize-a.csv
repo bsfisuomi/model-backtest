@@ -1,0 +1,267 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+56008691,2025-05-23 17:00,TJ Hluboka Nad Vlatvou,FK Kraluv Dvur,1,5,,,
+56008689,2025-05-24 15:00,FK Spartak Sobeslav,FK Komarov,3,5,,,
+56008701,2025-05-30 16:00,TJ Prestice,SK Slavia Vejprnice,4,1,,,
+56008707,2025-05-31 08:30,FK Kraluv Dvur,FK Spartak Sobeslav,4,0,,,
+56008709,2025-05-31 08:30,FK Komarov,SK Petrin Plzen B,6,2,,,
+56008705,2025-05-31 15:00,FC Rokycany,TJ Hluboka Nad Vlatvou,1,0,,,
+56008725,2025-06-06 16:00,TJ Hluboka Nad Vlatvou,FK Slavoj Cesky Krumlov,1,3,,,
+56008715,2025-06-07 08:15,SK Aritma Prague,FK Pribram B,3,1,,,
+61101765,2025-06-10 16:00,FK Jindrichuv Hradec 1910,TJ Prestice,3,0,,,
+56008739,2025-06-14 08:15,FC Rokycany,SK Petrin Plzen B,1,1,,,
+56008741,2025-06-14 08:30,FK Kraluv Dvur,Tj Jiskra Domazlice II,8,1,,,
+62046756,2025-08-09 08:30,FK Komarov,SK Senco Doubravka,2,1,,,
+62046760,2025-08-09 15:00,SK Horovice,TJ Hluboka Nad Vlatvou,2,1,,,
+62046770,2025-08-15 16:30,TJ Hluboka Nad Vlatvou,SK Petrin Plzen B,3,0,,,
+62046762,2025-08-16 08:15,FK Krimice,FK Komarov,1,2,,,
+62046766,2025-08-16 15:00,FK Spartak Sobeslav,FK Slavoj Cesky Krumlov,2,4,,,
+62046772,2025-08-16 15:00,SK Senco Doubravka,FC Rokycany,1,3,,,
+62046774,2025-08-17 08:30,Tj Jiskra Domazlice II,SK Horovice,2,1,,,
+62046786,2025-08-22 16:00,TJ Prestice,FK Tachov,0,0,,,
+62046780,2025-08-23 08:15,FK Slavoj Cesky Krumlov,ZVVZ Milevsko,0,2,,,
+62046790,2025-08-23 15:30,SK Petrin Plzen B,Tj Jiskra Domazlice II,3,3,,,
+62046796,2025-08-29 16:00,TJ Prestice,FK Komarov,3,1,,,
+62046810,2025-09-06 08:15,FA Povltavska,Tj Ligmet Milin,1,1,,,
+62046812,2025-09-06 08:15,FK Slavoj Cesky Krumlov,FK Krimice,1,3,,,
+62046816,2025-09-06 08:30,FK Komarov,FK Tachov,3,0,,,
+62046824,2025-09-07 15:00,TJ Hluboka Nad Vlatvou,Tj Jiskra Domazlice II,2,2,,,
+62046826,2025-09-13 08:15,FK Krimice,SK Horovice,3,1,,,
+62046828,2025-09-13 08:15,TJ Prestice,FA Povltavska,1,4,,,
+62046836,2025-09-13 15:00,FK Spartak Sobeslav,TJ Hluboka Nad Vlatvou,2,2,,,
+62046848,2025-09-20 08:15,SK Benesov,SK Senco Doubravka,3,0,,,
+62046888,2025-10-05 14:00,TJ Hluboka Nad Vlatvou,FK Krimice,1,3,,,
+62046892,2025-10-11 08:15,TJ Prestice,SK Benesov,1,3,,,
+62046920,2025-10-17 16:30,TJ Hluboka Nad Vlatvou,TJ Prestice,2,0,,,
+62046908,2025-10-18 08:15,SK Benesov,FK Komarov,5,0,,,
+62046930,2025-10-25 08:30,FK Komarov,TJ Hluboka Nad Vlatvou,1,1,,,
+62046952,2025-11-02 13:00,TJ Hluboka Nad Vlatvou,FC Rokycany,1,2,,,
+62046954,2025-11-08 09:15,FA Povltavska,TJ Hluboka Nad Vlatvou,3,1,,,
+62046956,2025-11-08 09:15,TJ Prestice,ZVVZ Milevsko,0,0,,,
+62046958,2025-11-08 09:30,FK Komarov,FK Spartak Sobeslav,2,1,,,
+62046960,2025-11-08 09:30,Tj Ligmet Milin,SK Senco Doubravka,2,2,,,
+62046964,2025-11-08 13:00,FC Rokycany,Tj Jiskra Domazlice II,1,1,,,
+62046968,2025-11-08 13:00,SK Horovice,SK Petrin Plzen B,1,0,,,
+62046984,2025-11-14 16:00,TJ Hluboka Nad Vlatvou,FK Slavoj Cesky Krumlov,5,1,,,
+62046970,2025-11-15 09:15,SK Benesov,SK Horovice,2,0,,,
+62046974,2025-11-15 12:30,FK Spartak Sobeslav,FC Rokycany,1,0,,,
+62046978,2025-11-15 12:30,SK Petrin Plzen B,FK Tachov,1,0,,,
+62046980,2025-11-16 12:30,Tj Jiskra Domazlice II,FA Povltavska,1,4,,,
+62046982,2025-11-16 12:30,ZVVZ Milevsko,FK Komarov,1,1,,,
+66605440,2026-03-06 18:00,TJ Hluboka Nad Vlatvou,SK Horovice,3,2,1.615,4.000,4.000
+66605442,2026-03-07 09:30,SK Benesov,SK Petrin Plzen B,4,0,,,
+66605416,2026-03-07 13:30,FK Tachov,Tj Ligmet Milin,2,0,,,
+66605432,2026-03-07 13:30,SK Senco Doubravka,FK Komarov,1,2,,,
+66605430,2026-03-07 15:00,FK Krimice,TJ Prestice,3,0,,,
+66605438,2026-03-08 09:30,Tj Jiskra Domazlice II,FK Slavoj Cesky Krumlov,1,3,,,
+66605434,2026-03-08 13:30,ZVVZ Milevsko,FC Rokycany,0,0,,,
+66605436,2026-03-08 14:00,FK Spartak Sobeslav,FA Povltavska,2,0,,,
+66605456,2026-03-13 17:30,SK Petrin Plzen B,TJ Hluboka Nad Vlatvou,1,1,4.750,4.333,1.480
+66605468,2026-03-14 09:15,FA Povltavska,ZVVZ Milevsko,3,0,1.300,5.000,7.000
+66605444,2026-03-14 09:30,FK Komarov,FK Krimice,0,0,,,
+66605452,2026-03-14 09:30,SK Benesov,FK Tachov,4,0,1.045,15.000,29.000
+66605460,2026-03-14 13:30,SK Horovice,Tj Jiskra Domazlice II,0,0,,,
+66605464,2026-03-14 13:30,FK Slavoj Cesky Krumlov,FK Spartak Sobeslav,0,0,,,
+66605470,2026-03-14 13:30,FC Rokycany,SK Senco Doubravka,0,0,,,
+66605448,2026-03-15 10:00,TJ Prestice,Tj Ligmet Milin,0,0,,,
+66605478,2026-03-21 09:30,Tj Ligmet Milin,FK Komarov,0,0,,,
+66605474,2026-03-21 14:00,FK Tachov,TJ Prestice,0,0,,,
+66605486,2026-03-21 14:00,SK Senco Doubravka,FA Povltavska,0,0,,,
+66605494,2026-03-21 14:00,FK Spartak Sobeslav,SK Horovice,0,0,,,
+66605498,2026-03-21 14:00,Tj Jiskra Domazlice II,SK Petrin Plzen B,0,0,,,
+66605490,2026-03-22 14:00,ZVVZ Milevsko,FK Slavoj Cesky Krumlov,0,0,,,
+66605502,2026-03-22 14:00,TJ Hluboka Nad Vlatvou,SK Benesov,0,0,,,
+66605508,2026-03-27 18:00,TJ Hluboka Nad Vlatvou,FK Tachov,2,0,1.250,5.500,8.000
+66605510,2026-03-28 09:15,SK Benesov,Tj Jiskra Domazlice II,8,0,1.125,7.500,13.000
+66605516,2026-03-28 09:15,FK Slavoj Cesky Krumlov,SK Senco Doubravka,0,0,1.900,3.750,3.200
+66605518,2026-03-28 09:15,FA Povltavska,FK Krimice,0,0,2.000,3.700,2.900
+66605504,2026-03-28 09:30,FK Komarov,TJ Prestice,2,3,1.500,4.200,4.750
+66605512,2026-03-28 14:00,SK Petrin Plzen B,FK Spartak Sobeslav,0,0,,,
+66605514,2026-03-28 14:00,SK Horovice,ZVVZ Milevsko,0,0,,,
+66605520,2026-03-28 14:00,FC Rokycany,Tj Ligmet Milin,2,0,1.909,3.700,3.200
+66605528,2026-04-03 08:15,FK Krimice,FK Slavoj Cesky Krumlov,2,0,1.333,5.500,5.750
+66605532,2026-04-03 08:15,ZVVZ Milevsko,SK Petrin Plzen B,4,1,1.500,4.200,4.750
+66605526,2026-04-03 08:30,Tj Ligmet Milin,FA Povltavska,0,3,,,
+66605522,2026-04-03 14:00,FK Tachov,FK Komarov,0,0,,,
+66605530,2026-04-03 14:30,SK Senco Doubravka,SK Horovice,0,0,,,
+66605534,2026-04-03 14:30,FK Spartak Sobeslav,SK Benesov,0,0,,,
+66605524,2026-04-04 08:30,TJ Prestice,FC Rokycany,1,2,2.550,3.600,2.250
+66605536,2026-04-05 08:30,Tj Jiskra Domazlice II,TJ Hluboka Nad Vlatvou,4,2,2.900,4.200,1.900
+66605540,2026-04-10 16:00,TJ Hluboka Nad Vlatvou,FK Spartak Sobeslav,0,0,,,
+66605542,2026-04-11 08:15,SK Benesov,ZVVZ Milevsko,0,0,,,
+66605548,2026-04-11 08:15,FK Slavoj Cesky Krumlov,Tj Ligmet Milin,0,0,,,
+66605550,2026-04-11 08:15,FA Povltavska,TJ Prestice,6,6,1.333,5.000,6.250
+66605544,2026-04-11 14:30,SK Petrin Plzen B,SK Senco Doubravka,0,0,,,
+66605546,2026-04-11 14:30,SK Horovice,FK Krimice,0,0,,,
+66605552,2026-04-11 14:30,FC Rokycany,FK Komarov,0,0,,,
+66605538,2026-04-12 08:30,Tj Jiskra Domazlice II,FK Tachov,2,2,,,
+66605568,2026-04-18 08:00,FK Tachov,FC Rokycany,0,0,,,
+66605560,2026-04-18 08:15,FK Krimice,SK Petrin Plzen B,0,0,,,
+66605554,2026-04-18 08:30,FK Komarov,FA Povltavska,1,3,,,
+66605556,2026-04-18 08:30,TJ Prestice,FK Slavoj Cesky Krumlov,2,4,,,
+66605558,2026-04-18 08:30,Tj Ligmet Milin,SK Horovice,1,3,,,
+66605562,2026-04-18 15:00,SK Senco Doubravka,SK Benesov,0,0,,,
+66605566,2026-04-18 15:00,FK Spartak Sobeslav,Tj Jiskra Domazlice II,0,0,,,
+66605564,2026-04-19 15:00,ZVVZ Milevsko,TJ Hluboka Nad Vlatvou,0,0,,,
+70187246,2026-04-22 15:30,FK Krimice,FC Rokycany,0,1,,,
+66605576,2026-04-25 08:15,SK Benesov,FK Krimice,2,0,1.500,4.000,5.000
+66605582,2026-04-25 08:15,FK Slavoj Cesky Krumlov,FK Komarov,4,2,2.100,3.700,2.750
+66605584,2026-04-25 08:15,FA Povltavska,FC Rokycany,0,0,1.533,4.333,4.500
+66605570,2026-04-25 15:00,FK Spartak Sobeslav,FK Tachov,0,0,,,
+66605578,2026-04-25 15:00,SK Petrin Plzen B,Tj Ligmet Milin,2,1,2.700,3.700,2.100
+66605580,2026-04-25 15:00,SK Horovice,TJ Prestice,0,0,,,
+66605572,2026-04-26 08:30,Tj Jiskra Domazlice II,ZVVZ Milevsko,0,0,,,
+66605574,2026-04-26 15:00,TJ Hluboka Nad Vlatvou,SK Senco Doubravka,5,1,1.750,4.000,3.400
+66605600,2026-05-01 08:30,FC Rokycany,FK Slavoj Cesky Krumlov,1,2,,,
+66605592,2026-05-01 11:00,FK Krimice,TJ Hluboka Nad Vlatvou,1,2,,,
+66605598,2026-05-01 13:00,FK Tachov,FA Povltavska,0,0,,,
+66605588,2026-05-01 14:00,TJ Prestice,SK Petrin Plzen B,4,0,1.750,4.200,3.250
+66605586,2026-05-02 08:30,FK Komarov,SK Horovice,1,1,,,
+66605590,2026-05-02 08:30,Tj Ligmet Milin,SK Benesov,0,0,,,
+66605594,2026-05-02 15:00,SK Senco Doubravka,Tj Jiskra Domazlice II,0,0,,,
+66605596,2026-05-03 15:00,ZVVZ Milevsko,FK Spartak Sobeslav,0,0,,,
+66605606,2026-05-07 15:00,Tj Jiskra Domazlice II,FK Krimice,0,0,,,
+66605608,2026-05-07 17:00,TJ Hluboka Nad Vlatvou,Tj Ligmet Milin,2,1,1.270,5.500,7.000
+66605610,2026-05-08 08:15,SK Benesov,TJ Prestice,5,1,,,
+66605612,2026-05-08 08:15,SK Petrin Plzen B,FK Komarov,0,3,,,
+66605616,2026-05-08 13:00,FK Slavoj Cesky Krumlov,FA Povltavska,0,2,,,
+66605604,2026-05-08 15:00,FK Spartak Sobeslav,SK Senco Doubravka,3,1,,,
+66605614,2026-05-08 15:00,SK Horovice,FC Rokycany,1,0,,,
+66605602,2026-05-09 15:00,ZVVZ Milevsko,FK Tachov,0,0,,,
+66605624,2026-05-16 08:15,FK Krimice,FK Spartak Sobeslav,2,2,,,
+66605630,2026-05-16 08:15,FA Povltavska,SK Horovice,2,4,,,
+66605618,2026-05-16 08:30,FK Komarov,SK Benesov,0,2,,,
+66605620,2026-05-16 08:30,TJ Prestice,TJ Hluboka Nad Vlatvou,0,1,,,
+66605622,2026-05-16 08:30,Tj Ligmet Milin,Tj Jiskra Domazlice II,0,0,,,
+66605626,2026-05-16 15:00,SK Senco Doubravka,ZVVZ Milevsko,0,0,,,
+66605628,2026-05-16 15:00,FK Tachov,FK Slavoj Cesky Krumlov,0,0,,,
+66605632,2026-05-16 15:00,FC Rokycany,SK Petrin Plzen B,0,0,,,
+66605642,2026-05-22 16:30,TJ Hluboka Nad Vlatvou,FK Komarov,6,1,,,
+66605644,2026-05-23 08:15,SK Benesov,FC Rokycany,0,0,,,
+66605634,2026-05-23 15:00,SK Senco Doubravka,FK Tachov,0,0,,,
+66605638,2026-05-23 15:00,FK Spartak Sobeslav,Tj Ligmet Milin,4,2,,,
+66605640,2026-05-23 15:00,Tj Jiskra Domazlice II,TJ Prestice,0,0,,,
+66605648,2026-05-23 15:00,SK Horovice,FK Slavoj Cesky Krumlov,2,3,,,
+66605636,2026-05-24 15:00,ZVVZ Milevsko,FK Krimice,0,0,,,
+66605646,2026-05-24 15:30,SK Petrin Plzen B,FA Povltavska,0,3,,,
+66605732,2026-05-29 16:00,FK Krimice,SK Senco Doubravka,3,0,,,
+66605736,2026-05-30 08:15,FK Slavoj Cesky Krumlov,SK Petrin Plzen B,0,0,,,
+66605738,2026-05-30 08:15,FA Povltavska,SK Benesov,0,0,,,
+66605650,2026-05-30 08:30,FK Komarov,Tj Jiskra Domazlice II,3,0,,,
+66605730,2026-05-30 08:30,Tj Ligmet Milin,ZVVZ Milevsko,0,0,,,
+66605734,2026-05-30 15:00,FK Tachov,SK Horovice,0,0,,,
+66605740,2026-05-30 16:00,FC Rokycany,TJ Hluboka Nad Vlatvou,0,0,,,
+66605652,2026-05-31 08:30,TJ Prestice,FK Spartak Sobeslav,2,4,,,
+66605742,2026-06-05 16:00,FK Krimice,FK Tachov,0,1,,,
+66605754,2026-06-06 08:15,SK Benesov,FK Slavoj Cesky Krumlov,5,1,,,
+66605756,2026-06-06 13:30,SK Petrin Plzen B,SK Horovice,0,1,,,
+66605744,2026-06-06 15:00,SK Senco Doubravka,Tj Ligmet Milin,0,0,,,
+66605748,2026-06-06 15:00,FK Spartak Sobeslav,FK Komarov,0,0,,,
+66605750,2026-06-06 15:00,Tj Jiskra Domazlice II,FC Rokycany,0,0,,,
+66605746,2026-06-07 15:00,ZVVZ Milevsko,TJ Prestice,0,0,,,
+66605752,2026-06-07 15:00,TJ Hluboka Nad Vlatvou,FA Povltavska,2,3,,,
+66605768,2026-06-10 16:00,Cesky Krumlov,Hluboka Nad Vlatvou,1,3,,,
+66605772,2026-06-12 15:00,Rokycany,FK Spartak Sobeslav,2,3,,,
+66605770,2026-06-13 08:15,Povltavska,Tj Jiskra Domazlice II,5,0,,,
+66605758,2026-06-13 08:30,FK Komarov,Milevsko,5,3,,,
+66605760,2026-06-13 08:30,TJ Prestice,Senco,1,2,,,
+66605762,2026-06-13 08:30,Tj Ligmet Milin,FK Krimice,0,0,,,
+66605766,2026-06-13 12:00,Horovice,Benesov,0,3,,,
+66605764,2026-06-13 13:30,Tachov,SK Petrin Plzen B,0,0,,,
+72653884,2026-08-07 15:30,FC Rokycany,ZVVZ Milevsko,2,1,1.571,4.100,4.333
+72653872,2026-08-08 08:15,FK Slavoj Cesky Krumlov,FK Spartak Sobeslav,1,5,2.550,3.800,2.150
+72653874,2026-08-08 08:15,SK Petrin Plzen,Tj Jiskra Domazlice B,1,0,1.363,5.250,5.250
+72653876,2026-08-08 08:30,FK Komarov,FC Taborsko Akademie,1,1,,,
+72653878,2026-08-08 15:00,SK Horovice,TJ Hluboka Nad Vlatvou,2,2,3.200,4.000,1.833
+72653882,2026-08-08 15:00,Spartak Pribram,FK Krimice,3,1,,,
+72653886,2026-08-09 15:00,SK Strakonice,SK Senco Doubravka,1,3,,,
+72653890,2026-08-14 16:00,FK Spartak Sobeslav,SK Horovice,1,2,,,
+72653894,2026-08-14 17:00,TJ Hluboka Nad Vlatvou,SK Petrin Plzen,1,0,1.833,4.000,3.100
+72653896,2026-08-15 08:15,FK Krimice,SK Strakonice,2,1,1.250,5.750,7.000
+72653892,2026-08-15 15:00,SK Senco Doubravka,FC Rokycany,0,0,,,
+72653898,2026-08-15 15:00,FK Okula Nyrsko,Spartak Pribram,2,4,,,
+72653888,2026-08-16 15:00,FC Taborsko Akademie,FK Slavoj Cesky Krumlov,3,0,,,
+72653902,2026-08-16 15:00,ZVVZ Milevsko,FK Komarov,0,0,,,
+72653910,2026-08-21 16:00,Tj Jiskra Domazlice B,TJ Hluboka Nad Vlatvou,0,1,,,
+72653904,2026-08-22 08:15,FK Slavoj Cesky Krumlov,ZVVZ Milevsko,2,1,1.750,4.000,3.400
+72653906,2026-08-22 08:15,SK Petrin Plzen,FK Spartak Sobeslav,2,1,1.850,3.750,3.250
+72653912,2026-08-22 15:00,SK Horovice,FC Taborsko Akademie,1,3,,,
+72653916,2026-08-22 15:00,FC Rokycany,FK Krimice,0,2,3.000,3.600,2.000
+72653918,2026-08-23 15:00,SK Strakonice,FK Okula Nyrsko,5,2,1.727,4.500,3.200
+72653926,2026-08-29 08:15,FK Krimice,FK Komarov,1,2,1.450,4.333,5.000
+72653922,2026-08-29 15:00,SK Senco Doubravka,FK Slavoj Cesky Krumlov,3,2,,,
+72653924,2026-08-29 15:00,FK Spartak Sobeslav,Tj Jiskra Domazlice B,3,2,,,
+72653928,2026-08-29 15:00,Spartak Pribram,SK Strakonice,6,0,,,
+72653930,2026-08-29 15:00,FK Okula Nyrsko,FC Rokycany,1,2,,,
+72653920,2026-08-30 15:00,FC Taborsko Akademie,SK Petrin Plzen,1,1,,,
+72653934,2026-08-30 15:00,ZVVZ Milevsko,SK Horovice,0,1,,,
+74218454,2026-09-02 15:00,FK Komarov,SK Senco Doubravka,1,0,1.750,4.100,3.300
+72653946,2026-09-04 16:00,TJ Hluboka Nad Vlatvou,FK Spartak Sobeslav,2,2,2.050,3.750,2.750
+72653936,2026-09-05 08:15,FK Slavoj Cesky Krumlov,FK Krimice,2,4,,,
+72653938,2026-09-05 08:15,SK Petrin Plzen,ZVVZ Milevsko,3,0,1.333,5.000,6.000
+72653940,2026-09-05 08:30,FK Komarov,FK Okula Nyrsko,2,0,1.600,3.900,4.200
+72653944,2026-09-05 15:00,SK Horovice,SK Senco Doubravka,3,0,,,
+72653948,2026-09-05 15:00,FC Rokycany,Spartak Pribram,1,2,,,
+72653942,2026-09-06 15:00,Tj Jiskra Domazlice B,FC Taborsko Akademie,0,3,,,
+72653954,2026-09-11 15:00,FK Krimice,SK Horovice,1,0,,,
+72653952,2026-09-12 08:15,FC Taborsko Akademie,TJ Hluboka Nad Vlatvou,1,3,,,
+72653956,2026-09-12 15:00,SK Senco Doubravka,SK Petrin Plzen,2,4,,,
+72653960,2026-09-12 15:00,FK Okula Nyrsko,FK Slavoj Cesky Krumlov,0,3,,,
+72653962,2026-09-12 15:00,Spartak Pribram,FK Komarov,1,1,,,
+72653966,2026-09-12 15:00,ZVVZ Milevsko,Tj Jiskra Domazlice B,0,3,,,
+72653964,2026-09-13 15:00,SK Strakonice,FC Rokycany,3,0,,,
+72653968,2026-09-18 15:00,FK Komarov,SK Strakonice,4,4,1.480,4.333,5.000
+72653974,2026-09-18 17:00,TJ Hluboka Nad Vlatvou,ZVVZ Milevsko,2,2,1.222,5.500,8.000
+72653970,2026-09-19 08:15,FK Slavoj Cesky Krumlov,Spartak Pribram,1,3,,,
+72653972,2026-09-19 08:15,SK Petrin Plzen,FK Krimice,1,4,2.050,3.750,2.750
+72653976,2026-09-19 14:30,FK Spartak Sobeslav,FC Taborsko Akademie,3,1,,,
+72653982,2026-09-19 14:30,SK Horovice,FK Okula Nyrsko,3,1,1.300,5.250,6.250
+72653980,2026-09-20 14:30,Tj Jiskra Domazlice B,SK Senco Doubravka,0,3,,,
+72653994,2026-09-26 08:15,FK Krimice,Tj Jiskra Domazlice B,1,0,1.181,6.500,10.000
+72653990,2026-09-26 13:00,FC Rokycany,FK Komarov,0,1,,,
+72653986,2026-09-26 14:30,FK Okula Nyrsko,SK Petrin Plzen,0,4,,,
+72653988,2026-09-26 14:30,Spartak Pribram,SK Horovice,1,1,1.727,4.500,3.200
+72653992,2026-09-26 14:30,SK Senco Doubravka,TJ Hluboka Nad Vlatvou,2,3,,,
+72653996,2026-09-27 14:30,SK Strakonice,FK Slavoj Cesky Krumlov,2,3,2.000,3.900,2.800
+72653998,2026-09-27 14:30,ZVVZ Milevsko,FK Spartak Sobeslav,1,2,4.200,4.200,1.571
+72654012,2026-10-02 16:00,TJ Hluboka Nad Vlatvou,FK Krimice,1,1,2.500,3.800,2.200
+72654000,2026-10-03 08:15,FK Slavoj Cesky Krumlov,FC Rokycany,4,0,2.050,3.800,2.750
+72654002,2026-10-03 08:15,SK Petrin Plzen,Spartak Pribram,4,3,2.050,3.700,2.800
+72654004,2026-10-03 08:15,FC Taborsko Akademie,ZVVZ Milevsko,3,2,,,
+72654008,2026-10-03 14:00,Tj Jiskra Domazlice B,FK Okula Nyrsko,3,4,,,
+72654010,2026-10-03 14:00,SK Horovice,SK Strakonice,2,1,,,
+72654014,2026-10-03 14:00,FK Spartak Sobeslav,SK Senco Doubravka,2,1,,,
+72654028,2026-10-10 08:15,FK Krimice,FK Spartak Sobeslav,3,2,1.666,4.000,3.750
+72654016,2026-10-10 08:30,FK Komarov,FK Slavoj Cesky Krumlov,3,0,1.800,4.000,3.250
+72654018,2026-10-10 14:00,Spartak Pribram,Tj Jiskra Domazlice B,5,0,1.285,5.000,7.500
+72654020,2026-10-10 14:00,FK Okula Nyrsko,TJ Hluboka Nad Vlatvou,0,5,,,
+72654024,2026-10-10 14:00,FC Rokycany,SK Horovice,2,1,,,
+72654026,2026-10-10 14:00,SK Senco Doubravka,FC Taborsko Akademie,1,1,,,
+72654030,2026-10-11 14:00,SK Strakonice,SK Petrin Plzen,1,4,3.600,3.900,1.727
+72654040,2026-10-16 16:30,TJ Hluboka Nad Vlatvou,Spartak Pribram,1,3,2.100,3.750,2.700
+72654034,2026-10-17 08:15,SK Petrin Plzen,FC Rokycany,2,1,1.300,4.750,7.000
+72654036,2026-10-17 08:15,FC Taborsko Akademie,FK Krimice,1,1,,,
+72654038,2026-10-17 13:30,FK Spartak Sobeslav,FK Okula Nyrsko,2,2,,,
+72654042,2026-10-17 13:30,SK Horovice,FK Komarov,1,0,2.250,3.750,2.500
+72654044,2026-10-17 13:30,Tj Jiskra Domazlice B,SK Strakonice,6,0,,,
+72654046,2026-10-18 13:30,ZVVZ Milevsko,SK Senco Doubravka,0,1,2.800,3.800,2.000
+72654048,2026-10-24 08:15,FK Slavoj Cesky Krumlov,SK Horovice,2,2,2.600,3.800,2.100
+72654058,2026-10-24 08:15,FK Krimice,ZVVZ Milevsko,5,2,,,
+72654050,2026-10-24 08:30,FK Komarov,SK Petrin Plzen,4,0,3.100,4.000,1.833
+72654052,2026-10-24 12:30,Spartak Pribram,FK Spartak Sobeslav,2,2,,,
+72654054,2026-10-24 12:30,FK Okula Nyrsko,FC Taborsko Akademie,1,4,,,
+72654060,2026-10-24 12:30,FC Rokycany,Tj Jiskra Domazlice B,5,4,,,
+72654062,2026-10-25 13:30,SK Strakonice,TJ Hluboka Nad Vlatvou,1,2,,,
+72654072,2026-10-30 18:00,TJ Hluboka Nad Vlatvou,FC Rokycany,1,0,1.380,4.500,5.750
+72654064,2026-10-31 09:15,SK Petrin Plzen,FK Slavoj Cesky Krumlov,4,0,1.480,4.750,4.333
+72654068,2026-10-31 13:00,FK Spartak Sobeslav,SK Strakonice,3,1,,,
+72654070,2026-10-31 13:00,SK Senco Doubravka,FK Krimice,2,3,,,
+72654066,2026-11-01 13:00,FC Taborsko Akademie,Spartak Pribram,2,0,,,
+72654076,2026-11-01 13:00,Tj Jiskra Domazlice B,FK Komarov,2,1,,,
+72654078,2026-11-01 13:00,ZVVZ Milevsko,FK Okula Nyrsko,2,1,,,
+72654080,2026-11-07 09:15,FK Slavoj Cesky Krumlov,Tj Jiskra Domazlice B,1,2,,,
+72654082,2026-11-07 09:30,FK Komarov,TJ Hluboka Nad Vlatvou,1,1,,,
+72654084,2026-11-07 13:00,Spartak Pribram,ZVVZ Milevsko,2,1,1.250,6.250,7.500
+72654086,2026-11-07 13:00,FK Okula Nyrsko,SK Senco Doubravka,0,2,,,
+72654088,2026-11-07 13:00,SK Horovice,SK Petrin Plzen,1,3,2.900,3.700,2.000
+72654092,2026-11-07 13:00,FC Rokycany,FK Spartak Sobeslav,1,3,,,
+72654094,2026-11-08 13:00,SK Strakonice,FC Taborsko Akademie,2,2,,,

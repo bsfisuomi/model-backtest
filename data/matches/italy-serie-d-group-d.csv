@@ -1,0 +1,310 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+60686871,2025-05-25 18:00,Ravenna FC 1913,Tau Calcio Altopascio,2,1,,,
+62739823,2025-09-07 13:00,Piacenza Calcio 1919,Calcio Desenzano,1,0,,,
+62739837,2025-09-14 13:00,Cittadella Vis Modena,Piacenza Calcio 1919,2,1,,,
+62739843,2025-09-14 13:00,Pro Sesto,Lentigione Calcio,3,1,,,
+62739859,2025-09-20 13:00,Piacenza Calcio 1919,Imolese Calcio,0,0,,,
+62739861,2025-09-20 15:00,Pistoiese FC,ASD Sasso Marconi 1924,3,0,,,
+62739883,2025-09-24 13:00,Sangiuliano City FC,Pistoiese FC,1,4,,,
+62739887,2025-09-24 13:00,Tropical Coriano,Lentigione Calcio,1,2,,,
+62739877,2025-09-24 15:00,Imolese Calcio,Pro Palazzolo,2,1,,,
+62739879,2025-09-24 16:00,Pro Sesto,ASD Sant'Angelo,0,0,,,
+62739889,2025-09-28 13:00,Correggese Calcio 1948,Sangiuliano City FC,0,0,,,
+62739895,2025-09-28 13:00,Piacenza Calcio 1919,Pistoiese FC,2,2,,,
+62739899,2025-09-28 13:00,SCD Progresso,Calcio Desenzano,0,1,,,
+62739909,2025-10-05 13:00,Cittadella Vis Modena,SCD Progresso,1,2,,,
+62739919,2025-10-05 13:00,Sangiuliano City FC,Piacenza Calcio 1919,1,1,,,
+62739929,2025-10-12 13:00,Lentigione Calcio,Sangiuliano City FC,0,0,,,
+62739931,2025-10-12 13:00,Piacenza Calcio 1919,ASD Sasso Marconi 1924,2,1,,,
+62739933,2025-10-12 13:00,Pro Sesto,Cittadella Vis Modena,2,0,,,
+62739945,2025-10-19 13:00,Cittadella Vis Modena,Trevigliese,3,1,,,
+62739949,2025-10-19 13:00,Pro Palazzolo,Piacenza Calcio 1919,2,0,,,
+62739951,2025-10-19 13:00,Pistoiese FC,Correggese Calcio 1948,1,1,,,
+62739957,2025-10-19 13:00,ASD Sasso Marconi 1924,AC Crema 1908,0,1,,,
+62739961,2025-10-26 13:30,Correggese Calcio 1948,ASD Sasso Marconi 1924,1,1,,,
+62739967,2025-10-26 13:30,Pro Sesto,Rovato Vertovese,4,0,,,
+62739969,2025-10-26 13:30,SCD Progresso,Pistoiese FC,2,2,,,
+62739981,2025-11-02 13:30,Cittadella Vis Modena,AC Crema 1908,2,1,,,
+62739987,2025-11-02 13:30,Piacenza Calcio 1919,Correggese Calcio 1948,2,1,,,
+62739993,2025-11-02 13:30,Sangiuliano City FC,SCD Progresso,2,1,,,
+62739995,2025-11-02 13:30,ASD Sasso Marconi 1924,Tropical Coriano,2,0,,,
+62739997,2025-11-09 13:30,Cittadella Vis Modena,Calcio Desenzano,0,0,,,
+62740017,2025-11-16 13:30,Correggese Calcio 1948,AC Tuttocuoio 1957,3,0,,,
+62740021,2025-11-16 13:30,Pro Palazzolo,SCD Progresso,2,0,,,
+62740023,2025-11-16 13:30,Piacenza Calcio 1919,Lentigione Calcio,1,1,,,
+62740025,2025-11-16 13:30,Pistoiese FC,ASD Sant'Angelo,4,1,,,
+62740039,2025-11-23 13:30,Lentigione Calcio,ASD Sasso Marconi 1924,1,0,,,
+62740053,2025-11-30 13:30,Correggese Calcio 1948,SCD Progresso,0,2,,,
+62740055,2025-11-30 13:30,Imolese Calcio,Tropical Coriano,1,1,,,
+62740057,2025-11-30 13:30,Pro Palazzolo,Trevigliese,1,2,,,
+62740065,2025-11-30 13:30,Sangiuliano City FC,AC Crema 1908,2,2,,,
+62740073,2025-12-07 13:30,Cittadella Vis Modena,Sangiuliano City FC,3,0,,,
+62740077,2025-12-07 13:30,Pro Sesto,Piacenza Calcio 1919,0,2,,,
+62740079,2025-12-07 13:30,SCD Progresso,Lentigione Calcio,0,1,,,
+62740085,2025-12-07 13:30,Trevigliese,Correggese Calcio 1948,1,1,,,
+62740103,2025-12-13 13:30,Sangiuliano City FC,Rovato Vertovese,1,0,,,
+62740089,2025-12-14 13:30,Correggese Calcio 1948,AC Crema 1908,1,1,,,
+62740091,2025-12-14 13:30,Imolese Calcio,ASD Sasso Marconi 1924,1,3,1.909,3.300,3.500
+62740093,2025-12-14 13:30,Lentigione Calcio,Trevigliese,4,0,1.300,4.333,8.000
+62740095,2025-12-14 13:30,Pro Palazzolo,Cittadella Vis Modena,2,1,2.100,3.100,3.100
+62740097,2025-12-14 13:30,Piacenza Calcio 1919,Tropical Coriano,4,1,1.380,4.100,6.500
+62740099,2025-12-14 13:30,Pistoiese FC,Calcio Desenzano,0,2,,,
+62740101,2025-12-14 13:30,SCD Progresso,ASD Sant'Angelo,1,0,2.600,3.100,2.500
+62740105,2025-12-14 13:30,AC Tuttocuoio 1957,Pro Sesto,0,3,5.500,3.900,1.480
+62740111,2025-12-20 13:30,AC Crema 1908,Piacenza Calcio 1919,2,3,3.900,3.800,1.666
+62740107,2025-12-21 13:30,Calcio Desenzano,Sangiuliano City FC,0,1,,,
+62740109,2025-12-21 13:30,Cittadella Vis Modena,Pistoiese FC,0,0,3.300,3.000,2.150
+62740113,2025-12-21 13:30,Pro Sesto,Correggese Calcio 1948,1,0,1.666,3.400,4.500
+62740115,2025-12-21 13:30,Rovato Vertovese,Imolese Calcio,2,0,,,
+62740117,2025-12-21 13:30,ASD Sant'Angelo,Lentigione Calcio,1,4,,,
+62740119,2025-12-21 13:30,ASD Sasso Marconi 1924,SCD Progresso,2,3,2.200,3.100,3.000
+62740121,2025-12-21 13:30,Trevigliese,AC Tuttocuoio 1957,1,1,,,
+62740123,2025-12-21 13:30,Tropical Coriano,Pro Palazzolo,2,3,,,
+62740125,2026-01-04 13:30,Cittadella Vis Modena,Correggese Calcio 1948,2,0,2.100,3.000,3.300
+62740127,2026-01-04 13:30,AC Crema 1908,Lentigione Calcio,0,1,,,
+62740129,2026-01-04 13:30,Rovato Vertovese,Pro Palazzolo,0,0,,,
+62740131,2026-01-04 13:30,Calcio Desenzano,Piacenza Calcio 1919,1,0,,,
+62740133,2026-01-04 13:30,Imolese Calcio,Pistoiese FC,0,1,4.000,3.400,1.750
+62740137,2026-01-04 13:30,ASD Sasso Marconi 1924,Sangiuliano City FC,3,1,3.100,3.250,2.050
+62740139,2026-01-04 13:30,Trevigliese,ASD Sant'Angelo,1,1,2.625,3.200,2.350
+62740141,2026-01-04 13:30,Tropical Coriano,AC Tuttocuoio 1957,1,1,1.833,3.400,3.700
+62740135,2026-01-06 13:30,Pro Sesto,SCD Progresso,0,2,1.727,3.000,4.750
+62740149,2026-01-10 13:30,Sangiuliano City FC,Imolese Calcio,4,0,,,
+62740143,2026-01-11 13:30,Pro Palazzolo,Calcio Desenzano,0,2,,,
+62740145,2026-01-11 13:30,Piacenza Calcio 1919,Cittadella Vis Modena,1,1,1.909,3.250,3.500
+62740147,2026-01-11 13:30,AC Tuttocuoio 1957,AC Crema 1908,0,2,,,
+62740151,2026-01-11 13:30,Lentigione Calcio,Pro Sesto,1,1,,,
+62740153,2026-01-11 13:30,Pistoiese FC,Rovato Vertovese,2,0,1.480,3.500,6.500
+62740155,2026-01-11 13:30,ASD Sant'Angelo,ASD Sasso Marconi 1924,0,0,2.100,3.200,3.000
+62740157,2026-01-11 13:30,SCD Progresso,Trevigliese,2,1,1.950,3.400,3.250
+62740159,2026-01-11 13:30,Correggese Calcio 1948,Tropical Coriano,1,0,1.666,3.400,4.500
+62740165,2026-01-17 13:30,Sangiuliano City FC,Pro Palazzolo,3,1,2.500,3.000,2.625
+62740169,2026-01-17 13:30,ASD Sasso Marconi 1924,Pistoiese FC,1,4,5.500,3.500,1.571
+62740161,2026-01-18 13:30,Rovato Vertovese,Correggese Calcio 1948,2,0,2.250,3.200,2.800
+62740163,2026-01-18 13:30,Cittadella Vis Modena,Lentigione Calcio,0,1,2.750,3.100,2.350
+62740171,2026-01-18 13:30,Tropical Coriano,SCD Progresso,0,0,2.750,3.100,2.300
+62740173,2026-01-18 13:30,AC Crema 1908,ASD Sant'Angelo,1,1,,,
+62740175,2026-01-18 13:30,Pro Sesto,Trevigliese,4,0,1.380,4.200,6.500
+62740177,2026-01-18 13:30,Calcio Desenzano,AC Tuttocuoio 1957,3,0,1.166,5.750,15.000
+62740167,2026-01-18 14:00,Imolese Calcio,Piacenza Calcio 1919,0,3,4.500,3.400,1.666
+62740179,2026-01-25 13:30,Correggese Calcio 1948,Calcio Desenzano,1,2,5.000,3.400,1.615
+62740181,2026-01-25 13:30,AC Tuttocuoio 1957,Cittadella Vis Modena,0,0,,,
+62740183,2026-01-25 13:30,SCD Progresso,AC Crema 1908,0,1,2.100,3.100,3.200
+62740187,2026-01-25 13:30,ASD Sant'Angelo,Pro Sesto,1,1,,,
+62740189,2026-01-25 13:30,Piacenza Calcio 1919,Rovato Vertovese,1,0,1.500,3.900,5.750
+62740191,2026-01-25 13:30,Pistoiese FC,Sangiuliano City FC,3,1,1.500,3.750,5.500
+62740193,2026-01-25 13:30,Trevigliese,ASD Sasso Marconi 1924,1,1,,,
+62740195,2026-01-25 13:30,Lentigione Calcio,Tropical Coriano,2,0,1.250,4.500,10.000
+62740185,2026-01-25 14:00,Pro Palazzolo,Imolese Calcio,0,0,1.650,3.400,4.750
+62740197,2026-02-01 13:30,Sangiuliano City FC,Correggese Calcio 1948,1,0,,,
+62740199,2026-02-01 13:30,Rovato Vertovese,Lentigione Calcio,3,1,,,
+62740201,2026-02-01 13:30,ASD Sasso Marconi 1924,Pro Palazzolo,2,3,,,
+62740203,2026-02-01 13:30,Pistoiese FC,Piacenza Calcio 1919,1,0,2.200,3.100,3.000
+62740205,2026-02-01 13:30,AC Crema 1908,Pro Sesto,1,3,3.500,3.250,1.900
+62740207,2026-02-01 13:30,Calcio Desenzano,SCD Progresso,3,1,,,
+62740209,2026-02-01 13:30,Cittadella Vis Modena,ASD Sant'Angelo,2,0,,,
+62740211,2026-02-01 13:30,Tropical Coriano,Trevigliese,1,0,,,
+62740213,2026-02-01 13:30,Imolese Calcio,AC Tuttocuoio 1957,1,0,1.850,3.300,3.750
+62740215,2026-02-08 13:30,Lentigione Calcio,Calcio Desenzano,0,0,2.300,3.100,2.875
+62740217,2026-02-08 13:30,SCD Progresso,Cittadella Vis Modena,0,1,2.550,3.100,2.500
+62740219,2026-02-08 13:30,Trevigliese,AC Crema 1908,0,1,2.600,3.400,2.300
+62740221,2026-02-08 13:30,Correggese Calcio 1948,Imolese Calcio,2,0,2.100,3.100,3.200
+62740223,2026-02-08 13:30,Pro Palazzolo,Pistoiese FC,0,0,4.333,3.200,1.750
+62740225,2026-02-08 13:30,AC Tuttocuoio 1957,Rovato Vertovese,0,1,,,
+62740227,2026-02-08 13:30,Piacenza Calcio 1919,Sangiuliano City FC,2,3,1.571,4.000,4.333
+62740229,2026-02-08 13:30,Pro Sesto,ASD Sasso Marconi 1924,0,0,1.444,3.800,6.250
+62740231,2026-02-08 13:30,ASD Sant'Angelo,Tropical Coriano,3,1,,,
+62740237,2026-02-14 13:30,Sangiuliano City FC,Lentigione Calcio,0,2,,,
+62740249,2026-02-14 16:30,Pistoiese FC,AC Tuttocuoio 1957,2,1,1.125,7.000,17.000
+62740233,2026-02-15 13:30,Pro Palazzolo,Correggese Calcio 1948,2,0,1.950,3.100,3.500
+62740235,2026-02-15 13:30,Tropical Coriano,AC Crema 1908,2,1,,,
+62740239,2026-02-15 13:30,ASD Sasso Marconi 1924,Piacenza Calcio 1919,1,2,,,
+62740241,2026-02-15 13:30,Cittadella Vis Modena,Pro Sesto,2,1,2.250,3.100,2.875
+62740243,2026-02-15 13:30,Imolese Calcio,SCD Progresso,3,3,,,
+62740245,2026-02-15 13:30,Rovato Vertovese,ASD Sant'Angelo,2,0,,,
+62740247,2026-02-15 13:30,Calcio Desenzano,Trevigliese,2,1,,,
+62740251,2026-02-22 13:30,ASD Sant'Angelo,Calcio Desenzano,1,2,,,
+62740253,2026-02-22 13:30,Trevigliese,Cittadella Vis Modena,1,1,3.800,3.400,1.800
+62740255,2026-02-22 13:30,Lentigione Calcio,Imolese Calcio,4,0,1.444,3.800,6.250
+62740257,2026-02-22 13:30,Piacenza Calcio 1919,Pro Palazzolo,0,1,1.909,3.250,3.500
+62740259,2026-02-22 13:30,Correggese Calcio 1948,Pistoiese FC,0,3,5.750,4.100,1.444
+62740263,2026-02-22 13:30,AC Tuttocuoio 1957,Sangiuliano City FC,0,1,4.750,3.500,1.615
+62740265,2026-02-22 13:30,AC Crema 1908,ASD Sasso Marconi 1924,1,0,,,
+62740267,2026-02-22 13:30,Pro Sesto,Tropical Coriano,2,1,1.450,3.800,6.000
+62740261,2026-02-22 14:30,SCD Progresso,Rovato Vertovese,0,0,2.500,2.900,2.700
+62740269,2026-03-01 13:30,ASD Sasso Marconi 1924,Correggese Calcio 1948,0,2,2.400,3.200,2.600
+62740271,2026-03-01 13:30,Calcio Desenzano,AC Crema 1908,0,0,,,
+62740273,2026-03-01 13:30,Pro Palazzolo,Lentigione Calcio,1,2,3.750,3.100,1.900
+62740275,2026-03-01 13:30,Rovato Vertovese,Pro Sesto,2,1,,,
+62740277,2026-03-01 13:30,Pistoiese FC,SCD Progresso,1,0,,,
+62740279,2026-03-01 13:30,Sangiuliano City FC,ASD Sant'Angelo,1,2,2.100,3.200,3.100
+62740281,2026-03-01 13:30,Imolese Calcio,Trevigliese,0,1,2.300,3.100,2.800
+62740283,2026-03-01 13:30,Cittadella Vis Modena,Tropical Coriano,1,1,1.420,3.750,6.500
+62740285,2026-03-01 13:30,Piacenza Calcio 1919,AC Tuttocuoio 1957,4,0,1.181,6.000,12.000
+62740287,2026-03-15 13:30,Pro Sesto,Calcio Desenzano,1,2,2.600,3.100,2.400
+62740289,2026-03-15 13:30,AC Crema 1908,Cittadella Vis Modena,0,0,,,
+62740291,2026-03-15 13:30,ASD Sant'Angelo,Imolese Calcio,0,0,,,
+62740293,2026-03-15 13:30,AC Tuttocuoio 1957,Pro Palazzolo,0,0,7.000,4.000,1.380
+62740295,2026-03-15 13:30,Correggese Calcio 1948,Piacenza Calcio 1919,1,3,3.700,3.300,1.850
+62740299,2026-03-15 13:30,Trevigliese,Rovato Vertovese,1,1,2.700,3.200,2.350
+62740301,2026-03-15 13:30,SCD Progresso,Sangiuliano City FC,0,0,2.450,3.000,2.625
+62740303,2026-03-15 13:30,Tropical Coriano,ASD Sasso Marconi 1924,0,0,2.600,2.900,2.600
+62740317,2026-03-21 14:00,Pistoiese FC,Trevigliese,0,0,1.270,4.500,9.500
+62740307,2026-03-21 18:30,Imolese Calcio,AC Crema 1908,0,0,2.350,3.250,2.625
+62740305,2026-03-22 13:30,Calcio Desenzano,Cittadella Vis Modena,0,0,,,
+62740309,2026-03-22 13:30,Correggese Calcio 1948,Lentigione Calcio,1,1,7.000,3.800,1.400
+62740311,2026-03-22 13:30,Sangiuliano City FC,Pro Sesto,1,2,2.500,3.000,2.600
+62740313,2026-03-22 13:30,Piacenza Calcio 1919,SCD Progresso,3,0,1.480,3.500,6.250
+62740315,2026-03-22 13:30,Pro Palazzolo,ASD Sant'Angelo,0,0,,,
+62740319,2026-03-22 13:30,Rovato Vertovese,Tropical Coriano,1,0,1.666,3.400,4.500
+62740321,2026-03-22 13:30,ASD Sasso Marconi 1924,AC Tuttocuoio 1957,0,0,,,
+69931120,2026-03-25 13:30,Lentigione Calcio,Pistoiese FC,1,1,2.750,3.300,2.250
+62740325,2026-03-29 13:00,AC Tuttocuoio 1957,Correggese Calcio 1948,0,0,,,
+62740327,2026-03-29 13:00,Pro Sesto,Imolese Calcio,2,4,1.550,3.600,5.250
+62740331,2026-03-29 13:00,Lentigione Calcio,Piacenza Calcio 1919,0,0,2.400,3.100,2.700
+62740333,2026-03-29 13:00,ASD Sant'Angelo,Pistoiese FC,0,0,,,
+62740335,2026-03-29 13:00,AC Crema 1908,Rovato Vertovese,0,0,2.375,3.000,2.800
+62740337,2026-03-29 13:00,Trevigliese,Sangiuliano City FC,0,0,,,
+62740339,2026-03-29 13:00,Cittadella Vis Modena,ASD Sasso Marconi 1924,2,0,1.750,3.200,4.333
+62740341,2026-04-02 13:00,Rovato Vertovese,Calcio Desenzano,0,0,,,
+62740347,2026-04-02 13:00,ASD Sasso Marconi 1924,Lentigione Calcio,0,0,7.000,3.900,1.420
+62740349,2026-04-02 13:00,Pro Palazzolo,Pro Sesto,0,0,2.250,3.200,2.800
+62740351,2026-04-02 13:00,AC Tuttocuoio 1957,SCD Progresso,0,0,19.000,6.500,1.125
+62740353,2026-04-02 13:00,Correggese Calcio 1948,ASD Sant'Angelo,2,1,2.600,3.000,2.500
+62740355,2026-04-02 13:00,Piacenza Calcio 1919,Trevigliese,2,0,1.333,4.500,7.000
+62740357,2026-04-02 13:00,Sangiuliano City FC,Tropical Coriano,3,3,1.571,3.500,5.250
+62740343,2026-04-02 18:30,Imolese Calcio,Cittadella Vis Modena,0,0,3.500,3.100,1.950
+62740345,2026-04-03 16:00,Pistoiese FC,AC Crema 1908,4,2,,,
+62740323,2026-04-08 13:00,Tropical Coriano,Calcio Desenzano,0,1,7.000,3.900,1.400
+62740361,2026-04-12 13:00,Tropical Coriano,Imolese Calcio,0,0,,,
+62740363,2026-04-12 13:00,Trevigliese,Pro Palazzolo,0,1,5.000,3.600,1.571
+62740365,2026-04-12 13:00,ASD Sant'Angelo,Piacenza Calcio 1919,0,0,,,
+62740367,2026-04-12 13:00,Pro Sesto,Pistoiese FC,0,0,3.900,3.400,1.833
+62740369,2026-04-12 13:00,Cittadella Vis Modena,Rovato Vertovese,0,0,2.000,3.000,3.500
+62740371,2026-04-12 13:00,AC Crema 1908,Sangiuliano City FC,0,0,,,
+62740373,2026-04-12 13:00,Calcio Desenzano,ASD Sasso Marconi 1924,0,0,,,
+62740375,2026-04-12 13:00,Lentigione Calcio,AC Tuttocuoio 1957,1,0,,,
+62740359,2026-04-12 17:00,SCD Progresso,Correggese Calcio 1948,1,1,2.250,3.300,2.750
+62740377,2026-04-19 13:00,Imolese Calcio,Calcio Desenzano,0,0,5.000,3.400,1.615
+62740379,2026-04-19 13:00,Sangiuliano City FC,Cittadella Vis Modena,0,0,,,
+62740381,2026-04-19 13:00,Pro Palazzolo,AC Crema 1908,0,0,1.444,4.000,6.000
+62740383,2026-04-19 13:00,Piacenza Calcio 1919,Pro Sesto,3,1,1.700,3.500,4.100
+62740385,2026-04-19 13:00,Lentigione Calcio,SCD Progresso,1,2,1.500,3.700,5.500
+62740387,2026-04-19 13:00,ASD Sasso Marconi 1924,Rovato Vertovese,0,0,2.700,3.000,2.450
+62740389,2026-04-19 13:00,AC Tuttocuoio 1957,ASD Sant'Angelo,0,0,,,
+62740391,2026-04-19 13:00,Correggese Calcio 1948,Trevigliese,1,1,1.650,3.500,4.500
+62740393,2026-04-19 13:00,Pistoiese FC,Tropical Coriano,0,1,1.125,7.000,19.000
+62740395,2026-04-26 13:00,AC Crema 1908,Correggese Calcio 1948,0,0,,,
+62740397,2026-04-26 13:00,ASD Sasso Marconi 1924,Imolese Calcio,1,1,2.200,3.100,3.100
+62740399,2026-04-26 13:00,Trevigliese,Lentigione Calcio,0,0,,,
+62740401,2026-04-26 13:00,Cittadella Vis Modena,Pro Palazzolo,1,0,2.550,3.000,2.600
+62740403,2026-04-26 13:00,Tropical Coriano,Piacenza Calcio 1919,0,0,,,
+62740405,2026-04-26 13:00,Calcio Desenzano,Pistoiese FC,0,0,,,
+62740407,2026-04-26 13:00,ASD Sant'Angelo,SCD Progresso,0,0,,,
+62740409,2026-04-26 13:00,Rovato Vertovese,Sangiuliano City FC,0,0,,,
+62740411,2026-04-26 13:00,Pro Sesto,AC Tuttocuoio 1957,2,0,,,
+62740413,2026-05-03 13:00,Sangiuliano City FC,Calcio Desenzano,0,5,,,
+62740415,2026-05-03 13:00,Pistoiese FC,Cittadella Vis Modena,0,0,,,
+62740417,2026-05-03 13:00,Piacenza Calcio 1919,AC Crema 1908,3,1,,,
+62740419,2026-05-03 13:00,Correggese Calcio 1948,Pro Sesto,0,0,,,
+62740421,2026-05-03 13:00,Imolese Calcio,Rovato Vertovese,0,0,,,
+62740423,2026-05-03 13:00,Lentigione Calcio,ASD Sant'Angelo,2,2,1.420,3.900,6.250
+62740425,2026-05-03 13:00,SCD Progresso,ASD Sasso Marconi 1924,0,0,,,
+62740427,2026-05-03 13:00,AC Tuttocuoio 1957,Trevigliese,0,0,,,
+62740429,2026-05-03 13:00,Pro Palazzolo,Tropical Coriano,0,0,,,
+71321900,2026-05-10 14:00,Lentigione Calcio,Pro Palazzolo,3,2,1.900,3.200,3.800
+71321906,2026-05-10 14:00,Pistoiese FC,Piacenza Calcio 1919,1,1,1.700,3.600,4.100
+71322114,2026-05-10 14:00,AC Crema 1908,Tropical Coriano,2,0,2.000,3.250,3.250
+71322116,2026-05-10 14:00,Imolese Calcio,ASD Sasso Marconi 1924,0,0,1.800,3.300,4.200
+71467814,2026-05-17 14:00,Lentigione Calcio,Piacenza Calcio 1919,0,2,,,
+73629218,2026-09-06 13:00,Pro Patria Busto Arsizio,Oltrepo FBC,2,1,,,
+73629220,2026-09-06 13:00,USD Casatese Merate,GS Arconatese 1926,2,1,,,
+73629222,2026-09-06 13:00,USD Castellanzese 1921,US Citta Di Pontedera,3,1,,,
+73629224,2026-09-06 13:00,Correggese Calcio 1948,ASD Sant'Angelo,1,1,2.050,3.100,3.200
+73629226,2026-09-06 13:00,Pavia Calcio 1911,AC Crema 1908,0,0,2.100,3.100,3.200
+73629228,2026-09-06 13:00,Pistoiese FC,Asd Solbiatese Calcio 1911,2,0,,,
+73629230,2026-09-06 13:00,Pro Sesto,Lentigione Calcio,2,3,2.625,3.000,2.450
+73629232,2026-09-06 13:00,Tropical Coriano,Varese FC,1,1,4.100,3.400,1.750
+73629240,2026-09-12 13:00,Cittadella Vis Modena,Tropical Coriano,1,0,1.533,3.500,5.500
+73629250,2026-09-12 16:00,Asd Solbiatese Calcio 1911,USD Casatese Merate,0,0,3.500,3.300,1.900
+73629242,2026-09-13 13:00,AC Crema 1908,Pistoiese FC,0,3,5.000,3.500,1.600
+73629248,2026-09-13 13:00,ASD Sant'Angelo,ASD Varesina Calcio,1,1,2.625,3.100,2.400
+73629254,2026-09-16 13:00,Pro Patria Busto Arsizio,AC Crema 1908,2,0,1.480,3.800,5.500
+73629256,2026-09-16 13:00,USD Casatese Merate,ASD Sant'Angelo,1,2,1.571,3.600,5.000
+73629258,2026-09-16 13:00,USD Castellanzese 1921,Oltrepo FBC,0,1,2.200,3.100,3.000
+73629262,2026-09-16 13:00,Correggese Calcio 1948,ASD Varesina Calcio,2,1,2.500,2.900,2.750
+73629266,2026-09-16 13:00,Pistoiese FC,GS Arconatese 1926,5,0,1.363,4.333,6.250
+73629270,2026-09-16 13:00,Tropical Coriano,Lentigione Calcio,1,2,5.750,3.400,1.550
+73629260,2026-09-16 14:00,Cittadella Vis Modena,Varese FC,0,0,2.100,3.100,3.200
+73629264,2026-09-16 16:00,Pavia Calcio 1911,Asd Solbiatese Calcio 1911,0,0,1.850,3.300,3.750
+73629268,2026-09-16 16:30,Pro Sesto,US Citta Di Pontedera,3,0,1.850,3.200,3.800
+73629274,2026-09-20 13:00,US Citta Di Pontedera,Varese FC,0,3,2.750,3.300,2.200
+73629276,2026-09-20 13:00,Correggese Calcio 1948,USD Casatese Merate,1,3,2.600,3.100,2.500
+73629278,2026-09-20 13:00,AC Crema 1908,Pro Sesto,0,3,3.500,3.200,1.950
+73629280,2026-09-20 13:00,Lentigione Calcio,Cittadella Vis Modena,0,1,,,
+73629282,2026-09-20 13:00,Oltrepo FBC,Tropical Coriano,0,1,1.727,3.400,4.200
+73629284,2026-09-20 13:00,ASD Sant'Angelo,Pavia Calcio 1911,0,0,,,
+73629286,2026-09-20 13:00,Asd Solbiatese Calcio 1911,USD Castellanzese 1921,1,4,,,
+73629288,2026-09-20 13:00,ASD Varesina Calcio,Pistoiese FC,0,1,,,
+73629290,2026-09-27 13:00,Pro Patria Busto Arsizio,Asd Solbiatese Calcio 1911,0,1,1.333,4.500,7.000
+73629292,2026-09-27 13:00,USD Casatese Merate,ASD Varesina Calcio,2,2,,,
+73629294,2026-09-27 13:00,USD Castellanzese 1921,AC Crema 1908,4,0,1.700,3.400,4.200
+73629296,2026-09-27 13:00,Cittadella Vis Modena,Correggese Calcio 1948,0,1,1.666,3.400,4.333
+73629298,2026-09-27 13:00,Pavia Calcio 1911,GS Arconatese 1926,1,1,1.750,3.200,4.200
+73629300,2026-09-27 13:00,Pistoiese FC,ASD Sant'Angelo,3,0,1.300,4.500,8.500
+73629302,2026-09-27 13:00,Pro Sesto,Oltrepo FBC,6,1,1.571,3.750,4.750
+73629306,2026-09-27 13:00,Varese FC,Lentigione Calcio,1,1,3.200,3.100,2.100
+73629308,2026-10-04 13:00,GS Arconatese 1926,Pro Sesto,1,1,,,
+73629310,2026-10-04 13:00,USD Casatese Merate,Pistoiese FC,0,3,4.000,3.400,1.750
+73629312,2026-10-04 13:00,US Citta Di Pontedera,Cittadella Vis Modena,0,3,,,
+73629314,2026-10-04 13:00,Correggese Calcio 1948,Pavia Calcio 1911,2,1,2.350,3.100,2.750
+73629316,2026-10-04 13:00,AC Crema 1908,Varese FC,2,1,,,
+73629318,2026-10-04 13:00,Oltrepo FBC,Lentigione Calcio,1,2,,,
+73629320,2026-10-04 13:00,ASD Sant'Angelo,USD Castellanzese 1921,1,2,,,
+73629326,2026-10-11 13:00,Pro Patria Busto Arsizio,ASD Sant'Angelo,1,0,,,
+73629328,2026-10-11 13:00,USD Castellanzese 1921,GS Arconatese 1926,1,0,1.571,3.700,5.000
+73629330,2026-10-11 13:00,Cittadella Vis Modena,USD Casatese Merate,0,1,2.100,3.100,3.100
+73629332,2026-10-11 13:00,Lentigione Calcio,US Citta Di Pontedera,2,0,1.363,4.333,7.000
+73629334,2026-10-11 13:00,Pavia Calcio 1911,ASD Varesina Calcio,2,2,2.000,3.100,3.400
+73629336,2026-10-11 13:00,Pistoiese FC,Correggese Calcio 1948,1,0,1.181,5.500,13.000
+73629338,2026-10-11 13:00,Pro Sesto,Asd Solbiatese Calcio 1911,1,1,1.400,4.000,6.500
+73629342,2026-10-11 13:00,Varese FC,Oltrepo FBC,2,0,,,
+73629340,2026-10-11 14:00,Tropical Coriano,AC Crema 1908,0,0,1.650,3.500,4.500
+75044048,2026-10-14 13:00,Tropical Coriano,US Citta Di Pontedera,1,2,1.900,3.200,3.700
+73629358,2026-10-17 13:00,Asd Solbiatese Calcio 1911,Lentigione Calcio,2,2,,,
+73629344,2026-10-18 13:00,GS Arconatese 1926,Varese FC,1,5,3.250,3.000,2.100
+73629346,2026-10-18 13:00,USD Casatese Merate,Pro Patria Busto Arsizio,1,2,2.600,3.000,2.500
+73629348,2026-10-18 13:00,Correggese Calcio 1948,USD Castellanzese 1921,0,2,2.250,3.100,2.800
+73629350,2026-10-18 13:00,AC Crema 1908,US Citta Di Pontedera,4,1,,,
+73629352,2026-10-18 13:00,Oltrepo FBC,Cittadella Vis Modena,0,0,,,
+73629354,2026-10-18 13:00,Pistoiese FC,Pavia Calcio 1911,1,0,1.300,4.333,10.000
+73629356,2026-10-18 13:00,ASD Sant'Angelo,Tropical Coriano,2,0,,,
+73629360,2026-10-18 13:00,ASD Varesina Calcio,Pro Sesto,0,0,4.100,3.500,1.727
+75239516,2026-10-21 13:00,Asd Solbiatese Calcio 1911,Tropical Coriano,2,1,1.909,3.200,3.700
+73629362,2026-10-25 13:30,Pro Patria Busto Arsizio,Correggese Calcio 1948,1,1,1.571,3.600,5.000
+73629364,2026-10-25 13:30,USD Castellanzese 1921,ASD Varesina Calcio,1,1,1.600,3.750,4.500
+73629366,2026-10-25 13:30,US Citta Di Pontedera,Oltrepo FBC,1,1,2.000,3.300,3.250
+73629368,2026-10-25 13:30,Cittadella Vis Modena,Pistoiese FC,2,1,4.000,3.300,1.800
+73629370,2026-10-25 13:30,Lentigione Calcio,AC Crema 1908,1,1,1.444,3.900,6.000
+73629372,2026-10-25 13:30,Pavia Calcio 1911,USD Casatese Merate,3,1,2.600,3.000,2.500
+73629374,2026-10-25 13:30,Pro Sesto,ASD Sant'Angelo,1,2,,,
+73629376,2026-10-25 13:30,Tropical Coriano,GS Arconatese 1926,1,2,1.850,3.200,3.700
+73629378,2026-10-25 13:30,Varese FC,Asd Solbiatese Calcio 1911,0,0,,,
+73629380,2026-11-01 13:30,GS Arconatese 1926,US Citta Di Pontedera,3,4,,,
+73629382,2026-11-01 13:30,USD Casatese Merate,Pro Sesto,1,0,2.450,3.250,2.500
+73629384,2026-11-01 13:30,Correggese Calcio 1948,Tropical Coriano,2,2,1.833,3.200,3.900
+73629386,2026-11-01 13:30,AC Crema 1908,Cittadella Vis Modena,2,1,,,
+73629388,2026-11-01 13:30,Pavia Calcio 1911,Pro Patria Busto Arsizio,1,0,,,
+73629390,2026-11-01 13:30,Pistoiese FC,USD Castellanzese 1921,4,2,1.480,4.000,5.500
+73629392,2026-11-01 13:30,ASD Sant'Angelo,Lentigione Calcio,0,2,,,
+73629394,2026-11-01 13:30,Asd Solbiatese Calcio 1911,Oltrepo FBC,4,0,1.909,3.200,3.600
+73629396,2026-11-01 13:30,ASD Varesina Calcio,Varese FC,3,1,2.400,3.100,2.625
+73629398,2026-11-08 13:30,Pro Patria Busto Arsizio,Pistoiese FC,0,0,2.800,2.900,2.200
+73629400,2026-11-08 13:30,USD Castellanzese 1921,USD Casatese Merate,0,1,,,
+73629402,2026-11-08 13:30,US Citta Di Pontedera,Asd Solbiatese Calcio 1911,0,1,2.625,3.300,2.350
+73629404,2026-11-08 13:30,Cittadella Vis Modena,Pavia Calcio 1911,2,1,2.000,3.100,3.300
+73629406,2026-11-08 13:30,Lentigione Calcio,GS Arconatese 1926,2,1,,,
+73629408,2026-11-08 13:30,Oltrepo FBC,AC Crema 1908,0,2,,,
+73629410,2026-11-08 13:30,Pro Sesto,Correggese Calcio 1948,4,2,1.550,3.700,5.000
+73629412,2026-11-08 13:30,Tropical Coriano,ASD Varesina Calcio,2,1,,,
+73629414,2026-11-08 13:30,Varese FC,ASD Sant'Angelo,2,2,1.950,3.300,3.300

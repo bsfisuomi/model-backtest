@@ -1,37 +1,1347 @@
 {
-  "_note": "ha = fixed home advantage (logit) from last season, taken from the Excel model. tid = SportsAPI Pro / SofaScore uniqueTournament id. season ids are discovered at run time (newest = current, next = previous) unless overridden with current_season / previous_season.",
-  "leagues": {
-    "poland-2":        {"name": "Poland II liga",          "tid": 515,   "ha": 0.3421},
-    "poland-3-g1":     {"name": "Poland III liga Group 1", "tid": 11316, "ha": 0.3421},
-    "poland-3-g2":     {"name": "Poland III liga Group 2", "tid": 11317, "ha": 0.3421},
-    "poland-3-g3":     {"name": "Poland III liga Group 3", "tid": 11315, "ha": 0.3421},
-    "poland-3-g4":     {"name": "Poland III liga Group 4", "tid": 11318, "ha": 0.3421},
-    "korea-k2":        {"name": "South Korea K League 2",  "tid": 777,   "ha": 0.1886},
-    "japan-j1":        {"name": "Japan J1 League",         "tid": 196,   "ha": 0.2188},
-    "latvia-virsliga": {"name": "Latvia Virsliga",         "tid": 197,   "ha": 0.1879},
-    "denmark-3":       {"name": "Denmark 3. Division",     "tid": 17072, "ha": 0.2611},
-    "czech-cfl":       {"name": "Czech CFL (Group A + B)", "tid": 9387,  "ha": 0.3421},
-    "czech-msfl":      {"name": "Czech MSFL",              "tid": 9386,  "ha": 0.4274},
-    "saudi-pro":       {"name": "Saudi Pro League",        "tid": 955,   "ha": 0.2375},
-    "sweden-ettan-n":  {"name": "Sweden Ettan Norra",      "tid": 67,    "ha": 0.315},
-    "sweden-ettan-s":  {"name": "Sweden Ettan Södra",      "tid": 68,    "ha": 0.315},
-    "peru-liga-1":     {"name": "Peru Liga 1",             "tid": 406,   "ha": 0.82}
+ "_note": "Leagues are Odds-API.io slugs. ha = fixed home advantage (logit). Excel leagues keep the Excel value; for the rest ha is estimated from last season's bet365 closing 1X2 (see collect.py) and written back here as ha_est.",
+ "leagues": {
+  "albania-kategoria-e-pare": {
+   "name": "Albania - Kategoria e Pare",
+   "ha": null,
+   "bet365_last_window": 5
   },
-  "model": {
-    "rating_min_matches": 10,
-    "rating_max_matches": 20,
-    "goals_matches": 20,
-    "tg_a": 3.2811119045911443,
-    "tg_b": 0.00883348294300611,
-    "tg_norm": 3.6247,
-    "team_a": -0.3104,
-    "team_b": 1.1921,
-    "team_norm": 2.75
+  "albania-kategoria-superiore": {
+   "name": "Albania - Kategoria Superiore",
+   "ha": null,
+   "bet365_last_window": 5
   },
-  "betting": {
-    "min_ev": 0.10,
-    "stake": 1,
-    "ah_lines": [-3.0, 3.0, 0.25],
-    "total_lines": [0.5, 6.0, 0.25]
+  "andorra-primera-divisio": {
+   "name": "Andorra - Primera Divisio",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "andorra-segona-divisio": {
+   "name": "Andorra - Segona Divisio",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "armenia-premier-league": {
+   "name": "Armenia - Premier League",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "austria-2-liga": {
+   "name": "Austria - 2. Liga",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "austria-amateur-burgenlandliga": {
+   "name": "Austria Amateur - Burgenlandliga",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "austria-amateur-niederosterreich-1-landesliga": {
+   "name": "Austria Amateur - Niederosterreich, 1. Landesliga",
+   "ha": null,
+   "bet365_last_window": 1
+  },
+  "austria-amateur-regionalliga-west": {
+   "name": "Austria Amateur - Regionalliga West",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "austria-amateur-wiener-stadtliga": {
+   "name": "Austria Amateur - Wiener Stadtliga",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "austria-bundesliga": {
+   "name": "Austria - Bundesliga",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "azerbaijan-1-liga": {
+   "name": "Azerbaijan - 1. Liga",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "azerbaijan-premier-league": {
+   "name": "Azerbaijan - Premier League",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "belgium-2nd-amateur-division-acff": {
+   "name": "Belgium - 2nd Amateur Division ACFF",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "belgium-2nd-amateur-division-vv-b": {
+   "name": "Belgium - 2nd Amateur Division VV B",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "belgium-challenger-pro-league": {
+   "name": "Belgium - Challenger Pro League",
+   "ha": null,
+   "bet365_last_window": 9
+  },
+  "belgium-first-division-a": {
+   "name": "Belgium - First Division A",
+   "ha": null,
+   "bet365_last_window": 10
+  },
+  "belgium-nationale-1-ffa": {
+   "name": "Belgium - Nationale 1 FFA",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "belgium-nationale-1-vv": {
+   "name": "Belgium - Nationale 1 VV",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "belgium-superleague-women": {
+   "name": "Belgium - Superleague, Women",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "bosnia-and-herzegovina-premijer-liga": {
+   "name": "Bosnia and Herzegovina - Premijer Liga",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "bosnia-and-herzegovina-prva-liga-federacije-bih": {
+   "name": "Bosnia and Herzegovina - Prva Liga, Federacije BiH",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "bosnia-and-herzegovina-prva-liga-republic-of-srpska": {
+   "name": "Bosnia and Herzegovina - Prva Liga, Republic of Srpska",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "bulgaria-parva-liga": {
+   "name": "Bulgaria - Parva Liga",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "bulgaria-vtora-liga": {
+   "name": "Bulgaria - Vtora Liga",
+   "ha": null,
+   "bet365_last_window": 9
+  },
+  "croatia-3-nl": {
+   "name": "Croatia - 3. NL",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "croatia-druga-nl": {
+   "name": "Croatia - Druga NL",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "croatia-hnl": {
+   "name": "Croatia - HNL",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "croatia-prva-nl": {
+   "name": "Croatia - Prva NL",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "cyprus-1st-division": {
+   "name": "Cyprus - 1st Division",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "cyprus-2nd-division": {
+   "name": "Cyprus - 2nd Division",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "cyprus-3rd-division": {
+   "name": "Cyprus - 3rd Division",
+   "ha": null,
+   "bet365_last_window": 1
+  },
+  "czechia-1-liga": {
+   "name": "Czechia - 1. Liga",
+   "ha": null,
+   "bet365_last_window": 9
+  },
+  "czechia-1-liga-women": {
+   "name": "Czechia - 1. Liga, Women",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "czechia-cfl-group-a": {
+   "name": "Czechia - CFL, Group A",
+   "ha": 0.3421,
+   "ha_source": "excel",
+   "bet365_last_window": 8
+  },
+  "czechia-cfl-group-b": {
+   "name": "Czechia - CFL, Group B",
+   "ha": 0.3421,
+   "ha_source": "excel",
+   "bet365_last_window": 8
+  },
+  "czechia-divize-a": {
+   "name": "Czechia - Divize A",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "czechia-divize-b": {
+   "name": "Czechia - Divize B",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "czechia-divize-c": {
+   "name": "Czechia - Divize C",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "czechia-divize-d": {
+   "name": "Czechia - Divize D",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "czechia-divize-e": {
+   "name": "Czechia - Divize E",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "czechia-divize-f": {
+   "name": "Czechia - Divize F",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "czechia-fnl": {
+   "name": "Czechia - FNL",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "czechia-msfl": {
+   "name": "Czechia - MSFL",
+   "ha": 0.4274,
+   "ha_source": "excel",
+   "bet365_last_window": 9
+  },
+  "denmark-1st-division": {
+   "name": "Denmark - 1st Division",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "denmark-2nd-division": {
+   "name": "Denmark - 2nd Division",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "denmark-3rd-division": {
+   "name": "Denmark - 3rd Division",
+   "ha": 0.2611,
+   "ha_source": "excel",
+   "bet365_last_window": 6
+  },
+  "denmark-a-liga-women": {
+   "name": "Denmark - A Liga, Women",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "denmark-b-liga-women": {
+   "name": "Denmark - B Liga, Women",
+   "ha": null,
+   "bet365_last_window": 1
+  },
+  "denmark-superligaen": {
+   "name": "Denmark - Superligaen",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "england-amateur-isthmian-league-division-one-north": {
+   "name": "England Amateur - Isthmian League, Division One North",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "england-amateur-isthmian-league-division-one-south-central": {
+   "name": "England Amateur - Isthmian League, Division One South Central",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "england-amateur-isthmian-league-premier-division": {
+   "name": "England Amateur - Isthmian League, Premier Division",
+   "ha": null,
+   "bet365_last_window": 19
+  },
+  "england-amateur-national-league-north": {
+   "name": "England Amateur - National League North",
+   "ha": null,
+   "bet365_last_window": 11
+  },
+  "england-amateur-national-league-south": {
+   "name": "England Amateur - National League South",
+   "ha": null,
+   "bet365_last_window": 14
+  },
+  "england-amateur-national-league-women": {
+   "name": "England Amateur - National League, Women",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "england-amateur-northern-premier-league-division-one-east": {
+   "name": "England Amateur - Northern Premier League, Division One East",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "england-amateur-northern-premier-league-division-one-midlands": {
+   "name": "England Amateur - Northern Premier League, Division One Midlands",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "england-amateur-northern-premier-league-division-one-west": {
+   "name": "England Amateur - Northern Premier League, Division One West",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "england-amateur-northern-premier-league-premier-division": {
+   "name": "England Amateur - Northern Premier League, Premier Division",
+   "ha": null,
+   "bet365_last_window": 19
+  },
+  "england-amateur-southern-league-division-one-central": {
+   "name": "England Amateur - Southern League, Division One Central",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "england-amateur-southern-league-division-one-south": {
+   "name": "England Amateur - Southern League, Division One South",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "england-amateur-southern-league-premier-division-central": {
+   "name": "England Amateur - Southern League, Premier Division Central",
+   "ha": null,
+   "bet365_last_window": 21
+  },
+  "england-amateur-southern-league-premier-division-south": {
+   "name": "England Amateur - Southern League, Premier Division South",
+   "ha": null,
+   "bet365_last_window": 17
+  },
+  "england-amateur-super-league-2-women": {
+   "name": "England Amateur - Super League 2, Women",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "england-amateur-super-league-women": {
+   "name": "England Amateur - Super League, Women",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "england-championship": {
+   "name": "England - Championship",
+   "ha": null,
+   "bet365_last_window": 24
+  },
+  "england-league-one": {
+   "name": "England - League One",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "england-league-two": {
+   "name": "England - League Two",
+   "ha": null,
+   "bet365_last_window": 1
+  },
+  "england-premier-league": {
+   "name": "England - Premier League",
+   "ha": null,
+   "bet365_last_window": 10
+  },
+  "france-ligue-1": {
+   "name": "France - Ligue 1",
+   "ha": null,
+   "bet365_last_window": 9
+  },
+  "france-ligue-2": {
+   "name": "France - Ligue 2",
+   "ha": null,
+   "bet365_last_window": 9
+  },
+  "france-ligue-3": {
+   "name": "France - Ligue 3",
+   "ha": null,
+   "bet365_last_window": 9
+  },
+  "france-national-1-group-a": {
+   "name": "France - National 1, Group A",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "france-national-1-group-b": {
+   "name": "France - National 1, Group B",
+   "ha": null,
+   "bet365_last_window": 1
+  },
+  "france-national-1-group-c": {
+   "name": "France - National 1, Group C",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "france-premiere-ligue-women": {
+   "name": "France - Premiere Ligue, Women",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "france-seconde-ligue-women": {
+   "name": "France - Seconde Ligue, Women",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "georgia-erovnuli-liga": {
+   "name": "Georgia - Erovnuli Liga",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "georgia-erovnuli-liga-2": {
+   "name": "Georgia - Erovnuli Liga 2",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "germany-2-bundesliga": {
+   "name": "Germany - 2. Bundesliga",
+   "ha": null,
+   "bet365_last_window": 9
+  },
+  "germany-3-liga": {
+   "name": "Germany - 3. Liga",
+   "ha": null,
+   "bet365_last_window": 10
+  },
+  "germany-amateur-bundesliga-women": {
+   "name": "Germany Amateur - Bundesliga, Women",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "germany-amateur-regionalliga-northeast": {
+   "name": "Germany Amateur - Regionalliga Northeast",
+   "ha": null,
+   "bet365_last_window": 1
+  },
+  "germany-bundesliga": {
+   "name": "Germany - Bundesliga",
+   "ha": null,
+   "bet365_last_window": 9
+  },
+  "greece-1-division-women": {
+   "name": "Greece - 1. Division, Women",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "greece-gamma-ethniki-group-1": {
+   "name": "Greece - Gamma Ethniki, Group 1",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "greece-gamma-ethniki-group-10": {
+   "name": "Greece - Gamma Ethniki, Group 10",
+   "ha": null,
+   "bet365_last_window": 1
+  },
+  "greece-gamma-ethniki-group-2": {
+   "name": "Greece - Gamma Ethniki, Group 2",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "greece-gamma-ethniki-group-3": {
+   "name": "Greece - Gamma Ethniki, Group 3",
+   "ha": null,
+   "bet365_last_window": 1
+  },
+  "greece-gamma-ethniki-group-4": {
+   "name": "Greece - Gamma Ethniki, Group 4",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "greece-gamma-ethniki-group-5": {
+   "name": "Greece - Gamma Ethniki, Group 5",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "greece-gamma-ethniki-group-6": {
+   "name": "Greece - Gamma Ethniki, Group 6",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "greece-gamma-ethniki-group-7": {
+   "name": "Greece - Gamma Ethniki, Group 7",
+   "ha": null,
+   "bet365_last_window": 1
+  },
+  "greece-gamma-ethniki-group-8": {
+   "name": "Greece - Gamma Ethniki, Group 8",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "greece-gamma-ethniki-group-9": {
+   "name": "Greece - Gamma Ethniki, Group 9",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "greece-super-league": {
+   "name": "Greece - Super League",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "greece-super-league-2": {
+   "name": "Greece - Super League 2",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "hungary-nb-i": {
+   "name": "Hungary - NB I",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "hungary-nb-i-women": {
+   "name": "Hungary - NB I, Women",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "hungary-nb-ii": {
+   "name": "Hungary - NB II",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "hungary-nb-iii-group-north-east": {
+   "name": "Hungary - NB III, Group North East",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "hungary-nb-iii-group-north-west": {
+   "name": "Hungary - NB III, Group North West",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "hungary-nb-iii-group-south-east": {
+   "name": "Hungary - NB III, Group South East",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "hungary-nb-iii-group-south-west": {
+   "name": "Hungary - NB III, Group South West",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "ireland-leinster-senior-league": {
+   "name": "Ireland - Leinster Senior League",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "israel-liga-al-women": {
+   "name": "Israel - Liga Al, Women",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "israel-liga-alef-north": {
+   "name": "Israel - Liga Alef North",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "israel-liga-alef-south": {
+   "name": "Israel - Liga Alef South",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "israel-national-league": {
+   "name": "Israel - National League",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "israel-premier-league": {
+   "name": "Israel - Premier League",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "italy-eccellenza": {
+   "name": "Italy - Eccellenza",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "italy-primavera-2-girone-a": {
+   "name": "Italy - Primavera 2, Girone A",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "italy-primavera-2-girone-b": {
+   "name": "Italy - Primavera 2, Girone B",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "italy-serie-a": {
+   "name": "Italy - Serie A",
+   "ha": null,
+   "bet365_last_window": 10
+  },
+  "italy-serie-a-women": {
+   "name": "Italy - Serie A, Women",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "italy-serie-b": {
+   "name": "Italy - Serie B",
+   "ha": null,
+   "bet365_last_window": 10
+  },
+  "italy-serie-b-women": {
+   "name": "Italy - Serie B, Women",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "italy-serie-c-group-a": {
+   "name": "Italy - Serie C, Group A",
+   "ha": null,
+   "bet365_last_window": 10
+  },
+  "italy-serie-c-group-b": {
+   "name": "Italy - Serie C, Group B",
+   "ha": null,
+   "bet365_last_window": 10
+  },
+  "italy-serie-c-group-c": {
+   "name": "Italy - Serie C, Group C",
+   "ha": null,
+   "bet365_last_window": 10
+  },
+  "italy-serie-d-group-a": {
+   "name": "Italy - Serie D, Group A",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "italy-serie-d-group-b": {
+   "name": "Italy - Serie D, Group B",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "italy-serie-d-group-c": {
+   "name": "Italy - Serie D, Group C",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "italy-serie-d-group-d": {
+   "name": "Italy - Serie D, Group D",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "italy-serie-d-group-e": {
+   "name": "Italy - Serie D, Group E",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "italy-serie-d-group-f": {
+   "name": "Italy - Serie D, Group F",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "italy-serie-d-group-g": {
+   "name": "Italy - Serie D, Group G",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "italy-serie-d-group-h": {
+   "name": "Italy - Serie D, Group H",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "italy-serie-d-group-i": {
+   "name": "Italy - Serie D, Group I",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "japan-jleague": {
+   "name": "Japan - J.League",
+   "ha": 0.2188,
+   "ha_source": "excel",
+   "bet365_last_window": 0
+  },
+  "kosovo-first-league": {
+   "name": "Kosovo - First League",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "kosovo-superliga": {
+   "name": "Kosovo - Superliga",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "latvia-virsliga": {
+   "name": "latvia-virsliga",
+   "ha": 0.1879,
+   "ha_source": "excel",
+   "bet365_last_window": 0
+  },
+  "malta-challenge-league": {
+   "name": "Malta - Challenge League",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "malta-league-women": {
+   "name": "Malta - League Women",
+   "ha": null,
+   "bet365_last_window": 1
+  },
+  "malta-premier-league-opening-bottom-6": {
+   "name": "Malta - Premier League, Opening Bottom 6",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "malta-premier-league-opening-top-6": {
+   "name": "Malta - Premier League, Opening Top 6",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "moldova-super-liga": {
+   "name": "Moldova - Super Liga",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "montenegro-1-cfl": {
+   "name": "Montenegro - 1. CFL",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "montenegro-2-cfl": {
+   "name": "Montenegro - 2. CFL",
+   "ha": null,
+   "bet365_last_window": 1
+  },
+  "netherlands-derde-divisie-group-a": {
+   "name": "Netherlands - Derde Divisie, Group A",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "netherlands-derde-divisie-group-b": {
+   "name": "Netherlands - Derde Divisie, Group B",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "netherlands-eerste-divisie": {
+   "name": "Netherlands - Eerste Divisie",
+   "ha": null,
+   "bet365_last_window": 9
+  },
+  "netherlands-eredivisie": {
+   "name": "Netherlands - Eredivisie",
+   "ha": null,
+   "bet365_last_window": 9
+  },
+  "netherlands-tweede-divisie": {
+   "name": "Netherlands - Tweede Divisie",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "north-macedonia-1-mfl": {
+   "name": "North Macedonia - 1. MFL",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "north-macedonia-2-mfl": {
+   "name": "North Macedonia - 2. MFL",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "northern-ireland-championship-1": {
+   "name": "Northern Ireland - Championship 1",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "northern-ireland-premier-intermediate-league": {
+   "name": "Northern Ireland - Premier Intermediate League",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "northern-ireland-premiership": {
+   "name": "Northern Ireland - Premiership",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "norway-eliteserien": {
+   "name": "Norway - Eliteserien",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "peru-primera-division-clausura": {
+   "name": "Peru - Primera Division, Clausura",
+   "ha": 0.82,
+   "ha_source": "excel",
+   "bet365_last_window": 0
+  },
+  "poland-1-liga": {
+   "name": "Poland - 1. Liga",
+   "ha": null,
+   "bet365_last_window": 11
+  },
+  "poland-1-liga-women": {
+   "name": "Poland - 1. Liga, Women",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "poland-ekstraklasa": {
+   "name": "Poland - Ekstraklasa",
+   "ha": null,
+   "bet365_last_window": 9
+  },
+  "poland-ekstraliga-women": {
+   "name": "Poland - Ekstraliga, Women",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "poland-ii-liga": {
+   "name": "Poland - II Liga",
+   "ha": 0.3421,
+   "ha_source": "excel",
+   "bet365_last_window": 9
+  },
+  "poland-iii-liga-group-1": {
+   "name": "Poland - III Liga, Group 1",
+   "ha": 0.3421,
+   "ha_source": "excel",
+   "bet365_last_window": 6
+  },
+  "poland-iii-liga-group-2": {
+   "name": "Poland - III Liga, Group 2",
+   "ha": 0.3421,
+   "ha_source": "excel",
+   "bet365_last_window": 8
+  },
+  "poland-iii-liga-group-3": {
+   "name": "Poland - III Liga, Group 3",
+   "ha": 0.3421,
+   "ha_source": "excel",
+   "bet365_last_window": 6
+  },
+  "poland-iii-liga-group-4": {
+   "name": "Poland - III Liga, Group 4",
+   "ha": 0.3421,
+   "ha_source": "excel",
+   "bet365_last_window": 2
+  },
+  "poland-iv-liga": {
+   "name": "Poland - IV Liga",
+   "ha": null,
+   "bet365_last_window": 18
+  },
+  "portugal-campeonato-de-portugal-group-a": {
+   "name": "Portugal - Campeonato de Portugal, Group A",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "portugal-campeonato-de-portugal-group-b": {
+   "name": "Portugal - Campeonato de Portugal, Group B",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "portugal-campeonato-de-portugal-group-c": {
+   "name": "Portugal - Campeonato de Portugal, Group C",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "portugal-campeonato-de-portugal-group-d": {
+   "name": "Portugal - Campeonato de Portugal, Group D",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "portugal-campeonato-nacional-women": {
+   "name": "Portugal - Campeonato Nacional, Women",
+   "ha": null,
+   "bet365_last_window": 1
+  },
+  "portugal-ii-divisao-women-gr-north": {
+   "name": "Portugal - II Divisao, Women, Gr. North",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "portugal-ii-divisao-women-gr-south": {
+   "name": "Portugal - II Divisao, Women, Gr. South",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "portugal-liga-3-group-a": {
+   "name": "Portugal - Liga 3, Group A",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "portugal-liga-3-group-b": {
+   "name": "Portugal - Liga 3, Group B",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "portugal-liga-portugal": {
+   "name": "Portugal - Liga Portugal",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "portugal-liga-portugal-2": {
+   "name": "Portugal - Liga Portugal 2",
+   "ha": null,
+   "bet365_last_window": 9
+  },
+  "republic-of-korea-k-league-2": {
+   "name": "Republic of Korea - K-League 2",
+   "ha": 0.1886,
+   "ha_source": "excel",
+   "bet365_last_window": 0
+  },
+  "romania-liga-2": {
+   "name": "Romania - Liga 2",
+   "ha": null,
+   "bet365_last_window": 10
+  },
+  "romania-liga-iii-seria-1": {
+   "name": "Romania - Liga III, Seria 1",
+   "ha": null,
+   "bet365_last_window": 1
+  },
+  "romania-liga-iii-seria-2": {
+   "name": "Romania - Liga III, Seria 2",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "romania-liga-iii-seria-3": {
+   "name": "Romania - Liga III, Seria 3",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "romania-liga-iii-seria-4": {
+   "name": "Romania - Liga III, Seria 4",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "romania-liga-iii-seria-5": {
+   "name": "Romania - Liga III, Seria 5",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "romania-liga-iii-seria-6": {
+   "name": "Romania - Liga III, Seria 6",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "romania-liga-iii-seria-7": {
+   "name": "Romania - Liga III, Seria 7",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "romania-liga-iii-seria-8": {
+   "name": "Romania - Liga III, Seria 8",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "romania-superliga": {
+   "name": "Romania - Superliga",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "romania-superliga-women": {
+   "name": "Romania - Superliga, Women",
+   "ha": null,
+   "bet365_last_window": 1
+  },
+  "san-marino-campionato-sammarinese": {
+   "name": "San Marino - Campionato Sammarinese",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "saudi-arabia-saudi-professional-league": {
+   "name": "Saudi Arabia - Saudi Professional League",
+   "ha": 0.2375,
+   "ha_source": "excel",
+   "bet365_last_window": 0
+  },
+  "scotland-championship": {
+   "name": "Scotland - Championship",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "scotland-league-one": {
+   "name": "Scotland - League One",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "scotland-league-two": {
+   "name": "Scotland - League Two",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "scotland-lowland-league": {
+   "name": "Scotland - Lowland League",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "scotland-premier-league-1-women": {
+   "name": "Scotland - Premier League 1, Women",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "scotland-premier-league-2-women": {
+   "name": "Scotland - Premier League 2, Women",
+   "ha": null,
+   "bet365_last_window": 1
+  },
+  "scotland-premiership": {
+   "name": "Scotland - Premiership",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "serbia-prva-liga": {
+   "name": "Serbia - Prva Liga",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "serbia-super-liga": {
+   "name": "Serbia - Super Liga",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "slovakia-1-league-women": {
+   "name": "Slovakia - 1. League, Women",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "slovakia-2-liga": {
+   "name": "Slovakia - 2. Liga",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "slovakia-3-liga-west": {
+   "name": "Slovakia - 3. Liga, West",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "slovakia-superliga": {
+   "name": "Slovakia - Superliga",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "slovenia-2nd-snl": {
+   "name": "Slovenia - 2nd SNL",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "slovenia-3-snl-east": {
+   "name": "Slovenia - 3. SNL, East",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "slovenia-3-snl-west": {
+   "name": "Slovenia - 3. SNL, West",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "slovenia-prvaliga": {
+   "name": "Slovenia - PrvaLiga",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "spain-amateur-lliga-elit-catalana": {
+   "name": "Spain Amateur - Lliga Elit Catalana",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "spain-amateur-tercera-federacion-group-1": {
+   "name": "Spain Amateur - Tercera Federacion, Group 1",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "spain-amateur-tercera-federacion-group-10": {
+   "name": "Spain Amateur - Tercera Federacion, Group 10",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "spain-amateur-tercera-federacion-group-11": {
+   "name": "Spain Amateur - Tercera Federacion, Group 11",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "spain-amateur-tercera-federacion-group-12": {
+   "name": "Spain Amateur - Tercera Federacion, Group 12",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "spain-amateur-tercera-federacion-group-13": {
+   "name": "Spain Amateur - Tercera Federacion, Group 13",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "spain-amateur-tercera-federacion-group-14": {
+   "name": "Spain Amateur - Tercera Federacion, Group 14",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "spain-amateur-tercera-federacion-group-15": {
+   "name": "Spain Amateur - Tercera Federacion, Group 15",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "spain-amateur-tercera-federacion-group-16": {
+   "name": "Spain Amateur - Tercera Federacion, Group 16",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "spain-amateur-tercera-federacion-group-17": {
+   "name": "Spain Amateur - Tercera Federacion, Group 17",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "spain-amateur-tercera-federacion-group-18": {
+   "name": "Spain Amateur - Tercera Federacion, Group 18",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "spain-amateur-tercera-federacion-group-2": {
+   "name": "Spain Amateur - Tercera Federacion, Group 2",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "spain-amateur-tercera-federacion-group-3": {
+   "name": "Spain Amateur - Tercera Federacion, Group 3",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "spain-amateur-tercera-federacion-group-4": {
+   "name": "Spain Amateur - Tercera Federacion, Group 4",
+   "ha": null,
+   "bet365_last_window": 1
+  },
+  "spain-amateur-tercera-federacion-group-5": {
+   "name": "Spain Amateur - Tercera Federacion, Group 5",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "spain-amateur-tercera-federacion-group-6": {
+   "name": "Spain Amateur - Tercera Federacion, Group 6",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "spain-amateur-tercera-federacion-group-7": {
+   "name": "Spain Amateur - Tercera Federacion, Group 7",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "spain-amateur-tercera-federacion-group-8": {
+   "name": "Spain Amateur - Tercera Federacion, Group 8",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "spain-amateur-tercera-federacion-group-9": {
+   "name": "Spain Amateur - Tercera Federacion, Group 9",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "spain-division-de-honor-juvenil-grupo-i": {
+   "name": "Spain - Division de Honor Juvenil - Grupo I",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "spain-division-de-honor-juvenil-grupo-ii": {
+   "name": "Spain - Division de Honor Juvenil - Grupo II",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "spain-division-de-honor-juvenil-grupo-iii": {
+   "name": "Spain - Division de Honor Juvenil - Grupo III",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "spain-division-de-honor-juvenil-grupo-iv": {
+   "name": "Spain - Division de Honor Juvenil - Grupo IV",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "spain-division-de-honor-juvenil-grupo-v": {
+   "name": "Spain - Division de Honor Juvenil - Grupo V",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "spain-division-de-honor-juvenil-grupo-vi": {
+   "name": "Spain - Division de Honor Juvenil - Grupo VI",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "spain-division-de-honor-juvenil-grupo-vii": {
+   "name": "Spain - Division de Honor Juvenil - Grupo VII",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "spain-laliga": {
+   "name": "Spain - LaLiga",
+   "ha": null,
+   "bet365_last_window": 10
+  },
+  "spain-laliga-2": {
+   "name": "Spain - LaLiga 2",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "spain-primera-division-femenina": {
+   "name": "Spain - Primera Division Femenina",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "spain-primera-federacion-group-1": {
+   "name": "Spain - Primera Federacion, Group 1",
+   "ha": null,
+   "bet365_last_window": 10
+  },
+  "spain-primera-federacion-group-2": {
+   "name": "Spain - Primera Federacion, Group 2",
+   "ha": null,
+   "bet365_last_window": 10
+  },
+  "spain-primera-federacion-women": {
+   "name": "Spain - Primera Federacion, Women",
+   "ha": null,
+   "bet365_last_window": 4
+  },
+  "spain-segunda-federacion-group-i": {
+   "name": "Spain - Segunda Federacion, Group I",
+   "ha": null,
+   "bet365_last_window": 9
+  },
+  "spain-segunda-federacion-group-ii": {
+   "name": "Spain - Segunda Federacion, Group II",
+   "ha": null,
+   "bet365_last_window": 9
+  },
+  "spain-segunda-federacion-group-iii": {
+   "name": "Spain - Segunda Federacion, Group III",
+   "ha": null,
+   "bet365_last_window": 9
+  },
+  "spain-segunda-federacion-group-iv": {
+   "name": "Spain - Segunda Federacion, Group IV",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "spain-segunda-federacion-group-v": {
+   "name": "Spain - Segunda Federacion, Group V",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "sweden-allsvenskan": {
+   "name": "Sweden - Allsvenskan",
+   "ha": null,
+   "bet365_last_window": 9
+  },
+  "sweden-amateur-elitettan-women": {
+   "name": "Sweden Amateur - Elitettan, Women",
+   "ha": null,
+   "bet365_last_window": 3
+  },
+  "sweden-damallsvenskan-women": {
+   "name": "Sweden - Damallsvenskan, Women",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "sweden-ettan-norra": {
+   "name": "sweden-ettan-norra",
+   "ha": 0.315,
+   "ha_source": "excel",
+   "bet365_last_window": 0
+  },
+  "sweden-ettan-sodra": {
+   "name": "sweden-ettan-sodra",
+   "ha": 0.315,
+   "ha_source": "excel",
+   "bet365_last_window": 0
+  },
+  "switzerland-1-liga-group-a": {
+   "name": "Switzerland - 1. Liga, Group A",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "switzerland-1-liga-group-b": {
+   "name": "Switzerland - 1. Liga, Group B",
+   "ha": null,
+   "bet365_last_window": 1
+  },
+  "switzerland-1-liga-group-c": {
+   "name": "Switzerland - 1. Liga, Group C",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "switzerland-2-liga-interregional": {
+   "name": "Switzerland - 2. Liga Interregional",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "switzerland-challenge-league": {
+   "name": "Switzerland - Challenge League",
+   "ha": null,
+   "bet365_last_window": 5
+  },
+  "switzerland-super-league": {
+   "name": "Switzerland - Super League",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "switzerland-super-league-women": {
+   "name": "Switzerland - Super League, Women",
+   "ha": null,
+   "bet365_last_window": 2
+  },
+  "ukraine-persha-liga": {
+   "name": "Ukraine - Persha Liga",
+   "ha": null,
+   "bet365_last_window": 6
+  },
+  "ukraine-premier-league": {
+   "name": "Ukraine - Premier League",
+   "ha": null,
+   "bet365_last_window": 7
+  },
+  "wales-cymru-championship-north": {
+   "name": "Wales - Cymru Championship, North",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "wales-cymru-championship-south": {
+   "name": "Wales - Cymru Championship, South",
+   "ha": null,
+   "bet365_last_window": 8
+  },
+  "wales-cymru-premier": {
+   "name": "Wales - Cymru Premier",
+   "ha": null,
+   "bet365_last_window": 8
   }
+ },
+ "model": {
+  "rating_min_matches": 10,
+  "rating_max_matches": 20,
+  "goals_matches": 20,
+  "tg_a": 3.2811119045911443,
+  "tg_b": 0.00883348294300611,
+  "tg_norm": 3.6247,
+  "team_a": -0.3104,
+  "team_b": 1.1921,
+  "team_norm": 2.75
+ },
+ "betting": {
+  "min_ev": 0.1,
+  "stake": 1,
+  "book": "Bet365",
+  "ah_lines": [
+   -3.0,
+   3.0,
+   0.25
+  ],
+  "total_lines": [
+   0.5,
+   6.0,
+   0.25
+  ]
+ },
+ "discovered": {
+  "from": "2026-11-03",
+  "to": "2026-11-11",
+  "leagues_with_bet365": 252
+ }
 }

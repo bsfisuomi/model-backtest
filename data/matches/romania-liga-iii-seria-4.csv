@@ -1,0 +1,51 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+73927920,2026-08-28 15:00,ACS Inainte Modelu,CSA Axiopolis Sport Cernavoda,1,1,,,
+73927922,2026-08-28 15:00,AFC Dunarea 2005 Calarasi,ACS Progresul Fundulea,0,1,,,
+73927924,2026-08-28 15:00,ASC Otelul Galati II,AS FC Agricola Borcea,0,3,3.750,4.500,1.571
+73927914,2026-08-29 15:00,CS Sporting Liesti,ASC Unirea Branistea,2,1,1.615,4.000,4.000
+73927916,2026-08-29 15:00,CS Portul Constanta,CS Gloria Baneasa,5,0,,,
+73927918,2026-08-29 15:00,CS Agigea,ACS Recolta Gheorghe Doja,5,3,2.250,3.750,2.500
+74087288,2026-09-05 14:00,ACS Recolta Gheorghe Doja,ACS Inainte Modelu,1,4,,,
+74087290,2026-09-05 14:00,ACS Progresul Fundulea,ASC Otelul Galati II,4,1,,,
+74087292,2026-09-05 14:00,CSA Axiopolis Sport Cernavoda,AFC Dunarea 2005 Calarasi,3,0,4.200,4.333,1.550
+74087294,2026-09-05 14:00,CS Sporting Liesti,CS Portul Constanta,6,0,,,
+74087296,2026-09-05 14:00,ASC Unirea Branistea,AS FC Agricola Borcea,0,1,3.800,3.900,1.700
+74087298,2026-09-05 14:00,CS Gloria Baneasa,CS Agigea,1,1,,,
+74087312,2026-09-19 14:00,CS Sporting Liesti,ACS Inainte Modelu,5,4,,,
+74087314,2026-09-19 14:00,ASC Unirea Branistea,ACS Progresul Fundulea,4,2,,,
+74087316,2026-09-19 14:00,CS Portul Constanta,CS Agigea,0,1,,,
+74087318,2026-09-19 14:00,ACS Recolta Gheorghe Doja,ASC Otelul Galati II,2,1,,,
+74087320,2026-09-19 14:00,CSA Axiopolis Sport Cernavoda,AS FC Agricola Borcea,2,3,,,
+74087322,2026-09-19 14:00,CS Gloria Baneasa,AFC Dunarea 2005 Calarasi,0,2,,,
+74087328,2026-09-23 14:00,AS FC Agricola Borcea,ACS Recolta Gheorghe Doja,0,1,,,
+74087330,2026-09-23 14:00,CS Agigea,ASC Unirea Branistea,2,1,2.150,3.700,2.600
+74087332,2026-09-23 14:00,ACS Progresul Fundulea,CSA Axiopolis Sport Cernavoda,4,0,2.900,3.800,1.950
+74087334,2026-09-23 14:00,ACS Inainte Modelu,CS Portul Constanta,4,3,1.200,6.000,9.000
+74087336,2026-09-26 14:00,CS Gloria Baneasa,AS FC Agricola Borcea,1,3,,,
+74087338,2026-09-26 14:00,ACS Recolta Gheorghe Doja,ACS Progresul Fundulea,2,1,,,
+74087340,2026-09-26 14:00,CS Agigea,ACS Inainte Modelu,0,1,,,
+74087342,2026-09-26 14:00,CS Portul Constanta,AFC Dunarea 2005 Calarasi,1,2,4.333,4.000,1.571
+74087344,2026-09-26 14:00,ASC Unirea Branistea,CSA Axiopolis Sport Cernavoda,3,4,1.650,4.000,3.900
+74087346,2026-09-26 14:00,CS Sporting Liesti,ASC Otelul Galati II,6,1,,,
+74087348,2026-10-02 12:00,ASC Otelul Galati II,CS Portul Constanta,2,1,2.375,3.600,2.400
+74087350,2026-10-02 12:00,AFC Dunarea 2005 Calarasi,CS Agigea,0,0,,,
+74087352,2026-10-02 12:00,ACS Inainte Modelu,ASC Unirea Branistea,0,1,,,
+74087354,2026-10-03 12:00,ACS Progresul Fundulea,CS Gloria Baneasa,2,1,,,
+74087356,2026-10-03 12:00,AS FC Agricola Borcea,CS Sporting Liesti,5,3,,,
+74087358,2026-10-03 12:00,CSA Axiopolis Sport Cernavoda,ACS Recolta Gheorghe Doja,3,1,2.100,3.750,2.700
+74087360,2026-10-09 12:00,ACS Inainte Modelu,AFC Dunarea 2005 Calarasi,2,0,1.909,3.750,3.100
+74087374,2026-10-16 12:00,AFC Dunarea 2005 Calarasi,ASC Unirea Branistea,1,1,,,
+74087380,2026-10-16 12:00,AS FC Agricola Borcea,CS Agigea,4,0,,,
+74087372,2026-10-17 12:00,ASC Otelul Galati II,ACS Inainte Modelu,2,1,,,
+74087396,2026-10-30 13:00,ASC Otelul Galati II,ASC Unirea Branistea,0,2,4.500,4.333,1.500
+74087398,2026-10-31 13:00,ACS Recolta Gheorghe Doja,CS Portul Constanta,1,1,,,
+74087400,2026-10-31 13:00,ACS Progresul Fundulea,ACS Inainte Modelu,4,0,2.250,3.600,2.550
+74087402,2026-10-31 13:00,AS FC Agricola Borcea,AFC Dunarea 2005 Calarasi,0,0,,,
+74087404,2026-10-31 13:00,CSA Axiopolis Sport Cernavoda,CS Agigea,1,2,,,
+74087406,2026-10-31 13:00,CS Gloria Baneasa,CS Sporting Liesti,1,5,,,
+74087408,2026-11-07 12:00,AS FC Agricola Borcea,ASC Otelul Galati II,3,0,1.090,10.000,17.000
+74087410,2026-11-07 12:00,CS Gloria Baneasa,CS Portul Constanta,1,1,,,
+74087412,2026-11-07 12:00,ACS Recolta Gheorghe Doja,CS Agigea,2,4,2.250,3.800,2.450
+74087414,2026-11-07 12:00,ASC Unirea Branistea,CS Sporting Liesti,3,2,2.300,3.800,2.400
+74087416,2026-11-07 12:00,ACS Progresul Fundulea,AFC Dunarea 2005 Calarasi,1,1,,,
+74087418,2026-11-07 12:00,CSA Axiopolis Sport Cernavoda,ACS Inainte Modelu,2,5,,,

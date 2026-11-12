@@ -1,0 +1,321 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+61790746,2025-08-29 18:30,KVV Thes Sport Tessenderlo,KFC Dessel Sport,1,1,,,
+61790750,2025-08-29 18:30,Oud Heverlee Leuven B,Jong Cercle,0,0,,,
+61790742,2025-08-30 16:30,K. Lyra-Lierse,KSV Roeselare,0,0,,,
+61790738,2025-08-30 18:00,Hoogstraten VV,Koninklijk Diegem-Sport,3,2,,,
+61790740,2025-08-30 18:00,KVC Houtvenne,KVK Ninove,3,3,,,
+61790748,2025-08-30 18:00,KFC Merelbeke,Belisia Bilzen SV,0,1,,,
+61790752,2025-08-31 13:00,Royal Knokke FC,KVV Zelzate,1,3,,,
+61791138,2025-08-31 13:00,KVK Tienen,Sporting Hasselt,0,2,,,
+61790768,2025-09-06 18:00,KVV Zelzate,Sporting Hasselt,0,2,,,
+61790764,2025-09-07 13:00,KVK Tienen,K. Lyra-Lierse,2,3,,,
+63325825,2025-09-09 18:00,KSV Roeselare,KVC Houtvenne,1,2,,,
+63333981,2025-09-10 18:00,KVK Ninove,KVV Thes Sport Tessenderlo,1,2,,,
+63334033,2025-09-10 18:00,Koninklijk Diegem-Sport,Royal Knokke FC,2,3,,,
+63333983,2025-09-10 18:30,KFC Dessel Sport,Hoogstraten VV,1,3,,,
+61790770,2025-09-13 18:00,Sporting Hasselt,Koninklijk Diegem-Sport,3,2,,,
+61790772,2025-09-13 18:00,KVV Thes Sport Tessenderlo,KVC Houtvenne,0,0,,,
+61790774,2025-09-13 18:00,K. Lyra-Lierse,Jong Cercle,4,1,,,
+61790776,2025-09-13 18:00,Hoogstraten VV,Oud Heverlee Leuven B,1,2,,,
+61790778,2025-09-13 18:00,Royal Knokke FC,Belisia Bilzen SV,0,3,,,
+61790780,2025-09-14 13:00,KFC Merelbeke,KVK Ninove,1,1,,,
+61790782,2025-09-14 13:00,KVV Zelzate,KFC Dessel Sport,3,2,,,
+61790784,2025-09-14 13:00,KVK Tienen,KSV Roeselare,0,3,,,
+63643383,2025-09-17 18:00,Belisia Bilzen SV,Oud Heverlee Leuven B,2,1,,,
+61790786,2025-09-20 17:30,KVK Ninove,K. Lyra-Lierse,2,2,,,
+61790788,2025-09-20 17:30,KFC Dessel Sport,KVK Tienen,1,1,,,
+61790790,2025-09-20 18:00,KVC Houtvenne,Hoogstraten VV,1,2,,,
+61790792,2025-09-21 13:00,Jong Cercle,Royal Knokke FC,1,4,,,
+61790794,2025-09-21 13:00,KSV Roeselare,KFC Merelbeke,1,0,,,
+61790796,2025-09-21 13:00,Oud Heverlee Leuven B,KVV Zelzate,1,2,,,
+61790798,2025-09-21 13:00,Koninklijk Diegem-Sport,KVV Thes Sport Tessenderlo,0,2,,,
+61790800,2025-09-21 13:00,Belisia Bilzen SV,Sporting Hasselt,0,0,,,
+61790814,2025-09-27 17:30,KFC Merelbeke,Oud Heverlee Leuven B,2,1,,,
+61790802,2025-09-27 18:00,Hoogstraten VV,K. Lyra-Lierse,2,2,,,
+61790804,2025-09-27 18:00,Sporting Hasselt,KVV Thes Sport Tessenderlo,0,2,,,
+61790806,2025-09-28 13:00,KSV Roeselare,KFC Dessel Sport,2,2,,,
+61790808,2025-09-28 13:00,KVK Tienen,KVC Houtvenne,0,2,,,
+61790810,2025-09-28 13:00,Royal Knokke FC,KVK Ninove,2,0,,,
+61790816,2025-09-28 13:00,KVV Zelzate,Koninklijk Diegem-Sport,1,1,,,
+63670961,2025-10-01 18:00,Jong Cercle,KFC Merelbeke,1,0,,,
+61790826,2025-10-03 18:30,KVV Thes Sport Tessenderlo,Belisia Bilzen SV,1,1,,,
+61790818,2025-10-04 17:30,KVK Ninove,KSV Roeselare,2,1,,,
+61790832,2025-10-04 17:30,KFC Merelbeke,KVK Tienen,2,1,,,
+61790820,2025-10-04 18:00,K. Lyra-Lierse,Royal Knokke FC,0,0,,,
+61790822,2025-10-04 18:00,Sporting Hasselt,Hoogstraten VV,5,0,,,
+61790824,2025-10-04 18:00,KVC Houtvenne,KVV Zelzate,0,3,,,
+61790828,2025-10-05 13:00,Oud Heverlee Leuven B,Koninklijk Diegem-Sport,1,3,,,
+61790830,2025-10-05 13:00,Jong Cercle,KFC Dessel Sport,3,1,,,
+61790834,2025-10-11 17:30,KVK Ninove,Hoogstraten VV,1,2,,,
+61790836,2025-10-11 17:30,KFC Dessel Sport,Belisia Bilzen SV,3,2,,,
+61790838,2025-10-11 18:00,K. Lyra-Lierse,Sporting Hasselt,2,0,,,
+61790840,2025-10-11 18:00,KVV Thes Sport Tessenderlo,KFC Merelbeke,1,0,,,
+61790842,2025-10-11 18:00,KVV Zelzate,KSV Roeselare,2,3,,,
+61790844,2025-10-12 13:00,Jong Cercle,KVK Tienen,1,1,,,
+61790846,2025-10-12 13:00,Koninklijk Diegem-Sport,KVC Houtvenne,1,1,,,
+61790850,2025-10-18 17:30,KFC Dessel Sport,KVK Ninove,2,0,,,
+61790852,2025-10-18 18:00,KVC Houtvenne,Oud Heverlee Leuven B,0,2,,,
+61790854,2025-10-18 18:00,Hoogstraten VV,KVV Thes Sport Tessenderlo,0,0,,,
+61790856,2025-10-19 13:00,KVK Tienen,KVV Zelzate,2,1,,,
+61790858,2025-10-19 13:00,KSV Roeselare,Jong Cercle,1,0,,,
+61790860,2025-10-19 13:00,Royal Knokke FC,Sporting Hasselt,2,6,,,
+61790862,2025-10-19 13:00,KFC Merelbeke,K. Lyra-Lierse,2,4,,,
+61790864,2025-10-19 13:00,Belisia Bilzen SV,Koninklijk Diegem-Sport,3,2,,,
+61790866,2025-10-24 18:00,KVK Ninove,Jong Cercle,2,3,,,
+61790868,2025-10-25 18:00,KVV Thes Sport Tessenderlo,Royal Knokke FC,1,0,,,
+61790870,2025-10-25 18:00,Hoogstraten VV,KVK Tienen,0,1,,,
+61790872,2025-10-25 18:00,K. Lyra-Lierse,KVV Zelzate,1,0,,,
+61790874,2025-10-25 18:00,Sporting Hasselt,KFC Merelbeke,5,0,,,
+61790876,2025-10-25 18:00,KVC Houtvenne,Belisia Bilzen SV,0,2,,,
+61790878,2025-10-26 13:30,Koninklijk Diegem-Sport,KFC Dessel Sport,3,4,,,
+61790880,2025-10-26 14:00,Oud Heverlee Leuven B,KSV Roeselare,1,0,,,
+61790888,2025-10-31 19:00,KVV Zelzate,KVK Ninove,2,0,,,
+61790884,2025-10-31 19:30,KFC Dessel Sport,Oud Heverlee Leuven B,4,1,,,
+61790892,2025-11-01 18:30,KFC Merelbeke,Hoogstraten VV,0,2,,,
+61791154,2025-11-01 19:00,Sporting Hasselt,KSV Roeselare,2,0,,,
+61790886,2025-11-02 14:00,KVK Tienen,KVV Thes Sport Tessenderlo,1,0,,,
+61790890,2025-11-02 14:00,Belisia Bilzen SV,K. Lyra-Lierse,0,0,,,
+61790894,2025-11-02 14:00,Royal Knokke FC,KVC Houtvenne,0,0,,,
+61790896,2025-11-02 14:00,Jong Cercle,Koninklijk Diegem-Sport,1,3,,,
+61790898,2025-11-08 19:00,Sporting Hasselt,KVK Ninove,4,1,,,
+61790900,2025-11-08 19:00,K. Lyra-Lierse,Oud Heverlee Leuven B,2,0,,,
+61790902,2025-11-08 19:00,Hoogstraten VV,KVV Zelzate,2,2,,,
+61790906,2025-11-08 19:00,KVC Houtvenne,KFC Merelbeke,3,1,,,
+61790908,2025-11-09 13:30,Koninklijk Diegem-Sport,KSV Roeselare,0,2,,,
+61790904,2025-11-09 14:00,KVV Thes Sport Tessenderlo,Jong Cercle,1,1,,,
+61790910,2025-11-09 14:00,KVK Tienen,Belisia Bilzen SV,0,5,,,
+61790912,2025-11-09 14:00,Royal Knokke FC,KFC Dessel Sport,2,1,,,
+61790914,2025-11-15 18:30,KFC Dessel Sport,K. Lyra-Lierse,5,2,,,
+61790916,2025-11-15 18:30,KVK Ninove,KVK Tienen,1,2,,,
+61790918,2025-11-16 13:30,Koninklijk Diegem-Sport,KFC Merelbeke,1,4,,,
+61790920,2025-11-16 14:00,KSV Roeselare,Royal Knokke FC,4,1,,,
+61790922,2025-11-16 14:00,Jong Cercle,KVC Houtvenne,1,0,,,
+61790926,2025-11-16 14:00,Belisia Bilzen SV,Hoogstraten VV,2,1,,,
+61790928,2025-11-16 14:00,KVV Zelzate,KVV Thes Sport Tessenderlo,1,3,,,
+61790930,2025-11-22 18:30,KVK Ninove,Oud Heverlee Leuven B,1,6,,,
+61790944,2025-11-22 18:30,KFC Merelbeke,KFC Dessel Sport,1,1,,,
+61790932,2025-11-22 19:00,Sporting Hasselt,KVC Houtvenne,5,0,,,
+61790934,2025-11-22 19:00,K. Lyra-Lierse,Koninklijk Diegem-Sport,0,1,,,
+61790936,2025-11-22 19:00,Hoogstraten VV,Jong Cercle,4,1,,,
+61790938,2025-11-22 19:00,KVV Thes Sport Tessenderlo,KSV Roeselare,0,1,,,
+61790940,2025-11-23 14:00,KVK Tienen,Royal Knokke FC,2,3,,,
+61790942,2025-11-23 14:00,KVV Zelzate,Belisia Bilzen SV,3,3,,,
+64453631,2025-11-26 19:00,Oud Heverlee Leuven B,Royal Knokke FC,1,2,,,
+61790946,2025-11-29 18:30,KFC Dessel Sport,Sporting Hasselt,2,7,,,
+61790948,2025-11-29 19:00,KVC Houtvenne,K. Lyra-Lierse,0,3,,,
+61790962,2025-12-06 18:30,KVK Ninove,Koninklijk Diegem-Sport,4,3,,,
+61790974,2025-12-06 18:30,Belisia Bilzen SV,KSV Roeselare,0,0,,,
+61790964,2025-12-06 19:00,Hoogstraten VV,Royal Knokke FC,1,1,,,
+61790968,2025-12-06 19:00,KVC Houtvenne,KFC Dessel Sport,3,2,,,
+61790970,2025-12-06 19:00,Sporting Hasselt,Jong Cercle,0,1,,,
+61790972,2025-12-07 14:00,KVK Tienen,Oud Heverlee Leuven B,2,1,,,
+61790976,2025-12-07 14:00,KFC Merelbeke,KVV Zelzate,2,0,,,
+65761796,2025-12-10 19:30,Oud Heverlee Leuven B,Sporting Hasselt,1,7,4.500,4.100,1.533
+61790978,2025-12-13 19:00,K. Lyra-Lierse,KFC Merelbeke,1,3,2.000,3.600,2.900
+61790980,2025-12-13 19:00,Sporting Hasselt,Belisia Bilzen SV,2,2,1.380,4.500,6.000
+61791048,2025-12-13 19:00,Hoogstraten VV,KFC Dessel Sport,2,0,2.350,3.750,2.350
+61791044,2025-12-14 13:30,Koninklijk Diegem-Sport,Jong Cercle,1,1,2.150,3.900,2.600
+61790982,2025-12-14 14:00,KVV Zelzate,KVK Tienen,0,3,2.150,3.250,2.900
+61791042,2025-12-14 14:00,KSV Roeselare,KVK Ninove,2,0,1.850,3.500,3.600
+61791046,2025-12-14 14:00,Royal Knokke FC,KVV Thes Sport Tessenderlo,2,1,2.300,3.400,2.550
+61791050,2025-12-14 14:00,Oud Heverlee Leuven B,KVC Houtvenne,1,1,1.950,3.700,3.000
+61791052,2025-12-19 19:00,KVK Ninove,KVV Zelzate,4,8,2.150,3.700,2.700
+61791062,2025-12-20 19:00,KSV Roeselare,KVK Tienen,0,0,1.833,3.300,3.800
+61791068,2026-01-17 18:30,KFC Dessel Sport,KSV Roeselare,3,4,3.000,3.600,2.000
+61791070,2026-01-17 19:00,Hoogstraten VV,KVC Houtvenne,3,1,2.150,3.400,2.750
+61791072,2026-01-17 19:00,KVV Zelzate,K. Lyra-Lierse,0,0,2.050,3.800,2.800
+61791074,2026-01-17 19:00,KVV Thes Sport Tessenderlo,KVK Ninove,2,0,1.900,3.300,3.500
+61791076,2026-01-18 14:00,Koninklijk Diegem-Sport,Sporting Hasselt,1,3,5.250,4.500,1.420
+61791078,2026-01-18 14:00,Royal Knokke FC,Oud Heverlee Leuven B,3,1,,,
+61791080,2026-01-18 14:00,Belisia Bilzen SV,KFC Merelbeke,1,4,1.950,3.600,3.100
+61791082,2026-01-18 14:00,KVK Tienen,Jong Cercle,2,1,2.600,3.400,2.300
+61791084,2026-01-24 18:30,KVK Ninove,KFC Dessel Sport,1,6,2.600,3.600,2.200
+61791086,2026-01-24 19:00,KVC Houtvenne,KVV Thes Sport Tessenderlo,0,3,,,
+61791088,2026-01-24 19:00,Sporting Hasselt,Royal Knokke FC,4,0,1.480,4.100,5.500
+61791090,2026-01-24 19:00,K. Lyra-Lierse,KVK Tienen,1,0,2.250,3.250,2.800
+61791098,2026-01-24 19:00,KSV Roeselare,KVV Zelzate,3,3,1.600,3.800,4.333
+61791092,2026-01-25 14:00,KFC Merelbeke,Koninklijk Diegem-Sport,1,1,2.400,3.600,2.350
+61791094,2026-01-25 14:00,Jong Cercle,Hoogstraten VV,1,0,2.000,3.800,2.900
+61791096,2026-01-25 14:00,Oud Heverlee Leuven B,Belisia Bilzen SV,1,2,,,
+61791100,2026-01-31 17:00,Koninklijk Diegem-Sport,K. Lyra-Lierse,2,0,2.300,3.500,2.600
+61791102,2026-01-31 18:30,KFC Dessel Sport,KFC Merelbeke,2,1,1.650,4.200,3.700
+61791104,2026-01-31 19:00,KVV Thes Sport Tessenderlo,Oud Heverlee Leuven B,3,1,,,
+61791106,2026-01-31 19:00,Hoogstraten VV,Sporting Hasselt,2,1,4.750,4.333,1.480
+61791114,2026-01-31 19:00,KVV Zelzate,Jong Cercle,3,2,,,
+61791108,2026-02-01 14:00,KVK Tienen,KVK Ninove,3,1,1.950,3.500,3.100
+61791110,2026-02-01 14:00,Royal Knokke FC,KSV Roeselare,1,0,2.150,3.400,2.800
+61791112,2026-02-01 14:00,Belisia Bilzen SV,KVC Houtvenne,1,4,2.050,3.400,3.000
+61791116,2026-02-07 18:30,KVK Ninove,Belisia Bilzen SV,0,3,2.700,3.700,2.100
+61791118,2026-02-07 19:00,KVV Thes Sport Tessenderlo,Hoogstraten VV,4,2,1.750,3.500,3.750
+61791120,2026-02-07 19:00,KVC Houtvenne,Koninklijk Diegem-Sport,2,2,2.350,3.750,2.350
+61791122,2026-02-07 19:00,K. Lyra-Lierse,KFC Dessel Sport,3,0,2.400,3.750,2.300
+61791124,2026-02-07 19:00,Sporting Hasselt,KVV Zelzate,0,0,1.333,4.750,6.250
+61791126,2026-02-08 14:00,Oud Heverlee Leuven B,KVK Tienen,3,2,,,
+61791128,2026-02-08 14:00,KFC Merelbeke,Royal Knokke FC,2,3,2.900,3.750,2.000
+61791130,2026-02-08 14:00,Jong Cercle,KSV Roeselare,1,1,2.200,3.600,2.600
+68875878,2026-02-13 19:45,Jong Cercle,KVV Thes Sport Tessenderlo,1,1,2.200,3.600,2.625
+68872186,2026-02-14 18:30,KFC Dessel Sport,Koninklijk Diegem-Sport,1,1,1.950,3.900,2.900
+68872272,2026-02-14 19:00,KVC Houtvenne,Royal Knokke FC,1,2,2.500,3.600,2.350
+68872360,2026-02-14 19:00,K. Lyra-Lierse,Belisia Bilzen SV,0,0,2.600,3.400,2.350
+68872362,2026-02-15 14:00,KFC Merelbeke,Sporting Hasselt,4,1,5.500,4.500,1.400
+68872364,2026-02-15 14:00,Oud Heverlee Leuven B,Hoogstraten VV,3,3,,,
+68559350,2026-02-20 19:00,KVV Zelzate,KFC Merelbeke,2,1,2.000,4.000,2.700
+61791132,2026-02-21 18:30,KFC Dessel Sport,KVC Houtvenne,3,2,1.750,3.700,3.700
+61791134,2026-02-21 19:00,Belisia Bilzen SV,KVV Thes Sport Tessenderlo,3,0,2.500,3.300,2.400
+63275801,2026-02-21 19:00,Sporting Hasselt,KVK Tienen,3,0,1.333,4.750,6.500
+61791136,2026-02-22 14:00,Koninklijk Diegem-Sport,Oud Heverlee Leuven B,2,4,,,
+61791140,2026-02-22 14:00,Royal Knokke FC,Hoogstraten VV,1,1,1.800,3.750,3.400
+61791144,2026-02-22 14:00,KSV Roeselare,K. Lyra-Lierse,4,2,1.850,3.500,3.500
+61791146,2026-02-22 14:00,Jong Cercle,KVK Ninove,1,0,1.550,4.000,4.500
+61791162,2026-02-28 18:30,KFC Merelbeke,Jong Cercle,2,1,2.600,3.600,2.200
+61791150,2026-02-28 19:00,KVV Thes Sport Tessenderlo,KVV Zelzate,1,2,1.909,3.750,3.100
+61791152,2026-02-28 19:00,K. Lyra-Lierse,KVK Ninove,3,2,1.571,3.900,4.500
+61791156,2026-02-28 19:00,KVC Houtvenne,KVK Tienen,3,1,2.050,3.500,2.900
+61791148,2026-02-28 19:30,Hoogstraten VV,Belisia Bilzen SV,5,3,2.250,3.500,2.600
+61791158,2026-03-01 14:00,Royal Knokke FC,Koninklijk Diegem-Sport,3,0,1.833,3.800,3.200
+61791160,2026-03-01 14:00,Oud Heverlee Leuven B,KFC Dessel Sport,3,0,,,
+64771394,2026-03-01 14:00,KSV Roeselare,Sporting Hasselt,1,0,3.700,3.750,1.750
+61791164,2026-03-07 18:30,KFC Dessel Sport,KVV Thes Sport Tessenderlo,2,3,2.250,3.500,2.600
+61791166,2026-03-07 18:30,KVK Ninove,Sporting Hasselt,1,1,,,
+61791168,2026-03-07 19:00,KSV Roeselare,Oud Heverlee Leuven B,6,4,1.950,3.600,3.200
+61791170,2026-03-08 14:00,KVK Tienen,KFC Merelbeke,2,0,2.350,3.400,2.550
+61791172,2026-03-08 14:00,Koninklijk Diegem-Sport,Hoogstraten VV,0,3,2.200,3.700,2.550
+61791174,2026-03-08 14:00,Belisia Bilzen SV,Royal Knokke FC,2,3,2.450,3.600,2.350
+61791176,2026-03-08 14:00,Jong Cercle,K. Lyra-Lierse,5,1,1.950,3.700,3.000
+61791178,2026-03-08 14:00,KVV Zelzate,KVC Houtvenne,0,3,2.150,3.750,2.625
+61791180,2026-03-13 19:30,KVV Thes Sport Tessenderlo,KVK Tienen,0,0,1.800,3.500,3.600
+61791184,2026-03-13 19:30,KVC Houtvenne,KSV Roeselare,0,2,2.700,3.600,2.150
+61791186,2026-03-14 19:00,Sporting Hasselt,K. Lyra-Lierse,4,2,1.270,5.000,8.500
+61791192,2026-03-14 19:00,Belisia Bilzen SV,KFC Dessel Sport,3,0,1.950,3.800,3.000
+61791182,2026-03-15 14:00,Hoogstraten VV,KFC Merelbeke,2,0,2.050,3.750,2.800
+61791188,2026-03-15 14:00,Royal Knokke FC,Jong Cercle,2,1,1.650,4.000,4.000
+61791190,2026-03-15 14:00,Oud Heverlee Leuven B,KVK Ninove,1,4,1.666,3.800,3.900
+61791194,2026-03-15 14:00,Koninklijk Diegem-Sport,KVV Zelzate,3,2,2.200,3.500,2.700
+61791196,2026-03-21 18:30,KFC Dessel Sport,Royal Knokke FC,4,3,2.550,3.750,2.200
+61791198,2026-03-21 18:30,KVK Ninove,KVC Houtvenne,1,3,2.050,3.900,2.700
+61791208,2026-03-21 18:30,KFC Merelbeke,KVV Thes Sport Tessenderlo,2,0,2.300,3.600,2.550
+61791200,2026-03-21 19:00,K. Lyra-Lierse,Hoogstraten VV,2,0,2.500,3.700,2.250
+61791202,2026-03-22 14:00,Jong Cercle,Sporting Hasselt,0,4,3.700,3.900,1.700
+61791204,2026-03-22 14:00,KSV Roeselare,Belisia Bilzen SV,0,1,2.000,3.600,3.000
+61791206,2026-03-22 14:00,KVV Zelzate,Oud Heverlee Leuven B,4,3,2.100,3.750,2.700
+61791210,2026-03-22 14:00,KVK Tienen,Koninklijk Diegem-Sport,5,1,2.500,3.500,2.375
+61791212,2026-03-28 18:30,KFC Dessel Sport,KVV Zelzate,3,1,2.350,3.700,2.400
+61791214,2026-03-28 19:00,KVV Thes Sport Tessenderlo,Sporting Hasselt,1,1,4.750,4.000,1.533
+61791216,2026-03-28 19:00,KVC Houtvenne,Jong Cercle,1,1,2.450,3.600,2.300
+61791218,2026-03-28 19:00,Hoogstraten VV,KSV Roeselare,1,1,2.400,3.600,2.375
+61791220,2026-03-29 13:00,Koninklijk Diegem-Sport,KVK Ninove,5,0,1.833,3.800,3.250
+61791222,2026-03-29 13:00,Belisia Bilzen SV,KVK Tienen,0,2,1.950,3.400,3.300
+61791224,2026-03-29 13:00,Royal Knokke FC,K. Lyra-Lierse,1,0,1.550,4.333,4.200
+70265028,2026-04-06 13:00,Oud Heverlee Leuven B,KFC Merelbeke,1,3,2.050,3.800,2.750
+61791228,2026-04-11 17:30,KVK Ninove,Royal Knokke FC,0,4,5.000,4.333,1.480
+61791236,2026-04-11 17:30,KFC Merelbeke,KVC Houtvenne,2,1,2.100,3.600,2.800
+61791230,2026-04-11 18:00,Sporting Hasselt,Oud Heverlee Leuven B,2,1,1.363,5.250,5.250
+61791232,2026-04-11 18:00,K. Lyra-Lierse,KVV Thes Sport Tessenderlo,1,2,2.550,3.600,2.250
+61791240,2026-04-11 18:00,KVV Zelzate,Hoogstraten VV,1,2,2.250,3.750,2.500
+61791234,2026-04-12 13:00,KVK Tienen,KFC Dessel Sport,1,3,2.500,3.600,2.250
+61791238,2026-04-12 13:00,KSV Roeselare,Koninklijk Diegem-Sport,2,2,1.615,4.200,3.900
+61791242,2026-04-12 13:00,Jong Cercle,Belisia Bilzen SV,0,5,2.100,3.700,2.750
+61791244,2026-04-18 17:30,KFC Dessel Sport,Jong Cercle,2,2,2.100,3.900,2.625
+61791248,2026-04-18 18:00,Hoogstraten VV,KVK Ninove,3,1,1.420,5.500,4.500
+61791246,2026-04-19 13:00,KVC Houtvenne,Sporting Hasselt,0,1,5.500,4.500,1.400
+61791250,2026-04-19 13:00,KVV Thes Sport Tessenderlo,Koninklijk Diegem-Sport,6,3,2.000,4.000,2.750
+61791252,2026-04-19 13:00,Belisia Bilzen SV,KVV Zelzate,5,0,1.900,3.800,3.000
+61791254,2026-04-19 13:00,Royal Knokke FC,KVK Tienen,2,0,1.420,4.000,6.000
+61791256,2026-04-19 13:00,Oud Heverlee Leuven B,K. Lyra-Lierse,2,0,1.700,4.333,3.500
+61791258,2026-04-19 13:00,KFC Merelbeke,KSV Roeselare,1,3,2.800,3.700,2.050
+61791260,2026-04-26 13:00,Jong Cercle,Oud Heverlee Leuven B,0,4,2.600,3.700,2.150
+61791262,2026-04-26 13:00,KVK Tienen,Hoogstraten VV,1,1,2.700,3.500,2.150
+61791264,2026-04-26 13:00,KVK Ninove,KFC Merelbeke,3,1,2.625,3.700,2.150
+61791266,2026-04-26 13:00,KSV Roeselare,KVV Thes Sport Tessenderlo,3,1,1.900,3.600,3.200
+61791268,2026-04-26 13:00,Sporting Hasselt,KFC Dessel Sport,1,0,1.250,6.000,7.000
+61791270,2026-04-26 13:00,Koninklijk Diegem-Sport,Belisia Bilzen SV,2,3,2.150,3.700,2.625
+61791272,2026-04-26 13:00,KVV Zelzate,Royal Knokke FC,2,3,3.900,3.900,1.650
+61791274,2026-04-26 13:00,K. Lyra-Lierse,KVC Houtvenne,4,3,,,
+72533154,2026-08-28 18:30,Hoogstraten VV,KFC Merelbeke,2,3,1.727,3.800,3.700
+72533156,2026-08-29 18:00,KVC Houtvenne,Oud Heverlee Leuven B,3,1,2.350,3.900,2.300
+72533158,2026-08-29 18:00,K. Lyra-Lierse,KVV Thes Sport Tessenderlo,3,3,2.450,3.500,2.400
+72533160,2026-08-30 13:00,Jong Cercle,KVV Zelzate,1,1,2.450,3.700,2.300
+72533162,2026-08-30 13:00,Royal Knokke FC,KSK Heist,3,0,,,
+72533164,2026-08-30 13:00,KRC Harelbeke,KFC Mandel United,0,3,2.700,3.750,2.100
+72533166,2026-08-30 13:00,SK Roeselare,Belisia Bilzen SV,1,1,1.850,3.750,3.300
+72533168,2026-08-30 13:00,KVK Tienen,KFC Dessel Sport,3,4,2.250,3.500,2.600
+72533170,2026-09-05 17:30,KFC Dessel Sport,Hoogstraten VV,1,1,1.950,3.800,2.900
+72533172,2026-09-05 18:00,KSK Heist,KRC Harelbeke,2,1,1.727,3.750,3.750
+72533174,2026-09-05 18:00,KFC Mandel United,K. Lyra-Lierse,1,1,2.050,3.700,2.800
+72533176,2026-09-05 18:00,KVV Thes Sport Tessenderlo,Royal Knokke FC,2,0,2.875,3.500,2.050
+72533178,2026-09-06 13:00,Belisia Bilzen SV,KVC Houtvenne,3,4,1.833,3.750,3.300
+72533180,2026-09-06 13:00,Oud Heverlee Leuven B,KVK Tienen,2,1,1.950,3.800,2.900
+72533182,2026-09-06 13:00,KFC Merelbeke,Jong Cercle,3,1,2.100,3.750,2.700
+72533184,2026-09-06 13:00,KVV Zelzate,SK Roeselare,0,3,3.000,3.800,1.950
+72533190,2026-09-11 18:30,KVC Houtvenne,KFC Dessel Sport,5,0,2.450,3.600,2.350
+72533186,2026-09-12 18:00,KSK Heist,KVV Thes Sport Tessenderlo,1,1,2.100,3.500,2.800
+72533188,2026-09-12 18:00,Hoogstraten VV,K. Lyra-Lierse,4,4,2.050,3.600,2.800
+72533192,2026-09-13 13:00,Belisia Bilzen SV,KFC Merelbeke,1,0,1.850,3.700,3.300
+72533194,2026-09-13 13:00,Jong Cercle,Royal Knokke FC,2,1,,,
+72533196,2026-09-13 13:00,KRC Harelbeke,KVK Tienen,0,4,2.200,3.500,2.700
+72533198,2026-09-13 13:00,Oud Heverlee Leuven B,KVV Zelzate,4,3,1.800,3.750,3.400
+72533200,2026-09-13 13:00,SK Roeselare,KFC Mandel United,1,0,1.600,3.800,4.333
+72533202,2026-09-19 17:30,KFC Dessel Sport,Jong Cercle,3,1,2.200,3.700,2.550
+72533204,2026-09-19 18:00,K. Lyra-Lierse,KSK Heist,3,2,2.700,3.600,2.150
+72533206,2026-09-19 18:00,KFC Mandel United,Hoogstraten VV,2,1,2.000,3.800,2.800
+72533208,2026-09-19 18:00,KVV Thes Sport Tessenderlo,Oud Heverlee Leuven B,2,3,2.000,3.750,2.900
+72533210,2026-09-20 13:00,Royal Knokke FC,Belisia Bilzen SV,3,2,1.800,4.000,3.200
+72533212,2026-09-20 13:00,KFC Merelbeke,KRC Harelbeke,3,0,1.650,4.000,3.800
+72533214,2026-09-20 13:00,KVK Tienen,SK Roeselare,1,1,4.333,3.600,1.650
+72533216,2026-09-20 13:00,KVV Zelzate,KVC Houtvenne,0,3,2.875,3.750,2.000
+72533222,2026-09-27 13:00,Jong Cercle,KVK Tienen,1,3,1.666,3.900,3.900
+72533226,2026-09-27 13:00,Oud Heverlee Leuven B,K. Lyra-Lierse,3,1,1.727,4.100,3.400
+74989882,2026-09-30 18:00,KFC Merelbeke,KFC Dessel Sport,1,1,2.200,3.700,2.625
+74989884,2026-09-30 18:00,KVC Houtvenne,KFC Mandel United,2,1,1.909,3.600,3.250
+74989886,2026-09-30 18:00,Belisia Bilzen SV,KSK Heist,3,1,2.500,3.500,2.350
+74989890,2026-09-30 18:00,SK Roeselare,KVV Thes Sport Tessenderlo,0,1,1.900,3.500,3.250
+74989892,2026-09-30 18:00,KVV Zelzate,Royal Knokke FC,0,0,3.000,3.750,1.909
+74989888,2026-09-30 18:30,KRC Harelbeke,Hoogstraten VV,3,3,2.550,3.400,2.350
+72533234,2026-10-03 17:30,KFC Dessel Sport,KRC Harelbeke,4,0,1.615,4.000,4.000
+72533236,2026-10-03 18:00,KSK Heist,Jong Cercle,3,1,1.533,4.333,4.333
+72533238,2026-10-03 18:00,Hoogstraten VV,KVC Houtvenne,3,0,2.200,3.700,2.600
+72533240,2026-10-03 18:00,K. Lyra-Lierse,SK Roeselare,0,3,3.100,3.600,1.950
+72533242,2026-10-03 18:00,KFC Mandel United,Belisia Bilzen SV,1,0,2.300,3.600,2.450
+72533244,2026-10-03 18:00,KVV Thes Sport Tessenderlo,KVV Zelzate,1,1,1.666,3.800,4.000
+72533246,2026-10-04 13:00,Royal Knokke FC,Oud Heverlee Leuven B,3,2,2.250,3.600,2.550
+72533248,2026-10-04 13:00,KVK Tienen,KFC Merelbeke,0,0,2.350,3.400,2.500
+72533250,2026-10-10 18:00,KVC Houtvenne,Royal Knokke FC,2,0,1.850,3.900,3.100
+72533262,2026-10-10 18:00,SK Roeselare,KFC Dessel Sport,2,0,1.850,3.750,3.250
+72533264,2026-10-10 18:00,KVV Zelzate,Hoogstraten VV,1,4,2.625,3.500,2.200
+72533252,2026-10-11 13:00,Belisia Bilzen SV,KVK Tienen,2,2,2.000,3.700,3.000
+72533254,2026-10-11 13:00,Jong Cercle,K. Lyra-Lierse,2,1,2.000,3.800,2.875
+72533256,2026-10-11 13:00,KRC Harelbeke,KVV Thes Sport Tessenderlo,1,0,3.750,4.000,1.666
+72533258,2026-10-11 13:00,Oud Heverlee Leuven B,KSK Heist,0,0,2.250,3.800,2.400
+72533260,2026-10-11 13:00,KFC Merelbeke,KFC Mandel United,0,2,2.250,3.600,2.550
+72533266,2026-10-17 17:30,KFC Dessel Sport,Belisia Bilzen SV,3,4,2.000,4.000,2.900
+72533270,2026-10-17 18:00,Hoogstraten VV,SK Roeselare,1,1,3.000,3.600,2.000
+72533272,2026-10-17 18:00,K. Lyra-Lierse,KVC Houtvenne,0,1,2.800,3.700,2.050
+72533274,2026-10-17 18:00,KFC Mandel United,KVV Zelzate,3,1,1.800,3.900,3.300
+72533276,2026-10-17 18:00,KVV Thes Sport Tessenderlo,Jong Cercle,2,2,1.727,3.800,3.600
+72533278,2026-10-18 13:00,Royal Knokke FC,KFC Merelbeke,0,3,1.950,3.600,3.100
+72533280,2026-10-18 13:00,Oud Heverlee Leuven B,KRC Harelbeke,4,1,1.400,4.500,5.750
+75605978,2026-10-21 18:00,KSK Heist,KVK Tienen,4,0,2.100,3.400,2.875
+72533286,2026-10-23 18:30,Belisia Bilzen SV,KVV Thes Sport Tessenderlo,0,3,2.550,3.600,2.300
+72533284,2026-10-24 15:00,KVC Houtvenne,KFC Merelbeke,1,1,1.850,3.700,3.250
+72533282,2026-10-24 17:30,KFC Dessel Sport,Oud Heverlee Leuven B,2,2,2.450,4.000,2.200
+72533292,2026-10-24 18:00,SK Roeselare,Royal Knokke FC,2,1,1.600,4.000,4.100
+72533296,2026-10-24 18:00,KVV Zelzate,KSK Heist,1,5,3.400,3.900,1.750
+72533288,2026-10-25 14:00,Jong Cercle,Hoogstraten VV,1,4,2.625,3.400,2.250
+72533290,2026-10-25 14:00,KRC Harelbeke,K. Lyra-Lierse,0,3,2.625,3.600,2.200
+72533294,2026-10-25 14:00,KVK Tienen,KFC Mandel United,0,2,2.300,3.600,2.450
+72533306,2026-10-30 19:00,KVV Thes Sport Tessenderlo,KVK Tienen,1,0,1.800,3.800,3.400
+72533312,2026-10-30 19:00,KFC Merelbeke,SK Roeselare,0,4,3.700,3.700,1.750
+72533298,2026-10-31 19:00,KSK Heist,KVC Houtvenne,4,0,1.727,3.900,3.600
+72533300,2026-10-31 19:00,Hoogstraten VV,Belisia Bilzen SV,0,1,2.050,3.600,2.875
+72533302,2026-10-31 19:00,K. Lyra-Lierse,KVV Zelzate,1,2,2.050,3.600,2.875
+72533304,2026-10-31 19:00,KFC Mandel United,KFC Dessel Sport,4,3,2.050,3.750,2.800
+72533308,2026-10-31 19:00,Royal Knokke FC,KRC Harelbeke,0,2,1.550,4.000,4.500
+72533310,2026-11-01 14:00,Oud Heverlee Leuven B,Jong Cercle,3,3,1.600,4.333,3.900
+72533324,2026-11-06 19:00,KFC Merelbeke,KSK Heist,2,1,4.000,4.333,1.615
+72533314,2026-11-07 18:30,KFC Dessel Sport,Royal Knokke FC,1,0,2.050,3.600,2.900
+72533316,2026-11-07 19:00,KVC Houtvenne,KVV Thes Sport Tessenderlo,1,2,2.500,3.400,2.375
+72533318,2026-11-07 19:00,KFC Mandel United,Jong Cercle,3,1,1.833,4.000,3.200
+72533326,2026-11-07 19:00,SK Roeselare,Oud Heverlee Leuven B,0,0,1.650,4.000,3.900
+72533320,2026-11-07 19:15,Belisia Bilzen SV,K. Lyra-Lierse,4,0,1.666,4.000,3.800
+72533322,2026-11-08 14:00,KRC Harelbeke,KVV Zelzate,1,4,2.600,3.700,2.200
+72533328,2026-11-08 14:00,KVK Tienen,Hoogstraten VV,3,1,2.100,3.400,2.900

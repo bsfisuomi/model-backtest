@@ -1,0 +1,313 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+58838365,2025-05-24 17:30,Maccabi Netanya FC,Maccabi Haifa FC,2,3,,,
+58838367,2025-05-24 17:30,Maccabi Tel Aviv FC,Beitar Jerusalem FC,5,0,,,
+58838369,2025-05-24 17:30,Hapoel Be`er Sheva FC,Hapoel Haifa FC,5,0,,,
+61591498,2025-08-23 17:15,Hapoel Jerusalem FC,MS Ashdod,1,2,,,
+61591504,2025-08-23 17:15,Hapoel Tel Aviv FC,Hapoel Ironi Kiryat Shmona FC,2,1,,,
+61591496,2025-08-23 17:30,Ironi Tiberias,Hapoel Haifa FC,1,0,,,
+61591502,2025-08-23 17:30,Maccabi Haifa FC,Maccabi Bney Reine,4,0,,,
+61591494,2025-08-24 17:15,Maccabi Netanya FC,Hapoel Be`er Sheva FC,2,4,,,
+61591500,2025-08-25 17:00,Bnei Sakhnin FC,Beitar Jerusalem FC,1,2,,,
+61591508,2025-08-30 17:15,Maccabi Bney Reine,Hapoel Tel Aviv FC,2,2,,,
+61591514,2025-08-30 17:15,Hapoel Haifa FC,Hapoel Jerusalem FC,2,1,,,
+61592374,2025-08-30 17:15,Hapoel Ironi Kiryat Shmona FC,Hapoel Petah Tikva FC,0,0,,,
+61591512,2025-08-30 17:30,MS Ashdod,Bnei Sakhnin FC,1,2,,,
+61591516,2025-08-30 17:30,Hapoel Be`er Sheva FC,Ironi Tiberias,7,0,,,
+61591518,2025-08-31 17:00,Maccabi Tel Aviv FC,Maccabi Netanya FC,4,0,,,
+61591510,2025-08-31 17:30,Beitar Jerusalem FC,Maccabi Haifa FC,0,0,,,
+61591526,2025-09-13 16:45,Bnei Sakhnin FC,Hapoel Haifa FC,0,2,,,
+61592376,2025-09-13 16:45,Hapoel Petah Tikva FC,Maccabi Netanya FC,3,1,,,
+61591522,2025-09-13 17:00,Ironi Tiberias,Maccabi Tel Aviv FC,1,4,,,
+61591532,2025-09-13 17:00,Hapoel Ironi Kiryat Shmona FC,Maccabi Bney Reine,3,1,,,
+61591524,2025-09-14 17:15,Hapoel Jerusalem FC,Hapoel Be`er Sheva FC,1,5,,,
+61591528,2025-09-15 17:00,Maccabi Haifa FC,MS Ashdod,5,1,,,
+63327541,2025-09-15 17:30,Hapoel Tel Aviv FC,Beitar Jerusalem FC,3,2,,,
+63327545,2025-09-16 16:30,Hapoel Petah Tikva FC,Maccabi Tel Aviv FC,0,4,,,
+61591538,2025-09-20 16:45,MS Ashdod,Hapoel Tel Aviv FC,2,6,,,
+61592378,2025-09-20 16:45,Maccabi Bney Reine,Hapoel Petah Tikva FC,1,6,,,
+61591536,2025-09-20 17:00,Beitar Jerusalem FC,Hapoel Ironi Kiryat Shmona FC,2,1,,,
+61591544,2025-09-20 17:00,Maccabi Tel Aviv FC,Hapoel Jerusalem FC,2,1,,,
+61591546,2025-09-20 17:00,Maccabi Netanya FC,Ironi Tiberias,5,2,,,
+61591542,2025-09-21 17:00,Hapoel Be`er Sheva FC,Bnei Sakhnin FC,3,1,,,
+61591540,2025-09-21 17:30,Hapoel Haifa FC,Maccabi Haifa FC,1,1,,,
+61591550,2025-09-27 16:30,Hapoel Jerusalem FC,Maccabi Netanya FC,1,2,,,
+61591556,2025-09-27 16:45,Hapoel Tel Aviv FC,Hapoel Haifa FC,1,0,,,
+61591558,2025-09-27 16:45,Hapoel Ironi Kiryat Shmona FC,MS Ashdod,1,2,,,
+61592380,2025-09-27 16:45,Hapoel Petah Tikva FC,Ironi Tiberias,0,2,,,
+61591560,2025-09-27 17:00,Maccabi Bney Reine,Beitar Jerusalem FC,1,3,,,
+61591552,2025-09-28 17:15,Bnei Sakhnin FC,Maccabi Tel Aviv FC,0,0,,,
+63577245,2025-09-29 17:30,Maccabi Haifa FC,Hapoel Be`er Sheva FC,0,1,,,
+61591566,2025-10-04 16:15,Hapoel Haifa FC,Hapoel Ironi Kiryat Shmona FC,0,0,,,
+61591574,2025-10-04 16:15,Ironi Tiberias,Hapoel Jerusalem FC,1,0,,,
+61591564,2025-10-04 16:30,MS Ashdod,Maccabi Bney Reine,2,0,,,
+61591568,2025-10-04 17:00,Hapoel Be`er Sheva FC,Hapoel Tel Aviv FC,2,1,,,
+61592382,2025-10-04 17:00,Beitar Jerusalem FC,Hapoel Petah Tikva FC,5,2,,,
+61591572,2025-10-05 17:00,Maccabi Netanya FC,Bnei Sakhnin FC,1,2,,,
+61591570,2025-10-05 17:30,Maccabi Tel Aviv FC,Maccabi Haifa FC,1,1,,,
+61591578,2025-10-18 16:15,Bnei Sakhnin FC,Ironi Tiberias,2,0,,,
+61592398,2025-10-18 16:15,Hapoel Petah Tikva FC,Hapoel Jerusalem FC,0,0,,,
+61591584,2025-10-18 16:30,Hapoel Ironi Kiryat Shmona FC,Hapoel Be`er Sheva FC,1,0,,,
+61591586,2025-10-18 16:30,Maccabi Bney Reine,Hapoel Haifa FC,1,2,,,
+61591580,2025-10-18 17:00,Maccabi Haifa FC,Maccabi Netanya FC,2,3,,,
+61591588,2025-10-20 17:00,Beitar Jerusalem FC,MS Ashdod,0,0,,,
+61591592,2025-10-25 16:15,Hapoel Haifa FC,Beitar Jerusalem FC,2,3,,,
+61592400,2025-10-25 16:15,MS Ashdod,Hapoel Petah Tikva FC,1,1,,,
+61591600,2025-10-25 16:30,Ironi Tiberias,Maccabi Haifa FC,1,1,,,
+61591602,2025-10-25 16:30,Hapoel Jerusalem FC,Bnei Sakhnin FC,0,0,,,
+61591598,2025-10-25 17:00,Maccabi Netanya FC,Hapoel Tel Aviv FC,2,0,,,
+61591594,2025-10-26 18:15,Hapoel Be`er Sheva FC,Maccabi Bney Reine,1,0,,,
+61591596,2025-10-27 18:00,Maccabi Tel Aviv FC,Hapoel Ironi Kiryat Shmona FC,3,1,,,
+61591606,2025-11-01 13:00,Maccabi Haifa FC,Hapoel Jerusalem FC,2,2,,,
+61591608,2025-11-01 15:30,Hapoel Tel Aviv FC,Ironi Tiberias,2,0,,,
+61591616,2025-11-01 16:30,MS Ashdod,Hapoel Haifa FC,4,1,,,
+61592402,2025-11-01 16:30,Hapoel Petah Tikva FC,Bnei Sakhnin FC,2,2,,,
+61591612,2025-11-01 17:30,Maccabi Bney Reine,Maccabi Tel Aviv FC,0,2,,,
+61591610,2025-11-02 18:15,Hapoel Ironi Kiryat Shmona FC,Maccabi Netanya FC,1,2,,,
+63577275,2025-11-03 18:30,Beitar Jerusalem FC,Hapoel Be`er Sheva FC,0,1,,,
+61591628,2025-11-08 13:00,Hapoel Jerusalem FC,Hapoel Tel Aviv FC,0,0,,,
+61591630,2025-11-08 15:30,Bnei Sakhnin FC,Maccabi Haifa FC,3,3,,,
+61591624,2025-11-08 16:30,Maccabi Netanya FC,Maccabi Bney Reine,2,1,,,
+61591626,2025-11-08 16:30,Ironi Tiberias,Hapoel Ironi Kiryat Shmona FC,2,3,,,
+61591620,2025-11-08 17:30,Hapoel Be`er Sheva FC,MS Ashdod,2,2,,,
+61592404,2025-11-09 18:00,Hapoel Haifa FC,Hapoel Petah Tikva FC,2,2,,,
+61591622,2025-11-09 18:30,Maccabi Tel Aviv FC,Beitar Jerusalem FC,2,6,,,
+61591644,2025-11-29 13:00,Hapoel Haifa FC,Hapoel Be`er Sheva FC,3,4,,,
+61591634,2025-11-29 15:30,Hapoel Tel Aviv FC,Bnei Sakhnin FC,2,0,,,
+61591636,2025-11-29 16:30,Hapoel Ironi Kiryat Shmona FC,Hapoel Jerusalem FC,1,2,,,
+61591638,2025-11-29 16:30,Maccabi Bney Reine,Ironi Tiberias,1,3,,,
+61592406,2025-11-29 17:30,Hapoel Petah Tikva FC,Maccabi Haifa FC,0,0,,,
+61591642,2025-11-30 18:00,MS Ashdod,Maccabi Tel Aviv FC,2,2,,,
+61591640,2025-11-30 18:30,Beitar Jerusalem FC,Maccabi Netanya FC,4,2,,,
+61591656,2025-12-02 17:30,Bnei Sakhnin FC,Hapoel Ironi Kiryat Shmona FC,1,1,,,
+61591654,2025-12-02 17:45,Hapoel Jerusalem FC,Maccabi Bney Reine,1,2,,,
+61592408,2025-12-02 18:00,Hapoel Petah Tikva FC,Hapoel Be`er Sheva FC,1,1,,,
+61591658,2025-12-02 18:30,Maccabi Haifa FC,Hapoel Tel Aviv FC,2,1,,,
+61591650,2025-12-03 17:30,Maccabi Netanya FC,MS Ashdod,2,2,,,
+61591652,2025-12-03 17:45,Ironi Tiberias,Beitar Jerusalem FC,0,5,,,
+61591648,2025-12-03 18:00,Maccabi Tel Aviv FC,Hapoel Haifa FC,2,1,,,
+61592410,2025-12-06 13:00,Hapoel Tel Aviv FC,Hapoel Petah Tikva FC,4,0,,,
+61591662,2025-12-06 17:30,Hapoel Ironi Kiryat Shmona FC,Maccabi Haifa FC,0,1,,,
+61591670,2025-12-07 18:00,Hapoel Haifa FC,Maccabi Netanya FC,3,4,,,
+61591672,2025-12-07 18:30,Hapoel Be`er Sheva FC,Maccabi Tel Aviv FC,1,0,,,
+61591668,2025-12-08 17:45,MS Ashdod,Ironi Tiberias,1,1,1.900,3.600,3.300
+66494072,2025-12-08 17:45,Maccabi Bney Reine,Bnei Sakhnin FC,0,1,2.450,3.200,2.550
+61591666,2025-12-08 18:00,Beitar Jerusalem FC,Hapoel Jerusalem FC,1,1,1.400,4.500,6.000
+61591680,2025-12-13 13:00,MS Ashdod,Hapoel Jerusalem FC,0,2,2.100,3.250,3.000
+61591686,2025-12-13 15:00,Hapoel Ironi Kiryat Shmona FC,Hapoel Tel Aviv FC,2,2,3.500,3.300,1.900
+61591678,2025-12-13 16:00,Hapoel Haifa FC,Ironi Tiberias,2,0,1.900,3.500,3.200
+61591676,2025-12-13 17:30,Hapoel Be`er Sheva FC,Maccabi Netanya FC,2,0,1.400,4.333,6.000
+61591684,2025-12-14 18:15,Maccabi Bney Reine,Maccabi Haifa FC,0,4,6.500,4.200,1.400
+61592412,2025-12-15 18:00,Maccabi Tel Aviv FC,Hapoel Petah Tikva FC,2,2,1.420,4.100,6.000
+63577529,2025-12-15 18:30,Beitar Jerusalem FC,Bnei Sakhnin FC,2,1,1.300,4.500,8.000
+61591690,2025-12-20 13:00,Hapoel Tel Aviv FC,Maccabi Bney Reine,3,1,1.400,4.500,6.500
+61591696,2025-12-20 15:30,Hapoel Jerusalem FC,Hapoel Haifa FC,0,1,2.375,3.600,2.600
+61591694,2025-12-20 16:30,Bnei Sakhnin FC,MS Ashdod,3,0,2.625,3.100,2.625
+61592484,2025-12-20 16:30,Hapoel Petah Tikva FC,Hapoel Ironi Kiryat Shmona FC,4,1,2.100,3.300,3.100
+61591698,2025-12-20 17:30,Ironi Tiberias,Hapoel Be`er Sheva FC,3,0,8.000,5.500,1.285
+61591700,2025-12-21 18:15,Maccabi Netanya FC,Maccabi Tel Aviv FC,1,1,3.400,4.333,1.800
+63577627,2025-12-22 18:30,Maccabi Haifa FC,Beitar Jerusalem FC,1,2,2.250,3.600,2.700
+61591714,2025-12-30 17:00,Maccabi Bney Reine,Hapoel Ironi Kiryat Shmona FC,3,1,2.900,3.250,2.150
+61591708,2025-12-30 17:30,Hapoel Haifa FC,Bnei Sakhnin FC,0,2,2.200,3.200,2.800
+61591704,2025-12-30 18:00,Maccabi Tel Aviv FC,Ironi Tiberias,1,1,1.181,5.750,11.000
+61592416,2025-12-31 17:30,Maccabi Netanya FC,Hapoel Petah Tikva FC,0,2,1.900,3.600,3.300
+61591710,2025-12-31 17:45,MS Ashdod,Maccabi Haifa FC,0,4,4.750,4.200,1.550
+61591706,2025-12-31 18:00,Hapoel Be`er Sheva FC,Hapoel Jerusalem FC,4,1,1.222,5.000,10.000
+61591712,2026-01-01 18:30,Beitar Jerusalem FC,Hapoel Tel Aviv FC,1,0,1.833,3.600,3.700
+61591726,2026-01-03 13:00,Hapoel Jerusalem FC,Maccabi Tel Aviv FC,1,3,6.000,4.000,1.420
+61591724,2026-01-03 15:30,Bnei Sakhnin FC,Hapoel Be`er Sheva FC,0,5,7.500,4.100,1.380
+61591728,2026-01-03 16:30,Ironi Tiberias,Maccabi Netanya FC,4,0,3.750,3.700,1.727
+61592422,2026-01-03 16:30,Hapoel Petah Tikva FC,Maccabi Bney Reine,4,1,1.615,3.600,4.500
+61591720,2026-01-04 18:15,Hapoel Tel Aviv FC,MS Ashdod,1,0,1.420,4.100,6.250
+61591718,2026-01-04 18:30,Hapoel Ironi Kiryat Shmona FC,Beitar Jerusalem FC,1,2,4.750,3.750,1.571
+65347742,2026-01-05 18:30,Maccabi Haifa FC,Hapoel Haifa FC,2,0,1.420,4.200,5.500
+61591732,2026-01-09 12:00,Maccabi Netanya FC,Hapoel Jerusalem FC,1,1,1.650,3.750,4.500
+61591734,2026-01-10 13:00,Maccabi Tel Aviv FC,Bnei Sakhnin FC,1,0,1.222,5.750,9.000
+61591738,2026-01-10 15:30,Hapoel Haifa FC,Hapoel Tel Aviv FC,3,3,3.700,3.500,1.850
+61592424,2026-01-10 16:30,Ironi Tiberias,Hapoel Petah Tikva FC,1,4,3.250,3.500,2.000
+61591742,2026-01-10 17:30,Beitar Jerusalem FC,Maccabi Bney Reine,1,0,1.222,6.000,10.000
+61591736,2026-01-10 18:00,Hapoel Be`er Sheva FC,Maccabi Haifa FC,0,0,1.550,3.900,4.750
+61591740,2026-01-11 17:30,MS Ashdod,Hapoel Ironi Kiryat Shmona FC,2,5,2.700,3.250,2.450
+61592426,2026-01-17 13:00,Hapoel Petah Tikva FC,Beitar Jerusalem FC,1,3,3.900,3.600,1.727
+61591756,2026-01-17 15:30,Hapoel Jerusalem FC,Ironi Tiberias,2,0,2.100,3.250,3.100
+61591746,2026-01-17 16:30,Maccabi Bney Reine,MS Ashdod,0,0,2.700,3.200,2.300
+61591754,2026-01-17 17:30,Bnei Sakhnin FC,Maccabi Netanya FC,2,1,3.300,3.400,1.900
+61591752,2026-01-18 18:30,Maccabi Haifa FC,Maccabi Tel Aviv FC,4,1,2.900,3.500,2.100
+67239432,2026-01-19 17:30,Hapoel Ironi Kiryat Shmona FC,Hapoel Haifa FC,3,1,2.100,3.400,2.875
+67239434,2026-01-19 18:00,Hapoel Tel Aviv FC,Hapoel Be`er Sheva FC,2,1,3.800,3.400,1.750
+61592428,2026-01-23 12:00,Hapoel Jerusalem FC,Hapoel Petah Tikva FC,2,1,2.875,3.300,2.200
+61591762,2026-01-24 13:00,Maccabi Netanya FC,Maccabi Haifa FC,4,1,4.100,3.750,1.727
+61591760,2026-01-24 16:30,Ironi Tiberias,Bnei Sakhnin FC,1,1,2.450,3.100,2.750
+61591768,2026-01-24 16:30,Hapoel Haifa FC,Maccabi Bney Reine,0,1,1.909,3.400,3.600
+61591766,2026-01-24 17:30,Hapoel Be`er Sheva FC,Hapoel Ironi Kiryat Shmona FC,3,2,1.222,5.750,8.500
+61591770,2026-01-25 18:15,MS Ashdod,Beitar Jerusalem FC,1,1,6.500,4.200,1.444
+67239436,2026-01-26 18:30,Maccabi Tel Aviv FC,Hapoel Tel Aviv FC,1,2,1.950,3.400,3.300
+61591780,2026-01-31 13:00,Hapoel Tel Aviv FC,Maccabi Netanya FC,2,0,1.950,3.500,3.250
+61591776,2026-01-31 15:30,Maccabi Bney Reine,Hapoel Be`er Sheva FC,0,2,9.500,5.250,1.222
+61591784,2026-01-31 16:30,Bnei Sakhnin FC,Hapoel Jerusalem FC,0,0,2.550,2.875,2.750
+61591774,2026-01-31 17:15,Beitar Jerusalem FC,Hapoel Haifa FC,2,2,1.300,4.750,7.500
+61591782,2026-01-31 17:30,Maccabi Haifa FC,Ironi Tiberias,3,2,1.250,5.000,9.000
+61592430,2026-02-01 18:00,Hapoel Petah Tikva FC,MS Ashdod,2,0,1.833,3.400,3.600
+67873798,2026-02-02 18:00,Hapoel Ironi Kiryat Shmona FC,Maccabi Tel Aviv FC,1,4,4.333,3.600,1.650
+61591790,2026-02-07 13:00,Ironi Tiberias,Hapoel Tel Aviv FC,0,2,4.750,3.700,1.615
+61591788,2026-02-07 15:30,Hapoel Jerusalem FC,Maccabi Haifa FC,1,1,5.500,3.750,1.533
+61591798,2026-02-07 16:30,Hapoel Haifa FC,MS Ashdod,0,2,2.100,3.400,3.100
+61592432,2026-02-07 16:30,Bnei Sakhnin FC,Hapoel Petah Tikva FC,1,2,3.000,3.100,2.250
+61591792,2026-02-07 17:45,Maccabi Netanya FC,Hapoel Ironi Kiryat Shmona FC,1,1,1.850,3.600,3.500
+67874374,2026-02-09 18:00,Maccabi Tel Aviv FC,Maccabi Bney Reine,4,0,1.166,6.500,13.000
+67874376,2026-02-09 18:30,Hapoel Be`er Sheva FC,Beitar Jerusalem FC,2,1,1.550,4.100,4.750
+61591810,2026-02-13 12:00,Hapoel Tel Aviv FC,Hapoel Jerusalem FC,3,1,1.500,3.500,5.750
+61592438,2026-02-14 13:00,Hapoel Petah Tikva FC,Hapoel Haifa FC,0,1,1.900,3.400,3.500
+61591808,2026-02-14 15:30,Hapoel Ironi Kiryat Shmona FC,Ironi Tiberias,2,2,2.000,3.200,3.300
+61591806,2026-02-14 16:30,Maccabi Bney Reine,Maccabi Netanya FC,0,4,4.000,3.700,1.700
+61591802,2026-02-14 17:30,MS Ashdod,Hapoel Be`er Sheva FC,1,2,8.000,4.750,1.285
+61591812,2026-02-15 18:15,Maccabi Haifa FC,Bnei Sakhnin FC,4,0,1.285,4.500,8.500
+67874378,2026-02-16 18:30,Beitar Jerusalem FC,Maccabi Tel Aviv FC,0,0,2.700,3.500,2.250
+61591824,2026-02-21 13:00,Maccabi Tel Aviv FC,MS Ashdod,3,2,1.250,5.000,8.500
+61592440,2026-02-21 15:30,Maccabi Haifa FC,Hapoel Petah Tikva FC,0,1,1.533,3.800,5.000
+61591818,2026-02-21 16:30,Hapoel Jerusalem FC,Hapoel Ironi Kiryat Shmona FC,0,1,2.600,3.000,2.500
+61591816,2026-02-21 17:30,Bnei Sakhnin FC,Hapoel Tel Aviv FC,0,0,4.750,3.400,1.650
+61591820,2026-02-21 17:30,Ironi Tiberias,Maccabi Bney Reine,2,1,2.000,3.300,3.100
+61591826,2026-02-22 18:15,Hapoel Be`er Sheva FC,Hapoel Haifa FC,1,1,1.200,5.750,11.000
+67874382,2026-02-23 18:30,Maccabi Netanya FC,Beitar Jerusalem FC,2,8,3.100,3.600,1.950
+70151938,2026-04-04 16:45,Maccabi Bney Reine,Hapoel Jerusalem FC,0,0,3.900,3.300,1.850
+70151940,2026-04-04 17:00,Hapoel Ironi Kiryat Shmona FC,Bnei Sakhnin FC,2,0,1.950,3.250,3.700
+70151942,2026-04-04 17:15,Hapoel Be`er Sheva FC,Hapoel Petah Tikva FC,1,1,1.300,5.250,7.500
+70151944,2026-04-04 17:30,Beitar Jerusalem FC,Ironi Tiberias,3,2,1.333,4.750,7.500
+70151946,2026-04-05 16:00,MS Ashdod,Maccabi Netanya FC,2,3,3.200,3.500,1.909
+70151948,2026-04-05 17:15,Hapoel Haifa FC,Maccabi Tel Aviv FC,1,4,5.250,3.700,1.533
+70151950,2026-04-06 17:30,Hapoel Tel Aviv FC,Maccabi Haifa FC,2,0,2.600,3.400,2.300
+70151952,2026-04-11 17:00,Ironi Tiberias,MS Ashdod,0,0,2.800,3.200,2.200
+70151954,2026-04-11 17:00,Bnei Sakhnin FC,Maccabi Bney Reine,2,0,1.650,3.250,4.750
+70151956,2026-04-11 17:00,Maccabi Netanya FC,Hapoel Haifa FC,0,0,1.909,3.400,3.250
+70151958,2026-04-11 17:00,Hapoel Petah Tikva FC,Hapoel Tel Aviv FC,0,0,3.000,3.250,2.100
+70151960,2026-04-12 17:00,Hapoel Jerusalem FC,Beitar Jerusalem FC,0,2,5.000,3.800,1.533
+70151962,2026-04-12 17:00,Maccabi Haifa FC,Hapoel Ironi Kiryat Shmona FC,4,1,1.444,4.000,5.750
+70151964,2026-04-12 17:30,Maccabi Tel Aviv FC,Hapoel Be`er Sheva FC,1,3,2.150,3.500,2.800
+70773028,2026-04-18 16:50,Maccabi Netanya FC,MS Ashdod,2,1,1.750,3.800,3.600
+70773038,2026-04-18 17:00,Hapoel Haifa FC,Maccabi Bney Reine,2,3,1.500,3.900,5.250
+70773040,2026-04-18 17:15,Bnei Sakhnin FC,Ironi Tiberias,0,0,2.300,3.000,2.875
+70773022,2026-04-18 17:30,Hapoel Be`er Sheva FC,Hapoel Petah Tikva FC,3,0,1.333,4.750,6.500
+70773042,2026-04-19 16:00,Hapoel Ironi Kiryat Shmona FC,Hapoel Jerusalem FC,3,1,2.200,3.100,3.000
+70773024,2026-04-19 17:00,Beitar Jerusalem FC,Maccabi Haifa FC,3,0,1.950,3.750,3.000
+70773026,2026-04-19 17:30,Maccabi Tel Aviv FC,Hapoel Tel Aviv FC,1,0,1.800,3.400,3.700
+70812370,2026-04-25 17:00,Hapoel Petah Tikva FC,Hapoel Tel Aviv FC,0,1,5.750,4.100,1.420
+70812536,2026-04-25 17:00,MS Ashdod,Maccabi Bney Reine,1,2,1.650,3.600,4.333
+70812372,2026-04-25 17:15,Maccabi Haifa FC,Maccabi Tel Aviv FC,1,3,2.750,3.700,2.100
+70812538,2026-04-25 17:15,Maccabi Netanya FC,Bnei Sakhnin FC,3,0,1.727,3.500,4.100
+70812374,2026-04-25 17:30,Hapoel Be`er Sheva FC,Beitar Jerusalem FC,2,2,1.750,3.600,3.600
+70812540,2026-04-26 17:00,Hapoel Jerusalem FC,Hapoel Haifa FC,0,1,2.625,3.200,2.450
+70812542,2026-04-26 17:00,Ironi Tiberias,Hapoel Ironi Kiryat Shmona FC,2,0,2.800,3.200,2.200
+70812544,2026-04-28 16:00,Bnei Sakhnin FC,MS Ashdod,1,1,4.333,3.600,1.650
+70812376,2026-04-28 16:30,Maccabi Tel Aviv FC,Hapoel Be`er Sheva FC,1,0,2.150,3.500,2.700
+70812378,2026-04-28 17:00,Beitar Jerusalem FC,Hapoel Petah Tikva FC,3,1,1.333,4.500,7.000
+70812546,2026-04-29 16:00,Hapoel Haifa FC,Ironi Tiberias,1,1,2.100,3.400,2.900
+70812548,2026-04-29 16:00,Maccabi Bney Reine,Hapoel Jerusalem FC,0,1,3.700,3.000,1.950
+70812550,2026-04-29 16:00,Hapoel Ironi Kiryat Shmona FC,Maccabi Netanya FC,1,0,2.800,3.400,2.150
+70812380,2026-04-29 16:30,Hapoel Tel Aviv FC,Maccabi Haifa FC,4,0,2.250,3.300,2.700
+70812382,2026-05-02 17:15,Hapoel Petah Tikva FC,Maccabi Haifa FC,1,2,3.000,3.400,2.100
+70812384,2026-05-02 17:30,Hapoel Be`er Sheva FC,Hapoel Tel Aviv FC,2,0,1.666,3.700,4.200
+70812386,2026-05-02 17:30,Beitar Jerusalem FC,Maccabi Tel Aviv FC,4,2,2.400,3.400,2.550
+70812552,2026-05-03 16:30,Hapoel Ironi Kiryat Shmona FC,Hapoel Haifa FC,2,0,2.350,3.200,2.700
+70812554,2026-05-03 17:00,MS Ashdod,Ironi Tiberias,0,3,2.100,3.250,3.000
+70812556,2026-05-04 17:00,Bnei Sakhnin FC,Maccabi Bney Reine,0,2,2.100,3.000,3.250
+70812558,2026-05-04 17:00,Maccabi Netanya FC,Hapoel Jerusalem FC,1,0,1.800,3.250,3.900
+70812388,2026-05-05 16:30,Maccabi Tel Aviv FC,Hapoel Petah Tikva FC,4,0,1.333,5.000,6.250
+70812390,2026-05-06 16:30,Hapoel Tel Aviv FC,Beitar Jerusalem FC,0,1,2.875,3.600,2.050
+70812392,2026-05-06 17:00,Maccabi Haifa FC,Hapoel Be`er Sheva FC,0,1,4.000,3.800,1.650
+70812560,2026-05-09 17:15,Maccabi Bney Reine,Hapoel Ironi Kiryat Shmona FC,1,1,3.600,3.250,1.909
+70812394,2026-05-09 17:30,Maccabi Haifa FC,Beitar Jerusalem FC,3,0,4.500,4.200,1.533
+70812396,2026-05-09 17:30,Hapoel Tel Aviv FC,Maccabi Tel Aviv FC,1,1,2.550,3.250,2.450
+70812398,2026-05-09 17:30,Hapoel Petah Tikva FC,Hapoel Be`er Sheva FC,2,4,7.000,4.500,1.333
+70812562,2026-05-10 17:00,Hapoel Haifa FC,MS Ashdod,1,0,2.100,3.300,3.000
+70812580,2026-05-10 17:00,Hapoel Jerusalem FC,Bnei Sakhnin FC,1,0,1.950,3.000,3.700
+70812658,2026-05-10 17:00,Ironi Tiberias,Maccabi Netanya FC,4,3,2.100,3.500,2.900
+70812400,2026-05-12 17:00,Hapoel Tel Aviv FC,Hapoel Petah Tikva FC,1,0,1.200,6.000,10.000
+70812402,2026-05-12 17:30,Beitar Jerusalem FC,Hapoel Be`er Sheva FC,1,1,2.450,3.700,2.300
+70812660,2026-05-13 17:00,Bnei Sakhnin FC,Hapoel Ironi Kiryat Shmona FC,0,4,2.700,3.000,2.400
+70812662,2026-05-13 17:00,Maccabi Netanya FC,Hapoel Haifa FC,1,1,2.150,3.600,2.700
+70812664,2026-05-13 17:00,Ironi Tiberias,Maccabi Bney Reine,1,0,1.666,3.600,4.200
+70812666,2026-05-13 17:00,MS Ashdod,Hapoel Jerusalem FC,0,1,2.150,3.100,3.200
+70812404,2026-05-13 17:30,Maccabi Tel Aviv FC,Maccabi Haifa FC,3,0,1.500,4.100,4.750
+70812408,2026-05-15 13:00,Hapoel Tel Aviv FC,Hapoel Be`er Sheva FC,0,2,3.700,3.300,1.850
+70812406,2026-05-16 15:00,Maccabi Haifa FC,Hapoel Petah Tikva FC,1,1,1.750,3.700,3.700
+70812410,2026-05-16 17:30,Maccabi Tel Aviv FC,Beitar Jerusalem FC,1,2,2.750,3.600,2.100
+70812668,2026-05-18 17:00,Hapoel Ironi Kiryat Shmona FC,MS Ashdod,2,3,2.150,3.400,2.875
+70812670,2026-05-18 17:00,Hapoel Haifa FC,Bnei Sakhnin FC,3,0,2.000,3.300,3.250
+70812672,2026-05-18 17:00,Maccabi Bney Reine,Maccabi Netanya FC,1,4,4.100,4.000,1.666
+70812674,2026-05-18 17:00,Hapoel Jerusalem FC,Ironi Tiberias,0,2,1.833,3.500,3.600
+70812412,2026-05-19 17:30,Hapoel Petah Tikva FC,Beitar Jerusalem FC,0,0,9.500,6.000,1.222
+70812414,2026-05-19 17:30,Hapoel Be`er Sheva FC,Maccabi Tel Aviv FC,4,2,1.800,3.700,3.500
+70812416,2026-05-19 17:30,Maccabi Haifa FC,Hapoel Tel Aviv FC,4,1,1.909,3.600,3.400
+70812418,2026-05-23 15:00,Hapoel Petah Tikva FC,Maccabi Tel Aviv FC,2,2,4.500,4.200,1.500
+70812420,2026-05-23 18:00,Beitar Jerusalem FC,Hapoel Tel Aviv FC,1,1,1.650,3.800,4.100
+70812422,2026-05-23 18:00,Hapoel Be`er Sheva FC,Maccabi Haifa FC,2,5,1.500,4.200,4.750
+72225060,2026-08-22 17:00,Maccabi Petah Tikva FC,Hapoel Ironi Kiryat Shmona FC,2,1,2.625,3.400,2.200
+72225062,2026-08-22 17:00,Ironi Tiberias,Hapoel Petah Tikva FC,1,0,2.600,3.200,2.400
+72225066,2026-08-22 17:30,Maccabi Haifa FC,Hapoel Ramat Gan Givatayim FC,2,1,1.333,4.750,7.000
+72225064,2026-08-23 17:15,Hapoel Jerusalem FC,Maccabi Tel Aviv FC,2,5,5.500,4.333,1.420
+72225072,2026-08-24 17:00,Maccabi Netanya FC,Bnei Sakhnin FC,0,0,1.615,3.600,4.500
+72225074,2026-08-29 17:00,Bnei Sakhnin FC,Maccabi Petah Tikva FC,1,2,2.625,3.300,2.450
+72225080,2026-08-29 17:00,Hapoel Ramat Gan Givatayim FC,Hapoel Be`er Sheva FC,1,2,4.750,4.200,1.500
+72225090,2026-08-29 17:00,Hapoel Petah Tikva FC,Hapoel Jerusalem FC,1,0,2.350,3.100,2.700
+72225096,2026-08-29 17:00,Hapoel Ironi Kiryat Shmona FC,Ironi Tiberias,2,0,1.900,3.300,3.400
+72225076,2026-08-29 17:30,Beitar Jerusalem FC,Maccabi Netanya FC,1,4,1.450,4.000,5.500
+72225078,2026-08-30 17:15,Hapoel Haifa FC,Hapoel Tel Aviv FC,0,0,3.900,3.300,1.800
+74105826,2026-08-31 17:30,Maccabi Tel Aviv FC,Maccabi Haifa FC,3,1,1.666,3.800,4.100
+72225068,2026-09-02 17:00,Hapoel Be`er Sheva FC,Hapoel Haifa FC,2,2,1.380,4.333,6.000
+72225070,2026-09-03 17:30,Hapoel Tel Aviv FC,Beitar Jerusalem FC,3,0,2.000,3.500,3.000
+72225102,2026-09-05 16:45,Maccabi Petah Tikva FC,Ironi Tiberias,1,2,2.050,3.100,3.300
+72225110,2026-09-05 16:45,Hapoel Jerusalem FC,Hapoel Ironi Kiryat Shmona FC,4,2,2.550,3.000,2.550
+72225114,2026-09-05 17:30,Maccabi Haifa FC,Hapoel Petah Tikva FC,2,1,1.500,3.900,5.250
+72225132,2026-09-07 16:45,Maccabi Netanya FC,Hapoel Haifa FC,1,1,1.750,3.600,3.600
+72225126,2026-09-07 17:00,Hapoel Tel Aviv FC,Hapoel Ramat Gan Givatayim FC,4,0,1.333,4.500,7.000
+72225138,2026-09-07 17:15,Bnei Sakhnin FC,Beitar Jerusalem FC,0,1,4.500,3.750,1.600
+72225120,2026-09-07 17:30,Hapoel Be`er Sheva FC,Maccabi Tel Aviv FC,1,4,2.350,3.600,2.450
+72225172,2026-09-13 17:30,Hapoel Petah Tikva FC,Hapoel Be`er Sheva FC,0,2,4.200,3.700,1.650
+72225152,2026-09-14 16:30,Hapoel Haifa FC,Bnei Sakhnin FC,3,1,1.750,3.300,4.100
+72225160,2026-09-14 16:30,Hapoel Ramat Gan Givatayim FC,Maccabi Netanya FC,2,0,4.333,3.750,1.615
+72225178,2026-09-14 17:00,Hapoel Ironi Kiryat Shmona FC,Maccabi Haifa FC,0,4,4.200,3.700,1.666
+72225166,2026-09-14 17:30,Maccabi Tel Aviv FC,Hapoel Tel Aviv FC,4,1,2.100,3.300,2.900
+72225184,2026-09-15 16:30,Ironi Tiberias,Hapoel Jerusalem FC,2,2,2.625,3.000,2.500
+72225146,2026-09-15 17:00,Beitar Jerusalem FC,Maccabi Petah Tikva FC,3,1,1.533,4.333,4.333
+72225208,2026-09-18 12:45,Hapoel Tel Aviv FC,Hapoel Petah Tikva FC,3,0,1.333,4.333,7.500
+72225190,2026-09-19 16:30,Maccabi Petah Tikva FC,Hapoel Jerusalem FC,2,4,2.150,3.250,2.875
+72225222,2026-09-19 16:30,Bnei Sakhnin FC,Hapoel Ramat Gan Givatayim FC,1,0,2.500,3.200,2.500
+72225198,2026-09-19 17:00,Maccabi Haifa FC,Ironi Tiberias,3,2,1.250,5.000,8.000
+72225214,2026-09-19 17:00,Maccabi Netanya FC,Maccabi Tel Aviv FC,1,2,5.000,4.200,1.480
+72225204,2026-09-19 17:15,Hapoel Be`er Sheva FC,Hapoel Ironi Kiryat Shmona FC,1,0,1.400,4.333,5.750
+72225228,2026-09-19 17:30,Beitar Jerusalem FC,Hapoel Haifa FC,2,1,1.615,3.800,4.200
+72225236,2026-10-10 16:00,Hapoel Haifa FC,Maccabi Petah Tikva FC,2,1,1.850,3.500,3.400
+72225264,2026-10-10 16:00,Ironi Tiberias,Hapoel Be`er Sheva FC,0,2,6.500,4.333,1.363
+72225250,2026-10-10 16:15,Hapoel Petah Tikva FC,Maccabi Netanya FC,1,1,3.900,3.600,1.727
+72225256,2026-10-10 16:15,Hapoel Ironi Kiryat Shmona FC,Hapoel Tel Aviv FC,1,3,5.500,4.000,1.480
+72225246,2026-10-10 16:30,Maccabi Tel Aviv FC,Bnei Sakhnin FC,0,0,1.142,6.500,15.000
+72225240,2026-10-11 17:15,Hapoel Ramat Gan Givatayim FC,Beitar Jerusalem FC,0,4,5.000,4.100,1.500
+72225268,2026-10-12 17:30,Hapoel Jerusalem FC,Maccabi Haifa FC,1,4,4.200,3.700,1.650
+72225288,2026-10-17 15:45,Hapoel Tel Aviv FC,Ironi Tiberias,1,0,1.222,5.500,9.500
+72225312,2026-10-17 16:00,Hapoel Haifa FC,Hapoel Ramat Gan Givatayim FC,0,2,1.666,3.750,3.900
+72225292,2026-10-17 16:15,Maccabi Netanya FC,Hapoel Ironi Kiryat Shmona FC,1,0,1.727,3.500,3.900
+72225300,2026-10-17 16:15,Bnei Sakhnin FC,Hapoel Petah Tikva FC,2,0,2.400,3.000,2.700
+72225276,2026-10-17 16:30,Maccabi Petah Tikva FC,Maccabi Haifa FC,1,2,5.250,4.333,1.420
+72225282,2026-10-18 17:15,Hapoel Be`er Sheva FC,Hapoel Jerusalem FC,2,1,1.363,4.333,7.000
+72225308,2026-10-19 17:30,Beitar Jerusalem FC,Maccabi Tel Aviv FC,0,0,3.000,3.800,1.909
+72225340,2026-10-24 15:45,Hapoel Ironi Kiryat Shmona FC,Bnei Sakhnin FC,0,1,2.050,3.100,3.300
+72225348,2026-10-24 15:45,Hapoel Jerusalem FC,Hapoel Tel Aviv FC,0,3,6.000,4.000,1.420
+72225318,2026-10-24 16:00,Hapoel Ramat Gan Givatayim FC,Maccabi Petah Tikva FC,1,2,2.450,3.300,2.450
+72225344,2026-10-24 16:00,Ironi Tiberias,Maccabi Netanya FC,1,1,4.750,3.750,1.571
+72225326,2026-10-24 16:30,Maccabi Tel Aviv FC,Hapoel Haifa FC,6,2,1.270,5.000,8.000
+72225332,2026-10-25 18:15,Hapoel Petah Tikva FC,Beitar Jerusalem FC,0,1,7.500,4.750,1.300
+72225354,2026-10-26 17:30,Maccabi Haifa FC,Hapoel Be`er Sheva FC,2,5,2.150,3.600,2.600
+72225390,2026-10-31 13:00,Beitar Jerusalem FC,Hapoel Ironi Kiryat Shmona FC,1,1,1.270,5.250,8.000
+72225396,2026-10-31 15:30,Hapoel Haifa FC,Hapoel Petah Tikva FC,2,1,1.727,3.500,4.000
+72225382,2026-10-31 16:00,Bnei Sakhnin FC,Ironi Tiberias,1,1,2.050,3.100,3.300
+72225374,2026-10-31 17:30,Maccabi Netanya FC,Hapoel Jerusalem FC,1,1,1.615,3.750,4.333
+72225360,2026-11-01 18:00,Maccabi Petah Tikva FC,Hapoel Be`er Sheva FC,2,5,5.000,4.200,1.480
+72225402,2026-11-02 18:00,Hapoel Ramat Gan Givatayim FC,Maccabi Tel Aviv FC,0,5,9.000,6.000,1.200
+72225366,2026-11-02 18:30,Hapoel Tel Aviv FC,Maccabi Haifa FC,2,1,1.900,3.500,3.250
+72225408,2026-11-06 12:00,Maccabi Tel Aviv FC,Maccabi Petah Tikva FC,2,2,1.166,7.500,12.000
+72225416,2026-11-07 13:00,Hapoel Petah Tikva FC,Hapoel Ramat Gan Givatayim FC,2,1,2.350,3.300,2.550
+72225428,2026-11-07 15:30,Maccabi Haifa FC,Maccabi Netanya FC,0,4,1.750,3.700,3.700
+72225422,2026-11-07 16:00,Hapoel Ironi Kiryat Shmona FC,Hapoel Haifa FC,2,0,2.375,3.300,2.550
+72225426,2026-11-07 16:00,Hapoel Jerusalem FC,Bnei Sakhnin FC,1,1,2.200,3.100,3.000
+72225424,2026-11-07 17:30,Ironi Tiberias,Beitar Jerusalem FC,1,1,7.500,5.000,1.285
+72225430,2026-11-08 18:30,Hapoel Be`er Sheva FC,Hapoel Tel Aviv FC,0,1,2.350,3.250,2.600

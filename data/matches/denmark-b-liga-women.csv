@@ -1,0 +1,87 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+62245522,2025-08-24 11:00,B93 Copenhagen,Aalborg BK,4,3,,,
+62245528,2025-08-30 12:00,FC Koebenhavn,Naestved HG,3,0,,,
+62245534,2025-09-06 11:00,B93 Copenhagen,Oesterbro IF,0,2,,,
+62245562,2025-09-27 12:00,FC Koebenhavn,Oesterbro IF,2,0,,,
+62245570,2025-10-05 11:00,B93 Copenhagen,Asa Aarhus,1,5,,,
+62245580,2025-10-12 11:00,B93 Copenhagen,Esbjerg FB,4,0,,,
+62245602,2025-11-08 13:00,FC Koebenhavn,Asa Aarhus,2,4,,,
+62245606,2025-11-09 12:00,Oesterbro IF,B93 Copenhagen,1,1,,,
+62245612,2025-11-16 13:00,Esbjerg FB,Naestved HG,1,0,,,
+62245614,2025-11-16 14:00,B93 Copenhagen,FC Thy - Thistedq,1,0,,,
+62245616,2025-11-22 13:00,Naestved HG,Asa Aarhus,1,6,,,
+67239102,2026-03-14 12:00,Sundby BK,Naestved HG,2,1,,,
+67239104,2026-03-14 13:00,Viborg FF,Esbjerg FB,0,0,,,
+67239100,2026-03-15 13:00,B93 Copenhagen,Aalborg BK,2,1,2.250,3.700,2.500
+67239106,2026-03-21 12:00,Aalborg BK,Sundby BK,0,0,,,
+67239108,2026-03-21 14:00,Naestved HG,Viborg FF,1,1,2.100,4.000,2.550
+67239110,2026-03-22 13:00,Esbjerg FB,B93 Copenhagen,0,0,,,
+67239112,2026-03-28 12:00,Sundby BK,B93 Copenhagen,0,0,,,
+67239114,2026-03-28 13:00,Viborg FF,Aalborg BK,0,0,,,
+67239116,2026-03-29 12:00,Esbjerg FB,Naestved HG,0,0,,,
+67239118,2026-04-04 11:00,B93 Copenhagen,Naestved HG,0,0,,,
+67239120,2026-04-04 11:00,Aalborg BK,Esbjerg FB,0,0,,,
+67239122,2026-04-04 13:00,Sundby BK,Viborg FF,3,1,2.400,3.600,2.400
+67239124,2026-04-25 12:00,Viborg FF,B93 Copenhagen,0,0,,,
+67239126,2026-04-25 13:00,Naestved HG,Aalborg BK,0,0,,,
+67239128,2026-04-25 13:00,Esbjerg FB,Sundby BK,0,0,,,
+67239130,2026-05-02 11:00,Aalborg BK,B93 Copenhagen,0,0,,,
+67239134,2026-05-02 11:30,Esbjerg FB,Viborg FF,0,0,,,
+67239132,2026-05-03 13:00,Naestved HG,Sundby BK,0,0,,,
+67239136,2026-05-09 11:00,B93 Copenhagen,Esbjerg FB,0,0,,,
+67239138,2026-05-09 12:00,Viborg FF,Naestved HG,0,0,,,
+67239140,2026-05-10 13:00,Sundby BK,Aalborg BK,3,1,1.666,4.200,3.600
+67239142,2026-05-22 17:00,B93 Copenhagen,Sundby BK,0,0,,,
+67239146,2026-05-25 11:00,Aalborg BK,Viborg FF,0,0,,,
+67239144,2026-05-25 12:00,Naestved HG,Esbjerg FB,0,0,,,
+67239148,2026-05-30 12:00,Viborg FF,Sundby BK,0,0,,,
+67239152,2026-05-31 12:00,Esbjerg FB,Aalborg BK,0,0,,,
+67239150,2026-05-31 13:00,Naestved HG,B93 Copenhagen,3,2,,,
+72695314,2026-08-15 11:00,B93 Copenhagen,Viborg FF,2,1,,,
+72695316,2026-08-15 12:00,Naestved HG,Aalborg BK,1,0,1.909,3.900,3.000
+72695318,2026-08-15 12:00,Oesterbro IF,Sundby BK,3,2,,,
+72695320,2026-08-15 12:00,FC Thy - Thistedq,Esbjerg FB,3,3,,,
+72695322,2026-08-22 11:00,Aalborg BK,Oesterbro IF,0,6,,,
+72695324,2026-08-22 11:00,Sundby BK,B93 Copenhagen,2,0,2.400,3.600,2.350
+72695326,2026-08-22 12:00,Viborg FF,FC Thy - Thistedq,1,3,,,
+72695328,2026-08-23 12:00,Esbjerg FB,Naestved HG,1,2,,,
+72695330,2026-08-29 11:00,B93 Copenhagen,Aalborg BK,4,0,1.750,3.800,3.500
+72695332,2026-08-29 12:00,FC Thy - Thistedq,Sundby BK,3,6,,,
+72695334,2026-08-29 12:00,Naestved HG,Oesterbro IF,0,1,,,
+72695336,2026-08-30 13:00,Esbjerg FB,Viborg FF,0,3,,,
+72695338,2026-09-05 11:00,Sundby BK,Esbjerg FB,2,1,,,
+72695340,2026-09-05 12:00,Oesterbro IF,B93 Copenhagen,3,1,,,
+72695342,2026-09-06 11:00,Aalborg BK,FC Thy - Thistedq,3,6,,,
+72695344,2026-09-06 12:00,Naestved HG,Viborg FF,1,2,2.000,4.000,2.750
+72695346,2026-09-12 11:00,B93 Copenhagen,Naestved HG,2,1,1.800,4.000,3.250
+72695348,2026-09-12 12:00,FC Thy - Thistedq,Oesterbro IF,3,2,,,
+72695350,2026-09-13 11:00,Viborg FF,Sundby BK,1,1,3.400,3.500,1.850
+72695352,2026-09-13 13:15,Esbjerg FB,Aalborg BK,2,4,,,
+72695354,2026-09-19 11:00,Aalborg BK,Viborg FF,0,0,,,
+72695356,2026-09-19 12:00,Oesterbro IF,Esbjerg FB,4,1,,,
+72695358,2026-09-19 12:00,Naestved HG,Sundby BK,1,1,3.250,3.750,1.850
+72695360,2026-09-19 12:00,B93 Copenhagen,FC Thy - Thistedq,3,2,,,
+72695362,2026-09-26 11:00,Sundby BK,Aalborg BK,2,1,1.400,5.000,5.000
+72695364,2026-09-26 12:00,Viborg FF,Oesterbro IF,1,1,,,
+72695366,2026-09-26 12:00,FC Thy - Thistedq,Naestved HG,0,4,,,
+72695368,2026-09-27 12:00,Esbjerg FB,B93 Copenhagen,1,2,,,
+72695372,2026-10-03 10:00,Sundby BK,Oesterbro IF,2,0,2.375,3.700,2.375
+72695370,2026-10-03 11:00,Aalborg BK,Naestved HG,1,4,4.000,4.100,1.615
+72695374,2026-10-03 12:00,Viborg FF,B93 Copenhagen,0,2,,,
+72695376,2026-10-04 12:00,Esbjerg FB,FC Thy - Thistedq,1,3,,,
+72695378,2026-10-17 11:00,B93 Copenhagen,Esbjerg FB,3,2,1.222,5.500,9.000
+72695380,2026-10-17 12:00,Oesterbro IF,Viborg FF,0,1,,,
+72695382,2026-10-17 12:00,Naestved HG,FC Thy - Thistedq,2,1,2.200,3.600,2.600
+72695384,2026-10-17 12:00,Aalborg BK,Sundby BK,1,4,,,
+72695386,2026-10-24 11:00,Sundby BK,Naestved HG,0,1,,,
+72695388,2026-10-24 12:00,FC Thy - Thistedq,B93 Copenhagen,1,2,,,
+72695390,2026-10-24 12:00,Viborg FF,Aalborg BK,6,1,,,
+72695392,2026-10-25 13:00,Esbjerg FB,Oesterbro IF,1,3,,,
+72695400,2026-10-31 11:30,Naestved HG,Esbjerg FB,6,1,1.090,10.000,17.000
+72695394,2026-10-31 12:00,B93 Copenhagen,Sundby BK,3,1,,,
+72695396,2026-10-31 13:00,Oesterbro IF,Aalborg BK,1,0,1.200,6.250,8.500
+72695398,2026-10-31 13:00,FC Thy - Thistedq,Viborg FF,0,3,,,
+72695402,2026-11-07 12:00,Aalborg BK,B93 Copenhagen,1,3,,,
+72695404,2026-11-07 13:00,Sundby BK,FC Thy - Thistedq,5,0,,,
+72695408,2026-11-07 13:00,Viborg FF,Esbjerg FB,2,0,,,
+72695406,2026-11-08 13:00,Oesterbro IF,Naestved HG,1,0,2.050,4.100,2.625

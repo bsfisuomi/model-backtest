@@ -1,0 +1,511 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+50852823,2025-05-23 19:00,Real Betis Seville,Valencia CF,1,1,,,
+50852825,2025-05-24 14:15,Real Madrid,Real Sociedad San Sebastian,2,0,,,
+50852829,2025-05-24 16:30,CD Leganes,Real Valladolid,3,0,,,
+50852831,2025-05-24 16:30,Espanyol Barcelona,UD Las Palmas,2,0,,,
+50852827,2025-05-24 19:00,Deportivo Alaves,CA Osasuna,1,1,,,
+50852835,2025-05-24 19:00,Getafe CF,RC Celta de Vigo,1,2,,,
+50852837,2025-05-24 19:00,Rayo Vallecano,RCD Mallorca,0,0,,,
+50852833,2025-05-25 12:00,Girona FC,Atletico Madrid,0,4,,,
+50852839,2025-05-25 14:15,Villarreal CF,Sevilla FC,4,2,,,
+50852821,2025-05-25 19:00,Athletic Bilbao,FC Barcelona,0,3,,,
+61623434,2025-08-15 17:00,Girona FC,Rayo Vallecano,1,3,,,
+61623442,2025-08-15 19:30,Villarreal CF,Real Oviedo,2,0,,,
+61623436,2025-08-16 17:30,RCD Mallorca,FC Barcelona,0,3,,,
+61623424,2025-08-16 19:30,Deportivo Alaves,Levante UD,2,1,,,
+61623440,2025-08-16 19:30,Valencia CF,Real Sociedad San Sebastian,1,1,,,
+61623428,2025-08-17 15:00,RC Celta de Vigo,Getafe CF,0,2,,,
+61623426,2025-08-17 17:30,Athletic Bilbao,Sevilla FC,3,2,,,
+61623432,2025-08-17 19:30,Espanyol Barcelona,Atletico Madrid,2,1,,,
+61623430,2025-08-18 19:00,Elche CF,Real Betis Seville,1,1,,,
+61623438,2025-08-19 19:00,Real Madrid,CA Osasuna,1,0,,,
+61623966,2025-08-22 19:30,Real Betis Seville,Deportivo Alaves,1,0,,,
+61623970,2025-08-23 15:00,RCD Mallorca,RC Celta de Vigo,1,1,,,
+61623960,2025-08-23 17:30,Atletico Madrid,Elche CF,1,1,,,
+61623968,2025-08-23 19:30,Levante UD,FC Barcelona,2,3,,,
+61623962,2025-08-24 15:00,CA Osasuna,Valencia CF,1,0,,,
+61623972,2025-08-24 17:30,Real Sociedad San Sebastian,Espanyol Barcelona,2,2,,,
+61623976,2025-08-24 17:30,Villarreal CF,Girona FC,5,0,,,
+61623964,2025-08-24 19:30,Real Oviedo,Real Madrid,0,3,,,
+61623958,2025-08-25 17:30,Athletic Bilbao,Rayo Vallecano,1,0,,,
+61623974,2025-08-25 19:30,Sevilla FC,Getafe CF,1,2,,,
+61624052,2025-08-27 19:00,RC Celta de Vigo,Real Betis Seville,1,1,,,
+61623982,2025-08-29 17:30,Elche CF,Levante UD,2,0,,,
+61623994,2025-08-29 19:30,Valencia CF,Getafe CF,3,0,,,
+61623978,2025-08-30 15:00,Deportivo Alaves,Atletico Madrid,1,1,,,
+61623988,2025-08-30 17:00,Real Oviedo,Real Sociedad San Sebastian,1,0,,,
+61623986,2025-08-30 17:30,Girona FC,Sevilla FC,0,2,,,
+61623996,2025-08-30 19:30,Real Madrid,RCD Mallorca,2,1,,,
+61623980,2025-08-31 15:00,RC Celta de Vigo,Villarreal CF,1,1,,,
+61623990,2025-08-31 17:00,Real Betis Seville,Athletic Bilbao,1,2,,,
+61623984,2025-08-31 17:30,Espanyol Barcelona,CA Osasuna,1,0,,,
+61623992,2025-08-31 19:30,Rayo Vallecano,FC Barcelona,1,1,,,
+61624014,2025-09-12 19:00,Sevilla FC,Elche CF,2,2,,,
+61624006,2025-09-13 12:00,Getafe CF,Real Oviedo,2,0,,,
+61624016,2025-09-13 14:15,Real Sociedad San Sebastian,Real Madrid,1,2,,,
+61624010,2025-09-13 16:30,Athletic Bilbao,Deportivo Alaves,0,1,,,
+61623998,2025-09-13 19:00,Atletico Madrid,Villarreal CF,2,0,,,
+61624002,2025-09-14 12:00,RC Celta de Vigo,Girona FC,1,1,,,
+61624012,2025-09-14 14:15,Levante UD,Real Betis Seville,2,2,,,
+61624008,2025-09-14 16:30,CA Osasuna,Rayo Vallecano,2,0,,,
+61624000,2025-09-14 19:00,FC Barcelona,Valencia CF,6,0,,,
+61624004,2025-09-15 19:00,Espanyol Barcelona,RCD Mallorca,3,2,,,
+61624022,2025-09-19 19:00,Real Betis Seville,Real Sociedad San Sebastian,3,1,,,
+61624026,2025-09-20 12:00,Girona FC,Levante UD,0,4,,,
+61624034,2025-09-20 14:15,Real Madrid,Espanyol Barcelona,2,0,,,
+61624018,2025-09-20 16:30,Deportivo Alaves,Sevilla FC,1,2,,,
+61624036,2025-09-20 16:30,Villarreal CF,CA Osasuna,2,1,,,
+61624028,2025-09-20 19:00,Valencia CF,Athletic Bilbao,2,0,,,
+61624032,2025-09-21 12:00,Rayo Vallecano,RC Celta de Vigo,1,1,,,
+61624030,2025-09-21 14:15,RCD Mallorca,Atletico Madrid,1,1,,,
+61624024,2025-09-21 16:30,Elche CF,Real Oviedo,1,0,,,
+61624020,2025-09-21 19:00,FC Barcelona,Getafe CF,3,0,,,
+61624038,2025-09-23 17:00,Athletic Bilbao,Girona FC,1,1,,,
+61624042,2025-09-23 17:00,Espanyol Barcelona,Valencia CF,2,2,,,
+61624044,2025-09-23 19:30,Levante UD,Real Madrid,1,4,,,
+61624046,2025-09-23 19:30,Sevilla FC,Villarreal CF,1,2,,,
+61624048,2025-09-24 17:00,Getafe CF,Deportivo Alaves,1,1,,,
+61624040,2025-09-24 19:30,Atletico Madrid,Rayo Vallecano,3,2,,,
+61624056,2025-09-24 19:30,Real Sociedad San Sebastian,RCD Mallorca,1,0,,,
+61624054,2025-09-25 17:30,CA Osasuna,Elche CF,1,1,,,
+61624050,2025-09-25 19:30,Real Oviedo,FC Barcelona,1,3,,,
+61624074,2025-09-26 19:00,Girona FC,Espanyol Barcelona,0,0,,,
+61624064,2025-09-27 12:00,Getafe CF,Levante UD,1,1,,,
+61624058,2025-09-27 14:15,Atletico Madrid,Real Madrid,5,2,,,
+61624068,2025-09-27 16:30,RCD Mallorca,Deportivo Alaves,1,0,,,
+61624070,2025-09-27 19:00,Villarreal CF,Athletic Bilbao,1,0,,,
+61624066,2025-09-28 12:00,Rayo Vallecano,Sevilla FC,0,1,,,
+61624072,2025-09-28 14:15,Elche CF,RC Celta de Vigo,2,1,,,
+61624060,2025-09-28 16:30,FC Barcelona,Real Sociedad San Sebastian,2,1,,,
+61624062,2025-09-28 19:00,Real Betis Seville,CA Osasuna,2,0,,,
+61624076,2025-09-30 18:00,Valencia CF,Real Oviedo,1,2,,,
+63643391,2025-10-03 19:00,CA Osasuna,Getafe CF,2,1,,,
+61624094,2025-10-04 12:00,Real Oviedo,Levante UD,0,2,,,
+61624082,2025-10-04 14:15,Girona FC,Valencia CF,2,1,,,
+61624080,2025-10-04 16:30,Athletic Bilbao,RCD Mallorca,2,1,,,
+61624084,2025-10-04 19:00,Real Madrid,Villarreal CF,3,1,,,
+61624078,2025-10-05 12:00,Deportivo Alaves,Elche CF,3,1,,,
+61624088,2025-10-05 14:15,Sevilla FC,FC Barcelona,4,1,,,
+61624090,2025-10-05 16:30,Espanyol Barcelona,Real Betis Seville,1,2,,,
+61624096,2025-10-05 16:30,Real Sociedad San Sebastian,Rayo Vallecano,0,1,,,
+61624086,2025-10-05 19:00,RC Celta de Vigo,Atletico Madrid,1,1,,,
+61624114,2025-10-17 19:00,Real Oviedo,Espanyol Barcelona,0,2,,,
+61624116,2025-10-18 12:00,Sevilla FC,RCD Mallorca,1,3,,,
+61624102,2025-10-18 14:15,FC Barcelona,Girona FC,2,1,,,
+61624112,2025-10-18 16:30,Villarreal CF,Real Betis Seville,2,2,,,
+61624100,2025-10-18 19:00,Atletico Madrid,CA Osasuna,1,0,,,
+61624110,2025-10-19 12:00,Elche CF,Athletic Bilbao,0,0,,,
+61624104,2025-10-19 14:15,RC Celta de Vigo,Real Sociedad San Sebastian,1,1,,,
+61624108,2025-10-19 16:30,Levante UD,Rayo Vallecano,0,3,,,
+61624106,2025-10-19 19:00,Getafe CF,Real Madrid,0,1,,,
+61624098,2025-10-20 19:00,Deportivo Alaves,Valencia CF,0,0,,,
+61624122,2025-10-24 19:00,Real Sociedad San Sebastian,Sevilla FC,2,1,,,
+61624120,2025-10-25 12:00,Girona FC,Real Oviedo,3,3,,,
+61624134,2025-10-25 14:15,Espanyol Barcelona,Elche CF,1,0,,,
+61624118,2025-10-25 16:30,Athletic Bilbao,Getafe CF,0,1,,,
+61624124,2025-10-25 19:00,Valencia CF,Villarreal CF,0,2,,,
+61624136,2025-10-26 13:00,RCD Mallorca,Levante UD,1,1,,,
+61624130,2025-10-26 15:15,Real Madrid,FC Barcelona,2,1,,,
+61624132,2025-10-26 17:30,CA Osasuna,RC Celta de Vigo,2,3,,,
+61624126,2025-10-26 20:00,Rayo Vallecano,Deportivo Alaves,1,0,,,
+61624128,2025-10-27 20:00,Real Betis Seville,Atletico Madrid,0,2,,,
+61624146,2025-10-31 20:00,Getafe CF,Girona FC,2,1,,,
+61624156,2025-11-01 13:00,Villarreal CF,Rayo Vallecano,4,0,,,
+61624140,2025-11-01 15:15,Atletico Madrid,Sevilla FC,3,0,,,
+61624150,2025-11-01 17:30,Real Sociedad San Sebastian,Athletic Bilbao,3,2,,,
+61624148,2025-11-01 20:00,Real Madrid,Valencia CF,4,0,,,
+61624152,2025-11-02 13:00,Levante UD,RC Celta de Vigo,1,2,,,
+61624138,2025-11-02 15:15,Deportivo Alaves,Espanyol Barcelona,2,1,,,
+61624142,2025-11-02 17:30,FC Barcelona,Elche CF,3,1,,,
+61624144,2025-11-02 20:00,Real Betis Seville,RCD Mallorca,3,0,,,
+61624154,2025-11-03 20:00,Real Oviedo,CA Osasuna,0,0,,,
+61624162,2025-11-07 20:00,Elche CF,Real Sociedad San Sebastian,1,1,,,
+61624168,2025-11-08 13:00,Girona FC,Deportivo Alaves,1,0,,,
+61624176,2025-11-08 15:15,Sevilla FC,CA Osasuna,1,0,,,
+61624160,2025-11-08 17:30,Atletico Madrid,Levante UD,3,1,,,
+61624164,2025-11-08 20:00,Espanyol Barcelona,Villarreal CF,0,2,,,
+61624158,2025-11-09 13:00,Athletic Bilbao,Real Oviedo,1,0,,,
+61624166,2025-11-09 15:15,Rayo Vallecano,Real Madrid,0,0,,,
+61624172,2025-11-09 17:30,Valencia CF,Real Betis Seville,1,1,,,
+61624174,2025-11-09 17:30,RCD Mallorca,Getafe CF,1,0,,,
+61624170,2025-11-09 20:00,RC Celta de Vigo,FC Barcelona,2,4,,,
+61624194,2025-11-21 20:00,Valencia CF,Levante UD,1,0,,,
+61624178,2025-11-22 13:00,Deportivo Alaves,RC Celta de Vigo,0,1,,,
+61624190,2025-11-22 15:15,FC Barcelona,Athletic Bilbao,4,0,,,
+61624186,2025-11-22 17:30,CA Osasuna,Real Sociedad San Sebastian,1,3,,,
+61624196,2025-11-22 20:00,Villarreal CF,RCD Mallorca,2,1,,,
+61624188,2025-11-23 13:00,Real Oviedo,Rayo Vallecano,0,0,,,
+61624180,2025-11-23 15:15,Real Betis Seville,Girona FC,1,1,,,
+61624192,2025-11-23 17:30,Getafe CF,Atletico Madrid,0,1,,,
+61624182,2025-11-23 20:00,Elche CF,Real Madrid,2,2,,,
+61624184,2025-11-24 20:00,Espanyol Barcelona,Sevilla FC,2,1,,,
+61624216,2025-11-28 20:00,Getafe CF,Elche CF,1,0,,,
+61624204,2025-11-29 13:00,RCD Mallorca,CA Osasuna,2,2,,,
+61624210,2025-11-29 15:15,FC Barcelona,Deportivo Alaves,3,1,,,
+61624212,2025-11-29 17:30,Levante UD,Athletic Bilbao,0,2,,,
+61624198,2025-11-29 20:00,Atletico Madrid,Real Oviedo,2,0,,,
+61624208,2025-11-30 13:00,Real Sociedad San Sebastian,Villarreal CF,2,3,,,
+61624214,2025-11-30 15:15,Sevilla FC,Real Betis Seville,0,2,,,
+61624200,2025-11-30 17:30,RC Celta de Vigo,Espanyol Barcelona,0,1,,,
+61624202,2025-11-30 20:00,Girona FC,Real Madrid,1,1,,,
+61624206,2025-12-01 20:00,Rayo Vallecano,Valencia CF,1,1,,,
+61624306,2025-12-02 20:00,FC Barcelona,Atletico Madrid,3,1,,,
+61624298,2025-12-03 18:00,Athletic Bilbao,Real Madrid,0,3,,,
+61624234,2025-12-05 20:00,Real Oviedo,RCD Mallorca,0,0,,,
+61624230,2025-12-06 13:00,Villarreal CF,Getafe CF,2,0,,,
+61624218,2025-12-06 15:15,Deportivo Alaves,Real Sociedad San Sebastian,1,0,,,
+61624226,2025-12-06 17:30,Real Betis Seville,FC Barcelona,3,5,,,
+61624220,2025-12-06 20:00,Athletic Bilbao,Atletico Madrid,1,0,,,
+61624222,2025-12-07 13:00,Elche CF,Girona FC,3,0,,,
+61624236,2025-12-07 15:15,Valencia CF,Sevilla FC,1,1,,,
+61624224,2025-12-07 17:30,Espanyol Barcelona,Rayo Vallecano,1,0,,,
+61624228,2025-12-07 20:00,Real Madrid,RC Celta de Vigo,0,2,,,
+61624232,2025-12-08 20:00,CA Osasuna,Levante UD,2,0,1.666,3.900,5.000
+61624254,2025-12-12 20:00,Real Sociedad San Sebastian,Girona FC,1,2,1.800,3.700,4.333
+61624240,2025-12-13 13:00,Atletico Madrid,Valencia CF,2,1,1.300,5.500,10.000
+61624250,2025-12-13 15:15,RCD Mallorca,Elche CF,3,1,2.500,2.900,3.200
+61624242,2025-12-13 17:30,FC Barcelona,CA Osasuna,2,0,1.200,7.000,13.000
+61624252,2025-12-13 20:00,Getafe CF,Espanyol Barcelona,0,1,2.550,2.900,3.200
+61624256,2025-12-14 13:00,Sevilla FC,Real Oviedo,4,0,2.100,3.200,3.750
+61624246,2025-12-14 15:15,RC Celta de Vigo,Athletic Bilbao,2,0,2.875,3.200,2.550
+61624238,2025-12-14 20:00,Deportivo Alaves,Real Madrid,1,2,5.750,4.000,1.571
+61624248,2025-12-15 20:00,Rayo Vallecano,Real Betis Seville,0,0,2.550,3.250,2.900
+61624276,2025-12-19 20:00,Valencia CF,RCD Mallorca,1,1,2.050,3.200,3.800
+61624274,2025-12-20 13:00,Real Oviedo,RC Celta de Vigo,0,0,3.400,3.250,2.200
+61624264,2025-12-20 15:15,Levante UD,Real Sociedad San Sebastian,1,1,3.000,3.300,2.375
+61624268,2025-12-20 17:30,CA Osasuna,Deportivo Alaves,3,0,2.250,2.875,3.900
+61624266,2025-12-20 20:00,Real Madrid,Sevilla FC,2,0,1.200,7.500,12.000
+61624270,2025-12-21 13:00,Girona FC,Atletico Madrid,0,3,4.750,3.750,1.750
+61624272,2025-12-21 15:15,Villarreal CF,FC Barcelona,0,2,3.800,4.333,1.727
+61624262,2025-12-21 17:30,Elche CF,Rayo Vallecano,4,0,2.500,2.900,3.200
+61624260,2025-12-21 20:00,Real Betis Seville,Getafe CF,4,0,1.727,3.300,5.500
+61624258,2025-12-22 20:00,Athletic Bilbao,Espanyol Barcelona,1,2,1.850,3.300,4.750
+61624292,2026-01-02 20:00,Rayo Vallecano,Getafe CF,1,1,2.100,2.875,4.333
+61624280,2026-01-03 13:00,RC Celta de Vigo,Valencia CF,4,1,2.000,3.250,3.900
+61624284,2026-01-03 15:15,CA Osasuna,Athletic Bilbao,1,1,3.000,2.875,2.625
+61624282,2026-01-03 17:30,Elche CF,Villarreal CF,1,3,3.100,3.400,2.250
+61624288,2026-01-03 20:00,Espanyol Barcelona,FC Barcelona,0,2,5.750,4.500,1.500
+61624296,2026-01-04 13:00,Sevilla FC,Levante UD,0,3,1.727,3.700,4.750
+61624290,2026-01-04 15:15,Real Madrid,Real Betis Seville,5,1,1.500,4.600,6.000
+61624278,2026-01-04 17:30,Deportivo Alaves,Real Oviedo,1,1,1.909,2.800,5.750
+61624294,2026-01-04 17:30,RCD Mallorca,Girona FC,1,2,2.200,3.100,3.600
+61624286,2026-01-04 20:00,Real Sociedad San Sebastian,Atletico Madrid,1,1,3.700,3.800,1.909
+61624300,2026-01-09 20:00,Getafe CF,Real Sociedad San Sebastian,1,2,3.300,3.000,2.375
+61624308,2026-01-10 13:00,Real Oviedo,Real Betis Seville,1,1,3.750,3.400,2.000
+61624304,2026-01-10 15:15,Villarreal CF,Deportivo Alaves,3,1,1.450,4.500,7.000
+61624302,2026-01-10 17:30,Girona FC,CA Osasuna,1,0,2.450,3.200,3.000
+61624312,2026-01-10 20:00,Valencia CF,Elche CF,1,1,2.000,3.200,4.100
+61624316,2026-01-11 13:00,Rayo Vallecano,RCD Mallorca,2,1,1.900,3.200,4.750
+61624314,2026-01-11 15:15,Levante UD,Espanyol Barcelona,1,1,3.100,3.300,2.300
+61624310,2026-01-12 20:00,Sevilla FC,RC Celta de Vigo,0,1,2.750,3.100,2.800
+61624324,2026-01-16 20:00,Espanyol Barcelona,Girona FC,0,2,1.850,3.400,4.500
+61624336,2026-01-17 13:00,Real Madrid,Levante UD,2,0,1.142,8.500,15.000
+61624332,2026-01-17 15:15,RCD Mallorca,Athletic Bilbao,3,2,3.700,3.000,2.200
+61624328,2026-01-17 17:30,CA Osasuna,Real Oviedo,3,2,1.727,3.500,5.250
+61624318,2026-01-17 20:00,Real Betis Seville,Villarreal CF,2,0,2.550,3.500,2.700
+61624326,2026-01-18 13:00,Getafe CF,Valencia CF,0,1,2.450,2.750,3.600
+61624330,2026-01-18 15:15,Atletico Madrid,Deportivo Alaves,1,0,1.363,4.750,9.000
+61624320,2026-01-18 17:30,RC Celta de Vigo,Rayo Vallecano,3,0,1.900,3.400,4.500
+61624334,2026-01-18 20:00,Real Sociedad San Sebastian,FC Barcelona,2,1,4.750,4.333,1.650
+61624322,2026-01-19 20:00,Elche CF,Sevilla FC,2,2,2.375,3.100,3.250
+61624348,2026-01-23 20:00,Levante UD,Elche CF,3,2,2.200,3.300,3.250
+61624354,2026-01-24 13:00,Rayo Vallecano,CA Osasuna,1,3,2.200,3.100,3.500
+61624350,2026-01-24 15:15,Valencia CF,Espanyol Barcelona,3,2,2.400,3.100,3.200
+61624344,2026-01-24 17:30,Sevilla FC,Athletic Bilbao,2,1,2.625,2.900,2.900
+61624356,2026-01-24 20:00,Villarreal CF,Real Madrid,0,2,3.750,4.000,1.850
+61624340,2026-01-25 13:00,Atletico Madrid,RCD Mallorca,3,0,1.333,5.250,9.000
+61624342,2026-01-25 15:15,FC Barcelona,Real Oviedo,3,0,1.111,10.000,19.000
+61624346,2026-01-25 17:30,Real Sociedad San Sebastian,RC Celta de Vigo,3,1,2.150,3.300,3.500
+61624338,2026-01-25 20:00,Deportivo Alaves,Real Betis Seville,2,1,2.600,3.000,2.900
+61624352,2026-01-26 20:00,Girona FC,Getafe CF,1,1,2.200,2.900,3.800
+61624366,2026-01-30 20:00,Espanyol Barcelona,Deportivo Alaves,1,2,1.909,3.000,4.500
+61624374,2026-01-31 13:00,Real Oviedo,Girona FC,1,0,2.750,3.000,2.750
+61624364,2026-01-31 15:15,CA Osasuna,Villarreal CF,2,2,2.700,3.300,2.625
+61624368,2026-01-31 17:30,Levante UD,Atletico Madrid,0,0,5.250,3.800,1.700
+61624370,2026-01-31 20:00,Elche CF,FC Barcelona,1,3,8.000,6.250,1.300
+61624376,2026-02-01 13:00,Real Madrid,Rayo Vallecano,2,1,1.222,7.000,11.000
+61624360,2026-02-01 15:15,Real Betis Seville,Valencia CF,2,1,1.800,3.500,4.750
+61624372,2026-02-01 17:30,Getafe CF,RC Celta de Vigo,0,0,2.900,2.800,2.800
+61624358,2026-02-01 20:00,Athletic Bilbao,Real Sociedad San Sebastian,1,1,2.200,3.100,3.600
+61624362,2026-02-02 20:00,RCD Mallorca,Sevilla FC,4,1,2.700,3.000,2.875
+61624386,2026-02-06 20:00,RC Celta de Vigo,CA Osasuna,1,2,2.050,3.300,3.900
+61624384,2026-02-07 15:15,FC Barcelona,RCD Mallorca,3,0,1.142,8.500,13.000
+61624392,2026-02-07 17:30,Sevilla FC,Girona FC,1,1,2.000,3.400,3.750
+61624388,2026-02-07 20:00,Real Sociedad San Sebastian,Elche CF,3,1,1.650,4.000,5.000
+61624378,2026-02-08 13:00,Deportivo Alaves,Getafe CF,0,2,2.375,2.625,4.000
+61624380,2026-02-08 15:15,Athletic Bilbao,Levante UD,4,2,1.600,4.000,5.750
+61624382,2026-02-08 17:30,Atletico Madrid,Real Betis Seville,0,1,1.500,4.750,5.750
+61624394,2026-02-08 20:00,Valencia CF,Real Madrid,0,2,4.750,4.200,1.650
+61624390,2026-02-09 20:00,Villarreal CF,Espanyol Barcelona,4,1,1.700,4.000,4.500
+61624398,2026-02-13 20:00,Elche CF,CA Osasuna,0,0,3.000,3.200,2.550
+61624416,2026-02-14 13:00,Espanyol Barcelona,RC Celta de Vigo,2,2,2.625,3.100,2.875
+61624400,2026-02-14 15:15,Getafe CF,Villarreal CF,2,1,3.100,2.875,2.625
+61624406,2026-02-14 17:30,Sevilla FC,Deportivo Alaves,1,1,2.150,2.900,3.900
+61624404,2026-02-14 20:00,Real Madrid,Real Sociedad San Sebastian,4,1,1.400,5.000,7.000
+61624408,2026-02-15 13:00,Real Oviedo,Athletic Bilbao,1,2,3.400,3.000,2.350
+61624410,2026-02-15 15:15,Rayo Vallecano,Atletico Madrid,3,0,4.500,3.600,1.800
+61624402,2026-02-15 17:30,Levante UD,Valencia CF,0,2,2.700,3.200,2.700
+61624414,2026-02-15 20:00,RCD Mallorca,Real Betis Seville,1,2,3.000,3.200,2.400
+61624412,2026-02-16 20:00,Girona FC,FC Barcelona,2,1,7.500,5.750,1.333
+68020938,2026-02-18 19:00,Levante UD,Villarreal CF,0,1,4.500,4.000,1.750
+61624420,2026-02-20 20:00,Athletic Bilbao,Elche CF,2,1,1.700,3.700,5.000
+61624436,2026-02-21 13:00,Real Sociedad San Sebastian,Real Oviedo,3,3,1.533,3.800,6.500
+61624426,2026-02-21 15:15,Real Betis Seville,Rayo Vallecano,1,1,1.909,3.300,4.333
+61624432,2026-02-21 17:30,CA Osasuna,Real Madrid,2,1,4.500,4.000,1.727
+61624422,2026-02-21 20:00,Atletico Madrid,Espanyol Barcelona,4,2,1.420,4.500,7.500
+61624430,2026-02-22 13:00,Getafe CF,Sevilla FC,0,1,2.300,2.875,3.750
+61624424,2026-02-22 15:15,FC Barcelona,Levante UD,3,0,1.100,12.000,17.000
+61624428,2026-02-22 17:30,RC Celta de Vigo,RCD Mallorca,2,0,1.750,3.500,5.000
+61624434,2026-02-22 20:00,Villarreal CF,Valencia CF,2,1,1.700,4.000,4.750
+61624418,2026-02-23 20:00,Deportivo Alaves,Girona FC,2,2,2.375,3.100,3.250
+61624446,2026-02-27 20:00,Levante UD,Deportivo Alaves,2,0,2.700,3.100,2.800
+61624448,2026-02-28 13:00,Rayo Vallecano,Athletic Bilbao,1,1,2.400,3.100,3.200
+61624438,2026-02-28 15:15,FC Barcelona,Villarreal CF,4,1,1.363,5.750,7.000
+61624444,2026-02-28 17:30,RCD Mallorca,Real Sociedad San Sebastian,0,1,3.000,3.300,2.375
+61624450,2026-02-28 20:00,Real Oviedo,Atletico Madrid,0,1,4.750,3.500,1.800
+61624442,2026-03-01 13:00,Elche CF,Espanyol Barcelona,2,2,2.400,3.300,3.000
+61624456,2026-03-01 15:15,Valencia CF,CA Osasuna,1,0,2.400,3.100,3.100
+61624440,2026-03-01 17:30,Real Betis Seville,Sevilla FC,2,2,1.750,3.900,4.500
+61624452,2026-03-01 20:00,Girona FC,RC Celta de Vigo,1,2,2.450,3.200,3.000
+61624454,2026-03-02 20:00,Real Madrid,Getafe CF,0,1,1.363,4.750,9.500
+68917042,2026-03-04 18:00,Rayo Vallecano,Real Oviedo,3,0,1.750,3.500,5.000
+61624462,2026-03-06 20:00,RC Celta de Vigo,Real Madrid,1,2,2.900,3.400,2.400
+61624474,2026-03-07 13:00,CA Osasuna,RCD Mallorca,2,2,1.727,3.600,5.000
+61624472,2026-03-07 15:15,Levante UD,Girona FC,1,1,2.700,3.400,2.550
+61624460,2026-03-07 17:30,Atletico Madrid,Real Sociedad San Sebastian,3,2,1.615,4.000,5.250
+61624458,2026-03-07 20:00,Athletic Bilbao,FC Barcelona,0,1,4.500,4.333,1.650
+61624470,2026-03-08 13:00,Villarreal CF,Elche CF,2,1,1.420,4.750,7.000
+61624468,2026-03-08 15:15,Getafe CF,Real Betis Seville,2,0,2.700,2.750,3.100
+61624476,2026-03-08 17:30,Sevilla FC,Rayo Vallecano,1,1,2.600,3.100,2.900
+61624466,2026-03-08 20:00,Valencia CF,Deportivo Alaves,3,2,2.050,3.000,4.100
+61624464,2026-03-09 20:00,Espanyol Barcelona,Real Oviedo,1,1,2.000,3.300,4.100
+61624478,2026-03-13 20:00,Deportivo Alaves,Villarreal CF,1,1,3.500,3.300,2.150
+61624488,2026-03-14 13:00,Girona FC,Athletic Bilbao,3,0,2.800,3.250,2.550
+61624480,2026-03-14 15:15,Atletico Madrid,Getafe CF,1,0,1.615,3.600,6.250
+61624486,2026-03-14 17:30,Real Oviedo,Valencia CF,1,0,2.900,3.100,2.600
+61624490,2026-03-14 20:00,Real Madrid,Elche CF,4,1,1.270,6.000,9.500
+61624492,2026-03-15 13:00,RCD Mallorca,Espanyol Barcelona,2,1,2.450,3.200,3.100
+61624482,2026-03-15 15:15,FC Barcelona,Sevilla FC,5,2,1.300,5.750,9.000
+61624484,2026-03-15 17:30,Real Betis Seville,RC Celta de Vigo,1,1,2.050,3.300,3.900
+61624496,2026-03-15 20:00,Real Sociedad San Sebastian,CA Osasuna,3,1,1.909,3.600,3.900
+61624494,2026-03-16 20:00,Rayo Vallecano,Levante UD,1,1,1.727,3.600,5.000
+61624516,2026-03-20 20:00,Villarreal CF,Real Sociedad San Sebastian,3,1,1.909,3.700,3.900
+61624502,2026-03-21 13:00,Elche CF,RCD Mallorca,2,1,2.050,3.400,3.700
+61624504,2026-03-21 15:15,Espanyol Barcelona,Getafe CF,1,2,2.550,2.875,3.200
+61624506,2026-03-21 17:30,Levante UD,Real Oviedo,4,2,2.350,3.200,3.200
+61624514,2026-03-21 17:30,CA Osasuna,Girona FC,1,0,2.000,3.600,3.750
+61624508,2026-03-21 20:00,Sevilla FC,Valencia CF,0,2,2.150,3.250,3.500
+61624500,2026-03-22 13:00,FC Barcelona,Rayo Vallecano,1,0,1.200,7.500,10.000
+61624510,2026-03-22 15:15,RC Celta de Vigo,Deportivo Alaves,3,4,1.950,3.300,4.333
+61624498,2026-03-22 17:30,Athletic Bilbao,Real Betis Seville,2,1,2.000,3.600,3.600
+61624512,2026-03-22 20:00,Real Madrid,Atletico Madrid,3,2,2.050,3.800,3.300
+61624534,2026-04-03 19:00,Rayo Vallecano,Elche CF,1,0,1.727,3.800,4.750
+61624536,2026-04-04 12:00,Real Sociedad San Sebastian,Levante UD,2,0,1.550,4.500,5.250
+61624526,2026-04-04 14:15,RCD Mallorca,Real Madrid,2,1,5.500,4.333,1.571
+61624522,2026-04-04 16:30,Real Betis Seville,Espanyol Barcelona,0,0,1.800,3.900,4.333
+61624520,2026-04-04 19:00,Atletico Madrid,FC Barcelona,1,2,3.200,4.100,2.000
+61624530,2026-04-05 12:00,Getafe CF,Athletic Bilbao,2,0,3.300,2.900,2.400
+61624532,2026-04-05 14:15,Valencia CF,RC Celta de Vigo,2,3,2.350,3.250,3.100
+61624528,2026-04-05 16:30,Real Oviedo,Sevilla FC,1,0,2.800,3.000,2.700
+61624518,2026-04-05 19:00,Deportivo Alaves,CA Osasuna,2,2,2.625,3.200,2.750
+61624524,2026-04-06 19:00,Girona FC,Villarreal CF,1,0,3.000,3.600,2.300
+61624556,2026-04-10 19:00,Real Madrid,Girona FC,1,1,1.300,6.000,8.500
+61624548,2026-04-11 12:00,Real Sociedad San Sebastian,Deportivo Alaves,3,3,1.850,3.600,4.000
+61624544,2026-04-11 14:15,Elche CF,Valencia CF,1,0,2.600,3.500,2.600
+61624540,2026-04-11 16:30,FC Barcelona,Espanyol Barcelona,4,1,1.300,5.750,9.000
+61624550,2026-04-11 19:00,Sevilla FC,Atletico Madrid,2,1,2.150,3.600,3.100
+61624552,2026-04-12 12:00,CA Osasuna,Real Betis Seville,1,1,2.250,3.400,3.200
+61624546,2026-04-12 14:15,RCD Mallorca,Rayo Vallecano,3,0,2.400,3.300,2.900
+61624542,2026-04-12 16:30,RC Celta de Vigo,Real Oviedo,0,3,1.666,3.300,4.750
+61624538,2026-04-12 19:00,Athletic Bilbao,Villarreal CF,1,2,2.050,3.400,3.700
+61624554,2026-04-13 19:00,Levante UD,Getafe CF,1,0,2.600,3.000,3.000
+61624578,2026-04-21 17:00,Athletic Bilbao,CA Osasuna,1,0,1.800,3.400,4.500
+61624584,2026-04-21 17:00,RCD Mallorca,Valencia CF,1,1,2.625,3.250,2.700
+61624588,2026-04-21 19:30,Real Madrid,Deportivo Alaves,2,1,1.222,7.500,10.000
+61624592,2026-04-21 19:30,Girona FC,Real Betis Seville,2,3,2.400,3.300,3.000
+61624590,2026-04-22 17:00,Elche CF,Atletico Madrid,3,2,2.400,3.700,2.750
+61624596,2026-04-22 18:00,Real Sociedad San Sebastian,Getafe CF,0,1,2.250,3.000,3.600
+61624580,2026-04-22 19:30,FC Barcelona,RC Celta de Vigo,1,0,1.222,7.000,10.500
+61624582,2026-04-23 17:00,Levante UD,Sevilla FC,2,0,2.500,3.200,2.900
+61624594,2026-04-23 18:00,Rayo Vallecano,Espanyol Barcelona,1,0,2.100,3.300,3.600
+61624586,2026-04-23 19:30,Real Oviedo,Villarreal CF,1,1,3.250,3.200,2.250
+61624560,2026-04-24 19:00,Real Betis Seville,Real Madrid,1,1,3.700,4.200,1.833
+61624558,2026-04-25 12:00,Deportivo Alaves,RCD Mallorca,2,1,2.050,3.300,3.800
+61624570,2026-04-25 14:15,Getafe CF,FC Barcelona,0,2,5.750,3.900,1.615
+61624576,2026-04-25 16:30,Valencia CF,Girona FC,2,1,2.250,3.250,3.200
+61624568,2026-04-25 19:00,Atletico Madrid,Athletic Bilbao,3,2,1.950,3.700,3.600
+61624566,2026-04-26 12:00,Rayo Vallecano,Real Sociedad San Sebastian,3,3,2.700,3.300,2.600
+61624574,2026-04-26 14:15,Real Oviedo,Elche CF,1,2,2.250,3.400,3.100
+61624564,2026-04-26 16:30,CA Osasuna,Sevilla FC,2,1,1.900,3.400,4.500
+61624572,2026-04-26 19:00,Villarreal CF,RC Celta de Vigo,2,1,1.833,3.400,3.600
+61624562,2026-04-27 19:00,Espanyol Barcelona,Levante UD,0,0,2.100,3.400,3.500
+61624608,2026-05-01 19:00,Girona FC,RCD Mallorca,0,1,1.909,3.600,4.000
+61624614,2026-05-02 12:00,Villarreal CF,Levante UD,5,1,1.727,4.200,4.100
+61624610,2026-05-02 14:15,Valencia CF,Atletico Madrid,0,2,1.700,4.000,4.500
+61624598,2026-05-02 16:30,Deportivo Alaves,Athletic Bilbao,2,4,2.700,3.300,2.600
+61624612,2026-05-02 19:00,CA Osasuna,FC Barcelona,1,2,4.600,4.200,1.666
+61624602,2026-05-03 12:00,RC Celta de Vigo,Elche CF,3,1,1.700,3.900,4.750
+61624606,2026-05-03 14:15,Getafe CF,Rayo Vallecano,0,2,2.100,3.100,4.000
+61624600,2026-05-03 16:30,Real Betis Seville,Real Oviedo,3,1,1.571,4.100,5.750
+61624604,2026-05-03 19:00,Espanyol Barcelona,Real Madrid,0,2,4.200,3.800,1.800
+61624616,2026-05-04 19:00,Sevilla FC,Real Sociedad San Sebastian,1,0,2.350,3.250,3.100
+61624624,2026-05-08 19:00,Levante UD,CA Osasuna,3,2,2.550,3.300,2.700
+61624628,2026-05-09 12:00,Elche CF,Deportivo Alaves,1,1,2.200,3.200,3.400
+61624632,2026-05-09 14:15,Sevilla FC,Espanyol Barcelona,2,1,1.950,3.300,4.200
+61624620,2026-05-09 16:30,Atletico Madrid,RC Celta de Vigo,0,1,1.850,3.700,4.000
+61624630,2026-05-09 19:00,Real Sociedad San Sebastian,Real Betis Seville,2,2,2.600,3.500,2.625
+61624626,2026-05-10 12:00,RCD Mallorca,Villarreal CF,1,1,2.450,3.500,2.750
+61624618,2026-05-10 14:15,Athletic Bilbao,Valencia CF,0,1,1.615,3.750,5.750
+61624634,2026-05-10 16:30,Real Oviedo,Getafe CF,0,0,2.750,2.900,2.800
+61624622,2026-05-10 19:00,FC Barcelona,Real Madrid,2,0,1.650,4.750,4.200
+61624636,2026-05-11 19:00,Rayo Vallecano,Girona FC,1,1,2.250,3.250,3.300
+61624642,2026-05-12 17:00,RC Celta de Vigo,Levante UD,2,3,1.909,3.700,3.800
+61624640,2026-05-12 18:00,Real Betis Seville,Elche CF,2,2,1.615,4.100,4.750
+61624650,2026-05-12 19:30,CA Osasuna,Atletico Madrid,1,2,2.625,3.400,2.625
+61624648,2026-05-13 17:00,Espanyol Barcelona,Athletic Bilbao,2,0,2.750,2.900,2.875
+61624654,2026-05-13 17:00,Villarreal CF,Sevilla FC,2,3,2.100,3.300,3.600
+61624638,2026-05-13 19:30,Deportivo Alaves,FC Barcelona,1,0,3.000,3.750,2.200
+61624644,2026-05-13 19:30,Getafe CF,RCD Mallorca,3,1,2.350,2.900,3.600
+61624652,2026-05-14 17:00,Valencia CF,Rayo Vallecano,1,1,2.200,3.100,3.700
+61624646,2026-05-14 18:00,Girona FC,Real Sociedad San Sebastian,1,1,1.950,3.700,3.600
+61624656,2026-05-14 19:30,Real Madrid,Real Oviedo,2,0,1.250,6.250,9.500
+61624658,2026-05-17 17:00,Athletic Bilbao,RC Celta de Vigo,1,1,2.100,3.200,3.700
+61624660,2026-05-17 17:00,Atletico Madrid,Girona FC,1,0,1.800,3.900,4.200
+61624664,2026-05-17 17:00,Elche CF,Getafe CF,1,0,2.250,2.875,3.600
+61624666,2026-05-17 17:00,Levante UD,RCD Mallorca,2,0,2.050,3.400,3.750
+61624668,2026-05-17 17:00,Rayo Vallecano,Villarreal CF,2,0,1.909,3.500,3.800
+61624670,2026-05-17 17:00,Real Sociedad San Sebastian,Valencia CF,3,4,2.375,3.100,3.100
+61624672,2026-05-17 17:00,Real Oviedo,Deportivo Alaves,0,1,3.800,3.250,2.050
+61624674,2026-05-17 17:00,CA Osasuna,Espanyol Barcelona,1,2,2.100,2.900,4.000
+61624676,2026-05-17 17:00,Sevilla FC,Real Madrid,0,1,3.500,3.600,1.950
+61624662,2026-05-17 19:15,FC Barcelona,Real Betis Seville,3,1,1.333,6.000,7.000
+61624678,2026-05-23 19:00,Deportivo Alaves,Rayo Vallecano,1,2,2.100,3.300,3.600
+61624680,2026-05-23 19:00,Real Betis Seville,Levante UD,2,1,2.350,3.500,3.000
+61624682,2026-05-23 19:00,RC Celta de Vigo,Sevilla FC,1,0,1.833,3.500,4.500
+61624684,2026-05-23 19:00,Espanyol Barcelona,Real Sociedad San Sebastian,1,1,2.450,3.600,2.750
+61624686,2026-05-23 19:00,Getafe CF,CA Osasuna,1,0,3.000,2.625,3.000
+61624688,2026-05-23 19:00,RCD Mallorca,Real Oviedo,3,0,1.450,4.500,6.500
+61624690,2026-05-23 19:00,Real Madrid,Athletic Bilbao,4,2,1.550,4.500,5.000
+61624694,2026-05-23 19:00,Valencia CF,FC Barcelona,3,1,3.400,4.100,1.909
+61624696,2026-05-23 19:00,Girona FC,Elche CF,1,1,1.800,3.750,4.333
+61624692,2026-05-24 19:00,Villarreal CF,Atletico Madrid,5,1,2.500,3.900,2.550
+72478446,2026-08-15 17:30,Deportivo Alaves,Getafe CF,3,0,2.300,2.750,3.900
+72478462,2026-08-15 19:30,Sevilla FC,Rayo Vallecano,2,1,2.625,2.900,3.100
+72478458,2026-08-16 15:00,Racing Santander,Villarreal CF,2,2,3.900,3.750,1.900
+72478454,2026-08-16 17:00,Espanyol Barcelona,Levante UD,3,0,2.050,3.300,3.800
+72478452,2026-08-17 19:00,RC Deportivo de La Coruna,Elche CF,1,1,2.200,3.200,3.500
+72478448,2026-08-19 19:00,Atletico Madrid,Malaga CF,2,0,1.450,4.600,7.000
+72478502,2026-08-20 19:00,Rayo Vallecano,Deportivo Alaves,1,1,2.550,3.100,3.000
+72478490,2026-08-21 19:00,Real Betis Seville,Real Sociedad San Sebastian,1,0,2.150,3.400,3.300
+72478486,2026-08-22 15:00,Athletic Bilbao,Sevilla FC,1,3,1.727,3.600,5.000
+72478504,2026-08-22 17:30,Valencia CF,RC Celta de Vigo,0,0,2.450,3.100,3.000
+72478494,2026-08-22 19:30,Espanyol Barcelona,Real Madrid,1,2,7.500,5.000,1.400
+72478488,2026-08-23 15:00,Atletico Madrid,Villarreal CF,2,2,1.800,3.900,4.200
+72478496,2026-08-23 17:30,Getafe CF,Racing Santander,1,0,2.250,3.000,3.500
+72478492,2026-08-23 19:30,Elche CF,FC Barcelona,0,5,8.500,5.500,1.333
+72478500,2026-08-24 17:30,CA Osasuna,Levante UD,0,0,1.900,3.300,4.200
+72478498,2026-08-24 19:30,Malaga CF,RC Deportivo de La Coruna,1,1,2.400,3.100,3.250
+72478464,2026-08-25 19:00,Valencia CF,Real Betis Seville,0,1,2.550,3.300,2.800
+72478460,2026-08-26 19:00,Real Madrid,Real Sociedad San Sebastian,4,1,1.166,8.000,13.000
+73706190,2026-08-27 18:30,RC Celta de Vigo,CA Osasuna,1,2,1.800,3.400,4.750
+72478456,2026-08-27 19:00,FC Barcelona,Athletic Bilbao,2,0,1.200,7.000,12.000
+72478518,2026-08-28 17:00,Racing Santander,Elche CF,3,2,2.000,3.600,3.600
+72478506,2026-08-28 19:30,Deportivo Alaves,Villarreal CF,1,0,3.000,3.500,2.300
+72478514,2026-08-29 15:00,Levante UD,Real Betis Seville,5,2,3.100,3.300,2.350
+72478522,2026-08-29 17:00,Real Sociedad San Sebastian,Espanyol Barcelona,2,1,1.850,3.700,4.100
+72478524,2026-08-29 19:30,Sevilla FC,Atletico Madrid,1,3,4.100,3.500,1.909
+72478520,2026-08-30 15:00,Real Madrid,Malaga CF,4,0,1.090,11.000,21.000
+72478510,2026-08-30 17:30,RC Deportivo de La Coruna,Valencia CF,3,1,2.750,3.000,2.875
+72478508,2026-08-30 19:30,RC Celta de Vigo,Athletic Bilbao,0,2,2.800,3.000,2.700
+72478516,2026-08-31 17:30,CA Osasuna,Getafe CF,1,0,2.150,2.900,4.100
+72478512,2026-08-31 19:30,FC Barcelona,Rayo Vallecano,5,2,1.100,10.000,19.000
+72478584,2026-09-03 19:00,Real Sociedad San Sebastian,RC Celta de Vigo,0,0,1.750,3.700,4.750
+72478530,2026-09-04 19:00,Real Betis Seville,Real Madrid,1,0,6.250,5.000,1.444
+72478528,2026-09-05 14:15,Athletic Bilbao,Atletico Madrid,3,0,2.700,3.300,2.600
+72478540,2026-09-05 16:30,Rayo Vallecano,Racing Santander,3,2,1.900,3.700,3.800
+72478544,2026-09-05 19:00,Villarreal CF,RC Deportivo de A Coruna,2,3,1.444,4.750,7.000
+72478542,2026-09-06 14:15,Valencia CF,FC Barcelona,0,5,10.000,6.500,1.250
+72478526,2026-09-06 16:30,Deportivo Alaves,CA Osasuna,5,2,2.200,3.100,3.600
+72478538,2026-09-06 16:30,Malaga CF,Levante UD,0,0,2.450,3.300,2.875
+72478534,2026-09-06 19:00,Espanyol Barcelona,Sevilla FC,1,1,2.300,3.200,3.250
+72478536,2026-09-07 17:00,Getafe CF,RC Celta de Vigo,1,1,2.750,2.750,3.000
+72478532,2026-09-07 19:30,Elche CF,Real Sociedad San Sebastian,2,3,3.100,3.400,2.300
+72478562,2026-09-11 19:00,Sevilla FC,Valencia CF,1,0,1.750,3.600,4.750
+72478556,2026-09-12 12:00,Racing Santander,Deportivo Alaves,2,1,2.600,3.500,2.600
+72478554,2026-09-12 14:15,CA Osasuna,Espanyol Barcelona,0,2,2.250,3.200,3.400
+72478546,2026-09-12 16:30,Athletic Bilbao,Elche CF,1,1,1.380,5.000,8.000
+72478558,2026-09-12 19:00,Real Madrid,Rayo Vallecano,4,1,1.142,8.000,15.000
+72478548,2026-09-13 12:00,RC Celta de Vigo,Malaga CF,1,1,1.666,3.750,5.500
+72478552,2026-09-13 14:15,Levante UD,FC Barcelona,2,4,13.000,8.500,1.166
+72478550,2026-09-13 16:30,Getafe CF,RC Deportivo de A Coruna,1,1,2.500,3.100,3.100
+72478560,2026-09-13 19:00,Real Sociedad San Sebastian,Atletico Madrid,0,3,3.400,3.600,2.050
+72478564,2026-09-14 19:00,Villarreal CF,Real Betis Seville,1,2,1.909,4.000,3.500
+72478582,2026-09-15 17:00,Rayo Vallecano,Espanyol Barcelona,2,1,2.200,3.250,3.400
+72478566,2026-09-15 18:00,Deportivo Alaves,Valencia CF,0,1,1.727,3.400,5.500
+72478574,2026-09-15 19:30,Elche CF,Real Madrid,2,3,12.000,7.500,1.200
+72478568,2026-09-16 17:00,Atletico Madrid,CA Osasuna,4,0,1.300,5.500,9.500
+72478572,2026-09-16 17:00,RC Deportivo de A Coruna,Sevilla FC,0,1,2.750,3.100,2.750
+72478576,2026-09-16 19:30,FC Barcelona,Racing Santander,7,2,1.055,15.000,23.000
+72478570,2026-09-17 17:00,Real Betis Seville,Getafe CF,1,0,1.533,4.000,6.500
+72478580,2026-09-17 19:30,Malaga CF,Villarreal CF,1,3,3.500,3.600,2.050
+72478594,2026-09-18 19:00,Espanyol Barcelona,Elche CF,1,3,1.750,3.700,4.600
+72478598,2026-09-19 12:00,CA Osasuna,Rayo Vallecano,1,1,2.625,3.250,2.700
+72478586,2026-09-19 14:15,Athletic Bilbao,Deportivo Alaves,0,0,1.600,3.900,5.750
+72478590,2026-09-19 16:30,RC Celta de Vigo,Racing Santander,5,0,1.800,3.700,4.333
+72478600,2026-09-19 19:00,Sevilla FC,FC Barcelona,1,3,7.500,6.250,1.300
+72478596,2026-09-20 12:00,Getafe CF,Malaga CF,1,0,1.900,3.300,4.333
+72478588,2026-09-20 14:15,Atletico Madrid,Real Madrid,2,1,3.500,3.800,2.000
+72478592,2026-09-20 16:30,RC Deportivo de A Coruna,Real Betis Seville,1,1,3.700,3.900,1.900
+72478604,2026-09-20 16:30,Villarreal CF,Levante UD,3,1,1.550,4.500,5.500
+72478602,2026-09-20 19:00,Valencia CF,Real Sociedad San Sebastian,2,3,2.900,3.400,2.400
+72478616,2026-10-09 19:00,Malaga CF,Espanyol Barcelona,1,1,2.875,3.200,2.600
+72478620,2026-10-10 12:00,Rayo Vallecano,Athletic Bilbao,0,0,3.000,3.200,2.450
+72478606,2026-10-10 14:15,Deportivo Alaves,Atletico Madrid,1,2,4.333,3.700,1.800
+72478612,2026-10-10 16:30,FC Barcelona,Getafe CF,3,0,1.100,11.000,19.000
+72478622,2026-10-10 19:00,Real Madrid,Villarreal CF,1,0,1.333,6.000,7.500
+72478610,2026-10-11 12:00,Elche CF,RC Celta de Vigo,0,0,3.200,3.250,2.300
+72478624,2026-10-11 14:15,Real Sociedad San Sebastian,RC Deportivo de A Coruna,3,2,1.750,3.750,4.500
+72478608,2026-10-11 16:30,Real Betis Seville,CA Osasuna,5,2,1.444,4.750,6.500
+72478618,2026-10-11 19:00,Racing Santander,Valencia CF,2,2,2.300,3.400,3.000
+72478614,2026-10-12 19:00,Levante UD,Sevilla FC,3,3,3.000,3.300,2.400
+72478630,2026-10-16 19:00,RC Deportivo de A Coruna,Levante UD,1,1,2.000,3.500,3.700
+72478632,2026-10-17 12:00,Espanyol Barcelona,Atletico Madrid,0,1,4.750,4.000,1.727
+72478644,2026-10-17 14:15,Villarreal CF,Elche CF,0,0,1.420,5.250,6.250
+72478626,2026-10-17 16:30,Real Betis Seville,FC Barcelona,2,5,5.500,5.500,1.444
+72478642,2026-10-17 19:00,Valencia CF,Athletic Bilbao,0,0,3.250,3.200,2.300
+72478638,2026-10-18 12:00,CA Osasuna,Racing Santander,2,0,2.000,3.750,3.600
+72478628,2026-10-18 14:15,RC Celta de Vigo,Deportivo Alaves,2,1,2.200,3.100,3.500
+72478636,2026-10-18 16:30,Malaga CF,Real Sociedad San Sebastian,2,5,3.250,3.600,2.100
+72478640,2026-10-18 19:00,Real Madrid,Sevilla FC,4,1,1.250,6.500,11.000
+72478634,2026-10-19 19:00,Getafe CF,Rayo Vallecano,1,1,3.000,2.900,2.625
+74801144,2026-10-21 18:00,Levante UD,Athletic Bilbao,3,1,3.300,3.200,2.250
+72478646,2026-10-23 19:00,Deportivo Alaves,Malaga CF,1,1,1.600,3.800,6.000
+72478658,2026-10-24 12:00,Rayo Vallecano,Elche CF,0,3,1.800,3.900,4.200
+72478656,2026-10-24 14:15,Racing Santander,Espanyol Barcelona,2,1,2.250,3.700,3.000
+72478664,2026-10-24 16:30,Valencia CF,Villarreal CF,1,2,3.400,3.500,2.100
+72478650,2026-10-24 19:00,Atletico Madrid,RC Deportivo de A Coruna,1,0,1.250,6.250,11.000
+72478648,2026-10-25 13:00,Athletic Bilbao,Getafe CF,4,0,1.533,4.200,6.000
+72478652,2026-10-25 15:15,RC Celta de Vigo,Real Betis Seville,0,0,2.625,3.250,2.700
+72478660,2026-10-25 17:30,Real Sociedad San Sebastian,Levante UD,2,1,1.533,5.000,5.000
+72478654,2026-10-25 20:00,FC Barcelona,Real Madrid,1,2,1.550,6.000,4.000
+72478662,2026-10-26 20:00,Sevilla FC,CA Osasuna,2,0,1.950,3.400,4.200
+72478684,2026-10-30 20:00,Villarreal CF,Espanyol Barcelona,0,1,1.363,5.500,7.000
+72478678,2026-10-31 13:00,Levante UD,Atletico Madrid,0,2,6.500,4.750,1.450
+72478682,2026-10-31 15:15,Rayo Vallecano,RC Celta de Vigo,3,0,2.400,3.250,3.000
+72478668,2026-10-31 17:30,Real Betis Seville,Malaga CF,2,1,1.363,5.000,8.500
+72478674,2026-10-31 20:00,FC Barcelona,Deportivo Alaves,6,1,1.100,11.000,19.000
+72478676,2026-11-01 13:00,Getafe CF,Sevilla FC,3,1,3.500,3.100,2.250
+72478680,2026-11-01 15:15,Racing Santander,Real Madrid,0,3,11.000,8.500,1.181
+72478672,2026-11-01 17:30,Elche CF,Valencia CF,0,1,2.200,3.500,3.200
+72478666,2026-11-01 20:00,Athletic Bilbao,Real Sociedad San Sebastian,2,1,1.909,3.800,3.800
+72478670,2026-11-02 20:00,RC Deportivo de A Coruna,CA Osasuna,2,1,2.050,3.250,3.900
+72478700,2026-11-06 20:00,Sevilla FC,Deportivo Alaves,0,0,1.950,3.300,4.200
+72478694,2026-11-07 13:00,Malaga CF,Racing Santander,1,2,2.200,3.700,3.100
+72478692,2026-11-07 15:15,Espanyol Barcelona,RC Deportivo de A Coruna,0,0,2.450,3.300,3.000
+72478696,2026-11-07 17:30,CA Osasuna,Athletic Bilbao,1,1,3.800,3.500,2.000
+72478702,2026-11-07 20:00,Valencia CF,Real Madrid,0,3,11.000,7.000,1.222
+72478690,2026-11-08 13:00,Elche CF,Real Betis Seville,0,2,3.800,3.900,1.850
+72478698,2026-11-08 15:15,Real Sociedad San Sebastian,Rayo Vallecano,1,0,1.850,3.800,3.900
+72478688,2026-11-08 17:30,RC Celta de Vigo,Levante UD,0,0,1.850,3.500,4.333
+72478704,2026-11-08 17:30,Villarreal CF,Getafe CF,2,0,1.533,4.100,6.250
+72478686,2026-11-08 20:00,Atletico Madrid,FC Barcelona,1,2,3.600,4.500,1.800

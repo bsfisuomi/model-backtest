@@ -1,0 +1,385 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+54640955,2025-05-24 10:00,Gedania Gdansk,Pogon Szczecin II,0,5,,,
+54640941,2025-05-24 15:00,Zawisza Bydgoszcz,Kss Kotwica Kornik,2,0,,,
+54640951,2025-05-24 15:00,Elana Torun,Polonia Sroda Wielkopolska,3,1,,,
+54640943,2025-05-25 13:00,Blekitni Stargard,MKS Notec Czarnkow,5,1,,,
+54640969,2025-05-30 17:00,Polonia Sroda Wielkopolska,WDA Swiecie,1,1,,,
+54640971,2025-05-31 11:00,Sks Unia Swarzedz,LKS Wybrzeze Rewalskie Rewal,0,1,,,
+54640959,2025-05-31 12:00,Lech II Poznan,Blekitni Stargard,2,4,,,
+54640963,2025-05-31 13:00,Pogon Szczecin II,Pogon Nowe Skalmierzyce,0,1,,,
+54640961,2025-06-01 13:00,MKS Flota Swinoujscie,Gedania Gdansk,3,4,,,
+54640977,2025-06-07 13:00,Blekitni Stargard,Gryf Slupsk,4,0,,,
+54640979,2025-06-07 13:00,MKS Notec Czarnkow,Sokol Kleczew,5,0,,,
+54640987,2025-06-07 13:00,Elana Torun,Cartusia Kartuzy,3,3,,,
+54640989,2025-06-07 13:00,Kss Kotwica Kornik,Pogon Szczecin II,2,2,,,
+62036966,2025-08-08 16:00,Sks Unia Swarzedz,Wiked Luzino,1,1,,,
+62036972,2025-08-08 16:00,Zawisza Bydgoszcz,Gzs Tluchovia Tluchowo,4,0,,,
+62036962,2025-08-09 10:00,Lech II Poznan,KS Lipno Steszew,2,3,,,
+62036968,2025-08-09 10:00,WDA Swiecie,MKS Viktoria Wrzesnia,2,1,,,
+62036956,2025-08-09 13:00,Blekitni Stargard,Elana Torun,0,2,,,
+62036958,2025-08-09 14:00,Cartusia Kartuzy,Pogon Szczecin II,2,1,,,
+62036990,2025-08-15 10:00,Wiked Luzino,Lech II Poznan,4,3,,,
+62037282,2025-08-15 15:00,Cartusia Kartuzy,Elana Torun,4,2,,,
+62036986,2025-08-15 16:00,Sks Unia Swarzedz,Pogon Nowe Skalmierzyce,0,1,,,
+62036982,2025-08-16 10:00,Pogon Szczecin II,Polonia Sroda Wielkopolska,2,3,,,
+62036984,2025-08-16 14:00,Gzs Tluchovia Tluchowo,MKS Flota Swinoujscie,0,1,,,
+62036976,2025-08-16 15:00,Zks Kluczevia Stargard,Blekitni Stargard,1,4,,,
+62036978,2025-08-16 15:00,KS Lipno Steszew,WDA Swiecie,2,2,,,
+62037008,2025-08-20 17:30,Zawisza Bydgoszcz,MKS Viktoria Wrzesnia,2,0,,,
+62036996,2025-08-22 10:00,Lech II Poznan,Zks Kluczevia Stargard,2,1,,,
+62037002,2025-08-22 17:00,Polonia Sroda Wielkopolska,Elana Torun,1,0,,,
+62036998,2025-08-23 10:00,MKS Notec Czarnkow,Pogon Szczecin II,0,2,,,
+62036992,2025-08-23 13:00,Blekitni Stargard,KS Lipno Steszew,3,1,,,
+62037004,2025-08-23 13:00,WDA Swiecie,Sks Unia Swarzedz,0,3,,,
+62037014,2025-08-27 15:00,Zks Kluczevia Stargard,WDA Swiecie,0,0,,,
+62037018,2025-08-27 15:00,Pogon Szczecin II,Zawisza Bydgoszcz,1,1,,,
+62037022,2025-08-27 15:00,Sks Unia Swarzedz,Lech II Poznan,1,4,,,
+62037016,2025-08-27 16:00,KS Lipno Steszew,LKS Wybrzeze Rewalskie Rewal,2,0,,,
+62037038,2025-08-30 13:00,Gzs Tluchovia Tluchowo,Sks Unia Swarzedz,1,2,,,
+62037030,2025-08-30 15:00,MKS Flota Swinoujscie,KS Lipno Steszew,4,0,,,
+62037044,2025-08-30 16:00,Zawisza Bydgoszcz,Zks Kluczevia Stargard,4,2,,,
+62037028,2025-08-31 13:00,Blekitni Stargard,Pogon Szczecin II,4,0,,,
+62037040,2025-08-31 15:00,WDA Swiecie,Cartusia Kartuzy,0,4,,,
+62037058,2025-09-05 15:00,Sks Unia Swarzedz,Zawisza Bydgoszcz,0,0,,,
+62037048,2025-09-06 11:00,Elana Torun,MKS Flota Swinoujscie,3,2,,,
+62037050,2025-09-06 13:00,Zks Kluczevia Stargard,LKS Wybrzeze Rewalskie Rewal,0,0,,,
+62037054,2025-09-06 14:00,KS Lipno Steszew,Gzs Tluchovia Tluchowo,0,2,,,
+62037064,2025-09-13 13:00,Blekitni Stargard,Lech II Poznan,3,3,,,
+62037074,2025-09-13 13:00,Gzs Tluchovia Tluchowo,Cartusia Kartuzy,1,4,,,
+62037070,2025-09-14 13:00,Pogon Szczecin II,Sks Unia Swarzedz,2,3,,,
+62037052,2025-09-17 14:00,Lech II Poznan,MKS Notec Czarnkow,0,2,,,
+62037092,2025-09-19 14:00,Sks Unia Swarzedz,Polonia Sroda Wielkopolska,0,2,,,
+62037086,2025-09-21 10:00,Lech II Poznan,WDA Swiecie,6,0,,,
+62037100,2025-09-27 13:00,Blekitni Stargard,WDA Swiecie,1,2,,,
+62037114,2025-09-27 13:00,Gzs Tluchovia Tluchowo,MKS Viktoria Wrzesnia,1,0,,,
+62037104,2025-09-28 11:00,Elana Torun,Wiked Luzino,2,1,,,
+62037134,2025-10-03 16:00,Zawisza Bydgoszcz,Blekitni Stargard,2,0,,,
+62037120,2025-10-04 10:00,Lech II Poznan,Pogon Szczecin II,3,1,,,
+62037126,2025-10-04 11:00,Sks Unia Swarzedz,MKS Flota Swinoujscie,0,1,,,
+62037130,2025-10-04 13:00,WDA Swiecie,LKS Wybrzeze Rewalskie Rewal,2,0,,,
+62037118,2025-10-05 12:00,Zks Kluczevia Stargard,Elana Torun,1,2,,,
+62037150,2025-10-10 17:00,Polonia Sroda Wielkopolska,WDA Swiecie,5,1,,,
+62037136,2025-10-11 13:00,Blekitni Stargard,Sks Unia Swarzedz,1,1,,,
+62037140,2025-10-11 13:00,Elana Torun,MKS Viktoria Wrzesnia,1,0,,,
+62037146,2025-10-12 10:00,Pogon Szczecin II,Gzs Tluchovia Tluchowo,2,3,,,
+62037158,2025-10-18 10:00,KS Lipno Steszew,Pogon Nowe Skalmierzyce,0,1,,,
+62037156,2025-10-18 11:00,Lech II Poznan,Cartusia Kartuzy,3,1,,,
+62037162,2025-10-18 11:00,Sks Unia Swarzedz,MKS Notec Czarnkow,3,1,,,
+62037160,2025-10-18 12:00,Gzs Tluchovia Tluchowo,Polonia Sroda Wielkopolska,0,3,,,
+62037164,2025-10-18 13:00,WDA Swiecie,MKS Flota Swinoujscie,2,1,,,
+62037154,2025-10-19 12:00,Zks Kluczevia Stargard,Pogon Szczecin II,3,0,,,
+62037184,2025-10-24 17:00,Polonia Sroda Wielkopolska,MKS Notec Czarnkow,2,6,,,
+62037182,2025-10-25 10:00,KS Lipno Steszew,Zks Kluczevia Stargard,2,0,,,
+62037176,2025-10-25 12:00,Elana Torun,Pogon Szczecin II,1,2,,,
+62037172,2025-10-25 13:00,Blekitni Stargard,Pogon Nowe Skalmierzyce,1,1,,,
+62037200,2025-10-31 12:00,Sks Unia Swarzedz,Elana Torun,0,1,,,
+62037194,2025-11-02 17:00,Pogon Szczecin II,MKS Flota Swinoujscie,3,3,,,
+62037218,2025-11-07 18:00,Polonia Sroda Wielkopolska,Zks Kluczevia Stargard,1,4,,,
+62037216,2025-11-08 11:00,KS Lipno Steszew,MKS Viktoria Wrzesnia,1,0,,,
+62037220,2025-11-08 12:30,WDA Swiecie,Pogon Szczecin II,2,0,,,
+62037214,2025-11-09 12:00,Lech II Poznan,Pogon Nowe Skalmierzyce,1,1,,,
+62037224,2025-11-09 12:00,LKS Wybrzeze Rewalskie Rewal,Sks Unia Swarzedz,0,0,,,
+65163286,2025-11-11 11:30,Wiked Luzino,MKS Viktoria Wrzesnia,1,0,,,
+62037242,2025-11-14 17:00,Zawisza Bydgoszcz,Cartusia Kartuzy,2,0,,,
+62037236,2025-11-15 12:00,Gzs Tluchovia Tluchowo,Elana Torun,0,0,,,
+62037238,2025-11-15 12:00,Sks Unia Swarzedz,KS Lipno Steszew,0,2,,,
+62037226,2025-11-15 12:30,MKS Flota Swinoujscie,Blekitni Stargard,1,1,,,
+62037228,2025-11-16 12:00,Zks Kluczevia Stargard,Wiked Luzino,1,2,,,
+62037234,2025-11-16 12:00,Pogon Nowe Skalmierzyce,Polonia Sroda Wielkopolska,1,2,,,
+62037256,2025-11-22 11:00,WDA Swiecie,Wiked Luzino,1,0,,,
+62037260,2025-11-22 11:00,Zawisza Bydgoszcz,KS Lipno Steszew,1,1,,,
+62037254,2025-11-22 12:00,Sks Unia Swarzedz,Zks Kluczevia Stargard,0,2,,,
+62037258,2025-11-22 12:00,LKS Wybrzeze Rewalskie Rewal,Gzs Tluchovia Tluchowo,0,1,,,
+62037244,2025-11-22 12:30,Blekitni Stargard,Polonia Sroda Wielkopolska,0,1,,,
+62037250,2025-11-23 11:00,Lech II Poznan,Elana Torun,1,2,,,
+65628930,2025-11-26 16:30,Pogon Szczecin II,LKS Wybrzeze Rewalskie Rewal,5,1,,,
+62037278,2025-11-28 12:00,Wiked Luzino,Sks Unia Swarzedz,3,0,,,
+62037268,2025-11-29 11:00,MKS Notec Czarnkow,LKS Wybrzeze Rewalskie Rewal,2,0,,,
+62037264,2025-11-29 12:00,Zks Kluczevia Stargard,Pogon Nowe Skalmierzyce,2,1,,,
+62037266,2025-11-29 17:30,KS Lipno Steszew,Lech II Poznan,1,0,,,
+62037270,2025-11-30 13:00,Pogon Szczecin II,Cartusia Kartuzy,5,0,,,
+65727142,2025-12-06 12:00,MKS Viktoria Wrzesnia,Lech II Poznan,0,0,,,
+62037296,2026-02-27 13:00,Zawisza Bydgoszcz,MKS Notec Czarnkow,5,0,,,
+62037294,2026-02-27 16:00,LKS Wybrzeze Rewalskie Rewal,MKS Viktoria Wrzesnia,2,1,,,
+62037284,2026-02-28 11:00,MKS Flota Swinoujscie,Gzs Tluchovia Tluchowo,1,0,,,
+62037286,2026-02-28 11:00,Lech II Poznan,Wiked Luzino,1,2,,,
+62037292,2026-02-28 11:00,WDA Swiecie,KS Lipno Steszew,3,0,,,
+62037280,2026-02-28 12:00,Blekitni Stargard,Zks Kluczevia Stargard,0,3,,,
+62793321,2026-02-28 13:00,Elana Torun,Cartusia Kartuzy,1,0,,,
+62037288,2026-03-01 11:00,Pogon Nowe Skalmierzyce,Sks Unia Swarzedz,0,4,,,
+62037290,2026-03-01 11:00,Polonia Sroda Wielkopolska,Pogon Szczecin II,3,0,1.750,4.200,3.300
+62037314,2026-03-06 12:00,Wiked Luzino,MKS Flota Swinoujscie,2,0,,,
+62037298,2026-03-07 11:00,Cartusia Kartuzy,LKS Wybrzeze Rewalskie Rewal,4,1,,,
+62037310,2026-03-07 11:00,Sks Unia Swarzedz,WDA Swiecie,0,0,,,
+62037302,2026-03-07 12:00,Zks Kluczevia Stargard,Lech II Poznan,1,0,2.050,3.750,2.700
+62037304,2026-03-07 12:00,KS Lipno Steszew,Blekitni Stargard,1,2,,,
+62037312,2026-03-07 12:00,MKS Viktoria Wrzesnia,Zawisza Bydgoszcz,0,2,,,
+62037306,2026-03-07 16:00,Pogon Szczecin II,MKS Notec Czarnkow,1,2,1.300,5.500,6.250
+62037308,2026-03-07 16:00,Gzs Tluchovia Tluchowo,Pogon Nowe Skalmierzyce,1,3,,,
+62037300,2026-03-08 13:00,Elana Torun,Polonia Sroda Wielkopolska,0,3,,,
+62037316,2026-03-13 15:00,Blekitni Stargard,Cartusia Kartuzy,3,0,,,
+62037332,2026-03-13 17:00,Zawisza Bydgoszcz,Pogon Szczecin II,2,1,1.450,4.500,5.000
+62037326,2026-03-13 18:00,Polonia Sroda Wielkopolska,Wiked Luzino,1,2,,,
+62037328,2026-03-14 11:00,WDA Swiecie,Zks Kluczevia Stargard,1,1,,,
+62037320,2026-03-14 12:00,Lech II Poznan,Sks Unia Swarzedz,2,0,1.800,3.500,3.700
+62037330,2026-03-14 12:00,LKS Wybrzeze Rewalskie Rewal,KS Lipno Steszew,1,1,,,
+62037322,2026-03-14 13:00,MKS Notec Czarnkow,Gzs Tluchovia Tluchowo,0,0,,,
+62037318,2026-03-14 14:00,MKS Flota Swinoujscie,MKS Viktoria Wrzesnia,2,1,,,
+63276121,2026-03-14 16:00,Elana Torun,Pogon Nowe Skalmierzyce,3,1,,,
+66168536,2026-03-17 16:00,Elana Torun,Blekitni Stargard,1,0,,,
+62037340,2026-03-21 11:00,Lech II Poznan,Polonia Sroda Wielkopolska,1,1,,,
+62037346,2026-03-21 12:00,Sks Unia Swarzedz,Gzs Tluchovia Tluchowo,5,1,,,
+62037350,2026-03-21 12:00,Wiked Luzino,MKS Notec Czarnkow,0,0,,,
+62037334,2026-03-21 13:00,Cartusia Kartuzy,WDA Swiecie,1,1,,,
+62037338,2026-03-21 13:00,Zks Kluczevia Stargard,Zawisza Bydgoszcz,0,0,,,
+62037342,2026-03-21 13:00,KS Lipno Steszew,MKS Flota Swinoujscie,0,0,,,
+70035444,2026-03-21 13:00,Pogon Nowe Skalmierzyce,MKS Viktoria Wrzesnia,0,0,,,
+62037344,2026-03-22 13:00,Pogon Szczecin II,Blekitni Stargard,3,0,1.800,4.000,3.300
+62037336,2026-03-23 17:00,Elana Torun,LKS Wybrzeze Rewalskie Rewal,5,1,,,
+69594254,2026-03-25 13:00,MKS Flota Swinoujscie,MKS Notec Czarnkow,2,4,,,
+62037362,2026-03-27 15:00,Gzs Tluchovia Tluchowo,KS Lipno Steszew,3,1,,,
+62037366,2026-03-28 12:00,LKS Wybrzeze Rewalskie Rewal,Zks Kluczevia Stargard,0,4,,,
+62037364,2026-03-28 13:00,WDA Swiecie,Pogon Nowe Skalmierzyce,3,1,,,
+62037352,2026-03-28 14:00,Blekitni Stargard,MKS Viktoria Wrzesnia,2,3,,,
+62037354,2026-03-28 14:00,MKS Flota Swinoujscie,Elana Torun,2,2,,,
+62037360,2026-03-28 16:00,Polonia Sroda Wielkopolska,Cartusia Kartuzy,2,1,,,
+62037368,2026-03-28 17:00,Zawisza Bydgoszcz,Sks Unia Swarzedz,1,0,,,
+69734520,2026-04-01 14:00,Gzs Tluchovia Tluchowo,Zawisza Bydgoszcz,0,1,7.000,4.750,1.333
+69594680,2026-04-01 14:30,Cartusia Kartuzy,MKS Viktoria Wrzesnia,0,3,,,
+69734522,2026-04-01 15:00,Polonia Sroda Wielkopolska,MKS Flota Swinoujscie,6,2,1.727,3.750,3.800
+62037386,2026-04-03 14:00,Wiked Luzino,LKS Wybrzeze Rewalskie Rewal,2,1,1.111,7.000,13.000
+62037382,2026-04-03 15:00,Sks Unia Swarzedz,Pogon Szczecin II,1,0,2.100,3.700,2.700
+62037372,2026-04-03 18:08,Elana Torun,WDA Swiecie,0,1,1.727,3.500,3.900
+62037376,2026-04-04 10:00,Lech II Poznan,Blekitni Stargard,1,1,1.727,4.333,3.300
+62037380,2026-04-04 10:00,Pogon Nowe Skalmierzyce,Zawisza Bydgoszcz,0,0,,,
+62037384,2026-04-04 10:00,MKS Viktoria Wrzesnia,MKS Notec Czarnkow,0,0,,,
+62037374,2026-04-04 11:00,Zks Kluczevia Stargard,MKS Flota Swinoujscie,2,3,1.666,3.800,4.100
+62037378,2026-04-04 11:00,KS Lipno Steszew,Polonia Sroda Wielkopolska,1,1,4.000,4.200,1.600
+62037370,2026-04-04 13:00,Cartusia Kartuzy,Gzs Tluchovia Tluchowo,0,0,1.700,3.750,3.900
+62037402,2026-04-10 15:00,WDA Swiecie,Lech II Poznan,1,2,2.550,3.750,2.150
+62037398,2026-04-10 17:00,Polonia Sroda Wielkopolska,Sks Unia Swarzedz,0,0,,,
+62037400,2026-04-11 12:00,Gzs Tluchovia Tluchowo,Zks Kluczevia Stargard,0,3,3.300,3.600,1.850
+62037388,2026-04-11 13:00,Blekitni Stargard,Wiked Luzino,1,4,,,
+62037394,2026-04-11 13:00,MKS Notec Czarnkow,Cartusia Kartuzy,0,0,,,
+62037392,2026-04-11 14:00,MKS Flota Swinoujscie,Pogon Nowe Skalmierzyce,0,2,,,
+62037390,2026-04-11 17:00,Elana Torun,KS Lipno Steszew,1,1,1.333,4.333,7.500
+62037396,2026-04-12 12:00,Pogon Szczecin II,MKS Viktoria Wrzesnia,1,2,2.450,3.700,2.300
+62037404,2026-04-12 12:00,LKS Wybrzeze Rewalskie Rewal,Zawisza Bydgoszcz,2,7,8.500,5.750,1.222
+62037358,2026-04-15 13:00,Pogon Szczecin II,Wiked Luzino,1,2,,,
+70396034,2026-04-15 15:00,MKS Notec Czarnkow,Lech II Poznan,0,0,,,
+62037406,2026-04-18 12:00,Zks Kluczevia Stargard,MKS Notec Czarnkow,3,0,1.833,3.600,3.400
+62037414,2026-04-18 12:00,Sks Unia Swarzedz,Cartusia Kartuzy,4,1,1.571,3.900,4.500
+62037418,2026-04-18 12:00,WDA Swiecie,Blekitni Stargard,3,2,2.375,3.600,2.400
+62037410,2026-04-18 15:00,KS Lipno Steszew,Pogon Szczecin II,1,0,2.350,3.700,2.400
+62037422,2026-04-18 17:00,Zawisza Bydgoszcz,Polonia Sroda Wielkopolska,1,0,1.615,3.900,4.200
+62037408,2026-04-19 10:00,Lech II Poznan,MKS Flota Swinoujscie,3,1,1.700,4.000,3.600
+62037416,2026-04-19 10:00,MKS Viktoria Wrzesnia,Gzs Tluchovia Tluchowo,0,0,,,
+62037420,2026-04-19 10:00,Wiked Luzino,Elana Torun,2,1,,,
+62037412,2026-04-19 12:00,Pogon Nowe Skalmierzyce,LKS Wybrzeze Rewalskie Rewal,0,0,,,
+62037434,2026-04-25 10:00,Pogon Szczecin II,Lech II Poznan,2,2,2.700,3.700,2.150
+62037424,2026-04-25 11:00,Blekitni Stargard,Zawisza Bydgoszcz,2,3,4.333,4.100,1.571
+62037426,2026-04-25 11:00,Cartusia Kartuzy,KS Lipno Steszew,0,1,2.875,3.300,2.150
+62037432,2026-04-25 11:00,MKS Notec Czarnkow,Pogon Nowe Skalmierzyce,0,0,,,
+62037438,2026-04-25 12:00,Gzs Tluchovia Tluchowo,Wiked Luzino,1,1,,,
+62037436,2026-04-25 14:00,Polonia Sroda Wielkopolska,MKS Viktoria Wrzesnia,0,0,,,
+62037440,2026-04-25 14:00,LKS Wybrzeze Rewalskie Rewal,WDA Swiecie,1,1,4.500,3.900,1.533
+62037430,2026-04-25 15:00,MKS Flota Swinoujscie,Sks Unia Swarzedz,2,2,2.900,3.600,2.050
+62037428,2026-04-25 16:00,Elana Torun,Zks Kluczevia Stargard,1,1,2.000,3.300,3.250
+62037456,2026-04-30 15:00,Wiked Luzino,Pogon Nowe Skalmierzyce,4,3,1.500,4.200,4.750
+62037444,2026-04-30 15:30,Lech II Poznan,LKS Wybrzeze Rewalskie Rewal,6,2,1.166,7.500,11.000
+62037446,2026-05-01 10:00,KS Lipno Steszew,MKS Notec Czarnkow,1,0,2.150,3.500,2.700
+62037448,2026-05-01 10:00,Gzs Tluchovia Tluchowo,Pogon Szczecin II,3,3,3.000,3.600,2.000
+62037450,2026-05-01 10:00,Sks Unia Swarzedz,Blekitni Stargard,0,0,1.800,3.700,3.400
+62037454,2026-05-01 10:00,WDA Swiecie,Polonia Sroda Wielkopolska,3,2,2.600,3.700,2.200
+62037442,2026-05-01 11:00,Zks Kluczevia Stargard,Cartusia Kartuzy,2,1,1.444,4.200,5.250
+62037452,2026-05-01 13:00,MKS Viktoria Wrzesnia,Elana Torun,3,2,1.380,4.500,6.500
+62037458,2026-05-01 17:00,Zawisza Bydgoszcz,MKS Flota Swinoujscie,0,1,1.333,4.750,6.000
+62037460,2026-05-08 15:00,Blekitni Stargard,LKS Wybrzeze Rewalskie Rewal,3,0,1.300,4.750,7.000
+62037468,2026-05-08 15:30,MKS Notec Czarnkow,Sks Unia Swarzedz,0,0,,,
+62037474,2026-05-08 17:00,Polonia Sroda Wielkopolska,Gzs Tluchovia Tluchowo,3,1,1.400,4.200,5.750
+62037462,2026-05-09 10:00,Cartusia Kartuzy,Lech II Poznan,0,0,3.000,4.000,1.850
+62037472,2026-05-09 11:00,Pogon Nowe Skalmierzyce,KS Lipno Steszew,0,0,,,
+62037470,2026-05-09 12:00,Pogon Szczecin II,Zks Kluczevia Stargard,2,1,2.900,3.700,2.000
+62037464,2026-05-09 13:00,Elana Torun,Zawisza Bydgoszcz,0,3,2.900,4.100,1.909
+62037476,2026-05-09 13:00,MKS Viktoria Wrzesnia,Wiked Luzino,0,1,,,
+62037466,2026-05-09 15:00,MKS Flota Swinoujscie,WDA Swiecie,0,3,1.444,4.500,5.250
+62037478,2026-05-13 15:00,Zks Kluczevia Stargard,KS Lipno Steszew,0,3,1.550,4.000,4.500
+62037482,2026-05-13 15:00,Pogon Szczecin II,Elana Torun,4,0,1.333,5.000,6.500
+62037484,2026-05-13 15:00,Pogon Nowe Skalmierzyce,Blekitni Stargard,0,0,2.600,3.500,2.300
+62037486,2026-05-13 15:00,Gzs Tluchovia Tluchowo,Lech II Poznan,3,1,3.400,4.100,1.727
+62037488,2026-05-13 15:00,Sks Unia Swarzedz,MKS Viktoria Wrzesnia,2,1,1.900,3.600,3.250
+62037490,2026-05-13 15:00,Wiked Luzino,Cartusia Kartuzy,0,0,,,
+62037492,2026-05-13 15:00,LKS Wybrzeze Rewalskie Rewal,MKS Flota Swinoujscie,0,0,,,
+62037480,2026-05-13 15:30,MKS Notec Czarnkow,Polonia Sroda Wielkopolska,0,0,,,
+62037494,2026-05-13 17:00,Zawisza Bydgoszcz,WDA Swiecie,1,0,1.270,5.000,7.500
+62037510,2026-05-16 12:00,MKS Viktoria Wrzesnia,Zks Kluczevia Stargard,2,1,2.200,3.600,2.600
+62037512,2026-05-16 15:00,WDA Swiecie,Gzs Tluchovia Tluchowo,1,2,1.571,4.100,4.333
+62037498,2026-05-16 16:00,Cartusia Kartuzy,Pogon Nowe Skalmierzyce,0,1,2.625,3.400,2.250
+62037504,2026-05-17 10:00,Lech II Poznan,Zawisza Bydgoszcz,2,4,4.200,4.000,1.571
+62037506,2026-05-17 10:00,KS Lipno Steszew,Wiked Luzino,0,5,,,
+62037496,2026-05-17 13:00,Blekitni Stargard,MKS Notec Czarnkow,1,1,2.050,3.500,2.900
+62037500,2026-05-17 13:00,Elana Torun,Sks Unia Swarzedz,0,4,15.000,8.000,1.111
+62037502,2026-05-17 13:00,MKS Flota Swinoujscie,Pogon Szczecin II,1,2,,,
+62037508,2026-05-17 14:00,Polonia Sroda Wielkopolska,LKS Wybrzeze Rewalskie Rewal,0,0,,,
+62037524,2026-05-22 15:30,Gzs Tluchovia Tluchowo,Blekitni Stargard,1,4,3.000,3.700,1.909
+62037514,2026-05-22 16:00,MKS Flota Swinoujscie,Cartusia Kartuzy,0,0,2.000,3.500,3.000
+62037522,2026-05-23 10:00,Pogon Nowe Skalmierzyce,Lech II Poznan,3,0,,,
+62037526,2026-05-23 11:00,Sks Unia Swarzedz,LKS Wybrzeze Rewalskie Rewal,3,1,1.055,15.000,21.000
+62037516,2026-05-23 13:00,Zks Kluczevia Stargard,Polonia Sroda Wielkopolska,1,2,2.600,3.700,2.150
+62037528,2026-05-23 14:00,MKS Viktoria Wrzesnia,KS Lipno Steszew,1,3,1.666,3.900,3.900
+65383682,2026-05-23 15:00,Elana Torun,MKS Notec Czarnkow,0,3,,,
+62037530,2026-05-23 17:00,Zawisza Bydgoszcz,Wiked Luzino,2,0,1.750,3.800,3.600
+62037520,2026-05-24 15:00,Pogon Szczecin II,WDA Swiecie,13,1,1.363,4.750,6.000
+62037546,2026-05-30 11:00,Wiked Luzino,Zks Kluczevia Stargard,3,2,,,
+62037532,2026-05-30 15:00,Blekitni Stargard,MKS Flota Swinoujscie,3,0,1.800,3.900,3.300
+62037534,2026-05-30 15:00,Cartusia Kartuzy,Zawisza Bydgoszcz,0,2,6.000,4.750,1.363
+62037536,2026-05-30 15:00,Elana Torun,Gzs Tluchovia Tluchowo,2,5,3.900,5.000,1.533
+62037538,2026-05-30 15:00,Lech II Poznan,MKS Viktoria Wrzesnia,0,0,,,
+62037540,2026-05-30 15:00,KS Lipno Steszew,Sks Unia Swarzedz,4,3,2.700,3.900,2.050
+62037542,2026-05-30 15:00,Polonia Sroda Wielkopolska,Pogon Nowe Skalmierzyce,2,1,1.800,4.000,3.300
+62037544,2026-05-30 15:00,WDA Swiecie,MKS Notec Czarnkow,1,3,3.000,3.800,1.950
+62037548,2026-05-30 15:00,LKS Wybrzeze Rewalskie Rewal,Pogon Szczecin II,0,0,,,
+72515830,2026-07-31 16:00,Gedania Gdansk,MKS Notec Czarnkow,5,3,2.700,3.600,2.200
+72515824,2026-08-01 10:00,Chemik Bydgoszcz,Zks Kluczevia Stargard,3,3,2.750,3.600,2.100
+72515832,2026-08-01 10:00,Grom Nowy Staw,Sks Unia Swarzedz,2,3,3.100,3.700,1.950
+72515822,2026-08-01 13:00,MKS Viktoria Wrzesnia,Lech II Poznan,2,5,2.050,3.600,2.875
+72515826,2026-08-01 13:00,Blekitni Stargard,WDA Swiecie,1,1,1.615,4.000,4.100
+72515828,2026-08-01 14:00,Elana Torun,KS Lipno Steszew,1,1,2.100,3.600,2.800
+72515818,2026-08-01 15:00,Kss Kotwica Kornik,Wiked Luzino,2,6,6.500,5.000,1.300
+72515820,2026-08-01 15:00,Baltyk Koszalin,Polonia Sroda Wielkopolska,0,3,3.750,3.900,1.700
+72515816,2026-08-01 16:00,MKS Flota Swinoujscie,KKS 1925 Kalisz,0,1,,,
+72515846,2026-08-07 17:00,Polonia Sroda Wielkopolska,MKS Viktoria Wrzesnia,1,0,1.420,4.333,5.500
+72515844,2026-08-08 10:00,Lech II Poznan,Chemik Bydgoszcz,1,1,1.500,4.100,5.000
+72515838,2026-08-08 11:00,Elana Torun,Gedania Gdansk,2,2,2.450,3.600,2.375
+72515836,2026-08-08 13:00,MKS Notec Czarnkow,Grom Nowy Staw,0,2,,,
+72515840,2026-08-08 15:00,WDA Swiecie,KS Lipno Steszew,2,1,2.150,3.600,2.700
+72515842,2026-08-08 15:00,Zks Kluczevia Stargard,Blekitni Stargard,2,1,2.350,3.600,2.500
+72515850,2026-08-08 16:00,MKS Flota Swinoujscie,Kss Kotwica Kornik,2,0,,,
+72515848,2026-08-09 10:00,Wiked Luzino,Baltyk Koszalin,1,1,1.200,6.250,9.500
+72515834,2026-08-09 15:00,KKS 1925 Kalisz,Sks Unia Swarzedz,1,0,1.950,3.500,3.100
+72515856,2026-08-14 16:00,MKS Viktoria Wrzesnia,Wiked Luzino,1,3,,,
+72515868,2026-08-14 16:00,Sks Unia Swarzedz,MKS Notec Czarnkow,0,3,1.700,3.900,3.600
+72515858,2026-08-14 16:30,Chemik Bydgoszcz,Polonia Sroda Wielkopolska,1,4,4.200,4.000,1.600
+72515854,2026-08-15 10:00,Baltyk Koszalin,MKS Flota Swinoujscie,1,2,3.000,3.400,2.050
+72515864,2026-08-15 10:00,Gedania Gdansk,WDA Swiecie,1,1,,,
+72515866,2026-08-15 12:00,Grom Nowy Staw,Elana Torun,1,2,1.850,3.600,3.300
+72515860,2026-08-15 13:00,Blekitni Stargard,Lech II Poznan,4,2,2.000,3.900,2.800
+72515852,2026-08-15 15:00,Kss Kotwica Kornik,KKS 1925 Kalisz,2,2,,,
+72515862,2026-08-15 15:00,KS Lipno Steszew,Zks Kluczevia Stargard,1,4,2.550,3.600,2.250
+72515878,2026-08-19 10:00,Lech II Poznan,KS Lipno Steszew,1,0,1.550,4.200,4.200
+72515870,2026-08-19 15:00,KKS 1925 Kalisz,MKS Notec Czarnkow,0,1,1.900,3.800,3.100
+72515874,2026-08-19 15:00,WDA Swiecie,Grom Nowy Staw,4,2,2.000,3.600,3.000
+72515882,2026-08-19 15:00,Wiked Luzino,Chemik Bydgoszcz,3,1,1.222,5.750,8.000
+72515884,2026-08-19 15:00,MKS Flota Swinoujscie,MKS Viktoria Wrzesnia,5,0,,,
+72515876,2026-08-19 15:30,Zks Kluczevia Stargard,Gedania Gdansk,2,2,1.333,5.000,6.000
+72515872,2026-08-19 16:00,Elana Torun,Sks Unia Swarzedz,2,3,2.750,3.750,2.050
+72515886,2026-08-19 16:00,Kss Kotwica Kornik,Baltyk Koszalin,0,1,2.050,3.500,2.900
+72515880,2026-08-19 17:00,Polonia Sroda Wielkopolska,Blekitni Stargard,4,1,1.615,4.100,4.000
+72515892,2026-08-22 10:00,Chemik Bydgoszcz,MKS Flota Swinoujscie,1,1,2.800,3.600,2.100
+72515890,2026-08-22 12:00,MKS Viktoria Wrzesnia,Kss Kotwica Kornik,1,0,1.800,3.900,3.400
+72515904,2026-08-22 14:00,MKS Notec Czarnkow,Elana Torun,3,1,1.909,3.700,3.100
+72515896,2026-08-22 15:00,KS Lipno Steszew,Polonia Sroda Wielkopolska,2,3,4.750,4.333,1.500
+72515898,2026-08-23 10:00,Gedania Gdansk,Lech II Poznan,2,3,,,
+72515894,2026-08-23 11:00,Blekitni Stargard,Wiked Luzino,2,1,3.300,3.900,1.800
+72515902,2026-08-23 11:00,Sks Unia Swarzedz,WDA Swiecie,0,1,1.650,3.900,3.900
+72515900,2026-08-23 12:00,Grom Nowy Staw,Zks Kluczevia Stargard,3,4,3.600,3.800,1.727
+72515888,2026-08-23 14:00,Baltyk Koszalin,KKS 1925 Kalisz,1,1,3.200,3.500,1.909
+72515908,2026-08-28 15:00,WDA Swiecie,MKS Notec Czarnkow,2,1,2.150,3.700,2.625
+72515910,2026-08-28 15:00,Zks Kluczevia Stargard,Sks Unia Swarzedz,2,0,2.625,3.400,2.200
+72515916,2026-08-28 15:00,Wiked Luzino,KS Lipno Steszew,2,1,1.363,4.750,5.750
+72515920,2026-08-28 15:30,Kss Kotwica Kornik,Chemik Bydgoszcz,4,1,2.350,3.700,2.400
+72515914,2026-08-28 17:00,Polonia Sroda Wielkopolska,Gedania Gdansk,4,3,1.420,4.500,5.500
+72515912,2026-08-29 10:00,Lech II Poznan,Grom Nowy Staw,2,4,1.480,4.750,4.500
+72515906,2026-08-29 14:00,KKS 1925 Kalisz,Elana Torun,5,1,1.666,3.700,4.100
+72515922,2026-08-29 14:00,Baltyk Koszalin,MKS Viktoria Wrzesnia,2,0,,,
+72515918,2026-08-29 15:00,MKS Flota Swinoujscie,Blekitni Stargard,1,5,,,
+72515932,2026-09-05 10:00,Gedania Gdansk,Wiked Luzino,0,4,4.750,4.750,1.450
+72515934,2026-09-05 11:00,Grom Nowy Staw,Polonia Sroda Wielkopolska,4,4,4.000,4.333,1.571
+72515928,2026-09-05 12:00,Blekitni Stargard,Kss Kotwica Kornik,2,4,1.300,5.250,6.500
+72515924,2026-09-05 13:00,MKS Viktoria Wrzesnia,KKS 1925 Kalisz,3,3,,,
+72515938,2026-09-05 13:00,MKS Notec Czarnkow,Zks Kluczevia Stargard,3,1,,,
+72515926,2026-09-05 15:00,Chemik Bydgoszcz,Baltyk Koszalin,2,2,2.100,3.700,2.750
+72515930,2026-09-05 15:00,KS Lipno Steszew,MKS Flota Swinoujscie,1,3,3.100,3.700,1.900
+72515936,2026-09-05 16:00,Sks Unia Swarzedz,Lech II Poznan,1,1,2.250,3.900,2.400
+72515940,2026-09-05 16:00,Elana Torun,WDA Swiecie,1,2,2.450,3.500,2.375
+72515950,2026-09-11 13:30,Wiked Luzino,Grom Nowy Staw,5,1,1.400,4.750,5.250
+72515948,2026-09-11 17:00,Polonia Sroda Wielkopolska,Sks Unia Swarzedz,4,3,1.600,3.900,4.333
+72515946,2026-09-12 10:00,Lech II Poznan,MKS Notec Czarnkow,2,1,1.833,3.900,3.100
+72515958,2026-09-12 11:00,MKS Viktoria Wrzesnia,Chemik Bydgoszcz,2,2,1.950,3.900,2.875
+72515944,2026-09-12 13:00,Zks Kluczevia Stargard,Elana Torun,2,1,1.550,4.100,4.333
+72515942,2026-09-12 14:00,KKS 1925 Kalisz,WDA Swiecie,1,1,2.000,3.500,3.000
+72515954,2026-09-12 14:00,Kss Kotwica Kornik,KS Lipno Steszew,4,1,2.150,3.750,2.600
+72515956,2026-09-12 14:00,Baltyk Koszalin,Blekitni Stargard,0,2,3.200,3.800,1.833
+72515952,2026-09-12 15:00,MKS Flota Swinoujscie,Gedania Gdansk,1,1,,,
+72515960,2026-09-19 10:00,Chemik Bydgoszcz,KKS 1925 Kalisz,1,1,,,
+72515966,2026-09-19 10:00,Gedania Gdansk,Kss Kotwica Kornik,6,1,,,
+72515968,2026-09-19 10:00,Grom Nowy Staw,MKS Flota Swinoujscie,5,0,3.100,3.800,1.900
+72515976,2026-09-19 10:00,WDA Swiecie,Zks Kluczevia Stargard,1,2,2.400,3.500,2.375
+72515970,2026-09-19 11:00,Sks Unia Swarzedz,Wiked Luzino,1,3,3.000,3.750,1.950
+72515962,2026-09-19 12:00,Blekitni Stargard,MKS Viktoria Wrzesnia,1,1,1.450,4.500,5.000
+72515972,2026-09-19 13:00,MKS Notec Czarnkow,Polonia Sroda Wielkopolska,0,0,,,
+72515974,2026-09-19 13:00,Elana Torun,Lech II Poznan,0,0,2.700,3.700,2.100
+72515964,2026-09-19 14:00,KS Lipno Steszew,Baltyk Koszalin,2,1,,,
+72515982,2026-09-26 10:00,Polonia Sroda Wielkopolska,Elana Torun,2,2,1.380,4.500,5.750
+72515984,2026-09-26 10:00,Wiked Luzino,MKS Notec Czarnkow,2,0,1.333,5.000,5.750
+72515990,2026-09-26 13:00,Baltyk Koszalin,Gedania Gdansk,3,1,2.450,3.600,2.375
+72515986,2026-09-26 14:00,MKS Flota Swinoujscie,Sks Unia Swarzedz,0,2,3.000,3.750,1.950
+72515988,2026-09-26 14:00,Kss Kotwica Kornik,Grom Nowy Staw,1,3,2.700,3.800,2.050
+72515992,2026-09-26 14:00,MKS Viktoria Wrzesnia,KS Lipno Steszew,1,1,2.400,3.500,2.450
+72515994,2026-09-26 15:00,Chemik Bydgoszcz,Blekitni Stargard,3,3,3.000,3.700,1.909
+72515978,2026-09-27 12:00,KKS 1925 Kalisz,Zks Kluczevia Stargard,1,0,2.250,3.600,2.500
+72516000,2026-10-03 10:00,Gedania Gdansk,MKS Viktoria Wrzesnia,0,0,2.000,3.700,3.000
+72516004,2026-10-03 10:00,Sks Unia Swarzedz,Kss Kotwica Kornik,7,0,1.533,4.200,4.500
+72516002,2026-10-03 10:30,Grom Nowy Staw,Baltyk Koszalin,1,3,2.050,3.700,2.875
+72516008,2026-10-03 11:00,Elana Torun,Wiked Luzino,3,1,4.750,4.200,1.480
+72515996,2026-10-03 12:00,Blekitni Stargard,KKS 1925 Kalisz,5,0,2.100,3.600,2.800
+72515998,2026-10-03 12:00,KS Lipno Steszew,Chemik Bydgoszcz,0,1,2.250,3.500,2.600
+72516006,2026-10-03 12:00,MKS Notec Czarnkow,MKS Flota Swinoujscie,3,0,,,
+72516010,2026-10-03 14:00,WDA Swiecie,Polonia Sroda Wielkopolska,0,4,3.250,3.750,1.850
+72516382,2026-10-09 16:00,Elana Torun,MKS Flota Swinoujscie,1,0,2.350,3.700,2.400
+72516016,2026-10-09 17:00,Polonia Sroda Wielkopolska,Zks Kluczevia Stargard,2,0,1.666,4.000,3.800
+72516018,2026-10-10 10:00,Wiked Luzino,WDA Swiecie,3,0,1.363,5.000,5.750
+72516026,2026-10-10 10:00,MKS Viktoria Wrzesnia,Grom Nowy Staw,1,0,2.300,3.400,2.550
+72516030,2026-10-10 12:00,Blekitni Stargard,KS Lipno Steszew,3,4,1.400,4.750,5.250
+72516022,2026-10-10 13:00,Kss Kotwica Kornik,MKS Notec Czarnkow,1,1,,,
+72516024,2026-10-10 13:30,Baltyk Koszalin,Sks Unia Swarzedz,1,1,3.200,3.800,1.850
+72516028,2026-10-10 15:00,Chemik Bydgoszcz,Gedania Gdansk,2,3,2.050,3.700,2.750
+72516014,2026-10-10 16:00,KKS 1925 Kalisz,Lech II Poznan,2,4,2.550,3.700,2.250
+74977784,2026-10-14 10:00,Lech II Poznan,Wda Swiecie,1,4,1.700,4.000,3.700
+72516034,2026-10-17 10:00,Gedania Gdansk,Blekitni Stargard,2,2,3.200,3.900,1.850
+72516036,2026-10-17 10:00,Grom Nowy Staw,Chemik Bydgoszcz,2,0,2.100,3.700,2.700
+72516032,2026-10-17 11:00,KS Lipno Steszew,KKS 1925 Kalisz,1,0,,,
+72516038,2026-10-17 11:00,Sks Unia Swarzedz,MKS Viktoria Wrzesnia,0,0,1.571,4.000,4.333
+72516040,2026-10-17 11:00,MKS Notec Czarnkow,Baltyk Koszalin,0,3,,,
+72516042,2026-10-17 11:00,Elana Torun,Kss Kotwica Kornik,3,1,1.700,3.900,3.600
+72516046,2026-10-17 11:00,Zks Kluczevia Stargard,Wiked Luzino,3,2,2.500,3.700,2.250
+72516048,2026-10-18 10:00,Lech II Poznan,Polonia Sroda Wielkopolska,2,3,2.450,3.800,2.200
+72516044,2026-10-18 12:00,WDA Swiecie,MKS Flota Swinoujscie,1,0,1.800,3.750,3.400
+72516052,2026-10-24 10:00,Wiked Luzino,Lech II Poznan,2,4,1.480,4.500,4.500
+72516058,2026-10-24 10:00,Baltyk Koszalin,Elana Torun,2,3,2.150,3.500,2.700
+72516062,2026-10-24 10:00,Chemik Bydgoszcz,Sks Unia Swarzedz,1,3,2.900,3.400,2.100
+72516056,2026-10-24 11:00,Kss Kotwica Kornik,WDA Swiecie,0,2,3.800,4.100,1.666
+72516066,2026-10-24 11:00,KS Lipno Steszew,Gedania Gdansk,1,2,2.200,3.700,2.550
+72516050,2026-10-24 12:00,KKS 1925 Kalisz,Polonia Sroda Wielkopolska,0,0,3.600,4.000,1.666
+72516060,2026-10-24 12:00,MKS Viktoria Wrzesnia,MKS Notec Czarnkow,0,1,2.200,3.600,2.600
+72516064,2026-10-24 12:00,Blekitni Stargard,Grom Nowy Staw,3,1,1.615,4.100,3.900
+72516416,2026-10-24 12:00,Zks Kluczevia Stargard,MKS Flota Swinoujscie,2,2,1.533,4.200,4.500
+72516068,2026-10-31 11:00,Gedania Gdansk,KKS 1925 Kalisz,0,0,2.300,3.600,2.500
+72516070,2026-10-31 11:00,Grom Nowy Staw,KS Lipno Steszew,1,2,2.000,3.600,2.900
+72516082,2026-10-31 11:00,Lech II Poznan,MKS Flota Swinoujscie,8,1,1.600,4.100,4.100
+72516072,2026-10-31 12:00,Sks Unia Swarzedz,Blekitni Stargard,0,0,2.100,3.700,2.700
+72516074,2026-10-31 12:00,MKS Notec Czarnkow,Chemik Bydgoszcz,1,4,,,
+72516076,2026-10-31 12:00,Elana Torun,MKS Viktoria Wrzesnia,0,0,1.950,3.600,3.100
+72516080,2026-10-31 12:00,Zks Kluczevia Stargard,Kss Kotwica Kornik,1,0,1.300,5.500,6.500
+72516078,2026-10-31 12:30,WDA Swiecie,Baltyk Koszalin,1,1,,,
+72516084,2026-10-31 19:00,Polonia Sroda Wielkopolska,Wiked Luzino,5,2,2.200,3.700,2.625
+72516012,2026-11-04 11:00,Zks Kluczevia Stargard,Lech II Poznan,4,3,2.450,3.800,2.250
+72516090,2026-11-07 11:00,Kss Kotwica Kornik,Lech II Poznan,1,4,4.750,5.250,1.380
+72516092,2026-11-07 11:00,Baltyk Koszalin,Zks Kluczevia Stargard,0,0,2.450,3.600,2.300
+72516096,2026-11-07 11:00,Chemik Bydgoszcz,Elana Torun,2,1,2.050,3.600,2.875
+72516156,2026-11-07 11:00,KS Lipno Steszew,Sks Unia Swarzedz,1,2,3.300,3.800,1.800
+72516158,2026-11-07 11:00,Gedania Gdansk,Grom Nowy Staw,1,2,2.050,3.800,2.750
+72516086,2026-11-07 12:00,KKS 1925 Kalisz,Wiked Luzino,1,1,3.200,3.900,1.833
+72516088,2026-11-07 12:00,MKS Flota Swinoujscie,Polonia Sroda Wielkopolska,1,0,,,
+72516094,2026-11-07 12:00,MKS Viktoria Wrzesnia,WDA Swiecie,3,3,,,
+72516098,2026-11-07 12:00,Blekitni Stargard,MKS Notec Czarnkow,0,0,1.750,4.000,3.400

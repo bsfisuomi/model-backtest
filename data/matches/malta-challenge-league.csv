@@ -1,0 +1,229 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+61706604,2025-09-13 16:00,Marsa FC,Zurrieq,1,3,,,
+61706598,2025-09-13 18:30,Melita FC,Swieqi United FC,3,0,,,
+61706596,2025-09-14 16:00,St Andrews FC,Mgarr United FC,0,4,,,
+61706608,2025-09-14 16:00,Vittoriosa Stars,Sirens FC,0,1,,,
+61706612,2025-09-14 18:30,Balzan FC,Gudja United,0,1,,,
+61706616,2025-09-14 18:30,Zebbug Rangers FC,Fgura United FC,0,1,,,
+63322039,2025-09-20 16:00,Swieqi United FC,St Andrews FC,1,1,,,
+63322041,2025-09-20 16:00,Gudja United,Zebbug Rangers FC,1,1,,,
+63322043,2025-09-20 18:30,Fgura United FC,Santa Lucia FC,2,0,,,
+63322045,2025-09-20 18:30,Sirens FC,Balzan FC,1,3,,,
+63322047,2025-09-21 16:00,Zurrieq,Melita FC,1,5,,,
+63322119,2025-09-21 16:00,Mgarr United FC,Birzebbuga St. Peters FC,1,0,,,
+63322201,2025-09-21 18:30,Mtarfa FC,Marsa FC,0,2,,,
+63322205,2025-09-21 18:30,Pieta Hotspurs FC,Vittoriosa Stars,2,0,,,
+63322495,2025-09-27 16:00,Marsa FC,Fgura United FC,1,3,,,
+63322497,2025-09-27 18:30,Vittoriosa Stars,Mgarr United FC,1,0,,,
+63322501,2025-09-28 11:30,Santa Lucia FC,Gudja United,2,2,,,
+63322505,2025-09-28 14:00,Birzebbuga St. Peters FC,Swieqi United FC,0,1,,,
+63322503,2025-09-28 16:00,Zebbug Rangers FC,Sirens FC,0,3,,,
+63322507,2025-09-28 18:30,St Andrews FC,Zurrieq,2,1,,,
+63322509,2025-10-25 12:00,Fgura United FC,Melita FC,2,3,,,
+63322511,2025-10-25 13:00,Swieqi United FC,Vittoriosa Stars,3,2,,,
+63322515,2025-10-25 14:30,Mtarfa FC,St Andrews FC,0,2,,,
+63322513,2025-10-25 15:30,Zurrieq,Birzebbuga St. Peters FC,2,3,,,
+63322519,2025-10-26 14:00,Gudja United,Marsa FC,1,1,,,
+63322521,2025-10-26 15:30,Pieta Hotspurs FC,Zebbug Rangers FC,4,1,,,
+63322523,2025-10-26 16:30,Sirens FC,Santa Lucia FC,3,5,,,
+63322525,2025-11-01 13:00,Zebbug Rangers FC,Mgarr United FC,0,1,,,
+63322527,2025-11-01 13:00,Santa Lucia FC,Pieta Hotspurs FC,0,1,,,
+63322529,2025-11-01 15:30,Melita FC,Gudja United,2,2,,,
+63322531,2025-11-01 15:30,Marsa FC,Sirens FC,2,2,,,
+63322533,2025-11-02 13:00,Vittoriosa Stars,Zurrieq,0,1,,,
+63322535,2025-11-02 13:00,Birzebbuga St. Peters FC,Mtarfa FC,8,2,,,
+63322537,2025-11-02 15:30,St Andrews FC,Fgura United FC,1,2,,,
+63322539,2025-11-02 15:30,Balzan FC,Swieqi United FC,4,0,,,
+63322541,2025-11-22 13:00,Pieta Hotspurs FC,Marsa FC,1,0,,,
+63322543,2025-11-22 13:00,Mtarfa FC,Vittoriosa Stars,1,2,,,
+63322545,2025-11-22 15:30,Zurrieq,Balzan FC,0,1,,,
+63322547,2025-11-22 15:30,Sirens FC,Melita FC,2,1,,,
+63322549,2025-11-23 13:00,Fgura United FC,Birzebbuga St. Peters FC,0,3,,,
+63322551,2025-11-23 13:00,Gudja United,St Andrews FC,0,1,,,
+63322553,2025-11-23 15:30,Swieqi United FC,Zebbug Rangers FC,3,1,,,
+63322555,2025-11-23 15:30,Mgarr United FC,Santa Lucia FC,3,3,,,
+63322557,2025-11-29 13:00,Marsa FC,Mgarr United FC,2,3,,,
+63322561,2025-11-29 15:30,Birzebbuga St. Peters FC,Gudja United,2,1,,,
+63322563,2025-11-29 18:00,Santa Lucia FC,Swieqi United FC,1,3,,,
+63322565,2025-11-30 13:00,St Andrews FC,Sirens FC,0,4,,,
+63322567,2025-11-30 13:00,Balzan FC,Mtarfa FC,4,0,,,
+63322569,2025-11-30 15:30,Melita FC,Pieta Hotspurs FC,3,1,,,
+63322571,2025-11-30 15:30,Vittoriosa Stars,Fgura United FC,2,3,,,
+63322573,2025-12-09 17:00,Gudja United,Vittoriosa Stars,1,0,2.550,3.100,2.550
+63322575,2025-12-09 19:30,Zurrieq,Santa Lucia FC,4,0,3.000,3.400,2.050
+63322577,2025-12-10 17:00,Pieta Hotspurs FC,St Andrews FC,1,3,1.700,3.700,4.000
+63322579,2025-12-10 17:15,Fgura United FC,Balzan FC,1,2,5.000,3.800,1.533
+63322581,2025-12-10 19:30,Swieqi United FC,Marsa FC,1,2,1.285,4.750,8.000
+63322583,2025-12-10 19:45,Mgarr United FC,Melita FC,1,3,2.900,3.600,2.050
+63322585,2025-12-11 17:00,Mtarfa FC,Zebbug Rangers FC,4,1,5.000,3.700,1.533
+63322587,2025-12-11 19:30,Sirens FC,Birzebbuga St. Peters FC,1,2,4.200,3.900,1.615
+63322589,2025-12-13 13:00,St Andrews FC,Melita FC,1,0,4.100,3.900,1.615
+63322591,2025-12-13 13:00,Vittoriosa Stars,Santa Lucia FC,0,2,3.300,3.750,1.833
+63322593,2025-12-13 15:30,Gudja United,Zurrieq,1,0,2.800,3.300,2.150
+63322595,2025-12-13 15:30,Pieta Hotspurs FC,Mgarr United FC,1,1,1.850,3.500,3.400
+63322597,2025-12-14 13:00,Fgura United FC,Mtarfa FC,8,0,1.200,7.000,11.000
+63322599,2025-12-14 13:00,Balzan FC,Zebbug Rangers FC,4,0,1.071,10.000,23.000
+63322601,2025-12-14 15:30,Sirens FC,Swieqi United FC,1,1,3.600,3.700,1.750
+63322603,2025-12-14 15:30,Birzebbuga St. Peters FC,Marsa FC,1,0,1.480,4.333,5.000
+66864366,2025-12-17 19:00,Zebbug Rangers FC,Zurrieq,1,4,7.500,4.500,1.300
+63322605,2025-12-20 13:00,Zurrieq,Fgura United FC,1,4,3.600,3.600,1.800
+63322609,2025-12-20 13:00,Mtarfa FC,Gudja United,0,3,9.500,6.500,1.200
+63322611,2025-12-20 15:30,Santa Lucia FC,Balzan FC,1,1,7.000,4.333,1.363
+63322613,2025-12-20 15:30,Zebbug Rangers FC,Vittoriosa Stars,0,4,5.750,4.000,1.450
+63322615,2025-12-21 13:00,Swieqi United FC,Pieta Hotspurs FC,3,1,2.200,3.500,2.625
+63322617,2025-12-21 13:00,Mgarr United FC,Sirens FC,2,3,2.750,3.600,2.150
+63322619,2025-12-21 15:30,Marsa FC,St Andrews FC,1,2,3.400,3.600,1.833
+63322621,2025-12-21 15:30,Melita FC,Birzebbuga St. Peters FC,0,2,4.100,4.000,1.650
+67054308,2026-01-10 13:00,Birzebbuga St. Peters FC,St Andrews FC,1,0,1.666,3.500,4.333
+67054310,2026-01-10 13:00,Mgarr United FC,Swieqi United FC,5,1,4.333,4.333,1.533
+67054312,2026-01-10 15:30,Sirens FC,Pieta Hotspurs FC,4,1,2.500,3.600,2.350
+67054314,2026-01-10 15:30,Balzan FC,Vittoriosa Stars,4,1,1.200,7.000,10.000
+67054316,2026-01-11 15:30,Santa Lucia FC,Zebbug Rangers FC,0,0,1.181,6.250,10.000
+67054318,2026-01-11 15:30,Melita FC,Marsa FC,3,2,1.650,3.600,4.333
+67054320,2026-01-11 18:00,Fgura United FC,Gudja United,1,1,1.380,4.333,5.750
+67054322,2026-01-11 18:00,Zurrieq,Mtarfa FC,1,1,1.111,8.500,17.000
+67054326,2026-01-17 13:00,Gudja United,Sirens FC,1,0,3.000,3.600,2.000
+67054330,2026-01-17 15:30,St Andrews FC,Balzan FC,0,2,6.500,4.200,1.380
+67054324,2026-01-17 18:00,Zebbug Rangers FC,Melita FC,1,4,11.000,6.500,1.166
+67054328,2026-01-17 18:00,Vittoriosa Stars,Birzebbuga St. Peters FC,1,1,4.750,4.100,1.533
+67054332,2026-01-18 13:00,Pieta Hotspurs FC,Fgura United FC,1,0,3.000,3.600,2.050
+67054334,2026-01-18 15:30,Mtarfa FC,Mgarr United FC,1,3,13.000,8.500,1.125
+67054336,2026-01-18 15:30,Swieqi United FC,Zurrieq,3,1,1.615,4.000,4.100
+67054338,2026-01-18 18:00,Marsa FC,Santa Lucia FC,2,2,2.550,3.700,2.300
+67054342,2026-01-31 13:00,Swieqi United FC,Mtarfa FC,8,0,1.045,15.000,29.000
+67054346,2026-01-31 15:30,Marsa FC,Zebbug Rangers FC,0,1,1.444,4.000,5.500
+67054344,2026-01-31 18:00,Pieta Hotspurs FC,Gudja United,1,1,1.850,3.600,3.400
+67054348,2026-02-01 10:30,St Andrews FC,Vittoriosa Stars,3,3,2.050,3.500,2.900
+67054350,2026-02-01 13:00,Zurrieq,Mgarr United FC,1,1,2.400,3.500,2.400
+67054352,2026-02-01 13:00,Santa Lucia FC,Melita FC,2,2,3.000,3.700,1.909
+67054354,2026-02-01 15:30,Balzan FC,Birzebbuga St. Peters FC,3,0,1.666,3.600,4.200
+67054340,2026-02-01 18:00,Fgura United FC,Sirens FC,1,5,1.909,3.500,3.300
+67054356,2026-02-07 13:00,Sirens FC,Zurrieq,1,0,1.909,3.800,3.000
+67054358,2026-02-07 13:00,Birzebbuga St. Peters FC,Santa Lucia FC,0,1,1.533,3.900,4.750
+67054360,2026-02-07 15:30,Mgarr United FC,Fgura United FC,2,4,2.900,3.600,1.950
+67054362,2026-02-07 15:30,Zebbug Rangers FC,St Andrews FC,2,1,6.000,4.100,1.400
+67054364,2026-02-08 13:00,Gudja United,Swieqi United FC,0,2,4.500,3.900,1.571
+67054366,2026-02-08 15:30,Vittoriosa Stars,Marsa FC,1,1,2.100,3.600,2.800
+67054368,2026-02-08 15:30,Melita FC,Balzan FC,2,0,4.000,3.700,1.666
+67054370,2026-02-08 18:00,Mtarfa FC,Pieta Hotspurs FC,0,6,,,
+68842678,2026-02-14 13:00,Vittoriosa Stars,Melita FC,0,1,6.000,4.200,1.420
+68842680,2026-02-14 15:30,Gudja United,Mgarr United FC,0,0,2.625,3.600,2.250
+68842682,2026-02-14 15:30,St Andrews FC,Santa Lucia FC,2,1,2.450,3.400,2.400
+68842684,2026-02-14 15:30,Pieta Hotspurs FC,Zurrieq,3,1,1.750,3.750,3.750
+68842686,2026-02-14 18:00,Zebbug Rangers FC,Birzebbuga St. Peters FC,0,3,10.000,5.750,1.200
+68842688,2026-02-15 13:00,Marsa FC,Balzan FC,1,4,8.500,5.000,1.300
+68842762,2026-02-15 13:00,Swieqi United FC,Fgura United FC,2,1,1.800,3.750,3.300
+68842764,2026-02-15 15:30,Mtarfa FC,Sirens FC,0,8,26.000,15.000,1.050
+69086336,2026-02-21 13:00,Gudja United,Zurrieq,0,3,2.350,3.600,2.600
+69086338,2026-02-21 13:00,Marsa FC,Vittoriosa Stars,2,2,3.200,3.500,2.000
+69086340,2026-02-21 15:30,Mgarr United FC,Mtarfa FC,5,0,,,
+69086342,2026-02-21 15:30,Santa Lucia FC,Zebbug Rangers FC,1,1,,,
+69086286,2026-02-22 13:00,Birzebbuga St. Peters FC,Fgura United FC,3,1,1.900,3.600,3.300
+69086288,2026-02-22 15:30,Balzan FC,St Andrews FC,1,4,1.250,5.000,8.500
+69086290,2026-02-22 15:30,Pieta Hotspurs FC,Swieqi United FC,1,3,3.000,3.500,2.000
+69086292,2026-02-22 18:00,Melita FC,Sirens FC,2,0,1.950,3.700,3.100
+69086294,2026-02-28 13:00,Pieta Hotspurs FC,Balzan FC,1,3,5.000,3.600,1.550
+69086296,2026-02-28 13:00,Birzebbuga St. Peters FC,Melita FC,2,1,2.250,3.600,2.550
+69086344,2026-02-28 15:30,Vittoriosa Stars,Zurrieq,2,1,2.625,4.000,2.100
+69086346,2026-02-28 15:30,Marsa FC,Mgarr United FC,1,2,3.000,3.700,1.950
+69086348,2026-02-28 18:00,Santa Lucia FC,Gudja United,2,1,2.550,3.700,2.250
+69086298,2026-03-01 13:00,Fgura United FC,St Andrews FC,2,0,2.050,3.700,2.875
+69086300,2026-03-01 13:00,Swieqi United FC,Sirens FC,2,0,1.800,3.800,3.500
+69086350,2026-03-01 15:30,Zebbug Rangers FC,Mtarfa FC,6,0,,,
+69086302,2026-03-07 13:00,St Andrews FC,Sirens FC,0,3,,,
+69086352,2026-03-07 15:30,Mtarfa FC,Zurrieq,0,2,,,
+69086354,2026-03-08 13:00,Marsa FC,Gudja United,3,3,,,
+69086306,2026-03-08 14:30,Pieta Hotspurs FC,Melita FC,1,0,,,
+69086356,2026-03-08 15:30,Vittoriosa Stars,Santa Lucia FC,1,1,,,
+69086308,2026-03-08 17:00,Swieqi United FC,Birzebbuga St. Peters FC,2,2,2.500,3.500,2.350
+69086358,2026-03-08 19:30,Zebbug Rangers FC,Mgarr United FC,0,2,,,
+69683238,2026-03-10 19:30,Fgura United FC,Balzan FC,1,2,5.500,4.000,1.450
+69086312,2026-03-14 15:30,Balzan FC,Swieqi United FC,1,2,1.800,3.750,3.500
+69086362,2026-03-14 15:30,Santa Lucia FC,Marsa FC,0,1,,,
+69086310,2026-03-14 18:00,Birzebbuga St. Peters FC,Pieta Hotspurs FC,2,2,,,
+69086316,2026-03-14 18:00,Melita FC,St Andrews FC,3,0,,,
+69086314,2026-03-15 10:30,Sirens FC,Fgura United FC,3,2,2.400,3.800,2.250
+69086364,2026-03-15 13:00,Zurrieq,Zebbug Rangers FC,3,3,1.800,4.200,3.300
+69086366,2026-03-15 13:00,Mgarr United FC,Vittoriosa Stars,1,1,,,
+69086360,2026-03-15 15:30,Gudja United,Mtarfa FC,3,0,,,
+69086368,2026-04-01 16:15,Mtarfa FC,Vittoriosa Stars,0,1,,,
+69086370,2026-04-01 18:45,Zurrieq,Marsa FC,2,1,,,
+69086318,2026-04-04 12:00,St Andrews FC,Birzebbuga St. Peters FC,1,3,,,
+69086320,2026-04-04 12:00,Swieqi United FC,Melita FC,5,0,2.200,3.600,2.625
+69086322,2026-04-04 14:30,Fgura United FC,Pieta Hotspurs FC,0,4,,,
+69086372,2026-04-04 14:30,Gudja United,Zebbug Rangers FC,1,2,,,
+69086324,2026-04-06 16:15,Sirens FC,Balzan FC,0,1,5.000,4.100,1.500
+69086374,2026-04-06 18:45,Mgarr United FC,Santa Lucia FC,1,1,,,
+69086376,2026-04-11 12:00,Marsa FC,Mtarfa FC,5,0,,,
+69086378,2026-04-11 14:30,Vittoriosa Stars,Zebbug Rangers FC,0,1,,,
+69086326,2026-04-11 16:00,Melita FC,Fgura United FC,0,1,,,
+69086328,2026-04-11 17:00,St Andrews FC,Swieqi United FC,0,1,,,
+69086330,2026-04-12 12:00,Sirens FC,Pieta Hotspurs FC,3,4,,,
+69086380,2026-04-12 14:30,Santa Lucia FC,Zurrieq,3,0,,,
+69086332,2026-04-12 15:30,Balzan FC,Birzebbuga St. Peters FC,3,3,2.100,3.400,2.875
+69086382,2026-04-12 18:00,Mgarr United FC,Gudja United,0,2,,,
+70711764,2026-04-18 11:30,Vittoriosa Stars,Gudja United,2,3,,,
+70711766,2026-04-18 14:30,Zebbug Rangers FC,Marsa FC,1,1,3.250,3.800,1.850
+70711768,2026-04-18 17:15,Zurrieq,Mgarr United FC,4,2,,,
+70711770,2026-04-19 12:45,Balzan FC,Melita FC,2,0,,,
+70711774,2026-04-19 12:45,Birzebbuga St. Peters FC,Sirens FC,3,2,,,
+70711778,2026-04-19 12:45,Swieqi United FC,Fgura United FC,1,1,,,
+70711758,2026-04-19 15:45,Mtarfa FC,Santa Lucia FC,1,5,,,
+70711776,2026-04-19 15:45,Pieta Hotspurs FC,St Andrews FC,2,2,,,
+70986864,2026-04-23 17:00,Swieqi United FC,Birzebbuga St. Peters FC,1,1,3.250,3.600,1.900
+73180374,2026-09-12 16:00,Pieta Hotspurs FC,Naxxar Lions FC,3,2,3.100,3.800,1.850
+73180380,2026-09-12 16:00,Santa Lucia FC,Vittoriosa Stars,0,0,1.420,4.333,5.750
+73180370,2026-09-12 18:30,Attard FC,Swieqi United FC,3,3,4.333,4.200,1.533
+73180382,2026-09-12 18:30,Sirens FC,Zurrieq,1,0,1.909,3.900,3.000
+73180376,2026-09-13 16:00,Gudja United,Melita FC,0,3,3.600,3.600,1.800
+73180384,2026-09-13 16:00,Victoria Hotspurs FC,St Andrews FC,3,0,1.900,3.600,3.400
+73180372,2026-09-13 18:30,Mgarr United FC,Tarxien Rainbows FC,1,3,2.700,3.500,2.200
+73180378,2026-09-13 18:30,Zebbug Rangers FC,Fgura United FC,0,4,5.250,4.333,1.450
+74079686,2026-09-18 16:15,St Andrews FC,Santa Lucia FC,1,1,4.200,3.750,1.615
+74079688,2026-09-18 18:45,Swieqi United FC,Pieta Hotspurs FC,3,2,1.800,3.600,3.500
+74079690,2026-09-19 16:00,Zurrieq,Victoria Hotspurs FC,1,2,7.500,4.750,1.285
+74079692,2026-09-19 16:00,Melita FC,Mgarr United FC,1,2,1.900,3.600,3.300
+74079694,2026-09-19 18:30,Fgura United FC,Sirens FC,1,1,1.900,3.700,3.200
+74079696,2026-09-19 18:30,Vittoriosa Stars,Gudja United,2,0,2.400,3.500,2.450
+74079698,2026-09-20 16:00,Naxxar Lions FC,Zebbug Rangers FC,3,1,1.250,6.000,7.500
+74079700,2026-09-20 18:30,Tarxien Rainbows FC,Attard FC,3,1,1.850,3.500,3.400
+74079702,2026-10-10 12:00,Zebbug Rangers FC,Swieqi United FC,1,0,12.000,6.500,1.166
+74079704,2026-10-10 13:00,Victoria Hotspurs FC,Fgura United FC,0,3,1.950,3.600,3.100
+74079706,2026-10-10 14:30,Mgarr United FC,Vittoriosa Stars,2,0,1.727,3.700,3.750
+74079708,2026-10-10 15:30,Sirens FC,Naxxar Lions FC,2,3,3.900,3.750,1.700
+74079710,2026-10-11 12:00,Pieta Hotspurs FC,Tarxien Rainbows FC,1,3,2.750,3.500,2.150
+74079712,2026-10-11 13:00,Attard FC,Melita FC,0,0,4.500,3.800,1.550
+74079714,2026-10-11 14:30,Gudja United,St Andrews FC,0,1,2.800,3.400,2.150
+74079716,2026-10-11 15:30,Santa Lucia FC,Zurrieq,1,1,1.700,3.750,3.700
+74079718,2026-10-17 12:00,St Andrews FC,Mgarr United FC,0,2,3.200,3.500,1.950
+74079720,2026-10-17 14:30,Melita FC,Pieta Hotspurs FC,0,2,2.000,3.500,3.000
+74079722,2026-10-17 15:00,Zurrieq,Gudja United,1,0,2.050,3.400,3.000
+74079724,2026-10-17 17:30,Fgura United FC,Santa Lucia FC,0,0,2.150,3.400,2.700
+74079726,2026-10-18 12:00,Naxxar Lions FC,Victoria Hotspurs FC,1,0,2.200,3.600,2.750
+74079728,2026-10-18 14:30,Vittoriosa Stars,Attard FC,2,2,2.400,3.500,2.400
+74079730,2026-10-18 15:00,Tarxien Rainbows FC,Zebbug Rangers FC,2,1,1.285,5.000,7.000
+74079732,2026-10-18 17:30,Swieqi United FC,Sirens FC,3,2,1.650,3.900,4.000
+74079738,2026-10-23 16:15,Zebbug Rangers FC,Melita FC,1,2,5.750,4.750,1.380
+74079740,2026-10-23 18:45,Attard FC,St Andrews FC,0,1,2.550,3.400,2.350
+74079734,2026-10-24 12:00,Gudja United,Fgura United FC,1,2,5.000,4.200,1.480
+74079736,2026-10-24 14:30,Sirens FC,Tarxien Rainbows FC,1,2,3.400,3.700,1.800
+74079744,2026-10-24 17:00,Santa Lucia FC,Naxxar Lions FC,1,1,3.400,3.600,1.850
+74079742,2026-10-25 13:00,Victoria Hotspurs FC,Swieqi United FC,1,2,3.250,3.750,1.833
+74079746,2026-10-25 16:00,Pieta Hotspurs FC,Vittoriosa Stars,2,0,1.650,3.600,4.333
+74079748,2026-10-25 18:30,Mgarr United FC,Zurrieq,0,1,2.000,3.500,3.200
+74079750,2026-10-30 17:00,Tarxien Rainbows FC,Victoria Hotspurs FC,2,1,2.150,3.600,2.600
+74079752,2026-10-30 19:30,Vittoriosa Stars,Zebbug Rangers FC,1,1,1.833,3.400,3.600
+74079754,2026-10-31 13:00,St Andrews FC,Pieta Hotspurs FC,0,3,4.333,3.700,1.615
+74079756,2026-10-31 15:30,Zurrieq,Attard FC,0,3,2.100,3.400,2.900
+74079758,2026-11-01 13:00,Swieqi United FC,Santa Lucia FC,2,0,1.666,3.800,4.000
+74079760,2026-11-01 15:30,Fgura United FC,Mgarr United FC,2,2,1.950,3.500,3.100
+74079762,2026-11-01 16:30,Naxxar Lions FC,Gudja United,2,1,1.363,4.500,6.000
+74079764,2026-11-01 19:00,Melita FC,Sirens FC,3,0,2.000,3.500,3.000
+74079766,2026-11-06 17:15,Zebbug Rangers FC,St Andrews FC,1,0,3.500,3.600,1.800
+74079768,2026-11-06 19:45,Pieta Hotspurs FC,Zurrieq,0,3,1.550,4.000,4.500
+74079770,2026-11-07 13:00,Victoria Hotspurs FC,Melita FC,0,1,2.350,3.700,2.400
+74079772,2026-11-07 15:30,Gudja United,Swieqi United FC,1,2,6.000,4.750,1.363
+74079780,2026-11-08 11:00,Attard FC,Fgura United FC,0,1,4.500,3.750,1.600
+74079774,2026-11-08 13:00,Sirens FC,Vittoriosa Stars,3,2,1.750,3.700,3.600
+74079776,2026-11-08 13:30,Mgarr United FC,Naxxar Lions FC,0,1,3.500,3.700,1.800
+74079778,2026-11-08 15:30,Santa Lucia FC,Tarxien Rainbows FC,3,3,3.600,3.600,1.800

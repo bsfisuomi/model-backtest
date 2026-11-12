@@ -1,0 +1,328 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+51356309,2025-05-25 15:00,Budafoki Mte,Szeged-Csanad Grosics Akademia,2,3,,,
+51356311,2025-05-25 15:00,FC Tatabanya,Bekescsaba 1912 Elore,1,1,,,
+51356313,2025-05-25 15:00,Kozarmisleny SE,Szentlorinc SE,1,1,,,
+51356317,2025-05-25 15:00,Soroksar SC,Bvsc-Zuglo,3,3,,,
+55266587,2025-05-25 15:00,Gyirmot FC Gyor,FC Ajka,0,1,,,
+51356307,2025-05-25 15:45,Vasas FC,Budapest Honved FC,2,2,,,
+51356319,2025-05-25 15:45,Kisvarda FC,Kazincbarcikai SC,1,1,,,
+61690090,2025-08-10 15:30,Fehervar FC Szekesfehervar,Aqvital FC Csakvar,0,0,,,
+61690100,2025-08-10 15:30,Mezokovesd Zsory SE,Kozarmisleny SE,2,0,,,
+61690102,2025-08-10 15:30,Szentlorinc SE,Budapest Honved FC,1,2,,,
+61690088,2025-08-10 17:00,Budafoki Mte,FC Ajka,0,1,,,
+61690092,2025-08-10 17:00,Bvsc-Zuglo,Kecskemeti TE,0,1,,,
+61690096,2025-08-10 17:00,Szeged-Csanad Grosics Akademia,Karcag SE,2,2,,,
+61690098,2025-08-10 17:00,Soroksar SC,Tiszakecskei LC,2,2,,,
+61690094,2025-08-11 18:00,Vasas FC,Bekescsaba 1912 Elore,4,3,,,
+61690104,2025-08-17 15:30,Mezokovesd Zsory SE,Szentlorinc SE,0,3,,,
+61690110,2025-08-17 15:30,Karcag SE,Vasas FC,1,0,,,
+61690106,2025-08-17 17:00,Kozarmisleny SE,Soroksar SC,1,1,,,
+61690112,2025-08-17 17:00,Bekescsaba 1912 Elore,Bvsc-Zuglo,2,1,,,
+61690116,2025-08-17 17:00,Aqvital FC Csakvar,Budafoki Mte,2,0,,,
+61690118,2025-08-17 17:00,FC Ajka,Budapest Honved FC,1,0,,,
+61690114,2025-08-18 18:00,Kecskemeti TE,Fehervar FC Szekesfehervar,3,1,,,
+61690120,2025-08-24 15:30,Budafoki Mte,Kecskemeti TE,2,0,,,
+61690134,2025-08-24 15:30,Szentlorinc SE,FC Ajka,1,0,,,
+61690132,2025-08-24 15:45,Budapest Honved FC,Aqvital FC Csakvar,3,1,,,
+61690122,2025-08-24 17:00,Fehervar FC Szekesfehervar,Bekescsaba 1912 Elore,2,0,,,
+61690124,2025-08-24 17:00,Bvsc-Zuglo,Karcag SE,1,1,,,
+61690128,2025-08-24 17:00,Szeged-Csanad Grosics Akademia,Kozarmisleny SE,1,0,,,
+61690130,2025-08-24 17:00,Soroksar SC,Mezokovesd Zsory SE,1,5,,,
+61690126,2025-08-25 18:00,Vasas FC,Tiszakecskei LC,1,0,,,
+61690144,2025-08-31 14:30,Karcag SE,Fehervar FC Szekesfehervar,1,0,,,
+61690138,2025-08-31 15:30,Mezokovesd Zsory SE,Szeged-Csanad Grosics Akademia,1,0,,,
+61690136,2025-08-31 17:00,Soroksar SC,Szentlorinc SE,2,1,,,
+61690140,2025-08-31 17:00,Kozarmisleny SE,Vasas FC,0,4,,,
+61690146,2025-08-31 17:00,Bekescsaba 1912 Elore,Budafoki Mte,2,0,,,
+61690148,2025-08-31 17:00,Kecskemeti TE,Budapest Honved FC,1,0,,,
+61690150,2025-08-31 17:00,Aqvital FC Csakvar,FC Ajka,1,0,,,
+61690156,2025-09-20 17:00,Bvsc-Zuglo,Kozarmisleny SE,0,1,,,
+61690152,2025-09-21 14:00,Budafoki Mte,Karcag SE,0,0,,,
+61690166,2025-09-21 14:00,Szentlorinc SE,Aqvital FC Csakvar,0,0,,,
+61690160,2025-09-21 15:00,Szeged-Csanad Grosics Akademia,Soroksar SC,0,3,,,
+61690162,2025-09-21 15:00,FC Ajka,Kecskemeti TE,1,3,,,
+61690164,2025-09-21 17:00,Budapest Honved FC,Bekescsaba 1912 Elore,2,1,,,
+61690158,2025-09-22 18:00,Vasas FC,Mezokovesd Zsory SE,4,3,,,
+61690172,2025-09-28 14:00,Mezokovesd Zsory SE,Bvsc-Zuglo,1,0,,,
+61690168,2025-09-28 15:00,Szeged-Csanad Grosics Akademia,Szentlorinc SE,2,0,,,
+61690174,2025-09-28 15:00,Kozarmisleny SE,Fehervar FC Szekesfehervar,1,1,,,
+61690170,2025-09-28 17:00,Soroksar SC,Vasas FC,0,2,,,
+61690180,2025-09-28 17:00,Bekescsaba 1912 Elore,FC Ajka,0,2,,,
+61690418,2025-09-29 18:00,Budapest Honved FC,Karcag SE,5,2,,,
+61690184,2025-10-05 11:00,Budafoki Mte,Kozarmisleny SE,2,2,,,
+61690188,2025-10-05 11:00,Bvsc-Zuglo,Soroksar SC,2,1,,,
+61690198,2025-10-05 11:00,Szentlorinc SE,Kecskemeti TE,3,4,,,
+61690186,2025-10-05 13:00,Fehervar FC Szekesfehervar,Mezokovesd Zsory SE,1,1,,,
+61690190,2025-10-05 15:00,Vasas FC,Szeged-Csanad Grosics Akademia,0,0,,,
+61690192,2025-10-05 15:00,Aqvital FC Csakvar,Bekescsaba 1912 Elore,1,1,,,
+61690194,2025-10-05 15:00,FC Ajka,Karcag SE,0,1,,,
+61690196,2025-10-05 15:00,Budapest Honved FC,Tiszakecskei LC,1,1,,,
+61690206,2025-10-17 16:00,Mezokovesd Zsory SE,Budafoki Mte,1,0,,,
+61690212,2025-10-19 11:00,Karcag SE,Aqvital FC Csakvar,1,0,,,
+61690200,2025-10-19 15:00,Vasas FC,Szentlorinc SE,1,0,,,
+61690202,2025-10-19 15:00,Szeged-Csanad Grosics Akademia,Bvsc-Zuglo,2,1,,,
+61690204,2025-10-19 15:00,Soroksar SC,Fehervar FC Szekesfehervar,3,1,,,
+61690208,2025-10-19 15:00,Kozarmisleny SE,Budapest Honved FC,2,1,,,
+61690214,2025-10-20 18:00,Bekescsaba 1912 Elore,Kecskemeti TE,1,1,,,
+61690218,2025-10-25 15:00,Fehervar FC Szekesfehervar,Szeged-Csanad Grosics Akademia,1,0,,,
+61690220,2025-10-26 12:00,Bvsc-Zuglo,Vasas FC,0,0,,,
+61690230,2025-10-26 12:00,Szentlorinc SE,Bekescsaba 1912 Elore,2,2,,,
+61690222,2025-10-26 16:00,Kecskemeti TE,Karcag SE,2,0,,,
+61690224,2025-10-26 16:00,Aqvital FC Csakvar,Tiszakecskei LC,3,1,,,
+61690226,2025-10-26 16:00,FC Ajka,Kozarmisleny SE,0,2,,,
+61690228,2025-10-26 16:00,Budapest Honved FC,Mezokovesd Zsory SE,5,2,,,
+61690232,2025-11-02 12:00,Bvsc-Zuglo,Szentlorinc SE,2,1,,,
+61690246,2025-11-02 12:00,Karcag SE,Bekescsaba 1912 Elore,4,2,,,
+61690236,2025-11-02 14:00,Szeged-Csanad Grosics Akademia,Budafoki Mte,4,0,,,
+61690242,2025-11-02 14:00,Kozarmisleny SE,Aqvital FC Csakvar,2,2,,,
+61690238,2025-11-02 16:00,Soroksar SC,Budapest Honved FC,0,1,,,
+61690234,2025-11-03 19:00,Vasas FC,Fehervar FC Szekesfehervar,2,0,,,
+61690248,2025-11-09 12:00,Budafoki Mte,Vasas FC,0,3,,,
+61690262,2025-11-09 12:00,Szentlorinc SE,Karcag SE,1,1,,,
+61690250,2025-11-09 14:00,Fehervar FC Szekesfehervar,Bvsc-Zuglo,0,1,,,
+61690252,2025-11-09 16:00,Bekescsaba 1912 Elore,Tiszakecskei LC,0,3,,,
+61690254,2025-11-09 16:00,Kecskemeti TE,Kozarmisleny SE,3,0,,,
+61690256,2025-11-09 16:00,Aqvital FC Csakvar,Mezokovesd Zsory SE,2,1,,,
+61690258,2025-11-09 16:00,FC Ajka,Soroksar SC,2,1,,,
+61690260,2025-11-09 16:00,Budapest Honved FC,Szeged-Csanad Grosics Akademia,0,0,,,
+65263190,2025-11-15 12:00,Budafoki Mte,Soroksar SC,2,2,,,
+61690266,2025-11-23 12:00,Bvsc-Zuglo,Budafoki Mte,0,2,,,
+61690274,2025-11-23 12:00,Mezokovesd Zsory SE,Kecskemeti TE,1,1,,,
+61690276,2025-11-23 12:00,Kozarmisleny SE,Bekescsaba 1912 Elore,3,0,,,
+61690264,2025-11-23 13:00,Fehervar FC Szekesfehervar,Szentlorinc SE,0,0,,,
+61690270,2025-11-23 14:00,Szeged-Csanad Grosics Akademia,FC Ajka,0,1,,,
+61690272,2025-11-23 16:00,Soroksar SC,Aqvital FC Csakvar,0,1,,,
+61690278,2025-11-23 16:00,Tiszakecskei LC,Karcag SE,1,1,,,
+61690268,2025-11-24 19:00,Vasas FC,Budapest Honved FC,1,2,,,
+61690280,2025-11-30 12:00,Budafoki Mte,Fehervar FC Szekesfehervar,2,2,,,
+61690282,2025-11-30 12:00,Karcag SE,Kozarmisleny SE,1,1,,,
+61690294,2025-11-30 12:00,Szentlorinc SE,Tiszakecskei LC,1,1,,,
+61690290,2025-11-30 14:00,FC Ajka,Vasas FC,1,0,,,
+61690284,2025-11-30 16:00,Bekescsaba 1912 Elore,Mezokovesd Zsory SE,0,0,,,
+61690286,2025-11-30 16:00,Kecskemeti TE,Soroksar SC,2,1,,,
+61690288,2025-11-30 16:00,Aqvital FC Csakvar,Szeged-Csanad Grosics Akademia,1,1,,,
+61690292,2025-11-30 16:00,Budapest Honved FC,Bvsc-Zuglo,3,0,,,
+61690296,2026-02-01 13:00,Szentlorinc SE,Budafoki Mte,5,3,2.250,3.200,2.800
+61690306,2026-02-01 13:00,Bekescsaba 1912 Elore,Soroksar SC,2,1,2.050,3.100,3.250
+61690308,2026-02-01 13:00,Karcag SE,Mezokovesd Zsory SE,0,3,2.600,3.200,2.400
+61690310,2026-02-01 13:00,Tiszakecskei LC,Kozarmisleny SE,0,2,1.833,3.400,3.600
+61690300,2026-02-01 14:00,FC Ajka,Bvsc-Zuglo,0,2,2.450,2.900,2.700
+61690302,2026-02-01 14:00,Aqvital FC Csakvar,Vasas FC,2,2,3.750,3.700,1.750
+61690304,2026-02-01 14:00,Kecskemeti TE,Szeged-Csanad Grosics Akademia,4,0,1.950,3.250,3.400
+61690298,2026-02-02 19:00,Budapest Honved FC,Fehervar FC Szekesfehervar,2,1,1.571,3.400,5.250
+61690320,2026-02-07 13:00,Bvsc-Zuglo,Aqvital FC Csakvar,1,1,2.550,3.200,2.450
+61690322,2026-02-07 14:00,Fehervar FC Szekesfehervar,FC Ajka,1,0,1.800,3.400,3.700
+61690312,2026-02-08 13:00,Mezokovesd Zsory SE,Tiszakecskei LC,1,0,2.000,3.400,3.200
+61690324,2026-02-08 13:00,Budafoki Mte,Budapest Honved FC,1,1,4.333,3.750,1.615
+61690326,2026-02-08 13:00,Kozarmisleny SE,Szentlorinc SE,0,0,2.050,3.400,2.875
+61690316,2026-02-08 14:00,Szeged-Csanad Grosics Akademia,Bekescsaba 1912 Elore,1,1,1.833,3.400,3.600
+61690318,2026-02-08 14:00,Vasas FC,Kecskemeti TE,2,0,2.050,3.500,2.900
+61690314,2026-02-08 16:00,Soroksar SC,Karcag SE,1,1,2.150,3.500,2.700
+61690334,2026-02-15 13:00,Bekescsaba 1912 Elore,Vasas FC,0,1,4.333,3.400,1.700
+61690336,2026-02-15 13:00,Karcag SE,Szeged-Csanad Grosics Akademia,1,0,2.250,3.200,2.800
+61690338,2026-02-15 13:00,Tiszakecskei LC,Soroksar SC,3,2,1.950,3.500,3.000
+61690340,2026-02-15 13:00,Kozarmisleny SE,Mezokovesd Zsory SE,3,0,2.550,3.250,2.400
+61690328,2026-02-15 14:00,FC Ajka,Budafoki Mte,0,1,2.150,3.200,3.000
+61690330,2026-02-15 14:00,Aqvital FC Csakvar,Fehervar FC Szekesfehervar,1,5,2.800,3.300,2.200
+61690332,2026-02-15 14:00,Kecskemeti TE,Bvsc-Zuglo,0,2,1.420,3.800,7.000
+61690342,2026-02-15 16:00,Budapest Honved FC,Szentlorinc SE,2,1,1.333,4.333,7.000
+61690344,2026-02-22 13:00,Szentlorinc SE,Mezokovesd Zsory SE,1,1,2.625,3.300,2.300
+61690352,2026-02-22 13:00,Bvsc-Zuglo,Bekescsaba 1912 Elore,0,1,2.200,2.900,3.250
+61690356,2026-02-22 13:00,Budafoki Mte,Aqvital FC Csakvar,2,0,2.300,3.200,2.750
+61690348,2026-02-22 14:00,Szeged-Csanad Grosics Akademia,Tiszakecskei LC,1,1,2.150,3.200,3.000
+61690350,2026-02-22 14:00,Vasas FC,Karcag SE,2,0,1.333,4.333,7.000
+61690346,2026-02-22 16:00,Soroksar SC,Kozarmisleny SE,3,2,2.350,3.500,2.500
+61690358,2026-02-22 16:00,Budapest Honved FC,FC Ajka,1,0,1.420,4.100,6.250
+61690354,2026-02-23 16:45,Fehervar FC Szekesfehervar,Kecskemeti TE,2,1,2.500,3.250,2.500
+61690370,2026-02-28 13:00,Mezokovesd Zsory SE,Soroksar SC,0,0,1.750,3.600,3.700
+61690360,2026-02-28 14:00,Kecskemeti TE,Budafoki Mte,2,1,1.480,4.000,5.500
+61690372,2026-02-28 14:00,Aqvital FC Csakvar,Budapest Honved FC,0,2,5.500,3.900,1.480
+61690364,2026-03-01 13:00,Karcag SE,Bvsc-Zuglo,1,3,2.300,3.000,2.900
+61690368,2026-03-01 13:00,Kozarmisleny SE,Szeged-Csanad Grosics Akademia,2,1,2.250,3.300,2.625
+61690366,2026-03-01 14:00,Tiszakecskei LC,Vasas FC,0,0,4.333,3.900,1.600
+61690374,2026-03-01 14:00,FC Ajka,Szentlorinc SE,2,1,2.250,3.200,2.800
+61690362,2026-03-02 19:00,Bekescsaba 1912 Elore,Fehervar FC Szekesfehervar,0,1,2.750,3.200,2.250
+61690376,2026-03-08 13:00,Szentlorinc SE,Soroksar SC,2,2,2.000,3.600,2.900
+61690382,2026-03-08 13:00,Bvsc-Zuglo,Tiszakecskei LC,3,1,2.250,3.000,2.900
+61690386,2026-03-08 13:00,Budafoki Mte,Bekescsaba 1912 Elore,0,3,2.200,3.100,2.875
+61690378,2026-03-08 14:00,Szeged-Csanad Grosics Akademia,Mezokovesd Zsory SE,1,2,2.350,3.200,2.700
+61690380,2026-03-08 14:00,Vasas FC,Kozarmisleny SE,6,0,1.333,4.500,7.000
+61690384,2026-03-08 14:00,Fehervar FC Szekesfehervar,Karcag SE,2,0,1.500,3.800,5.250
+61690390,2026-03-08 14:00,FC Ajka,Aqvital FC Csakvar,1,2,2.050,3.300,3.200
+61690388,2026-03-09 19:00,Budapest Honved FC,Kecskemeti TE,0,1,1.700,3.600,4.000
+61690392,2026-03-14 13:00,Karcag SE,Budafoki Mte,3,2,2.250,3.300,2.750
+61690404,2026-03-14 13:00,Bekescsaba 1912 Elore,Budapest Honved FC,0,2,3.800,3.400,1.800
+61690394,2026-03-14 14:00,Tiszakecskei LC,Fehervar FC Szekesfehervar,1,1,,,
+61690396,2026-03-14 14:00,Kozarmisleny SE,Bvsc-Zuglo,0,3,2.450,3.200,2.550
+61690402,2026-03-14 14:00,Kecskemeti TE,FC Ajka,0,1,1.571,3.500,5.250
+61690406,2026-03-14 14:00,Aqvital FC Csakvar,Szentlorinc SE,2,2,2.250,3.400,2.700
+61690400,2026-03-14 16:00,Soroksar SC,Szeged-Csanad Grosics Akademia,0,1,2.550,3.300,2.350
+69144670,2026-03-16 19:00,Mezokovesd Zsory SE,Vasas FC,0,2,5.000,3.750,1.550
+61690408,2026-03-22 13:00,Szentlorinc SE,Szeged-Csanad Grosics Akademia,0,2,2.500,3.200,2.500
+61690412,2026-03-22 13:00,Bvsc-Zuglo,Mezokovesd Zsory SE,0,1,2.150,3.100,3.000
+61690416,2026-03-22 13:00,Budafoki Mte,Tiszakecskei LC,1,1,2.500,3.200,2.500
+63866717,2026-03-22 13:00,Karcag SE,Budapest Honved FC,0,1,5.000,3.700,1.550
+61690414,2026-03-22 14:00,Fehervar FC Szekesfehervar,Kozarmisleny SE,1,1,1.533,3.800,5.250
+61690420,2026-03-22 14:00,FC Ajka,Bekescsaba 1912 Elore,1,0,2.400,3.200,2.625
+61690422,2026-03-22 14:00,Aqvital FC Csakvar,Kecskemeti TE,6,1,3.800,3.400,1.800
+61690410,2026-03-22 16:00,Vasas FC,Soroksar SC,3,1,1.222,5.250,9.000
+61690426,2026-04-05 14:00,Mezokovesd Zsory SE,Fehervar FC Szekesfehervar,0,2,,,
+61690434,2026-04-05 14:00,Karcag SE,FC Ajka,0,1,2.450,3.200,2.600
+61690424,2026-04-05 15:00,Kozarmisleny SE,Budafoki Mte,1,0,2.100,3.400,2.875
+61690430,2026-04-05 15:00,Szeged-Csanad Grosics Akademia,Vasas FC,0,4,5.000,3.400,1.615
+61690436,2026-04-05 15:00,Tiszakecskei LC,Budapest Honved FC,1,0,,,
+61690438,2026-04-05 15:00,Kecskemeti TE,Szentlorinc SE,3,0,1.615,3.750,4.333
+61690428,2026-04-05 17:00,Soroksar SC,Bvsc-Zuglo,2,1,3.200,3.500,1.950
+61690432,2026-04-05 17:00,Bekescsaba 1912 Elore,Aqvital FC Csakvar,2,2,1.950,3.400,3.200
+61690440,2026-04-11 14:00,Szentlorinc SE,Vasas FC,0,4,6.000,3.900,1.444
+61690442,2026-04-11 14:00,Bvsc-Zuglo,Szeged-Csanad Grosics Akademia,1,1,2.350,3.200,2.700
+61690446,2026-04-11 14:00,Budafoki Mte,Mezokovesd Zsory SE,0,2,2.600,3.250,2.300
+61690444,2026-04-11 15:00,Fehervar FC Szekesfehervar,Soroksar SC,1,1,1.550,3.900,4.750
+61690450,2026-04-11 15:00,FC Ajka,Tiszakecskei LC,1,4,2.375,3.200,2.700
+61690452,2026-04-11 15:00,Aqvital FC Csakvar,Karcag SE,1,2,,,
+61690454,2026-04-11 15:00,Kecskemeti TE,Bekescsaba 1912 Elore,2,0,1.550,3.750,4.750
+61690448,2026-04-11 17:00,Budapest Honved FC,Kozarmisleny SE,1,2,1.333,4.500,7.000
+61690468,2026-04-18 12:00,Mezokovesd Zsory SE,Budapest Honved FC,1,2,3.800,3.400,1.800
+61690458,2026-04-19 15:00,Szeged-Csanad Grosics Akademia,Fehervar FC Szekesfehervar,0,3,2.350,3.200,2.700
+61690462,2026-04-19 15:00,Karcag SE,Kecskemeti TE,1,2,4.100,3.600,1.666
+61690464,2026-04-19 15:00,Tiszakecskei LC,Aqvital FC Csakvar,1,2,2.050,3.500,2.875
+61690466,2026-04-19 15:00,Kozarmisleny SE,FC Ajka,1,1,2.150,3.300,2.900
+61690456,2026-04-19 17:00,Soroksar SC,Budafoki Mte,2,1,2.000,3.400,3.000
+61690470,2026-04-19 17:00,Bekescsaba 1912 Elore,Szentlorinc SE,0,0,1.909,3.500,3.250
+61690460,2026-04-20 18:00,Vasas FC,Bvsc-Zuglo,0,2,1.250,4.500,10.000
+61690472,2026-04-26 15:00,Szentlorinc SE,Bvsc-Zuglo,2,0,2.900,3.250,2.150
+61690474,2026-04-26 15:00,Fehervar FC Szekesfehervar,Vasas FC,0,2,4.500,3.500,1.650
+61690476,2026-04-26 15:00,Budafoki Mte,Szeged-Csanad Grosics Akademia,2,0,2.300,3.250,2.700
+61690482,2026-04-26 15:00,Aqvital FC Csakvar,Kozarmisleny SE,0,2,1.850,3.600,3.200
+61690484,2026-04-26 15:00,Kecskemeti TE,Tiszakecskei LC,5,1,1.615,3.750,4.500
+64102249,2026-04-26 15:00,Mezokovesd Zsory SE,FC Ajka,1,1,1.850,3.300,3.500
+61690486,2026-04-26 17:00,Bekescsaba 1912 Elore,Karcag SE,0,0,1.900,3.400,3.400
+61690478,2026-04-27 18:00,Budapest Honved FC,Soroksar SC,0,0,1.400,4.333,6.250
+61690490,2026-05-03 15:00,Bvsc-Zuglo,Fehervar FC Szekesfehervar,1,0,2.700,3.700,2.100
+61690492,2026-05-03 15:00,Tiszakecskei LC,Bekescsaba 1912 Elore,2,0,2.100,3.400,2.875
+61690494,2026-05-03 15:00,Kozarmisleny SE,Kecskemeti TE,2,1,4.200,3.700,1.666
+61690496,2026-05-03 15:00,Mezokovesd Zsory SE,Aqvital FC Csakvar,1,0,2.050,3.400,3.000
+61690500,2026-05-03 15:00,Szeged-Csanad Grosics Akademia,Budapest Honved FC,0,0,4.333,3.500,1.700
+61690502,2026-05-03 15:00,Karcag SE,Szentlorinc SE,0,1,2.350,3.300,2.625
+61690498,2026-05-03 17:00,Soroksar SC,FC Ajka,3,1,2.000,3.200,3.400
+61690488,2026-05-04 18:00,Vasas FC,Budafoki Mte,3,2,1.250,5.250,9.000
+61690508,2026-05-10 14:00,Budapest Honved FC,Vasas FC,3,1,2.400,3.200,2.625
+61690504,2026-05-10 15:00,Szentlorinc SE,Fehervar FC Szekesfehervar,2,1,1.950,3.300,3.400
+61690506,2026-05-10 15:00,Budafoki Mte,Bvsc-Zuglo,1,1,2.200,3.200,2.900
+61690510,2026-05-10 15:00,FC Ajka,Szeged-Csanad Grosics Akademia,0,3,3.000,2.800,2.250
+61690514,2026-05-10 15:00,Kecskemeti TE,Mezokovesd Zsory SE,2,1,1.666,3.500,4.333
+61690518,2026-05-10 15:00,Karcag SE,Tiszakecskei LC,0,1,2.550,3.500,2.300
+61690512,2026-05-10 17:00,Aqvital FC Csakvar,Soroksar SC,1,0,2.450,3.100,2.600
+61690516,2026-05-10 17:00,Bekescsaba 1912 Elore,Kozarmisleny SE,1,2,1.950,3.200,3.500
+61690532,2026-05-17 14:30,Vasas FC,FC Ajka,2,1,,,
+61690534,2026-05-17 14:30,Bvsc-Zuglo,Budapest Honved FC,4,1,,,
+61690520,2026-05-17 15:00,Fehervar FC Szekesfehervar,Budafoki Mte,1,3,,,
+61690524,2026-05-17 15:00,Kozarmisleny SE,Karcag SE,2,1,,,
+61690526,2026-05-17 15:00,Mezokovesd Zsory SE,Bekescsaba 1912 Elore,0,1,,,
+61690528,2026-05-17 15:00,Soroksar SC,Kecskemeti TE,3,0,,,
+61690530,2026-05-17 15:00,Szeged-Csanad Grosics Akademia,Aqvital FC Csakvar,0,1,,,
+61690536,2026-05-17 15:00,Tiszakecskei LC,Szentlorinc SE,1,2,,,
+72501038,2026-07-25 15:30,FC Nagykanizsai,Diosgyori VTK,2,3,,,
+72501026,2026-07-25 17:00,Fehervar FC Szekesfehervar,Kozarmisleny SE,4,0,,,
+72501028,2026-07-25 17:00,Bvsc-Zuglo,Kazincbarcikai SC,0,0,,,
+72501030,2026-07-25 17:00,Tiszakecskei LC,Szeged-Csanad Grosics Akademia,1,1,,,
+72501032,2026-07-25 17:00,FC Ajka,Kecskemeti TE,3,1,,,
+72501036,2026-07-26 15:30,Szentlorinc SE,Karcag SE,0,0,,,
+72501024,2026-07-26 17:00,Gyirmot FC Gyor,Aqvital FC Csakvar,3,1,,,
+72501034,2026-07-26 17:00,Soroksar SC,Mezokovesd Zsory SE,1,0,,,
+72501046,2026-08-01 15:30,Kecskemeti TE,Tiszakecskei LC,1,1,,,
+72501050,2026-08-01 15:30,Kazincbarcikai SC,Fehervar FC Szekesfehervar,3,1,,,
+72501292,2026-08-01 15:30,Gyirmot FC Gyor,Kozarmisleny SE,2,1,,,
+72501042,2026-08-02 15:30,Karcag SE,Soroksar SC,2,2,,,
+72501054,2026-08-02 15:30,Aqvital FC Csakvar,FC Nagykanizsai,1,2,,,
+72501056,2026-08-08 15:00,Gyirmot FC Gyor,Kazincbarcikai SC,2,2,,,
+72501058,2026-08-08 15:30,Fehervar FC Szekesfehervar,Szeged-Csanad Grosics Akademia,1,0,1.850,3.200,3.750
+72501060,2026-08-08 15:30,Bvsc-Zuglo,Kecskemeti TE,0,1,,,
+72501062,2026-08-08 15:30,Tiszakecskei LC,Mezokovesd Zsory SE,1,0,,,
+72501064,2026-08-08 15:30,FC Ajka,Karcag SE,1,1,,,
+72501066,2026-08-09 15:30,Soroksar SC,Diosgyori VTK,4,0,,,
+72501068,2026-08-09 15:30,Szentlorinc SE,FC Nagykanizsai,1,0,,,
+72501070,2026-08-09 15:30,Aqvital FC Csakvar,Kozarmisleny SE,2,0,,,
+72501074,2026-08-15 15:30,FC Nagykanizsai,Soroksar SC,0,1,,,
+72501076,2026-08-15 15:30,Diosgyori VTK,FC Ajka,1,1,,,
+72501080,2026-08-15 15:30,Mezokovesd Zsory SE,Bvsc-Zuglo,1,0,,,
+72501082,2026-08-15 15:30,Kecskemeti TE,Fehervar FC Szekesfehervar,2,1,,,
+72501084,2026-08-15 15:30,Szeged-Csanad Grosics Akademia,Gyirmot FC Gyor,0,1,2.550,3.300,2.350
+72501086,2026-08-15 15:30,Kazincbarcikai SC,Kozarmisleny SE,2,1,,,
+72501072,2026-08-16 15:30,Szentlorinc SE,Aqvital FC Csakvar,3,2,,,
+72501078,2026-08-16 15:30,Karcag SE,Tiszakecskei LC,3,3,,,
+72501088,2026-08-22 15:30,Gyirmot FC Gyor,Kecskemeti TE,1,4,2.500,3.400,2.350
+72501090,2026-08-22 15:30,Fehervar FC Szekesfehervar,Mezokovesd Zsory SE,1,2,1.950,3.200,3.400
+72501092,2026-08-22 15:30,Bvsc-Zuglo,Karcag SE,1,4,2.050,3.100,3.250
+72501094,2026-08-22 15:30,Tiszakecskei LC,Diosgyori VTK,4,1,3.000,3.400,2.100
+72501096,2026-08-22 15:30,FC Ajka,FC Nagykanizsai,2,0,1.727,3.300,4.200
+72501100,2026-08-22 15:30,Kozarmisleny SE,Szeged-Csanad Grosics Akademia,1,2,,,
+72501098,2026-08-23 15:30,Soroksar SC,Szentlorinc SE,3,2,1.900,3.250,3.500
+72501102,2026-08-23 15:30,Aqvital FC Csakvar,Kazincbarcikai SC,0,2,2.875,3.600,2.050
+72501108,2026-08-29 15:30,FC Nagykanizsai,Tiszakecskei LC,1,2,3.400,3.400,1.900
+72501110,2026-08-29 15:30,Diosgyori VTK,Bvsc-Zuglo,0,2,1.800,3.400,3.750
+72501114,2026-08-29 15:30,Mezokovesd Zsory SE,Gyirmot FC Gyor,4,2,2.250,3.300,2.700
+72501116,2026-08-29 15:30,Kecskemeti TE,Kozarmisleny SE,3,0,1.363,4.333,6.500
+72501104,2026-08-30 15:30,Soroksar SC,Aqvital FC Csakvar,6,0,1.550,4.000,4.750
+72501106,2026-08-30 15:30,Szentlorinc SE,FC Ajka,0,1,2.300,3.200,2.700
+72501112,2026-08-30 15:30,Karcag SE,Fehervar FC Szekesfehervar,2,1,2.900,3.200,2.150
+73960294,2026-08-31 17:30,Szeged-Csanad Grosics Akademia,Kazincbarcikai SC,1,1,,,
+72501130,2026-09-05 14:00,Kazincbarcikai SC,Kecskemeti TE,2,2,3.200,3.400,2.000
+72501128,2026-09-05 15:00,FC Ajka,Soroksar SC,0,3,2.550,3.250,2.350
+72501132,2026-09-05 15:00,Kozarmisleny SE,Mezokovesd Zsory SE,2,0,3.400,3.500,1.833
+72501120,2026-09-05 16:00,Gyirmot FC Gyor,Karcag SE,2,0,,,
+72501124,2026-09-05 17:00,Bvsc-Zuglo,FC Nagykanizsai,0,1,1.700,3.500,4.333
+72501126,2026-09-05 17:00,Tiszakecskei LC,Szentlorinc SE,2,0,1.666,3.600,4.333
+72501134,2026-09-06 15:00,Aqvital FC Csakvar,Szeged-Csanad Grosics Akademia,2,2,,,
+74304162,2026-09-07 17:30,Fehervar FC Szekesfehervar,Diosgyori VTK,2,1,,,
+72501142,2026-09-19 14:00,FC Nagykanizsai,Fehervar FC Szekesfehervar,1,0,,,
+72501136,2026-09-19 15:00,FC Ajka,Aqvital FC Csakvar,1,0,1.750,3.400,3.900
+72501144,2026-09-19 15:00,Diosgyori VTK,Gyirmot FC Gyor,2,0,1.950,3.500,3.100
+72501148,2026-09-19 15:00,Mezokovesd Zsory SE,Kazincbarcikai SC,4,1,2.300,3.250,2.700
+72501150,2026-09-19 17:00,Kecskemeti TE,Szeged-Csanad Grosics Akademia,1,0,,,
+72501140,2026-09-20 14:00,Szentlorinc SE,Bvsc-Zuglo,2,1,2.450,3.100,2.625
+72501146,2026-09-20 14:00,Karcag SE,Kozarmisleny SE,1,1,2.100,3.300,3.000
+72501138,2026-09-20 17:00,Soroksar SC,Tiszakecskei LC,3,3,2.050,3.400,3.000
+72501162,2026-10-10 11:00,Kazincbarcikai SC,Karcag SE,3,0,1.909,3.300,3.400
+72501152,2026-10-10 15:00,Gyirmot FC Gyor,FC Nagykanizsai,1,0,1.650,3.600,4.333
+72501154,2026-10-10 15:00,Fehervar FC Szekesfehervar,Szentlorinc SE,3,0,1.666,3.600,4.200
+72501158,2026-10-10 15:00,Tiszakecskei LC,FC Ajka,4,3,1.900,3.300,3.500
+72501164,2026-10-10 15:00,Kozarmisleny SE,Diosgyori VTK,0,2,3.400,3.500,1.850
+72501400,2026-10-10 15:00,Mezokovesd Zsory SE,Szeged-Csanad Grosics Akademia,1,1,,,
+72501166,2026-10-11 13:00,Aqvital FC Csakvar,Kecskemeti TE,1,2,5.750,4.333,1.400
+74597454,2026-10-12 17:45,Bvsc-Zuglo,Soroksar SC,5,2,2.800,3.200,2.250
+75244082,2026-10-13 16:00,Diosgyori VTK,Szentlorinc SE,1,1,1.420,4.500,5.750
+75268722,2026-10-14 15:00,Mezokovesd Zsory SE,FC Ajka,1,1,1.833,3.300,3.750
+72501176,2026-10-17 11:00,FC Nagykanizsai,Kozarmisleny SE,0,3,2.450,3.200,2.500
+72501182,2026-10-17 11:00,Mezokovesd Zsory SE,Kecskemeti TE,3,1,3.000,3.300,2.150
+72501168,2026-10-17 15:00,Tiszakecskei LC,Aqvital FC Csakvar,1,0,1.333,4.750,7.000
+72501170,2026-10-17 15:00,FC Ajka,Bvsc-Zuglo,1,2,2.350,3.200,2.625
+72501174,2026-10-18 11:00,Szentlorinc SE,Gyirmot FC Gyor,1,2,3.400,3.400,1.850
+72501180,2026-10-18 11:00,Karcag SE,Szeged-Csanad Grosics Akademia,1,2,3.000,3.200,2.150
+72501172,2026-10-18 15:00,Soroksar SC,Fehervar FC Szekesfehervar,1,0,2.450,3.200,2.500
+74597466,2026-10-19 17:30,Diosgyori VTK,Kazincbarcikai SC,2,2,1.900,3.500,3.300
+72501188,2026-10-24 11:00,Bvsc-Zuglo,Tiszakecskei LC,2,2,2.450,3.300,2.450
+72501194,2026-10-24 11:00,Kazincbarcikai SC,FC Nagykanizsai,2,1,1.550,3.900,4.750
+72501190,2026-10-24 13:00,Kecskemeti TE,Karcag SE,5,2,1.285,4.750,7.500
+72501196,2026-10-24 13:00,Kozarmisleny SE,Szentlorinc SE,0,2,1.850,3.400,3.600
+72501186,2026-10-24 15:00,Fehervar FC Szekesfehervar,FC Ajka,1,2,1.700,3.500,4.200
+72501192,2026-10-24 15:00,Szeged-Csanad Grosics Akademia,Diosgyori VTK,1,4,2.450,3.400,2.400
+72501184,2026-10-24 17:00,Gyirmot FC Gyor,Soroksar SC,3,3,2.050,3.400,3.000
+72501198,2026-10-25 14:00,Aqvital FC Csakvar,Mezokovesd Zsory SE,0,4,3.750,3.900,1.666
+72501200,2026-10-31 12:00,Bvsc-Zuglo,Aqvital FC Csakvar,1,0,1.444,4.333,5.500
+72501202,2026-10-31 14:00,Tiszakecskei LC,Fehervar FC Szekesfehervar,0,1,2.100,3.400,2.875
+72501204,2026-10-31 14:00,FC Ajka,Gyirmot FC Gyor,1,1,2.600,3.400,2.300
+72501208,2026-11-01 12:00,Szentlorinc SE,Kazincbarcikai SC,0,3,2.875,3.250,2.200
+72501210,2026-11-01 12:00,FC Nagykanizsai,Szeged-Csanad Grosics Akademia,1,0,3.500,3.250,1.909
+72501214,2026-11-01 12:00,Karcag SE,Mezokovesd Zsory SE,0,3,3.000,3.300,2.050
+72501206,2026-11-01 16:00,Soroksar SC,Kozarmisleny SE,0,1,1.750,3.400,4.000
+75896328,2026-11-02 18:30,Diosgyori VTK,Kecskemeti TE,1,3,2.300,3.600,2.550
+74597464,2026-11-04 16:00,Szeged-Csanad Grosics Akademia,Bvsc-Zuglo,3,0,2.150,3.200,3.000
+72501220,2026-11-07 12:00,Mezokovesd Zsory SE,Diosgyori VTK,1,3,2.300,3.400,2.625
+72501226,2026-11-07 12:00,Kazincbarcikai SC,Soroksar SC,0,0,2.100,3.500,2.800
+72501222,2026-11-07 14:00,Kecskemeti TE,FC Nagykanizsai,2,0,1.222,5.250,9.000
+72501224,2026-11-07 14:00,Szeged-Csanad Grosics Akademia,Szentlorinc SE,3,1,1.800,3.600,3.600
+72501228,2026-11-07 14:00,Kozarmisleny SE,FC Ajka,1,0,2.150,3.300,2.875
+72501216,2026-11-07 16:00,Gyirmot FC Gyor,Tiszakecskei LC,1,1,2.150,3.400,2.800
+72501218,2026-11-07 16:00,Fehervar FC Szekesfehervar,Bvsc-Zuglo,0,3,1.900,3.200,3.700
+72501230,2026-11-08 14:00,Aqvital FC Csakvar,Karcag SE,4,2,,,

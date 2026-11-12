@@ -1,0 +1,48 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+74038244,2026-09-26 13:00,AO Anthoupolis Larisas,Gams Ermis Exochis,1,1,,,
+74038246,2026-09-26 13:00,Po Elassonas,Ethnikos Keramidiou,3,0,,,
+74038248,2026-09-26 13:00,AE Karitsas,AS Sarakinos,2,1,,,
+74038250,2026-09-26 13:00,Rigas Feraios,AO Trikala 1963,0,1,,,
+74038252,2026-09-26 13:00,Pierikos FC,Iraklis Larisas,3,1,,,
+74041006,2026-09-27 10:30,Ethnikos Asteras FC,Pannaxiakos,2,3,,,
+74041000,2026-09-27 13:00,Kyanous Asteras Varis,Ilisiakos FC,0,2,2.100,3.100,3.100
+74041002,2026-09-27 13:00,Saronikos Anavisou,Asteras Magoulas,1,0,,,
+74041004,2026-09-27 13:00,A.P.O. Thyella Rafina FC,Neas Ionias,2,1,1.400,3.900,6.500
+75077938,2026-09-27 13:00,AO Neos Acharnaikos,AE Mykonou,0,3,,,
+74041010,2026-10-04 13:00,GS Ilioupoli,Kyanous Asteras Varis,1,1,1.700,3.300,4.500
+74041012,2026-10-04 13:00,Ilisiakos FC,Saronikos Anavisou,2,0,1.666,3.300,4.500
+74041014,2026-10-04 13:00,Asteras Magoulas,Ethnikos Asteras FC,1,0,,,
+74041016,2026-10-04 13:00,Neas Ionias,AO Neos Acharnaikos,4,0,1.400,3.750,7.000
+75077936,2026-10-05 10:30,AE Mykonou,Pannaxiakos,1,0,,,
+75236242,2026-10-07 13:00,AO Platanias,Nikolaos,1,1,,,
+75236244,2026-10-07 13:00,AO Tympakiou,Giouchtas,1,1,3.000,3.200,2.150
+75236246,2026-10-07 13:00,Panakrotiriakos,ΑΟ Episkopi,0,0,,,
+75236248,2026-10-07 13:00,AO Rethymniakos,Olympiakos Hersonisou,4,1,,,
+75236250,2026-10-07 13:00,AE Neapolis,PO Atsaleniou,0,1,3.900,3.300,1.850
+75077934,2026-10-11 09:30,AE Mykonou,Asteras Magoulas,0,0,,,
+74041020,2026-10-11 13:00,Kyanous Asteras Varis,Saronikos Anavisou,1,0,,,
+74041022,2026-10-11 13:00,A.P.O. Thyella Rafina FC,GS Ilioupoli,1,0,1.950,3.100,3.600
+74041024,2026-10-11 13:00,Ethnikos Asteras FC,Ilisiakos FC,0,1,,,
+74041028,2026-10-12 10:30,Pannaxiakos,Neas Ionias,2,0,1.250,4.750,9.500
+74041030,2026-10-18 13:00,A.P.O. Thyella Rafina FC,Kyanous Asteras Varis,0,1,2.300,3.000,2.900
+74041032,2026-10-18 13:00,Saronikos Anavisou,Ethnikos Asteras FC,0,1,,,
+74041034,2026-10-18 13:00,GS Ilioupoli,AO Neos Acharnaikos,2,1,,,
+74041038,2026-10-18 13:00,Neas Ionias,Asteras Magoulas,0,1,5.000,3.250,1.650
+75077932,2026-10-18 13:00,Ilisiakos FC,AE Mykonou,1,0,,,
+75698286,2026-10-21 13:00,ΑΟ Episkopi,Nikolaos,1,3,,,
+75077930,2026-10-25 09:00,AE Mykonou,Saronikos Anavisou,3,0,,,
+74041046,2026-10-25 12:30,Pannaxiakos,GS Ilioupoli,3,3,,,
+74041040,2026-10-25 13:00,Kyanous Asteras Varis,Ethnikos Asteras FC,1,0,1.700,3.500,4.100
+74041042,2026-10-25 13:00,AO Neos Acharnaikos,A.P.O. Thyella Rafina FC,0,4,,,
+74041048,2026-10-25 13:00,Neas Ionias,Ilisiakos FC,1,0,2.800,3.300,2.150
+74037202,2026-10-31 13:00,Mas Ardas Kastaneon,AE Thrakis,0,1,,,
+74041054,2026-10-31 13:00,A.P.O. Thyella Rafina FC,Pannaxiakos,0,0,2.600,3.200,2.400
+74041050,2026-11-01 13:00,AO Neos Acharnaikos,Kyanous Asteras Varis,1,2,8.000,5.250,1.250
+74041056,2026-11-01 13:00,Saronikos Anavisou,Neas Ionias,0,2,2.250,3.000,2.900
+74041058,2026-11-01 13:00,GS Ilioupoli,Asteras Magoulas,0,1,2.600,3.100,2.450
+75077928,2026-11-01 13:00,Ethnikos Asteras FC,AE Mykonou,0,3,,,
+74041068,2026-11-07 13:00,Ilisiakos FC,GS Ilioupoli,2,0,1.750,3.200,4.333
+74041062,2026-11-08 12:30,Pannaxiakos,AO Neos Acharnaikos,4,1,,,
+74041064,2026-11-08 13:00,Neas Ionias,Ethnikos Asteras FC,1,0,1.950,3.300,3.400
+74041066,2026-11-08 13:00,Asteras Magoulas,A.P.O. Thyella Rafina FC,0,0,,,
+75077926,2026-11-08 13:00,Kyanous Asteras Varis,AE Mykonou,1,0,,,

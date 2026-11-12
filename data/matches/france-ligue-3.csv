@@ -1,0 +1,109 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+72523808,2026-08-07 18:45,SC Aubagne Air Bel,Thionville US Lusitanos,0,2,2.250,3.100,2.875
+72523810,2026-08-07 18:45,SM Caen,Valenciennes FC,4,0,2.250,3.250,2.900
+72523812,2026-08-07 18:45,Football Bourg-En-Bresse Peronnas 01,FC Villefranche Beaujolais,2,1,2.300,3.200,2.875
+72523814,2026-08-07 18:45,Paris 13 Atletico,Quevilly-Rouen Metropole,1,0,3.100,3.000,2.350
+72523816,2026-08-07 18:45,US Concarneau,US Orleans,0,2,2.200,3.200,2.875
+72523818,2026-08-07 18:45,FC Rouen,AS Cannes,0,0,1.950,3.300,3.400
+72523820,2026-08-07 18:45,FC Fleury 91,Amiens SC,0,0,2.100,3.100,3.200
+72523822,2026-08-07 18:45,La Roche Vendee Football,FC Versailles 78,3,2,2.600,3.200,2.375
+72523824,2026-08-07 18:45,SC Bastia,Le Puy-En Velay FC,0,2,,,
+72523826,2026-08-14 17:00,FC Versailles 78,Le Puy-En Velay FC,1,0,1.850,3.500,3.750
+72523828,2026-08-14 17:00,Amiens SC,La Roche Vendee Football,0,1,2.200,3.300,3.000
+72523830,2026-08-14 17:00,AS Cannes,FC Fleury 91,1,1,1.909,3.400,3.700
+72523832,2026-08-14 17:00,US Orleans,FC Rouen,1,2,2.250,3.250,2.900
+72523834,2026-08-14 17:00,Quevilly-Rouen Metropole,US Concarneau,1,1,2.700,3.200,2.450
+72523836,2026-08-14 17:00,FC Villefranche Beaujolais,Paris 13 Atletico,2,0,2.200,3.200,3.100
+72523838,2026-08-14 17:00,Valenciennes FC,Football Bourg-En-Bresse Peronnas 01,2,0,1.615,3.700,4.750
+72523840,2026-08-14 17:00,Thionville US Lusitanos,SM Caen,4,3,2.050,3.400,3.200
+72523842,2026-08-14 17:00,SC Aubagne Air Bel,SC Bastia,0,1,3.600,3.400,1.900
+72523844,2026-08-20 18:45,SM Caen,SC Aubagne Air Bel,1,0,1.700,3.700,4.200
+72523846,2026-08-20 18:45,Football Bourg-En-Bresse Peronnas 01,Thionville US Lusitanos,0,2,2.875,3.250,2.200
+72523848,2026-08-20 18:45,Paris 13 Atletico,Valenciennes FC,2,1,3.100,3.000,2.300
+72523850,2026-08-20 18:45,US Concarneau,FC Villefranche Beaujolais,2,0,1.800,3.400,4.200
+72523852,2026-08-20 18:45,FC Rouen,Quevilly-Rouen Metropole,3,0,1.700,3.600,4.333
+72523854,2026-08-20 18:45,FC Fleury 91,US Orleans,0,2,2.050,3.400,3.200
+72523856,2026-08-20 18:45,La Roche Vendee Football,AS Cannes,1,1,3.200,3.200,2.050
+72523858,2026-08-20 18:45,Le Puy-En Velay FC,Amiens SC,1,0,1.900,3.300,3.600
+72523860,2026-08-20 18:45,SC Bastia,FC Versailles 78,2,3,,,
+72523878,2026-08-27 18:45,SM Caen,SC Bastia,0,1,1.950,3.300,3.250
+72523862,2026-08-29 12:45,Amiens SC,FC Versailles 78,3,0,2.900,3.100,2.200
+72523864,2026-08-29 12:45,AS Cannes,Le Puy-En Velay FC,2,0,1.909,3.200,3.600
+72523866,2026-08-29 12:45,US Orleans,La Roche Vendee Football,0,1,2.100,3.100,3.100
+72523868,2026-08-29 12:45,Quevilly-Rouen Metropole,FC Fleury 91,2,1,2.750,3.000,2.450
+72523870,2026-08-29 12:45,FC Villefranche Beaujolais,FC Rouen,0,2,3.000,3.400,2.050
+72523872,2026-08-29 12:45,Valenciennes FC,US Concarneau,0,0,2.250,3.000,3.000
+72523874,2026-08-29 12:45,Thionville US Lusitanos,Paris 13 Atletico,1,1,1.900,3.100,3.800
+72523876,2026-08-29 12:45,SC Aubagne Air Bel,Football Bourg-En-Bresse Peronnas 01,2,0,2.100,2.900,3.300
+72523886,2026-09-03 18:45,FC Rouen,Valenciennes FC,1,1,1.900,3.250,3.600
+72523880,2026-09-05 12:45,Football Bourg-En-Bresse Peronnas 01,SM Caen,0,2,3.400,3.400,1.900
+72523882,2026-09-05 12:45,Paris 13 Atletico,SC Aubagne Air Bel,0,0,2.150,2.800,3.400
+72523884,2026-09-05 12:45,US Concarneau,Thionville US Lusitanos,2,2,1.750,3.400,4.100
+72523888,2026-09-05 12:45,FC Fleury 91,FC Villefranche Beaujolais,6,1,1.800,3.250,3.900
+72523890,2026-09-05 12:45,La Roche Vendee Football,Quevilly-Rouen Metropole,1,1,1.833,3.200,4.000
+72523892,2026-09-05 12:45,Le Puy-En Velay FC,US Orleans,1,1,2.050,3.300,3.000
+72523894,2026-09-05 12:45,FC Versailles 78,AS Cannes,0,3,2.250,3.100,3.000
+72523896,2026-09-05 12:45,SC Bastia,Amiens SC,0,3,2.150,3.100,3.200
+72523898,2026-09-10 18:45,AS Cannes,Amiens SC,0,0,1.950,3.500,3.300
+72523900,2026-09-12 12:45,US Orleans,FC Versailles 78,0,4,2.500,3.000,2.600
+72523902,2026-09-12 12:45,Quevilly-Rouen Metropole,Le Puy-En Velay FC,2,1,2.700,3.000,2.450
+72523904,2026-09-12 12:45,FC Villefranche Beaujolais,La Roche Vendee Football,0,0,3.400,3.200,2.000
+72523906,2026-09-12 12:45,Valenciennes FC,FC Fleury 91,1,2,2.200,3.200,2.900
+72523908,2026-09-12 12:45,Thionville US Lusitanos,FC Rouen,0,4,3.000,3.300,2.100
+72523910,2026-09-12 12:45,SC Aubagne Air Bel,US Concarneau,1,2,3.000,2.900,2.250
+72523912,2026-09-12 12:45,SM Caen,Paris 13 Atletico,2,0,1.666,3.500,4.333
+72523914,2026-09-12 12:45,Football Bourg-En-Bresse Peronnas 01,SC Bastia,0,1,3.000,3.100,2.200
+72523932,2026-09-17 18:45,SC Bastia,AS Cannes,1,1,2.900,3.250,2.200
+72523916,2026-09-19 12:45,Paris 13 Atletico,Football Bourg-En-Bresse Peronnas 01,1,1,1.950,3.200,3.600
+72523918,2026-09-19 12:45,US Concarneau,SM Caen,2,0,2.375,3.200,2.700
+72523920,2026-09-19 12:45,FC Rouen,SC Aubagne Air Bel,1,0,1.550,3.600,5.250
+72523922,2026-09-19 12:45,FC Fleury 91,Thionville US Lusitanos,1,1,1.909,3.500,3.200
+72523924,2026-09-19 12:45,La Roche Vendee Football,Valenciennes FC,3,2,2.200,3.200,2.875
+72523926,2026-09-19 12:45,Le Puy-En Velay FC,FC Villefranche Beaujolais,4,1,1.900,3.400,3.400
+72523928,2026-09-19 12:45,FC Versailles 78,Quevilly-Rouen Metropole,0,0,1.650,3.750,4.200
+72523930,2026-09-19 12:45,Amiens SC,US Orleans,2,0,2.000,3.300,3.200
+72523946,2026-09-24 18:45,SM Caen,FC Rouen,3,2,2.625,3.200,2.400
+72523934,2026-09-26 18:45,US Orleans,AS Cannes,0,0,3.000,3.200,2.250
+72523936,2026-09-26 18:45,Quevilly-Rouen Metropole,Amiens SC,1,1,3.500,3.300,1.950
+72523938,2026-09-26 18:45,FC Villefranche Beaujolais,FC Versailles 78,1,2,3.750,3.500,1.833
+72523940,2026-09-26 18:45,Valenciennes FC,Le Puy-En Velay FC,2,1,2.250,3.200,2.900
+72523942,2026-09-26 18:45,Thionville US Lusitanos,La Roche Vendee Football,1,2,2.625,3.200,2.375
+72523948,2026-09-26 18:45,Football Bourg-En-Bresse Peronnas 01,US Concarneau,1,1,4.200,2.900,1.909
+72523950,2026-09-26 18:45,Paris 13 Atletico,SC Bastia,1,0,2.250,3.100,2.900
+72524232,2026-09-26 18:45,FC Fleury 91,SC Aubagne Air Bel,1,2,1.800,3.500,3.600
+72523968,2026-10-01 18:45,SC Bastia,US Orleans,1,1,2.100,3.300,3.000
+72523952,2026-10-03 18:45,US Concarneau,Paris 13 Atletico,2,1,1.850,3.200,3.800
+72523954,2026-10-03 18:45,FC Rouen,Football Bourg-En-Bresse Peronnas 01,2,0,1.480,3.700,6.000
+72523956,2026-10-03 18:45,FC Fleury 91,SM Caen,3,2,2.550,3.400,2.300
+72523958,2026-10-03 18:45,La Roche Vendee Football,SC Aubagne Air Bel,3,1,1.727,3.600,3.800
+72523960,2026-10-03 18:45,Le Puy-En Velay FC,Thionville US Lusitanos,1,0,1.533,4.000,4.750
+72523962,2026-10-03 18:45,FC Versailles 78,Valenciennes FC,1,0,1.950,3.400,3.250
+72523964,2026-10-03 18:45,Amiens SC,FC Villefranche Beaujolais,3,0,1.666,3.500,4.333
+72523966,2026-10-03 18:45,AS Cannes,Quevilly-Rouen Metropole,3,1,1.650,3.400,4.750
+72523980,2026-10-15 18:45,SM Caen,La Roche Vendee Football,2,1,2.200,3.500,2.700
+72523970,2026-10-17 12:45,Quevilly-Rouen Metropole,US Orleans,3,2,2.450,3.100,2.600
+72523972,2026-10-17 12:45,FC Villefranche Beaujolais,AS Cannes,2,1,3.800,3.400,1.800
+72523974,2026-10-17 12:45,Valenciennes FC,Amiens SC,1,1,2.450,3.250,2.450
+72523976,2026-10-17 12:45,Thionville US Lusitanos,FC Versailles 78,1,2,3.500,3.400,1.900
+72523978,2026-10-17 12:45,SC Aubagne Air Bel,Le Puy-En Velay FC,0,1,3.100,3.200,2.050
+72523982,2026-10-17 12:45,Football Bourg-En-Bresse Peronnas 01,FC Fleury 91,0,1,3.800,3.200,1.850
+72523984,2026-10-17 12:45,Paris 13 Atletico,FC Rouen,3,1,3.400,3.500,1.900
+72523986,2026-10-17 12:45,US Concarneau,SC Bastia,1,1,1.909,3.300,3.500
+72523998,2026-10-29 19:45,Amiens SC,Thionville US Lusitanos,1,1,1.600,3.500,5.000
+72523988,2026-10-31 13:45,FC Rouen,US Concarneau,2,1,1.950,3.100,3.750
+72523990,2026-10-31 13:45,FC Fleury 91,Paris 13 Atletico,1,1,1.900,3.300,3.600
+72523992,2026-10-31 13:45,Vendee Foot Club La Roche Sur Yon,Football Bourg-En-Bresse Peronnas 01,2,0,1.500,4.000,4.750
+72523994,2026-10-31 13:45,Le Puy-En Velay FC,SM Caen,2,2,2.350,3.300,2.600
+72523996,2026-10-31 13:45,FC Versailles 78,SC Aubagne Air Bel,4,0,1.500,3.750,5.000
+72524000,2026-10-31 13:45,AS Cannes,Valenciennes FC,2,1,1.700,3.400,4.333
+72524002,2026-10-31 13:45,US Orleans,FC Villefranche Beaujolais,1,1,1.850,3.250,3.750
+72524004,2026-10-31 13:45,SC Bastia,Quevilly-Rouen Metropole,2,0,2.050,3.200,3.200
+72524008,2026-11-05 19:45,Valenciennes FC,US Orleans,2,2,2.150,3.250,2.900
+72524006,2026-11-07 13:45,FC Villefranche Beaujolais,Quevilly-Rouen Metropole,0,2,2.400,3.200,2.700
+72524010,2026-11-07 13:45,Thionville US Lusitanos,AS Cannes,1,0,4.000,3.400,1.750
+72524012,2026-11-07 13:45,SC Aubagne Air Bel,Amiens SC,0,2,3.500,3.300,1.909
+72524014,2026-11-07 13:45,SM Caen,FC Versailles 78,1,0,2.450,3.400,2.450
+72524016,2026-11-07 13:45,Football Bourg-En-Bresse Peronnas 01,Le Puy-En Velay FC,1,1,3.800,3.300,1.800
+72524018,2026-11-07 13:45,Paris 13 Atletico,Vendee Foot Club La Roche Sur Yon,0,1,2.400,3.300,2.550
+72524020,2026-11-07 13:45,US Concarneau,FC Fleury 91,2,0,2.250,3.100,2.900
+72524022,2026-11-07 13:45,FC Rouen,SC Bastia,2,0,1.700,3.400,4.200

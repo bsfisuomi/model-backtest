@@ -1,0 +1,39 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+73927960,2026-08-28 15:00,CSC Ghiroda SI Giarmata Vii,CS Timisul Sag,0,2,1.600,3.900,4.333
+73927970,2026-08-28 15:00,Stinta Poli Timisoara 2,CSM Deva,1,4,,,
+73927962,2026-08-29 15:00,CS Metalurgistul Cugir,ACS Cil Blaj,0,2,,,
+73927964,2026-08-29 15:00,CSM Unirea Alba Iulia,ACS Unirea Santana,1,0,1.111,8.000,17.000
+73927966,2026-08-29 15:00,AFC Nera Bogodinti,Universitatea Alba Iulia,0,0,,,
+73927968,2026-08-29 15:00,ACS Viitorul Arad,ACS Progresul Pecica,0,0,1.950,3.600,3.100
+74089384,2026-09-11 14:00,CS Metalurgistul Cugir,CS Timisul Sag,0,1,,,
+74089390,2026-09-18 12:00,CS Timisul Sag,ACS Progresul Pecica,3,0,1.615,3.900,4.333
+74089396,2026-09-19 14:00,ACS Unirea Santana,Stinta Poli Timisoara 2,4,1,,,
+74089400,2026-09-22 14:00,CSM Unirea Alba Iulia,CS Timisul Sag,3,0,1.181,6.000,11.000
+74089402,2026-09-22 14:00,CSM Deva,ACS Unirea Santana,0,3,2.250,3.500,2.600
+74089408,2026-09-22 14:00,ACS Progresul Pecica,Universitatea Alba Iulia,6,0,,,
+74089404,2026-09-23 14:00,ACS Viitorul Arad,CSC Ghiroda SI Giarmata Vii,1,1,2.100,3.500,2.800
+74089406,2026-09-23 14:00,AFC Nera Bogodinti,CS Metalurgistul Cugir,0,3,,,
+74089410,2026-09-26 14:00,CSC Ghiroda SI Giarmata Vii,Stinta Poli Timisoara 2,1,0,,,
+74089412,2026-09-26 14:00,ACS Cil Blaj,CSM Deva,5,5,,,
+74089416,2026-09-26 14:00,ACS Unirea Santana,ACS Progresul Pecica,4,1,,,
+74089418,2026-09-26 14:00,CSM Unirea Alba Iulia,AFC Nera Bogodinti,10,0,1.055,9.000,21.000
+74089420,2026-09-26 14:00,CS Metalurgistul Cugir,ACS Viitorul Arad,1,3,1.800,3.600,3.500
+74089432,2026-10-03 12:00,CSM Deva,CSC Ghiroda SI Giarmata Vii,5,1,1.700,4.000,3.750
+74089438,2026-10-09 10:00,CSC Ghiroda SI Giarmata Vii,ACS Progresul Pecica,5,0,1.800,3.800,3.400
+74089434,2026-10-09 12:00,CS Timisul Sag,ACS Unirea Santana,2,1,2.500,3.600,2.300
+74089436,2026-10-09 12:00,ACS Cil Blaj,Universitatea Alba Iulia,2,2,,,
+74089442,2026-10-09 12:00,CS Metalurgistul Cugir,CSM Deva,0,2,5.250,4.200,1.480
+74089446,2026-10-16 12:00,Universitatea Alba Iulia,CSC Ghiroda SI Giarmata Vii,0,2,3.750,3.900,1.700
+74089456,2026-10-16 12:00,CSM Deva,CSM Unirea Alba Iulia,1,2,,,
+74089462,2026-10-23 12:00,CS Metalurgistul Cugir,Universitatea Alba Iulia,2,1,1.333,5.250,5.750
+74089480,2026-10-30 11:00,ACS Progresul Pecica,AFC Nera Bogodinti,2,1,1.333,5.000,6.250
+74089470,2026-10-30 13:00,Universitatea Alba Iulia,CSM Unirea Alba Iulia,0,3,12.000,6.500,1.166
+74089476,2026-10-30 13:00,CSM Deva,ACS Viitorul Arad,1,4,,,
+74089472,2026-10-31 12:55,ACS Cil Blaj,CSC Ghiroda SI Giarmata Vii,2,2,2.200,3.600,2.625
+74089478,2026-10-31 13:00,ACS Unirea Santana,CS Metalurgistul Cugir,0,0,2.000,3.600,3.000
+74089488,2026-11-06 11:00,ACS Progresul Pecica,ACS Viitorul Arad,2,3,4.500,4.100,1.533
+74089482,2026-11-06 12:00,CS Timisul Sag,CSC Ghiroda SI Giarmata Vii,1,0,2.050,3.600,2.800
+74089484,2026-11-06 12:00,Universitatea Alba Iulia,AFC Nera Bogodinti,3,0,,,
+74089490,2026-11-06 12:00,CSM Deva,Stinta Poli Timisoara 2,2,1,,,
+74089486,2026-11-07 12:00,ACS Cil Blaj,CS Metalurgistul Cugir,2,0,1.950,3.700,3.000
+74089492,2026-11-07 12:00,ACS Unirea Santana,CSM Unirea Alba Iulia,0,2,5.000,4.750,1.420
