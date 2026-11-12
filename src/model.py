@@ -136,13 +136,20 @@ class LeagueModel:
         self._cache = {}
 
     def _ha(self):
+        """Fixed HA from config (Excel leagues), else the shared constant of the regression on this season
+        plus the whole previous season, with a separate strength per team and season."""
         if self.lg.get("ha") is not None:
             return self.lg["ha"], self.lg.get("ha_source", "config")
-        for src, rows in (("last season", self.prev), ("this season", self.cur)):
-            tr = [r for r in rows if r["close_1"] and r["close_2"]]
-            if len(tr) >= 60:
-                _, c = fit(tr, None)
-                return c, f"estimated ({src}, {len(tr)} matches)"
+        tr = []
+        for tag, rows in (("cur", self.cur), ("prev", self.prev)):
+            for r in rows:
+                if r["close_1"] and r["close_2"]:
+                    tr.append({"home_id": (r["home"], tag), "away_id": (r["away"], tag),
+                               "close_1": r["close_1"], "close_2": r["close_2"]})
+        if len(tr) >= 60:
+            _, c = fit(tr, None)
+            n_prev = sum(1 for x in tr if x["home_id"][1] == "prev")
+            return c, f"estimated (this + last season, {len(tr)} matches, {n_prev} last season)"
         return None, "too little data"
 
     def strengths(self, before_day):

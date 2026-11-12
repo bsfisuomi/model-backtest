@@ -30,6 +30,7 @@ def get(path, retries=4, **params):
                            capture_output=True, text=True)
         body, _, code = r.stdout.rpartition("\n")
         if code == "429":
+            print(f"  rate limited: {body[:160]}", flush=True)
             time.sleep(20 * (i + 1))
             continue
         if code == "404":
@@ -38,4 +39,4 @@ def get(path, retries=4, **params):
             return json.loads(body)
         except Exception:
             time.sleep(2 * (i + 1))
-    return None
+    raise SystemExit(f"Odds-API request failed: {path} -> HTTP {code}: {body[:200]}")

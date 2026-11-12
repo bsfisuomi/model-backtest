@@ -1,13 +1,11 @@
 """Bet bet365's OPENING Asian lines where the model finds value.
 
-  python3 src/scan.py [--days 7] [--backfill-days 4] [league-slug ...]
+  python3 src/scan.py [--days 35] [league-slug ...]
 
-For every match in a configured league (upcoming within --days, plus matches played in the last
---backfill-days that a previous run may have missed) the bet365 opening main line of the Asian handicap
+For every match bet365 lists right now that has not started (kickoff within --days) the bet365 opening main line of the Asian handicap
 ("Spread"; only 50/50 lines, both prices within betting.ah_balanced_range) and of the total ("Totals") is read from Odds-API.io /odds/movements. The model is evaluated
 with the data available on the day the line opened. Each side with EV >= betting.min_ev is logged once in
-data/bets.csv at the opening price. The opening price never changes, so a match only has to be scanned
-once - but Odds-API keeps line history only a few days, so run at least every 3-4 days.
+data/bets.csv at the opening price. Matches that have already started are never logged.
 
 Writes data/bets.csv, data/prices/latest.csv (model per upcoming match) and data/scans/<UTC>.csv
 (opening and latest main lines seen in this run, with model fair odds and EV).
@@ -79,42 +77,23 @@ def iso(d):
     return d.strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
-def matches(leagues, days, backfill):
+def matches(leagues, days):
+    """Matches bet365 lists right now that have NOT started (status pending, kickoff in the future)."""
     now = dt.datetime.now(dt.timezone.utc).replace(microsecond=0)
-    evs = {}
     up = o.get("/events", sport="football", status="pending", bookmaker=BOOK, limit=5000,
                **{"from": iso(now), "to": iso(now + dt.timedelta(days=days))}) or []
-    for e in up:
-        if e["league"]["slug"] in leagues:
-            evs[e["id"]] = {"id": e["id"], "league": e["league"]["slug"], "home": e["home"], "away": e["away"],
-                            "date": e["date"]}
-    if backfill:
-        sl = sorted(leagues)
-        for i in range(0, len(sl), 10):
-            skip = 0
-            while True:
-                d = o.get("/historical/closing-lines", sport="football", leagues=",".join(sl[i:i + 10]),
-                          markets="ML", bookmakers=BOOK, limit=100, skip=skip,
-                          **{"from": iso(now - dt.timedelta(days=backfill)), "to": iso(now)})
-                if not isinstance(d, list):
-                    break
-                for e in d:
-                    evs.setdefault(e["id"], {"id": e["id"], "league": e["league"]["slug"], "home": e["home"],
-                                             "away": e["away"], "date": e["date"]})
-                if len(d) < 100:
-                    break
-                skip += 100
-    return now, list(evs.values())
+    evs = [{"id": e["id"], "league": e["league"]["slug"], "home": e["home"], "away": e["away"], "date": e["date"]}
+           for e in up if e["league"]["slug"] in leagues and e["date"][:19] > iso(now)[:19]]
+    return now, evs
 
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--days", type=float, default=7)
-    ap.add_argument("--backfill-days", type=float, default=4)
+    ap.add_argument("--days", type=float, default=35)
     ap.add_argument("leagues", nargs="*")
     a = ap.parse_args()
     leagues = set(a.leagues or CFG["leagues"])
-    now, evs = matches(leagues, a.days, a.backfill_days)
+    now, evs = matches(leagues, a.days)
     print(f"{len(evs)} matches in {len({e['league'] for e in evs})} leagues")
     min_ev, stake = CFG["betting"]["min_ev"], CFG["betting"]["stake"]
     now_txt = now.strftime("%Y-%m-%d %H:%M")
@@ -126,6 +105,8 @@ def main():
     skipped = {}
 
     for e in sorted(evs, key=lambda e: e["date"]):
+        if e["date"][:16].replace("T", " ") <= now_txt:   # started meanwhile -> never bet
+            continue
         slug = e["league"]
         if slug not in models:
             models[slug] = LeagueModel(slug)
