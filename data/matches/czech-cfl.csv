@@ -1,0 +1,996 @@
+scope,season_id,season,tournament_id,match_id,round,kickoff_utc,home,home_id,away,away_id,home_goals,away_goals,open_1,open_x,open_2,close_1,close_x,close_2
+team,54166,Divize C 23/24,20947,11919433,27,2024-05-19 15:00,FK Čáslav,6069,Turnov,24785,1,0,,,,,,
+team,54166,Divize C 23/24,20947,11919425,28,2024-05-25 08:15,FK Benešov,53088,FK Čáslav,6069,1,4,,,,,,
+team,54166,Divize C 23/24,20947,11919415,29,2024-06-02 15:00,FK Čáslav,6069,Vysoké Mýto,106309,2,2,,,,,,
+team,54166,Divize C 23/24,20947,11919411,30,2024-06-08 09:00,Tj Spoje Praha,485290,FK Čáslav,6069,0,0,,,,,,
+team,54166,Divize C 23/24,20947,12173393,16,2024-06-15 13:00,Trutnov,43657,FK Čáslav,6069,1,1,,,,,,
+team,,,,12769555,,2024-08-31 15:00,AFK Tuchlovice,318239,FK Čáslav,6069,1,4,,,,,,
+team,63403,CFL 24/25,9387,13184971,27,2025-05-11 15:00,Povltavska FA,53101,TJ Jiskra Domažlice,24775,0,1,,,,,,
+team,63403,CFL 24/25,9387,13184980,28,2025-05-17 08:30,SK Dynamo Ceske Budejovice B,333482,Povltavska FA,53101,1,0,,,,,,
+team,63504,Divize C 24/25,20947,13180395,26,2025-05-18 15:00,FK Horní Ředice,530539,FK Slovan Hradek Nad Nisou 1910,530541,4,1,,,,,,
+team,63403,CFL 24/25,9387,13185015,29,2025-05-24 08:15,FC Chomutov,2233,Povltavska FA,53101,1,3,,,,,,
+team,63504,Divize C 24/25,20947,13180398,27,2025-05-25 15:00,Spartak Police Nad Metuji,530540,FK Horní Ředice,530539,0,0,,,,,,
+team,63504,Divize C 24/25,20947,13180406,28,2025-05-31 08:15,FK Benešov,53088,Vysoké Mýto,106309,1,3,,,,,,
+team,63504,Divize C 24/25,20947,13180412,28,2025-06-01 15:00,FK Horní Ředice,530539,SK Kosmonosy,334891,2,1,,,,,,
+team,63403,CFL 24/25,9387,13185028,30,2025-06-01 15:00,Povltavska FA,53101,Dukla Praha B,323618,1,4,,,,,,
+team,63403,CFL 24/25,9387,13185053,31,2025-06-06 16:00,1.FK Příbram,2213,Povltavska FA,53101,3,1,,,,,,
+team,63504,Divize C 24/25,20947,13180419,29,2025-06-07 08:15,MFK Chrudim B,318907,FK Benešov,53088,2,4,,,,,,
+team,63504,Divize C 24/25,20947,13180413,29,2025-06-08 15:00,FK Horní Ředice,530539,FK Brandys Nad Labem,202106,2,1,,,,,,
+team,63504,Divize C 24/25,20947,13180423,30,2025-06-14 08:15,FK Benešov,53088,FK Dobrovice,36487,5,0,,,,,,
+team,63504,Divize C 24/25,20947,13180428,30,2025-06-14 15:00,FC Slavia HK,288988,FK Horní Ředice,530539,4,1,,,,,,
+team,,,,14010112,,2025-06-14 15:00,TJ Doksy,259972,FK Čáslav,6069,1,3,,,,,,
+team,77015,FNL 25/26,205,14074306,1,2025-07-18 16:00,SK Dynamo České Budějovice,2221,FC Zbrojovka Brno,2210,0,2,,,,,,
+team,77015,FNL 25/26,205,14074304,1,2025-07-21 16:00,SK Artis Brno,35264,MFK Chrudim,36741,0,0,,,,,,
+team,77015,FNL 25/26,205,14074310,2,2025-07-25 16:00,1. SK Prostějov,76775,MFK Chrudim,36741,3,1,,,,,,
+team,77015,FNL 25/26,205,14074312,2,2025-07-26 15:00,Slezský FC Opava,2215,SK Dynamo České Budějovice,2221,3,0,,,,,,
+team,77015,FNL 25/26,205,14074336,3,2025-07-30 15:00,Sparta Praha B U21,4866,SK Slavia Praha B,324982,1,0,,,,,,
+team,77015,FNL 25/26,205,14074333,3,2025-07-30 16:00,MFK Chrudim,36741,FK Viktoria Žižkov,2211,3,2,,,,,,
+team,77015,FNL 25/26,205,14074339,3,2025-07-30 16:00,SK Dynamo České Budějovice,2221,Baník Ostrava B,323652,2,2,,,,,,
+team,77015,FNL 25/26,205,14074341,4,2025-08-02 15:00,Slezský FC Opava,2215,MFK Chrudim,36741,3,2,,,,,,
+team,77015,FNL 25/26,205,14074347,4,2025-08-02 16:00,FK VIAGEM Ústí nad Labem,4868,Sparta Praha B U21,4866,3,0,,,,,,
+team,77015,FNL 25/26,205,14074345,4,2025-08-03 08:15,SK Slavia Praha B,324982,SK Dynamo České Budějovice,2221,6,1,,,,,,
+team,77015,FNL 25/26,205,14057154,5,2025-08-08 15:00,Sparta Praha B U21,4866,SK Hanácká Slavia Kroměříž,4865,1,0,,,,,,
+team,77015,FNL 25/26,205,14057157,5,2025-08-08 15:30,SK Dynamo České Budějovice,2221,FC Sellier & Bellot Vlašim,36024,0,0,,,,,,
+team,77015,FNL 25/26,205,14057151,5,2025-08-08 16:00,MFK Chrudim,36741,Vysočina Jihlava,4863,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131099,1,2025-08-08 16:00,Petrin Plzen,106317,Viktoria Plzeň B,321886,3,4,,,,,,
+previous,77725,CFL 25/26,9387,14131102,1,2025-08-08 16:00,SK Kladno,2223,Dukla Praha B,323618,3,5,,,,,,
+previous,77725,CFL 25/26,9387,14131093,1,2025-08-09 08:15,Mladá Boleslav B,323616,FK Neratovice-Byškovice,76771,0,2,,,,,,
+previous,77725,CFL 25/26,9387,14131095,1,2025-08-09 08:15,Loko Vltavín,53133,SK Aritma Praha,165784,0,0,,,,,,
+previous,77725,CFL 25/26,9387,14131096,1,2025-08-09 08:15,FC Písek,25417,MAS Táborsko II,229341,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131097,1,2025-08-09 08:15,SK Motorlet Praha,201953,Králův Dvůr,25418,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131098,1,2025-08-09 08:15,SK Slavia Prague C U20,1105328,Bohemians Praha 1905 B,323620,3,1,,,,,,
+team,78489,Divize A 25/26,20945,14372822,1,2025-08-09 08:15,SK Petrin Plzen B,455541,FK Benešov,53088,0,2,,,,,,
+team,78489,Divize A 25/26,20945,14372833,1,2025-08-09 08:15,Povltavska FA,53101,FK Spartak Soběslav,259976,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131108,1,2025-08-09 08:30,Velke Hamry,281864,SK Sparta Kolín,34794,3,1,,,,,,
+team,78490,Divize C 25/26,20947,14261722,1,2025-08-09 08:30,SK Kosmonosy,334891,FK Horní Ředice,530539,2,2,,,,,,
+previous,77725,CFL 25/26,9387,14131094,1,2025-08-09 13:00,TJ Jiskra Domažlice,24775,SK Dynamo Ceske Budejovice B,333482,4,1,,,,,,
+previous,77725,CFL 25/26,9387,14131105,1,2025-08-09 13:00,FK Most-Baník Souš,53089,FK Pardubice B,323619,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131106,1,2025-08-09 13:00,Slovan Velvary,228544,TJ Jiskra Ústí nad Orlicí,35252,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131103,1,2025-08-09 15:00,Arsenal Česká Lípa,37113,SK Sokol Brozany,36739,2,0,,,,,,
+team,78490,Divize C 25/26,20947,14261748,1,2025-08-09 15:00,FK Slovan Hradek Nad Nisou 1910,530541,FK Čáslav,6069,0,1,,,,,,
+previous,77725,CFL 25/26,9387,14131104,1,2025-08-10 08:15,FC Hradec Kralove B,323615,SK Zápy,53098,0,0,,,,,,
+previous,77725,CFL 25/26,9387,14131109,1,2025-08-10 08:15,Slovan Liberec U21,105803,SK Benátky nad Jizerou,228538,2,3,,,,,,
+previous,77725,CFL 25/26,9387,14131107,1,2025-08-10 15:00,FK Varnsdorf,34789,FK Teplice B,323614,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131110,1,2025-08-10 15:00,Sokol Hostouň,246010,1.FK Příbram B,321884,1,0,,,,,,
+previous,77725,CFL 25/26,9387,14131113,2,2025-08-15 16:00,FK Neratovice-Byškovice,76771,Arsenal Česká Lípa,37113,0,2,,,,,,
+previous,77725,CFL 25/26,9387,14131112,2,2025-08-16 08:00,SK Sparta Kolín,34794,FK Teplice B,323614,4,1,,,,,,
+previous,77725,CFL 25/26,9387,14131115,2,2025-08-16 08:00,1.FK Příbram B,321884,Dukla Praha B,323618,0,1,,,,,,
+team,77015,FNL 25/26,205,14074349,6,2025-08-16 08:15,FK Viktoria Žižkov,2211,SK Dynamo České Budějovice,2221,0,1,,,,,,
+previous,77725,CFL 25/26,9387,14131116,2,2025-08-16 08:15,SK Aritma Praha,165784,FC Písek,25417,0,0,,,,,,
+team,78490,Divize C 25/26,20947,14365101,2,2025-08-16 08:15,FK Horní Ředice,530539,Trutnov,43657,2,4,,,,,,
+previous,77725,CFL 25/26,9387,14131117,2,2025-08-16 08:30,SK Dynamo Ceske Budejovice B,333482,Loko Vltavín,53133,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131125,2,2025-08-16 15:00,TJ Jiskra Ústí nad Orlicí,35252,FK Varnsdorf,34789,3,0,,,,,,
+team,78489,Divize A 25/26,20945,14400639,2,2025-08-16 15:00,FK Tachov,76759,FK Benešov,53088,0,6,,,,,,
+previous,77725,CFL 25/26,9387,14131118,2,2025-08-17 08:15,Bohemians Praha 1905 B,323620,Petrin Plzen,106317,4,3,,,,,,
+previous,77725,CFL 25/26,9387,14131126,2,2025-08-17 08:15,FK Pardubice B,323619,Slovan Velvary,228544,4,1,,,,,,
+previous,77725,CFL 25/26,9387,14131127,2,2025-08-17 08:30,Viktoria Plzeň B,321886,SK Kladno,2223,0,3,,,,,,
+team,77015,FNL 25/26,205,14074353,6,2025-08-17 12:30,Baník Ostrava B,323652,MFK Chrudim,36741,2,2,,,,,,
+previous,77725,CFL 25/26,9387,14131119,2,2025-08-17 15:00,Králův Dvůr,25418,SK Slavia Prague C U20,1105328,1,0,,,,,,
+previous,77725,CFL 25/26,9387,14131120,2,2025-08-17 15:00,SK Benátky nad Jizerou,228538,FK Jablonec B,322634,2,2,,,,,,
+previous,77725,CFL 25/26,9387,14131122,2,2025-08-17 15:00,Velke Hamry,281864,Slovan Liberec U21,105803,3,3,,,,,,
+previous,77725,CFL 25/26,9387,14131123,2,2025-08-17 15:00,SK Sokol Brozany,36739,FC Hradec Kralove B,323615,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131128,2,2025-08-17 15:00,MAS Táborsko II,229341,SK Motorlet Praha,201953,3,2,,,,,,
+previous,77725,CFL 25/26,9387,14131129,2,2025-08-17 15:00,Sokol Hostouň,246010,FK Admira Praha,37114,0,2,,,,,,
+previous,77725,CFL 25/26,9387,14131130,2,2025-08-17 15:00,SK Zápy,53098,FK Most-Baník Souš,53089,2,0,,,,,,
+team,78490,Divize C 25/26,20947,14391060,2,2025-08-17 15:00,Turnov,24785,FK Čáslav,6069,1,5,,,,,,
+team,78489,Divize A 25/26,20945,14400648,2,2025-08-17 15:00,FC Zvvz Milevsko,109793,Povltavska FA,53101,1,4,,,,,,
+team,77015,FNL 25/26,205,14407142,6,2025-08-17 15:00,FC Sellier & Bellot Vlašim,36024,Sparta Praha B U21,4866,1,2,,,,,,
+team,77015,FNL 25/26,205,14074358,7,2025-08-22 16:00,MFK Chrudim,36741,FC Zbrojovka Brno,2210,0,1,,,,,,
+team,77015,FNL 25/26,205,14074364,7,2025-08-22 16:00,SK Dynamo České Budějovice,2221,Sparta Praha B U21,4866,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131139,3,2025-08-22 16:00,SK Kladno,2223,Bohemians Praha 1905 B,323620,3,2,,,,,,
+previous,77725,CFL 25/26,9387,14131131,3,2025-08-23 08:15,Mladá Boleslav B,323616,SK Benátky nad Jizerou,228538,1,4,,,,,,
+previous,77725,CFL 25/26,9387,14131134,3,2025-08-23 08:15,FC Písek,25417,SK Dynamo Ceske Budejovice B,333482,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131136,3,2025-08-23 08:15,SK Motorlet Praha,201953,SK Aritma Praha,165784,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131138,3,2025-08-23 08:15,Petrin Plzen,106317,Králův Dvůr,25418,2,0,,,,,,
+team,78489,Divize A 25/26,20945,14469086,3,2025-08-23 08:15,FK Benešov,53088,Hluboka,314796,3,2,,,,,,
+team,78489,Divize A 25/26,20945,14469091,3,2025-08-23 08:15,Povltavska FA,53101,SK Senco Doubravka,43656,3,1,,,,,,
+previous,77725,CFL 25/26,9387,14131141,3,2025-08-23 12:00,FK Most-Baník Souš,53089,SK Sokol Brozany,36739,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131143,3,2025-08-23 13:00,Slovan Velvary,228544,SK Zápy,53098,3,3,,,,,,
+previous,77725,CFL 25/26,9387,14131133,3,2025-08-23 15:00,TJ Jiskra Domažlice,24775,Sokol Hostouň,246010,1,4,,,,,,
+team,78490,Divize C 25/26,20947,14391065,3,2025-08-23 15:00,FK Náchod,2222,FK Horní Ředice,530539,1,3,,,,,,
+previous,77725,CFL 25/26,9387,14131140,3,2025-08-24 08:15,FC Hradec Kralove B,323615,FK Neratovice-Byškovice,76771,4,0,,,,,,
+previous,77725,CFL 25/26,9387,14131148,3,2025-08-24 08:15,Slovan Liberec U21,105803,SK Sparta Kolín,34794,0,2,,,,,,
+previous,77725,CFL 25/26,9387,14131149,3,2025-08-24 08:15,FK Jablonec B,322634,Velke Hamry,281864,3,0,,,,,,
+previous,77725,CFL 25/26,9387,14131150,3,2025-08-24 08:15,Dukla Praha B,323618,Viktoria Plzeň B,321886,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131146,3,2025-08-24 09:00,FK Teplice B,323614,TJ Jiskra Ústí nad Orlicí,35252,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131137,3,2025-08-24 15:00,SK Slavia Prague C U20,1105328,MAS Táborsko II,229341,3,0,,,,,,
+previous,77725,CFL 25/26,9387,14131144,3,2025-08-24 15:00,FK Varnsdorf,34789,FK Pardubice B,323619,1,1,,,,,,
+team,78490,Divize C 25/26,20947,14302182,3,2025-08-24 15:00,FK Čáslav,6069,Spartak Police Nad Metuji,530540,4,0,,,,,,
+previous,77725,CFL 25/26,9387,14131152,4,2025-08-30 08:00,SK Sparta Kolín,34794,TJ Jiskra Ústí nad Orlicí,35252,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131155,4,2025-08-30 08:15,SK Aritma Praha,165784,SK Slavia Prague C U20,1105328,3,3,,,,,,
+team,78490,Divize C 25/26,20947,14231915,4,2025-08-30 08:15,FK Horní Ředice,530539,FK Čáslav,6069,2,4,,,,,,
+team,78489,Divize A 25/26,20945,14535922,4,2025-08-30 08:15,FC Krimice,939463,Povltavska FA,53101,1,2,,,,,,
+team,77015,FNL 25/26,205,14074365,8,2025-08-31 08:15,SK Slavia Praha B,324982,MFK Chrudim,36741,5,0,,,,,,
+previous,77725,CFL 25/26,9387,14099011,4,2025-08-31 08:15,FK Admira Praha,37114,TJ Jiskra Domažlice,24775,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131159,4,2025-08-31 08:15,Bohemians Praha 1905 B,323620,Dukla Praha B,323618,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131164,4,2025-08-31 08:15,Slovan Liberec U21,105803,FK Jablonec B,322634,1,3,,,,,,
+previous,77725,CFL 25/26,9387,14131166,4,2025-08-31 08:15,FK Pardubice B,323619,FK Teplice B,323614,2,3,,,,,,
+team,77015,FNL 25/26,205,14074369,8,2025-08-31 08:30,Sparta Praha B U21,4866,FC Silon Táborsko,24782,1,3,,,,,,
+previous,77725,CFL 25/26,9387,14131163,4,2025-08-31 08:30,Velke Hamry,281864,Mladá Boleslav B,323616,4,0,,,,,,
+previous,77725,CFL 25/26,9387,14099044,4,2025-08-31 15:00,Sokol Hostouň,246010,Loko Vltavín,53133,2,3,,,,,,
+previous,77725,CFL 25/26,9387,14099045,4,2025-08-31 15:00,MAS Táborsko II,229341,Petrin Plzen,106317,1,0,,,,,,
+previous,77725,CFL 25/26,9387,14099055,4,2025-08-31 15:00,SK Zápy,53098,FK Varnsdorf,34789,5,0,,,,,,
+previous,77725,CFL 25/26,9387,14131153,4,2025-08-31 15:00,FK Neratovice-Byškovice,76771,FK Most-Baník Souš,53089,0,3,,,,,,
+previous,77725,CFL 25/26,9387,14131156,4,2025-08-31 15:00,SK Dynamo Ceske Budejovice B,333482,SK Motorlet Praha,201953,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131158,4,2025-08-31 15:00,1.FK Příbram B,321884,Viktoria Plzeň B,321886,1,3,,,,,,
+previous,77725,CFL 25/26,9387,14131161,4,2025-08-31 15:00,Králův Dvůr,25418,SK Kladno,2223,0,4,,,,,,
+previous,77725,CFL 25/26,9387,14131162,4,2025-08-31 15:00,SK Benátky nad Jizerou,228538,Arsenal Česká Lípa,37113,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131167,4,2025-08-31 15:00,SK Sokol Brozany,36739,Slovan Velvary,228544,2,1,,,,,,
+team,78489,Divize A 25/26,20945,14535927,4,2025-08-31 15:00,TJ Jiskra Domažlice II,319342,FK Benešov,53088,0,3,,,,,,
+team,77015,FNL 25/26,205,14074371,8,2025-08-31 16:00,FK VIAGEM Ústí nad Labem,4868,SK Dynamo České Budějovice,2221,3,2,,,,,,
+previous,77725,CFL 25/26,9387,14501105,3,2025-09-03 15:00,FK Admira Praha,37114,1.FK Příbram B,321884,1,0,,,,,,
+previous,77725,CFL 25/26,9387,14131169,5,2025-09-04 08:30,Mladá Boleslav B,323616,Slovan Liberec U21,105803,2,2,,,,,,
+previous,77725,CFL 25/26,9387,14131177,5,2025-09-05 15:00,SK Kladno,2223,MAS Táborsko II,229341,4,1,,,,,,
+previous,77725,CFL 25/26,9387,14131173,5,2025-09-05 16:30,FC Písek,25417,Sokol Hostouň,246010,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131172,5,2025-09-06 08:15,Loko Vltavín,53133,FK Admira Praha,37114,1,3,,,,,,
+previous,77725,CFL 25/26,9387,14131174,5,2025-09-06 08:15,SK Slavia Prague C U20,1105328,SK Dynamo Ceske Budejovice B,333482,2,2,,,,,,
+previous,77725,CFL 25/26,9387,14131176,5,2025-09-06 08:15,Petrin Plzen,106317,SK Aritma Praha,165784,3,3,,,,,,
+previous,77725,CFL 25/26,9387,14131186,5,2025-09-06 08:15,FK Jablonec B,322634,SK Sparta Kolín,34794,5,2,,,,,,
+team,78489,Divize A 25/26,20945,14589570,5,2025-09-06 08:15,FK Benešov,53088,FK Spartak Soběslav,259976,6,1,,,,,,
+team,78489,Divize A 25/26,20945,14589572,5,2025-09-06 08:15,Povltavska FA,53101,Tj Ligmet Milin,530543,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131184,5,2025-09-06 09:00,FK Teplice B,323614,SK Zápy,53098,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131182,5,2025-09-06 13:00,Slovan Velvary,228544,FK Neratovice-Byškovice,76771,3,3,,,,,,
+previous,77725,CFL 25/26,9387,14131171,5,2025-09-06 15:00,TJ Jiskra Domažlice,24775,1.FK Příbram B,321884,0,2,,,,,,
+previous,77725,CFL 25/26,9387,14131179,5,2025-09-06 15:00,Arsenal Česká Lípa,37113,Velke Hamry,281864,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131185,5,2025-09-06 15:00,TJ Jiskra Ústí nad Orlicí,35252,FK Pardubice B,323619,1,1,,,,,,
+team,78490,Divize C 25/26,20947,14391075,5,2025-09-06 15:00,FK Dobrovice,36487,FK Horní Ředice,530539,1,4,,,,,,
+previous,77725,CFL 25/26,9387,14131180,5,2025-09-07 08:15,FC Hradec Kralove B,323615,SK Benátky nad Jizerou,228538,4,2,,,,,,
+previous,77725,CFL 25/26,9387,14131188,5,2025-09-07 08:15,Dukla Praha B,323618,Králův Dvůr,25418,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131189,5,2025-09-07 08:30,Viktoria Plzeň B,321886,Bohemians Praha 1905 B,323620,4,2,,,,,,
+previous,77725,CFL 25/26,9387,14131183,5,2025-09-07 15:00,FK Varnsdorf,34789,SK Sokol Brozany,36739,1,1,,,,,,
+team,78490,Divize C 25/26,20947,14391077,5,2025-09-07 15:00,FK Čáslav,6069,FK Brandys Nad Labem,202106,3,0,,,,,,
+previous,77725,CFL 25/26,9387,14131191,17,2025-09-10 08:30,Viktoria Plzeň B,321886,SK Slavia Prague C U20,1105328,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131193,17,2025-09-10 15:00,Bohemians Praha 1905 B,323620,SK Motorlet Praha,201953,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131194,17,2025-09-10 15:00,Králův Dvůr,25418,FC Písek,25417,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131195,17,2025-09-10 15:00,MAS Táborsko II,229341,Loko Vltavín,53133,2,2,,,,,,
+previous,77725,CFL 25/26,9387,14131196,17,2025-09-10 15:00,SK Aritma Praha,165784,TJ Jiskra Domažlice,24775,0,1,,,,,,
+previous,77725,CFL 25/26,9387,14131197,17,2025-09-10 15:00,SK Dynamo Ceske Budejovice B,333482,FK Admira Praha,37114,0,0,,,,,,
+previous,77725,CFL 25/26,9387,14131199,17,2025-09-10 15:00,SK Kladno,2223,1.FK Příbram B,321884,5,2,,,,,,
+previous,77725,CFL 25/26,9387,14131200,17,2025-09-10 15:00,Dukla Praha B,323618,Petrin Plzen,106317,3,1,,,,,,
+previous,77725,CFL 25/26,9387,14131201,17,2025-09-10 15:00,FK Varnsdorf,34789,SK Sparta Kolín,34794,2,2,,,,,,
+previous,77725,CFL 25/26,9387,14131203,17,2025-09-10 15:00,FK Teplice B,323614,Slovan Velvary,228544,5,1,,,,,,
+previous,77725,CFL 25/26,9387,14131205,17,2025-09-10 15:00,TJ Jiskra Ústí nad Orlicí,35252,FK Most-Baník Souš,53089,0,2,,,,,,
+previous,77725,CFL 25/26,9387,14131206,17,2025-09-10 15:00,FK Pardubice B,323619,FC Hradec Kralove B,323615,0,4,,,,,,
+previous,77725,CFL 25/26,9387,14131207,17,2025-09-10 15:00,SK Zápy,53098,Arsenal Česká Lípa,37113,3,2,,,,,,
+previous,77725,CFL 25/26,9387,14131208,17,2025-09-10 15:00,SK Sokol Brozany,36739,Mladá Boleslav B,323616,0,2,,,,,,
+previous,77725,CFL 25/26,9387,14131211,17,2025-09-10 15:00,SK Benátky nad Jizerou,228538,Velke Hamry,281864,0,1,,,,,,
+team,77015,FNL 25/26,205,14074380,9,2025-09-12 16:00,SK Dynamo České Budějovice,2221,FC Silon Táborsko,24782,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131212,6,2025-09-13 08:00,SK Sparta Kolín,34794,FK Pardubice B,323619,2,2,,,,,,
+previous,77725,CFL 25/26,9387,14131215,6,2025-09-13 08:00,1.FK Příbram B,321884,Bohemians Praha 1905 B,323620,2,1,,,,,,
+team,77015,FNL 25/26,205,14074376,9,2025-09-13 08:15,MFK Chrudim,36741,FK VIAGEM Ústí nad Labem,4868,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131147,6,2025-09-13 08:15,SK Aritma Praha,165784,SK Kladno,2223,0,2,,,,,,
+previous,77725,CFL 25/26,9387,14131213,6,2025-09-13 08:15,FK Neratovice-Byškovice,76771,FK Varnsdorf,34789,4,3,,,,,,
+previous,77725,CFL 25/26,9387,14131216,6,2025-09-13 08:15,FK Jablonec B,322634,Mladá Boleslav B,323616,2,1,,,,,,
+team,78490,Divize C 25/26,20947,14391080,6,2025-09-13 08:15,FK Horní Ředice,530539,Vysoké Mýto,106309,2,0,,,,,,
+team,78489,Divize A 25/26,20945,14643845,6,2025-09-13 08:15,TJ Prestice,259934,Povltavska FA,53101,1,4,,,,,,
+previous,77725,CFL 25/26,9387,14131160,6,2025-09-13 08:30,SK Dynamo Ceske Budejovice B,333482,Petrin Plzen,106317,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131217,6,2025-09-13 08:30,Králův Dvůr,25418,Viktoria Plzeň B,321886,1,1,,,,,,
+team,78490,Divize C 25/26,20947,14391082,6,2025-09-13 08:30,FC Hlinsko,53130,FK Čáslav,6069,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131170,6,2025-09-13 15:00,TJ Jiskra Domažlice,24775,Loko Vltavín,53133,2,0,,,,,,
+team,77015,FNL 25/26,205,14074379,9,2025-09-13 17:00,SK Artis Brno,35264,Sparta Praha B U21,4866,5,0,,,,,,
+previous,77725,CFL 25/26,9387,14131204,6,2025-09-14 08:15,Slovan Liberec U21,105803,Arsenal Česká Lípa,37113,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131223,6,2025-09-14 08:15,FK Admira Praha,37114,FC Písek,25417,0,1,,,,,,
+previous,77725,CFL 25/26,9387,14131192,6,2025-09-14 08:30,Velke Hamry,281864,FC Hradec Kralove B,323615,0,1,,,,,,
+previous,77725,CFL 25/26,9387,14131226,6,2025-09-14 15:00,Sokol Hostouň,246010,SK Motorlet Praha,201953,1,0,,,,,,
+previous,77725,CFL 25/26,9387,14131229,6,2025-09-14 15:00,MAS Táborsko II,229341,Dukla Praha B,323618,1,2,,,,,,
+team,78489,Divize A 25/26,20945,14643870,6,2025-09-14 15:00,FC Zvvz Milevsko,109793,FK Benešov,53088,0,3,,,,,,
+team,77015,FNL 25/26,205,14716710,1,2025-09-16 16:00,SK Artis Brno,35264,MFK Chrudim,36741,0,0,,,,,,
+previous,77725,CFL 25/26,9387,14131235,7,2025-09-18 13:30,Mladá Boleslav B,323616,SK Sparta Kolín,34794,1,1,,,,,,
+team,77015,FNL 25/26,205,14074381,10,2025-09-19 15:00,FC Sellier & Bellot Vlašim,36024,MFK Chrudim,36741,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131244,7,2025-09-19 16:00,FC Písek,25417,TJ Jiskra Domažlice,24775,3,1,,,,,,
+previous,77725,CFL 25/26,9387,14131240,7,2025-09-20 08:15,Loko Vltavín,53133,1.FK Příbram B,321884,3,2,,,,,,
+previous,77725,CFL 25/26,9387,14131247,7,2025-09-20 08:15,SK Motorlet Praha,201953,FK Admira Praha,37114,1,2,,,,,,
+team,78489,Divize A 25/26,20945,14689740,7,2025-09-20 08:15,FK Benešov,53088,SK Senco Doubravka,43656,3,0,,,,,,
+team,78489,Divize A 25/26,20945,14689743,7,2025-09-20 08:15,Povltavska FA,53101,FK Komarov,259968,2,0,,,,,,
+team,78490,Divize C 25/26,20947,14391088,7,2025-09-20 08:30,FK Přepeře,292625,FK Horní Ředice,530539,3,0,,,,,,
+previous,77725,CFL 25/26,9387,14131262,7,2025-09-20 13:00,FK Most-Baník Souš,53089,Velke Hamry,281864,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131265,7,2025-09-20 13:00,Slovan Velvary,228544,SK Benátky nad Jizerou,228538,2,3,,,,,,
+team,77015,FNL 25/26,205,14074387,10,2025-09-20 14:30,SK Hanácká Slavia Kroměříž,4865,SK Dynamo České Budějovice,2221,1,0,,,,,,
+previous,77725,CFL 25/26,9387,14131253,7,2025-09-20 14:30,SK Kladno,2223,SK Dynamo Ceske Budejovice B,333482,4,1,,,,,,
+previous,77725,CFL 25/26,9387,14131256,7,2025-09-20 14:30,Arsenal Česká Lípa,37113,FK Jablonec B,322634,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131270,7,2025-09-20 14:30,TJ Jiskra Ústí nad Orlicí,35252,SK Sokol Brozany,36739,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131238,7,2025-09-21 08:15,Bohemians Praha 1905 B,323620,Králův Dvůr,25418,2,3,,,,,,
+previous,77725,CFL 25/26,9387,14131259,7,2025-09-21 08:15,FC Hradec Kralove B,323615,Slovan Liberec U21,105803,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131272,7,2025-09-21 08:15,FK Pardubice B,323619,SK Zápy,53098,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131275,7,2025-09-21 08:15,Dukla Praha B,323618,SK Aritma Praha,165784,0,1,,,,,,
+previous,77725,CFL 25/26,9387,14131277,7,2025-09-21 08:30,Viktoria Plzeň B,321886,MAS Táborsko II,229341,4,0,,,,,,
+previous,77725,CFL 25/26,9387,14131268,7,2025-09-21 12:00,FK Teplice B,323614,FK Neratovice-Byškovice,76771,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131250,7,2025-09-21 14:30,SK Slavia Prague C U20,1105328,Sokol Hostouň,246010,4,0,,,,,,
+team,78490,Divize C 25/26,20947,14391093,7,2025-09-21 14:30,FK Čáslav,6069,Svitavy,2231,5,0,,,,,,
+previous,77725,CFL 25/26,9387,14754792,6,2025-09-24 14:30,SK Benátky nad Jizerou,228538,FK Most-Baník Souš,53089,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14786385,6,2025-09-24 14:30,SK Zápy,53098,TJ Jiskra Ústí nad Orlicí,35252,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131232,6,2025-09-24 15:00,SK Zápy,53098,TJ Jiskra Ústí nad Orlicí,35252,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131279,8,2025-09-27 08:00,SK Sparta Kolín,34794,SK Zápy,53098,2,3,,,,,,
+team,77015,FNL 25/26,205,14074389,11,2025-09-27 08:15,MFK Chrudim,36741,SK Hanácká Slavia Kroměříž,4865,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131282,8,2025-09-27 08:15,FK Admira Praha,37114,SK Slavia Prague C U20,1105328,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131284,8,2025-09-27 08:15,FK Neratovice-Byškovice,76771,TJ Jiskra Ústí nad Orlicí,35252,3,0,,,,,,
+previous,77725,CFL 25/26,9387,14131286,8,2025-09-27 08:15,Mladá Boleslav B,323616,Arsenal Česká Lípa,37113,0,3,,,,,,
+previous,77725,CFL 25/26,9387,14131290,8,2025-09-27 08:15,Loko Vltavín,53133,FC Písek,25417,1,0,,,,,,
+previous,77725,CFL 25/26,9387,14131294,8,2025-09-27 08:15,SK Aritma Praha,165784,Viktoria Plzeň B,321886,3,4,,,,,,
+previous,77725,CFL 25/26,9387,14131305,8,2025-09-27 08:15,FK Jablonec B,322634,FC Hradec Kralove B,323615,0,3,,,,,,
+team,78490,Divize C 25/26,20947,14391095,8,2025-09-27 08:15,FK Horní Ředice,530539,MFK Chrudim B,318907,4,1,,,,,,
+team,78489,Divize A 25/26,20945,14741674,8,2025-09-27 08:15,FC Krimice,939463,FK Benešov,53088,0,2,,,,,,
+previous,77725,CFL 25/26,9387,14131296,8,2025-09-27 08:30,SK Dynamo Ceske Budejovice B,333482,Dukla Praha B,323618,1,3,,,,,,
+previous,77725,CFL 25/26,9387,14131300,8,2025-09-27 08:30,Velke Hamry,281864,Slovan Velvary,228544,3,1,,,,,,
+team,78490,Divize C 25/26,20947,14391098,8,2025-09-27 08:30,SK Kosmonosy,334891,FK Čáslav,6069,2,1,,,,,,
+team,77015,FNL 25/26,205,14074391,11,2025-09-27 14:00,Slezský FC Opava,2215,Sparta Praha B U21,4866,4,0,,,,,,
+previous,77725,CFL 25/26,9387,14131288,8,2025-09-27 14:30,TJ Jiskra Domažlice,24775,SK Motorlet Praha,201953,2,0,,,,,,
+team,78489,Divize A 25/26,20945,14741679,8,2025-09-27 14:30,FC Rokycany,76763,Povltavska FA,53101,1,1,,,,,,
+team,77015,FNL 25/26,205,14074395,11,2025-09-27 16:00,SK Dynamo České Budějovice,2221,SK Artis Brno,35264,0,2,,,,,,
+previous,77725,CFL 25/26,9387,14131292,8,2025-09-28 08:00,1.FK Příbram B,321884,Králův Dvůr,25418,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131303,8,2025-09-28 08:15,Slovan Liberec U21,105803,FK Most-Baník Souš,53089,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131298,8,2025-09-28 14:30,SK Benátky nad Jizerou,228538,FK Varnsdorf,34789,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131307,8,2025-09-28 14:30,SK Sokol Brozany,36739,FK Pardubice B,323619,1,5,,,,,,
+previous,77725,CFL 25/26,9387,14131309,8,2025-09-28 14:30,Sokol Hostouň,246010,Petrin Plzen,106317,5,2,,,,,,
+previous,77725,CFL 25/26,9387,14131311,8,2025-09-28 14:30,MAS Táborsko II,229341,Bohemians Praha 1905 B,323620,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14665631,17,2025-10-01 14:00,FK Neratovice-Byškovice,76771,FK Jablonec B,322634,0,1,,,,,,
+team,77015,FNL 25/26,205,14203091,12,2025-10-03 16:00,SK Dynamo České Budějovice,2221,1.FK Příbram,2213,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131313,9,2025-10-04 08:15,FC Písek,25417,1.FK Příbram B,321884,2,2,,,,,,
+previous,77725,CFL 25/26,9387,14131315,9,2025-10-04 08:15,SK Motorlet Praha,201953,Loko Vltavín,53133,0,1,,,,,,
+previous,77725,CFL 25/26,9387,14131319,9,2025-10-04 08:15,Petrin Plzen,106317,FK Admira Praha,37114,2,2,,,,,,
+team,78489,Divize A 25/26,20945,14792862,9,2025-10-04 08:15,FK Benešov,53088,Tj Ligmet Milin,530543,1,0,,,,,,
+team,78489,Divize A 25/26,20945,14792864,9,2025-10-04 08:15,Povltavska FA,53101,FK Tachov,76759,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131326,9,2025-10-04 08:30,Králův Dvůr,25418,MAS Táborsko II,229341,5,3,,,,,,
+previous,77725,CFL 25/26,9387,14131332,9,2025-10-04 13:00,FK Most-Baník Souš,53089,FK Jablonec B,322634,1,0,,,,,,
+previous,77725,CFL 25/26,9387,14131334,9,2025-10-04 13:00,Slovan Velvary,228544,Slovan Liberec U21,105803,3,5,,,,,,
+previous,77725,CFL 25/26,9387,14131321,9,2025-10-04 14:00,SK Kladno,2223,Sokol Hostouň,246010,3,0,,,,,,
+previous,77725,CFL 25/26,9387,14131328,9,2025-10-04 14:00,Arsenal Česká Lípa,37113,SK Sparta Kolín,34794,3,2,,,,,,
+previous,77725,CFL 25/26,9387,14131317,9,2025-10-05 08:15,SK Slavia Prague C U20,1105328,TJ Jiskra Domažlice,24775,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131323,9,2025-10-05 08:15,Bohemians Praha 1905 B,323620,SK Aritma Praha,165784,6,0,,,,,,
+previous,77725,CFL 25/26,9387,14131330,9,2025-10-05 08:15,FC Hradec Kralove B,323615,Mladá Boleslav B,323616,2,3,,,,,,
+previous,77725,CFL 25/26,9387,14131340,9,2025-10-05 08:15,FK Pardubice B,323619,FK Neratovice-Byškovice,76771,4,2,,,,,,
+team,77015,FNL 25/26,205,14074401,12,2025-10-05 08:30,Sparta Praha B U21,4866,MFK Chrudim,36741,2,3,,,,,,
+previous,77725,CFL 25/26,9387,14131342,9,2025-10-05 08:30,Viktoria Plzeň B,321886,SK Dynamo Ceske Budejovice B,333482,3,1,,,,,,
+previous,77725,CFL 25/26,9387,14131338,9,2025-10-05 09:00,FK Teplice B,323614,SK Benátky nad Jizerou,228538,1,1,,,,,,
+team,78490,Divize C 25/26,20947,14391108,9,2025-10-05 13:00,FK Slovan Hradek Nad Nisou 1910,530541,FK Horní Ředice,530539,3,0,,,,,,
+previous,77725,CFL 25/26,9387,14131336,9,2025-10-05 14:00,FK Varnsdorf,34789,Velke Hamry,281864,1,5,,,,,,
+previous,77725,CFL 25/26,9387,14131344,9,2025-10-05 14:00,SK Zápy,53098,SK Sokol Brozany,36739,3,1,,,,,,
+team,78490,Divize C 25/26,20947,14391110,9,2025-10-05 14:00,FK Čáslav,6069,Trutnov,43657,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131433,10,2025-10-10 13:00,Slovan Liberec U21,105803,FK Varnsdorf,34789,5,0,,,,,,
+previous,77725,CFL 25/26,9387,14131346,10,2025-10-11 08:00,SK Sparta Kolín,34794,SK Sokol Brozany,36739,2,2,,,,,,
+previous,77725,CFL 25/26,9387,14131369,10,2025-10-11 08:00,1.FK Příbram B,321884,MAS Táborsko II,229341,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131349,10,2025-10-11 08:15,FK Neratovice-Byškovice,76771,SK Zápy,53098,0,2,,,,,,
+previous,77725,CFL 25/26,9387,14131351,10,2025-10-11 08:15,Mladá Boleslav B,323616,FK Most-Baník Souš,53089,3,1,,,,,,
+previous,77725,CFL 25/26,9387,14131357,10,2025-10-11 08:15,Loko Vltavín,53133,SK Slavia Prague C U20,1105328,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131360,10,2025-10-11 08:15,FC Písek,25417,SK Motorlet Praha,201953,2,3,,,,,,
+previous,77725,CFL 25/26,9387,14131380,10,2025-10-11 08:15,SK Aritma Praha,165784,Králův Dvůr,25418,3,1,,,,,,
+team,78490,Divize C 25/26,20947,14391111,10,2025-10-11 08:15,FK Horní Ředice,530539,Turnov,24785,3,1,,,,,,
+team,78489,Divize A 25/26,20945,14837453,10,2025-10-11 08:15,Povltavska FA,53101,Slavoj Cesky Krumlov,76761,3,0,,,,,,
+team,78489,Divize A 25/26,20945,14837454,10,2025-10-11 08:15,TJ Prestice,259934,FK Benešov,53088,1,3,,,,,,
+previous,77725,CFL 25/26,9387,14131444,10,2025-10-11 08:20,FK Jablonec B,322634,Slovan Velvary,228544,1,0,,,,,,
+previous,77725,CFL 25/26,9387,14131391,10,2025-10-11 08:30,SK Dynamo Ceske Budejovice B,333482,Bohemians Praha 1905 B,323620,1,3,,,,,,
+previous,77725,CFL 25/26,9387,14131354,10,2025-10-11 13:30,TJ Jiskra Domažlice,24775,Petrin Plzen,106317,4,3,,,,,,
+previous,77725,CFL 25/26,9387,14131402,10,2025-10-11 13:30,Arsenal Česká Lípa,37113,FC Hradec Kralove B,323615,2,1,,,,,,
+team,78490,Divize C 25/26,20947,14391115,10,2025-10-11 14:00,FK Náchod,2222,FK Čáslav,6069,0,3,,,,,,
+previous,77725,CFL 25/26,9387,14901457,10,2025-10-12 08:15,FK Admira Praha,37114,SK Kladno,2223,0,5,,,,,,
+previous,77725,CFL 25/26,9387,14131422,10,2025-10-12 08:30,Velke Hamry,281864,FK Teplice B,323614,0,2,,,,,,
+previous,77725,CFL 25/26,9387,14131411,10,2025-10-12 13:30,SK Benátky nad Jizerou,228538,TJ Jiskra Ústí nad Orlicí,35252,2,2,,,,,,
+previous,77725,CFL 25/26,9387,14131455,10,2025-10-12 13:30,Sokol Hostouň,246010,Dukla Praha B,323618,1,3,,,,,,
+team,77015,FNL 25/26,205,14074409,13,2025-10-17 15:30,Vysočina Jihlava,4863,SK Dynamo České Budějovice,2221,0,1,,,,,,
+team,77015,FNL 25/26,205,14074406,13,2025-10-17 16:00,1. SK Prostějov,76775,Sparta Praha B U21,4866,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131476,11,2025-10-18 08:15,SK Motorlet Praha,201953,1.FK Příbram B,321884,0,4,,,,,,
+previous,77725,CFL 25/26,9387,14131478,11,2025-10-18 08:15,SK Slavia Prague C U20,1105328,FC Písek,25417,1,0,,,,,,
+previous,77725,CFL 25/26,9387,14131480,11,2025-10-18 08:15,Petrin Plzen,106317,Loko Vltavín,53133,1,0,,,,,,
+team,78489,Divize A 25/26,20945,14879045,11,2025-10-18 08:15,FK Benešov,53088,FK Komarov,259968,5,0,,,,,,
+previous,77725,CFL 25/26,9387,14131466,11,2025-10-18 08:30,Králův Dvůr,25418,SK Dynamo Ceske Budejovice B,333482,3,1,,,,,,
+previous,77725,CFL 25/26,9387,14131482,11,2025-10-18 12:30,SK Kladno,2223,TJ Jiskra Domažlice,24775,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131486,11,2025-10-18 13:00,FK Most-Baník Souš,53089,Arsenal Česká Lípa,37113,1,3,,,,,,
+previous,77725,CFL 25/26,9387,14131488,11,2025-10-18 13:00,Slovan Velvary,228544,Mladá Boleslav B,323616,0,3,,,,,,
+previous,77725,CFL 25/26,9387,14131494,11,2025-10-18 13:30,TJ Jiskra Ústí nad Orlicí,35252,Velke Hamry,281864,1,1,,,,,,
+team,78489,Divize A 25/26,20945,14879047,11,2025-10-18 13:30,SK Hořovice,423305,Povltavska FA,53101,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131484,11,2025-10-19 08:15,FC Hradec Kralove B,323615,SK Sparta Kolín,34794,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131496,11,2025-10-19 08:15,FK Pardubice B,323619,SK Benátky nad Jizerou,228538,5,1,,,,,,
+previous,77725,CFL 25/26,9387,14131500,11,2025-10-19 08:15,Dukla Praha B,323618,FK Admira Praha,37114,2,2,,,,,,
+previous,77725,CFL 25/26,9387,14131502,11,2025-10-19 08:30,Viktoria Plzeň B,321886,Sokol Hostouň,246010,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131492,11,2025-10-19 12:00,FK Teplice B,323614,Slovan Liberec U21,105803,4,0,,,,,,
+previous,77725,CFL 25/26,9387,14131490,11,2025-10-19 12:30,FK Varnsdorf,34789,FK Jablonec B,322634,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131498,11,2025-10-19 12:30,SK Sokol Brozany,36739,FK Neratovice-Byškovice,76771,0,1,,,,,,
+previous,77725,CFL 25/26,9387,14131504,11,2025-10-19 12:30,MAS Táborsko II,229341,SK Aritma Praha,165784,0,2,,,,,,
+team,78490,Divize C 25/26,20947,14391121,11,2025-10-19 13:30,Spartak Police Nad Metuji,530540,FK Horní Ředice,530539,0,4,,,,,,
+team,78490,Divize C 25/26,20947,14391122,11,2025-10-19 13:30,FK Čáslav,6069,FK Chlumec nad Cidlinou,323617,1,0,,,,,,
+team,77015,FNL 25/26,205,14074405,13,2025-10-20 16:00,MFK Chrudim,36741,FC Silon Táborsko,24782,0,3,,,,,,
+team,77015,FNL 25/26,205,14884813,10,2025-10-21 16:00,Sparta Praha B U21,4866,1.FK Příbram,2213,0,1,,,,,,
+team,77015,FNL 25/26,205,14074419,14,2025-10-24 16:00,SK Dynamo České Budějovice,2221,1. SK Prostějov,76775,1,0,,,,,,
+previous,77725,CFL 25/26,9387,14131518,12,2025-10-24 16:30,FC Písek,25417,Petrin Plzen,106317,4,0,,,,,,
+previous,77725,CFL 25/26,9387,14131506,12,2025-10-25 08:00,SK Sparta Kolín,34794,FK Neratovice-Byškovice,76771,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131145,12,2025-10-25 08:15,FK Jablonec B,322634,FK Teplice B,323614,1,0,,,,,,
+previous,77725,CFL 25/26,9387,14131516,12,2025-10-25 08:15,Loko Vltavín,53133,SK Kladno,2223,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131520,12,2025-10-25 08:15,SK Motorlet Praha,201953,SK Slavia Prague C U20,1105328,0,2,,,,,,
+team,78489,Divize A 25/26,20945,14924663,12,2025-10-25 08:15,Povltavska FA,53101,SK Petrin Plzen B,455541,4,2,,,,,,
+previous,77725,CFL 25/26,9387,14131124,12,2025-10-25 08:30,Velke Hamry,281864,FK Pardubice B,323619,4,1,,,,,,
+previous,77725,CFL 25/26,9387,14131514,12,2025-10-25 12:00,TJ Jiskra Domažlice,24775,Dukla Praha B,323618,4,2,,,,,,
+previous,77725,CFL 25/26,9387,14131522,12,2025-10-25 12:00,Arsenal Česká Lípa,37113,Slovan Velvary,228544,2,0,,,,,,
+team,77015,FNL 25/26,205,14203079,14,2025-10-25 12:30,1.FK Příbram,2213,MFK Chrudim,36741,1,1,,,,,,
+team,78489,Divize A 25/26,20945,14924667,12,2025-10-25 12:30,FC Rokycany,76763,FK Benešov,53088,0,1,,,,,,
+previous,77725,CFL 25/26,9387,14131510,12,2025-10-26 09:00,1.FK Příbram B,321884,SK Aritma Praha,165784,3,2,,,,,,
+previous,77725,CFL 25/26,9387,14131100,12,2025-10-26 09:15,FC Hradec Kralove B,323615,FK Most-Baník Souš,53089,4,2,,,,,,
+previous,77725,CFL 25/26,9387,14131135,12,2025-10-26 09:15,Slovan Liberec U21,105803,TJ Jiskra Ústí nad Orlicí,35252,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131157,12,2025-10-26 09:15,FK Admira Praha,37114,Viktoria Plzeň B,321886,0,1,,,,,,
+previous,77725,CFL 25/26,9387,14131512,12,2025-10-26 09:15,SK Dynamo Ceske Budejovice B,333482,MAS Táborsko II,229341,4,2,,,,,,
+team,78490,Divize C 25/26,20947,14391128,12,2025-10-26 09:15,FK Chlumec nad Cidlinou,323617,FK Horní Ředice,530539,1,2,,,,,,
+team,77015,FNL 25/26,205,14074416,14,2025-10-26 09:30,Sparta Praha B U21,4866,FK Viktoria Žižkov,2211,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131114,12,2025-10-26 13:00,SK Benátky nad Jizerou,228538,SK Zápy,53098,0,1,,,,,,
+previous,77725,CFL 25/26,9387,14131168,12,2025-10-26 13:00,Sokol Hostouň,246010,Bohemians Praha 1905 B,323620,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131508,12,2025-10-26 13:00,Mladá Boleslav B,323616,FK Varnsdorf,34789,1,1,,,,,,
+team,78490,Divize C 25/26,20947,14391131,12,2025-10-26 13:30,FK Čáslav,6069,FK Dobrovice,36487,3,0,,,,,,
+previous,77725,CFL 25/26,9387,14925792,6,2025-10-28 13:30,SK Sokol Brozany,36739,FK Teplice B,323614,1,4,,,,,,
+team,77015,FNL 25/26,205,14074425,15,2025-10-31 17:00,Vysočina Jihlava,4863,Sparta Praha B U21,4866,4,0,,,,,,
+previous,77725,CFL 25/26,9387,14131178,13,2025-11-01 09:15,SK Slavia Prague C U20,1105328,1.FK Příbram B,321884,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131190,13,2025-11-01 09:15,Petrin Plzen,106317,SK Motorlet Praha,201953,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131222,13,2025-11-01 09:15,SK Aritma Praha,165784,SK Dynamo Ceske Budejovice B,333482,0,0,,,,,,
+team,78490,Divize C 25/26,20947,14391133,13,2025-11-01 09:15,FK Horní Ředice,530539,FK Brandys Nad Labem,202106,3,0,,,,,,
+team,78489,Divize A 25/26,20945,14954392,13,2025-11-01 09:15,FK Benešov,53088,Povltavska FA,53101,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131219,13,2025-11-01 09:30,Králův Dvůr,25418,Sokol Hostouň,246010,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131234,13,2025-11-01 10:00,FK Teplice B,323614,Mladá Boleslav B,323616,1,0,,,,,,
+previous,77725,CFL 25/26,9387,14131202,13,2025-11-01 13:00,SK Kladno,2223,FC Písek,25417,6,0,,,,,,
+previous,77725,CFL 25/26,9387,14131225,13,2025-11-01 13:00,FK Most-Baník Souš,53089,SK Sparta Kolín,34794,3,0,,,,,,
+previous,77725,CFL 25/26,9387,14131228,13,2025-11-01 13:00,Slovan Velvary,228544,FC Hradec Kralove B,323615,0,1,,,,,,
+previous,77725,CFL 25/26,9387,14131237,13,2025-11-01 13:00,TJ Jiskra Ústí nad Orlicí,35252,FK Jablonec B,322634,1,3,,,,,,
+team,78490,Divize C 25/26,20947,14391137,13,2025-11-01 13:00,Vysoké Mýto,106309,FK Čáslav,6069,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131241,13,2025-11-02 09:15,FK Pardubice B,323619,Slovan Liberec U21,105803,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131248,13,2025-11-02 09:15,Dukla Praha B,323618,Loko Vltavín,53133,0,1,,,,,,
+previous,77725,CFL 25/26,9387,14131214,13,2025-11-02 09:20,Bohemians Praha 1905 B,323620,FK Admira Praha,37114,2,3,,,,,,
+previous,77725,CFL 25/26,9387,14131251,13,2025-11-02 09:30,Viktoria Plzeň B,321886,TJ Jiskra Domažlice,24775,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131231,13,2025-11-02 13:00,FK Varnsdorf,34789,Arsenal Česká Lípa,37113,0,5,,,,,,
+team,77015,FNL 25/26,205,14074421,15,2025-11-03 17:00,MFK Chrudim,36741,SK Dynamo České Budějovice,2221,0,4,,,,,,
+team,77015,FNL 25/26,205,14074430,16,2025-11-07 17:00,SK Dynamo České Budějovice,2221,Slezský FC Opava,2215,0,1,,,,,,
+previous,77725,CFL 25/26,9387,14131269,14,2025-11-07 17:00,FC Písek,25417,Dukla Praha B,323618,1,0,,,,,,
+team,77015,FNL 25/26,205,14074429,16,2025-11-08 09:15,MFK Chrudim,36741,1. SK Prostějov,76775,2,2,,,,,,
+previous,77725,CFL 25/26,9387,14131257,14,2025-11-08 09:15,Mladá Boleslav B,323616,TJ Jiskra Ústí nad Orlicí,35252,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131266,14,2025-11-08 09:15,Loko Vltavín,53133,Viktoria Plzeň B,321886,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131271,14,2025-11-08 09:15,SK Motorlet Praha,201953,SK Kladno,2223,1,4,,,,,,
+previous,77725,CFL 25/26,9387,14131289,14,2025-11-08 09:15,FK Jablonec B,322634,FK Pardubice B,323619,3,6,,,,,,
+team,78489,Divize A 25/26,20945,15000131,14,2025-11-08 09:15,Povltavska FA,53101,Hluboka,314796,3,1,,,,,,
+previous,77725,CFL 25/26,9387,14131260,14,2025-11-08 09:30,1.FK Příbram B,321884,SK Dynamo Ceske Budejovice B,333482,1,3,,,,,,
+team,78490,Divize C 25/26,20947,14391140,14,2025-11-08 09:30,FC Hlinsko,53130,FK Horní Ředice,530539,0,4,,,,,,
+previous,77725,CFL 25/26,9387,14131263,14,2025-11-08 13:00,TJ Jiskra Domažlice,24775,Bohemians Praha 1905 B,323620,5,2,,,,,,
+previous,77725,CFL 25/26,9387,14131276,14,2025-11-08 13:00,Arsenal Česká Lípa,37113,FK Teplice B,323614,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131280,14,2025-11-08 13:00,FK Most-Baník Souš,53089,Slovan Velvary,228544,2,3,,,,,,
+team,78489,Divize A 25/26,20945,15000135,14,2025-11-08 13:00,Slavoj Cesky Krumlov,76761,FK Benešov,53088,0,0,,,,,,
+previous,77725,CFL 25/26,9387,14131278,14,2025-11-09 09:15,FC Hradec Kralove B,323615,FK Varnsdorf,34789,3,2,,,,,,
+previous,77725,CFL 25/26,9387,14131291,14,2025-11-09 09:15,FK Admira Praha,37114,Králův Dvůr,25418,3,1,,,,,,
+team,77015,FNL 25/26,205,14074433,16,2025-11-09 09:30,Sparta Praha B U21,4866,FC Zbrojovka Brno,2210,0,3,,,,,,
+previous,77725,CFL 25/26,9387,14131287,14,2025-11-09 12:30,Slovan Liberec U21,105803,SK Zápy,53098,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131273,14,2025-11-09 13:00,SK Slavia Prague C U20,1105328,Petrin Plzen,106317,3,2,,,,,,
+previous,77725,CFL 25/26,9387,14131283,14,2025-11-09 13:00,SK Benátky nad Jizerou,228538,FK Neratovice-Byškovice,76771,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131293,14,2025-11-09 13:00,Sokol Hostouň,246010,MAS Táborsko II,229341,3,1,,,,,,
+team,78490,Divize C 25/26,20947,14391146,14,2025-11-09 13:00,FK Čáslav,6069,FK Přepeře,292625,0,0,,,,,,
+previous,77725,CFL 25/26,9387,14131295,15,2025-11-15 09:15,FK Neratovice-Byškovice,76771,Velke Hamry,281864,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131302,15,2025-11-15 09:15,Petrin Plzen,106317,1.FK Příbram B,321884,1,0,,,,,,
+previous,77725,CFL 25/26,9387,14131306,15,2025-11-15 09:15,SK Aritma Praha,165784,Sokol Hostouň,246010,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131316,15,2025-11-15 09:15,FK Pardubice B,323619,Mladá Boleslav B,323616,2,0,,,,,,
+team,78490,Divize C 25/26,20947,14391148,15,2025-11-15 09:15,MFK Chrudim B,318907,FK Čáslav,6069,2,4,,,,,,
+team,78490,Divize C 25/26,20947,14391149,15,2025-11-15 09:15,FK Horní Ředice,530539,Svitavy,2231,3,0,,,,,,
+team,78489,Divize A 25/26,20945,15028619,15,2025-11-15 09:15,FK Benešov,53088,SK Hořovice,423305,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131299,15,2025-11-15 10:00,Králův Dvůr,25418,TJ Jiskra Domažlice,24775,2,5,,,,,,
+previous,77725,CFL 25/26,9387,14131312,15,2025-11-15 10:00,FK Teplice B,323614,FC Hradec Kralove B,323615,1,0,,,,,,
+previous,77725,CFL 25/26,9387,14131304,15,2025-11-15 12:30,SK Kladno,2223,SK Slavia Prague C U20,1105328,0,0,,,,,,
+previous,77725,CFL 25/26,9387,14131308,15,2025-11-15 12:30,Slovan Velvary,228544,SK Sparta Kolín,34794,4,1,,,,,,
+previous,77725,CFL 25/26,9387,14131314,15,2025-11-15 12:30,TJ Jiskra Ústí nad Orlicí,35252,Arsenal Česká Lípa,37113,0,1,,,,,,
+previous,77725,CFL 25/26,9387,14131297,15,2025-11-16 09:15,Bohemians Praha 1905 B,323620,Loko Vltavín,53133,2,1,,,,,,
+previous,77725,CFL 25/26,9387,14131322,15,2025-11-16 09:30,Viktoria Plzeň B,321886,FC Písek,25417,2,2,,,,,,
+previous,77725,CFL 25/26,9387,14131320,15,2025-11-16 12:00,Dukla Praha B,323618,SK Motorlet Praha,201953,0,1,,,,,,
+previous,77725,CFL 25/26,9387,14131310,15,2025-11-16 12:30,FK Varnsdorf,34789,FK Most-Baník Souš,53089,0,3,,,,,,
+previous,77725,CFL 25/26,9387,14131318,15,2025-11-16 12:30,SK Sokol Brozany,36739,Slovan Liberec U21,105803,2,6,,,,,,
+previous,77725,CFL 25/26,9387,14131325,15,2025-11-16 12:30,MAS Táborsko II,229341,FK Admira Praha,37114,0,2,,,,,,
+previous,77725,CFL 25/26,9387,14131327,15,2025-11-16 12:30,SK Zápy,53098,FK Jablonec B,322634,2,0,,,,,,
+team,78489,Divize A 25/26,20945,15028624,15,2025-11-16 12:30,TJ Jiskra Domažlice II,319342,Povltavska FA,53101,1,4,,,,,,
+previous,77725,CFL 25/26,9387,15122304,13,2025-11-19 12:30,SK Zápy,53098,Velke Hamry,281864,4,1,,,,,,
+previous,77725,CFL 25/26,9387,14131343,16,2025-11-21 10:00,SK Slavia Prague C U20,1105328,Dukla Praha B,323618,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131339,16,2025-11-21 17:00,FC Písek,25417,Bohemians Praha 1905 B,323620,2,0,,,,,,
+previous,77725,CFL 25/26,9387,14131331,16,2025-11-22 09:00,SK Sparta Kolín,34794,SK Benátky nad Jizerou,228538,2,2,,,,,,
+previous,77725,CFL 25/26,9387,14131333,16,2025-11-22 09:15,Sokol Hostouň,246010,SK Dynamo Ceske Budejovice B,333482,0,3,,,,,,
+previous,77725,CFL 25/26,9387,14131337,16,2025-11-22 09:15,Loko Vltavín,53133,Králův Dvůr,25418,1,1,,,,,,
+previous,77725,CFL 25/26,9387,14131341,16,2025-11-22 09:15,SK Motorlet Praha,201953,Viktoria Plzeň B,321886,1,3,,,,,,
+previous,77725,CFL 25/26,9387,14131345,16,2025-11-22 09:15,Petrin Plzen,106317,SK Kladno,2223,0,5,,,,,,
+previous,77725,CFL 25/26,9387,14131350,16,2025-11-22 09:15,FK Jablonec B,322634,SK Sokol Brozany,36739,1,7,,,,,,
+previous,77725,CFL 25/26,9387,14131356,16,2025-11-22 09:15,FC Hradec Kralove B,323615,TJ Jiskra Ústí nad Orlicí,35252,3,1,,,,,,
+previous,77725,CFL 25/26,9387,14131378,16,2025-11-22 09:15,FK Admira Praha,37114,SK Aritma Praha,165784,2,1,,,,,,
+previous,77725,CFL 25/26,9387,15118160,16,2025-11-22 10:00,Mladá Boleslav B,323616,SK Zápy,53098,0,2,,,,,,
+previous,77725,CFL 25/26,9387,14131335,16,2025-11-22 12:30,TJ Jiskra Domažlice,24775,MAS Táborsko II,229341,3,1,,,,,,
+previous,77725,CFL 25/26,9387,14131353,16,2025-11-22 12:30,Arsenal Česká Lípa,37113,FK Pardubice B,323619,1,0,,,,,,
+previous,77725,CFL 25/26,9387,14131366,16,2025-11-22 14:00,Slovan Velvary,228544,FK Varnsdorf,34789,1,2,,,,,,
+previous,77725,CFL 25/26,9387,14131347,16,2025-11-23 09:15,Slovan Liberec U21,105803,FK Neratovice-Byškovice,76771,2,2,,,,,,
+previous,77725,CFL 25/26,9387,15037792,13,2025-11-26 13:00,SK Sokol Brozany,36739,SK Benátky nad Jizerou,228538,2,0,,,,,,
+team,87771,Winter League 2026,1224,15337482,1,2026-01-10 12:00,Slovan Liberec U21,105803,MFK Chrudim,36741,1,2,,,,,,
+team,87771,Winter League 2026,1224,15337493,1,2026-01-15 09:30,MFK Chrudim,36741,FC Hradec Kralove B,323615,6,2,,,,,,
+team,87771,Winter League 2026,1224,15375493,1,2026-01-20 10:00,Mladá Boleslav B,323616,MFK Chrudim,36741,0,2,,,,,,
+team,88447,MLS Preseason 2026,18553,15471620,,2026-02-08 11:00,Vancouver Whitecaps,22010,Sparta Praha B U21,4866,0,2,,,,,,
+previous,77725,CFL 25/26,9387,15404106,16,2026-02-21 10:00,FK Teplice B,323614,FK Most-Baník Souš,53089,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204707,32,2026-02-28 09:15,SK Motorlet Praha,201953,Dukla Praha B,323618,0,1,,,,,,
+previous,77725,CFL 25/26,9387,15204709,32,2026-02-28 09:15,FC Písek,25417,Viktoria Plzeň B,321886,3,0,,,,,,
+previous,77725,CFL 25/26,9387,15204714,32,2026-02-28 10:00,SK Slavia Prague C U20,1105328,SK Kladno,2223,2,1,,,,,,
+previous,77725,CFL 25/26,9387,15204706,32,2026-02-28 13:00,TJ Jiskra Domažlice,24775,Králův Dvůr,25418,3,0,,,,,,
+previous,77725,CFL 25/26,9387,15204843,32,2026-02-28 13:00,FK Most-Baník Souš,53089,FK Varnsdorf,34789,4,0,,,,,,
+previous,77725,CFL 25/26,9387,15204844,32,2026-02-28 13:00,Arsenal Česká Lípa,37113,TJ Jiskra Ústí nad Orlicí,35252,3,0,,,,,,
+team,77015,FNL 25/26,205,14225209,17,2026-02-28 13:30,SK Slavia Praha B,324982,Sparta Praha B U21,4866,2,2,,,,,,
+previous,77725,CFL 25/26,9387,15204712,32,2026-02-28 13:30,FK Admira Praha,37114,MAS Táborsko II,229341,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204711,32,2026-02-28 14:00,Loko Vltavín,53133,Bohemians Praha 1905 B,323620,1,2,,,,,,
+team,77015,FNL 25/26,205,14074437,17,2026-03-01 09:15,FK Viktoria Žižkov,2211,MFK Chrudim,36741,2,1,,,,,,
+previous,77725,CFL 25/26,9387,15204842,32,2026-03-01 09:15,FC Hradec Kralove B,323615,FK Teplice B,323614,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204846,32,2026-03-01 09:15,FK Jablonec B,322634,SK Zápy,53098,1,2,,,,,,
+previous,77725,CFL 25/26,9387,15204847,32,2026-03-01 09:15,Mladá Boleslav B,323616,FK Pardubice B,323619,2,1,,,,,,
+previous,77725,CFL 25/26,9387,15204848,32,2026-03-01 10:00,Slovan Liberec U21,105803,SK Sokol Brozany,36739,3,1,,,,,,
+previous,77725,CFL 25/26,9387,15204710,32,2026-03-01 10:30,Sokol Hostouň,246010,SK Aritma Praha,165784,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204708,32,2026-03-01 13:00,1.FK Příbram B,321884,Petrin Plzen,106317,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204835,32,2026-03-01 13:00,SK Sparta Kolín,34794,Slovan Velvary,228544,0,2,,,,,,
+team,77015,FNL 25/26,205,14225213,17,2026-03-01 13:30,Baník Ostrava B,323652,SK Dynamo České Budějovice,2221,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204577,18,2026-03-07 09:00,1.FK Příbram B,321884,Sokol Hostouň,246010,3,1,,,,,,
+team,77015,FNL 25/26,205,14225214,18,2026-03-07 09:15,MFK Chrudim,36741,Slezský FC Opava,2215,0,2,,,,,,
+previous,77725,CFL 25/26,9387,15204582,18,2026-03-07 09:15,SK Aritma Praha,165784,Loko Vltavín,53133,3,1,,,,,,
+previous,77725,CFL 25/26,9387,15204585,18,2026-03-07 09:15,MAS Táborsko II,229341,FC Písek,25417,1,4,,,,,,
+previous,77725,CFL 25/26,9387,15204732,18,2026-03-07 09:15,FK Neratovice-Byškovice,76771,Mladá Boleslav B,323616,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204735,18,2026-03-07 09:15,FK Pardubice B,323619,FK Most-Baník Souš,53089,2,2,,,,,,
+team,78489,Divize A 25/26,20945,15194951,16,2026-03-07 09:30,FK Benešov,53088,SK Petrin Plzen B,455541,4,0,,,,,,
+previous,77725,CFL 25/26,9387,15204580,18,2026-03-07 09:30,SK Dynamo Ceske Budejovice B,333482,TJ Jiskra Domažlice,24775,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204584,18,2026-03-07 13:30,Králův Dvůr,25418,SK Motorlet Praha,201953,1,3,,,,,,
+previous,77725,CFL 25/26,9387,15204730,18,2026-03-07 13:30,SK Benátky nad Jizerou,228538,Slovan Liberec U21,105803,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204738,18,2026-03-07 14:30,TJ Jiskra Ústí nad Orlicí,35252,Slovan Velvary,228544,1,2,,,,,,
+team,78490,Divize C 25/26,20947,15200080,16,2026-03-07 16:30,FK Horní Ředice,530539,SK Kosmonosy,334891,2,1,,,,,,
+team,77015,FNL 25/26,205,14225218,18,2026-03-07 17:00,SK Dynamo České Budějovice,2221,SK Slavia Praha B,324982,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204737,18,2026-03-08 09:00,FK Teplice B,323614,FK Varnsdorf,34789,0,1,,,,,,
+previous,77725,CFL 25/26,9387,15204587,18,2026-03-08 09:15,Dukla Praha B,323618,SK Kladno,2223,0,5,,,,,,
+previous,77725,CFL 25/26,9387,15204588,18,2026-03-08 09:15,Bohemians Praha 1905 B,323620,SK Slavia Prague C U20,1105328,3,0,,,,,,
+team,77015,FNL 25/26,205,14225220,18,2026-03-08 09:30,Sparta Praha B U21,4866,FK VIAGEM Ústí nad Labem,4868,0,2,,,,,,
+previous,77725,CFL 25/26,9387,15204590,18,2026-03-08 09:30,Viktoria Plzeň B,321886,Petrin Plzen,106317,2,1,,,,,,
+team,78490,Divize C 25/26,20947,15200083,16,2026-03-08 13:30,FK Čáslav,6069,FK Slovan Hradek Nad Nisou 1910,530541,3,0,,,,,,
+previous,77725,CFL 25/26,9387,15204728,18,2026-03-08 13:30,SK Sparta Kolín,34794,Velke Hamry,281864,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204733,18,2026-03-08 13:30,SK Sokol Brozany,36739,Arsenal Česká Lípa,37113,1,6,,,,,,
+previous,77725,CFL 25/26,9387,15204734,18,2026-03-08 13:30,SK Zápy,53098,FC Hradec Kralove B,323615,3,0,,,,,,
+team,78489,Divize A 25/26,20945,15194957,16,2026-03-08 14:00,FK Spartak Soběslav,259976,Povltavska FA,53101,2,0,,,,,,
+team,77015,FNL 25/26,205,14225223,19,2026-03-13 17:00,Vysočina Jihlava,4863,MFK Chrudim,36741,0,1,,,,,,
+previous,77725,CFL 25/26,9387,15204598,19,2026-03-13 18:00,FC Písek,25417,SK Aritma Praha,165784,1,1,,,,,,
+team,78489,Divize A 25/26,20945,15194964,17,2026-03-14 09:15,Povltavska FA,53101,FC Zvvz Milevsko,109793,3,0,,,,,,
+previous,77725,CFL 25/26,9387,15204594,19,2026-03-14 09:15,Petrin Plzen,106317,Bohemians Praha 1905 B,323620,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204595,19,2026-03-14 09:15,SK Motorlet Praha,201953,MAS Táborsko II,229341,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204597,19,2026-03-14 09:15,Loko Vltavín,53133,SK Dynamo Ceske Budejovice B,333482,1,1,,,,,,
+team,78489,Divize A 25/26,20945,15194959,17,2026-03-14 09:30,FK Benešov,53088,FK Tachov,76759,4,0,,,,,,
+previous,77725,CFL 25/26,9387,15204592,19,2026-03-14 10:00,SK Slavia Prague C U20,1105328,Králův Dvůr,25418,1,4,,,,,,
+team,77015,FNL 25/26,205,14225226,19,2026-03-14 13:30,SK Hanácká Slavia Kroměříž,4865,Sparta Praha B U21,4866,2,1,,,,,,
+previous,77725,CFL 25/26,9387,15204593,19,2026-03-14 13:30,SK Kladno,2223,Viktoria Plzeň B,321886,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204739,19,2026-03-14 13:30,FK Most-Baník Souš,53089,SK Zápy,53098,0,1,,,,,,
+previous,77725,CFL 25/26,9387,15204741,19,2026-03-14 13:30,Slovan Velvary,228544,FK Pardubice B,323619,3,2,,,,,,
+previous,77725,CFL 25/26,9387,15204743,19,2026-03-14 13:30,Arsenal Česká Lípa,37113,FK Neratovice-Byškovice,76771,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204736,19,2026-03-15 09:00,FK Teplice B,323614,SK Sparta Kolín,34794,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204591,19,2026-03-15 09:15,Dukla Praha B,323618,1.FK Příbram B,321884,4,0,,,,,,
+previous,77725,CFL 25/26,9387,15204596,19,2026-03-15 09:15,FK Admira Praha,37114,Sokol Hostouň,246010,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204740,19,2026-03-15 09:15,FC Hradec Kralove B,323615,SK Sokol Brozany,36739,4,1,,,,,,
+previous,77725,CFL 25/26,9387,15204746,19,2026-03-15 09:15,FK Jablonec B,322634,SK Benátky nad Jizerou,228538,2,3,,,,,,
+previous,77725,CFL 25/26,9387,15204750,19,2026-03-15 10:00,Slovan Liberec U21,105803,Velke Hamry,281864,2,2,,,,,,
+team,77015,FNL 25/26,205,14225230,19,2026-03-15 13:30,FC Sellier & Bellot Vlašim,36024,SK Dynamo České Budějovice,2221,1,1,,,,,,
+team,78490,Divize C 25/26,20947,15200090,17,2026-03-15 13:30,FK Čáslav,6069,Turnov,24785,1,1,,,,,,
+team,78490,Divize C 25/26,20947,15200092,17,2026-03-15 13:30,Trutnov,43657,FK Horní Ředice,530539,1,2,,,,,,
+previous,77725,CFL 25/26,9387,15204742,19,2026-03-15 13:30,FK Varnsdorf,34789,TJ Jiskra Ústí nad Orlicí,35252,1,2,,,,,,
+team,77015,FNL 25/26,205,14225232,20,2026-03-20 17:00,SK Dynamo České Budějovice,2221,FK Viktoria Žižkov,2211,0,2,,,,,,
+team,77015,FNL 25/26,205,14225236,20,2026-03-20 17:00,Sparta Praha B U21,4866,FC Sellier & Bellot Vlašim,36024,0,1,,,,,,
+previous,77725,CFL 25/26,9387,15204599,20,2026-03-21 09:00,1.FK Příbram B,321884,FK Admira Praha,37114,3,2,,,,,,
+team,77015,FNL 25/26,205,14225234,20,2026-03-21 09:15,MFK Chrudim,36741,Baník Ostrava B,323652,3,1,,,,,,
+team,78490,Divize C 25/26,20947,15200096,18,2026-03-21 09:15,FK Horní Ředice,530539,FK Náchod,2222,5,2,,,,,,
+previous,77725,CFL 25/26,9387,15204600,20,2026-03-21 09:15,Sokol Hostouň,246010,TJ Jiskra Domažlice,24775,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204602,20,2026-03-21 09:15,SK Aritma Praha,165784,SK Motorlet Praha,201953,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204749,20,2026-03-21 09:15,FK Neratovice-Byškovice,76771,FC Hradec Kralove B,323615,1,2,,,,,,
+previous,77725,CFL 25/26,9387,15204601,20,2026-03-21 09:30,SK Dynamo Ceske Budejovice B,333482,FC Písek,25417,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204748,20,2026-03-21 13:00,Velke Hamry,281864,FK Jablonec B,322634,2,2,,,,,,
+team,78489,Divize A 25/26,20945,15194968,18,2026-03-21 14:00,SK Senco Doubravka,43656,Povltavska FA,53101,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204604,20,2026-03-21 14:00,Králův Dvůr,25418,Petrin Plzen,106317,3,1,,,,,,
+previous,77725,CFL 25/26,9387,15204752,20,2026-03-21 14:00,SK Benátky nad Jizerou,228538,Mladá Boleslav B,323616,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204753,20,2026-03-21 14:00,TJ Jiskra Ústí nad Orlicí,35252,FK Teplice B,323614,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204606,20,2026-03-22 09:15,Bohemians Praha 1905 B,323620,SK Kladno,2223,2,2,,,,,,
+previous,77725,CFL 25/26,9387,15204751,20,2026-03-22 09:15,FK Pardubice B,323619,FK Varnsdorf,34789,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204605,20,2026-03-22 09:30,Viktoria Plzeň B,321886,Dukla Praha B,323618,5,1,,,,,,
+team,78489,Divize A 25/26,20945,15194969,18,2026-03-22 14:00,Hluboka,314796,FK Benešov,53088,0,0,,,,,,
+team,78490,Divize C 25/26,20947,15200097,18,2026-03-22 14:00,Spartak Police Nad Metuji,530540,FK Čáslav,6069,1,2,,,,,,
+previous,77725,CFL 25/26,9387,15204603,20,2026-03-22 14:00,MAS Táborsko II,229341,SK Slavia Prague C U20,1105328,1,4,,,,,,
+previous,77725,CFL 25/26,9387,15204744,20,2026-03-22 14:00,SK Zápy,53098,Slovan Velvary,228544,5,0,,,,,,
+previous,77725,CFL 25/26,9387,15204745,20,2026-03-22 14:00,SK Sokol Brozany,36739,FK Most-Baník Souš,53089,2,2,,,,,,
+previous,77725,CFL 25/26,9387,15204747,20,2026-03-22 14:00,SK Sparta Kolín,34794,Slovan Liberec U21,105803,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204611,21,2026-03-27 10:00,Dukla Praha B,323618,Bohemians Praha 1905 B,323620,2,1,,,,,,
+team,78489,Divize A 25/26,20945,15194976,19,2026-03-28 09:15,FK Benešov,53088,TJ Jiskra Domažlice II,319342,8,0,,,,,,
+team,78489,Divize A 25/26,20945,15194982,19,2026-03-28 09:15,Povltavska FA,53101,FC Krimice,939463,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204614,21,2026-03-28 09:15,Petrin Plzen,106317,MAS Táborsko II,229341,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204619,21,2026-03-28 09:15,Loko Vltavín,53133,Sokol Hostouň,246010,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204622,21,2026-03-28 09:15,SK Motorlet Praha,201953,SK Dynamo Ceske Budejovice B,333482,3,1,,,,,,
+previous,77725,CFL 25/26,9387,15204760,21,2026-03-28 09:15,Mladá Boleslav B,323616,Velke Hamry,281864,3,3,,,,,,
+previous,77725,CFL 25/26,9387,15204615,21,2026-03-28 09:30,Viktoria Plzeň B,321886,1.FK Příbram B,321884,4,2,,,,,,
+previous,77725,CFL 25/26,9387,15204607,21,2026-03-28 14:00,SK Kladno,2223,Králův Dvůr,25418,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204608,21,2026-03-28 14:00,SK Slavia Prague C U20,1105328,SK Aritma Praha,165784,0,1,,,,,,
+previous,77725,CFL 25/26,9387,15204610,21,2026-03-28 14:00,TJ Jiskra Domažlice,24775,FK Admira Praha,37114,5,1,,,,,,
+previous,77725,CFL 25/26,9387,15204756,21,2026-03-28 14:00,Arsenal Česká Lípa,37113,SK Benátky nad Jizerou,228538,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204757,21,2026-03-28 14:00,TJ Jiskra Ústí nad Orlicí,35252,SK Sparta Kolín,34794,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204758,21,2026-03-28 14:00,FK Most-Baník Souš,53089,FK Neratovice-Byškovice,76771,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204765,21,2026-03-28 14:00,Slovan Velvary,228544,SK Sokol Brozany,36739,0,1,,,,,,
+previous,77725,CFL 25/26,9387,15204771,21,2026-03-29 08:15,FK Jablonec B,322634,Slovan Liberec U21,105803,2,1,,,,,,
+previous,77725,CFL 25/26,9387,15204754,21,2026-03-29 09:00,FK Teplice B,323614,FK Pardubice B,323619,2,1,,,,,,
+team,78490,Divize C 25/26,20947,15200107,19,2026-03-29 13:00,FK Čáslav,6069,FK Horní Ředice,530539,2,1,,,,,,
+previous,77725,CFL 25/26,9387,15204755,21,2026-03-29 13:00,FK Varnsdorf,34789,SK Zápy,53098,3,0,,,,,,
+previous,77725,CFL 25/26,9387,15598094,14,2026-04-01 15:00,Velke Hamry,281864,SK Sokol Brozany,36739,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204628,22,2026-04-02 09:00,Bohemians Praha 1905 B,323620,Viktoria Plzeň B,321886,3,1,,,,,,
+team,78490,Divize C 25/26,20947,15200111,20,2026-04-03 08:15,FK Brandys Nad Labem,202106,FK Čáslav,6069,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204617,22,2026-04-03 08:15,FK Admira Praha,37114,Loko Vltavín,53133,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204620,22,2026-04-03 08:15,SK Aritma Praha,165784,Petrin Plzen,106317,3,0,,,,,,
+previous,77725,CFL 25/26,9387,15204761,22,2026-04-03 08:15,Slovan Liberec U21,105803,Mladá Boleslav B,323616,1,3,,,,,,
+previous,77725,CFL 25/26,9387,15204764,22,2026-04-03 08:15,FK Neratovice-Byškovice,76771,Slovan Velvary,228544,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204766,22,2026-04-03 08:15,FK Pardubice B,323619,TJ Jiskra Ústí nad Orlicí,35252,3,0,,,,,,
+team,78489,Divize A 25/26,20945,15194989,20,2026-04-03 08:30,Tj Ligmet Milin,530543,Povltavska FA,53101,0,3,,,,,,
+team,78490,Divize C 25/26,20947,15200113,20,2026-04-03 11:30,FK Horní Ředice,530539,FK Dobrovice,36487,5,0,,,,,,
+previous,77725,CFL 25/26,9387,15204612,22,2026-04-03 13:00,MAS Táborsko II,229341,SK Kladno,2223,0,1,,,,,,
+previous,77725,CFL 25/26,9387,15204616,22,2026-04-03 14:00,Sokol Hostouň,246010,FC Písek,25417,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204618,22,2026-04-03 14:00,Králův Dvůr,25418,Dukla Praha B,323618,3,1,,,,,,
+team,78489,Divize A 25/26,20945,15194990,20,2026-04-03 14:30,FK Spartak Soběslav,259976,FK Benešov,53088,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204613,22,2026-04-04 08:05,1.FK Příbram B,321884,TJ Jiskra Domažlice,24775,0,4,,,,,,
+previous,77725,CFL 25/26,9387,15204609,22,2026-04-04 08:30,SK Dynamo Ceske Budejovice B,333482,SK Slavia Prague C U20,1105328,3,1,,,,,,
+team,77015,FNL 25/26,205,14225240,21,2026-04-04 12:15,FC Zbrojovka Brno,2210,MFK Chrudim,36741,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204767,22,2026-04-04 14:30,SK Benátky nad Jizerou,228538,FC Hradec Kralove B,323615,2,2,,,,,,
+team,77015,FNL 25/26,205,14225247,21,2026-04-05 08:30,Sparta Praha B U21,4866,SK Dynamo České Budějovice,2221,0,1,,,,,,
+previous,77725,CFL 25/26,9387,15204762,22,2026-04-05 13:00,Velke Hamry,281864,Arsenal Česká Lípa,37113,1,2,,,,,,
+previous,77725,CFL 25/26,9387,15204759,22,2026-04-05 14:30,SK Sokol Brozany,36739,FK Varnsdorf,34789,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204763,22,2026-04-05 14:30,SK Sparta Kolín,34794,FK Jablonec B,322634,2,1,,,,,,
+previous,77725,CFL 25/26,9387,15204768,22,2026-04-05 14:30,SK Zápy,53098,FK Teplice B,323614,1,2,,,,,,
+team,77015,FNL 25/26,205,14225248,22,2026-04-10 15:00,MFK Chrudim,36741,SK Slavia Praha B,324982,6,1,,,,,,
+team,77015,FNL 25/26,205,14225252,22,2026-04-10 16:00,FC Silon Táborsko,24782,Sparta Praha B U21,4866,1,1,,,,,,
+team,77015,FNL 25/26,205,14225254,22,2026-04-10 16:00,SK Dynamo České Budějovice,2221,FK VIAGEM Ústí nad Labem,4868,1,2,,,,,,
+team,78489,Divize A 25/26,20945,15194999,21,2026-04-11 08:15,FK Benešov,53088,FC Zvvz Milevsko,109793,1,0,,,,,,
+team,78489,Divize A 25/26,20945,15195005,21,2026-04-11 08:15,Povltavska FA,53101,TJ Prestice,259934,6,6,,,,,,
+previous,77725,CFL 25/26,9387,15204621,23,2026-04-11 08:15,Loko Vltavín,53133,TJ Jiskra Domažlice,24775,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204623,23,2026-04-11 08:15,Petrin Plzen,106317,SK Dynamo Ceske Budejovice B,333482,0,4,,,,,,
+previous,77725,CFL 25/26,9387,15204627,23,2026-04-11 08:15,FC Písek,25417,FK Admira Praha,37114,0,2,,,,,,
+previous,77725,CFL 25/26,9387,15204629,23,2026-04-11 08:15,SK Motorlet Praha,201953,Sokol Hostouň,246010,3,0,,,,,,
+previous,77725,CFL 25/26,9387,15204777,23,2026-04-11 08:15,Mladá Boleslav B,323616,FK Jablonec B,322634,0,1,,,,,,
+previous,77725,CFL 25/26,9387,15204772,23,2026-04-11 09:00,FK Teplice B,323614,SK Sokol Brozany,36739,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204774,23,2026-04-11 13:00,FK Most-Baník Souš,53089,SK Benátky nad Jizerou,228538,5,3,,,,,,
+team,78490,Divize C 25/26,20947,15200124,21,2026-04-11 14:30,Vysoké Mýto,106309,FK Horní Ředice,530539,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204630,23,2026-04-11 14:30,SK Kladno,2223,SK Aritma Praha,165784,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204769,23,2026-04-11 14:30,TJ Jiskra Ústí nad Orlicí,35252,SK Zápy,53098,0,1,,,,,,
+previous,77725,CFL 25/26,9387,15204776,23,2026-04-11 14:30,Arsenal Česká Lípa,37113,Slovan Liberec U21,105803,3,0,,,,,,
+previous,77725,CFL 25/26,9387,15204624,23,2026-04-12 08:15,Bohemians Praha 1905 B,323620,1.FK Příbram B,321884,3,0,,,,,,
+previous,77725,CFL 25/26,9387,15204626,23,2026-04-12 08:15,Dukla Praha B,323618,MAS Táborsko II,229341,2,3,,,,,,
+previous,77725,CFL 25/26,9387,15204770,23,2026-04-12 08:15,FK Pardubice B,323619,SK Sparta Kolín,34794,3,0,,,,,,
+previous,77725,CFL 25/26,9387,15204775,23,2026-04-12 08:15,FC Hradec Kralove B,323615,Velke Hamry,281864,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204625,23,2026-04-12 08:30,Viktoria Plzeň B,321886,Králův Dvůr,25418,1,0,,,,,,
+team,78490,Divize C 25/26,20947,15200126,21,2026-04-12 14:30,FK Čáslav,6069,FC Hlinsko,53130,3,2,,,,,,
+previous,77725,CFL 25/26,9387,15204773,23,2026-04-12 14:30,FK Varnsdorf,34789,FK Neratovice-Byškovice,76771,3,1,,,,,,
+team,77015,FNL 25/26,205,14028819,23,2026-04-15 15:00,Sparta Praha B U21,4866,SK Artis Brno,35264,1,3,,,,,,
+team,77015,FNL 25/26,205,14028822,23,2026-04-15 16:00,FC Silon Táborsko,24782,SK Dynamo České Budějovice,2221,1,0,,,,,,
+team,77015,FNL 25/26,205,14028848,23,2026-04-15 16:00,FK VIAGEM Ústí nad Labem,4868,MFK Chrudim,36741,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204634,24,2026-04-17 15:00,Sokol Hostouň,246010,SK Slavia Prague C U20,1105328,1,1,,,,,,
+team,77015,FNL 25/26,205,14028830,24,2026-04-18 08:15,MFK Chrudim,36741,FC Sellier & Bellot Vlašim,36024,0,2,,,,,,
+team,78490,Divize C 25/26,20947,15200130,22,2026-04-18 08:15,FK Horní Ředice,530539,FK Přepeře,292625,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204638,24,2026-04-18 08:15,SK Aritma Praha,165784,Dukla Praha B,323618,2,1,,,,,,
+previous,77725,CFL 25/26,9387,15204782,24,2026-04-18 08:15,FK Neratovice-Byškovice,76771,FK Teplice B,323614,4,4,,,,,,
+team,78489,Divize A 25/26,20945,15195026,22,2026-04-18 08:30,FK Komarov,259968,Povltavska FA,53101,1,3,,,,,,
+previous,77725,CFL 25/26,9387,15204635,24,2026-04-18 08:30,SK Dynamo Ceske Budejovice B,333482,SK Kladno,2223,0,4,,,,,,
+previous,77725,CFL 25/26,9387,15204779,24,2026-04-18 08:30,Velke Hamry,281864,FK Most-Baník Souš,53089,0,4,,,,,,
+team,77015,FNL 25/26,205,14203081,24,2026-04-18 15:00,1.FK Příbram,2213,Sparta Praha B U21,4866,2,0,,,,,,
+team,78489,Divize A 25/26,20945,15195025,22,2026-04-18 15:00,SK Senco Doubravka,43656,FK Benešov,53088,3,5,,,,,,
+previous,77725,CFL 25/26,9387,15204631,24,2026-04-18 15:00,TJ Jiskra Domažlice,24775,FC Písek,25417,3,2,,,,,,
+previous,77725,CFL 25/26,9387,15204637,24,2026-04-18 15:00,Králův Dvůr,25418,Bohemians Praha 1905 B,323620,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204632,24,2026-04-19 08:00,1.FK Příbram B,321884,Loko Vltavín,53133,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204633,24,2026-04-19 08:15,FK Admira Praha,37114,SK Motorlet Praha,201953,0,1,,,,,,
+previous,77725,CFL 25/26,9387,15204636,24,2026-04-19 08:15,MAS Táborsko II,229341,Viktoria Plzeň B,321886,0,6,,,,,,
+previous,77725,CFL 25/26,9387,15204780,24,2026-04-19 08:15,Slovan Liberec U21,105803,FC Hradec Kralove B,323615,5,1,,,,,,
+previous,77725,CFL 25/26,9387,15204784,24,2026-04-19 08:15,FK Jablonec B,322634,Arsenal Česká Lípa,37113,1,3,,,,,,
+team,77015,FNL 25/26,205,14028856,24,2026-04-19 14:00,SK Dynamo České Budějovice,2221,SK Hanácká Slavia Kroměříž,4865,1,0,,,,,,
+team,78490,Divize C 25/26,20947,15200135,22,2026-04-19 15:00,Svitavy,2231,FK Čáslav,6069,1,4,,,,,,
+previous,77725,CFL 25/26,9387,15204778,24,2026-04-19 15:00,SK Sparta Kolín,34794,Mladá Boleslav B,323616,0,3,,,,,,
+previous,77725,CFL 25/26,9387,15204781,24,2026-04-19 15:00,SK Benátky nad Jizerou,228538,Slovan Velvary,228544,1,4,,,,,,
+previous,77725,CFL 25/26,9387,15204785,24,2026-04-19 15:00,SK Zápy,53098,FK Pardubice B,323619,4,0,,,,,,
+previous,77725,CFL 25/26,9387,15204786,24,2026-04-19 15:00,SK Sokol Brozany,36739,TJ Jiskra Ústí nad Orlicí,35252,3,1,,,,,,
+previous,77725,CFL 25/26,9387,15639523,32,2026-04-22 15:00,Velke Hamry,281864,FK Neratovice-Byškovice,76771,1,1,,,,,,
+team,78489,Divize A 25/26,20945,15195053,23,2026-04-25 08:15,FK Benešov,53088,FC Krimice,939463,2,0,,,,,,
+team,78489,Divize A 25/26,20945,15195059,23,2026-04-25 08:15,Povltavska FA,53101,FC Rokycany,76763,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204641,25,2026-04-25 08:15,Petrin Plzen,106317,Sokol Hostouň,246010,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204644,25,2026-04-25 08:15,FC Písek,25417,Loko Vltavín,53133,0,2,,,,,,
+previous,77725,CFL 25/26,9387,15204647,25,2026-04-25 08:15,SK Motorlet Praha,201953,TJ Jiskra Domažlice,24775,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204789,25,2026-04-25 13:00,Slovan Velvary,228544,Velke Hamry,281864,2,3,,,,,,
+previous,77725,CFL 25/26,9387,15204793,25,2026-04-25 13:00,FK Most-Baník Souš,53089,Slovan Liberec U21,105803,2,1,,,,,,
+team,77015,FNL 25/26,205,14028857,25,2026-04-25 15:00,SK Hanácká Slavia Kroměříž,4865,MFK Chrudim,36741,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204640,25,2026-04-25 15:00,Králův Dvůr,25418,1.FK Příbram B,321884,4,1,,,,,,
+previous,77725,CFL 25/26,9387,15204787,25,2026-04-25 15:00,TJ Jiskra Ústí nad Orlicí,35252,FK Neratovice-Byškovice,76771,2,3,,,,,,
+previous,77725,CFL 25/26,9387,15204792,25,2026-04-25 15:00,Arsenal Česká Lípa,37113,Mladá Boleslav B,323616,3,0,,,,,,
+team,77015,FNL 25/26,205,14028801,25,2026-04-25 16:00,SK Artis Brno,35264,SK Dynamo České Budějovice,2221,2,1,,,,,,
+previous,77725,CFL 25/26,9387,15204639,25,2026-04-26 08:15,Bohemians Praha 1905 B,323620,MAS Táborsko II,229341,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204642,25,2026-04-26 08:15,Dukla Praha B,323618,SK Dynamo Ceske Budejovice B,333482,2,2,,,,,,
+previous,77725,CFL 25/26,9387,15204788,25,2026-04-26 08:15,FK Pardubice B,323619,SK Sokol Brozany,36739,3,0,,,,,,
+previous,77725,CFL 25/26,9387,15204791,25,2026-04-26 08:15,FC Hradec Kralove B,323615,FK Jablonec B,322634,2,2,,,,,,
+team,77015,FNL 25/26,205,14028825,25,2026-04-26 08:30,Sparta Praha B U21,4866,Slezský FC Opava,2215,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204643,25,2026-04-26 08:30,Viktoria Plzeň B,321886,SK Aritma Praha,165784,2,2,,,,,,
+team,78490,Divize C 25/26,20947,15200139,23,2026-04-26 13:30,MFK Chrudim B,318907,FK Horní Ředice,530539,2,0,,,,,,
+team,78490,Divize C 25/26,20947,15200143,23,2026-04-26 15:00,FK Čáslav,6069,SK Kosmonosy,334891,4,3,,,,,,
+previous,77725,CFL 25/26,9387,15204645,25,2026-04-26 15:00,SK Slavia Prague C U20,1105328,FK Admira Praha,37114,1,2,,,,,,
+previous,77725,CFL 25/26,9387,15204783,25,2026-04-26 15:00,SK Zápy,53098,SK Sparta Kolín,34794,2,1,,,,,,
+previous,77725,CFL 25/26,9387,15204790,25,2026-04-26 15:00,FK Varnsdorf,34789,SK Benátky nad Jizerou,228538,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204649,26,2026-05-01 08:15,Loko Vltavín,53133,SK Motorlet Praha,201953,0,1,,,,,,
+previous,77725,CFL 25/26,9387,15204650,26,2026-05-01 08:15,FK Admira Praha,37114,Petrin Plzen,106317,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204661,26,2026-05-01 08:15,SK Aritma Praha,165784,Bohemians Praha 1905 B,323620,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204800,26,2026-05-01 08:15,FK Neratovice-Byškovice,76771,FK Pardubice B,323619,0,4,,,,,,
+team,78490,Divize C 25/26,20947,15200146,24,2026-05-01 12:00,FK Horní Ředice,530539,FK Slovan Hradek Nad Nisou 1910,530541,2,1,,,,,,
+team,78489,Divize A 25/26,20945,15195075,24,2026-05-01 13:00,FK Tachov,76759,Povltavska FA,53101,0,5,,,,,,
+team,77015,FNL 25/26,205,14203074,26,2026-05-01 15:00,1.FK Příbram,2213,SK Dynamo České Budějovice,2221,2,1,,,,,,
+previous,77725,CFL 25/26,9387,15204646,26,2026-05-01 15:00,TJ Jiskra Domažlice,24775,SK Slavia Prague C U20,1105328,4,3,,,,,,
+previous,77725,CFL 25/26,9387,15204653,26,2026-05-01 15:00,Sokol Hostouň,246010,SK Kladno,2223,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204648,26,2026-05-02 08:00,1.FK Příbram B,321884,FC Písek,25417,1,1,,,,,,
+team,77015,FNL 25/26,205,14028812,26,2026-05-02 08:15,MFK Chrudim,36741,Sparta Praha B U21,4866,2,2,,,,,,
+previous,77725,CFL 25/26,9387,15204797,26,2026-05-02 08:15,Mladá Boleslav B,323616,FC Hradec Kralove B,323615,3,0,,,,,,
+team,78489,Divize A 25/26,20945,15195073,24,2026-05-02 08:30,Tj Ligmet Milin,530543,FK Benešov,53088,0,3,,,,,,
+previous,77725,CFL 25/26,9387,15204662,26,2026-05-02 08:30,SK Dynamo Ceske Budejovice B,333482,Viktoria Plzeň B,321886,2,2,,,,,,
+previous,77725,CFL 25/26,9387,15204798,26,2026-05-02 08:30,Velke Hamry,281864,FK Varnsdorf,34789,0,2,,,,,,
+previous,77725,CFL 25/26,9387,15204663,26,2026-05-02 15:00,MAS Táborsko II,229341,Králův Dvůr,25418,0,2,,,,,,
+previous,77725,CFL 25/26,9387,15204794,26,2026-05-02 15:00,SK Sparta Kolín,34794,Arsenal Česká Lípa,37113,1,5,,,,,,
+previous,77725,CFL 25/26,9387,15204801,26,2026-05-02 15:00,SK Benátky nad Jizerou,228538,FK Teplice B,323614,3,0,,,,,,
+previous,77725,CFL 25/26,9387,15204796,26,2026-05-03 08:15,Slovan Liberec U21,105803,Slovan Velvary,228544,8,1,,,,,,
+previous,77725,CFL 25/26,9387,15204799,26,2026-05-03 08:15,FK Jablonec B,322634,FK Most-Baník Souš,53089,0,3,,,,,,
+team,78490,Divize C 25/26,20947,15200149,24,2026-05-03 15:00,Trutnov,43657,FK Čáslav,6069,1,2,,,,,,
+previous,77725,CFL 25/26,9387,15204795,26,2026-05-03 15:00,SK Sokol Brozany,36739,SK Zápy,53098,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204713,33,2026-05-05 15:00,MAS Táborsko II,229341,TJ Jiskra Domažlice,24775,3,2,,,,,,
+previous,77725,CFL 25/26,9387,15204720,33,2026-05-06 14:30,Bohemians Praha 1905 B,323620,FC Písek,25417,1,3,,,,,,
+team,77015,FNL 25/26,205,14028802,27,2026-05-06 15:00,Sparta Praha B U21,4866,1. SK Prostějov,76775,5,1,,,,,,
+team,77015,FNL 25/26,205,14028811,27,2026-05-06 15:00,SK Dynamo České Budějovice,2221,Vysočina Jihlava,4863,3,1,,,,,,
+previous,77725,CFL 25/26,9387,15204715,33,2026-05-06 15:00,SK Dynamo Ceske Budejovice B,333482,Sokol Hostouň,246010,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204716,33,2026-05-06 15:00,Králův Dvůr,25418,Loko Vltavín,53133,5,0,,,,,,
+previous,77725,CFL 25/26,9387,15204717,33,2026-05-06 15:00,Viktoria Plzeň B,321886,SK Motorlet Praha,201953,4,2,,,,,,
+previous,77725,CFL 25/26,9387,15204718,33,2026-05-06 15:00,SK Aritma Praha,165784,FK Admira Praha,37114,2,1,,,,,,
+previous,77725,CFL 25/26,9387,15204719,33,2026-05-06 15:00,Dukla Praha B,323618,SK Slavia Prague C U20,1105328,1,3,,,,,,
+previous,77725,CFL 25/26,9387,15204849,33,2026-05-06 15:00,SK Benátky nad Jizerou,228538,SK Sparta Kolín,34794,4,0,,,,,,
+previous,77725,CFL 25/26,9387,15204851,33,2026-05-06 15:00,FK Neratovice-Byškovice,76771,Slovan Liberec U21,105803,2,9,,,,,,
+previous,77725,CFL 25/26,9387,15204852,33,2026-05-06 15:00,SK Sokol Brozany,36739,FK Jablonec B,322634,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204853,33,2026-05-06 15:00,SK Zápy,53098,Mladá Boleslav B,323616,4,0,,,,,,
+previous,77725,CFL 25/26,9387,15204854,33,2026-05-06 15:00,FK Pardubice B,323619,Arsenal Česká Lípa,37113,2,3,,,,,,
+previous,77725,CFL 25/26,9387,15204857,33,2026-05-06 15:00,FK Varnsdorf,34789,Slovan Velvary,228544,4,3,,,,,,
+previous,77725,CFL 25/26,9387,15204858,33,2026-05-06 15:00,TJ Jiskra Ústí nad Orlicí,35252,FC Hradec Kralove B,323615,2,5,,,,,,
+previous,77725,CFL 25/26,9387,15204863,33,2026-05-06 15:00,FK Most-Baník Souš,53089,FK Teplice B,323614,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204729,33,2026-05-06 15:30,SK Kladno,2223,Petrin Plzen,106317,5,1,,,,,,
+team,77015,FNL 25/26,205,14028797,27,2026-05-06 16:00,FC Silon Táborsko,24782,MFK Chrudim,36741,2,0,,,,,,
+team,78489,Divize A 25/26,20945,15195077,25,2026-05-08 08:15,FK Benešov,53088,TJ Prestice,259934,5,1,,,,,,
+team,78489,Divize A 25/26,20945,15195078,25,2026-05-08 13:00,Slavoj Cesky Krumlov,76761,Povltavska FA,53101,0,2,,,,,,
+team,78490,Divize C 25/26,20947,15200154,25,2026-05-08 13:00,Turnov,24785,FK Horní Ředice,530539,3,2,,,,,,
+previous,77725,CFL 25/26,9387,15204672,27,2026-05-09 08:15,SK Motorlet Praha,201953,FC Písek,25417,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204804,27,2026-05-09 13:00,Slovan Velvary,228544,FK Jablonec B,322634,3,1,,,,,,
+previous,77725,CFL 25/26,9387,15204807,27,2026-05-09 13:00,FK Most-Baník Souš,53089,Mladá Boleslav B,323616,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204669,27,2026-05-09 14:00,Králův Dvůr,25418,SK Aritma Praha,165784,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204668,27,2026-05-09 15:00,SK Kladno,2223,FK Admira Praha,37114,1,3,,,,,,
+previous,77725,CFL 25/26,9387,15204816,27,2026-05-09 15:00,TJ Jiskra Ústí nad Orlicí,35252,SK Benátky nad Jizerou,228538,3,2,,,,,,
+team,77015,FNL 25/26,205,14028837,28,2026-05-09 16:00,1. SK Prostějov,76775,SK Dynamo České Budějovice,2221,1,1,,,,,,
+team,77015,FNL 25/26,205,14028832,28,2026-05-10 08:15,FK Viktoria Žižkov,2211,Sparta Praha B U21,4866,0,3,,,,,,
+previous,77725,CFL 25/26,9387,15204665,27,2026-05-10 08:15,Dukla Praha B,323618,Sokol Hostouň,246010,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204666,27,2026-05-10 08:15,Bohemians Praha 1905 B,323620,SK Dynamo Ceske Budejovice B,333482,3,3,,,,,,
+previous,77725,CFL 25/26,9387,15204809,27,2026-05-10 08:15,FC Hradec Kralove B,323615,Arsenal Česká Lípa,37113,2,3,,,,,,
+previous,77725,CFL 25/26,9387,15204805,27,2026-05-10 09:00,FK Teplice B,323614,Velke Hamry,281864,2,1,,,,,,
+previous,77725,CFL 25/26,9387,15204670,27,2026-05-10 12:00,Petrin Plzen,106317,TJ Jiskra Domažlice,24775,0,4,,,,,,
+team,78490,Divize C 25/26,20947,15200160,25,2026-05-10 15:00,FK Čáslav,6069,FK Náchod,2222,6,1,,,,,,
+previous,77725,CFL 25/26,9387,15204664,27,2026-05-10 15:00,MAS Táborsko II,229341,1.FK Příbram B,321884,0,3,,,,,,
+previous,77725,CFL 25/26,9387,15204671,27,2026-05-10 15:00,SK Slavia Prague C U20,1105328,Loko Vltavín,53133,1,2,,,,,,
+previous,77725,CFL 25/26,9387,15204802,27,2026-05-10 15:00,SK Zápy,53098,FK Neratovice-Byškovice,76771,3,1,,,,,,
+previous,77725,CFL 25/26,9387,15204803,27,2026-05-10 15:00,SK Sokol Brozany,36739,SK Sparta Kolín,34794,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204811,27,2026-05-10 15:00,FK Varnsdorf,34789,Slovan Liberec U21,105803,1,2,,,,,,
+team,77015,FNL 25/26,205,16112434,28,2026-05-12 15:00,MFK Chrudim,36741,1.FK Příbram,2213,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204673,28,2026-05-15 15:30,Sokol Hostouň,246010,Viktoria Plzeň B,321886,2,2,,,,,,
+previous,77725,CFL 25/26,9387,15204675,28,2026-05-15 16:00,FC Písek,25417,SK Slavia Prague C U20,1105328,0,1,,,,,,
+team,78489,Divize A 25/26,20945,15195065,26,2026-05-16 08:15,Povltavska FA,53101,SK Hořovice,423305,2,4,,,,,,
+team,78490,Divize C 25/26,20947,15200162,26,2026-05-16 08:15,FK Horní Ředice,530539,Spartak Police Nad Metuji,530540,3,3,,,,,,
+previous,77725,CFL 25/26,9387,15204678,28,2026-05-16 08:15,Loko Vltavín,53133,Petrin Plzen,106317,3,1,,,,,,
+previous,77725,CFL 25/26,9387,15204680,28,2026-05-16 08:15,SK Aritma Praha,165784,MAS Táborsko II,229341,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204808,28,2026-05-16 08:15,Mladá Boleslav B,323616,Slovan Velvary,228544,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204817,28,2026-05-16 08:15,FK Neratovice-Byškovice,76771,SK Sokol Brozany,36739,1,1,,,,,,
+team,78489,Divize A 25/26,20945,15195062,26,2026-05-16 08:30,FK Komarov,259968,FK Benešov,53088,0,2,,,,,,
+previous,77725,CFL 25/26,9387,15204679,28,2026-05-16 08:30,SK Dynamo Ceske Budejovice B,333482,Králův Dvůr,25418,6,2,,,,,,
+previous,77725,CFL 25/26,9387,15204813,28,2026-05-16 08:30,Velke Hamry,281864,TJ Jiskra Ústí nad Orlicí,35252,3,3,,,,,,
+team,77015,FNL 25/26,205,14028838,29,2026-05-16 15:00,SK Dynamo České Budějovice,2221,MFK Chrudim,36741,1,2,,,,,,
+team,77015,FNL 25/26,205,14028845,29,2026-05-16 15:00,Sparta Praha B U21,4866,Vysočina Jihlava,4863,0,2,,,,,,
+previous,77725,CFL 25/26,9387,15204677,28,2026-05-16 15:00,TJ Jiskra Domažlice,24775,SK Kladno,2223,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204806,28,2026-05-16 15:00,Arsenal Česká Lípa,37113,FK Most-Baník Souš,53089,3,0,,,,,,
+previous,77725,CFL 25/26,9387,15204674,28,2026-05-17 08:00,1.FK Příbram B,321884,SK Motorlet Praha,201953,1,0,,,,,,
+team,78490,Divize C 25/26,20947,15200163,26,2026-05-17 08:15,FK Chlumec nad Cidlinou,323617,FK Čáslav,6069,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204681,28,2026-05-17 08:15,FK Admira Praha,37114,Dukla Praha B,323618,0,3,,,,,,
+previous,77725,CFL 25/26,9387,15204812,28,2026-05-17 08:15,FK Jablonec B,322634,FK Varnsdorf,34789,3,3,,,,,,
+previous,77725,CFL 25/26,9387,15204814,28,2026-05-17 08:15,Slovan Liberec U21,105803,FK Teplice B,323614,4,1,,,,,,
+previous,77725,CFL 25/26,9387,15204810,28,2026-05-17 15:00,SK Sparta Kolín,34794,FC Hradec Kralove B,323615,0,5,,,,,,
+previous,77725,CFL 25/26,9387,15204818,28,2026-05-17 15:00,SK Benátky nad Jizerou,228538,FK Pardubice B,323619,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204721,34,2026-05-20 09:00,SK Slavia Prague C U20,1105328,Viktoria Plzeň B,321886,3,5,,,,,,
+previous,77725,CFL 25/26,9387,15204722,34,2026-05-20 15:00,1.FK Příbram B,321884,SK Kladno,2223,0,1,,,,,,
+previous,77725,CFL 25/26,9387,15204723,34,2026-05-20 15:00,Petrin Plzen,106317,Dukla Praha B,323618,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204726,34,2026-05-20 15:00,Loko Vltavín,53133,MAS Táborsko II,229341,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204727,34,2026-05-20 15:00,FK Admira Praha,37114,SK Dynamo Ceske Budejovice B,333482,3,6,,,,,,
+previous,77725,CFL 25/26,9387,15204731,34,2026-05-20 15:00,TJ Jiskra Domažlice,24775,SK Aritma Praha,165784,3,2,,,,,,
+previous,77725,CFL 25/26,9387,15204855,34,2026-05-20 15:00,FK Most-Baník Souš,53089,TJ Jiskra Ústí nad Orlicí,35252,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204856,34,2026-05-20 15:00,SK Sparta Kolín,34794,FK Varnsdorf,34789,0,2,,,,,,
+previous,77725,CFL 25/26,9387,15204860,34,2026-05-20 15:00,Mladá Boleslav B,323616,SK Sokol Brozany,36739,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204862,34,2026-05-20 15:00,Slovan Velvary,228544,FK Teplice B,323614,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204864,34,2026-05-20 15:00,Velke Hamry,281864,SK Benátky nad Jizerou,228538,0,2,,,,,,
+previous,77725,CFL 25/26,9387,15204724,34,2026-05-20 16:00,FC Písek,25417,Králův Dvůr,25418,3,1,,,,,,
+previous,77725,CFL 25/26,9387,15204725,34,2026-05-20 16:00,SK Motorlet Praha,201953,Bohemians Praha 1905 B,323620,2,2,,,,,,
+previous,77725,CFL 25/26,9387,15204861,34,2026-05-21 15:30,Arsenal Česká Lípa,37113,SK Zápy,53098,1,2,,,,,,
+team,78489,Divize A 25/26,20945,15195045,27,2026-05-23 08:15,FK Benešov,53088,FC Rokycany,76763,3,1,,,,,,
+team,78490,Divize C 25/26,20947,15200170,27,2026-05-23 08:15,FK Horní Ředice,530539,FK Chlumec nad Cidlinou,323617,4,0,,,,,,
+previous,77725,CFL 25/26,9387,15204686,29,2026-05-23 08:15,SK Aritma Praha,165784,1.FK Příbram B,321884,3,2,,,,,,
+team,77015,FNL 25/26,205,14028813,30,2026-05-23 12:00,Baník Ostrava B,323652,Sparta Praha B U21,4866,1,0,,,,,,
+team,77015,FNL 25/26,205,14028841,30,2026-05-23 12:00,FC Zbrojovka Brno,2210,SK Dynamo České Budějovice,2221,4,1,,,,,,
+team,77015,FNL 25/26,205,14028861,30,2026-05-23 12:00,MFK Chrudim,36741,SK Artis Brno,35264,2,1,,,,,,
+previous,77725,CFL 25/26,9387,15204682,29,2026-05-23 12:00,SK Kladno,2223,Loko Vltavín,53133,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204823,29,2026-05-23 13:00,FK Most-Baník Souš,53089,FC Hradec Kralove B,323615,3,0,,,,,,
+team,78490,Divize C 25/26,20947,15200177,27,2026-05-23 15:00,FK Dobrovice,36487,FK Čáslav,6069,2,5,,,,,,
+previous,77725,CFL 25/26,9387,15204821,29,2026-05-23 15:00,TJ Jiskra Ústí nad Orlicí,35252,Slovan Liberec U21,105803,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204676,29,2026-05-24 08:15,Dukla Praha B,323618,TJ Jiskra Domažlice,24775,1,3,,,,,,
+previous,77725,CFL 25/26,9387,15204684,29,2026-05-24 08:15,SK Slavia Prague C U20,1105328,SK Motorlet Praha,201953,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204687,29,2026-05-24 08:15,Bohemians Praha 1905 B,323620,Sokol Hostouň,246010,2,1,,,,,,
+previous,77725,CFL 25/26,9387,15204820,29,2026-05-24 08:15,FK Pardubice B,323619,Velke Hamry,281864,4,1,,,,,,
+previous,77725,CFL 25/26,9387,15204688,29,2026-05-24 08:30,Viktoria Plzeň B,321886,FK Admira Praha,37114,1,2,,,,,,
+previous,77725,CFL 25/26,9387,15204822,29,2026-05-24 09:00,FK Teplice B,323614,FK Jablonec B,322634,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204683,29,2026-05-24 12:00,Petrin Plzen,106317,FC Písek,25417,1,3,,,,,,
+previous,77725,CFL 25/26,9387,15204825,29,2026-05-24 13:00,Slovan Velvary,228544,Arsenal Česká Lípa,37113,1,4,,,,,,
+previous,77725,CFL 25/26,9387,15204685,29,2026-05-24 15:00,MAS Táborsko II,229341,SK Dynamo Ceske Budejovice B,333482,2,5,,,,,,
+previous,77725,CFL 25/26,9387,15204815,29,2026-05-24 15:00,FK Neratovice-Byškovice,76771,SK Sparta Kolín,34794,2,1,,,,,,
+previous,77725,CFL 25/26,9387,15204819,29,2026-05-24 15:00,SK Zápy,53098,SK Benátky nad Jizerou,228538,2,4,,,,,,
+previous,77725,CFL 25/26,9387,15204824,29,2026-05-24 15:00,FK Varnsdorf,34789,Mladá Boleslav B,323616,2,0,,,,,,
+team,78489,Divize A 25/26,20945,15195051,27,2026-05-24 15:30,SK Petrin Plzen B,455541,Povltavska FA,53101,0,3,,,,,,
+previous,77725,CFL 25/26,9387,16137539,34,2026-05-27 08:15,FC Hradec Kralove B,323615,FK Pardubice B,323619,3,2,,,,,,
+previous,77725,CFL 25/26,9387,15204865,34,2026-05-28 15:00,FK Jablonec B,322634,FK Neratovice-Byškovice,76771,1,3,,,,,,
+previous,77725,CFL 25/26,9387,15204689,30,2026-05-29 13:00,1.FK Příbram B,321884,SK Slavia Prague C U20,1105328,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204692,30,2026-05-29 16:00,FC Písek,25417,SK Kladno,2223,1,3,,,,,,
+previous,77725,CFL 25/26,9387,15204702,30,2026-05-29 16:00,Sokol Hostouň,246010,Králův Dvůr,25418,0,1,,,,,,
+team,78489,Divize A 25/26,20945,15195041,28,2026-05-30 08:15,Povltavska FA,53101,FK Benešov,53088,1,0,,,,,,
+team,78490,Divize C 25/26,20947,15200178,28,2026-05-30 08:15,FK Brandys Nad Labem,202106,FK Horní Ředice,530539,1,4,,,,,,
+previous,77725,CFL 25/26,9387,15204691,30,2026-05-30 08:15,SK Motorlet Praha,201953,Petrin Plzen,106317,0,2,,,,,,
+previous,77725,CFL 25/26,9387,15204693,30,2026-05-30 08:15,Loko Vltavín,53133,Dukla Praha B,323618,2,2,,,,,,
+previous,77725,CFL 25/26,9387,15204826,30,2026-05-30 08:15,Mladá Boleslav B,323616,FK Teplice B,323614,0,2,,,,,,
+previous,77725,CFL 25/26,9387,15204837,30,2026-05-30 08:30,Velke Hamry,281864,SK Zápy,53098,1,1,,,,,,
+previous,77725,CFL 25/26,9387,15204697,30,2026-05-30 13:30,SK Dynamo Ceske Budejovice B,333482,SK Aritma Praha,165784,2,2,,,,,,
+previous,77725,CFL 25/26,9387,15204694,30,2026-05-30 15:00,TJ Jiskra Domažlice,24775,Viktoria Plzeň B,321886,5,2,,,,,,
+previous,77725,CFL 25/26,9387,15204832,30,2026-05-30 15:00,Arsenal Česká Lípa,37113,FK Varnsdorf,34789,4,2,,,,,,
+previous,77725,CFL 25/26,9387,15204695,30,2026-05-31 08:15,FK Admira Praha,37114,Bohemians Praha 1905 B,323620,4,2,,,,,,
+previous,77725,CFL 25/26,9387,15204827,30,2026-05-31 08:15,FC Hradec Kralove B,323615,Slovan Velvary,228544,7,0,,,,,,
+previous,77725,CFL 25/26,9387,15204829,30,2026-05-31 08:15,Slovan Liberec U21,105803,FK Pardubice B,323619,5,2,,,,,,
+previous,77725,CFL 25/26,9387,15204839,30,2026-05-31 08:15,FK Jablonec B,322634,TJ Jiskra Ústí nad Orlicí,35252,1,1,,,,,,
+team,78490,Divize C 25/26,20947,15200180,28,2026-05-31 15:00,FK Čáslav,6069,Vysoké Mýto,106309,1,4,,,,,,
+previous,77725,CFL 25/26,9387,15204828,30,2026-05-31 15:00,SK Sparta Kolín,34794,FK Most-Baník Souš,53089,0,2,,,,,,
+previous,77725,CFL 25/26,9387,15204830,30,2026-05-31 15:00,SK Benátky nad Jizerou,228538,SK Sokol Brozany,36739,2,2,,,,,,
+previous,77725,CFL 25/26,9387,15204845,31,2026-06-03 15:00,FK Teplice B,323614,Arsenal Česká Lípa,37113,0,4,,,,,,
+previous,77725,CFL 25/26,9387,15204696,31,2026-06-04 09:00,SK Dynamo Ceske Budejovice B,333482,1.FK Příbram B,321884,2,2,,,,,,
+previous,77725,CFL 25/26,9387,15204700,31,2026-06-05 14:00,Dukla Praha B,323618,FC Písek,25417,0,3,,,,,,
+previous,77725,CFL 25/26,9387,15204704,31,2026-06-05 15:00,Viktoria Plzeň B,321886,Loko Vltavín,53133,2,0,,,,,,
+previous,77725,CFL 25/26,9387,15204703,31,2026-06-05 15:30,Petrin Plzen,106317,SK Slavia Prague C U20,1105328,1,3,,,,,,
+team,78489,Divize A 25/26,20945,15195017,29,2026-06-06 08:15,FK Benešov,53088,Slavoj Cesky Krumlov,76761,5,1,,,,,,
+team,78490,Divize C 25/26,20947,15200187,29,2026-06-06 08:15,FK Horní Ředice,530539,FC Hlinsko,53130,3,1,,,,,,
+previous,77725,CFL 25/26,9387,15204831,31,2026-06-06 08:15,FK Pardubice B,323619,FK Jablonec B,322634,3,2,,,,,,
+previous,77725,CFL 25/26,9387,15204838,31,2026-06-06 08:15,FK Neratovice-Byškovice,76771,SK Benátky nad Jizerou,228538,1,4,,,,,,
+team,78490,Divize C 25/26,20947,15200192,29,2026-06-06 08:30,FK Přepeře,292625,FK Čáslav,6069,4,1,,,,,,
+previous,77725,CFL 25/26,9387,15204701,31,2026-06-06 09:00,Bohemians Praha 1905 B,323620,TJ Jiskra Domažlice,24775,0,3,,,,,,
+previous,77725,CFL 25/26,9387,15204840,31,2026-06-06 13:00,Slovan Velvary,228544,FK Most-Baník Souš,53089,0,1,,,,,,
+previous,77725,CFL 25/26,9387,15204698,31,2026-06-06 15:00,MAS Táborsko II,229341,Sokol Hostouň,246010,0,1,,,,,,
+previous,77725,CFL 25/26,9387,15204699,31,2026-06-06 15:00,Králův Dvůr,25418,FK Admira Praha,37114,5,2,,,,,,
+previous,77725,CFL 25/26,9387,15204705,31,2026-06-06 15:00,SK Kladno,2223,SK Motorlet Praha,201953,0,0,,,,,,
+previous,77725,CFL 25/26,9387,15204833,31,2026-06-06 15:00,SK Sokol Brozany,36739,Velke Hamry,281864,1,0,,,,,,
+previous,77725,CFL 25/26,9387,15204834,31,2026-06-06 15:00,TJ Jiskra Ústí nad Orlicí,35252,Mladá Boleslav B,323616,0,3,,,,,,
+previous,77725,CFL 25/26,9387,15204841,31,2026-06-06 15:00,SK Zápy,53098,Slovan Liberec U21,105803,5,0,,,,,,
+team,78489,Divize A 25/26,20945,15195020,29,2026-06-07 15:00,Hluboka,314796,Povltavska FA,53101,2,3,,,,,,
+previous,77725,CFL 25/26,9387,15204836,31,2026-06-07 15:00,FK Varnsdorf,34789,FC Hradec Kralove B,323615,5,0,,,,,,
+previous,77725,CFL 25/26,9387,16298269,29,2026-06-10 16:00,SK Kladno,2223,Arsenal Česká Lípa,37113,0,2,,,,,,
+team,78489,Divize A 25/26,20945,15195013,30,2026-06-13 08:15,Povltavska FA,53101,TJ Jiskra Domažlice II,319342,5,0,,,,,,
+team,78489,Divize A 25/26,20945,15195011,30,2026-06-13 12:00,SK Hořovice,423305,FK Benešov,53088,0,3,,,,,,
+team,78490,Divize C 25/26,20947,15200196,30,2026-06-13 15:00,FK Čáslav,6069,MFK Chrudim B,318907,1,2,,,,,,
+team,78490,Divize C 25/26,20947,15200200,30,2026-06-13 15:00,Svitavy,2231,FK Horní Ředice,530539,2,4,,,,,,
+previous,77725,CFL 25/26,9387,16298270,29,2026-06-13 16:30,Arsenal Česká Lípa,37113,SK Kladno,2223,2,3,,,,,,
+current,97216,CFL 26/27,9387,16413164,1,2026-08-07 16:00,FK Most-Baník Souš,53089,FK Teplice B,323614,5,0,1.9091,3.75,3.1,1.9091,3.75,3.1
+current,97216,CFL 26/27,9387,16413170,1,2026-08-07 16:00,SK Motorlet Praha,201953,Bohemians Praha 1905 B,323620,3,0,1.8333,3.8,3.25,1.8333,3.8,3.25
+current,97216,CFL 26/27,9387,16413165,1,2026-08-08 08:15,FK Benešov,53088,SK Aritma Praha,165784,0,0,2.1,3.75,2.7,2.1,3.75,2.7
+current,97216,CFL 26/27,9387,16413169,1,2026-08-08 08:15,Loko Vltavín,53133,Dukla Praha B,323618,1,0,2.25,3.5,2.6,2.25,3.5,2.6
+current,97216,CFL 26/27,9387,16413171,1,2026-08-08 08:15,Povltavska FA,53101,FC Písek,25417,0,3,3.5,4.0,1.7273,3.5,4.0,1.7273
+current,97216,CFL 26/27,9387,16413172,1,2026-08-08 08:15,SK Slavia Prague C U20,1105328,1.FK Příbram B,321884,2,0,1.6667,3.9,3.8,1.6667,3.9,3.8
+current,97216,CFL 26/27,9387,16413176,1,2026-08-08 08:15,Mladá Boleslav B,323616,MFK Chrudim,36741,6,1,2.3,3.6,2.5,2.3,3.6,2.5
+current,97216,CFL 26/27,9387,16413167,1,2026-08-08 15:00,TJ Jiskra Domažlice,24775,Sparta Praha B U21,4866,2,2,2.4,4.5,2.1,2.4,4.5,2.1
+current,97216,CFL 26/27,9387,16413168,1,2026-08-08 15:00,Králův Dvůr,25418,Viktoria Plzeň B,321886,2,2,2.625,4.0,2.05,2.625,4.0,2.05
+current,97216,CFL 26/27,9387,16413178,1,2026-08-08 15:00,Velke Hamry,281864,Slovan Liberec U21,105803,1,2,2.25,3.7,2.5,2.25,3.7,2.5
+current,97216,CFL 26/27,9387,16413174,1,2026-08-09 08:15,FC Hradec Kralove B,323615,FK Pardubice B,323619,2,1,1.8333,4.2,3.0,1.8333,4.2,3.0
+current,97216,CFL 26/27,9387,16413175,1,2026-08-09 08:15,FK Jablonec B,322634,FK Horní Ředice,530539,2,0,1.9091,4.5,2.7,1.9091,4.5,2.7
+current,97216,CFL 26/27,9387,16413166,1,2026-08-09 15:00,SK Dynamo České Budějovice,2221,FK Admira Praha,37114,5,0,2.05,3.7,2.75,2.05,3.7,2.75
+current,97216,CFL 26/27,9387,16413173,1,2026-08-09 15:00,SK Sokol Brozany,36739,FK Čáslav,6069,0,0,1.9091,4.0,3.0,1.9091,4.0,3.0
+current,97216,CFL 26/27,9387,16413177,1,2026-08-09 15:00,FK Varnsdorf,34789,SK Benátky nad Jizerou,228538,1,0,2.1,4.0,2.6,2.1,4.0,2.6
+current,97216,CFL 26/27,9387,16413179,1,2026-08-09 15:00,SK Zápy,53098,FK Neratovice-Byškovice,76771,6,0,1.3333,5.0,6.0,1.3333,5.0,6.0
+current,97216,CFL 26/27,9387,16413180,2,2026-08-15 08:15,SK Aritma Praha,165784,Povltavska FA,53101,0,0,1.7273,3.8,3.6,1.7273,3.8,3.6
+current,97216,CFL 26/27,9387,16413191,2,2026-08-15 08:15,FK Neratovice-Byškovice,76771,FK Jablonec B,322634,1,1,2.0,3.6,3.0,2.0,3.6,3.0
+current,97216,CFL 26/27,9387,16413194,2,2026-08-15 08:30,Velke Hamry,281864,SK Zápy,53098,0,2,4.0,4.0,1.6154,4.0,4.0,1.6154
+current,97216,CFL 26/27,9387,16413188,2,2026-08-15 09:00,MFK Chrudim,36741,FK Varnsdorf,34789,3,1,2.8,3.6,2.1,2.8,3.6,2.1
+current,97216,CFL 26/27,9387,16413189,2,2026-08-15 12:00,FK Horní Ředice,530539,Mladá Boleslav B,323616,0,6,2.3,3.75,2.4,2.3,3.75,2.4
+current,97216,CFL 26/27,9387,16413182,2,2026-08-15 13:00,TJ Jiskra Domažlice,24775,FK Benešov,53088,1,0,1.3636,5.25,5.25,1.3636,5.25,5.25
+current,97216,CFL 26/27,9387,16413181,2,2026-08-16 08:15,Bohemians Praha 1905 B,323620,SK Slavia Prague C U20,1105328,0,0,2.7,3.6,2.15,2.7,3.6,2.15
+current,97216,CFL 26/27,9387,16413183,2,2026-08-16 08:15,Dukla Praha B,323618,Králův Dvůr,25418,1,3,1.95,4.0,2.875,1.95,4.0,2.875
+current,97216,CFL 26/27,9387,16413192,2,2026-08-16 08:15,FK Pardubice B,323619,FK Most-Baník Souš,53089,1,0,2.3,3.6,2.5,2.3,3.6,2.5
+current,97216,CFL 26/27,9387,16413195,2,2026-08-16 08:15,Sparta Praha B U21,4866,FK Admira Praha,37114,0,1,1.3636,5.0,5.5,1.3636,5.0,5.5
+current,97216,CFL 26/27,9387,16413196,2,2026-08-16 08:30,Viktoria Plzeň B,321886,SK Motorlet Praha,201953,1,0,1.85,3.75,3.2,1.85,3.75,3.2
+current,97216,CFL 26/27,9387,16413193,2,2026-08-16 09:00,FK Teplice B,323614,SK Sokol Brozany,36739,5,2,1.85,3.7,3.3,1.85,3.7,3.3
+current,97216,CFL 26/27,9387,16413186,2,2026-08-16 13:00,1.FK Příbram B,321884,SK Dynamo České Budějovice,2221,0,2,3.0,3.7,1.95,3.0,3.7,1.95
+current,97216,CFL 26/27,9387,16413184,2,2026-08-16 15:00,FC Písek,25417,Loko Vltavín,53133,2,2,1.8,3.8,3.4,1.8,3.8,3.4
+current,97216,CFL 26/27,9387,16413187,2,2026-08-16 15:00,SK Benátky nad Jizerou,228538,FC Hradec Kralove B,323615,1,1,2.3,3.6,2.5,2.3,3.6,2.5
+current,97216,CFL 26/27,9387,16413202,3,2026-08-22 08:15,Loko Vltavín,53133,SK Aritma Praha,165784,2,2,2.05,3.5,2.9,2.05,3.5,2.9
+current,97216,CFL 26/27,9387,16413205,3,2026-08-22 08:15,SK Slavia Prague C U20,1105328,Viktoria Plzeň B,321886,1,4,2.6,3.6,2.2,2.6,3.6,2.2
+current,97216,CFL 26/27,9387,16413210,3,2026-08-22 08:15,Mladá Boleslav B,323616,FK Neratovice-Byškovice,76771,1,2,1.4,4.5,5.5,1.4,4.5,5.5
+current,97216,CFL 26/27,9387,16413201,3,2026-08-22 15:00,Králův Dvůr,25418,FC Písek,25417,3,1,2.0,3.75,2.9,2.0,3.75,2.9
+current,97216,CFL 26/27,9387,16413198,3,2026-08-23 08:15,FK Admira Praha,37114,1.FK Příbram B,321884,1,3,1.6667,4.0,3.75,1.6667,4.0,3.75
+current,97216,CFL 26/27,9387,16413208,3,2026-08-23 08:15,FC Hradec Kralove B,323615,MFK Chrudim,36741,0,0,1.8,3.9,3.4,1.8,3.9,3.4
+current,97216,CFL 26/27,9387,16413209,3,2026-08-23 08:15,FK Jablonec B,322634,Velke Hamry,281864,6,0,1.7273,4.0,3.5,1.7273,4.0,3.5
+current,97216,CFL 26/27,9387,16413200,3,2026-08-23 15:00,SK Dynamo České Budějovice,2221,Bohemians Praha 1905 B,323620,3,0,,,,,,
+current,97216,CFL 26/27,9387,16413207,3,2026-08-23 15:00,FK Čáslav,6069,FK Teplice B,323614,0,1,2.6,4.0,2.1,2.6,4.0,2.1
+current,97216,CFL 26/27,9387,16413213,4,2026-08-29 08:15,SK Aritma Praha,165784,Králův Dvůr,25418,0,2,2.55,3.6,2.25,2.55,3.6,2.25
+current,97216,CFL 26/27,9387,16413214,4,2026-08-29 08:15,FK Benešov,53088,Povltavska FA,53101,3,1,1.8333,3.8,3.25,1.8333,3.8,3.25
+current,97216,CFL 26/27,9387,16413220,4,2026-08-29 08:15,MFK Chrudim,36741,FK Most-Baník Souš,53089,1,2,3.1,3.75,1.9091,3.1,3.75,1.9091
+current,97216,CFL 26/27,9387,16413221,4,2026-08-29 08:15,FK Horní Ředice,530539,FC Hradec Kralove B,323615,1,0,2.25,3.75,2.5,2.25,3.75,2.5
+current,97216,CFL 26/27,9387,16413222,4,2026-08-29 08:15,Slovan Liberec U21,105803,FK Teplice B,323614,0,4,1.8,4.0,3.25,1.8,4.0,3.25
+current,97216,CFL 26/27,9387,16413223,4,2026-08-29 08:15,FK Neratovice-Byškovice,76771,FK Varnsdorf,34789,1,2,2.3,3.75,2.4,2.3,3.75,2.4
+current,97216,CFL 26/27,9387,16413225,4,2026-08-29 08:30,Velke Hamry,281864,Mladá Boleslav B,323616,0,3,4.75,4.2,1.5,4.75,4.2,1.5
+current,97216,CFL 26/27,9387,16413216,4,2026-08-29 15:00,TJ Jiskra Domažlice,24775,Loko Vltavín,53133,0,2,,,,,,
+current,97216,CFL 26/27,9387,16413215,4,2026-08-30 08:15,Bohemians Praha 1905 B,323620,FK Admira Praha,37114,3,1,2.2,3.6,2.625,2.2,3.6,2.625
+current,97216,CFL 26/27,9387,16413217,4,2026-08-30 08:15,Dukla Praha B,323618,SK Slavia Prague C U20,1105328,2,1,2.1,3.6,2.8,2.1,3.6,2.8
+current,97216,CFL 26/27,9387,16413224,4,2026-08-30 08:15,FK Pardubice B,323619,FK Čáslav,6069,7,0,1.4,4.5,5.5,1.4,4.5,5.5
+current,97216,CFL 26/27,9387,16413227,4,2026-08-30 08:15,Sparta Praha B U21,4866,1.FK Příbram B,321884,4,0,1.1429,7.5,11.0,1.1429,7.5,11.0
+current,97216,CFL 26/27,9387,16413228,4,2026-08-30 08:30,Viktoria Plzeň B,321886,SK Dynamo České Budějovice,2221,2,4,2.875,3.75,2.0,2.875,3.75,2.0
+current,97216,CFL 26/27,9387,16413218,4,2026-08-30 15:00,FC Písek,25417,SK Motorlet Praha,201953,0,2,1.7273,4.0,3.5,1.7273,4.0,3.5
+current,97216,CFL 26/27,9387,16413219,4,2026-08-30 15:00,SK Benátky nad Jizerou,228538,SK Sokol Brozany,36739,0,0,1.8,3.8,3.4,1.8,3.8,3.4
+current,97216,CFL 26/27,9387,16413226,4,2026-08-30 15:00,SK Zápy,53098,FK Jablonec B,322634,1,1,1.5,4.3333,4.5,1.5,4.3333,4.5
+current,97216,CFL 26/27,9387,16979703,,2026-09-02 15:00,Povltavska FA,53101,TJ Jiskra Domažlice,24775,3,5,5.5,4.5,1.4,5.5,4.5,1.4
+current,97216,CFL 26/27,9387,17022980,3,2026-09-02 15:00,Povltavska FA,53101,TJ Jiskra Domažlice,24775,3,5,,,,,,
+current,97216,CFL 26/27,9387,17022984,3,2026-09-02 15:00,FK Benešov,53088,Sparta Praha B U21,4866,1,1,,,,,,
+current,97216,CFL 26/27,9387,16413231,5,2026-09-04 15:00,SK Dynamo České Budějovice,2221,Dukla Praha B,323618,2,2,1.6154,4.0,4.0,1.6154,4.0,4.0
+current,97216,CFL 26/27,9387,16413233,5,2026-09-05 08:15,Loko Vltavín,53133,FK Benešov,53088,2,2,2.1,3.6,2.75,2.1,3.6,2.75
+current,97216,CFL 26/27,9387,16413237,5,2026-09-05 08:15,SK Motorlet Praha,201953,SK Aritma Praha,165784,4,0,1.65,3.7,4.1,1.65,3.7,4.1
+current,97216,CFL 26/27,9387,16413240,5,2026-09-05 08:15,SK Slavia Prague C U20,1105328,FC Písek,25417,1,1,2.5,3.6,2.25,2.5,3.6,2.25
+current,97216,CFL 26/27,9387,16413245,5,2026-09-05 08:15,Mladá Boleslav B,323616,SK Zápy,53098,2,3,2.6,3.6,2.2,2.6,3.6,2.2
+current,97216,CFL 26/27,9387,16413229,5,2026-09-05 13:00,FK Most-Baník Souš,53089,FK Horní Ředice,530539,0,1,1.3333,4.75,6.25,1.3333,4.75,6.25
+current,97216,CFL 26/27,9387,16413239,5,2026-09-05 13:00,1.FK Příbram B,321884,Bohemians Praha 1905 B,323620,7,2,2.3,3.75,2.375,2.3,3.75,2.375
+current,97216,CFL 26/27,9387,16413232,5,2026-09-05 15:00,Králův Dvůr,25418,TJ Jiskra Domažlice,24775,1,2,2.2,3.8,2.5,2.2,3.8,2.5
+current,97216,CFL 26/27,9387,16413230,5,2026-09-06 08:15,FK Admira Praha,37114,Viktoria Plzeň B,321886,0,1,2.875,3.8,2.0,2.875,3.8,2.0
+current,97216,CFL 26/27,9387,16413243,5,2026-09-06 08:15,FC Hradec Kralove B,323615,FK Neratovice-Byškovice,76771,0,0,1.5714,4.1,4.2,1.5714,4.1,4.2
+current,97216,CFL 26/27,9387,16413244,5,2026-09-06 08:15,FK Jablonec B,322634,Slovan Liberec U21,105803,2,0,1.7273,3.7,3.75,1.7273,3.7,3.75
+current,97216,CFL 26/27,9387,16413246,5,2026-09-06 09:00,FK Teplice B,323614,FK Pardubice B,323619,1,1,2.0,3.75,2.9,2.0,3.75,2.9
+current,97216,CFL 26/27,9387,16413238,5,2026-09-06 15:00,Povltavska FA,53101,Sparta Praha B U21,4866,0,0,5.0,4.75,1.42,5.0,4.75,1.42
+current,97216,CFL 26/27,9387,16413241,5,2026-09-06 15:00,SK Sokol Brozany,36739,MFK Chrudim,36741,1,1,2.1,3.75,2.7,2.1,3.75,2.7
+current,97216,CFL 26/27,9387,16413242,5,2026-09-06 15:00,FK Čáslav,6069,SK Benátky nad Jizerou,228538,0,2,2.3,3.7,2.45,2.3,3.7,2.45
+current,97216,CFL 26/27,9387,16413247,5,2026-09-06 15:00,FK Varnsdorf,34789,Velke Hamry,281864,3,1,1.3636,4.75,6.0,1.3636,4.75,6.0
+current,97216,CFL 26/27,9387,16413203,3,2026-09-09 15:00,SK Motorlet Praha,201953,Dukla Praha B,323618,2,1,1.8,3.6,3.5,1.8,3.6,3.5
+current,97216,CFL 26/27,9387,17107264,3,2026-09-09 15:00,SK Motorlet Praha,201953,Dukla Praha B,323618,2,1,,,,,,
+current,97216,CFL 26/27,9387,16413258,6,2026-09-11 09:00,Slovan Liberec U21,105803,FK Pardubice B,323619,2,2,2.9,4.0,1.9091,2.9,4.0,1.9091
+current,97216,CFL 26/27,9387,16413252,6,2026-09-11 16:00,FC Písek,25417,SK Dynamo České Budějovice,2221,3,2,1.9091,3.75,3.1,1.9091,3.75,3.1
+current,97216,CFL 26/27,9387,16413248,6,2026-09-12 08:15,SK Aritma Praha,165784,SK Slavia Prague C U20,1105328,1,3,2.75,3.6,2.1,2.75,3.6,2.1
+current,97216,CFL 26/27,9387,16413249,6,2026-09-12 08:15,FK Benešov,53088,Králův Dvůr,25418,2,4,2.25,3.75,2.5,2.25,3.75,2.5
+current,97216,CFL 26/27,9387,16413253,6,2026-09-12 08:15,Povltavska FA,53101,Loko Vltavín,53133,2,4,2.5,3.75,2.25,2.5,3.75,2.25
+current,97216,CFL 26/27,9387,16413255,6,2026-09-12 08:15,MFK Chrudim,36741,FK Čáslav,6069,2,2,1.5714,4.2,4.2,1.5714,4.2,4.2
+current,97216,CFL 26/27,9387,16413259,6,2026-09-12 08:15,FK Neratovice-Byškovice,76771,FK Most-Baník Souš,53089,0,4,3.2,3.6,1.9091,3.2,3.6,1.9091
+current,97216,CFL 26/27,9387,16413260,6,2026-09-12 08:30,Velke Hamry,281864,FC Hradec Kralove B,323615,0,0,3.6,3.8,1.7273,3.6,3.8,1.7273
+current,97216,CFL 26/27,9387,16413256,6,2026-09-12 12:00,FK Horní Ředice,530539,SK Sokol Brozany,36739,1,3,2.1,3.75,2.7,2.1,3.75,2.7
+current,97216,CFL 26/27,9387,16413250,6,2026-09-12 15:00,TJ Jiskra Domažlice,24775,SK Motorlet Praha,201953,5,2,1.5714,4.2,4.2,1.5714,4.2,4.2
+current,97216,CFL 26/27,9387,16413254,6,2026-09-12 15:00,SK Benátky nad Jizerou,228538,FK Teplice B,323614,1,0,2.375,3.4,2.5,2.375,3.4,2.5
+current,97216,CFL 26/27,9387,16413261,6,2026-09-12 15:00,SK Zápy,53098,FK Varnsdorf,34789,4,4,1.45,4.3333,5.0,1.45,4.3333,5.0
+current,97216,CFL 26/27,9387,16413251,6,2026-09-13 08:15,Dukla Praha B,323618,FK Admira Praha,37114,1,1,2.5,3.75,2.25,2.5,3.75,2.25
+current,97216,CFL 26/27,9387,16413257,6,2026-09-13 08:15,FK Jablonec B,322634,Mladá Boleslav B,323616,2,2,2.1,3.75,2.7,2.1,3.75,2.7
+current,97216,CFL 26/27,9387,16413262,6,2026-09-13 08:15,Sparta Praha B U21,4866,Bohemians Praha 1905 B,323620,4,1,1.3636,4.75,5.75,1.3636,4.75,5.75
+current,97216,CFL 26/27,9387,16413263,6,2026-09-13 08:30,Viktoria Plzeň B,321886,1.FK Příbram B,321884,3,1,1.4444,4.5,5.0,1.4444,4.5,5.0
+current,97216,CFL 26/27,9387,16413212,3,2026-09-16 15:00,SK Zápy,53098,Slovan Liberec U21,105803,2,1,1.25,5.75,7.0,1.25,5.75,7.0
+current,97216,CFL 26/27,9387,16898078,3,2026-09-16 15:00,SK Sokol Brozany,36739,FK Pardubice B,323619,0,1,3.1,3.75,1.9091,3.1,3.75,1.9091
+current,97216,CFL 26/27,9387,17122250,3,2026-09-16 15:00,SK Zápy,53098,Slovan Liberec U21,105803,2,1,,,,,,
+current,97216,CFL 26/27,9387,16413269,7,2026-09-19 08:15,Loko Vltavín,53133,Sparta Praha B U21,4866,0,4,4.0,4.1,1.6154,4.0,4.1,1.6154
+current,97216,CFL 26/27,9387,16413270,7,2026-09-19 08:15,SK Motorlet Praha,201953,FK Benešov,53088,1,1,1.5714,4.0,4.2,1.5714,4.0,4.2
+current,97216,CFL 26/27,9387,16413272,7,2026-09-19 08:15,SK Slavia Prague C U20,1105328,TJ Jiskra Domažlice,24775,0,2,3.4,4.0,1.75,3.4,4.0,1.75
+current,97216,CFL 26/27,9387,16413264,7,2026-09-19 13:00,FK Most-Baník Souš,53089,Velke Hamry,281864,3,0,1.2222,5.5,8.0,1.2222,5.5,8.0
+current,97216,CFL 26/27,9387,16413271,7,2026-09-19 13:00,1.FK Příbram B,321884,Dukla Praha B,323618,0,0,1.85,3.9,3.1,1.85,3.9,3.1
+current,97216,CFL 26/27,9387,16413267,7,2026-09-19 14:30,SK Dynamo České Budějovice,2221,SK Aritma Praha,165784,7,0,1.3333,4.75,6.25,1.3333,4.75,6.25
+current,97216,CFL 26/27,9387,16413268,7,2026-09-19 14:30,Králův Dvůr,25418,Povltavska FA,53101,2,1,1.2857,5.5,6.5,1.2857,5.5,6.5
+current,97216,CFL 26/27,9387,16413265,7,2026-09-20 08:15,FK Admira Praha,37114,FC Písek,25417,4,1,2.625,3.75,2.15,2.625,3.75,2.15
+current,97216,CFL 26/27,9387,16413266,7,2026-09-20 08:15,Bohemians Praha 1905 B,323620,Viktoria Plzeň B,321886,3,0,3.1,4.0,1.8333,3.1,4.0,1.8333
+current,97216,CFL 26/27,9387,16413275,7,2026-09-20 08:15,FC Hradec Kralove B,323615,SK Zápy,53098,1,2,3.0,3.75,1.9091,3.0,3.75,1.9091
+current,97216,CFL 26/27,9387,16413277,7,2026-09-20 08:15,FK Pardubice B,323619,SK Benátky nad Jizerou,228538,2,3,1.6154,4.0,4.0,1.6154,4.0,4.0
+current,97216,CFL 26/27,9387,16413276,7,2026-09-20 09:00,Mladá Boleslav B,323616,Slovan Liberec U21,105803,2,1,1.4444,4.5,5.0,1.4444,4.5,5.0
+current,97216,CFL 26/27,9387,16413278,7,2026-09-20 09:00,FK Teplice B,323614,MFK Chrudim,36741,4,1,1.6,4.0,4.1,1.6,4.0,4.1
+current,97216,CFL 26/27,9387,16413273,7,2026-09-20 14:30,SK Sokol Brozany,36739,FK Neratovice-Byškovice,76771,2,2,1.95,3.7,3.0,1.95,3.7,3.0
+current,97216,CFL 26/27,9387,16413274,7,2026-09-20 14:30,FK Čáslav,6069,FK Horní Ředice,530539,2,1,2.2,3.7,2.55,2.2,3.7,2.55
+current,97216,CFL 26/27,9387,16413279,7,2026-09-20 14:30,FK Varnsdorf,34789,FK Jablonec B,322634,0,2,1.8,3.9,3.25,1.8,3.9,3.25
+current,97216,CFL 26/27,9387,16413285,8,2026-09-25 16:00,FC Písek,25417,1.FK Příbram B,321884,1,1,1.65,4.1,3.8,1.65,4.1,3.8
+current,97216,CFL 26/27,9387,16413280,8,2026-09-26 08:15,SK Aritma Praha,165784,FK Admira Praha,37114,3,2,3.2,3.9,1.8333,3.2,3.9,1.8333
+current,97216,CFL 26/27,9387,16413281,8,2026-09-26 08:15,FK Benešov,53088,SK Slavia Prague C U20,1105328,0,2,2.0,3.7,2.9,2.0,3.7,2.9
+current,97216,CFL 26/27,9387,16413284,8,2026-09-26 08:15,Loko Vltavín,53133,Králův Dvůr,25418,2,3,2.6,3.8,2.15,2.6,3.8,2.15
+current,97216,CFL 26/27,9387,16413286,8,2026-09-26 08:15,Povltavska FA,53101,SK Motorlet Praha,201953,0,2,3.9,4.1,1.65,3.9,4.1,1.65
+current,97216,CFL 26/27,9387,16413287,8,2026-09-26 08:15,MFK Chrudim,36741,FK Pardubice B,323619,0,1,2.7,3.7,2.15,2.7,3.7,2.15
+current,97216,CFL 26/27,9387,16413288,8,2026-09-26 08:15,FK Horní Ředice,530539,FK Teplice B,323614,4,1,3.6,4.0,1.7,3.6,4.0,1.7
+current,97216,CFL 26/27,9387,16413290,8,2026-09-26 08:15,Slovan Liberec U21,105803,SK Benátky nad Jizerou,228538,0,4,2.1,3.9,2.625,2.1,3.9,2.625
+current,97216,CFL 26/27,9387,16413292,8,2026-09-26 14:00,FK Neratovice-Byškovice,76771,FK Čáslav,6069,0,2,1.7273,3.8,3.6,1.7273,3.8,3.6
+current,97216,CFL 26/27,9387,16413282,8,2026-09-26 14:30,TJ Jiskra Domažlice,24775,SK Dynamo České Budějovice,2221,6,3,1.8,3.9,3.25,1.8,3.9,3.25
+current,97216,CFL 26/27,9387,16413293,8,2026-09-26 14:30,Velke Hamry,281864,SK Sokol Brozany,36739,4,2,,,,,,
+current,97216,CFL 26/27,9387,16413283,8,2026-09-27 08:15,Dukla Praha B,323618,Bohemians Praha 1905 B,323620,2,2,2.15,4.0,2.5,2.15,4.0,2.5
+current,97216,CFL 26/27,9387,16413289,8,2026-09-27 08:15,FK Jablonec B,322634,FC Hradec Kralove B,323615,1,2,1.6667,4.0,3.75,1.6667,4.0,3.75
+current,97216,CFL 26/27,9387,16413294,8,2026-09-27 14:30,SK Zápy,53098,FK Most-Baník Souš,53089,3,1,1.7273,4.0,3.5,1.7273,4.0,3.5
+current,97216,CFL 26/27,9387,16413301,9,2026-10-03 08:15,SK Motorlet Praha,201953,Loko Vltavín,53133,3,0,1.5,4.3333,4.5,1.5,4.3333,4.5
+current,97216,CFL 26/27,9387,16413296,9,2026-10-03 13:00,FK Most-Baník Souš,53089,FK Jablonec B,322634,1,3,1.6667,4.0,3.8,1.6667,4.0,3.8
+current,97216,CFL 26/27,9387,16413302,9,2026-10-03 13:00,1.FK Příbram B,321884,SK Aritma Praha,165784,1,1,1.6154,4.0,4.0,1.6154,4.0,4.0
+current,97216,CFL 26/27,9387,16413299,9,2026-10-03 14:00,SK Dynamo České Budějovice,2221,FK Benešov,53088,3,0,1.4,4.5,5.5,1.4,4.5,5.5
+current,97216,CFL 26/27,9387,16413297,9,2026-10-04 08:15,FK Admira Praha,37114,TJ Jiskra Domažlice,24775,4,4,3.6,4.2,1.6667,3.6,4.2,1.6667
+current,97216,CFL 26/27,9387,16413298,9,2026-10-04 08:15,Bohemians Praha 1905 B,323620,FC Písek,25417,3,3,2.1,3.75,2.7,2.1,3.75,2.7
+current,97216,CFL 26/27,9387,16413307,9,2026-10-04 08:15,FC Hradec Kralove B,323615,Mladá Boleslav B,323616,0,1,2.2,3.6,2.625,2.2,3.6,2.625
+current,97216,CFL 26/27,9387,16413311,9,2026-10-04 08:30,Viktoria Plzeň B,321886,Dukla Praha B,323618,3,0,1.5,4.3333,4.5,1.5,4.3333,4.5
+current,97216,CFL 26/27,9387,16413309,9,2026-10-04 09:00,FK Teplice B,323614,FK Neratovice-Byškovice,76771,0,2,1.4444,4.3333,5.25,1.4444,4.3333,5.25
+current,97216,CFL 26/27,9387,16413303,9,2026-10-04 14:00,SK Slavia Prague C U20,1105328,Povltavska FA,53101,4,0,1.4444,4.5,5.0,1.4444,4.5,5.0
+current,97216,CFL 26/27,9387,16413304,9,2026-10-04 14:00,SK Benátky nad Jizerou,228538,MFK Chrudim,36741,3,3,1.4444,4.3333,5.25,1.4444,4.3333,5.25
+current,97216,CFL 26/27,9387,16413305,9,2026-10-04 14:00,SK Sokol Brozany,36739,SK Zápy,53098,0,0,4.5,4.2,1.5333,4.5,4.2,1.5333
+current,97216,CFL 26/27,9387,16413306,9,2026-10-04 14:00,FK Čáslav,6069,Velke Hamry,281864,2,1,1.6667,4.0,3.8,1.6667,4.0,3.8
+current,97216,CFL 26/27,9387,16413310,9,2026-10-04 14:00,FK Varnsdorf,34789,Slovan Liberec U21,105803,1,1,1.4,4.75,5.25,1.4,4.75,5.25
+current,97216,CFL 26/27,9387,17239594,8,2026-10-07 09:00,Mladá Boleslav B,323616,FK Varnsdorf,34789,1,1,1.95,3.9,2.9,1.95,3.9,2.9
+current,97216,CFL 26/27,9387,16413317,10,2026-10-09 16:00,FC Písek,25417,Viktoria Plzeň B,321886,2,2,2.25,3.75,2.45,2.25,3.75,2.45
+current,97216,CFL 26/27,9387,16413312,10,2026-10-10 08:15,SK Aritma Praha,165784,Bohemians Praha 1905 B,323620,3,3,1.95,3.9,2.9,1.95,3.9,2.9
+current,97216,CFL 26/27,9387,16413313,10,2026-10-10 08:15,FK Benešov,53088,FK Admira Praha,37114,1,4,2.3,3.7,2.4,2.3,3.7,2.4
+current,97216,CFL 26/27,9387,16413316,10,2026-10-10 08:15,Loko Vltavín,53133,SK Slavia Prague C U20,1105328,2,1,2.25,3.8,2.45,2.25,3.8,2.45
+current,97216,CFL 26/27,9387,16413318,10,2026-10-10 08:15,Povltavska FA,53101,SK Dynamo České Budějovice,2221,1,3,7.5,6.0,1.2222,7.5,6.0,1.2222
+current,97216,CFL 26/27,9387,16413319,10,2026-10-10 08:15,FK Horní Ředice,530539,SK Benátky nad Jizerou,228538,0,2,2.9,3.9,1.95,2.9,3.9,1.95
+current,97216,CFL 26/27,9387,16413321,10,2026-10-10 08:15,Slovan Liberec U21,105803,MFK Chrudim,36741,1,3,2.6,3.8,2.15,2.6,3.8,2.15
+current,97216,CFL 26/27,9387,16413322,10,2026-10-10 08:15,Mladá Boleslav B,323616,FK Most-Baník Souš,53089,1,0,2.2,3.7,2.55,2.2,3.7,2.55
+current,97216,CFL 26/27,9387,16413323,10,2026-10-10 08:15,FK Neratovice-Byškovice,76771,FK Pardubice B,323619,3,0,3.0,3.7,1.95,3.0,3.7,1.95
+current,97216,CFL 26/27,9387,16413314,10,2026-10-10 14:00,TJ Jiskra Domažlice,24775,1.FK Příbram B,321884,2,2,1.3,5.5,6.25,1.3,5.5,6.25
+current,97216,CFL 26/27,9387,16413315,10,2026-10-10 14:00,Králův Dvůr,25418,SK Motorlet Praha,201953,4,1,2.2,4.0,2.45,2.2,4.0,2.45
+current,97216,CFL 26/27,9387,16413325,10,2026-10-10 14:00,Velke Hamry,281864,FK Teplice B,323614,2,0,3.8,4.1,1.65,3.8,4.1,1.65
+current,97216,CFL 26/27,9387,16413320,10,2026-10-11 08:15,FK Jablonec B,322634,SK Sokol Brozany,36739,3,1,1.5714,4.2,4.2,1.5714,4.2,4.2
+current,97216,CFL 26/27,9387,16413327,10,2026-10-11 08:15,Sparta Praha B U21,4866,Dukla Praha B,323618,2,1,1.1818,6.5,9.0,1.1818,6.5,9.0
+current,97216,CFL 26/27,9387,16413324,10,2026-10-11 14:00,FK Varnsdorf,34789,FC Hradec Kralove B,323615,2,1,1.6667,4.0,3.8,1.6667,4.0,3.8
+current,97216,CFL 26/27,9387,16413326,10,2026-10-11 14:00,SK Zápy,53098,FK Čáslav,6069,2,3,1.2222,6.0,8.0,1.2222,6.0,8.0
+current,97216,CFL 26/27,9387,17238849,3,2026-10-14 13:30,FK Most-Baník Souš,53089,SK Benátky nad Jizerou,228538,1,1,1.8,3.6,3.5,1.8,3.6,3.5
+current,97216,CFL 26/27,9387,16413333,11,2026-10-17 08:15,SK Motorlet Praha,201953,Sparta Praha B U21,4866,1,1,3.25,4.0,1.8,3.25,4.0,1.8
+current,97216,CFL 26/27,9387,16413339,11,2026-10-17 08:15,MFK Chrudim,36741,FK Horní Ředice,530539,2,1,1.8,3.8,3.4,1.8,3.8,3.4
+current,97216,CFL 26/27,9387,16413328,11,2026-10-17 13:00,FK Most-Baník Souš,53089,FK Varnsdorf,34789,1,0,1.8333,3.8,3.25,1.8333,3.8,3.25
+current,97216,CFL 26/27,9387,16413331,11,2026-10-17 13:30,SK Dynamo České Budějovice,2221,Loko Vltavín,53133,2,1,1.2222,5.75,8.0,1.2222,5.75,8.0
+current,97216,CFL 26/27,9387,16413337,11,2026-10-17 13:30,SK Sokol Brozany,36739,Mladá Boleslav B,323616,1,3,3.1,3.75,1.9091,3.1,3.75,1.9091
+current,97216,CFL 26/27,9387,16413335,11,2026-10-17 14:00,SK Slavia Prague C U20,1105328,Králův Dvůr,25418,3,4,2.5,3.75,2.25,2.5,3.75,2.25
+current,97216,CFL 26/27,9387,16413329,11,2026-10-18 08:15,FK Admira Praha,37114,Povltavska FA,53101,3,2,1.3,5.25,6.25,1.3,5.25,6.25
+current,97216,CFL 26/27,9387,16413330,11,2026-10-18 08:15,Bohemians Praha 1905 B,323620,TJ Jiskra Domažlice,24775,7,2,4.1,4.5,1.55,4.1,4.5,1.55
+current,97216,CFL 26/27,9387,16413332,11,2026-10-18 08:15,Dukla Praha B,323618,FC Písek,25417,4,0,2.8,3.8,2.05,2.8,3.8,2.05
+current,97216,CFL 26/27,9387,16413340,11,2026-10-18 08:15,FC Hradec Kralove B,323615,Slovan Liberec U21,105803,1,2,1.48,4.3333,4.75,1.48,4.3333,4.75
+current,97216,CFL 26/27,9387,16413341,11,2026-10-18 08:15,FK Pardubice B,323619,Velke Hamry,281864,6,0,1.3636,5.0,5.5,1.3636,5.0,5.5
+current,97216,CFL 26/27,9387,16413343,11,2026-10-18 08:30,Viktoria Plzeň B,321886,SK Aritma Praha,165784,3,0,1.3333,5.0,6.25,1.3333,5.0,6.25
+current,97216,CFL 26/27,9387,16413342,11,2026-10-18 09:00,FK Teplice B,323614,SK Zápy,53098,1,2,3.2,3.75,1.85,3.2,3.75,1.85
+current,97216,CFL 26/27,9387,16413336,11,2026-10-18 13:30,SK Benátky nad Jizerou,228538,FK Neratovice-Byškovice,76771,0,0,1.65,4.0,3.8,1.65,4.0,3.8
+current,97216,CFL 26/27,9387,16413338,11,2026-10-18 13:30,FK Čáslav,6069,FK Jablonec B,322634,2,3,3.0,3.9,1.9091,3.0,3.9,1.9091
+current,97216,CFL 26/27,9387,16413344,12,2026-10-24 08:15,SK Aritma Praha,165784,Dukla Praha B,323618,0,0,2.875,3.8,2.0,2.875,3.8,2.0
+current,97216,CFL 26/27,9387,16413345,12,2026-10-24 08:15,FK Benešov,53088,Bohemians Praha 1905 B,323620,2,1,2.7,3.75,2.1,2.7,3.75,2.1
+current,97216,CFL 26/27,9387,16413348,12,2026-10-24 08:15,Loko Vltavín,53133,FK Admira Praha,37114,2,1,2.35,3.8,2.375,2.35,3.8,2.375
+current,97216,CFL 26/27,9387,16413349,12,2026-10-24 08:15,SK Motorlet Praha,201953,SK Slavia Prague C U20,1105328,3,2,1.5714,4.2,4.2,1.5714,4.2,4.2
+current,97216,CFL 26/27,9387,16413350,12,2026-10-24 08:15,Povltavska FA,53101,1.FK Příbram B,321884,0,2,2.75,4.0,2.0,2.75,4.0,2.0
+current,97216,CFL 26/27,9387,16413353,12,2026-10-24 08:15,Slovan Liberec U21,105803,FK Horní Ředice,530539,5,1,1.7273,4.0,3.5,1.7273,4.0,3.5
+current,97216,CFL 26/27,9387,16413354,12,2026-10-24 08:15,Mladá Boleslav B,323616,FK Čáslav,6069,4,0,1.4444,4.5,5.0,1.4444,4.5,5.0
+current,97216,CFL 26/27,9387,16413355,12,2026-10-24 08:15,FK Neratovice-Byškovice,76771,MFK Chrudim,36741,6,1,1.8333,3.8,3.25,1.8333,3.8,3.25
+current,97216,CFL 26/27,9387,16413357,12,2026-10-24 08:30,Velke Hamry,281864,SK Benátky nad Jizerou,228538,3,3,4.3333,4.0,1.5714,4.3333,4.0,1.5714
+current,97216,CFL 26/27,9387,16413346,12,2026-10-24 12:30,TJ Jiskra Domažlice,24775,Viktoria Plzeň B,321886,1,4,2.0,4.0,2.75,2.0,4.0,2.75
+current,97216,CFL 26/27,9387,16413347,12,2026-10-24 12:30,Králův Dvůr,25418,SK Dynamo České Budějovice,2221,3,3,2.2,3.75,2.6,2.2,3.75,2.6
+current,97216,CFL 26/27,9387,16413351,12,2026-10-25 09:15,FC Hradec Kralove B,323615,FK Most-Baník Souš,53089,2,0,3.0,3.6,2.0,3.0,3.6,2.0
+current,97216,CFL 26/27,9387,16413352,12,2026-10-25 09:15,FK Jablonec B,322634,FK Teplice B,323614,4,1,1.8,4.0,3.25,1.8,4.0,3.25
+current,97216,CFL 26/27,9387,16413359,12,2026-10-25 09:15,Sparta Praha B U21,4866,FC Písek,25417,0,1,1.3333,5.0,6.0,1.3333,5.0,6.0
+current,97216,CFL 26/27,9387,16413356,12,2026-10-25 13:30,FK Varnsdorf,34789,SK Sokol Brozany,36739,3,2,1.3636,4.75,6.0,1.3636,4.75,6.0
+current,97216,CFL 26/27,9387,16413358,12,2026-10-25 13:30,SK Zápy,53098,FK Pardubice B,323619,0,4,1.7273,4.0,3.5,1.7273,4.0,3.5
+current,97216,CFL 26/27,9387,17354169,11,2026-10-28 09:30,1.FK Příbram B,321884,FK Benešov,53088,2,3,2.1,4.0,2.6,2.1,4.0,2.6
+current,97216,CFL 26/27,9387,17037637,2,2026-10-28 10:00,Slovan Liberec U21,105803,FK Čáslav,6069,0,0,1.8,4.0,3.25,1.8,4.0,3.25
+current,97216,CFL 26/27,9387,16413300,9,2026-10-28 13:30,Králův Dvůr,25418,Sparta Praha B U21,4866,1,1,3.2,4.0,1.8,3.2,4.0,1.8
+current,97216,CFL 26/27,9387,17429389,3,2026-10-28 13:30,FK Varnsdorf,34789,FK Horní Ředice,530539,1,3,,,,,,
+current,97216,CFL 26/27,9387,16413364,13,2026-10-30 18:00,FC Písek,25417,SK Aritma Praha,165784,4,2,1.4444,4.5,5.0,1.4444,4.5,5.0
+current,97216,CFL 26/27,9387,16413371,13,2026-10-31 09:15,MFK Chrudim,36741,Velke Hamry,281864,1,0,1.5,4.3333,4.5,1.5,4.3333,4.5
+current,97216,CFL 26/27,9387,16413372,13,2026-10-31 09:15,FK Horní Ředice,530539,FK Neratovice-Byškovice,76771,0,2,3.25,4.0,1.8,3.25,4.0,1.8
+current,97216,CFL 26/27,9387,16413362,13,2026-10-31 13:00,SK Dynamo České Budějovice,2221,SK Motorlet Praha,201953,1,0,1.5333,4.2,4.5,1.5333,4.2,4.5
+current,97216,CFL 26/27,9387,16413367,13,2026-10-31 13:00,FK Most-Baník Souš,53089,Slovan Liberec U21,105803,1,1,1.4444,4.5,5.0,1.4444,4.5,5.0
+current,97216,CFL 26/27,9387,16413369,13,2026-10-31 13:00,SK Sokol Brozany,36739,FC Hradec Kralove B,323615,3,1,2.55,3.6,2.25,2.55,3.6,2.25
+current,97216,CFL 26/27,9387,16413363,13,2026-10-31 14:00,Dukla Praha B,323618,TJ Jiskra Domažlice,24775,2,3,2.45,4.0,2.2,2.45,4.0,2.2
+current,97216,CFL 26/27,9387,16413360,13,2026-11-01 09:15,FK Admira Praha,37114,Králův Dvůr,25418,0,4,2.7,3.9,2.05,2.7,3.9,2.05
+current,97216,CFL 26/27,9387,16413361,13,2026-11-01 09:15,Bohemians Praha 1905 B,323620,Povltavska FA,53101,1,1,1.25,5.75,7.0,1.25,5.75,7.0
+current,97216,CFL 26/27,9387,16413373,13,2026-11-01 09:15,FK Pardubice B,323619,FK Jablonec B,322634,1,2,1.8333,4.1,3.1,1.8333,4.1,3.1
+current,97216,CFL 26/27,9387,16413375,13,2026-11-01 09:30,Viktoria Plzeň B,321886,FK Benešov,53088,3,0,1.3333,5.0,6.0,1.3333,5.0,6.0
+current,97216,CFL 26/27,9387,16413374,13,2026-11-01 10:00,FK Teplice B,323614,Mladá Boleslav B,323616,1,4,2.45,3.8,2.25,2.45,3.8,2.25
+current,97216,CFL 26/27,9387,16413365,13,2026-11-01 13:00,1.FK Příbram B,321884,Loko Vltavín,53133,1,1,2.25,3.9,2.4,2.25,3.9,2.4
+current,97216,CFL 26/27,9387,16413368,13,2026-11-01 13:00,SK Benátky nad Jizerou,228538,SK Zápy,53098,0,0,2.875,3.7,2.0,2.875,3.7,2.0
+current,97216,CFL 26/27,9387,16413370,13,2026-11-01 13:00,FK Čáslav,6069,FK Varnsdorf,34789,2,2,3.1,4.0,1.85,3.1,4.0,1.85
+current,97216,CFL 26/27,9387,17360845,8,2026-11-04 09:15,Sparta Praha B U21,4866,Viktoria Plzeň B,321886,1,3,,,,,,
+current,97216,CFL 26/27,9387,16413376,14,2026-11-07 09:15,FK Benešov,53088,Dukla Praha B,323618,2,1,2.1,3.75,2.7,2.1,3.75,2.7
+current,97216,CFL 26/27,9387,16413379,14,2026-11-07 09:15,Loko Vltavín,53133,Bohemians Praha 1905 B,323620,2,1,2.4,3.6,2.375,2.4,3.6,2.375
+current,97216,CFL 26/27,9387,16413380,14,2026-11-07 09:15,SK Motorlet Praha,201953,FK Admira Praha,37114,3,0,1.7273,4.0,3.5,1.7273,4.0,3.5
+current,97216,CFL 26/27,9387,16413382,14,2026-11-07 09:15,SK Slavia Prague C U20,1105328,SK Dynamo České Budějovice,2221,2,2,3.5,4.0,1.7273,3.5,4.0,1.7273
+current,97216,CFL 26/27,9387,16413387,14,2026-11-07 09:15,Mladá Boleslav B,323616,FK Pardubice B,323619,2,2,2.1,4.0,2.6,2.1,4.0,2.6
+current,97216,CFL 26/27,9387,16413389,14,2026-11-07 09:30,Velke Hamry,281864,FK Horní Ředice,530539,3,0,2.25,3.75,2.5,2.25,3.75,2.5
+current,97216,CFL 26/27,9387,16413386,14,2026-11-07 10:15,Slovan Liberec U21,105803,FK Neratovice-Byškovice,76771,4,1,2.2,3.8,2.5,2.2,3.8,2.5
+current,97216,CFL 26/27,9387,16413377,14,2026-11-07 13:00,TJ Jiskra Domažlice,24775,FC Písek,25417,5,3,1.6667,4.3333,3.5,1.6667,4.3333,3.5
+current,97216,CFL 26/27,9387,16413378,14,2026-11-07 13:00,Králův Dvůr,25418,1.FK Příbram B,321884,5,0,1.3333,5.0,6.0,1.3333,5.0,6.0
+current,97216,CFL 26/27,9387,16413383,14,2026-11-07 13:00,FK Most-Baník Souš,53089,SK Sokol Brozany,36739,3,3,1.4,4.5,5.5,1.4,4.5,5.5
+current,97216,CFL 26/27,9387,16413384,14,2026-11-08 09:15,FC Hradec Kralove B,323615,FK Čáslav,6069,4,2,1.6154,4.0,4.0,1.6154,4.0,4.0
+current,97216,CFL 26/27,9387,16413385,14,2026-11-08 09:15,FK Jablonec B,322634,SK Benátky nad Jizerou,228538,2,3,1.8,4.0,3.25,1.8,4.0,3.25
+current,97216,CFL 26/27,9387,16413391,14,2026-11-08 09:15,Sparta Praha B U21,4866,SK Aritma Praha,165784,1,1,1.1818,6.5,9.0,1.1818,6.5,9.0
+current,97216,CFL 26/27,9387,16413381,14,2026-11-08 13:00,Povltavska FA,53101,Viktoria Plzeň B,321886,2,5,6.5,5.5,1.2857,6.5,5.5,1.2857
+current,97216,CFL 26/27,9387,16413388,14,2026-11-08 13:00,FK Varnsdorf,34789,FK Teplice B,323614,2,1,1.7273,4.0,3.5,1.7273,4.0,3.5
+current,97216,CFL 26/27,9387,16413390,14,2026-11-08 13:00,SK Zápy,53098,MFK Chrudim,36741,3,0,1.25,5.5,7.5,1.25,5.5,7.5
