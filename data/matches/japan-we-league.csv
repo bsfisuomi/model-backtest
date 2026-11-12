@@ -1,0 +1,48 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+72338990,2026-08-22 09:00,Kanagawa Sagamihara,Chifure AS Elfen Saitama,1,0,,,
+72338994,2026-08-22 09:00,INAC Kobe Leonessa,Sanfrecce Hiroshima Regina,2,1,,,
+72338986,2026-08-22 10:33,RB Omiya Ardija,Urawa Red Diamonds,0,1,,,
+72338984,2026-08-23 09:00,Mynavi Sendai Ladies,AC Nagano Parceiro,2,1,1.571,3.500,5.250
+72338988,2026-08-23 09:00,Tokyo Verdy Beleza,JEF United Ichihara Chiba,2,1,,,
+72338992,2026-08-23 09:00,Cerezo Osaka Sakai Ladies,Albirex Niigata,1,1,2.500,3.100,2.500
+72339002,2026-08-29 09:00,AC Nagano Parceiro,Tokyo Verdy Beleza,1,4,,,
+72339006,2026-08-29 10:05,Sanfrecce Hiroshima Regina,RB Omiya Ardija,2,0,,,
+72338996,2026-08-30 09:00,Urawa Red Diamonds,Kanagawa Sagamihara,5,1,,,
+72338998,2026-08-30 09:00,Chifure AS Elfen Saitama,INAC Kobe Leonessa,2,1,,,
+72339000,2026-08-30 09:00,JEF United Ichihara Chiba,Cerezo Osaka Sakai Ladies,1,3,3.200,3.000,2.100
+72339004,2026-08-30 09:05,Albirex Niigata,Mynavi Sendai Ladies,3,2,2.000,3.100,3.400
+72339056,2026-09-02 10:00,INAC Kobe Leonessa,AC Nagano Parceiro,2,2,,,
+72339010,2026-09-05 09:00,RB Omiya Ardija,Albirex Niigata,2,1,,,
+72339012,2026-09-05 09:00,Chifure AS Elfen Saitama,AC Nagano Parceiro,0,0,,,
+72339014,2026-09-05 09:00,JEF United Ichihara Chiba,Mynavi Sendai Ladies,2,0,2.350,2.900,3.000
+72339018,2026-09-05 09:00,Cerezo Osaka Sakai Ladies,Sanfrecce Hiroshima Regina,0,1,4.200,3.400,1.727
+72339008,2026-09-05 09:05,Urawa Red Diamonds,Tokyo Verdy Beleza,3,1,,,
+72339016,2026-09-06 08:00,Kanagawa Sagamihara,INAC Kobe Leonessa,1,4,,,
+72339026,2026-10-17 04:00,Albirex Niigata,AC Nagano Parceiro,0,0,,,
+72339022,2026-10-18 04:00,RB Omiya Ardija,Chifure AS Elfen Saitama,0,2,,,
+72339024,2026-10-18 04:00,JEF United Ichihara Chiba,Urawa Red Diamonds,2,1,,,
+72339020,2026-10-18 05:00,Mynavi Sendai Ladies,INAC Kobe Leonessa,3,4,3.900,3.600,1.700
+72339028,2026-10-18 05:00,Cerezo Osaka Sakai Ladies,Kanagawa Sagamihara,2,2,,,
+72339030,2026-10-18 05:00,Sanfrecce Hiroshima Regina,Tokyo Verdy Beleza,2,3,,,
+72339040,2026-10-21 03:00,INAC Kobe Leonessa,JEF United Ichihara Chiba,1,2,,,
+72339034,2026-10-21 04:00,Chifure AS Elfen Saitama,Mynavi Sendai Ladies,1,2,2.450,3.200,2.550
+72339036,2026-10-21 09:30,Kanagawa Sagamihara,Albirex Niigata,1,0,,,
+72339050,2026-10-24 03:00,Tokyo Verdy Beleza,Chifure AS Elfen Saitama,4,1,,,
+72339052,2026-10-24 04:00,Albirex Niigata,JEF United Ichihara Chiba,0,1,,,
+72339044,2026-10-24 05:00,Mynavi Sendai Ladies,Kanagawa Sagamihara,0,0,,,
+72339046,2026-10-24 05:00,Urawa Red Diamonds,INAC Kobe Leonessa,2,0,,,
+72339048,2026-10-25 04:00,RB Omiya Ardija,Cerezo Osaka Sakai Ladies,1,2,2.750,2.900,2.450
+72339054,2026-10-25 05:00,Sanfrecce Hiroshima Regina,AC Nagano Parceiro,1,0,,,
+72339042,2026-10-28 09:00,Tokyo Verdy Beleza,Cerezo Osaka Sakai Ladies,1,2,1.571,4.000,4.333
+72339032,2026-10-28 10:00,Urawa Red Diamonds,Sanfrecce Hiroshima Regina,2,0,,,
+72339038,2026-10-28 10:00,AC Nagano Parceiro,RB Omiya Ardija,0,1,,,
+72339058,2026-10-31 04:00,JEF United Ichihara Chiba,Kanagawa Sagamihara,0,0,,,
+72339060,2026-10-31 06:05,Tokyo Verdy Beleza,RB Omiya Ardija,2,1,1.420,4.500,5.250
+72339064,2026-11-01 04:00,Cerezo Osaka Sakai Ladies,Chifure AS Elfen Saitama,4,0,2.200,3.400,2.750
+72339062,2026-11-01 04:05,Albirex Niigata,Urawa Red Diamonds,0,2,,,
+72339066,2026-11-01 05:00,Sanfrecce Hiroshima Regina,Mynavi Sendai Ladies,1,2,1.450,3.750,6.500
+72339068,2026-11-07 05:00,Mynavi Sendai Ladies,Urawa Red Diamonds,1,0,5.750,3.900,1.450
+72339076,2026-11-07 05:00,Kanagawa Sagamihara,Tokyo Verdy Beleza,1,0,,,
+72339078,2026-11-07 05:00,AC Nagano Parceiro,Cerezo Osaka Sakai Ladies,2,2,4.750,3.600,1.571
+72339072,2026-11-08 03:30,JEF United Ichihara Chiba,RB Omiya Ardija,2,0,2.550,3.100,2.550
+72339070,2026-11-08 04:00,Chifure AS Elfen Saitama,Sanfrecce Hiroshima Regina,2,3,4.750,3.750,1.571

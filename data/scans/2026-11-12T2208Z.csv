@@ -1,0 +1,33 @@
+league,event_id,kickoff_utc,home,away,market,kind,line,side,odds,time_utc,fair_odds,ev
+poland-ii-liga,72398810,2026-11-14 11:00,Gornik Leczna,KS Hutnik Krakow SSA,ah,opening,-0.75,home,1.95,2026-11-10 12:58,2.3,-0.135
+poland-ii-liga,72398810,2026-11-14 11:00,Gornik Leczna,KS Hutnik Krakow SSA,ah,opening,-0.75,away,1.85,2026-11-10 12:58,1.769,0.0405
+poland-ii-liga,72398810,2026-11-14 11:00,Gornik Leczna,KS Hutnik Krakow SSA,ah,latest,-0.5,home,1.8,2026-11-12 10:34,2.007,-0.1031
+poland-ii-liga,72398810,2026-11-14 11:00,Gornik Leczna,KS Hutnik Krakow SSA,ah,latest,-0.5,away,2,2026-11-12 10:34,1.993,0.0035
+poland-ii-liga,72398810,2026-11-14 11:00,Gornik Leczna,KS Hutnik Krakow SSA,total,opening,3.5,over,2.5,2026-11-10 12:48,2.782,-0.1014
+poland-ii-liga,72398810,2026-11-14 11:00,Gornik Leczna,KS Hutnik Krakow SSA,total,opening,3.5,under,1.5,2026-11-10 12:48,1.561,-0.0392
+poland-ii-liga,72398810,2026-11-14 11:00,Gornik Leczna,KS Hutnik Krakow SSA,total,latest,2.75,over,1.85,2026-11-12 10:34,1.884,-0.0158
+poland-ii-liga,72398810,2026-11-14 11:00,Gornik Leczna,KS Hutnik Krakow SSA,total,latest,2.75,under,1.95,2026-11-12 10:34,2.132,-0.0757
+poland-ii-liga,72398812,2026-11-14 11:00,Podhale Nowy Targ,Avia Swidnik,ah,opening,-0.25,home,1.8,2026-11-10 13:03,1.915,-0.0524
+poland-ii-liga,72398812,2026-11-14 11:00,Podhale Nowy Targ,Avia Swidnik,ah,opening,-0.25,away,2,2026-11-10 13:03,2.093,-0.0389
+poland-ii-liga,72398812,2026-11-14 11:00,Podhale Nowy Targ,Avia Swidnik,ah,latest,-0.25,home,1.8,2026-11-10 13:03,1.915,-0.0524
+poland-ii-liga,72398812,2026-11-14 11:00,Podhale Nowy Targ,Avia Swidnik,ah,latest,-0.25,away,2,2026-11-10 13:03,2.093,-0.0389
+poland-ii-liga,72398812,2026-11-14 11:00,Podhale Nowy Targ,Avia Swidnik,total,opening,3.5,over,2.5,2026-11-10 12:56,3.406,-0.2661
+poland-ii-liga,72398812,2026-11-14 11:00,Podhale Nowy Targ,Avia Swidnik,total,opening,3.5,under,1.5,2026-11-10 12:56,1.416,0.0597
+poland-ii-liga,72398812,2026-11-14 11:00,Podhale Nowy Targ,Avia Swidnik,total,latest,2.75,over,1.8,2026-11-10 13:03,2.2,-0.1618
+poland-ii-liga,72398812,2026-11-14 11:00,Podhale Nowy Targ,Avia Swidnik,total,latest,2.75,under,2,2026-11-10 13:03,1.833,0.081
+poland-ii-liga,72398818,2026-11-14 12:00,Slask II Wroclaw,KS Lechia Zielona Gora,ah,opening,0.25,home,1.8,2026-11-10 13:02,1.633,0.0906
+poland-ii-liga,72398818,2026-11-14 12:00,Slask II Wroclaw,KS Lechia Zielona Gora,ah,opening,0.25,away,2,2026-11-10 13:02,2.581,-0.199
+poland-ii-liga,72398818,2026-11-14 12:00,Slask II Wroclaw,KS Lechia Zielona Gora,ah,latest,0.25,home,1.8,2026-11-12 19:53,1.633,0.0906
+poland-ii-liga,72398818,2026-11-14 12:00,Slask II Wroclaw,KS Lechia Zielona Gora,ah,latest,0.25,away,2,2026-11-12 19:53,2.581,-0.199
+poland-ii-liga,72398818,2026-11-14 12:00,Slask II Wroclaw,KS Lechia Zielona Gora,total,opening,3.5,over,2.2,2026-11-10 12:53,2.441,-0.0986
+poland-ii-liga,72398818,2026-11-14 12:00,Slask II Wroclaw,KS Lechia Zielona Gora,total,opening,3.5,under,1.615,2026-11-10 12:53,1.694,-0.0467
+poland-ii-liga,72398818,2026-11-14 12:00,Slask II Wroclaw,KS Lechia Zielona Gora,total,latest,3.5,over,1.975,2026-11-12 19:53,2.441,-0.1908
+poland-ii-liga,72398818,2026-11-14 12:00,Slask II Wroclaw,KS Lechia Zielona Gora,total,latest,3.5,under,1.825,2026-11-12 19:53,1.694,0.0773
+poland-ii-liga,72398824,2026-11-14 15:00,MKS Chojniczanka Chojnice,Zawisza Bydgoszcz,ah,opening,-0.25,home,1.95,2026-11-10 13:06,1.906,0.0206
+poland-ii-liga,72398824,2026-11-14 15:00,MKS Chojniczanka Chojnice,Zawisza Bydgoszcz,ah,opening,-0.25,away,1.85,2026-11-10 13:06,2.104,-0.1067
+poland-ii-liga,72398824,2026-11-14 15:00,MKS Chojniczanka Chojnice,Zawisza Bydgoszcz,ah,latest,-0.25,home,1.95,2026-11-10 13:06,1.906,0.0206
+poland-ii-liga,72398824,2026-11-14 15:00,MKS Chojniczanka Chojnice,Zawisza Bydgoszcz,ah,latest,-0.25,away,1.85,2026-11-10 13:06,2.104,-0.1067
+poland-ii-liga,72398824,2026-11-14 15:00,MKS Chojniczanka Chojnice,Zawisza Bydgoszcz,total,opening,3.5,over,2.25,2026-11-10 12:55,2.662,-0.1546
+poland-ii-liga,72398824,2026-11-14 15:00,MKS Chojniczanka Chojnice,Zawisza Bydgoszcz,total,opening,3.5,under,1.571,2026-11-10 12:55,1.602,-0.0193
+poland-ii-liga,72398824,2026-11-14 15:00,MKS Chojniczanka Chojnice,Zawisza Bydgoszcz,total,latest,3.0,over,1.825,2026-11-10 13:06,2.066,-0.0907
+poland-ii-liga,72398824,2026-11-14 15:00,MKS Chojniczanka Chojnice,Zawisza Bydgoszcz,total,latest,3.0,under,1.975,2026-11-10 13:06,1.938,0.0149

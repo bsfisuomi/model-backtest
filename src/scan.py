@@ -4,7 +4,7 @@
 
 For every match in a configured league (upcoming within --days, plus matches played in the last
 --backfill-days that a previous run may have missed) the bet365 opening main line of the Asian handicap
-("Spread") and of the total ("Totals") is read from Odds-API.io /odds/movements. The model is evaluated
+("Spread"; only 50/50 lines, both prices within betting.ah_balanced_range) and of the total ("Totals") is read from Odds-API.io /odds/movements. The model is evaluated
 with the data available on the day the line opened. Each side with EV >= betting.min_ev is logged once in
 data/bets.csv at the opening price. The opening price never changes, so a match only has to be scanned
 once - but Odds-API keeps line history only a few days, so run at least every 3-4 days.
@@ -156,6 +156,11 @@ def main():
                         scan_rows.append({**base, "market": mk, "kind": kind, "line": ln, "side": side, "odds": odd,
                                           "time_utc": ts(entry["timestamp"]), "fair_odds": round(fo, 3) if fo else "",
                                           "ev": round(ev(mat, mk, ln, side, odd), 4)})
+            if mk == "ah":  # only 50/50 Asian handicap lines: both opening prices inside the balanced range
+                lo_b, hi_b = CFG["betting"].get("ah_balanced_range", [1.70, 2.20])
+                if not all(x and lo_b <= float(x) <= hi_b for _, x in sides(mk, op)):
+                    stats["ah not 50/50"] = stats.get("ah not 50/50", 0) + 1
+                    continue
             for side, odd in sides(mk, op):
                 if not odd:
                     continue
@@ -196,8 +201,11 @@ def main():
 
     for sub in ("prices", "scans"):
         os.makedirs(os.path.join(ROOT, "data", sub), exist_ok=True)
+    lp = os.path.join(ROOT, "data", "prices", "latest.csv")
+    if price_rows and a.leagues and os.path.exists(lp):  # partial scan: keep the other leagues' rows
+        price_rows += [r for r in csv.DictReader(open(lp, newline="")) if r["league"] not in leagues]
     if price_rows:
-        with open(os.path.join(ROOT, "data", "prices", "latest.csv"), "w", newline="") as f:
+        with open(lp, "w", newline="") as f:
             w = csv.DictWriter(f, list(price_rows[0]))
             w.writeheader()
             w.writerows(price_rows)

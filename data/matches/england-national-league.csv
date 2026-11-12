@@ -1,0 +1,749 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+60725813,2025-06-01 14:00,Oldham Athletic,Southend United,3,2,,,
+61915148,2025-08-09 14:00,Altrincham FC,Aldershot Town FC,3,2,,,
+61915150,2025-08-09 14:00,Boreham Wood FC,Rochdale AFC,0,2,,,
+61915154,2025-08-09 14:00,Brackley Town FC,Eastleigh FC,1,0,,,
+61915156,2025-08-09 14:00,Braintree Town FC,FC Halifax Town,3,0,,,
+61915158,2025-08-09 14:00,Gateshead FC,Southend United,0,3,,,
+61915160,2025-08-09 14:00,Solihull Moors FC,Forest Green Rovers,2,2,,,
+61915162,2025-08-09 14:00,Tamworth FC,Scunthorpe United,1,2,,,
+61915164,2025-08-09 14:00,Wealdstone FC,Truro City,2,0,,,
+61915166,2025-08-09 14:00,Woking FC,Carlisle United,0,2,,,
+61915168,2025-08-09 14:00,Yeovil Town,Hartlepool United,0,0,,,
+61915170,2025-08-09 14:00,York City FC,Sutton United,2,2,,,
+61915186,2025-08-16 11:30,Rochdale AFC,Altrincham FC,2,1,,,
+61915172,2025-08-16 14:00,Aldershot Town FC,Boston United FC,2,3,,,
+61915174,2025-08-16 14:00,Carlisle United,Boreham Wood FC,3,3,,,
+61915176,2025-08-16 14:00,Eastleigh FC,Gateshead FC,0,2,,,
+61915180,2025-08-16 14:00,Forest Green Rovers,Yeovil Town,2,0,,,
+61915182,2025-08-16 14:00,Hartlepool United,Braintree Town FC,2,0,,,
+61915188,2025-08-16 14:00,Scunthorpe United,Woking FC,3,1,,,
+61915190,2025-08-16 14:00,Southend United,Tamworth FC,2,0,,,
+61915192,2025-08-16 14:00,Sutton United,Solihull Moors FC,0,0,,,
+61915692,2025-08-16 14:00,Wealdstone FC,FC Halifax Town,2,1,,,
+61915194,2025-08-16 16:30,Truro City,York City FC,0,2,,,
+61915196,2025-08-19 18:45,Altrincham FC,Hartlepool United,0,2,,,
+61915198,2025-08-19 18:45,Boston United FC,FC Halifax Town,0,1,,,
+61915200,2025-08-19 18:45,Carlisle United,Solihull Moors FC,1,1,,,
+61915204,2025-08-19 18:45,Tamworth FC,Truro City,2,0,,,
+61915206,2025-08-19 18:45,Woking FC,Wealdstone FC,1,2,,,
+61915208,2025-08-20 18:45,Aldershot Town FC,Eastleigh FC,2,3,,,
+61915210,2025-08-20 18:45,Boreham Wood FC,Braintree Town FC,2,1,,,
+61915212,2025-08-20 18:45,Forest Green Rovers,Sutton United,4,0,,,
+61915214,2025-08-20 18:45,Rochdale AFC,Gateshead FC,4,0,,,
+61915216,2025-08-20 18:45,Southend United,York City FC,0,0,,,
+61915218,2025-08-20 18:45,Yeovil Town,Brackley Town FC,2,1,,,
+61915232,2025-08-23 11:30,Morecambe FC,Altrincham FC,2,1,,,
+61915220,2025-08-23 14:00,Brackley Town FC,Rochdale AFC,2,1,,,
+61915222,2025-08-23 14:00,Braintree Town FC,Yeovil Town,1,0,,,
+61915224,2025-08-23 14:00,Eastleigh FC,Boston United FC,2,0,,,
+61915226,2025-08-23 14:00,FC Halifax Town,Forest Green Rovers,1,2,,,
+61915228,2025-08-23 14:00,Gateshead FC,Tamworth FC,2,1,,,
+61915230,2025-08-23 14:00,Hartlepool United,Woking FC,3,0,,,
+61915234,2025-08-23 14:00,Solihull Moors FC,Aldershot Town FC,1,5,,,
+61915236,2025-08-23 14:00,Sutton United,Scunthorpe United,2,3,,,
+61915238,2025-08-23 14:00,Truro City,Southend United,0,1,,,
+61915240,2025-08-23 16:30,Wealdstone FC,Carlisle United,0,1,,,
+61915244,2025-08-25 14:00,Aldershot Town FC,Morecambe FC,4,0,,,
+61915246,2025-08-25 14:00,Altrincham FC,Solihull Moors FC,2,0,,,
+61915248,2025-08-25 14:00,Boreham Wood FC,Truro City,2,1,,,
+61915250,2025-08-25 14:00,Boston United FC,Wealdstone FC,2,1,,,
+61915252,2025-08-25 14:00,Carlisle United,Braintree Town FC,5,0,,,
+61915254,2025-08-25 14:00,Forest Green Rovers,Eastleigh FC,1,0,,,
+61915256,2025-08-25 14:00,Rochdale AFC,Sutton United,1,0,,,
+61915258,2025-08-25 14:00,Scunthorpe United,FC Halifax Town,1,1,,,
+61915260,2025-08-25 14:00,Southend United,Hartlepool United,1,1,,,
+61915262,2025-08-25 14:00,Tamworth FC,Brackley Town FC,1,1,,,
+61915264,2025-08-25 14:00,Woking FC,York City FC,1,1,,,
+61915266,2025-08-25 14:00,Yeovil Town,Gateshead FC,3,4,,,
+61915282,2025-08-30 11:30,Solihull Moors FC,Southend United,1,2,,,
+61915270,2025-08-30 14:00,Braintree Town FC,Forest Green Rovers,0,0,,,
+61915272,2025-08-30 14:00,Eastleigh FC,Altrincham FC,2,1,,,
+61915274,2025-08-30 14:00,FC Halifax Town,Yeovil Town,3,2,,,
+61915276,2025-08-30 14:00,Gateshead FC,Aldershot Town FC,3,3,,,
+61915278,2025-08-30 14:00,Hartlepool United,Boreham Wood FC,0,0,,,
+61915280,2025-08-30 14:00,Morecambe FC,Woking FC,0,2,,,
+61915284,2025-08-30 14:00,Sutton United,Carlisle United,2,1,,,
+61915286,2025-08-30 14:00,Truro City,Boston United FC,3,0,,,
+61915288,2025-08-30 14:00,Wealdstone FC,Rochdale AFC,1,3,,,
+61915268,2025-08-30 16:30,Brackley Town FC,Scunthorpe United,1,1,,,
+61915292,2025-09-02 18:45,Braintree Town FC,Tamworth FC,1,2,,,
+61915296,2025-09-02 18:45,Morecambe FC,Forest Green Rovers,1,3,,,
+61915298,2025-09-02 18:45,Solihull Moors FC,Yeovil Town,0,1,,,
+61915300,2025-09-02 18:45,Wealdstone FC,Southend United,3,2,,,
+61915302,2025-09-03 18:45,Brackley Town FC,Carlisle United,0,1,,,
+61915304,2025-09-03 18:45,FC Halifax Town,Woking FC,1,1,,,
+61915306,2025-09-03 18:45,Gateshead FC,Altrincham FC,0,2,,,
+61915308,2025-09-03 18:45,Hartlepool United,Boston United FC,1,1,,,
+61915310,2025-09-03 18:45,Sutton United,Boreham Wood FC,3,4,,,
+61915312,2025-09-03 18:45,Truro City,Aldershot Town FC,2,2,,,
+61915318,2025-09-06 11:30,Altrincham FC,Sutton United,2,1,,,
+61915320,2025-09-06 14:00,Boreham Wood FC,Morecambe FC,3,0,,,
+61915322,2025-09-06 14:00,Boston United FC,Solihull Moors FC,1,2,,,
+61915324,2025-09-06 14:00,Carlisle United,Truro City,3,0,,,
+61915326,2025-09-06 14:00,Forest Green Rovers,Hartlepool United,1,0,,,
+61915328,2025-09-06 14:00,Rochdale AFC,Braintree Town FC,2,0,,,
+61915330,2025-09-06 14:00,Scunthorpe United,Wealdstone FC,2,1,,,
+61915332,2025-09-06 14:00,Southend United,FC Halifax Town,3,0,,,
+61915334,2025-09-06 14:00,Tamworth FC,Eastleigh FC,1,0,,,
+61915336,2025-09-06 14:00,Woking FC,Gateshead FC,5,0,,,
+61915338,2025-09-06 14:00,Yeovil Town,York City FC,1,3,,,
+61915316,2025-09-06 16:30,Aldershot Town FC,Brackley Town FC,2,2,,,
+61915290,2025-09-09 18:45,York City FC,Tamworth FC,4,0,,,
+61915362,2025-09-13 11:30,Yeovil Town,Woking FC,1,0,,,
+61915340,2025-09-13 14:00,Boreham Wood FC,Altrincham FC,3,1,,,
+61915342,2025-09-13 14:00,Braintree Town FC,York City FC,2,3,,,
+61915344,2025-09-13 14:00,Carlisle United,Aldershot Town FC,2,0,,,
+61915348,2025-09-13 14:00,Forest Green Rovers,Scunthorpe United,1,1,,,
+61915350,2025-09-13 14:00,Hartlepool United,Brackley Town FC,0,0,,,
+61915352,2025-09-13 14:00,Solihull Moors FC,Morecambe FC,4,4,,,
+61915354,2025-09-13 14:00,Southend United,Boston United FC,1,1,,,
+61915356,2025-09-13 14:00,Sutton United,Tamworth FC,2,3,,,
+61915358,2025-09-13 14:00,Truro City,Rochdale AFC,0,1,,,
+61915360,2025-09-13 14:00,Wealdstone FC,Gateshead FC,2,2,,,
+61915346,2025-09-13 16:30,FC Halifax Town,Eastleigh FC,2,2,,,
+61915370,2025-09-20 11:30,Brackley Town FC,Sutton United,1,0,,,
+61915364,2025-09-20 14:00,Aldershot Town FC,Hartlepool United,1,0,,,
+61915366,2025-09-20 14:00,Altrincham FC,Carlisle United,1,2,,,
+61915368,2025-09-20 14:00,Boston United FC,Boreham Wood FC,0,2,,,
+61915372,2025-09-20 14:00,Eastleigh FC,Braintree Town FC,1,3,,,
+61915374,2025-09-20 14:00,Gateshead FC,FC Halifax Town,1,2,,,
+61915376,2025-09-20 14:00,Morecambe FC,Wealdstone FC,4,3,,,
+61915380,2025-09-20 14:00,Scunthorpe United,Truro City,4,0,,,
+61915382,2025-09-20 14:00,Tamworth FC,Yeovil Town,1,0,,,
+61915384,2025-09-20 14:00,Woking FC,Forest Green Rovers,0,2,,,
+61915386,2025-09-20 14:00,York City FC,Solihull Moors FC,0,1,,,
+61915388,2025-09-23 18:45,Altrincham FC,Forest Green Rovers,1,2,,,
+61915390,2025-09-23 18:45,Brackley Town FC,Truro City,1,0,,,
+61915392,2025-09-23 18:45,Gateshead FC,Hartlepool United,0,1,,,
+61915394,2025-09-23 18:45,Rochdale AFC,Solihull Moors FC,4,1,,,
+61915396,2025-09-23 18:45,Woking FC,Sutton United,1,1,,,
+61915398,2025-09-23 18:45,York City FC,Carlisle United,5,0,,,
+61915400,2025-09-24 18:45,Aldershot Town FC,Yeovil Town,1,4,,,
+61915402,2025-09-24 18:45,Boston United FC,Braintree Town FC,2,0,,,
+61915404,2025-09-24 18:45,Eastleigh FC,Southend United,2,1,,,
+61915406,2025-09-24 18:45,Morecambe FC,FC Halifax Town,1,2,,,
+61915408,2025-09-24 18:45,Scunthorpe United,Boreham Wood FC,1,1,,,
+61915410,2025-09-24 18:45,Tamworth FC,Wealdstone FC,1,1,,,
+61915412,2025-09-27 11:30,Boreham Wood FC,Woking FC,1,0,,,
+61915414,2025-09-27 14:00,Braintree Town FC,Gateshead FC,1,2,,,
+61915416,2025-09-27 14:00,Carlisle United,Rochdale AFC,0,2,,,
+61915418,2025-09-27 14:00,FC Halifax Town,Aldershot Town FC,4,2,,,
+61915422,2025-09-27 14:00,Hartlepool United,Tamworth FC,1,1,,,
+61915424,2025-09-27 14:00,Solihull Moors FC,Brackley Town FC,1,0,,,
+61915426,2025-09-27 14:00,Southend United,Scunthorpe United,0,2,,,
+61915428,2025-09-27 14:00,Sutton United,Boston United FC,1,1,,,
+61915430,2025-09-27 14:00,Truro City,Morecambe FC,5,0,,,
+61915432,2025-09-27 14:00,Wealdstone FC,Eastleigh FC,0,0,,,
+61915434,2025-09-27 14:00,Yeovil Town,Altrincham FC,1,0,,,
+61915420,2025-09-27 16:30,Forest Green Rovers,York City FC,1,1,,,
+61915436,2025-09-30 18:45,Aldershot Town FC,Braintree Town FC,1,1,,,
+61915438,2025-09-30 18:45,Boreham Wood FC,Southend United,1,1,,,
+61915440,2025-09-30 18:45,Morecambe FC,Gateshead FC,2,5,,,
+61915442,2025-09-30 18:45,Solihull Moors FC,Woking FC,0,3,,,
+61915444,2025-09-30 18:45,Sutton United,Yeovil Town,1,2,,,
+61915446,2025-09-30 18:45,Truro City,Eastleigh FC,0,2,,,
+61915448,2025-10-01 18:45,Altrincham FC,Tamworth FC,1,2,,,
+61915450,2025-10-01 18:45,Boston United FC,Forest Green Rovers,0,0,,,
+61915452,2025-10-01 18:45,Brackley Town FC,Wealdstone FC,0,2,,,
+61915454,2025-10-01 18:45,Carlisle United,Hartlepool United,3,1,,,
+61915456,2025-10-01 18:45,Rochdale AFC,FC Halifax Town,1,2,,,
+61915458,2025-10-01 18:45,York City FC,Scunthorpe United,1,3,,,
+61915468,2025-10-04 11:30,Gateshead FC,Boston United FC,1,3,,,
+61915470,2025-10-04 11:30,Hartlepool United,York City FC,1,2,,,
+61915460,2025-10-04 14:00,Braintree Town FC,Sutton United,0,0,,,
+61915462,2025-10-04 14:00,Eastleigh FC,Solihull Moors FC,1,1,,,
+61915464,2025-10-04 14:00,FC Halifax Town,Brackley Town FC,2,0,,,
+61915466,2025-10-04 14:00,Forest Green Rovers,Rochdale AFC,0,1,,,
+61915474,2025-10-04 14:00,Southend United,Aldershot Town FC,3,0,,,
+61915476,2025-10-04 14:00,Tamworth FC,Morecambe FC,1,1,,,
+61915478,2025-10-04 14:00,Wealdstone FC,Altrincham FC,1,1,,,
+61915480,2025-10-04 14:00,Woking FC,Truro City,2,2,,,
+61915482,2025-10-04 14:00,Yeovil Town,Boreham Wood FC,0,3,,,
+61915472,2025-10-04 16:30,Scunthorpe United,Carlisle United,0,1,,,
+63884187,2025-10-07 18:45,Scunthorpe United,Morecambe FC,3,1,,,
+61915500,2025-10-18 11:30,Solihull Moors FC,Braintree Town FC,2,0,,,
+61915484,2025-10-18 14:00,Aldershot Town FC,Tamworth FC,1,2,,,
+61915486,2025-10-18 14:00,Altrincham FC,Woking FC,1,3,,,
+61915488,2025-10-18 14:00,Boreham Wood FC,Eastleigh FC,2,0,,,
+61915490,2025-10-18 14:00,Boston United FC,Scunthorpe United,1,1,,,
+61915492,2025-10-18 14:00,Brackley Town FC,Gateshead FC,0,0,,,
+61915496,2025-10-18 14:00,Morecambe FC,Southend United,0,3,,,
+61915498,2025-10-18 14:00,Rochdale AFC,Yeovil Town,3,0,,,
+61915504,2025-10-18 14:00,Truro City,FC Halifax Town,2,1,,,
+61915506,2025-10-18 14:00,York City FC,Wealdstone FC,4,0,,,
+61915494,2025-10-18 16:30,Carlisle United,Forest Green Rovers,4,2,,,
+61915502,2025-10-18 16:30,Sutton United,Hartlepool United,3,3,,,
+61915242,2025-10-21 18:45,York City FC,Boreham Wood FC,2,2,,,
+63884191,2025-10-21 18:45,Boston United FC,Morecambe FC,0,4,,,
+63885765,2025-10-21 18:45,Eastleigh FC,Scunthorpe United,1,1,,,
+61915512,2025-10-25 11:30,FC Halifax Town,York City FC,1,1,,,
+61915508,2025-10-25 14:00,Braintree Town FC,Altrincham FC,0,0,,,
+61915510,2025-10-25 14:00,Eastleigh FC,Morecambe FC,2,1,,,
+61915514,2025-10-25 14:00,Forest Green Rovers,Boreham Wood FC,2,1,,,
+61915516,2025-10-25 14:00,Gateshead FC,Truro City,2,2,,,
+61915518,2025-10-25 14:00,Hartlepool United,Solihull Moors FC,2,0,,,
+61915520,2025-10-25 14:00,Scunthorpe United,Aldershot Town FC,2,1,,,
+61915522,2025-10-25 14:00,Southend United,Brackley Town FC,2,0,,,
+61915526,2025-10-25 14:00,Wealdstone FC,Sutton United,4,2,,,
+61915528,2025-10-25 14:00,Woking FC,Rochdale AFC,0,0,,,
+61915530,2025-10-25 14:00,Yeovil Town,Carlisle United,1,1,,,
+61915524,2025-10-25 16:30,Tamworth FC,Boston United FC,1,3,,,
+61915532,2025-11-04 19:45,Boreham Wood FC,Aldershot Town FC,1,0,,,
+61915534,2025-11-04 19:45,Carlisle United,FC Halifax Town,2,0,,,
+61915538,2025-11-04 19:45,Hartlepool United,Morecambe FC,1,1,,,
+61915542,2025-11-04 19:45,Yeovil Town,Wealdstone FC,0,2,,,
+61915544,2025-11-05 19:45,Altrincham FC,Boston United FC,1,0,,,
+61915546,2025-11-05 19:45,Braintree Town FC,Brackley Town FC,0,1,,,
+61915548,2025-11-05 19:45,Solihull Moors FC,Truro City,4,0,,,
+61915550,2025-11-05 19:45,Sutton United,Eastleigh FC,2,1,,,
+61915552,2025-11-05 19:45,Woking FC,Southend United,1,1,,,
+61915554,2025-11-05 19:45,York City FC,Gateshead FC,4,0,,,
+61915556,2025-11-08 12:30,Aldershot Town FC,Forest Green Rovers,2,3,,,
+61915558,2025-11-08 15:00,Boston United FC,Rochdale AFC,1,3,,,
+61915560,2025-11-08 15:00,Brackley Town FC,Boreham Wood FC,1,3,,,
+61915562,2025-11-08 15:00,Eastleigh FC,York City FC,2,4,,,
+61915564,2025-11-08 15:00,FC Halifax Town,Hartlepool United,0,1,,,
+61915566,2025-11-08 15:00,Gateshead FC,Solihull Moors FC,0,2,,,
+61915568,2025-11-08 15:00,Morecambe FC,Sutton United,2,2,,,
+61915570,2025-11-08 15:00,Scunthorpe United,Yeovil Town,1,0,,,
+61915574,2025-11-08 15:00,Tamworth FC,Woking FC,0,1,,,
+61915576,2025-11-08 15:00,Truro City,Altrincham FC,0,1,,,
+61915578,2025-11-08 15:00,Wealdstone FC,Braintree Town FC,1,0,,,
+61915572,2025-11-08 17:30,Southend United,Carlisle United,1,2,,,
+63403703,2025-11-11 19:45,York City FC,Rochdale AFC,4,1,,,
+64804418,2025-11-11 19:45,Forest Green Rovers,Tamworth FC,4,2,,,
+61915580,2025-11-15 15:03,Altrincham FC,Brackley Town FC,2,1,,,
+61915582,2025-11-15 15:03,Boreham Wood FC,Tamworth FC,1,2,,,
+61915584,2025-11-15 15:03,Braintree Town FC,Truro City,2,0,,,
+61915586,2025-11-15 15:03,Carlisle United,Eastleigh FC,1,1,,,
+61915588,2025-11-15 15:03,Forest Green Rovers,Gateshead FC,3,1,,,
+61915590,2025-11-15 15:03,Hartlepool United,Wealdstone FC,1,1,,,
+61915592,2025-11-15 15:03,Rochdale AFC,Aldershot Town FC,1,0,,,
+61915594,2025-11-15 15:03,Solihull Moors FC,Scunthorpe United,3,0,,,
+61915596,2025-11-15 15:03,Sutton United,FC Halifax Town,2,0,,,
+61915598,2025-11-15 15:03,Woking FC,Boston United FC,1,1,,,
+61915600,2025-11-15 15:03,Yeovil Town,Southend United,0,1,,,
+61915602,2025-11-15 15:03,York City FC,Morecambe FC,4,2,,,
+63884207,2025-11-18 19:45,Morecambe FC,Brackley Town FC,2,0,,,
+61915604,2025-11-22 12:30,Aldershot Town FC,Woking FC,1,2,,,
+61915622,2025-11-22 12:30,Tamworth FC,Rochdale AFC,1,2,,,
+61915608,2025-11-22 15:00,Brackley Town FC,York City FC,2,3,,,
+61915610,2025-11-22 15:00,Eastleigh FC,Hartlepool United,0,2,,,
+61915612,2025-11-22 15:00,FC Halifax Town,Solihull Moors FC,3,0,,,
+61915614,2025-11-22 15:00,Gateshead FC,Boreham Wood FC,0,3,,,
+61915616,2025-11-22 15:00,Morecambe FC,Yeovil Town,0,0,,,
+61915618,2025-11-22 15:00,Scunthorpe United,Braintree Town FC,1,1,,,
+61915620,2025-11-22 15:00,Southend United,Altrincham FC,3,0,,,
+61915624,2025-11-22 15:00,Truro City,Sutton United,2,3,,,
+61915626,2025-11-22 15:00,Wealdstone FC,Forest Green Rovers,1,1,,,
+61915606,2025-11-22 17:30,Boston United FC,Carlisle United,1,2,,,
+61915642,2025-11-29 12:30,Solihull Moors FC,Wealdstone FC,1,1,,,
+61915628,2025-11-29 15:00,Altrincham FC,Scunthorpe United,4,2,,,
+61915632,2025-11-29 15:00,Braintree Town FC,Morecambe FC,1,0,,,
+61915634,2025-11-29 15:00,Carlisle United,Tamworth FC,2,1,,,
+61915636,2025-11-29 15:00,Forest Green Rovers,Southend United,2,1,,,
+61915638,2025-11-29 15:00,Hartlepool United,Truro City,3,1,,,
+61915640,2025-11-29 15:00,Rochdale AFC,Eastleigh FC,2,0,,,
+61915644,2025-11-29 15:00,Sutton United,Gateshead FC,4,2,,,
+61915646,2025-11-29 15:00,Woking FC,Brackley Town FC,2,0,,,
+61915648,2025-11-29 15:00,Yeovil Town,Boston United FC,2,1,,,
+61915650,2025-11-29 15:00,York City FC,Aldershot Town FC,5,1,,,
+61915630,2025-11-29 17:30,Boreham Wood FC,FC Halifax Town,2,1,,,
+61915664,2025-12-06 12:30,Morecambe FC,Boston United FC,0,3,,,
+61915652,2025-12-06 15:00,Aldershot Town FC,Altrincham FC,2,1,,,
+61915658,2025-12-06 15:00,FC Halifax Town,Braintree Town FC,4,0,,,
+61915660,2025-12-06 15:00,Forest Green Rovers,Solihull Moors FC,1,1,,,
+61915662,2025-12-06 15:00,Hartlepool United,Yeovil Town,0,2,,,
+65375588,2025-12-06 15:00,Rochdale AFC,Southend United,2,1,,,
+61915668,2025-12-06 17:30,Scunthorpe United,Tamworth FC,3,1,,,
+65859770,2025-12-10 19:45,Carlisle United,Woking FC,1,3,1.480,4.100,6.000
+65859920,2025-12-16 19:45,Truro City,Wealdstone FC,2,0,2.750,3.300,2.350
+64891496,2025-12-19 19:45,Altrincham FC,Rochdale AFC,0,3,4.000,3.700,1.750
+61915680,2025-12-20 12:30,Boston United FC,Aldershot Town FC,0,2,2.250,3.300,2.875
+61915694,2025-12-20 12:30,Woking FC,Scunthorpe United,1,2,2.600,3.250,2.500
+61915690,2025-12-20 17:30,Tamworth FC,Southend United,2,1,4.000,3.700,1.750
+61915698,2025-12-20 17:30,York City FC,Truro City,4,0,1.142,7.000,15.000
+61915696,2025-12-20 19:45,Yeovil Town,Forest Green Rovers,0,2,5.000,4.000,1.550
+61915682,2025-12-21 12:00,Brackley Town FC,Morecambe FC,0,2,2.100,3.300,3.200
+61915688,2025-12-21 12:00,Solihull Moors FC,Sutton United,4,1,1.900,3.600,3.600
+61915684,2025-12-21 14:00,Braintree Town FC,Hartlepool United,0,0,3.300,3.400,2.000
+61915686,2025-12-21 14:00,Gateshead FC,Eastleigh FC,1,3,2.550,3.400,2.450
+61915678,2025-12-21 16:00,Boreham Wood FC,Carlisle United,2,0,1.800,3.800,3.600
+62409002,2025-12-21 16:00,FC Halifax Town,Wealdstone FC,2,2,1.950,3.500,3.400
+61915700,2025-12-26 15:00,Brackley Town FC,Forest Green Rovers,1,0,5.250,3.800,1.550
+61915702,2025-12-26 15:00,Braintree Town FC,Southend United,0,1,5.000,3.700,1.571
+61915704,2025-12-26 15:00,Eastleigh FC,Woking FC,1,1,2.450,3.200,2.700
+61915706,2025-12-26 15:00,FC Halifax Town,Altrincham FC,2,1,2.100,3.300,3.200
+61915708,2025-12-26 15:00,Gateshead FC,Carlisle United,0,3,5.750,4.750,1.444
+61915710,2025-12-26 15:00,Hartlepool United,Scunthorpe United,1,2,2.200,3.400,2.900
+61915712,2025-12-26 15:00,Morecambe FC,Rochdale AFC,1,2,6.000,4.333,1.420
+61915714,2025-12-26 15:00,Solihull Moors FC,Tamworth FC,7,1,1.900,3.600,3.400
+61915716,2025-12-26 15:00,Sutton United,Aldershot Town FC,0,0,2.000,3.700,3.100
+61915718,2025-12-26 15:00,Truro City,Yeovil Town,1,0,2.150,3.250,3.200
+61915720,2025-12-26 15:00,Wealdstone FC,Boreham Wood FC,0,4,4.200,3.800,1.700
+61915722,2025-12-26 15:00,York City FC,Boston United FC,2,2,1.200,5.750,11.000
+61915724,2025-12-30 19:45,Aldershot Town FC,Wealdstone FC,4,1,1.833,3.750,3.500
+61915726,2025-12-30 19:45,Altrincham FC,York City FC,1,2,5.750,4.333,1.444
+61915728,2025-12-30 19:45,Boreham Wood FC,Solihull Moors FC,2,1,1.400,4.333,7.000
+61915730,2025-12-30 19:45,Boston United FC,Brackley Town FC,1,2,2.000,3.400,3.400
+61915732,2025-12-30 19:45,Carlisle United,Morecambe FC,1,0,1.380,5.000,6.500
+61915734,2025-12-30 19:45,Forest Green Rovers,Truro City,1,1,1.250,6.250,7.500
+61915736,2025-12-30 19:45,Rochdale AFC,Hartlepool United,1,2,1.444,4.100,7.000
+61915738,2025-12-30 19:45,Scunthorpe United,Gateshead FC,2,0,1.270,5.250,8.500
+61915740,2025-12-30 19:45,Southend United,Sutton United,1,0,1.363,4.333,7.000
+61915742,2025-12-30 19:45,Tamworth FC,FC Halifax Town,0,2,2.625,3.400,2.375
+61915744,2025-12-30 19:45,Woking FC,Braintree Town FC,0,1,1.700,3.700,4.333
+61915746,2025-12-30 19:45,Yeovil Town,Eastleigh FC,1,1,2.400,3.000,2.800
+61915754,2026-01-03 15:00,Boston United FC,Eastleigh FC,1,2,2.250,3.100,3.000
+61915756,2026-01-03 15:00,Carlisle United,Wealdstone FC,2,0,1.363,4.500,7.500
+61915758,2026-01-03 15:00,Forest Green Rovers,FC Halifax Town,2,1,1.363,4.333,7.500
+61915766,2026-01-03 15:00,Tamworth FC,Gateshead FC,3,1,1.666,3.750,4.333
+61915770,2026-01-03 17:30,Yeovil Town,Braintree Town FC,3,1,2.150,3.200,3.100
+65656606,2026-01-10 15:00,Sutton United,York City FC,1,2,5.500,4.500,1.450
+67385894,2026-01-10 15:00,Aldershot Town FC,Solihull Moors FC,1,5,2.050,3.800,2.875
+67462396,2026-01-10 15:00,Woking FC,Hartlepool United,4,0,2.375,3.250,2.750
+61915796,2026-01-10 17:30,Braintree Town FC,Boston United FC,0,0,2.625,3.300,2.450
+61915782,2026-01-17 12:30,Hartlepool United,Altrincham FC,1,0,1.850,3.500,3.700
+61915772,2026-01-17 15:00,Brackley Town FC,Yeovil Town,2,1,1.950,3.200,3.500
+61915774,2026-01-17 15:00,Braintree Town FC,Boreham Wood FC,0,3,6.500,4.333,1.400
+61915776,2026-01-17 15:00,Eastleigh FC,Aldershot Town FC,1,4,2.200,3.500,2.875
+61915778,2026-01-17 15:00,FC Halifax Town,Boston United FC,2,1,1.950,3.400,3.600
+61915780,2026-01-17 15:00,Gateshead FC,Rochdale AFC,0,2,7.000,4.750,1.363
+61915784,2026-01-17 15:00,Morecambe FC,Scunthorpe United,2,2,3.900,3.700,1.750
+61915786,2026-01-17 15:00,Solihull Moors FC,Carlisle United,3,3,2.550,3.400,2.450
+61915788,2026-01-17 15:00,Sutton United,Forest Green Rovers,1,1,4.750,3.900,1.600
+61915790,2026-01-17 15:00,Truro City,Tamworth FC,0,0,2.150,3.200,3.100
+61915792,2026-01-17 15:00,Wealdstone FC,Woking FC,1,0,3.000,3.300,2.150
+61915794,2026-01-17 17:30,York City FC,Southend United,1,1,1.666,3.900,4.200
+61915798,2026-01-20 19:45,Hartlepool United,Gateshead FC,2,1,1.500,4.000,5.500
+61915800,2026-01-20 19:45,Southend United,Eastleigh FC,4,1,1.285,5.000,9.000
+61915804,2026-01-20 19:45,Truro City,Brackley Town FC,3,3,2.350,3.100,2.900
+61915808,2026-01-20 19:45,Boreham Wood FC,Scunthorpe United,1,3,1.650,3.700,4.750
+61915810,2026-01-21 19:45,Carlisle United,York City FC,0,3,2.875,3.500,2.200
+61915812,2026-01-21 19:45,FC Halifax Town,Morecambe FC,1,0,1.833,3.600,3.700
+61915814,2026-01-21 19:45,Forest Green Rovers,Altrincham FC,1,1,1.270,5.250,9.500
+61915816,2026-01-21 19:45,Solihull Moors FC,Rochdale AFC,0,1,3.200,3.400,2.050
+61915822,2026-01-24 15:00,Altrincham FC,Boreham Wood FC,3,1,6.250,4.200,1.420
+61915824,2026-01-24 15:00,Boston United FC,Southend United,3,3,6.000,3.900,1.500
+61915826,2026-01-24 15:00,Brackley Town FC,Hartlepool United,0,0,2.550,3.100,2.600
+61915828,2026-01-24 15:00,Eastleigh FC,FC Halifax Town,2,3,2.700,3.250,2.400
+61915832,2026-01-24 15:00,Morecambe FC,Solihull Moors FC,0,2,2.900,3.600,2.050
+61915834,2026-01-24 15:00,Rochdale AFC,Truro City,2,0,1.420,4.000,8.000
+61915838,2026-01-24 15:00,Tamworth FC,Sutton United,0,1,2.400,3.400,2.600
+61915842,2026-01-24 15:00,York City FC,Braintree Town FC,5,0,1.142,7.000,13.000
+61915836,2026-01-24 17:30,Scunthorpe United,Forest Green Rovers,3,2,2.750,3.400,2.300
+67871326,2026-01-27 19:45,Rochdale AFC,Southend United,2,1,2.100,3.250,3.200
+61915844,2026-01-31 15:00,Boreham Wood FC,Boston United FC,1,2,1.380,4.750,6.250
+61915846,2026-01-31 15:00,Braintree Town FC,Eastleigh FC,2,1,2.800,3.400,2.300
+61915848,2026-01-31 15:00,Carlisle United,Altrincham FC,3,1,1.533,4.000,5.500
+61915854,2026-01-31 15:00,Hartlepool United,Aldershot Town FC,0,3,1.909,3.500,3.400
+61915856,2026-01-31 15:00,Solihull Moors FC,York City FC,0,2,4.200,3.900,1.666
+61915860,2026-01-31 15:00,Sutton United,Brackley Town FC,1,1,1.833,3.400,3.800
+65860154,2026-02-03 19:45,Rochdale AFC,Boreham Wood FC,4,1,1.833,3.600,3.800
+67503232,2026-02-03 19:45,Altrincham FC,Morecambe FC,1,1,1.950,3.500,3.400
+68006126,2026-02-03 19:45,Forest Green Rovers,Woking FC,4,2,1.420,4.100,7.000
+61915868,2026-02-07 15:00,Aldershot Town FC,FC Halifax Town,3,2,2.000,3.600,3.200
+61915870,2026-02-07 15:00,Altrincham FC,Yeovil Town,0,1,2.000,3.300,3.400
+61915872,2026-02-07 15:00,Boston United FC,Sutton United,1,0,2.150,3.400,3.000
+61915880,2026-02-07 15:00,Morecambe FC,Truro City,1,2,1.950,3.400,3.600
+61915882,2026-02-07 15:00,Rochdale AFC,Carlisle United,1,0,1.666,3.600,4.500
+61915884,2026-02-07 15:00,Scunthorpe United,Southend United,1,0,1.950,3.500,3.300
+61915886,2026-02-07 15:00,Tamworth FC,Hartlepool United,1,1,2.550,3.200,2.550
+61915890,2026-02-07 15:00,York City FC,Forest Green Rovers,2,1,1.666,4.100,4.000
+61915876,2026-02-07 17:30,Eastleigh FC,Wealdstone FC,2,2,2.250,3.300,2.900
+61915892,2026-02-10 19:45,Altrincham FC,Wealdstone FC,1,0,2.100,3.600,3.000
+61915894,2026-02-10 19:45,Boston United FC,Gateshead FC,1,0,1.615,3.700,4.750
+61915896,2026-02-10 19:45,Carlisle United,Scunthorpe United,3,2,2.350,3.400,2.700
+61915898,2026-02-10 19:45,Morecambe FC,Tamworth FC,2,2,2.150,3.500,2.875
+61915900,2026-02-10 19:45,Solihull Moors FC,Eastleigh FC,2,3,1.666,3.600,4.500
+61915902,2026-02-10 19:45,Truro City,Woking FC,0,2,2.500,3.250,2.600
+61915906,2026-02-11 19:45,Boreham Wood FC,Yeovil Town,3,2,1.500,4.000,5.500
+61915908,2026-02-11 19:45,Brackley Town FC,FC Halifax Town,1,1,2.300,3.100,2.900
+61915910,2026-02-11 19:45,Rochdale AFC,Forest Green Rovers,2,1,1.900,3.400,3.600
+61915912,2026-02-11 19:45,Sutton United,Braintree Town FC,1,1,1.571,3.800,5.000
+61915914,2026-02-11 19:45,York City FC,Hartlepool United,3,2,1.222,5.250,11.000
+61915916,2026-02-14 15:00,Braintree Town FC,Solihull Moors FC,0,0,3.300,3.600,1.909
+61915918,2026-02-14 15:00,Eastleigh FC,Boreham Wood FC,2,2,4.200,3.700,1.700
+61915920,2026-02-14 15:00,FC Halifax Town,Truro City,1,0,1.800,3.400,4.100
+61915924,2026-02-14 15:00,Gateshead FC,Brackley Town FC,1,2,2.600,3.300,2.450
+61915928,2026-02-14 15:00,Scunthorpe United,Boston United FC,3,6,1.600,3.750,5.250
+61915930,2026-02-14 15:00,Southend United,Morecambe FC,5,1,1.363,4.750,6.500
+61915932,2026-02-14 15:00,Tamworth FC,Aldershot Town FC,1,1,2.750,3.600,2.250
+61915934,2026-02-14 15:00,Wealdstone FC,York City FC,0,3,5.500,4.000,1.480
+61915938,2026-02-14 15:00,Yeovil Town,Rochdale AFC,1,1,5.750,3.700,1.550
+61915922,2026-02-14 17:30,Forest Green Rovers,Carlisle United,1,3,1.833,3.600,3.700
+66356638,2026-02-17 19:45,Rochdale AFC,Scunthorpe United,1,1,1.727,3.600,4.500
+67877790,2026-02-17 19:45,Sutton United,Woking FC,2,1,2.250,3.300,2.875
+68352626,2026-02-17 19:45,FC Halifax Town,Gateshead FC,1,2,1.500,4.000,5.250
+68416276,2026-02-17 19:45,Yeovil Town,Aldershot Town FC,1,2,2.800,3.400,2.250
+61915940,2026-02-21 15:00,Aldershot Town FC,Scunthorpe United,3,1,2.500,3.700,2.375
+61915942,2026-02-21 15:00,Altrincham FC,Braintree Town FC,2,1,1.750,3.600,4.100
+61915944,2026-02-21 15:00,Boreham Wood FC,Forest Green Rovers,1,1,2.150,3.700,2.700
+61915946,2026-02-21 15:00,Boston United FC,Tamworth FC,0,0,1.850,3.300,3.800
+61915948,2026-02-21 15:00,Brackley Town FC,Southend United,0,3,3.800,3.300,1.900
+61915950,2026-02-21 15:00,Carlisle United,Yeovil Town,3,0,1.550,4.000,5.250
+61915952,2026-02-21 15:00,Morecambe FC,Eastleigh FC,4,0,2.500,3.500,2.550
+61915954,2026-02-21 15:00,Rochdale AFC,Woking FC,3,0,1.400,4.000,7.500
+61915956,2026-02-21 15:00,Solihull Moors FC,Hartlepool United,3,4,2.150,3.400,3.000
+61915958,2026-02-21 15:00,Sutton United,Wealdstone FC,3,0,2.300,3.400,2.625
+61915962,2026-02-21 15:00,York City FC,FC Halifax Town,4,1,1.250,5.500,9.000
+61915960,2026-02-21 17:30,Truro City,Gateshead FC,1,2,2.050,3.300,3.400
+61915964,2026-02-24 19:45,FC Halifax Town,Rochdale AFC,2,2,4.750,3.400,1.700
+61915966,2026-02-24 19:45,Forest Green Rovers,Boston United FC,2,3,1.533,4.100,5.250
+61915968,2026-02-24 19:45,Scunthorpe United,York City FC,0,3,3.900,3.900,1.727
+61915970,2026-02-24 19:45,Southend United,Boreham Wood FC,0,2,2.000,3.600,3.200
+61915972,2026-02-24 19:45,Tamworth FC,Altrincham FC,5,1,2.150,3.250,3.100
+61915974,2026-02-24 19:45,Wealdstone FC,Brackley Town FC,2,1,2.100,3.200,3.250
+61915976,2026-02-25 19:45,Braintree Town FC,Aldershot Town FC,1,2,4.100,3.800,1.700
+61915978,2026-02-25 19:45,Eastleigh FC,Truro City,2,1,2.050,3.250,3.250
+61915980,2026-02-25 19:45,Gateshead FC,Morecambe FC,4,4,2.200,3.600,2.750
+61915982,2026-02-25 19:45,Hartlepool United,Carlisle United,3,1,3.000,3.300,2.200
+61915986,2026-02-25 19:45,Yeovil Town,Sutton United,3,2,2.450,3.300,2.550
+61915988,2026-02-28 15:00,Aldershot Town FC,Rochdale AFC,0,2,3.400,3.400,1.950
+61915992,2026-02-28 15:00,Brackley Town FC,Altrincham FC,0,2,2.200,3.200,3.100
+61915994,2026-02-28 15:00,Eastleigh FC,Carlisle United,1,2,4.100,3.400,1.800
+61915996,2026-02-28 15:00,FC Halifax Town,Sutton United,2,2,2.000,3.400,3.300
+61915998,2026-02-28 15:00,Gateshead FC,Forest Green Rovers,0,2,5.000,4.000,1.550
+61916002,2026-02-28 15:00,Scunthorpe United,Solihull Moors FC,3,3,1.900,3.600,3.400
+61916006,2026-02-28 15:00,Tamworth FC,Boreham Wood FC,3,2,4.333,3.600,1.700
+61916008,2026-02-28 15:00,Truro City,Braintree Town FC,2,3,1.833,3.400,3.900
+61916000,2026-02-28 17:30,Morecambe FC,York City FC,0,1,7.500,4.750,1.333
+67610110,2026-03-03 19:45,Boreham Wood FC,York City FC,3,2,3.000,3.750,2.050
+67868542,2026-03-03 19:45,Wealdstone FC,Morecambe FC,2,3,1.909,3.600,3.500
+68006176,2026-03-03 19:45,Rochdale AFC,Brackley Town FC,3,2,1.333,4.333,9.000
+68352628,2026-03-03 19:45,Yeovil Town,Tamworth FC,2,0,2.450,3.400,2.550
+68533012,2026-03-03 19:45,Southend United,Truro City,1,1,1.333,4.750,8.000
+68674698,2026-03-03 19:45,Boston United FC,Woking FC,2,2,2.000,3.250,3.500
+69107506,2026-03-03 19:45,Hartlepool United,Sutton United,0,2,2.000,3.400,3.400
+69128024,2026-03-04 19:45,Gateshead FC,Braintree Town FC,1,0,1.800,3.900,3.600
+61916014,2026-03-07 12:30,Boreham Wood FC,Brackley Town FC,5,3,1.380,4.750,6.250
+61916012,2026-03-07 15:00,Altrincham FC,Truro City,2,0,1.900,3.500,3.600
+61916016,2026-03-07 15:00,Braintree Town FC,Wealdstone FC,1,4,3.300,3.400,2.000
+61916020,2026-03-07 15:00,Forest Green Rovers,Aldershot Town FC,2,1,1.800,3.700,3.800
+61916022,2026-03-07 15:00,Hartlepool United,FC Halifax Town,0,1,2.000,3.400,3.300
+61916024,2026-03-07 15:00,Rochdale AFC,Boston United FC,1,0,1.450,4.500,5.500
+61916026,2026-03-07 15:00,Solihull Moors FC,Gateshead FC,1,2,1.615,4.000,4.333
+61916028,2026-03-07 15:00,Sutton United,Morecambe FC,0,5,1.727,3.900,3.800
+61916030,2026-03-07 15:00,Woking FC,Tamworth FC,3,1,2.000,3.500,3.250
+61916032,2026-03-07 15:00,Yeovil Town,Scunthorpe United,0,3,3.250,3.400,2.050
+61916034,2026-03-07 15:00,York City FC,Eastleigh FC,3,1,1.166,6.500,13.000
+61916018,2026-03-07 17:30,Carlisle United,Southend United,2,2,2.400,3.400,2.625
+68123984,2026-03-10 19:45,Scunthorpe United,Sutton United,1,2,1.833,3.900,3.500
+68156332,2026-03-10 19:45,Eastleigh FC,Brackley Town FC,2,1,2.300,3.500,2.625
+68352632,2026-03-10 19:45,Wealdstone FC,Tamworth FC,3,2,2.050,3.500,3.250
+68567432,2026-03-10 19:45,Aldershot Town FC,Carlisle United,0,2,2.500,3.500,2.400
+68674710,2026-03-10 19:45,Southend United,Gateshead FC,1,1,1.363,5.000,7.000
+68840784,2026-03-10 19:45,Woking FC,Boreham Wood FC,2,2,3.600,3.900,1.850
+61916058,2026-03-14 12:30,Wealdstone FC,Solihull Moors FC,5,1,2.150,3.500,2.875
+61916036,2026-03-14 15:00,Aldershot Town FC,York City FC,0,3,4.750,4.500,1.533
+61916038,2026-03-14 15:00,Boston United FC,Yeovil Town,2,1,1.833,3.500,3.800
+61916040,2026-03-14 15:00,Brackley Town FC,Woking FC,1,4,2.450,3.100,2.700
+61916044,2026-03-14 15:00,FC Halifax Town,Boreham Wood FC,3,2,3.100,3.700,2.000
+61916046,2026-03-14 15:00,Gateshead FC,Sutton United,1,1,2.200,3.750,2.700
+61916052,2026-03-14 15:00,Southend United,Forest Green Rovers,2,0,2.050,3.400,3.200
+61916054,2026-03-14 15:00,Tamworth FC,Carlisle United,2,1,3.100,3.400,2.050
+61916056,2026-03-14 15:00,Truro City,Hartlepool United,0,1,3.000,3.250,2.250
+61916042,2026-03-14 17:30,Eastleigh FC,Rochdale AFC,1,3,6.000,3.800,1.500
+61916048,2026-03-14 17:30,Morecambe FC,Braintree Town FC,1,1,1.650,4.100,4.100
+61916050,2026-03-14 17:30,Scunthorpe United,Altrincham FC,2,1,1.615,4.200,4.200
+68270664,2026-03-17 19:45,Southend United,Rochdale AFC,3,2,,,
+68352636,2026-03-17 19:45,Woking FC,Yeovil Town,1,0,,,
+68908174,2026-03-17 19:45,Brackley Town FC,Solihull Moors FC,1,1,,,
+68910670,2026-03-17 19:45,Gateshead FC,Wealdstone FC,1,0,,,
+69227118,2026-03-17 19:45,Truro City,Scunthorpe United,1,2,,,
+61916078,2026-03-21 12:30,Woking FC,Aldershot Town FC,3,2,1.950,3.600,3.250
+61916060,2026-03-21 15:00,Altrincham FC,Southend United,1,0,4.750,3.800,1.600
+61916062,2026-03-21 15:00,Boreham Wood FC,Gateshead FC,3,0,1.450,4.333,5.750
+61916064,2026-03-21 15:00,Braintree Town FC,Scunthorpe United,2,3,5.500,4.100,1.480
+61916066,2026-03-21 15:00,Carlisle United,Boston United FC,6,2,1.750,3.400,4.333
+61916068,2026-03-21 15:00,Forest Green Rovers,Wealdstone FC,2,0,1.550,3.900,5.000
+61916070,2026-03-21 15:00,Hartlepool United,Eastleigh FC,1,0,1.615,3.700,4.750
+61916072,2026-03-21 15:00,Rochdale AFC,Tamworth FC,3,2,1.333,4.750,7.500
+61916076,2026-03-21 15:00,Sutton United,Truro City,0,3,1.615,3.800,4.750
+61916080,2026-03-21 15:00,Yeovil Town,Morecambe FC,3,2,2.450,3.400,2.550
+61916082,2026-03-21 15:00,York City FC,Brackley Town FC,4,0,1.142,6.500,15.000
+61916074,2026-03-21 17:30,Solihull Moors FC,FC Halifax Town,0,3,2.450,3.400,2.550
+61916084,2026-03-24 19:45,Aldershot Town FC,Boreham Wood FC,1,2,3.900,4.100,1.666
+61916086,2026-03-24 19:45,Boston United FC,Altrincham FC,2,2,1.833,3.500,3.750
+61916088,2026-03-24 19:45,Brackley Town FC,Braintree Town FC,1,1,1.700,3.900,3.900
+61916090,2026-03-24 19:45,Eastleigh FC,Sutton United,0,2,2.900,3.500,2.150
+61916092,2026-03-24 19:45,FC Halifax Town,Carlisle United,0,1,2.625,3.300,2.375
+61916094,2026-03-24 19:45,Gateshead FC,York City FC,3,1,8.500,5.000,1.285
+61916096,2026-03-25 19:45,Morecambe FC,Hartlepool United,2,3,2.750,3.400,2.250
+61916098,2026-03-25 19:45,Scunthorpe United,Rochdale AFC,2,2,3.000,3.600,2.100
+61916100,2026-03-25 19:45,Southend United,Woking FC,1,1,1.600,3.700,5.000
+61916102,2026-03-25 19:45,Tamworth FC,Forest Green Rovers,1,0,3.300,3.700,1.950
+61916104,2026-03-25 19:45,Truro City,Solihull Moors FC,1,1,2.625,3.200,2.450
+61916106,2026-03-25 19:45,Wealdstone FC,Yeovil Town,0,2,1.833,3.400,3.900
+61916108,2026-03-28 15:00,Brackley Town FC,Tamworth FC,0,1,2.700,3.500,2.250
+61916110,2026-03-28 15:00,Braintree Town FC,Carlisle United,1,2,5.500,4.500,1.480
+61916112,2026-03-28 15:00,Eastleigh FC,Forest Green Rovers,2,4,4.500,3.750,1.650
+61916114,2026-03-28 15:00,FC Halifax Town,Scunthorpe United,1,2,2.300,3.500,2.625
+61916116,2026-03-28 15:00,Gateshead FC,Yeovil Town,2,1,1.950,3.400,3.500
+61916120,2026-03-28 15:00,Morecambe FC,Aldershot Town FC,0,2,2.450,3.900,2.350
+61916122,2026-03-28 15:00,Solihull Moors FC,Altrincham FC,1,0,1.950,3.500,3.300
+61916124,2026-03-28 15:00,Sutton United,Rochdale AFC,1,2,4.750,3.900,1.615
+61916126,2026-03-28 15:00,Truro City,Boreham Wood FC,0,0,5.000,4.000,1.550
+61916130,2026-03-28 15:00,York City FC,Woking FC,1,0,1.270,5.250,8.500
+68840786,2026-03-31 18:45,Southend United,Yeovil Town,2,1,1.333,4.200,8.500
+69111390,2026-03-31 18:45,Woking FC,Altrincham FC,1,1,1.833,3.600,3.700
+69227288,2026-03-31 18:45,Wealdstone FC,Hartlepool United,7,0,2.500,3.400,2.500
+61916132,2026-04-03 14:00,Aldershot Town FC,Sutton United,2,2,2.100,3.400,3.400
+61916134,2026-04-03 14:00,Altrincham FC,FC Halifax Town,0,1,2.750,3.500,2.300
+61916136,2026-04-03 14:00,Boreham Wood FC,Wealdstone FC,5,1,1.533,4.200,5.000
+61916138,2026-04-03 14:00,Boston United FC,York City FC,0,1,6.000,4.333,1.444
+61916140,2026-04-03 14:00,Carlisle United,Gateshead FC,0,0,1.533,4.000,5.250
+61916142,2026-04-03 14:00,Forest Green Rovers,Brackley Town FC,4,0,1.400,4.500,6.500
+61916144,2026-04-03 14:00,Rochdale AFC,Morecambe FC,2,4,1.222,6.000,9.000
+61916146,2026-04-03 14:00,Scunthorpe United,Hartlepool United,0,0,1.666,3.750,4.333
+61916148,2026-04-03 14:00,Tamworth FC,Solihull Moors FC,1,0,2.100,3.400,3.000
+61916150,2026-04-03 14:00,Woking FC,Eastleigh FC,3,3,1.800,3.500,4.000
+61916152,2026-04-03 14:00,Yeovil Town,Truro City,1,0,2.100,3.200,3.250
+61916154,2026-04-03 14:00,Southend United,Braintree Town FC,3,2,1.200,5.750,10.000
+61916156,2026-04-06 14:00,Solihull Moors FC,Boreham Wood FC,4,1,4.100,3.900,1.700
+61916158,2026-04-06 14:00,York City FC,Altrincham FC,2,1,1.142,7.500,13.000
+61916160,2026-04-06 14:00,Wealdstone FC,Aldershot Town FC,3,0,2.450,3.600,2.450
+61916162,2026-04-06 14:00,Truro City,Forest Green Rovers,1,1,4.100,4.000,1.666
+61916164,2026-04-06 14:00,Sutton United,Southend United,0,3,3.750,3.600,1.800
+61916166,2026-04-06 14:00,Morecambe FC,Carlisle United,2,2,4.000,3.900,1.727
+61916168,2026-04-06 14:00,Hartlepool United,Rochdale AFC,0,0,4.333,3.500,1.750
+61916170,2026-04-06 14:00,Gateshead FC,Scunthorpe United,2,0,3.100,3.750,2.050
+61916172,2026-04-06 14:00,FC Halifax Town,Tamworth FC,2,2,1.750,3.600,4.000
+61916174,2026-04-06 14:00,Eastleigh FC,Yeovil Town,2,1,1.727,3.800,4.000
+61916176,2026-04-06 14:00,Braintree Town FC,Woking FC,0,0,3.600,3.600,1.909
+61916178,2026-04-06 14:00,Brackley Town FC,Boston United FC,1,1,2.600,3.250,2.500
+61916184,2026-04-11 11:30,Tamworth FC,York City FC,0,1,6.000,4.200,1.420
+61916196,2026-04-11 11:30,Boreham Wood FC,Hartlepool United,3,0,1.480,4.100,5.500
+61916180,2026-04-11 14:00,Woking FC,Morecambe FC,5,1,1.833,3.900,3.400
+61916182,2026-04-11 14:00,Yeovil Town,FC Halifax Town,0,0,3.300,3.300,2.000
+61916186,2026-04-11 14:00,Southend United,Solihull Moors FC,0,0,1.400,4.333,7.000
+61916188,2026-04-11 14:00,Scunthorpe United,Brackley Town FC,1,0,1.480,4.000,5.750
+61916192,2026-04-11 14:00,Carlisle United,Sutton United,3,0,1.571,4.100,5.000
+61916194,2026-04-11 14:00,Boston United FC,Truro City,1,0,1.900,3.300,3.800
+61916198,2026-04-11 14:00,Altrincham FC,Eastleigh FC,1,0,2.350,3.500,2.700
+61916200,2026-04-11 14:00,Aldershot Town FC,Gateshead FC,0,1,1.850,3.800,3.250
+61916202,2026-04-11 14:00,Forest Green Rovers,Braintree Town FC,3,1,1.200,5.750,10.000
+61916190,2026-04-11 16:30,Rochdale AFC,Wealdstone FC,2,1,1.300,4.750,9.000
+69252322,2026-04-14 18:45,Aldershot Town FC,Southend United,0,2,4.200,3.750,1.700
+69348122,2026-04-14 18:45,Woking FC,Solihull Moors FC,0,0,2.000,3.600,3.100
+69548706,2026-04-14 18:45,Wealdstone FC,Boston United FC,1,1,2.100,3.500,3.000
+61916218,2026-04-18 11:30,FC Halifax Town,Southend United,2,6,3.400,3.600,1.909
+61916204,2026-04-18 14:00,Truro City,Carlisle United,0,1,4.200,3.600,1.727
+61916208,2026-04-18 14:00,Wealdstone FC,Scunthorpe United,1,1,2.450,3.600,2.450
+61916210,2026-04-18 14:00,Sutton United,Altrincham FC,1,2,1.909,3.800,3.300
+61916212,2026-04-18 14:00,Solihull Moors FC,Boston United FC,0,3,2.200,3.400,2.900
+61916214,2026-04-18 14:00,Morecambe FC,Boreham Wood FC,0,3,6.000,4.750,1.400
+61916216,2026-04-18 14:00,Gateshead FC,Woking FC,0,3,2.400,3.500,2.550
+61916220,2026-04-18 14:00,Eastleigh FC,Tamworth FC,1,1,2.350,3.400,2.625
+61916224,2026-04-18 14:00,Brackley Town FC,Aldershot Town FC,2,1,2.750,3.600,2.250
+61916226,2026-04-18 14:00,Hartlepool United,Forest Green Rovers,2,1,3.000,3.500,2.100
+61916206,2026-04-18 16:30,York City FC,Yeovil Town,3,0,1.062,10.000,29.000
+61916222,2026-04-18 16:30,Braintree Town FC,Rochdale AFC,1,2,11.000,5.250,1.222
+69584148,2026-04-21 18:45,Hartlepool United,Southend United,4,3,3.700,3.500,1.850
+61916228,2026-04-25 11:30,Yeovil Town,Solihull Moors FC,1,4,2.800,3.400,2.250
+61916230,2026-04-25 11:30,Woking FC,FC Halifax Town,0,1,2.250,3.400,2.700
+61916232,2026-04-25 11:30,Tamworth FC,Braintree Town FC,5,1,1.533,4.100,5.250
+61916234,2026-04-25 11:30,Southend United,Wealdstone FC,2,1,1.500,4.100,5.500
+61916236,2026-04-25 11:30,Scunthorpe United,Eastleigh FC,0,1,1.650,3.900,4.333
+61916238,2026-04-25 11:30,Rochdale AFC,York City FC,1,1,2.625,3.250,2.500
+61916240,2026-04-25 11:30,Forest Green Rovers,Morecambe FC,5,0,1.300,5.250,7.500
+61916242,2026-04-25 11:30,Carlisle United,Brackley Town FC,3,0,1.571,3.750,5.000
+61916244,2026-04-25 11:30,Boston United FC,Hartlepool United,3,1,2.050,3.600,3.100
+61916246,2026-04-25 11:30,Boreham Wood FC,Sutton United,1,0,1.380,4.750,6.250
+61916248,2026-04-25 11:30,Altrincham FC,Gateshead FC,3,1,1.727,4.100,3.900
+61916250,2026-04-25 11:30,Aldershot Town FC,Truro City,0,2,1.750,3.600,4.000
+71073860,2026-04-28 18:45,Scunthorpe United,Southend United,1,0,3.100,3.500,2.050
+71073864,2026-04-29 18:45,Boreham Wood FC,Forest Green Rovers,0,0,1.850,3.750,3.400
+71193110,2026-05-03 11:30,Carlisle United,Boreham Wood FC,1,1,2.375,3.600,2.550
+71173608,2026-05-03 14:00,Rochdale AFC,Scunthorpe United,2,1,1.750,3.700,4.000
+71256640,2026-05-10 14:00,Boreham Wood FC,Rochdale AFC,2,2,2.450,3.500,2.600
+72738004,2026-08-08 14:00,AFC Fylde,Wealdstone FC,2,2,1.909,3.600,3.400
+72738006,2026-08-08 14:00,Altrincham FC,Southend United,1,3,3.500,3.700,1.850
+72738008,2026-08-08 14:00,Boreham Wood FC,Tamworth FC,3,3,1.533,4.100,5.000
+72738010,2026-08-08 14:00,Boston United FC,Aldershot Town FC,0,1,1.615,3.900,4.500
+72738012,2026-08-08 14:00,Carlisle United,Worthing FC,2,3,1.450,4.500,5.250
+72738014,2026-08-08 14:00,Eastleigh FC,Gateshead FC,2,1,2.150,3.500,2.875
+72738016,2026-08-08 14:00,Forest Green Rovers,FC Halifax Town,3,2,1.480,4.200,5.250
+72738018,2026-08-08 14:00,Harrogate Town,Solihull Moors FC,5,2,1.650,3.900,4.333
+72738020,2026-08-08 14:00,Hartlepool United,Barrow AFC,2,0,2.100,3.400,3.100
+72738022,2026-08-08 14:00,Hornchurch FC,Kidderminster Harriers FC,3,0,2.000,3.500,3.250
+72738024,2026-08-08 14:00,Scunthorpe United,Yeovil Town,1,1,1.833,3.600,3.800
+72738026,2026-08-08 14:00,Woking FC,Sutton United,0,3,2.100,3.300,3.100
+72738028,2026-08-15 14:00,Aldershot Town FC,Hartlepool United,0,1,2.900,3.500,2.200
+72738030,2026-08-15 14:00,Barrow AFC,Hornchurch FC,1,2,1.750,4.000,3.500
+72738032,2026-08-15 14:00,FC Halifax Town,Boreham Wood FC,1,3,4.100,4.000,1.650
+72738034,2026-08-15 14:00,Gateshead FC,Woking FC,2,0,2.700,3.400,2.300
+72738036,2026-08-15 14:00,Kidderminster Harriers FC,Eastleigh FC,1,0,2.100,3.600,3.000
+72738038,2026-08-15 14:00,Solihull Moors FC,Boston United FC,0,2,2.200,3.500,2.750
+72738040,2026-08-15 14:00,Southend United,Scunthorpe United,1,0,1.950,3.500,3.400
+72738042,2026-08-15 14:00,Sutton United,Altrincham FC,1,0,1.900,3.600,3.500
+72738044,2026-08-15 14:00,Tamworth FC,AFC Fylde,1,2,2.150,3.600,2.875
+72738046,2026-08-15 14:00,Wealdstone FC,Harrogate Town,1,3,2.800,3.600,2.150
+72738048,2026-08-15 14:00,Worthing FC,Forest Green Rovers,1,2,3.200,3.500,2.050
+72738050,2026-08-15 14:00,Yeovil Town,Carlisle United,1,1,3.300,3.600,1.909
+72738052,2026-08-22 11:30,Boston United FC,Altrincham FC,1,0,1.700,3.700,4.200
+72738054,2026-08-22 11:30,Carlisle United,Hornchurch FC,4,1,1.500,4.333,4.750
+72738056,2026-08-22 11:30,Eastleigh FC,Scunthorpe United,3,2,3.400,3.600,1.900
+72738058,2026-08-22 11:30,FC Halifax Town,Tamworth FC,4,1,2.350,3.700,2.500
+72738060,2026-08-22 11:30,Forest Green Rovers,Boreham Wood FC,0,3,2.400,3.600,2.500
+72738062,2026-08-22 11:30,Harrogate Town,Barrow AFC,2,2,2.000,3.600,3.100
+72738064,2026-08-22 11:30,Kidderminster Harriers FC,Aldershot Town FC,1,1,2.050,3.500,3.100
+72738066,2026-08-22 11:30,Solihull Moors FC,Southend United,1,3,4.000,3.750,1.727
+72738068,2026-08-22 11:30,Sutton United,Hartlepool United,2,1,2.150,3.500,2.900
+72738070,2026-08-22 11:30,Woking FC,AFC Fylde,3,2,2.500,3.400,2.500
+72738072,2026-08-22 11:30,Worthing FC,Wealdstone FC,1,0,2.150,3.700,2.875
+72738074,2026-08-22 11:30,Yeovil Town,Gateshead FC,3,0,2.000,3.500,3.300
+72738084,2026-08-27 18:45,Boreham Wood FC,Boston United FC,2,1,1.550,4.100,4.750
+72738076,2026-08-28 18:45,AFC Fylde,Forest Green Rovers,2,0,2.500,3.700,2.350
+72738078,2026-08-28 18:45,Aldershot Town FC,Harrogate Town,3,1,2.700,3.750,2.100
+72738080,2026-08-28 18:45,Altrincham FC,FC Halifax Town,2,1,2.200,3.600,2.875
+72738082,2026-08-28 18:45,Barrow AFC,Yeovil Town,1,2,2.200,3.400,3.000
+72738086,2026-08-28 18:45,Gateshead FC,Sutton United,0,1,2.625,3.500,2.350
+72738088,2026-08-28 18:45,Hartlepool United,Eastleigh FC,0,1,1.750,3.700,4.000
+72738090,2026-08-28 18:45,Hornchurch FC,Woking FC,1,0,2.625,3.400,2.375
+72738092,2026-08-28 18:45,Scunthorpe United,Solihull Moors FC,3,1,1.833,3.800,3.500
+72738094,2026-08-28 18:45,Southend United,Kidderminster Harriers FC,1,3,1.533,4.000,5.250
+72738096,2026-08-28 18:45,Tamworth FC,Worthing FC,3,2,2.150,3.600,2.800
+72738098,2026-08-28 18:45,Wealdstone FC,Carlisle United,1,1,3.700,3.600,1.833
+72738100,2026-08-31 14:00,Boston United FC,Hornchurch FC,2,3,1.950,3.500,3.400
+72738102,2026-08-31 14:00,Carlisle United,Scunthorpe United,4,2,1.615,4.000,4.500
+72738104,2026-08-31 14:00,Eastleigh FC,Aldershot Town FC,1,1,2.300,3.500,2.600
+72738108,2026-08-31 14:00,Forest Green Rovers,Altrincham FC,1,2,1.650,4.100,4.100
+72738110,2026-08-31 14:00,Harrogate Town,Gateshead FC,2,1,1.571,3.900,5.000
+72738112,2026-08-31 14:00,Kidderminster Harriers FC,Barrow AFC,1,1,2.150,3.500,2.800
+72738114,2026-08-31 14:00,Solihull Moors FC,AFC Fylde,1,3,3.000,3.750,2.050
+72738116,2026-08-31 14:00,Sutton United,Wealdstone FC,0,2,1.700,3.700,4.200
+72738118,2026-08-31 14:00,Woking FC,Southend United,1,1,3.200,3.400,2.050
+72738120,2026-08-31 14:00,Worthing FC,Boreham Wood FC,2,3,5.250,5.000,1.420
+72738122,2026-08-31 14:00,Yeovil Town,Tamworth FC,3,2,2.050,3.400,3.300
+72738106,2026-09-01 18:45,FC Halifax Town,Hartlepool United,1,0,2.500,3.400,2.500
+72738124,2026-09-04 18:45,Altrincham FC,Eastleigh FC,2,1,1.950,3.500,3.300
+72738126,2026-09-05 11:30,Aldershot Town FC,FC Halifax Town,1,0,2.100,3.500,2.900
+72738128,2026-09-05 11:30,Southend United,Yeovil Town,3,2,1.571,3.900,4.750
+72738130,2026-09-05 14:00,AFC Fylde,Worthing FC,2,2,1.750,3.800,3.700
+72738132,2026-09-05 14:00,Barrow AFC,Sutton United,3,0,1.850,3.500,3.600
+72738134,2026-09-05 14:00,Gateshead FC,Solihull Moors FC,1,1,2.700,3.400,2.250
+72738136,2026-09-05 14:00,Hartlepool United,Woking FC,1,0,2.050,3.400,3.100
+72738138,2026-09-05 14:00,Hornchurch FC,Forest Green Rovers,0,1,2.800,3.500,2.150
+72738140,2026-09-05 14:00,Scunthorpe United,Harrogate Town,0,2,2.700,3.500,2.250
+72738142,2026-09-05 14:00,Tamworth FC,Boston United FC,2,2,2.000,3.600,3.100
+72738144,2026-09-05 14:00,Wealdstone FC,Kidderminster Harriers FC,1,4,2.250,3.400,2.800
+72738146,2026-09-05 16:30,Boreham Wood FC,Carlisle United,2,1,1.650,4.333,3.900
+72738148,2026-09-11 18:45,Kidderminster Harriers FC,Hartlepool United,2,0,2.350,3.250,2.800
+72738150,2026-09-12 11:30,Harrogate Town,Tamworth FC,3,1,1.833,3.750,3.400
+72738152,2026-09-12 11:30,Worthing FC,Barrow AFC,2,2,2.250,3.900,2.500
+72738154,2026-09-12 14:00,Boston United FC,Wealdstone FC,1,3,1.900,3.500,3.500
+72738156,2026-09-12 14:00,Eastleigh FC,Boreham Wood FC,1,1,5.000,4.200,1.533
+72738158,2026-09-12 14:00,FC Halifax Town,Hornchurch FC,3,0,2.050,3.500,3.100
+72738160,2026-09-12 14:00,Forest Green Rovers,Gateshead FC,4,0,1.420,4.500,6.000
+72738162,2026-09-12 14:00,Solihull Moors FC,Aldershot Town FC,1,2,2.050,3.700,3.000
+72738164,2026-09-12 14:00,Sutton United,Scunthorpe United,0,2,2.000,3.700,3.100
+72738166,2026-09-12 14:00,Woking FC,Altrincham FC,5,1,2.100,3.500,3.100
+72738168,2026-09-12 14:00,Yeovil Town,AFC Fylde,1,4,2.625,3.500,2.350
+72738170,2026-09-12 16:30,Carlisle United,Southend United,2,2,2.100,3.600,2.900
+72738172,2026-09-15 18:45,Aldershot Town FC,Yeovil Town,1,1,2.250,3.500,2.700
+72738174,2026-09-15 18:45,Boston United FC,Woking FC,1,1,2.250,3.500,2.750
+72738176,2026-09-15 18:45,Carlisle United,Forest Green Rovers,1,1,1.900,3.700,3.400
+72738178,2026-09-15 18:45,Harrogate Town,AFC Fylde,1,2,1.909,3.900,3.200
+72738180,2026-09-15 18:45,Solihull Moors FC,Barrow AFC,1,0,2.450,3.600,2.450
+72738182,2026-09-15 18:45,Southend United,Tamworth FC,3,1,1.533,4.200,4.750
+72738184,2026-09-15 18:45,Sutton United,Eastleigh FC,2,1,1.950,3.500,3.300
+72738186,2026-09-15 18:45,Wealdstone FC,FC Halifax Town,0,1,2.150,3.600,2.875
+72738188,2026-09-15 18:45,Worthing FC,Hornchurch FC,1,0,2.100,3.700,2.875
+72738190,2026-09-16 18:45,Altrincham FC,Hartlepool United,2,1,2.300,3.400,2.800
+72738192,2026-09-16 18:45,Kidderminster Harriers FC,Gateshead FC,1,0,1.420,4.333,6.250
+72738194,2026-09-16 18:45,Scunthorpe United,Boreham Wood FC,1,2,3.900,4.000,1.700
+72738196,2026-09-18 18:45,Yeovil Town,Solihull Moors FC,4,1,2.100,3.500,2.900
+72738198,2026-09-19 11:30,Hartlepool United,Worthing FC,1,3,2.200,3.700,2.700
+72738200,2026-09-19 11:30,Tamworth FC,Wealdstone FC,2,1,1.900,3.700,3.300
+72738202,2026-09-19 14:00,AFC Fylde,Altrincham FC,1,2,,,
+72738204,2026-09-19 14:00,Barrow AFC,Aldershot Town FC,1,0,,,
+72738206,2026-09-19 14:00,Boreham Wood FC,Harrogate Town,4,1,,,
+72738208,2026-09-19 14:00,Eastleigh FC,Carlisle United,1,0,,,
+72738210,2026-09-19 14:00,FC Halifax Town,Sutton United,1,1,,,
+72738212,2026-09-19 14:00,Forest Green Rovers,Boston United FC,1,3,,,
+72738214,2026-09-19 14:00,Gateshead FC,Southend United,1,6,,,
+72738216,2026-09-19 14:00,Woking FC,Kidderminster Harriers FC,0,0,,,
+72738218,2026-09-19 16:30,Hornchurch FC,Scunthorpe United,1,0,2.100,3.500,2.900
+72738220,2026-09-26 14:00,Aldershot Town FC,Tamworth FC,5,1,2.500,3.600,2.400
+72738222,2026-09-26 14:00,Altrincham FC,Hornchurch FC,3,0,2.150,3.500,2.900
+72738224,2026-09-26 14:00,Boston United FC,AFC Fylde,0,1,2.400,3.800,2.400
+72738226,2026-09-26 14:00,Carlisle United,Woking FC,2,5,1.650,3.900,4.333
+72738228,2026-09-26 14:00,Harrogate Town,Eastleigh FC,4,1,1.571,4.000,5.000
+72738230,2026-09-26 14:00,Kidderminster Harriers FC,Yeovil Town,0,1,2.150,3.300,3.100
+72738232,2026-09-26 14:00,Scunthorpe United,Hartlepool United,4,1,2.050,3.600,3.100
+72738234,2026-09-26 14:00,Solihull Moors FC,Boreham Wood FC,0,3,3.600,4.000,1.727
+72738236,2026-09-26 14:00,Southend United,Barrow AFC,2,4,1.615,3.900,4.500
+72738238,2026-09-26 14:00,Sutton United,Forest Green Rovers,3,3,2.600,3.400,2.400
+72738240,2026-09-26 14:00,Wealdstone FC,Gateshead FC,4,0,1.650,3.800,4.333
+72738242,2026-09-26 14:00,Worthing FC,FC Halifax Town,2,1,2.000,3.700,3.000
+72740664,2026-09-29 18:00,Boreham Wood FC,Kidderminster Harriers FC,3,1,1.363,4.750,7.000
+72740646,2026-09-29 18:45,AFC Fylde,Carlisle United,0,2,2.350,3.800,2.500
+72740648,2026-09-29 18:45,Barrow AFC,Scunthorpe United,3,0,2.100,3.600,2.875
+72740650,2026-09-29 18:45,FC Halifax Town,Boston United FC,1,1,2.000,3.600,3.100
+72740652,2026-09-29 18:45,Forest Green Rovers,Wealdstone FC,1,1,1.727,3.900,3.800
+72740654,2026-09-29 18:45,Gateshead FC,Altrincham FC,0,1,4.333,4.000,1.615
+72740656,2026-09-29 18:45,Hartlepool United,Harrogate Town,0,1,3.300,3.500,1.900
+72740658,2026-09-29 18:45,Hornchurch FC,Aldershot Town FC,2,1,2.100,3.500,3.100
+72740660,2026-09-29 18:45,Woking FC,Solihull Moors FC,2,4,1.850,3.700,3.500
+72740662,2026-09-29 18:45,Yeovil Town,Worthing FC,1,1,2.200,3.700,2.700
+72740666,2026-09-30 18:45,Eastleigh FC,Southend United,1,1,3.900,4.000,1.727
+72740668,2026-09-30 18:45,Tamworth FC,Sutton United,2,0,2.550,3.750,2.300
+72740670,2026-10-03 14:00,Aldershot Town FC,Carlisle United,1,3,3.600,3.800,1.800
+72740672,2026-10-03 14:00,Barrow AFC,Wealdstone FC,2,1,1.750,3.700,3.900
+72740674,2026-10-03 14:00,Boreham Wood FC,Altrincham FC,3,1,1.363,4.750,6.500
+72740676,2026-10-03 14:00,Eastleigh FC,Woking FC,1,3,2.750,3.500,2.200
+72740678,2026-10-03 14:00,Gateshead FC,Worthing FC,1,2,6.000,5.000,1.363
+72740680,2026-10-03 14:00,Harrogate Town,Hornchurch FC,3,0,1.571,3.900,5.250
+72740682,2026-10-03 14:00,Hartlepool United,Tamworth FC,0,1,2.100,3.600,3.000
+72740684,2026-10-03 14:00,Kidderminster Harriers FC,Sutton United,1,1,2.375,3.200,2.750
+72740688,2026-10-03 14:00,Solihull Moors FC,FC Halifax Town,0,2,2.250,3.600,2.700
+72740690,2026-10-03 14:00,Southend United,AFC Fylde,3,1,1.750,4.100,3.600
+72740692,2026-10-03 14:00,Yeovil Town,Boston United FC,6,0,1.800,3.800,3.800
+72740694,2026-10-09 18:45,Sutton United,Boreham Wood FC,0,2,4.200,3.700,1.700
+72740696,2026-10-10 11:30,Altrincham FC,Aldershot Town FC,3,1,1.727,3.900,4.100
+72740698,2026-10-10 11:30,Carlisle United,Kidderminster Harriers FC,0,0,1.480,4.200,5.500
+72740700,2026-10-10 14:00,AFC Fylde,Scunthorpe United,2,0,1.666,4.200,3.750
+72740702,2026-10-10 14:00,Boston United FC,Southend United,1,2,4.100,4.200,1.615
+72740704,2026-10-10 14:00,FC Halifax Town,Gateshead FC,4,1,1.363,4.500,8.000
+72740706,2026-10-10 14:00,Hornchurch FC,Eastleigh FC,2,0,2.200,3.500,2.875
+72740708,2026-10-10 14:00,Tamworth FC,Barrow AFC,1,2,2.550,3.500,2.400
+72740710,2026-10-10 14:00,Wealdstone FC,Yeovil Town,0,6,2.900,3.500,2.100
+72740712,2026-10-10 14:00,Woking FC,Harrogate Town,0,1,2.500,3.500,2.400
+72740714,2026-10-10 14:00,Worthing FC,Solihull Moors FC,5,0,1.600,4.200,4.333
+72740716,2026-10-10 16:30,Forest Green Rovers,Hartlepool United,2,4,1.615,4.000,4.500
+72740720,2026-10-24 11:30,Eastleigh FC,Boston United FC,4,2,2.300,3.500,2.700
+72740722,2026-10-24 11:30,Harrogate Town,Sutton United,3,1,1.571,3.900,5.000
+72740724,2026-10-24 14:00,Aldershot Town FC,Wealdstone FC,0,1,2.450,3.600,2.450
+72740728,2026-10-24 14:00,Boreham Wood FC,AFC Fylde,4,0,1.363,5.000,6.000
+72740730,2026-10-24 14:00,Hartlepool United,Hornchurch FC,2,1,1.950,3.400,3.400
+72740732,2026-10-24 14:00,Scunthorpe United,Woking FC,2,3,2.350,3.600,2.550
+72740734,2026-10-24 14:00,Solihull Moors FC,Carlisle United,1,2,4.333,4.200,1.615
+72740736,2026-10-24 14:00,Southend United,FC Halifax Town,2,2,1.700,4.200,3.800
+72740738,2026-10-24 14:00,Yeovil Town,Altrincham FC,1,2,1.950,3.700,3.200
+72740740,2026-10-24 16:30,Kidderminster Harriers FC,Worthing FC,1,2,2.375,3.400,2.625
+72740742,2026-10-27 19:45,AFC Fylde,Hartlepool United,3,1,1.800,4.000,3.500
+72740744,2026-10-27 19:45,Altrincham FC,Kidderminster Harriers FC,0,0,1.909,3.500,3.600
+72740746,2026-10-27 19:45,Boston United FC,Gateshead FC,2,1,1.571,3.900,4.750
+72740748,2026-10-27 19:45,FC Halifax Town,Barrow AFC,2,3,2.050,3.500,3.100
+72740750,2026-10-27 19:45,Hornchurch FC,Yeovil Town,1,2,2.750,3.400,2.250
+72740752,2026-10-27 19:45,Tamworth FC,Scunthorpe United,4,1,2.150,3.700,2.800
+72740754,2026-10-27 19:45,Wealdstone FC,Solihull Moors FC,2,3,1.950,3.600,3.300
+72740756,2026-10-27 19:45,Woking FC,Boreham Wood FC,1,2,5.000,4.200,1.533
+72740758,2026-10-27 19:45,Worthing FC,Southend United,3,3,2.750,3.800,2.100
+72740760,2026-10-28 19:45,Carlisle United,Harrogate Town,3,0,2.000,3.600,3.100
+72740762,2026-10-28 19:45,Forest Green Rovers,Eastleigh FC,2,0,1.533,4.100,5.500
+72740764,2026-10-28 19:45,Sutton United,Aldershot Town FC,2,0,1.850,3.600,3.700
+72740766,2026-10-30 19:45,AFC Fylde,Hornchurch FC,3,1,1.533,4.200,4.750
+72740768,2026-10-31 12:30,FC Halifax Town,Yeovil Town,2,0,2.100,3.600,2.900
+72740770,2026-10-31 12:30,Forest Green Rovers,Harrogate Town,2,2,2.100,3.600,3.000
+72740772,2026-10-31 15:00,Aldershot Town FC,Gateshead FC,1,0,1.615,3.800,4.500
+72740774,2026-10-31 15:00,Altrincham FC,Carlisle United,2,4,2.900,3.600,2.200
+72740776,2026-10-31 15:00,Barrow AFC,Eastleigh FC,1,1,1.450,4.333,5.750
+72740778,2026-10-31 15:00,Boreham Wood FC,Hartlepool United,4,3,1.250,5.250,8.000
+72740780,2026-10-31 15:00,Solihull Moors FC,Kidderminster Harriers FC,2,1,2.100,3.400,3.100
+72740782,2026-10-31 15:00,Tamworth FC,Woking FC,0,1,2.200,3.700,2.700
+72740784,2026-10-31 15:00,Wealdstone FC,Southend United,3,2,3.400,3.800,1.850
+72740786,2026-10-31 15:00,Worthing FC,Sutton United,0,3,1.900,3.700,3.400
+72740788,2026-10-31 17:30,Boston United FC,Scunthorpe United,2,1,2.250,3.700,2.625

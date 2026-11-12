@@ -1,0 +1,114 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+74292778,2026-09-09 20:00,CA Talleres de Cordoba Reserve,CA Barracas Central Reserve,2,1,1.700,3.400,4.200
+74292862,2026-09-17 22:00,Boca Juniors,At Rafaela Reserve,0,0,1.200,5.250,12.000
+74309554,2026-09-23 20:00,CA Lanus,CA Banfield,2,1,1.666,3.900,4.000
+74309478,2026-09-24 22:00,Independiente Rivadavia de Mendoza Reserve,Gimnasia de Mendoza Reserve,0,1,2.375,3.200,2.700
+74309968,2026-09-29 18:30,At Rafaela Reserve,Ferro Carril Oeste,3,2,,,
+74309998,2026-10-01 18:45,Velez Sarsfield Reserve,Argentinos Juniors Reserve,1,1,1.615,3.400,4.750
+75043684,2026-10-06 18:00,Defensa Y Justicia Reserve,CA Quilmes Reserve,1,1,2.100,3.250,3.000
+75043686,2026-10-06 18:00,CA Huracan,At Rafaela Reserve,1,0,2.100,3.100,3.100
+75043688,2026-10-06 18:00,CA Union Santa Fe Reserve,CA Banfield,5,0,1.615,3.500,4.750
+75043690,2026-10-06 18:00,Newells Old Boys,Estudiantes de LP Reserve,1,1,2.150,3.000,3.100
+75043692,2026-10-06 18:00,Gimnasia de la Plata Reserve,Rosario Central Reserve,2,2,2.500,3.200,2.450
+75043694,2026-10-06 18:00,Racing Club Avellaneda,CA River Plate (Arg) Reserve,2,2,2.700,3.500,2.200
+75043696,2026-10-07 18:00,CA Aldosivi Reserve,CA Tigre Reserve,1,0,2.050,3.200,3.250
+75043698,2026-10-07 18:00,Estudiantes de Rio Cuarto Reserve,CA Platense,2,2,2.150,2.800,3.300
+75043702,2026-10-07 18:00,Deportivo Riestra Afbc Reserve,Independiente Rivadavia de Mendoza Reserve,3,1,1.300,5.250,7.500
+75043704,2026-10-07 18:00,Ferro Carril Oeste,Independiente Reserve,0,0,3.200,3.700,1.900
+75043706,2026-10-07 18:00,Gimnasia de Mendoza Reserve,Instituto AC Cordoba Reserves,1,1,2.050,3.100,3.300
+75043700,2026-10-08 18:00,Argentinos Juniors Reserve,San Lorenzo de Almagro Res.,0,1,2.150,3.100,3.000
+75043708,2026-10-08 18:00,CA Sarmiento de Junin,Velez Sarsfield Reserve,0,1,4.750,3.500,1.600
+75043710,2026-10-08 18:00,Atletico Tucuman Reserve,CA Talleres de Cordoba Reserve,2,0,3.000,3.100,2.200
+75043712,2026-10-08 18:00,CA Lanus,CA Central Cordoba SE Reserve,3,0,1.500,3.900,5.250
+75043714,2026-10-08 18:00,CD Godoy Cruz,CA Barracas Central Reserve,0,0,2.050,3.200,3.250
+75043716,2026-10-08 18:00,CA Belgrano,San Martin de San Juan Reserve,3,2,1.166,7.500,9.500
+75043718,2026-10-08 22:00,Boca Juniors,Colon de Santa Fe Reserve,1,0,1.250,5.500,7.500
+75133460,2026-10-13 18:00,CA Banfield,Gimnasia de la Plata Reserve,1,0,2.700,3.200,2.350
+75133462,2026-10-13 18:00,At Rafaela Reserve,Estudiantes de Rio Cuarto Reserve,1,1,,,
+75133464,2026-10-13 18:00,CA Quilmes Reserve,Newells Old Boys,1,1,2.400,3.100,2.625
+75133466,2026-10-13 18:00,Independiente Reserve,CA Huracan,3,0,1.800,3.400,3.750
+75133468,2026-10-13 18:00,Instituto AC Cordoba Reserves,CA River Plate (Arg) Reserve,3,2,,,
+75133470,2026-10-14 18:00,Rosario Central Reserve,CA Aldosivi Reserve,1,1,1.600,3.800,4.500
+75133472,2026-10-14 18:00,Colon de Santa Fe Reserve,Independiente Rivadavia de Mendoza Reserve,1,4,2.100,3.100,3.200
+75133474,2026-10-14 18:00,Estudiantes de LP Reserve,CA Lanus,4,4,2.050,3.400,3.000
+75133476,2026-10-14 18:00,CA Platense,Defensa Y Justicia Reserve,0,1,3.700,3.300,1.850
+75133478,2026-10-14 18:00,San Martin de San Juan Reserve,Deportivo Riestra Afbc Reserve,2,0,5.500,4.500,1.400
+75133480,2026-10-14 18:00,CA Tigre Reserve,Argentinos Juniors Reserve,0,1,2.625,3.000,2.450
+75133482,2026-10-15 18:00,Gimnasia de Mendoza Reserve,CD Godoy Cruz,0,0,1.909,3.400,3.400
+75133484,2026-10-15 18:00,Velez Sarsfield Reserve,Racing Club Avellaneda,4,0,1.571,3.700,4.500
+75133486,2026-10-15 18:00,San Lorenzo de Almagro Res.,CA Sarmiento de Junin,1,1,2.100,3.100,3.100
+75133488,2026-10-15 18:00,CA Barracas Central Reserve,Atletico Tucuman Reserve,1,1,2.350,3.100,2.750
+75133490,2026-10-15 20:00,CA Talleres de Cordoba Reserve,CA Union Santa Fe Reserve,3,0,2.250,3.000,2.875
+75133492,2026-10-15 22:00,Boca Juniors,Ferro Carril Oeste,1,0,1.420,4.750,6.000
+75133494,2026-10-15 22:00,CA Central Cordoba SE Reserve,CA Belgrano,1,2,3.500,3.200,1.950
+75133496,2026-10-20 18:00,CA Sarmiento de Junin,CA Tigre Reserve,1,1,1.800,3.250,4.000
+75133498,2026-10-20 18:00,Newells Old Boys,CA Platense,2,1,1.666,3.400,4.500
+75133500,2026-10-20 18:00,Estudiantes de Rio Cuarto Reserve,Independiente Reserve,1,2,3.000,3.000,2.150
+75133502,2026-10-20 18:00,Argentinos Juniors Reserve,Rosario Central Reserve,1,2,2.450,3.200,2.450
+75133504,2026-10-20 18:00,CA Aldosivi Reserve,CA Banfield,2,1,1.909,3.200,3.500
+75133506,2026-10-20 18:00,Defensa Y Justicia Reserve,At Rafaela Reserve,1,1,1.450,3.900,5.750
+75133508,2026-10-21 18:00,CA Belgrano,Estudiantes de LP Reserve,0,2,1.700,3.500,4.200
+75133510,2026-10-21 18:00,Ferro Carril Oeste,Colon de Santa Fe Reserve,0,1,2.050,3.200,3.200
+75133512,2026-10-21 18:00,Gimnasia de la Plata Reserve,CA Talleres de Cordoba Reserve,0,1,2.200,3.400,2.750
+75133514,2026-10-21 18:00,Independiente Rivadavia de Mendoza Reserve,San Martin de San Juan Reserve,3,2,1.420,4.333,5.500
+75133516,2026-10-21 18:00,CA Lanus,CA Quilmes Reserve,4,1,1.750,3.600,3.750
+75133518,2026-10-21 22:00,CA River Plate (Arg) Reserve,Velez Sarsfield Reserve,1,1,2.800,3.250,2.250
+75133520,2026-10-22 18:00,CD Godoy Cruz,Instituto AC Cordoba Reserves,1,1,2.200,3.300,2.875
+75133522,2026-10-22 18:00,CA Union Santa Fe Reserve,CA Barracas Central Reserve,1,1,1.666,3.400,4.500
+75133524,2026-10-22 18:00,Racing Club Avellaneda,San Lorenzo de Almagro Res.,2,3,2.000,3.400,3.100
+75133526,2026-10-22 18:00,CA Huracan,Boca Juniors,1,0,3.500,3.400,1.900
+75133528,2026-10-22 18:00,Deportivo Riestra Afbc Reserve,CA Central Cordoba SE Reserve,3,1,1.550,3.900,5.000
+75133530,2026-10-22 18:00,Atletico Tucuman Reserve,Gimnasia de Mendoza Reserve,0,0,2.150,3.300,2.800
+75133532,2026-10-27 18:00,At Rafaela Reserve,Newells Old Boys,2,2,,,
+75133536,2026-10-27 18:00,Rosario Central Reserve,CA Sarmiento de Junin,0,1,1.800,3.400,3.750
+75133538,2026-10-27 18:00,Independiente Reserve,Defensa Y Justicia Reserve,4,1,2.100,3.400,3.000
+75133540,2026-10-27 18:00,CA Platense,CA Lanus,1,3,3.500,3.400,1.900
+75133542,2026-10-27 18:00,CA Talleres de Cordoba Reserve,CA Aldosivi Reserve,2,0,1.666,3.600,4.333
+75133534,2026-10-28 18:00,CA Banfield,Argentinos Juniors Reserve,1,1,2.625,3.300,2.375
+75133544,2026-10-28 18:00,CA Tigre Reserve,Racing Club Avellaneda,1,3,2.700,3.300,2.250
+75133546,2026-10-28 18:00,San Lorenzo de Almagro Res.,CA River Plate (Arg) Reserve,0,3,2.900,3.300,2.050
+75133548,2026-10-28 18:00,Estudiantes de LP Reserve,Deportivo Riestra Afbc Reserve,1,1,2.200,3.200,2.800
+75133550,2026-10-28 18:00,Colon de Santa Fe Reserve,San Martin de San Juan Reserve,3,1,1.615,3.750,4.200
+75133552,2026-10-28 18:00,Gimnasia de Mendoza Reserve,CA Union Santa Fe Reserve,1,0,2.300,3.200,2.700
+75133554,2026-10-28 22:00,CA Central Cordoba SE Reserve,Independiente Rivadavia de Mendoza Reserve,0,1,2.450,3.100,2.625
+75133556,2026-10-29 18:00,CA Barracas Central Reserve,Gimnasia de la Plata Reserve,1,0,2.250,3.250,2.750
+75133558,2026-10-29 18:00,Ferro Carril Oeste,CA Huracan,0,0,3.000,3.200,2.150
+75133560,2026-10-29 18:00,CD Godoy Cruz,Atletico Tucuman Reserve,4,2,2.500,3.300,2.500
+75133562,2026-10-29 18:00,Instituto AC Cordoba Reserves,Velez Sarsfield Reserve,0,2,3.400,3.400,1.900
+75133564,2026-10-29 18:00,CA Quilmes Reserve,CA Belgrano,0,2,2.450,3.250,2.500
+75133566,2026-10-29 18:00,Boca Juniors,Estudiantes de Rio Cuarto Reserve,2,0,1.285,4.750,8.000
+75133568,2026-11-03 18:00,CA Lanus,At Rafaela Reserve,4,2,1.400,4.100,6.000
+75133570,2026-11-03 18:00,CA Sarmiento de Junin,CA Banfield,0,2,1.850,3.400,3.500
+75133572,2026-11-03 18:00,Newells Old Boys,Independiente Reserve,2,2,2.050,3.300,3.000
+75133574,2026-11-03 18:00,Independiente Rivadavia de Mendoza Reserve,Estudiantes de LP Reserve,1,4,2.875,3.400,2.100
+75133576,2026-11-03 18:00,Argentinos Juniors Reserve,CA Talleres de Cordoba Reserve,1,8,2.875,2.900,2.375
+75133578,2026-11-03 22:00,CA River Plate (Arg) Reserve,CA Tigre Reserve,2,1,1.444,4.000,5.500
+75133580,2026-11-04 18:00,CA Aldosivi Reserve,CA Barracas Central Reserve,0,1,2.150,3.200,3.100
+75133582,2026-11-04 18:00,Deportivo Riestra Afbc Reserve,CA Quilmes Reserve,2,4,1.420,5.000,5.250
+75133584,2026-11-04 18:00,Gimnasia de la Plata Reserve,Gimnasia de Mendoza Reserve,1,3,,,
+75133586,2026-11-04 18:00,San Martin de San Juan Reserve,CA Central Cordoba SE Reserve,1,0,2.700,3.300,2.200
+75133588,2026-11-04 18:00,CA Union Santa Fe Reserve,CD Godoy Cruz,2,3,1.700,3.600,4.100
+75133590,2026-11-04 18:00,Velez Sarsfield Reserve,San Lorenzo de Almagro Res.,2,0,1.400,3.900,6.500
+75133592,2026-11-05 18:00,CA Belgrano,CA Platense,1,1,1.600,3.750,4.500
+75133594,2026-11-05 18:00,Racing Club Avellaneda,Rosario Central Reserve,1,1,2.450,3.400,2.450
+75133596,2026-11-05 18:00,CA Huracan,Colon de Santa Fe Reserve,1,1,1.727,3.300,4.200
+75133598,2026-11-05 18:00,Defensa Y Justicia Reserve,Boca Juniors,0,2,4.500,3.500,1.650
+75133600,2026-11-05 18:00,Atletico Tucuman Reserve,Instituto AC Cordoba Reserves,2,2,2.150,3.200,3.000
+75133602,2026-11-05 18:00,Estudiantes de Rio Cuarto Reserve,Ferro Carril Oeste,0,0,2.000,3.250,3.200
+75133604,2026-11-10 18:00,Atletico Tucuman Reserve,CA Union Santa Fe Reserve,0,0,2.550,3.100,2.450
+75133606,2026-11-10 18:00,Estudiantes de LP Reserve,San Martin de San Juan Reserve,3,0,1.200,6.500,11.000
+75133608,2026-11-10 18:00,Gimnasia de Mendoza Reserve,CA Aldosivi Reserve,0,0,1.450,4.100,5.250
+75133610,2026-11-10 18:00,CA Quilmes Reserve,Independiente Rivadavia de Mendoza Reserve,0,2,1.800,3.400,3.600
+75133612,2026-11-10 18:00,CA Tigre Reserve,Velez Sarsfield Reserve,0,1,5.250,3.750,1.500
+75133616,2026-11-11 18:00,CA Banfield,Racing Club Avellaneda,1,3,3.400,3.400,1.909
+75133618,2026-11-11 18:00,CA Platense,Deportivo Riestra Afbc Reserve,0,2,3.750,3.200,1.850
+75133620,2026-11-11 18:00,Instituto AC Cordoba Reserves,San Lorenzo de Almagro Res.,2,1,2.200,3.000,3.000
+75133622,2026-11-11 18:00,Independiente Reserve,CA Lanus,1,1,2.050,3.400,3.000
+75133624,2026-11-11 18:00,Ferro Carril Oeste,Defensa Y Justicia Reserve,0,2,2.875,3.300,2.150
+75133626,2026-11-11 18:00,At Rafaela Reserve,CA Belgrano,1,0,3.000,3.400,2.050
+75133614,2026-11-11 20:00,CA Talleres de Cordoba Reserve,CA Sarmiento de Junin,3,1,1.666,3.400,4.200
+75133628,2026-11-12 18:00,CA Barracas Central Reserve,Argentinos Juniors Reserve,0,1,2.450,2.900,2.700
+75133630,2026-11-12 18:00,Rosario Central Reserve,CA River Plate (Arg) Reserve,1,1,2.550,3.250,2.400
+75133632,2026-11-12 18:00,Colon de Santa Fe Reserve,CA Central Cordoba SE Reserve,0,2,1.950,3.300,3.400
+75133634,2026-11-12 18:00,CD Godoy Cruz,Gimnasia de la Plata Reserve,3,1,1.750,3.400,3.800
+75133636,2026-11-12 18:00,CA Huracan,Estudiantes de Rio Cuarto Reserve,1,1,1.615,3.300,5.000

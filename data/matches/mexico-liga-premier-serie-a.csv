@@ -1,0 +1,569 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+62652885,2025-08-22 16:00,CF Correcaminos Uat II,Lobos Ulmx,1,0,,,
+62653441,2025-08-23 01:00,Inter Playa Del Carmen,Montaneses FC,2,2,,,
+62650721,2025-08-23 02:00,Alacranes de Durango,Atletico Cocula,5,0,,,
+62650723,2025-08-23 17:00,Leones Negros Udg II,Tigres de Alica FC,1,1,,,
+62650725,2025-08-23 22:00,Colima FC,Tritones Vallarta MFC,0,2,,,
+62650727,2025-08-23 22:00,UA Zacatecas,Los Cabos United,1,2,,,
+62652891,2025-08-23 22:00,Ciervos FC,Real Apodaca FC,0,3,,,
+62653443,2025-08-23 22:30,Chapulineros de Oaxaca,Canoneros Marina,1,0,,,
+62652895,2025-08-24 00:00,Gavilanes de Matamoros,Atletico Hidalgo,0,0,,,
+62653449,2025-08-24 01:00,Racing de Veracruz,Dragones Toluca FC,3,0,,,
+63045253,2025-08-24 01:00,Club Celaya FC,Pioneros de Cancun,3,1,,,
+62650733,2025-08-24 22:00,ACF Zapotlanejo,Mineros de Fresnillo FC,2,2,,,
+62650735,2025-08-30 00:00,Tecos FC,Alacranes de Durango,2,4,,,
+62652901,2025-08-30 00:00,Santiago FC,Gavilanes de Matamoros,1,0,,,
+62653457,2025-08-30 16:30,Deportiva Venados,Tapachula Soconusco FC,3,1,,,
+62653459,2025-08-30 21:00,Pioneros de Cancun,Heroes de Zaci FC,1,0,,,
+62650993,2025-08-30 22:00,Colima FC,Tigres de Alica FC,0,1,,,
+62652905,2025-08-30 22:00,Halcones FC,CF Correcaminos Uat II,0,0,,,
+62652907,2025-08-30 22:00,Cordobes FC,Club Calor,1,2,,,
+62653461,2025-08-30 22:00,Dragones Toluca FC,Chapulineros de Oaxaca,2,0,,,
+62650741,2025-08-30 23:00,Mineros de Fresnillo FC,Ensenada FC,0,2,,,
+62652909,2025-08-31 00:00,Lobos Ulmx,Ciervos FC,2,0,,,
+62653463,2025-08-31 01:00,Jaguares FC,Inter Playa Del Carmen,0,1,,,
+62653465,2025-08-31 22:00,Neza FC,Racing de Veracruz,0,3,,,
+62652911,2025-08-31 23:00,Real Apodaca FC,Sporting Canamy,2,0,,,
+62650819,2025-09-02 02:05,Cimarrones de Sonora FC,UA Zacatecas,3,1,,,
+62652913,2025-09-05 16:00,CF Correcaminos Uat II,Cordobes FC,1,1,,,
+62652915,2025-09-06 00:00,Santiago FC,CD Avispones de Chilpancingo AC,3,0,,,
+62653467,2025-09-06 01:00,Heroes de Zaci FC,Canoneros Marina,3,1,,,
+62650821,2025-09-06 02:00,Cimarrones de Sonora FC,Mineros de Fresnillo FC,1,0,,,
+62650825,2025-09-06 22:00,Colima FC,Los Cabos United,1,5,,,
+62652917,2025-09-06 22:00,Zacatepec FC,Real Apodaca FC,0,1,,,
+62652919,2025-09-06 22:00,Ciervos FC,Halcones FC,0,2,,,
+62650827,2025-09-06 23:00,UA Zacatecas,Leones Negros Udg II,0,0,,,
+62650829,2025-09-07 01:00,Reboceros de La Piedad,Tigres de Alica FC,0,2,,,
+62653471,2025-09-07 01:00,Racing de Veracruz,Deportiva Venados,1,0,,,
+63045257,2025-09-07 01:00,Club Celaya FC,Dragones Toluca FC,3,2,,,
+62653475,2025-09-07 18:00,Montaneses FC,Jaguares FC,1,0,,,
+62650833,2025-09-07 22:00,ACF Zapotlanejo,Tecos FC,0,2,,,
+62653477,2025-09-09 02:00,Inter Playa Del Carmen,Pioneros de Cancun,1,2,,,
+62652927,2025-09-12 22:00,Atletico Hidalgo,CF Correcaminos Uat II,1,1,,,
+62650835,2025-09-13 00:00,Tecos FC,Ensenada FC,1,1,,,
+62650837,2025-09-13 17:00,Leones Negros Udg II,Colima FC,1,0,,,
+62650841,2025-09-13 17:00,Mineros de Fresnillo FC,UA Zacatecas,1,4,,,
+62652933,2025-09-13 22:00,Halcones FC,Sporting Canamy,1,1,,,
+62653481,2025-09-13 22:00,Deportiva Venados,Chapulineros de Oaxaca,5,1,,,
+62653485,2025-09-13 22:00,Dragones Toluca FC,Heroes de Zaci FC,1,1,,,
+62652937,2025-09-14 00:00,Lobos Ulmx,Zacatepec FC,0,1,,,
+62653483,2025-09-14 21:00,Pioneros de Cancun,Montaneses FC,2,1,,,
+63045259,2025-09-14 22:00,Neza FC,Club Celaya FC,3,2,,,
+62652939,2025-09-14 23:00,Real Apodaca FC,Santiago FC,2,2,,,
+62652941,2025-09-19 16:00,CF Correcaminos Uat II,Club Deportivo de Futbol Zitacuaro,1,0,,,
+62652943,2025-09-20 00:00,Santiago FC,Lobos Ulmx,1,1,,,
+62653491,2025-09-20 01:00,Inter Playa Del Carmen,Dragones Toluca FC,3,0,,,
+62650851,2025-09-20 02:00,Alacranes de Durango,Los Cabos United,2,1,,,
+62653493,2025-09-20 21:30,Chapulineros de Oaxaca,Tapachula Soconusco FC,1,3,,,
+62650855,2025-09-20 23:00,UA Zacatecas,Colima FC,2,0,,,
+62652953,2025-09-21 00:00,Gavilanes de Matamoros,Club Calor,2,0,,,
+62650857,2025-09-21 01:00,Reboceros de La Piedad,Leones Negros Udg II,1,2,,,
+62653495,2025-09-21 01:00,Jaguares FC,Pioneros de Cancun,4,2,,,
+63045261,2025-09-21 01:00,Club Celaya FC,Deportiva Venados,1,2,,,
+62650861,2025-09-21 22:00,ACF Zapotlanejo,Tigres de Alica FC,1,2,,,
+62653501,2025-09-23 02:05,Heroes de Zaci FC,Neza FC,3,1,,,
+62652955,2025-09-26 22:00,Atletico Hidalgo,Sporting Canamy,3,4,,,
+62650863,2025-09-27 00:00,Tecos FC,Mineros de Fresnillo FC,3,0,,,
+62650865,2025-09-27 03:00,Tigres de Alica FC,Ensenada FC,1,2,,,
+62650867,2025-09-27 17:00,Leones Negros Udg II,Alacranes de Durango,0,2,,,
+62650871,2025-09-27 22:00,Colima FC,Reboceros de La Piedad,3,0,,,
+62652961,2025-09-27 22:00,Cordobes FC,Zacatepec FC,1,0,,,
+62653507,2025-09-27 22:00,Dragones Toluca FC,Montaneses FC,0,1,,,
+62652963,2025-09-28 01:00,Lobos Ulmx,CD Avispones de Chilpancingo AC,2,1,,,
+62653511,2025-09-28 01:00,Racing de Veracruz,Chapulineros de Oaxaca,2,0,,,
+62652965,2025-09-28 21:30,Real Apodaca FC,Gavilanes de Matamoros,3,1,,,
+62650875,2025-09-28 22:00,Atletico Cocula,UA Zacatecas,1,0,,,
+62653513,2025-09-28 22:00,Neza FC,Inter Playa Del Carmen,0,1,,,
+62652969,2025-10-04 00:00,Santiago FC,Cordobes FC,1,0,,,
+62653515,2025-10-04 01:00,Heroes de Zaci FC,Tapachula Soconusco FC,2,1,,,
+62653517,2025-10-04 01:00,Inter Playa Del Carmen,Deportiva Venados,0,0,,,
+62650879,2025-10-04 02:00,Alacranes de Durango,Colima FC,1,3,,,
+62652971,2025-10-04 18:00,CD Avispones de Chilpancingo AC,Halcones FC,3,2,,,
+62653519,2025-10-04 21:00,Pioneros de Cancun,Canoneros Marina,1,2,,,
+62652977,2025-10-05 00:00,Gavilanes de Matamoros,CF Correcaminos Uat II,2,1,,,
+62653521,2025-10-05 01:00,Jaguares FC,Dragones Toluca FC,2,1,,,
+63045265,2025-10-05 01:00,Club Celaya FC,Racing de Veracruz,0,1,,,
+62653525,2025-10-05 18:00,Montaneses FC,Neza FC,2,4,,,
+62652979,2025-10-05 21:30,Real Apodaca FC,Lobos Ulmx,1,1,,,
+62650887,2025-10-05 22:00,ACF Zapotlanejo,Leones Negros Udg II,2,3,,,
+62652983,2025-10-10 16:00,CF Correcaminos Uat II,Ciervos FC,4,0,,,
+62652985,2025-10-10 22:00,Atletico Hidalgo,Santiago FC,0,2,,,
+62650891,2025-10-11 00:00,Tecos FC,UA Zacatecas,1,0,,,
+62650893,2025-10-11 17:00,Leones Negros Udg II,Ensenada FC,3,0,,,
+62652989,2025-10-11 21:30,Halcones FC,Real Apodaca FC,0,1,,,
+62652991,2025-10-11 21:30,Cordobes FC,CD Avispones de Chilpancingo AC,3,1,,,
+62653529,2025-10-11 21:30,Dragones Toluca FC,Pioneros de Cancun,2,0,,,
+63045269,2025-10-11 21:30,Chapulineros de Oaxaca,Club Celaya FC,0,0,,,
+62650897,2025-10-11 22:00,Colima FC,ACF Zapotlanejo,3,4,,,
+62653527,2025-10-11 22:00,Deportiva Venados,Montaneses FC,3,0,,,
+62650899,2025-10-12 01:00,Reboceros de La Piedad,Alacranes de Durango,0,5,,,
+62652993,2025-10-12 01:00,Lobos Ulmx,Gavilanes de Matamoros,1,0,,,
+62653537,2025-10-12 22:00,Neza FC,Jaguares FC,1,1,,,
+62650903,2025-10-14 02:05,Tigres de Alica FC,Mineros de Fresnillo FC,0,1,,,
+62650905,2025-10-18 00:00,Tecos FC,Tritones Vallarta MFC,2,0,,,
+62652997,2025-10-18 00:00,Santiago FC,Club Deportivo de Futbol Zitacuaro,1,0,,,
+62653541,2025-10-18 01:00,Heroes de Zaci FC,Chapulineros de Oaxaca,1,1,,,
+62653543,2025-10-18 01:00,Inter Playa Del Carmen,Racing de Veracruz,0,1,,,
+62652999,2025-10-18 18:00,CD Avispones de Chilpancingo AC,Atletico Hidalgo,3,1,,,
+62653545,2025-10-18 20:30,Pioneros de Cancun,Neza FC,1,0,,,
+62650911,2025-10-18 23:00,UA Zacatecas,Alacranes de Durango,0,5,,,
+62653007,2025-10-19 00:00,Gavilanes de Matamoros,Ciervos FC,1,0,,,
+62653005,2025-10-19 01:00,Lobos Ulmx,Halcones FC,0,1,,,
+62653547,2025-10-19 18:00,Montaneses FC,Tapachula Soconusco FC,2,0,,,
+62653009,2025-10-19 21:30,Real Apodaca FC,Cordobes FC,3,1,,,
+62650917,2025-10-19 22:00,ACF Zapotlanejo,Reboceros de La Piedad,1,3,,,
+62653549,2025-10-21 02:05,Jaguares FC,Deportiva Venados,2,1,,,
+62653011,2025-10-24 16:00,CF Correcaminos Uat II,Zacatepec FC,0,0,,,
+62650921,2025-10-25 02:00,Alacranes de Durango,ACF Zapotlanejo,5,1,,,
+62650919,2025-10-25 03:00,Tigres de Alica FC,Tecos FC,1,0,,,
+62650923,2025-10-25 17:00,Leones Negros Udg II,Mineros de Fresnillo FC,2,1,,,
+62653019,2025-10-25 21:30,Cordobes FC,Lobos Ulmx,0,1,,,
+62653553,2025-10-25 21:30,Chapulineros de Oaxaca,Inter Playa Del Carmen,3,1,,,
+62650927,2025-10-25 22:00,Colima FC,Cimarrones de Sonora FC,0,0,,,
+62653551,2025-10-25 22:00,Deportiva Venados,Pioneros de Cancun,2,2,,,
+62653559,2025-10-26 22:00,Neza FC,Canoneros Marina,2,1,,,
+62653561,2025-10-28 02:05,Racing de Veracruz,Montaneses FC,2,0,,,
+62650933,2025-11-07 16:00,Tecos FC,Los Cabos United,3,1,,,
+62653025,2025-11-08 00:00,Santiago FC,CF Correcaminos Uat II,0,2,,,
+62653563,2025-11-08 01:00,Canoneros Marina,Deportiva Venados,0,4,,,
+63045277,2025-11-08 01:00,Inter Playa Del Carmen,Club Celaya FC,0,2,,,
+62650935,2025-11-08 02:00,Cimarrones de Sonora FC,Reboceros de La Piedad,0,0,,,
+62650939,2025-11-08 16:30,Mineros de Fresnillo FC,Colima FC,3,0,,,
+62653027,2025-11-08 18:00,CD Avispones de Chilpancingo AC,Club Calor,1,1,,,
+62653569,2025-11-08 20:30,Pioneros de Cancun,Tapachula Soconusco FC,4,1,,,
+62653031,2025-11-08 21:30,Zacatepec FC,Ciervos FC,2,0,,,
+62653211,2025-11-08 21:30,Cordobes FC,Halcones FC,0,2,,,
+62653567,2025-11-08 21:30,Dragones Toluca FC,Neza FC,0,2,,,
+62650937,2025-11-08 22:00,Tritones Vallarta MFC,Tigres de Alica FC,1,2,,,
+62650941,2025-11-08 23:00,UA Zacatecas,ACF Zapotlanejo,3,2,,,
+62653033,2025-11-09 01:00,Gavilanes de Matamoros,Sporting Canamy,1,1,,,
+62653571,2025-11-09 01:00,Jaguares FC,Racing de Veracruz,1,1,,,
+62653573,2025-11-09 18:00,Montaneses FC,Chapulineros de Oaxaca,2,1,,,
+62653035,2025-11-09 21:30,Real Apodaca FC,Club Deportivo de Futbol Zitacuaro,3,2,,,
+62653037,2025-11-11 02:05,Lobos Ulmx,Atletico Hidalgo,7,1,,,
+62653039,2025-11-14 16:00,CF Correcaminos Uat II,CD Avispones de Chilpancingo AC,0,0,,,
+62650957,2025-11-14 17:00,ACF Zapotlanejo,Ensenada FC,0,3,,,
+62653041,2025-11-14 22:00,Atletico Hidalgo,Halcones FC,0,7,,,
+62653575,2025-11-15 01:00,Heroes de Zaci FC,Inter Playa Del Carmen,3,2,,,
+62650947,2025-11-15 02:00,Alacranes de Durango,Cimarrones de Sonora FC,1,1,,,
+62650949,2025-11-15 17:00,Leones Negros Udg II,Tecos FC,2,1,,,
+62653045,2025-11-15 21:30,Ciervos FC,Santiago FC,1,2,,,
+62653579,2025-11-15 21:30,Chapulineros de Oaxaca,Jaguares FC,2,2,,,
+62650951,2025-11-15 22:00,Colima FC,Atletico Cocula,1,2,,,
+62653577,2025-11-15 22:00,Deportiva Venados,Dragones Toluca FC,8,1,,,
+62650953,2025-11-15 23:00,UA Zacatecas,Tigres de Alica FC,1,4,,,
+62653581,2025-11-16 00:00,Tapachula Soconusco FC,Canoneros Marina,6,0,,,
+62653049,2025-11-16 01:00,Gavilanes de Matamoros,Cordobes FC,1,0,,,
+63045281,2025-11-16 01:00,Club Celaya FC,Montaneses FC,1,0,,,
+62653655,2025-11-16 02:00,Racing de Veracruz,Pioneros de Cancun,3,1,,,
+62650955,2025-11-16 03:00,Los Cabos United,Tritones Vallarta MFC,4,1,,,
+62650959,2025-11-18 02:05,Reboceros de La Piedad,Mineros de Fresnillo FC,6,7,,,
+62653057,2025-11-21 21:30,Halcones FC,Club Deportivo de Futbol Zitacuaro,2,2,,,
+62653669,2025-11-21 22:00,Neza FC,Deportiva Venados,1,5,,,
+62650973,2025-11-22 00:00,Tecos FC,Colima FC,3,1,,,
+62653659,2025-11-22 01:00,Canoneros Marina,Racing de Veracruz,0,3,,,
+62650961,2025-11-22 02:00,Cimarrones de Sonora FC,ACF Zapotlanejo,4,1,,,
+62650963,2025-11-22 03:00,Tigres de Alica FC,Los Cabos United,3,2,,,
+62650967,2025-11-22 17:00,Mineros de Fresnillo FC,Alacranes de Durango,1,6,,,
+62653055,2025-11-22 18:00,CD Avispones de Chilpancingo AC,Ciervos FC,1,1,,,
+62653661,2025-11-22 20:30,Pioneros de Cancun,Chapulineros de Oaxaca,0,2,,,
+62653667,2025-11-22 21:00,Montaneses FC,Heroes de Zaci FC,0,1,,,
+62653059,2025-11-22 21:30,Zacatepec FC,Gavilanes de Matamoros,0,0,,,
+62653061,2025-11-22 21:30,Cordobes FC,Atletico Hidalgo,3,0,,,
+62653065,2025-11-22 21:30,Real Apodaca FC,CF Correcaminos Uat II,1,0,,,
+62650965,2025-11-22 22:00,Tritones Vallarta MFC,Leones Negros Udg II,1,0,,,
+62653063,2025-11-23 01:00,Lobos Ulmx,Club Calor,2,3,,,
+63045289,2025-11-23 01:00,Jaguares FC,Club Celaya FC,0,1,,,
+62650975,2026-01-09 22:00,Tecos FC,Reboceros de La Piedad,4,1,1.800,3.800,3.300
+62653067,2026-01-09 22:00,Atletico Hidalgo,Gavilanes de Matamoros,1,0,6.000,4.500,1.380
+62653069,2026-01-10 00:00,Santiago FC,Zacatepec FC,0,1,1.850,3.300,3.700
+62653671,2026-01-10 01:00,Canoneros Marina,Chapulineros de Oaxaca,1,2,3.200,4.333,1.800
+62650977,2026-01-10 02:00,Cimarrones de Sonora FC,Ensenada FC,7,2,1.270,6.250,6.000
+62650983,2026-01-10 18:00,Mineros de Fresnillo FC,Acatlan FC,1,0,1.400,5.250,4.750
+62653071,2026-01-10 18:00,CD Avispones de Chilpancingo AC,Sporting Canamy,5,2,2.450,3.900,2.200
+63045291,2026-01-10 20:30,Pioneros de Cancun,Club Celaya FC,0,2,2.600,3.600,2.200
+62653073,2026-01-10 21:30,Cordobes FC,Club Deportivo de Futbol Zitacuaro,1,1,1.666,3.600,4.100
+62653075,2026-01-10 21:30,Halcones FC,Club Calor,1,1,1.533,3.900,4.750
+62653675,2026-01-10 21:30,Dragones Toluca FC,Racing de Veracruz,1,2,6.500,4.500,1.333
+62650981,2026-01-10 22:00,Tritones Vallarta MFC,Colima FC,1,0,1.400,4.333,5.750
+62650979,2026-01-11 00:00,Tigres de Alica FC,Leones Negros Udg II,1,0,,,
+62653077,2026-01-11 01:00,Lobos Ulmx,CF Correcaminos Uat II,0,2,2.100,3.200,3.000
+62653677,2026-01-11 01:00,Jaguares FC,Heroes de Zaci FC,1,0,2.150,3.600,2.800
+62653679,2026-01-11 18:00,Montaneses FC,Inter Playa Del Carmen,0,1,2.000,3.400,3.100
+62653079,2026-01-11 21:30,Real Apodaca FC,Ciervos FC,2,0,1.142,7.500,15.000
+62650985,2026-01-11 22:00,Atletico Cocula,Alacranes de Durango,0,1,,,
+62653681,2026-01-11 22:00,Neza FC,Tapachula Soconusco FC,1,4,2.100,3.600,2.800
+62653083,2026-01-17 01:00,Club Deportivo de Futbol Zitacuaro,Atletico Hidalgo,0,0,,,
+62653683,2026-01-17 01:00,Heroes de Zaci FC,Pioneros de Cancun,0,2,2.000,3.500,3.000
+62650989,2026-01-17 02:00,Alacranes de Durango,Tecos FC,3,1,1.400,4.750,5.250
+62653081,2026-01-17 16:00,CF Correcaminos Uat II,Halcones FC,3,2,2.450,3.200,2.500
+62650991,2026-01-17 17:00,Leones Negros Udg II,Los Cabos United,2,0,,,
+62653085,2026-01-17 21:30,Zacatepec FC,CD Avispones de Chilpancingo AC,1,1,1.833,3.200,3.900
+62653087,2026-01-17 21:30,Ciervos FC,Lobos Ulmx,1,0,5.000,4.000,1.500
+62653687,2026-01-17 21:30,Chapulineros de Oaxaca,Dragones Toluca FC,0,0,1.571,4.333,4.000
+62653685,2026-01-17 22:00,Inter Playa Del Carmen,Jaguares FC,3,3,3.250,3.500,1.950
+62653089,2026-01-17 23:00,Sporting Canamy,Real Apodaca FC,4,6,4.333,4.500,1.550
+62653689,2026-01-17 23:00,Tapachula Soconusco FC,Deportiva Venados,2,3,3.750,4.333,1.615
+63327727,2026-01-18 00:00,Tigres de Alica FC,Colima FC,5,0,1.250,5.500,7.000
+62650997,2026-01-18 01:00,Reboceros de La Piedad,Tritones Vallarta MFC,0,2,2.300,3.500,2.550
+62653091,2026-01-18 01:00,Club Calor,Cordobes FC,2,2,,,
+62653693,2026-01-18 01:00,Racing de Veracruz,Neza FC,2,1,1.166,7.500,9.500
+63045293,2026-01-18 01:00,Club Celaya FC,Canoneros Marina,3,0,1.166,6.250,11.000
+62650999,2026-01-18 20:00,Ensenada FC,Mineros de Fresnillo FC,0,3,,,
+62651001,2026-01-18 22:00,Acatlan FC,Atletico Cocula,3,0,,,
+62653093,2026-01-20 02:05,Gavilanes de Matamoros,Santiago FC,1,1,2.375,3.100,2.800
+67873622,2026-01-20 21:30,UA Zacatecas,Cimarrones de Sonora FC,0,4,5.000,4.100,1.480
+62651003,2026-01-23 22:00,Tecos FC,Acatlan FC,4,3,1.166,8.000,9.500
+62653095,2026-01-23 22:00,Atletico Hidalgo,Club Calor,2,0,2.300,3.250,2.625
+62653097,2026-01-24 01:00,Club Deportivo de Futbol Zitacuaro,Gavilanes de Matamoros,0,0,,,
+63508885,2026-01-24 02:00,Alacranes de Durango,Tritones Vallarta MFC,2,0,1.250,4.750,8.500
+62651007,2026-01-24 17:00,Leones Negros Udg II,UA Zacatecas,0,1,,,
+62651011,2026-01-24 17:00,Mineros de Fresnillo FC,Cimarrones de Sonora FC,2,2,4.000,3.750,1.700
+62653099,2026-01-24 18:00,CD Avispones de Chilpancingo AC,Santiago FC,1,1,2.700,3.200,2.350
+62653699,2026-01-24 20:30,Pioneros de Cancun,Inter Playa Del Carmen,1,1,2.100,3.500,2.875
+62653101,2026-01-24 21:30,Halcones FC,Ciervos FC,2,1,1.250,5.500,9.000
+62653103,2026-01-24 21:30,Cordobes FC,CF Correcaminos Uat II,2,0,2.250,3.250,2.750
+63045295,2026-01-24 21:30,Dragones Toluca FC,Club Celaya FC,0,2,4.750,4.333,1.480
+62653697,2026-01-24 22:00,Deportiva Venados,Racing de Veracruz,0,2,2.150,3.400,2.800
+62651005,2026-01-25 00:00,Tigres de Alica FC,Reboceros de La Piedad,2,1,1.571,3.900,4.500
+62653105,2026-01-25 01:00,Lobos Ulmx,Sporting Canamy,2,1,2.050,3.400,3.000
+62653703,2026-01-25 01:00,Jaguares FC,Montaneses FC,3,3,1.950,3.500,3.250
+62651013,2026-01-25 03:00,Los Cabos United,Colima FC,1,1,,,
+62651015,2026-01-25 21:30,Atletico Cocula,Ensenada FC,3,0,,,
+62653107,2026-01-25 21:30,Real Apodaca FC,Zacatepec FC,1,0,1.727,3.500,4.200
+62653705,2026-01-25 22:00,Neza FC,Chapulineros de Oaxaca,3,2,1.700,4.200,3.400
+62653707,2026-01-30 18:00,Heroes de Zaci FC,Dragones Toluca FC,0,4,1.480,4.100,5.000
+62651021,2026-01-30 22:00,Colima FC,Leones Negros Udg II,0,2,,,
+62653111,2026-01-31 00:00,Santiago FC,Real Apodaca FC,3,0,2.800,3.250,2.200
+62651017,2026-01-31 01:00,Cimarrones de Sonora FC,Atletico Cocula,1,1,,,
+62651019,2026-01-31 02:00,Alacranes de Durango,Tigres de Alica FC,0,1,1.363,4.333,6.250
+62653109,2026-01-31 16:00,CF Correcaminos Uat II,Atletico Hidalgo,2,1,1.420,3.900,6.000
+62651023,2026-01-31 21:30,UA Zacatecas,Mineros de Fresnillo FC,0,0,,,
+62653113,2026-01-31 21:30,Zacatepec FC,Lobos Ulmx,0,0,1.727,3.400,4.200
+62653115,2026-01-31 21:30,Ciervos FC,Cordobes FC,0,0,4.000,3.500,1.700
+62653711,2026-01-31 21:30,Chapulineros de Oaxaca,Deportiva Venados,1,1,3.600,4.333,1.615
+62653709,2026-01-31 22:00,Inter Playa Del Carmen,Canoneros Marina,1,0,1.363,4.333,6.500
+62653117,2026-01-31 23:00,Sporting Canamy,Halcones FC,0,3,2.550,3.700,2.200
+62651025,2026-02-01 01:00,Reboceros de La Piedad,Los Cabos United,0,1,1.900,4.000,2.900
+62653119,2026-02-01 01:00,Gavilanes de Matamoros,CD Avispones de Chilpancingo AC,2,1,1.650,3.600,4.200
+62653121,2026-02-01 01:00,Club Calor,Club Deportivo de Futbol Zitacuaro,0,0,,,
+62653713,2026-02-01 01:00,Racing de Veracruz,Tapachula Soconusco FC,2,1,1.300,4.750,8.000
+63045297,2026-02-01 01:00,Club Celaya FC,Neza FC,6,0,1.363,4.500,6.250
+62651027,2026-02-01 01:30,Ensenada FC,Tecos FC,2,5,,,
+62653717,2026-02-01 18:00,Montaneses FC,Pioneros de Cancun,1,0,1.750,3.600,3.750
+62651029,2026-02-01 22:00,Acatlan FC,Tritones Vallarta MFC,3,2,3.500,4.100,1.700
+62653123,2026-02-06 22:00,Atletico Hidalgo,Ciervos FC,2,2,1.750,3.600,3.700
+62653719,2026-02-06 22:00,Canoneros Marina,Montaneses FC,0,0,4.500,5.250,1.400
+62651031,2026-02-07 00:00,Tecos FC,Cimarrones de Sonora FC,2,1,,,
+62653125,2026-02-07 01:00,Club Deportivo de Futbol Zitacuaro,CF Correcaminos Uat II,1,0,,,
+62651035,2026-02-07 17:00,Leones Negros Udg II,Reboceros de La Piedad,3,1,,,
+62653723,2026-02-07 20:30,Pioneros de Cancun,Jaguares FC,2,0,2.375,3.600,2.375
+62653129,2026-02-07 21:30,Cordobes FC,Sporting Canamy,3,2,1.950,3.600,3.100
+62653725,2026-02-07 21:30,Dragones Toluca FC,Inter Playa Del Carmen,0,0,2.800,3.500,2.100
+63045299,2026-02-07 21:30,Deportiva Venados,Club Celaya FC,1,1,1.950,3.600,3.100
+62651037,2026-02-07 22:00,Tritones Vallarta MFC,Ensenada FC,1,0,1.444,4.333,5.250
+62651039,2026-02-07 22:00,Colima FC,UA Zacatecas,0,1,3.500,3.600,1.800
+62653127,2026-02-07 22:00,Halcones FC,Zacatepec FC,1,1,,,
+62653727,2026-02-07 23:00,Tapachula Soconusco FC,Chapulineros de Oaxaca,1,0,,,
+62651033,2026-02-08 00:00,Tigres de Alica FC,ACF Zapotlanejo,5,1,1.300,5.250,7.000
+62653131,2026-02-08 01:00,Lobos Ulmx,Santiago FC,1,1,2.600,3.100,2.500
+62651041,2026-02-08 02:00,Los Cabos United,Alacranes de Durango,0,2,,,
+62653135,2026-02-08 21:30,Real Apodaca FC,CD Avispones de Chilpancingo AC,4,2,1.380,4.100,6.500
+62651043,2026-02-08 22:00,Atletico Cocula,Mineros de Fresnillo FC,1,1,,,
+62651045,2026-02-13 17:00,Cimarrones de Sonora FC,Tritones Vallarta MFC,1,0,1.380,4.200,6.500
+62653139,2026-02-14 00:00,Santiago FC,Halcones FC,3,1,2.100,3.200,3.200
+62653731,2026-02-14 01:00,Heroes de Zaci FC,Deportiva Venados,1,4,,,
+62653137,2026-02-14 16:00,CF Correcaminos Uat II,Club Calor,0,1,1.850,3.400,3.600
+62651047,2026-02-14 17:00,Mineros de Fresnillo FC,Tecos FC,3,2,2.600,3.900,2.150
+62653141,2026-02-14 18:00,CD Avispones de Chilpancingo AC,Lobos Ulmx,1,2,2.400,3.500,2.450
+62651049,2026-02-14 21:30,UA Zacatecas,Atletico Cocula,3,1,,,
+62653143,2026-02-14 22:00,Ciervos FC,Club Deportivo de Futbol Zitacuaro,1,1,,,
+62653145,2026-02-14 22:00,Zacatepec FC,Cordobes FC,1,0,,,
+62653733,2026-02-14 22:00,Inter Playa Del Carmen,Neza FC,4,0,1.400,4.500,5.500
+62653735,2026-02-14 22:30,Chapulineros de Oaxaca,Racing de Veracruz,0,0,,,
+62653147,2026-02-14 23:00,Sporting Canamy,Atletico Hidalgo,2,3,1.750,4.100,3.400
+62653737,2026-02-15 00:00,Jaguares FC,Canoneros Marina,1,0,1.363,4.500,6.500
+62651051,2026-02-15 01:00,Reboceros de La Piedad,Colima FC,3,2,1.363,5.000,5.750
+62653149,2026-02-15 01:00,Gavilanes de Matamoros,Real Apodaca FC,2,1,2.500,3.300,2.500
+63045301,2026-02-15 01:00,Club Celaya FC,Tapachula Soconusco FC,2,2,1.333,4.750,7.500
+62651053,2026-02-15 01:30,Ensenada FC,Tigres de Alica FC,1,2,,,
+62653741,2026-02-15 18:00,Montaneses FC,Dragones Toluca FC,2,0,1.480,4.200,5.000
+62651055,2026-02-15 22:00,ACF Zapotlanejo,Los Cabos United,4,2,3.100,4.500,1.850
+62651057,2026-02-17 02:00,Alacranes de Durango,Leones Negros Udg II,1,0,,,
+62651059,2026-02-20 22:00,Tecos FC,Guerreros de Autlan,1,1,1.400,5.000,5.250
+62653153,2026-02-20 22:00,Atletico Hidalgo,Zacatepec FC,1,1,3.400,3.500,1.950
+62653155,2026-02-21 01:00,Club Deportivo de Futbol Zitacuaro,Sporting Canamy,2,1,,,
+62653743,2026-02-21 01:00,Canoneros Marina,Pioneros de Cancun,2,2,4.200,3.300,1.800
+62653151,2026-02-21 16:00,CF Correcaminos Uat II,Gavilanes de Matamoros,1,0,2.150,3.100,3.000
+62651063,2026-02-21 17:00,Leones Negros Udg II,ACF Zapotlanejo,3,0,,,
+62653157,2026-02-21 21:30,Halcones FC,CD Avispones de Chilpancingo AC,0,0,1.500,4.200,4.750
+62653159,2026-02-21 21:30,Cordobes FC,Santiago FC,0,1,2.800,3.100,2.375
+62653745,2026-02-21 21:30,Deportiva Venados,Inter Playa Del Carmen,1,2,1.615,3.700,4.200
+62653747,2026-02-21 21:30,Dragones Toluca FC,Jaguares FC,0,1,3.100,3.600,1.909
+62651065,2026-02-21 22:00,Tritones Vallarta MFC,Mineros de Fresnillo FC,2,0,1.800,3.500,3.750
+62651067,2026-02-21 22:00,Colima FC,Alacranes de Durango,1,0,11.000,7.500,1.142
+62653749,2026-02-21 23:00,Tapachula Soconusco FC,Heroes de Zaci FC,3,1,,,
+62651061,2026-02-22 00:00,Tigres de Alica FC,Cimarrones de Sonora FC,1,1,2.550,3.200,2.400
+62651069,2026-02-22 01:00,Reboceros de La Piedad,UA Zacatecas,3,0,1.700,4.750,3.000
+62653161,2026-02-22 01:00,Lobos Ulmx,Real Apodaca FC,0,0,3.100,3.400,2.000
+62653163,2026-02-22 01:00,Club Calor,Ciervos FC,3,1,,,
+63045303,2026-02-22 01:00,Racing de Veracruz,Club Celaya FC,4,0,1.727,3.600,3.900
+62651071,2026-02-22 03:00,Los Cabos United,Ensenada FC,0,1,,,
+62653753,2026-02-22 22:00,Neza FC,Montaneses FC,0,5,3.400,4.333,1.727
+62651073,2026-02-28 01:00,Cimarrones de Sonora FC,Los Cabos United,2,0,,,
+62653755,2026-02-28 01:00,Heroes de Zaci FC,Racing de Veracruz,0,3,,,
+62651077,2026-02-28 17:00,Mineros de Fresnillo FC,Tigres de Alica FC,2,1,2.900,3.500,2.050
+62653167,2026-02-28 18:00,CD Avispones de Chilpancingo AC,Cordobes FC,2,1,2.150,3.300,2.800
+62653169,2026-02-28 22:00,Zacatepec FC,Club Deportivo de Futbol Zitacuaro,1,0,1.615,3.300,5.000
+62653171,2026-02-28 22:00,Ciervos FC,CF Correcaminos Uat II,2,1,,,
+62653757,2026-02-28 22:00,Inter Playa Del Carmen,Tapachula Soconusco FC,1,0,1.666,3.800,3.900
+62653759,2026-02-28 22:00,Pioneros de Cancun,Dragones Toluca FC,3,1,1.500,4.000,5.000
+62653761,2026-03-01 00:00,Jaguares FC,Neza FC,6,1,1.250,6.000,6.500
+62653175,2026-03-01 01:00,Gavilanes de Matamoros,Lobos Ulmx,1,0,1.833,3.250,3.750
+62651081,2026-03-01 01:30,Ensenada FC,Leones Negros Udg II,1,4,,,
+62653763,2026-03-01 18:00,Montaneses FC,Deportiva Venados,0,0,2.400,3.400,2.400
+62653177,2026-03-01 21:30,Real Apodaca FC,Halcones FC,3,0,1.800,3.300,3.750
+63045307,2026-03-03 02:05,Club Celaya FC,Chapulineros de Oaxaca,1,0,1.400,4.333,6.000
+62653181,2026-03-06 22:00,Atletico Hidalgo,CD Avispones de Chilpancingo AC,0,1,2.800,3.600,2.100
+62651089,2026-03-07 02:00,Alacranes de Durango,UA Zacatecas,3,0,1.166,6.500,12.000
+62653179,2026-03-07 16:00,CF Correcaminos Uat II,Sporting Canamy,2,4,1.650,3.800,4.000
+62651091,2026-03-07 17:00,Leones Negros Udg II,Cimarrones de Sonora FC,2,1,,,
+62653187,2026-03-07 21:30,Cordobes FC,Real Apodaca FC,0,1,3.800,3.200,1.833
+62653767,2026-03-07 21:30,Deportiva Venados,Jaguares FC,4,1,1.571,4.100,4.333
+62653769,2026-03-07 21:30,Dragones Toluca FC,Canoneros Marina,0,3,1.800,3.600,3.600
+62651093,2026-03-07 22:00,Tritones Vallarta MFC,Tecos FC,1,0,2.100,3.700,2.700
+62651095,2026-03-07 22:00,Colima FC,Ensenada FC,4,1,2.000,4.750,2.500
+62653185,2026-03-07 22:00,Halcones FC,Lobos Ulmx,3,0,2.050,3.300,3.100
+62653189,2026-03-07 22:00,Ciervos FC,Gavilanes de Matamoros,0,2,,,
+62653771,2026-03-07 22:00,Chapulineros de Oaxaca,Heroes de Zaci FC,1,2,1.850,3.900,3.200
+62651087,2026-03-08 00:00,Tigres de Alica FC,Guerreros de Autlan,2,2,1.450,4.100,5.750
+62651097,2026-03-08 01:00,Reboceros de La Piedad,ACF Zapotlanejo,4,4,1.420,5.000,4.750
+62653773,2026-03-08 01:00,Racing de Veracruz,Inter Playa Del Carmen,5,0,,,
+62653191,2026-03-08 02:00,Club Calor,Zacatepec FC,0,0,,,
+62651099,2026-03-08 03:00,Los Cabos United,Mineros de Fresnillo FC,3,2,2.250,3.750,2.400
+62653775,2026-03-08 22:00,Neza FC,Pioneros de Cancun,0,3,5.250,5.000,1.380
+62653777,2026-03-10 02:05,Tapachula Soconusco FC,Montaneses FC,3,1,2.250,3.800,2.450
+69371822,2026-03-12 03:00,Los Cabos United,UA Zacatecas,3,2,2.000,3.900,2.800
+63045309,2026-03-13 17:00,Heroes de Zaci FC,Club Celaya FC,3,2,,,
+62651101,2026-03-13 22:00,Tecos FC,Tigres de Alica FC,1,1,2.300,3.700,2.400
+62653193,2026-03-14 00:00,Santiago FC,Club Calor,1,0,1.480,3.600,5.750
+62653779,2026-03-14 01:00,Canoneros Marina,Neza FC,0,0,,,
+62651103,2026-03-14 02:00,Cimarrones de Sonora FC,Colima FC,1,0,1.142,7.000,11.000
+62651105,2026-03-14 17:00,Mineros de Fresnillo FC,Leones Negros Udg II,3,1,,,
+62653195,2026-03-14 18:00,CD Avispones de Chilpancingo AC,Club Deportivo de Futbol Zitacuaro,1,1,1.666,3.500,4.333
+62653785,2026-03-14 21:00,Pioneros de Cancun,Deportiva Venados,2,3,3.000,3.600,1.950
+62651107,2026-03-14 21:30,UA Zacatecas,Tritones Vallarta MFC,1,1,3.250,3.400,1.909
+62653197,2026-03-14 21:30,Zacatepec FC,CF Correcaminos Uat II,0,0,,,
+62653199,2026-03-14 21:30,Sporting Canamy,Ciervos FC,1,0,1.500,4.100,4.750
+62653783,2026-03-14 22:00,Inter Playa Del Carmen,Chapulineros de Oaxaca,2,1,1.480,4.000,5.000
+62653203,2026-03-15 00:00,Gavilanes de Matamoros,Halcones FC,0,1,2.250,3.300,2.800
+62653787,2026-03-15 00:00,Jaguares FC,Tapachula Soconusco FC,1,3,1.666,3.900,3.800
+62653201,2026-03-15 01:00,Lobos Ulmx,Cordobes FC,3,1,2.000,3.200,3.300
+62653789,2026-03-15 18:00,Montaneses FC,Racing de Veracruz,1,3,3.600,3.300,1.900
+62653205,2026-03-15 21:30,Real Apodaca FC,Atletico Hidalgo,2,0,1.270,5.000,9.000
+62651109,2026-03-15 22:00,ACF Zapotlanejo,Alacranes de Durango,0,3,10.000,6.500,1.181
+62651111,2026-03-15 22:00,Guerreros de Autlan,Los Cabos United,0,0,,,
+62651113,2026-03-17 02:00,Ensenada FC,Reboceros de La Piedad,6,1,,,
+69372016,2026-03-18 21:30,UA Zacatecas,Tecos FC,0,0,,,
+62653209,2026-03-20 22:00,Atletico Hidalgo,Lobos Ulmx,1,2,3.250,3.500,1.909
+62651117,2026-03-21 02:00,Alacranes de Durango,Ensenada FC,6,0,,,
+62653207,2026-03-21 16:00,CF Correcaminos Uat II,Santiago FC,1,1,3.300,3.200,2.000
+62653795,2026-03-21 16:00,Racing de Veracruz,Jaguares FC,2,0,,,
+62651191,2026-03-21 17:00,Leones Negros Udg II,Guerreros de Autlan,2,1,,,
+62653213,2026-03-21 21:30,Ciervos FC,Zacatepec FC,2,2,,,
+62653215,2026-03-21 21:30,Sporting Canamy,Gavilanes de Matamoros,1,3,2.550,4.200,2.050
+62653791,2026-03-21 21:30,Deportiva Venados,Canoneros Marina,1,0,,,
+65386010,2026-03-21 21:30,Halcones FC,Cordobes FC,1,1,1.444,4.200,5.500
+62651193,2026-03-21 22:00,Colima FC,Mineros de Fresnillo FC,0,0,,,
+62653793,2026-03-21 22:30,Chapulineros de Oaxaca,Montaneses FC,0,2,,,
+62653797,2026-03-21 23:00,Tapachula Soconusco FC,Pioneros de Cancun,2,1,2.200,3.700,2.550
+62651115,2026-03-22 00:00,Tigres de Alica FC,Tritones Vallarta MFC,1,0,1.800,3.400,3.700
+62651195,2026-03-22 01:00,Reboceros de La Piedad,Cimarrones de Sonora FC,2,3,,,
+62653217,2026-03-22 01:00,Club Calor,CD Avispones de Chilpancingo AC,0,0,,,
+63045313,2026-03-22 01:00,Club Celaya FC,Inter Playa Del Carmen,0,0,1.666,3.800,3.800
+62651197,2026-03-22 03:00,Los Cabos United,Tecos FC,0,0,,,
+62651199,2026-03-22 22:00,ACF Zapotlanejo,UA Zacatecas,2,0,2.200,4.100,2.375
+62653801,2026-03-22 22:00,Neza FC,Dragones Toluca FC,1,4,2.350,3.900,2.300
+62653219,2026-03-24 02:05,Club Deportivo de Futbol Zitacuaro,Real Apodaca FC,0,0,,,
+70077404,2026-03-25 21:30,Sporting Canamy,Club Calor,0,1,,,
+62651201,2026-03-27 22:00,Tecos FC,Leones Negros Udg II,0,2,,,
+62653803,2026-03-28 01:00,Canoneros Marina,Tapachula Soconusco FC,1,1,,,
+62651203,2026-03-28 02:00,Cimarrones de Sonora FC,Alacranes de Durango,0,0,3.400,3.600,1.909
+62651209,2026-03-28 17:00,Mineros de Fresnillo FC,Reboceros de La Piedad,6,2,,,
+62653221,2026-03-28 18:00,CD Avispones de Chilpancingo AC,CF Correcaminos Uat II,2,1,,,
+62653809,2026-03-28 21:00,Pioneros de Cancun,Racing de Veracruz,1,1,,,
+62653223,2026-03-28 21:30,Halcones FC,Atletico Hidalgo,3,0,,,
+62653225,2026-03-28 21:30,Cordobes FC,Gavilanes de Matamoros,1,3,,,
+62653807,2026-03-28 21:30,Dragones Toluca FC,Deportiva Venados,0,1,,,
+65386012,2026-03-28 21:30,Sporting Canamy,Zacatepec FC,0,5,,,
+62651207,2026-03-28 22:00,Tritones Vallarta MFC,Los Cabos United,1,0,1.571,3.800,4.500
+62653805,2026-03-28 22:00,Inter Playa Del Carmen,Heroes de Zaci FC,0,0,,,
+62651205,2026-03-29 00:00,Tigres de Alica FC,UA Zacatecas,3,2,,,
+62653811,2026-03-29 00:00,Jaguares FC,Chapulineros de Oaxaca,0,0,,,
+62653229,2026-03-29 01:00,Lobos Ulmx,Club Deportivo de Futbol Zitacuaro,1,0,,,
+63045317,2026-03-29 18:00,Montaneses FC,Club Celaya FC,5,1,2.375,3.500,2.500
+62651211,2026-03-29 19:00,Ensenada FC,ACF Zapotlanejo,0,1,,,
+62653231,2026-03-29 21:30,Real Apodaca FC,Club Calor,1,0,,,
+62651213,2026-03-29 22:00,Guerreros de Autlan,Colima FC,2,0,,,
+62653233,2026-03-31 02:05,Santiago FC,Ciervos FC,5,0,,,
+70350830,2026-04-01 01:00,Canoneros Marina,Heroes de Zaci FC,5,0,,,
+70077406,2026-04-04 02:00,Alacranes de Durango,Reboceros de La Piedad,3,1,,,
+68910586,2026-04-05 00:00,Club Calor,Gavilanes de Matamoros,0,0,,,
+68914654,2026-04-05 22:00,Neza FC,Heroes de Zaci FC,0,6,,,
+70077408,2026-04-05 22:00,Guerreros de Autlan,Tritones Vallarta MFC,0,0,,,
+70077410,2026-04-05 22:00,ACF Zapotlanejo,Colima FC,1,3,,,
+70556730,2026-04-06 02:00,Club Deportivo de Futbol Zitacuaro,Santiago FC,0,0,,,
+62653893,2026-04-10 16:00,Racing de Veracruz,Canoneros Marina,0,0,,,
+62653887,2026-04-10 21:00,Heroes de Zaci FC,Montaneses FC,0,0,,,
+62653237,2026-04-10 22:00,Atletico Hidalgo,Cordobes FC,0,3,,,
+62651227,2026-04-11 01:00,ACF Zapotlanejo,Cimarrones de Sonora FC,0,4,,,
+62653239,2026-04-11 01:00,Club Deportivo de Futbol Zitacuaro,Halcones FC,0,0,,,
+62651215,2026-04-11 02:00,Alacranes de Durango,Mineros de Fresnillo FC,2,1,,,
+62653235,2026-04-11 16:00,CF Correcaminos Uat II,Real Apodaca FC,1,0,,,
+62651217,2026-04-11 17:00,Leones Negros Udg II,Tritones Vallarta MFC,1,0,,,
+62651221,2026-04-11 21:30,UA Zacatecas,Ensenada FC,4,1,,,
+62653241,2026-04-11 21:30,Ciervos FC,CD Avispones de Chilpancingo AC,1,2,,,
+62653243,2026-04-11 21:30,Sporting Canamy,Santiago FC,0,6,,,
+62653889,2026-04-11 21:30,Deportiva Venados,Neza FC,7,1,,,
+62653891,2026-04-11 21:30,Chapulineros de Oaxaca,Pioneros de Cancun,1,1,,,
+62651219,2026-04-11 22:00,Colima FC,Tecos FC,1,4,,,
+62653245,2026-04-12 00:00,Gavilanes de Matamoros,Zacatepec FC,1,0,,,
+62651223,2026-04-12 01:00,Reboceros de La Piedad,Guerreros de Autlan,3,0,,,
+62653247,2026-04-12 01:00,Club Calor,Lobos Ulmx,0,0,,,
+63045319,2026-04-12 01:00,Club Celaya FC,Jaguares FC,1,1,,,
+62653897,2026-04-12 02:00,Tapachula Soconusco FC,Dragones Toluca FC,4,0,,,
+62651225,2026-04-12 03:00,Los Cabos United,Tigres de Alica FC,0,2,,,
+70825350,2026-04-15 18:00,Mineros de Fresnillo FC,Cimarrones de Sonora FC,1,1,3.300,3.200,2.050
+70825494,2026-04-15 21:30,Halcones FC,Tigres de Alica FC,2,0,2.450,3.300,2.450
+70825516,2026-04-15 21:30,Zacatepec FC,Santiago FC,1,1,,,
+70806250,2026-04-15 22:00,Inter Playa Del Carmen,Tecos FC,2,0,1.833,3.750,3.300
+70825498,2026-04-15 22:00,Tritones Vallarta MFC,Tapachula Soconusco FC,1,0,1.900,3.500,3.300
+70825500,2026-04-16 00:30,Club Calor,Deportiva Venados,0,0,,,
+70825352,2026-04-16 01:00,Club Celaya FC,Leones Negros Udg II,5,0,,,
+70825402,2026-04-18 17:00,Leones Negros Udg II,Club Celaya FC,1,2,,,
+70825502,2026-04-18 21:00,Deportiva Venados,Club Calor,2,1,1.300,5.000,6.500
+70806252,2026-04-18 22:00,Tecos FC,Inter Playa Del Carmen,0,0,2.150,3.600,2.700
+70825518,2026-04-19 00:00,Santiago FC,Zacatepec FC,2,3,1.750,3.250,4.200
+70825404,2026-04-19 01:00,Cimarrones de Sonora FC,Mineros de Fresnillo FC,1,1,1.380,4.333,6.000
+70825504,2026-04-19 01:00,Tapachula Soconusco FC,Tritones Vallarta MFC,1,1,1.727,3.500,3.900
+70825506,2026-04-19 02:30,Tigres de Alica FC,Halcones FC,2,1,1.700,3.500,4.100
+70982064,2026-04-22 21:30,Halcones FC,Racing de Veracruz,0,0,3.700,3.100,1.909
+70982122,2026-04-22 21:30,Zacatepec FC,Alacranes de Durango,2,2,,,
+70980318,2026-04-22 22:00,Tritones Vallarta MFC,Deportiva Venados,1,1,3.250,3.250,1.950
+70980070,2026-04-23 02:00,Club Celaya FC,Cimarrones de Sonora FC,2,1,2.150,3.300,2.800
+70973898,2026-04-23 22:00,Inter Playa Del Carmen,Real Apodaca FC,0,0,2.300,3.000,3.000
+71067882,2026-04-26 01:00,Alacranes de Durango,Zacatepec FC,1,1,1.380,4.500,5.750
+70973900,2026-04-26 22:00,Real Apodaca FC,Inter Playa Del Carmen,3,1,1.850,3.100,3.900
+71170520,2026-04-29 21:30,Halcones FC,Alacranes de Durango,0,0,3.000,3.400,2.050
+71170522,2026-04-30 22:00,Deportiva Venados,Real Apodaca FC,1,1,1.950,3.300,3.300
+71170524,2026-05-03 02:00,Alacranes de Durango,Halcones FC,2,1,,,
+71170526,2026-05-03 22:00,Real Apodaca FC,Deportiva Venados,2,4,1.727,3.300,4.200
+71297050,2026-05-06 22:00,Deportiva Venados,Alacranes de Durango,2,1,3.100,3.000,2.200
+71297052,2026-05-10 02:00,Alacranes de Durango,Deportiva Venados,0,0,1.615,3.600,4.500
+74063378,2026-08-29 01:30,ACF Zapotlanejo,Guerreros de Autlan,3,0,2.500,3.800,2.200
+74063382,2026-08-29 21:30,Ciervos FC,Dragones de Oaxaca,0,2,3.200,3.600,1.950
+74063384,2026-08-29 22:00,Real Refineros Cds,Artesanos Metepec FC,1,2,,,
+74063386,2026-08-29 23:00,Saltillo Soccer FC,La Tribu de Ciudad Juarez,1,4,,,
+74063388,2026-08-30 00:00,Halcones Negros FC,Deportivo Delfines Coatzacoalcos,0,0,2.150,3.400,2.800
+74063392,2026-08-30 00:00,Vaqueros Reynosa FC,Santiago FC,1,0,,,
+74063380,2026-08-30 17:00,Mineros de Fresnillo FC,Real Apodaca FC,0,0,3.700,3.500,1.800
+74063394,2026-08-30 22:00,Acambaro FC,Canoneros Marina,8,0,2.100,3.300,3.000
+74063396,2026-09-05 00:00,Santiago FC,Heroes de Zaci FC,3,0,,,
+74063398,2026-09-05 01:00,Guerreros Del Pacífico FC,Ciervos FC,2,0,,,
+74063400,2026-09-05 16:00,CF Correcaminos Uat II,Mineros de Fresnillo FC,0,0,2.250,3.400,2.625
+74063404,2026-09-05 22:00,Artesanos Metepec FC,Club Calor,3,0,1.800,3.600,3.750
+74063406,2026-09-06 00:00,La Tribu de Ciudad Juarez,ACF Zapotlanejo,4,0,1.571,3.800,4.333
+74063408,2026-09-06 00:00,Dragones de Oaxaca,Halcones Negros FC,2,1,,,
+74063402,2026-09-06 18:00,Canoneros Marina,Real Refineros Cds,0,1,,,
+74063410,2026-09-06 22:00,Deportivo Delfines Coatzacoalcos,Acambaro FC,1,2,,,
+74063412,2026-09-06 22:00,Guerreros de Autlan,Vaqueros Reynosa FC,3,4,2.750,4.000,2.000
+74063414,2026-09-06 23:00,Real Apodaca FC,Saltillo Soccer FC,2,3,,,
+74063420,2026-09-11 18:00,Mineros de Fresnillo FC,Santiago FC,2,0,2.700,3.200,2.350
+74063416,2026-09-12 01:30,ACF Zapotlanejo,Real Apodaca FC,4,1,3.000,4.100,1.900
+74063418,2026-09-12 18:00,Canoneros Marina,Deportivo Delfines Coatzacoalcos,1,2,,,
+74063422,2026-09-12 21:30,Ciervos FC,Artesanos Metepec FC,0,1,6.500,6.500,1.250
+74063424,2026-09-12 22:00,Real Refineros Cds,Club Calor,0,0,,,
+74063426,2026-09-12 23:00,Saltillo Soccer FC,CF Correcaminos Uat II,2,0,2.250,3.300,2.800
+74063428,2026-09-13 00:00,Halcones Negros FC,Guerreros Del Pacífico FC,3,0,,,
+74063430,2026-09-13 22:00,Guerreros de Autlan,La Tribu de Ciudad Juarez,2,1,3.750,3.750,1.727
+74063432,2026-09-13 22:00,Acambaro FC,Dragones de Oaxaca,1,1,2.450,3.300,2.450
+74063434,2026-09-15 02:05,Vaqueros Reynosa FC,Heroes de Zaci FC,1,1,1.300,5.000,6.250
+74063436,2026-09-19 00:00,Santiago FC,Saltillo Soccer FC,4,1,,,
+74063440,2026-09-19 01:00,Guerreros Del Pacífico FC,Acambaro FC,0,1,,,
+74063442,2026-09-19 16:00,CF Correcaminos Uat II,ACF Zapotlanejo,1,1,1.420,4.750,5.000
+74063722,2026-09-19 16:00,Mineros de Fresnillo FC,Heroes de Zaci FC,2,0,,,
+74063450,2026-09-19 21:30,Club Calor,Ciervos FC,4,0,1.333,5.000,6.000
+74063444,2026-09-19 22:00,Artesanos Metepec FC,Halcones Negros FC,2,1,1.666,3.750,4.000
+74063446,2026-09-20 00:00,La Tribu de Ciudad Juarez,Vaqueros Reynosa FC,2,1,2.100,3.500,2.800
+74063448,2026-09-20 00:00,Dragones de Oaxaca,Canoneros Marina,3,0,1.071,12.000,19.000
+74063452,2026-09-20 22:00,Deportivo Delfines Coatzacoalcos,Real Refineros Cds,2,2,2.350,3.500,2.500
+74063454,2026-09-20 22:00,Real Apodaca FC,Guerreros de Autlan,2,0,2.450,3.500,2.400
+74063460,2026-09-25 18:00,Real Refineros Cds,Ciervos FC,3,3,,,
+74063456,2026-09-25 22:00,ACF Zapotlanejo,Santiago FC,1,0,2.800,3.400,2.150
+74063458,2026-09-26 18:00,Canoneros Marina,Guerreros Del Pacífico FC,0,2,,,
+74063462,2026-09-26 22:00,Saltillo Soccer FC,Heroes de Zaci FC,2,2,1.700,4.000,3.700
+74063466,2026-09-27 00:00,La Tribu de Ciudad Juarez,Real Apodaca FC,3,1,,,
+74063468,2026-09-27 00:00,Halcones Negros FC,Club Calor,7,0,1.250,5.750,7.000
+74063470,2026-09-27 01:00,Vaqueros Reynosa FC,Mineros de Fresnillo FC,2,1,1.800,3.500,3.700
+74063472,2026-09-27 22:00,Deportivo Delfines Coatzacoalcos,Dragones de Oaxaca,3,3,,,
+74063474,2026-09-27 22:00,Guerreros de Autlan,CF Correcaminos Uat II,3,0,,,
+74063476,2026-09-27 22:00,Acambaro FC,Artesanos Metepec FC,2,3,2.250,3.300,2.750
+74063662,2026-09-30 23:00,CF Correcaminos Uat II,Heroes de Zaci FC,3,0,2.000,3.500,3.000
+74063494,2026-10-02 21:30,Club Calor,Acambaro FC,3,2,,,
+74063482,2026-10-03 01:00,Guerreros Del Pacífico FC,Deportivo Delfines Coatzacoalcos,0,0,,,
+74063484,2026-10-03 16:00,CF Correcaminos Uat II,La Tribu de Ciudad Juarez,3,1,3.800,3.300,1.800
+74063486,2026-10-03 17:00,Mineros de Fresnillo FC,Saltillo Soccer FC,3,0,2.100,3.300,3.000
+74063488,2026-10-03 21:30,Ciervos FC,Halcones Negros FC,0,5,9.000,6.250,1.200
+74063490,2026-10-03 22:00,Artesanos Metepec FC,Canoneros Marina,3,0,1.062,11.000,23.000
+74063492,2026-10-04 00:00,Dragones de Oaxaca,Real Refineros Cds,3,2,1.363,5.000,5.500
+74063496,2026-10-04 22:00,Real Apodaca FC,Vaqueros Reynosa FC,1,2,,,
+74063478,2026-10-04 23:00,Santiago FC,Guerreros de Autlan,2,2,,,
+74063500,2026-10-10 18:00,Canoneros Marina,Club Calor,1,7,6.250,5.250,1.300
+74063508,2026-10-10 21:30,Deportivo Delfines Coatzacoalcos,Artesanos Metepec FC,1,1,3.600,4.100,1.700
+74063498,2026-10-10 22:00,ACF Zapotlanejo,Mineros de Fresnillo FC,2,4,2.200,3.500,2.750
+74063502,2026-10-10 22:00,Real Refineros Cds,Halcones Negros FC,2,3,8.500,5.250,1.250
+74063504,2026-10-11 00:00,La Tribu de Ciudad Juarez,Santiago FC,0,2,1.420,4.333,6.250
+74063506,2026-10-11 00:00,Vaqueros Reynosa FC,Saltillo Soccer FC,2,1,1.400,4.500,5.500
+74063512,2026-10-11 22:00,Acambaro FC,Ciervos FC,5,2,1.090,10.000,19.000
+74063514,2026-10-11 22:00,Real Apodaca FC,CF Correcaminos Uat II,0,1,1.909,3.400,3.400
+74063516,2026-10-13 02:05,Dragones de Oaxaca,Guerreros Del Pacífico FC,5,1,1.363,4.333,6.250
+74063532,2026-10-16 21:30,Club Calor,Deportivo Delfines Coatzacoalcos,1,2,4.500,4.333,1.500
+74063522,2026-10-17 17:00,Mineros de Fresnillo FC,Guerreros de Autlan,0,0,2.100,3.200,3.000
+74063524,2026-10-17 21:30,Ciervos FC,Canoneros Marina,3,1,1.333,5.250,6.000
+74063526,2026-10-17 22:00,Real Refineros Cds,Guerreros Del Pacífico FC,3,3,2.050,3.500,3.100
+74063528,2026-10-17 22:00,Artesanos Metepec FC,Dragones de Oaxaca,0,0,1.800,3.400,4.200
+74063530,2026-10-17 22:00,Saltillo Soccer FC,ACF Zapotlanejo,2,3,,,
+74063518,2026-10-18 00:00,Santiago FC,Real Apodaca FC,3,0,1.480,4.000,5.250
+74063534,2026-10-18 00:00,Halcones Negros FC,Acambaro FC,0,6,2.200,3.500,2.750
+74063804,2026-10-18 00:00,La Tribu de Ciudad Juarez,Heroes de Zaci FC,5,0,,,
+74063536,2026-10-18 01:00,Vaqueros Reynosa FC,CF Correcaminos Uat II,2,4,,,
+74781106,2026-10-21 21:30,Club Calor,Guerreros Del Pacífico FC,2,4,6.500,4.750,1.333
+74063544,2026-10-24 16:00,CF Correcaminos Uat II,Acambaro FC,0,2,2.400,3.500,2.400
+74063542,2026-10-24 22:00,ACF Zapotlanejo,Ciervos FC,5,3,1.380,5.000,5.250
+74063548,2026-10-25 00:00,La Tribu de Ciudad Juarez,Artesanos Metepec FC,2,0,,,
+74063826,2026-10-25 00:00,Dragones de Oaxaca,Heroes de Zaci FC,6,0,1.200,7.000,8.500
+74063550,2026-10-25 01:00,Vaqueros Reynosa FC,Deportivo Delfines Coatzacoalcos,0,1,2.100,3.250,3.000
+74063556,2026-10-25 17:00,Mineros de Fresnillo FC,Club Calor,4,1,,,
+74063552,2026-10-25 22:00,Guerreros de Autlan,Halcones Negros FC,2,1,2.600,3.700,2.200
+74063554,2026-10-25 22:00,Real Apodaca FC,Guerreros Del Pacífico FC,3,3,3.700,3.600,1.750
+75953860,2026-10-27 02:05,Santiago FC,Real Refineros Cds,6,0,1.181,6.500,9.500
+74063570,2026-10-30 21:30,Club Calor,CF Correcaminos Uat II,1,4,6.250,4.100,1.400
+74063558,2026-10-31 02:00,Guerreros Del Pacífico FC,Heroes de Zaci FC,5,0,1.200,6.250,8.500
+74063560,2026-10-31 18:00,Canoneros Marina,ACF Zapotlanejo,2,4,11.000,8.500,1.142
+74063562,2026-10-31 21:30,Ciervos FC,Santiago FC,0,3,7.500,8.000,1.181
+74063572,2026-10-31 21:30,Deportivo Delfines Coatzacoalcos,La Tribu de Ciudad Juarez,3,1,2.500,3.400,2.400
+74063564,2026-10-31 22:00,Real Refineros Cds,Guerreros de Autlan,3,2,3.400,3.700,1.833
+74063566,2026-10-31 22:00,Artesanos Metepec FC,Saltillo Soccer FC,4,0,1.333,5.000,6.500
+74063568,2026-11-01 00:00,Dragones de Oaxaca,Mineros de Fresnillo FC,2,0,1.533,3.800,5.000
+74063574,2026-11-01 22:00,Acambaro FC,Vaqueros Reynosa FC,2,2,1.650,4.200,3.750
+74063576,2026-11-03 02:05,Halcones Negros FC,Real Apodaca FC,1,0,1.450,4.750,5.000
+74063580,2026-11-06 21:30,Heroes de Zaci FC,Club Calor,0,1,,,
+74063578,2026-11-07 00:00,Santiago FC,Halcones Negros FC,4,0,1.500,4.100,5.250
+74063582,2026-11-07 01:00,ACF Zapotlanejo,Real Refineros Cds,1,3,1.285,5.250,6.500
+74063584,2026-11-07 16:00,CF Correcaminos Uat II,Deportivo Delfines Coatzacoalcos,2,2,2.100,3.250,3.200
+74063586,2026-11-07 17:00,Mineros de Fresnillo FC,Acambaro FC,3,1,2.750,3.300,2.250
+74063588,2026-11-07 22:00,Saltillo Soccer FC,Ciervos FC,7,2,1.200,6.500,8.000
+74063590,2026-11-08 01:00,La Tribu de Ciudad Juarez,Canoneros Marina,8,0,1.142,7.500,13.000
+74063592,2026-11-08 01:00,Vaqueros Reynosa FC,Artesanos Metepec FC,0,0,3.600,3.500,1.833
+74063594,2026-11-08 22:00,Guerreros de Autlan,Guerreros Del Pacífico FC,3,1,2.100,3.400,2.900
+74063596,2026-11-08 22:00,Real Apodaca FC,Dragones de Oaxaca,3,0,4.750,4.100,1.550

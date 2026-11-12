@@ -1,8 +1,8 @@
 # model-backtest
 
-Pappersspel i verkligheten för 1X2-/styrkemodellen och Total Goals-modellen, i alla europeiska ligor där bet365 har odds. Hit hör också de ligor som fanns i den ursprungliga Excel-filen.
+Pappersspel i verkligheten för 1X2-/styrkemodellen och Total Goals-modellen. Det gäller alla ligor där bet365 har odds: europeiska ligor plus de ligor som bet365 hade ute vid skanningen 2026-11-12, inklusive Excel-ligorna. Cuper, playoff och landslag ingår inte.
 
-Modellen räknar ut förväntade mål och sätter egna odds på bet365:s **öppningslinor**, det vill säga den första huvudlinan i asiatiskt handikapp (Spread) och i totaler. Båda sidor av varje lina jämförs. Spel med **EV ≥ 10 %** bokförs till öppningspriset, och modellen räknar då bara med data som fanns dagen linan öppnade. Allt körs **manuellt**, inget schema.
+Modellen räknar ut förväntade mål och sätter egna odds på bet365:s **öppningslinor**, det vill säga den första huvudlinan i asiatiskt handikapp (Spread, **bara 50/50-linor** där båda sidor öppnar mellan 1,70 och 2,20) och i totaler. Båda sidor av varje lina jämförs. Spel med **EV ≥ 10 %** bokförs till öppningspriset, och modellen räknar då bara med data som fanns dagen linan öppnade. Allt körs **manuellt**, inget schema.
 
 Data och odds: **Odds-API.io** med bet365. Därifrån kommer historiska stängningsodds på 1X2 och resultat för lagstyrkorna, och aktuella AH- och totalodds för skanningen.
 

@@ -1,0 +1,438 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+60132655,2025-05-25 15:00,Niger Tornadoes FC,Kano Pillars FC,3,2,,,
+60132659,2025-05-25 15:00,Enyimba,Plateau United,0,1,,,
+60132669,2025-05-25 15:00,Rivers United FC,Nasarawa United,2,1,,,
+62447138,2025-08-22 15:00,Remo Stars,Rivers United FC,1,1,,,
+62447134,2025-08-24 15:00,Shooting Stars,Bayelsa United FC,0,1,,,
+62447140,2025-08-24 15:00,Wikki Tourists FC,Plateau United,1,0,,,
+62447144,2025-08-24 15:00,Enugu Rangers International FC,Kun Khalifat FC,0,0,,,
+62447148,2025-08-24 15:00,Barau FC,Enyimba,0,0,,,
+63160391,2025-08-27 15:00,Niger Tornadoes FC,Nasarawa United,1,0,,,
+63132753,2025-08-30 15:00,Bendel Insurance FC,Shooting Stars,1,1,,,
+63132755,2025-08-31 15:00,Rivers United FC,Kwara United,1,0,,,
+63132761,2025-08-31 15:00,Plateau United,Katsina United FC,1,2,,,
+63132767,2025-08-31 15:00,Bayelsa United FC,Barau FC,2,0,,,
+63132771,2025-08-31 16:30,Ikorodu City,El Kanemi Warriors,0,0,,,
+63132759,2025-09-01 15:00,Kun Khalifat FC,Remo Stars,1,2,,,
+63489999,2025-09-07 15:00,Enyimba,Nasarawa United,0,0,,,
+63490005,2025-09-07 15:00,Niger Tornadoes FC,Bayelsa United FC,1,0,,,
+63490013,2025-09-07 15:00,Remo Stars,Warri Wolves FC,1,0,,,
+63515757,2025-09-13 15:00,Bendel Insurance FC,Niger Tornadoes FC,1,0,,,
+63515751,2025-09-14 15:00,Plateau United,Remo Stars,2,0,,,
+63515761,2025-09-14 15:00,Kun Khalifat FC,El Kanemi Warriors,3,1,,,
+63515763,2025-09-14 15:00,Nasarawa United,Wikki Tourists FC,1,0,,,
+63515767,2025-09-14 15:00,Rivers United FC,Shooting Stars,1,0,,,
+63830425,2025-09-21 15:00,Niger Tornadoes FC,Ikorodu City,4,2,,,
+63830427,2025-09-21 15:00,Enyimba,Bendel Insurance FC,3,2,,,
+63830439,2025-09-21 15:00,Bayelsa United FC,Nasarawa United,1,2,,,
+63830441,2025-09-21 15:00,Shooting Stars,Kun Khalifat FC,2,1,,,
+63830445,2025-09-27 15:00,Bendel Insurance FC,Bayelsa United FC,1,1,,,
+63830457,2025-09-27 15:00,Plateau United,El Kanemi Warriors,1,0,,,
+63830447,2025-09-28 15:00,Kun Khalifat FC,Barau FC,1,3,,,
+63830451,2025-09-28 15:00,Wikki Tourists FC,Enugu Rangers International FC,2,2,,,
+63830453,2025-09-28 15:00,Warri Wolves FC,Shooting Stars,1,2,,,
+63830461,2025-09-28 15:00,Nasarawa United,Katsina United FC,2,0,,,
+63830463,2025-09-28 16:30,Ikorodu City,Enyimba,1,1,,,
+63979793,2025-10-01 15:00,Rivers United FC,Niger Tornadoes FC,1,0,,,
+63979455,2025-10-02 15:00,Abia Warriors FC,Remo Stars,2,0,,,
+64051569,2025-10-02 15:00,Kwara United,Plateau United,2,1,,,
+63830465,2025-10-04 15:00,Bendel Insurance FC,Nasarawa United,0,1,,,
+63830471,2025-10-05 15:00,Bayelsa United FC,Ikorodu City,1,1,,,
+63830475,2025-10-05 15:00,Niger Tornadoes FC,Kun Khalifat FC,1,1,,,
+63830477,2025-10-05 15:00,Barau FC,Warri Wolves FC,0,1,,,
+63830479,2025-10-05 15:00,Shooting Stars,Plateau United,1,0,,,
+63830483,2025-10-06 15:00,Remo Stars,Wikki Tourists FC,2,0,,,
+63979577,2025-10-08 15:00,Kano Pillars FC,Kwara United,1,0,,,
+63830485,2025-10-12 15:00,Plateau United,Barau FC,2,0,,,
+63830493,2025-10-12 15:00,Wikki Tourists FC,Kwara United,1,1,,,
+63830499,2025-10-12 15:00,Nasarawa United,Enugu Rangers International FC,2,1,,,
+63830503,2025-10-12 15:00,Ikorodu City,Bendel Insurance FC,1,0,,,
+63830491,2025-10-13 07:00,Rivers United FC,Bayelsa United FC,1,2,,,
+63830509,2025-10-19 15:00,Niger Tornadoes FC,Plateau United,4,0,,,
+63830517,2025-10-19 15:00,Bayelsa United FC,Kun Khalifat FC,1,2,,,
+63830523,2025-10-19 15:00,Ikorodu City,Nasarawa United,2,0,,,
+63830527,2025-10-24 15:00,Katsina United FC,El Kanemi Warriors,1,0,,,
+63830533,2025-10-25 15:00,Kano Pillars FC,Niger Tornadoes FC,0,2,,,
+63830529,2025-10-26 15:00,Warri Wolves FC,Bayelsa United FC,2,0,,,
+63830531,2025-10-26 15:00,Plateau United,Enyimba,2,1,,,
+64817584,2025-10-29 15:00,Rivers United FC,Ikorodu City,0,0,,,
+65025824,2025-11-01 15:00,Bendel Insurance FC,Warri Wolves FC,1,1,,,
+65025504,2025-11-02 15:00,Shooting Stars,Katsina United FC,1,1,,,
+65025514,2025-11-02 15:00,Ikorodu City,Kun Khalifat FC,2,0,,,
+65025828,2025-11-02 15:00,Rivers United FC,Nasarawa United,1,0,,,
+65025830,2025-11-02 15:00,Enyimba,Kano Pillars FC,2,0,,,
+64707568,2025-11-06 15:00,Nasarawa United,Remo Stars,2,1,,,
+64821102,2025-11-06 15:00,Bendel Insurance FC,Rivers United FC,0,0,,,
+65319278,2025-11-08 15:00,Katsina United FC,Barau FC,1,1,,,
+65319274,2025-11-09 15:00,Wikki Tourists FC,Niger Tornadoes FC,1,0,,,
+65319276,2025-11-09 15:00,Kano Pillars FC,Bayelsa United FC,0,0,,,
+65319280,2025-11-09 15:00,Enugu Rangers International FC,Shooting Stars,1,0,,,
+65319288,2025-11-09 15:00,Abia Warriors FC,Enyimba,0,0,,,
+65319292,2025-11-09 15:00,Nasarawa United,Kwara United,1,1,,,
+65319282,2025-11-10 15:00,Plateau United,Bendel Insurance FC,1,0,,,
+65319286,2025-11-10 15:00,Kun Khalifat FC,Rivers United FC,0,1,,,
+65319290,2025-11-10 15:00,Remo Stars,El Kanemi Warriors,2,1,,,
+64821100,2025-11-13 15:00,Remo Stars,Enugu Rangers International FC,0,1,,,
+65319294,2025-11-15 15:00,Bendel Insurance FC,Kano Pillars FC,3,2,,,
+65319298,2025-11-16 15:00,Ikorodu City,Plateau United,2,1,,,
+65319300,2025-11-16 15:00,Bayelsa United FC,Abia Warriors FC,2,1,,,
+65319302,2025-11-16 15:00,Rivers United FC,Warri Wolves FC,2,1,,,
+65319308,2025-11-16 15:00,Niger Tornadoes FC,Katsina United FC,2,0,,,
+65319312,2025-11-16 15:00,Enyimba,Wikki Tourists FC,0,1,,,
+65319304,2025-11-17 15:00,Barau FC,Enugu Rangers International FC,2,0,,,
+64989184,2025-11-19 15:00,Remo Stars,Kano Pillars FC,1,0,,,
+65804102,2025-11-23 15:00,Kwara United,Shooting Stars,0,0,,,
+65804110,2025-11-23 15:00,Wikki Tourists FC,Bayelsa United FC,1,1,,,
+65804112,2025-11-23 15:00,Abia Warriors FC,Bendel Insurance FC,0,0,,,
+65804118,2025-11-23 15:00,Warri Wolves FC,Kun Khalifat FC,1,1,,,
+65804120,2025-11-23 15:00,Nasarawa United,El Kanemi Warriors,3,0,,,
+65804108,2025-11-24 15:00,Katsina United FC,Enyimba,3,2,,,
+66135592,2025-11-29 15:00,Bendel Insurance FC,Wikki Tourists FC,3,0,,,
+66135594,2025-11-29 15:00,Niger Tornadoes FC,Remo Stars,1,0,,,
+66135580,2025-11-30 15:00,Barau FC,Kwara United,3,2,,,
+66135586,2025-11-30 15:00,Enyimba,Enugu Rangers International FC,2,1,,,
+66135598,2025-11-30 15:00,Shooting Stars,El Kanemi Warriors,1,0,,,
+66234078,2025-12-03 15:00,Rivers United FC,Kano Pillars FC,1,0,,,
+66335856,2025-12-03 15:00,Shooting Stars,Remo Stars,1,0,,,
+66133710,2025-12-07 15:00,Enugu Rangers International FC,Bayelsa United FC,4,1,,,
+66133712,2025-12-07 15:00,Remo Stars,Enyimba,2,1,,,
+66133714,2025-12-07 15:00,Plateau United,Warri Wolves FC,1,0,,,
+66133716,2025-12-07 15:00,Abia Warriors FC,Rivers United FC,1,1,,,
+66133718,2025-12-07 15:00,Kwara United,Niger Tornadoes FC,2,0,,,
+66133724,2025-12-08 15:00,Katsina United FC,Bendel Insurance FC,0,1,,,
+66335810,2025-12-11 15:00,Plateau United,Rivers United FC,1,2,2.150,3.100,3.000
+66133726,2025-12-13 15:00,Bendel Insurance FC,Enugu Rangers International FC,1,1,1.600,3.400,5.250
+66133730,2025-12-14 15:00,Warri Wolves FC,Kano Pillars FC,0,0,,,
+66133734,2025-12-14 15:00,Kun Khalifat FC,Abia Warriors FC,0,1,2.450,3.000,2.700
+66133736,2025-12-14 15:00,Enyimba,Kwara United,3,1,1.550,3.200,6.250
+66133738,2025-12-14 15:00,Bayelsa United FC,Remo Stars,2,1,1.750,3.100,4.500
+66133740,2025-12-14 15:00,Barau FC,Shooting Stars,0,1,,,
+66133742,2025-12-14 15:00,Niger Tornadoes FC,El Kanemi Warriors,3,0,1.533,3.600,5.750
+66133744,2025-12-14 15:00,Plateau United,Nasarawa United,0,0,1.800,3.000,4.500
+66133728,2025-12-15 15:00,Rivers United FC,Wikki Tourists FC,1,0,1.500,3.500,6.000
+66133732,2025-12-15 15:00,Ikorodu City,Katsina United FC,0,0,1.333,4.500,7.500
+66419876,2025-12-18 15:00,Barau FC,Rivers United FC,4,1,,,
+66133752,2025-12-21 14:30,Kano Pillars FC,Plateau United,2,1,,,
+66133748,2025-12-21 15:00,Kwara United,Bayelsa United FC,2,0,,,
+66133750,2025-12-21 15:00,Abia Warriors FC,Warri Wolves FC,1,0,1.333,3.750,9.500
+66133754,2025-12-21 15:00,El Kanemi Warriors,Enyimba,3,2,,,
+66133756,2025-12-21 15:00,Shooting Stars,Niger Tornadoes FC,2,1,1.480,3.600,6.250
+66133758,2025-12-21 15:00,Wikki Tourists FC,Kun Khalifat FC,0,0,1.380,3.900,7.500
+66133760,2025-12-21 15:00,Remo Stars,Bendel Insurance FC,2,3,1.666,2.900,6.250
+66133762,2025-12-21 15:00,Enugu Rangers International FC,Ikorodu City,2,1,1.533,3.100,6.500
+66133764,2025-12-22 15:00,Katsina United FC,Rivers United FC,1,1,,,
+66133746,2025-12-23 15:00,Nasarawa United,Barau FC,0,0,1.500,3.500,6.000
+66133766,2025-12-27 15:00,Bendel Insurance FC,Kwara United,2,0,1.380,3.600,9.000
+66133778,2025-12-28 14:30,Kano Pillars FC,Nasarawa United,3,0,,,
+66133770,2025-12-28 15:00,Niger Tornadoes FC,Barau FC,2,0,1.700,3.100,4.750
+66133772,2025-12-28 15:00,Bayelsa United FC,El Kanemi Warriors,0,1,,,
+66133774,2025-12-28 15:00,Kun Khalifat FC,Katsina United FC,0,1,1.550,3.300,6.000
+66133776,2025-12-28 15:00,Enyimba,Shooting Stars,3,0,1.650,3.000,5.500
+66133780,2025-12-28 15:00,Rivers United FC,Enugu Rangers International FC,1,0,1.550,3.300,6.000
+66133782,2025-12-28 15:00,Warri Wolves FC,Wikki Tourists FC,2,2,,,
+66133784,2025-12-28 15:00,Plateau United,Abia Warriors FC,0,1,,,
+66133768,2025-12-28 17:00,Ikorodu City,Remo Stars,1,0,1.571,3.200,5.750
+67504980,2026-01-14 14:00,El Kanemi Warriors,Bayelsa United FC,1,0,,,
+67504972,2026-01-14 14:30,Barau FC,Niger Tornadoes FC,2,1,,,
+67426518,2026-01-14 15:00,Wikki Tourists FC,Warri Wolves FC,0,1,1.500,3.200,7.500
+67472314,2026-01-14 15:00,Nasarawa United,Kano Pillars FC,0,1,1.750,2.900,5.000
+67472670,2026-01-14 15:00,Enugu Rangers International FC,Rivers United FC,0,0,1.650,3.100,5.500
+67472676,2026-01-14 15:00,Shooting Stars,Enyimba,3,0,1.571,3.200,6.500
+67504974,2026-01-14 15:00,Remo Stars,Ikorodu City,1,0,,,
+67504976,2026-01-14 15:00,Abia Warriors FC,Plateau United,1,1,1.550,3.250,6.000
+67504978,2026-01-14 15:00,Kwara United,Bendel Insurance FC,0,1,,,
+67504982,2026-01-15 14:00,Katsina United FC,Kun Khalifat FC,2,0,1.615,3.100,5.750
+67671948,2026-01-18 14:30,Kano Pillars FC,Abia Warriors FC,0,1,,,
+67671946,2026-01-18 15:00,Bendel Insurance FC,El Kanemi Warriors,3,2,,,
+67672026,2026-01-18 15:00,Bayelsa United FC,Shooting Stars,2,0,,,
+67672182,2026-01-18 15:00,Nasarawa United,Niger Tornadoes FC,2,1,1.571,3.200,6.500
+67672260,2026-01-18 15:00,Rivers United FC,Remo Stars,1,0,1.480,3.500,7.000
+67672262,2026-01-18 15:00,Enyimba,Barau FC,0,0,1.666,3.100,5.000
+67672340,2026-01-18 15:00,Ikorodu City,Kwara United,1,0,1.380,3.500,9.500
+67672342,2026-01-18 15:00,Warri Wolves FC,Katsina United FC,2,0,,,
+67672344,2026-01-18 15:00,Plateau United,Wikki Tourists FC,1,0,1.727,3.100,4.750
+67672422,2026-01-19 15:00,Kun Khalifat FC,Enugu Rangers International FC,1,2,2.300,3.000,2.900
+68092556,2026-01-24 14:30,Katsina United FC,Plateau United,0,0,1.533,3.400,5.750
+68124226,2026-01-25 14:00,El Kanemi Warriors,Ikorodu City,1,0,,,
+68128614,2026-01-25 14:30,Barau FC,Bayelsa United FC,1,1,1.444,3.500,7.500
+68090396,2026-01-25 15:00,Enugu Rangers International FC,Warri Wolves FC,4,2,1.380,3.600,9.000
+68092562,2026-01-25 15:00,Wikki Tourists FC,Kano Pillars FC,2,0,,,
+68124234,2026-01-25 15:00,Niger Tornadoes FC,Enyimba,2,0,1.533,3.400,6.000
+68124332,2026-01-25 15:00,Abia Warriors FC,Nasarawa United,1,2,,,
+68124546,2026-01-25 15:00,Shooting Stars,Bendel Insurance FC,1,0,1.666,3.200,5.000
+68128564,2026-01-26 15:00,Remo Stars,Kun Khalifat FC,1,1,1.400,3.800,7.000
+68131410,2026-01-28 14:30,Kano Pillars FC,Katsina United FC,1,0,,,
+68131416,2026-01-28 15:00,Nasarawa United,Enyimba,1,1,1.571,3.300,5.750
+68131424,2026-01-28 15:00,Plateau United,Enugu Rangers International FC,2,1,1.700,3.200,4.500
+68131426,2026-01-28 15:00,Abia Warriors FC,Wikki Tourists FC,1,1,1.727,3.000,5.250
+68131418,2026-01-29 12:00,Bayelsa United FC,Niger Tornadoes FC,0,0,1.666,3.100,5.000
+68131412,2026-01-29 15:00,Warri Wolves FC,Remo Stars,1,0,1.900,3.000,4.000
+68131420,2026-01-29 15:00,Kun Khalifat FC,Kwara United,1,0,1.900,2.750,4.200
+68131422,2026-01-29 15:00,Bendel Insurance FC,Barau FC,0,0,1.550,3.250,6.250
+68131428,2026-01-29 15:00,Ikorodu City,Shooting Stars,1,0,1.666,3.100,5.250
+68447574,2026-02-01 14:30,Katsina United FC,Abia Warriors FC,2,0,,,
+68423148,2026-02-01 15:00,Enyimba,Bayelsa United FC,1,0,,,
+68423182,2026-02-01 15:00,Enugu Rangers International FC,Kano Pillars FC,2,0,1.600,3.400,5.250
+68451396,2026-02-01 15:00,Niger Tornadoes FC,Bendel Insurance FC,2,2,1.571,3.200,5.750
+68447660,2026-02-02 14:00,El Kanemi Warriors,Kun Khalifat FC,3,0,,,
+68479748,2026-02-02 14:30,Barau FC,Ikorodu City,1,0,,,
+68423134,2026-02-02 15:00,Remo Stars,Plateau United,1,2,1.850,3.200,3.900
+68479750,2026-02-02 15:00,Kwara United,Warri Wolves FC,2,1,,,
+68660476,2026-02-07 15:00,Bendel Insurance FC,Enyimba,2,0,1.571,3.200,6.000
+68660478,2026-02-08 14:30,Kano Pillars FC,Remo Stars,1,0,,,
+68660480,2026-02-08 15:00,Abia Warriors FC,Enugu Rangers International FC,0,0,,,
+68660482,2026-02-08 15:00,Ikorodu City,Niger Tornadoes FC,2,0,1.533,3.400,6.250
+68660484,2026-02-08 15:00,Kun Khalifat FC,Shooting Stars,2,0,,,
+68660486,2026-02-08 15:00,Nasarawa United,Bayelsa United FC,1,1,1.533,3.600,5.000
+68660488,2026-02-08 15:00,Plateau United,Kwara United,1,0,1.480,3.400,7.000
+68660490,2026-02-08 15:00,Warri Wolves FC,El Kanemi Warriors,0,0,1.600,3.250,5.500
+68660492,2026-02-08 15:00,Wikki Tourists FC,Katsina United FC,4,4,,,
+68660494,2026-02-14 15:00,Barau FC,Kun Khalifat FC,1,0,,,
+68660510,2026-02-15 14:00,El Kanemi Warriors,Plateau United,1,0,,,
+68660512,2026-02-15 14:30,Katsina United FC,Nasarawa United,1,0,,,
+68660496,2026-02-15 15:00,Enyimba,Ikorodu City,0,1,1.800,3.000,4.333
+68660498,2026-02-15 15:00,Kwara United,Kano Pillars FC,1,1,,,
+68660502,2026-02-15 15:00,Enugu Rangers International FC,Wikki Tourists FC,2,0,,,
+68660504,2026-02-15 15:00,Remo Stars,Abia Warriors FC,1,1,,,
+68660506,2026-02-15 15:00,Shooting Stars,Warri Wolves FC,4,2,1.444,3.600,7.500
+68660508,2026-02-15 15:00,Bayelsa United FC,Bendel Insurance FC,0,0,1.800,2.900,4.500
+69043924,2026-02-18 15:00,Kwara United,Rivers United FC,1,1,2.050,2.750,4.100
+69093226,2026-02-21 15:00,Wikki Tourists FC,Remo Stars,2,1,,,
+69093234,2026-02-21 15:00,Warri Wolves FC,Barau FC,0,0,,,
+69093224,2026-02-22 14:30,Katsina United FC,Enugu Rangers International FC,0,0,,,
+69089044,2026-02-22 15:00,Kun Khalifat FC,Niger Tornadoes FC,2,0,1.615,3.200,5.500
+69089048,2026-02-22 15:00,Rivers United FC,Enyimba,1,1,1.380,3.700,8.500
+69089100,2026-02-22 15:00,Nasarawa United,Bendel Insurance FC,1,0,1.727,3.000,4.750
+69093228,2026-02-22 15:00,Abia Warriors FC,Kwara United,1,0,,,
+69093230,2026-02-22 15:00,Kano Pillars FC,El Kanemi Warriors,3,0,,,
+69093232,2026-02-22 15:00,Plateau United,Shooting Stars,4,1,1.600,3.200,5.750
+69093236,2026-02-22 15:00,Ikorodu City,Bayelsa United FC,1,1,1.333,3.800,9.000
+69119636,2026-03-01 14:00,El Kanemi Warriors,Abia Warriors FC,2,0,,,
+69119638,2026-03-01 14:30,Barau FC,Plateau United,2,1,,,
+69119634,2026-03-01 15:00,Bendel Insurance FC,Ikorodu City,4,0,,,
+69119640,2026-03-01 15:00,Niger Tornadoes FC,Warri Wolves FC,0,0,1.363,3.800,8.500
+69119642,2026-03-01 15:00,Bayelsa United FC,Rivers United FC,1,0,1.727,3.100,4.750
+69119644,2026-03-01 15:00,Enugu Rangers International FC,Nasarawa United,2,0,,,
+69119646,2026-03-01 15:00,Shooting Stars,Kano Pillars FC,2,1,,,
+69119648,2026-03-01 15:00,Enyimba,Kun Khalifat FC,1,1,,,
+69119650,2026-03-01 15:00,Kwara United,Wikki Tourists FC,1,0,,,
+69119652,2026-03-01 15:00,Remo Stars,Katsina United FC,2,0,1.500,3.400,6.500
+68931594,2026-03-04 15:00,Rivers United FC,El Kanemi Warriors,3,0,1.420,4.200,5.750
+69119670,2026-03-07 15:00,Wikki Tourists FC,El Kanemi Warriors,2,1,1.444,3.800,6.000
+69119654,2026-03-08 14:30,Katsina United FC,Kwara United,1,2,,,
+69119656,2026-03-08 15:00,Kano Pillars FC,Barau FC,1,0,,,
+69119658,2026-03-08 15:00,Plateau United,Niger Tornadoes FC,3,0,1.533,3.500,5.750
+69119660,2026-03-08 15:00,Warri Wolves FC,Enyimba,2,1,,,
+69119662,2026-03-08 15:00,Kun Khalifat FC,Bayelsa United FC,1,0,,,
+69119664,2026-03-08 15:00,Rivers United FC,Bendel Insurance FC,3,1,1.571,3.700,4.750
+69119666,2026-03-08 15:00,Nasarawa United,Ikorodu City,1,0,,,
+69119668,2026-03-08 15:00,Abia Warriors FC,Shooting Stars,2,0,,,
+69119672,2026-03-08 15:00,Enugu Rangers International FC,Remo Stars,4,1,,,
+68931642,2026-03-12 15:00,Shooting Stars,Rivers United FC,2,1,1.800,3.000,4.333
+69119674,2026-03-14 15:00,Bendel Insurance FC,Kun Khalifat FC,2,1,1.615,3.250,5.500
+69119676,2026-03-15 14:00,El Kanemi Warriors,Katsina United FC,0,0,,,
+69119678,2026-03-15 14:30,Barau FC,Abia Warriors FC,0,0,,,
+69119680,2026-03-15 15:00,Kwara United,Enugu Rangers International FC,0,0,,,
+69119682,2026-03-15 15:00,Shooting Stars,Wikki Tourists FC,0,0,,,
+69119684,2026-03-15 15:00,Remo Stars,Nasarawa United,2,1,1.550,3.300,6.000
+69119686,2026-03-15 15:00,Niger Tornadoes FC,Kano Pillars FC,0,0,1.420,3.750,7.000
+69119688,2026-03-15 15:00,Bayelsa United FC,Warri Wolves FC,2,1,1.420,3.500,7.500
+69119690,2026-03-15 15:00,Enyimba,Plateau United,2,0,1.480,3.400,7.000
+69119692,2026-03-16 15:00,Ikorodu City,Rivers United FC,1,0,1.950,2.800,4.100
+68911066,2026-03-19 15:00,Niger Tornadoes FC,Rivers United FC,1,0,1.800,3.250,4.100
+70033270,2026-03-21 15:00,Wikki Tourists FC,Barau FC,0,0,1.666,3.100,5.500
+70033276,2026-03-22 14:30,Kano Pillars FC,Enyimba,0,0,,,
+70033262,2026-03-22 15:00,Remo Stars,Kwara United,3,1,1.380,3.400,9.500
+70033264,2026-03-22 15:00,Enugu Rangers International FC,El Kanemi Warriors,0,0,,,
+70033268,2026-03-22 15:00,Katsina United FC,Shooting Stars,0,0,,,
+70033280,2026-03-22 15:00,Plateau United,Bayelsa United FC,1,0,1.363,3.800,8.500
+70033282,2026-03-22 15:00,Warri Wolves FC,Bendel Insurance FC,0,0,,,
+70033284,2026-03-22 15:00,Kun Khalifat FC,Ikorodu City,2,2,1.727,3.000,4.750
+70033272,2026-03-23 15:00,Abia Warriors FC,Niger Tornadoes FC,2,0,1.833,3.400,3.600
+70033286,2026-03-23 15:00,Nasarawa United,Rivers United FC,4,1,1.833,2.875,4.500
+70033302,2026-03-28 15:00,Bendel Insurance FC,Plateau United,2,2,1.444,3.900,6.500
+70033290,2026-03-29 15:00,El Kanemi Warriors,Remo Stars,1,1,,,
+70033292,2026-03-29 15:00,Shooting Stars,Enugu Rangers International FC,1,1,1.666,3.100,5.250
+70033294,2026-03-29 15:00,Barau FC,Katsina United FC,0,0,,,
+70033296,2026-03-29 15:00,Niger Tornadoes FC,Wikki Tourists FC,2,0,1.480,3.500,7.000
+70033298,2026-03-29 15:00,Enyimba,Abia Warriors FC,2,1,1.600,3.300,5.500
+70033300,2026-03-29 15:00,Bayelsa United FC,Kano Pillars FC,4,1,1.666,3.300,4.750
+70033304,2026-03-29 15:00,Ikorodu City,Warri Wolves FC,4,3,1.363,3.800,8.000
+70033306,2026-03-29 15:00,Rivers United FC,Kun Khalifat FC,4,2,1.270,5.250,8.000
+70033320,2026-04-04 15:00,Wikki Tourists FC,Enyimba,2,2,,,
+70033310,2026-04-05 15:00,Kwara United,El Kanemi Warriors,3,0,,,
+70033312,2026-04-05 15:00,Remo Stars,Shooting Stars,1,0,,,
+70033314,2026-04-05 15:00,Enugu Rangers International FC,Barau FC,0,0,,,
+70033316,2026-04-05 15:00,Katsina United FC,Niger Tornadoes FC,0,0,,,
+70033382,2026-04-05 15:00,Kano Pillars FC,Bendel Insurance FC,0,0,,,
+70033386,2026-04-05 15:00,Warri Wolves FC,Rivers United FC,2,0,,,
+70033388,2026-04-05 15:00,Nasarawa United,Kun Khalifat FC,0,1,,,
+70033380,2026-04-06 15:00,Abia Warriors FC,Bayelsa United FC,1,0,1.750,3.300,4.333
+70033384,2026-04-06 15:00,Plateau United,Ikorodu City,4,1,1.950,3.200,3.600
+70033400,2026-04-11 15:00,Bendel Insurance FC,Abia Warriors FC,0,0,,,
+70033390,2026-04-12 15:00,Shooting Stars,Kwara United,0,0,1.380,3.800,8.000
+70033392,2026-04-12 15:00,Barau FC,Remo Stars,2,1,1.950,2.800,4.000
+70033394,2026-04-12 15:00,Niger Tornadoes FC,Enugu Rangers International FC,0,0,1.750,2.900,5.000
+70033396,2026-04-12 15:00,Enyimba,Katsina United FC,0,0,,,
+70033398,2026-04-12 15:00,Bayelsa United FC,Wikki Tourists FC,0,1,1.363,4.333,7.000
+70033402,2026-04-12 15:00,Ikorodu City,Kano Pillars FC,3,0,1.480,4.000,5.250
+70033404,2026-04-12 15:00,Rivers United FC,Plateau United,1,0,1.444,3.400,8.000
+70033406,2026-04-12 15:00,Kun Khalifat FC,Warri Wolves FC,3,0,1.300,4.750,8.000
+70033408,2026-04-14 15:00,El Kanemi Warriors,Nasarawa United,0,0,,,
+70869434,2026-04-19 12:00,Wikki Tourists FC,Bendel Insurance FC,1,2,,,
+70033426,2026-04-19 14:00,Plateau United,Kun Khalifat FC,1,1,,,
+70033410,2026-04-19 15:00,El Kanemi Warriors,Shooting Stars,0,0,,,
+70033412,2026-04-19 15:00,Kwara United,Barau FC,0,0,,,
+70033414,2026-04-19 15:00,Remo Stars,Niger Tornadoes FC,3,0,1.444,3.500,7.500
+70033416,2026-04-19 15:00,Enugu Rangers International FC,Enyimba,2,1,1.480,3.400,7.000
+70033418,2026-04-19 15:00,Katsina United FC,Bayelsa United FC,3,2,,,
+70033422,2026-04-19 15:00,Abia Warriors FC,Ikorodu City,2,1,1.615,3.300,5.250
+70033424,2026-04-19 15:00,Kano Pillars FC,Rivers United FC,0,0,,,
+70033428,2026-04-19 15:00,Nasarawa United,Warri Wolves FC,3,0,,,
+70033430,2026-05-03 15:00,Barau FC,El Kanemi Warriors,3,0,,,
+70033432,2026-05-03 15:00,Niger Tornadoes FC,Kwara United,2,2,,,
+70033434,2026-05-03 15:00,Enyimba,Remo Stars,2,1,,,
+70033436,2026-05-03 15:00,Bayelsa United FC,Enugu Rangers International FC,0,2,1.727,3.100,5.000
+70033438,2026-05-03 15:00,Bendel Insurance FC,Katsina United FC,0,0,,,
+70033444,2026-05-03 15:00,Rivers United FC,Abia Warriors FC,3,0,,,
+70033446,2026-05-03 15:00,Kun Khalifat FC,Kano Pillars FC,0,0,,,
+70033448,2026-05-03 15:00,Warri Wolves FC,Plateau United,1,0,,,
+70033450,2026-05-03 15:00,Shooting Stars,Nasarawa United,3,2,1.500,3.700,5.500
+70033440,2026-05-05 15:00,Ikorodu City,Wikki Tourists FC,3,1,1.480,4.333,4.750
+70033452,2026-05-10 15:00,Shooting Stars,Barau FC,0,0,,,
+70033456,2026-05-10 15:00,El Kanemi Warriors,Niger Tornadoes FC,0,0,,,
+70033460,2026-05-10 15:00,Kwara United,Enyimba,0,0,,,
+70033462,2026-05-10 15:00,Remo Stars,Bayelsa United FC,2,1,,,
+70033464,2026-05-10 15:00,Enugu Rangers International FC,Bendel Insurance FC,2,1,,,
+70033466,2026-05-10 15:00,Katsina United FC,Ikorodu City,0,0,,,
+70033468,2026-05-10 15:00,Wikki Tourists FC,Rivers United FC,2,3,,,
+70033470,2026-05-10 15:00,Abia Warriors FC,Kun Khalifat FC,0,2,,,
+70033472,2026-05-10 15:00,Kano Pillars FC,Warri Wolves FC,1,0,,,
+70033476,2026-05-10 15:00,Nasarawa United,Plateau United,1,0,,,
+70033480,2026-05-24 15:00,Niger Tornadoes FC,Shooting Stars,1,0,,,
+70033482,2026-05-24 15:00,Enyimba,El Kanemi Warriors,3,0,,,
+70033484,2026-05-24 15:00,Bayelsa United FC,Kwara United,0,0,,,
+70033488,2026-05-24 15:00,Bendel Insurance FC,Remo Stars,0,0,,,
+70033490,2026-05-24 15:00,Ikorodu City,Enugu Rangers International FC,1,2,,,
+70033494,2026-05-24 15:00,Rivers United FC,Katsina United FC,3,0,,,
+70033496,2026-05-24 15:00,Kun Khalifat FC,Wikki Tourists FC,0,0,,,
+70033498,2026-05-24 15:00,Warri Wolves FC,Abia Warriors FC,2,1,,,
+70033500,2026-05-24 15:00,Plateau United,Kano Pillars FC,0,0,,,
+70033502,2026-05-24 15:00,Barau FC,Nasarawa United,0,0,,,
+73657264,2026-08-28 15:00,Shooting Stars,Inter Lagos FC,2,1,1.650,3.300,5.250
+73657266,2026-08-30 15:00,Abia Warriors FC,Kun Khalifat FC,0,0,,,
+73657268,2026-08-30 15:00,Kwara United,Kano Pillars FC,2,2,,,
+73657270,2026-08-30 15:00,Barau FC,Nasarawa United,3,1,,,
+73657272,2026-08-30 15:00,Bendel Insurance FC,Warri Wolves FC,2,1,,,
+73657274,2026-08-30 15:00,Enugu Rangers International FC,Katsina United FC,1,1,,,
+73657276,2026-08-30 15:00,Niger Tornadoes FC,Enyimba,2,1,1.727,3.000,5.000
+73657278,2026-08-30 15:00,Ikorodu City,Ranchers Bees,3,1,1.420,3.800,7.000
+73657280,2026-08-30 15:00,Doma United FC,Sporting Lagos FC,2,0,1.700,3.200,5.000
+73657282,2026-08-30 15:00,Rivers United FC,Plateau United,2,0,1.533,3.500,5.750
+74257018,2026-09-05 15:00,Inter Lagos FC,Doma United FC,0,1,1.571,3.200,6.000
+74257022,2026-09-06 15:00,Kun Khalifat FC,Barau FC,0,0,3.700,2.700,2.150
+74257024,2026-09-06 15:00,Nasarawa United,Bendel Insurance FC,1,0,1.615,3.250,5.250
+74257030,2026-09-06 15:00,Plateau United,Kwara United,1,0,1.600,3.300,5.750
+74257032,2026-09-06 15:00,Kano Pillars FC,Niger Tornadoes FC,3,2,,,
+74257020,2026-09-07 15:00,Ranchers Bees,Abia Warriors FC,4,0,,,
+74444446,2026-09-12 15:00,Doma United FC,Enyimba,2,0,1.727,3.000,5.250
+74444448,2026-09-13 15:00,Kwara United,Katsina United FC,3,0,,,
+74444452,2026-09-13 15:00,Bendel Insurance FC,Kun Khalifat FC,4,2,,,
+74444456,2026-09-13 15:00,Abia Warriors FC,Ikorodu City,2,2,,,
+74444458,2026-09-13 15:00,Niger Tornadoes FC,Plateau United,1,1,1.450,3.500,7.500
+74444460,2026-09-13 15:00,Barau FC,Ranchers Bees,3,1,1.420,3.600,7.000
+74444464,2026-09-13 15:00,Inter Lagos FC,Sporting Lagos FC,0,3,1.666,3.200,4.750
+74720486,2026-09-16 15:00,Rivers United FC,Warri Wolves FC,2,0,1.533,3.500,5.750
+74720562,2026-09-18 07:30,Enugu Rangers International FC,Nasarawa United,2,1,1.600,3.100,5.750
+74599306,2026-09-19 15:00,Ikorodu City,Barau FC,0,0,1.420,3.400,8.000
+74599310,2026-09-19 15:00,Ranchers Bees,Bendel Insurance FC,2,1,1.950,2.875,3.900
+74599316,2026-09-19 15:00,Katsina United FC,Niger Tornadoes FC,1,0,,,
+74599308,2026-09-20 15:00,Enyimba,Inter Lagos FC,0,1,1.650,3.000,5.500
+74599312,2026-09-20 15:00,Warri Wolves FC,Kwara United,1,0,,,
+74599314,2026-09-20 15:00,Sporting Lagos FC,Abia Warriors FC,0,2,1.650,3.300,5.000
+74599318,2026-09-20 15:00,Kun Khalifat FC,Enugu Rangers International FC,2,4,3.600,3.400,1.850
+74599320,2026-09-20 15:00,Kano Pillars FC,Doma United FC,4,1,1.400,3.600,7.500
+74599322,2026-09-20 15:00,Plateau United,Shooting Stars,3,1,1.571,3.250,5.500
+74599324,2026-09-20 15:00,Nasarawa United,Rivers United FC,1,1,1.650,3.300,5.000
+74885848,2026-09-23 15:00,Barau FC,Abia Warriors FC,2,0,1.533,3.500,6.000
+74885850,2026-09-23 15:00,Bendel Insurance FC,Ikorodu City,2,1,,,
+74885852,2026-09-23 15:00,Enugu Rangers International FC,Ranchers Bees,1,0,1.450,3.700,6.500
+74885856,2026-09-23 15:00,Kwara United,Nasarawa United,2,1,,,
+74885858,2026-09-23 15:00,Niger Tornadoes FC,Warri Wolves FC,0,0,1.420,3.700,7.500
+74885860,2026-09-23 15:00,Shooting Stars,Katsina United FC,2,0,1.363,3.900,9.000
+74885862,2026-09-23 15:00,Doma United FC,Plateau United,2,2,,,
+74885864,2026-09-23 15:00,Inter Lagos FC,Kano Pillars FC,1,1,2.500,2.800,2.750
+74885866,2026-09-23 15:00,Enyimba,Sporting Lagos FC,2,3,1.650,3.400,5.000
+74885854,2026-09-24 15:00,Rivers United FC,Kun Khalifat FC,5,0,1.222,6.000,9.000
+74885868,2026-09-26 15:00,Sporting Lagos FC,Barau FC,1,1,1.650,3.300,5.000
+74885870,2026-09-27 15:00,Abia Warriors FC,Bendel Insurance FC,3,0,1.700,3.100,5.000
+74885872,2026-09-27 15:00,Ikorodu City,Enugu Rangers International FC,2,0,1.533,3.600,5.500
+74885876,2026-09-27 15:00,Kun Khalifat FC,Kwara United,1,0,1.800,3.100,4.200
+74885878,2026-09-27 15:00,Nasarawa United,Niger Tornadoes FC,1,0,1.550,3.400,5.500
+74885880,2026-09-27 15:00,Warri Wolves FC,Shooting Stars,1,0,,,
+74885882,2026-09-27 15:00,Katsina United FC,Doma United FC,2,1,,,
+74885884,2026-09-27 15:00,Plateau United,Inter Lagos FC,2,0,1.270,4.333,10.000
+74885886,2026-09-27 15:00,Kano Pillars FC,Enyimba,0,0,,,
+74885874,2026-09-28 15:00,Ranchers Bees,Rivers United FC,0,0,,,
+74324150,2026-09-30 15:00,Sporting Lagos FC,Ikorodu City,0,0,2.500,3.000,2.600
+74718956,2026-09-30 15:00,Warri Wolves FC,Enugu Rangers International FC,0,1,,,
+74748702,2026-09-30 15:00,Enyimba,Shooting Stars,4,2,1.650,3.000,5.250
+74748704,2026-09-30 15:00,Katsina United FC,Rivers United FC,1,1,2.100,2.875,3.500
+74718606,2026-10-03 15:00,Kano Pillars FC,Sporting Lagos FC,1,1,1.550,3.700,5.000
+74885954,2026-10-04 14:00,Niger Tornadoes FC,Kun Khalifat FC,1,0,1.166,6.000,12.000
+74885888,2026-10-04 15:00,Doma United FC,Warri Wolves FC,1,0,1.615,3.300,5.250
+74885890,2026-10-04 15:00,Bendel Insurance FC,Barau FC,4,1,,,
+74885892,2026-10-04 15:00,Enugu Rangers International FC,Abia Warriors FC,3,1,,,
+74885950,2026-10-04 15:00,Rivers United FC,Ikorodu City,2,0,1.250,4.500,11.000
+74885952,2026-10-04 15:00,Kwara United,Ranchers Bees,2,1,,,
+74885956,2026-10-04 15:00,Shooting Stars,Nasarawa United,0,0,1.480,4.000,5.500
+74885958,2026-10-04 15:00,Inter Lagos FC,Katsina United FC,1,1,2.150,2.700,3.500
+74885960,2026-10-04 15:00,Enyimba,Plateau United,2,0,1.615,3.300,5.500
+74885962,2026-10-04 15:00,Kano Pillars FC,Sporting Lagos FC,1,1,,,
+74748706,2026-10-07 15:00,Shooting Stars,Kano Pillars FC,0,0,1.500,3.200,7.000
+74885978,2026-10-09 16:00,Katsina United FC,Enyimba,4,2,1.550,3.700,5.000
+74885964,2026-10-10 15:00,Ikorodu City,Kwara United,2,0,1.363,3.700,8.500
+74885970,2026-10-10 15:00,Ranchers Bees,Niger Tornadoes FC,0,0,1.420,3.600,8.000
+74885966,2026-10-11 15:00,Barau FC,Enugu Rangers International FC,2,2,1.750,3.100,4.500
+74885968,2026-10-11 15:00,Abia Warriors FC,Rivers United FC,0,0,2.100,2.900,3.400
+74885972,2026-10-11 15:00,Kun Khalifat FC,Shooting Stars,2,0,,,
+74885974,2026-10-11 15:00,Nasarawa United,Doma United FC,2,0,1.550,4.333,4.200
+74885976,2026-10-11 15:00,Warri Wolves FC,Inter Lagos FC,3,1,,,
+74886018,2026-10-11 15:00,Plateau United,Kano Pillars FC,4,0,1.533,3.400,6.250
+74886062,2026-10-11 15:00,Sporting Lagos FC,Bendel Insurance FC,2,1,1.700,3.200,4.750
+74886074,2026-10-16 17:00,Shooting Stars,Ranchers Bees,3,1,1.500,3.400,6.250
+74886064,2026-10-17 15:00,Doma United FC,Kun Khalifat FC,1,1,1.600,3.600,4.500
+74886070,2026-10-17 15:00,Kwara United,Abia Warriors FC,1,1,,,
+74886072,2026-10-18 15:00,Niger Tornadoes FC,Ikorodu City,2,1,1.571,3.400,5.500
+74886076,2026-10-18 15:00,Inter Lagos FC,Nasarawa United,0,2,1.900,3.100,3.800
+74886078,2026-10-18 15:00,Enyimba,Warri Wolves FC,0,0,1.380,3.900,8.000
+74886080,2026-10-18 15:00,Kano Pillars FC,Katsina United FC,1,0,,,
+74886082,2026-10-18 15:00,Plateau United,Sporting Lagos FC,2,3,1.500,3.500,6.000
+74886102,2026-10-24 15:00,Katsina United FC,Plateau United,2,2,,,
+74886086,2026-10-25 15:00,Bendel Insurance FC,Rivers United FC,2,1,,,
+74886088,2026-10-25 15:00,Barau FC,Kwara United,1,1,1.420,3.500,8.000
+74886090,2026-10-25 15:00,Abia Warriors FC,Niger Tornadoes FC,0,1,1.450,3.400,7.500
+74886092,2026-10-25 15:00,Ikorodu City,Shooting Stars,2,2,1.600,3.300,5.250
+74886096,2026-10-25 15:00,Kun Khalifat FC,Inter Lagos FC,1,0,,,
+74886098,2026-10-25 15:00,Nasarawa United,Enyimba,1,0,1.450,3.700,6.500
+74886100,2026-10-25 15:00,Warri Wolves FC,Kano Pillars FC,0,0,,,
+74886110,2026-10-30 14:00,Niger Tornadoes FC,Barau FC,0,0,1.666,3.000,5.500
+74886104,2026-10-31 14:00,Doma United FC,Ikorodu City,2,2,1.666,3.800,4.000
+74886106,2026-11-01 15:00,Rivers United FC,Enugu Rangers International FC,1,1,1.500,3.500,6.250
+74886108,2026-11-01 15:00,Kwara United,Bendel Insurance FC,1,2,,,
+74886112,2026-11-01 15:00,Shooting Stars,Abia Warriors FC,4,1,1.450,3.600,6.500
+74886114,2026-11-01 15:00,Inter Lagos FC,Ranchers Bees,1,1,2.000,3.000,3.600
+74886116,2026-11-01 15:00,Enyimba,Kun Khalifat FC,1,0,,,
+74886118,2026-11-01 15:00,Kano Pillars FC,Nasarawa United,2,0,,,
+74886120,2026-11-01 15:00,Plateau United,Warri Wolves FC,1,1,1.444,3.700,6.500
+74886122,2026-11-01 15:00,Katsina United FC,Sporting Lagos FC,2,1,,,
+75837492,2026-11-04 15:00,Enugu Rangers International FC,Bendel Insurance FC,1,0,1.533,3.400,6.000
+74886138,2026-11-06 17:00,Kun Khalifat FC,Kano Pillars FC,1,1,,,
+74886126,2026-11-08 15:00,Enugu Rangers International FC,Kwara United,1,0,,,
+74886128,2026-11-08 15:00,Bendel Insurance FC,Niger Tornadoes FC,2,1,,,
+74886130,2026-11-08 15:00,Barau FC,Shooting Stars,1,0,,,
+74886132,2026-11-08 15:00,Abia Warriors FC,Doma United FC,2,2,1.600,3.500,5.000
+74886136,2026-11-08 15:00,Ranchers Bees,Enyimba,1,0,2.400,3.200,2.625
+74886140,2026-11-08 15:00,Nasarawa United,Plateau United,3,1,1.450,3.700,6.250
+74886142,2026-11-08 15:00,Warri Wolves FC,Katsina United FC,1,1,1.666,3.400,4.750
+74886134,2026-11-09 15:00,Ikorodu City,Inter Lagos FC,2,2,1.300,5.000,6.500

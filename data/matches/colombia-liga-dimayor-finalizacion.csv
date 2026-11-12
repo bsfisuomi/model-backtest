@@ -1,0 +1,181 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+72334920,2026-07-24 23:10,Llaneros FC,Deportivo Pereira FC SA,1,0,1.615,3.500,6.250
+72334922,2026-07-25 01:15,Deportivo Cali,Jaguares de Cordoba,2,0,1.571,3.600,6.500
+72334926,2026-07-25 21:05,Independiente Medellin,AD Pasto,3,2,1.727,3.400,5.250
+72334928,2026-07-25 23:10,Millonarios FC,CA Bucaramanga,0,1,1.650,3.700,5.500
+72334930,2026-07-26 01:15,CD Tolima,CD Junior FC,2,1,2.050,3.400,3.700
+72334932,2026-07-26 19:00,Internacional de Bogota.,America de Cali,0,2,3.000,3.000,2.600
+72334934,2026-07-26 21:05,Aguilas Doradas Rionegro,Independiente Santa Fe,2,1,2.550,3.000,3.000
+72334936,2026-07-26 23:10,Alianza FC Valledupar,Fortaleza FC,1,1,1.850,3.250,4.500
+72334938,2026-07-27 01:15,CD Once Caldas,Cucuta Deportivo FC,5,1,1.363,4.500,9.500
+72334940,2026-07-31 01:00,CA Bucaramanga,Llaneros FC,1,1,1.700,3.600,5.250
+72334942,2026-08-01 01:00,Fortaleza FC,Deportivo Pereira FC SA,0,0,1.615,3.500,6.250
+72334944,2026-08-01 19:00,AD Pasto,Aguilas Doradas Rionegro,1,2,2.200,3.100,3.500
+72334946,2026-08-01 21:05,Alianza FC Valledupar,CD Tolima,1,2,2.875,3.000,2.625
+72334948,2026-08-01 23:10,Independiente Medellin,Deportivo Cali,1,0,2.350,3.000,3.250
+72334950,2026-08-02 01:15,CD Junior FC,Millonarios FC,0,1,2.300,3.250,3.100
+72334952,2026-08-02 20:45,Jaguares de Cordoba,Atletico Nacional,0,3,5.500,3.750,1.615
+72334954,2026-08-02 22:45,America de Cali,Boyaca Chico FC,7,0,1.333,4.500,11.000
+72334956,2026-08-03 01:00,Independiente Santa Fe,CD Once Caldas,2,2,2.250,3.100,3.400
+72334960,2026-08-04 01:00,CA Bucaramanga,Cucuta Deportivo FC,1,1,1.571,3.700,6.250
+72334962,2026-08-04 21:10,Llaneros FC,Fortaleza FC,3,1,2.100,3.000,3.750
+72334964,2026-08-04 23:15,CD Tolima,Independiente Medellin,2,3,2.000,3.250,3.900
+72334966,2026-08-05 01:20,Millonarios FC,AD Pasto,2,0,1.380,4.333,9.000
+72334968,2026-08-05 23:15,Internacional de Bogota.,Jaguares de Cordoba,1,0,1.550,3.750,6.500
+72334972,2026-08-06 01:30,CD Once Caldas,America de Cali,0,1,2.250,3.100,3.300
+72334986,2026-08-08 19:00,Independiente Santa Fe,Boyaca Chico FC,2,0,1.300,4.750,10.000
+72334980,2026-08-08 21:20,Fortaleza FC,Cucuta Deportivo FC,2,0,1.850,3.250,4.500
+72334982,2026-08-08 23:25,CD Tolima,Internacional de Bogota.,2,1,1.615,3.750,5.500
+72334992,2026-08-09 01:30,AD Pasto,Deportivo Cali,0,2,2.750,2.900,2.750
+72334994,2026-08-09 21:05,Alianza FC Valledupar,CA Bucaramanga,2,3,2.800,2.875,2.750
+72334990,2026-08-09 23:10,Jaguares de Cordoba,CD Once Caldas,1,1,3.250,3.100,2.300
+72334984,2026-08-10 01:15,America de Cali,Atletico Nacional,1,0,2.500,3.100,2.900
+73740838,2026-08-19 21:00,Aguilas Doradas Rionegro,Llaneros FC,1,1,1.900,3.100,5.000
+72334958,2026-08-19 23:00,Cucuta Deportivo FC,Internacional de Bogota.,1,1,2.250,3.100,3.300
+72335020,2026-08-21 21:05,Jaguares de Cordoba,Boyaca Chico FC,1,0,1.700,3.250,5.750
+72335038,2026-08-22 00:30,Alianza FC Valledupar,Deportivo Pereira FC SA,0,0,1.571,3.700,6.250
+72335022,2026-08-22 20:30,Aguilas Doradas Rionegro,Millonarios FC,1,1,3.900,3.200,2.050
+72335024,2026-08-22 21:05,CD Tolima,CA Bucaramanga,0,0,2.350,3.100,3.200
+72335026,2026-08-22 23:10,Independiente Santa Fe,America de Cali,0,0,3.300,2.900,2.350
+72335036,2026-08-23 01:15,Independiente Medellin,Cucuta Deportivo FC,0,1,1.181,7.000,15.000
+72335030,2026-08-23 19:00,Fortaleza FC,Atletico Nacional,1,2,4.750,3.500,1.750
+72335032,2026-08-23 21:05,AD Pasto,Llaneros FC,0,1,2.100,3.000,4.000
+72335034,2026-08-23 23:10,Deportivo Cali,Internacional de Bogota.,2,2,1.550,3.800,6.500
+72335028,2026-08-24 01:15,CD Junior FC,CD Once Caldas,1,1,1.833,3.400,4.333
+72335058,2026-08-26 01:00,Cucuta Deportivo FC,Alianza FC Valledupar,1,0,2.450,3.000,3.100
+72335044,2026-08-26 21:00,Boyaca Chico FC,Fortaleza FC,0,0,3.200,3.000,2.450
+72335048,2026-08-26 23:20,America de Cali,CD Junior FC,4,2,1.750,3.600,4.500
+72335050,2026-08-27 01:30,Atletico Nacional,Deportivo Cali,2,1,1.533,4.100,5.750
+72335052,2026-08-27 23:10,Llaneros FC,Millonarios FC,0,2,3.600,3.100,2.150
+72335046,2026-08-28 01:15,Internacional de Bogota.,AD Pasto,1,1,1.571,3.700,6.250
+72335060,2026-08-29 21:25,Jaguares de Cordoba,America de Cali,2,2,4.000,3.300,1.950
+72335062,2026-08-29 23:30,CD Junior FC,Independiente Santa Fe,1,1,1.700,3.800,4.750
+72335064,2026-08-30 01:30,Alianza FC Valledupar,Atletico Nacional,1,5,3.700,3.400,2.000
+72335066,2026-08-30 19:00,Aguilas Doradas Rionegro,Boyaca Chico FC,2,2,1.444,4.200,8.000
+72335068,2026-08-30 21:10,Independiente Medellin,Llaneros FC,2,1,1.650,3.700,5.250
+72335070,2026-08-30 23:15,Millonarios FC,Internacional de Bogota.,0,0,1.420,4.100,8.500
+72335076,2026-08-31 01:20,Deportivo Cali,CA Bucaramanga,1,1,1.950,3.250,4.100
+72335074,2026-08-31 23:00,AD Pasto,Deportivo Pereira FC SA,1,2,1.666,3.600,5.000
+72335072,2026-09-01 01:05,CD Tolima,Cucuta Deportivo FC,2,1,1.444,4.200,8.000
+72335078,2026-09-02 01:00,Fortaleza FC,CD Once Caldas,1,2,3.500,3.250,2.100
+72335220,2026-09-03 01:25,Independiente Santa Fe,Millonarios FC,3,2,3.500,2.875,2.350
+72335082,2026-09-03 21:00,America de Cali,Alianza FC Valledupar,3,0,1.420,4.200,8.000
+72335056,2026-09-04 01:00,Deportivo Pereira FC SA,Independiente Medellin,0,3,6.500,4.000,1.500
+72335080,2026-09-05 21:00,Boyaca Chico FC,CD Once Caldas,2,0,4.100,3.400,1.850
+72335088,2026-09-05 23:10,Cucuta Deportivo FC,AD Pasto,2,2,2.150,3.250,3.400
+72335092,2026-09-05 23:25,Independiente Santa Fe,Fortaleza FC,2,2,1.650,3.600,6.250
+72335084,2026-09-06 01:30,CD Junior FC,Jaguares de Cordoba,3,3,1.380,4.500,9.000
+72335086,2026-09-06 21:00,Internacional de Bogota.,Aguilas Doradas Rionegro,2,2,2.350,3.100,3.250
+72335090,2026-09-06 23:10,Deportivo Pereira FC SA,Millonarios FC,1,1,10.000,5.250,1.285
+74269766,2026-09-07 23:00,Llaneros FC,CD Tolima,1,2,2.800,3.100,2.550
+74269768,2026-09-11 01:00,Millonarios FC,Deportivo Cali,1,1,1.727,3.600,4.750
+72335100,2026-09-11 23:15,Jaguares de Cordoba,Fortaleza FC,2,2,2.200,3.200,3.500
+72335112,2026-09-12 01:30,Independiente Santa Fe,CD Tolima,1,0,2.750,3.100,2.625
+72335106,2026-09-12 21:05,Internacional de Bogota.,Llaneros FC,3,2,1.909,3.300,4.333
+72335108,2026-09-12 23:10,Boyaca Chico FC,Independiente Medellin,2,1,3.900,3.300,1.950
+72335102,2026-09-13 01:20,Alianza FC Valledupar,CD Junior FC,1,0,4.100,3.300,1.909
+72335104,2026-09-13 19:00,Deportivo Pereira FC SA,CA Bucaramanga,1,3,6.500,3.800,1.550
+72335114,2026-09-13 21:05,Atletico Nacional,Aguilas Doradas Rionegro,2,0,1.400,4.500,8.000
+72335116,2026-09-13 23:10,CD Once Caldas,Deportivo Cali,1,2,2.050,3.400,3.600
+72335118,2026-09-14 01:15,Cucuta Deportivo FC,Millonarios FC,1,2,4.333,3.300,1.900
+72335110,2026-09-15 01:00,America de Cali,AD Pasto,0,1,1.270,5.750,9.500
+73459468,2026-09-16 00:30,Boyaca Chico FC,Alianza FC Valledupar,1,2,2.000,3.100,4.333
+74458740,2026-09-16 23:15,CD Once Caldas,CD Tolima,1,0,2.250,3.000,3.300
+72335178,2026-09-17 01:20,Internacional de Bogota.,Atletico Nacional,2,3,4.200,3.500,1.833
+72335096,2026-09-18 00:00,CA Bucaramanga,Independiente Medellin,2,2,2.300,3.250,3.100
+72335120,2026-09-18 21:00,Aguilas Doradas Rionegro,Deportivo Pereira FC SA,2,2,1.380,4.500,8.500
+72335130,2026-09-19 19:00,Millonarios FC,Boyaca Chico FC,3,0,1.250,6.500,9.000
+72335126,2026-09-19 21:05,Alianza FC Valledupar,Independiente Santa Fe,1,4,2.875,3.000,2.600
+72335128,2026-09-19 23:10,Deportivo Cali,Cucuta Deportivo FC,3,0,1.533,4.333,5.500
+72335124,2026-09-20 01:15,AD Pasto,CD Once Caldas,1,0,3.600,3.100,2.200
+72335132,2026-09-20 19:00,Fortaleza FC,CD Junior FC,1,4,2.400,3.200,3.000
+72335134,2026-09-20 21:05,CA Bucaramanga,Internacional de Bogota.,2,0,1.800,3.300,4.750
+72335136,2026-09-20 23:10,CD Tolima,America de Cali,1,1,2.400,3.200,3.000
+72335138,2026-09-21 01:15,Llaneros FC,Atletico Nacional,2,0,4.200,3.700,1.800
+74716100,2026-09-22 23:00,Independiente Medellin,Jaguares de Cordoba,2,1,1.333,5.250,8.500
+72335140,2026-09-23 01:00,Independiente Santa Fe,Deportivo Cali,0,1,1.909,3.300,4.100
+72335142,2026-09-24 00:30,America de Cali,Aguilas Doradas Rionegro,1,0,1.450,4.200,6.250
+72335144,2026-09-25 00:30,Atletico Nacional,Millonarios FC,1,1,1.750,3.800,4.500
+72335146,2026-09-25 23:10,Boyaca Chico FC,AD Pasto,3,0,2.900,2.900,2.625
+72335148,2026-09-26 01:15,CD Once Caldas,CA Bucaramanga,1,3,1.950,3.100,3.900
+72335150,2026-09-26 21:00,Deportivo Pereira FC SA,Internacional de Bogota.,0,0,3.400,3.200,2.200
+72335152,2026-09-26 23:15,Cucuta Deportivo FC,Llaneros FC,2,1,2.700,3.000,2.750
+72335154,2026-09-27 01:20,CD Junior FC,Independiente Medellin,2,0,2.250,3.200,3.250
+72335156,2026-09-27 21:00,Jaguares de Cordoba,Alianza FC Valledupar,1,2,2.550,2.900,3.000
+72335158,2026-09-27 23:05,Fortaleza FC,CD Tolima,2,2,4.500,3.300,1.850
+73369500,2026-09-28 01:10,Deportivo Cali,Aguilas Doradas Rionegro,2,0,1.666,3.500,5.250
+74497748,2026-09-29 20:30,Deportivo Pereira FC SA,Independiente Santa Fe,1,2,4.333,3.600,1.800
+74458710,2026-09-30 01:05,Independiente Medellin,Millonarios FC,2,2,2.625,3.250,2.625
+72334978,2026-10-01 01:00,Atletico Nacional,CD Junior FC,3,1,1.444,4.500,6.250
+72335162,2026-10-03 01:30,Deportivo Cali,Alianza FC Valledupar,3,1,1.500,3.900,7.500
+72335160,2026-10-03 19:00,Aguilas Doradas Rionegro,Jaguares de Cordoba,2,0,1.480,4.200,6.500
+72335164,2026-10-03 21:05,CD Tolima,Boyaca Chico FC,0,0,1.222,6.250,12.000
+72335168,2026-10-04 19:00,AD Pasto,Fortaleza FC,0,0,2.000,3.200,4.000
+72335170,2026-10-04 21:05,Cucuta Deportivo FC,Deportivo Pereira FC SA,4,0,1.750,3.400,5.000
+75211788,2026-10-04 21:05,Internacional de Bogota.,CD Once Caldas,1,1,2.750,3.250,2.500
+72335172,2026-10-04 23:10,CA Bucaramanga,CD Junior FC,3,1,2.000,3.400,3.700
+72335174,2026-10-05 01:15,Llaneros FC,America de Cali,1,2,3.750,3.100,2.100
+72335166,2026-10-06 00:00,Independiente Medellin,Independiente Santa Fe,0,1,2.250,3.200,3.250
+72335098,2026-10-08 23:05,Atletico Nacional,CD Tolima,0,0,1.727,3.500,5.000
+72335180,2026-10-09 01:10,Fortaleza FC,Millonarios FC,1,1,4.100,3.250,1.950
+72335194,2026-10-09 23:00,Alianza FC Valledupar,Aguilas Doradas Rionegro,2,2,2.800,3.000,2.625
+72335182,2026-10-10 01:10,CD Once Caldas,Llaneros FC,1,0,1.571,3.700,6.000
+72335186,2026-10-10 20:30,Deportivo Pereira FC SA,Deportivo Cali,0,0,4.750,3.700,1.700
+72335184,2026-10-10 23:10,CD Junior FC,Internacional de Bogota.,2,2,1.666,3.700,5.000
+72335190,2026-10-11 21:05,Jaguares de Cordoba,CD Tolima,3,2,5.250,3.750,1.650
+72335196,2026-10-11 23:10,Boyaca Chico FC,Cucuta Deportivo FC,0,1,2.000,3.100,4.000
+72335192,2026-10-12 01:15,America de Cali,Independiente Medellin,1,2,1.615,3.750,5.500
+74565608,2026-10-13 23:30,CA Bucaramanga,Aguilas Doradas Rionegro,1,1,1.800,3.600,4.333
+74458708,2026-10-14 21:30,CD Junior FC,Deportivo Pereira FC SA,1,1,1.363,4.750,8.500
+74436256,2026-10-17 20:00,Boyaca Chico FC,Atletico Nacional,1,4,5.000,3.600,1.727
+72335200,2026-10-17 23:00,Millonarios FC,Jaguares de Cordoba,4,1,1.142,7.500,19.000
+72335206,2026-10-18 01:10,Independiente Medellin,CD Once Caldas,0,2,2.000,3.400,3.700
+72335202,2026-10-18 19:00,Aguilas Doradas Rionegro,CD Tolima,2,1,2.800,3.100,2.625
+72335204,2026-10-18 21:00,CA Bucaramanga,America de Cali,1,1,2.625,3.100,2.750
+72335208,2026-10-18 23:05,Llaneros FC,Independiente Santa Fe,1,0,3.200,3.100,2.400
+72335210,2026-10-19 01:20,Deportivo Cali,CD Junior FC,0,0,,,
+72335214,2026-10-20 01:05,AD Pasto,Alianza FC Valledupar,0,1,1.750,3.400,5.000
+72335212,2026-10-20 21:30,Deportivo Pereira FC SA,Boyaca Chico FC,2,0,2.150,3.000,3.700
+72335216,2026-10-20 23:15,Internacional de Bogota.,Fortaleza FC,2,1,2.150,3.200,3.500
+72335218,2026-10-20 23:30,Cucuta Deportivo FC,Atletico Nacional,1,0,4.000,3.750,1.800
+75641088,2026-10-21 01:30,Millonarios FC,CD Once Caldas,1,1,1.850,3.500,4.100
+74298910,2026-10-21 23:15,Llaneros FC,Deportivo Cali,0,3,2.875,3.100,2.500
+75641090,2026-10-22 01:20,Independiente Santa Fe,Jaguares de Cordoba,2,1,1.200,7.000,11.000
+75371182,2026-10-23 01:00,Atletico Nacional,AD Pasto,3,0,1.250,6.000,11.000
+72335224,2026-10-23 23:00,Boyaca Chico FC,CA Bucaramanga,1,0,3.800,3.200,2.000
+72335228,2026-10-24 01:10,CD Junior FC,Aguilas Doradas Rionegro,1,0,1.900,3.500,4.000
+72335222,2026-10-24 23:05,America de Cali,Cucuta Deportivo FC,3,1,1.380,4.500,8.500
+72335230,2026-10-25 01:15,CD Once Caldas,Deportivo Pereira FC SA,1,1,1.363,4.500,9.000
+72335232,2026-10-25 19:00,Fortaleza FC,Deportivo Cali,1,1,3.000,3.000,2.500
+72335226,2026-10-25 21:05,Alianza FC Valledupar,Internacional de Bogota.,1,0,2.100,3.250,3.400
+72335236,2026-10-25 23:10,Atletico Nacional,Independiente Medellin,2,1,1.650,4.000,5.000
+72335238,2026-10-26 01:15,CD Tolima,AD Pasto,0,1,1.400,4.500,8.000
+72335234,2026-10-26 23:00,Jaguares de Cordoba,Llaneros FC,1,0,2.700,3.300,2.550
+74979618,2026-10-27 01:05,Independiente Santa Fe,CA Bucaramanga,2,1,1.950,3.300,4.100
+74458718,2026-10-27 23:00,Cucuta Deportivo FC,Aguilas Doradas Rionegro,0,2,2.875,3.200,2.450
+74458722,2026-10-28 01:05,Boyaca Chico FC,CD Junior FC,1,1,3.000,3.100,2.400
+74458734,2026-10-28 23:00,CD Once Caldas,Alianza FC Valledupar,1,0,1.450,4.000,7.500
+74458732,2026-10-29 01:05,Internacional de Bogota.,Independiente Medellin,3,1,3.250,3.300,2.200
+74458730,2026-10-29 23:30,America de Cali,Fortaleza FC,2,1,,,
+74458712,2026-10-30 01:30,Atletico Nacional,Independiente Santa Fe,2,0,1.450,4.500,6.250
+74458728,2026-10-30 21:00,Deportivo Pereira FC SA,Jaguares de Cordoba,1,0,2.150,3.400,3.100
+74458738,2026-10-31 01:05,CA Bucaramanga,AD Pasto,2,1,1.600,3.750,5.750
+72335254,2026-10-31 23:00,Llaneros FC,CD Junior FC,3,2,2.700,3.500,2.500
+72335250,2026-11-01 21:05,Deportivo Cali,Boyaca Chico FC,2,0,1.270,5.750,9.000
+72335248,2026-11-01 23:10,Independiente Medellin,Alianza FC Valledupar,2,1,1.600,3.800,5.750
+75145660,2026-11-02 21:05,Aguilas Doradas Rionegro,Fortaleza FC,1,0,1.850,3.400,4.333
+72335258,2026-11-03 01:15,CA Bucaramanga,Atletico Nacional,1,1,2.875,3.200,2.450
+75837450,2026-11-03 20:30,Deportivo Pereira FC SA,CD Tolima,1,3,5.250,3.300,1.750
+75837456,2026-11-03 23:20,AD Pasto,Jaguares de Cordoba,2,0,1.666,3.500,5.500
+76260818,2026-11-04 23:30,Cucuta Deportivo FC,Independiente Santa Fe,1,0,3.000,3.250,2.350
+75837454,2026-11-05 01:30,Millonarios FC,America de Cali,0,0,1.800,3.500,4.500
+76084768,2026-11-06 23:00,Boyaca Chico FC,Internacional de Bogota.,2,1,3.000,3.200,2.400
+76084766,2026-11-07 01:00,Fortaleza FC,Independiente Medellin,0,3,3.100,3.200,2.350
+75837156,2026-11-07 21:05,CD Once Caldas,Aguilas Doradas Rionegro,1,0,1.950,3.250,4.100
+75837172,2026-11-07 23:10,Atletico Nacional,Deportivo Pereira FC SA,4,3,1.166,6.500,17.000
+75865672,2026-11-08 01:45,America de Cali,Deportivo Cali,0,0,2.100,3.100,3.600
+75837180,2026-11-08 19:00,Independiente Santa Fe,AD Pasto,5,0,1.045,13.000,34.000
+75837182,2026-11-08 21:05,Jaguares de Cordoba,CA Bucaramanga,0,4,4.100,3.500,1.850
+75837166,2026-11-08 23:10,CD Tolima,Millonarios FC,2,1,2.500,3.200,2.800
+76084772,2026-11-09 01:15,Alianza FC Valledupar,Llaneros FC,1,2,2.300,3.000,3.400
+76084770,2026-11-10 00:00,CD Junior FC,Cucuta Deportivo FC,2,0,1.727,3.600,4.750

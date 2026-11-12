@@ -1,0 +1,247 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+56351895,2025-07-04 21:30,Recoleta FC,Sportivo Trinidense,2,4,,,
+56351887,2025-07-05 19:00,Cerro Porteno,Club General Caballero JLM,3,1,,,
+56351889,2025-07-05 21:30,Libertad Asuncion,Sportivo Luqueno,0,1,,,
+56351893,2025-07-06 19:00,Club Olimpia,Nacional Asuncion,1,1,,,
+56351891,2025-07-06 21:30,Club Guarani Asuncion,CS 2 de Mayo,3,1,,,
+56351897,2025-07-07 21:30,Sportivo Ameliano,CA Tembetary Ypane,1,0,,,
+61345725,2025-07-11 19:00,Sportivo Luqueno,Club General Caballero JLM,2,0,,,
+61345727,2025-07-11 21:30,CS 2 de Mayo,Libertad Asuncion,0,0,,,
+61345729,2025-07-12 18:30,Sportivo Ameliano,Cerro Porteno,0,1,,,
+61345731,2025-07-12 21:00,Nacional Asuncion,Club Guarani Asuncion,1,0,,,
+61345733,2025-07-13 21:30,Sportivo Trinidense,Club Olimpia,4,3,,,
+61345739,2025-07-14 21:30,CA Tembetary Ypane,Recoleta FC,2,3,,,
+61345745,2025-07-18 21:30,Club General Caballero JLM,CS 2 de Mayo,0,1,,,
+61345751,2025-07-19 19:00,Libertad Asuncion,Nacional Asuncion,0,1,,,
+61345757,2025-07-19 21:30,Club Olimpia,CA Tembetary Ypane,3,1,,,
+61345759,2025-07-20 19:00,Cerro Porteno,Sportivo Luqueno,0,0,,,
+61345761,2025-07-20 21:30,Club Guarani Asuncion,Sportivo Trinidense,0,0,,,
+61345763,2025-07-21 21:30,Recoleta FC,Sportivo Ameliano,3,1,,,
+61345765,2025-07-25 19:00,Nacional Asuncion,Club General Caballero JLM,3,0,,,
+61345767,2025-07-25 21:30,CS 2 de Mayo,Sportivo Luqueno,3,2,,,
+61345769,2025-07-26 19:00,Sportivo Trinidense,Libertad Asuncion,0,2,,,
+61345771,2025-07-26 21:30,Recoleta FC,Cerro Porteno,1,3,,,
+61345773,2025-07-27 18:30,Sportivo Ameliano,Club Olimpia,1,1,,,
+61345777,2025-07-27 21:00,CA Tembetary Ypane,Club Guarani Asuncion,0,1,,,
+61345779,2025-07-29 19:00,Club General Caballero JLM,Sportivo Trinidense,0,0,,,
+61345781,2025-07-29 21:30,Sportivo Luqueno,Nacional Asuncion,2,1,,,
+61345783,2025-07-30 20:30,Cerro Porteno,CS 2 de Mayo,3,2,,,
+61345785,2025-07-30 23:00,Club Olimpia,Recoleta FC,1,0,,,
+61345787,2025-07-31 19:00,Club Guarani Asuncion,Sportivo Ameliano,4,1,,,
+61345789,2025-07-31 21:30,Libertad Asuncion,CA Tembetary Ypane,3,1,,,
+62259908,2025-08-02 19:00,Sportivo Trinidense,Sportivo Luqueno,2,0,,,
+62259910,2025-08-02 21:30,Nacional Asuncion,CS 2 de Mayo,1,1,,,
+62259912,2025-08-03 19:00,Club Olimpia,Cerro Porteno,2,3,,,
+62259914,2025-08-04 19:00,Sportivo Ameliano,Libertad Asuncion,0,4,,,
+62259916,2025-08-04 21:30,Recoleta FC,Club Guarani Asuncion,2,3,,,
+62259918,2025-08-05 21:30,CA Tembetary Ypane,Club General Caballero JLM,0,1,,,
+62259922,2025-08-08 19:00,CS 2 de Mayo,Sportivo Trinidense,0,2,,,
+62259926,2025-08-08 21:30,Cerro Porteno,Nacional Asuncion,0,0,,,
+62259928,2025-08-09 19:00,Club General Caballero JLM,Sportivo Ameliano,3,2,,,
+62259930,2025-08-09 21:30,Sportivo Luqueno,CA Tembetary Ypane,5,1,,,
+62259932,2025-08-10 19:00,Club Guarani Asuncion,Club Olimpia,4,0,,,
+62259934,2025-08-10 21:30,Libertad Asuncion,Recoleta FC,1,1,,,
+62259936,2025-08-15 19:00,CA Tembetary Ypane,CS 2 de Mayo,1,1,,,
+62259938,2025-08-15 21:30,Recoleta FC,Club General Caballero JLM,0,0,,,
+62259940,2025-08-16 18:00,Sportivo Ameliano,Sportivo Luqueno,0,1,,,
+62259944,2025-08-16 21:30,Club Guarani Asuncion,Cerro Porteno,3,4,,,
+62259946,2025-08-17 19:00,Club Olimpia,Libertad Asuncion,0,0,,,
+62259948,2025-08-17 21:30,Sportivo Trinidense,Nacional Asuncion,0,2,,,
+62859623,2025-08-22 21:30,Nacional Asuncion,CA Tembetary Ypane,1,1,,,
+62859625,2025-08-23 19:00,CS 2 de Mayo,Sportivo Ameliano,1,1,,,
+62859627,2025-08-23 21:30,Sportivo Luqueno,Recoleta FC,0,0,,,
+62859629,2025-08-24 19:00,Club General Caballero JLM,Club Olimpia,2,0,,,
+62859727,2025-08-24 21:30,Cerro Porteno,Sportivo Trinidense,1,3,,,
+62859731,2025-08-25 21:30,Libertad Asuncion,Club Guarani Asuncion,0,4,,,
+62938529,2025-08-29 19:00,CA Tembetary Ypane,Sportivo Trinidense,3,0,,,
+62938531,2025-08-29 21:30,Sportivo Ameliano,Nacional Asuncion,3,0,,,
+62938533,2025-08-30 19:00,Recoleta FC,CS 2 de Mayo,2,0,,,
+62938535,2025-08-30 21:30,Club Olimpia,Sportivo Luqueno,2,0,,,
+62938537,2025-08-31 19:00,Libertad Asuncion,Cerro Porteno,1,1,,,
+62938539,2025-08-31 21:30,Club Guarani Asuncion,Club General Caballero JLM,4,0,,,
+62938619,2025-09-05 21:30,Sportivo Luqueno,Club Guarani Asuncion,2,3,,,
+62938621,2025-09-06 19:00,Nacional Asuncion,Recoleta FC,1,0,,,
+62938623,2025-09-06 21:30,Club General Caballero JLM,Libertad Asuncion,0,0,,,
+62938625,2025-09-07 19:00,CS 2 de Mayo,Club Olimpia,3,2,,,
+62938707,2025-09-08 21:30,Sportivo Trinidense,Sportivo Ameliano,1,0,,,
+63257207,2025-09-12 19:30,CA Tembetary Ypane,Sportivo Ameliano,2,3,,,
+63257219,2025-09-12 22:00,CS 2 de Mayo,Club Guarani Asuncion,1,0,,,
+63257217,2025-09-13 19:30,Club General Caballero JLM,Cerro Porteno,2,1,,,
+63257211,2025-09-13 22:00,Sportivo Luqueno,Libertad Asuncion,1,4,,,
+63257213,2025-09-14 18:30,Nacional Asuncion,Club Olimpia,4,1,,,
+63257221,2025-09-14 22:00,Sportivo Trinidense,Recoleta FC,2,3,,,
+63575277,2025-09-17 22:00,Cerro Porteno,CA Tembetary Ypane,1,1,,,
+63689053,2025-09-19 19:30,Club General Caballero JLM,Sportivo Luqueno,5,2,,,
+63689055,2025-09-19 22:00,Club Olimpia,Sportivo Trinidense,1,1,,,
+63689057,2025-09-20 19:30,Recoleta FC,CA Tembetary Ypane,3,1,,,
+63689059,2025-09-20 22:00,Cerro Porteno,Sportivo Ameliano,2,0,,,
+63689061,2025-09-21 19:30,Club Guarani Asuncion,Nacional Asuncion,2,0,,,
+63689063,2025-09-21 22:00,Libertad Asuncion,CS 2 de Mayo,0,1,,,
+63689069,2025-09-26 22:00,Sportivo Trinidense,Club Guarani Asuncion,1,1,,,
+63689065,2025-09-27 20:00,Sportivo Luqueno,Cerro Porteno,0,1,,,
+63689067,2025-09-27 22:30,Nacional Asuncion,Libertad Asuncion,3,1,,,
+63689071,2025-09-28 18:30,CS 2 de Mayo,Club General Caballero JLM,2,0,,,
+63689073,2025-09-29 20:00,Sportivo Ameliano,Recoleta FC,1,4,,,
+63689075,2025-09-29 22:30,CA Tembetary Ypane,Club Olimpia,0,2,,,
+63689079,2025-10-03 20:30,Sportivo Luqueno,CS 2 de Mayo,0,3,,,
+63689087,2025-10-03 23:00,Cerro Porteno,Recoleta FC,2,0,,,
+63689077,2025-10-04 22:00,Club Olimpia,Sportivo Ameliano,2,1,,,
+63689083,2025-10-05 20:30,Club Guarani Asuncion,CA Tembetary Ypane,1,0,,,
+63689081,2025-10-05 23:00,Libertad Asuncion,Sportivo Trinidense,0,0,,,
+63689085,2025-10-06 21:30,Club General Caballero JLM,Nacional Asuncion,1,1,,,
+63689097,2025-10-10 20:30,Recoleta FC,Club Olimpia,1,0,,,
+63689099,2025-10-10 23:00,Sportivo Trinidense,Club General Caballero JLM,2,0,,,
+63689089,2025-10-11 20:30,CS 2 de Mayo,Cerro Porteno,0,0,,,
+63689093,2025-10-11 23:00,CA Tembetary Ypane,Libertad Asuncion,2,1,,,
+63689091,2025-10-12 20:30,Sportivo Ameliano,Club Guarani Asuncion,1,1,,,
+63689095,2025-10-12 23:00,Nacional Asuncion,Sportivo Luqueno,1,1,,,
+63689105,2025-10-16 21:30,Club General Caballero JLM,CA Tembetary Ypane,1,1,,,
+63689111,2025-10-17 20:30,Sportivo Luqueno,Sportivo Trinidense,1,0,,,
+63689101,2025-10-17 23:00,CS 2 de Mayo,Nacional Asuncion,1,0,,,
+63689109,2025-10-18 20:30,Libertad Asuncion,Sportivo Ameliano,1,2,,,
+63689107,2025-10-18 23:00,Club Guarani Asuncion,Recoleta FC,2,1,,,
+63689103,2025-10-19 20:30,Cerro Porteno,Club Olimpia,1,1,,,
+63689121,2025-10-25 20:30,CA Tembetary Ypane,Sportivo Luqueno,1,1,,,
+63689115,2025-10-25 23:00,Sportivo Trinidense,CS 2 de Mayo,2,1,,,
+63689123,2025-10-26 20:30,Club Olimpia,Club Guarani Asuncion,1,3,,,
+63689113,2025-10-26 23:00,Recoleta FC,Libertad Asuncion,2,2,,,
+63689117,2025-10-27 20:30,Sportivo Ameliano,Club General Caballero JLM,1,4,,,
+63689119,2025-10-27 23:00,Nacional Asuncion,Cerro Porteno,1,2,,,
+63689129,2025-10-31 20:30,Club General Caballero JLM,Recoleta FC,1,3,,,
+63689125,2025-10-31 23:00,CS 2 de Mayo,CA Tembetary Ypane,0,1,,,
+63689133,2025-11-01 20:30,Nacional Asuncion,Sportivo Trinidense,0,0,,,
+63689131,2025-11-01 23:00,Libertad Asuncion,Club Olimpia,2,2,,,
+63689135,2025-11-02 20:30,Sportivo Luqueno,Sportivo Ameliano,0,1,,,
+63689127,2025-11-02 23:00,Cerro Porteno,Club Guarani Asuncion,1,0,,,
+63689137,2025-11-07 21:30,Recoleta FC,Sportivo Luqueno,2,3,,,
+63689141,2025-11-08 21:00,Club Olimpia,Club General Caballero JLM,1,1,,,
+63689139,2025-11-09 21:00,Sportivo Trinidense,Cerro Porteno,0,0,,,
+63689143,2025-11-09 21:00,Club Guarani Asuncion,Libertad Asuncion,1,2,,,
+63689147,2025-11-10 20:00,Sportivo Ameliano,CS 2 de Mayo,2,3,,,
+63689145,2025-11-10 22:30,CA Tembetary Ypane,Nacional Asuncion,0,2,,,
+63689159,2025-11-20 20:00,Sportivo Trinidense,CA Tembetary Ypane,1,1,,,
+63689155,2025-11-20 22:30,Nacional Asuncion,Sportivo Ameliano,2,0,,,
+63689157,2025-11-21 20:00,Sportivo Luqueno,Club Olimpia,2,4,,,
+63689149,2025-11-21 22:30,CS 2 de Mayo,Recoleta FC,0,2,,,
+63689151,2025-11-23 21:00,Cerro Porteno,Libertad Asuncion,1,0,,,
+63689153,2025-11-23 21:00,Club General Caballero JLM,Club Guarani Asuncion,0,2,,,
+63689161,2025-11-26 20:00,Sportivo Ameliano,Sportivo Trinidense,0,0,,,
+63689169,2025-11-26 22:30,Club Olimpia,CS 2 de Mayo,3,3,,,
+63689167,2025-11-27 20:30,Libertad Asuncion,Club General Caballero JLM,2,0,,,
+63689171,2025-11-27 23:00,Recoleta FC,Nacional Asuncion,0,0,,,
+66056626,2025-11-30 21:00,Club Guarani Asuncion,Sportivo Luqueno,2,1,,,
+66056634,2025-11-30 21:00,CA Tembetary Ypane,Cerro Porteno,0,2,,,
+66803136,2026-07-24 19:00,CS 2 de Mayo,Rubio Nu,1,0,2.250,2.900,3.000
+66802972,2026-07-24 21:30,Cerro Porteno,Sportivo Trinidense,1,2,,,
+66802976,2026-07-25 19:00,Recoleta FC,Sportivo San Lorenzo,1,1,,,
+66803134,2026-07-25 21:30,Sportivo Ameliano,Nacional Asuncion,1,1,,,
+66802978,2026-07-26 19:00,Club Olimpia,Libertad Asuncion,0,1,1.900,3.200,3.600
+66802974,2026-07-26 21:30,Club Guarani Asuncion,Sportivo Luqueno,1,2,1.950,3.200,3.500
+73038446,2026-07-28 19:00,Rubio Nu,Sportivo Ameliano,1,1,2.900,2.900,2.350
+73038448,2026-07-28 21:30,CS 2 de Mayo,Cerro Porteno,2,1,4.200,3.200,1.750
+73038450,2026-07-29 19:00,Sportivo Luqueno,Sportivo Trinidense,1,4,3.000,3.250,2.100
+73038452,2026-07-29 21:30,Nacional Asuncion,Club Olimpia,2,0,3.000,3.200,2.150
+73038454,2026-07-30 19:00,Sportivo San Lorenzo,Club Guarani Asuncion,0,1,3.700,3.100,1.950
+73038456,2026-07-30 21:30,Libertad Asuncion,Recoleta FC,4,1,1.727,3.400,4.200
+73038458,2026-08-01 19:00,Sportivo Ameliano,CS 2 de Mayo,1,1,1.950,3.100,3.800
+73038460,2026-08-01 21:30,Cerro Porteno,Sportivo Luqueno,3,0,1.444,3.900,7.000
+73038462,2026-08-02 19:00,Club Olimpia,Rubio Nu,5,0,1.615,3.900,4.100
+73038464,2026-08-02 21:30,Club Guarani Asuncion,Libertad Asuncion,2,1,2.900,3.000,2.250
+73038466,2026-08-03 19:00,Sportivo Trinidense,Sportivo San Lorenzo,3,0,1.500,3.500,6.250
+73038468,2026-08-03 21:30,Recoleta FC,Nacional Asuncion,3,2,3.600,3.100,1.900
+73038474,2026-08-07 21:30,Rubio Nu,Recoleta FC,1,3,2.200,3.100,3.000
+73038472,2026-08-08 19:00,Sportivo Ameliano,Cerro Porteno,1,0,3.500,3.000,2.050
+73038470,2026-08-08 21:30,CS 2 de Mayo,Club Olimpia,1,0,4.500,3.400,1.666
+73038480,2026-08-09 19:00,Sportivo San Lorenzo,Sportivo Luqueno,0,2,2.700,3.200,2.375
+73038476,2026-08-09 21:30,Nacional Asuncion,Club Guarani Asuncion,0,0,2.000,3.100,3.400
+73038478,2026-08-10 21:30,Libertad Asuncion,Sportivo Trinidense,2,1,2.050,3.000,3.400
+73038484,2026-08-14 21:30,Recoleta FC,CS 2 de Mayo,1,2,2.550,3.000,2.500
+73038482,2026-08-15 19:00,Club Guarani Asuncion,Rubio Nu,2,3,2.150,3.000,3.200
+73038490,2026-08-15 21:30,Sportivo Trinidense,Nacional Asuncion,1,1,2.600,3.000,2.550
+73038486,2026-08-16 13:00,Cerro Porteno,Sportivo San Lorenzo,1,0,1.363,4.000,8.000
+73038488,2026-08-16 19:00,Sportivo Luqueno,Libertad Asuncion,1,2,3.900,3.400,1.750
+73038492,2026-08-16 21:30,Club Olimpia,Sportivo Ameliano,2,1,1.750,3.200,4.200
+73038502,2026-08-21 21:30,Rubio Nu,Sportivo Trinidense,0,0,3.300,3.100,2.050
+73038494,2026-08-22 19:00,Sportivo Ameliano,Recoleta FC,3,1,1.900,3.200,3.700
+73038498,2026-08-23 19:00,Club Olimpia,Cerro Porteno,2,1,1.950,3.100,3.700
+73038500,2026-08-24 19:00,Nacional Asuncion,Sportivo Luqueno,2,0,2.050,3.000,3.400
+73038504,2026-08-24 21:30,Libertad Asuncion,Sportivo San Lorenzo,1,0,1.333,4.333,7.500
+73038496,2026-08-25 21:30,CS 2 de Mayo,Club Guarani Asuncion,0,0,2.800,2.900,2.400
+73038506,2026-08-28 19:00,Sportivo Luqueno,Rubio Nu,2,1,2.200,3.100,2.875
+73038514,2026-08-28 21:30,Sportivo San Lorenzo,Nacional Asuncion,0,3,4.000,3.200,1.800
+73038508,2026-08-29 19:00,Sportivo Trinidense,CS 2 de Mayo,0,1,1.909,3.200,3.700
+73832714,2026-08-29 21:30,Recoleta FC,Club Olimpia,1,2,5.000,3.700,1.550
+73038510,2026-08-30 19:00,Cerro Porteno,Libertad Asuncion,1,1,2.300,3.100,2.900
+73038512,2026-08-30 21:30,Club Guarani Asuncion,Sportivo Ameliano,1,1,1.900,3.300,3.750
+73038528,2026-09-01 19:00,Rubio Nu,Sportivo San Lorenzo,3,1,2.200,3.000,3.000
+73038526,2026-09-01 21:30,CS 2 de Mayo,Sportivo Luqueno,2,2,1.950,3.250,3.600
+73038520,2026-09-02 19:00,Sportivo Ameliano,Sportivo Trinidense,0,3,2.600,3.100,2.375
+73038522,2026-09-02 19:00,Nacional Asuncion,Libertad Asuncion,3,0,2.625,3.000,2.400
+73038524,2026-09-02 21:30,Club Olimpia,Club Guarani Asuncion,1,1,1.650,3.500,4.500
+73038518,2026-09-03 21:30,Recoleta FC,Cerro Porteno,1,3,3.700,3.300,1.850
+73038540,2026-09-05 21:30,Sportivo San Lorenzo,CS 2 de Mayo,1,2,3.700,3.100,1.950
+73038530,2026-09-06 13:00,Sportivo Trinidense,Club Olimpia,1,2,3.000,3.250,2.150
+73038534,2026-09-06 19:00,Libertad Asuncion,Rubio Nu,4,2,1.571,3.700,4.750
+73038536,2026-09-06 21:30,Sportivo Luqueno,Sportivo Ameliano,1,2,2.625,3.250,2.400
+73038532,2026-09-07 19:00,Club Guarani Asuncion,Recoleta FC,2,0,1.850,3.400,3.700
+73038538,2026-09-07 21:30,Cerro Porteno,Nacional Asuncion,1,0,2.250,2.900,3.000
+73038550,2026-09-11 19:00,Sportivo Ameliano,Sportivo San Lorenzo,1,0,1.666,3.400,4.500
+73038548,2026-09-11 21:30,CS 2 de Mayo,Libertad Asuncion,0,2,3.700,3.200,1.900
+73038546,2026-09-12 19:00,Club Guarani Asuncion,Cerro Porteno,1,1,3.000,3.000,2.300
+73038542,2026-09-12 21:30,Recoleta FC,Sportivo Trinidense,1,3,2.875,3.200,2.200
+73038544,2026-09-13 19:00,Club Olimpia,Sportivo Luqueno,3,0,1.400,4.100,6.500
+73038552,2026-09-13 21:30,Rubio Nu,Nacional Asuncion,0,1,3.100,3.100,2.150
+73038554,2026-09-18 19:00,Sportivo Trinidense,Club Guarani Asuncion,0,1,2.300,3.000,2.900
+73038560,2026-09-18 21:30,Nacional Asuncion,CS 2 de Mayo,3,0,1.615,3.400,5.000
+73038562,2026-09-19 19:00,Libertad Asuncion,Sportivo Ameliano,1,1,1.571,3.600,5.000
+73038556,2026-09-19 21:30,Cerro Porteno,Rubio Nu,1,0,1.615,3.400,5.000
+73038564,2026-09-20 19:00,Sportivo San Lorenzo,Club Olimpia,0,3,7.000,4.100,1.380
+73038558,2026-09-20 21:30,Sportivo Luqueno,Recoleta FC,1,0,2.100,3.300,2.900
+73038568,2026-09-25 19:30,Sportivo Luqueno,Club Guarani Asuncion,0,1,3.200,3.200,2.050
+73038576,2026-09-25 22:00,Nacional Asuncion,Sportivo Ameliano,1,1,1.800,3.200,4.100
+73038572,2026-09-26 19:30,Rubio Nu,CS 2 de Mayo,2,2,2.500,3.100,2.500
+73038574,2026-09-26 22:00,Sportivo Trinidense,Cerro Porteno,2,1,3.000,3.000,2.250
+73038566,2026-09-28 20:00,Sportivo San Lorenzo,Recoleta FC,0,0,3.100,3.250,2.100
+73038570,2026-09-28 22:15,Libertad Asuncion,Club Olimpia,0,1,,,
+73038588,2026-10-03 20:00,Club Guarani Asuncion,Sportivo San Lorenzo,1,1,1.400,4.000,6.500
+73038578,2026-10-03 22:15,Recoleta FC,Libertad Asuncion,1,2,4.100,3.500,1.700
+73038582,2026-10-05 20:00,Sportivo Trinidense,Sportivo Luqueno,3,2,1.750,3.300,4.000
+73038580,2026-10-05 22:15,Cerro Porteno,CS 2 de Mayo,0,2,1.500,3.600,6.000
+73038586,2026-10-06 20:00,Sportivo Ameliano,Rubio Nu,1,2,2.250,3.000,2.900
+73038584,2026-10-06 22:15,Club Olimpia,Nacional Asuncion,1,1,1.900,3.400,3.300
+73038590,2026-10-10 20:00,Sportivo San Lorenzo,Sportivo Trinidense,1,1,9.000,4.200,1.300
+73038592,2026-10-10 22:20,Sportivo Luqueno,Cerro Porteno,0,3,4.000,3.400,1.750
+73038600,2026-10-11 20:00,Rubio Nu,Club Olimpia,0,0,4.100,3.400,1.727
+73038594,2026-10-11 22:20,Libertad Asuncion,Club Guarani Asuncion,2,2,1.850,3.250,3.800
+73038596,2026-10-12 20:00,CS 2 de Mayo,Sportivo Ameliano,1,0,2.550,3.100,2.550
+73038598,2026-10-12 22:20,Nacional Asuncion,Recoleta FC,1,0,1.615,3.400,5.000
+73038608,2026-10-16 22:20,Recoleta FC,Rubio Nu,1,0,2.550,3.200,2.450
+73038612,2026-10-17 20:00,Club Guarani Asuncion,Nacional Asuncion,0,2,2.750,3.000,2.375
+73038604,2026-10-17 22:20,Club Olimpia,CS 2 de Mayo,3,0,1.363,4.200,7.000
+73038602,2026-10-18 20:00,Cerro Porteno,Sportivo Ameliano,2,2,1.600,3.600,4.750
+73038606,2026-10-18 22:20,Sportivo Trinidense,Libertad Asuncion,1,0,2.800,3.250,2.200
+73038610,2026-10-18 22:20,Sportivo Luqueno,Sportivo San Lorenzo,3,2,1.800,3.300,3.900
+73038624,2026-10-23 20:00,Rubio Nu,Club Guarani Asuncion,0,2,2.875,3.100,2.300
+73038616,2026-10-23 22:30,Libertad Asuncion,Sportivo Luqueno,1,0,1.444,3.900,6.000
+73038618,2026-10-24 20:00,Nacional Asuncion,Sportivo Trinidense,0,1,2.100,3.100,3.200
+73038622,2026-10-24 22:30,CS 2 de Mayo,Recoleta FC,1,1,,,
+73038620,2026-10-25 13:00,Sportivo Ameliano,Club Olimpia,2,3,4.200,3.500,1.666
+73038614,2026-10-25 22:30,Sportivo San Lorenzo,Cerro Porteno,1,3,6.000,4.200,1.420
+73038626,2026-10-30 22:30,Sportivo Trinidense,Rubio Nu,2,4,1.850,3.400,3.900
+73038636,2026-10-30 22:30,Club Guarani Asuncion,CS 2 de Mayo,1,0,1.850,3.250,4.000
+73038632,2026-10-31 20:00,Recoleta FC,Sportivo Ameliano,3,0,2.550,3.200,2.550
+73038628,2026-10-31 22:30,Sportivo Luqueno,Nacional Asuncion,0,3,3.800,3.250,1.900
+73038630,2026-10-31 22:30,Sportivo San Lorenzo,Libertad Asuncion,2,1,8.000,5.250,1.300
+73038634,2026-11-01 20:00,Cerro Porteno,Club Olimpia,0,2,2.900,3.250,2.200
+73038640,2026-11-03 20:00,CS 2 de Mayo,Sportivo Trinidense,0,0,3.100,3.100,2.150
+73038648,2026-11-03 22:30,Nacional Asuncion,Sportivo San Lorenzo,0,2,1.285,4.500,9.000
+73038638,2026-11-04 22:00,Sportivo Ameliano,Club Guarani Asuncion,0,1,2.625,3.200,2.375
+73038642,2026-11-04 22:00,Libertad Asuncion,Cerro Porteno,0,1,2.150,3.200,3.000
+73038646,2026-11-05 00:15,Club Olimpia,Recoleta FC,4,1,1.285,4.750,7.500
+73038644,2026-11-05 22:00,Rubio Nu,Sportivo Luqueno,0,5,2.050,3.200,3.250
+73038660,2026-11-07 20:00,Club Guarani Asuncion,Club Olimpia,1,3,3.300,3.300,2.050
+73038654,2026-11-07 22:30,Libertad Asuncion,Nacional Asuncion,3,0,2.050,3.400,3.250
+73038658,2026-11-08 20:00,Cerro Porteno,Recoleta FC,1,1,1.300,5.000,8.500
+73038650,2026-11-08 22:30,Sportivo Trinidense,Sportivo Ameliano,3,0,1.750,3.500,4.100
+73038656,2026-11-09 20:00,Sportivo San Lorenzo,Rubio Nu,2,2,3.500,3.300,1.850
+73038652,2026-11-09 22:30,Sportivo Luqueno,CS 2 de Mayo,3,0,2.375,3.100,2.700

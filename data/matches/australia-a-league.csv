@@ -1,0 +1,190 @@
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
+60477737,2025-05-24 06:00,Auckland FC,Melbourne Victory,0,2,,,
+60472535,2025-05-24 09:35,Melbourne City FC,Western United FC,1,1,,,
+60780309,2025-05-31 09:40,Melbourne City FC,Melbourne Victory,1,0,,,
+63684367,2025-10-17 08:00,Adelaide United FC,Sydney FC,2,1,,,
+63684369,2025-10-17 10:05,Brisbane Roar FC,Macarthur FC,1,0,,,
+63684371,2025-10-18 06:00,Western Sydney Wanderers,Melbourne City FC,1,1,,,
+63684373,2025-10-18 08:35,Melbourne Victory,Auckland FC,0,0,,,
+63684375,2025-10-18 10:45,Perth Glory FC,Wellington Phoenix FC,2,2,,,
+63684377,2025-10-19 04:00,Central Coast Mariners,Newcastle United Jets,3,2,,,
+63684379,2025-10-24 08:35,Newcastle United Jets,Melbourne Victory,5,2,,,
+63684381,2025-10-25 04:00,Auckland FC,Western Sydney Wanderers,1,0,,,
+63684383,2025-10-25 06:00,Melbourne City FC,Perth Glory FC,4,0,,,
+63684385,2025-10-25 08:35,Sydney FC,Central Coast Mariners,2,0,,,
+63684387,2025-10-26 02:00,Wellington Phoenix FC,Brisbane Roar FC,2,1,,,
+63684389,2025-10-27 08:00,Macarthur FC,Adelaide United FC,2,1,,,
+63684391,2025-10-31 08:35,Brisbane Roar FC,Melbourne City FC,0,0,,,
+63684393,2025-10-31 10:45,Perth Glory FC,Melbourne Victory,0,2,,,
+63684395,2025-11-01 04:00,Auckland FC,Adelaide United FC,2,1,,,
+63684397,2025-11-01 06:00,Newcastle United Jets,Sydney FC,1,4,,,
+63684399,2025-11-01 08:35,Macarthur FC,Western Sydney Wanderers,1,1,,,
+63684401,2025-11-02 06:00,Central Coast Mariners,Wellington Phoenix FC,1,1,,,
+63684405,2025-11-07 08:35,Adelaide United FC,Western Sydney Wanderers,2,0,,,
+63684407,2025-11-07 10:45,Perth Glory FC,Central Coast Mariners,0,1,,,
+63684409,2025-11-08 06:00,Wellington Phoenix FC,Auckland FC,1,2,,,
+63684411,2025-11-08 08:35,Melbourne Victory,Melbourne City FC,0,2,,,
+63684413,2025-11-09 04:00,Sydney FC,Macarthur FC,2,0,,,
+64935232,2025-11-09 06:00,Brisbane Roar FC,Newcastle United Jets,3,0,,,
+63684415,2025-11-21 08:35,Adelaide United FC,Melbourne City FC,4,1,,,
+63684417,2025-11-22 04:00,Wellington Phoenix FC,Macarthur FC,0,1,,,
+63684419,2025-11-22 06:00,Western Sydney Wanderers,Central Coast Mariners,3,2,,,
+63684421,2025-11-22 08:35,Sydney FC,Melbourne Victory,3,0,,,
+63684423,2025-11-23 02:00,Auckland FC,Brisbane Roar FC,1,1,,,
+63684425,2025-11-23 06:00,Newcastle United Jets,Perth Glory FC,1,2,,,
+63684427,2025-11-28 08:35,Brisbane Roar FC,Melbourne Victory,1,0,,,
+63684429,2025-11-29 04:00,Wellington Phoenix FC,Adelaide United FC,2,1,,,
+63684431,2025-11-29 06:00,Central Coast Mariners,Melbourne City FC,0,0,,,
+63684433,2025-11-29 08:35,Western Sydney Wanderers,Sydney FC,1,0,,,
+63684435,2025-11-30 02:00,Auckland FC,Newcastle United Jets,1,2,,,
+63684437,2025-11-30 07:00,Macarthur FC,Perth Glory FC,0,2,,,
+63684439,2025-12-05 08:35,Macarthur FC,Melbourne Victory,0,0,,,
+63684441,2025-12-05 10:45,Perth Glory FC,Western Sydney Wanderers,1,0,,,
+63684443,2025-12-06 04:00,Auckland FC,Wellington Phoenix FC,3,1,,,
+63684445,2025-12-06 06:00,Newcastle United Jets,Melbourne City FC,0,1,,,
+63684447,2025-12-06 08:35,Central Coast Mariners,Sydney FC,1,2,,,
+63684449,2025-12-07 08:35,Adelaide United FC,Brisbane Roar FC,0,1,,,
+63684453,2025-12-12 08:35,Central Coast Mariners,Auckland FC,1,2,3.800,3.800,1.850
+63684455,2025-12-13 06:00,Western Sydney Wanderers,Brisbane Roar FC,0,0,2.200,3.750,3.000
+63684457,2025-12-13 08:35,Melbourne Victory,Adelaide United FC,2,1,2.300,4.000,2.750
+63684459,2025-12-13 10:45,Perth Glory FC,Sydney FC,0,1,2.875,3.600,2.350
+63684461,2025-12-14 02:00,Wellington Phoenix FC,Newcastle United Jets,1,3,2.900,4.100,2.100
+63684473,2025-12-19 07:00,Macarthur FC,Brisbane Roar FC,2,1,2.625,3.400,2.625
+63684463,2025-12-19 09:00,Western Sydney Wanderers,Auckland FC,0,2,2.450,3.700,2.700
+63684465,2025-12-20 06:00,Newcastle United Jets,Sydney FC,2,0,2.750,4.100,2.300
+63684467,2025-12-20 08:35,Melbourne City FC,Melbourne Victory,0,1,2.150,3.600,3.200
+63684469,2025-12-20 10:45,Perth Glory FC,Adelaide United FC,0,1,2.700,3.600,2.450
+63684471,2025-12-21 02:00,Wellington Phoenix FC,Central Coast Mariners,3,1,2.150,3.500,3.250
+65420156,2025-12-23 08:15,Melbourne City FC,Macarthur FC,1,1,1.500,4.500,6.000
+63684475,2025-12-26 08:35,Newcastle United Jets,Macarthur FC,4,5,1.833,4.333,3.500
+63684479,2025-12-27 08:35,Adelaide United FC,Western Sydney Wanderers,3,2,2.700,3.700,2.375
+63684481,2025-12-28 08:00,Melbourne City FC,Perth Glory FC,1,3,1.615,4.100,5.000
+63684483,2025-12-29 08:00,Melbourne Victory,Wellington Phoenix FC,5,1,1.480,4.750,5.750
+63684485,2025-12-31 08:00,Central Coast Mariners,Brisbane Roar FC,1,2,3.600,3.400,2.100
+63684511,2026-01-01 04:00,Auckland FC,Newcastle United Jets,1,3,1.615,4.500,4.500
+63684559,2026-01-01 08:00,Western Sydney Wanderers,Macarthur FC,0,1,1.800,4.000,3.900
+63684561,2026-01-02 08:35,Melbourne Victory,Perth Glory FC,3,2,1.750,4.100,4.100
+63684563,2026-01-03 06:00,Brisbane Roar FC,Wellington Phoenix FC,0,3,1.533,4.333,6.000
+63684681,2026-01-03 08:35,Melbourne City FC,Sydney FC,0,0,2.000,3.800,3.400
+63684565,2026-01-04 08:35,Adelaide United FC,Central Coast Mariners,0,4,1.900,3.800,3.700
+63684629,2026-01-05 08:00,Macarthur FC,Auckland FC,1,1,3.500,3.900,1.909
+63684665,2026-01-06 08:00,Melbourne City FC,Brisbane Roar FC,1,0,1.727,3.750,4.750
+63684567,2026-01-09 08:35,Brisbane Roar FC,Auckland FC,0,2,3.900,3.500,1.950
+63684569,2026-01-10 06:00,Melbourne Victory,Western Sydney Wanderers,0,1,2.150,3.800,3.100
+63684571,2026-01-10 08:35,Macarthur FC,Sydney FC,0,3,2.800,3.600,2.350
+63684573,2026-01-10 10:45,Perth Glory FC,Central Coast Mariners,3,0,1.666,4.000,4.750
+63684575,2026-01-11 02:00,Wellington Phoenix FC,Adelaide United FC,2,2,2.500,3.900,2.500
+63684577,2026-01-11 06:00,Melbourne City FC,Newcastle United Jets,0,1,1.727,4.500,4.100
+63684579,2026-01-16 08:35,Melbourne City FC,Auckland FC,2,1,2.600,3.200,2.800
+63684581,2026-01-16 10:45,Perth Glory FC,Brisbane Roar FC,1,2,1.909,3.800,3.800
+63684583,2026-01-17 06:00,Western Sydney Wanderers,Newcastle United Jets,1,2,2.200,4.100,2.875
+63684585,2026-01-17 07:00,Central Coast Mariners,Macarthur FC,1,1,3.300,,2.100
+63684587,2026-01-17 08:35,Adelaide United FC,Melbourne Victory,2,1,3.100,3.800,2.100
+63684589,2026-01-18 06:00,Sydney FC,Wellington Phoenix FC,0,2,1.571,4.500,5.000
+63684591,2026-01-23 08:35,Newcastle United Jets,Wellington Phoenix FC,4,1,1.666,4.750,4.100
+63684593,2026-01-24 04:00,Auckland FC,Central Coast Mariners,2,2,1.333,5.500,8.000
+63684595,2026-01-24 06:00,Brisbane Roar FC,Adelaide United FC,2,3,1.950,3.750,3.600
+63684597,2026-01-24 08:35,Macarthur FC,Melbourne City FC,6,2,3.200,3.300,2.300
+63684599,2026-01-25 08:00,Western Sydney Wanderers,Perth Glory FC,1,0,1.950,3.900,3.500
+63684601,2026-01-26 06:40,Melbourne Victory,Sydney FC,4,0,2.200,3.600,3.100
+63684603,2026-01-30 06:00,Wellington Phoenix FC,Melbourne City FC,2,2,3.400,3.700,2.050
+63684605,2026-01-30 09:05,Adelaide United FC,Macarthur FC,1,1,2.800,3.900,2.300
+63684607,2026-01-31 06:00,Newcastle United Jets,Brisbane Roar FC,4,1,2.050,3.900,3.200
+63684609,2026-01-31 08:35,Sydney FC,Western Sydney Wanderers,4,1,3.000,3.500,2.300
+63684611,2026-01-31 10:45,Perth Glory FC,Auckland FC,2,1,3.300,3.600,2.100
+63684613,2026-02-01 06:00,Central Coast Mariners,Melbourne Victory,1,0,5.000,4.333,1.600
+63684615,2026-02-06 06:00,Wellington Phoenix FC,Melbourne Victory,2,3,3.600,3.900,1.909
+63684617,2026-02-06 08:35,Macarthur FC,Perth Glory FC,2,2,1.909,3.900,3.600
+63684619,2026-02-07 04:00,Auckland FC,Sydney FC,1,0,1.727,3.900,4.333
+63684621,2026-02-07 06:00,Brisbane Roar FC,Central Coast Mariners,1,2,1.727,3.800,4.500
+63684623,2026-02-07 08:35,Western Sydney Wanderers,Melbourne City FC,1,1,2.625,3.400,2.700
+63684625,2026-02-08 06:00,Adelaide United FC,Newcastle United Jets,2,3,3.000,4.200,2.000
+63684631,2026-02-13 08:35,Western Sydney Wanderers,Wellington Phoenix FC,2,2,1.666,4.200,4.500
+63684633,2026-02-13 10:45,Perth Glory FC,Newcastle United Jets,1,3,3.100,4.000,2.050
+63684635,2026-02-14 06:00,Melbourne Victory,Brisbane Roar FC,1,1,1.615,4.000,5.250
+63684637,2026-02-14 08:35,Sydney FC,Adelaide United FC,1,2,1.650,4.500,4.333
+68422828,2026-02-17 08:00,Sydney FC,Auckland FC,1,1,2.700,3.500,2.500
+63684639,2026-02-20 08:35,Adelaide United FC,Perth Glory FC,4,0,1.850,4.200,3.500
+63684641,2026-02-21 04:00,Wellington Phoenix FC,Auckland FC,0,5,3.600,3.750,1.950
+63684643,2026-02-21 06:00,Sydney FC,Brisbane Roar FC,1,0,1.615,4.100,5.000
+63684645,2026-02-21 08:35,Melbourne City FC,Melbourne Victory,1,3,2.300,3.600,2.900
+63684647,2026-02-22 06:00,Central Coast Mariners,Western Sydney Wanderers,3,2,4.333,4.200,1.727
+63684649,2026-02-22 07:00,Newcastle United Jets,Macarthur FC,1,0,1.727,4.500,3.800
+63684651,2026-02-27 08:35,Melbourne Victory,Adelaide United FC,1,1,1.600,4.333,5.000
+63684653,2026-02-28 04:00,Auckland FC,Melbourne City FC,3,0,2.200,3.300,3.300
+63684655,2026-02-28 06:00,Central Coast Mariners,Newcastle United Jets,0,0,4.500,4.333,1.666
+63684657,2026-02-28 07:00,Brisbane Roar FC,Perth Glory FC,1,1,2.100,3.300,3.600
+63684659,2026-02-28 08:35,Macarthur FC,Western Sydney Wanderers,0,4,2.500,3.600,2.625
+63684661,2026-03-01 02:00,Wellington Phoenix FC,Sydney FC,0,1,3.500,4.000,1.909
+69159172,2026-03-04 08:00,Macarthur FC,Central Coast Mariners,1,3,,,
+63684667,2026-03-06 08:35,Adelaide United FC,Wellington Phoenix FC,1,1,1.666,4.500,4.100
+63684669,2026-03-07 06:00,Newcastle United Jets,Western Sydney Wanderers,2,1,2.300,4.000,2.700
+63684671,2026-03-07 08:35,Sydney FC,Melbourne Victory,2,2,2.500,3.600,2.625
+63684673,2026-03-08 02:00,Auckland FC,Perth Glory FC,2,2,1.444,4.750,6.500
+63684677,2026-03-13 08:00,Brisbane Roar FC,Western Sydney Wanderers,2,2,2.600,3.600,2.600
+63684675,2026-03-14 02:00,Wellington Phoenix FC,Perth Glory FC,2,0,2.400,3.600,2.700
+63684679,2026-03-14 04:00,Central Coast Mariners,Adelaide United FC,1,1,2.875,3.800,2.250
+63684683,2026-03-14 06:00,Newcastle United Jets,Auckland FC,1,2,2.550,3.800,2.500
+63684685,2026-03-15 08:00,Melbourne Victory,Macarthur FC,4,1,1.950,3.900,3.500
+65420226,2026-03-17 08:00,Sydney FC,Melbourne City FC,0,1,2.450,3.600,2.700
+63684687,2026-03-20 08:35,Western Sydney Wanderers,Adelaide United FC,2,4,,,
+63684689,2026-03-21 02:00,Auckland FC,Macarthur FC,1,2,1.650,4.200,5.000
+63684691,2026-03-21 04:00,Brisbane Roar FC,Wellington Phoenix FC,1,2,2.150,3.500,3.400
+63684693,2026-03-21 06:10,Melbourne Victory,Central Coast Mariners,4,1,1.444,4.750,7.000
+63684695,2026-03-22 04:00,Sydney FC,Newcastle United Jets,1,2,1.950,4.100,3.300
+63684697,2026-03-22 08:00,Perth Glory FC,Melbourne City FC,1,1,4.100,3.600,1.850
+63684699,2026-04-02 08:35,Macarthur FC,Newcastle United Jets,3,2,2.150,4.100,2.800
+63684705,2026-04-02 10:00,Brisbane Roar FC,Sydney FC,0,0,2.700,3.500,2.450
+63684701,2026-04-03 08:35,Adelaide United FC,Auckland FC,1,1,2.450,3.600,2.550
+63684703,2026-04-04 06:00,Central Coast Mariners,Perth Glory FC,2,2,2.700,3.600,2.450
+63684707,2026-04-04 08:35,Melbourne City FC,Western Sydney Wanderers,3,0,1.850,3.900,3.700
+63684709,2026-04-05 05:00,Melbourne Victory,Wellington Phoenix FC,0,1,1.450,5.000,6.000
+65420228,2026-04-07 09:00,Melbourne City FC,Central Coast Mariners,2,1,1.400,4.750,7.500
+63684711,2026-04-10 09:35,Central Coast Mariners,Brisbane Roar FC,2,2,3.100,3.600,2.200
+63684713,2026-04-11 05:00,Auckland FC,Melbourne Victory,2,2,2.400,3.800,2.600
+63684715,2026-04-11 07:00,Newcastle United Jets,Adelaide United FC,1,1,2.150,4.100,2.875
+63684717,2026-04-11 09:35,Western Sydney Wanderers,Sydney FC,0,2,2.625,3.600,2.450
+63684719,2026-04-12 05:00,Melbourne City FC,Wellington Phoenix FC,2,0,1.800,3.900,3.900
+63684721,2026-04-12 09:00,Perth Glory FC,Macarthur FC,3,1,3.500,3.900,1.909
+63684723,2026-04-17 09:35,Melbourne Victory,Newcastle United Jets,2,2,2.150,4.100,2.900
+63684725,2026-04-18 05:00,Wellington Phoenix FC,Western Sydney Wanderers,2,1,2.100,4.100,3.000
+63684727,2026-04-18 07:00,Brisbane Roar FC,Melbourne City FC,2,3,3.500,3.600,2.000
+63684729,2026-04-18 09:35,Sydney FC,Perth Glory FC,0,0,1.650,4.200,5.000
+63684731,2026-04-19 03:00,Auckland FC,Central Coast Mariners,0,1,1.270,6.000,10.000
+63684733,2026-04-19 05:30,Adelaide United FC,Macarthur FC,3,1,1.750,4.500,3.750
+63684735,2026-04-24 09:35,Macarthur FC,Wellington Phoenix FC,4,0,2.000,4.100,3.100
+63684737,2026-04-25 07:00,Newcastle United Jets,Central Coast Mariners,4,0,1.450,5.000,5.750
+63684739,2026-04-25 09:35,Western Sydney Wanderers,Melbourne Victory,1,2,3.500,3.900,1.900
+63684741,2026-04-25 11:45,Perth Glory FC,Brisbane Roar FC,2,1,2.250,3.600,2.900
+63684743,2026-04-26 05:00,Sydney FC,Auckland FC,2,2,2.750,3.500,2.450
+63684745,2026-04-26 07:30,Melbourne City FC,Adelaide United FC,1,2,2.050,3.800,3.200
+71094072,2026-05-02 05:00,Auckland FC,Melbourne City FC,1,1,2.300,3.500,2.875
+71094074,2026-05-02 09:40,Melbourne Victory,Sydney FC,0,1,1.900,3.900,3.500
+71240190,2026-05-09 06:00,Auckland FC,Adelaide United FC,1,1,2.000,3.750,3.400
+71240194,2026-05-09 09:40,Sydney FC,Newcastle United Jets,1,1,2.450,3.500,2.700
+71240192,2026-05-15 09:35,Adelaide United FC,Auckland FC,0,3,2.200,3.250,3.250
+71240196,2026-05-16 09:40,Newcastle United Jets,Sydney FC,1,1,2.150,3.500,2.800
+71544072,2026-05-23 08:10,Auckland FC,Sydney FC,1,0,2.400,2.900,3.100
+72897382,2026-10-16 09:00,Sydney FC,Western Sydney Wanderers,0,0,2.300,3.700,2.875
+72897384,2026-10-17 04:00,Auckland FC,Melbourne City FC,3,1,2.500,3.250,2.800
+72897386,2026-10-17 06:00,Macarthur FC,Perth Glory FC,2,1,1.909,3.750,3.600
+72897388,2026-10-17 08:40,Central Coast Mariners,Newcastle United Jets,2,2,4.200,4.000,1.750
+72897390,2026-10-18 02:00,Wellington Phoenix FC,Melbourne Victory FC,2,1,3.800,3.400,2.000
+72897394,2026-10-23 09:00,Brisbane Roar FC,Perth Glory FC,2,1,2.300,3.600,2.900
+72897396,2026-10-24 04:00,Newcastle United Jets,Macarthur FC,1,1,2.150,3.750,3.000
+72897398,2026-10-24 06:00,Western Sydney Wanderers,Auckland FC,5,2,2.300,3.500,2.900
+72897400,2026-10-24 08:40,Melbourne Victory FC,Melbourne City FC,1,1,2.150,3.700,3.100
+72897402,2026-10-25 02:00,Wellington Phoenix FC,Central Coast Mariners,2,0,1.571,4.100,5.500
+72897404,2026-10-25 04:00,Sydney FC,Adelaide United FC,2,1,2.250,3.600,2.900
+72897406,2026-10-30 09:00,Brisbane Roar FC,Auckland FC,1,1,2.400,3.500,2.750
+72897408,2026-10-31 04:00,Newcastle United Jets,Wellington Phoenix FC,0,3,2.700,3.700,2.350
+72897410,2026-10-31 06:00,Melbourne City FC,Sydney FC,2,1,2.150,3.500,3.100
+72897412,2026-10-31 08:40,Macarthur FC,Western Sydney Wanderers,0,0,3.100,3.900,2.050
+72897414,2026-11-01 04:00,Melbourne Victory FC,Central Coast Mariners,1,1,1.420,4.750,7.000
+72897416,2026-11-01 08:00,Perth Glory FC,Adelaide United FC,4,0,2.300,3.600,2.900
+72897418,2026-11-06 08:40,Sydney FC,Central Coast Mariners,4,1,1.550,4.200,5.750
+72897420,2026-11-07 04:00,Auckland FC,Wellington Phoenix FC,0,0,2.300,3.500,2.900
+72897422,2026-11-07 08:40,Melbourne City FC,Western Sydney Wanderers,2,1,2.100,3.600,3.100
+72897424,2026-11-07 10:45,Perth Glory FC,Newcastle United Jets,2,1,2.450,4.100,2.450
+72897426,2026-11-08 04:00,Macarthur FC,Brisbane Roar FC,1,2,2.600,3.300,2.600
+72897428,2026-11-08 06:00,Adelaide United FC,Melbourne Victory FC,2,2,3.200,3.700,2.100

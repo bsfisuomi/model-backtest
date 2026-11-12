@@ -11,6 +11,11 @@
    "ha": null,
    "bet365_last_window": 5
   },
+  "algeria-ligue-1": {
+   "name": "Algeria - Ligue 1",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
   "andorra-primera-divisio": {
    "name": "Andorra - Primera Divisio",
    "ha": null,
@@ -21,15 +26,60 @@
    "ha": null,
    "bet365_last_window": 2
   },
+  "argentina-primera-division-a-women-clausura": {
+   "name": "Argentina - Primera Division A, Women, Clausura",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "argentina-primera-lpf-reserves-clausura": {
+   "name": "Argentina - Primera LPF, Reserves, Clausura",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "argentina-primera-nacional-final": {
+   "name": "Argentina - Primera Nacional, Final",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
   "armenia-premier-league": {
    "name": "Armenia - Premier League",
    "ha": null,
    "bet365_last_window": 5
   },
+  "australia-a-league": {
+   "name": "Australia - A-League",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "australia-a-league-women": {
+   "name": "Australia - A-League, Women",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "australia-australian-championship-group-a": {
+   "name": "Australia - Australian Championship, Group A",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "australia-australian-championship-group-c": {
+   "name": "Australia - Australian Championship, Group C",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "australia-australian-championship-group-d": {
+   "name": "Australia - Australian Championship, Group D",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
   "austria-2-liga": {
    "name": "Austria - 2. Liga",
    "ha": null,
    "bet365_last_window": 8
+  },
+  "austria-amateur-bundesliga-women": {
+   "name": "Austria Amateur - Bundesliga Women",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
   },
   "austria-amateur-burgenlandliga": {
    "name": "Austria Amateur - Burgenlandliga",
@@ -66,6 +116,11 @@
    "ha": null,
    "bet365_last_window": 6
   },
+  "bahrain-first-division": {
+   "name": "Bahrain - First Division",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
   "belgium-2nd-amateur-division-acff": {
    "name": "Belgium - 2nd Amateur Division ACFF",
    "ha": null,
@@ -101,6 +156,11 @@
    "ha": null,
    "bet365_last_window": 4
   },
+  "bolivia-division-profesional": {
+   "name": "Bolivia - Division Profesional",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
   "bosnia-and-herzegovina-premijer-liga": {
    "name": "Bosnia and Herzegovina - Premijer Liga",
    "ha": null,
@@ -116,6 +176,16 @@
    "ha": null,
    "bet365_last_window": 5
   },
+  "brazil-brasileiro-serie-a": {
+   "name": "Brazil - Brasileiro Serie A",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "brazil-brasileiro-serie-b": {
+   "name": "Brazil - Brasileiro Serie B",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
   "bulgaria-parva-liga": {
    "name": "Bulgaria - Parva Liga",
    "ha": null,
@@ -125,6 +195,16 @@
    "name": "Bulgaria - Vtora Liga",
    "ha": null,
    "bet365_last_window": 9
+  },
+  "chile-primera-division": {
+   "name": "Chile - Primera Division",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "colombia-liga-dimayor-finalizacion": {
+   "name": "Colombia - Liga DIMAYOR, Finalizacion",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
   },
   "croatia-3-nl": {
    "name": "Croatia - 3. NL",
@@ -255,6 +335,26 @@
    "ha": null,
    "bet365_last_window": 6
   },
+  "ecuador-serie-a-championship-round": {
+   "name": "Ecuador - Serie A, Championship Round",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "egypt-2-division-a": {
+   "name": "Egypt - 2. Division A",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "egypt-2-division-b": {
+   "name": "Egypt - 2. Division B",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "el-salvador-primera-division-apertura": {
+   "name": "El Salvador - Primera Division, Apertura",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
   "england-amateur-isthmian-league-division-one-north": {
    "name": "England Amateur - Isthmian League, Division One North",
    "ha": null,
@@ -349,6 +449,11 @@
    "name": "England - League Two",
    "ha": null,
    "bet365_last_window": 1
+  },
+  "england-national-league": {
+   "name": "England - National League",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
   },
   "england-premier-league": {
    "name": "England - Premier League",
@@ -495,6 +600,11 @@
    "ha": null,
    "bet365_last_window": 7
   },
+  "guatemala-liga-nacional-apertura": {
+   "name": "Guatemala - Liga Nacional, Apertura",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
   "hungary-nb-i": {
    "name": "Hungary - NB I",
    "ha": null,
@@ -529,6 +639,16 @@
    "name": "Hungary - NB III, Group South West",
    "ha": null,
    "bet365_last_window": 5
+  },
+  "india-bangalore-super-division": {
+   "name": "India - Bangalore Super Division",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "india-ifl": {
+   "name": "India - IFL",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
   },
   "ireland-leinster-senior-league": {
    "name": "Ireland - Leinster Senior League",
@@ -655,11 +775,41 @@
    "ha": null,
    "bet365_last_window": 4
   },
+  "japan-j-league-3": {
+   "name": "Japan - J-League 3",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "japan-japan-football-league": {
+   "name": "Japan - Japan Football League",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
   "japan-jleague": {
    "name": "Japan - J.League",
    "ha": 0.2188,
    "ha_source": "excel",
    "bet365_last_window": 0
+  },
+  "japan-jleague-2": {
+   "name": "Japan - J.League 2",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "japan-regional-league": {
+   "name": "Japan - Regional League",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "japan-we-league": {
+   "name": "Japan - WE-League",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "jordan-jordan-1st-division": {
+   "name": "Jordan - Jordan 1st Division",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
   },
   "kosovo-first-league": {
    "name": "Kosovo - First League",
@@ -676,6 +826,11 @@
    "ha": 0.1879,
    "ha_source": "excel",
    "bet365_last_window": 0
+  },
+  "liberia-first-division": {
+   "name": "Liberia - First Division",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
   },
   "malta-challenge-league": {
    "name": "Malta - Challenge League",
@@ -697,10 +852,35 @@
    "ha": null,
    "bet365_last_window": 3
   },
+  "mexico-liga-mx-apertura": {
+   "name": "Mexico - Liga MX, Apertura",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "mexico-liga-premier-serie-a": {
+   "name": "Mexico - Liga Premier Serie A",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "mexico-liga-primera-premier-group-stage": {
+   "name": "Mexico - Liga Primera Premier, Group Stage",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "mexico-liga-tdp": {
+   "name": "Mexico - Liga TDP",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
   "moldova-super-liga": {
    "name": "Moldova - Super Liga",
    "ha": null,
    "bet365_last_window": 3
+  },
+  "mongolia-premier-league": {
+   "name": "Mongolia - Premier League",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
   },
   "montenegro-1-cfl": {
    "name": "Montenegro - 1. CFL",
@@ -732,10 +912,20 @@
    "ha": null,
    "bet365_last_window": 9
   },
+  "netherlands-eredivisie-women": {
+   "name": "Netherlands - Eredivisie, Women",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
   "netherlands-tweede-divisie": {
    "name": "Netherlands - Tweede Divisie",
    "ha": null,
    "bet365_last_window": 8
+  },
+  "nigeria-premier-league": {
+   "name": "Nigeria - Premier League",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
   },
   "north-macedonia-1-mfl": {
    "name": "North Macedonia - 1. MFL",
@@ -766,6 +956,16 @@
    "name": "Norway - Eliteserien",
    "ha": null,
    "bet365_last_window": 8
+  },
+  "panama-liga-panamena-de-futbol-apertura": {
+   "name": "Panama - Liga Panamena de Futbol, Apertura",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "paraguay-division-de-honor-clausura": {
+   "name": "Paraguay - Division de Honor, Clausura",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
   },
   "peru-primera-division-clausura": {
    "name": "Peru - Primera Division, Clausura",
@@ -955,10 +1155,20 @@
    "ha_source": "excel",
    "bet365_last_window": 0
   },
+  "saudi-arabia-second-division-group-1": {
+   "name": "Saudi Arabia - Second Division, Group 1",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
   "scotland-championship": {
    "name": "Scotland - Championship",
    "ha": null,
    "bet365_last_window": 5
+  },
+  "scotland-highland-league": {
+   "name": "Scotland - Highland League",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
   },
   "scotland-league-one": {
    "name": "Scotland - League One",
@@ -1287,6 +1497,21 @@
    "ha": null,
    "bet365_last_window": 2
   },
+  "tanzania-first-division-league": {
+   "name": "Tanzania - First Division League",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "tanzania-zanzibar-premier-league": {
+   "name": "Tanzania - Zanzibar Premier League",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "turkiye-super-lig": {
+   "name": "Turkiye - Super Lig",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
   "ukraine-persha-liga": {
    "name": "Ukraine - Persha Liga",
    "ha": null,
@@ -1296,6 +1521,16 @@
    "name": "Ukraine - Premier League",
    "ha": null,
    "bet365_last_window": 7
+  },
+  "uruguay-primera-division-clausura": {
+   "name": "Uruguay - Primera Division, Clausura",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
+  },
+  "venezuela-primera-division-clausura-main-round-group-b": {
+   "name": "Venezuela - Primera Division, Clausura, Main Round, Group B",
+   "ha": null,
+   "added": "2026-11-12 upcoming bet365"
   },
   "wales-cymru-championship-north": {
    "name": "Wales - Cymru Championship, North",
@@ -1337,6 +1572,10 @@
    0.5,
    6.0,
    0.25
+  ],
+  "ah_balanced_range": [
+   1.7,
+   2.2
   ]
  },
  "discovered": {
