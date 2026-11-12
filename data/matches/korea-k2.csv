@@ -1,0 +1,530 @@
+scope,season_id,season,tournament_id,match_id,round,kickoff_utc,home,home_id,away,away_id,home_goals,away_goals,open_1,open_x,open_2,close_1,close_x,close_2
+previous,71101,K-League 2 2025,777,13479852,1,2025-02-22 05:00,Incheon United,7648,Gyeongnam FC,22020,2,0,,,,,,
+previous,71101,K-League 2 2025,777,13479853,1,2025-02-22 05:00,Cheonan City FC,41263,Jeonnam Dragons,7643,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13479854,1,2025-02-22 07:30,Busan I Park,7642,Gimpo FC,195172,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13479855,1,2025-02-22 07:30,Ansan Greeners FC,248375,Suwon Samsung Bluewings,7652,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13443644,1,2025-02-23 05:00,Seongnam FC,7651,Hwaseong FC,195174,2,0,,,,,,
+previous,71101,K-League 2 2025,777,13443645,1,2025-02-23 07:30,Seoul E-Land FC,189422,Chungnam Asan FC,339827,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13443646,1,2025-02-23 07:30,Bucheon FC 1995,92539,Cheongju FC,314293,3,1,,,,,,
+previous,71101,K-League 2 2025,777,13516544,2,2025-03-01 05:00,Incheon United,7648,Suwon Samsung Bluewings,7652,2,0,,,,,,
+previous,71101,K-League 2 2025,777,13516545,2,2025-03-01 07:30,Seoul E-Land FC,189422,Jeonnam Dragons,7643,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13516546,2,2025-03-01 07:30,Ansan Greeners FC,248375,Gimpo FC,195172,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13521223,2,2025-03-02 05:00,Hwaseong FC,195174,Chungnam Asan FC,339827,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13521224,2,2025-03-02 05:00,Busan I Park,7642,Gyeongnam FC,22020,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13521225,2,2025-03-02 07:30,Cheonan City FC,41263,Bucheon FC 1995,92539,1,2,,,,,,
+previous,71101,K-League 2 2025,777,13522837,2,2025-03-03 05:00,Seongnam FC,7651,Cheongju FC,314293,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13366669,3,2025-03-08 05:00,Bucheon FC 1995,92539,Busan I Park,7642,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13366672,3,2025-03-08 05:00,Hwaseong FC,195174,Gyeongnam FC,22020,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13366681,3,2025-03-08 07:30,Gimpo FC,195172,Cheongju FC,314293,2,3,,,,,,
+previous,71101,K-League 2 2025,777,13366682,3,2025-03-08 07:30,Ansan Greeners FC,248375,Jeonnam Dragons,7643,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13472662,3,2025-03-09 05:00,Seoul E-Land FC,189422,Suwon Samsung Bluewings,7652,4,2,,,,,,
+previous,71101,K-League 2 2025,777,13472663,3,2025-03-09 05:00,Cheonan City FC,41263,Chungnam Asan FC,339827,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13472664,3,2025-03-09 07:30,Seongnam FC,7651,Incheon United,7648,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13522838,4,2025-03-15 05:00,Incheon United,7648,Seoul E-Land FC,189422,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13522839,4,2025-03-15 05:00,Hwaseong FC,195174,Cheongju FC,314293,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13522840,4,2025-03-15 07:30,Gimpo FC,195172,Seongnam FC,7651,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13522841,4,2025-03-15 07:30,Suwon Samsung Bluewings,7652,Chungnam Asan FC,339827,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13522842,4,2025-03-16 05:00,Busan I Park,7642,Cheonan City FC,41263,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13522843,4,2025-03-16 05:00,Gyeongnam FC,22020,Jeonnam Dragons,7643,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13522844,4,2025-03-16 07:30,Bucheon FC 1995,92539,Ansan Greeners FC,248375,3,1,,,,,,
+previous,71101,K-League 2 2025,777,13366960,5,2025-03-29 05:00,Ansan Greeners FC,248375,Hwaseong FC,195174,3,3,,,,,,
+previous,71101,K-League 2 2025,777,13366963,5,2025-03-29 05:00,Suwon Samsung Bluewings,7652,Jeonnam Dragons,7643,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13366974,5,2025-03-29 07:30,Gyeongnam FC,22020,Cheongju FC,314293,3,0,,,,,,
+previous,71101,K-League 2 2025,777,13366977,5,2025-03-29 07:30,Incheon United,7648,Busan I Park,7642,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522845,5,2025-03-30 05:00,Seoul E-Land FC,189422,Bucheon FC 1995,92539,3,2,,,,,,
+previous,71101,K-League 2 2025,777,13522846,5,2025-03-30 05:00,Cheonan City FC,41263,Gimpo FC,195172,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13522847,5,2025-03-30 07:30,Chungnam Asan FC,339827,Seongnam FC,7651,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522848,6,2025-04-05 05:00,Seoul E-Land FC,189422,Cheonan City FC,41263,3,0,,,,,,
+previous,71101,K-League 2 2025,777,13522849,6,2025-04-05 05:00,Hwaseong FC,195174,Incheon United,7648,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522850,6,2025-04-05 07:30,Busan I Park,7642,Jeonnam Dragons,7643,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522851,6,2025-04-06 05:00,Suwon Samsung Bluewings,7652,Gyeongnam FC,22020,4,0,,,,,,
+previous,71101,K-League 2 2025,777,13522852,6,2025-04-06 05:00,Gimpo FC,195172,Bucheon FC 1995,92539,1,2,,,,,,
+previous,71101,K-League 2 2025,777,13522853,6,2025-04-06 07:30,Chungnam Asan FC,339827,Cheongju FC,314293,3,1,,,,,,
+previous,71101,K-League 2 2025,777,13522854,6,2025-04-06 07:30,Seongnam FC,7651,Ansan Greeners FC,248375,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13522855,7,2025-04-12 05:00,Gimpo FC,195172,Chungnam Asan FC,339827,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522856,7,2025-04-12 05:00,Hwaseong FC,195174,Jeonnam Dragons,7643,1,2,,,,,,
+previous,71101,K-League 2 2025,777,13522857,7,2025-04-12 07:30,Bucheon FC 1995,92539,Suwon Samsung Bluewings,7652,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522858,7,2025-04-12 07:30,Gyeongnam FC,22020,Seongnam FC,7651,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522859,7,2025-04-13 05:00,Incheon United,7648,Cheongju FC,314293,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13522860,7,2025-04-13 07:30,Busan I Park,7642,Seoul E-Land FC,189422,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13522861,7,2025-04-13 07:30,Cheonan City FC,41263,Ansan Greeners FC,248375,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522862,8,2025-04-19 05:00,Incheon United,7648,Cheonan City FC,41263,3,0,,,,,,
+previous,71101,K-League 2 2025,777,13522863,8,2025-04-19 05:00,Seoul E-Land FC,189422,Cheongju FC,314293,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13522864,8,2025-04-19 07:30,Suwon Samsung Bluewings,7652,Hwaseong FC,195174,3,1,,,,,,
+previous,71101,K-League 2 2025,777,13522865,8,2025-04-19 07:30,Seongnam FC,7651,Bucheon FC 1995,92539,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13522866,8,2025-04-20 05:00,Ansan Greeners FC,248375,Busan I Park,7642,1,3,,,,,,
+previous,71101,K-League 2 2025,777,13522867,8,2025-04-20 07:30,Chungnam Asan FC,339827,Jeonnam Dragons,7643,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13522868,8,2025-04-20 07:30,Gyeongnam FC,22020,Gimpo FC,195172,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13522869,9,2025-04-26 05:00,Seoul E-Land FC,189422,Gyeongnam FC,22020,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13522870,9,2025-04-26 05:00,Cheonan City FC,41263,Cheongju FC,314293,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522871,9,2025-04-26 07:30,Chungnam Asan FC,339827,Ansan Greeners FC,248375,3,0,,,,,,
+previous,71101,K-League 2 2025,777,13522872,9,2025-04-26 07:30,Bucheon FC 1995,92539,Incheon United,7648,1,3,,,,,,
+previous,71101,K-League 2 2025,777,13522873,9,2025-04-27 05:00,Suwon Samsung Bluewings,7652,Seongnam FC,7651,3,2,,,,,,
+previous,71101,K-League 2 2025,777,13522874,9,2025-04-27 05:00,Gimpo FC,195172,Jeonnam Dragons,7643,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522875,9,2025-04-27 07:30,Busan I Park,7642,Hwaseong FC,195174,3,2,,,,,,
+previous,71101,K-League 2 2025,777,13522876,10,2025-05-04 05:00,Seongnam FC,7651,Seoul E-Land FC,189422,1,2,,,,,,
+previous,71101,K-League 2 2025,777,13522877,10,2025-05-04 05:00,Bucheon FC 1995,92539,Jeonnam Dragons,7643,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13522878,10,2025-05-04 07:30,Incheon United,7648,Gimpo FC,195172,3,0,,,,,,
+previous,71101,K-League 2 2025,777,13522879,10,2025-05-04 07:30,Cheongju FC,314293,Suwon Samsung Bluewings,7652,3,3,,,,,,
+previous,71101,K-League 2 2025,777,13522880,10,2025-05-04 07:30,Ansan Greeners FC,248375,Gyeongnam FC,22020,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13522881,10,2025-05-04 10:00,Busan I Park,7642,Chungnam Asan FC,339827,2,0,,,,,,
+previous,71101,K-League 2 2025,777,13522882,10,2025-05-04 10:00,Hwaseong FC,195174,Cheonan City FC,41263,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13522883,11,2025-05-10 07:30,Gimpo FC,195172,Hwaseong FC,195174,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13522884,11,2025-05-10 07:30,Gyeongnam FC,22020,Bucheon FC 1995,92539,0,3,,,,,,
+previous,71101,K-League 2 2025,777,13522885,11,2025-05-10 10:00,Chungnam Asan FC,339827,Incheon United,7648,0,3,,,,,,
+previous,71101,K-League 2 2025,777,13522886,11,2025-05-10 10:00,Seoul E-Land FC,189422,Ansan Greeners FC,248375,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522887,11,2025-05-11 07:30,Jeonnam Dragons,7643,Seongnam FC,7651,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13522888,11,2025-05-11 07:30,Cheongju FC,314293,Busan I Park,7642,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13522889,11,2025-05-11 10:00,Suwon Samsung Bluewings,7652,Cheonan City FC,41263,2,0,,,,,,
+previous,71101,K-League 2 2025,777,13522890,12,2025-05-17 07:30,Gyeongnam FC,22020,Chungnam Asan FC,339827,1,3,,,,,,
+previous,71101,K-League 2 2025,777,13522891,12,2025-05-17 07:30,Bucheon FC 1995,92539,Hwaseong FC,195174,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13522892,12,2025-05-17 10:00,Cheonan City FC,41263,Seongnam FC,7651,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522893,12,2025-05-17 10:00,Busan I Park,7642,Suwon Samsung Bluewings,7652,1,4,,,,,,
+previous,71101,K-League 2 2025,777,13522894,12,2025-05-18 07:30,Ansan Greeners FC,248375,Incheon United,7648,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13522895,12,2025-05-18 07:30,Jeonnam Dragons,7643,Cheongju FC,314293,4,1,,,,,,
+previous,71101,K-League 2 2025,777,13522896,12,2025-05-18 10:00,Gimpo FC,195172,Seoul E-Land FC,189422,1,2,,,,,,
+previous,71101,K-League 2 2025,777,13522897,13,2025-05-24 07:30,Hwaseong FC,195174,Seoul E-Land FC,189422,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522898,13,2025-05-24 07:30,Cheongju FC,314293,Ansan Greeners FC,248375,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13522899,13,2025-05-24 10:00,Seongnam FC,7651,Busan I Park,7642,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13522900,13,2025-05-24 10:00,Gyeongnam FC,22020,Cheonan City FC,41263,3,1,,,,,,
+previous,71101,K-League 2 2025,777,13522901,13,2025-05-25 07:30,Chungnam Asan FC,339827,Bucheon FC 1995,92539,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13522902,13,2025-05-25 07:30,Incheon United,7648,Jeonnam Dragons,7643,2,0,,,,,,
+previous,71101,K-League 2 2025,777,13522903,13,2025-05-25 10:00,Suwon Samsung Bluewings,7652,Gimpo FC,195172,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522904,14,2025-05-31 07:30,Jeonnam Dragons,7643,Hwaseong FC,195174,3,2,,,,,,
+previous,71101,K-League 2 2025,777,13522905,14,2025-05-31 07:30,Seoul E-Land FC,189422,Busan I Park,7642,1,4,,,,,,
+previous,71101,K-League 2 2025,777,13522906,14,2025-05-31 10:00,Cheongju FC,314293,Gyeongnam FC,22020,1,2,,,,,,
+previous,71101,K-League 2 2025,777,13522907,14,2025-05-31 10:00,Ansan Greeners FC,248375,Seongnam FC,7651,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13522908,14,2025-06-01 07:30,Chungnam Asan FC,339827,Gimpo FC,195172,2,0,,,,,,
+previous,71101,K-League 2 2025,777,13522909,14,2025-06-01 10:00,Suwon Samsung Bluewings,7652,Bucheon FC 1995,92539,4,1,,,,,,
+previous,71101,K-League 2 2025,777,13522910,14,2025-06-01 10:00,Cheonan City FC,41263,Incheon United,7648,3,3,,,,,,
+previous,71101,K-League 2 2025,777,13522911,15,2025-06-06 10:00,Cheongju FC,314293,Chungnam Asan FC,339827,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13522912,15,2025-06-06 10:00,Seongnam FC,7651,Suwon Samsung Bluewings,7652,1,2,,,,,,
+previous,71101,K-League 2 2025,777,13522913,15,2025-06-07 10:00,Busan I Park,7642,Ansan Greeners FC,248375,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13522914,15,2025-06-07 10:00,Jeonnam Dragons,7643,Seoul E-Land FC,189422,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522915,15,2025-06-07 10:00,Gyeongnam FC,22020,Hwaseong FC,195174,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522916,15,2025-06-08 10:00,Incheon United,7648,Bucheon FC 1995,92539,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13522917,15,2025-06-08 10:00,Gimpo FC,195172,Cheonan City FC,41263,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13522918,16,2025-06-14 10:00,Chungnam Asan FC,339827,Cheonan City FC,41263,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522919,16,2025-06-14 10:00,Bucheon FC 1995,92539,Seoul E-Land FC,189422,3,1,,,,,,
+previous,71101,K-League 2 2025,777,13522920,16,2025-06-14 10:00,Cheongju FC,314293,Seongnam FC,7651,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522921,16,2025-06-15 10:00,Jeonnam Dragons,7643,Busan I Park,7642,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522922,16,2025-06-15 10:00,Hwaseong FC,195174,Ansan Greeners FC,248375,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13522923,16,2025-06-15 10:00,Gimpo FC,195172,Gyeongnam FC,22020,3,0,,,,,,
+previous,71101,K-League 2 2025,777,13522924,16,2025-06-15 10:00,Suwon Samsung Bluewings,7652,Incheon United,7648,1,2,,,,,,
+previous,71101,K-League 2 2025,777,13522925,17,2025-06-21 10:00,Incheon United,7648,Hwaseong FC,195174,2,0,,,,,,
+previous,71101,K-League 2 2025,777,13522926,17,2025-06-21 10:00,Cheonan City FC,41263,Seoul E-Land FC,189422,4,2,,,,,,
+previous,71101,K-League 2 2025,777,13522927,17,2025-06-21 10:00,Ansan Greeners FC,248375,Bucheon FC 1995,92539,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522928,17,2025-06-21 10:00,Seongnam FC,7651,Chungnam Asan FC,339827,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13522929,17,2025-06-22 10:00,Jeonnam Dragons,7643,Gimpo FC,195172,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13522930,17,2025-06-22 10:00,Busan I Park,7642,Cheongju FC,314293,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13522931,17,2025-06-22 10:00,Gyeongnam FC,22020,Suwon Samsung Bluewings,7652,1,3,,,,,,
+previous,71101,K-League 2 2025,777,13522932,18,2025-06-28 10:00,Chungnam Asan FC,339827,Seoul E-Land FC,189422,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522933,18,2025-06-28 10:00,Bucheon FC 1995,92539,Gyeongnam FC,22020,2,0,,,,,,
+previous,71101,K-League 2 2025,777,13522934,18,2025-06-28 10:00,Ansan Greeners FC,248375,Cheonan City FC,41263,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13522935,18,2025-06-28 10:00,Hwaseong FC,195174,Seongnam FC,7651,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13522936,18,2025-06-29 10:00,Suwon Samsung Bluewings,7652,Busan I Park,7642,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522937,18,2025-06-29 10:00,Cheongju FC,314293,Jeonnam Dragons,7643,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13522938,18,2025-06-29 10:00,Gimpo FC,195172,Incheon United,7648,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522939,19,2025-07-05 10:00,Chungnam Asan FC,339827,Suwon Samsung Bluewings,7652,2,3,,,,,,
+previous,71101,K-League 2 2025,777,13522940,19,2025-07-05 10:00,Jeonnam Dragons,7643,Incheon United,7648,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13522941,19,2025-07-05 10:00,Cheongju FC,314293,Seoul E-Land FC,189422,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13522942,19,2025-07-05 10:00,Gyeongnam FC,22020,Ansan Greeners FC,248375,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522943,19,2025-07-06 10:00,Seongnam FC,7651,Cheonan City FC,41263,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13522944,19,2025-07-06 10:00,Hwaseong FC,195174,Bucheon FC 1995,92539,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522945,19,2025-07-06 10:00,Gimpo FC,195172,Busan I Park,7642,3,0,,,,,,
+previous,71101,K-League 2 2025,777,13522946,20,2025-07-12 10:00,Jeonnam Dragons,7643,Gyeongnam FC,22020,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13522947,20,2025-07-12 10:00,Busan I Park,7642,Seongnam FC,7651,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13522948,20,2025-07-12 10:00,Suwon Samsung Bluewings,7652,Cheongju FC,314293,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13522949,20,2025-07-12 10:00,Cheonan City FC,41263,Hwaseong FC,195174,2,3,,,,,,
+previous,71101,K-League 2 2025,777,13522950,20,2025-07-13 10:00,Incheon United,7648,Chungnam Asan FC,339827,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13522951,20,2025-07-13 10:00,Bucheon FC 1995,92539,Gimpo FC,195172,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522952,20,2025-07-13 10:00,Ansan Greeners FC,248375,Seoul E-Land FC,189422,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13522953,21,2025-07-19 10:00,Jeonnam Dragons,7643,Suwon Samsung Bluewings,7652,3,4,,,,,,
+previous,71101,K-League 2 2025,777,13522954,21,2025-07-19 10:00,Gimpo FC,195172,Ansan Greeners FC,248375,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13522955,21,2025-07-19 10:00,Seoul E-Land FC,189422,Seongnam FC,7651,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522956,21,2025-07-19 10:00,Hwaseong FC,195174,Busan I Park,7642,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13522957,21,2025-07-20 10:00,Bucheon FC 1995,92539,Chungnam Asan FC,339827,5,3,,,,,,
+previous,71101,K-League 2 2025,777,13522958,21,2025-07-20 10:00,Cheongju FC,314293,Cheonan City FC,41263,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13522959,21,2025-07-20 10:00,Gyeongnam FC,22020,Incheon United,7648,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13522960,22,2025-07-26 10:00,Busan I Park,7642,Bucheon FC 1995,92539,4,2,,,,,,
+previous,71101,K-League 2 2025,777,13522961,22,2025-07-26 10:00,Cheonan City FC,41263,Gyeongnam FC,22020,4,0,,,,,,
+previous,71101,K-League 2 2025,777,13522962,22,2025-07-26 10:00,Cheongju FC,314293,Gimpo FC,195172,0,3,,,,,,
+previous,71101,K-League 2 2025,777,13522963,22,2025-07-26 10:00,Chungnam Asan FC,339827,Hwaseong FC,195174,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522964,22,2025-07-27 10:00,Incheon United,7648,Ansan Greeners FC,248375,4,2,,,,,,
+previous,71101,K-League 2 2025,777,13522965,22,2025-07-27 10:00,Suwon Samsung Bluewings,7652,Seoul E-Land FC,189422,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13522966,22,2025-07-27 10:00,Seongnam FC,7651,Jeonnam Dragons,7643,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13522967,23,2025-08-02 10:00,Bucheon FC 1995,92539,Seongnam FC,7651,2,3,,,,,,
+previous,71101,K-League 2 2025,777,13522968,23,2025-08-02 10:00,Seoul E-Land FC,189422,Incheon United,7648,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13522969,23,2025-08-02 10:00,Jeonnam Dragons,7643,Chungnam Asan FC,339827,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13522970,23,2025-08-02 10:00,Hwaseong FC,195174,Gimpo FC,195172,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522971,23,2025-08-02 10:00,Ansan Greeners FC,248375,Cheongju FC,314293,1,2,,,,,,
+previous,71101,K-League 2 2025,777,13522972,23,2025-08-02 10:00,Gyeongnam FC,22020,Busan I Park,7642,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13522973,23,2025-08-02 10:00,Cheonan City FC,41263,Suwon Samsung Bluewings,7652,1,2,,,,,,
+previous,71101,K-League 2 2025,777,13522974,24,2025-08-09 10:00,Chungnam Asan FC,339827,Gyeongnam FC,22020,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13522975,24,2025-08-09 10:00,Busan I Park,7642,Incheon United,7648,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13522976,24,2025-08-09 10:00,Suwon Samsung Bluewings,7652,Ansan Greeners FC,248375,3,1,,,,,,
+previous,71101,K-League 2 2025,777,13522977,24,2025-08-09 11:00,Seongnam FC,7651,Gimpo FC,195172,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13522978,24,2025-08-10 10:00,Seoul E-Land FC,189422,Hwaseong FC,195174,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13522979,24,2025-08-10 10:00,Jeonnam Dragons,7643,Cheonan City FC,41263,3,4,,,,,,
+previous,71101,K-League 2 2025,777,13522980,24,2025-08-10 10:30,Cheongju FC,314293,Bucheon FC 1995,92539,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522981,25,2025-08-15 10:00,Jeonnam Dragons,7643,Bucheon FC 1995,92539,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13522982,25,2025-08-15 10:00,Ansan Greeners FC,248375,Chungnam Asan FC,339827,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13522984,25,2025-08-16 10:00,Gimpo FC,195172,Suwon Samsung Bluewings,7652,3,1,,,,,,
+previous,71101,K-League 2 2025,777,13522985,25,2025-08-16 10:00,Cheongju FC,314293,Hwaseong FC,195174,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522986,25,2025-08-16 10:30,Gyeongnam FC,22020,Seoul E-Land FC,189422,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522983,25,2025-08-16 11:00,Incheon United,7648,Seongnam FC,7651,1,2,,,,,,
+previous,71101,K-League 2 2025,777,13522987,25,2025-08-17 10:00,Cheonan City FC,41263,Busan I Park,7642,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522988,26,2025-08-23 10:00,Jeonnam Dragons,7643,Ansan Greeners FC,248375,2,0,,,,,,
+previous,71101,K-League 2 2025,777,13522990,26,2025-08-23 10:00,Seoul E-Land FC,189422,Gimpo FC,195172,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522991,26,2025-08-23 10:00,Seongnam FC,7651,Gyeongnam FC,22020,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13522989,26,2025-08-23 10:30,Bucheon FC 1995,92539,Cheonan City FC,41263,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13522992,26,2025-08-24 10:00,Cheongju FC,314293,Incheon United,7648,0,4,,,,,,
+previous,71101,K-League 2 2025,777,13522993,26,2025-08-24 10:00,Chungnam Asan FC,339827,Busan I Park,7642,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522994,26,2025-08-24 10:00,Hwaseong FC,195174,Suwon Samsung Bluewings,7652,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522995,27,2025-08-30 10:00,Incheon United,7648,Chungnam Asan FC,339827,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13522996,27,2025-08-30 10:00,Suwon Samsung Bluewings,7652,Seongnam FC,7651,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13522997,27,2025-08-30 10:00,Ansan Greeners FC,248375,Hwaseong FC,195174,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13522998,27,2025-08-30 10:00,Gimpo FC,195172,Jeonnam Dragons,7643,2,0,,,,,,
+previous,71101,K-League 2 2025,777,13523000,27,2025-08-30 10:00,Busan I Park,7642,Cheongju FC,314293,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13522999,27,2025-08-31 10:00,Gyeongnam FC,22020,Bucheon FC 1995,92539,1,2,,,,,,
+previous,71101,K-League 2 2025,777,13523001,27,2025-08-31 10:00,Cheonan City FC,41263,Seoul E-Land FC,189422,2,5,,,,,,
+previous,71101,K-League 2 2025,777,13523002,28,2025-09-06 10:00,Busan I Park,7642,Suwon Samsung Bluewings,7652,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13523003,28,2025-09-06 10:00,Jeonnam Dragons,7643,Seoul E-Land FC,189422,1,2,,,,,,
+previous,71101,K-League 2 2025,777,13523004,28,2025-09-06 10:00,Cheongju FC,314293,Gyeongnam FC,22020,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13523005,28,2025-09-06 10:00,Seongnam FC,7651,Ansan Greeners FC,248375,4,0,,,,,,
+previous,71101,K-League 2 2025,777,13523007,28,2025-09-07 10:00,Gimpo FC,195172,Cheonan City FC,41263,1,3,,,,,,
+previous,71101,K-League 2 2025,777,13523008,28,2025-09-07 10:00,Bucheon FC 1995,92539,Incheon United,7648,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13523009,28,2025-09-07 10:00,Hwaseong FC,195174,Chungnam Asan FC,339827,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13523010,29,2025-09-13 07:30,Chungnam Asan FC,339827,Bucheon FC 1995,92539,3,0,,,,,,
+previous,71101,K-League 2 2025,777,13523011,29,2025-09-13 10:00,Gyeongnam FC,22020,Gimpo FC,195172,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13523012,29,2025-09-13 10:00,Seoul E-Land FC,189422,Suwon Samsung Bluewings,7652,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13523013,29,2025-09-13 10:00,Cheonan City FC,41263,Incheon United,7648,3,4,,,,,,
+previous,71101,K-League 2 2025,777,13523014,29,2025-09-14 10:00,Jeonnam Dragons,7643,Hwaseong FC,195174,1,2,,,,,,
+previous,71101,K-League 2 2025,777,13523015,29,2025-09-14 10:00,Cheongju FC,314293,Seongnam FC,7651,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13523016,29,2025-09-14 10:00,Ansan Greeners FC,248375,Busan I Park,7642,2,3,,,,,,
+previous,71101,K-League 2 2025,777,13523017,30,2025-09-20 07:30,Suwon Samsung Bluewings,7652,Gyeongnam FC,22020,1,2,,,,,,
+previous,71101,K-League 2 2025,777,13523018,30,2025-09-20 07:30,Bucheon FC 1995,92539,Seoul E-Land FC,189422,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13523019,30,2025-09-20 10:00,Incheon United,7648,Gimpo FC,195172,1,2,,,,,,
+previous,71101,K-League 2 2025,777,13523020,30,2025-09-20 10:00,Seongnam FC,7651,Chungnam Asan FC,339827,3,0,,,,,,
+previous,71101,K-League 2 2025,777,13523021,30,2025-09-21 07:30,Ansan Greeners FC,248375,Cheongju FC,314293,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13523022,30,2025-09-21 07:30,Cheonan City FC,41263,Hwaseong FC,195174,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13523023,30,2025-09-21 10:00,Busan I Park,7642,Jeonnam Dragons,7643,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13523024,31,2025-09-27 05:00,Jeonnam Dragons,7643,Bucheon FC 1995,92539,3,2,,,,,,
+previous,71101,K-League 2 2025,777,13523025,31,2025-09-27 07:30,Chungnam Asan FC,339827,Suwon Samsung Bluewings,7652,1,3,,,,,,
+previous,71101,K-League 2 2025,777,13523026,31,2025-09-27 10:00,Cheongju FC,314293,Cheonan City FC,41263,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13523027,31,2025-09-28 07:30,Gyeongnam FC,22020,Ansan Greeners FC,248375,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13523028,31,2025-09-28 07:30,Hwaseong FC,195174,Busan I Park,7642,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13523029,31,2025-09-28 10:00,Gimpo FC,195172,Seongnam FC,7651,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13523030,31,2025-09-28 10:00,Seoul E-Land FC,189422,Incheon United,7648,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13523031,32,2025-10-03 05:00,Seongnam FC,7651,Seoul E-Land FC,189422,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13523032,32,2025-10-04 05:00,Suwon Samsung Bluewings,7652,Bucheon FC 1995,92539,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13523033,32,2025-10-04 05:00,Gimpo FC,195172,Ansan Greeners FC,248375,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13523034,32,2025-10-04 07:30,Chungnam Asan FC,339827,Cheongju FC,314293,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13523035,32,2025-10-04 07:30,Hwaseong FC,195174,Incheon United,7648,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13523036,32,2025-10-05 05:00,Jeonnam Dragons,7643,Cheonan City FC,41263,4,1,,,,,,
+previous,71101,K-League 2 2025,777,13523037,32,2025-10-05 07:30,Busan I Park,7642,Gyeongnam FC,22020,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13523038,33,2025-10-07 05:00,Seoul E-Land FC,189422,Hwaseong FC,195174,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13523039,33,2025-10-07 07:30,Cheongju FC,314293,Gimpo FC,195172,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13523040,33,2025-10-08 05:00,Incheon United,7648,Suwon Samsung Bluewings,7652,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13523041,33,2025-10-08 05:00,Cheonan City FC,41263,Busan I Park,7642,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13523042,33,2025-10-08 05:00,Gyeongnam FC,22020,Jeonnam Dragons,7643,2,3,,,,,,
+previous,71101,K-League 2 2025,777,13523043,33,2025-10-08 07:30,Bucheon FC 1995,92539,Seongnam FC,7651,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13523044,33,2025-10-08 07:30,Ansan Greeners FC,248375,Chungnam Asan FC,339827,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13523045,34,2025-10-11 05:00,Gimpo FC,195172,Seoul E-Land FC,189422,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13523046,34,2025-10-11 07:30,Hwaseong FC,195174,Cheongju FC,314293,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13523047,34,2025-10-12 05:00,Suwon Samsung Bluewings,7652,Cheonan City FC,41263,5,0,,,,,,
+previous,71101,K-League 2 2025,777,13523048,34,2025-10-12 05:00,Jeonnam Dragons,7643,Ansan Greeners FC,248375,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13523049,34,2025-10-12 05:00,Busan I Park,7642,Bucheon FC 1995,92539,1,2,,,,,,
+previous,71101,K-League 2 2025,777,13523050,34,2025-10-12 07:30,Seongnam FC,7651,Incheon United,7648,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13523051,34,2025-10-12 07:30,Chungnam Asan FC,339827,Gyeongnam FC,22020,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13523052,35,2025-10-19 05:00,Ansan Greeners FC,248375,Incheon United,7648,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13523053,35,2025-10-19 05:00,Seoul E-Land FC,189422,Busan I Park,7642,3,0,,,,,,
+previous,71101,K-League 2 2025,777,13523054,35,2025-10-19 05:00,Chungnam Asan FC,339827,Gimpo FC,195172,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13523055,35,2025-10-19 05:00,Gyeongnam FC,22020,Seongnam FC,7651,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13523056,35,2025-10-19 07:30,Cheongju FC,314293,Jeonnam Dragons,7643,0,3,,,,,,
+previous,71101,K-League 2 2025,777,13523057,35,2025-10-19 07:30,Bucheon FC 1995,92539,Cheonan City FC,41263,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13523058,35,2025-10-19 07:30,Hwaseong FC,195174,Suwon Samsung Bluewings,7652,2,3,,,,,,
+previous,71101,K-League 2 2025,777,13523059,36,2025-10-25 05:00,Suwon Samsung Bluewings,7652,Jeonnam Dragons,7643,2,2,,,,,,
+previous,71101,K-League 2 2025,777,13523060,36,2025-10-25 05:00,Seongnam FC,7651,Hwaseong FC,195174,1,0,,,,,,
+previous,71101,K-League 2 2025,777,13523061,36,2025-10-25 07:30,Cheonan City FC,41263,Ansan Greeners FC,248375,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13523062,36,2025-10-25 07:30,Busan I Park,7642,Gimpo FC,195172,4,1,,,,,,
+previous,71101,K-League 2 2025,777,13523063,36,2025-10-25 07:30,Cheongju FC,314293,Bucheon FC 1995,92539,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13523064,36,2025-10-26 05:00,Incheon United,7648,Gyeongnam FC,22020,3,0,,,,,,
+previous,71101,K-League 2 2025,777,13523065,36,2025-10-26 07:30,Seoul E-Land FC,189422,Chungnam Asan FC,339827,4,1,,,,,,
+previous,71101,K-League 2 2025,777,13523066,37,2025-11-01 05:00,Gyeongnam FC,22020,Seoul E-Land FC,189422,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13523067,37,2025-11-01 05:00,Suwon Samsung Bluewings,7652,Cheongju FC,314293,2,0,,,,,,
+previous,71101,K-League 2 2025,777,13523068,37,2025-11-01 07:30,Bucheon FC 1995,92539,Ansan Greeners FC,248375,2,0,,,,,,
+previous,71101,K-League 2 2025,777,13523069,37,2025-11-01 07:30,Gimpo FC,195172,Hwaseong FC,195174,5,1,,,,,,
+previous,71101,K-League 2 2025,777,13523070,37,2025-11-02 05:00,Incheon United,7648,Busan I Park,7642,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13523071,37,2025-11-02 05:00,Jeonnam Dragons,7643,Seongnam FC,7651,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13523072,37,2025-11-02 07:30,Chungnam Asan FC,339827,Cheonan City FC,41263,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13523073,38,2025-11-08 05:00,Jeonnam Dragons,7643,Incheon United,7648,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13523074,38,2025-11-08 05:00,Hwaseong FC,195174,Gyeongnam FC,22020,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13523075,38,2025-11-08 07:30,Busan I Park,7642,Chungnam Asan FC,339827,0,3,,,,,,
+previous,71101,K-League 2 2025,777,13523076,38,2025-11-08 07:30,Cheonan City FC,41263,Seongnam FC,7651,1,3,,,,,,
+previous,71101,K-League 2 2025,777,13523077,38,2025-11-09 05:00,Cheongju FC,314293,Seoul E-Land FC,189422,0,2,,,,,,
+previous,71101,K-League 2 2025,777,13523078,38,2025-11-09 05:00,Ansan Greeners FC,248375,Suwon Samsung Bluewings,7652,1,1,,,,,,
+previous,71101,K-League 2 2025,777,13523079,38,2025-11-09 07:30,Gimpo FC,195172,Bucheon FC 1995,92539,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13364799,39,2025-11-23 05:00,Chungnam Asan FC,339827,Jeonnam Dragons,7643,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13364800,39,2025-11-23 05:00,Seongnam FC,7651,Busan I Park,7642,2,1,,,,,,
+previous,71101,K-League 2 2025,777,13364813,39,2025-11-23 05:00,Seoul E-Land FC,189422,Ansan Greeners FC,248375,6,0,,,,,,
+previous,71101,K-League 2 2025,777,13364818,39,2025-11-23 05:00,Gyeongnam FC,22020,Cheonan City FC,41263,2,0,,,,,,
+previous,71101,K-League 2 2025,777,13364848,39,2025-11-23 05:00,Incheon United,7648,Cheongju FC,314293,0,1,,,,,,
+previous,71101,K-League 2 2025,777,13364849,39,2025-11-23 05:00,Bucheon FC 1995,92539,Hwaseong FC,195174,0,0,,,,,,
+previous,71101,K-League 2 2025,777,13364850,39,2025-11-23 05:00,Suwon Samsung Bluewings,7652,Gimpo FC,195172,1,1,,,,,,
+current,88837,K-League 2 2026,777,15403804,1,2026-02-28 05:00,Gimhae City FC,41260,Ansan Greeners FC,248375,1,4,2.1,3.2,3.1,1.85,3.3,3.75
+current,88837,K-League 2 2026,777,15403785,1,2026-02-28 07:30,Suwon Samsung Bluewings,7652,Seoul E-Land FC,189422,2,1,2.35,3.2,2.63,1.95,3.3,3.3
+current,88837,K-League 2 2026,777,15403806,1,2026-03-01 05:00,Daegu FC,7644,Hwaseong FC,195174,1,0,1.5,3.5,6.0,1.55,3.4,5.5
+current,88837,K-League 2 2026,777,15403987,1,2026-03-01 05:00,Yongin City FC,41266,Cheonan City FC,41263,2,2,2.3,3.2,2.7,2.35,3.2,2.63
+current,88837,K-League 2 2026,777,15403988,1,2026-03-01 05:00,Cheongju FC,314293,Suwon FC,41261,1,4,3.5,3.25,1.9091,3.25,3.0,2.1
+current,88837,K-League 2 2026,777,15403802,1,2026-03-01 07:30,Gyeongnam FC,22020,Jeonnam Dragons,7643,1,4,2.88,3.1,2.25,3.0,3.2,2.1
+current,88837,K-League 2 2026,777,15403795,1,2026-03-02 05:00,Chungnam Asan FC,339827,Paju Frontier FC,314294,3,2,1.44,4.0,5.75,1.6,3.4,5.0
+current,88837,K-League 2 2026,777,15403796,1,2026-03-02 07:30,Busan I Park,7642,Seongnam FC,7651,1,1,2.6,2.9,2.6,2.63,2.88,2.63
+current,88837,K-League 2 2026,777,15403786,2,2026-03-07 05:00,Seoul E-Land FC,189422,Gyeongnam FC,22020,1,0,1.62,3.4,5.5,1.6,3.5,5.5
+current,88837,K-League 2 2026,777,15403791,2,2026-03-07 05:00,Paju Frontier FC,314294,Suwon Samsung Bluewings,7652,0,1,5.0,4.0,1.5,5.25,3.9,1.48
+current,88837,K-League 2 2026,777,15403789,2,2026-03-07 07:30,Daegu FC,7644,Jeonnam Dragons,7643,4,2,1.91,3.4,3.4,1.9,3.4,3.5
+current,88837,K-League 2 2026,777,15403989,2,2026-03-07 07:30,Suwon FC,41261,Yongin City FC,41266,3,1,1.55,3.75,5.0,1.5,3.8,5.25
+current,88837,K-League 2 2026,777,15403784,2,2026-03-08 05:00,Ansan Greeners FC,248375,Busan I Park,7642,1,3,3.8,3.0,2.0,3.7,3.0,2.05
+current,88837,K-League 2 2026,777,15403799,2,2026-03-08 05:00,Seongnam FC,7651,Cheongju FC,314293,2,2,1.7,3.25,5.0,1.73,3.25,4.75
+current,88837,K-League 2 2026,777,15403788,2,2026-03-08 07:30,Cheonan City FC,41263,Gimpo FC,195172,0,1,3.8,3.1,1.95,3.9,3.1,1.91
+current,88837,K-League 2 2026,777,15403790,2,2026-03-08 07:30,Hwaseong FC,195174,Gimhae City FC,41260,2,0,2.25,3.1,2.9,2.05,3.2,3.2
+current,88837,K-League 2 2026,777,15403787,3,2026-03-14 05:00,Gimhae City FC,41260,Suwon FC,41261,1,2,4.5,3.25,1.7,5.0,3.4,1.6
+current,88837,K-League 2 2026,777,15403792,3,2026-03-14 05:00,Seoul E-Land FC,189422,Busan I Park,7642,2,3,2.3,2.9,2.88,2.3,2.9,2.88
+current,88837,K-League 2 2026,777,15403793,3,2026-03-14 05:00,Suwon Samsung Bluewings,7652,Jeonnam Dragons,7643,2,0,1.85,3.4,3.6,1.8,3.4,3.7
+current,88837,K-League 2 2026,777,15403794,3,2026-03-14 07:30,Yongin City FC,41266,Gimpo FC,195172,1,3,4.0,2.9,1.91,4.75,3.0,1.75
+current,88837,K-League 2 2026,777,15403803,3,2026-03-14 07:30,Gyeongnam FC,22020,Cheongju FC,314293,2,2,2.5,2.9,2.63,2.45,2.9,2.7
+current,88837,K-League 2 2026,777,15403797,3,2026-03-15 05:00,Ansan Greeners FC,248375,Paju Frontier FC,314294,1,2,2.1,3.2,3.1,2.35,3.1,2.75
+current,88837,K-League 2 2026,777,15403800,3,2026-03-15 05:00,Chungnam Asan FC,339827,Daegu FC,7644,2,3,2.75,3.25,2.25,2.9,3.3,2.15
+current,88837,K-League 2 2026,777,15403798,3,2026-03-15 07:30,Hwaseong FC,195174,Cheonan City FC,41263,2,2,1.91,3.1,3.75,2.15,3.0,3.1
+current,88837,K-League 2 2026,777,15403801,4,2026-03-21 05:00,Seongnam FC,7651,Chungnam Asan FC,339827,2,1,2.1,3.2,3.25,2.2,3.2,3.1
+current,88837,K-League 2 2026,777,15403805,4,2026-03-21 05:00,Gimhae City FC,41260,Suwon Samsung Bluewings,7652,0,3,5.0,3.6,1.62,6.0,3.75,1.5
+current,88837,K-League 2 2026,777,15403807,4,2026-03-21 05:00,Paju Frontier FC,314294,Jeonnam Dragons,7643,2,0,4.2,3.6,1.73,3.7,3.25,1.95
+current,88837,K-League 2 2026,777,15403810,4,2026-03-21 07:30,Cheonan City FC,41263,Seoul E-Land FC,189422,0,0,4.2,3.2,1.85,3.75,3.2,1.95
+current,88837,K-League 2 2026,777,15403817,4,2026-03-21 07:30,Cheongju FC,314293,Ansan Greeners FC,248375,1,1,2.25,3.1,3.1,2.2,3.1,3.2
+current,88837,K-League 2 2026,777,15403812,4,2026-03-22 05:00,Hwaseong FC,195174,Yongin City FC,41266,0,0,1.8,3.2,4.0,1.8,3.2,4.1
+current,88837,K-League 2 2026,777,15403819,4,2026-03-22 05:00,Busan I Park,7642,Daegu FC,7644,3,1,2.6,3.1,2.6,2.6,3.1,2.6
+current,88837,K-League 2 2026,777,15403809,4,2026-03-22 07:30,Gyeongnam FC,22020,Gimpo FC,195172,1,0,3.6,3.25,1.95,4.2,3.3,1.8
+current,88837,K-League 2 2026,777,15403808,5,2026-03-28 05:00,Yongin City FC,41266,Suwon Samsung Bluewings,7652,0,1,5.0,3.6,1.55,5.5,3.7,1.48
+current,88837,K-League 2 2026,777,15403813,5,2026-03-28 05:00,Chungnam Asan FC,339827,Hwaseong FC,195174,1,0,2.2,3.2,3.1,2.15,3.2,3.2
+current,88837,K-League 2 2026,777,15403811,5,2026-03-28 07:30,Cheonan City FC,41263,Jeonnam Dragons,7643,1,0,3.5,3.3,2.0,3.4,3.2,2.05
+current,88837,K-League 2 2026,777,15403815,5,2026-03-28 07:30,Ansan Greeners FC,248375,Gyeongnam FC,22020,1,1,2.6,3.2,2.6,3.25,3.3,2.15
+current,88837,K-League 2 2026,777,15403816,5,2026-03-28 07:30,Seongnam FC,7651,Gimpo FC,195172,0,0,2.5,3.0,3.0,2.8,3.0,2.7
+current,88837,K-League 2 2026,777,15403814,5,2026-03-29 05:00,Cheongju FC,314293,Busan I Park,7642,1,2,3.8,3.0,2.0,4.5,3.1,1.8
+current,88837,K-League 2 2026,777,15403818,5,2026-03-29 05:00,Suwon FC,41261,Paju Frontier FC,314294,2,1,1.6,3.75,4.5,1.53,3.8,5.0
+current,88837,K-League 2 2026,777,15403820,5,2026-03-29 07:30,Daegu FC,7644,Seoul E-Land FC,189422,1,3,2.15,3.3,3.0,2.05,3.25,3.2
+current,88837,K-League 2 2026,777,15403821,6,2026-04-04 05:00,Yongin City FC,41266,Jeonnam Dragons,7643,2,2,3.3,3.2,1.95,3.2,3.2,2.05
+current,88837,K-League 2 2026,777,15403822,6,2026-04-04 05:00,Seoul E-Land FC,189422,Suwon FC,41261,3,0,2.25,3.1,2.88,2.63,3.1,2.4
+current,88837,K-League 2 2026,777,15403823,6,2026-04-04 07:30,Hwaseong FC,195174,Seongnam FC,7651,1,3,2.8,2.75,2.5,3.0,2.75,2.4
+current,88837,K-League 2 2026,777,15403824,6,2026-04-04 07:30,Gyeongnam FC,22020,Busan I Park,7642,1,2,3.8,3.0,1.91,4.2,3.1,1.8
+current,88837,K-League 2 2026,777,15403825,6,2026-04-05 05:00,Daegu FC,7644,Gimpo FC,195172,3,3,2.1,3.1,3.2,2.15,3.1,3.1
+current,88837,K-League 2 2026,777,15403826,6,2026-04-05 05:00,Suwon Samsung Bluewings,7652,Cheongju FC,314293,0,0,1.5,3.6,6.0,1.42,3.8,6.5
+current,88837,K-League 2 2026,777,15403827,6,2026-04-05 07:30,Paju Frontier FC,314294,Gimhae City FC,41260,3,1,2.3,3.1,2.8,2.35,3.1,2.75
+current,88837,K-League 2 2026,777,15403828,6,2026-04-05 07:30,Ansan Greeners FC,248375,Chungnam Asan FC,339827,1,3,4.0,3.3,1.8,4.0,3.3,1.75
+current,88837,K-League 2 2026,777,15403829,7,2026-04-11 05:00,Busan I Park,7642,Yongin City FC,41266,2,0,1.62,3.3,5.0,1.5,3.5,6.0
+current,88837,K-League 2 2026,777,15403830,7,2026-04-11 05:00,Suwon FC,41261,Daegu FC,7644,2,2,2.2,3.3,2.7,2.35,3.4,2.5
+current,88837,K-League 2 2026,777,15403831,7,2026-04-11 07:30,Paju Frontier FC,314294,Seoul E-Land FC,189422,1,3,3.8,3.1,1.85,3.9,3.1,1.83
+current,88837,K-League 2 2026,777,15403833,7,2026-04-11 07:30,Hwaseong FC,195174,Jeonnam Dragons,7643,1,0,2.6,3.0,2.5,2.55,3.0,2.55
+current,88837,K-League 2 2026,777,15403832,7,2026-04-12 05:00,Suwon Samsung Bluewings,7652,Gimpo FC,195172,0,1,1.8,3.2,4.1,1.9,3.1,3.8
+current,88837,K-League 2 2026,777,15403835,7,2026-04-12 05:00,Cheonan City FC,41263,Cheongju FC,314293,2,2,2.25,3.1,2.88,2.45,3.0,2.7
+current,88837,K-League 2 2026,777,15403834,7,2026-04-12 07:30,Seongnam FC,7651,Ansan Greeners FC,248375,0,1,1.48,3.5,6.25,1.53,3.4,6.0
+current,88837,K-League 2 2026,777,15403836,7,2026-04-12 07:30,Chungnam Asan FC,339827,Gimhae City FC,41260,1,1,1.6,3.4,5.0,1.67,3.3,4.5
+current,88837,K-League 2 2026,777,15403837,8,2026-04-18 05:00,Busan I Park,7642,Suwon FC,41261,2,1,2.5,3.25,2.5,2.5,3.25,2.45
+current,88837,K-League 2 2026,777,15403841,8,2026-04-18 05:00,Gyeongnam FC,22020,Suwon Samsung Bluewings,7652,0,1,5.25,3.8,1.55,5.0,3.4,1.65
+current,88837,K-League 2 2026,777,15403839,8,2026-04-18 07:30,Cheongju FC,314293,Gimhae City FC,41260,1,1,2.25,3.25,2.9,2.25,3.25,2.9
+current,88837,K-League 2 2026,777,15403840,8,2026-04-18 07:30,Daegu FC,7644,Cheonan City FC,41263,1,2,1.53,3.8,5.5,1.55,3.8,5.25
+current,88837,K-League 2 2026,777,15403838,8,2026-04-19 05:00,Seongnam FC,7651,Paju Frontier FC,314294,0,1,1.85,3.2,4.2,1.8,3.25,4.3333
+current,88837,K-League 2 2026,777,15403842,8,2026-04-19 05:00,Ansan Greeners FC,248375,Seoul E-Land FC,189422,0,2,5.5,3.75,1.53,6.5,4.3333,1.4
+current,88837,K-League 2 2026,777,15403843,8,2026-04-19 07:30,Chungnam Asan FC,339827,Jeonnam Dragons,7643,2,2,1.95,3.4,3.5,2.05,3.4,3.2
+current,88837,K-League 2 2026,777,15403844,8,2026-04-19 07:30,Hwaseong FC,195174,Gimpo FC,195172,2,2,3.1,3.0,2.3,3.9,2.9,2.05
+current,88837,K-League 2 2026,777,15403845,9,2026-04-25 05:00,Suwon Samsung Bluewings,7652,Busan I Park,7642,3,2,2.0,3.1,3.4,2.05,3.1,3.25
+current,88837,K-League 2 2026,777,15403846,9,2026-04-25 05:00,Paju Frontier FC,314294,Gyeongnam FC,22020,2,3,2.25,3.1,2.88,2.25,3.1,2.9
+current,88837,K-League 2 2026,777,15403847,9,2026-04-25 07:30,Cheonan City FC,41263,Seongnam FC,7651,1,1,3.7,3.1,1.91,3.6,3.0,2.0
+current,88837,K-League 2 2026,777,15403849,9,2026-04-25 07:30,Ansan Greeners FC,248375,Jeonnam Dragons,7643,2,1,4.0,3.2,1.8,4.5,3.4,1.65
+current,88837,K-League 2 2026,777,15403851,9,2026-04-26 05:00,Seoul E-Land FC,189422,Hwaseong FC,195174,1,2,1.75,3.2,4.3333,1.65,3.3,4.75
+current,88837,K-League 2 2026,777,15403852,9,2026-04-26 05:00,Suwon FC,41261,Gimpo FC,195172,1,1,2.2,3.4,2.8,2.38,3.2,2.6
+current,88837,K-League 2 2026,777,15403848,9,2026-04-26 07:30,Yongin City FC,41266,Gimhae City FC,41260,4,1,2.2,3.1,2.9,2.1,3.1,3.1
+current,88837,K-League 2 2026,777,15403850,9,2026-04-26 07:30,Cheongju FC,314293,Chungnam Asan FC,339827,0,0,3.1,3.1,2.15,3.2,3.1,2.15
+current,88837,K-League 2 2026,777,15403853,10,2026-05-03 05:00,Hwaseong FC,195174,Ansan Greeners FC,248375,2,0,1.7,3.6,4.5,1.73,3.5,4.3333
+current,88837,K-League 2 2026,777,15403854,10,2026-05-03 05:00,Daegu FC,7644,Gyeongnam FC,22020,2,0,1.6,3.8,4.75,1.65,3.75,4.5
+current,88837,K-League 2 2026,777,15403855,10,2026-05-03 05:00,Seoul E-Land FC,189422,Gimpo FC,195172,2,1,2.2,3.1,3.2,2.2,3.1,3.1
+current,88837,K-League 2 2026,777,15403856,10,2026-05-03 07:30,Paju Frontier FC,314294,Cheongju FC,314293,0,0,2.3,3.1,3.0,2.4,3.1,2.8
+current,88837,K-League 2 2026,777,15403857,10,2026-05-03 07:30,Yongin City FC,41266,Seongnam FC,7651,1,2,3.4,3.2,2.1,3.25,3.2,2.15
+current,88837,K-League 2 2026,777,15403863,10,2026-05-03 07:30,Cheonan City FC,41263,Chungnam Asan FC,339827,1,0,3.5,3.4,1.95,3.0,3.4,2.15
+current,88837,K-League 2 2026,777,15403874,10,2026-05-03 07:30,Gimhae City FC,41260,Busan I Park,7642,0,1,4.2,3.4,1.8,5.25,3.9,1.57
+current,88837,K-League 2 2026,777,15403860,10,2026-05-03 10:00,Suwon FC,41261,Suwon Samsung Bluewings,7652,3,1,2.9,3.5,2.2,3.1,3.5,2.1
+current,88837,K-League 2 2026,777,15403859,11,2026-05-09 05:00,Chungnam Asan FC,339827,Seoul E-Land FC,189422,3,0,3.0,3.2,2.15,3.0,3.2,2.15
+current,88837,K-League 2 2026,777,15403862,11,2026-05-09 05:00,Hwaseong FC,195174,Suwon FC,41261,1,1,3.2,3.1,2.1,3.2,3.1,2.1
+current,88837,K-League 2 2026,777,15403858,11,2026-05-09 07:30,Suwon Samsung Bluewings,7652,Daegu FC,7644,0,0,1.9,3.4,3.4,2.0,3.3,3.2
+current,88837,K-League 2 2026,777,15403861,11,2026-05-09 07:30,Cheongju FC,314293,Gimpo FC,195172,1,1,4.3333,2.9,1.85,4.1,2.88,1.91
+current,88837,K-League 2 2026,777,15403865,11,2026-05-10 05:00,Seongnam FC,7651,Jeonnam Dragons,7643,0,0,2.1,3.1,3.2,2.05,3.1,3.25
+current,88837,K-League 2 2026,777,15403864,11,2026-05-10 07:30,Ansan Greeners FC,248375,Yongin City FC,41266,1,2,3.6,3.25,1.9,3.5,3.1,1.95
+current,88837,K-League 2 2026,777,15403866,11,2026-05-10 07:30,Busan I Park,7642,Cheonan City FC,41263,1,0,1.65,3.5,4.5,1.7,3.4,4.3333
+current,88837,K-League 2 2026,777,15403867,11,2026-05-10 10:00,Gyeongnam FC,22020,Gimhae City FC,41260,2,1,2.15,3.2,3.0,2.2,3.1,3.0
+current,88837,K-League 2 2026,777,15403869,12,2026-05-16 07:30,Jeonnam Dragons,7643,Cheongju FC,314293,2,2,2.15,3.1,3.1,2.15,3.0,3.2
+current,88837,K-League 2 2026,777,15403870,12,2026-05-16 07:30,Seoul E-Land FC,189422,Yongin City FC,41266,2,2,1.53,3.75,5.2,1.6,3.6,4.75
+current,88837,K-League 2 2026,777,15403868,12,2026-05-16 10:00,Cheonan City FC,41263,Paju Frontier FC,314294,0,0,2.3,3.1,2.8,2.4,3.1,2.7
+current,88837,K-League 2 2026,777,15403871,12,2026-05-16 10:00,Ansan Greeners FC,248375,Gimpo FC,195172,0,1,5.75,3.8,1.48,5.5,3.8,1.5
+current,88837,K-League 2 2026,777,15403872,12,2026-05-17 07:30,Gimhae City FC,41260,Daegu FC,7644,1,4,4.75,3.75,1.57,4.5,3.9,1.57
+current,88837,K-League 2 2026,777,15403873,12,2026-05-17 07:30,Seongnam FC,7651,Gyeongnam FC,22020,1,1,1.83,3.1,4.1,1.95,2.9,3.9
+current,88837,K-League 2 2026,777,15403875,12,2026-05-17 07:30,Hwaseong FC,195174,Busan I Park,7642,3,2,3.2,3.1,2.1,3.1,3.0,2.2
+current,88837,K-League 2 2026,777,15404021,12,2026-05-17 10:00,Chungnam Asan FC,339827,Suwon FC,41261,1,3,2.5,3.4,2.38,2.45,3.5,2.38
+current,88837,K-League 2 2026,777,15403877,13,2026-05-23 07:30,Jeonnam Dragons,7643,Gimhae City FC,41260,0,1,1.8,3.4,4.0,1.67,3.6,4.5
+current,88837,K-League 2 2026,777,15403881,13,2026-05-23 07:30,Gyeongnam FC,22020,Suwon FC,41261,3,2,3.5,3.4,1.95,3.4,3.4,2.0
+current,88837,K-League 2 2026,777,15403880,13,2026-05-23 10:00,Cheongju FC,314293,Hwaseong FC,195174,2,3,2.5,3.0,2.8,2.6,3.0,2.7
+current,88837,K-League 2 2026,777,15403878,13,2026-05-24 07:30,Yongin City FC,41266,Chungnam Asan FC,339827,0,0,3.2,3.3,2.1,2.63,3.25,2.45
+current,88837,K-League 2 2026,777,15403886,13,2026-05-24 10:00,Daegu FC,7644,Ansan Greeners FC,248375,3,0,1.36,4.5,7.0,1.38,4.5,7.0
+current,88837,K-League 2 2026,777,15403887,13,2026-05-24 10:00,Seoul E-Land FC,189422,Seongnam FC,7651,3,1,2.0,3.2,3.6,2.0,3.2,3.6
+current,88837,K-League 2 2026,777,15403879,13,2026-05-25 07:30,Suwon Samsung Bluewings,7652,Cheonan City FC,41263,3,2,1.53,3.8,5.5,1.65,3.6,4.75
+current,88837,K-League 2 2026,777,15403882,13,2026-05-25 07:30,Paju Frontier FC,314294,Gimpo FC,195172,0,1,3.75,3.25,1.91,3.9,3.2,1.9
+current,88837,K-League 2 2026,777,15403883,14,2026-05-30 07:30,Busan I Park,7642,Paju Frontier FC,314294,4,1,1.65,3.4,4.5,1.62,3.5,4.75
+current,88837,K-League 2 2026,777,15403884,14,2026-05-30 07:30,Chungnam Asan FC,339827,Suwon Samsung Bluewings,7652,2,1,3.4,3.3,1.9,4.2,3.5,1.67
+current,88837,K-League 2 2026,777,15403891,14,2026-05-30 07:30,Yongin City FC,41266,Daegu FC,7644,1,1,3.9,3.5,1.75,4.5,3.75,1.57
+current,88837,K-League 2 2026,777,15403885,14,2026-05-30 10:00,Gimhae City FC,41260,Gimpo FC,195172,1,2,5.0,3.4,1.62,4.75,3.4,1.65
+current,88837,K-League 2 2026,777,15403890,14,2026-05-30 10:00,Suwon FC,41261,Seongnam FC,7651,0,0,2.1,3.2,3.0,2.15,3.2,2.9
+current,88837,K-League 2 2026,777,15403888,14,2026-05-31 07:30,Jeonnam Dragons,7643,Seoul E-Land FC,189422,0,1,3.25,3.25,2.05,3.5,3.4,1.91
+current,88837,K-League 2 2026,777,15403889,14,2026-05-31 07:30,Hwaseong FC,195174,Gyeongnam FC,22020,2,0,2.05,3.1,3.3,2.2,3.1,3.2
+current,88837,K-League 2 2026,777,15403893,14,2026-05-31 10:00,Ansan Greeners FC,248375,Cheonan City FC,41263,1,3,3.4,3.2,1.95,3.75,3.25,1.85
+current,88837,K-League 2 2026,777,15403892,15,2026-06-05 10:30,Daegu FC,7644,Paju Frontier FC,314294,1,0,1.44,4.0,6.5,1.45,4.1,6.25
+current,88837,K-League 2 2026,777,15403895,15,2026-06-05 10:30,Busan I Park,7642,Chungnam Asan FC,339827,2,2,1.83,3.4,4.0,1.67,3.6,4.75
+current,88837,K-League 2 2026,777,15403896,15,2026-06-05 10:30,Seongnam FC,7651,Gimhae City FC,41260,1,1,1.73,3.4,4.5,1.83,3.3,4.0
+current,88837,K-League 2 2026,777,15403894,15,2026-06-06 10:30,Gyeongnam FC,22020,Yongin City FC,41266,2,2,2.25,3.25,2.9,2.7,3.2,2.4
+current,88837,K-League 2 2026,777,15403897,15,2026-06-06 10:30,Hwaseong FC,195174,Suwon Samsung Bluewings,7652,1,2,3.75,3.3,1.91,3.25,3.25,2.1
+current,88837,K-League 2 2026,777,15403898,15,2026-06-07 10:30,Seoul E-Land FC,189422,Cheongju FC,314293,1,2,1.67,3.5,4.75,1.45,4.2,6.0
+current,88837,K-League 2 2026,777,15403899,15,2026-06-07 10:30,Cheonan City FC,41263,Suwon FC,41261,2,2,3.2,3.4,2.05,3.0,3.25,2.2
+current,88837,K-League 2 2026,777,15403912,15,2026-06-07 10:30,Gimpo FC,195172,Jeonnam Dragons,7643,2,2,1.91,3.25,3.8,1.85,3.3,4.0
+current,88837,K-League 2 2026,777,15403900,16,2026-07-04 10:30,Cheongju FC,314293,Daegu FC,7644,1,5,4.5,3.6,1.62,4.3333,3.5,1.67
+current,88837,K-League 2 2026,777,15403901,16,2026-07-04 10:30,Ansan Greeners FC,248375,Suwon FC,41261,1,3,5.25,3.9,1.5,4.5,3.8,1.6
+current,88837,K-League 2 2026,777,15403905,16,2026-07-04 10:30,Suwon Samsung Bluewings,7652,Seongnam FC,7651,1,0,2.0,3.1,3.4,1.75,3.4,4.0
+current,88837,K-League 2 2026,777,16299965,16,2026-07-04 10:30,Paju Frontier FC,314294,Yongin City FC,41266,0,1,2.63,3.2,2.35,2.55,3.2,2.45
+current,88837,K-League 2 2026,777,15403903,16,2026-07-05 10:30,Gyeongnam FC,22020,Cheonan City FC,41263,2,1,2.3,3.1,2.75,2.25,3.3,2.63
+current,88837,K-League 2 2026,777,15403904,16,2026-07-05 10:30,Gimpo FC,195172,Chungnam Asan FC,339827,0,2,1.83,3.25,3.8,1.75,3.3,4.1
+current,88837,K-League 2 2026,777,15403907,16,2026-07-05 10:30,Jeonnam Dragons,7643,Busan I Park,7642,3,3,2.8,3.2,2.25,2.88,3.4,2.1
+current,88837,K-League 2 2026,777,15403914,16,2026-07-05 10:30,Gimhae City FC,41260,Seoul E-Land FC,189422,1,3,4.75,3.8,1.55,4.75,4.0,1.5
+current,88837,K-League 2 2026,777,15403910,17,2026-07-10 10:30,Suwon FC,41261,Jeonnam Dragons,7643,5,0,1.85,3.5,3.7,1.7,3.9,4.0
+current,88837,K-League 2 2026,777,15403911,17,2026-07-10 10:30,Cheonan City FC,41263,Gimhae City FC,41260,0,1,2.1,3.25,3.2,1.73,3.6,4.1
+current,88837,K-League 2 2026,777,15403908,17,2026-07-11 10:30,Ansan Greeners FC,248375,Suwon Samsung Bluewings,7652,2,1,7.0,4.5,1.36,7.5,5.0,1.3
+current,88837,K-League 2 2026,777,15403909,17,2026-07-11 10:30,Daegu FC,7644,Seongnam FC,7651,3,2,1.85,3.4,3.8,1.7,3.6,4.3333
+current,88837,K-League 2 2026,777,15403915,17,2026-07-11 10:30,Hwaseong FC,195174,Paju Frontier FC,314294,1,2,1.85,3.3,3.9,1.67,3.5,4.75
+current,88837,K-League 2 2026,777,16303039,17,2026-07-11 10:30,Yongin City FC,41266,Cheongju FC,314293,1,1,2.25,3.1,2.9,2.2,3.1,3.0
+current,88837,K-League 2 2026,777,15403918,17,2026-07-12 10:30,Chungnam Asan FC,339827,Gyeongnam FC,22020,1,1,1.9,3.4,3.4,2.15,3.25,3.0
+current,88837,K-League 2 2026,777,15403919,17,2026-07-12 10:30,Busan I Park,7642,Gimpo FC,195172,2,0,2.25,3.0,3.0,2.25,3.0,3.0
+current,88837,K-League 2 2026,777,15403913,18,2026-07-18 10:30,Jeonnam Dragons,7643,Chungnam Asan FC,339827,1,0,2.55,3.2,2.45,2.55,3.2,2.45
+current,88837,K-League 2 2026,777,15403916,18,2026-07-18 10:30,Gimpo FC,195172,Daegu FC,7644,1,1,2.9,3.1,2.25,3.4,3.25,1.95
+current,88837,K-League 2 2026,777,15403917,18,2026-07-18 10:30,Seongnam FC,7651,Busan I Park,7642,1,0,2.8,3.1,2.3,2.9,3.1,2.2
+current,88837,K-League 2 2026,777,15403923,18,2026-07-18 10:30,Suwon FC,41261,Seoul E-Land FC,189422,2,2,2.8,3.4,2.1,2.5,3.5,2.3
+current,88837,K-League 2 2026,777,15403920,18,2026-07-19 10:30,Gyeongnam FC,22020,Ansan Greeners FC,248375,5,0,1.73,3.3,4.2,1.7,3.4,4.2
+current,88837,K-League 2 2026,777,15403921,18,2026-07-19 10:30,Cheongju FC,314293,Cheonan City FC,41263,1,0,2.7,3.1,2.38,2.25,3.1,2.88
+current,88837,K-League 2 2026,777,15403922,18,2026-07-19 10:30,Suwon Samsung Bluewings,7652,Paju Frontier FC,314294,0,0,1.42,3.9,6.5,1.3,4.5,8.0
+current,88837,K-League 2 2026,777,16303040,18,2026-07-19 10:30,Yongin City FC,41266,Hwaseong FC,195174,0,3,2.75,3.1,2.3,2.7,3.1,2.38
+current,88837,K-League 2 2026,777,15403925,19,2026-07-24 10:30,Seoul E-Land FC,189422,Cheonan City FC,41263,4,3,1.5,3.8,5.5,1.48,4.1,5.25
+current,88837,K-League 2 2026,777,15403926,19,2026-07-24 10:30,Gimhae City FC,41260,Cheongju FC,314293,1,1,3.1,3.1,2.15,3.1,3.0,2.2
+current,88837,K-League 2 2026,777,15403927,19,2026-07-25 10:30,Busan I Park,7642,Suwon Samsung Bluewings,7652,1,4,2.8,3.2,2.25,2.63,3.1,2.4
+current,88837,K-League 2 2026,777,15403930,19,2026-07-25 10:30,Jeonnam Dragons,7643,Gyeongnam FC,22020,1,1,2.3,3.25,2.7,2.45,3.2,2.55
+current,88837,K-League 2 2026,777,15403931,19,2026-07-25 10:30,Hwaseong FC,195174,Chungnam Asan FC,339827,3,2,2.1,3.2,3.1,2.25,3.1,2.9
+current,88837,K-League 2 2026,777,15403932,19,2026-07-25 10:30,Daegu FC,7644,Suwon FC,41261,1,2,1.8,3.6,3.5,2.05,3.5,2.9
+current,88837,K-League 2 2026,777,15403929,19,2026-07-26 10:30,Paju Frontier FC,314294,Ansan Greeners FC,248375,0,1,1.91,3.25,3.5,1.67,3.5,4.3333
+current,88837,K-League 2 2026,777,16299959,19,2026-07-26 10:30,Gimpo FC,195172,Yongin City FC,41266,1,1,1.7,3.3,4.5,1.85,3.2,3.9
+current,88837,K-League 2 2026,777,15403934,20,2026-08-01 10:30,Chungnam Asan FC,339827,Seongnam FC,7651,2,0,2.45,3.1,2.55,2.35,3.1,2.63
+current,88837,K-League 2 2026,777,15403935,20,2026-08-01 10:30,Cheongju FC,314293,Suwon Samsung Bluewings,7652,2,2,5.0,3.7,1.53,4.75,3.75,1.57
+current,88837,K-League 2 2026,777,15403940,20,2026-08-01 10:30,Hwaseong FC,195174,Daegu FC,7644,5,1,3.1,3.4,2.0,3.1,3.4,2.0
+current,88837,K-League 2 2026,777,16299964,20,2026-08-01 10:30,Cheonan City FC,41263,Yongin City FC,41266,2,2,2.35,3.25,2.55,2.4,3.2,2.55
+current,88837,K-League 2 2026,777,15403936,20,2026-08-02 10:30,Jeonnam Dragons,7643,Paju Frontier FC,314294,1,2,1.91,3.25,3.5,2.1,3.1,3.1
+current,88837,K-League 2 2026,777,15403937,20,2026-08-02 10:30,Busan I Park,7642,Seoul E-Land FC,189422,1,2,2.7,3.4,2.25,2.5,3.6,2.3
+current,88837,K-League 2 2026,777,15403938,20,2026-08-02 10:30,Gimpo FC,195172,Gyeongnam FC,22020,1,1,1.83,3.2,3.75,1.9,3.1,3.7
+current,88837,K-League 2 2026,777,15403942,20,2026-08-02 10:30,Ansan Greeners FC,248375,Gimhae City FC,41260,2,2,2.88,3.3,2.15,2.63,3.2,2.4
+current,88837,K-League 2 2026,777,15403939,21,2026-08-07 11:00,Chungnam Asan FC,339827,Ansan Greeners FC,248375,1,1,1.5,3.9,5.25,1.4,4.2,6.5
+current,88837,K-League 2 2026,777,15403941,21,2026-08-07 11:00,Gimpo FC,195172,Cheongju FC,314293,3,0,,,,,,
+current,88837,K-League 2 2026,777,15403943,21,2026-08-07 11:00,Gyeongnam FC,22020,Daegu FC,7644,0,1,3.7,3.5,1.8,3.1,3.5,2.0
+current,88837,K-League 2 2026,777,15403944,21,2026-08-07 11:00,Hwaseong FC,195174,Seoul E-Land FC,189422,0,0,2.88,3.25,2.15,2.7,3.3,2.25
+current,88837,K-League 2 2026,777,15403946,21,2026-08-07 11:00,Suwon Samsung Bluewings,7652,Gimhae City FC,41260,1,0,1.7,3.3,4.3333,1.27,4.5,10.0
+current,88837,K-League 2 2026,777,16303036,21,2026-08-07 11:00,Yongin City FC,41266,Busan I Park,7642,2,0,3.5,3.3,1.85,3.4,3.3,1.9
+current,88837,K-League 2 2026,777,15403947,21,2026-08-08 11:00,Paju Frontier FC,314294,Suwon FC,41261,0,1,3.75,3.6,1.75,4.0,3.75,1.67
+current,88837,K-League 2 2026,777,15403948,21,2026-08-08 11:00,Seongnam FC,7651,Cheonan City FC,41263,3,2,2.0,3.2,3.5,2.1,3.1,3.4
+current,88837,K-League 2 2026,777,15403949,22,2026-08-15 10:30,Cheongju FC,314293,Jeonnam Dragons,7643,2,1,2.4,3.1,2.63,2.2,3.0,3.0
+current,88837,K-League 2 2026,777,15403950,22,2026-08-15 10:30,Suwon Samsung Bluewings,7652,Suwon FC,41261,2,2,1.85,3.5,3.3,1.9,3.5,3.3
+current,88837,K-League 2 2026,777,15403951,22,2026-08-15 10:30,Gimhae City FC,41260,Gyeongnam FC,22020,1,1,3.3,3.2,2.0,3.2,3.1,2.05
+current,88837,K-League 2 2026,777,15403953,22,2026-08-15 10:30,Busan I Park,7642,Hwaseong FC,195174,0,0,2.0,3.25,3.25,2.25,3.2,2.88
+current,88837,K-League 2 2026,777,15403952,22,2026-08-16 10:30,Seoul E-Land FC,189422,Ansan Greeners FC,248375,3,1,1.29,5.0,8.0,1.33,4.75,7.0
+current,88837,K-League 2 2026,777,15403954,22,2026-08-16 10:30,Daegu FC,7644,Chungnam Asan FC,339827,2,0,1.75,3.6,3.8,1.9,3.5,3.4
+current,88837,K-League 2 2026,777,15403955,22,2026-08-16 10:30,Gimpo FC,195172,Cheonan City FC,41263,1,1,1.75,3.3,4.0,1.65,3.6,4.3333
+current,88837,K-League 2 2026,777,15403957,22,2026-08-16 10:30,Paju Frontier FC,314294,Seongnam FC,7651,2,1,2.9,3.0,2.3,3.2,3.0,2.15
+current,88837,K-League 2 2026,777,15403956,23,2026-08-22 10:30,Suwon FC,41261,Gimhae City FC,41260,2,0,1.48,3.9,5.5,1.44,4.0,5.75
+current,88837,K-League 2 2026,777,15403958,23,2026-08-22 10:30,Cheonan City FC,41263,Suwon Samsung Bluewings,7652,0,1,4.2,3.7,1.65,5.5,4.1,1.45
+current,88837,K-League 2 2026,777,15403959,23,2026-08-22 10:30,Daegu FC,7644,Busan I Park,7642,1,1,2.0,3.5,3.1,1.85,3.5,3.5
+current,88837,K-League 2 2026,777,15403964,23,2026-08-22 10:30,Ansan Greeners FC,248375,Seongnam FC,7651,1,2,4.5,3.5,1.65,4.3333,3.4,1.7
+current,88837,K-League 2 2026,777,15403960,23,2026-08-23 10:30,Cheongju FC,314293,Gyeongnam FC,22020,1,1,2.55,3.25,2.38,2.4,3.2,2.5
+current,88837,K-League 2 2026,777,15403961,23,2026-08-23 10:30,Jeonnam Dragons,7643,Hwaseong FC,195174,1,0,3.3,3.5,1.91,3.5,3.5,1.85
+current,88837,K-League 2 2026,777,15403965,23,2026-08-23 10:30,Seoul E-Land FC,189422,Paju Frontier FC,314294,1,1,1.45,4.0,5.5,1.53,3.8,4.75
+current,88837,K-League 2 2026,777,16299966,23,2026-08-23 10:30,Chungnam Asan FC,339827,Yongin City FC,41266,2,1,1.91,3.4,3.4,1.95,3.4,3.4
+current,88837,K-League 2 2026,777,15403963,24,2026-08-28 10:30,Jeonnam Dragons,7643,Cheonan City FC,41263,1,0,2.25,3.3,2.7,2.3,3.3,2.63
+current,88837,K-League 2 2026,777,15403969,24,2026-08-28 10:30,Ansan Greeners FC,248375,Daegu FC,7644,1,2,6.0,4.3333,1.4,5.75,4.5,1.4
+current,88837,K-League 2 2026,777,15403962,24,2026-08-29 10:30,Gimpo FC,195172,Suwon Samsung Bluewings,7652,1,4,3.1,3.1,2.1,3.7,3.2,1.85
+current,88837,K-League 2 2026,777,15403966,24,2026-08-29 10:30,Seongnam FC,7651,Seoul E-Land FC,189422,1,1,3.0,3.3,2.15,3.6,3.4,1.85
+current,88837,K-League 2 2026,777,15403967,24,2026-08-29 10:30,Hwaseong FC,195174,Cheongju FC,314293,2,1,1.75,3.3,4.1,1.85,3.2,3.6
+current,88837,K-League 2 2026,777,15403971,24,2026-08-29 10:30,Gyeongnam FC,22020,Paju Frontier FC,314294,1,0,1.85,3.25,3.7,2.1,3.1,3.2
+current,88837,K-League 2 2026,777,15403970,24,2026-08-30 10:30,Suwon FC,41261,Busan I Park,7642,2,1,2.0,3.4,3.0,2.0,3.4,3.0
+current,88837,K-League 2 2026,777,16299969,24,2026-08-30 10:30,Gimhae City FC,41260,Yongin City FC,41266,0,3,2.88,3.1,2.25,2.88,3.1,2.25
+current,88837,K-League 2 2026,777,15403972,25,2026-09-04 10:30,Cheongju FC,314293,Seoul E-Land FC,189422,0,2,4.0,3.5,1.7273,4.2,3.7,1.65
+current,88837,K-League 2 2026,777,15403980,25,2026-09-04 10:30,Paju Frontier FC,314294,Daegu FC,7644,0,0,4.5,3.8,1.6,4.75,3.9,1.53
+current,88837,K-League 2 2026,777,15403973,25,2026-09-05 10:00,Busan I Park,7642,Ansan Greeners FC,248375,0,1,1.4,4.2,6.0,1.38,4.3333,6.0
+current,88837,K-League 2 2026,777,15403974,25,2026-09-05 10:00,Cheonan City FC,41263,Hwaseong FC,195174,1,1,3.4,3.3,1.95,3.4,3.3,1.95
+current,88837,K-League 2 2026,777,15403983,25,2026-09-05 10:00,Gimhae City FC,41260,Jeonnam Dragons,7643,2,2,2.75,3.25,2.25,2.6,3.25,2.38
+current,88837,K-League 2 2026,777,16303037,25,2026-09-05 10:00,Yongin City FC,41266,Suwon FC,41261,1,1,3.6,3.5,1.8,3.5,3.5,1.8
+current,88837,K-League 2 2026,777,15403975,25,2026-09-06 10:00,Gimpo FC,195172,Seongnam FC,7651,1,2,1.95,3.2,3.4,2.25,3.0,2.88
+current,88837,K-League 2 2026,777,15403978,25,2026-09-06 10:00,Suwon Samsung Bluewings,7652,Chungnam Asan FC,339827,2,0,1.53,3.75,5.0,1.5,3.8,5.25
+current,88837,K-League 2 2026,777,15403982,26,2026-09-12 07:30,Seoul E-Land FC,189422,Suwon Samsung Bluewings,7652,0,1,2.75,3.4,2.3,2.7,3.4,2.35
+current,88837,K-League 2 2026,777,16299960,26,2026-09-12 07:30,Daegu FC,7644,Yongin City FC,41266,3,1,1.57,4.0,4.75,1.53,4.1,5.0
+current,88837,K-League 2 2026,777,15403981,26,2026-09-12 10:00,Ansan Greeners FC,248375,Hwaseong FC,195174,0,2,5.0,4.0,1.55,4.75,4.0,1.57
+current,88837,K-League 2 2026,777,15403984,26,2026-09-12 10:00,Chungnam Asan FC,339827,Cheongju FC,314293,0,1,1.95,3.3,3.5,2.2,3.2,3.0
+current,88837,K-League 2 2026,777,15403985,26,2026-09-13 07:30,Jeonnam Dragons,7643,Gimpo FC,195172,2,2,3.6,3.25,1.95,3.6,3.25,1.95
+current,88837,K-League 2 2026,777,15403986,26,2026-09-13 07:30,Gyeongnam FC,22020,Seongnam FC,7651,1,0,2.8,3.0,2.45,2.75,3.2,2.4
+current,88837,K-League 2 2026,777,15403990,26,2026-09-13 10:00,Busan I Park,7642,Gimhae City FC,41260,2,0,1.67,3.75,4.5,1.57,3.9,5.0
+current,88837,K-League 2 2026,777,15403992,26,2026-09-13 10:00,Suwon FC,41261,Cheonan City FC,41263,1,1,1.6,3.8,4.75,1.55,3.9,5.0
+current,88837,K-League 2 2026,777,15403991,27,2026-09-19 07:30,Chungnam Asan FC,339827,Cheonan City FC,41263,3,1,1.95,3.3,3.25,2.1,3.25,3.0
+current,88837,K-League 2 2026,777,15403994,27,2026-09-19 07:30,Jeonnam Dragons,7643,Suwon FC,41261,0,3,3.6,3.5,1.8,3.8,3.6,1.73
+current,88837,K-League 2 2026,777,15403993,27,2026-09-19 10:00,Gimpo FC,195172,Busan I Park,7642,1,0,2.2,3.2,2.9,2.45,3.2,2.63
+current,88837,K-League 2 2026,777,15403995,27,2026-09-19 10:00,Seoul E-Land FC,189422,Daegu FC,7644,2,1,2.05,3.4,2.9,2.1,3.4,2.88
+current,88837,K-League 2 2026,777,15403996,27,2026-09-20 07:30,Ansan Greeners FC,248375,Cheongju FC,314293,2,3,3.5,3.4,1.85,3.2,3.4,1.95
+current,88837,K-League 2 2026,777,16303034,27,2026-09-20 07:30,Yongin City FC,41266,Gyeongnam FC,22020,0,0,2.2,3.1,2.9,2.2,3.0,3.0
+current,88837,K-League 2 2026,777,15403997,27,2026-09-20 10:00,Gimhae City FC,41260,Paju Frontier FC,314294,0,2,2.4,3.2,2.63,2.5,3.1,2.5
+current,88837,K-League 2 2026,777,15403999,27,2026-09-20 10:00,Seongnam FC,7651,Hwaseong FC,195174,2,2,2.63,3.1,2.4,2.63,3.1,2.4
+current,88837,K-League 2 2026,777,15404002,28,2026-10-09 05:00,Suwon FC,41261,Hwaseong FC,195174,1,0,1.9,3.4,3.3,1.85,3.5,3.4
+current,88837,K-League 2 2026,777,15404000,28,2026-10-09 07:30,Cheongju FC,314293,Seongnam FC,7651,3,1,2.55,3.1,2.45,2.55,3.0,2.5
+current,88837,K-League 2 2026,777,15404003,28,2026-10-09 07:30,Gimpo FC,195172,Seoul E-Land FC,189422,0,1,3.0,3.3,2.1,3.0,3.25,2.1
+current,88837,K-League 2 2026,777,15404004,28,2026-10-10 05:00,Paju Frontier FC,314294,Busan I Park,7642,1,1,3.4,3.25,1.9,3.3,3.25,1.95
+current,88837,K-League 2 2026,777,16299968,28,2026-10-10 05:00,Jeonnam Dragons,7643,Yongin City FC,41266,2,1,2.63,3.2,2.35,2.55,3.2,2.4
+current,88837,K-League 2 2026,777,15404005,28,2026-10-10 07:30,Cheonan City FC,41263,Gyeongnam FC,22020,1,0,2.3,3.1,2.75,2.1,3.1,3.0
+current,88837,K-League 2 2026,777,15404006,28,2026-10-10 07:30,Gimhae City FC,41260,Chungnam Asan FC,339827,1,1,3.3,3.3,1.91,3.3,3.3,1.91
+current,88837,K-League 2 2026,777,15404010,28,2026-10-11 05:00,Suwon Samsung Bluewings,7652,Ansan Greeners FC,248375,4,1,1.22,5.25,9.0,1.2,5.75,10.0
+current,88837,K-League 2 2026,777,15404007,29,2026-10-17 05:00,Daegu FC,7644,Cheongju FC,314293,3,1,1.5333,3.9,4.75,1.53,3.9,4.75
+current,88837,K-League 2 2026,777,15404009,29,2026-10-17 05:00,Seongnam FC,7651,Suwon FC,41261,1,2,3.3,3.4,1.9,3.4,3.5,1.85
+current,88837,K-League 2 2026,777,15404011,29,2026-10-17 07:30,Gyeongnam FC,22020,Chungnam Asan FC,339827,0,0,2.8,3.1,2.25,2.75,3.0,2.38
+current,88837,K-League 2 2026,777,15404012,29,2026-10-17 07:30,Gimpo FC,195172,Paju Frontier FC,314294,4,1,1.7,3.4,4.3333,1.8,3.3,4.0
+current,88837,K-League 2 2026,777,16303035,29,2026-10-17 07:30,Yongin City FC,41266,Ansan Greeners FC,248375,0,4,1.7,3.5,4.1,1.85,3.3,3.6
+current,88837,K-League 2 2026,777,15404013,29,2026-10-18 05:00,Suwon Samsung Bluewings,7652,Hwaseong FC,195174,3,2,1.65,3.6,4.2,1.57,3.7,4.5
+current,88837,K-League 2 2026,777,15404014,29,2026-10-18 05:00,Seoul E-Land FC,189422,Gimhae City FC,41260,6,2,1.38,4.3333,6.25,1.33,4.3333,7.0
+current,88837,K-League 2 2026,777,15404015,29,2026-10-18 07:30,Busan I Park,7642,Jeonnam Dragons,7643,2,1,1.75,3.5,3.8,1.8,3.5,3.7
+current,88837,K-League 2 2026,777,15404016,30,2026-10-24 05:00,Jeonnam Dragons,7643,Daegu FC,7644,2,4,4.3333,3.8,1.6,4.3333,3.8,1.6
+current,88837,K-League 2 2026,777,15404020,30,2026-10-24 07:30,Gimpo FC,195172,Gimhae City FC,41260,1,2,1.67,3.5,4.3333,1.62,3.6,4.5
+current,88837,K-League 2 2026,777,15404017,30,2026-10-25 05:00,Busan I Park,7642,Gyeongnam FC,22020,3,1,1.83,3.3,3.7,1.83,3.3,3.75
+current,88837,K-League 2 2026,777,15404018,30,2026-10-25 05:00,Seongnam FC,7651,Suwon Samsung Bluewings,7652,0,2,4.5,3.5,1.62,4.75,3.6,1.6
+current,88837,K-League 2 2026,777,16170121,30,2026-10-25 05:00,Suwon FC,41261,Chungnam Asan FC,339827,0,1,1.75,3.6,3.8,1.75,3.6,3.9
+current,88837,K-League 2 2026,777,15404019,30,2026-10-25 07:30,Cheonan City FC,41263,Ansan Greeners FC,248375,3,1,1.75,3.4,3.9,1.83,3.4,3.6
+current,88837,K-League 2 2026,777,15404025,30,2026-10-25 07:30,Paju Frontier FC,314294,Hwaseong FC,195174,1,1,4.1,3.4,1.73,4.3333,3.5,1.65
+current,88837,K-League 2 2026,777,16299961,30,2026-10-25 07:30,Cheongju FC,314293,Yongin City FC,41266,0,2,2.2,3.1,2.88,2.35,3.1,2.7
+current,88837,K-League 2 2026,777,15404026,31,2026-10-31 05:00,Gyeongnam FC,22020,Hwaseong FC,195174,1,0,3.3,3.25,2.05,3.3,3.25,2.05
+current,88837,K-League 2 2026,777,16303038,31,2026-10-31 05:00,Yongin City FC,41266,Seoul E-Land FC,189422,4,2,4.75,3.75,1.62,5.5,3.9,1.53
+current,88837,K-League 2 2026,777,15404024,31,2026-10-31 07:30,Chungnam Asan FC,339827,Gimpo FC,195172,5,1,2.55,3.3,2.55,2.25,3.3,2.9
+current,88837,K-League 2 2026,777,15404027,31,2026-10-31 07:30,Daegu FC,7644,Suwon Samsung Bluewings,7652,2,2,2.6,3.4,2.4,2.55,3.5,2.45
+current,88837,K-League 2 2026,777,15404029,31,2026-11-01 05:00,Suwon FC,41261,Ansan Greeners FC,248375,1,0,1.33,5.0,7.5,1.27,5.25,9.5
+current,88837,K-League 2 2026,777,15404031,31,2026-11-01 05:00,Jeonnam Dragons,7643,Seongnam FC,7651,2,2,2.8,3.4,2.25,2.63,3.4,2.38
+current,88837,K-League 2 2026,777,15404028,31,2026-11-01 07:30,Cheongju FC,314293,Paju Frontier FC,314294,1,2,2.1,3.3,3.2,2.2,3.25,3.0
+current,88837,K-League 2 2026,777,15404030,31,2026-11-01 07:30,Gimhae City FC,41260,Cheonan City FC,41263,3,3,2.88,3.3,2.25,2.7,3.3,2.38
+current,88837,K-League 2 2026,777,15404033,32,2026-11-07 05:00,Suwon FC,41261,Gyeongnam FC,22020,3,0,1.5,3.8,6.0,1.48,3.9,6.25
+current,88837,K-League 2 2026,777,15404035,32,2026-11-07 05:00,Seongnam FC,7651,Daegu FC,7644,0,1,4.3333,3.75,1.67,4.5,3.9,1.62
+current,88837,K-League 2 2026,777,15404032,32,2026-11-07 07:30,Gimpo FC,195172,Ansan Greeners FC,248375,2,2,1.6,3.8,4.75,1.65,3.7,4.3333
+current,88837,K-League 2 2026,777,15404034,32,2026-11-07 07:30,Gimhae City FC,41260,Hwaseong FC,195174,0,1,4.3333,3.8,1.67,3.9,3.7,1.75
+current,88837,K-League 2 2026,777,15404039,32,2026-11-07 07:30,Seoul E-Land FC,189422,Jeonnam Dragons,7643,3,2,1.44,4.2,6.0,1.48,4.1,5.5
+current,88837,K-League 2 2026,777,15404036,32,2026-11-08 05:00,Cheonan City FC,41263,Busan I Park,7642,1,0,3.1,3.4,2.1,3.1,3.4,2.1
+current,88837,K-League 2 2026,777,16299962,32,2026-11-08 05:00,Suwon Samsung Bluewings,7652,Yongin City FC,41266,2,0,1.33,5.0,7.0,1.33,5.0,7.0
+current,88837,K-League 2 2026,777,15404038,32,2026-11-08 07:30,Paju Frontier FC,314294,Chungnam Asan FC,339827,1,1,4.2,3.3,1.8,4.75,3.5,1.67
