@@ -1,139 +1,139 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-62719299,2025-08-17 10:00,Kkp Bydgoszcz,Polonia Sroda Wielkopolska,1,1,,,
-62719309,2025-08-17 15:00,Czarni Sosnowiec II,Luks Sportowa Czworka Radom,2,1,,,
-62719323,2025-08-23 10:00,RESOVIA RZESZOW,Kkp Warszawa,2,1,,,
-62719327,2025-08-30 10:00,Kkp Warszawa,Legia Warszawa,0,9,,,
-62719407,2025-09-13 13:00,RESOVIA RZESZOW,Kkp Bydgoszcz,4,1,,,
-62719417,2025-09-19 16:00,RESOVIA RZESZOW,Legia Warszawa,1,5,,,
-62719423,2025-09-21 10:00,Kkp Bydgoszcz,Czarni Sosnowiec II,2,2,,,
-62719421,2025-09-21 14:30,KS Stare Oborzyska,Medyk Konin,0,4,,,
-62719493,2025-11-02 16:00,Kkp Warszawa,KS Stare Oborzyska,0,2,,,
-62719513,2025-11-08 12:00,KS Stare Oborzyska,Unia Lublin,3,2,,,
-62719511,2025-11-08 13:00,Uks Staszkowka Jelna,Kkp Warszawa,3,2,,,
-62719501,2025-11-08 14:30,Polonia Sroda Wielkopolska,Luks Sportowa Czworka Radom,3,0,,,
-62719505,2025-11-08 17:30,Sleza Wroclaw,Kkp Bydgoszcz,2,1,,,
-66209650,2026-03-01 18:00,Kkp Bydgoszcz,KS Stare Oborzyska,1,0,3.600,4.500,1.615
-68083248,2026-03-06 14:00,Czarni Sosnowiec II,Legia Ladies,4,0,,,
-68083238,2026-03-08 13:00,Uks Staszkowka Jelna,Unia Lublin,2,2,,,
-68083246,2026-03-08 14:00,KS Stare Oborzyska,RESOVIA RZESZOW,0,2,,,
-68083244,2026-03-08 17:00,Medyk Konin,Luks Sportowa Czworka Radom,2,0,,,
-68083258,2026-03-14 11:00,RESOVIA RZESZOW,Uks Staszkowka Jelna,4,1,1.700,4.333,3.300
-68083260,2026-03-14 13:30,Kkp Warszawa,Unia Lublin,2,3,4.200,4.500,1.533
-68083252,2026-03-14 14:30,Sleza Wroclaw,Medyk Konin,2,1,2.500,3.750,2.250
-68083256,2026-03-15 15:00,Legia Ladies,KS Stare Oborzyska,0,0,,,
-68083264,2026-03-21 11:00,Medyk Konin,Polonia Sroda Wielkopolska,0,0,,,
-68083272,2026-03-21 15:00,Kkp Warszawa,RESOVIA RZESZOW,2,3,5.250,5.000,1.363
-68083266,2026-03-21 15:30,Czarni Sosnowiec II,Sleza Wroclaw,1,1,3.000,4.100,1.850
-68083262,2026-03-21 17:30,Kkp Bydgoszcz,Unia Lublin,0,3,3.800,4.200,1.650
-68083270,2026-03-22 14:00,Uks Staszkowka Jelna,Legia Ladies,1,3,,,
-68083268,2026-03-22 15:00,KS Stare Oborzyska,Luks Sportowa Czworka Radom,0,0,,,
-68083274,2026-03-28 11:00,Medyk Konin,Kkp Bydgoszcz,0,0,,,
-68083284,2026-03-28 11:00,Polonia Sroda Wielkopolska,Czarni Sosnowiec II,1,0,1.750,3.900,3.400
-68083280,2026-03-28 12:00,Luks Sportowa Czworka Radom,Uks Staszkowka Jelna,1,3,2.050,3.800,2.750
-68083278,2026-03-28 15:00,Legia Ladies,Kkp Warszawa,0,0,,,
-68083282,2026-03-28 17:00,Sleza Wroclaw,KS Stare Oborzyska,6,0,1.200,6.250,9.000
-69688408,2026-04-02 17:00,Kkp Warszawa,Kkp Bydgoszcz,3,1,2.600,3.800,2.150
-68083254,2026-04-03 15:30,Luks Sportowa Czworka Radom,Czarni Sosnowiec II,1,2,2.700,4.333,1.950
-68083242,2026-04-03 18:00,Polonia Sroda Wielkopolska,Sleza Wroclaw,1,1,2.250,3.500,2.625
-68083286,2026-04-11 10:00,Kkp Bydgoszcz,RESOVIA RZESZOW,0,0,,,
-68083288,2026-04-11 11:30,Unia Lublin,Legia Ladies,0,0,,,
-68083292,2026-04-12 13:00,Uks Staszkowka Jelna,Sleza Wroclaw,0,0,,,
-68083294,2026-04-12 14:00,KS Stare Oborzyska,Polonia Sroda Wielkopolska,0,0,,,
-68083290,2026-04-12 15:00,Kkp Warszawa,Luks Sportowa Czworka Radom,1,5,,,
-68083300,2026-04-17 15:30,Luks Sportowa Czworka Radom,Unia Lublin,1,0,2.100,3.900,2.625
-68083302,2026-04-18 10:00,Sleza Wroclaw,Kkp Warszawa,0,0,,,
-68083298,2026-04-18 14:00,Legia Ladies,RESOVIA RZESZOW,8,1,,,
-68083308,2026-04-19 10:00,Polonia Sroda Wielkopolska,Uks Staszkowka Jelna,2,2,1.400,4.500,5.750
-68083306,2026-04-19 15:00,Czarni Sosnowiec II,Kkp Bydgoszcz,1,0,1.400,5.000,5.000
-68083304,2026-04-19 16:00,Medyk Konin,KS Stare Oborzyska,0,0,,,
-68083312,2026-04-24 17:30,RESOVIA RZESZOW,Luks Sportowa Czworka Radom,0,1,1.727,4.500,3.200
-68083310,2026-04-25 10:00,Kkp Bydgoszcz,Legia Ladies,0,0,,,
-68083320,2026-04-25 10:00,KS Stare Oborzyska,Czarni Sosnowiec II,0,2,3.600,4.200,1.666
-68083316,2026-04-25 15:00,Kkp Warszawa,Polonia Sroda Wielkopolska,1,2,,,
-68083314,2026-04-26 13:30,Unia Lublin,Sleza Wroclaw,0,0,,,
-68083318,2026-04-26 15:00,Uks Staszkowka Jelna,Medyk Konin,3,0,,,
-68083330,2026-05-09 10:00,Medyk Konin,Kkp Warszawa,0,0,,,
-68083328,2026-05-09 13:00,Polonia Sroda Wielkopolska,Unia Lublin,0,0,,,
-68083326,2026-05-09 18:45,Sleza Wroclaw,RESOVIA RZESZOW,0,0,,,
-68083332,2026-05-10 11:30,Czarni Sosnowiec II,Uks Staszkowka Jelna,3,1,,,
-68083324,2026-05-10 15:30,Luks Sportowa Czworka Radom,Legia Ladies,0,4,,,
-68083296,2026-05-14 13:00,Czarni Sosnowiec II,Medyk Konin,0,1,,,
-68083342,2026-05-23 10:00,RESOVIA RZESZOW,Polonia Sroda Wielkopolska,2,2,3.900,4.750,1.533
-68083340,2026-05-23 13:30,Unia Lublin,Medyk Konin,0,0,,,
-68083344,2026-05-23 16:00,Kkp Bydgoszcz,Luks Sportowa Czworka Radom,0,0,,,
-68083334,2026-05-24 13:00,Uks Staszkowka Jelna,KS Stare Oborzyska,1,1,,,
-68083338,2026-05-24 16:30,Kkp Warszawa,Czarni Sosnowiec II,0,0,,,
-68083336,2026-05-24 17:16,Legia Ladies,Sleza Wroclaw,1,3,,,
-68083364,2026-05-27 14:00,RESOVIA RZESZOW,Czarni Sosnowiec II,1,2,,,
-71524640,2026-05-27 18:00,Polonia Sroda Wielkopolska,Kkp Bydgoszcz,3,0,,,
-68083352,2026-05-30 10:00,Medyk Konin,RESOVIA RZESZOW,0,0,,,
-68083356,2026-05-30 13:30,Sleza Wroclaw,Luks Sportowa Czworka Radom,0,0,,,
-68083350,2026-05-30 14:00,Czarni Sosnowiec II,Unia Lublin,0,0,,,
-68083354,2026-05-31 13:00,Polonia Sroda Wielkopolska,Legia Ladies,2,5,,,
-68083346,2026-05-31 15:30,Uks Staszkowka Jelna,Kkp Bydgoszcz,0,1,,,
-68083348,2026-05-31 16:00,KS Stare Oborzyska,Kkp Warszawa,0,0,,,
-68083360,2026-06-04 13:00,Luks Sportowa Czworka Radom,Polonia Sroda Wielkopolska,1,2,,,
-68083366,2026-06-06 16:30,Unia Lublin,KS Stare Oborzyska,2,2,,,
-68083358,2026-06-07 11:00,Kkp Bydgoszcz,Sleza Wroclaw,1,2,,,
-68083362,2026-06-10 15:00,Legia,Medyk,2,1,,,
-68083322,2026-06-10 16:00,KS Stare Oborzyska,Kkp Bydgoszcz,0,3,2.300,3.600,2.450
-68083368,2026-06-10 17:00,Kkp Warszawa,Uks Staszkowka Jelna,1,3,,,
-72576584,2026-08-01 10:00,RESOVIA RZESZOW,LZS Stare Oborzyska,1,1,1.800,4.333,3.000
-72576586,2026-08-01 10:00,KKP Stomilanki Olsztyn,Czarni Sosnowiec II,3,0,1.700,4.333,3.400
-72576576,2026-08-01 13:30,Unia Lublin,Uks Staszkowka Jelna,1,4,2.550,4.200,2.000
-72576578,2026-08-02 11:00,MKS Myszkow,Kkp Bydgoszcz,0,2,,,
-72576580,2026-08-02 12:00,KKS Lech Poznan II,Polonia Sroda Wielkopolska,1,3,,,
-72576582,2026-08-02 17:30,Luks Sportowa Czworka Radom,Medyk Konin,1,2,3.000,4.100,1.900
-72576592,2026-08-07 16:00,Czarni Sosnowiec II,Luks Sportowa Czworka Radom,4,1,1.700,4.200,3.700
-72576588,2026-08-08 10:00,Kkp Bydgoszcz,Polonia Sroda Wielkopolska,0,0,7.000,4.333,1.363
-72576594,2026-08-08 15:00,LZS Stare Oborzyska,KKP Stomilanki Olsztyn,0,3,,,
-72576598,2026-08-09 11:00,MKS Myszkow,Unia Lublin,1,1,2.100,4.200,2.500
-72576590,2026-08-09 14:00,Medyk Konin,KKS Lech Poznan II,1,0,1.363,5.500,5.250
-72576596,2026-08-09 14:00,Uks Staszkowka Jelna,RESOVIA RZESZOW,0,0,1.615,4.500,3.700
-72576606,2026-08-15 10:00,Luks Sportowa Czworka Radom,LZS Stare Oborzyska,1,4,1.666,4.100,3.700
-72576608,2026-08-15 10:00,KKP Stomilanki Olsztyn,Uks Staszkowka Jelna,2,1,1.450,4.750,4.500
-72576600,2026-08-16 10:00,Unia Lublin,Kkp Bydgoszcz,0,6,2.450,3.700,2.350
-72576610,2026-08-16 10:30,RESOVIA RZESZOW,MKS Myszkow,3,0,1.480,4.500,4.750
-72576602,2026-08-16 13:00,Polonia Sroda Wielkopolska,Medyk Konin,1,1,2.000,3.900,2.750
-72576604,2026-08-16 15:00,KKS Lech Poznan II,Czarni Sosnowiec II,0,3,3.100,4.200,1.833
-72576614,2026-08-21 15:30,Unia Lublin,RESOVIA RZESZOW,0,4,,,
-72576620,2026-08-22 10:00,LZS Stare Oborzyska,KKS Lech Poznan II,2,0,1.444,4.500,4.750
-72576616,2026-08-22 13:00,MKS Myszkow,KKP Stomilanki Olsztyn,1,6,21.000,11.000,1.083
-72576622,2026-08-23 13:00,Czarni Sosnowiec II,Polonia Sroda Wielkopolska,3,2,,,
-72576618,2026-08-23 14:00,Uks Staszkowka Jelna,Luks Sportowa Czworka Radom,8,0,1.727,4.333,3.250
-72576626,2026-08-29 10:00,KKP Stomilanki Olsztyn,Unia Lublin,2,0,,,
-72576624,2026-08-29 10:30,RESOVIA RZESZOW,Kkp Bydgoszcz,2,1,1.833,3.700,3.400
-72576632,2026-08-29 13:00,Polonia Sroda Wielkopolska,LZS Stare Oborzyska,4,0,1.300,5.250,6.500
-72576628,2026-08-29 14:00,Luks Sportowa Czworka Radom,MKS Myszkow,2,1,,,
-72576630,2026-08-30 15:00,KKS Lech Poznan II,Uks Staszkowka Jelna,2,3,2.900,3.800,1.950
-72576634,2026-08-30 15:00,Medyk Konin,Czarni Sosnowiec II,4,0,2.200,3.750,2.500
-72576660,2026-09-05 13:00,Kkp Bydgoszcz,LZS Stare Oborzyska,1,2,,,
-72576640,2026-09-26 10:00,MKS Myszkow,KKS Lech Poznan II,1,1,2.375,4.000,2.250
-72576636,2026-09-26 10:30,RESOVIA RZESZOW,KKP Stomilanki Olsztyn,0,3,2.600,3.800,2.100
-72576638,2026-09-26 13:30,Unia Lublin,Luks Sportowa Czworka Radom,3,4,3.000,4.200,1.850
-72576646,2026-09-26 13:30,Uks Staszkowka Jelna,Polonia Sroda Wielkopolska,0,1,2.550,4.000,2.100
-72576644,2026-09-27 11:00,Kkp Bydgoszcz,Czarni Sosnowiec II,0,1,3.400,4.200,1.750
-72576642,2026-09-27 14:30,LZS Stare Oborzyska,Medyk Konin,2,1,,,
-72576650,2026-10-02 16:30,Luks Sportowa Czworka Radom,RESOVIA RZESZOW,2,1,4.500,4.750,1.480
-72576648,2026-10-03 10:00,KKP Stomilanki Olsztyn,Kkp Bydgoszcz,2,0,1.125,8.500,13.000
-72576656,2026-10-03 10:00,Medyk Konin,Uks Staszkowka Jelna,5,1,1.650,4.500,3.500
-72576658,2026-10-04 11:00,Czarni Sosnowiec II,LZS Stare Oborzyska,3,1,,,
-72576654,2026-10-04 13:00,Polonia Sroda Wielkopolska,MKS Myszkow,2,0,,,
-72576652,2026-10-04 15:00,KKS Lech Poznan II,Unia Lublin,3,0,,,
-72576668,2026-10-17 10:00,MKS Myszkow,Medyk Konin,1,3,5.500,4.500,1.400
-72576670,2026-10-17 12:00,Uks Staszkowka Jelna,Czarni Sosnowiec II,1,0,2.300,4.000,2.300
-72576664,2026-10-17 13:00,RESOVIA RZESZOW,KKS Lech Poznan II,2,0,1.533,4.333,4.200
-72576662,2026-10-18 10:00,KKP Stomilanki Olsztyn,Luks Sportowa Czworka Radom,1,2,1.166,6.500,11.000
-72576666,2026-10-18 13:30,Unia Lublin,Polonia Sroda Wielkopolska,1,6,9.500,6.500,1.181
-72576674,2026-10-30 15:00,KKS Lech Poznan II,KKP Stomilanki Olsztyn,3,3,10.000,5.750,1.200
-72576678,2026-10-31 11:00,Medyk Konin,Unia Lublin,6,0,,,
-72576672,2026-10-31 13:00,LZS Stare Oborzyska,Uks Staszkowka Jelna,1,2,,,
-72576676,2026-10-31 13:00,Czarni Sosnowiec II,MKS Myszkow,0,2,,,
-72576680,2026-10-31 13:00,Polonia Sroda Wielkopolska,RESOVIA RZESZOW,2,0,,,
-72576692,2026-11-07 10:00,KKP Stomilanki Olsztyn,Polonia Sroda Wielkopolska,1,4,1.950,4.100,2.875
-72576684,2026-11-07 11:00,Kkp Bydgoszcz,Uks Staszkowka Jelna,2,3,,,
-72576686,2026-11-07 11:00,MKS Myszkow,LZS Stare Oborzyska,1,1,4.100,5.000,1.500
-72576694,2026-11-07 12:00,Luks Sportowa Czworka Radom,KKS Lech Poznan II,6,0,1.700,4.100,3.600
-72576688,2026-11-07 14:30,Unia Lublin,Czarni Sosnowiec II,1,4,5.750,5.750,1.300
-72576690,2026-11-07 14:30,RESOVIA RZESZOW,Medyk Konin,1,1,2.900,3.900,1.950
-72576702,2026-11-11 12:00,Czarni Sosnowiec II,RESOVIA RZESZOW,5,1,2.000,3.900,2.800
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+62719299,2025-08-17 10:00,Kkp Bydgoszcz,Polonia Sroda Wielkopolska,1,1,,,,,,
+62719309,2025-08-17 15:00,Czarni Sosnowiec II,Luks Sportowa Czworka Radom,2,1,,,,,,
+62719323,2025-08-23 10:00,RESOVIA RZESZOW,Kkp Warszawa,2,1,,,,,,
+62719327,2025-08-30 10:00,Kkp Warszawa,Legia Warszawa,0,9,,,,,,
+62719407,2025-09-13 13:00,RESOVIA RZESZOW,Kkp Bydgoszcz,4,1,,,,,,
+62719417,2025-09-19 16:00,RESOVIA RZESZOW,Legia Warszawa,1,5,,,,,,
+62719423,2025-09-21 10:00,Kkp Bydgoszcz,Czarni Sosnowiec II,2,2,,,,,,
+62719421,2025-09-21 14:30,KS Stare Oborzyska,Medyk Konin,0,4,,,,,,
+62719493,2025-11-02 16:00,Kkp Warszawa,KS Stare Oborzyska,0,2,,,,,,
+62719513,2025-11-08 12:00,KS Stare Oborzyska,Unia Lublin,3,2,,,,,,
+62719511,2025-11-08 13:00,Uks Staszkowka Jelna,Kkp Warszawa,3,2,,,,,,
+62719501,2025-11-08 14:30,Polonia Sroda Wielkopolska,Luks Sportowa Czworka Radom,3,0,,,,,,
+62719505,2025-11-08 17:30,Sleza Wroclaw,Kkp Bydgoszcz,2,1,,,,,,
+66209650,2026-03-01 18:00,Kkp Bydgoszcz,KS Stare Oborzyska,1,0,3.600,4.500,1.615,3.25,1.875,1.925
+68083248,2026-03-06 14:00,Czarni Sosnowiec II,Legia Ladies,4,0,,,,,,
+68083238,2026-03-08 13:00,Uks Staszkowka Jelna,Unia Lublin,2,2,,,,,,
+68083246,2026-03-08 14:00,KS Stare Oborzyska,RESOVIA RZESZOW,0,2,,,,,,
+68083244,2026-03-08 17:00,Medyk Konin,Luks Sportowa Czworka Radom,2,0,,,,,,
+68083258,2026-03-14 11:00,RESOVIA RZESZOW,Uks Staszkowka Jelna,4,1,1.700,4.333,3.300,4,1.975,1.825
+68083260,2026-03-14 13:30,Kkp Warszawa,Unia Lublin,2,3,4.200,4.500,1.533,3.5,1.875,1.925
+68083252,2026-03-14 14:30,Sleza Wroclaw,Medyk Konin,2,1,2.500,3.750,2.250,3,1.875,1.925
+68083256,2026-03-15 15:00,Legia Ladies,KS Stare Oborzyska,0,0,,,,,,
+68083264,2026-03-21 11:00,Medyk Konin,Polonia Sroda Wielkopolska,0,0,,,,,,
+68083272,2026-03-21 15:00,Kkp Warszawa,RESOVIA RZESZOW,2,3,5.250,5.000,1.363,4.25,1.975,1.825
+68083266,2026-03-21 15:30,Czarni Sosnowiec II,Sleza Wroclaw,1,1,3.000,4.100,1.850,4.25,1.850,1.950
+68083262,2026-03-21 17:30,Kkp Bydgoszcz,Unia Lublin,0,3,3.800,4.200,1.650,3.75,1.925,1.875
+68083270,2026-03-22 14:00,Uks Staszkowka Jelna,Legia Ladies,1,3,,,,,,
+68083268,2026-03-22 15:00,KS Stare Oborzyska,Luks Sportowa Czworka Radom,0,0,,,,,,
+68083274,2026-03-28 11:00,Medyk Konin,Kkp Bydgoszcz,0,0,,,,,,
+68083284,2026-03-28 11:00,Polonia Sroda Wielkopolska,Czarni Sosnowiec II,1,0,1.750,3.900,3.400,3.25,1.850,1.950
+68083280,2026-03-28 12:00,Luks Sportowa Czworka Radom,Uks Staszkowka Jelna,1,3,2.050,3.800,2.750,3.25,1.950,1.850
+68083278,2026-03-28 15:00,Legia Ladies,Kkp Warszawa,0,0,,,,,,
+68083282,2026-03-28 17:00,Sleza Wroclaw,KS Stare Oborzyska,6,0,1.200,6.250,9.000,3.5,1.975,1.825
+69688408,2026-04-02 17:00,Kkp Warszawa,Kkp Bydgoszcz,3,1,2.600,3.800,2.150,3.5,1.800,2.000
+68083254,2026-04-03 15:30,Luks Sportowa Czworka Radom,Czarni Sosnowiec II,1,2,2.700,4.333,1.950,3.75,1.850,1.950
+68083242,2026-04-03 18:00,Polonia Sroda Wielkopolska,Sleza Wroclaw,1,1,2.250,3.500,2.625,2.75,1.800,2.000
+68083286,2026-04-11 10:00,Kkp Bydgoszcz,RESOVIA RZESZOW,0,0,,,,,,
+68083288,2026-04-11 11:30,Unia Lublin,Legia Ladies,0,0,,,,,,
+68083292,2026-04-12 13:00,Uks Staszkowka Jelna,Sleza Wroclaw,0,0,,,,,,
+68083294,2026-04-12 14:00,KS Stare Oborzyska,Polonia Sroda Wielkopolska,0,0,,,,,,
+68083290,2026-04-12 15:00,Kkp Warszawa,Luks Sportowa Czworka Radom,1,5,,,,,,
+68083300,2026-04-17 15:30,Luks Sportowa Czworka Radom,Unia Lublin,1,0,2.100,3.900,2.625,3.25,2.000,1.800
+68083302,2026-04-18 10:00,Sleza Wroclaw,Kkp Warszawa,0,0,,,,,,
+68083298,2026-04-18 14:00,Legia Ladies,RESOVIA RZESZOW,8,1,,,,,,
+68083308,2026-04-19 10:00,Polonia Sroda Wielkopolska,Uks Staszkowka Jelna,2,2,1.400,4.500,5.750,3.5,1.975,1.825
+68083306,2026-04-19 15:00,Czarni Sosnowiec II,Kkp Bydgoszcz,1,0,1.400,5.000,5.000,3.5,1.850,1.950
+68083304,2026-04-19 16:00,Medyk Konin,KS Stare Oborzyska,0,0,,,,,,
+68083312,2026-04-24 17:30,RESOVIA RZESZOW,Luks Sportowa Czworka Radom,0,1,1.727,4.500,3.200,3.75,1.950,1.850
+68083310,2026-04-25 10:00,Kkp Bydgoszcz,Legia Ladies,0,0,,,,,,
+68083320,2026-04-25 10:00,KS Stare Oborzyska,Czarni Sosnowiec II,0,2,3.600,4.200,1.666,3.5,1.975,1.825
+68083316,2026-04-25 15:00,Kkp Warszawa,Polonia Sroda Wielkopolska,1,2,,,,,,
+68083314,2026-04-26 13:30,Unia Lublin,Sleza Wroclaw,0,0,,,,,,
+68083318,2026-04-26 15:00,Uks Staszkowka Jelna,Medyk Konin,3,0,,,,,,
+68083330,2026-05-09 10:00,Medyk Konin,Kkp Warszawa,0,0,,,,,,
+68083328,2026-05-09 13:00,Polonia Sroda Wielkopolska,Unia Lublin,0,0,,,,,,
+68083326,2026-05-09 18:45,Sleza Wroclaw,RESOVIA RZESZOW,0,0,,,,,,
+68083332,2026-05-10 11:30,Czarni Sosnowiec II,Uks Staszkowka Jelna,3,1,,,,,,
+68083324,2026-05-10 15:30,Luks Sportowa Czworka Radom,Legia Ladies,0,4,,,,,,
+68083296,2026-05-14 13:00,Czarni Sosnowiec II,Medyk Konin,0,1,,,,,,
+68083342,2026-05-23 10:00,RESOVIA RZESZOW,Polonia Sroda Wielkopolska,2,2,3.900,4.750,1.533,3.75,1.800,2.000
+68083340,2026-05-23 13:30,Unia Lublin,Medyk Konin,0,0,,,,,,
+68083344,2026-05-23 16:00,Kkp Bydgoszcz,Luks Sportowa Czworka Radom,0,0,,,,,,
+68083334,2026-05-24 13:00,Uks Staszkowka Jelna,KS Stare Oborzyska,1,1,,,,,,
+68083338,2026-05-24 16:30,Kkp Warszawa,Czarni Sosnowiec II,0,0,,,,,,
+68083336,2026-05-24 17:16,Legia Ladies,Sleza Wroclaw,1,3,,,,,,
+68083364,2026-05-27 14:00,RESOVIA RZESZOW,Czarni Sosnowiec II,1,2,,,,,,
+71524640,2026-05-27 18:00,Polonia Sroda Wielkopolska,Kkp Bydgoszcz,3,0,,,,,,
+68083352,2026-05-30 10:00,Medyk Konin,RESOVIA RZESZOW,0,0,,,,,,
+68083356,2026-05-30 13:30,Sleza Wroclaw,Luks Sportowa Czworka Radom,0,0,,,,,,
+68083350,2026-05-30 14:00,Czarni Sosnowiec II,Unia Lublin,0,0,,,,,,
+68083354,2026-05-31 13:00,Polonia Sroda Wielkopolska,Legia Ladies,2,5,,,,,,
+68083346,2026-05-31 15:30,Uks Staszkowka Jelna,Kkp Bydgoszcz,0,1,,,,,,
+68083348,2026-05-31 16:00,KS Stare Oborzyska,Kkp Warszawa,0,0,,,,,,
+68083360,2026-06-04 13:00,Luks Sportowa Czworka Radom,Polonia Sroda Wielkopolska,1,2,,,,,,
+68083366,2026-06-06 16:30,Unia Lublin,KS Stare Oborzyska,2,2,,,,,,
+68083358,2026-06-07 11:00,Kkp Bydgoszcz,Sleza Wroclaw,1,2,,,,,,
+68083362,2026-06-10 15:00,Legia,Medyk,2,1,,,,,,
+68083322,2026-06-10 16:00,KS Stare Oborzyska,Kkp Bydgoszcz,0,3,2.300,3.600,2.450,3,1.875,1.925
+68083368,2026-06-10 17:00,Kkp Warszawa,Uks Staszkowka Jelna,1,3,,,,,,
+72576584,2026-08-01 10:00,RESOVIA RZESZOW,LZS Stare Oborzyska,1,1,1.800,4.333,3.000,3.75,1.850,1.950
+72576586,2026-08-01 10:00,KKP Stomilanki Olsztyn,Czarni Sosnowiec II,3,0,1.700,4.333,3.400,4,2.000,1.800
+72576576,2026-08-01 13:30,Unia Lublin,Uks Staszkowka Jelna,1,4,2.550,4.200,2.000,4,1.875,1.925
+72576578,2026-08-02 11:00,MKS Myszkow,Kkp Bydgoszcz,0,2,,,,,,
+72576580,2026-08-02 12:00,KKS Lech Poznan II,Polonia Sroda Wielkopolska,1,3,,,,,,
+72576582,2026-08-02 17:30,Luks Sportowa Czworka Radom,Medyk Konin,1,2,3.000,4.100,1.900,3.25,1.900,1.900
+72576592,2026-08-07 16:00,Czarni Sosnowiec II,Luks Sportowa Czworka Radom,4,1,1.700,4.200,3.700,3,1.800,2.000
+72576588,2026-08-08 10:00,Kkp Bydgoszcz,Polonia Sroda Wielkopolska,0,0,7.000,4.333,1.363,3.5,1.975,1.825
+72576594,2026-08-08 15:00,LZS Stare Oborzyska,KKP Stomilanki Olsztyn,0,3,,,,,,
+72576598,2026-08-09 11:00,MKS Myszkow,Unia Lublin,1,1,2.100,4.200,2.500,3.25,1.900,1.900
+72576590,2026-08-09 14:00,Medyk Konin,KKS Lech Poznan II,1,0,1.363,5.500,5.250,3.5,1.800,2.000
+72576596,2026-08-09 14:00,Uks Staszkowka Jelna,RESOVIA RZESZOW,0,0,1.615,4.500,3.700,3.75,1.950,1.850
+72576606,2026-08-15 10:00,Luks Sportowa Czworka Radom,LZS Stare Oborzyska,1,4,1.666,4.100,3.700,3.25,1.825,1.975
+72576608,2026-08-15 10:00,KKP Stomilanki Olsztyn,Uks Staszkowka Jelna,2,1,1.450,4.750,4.500,3.5,1.950,1.850
+72576600,2026-08-16 10:00,Unia Lublin,Kkp Bydgoszcz,0,6,2.450,3.700,2.350,2.75,1.800,2.000
+72576610,2026-08-16 10:30,RESOVIA RZESZOW,MKS Myszkow,3,0,1.480,4.500,4.750,3.25,2.025,1.775
+72576602,2026-08-16 13:00,Polonia Sroda Wielkopolska,Medyk Konin,1,1,2.000,3.900,2.750,3,1.975,1.825
+72576604,2026-08-16 15:00,KKS Lech Poznan II,Czarni Sosnowiec II,0,3,3.100,4.200,1.833,3.25,1.850,1.950
+72576614,2026-08-21 15:30,Unia Lublin,RESOVIA RZESZOW,0,4,,,,,,
+72576620,2026-08-22 10:00,LZS Stare Oborzyska,KKS Lech Poznan II,2,0,1.444,4.500,4.750,3.25,1.925,1.875
+72576616,2026-08-22 13:00,MKS Myszkow,KKP Stomilanki Olsztyn,1,6,21.000,11.000,1.083,3.75,2.000,1.800
+72576622,2026-08-23 13:00,Czarni Sosnowiec II,Polonia Sroda Wielkopolska,3,2,,,,,,
+72576618,2026-08-23 14:00,Uks Staszkowka Jelna,Luks Sportowa Czworka Radom,8,0,1.727,4.333,3.250,3.25,1.825,1.975
+72576626,2026-08-29 10:00,KKP Stomilanki Olsztyn,Unia Lublin,2,0,,,,,,
+72576624,2026-08-29 10:30,RESOVIA RZESZOW,Kkp Bydgoszcz,2,1,1.833,3.700,3.400,3,1.900,1.900
+72576632,2026-08-29 13:00,Polonia Sroda Wielkopolska,LZS Stare Oborzyska,4,0,1.300,5.250,6.500,3.25,1.875,1.925
+72576628,2026-08-29 14:00,Luks Sportowa Czworka Radom,MKS Myszkow,2,1,,,,,,
+72576630,2026-08-30 15:00,KKS Lech Poznan II,Uks Staszkowka Jelna,2,3,2.900,3.800,1.950,3.5,1.975,1.825
+72576634,2026-08-30 15:00,Medyk Konin,Czarni Sosnowiec II,4,0,2.200,3.750,2.500,3,1.875,1.925
+72576660,2026-09-05 13:00,Kkp Bydgoszcz,LZS Stare Oborzyska,1,2,,,,,,
+72576640,2026-09-26 10:00,MKS Myszkow,KKS Lech Poznan II,1,1,2.375,4.000,2.250,3.5,1.950,1.850
+72576636,2026-09-26 10:30,RESOVIA RZESZOW,KKP Stomilanki Olsztyn,0,3,2.600,3.800,2.100,3.25,2.000,1.800
+72576638,2026-09-26 13:30,Unia Lublin,Luks Sportowa Czworka Radom,3,4,3.000,4.200,1.850,3.5,1.900,1.900
+72576646,2026-09-26 13:30,Uks Staszkowka Jelna,Polonia Sroda Wielkopolska,0,1,2.550,4.000,2.100,3.5,2.000,1.800
+72576644,2026-09-27 11:00,Kkp Bydgoszcz,Czarni Sosnowiec II,0,1,3.400,4.200,1.750,3.5,1.950,1.850
+72576642,2026-09-27 14:30,LZS Stare Oborzyska,Medyk Konin,2,1,,,,,,
+72576650,2026-10-02 16:30,Luks Sportowa Czworka Radom,RESOVIA RZESZOW,2,1,4.500,4.750,1.480,3.75,2.000,1.800
+72576648,2026-10-03 10:00,KKP Stomilanki Olsztyn,Kkp Bydgoszcz,2,0,1.125,8.500,13.000,4,2.000,1.800
+72576656,2026-10-03 10:00,Medyk Konin,Uks Staszkowka Jelna,5,1,1.650,4.500,3.500,3.25,1.900,1.900
+72576658,2026-10-04 11:00,Czarni Sosnowiec II,LZS Stare Oborzyska,3,1,,,,,,
+72576654,2026-10-04 13:00,Polonia Sroda Wielkopolska,MKS Myszkow,2,0,,,,,,
+72576652,2026-10-04 15:00,KKS Lech Poznan II,Unia Lublin,3,0,,,,,,
+72576668,2026-10-17 10:00,MKS Myszkow,Medyk Konin,1,3,5.500,4.500,1.400,3.25,1.950,1.850
+72576670,2026-10-17 12:00,Uks Staszkowka Jelna,Czarni Sosnowiec II,1,0,2.300,4.000,2.300,3.25,1.850,1.950
+72576664,2026-10-17 13:00,RESOVIA RZESZOW,KKS Lech Poznan II,2,0,1.533,4.333,4.200,3.25,1.825,1.975
+72576662,2026-10-18 10:00,KKP Stomilanki Olsztyn,Luks Sportowa Czworka Radom,1,2,1.166,6.500,11.000,3.5,1.825,1.975
+72576666,2026-10-18 13:30,Unia Lublin,Polonia Sroda Wielkopolska,1,6,9.500,6.500,1.181,4,2.000,1.800
+72576674,2026-10-30 15:00,KKS Lech Poznan II,KKP Stomilanki Olsztyn,3,3,10.000,5.750,1.200,3.5,1.850,1.950
+72576678,2026-10-31 11:00,Medyk Konin,Unia Lublin,6,0,,,,,,
+72576672,2026-10-31 13:00,LZS Stare Oborzyska,Uks Staszkowka Jelna,1,2,,,,,,
+72576676,2026-10-31 13:00,Czarni Sosnowiec II,MKS Myszkow,0,2,,,,,,
+72576680,2026-10-31 13:00,Polonia Sroda Wielkopolska,RESOVIA RZESZOW,2,0,,,,,,
+72576692,2026-11-07 10:00,KKP Stomilanki Olsztyn,Polonia Sroda Wielkopolska,1,4,1.950,4.100,2.875,3.5,2.000,1.800
+72576684,2026-11-07 11:00,Kkp Bydgoszcz,Uks Staszkowka Jelna,2,3,,,,,,
+72576686,2026-11-07 11:00,MKS Myszkow,LZS Stare Oborzyska,1,1,4.100,5.000,1.500,3.5,1.900,1.900
+72576694,2026-11-07 12:00,Luks Sportowa Czworka Radom,KKS Lech Poznan II,6,0,1.700,4.100,3.600,3,1.900,1.900
+72576688,2026-11-07 14:30,Unia Lublin,Czarni Sosnowiec II,1,4,5.750,5.750,1.300,4.25,1.950,1.850
+72576690,2026-11-07 14:30,RESOVIA RZESZOW,Medyk Konin,1,1,2.900,3.900,1.950,3,1.975,1.825
+72576702,2026-11-11 12:00,Czarni Sosnowiec II,RESOVIA RZESZOW,5,1,2.000,3.900,2.800,3.25,2.025,1.775

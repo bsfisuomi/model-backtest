@@ -1,61 +1,61 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-28105503502,2026-10-13 18:45,Stalybridge Celtic FC,Stafford Rangers FC,3,1,2.400,3.500,2.400
-28641861731,2026-10-13 18:45,1874 Northwich FC,Congleton Town FC,1,1,3.300,3.800,1.800
-30268961421,2026-10-13 18:45,Runcorn Linnets FC,Hanley Town FC,3,2,,,
-30652275472,2026-10-13 18:45,Chasetown FC,Bootle FC,1,3,,,
-31502715567,2026-10-13 18:45,Newcastle Town FC,Clitheroe FC,0,2,,,
-30130298300,2026-10-14 18:45,Shifnal Town,Witton Albion FC,0,4,,,
-31113001741,2026-10-14 18:45,Lower Breck FC,Mossley AFC,1,3,2.150,3.600,2.700
-28156785440,2026-10-17 14:00,Hanley Town FC,Padiham FC,4,0,,,
-28948264206,2026-10-17 14:00,Bootle FC,Shifnal Town,3,0,,,
-29352599767,2026-10-17 14:00,Lower Breck FC,Chasetown FC,2,1,,,
-29554641056,2026-10-17 14:00,Runcorn Linnets FC,1874 Northwich FC,4,0,1.450,4.333,5.250
-29820693459,2026-10-17 14:00,Stalybridge Celtic FC,Prescot Cables FC,4,3,2.500,3.600,2.300
-30310538925,2026-10-17 14:00,Kidsgrove Athletic FC,Wythenshawe FC,0,2,,,
-30760128721,2026-10-17 14:00,Vauxhall Motors FC,Lichfield City FC,2,1,,,
-32003874680,2026-10-17 14:00,Congleton Town FC,Mossley AFC,3,0,,,
-32188433499,2026-10-17 14:00,Newcastle Town FC,Nantwich Town FC,1,1,,,
-29797264294,2026-10-20 18:45,Wythenshawe FC,Clitheroe FC,2,0,2.800,3.900,2.000
-29882915111,2026-10-20 18:45,Hanley Town FC,Vauxhall Motors FC,2,1,1.833,3.750,3.400
-31998208249,2026-10-20 18:45,Newcastle Town FC,Lower Breck FC,4,1,1.950,3.900,2.875
-28837595970,2026-10-24 14:00,Nantwich Town FC,Lower Breck FC,3,2,,,
-29406923687,2026-10-24 14:00,Stafford Rangers FC,Runcorn Linnets FC,3,2,,,
-29623540396,2026-10-24 14:00,Lichfield City FC,Atherton Collieries AFC,0,0,,,
-29789343016,2026-10-24 14:00,Shifnal Town,Hanley Town FC,1,2,,,
-30705552909,2026-10-24 14:00,Mossley AFC,Newcastle Town FC,2,1,,,
-30706595683,2026-10-24 14:00,Chasetown FC,Congleton Town FC,1,1,,,
-31973238335,2026-10-24 14:00,Padiham FC,Stalybridge Celtic FC,1,1,,,
-32188721507,2026-10-24 14:00,Clitheroe FC,Witton Albion FC,3,1,,,
-29193425391,2026-10-27 19:45,Newcastle Town FC,Vauxhall Motors FC,2,3,,,
-29341241135,2026-10-27 19:45,Stafford Rangers FC,1874 Northwich FC,2,0,1.181,5.750,11.000
-30205458952,2026-10-27 19:45,Lower Breck FC,Hanley Town FC,2,2,,,
-29826647168,2026-10-28 19:45,Shifnal Town,Atherton Collieries AFC,3,4,2.400,3.750,2.300
-30066945826,2026-10-30 19:45,Hanley Town FC,Prescot Cables FC,1,2,2.300,3.800,2.450
-28155929765,2026-10-31 15:00,Shifnal Town,Mossley AFC,0,4,,,
-28169041234,2026-10-31 15:00,Bootle FC,Atherton Collieries AFC,1,1,,,
-29181304403,2026-10-31 15:00,Congleton Town FC,Newcastle Town FC,2,1,,,
-29869749495,2026-10-31 15:00,Padiham FC,Lichfield City FC,6,1,,,
-30286624744,2026-10-31 15:00,Kidsgrove Athletic FC,Clitheroe FC,1,1,2.700,3.700,2.100
-30501266238,2026-10-31 15:00,Runcorn Linnets FC,Vauxhall Motors FC,2,2,,,
-30928466850,2026-10-31 15:00,Chasetown FC,Witton Albion FC,3,1,,,
-30942360754,2026-10-31 15:00,Lower Breck FC,Stafford Rangers FC,5,3,,,
-31394135296,2026-10-31 15:00,Stalybridge Celtic FC,Nantwich Town FC,0,2,,,
-32247402018,2026-10-31 15:00,1874 Northwich FC,Wythenshawe FC,1,2,,,
-28118794736,2026-11-03 19:45,Stalybridge Celtic FC,Lower Breck FC,2,2,1.800,3.900,3.300
-28582582381,2026-11-03 19:45,Wythenshawe FC,Vauxhall Motors FC,2,0,,,
-28754629106,2026-11-03 19:45,Atherton Collieries AFC,Prescot Cables FC,3,1,,,
-31167770884,2026-11-03 19:45,Padiham FC,Bootle FC,0,1,,,
-31843721438,2026-11-03 19:45,Congleton Town FC,Stafford Rangers FC,0,1,,,
-28337228970,2026-11-07 15:00,Witton Albion FC,Runcorn Linnets FC,5,1,,,
-29063753218,2026-11-07 15:00,Vauxhall Motors FC,Stalybridge Celtic FC,1,3,,,
-30329432662,2026-11-07 15:00,Lichfield City FC,Bootle FC,1,1,,,
-30738383681,2026-11-07 15:00,Mossley AFC,Chasetown FC,3,0,,,
-30855148309,2026-11-07 15:00,Atherton Collieries AFC,Congleton Town FC,0,4,,,
-31080630397,2026-11-07 15:00,Newcastle Town FC,Kidsgrove Athletic FC,2,0,,,
-31215619775,2026-11-07 15:00,Clitheroe FC,1874 Northwich FC,3,0,,,
-31292859605,2026-11-07 15:00,Nantwich Town FC,Padiham FC,3,0,,,
-31719680078,2026-11-07 15:00,Wythenshawe FC,Lower Breck FC,3,4,,,
-32192546788,2026-11-07 15:00,Prescot Cables FC,Shifnal Town,2,0,,,
-28325916713,2026-11-10 19:45,Prescot Cables FC,Newcastle Town FC,2,0,1.850,3.750,3.100
-29000264027,2026-11-10 19:45,1874 Northwich FC,Kidsgrove Athletic FC,0,1,3.100,3.750,1.909
-30124553439,2026-11-10 19:45,Atherton Collieries AFC,Witton Albion FC,4,1,2.500,3.900,2.200
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+28105503502,2026-10-13 18:45,Stalybridge Celtic FC,Stafford Rangers FC,3,1,2.400,3.500,2.400,2.75,1.950,1.850
+28641861731,2026-10-13 18:45,1874 Northwich FC,Congleton Town FC,1,1,3.300,3.800,1.800,3,2.000,1.800
+30268961421,2026-10-13 18:45,Runcorn Linnets FC,Hanley Town FC,3,2,,,,,,
+30652275472,2026-10-13 18:45,Chasetown FC,Bootle FC,1,3,,,,,,
+31502715567,2026-10-13 18:45,Newcastle Town FC,Clitheroe FC,0,2,,,,,,
+30130298300,2026-10-14 18:45,Shifnal Town,Witton Albion FC,0,4,,,,,,
+31113001741,2026-10-14 18:45,Lower Breck FC,Mossley AFC,1,3,2.150,3.600,2.700,3,2.000,1.800
+28156785440,2026-10-17 14:00,Hanley Town FC,Padiham FC,4,0,,,,,,
+28948264206,2026-10-17 14:00,Bootle FC,Shifnal Town,3,0,,,,,,
+29352599767,2026-10-17 14:00,Lower Breck FC,Chasetown FC,2,1,,,,,,
+29554641056,2026-10-17 14:00,Runcorn Linnets FC,1874 Northwich FC,4,0,1.450,4.333,5.250,3,1.850,1.950
+29820693459,2026-10-17 14:00,Stalybridge Celtic FC,Prescot Cables FC,4,3,2.500,3.600,2.300,2.75,1.800,2.000
+30310538925,2026-10-17 14:00,Kidsgrove Athletic FC,Wythenshawe FC,0,2,,,,,,
+30760128721,2026-10-17 14:00,Vauxhall Motors FC,Lichfield City FC,2,1,,,,,,
+32003874680,2026-10-17 14:00,Congleton Town FC,Mossley AFC,3,0,,,,,,
+32188433499,2026-10-17 14:00,Newcastle Town FC,Nantwich Town FC,1,1,,,,,,
+29797264294,2026-10-20 18:45,Wythenshawe FC,Clitheroe FC,2,0,2.800,3.900,2.000,3,1.950,1.850
+29882915111,2026-10-20 18:45,Hanley Town FC,Vauxhall Motors FC,2,1,1.833,3.750,3.400,2.75,1.800,2.000
+31998208249,2026-10-20 18:45,Newcastle Town FC,Lower Breck FC,4,1,1.950,3.900,2.875,3.25,1.925,1.875
+28837595970,2026-10-24 14:00,Nantwich Town FC,Lower Breck FC,3,2,,,,,,
+29406923687,2026-10-24 14:00,Stafford Rangers FC,Runcorn Linnets FC,3,2,,,,,,
+29623540396,2026-10-24 14:00,Lichfield City FC,Atherton Collieries AFC,0,0,,,,,,
+29789343016,2026-10-24 14:00,Shifnal Town,Hanley Town FC,1,2,,,,,,
+30705552909,2026-10-24 14:00,Mossley AFC,Newcastle Town FC,2,1,,,,,,
+30706595683,2026-10-24 14:00,Chasetown FC,Congleton Town FC,1,1,,,,,,
+31973238335,2026-10-24 14:00,Padiham FC,Stalybridge Celtic FC,1,1,,,,,,
+32188721507,2026-10-24 14:00,Clitheroe FC,Witton Albion FC,3,1,,,,,,
+29193425391,2026-10-27 19:45,Newcastle Town FC,Vauxhall Motors FC,2,3,,,,,,
+29341241135,2026-10-27 19:45,Stafford Rangers FC,1874 Northwich FC,2,0,1.181,5.750,11.000,3.5,2.000,1.800
+30205458952,2026-10-27 19:45,Lower Breck FC,Hanley Town FC,2,2,,,,,,
+29826647168,2026-10-28 19:45,Shifnal Town,Atherton Collieries AFC,3,4,2.400,3.750,2.300,3,1.825,1.975
+30066945826,2026-10-30 19:45,Hanley Town FC,Prescot Cables FC,1,2,2.300,3.800,2.450,3.25,1.975,1.825
+28155929765,2026-10-31 15:00,Shifnal Town,Mossley AFC,0,4,,,,,,
+28169041234,2026-10-31 15:00,Bootle FC,Atherton Collieries AFC,1,1,,,,,,
+29181304403,2026-10-31 15:00,Congleton Town FC,Newcastle Town FC,2,1,,,,,,
+29869749495,2026-10-31 15:00,Padiham FC,Lichfield City FC,6,1,,,,,,
+30286624744,2026-10-31 15:00,Kidsgrove Athletic FC,Clitheroe FC,1,1,2.700,3.700,2.100,3,2.000,1.800
+30501266238,2026-10-31 15:00,Runcorn Linnets FC,Vauxhall Motors FC,2,2,,,,,,
+30928466850,2026-10-31 15:00,Chasetown FC,Witton Albion FC,3,1,,,,,,
+30942360754,2026-10-31 15:00,Lower Breck FC,Stafford Rangers FC,5,3,,,,,,
+31394135296,2026-10-31 15:00,Stalybridge Celtic FC,Nantwich Town FC,0,2,,,,,,
+32247402018,2026-10-31 15:00,1874 Northwich FC,Wythenshawe FC,1,2,,,,,,
+28118794736,2026-11-03 19:45,Stalybridge Celtic FC,Lower Breck FC,2,2,1.800,3.900,3.300,3,1.800,2.000
+28582582381,2026-11-03 19:45,Wythenshawe FC,Vauxhall Motors FC,2,0,,,,,,
+28754629106,2026-11-03 19:45,Atherton Collieries AFC,Prescot Cables FC,3,1,,,,,,
+31167770884,2026-11-03 19:45,Padiham FC,Bootle FC,0,1,,,,,,
+31843721438,2026-11-03 19:45,Congleton Town FC,Stafford Rangers FC,0,1,,,,,,
+28337228970,2026-11-07 15:00,Witton Albion FC,Runcorn Linnets FC,5,1,,,,,,
+29063753218,2026-11-07 15:00,Vauxhall Motors FC,Stalybridge Celtic FC,1,3,,,,,,
+30329432662,2026-11-07 15:00,Lichfield City FC,Bootle FC,1,1,,,,,,
+30738383681,2026-11-07 15:00,Mossley AFC,Chasetown FC,3,0,,,,,,
+30855148309,2026-11-07 15:00,Atherton Collieries AFC,Congleton Town FC,0,4,,,,,,
+31080630397,2026-11-07 15:00,Newcastle Town FC,Kidsgrove Athletic FC,2,0,,,,,,
+31215619775,2026-11-07 15:00,Clitheroe FC,1874 Northwich FC,3,0,,,,,,
+31292859605,2026-11-07 15:00,Nantwich Town FC,Padiham FC,3,0,,,,,,
+31719680078,2026-11-07 15:00,Wythenshawe FC,Lower Breck FC,3,4,,,,,,
+32192546788,2026-11-07 15:00,Prescot Cables FC,Shifnal Town,2,0,,,,,,
+28325916713,2026-11-10 19:45,Prescot Cables FC,Newcastle Town FC,2,0,1.850,3.750,3.100,2.75,1.925,1.875
+29000264027,2026-11-10 19:45,1874 Northwich FC,Kidsgrove Athletic FC,0,1,3.100,3.750,1.909,3,1.900,1.900
+30124553439,2026-11-10 19:45,Atherton Collieries AFC,Witton Albion FC,4,1,2.500,3.900,2.200,3.25,1.850,1.950

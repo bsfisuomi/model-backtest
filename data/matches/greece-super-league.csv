@@ -1,309 +1,309 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-58803501,2025-05-22 15:00,APO Levadiakos FC,Volos NPS,3,2,,,
-58803503,2025-05-22 15:00,Panaitolikos Agrinio,Panserraikos FC,1,0,,,
-58803499,2025-05-22 17:00,Athens Kallithea FC,PAS Lamia 1964,3,0,,,
-61913018,2025-08-23 17:00,Aris Thessaloniki,Volos NPS,2,0,,,
-61913022,2025-08-23 17:00,Olympiacos Piraeus,Asteras Tripolis,2,0,,,
-61913026,2025-08-23 19:00,Panaitolikos Agrinio,Atromitos Athinon,0,2,,,
-61913016,2025-08-24 17:15,AEK Athens,Panserraikos FC,2,0,,,
-61913028,2025-08-24 18:00,PAOK Thessaloniki,AE Larissa FC,1,0,,,
-61913020,2025-08-25 16:30,APO Levadiakos FC,AE Kifisia FC,3,2,,,
-61913036,2025-08-30 16:00,Volos NPS,Olympiacos Piraeus,0,2,,,
-61913040,2025-08-30 16:30,Panserraikos FC,OFI Crete,0,1,,,
-61913034,2025-08-30 18:00,Aris Thessaloniki,Panaitolikos Agrinio,0,2,,,
-61913032,2025-08-30 18:30,AE Larissa FC,AE Kifisia FC,1,1,,,
-61913030,2025-08-31 17:00,AEK Athens,Asteras Tripolis,1,0,,,
-61913042,2025-08-31 18:00,PAOK Thessaloniki,Atromitos Athinon,1,0,,,
-61913038,2025-08-31 19:00,Panathinaikos Athens,APO Levadiakos FC,1,1,,,
-61913052,2025-09-13 15:00,Olympiacos Piraeus,Panserraikos FC,5,0,,,
-61913046,2025-09-13 17:00,Atromitos Athinon,Aris Thessaloniki,1,2,,,
-61913056,2025-09-13 17:00,Panaitolikos Agrinio,Volos NPS,1,2,,,
-61913044,2025-09-14 15:00,Asteras Tripolis,AE Larissa FC,2,2,,,
-61913048,2025-09-14 15:00,AE Kifisia FC,Panathinaikos Athens,3,2,,,
-61913050,2025-09-14 17:00,APO Levadiakos FC,AEK Athens,0,1,,,
-61913054,2025-09-14 18:30,OFI Crete,PAOK Thessaloniki,1,2,,,
-61913062,2025-09-20 15:00,AE Kifisia FC,Aris Thessaloniki,0,1,,,
-61913068,2025-09-20 15:00,Panserraikos FC,Atromitos Athinon,1,1,,,
-61913060,2025-09-20 17:00,Volos NPS,Asteras Tripolis,2,1,,,
-61913070,2025-09-20 17:30,PAOK Thessaloniki,Panaitolikos Agrinio,0,0,,,
-61913058,2025-09-21 14:30,AE Larissa FC,AEK Athens,1,1,,,
-61913064,2025-09-21 15:00,APO Levadiakos FC,OFI Crete,4,0,,,
-61913066,2025-09-21 18:00,Panathinaikos Athens,Olympiacos Piraeus,1,1,,,
-61913080,2025-09-27 15:00,Olympiacos Piraeus,APO Levadiakos FC,3,2,,,
-61913076,2025-09-27 17:30,Aris Thessaloniki,Panserraikos FC,1,1,,,
-61913072,2025-09-28 14:00,AEK Athens,Volos NPS,1,0,,,
-61913082,2025-09-28 16:00,OFI Crete,AE Kifisia FC,1,3,,,
-61913074,2025-09-28 17:30,Asteras Tripolis,PAOK Thessaloniki,3,3,,,
-61913084,2025-09-28 18:00,Panaitolikos Agrinio,Panathinaikos Athens,1,2,,,
-61913078,2025-09-29 15:00,Atromitos Athinon,AE Larissa FC,1,1,,,
-61913092,2025-10-04 15:00,OFI Crete,Aris Thessaloniki,3,0,,,
-61913096,2025-10-04 15:00,Panserraikos FC,Asteras Tripolis,2,1,,,
-61913086,2025-10-04 17:30,AE Larissa FC,Volos NPS,2,5,,,
-61913088,2025-10-05 15:00,AE Kifisia FC,AEK Athens,2,3,,,
-61913090,2025-10-05 15:00,APO Levadiakos FC,Panaitolikos Agrinio,6,0,,,
-61913098,2025-10-05 17:30,PAOK Thessaloniki,Olympiacos Piraeus,2,1,,,
-61913094,2025-10-05 18:30,Panathinaikos Athens,Atromitos Athinon,1,0,,,
-61913104,2025-10-18 14:00,AE Larissa FC,Olympiacos Piraeus,0,2,,,
-61913108,2025-10-18 16:30,Atromitos Athinon,APO Levadiakos FC,2,2,,,
-61913112,2025-10-18 17:00,Panaitolikos Agrinio,OFI Crete,4,2,,,
-61913102,2025-10-19 13:00,Asteras Tripolis,AE Kifisia FC,2,2,,,
-61913110,2025-10-19 14:30,Volos NPS,Panserraikos FC,2,1,,,
-61913106,2025-10-19 16:30,Aris Thessaloniki,Panathinaikos Athens,1,1,,,
-61913100,2025-10-19 18:00,AEK Athens,PAOK Thessaloniki,0,2,,,
-61913114,2025-10-25 14:00,AE Kifisia FC,Panaitolikos Agrinio,1,1,,,
-61913124,2025-10-25 16:30,Panserraikos FC,AE Larissa FC,0,2,,,
-61913120,2025-10-25 17:00,OFI Crete,Atromitos Athinon,1,3,,,
-61913116,2025-10-26 15:00,APO Levadiakos FC,Aris Thessaloniki,1,1,,,
-61913122,2025-10-26 15:30,Panathinaikos Athens,Asteras Tripolis,2,0,,,
-61913126,2025-10-26 17:30,PAOK Thessaloniki,Volos NPS,3,0,,,
-61913118,2025-10-26 19:00,Olympiacos Piraeus,AEK Athens,2,0,,,
-61913136,2025-11-01 16:00,Volos NPS,Panathinaikos Athens,1,0,,,
-61913134,2025-11-01 17:30,Atromitos Athinon,AE Kifisia FC,1,2,,,
-61913138,2025-11-01 18:00,Olympiacos Piraeus,Aris Thessaloniki,2,1,,,
-61913132,2025-11-02 15:30,AE Larissa FC,APO Levadiakos FC,0,2,,,
-61913140,2025-11-02 17:30,Panserraikos FC,PAOK Thessaloniki,0,5,,,
-61913128,2025-11-02 19:00,AEK Athens,Panaitolikos Agrinio,1,0,,,
-61913130,2025-11-03 15:00,Asteras Tripolis,OFI Crete,3,0,,,
-61913154,2025-11-08 15:00,Panaitolikos Agrinio,AE Larissa FC,3,0,,,
-61913142,2025-11-09 13:00,Aris Thessaloniki,Asteras Tripolis,0,0,,,
-61913146,2025-11-09 13:00,AE Kifisia FC,Olympiacos Piraeus,1,3,,,
-61913148,2025-11-09 15:00,APO Levadiakos FC,Panserraikos FC,5,2,,,
-61913150,2025-11-09 15:30,OFI Crete,AEK Athens,0,1,,,
-61913144,2025-11-09 17:00,Atromitos Athinon,Volos NPS,0,1,,,
-61913152,2025-11-09 19:00,Panathinaikos Athens,PAOK Thessaloniki,2,1,,,
-61913158,2025-11-22 17:30,Asteras Tripolis,Panaitolikos Agrinio,1,1,,,
-61913164,2025-11-22 18:00,Olympiacos Piraeus,Atromitos Athinon,3,0,,,
-61913166,2025-11-23 15:00,Panserraikos FC,Panathinaikos Athens,0,3,,,
-61913168,2025-11-23 17:00,PAOK Thessaloniki,AE Kifisia FC,3,0,,,
-61913156,2025-11-23 19:00,AEK Athens,Aris Thessaloniki,1,0,,,
-61913162,2025-11-24 16:00,Volos NPS,APO Levadiakos FC,1,2,,,
-61913160,2025-11-24 18:00,AE Larissa FC,OFI Crete,1,2,,,
-61913178,2025-11-29 15:30,OFI Crete,Volos NPS,0,1,,,
-61913170,2025-11-29 17:30,Aris Thessaloniki,AE Larissa FC,2,1,,,
-61913174,2025-11-29 17:30,AE Kifisia FC,Panserraikos FC,3,0,,,
-61913172,2025-11-30 15:00,Atromitos Athinon,Asteras Tripolis,0,1,,,
-61913182,2025-11-30 15:00,Panaitolikos Agrinio,Olympiacos Piraeus,0,1,,,
-61913176,2025-11-30 17:00,APO Levadiakos FC,PAOK Thessaloniki,2,3,,,
-61913180,2025-11-30 19:00,Panathinaikos Athens,AEK Athens,2,3,,,
-61913192,2025-12-06 15:00,Olympiacos Piraeus,OFI Crete,3,0,,,
-61913190,2025-12-06 18:30,Volos NPS,AE Kifisia FC,1,1,,,
-61913186,2025-12-07 15:00,Asteras Tripolis,APO Levadiakos FC,1,1,,,
-61913188,2025-12-07 15:30,AE Larissa FC,Panathinaikos Athens,2,2,,,
-61913196,2025-12-07 17:30,PAOK Thessaloniki,Aris Thessaloniki,3,1,,,
-61913184,2025-12-07 19:00,AEK Athens,Atromitos Athinon,4,1,,,
-61913194,2025-12-08 16:00,Panserraikos FC,Panaitolikos Agrinio,0,1,,,
-61913204,2025-12-13 15:00,APO Levadiakos FC,AE Larissa FC,3,0,1.380,4.750,8.000
-61913206,2025-12-13 16:00,OFI Crete,Panserraikos FC,3,0,1.909,3.300,4.100
-61913202,2025-12-13 18:00,AE Kifisia FC,Asteras Tripolis,0,0,2.100,3.250,3.500
-61913210,2025-12-14 15:30,Panaitolikos Agrinio,AEK Athens,0,5,8.500,4.500,1.380
-61913200,2025-12-14 16:00,Atromitos Athinon,PAOK Thessaloniki,2,0,,,
-61913198,2025-12-14 18:00,Aris Thessaloniki,Olympiacos Piraeus,0,0,,,
-61913208,2025-12-14 19:00,Panathinaikos Athens,Volos NPS,2,1,1.363,4.500,10.000
-61913214,2025-12-20 14:00,Asteras Tripolis,Aris Thessaloniki,0,1,,,
-61913218,2025-12-20 16:00,Volos NPS,Panaitolikos Agrinio,1,0,,,
-61913220,2025-12-20 18:30,Olympiacos Piraeus,AE Kifisia FC,1,1,1.181,7.000,13.000
-61913216,2025-12-21 15:30,AE Larissa FC,Atromitos Athinon,0,0,2.900,3.000,2.600
-61913224,2025-12-21 17:30,PAOK Thessaloniki,Panathinaikos Athens,2,0,,,
-61913212,2025-12-21 19:00,AEK Athens,OFI Crete,2,1,1.142,7.500,15.000
-61913222,2025-12-22 16:00,Panserraikos FC,APO Levadiakos FC,0,2,6.000,4.000,1.550
-61913230,2026-01-10 15:00,AE Kifisia FC,AE Larissa FC,1,1,1.850,3.500,4.200
-61913228,2026-01-10 17:30,Atromitos Athinon,Olympiacos Piraeus,0,2,9.500,5.250,1.300
-61913238,2026-01-10 17:30,Panaitolikos Agrinio,PAOK Thessaloniki,0,3,,,
-61913232,2026-01-11 14:00,APO Levadiakos FC,Volos NPS,3,1,1.500,4.100,6.500
-61913234,2026-01-11 15:30,OFI Crete,Asteras Tripolis,4,0,2.550,2.900,3.000
-61913226,2026-01-11 17:30,Aris Thessaloniki,AEK Athens,1,1,,,
-61913236,2026-01-11 19:00,Panathinaikos Athens,Panserraikos FC,3,0,1.166,8.000,13.000
-61913250,2026-01-17 13:30,Panserraikos FC,AE Kifisia FC,2,1,3.800,3.250,2.000
-61913244,2026-01-18 15:00,AE Larissa FC,Aris Thessaloniki,1,0,,,
-61913252,2026-01-18 17:00,PAOK Thessaloniki,OFI Crete,3,0,,,
-61913240,2026-01-18 19:00,AEK Athens,Panathinaikos Athens,4,0,,,
-61913248,2026-01-19 16:00,Panaitolikos Agrinio,APO Levadiakos FC,1,3,4.750,3.700,1.700
-61913246,2026-01-19 18:00,Volos NPS,Atromitos Athinon,0,3,2.200,3.100,3.600
-61913264,2026-01-24 15:00,Olympiacos Piraeus,Volos NPS,1,0,1.222,5.500,15.000
-61913254,2026-01-24 17:30,Asteras Tripolis,AEK Athens,0,1,7.500,4.500,1.420
-61913256,2026-01-24 18:00,AE Larissa FC,Panserraikos FC,1,0,1.833,3.200,4.750
-61913258,2026-01-25 14:00,Aris Thessaloniki,APO Levadiakos FC,2,2,,,
-61913266,2026-01-25 16:00,OFI Crete,Panaitolikos Agrinio,1,0,1.727,3.500,5.000
-61913260,2026-01-25 17:30,Atromitos Athinon,Panathinaikos Athens,0,0,4.333,3.100,2.000
-61913278,2026-01-31 15:00,Panaitolikos Agrinio,Aris Thessaloniki,0,1,,,
-61913270,2026-01-31 16:00,Atromitos Athinon,OFI Crete,1,2,1.800,3.500,4.333
-61913272,2026-01-31 18:00,Volos NPS,AE Larissa FC,0,2,2.100,3.100,3.750
-61913274,2026-02-01 14:00,APO Levadiakos FC,Asteras Tripolis,3,1,1.750,3.500,4.750
-61913276,2026-02-01 15:30,Panathinaikos Athens,AE Kifisia FC,3,0,1.480,4.200,6.500
-61913280,2026-02-01 17:30,PAOK Thessaloniki,Panserraikos FC,4,1,1.083,11.000,21.000
-61913268,2026-02-01 19:00,AEK Athens,Olympiacos Piraeus,1,1,2.500,3.000,3.000
-67876426,2026-02-04 16:30,Asteras Tripolis,Olympiacos Piraeus,0,3,11.000,5.500,1.285
-61913284,2026-02-07 15:00,AE Larissa FC,Panaitolikos Agrinio,1,4,1.850,3.200,4.500
-61913282,2026-02-07 16:00,Asteras Tripolis,Volos NPS,2,0,1.750,3.700,4.500
-61913288,2026-02-07 18:00,AE Kifisia FC,Atromitos Athinon,0,1,2.750,3.100,2.625
-61913294,2026-02-08 14:00,Panserraikos FC,AEK Athens,0,4,11.000,6.000,1.250
-61913292,2026-02-08 15:00,OFI Crete,APO Levadiakos FC,3,2,3.900,2.900,2.150
-61913286,2026-02-08 17:00,Aris Thessaloniki,PAOK Thessaloniki,0,0,,,
-61913290,2026-02-08 19:00,Olympiacos Piraeus,Panathinaikos Athens,0,1,1.400,4.333,8.500
-61913306,2026-02-14 15:00,Panaitolikos Agrinio,Asteras Tripolis,3,1,2.800,3.000,2.625
-61913302,2026-02-14 17:30,APO Levadiakos FC,Olympiacos Piraeus,0,0,7.000,3.900,1.533
-61913298,2026-02-14 18:00,Volos NPS,Aris Thessaloniki,1,1,,,
-61913300,2026-02-15 15:30,AE Kifisia FC,OFI Crete,2,2,2.050,3.400,3.500
-61913308,2026-02-15 17:30,PAOK Thessaloniki,AEK Athens,0,0,2.250,3.000,3.600
-61913304,2026-02-15 19:00,Panathinaikos Athens,AE Larissa FC,1,1,1.420,4.200,8.500
-61913296,2026-02-16 16:00,Atromitos Athinon,Panserraikos FC,2,2,1.380,4.200,9.500
-61913312,2026-02-21 15:00,Asteras Tripolis,Atromitos Athinon,1,2,2.625,3.100,2.875
-61913318,2026-02-21 15:00,Olympiacos Piraeus,Panaitolikos Agrinio,2,0,1.111,9.000,21.000
-61913320,2026-02-22 14:00,OFI Crete,Panathinaikos Athens,0,2,4.333,3.400,1.900
-61913322,2026-02-22 14:00,Panserraikos FC,Volos NPS,2,1,3.900,3.300,2.000
-61913314,2026-02-22 16:00,AE Larissa FC,PAOK Thessaloniki,1,1,6.500,3.900,1.500
-61913316,2026-02-22 17:00,Aris Thessaloniki,AE Kifisia FC,1,1,,,
-61913310,2026-02-22 18:00,AEK Athens,APO Levadiakos FC,4,0,1.450,4.500,7.000
-61913330,2026-02-28 15:00,OFI Crete,AE Larissa FC,3,0,2.300,3.000,3.400
-61913324,2026-02-28 17:30,Atromitos Athinon,Panaitolikos Agrinio,1,0,1.666,3.600,5.250
-61913328,2026-02-28 18:00,AE Kifisia FC,APO Levadiakos FC,1,0,2.550,3.200,2.800
-61913334,2026-03-01 14:00,Panserraikos FC,Olympiacos Piraeus,1,2,19.000,7.000,1.142
-61913326,2026-03-01 15:30,Volos NPS,AEK Athens,2,2,10.000,4.750,1.300
-61913336,2026-03-01 17:00,PAOK Thessaloniki,Asteras Tripolis,2,0,1.300,5.500,9.000
-61913332,2026-03-01 18:00,Panathinaikos Athens,Aris Thessaloniki,3,1,1.750,3.250,5.250
-68580736,2026-03-04 16:00,Panathinaikos Athens,OFI Crete,4,1,1.380,4.500,8.500
-68568826,2026-03-04 18:00,AE Kifisia FC,PAOK Thessaloniki,1,4,7.000,4.750,1.400
-61913342,2026-03-07 15:00,Aris Thessaloniki,Atromitos Athinon,0,0,1.900,3.250,4.500
-61913338,2026-03-07 16:00,AEK Athens,AE Larissa FC,1,0,1.181,7.500,12.000
-61913340,2026-03-08 14:00,Asteras Tripolis,Panserraikos FC,0,1,1.600,3.900,5.250
-61913344,2026-03-08 15:00,Volos NPS,OFI Crete,1,1,2.150,3.250,3.400
-61913346,2026-03-08 17:00,APO Levadiakos FC,Panathinaikos Athens,1,4,3.200,3.200,2.300
-61913348,2026-03-08 19:00,Olympiacos Piraeus,PAOK Thessaloniki,0,0,1.833,3.500,4.100
-61913350,2026-03-09 16:00,Panaitolikos Agrinio,AE Kifisia FC,2,1,3.000,2.900,2.600
-61913358,2026-03-14 15:00,OFI Crete,Olympiacos Piraeus,0,3,9.000,5.250,1.300
-61913362,2026-03-14 17:30,Panserraikos FC,Aris Thessaloniki,0,0,4.500,3.200,1.900
-61913352,2026-03-14 18:00,AE Larissa FC,Asteras Tripolis,1,1,1.909,3.200,4.500
-61913356,2026-03-15 14:00,AE Kifisia FC,Volos NPS,2,0,2.150,3.250,3.600
-61913364,2026-03-15 16:00,PAOK Thessaloniki,APO Levadiakos FC,3,0,1.300,5.750,8.500
-61913354,2026-03-15 17:30,Atromitos Athinon,AEK Athens,2,2,8.000,4.333,1.400
-61913360,2026-03-15 19:00,Panathinaikos Athens,Panaitolikos Agrinio,0,0,1.500,4.100,6.500
-61913368,2026-03-22 17:00,AEK Athens,AE Kifisia FC,3,0,1.200,6.250,13.000
-61913370,2026-03-22 17:00,Asteras Tripolis,Panathinaikos Athens,1,2,5.750,3.700,1.615
-61913372,2026-03-22 17:00,Aris Thessaloniki,OFI Crete,0,2,1.650,3.600,5.500
-61913374,2026-03-22 17:00,Volos NPS,PAOK Thessaloniki,2,1,11.000,4.750,1.300
-61913376,2026-03-22 17:00,APO Levadiakos FC,Atromitos Athinon,1,0,2.050,3.200,3.800
-61913378,2026-03-22 17:00,Olympiacos Piraeus,AE Larissa FC,0,0,1.111,9.000,23.000
-61913380,2026-03-22 17:00,Panaitolikos Agrinio,Panserraikos FC,0,0,1.850,3.250,4.500
-70231968,2026-04-04 13:00,AE Kifisia FC,Panserraikos FC,1,2,1.615,3.900,5.000
-70231966,2026-04-04 15:00,Asteras Tripolis,AE Larissa FC,3,1,2.050,3.400,3.750
-70231974,2026-04-04 17:00,Panaitolikos Agrinio,Atromitos Athinon,1,1,2.750,2.900,2.875
-70231906,2026-04-05 14:00,Volos NPS,OFI Crete,1,1,2.200,3.400,3.200
-70231908,2026-04-05 14:00,APO Levadiakos FC,Aris Thessaloniki,1,1,2.250,3.200,3.200
-70231818,2026-04-05 16:00,PAOK Thessaloniki,Panathinaikos Athens,0,0,1.615,3.600,5.750
-70231816,2026-04-05 18:00,Olympiacos Piraeus,AEK Athens,0,1,1.727,3.600,5.250
-70231978,2026-04-08 13:00,AE Larissa FC,Panaitolikos Agrinio,1,2,2.550,3.200,2.800
-70231984,2026-04-08 14:00,Panserraikos FC,Asteras Tripolis,0,0,3.000,3.100,2.550
-70231980,2026-04-08 16:00,Atromitos Athinon,AE Kifisia FC,0,0,2.400,3.200,3.000
-70232036,2026-04-18 13:00,AE Kifisia FC,Asteras Tripolis,0,0,2.100,3.000,3.900
-70232018,2026-04-18 14:00,Atromitos Athinon,AE Larissa FC,3,2,1.666,3.500,5.750
-70231912,2026-04-18 15:00,OFI Crete,APO Levadiakos FC,2,0,3.000,3.300,2.350
-70231910,2026-04-18 16:00,Aris Thessaloniki,Volos NPS,3,2,1.615,3.500,6.500
-70232038,2026-04-18 17:00,Panaitolikos Agrinio,Panserraikos FC,2,3,1.850,3.100,4.750
-70231832,2026-04-19 15:00,AEK Athens,PAOK Thessaloniki,3,0,2.100,3.100,3.800
-70231834,2026-04-19 18:00,Panathinaikos Athens,Olympiacos Piraeus,0,2,4.333,2.900,2.050
-70232046,2026-04-22 13:00,Panserraikos FC,Atromitos Athinon,0,4,3.600,3.100,2.150
-70232042,2026-04-22 14:00,AE Larissa FC,AE Kifisia FC,1,1,2.550,3.250,2.750
-70232040,2026-04-22 17:00,Asteras Tripolis,Panaitolikos Agrinio,2,1,2.300,3.100,3.400
-70232060,2026-04-26 13:00,AE Kifisia FC,Panaitolikos Agrinio,0,0,1.909,3.250,4.333
-70232058,2026-04-26 15:00,Atromitos Athinon,Asteras Tripolis,2,1,2.150,3.100,3.700
-70232054,2026-04-26 17:00,AE Larissa FC,Panserraikos FC,0,1,1.727,3.250,5.750
-70232082,2026-05-02 14:00,Panaitolikos Agrinio,AE Kifisia FC,0,1,3.000,2.700,2.800
-70232084,2026-05-02 14:30,Panserraikos FC,AE Larissa FC,1,1,3.200,2.800,2.500
-70232080,2026-05-02 16:30,Asteras Tripolis,Atromitos Athinon,4,2,1.950,3.400,4.100
-70231918,2026-05-03 14:00,APO Levadiakos FC,Volos NPS,5,2,1.600,4.200,5.000
-70231924,2026-05-03 14:00,OFI Crete,Aris Thessaloniki,0,2,3.250,3.250,2.250
-70231838,2026-05-03 16:00,PAOK Thessaloniki,Olympiacos Piraeus,3,1,2.800,3.000,2.700
-70231836,2026-05-03 18:00,Panathinaikos Athens,AEK Athens,0,0,4.333,3.400,1.900
-70232090,2026-05-09 13:00,Panserraikos FC,AE Kifisia FC,1,2,3.600,2.875,2.300
-70232086,2026-05-09 14:00,AE Larissa FC,Asteras Tripolis,1,1,2.750,3.000,2.750
-70232088,2026-05-09 16:30,Atromitos Athinon,Panaitolikos Agrinio,2,2,1.909,3.400,4.100
-70231948,2026-05-10 14:00,Aris Thessaloniki,OFI Crete,3,1,1.533,4.000,6.500
-70231950,2026-05-10 14:00,Volos NPS,APO Levadiakos FC,0,3,2.700,3.600,2.300
-70231840,2026-05-10 16:30,AEK Athens,Panathinaikos Athens,2,1,1.444,4.333,6.500
-70231842,2026-05-10 16:30,Olympiacos Piraeus,PAOK Thessaloniki,1,1,1.727,3.750,4.500
-70232094,2026-05-12 16:00,AE Kifisia FC,Atromitos Athinon,0,3,2.700,3.200,2.700
-70232096,2026-05-12 16:00,Panaitolikos Agrinio,AE Larissa FC,1,1,2.400,3.000,3.100
-70430016,2026-05-12 16:00,Asteras Tripolis,Panserraikos FC,1,0,1.850,3.100,5.000
-70231952,2026-05-13 14:00,Volos NPS,Aris Thessaloniki,1,2,3.200,3.400,2.200
-70231954,2026-05-13 14:00,APO Levadiakos FC,OFI Crete,3,2,1.727,4.100,4.333
-70231844,2026-05-13 16:30,Olympiacos Piraeus,Panathinaikos Athens,1,0,1.420,4.500,8.000
-70231854,2026-05-13 16:30,PAOK Thessaloniki,AEK Athens,1,1,1.850,3.400,3.600
-70232098,2026-05-16 16:00,Asteras Tripolis,AE Kifisia FC,0,0,1.533,3.750,7.000
-70232100,2026-05-16 16:00,AE Larissa FC,Atromitos Athinon,2,1,2.250,3.500,3.000
-70232102,2026-05-17 12:00,Panserraikos FC,Panaitolikos Agrinio,1,1,1.950,3.300,3.900
-70231956,2026-05-17 14:00,Aris Thessaloniki,APO Levadiakos FC,3,0,2.000,3.300,3.750
-70231958,2026-05-17 14:00,OFI Crete,Volos NPS,3,2,1.750,4.000,4.000
-70231856,2026-05-17 16:30,AEK Athens,Olympiacos Piraeus,1,1,2.800,3.200,2.600
-70231858,2026-05-17 16:30,Panathinaikos Athens,PAOK Thessaloniki,2,3,3.900,3.700,1.900
-70232106,2026-05-21 15:00,Atromitos Athinon,Panserraikos FC,6,0,1.300,5.500,8.500
-70232108,2026-05-21 16:00,AE Kifisia FC,AE Larissa FC,3,2,1.850,3.400,4.333
-70232110,2026-05-21 16:00,Panaitolikos Agrinio,Asteras Tripolis,1,2,2.150,3.250,3.400
-72935994,2026-08-22 17:00,AEK Athens,POT Iraklis,4,0,1.200,6.000,15.000
-72935996,2026-08-22 17:00,PAE PS Kalamata,Aris Thessaloniki,2,3,3.500,3.000,2.250
-72936000,2026-08-22 18:30,Olympiacos Piraeus,Atromitos Athinon,1,0,1.222,5.750,15.000
-72935998,2026-08-23 16:30,OFI Crete,Volos NPS,2,0,2.700,2.875,2.900
-72936002,2026-08-23 18:00,PAOK Thessaloniki,APO Levadiakos FC,4,0,1.363,4.500,9.500
-72936006,2026-08-23 18:30,Panaitolikos Agrinio,Asteras Tripolis,3,1,2.900,3.000,2.625
-72936014,2026-08-29 16:30,Volos NPS,POT Iraklis,1,1,2.200,3.250,3.300
-72936020,2026-08-29 18:30,Panaitolikos Agrinio,PAE PS Kalamata,2,0,2.250,3.100,3.400
-72936010,2026-08-30 16:30,Aris Thessaloniki,OFI Crete,2,1,1.700,3.700,5.000
-72936012,2026-08-30 17:15,Atromitos Athinon,PAOK Thessaloniki,1,2,5.250,3.900,1.615
-72936008,2026-08-30 18:00,Asteras Tripolis,Olympiacos Piraeus,0,1,7.500,3.700,1.533
-72936016,2026-08-30 18:00,AE Kifisia FC,AEK Athens,1,1,11.000,5.000,1.300
-72936018,2026-08-31 16:30,APO Levadiakos FC,Panathinaikos Athens,0,2,6.500,3.800,1.533
-72936026,2026-09-05 16:00,Volos NPS,Olympiacos Piraeus,1,1,10.000,4.750,1.300
-72936022,2026-09-05 18:00,AEK Athens,Aris Thessaloniki,5,0,1.300,5.000,9.500
-72936024,2026-09-06 16:00,Atromitos Athinon,PAE PS Kalamata,1,1,1.900,3.500,3.900
-72936030,2026-09-06 16:30,OFI Crete,AE Kifisia FC,2,0,2.100,3.250,3.500
-72936028,2026-09-06 17:00,APO Levadiakos FC,Panaitolikos Agrinio,0,2,2.050,3.300,3.750
-72936034,2026-09-06 18:30,Panathinaikos Athens,PAOK Thessaloniki,3,1,1.900,3.600,3.800
-72936246,2026-09-07 15:00,Asteras Tripolis,POT Iraklis,0,2,2.000,3.250,3.900
-74070666,2026-09-10 18:15,Panathinaikos Athens,AE Kifisia FC,3,1,1.285,5.000,10.000
-72936042,2026-09-12 16:00,Olympiacos Piraeus,OFI Crete,0,1,1.270,6.000,10.000
-72936046,2026-09-12 18:00,POT Iraklis,Atromitos Athinon,1,1,2.875,3.250,2.450
-72936038,2026-09-13 15:00,PAE PS Kalamata,Volos NPS,3,1,2.625,3.200,2.700
-72936036,2026-09-13 16:00,Asteras Tripolis,AEK Athens,1,1,7.500,4.200,1.444
-72936040,2026-09-13 18:00,AE Kifisia FC,APO Levadiakos FC,0,0,1.950,3.400,3.900
-72936044,2026-09-13 18:00,PAOK Thessaloniki,Aris Thessaloniki,2,0,1.533,4.200,5.750
-72936048,2026-09-13 18:30,Panathinaikos Athens,Panaitolikos Agrinio,3,0,1.200,6.500,12.000
-72936052,2026-09-19 16:00,Atromitos Athinon,AE Kifisia FC,1,2,2.350,3.000,3.200
-72936050,2026-09-19 16:30,Aris Thessaloniki,POT Iraklis,0,0,1.666,3.700,4.750
-72936058,2026-09-20 14:00,APO Levadiakos FC,Olympiacos Piraeus,0,1,8.000,4.500,1.400
-72936054,2026-09-20 15:00,Volos NPS,AEK Athens,1,2,11.000,5.250,1.285
-72936060,2026-09-20 16:00,OFI Crete,Asteras Tripolis,2,2,2.300,3.100,3.300
-72936056,2026-09-20 16:30,PAE PS Kalamata,Panathinaikos Athens,0,1,11.000,5.250,1.285
-72936062,2026-09-20 18:00,Panaitolikos Agrinio,PAOK Thessaloniki,1,3,7.000,4.500,1.450
-72936064,2026-10-10 16:30,Asteras Tripolis,Atromitos Athinon,2,1,2.400,3.200,3.000
-72936066,2026-10-10 16:30,AEK Athens,OFI Crete,3,0,1.270,5.250,10.000
-72936070,2026-10-11 14:00,AE Kifisia FC,Panaitolikos Agrinio,2,0,1.900,3.250,4.333
-72936076,2026-10-11 14:00,POT Iraklis,APO Levadiakos FC,2,0,2.250,3.000,3.500
-72936068,2026-10-11 16:00,Aris Thessaloniki,Volos NPS,3,2,1.444,4.200,7.000
-72936072,2026-10-11 18:00,Olympiacos Piraeus,Panathinaikos Athens,1,0,2.200,3.100,3.500
-72936074,2026-10-12 15:00,PAOK Thessaloniki,PAE PS Kalamata,1,3,1.270,6.000,10.000
-72936084,2026-10-17 14:00,APO Levadiakos FC,Volos NPS,0,0,2.250,3.250,3.250
-72936080,2026-10-18 13:00,PAE PS Kalamata,OFI Crete,4,3,2.750,3.100,2.625
-72936090,2026-10-18 14:00,Panaitolikos Agrinio,Olympiacos Piraeus,0,2,10.000,4.750,1.333
-72936088,2026-10-18 14:30,Panathinaikos Athens,Asteras Tripolis,5,1,1.222,5.750,13.000
-72936082,2026-10-18 17:00,AE Kifisia FC,Aris Thessaloniki,1,2,3.000,3.300,2.300
-72936086,2026-10-18 18:00,PAOK Thessaloniki,POT Iraklis,2,1,1.363,5.000,7.500
-72936104,2026-10-24 16:00,POT Iraklis,AE Kifisia FC,2,3,2.350,3.200,3.000
-72936092,2026-10-24 16:30,Asteras Tripolis,APO Levadiakos FC,0,0,2.050,3.000,4.200
-72936094,2026-10-24 17:00,AEK Athens,Panaitolikos Agrinio,5,0,1.111,8.500,19.000
-72936102,2026-10-25 14:00,Olympiacos Piraeus,PAE PS Kalamata,5,0,1.181,6.500,15.000
-72936098,2026-10-25 16:00,Volos NPS,Panathinaikos Athens,0,1,10.000,5.250,1.285
-72936096,2026-10-25 17:30,Aris Thessaloniki,Atromitos Athinon,3,1,1.615,3.800,5.500
-72936100,2026-10-25 18:00,OFI Crete,PAOK Thessaloniki,2,1,4.500,3.800,1.700
-72936110,2026-10-31 17:00,AE Kifisia FC,Olympiacos Piraeus,2,3,8.000,4.200,1.420
-72936112,2026-11-01 15:00,APO Levadiakos FC,Aris Thessaloniki,3,0,3.100,3.100,2.450
-72936118,2026-11-01 16:00,Panaitolikos Agrinio,OFI Crete,0,1,3.400,3.200,2.200
-72936114,2026-11-01 17:00,PAOK Thessaloniki,Asteras Tripolis,2,1,1.333,5.250,8.000
-72936116,2026-11-01 17:30,Panathinaikos Athens,AEK Athens,2,0,2.050,3.400,3.500
-72936106,2026-11-02 16:00,Atromitos Athinon,Volos NPS,3,0,1.727,3.700,4.750
-72936108,2026-11-02 17:30,PAE PS Kalamata,POT Iraklis,1,1,2.000,3.200,4.000
-72936126,2026-11-07 15:00,Volos NPS,AE Kifisia FC,1,3,3.300,3.250,2.200
-72936124,2026-11-07 17:30,Aris Thessaloniki,Panaitolikos Agrinio,3,0,1.380,4.750,8.500
-72936120,2026-11-08 15:00,Asteras Tripolis,PAE PS Kalamata,1,1,1.900,3.250,4.333
-72936122,2026-11-08 15:00,AEK Athens,APO Levadiakos FC,2,1,1.222,5.500,15.000
-72936132,2026-11-08 15:30,POT Iraklis,Panathinaikos Athens,1,2,9.500,5.000,1.300
-72936128,2026-11-08 16:30,OFI Crete,Atromitos Athinon,0,0,2.500,3.250,2.750
-72936130,2026-11-08 19:00,Olympiacos Piraeus,PAOK Thessaloniki,1,1,1.550,3.900,6.000
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+58803501,2025-05-22 15:00,APO Levadiakos FC,Volos NPS,3,2,,,,,,
+58803503,2025-05-22 15:00,Panaitolikos Agrinio,Panserraikos FC,1,0,,,,,,
+58803499,2025-05-22 17:00,Athens Kallithea FC,PAS Lamia 1964,3,0,,,,,,
+61913018,2025-08-23 17:00,Aris Thessaloniki,Volos NPS,2,0,,,,,,
+61913022,2025-08-23 17:00,Olympiacos Piraeus,Asteras Tripolis,2,0,,,,,,
+61913026,2025-08-23 19:00,Panaitolikos Agrinio,Atromitos Athinon,0,2,,,,,,
+61913016,2025-08-24 17:15,AEK Athens,Panserraikos FC,2,0,,,,,,
+61913028,2025-08-24 18:00,PAOK Thessaloniki,AE Larissa FC,1,0,,,,,,
+61913020,2025-08-25 16:30,APO Levadiakos FC,AE Kifisia FC,3,2,,,,,,
+61913036,2025-08-30 16:00,Volos NPS,Olympiacos Piraeus,0,2,,,,,,
+61913040,2025-08-30 16:30,Panserraikos FC,OFI Crete,0,1,,,,,,
+61913034,2025-08-30 18:00,Aris Thessaloniki,Panaitolikos Agrinio,0,2,,,,,,
+61913032,2025-08-30 18:30,AE Larissa FC,AE Kifisia FC,1,1,,,,,,
+61913030,2025-08-31 17:00,AEK Athens,Asteras Tripolis,1,0,,,,,,
+61913042,2025-08-31 18:00,PAOK Thessaloniki,Atromitos Athinon,1,0,,,,,,
+61913038,2025-08-31 19:00,Panathinaikos Athens,APO Levadiakos FC,1,1,,,,,,
+61913052,2025-09-13 15:00,Olympiacos Piraeus,Panserraikos FC,5,0,,,,,,
+61913046,2025-09-13 17:00,Atromitos Athinon,Aris Thessaloniki,1,2,,,,,,
+61913056,2025-09-13 17:00,Panaitolikos Agrinio,Volos NPS,1,2,,,,,,
+61913044,2025-09-14 15:00,Asteras Tripolis,AE Larissa FC,2,2,,,,,,
+61913048,2025-09-14 15:00,AE Kifisia FC,Panathinaikos Athens,3,2,,,,,,
+61913050,2025-09-14 17:00,APO Levadiakos FC,AEK Athens,0,1,,,,,,
+61913054,2025-09-14 18:30,OFI Crete,PAOK Thessaloniki,1,2,,,,,,
+61913062,2025-09-20 15:00,AE Kifisia FC,Aris Thessaloniki,0,1,,,,,,
+61913068,2025-09-20 15:00,Panserraikos FC,Atromitos Athinon,1,1,,,,,,
+61913060,2025-09-20 17:00,Volos NPS,Asteras Tripolis,2,1,,,,,,
+61913070,2025-09-20 17:30,PAOK Thessaloniki,Panaitolikos Agrinio,0,0,,,,,,
+61913058,2025-09-21 14:30,AE Larissa FC,AEK Athens,1,1,,,,,,
+61913064,2025-09-21 15:00,APO Levadiakos FC,OFI Crete,4,0,,,,,,
+61913066,2025-09-21 18:00,Panathinaikos Athens,Olympiacos Piraeus,1,1,,,,,,
+61913080,2025-09-27 15:00,Olympiacos Piraeus,APO Levadiakos FC,3,2,,,,,,
+61913076,2025-09-27 17:30,Aris Thessaloniki,Panserraikos FC,1,1,,,,,,
+61913072,2025-09-28 14:00,AEK Athens,Volos NPS,1,0,,,,,,
+61913082,2025-09-28 16:00,OFI Crete,AE Kifisia FC,1,3,,,,,,
+61913074,2025-09-28 17:30,Asteras Tripolis,PAOK Thessaloniki,3,3,,,,,,
+61913084,2025-09-28 18:00,Panaitolikos Agrinio,Panathinaikos Athens,1,2,,,,,,
+61913078,2025-09-29 15:00,Atromitos Athinon,AE Larissa FC,1,1,,,,,,
+61913092,2025-10-04 15:00,OFI Crete,Aris Thessaloniki,3,0,,,,,,
+61913096,2025-10-04 15:00,Panserraikos FC,Asteras Tripolis,2,1,,,,,,
+61913086,2025-10-04 17:30,AE Larissa FC,Volos NPS,2,5,,,,,,
+61913088,2025-10-05 15:00,AE Kifisia FC,AEK Athens,2,3,,,,,,
+61913090,2025-10-05 15:00,APO Levadiakos FC,Panaitolikos Agrinio,6,0,,,,,,
+61913098,2025-10-05 17:30,PAOK Thessaloniki,Olympiacos Piraeus,2,1,,,,,,
+61913094,2025-10-05 18:30,Panathinaikos Athens,Atromitos Athinon,1,0,,,,,,
+61913104,2025-10-18 14:00,AE Larissa FC,Olympiacos Piraeus,0,2,,,,,,
+61913108,2025-10-18 16:30,Atromitos Athinon,APO Levadiakos FC,2,2,,,,,,
+61913112,2025-10-18 17:00,Panaitolikos Agrinio,OFI Crete,4,2,,,,,,
+61913102,2025-10-19 13:00,Asteras Tripolis,AE Kifisia FC,2,2,,,,,,
+61913110,2025-10-19 14:30,Volos NPS,Panserraikos FC,2,1,,,,,,
+61913106,2025-10-19 16:30,Aris Thessaloniki,Panathinaikos Athens,1,1,,,,,,
+61913100,2025-10-19 18:00,AEK Athens,PAOK Thessaloniki,0,2,,,,,,
+61913114,2025-10-25 14:00,AE Kifisia FC,Panaitolikos Agrinio,1,1,,,,,,
+61913124,2025-10-25 16:30,Panserraikos FC,AE Larissa FC,0,2,,,,,,
+61913120,2025-10-25 17:00,OFI Crete,Atromitos Athinon,1,3,,,,,,
+61913116,2025-10-26 15:00,APO Levadiakos FC,Aris Thessaloniki,1,1,,,,,,
+61913122,2025-10-26 15:30,Panathinaikos Athens,Asteras Tripolis,2,0,,,,,,
+61913126,2025-10-26 17:30,PAOK Thessaloniki,Volos NPS,3,0,,,,,,
+61913118,2025-10-26 19:00,Olympiacos Piraeus,AEK Athens,2,0,,,,,,
+61913136,2025-11-01 16:00,Volos NPS,Panathinaikos Athens,1,0,,,,,,
+61913134,2025-11-01 17:30,Atromitos Athinon,AE Kifisia FC,1,2,,,,,,
+61913138,2025-11-01 18:00,Olympiacos Piraeus,Aris Thessaloniki,2,1,,,,,,
+61913132,2025-11-02 15:30,AE Larissa FC,APO Levadiakos FC,0,2,,,,,,
+61913140,2025-11-02 17:30,Panserraikos FC,PAOK Thessaloniki,0,5,,,,,,
+61913128,2025-11-02 19:00,AEK Athens,Panaitolikos Agrinio,1,0,,,,,,
+61913130,2025-11-03 15:00,Asteras Tripolis,OFI Crete,3,0,,,,,,
+61913154,2025-11-08 15:00,Panaitolikos Agrinio,AE Larissa FC,3,0,,,,,,
+61913142,2025-11-09 13:00,Aris Thessaloniki,Asteras Tripolis,0,0,,,,,,
+61913146,2025-11-09 13:00,AE Kifisia FC,Olympiacos Piraeus,1,3,,,,,,
+61913148,2025-11-09 15:00,APO Levadiakos FC,Panserraikos FC,5,2,,,,,,
+61913150,2025-11-09 15:30,OFI Crete,AEK Athens,0,1,,,,,,
+61913144,2025-11-09 17:00,Atromitos Athinon,Volos NPS,0,1,,,,,,
+61913152,2025-11-09 19:00,Panathinaikos Athens,PAOK Thessaloniki,2,1,,,,,,
+61913158,2025-11-22 17:30,Asteras Tripolis,Panaitolikos Agrinio,1,1,,,,,,
+61913164,2025-11-22 18:00,Olympiacos Piraeus,Atromitos Athinon,3,0,,,,,,
+61913166,2025-11-23 15:00,Panserraikos FC,Panathinaikos Athens,0,3,,,,,,
+61913168,2025-11-23 17:00,PAOK Thessaloniki,AE Kifisia FC,3,0,,,,,,
+61913156,2025-11-23 19:00,AEK Athens,Aris Thessaloniki,1,0,,,,,,
+61913162,2025-11-24 16:00,Volos NPS,APO Levadiakos FC,1,2,,,,,,
+61913160,2025-11-24 18:00,AE Larissa FC,OFI Crete,1,2,,,,,,
+61913178,2025-11-29 15:30,OFI Crete,Volos NPS,0,1,,,,,,
+61913170,2025-11-29 17:30,Aris Thessaloniki,AE Larissa FC,2,1,,,,,,
+61913174,2025-11-29 17:30,AE Kifisia FC,Panserraikos FC,3,0,,,,,,
+61913172,2025-11-30 15:00,Atromitos Athinon,Asteras Tripolis,0,1,,,,,,
+61913182,2025-11-30 15:00,Panaitolikos Agrinio,Olympiacos Piraeus,0,1,,,,,,
+61913176,2025-11-30 17:00,APO Levadiakos FC,PAOK Thessaloniki,2,3,,,,,,
+61913180,2025-11-30 19:00,Panathinaikos Athens,AEK Athens,2,3,,,,,,
+61913192,2025-12-06 15:00,Olympiacos Piraeus,OFI Crete,3,0,,,,,,
+61913190,2025-12-06 18:30,Volos NPS,AE Kifisia FC,1,1,,,,,,
+61913186,2025-12-07 15:00,Asteras Tripolis,APO Levadiakos FC,1,1,,,,,,
+61913188,2025-12-07 15:30,AE Larissa FC,Panathinaikos Athens,2,2,,,,,,
+61913196,2025-12-07 17:30,PAOK Thessaloniki,Aris Thessaloniki,3,1,,,,,,
+61913184,2025-12-07 19:00,AEK Athens,Atromitos Athinon,4,1,,,,,,
+61913194,2025-12-08 16:00,Panserraikos FC,Panaitolikos Agrinio,0,1,,,,,,
+61913204,2025-12-13 15:00,APO Levadiakos FC,AE Larissa FC,3,0,1.380,4.750,8.000,2.5,1.800,2.000
+61913206,2025-12-13 16:00,OFI Crete,Panserraikos FC,3,0,1.909,3.300,4.100,2.5,1.875,1.925
+61913202,2025-12-13 18:00,AE Kifisia FC,Asteras Tripolis,0,0,2.100,3.250,3.500,2.25,1.850,1.950
+61913210,2025-12-14 15:30,Panaitolikos Agrinio,AEK Athens,0,5,8.500,4.500,1.380,2.5,1.950,1.850
+61913200,2025-12-14 16:00,Atromitos Athinon,PAOK Thessaloniki,2,0,,,,,,
+61913198,2025-12-14 18:00,Aris Thessaloniki,Olympiacos Piraeus,0,0,,,,,,
+61913208,2025-12-14 19:00,Panathinaikos Athens,Volos NPS,2,1,1.363,4.500,10.000,2.75,1.875,1.925
+61913214,2025-12-20 14:00,Asteras Tripolis,Aris Thessaloniki,0,1,,,,,,
+61913218,2025-12-20 16:00,Volos NPS,Panaitolikos Agrinio,1,0,,,,,,
+61913220,2025-12-20 18:30,Olympiacos Piraeus,AE Kifisia FC,1,1,1.181,7.000,13.000,3.25,1.975,1.825
+61913216,2025-12-21 15:30,AE Larissa FC,Atromitos Athinon,0,0,2.900,3.000,2.600,2.25,1.800,2.000
+61913224,2025-12-21 17:30,PAOK Thessaloniki,Panathinaikos Athens,2,0,,,,,,
+61913212,2025-12-21 19:00,AEK Athens,OFI Crete,2,1,1.142,7.500,15.000,3.25,1.925,1.875
+61913222,2025-12-22 16:00,Panserraikos FC,APO Levadiakos FC,0,2,6.000,4.000,1.550,2.5,2.000,1.800
+61913230,2026-01-10 15:00,AE Kifisia FC,AE Larissa FC,1,1,1.850,3.500,4.200,2.25,1.900,1.900
+61913228,2026-01-10 17:30,Atromitos Athinon,Olympiacos Piraeus,0,2,9.500,5.250,1.300,2.5,1.825,1.975
+61913238,2026-01-10 17:30,Panaitolikos Agrinio,PAOK Thessaloniki,0,3,,,,,,
+61913232,2026-01-11 14:00,APO Levadiakos FC,Volos NPS,3,1,1.500,4.100,6.500,2.5,1.900,1.900
+61913234,2026-01-11 15:30,OFI Crete,Asteras Tripolis,4,0,2.550,2.900,3.000,2.25,2.025,1.775
+61913226,2026-01-11 17:30,Aris Thessaloniki,AEK Athens,1,1,,,,,,
+61913236,2026-01-11 19:00,Panathinaikos Athens,Panserraikos FC,3,0,1.166,8.000,13.000,3,1.950,1.850
+61913250,2026-01-17 13:30,Panserraikos FC,AE Kifisia FC,2,1,3.800,3.250,2.000,2.25,1.950,1.850
+61913244,2026-01-18 15:00,AE Larissa FC,Aris Thessaloniki,1,0,,,,,,
+61913252,2026-01-18 17:00,PAOK Thessaloniki,OFI Crete,3,0,,,,,,
+61913240,2026-01-18 19:00,AEK Athens,Panathinaikos Athens,4,0,,,,,,
+61913248,2026-01-19 16:00,Panaitolikos Agrinio,APO Levadiakos FC,1,3,4.750,3.700,1.700,2.25,1.800,2.000
+61913246,2026-01-19 18:00,Volos NPS,Atromitos Athinon,0,3,2.200,3.100,3.600,2.25,2.000,1.800
+61913264,2026-01-24 15:00,Olympiacos Piraeus,Volos NPS,1,0,1.222,5.500,15.000,2.75,1.825,1.975
+61913254,2026-01-24 17:30,Asteras Tripolis,AEK Athens,0,1,7.500,4.500,1.420,2.5,1.800,2.000
+61913256,2026-01-24 18:00,AE Larissa FC,Panserraikos FC,1,0,1.833,3.200,4.750,2,1.825,1.975
+61913258,2026-01-25 14:00,Aris Thessaloniki,APO Levadiakos FC,2,2,,,,,,
+61913266,2026-01-25 16:00,OFI Crete,Panaitolikos Agrinio,1,0,1.727,3.500,5.000,2.5,2.025,1.775
+61913260,2026-01-25 17:30,Atromitos Athinon,Panathinaikos Athens,0,0,4.333,3.100,2.000,2,1.825,1.975
+61913278,2026-01-31 15:00,Panaitolikos Agrinio,Aris Thessaloniki,0,1,,,,,,
+61913270,2026-01-31 16:00,Atromitos Athinon,OFI Crete,1,2,1.800,3.500,4.333,2.25,1.875,1.925
+61913272,2026-01-31 18:00,Volos NPS,AE Larissa FC,0,2,2.100,3.100,3.750,2,1.850,1.950
+61913274,2026-02-01 14:00,APO Levadiakos FC,Asteras Tripolis,3,1,1.750,3.500,4.750,2.5,1.800,2.000
+61913276,2026-02-01 15:30,Panathinaikos Athens,AE Kifisia FC,3,0,1.480,4.200,6.500,2.5,1.975,1.825
+61913280,2026-02-01 17:30,PAOK Thessaloniki,Panserraikos FC,4,1,1.083,11.000,21.000,3.25,1.800,2.000
+61913268,2026-02-01 19:00,AEK Athens,Olympiacos Piraeus,1,1,2.500,3.000,3.000,2.5,1.800,2.000
+67876426,2026-02-04 16:30,Asteras Tripolis,Olympiacos Piraeus,0,3,11.000,5.500,1.285,2.5,1.950,1.850
+61913284,2026-02-07 15:00,AE Larissa FC,Panaitolikos Agrinio,1,4,1.850,3.200,4.500,2,1.850,1.950
+61913282,2026-02-07 16:00,Asteras Tripolis,Volos NPS,2,0,1.750,3.700,4.500,2.25,1.900,1.900
+61913288,2026-02-07 18:00,AE Kifisia FC,Atromitos Athinon,0,1,2.750,3.100,2.625,2.25,2.000,1.800
+61913294,2026-02-08 14:00,Panserraikos FC,AEK Athens,0,4,11.000,6.000,1.250,2.75,1.875,1.925
+61913292,2026-02-08 15:00,OFI Crete,APO Levadiakos FC,3,2,3.900,2.900,2.150,2.25,1.825,1.975
+61913286,2026-02-08 17:00,Aris Thessaloniki,PAOK Thessaloniki,0,0,,,,,,
+61913290,2026-02-08 19:00,Olympiacos Piraeus,Panathinaikos Athens,0,1,1.400,4.333,8.500,2.25,1.975,1.825
+61913306,2026-02-14 15:00,Panaitolikos Agrinio,Asteras Tripolis,3,1,2.800,3.000,2.625,2.25,2.050,1.750
+61913302,2026-02-14 17:30,APO Levadiakos FC,Olympiacos Piraeus,0,0,7.000,3.900,1.533,2.25,1.825,1.975
+61913298,2026-02-14 18:00,Volos NPS,Aris Thessaloniki,1,1,,,,,,
+61913300,2026-02-15 15:30,AE Kifisia FC,OFI Crete,2,2,2.050,3.400,3.500,2.5,1.950,1.850
+61913308,2026-02-15 17:30,PAOK Thessaloniki,AEK Athens,0,0,2.250,3.000,3.600,2.25,1.975,1.825
+61913304,2026-02-15 19:00,Panathinaikos Athens,AE Larissa FC,1,1,1.420,4.200,8.500,2.25,1.850,1.950
+61913296,2026-02-16 16:00,Atromitos Athinon,Panserraikos FC,2,2,1.380,4.200,9.500,2.25,1.950,1.850
+61913312,2026-02-21 15:00,Asteras Tripolis,Atromitos Athinon,1,2,2.625,3.100,2.875,2,1.850,1.950
+61913318,2026-02-21 15:00,Olympiacos Piraeus,Panaitolikos Agrinio,2,0,1.111,9.000,21.000,2.75,1.850,1.950
+61913320,2026-02-22 14:00,OFI Crete,Panathinaikos Athens,0,2,4.333,3.400,1.900,2.25,1.850,1.950
+61913322,2026-02-22 14:00,Panserraikos FC,Volos NPS,2,1,3.900,3.300,2.000,2,1.850,1.950
+61913314,2026-02-22 16:00,AE Larissa FC,PAOK Thessaloniki,1,1,6.500,3.900,1.500,2.25,2.000,1.800
+61913316,2026-02-22 17:00,Aris Thessaloniki,AE Kifisia FC,1,1,,,,,,
+61913310,2026-02-22 18:00,AEK Athens,APO Levadiakos FC,4,0,1.450,4.500,7.000,2.5,1.875,1.925
+61913330,2026-02-28 15:00,OFI Crete,AE Larissa FC,3,0,2.300,3.000,3.400,2.25,1.975,1.825
+61913324,2026-02-28 17:30,Atromitos Athinon,Panaitolikos Agrinio,1,0,1.666,3.600,5.250,2.25,1.900,1.900
+61913328,2026-02-28 18:00,AE Kifisia FC,APO Levadiakos FC,1,0,2.550,3.200,2.800,2.5,1.850,1.950
+61913334,2026-03-01 14:00,Panserraikos FC,Olympiacos Piraeus,1,2,19.000,7.000,1.142,2.75,1.850,1.950
+61913326,2026-03-01 15:30,Volos NPS,AEK Athens,2,2,10.000,4.750,1.300,2.5,1.800,2.000
+61913336,2026-03-01 17:00,PAOK Thessaloniki,Asteras Tripolis,2,0,1.300,5.500,9.000,2.75,1.975,1.825
+61913332,2026-03-01 18:00,Panathinaikos Athens,Aris Thessaloniki,3,1,1.750,3.250,5.250,2,1.900,1.900
+68580736,2026-03-04 16:00,Panathinaikos Athens,OFI Crete,4,1,1.380,4.500,8.500,2.5,1.900,1.900
+68568826,2026-03-04 18:00,AE Kifisia FC,PAOK Thessaloniki,1,4,7.000,4.750,1.400,2.5,1.950,1.850
+61913342,2026-03-07 15:00,Aris Thessaloniki,Atromitos Athinon,0,0,1.900,3.250,4.500,2,1.925,1.875
+61913338,2026-03-07 16:00,AEK Athens,AE Larissa FC,1,0,1.181,7.500,12.000,2.75,2.000,1.800
+61913340,2026-03-08 14:00,Asteras Tripolis,Panserraikos FC,0,1,1.600,3.900,5.250,2.25,1.950,1.850
+61913344,2026-03-08 15:00,Volos NPS,OFI Crete,1,1,2.150,3.250,3.400,2.25,1.900,1.900
+61913346,2026-03-08 17:00,APO Levadiakos FC,Panathinaikos Athens,1,4,3.200,3.200,2.300,2.25,1.900,1.900
+61913348,2026-03-08 19:00,Olympiacos Piraeus,PAOK Thessaloniki,0,0,1.833,3.500,4.100,2.25,2.000,1.800
+61913350,2026-03-09 16:00,Panaitolikos Agrinio,AE Kifisia FC,2,1,3.000,2.900,2.600,2.25,2.025,1.775
+61913358,2026-03-14 15:00,OFI Crete,Olympiacos Piraeus,0,3,9.000,5.250,1.300,3,1.875,1.925
+61913362,2026-03-14 17:30,Panserraikos FC,Aris Thessaloniki,0,0,4.500,3.200,1.900,2,1.925,1.875
+61913352,2026-03-14 18:00,AE Larissa FC,Asteras Tripolis,1,1,1.909,3.200,4.500,2,1.825,1.975
+61913356,2026-03-15 14:00,AE Kifisia FC,Volos NPS,2,0,2.150,3.250,3.600,2.25,1.900,1.900
+61913364,2026-03-15 16:00,PAOK Thessaloniki,APO Levadiakos FC,3,0,1.300,5.750,8.500,2.75,1.975,1.825
+61913354,2026-03-15 17:30,Atromitos Athinon,AEK Athens,2,2,8.000,4.333,1.400,2.5,1.925,1.875
+61913360,2026-03-15 19:00,Panathinaikos Athens,Panaitolikos Agrinio,0,0,1.500,4.100,6.500,2.5,1.800,2.000
+61913368,2026-03-22 17:00,AEK Athens,AE Kifisia FC,3,0,1.200,6.250,13.000,3,1.850,1.950
+61913370,2026-03-22 17:00,Asteras Tripolis,Panathinaikos Athens,1,2,5.750,3.700,1.615,2.25,1.925,1.875
+61913372,2026-03-22 17:00,Aris Thessaloniki,OFI Crete,0,2,1.650,3.600,5.500,2.25,1.875,1.925
+61913374,2026-03-22 17:00,Volos NPS,PAOK Thessaloniki,2,1,11.000,4.750,1.300,2.75,1.950,1.850
+61913376,2026-03-22 17:00,APO Levadiakos FC,Atromitos Athinon,1,0,2.050,3.200,3.800,2.25,1.975,1.825
+61913378,2026-03-22 17:00,Olympiacos Piraeus,AE Larissa FC,0,0,1.111,9.000,23.000,3.25,1.925,1.875
+61913380,2026-03-22 17:00,Panaitolikos Agrinio,Panserraikos FC,0,0,1.850,3.250,4.500,2,1.775,2.025
+70231968,2026-04-04 13:00,AE Kifisia FC,Panserraikos FC,1,2,1.615,3.900,5.000,2.25,1.900,1.900
+70231966,2026-04-04 15:00,Asteras Tripolis,AE Larissa FC,3,1,2.050,3.400,3.750,2.25,2.000,1.800
+70231974,2026-04-04 17:00,Panaitolikos Agrinio,Atromitos Athinon,1,1,2.750,2.900,2.875,2,1.825,1.975
+70231906,2026-04-05 14:00,Volos NPS,OFI Crete,1,1,2.200,3.400,3.200,2.25,1.950,1.850
+70231908,2026-04-05 14:00,APO Levadiakos FC,Aris Thessaloniki,1,1,2.250,3.200,3.200,2.25,1.950,1.850
+70231818,2026-04-05 16:00,PAOK Thessaloniki,Panathinaikos Athens,0,0,1.615,3.600,5.750,2.25,1.900,1.900
+70231816,2026-04-05 18:00,Olympiacos Piraeus,AEK Athens,0,1,1.727,3.600,5.250,2.25,1.875,1.925
+70231978,2026-04-08 13:00,AE Larissa FC,Panaitolikos Agrinio,1,2,2.550,3.200,2.800,2,1.775,2.025
+70231984,2026-04-08 14:00,Panserraikos FC,Asteras Tripolis,0,0,3.000,3.100,2.550,2,1.975,1.825
+70231980,2026-04-08 16:00,Atromitos Athinon,AE Kifisia FC,0,0,2.400,3.200,3.000,2.25,1.950,1.850
+70232036,2026-04-18 13:00,AE Kifisia FC,Asteras Tripolis,0,0,2.100,3.000,3.900,2.25,1.775,2.025
+70232018,2026-04-18 14:00,Atromitos Athinon,AE Larissa FC,3,2,1.666,3.500,5.750,2.25,1.975,1.825
+70231912,2026-04-18 15:00,OFI Crete,APO Levadiakos FC,2,0,3.000,3.300,2.350,2.5,2.025,1.775
+70231910,2026-04-18 16:00,Aris Thessaloniki,Volos NPS,3,2,1.615,3.500,6.500,2.25,1.825,1.975
+70232038,2026-04-18 17:00,Panaitolikos Agrinio,Panserraikos FC,2,3,1.850,3.100,4.750,2,1.800,2.000
+70231832,2026-04-19 15:00,AEK Athens,PAOK Thessaloniki,3,0,2.100,3.100,3.800,2.25,1.900,1.900
+70231834,2026-04-19 18:00,Panathinaikos Athens,Olympiacos Piraeus,0,2,4.333,2.900,2.050,2,2.000,1.800
+70232046,2026-04-22 13:00,Panserraikos FC,Atromitos Athinon,0,4,3.600,3.100,2.150,2,1.850,1.950
+70232042,2026-04-22 14:00,AE Larissa FC,AE Kifisia FC,1,1,2.550,3.250,2.750,2.25,1.950,1.850
+70232040,2026-04-22 17:00,Asteras Tripolis,Panaitolikos Agrinio,2,1,2.300,3.100,3.400,2.25,2.050,1.750
+70232060,2026-04-26 13:00,AE Kifisia FC,Panaitolikos Agrinio,0,0,1.909,3.250,4.333,2.25,1.975,1.825
+70232058,2026-04-26 15:00,Atromitos Athinon,Asteras Tripolis,2,1,2.150,3.100,3.700,2.25,2.025,1.775
+70232054,2026-04-26 17:00,AE Larissa FC,Panserraikos FC,0,1,1.727,3.250,5.750,2.25,1.825,1.975
+70232082,2026-05-02 14:00,Panaitolikos Agrinio,AE Kifisia FC,0,1,3.000,2.700,2.800,2,1.750,2.050
+70232084,2026-05-02 14:30,Panserraikos FC,AE Larissa FC,1,1,3.200,2.800,2.500,2,1.975,1.825
+70232080,2026-05-02 16:30,Asteras Tripolis,Atromitos Athinon,4,2,1.950,3.400,4.100,2.25,1.750,2.050
+70231918,2026-05-03 14:00,APO Levadiakos FC,Volos NPS,5,2,1.600,4.200,5.000,2.75,1.850,1.950
+70231924,2026-05-03 14:00,OFI Crete,Aris Thessaloniki,0,2,3.250,3.250,2.250,2.5,1.850,1.950
+70231838,2026-05-03 16:00,PAOK Thessaloniki,Olympiacos Piraeus,3,1,2.800,3.000,2.700,2,1.850,1.950
+70231836,2026-05-03 18:00,Panathinaikos Athens,AEK Athens,0,0,4.333,3.400,1.900,2.25,1.925,1.875
+70232090,2026-05-09 13:00,Panserraikos FC,AE Kifisia FC,1,2,3.600,2.875,2.300,2,1.875,1.925
+70232086,2026-05-09 14:00,AE Larissa FC,Asteras Tripolis,1,1,2.750,3.000,2.750,2.25,1.950,1.850
+70232088,2026-05-09 16:30,Atromitos Athinon,Panaitolikos Agrinio,2,2,1.909,3.400,4.100,2.25,1.975,1.825
+70231948,2026-05-10 14:00,Aris Thessaloniki,OFI Crete,3,1,1.533,4.000,6.500,2.5,1.975,1.825
+70231950,2026-05-10 14:00,Volos NPS,APO Levadiakos FC,0,3,2.700,3.600,2.300,2.75,1.825,1.975
+70231840,2026-05-10 16:30,AEK Athens,Panathinaikos Athens,2,1,1.444,4.333,6.500,2.5,2.000,1.800
+70231842,2026-05-10 16:30,Olympiacos Piraeus,PAOK Thessaloniki,1,1,1.727,3.750,4.500,2.5,2.025,1.775
+70232094,2026-05-12 16:00,AE Kifisia FC,Atromitos Athinon,0,3,2.700,3.200,2.700,2.5,2.000,1.800
+70232096,2026-05-12 16:00,Panaitolikos Agrinio,AE Larissa FC,1,1,2.400,3.000,3.100,2.25,2.025,1.775
+70430016,2026-05-12 16:00,Asteras Tripolis,Panserraikos FC,1,0,1.850,3.100,5.000,2,1.925,1.875
+70231952,2026-05-13 14:00,Volos NPS,Aris Thessaloniki,1,2,3.200,3.400,2.200,2.5,1.850,1.950
+70231954,2026-05-13 14:00,APO Levadiakos FC,OFI Crete,3,2,1.727,4.100,4.333,3,1.950,1.850
+70231844,2026-05-13 16:30,Olympiacos Piraeus,Panathinaikos Athens,1,0,1.420,4.500,8.000,2.5,1.825,1.975
+70231854,2026-05-13 16:30,PAOK Thessaloniki,AEK Athens,1,1,1.850,3.400,3.600,2.5,1.850,1.950
+70232098,2026-05-16 16:00,Asteras Tripolis,AE Kifisia FC,0,0,1.533,3.750,7.000,2.25,1.800,2.000
+70232100,2026-05-16 16:00,AE Larissa FC,Atromitos Athinon,2,1,2.250,3.500,3.000,2.5,1.900,1.900
+70232102,2026-05-17 12:00,Panserraikos FC,Panaitolikos Agrinio,1,1,1.950,3.300,3.900,2.25,1.850,1.950
+70231956,2026-05-17 14:00,Aris Thessaloniki,APO Levadiakos FC,3,0,2.000,3.300,3.750,2.5,1.800,2.000
+70231958,2026-05-17 14:00,OFI Crete,Volos NPS,3,2,1.750,4.000,4.000,3.25,2.000,1.800
+70231856,2026-05-17 16:30,AEK Athens,Olympiacos Piraeus,1,1,2.800,3.200,2.600,2.5,1.925,1.875
+70231858,2026-05-17 16:30,Panathinaikos Athens,PAOK Thessaloniki,2,3,3.900,3.700,1.900,2.5,1.850,1.950
+70232106,2026-05-21 15:00,Atromitos Athinon,Panserraikos FC,6,0,1.300,5.500,8.500,2.75,1.875,1.925
+70232108,2026-05-21 16:00,AE Kifisia FC,AE Larissa FC,3,2,1.850,3.400,4.333,2.5,2.000,1.800
+70232110,2026-05-21 16:00,Panaitolikos Agrinio,Asteras Tripolis,1,2,2.150,3.250,3.400,2.5,1.950,1.850
+72935994,2026-08-22 17:00,AEK Athens,POT Iraklis,4,0,1.200,6.000,15.000,2.75,1.775,2.025
+72935996,2026-08-22 17:00,PAE PS Kalamata,Aris Thessaloniki,2,3,3.500,3.000,2.250,2.25,2.000,1.800
+72936000,2026-08-22 18:30,Olympiacos Piraeus,Atromitos Athinon,1,0,1.222,5.750,15.000,2.75,1.900,1.900
+72935998,2026-08-23 16:30,OFI Crete,Volos NPS,2,0,2.700,2.875,2.900,2.25,1.900,1.900
+72936002,2026-08-23 18:00,PAOK Thessaloniki,APO Levadiakos FC,4,0,1.363,4.500,9.500,2.5,1.800,2.000
+72936006,2026-08-23 18:30,Panaitolikos Agrinio,Asteras Tripolis,3,1,2.900,3.000,2.625,2,1.825,1.975
+72936014,2026-08-29 16:30,Volos NPS,POT Iraklis,1,1,2.200,3.250,3.300,2.25,2.000,1.800
+72936020,2026-08-29 18:30,Panaitolikos Agrinio,PAE PS Kalamata,2,0,2.250,3.100,3.400,2.25,2.025,1.775
+72936010,2026-08-30 16:30,Aris Thessaloniki,OFI Crete,2,1,1.700,3.700,5.000,2.5,1.825,1.975
+72936012,2026-08-30 17:15,Atromitos Athinon,PAOK Thessaloniki,1,2,5.250,3.900,1.615,2.75,1.975,1.825
+72936008,2026-08-30 18:00,Asteras Tripolis,Olympiacos Piraeus,0,1,7.500,3.700,1.533,2.25,1.825,1.975
+72936016,2026-08-30 18:00,AE Kifisia FC,AEK Athens,1,1,11.000,5.000,1.300,2.75,1.950,1.850
+72936018,2026-08-31 16:30,APO Levadiakos FC,Panathinaikos Athens,0,2,6.500,3.800,1.533,2.5,1.925,1.875
+72936026,2026-09-05 16:00,Volos NPS,Olympiacos Piraeus,1,1,10.000,4.750,1.300,2.75,1.975,1.825
+72936022,2026-09-05 18:00,AEK Athens,Aris Thessaloniki,5,0,1.300,5.000,9.500,2.75,1.900,1.900
+72936024,2026-09-06 16:00,Atromitos Athinon,PAE PS Kalamata,1,1,1.900,3.500,3.900,2.25,1.775,2.025
+72936030,2026-09-06 16:30,OFI Crete,AE Kifisia FC,2,0,2.100,3.250,3.500,2.25,1.850,1.950
+72936028,2026-09-06 17:00,APO Levadiakos FC,Panaitolikos Agrinio,0,2,2.050,3.300,3.750,2.25,1.975,1.825
+72936034,2026-09-06 18:30,Panathinaikos Athens,PAOK Thessaloniki,3,1,1.900,3.600,3.800,2.5,1.850,1.950
+72936246,2026-09-07 15:00,Asteras Tripolis,POT Iraklis,0,2,2.000,3.250,3.900,2.25,1.950,1.850
+74070666,2026-09-10 18:15,Panathinaikos Athens,AE Kifisia FC,3,1,1.285,5.000,10.000,2.75,1.800,2.000
+72936042,2026-09-12 16:00,Olympiacos Piraeus,OFI Crete,0,1,1.270,6.000,10.000,2.75,1.800,2.000
+72936046,2026-09-12 18:00,POT Iraklis,Atromitos Athinon,1,1,2.875,3.250,2.450,2.25,1.950,1.850
+72936038,2026-09-13 15:00,PAE PS Kalamata,Volos NPS,3,1,2.625,3.200,2.700,2.5,2.000,1.800
+72936036,2026-09-13 16:00,Asteras Tripolis,AEK Athens,1,1,7.500,4.200,1.444,2.5,1.800,2.000
+72936040,2026-09-13 18:00,AE Kifisia FC,APO Levadiakos FC,0,0,1.950,3.400,3.900,2.25,1.825,1.975
+72936044,2026-09-13 18:00,PAOK Thessaloniki,Aris Thessaloniki,2,0,1.533,4.200,5.750,2.5,1.900,1.900
+72936048,2026-09-13 18:30,Panathinaikos Athens,Panaitolikos Agrinio,3,0,1.200,6.500,12.000,3,1.850,1.950
+72936052,2026-09-19 16:00,Atromitos Athinon,AE Kifisia FC,1,2,2.350,3.000,3.200,,,
+72936050,2026-09-19 16:30,Aris Thessaloniki,POT Iraklis,0,0,1.666,3.700,4.750,2.25,1.850,1.950
+72936058,2026-09-20 14:00,APO Levadiakos FC,Olympiacos Piraeus,0,1,8.000,4.500,1.400,2.5,1.950,1.850
+72936054,2026-09-20 15:00,Volos NPS,AEK Athens,1,2,11.000,5.250,1.285,3,1.825,1.975
+72936060,2026-09-20 16:00,OFI Crete,Asteras Tripolis,2,2,2.300,3.100,3.300,2.25,2.025,1.775
+72936056,2026-09-20 16:30,PAE PS Kalamata,Panathinaikos Athens,0,1,11.000,5.250,1.285,3,1.950,1.850
+72936062,2026-09-20 18:00,Panaitolikos Agrinio,PAOK Thessaloniki,1,3,7.000,4.500,1.450,2.75,1.975,1.825
+72936064,2026-10-10 16:30,Asteras Tripolis,Atromitos Athinon,2,1,2.400,3.200,3.000,2.25,2.000,1.800
+72936066,2026-10-10 16:30,AEK Athens,OFI Crete,3,0,1.270,5.250,10.000,3,1.850,1.950
+72936070,2026-10-11 14:00,AE Kifisia FC,Panaitolikos Agrinio,2,0,1.900,3.250,4.333,2.25,1.850,1.950
+72936076,2026-10-11 14:00,POT Iraklis,APO Levadiakos FC,2,0,2.250,3.000,3.500,2.25,2.025,1.775
+72936068,2026-10-11 16:00,Aris Thessaloniki,Volos NPS,3,2,1.444,4.200,7.000,2.75,1.925,1.875
+72936072,2026-10-11 18:00,Olympiacos Piraeus,Panathinaikos Athens,1,0,2.200,3.100,3.500,2.25,1.850,1.950
+72936074,2026-10-12 15:00,PAOK Thessaloniki,PAE PS Kalamata,1,3,1.270,6.000,10.000,3,1.850,1.950
+72936084,2026-10-17 14:00,APO Levadiakos FC,Volos NPS,0,0,2.250,3.250,3.250,2.25,1.800,2.000
+72936080,2026-10-18 13:00,PAE PS Kalamata,OFI Crete,4,3,2.750,3.100,2.625,2.25,1.775,2.025
+72936090,2026-10-18 14:00,Panaitolikos Agrinio,Olympiacos Piraeus,0,2,10.000,4.750,1.333,2.5,1.850,1.950
+72936088,2026-10-18 14:30,Panathinaikos Athens,Asteras Tripolis,5,1,1.222,5.750,13.000,3,1.900,1.900
+72936082,2026-10-18 17:00,AE Kifisia FC,Aris Thessaloniki,1,2,3.000,3.300,2.300,2.5,1.900,1.900
+72936086,2026-10-18 18:00,PAOK Thessaloniki,POT Iraklis,2,1,1.363,5.000,7.500,2.75,1.900,1.900
+72936104,2026-10-24 16:00,POT Iraklis,AE Kifisia FC,2,3,2.350,3.200,3.000,2.25,1.950,1.850
+72936092,2026-10-24 16:30,Asteras Tripolis,APO Levadiakos FC,0,0,2.050,3.000,4.200,2.25,2.000,1.800
+72936094,2026-10-24 17:00,AEK Athens,Panaitolikos Agrinio,5,0,1.111,8.500,19.000,3.25,1.800,2.000
+72936102,2026-10-25 14:00,Olympiacos Piraeus,PAE PS Kalamata,5,0,1.181,6.500,15.000,3.25,1.950,1.850
+72936098,2026-10-25 16:00,Volos NPS,Panathinaikos Athens,0,1,10.000,5.250,1.285,3.25,2.000,1.800
+72936096,2026-10-25 17:30,Aris Thessaloniki,Atromitos Athinon,3,1,1.615,3.800,5.500,2.5,1.900,1.900
+72936100,2026-10-25 18:00,OFI Crete,PAOK Thessaloniki,2,1,4.500,3.800,1.700,2.75,2.000,1.800
+72936110,2026-10-31 17:00,AE Kifisia FC,Olympiacos Piraeus,2,3,8.000,4.200,1.420,2.5,1.850,1.950
+72936112,2026-11-01 15:00,APO Levadiakos FC,Aris Thessaloniki,3,0,3.100,3.100,2.450,2,1.775,2.025
+72936118,2026-11-01 16:00,Panaitolikos Agrinio,OFI Crete,0,1,3.400,3.200,2.200,2.5,1.925,1.875
+72936114,2026-11-01 17:00,PAOK Thessaloniki,Asteras Tripolis,2,1,1.333,5.250,8.000,3,1.950,1.850
+72936116,2026-11-01 17:30,Panathinaikos Athens,AEK Athens,2,0,2.050,3.400,3.500,2.75,1.975,1.825
+72936106,2026-11-02 16:00,Atromitos Athinon,Volos NPS,3,0,1.727,3.700,4.750,2.5,1.975,1.825
+72936108,2026-11-02 17:30,PAE PS Kalamata,POT Iraklis,1,1,2.000,3.200,4.000,2.25,1.825,1.975
+72936126,2026-11-07 15:00,Volos NPS,AE Kifisia FC,1,3,3.300,3.250,2.200,2.25,1.825,1.975
+72936124,2026-11-07 17:30,Aris Thessaloniki,Panaitolikos Agrinio,3,0,1.380,4.750,8.500,2.75,1.950,1.850
+72936120,2026-11-08 15:00,Asteras Tripolis,PAE PS Kalamata,1,1,1.900,3.250,4.333,2.5,2.000,1.800
+72936122,2026-11-08 15:00,AEK Athens,APO Levadiakos FC,2,1,1.222,5.500,15.000,2.75,1.850,1.950
+72936132,2026-11-08 15:30,POT Iraklis,Panathinaikos Athens,1,2,9.500,5.000,1.300,2.75,1.900,1.900
+72936128,2026-11-08 16:30,OFI Crete,Atromitos Athinon,0,0,2.500,3.250,2.750,2.5,2.000,1.800
+72936130,2026-11-08 19:00,Olympiacos Piraeus,PAOK Thessaloniki,1,1,1.550,3.900,6.000,2.5,1.900,1.900

@@ -1,149 +1,149 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-72595946,2026-08-15 12:30,VV Noordwijk,Blauw Geel 38,2,0,,,
-72595948,2026-08-15 12:30,FC Lisse,Achilles Veen,4,1,,,
-72595950,2026-08-15 12:30,FC Rijnvogels,VV Gemert,2,2,,,
-72595952,2026-08-15 12:30,SV Poortugaal,VVSB Noordwijkerhout,0,1,4.500,4.500,1.500
-72595956,2026-08-15 14:00,Udi 19,Excelsior Maassluis,1,1,2.750,3.600,2.100
-72595954,2026-08-15 16:00,Dongen,VV Zwaluwen Vlaardingen,4,0,3.000,3.600,2.000
-72595958,2026-08-16 12:30,VV Goes,EVV Echt,3,2,,,
-72595960,2026-08-16 12:30,Groene Ster,RBC Roosendaal,1,3,2.800,3.700,2.050
-72595962,2026-08-16 12:30,VV Una,SV Togb,1,1,2.375,3.750,2.350
-72595964,2026-08-22 12:30,Achilles Veen,VV Noordwijk,0,4,,,
-72595966,2026-08-22 12:30,Excelsior Maassluis,Groene Ster,3,1,,,
-72595968,2026-08-22 12:30,VV Zwaluwen Vlaardingen,VV Una,1,1,,,
-72595970,2026-08-22 13:00,SV Togb,SV Poortugaal,1,3,,,
-72595972,2026-08-22 16:00,VVSB Noordwijkerhout,Udi 19,0,2,1.850,4.000,3.000
-72595980,2026-08-22 17:00,RBC Roosendaal,FC Lisse,0,1,,,
-72595974,2026-08-23 12:00,Blauw Geel 38,FC Rijnvogels,0,0,3.100,3.400,2.000
-72595976,2026-08-23 12:00,EVV Echt,Dongen,2,3,2.300,3.400,2.550
-72595978,2026-08-23 12:00,VV Gemert,VV Goes,2,2,1.666,4.000,3.750
-72595982,2026-08-29 12:30,Achilles Veen,Blauw Geel 38,3,2,,,
-72595984,2026-08-29 12:30,FC Lisse,Excelsior Maassluis,1,0,,,
-72595986,2026-08-29 12:30,VV Noordwijk,RBC Roosendaal,1,0,,,
-72595988,2026-08-29 12:30,SV Poortugaal,VV Zwaluwen Vlaardingen,3,1,,,
-72595990,2026-08-30 12:00,Dongen,VV Gemert,3,2,3.200,3.900,1.850
-72595992,2026-08-30 12:00,Udi 19,SV Togb,2,1,1.800,4.000,3.250
-72595994,2026-08-30 12:30,VV Goes,FC Rijnvogels,1,4,3.250,4.000,1.800
-72596052,2026-08-30 12:30,Groene Ster,VVSB Noordwijkerhout,3,3,3.750,4.100,1.666
-72596054,2026-08-30 12:30,VV Una,EVV Echt,4,1,1.850,3.900,3.200
-72595382,2026-09-05 12:30,VV Eemdijk,Harkemase Boys,1,2,,,
-72595384,2026-09-05 12:30,Staphorst,SC Genemuiden,1,2,,,
-72596056,2026-09-05 12:30,Excelsior Maassluis,VV Noordwijk,0,0,2.700,3.500,2.200
-72596058,2026-09-05 12:30,FC Rijnvogels,Dongen,5,2,,,
-72596060,2026-09-05 12:30,VV Zwaluwen Vlaardingen,Udi 19,1,0,,,
-72595386,2026-09-05 12:45,SV Zwaluwen Wierden,ADO 20 Heemskerk,4,6,,,
-72595388,2026-09-05 13:00,SV Dvs 33 Ermelo,VV Sparta Nijkerk,1,3,,,
-72595390,2026-09-05 13:00,Vpv Purmersteijn,Dovo Veenendaal,1,2,,,
-72595392,2026-09-05 13:00,VV Scherpenzeel,Excelsior ´31,3,1,,,
-72595394,2026-09-05 13:00,ZSV Sportlust 46,VV Hoogeveen,2,2,,,
-72596062,2026-09-05 13:00,SV Togb,Groene Ster,3,3,,,
-72595396,2026-09-05 13:30,USV Hercules,ACV Assen,0,3,,,
-72596064,2026-09-05 13:30,VVSB Noordwijkerhout,FC Lisse,1,2,,,
-72596068,2026-09-05 16:00,RBC Roosendaal,Achilles Veen,3,0,1.571,4.000,4.333
-72596066,2026-09-05 17:30,EVV Echt,SV Poortugaal,0,1,2.625,3.800,2.100
-72596070,2026-09-06 12:00,Blauw Geel 38,VV Goes,2,2,1.833,3.900,3.200
-72596072,2026-09-06 12:00,VV Gemert,VV Una,1,1,1.850,3.900,3.200
-72596074,2026-09-12 12:30,Achilles Veen,Excelsior Maassluis,2,3,,,
-72596076,2026-09-12 12:30,FC Lisse,SV Togb,3,2,,,
-72596078,2026-09-12 12:30,VV Noordwijk,VVSB Noordwijkerhout,2,0,,,
-72596080,2026-09-12 12:30,SV Poortugaal,VV Gemert,1,2,,,
-72596086,2026-09-12 17:00,RBC Roosendaal,Blauw Geel 38,1,3,1.700,3.800,3.700
-72596082,2026-09-12 17:30,Groene Ster,VV Zwaluwen Vlaardingen,1,0,2.750,3.900,2.050
-72596084,2026-09-13 12:00,Dongen,VV Goes,2,3,,,
-72596088,2026-09-13 12:00,Udi 19,EVV Echt,4,1,1.571,4.333,4.100
-72596090,2026-09-13 12:30,VV Una,FC Rijnvogels,1,4,,,
-72596092,2026-09-19 12:30,Excelsior Maassluis,RBC Roosendaal,5,0,,,
-72596094,2026-09-19 12:30,FC Rijnvogels,SV Poortugaal,1,0,,,
-72596096,2026-09-19 12:30,VV Zwaluwen Vlaardingen,FC Lisse,1,0,,,
-72596098,2026-09-19 13:00,SV Togb,VV Noordwijk,0,3,,,
-72596100,2026-09-19 13:30,VVSB Noordwijkerhout,Achilles Veen,2,1,,,
-72596104,2026-09-19 17:00,EVV Echt,Groene Ster,1,1,2.800,3.900,2.000
-72596102,2026-09-20 12:00,Blauw Geel 38,Dongen,3,1,1.850,4.000,3.000
-72596106,2026-09-20 12:00,VV Gemert,Udi 19,1,1,2.250,3.900,2.375
-72596108,2026-09-20 12:30,VV Goes,VV Una,2,1,2.350,3.800,2.350
-72596110,2026-09-26 12:30,Achilles Veen,SV Togb,0,1,,,
-72596112,2026-09-26 12:30,Excelsior Maassluis,Blauw Geel 38,1,0,,,
-72596114,2026-09-26 12:30,FC Lisse,EVV Echt,1,1,,,
-72596116,2026-09-26 12:30,VV Noordwijk,VV Zwaluwen Vlaardingen,1,2,,,
-72596118,2026-09-26 12:30,SV Poortugaal,VV Goes,0,3,,,
-72596120,2026-09-26 17:00,RBC Roosendaal,VVSB Noordwijkerhout,3,1,,,
-72596122,2026-09-27 12:00,Udi 19,FC Rijnvogels,0,4,,,
-72596124,2026-09-27 12:30,Groene Ster,VV Gemert,1,2,2.450,3.800,2.350
-72596126,2026-09-27 12:30,VV Una,Dongen,2,2,1.700,4.100,3.500
-72595454,2026-10-03 12:30,Dovo Veenendaal,ADO 20 Heemskerk,1,3,,,
-72595458,2026-10-03 12:30,Staphorst,Tec,0,3,2.875,4.000,1.909
-72596128,2026-10-03 12:30,FC Rijnvogels,Groene Ster,5,1,,,
-72596130,2026-10-03 12:30,VV Zwaluwen Vlaardingen,Achilles Veen,1,0,,,
-72595460,2026-10-03 12:45,SV Zwaluwen Wierden,VV Sparta Nijkerk,0,2,,,
-72595462,2026-10-03 13:00,Vpv Purmersteijn,Harkemase Boys,4,2,,,
-72595464,2026-10-03 13:00,VV Scherpenzeel,ACV Assen,4,2,,,
-72595466,2026-10-03 13:00,ZSV Sportlust 46,Excelsior ´31,0,3,,,
-72596132,2026-10-03 13:00,SV Togb,RBC Roosendaal,4,3,,,
-72595468,2026-10-03 13:30,USV Hercules,SV Dvs 33 Ermelo,1,0,,,
-72596134,2026-10-03 13:30,VVSB Noordwijkerhout,Excelsior Maassluis,2,3,,,
-72595470,2026-10-03 16:00,VV Hoogeveen,SC Genemuiden,5,3,2.800,3.900,2.000
-72596136,2026-10-03 17:30,Dongen,SV Poortugaal,4,0,2.200,3.800,2.450
-72596138,2026-10-03 17:30,EVV Echt,VV Noordwijk,0,2,4.200,4.333,1.571
-72596140,2026-10-04 12:00,Blauw Geel 38,VV Una,1,1,1.800,4.000,3.250
-72596142,2026-10-04 12:00,VV Gemert,FC Lisse,0,2,2.350,3.600,2.500
-72596144,2026-10-04 12:30,VV Goes,Udi 19,0,4,2.250,3.750,2.500
-72595472,2026-10-10 12:30,ACV Assen,Vpv Purmersteijn,1,1,,,
-72595476,2026-10-10 12:30,Harkemase Boys,VV Hoogeveen,2,1,1.700,4.333,3.400
-72595478,2026-10-10 12:30,SC Genemuiden,Dovo Veenendaal,3,1,,,
-72596146,2026-10-10 12:30,Achilles Veen,EVV Echt,1,0,,,
-72596148,2026-10-10 12:30,Excelsior Maassluis,SV Togb,3,0,1.666,4.333,3.500
-72596150,2026-10-10 12:30,FC Lisse,FC Rijnvogels,2,0,,,
-72596152,2026-10-10 12:30,VV Noordwijk,VV Gemert,4,0,,,
-72596154,2026-10-10 12:30,SV Poortugaal,VV Una,1,0,,,
-72595480,2026-10-10 13:00,SV Dvs 33 Ermelo,VV Eemdijk,2,2,,,
-72595482,2026-10-10 13:00,VV Sparta Nijkerk,VV Scherpenzeel,0,2,,,
-72595484,2026-10-10 13:00,Tec,SV Zwaluwen Wierden,1,0,,,
-72595486,2026-10-10 13:30,USV Hercules,ZSV Sportlust 46,0,0,,,
-72595488,2026-10-10 14:00,HVV Hollandia Hoorn,Staphorst,2,4,,,
-72596156,2026-10-10 16:00,VVSB Noordwijkerhout,Blauw Geel 38,0,2,2.000,3.900,2.750
-72596158,2026-10-10 17:00,RBC Roosendaal,VV Zwaluwen Vlaardingen,2,4,,,
-72596160,2026-10-11 12:00,Udi 19,Dongen,4,0,1.650,4.333,3.600
-72596162,2026-10-11 12:30,Groene Ster,VV Goes,2,1,2.100,3.900,2.600
-72595490,2026-10-17 12:30,Dovo Veenendaal,Harkemase Boys,2,3,,,
-72595492,2026-10-17 12:30,VV Eemdijk,USV Hercules,2,0,,,
-72595494,2026-10-17 12:30,Excelsior ´31,SC Genemuiden,5,0,,,
-72595496,2026-10-17 12:30,Staphorst,SV Dvs 33 Ermelo,2,1,,,
-72596164,2026-10-17 12:30,FC Rijnvogels,VV Noordwijk,0,3,,,
-72596166,2026-10-17 12:30,VV Zwaluwen Vlaardingen,Excelsior Maassluis,0,2,,,
-72595498,2026-10-17 12:45,SV Zwaluwen Wierden,HVV Hollandia Hoorn,0,1,,,
-72595500,2026-10-17 13:00,Vpv Purmersteijn,VV Sparta Nijkerk,3,0,,,
-72595502,2026-10-17 13:00,VV Scherpenzeel,Tec,1,1,,,
-72595504,2026-10-17 13:00,ZSV Sportlust 46,ADO 20 Heemskerk,2,1,,,
-72596170,2026-10-17 13:00,SV Togb,VVSB Noordwijkerhout,3,3,,,
-72596172,2026-10-17 13:30,Blauw Geel 38,SV Poortugaal,1,3,,,
-72595506,2026-10-17 16:00,VV Hoogeveen,ACV Assen,1,4,3.250,4.200,1.750
-72596174,2026-10-17 17:00,VV Gemert,Achilles Veen,2,0,1.571,4.200,4.200
-72596176,2026-10-18 12:00,Dongen,Groene Ster,3,0,,,
-72596178,2026-10-18 12:00,EVV Echt,RBC Roosendaal,3,3,3.100,4.000,1.833
-72596180,2026-10-18 12:30,VV Goes,FC Lisse,2,6,3.700,4.100,1.666
-72596182,2026-10-18 12:30,VV Una,Udi 19,0,2,3.100,4.000,1.850
-72595508,2026-10-24 12:30,ACV Assen,Dovo Veenendaal,1,1,,,
-72595512,2026-10-24 12:30,Harkemase Boys,Excelsior ´31,4,0,1.909,4.100,2.875
-72595514,2026-10-24 12:30,SC Genemuiden,ADO 20 Heemskerk,2,2,,,
-72596184,2026-10-24 12:30,Achilles Veen,FC Rijnvogels,1,4,3.500,4.333,1.666
-72596186,2026-10-24 12:30,Excelsior Maassluis,EVV Echt,1,0,1.250,5.750,7.000
-72596190,2026-10-24 12:30,VV Noordwijk,VV Goes,3,2,,,
-72595516,2026-10-24 13:00,SV Dvs 33 Ermelo,SV Zwaluwen Wierden,4,3,,,
-72595518,2026-10-24 13:00,VV Sparta Nijkerk,VV Hoogeveen,2,0,,,
-72595524,2026-10-24 13:00,Tec,Vpv Purmersteijn,5,2,,,
-72596192,2026-10-24 13:00,SV Togb,Blauw Geel 38,3,1,,,
-72595520,2026-10-24 13:30,USV Hercules,Staphorst,4,1,,,
-72596194,2026-10-24 13:30,VVSB Noordwijkerhout,VV Zwaluwen Vlaardingen,2,4,,,
-72596188,2026-10-24 16:00,FC Lisse,Dongen,4,0,1.380,4.750,5.500
-72596196,2026-10-24 16:00,Udi 19,SV Poortugaal,2,3,,,
-72595522,2026-10-25 13:00,HVV Hollandia Hoorn,VV Scherpenzeel,2,2,3.800,4.750,1.571
-72596200,2026-10-25 13:30,Groene Ster,VV Una,1,3,2.250,4.000,2.400
-72596202,2026-11-07 13:30,FC Rijnvogels,RBC Roosendaal,3,3,,,
-72596204,2026-11-07 13:30,SV Poortugaal,Groene Ster,5,0,,,
-72596206,2026-11-07 13:30,VV Zwaluwen Vlaardingen,SV Togb,1,0,,,
-72596208,2026-11-07 17:00,Dongen,VV Noordwijk,0,1,3.900,4.500,1.571
-72596212,2026-11-07 17:00,VV Goes,Achilles Veen,4,1,,,
-72596210,2026-11-07 18:00,VV Gemert,Excelsior Maassluis,3,1,3.100,4.000,1.850
-72596214,2026-11-08 13:00,Blauw Geel 38,Udi 19,1,0,2.350,4.000,2.300
-72596216,2026-11-08 13:00,EVV Echt,VVSB Noordwijkerhout,0,1,3.800,4.333,1.571
-72596218,2026-11-08 13:30,VV Una,FC Lisse,0,4,4.100,4.333,1.550
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+72595946,2026-08-15 12:30,VV Noordwijk,Blauw Geel 38,2,0,,,,,,
+72595948,2026-08-15 12:30,FC Lisse,Achilles Veen,4,1,,,,,,
+72595950,2026-08-15 12:30,FC Rijnvogels,VV Gemert,2,2,,,,,,
+72595952,2026-08-15 12:30,SV Poortugaal,VVSB Noordwijkerhout,0,1,4.500,4.500,1.500,3.25,1.975,1.825
+72595956,2026-08-15 14:00,Udi 19,Excelsior Maassluis,1,1,2.750,3.600,2.100,3.25,1.850,1.950
+72595954,2026-08-15 16:00,Dongen,VV Zwaluwen Vlaardingen,4,0,3.000,3.600,2.000,3,1.825,1.975
+72595958,2026-08-16 12:30,VV Goes,EVV Echt,3,2,,,,,,
+72595960,2026-08-16 12:30,Groene Ster,RBC Roosendaal,1,3,2.800,3.700,2.050,3.25,2.000,1.800
+72595962,2026-08-16 12:30,VV Una,SV Togb,1,1,2.375,3.750,2.350,3.25,2.000,1.800
+72595964,2026-08-22 12:30,Achilles Veen,VV Noordwijk,0,4,,,,,,
+72595966,2026-08-22 12:30,Excelsior Maassluis,Groene Ster,3,1,,,,,,
+72595968,2026-08-22 12:30,VV Zwaluwen Vlaardingen,VV Una,1,1,,,,,,
+72595970,2026-08-22 13:00,SV Togb,SV Poortugaal,1,3,,,,,,
+72595972,2026-08-22 16:00,VVSB Noordwijkerhout,Udi 19,0,2,1.850,4.000,3.000,3.25,1.850,1.950
+72595980,2026-08-22 17:00,RBC Roosendaal,FC Lisse,0,1,,,,,,
+72595974,2026-08-23 12:00,Blauw Geel 38,FC Rijnvogels,0,0,3.100,3.400,2.000,3,1.925,1.875
+72595976,2026-08-23 12:00,EVV Echt,Dongen,2,3,2.300,3.400,2.550,3.25,2.000,1.800
+72595978,2026-08-23 12:00,VV Gemert,VV Goes,2,2,1.666,4.000,3.750,3.5,1.975,1.825
+72595982,2026-08-29 12:30,Achilles Veen,Blauw Geel 38,3,2,,,,,,
+72595984,2026-08-29 12:30,FC Lisse,Excelsior Maassluis,1,0,,,,,,
+72595986,2026-08-29 12:30,VV Noordwijk,RBC Roosendaal,1,0,,,,,,
+72595988,2026-08-29 12:30,SV Poortugaal,VV Zwaluwen Vlaardingen,3,1,,,,,,
+72595990,2026-08-30 12:00,Dongen,VV Gemert,3,2,3.200,3.900,1.850,3.25,1.950,1.850
+72595992,2026-08-30 12:00,Udi 19,SV Togb,2,1,1.800,4.000,3.250,3.25,1.825,1.975
+72595994,2026-08-30 12:30,VV Goes,FC Rijnvogels,1,4,3.250,4.000,1.800,2.75,1.825,1.975
+72596052,2026-08-30 12:30,Groene Ster,VVSB Noordwijkerhout,3,3,3.750,4.100,1.666,3.25,1.975,1.825
+72596054,2026-08-30 12:30,VV Una,EVV Echt,4,1,1.850,3.900,3.200,3.25,2.000,1.800
+72595382,2026-09-05 12:30,VV Eemdijk,Harkemase Boys,1,2,,,,,,
+72595384,2026-09-05 12:30,Staphorst,SC Genemuiden,1,2,,,,,,
+72596056,2026-09-05 12:30,Excelsior Maassluis,VV Noordwijk,0,0,2.700,3.500,2.200,3,1.900,1.900
+72596058,2026-09-05 12:30,FC Rijnvogels,Dongen,5,2,,,,,,
+72596060,2026-09-05 12:30,VV Zwaluwen Vlaardingen,Udi 19,1,0,,,,,,
+72595386,2026-09-05 12:45,SV Zwaluwen Wierden,ADO 20 Heemskerk,4,6,,,,,,
+72595388,2026-09-05 13:00,SV Dvs 33 Ermelo,VV Sparta Nijkerk,1,3,,,,,,
+72595390,2026-09-05 13:00,Vpv Purmersteijn,Dovo Veenendaal,1,2,,,,,,
+72595392,2026-09-05 13:00,VV Scherpenzeel,Excelsior ´31,3,1,,,,,,
+72595394,2026-09-05 13:00,ZSV Sportlust 46,VV Hoogeveen,2,2,,,,,,
+72596062,2026-09-05 13:00,SV Togb,Groene Ster,3,3,,,,,,
+72595396,2026-09-05 13:30,USV Hercules,ACV Assen,0,3,,,,,,
+72596064,2026-09-05 13:30,VVSB Noordwijkerhout,FC Lisse,1,2,,,,,,
+72596068,2026-09-05 16:00,RBC Roosendaal,Achilles Veen,3,0,1.571,4.000,4.333,3.25,1.900,1.900
+72596066,2026-09-05 17:30,EVV Echt,SV Poortugaal,0,1,2.625,3.800,2.100,3.25,2.000,1.800
+72596070,2026-09-06 12:00,Blauw Geel 38,VV Goes,2,2,1.833,3.900,3.200,3,1.950,1.850
+72596072,2026-09-06 12:00,VV Gemert,VV Una,1,1,1.850,3.900,3.200,3.25,1.950,1.850
+72596074,2026-09-12 12:30,Achilles Veen,Excelsior Maassluis,2,3,,,,,,
+72596076,2026-09-12 12:30,FC Lisse,SV Togb,3,2,,,,,,
+72596078,2026-09-12 12:30,VV Noordwijk,VVSB Noordwijkerhout,2,0,,,,,,
+72596080,2026-09-12 12:30,SV Poortugaal,VV Gemert,1,2,,,,,,
+72596086,2026-09-12 17:00,RBC Roosendaal,Blauw Geel 38,1,3,1.700,3.800,3.700,3.25,1.925,1.875
+72596082,2026-09-12 17:30,Groene Ster,VV Zwaluwen Vlaardingen,1,0,2.750,3.900,2.050,3.25,2.000,1.800
+72596084,2026-09-13 12:00,Dongen,VV Goes,2,3,,,,,,
+72596088,2026-09-13 12:00,Udi 19,EVV Echt,4,1,1.571,4.333,4.100,3.25,1.950,1.850
+72596090,2026-09-13 12:30,VV Una,FC Rijnvogels,1,4,,,,,,
+72596092,2026-09-19 12:30,Excelsior Maassluis,RBC Roosendaal,5,0,,,,,,
+72596094,2026-09-19 12:30,FC Rijnvogels,SV Poortugaal,1,0,,,,,,
+72596096,2026-09-19 12:30,VV Zwaluwen Vlaardingen,FC Lisse,1,0,,,,,,
+72596098,2026-09-19 13:00,SV Togb,VV Noordwijk,0,3,,,,,,
+72596100,2026-09-19 13:30,VVSB Noordwijkerhout,Achilles Veen,2,1,,,,,,
+72596104,2026-09-19 17:00,EVV Echt,Groene Ster,1,1,2.800,3.900,2.000,3.25,1.850,1.950
+72596102,2026-09-20 12:00,Blauw Geel 38,Dongen,3,1,1.850,4.000,3.000,3.25,1.975,1.825
+72596106,2026-09-20 12:00,VV Gemert,Udi 19,1,1,2.250,3.900,2.375,3.25,1.825,1.975
+72596108,2026-09-20 12:30,VV Goes,VV Una,2,1,2.350,3.800,2.350,3.25,1.850,1.950
+72596110,2026-09-26 12:30,Achilles Veen,SV Togb,0,1,,,,,,
+72596112,2026-09-26 12:30,Excelsior Maassluis,Blauw Geel 38,1,0,,,,,,
+72596114,2026-09-26 12:30,FC Lisse,EVV Echt,1,1,,,,,,
+72596116,2026-09-26 12:30,VV Noordwijk,VV Zwaluwen Vlaardingen,1,2,,,,,,
+72596118,2026-09-26 12:30,SV Poortugaal,VV Goes,0,3,,,,,,
+72596120,2026-09-26 17:00,RBC Roosendaal,VVSB Noordwijkerhout,3,1,,,,,,
+72596122,2026-09-27 12:00,Udi 19,FC Rijnvogels,0,4,,,,,,
+72596124,2026-09-27 12:30,Groene Ster,VV Gemert,1,2,2.450,3.800,2.350,3.25,1.800,2.000
+72596126,2026-09-27 12:30,VV Una,Dongen,2,2,1.700,4.100,3.500,3.25,2.000,1.800
+72595454,2026-10-03 12:30,Dovo Veenendaal,ADO 20 Heemskerk,1,3,,,,,,
+72595458,2026-10-03 12:30,Staphorst,Tec,0,3,2.875,4.000,1.909,3.5,1.950,1.850
+72596128,2026-10-03 12:30,FC Rijnvogels,Groene Ster,5,1,,,,,,
+72596130,2026-10-03 12:30,VV Zwaluwen Vlaardingen,Achilles Veen,1,0,,,,,,
+72595460,2026-10-03 12:45,SV Zwaluwen Wierden,VV Sparta Nijkerk,0,2,,,,,,
+72595462,2026-10-03 13:00,Vpv Purmersteijn,Harkemase Boys,4,2,,,,,,
+72595464,2026-10-03 13:00,VV Scherpenzeel,ACV Assen,4,2,,,,,,
+72595466,2026-10-03 13:00,ZSV Sportlust 46,Excelsior ´31,0,3,,,,,,
+72596132,2026-10-03 13:00,SV Togb,RBC Roosendaal,4,3,,,,,,
+72595468,2026-10-03 13:30,USV Hercules,SV Dvs 33 Ermelo,1,0,,,,,,
+72596134,2026-10-03 13:30,VVSB Noordwijkerhout,Excelsior Maassluis,2,3,,,,,,
+72595470,2026-10-03 16:00,VV Hoogeveen,SC Genemuiden,5,3,2.800,3.900,2.000,3.25,1.950,1.850
+72596136,2026-10-03 17:30,Dongen,SV Poortugaal,4,0,2.200,3.800,2.450,3.25,1.900,1.900
+72596138,2026-10-03 17:30,EVV Echt,VV Noordwijk,0,2,4.200,4.333,1.571,3.25,1.975,1.825
+72596140,2026-10-04 12:00,Blauw Geel 38,VV Una,1,1,1.800,4.000,3.250,3,1.800,2.000
+72596142,2026-10-04 12:00,VV Gemert,FC Lisse,0,2,2.350,3.600,2.500,2.75,1.825,1.975
+72596144,2026-10-04 12:30,VV Goes,Udi 19,0,4,2.250,3.750,2.500,3.5,1.975,1.825
+72595472,2026-10-10 12:30,ACV Assen,Vpv Purmersteijn,1,1,,,,,,
+72595476,2026-10-10 12:30,Harkemase Boys,VV Hoogeveen,2,1,1.700,4.333,3.400,3.5,1.950,1.850
+72595478,2026-10-10 12:30,SC Genemuiden,Dovo Veenendaal,3,1,,,,,,
+72596146,2026-10-10 12:30,Achilles Veen,EVV Echt,1,0,,,,,,
+72596148,2026-10-10 12:30,Excelsior Maassluis,SV Togb,3,0,1.666,4.333,3.500,3.5,2.000,1.800
+72596150,2026-10-10 12:30,FC Lisse,FC Rijnvogels,2,0,,,,,,
+72596152,2026-10-10 12:30,VV Noordwijk,VV Gemert,4,0,,,,,,
+72596154,2026-10-10 12:30,SV Poortugaal,VV Una,1,0,,,,,,
+72595480,2026-10-10 13:00,SV Dvs 33 Ermelo,VV Eemdijk,2,2,,,,,,
+72595482,2026-10-10 13:00,VV Sparta Nijkerk,VV Scherpenzeel,0,2,,,,,,
+72595484,2026-10-10 13:00,Tec,SV Zwaluwen Wierden,1,0,,,,,,
+72595486,2026-10-10 13:30,USV Hercules,ZSV Sportlust 46,0,0,,,,,,
+72595488,2026-10-10 14:00,HVV Hollandia Hoorn,Staphorst,2,4,,,,,,
+72596156,2026-10-10 16:00,VVSB Noordwijkerhout,Blauw Geel 38,0,2,2.000,3.900,2.750,3.25,1.925,1.875
+72596158,2026-10-10 17:00,RBC Roosendaal,VV Zwaluwen Vlaardingen,2,4,,,,,,
+72596160,2026-10-11 12:00,Udi 19,Dongen,4,0,1.650,4.333,3.600,3.5,1.925,1.875
+72596162,2026-10-11 12:30,Groene Ster,VV Goes,2,1,2.100,3.900,2.600,3.25,1.825,1.975
+72595490,2026-10-17 12:30,Dovo Veenendaal,Harkemase Boys,2,3,,,,,,
+72595492,2026-10-17 12:30,VV Eemdijk,USV Hercules,2,0,,,,,,
+72595494,2026-10-17 12:30,Excelsior ´31,SC Genemuiden,5,0,,,,,,
+72595496,2026-10-17 12:30,Staphorst,SV Dvs 33 Ermelo,2,1,,,,,,
+72596164,2026-10-17 12:30,FC Rijnvogels,VV Noordwijk,0,3,,,,,,
+72596166,2026-10-17 12:30,VV Zwaluwen Vlaardingen,Excelsior Maassluis,0,2,,,,,,
+72595498,2026-10-17 12:45,SV Zwaluwen Wierden,HVV Hollandia Hoorn,0,1,,,,,,
+72595500,2026-10-17 13:00,Vpv Purmersteijn,VV Sparta Nijkerk,3,0,,,,,,
+72595502,2026-10-17 13:00,VV Scherpenzeel,Tec,1,1,,,,,,
+72595504,2026-10-17 13:00,ZSV Sportlust 46,ADO 20 Heemskerk,2,1,,,,,,
+72596170,2026-10-17 13:00,SV Togb,VVSB Noordwijkerhout,3,3,,,,,,
+72596172,2026-10-17 13:30,Blauw Geel 38,SV Poortugaal,1,3,,,,,,
+72595506,2026-10-17 16:00,VV Hoogeveen,ACV Assen,1,4,3.250,4.200,1.750,3.25,1.825,1.975
+72596174,2026-10-17 17:00,VV Gemert,Achilles Veen,2,0,1.571,4.200,4.200,3.25,1.900,1.900
+72596176,2026-10-18 12:00,Dongen,Groene Ster,3,0,,,,,,
+72596178,2026-10-18 12:00,EVV Echt,RBC Roosendaal,3,3,3.100,4.000,1.833,3.25,1.825,1.975
+72596180,2026-10-18 12:30,VV Goes,FC Lisse,2,6,3.700,4.100,1.666,3.25,1.975,1.825
+72596182,2026-10-18 12:30,VV Una,Udi 19,0,2,3.100,4.000,1.850,3.25,1.800,2.000
+72595508,2026-10-24 12:30,ACV Assen,Dovo Veenendaal,1,1,,,,,,
+72595512,2026-10-24 12:30,Harkemase Boys,Excelsior ´31,4,0,1.909,4.100,2.875,3.5,2.000,1.800
+72595514,2026-10-24 12:30,SC Genemuiden,ADO 20 Heemskerk,2,2,,,,,,
+72596184,2026-10-24 12:30,Achilles Veen,FC Rijnvogels,1,4,3.500,4.333,1.666,3.5,1.825,1.975
+72596186,2026-10-24 12:30,Excelsior Maassluis,EVV Echt,1,0,1.250,5.750,7.000,3.75,1.850,1.950
+72596190,2026-10-24 12:30,VV Noordwijk,VV Goes,3,2,,,,,,
+72595516,2026-10-24 13:00,SV Dvs 33 Ermelo,SV Zwaluwen Wierden,4,3,,,,,,
+72595518,2026-10-24 13:00,VV Sparta Nijkerk,VV Hoogeveen,2,0,,,,,,
+72595524,2026-10-24 13:00,Tec,Vpv Purmersteijn,5,2,,,,,,
+72596192,2026-10-24 13:00,SV Togb,Blauw Geel 38,3,1,,,,,,
+72595520,2026-10-24 13:30,USV Hercules,Staphorst,4,1,,,,,,
+72596194,2026-10-24 13:30,VVSB Noordwijkerhout,VV Zwaluwen Vlaardingen,2,4,,,,,,
+72596188,2026-10-24 16:00,FC Lisse,Dongen,4,0,1.380,4.750,5.500,3.5,1.850,1.950
+72596196,2026-10-24 16:00,Udi 19,SV Poortugaal,2,3,,,,,,
+72595522,2026-10-25 13:00,HVV Hollandia Hoorn,VV Scherpenzeel,2,2,3.800,4.750,1.571,3.5,1.825,1.975
+72596200,2026-10-25 13:30,Groene Ster,VV Una,1,3,2.250,4.000,2.400,3.25,1.825,1.975
+72596202,2026-11-07 13:30,FC Rijnvogels,RBC Roosendaal,3,3,,,,,,
+72596204,2026-11-07 13:30,SV Poortugaal,Groene Ster,5,0,,,,,,
+72596206,2026-11-07 13:30,VV Zwaluwen Vlaardingen,SV Togb,1,0,,,,,,
+72596208,2026-11-07 17:00,Dongen,VV Noordwijk,0,1,3.900,4.500,1.571,4,2.000,1.800
+72596212,2026-11-07 17:00,VV Goes,Achilles Veen,4,1,,,,,,
+72596210,2026-11-07 18:00,VV Gemert,Excelsior Maassluis,3,1,3.100,4.000,1.850,3.25,2.000,1.800
+72596214,2026-11-08 13:00,Blauw Geel 38,Udi 19,1,0,2.350,4.000,2.300,3.5,1.975,1.825
+72596216,2026-11-08 13:00,EVV Echt,VVSB Noordwijkerhout,0,1,3.800,4.333,1.571,3.75,1.950,1.850
+72596218,2026-11-08 13:30,VV Una,FC Lisse,0,4,4.100,4.333,1.550,3.5,1.900,1.900

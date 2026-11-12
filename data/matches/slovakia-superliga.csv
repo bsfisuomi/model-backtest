@@ -1,281 +1,281 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-60705517,2025-05-23 16:00,DAC 1904 Dunajska Streda,FK Zeleziarne Podbrezova,3,2,,,
-60640129,2025-05-24 15:00,AS Trencin,FC Vion Zlate Moravce - Vrable,4,2,,,
-61385285,2025-07-26 16:00,KFC Komarno,AS Trencin,1,2,,,
-61385293,2025-07-26 16:00,DAC 1904 Dunajska Streda,MFK Zemplin Michalovce,1,1,,,
-61385289,2025-07-26 18:30,1. FC Tatran Presov,SK Slovan Bratislava,2,2,,,
-61385287,2025-07-27 15:00,FK Zeleziarne Podbrezova,FK Kosice,3,1,,,
-61385295,2025-07-27 15:00,MFK Skalica,MSK Zilina,0,0,,,
-61385291,2025-07-27 17:00,FC Spartak Trnava,MFK Ruzomberok,3,0,,,
-61385297,2025-08-02 16:00,MFK Zemplin Michalovce,KFC Komarno,3,1,,,
-61385303,2025-08-02 18:30,SK Slovan Bratislava,FK Zeleziarne Podbrezova,4,1,,,
-61385311,2025-08-03 15:00,AS Trencin,FC Spartak Trnava,0,1,,,
-61385309,2025-08-03 17:00,MSK Zilina,1. FC Tatran Presov,1,0,,,
-61396433,2025-08-09 16:00,MFK Skalica,FK Zeleziarne Podbrezova,2,2,,,
-61396441,2025-08-09 16:00,MFK Zemplin Michalovce,MSK Zilina,2,4,,,
-61396437,2025-08-09 18:30,DAC 1904 Dunajska Streda,MFK Ruzomberok,2,0,,,
-61396435,2025-08-10 15:00,FK Kosice,AS Trencin,0,1,,,
-61396439,2025-08-10 17:00,FC Spartak Trnava,1. FC Tatran Presov,1,0,,,
-62664725,2025-08-12 16:00,MFK Ruzomberok,MFK Skalica,1,3,,,
-61396443,2025-08-16 16:00,FK Zeleziarne Podbrezova,KFC Komarno,2,1,,,
-61396445,2025-08-16 16:00,MFK Ruzomberok,MFK Zemplin Michalovce,0,1,,,
-61396447,2025-08-16 16:00,SK Slovan Bratislava,MFK Skalica,1,0,,,
-61396453,2025-08-16 18:30,1. FC Tatran Presov,DAC 1904 Dunajska Streda,0,0,,,
-61396451,2025-08-17 17:00,AS Trencin,MSK Zilina,2,1,,,
-61396457,2025-08-23 16:00,MFK Skalica,1. FC Tatran Presov,2,2,,,
-61396467,2025-08-23 16:00,FK Kosice,MFK Ruzomberok,3,1,,,
-61396501,2025-08-23 18:30,DAC 1904 Dunajska Streda,AS Trencin,4,1,,,
-61396455,2025-08-24 15:00,KFC Komarno,FC Spartak Trnava,1,4,,,
-61396459,2025-08-24 17:00,MSK Zilina,FK Zeleziarne Podbrezova,3,0,,,
-61396531,2025-08-24 17:00,MFK Zemplin Michalovce,SK Slovan Bratislava,1,1,,,
-61396539,2025-08-30 16:00,1. FC Tatran Presov,AS Trencin,2,3,,,
-61396543,2025-08-30 16:00,KFC Komarno,MFK Skalica,1,0,,,
-61396533,2025-08-30 18:30,FK Zeleziarne Podbrezova,MFK Zemplin Michalovce,2,2,,,
-61396537,2025-08-31 15:00,MFK Ruzomberok,MSK Zilina,3,3,,,
-61396541,2025-08-31 15:00,SK Slovan Bratislava,FK Kosice,3,2,,,
-61396535,2025-08-31 17:00,FC Spartak Trnava,DAC 1904 Dunajska Streda,0,3,,,
-61396545,2025-09-13 16:00,FK Kosice,KFC Komarno,2,3,,,
-61396549,2025-09-13 16:00,MFK Skalica,FC Spartak Trnava,0,4,,,
-61396551,2025-09-13 16:00,AS Trencin,MFK Ruzomberok,0,3,,,
-61396553,2025-09-13 18:30,MSK Zilina,SK Slovan Bratislava,3,3,,,
-61396555,2025-09-14 15:00,MFK Zemplin Michalovce,1. FC Tatran Presov,1,2,,,
-61396547,2025-09-14 17:00,DAC 1904 Dunajska Streda,FK Zeleziarne Podbrezova,2,0,,,
-61396559,2025-09-20 16:00,MFK Skalica,FK Kosice,1,0,,,
-61396561,2025-09-20 16:00,1. FC Tatran Presov,MFK Ruzomberok,1,3,,,
-61396567,2025-09-20 16:00,FK Zeleziarne Podbrezova,AS Trencin,2,0,,,
-61396563,2025-09-20 18:30,SK Slovan Bratislava,DAC 1904 Dunajska Streda,3,2,,,
-61396557,2025-09-21 15:00,KFC Komarno,MSK Zilina,1,3,,,
-61396565,2025-09-21 17:00,FC Spartak Trnava,MFK Zemplin Michalovce,0,1,,,
-61396569,2025-09-27 16:00,DAC 1904 Dunajska Streda,KFC Komarno,1,1,,,
-61396571,2025-09-27 16:00,MFK Zemplin Michalovce,MFK Skalica,2,0,,,
-61396577,2025-09-27 16:00,AS Trencin,SK Slovan Bratislava,1,2,,,
-61396575,2025-09-27 18:30,FK Kosice,1. FC Tatran Presov,2,2,,,
-61396579,2025-09-28 15:00,MFK Ruzomberok,FK Zeleziarne Podbrezova,1,0,,,
-61396573,2025-09-28 17:00,MSK Zilina,FC Spartak Trnava,2,2,,,
-63461851,2025-10-01 16:00,FK Kosice,DAC 1904 Dunajska Streda,0,2,,,
-61396587,2025-10-04 16:00,MFK Zemplin Michalovce,AS Trencin,2,0,,,
-61396591,2025-10-04 16:00,KFC Komarno,1. FC Tatran Presov,0,0,,,
-61396583,2025-10-04 18:30,MSK Zilina,FK Kosice,4,1,,,
-61396581,2025-10-05 15:00,MFK Skalica,DAC 1904 Dunajska Streda,1,1,,,
-61396593,2025-10-18 13:30,1. FC Tatran Presov,FK Zeleziarne Podbrezova,2,2,,,
-61396599,2025-10-18 13:30,MFK Ruzomberok,KFC Komarno,0,1,,,
-61396601,2025-10-18 13:30,AS Trencin,MFK Skalica,1,1,,,
-61396597,2025-10-18 16:00,FC Spartak Trnava,SK Slovan Bratislava,0,2,,,
-61396595,2025-10-19 13:30,FK Kosice,MFK Zemplin Michalovce,3,2,,,
-61396603,2025-10-19 16:00,DAC 1904 Dunajska Streda,MSK Zilina,1,2,,,
-61396609,2025-10-25 13:30,AS Trencin,KFC Komarno,0,1,,,
-61396613,2025-10-25 13:30,MFK Zemplin Michalovce,DAC 1904 Dunajska Streda,2,4,,,
-61396615,2025-10-25 13:30,MSK Zilina,MFK Skalica,3,2,,,
-61396607,2025-10-25 16:00,FK Kosice,FK Zeleziarne Podbrezova,2,4,,,
-61396611,2025-10-26 14:30,MFK Ruzomberok,FC Spartak Trnava,1,1,,,
-61396605,2025-10-26 17:00,SK Slovan Bratislava,1. FC Tatran Presov,0,1,,,
-62696055,2025-10-29 17:00,KFC Komarno,SK Slovan Bratislava,2,3,,,
-62806765,2025-10-29 17:00,FC Spartak Trnava,FK Kosice,3,1,,,
-61396619,2025-11-01 14:30,1. FC Tatran Presov,MSK Zilina,0,4,,,
-61396621,2025-11-01 14:30,FK Zeleziarne Podbrezova,SK Slovan Bratislava,1,3,,,
-61396629,2025-11-01 14:30,MFK Skalica,MFK Ruzomberok,0,0,,,
-61396627,2025-11-01 17:00,DAC 1904 Dunajska Streda,FK Kosice,3,1,,,
-61396625,2025-11-02 14:30,KFC Komarno,MFK Zemplin Michalovce,1,1,,,
-61396623,2025-11-02 17:00,FC Spartak Trnava,AS Trencin,4,0,,,
-61396631,2025-11-08 14:30,AS Trencin,FK Kosice,2,0,,,
-61396637,2025-11-08 14:30,MFK Ruzomberok,DAC 1904 Dunajska Streda,0,1,,,
-61396641,2025-11-08 14:30,FK Zeleziarne Podbrezova,MFK Skalica,2,0,,,
-61396639,2025-11-08 17:00,MSK Zilina,MFK Zemplin Michalovce,2,0,,,
-61396633,2025-11-09 14:30,SK Slovan Bratislava,KFC Komarno,3,2,,,
-61396635,2025-11-09 17:00,1. FC Tatran Presov,FC Spartak Trnava,2,1,,,
-61396645,2025-11-22 14:30,KFC Komarno,FK Zeleziarne Podbrezova,1,0,,,
-61396649,2025-11-22 14:30,MFK Skalica,SK Slovan Bratislava,0,1,,,
-61396651,2025-11-22 14:30,MSK Zilina,AS Trencin,4,1,,,
-61396653,2025-11-22 17:00,FK Kosice,FC Spartak Trnava,1,2,,,
-61396647,2025-11-23 14:30,MFK Zemplin Michalovce,MFK Ruzomberok,4,2,,,
-61396643,2025-11-23 17:00,DAC 1904 Dunajska Streda,1. FC Tatran Presov,0,0,,,
-61396655,2025-11-29 14:30,FC Spartak Trnava,KFC Komarno,2,0,,,
-61396657,2025-11-29 14:30,1. FC Tatran Presov,MFK Skalica,3,2,,,
-61396661,2025-11-29 14:30,MFK Ruzomberok,FK Kosice,1,1,,,
-61396663,2025-11-29 17:00,AS Trencin,DAC 1904 Dunajska Streda,0,3,,,
-61396665,2025-11-30 14:30,SK Slovan Bratislava,MFK Zemplin Michalovce,3,2,,,
-61396659,2025-11-30 17:00,FK Zeleziarne Podbrezova,MSK Zilina,2,0,,,
-64120631,2025-12-03 17:00,SK Slovan Bratislava,MFK Ruzomberok,1,2,,,
-65417714,2025-12-03 17:00,FK Zeleziarne Podbrezova,FC Spartak Trnava,1,3,,,
-61396667,2025-12-06 14:30,MFK Zemplin Michalovce,FK Zeleziarne Podbrezova,0,4,,,
-61396671,2025-12-06 14:30,MSK Zilina,MFK Ruzomberok,1,2,,,
-61396677,2025-12-06 14:30,MFK Skalica,KFC Komarno,1,1,,,
-61396675,2025-12-06 17:00,FK Kosice,SK Slovan Bratislava,2,0,,,
-61396673,2025-12-07 14:30,AS Trencin,1. FC Tatran Presov,0,0,,,
-61396669,2025-12-07 17:00,DAC 1904 Dunajska Streda,FC Spartak Trnava,3,1,,,
-61396681,2025-12-13 14:30,FK Zeleziarne Podbrezova,DAC 1904 Dunajska Streda,0,1,3.000,3.500,2.250
-61396683,2025-12-13 14:30,FC Spartak Trnava,MFK Skalica,2,0,1.444,4.200,7.500
-61396685,2025-12-13 14:30,MFK Ruzomberok,AS Trencin,0,0,1.850,3.700,3.900
-61396689,2025-12-13 17:00,1. FC Tatran Presov,MFK Zemplin Michalovce,0,1,2.100,3.500,3.250
-61396679,2025-12-14 14:30,KFC Komarno,FK Kosice,1,2,2.350,3.300,2.900
-61396687,2025-12-14 17:00,SK Slovan Bratislava,MSK Zilina,3,2,1.850,4.000,3.600
-61396693,2026-02-07 14:30,FK Kosice,MFK Skalica,3,1,1.900,3.800,3.600
-61396695,2026-02-07 14:30,MFK Ruzomberok,1. FC Tatran Presov,1,0,2.250,3.300,3.200
-61396701,2026-02-07 14:30,AS Trencin,FK Zeleziarne Podbrezova,0,4,3.500,3.900,1.950
-61396697,2026-02-07 17:00,DAC 1904 Dunajska Streda,SK Slovan Bratislava,0,3,2.300,3.300,3.100
-61396691,2026-02-08 14:30,MSK Zilina,KFC Komarno,1,0,1.615,4.200,4.750
-61396699,2026-02-08 17:00,MFK Zemplin Michalovce,FC Spartak Trnava,1,1,3.800,3.800,1.850
-61396705,2026-02-14 14:30,MFK Skalica,MFK Zemplin Michalovce,2,1,2.350,3.600,2.800
-61396711,2026-02-14 14:30,SK Slovan Bratislava,AS Trencin,0,2,1.270,5.750,9.000
-61396713,2026-02-14 14:30,FK Zeleziarne Podbrezova,MFK Ruzomberok,5,0,1.666,4.000,4.500
-61396709,2026-02-14 17:00,1. FC Tatran Presov,FK Kosice,1,4,2.625,3.500,2.500
-61396703,2026-02-15 14:30,KFC Komarno,DAC 1904 Dunajska Streda,2,2,4.333,3.500,1.800
-61396707,2026-02-15 17:00,FC Spartak Trnava,MSK Zilina,0,0,1.700,3.800,4.333
-61396715,2026-02-21 14:30,DAC 1904 Dunajska Streda,MFK Skalica,3,2,1.450,4.500,6.250
-61396721,2026-02-21 14:30,AS Trencin,MFK Zemplin Michalovce,1,2,2.250,3.500,3.000
-61396725,2026-02-21 14:30,1. FC Tatran Presov,KFC Komarno,1,1,2.250,3.250,3.250
-61396723,2026-02-21 17:00,FC Spartak Trnava,FK Zeleziarne Podbrezova,0,5,1.727,3.800,4.500
-61396719,2026-02-22 14:30,MFK Ruzomberok,SK Slovan Bratislava,2,2,5.000,4.000,1.615
-61396717,2026-02-22 17:00,FK Kosice,MSK Zilina,2,2,2.200,3.400,2.700
-61396727,2026-02-28 14:30,FK Zeleziarne Podbrezova,1. FC Tatran Presov,4,1,1.650,3.700,5.250
-61396729,2026-02-28 14:30,MFK Zemplin Michalovce,FK Kosice,0,2,2.550,3.500,2.550
-61396731,2026-02-28 14:30,SK Slovan Bratislava,FC Spartak Trnava,4,0,1.800,3.700,4.100
-61396733,2026-02-28 14:30,KFC Komarno,MFK Ruzomberok,1,1,1.950,3.500,3.700
-61396735,2026-02-28 14:30,MFK Skalica,AS Trencin,0,1,1.950,3.400,3.800
-61396737,2026-02-28 14:30,MSK Zilina,DAC 1904 Dunajska Streda,0,0,2.550,3.500,2.500
-69463352,2026-03-07 14:30,MFK Skalica,1. FC Tatran Presov,1,0,2.200,3.300,3.300
-69463354,2026-03-07 14:30,FK Kosice,AS Trencin,2,0,1.700,4.000,4.333
-69463412,2026-03-07 14:30,MFK Zemplin Michalovce,SK Slovan Bratislava,1,3,6.250,4.750,1.444
-69463414,2026-03-07 17:00,MSK Zilina,FC Spartak Trnava,0,1,2.200,3.500,3.100
-69463356,2026-03-08 14:30,KFC Komarno,MFK Ruzomberok,3,0,2.100,3.400,3.400
-69463416,2026-03-08 17:00,DAC 1904 Dunajska Streda,FK Zeleziarne Podbrezova,2,1,2.050,3.750,3.200
-69463358,2026-03-14 14:30,MFK Ruzomberok,FK Kosice,1,1,3.100,3.250,2.300
-69463360,2026-03-14 14:30,1. FC Tatran Presov,KFC Komarno,0,0,2.250,3.000,3.400
-69463418,2026-03-14 14:30,FK Zeleziarne Podbrezova,MFK Zemplin Michalovce,0,1,1.571,4.100,5.500
-69463362,2026-03-15 14:30,AS Trencin,MFK Skalica,2,1,2.550,3.200,2.800
-69463422,2026-03-15 17:00,SK Slovan Bratislava,MSK Zilina,0,1,1.420,5.000,6.250
-69463364,2026-03-21 14:30,AS Trencin,MFK Ruzomberok,3,1,2.750,3.100,2.550
-69463426,2026-03-21 14:30,MSK Zilina,DAC 1904 Dunajska Streda,3,1,2.550,3.200,2.800
-69463428,2026-03-21 14:30,MFK Zemplin Michalovce,FC Spartak Trnava,1,0,3.600,3.600,1.950
-69463368,2026-03-21 17:00,FK Kosice,1. FC Tatran Presov,2,1,1.750,3.700,4.500
-69463366,2026-03-22 14:30,MFK Skalica,KFC Komarno,2,1,2.400,3.100,3.100
-69463430,2026-03-22 17:00,SK Slovan Bratislava,FK Zeleziarne Podbrezova,2,0,1.600,4.200,5.000
-69463370,2026-04-04 13:30,1. FC Tatran Presov,MFK Ruzomberok,0,0,2.050,3.400,3.700
-69463372,2026-04-04 13:30,FK Kosice,MFK Skalica,2,0,1.700,3.700,4.750
-69463432,2026-04-04 13:30,MFK Zemplin Michalovce,MSK Zilina,2,1,4.100,4.000,1.750
-69463434,2026-04-04 16:00,DAC 1904 Dunajska Streda,SK Slovan Bratislava,0,3,2.700,3.300,2.600
-69463374,2026-04-05 13:30,KFC Komarno,AS Trencin,0,1,1.833,3.900,4.000
-69463436,2026-04-05 16:00,FC Spartak Trnava,FK Zeleziarne Podbrezova,4,1,2.000,3.400,3.800
-69463376,2026-04-11 13:30,MFK Ruzomberok,MFK Skalica,0,0,2.350,3.100,3.100
-69463380,2026-04-11 13:30,AS Trencin,1. FC Tatran Presov,0,0,2.300,3.300,3.000
-69463438,2026-04-11 13:30,FK Zeleziarne Podbrezova,MSK Zilina,0,0,2.600,3.400,2.600
-69463442,2026-04-11 16:00,SK Slovan Bratislava,FC Spartak Trnava,2,2,1.533,4.333,5.500
-69463378,2026-04-12 13:30,KFC Komarno,FK Kosice,1,2,2.300,3.600,2.800
-69463440,2026-04-12 16:00,DAC 1904 Dunajska Streda,MFK Zemplin Michalovce,3,0,1.420,4.500,7.500
-69463386,2026-04-18 13:30,MFK Ruzomberok,KFC Komarno,2,1,2.400,3.100,3.000
-69463446,2026-04-18 13:30,FK Zeleziarne Podbrezova,DAC 1904 Dunajska Streda,1,2,3.000,3.300,2.300
-69463448,2026-04-18 13:30,FC Spartak Trnava,MFK Zemplin Michalovce,3,0,1.420,4.750,7.000
-69463444,2026-04-18 16:00,MSK Zilina,SK Slovan Bratislava,0,1,3.000,3.700,2.200
-69463384,2026-04-19 13:30,MFK Skalica,AS Trencin,4,1,2.200,3.300,3.200
-69463382,2026-04-19 16:00,1. FC Tatran Presov,FK Kosice,2,1,1.850,3.600,4.000
-70265780,2026-04-22 16:00,FC Spartak Trnava,DAC 1904 Dunajska Streda,2,1,2.300,3.200,3.100
-69463388,2026-04-25 16:00,FK Kosice,MFK Ruzomberok,3,1,1.727,4.200,4.200
-69463392,2026-04-25 16:00,KFC Komarno,MFK Skalica,0,2,1.950,3.500,3.800
-69463452,2026-04-25 16:00,MFK Zemplin Michalovce,FK Zeleziarne Podbrezova,1,2,2.800,4.000,2.200
-69463450,2026-04-25 18:30,DAC 1904 Dunajska Streda,MSK Zilina,3,1,2.000,3.500,3.600
-69463390,2026-04-26 15:00,1. FC Tatran Presov,AS Trencin,1,2,1.900,3.500,4.000
-69463454,2026-04-26 17:00,FC Spartak Trnava,SK Slovan Bratislava,0,1,2.875,3.600,2.350
-69463398,2026-05-02 16:00,MFK Ruzomberok,1. FC Tatran Presov,1,1,2.200,3.300,3.300
-69463458,2026-05-02 18:30,SK Slovan Bratislava,DAC 1904 Dunajska Streda,1,0,1.666,3.700,5.000
-69463396,2026-05-03 15:00,AS Trencin,KFC Komarno,1,2,2.875,3.400,2.150
-69463460,2026-05-03 17:00,FK Zeleziarne Podbrezova,FC Spartak Trnava,0,3,2.900,3.750,2.200
-71118010,2026-05-05 16:00,MSK Zilina,MFK Zemplin Michalovce,3,2,1.450,4.750,5.750
-71118012,2026-05-05 16:00,MFK Skalica,FK Kosice,3,1,2.100,3.300,3.000
-69463404,2026-05-09 16:00,MFK Ruzomberok,AS Trencin,4,3,1.900,3.600,3.750
-69463462,2026-05-09 16:00,MFK Zemplin Michalovce,DAC 1904 Dunajska Streda,2,1,3.500,3.600,1.950
-69463466,2026-05-09 16:00,FK Zeleziarne Podbrezova,SK Slovan Bratislava,1,2,3.100,3.900,2.050
-69463400,2026-05-09 18:30,1. FC Tatran Presov,MFK Skalica,3,0,2.200,3.400,3.200
-69463402,2026-05-10 15:00,FK Kosice,KFC Komarno,2,1,1.800,4.000,3.800
-69463464,2026-05-10 17:00,FC Spartak Trnava,MSK Zilina,1,0,1.550,4.500,5.000
-69463406,2026-05-16 15:00,AS Trencin,FK Kosice,3,0,2.200,4.000,2.800
-69463408,2026-05-16 15:00,MFK Skalica,MFK Ruzomberok,1,0,1.800,3.500,4.333
-69463410,2026-05-16 15:00,KFC Komarno,1. FC Tatran Presov,1,1,2.250,3.400,3.000
-69463468,2026-05-16 15:00,DAC 1904 Dunajska Streda,FC Spartak Trnava,3,0,2.200,3.500,3.100
-69463470,2026-05-16 15:00,SK Slovan Bratislava,MFK Zemplin Michalovce,1,2,1.333,5.750,7.500
-69463472,2026-05-16 15:00,MSK Zilina,FK Zeleziarne Podbrezova,0,2,1.700,4.200,4.200
-71553138,2026-05-19 14:30,MFK Zvolen,KFC Komarno,1,0,3.300,3.250,2.150
-71553140,2026-05-23 18:30,KFC Komarno,MFK Zvolen,3,0,1.420,4.500,7.000
-72042172,2026-07-25 16:00,AS Trencin,KFC Komarno,1,1,2.500,3.400,2.700
-72042174,2026-07-25 16:00,FC Spartak Trnava,MFK Skalica,1,1,1.700,3.600,5.250
-72042170,2026-07-25 18:30,FK Zeleziarne Podbrezova,MFK Zemplin Michalovce,2,0,1.800,3.900,4.000
-72042176,2026-07-26 15:00,MSK Zilina,FK Kosice,4,4,2.100,3.700,3.100
-72042178,2026-07-26 15:00,MFK Ruzomberok,DAC 1904 Dunajska Streda,1,1,3.000,3.400,2.300
-72042168,2026-07-26 17:00,MFk Dukla Banska Bystrica,SK Slovan Bratislava,0,4,6.250,4.100,1.500
-72042180,2026-08-01 16:00,SK Slovan Bratislava,FK Zeleziarne Podbrezova,3,0,1.700,4.000,4.500
-72042184,2026-08-01 16:00,MFK Skalica,MFK Ruzomberok,2,1,2.350,3.250,3.000
-72042182,2026-08-01 18:30,FK Kosice,AS Trencin,3,3,1.550,4.500,5.000
-72042186,2026-08-02 15:00,MFK Zemplin Michalovce,MSK Zilina,0,1,3.200,3.900,2.000
-72042190,2026-08-02 15:00,DAC 1904 Dunajska Streda,MFk Dukla Banska Bystrica,2,0,1.450,4.333,6.250
-72042188,2026-08-02 17:00,KFC Komarno,FC Spartak Trnava,1,2,2.800,3.200,2.550
-72042192,2026-08-08 16:00,MFK Zemplin Michalovce,KFC Komarno,1,1,2.500,3.500,2.750
-72042202,2026-08-08 16:00,MFK Ruzomberok,FK Zeleziarne Podbrezova,1,4,2.500,3.400,2.750
-72042196,2026-08-08 18:30,FC Spartak Trnava,MFk Dukla Banska Bystrica,3,0,1.363,4.500,9.000
-72042198,2026-08-09 15:00,MSK Zilina,MFK Skalica,1,3,1.500,4.000,6.500
-72042204,2026-08-15 16:00,SK Slovan Bratislava,MFK Ruzomberok,5,0,1.363,4.750,8.500
-72042210,2026-08-15 16:00,MFk Dukla Banska Bystrica,MSK Zilina,3,4,4.100,3.800,1.800
-72042214,2026-08-15 16:00,MFK Skalica,FK Kosice,2,4,3.200,3.400,2.200
-72042212,2026-08-15 18:30,FK Zeleziarne Podbrezova,AS Trencin,2,1,1.550,4.333,5.250
-72042208,2026-08-16 15:00,FC Spartak Trnava,MFK Zemplin Michalovce,2,0,1.571,3.900,5.750
-72042206,2026-08-16 17:00,KFC Komarno,DAC 1904 Dunajska Streda,0,3,3.000,3.300,2.300
-72042218,2026-08-22 16:00,MFK Ruzomberok,MFk Dukla Banska Bystrica,0,1,1.615,4.000,5.000
-72042220,2026-08-22 16:00,DAC 1904 Dunajska Streda,FK Zeleziarne Podbrezova,5,0,1.700,4.000,4.333
-72042222,2026-08-22 16:00,MFK Zemplin Michalovce,MFK Skalica,2,0,2.000,3.400,3.700
-72042226,2026-08-22 18:30,FK Kosice,SK Slovan Bratislava,1,2,3.700,3.700,1.900
-72042216,2026-08-23 15:00,AS Trencin,FC Spartak Trnava,0,4,3.800,3.600,1.900
-72042224,2026-08-23 17:00,MSK Zilina,KFC Komarno,2,1,1.750,3.900,4.200
-72042232,2026-08-29 16:00,AS Trencin,MFK Ruzomberok,2,1,2.250,3.800,2.800
-72042234,2026-08-29 16:00,FK Zeleziarne Podbrezova,FK Kosice,2,2,1.850,3.900,3.700
-72042228,2026-08-29 18:30,MFk Dukla Banska Bystrica,KFC Komarno,2,2,2.750,3.500,2.400
-72042230,2026-08-30 15:00,SK Slovan Bratislava,MFK Zemplin Michalovce,1,2,1.270,5.750,10.000
-72042238,2026-08-30 15:00,MFK Skalica,DAC 1904 Dunajska Streda,1,6,4.500,3.800,1.700
-72042236,2026-08-30 17:00,FC Spartak Trnava,MSK Zilina,1,3,1.850,3.900,3.700
-72042240,2026-09-05 16:00,MFK Zemplin Michalovce,AS Trencin,3,1,2.000,3.600,3.500
-72042242,2026-09-05 16:00,MSK Zilina,FK Zeleziarne Podbrezova,3,1,1.850,3.750,3.800
-72042246,2026-09-05 16:00,KFC Komarno,MFK Skalica,0,0,1.700,3.800,4.500
-72042248,2026-09-05 18:30,DAC 1904 Dunajska Streda,SK Slovan Bratislava,2,0,2.750,3.500,2.400
-72042250,2026-09-06 15:00,FK Kosice,MFk Dukla Banska Bystrica,3,0,1.500,4.500,5.500
-72042244,2026-09-06 17:00,MFK Ruzomberok,FC Spartak Trnava,1,1,3.200,3.500,2.150
-72042254,2026-09-12 16:00,AS Trencin,DAC 1904 Dunajska Streda,1,4,4.333,4.333,1.650
-72042256,2026-09-12 16:00,MFK Ruzomberok,MFK Zemplin Michalovce,3,0,2.150,3.600,3.100
-72042258,2026-09-12 16:00,MFk Dukla Banska Bystrica,MFK Skalica,3,2,2.250,3.400,3.000
-72042262,2026-09-12 18:30,FC Spartak Trnava,FK Kosice,5,2,1.850,3.900,3.800
-72042252,2026-09-13 15:00,FK Zeleziarne Podbrezova,KFC Komarno,1,1,1.909,3.750,3.700
-72042260,2026-09-13 17:00,SK Slovan Bratislava,MSK Zilina,3,3,1.550,4.500,5.250
-72042264,2026-09-19 16:00,MSK Zilina,AS Trencin,2,1,1.400,4.750,7.000
-72042266,2026-09-19 16:00,FK Kosice,MFK Ruzomberok,2,0,1.533,4.333,5.500
-72042270,2026-09-19 16:00,MFK Zemplin Michalovce,MFk Dukla Banska Bystrica,1,0,1.750,3.750,4.500
-72042272,2026-09-19 18:30,KFC Komarno,SK Slovan Bratislava,1,2,6.000,4.500,1.480
-72042274,2026-09-20 15:00,MFK Skalica,FK Zeleziarne Podbrezova,0,1,2.900,3.400,2.350
-72042268,2026-09-20 17:00,DAC 1904 Dunajska Streda,FC Spartak Trnava,2,2,1.700,3.800,4.750
-72042276,2026-10-10 13:30,AS Trencin,MFk Dukla Banska Bystrica,0,1,2.000,3.750,3.400
-72042284,2026-10-10 13:30,FK Kosice,KFC Komarno,1,1,1.700,4.000,4.500
-72042414,2026-10-10 13:30,MFK Skalica,SK Slovan Bratislava,1,1,5.250,4.500,1.533
-72042412,2026-10-10 16:00,MFK Zemplin Michalovce,DAC 1904 Dunajska Streda,0,3,4.750,4.000,1.650
-72042278,2026-10-11 13:30,MFK Ruzomberok,MSK Zilina,2,2,2.900,3.700,2.200
-72042286,2026-10-11 16:00,FK Zeleziarne Podbrezova,FC Spartak Trnava,1,3,2.550,3.500,2.550
-72042292,2026-10-17 13:30,MFK Skalica,AS Trencin,0,2,2.250,3.700,2.900
-72042294,2026-10-17 13:30,KFC Komarno,MFK Ruzomberok,0,1,2.050,3.500,3.400
-72042290,2026-10-17 16:00,FC Spartak Trnava,SK Slovan Bratislava,0,3,3.100,3.600,2.150
-72042288,2026-10-18 13:30,MFK Zemplin Michalovce,FK Kosice,1,1,3.400,3.900,1.950
-72042298,2026-10-18 13:30,MFk Dukla Banska Bystrica,FK Zeleziarne Podbrezova,1,0,3.100,3.700,2.150
-72042296,2026-10-18 16:00,MSK Zilina,DAC 1904 Dunajska Streda,2,3,3.250,3.900,2.000
-72042300,2026-10-24 13:30,SK Slovan Bratislava,MFk Dukla Banska Bystrica,2,2,1.285,6.000,8.000
-72042302,2026-10-24 13:30,MFK Zemplin Michalovce,FK Zeleziarne Podbrezova,1,4,2.875,3.600,2.300
-72042306,2026-10-24 16:00,MFK Skalica,FC Spartak Trnava,1,1,4.100,3.500,1.850
-72042310,2026-10-24 17:00,DAC 1904 Dunajska Streda,MFK Ruzomberok,5,0,1.270,5.750,9.000
-72042304,2026-10-25 14:30,KFC Komarno,AS Trencin,0,0,1.909,3.700,3.700
-72042308,2026-10-25 17:00,FK Kosice,MSK Zilina,2,2,1.900,4.000,3.500
-73384004,2026-10-28 17:00,FK Kosice,DAC 1904 Dunajska Streda,0,1,3.100,4.000,2.050
-73384006,2026-10-28 17:00,AS Trencin,SK Slovan Bratislava,0,2,6.000,4.500,1.480
-72042314,2026-10-31 14:30,FC Spartak Trnava,KFC Komarno,1,2,1.800,3.400,4.100
-72042316,2026-10-31 14:30,AS Trencin,FK Kosice,0,5,3.100,3.750,2.100
-72042318,2026-10-31 14:30,MSK Zilina,MFK Zemplin Michalovce,4,1,1.450,5.250,5.750
-72042312,2026-10-31 17:00,FK Zeleziarne Podbrezova,SK Slovan Bratislava,1,2,3.900,4.100,1.750
-72042320,2026-11-01 14:30,MFK Ruzomberok,MFK Skalica,1,0,2.000,3.600,3.500
-72042322,2026-11-01 17:00,MFk Dukla Banska Bystrica,DAC 1904 Dunajska Streda,0,2,6.000,5.000,1.420
-72042326,2026-11-07 14:30,SK Slovan Bratislava,AS Trencin,2,2,1.200,7.500,10.000
-72042328,2026-11-07 14:30,MFk Dukla Banska Bystrica,FC Spartak Trnava,1,2,4.100,3.750,1.800
-72042330,2026-11-07 14:30,MFK Skalica,MSK Zilina,2,4,3.750,3.800,1.850
-72042332,2026-11-07 17:00,DAC 1904 Dunajska Streda,FK Kosice,3,2,1.444,4.750,6.250
-72042334,2026-11-08 14:30,FK Zeleziarne Podbrezova,MFK Ruzomberok,4,1,1.750,3.900,4.200
-72042324,2026-11-08 17:00,KFC Komarno,MFK Zemplin Michalovce,2,0,1.666,3.800,4.750
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+60705517,2025-05-23 16:00,DAC 1904 Dunajska Streda,FK Zeleziarne Podbrezova,3,2,,,,,,
+60640129,2025-05-24 15:00,AS Trencin,FC Vion Zlate Moravce - Vrable,4,2,,,,,,
+61385285,2025-07-26 16:00,KFC Komarno,AS Trencin,1,2,,,,,,
+61385293,2025-07-26 16:00,DAC 1904 Dunajska Streda,MFK Zemplin Michalovce,1,1,,,,,,
+61385289,2025-07-26 18:30,1. FC Tatran Presov,SK Slovan Bratislava,2,2,,,,,,
+61385287,2025-07-27 15:00,FK Zeleziarne Podbrezova,FK Kosice,3,1,,,,,,
+61385295,2025-07-27 15:00,MFK Skalica,MSK Zilina,0,0,,,,,,
+61385291,2025-07-27 17:00,FC Spartak Trnava,MFK Ruzomberok,3,0,,,,,,
+61385297,2025-08-02 16:00,MFK Zemplin Michalovce,KFC Komarno,3,1,,,,,,
+61385303,2025-08-02 18:30,SK Slovan Bratislava,FK Zeleziarne Podbrezova,4,1,,,,,,
+61385311,2025-08-03 15:00,AS Trencin,FC Spartak Trnava,0,1,,,,,,
+61385309,2025-08-03 17:00,MSK Zilina,1. FC Tatran Presov,1,0,,,,,,
+61396433,2025-08-09 16:00,MFK Skalica,FK Zeleziarne Podbrezova,2,2,,,,,,
+61396441,2025-08-09 16:00,MFK Zemplin Michalovce,MSK Zilina,2,4,,,,,,
+61396437,2025-08-09 18:30,DAC 1904 Dunajska Streda,MFK Ruzomberok,2,0,,,,,,
+61396435,2025-08-10 15:00,FK Kosice,AS Trencin,0,1,,,,,,
+61396439,2025-08-10 17:00,FC Spartak Trnava,1. FC Tatran Presov,1,0,,,,,,
+62664725,2025-08-12 16:00,MFK Ruzomberok,MFK Skalica,1,3,,,,,,
+61396443,2025-08-16 16:00,FK Zeleziarne Podbrezova,KFC Komarno,2,1,,,,,,
+61396445,2025-08-16 16:00,MFK Ruzomberok,MFK Zemplin Michalovce,0,1,,,,,,
+61396447,2025-08-16 16:00,SK Slovan Bratislava,MFK Skalica,1,0,,,,,,
+61396453,2025-08-16 18:30,1. FC Tatran Presov,DAC 1904 Dunajska Streda,0,0,,,,,,
+61396451,2025-08-17 17:00,AS Trencin,MSK Zilina,2,1,,,,,,
+61396457,2025-08-23 16:00,MFK Skalica,1. FC Tatran Presov,2,2,,,,,,
+61396467,2025-08-23 16:00,FK Kosice,MFK Ruzomberok,3,1,,,,,,
+61396501,2025-08-23 18:30,DAC 1904 Dunajska Streda,AS Trencin,4,1,,,,,,
+61396455,2025-08-24 15:00,KFC Komarno,FC Spartak Trnava,1,4,,,,,,
+61396459,2025-08-24 17:00,MSK Zilina,FK Zeleziarne Podbrezova,3,0,,,,,,
+61396531,2025-08-24 17:00,MFK Zemplin Michalovce,SK Slovan Bratislava,1,1,,,,,,
+61396539,2025-08-30 16:00,1. FC Tatran Presov,AS Trencin,2,3,,,,,,
+61396543,2025-08-30 16:00,KFC Komarno,MFK Skalica,1,0,,,,,,
+61396533,2025-08-30 18:30,FK Zeleziarne Podbrezova,MFK Zemplin Michalovce,2,2,,,,,,
+61396537,2025-08-31 15:00,MFK Ruzomberok,MSK Zilina,3,3,,,,,,
+61396541,2025-08-31 15:00,SK Slovan Bratislava,FK Kosice,3,2,,,,,,
+61396535,2025-08-31 17:00,FC Spartak Trnava,DAC 1904 Dunajska Streda,0,3,,,,,,
+61396545,2025-09-13 16:00,FK Kosice,KFC Komarno,2,3,,,,,,
+61396549,2025-09-13 16:00,MFK Skalica,FC Spartak Trnava,0,4,,,,,,
+61396551,2025-09-13 16:00,AS Trencin,MFK Ruzomberok,0,3,,,,,,
+61396553,2025-09-13 18:30,MSK Zilina,SK Slovan Bratislava,3,3,,,,,,
+61396555,2025-09-14 15:00,MFK Zemplin Michalovce,1. FC Tatran Presov,1,2,,,,,,
+61396547,2025-09-14 17:00,DAC 1904 Dunajska Streda,FK Zeleziarne Podbrezova,2,0,,,,,,
+61396559,2025-09-20 16:00,MFK Skalica,FK Kosice,1,0,,,,,,
+61396561,2025-09-20 16:00,1. FC Tatran Presov,MFK Ruzomberok,1,3,,,,,,
+61396567,2025-09-20 16:00,FK Zeleziarne Podbrezova,AS Trencin,2,0,,,,,,
+61396563,2025-09-20 18:30,SK Slovan Bratislava,DAC 1904 Dunajska Streda,3,2,,,,,,
+61396557,2025-09-21 15:00,KFC Komarno,MSK Zilina,1,3,,,,,,
+61396565,2025-09-21 17:00,FC Spartak Trnava,MFK Zemplin Michalovce,0,1,,,,,,
+61396569,2025-09-27 16:00,DAC 1904 Dunajska Streda,KFC Komarno,1,1,,,,,,
+61396571,2025-09-27 16:00,MFK Zemplin Michalovce,MFK Skalica,2,0,,,,,,
+61396577,2025-09-27 16:00,AS Trencin,SK Slovan Bratislava,1,2,,,,,,
+61396575,2025-09-27 18:30,FK Kosice,1. FC Tatran Presov,2,2,,,,,,
+61396579,2025-09-28 15:00,MFK Ruzomberok,FK Zeleziarne Podbrezova,1,0,,,,,,
+61396573,2025-09-28 17:00,MSK Zilina,FC Spartak Trnava,2,2,,,,,,
+63461851,2025-10-01 16:00,FK Kosice,DAC 1904 Dunajska Streda,0,2,,,,,,
+61396587,2025-10-04 16:00,MFK Zemplin Michalovce,AS Trencin,2,0,,,,,,
+61396591,2025-10-04 16:00,KFC Komarno,1. FC Tatran Presov,0,0,,,,,,
+61396583,2025-10-04 18:30,MSK Zilina,FK Kosice,4,1,,,,,,
+61396581,2025-10-05 15:00,MFK Skalica,DAC 1904 Dunajska Streda,1,1,,,,,,
+61396593,2025-10-18 13:30,1. FC Tatran Presov,FK Zeleziarne Podbrezova,2,2,,,,,,
+61396599,2025-10-18 13:30,MFK Ruzomberok,KFC Komarno,0,1,,,,,,
+61396601,2025-10-18 13:30,AS Trencin,MFK Skalica,1,1,,,,,,
+61396597,2025-10-18 16:00,FC Spartak Trnava,SK Slovan Bratislava,0,2,,,,,,
+61396595,2025-10-19 13:30,FK Kosice,MFK Zemplin Michalovce,3,2,,,,,,
+61396603,2025-10-19 16:00,DAC 1904 Dunajska Streda,MSK Zilina,1,2,,,,,,
+61396609,2025-10-25 13:30,AS Trencin,KFC Komarno,0,1,,,,,,
+61396613,2025-10-25 13:30,MFK Zemplin Michalovce,DAC 1904 Dunajska Streda,2,4,,,,,,
+61396615,2025-10-25 13:30,MSK Zilina,MFK Skalica,3,2,,,,,,
+61396607,2025-10-25 16:00,FK Kosice,FK Zeleziarne Podbrezova,2,4,,,,,,
+61396611,2025-10-26 14:30,MFK Ruzomberok,FC Spartak Trnava,1,1,,,,,,
+61396605,2025-10-26 17:00,SK Slovan Bratislava,1. FC Tatran Presov,0,1,,,,,,
+62696055,2025-10-29 17:00,KFC Komarno,SK Slovan Bratislava,2,3,,,,,,
+62806765,2025-10-29 17:00,FC Spartak Trnava,FK Kosice,3,1,,,,,,
+61396619,2025-11-01 14:30,1. FC Tatran Presov,MSK Zilina,0,4,,,,,,
+61396621,2025-11-01 14:30,FK Zeleziarne Podbrezova,SK Slovan Bratislava,1,3,,,,,,
+61396629,2025-11-01 14:30,MFK Skalica,MFK Ruzomberok,0,0,,,,,,
+61396627,2025-11-01 17:00,DAC 1904 Dunajska Streda,FK Kosice,3,1,,,,,,
+61396625,2025-11-02 14:30,KFC Komarno,MFK Zemplin Michalovce,1,1,,,,,,
+61396623,2025-11-02 17:00,FC Spartak Trnava,AS Trencin,4,0,,,,,,
+61396631,2025-11-08 14:30,AS Trencin,FK Kosice,2,0,,,,,,
+61396637,2025-11-08 14:30,MFK Ruzomberok,DAC 1904 Dunajska Streda,0,1,,,,,,
+61396641,2025-11-08 14:30,FK Zeleziarne Podbrezova,MFK Skalica,2,0,,,,,,
+61396639,2025-11-08 17:00,MSK Zilina,MFK Zemplin Michalovce,2,0,,,,,,
+61396633,2025-11-09 14:30,SK Slovan Bratislava,KFC Komarno,3,2,,,,,,
+61396635,2025-11-09 17:00,1. FC Tatran Presov,FC Spartak Trnava,2,1,,,,,,
+61396645,2025-11-22 14:30,KFC Komarno,FK Zeleziarne Podbrezova,1,0,,,,,,
+61396649,2025-11-22 14:30,MFK Skalica,SK Slovan Bratislava,0,1,,,,,,
+61396651,2025-11-22 14:30,MSK Zilina,AS Trencin,4,1,,,,,,
+61396653,2025-11-22 17:00,FK Kosice,FC Spartak Trnava,1,2,,,,,,
+61396647,2025-11-23 14:30,MFK Zemplin Michalovce,MFK Ruzomberok,4,2,,,,,,
+61396643,2025-11-23 17:00,DAC 1904 Dunajska Streda,1. FC Tatran Presov,0,0,,,,,,
+61396655,2025-11-29 14:30,FC Spartak Trnava,KFC Komarno,2,0,,,,,,
+61396657,2025-11-29 14:30,1. FC Tatran Presov,MFK Skalica,3,2,,,,,,
+61396661,2025-11-29 14:30,MFK Ruzomberok,FK Kosice,1,1,,,,,,
+61396663,2025-11-29 17:00,AS Trencin,DAC 1904 Dunajska Streda,0,3,,,,,,
+61396665,2025-11-30 14:30,SK Slovan Bratislava,MFK Zemplin Michalovce,3,2,,,,,,
+61396659,2025-11-30 17:00,FK Zeleziarne Podbrezova,MSK Zilina,2,0,,,,,,
+64120631,2025-12-03 17:00,SK Slovan Bratislava,MFK Ruzomberok,1,2,,,,,,
+65417714,2025-12-03 17:00,FK Zeleziarne Podbrezova,FC Spartak Trnava,1,3,,,,,,
+61396667,2025-12-06 14:30,MFK Zemplin Michalovce,FK Zeleziarne Podbrezova,0,4,,,,,,
+61396671,2025-12-06 14:30,MSK Zilina,MFK Ruzomberok,1,2,,,,,,
+61396677,2025-12-06 14:30,MFK Skalica,KFC Komarno,1,1,,,,,,
+61396675,2025-12-06 17:00,FK Kosice,SK Slovan Bratislava,2,0,,,,,,
+61396673,2025-12-07 14:30,AS Trencin,1. FC Tatran Presov,0,0,,,,,,
+61396669,2025-12-07 17:00,DAC 1904 Dunajska Streda,FC Spartak Trnava,3,1,,,,,,
+61396681,2025-12-13 14:30,FK Zeleziarne Podbrezova,DAC 1904 Dunajska Streda,0,1,3.000,3.500,2.250,2.75,1.850,1.950
+61396683,2025-12-13 14:30,FC Spartak Trnava,MFK Skalica,2,0,1.444,4.200,7.500,2.75,1.825,1.975
+61396685,2025-12-13 14:30,MFK Ruzomberok,AS Trencin,0,0,1.850,3.700,3.900,2.75,1.950,1.850
+61396689,2025-12-13 17:00,1. FC Tatran Presov,MFK Zemplin Michalovce,0,1,2.100,3.500,3.250,2.75,1.950,1.850
+61396679,2025-12-14 14:30,KFC Komarno,FK Kosice,1,2,2.350,3.300,2.900,2.75,1.900,1.900
+61396687,2025-12-14 17:00,SK Slovan Bratislava,MSK Zilina,3,2,1.850,4.000,3.600,3.25,1.900,1.900
+61396693,2026-02-07 14:30,FK Kosice,MFK Skalica,3,1,1.900,3.800,3.600,2.75,1.925,1.875
+61396695,2026-02-07 14:30,MFK Ruzomberok,1. FC Tatran Presov,1,0,2.250,3.300,3.200,2.25,1.850,1.950
+61396701,2026-02-07 14:30,AS Trencin,FK Zeleziarne Podbrezova,0,4,3.500,3.900,1.950,2.75,1.850,1.950
+61396697,2026-02-07 17:00,DAC 1904 Dunajska Streda,SK Slovan Bratislava,0,3,2.300,3.300,3.100,2.75,1.950,1.850
+61396691,2026-02-08 14:30,MSK Zilina,KFC Komarno,1,0,1.615,4.200,4.750,3,1.975,1.825
+61396699,2026-02-08 17:00,MFK Zemplin Michalovce,FC Spartak Trnava,1,1,3.800,3.800,1.850,2.75,1.900,1.900
+61396705,2026-02-14 14:30,MFK Skalica,MFK Zemplin Michalovce,2,1,2.350,3.600,2.800,2.5,1.925,1.875
+61396711,2026-02-14 14:30,SK Slovan Bratislava,AS Trencin,0,2,1.270,5.750,9.000,3.5,1.900,1.900
+61396713,2026-02-14 14:30,FK Zeleziarne Podbrezova,MFK Ruzomberok,5,0,1.666,4.000,4.500,2.75,1.900,1.900
+61396709,2026-02-14 17:00,1. FC Tatran Presov,FK Kosice,1,4,2.625,3.500,2.500,2.5,1.800,2.000
+61396703,2026-02-15 14:30,KFC Komarno,DAC 1904 Dunajska Streda,2,2,4.333,3.500,1.800,2.5,1.875,1.925
+61396707,2026-02-15 17:00,FC Spartak Trnava,MSK Zilina,0,0,1.700,3.800,4.333,2.75,1.825,1.975
+61396715,2026-02-21 14:30,DAC 1904 Dunajska Streda,MFK Skalica,3,2,1.450,4.500,6.250,2.75,1.925,1.875
+61396721,2026-02-21 14:30,AS Trencin,MFK Zemplin Michalovce,1,2,2.250,3.500,3.000,2.75,1.950,1.850
+61396725,2026-02-21 14:30,1. FC Tatran Presov,KFC Komarno,1,1,2.250,3.250,3.250,2.25,1.950,1.850
+61396723,2026-02-21 17:00,FC Spartak Trnava,FK Zeleziarne Podbrezova,0,5,1.727,3.800,4.500,2.75,1.900,1.900
+61396719,2026-02-22 14:30,MFK Ruzomberok,SK Slovan Bratislava,2,2,5.000,4.000,1.615,2.75,1.900,1.900
+61396717,2026-02-22 17:00,FK Kosice,MSK Zilina,2,2,2.200,3.400,2.700,3.25,2.000,1.800
+61396727,2026-02-28 14:30,FK Zeleziarne Podbrezova,1. FC Tatran Presov,4,1,1.650,3.700,5.250,2.75,1.950,1.850
+61396729,2026-02-28 14:30,MFK Zemplin Michalovce,FK Kosice,0,2,2.550,3.500,2.550,3,2.025,1.775
+61396731,2026-02-28 14:30,SK Slovan Bratislava,FC Spartak Trnava,4,0,1.800,3.700,4.100,2.75,1.900,1.900
+61396733,2026-02-28 14:30,KFC Komarno,MFK Ruzomberok,1,1,1.950,3.500,3.700,2.5,1.975,1.825
+61396735,2026-02-28 14:30,MFK Skalica,AS Trencin,0,1,1.950,3.400,3.800,2.5,1.925,1.875
+61396737,2026-02-28 14:30,MSK Zilina,DAC 1904 Dunajska Streda,0,0,2.550,3.500,2.500,2.75,1.825,1.975
+69463352,2026-03-07 14:30,MFK Skalica,1. FC Tatran Presov,1,0,2.200,3.300,3.300,2.25,1.850,1.950
+69463354,2026-03-07 14:30,FK Kosice,AS Trencin,2,0,1.700,4.000,4.333,2.75,1.825,1.975
+69463412,2026-03-07 14:30,MFK Zemplin Michalovce,SK Slovan Bratislava,1,3,6.250,4.750,1.444,3,1.850,1.950
+69463414,2026-03-07 17:00,MSK Zilina,FC Spartak Trnava,0,1,2.200,3.500,3.100,2.5,2.000,1.800
+69463356,2026-03-08 14:30,KFC Komarno,MFK Ruzomberok,3,0,2.100,3.400,3.400,2.5,2.000,1.800
+69463416,2026-03-08 17:00,DAC 1904 Dunajska Streda,FK Zeleziarne Podbrezova,2,1,2.050,3.750,3.200,2.75,1.825,1.975
+69463358,2026-03-14 14:30,MFK Ruzomberok,FK Kosice,1,1,3.100,3.250,2.300,2.5,1.975,1.825
+69463360,2026-03-14 14:30,1. FC Tatran Presov,KFC Komarno,0,0,2.250,3.000,3.400,2,2.050,1.750
+69463418,2026-03-14 14:30,FK Zeleziarne Podbrezova,MFK Zemplin Michalovce,0,1,1.571,4.100,5.500,3,2.000,1.800
+69463362,2026-03-15 14:30,AS Trencin,MFK Skalica,2,1,2.550,3.200,2.800,2.25,1.800,2.000
+69463422,2026-03-15 17:00,SK Slovan Bratislava,MSK Zilina,0,1,1.420,5.000,6.250,3,1.975,1.825
+69463364,2026-03-21 14:30,AS Trencin,MFK Ruzomberok,3,1,2.750,3.100,2.550,2.5,1.975,1.825
+69463426,2026-03-21 14:30,MSK Zilina,DAC 1904 Dunajska Streda,3,1,2.550,3.200,2.800,2.5,1.875,1.925
+69463428,2026-03-21 14:30,MFK Zemplin Michalovce,FC Spartak Trnava,1,0,3.600,3.600,1.950,2.75,2.000,1.800
+69463368,2026-03-21 17:00,FK Kosice,1. FC Tatran Presov,2,1,1.750,3.700,4.500,2.5,1.975,1.825
+69463366,2026-03-22 14:30,MFK Skalica,KFC Komarno,2,1,2.400,3.100,3.100,2.25,1.950,1.850
+69463430,2026-03-22 17:00,SK Slovan Bratislava,FK Zeleziarne Podbrezova,2,0,1.600,4.200,5.000,3.25,1.950,1.850
+69463370,2026-04-04 13:30,1. FC Tatran Presov,MFK Ruzomberok,0,0,2.050,3.400,3.700,2.25,1.900,1.900
+69463372,2026-04-04 13:30,FK Kosice,MFK Skalica,2,0,1.700,3.700,4.750,2.75,1.975,1.825
+69463432,2026-04-04 13:30,MFK Zemplin Michalovce,MSK Zilina,2,1,4.100,4.000,1.750,2.75,1.800,2.000
+69463434,2026-04-04 16:00,DAC 1904 Dunajska Streda,SK Slovan Bratislava,0,3,2.700,3.300,2.600,2.75,1.900,1.900
+69463374,2026-04-05 13:30,KFC Komarno,AS Trencin,0,1,1.833,3.900,4.000,2.5,1.800,2.000
+69463436,2026-04-05 16:00,FC Spartak Trnava,FK Zeleziarne Podbrezova,4,1,2.000,3.400,3.800,2.75,1.900,1.900
+69463376,2026-04-11 13:30,MFK Ruzomberok,MFK Skalica,0,0,2.350,3.100,3.100,2.25,1.975,1.825
+69463380,2026-04-11 13:30,AS Trencin,1. FC Tatran Presov,0,0,2.300,3.300,3.000,2.5,1.975,1.825
+69463438,2026-04-11 13:30,FK Zeleziarne Podbrezova,MSK Zilina,0,0,2.600,3.400,2.600,2.75,1.800,2.000
+69463442,2026-04-11 16:00,SK Slovan Bratislava,FC Spartak Trnava,2,2,1.533,4.333,5.500,2.75,1.850,1.950
+69463378,2026-04-12 13:30,KFC Komarno,FK Kosice,1,2,2.300,3.600,2.800,2.5,1.900,1.900
+69463440,2026-04-12 16:00,DAC 1904 Dunajska Streda,MFK Zemplin Michalovce,3,0,1.420,4.500,7.500,3,1.925,1.875
+69463386,2026-04-18 13:30,MFK Ruzomberok,KFC Komarno,2,1,2.400,3.100,3.000,2.25,1.850,1.950
+69463446,2026-04-18 13:30,FK Zeleziarne Podbrezova,DAC 1904 Dunajska Streda,1,2,3.000,3.300,2.300,2.5,1.875,1.925
+69463448,2026-04-18 13:30,FC Spartak Trnava,MFK Zemplin Michalovce,3,0,1.420,4.750,7.000,3,1.925,1.875
+69463444,2026-04-18 16:00,MSK Zilina,SK Slovan Bratislava,0,1,3.000,3.700,2.200,3,1.950,1.850
+69463384,2026-04-19 13:30,MFK Skalica,AS Trencin,4,1,2.200,3.300,3.200,2.5,2.000,1.800
+69463382,2026-04-19 16:00,1. FC Tatran Presov,FK Kosice,2,1,1.850,3.600,4.000,2.75,1.975,1.825
+70265780,2026-04-22 16:00,FC Spartak Trnava,DAC 1904 Dunajska Streda,2,1,2.300,3.200,3.100,2.75,2.000,1.800
+69463388,2026-04-25 16:00,FK Kosice,MFK Ruzomberok,3,1,1.727,4.200,4.200,2.75,1.775,2.025
+69463392,2026-04-25 16:00,KFC Komarno,MFK Skalica,0,2,1.950,3.500,3.800,2.25,1.875,1.925
+69463452,2026-04-25 16:00,MFK Zemplin Michalovce,FK Zeleziarne Podbrezova,1,2,2.800,4.000,2.200,3,1.900,1.900
+69463450,2026-04-25 18:30,DAC 1904 Dunajska Streda,MSK Zilina,3,1,2.000,3.500,3.600,2.5,1.950,1.850
+69463390,2026-04-26 15:00,1. FC Tatran Presov,AS Trencin,1,2,1.900,3.500,4.000,2.5,1.950,1.850
+69463454,2026-04-26 17:00,FC Spartak Trnava,SK Slovan Bratislava,0,1,2.875,3.600,2.350,2.75,1.950,1.850
+69463398,2026-05-02 16:00,MFK Ruzomberok,1. FC Tatran Presov,1,1,2.200,3.300,3.300,2.25,1.925,1.875
+69463458,2026-05-02 18:30,SK Slovan Bratislava,DAC 1904 Dunajska Streda,1,0,1.666,3.700,5.000,2.75,1.825,1.975
+69463396,2026-05-03 15:00,AS Trencin,KFC Komarno,1,2,2.875,3.400,2.150,3,1.850,1.950
+69463460,2026-05-03 17:00,FK Zeleziarne Podbrezova,FC Spartak Trnava,0,3,2.900,3.750,2.200,3,1.975,1.825
+71118010,2026-05-05 16:00,MSK Zilina,MFK Zemplin Michalovce,3,2,1.450,4.750,5.750,3.25,1.900,1.900
+71118012,2026-05-05 16:00,MFK Skalica,FK Kosice,3,1,2.100,3.300,3.000,2.75,1.800,2.000
+69463404,2026-05-09 16:00,MFK Ruzomberok,AS Trencin,4,3,1.900,3.600,3.750,2.5,1.900,1.900
+69463462,2026-05-09 16:00,MFK Zemplin Michalovce,DAC 1904 Dunajska Streda,2,1,3.500,3.600,1.950,2.75,1.925,1.875
+69463466,2026-05-09 16:00,FK Zeleziarne Podbrezova,SK Slovan Bratislava,1,2,3.100,3.900,2.050,3,1.875,1.925
+69463400,2026-05-09 18:30,1. FC Tatran Presov,MFK Skalica,3,0,2.200,3.400,3.200,2.25,1.775,2.025
+69463402,2026-05-10 15:00,FK Kosice,KFC Komarno,2,1,1.800,4.000,3.800,2.5,1.800,2.000
+69463464,2026-05-10 17:00,FC Spartak Trnava,MSK Zilina,1,0,1.550,4.500,5.000,3,1.825,1.975
+69463406,2026-05-16 15:00,AS Trencin,FK Kosice,3,0,2.200,4.000,2.800,3.5,2.000,1.800
+69463408,2026-05-16 15:00,MFK Skalica,MFK Ruzomberok,1,0,1.800,3.500,4.333,2.5,1.900,1.900
+69463410,2026-05-16 15:00,KFC Komarno,1. FC Tatran Presov,1,1,2.250,3.400,3.000,2.5,2.000,1.800
+69463468,2026-05-16 15:00,DAC 1904 Dunajska Streda,FC Spartak Trnava,3,0,2.200,3.500,3.100,2.75,1.900,1.900
+69463470,2026-05-16 15:00,SK Slovan Bratislava,MFK Zemplin Michalovce,1,2,1.333,5.750,7.500,3.5,1.950,1.850
+69463472,2026-05-16 15:00,MSK Zilina,FK Zeleziarne Podbrezova,0,2,1.700,4.200,4.200,3.25,1.800,2.000
+71553138,2026-05-19 14:30,MFK Zvolen,KFC Komarno,1,0,3.300,3.250,2.150,2.5,1.950,1.850
+71553140,2026-05-23 18:30,KFC Komarno,MFK Zvolen,3,0,1.420,4.500,7.000,2.75,1.800,2.000
+72042172,2026-07-25 16:00,AS Trencin,KFC Komarno,1,1,2.500,3.400,2.700,2.5,1.850,1.950
+72042174,2026-07-25 16:00,FC Spartak Trnava,MFK Skalica,1,1,1.700,3.600,5.250,2.5,2.000,1.800
+72042170,2026-07-25 18:30,FK Zeleziarne Podbrezova,MFK Zemplin Michalovce,2,0,1.800,3.900,4.000,3.25,1.875,1.925
+72042176,2026-07-26 15:00,MSK Zilina,FK Kosice,4,4,2.100,3.700,3.100,3.25,1.900,1.900
+72042178,2026-07-26 15:00,MFK Ruzomberok,DAC 1904 Dunajska Streda,1,1,3.000,3.400,2.300,2.5,1.925,1.875
+72042168,2026-07-26 17:00,MFk Dukla Banska Bystrica,SK Slovan Bratislava,0,4,6.250,4.100,1.500,3,2.000,1.800
+72042180,2026-08-01 16:00,SK Slovan Bratislava,FK Zeleziarne Podbrezova,3,0,1.700,4.000,4.500,3,1.850,1.950
+72042184,2026-08-01 16:00,MFK Skalica,MFK Ruzomberok,2,1,2.350,3.250,3.000,2.25,1.900,1.900
+72042182,2026-08-01 18:30,FK Kosice,AS Trencin,3,3,1.550,4.500,5.000,3.25,1.975,1.825
+72042186,2026-08-02 15:00,MFK Zemplin Michalovce,MSK Zilina,0,1,3.200,3.900,2.000,3,1.900,1.900
+72042190,2026-08-02 15:00,DAC 1904 Dunajska Streda,MFk Dukla Banska Bystrica,2,0,1.450,4.333,6.250,2.75,1.850,1.950
+72042188,2026-08-02 17:00,KFC Komarno,FC Spartak Trnava,1,2,2.800,3.200,2.550,2.5,1.975,1.825
+72042192,2026-08-08 16:00,MFK Zemplin Michalovce,KFC Komarno,1,1,2.500,3.500,2.750,2.75,1.975,1.825
+72042202,2026-08-08 16:00,MFK Ruzomberok,FK Zeleziarne Podbrezova,1,4,2.500,3.400,2.750,2.75,1.975,1.825
+72042196,2026-08-08 18:30,FC Spartak Trnava,MFk Dukla Banska Bystrica,3,0,1.363,4.500,9.000,2.75,1.800,2.000
+72042198,2026-08-09 15:00,MSK Zilina,MFK Skalica,1,3,1.500,4.000,6.500,2.75,1.900,1.900
+72042204,2026-08-15 16:00,SK Slovan Bratislava,MFK Ruzomberok,5,0,1.363,4.750,8.500,3,1.825,1.975
+72042210,2026-08-15 16:00,MFk Dukla Banska Bystrica,MSK Zilina,3,4,4.100,3.800,1.800,3,2.000,1.800
+72042214,2026-08-15 16:00,MFK Skalica,FK Kosice,2,4,3.200,3.400,2.200,2.75,1.800,2.000
+72042212,2026-08-15 18:30,FK Zeleziarne Podbrezova,AS Trencin,2,1,1.550,4.333,5.250,3.25,1.875,1.925
+72042208,2026-08-16 15:00,FC Spartak Trnava,MFK Zemplin Michalovce,2,0,1.571,3.900,5.750,2.75,1.975,1.825
+72042206,2026-08-16 17:00,KFC Komarno,DAC 1904 Dunajska Streda,0,3,3.000,3.300,2.300,2.25,1.775,2.025
+72042218,2026-08-22 16:00,MFK Ruzomberok,MFk Dukla Banska Bystrica,0,1,1.615,4.000,5.000,2.75,1.900,1.900
+72042220,2026-08-22 16:00,DAC 1904 Dunajska Streda,FK Zeleziarne Podbrezova,5,0,1.700,4.000,4.333,3,1.825,1.975
+72042222,2026-08-22 16:00,MFK Zemplin Michalovce,MFK Skalica,2,0,2.000,3.400,3.700,2.5,1.800,2.000
+72042226,2026-08-22 18:30,FK Kosice,SK Slovan Bratislava,1,2,3.700,3.700,1.900,3,1.800,2.000
+72042216,2026-08-23 15:00,AS Trencin,FC Spartak Trnava,0,4,3.800,3.600,1.900,2.75,1.850,1.950
+72042224,2026-08-23 17:00,MSK Zilina,KFC Komarno,2,1,1.750,3.900,4.200,3.25,1.975,1.825
+72042232,2026-08-29 16:00,AS Trencin,MFK Ruzomberok,2,1,2.250,3.800,2.800,3,1.950,1.850
+72042234,2026-08-29 16:00,FK Zeleziarne Podbrezova,FK Kosice,2,2,1.850,3.900,3.700,3.5,2.000,1.800
+72042228,2026-08-29 18:30,MFk Dukla Banska Bystrica,KFC Komarno,2,2,2.750,3.500,2.400,2.75,1.825,1.975
+72042230,2026-08-30 15:00,SK Slovan Bratislava,MFK Zemplin Michalovce,1,2,1.270,5.750,10.000,3.5,1.875,1.925
+72042238,2026-08-30 15:00,MFK Skalica,DAC 1904 Dunajska Streda,1,6,4.500,3.800,1.700,2.75,1.900,1.900
+72042236,2026-08-30 17:00,FC Spartak Trnava,MSK Zilina,1,3,1.850,3.900,3.700,2.75,1.800,2.000
+72042240,2026-09-05 16:00,MFK Zemplin Michalovce,AS Trencin,3,1,2.000,3.600,3.500,3,1.850,1.950
+72042242,2026-09-05 16:00,MSK Zilina,FK Zeleziarne Podbrezova,3,1,1.850,3.750,3.800,3,1.800,2.000
+72042246,2026-09-05 16:00,KFC Komarno,MFK Skalica,0,0,1.700,3.800,4.500,2.75,1.950,1.850
+72042248,2026-09-05 18:30,DAC 1904 Dunajska Streda,SK Slovan Bratislava,2,0,2.750,3.500,2.400,2.75,1.775,2.025
+72042250,2026-09-06 15:00,FK Kosice,MFk Dukla Banska Bystrica,3,0,1.500,4.500,5.500,3.5,1.900,1.900
+72042244,2026-09-06 17:00,MFK Ruzomberok,FC Spartak Trnava,1,1,3.200,3.500,2.150,2.75,2.000,1.800
+72042254,2026-09-12 16:00,AS Trencin,DAC 1904 Dunajska Streda,1,4,4.333,4.333,1.650,3.25,1.900,1.900
+72042256,2026-09-12 16:00,MFK Ruzomberok,MFK Zemplin Michalovce,3,0,2.150,3.600,3.100,2.75,1.875,1.925
+72042258,2026-09-12 16:00,MFk Dukla Banska Bystrica,MFK Skalica,3,2,2.250,3.400,3.000,2.5,1.850,1.950
+72042262,2026-09-12 18:30,FC Spartak Trnava,FK Kosice,5,2,1.850,3.900,3.800,2.75,1.800,2.000
+72042252,2026-09-13 15:00,FK Zeleziarne Podbrezova,KFC Komarno,1,1,1.909,3.750,3.700,3,1.925,1.875
+72042260,2026-09-13 17:00,SK Slovan Bratislava,MSK Zilina,3,3,1.550,4.500,5.250,3.25,1.900,1.900
+72042264,2026-09-19 16:00,MSK Zilina,AS Trencin,2,1,1.400,4.750,7.000,,,
+72042266,2026-09-19 16:00,FK Kosice,MFK Ruzomberok,2,0,1.533,4.333,5.500,,,
+72042270,2026-09-19 16:00,MFK Zemplin Michalovce,MFk Dukla Banska Bystrica,1,0,1.750,3.750,4.500,,,
+72042272,2026-09-19 18:30,KFC Komarno,SK Slovan Bratislava,1,2,6.000,4.500,1.480,3.25,1.950,1.850
+72042274,2026-09-20 15:00,MFK Skalica,FK Zeleziarne Podbrezova,0,1,2.900,3.400,2.350,2.75,1.950,1.850
+72042268,2026-09-20 17:00,DAC 1904 Dunajska Streda,FC Spartak Trnava,2,2,1.700,3.800,4.750,2.75,1.850,1.950
+72042276,2026-10-10 13:30,AS Trencin,MFk Dukla Banska Bystrica,0,1,2.000,3.750,3.400,3,1.800,2.000
+72042284,2026-10-10 13:30,FK Kosice,KFC Komarno,1,1,1.700,4.000,4.500,3.25,2.000,1.800
+72042414,2026-10-10 13:30,MFK Skalica,SK Slovan Bratislava,1,1,5.250,4.500,1.533,3,1.850,1.950
+72042412,2026-10-10 16:00,MFK Zemplin Michalovce,DAC 1904 Dunajska Streda,0,3,4.750,4.000,1.650,3.25,1.900,1.900
+72042278,2026-10-11 13:30,MFK Ruzomberok,MSK Zilina,2,2,2.900,3.700,2.200,3.25,2.000,1.800
+72042286,2026-10-11 16:00,FK Zeleziarne Podbrezova,FC Spartak Trnava,1,3,2.550,3.500,2.550,2.75,1.800,2.000
+72042292,2026-10-17 13:30,MFK Skalica,AS Trencin,0,2,2.250,3.700,2.900,2.75,1.850,1.950
+72042294,2026-10-17 13:30,KFC Komarno,MFK Ruzomberok,0,1,2.050,3.500,3.400,2.75,1.925,1.875
+72042290,2026-10-17 16:00,FC Spartak Trnava,SK Slovan Bratislava,0,3,3.100,3.600,2.150,2.75,1.850,1.950
+72042288,2026-10-18 13:30,MFK Zemplin Michalovce,FK Kosice,1,1,3.400,3.900,1.950,3.25,1.950,1.850
+72042298,2026-10-18 13:30,MFk Dukla Banska Bystrica,FK Zeleziarne Podbrezova,1,0,3.100,3.700,2.150,2.75,1.825,1.975
+72042296,2026-10-18 16:00,MSK Zilina,DAC 1904 Dunajska Streda,2,3,3.250,3.900,2.000,3.25,1.825,1.975
+72042300,2026-10-24 13:30,SK Slovan Bratislava,MFk Dukla Banska Bystrica,2,2,1.285,6.000,8.000,3.25,1.850,1.950
+72042302,2026-10-24 13:30,MFK Zemplin Michalovce,FK Zeleziarne Podbrezova,1,4,2.875,3.600,2.300,3,1.875,1.925
+72042306,2026-10-24 16:00,MFK Skalica,FC Spartak Trnava,1,1,4.100,3.500,1.850,2.5,2.000,1.800
+72042310,2026-10-24 17:00,DAC 1904 Dunajska Streda,MFK Ruzomberok,5,0,1.270,5.750,9.000,3.5,1.925,1.875
+72042304,2026-10-25 14:30,KFC Komarno,AS Trencin,0,0,1.909,3.700,3.700,2.75,1.775,2.025
+72042308,2026-10-25 17:00,FK Kosice,MSK Zilina,2,2,1.900,4.000,3.500,3.5,1.850,1.950
+73384004,2026-10-28 17:00,FK Kosice,DAC 1904 Dunajska Streda,0,1,3.100,4.000,2.050,3.25,1.850,1.950
+73384006,2026-10-28 17:00,AS Trencin,SK Slovan Bratislava,0,2,6.000,4.500,1.480,3,1.875,1.925
+72042314,2026-10-31 14:30,FC Spartak Trnava,KFC Komarno,1,2,1.800,3.400,4.100,2.5,2.000,1.800
+72042316,2026-10-31 14:30,AS Trencin,FK Kosice,0,5,3.100,3.750,2.100,3.25,2.025,1.775
+72042318,2026-10-31 14:30,MSK Zilina,MFK Zemplin Michalovce,4,1,1.450,5.250,5.750,3.5,1.825,1.975
+72042312,2026-10-31 17:00,FK Zeleziarne Podbrezova,SK Slovan Bratislava,1,2,3.900,4.100,1.750,3,1.800,2.000
+72042320,2026-11-01 14:30,MFK Ruzomberok,MFK Skalica,1,0,2.000,3.600,3.500,2.5,1.925,1.875
+72042322,2026-11-01 17:00,MFk Dukla Banska Bystrica,DAC 1904 Dunajska Streda,0,2,6.000,5.000,1.420,3.25,1.975,1.825
+72042326,2026-11-07 14:30,SK Slovan Bratislava,AS Trencin,2,2,1.200,7.500,10.000,3.5,1.900,1.900
+72042328,2026-11-07 14:30,MFk Dukla Banska Bystrica,FC Spartak Trnava,1,2,4.100,3.750,1.800,2.75,1.875,1.925
+72042330,2026-11-07 14:30,MFK Skalica,MSK Zilina,2,4,3.750,3.800,1.850,3,1.950,1.850
+72042332,2026-11-07 17:00,DAC 1904 Dunajska Streda,FK Kosice,3,2,1.444,4.750,6.250,3.5,1.925,1.875
+72042334,2026-11-08 14:30,FK Zeleziarne Podbrezova,MFK Ruzomberok,4,1,1.750,3.900,4.200,3,2.000,1.800
+72042324,2026-11-08 17:00,KFC Komarno,MFK Zemplin Michalovce,2,0,1.666,3.800,4.750,3,1.925,1.875

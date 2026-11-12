@@ -1,38 +1,38 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-28206378539,2026-10-28 19:45,Maccabi London Lions,Ware FC,2,0,,,
-29141757955,2026-10-28 19:45,Aylesbury United,Hertford Town,2,4,2.500,3.800,2.200
-28446040820,2026-10-31 15:00,Barton Rovers,Thame United,1,3,,,
-28867242161,2026-10-31 15:00,Hadley FC,Leverstock Green,1,1,,,
-29157702780,2026-10-31 15:00,Ware FC,Aylesbury United,3,0,,,
-29449863226,2026-10-31 15:00,Milton Keynes Irish,Potters Bar Town,2,4,,,
-29978937022,2026-10-31 15:00,Beaconsfield Town,Biggleswade FC,3,0,,,
-30105265446,2026-10-31 15:00,Waltham Abbey,Welwyn Garden City FC,2,3,,,
-30186681285,2026-10-31 15:00,Royston Town,Didcot Town,2,1,,,
-30518749142,2026-10-31 15:00,Stotfold FC,Flackwell Heath,2,0,,,
-30787533852,2026-10-31 15:00,Haringey Borough,Maccabi London Lions,2,1,,,
-31915471556,2026-10-31 15:00,Biggleswade Town,Winslow United,1,3,,,
-32038759918,2026-10-31 15:00,Hertford Town,Marlow FC,1,3,,,
-28658613765,2026-11-03 19:45,Biggleswade Town,Hertford Town,3,0,1.900,3.900,3.000
-28784956999,2026-11-03 19:45,Barton Rovers,Waltham Abbey,2,4,3.000,3.900,1.909
-31285957361,2026-11-03 19:45,Royston Town,Ware FC,2,2,1.480,4.333,4.750
-31406104908,2026-11-03 19:45,Beaconsfield Town,Welwyn Garden City FC,1,3,,,
-29731933156,2026-11-04 19:45,Aylesbury United,Winslow United,4,2,5.250,4.750,1.400
-28092535503,2026-11-07 15:00,Flackwell Heath,Barton Rovers,2,2,,,
-28371818544,2026-11-07 15:00,Winslow United,Beaconsfield Town,3,0,,,
-28502511440,2026-11-07 15:00,Thame United,Stotfold FC,1,0,,,
-30198680806,2026-11-07 15:00,Biggleswade FC,Ware FC,0,2,,,
-30670899440,2026-11-07 15:00,Didcot Town,Hadley FC,1,0,,,
-30708578451,2026-11-07 15:00,Welwyn Garden City FC,Hertford Town,2,1,,,
-31390923789,2026-11-07 15:00,Potters Bar Town,Biggleswade Town,3,1,,,
-31584320780,2026-11-07 15:00,Maccabi London Lions,Waltham Abbey,0,1,,,
-31691707491,2026-11-07 15:00,Leverstock Green,Royston Town,1,4,,,
-32092186199,2026-11-07 15:00,Aylesbury United,Haringey Borough,3,3,,,
-32185659718,2026-11-07 15:00,Marlow FC,Milton Keynes Irish,3,2,,,
-28473685200,2026-11-10 19:45,Hadley FC,Marlow FC,1,3,,,
-28544642903,2026-11-10 19:45,Milton Keynes Irish,Didcot Town,2,4,3.800,4.200,1.615
-28672660798,2026-11-10 19:45,Stotfold FC,Potters Bar Town,2,0,,,
-28752450118,2026-11-10 19:45,Haringey Borough,Flackwell Heath,3,2,,,
-30354557317,2026-11-10 19:45,Barton Rovers,Winslow United,3,2,,,
-30620176001,2026-11-10 19:45,Biggleswade Town,Maccabi London Lions,3,2,,,
-31694920673,2026-11-10 19:45,Hertford Town,Biggleswade FC,3,1,,,
-32066866366,2026-11-10 19:45,Ware FC,Leverstock Green,2,1,,,
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+28206378539,2026-10-28 19:45,Maccabi London Lions,Ware FC,2,0,,,,,,
+29141757955,2026-10-28 19:45,Aylesbury United,Hertford Town,2,4,2.500,3.800,2.200,3.5,1.975,1.825
+28446040820,2026-10-31 15:00,Barton Rovers,Thame United,1,3,,,,,,
+28867242161,2026-10-31 15:00,Hadley FC,Leverstock Green,1,1,,,,,,
+29157702780,2026-10-31 15:00,Ware FC,Aylesbury United,3,0,,,,,,
+29449863226,2026-10-31 15:00,Milton Keynes Irish,Potters Bar Town,2,4,,,,,,
+29978937022,2026-10-31 15:00,Beaconsfield Town,Biggleswade FC,3,0,,,,,,
+30105265446,2026-10-31 15:00,Waltham Abbey,Welwyn Garden City FC,2,3,,,,,,
+30186681285,2026-10-31 15:00,Royston Town,Didcot Town,2,1,,,,,,
+30518749142,2026-10-31 15:00,Stotfold FC,Flackwell Heath,2,0,,,,,,
+30787533852,2026-10-31 15:00,Haringey Borough,Maccabi London Lions,2,1,,,,,,
+31915471556,2026-10-31 15:00,Biggleswade Town,Winslow United,1,3,,,,,,
+32038759918,2026-10-31 15:00,Hertford Town,Marlow FC,1,3,,,,,,
+28658613765,2026-11-03 19:45,Biggleswade Town,Hertford Town,3,0,1.900,3.900,3.000,3.25,1.975,1.825
+28784956999,2026-11-03 19:45,Barton Rovers,Waltham Abbey,2,4,3.000,3.900,1.909,3.25,1.950,1.850
+31285957361,2026-11-03 19:45,Royston Town,Ware FC,2,2,1.480,4.333,4.750,3.25,1.850,1.950
+31406104908,2026-11-03 19:45,Beaconsfield Town,Welwyn Garden City FC,1,3,,,,,,
+29731933156,2026-11-04 19:45,Aylesbury United,Winslow United,4,2,5.250,4.750,1.400,4,1.975,1.825
+28092535503,2026-11-07 15:00,Flackwell Heath,Barton Rovers,2,2,,,,,,
+28371818544,2026-11-07 15:00,Winslow United,Beaconsfield Town,3,0,,,,,,
+28502511440,2026-11-07 15:00,Thame United,Stotfold FC,1,0,,,,,,
+30198680806,2026-11-07 15:00,Biggleswade FC,Ware FC,0,2,,,,,,
+30670899440,2026-11-07 15:00,Didcot Town,Hadley FC,1,0,,,,,,
+30708578451,2026-11-07 15:00,Welwyn Garden City FC,Hertford Town,2,1,,,,,,
+31390923789,2026-11-07 15:00,Potters Bar Town,Biggleswade Town,3,1,,,,,,
+31584320780,2026-11-07 15:00,Maccabi London Lions,Waltham Abbey,0,1,,,,,,
+31691707491,2026-11-07 15:00,Leverstock Green,Royston Town,1,4,,,,,,
+32092186199,2026-11-07 15:00,Aylesbury United,Haringey Borough,3,3,,,,,,
+32185659718,2026-11-07 15:00,Marlow FC,Milton Keynes Irish,3,2,,,,,,
+28473685200,2026-11-10 19:45,Hadley FC,Marlow FC,1,3,,,,,,
+28544642903,2026-11-10 19:45,Milton Keynes Irish,Didcot Town,2,4,3.800,4.200,1.615,3.25,1.850,1.950
+28672660798,2026-11-10 19:45,Stotfold FC,Potters Bar Town,2,0,,,,,,
+28752450118,2026-11-10 19:45,Haringey Borough,Flackwell Heath,3,2,,,,,,
+30354557317,2026-11-10 19:45,Barton Rovers,Winslow United,3,2,,,,,,
+30620176001,2026-11-10 19:45,Biggleswade Town,Maccabi London Lions,3,2,,,,,,
+31694920673,2026-11-10 19:45,Hertford Town,Biggleswade FC,3,1,,,,,,
+32066866366,2026-11-10 19:45,Ware FC,Leverstock Green,2,1,,,,,,

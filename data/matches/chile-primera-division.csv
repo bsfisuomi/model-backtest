@@ -1,373 +1,373 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-57380285,2025-05-23 22:00,Deportes Limache,Universidad de Chile,2,0,,,
-57380287,2025-05-24 19:00,CD Everton Vina del Mar,Cobresal,2,2,,,
-57380293,2025-05-24 21:30,Colo-Colo,Union Espanola,4,1,,,
-57380295,2025-05-25 00:00,Coquimbo Unido,CD Palestino,0,0,,,
-57380297,2025-05-25 16:30,Nublense,CD O´Higgins,0,1,,,
-57380289,2025-05-25 19:00,CD Universidad Catolica,Deportes La Serena,1,3,,,
-57380291,2025-05-26 00:00,Deportes Iquique,Deportes Union La Calera,0,1,,,
-57380299,2025-05-26 23:30,Audax Italiano,Huachipato,4,3,,,
-57380307,2025-05-31 16:30,Deportes La Serena,Coquimbo Unido,2,4,,,
-57380315,2025-05-31 16:30,Huachipato,Nublense,0,1,,,
-57380313,2025-05-31 19:00,Universidad de Chile,CD O´Higgins,6,0,,,
-57380311,2025-06-01 00:00,CD Everton Vina del Mar,Audax Italiano,1,1,,,
-57380303,2025-06-01 19:00,CD Palestino,CD Universidad Catolica,1,1,,,
-57380301,2025-06-01 21:30,Deportes Union La Calera,Colo-Colo,0,1,,,
-57380305,2025-06-02 22:00,Cobresal,Deportes Iquique,2,1,,,
-57380309,2025-06-03 19:00,Union Espanola,Deportes Limache,2,2,,,
-57380221,2025-06-13 00:00,Deportes Iquique,Colo-Colo,2,2,,,
-57380323,2025-06-14 00:00,Deportes Limache,Deportes Union La Calera,0,1,,,
-57380321,2025-06-14 16:30,CD Palestino,Deportes La Serena,2,1,,,
-57380335,2025-06-14 19:00,CD Universidad Catolica,Huachipato,1,0,,,
-57380333,2025-06-15 16:30,CD O´Higgins,Union Espanola,1,0,,,
-57380317,2025-06-15 19:00,Coquimbo Unido,Universidad de Chile,1,0,,,
-57380331,2025-06-16 00:00,Nublense,Audax Italiano,2,3,,,
-57380325,2025-06-17 00:00,Deportes Iquique,CD Everton Vina del Mar,1,2,,,
-57380319,2025-06-17 22:00,Colo-Colo,Cobresal,4,0,,,
-57380339,2025-06-20 21:30,Deportes Union La Calera,CD Universidad Catolica,1,1,,,
-57380343,2025-06-21 16:30,Union Espanola,Coquimbo Unido,0,2,,,
-57380341,2025-06-21 19:00,Universidad de Chile,Deportes Iquique,3,1,,,
-57380347,2025-06-21 21:30,Huachipato,CD Palestino,2,2,,,
-57380345,2025-06-22 16:30,Deportes La Serena,Deportes Limache,1,1,,,
-57380337,2025-06-22 19:00,Audax Italiano,Colo-Colo,2,1,,,
-57380351,2025-06-22 21:30,Cobresal,Nublense,1,1,,,
-57380349,2025-06-23 00:00,CD Everton Vina del Mar,CD O´Higgins,0,1,,,
-61071971,2025-07-05 19:00,Union Espanola,Universidad de Chile,0,2,,,
-60862725,2025-07-06 19:00,CD Universidad Catolica,Colo-Colo,2,0,,,
-60862729,2025-07-12 19:00,Universidad de Chile,Colo-Colo,2,1,,,
-57380359,2025-07-18 23:00,CD Everton Vina del Mar,Deportes Limache,0,0,,,
-57380363,2025-07-19 16:30,Union Espanola,Deportes Union La Calera,3,1,,,
-57380353,2025-07-19 19:00,Colo-Colo,Deportes La Serena,2,1,,,
-57380357,2025-07-19 21:30,Coquimbo Unido,Deportes Iquique,4,1,,,
-57380361,2025-07-20 16:30,Audax Italiano,CD Universidad Catolica,1,1,,,
-57380365,2025-07-20 19:00,Nublense,Universidad de Chile,2,2,,,
-57380367,2025-07-21 23:00,Huachipato,CD O´Higgins,2,1,,,
-57380379,2025-07-25 23:00,Deportes Limache,Nublense,0,1,,,
-57380373,2025-07-26 19:00,Deportes La Serena,Cobresal,0,2,,,
-57380377,2025-07-26 21:30,CD Everton Vina del Mar,Huachipato,4,1,,,
-57380383,2025-07-27 16:30,CD O´Higgins,Colo-Colo,1,1,,,
-57380369,2025-07-27 19:00,CD Universidad Catolica,Coquimbo Unido,0,3,,,
-57380381,2025-07-27 19:00,CD Palestino,Union Espanola,1,0,,,
-57380371,2025-07-27 22:00,Deportes Iquique,Audax Italiano,1,0,,,
-57380375,2025-07-28 22:00,Deportes Union La Calera,Universidad de Chile,0,4,,,
-57380393,2025-08-01 23:00,Audax Italiano,CD Palestino,1,1,,,
-57380395,2025-08-02 16:30,Union Espanola,Deportes La Serena,1,0,,,
-57380391,2025-08-02 19:00,Coquimbo Unido,Deportes Limache,2,1,,,
-57380389,2025-08-02 21:30,Deportes Iquique,CD Universidad Catolica,2,2,,,
-57380397,2025-08-03 16:30,CD O´Higgins,Deportes Union La Calera,1,0,,,
-57380387,2025-08-03 19:00,Colo-Colo,Huachipato,2,2,,,
-57380399,2025-08-03 21:30,Nublense,CD Everton Vina del Mar,1,0,,,
-57380385,2025-08-04 22:00,Universidad de Chile,Cobresal,0,1,,,
-57380413,2025-08-08 19:00,CD Palestino,Deportes Iquique,2,0,,,
-57380415,2025-08-09 16:30,Huachipato,Deportes Union La Calera,1,0,,,
-57380401,2025-08-09 19:00,Universidad de Chile,Union Espanola,4,1,,,
-57380407,2025-08-09 21:30,Deportes La Serena,CD O´Higgins,3,3,,,
-57380409,2025-08-10 16:30,CD Everton Vina del Mar,Colo-Colo,1,1,,,
-57380405,2025-08-10 19:00,Cobresal,Coquimbo Unido,1,2,,,
-57380411,2025-08-11 23:00,Deportes Limache,Audax Italiano,4,0,,,
-57380425,2025-08-15 19:00,Union Espanola,Deportes Iquique,2,2,,,
-57380421,2025-08-16 00:00,Deportes Union La Calera,Deportes La Serena,1,1,,,
-57380429,2025-08-16 16:00,Nublense,CD Palestino,1,0,,,
-57380417,2025-08-16 19:00,Colo-Colo,CD Universidad Catolica,1,4,,,
-57380427,2025-08-16 22:30,CD O´Higgins,Cobresal,1,0,,,
-57380179,2025-08-17 16:30,Universidad de Chile,Audax Italiano,1,3,,,
-57380431,2025-08-17 19:00,Huachipato,Deportes Limache,4,0,,,
-57380419,2025-08-17 21:30,Coquimbo Unido,CD Everton Vina del Mar,2,1,,,
-57380447,2025-08-22 19:00,CD Palestino,Colo-Colo,0,0,,,
-57380443,2025-08-23 00:30,Deportes Limache,CD O´Higgins,2,2,,,
-57380439,2025-08-23 19:00,Cobresal,Deportes Union La Calera,1,0,,,
-57380445,2025-08-23 21:30,Audax Italiano,Coquimbo Unido,0,1,,,
-57380435,2025-08-24 00:00,CD Universidad Catolica,Union Espanola,2,0,,,
-57380441,2025-08-24 16:30,Deportes La Serena,Huachipato,0,2,,,
-57380437,2025-08-24 21:30,Deportes Iquique,Nublense,0,2,,,
-57380457,2025-08-28 23:00,CD Everton Vina del Mar,Deportes La Serena,3,1,,,
-57380455,2025-08-29 23:00,Deportes Union La Calera,CD Palestino,1,2,,,
-57380463,2025-08-30 16:30,Huachipato,Coquimbo Unido,0,1,,,
-57380459,2025-08-30 19:00,CD O´Higgins,Audax Italiano,3,2,,,
-57380451,2025-08-30 21:30,CD Universidad Catolica,Cobresal,2,1,,,
-57380453,2025-08-31 00:00,Deportes Iquique,Deportes Limache,2,1,,,
-57380449,2025-08-31 19:00,Colo-Colo,Universidad de Chile,1,0,,,
-57380461,2025-08-31 22:30,Nublense,Union Espanola,1,2,,,
-57380355,2025-09-07 18:00,Cobresal,CD Palestino,2,1,,,
-57380471,2025-09-12 21:00,Coquimbo Unido,Nublense,2,1,,,
-57380473,2025-09-12 23:30,Deportes Union La Calera,CD Everton Vina del Mar,1,0,,,
-57380477,2025-09-13 15:30,Union Espanola,Audax Italiano,3,4,,,
-57380479,2025-09-13 18:00,CD Palestino,CD O´Higgins,1,2,,,
-57380467,2025-09-13 20:30,Cobresal,Huachipato,3,2,,,
-57380475,2025-09-13 23:00,Deportes Limache,CD Universidad Catolica,0,1,,,
-57380465,2025-09-26 22:00,Colo-Colo,Deportes Iquique,4,0,,,
-57380469,2025-09-28 18:00,Deportes La Serena,Universidad de Chile,1,1,,,
-62892107,2025-10-09 23:30,CD Universidad Catolica,Nublense,1,0,,,
-57380493,2025-10-12 15:00,Union Espanola,Huachipato,4,2,,,
-57380481,2025-10-13 19:00,Universidad de Chile,CD Palestino,2,1,,,
-57380491,2025-10-17 21:00,Audax Italiano,Deportes Union La Calera,4,3,,,
-57380483,2025-10-17 23:30,Deportes Iquique,CD O´Higgins,2,3,,,
-57380251,2025-10-18 18:00,Deportes La Serena,Nublense,1,1,,,
-57380489,2025-10-18 20:30,Deportes Limache,Cobresal,2,0,,,
-57380485,2025-10-19 15:30,Coquimbo Unido,Colo-Colo,1,0,,,
-57380487,2025-10-19 18:00,CD Everton Vina del Mar,CD Universidad Catolica,0,3,,,
-57380507,2025-10-24 20:00,CD Palestino,CD Everton Vina del Mar,2,1,,,
-57380503,2025-10-25 18:00,Deportes La Serena,Audax Italiano,2,1,,,
-57380511,2025-10-25 20:30,Huachipato,Deportes Iquique,1,1,,,
-57380499,2025-10-26 15:30,CD Universidad Catolica,Universidad de Chile,1,0,,,
-57380501,2025-10-26 19:00,Cobresal,Union Espanola,1,0,,,
-57380505,2025-10-26 21:30,Deportes Union La Calera,Nublense,3,0,,,
-57380509,2025-10-26 21:30,CD O´Higgins,Coquimbo Unido,0,1,,,
-57380497,2025-10-27 21:00,Colo-Colo,Deportes Limache,2,2,,,
-57380525,2025-10-31 18:00,Audax Italiano,Cobresal,1,2,,,
-57380517,2025-10-31 20:30,Deportes Iquique,Deportes La Serena,1,2,,,
-57380527,2025-11-01 21:00,Nublense,Colo-Colo,0,1,,,
-60370351,2025-11-02 15:30,Huachipato,Universidad de Chile,1,0,,,
-57380515,2025-11-02 20:30,CD Universidad Catolica,CD O´Higgins,0,2,,,
-57380519,2025-11-02 20:30,Coquimbo Unido,Deportes Union La Calera,2,0,,,
-57380521,2025-11-02 23:30,CD Everton Vina del Mar,Union Espanola,0,0,,,
-60523765,2025-11-03 22:00,CD Palestino,Deportes Limache,2,1,,,
-64565282,2025-11-05 20:30,Universidad de Chile,CD Everton Vina del Mar,2,0,,,
-57380535,2025-11-07 23:00,Deportes Union La Calera,Deportes Iquique,1,2,,,
-57380533,2025-11-08 15:30,Deportes La Serena,CD Universidad Catolica,0,1,,,
-57380537,2025-11-08 18:00,Union Espanola,Colo-Colo,1,2,,,
-57380539,2025-11-08 20:30,CD Palestino,Coquimbo Unido,1,2,,,
-57380541,2025-11-08 23:30,CD O´Higgins,Nublense,4,2,,,
-57380543,2025-11-09 18:00,Huachipato,Audax Italiano,2,1,,,
-57380529,2025-11-09 20:30,Universidad de Chile,Deportes Limache,4,3,,,
-57380531,2025-11-09 23:00,Cobresal,CD Everton Vina del Mar,1,2,,,
-57380549,2025-11-21 23:00,Deportes Iquique,Cobresal,2,1,,,
-57380553,2025-11-21 23:00,Deportes Limache,Union Espanola,1,0,,,
-57380555,2025-11-21 23:00,Audax Italiano,CD Everton Vina del Mar,2,0,,,
-57380551,2025-11-22 21:00,Coquimbo Unido,Deportes La Serena,2,1,,,
-57380547,2025-11-22 23:30,CD Universidad Catolica,CD Palestino,2,1,,,
-57380557,2025-11-23 21:00,CD O´Higgins,Universidad de Chile,0,1,,,
-57380545,2025-11-23 23:30,Colo-Colo,Deportes Union La Calera,4,1,,,
-57380559,2025-11-24 23:00,Nublense,Huachipato,0,1,,,
-57380563,2025-11-28 21:30,Cobresal,Colo-Colo,3,0,,,
-57380575,2025-11-29 15:00,Huachipato,CD Universidad Catolica,0,0,,,
-57380565,2025-11-29 21:00,Deportes La Serena,CD Palestino,0,3,,,
-57380567,2025-11-30 21:00,Deportes Union La Calera,Deportes Limache,0,1,,,
-57380569,2025-11-30 21:00,CD Everton Vina del Mar,Deportes Iquique,0,1,,,
-57380573,2025-11-30 21:00,Union Espanola,CD O´Higgins,2,4,,,
-66059030,2025-12-01 23:00,Audax Italiano,Nublense,1,0,,,
-57380561,2025-12-02 21:00,Universidad de Chile,Coquimbo Unido,1,1,,,
-57380587,2025-12-05 23:00,CD Palestino,Huachipato,2,2,,,
-57380579,2025-12-06 21:00,CD Universidad Catolica,Deportes Union La Calera,2,1,,,
-57380581,2025-12-06 21:00,Deportes Iquique,Universidad de Chile,2,3,,,
-57380583,2025-12-06 21:00,Coquimbo Unido,Union Espanola,4,2,,,
-57380585,2025-12-06 21:00,Deportes Limache,Deportes La Serena,1,0,,,
-57380589,2025-12-06 21:00,CD O´Higgins,CD Everton Vina del Mar,1,0,,,
-57380577,2025-12-07 21:00,Colo-Colo,Audax Italiano,1,2,,,
-57380591,2025-12-07 21:00,Nublense,Cobresal,5,0,,,
-67681682,2026-01-30 23:00,Universidad de Chile,Audax Italiano,0,0,1.500,4.000,6.250
-67681674,2026-01-31 15:00,Deportes Limache,Colo-Colo,3,1,3.300,3.500,2.050
-67681678,2026-01-31 18:30,Universidad de Concepcion,Coquimbo Unido,1,0,3.200,3.200,2.300
-67681688,2026-01-31 21:00,Cobresal,Huachipato,1,0,2.200,3.300,3.200
-67681676,2026-02-01 21:00,Deportes La Serena,CD Universidad Catolica,2,2,3.900,3.300,1.950
-67681686,2026-02-01 23:30,CD Palestino,Nublense,1,1,2.100,3.250,3.500
-67681680,2026-02-02 21:00,CD Everton Vina del Mar,Deportes Union La Calera,3,0,1.900,3.250,4.100
-67681924,2026-02-02 23:30,CD O´Higgins,Deportes Concepcion,2,1,1.750,3.600,4.333
-67681704,2026-02-06 23:00,Audax Italiano,Universidad de Concepcion,3,0,2.200,3.250,3.300
-67681700,2026-02-07 15:00,Coquimbo Unido,CD Palestino,3,1,2.300,2.750,3.700
-67681694,2026-02-07 21:00,CD O´Higgins,Deportes La Serena,1,0,1.700,3.600,4.500
-67681696,2026-02-07 23:30,Colo-Colo,CD Everton Vina del Mar,2,0,1.615,3.400,4.750
-67681690,2026-02-08 15:00,Huachipato,Universidad de Chile,2,1,4.100,3.600,1.800
-67681698,2026-02-08 21:00,Nublense,Deportes Limache,1,1,1.909,3.250,4.333
-67681702,2026-02-08 23:30,CD Universidad Catolica,Deportes Concepcion,2,0,1.571,3.900,4.750
-67681692,2026-02-09 23:00,Deportes Union La Calera,Cobresal,0,3,1.900,3.400,3.700
-67681720,2026-02-13 21:00,CD Everton Vina del Mar,Huachipato,0,3,2.300,3.250,3.100
-67681710,2026-02-13 23:30,CD Palestino,Universidad de Chile,0,0,3.400,3.500,2.050
-67681706,2026-02-14 15:00,Deportes La Serena,Coquimbo Unido,0,1,3.300,3.200,2.200
-67681718,2026-02-14 21:00,Deportes Limache,CD O´Higgins,2,1,2.500,3.400,2.600
-67681712,2026-02-14 23:30,Cobresal,CD Universidad Catolica,3,2,4.100,3.300,1.900
-67681708,2026-02-15 15:00,Universidad de Concepcion,Deportes Concepcion,2,1,2.150,3.500,3.200
-67681716,2026-02-15 21:00,Nublense,Audax Italiano,1,0,2.000,3.400,3.500
-67681714,2026-02-15 23:30,Colo-Colo,Deportes Union La Calera,1,0,1.533,4.200,5.750
-67681734,2026-02-20 21:00,Deportes Union La Calera,Nublense,0,1,2.625,3.200,2.625
-67681724,2026-02-20 23:30,Deportes Concepcion,Cobresal,1,1,1.750,3.750,4.000
-67681732,2026-02-21 15:00,Huachipato,CD Palestino,2,1,2.500,3.100,2.600
-67681722,2026-02-21 21:00,CD O´Higgins,Colo-Colo,0,1,2.450,3.300,2.600
-67681726,2026-02-21 23:30,CD Universidad Catolica,Coquimbo Unido,3,1,1.909,3.200,3.800
-67681736,2026-02-22 15:00,Deportes La Serena,Universidad de Concepcion,1,1,2.300,3.400,2.700
-67681728,2026-02-22 21:00,Audax Italiano,CD Everton Vina del Mar,1,0,2.150,3.100,3.300
-67681730,2026-02-22 23:30,Universidad de Chile,Deportes Limache,2,2,1.533,4.100,5.750
-67681742,2026-02-27 21:00,Cobresal,Deportes La Serena,0,1,2.600,3.200,2.700
-67681746,2026-02-27 23:30,Deportes Union La Calera,Audax Italiano,3,0,2.300,3.000,3.300
-67681752,2026-02-28 15:00,Coquimbo Unido,Deportes Concepcion,0,1,1.666,3.600,5.250
-67681750,2026-02-28 21:00,Deportes Limache,Huachipato,3,0,2.100,3.500,3.300
-67681748,2026-02-28 23:30,CD Palestino,CD O´Higgins,4,2,1.909,3.500,3.800
-67681744,2026-03-01 15:00,Universidad de Concepcion,CD Everton Vina del Mar,0,3,2.150,2.900,3.800
-67681738,2026-03-01 21:00,Colo-Colo,Universidad de Chile,0,1,2.400,3.200,3.000
-67681740,2026-03-01 23:30,Nublense,CD Universidad Catolica,1,2,2.700,3.100,2.600
-67681762,2026-03-06 21:00,Deportes La Serena,Deportes Union La Calera,3,0,2.150,3.250,3.500
-67681766,2026-03-06 23:30,Deportes Concepcion,Nublense,0,2,2.400,3.300,2.800
-67681760,2026-03-07 15:00,Huachipato,Coquimbo Unido,1,3,2.500,3.100,2.750
-67681764,2026-03-07 15:00,CD Everton Vina del Mar,Deportes Limache,1,0,2.200,3.400,3.000
-67681754,2026-03-07 21:00,Audax Italiano,Colo-Colo,0,1,3.000,3.300,2.300
-67681756,2026-03-07 23:30,CD O´Higgins,CD Universidad Catolica,1,0,3.200,3.200,2.300
-67681758,2026-03-08 23:30,CD Palestino,Cobresal,4,2,1.550,4.100,6.000
-67681768,2026-03-09 23:00,Universidad de Chile,Universidad de Concepcion,1,1,1.533,4.100,5.500
-67681784,2026-03-13 23:00,Audax Italiano,Deportes Concepcion,3,0,2.050,3.250,3.400
-67681770,2026-03-14 21:00,Coquimbo Unido,Universidad de Chile,0,1,2.050,3.100,3.750
-67681774,2026-03-14 23:30,CD Universidad Catolica,CD Everton Vina del Mar,2,2,1.500,3.800,6.500
-67681778,2026-03-15 15:00,Universidad de Concepcion,CD Palestino,1,0,2.450,3.400,2.600
-67681776,2026-03-15 21:00,Cobresal,Deportes Limache,2,5,2.200,3.500,3.000
-67681772,2026-03-15 23:30,Nublense,Deportes La Serena,2,2,1.950,3.300,3.700
-67681780,2026-03-16 21:00,Deportes Union La Calera,CD O´Higgins,3,3,2.600,3.200,2.625
-67681782,2026-03-16 23:30,Colo-Colo,Huachipato,2,0,1.480,4.000,6.500
-67681796,2026-04-02 21:00,CD Universidad Catolica,CD Palestino,6,1,1.850,3.500,3.900
-67681788,2026-04-03 20:30,Coquimbo Unido,Cobresal,3,2,1.333,4.500,8.500
-67681794,2026-04-03 23:00,CD O´Higgins,Audax Italiano,2,1,1.850,3.400,3.900
-67681792,2026-04-04 20:30,Deportes Limache,Deportes Union La Calera,4,0,1.800,3.600,3.900
-67681798,2026-04-04 23:00,CD Everton Vina del Mar,Nublense,0,0,2.600,3.100,2.625
-67681786,2026-04-05 19:30,Deportes Concepcion,Colo-Colo,0,1,3.500,3.500,1.900
-67681790,2026-04-05 22:00,Universidad de Chile,Deportes La Serena,4,0,1.600,3.700,5.000
-67681800,2026-04-07 00:00,Huachipato,Universidad de Concepcion,5,1,2.800,3.000,2.500
-67681814,2026-04-11 00:00,CD O´Higgins,Huachipato,0,2,1.850,3.400,3.800
-67681810,2026-04-11 19:00,Deportes La Serena,CD Everton Vina del Mar,1,0,2.200,3.200,3.200
-67681804,2026-04-11 21:30,Audax Italiano,CD Universidad Catolica,3,4,3.250,3.500,2.100
-67681812,2026-04-12 00:00,CD Palestino,Deportes Limache,1,0,2.100,3.400,3.200
-67681802,2026-04-12 21:30,Nublense,Universidad de Chile,1,0,2.700,3.100,2.550
-67681806,2026-04-13 00:00,Universidad de Concepcion,Cobresal,1,0,1.615,3.750,5.000
-67681816,2026-04-14 00:00,Deportes Union La Calera,Deportes Concepcion,1,0,2.200,3.100,3.300
-67681832,2026-04-18 00:00,Deportes Limache,Universidad de Concepcion,3,0,1.727,4.000,4.200
-67681818,2026-04-18 21:30,CD Everton Vina del Mar,Universidad de Chile,0,0,3.400,3.200,2.150
-67681820,2026-04-19 00:00,Deportes Concepcion,Deportes La Serena,3,3,2.700,3.200,2.550
-67681830,2026-04-19 16:30,Coquimbo Unido,Nublense,1,1,1.833,3.300,4.500
-67681828,2026-04-19 19:30,Cobresal,CD O´Higgins,2,3,2.800,3.250,2.450
-67681826,2026-04-19 22:30,Colo-Colo,CD Palestino,0,1,1.666,3.600,5.000
-67681824,2026-04-20 00:45,Huachipato,Audax Italiano,3,2,2.150,3.300,3.300
-67681822,2026-04-21 00:30,CD Universidad Catolica,Deportes Union La Calera,1,2,1.420,4.333,7.000
-67681848,2026-04-24 00:00,CD Palestino,Deportes Concepcion,0,1,1.700,3.500,4.750
-67681840,2026-04-24 22:00,Deportes Union La Calera,Coquimbo Unido,1,2,3.200,3.100,2.250
-67681842,2026-04-25 00:30,Audax Italiano,Deportes Limache,2,2,2.450,3.300,2.625
-67681844,2026-04-25 19:00,Nublense,CD O´Higgins,0,2,2.300,3.200,3.000
-67681836,2026-04-25 22:00,Universidad de Chile,CD Universidad Catolica,1,0,2.500,3.250,2.750
-67681846,2026-04-26 16:30,Deportes La Serena,Huachipato,0,1,1.850,3.500,3.800
-67681834,2026-04-26 19:00,Universidad de Concepcion,Colo-Colo,1,2,3.400,3.400,2.000
-67681838,2026-04-26 21:30,CD Everton Vina del Mar,Cobresal,3,1,1.571,3.700,5.500
-67681808,2026-05-03 21:30,Colo-Colo,Coquimbo Unido,3,1,1.833,3.300,4.333
-67681854,2026-05-16 00:00,CD Palestino,Deportes La Serena,5,1,1.950,3.500,3.500
-67681860,2026-05-16 00:00,Coquimbo Unido,Audax Italiano,3,0,1.571,4.000,5.000
-67681864,2026-05-16 21:30,CD O´Higgins,Universidad de Concepcion,0,1,1.533,4.200,5.500
-67681852,2026-05-17 00:00,Deportes Limache,CD Universidad Catolica,0,2,2.750,3.500,2.450
-67681856,2026-05-17 16:30,Huachipato,Deportes Union La Calera,3,1,2.400,2.875,3.100
-67681850,2026-05-17 19:00,Cobresal,Universidad de Chile,1,0,3.700,3.600,1.850
-67681862,2026-05-17 21:30,Colo-Colo,Nublense,6,2,1.666,3.500,5.000
-67681858,2026-05-18 00:00,Deportes Concepcion,CD Everton Vina del Mar,0,2,2.600,3.200,2.600
-67681870,2026-05-22 19:00,CD Everton Vina del Mar,Coquimbo Unido,1,1,2.900,3.100,2.450
-67681868,2026-05-23 16:30,Audax Italiano,Cobresal,2,1,1.750,3.750,4.200
-67681880,2026-05-23 19:00,Nublense,Universidad de Concepcion,2,2,1.700,3.750,4.750
-67681874,2026-05-24 00:00,Deportes Union La Calera,CD Palestino,1,2,2.750,3.200,2.500
-67681878,2026-05-24 16:30,Deportes Concepcion,Huachipato,2,0,2.500,3.300,2.700
-67682112,2026-05-24 19:00,Deportes La Serena,Deportes Limache,4,1,,,
-67681866,2026-05-24 22:00,CD Universidad Catolica,Colo-Colo,1,2,2.250,3.300,3.100
-67681894,2026-05-29 22:00,Cobresal,Nublense,0,1,2.625,3.400,2.550
-67681888,2026-05-30 00:30,Universidad de Concepcion,Deportes Union La Calera,0,0,2.550,3.300,2.625
-67681882,2026-05-30 19:00,Deportes La Serena,Colo-Colo,2,4,3.100,3.300,2.150
-67681896,2026-05-30 21:30,Universidad de Chile,Deportes Concepcion,2,1,1.650,3.900,4.750
-67681886,2026-05-31 16:30,Deportes Limache,Coquimbo Unido,2,3,2.600,3.300,2.600
-67681884,2026-05-31 19:00,Huachipato,CD Universidad Catolica,0,3,3.500,3.500,2.050
-67681890,2026-05-31 21:30,CD O´Higgins,CD Everton Vina del Mar,2,3,1.800,3.500,4.200
-67681892,2026-06-01 00:00,CD Palestino,Audax Italiano,0,0,1.850,3.700,3.750
-67681902,2026-06-13 00:00,Audax,Deportes La Serena,1,1,1.900,3.500,3.900
-67681908,2026-06-13 16:30,Coquimbo,O´Higgins,0,0,1.750,3.700,4.500
-67681906,2026-06-13 19:00,Everton,Palestino,1,2,2.550,3.100,2.800
-67681900,2026-06-13 21:30,Colo-Colo,Cobresal,3,0,1.250,6.000,9.500
-67681910,2026-06-14 00:00,Nublense,Huachipato,2,2,2.000,3.200,4.000
-67681904,2026-06-14 16:30,D. Concepcion,Deportes Limache,3,2,2.450,3.500,2.625
-67681898,2026-06-14 19:00,Union La Calera,U de Chile,2,2,4.500,3.500,1.750
-67681912,2026-06-14 21:30,Universidad Catolica,U de Concepcion,5,1,1.420,4.333,7.000
-71605992,2026-06-19 00:00,U de Chile,O´Higgins,2,0,2.050,3.300,3.500
-67681914,2026-07-25 00:30,Colo-Colo,Deportes Limache,3,1,1.571,4.000,5.250
-67681928,2026-07-25 21:30,Huachipato,Cobresal,3,3,1.500,3.900,6.250
-67681916,2026-07-26 00:00,CD Universidad Catolica,Deportes La Serena,3,3,1.420,4.750,6.500
-72449378,2026-07-26 19:00,Nublense,CD Palestino,2,0,2.300,3.200,3.000
-67681922,2026-07-26 21:30,Audax Italiano,Universidad de Chile,1,2,3.500,3.600,1.950
-68313036,2026-07-27 00:30,Deportes Concepcion,CD O´Higgins,2,0,1.800,3.500,4.333
-73085250,2026-07-27 23:00,Deportes Union La Calera,CD Everton Vina del Mar,1,1,2.750,3.200,2.450
-67681944,2026-08-01 00:00,Universidad de Concepcion,Audax Italiano,0,1,2.550,3.400,2.550
-67681932,2026-08-01 16:30,Cobresal,Deportes Union La Calera,4,0,2.250,3.250,3.100
-67681936,2026-08-01 19:00,CD Everton Vina del Mar,Colo-Colo,3,4,3.100,3.500,2.150
-72449380,2026-08-01 21:30,CD Palestino,Coquimbo Unido,2,1,3.100,3.200,2.250
-67681942,2026-08-02 16:30,Deportes Concepcion,CD Universidad Catolica,3,0,3.100,3.400,2.200
-67681934,2026-08-02 19:00,Deportes La Serena,CD O´Higgins,1,2,2.400,3.500,2.750
-67681930,2026-08-02 21:30,Universidad de Chile,Huachipato,2,0,1.500,4.333,5.750
-67681948,2026-08-08 00:30,CD Universidad Catolica,Cobresal,2,0,1.333,5.250,8.000
-67681958,2026-08-08 19:00,Huachipato,CD Everton Vina del Mar,1,4,3.000,3.400,2.250
-67681950,2026-08-08 21:30,Coquimbo Unido,Deportes La Serena,1,1,1.650,3.700,5.000
-67681960,2026-08-09 16:30,Deportes Concepcion,Universidad de Concepcion,1,0,2.000,3.200,3.900
-67681956,2026-08-09 19:00,CD O´Higgins,Deportes Limache,1,3,1.950,3.500,3.700
-67681952,2026-08-09 21:30,Deportes Union La Calera,Colo-Colo,1,2,4.333,3.900,1.727
-67681946,2026-08-10 00:00,Universidad de Chile,CD Palestino,2,1,1.600,3.800,5.250
-67681954,2026-08-11 00:00,Audax Italiano,Nublense,2,2,2.350,3.100,3.000
-67681976,2026-08-14 23:00,Universidad de Concepcion,Deportes La Serena,0,2,2.250,3.400,2.875
-67681970,2026-08-15 21:30,Deportes Limache,Universidad de Chile,1,3,3.900,3.700,1.800
-67681968,2026-08-16 00:00,CD Everton Vina del Mar,Audax Italiano,1,1,1.833,3.600,4.000
-67681974,2026-08-16 16:30,Nublense,Deportes Union La Calera,2,1,1.750,3.400,4.750
-67681964,2026-08-16 19:00,Cobresal,Deportes Concepcion,0,2,2.300,3.250,3.000
-67681962,2026-08-16 21:30,Colo-Colo,CD O´Higgins,2,2,1.600,3.800,5.250
-67681972,2026-08-18 00:30,CD Palestino,Huachipato,5,1,1.615,3.750,5.000
-67681986,2026-08-22 00:30,Audax Italiano,Deportes Union La Calera,0,0,2.050,3.400,3.300
-67681990,2026-08-22 21:30,Huachipato,Deportes Limache,1,3,2.450,3.400,2.700
-67681980,2026-08-23 00:00,CD Universidad Catolica,Nublense,1,2,1.650,3.500,5.750
-67681982,2026-08-23 16:00,Deportes La Serena,Cobresal,3,3,1.500,4.333,5.500
-67681992,2026-08-23 16:00,Deportes Concepcion,Coquimbo Unido,1,1,2.700,2.875,2.800
-67681978,2026-08-23 19:00,Universidad de Chile,Colo-Colo,1,2,2.050,3.600,3.200
-67681988,2026-08-23 23:00,CD O´Higgins,CD Palestino,0,1,1.850,3.500,3.900
-67681984,2026-08-24 23:30,CD Everton Vina del Mar,Universidad de Concepcion,3,1,1.850,3.400,4.000
-67681966,2026-08-26 22:00,Coquimbo Unido,CD Universidad Catolica,1,2,2.300,3.100,3.100
-67681998,2026-08-28 22:30,Cobresal,CD Palestino,2,0,2.700,3.300,2.400
-67682004,2026-08-29 21:30,Deportes Limache,CD Everton Vina del Mar,0,3,2.700,3.400,2.375
-67682006,2026-08-30 00:00,Nublense,Deportes Concepcion,0,1,2.150,2.875,3.700
-67682008,2026-08-30 19:00,Universidad de Concepcion,Universidad de Chile,2,1,4.750,3.600,1.666
-67681994,2026-08-30 21:30,Colo-Colo,Audax Italiano,5,1,1.363,4.750,6.250
-67682000,2026-08-31 00:00,Coquimbo Unido,Huachipato,0,1,1.400,4.333,7.500
-67682002,2026-08-31 22:15,Deportes Union La Calera,Deportes La Serena,0,1,2.200,3.200,3.100
-67681996,2026-09-01 00:45,CD Universidad Catolica,CD O´Higgins,3,2,1.750,3.600,4.100
-73832666,2026-09-02 22:00,Coquimbo Unido,Universidad de Concepcion,1,0,1.666,3.600,5.250
-73832672,2026-09-03 00:30,Deportes Limache,Nublense,2,0,2.700,3.400,2.450
-67682024,2026-09-05 00:30,Deportes Concepcion,Audax Italiano,0,1,2.150,3.200,3.300
-67682014,2026-09-05 21:30,CD Everton Vina del Mar,CD Universidad Catolica,0,1,2.450,3.400,2.700
-67682010,2026-09-06 00:00,Universidad de Chile,Coquimbo Unido,4,2,2.000,3.300,3.700
-67682012,2026-09-06 15:30,Deportes La Serena,Nublense,2,1,2.400,3.200,2.800
-67682020,2026-09-06 17:45,CD O´Higgins,Deportes Union La Calera,2,1,1.850,3.400,3.800
-67682022,2026-09-06 20:00,Huachipato,Colo-Colo,0,0,5.250,4.500,1.480
-67682018,2026-09-06 22:30,CD Palestino,Universidad de Concepcion,2,1,1.700,3.600,4.333
-67682016,2026-09-07 23:00,Deportes Limache,Cobresal,3,0,1.450,4.750,5.500
-67682038,2026-09-12 15:30,Nublense,CD Everton Vina del Mar,1,3,2.800,3.200,2.450
-67682028,2026-09-12 18:00,Cobresal,Coquimbo Unido,3,2,3.000,3.500,2.200
-67682036,2026-09-12 23:00,CD Palestino,CD Universidad Catolica,2,3,3.400,3.400,2.100
-67682030,2026-09-13 18:00,Deportes La Serena,Universidad de Chile,0,3,3.600,3.600,1.909
-67682026,2026-09-13 20:30,Colo-Colo,Deportes Concepcion,1,1,1.444,4.200,6.500
-67682034,2026-09-13 23:00,Audax Italiano,CD O´Higgins,1,0,2.700,3.300,2.450
-67682032,2026-09-14 23:30,Deportes Union La Calera,Deportes Limache,1,0,2.500,3.400,2.550
-74604984,2026-10-02 23:00,Universidad de Concepcion,Huachipato,0,2,2.200,3.400,3.000
-67682046,2026-10-10 18:00,Cobresal,Universidad de Concepcion,1,1,1.666,3.900,4.500
-67682054,2026-10-10 20:30,Huachipato,CD O´Higgins,2,0,2.550,3.400,2.550
-67682050,2026-10-11 15:30,CD Everton Vina del Mar,Deportes La Serena,3,2,1.666,3.750,4.750
-67682048,2026-10-11 18:00,Coquimbo Unido,Colo-Colo,5,2,2.875,3.400,2.350
-67682056,2026-10-11 20:30,Deportes Concepcion,Deportes Union La Calera,1,1,2.000,3.400,3.600
-67682052,2026-10-11 23:00,Deportes Limache,CD Palestino,2,2,2.250,3.500,2.875
-75004118,2026-10-12 20:00,Universidad de Chile,Nublense,6,0,1.571,3.800,5.500
-67682064,2026-10-23 23:00,Audax Italiano,Huachipato,1,1,2.050,3.400,3.400
-67682060,2026-10-24 15:30,Deportes La Serena,Deportes Concepcion,3,1,2.300,3.400,2.900
-67682068,2026-10-24 23:00,CD O´Higgins,Cobresal,1,1,1.533,4.100,5.750
-67682070,2026-10-25 15:30,Nublense,Coquimbo Unido,2,1,3.000,3.100,2.375
-67682062,2026-10-25 18:00,Deportes Union La Calera,CD Universidad Catolica,3,1,3.500,3.500,2.000
-67682066,2026-10-25 20:30,CD Palestino,Colo-Colo,1,1,4.333,3.800,1.727
-67682072,2026-10-25 23:00,Universidad de Concepcion,Deportes Limache,0,1,2.500,3.600,2.550
-67682058,2026-10-26 21:00,Universidad de Chile,CD Everton Vina del Mar,4,1,1.750,3.750,4.000
-75812200,2026-10-28 23:30,CD Universidad Catolica,Audax Italiano,1,1,1.650,3.700,5.000
-67682074,2026-10-30 22:00,Colo-Colo,Universidad de Concepcion,6,1,1.363,4.750,7.000
-67682080,2026-10-30 22:00,Coquimbo Unido,Deportes Union La Calera,1,0,1.650,3.700,4.750
-67682084,2026-10-31 21:00,CD O´Higgins,Nublense,1,0,1.950,3.300,3.600
-67682086,2026-11-01 15:00,Huachipato,Deportes La Serena,0,0,2.700,3.400,2.400
-67682076,2026-11-01 15:30,CD Universidad Catolica,Universidad de Chile,1,0,3.200,3.400,2.100
-67682078,2026-11-01 18:00,Cobresal,CD Everton Vina del Mar,2,2,2.200,3.500,2.900
-67682082,2026-11-02 21:00,Deportes Limache,Audax Italiano,2,0,2.050,3.500,3.300
-67682088,2026-11-02 23:30,Deportes Concepcion,CD Palestino,1,0,2.625,3.200,2.625
-67682094,2026-11-07 18:00,Deportes La Serena,CD Palestino,1,0,2.350,3.250,3.000
-67682098,2026-11-07 20:30,CD Everton Vina del Mar,Deportes Concepcion,0,2,1.615,3.750,5.000
-67682092,2026-11-08 15:30,CD Universidad Catolica,Deportes Limache,3,0,1.571,4.000,5.250
-67682100,2026-11-08 15:30,Audax Italiano,Coquimbo Unido,0,1,3.200,3.250,2.200
-67682090,2026-11-08 18:00,Universidad de Chile,Cobresal,2,1,1.222,5.750,11.000
-67682102,2026-11-08 18:00,Nublense,Colo-Colo,1,2,3.750,3.400,1.909
-67682096,2026-11-08 20:30,Deportes Union La Calera,Huachipato,1,0,2.000,3.600,3.300
-67682104,2026-11-08 23:00,Universidad de Concepcion,CD O´Higgins,3,2,2.800,3.300,2.400
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+57380285,2025-05-23 22:00,Deportes Limache,Universidad de Chile,2,0,,,,,,
+57380287,2025-05-24 19:00,CD Everton Vina del Mar,Cobresal,2,2,,,,,,
+57380293,2025-05-24 21:30,Colo-Colo,Union Espanola,4,1,,,,,,
+57380295,2025-05-25 00:00,Coquimbo Unido,CD Palestino,0,0,,,,,,
+57380297,2025-05-25 16:30,Nublense,CD O´Higgins,0,1,,,,,,
+57380289,2025-05-25 19:00,CD Universidad Catolica,Deportes La Serena,1,3,,,,,,
+57380291,2025-05-26 00:00,Deportes Iquique,Deportes Union La Calera,0,1,,,,,,
+57380299,2025-05-26 23:30,Audax Italiano,Huachipato,4,3,,,,,,
+57380307,2025-05-31 16:30,Deportes La Serena,Coquimbo Unido,2,4,,,,,,
+57380315,2025-05-31 16:30,Huachipato,Nublense,0,1,,,,,,
+57380313,2025-05-31 19:00,Universidad de Chile,CD O´Higgins,6,0,,,,,,
+57380311,2025-06-01 00:00,CD Everton Vina del Mar,Audax Italiano,1,1,,,,,,
+57380303,2025-06-01 19:00,CD Palestino,CD Universidad Catolica,1,1,,,,,,
+57380301,2025-06-01 21:30,Deportes Union La Calera,Colo-Colo,0,1,,,,,,
+57380305,2025-06-02 22:00,Cobresal,Deportes Iquique,2,1,,,,,,
+57380309,2025-06-03 19:00,Union Espanola,Deportes Limache,2,2,,,,,,
+57380221,2025-06-13 00:00,Deportes Iquique,Colo-Colo,2,2,,,,,,
+57380323,2025-06-14 00:00,Deportes Limache,Deportes Union La Calera,0,1,,,,,,
+57380321,2025-06-14 16:30,CD Palestino,Deportes La Serena,2,1,,,,,,
+57380335,2025-06-14 19:00,CD Universidad Catolica,Huachipato,1,0,,,,,,
+57380333,2025-06-15 16:30,CD O´Higgins,Union Espanola,1,0,,,,,,
+57380317,2025-06-15 19:00,Coquimbo Unido,Universidad de Chile,1,0,,,,,,
+57380331,2025-06-16 00:00,Nublense,Audax Italiano,2,3,,,,,,
+57380325,2025-06-17 00:00,Deportes Iquique,CD Everton Vina del Mar,1,2,,,,,,
+57380319,2025-06-17 22:00,Colo-Colo,Cobresal,4,0,,,,,,
+57380339,2025-06-20 21:30,Deportes Union La Calera,CD Universidad Catolica,1,1,,,,,,
+57380343,2025-06-21 16:30,Union Espanola,Coquimbo Unido,0,2,,,,,,
+57380341,2025-06-21 19:00,Universidad de Chile,Deportes Iquique,3,1,,,,,,
+57380347,2025-06-21 21:30,Huachipato,CD Palestino,2,2,,,,,,
+57380345,2025-06-22 16:30,Deportes La Serena,Deportes Limache,1,1,,,,,,
+57380337,2025-06-22 19:00,Audax Italiano,Colo-Colo,2,1,,,,,,
+57380351,2025-06-22 21:30,Cobresal,Nublense,1,1,,,,,,
+57380349,2025-06-23 00:00,CD Everton Vina del Mar,CD O´Higgins,0,1,,,,,,
+61071971,2025-07-05 19:00,Union Espanola,Universidad de Chile,0,2,,,,,,
+60862725,2025-07-06 19:00,CD Universidad Catolica,Colo-Colo,2,0,,,,,,
+60862729,2025-07-12 19:00,Universidad de Chile,Colo-Colo,2,1,,,,,,
+57380359,2025-07-18 23:00,CD Everton Vina del Mar,Deportes Limache,0,0,,,,,,
+57380363,2025-07-19 16:30,Union Espanola,Deportes Union La Calera,3,1,,,,,,
+57380353,2025-07-19 19:00,Colo-Colo,Deportes La Serena,2,1,,,,,,
+57380357,2025-07-19 21:30,Coquimbo Unido,Deportes Iquique,4,1,,,,,,
+57380361,2025-07-20 16:30,Audax Italiano,CD Universidad Catolica,1,1,,,,,,
+57380365,2025-07-20 19:00,Nublense,Universidad de Chile,2,2,,,,,,
+57380367,2025-07-21 23:00,Huachipato,CD O´Higgins,2,1,,,,,,
+57380379,2025-07-25 23:00,Deportes Limache,Nublense,0,1,,,,,,
+57380373,2025-07-26 19:00,Deportes La Serena,Cobresal,0,2,,,,,,
+57380377,2025-07-26 21:30,CD Everton Vina del Mar,Huachipato,4,1,,,,,,
+57380383,2025-07-27 16:30,CD O´Higgins,Colo-Colo,1,1,,,,,,
+57380369,2025-07-27 19:00,CD Universidad Catolica,Coquimbo Unido,0,3,,,,,,
+57380381,2025-07-27 19:00,CD Palestino,Union Espanola,1,0,,,,,,
+57380371,2025-07-27 22:00,Deportes Iquique,Audax Italiano,1,0,,,,,,
+57380375,2025-07-28 22:00,Deportes Union La Calera,Universidad de Chile,0,4,,,,,,
+57380393,2025-08-01 23:00,Audax Italiano,CD Palestino,1,1,,,,,,
+57380395,2025-08-02 16:30,Union Espanola,Deportes La Serena,1,0,,,,,,
+57380391,2025-08-02 19:00,Coquimbo Unido,Deportes Limache,2,1,,,,,,
+57380389,2025-08-02 21:30,Deportes Iquique,CD Universidad Catolica,2,2,,,,,,
+57380397,2025-08-03 16:30,CD O´Higgins,Deportes Union La Calera,1,0,,,,,,
+57380387,2025-08-03 19:00,Colo-Colo,Huachipato,2,2,,,,,,
+57380399,2025-08-03 21:30,Nublense,CD Everton Vina del Mar,1,0,,,,,,
+57380385,2025-08-04 22:00,Universidad de Chile,Cobresal,0,1,,,,,,
+57380413,2025-08-08 19:00,CD Palestino,Deportes Iquique,2,0,,,,,,
+57380415,2025-08-09 16:30,Huachipato,Deportes Union La Calera,1,0,,,,,,
+57380401,2025-08-09 19:00,Universidad de Chile,Union Espanola,4,1,,,,,,
+57380407,2025-08-09 21:30,Deportes La Serena,CD O´Higgins,3,3,,,,,,
+57380409,2025-08-10 16:30,CD Everton Vina del Mar,Colo-Colo,1,1,,,,,,
+57380405,2025-08-10 19:00,Cobresal,Coquimbo Unido,1,2,,,,,,
+57380411,2025-08-11 23:00,Deportes Limache,Audax Italiano,4,0,,,,,,
+57380425,2025-08-15 19:00,Union Espanola,Deportes Iquique,2,2,,,,,,
+57380421,2025-08-16 00:00,Deportes Union La Calera,Deportes La Serena,1,1,,,,,,
+57380429,2025-08-16 16:00,Nublense,CD Palestino,1,0,,,,,,
+57380417,2025-08-16 19:00,Colo-Colo,CD Universidad Catolica,1,4,,,,,,
+57380427,2025-08-16 22:30,CD O´Higgins,Cobresal,1,0,,,,,,
+57380179,2025-08-17 16:30,Universidad de Chile,Audax Italiano,1,3,,,,,,
+57380431,2025-08-17 19:00,Huachipato,Deportes Limache,4,0,,,,,,
+57380419,2025-08-17 21:30,Coquimbo Unido,CD Everton Vina del Mar,2,1,,,,,,
+57380447,2025-08-22 19:00,CD Palestino,Colo-Colo,0,0,,,,,,
+57380443,2025-08-23 00:30,Deportes Limache,CD O´Higgins,2,2,,,,,,
+57380439,2025-08-23 19:00,Cobresal,Deportes Union La Calera,1,0,,,,,,
+57380445,2025-08-23 21:30,Audax Italiano,Coquimbo Unido,0,1,,,,,,
+57380435,2025-08-24 00:00,CD Universidad Catolica,Union Espanola,2,0,,,,,,
+57380441,2025-08-24 16:30,Deportes La Serena,Huachipato,0,2,,,,,,
+57380437,2025-08-24 21:30,Deportes Iquique,Nublense,0,2,,,,,,
+57380457,2025-08-28 23:00,CD Everton Vina del Mar,Deportes La Serena,3,1,,,,,,
+57380455,2025-08-29 23:00,Deportes Union La Calera,CD Palestino,1,2,,,,,,
+57380463,2025-08-30 16:30,Huachipato,Coquimbo Unido,0,1,,,,,,
+57380459,2025-08-30 19:00,CD O´Higgins,Audax Italiano,3,2,,,,,,
+57380451,2025-08-30 21:30,CD Universidad Catolica,Cobresal,2,1,,,,,,
+57380453,2025-08-31 00:00,Deportes Iquique,Deportes Limache,2,1,,,,,,
+57380449,2025-08-31 19:00,Colo-Colo,Universidad de Chile,1,0,,,,,,
+57380461,2025-08-31 22:30,Nublense,Union Espanola,1,2,,,,,,
+57380355,2025-09-07 18:00,Cobresal,CD Palestino,2,1,,,,,,
+57380471,2025-09-12 21:00,Coquimbo Unido,Nublense,2,1,,,,,,
+57380473,2025-09-12 23:30,Deportes Union La Calera,CD Everton Vina del Mar,1,0,,,,,,
+57380477,2025-09-13 15:30,Union Espanola,Audax Italiano,3,4,,,,,,
+57380479,2025-09-13 18:00,CD Palestino,CD O´Higgins,1,2,,,,,,
+57380467,2025-09-13 20:30,Cobresal,Huachipato,3,2,,,,,,
+57380475,2025-09-13 23:00,Deportes Limache,CD Universidad Catolica,0,1,,,,,,
+57380465,2025-09-26 22:00,Colo-Colo,Deportes Iquique,4,0,,,,,,
+57380469,2025-09-28 18:00,Deportes La Serena,Universidad de Chile,1,1,,,,,,
+62892107,2025-10-09 23:30,CD Universidad Catolica,Nublense,1,0,,,,,,
+57380493,2025-10-12 15:00,Union Espanola,Huachipato,4,2,,,,,,
+57380481,2025-10-13 19:00,Universidad de Chile,CD Palestino,2,1,,,,,,
+57380491,2025-10-17 21:00,Audax Italiano,Deportes Union La Calera,4,3,,,,,,
+57380483,2025-10-17 23:30,Deportes Iquique,CD O´Higgins,2,3,,,,,,
+57380251,2025-10-18 18:00,Deportes La Serena,Nublense,1,1,,,,,,
+57380489,2025-10-18 20:30,Deportes Limache,Cobresal,2,0,,,,,,
+57380485,2025-10-19 15:30,Coquimbo Unido,Colo-Colo,1,0,,,,,,
+57380487,2025-10-19 18:00,CD Everton Vina del Mar,CD Universidad Catolica,0,3,,,,,,
+57380507,2025-10-24 20:00,CD Palestino,CD Everton Vina del Mar,2,1,,,,,,
+57380503,2025-10-25 18:00,Deportes La Serena,Audax Italiano,2,1,,,,,,
+57380511,2025-10-25 20:30,Huachipato,Deportes Iquique,1,1,,,,,,
+57380499,2025-10-26 15:30,CD Universidad Catolica,Universidad de Chile,1,0,,,,,,
+57380501,2025-10-26 19:00,Cobresal,Union Espanola,1,0,,,,,,
+57380505,2025-10-26 21:30,Deportes Union La Calera,Nublense,3,0,,,,,,
+57380509,2025-10-26 21:30,CD O´Higgins,Coquimbo Unido,0,1,,,,,,
+57380497,2025-10-27 21:00,Colo-Colo,Deportes Limache,2,2,,,,,,
+57380525,2025-10-31 18:00,Audax Italiano,Cobresal,1,2,,,,,,
+57380517,2025-10-31 20:30,Deportes Iquique,Deportes La Serena,1,2,,,,,,
+57380527,2025-11-01 21:00,Nublense,Colo-Colo,0,1,,,,,,
+60370351,2025-11-02 15:30,Huachipato,Universidad de Chile,1,0,,,,,,
+57380515,2025-11-02 20:30,CD Universidad Catolica,CD O´Higgins,0,2,,,,,,
+57380519,2025-11-02 20:30,Coquimbo Unido,Deportes Union La Calera,2,0,,,,,,
+57380521,2025-11-02 23:30,CD Everton Vina del Mar,Union Espanola,0,0,,,,,,
+60523765,2025-11-03 22:00,CD Palestino,Deportes Limache,2,1,,,,,,
+64565282,2025-11-05 20:30,Universidad de Chile,CD Everton Vina del Mar,2,0,,,,,,
+57380535,2025-11-07 23:00,Deportes Union La Calera,Deportes Iquique,1,2,,,,,,
+57380533,2025-11-08 15:30,Deportes La Serena,CD Universidad Catolica,0,1,,,,,,
+57380537,2025-11-08 18:00,Union Espanola,Colo-Colo,1,2,,,,,,
+57380539,2025-11-08 20:30,CD Palestino,Coquimbo Unido,1,2,,,,,,
+57380541,2025-11-08 23:30,CD O´Higgins,Nublense,4,2,,,,,,
+57380543,2025-11-09 18:00,Huachipato,Audax Italiano,2,1,,,,,,
+57380529,2025-11-09 20:30,Universidad de Chile,Deportes Limache,4,3,,,,,,
+57380531,2025-11-09 23:00,Cobresal,CD Everton Vina del Mar,1,2,,,,,,
+57380549,2025-11-21 23:00,Deportes Iquique,Cobresal,2,1,,,,,,
+57380553,2025-11-21 23:00,Deportes Limache,Union Espanola,1,0,,,,,,
+57380555,2025-11-21 23:00,Audax Italiano,CD Everton Vina del Mar,2,0,,,,,,
+57380551,2025-11-22 21:00,Coquimbo Unido,Deportes La Serena,2,1,,,,,,
+57380547,2025-11-22 23:30,CD Universidad Catolica,CD Palestino,2,1,,,,,,
+57380557,2025-11-23 21:00,CD O´Higgins,Universidad de Chile,0,1,,,,,,
+57380545,2025-11-23 23:30,Colo-Colo,Deportes Union La Calera,4,1,,,,,,
+57380559,2025-11-24 23:00,Nublense,Huachipato,0,1,,,,,,
+57380563,2025-11-28 21:30,Cobresal,Colo-Colo,3,0,,,,,,
+57380575,2025-11-29 15:00,Huachipato,CD Universidad Catolica,0,0,,,,,,
+57380565,2025-11-29 21:00,Deportes La Serena,CD Palestino,0,3,,,,,,
+57380567,2025-11-30 21:00,Deportes Union La Calera,Deportes Limache,0,1,,,,,,
+57380569,2025-11-30 21:00,CD Everton Vina del Mar,Deportes Iquique,0,1,,,,,,
+57380573,2025-11-30 21:00,Union Espanola,CD O´Higgins,2,4,,,,,,
+66059030,2025-12-01 23:00,Audax Italiano,Nublense,1,0,,,,,,
+57380561,2025-12-02 21:00,Universidad de Chile,Coquimbo Unido,1,1,,,,,,
+57380587,2025-12-05 23:00,CD Palestino,Huachipato,2,2,,,,,,
+57380579,2025-12-06 21:00,CD Universidad Catolica,Deportes Union La Calera,2,1,,,,,,
+57380581,2025-12-06 21:00,Deportes Iquique,Universidad de Chile,2,3,,,,,,
+57380583,2025-12-06 21:00,Coquimbo Unido,Union Espanola,4,2,,,,,,
+57380585,2025-12-06 21:00,Deportes Limache,Deportes La Serena,1,0,,,,,,
+57380589,2025-12-06 21:00,CD O´Higgins,CD Everton Vina del Mar,1,0,,,,,,
+57380577,2025-12-07 21:00,Colo-Colo,Audax Italiano,1,2,,,,,,
+57380591,2025-12-07 21:00,Nublense,Cobresal,5,0,,,,,,
+67681682,2026-01-30 23:00,Universidad de Chile,Audax Italiano,0,0,1.500,4.000,6.250,2.5,1.900,1.900
+67681674,2026-01-31 15:00,Deportes Limache,Colo-Colo,3,1,3.300,3.500,2.050,2.5,1.800,2.000
+67681678,2026-01-31 18:30,Universidad de Concepcion,Coquimbo Unido,1,0,3.200,3.200,2.300,2.5,1.875,1.925
+67681688,2026-01-31 21:00,Cobresal,Huachipato,1,0,2.200,3.300,3.200,2.75,2.000,1.800
+67681676,2026-02-01 21:00,Deportes La Serena,CD Universidad Catolica,2,2,3.900,3.300,1.950,2.25,1.825,1.975
+67681686,2026-02-01 23:30,CD Palestino,Nublense,1,1,2.100,3.250,3.500,2.25,1.975,1.825
+67681680,2026-02-02 21:00,CD Everton Vina del Mar,Deportes Union La Calera,3,0,1.900,3.250,4.100,2.25,1.975,1.825
+67681924,2026-02-02 23:30,CD O´Higgins,Deportes Concepcion,2,1,1.750,3.600,4.333,2.5,1.925,1.875
+67681704,2026-02-06 23:00,Audax Italiano,Universidad de Concepcion,3,0,2.200,3.250,3.300,2.25,1.875,1.925
+67681700,2026-02-07 15:00,Coquimbo Unido,CD Palestino,3,1,2.300,2.750,3.700,2.25,1.900,1.900
+67681694,2026-02-07 21:00,CD O´Higgins,Deportes La Serena,1,0,1.700,3.600,4.500,2.5,1.900,1.900
+67681696,2026-02-07 23:30,Colo-Colo,CD Everton Vina del Mar,2,0,1.615,3.400,4.750,2.5,2.000,1.800
+67681690,2026-02-08 15:00,Huachipato,Universidad de Chile,2,1,4.100,3.600,1.800,2.5,2.025,1.775
+67681698,2026-02-08 21:00,Nublense,Deportes Limache,1,1,1.909,3.250,4.333,2.5,1.975,1.825
+67681702,2026-02-08 23:30,CD Universidad Catolica,Deportes Concepcion,2,0,1.571,3.900,4.750,2.5,1.800,2.000
+67681692,2026-02-09 23:00,Deportes Union La Calera,Cobresal,0,3,1.900,3.400,3.700,2.5,1.950,1.850
+67681720,2026-02-13 21:00,CD Everton Vina del Mar,Huachipato,0,3,2.300,3.250,3.100,2.25,1.825,1.975
+67681710,2026-02-13 23:30,CD Palestino,Universidad de Chile,0,0,3.400,3.500,2.050,2.5,1.800,2.000
+67681706,2026-02-14 15:00,Deportes La Serena,Coquimbo Unido,0,1,3.300,3.200,2.200,2.25,1.800,2.000
+67681718,2026-02-14 21:00,Deportes Limache,CD O´Higgins,2,1,2.500,3.400,2.600,2.5,1.925,1.875
+67681712,2026-02-14 23:30,Cobresal,CD Universidad Catolica,3,2,4.100,3.300,1.900,2.5,1.975,1.825
+67681708,2026-02-15 15:00,Universidad de Concepcion,Deportes Concepcion,2,1,2.150,3.500,3.200,2.5,1.900,1.900
+67681716,2026-02-15 21:00,Nublense,Audax Italiano,1,0,2.000,3.400,3.500,2.25,1.800,2.000
+67681714,2026-02-15 23:30,Colo-Colo,Deportes Union La Calera,1,0,1.533,4.200,5.750,2.5,1.875,1.925
+67681734,2026-02-20 21:00,Deportes Union La Calera,Nublense,0,1,2.625,3.200,2.625,2.25,1.950,1.850
+67681724,2026-02-20 23:30,Deportes Concepcion,Cobresal,1,1,1.750,3.750,4.000,2.5,1.825,1.975
+67681732,2026-02-21 15:00,Huachipato,CD Palestino,2,1,2.500,3.100,2.600,2.25,1.950,1.850
+67681722,2026-02-21 21:00,CD O´Higgins,Colo-Colo,0,1,2.450,3.300,2.600,2.5,2.025,1.775
+67681726,2026-02-21 23:30,CD Universidad Catolica,Coquimbo Unido,3,1,1.909,3.200,3.800,2.25,1.975,1.825
+67681736,2026-02-22 15:00,Deportes La Serena,Universidad de Concepcion,1,1,2.300,3.400,2.700,2.25,1.850,1.950
+67681728,2026-02-22 21:00,Audax Italiano,CD Everton Vina del Mar,1,0,2.150,3.100,3.300,2.25,2.025,1.775
+67681730,2026-02-22 23:30,Universidad de Chile,Deportes Limache,2,2,1.533,4.100,5.750,2.75,1.900,1.900
+67681742,2026-02-27 21:00,Cobresal,Deportes La Serena,0,1,2.600,3.200,2.700,2.5,1.775,2.025
+67681746,2026-02-27 23:30,Deportes Union La Calera,Audax Italiano,3,0,2.300,3.000,3.300,2,1.800,2.000
+67681752,2026-02-28 15:00,Coquimbo Unido,Deportes Concepcion,0,1,1.666,3.600,5.250,2.5,2.000,1.800
+67681750,2026-02-28 21:00,Deportes Limache,Huachipato,3,0,2.100,3.500,3.300,2.5,1.825,1.975
+67681748,2026-02-28 23:30,CD Palestino,CD O´Higgins,4,2,1.909,3.500,3.800,2.25,1.900,1.900
+67681744,2026-03-01 15:00,Universidad de Concepcion,CD Everton Vina del Mar,0,3,2.150,2.900,3.800,2.25,1.825,1.975
+67681738,2026-03-01 21:00,Colo-Colo,Universidad de Chile,0,1,2.400,3.200,3.000,2.5,1.825,1.975
+67681740,2026-03-01 23:30,Nublense,CD Universidad Catolica,1,2,2.700,3.100,2.600,2.25,1.900,1.900
+67681762,2026-03-06 21:00,Deportes La Serena,Deportes Union La Calera,3,0,2.150,3.250,3.500,2.25,2.000,1.800
+67681766,2026-03-06 23:30,Deportes Concepcion,Nublense,0,2,2.400,3.300,2.800,2.25,2.025,1.775
+67681760,2026-03-07 15:00,Huachipato,Coquimbo Unido,1,3,2.500,3.100,2.750,2.25,1.950,1.850
+67681764,2026-03-07 15:00,CD Everton Vina del Mar,Deportes Limache,1,0,2.200,3.400,3.000,2.5,1.875,1.925
+67681754,2026-03-07 21:00,Audax Italiano,Colo-Colo,0,1,3.000,3.300,2.300,2.5,1.925,1.875
+67681756,2026-03-07 23:30,CD O´Higgins,CD Universidad Catolica,1,0,3.200,3.200,2.300,2.5,1.875,1.925
+67681758,2026-03-08 23:30,CD Palestino,Cobresal,4,2,1.550,4.100,6.000,2.5,1.900,1.900
+67681768,2026-03-09 23:00,Universidad de Chile,Universidad de Concepcion,1,1,1.533,4.100,5.500,2.5,1.900,1.900
+67681784,2026-03-13 23:00,Audax Italiano,Deportes Concepcion,3,0,2.050,3.250,3.400,2.25,1.925,1.875
+67681770,2026-03-14 21:00,Coquimbo Unido,Universidad de Chile,0,1,2.050,3.100,3.750,2,1.925,1.875
+67681774,2026-03-14 23:30,CD Universidad Catolica,CD Everton Vina del Mar,2,2,1.500,3.800,6.500,2.5,1.950,1.850
+67681778,2026-03-15 15:00,Universidad de Concepcion,CD Palestino,1,0,2.450,3.400,2.600,2.5,1.900,1.900
+67681776,2026-03-15 21:00,Cobresal,Deportes Limache,2,5,2.200,3.500,3.000,2.75,1.925,1.875
+67681772,2026-03-15 23:30,Nublense,Deportes La Serena,2,2,1.950,3.300,3.700,2.25,1.850,1.950
+67681780,2026-03-16 21:00,Deportes Union La Calera,CD O´Higgins,3,3,2.600,3.200,2.625,2.25,1.850,1.950
+67681782,2026-03-16 23:30,Colo-Colo,Huachipato,2,0,1.480,4.000,6.500,2.75,1.900,1.900
+67681796,2026-04-02 21:00,CD Universidad Catolica,CD Palestino,6,1,1.850,3.500,3.900,2.5,1.800,2.000
+67681788,2026-04-03 20:30,Coquimbo Unido,Cobresal,3,2,1.333,4.500,8.500,2.5,1.875,1.925
+67681794,2026-04-03 23:00,CD O´Higgins,Audax Italiano,2,1,1.850,3.400,3.900,2.25,1.800,2.000
+67681792,2026-04-04 20:30,Deportes Limache,Deportes Union La Calera,4,0,1.800,3.600,3.900,2.5,1.800,2.000
+67681798,2026-04-04 23:00,CD Everton Vina del Mar,Nublense,0,0,2.600,3.100,2.625,2.25,2.000,1.800
+67681786,2026-04-05 19:30,Deportes Concepcion,Colo-Colo,0,1,3.500,3.500,1.900,2.5,1.975,1.825
+67681790,2026-04-05 22:00,Universidad de Chile,Deportes La Serena,4,0,1.600,3.700,5.000,2.25,1.925,1.875
+67681800,2026-04-07 00:00,Huachipato,Universidad de Concepcion,5,1,2.800,3.000,2.500,2.5,2.025,1.775
+67681814,2026-04-11 00:00,CD O´Higgins,Huachipato,0,2,1.850,3.400,3.800,2.5,1.900,1.900
+67681810,2026-04-11 19:00,Deportes La Serena,CD Everton Vina del Mar,1,0,2.200,3.200,3.200,2.25,1.875,1.925
+67681804,2026-04-11 21:30,Audax Italiano,CD Universidad Catolica,3,4,3.250,3.500,2.100,2.25,1.975,1.825
+67681812,2026-04-12 00:00,CD Palestino,Deportes Limache,1,0,2.100,3.400,3.200,2.5,1.800,2.000
+67681802,2026-04-12 21:30,Nublense,Universidad de Chile,1,0,2.700,3.100,2.550,2.25,2.025,1.775
+67681806,2026-04-13 00:00,Universidad de Concepcion,Cobresal,1,0,1.615,3.750,5.000,2.75,2.000,1.800
+67681816,2026-04-14 00:00,Deportes Union La Calera,Deportes Concepcion,1,0,2.200,3.100,3.300,2.25,2.025,1.775
+67681832,2026-04-18 00:00,Deportes Limache,Universidad de Concepcion,3,0,1.727,4.000,4.200,2.75,1.875,1.925
+67681818,2026-04-18 21:30,CD Everton Vina del Mar,Universidad de Chile,0,0,3.400,3.200,2.150,2.25,2.000,1.800
+67681820,2026-04-19 00:00,Deportes Concepcion,Deportes La Serena,3,3,2.700,3.200,2.550,2.25,1.925,1.875
+67681830,2026-04-19 16:30,Coquimbo Unido,Nublense,1,1,1.833,3.300,4.500,2.25,2.000,1.800
+67681828,2026-04-19 19:30,Cobresal,CD O´Higgins,2,3,2.800,3.250,2.450,2.5,2.000,1.800
+67681826,2026-04-19 22:30,Colo-Colo,CD Palestino,0,1,1.666,3.600,5.000,2.5,1.775,2.025
+67681824,2026-04-20 00:45,Huachipato,Audax Italiano,3,2,2.150,3.300,3.300,2.5,2.025,1.775
+67681822,2026-04-21 00:30,CD Universidad Catolica,Deportes Union La Calera,1,2,1.420,4.333,7.000,2.75,1.900,1.900
+67681848,2026-04-24 00:00,CD Palestino,Deportes Concepcion,0,1,1.700,3.500,4.750,2.25,1.900,1.900
+67681840,2026-04-24 22:00,Deportes Union La Calera,Coquimbo Unido,1,2,3.200,3.100,2.250,2.25,2.000,1.800
+67681842,2026-04-25 00:30,Audax Italiano,Deportes Limache,2,2,2.450,3.300,2.625,2.5,1.825,1.975
+67681844,2026-04-25 19:00,Nublense,CD O´Higgins,0,2,2.300,3.200,3.000,2.25,2.025,1.775
+67681836,2026-04-25 22:00,Universidad de Chile,CD Universidad Catolica,1,0,2.500,3.250,2.750,2.25,2.025,1.775
+67681846,2026-04-26 16:30,Deportes La Serena,Huachipato,0,1,1.850,3.500,3.800,2.5,1.875,1.925
+67681834,2026-04-26 19:00,Universidad de Concepcion,Colo-Colo,1,2,3.400,3.400,2.000,2.5,1.950,1.850
+67681838,2026-04-26 21:30,CD Everton Vina del Mar,Cobresal,3,1,1.571,3.700,5.500,2.5,1.950,1.850
+67681808,2026-05-03 21:30,Colo-Colo,Coquimbo Unido,3,1,1.833,3.300,4.333,2.25,1.850,1.950
+67681854,2026-05-16 00:00,CD Palestino,Deportes La Serena,5,1,1.950,3.500,3.500,2.5,1.825,1.975
+67681860,2026-05-16 00:00,Coquimbo Unido,Audax Italiano,3,0,1.571,4.000,5.000,2.5,1.850,1.950
+67681864,2026-05-16 21:30,CD O´Higgins,Universidad de Concepcion,0,1,1.533,4.200,5.500,2.75,1.950,1.850
+67681852,2026-05-17 00:00,Deportes Limache,CD Universidad Catolica,0,2,2.750,3.500,2.450,2.75,2.000,1.800
+67681856,2026-05-17 16:30,Huachipato,Deportes Union La Calera,3,1,2.400,2.875,3.100,2.25,1.900,1.900
+67681850,2026-05-17 19:00,Cobresal,Universidad de Chile,1,0,3.700,3.600,1.850,2.75,2.000,1.800
+67681862,2026-05-17 21:30,Colo-Colo,Nublense,6,2,1.666,3.500,5.000,2.5,2.025,1.775
+67681858,2026-05-18 00:00,Deportes Concepcion,CD Everton Vina del Mar,0,2,2.600,3.200,2.600,2.25,1.975,1.825
+67681870,2026-05-22 19:00,CD Everton Vina del Mar,Coquimbo Unido,1,1,2.900,3.100,2.450,2.25,1.825,1.975
+67681868,2026-05-23 16:30,Audax Italiano,Cobresal,2,1,1.750,3.750,4.200,2.75,1.900,1.900
+67681880,2026-05-23 19:00,Nublense,Universidad de Concepcion,2,2,1.700,3.750,4.750,2.5,1.950,1.850
+67681874,2026-05-24 00:00,Deportes Union La Calera,CD Palestino,1,2,2.750,3.200,2.500,2.25,1.900,1.900
+67681878,2026-05-24 16:30,Deportes Concepcion,Huachipato,2,0,2.500,3.300,2.700,2.5,2.000,1.800
+67682112,2026-05-24 19:00,Deportes La Serena,Deportes Limache,4,1,,,,,,
+67681866,2026-05-24 22:00,CD Universidad Catolica,Colo-Colo,1,2,2.250,3.300,3.100,2.5,1.900,1.900
+67681894,2026-05-29 22:00,Cobresal,Nublense,0,1,2.625,3.400,2.550,2.25,1.825,1.975
+67681888,2026-05-30 00:30,Universidad de Concepcion,Deportes Union La Calera,0,0,2.550,3.300,2.625,2.5,2.000,1.800
+67681882,2026-05-30 19:00,Deportes La Serena,Colo-Colo,2,4,3.100,3.300,2.150,2.75,2.000,1.800
+67681896,2026-05-30 21:30,Universidad de Chile,Deportes Concepcion,2,1,1.650,3.900,4.750,2.75,1.975,1.825
+67681886,2026-05-31 16:30,Deportes Limache,Coquimbo Unido,2,3,2.600,3.300,2.600,2.5,1.825,1.975
+67681884,2026-05-31 19:00,Huachipato,CD Universidad Catolica,0,3,3.500,3.500,2.050,2.5,1.925,1.875
+67681890,2026-05-31 21:30,CD O´Higgins,CD Everton Vina del Mar,2,3,1.800,3.500,4.200,2.5,1.900,1.900
+67681892,2026-06-01 00:00,CD Palestino,Audax Italiano,0,0,1.850,3.700,3.750,2.5,1.975,1.825
+67681902,2026-06-13 00:00,Audax,Deportes La Serena,1,1,1.900,3.500,3.900,2.5,1.800,2.000
+67681908,2026-06-13 16:30,Coquimbo,O´Higgins,0,0,1.750,3.700,4.500,2.5,1.975,1.825
+67681906,2026-06-13 19:00,Everton,Palestino,1,2,2.550,3.100,2.800,2.25,1.800,2.000
+67681900,2026-06-13 21:30,Colo-Colo,Cobresal,3,0,1.250,6.000,9.500,3.25,1.950,1.850
+67681910,2026-06-14 00:00,Nublense,Huachipato,2,2,2.000,3.200,4.000,2.25,1.950,1.850
+67681904,2026-06-14 16:30,D. Concepcion,Deportes Limache,3,2,2.450,3.500,2.625,2.5,1.950,1.850
+67681898,2026-06-14 19:00,Union La Calera,U de Chile,2,2,4.500,3.500,1.750,2.25,1.775,2.025
+67681912,2026-06-14 21:30,Universidad Catolica,U de Concepcion,5,1,1.420,4.333,7.000,2.75,1.800,2.000
+71605992,2026-06-19 00:00,U de Chile,O´Higgins,2,0,2.050,3.300,3.500,2.5,2.000,1.800
+67681914,2026-07-25 00:30,Colo-Colo,Deportes Limache,3,1,1.571,4.000,5.250,3.25,1.975,1.825
+67681928,2026-07-25 21:30,Huachipato,Cobresal,3,3,1.500,3.900,6.250,2.75,1.850,1.950
+67681916,2026-07-26 00:00,CD Universidad Catolica,Deportes La Serena,3,3,1.420,4.750,6.500,3,1.900,1.900
+72449378,2026-07-26 19:00,Nublense,CD Palestino,2,0,2.300,3.200,3.000,2.25,1.775,2.025
+67681922,2026-07-26 21:30,Audax Italiano,Universidad de Chile,1,2,3.500,3.600,1.950,2.75,1.975,1.825
+68313036,2026-07-27 00:30,Deportes Concepcion,CD O´Higgins,2,0,1.800,3.500,4.333,2.5,1.950,1.850
+73085250,2026-07-27 23:00,Deportes Union La Calera,CD Everton Vina del Mar,1,1,2.750,3.200,2.450,2.25,1.900,1.900
+67681944,2026-08-01 00:00,Universidad de Concepcion,Audax Italiano,0,1,2.550,3.400,2.550,2.25,1.825,1.975
+67681932,2026-08-01 16:30,Cobresal,Deportes Union La Calera,4,0,2.250,3.250,3.100,2.25,1.850,1.950
+67681936,2026-08-01 19:00,CD Everton Vina del Mar,Colo-Colo,3,4,3.100,3.500,2.150,2.75,1.975,1.825
+72449380,2026-08-01 21:30,CD Palestino,Coquimbo Unido,2,1,3.100,3.200,2.250,2.25,1.900,1.900
+67681942,2026-08-02 16:30,Deportes Concepcion,CD Universidad Catolica,3,0,3.100,3.400,2.200,2.5,1.900,1.900
+67681934,2026-08-02 19:00,Deportes La Serena,CD O´Higgins,1,2,2.400,3.500,2.750,2.5,1.850,1.950
+67681930,2026-08-02 21:30,Universidad de Chile,Huachipato,2,0,1.500,4.333,5.750,3,2.000,1.800
+67681948,2026-08-08 00:30,CD Universidad Catolica,Cobresal,2,0,1.333,5.250,8.000,3,1.825,1.975
+67681958,2026-08-08 19:00,Huachipato,CD Everton Vina del Mar,1,4,3.000,3.400,2.250,2.5,1.825,1.975
+67681950,2026-08-08 21:30,Coquimbo Unido,Deportes La Serena,1,1,1.650,3.700,5.000,2.5,1.825,1.975
+67681960,2026-08-09 16:30,Deportes Concepcion,Universidad de Concepcion,1,0,2.000,3.200,3.900,2.25,1.900,1.900
+67681956,2026-08-09 19:00,CD O´Higgins,Deportes Limache,1,3,1.950,3.500,3.700,2.75,1.950,1.850
+67681952,2026-08-09 21:30,Deportes Union La Calera,Colo-Colo,1,2,4.333,3.900,1.727,2.5,1.800,2.000
+67681946,2026-08-10 00:00,Universidad de Chile,CD Palestino,2,1,1.600,3.800,5.250,2.5,1.850,1.950
+67681954,2026-08-11 00:00,Audax Italiano,Nublense,2,2,2.350,3.100,3.000,2.25,1.950,1.850
+67681976,2026-08-14 23:00,Universidad de Concepcion,Deportes La Serena,0,2,2.250,3.400,2.875,2.5,1.900,1.900
+67681970,2026-08-15 21:30,Deportes Limache,Universidad de Chile,1,3,3.900,3.700,1.800,3,1.900,1.900
+67681968,2026-08-16 00:00,CD Everton Vina del Mar,Audax Italiano,1,1,1.833,3.600,4.000,2.5,1.900,1.900
+67681974,2026-08-16 16:30,Nublense,Deportes Union La Calera,2,1,1.750,3.400,4.750,2.25,1.825,1.975
+67681964,2026-08-16 19:00,Cobresal,Deportes Concepcion,0,2,2.300,3.250,3.000,2.5,1.900,1.900
+67681962,2026-08-16 21:30,Colo-Colo,CD O´Higgins,2,2,1.600,3.800,5.250,2.75,1.825,1.975
+67681972,2026-08-18 00:30,CD Palestino,Huachipato,5,1,1.615,3.750,5.000,2.75,1.800,2.000
+67681986,2026-08-22 00:30,Audax Italiano,Deportes Union La Calera,0,0,2.050,3.400,3.300,2.5,2.025,1.775
+67681990,2026-08-22 21:30,Huachipato,Deportes Limache,1,3,2.450,3.400,2.700,3,2.025,1.775
+67681980,2026-08-23 00:00,CD Universidad Catolica,Nublense,1,2,1.650,3.500,5.750,2.25,1.800,2.000
+67681982,2026-08-23 16:00,Deportes La Serena,Cobresal,3,3,1.500,4.333,5.500,3,1.850,1.950
+67681992,2026-08-23 16:00,Deportes Concepcion,Coquimbo Unido,1,1,2.700,2.875,2.800,2.25,2.000,1.800
+67681978,2026-08-23 19:00,Universidad de Chile,Colo-Colo,1,2,2.050,3.600,3.200,2.5,1.825,1.975
+67681988,2026-08-23 23:00,CD O´Higgins,CD Palestino,0,1,1.850,3.500,3.900,2.5,1.850,1.950
+67681984,2026-08-24 23:30,CD Everton Vina del Mar,Universidad de Concepcion,3,1,1.850,3.400,4.000,2.5,1.825,1.975
+67681966,2026-08-26 22:00,Coquimbo Unido,CD Universidad Catolica,1,2,2.300,3.100,3.100,2.25,1.950,1.850
+67681998,2026-08-28 22:30,Cobresal,CD Palestino,2,0,2.700,3.300,2.400,2.75,1.900,1.900
+67682004,2026-08-29 21:30,Deportes Limache,CD Everton Vina del Mar,0,3,2.700,3.400,2.375,3,1.875,1.925
+67682006,2026-08-30 00:00,Nublense,Deportes Concepcion,0,1,2.150,2.875,3.700,2,1.875,1.925
+67682008,2026-08-30 19:00,Universidad de Concepcion,Universidad de Chile,2,1,4.750,3.600,1.666,2.5,1.900,1.900
+67681994,2026-08-30 21:30,Colo-Colo,Audax Italiano,5,1,1.363,4.750,6.250,3,1.850,1.950
+67682000,2026-08-31 00:00,Coquimbo Unido,Huachipato,0,1,1.400,4.333,7.500,2.75,1.850,1.950
+67682002,2026-08-31 22:15,Deportes Union La Calera,Deportes La Serena,0,1,2.200,3.200,3.100,2.5,1.825,1.975
+67681996,2026-09-01 00:45,CD Universidad Catolica,CD O´Higgins,3,2,1.750,3.600,4.100,2.75,1.975,1.825
+73832666,2026-09-02 22:00,Coquimbo Unido,Universidad de Concepcion,1,0,1.666,3.600,5.250,2.25,1.775,2.025
+73832672,2026-09-03 00:30,Deportes Limache,Nublense,2,0,2.700,3.400,2.450,2.75,1.975,1.825
+67682024,2026-09-05 00:30,Deportes Concepcion,Audax Italiano,0,1,2.150,3.200,3.300,2.25,1.925,1.875
+67682014,2026-09-05 21:30,CD Everton Vina del Mar,CD Universidad Catolica,0,1,2.450,3.400,2.700,2.75,1.950,1.850
+67682010,2026-09-06 00:00,Universidad de Chile,Coquimbo Unido,4,2,2.000,3.300,3.700,2.5,2.025,1.775
+67682012,2026-09-06 15:30,Deportes La Serena,Nublense,2,1,2.400,3.200,2.800,2.5,2.000,1.800
+67682020,2026-09-06 17:45,CD O´Higgins,Deportes Union La Calera,2,1,1.850,3.400,3.800,2.5,1.800,2.000
+67682022,2026-09-06 20:00,Huachipato,Colo-Colo,0,0,5.250,4.500,1.480,3.25,1.950,1.850
+67682018,2026-09-06 22:30,CD Palestino,Universidad de Concepcion,2,1,1.700,3.600,4.333,2.75,1.850,1.950
+67682016,2026-09-07 23:00,Deportes Limache,Cobresal,3,0,1.450,4.750,5.500,3.5,1.950,1.850
+67682038,2026-09-12 15:30,Nublense,CD Everton Vina del Mar,1,3,2.800,3.200,2.450,2.5,1.975,1.825
+67682028,2026-09-12 18:00,Cobresal,Coquimbo Unido,3,2,3.000,3.500,2.200,2.5,1.900,1.900
+67682036,2026-09-12 23:00,CD Palestino,CD Universidad Catolica,2,3,3.400,3.400,2.100,2.75,1.925,1.875
+67682030,2026-09-13 18:00,Deportes La Serena,Universidad de Chile,0,3,3.600,3.600,1.909,2.75,1.950,1.850
+67682026,2026-09-13 20:30,Colo-Colo,Deportes Concepcion,1,1,1.444,4.200,6.500,2.75,1.825,1.975
+67682034,2026-09-13 23:00,Audax Italiano,CD O´Higgins,1,0,2.700,3.300,2.450,2.5,1.875,1.925
+67682032,2026-09-14 23:30,Deportes Union La Calera,Deportes Limache,1,0,2.500,3.400,2.550,2.75,1.850,1.950
+74604984,2026-10-02 23:00,Universidad de Concepcion,Huachipato,0,2,2.200,3.400,3.000,2.75,1.950,1.850
+67682046,2026-10-10 18:00,Cobresal,Universidad de Concepcion,1,1,1.666,3.900,4.500,2.75,1.775,2.025
+67682054,2026-10-10 20:30,Huachipato,CD O´Higgins,2,0,2.550,3.400,2.550,2.75,1.900,1.900
+67682050,2026-10-11 15:30,CD Everton Vina del Mar,Deportes La Serena,3,2,1.666,3.750,4.750,2.75,1.800,2.000
+67682048,2026-10-11 18:00,Coquimbo Unido,Colo-Colo,5,2,2.875,3.400,2.350,2.75,2.000,1.800
+67682056,2026-10-11 20:30,Deportes Concepcion,Deportes Union La Calera,1,1,2.000,3.400,3.600,2.25,1.875,1.925
+67682052,2026-10-11 23:00,Deportes Limache,CD Palestino,2,2,2.250,3.500,2.875,3,1.975,1.825
+75004118,2026-10-12 20:00,Universidad de Chile,Nublense,6,0,1.571,3.800,5.500,2.75,1.950,1.850
+67682064,2026-10-23 23:00,Audax Italiano,Huachipato,1,1,2.050,3.400,3.400,2.75,1.875,1.925
+67682060,2026-10-24 15:30,Deportes La Serena,Deportes Concepcion,3,1,2.300,3.400,2.900,2.5,1.875,1.925
+67682068,2026-10-24 23:00,CD O´Higgins,Cobresal,1,1,1.533,4.100,5.750,3,1.900,1.900
+67682070,2026-10-25 15:30,Nublense,Coquimbo Unido,2,1,3.000,3.100,2.375,2.5,2.000,1.800
+67682062,2026-10-25 18:00,Deportes Union La Calera,CD Universidad Catolica,3,1,3.500,3.500,2.000,2.5,1.825,1.975
+67682066,2026-10-25 20:30,CD Palestino,Colo-Colo,1,1,4.333,3.800,1.727,3,1.975,1.825
+67682072,2026-10-25 23:00,Universidad de Concepcion,Deportes Limache,0,1,2.500,3.600,2.550,2.75,1.800,2.000
+67682058,2026-10-26 21:00,Universidad de Chile,CD Everton Vina del Mar,4,1,1.750,3.750,4.000,3,2.025,1.775
+75812200,2026-10-28 23:30,CD Universidad Catolica,Audax Italiano,1,1,1.650,3.700,5.000,2.75,1.950,1.850
+67682074,2026-10-30 22:00,Colo-Colo,Universidad de Concepcion,6,1,1.363,4.750,7.000,3.25,1.925,1.875
+67682080,2026-10-30 22:00,Coquimbo Unido,Deportes Union La Calera,1,0,1.650,3.700,4.750,2.5,1.900,1.900
+67682084,2026-10-31 21:00,CD O´Higgins,Nublense,1,0,1.950,3.300,3.600,2.5,1.800,2.000
+67682086,2026-11-01 15:00,Huachipato,Deportes La Serena,0,0,2.700,3.400,2.400,2.75,1.825,1.975
+67682076,2026-11-01 15:30,CD Universidad Catolica,Universidad de Chile,1,0,3.200,3.400,2.100,2.75,1.850,1.950
+67682078,2026-11-01 18:00,Cobresal,CD Everton Vina del Mar,2,2,2.200,3.500,2.900,2.75,1.775,2.025
+67682082,2026-11-02 21:00,Deportes Limache,Audax Italiano,2,0,2.050,3.500,3.300,2.75,1.950,1.850
+67682088,2026-11-02 23:30,Deportes Concepcion,CD Palestino,1,0,2.625,3.200,2.625,2.5,1.900,1.900
+67682094,2026-11-07 18:00,Deportes La Serena,CD Palestino,1,0,2.350,3.250,3.000,2.5,2.000,1.800
+67682098,2026-11-07 20:30,CD Everton Vina del Mar,Deportes Concepcion,0,2,1.615,3.750,5.000,2.5,1.800,2.000
+67682092,2026-11-08 15:30,CD Universidad Catolica,Deportes Limache,3,0,1.571,4.000,5.250,3,1.850,1.950
+67682100,2026-11-08 15:30,Audax Italiano,Coquimbo Unido,0,1,3.200,3.250,2.200,2.5,1.975,1.825
+67682090,2026-11-08 18:00,Universidad de Chile,Cobresal,2,1,1.222,5.750,11.000,3.5,2.000,1.800
+67682102,2026-11-08 18:00,Nublense,Colo-Colo,1,2,3.750,3.400,1.909,2.75,1.875,1.925
+67682096,2026-11-08 20:30,Deportes Union La Calera,Huachipato,1,0,2.000,3.600,3.300,2.5,1.850,1.950
+67682104,2026-11-08 23:00,Universidad de Concepcion,CD O´Higgins,3,2,2.800,3.300,2.400,2.5,1.850,1.950

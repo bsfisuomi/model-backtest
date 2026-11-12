@@ -1,553 +1,553 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-57436779,2025-05-24 06:00,Cerezo Osaka,Avispa Fukuoka,2,0,,,
-57436781,2025-05-24 08:30,Nagoya Grampus,Urawa Red Diamonds,2,1,,,
-57436783,2025-05-25 04:00,Fagiano Okayama,Machida Zelvia,2,2,,,
-57436777,2025-05-25 05:00,Yokohama F Marinos,Kashima Antlers,3,1,,,
-57436785,2025-05-25 05:00,Yokohama FC,Kashiwa Reysol,1,1,,,
-57436787,2025-05-25 05:00,Albirex Niigata,Shonan Bellmare,2,1,,,
-57436789,2025-05-25 05:00,Shimizu S-Pulse,Vissel Kobe,3,2,,,
-57436791,2025-05-25 06:00,FC Tokyo,Sanfrecce Hiroshima,0,3,,,
-57436793,2025-05-25 06:00,Tokyo Verdy,Kyoto Sanga FC,1,0,,,
-57436795,2025-05-25 07:00,Kawasaki Frontale,Gamba Osaka,2,2,,,
-57436857,2025-05-28 10:30,Urawa Red Diamonds,Cerezo Osaka,0,0,,,
-57436797,2025-05-31 05:00,Machida Zelvia,Yokohama F Marinos,0,3,,,
-57436799,2025-05-31 05:00,Nagoya Grampus,Albirex Niigata,3,0,,,
-57436801,2025-05-31 05:00,Avispa Fukuoka,Tokyo Verdy,0,0,,,
-57436803,2025-05-31 07:00,Kashiwa Reysol,Vissel Kobe,1,3,,,
-57436805,2025-05-31 08:30,Sanfrecce Hiroshima,Kawasaki Frontale,1,2,,,
-57436807,2025-05-31 09:00,Gamba Osaka,Kashima Antlers,0,1,,,
-57436809,2025-05-31 10:00,Kyoto Sanga FC,FC Tokyo,3,0,,,
-57436811,2025-06-01 06:00,Shonan Bellmare,Fagiano Okayama,1,1,,,
-57436813,2025-06-01 06:00,Cerezo Osaka,Shimizu S-Pulse,4,2,,,
-57436815,2025-06-01 07:00,Urawa Red Diamonds,Yokohama FC,2,1,,,
-57436819,2025-06-14 08:30,Shonan Bellmare,Machida Zelvia,1,2,,,
-57436821,2025-06-14 09:00,Kashima Antlers,Sanfrecce Hiroshima,1,1,,,
-57436823,2025-06-14 09:00,Yokohama FC,Kawasaki Frontale,0,1,,,
-57436825,2025-06-14 10:00,FC Tokyo,Cerezo Osaka,2,2,,,
-57436827,2025-06-15 05:00,Albirex Niigata,Yokohama F Marinos,1,0,,,
-57436829,2025-06-15 09:00,Tokyo Verdy,Kashiwa Reysol,0,3,,,
-57436831,2025-06-15 09:00,Vissel Kobe,Nagoya Grampus,2,1,,,
-57436833,2025-06-15 09:00,Fagiano Okayama,Avispa Fukuoka,0,1,,,
-57436835,2025-06-15 09:30,Shimizu S-Pulse,Gamba Osaka,0,0,,,
-57436837,2025-06-21 07:00,Machida Zelvia,Kashima Antlers,2,1,,,
-57436839,2025-06-21 07:00,Avispa Fukuoka,Albirex Niigata,3,2,,,
-57436841,2025-06-21 09:30,Cerezo Osaka,Tokyo Verdy,2,1,,,
-57436843,2025-06-21 10:00,Kashiwa Reysol,Kyoto Sanga FC,3,3,,,
-57436845,2025-06-21 10:00,Kawasaki Frontale,Vissel Kobe,1,2,,,
-57436847,2025-06-21 10:00,Yokohama F Marinos,Fagiano Okayama,0,1,,,
-57436849,2025-06-21 10:00,Nagoya Grampus,Shimizu S-Pulse,1,1,,,
-57436851,2025-06-22 09:00,Yokohama FC,Sanfrecce Hiroshima,0,4,,,
-57436853,2025-06-22 09:30,Gamba Osaka,FC Tokyo,2,0,,,
-57436731,2025-06-25 10:00,Kawasaki Frontale,Albirex Niigata,3,1,,,
-57436735,2025-06-25 10:30,Yokohama F Marinos,FC Tokyo,0,3,,,
-57436859,2025-06-28 09:00,Kashima Antlers,Fagiano Okayama,1,2,,,
-57436861,2025-06-28 09:30,Shimizu S-Pulse,Kashiwa Reysol,0,2,,,
-57436863,2025-06-28 10:00,FC Tokyo,Yokohama FC,2,1,,,
-57436865,2025-06-28 10:00,Shonan Bellmare,Yokohama F Marinos,1,1,,,
-57436867,2025-06-28 10:00,Kyoto Sanga FC,Gamba Osaka,3,1,,,
-57436869,2025-06-28 10:00,Sanfrecce Hiroshima,Nagoya Grampus,1,2,,,
-57436871,2025-06-28 10:00,Avispa Fukuoka,Vissel Kobe,0,0,,,
-57436873,2025-06-29 09:00,Tokyo Verdy,Kawasaki Frontale,1,0,,,
-57436875,2025-06-29 09:00,Albirex Niigata,Machida Zelvia,0,4,,,
-56720225,2025-07-02 10:00,Vissel Kobe,Sanfrecce Hiroshima,1,0,,,
-57436877,2025-07-05 09:00,Machida Zelvia,Shimizu S-Pulse,3,0,,,
-57436879,2025-07-05 09:55,Fagiano Okayama,Sanfrecce Hiroshima,0,1,,,
-57436881,2025-07-05 10:00,Kashiwa Reysol,FC Tokyo,1,0,,,
-57436883,2025-07-05 10:00,Kawasaki Frontale,Kashima Antlers,2,1,,,
-57436885,2025-07-05 10:00,Yokohama FC,Yokohama F Marinos,0,1,,,
-57436887,2025-07-05 10:00,Nagoya Grampus,Tokyo Verdy,0,0,,,
-57436889,2025-07-05 10:00,Kyoto Sanga FC,Albirex Niigata,2,1,,,
-57436891,2025-07-05 10:00,Cerezo Osaka,Gamba Osaka,0,1,,,
-57436893,2025-07-05 10:00,Vissel Kobe,Shonan Bellmare,4,0,,,
-57436897,2025-07-19 10:00,FC Tokyo,Urawa Red Diamonds,3,2,,,
-57436899,2025-07-19 10:00,Shonan Bellmare,Cerezo Osaka,3,3,,,
-57436901,2025-07-20 09:00,Kashima Antlers,Kashiwa Reysol,3,2,,,
-57436903,2025-07-20 09:00,Tokyo Verdy,Machida Zelvia,0,1,,,
-57436905,2025-07-20 09:30,Shimizu S-Pulse,Yokohama FC,2,0,,,
-57436907,2025-07-20 10:00,Yokohama F Marinos,Nagoya Grampus,3,0,,,
-57436909,2025-07-20 10:00,Albirex Niigata,Sanfrecce Hiroshima,0,2,,,
-57436911,2025-07-20 10:00,Gamba Osaka,Kawasaki Frontale,2,1,,,
-57436913,2025-07-20 10:00,Fagiano Okayama,Vissel Kobe,1,2,,,
-57436915,2025-07-21 09:00,Avispa Fukuoka,Kyoto Sanga FC,2,2,,,
-57436855,2025-07-23 10:30,Urawa Red Diamonds,Shonan Bellmare,4,1,,,
-57436895,2025-07-27 10:00,Urawa Red Diamonds,Avispa Fukuoka,0,0,,,
-57436917,2025-08-09 09:00,Tokyo Verdy,Yokohama F Marinos,1,0,,,
-57436919,2025-08-09 09:00,Yokohama FC,Urawa Red Diamonds,1,2,,,
-57436921,2025-08-09 10:00,Kawasaki Frontale,Avispa Fukuoka,2,5,,,
-57436923,2025-08-10 09:30,Sanfrecce Hiroshima,Shimizu S-Pulse,0,0,,,
-57436925,2025-08-10 10:00,Kashiwa Reysol,Shonan Bellmare,2,0,,,
-57436927,2025-08-10 10:00,FC Tokyo,Kashima Antlers,0,1,,,
-57436929,2025-08-10 10:00,Machida Zelvia,Vissel Kobe,2,0,,,
-57436931,2025-08-10 10:00,Nagoya Grampus,Kyoto Sanga FC,1,2,,,
-57436933,2025-08-10 10:00,Gamba Osaka,Fagiano Okayama,0,3,,,
-57436935,2025-08-11 10:00,Cerezo Osaka,Albirex Niigata,3,1,,,
-57436937,2025-08-16 09:00,Kashima Antlers,Avispa Fukuoka,1,1,,,
-57436939,2025-08-16 09:30,Shimizu S-Pulse,Yokohama F Marinos,1,3,,,
-57436941,2025-08-16 10:00,Urawa Red Diamonds,Nagoya Grampus,2,1,,,
-57436943,2025-08-16 10:00,Machida Zelvia,Cerezo Osaka,3,0,,,
-57436945,2025-08-16 10:00,Shonan Bellmare,FC Tokyo,2,2,,,
-57436947,2025-08-16 10:00,Albirex Niigata,Kawasaki Frontale,1,1,,,
-57436949,2025-08-16 10:00,Kyoto Sanga FC,Tokyo Verdy,1,0,,,
-57436951,2025-08-16 10:00,Vissel Kobe,Yokohama FC,0,1,,,
-57436953,2025-08-16 10:00,Sanfrecce Hiroshima,Gamba Osaka,1,0,,,
-57436955,2025-08-17 10:30,Fagiano Okayama,Kashiwa Reysol,2,1,,,
-57437017,2025-08-20 10:00,Machida Zelvia,Gamba Osaka,3,1,,,
-57437019,2025-08-20 10:00,Sanfrecce Hiroshima,Vissel Kobe,0,1,,,
-57436957,2025-08-22 10:00,Kashiwa Reysol,Urawa Red Diamonds,4,2,,,
-57436959,2025-08-23 09:00,Avispa Fukuoka,Shimizu S-Pulse,0,0,,,
-57436961,2025-08-23 10:00,Tokyo Verdy,Sanfrecce Hiroshima,0,3,,,
-57436963,2025-08-23 10:00,Albirex Niigata,Kashima Antlers,1,2,,,
-57436965,2025-08-23 10:00,Nagoya Grampus,Kawasaki Frontale,3,4,,,
-57436967,2025-08-23 10:00,Gamba Osaka,Yokohama FC,3,2,,,
-57436969,2025-08-23 10:00,Cerezo Osaka,Vissel Kobe,1,1,,,
-57436971,2025-08-23 10:00,Fagiano Okayama,Shonan Bellmare,1,0,,,
-57436973,2025-08-23 10:30,Yokohama F Marinos,Machida Zelvia,0,0,,,
-57436975,2025-08-24 10:00,FC Tokyo,Kyoto Sanga FC,0,4,,,
-57436977,2025-08-30 09:00,Yokohama FC,Tokyo Verdy,0,0,,,
-57436979,2025-08-30 10:00,Kyoto Sanga FC,Fagiano Okayama,5,0,,,
-57436981,2025-08-30 10:00,Vissel Kobe,Yokohama F Marinos,1,0,,,
-57436983,2025-08-31 09:30,Shimizu S-Pulse,Kashima Antlers,1,1,,,
-57436985,2025-08-31 10:00,Urawa Red Diamonds,Albirex Niigata,1,0,,,
-57436987,2025-08-31 10:00,Kashiwa Reysol,Avispa Fukuoka,2,1,,,
-57436989,2025-08-31 10:00,Kawasaki Frontale,Machida Zelvia,5,3,,,
-57436991,2025-08-31 10:00,Shonan Bellmare,Gamba Osaka,4,5,,,
-57436993,2025-08-31 10:00,Nagoya Grampus,FC Tokyo,1,1,,,
-57436995,2025-08-31 10:00,Cerezo Osaka,Sanfrecce Hiroshima,1,1,,,
-57437001,2025-09-12 10:00,Machida Zelvia,Yokohama FC,1,1,,,
-57437009,2025-09-12 10:00,Vissel Kobe,Kashiwa Reysol,0,0,,,
-57437013,2025-09-12 10:00,Sanfrecce Hiroshima,Kyoto Sanga FC,1,1,,,
-57437015,2025-09-13 09:00,Avispa Fukuoka,Cerezo Osaka,2,4,,,
-57437011,2025-09-13 09:55,Fagiano Okayama,Nagoya Grampus,0,1,,,
-57436997,2025-09-13 10:00,Kashima Antlers,Shonan Bellmare,3,0,,,
-57437003,2025-09-13 10:00,Yokohama F Marinos,Kawasaki Frontale,0,3,,,
-57437005,2025-09-13 10:00,Albirex Niigata,Shimizu S-Pulse,0,1,,,
-57437007,2025-09-13 10:00,Gamba Osaka,Urawa Red Diamonds,1,0,,,
-57436999,2025-09-15 10:00,FC Tokyo,Tokyo Verdy,1,0,,,
-57437031,2025-09-20 08:00,Nagoya Grampus,Shonan Bellmare,3,1,,,
-57437023,2025-09-20 09:00,Tokyo Verdy,Fagiano Okayama,4,2,,,
-57437029,2025-09-20 09:00,Yokohama FC,Albirex Niigata,1,0,,,
-57437035,2025-09-20 09:30,Cerezo Osaka,Kashiwa Reysol,1,1,,,
-57437021,2025-09-20 10:00,Urawa Red Diamonds,Kashima Antlers,0,1,,,
-57437025,2025-09-20 10:00,Kawasaki Frontale,FC Tokyo,0,1,,,
-57437027,2025-09-20 10:00,Yokohama F Marinos,Avispa Fukuoka,2,0,,,
-57437033,2025-09-20 10:00,Kyoto Sanga FC,Shimizu S-Pulse,0,1,,,
-57437045,2025-09-23 05:00,Albirex Niigata,Nagoya Grampus,0,0,,,
-57437037,2025-09-23 09:00,Kashima Antlers,Cerezo Osaka,3,1,,,
-57437041,2025-09-23 09:00,FC Tokyo,Avispa Fukuoka,1,0,,,
-57437047,2025-09-23 09:00,Shimizu S-Pulse,Urawa Red Diamonds,0,0,,,
-57437055,2025-09-23 09:00,Fagiano Okayama,Yokohama FC,0,0,,,
-57437039,2025-09-23 10:00,Kashiwa Reysol,Sanfrecce Hiroshima,0,0,,,
-57437043,2025-09-23 10:00,Shonan Bellmare,Kawasaki Frontale,1,2,,,
-57437049,2025-09-23 10:00,Kyoto Sanga FC,Machida Zelvia,1,1,,,
-57437051,2025-09-23 10:00,Gamba Osaka,Yokohama F Marinos,3,1,,,
-57437053,2025-09-23 10:00,Vissel Kobe,Tokyo Verdy,4,0,,,
-57437061,2025-09-27 07:00,Machida Zelvia,Fagiano Okayama,1,0,,,
-57437067,2025-09-27 08:00,Nagoya Grampus,Kashima Antlers,0,4,,,
-57437069,2025-09-27 08:00,Gamba Osaka,Albirex Niigata,4,2,,,
-57437059,2025-09-27 09:00,Tokyo Verdy,Urawa Red Diamonds,0,0,,,
-57437075,2025-09-27 09:00,Avispa Fukuoka,Sanfrecce Hiroshima,1,2,,,
-57437073,2025-09-27 10:00,Vissel Kobe,Shimizu S-Pulse,2,1,,,
-57437065,2025-09-28 08:00,Yokohama FC,Shonan Bellmare,1,0,,,
-57437057,2025-09-28 09:00,FC Tokyo,Yokohama F Marinos,2,3,,,
-57437071,2025-09-28 09:30,Cerezo Osaka,Kyoto Sanga FC,1,2,,,
-57437063,2025-09-28 10:00,Kawasaki Frontale,Kashiwa Reysol,4,4,,,
-57437077,2025-10-03 10:00,Shonan Bellmare,Tokyo Verdy,0,1,,,
-57437087,2025-10-04 04:00,Shimizu S-Pulse,FC Tokyo,1,1,,,
-57437089,2025-10-04 04:30,Nagoya Grampus,Cerezo Osaka,2,1,,,
-57437085,2025-10-04 05:00,Albirex Niigata,Fagiano Okayama,1,1,,,
-57437093,2025-10-04 07:00,Sanfrecce Hiroshima,Machida Zelvia,2,1,,,
-57437095,2025-10-04 07:30,Avispa Fukuoka,Yokohama FC,1,0,,,
-57437081,2025-10-04 08:00,Urawa Red Diamonds,Vissel Kobe,1,0,,,
-57437083,2025-10-04 08:30,Kashiwa Reysol,Yokohama F Marinos,1,0,,,
-57437091,2025-10-04 10:00,Kyoto Sanga FC,Kawasaki Frontale,1,1,,,
-57437079,2025-10-05 06:00,Kashima Antlers,Gamba Osaka,0,0,,,
-57437111,2025-10-17 10:00,Vissel Kobe,Kashima Antlers,0,0,,,
-57437115,2025-10-17 10:00,Sanfrecce Hiroshima,FC Tokyo,0,0,,,
-57437097,2025-10-18 05:00,Tokyo Verdy,Albirex Niigata,1,0,,,
-57437099,2025-10-18 05:00,Machida Zelvia,Avispa Fukuoka,0,0,,,
-57437101,2025-10-18 05:00,Kawasaki Frontale,Shimizu S-Pulse,5,3,,,
-57437103,2025-10-18 05:00,Yokohama F Marinos,Urawa Red Diamonds,4,0,,,
-57437105,2025-10-18 05:00,Yokohama FC,Nagoya Grampus,2,2,,,
-57437109,2025-10-18 05:00,Gamba Osaka,Kashiwa Reysol,0,5,,,
-57437113,2025-10-18 05:00,Fagiano Okayama,Cerezo Osaka,1,2,,,
-57437107,2025-10-19 06:00,Shonan Bellmare,Kyoto Sanga FC,1,1,,,
-57437117,2025-10-25 05:00,Urawa Red Diamonds,Machida Zelvia,0,0,,,
-57437119,2025-10-25 05:00,Kashiwa Reysol,Yokohama FC,2,0,,,
-57437121,2025-10-25 05:00,FC Tokyo,Fagiano Okayama,3,1,,,
-57437123,2025-10-25 05:00,Yokohama F Marinos,Sanfrecce Hiroshima,3,0,,,
-57437127,2025-10-25 05:00,Shimizu S-Pulse,Tokyo Verdy,1,0,,,
-57437129,2025-10-25 05:00,Nagoya Grampus,Gamba Osaka,0,2,,,
-57437131,2025-10-25 05:00,Kyoto Sanga FC,Kashima Antlers,1,1,,,
-57437133,2025-10-25 06:00,Cerezo Osaka,Kawasaki Frontale,2,0,,,
-57437125,2025-10-26 05:00,Albirex Niigata,Vissel Kobe,2,2,,,
-57437135,2025-10-26 05:40,Avispa Fukuoka,Shonan Bellmare,1,0,,,
-57437137,2025-11-08 05:00,Kashima Antlers,Yokohama FC,2,1,,,
-57437141,2025-11-08 05:00,Tokyo Verdy,Avispa Fukuoka,0,0,,,
-57437143,2025-11-08 06:00,Kawasaki Frontale,Fagiano Okayama,1,1,,,
-57437145,2025-11-08 06:00,Shonan Bellmare,Albirex Niigata,5,2,,,
-57437139,2025-11-08 07:00,Kashiwa Reysol,Nagoya Grampus,1,0,,,
-57437153,2025-11-09 04:00,Sanfrecce Hiroshima,Urawa Red Diamonds,3,0,,,
-57437149,2025-11-09 05:00,Kyoto Sanga FC,Yokohama F Marinos,0,3,,,
-57437155,2025-11-09 05:00,Machida Zelvia,FC Tokyo,0,1,,,
-57437147,2025-11-09 06:00,Shimizu S-Pulse,Cerezo Osaka,1,4,,,
-57437151,2025-11-09 06:00,Gamba Osaka,Vissel Kobe,1,1,,,
-57437157,2025-11-30 05:00,Tokyo Verdy,Kashima Antlers,0,1,,,
-57437159,2025-11-30 05:00,Machida Zelvia,Nagoya Grampus,3,1,,,
-57437161,2025-11-30 05:00,Kawasaki Frontale,Sanfrecce Hiroshima,1,2,,,
-57437163,2025-11-30 05:00,Yokohama F Marinos,Cerezo Osaka,3,1,,,
-57437165,2025-11-30 05:00,Yokohama FC,Kyoto Sanga FC,0,1,,,
-57437167,2025-11-30 05:00,Shonan Bellmare,Shimizu S-Pulse,1,0,,,
-57437169,2025-11-30 05:00,Albirex Niigata,Kashiwa Reysol,1,3,,,
-57437171,2025-11-30 05:00,Vissel Kobe,FC Tokyo,0,0,,,
-57437173,2025-11-30 05:00,Fagiano Okayama,Urawa Red Diamonds,0,1,,,
-57437175,2025-11-30 05:00,Avispa Fukuoka,Gamba Osaka,1,0,,,
-57437177,2025-12-06 05:00,Kashima Antlers,Yokohama F Marinos,2,1,,,
-57437179,2025-12-06 05:00,Urawa Red Diamonds,Kawasaki Frontale,4,0,,,
-57437181,2025-12-06 05:00,Kashiwa Reysol,Machida Zelvia,1,0,,,
-57437183,2025-12-06 05:00,FC Tokyo,Albirex Niigata,1,1,,,
-57437185,2025-12-06 05:00,Shimizu S-Pulse,Fagiano Okayama,1,2,,,
-57437187,2025-12-06 05:00,Nagoya Grampus,Avispa Fukuoka,1,0,,,
-57437189,2025-12-06 05:00,Kyoto Sanga FC,Vissel Kobe,2,0,,,
-57437191,2025-12-06 05:00,Gamba Osaka,Tokyo Verdy,4,1,,,
-57437193,2025-12-06 05:00,Cerezo Osaka,Yokohama FC,1,3,,,
-57437195,2025-12-06 05:00,Sanfrecce Hiroshima,Shonan Bellmare,2,1,,,
-67092066,2026-02-06 10:00,Yokohama F Marinos,Machida Zelvia,2,3,4.200,3.400,1.850
-67092076,2026-02-06 10:00,Kyoto Sanga FC,Vissel Kobe,1,1,3.300,3.100,2.300
-67092078,2026-02-06 10:00,V-Varen Nagasaki,Sanfrecce Hiroshima,1,3,3.250,3.600,2.050
-67092068,2026-02-07 04:00,JEF United Chiba,Urawa Red Diamonds,0,2,3.400,3.400,2.100
-67092070,2026-02-07 04:30,FC Tokyo,Kashima Antlers,1,1,2.700,3.100,2.700
-67092082,2026-02-07 07:00,Cerezo Osaka,Gamba Osaka,0,0,2.200,3.500,3.200
-67092084,2026-02-08 04:05,Avispa Fukuoka,Fagiano Okayama,1,1,2.000,3.000,4.333
-67092080,2026-02-08 05:00,Nagoya Grampus,Shimizu S-Pulse,1,0,2.000,3.400,3.750
-67092074,2026-02-08 06:00,Kawasaki Frontale,Kashiwa Reysol,5,3,3.000,3.750,2.150
-67092072,2026-02-08 07:00,Tokyo Verdy,Mito Hollyhock,3,1,2.250,2.900,3.700
-67150234,2026-02-13 10:00,Vissel Kobe,V-Varen Nagasaki,2,0,1.666,3.600,5.250
-67150224,2026-02-14 05:00,Machida Zelvia,Mito Hollyhock,2,2,1.450,4.000,7.000
-67150236,2026-02-14 05:00,Shimizu S-Pulse,Kyoto Sanga FC,1,1,3.500,3.400,2.050
-67150238,2026-02-14 05:00,Sanfrecce Hiroshima,Fagiano Okayama,1,1,1.480,4.100,7.000
-67150226,2026-02-14 06:00,Kashima Antlers,Yokohama F Marinos,1,0,1.750,3.750,4.200
-67150228,2026-02-14 06:00,FC Tokyo,Urawa Red Diamonds,1,1,2.150,3.400,3.200
-67150230,2026-02-15 04:00,JEF United Chiba,Kawasaki Frontale,0,0,3.900,3.900,1.800
-67150232,2026-02-15 05:00,Kashiwa Reysol,Tokyo Verdy,1,2,1.615,3.750,5.750
-67150240,2026-02-15 06:00,Avispa Fukuoka,Cerezo Osaka,0,2,2.700,3.000,2.800
-67150242,2026-02-15 07:00,Gamba Osaka,Nagoya Grampus,0,0,2.450,3.200,2.875
-67645414,2026-02-21 05:00,Yokohama F Marinos,Urawa Red Diamonds,0,2,2.875,3.400,2.450
-67645416,2026-02-21 05:00,Tokyo Verdy,Machida Zelvia,2,2,3.600,2.875,2.300
-67644844,2026-02-21 05:30,Shimizu S-Pulse,Vissel Kobe,1,0,3.750,3.400,2.000
-67644846,2026-02-21 06:00,Nagoya Grampus,V-Varen Nagasaki,1,3,1.950,3.400,3.900
-67645418,2026-02-21 06:00,Kawasaki Frontale,FC Tokyo,1,2,2.625,3.500,2.550
-67645420,2026-02-21 07:00,Kashima Antlers,Kashiwa Reysol,2,0,3.200,3.400,2.200
-67644848,2026-02-22 05:00,Fagiano Okayama,Gamba Osaka,1,2,2.800,3.200,2.550
-67644850,2026-02-22 05:00,Kyoto Sanga FC,Avispa Fukuoka,2,0,2.050,3.200,3.900
-67645422,2026-02-22 05:00,Mito Hollyhock,JEF United Chiba,1,1,2.100,3.300,3.500
-67644852,2026-02-22 06:00,Cerezo Osaka,Sanfrecce Hiroshima,1,2,3.500,3.500,2.050
-67644854,2026-02-27 10:00,Vissel Kobe,Avispa Fukuoka,2,1,1.666,3.600,5.500
-67644856,2026-02-27 10:00,Sanfrecce Hiroshima,Kyoto Sanga FC,1,2,2.050,3.400,3.600
-67645424,2026-02-27 10:00,Machida Zelvia,JEF United Chiba,2,1,1.666,3.900,4.750
-67645426,2026-02-28 04:00,Yokohama F Marinos,Tokyo Verdy,3,2,2.375,3.000,3.300
-67645428,2026-02-28 05:00,Urawa Red Diamonds,Kashima Antlers,2,3,2.450,3.200,2.875
-67644858,2026-02-28 06:00,Gamba Osaka,Shimizu S-Pulse,2,2,2.200,3.400,3.200
-67645430,2026-02-28 06:00,FC Tokyo,Kashiwa Reysol,0,2,2.875,3.200,2.500
-67644860,2026-02-28 08:00,V-Varen Nagasaki,Cerezo Osaka,1,0,3.000,3.600,2.200
-67644862,2026-03-01 05:00,Fagiano Okayama,Nagoya Grampus,1,1,3.000,2.900,2.300
-67645432,2026-03-01 07:00,Kawasaki Frontale,Mito Hollyhock,2,2,1.909,3.800,3.500
-67645434,2026-03-07 04:00,JEF United Chiba,Kashiwa Reysol,2,1,4.750,3.700,1.727
-67645436,2026-03-07 05:00,FC Tokyo,Yokohama F Marinos,3,0,2.050,3.300,3.600
-67644864,2026-03-07 06:00,Cerezo Osaka,Shimizu S-Pulse,0,0,2.100,3.800,3.100
-67645440,2026-03-07 06:00,Urawa Red Diamonds,Mito Hollyhock,2,0,1.727,3.600,4.750
-67644866,2026-03-07 07:00,Avispa Fukuoka,Nagoya Grampus,1,5,3.700,3.400,2.000
-67645442,2026-03-07 07:00,Kashima Antlers,Tokyo Verdy,2,0,1.800,3.750,4.200
-67644868,2026-03-08 03:55,Fagiano Okayama,Kyoto Sanga FC,1,0,3.200,3.300,2.250
-67644870,2026-03-08 06:00,Gamba Osaka,V-Varen Nagasaki,3,2,2.050,3.700,3.250
-67645444,2026-03-14 04:00,Yokohama F Marinos,JEF United Chiba,2,0,2.100,3.400,3.500
-67644874,2026-03-14 05:00,Shimizu S-Pulse,Fagiano Okayama,1,1,2.500,3.300,2.800
-67644876,2026-03-14 05:00,Nagoya Grampus,Vissel Kobe,0,3,2.700,3.250,2.600
-67644878,2026-03-14 05:00,Kyoto Sanga FC,Cerezo Osaka,1,2,2.250,3.400,3.100
-67645446,2026-03-14 05:00,Mito Hollyhock,FC Tokyo,1,1,3.700,3.400,2.050
-67645448,2026-03-14 05:00,Kashiwa Reysol,Machida Zelvia,0,1,2.050,3.400,3.600
-67644880,2026-03-14 06:00,Sanfrecce Hiroshima,Gamba Osaka,2,0,1.700,3.800,4.500
-67645450,2026-03-14 06:00,Kashima Antlers,Kawasaki Frontale,1,0,1.950,3.600,3.700
-67645452,2026-03-14 07:00,Tokyo Verdy,Urawa Red Diamonds,1,0,3.900,3.100,2.100
-67644882,2026-03-15 05:00,V-Varen Nagasaki,Avispa Fukuoka,1,0,2.050,3.300,3.500
-67644884,2026-03-18 09:30,Cerezo Osaka,Fagiano Okayama,1,2,1.950,3.500,3.700
-67644886,2026-03-18 10:00,Nagoya Grampus,Sanfrecce Hiroshima,2,1,3.200,3.400,2.200
-67644888,2026-03-18 10:00,V-Varen Nagasaki,Kyoto Sanga FC,1,2,2.625,3.500,2.550
-67644890,2026-03-18 10:00,Vissel Kobe,Gamba Osaka,2,2,1.700,3.750,4.750
-67644892,2026-03-18 10:00,Avispa Fukuoka,Shimizu S-Pulse,1,1,2.875,3.400,2.375
-67645454,2026-03-18 10:00,Tokyo Verdy,Kawasaki Frontale,0,2,3.100,3.400,2.250
-67645456,2026-03-18 10:00,JEF United Chiba,FC Tokyo,1,2,4.000,3.600,1.900
-67645458,2026-03-18 10:00,Mito Hollyhock,Yokohama F Marinos,1,0,2.375,3.300,3.000
-67645460,2026-03-18 10:30,Urawa Red Diamonds,Kashiwa Reysol,1,1,3.200,3.400,2.200
-67645462,2026-03-18 10:30,Machida Zelvia,Kashima Antlers,0,3,2.300,3.100,3.250
-67644894,2026-03-21 05:00,Fagiano Okayama,V-Varen Nagasaki,0,1,2.300,3.100,3.300
-67644896,2026-03-21 05:30,Avispa Fukuoka,Gamba Osaka,2,2,3.700,3.200,2.100
-67644898,2026-03-22 04:00,Shimizu S-Pulse,Sanfrecce Hiroshima,3,1,4.333,3.250,1.900
-67644900,2026-03-22 05:00,Kyoto Sanga FC,Nagoya Grampus,1,1,2.600,3.250,2.700
-67645464,2026-03-22 05:00,Tokyo Verdy,FC Tokyo,0,0,4.333,3.100,1.950
-67644902,2026-03-22 06:00,Cerezo Osaka,Vissel Kobe,1,1,2.700,3.250,2.600
-67645466,2026-03-22 06:00,Kashima Antlers,JEF United Chiba,2,1,1.500,3.900,7.000
-67645468,2026-03-22 06:00,Kawasaki Frontale,Yokohama F Marinos,0,5,2.150,3.400,3.250
-67645470,2026-03-22 07:00,Urawa Red Diamonds,Machida Zelvia,1,2,2.875,3.000,2.600
-67645472,2026-03-22 07:00,Kashiwa Reysol,Mito Hollyhock,3,0,1.533,3.700,7.000
-67644872,2026-03-27 10:00,Vissel Kobe,Sanfrecce Hiroshima,2,1,2.875,3.200,2.600
-69267840,2026-03-28 05:00,Machida Zelvia,Kawasaki Frontale,1,1,1.666,3.800,4.750
-67644928,2026-04-01 10:00,Vissel Kobe,Shimizu S-Pulse,2,0,1.850,3.750,3.800
-67645496,2026-04-01 10:00,Machida Zelvia,FC Tokyo,0,3,2.400,3.100,3.000
-67645474,2026-04-04 04:00,JEF United Chiba,Tokyo Verdy,3,2,2.900,3.100,2.550
-67645476,2026-04-04 05:00,Mito Hollyhock,Kashima Antlers,1,1,4.000,3.500,1.909
-67644904,2026-04-04 06:00,Nagoya Grampus,Cerezo Osaka,3,0,2.450,3.500,2.700
-67644906,2026-04-04 07:00,Gamba Osaka,Kyoto Sanga FC,2,0,2.400,3.600,2.750
-67644908,2026-04-05 04:00,V-Varen Nagasaki,Shimizu S-Pulse,0,3,2.625,3.300,2.625
-67644910,2026-04-05 05:00,Fagiano Okayama,Vissel Kobe,1,4,3.000,3.000,2.500
-67644912,2026-04-05 05:00,Sanfrecce Hiroshima,Avispa Fukuoka,0,1,1.450,4.200,7.500
-67645478,2026-04-05 05:00,Kashiwa Reysol,Yokohama F Marinos,3,0,1.571,3.900,5.750
-67645480,2026-04-05 06:00,FC Tokyo,Machida Zelvia,0,0,2.375,3.250,3.000
-67645482,2026-04-05 07:00,Kawasaki Frontale,Urawa Red Diamonds,3,2,2.600,3.500,2.600
-67645484,2026-04-11 04:00,JEF United Chiba,Mito Hollyhock,1,1,2.750,3.100,2.625
-67644914,2026-04-11 05:00,Sanfrecce Hiroshima,Shimizu S-Pulse,1,1,1.615,3.750,5.500
-67644916,2026-04-11 05:00,Avispa Fukuoka,V-Varen Nagasaki,1,0,2.500,3.000,2.900
-67645486,2026-04-11 05:00,Machida Zelvia,Kashiwa Reysol,1,0,2.900,3.000,2.550
-67644918,2026-04-11 06:00,Vissel Kobe,Nagoya Grampus,3,2,2.000,3.400,3.700
-67645488,2026-04-11 06:00,Yokohama F Marinos,FC Tokyo,1,3,4.100,3.600,1.833
-67644920,2026-04-11 07:00,Kyoto Sanga FC,Fagiano Okayama,5,1,2.200,3.200,3.400
-67644922,2026-04-11 07:00,Gamba Osaka,Cerezo Osaka,0,1,2.500,3.300,2.750
-67645490,2026-04-12 05:00,Urawa Red Diamonds,Tokyo Verdy,1,1,2.000,3.200,3.800
-67645492,2026-04-12 07:00,Kawasaki Frontale,Kashima Antlers,0,2,2.900,3.600,2.200
-67645494,2026-04-18 04:00,Yokohama F Marinos,Kawasaki Frontale,1,2,2.600,3.500,2.550
-67644924,2026-04-18 05:00,Sanfrecce Hiroshima,V-Varen Nagasaki,2,0,1.363,4.750,8.500
-67645498,2026-04-18 05:00,Kashima Antlers,Urawa Red Diamonds,1,0,1.950,3.400,3.900
-67645500,2026-04-18 06:00,Tokyo Verdy,JEF United Chiba,1,0,2.200,3.100,3.600
-67644926,2026-04-18 07:00,Cerezo Osaka,Kyoto Sanga FC,3,0,2.250,3.400,3.100
-67645502,2026-04-19 04:00,Mito Hollyhock,Kashiwa Reysol,2,0,4.500,3.100,1.950
-67644930,2026-04-19 06:00,Gamba Osaka,Fagiano Okayama,2,2,1.700,3.750,4.750
-67644932,2026-04-19 07:00,Nagoya Grampus,Avispa Fukuoka,2,2,1.727,3.500,5.000
-67645074,2026-04-22 10:00,Gamba Osaka,Avispa Fukuoka,1,2,1.900,3.500,4.000
-67645504,2026-04-24 10:00,Kashiwa Reysol,Kashima Antlers,1,1,2.250,3.300,3.200
-67645506,2026-04-24 10:00,FC Tokyo,Mito Hollyhock,5,2,1.700,3.500,5.250
-67644934,2026-04-25 05:00,Shimizu S-Pulse,Nagoya Grampus,0,2,3.000,3.300,2.350
-67644936,2026-04-25 05:00,Fagiano Okayama,Avispa Fukuoka,2,0,2.250,3.100,3.400
-67645508,2026-04-25 05:00,Urawa Red Diamonds,Yokohama F Marinos,2,3,2.100,3.200,3.600
-67645512,2026-04-25 06:00,Kawasaki Frontale,JEF United Chiba,2,1,1.600,4.000,5.250
-67644938,2026-04-25 07:00,Sanfrecce Hiroshima,Cerezo Osaka,2,1,1.615,4.000,5.000
-67644940,2026-04-25 09:30,V-Varen Nagasaki,Gamba Osaka,1,1,3.600,3.700,1.950
-67644944,2026-04-29 04:00,Shimizu S-Pulse,V-Varen Nagasaki,1,2,1.909,3.400,4.000
-67645514,2026-04-29 04:00,Tokyo Verdy,Kashima Antlers,2,1,4.333,3.100,1.950
-67644946,2026-04-29 05:00,Avispa Fukuoka,Sanfrecce Hiroshima,2,2,5.250,3.600,1.666
-67645030,2026-04-29 05:00,Vissel Kobe,Cerezo Osaka,0,0,1.533,4.500,5.250
-67645516,2026-04-29 05:00,JEF United Chiba,Yokohama F Marinos,2,3,3.200,3.250,2.300
-67645032,2026-04-29 06:00,Nagoya Grampus,Fagiano Okayama,1,1,1.700,3.800,4.750
-67645034,2026-04-29 06:00,Kyoto Sanga FC,Gamba Osaka,1,1,2.375,3.300,2.875
-67645518,2026-04-29 06:00,Urawa Red Diamonds,Kawasaki Frontale,2,0,2.150,3.600,3.000
-67645520,2026-04-29 07:00,Mito Hollyhock,Machida Zelvia,2,2,3.500,3.250,2.100
-67645522,2026-04-29 07:00,Kashiwa Reysol,FC Tokyo,1,3,2.700,3.300,2.600
-67645036,2026-05-02 03:55,Fagiano Okayama,Sanfrecce Hiroshima,1,0,4.750,3.800,1.666
-67645038,2026-05-02 05:00,Kyoto Sanga FC,Shimizu S-Pulse,1,2,2.050,3.300,3.600
-67645524,2026-05-02 05:00,FC Tokyo,Kawasaki Frontale,2,0,1.900,3.600,3.900
-67645526,2026-05-02 05:00,Yokohama F Marinos,Mito Hollyhock,1,1,2.700,3.200,2.700
-67645040,2026-05-02 06:00,Gamba Osaka,Vissel Kobe,5,0,3.100,3.400,2.250
-67645528,2026-05-02 07:00,Urawa Red Diamonds,JEF United Chiba,2,0,1.700,3.750,5.000
-67645530,2026-05-03 05:00,Tokyo Verdy,Kashiwa Reysol,1,0,3.400,3.100,2.250
-67645042,2026-05-03 06:00,Cerezo Osaka,Avispa Fukuoka,1,1,1.750,3.700,4.333
-67645532,2026-05-03 07:00,Kashima Antlers,Machida Zelvia,1,1,2.300,3.000,3.300
-67645044,2026-05-03 08:00,V-Varen Nagasaki,Nagoya Grampus,1,2,2.400,3.250,2.900
-67645046,2026-05-06 04:00,Shimizu S-Pulse,Cerezo Osaka,1,1,2.625,3.250,2.625
-67645048,2026-05-06 04:00,V-Varen Nagasaki,Fagiano Okayama,2,1,2.875,3.200,2.550
-67645050,2026-05-06 05:00,Nagoya Grampus,Gamba Osaka,2,1,2.100,3.250,3.000
-67645052,2026-05-06 05:00,Avispa Fukuoka,Kyoto Sanga FC,1,1,3.200,3.000,2.375
-67645054,2026-05-06 06:00,Sanfrecce Hiroshima,Vissel Kobe,1,1,2.300,3.400,3.000
-67645534,2026-05-06 06:00,FC Tokyo,JEF United Chiba,1,3,1.400,4.750,7.000
-67645536,2026-05-06 07:00,Machida Zelvia,Yokohama F Marinos,2,0,1.909,3.400,4.000
-67645538,2026-05-06 07:00,Kashima Antlers,Mito Hollyhock,3,0,1.700,3.600,5.250
-67645540,2026-05-06 08:00,Kawasaki Frontale,Tokyo Verdy,1,0,2.050,3.250,3.600
-67645542,2026-05-06 10:00,Kashiwa Reysol,Urawa Red Diamonds,0,1,2.100,3.500,3.300
-67645544,2026-05-09 05:00,Mito Hollyhock,Urawa Red Diamonds,1,4,4.000,3.300,1.950
-67645056,2026-05-09 07:00,Cerezo Osaka,V-Varen Nagasaki,3,2,1.700,4.000,4.500
-67645058,2026-05-10 05:00,Shimizu S-Pulse,Avispa Fukuoka,1,1,2.250,3.000,3.500
-67645060,2026-05-10 05:00,Vissel Kobe,Fagiano Okayama,0,3,1.666,3.600,5.250
-67645546,2026-05-10 05:00,Yokohama F Marinos,Kashima Antlers,1,1,3.250,3.500,2.150
-67645062,2026-05-10 06:00,Gamba Osaka,Sanfrecce Hiroshima,0,1,3.700,3.600,1.950
-67645548,2026-05-10 06:00,FC Tokyo,Tokyo Verdy,2,1,1.900,3.200,4.500
-67645064,2026-05-10 07:00,Nagoya Grampus,Kyoto Sanga FC,3,0,1.909,3.600,3.800
-67645550,2026-05-10 07:00,Kashiwa Reysol,Kawasaki Frontale,1,0,1.850,3.400,3.600
-67645552,2026-05-10 08:00,JEF United Chiba,Machida Zelvia,0,2,4.200,3.400,1.900
-67644942,2026-05-13 10:00,Vissel Kobe,Kyoto Sanga FC,1,1,1.833,3.500,4.333
-67645510,2026-05-13 10:00,Machida Zelvia,Tokyo Verdy,0,0,1.900,3.000,4.750
-67645554,2026-05-16 05:00,Mito Hollyhock,Tokyo Verdy,0,1,2.250,3.000,3.500
-67645556,2026-05-16 07:00,Urawa Red Diamonds,FC Tokyo,0,0,2.875,3.100,2.600
-67645558,2026-05-16 08:00,Yokohama F Marinos,Kashiwa Reysol,0,1,3.250,3.200,2.250
-67645066,2026-05-17 04:00,V-Varen Nagasaki,Vissel Kobe,2,2,5.000,3.700,1.666
-67645068,2026-05-17 05:00,Fagiano Okayama,Shimizu S-Pulse,2,0,2.350,3.100,3.200
-67645560,2026-05-17 05:00,JEF United Chiba,Kashima Antlers,0,2,5.250,3.900,1.615
-67645070,2026-05-17 06:00,Kyoto Sanga FC,Sanfrecce Hiroshima,0,4,3.750,3.500,1.950
-67645072,2026-05-17 06:00,Cerezo Osaka,Nagoya Grampus,6,2,2.400,3.400,2.800
-67645562,2026-05-17 10:00,Kawasaki Frontale,Machida Zelvia,1,1,3.400,3.000,2.250
-67645564,2026-05-22 10:30,Machida Zelvia,Urawa Red Diamonds,1,0,2.200,3.100,3.500
-67645076,2026-05-23 05:00,Sanfrecce Hiroshima,Nagoya Grampus,4,2,1.900,3.900,3.600
-67645078,2026-05-23 05:00,Avispa Fukuoka,Vissel Kobe,1,1,4.100,3.400,1.900
-67645566,2026-05-23 08:30,Kashima Antlers,FC Tokyo,1,0,3.000,3.300,2.300
-67645568,2026-05-23 09:00,Kashiwa Reysol,JEF United Chiba,4,2,1.571,4.100,5.750
-67645080,2026-05-23 10:00,Kyoto Sanga FC,V-Varen Nagasaki,2,0,2.150,3.500,3.250
-67645082,2026-05-24 03:55,Fagiano Okayama,Cerezo Osaka,2,3,2.700,3.250,2.600
-67645570,2026-05-24 05:00,Mito Hollyhock,Kawasaki Frontale,1,3,2.900,3.500,2.300
-67645572,2026-05-24 05:00,Tokyo Verdy,Yokohama F Marinos,0,6,2.625,3.000,2.875
-67645084,2026-05-24 08:00,Shimizu S-Pulse,Gamba Osaka,1,2,2.700,3.100,2.750
-71716610,2026-05-30 05:00,Vissel Kobe,Kashima Antlers,5,0,2.375,3.000,3.300
-71717478,2026-05-30 05:00,Nagoya Grampus,Machida Zelvia,2,2,2.875,3.200,2.500
-71717646,2026-05-30 05:00,Sanfrecce Hiroshima,Kawasaki Frontale,2,1,1.850,3.900,3.700
-71717650,2026-05-30 06:00,Cerezo Osaka,FC Tokyo,2,2,2.900,3.300,2.400
-71717756,2026-05-30 07:00,Avispa Fukuoka,JEF United Chiba,2,2,2.000,3.100,4.100
-71717764,2026-05-30 07:00,Gamba Osaka,Tokyo Verdy,1,1,2.450,3.000,3.100
-71717814,2026-05-30 08:00,V-Varen Nagasaki,Mito Hollyhock,1,0,2.625,3.100,2.800
-71717818,2026-05-30 10:00,Kyoto Sanga FC,Kashiwa Reysol,2,6,3.200,3.200,2.300
-71717824,2026-05-31 05:00,Fagiano Okayama,Urawa Red Diamonds,1,1,2.750,2.900,2.750
-71717832,2026-05-31 05:00,Shimizu S-Pulse,Yokohama F Marinos,1,1,3.000,3.100,2.400
-71716702,2026-06-06 05:00,Kashima Antlers,Vissel Kobe,2,0,2.200,3.400,3.200
-71717704,2026-06-06 05:00,FC Tokyo,Cerezo Osaka,1,3,1.950,3.600,3.600
-71717760,2026-06-06 05:00,JEF United Chiba,Avispa Fukuoka,1,2,3.000,3.000,2.500
-71717596,2026-06-06 06:00,Machida Zelvia,Nagoya Grampus,0,0,2.050,3.400,3.500
-71717816,2026-06-06 06:00,Mito Hollyhock,V-Varen Nagasaki,0,1,1.800,3.600,4.333
-71717768,2026-06-06 07:00,Tokyo Verdy,Gamba Osaka,2,4,2.000,3.100,4.100
-71717826,2026-06-06 07:00,Urawa Red Diamonds,Fagiano Okayama,0,2,1.850,3.300,4.333
-71717854,2026-06-06 08:00,Yokohama F Marinos,Shimizu S-Pulse,3,0,2.200,3.200,3.300
-71717820,2026-06-06 09:00,Kashiwa Reysol,Kyoto Sanga FC,0,1,1.750,3.750,4.333
-71717648,2026-06-06 10:00,Kawasaki Frontale,Sanfrecce Hiroshima,0,1,3.000,3.800,2.100
-72115554,2026-08-07 10:25,Yokohama F Marinos,Kashima Antlers,3,4,3.400,3.100,2.250
-72115564,2026-08-07 10:30,Gamba Osaka,Urawa Red Diamonds,4,3,2.375,3.000,3.100
-72115556,2026-08-08 10:00,Kashiwa Reysol,Mito Hollyhock,2,1,1.700,3.600,5.000
-72115558,2026-08-08 10:00,FC Tokyo,Machida Zelvia,1,5,2.250,2.900,3.600
-72115562,2026-08-08 10:00,Nagoya Grampus,Shimizu S-Pulse,0,1,1.950,3.400,4.000
-72115566,2026-08-08 10:00,Cerezo Osaka,Fagiano Okayama,2,1,2.000,3.300,3.600
-72115570,2026-08-08 10:00,Avispa Fukuoka,Vissel Kobe,0,1,3.400,3.000,2.300
-72115568,2026-08-08 10:15,Sanfrecce Hiroshima,JEF United Chiba,3,0,1.380,5.000,7.500
-72115560,2026-08-09 09:00,Tokyo Verdy,Kawasaki Frontale,1,1,3.400,3.000,2.300
-72115572,2026-08-09 10:00,V-Varen Nagasaki,Kyoto Sanga FC,2,1,3.300,3.200,2.200
-72149614,2026-08-14 10:00,Tokyo Verdy,Kashiwa Reysol,1,3,4.333,3.400,1.833
-72149616,2026-08-15 09:00,Kashima Antlers,Nagoya Grampus,2,1,1.850,3.500,4.100
-72149618,2026-08-15 09:00,Mito Hollyhock,Gamba Osaka,1,1,2.750,3.100,2.700
-72149626,2026-08-15 09:30,Shimizu S-Pulse,Yokohama F Marinos,0,1,2.350,3.200,3.100
-72149630,2026-08-15 09:55,Fagiano Okayama,V-Varen Nagasaki,1,0,1.600,3.800,5.500
-72149620,2026-08-15 10:00,Urawa Red Diamonds,Sanfrecce Hiroshima,1,4,3.700,3.600,1.950
-72149622,2026-08-15 10:00,JEF United Chiba,Machida Zelvia,0,4,5.000,3.500,1.750
-72149624,2026-08-15 10:00,Kawasaki Frontale,Kyoto Sanga FC,2,2,2.250,3.400,3.100
-72149628,2026-08-15 10:00,Vissel Kobe,FC Tokyo,2,2,2.300,3.200,3.100
-72149632,2026-08-15 10:00,Avispa Fukuoka,Cerezo Osaka,3,0,2.625,3.100,2.750
-72149636,2026-08-21 10:00,Kashiwa Reysol,V-Varen Nagasaki,4,2,1.444,4.333,7.000
-72149634,2026-08-21 10:30,FC Tokyo,JEF United Chiba,2,0,1.480,4.500,6.000
-72149638,2026-08-22 09:00,Kashima Antlers,Avispa Fukuoka,3,2,1.950,3.100,4.333
-72149648,2026-08-22 09:30,Fagiano Okayama,Tokyo Verdy,0,0,1.750,3.250,5.250
-72149642,2026-08-22 10:00,Nagoya Grampus,Gamba Osaka,3,1,2.400,3.500,2.800
-72149644,2026-08-22 10:00,Kyoto Sanga FC,Mito Hollyhock,1,3,2.150,3.200,3.500
-72149646,2026-08-22 10:00,Cerezo Osaka,Shimizu S-Pulse,1,0,2.375,3.100,3.100
-72149650,2026-08-22 10:15,Sanfrecce Hiroshima,Kawasaki Frontale,1,1,1.500,4.333,6.000
-72149640,2026-08-22 10:30,Yokohama F Marinos,Vissel Kobe,1,0,2.600,3.200,2.800
-72149652,2026-08-23 10:30,Machida Zelvia,Urawa Red Diamonds,3,1,1.909,3.400,4.100
-72149654,2026-08-29 09:00,Mito Hollyhock,Machida Zelvia,1,1,4.333,3.400,1.850
-72149668,2026-08-29 09:00,Gamba Osaka,Sanfrecce Hiroshima,0,0,4.500,3.800,1.700
-72149662,2026-08-29 09:30,Shimizu S-Pulse,Kashiwa Reysol,0,1,4.500,3.600,1.800
-72149672,2026-08-29 09:30,V-Varen Nagasaki,FC Tokyo,0,3,5.750,3.750,1.615
-72149656,2026-08-29 10:00,Urawa Red Diamonds,Yokohama F Marinos,3,2,2.200,3.500,3.100
-72149658,2026-08-29 10:00,Tokyo Verdy,Kashima Antlers,0,2,4.500,3.100,1.900
-72149660,2026-08-29 10:00,Kawasaki Frontale,JEF United Chiba,4,2,1.533,4.200,6.000
-72149664,2026-08-29 10:00,Nagoya Grampus,Fagiano Okayama,2,1,2.750,3.400,2.500
-72149666,2026-08-29 10:00,Kyoto Sanga FC,Avispa Fukuoka,2,1,2.800,3.250,2.550
-72149670,2026-08-29 10:00,Vissel Kobe,Cerezo Osaka,1,0,2.500,3.000,3.000
-72149674,2026-09-02 10:00,Mito Hollyhock,Kashima Antlers,4,2,5.000,3.800,1.666
-72149676,2026-09-02 10:00,JEF United Chiba,Fagiano Okayama,1,2,3.900,3.400,1.950
-72149678,2026-09-02 10:00,Tokyo Verdy,Vissel Kobe,0,2,3.600,2.900,2.300
-72149680,2026-09-02 10:00,Machida Zelvia,Kawasaki Frontale,2,1,2.050,3.500,3.700
-72149682,2026-09-02 10:00,Yokohama F Marinos,Kyoto Sanga FC,1,1,1.950,3.500,3.750
-72149684,2026-09-02 10:00,Shimizu S-Pulse,FC Tokyo,1,1,5.250,3.600,1.700
-72149686,2026-09-02 10:00,Cerezo Osaka,Kashiwa Reysol,2,0,3.300,3.600,2.050
-72149688,2026-09-02 10:00,Sanfrecce Hiroshima,Nagoya Grampus,3,0,1.571,4.200,5.250
-72149690,2026-09-02 10:00,Avispa Fukuoka,Urawa Red Diamonds,2,3,2.750,3.000,2.750
-72149692,2026-09-02 10:00,V-Varen Nagasaki,Gamba Osaka,2,2,2.800,3.200,2.600
-72149710,2026-09-05 10:00,Avispa Fukuoka,Mito Hollyhock,1,1,2.100,3.100,3.600
-72149694,2026-09-06 09:00,Kashima Antlers,Urawa Red Diamonds,0,1,1.727,3.600,4.500
-72149696,2026-09-06 09:00,JEF United Chiba,Gamba Osaka,2,0,3.900,3.400,1.850
-72149702,2026-09-06 09:00,Nagoya Grampus,Machida Zelvia,1,3,3.100,3.250,2.200
-72149708,2026-09-06 09:00,Fagiano Okayama,Sanfrecce Hiroshima,3,2,4.000,3.300,1.900
-72149698,2026-09-06 10:00,Kashiwa Reysol,Yokohama F Marinos,0,2,1.700,3.600,4.500
-72149704,2026-09-06 10:00,Cerezo Osaka,Tokyo Verdy,0,0,1.615,3.700,5.000
-72149706,2026-09-06 10:00,Vissel Kobe,V-Varen Nagasaki,3,1,1.550,3.900,5.500
-72149712,2026-09-06 10:00,Kawasaki Frontale,Shimizu S-Pulse,3,1,1.800,3.400,4.200
-72149700,2026-09-06 10:30,FC Tokyo,Kyoto Sanga FC,2,0,1.480,4.100,6.250
-72149724,2026-09-11 10:00,Kyoto Sanga FC,Kashiwa Reysol,2,3,4.333,3.800,1.750
-72149728,2026-09-11 10:00,Vissel Kobe,Kashima Antlers,2,1,2.250,3.200,3.400
-72149716,2026-09-12 09:00,Mito Hollyhock,Kawasaki Frontale,0,1,3.100,3.500,2.200
-72149722,2026-09-12 09:30,Shimizu S-Pulse,Avispa Fukuoka,1,0,2.750,3.100,2.625
-72149714,2026-09-12 10:00,Machida Zelvia,Yokohama F Marinos,1,1,1.950,3.500,3.900
-72149726,2026-09-12 10:00,Gamba Osaka,FC Tokyo,0,2,3.750,3.700,1.900
-72149730,2026-09-12 10:00,Sanfrecce Hiroshima,Cerezo Osaka,6,1,1.666,4.000,4.500
-72149732,2026-09-12 10:00,V-Varen Nagasaki,Nagoya Grampus,2,0,3.400,3.500,2.000
-72149720,2026-09-13 09:00,Tokyo Verdy,JEF United Chiba,1,1,2.200,3.300,3.300
-72149718,2026-09-13 09:30,Urawa Red Diamonds,Fagiano Okayama,1,2,2.450,3.400,2.750
-72149740,2026-09-19 09:00,Kawasaki Frontale,Kashima Antlers,3,3,2.450,3.600,2.700
-72149750,2026-09-19 09:00,Avispa Fukuoka,Sanfrecce Hiroshima,0,1,4.200,3.500,1.833
-72149736,2026-09-19 09:30,Urawa Red Diamonds,Tokyo Verdy,3,1,1.950,3.250,4.100
-72149744,2026-09-19 09:30,Shimizu S-Pulse,JEF United Chiba,2,1,1.909,3.200,4.333
-72149752,2026-09-19 09:30,V-Varen Nagasaki,Cerezo Osaka,1,1,3.100,3.400,2.250
-72149734,2026-09-19 10:00,FC Tokyo,Nagoya Grampus,1,0,1.533,4.000,6.250
-72149748,2026-09-19 10:00,Fagiano Okayama,Kyoto Sanga FC,1,2,1.800,3.500,4.500
-72149742,2026-09-19 10:30,Yokohama F Marinos,Mito Hollyhock,2,0,2.000,3.250,3.800
-72149738,2026-09-20 08:00,Machida Zelvia,Kashiwa Reysol,2,4,2.450,3.250,2.800
-72149746,2026-09-20 08:00,Gamba Osaka,Vissel Kobe,0,1,3.600,3.200,2.100
-72149754,2026-10-09 10:00,Kashima Antlers,Gamba Osaka,2,0,1.615,3.700,5.000
-72149760,2026-10-09 10:00,Kashiwa Reysol,Vissel Kobe,4,2,2.200,3.250,3.100
-72149770,2026-10-10 05:00,Cerezo Osaka,Yokohama F Marinos,0,0,2.400,3.500,2.750
-72149762,2026-10-10 06:00,FC Tokyo,Urawa Red Diamonds,3,0,2.050,3.300,3.500
-72149772,2026-10-10 06:00,Avispa Fukuoka,Fagiano Okayama,2,1,3.000,3.100,2.400
-72149768,2026-10-10 10:00,Kyoto Sanga FC,Machida Zelvia,0,1,3.600,3.400,2.000
-72149758,2026-10-11 05:00,JEF United Chiba,V-Varen Nagasaki,1,1,2.500,3.250,2.800
-72149756,2026-10-11 06:00,Mito Hollyhock,Shimizu S-Pulse,1,2,3.250,3.000,2.350
-72149764,2026-10-11 06:00,Tokyo Verdy,Sanfrecce Hiroshima,0,2,6.500,3.600,1.550
-72149766,2026-10-11 07:00,Kawasaki Frontale,Nagoya Grampus,1,2,1.727,3.900,4.333
-72149786,2026-10-17 04:00,Shimizu S-Pulse,Gamba Osaka,2,2,2.250,3.250,3.000
-72149778,2026-10-17 05:00,JEF United Chiba,Yokohama F Marinos,0,0,3.600,3.500,1.909
-72149782,2026-10-17 05:00,Tokyo Verdy,FC Tokyo,0,4,5.000,3.600,1.650
-72149792,2026-10-17 05:00,Sanfrecce Hiroshima,Kyoto Sanga FC,3,0,1.363,4.500,7.500
-72149774,2026-10-17 06:00,Kashima Antlers,V-Varen Nagasaki,2,0,1.480,4.100,5.750
-72149788,2026-10-17 06:00,Cerezo Osaka,Kawasaki Frontale,2,4,2.700,3.500,2.350
-72149776,2026-10-17 07:00,Mito Hollyhock,Urawa Red Diamonds,0,1,3.300,3.500,2.000
-72149780,2026-10-17 10:00,Kashiwa Reysol,Nagoya Grampus,1,3,1.600,4.000,4.750
-72149790,2026-10-18 04:55,Fagiano Okayama,Vissel Kobe,0,3,2.800,3.000,2.500
-72149784,2026-10-18 07:00,Machida Zelvia,Avispa Fukuoka,3,0,1.750,3.250,4.750
-72149796,2026-10-21 10:00,FC Tokyo,Kashiwa Reysol,0,0,1.800,3.800,4.200
-72149798,2026-10-21 10:00,Kawasaki Frontale,Vissel Kobe,2,1,3.200,3.500,2.150
-72149800,2026-10-21 10:00,Yokohama F Marinos,Tokyo Verdy,2,2,1.950,3.400,4.000
-72149802,2026-10-21 10:00,Shimizu S-Pulse,Machida Zelvia,0,5,4.500,3.100,1.909
-72149804,2026-10-21 10:00,Nagoya Grampus,Cerezo Osaka,1,1,2.250,3.500,3.000
-72149806,2026-10-21 10:00,Kyoto Sanga FC,Kashima Antlers,2,2,4.200,3.600,1.800
-72149808,2026-10-21 10:00,Fagiano Okayama,Mito Hollyhock,2,0,1.600,3.700,6.000
-72149810,2026-10-21 10:00,Avispa Fukuoka,Gamba Osaka,1,2,2.625,3.100,2.750
-72149812,2026-10-21 10:00,V-Varen Nagasaki,Sanfrecce Hiroshima,4,0,6.250,5.000,1.420
-72149794,2026-10-21 10:30,Urawa Red Diamonds,JEF United Chiba,3,2,1.500,4.200,6.250
-72149832,2026-10-24 05:00,Sanfrecce Hiroshima,Shimizu S-Pulse,4,0,1.420,4.500,7.500
-72149814,2026-10-24 06:00,Kashima Antlers,Kashiwa Reysol,2,3,2.200,3.600,3.000
-72149820,2026-10-24 06:00,Tokyo Verdy,Avispa Fukuoka,3,1,3.000,3.000,2.450
-72149830,2026-10-24 06:00,Vissel Kobe,Machida Zelvia,0,0,2.750,3.250,2.550
-72149826,2026-10-24 07:00,Gamba Osaka,Kyoto Sanga FC,2,2,1.800,3.800,4.100
-72149824,2026-10-25 05:00,Nagoya Grampus,Yokohama F Marinos,1,1,2.150,3.600,3.100
-72149816,2026-10-25 06:00,Urawa Red Diamonds,V-Varen Nagasaki,1,0,1.571,3.800,5.750
-72149828,2026-10-25 06:00,Cerezo Osaka,JEF United Chiba,2,2,1.800,3.700,4.200
-72149818,2026-10-25 07:00,FC Tokyo,Mito Hollyhock,6,0,1.363,4.500,9.500
-72149822,2026-10-25 07:00,Kawasaki Frontale,Fagiano Okayama,2,1,1.850,3.750,3.900
-72149836,2026-10-31 05:00,Mito Hollyhock,Sanfrecce Hiroshima,0,3,7.000,4.750,1.400
-72149846,2026-10-31 05:00,Kyoto Sanga FC,Shimizu S-Pulse,2,0,2.050,3.400,3.500
-72149850,2026-10-31 05:00,Fagiano Okayama,FC Tokyo,0,4,3.900,3.500,1.900
-72149834,2026-10-31 06:00,Kashima Antlers,Cerezo Osaka,4,1,1.650,3.900,4.750
-72149848,2026-10-31 06:00,Vissel Kobe,Nagoya Grampus,3,1,1.900,3.400,4.000
-72149840,2026-10-31 07:00,Kashiwa Reysol,Urawa Red Diamonds,4,0,2.200,3.600,3.000
-72149844,2026-11-01 04:00,Yokohama F Marinos,Kawasaki Frontale,4,2,3.200,3.700,2.050
-72149838,2026-11-01 05:00,JEF United Chiba,Avispa Fukuoka,3,0,2.750,3.200,2.625
-72149852,2026-11-01 05:00,V-Varen Nagasaki,Tokyo Verdy,1,2,2.600,3.200,2.700
-72149842,2026-11-01 07:00,Machida Zelvia,Gamba Osaka,0,0,1.800,3.750,4.200
-72149864,2026-11-07 04:00,Shimizu S-Pulse,Tokyo Verdy,0,1,2.550,3.200,2.800
-72149862,2026-11-07 05:00,Yokohama F Marinos,Fagiano Okayama,1,1,2.100,3.500,3.300
-72149866,2026-11-07 05:00,Nagoya Grampus,Kyoto Sanga FC,0,2,1.800,3.800,4.000
-72149858,2026-11-07 06:00,FC Tokyo,Kashima Antlers,2,0,2.100,3.400,3.400
-72149870,2026-11-07 06:00,Avispa Fukuoka,V-Varen Nagasaki,1,1,1.950,3.250,4.000
-72149856,2026-11-07 07:00,Kashiwa Reysol,Kawasaki Frontale,2,1,2.000,3.800,3.300
-72149860,2026-11-08 05:00,Machida Zelvia,Sanfrecce Hiroshima,0,0,3.000,3.300,2.350
-72149872,2026-11-08 05:00,Vissel Kobe,Urawa Red Diamonds,2,2,2.150,3.500,3.200
-72149868,2026-11-08 06:00,Gamba Osaka,Cerezo Osaka,2,3,2.250,3.400,3.100
-72149854,2026-11-08 08:00,JEF United Chiba,Mito Hollyhock,1,0,1.950,3.400,3.900
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+57436779,2025-05-24 06:00,Cerezo Osaka,Avispa Fukuoka,2,0,,,,,,
+57436781,2025-05-24 08:30,Nagoya Grampus,Urawa Red Diamonds,2,1,,,,,,
+57436783,2025-05-25 04:00,Fagiano Okayama,Machida Zelvia,2,2,,,,,,
+57436777,2025-05-25 05:00,Yokohama F Marinos,Kashima Antlers,3,1,,,,,,
+57436785,2025-05-25 05:00,Yokohama FC,Kashiwa Reysol,1,1,,,,,,
+57436787,2025-05-25 05:00,Albirex Niigata,Shonan Bellmare,2,1,,,,,,
+57436789,2025-05-25 05:00,Shimizu S-Pulse,Vissel Kobe,3,2,,,,,,
+57436791,2025-05-25 06:00,FC Tokyo,Sanfrecce Hiroshima,0,3,,,,,,
+57436793,2025-05-25 06:00,Tokyo Verdy,Kyoto Sanga FC,1,0,,,,,,
+57436795,2025-05-25 07:00,Kawasaki Frontale,Gamba Osaka,2,2,,,,,,
+57436857,2025-05-28 10:30,Urawa Red Diamonds,Cerezo Osaka,0,0,,,,,,
+57436797,2025-05-31 05:00,Machida Zelvia,Yokohama F Marinos,0,3,,,,,,
+57436799,2025-05-31 05:00,Nagoya Grampus,Albirex Niigata,3,0,,,,,,
+57436801,2025-05-31 05:00,Avispa Fukuoka,Tokyo Verdy,0,0,,,,,,
+57436803,2025-05-31 07:00,Kashiwa Reysol,Vissel Kobe,1,3,,,,,,
+57436805,2025-05-31 08:30,Sanfrecce Hiroshima,Kawasaki Frontale,1,2,,,,,,
+57436807,2025-05-31 09:00,Gamba Osaka,Kashima Antlers,0,1,,,,,,
+57436809,2025-05-31 10:00,Kyoto Sanga FC,FC Tokyo,3,0,,,,,,
+57436811,2025-06-01 06:00,Shonan Bellmare,Fagiano Okayama,1,1,,,,,,
+57436813,2025-06-01 06:00,Cerezo Osaka,Shimizu S-Pulse,4,2,,,,,,
+57436815,2025-06-01 07:00,Urawa Red Diamonds,Yokohama FC,2,1,,,,,,
+57436819,2025-06-14 08:30,Shonan Bellmare,Machida Zelvia,1,2,,,,,,
+57436821,2025-06-14 09:00,Kashima Antlers,Sanfrecce Hiroshima,1,1,,,,,,
+57436823,2025-06-14 09:00,Yokohama FC,Kawasaki Frontale,0,1,,,,,,
+57436825,2025-06-14 10:00,FC Tokyo,Cerezo Osaka,2,2,,,,,,
+57436827,2025-06-15 05:00,Albirex Niigata,Yokohama F Marinos,1,0,,,,,,
+57436829,2025-06-15 09:00,Tokyo Verdy,Kashiwa Reysol,0,3,,,,,,
+57436831,2025-06-15 09:00,Vissel Kobe,Nagoya Grampus,2,1,,,,,,
+57436833,2025-06-15 09:00,Fagiano Okayama,Avispa Fukuoka,0,1,,,,,,
+57436835,2025-06-15 09:30,Shimizu S-Pulse,Gamba Osaka,0,0,,,,,,
+57436837,2025-06-21 07:00,Machida Zelvia,Kashima Antlers,2,1,,,,,,
+57436839,2025-06-21 07:00,Avispa Fukuoka,Albirex Niigata,3,2,,,,,,
+57436841,2025-06-21 09:30,Cerezo Osaka,Tokyo Verdy,2,1,,,,,,
+57436843,2025-06-21 10:00,Kashiwa Reysol,Kyoto Sanga FC,3,3,,,,,,
+57436845,2025-06-21 10:00,Kawasaki Frontale,Vissel Kobe,1,2,,,,,,
+57436847,2025-06-21 10:00,Yokohama F Marinos,Fagiano Okayama,0,1,,,,,,
+57436849,2025-06-21 10:00,Nagoya Grampus,Shimizu S-Pulse,1,1,,,,,,
+57436851,2025-06-22 09:00,Yokohama FC,Sanfrecce Hiroshima,0,4,,,,,,
+57436853,2025-06-22 09:30,Gamba Osaka,FC Tokyo,2,0,,,,,,
+57436731,2025-06-25 10:00,Kawasaki Frontale,Albirex Niigata,3,1,,,,,,
+57436735,2025-06-25 10:30,Yokohama F Marinos,FC Tokyo,0,3,,,,,,
+57436859,2025-06-28 09:00,Kashima Antlers,Fagiano Okayama,1,2,,,,,,
+57436861,2025-06-28 09:30,Shimizu S-Pulse,Kashiwa Reysol,0,2,,,,,,
+57436863,2025-06-28 10:00,FC Tokyo,Yokohama FC,2,1,,,,,,
+57436865,2025-06-28 10:00,Shonan Bellmare,Yokohama F Marinos,1,1,,,,,,
+57436867,2025-06-28 10:00,Kyoto Sanga FC,Gamba Osaka,3,1,,,,,,
+57436869,2025-06-28 10:00,Sanfrecce Hiroshima,Nagoya Grampus,1,2,,,,,,
+57436871,2025-06-28 10:00,Avispa Fukuoka,Vissel Kobe,0,0,,,,,,
+57436873,2025-06-29 09:00,Tokyo Verdy,Kawasaki Frontale,1,0,,,,,,
+57436875,2025-06-29 09:00,Albirex Niigata,Machida Zelvia,0,4,,,,,,
+56720225,2025-07-02 10:00,Vissel Kobe,Sanfrecce Hiroshima,1,0,,,,,,
+57436877,2025-07-05 09:00,Machida Zelvia,Shimizu S-Pulse,3,0,,,,,,
+57436879,2025-07-05 09:55,Fagiano Okayama,Sanfrecce Hiroshima,0,1,,,,,,
+57436881,2025-07-05 10:00,Kashiwa Reysol,FC Tokyo,1,0,,,,,,
+57436883,2025-07-05 10:00,Kawasaki Frontale,Kashima Antlers,2,1,,,,,,
+57436885,2025-07-05 10:00,Yokohama FC,Yokohama F Marinos,0,1,,,,,,
+57436887,2025-07-05 10:00,Nagoya Grampus,Tokyo Verdy,0,0,,,,,,
+57436889,2025-07-05 10:00,Kyoto Sanga FC,Albirex Niigata,2,1,,,,,,
+57436891,2025-07-05 10:00,Cerezo Osaka,Gamba Osaka,0,1,,,,,,
+57436893,2025-07-05 10:00,Vissel Kobe,Shonan Bellmare,4,0,,,,,,
+57436897,2025-07-19 10:00,FC Tokyo,Urawa Red Diamonds,3,2,,,,,,
+57436899,2025-07-19 10:00,Shonan Bellmare,Cerezo Osaka,3,3,,,,,,
+57436901,2025-07-20 09:00,Kashima Antlers,Kashiwa Reysol,3,2,,,,,,
+57436903,2025-07-20 09:00,Tokyo Verdy,Machida Zelvia,0,1,,,,,,
+57436905,2025-07-20 09:30,Shimizu S-Pulse,Yokohama FC,2,0,,,,,,
+57436907,2025-07-20 10:00,Yokohama F Marinos,Nagoya Grampus,3,0,,,,,,
+57436909,2025-07-20 10:00,Albirex Niigata,Sanfrecce Hiroshima,0,2,,,,,,
+57436911,2025-07-20 10:00,Gamba Osaka,Kawasaki Frontale,2,1,,,,,,
+57436913,2025-07-20 10:00,Fagiano Okayama,Vissel Kobe,1,2,,,,,,
+57436915,2025-07-21 09:00,Avispa Fukuoka,Kyoto Sanga FC,2,2,,,,,,
+57436855,2025-07-23 10:30,Urawa Red Diamonds,Shonan Bellmare,4,1,,,,,,
+57436895,2025-07-27 10:00,Urawa Red Diamonds,Avispa Fukuoka,0,0,,,,,,
+57436917,2025-08-09 09:00,Tokyo Verdy,Yokohama F Marinos,1,0,,,,,,
+57436919,2025-08-09 09:00,Yokohama FC,Urawa Red Diamonds,1,2,,,,,,
+57436921,2025-08-09 10:00,Kawasaki Frontale,Avispa Fukuoka,2,5,,,,,,
+57436923,2025-08-10 09:30,Sanfrecce Hiroshima,Shimizu S-Pulse,0,0,,,,,,
+57436925,2025-08-10 10:00,Kashiwa Reysol,Shonan Bellmare,2,0,,,,,,
+57436927,2025-08-10 10:00,FC Tokyo,Kashima Antlers,0,1,,,,,,
+57436929,2025-08-10 10:00,Machida Zelvia,Vissel Kobe,2,0,,,,,,
+57436931,2025-08-10 10:00,Nagoya Grampus,Kyoto Sanga FC,1,2,,,,,,
+57436933,2025-08-10 10:00,Gamba Osaka,Fagiano Okayama,0,3,,,,,,
+57436935,2025-08-11 10:00,Cerezo Osaka,Albirex Niigata,3,1,,,,,,
+57436937,2025-08-16 09:00,Kashima Antlers,Avispa Fukuoka,1,1,,,,,,
+57436939,2025-08-16 09:30,Shimizu S-Pulse,Yokohama F Marinos,1,3,,,,,,
+57436941,2025-08-16 10:00,Urawa Red Diamonds,Nagoya Grampus,2,1,,,,,,
+57436943,2025-08-16 10:00,Machida Zelvia,Cerezo Osaka,3,0,,,,,,
+57436945,2025-08-16 10:00,Shonan Bellmare,FC Tokyo,2,2,,,,,,
+57436947,2025-08-16 10:00,Albirex Niigata,Kawasaki Frontale,1,1,,,,,,
+57436949,2025-08-16 10:00,Kyoto Sanga FC,Tokyo Verdy,1,0,,,,,,
+57436951,2025-08-16 10:00,Vissel Kobe,Yokohama FC,0,1,,,,,,
+57436953,2025-08-16 10:00,Sanfrecce Hiroshima,Gamba Osaka,1,0,,,,,,
+57436955,2025-08-17 10:30,Fagiano Okayama,Kashiwa Reysol,2,1,,,,,,
+57437017,2025-08-20 10:00,Machida Zelvia,Gamba Osaka,3,1,,,,,,
+57437019,2025-08-20 10:00,Sanfrecce Hiroshima,Vissel Kobe,0,1,,,,,,
+57436957,2025-08-22 10:00,Kashiwa Reysol,Urawa Red Diamonds,4,2,,,,,,
+57436959,2025-08-23 09:00,Avispa Fukuoka,Shimizu S-Pulse,0,0,,,,,,
+57436961,2025-08-23 10:00,Tokyo Verdy,Sanfrecce Hiroshima,0,3,,,,,,
+57436963,2025-08-23 10:00,Albirex Niigata,Kashima Antlers,1,2,,,,,,
+57436965,2025-08-23 10:00,Nagoya Grampus,Kawasaki Frontale,3,4,,,,,,
+57436967,2025-08-23 10:00,Gamba Osaka,Yokohama FC,3,2,,,,,,
+57436969,2025-08-23 10:00,Cerezo Osaka,Vissel Kobe,1,1,,,,,,
+57436971,2025-08-23 10:00,Fagiano Okayama,Shonan Bellmare,1,0,,,,,,
+57436973,2025-08-23 10:30,Yokohama F Marinos,Machida Zelvia,0,0,,,,,,
+57436975,2025-08-24 10:00,FC Tokyo,Kyoto Sanga FC,0,4,,,,,,
+57436977,2025-08-30 09:00,Yokohama FC,Tokyo Verdy,0,0,,,,,,
+57436979,2025-08-30 10:00,Kyoto Sanga FC,Fagiano Okayama,5,0,,,,,,
+57436981,2025-08-30 10:00,Vissel Kobe,Yokohama F Marinos,1,0,,,,,,
+57436983,2025-08-31 09:30,Shimizu S-Pulse,Kashima Antlers,1,1,,,,,,
+57436985,2025-08-31 10:00,Urawa Red Diamonds,Albirex Niigata,1,0,,,,,,
+57436987,2025-08-31 10:00,Kashiwa Reysol,Avispa Fukuoka,2,1,,,,,,
+57436989,2025-08-31 10:00,Kawasaki Frontale,Machida Zelvia,5,3,,,,,,
+57436991,2025-08-31 10:00,Shonan Bellmare,Gamba Osaka,4,5,,,,,,
+57436993,2025-08-31 10:00,Nagoya Grampus,FC Tokyo,1,1,,,,,,
+57436995,2025-08-31 10:00,Cerezo Osaka,Sanfrecce Hiroshima,1,1,,,,,,
+57437001,2025-09-12 10:00,Machida Zelvia,Yokohama FC,1,1,,,,,,
+57437009,2025-09-12 10:00,Vissel Kobe,Kashiwa Reysol,0,0,,,,,,
+57437013,2025-09-12 10:00,Sanfrecce Hiroshima,Kyoto Sanga FC,1,1,,,,,,
+57437015,2025-09-13 09:00,Avispa Fukuoka,Cerezo Osaka,2,4,,,,,,
+57437011,2025-09-13 09:55,Fagiano Okayama,Nagoya Grampus,0,1,,,,,,
+57436997,2025-09-13 10:00,Kashima Antlers,Shonan Bellmare,3,0,,,,,,
+57437003,2025-09-13 10:00,Yokohama F Marinos,Kawasaki Frontale,0,3,,,,,,
+57437005,2025-09-13 10:00,Albirex Niigata,Shimizu S-Pulse,0,1,,,,,,
+57437007,2025-09-13 10:00,Gamba Osaka,Urawa Red Diamonds,1,0,,,,,,
+57436999,2025-09-15 10:00,FC Tokyo,Tokyo Verdy,1,0,,,,,,
+57437031,2025-09-20 08:00,Nagoya Grampus,Shonan Bellmare,3,1,,,,,,
+57437023,2025-09-20 09:00,Tokyo Verdy,Fagiano Okayama,4,2,,,,,,
+57437029,2025-09-20 09:00,Yokohama FC,Albirex Niigata,1,0,,,,,,
+57437035,2025-09-20 09:30,Cerezo Osaka,Kashiwa Reysol,1,1,,,,,,
+57437021,2025-09-20 10:00,Urawa Red Diamonds,Kashima Antlers,0,1,,,,,,
+57437025,2025-09-20 10:00,Kawasaki Frontale,FC Tokyo,0,1,,,,,,
+57437027,2025-09-20 10:00,Yokohama F Marinos,Avispa Fukuoka,2,0,,,,,,
+57437033,2025-09-20 10:00,Kyoto Sanga FC,Shimizu S-Pulse,0,1,,,,,,
+57437045,2025-09-23 05:00,Albirex Niigata,Nagoya Grampus,0,0,,,,,,
+57437037,2025-09-23 09:00,Kashima Antlers,Cerezo Osaka,3,1,,,,,,
+57437041,2025-09-23 09:00,FC Tokyo,Avispa Fukuoka,1,0,,,,,,
+57437047,2025-09-23 09:00,Shimizu S-Pulse,Urawa Red Diamonds,0,0,,,,,,
+57437055,2025-09-23 09:00,Fagiano Okayama,Yokohama FC,0,0,,,,,,
+57437039,2025-09-23 10:00,Kashiwa Reysol,Sanfrecce Hiroshima,0,0,,,,,,
+57437043,2025-09-23 10:00,Shonan Bellmare,Kawasaki Frontale,1,2,,,,,,
+57437049,2025-09-23 10:00,Kyoto Sanga FC,Machida Zelvia,1,1,,,,,,
+57437051,2025-09-23 10:00,Gamba Osaka,Yokohama F Marinos,3,1,,,,,,
+57437053,2025-09-23 10:00,Vissel Kobe,Tokyo Verdy,4,0,,,,,,
+57437061,2025-09-27 07:00,Machida Zelvia,Fagiano Okayama,1,0,,,,,,
+57437067,2025-09-27 08:00,Nagoya Grampus,Kashima Antlers,0,4,,,,,,
+57437069,2025-09-27 08:00,Gamba Osaka,Albirex Niigata,4,2,,,,,,
+57437059,2025-09-27 09:00,Tokyo Verdy,Urawa Red Diamonds,0,0,,,,,,
+57437075,2025-09-27 09:00,Avispa Fukuoka,Sanfrecce Hiroshima,1,2,,,,,,
+57437073,2025-09-27 10:00,Vissel Kobe,Shimizu S-Pulse,2,1,,,,,,
+57437065,2025-09-28 08:00,Yokohama FC,Shonan Bellmare,1,0,,,,,,
+57437057,2025-09-28 09:00,FC Tokyo,Yokohama F Marinos,2,3,,,,,,
+57437071,2025-09-28 09:30,Cerezo Osaka,Kyoto Sanga FC,1,2,,,,,,
+57437063,2025-09-28 10:00,Kawasaki Frontale,Kashiwa Reysol,4,4,,,,,,
+57437077,2025-10-03 10:00,Shonan Bellmare,Tokyo Verdy,0,1,,,,,,
+57437087,2025-10-04 04:00,Shimizu S-Pulse,FC Tokyo,1,1,,,,,,
+57437089,2025-10-04 04:30,Nagoya Grampus,Cerezo Osaka,2,1,,,,,,
+57437085,2025-10-04 05:00,Albirex Niigata,Fagiano Okayama,1,1,,,,,,
+57437093,2025-10-04 07:00,Sanfrecce Hiroshima,Machida Zelvia,2,1,,,,,,
+57437095,2025-10-04 07:30,Avispa Fukuoka,Yokohama FC,1,0,,,,,,
+57437081,2025-10-04 08:00,Urawa Red Diamonds,Vissel Kobe,1,0,,,,,,
+57437083,2025-10-04 08:30,Kashiwa Reysol,Yokohama F Marinos,1,0,,,,,,
+57437091,2025-10-04 10:00,Kyoto Sanga FC,Kawasaki Frontale,1,1,,,,,,
+57437079,2025-10-05 06:00,Kashima Antlers,Gamba Osaka,0,0,,,,,,
+57437111,2025-10-17 10:00,Vissel Kobe,Kashima Antlers,0,0,,,,,,
+57437115,2025-10-17 10:00,Sanfrecce Hiroshima,FC Tokyo,0,0,,,,,,
+57437097,2025-10-18 05:00,Tokyo Verdy,Albirex Niigata,1,0,,,,,,
+57437099,2025-10-18 05:00,Machida Zelvia,Avispa Fukuoka,0,0,,,,,,
+57437101,2025-10-18 05:00,Kawasaki Frontale,Shimizu S-Pulse,5,3,,,,,,
+57437103,2025-10-18 05:00,Yokohama F Marinos,Urawa Red Diamonds,4,0,,,,,,
+57437105,2025-10-18 05:00,Yokohama FC,Nagoya Grampus,2,2,,,,,,
+57437109,2025-10-18 05:00,Gamba Osaka,Kashiwa Reysol,0,5,,,,,,
+57437113,2025-10-18 05:00,Fagiano Okayama,Cerezo Osaka,1,2,,,,,,
+57437107,2025-10-19 06:00,Shonan Bellmare,Kyoto Sanga FC,1,1,,,,,,
+57437117,2025-10-25 05:00,Urawa Red Diamonds,Machida Zelvia,0,0,,,,,,
+57437119,2025-10-25 05:00,Kashiwa Reysol,Yokohama FC,2,0,,,,,,
+57437121,2025-10-25 05:00,FC Tokyo,Fagiano Okayama,3,1,,,,,,
+57437123,2025-10-25 05:00,Yokohama F Marinos,Sanfrecce Hiroshima,3,0,,,,,,
+57437127,2025-10-25 05:00,Shimizu S-Pulse,Tokyo Verdy,1,0,,,,,,
+57437129,2025-10-25 05:00,Nagoya Grampus,Gamba Osaka,0,2,,,,,,
+57437131,2025-10-25 05:00,Kyoto Sanga FC,Kashima Antlers,1,1,,,,,,
+57437133,2025-10-25 06:00,Cerezo Osaka,Kawasaki Frontale,2,0,,,,,,
+57437125,2025-10-26 05:00,Albirex Niigata,Vissel Kobe,2,2,,,,,,
+57437135,2025-10-26 05:40,Avispa Fukuoka,Shonan Bellmare,1,0,,,,,,
+57437137,2025-11-08 05:00,Kashima Antlers,Yokohama FC,2,1,,,,,,
+57437141,2025-11-08 05:00,Tokyo Verdy,Avispa Fukuoka,0,0,,,,,,
+57437143,2025-11-08 06:00,Kawasaki Frontale,Fagiano Okayama,1,1,,,,,,
+57437145,2025-11-08 06:00,Shonan Bellmare,Albirex Niigata,5,2,,,,,,
+57437139,2025-11-08 07:00,Kashiwa Reysol,Nagoya Grampus,1,0,,,,,,
+57437153,2025-11-09 04:00,Sanfrecce Hiroshima,Urawa Red Diamonds,3,0,,,,,,
+57437149,2025-11-09 05:00,Kyoto Sanga FC,Yokohama F Marinos,0,3,,,,,,
+57437155,2025-11-09 05:00,Machida Zelvia,FC Tokyo,0,1,,,,,,
+57437147,2025-11-09 06:00,Shimizu S-Pulse,Cerezo Osaka,1,4,,,,,,
+57437151,2025-11-09 06:00,Gamba Osaka,Vissel Kobe,1,1,,,,,,
+57437157,2025-11-30 05:00,Tokyo Verdy,Kashima Antlers,0,1,,,,,,
+57437159,2025-11-30 05:00,Machida Zelvia,Nagoya Grampus,3,1,,,,,,
+57437161,2025-11-30 05:00,Kawasaki Frontale,Sanfrecce Hiroshima,1,2,,,,,,
+57437163,2025-11-30 05:00,Yokohama F Marinos,Cerezo Osaka,3,1,,,,,,
+57437165,2025-11-30 05:00,Yokohama FC,Kyoto Sanga FC,0,1,,,,,,
+57437167,2025-11-30 05:00,Shonan Bellmare,Shimizu S-Pulse,1,0,,,,,,
+57437169,2025-11-30 05:00,Albirex Niigata,Kashiwa Reysol,1,3,,,,,,
+57437171,2025-11-30 05:00,Vissel Kobe,FC Tokyo,0,0,,,,,,
+57437173,2025-11-30 05:00,Fagiano Okayama,Urawa Red Diamonds,0,1,,,,,,
+57437175,2025-11-30 05:00,Avispa Fukuoka,Gamba Osaka,1,0,,,,,,
+57437177,2025-12-06 05:00,Kashima Antlers,Yokohama F Marinos,2,1,,,,,,
+57437179,2025-12-06 05:00,Urawa Red Diamonds,Kawasaki Frontale,4,0,,,,,,
+57437181,2025-12-06 05:00,Kashiwa Reysol,Machida Zelvia,1,0,,,,,,
+57437183,2025-12-06 05:00,FC Tokyo,Albirex Niigata,1,1,,,,,,
+57437185,2025-12-06 05:00,Shimizu S-Pulse,Fagiano Okayama,1,2,,,,,,
+57437187,2025-12-06 05:00,Nagoya Grampus,Avispa Fukuoka,1,0,,,,,,
+57437189,2025-12-06 05:00,Kyoto Sanga FC,Vissel Kobe,2,0,,,,,,
+57437191,2025-12-06 05:00,Gamba Osaka,Tokyo Verdy,4,1,,,,,,
+57437193,2025-12-06 05:00,Cerezo Osaka,Yokohama FC,1,3,,,,,,
+57437195,2025-12-06 05:00,Sanfrecce Hiroshima,Shonan Bellmare,2,1,,,,,,
+67092066,2026-02-06 10:00,Yokohama F Marinos,Machida Zelvia,2,3,4.200,3.400,1.850,2.25,1.900,1.900
+67092076,2026-02-06 10:00,Kyoto Sanga FC,Vissel Kobe,1,1,3.300,3.100,2.300,2,1.775,2.025
+67092078,2026-02-06 10:00,V-Varen Nagasaki,Sanfrecce Hiroshima,1,3,3.250,3.600,2.050,2.75,2.000,1.800
+67092068,2026-02-07 04:00,JEF United Chiba,Urawa Red Diamonds,0,2,3.400,3.400,2.100,2.5,2.000,1.800
+67092070,2026-02-07 04:30,FC Tokyo,Kashima Antlers,1,1,2.700,3.100,2.700,2.25,1.875,1.925
+67092082,2026-02-07 07:00,Cerezo Osaka,Gamba Osaka,0,0,2.200,3.500,3.200,2.75,1.850,1.950
+67092084,2026-02-08 04:05,Avispa Fukuoka,Fagiano Okayama,1,1,2.000,3.000,4.333,1.75,1.800,2.000
+67092080,2026-02-08 05:00,Nagoya Grampus,Shimizu S-Pulse,1,0,2.000,3.400,3.750,2.25,1.800,2.000
+67092074,2026-02-08 06:00,Kawasaki Frontale,Kashiwa Reysol,5,3,3.000,3.750,2.150,3,1.900,1.900
+67092072,2026-02-08 07:00,Tokyo Verdy,Mito Hollyhock,3,1,2.250,2.900,3.700,1.75,1.950,1.850
+67150234,2026-02-13 10:00,Vissel Kobe,V-Varen Nagasaki,2,0,1.666,3.600,5.250,2.5,1.875,1.925
+67150224,2026-02-14 05:00,Machida Zelvia,Mito Hollyhock,2,2,1.450,4.000,7.000,2.5,2.000,1.800
+67150236,2026-02-14 05:00,Shimizu S-Pulse,Kyoto Sanga FC,1,1,3.500,3.400,2.050,2.75,1.975,1.825
+67150238,2026-02-14 05:00,Sanfrecce Hiroshima,Fagiano Okayama,1,1,1.480,4.100,7.000,2.5,1.900,1.900
+67150226,2026-02-14 06:00,Kashima Antlers,Yokohama F Marinos,1,0,1.750,3.750,4.200,2.75,2.000,1.800
+67150228,2026-02-14 06:00,FC Tokyo,Urawa Red Diamonds,1,1,2.150,3.400,3.200,2.5,1.900,1.900
+67150230,2026-02-15 04:00,JEF United Chiba,Kawasaki Frontale,0,0,3.900,3.900,1.800,3,1.950,1.850
+67150232,2026-02-15 05:00,Kashiwa Reysol,Tokyo Verdy,1,2,1.615,3.750,5.750,2.25,1.800,2.000
+67150240,2026-02-15 06:00,Avispa Fukuoka,Cerezo Osaka,0,2,2.700,3.000,2.800,2.5,1.825,1.975
+67150242,2026-02-15 07:00,Gamba Osaka,Nagoya Grampus,0,0,2.450,3.200,2.875,2.25,1.775,2.025
+67645414,2026-02-21 05:00,Yokohama F Marinos,Urawa Red Diamonds,0,2,2.875,3.400,2.450,2.5,1.900,1.900
+67645416,2026-02-21 05:00,Tokyo Verdy,Machida Zelvia,2,2,3.600,2.875,2.300,1.75,1.850,1.950
+67644844,2026-02-21 05:30,Shimizu S-Pulse,Vissel Kobe,1,0,3.750,3.400,2.000,2.5,2.000,1.800
+67644846,2026-02-21 06:00,Nagoya Grampus,V-Varen Nagasaki,1,3,1.950,3.400,3.900,2.5,1.975,1.825
+67645418,2026-02-21 06:00,Kawasaki Frontale,FC Tokyo,1,2,2.625,3.500,2.550,2.75,2.025,1.775
+67645420,2026-02-21 07:00,Kashima Antlers,Kashiwa Reysol,2,0,3.200,3.400,2.200,2.5,1.975,1.825
+67644848,2026-02-22 05:00,Fagiano Okayama,Gamba Osaka,1,2,2.800,3.200,2.550,2.25,1.900,1.900
+67644850,2026-02-22 05:00,Kyoto Sanga FC,Avispa Fukuoka,2,0,2.050,3.200,3.900,2,1.825,1.975
+67645422,2026-02-22 05:00,Mito Hollyhock,JEF United Chiba,1,1,2.100,3.300,3.500,2.25,2.000,1.800
+67644852,2026-02-22 06:00,Cerezo Osaka,Sanfrecce Hiroshima,1,2,3.500,3.500,2.050,2.75,1.950,1.850
+67644854,2026-02-27 10:00,Vissel Kobe,Avispa Fukuoka,2,1,1.666,3.600,5.500,2,2.050,1.750
+67644856,2026-02-27 10:00,Sanfrecce Hiroshima,Kyoto Sanga FC,1,2,2.050,3.400,3.600,2.5,2.000,1.800
+67645424,2026-02-27 10:00,Machida Zelvia,JEF United Chiba,2,1,1.666,3.900,4.750,2.5,1.775,2.025
+67645426,2026-02-28 04:00,Yokohama F Marinos,Tokyo Verdy,3,2,2.375,3.000,3.300,2,1.925,1.875
+67645428,2026-02-28 05:00,Urawa Red Diamonds,Kashima Antlers,2,3,2.450,3.200,2.875,2.25,1.925,1.875
+67644858,2026-02-28 06:00,Gamba Osaka,Shimizu S-Pulse,2,2,2.200,3.400,3.200,2.5,2.000,1.800
+67645430,2026-02-28 06:00,FC Tokyo,Kashiwa Reysol,0,2,2.875,3.200,2.500,2.5,1.800,2.000
+67644860,2026-02-28 08:00,V-Varen Nagasaki,Cerezo Osaka,1,0,3.000,3.600,2.200,2.75,1.800,2.000
+67644862,2026-03-01 05:00,Fagiano Okayama,Nagoya Grampus,1,1,3.000,2.900,2.300,2,1.825,1.975
+67645432,2026-03-01 07:00,Kawasaki Frontale,Mito Hollyhock,2,2,1.909,3.800,3.500,2.75,1.975,1.825
+67645434,2026-03-07 04:00,JEF United Chiba,Kashiwa Reysol,2,1,4.750,3.700,1.727,2.5,1.900,1.900
+67645436,2026-03-07 05:00,FC Tokyo,Yokohama F Marinos,3,0,2.050,3.300,3.600,2.5,2.000,1.800
+67644864,2026-03-07 06:00,Cerezo Osaka,Shimizu S-Pulse,0,0,2.100,3.800,3.100,2.5,1.800,2.000
+67645440,2026-03-07 06:00,Urawa Red Diamonds,Mito Hollyhock,2,0,1.727,3.600,4.750,2.25,1.875,1.925
+67644866,2026-03-07 07:00,Avispa Fukuoka,Nagoya Grampus,1,5,3.700,3.400,2.000,2,2.025,1.775
+67645442,2026-03-07 07:00,Kashima Antlers,Tokyo Verdy,2,0,1.800,3.750,4.200,2,1.850,1.950
+67644868,2026-03-08 03:55,Fagiano Okayama,Kyoto Sanga FC,1,0,3.200,3.300,2.250,2.25,1.975,1.825
+67644870,2026-03-08 06:00,Gamba Osaka,V-Varen Nagasaki,3,2,2.050,3.700,3.250,2.75,2.025,1.775
+67645444,2026-03-14 04:00,Yokohama F Marinos,JEF United Chiba,2,0,2.100,3.400,3.500,2.5,1.900,1.900
+67644874,2026-03-14 05:00,Shimizu S-Pulse,Fagiano Okayama,1,1,2.500,3.300,2.800,2.25,1.925,1.875
+67644876,2026-03-14 05:00,Nagoya Grampus,Vissel Kobe,0,3,2.700,3.250,2.600,2.25,1.975,1.825
+67644878,2026-03-14 05:00,Kyoto Sanga FC,Cerezo Osaka,1,2,2.250,3.400,3.100,2.5,2.000,1.800
+67645446,2026-03-14 05:00,Mito Hollyhock,FC Tokyo,1,1,3.700,3.400,2.050,2.25,1.925,1.875
+67645448,2026-03-14 05:00,Kashiwa Reysol,Machida Zelvia,0,1,2.050,3.400,3.600,2.25,1.825,1.975
+67644880,2026-03-14 06:00,Sanfrecce Hiroshima,Gamba Osaka,2,0,1.700,3.800,4.500,2.75,2.000,1.800
+67645450,2026-03-14 06:00,Kashima Antlers,Kawasaki Frontale,1,0,1.950,3.600,3.700,2.75,2.000,1.800
+67645452,2026-03-14 07:00,Tokyo Verdy,Urawa Red Diamonds,1,0,3.900,3.100,2.100,2,1.875,1.925
+67644882,2026-03-15 05:00,V-Varen Nagasaki,Avispa Fukuoka,1,0,2.050,3.300,3.500,2.25,1.800,2.000
+67644884,2026-03-18 09:30,Cerezo Osaka,Fagiano Okayama,1,2,1.950,3.500,3.700,2.25,1.975,1.825
+67644886,2026-03-18 10:00,Nagoya Grampus,Sanfrecce Hiroshima,2,1,3.200,3.400,2.200,2.5,1.925,1.875
+67644888,2026-03-18 10:00,V-Varen Nagasaki,Kyoto Sanga FC,1,2,2.625,3.500,2.550,2.5,2.000,1.800
+67644890,2026-03-18 10:00,Vissel Kobe,Gamba Osaka,2,2,1.700,3.750,4.750,2.5,1.900,1.900
+67644892,2026-03-18 10:00,Avispa Fukuoka,Shimizu S-Pulse,1,1,2.875,3.400,2.375,2.25,1.900,1.900
+67645454,2026-03-18 10:00,Tokyo Verdy,Kawasaki Frontale,0,2,3.100,3.400,2.250,2.5,2.000,1.800
+67645456,2026-03-18 10:00,JEF United Chiba,FC Tokyo,1,2,4.000,3.600,1.900,2.5,1.950,1.850
+67645458,2026-03-18 10:00,Mito Hollyhock,Yokohama F Marinos,1,0,2.375,3.300,3.000,2.25,1.900,1.900
+67645460,2026-03-18 10:30,Urawa Red Diamonds,Kashiwa Reysol,1,1,3.200,3.400,2.200,2.5,2.025,1.775
+67645462,2026-03-18 10:30,Machida Zelvia,Kashima Antlers,0,3,2.300,3.100,3.250,2,1.825,1.975
+67644894,2026-03-21 05:00,Fagiano Okayama,V-Varen Nagasaki,0,1,2.300,3.100,3.300,2.5,1.800,2.000
+67644896,2026-03-21 05:30,Avispa Fukuoka,Gamba Osaka,2,2,3.700,3.200,2.100,2.25,1.925,1.875
+67644898,2026-03-22 04:00,Shimizu S-Pulse,Sanfrecce Hiroshima,3,1,4.333,3.250,1.900,2.5,1.950,1.850
+67644900,2026-03-22 05:00,Kyoto Sanga FC,Nagoya Grampus,1,1,2.600,3.250,2.700,2.5,1.925,1.875
+67645464,2026-03-22 05:00,Tokyo Verdy,FC Tokyo,0,0,4.333,3.100,1.950,2,1.975,1.825
+67644902,2026-03-22 06:00,Cerezo Osaka,Vissel Kobe,1,1,2.700,3.250,2.600,2.5,1.975,1.825
+67645466,2026-03-22 06:00,Kashima Antlers,JEF United Chiba,2,1,1.500,3.900,7.000,2.5,1.850,1.950
+67645468,2026-03-22 06:00,Kawasaki Frontale,Yokohama F Marinos,0,5,2.150,3.400,3.250,3,2.025,1.775
+67645470,2026-03-22 07:00,Urawa Red Diamonds,Machida Zelvia,1,2,2.875,3.000,2.600,2.25,2.050,1.750
+67645472,2026-03-22 07:00,Kashiwa Reysol,Mito Hollyhock,3,0,1.533,3.700,7.000,2.5,1.850,1.950
+67644872,2026-03-27 10:00,Vissel Kobe,Sanfrecce Hiroshima,2,1,2.875,3.200,2.600,2.25,2.025,1.775
+69267840,2026-03-28 05:00,Machida Zelvia,Kawasaki Frontale,1,1,1.666,3.800,4.750,2.75,1.875,1.925
+67644928,2026-04-01 10:00,Vissel Kobe,Shimizu S-Pulse,2,0,1.850,3.750,3.800,2.25,1.800,2.000
+67645496,2026-04-01 10:00,Machida Zelvia,FC Tokyo,0,3,2.400,3.100,3.000,2.25,2.000,1.800
+67645474,2026-04-04 04:00,JEF United Chiba,Tokyo Verdy,3,2,2.900,3.100,2.550,2,1.900,1.900
+67645476,2026-04-04 05:00,Mito Hollyhock,Kashima Antlers,1,1,4.000,3.500,1.909,2.25,1.950,1.850
+67644904,2026-04-04 06:00,Nagoya Grampus,Cerezo Osaka,3,0,2.450,3.500,2.700,2.5,1.950,1.850
+67644906,2026-04-04 07:00,Gamba Osaka,Kyoto Sanga FC,2,0,2.400,3.600,2.750,2.5,1.900,1.900
+67644908,2026-04-05 04:00,V-Varen Nagasaki,Shimizu S-Pulse,0,3,2.625,3.300,2.625,2.5,1.900,1.900
+67644910,2026-04-05 05:00,Fagiano Okayama,Vissel Kobe,1,4,3.000,3.000,2.500,2,1.925,1.875
+67644912,2026-04-05 05:00,Sanfrecce Hiroshima,Avispa Fukuoka,0,1,1.450,4.200,7.500,2.5,1.950,1.850
+67645478,2026-04-05 05:00,Kashiwa Reysol,Yokohama F Marinos,3,0,1.571,3.900,5.750,2.5,1.975,1.825
+67645480,2026-04-05 06:00,FC Tokyo,Machida Zelvia,0,0,2.375,3.250,3.000,2.25,2.025,1.775
+67645482,2026-04-05 07:00,Kawasaki Frontale,Urawa Red Diamonds,3,2,2.600,3.500,2.600,2.75,1.850,1.950
+67645484,2026-04-11 04:00,JEF United Chiba,Mito Hollyhock,1,1,2.750,3.100,2.625,2.25,2.000,1.800
+67644914,2026-04-11 05:00,Sanfrecce Hiroshima,Shimizu S-Pulse,1,1,1.615,3.750,5.500,2.5,1.825,1.975
+67644916,2026-04-11 05:00,Avispa Fukuoka,V-Varen Nagasaki,1,0,2.500,3.000,2.900,2.25,1.850,1.950
+67645486,2026-04-11 05:00,Machida Zelvia,Kashiwa Reysol,1,0,2.900,3.000,2.550,2.25,2.000,1.800
+67644918,2026-04-11 06:00,Vissel Kobe,Nagoya Grampus,3,2,2.000,3.400,3.700,2.5,1.800,2.000
+67645488,2026-04-11 06:00,Yokohama F Marinos,FC Tokyo,1,3,4.100,3.600,1.833,2.25,2.025,1.775
+67644920,2026-04-11 07:00,Kyoto Sanga FC,Fagiano Okayama,5,1,2.200,3.200,3.400,2.25,2.025,1.775
+67644922,2026-04-11 07:00,Gamba Osaka,Cerezo Osaka,0,1,2.500,3.300,2.750,2.75,1.950,1.850
+67645490,2026-04-12 05:00,Urawa Red Diamonds,Tokyo Verdy,1,1,2.000,3.200,3.800,2,1.975,1.825
+67645492,2026-04-12 07:00,Kawasaki Frontale,Kashima Antlers,0,2,2.900,3.600,2.200,2.75,1.825,1.975
+67645494,2026-04-18 04:00,Yokohama F Marinos,Kawasaki Frontale,1,2,2.600,3.500,2.550,3,1.800,2.000
+67644924,2026-04-18 05:00,Sanfrecce Hiroshima,V-Varen Nagasaki,2,0,1.363,4.750,8.500,2.75,1.900,1.900
+67645498,2026-04-18 05:00,Kashima Antlers,Urawa Red Diamonds,1,0,1.950,3.400,3.900,2.5,1.825,1.975
+67645500,2026-04-18 06:00,Tokyo Verdy,JEF United Chiba,1,0,2.200,3.100,3.600,2,1.800,2.000
+67644926,2026-04-18 07:00,Cerezo Osaka,Kyoto Sanga FC,3,0,2.250,3.400,3.100,2.75,1.825,1.975
+67645502,2026-04-19 04:00,Mito Hollyhock,Kashiwa Reysol,2,0,4.500,3.100,1.950,2.25,1.950,1.850
+67644930,2026-04-19 06:00,Gamba Osaka,Fagiano Okayama,2,2,1.700,3.750,4.750,2.5,1.950,1.850
+67644932,2026-04-19 07:00,Nagoya Grampus,Avispa Fukuoka,2,2,1.727,3.500,5.000,2.25,1.825,1.975
+67645074,2026-04-22 10:00,Gamba Osaka,Avispa Fukuoka,1,2,1.900,3.500,4.000,2.25,1.850,1.950
+67645504,2026-04-24 10:00,Kashiwa Reysol,Kashima Antlers,1,1,2.250,3.300,3.200,2.5,2.025,1.775
+67645506,2026-04-24 10:00,FC Tokyo,Mito Hollyhock,5,2,1.700,3.500,5.250,2.25,1.875,1.925
+67644934,2026-04-25 05:00,Shimizu S-Pulse,Nagoya Grampus,0,2,3.000,3.300,2.350,2.5,2.000,1.800
+67644936,2026-04-25 05:00,Fagiano Okayama,Avispa Fukuoka,2,0,2.250,3.100,3.400,2,2.025,1.775
+67645508,2026-04-25 05:00,Urawa Red Diamonds,Yokohama F Marinos,2,3,2.100,3.200,3.600,2.5,1.950,1.850
+67645512,2026-04-25 06:00,Kawasaki Frontale,JEF United Chiba,2,1,1.600,4.000,5.250,2.75,1.875,1.925
+67644938,2026-04-25 07:00,Sanfrecce Hiroshima,Cerezo Osaka,2,1,1.615,4.000,5.000,2.75,1.875,1.925
+67644940,2026-04-25 09:30,V-Varen Nagasaki,Gamba Osaka,1,1,3.600,3.700,1.950,2.5,1.950,1.850
+67644944,2026-04-29 04:00,Shimizu S-Pulse,V-Varen Nagasaki,1,2,1.909,3.400,4.000,2.5,1.825,1.975
+67645514,2026-04-29 04:00,Tokyo Verdy,Kashima Antlers,2,1,4.333,3.100,1.950,2.25,1.850,1.950
+67644946,2026-04-29 05:00,Avispa Fukuoka,Sanfrecce Hiroshima,2,2,5.250,3.600,1.666,2.25,1.875,1.925
+67645030,2026-04-29 05:00,Vissel Kobe,Cerezo Osaka,0,0,1.533,4.500,5.250,2.75,1.900,1.900
+67645516,2026-04-29 05:00,JEF United Chiba,Yokohama F Marinos,2,3,3.200,3.250,2.300,2.5,2.025,1.775
+67645032,2026-04-29 06:00,Nagoya Grampus,Fagiano Okayama,1,1,1.700,3.800,4.750,2.25,1.900,1.900
+67645034,2026-04-29 06:00,Kyoto Sanga FC,Gamba Osaka,1,1,2.375,3.300,2.875,2.5,1.950,1.850
+67645518,2026-04-29 06:00,Urawa Red Diamonds,Kawasaki Frontale,2,0,2.150,3.600,3.000,2.75,1.825,1.975
+67645520,2026-04-29 07:00,Mito Hollyhock,Machida Zelvia,2,2,3.500,3.250,2.100,2.25,1.975,1.825
+67645522,2026-04-29 07:00,Kashiwa Reysol,FC Tokyo,1,3,2.700,3.300,2.600,2.5,2.025,1.775
+67645036,2026-05-02 03:55,Fagiano Okayama,Sanfrecce Hiroshima,1,0,4.750,3.800,1.666,2.5,1.825,1.975
+67645038,2026-05-02 05:00,Kyoto Sanga FC,Shimizu S-Pulse,1,2,2.050,3.300,3.600,2.25,1.900,1.900
+67645524,2026-05-02 05:00,FC Tokyo,Kawasaki Frontale,2,0,1.900,3.600,3.900,2.75,1.925,1.875
+67645526,2026-05-02 05:00,Yokohama F Marinos,Mito Hollyhock,1,1,2.700,3.200,2.700,2.25,1.850,1.950
+67645040,2026-05-02 06:00,Gamba Osaka,Vissel Kobe,5,0,3.100,3.400,2.250,2.25,1.925,1.875
+67645528,2026-05-02 07:00,Urawa Red Diamonds,JEF United Chiba,2,0,1.700,3.750,5.000,2.5,1.975,1.825
+67645530,2026-05-03 05:00,Tokyo Verdy,Kashiwa Reysol,1,0,3.400,3.100,2.250,2,1.825,1.975
+67645042,2026-05-03 06:00,Cerezo Osaka,Avispa Fukuoka,1,1,1.750,3.700,4.333,2.5,1.875,1.925
+67645532,2026-05-03 07:00,Kashima Antlers,Machida Zelvia,1,1,2.300,3.000,3.300,2.25,1.975,1.825
+67645044,2026-05-03 08:00,V-Varen Nagasaki,Nagoya Grampus,1,2,2.400,3.250,2.900,2.5,1.975,1.825
+67645046,2026-05-06 04:00,Shimizu S-Pulse,Cerezo Osaka,1,1,2.625,3.250,2.625,2.5,1.950,1.850
+67645048,2026-05-06 04:00,V-Varen Nagasaki,Fagiano Okayama,2,1,2.875,3.200,2.550,2.25,1.975,1.825
+67645050,2026-05-06 05:00,Nagoya Grampus,Gamba Osaka,2,1,2.100,3.250,3.000,2.5,1.850,1.950
+67645052,2026-05-06 05:00,Avispa Fukuoka,Kyoto Sanga FC,1,1,3.200,3.000,2.375,2.25,1.900,1.900
+67645054,2026-05-06 06:00,Sanfrecce Hiroshima,Vissel Kobe,1,1,2.300,3.400,3.000,2.5,2.000,1.800
+67645534,2026-05-06 06:00,FC Tokyo,JEF United Chiba,1,3,1.400,4.750,7.000,2.5,1.925,1.875
+67645536,2026-05-06 07:00,Machida Zelvia,Yokohama F Marinos,2,0,1.909,3.400,4.000,2.5,2.025,1.775
+67645538,2026-05-06 07:00,Kashima Antlers,Mito Hollyhock,3,0,1.700,3.600,5.250,2.25,1.900,1.900
+67645540,2026-05-06 08:00,Kawasaki Frontale,Tokyo Verdy,1,0,2.050,3.250,3.600,2.5,1.850,1.950
+67645542,2026-05-06 10:00,Kashiwa Reysol,Urawa Red Diamonds,0,1,2.100,3.500,3.300,2.25,2.000,1.800
+67645544,2026-05-09 05:00,Mito Hollyhock,Urawa Red Diamonds,1,4,4.000,3.300,1.950,2.25,1.975,1.825
+67645056,2026-05-09 07:00,Cerezo Osaka,V-Varen Nagasaki,3,2,1.700,4.000,4.500,2.75,1.900,1.900
+67645058,2026-05-10 05:00,Shimizu S-Pulse,Avispa Fukuoka,1,1,2.250,3.000,3.500,2.25,1.975,1.825
+67645060,2026-05-10 05:00,Vissel Kobe,Fagiano Okayama,0,3,1.666,3.600,5.250,2.25,1.925,1.875
+67645546,2026-05-10 05:00,Yokohama F Marinos,Kashima Antlers,1,1,3.250,3.500,2.150,2.5,1.950,1.850
+67645062,2026-05-10 06:00,Gamba Osaka,Sanfrecce Hiroshima,0,1,3.700,3.600,1.950,2.5,1.800,2.000
+67645548,2026-05-10 06:00,FC Tokyo,Tokyo Verdy,2,1,1.900,3.200,4.500,2,1.900,1.900
+67645064,2026-05-10 07:00,Nagoya Grampus,Kyoto Sanga FC,3,0,1.909,3.600,3.800,2.5,1.875,1.925
+67645550,2026-05-10 07:00,Kashiwa Reysol,Kawasaki Frontale,1,0,1.850,3.400,3.600,2.75,1.950,1.850
+67645552,2026-05-10 08:00,JEF United Chiba,Machida Zelvia,0,2,4.200,3.400,1.900,2.25,1.975,1.825
+67644942,2026-05-13 10:00,Vissel Kobe,Kyoto Sanga FC,1,1,1.833,3.500,4.333,2.5,1.775,2.025
+67645510,2026-05-13 10:00,Machida Zelvia,Tokyo Verdy,0,0,1.900,3.000,4.750,2,1.825,1.975
+67645554,2026-05-16 05:00,Mito Hollyhock,Tokyo Verdy,0,1,2.250,3.000,3.500,2,2.025,1.775
+67645556,2026-05-16 07:00,Urawa Red Diamonds,FC Tokyo,0,0,2.875,3.100,2.600,2.25,1.925,1.875
+67645558,2026-05-16 08:00,Yokohama F Marinos,Kashiwa Reysol,0,1,3.250,3.200,2.250,2.5,2.025,1.775
+67645066,2026-05-17 04:00,V-Varen Nagasaki,Vissel Kobe,2,2,5.000,3.700,1.666,2.5,1.950,1.850
+67645068,2026-05-17 05:00,Fagiano Okayama,Shimizu S-Pulse,2,0,2.350,3.100,3.200,2,1.750,2.050
+67645560,2026-05-17 05:00,JEF United Chiba,Kashima Antlers,0,2,5.250,3.900,1.615,2.5,2.000,1.800
+67645070,2026-05-17 06:00,Kyoto Sanga FC,Sanfrecce Hiroshima,0,4,3.750,3.500,1.950,2.75,1.975,1.825
+67645072,2026-05-17 06:00,Cerezo Osaka,Nagoya Grampus,6,2,2.400,3.400,2.800,2.75,1.875,1.925
+67645562,2026-05-17 10:00,Kawasaki Frontale,Machida Zelvia,1,1,3.400,3.000,2.250,2.25,1.925,1.875
+67645564,2026-05-22 10:30,Machida Zelvia,Urawa Red Diamonds,1,0,2.200,3.100,3.500,2,1.850,1.950
+67645076,2026-05-23 05:00,Sanfrecce Hiroshima,Nagoya Grampus,4,2,1.900,3.900,3.600,3,1.875,1.925
+67645078,2026-05-23 05:00,Avispa Fukuoka,Vissel Kobe,1,1,4.100,3.400,1.900,2.25,2.050,1.750
+67645566,2026-05-23 08:30,Kashima Antlers,FC Tokyo,1,0,3.000,3.300,2.300,2.25,1.900,1.900
+67645568,2026-05-23 09:00,Kashiwa Reysol,JEF United Chiba,4,2,1.571,4.100,5.750,2.5,1.950,1.850
+67645080,2026-05-23 10:00,Kyoto Sanga FC,V-Varen Nagasaki,2,0,2.150,3.500,3.250,2.5,1.850,1.950
+67645082,2026-05-24 03:55,Fagiano Okayama,Cerezo Osaka,2,3,2.700,3.250,2.600,2.5,2.000,1.800
+67645570,2026-05-24 05:00,Mito Hollyhock,Kawasaki Frontale,1,3,2.900,3.500,2.300,2.5,1.900,1.900
+67645572,2026-05-24 05:00,Tokyo Verdy,Yokohama F Marinos,0,6,2.625,3.000,2.875,2,2.025,1.775
+67645084,2026-05-24 08:00,Shimizu S-Pulse,Gamba Osaka,1,2,2.700,3.100,2.750,2.25,1.975,1.825
+71716610,2026-05-30 05:00,Vissel Kobe,Kashima Antlers,5,0,2.375,3.000,3.300,2,1.875,1.925
+71717478,2026-05-30 05:00,Nagoya Grampus,Machida Zelvia,2,2,2.875,3.200,2.500,2.25,1.950,1.850
+71717646,2026-05-30 05:00,Sanfrecce Hiroshima,Kawasaki Frontale,2,1,1.850,3.900,3.700,3,1.950,1.850
+71717650,2026-05-30 06:00,Cerezo Osaka,FC Tokyo,2,2,2.900,3.300,2.400,2.5,1.900,1.900
+71717756,2026-05-30 07:00,Avispa Fukuoka,JEF United Chiba,2,2,2.000,3.100,4.100,2,1.950,1.850
+71717764,2026-05-30 07:00,Gamba Osaka,Tokyo Verdy,1,1,2.450,3.000,3.100,2,1.950,1.850
+71717814,2026-05-30 08:00,V-Varen Nagasaki,Mito Hollyhock,1,0,2.625,3.100,2.800,2.25,2.000,1.800
+71717818,2026-05-30 10:00,Kyoto Sanga FC,Kashiwa Reysol,2,6,3.200,3.200,2.300,2.25,1.900,1.900
+71717824,2026-05-31 05:00,Fagiano Okayama,Urawa Red Diamonds,1,1,2.750,2.900,2.750,2,1.975,1.825
+71717832,2026-05-31 05:00,Shimizu S-Pulse,Yokohama F Marinos,1,1,3.000,3.100,2.400,2.25,1.900,1.900
+71716702,2026-06-06 05:00,Kashima Antlers,Vissel Kobe,2,0,2.200,3.400,3.200,2.25,1.825,1.975
+71717704,2026-06-06 05:00,FC Tokyo,Cerezo Osaka,1,3,1.950,3.600,3.600,2.75,1.850,1.950
+71717760,2026-06-06 05:00,JEF United Chiba,Avispa Fukuoka,1,2,3.000,3.000,2.500,2,2.000,1.800
+71717596,2026-06-06 06:00,Machida Zelvia,Nagoya Grampus,0,0,2.050,3.400,3.500,2.5,2.025,1.775
+71717816,2026-06-06 06:00,Mito Hollyhock,V-Varen Nagasaki,0,1,1.800,3.600,4.333,2.25,1.950,1.850
+71717768,2026-06-06 07:00,Tokyo Verdy,Gamba Osaka,2,4,2.000,3.100,4.100,2,1.900,1.900
+71717826,2026-06-06 07:00,Urawa Red Diamonds,Fagiano Okayama,0,2,1.850,3.300,4.333,2.25,1.950,1.850
+71717854,2026-06-06 08:00,Yokohama F Marinos,Shimizu S-Pulse,3,0,2.200,3.200,3.300,2.25,2.025,1.775
+71717820,2026-06-06 09:00,Kashiwa Reysol,Kyoto Sanga FC,0,1,1.750,3.750,4.333,2.5,1.825,1.975
+71717648,2026-06-06 10:00,Kawasaki Frontale,Sanfrecce Hiroshima,0,1,3.000,3.800,2.100,3,1.925,1.875
+72115554,2026-08-07 10:25,Yokohama F Marinos,Kashima Antlers,3,4,3.400,3.100,2.250,2.25,2.000,1.800
+72115564,2026-08-07 10:30,Gamba Osaka,Urawa Red Diamonds,4,3,2.375,3.000,3.100,2.25,1.825,1.975
+72115556,2026-08-08 10:00,Kashiwa Reysol,Mito Hollyhock,2,1,1.700,3.600,5.000,2.5,1.925,1.875
+72115558,2026-08-08 10:00,FC Tokyo,Machida Zelvia,1,5,2.250,2.900,3.600,2,1.900,1.900
+72115562,2026-08-08 10:00,Nagoya Grampus,Shimizu S-Pulse,0,1,1.950,3.400,4.000,2.5,1.825,1.975
+72115566,2026-08-08 10:00,Cerezo Osaka,Fagiano Okayama,2,1,2.000,3.300,3.600,2.5,1.850,1.950
+72115570,2026-08-08 10:00,Avispa Fukuoka,Vissel Kobe,0,1,3.400,3.000,2.300,2,1.950,1.850
+72115568,2026-08-08 10:15,Sanfrecce Hiroshima,JEF United Chiba,3,0,1.380,5.000,7.500,2.75,1.775,2.025
+72115560,2026-08-09 09:00,Tokyo Verdy,Kawasaki Frontale,1,1,3.400,3.000,2.300,2.25,2.025,1.775
+72115572,2026-08-09 10:00,V-Varen Nagasaki,Kyoto Sanga FC,2,1,3.300,3.200,2.200,2.25,1.900,1.900
+72149614,2026-08-14 10:00,Tokyo Verdy,Kashiwa Reysol,1,3,4.333,3.400,1.833,2.25,2.050,1.750
+72149616,2026-08-15 09:00,Kashima Antlers,Nagoya Grampus,2,1,1.850,3.500,4.100,2.5,1.850,1.950
+72149618,2026-08-15 09:00,Mito Hollyhock,Gamba Osaka,1,1,2.750,3.100,2.700,2.25,1.900,1.900
+72149626,2026-08-15 09:30,Shimizu S-Pulse,Yokohama F Marinos,0,1,2.350,3.200,3.100,2.5,2.025,1.775
+72149630,2026-08-15 09:55,Fagiano Okayama,V-Varen Nagasaki,1,0,1.600,3.800,5.500,2.25,1.775,2.025
+72149620,2026-08-15 10:00,Urawa Red Diamonds,Sanfrecce Hiroshima,1,4,3.700,3.600,1.950,2.75,1.950,1.850
+72149622,2026-08-15 10:00,JEF United Chiba,Machida Zelvia,0,4,5.000,3.500,1.750,2.25,1.950,1.850
+72149624,2026-08-15 10:00,Kawasaki Frontale,Kyoto Sanga FC,2,2,2.250,3.400,3.100,2.5,1.800,2.000
+72149628,2026-08-15 10:00,Vissel Kobe,FC Tokyo,2,2,2.300,3.200,3.100,2.25,1.925,1.875
+72149632,2026-08-15 10:00,Avispa Fukuoka,Cerezo Osaka,3,0,2.625,3.100,2.750,2.25,1.825,1.975
+72149636,2026-08-21 10:00,Kashiwa Reysol,V-Varen Nagasaki,4,2,1.444,4.333,7.000,2.75,1.875,1.925
+72149634,2026-08-21 10:30,FC Tokyo,JEF United Chiba,2,0,1.480,4.500,6.000,2.75,1.775,2.025
+72149638,2026-08-22 09:00,Kashima Antlers,Avispa Fukuoka,3,2,1.950,3.100,4.333,2,1.750,2.050
+72149648,2026-08-22 09:30,Fagiano Okayama,Tokyo Verdy,0,0,1.750,3.250,5.250,2,1.800,2.000
+72149642,2026-08-22 10:00,Nagoya Grampus,Gamba Osaka,3,1,2.400,3.500,2.800,2.75,1.950,1.850
+72149644,2026-08-22 10:00,Kyoto Sanga FC,Mito Hollyhock,1,3,2.150,3.200,3.500,2.25,1.850,1.950
+72149646,2026-08-22 10:00,Cerezo Osaka,Shimizu S-Pulse,1,0,2.375,3.100,3.100,2.25,1.800,2.000
+72149650,2026-08-22 10:15,Sanfrecce Hiroshima,Kawasaki Frontale,1,1,1.500,4.333,6.000,3.25,1.875,1.925
+72149640,2026-08-22 10:30,Yokohama F Marinos,Vissel Kobe,1,0,2.600,3.200,2.800,2.25,1.875,1.925
+72149652,2026-08-23 10:30,Machida Zelvia,Urawa Red Diamonds,3,1,1.909,3.400,4.100,2.5,2.000,1.800
+72149654,2026-08-29 09:00,Mito Hollyhock,Machida Zelvia,1,1,4.333,3.400,1.850,2.25,1.900,1.900
+72149668,2026-08-29 09:00,Gamba Osaka,Sanfrecce Hiroshima,0,0,4.500,3.800,1.700,3,1.875,1.925
+72149662,2026-08-29 09:30,Shimizu S-Pulse,Kashiwa Reysol,0,1,4.500,3.600,1.800,2.5,2.000,1.800
+72149672,2026-08-29 09:30,V-Varen Nagasaki,FC Tokyo,0,3,5.750,3.750,1.615,2.5,1.800,2.000
+72149656,2026-08-29 10:00,Urawa Red Diamonds,Yokohama F Marinos,3,2,2.200,3.500,3.100,2.5,1.925,1.875
+72149658,2026-08-29 10:00,Tokyo Verdy,Kashima Antlers,0,2,4.500,3.100,1.900,2.25,2.050,1.750
+72149660,2026-08-29 10:00,Kawasaki Frontale,JEF United Chiba,4,2,1.533,4.200,6.000,3,1.850,1.950
+72149664,2026-08-29 10:00,Nagoya Grampus,Fagiano Okayama,2,1,2.750,3.400,2.500,2.5,1.900,1.900
+72149666,2026-08-29 10:00,Kyoto Sanga FC,Avispa Fukuoka,2,1,2.800,3.250,2.550,2.25,1.950,1.850
+72149670,2026-08-29 10:00,Vissel Kobe,Cerezo Osaka,1,0,2.500,3.000,3.000,2.25,1.925,1.875
+72149674,2026-09-02 10:00,Mito Hollyhock,Kashima Antlers,4,2,5.000,3.800,1.666,2.5,1.900,1.900
+72149676,2026-09-02 10:00,JEF United Chiba,Fagiano Okayama,1,2,3.900,3.400,1.950,2.25,1.775,2.025
+72149678,2026-09-02 10:00,Tokyo Verdy,Vissel Kobe,0,2,3.600,2.900,2.300,1.75,1.800,2.000
+72149680,2026-09-02 10:00,Machida Zelvia,Kawasaki Frontale,2,1,2.050,3.500,3.700,2.75,1.850,1.950
+72149682,2026-09-02 10:00,Yokohama F Marinos,Kyoto Sanga FC,1,1,1.950,3.500,3.750,2.75,1.975,1.825
+72149684,2026-09-02 10:00,Shimizu S-Pulse,FC Tokyo,1,1,5.250,3.600,1.700,2.5,1.950,1.850
+72149686,2026-09-02 10:00,Cerezo Osaka,Kashiwa Reysol,2,0,3.300,3.600,2.050,2.75,1.900,1.900
+72149688,2026-09-02 10:00,Sanfrecce Hiroshima,Nagoya Grampus,3,0,1.571,4.200,5.250,3.25,1.950,1.850
+72149690,2026-09-02 10:00,Avispa Fukuoka,Urawa Red Diamonds,2,3,2.750,3.000,2.750,2.25,2.000,1.800
+72149692,2026-09-02 10:00,V-Varen Nagasaki,Gamba Osaka,2,2,2.800,3.200,2.600,2.5,1.975,1.825
+72149710,2026-09-05 10:00,Avispa Fukuoka,Mito Hollyhock,1,1,2.100,3.100,3.600,2.25,1.900,1.900
+72149694,2026-09-06 09:00,Kashima Antlers,Urawa Red Diamonds,0,1,1.727,3.600,4.500,2.75,1.900,1.900
+72149696,2026-09-06 09:00,JEF United Chiba,Gamba Osaka,2,0,3.900,3.400,1.850,2.75,1.950,1.850
+72149702,2026-09-06 09:00,Nagoya Grampus,Machida Zelvia,1,3,3.100,3.250,2.200,2.5,1.825,1.975
+72149708,2026-09-06 09:00,Fagiano Okayama,Sanfrecce Hiroshima,3,2,4.000,3.300,1.900,2.5,1.950,1.850
+72149698,2026-09-06 10:00,Kashiwa Reysol,Yokohama F Marinos,0,2,1.700,3.600,4.500,2.75,1.900,1.900
+72149704,2026-09-06 10:00,Cerezo Osaka,Tokyo Verdy,0,0,1.615,3.700,5.000,2.5,1.850,1.950
+72149706,2026-09-06 10:00,Vissel Kobe,V-Varen Nagasaki,3,1,1.550,3.900,5.500,2.5,1.950,1.850
+72149712,2026-09-06 10:00,Kawasaki Frontale,Shimizu S-Pulse,3,1,1.800,3.400,4.200,2.75,1.975,1.825
+72149700,2026-09-06 10:30,FC Tokyo,Kyoto Sanga FC,2,0,1.480,4.100,6.250,3,2.025,1.775
+72149724,2026-09-11 10:00,Kyoto Sanga FC,Kashiwa Reysol,2,3,4.333,3.800,1.750,2.75,1.825,1.975
+72149728,2026-09-11 10:00,Vissel Kobe,Kashima Antlers,2,1,2.250,3.200,3.400,2.25,1.900,1.900
+72149716,2026-09-12 09:00,Mito Hollyhock,Kawasaki Frontale,0,1,3.100,3.500,2.200,2.75,1.900,1.900
+72149722,2026-09-12 09:30,Shimizu S-Pulse,Avispa Fukuoka,1,0,2.750,3.100,2.625,2,1.900,1.900
+72149714,2026-09-12 10:00,Machida Zelvia,Yokohama F Marinos,1,1,1.950,3.500,3.900,2.5,1.950,1.850
+72149726,2026-09-12 10:00,Gamba Osaka,FC Tokyo,0,2,3.750,3.700,1.900,2.75,1.950,1.850
+72149730,2026-09-12 10:00,Sanfrecce Hiroshima,Cerezo Osaka,6,1,1.666,4.000,4.500,3,1.925,1.875
+72149732,2026-09-12 10:00,V-Varen Nagasaki,Nagoya Grampus,2,0,3.400,3.500,2.000,2.75,1.950,1.850
+72149720,2026-09-13 09:00,Tokyo Verdy,JEF United Chiba,1,1,2.200,3.300,3.300,2.25,2.000,1.800
+72149718,2026-09-13 09:30,Urawa Red Diamonds,Fagiano Okayama,1,2,2.450,3.400,2.750,2.5,1.900,1.900
+72149740,2026-09-19 09:00,Kawasaki Frontale,Kashima Antlers,3,3,2.450,3.600,2.700,2.75,1.800,2.000
+72149750,2026-09-19 09:00,Avispa Fukuoka,Sanfrecce Hiroshima,0,1,4.200,3.500,1.833,2.5,1.900,1.900
+72149736,2026-09-19 09:30,Urawa Red Diamonds,Tokyo Verdy,3,1,1.950,3.250,4.100,2.25,1.850,1.950
+72149744,2026-09-19 09:30,Shimizu S-Pulse,JEF United Chiba,2,1,1.909,3.200,4.333,2.25,2.000,1.800
+72149752,2026-09-19 09:30,V-Varen Nagasaki,Cerezo Osaka,1,1,3.100,3.400,2.250,2.5,1.825,1.975
+72149734,2026-09-19 10:00,FC Tokyo,Nagoya Grampus,1,0,1.533,4.000,6.250,2.75,1.900,1.900
+72149748,2026-09-19 10:00,Fagiano Okayama,Kyoto Sanga FC,1,2,1.800,3.500,4.500,2.5,2.000,1.800
+72149742,2026-09-19 10:30,Yokohama F Marinos,Mito Hollyhock,2,0,2.000,3.250,3.800,2.5,1.950,1.850
+72149738,2026-09-20 08:00,Machida Zelvia,Kashiwa Reysol,2,4,2.450,3.250,2.800,2.5,2.000,1.800
+72149746,2026-09-20 08:00,Gamba Osaka,Vissel Kobe,0,1,3.600,3.200,2.100,2.5,1.850,1.950
+72149754,2026-10-09 10:00,Kashima Antlers,Gamba Osaka,2,0,1.615,3.700,5.000,2.75,1.800,2.000
+72149760,2026-10-09 10:00,Kashiwa Reysol,Vissel Kobe,4,2,2.200,3.250,3.100,2.75,1.950,1.850
+72149770,2026-10-10 05:00,Cerezo Osaka,Yokohama F Marinos,0,0,2.400,3.500,2.750,2.75,1.825,1.975
+72149762,2026-10-10 06:00,FC Tokyo,Urawa Red Diamonds,3,0,2.050,3.300,3.500,2.75,2.000,1.800
+72149772,2026-10-10 06:00,Avispa Fukuoka,Fagiano Okayama,2,1,3.000,3.100,2.400,2,1.825,1.975
+72149768,2026-10-10 10:00,Kyoto Sanga FC,Machida Zelvia,0,1,3.600,3.400,2.000,2.5,1.950,1.850
+72149758,2026-10-11 05:00,JEF United Chiba,V-Varen Nagasaki,1,1,2.500,3.250,2.800,2.25,1.775,2.025
+72149756,2026-10-11 06:00,Mito Hollyhock,Shimizu S-Pulse,1,2,3.250,3.000,2.350,2,1.900,1.900
+72149764,2026-10-11 06:00,Tokyo Verdy,Sanfrecce Hiroshima,0,2,6.500,3.600,1.550,2.5,1.900,1.900
+72149766,2026-10-11 07:00,Kawasaki Frontale,Nagoya Grampus,1,2,1.727,3.900,4.333,3,2.000,1.800
+72149786,2026-10-17 04:00,Shimizu S-Pulse,Gamba Osaka,2,2,2.250,3.250,3.000,2.5,1.900,1.900
+72149778,2026-10-17 05:00,JEF United Chiba,Yokohama F Marinos,0,0,3.600,3.500,1.909,2.5,1.850,1.950
+72149782,2026-10-17 05:00,Tokyo Verdy,FC Tokyo,0,4,5.000,3.600,1.650,2.25,1.800,2.000
+72149792,2026-10-17 05:00,Sanfrecce Hiroshima,Kyoto Sanga FC,3,0,1.363,4.500,7.500,3.25,1.925,1.875
+72149774,2026-10-17 06:00,Kashima Antlers,V-Varen Nagasaki,2,0,1.480,4.100,5.750,2.75,1.850,1.950
+72149788,2026-10-17 06:00,Cerezo Osaka,Kawasaki Frontale,2,4,2.700,3.500,2.350,3,1.900,1.900
+72149776,2026-10-17 07:00,Mito Hollyhock,Urawa Red Diamonds,0,1,3.300,3.500,2.000,2.5,1.950,1.850
+72149780,2026-10-17 10:00,Kashiwa Reysol,Nagoya Grampus,1,3,1.600,4.000,4.750,3,1.900,1.900
+72149790,2026-10-18 04:55,Fagiano Okayama,Vissel Kobe,0,3,2.800,3.000,2.500,2.25,1.900,1.900
+72149784,2026-10-18 07:00,Machida Zelvia,Avispa Fukuoka,3,0,1.750,3.250,4.750,2,1.750,2.050
+72149796,2026-10-21 10:00,FC Tokyo,Kashiwa Reysol,0,0,1.800,3.800,4.200,2.75,1.850,1.950
+72149798,2026-10-21 10:00,Kawasaki Frontale,Vissel Kobe,2,1,3.200,3.500,2.150,3,1.975,1.825
+72149800,2026-10-21 10:00,Yokohama F Marinos,Tokyo Verdy,2,2,1.950,3.400,4.000,2.25,2.000,1.800
+72149802,2026-10-21 10:00,Shimizu S-Pulse,Machida Zelvia,0,5,4.500,3.100,1.909,2,1.900,1.900
+72149804,2026-10-21 10:00,Nagoya Grampus,Cerezo Osaka,1,1,2.250,3.500,3.000,2.75,1.825,1.975
+72149806,2026-10-21 10:00,Kyoto Sanga FC,Kashima Antlers,2,2,4.200,3.600,1.800,2.5,1.925,1.875
+72149808,2026-10-21 10:00,Fagiano Okayama,Mito Hollyhock,2,0,1.600,3.700,6.000,2.25,1.900,1.900
+72149810,2026-10-21 10:00,Avispa Fukuoka,Gamba Osaka,1,2,2.625,3.100,2.750,2.25,1.875,1.925
+72149812,2026-10-21 10:00,V-Varen Nagasaki,Sanfrecce Hiroshima,4,0,6.250,5.000,1.420,3,1.950,1.850
+72149794,2026-10-21 10:30,Urawa Red Diamonds,JEF United Chiba,3,2,1.500,4.200,6.250,2.75,1.825,1.975
+72149832,2026-10-24 05:00,Sanfrecce Hiroshima,Shimizu S-Pulse,4,0,1.420,4.500,7.500,3,1.950,1.850
+72149814,2026-10-24 06:00,Kashima Antlers,Kashiwa Reysol,2,3,2.200,3.600,3.000,2.75,1.950,1.850
+72149820,2026-10-24 06:00,Tokyo Verdy,Avispa Fukuoka,3,1,3.000,3.000,2.450,2,2.025,1.775
+72149830,2026-10-24 06:00,Vissel Kobe,Machida Zelvia,0,0,2.750,3.250,2.550,2.25,1.825,1.975
+72149826,2026-10-24 07:00,Gamba Osaka,Kyoto Sanga FC,2,2,1.800,3.800,4.100,2.5,1.875,1.925
+72149824,2026-10-25 05:00,Nagoya Grampus,Yokohama F Marinos,1,1,2.150,3.600,3.100,2.75,1.900,1.900
+72149816,2026-10-25 06:00,Urawa Red Diamonds,V-Varen Nagasaki,1,0,1.571,3.800,5.750,2.75,1.950,1.850
+72149828,2026-10-25 06:00,Cerezo Osaka,JEF United Chiba,2,2,1.800,3.700,4.200,3,1.975,1.825
+72149818,2026-10-25 07:00,FC Tokyo,Mito Hollyhock,6,0,1.363,4.500,9.500,2.75,1.950,1.850
+72149822,2026-10-25 07:00,Kawasaki Frontale,Fagiano Okayama,2,1,1.850,3.750,3.900,2.75,1.850,1.950
+72149836,2026-10-31 05:00,Mito Hollyhock,Sanfrecce Hiroshima,0,3,7.000,4.750,1.400,3,1.975,1.825
+72149846,2026-10-31 05:00,Kyoto Sanga FC,Shimizu S-Pulse,2,0,2.050,3.400,3.500,2.5,2.025,1.775
+72149850,2026-10-31 05:00,Fagiano Okayama,FC Tokyo,0,4,3.900,3.500,1.900,2.5,1.900,1.900
+72149834,2026-10-31 06:00,Kashima Antlers,Cerezo Osaka,4,1,1.650,3.900,4.750,2.75,1.950,1.850
+72149848,2026-10-31 06:00,Vissel Kobe,Nagoya Grampus,3,1,1.900,3.400,4.000,2.5,1.950,1.850
+72149840,2026-10-31 07:00,Kashiwa Reysol,Urawa Red Diamonds,4,0,2.200,3.600,3.000,3,1.950,1.850
+72149844,2026-11-01 04:00,Yokohama F Marinos,Kawasaki Frontale,4,2,3.200,3.700,2.050,3,1.825,1.975
+72149838,2026-11-01 05:00,JEF United Chiba,Avispa Fukuoka,3,0,2.750,3.200,2.625,2.25,1.950,1.850
+72149852,2026-11-01 05:00,V-Varen Nagasaki,Tokyo Verdy,1,2,2.600,3.200,2.700,2.25,1.900,1.900
+72149842,2026-11-01 07:00,Machida Zelvia,Gamba Osaka,0,0,1.800,3.750,4.200,2.5,1.800,2.000
+72149864,2026-11-07 04:00,Shimizu S-Pulse,Tokyo Verdy,0,1,2.550,3.200,2.800,2,1.725,2.075
+72149862,2026-11-07 05:00,Yokohama F Marinos,Fagiano Okayama,1,1,2.100,3.500,3.300,2.75,2.000,1.800
+72149866,2026-11-07 05:00,Nagoya Grampus,Kyoto Sanga FC,0,2,1.800,3.800,4.000,2.75,1.825,1.975
+72149858,2026-11-07 06:00,FC Tokyo,Kashima Antlers,2,0,2.100,3.400,3.400,2.75,1.900,1.900
+72149870,2026-11-07 06:00,Avispa Fukuoka,V-Varen Nagasaki,1,1,1.950,3.250,4.000,2.25,2.000,1.800
+72149856,2026-11-07 07:00,Kashiwa Reysol,Kawasaki Frontale,2,1,2.000,3.800,3.300,3.25,2.000,1.800
+72149860,2026-11-08 05:00,Machida Zelvia,Sanfrecce Hiroshima,0,0,3.000,3.300,2.350,2.5,1.800,2.000
+72149872,2026-11-08 05:00,Vissel Kobe,Urawa Red Diamonds,2,2,2.150,3.500,3.200,2.75,1.950,1.850
+72149868,2026-11-08 06:00,Gamba Osaka,Cerezo Osaka,2,3,2.250,3.400,3.100,2.75,1.925,1.875
+72149854,2026-11-08 08:00,JEF United Chiba,Mito Hollyhock,1,0,1.950,3.400,3.900,2.25,1.875,1.925

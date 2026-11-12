@@ -1,377 +1,377 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-54641263,2025-05-25 13:30,Gornik Zabrze II,KS Gornik Polkowice,0,0,,,
-54641247,2025-05-25 15:00,Odra Bytom Odrzanski,BTP Stal Brzeg,1,1,,,
-54641257,2025-05-25 15:00,Slask II Wroclaw,Miedz Legnica II,3,1,,,
-54641281,2025-05-30 13:30,KS Sleza Wroclaw,BTP Stal Brzeg,4,0,,,
-54641275,2025-05-31 11:00,LKS Goczalkowice-Zdroj,Podlesianka Katowice,2,0,,,
-54641279,2025-05-31 15:00,GKS Pniowek Pawlowice,MKS Polonia Slubice,3,0,,,
-54641271,2025-05-31 16:00,KS Lechia Zielona Gora,Slask II Wroclaw,0,1,,,
-54641265,2025-06-01 11:00,Gornik Zabrze II,Odra Bytom Odrzanski,1,1,,,
-54641283,2025-06-07 13:00,Odra Bytom Odrzanski,KS Sleza Wroclaw,2,1,,,
-54641291,2025-06-07 13:00,Podlesianka Katowice,Miedz Legnica II,1,5,,,
-54641295,2025-06-07 15:00,Slask II Wroclaw,Warta Gorzow Wielkopolski,1,1,,,
-62036354,2025-08-09 13:00,GKS Pniowek Pawlowice,Slowianin Woliborz,2,0,,,
-62036362,2025-08-16 10:00,Gornik Zabrze II,MKS Kluczbork,0,1,,,
-62036372,2025-08-16 10:00,BKS Sparta Katowice,Mkp Carina Gubin,1,1,,,
-62036378,2025-08-16 10:00,Zaglebie Lubin II,GKS Pniowek Pawlowice,2,1,,,
-62036368,2025-08-16 12:00,SKRA Czestochowa,Warta Gorzow Wielkopolski,1,3,,,
-62036382,2025-08-22 16:00,KS Gornik Polkowice,Zaglebie Lubin II,3,1,,,
-62036386,2025-08-23 11:00,LKS Goczalkowice-Zdroj,Slowianin Woliborz,1,1,,,
-62036388,2025-08-23 11:00,LZS Starowice,Gornik Zabrze II,0,4,,,
-62036394,2025-08-23 15:00,GKS Pniowek Pawlowice,MKS Stal Jasien,1,2,,,
-62036392,2025-08-24 15:00,MKS Kluczbork,SKRA Czestochowa,1,1,,,
-62036398,2025-08-27 11:00,Gornik Zabrze II,KS Sleza Wroclaw,4,2,,,
-62036406,2025-08-27 14:00,BKS Sparta Katowice,KS Gornik Polkowice,2,0,,,
-62036414,2025-08-27 14:00,Zaglebie Lubin II,KS Lechia Zielona Gora,1,5,,,
-62036400,2025-08-27 15:00,GKS Pniowek Pawlowice,LKS Goczalkowice-Zdroj,2,2,,,
-62036402,2025-08-27 15:00,SKRA Czestochowa,Karkonosze Jelenia Gora,2,0,,,
-62036404,2025-08-27 15:00,Slowianin Woliborz,MKS Kluczbork,2,1,,,
-62036408,2025-08-27 15:00,MKS Stal Jasien,Miedz Legnica II,1,2,,,
-62036424,2025-08-30 15:00,KS Lechia Zielona Gora,SKRA Czestochowa,1,1,,,
-62036418,2025-08-31 10:00,Gornik Zabrze II,KS Polonia Nysa,2,2,,,
-62036420,2025-08-31 15:00,KS Gornik Polkowice,Slowianin Woliborz,3,2,,,
-62036450,2025-09-05 13:00,Zaglebie Lubin II,SKRA Czestochowa,3,4,,,
-62036436,2025-09-05 14:00,Miedz Legnica II,KS Gornik Polkowice,0,1,,,
-62036442,2025-09-06 10:00,BKS Sparta Katowice,LKS Goczalkowice-Zdroj,0,0,,,
-62036440,2025-09-06 12:30,Slowianin Woliborz,Gornik Zabrze II,3,2,,,
-62036448,2025-09-06 14:00,Warta Gorzow Wielkopolski,LZS Starowice,1,1,,,
-62036456,2025-09-12 14:00,KS Gornik Polkowice,Warta Gorzow Wielkopolski,2,2,,,
-62036468,2025-09-12 17:00,KS Polonia Nysa,MKS Stal Jasien,5,1,,,
-62036454,2025-09-13 11:00,Gornik Zabrze II,BKS Sparta Katowice,0,2,,,
-62036470,2025-09-19 14:00,KS Gornik Polkowice,SKRA Czestochowa,4,1,,,
-62036472,2025-09-19 14:00,Miedz Legnica II,LKS Goczalkowice-Zdroj,1,3,,,
-62036478,2025-09-20 10:00,BKS Sparta Katowice,MKS Kluczbork,1,0,,,
-62036486,2025-09-20 10:00,Zaglebie Lubin II,KS Polonia Nysa,5,2,,,
-62036482,2025-09-20 13:30,KS Sleza Wroclaw,Mkp Carina Gubin,2,2,,,
-62036474,2025-09-20 14:00,GKS Pniowek Pawlowice,Karkonosze Jelenia Gora,3,1,,,
-62036480,2025-09-21 13:00,MKS Stal Jasien,LZS Starowice,2,2,,,
-62036502,2025-09-26 17:00,KS Polonia Nysa,GKS Pniowek Pawlowice,1,1,,,
-62036496,2025-09-27 11:00,LKS Goczalkowice-Zdroj,KS Gornik Polkowice,0,0,,,
-62036494,2025-09-27 17:57,KS Lechia Zielona Gora,Miedz Legnica II,0,0,,,
-62036490,2025-09-28 12:00,Gornik Zabrze II,Zaglebie Lubin II,1,1,,,
-62036522,2025-10-03 13:30,KS Sleza Wroclaw,Zaglebie Lubin II,0,1,,,
-62036512,2025-10-03 14:00,Miedz Legnica II,Karkonosze Jelenia Gora,2,2,,,
-62036518,2025-10-04 10:00,BKS Sparta Katowice,KS Lechia Zielona Gora,0,0,,,
-62036514,2025-10-04 14:00,GKS Pniowek Pawlowice,MKS Kluczbork,1,3,,,
-62036540,2025-10-10 13:00,Zaglebie Lubin II,Slowianin Woliborz,2,1,,,
-62036528,2025-10-10 16:30,KS Lechia Zielona Gora,Gornik Zabrze II,3,0,,,
-62036534,2025-10-11 10:00,BKS Sparta Katowice,GKS Pniowek Pawlowice,3,2,,,
-62036530,2025-10-11 13:00,MKS Kluczbork,MKS Stal Jasien,1,0,,,
-62036536,2025-10-11 13:00,KS Sleza Wroclaw,KS Gornik Polkowice,0,5,,,
-62036558,2025-10-17 14:00,KS Polonia Nysa,Warta Gorzow Wielkopolski,1,1,,,
-62036548,2025-10-18 10:00,Miedz Legnica II,KS Sleza Wroclaw,1,2,,,
-62036544,2025-10-18 11:00,LKS Goczalkowice-Zdroj,Karkonosze Jelenia Gora,1,0,,,
-62036542,2025-10-19 13:00,Gornik Zabrze II,SKRA Czestochowa,1,2,,,
-62036568,2025-10-24 11:00,LKS Goczalkowice-Zdroj,MKS Kluczbork,2,1,,,
-62036570,2025-10-24 13:00,Miedz Legnica II,Gornik Zabrze II,2,1,,,
-62036574,2025-10-24 13:00,KS Sleza Wroclaw,SKRA Czestochowa,1,2,,,
-62036572,2025-10-25 10:00,BKS Sparta Katowice,LZS Starowice,2,1,,,
-62036562,2025-10-26 12:00,KS Gornik Polkowice,GKS Pniowek Pawlowice,1,0,,,
-62036578,2025-10-31 11:00,Gornik Zabrze II,LKS Goczalkowice-Zdroj,1,1,,,
-62036584,2025-10-31 13:00,GKS Pniowek Pawlowice,Miedz Legnica II,3,1,,,
-62036588,2025-10-31 13:00,Slowianin Woliborz,KS Sleza Wroclaw,1,1,,,
-62036592,2025-10-31 18:00,KS Polonia Nysa,Karkonosze Jelenia Gora,0,4,,,
-62036604,2025-11-07 13:00,Miedz Legnica II,Zaglebie Lubin II,5,5,,,
-62036610,2025-11-07 13:00,KS Sleza Wroclaw,GKS Pniowek Pawlowice,5,0,,,
-62036608,2025-11-08 11:00,BKS Sparta Katowice,KS Polonia Nysa,1,1,,,
-62036598,2025-11-08 12:00,KS Gornik Polkowice,Gornik Zabrze II,2,1,,,
-62036612,2025-11-08 12:00,Warta Gorzow Wielkopolski,MKS Kluczbork,1,2,,,
-62036600,2025-11-08 16:00,Karkonosze Jelenia Gora,KS Lechia Zielona Gora,1,2,,,
-62036630,2025-11-14 12:00,Zaglebie Lubin II,LKS Goczalkowice-Zdroj,5,0,,,
-62036614,2025-11-15 11:00,Gornik Zabrze II,Karkonosze Jelenia Gora,1,2,,,
-62036934,2025-11-15 12:00,KS Sleza Wroclaw,MKS Kluczbork,2,0,,,
-62036624,2025-11-15 15:00,SKRA Czestochowa,Slowianin Woliborz,2,1,,,
-62036616,2025-11-15 16:00,KS Lechia Zielona Gora,KS Gornik Polkowice,5,0,,,
-62036648,2025-11-21 11:00,Zaglebie Lubin II,BKS Sparta Katowice,2,0,,,
-62036642,2025-11-21 12:00,GKS Pniowek Pawlowice,Gornik Zabrze II,1,3,,,
-62036638,2025-11-22 11:00,Miedz Legnica II,KS Polonia Nysa,7,2,,,
-62036636,2025-11-22 12:00,LKS Goczalkowice-Zdroj,LZS Starowice,2,2,,,
-62036644,2025-11-22 12:00,KS Sleza Wroclaw,MKS Stal Jasien,4,2,,,
-62036650,2025-11-29 11:00,Gornik Zabrze II,Mkp Carina Gubin,6,0,,,
-62036662,2025-11-29 11:00,BKS Sparta Katowice,Warta Gorzow Wielkopolski,3,4,,,
-62036682,2026-02-27 13:30,KS Sleza Wroclaw,Karkonosze Jelenia Gora,1,0,2.200,3.700,2.625
-62036670,2026-02-27 14:00,KS Gornik Polkowice,LZS Starowice,2,0,,,
-62036676,2026-02-28 11:00,Miedz Legnica II,Slowianin Woliborz,1,2,,,
-62036674,2026-02-28 12:00,LKS Goczalkowice-Zdroj,KS Polonia Nysa,1,2,,,
-62036684,2026-02-28 13:00,Warta Gorzow Wielkopolski,SKRA Czestochowa,5,0,,,
-62036672,2026-02-28 16:00,KS Lechia Zielona Gora,MKS Stal Jasien,3,0,,,
-62036678,2026-02-28 16:00,MKS Kluczbork,Gornik Zabrze II,2,2,,,
-62036686,2026-03-06 13:00,Gornik Zabrze II,LZS Starowice,7,0,1.500,4.333,4.750
-62036698,2026-03-06 17:00,KS Polonia Nysa,KS Sleza Wroclaw,1,3,2.000,3.400,3.100
-62036694,2026-03-07 11:00,BKS Sparta Katowice,Miedz Legnica II,2,2,1.909,3.600,3.100
-62036692,2026-03-07 12:00,Slowianin Woliborz,LKS Goczalkowice-Zdroj,0,1,,,
-62036700,2026-03-07 13:00,Warta Gorzow Wielkopolski,KS Lechia Zielona Gora,1,3,3.400,3.700,1.800
-62036690,2026-03-07 15:00,SKRA Czestochowa,MKS Kluczbork,5,4,4.200,4.000,1.600
-62036696,2026-03-07 15:00,MKS Stal Jasien,GKS Pniowek Pawlowice,0,3,,,
-62036702,2026-03-08 11:00,Zaglebie Lubin II,KS Gornik Polkowice,0,2,2.450,3.500,2.400
-62036720,2026-03-13 14:00,KS Sleza Wroclaw,Gornik Zabrze II,2,1,2.500,3.700,2.300
-62036706,2026-03-13 14:30,KS Gornik Polkowice,BKS Sparta Katowice,0,4,1.950,3.250,3.500
-62036708,2026-03-13 17:00,Karkonosze Jelenia Gora,SKRA Czestochowa,2,2,2.050,3.400,3.100
-62036712,2026-03-14 12:00,LKS Goczalkowice-Zdroj,GKS Pniowek Pawlowice,3,0,1.333,5.000,6.250
-62036714,2026-03-14 12:00,LZS Starowice,KS Polonia Nysa,0,0,,,
-62036704,2026-03-14 14:00,Mkp Carina Gubin,Warta Gorzow Wielkopolski,0,0,,,
-62036716,2026-03-14 15:00,Miedz Legnica II,MKS Stal Jasien,0,0,,,
-62036710,2026-03-14 17:00,KS Lechia Zielona Gora,Zaglebie Lubin II,0,0,1.600,4.000,4.200
-62036718,2026-03-15 14:00,MKS Kluczbork,Slowianin Woliborz,1,1,1.615,4.000,4.100
-69594248,2026-03-17 15:00,KS Gornik Polkowice,Karkonosze Jelenia Gora,1,1,1.700,3.700,4.000
-62036680,2026-03-18 12:00,GKS Pniowek Pawlowice,Zaglebie Lubin II,0,4,6.000,4.500,1.380
-69377680,2026-03-18 13:00,Mkp Carina Gubin,BKS Sparta Katowice,0,0,,,
-69720928,2026-03-18 14:00,Warta Gorzow Wielkopolski,Slowianin Woliborz,1,2,,,
-69594150,2026-03-18 15:00,LZS Starowice,KS Sleza Wroclaw,2,2,2.900,3.400,2.100
-62036734,2026-03-20 17:00,KS Polonia Nysa,Gornik Zabrze II,1,2,3.200,3.800,1.850
-62036726,2026-03-20 17:30,SKRA Czestochowa,KS Lechia Zielona Gora,2,1,3.400,3.750,1.800
-62036730,2026-03-21 11:00,BKS Sparta Katowice,KS Sleza Wroclaw,0,1,1.666,3.750,4.100
-62036722,2026-03-21 12:00,Miedz Legnica II,Mkp Carina Gubin,3,1,1.800,4.000,3.200
-62036724,2026-03-21 12:00,GKS Pniowek Pawlowice,LZS Starowice,0,0,,,
-62036728,2026-03-21 14:00,Slowianin Woliborz,KS Gornik Polkowice,0,0,,,
-62036736,2026-03-21 14:00,Warta Gorzow Wielkopolski,Karkonosze Jelenia Gora,3,1,2.100,3.600,2.750
-62036732,2026-03-21 15:00,MKS Stal Jasien,LKS Goczalkowice-Zdroj,0,0,,,
-62036738,2026-03-22 13:30,Zaglebie Lubin II,MKS Kluczbork,3,2,1.700,4.100,3.600
-69734524,2026-03-25 17:00,SKRA Czestochowa,Miedz Legnica II,1,0,2.000,3.750,2.900
-62036752,2026-03-27 17:00,MKS Kluczbork,KS Polonia Nysa,1,1,1.727,3.600,3.900
-62036748,2026-03-28 12:00,LKS Goczalkowice-Zdroj,BKS Sparta Katowice,1,0,2.000,3.400,3.100
-62036742,2026-03-28 13:00,Gornik Zabrze II,Slowianin Woliborz,2,2,1.450,4.500,4.750
-62036744,2026-03-28 13:00,KS Gornik Polkowice,Miedz Legnica II,3,3,1.800,3.750,3.300
-62036750,2026-03-28 13:00,LZS Starowice,Warta Gorzow Wielkopolski,1,2,,,
-62036740,2026-03-28 15:00,Mkp Carina Gubin,GKS Pniowek Pawlowice,0,0,,,
-62036746,2026-03-28 15:00,Karkonosze Jelenia Gora,MKS Stal Jasien,0,0,,,
-62036754,2026-03-28 15:00,SKRA Czestochowa,Zaglebie Lubin II,3,0,2.625,4.000,2.050
-62036756,2026-03-29 13:30,KS Sleza Wroclaw,KS Lechia Zielona Gora,0,0,3.750,3.700,1.727
-69594980,2026-04-01 16:00,Karkonosze Jelenia Gora,MKS Kluczbork,1,4,2.150,3.500,2.750
-69594850,2026-04-01 17:00,KS Lechia Zielona Gora,LKS Goczalkowice-Zdroj,5,0,1.700,3.600,4.000
-69594924,2026-04-01 17:00,KS Polonia Nysa,KS Gornik Polkowice,1,2,3.100,3.500,1.950
-62036766,2026-04-02 10:00,BKS Sparta Katowice,Gornik Zabrze II,1,2,2.250,3.600,2.500
-62036760,2026-04-04 10:00,Miedz Legnica II,MKS Kluczbork,3,1,,,
-62036774,2026-04-04 10:00,Zaglebie Lubin II,Karkonosze Jelenia Gora,1,1,1.615,4.000,4.000
-62036762,2026-04-04 11:00,GKS Pniowek Pawlowice,SKRA Czestochowa,2,3,5.250,4.750,1.380
-62036764,2026-04-04 13:00,Slowianin Woliborz,LZS Starowice,0,0,,,
-62036770,2026-04-04 13:30,KS Sleza Wroclaw,LKS Goczalkowice-Zdroj,2,1,2.050,3.700,2.875
-62036768,2026-04-04 14:00,MKS Stal Jasien,KS Polonia Nysa,0,0,,,
-62036772,2026-04-04 14:00,Warta Gorzow Wielkopolski,KS Gornik Polkowice,1,1,2.000,3.800,2.900
-62036758,2026-04-04 17:30,KS Lechia Zielona Gora,Mkp Carina Gubin,0,0,1.333,4.750,6.500
-62036778,2026-04-10 12:00,Gornik Zabrze II,Warta Gorzow Wielkopolski,3,1,1.800,4.100,3.250
-62036776,2026-04-10 14:00,Mkp Carina Gubin,KS Sleza Wroclaw,0,0,,,
-62036780,2026-04-10 16:00,Karkonosze Jelenia Gora,GKS Pniowek Pawlowice,1,1,1.270,5.250,7.000
-62036792,2026-04-10 17:00,KS Polonia Nysa,Zaglebie Lubin II,2,4,3.600,3.900,1.727
-62036784,2026-04-11 10:00,LKS Goczalkowice-Zdroj,Miedz Legnica II,1,2,1.800,3.800,3.400
-62036786,2026-04-11 14:00,LZS Starowice,MKS Stal Jasien,0,0,,,
-62036790,2026-04-11 14:00,SKRA Czestochowa,KS Gornik Polkowice,0,3,2.250,3.300,2.700
-62036788,2026-04-11 15:00,MKS Kluczbork,BKS Sparta Katowice,0,0,,,
-62036782,2026-04-11 17:30,KS Lechia Zielona Gora,Slowianin Woliborz,0,0,,,
-69734526,2026-04-14 16:00,Karkonosze Jelenia Gora,Mkp Carina Gubin,3,2,2.050,3.600,2.800
-62036808,2026-04-17 13:30,KS Sleza Wroclaw,Warta Gorzow Wielkopolski,0,0,2.100,3.500,2.900
-62036794,2026-04-17 15:00,KS Gornik Polkowice,LKS Goczalkowice-Zdroj,0,0,2.050,3.400,3.100
-62036796,2026-04-17 15:00,LZS Starowice,MKS Kluczbork,0,0,,,
-62036798,2026-04-18 10:00,Miedz Legnica II,KS Lechia Zielona Gora,0,0,,,
-62036804,2026-04-18 10:00,BKS Sparta Katowice,Karkonosze Jelenia Gora,3,1,2.000,3.600,2.900
-62036810,2026-04-18 10:00,Zaglebie Lubin II,Gornik Zabrze II,0,5,1.800,4.333,3.000
-62036802,2026-04-18 13:00,Slowianin Woliborz,Mkp Carina Gubin,0,0,,,
-62036806,2026-04-18 14:00,MKS Stal Jasien,SKRA Czestochowa,0,0,,,
-62036800,2026-04-18 15:00,GKS Pniowek Pawlowice,KS Polonia Nysa,0,0,,,
-62036828,2026-04-25 10:00,Zaglebie Lubin II,KS Sleza Wroclaw,2,1,1.533,4.200,4.500
-62036822,2026-04-25 13:00,SKRA Czestochowa,LZS Starowice,3,2,1.480,4.200,5.000
-62036814,2026-04-25 14:00,Gornik Zabrze II,MKS Stal Jasien,0,0,,,
-62036826,2026-04-25 14:00,Warta Gorzow Wielkopolski,LKS Goczalkowice-Zdroj,1,2,2.200,3.500,2.625
-62036812,2026-04-25 15:00,Mkp Carina Gubin,KS Gornik Polkowice,0,0,,,
-62036816,2026-04-25 15:00,Karkonosze Jelenia Gora,Miedz Legnica II,1,1,2.100,3.600,2.800
-62036820,2026-04-25 15:00,MKS Kluczbork,GKS Pniowek Pawlowice,0,0,,,
-62036818,2026-04-25 18:00,KS Lechia Zielona Gora,BKS Sparta Katowice,0,0,1.600,3.800,4.333
-62036824,2026-04-26 10:00,KS Polonia Nysa,Slowianin Woliborz,0,0,2.400,3.600,2.375
-62036840,2026-04-29 15:00,GKS Pniowek Pawlowice,BKS Sparta Katowice,0,1,,,
-62036832,2026-05-01 10:00,KS Gornik Polkowice,KS Sleza Wroclaw,2,1,1.727,3.600,4.000
-62036834,2026-05-01 10:00,LKS Goczalkowice-Zdroj,Mkp Carina Gubin,1,2,1.750,3.750,3.600
-62036836,2026-05-01 11:00,LZS Starowice,Karkonosze Jelenia Gora,1,6,,,
-62036838,2026-05-01 12:00,Miedz Legnica II,Warta Gorzow Wielkopolski,2,0,2.300,3.600,2.500
-62036842,2026-05-01 12:00,Slowianin Woliborz,Zaglebie Lubin II,2,1,,,
-62036830,2026-05-01 13:00,Gornik Zabrze II,KS Lechia Zielona Gora,0,2,2.150,3.700,2.625
-62036846,2026-05-01 14:00,KS Polonia Nysa,SKRA Czestochowa,2,3,2.750,3.800,2.050
-62036844,2026-05-02 14:00,MKS Stal Jasien,MKS Kluczbork,0,0,,,
-62036864,2026-05-08 10:00,Zaglebie Lubin II,LZS Starowice,5,0,1.270,5.500,7.000
-62036860,2026-05-08 13:30,KS Sleza Wroclaw,Miedz Legnica II,3,2,2.400,3.500,2.400
-62036852,2026-05-08 14:00,Karkonosze Jelenia Gora,LKS Goczalkowice-Zdroj,0,1,2.150,3.750,2.600
-62036858,2026-05-09 10:00,BKS Sparta Katowice,Slowianin Woliborz,1,0,1.833,3.600,3.500
-62036850,2026-05-09 14:00,KS Gornik Polkowice,MKS Stal Jasien,0,0,,,
-62036856,2026-05-09 14:00,SKRA Czestochowa,Gornik Zabrze II,1,2,2.550,3.800,2.200
-62036848,2026-05-09 15:00,Mkp Carina Gubin,MKS Kluczbork,0,0,,,
-62036862,2026-05-09 15:00,Warta Gorzow Wielkopolski,KS Polonia Nysa,1,0,1.850,3.500,3.400
-62036854,2026-05-09 18:00,KS Lechia Zielona Gora,GKS Pniowek Pawlowice,1,0,,,
-62036882,2026-05-12 15:00,Zaglebie Lubin II,Mkp Carina Gubin,1,4,1.750,4.100,3.400
-62036866,2026-05-13 12:00,Gornik Zabrze II,Miedz Legnica II,0,1,1.833,4.333,2.875
-62036878,2026-05-13 14:00,MKS Stal Jasien,Warta Gorzow Wielkopolski,0,0,,,
-62036868,2026-05-13 15:00,LZS Starowice,BKS Sparta Katowice,0,0,,,
-62036870,2026-05-13 15:00,MKS Kluczbork,LKS Goczalkowice-Zdroj,0,0,,,
-62036872,2026-05-13 15:00,GKS Pniowek Pawlowice,KS Gornik Polkowice,0,7,8.000,5.250,1.270
-62036874,2026-05-13 16:00,SKRA Czestochowa,KS Sleza Wroclaw,2,1,1.533,4.333,4.333
-62036876,2026-05-13 16:00,Slowianin Woliborz,Karkonosze Jelenia Gora,2,2,2.100,4.000,2.625
-62036880,2026-05-13 16:00,KS Polonia Nysa,KS Lechia Zielona Gora,0,1,3.200,3.600,1.900
-62036900,2026-05-15 15:00,Warta Gorzow Wielkopolski,Zaglebie Lubin II,1,2,,,
-62036892,2026-05-16 10:00,LKS Goczalkowice-Zdroj,Gornik Zabrze II,2,2,2.550,3.900,2.150
-62036896,2026-05-16 10:00,BKS Sparta Katowice,SKRA Czestochowa,1,0,2.200,3.500,2.625
-62036898,2026-05-16 10:00,KS Sleza Wroclaw,Slowianin Woliborz,2,0,2.200,3.500,2.625
-62036894,2026-05-16 11:00,Miedz Legnica II,GKS Pniowek Pawlowice,6,0,1.111,9.000,15.000
-62036884,2026-05-16 14:00,Mkp Carina Gubin,MKS Stal Jasien,0,0,,,
-62036890,2026-05-16 18:00,KS Lechia Zielona Gora,LZS Starowice,5,1,1.142,7.500,15.000
-62036886,2026-05-17 10:00,KS Gornik Polkowice,MKS Kluczbork,3,1,1.500,4.000,4.750
-62036888,2026-05-17 10:00,Karkonosze Jelenia Gora,KS Polonia Nysa,3,1,2.100,3.500,2.900
-62036902,2026-05-22 10:00,Gornik Zabrze II,KS Gornik Polkowice,6,0,3.100,4.000,1.900
-62036918,2026-05-22 10:00,Zaglebie Lubin II,Miedz Legnica II,1,3,2.050,3.900,2.700
-62036912,2026-05-22 17:00,SKRA Czestochowa,LKS Goczalkowice-Zdroj,4,0,1.800,3.700,3.500
-62036906,2026-05-23 13:00,LZS Starowice,Mkp Carina Gubin,0,2,,,
-62036914,2026-05-23 14:00,MKS Stal Jasien,Slowianin Woliborz,0,0,,,
-62036908,2026-05-23 15:00,MKS Kluczbork,Warta Gorzow Wielkopolski,0,0,,,
-62036910,2026-05-23 15:00,GKS Pniowek Pawlowice,KS Sleza Wroclaw,2,4,,,
-62036904,2026-05-23 18:00,KS Lechia Zielona Gora,Karkonosze Jelenia Gora,4,0,1.380,4.333,6.250
-62036916,2026-05-24 17:00,KS Polonia Nysa,BKS Sparta Katowice,2,3,,,
-65653558,2026-05-29 16:00,MKS Kluczbork,KS Sleza Wroclaw,6,0,1.270,5.000,8.500
-62036920,2026-05-30 13:00,Mkp Carina Gubin,KS Polonia Nysa,1,2,,,
-62036936,2026-05-30 13:00,Warta Gorzow Wielkopolski,GKS Pniowek Pawlowice,2,0,1.166,7.000,11.000
-62036926,2026-05-30 14:00,LKS Goczalkowice-Zdroj,Zaglebie Lubin II,3,2,2.050,3.900,2.700
-62036932,2026-05-30 14:00,BKS Sparta Katowice,MKS Stal Jasien,0,0,,,
-62036922,2026-05-30 15:00,KS Gornik Polkowice,KS Lechia Zielona Gora,1,2,2.500,3.750,2.200
-62036924,2026-05-30 15:00,Karkonosze Jelenia Gora,Gornik Zabrze II,0,0,,,
-62036928,2026-05-30 15:00,Miedz Legnica II,LZS Starowice,2,1,1.222,6.250,8.000
-62036930,2026-05-30 15:00,Slowianin Woliborz,SKRA Czestochowa,0,0,,,
-72516500,2026-07-31 16:00,BTP Stal Brzeg,LKS Goczalkowice-Zdroj,1,1,2.700,3.500,2.200
-73204144,2026-07-31 16:00,KS Gornik Polkowice,Rakow II Czestochowa,5,4,1.650,4.100,3.700
-72516496,2026-08-01 10:00,Zaglebie Lubin II,BKS Sparta Katowice,1,0,2.100,3.600,2.750
-72516498,2026-08-01 12:00,KS Stilon Gorzow Wlkp,KS Sleza Wroclaw,3,1,,,
-72516488,2026-08-01 14:00,Mkp Carina Gubin,Miedz Legnica II,2,1,,,
-72516484,2026-08-01 15:05,Karkonosze Jelenia Gora,Zaglebie Sosnowiec,0,0,,,
-72516486,2026-08-01 16:00,KS Row 1964 Rybnik,Warta Gorzow Wielkopolski,5,1,2.150,3.600,2.750
-72516490,2026-08-01 16:00,Barycz Sulow,MKS Kluczbork,2,0,2.450,3.600,2.400
-73074550,2026-08-01 18:30,Odra Bytom Odrzanski,KS Polonia Nysa,3,0,2.050,3.600,2.875
-72516810,2026-08-07 16:00,BTP Stal Brzeg,KS Sleza Wroclaw,5,1,1.909,3.800,3.100
-72516506,2026-08-08 10:00,BKS Sparta Katowice,KS Stilon Gorzow Wlkp,2,1,1.700,3.600,4.100
-73204146,2026-08-08 10:00,Rakow II Czestochowa,Odra Bytom Odrzanski,0,1,2.300,3.600,2.500
-72516516,2026-08-08 12:00,Warta Gorzow Wielkopolski,Mkp Carina Gubin,2,1,2.100,3.600,2.800
-72516512,2026-08-08 15:00,MKS Kluczbork,KS Gornik Polkowice,2,1,2.300,3.500,2.550
-73074554,2026-08-08 16:00,KS Polonia Nysa,Zaglebie Lubin II,2,2,,,
-72516518,2026-08-08 17:00,Karkonosze Jelenia Gora,KS Row 1964 Rybnik,1,0,,,
-72516514,2026-08-09 10:00,Miedz Legnica II,Barycz Sulow,1,2,2.050,3.700,2.875
-72516502,2026-08-09 15:00,Zaglebie Sosnowiec,LKS Goczalkowice-Zdroj,2,0,2.050,3.300,3.100
-72516522,2026-08-14 15:00,Mkp Carina Gubin,Karkonosze Jelenia Gora,1,1,2.150,3.750,2.625
-72516526,2026-08-14 15:00,KS Gornik Polkowice,Miedz Legnica II,3,3,2.100,4.000,2.600
-72516534,2026-08-14 16:00,BTP Stal Brzeg,BKS Sparta Katowice,1,1,,,
-72516536,2026-08-15 11:00,LKS Goczalkowice-Zdroj,KS Sleza Wroclaw,0,2,1.400,4.200,5.750
-73074566,2026-08-15 15:00,KS Stilon Gorzow Wlkp,KS Polonia Nysa,1,1,2.250,3.500,2.625
-72516524,2026-08-15 16:00,Barycz Sulow,Warta Gorzow Wielkopolski,2,2,,,
-72516528,2026-08-15 18:00,Odra Bytom Odrzanski,MKS Kluczbork,1,0,2.100,3.600,2.750
-73204148,2026-08-16 10:00,Zaglebie Lubin II,Rakow II Czestochowa,2,2,1.285,5.000,7.000
-72516520,2026-08-16 16:00,KS Row 1964 Rybnik,Zaglebie Sosnowiec,4,1,,,
-73204150,2026-08-19 12:30,Rakow II Czestochowa,KS Stilon Gorzow Wlkp,1,4,2.050,3.500,3.000
-72516548,2026-08-19 14:00,Miedz Legnica II,Odra Bytom Odrzanski,0,1,2.150,3.700,2.625
-72516540,2026-08-19 15:00,BKS Sparta Katowice,LKS Goczalkowice-Zdroj,2,1,1.800,3.600,3.500
-72516546,2026-08-19 15:00,MKS Kluczbork,Zaglebie Lubin II,1,3,,,
-72516550,2026-08-19 15:00,Warta Gorzow Wielkopolski,KS Gornik Polkowice,0,0,2.200,3.600,2.600
-72516552,2026-08-19 15:00,Karkonosze Jelenia Gora,Barycz Sulow,3,0,2.100,3.600,2.800
-72516538,2026-08-19 16:00,Zaglebie Sosnowiec,KS Sleza Wroclaw,3,1,1.300,4.750,7.500
-72516554,2026-08-19 16:00,KS Row 1964 Rybnik,Mkp Carina Gubin,4,0,1.666,3.900,3.750
-73074560,2026-08-19 18:00,KS Polonia Nysa,BTP Stal Brzeg,3,2,2.550,3.600,2.250
-72516564,2026-08-22 10:00,Zaglebie Lubin II,Miedz Legnica II,3,2,1.833,4.000,3.400
-72516878,2026-08-22 10:00,BKS Sparta Katowice,KS Sleza Wroclaw,3,0,1.300,4.750,7.000
-73074562,2026-08-22 11:00,LKS Goczalkowice-Zdroj,KS Polonia Nysa,2,0,,,
-72516556,2026-08-22 14:00,Mkp Carina Gubin,Zaglebie Sosnowiec,0,4,,,
-72516566,2026-08-22 15:00,KS Stilon Gorzow Wlkp,MKS Kluczbork,0,1,2.750,3.600,2.100
-72516558,2026-08-22 16:00,Barycz Sulow,KS Row 1964 Rybnik,4,0,,,
-72516562,2026-08-22 18:00,Odra Bytom Odrzanski,Warta Gorzow Wielkopolski,0,1,1.850,3.700,3.250
-73204152,2026-08-23 13:00,BTP Stal Brzeg,Rakow II Czestochowa,3,0,,,
-72516560,2026-08-23 15:00,KS Gornik Polkowice,Karkonosze Jelenia Gora,2,1,2.000,3.600,2.900
-72516582,2026-08-28 14:00,Miedz Legnica II,KS Stilon Gorzow Wlkp,2,2,1.550,4.100,4.333
-72516590,2026-08-28 14:00,Mkp Carina Gubin,Barycz Sulow,0,1,,,
-72516580,2026-08-28 17:00,MKS Kluczbork,BTP Stal Brzeg,1,0,1.850,3.600,3.300
-72516574,2026-08-29 10:00,BKS Sparta Katowice,Zaglebie Sosnowiec,1,0,2.600,3.400,2.350
-73204154,2026-08-29 12:45,Rakow II Czestochowa,LKS Goczalkowice-Zdroj,0,0,2.350,3.600,2.450
-72516584,2026-08-29 15:00,Warta Gorzow Wielkopolski,Zaglebie Lubin II,0,2,2.500,3.750,2.250
-72516586,2026-08-29 15:00,Karkonosze Jelenia Gora,Odra Bytom Odrzanski,0,0,,,
-72516588,2026-08-29 16:00,KS Row 1964 Rybnik,KS Gornik Polkowice,1,3,2.250,3.700,2.550
-73074558,2026-08-29 16:00,KS Polonia Nysa,KS Sleza Wroclaw,1,3,,,
-72516598,2026-09-05 10:00,Zaglebie Lubin II,Karkonosze Jelenia Gora,1,0,1.533,4.100,4.500
-72516604,2026-09-05 10:00,LKS Goczalkowice-Zdroj,MKS Kluczbork,3,0,2.600,3.500,2.300
-73074618,2026-09-05 10:00,BKS Sparta Katowice,KS Polonia Nysa,4,0,1.285,5.000,7.000
-72516602,2026-09-05 13:00,BTP Stal Brzeg,Miedz Legnica II,2,4,,,
-73204156,2026-09-05 13:30,KS Sleza Wroclaw,Rakow II Czestochowa,1,2,2.150,3.500,2.750
-72516600,2026-09-05 14:00,KS Stilon Gorzow Wlkp,Warta Gorzow Wielkopolski,1,1,,,
-72516592,2026-09-05 16:00,Barycz Sulow,Zaglebie Sosnowiec,1,0,,,
-72516596,2026-09-05 18:00,Odra Bytom Odrzanski,KS Row 1964 Rybnik,3,2,2.100,3.750,2.700
-72516594,2026-09-06 14:00,KS Gornik Polkowice,Mkp Carina Gubin,2,1,1.533,4.200,4.500
-72516624,2026-09-11 15:00,Mkp Carina Gubin,Odra Bytom Odrzanski,1,1,,,
-72516616,2026-09-12 10:00,Miedz Legnica II,LKS Goczalkowice-Zdroj,5,0,2.150,3.500,2.625
-72516614,2026-09-12 15:00,MKS Kluczbork,KS Sleza Wroclaw,3,2,,,
-72516618,2026-09-12 15:00,Warta Gorzow Wielkopolski,BTP Stal Brzeg,1,0,2.100,3.600,2.750
-72516622,2026-09-12 16:00,KS Row 1964 Rybnik,Zaglebie Lubin II,2,2,,,
-72516626,2026-09-12 16:00,Barycz Sulow,KS Gornik Polkowice,2,1,2.000,3.700,2.900
-73074564,2026-09-12 17:00,KS Polonia Nysa,Zaglebie Sosnowiec,1,2,,,
-73204158,2026-09-13 10:00,Rakow II Czestochowa,BKS Sparta Katowice,1,1,3.800,4.000,1.666
-72516620,2026-09-13 13:00,Karkonosze Jelenia Gora,KS Stilon Gorzow Wlkp,4,2,1.727,3.600,3.800
-72516632,2026-09-18 10:00,Zaglebie Lubin II,Mkp Carina Gubin,3,0,1.600,4.333,3.800
-72516628,2026-09-18 14:00,KS Gornik Polkowice,Zaglebie Sosnowiec,1,2,2.000,3.600,2.900
-73204160,2026-09-18 17:00,KS Polonia Nysa,Rakow II Czestochowa,0,2,,,
-72516630,2026-09-18 18:00,Odra Bytom Odrzanski,Barycz Sulow,1,0,2.500,3.600,2.300
-72516638,2026-09-19 10:00,LKS Goczalkowice-Zdroj,Warta Gorzow Wielkopolski,4,1,1.850,3.600,3.400
-72516642,2026-09-19 10:00,BKS Sparta Katowice,MKS Kluczbork,2,1,1.615,3.800,4.333
-72516634,2026-09-19 13:00,KS Stilon Gorzow Wlkp,KS Row 1964 Rybnik,0,0,,,
-72516636,2026-09-19 13:00,BTP Stal Brzeg,Karkonosze Jelenia Gora,1,0,,,
-72516640,2026-09-19 13:30,KS Sleza Wroclaw,Miedz Legnica II,3,5,3.600,3.900,1.727
-72516650,2026-09-26 10:00,Miedz Legnica II,BKS Sparta Katowice,0,2,2.200,3.700,2.625
-72516652,2026-09-26 12:00,Warta Gorzow Wielkopolski,KS Sleza Wroclaw,1,1,1.833,3.600,3.400
-72516658,2026-09-26 14:00,Mkp Carina Gubin,KS Stilon Gorzow Wlkp,1,3,,,
-72516662,2026-09-26 14:00,KS Gornik Polkowice,Odra Bytom Odrzanski,0,1,1.950,3.700,2.900
-72516654,2026-09-26 15:00,Karkonosze Jelenia Gora,LKS Goczalkowice-Zdroj,2,0,2.000,3.800,2.875
-72516656,2026-09-26 16:00,KS Row 1964 Rybnik,BTP Stal Brzeg,4,3,1.909,3.600,3.100
-72516660,2026-09-26 16:00,Barycz Sulow,Zaglebie Lubin II,3,3,2.350,3.600,2.400
-73074620,2026-09-26 16:00,MKS Kluczbork,KS Polonia Nysa,1,3,,,
-72516666,2026-10-02 10:00,Zaglebie Lubin II,KS Gornik Polkowice,1,1,2.550,3.750,2.200
-73074622,2026-10-02 17:00,KS Polonia Nysa,Miedz Legnica II,1,2,2.600,4.000,2.100
-72516676,2026-10-03 10:00,BKS Sparta Katowice,Warta Gorzow Wielkopolski,1,1,1.615,3.800,4.333
-72516672,2026-10-03 11:00,LKS Goczalkowice-Zdroj,KS Row 1964 Rybnik,0,1,2.000,3.700,2.900
-72516668,2026-10-03 13:00,KS Stilon Gorzow Wlkp,Barycz Sulow,2,1,,,
-72516670,2026-10-03 13:00,BTP Stal Brzeg,Mkp Carina Gubin,0,1,,,
-72516674,2026-10-03 13:00,KS Sleza Wroclaw,Karkonosze Jelenia Gora,2,0,2.875,3.700,2.050
-72516664,2026-10-03 17:00,Odra Bytom Odrzanski,Zaglebie Sosnowiec,0,1,2.400,3.700,2.350
-72516696,2026-10-09 13:30,KS Gornik Polkowice,KS Stilon Gorzow Wlkp,4,1,1.666,3.700,4.000
-73204166,2026-10-10 09:00,Miedz Legnica II,Rakow II Czestochowa,2,1,1.550,4.200,4.333
-72516692,2026-10-10 13:00,Mkp Carina Gubin,LKS Goczalkowice-Zdroj,0,0,,,
-73074624,2026-10-10 13:00,Warta Gorzow Wielkopolski,KS Polonia Nysa,0,1,1.850,3.600,3.400
-72516682,2026-10-10 15:00,Zaglebie Sosnowiec,MKS Kluczbork,1,0,1.615,3.750,4.333
-72516688,2026-10-10 15:00,Karkonosze Jelenia Gora,BKS Sparta Katowice,1,0,,,
-72516690,2026-10-10 15:00,KS Row 1964 Rybnik,KS Sleza Wroclaw,2,1,1.500,4.200,4.800
-72516694,2026-10-10 16:00,Barycz Sulow,BTP Stal Brzeg,1,1,,,
-72516698,2026-10-10 17:00,Odra Bytom Odrzanski,Zaglebie Lubin II,1,1,1.850,3.600,3.400
-73204162,2026-10-14 16:00,Zaglebie Sosnowiec,Rakow II Czestochowa,1,0,1.380,4.500,6.250
-73074626,2026-10-16 17:00,KS Polonia Nysa,Karkonosze Jelenia Gora,2,2,2.750,3.500,2.150
-72516700,2026-10-17 10:00,Zaglebie Lubin II,Zaglebie Sosnowiec,0,1,2.250,3.600,2.550
-72516710,2026-10-17 10:00,BKS Sparta Katowice,KS Row 1964 Rybnik,2,0,1.727,3.750,3.600
-73204168,2026-10-17 10:00,Rakow II Czestochowa,Warta Gorzow Wielkopolski,3,2,2.300,3.600,2.500
-72516706,2026-10-17 11:00,LKS Goczalkowice-Zdroj,Barycz Sulow,3,1,2.350,3.600,2.450
-72516704,2026-10-17 12:00,BTP Stal Brzeg,KS Gornik Polkowice,2,0,,,
-72516702,2026-10-17 13:00,KS Stilon Gorzow Wlkp,Odra Bytom Odrzanski,0,0,,,
-72516708,2026-10-17 13:00,KS Sleza Wroclaw,Mkp Carina Gubin,1,3,2.050,3.700,2.750
-72516716,2026-10-17 15:00,MKS Kluczbork,Miedz Legnica II,2,0,2.000,3.800,2.800
-72516718,2026-10-23 15:00,Zaglebie Sosnowiec,Miedz Legnica II,3,1,1.615,4.000,4.000
-72516730,2026-10-24 11:00,KS Gornik Polkowice,LKS Goczalkowice-Zdroj,4,1,1.950,3.600,3.000
-72516720,2026-10-24 12:00,Warta Gorzow Wielkopolski,MKS Kluczbork,0,2,,,
-72516726,2026-10-24 12:00,Mkp Carina Gubin,BKS Sparta Katowice,1,3,,,
-73074636,2026-10-24 15:00,KS Row 1964 Rybnik,KS Polonia Nysa,3,0,,,
-73204170,2026-10-24 15:00,Karkonosze Jelenia Gora,Rakow II Czestochowa,3,1,1.850,3.700,3.250
-72516728,2026-10-24 16:00,Barycz Sulow,KS Sleza Wroclaw,1,2,,,
-72516732,2026-10-24 16:00,Odra Bytom Odrzanski,BTP Stal Brzeg,3,2,1.800,3.700,3.500
-72516734,2026-10-25 11:00,Zaglebie Lubin II,KS Stilon Gorzow Wlkp,3,1,1.600,4.100,4.000
-72516752,2026-10-30 12:00,Miedz Legnica II,Warta Gorzow Wielkopolski,6,0,1.571,4.000,4.333
-73204172,2026-10-30 12:30,Rakow II Czestochowa,KS Row 1964 Rybnik,1,3,2.250,3.600,2.550
-72516742,2026-10-30 13:00,KS Sleza Wroclaw,KS Gornik Polkowice,2,2,,,
-72516750,2026-10-30 17:00,MKS Kluczbork,Karkonosze Jelenia Gora,2,2,,,
-72516744,2026-10-31 11:00,BKS Sparta Katowice,Barycz Sulow,3,1,1.727,3.700,3.800
-72516736,2026-10-31 12:00,KS Stilon Gorzow Wlkp,Zaglebie Sosnowiec,0,2,,,
-72516738,2026-10-31 12:00,BTP Stal Brzeg,Zaglebie Lubin II,4,1,,,
-72516740,2026-10-31 12:00,LKS Goczalkowice-Zdroj,Odra Bytom Odrzanski,3,0,2.450,3.200,2.500
-73074634,2026-10-31 16:00,KS Polonia Nysa,Mkp Carina Gubin,0,0,2.100,3.400,2.900
-75261372,2026-11-04 11:30,Rakow II Czestochowa,MKS Kluczbork,0,0,2.300,3.700,2.450
-72516768,2026-11-06 11:00,Zaglebie Lubin II,LKS Goczalkowice-Zdroj,1,2,2.050,3.700,2.750
-72516764,2026-11-07 12:00,KS Gornik Polkowice,BKS Sparta Katowice,0,4,2.875,3.600,2.100
-72516770,2026-11-07 12:00,KS Stilon Gorzow Wlkp,BTP Stal Brzeg,2,2,2.750,3.500,2.100
-73204174,2026-11-07 12:00,Mkp Carina Gubin,Rakow II Czestochowa,2,1,,,
-72516756,2026-11-07 16:00,Karkonosze Jelenia Gora,Miedz Legnica II,1,2,,,
-72516758,2026-11-07 16:00,KS Row 1964 Rybnik,MKS Kluczbork,1,2,1.800,3.900,3.250
-72516766,2026-11-07 17:00,Odra Bytom Odrzanski,KS Sleza Wroclaw,1,0,,,
-72516754,2026-11-08 16:00,Zaglebie Sosnowiec,Warta Gorzow Wielkopolski,3,0,1.300,5.250,7.000
-72516820,2026-11-11 14:00,Barycz Sulow,Miedz Legnica II,3,0,2.250,3.700,2.500
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+54641263,2025-05-25 13:30,Gornik Zabrze II,KS Gornik Polkowice,0,0,,,,,,
+54641247,2025-05-25 15:00,Odra Bytom Odrzanski,BTP Stal Brzeg,1,1,,,,,,
+54641257,2025-05-25 15:00,Slask II Wroclaw,Miedz Legnica II,3,1,,,,,,
+54641281,2025-05-30 13:30,KS Sleza Wroclaw,BTP Stal Brzeg,4,0,,,,,,
+54641275,2025-05-31 11:00,LKS Goczalkowice-Zdroj,Podlesianka Katowice,2,0,,,,,,
+54641279,2025-05-31 15:00,GKS Pniowek Pawlowice,MKS Polonia Slubice,3,0,,,,,,
+54641271,2025-05-31 16:00,KS Lechia Zielona Gora,Slask II Wroclaw,0,1,,,,,,
+54641265,2025-06-01 11:00,Gornik Zabrze II,Odra Bytom Odrzanski,1,1,,,,,,
+54641283,2025-06-07 13:00,Odra Bytom Odrzanski,KS Sleza Wroclaw,2,1,,,,,,
+54641291,2025-06-07 13:00,Podlesianka Katowice,Miedz Legnica II,1,5,,,,,,
+54641295,2025-06-07 15:00,Slask II Wroclaw,Warta Gorzow Wielkopolski,1,1,,,,,,
+62036354,2025-08-09 13:00,GKS Pniowek Pawlowice,Slowianin Woliborz,2,0,,,,,,
+62036362,2025-08-16 10:00,Gornik Zabrze II,MKS Kluczbork,0,1,,,,,,
+62036372,2025-08-16 10:00,BKS Sparta Katowice,Mkp Carina Gubin,1,1,,,,,,
+62036378,2025-08-16 10:00,Zaglebie Lubin II,GKS Pniowek Pawlowice,2,1,,,,,,
+62036368,2025-08-16 12:00,SKRA Czestochowa,Warta Gorzow Wielkopolski,1,3,,,,,,
+62036382,2025-08-22 16:00,KS Gornik Polkowice,Zaglebie Lubin II,3,1,,,,,,
+62036386,2025-08-23 11:00,LKS Goczalkowice-Zdroj,Slowianin Woliborz,1,1,,,,,,
+62036388,2025-08-23 11:00,LZS Starowice,Gornik Zabrze II,0,4,,,,,,
+62036394,2025-08-23 15:00,GKS Pniowek Pawlowice,MKS Stal Jasien,1,2,,,,,,
+62036392,2025-08-24 15:00,MKS Kluczbork,SKRA Czestochowa,1,1,,,,,,
+62036398,2025-08-27 11:00,Gornik Zabrze II,KS Sleza Wroclaw,4,2,,,,,,
+62036406,2025-08-27 14:00,BKS Sparta Katowice,KS Gornik Polkowice,2,0,,,,,,
+62036414,2025-08-27 14:00,Zaglebie Lubin II,KS Lechia Zielona Gora,1,5,,,,,,
+62036400,2025-08-27 15:00,GKS Pniowek Pawlowice,LKS Goczalkowice-Zdroj,2,2,,,,,,
+62036402,2025-08-27 15:00,SKRA Czestochowa,Karkonosze Jelenia Gora,2,0,,,,,,
+62036404,2025-08-27 15:00,Slowianin Woliborz,MKS Kluczbork,2,1,,,,,,
+62036408,2025-08-27 15:00,MKS Stal Jasien,Miedz Legnica II,1,2,,,,,,
+62036424,2025-08-30 15:00,KS Lechia Zielona Gora,SKRA Czestochowa,1,1,,,,,,
+62036418,2025-08-31 10:00,Gornik Zabrze II,KS Polonia Nysa,2,2,,,,,,
+62036420,2025-08-31 15:00,KS Gornik Polkowice,Slowianin Woliborz,3,2,,,,,,
+62036450,2025-09-05 13:00,Zaglebie Lubin II,SKRA Czestochowa,3,4,,,,,,
+62036436,2025-09-05 14:00,Miedz Legnica II,KS Gornik Polkowice,0,1,,,,,,
+62036442,2025-09-06 10:00,BKS Sparta Katowice,LKS Goczalkowice-Zdroj,0,0,,,,,,
+62036440,2025-09-06 12:30,Slowianin Woliborz,Gornik Zabrze II,3,2,,,,,,
+62036448,2025-09-06 14:00,Warta Gorzow Wielkopolski,LZS Starowice,1,1,,,,,,
+62036456,2025-09-12 14:00,KS Gornik Polkowice,Warta Gorzow Wielkopolski,2,2,,,,,,
+62036468,2025-09-12 17:00,KS Polonia Nysa,MKS Stal Jasien,5,1,,,,,,
+62036454,2025-09-13 11:00,Gornik Zabrze II,BKS Sparta Katowice,0,2,,,,,,
+62036470,2025-09-19 14:00,KS Gornik Polkowice,SKRA Czestochowa,4,1,,,,,,
+62036472,2025-09-19 14:00,Miedz Legnica II,LKS Goczalkowice-Zdroj,1,3,,,,,,
+62036478,2025-09-20 10:00,BKS Sparta Katowice,MKS Kluczbork,1,0,,,,,,
+62036486,2025-09-20 10:00,Zaglebie Lubin II,KS Polonia Nysa,5,2,,,,,,
+62036482,2025-09-20 13:30,KS Sleza Wroclaw,Mkp Carina Gubin,2,2,,,,,,
+62036474,2025-09-20 14:00,GKS Pniowek Pawlowice,Karkonosze Jelenia Gora,3,1,,,,,,
+62036480,2025-09-21 13:00,MKS Stal Jasien,LZS Starowice,2,2,,,,,,
+62036502,2025-09-26 17:00,KS Polonia Nysa,GKS Pniowek Pawlowice,1,1,,,,,,
+62036496,2025-09-27 11:00,LKS Goczalkowice-Zdroj,KS Gornik Polkowice,0,0,,,,,,
+62036494,2025-09-27 17:57,KS Lechia Zielona Gora,Miedz Legnica II,0,0,,,,,,
+62036490,2025-09-28 12:00,Gornik Zabrze II,Zaglebie Lubin II,1,1,,,,,,
+62036522,2025-10-03 13:30,KS Sleza Wroclaw,Zaglebie Lubin II,0,1,,,,,,
+62036512,2025-10-03 14:00,Miedz Legnica II,Karkonosze Jelenia Gora,2,2,,,,,,
+62036518,2025-10-04 10:00,BKS Sparta Katowice,KS Lechia Zielona Gora,0,0,,,,,,
+62036514,2025-10-04 14:00,GKS Pniowek Pawlowice,MKS Kluczbork,1,3,,,,,,
+62036540,2025-10-10 13:00,Zaglebie Lubin II,Slowianin Woliborz,2,1,,,,,,
+62036528,2025-10-10 16:30,KS Lechia Zielona Gora,Gornik Zabrze II,3,0,,,,,,
+62036534,2025-10-11 10:00,BKS Sparta Katowice,GKS Pniowek Pawlowice,3,2,,,,,,
+62036530,2025-10-11 13:00,MKS Kluczbork,MKS Stal Jasien,1,0,,,,,,
+62036536,2025-10-11 13:00,KS Sleza Wroclaw,KS Gornik Polkowice,0,5,,,,,,
+62036558,2025-10-17 14:00,KS Polonia Nysa,Warta Gorzow Wielkopolski,1,1,,,,,,
+62036548,2025-10-18 10:00,Miedz Legnica II,KS Sleza Wroclaw,1,2,,,,,,
+62036544,2025-10-18 11:00,LKS Goczalkowice-Zdroj,Karkonosze Jelenia Gora,1,0,,,,,,
+62036542,2025-10-19 13:00,Gornik Zabrze II,SKRA Czestochowa,1,2,,,,,,
+62036568,2025-10-24 11:00,LKS Goczalkowice-Zdroj,MKS Kluczbork,2,1,,,,,,
+62036570,2025-10-24 13:00,Miedz Legnica II,Gornik Zabrze II,2,1,,,,,,
+62036574,2025-10-24 13:00,KS Sleza Wroclaw,SKRA Czestochowa,1,2,,,,,,
+62036572,2025-10-25 10:00,BKS Sparta Katowice,LZS Starowice,2,1,,,,,,
+62036562,2025-10-26 12:00,KS Gornik Polkowice,GKS Pniowek Pawlowice,1,0,,,,,,
+62036578,2025-10-31 11:00,Gornik Zabrze II,LKS Goczalkowice-Zdroj,1,1,,,,,,
+62036584,2025-10-31 13:00,GKS Pniowek Pawlowice,Miedz Legnica II,3,1,,,,,,
+62036588,2025-10-31 13:00,Slowianin Woliborz,KS Sleza Wroclaw,1,1,,,,,,
+62036592,2025-10-31 18:00,KS Polonia Nysa,Karkonosze Jelenia Gora,0,4,,,,,,
+62036604,2025-11-07 13:00,Miedz Legnica II,Zaglebie Lubin II,5,5,,,,,,
+62036610,2025-11-07 13:00,KS Sleza Wroclaw,GKS Pniowek Pawlowice,5,0,,,,,,
+62036608,2025-11-08 11:00,BKS Sparta Katowice,KS Polonia Nysa,1,1,,,,,,
+62036598,2025-11-08 12:00,KS Gornik Polkowice,Gornik Zabrze II,2,1,,,,,,
+62036612,2025-11-08 12:00,Warta Gorzow Wielkopolski,MKS Kluczbork,1,2,,,,,,
+62036600,2025-11-08 16:00,Karkonosze Jelenia Gora,KS Lechia Zielona Gora,1,2,,,,,,
+62036630,2025-11-14 12:00,Zaglebie Lubin II,LKS Goczalkowice-Zdroj,5,0,,,,,,
+62036614,2025-11-15 11:00,Gornik Zabrze II,Karkonosze Jelenia Gora,1,2,,,,,,
+62036934,2025-11-15 12:00,KS Sleza Wroclaw,MKS Kluczbork,2,0,,,,,,
+62036624,2025-11-15 15:00,SKRA Czestochowa,Slowianin Woliborz,2,1,,,,,,
+62036616,2025-11-15 16:00,KS Lechia Zielona Gora,KS Gornik Polkowice,5,0,,,,,,
+62036648,2025-11-21 11:00,Zaglebie Lubin II,BKS Sparta Katowice,2,0,,,,,,
+62036642,2025-11-21 12:00,GKS Pniowek Pawlowice,Gornik Zabrze II,1,3,,,,,,
+62036638,2025-11-22 11:00,Miedz Legnica II,KS Polonia Nysa,7,2,,,,,,
+62036636,2025-11-22 12:00,LKS Goczalkowice-Zdroj,LZS Starowice,2,2,,,,,,
+62036644,2025-11-22 12:00,KS Sleza Wroclaw,MKS Stal Jasien,4,2,,,,,,
+62036650,2025-11-29 11:00,Gornik Zabrze II,Mkp Carina Gubin,6,0,,,,,,
+62036662,2025-11-29 11:00,BKS Sparta Katowice,Warta Gorzow Wielkopolski,3,4,,,,,,
+62036682,2026-02-27 13:30,KS Sleza Wroclaw,Karkonosze Jelenia Gora,1,0,2.200,3.700,2.625,2.75,1.875,1.925
+62036670,2026-02-27 14:00,KS Gornik Polkowice,LZS Starowice,2,0,,,,,,
+62036676,2026-02-28 11:00,Miedz Legnica II,Slowianin Woliborz,1,2,,,,,,
+62036674,2026-02-28 12:00,LKS Goczalkowice-Zdroj,KS Polonia Nysa,1,2,,,,,,
+62036684,2026-02-28 13:00,Warta Gorzow Wielkopolski,SKRA Czestochowa,5,0,,,,,,
+62036672,2026-02-28 16:00,KS Lechia Zielona Gora,MKS Stal Jasien,3,0,,,,,,
+62036678,2026-02-28 16:00,MKS Kluczbork,Gornik Zabrze II,2,2,,,,,,
+62036686,2026-03-06 13:00,Gornik Zabrze II,LZS Starowice,7,0,1.500,4.333,4.750,3.25,1.850,1.950
+62036698,2026-03-06 17:00,KS Polonia Nysa,KS Sleza Wroclaw,1,3,2.000,3.400,3.100,3,1.800,2.000
+62036694,2026-03-07 11:00,BKS Sparta Katowice,Miedz Legnica II,2,2,1.909,3.600,3.100,2.75,1.800,2.000
+62036692,2026-03-07 12:00,Slowianin Woliborz,LKS Goczalkowice-Zdroj,0,1,,,,,,
+62036700,2026-03-07 13:00,Warta Gorzow Wielkopolski,KS Lechia Zielona Gora,1,3,3.400,3.700,1.800,2.75,1.850,1.950
+62036690,2026-03-07 15:00,SKRA Czestochowa,MKS Kluczbork,5,4,4.200,4.000,1.600,2.75,1.800,2.000
+62036696,2026-03-07 15:00,MKS Stal Jasien,GKS Pniowek Pawlowice,0,3,,,,,,
+62036702,2026-03-08 11:00,Zaglebie Lubin II,KS Gornik Polkowice,0,2,2.450,3.500,2.400,3,1.800,2.000
+62036720,2026-03-13 14:00,KS Sleza Wroclaw,Gornik Zabrze II,2,1,2.500,3.700,2.300,3,2.000,1.800
+62036706,2026-03-13 14:30,KS Gornik Polkowice,BKS Sparta Katowice,0,4,1.950,3.250,3.500,2.5,1.850,1.950
+62036708,2026-03-13 17:00,Karkonosze Jelenia Gora,SKRA Czestochowa,2,2,2.050,3.400,3.100,2.75,1.950,1.850
+62036712,2026-03-14 12:00,LKS Goczalkowice-Zdroj,GKS Pniowek Pawlowice,3,0,1.333,5.000,6.250,3,2.025,1.775
+62036714,2026-03-14 12:00,LZS Starowice,KS Polonia Nysa,0,0,,,,,,
+62036704,2026-03-14 14:00,Mkp Carina Gubin,Warta Gorzow Wielkopolski,0,0,,,,,,
+62036716,2026-03-14 15:00,Miedz Legnica II,MKS Stal Jasien,0,0,,,,,,
+62036710,2026-03-14 17:00,KS Lechia Zielona Gora,Zaglebie Lubin II,0,0,1.600,4.000,4.200,2.75,1.825,1.975
+62036718,2026-03-15 14:00,MKS Kluczbork,Slowianin Woliborz,1,1,1.615,4.000,4.100,3,1.975,1.825
+69594248,2026-03-17 15:00,KS Gornik Polkowice,Karkonosze Jelenia Gora,1,1,1.700,3.700,4.000,2.75,1.900,1.900
+62036680,2026-03-18 12:00,GKS Pniowek Pawlowice,Zaglebie Lubin II,0,4,6.000,4.500,1.380,3,1.850,1.950
+69377680,2026-03-18 13:00,Mkp Carina Gubin,BKS Sparta Katowice,0,0,,,,,,
+69720928,2026-03-18 14:00,Warta Gorzow Wielkopolski,Slowianin Woliborz,1,2,,,,,,
+69594150,2026-03-18 15:00,LZS Starowice,KS Sleza Wroclaw,2,2,2.900,3.400,2.100,2.75,1.975,1.825
+62036734,2026-03-20 17:00,KS Polonia Nysa,Gornik Zabrze II,1,2,3.200,3.800,1.850,3.25,1.800,2.000
+62036726,2026-03-20 17:30,SKRA Czestochowa,KS Lechia Zielona Gora,2,1,3.400,3.750,1.800,3,1.975,1.825
+62036730,2026-03-21 11:00,BKS Sparta Katowice,KS Sleza Wroclaw,0,1,1.666,3.750,4.100,3,1.850,1.950
+62036722,2026-03-21 12:00,Miedz Legnica II,Mkp Carina Gubin,3,1,1.800,4.000,3.200,3,1.775,2.025
+62036724,2026-03-21 12:00,GKS Pniowek Pawlowice,LZS Starowice,0,0,,,,,,
+62036728,2026-03-21 14:00,Slowianin Woliborz,KS Gornik Polkowice,0,0,,,,,,
+62036736,2026-03-21 14:00,Warta Gorzow Wielkopolski,Karkonosze Jelenia Gora,3,1,2.100,3.600,2.750,2.75,1.900,1.900
+62036732,2026-03-21 15:00,MKS Stal Jasien,LKS Goczalkowice-Zdroj,0,0,,,,,,
+62036738,2026-03-22 13:30,Zaglebie Lubin II,MKS Kluczbork,3,2,1.700,4.100,3.600,3,1.925,1.875
+69734524,2026-03-25 17:00,SKRA Czestochowa,Miedz Legnica II,1,0,2.000,3.750,2.900,3.25,2.025,1.775
+62036752,2026-03-27 17:00,MKS Kluczbork,KS Polonia Nysa,1,1,1.727,3.600,3.900,2.75,1.925,1.875
+62036748,2026-03-28 12:00,LKS Goczalkowice-Zdroj,BKS Sparta Katowice,1,0,2.000,3.400,3.100,2.5,1.950,1.850
+62036742,2026-03-28 13:00,Gornik Zabrze II,Slowianin Woliborz,2,2,1.450,4.500,4.750,3.25,1.825,1.975
+62036744,2026-03-28 13:00,KS Gornik Polkowice,Miedz Legnica II,3,3,1.800,3.750,3.300,2.75,1.800,2.000
+62036750,2026-03-28 13:00,LZS Starowice,Warta Gorzow Wielkopolski,1,2,,,,,,
+62036740,2026-03-28 15:00,Mkp Carina Gubin,GKS Pniowek Pawlowice,0,0,,,,,,
+62036746,2026-03-28 15:00,Karkonosze Jelenia Gora,MKS Stal Jasien,0,0,,,,,,
+62036754,2026-03-28 15:00,SKRA Czestochowa,Zaglebie Lubin II,3,0,2.625,4.000,2.050,3,1.975,1.825
+62036756,2026-03-29 13:30,KS Sleza Wroclaw,KS Lechia Zielona Gora,0,0,3.750,3.700,1.727,2.75,1.875,1.925
+69594980,2026-04-01 16:00,Karkonosze Jelenia Gora,MKS Kluczbork,1,4,2.150,3.500,2.750,2.75,2.000,1.800
+69594850,2026-04-01 17:00,KS Lechia Zielona Gora,LKS Goczalkowice-Zdroj,5,0,1.700,3.600,4.000,2.5,2.000,1.800
+69594924,2026-04-01 17:00,KS Polonia Nysa,KS Gornik Polkowice,1,2,3.100,3.500,1.950,2.75,2.000,1.800
+62036766,2026-04-02 10:00,BKS Sparta Katowice,Gornik Zabrze II,1,2,2.250,3.600,2.500,2.5,1.850,1.950
+62036760,2026-04-04 10:00,Miedz Legnica II,MKS Kluczbork,3,1,,,,,,
+62036774,2026-04-04 10:00,Zaglebie Lubin II,Karkonosze Jelenia Gora,1,1,1.615,4.000,4.000,3,1.800,2.000
+62036762,2026-04-04 11:00,GKS Pniowek Pawlowice,SKRA Czestochowa,2,3,5.250,4.750,1.380,3,1.900,1.900
+62036764,2026-04-04 13:00,Slowianin Woliborz,LZS Starowice,0,0,,,,,,
+62036770,2026-04-04 13:30,KS Sleza Wroclaw,LKS Goczalkowice-Zdroj,2,1,2.050,3.700,2.875,2.75,1.875,1.925
+62036768,2026-04-04 14:00,MKS Stal Jasien,KS Polonia Nysa,0,0,,,,,,
+62036772,2026-04-04 14:00,Warta Gorzow Wielkopolski,KS Gornik Polkowice,1,1,2.000,3.800,2.900,2.75,1.800,2.000
+62036758,2026-04-04 17:30,KS Lechia Zielona Gora,Mkp Carina Gubin,0,0,1.333,4.750,6.500,3,1.775,2.025
+62036778,2026-04-10 12:00,Gornik Zabrze II,Warta Gorzow Wielkopolski,3,1,1.800,4.100,3.250,3.25,1.800,2.000
+62036776,2026-04-10 14:00,Mkp Carina Gubin,KS Sleza Wroclaw,0,0,,,,,,
+62036780,2026-04-10 16:00,Karkonosze Jelenia Gora,GKS Pniowek Pawlowice,1,1,1.270,5.250,7.000,3.25,1.975,1.825
+62036792,2026-04-10 17:00,KS Polonia Nysa,Zaglebie Lubin II,2,4,3.600,3.900,1.727,3.25,1.850,1.950
+62036784,2026-04-11 10:00,LKS Goczalkowice-Zdroj,Miedz Legnica II,1,2,1.800,3.800,3.400,3,1.950,1.850
+62036786,2026-04-11 14:00,LZS Starowice,MKS Stal Jasien,0,0,,,,,,
+62036790,2026-04-11 14:00,SKRA Czestochowa,KS Gornik Polkowice,0,3,2.250,3.300,2.700,2.75,1.875,1.925
+62036788,2026-04-11 15:00,MKS Kluczbork,BKS Sparta Katowice,0,0,,,,,,
+62036782,2026-04-11 17:30,KS Lechia Zielona Gora,Slowianin Woliborz,0,0,,,,,,
+69734526,2026-04-14 16:00,Karkonosze Jelenia Gora,Mkp Carina Gubin,3,2,2.050,3.600,2.800,2.75,1.850,1.950
+62036808,2026-04-17 13:30,KS Sleza Wroclaw,Warta Gorzow Wielkopolski,0,0,2.100,3.500,2.900,2.75,1.975,1.825
+62036794,2026-04-17 15:00,KS Gornik Polkowice,LKS Goczalkowice-Zdroj,0,0,2.050,3.400,3.100,2.75,2.000,1.800
+62036796,2026-04-17 15:00,LZS Starowice,MKS Kluczbork,0,0,,,,,,
+62036798,2026-04-18 10:00,Miedz Legnica II,KS Lechia Zielona Gora,0,0,,,,,,
+62036804,2026-04-18 10:00,BKS Sparta Katowice,Karkonosze Jelenia Gora,3,1,2.000,3.600,2.900,2.75,1.900,1.900
+62036810,2026-04-18 10:00,Zaglebie Lubin II,Gornik Zabrze II,0,5,1.800,4.333,3.000,3.25,1.950,1.850
+62036802,2026-04-18 13:00,Slowianin Woliborz,Mkp Carina Gubin,0,0,,,,,,
+62036806,2026-04-18 14:00,MKS Stal Jasien,SKRA Czestochowa,0,0,,,,,,
+62036800,2026-04-18 15:00,GKS Pniowek Pawlowice,KS Polonia Nysa,0,0,,,,,,
+62036828,2026-04-25 10:00,Zaglebie Lubin II,KS Sleza Wroclaw,2,1,1.533,4.200,4.500,3,1.800,2.000
+62036822,2026-04-25 13:00,SKRA Czestochowa,LZS Starowice,3,2,1.480,4.200,5.000,3.25,2.000,1.800
+62036814,2026-04-25 14:00,Gornik Zabrze II,MKS Stal Jasien,0,0,,,,,,
+62036826,2026-04-25 14:00,Warta Gorzow Wielkopolski,LKS Goczalkowice-Zdroj,1,2,2.200,3.500,2.625,2.75,1.975,1.825
+62036812,2026-04-25 15:00,Mkp Carina Gubin,KS Gornik Polkowice,0,0,,,,,,
+62036816,2026-04-25 15:00,Karkonosze Jelenia Gora,Miedz Legnica II,1,1,2.100,3.600,2.800,3,1.875,1.925
+62036820,2026-04-25 15:00,MKS Kluczbork,GKS Pniowek Pawlowice,0,0,,,,,,
+62036818,2026-04-25 18:00,KS Lechia Zielona Gora,BKS Sparta Katowice,0,0,1.600,3.800,4.333,2.75,1.900,1.900
+62036824,2026-04-26 10:00,KS Polonia Nysa,Slowianin Woliborz,0,0,2.400,3.600,2.375,2.75,1.800,2.000
+62036840,2026-04-29 15:00,GKS Pniowek Pawlowice,BKS Sparta Katowice,0,1,,,,,,
+62036832,2026-05-01 10:00,KS Gornik Polkowice,KS Sleza Wroclaw,2,1,1.727,3.600,4.000,2.75,1.975,1.825
+62036834,2026-05-01 10:00,LKS Goczalkowice-Zdroj,Mkp Carina Gubin,1,2,1.750,3.750,3.600,3,2.000,1.800
+62036836,2026-05-01 11:00,LZS Starowice,Karkonosze Jelenia Gora,1,6,,,,,,
+62036838,2026-05-01 12:00,Miedz Legnica II,Warta Gorzow Wielkopolski,2,0,2.300,3.600,2.500,3,2.000,1.800
+62036842,2026-05-01 12:00,Slowianin Woliborz,Zaglebie Lubin II,2,1,,,,,,
+62036830,2026-05-01 13:00,Gornik Zabrze II,KS Lechia Zielona Gora,0,2,2.150,3.700,2.625,3,1.975,1.825
+62036846,2026-05-01 14:00,KS Polonia Nysa,SKRA Czestochowa,2,3,2.750,3.800,2.050,2.75,1.900,1.900
+62036844,2026-05-02 14:00,MKS Stal Jasien,MKS Kluczbork,0,0,,,,,,
+62036864,2026-05-08 10:00,Zaglebie Lubin II,LZS Starowice,5,0,1.270,5.500,7.000,3.75,1.950,1.850
+62036860,2026-05-08 13:30,KS Sleza Wroclaw,Miedz Legnica II,3,2,2.400,3.500,2.400,3,2.000,1.800
+62036852,2026-05-08 14:00,Karkonosze Jelenia Gora,LKS Goczalkowice-Zdroj,0,1,2.150,3.750,2.600,3,1.850,1.950
+62036858,2026-05-09 10:00,BKS Sparta Katowice,Slowianin Woliborz,1,0,1.833,3.600,3.500,2.75,1.975,1.825
+62036850,2026-05-09 14:00,KS Gornik Polkowice,MKS Stal Jasien,0,0,,,,,,
+62036856,2026-05-09 14:00,SKRA Czestochowa,Gornik Zabrze II,1,2,2.550,3.800,2.200,3,1.850,1.950
+62036848,2026-05-09 15:00,Mkp Carina Gubin,MKS Kluczbork,0,0,,,,,,
+62036862,2026-05-09 15:00,Warta Gorzow Wielkopolski,KS Polonia Nysa,1,0,1.850,3.500,3.400,2.75,1.950,1.850
+62036854,2026-05-09 18:00,KS Lechia Zielona Gora,GKS Pniowek Pawlowice,1,0,,,,,,
+62036882,2026-05-12 15:00,Zaglebie Lubin II,Mkp Carina Gubin,1,4,1.750,4.100,3.400,3.25,1.950,1.850
+62036866,2026-05-13 12:00,Gornik Zabrze II,Miedz Legnica II,0,1,1.833,4.333,2.875,3.75,1.950,1.850
+62036878,2026-05-13 14:00,MKS Stal Jasien,Warta Gorzow Wielkopolski,0,0,,,,,,
+62036868,2026-05-13 15:00,LZS Starowice,BKS Sparta Katowice,0,0,,,,,,
+62036870,2026-05-13 15:00,MKS Kluczbork,LKS Goczalkowice-Zdroj,0,0,,,,,,
+62036872,2026-05-13 15:00,GKS Pniowek Pawlowice,KS Gornik Polkowice,0,7,8.000,5.250,1.270,3.25,1.975,1.825
+62036874,2026-05-13 16:00,SKRA Czestochowa,KS Sleza Wroclaw,2,1,1.533,4.333,4.333,3.25,1.875,1.925
+62036876,2026-05-13 16:00,Slowianin Woliborz,Karkonosze Jelenia Gora,2,2,2.100,4.000,2.625,3.25,1.950,1.850
+62036880,2026-05-13 16:00,KS Polonia Nysa,KS Lechia Zielona Gora,0,1,3.200,3.600,1.900,2.75,1.950,1.850
+62036900,2026-05-15 15:00,Warta Gorzow Wielkopolski,Zaglebie Lubin II,1,2,,,,,,
+62036892,2026-05-16 10:00,LKS Goczalkowice-Zdroj,Gornik Zabrze II,2,2,2.550,3.900,2.150,3.25,1.975,1.825
+62036896,2026-05-16 10:00,BKS Sparta Katowice,SKRA Czestochowa,1,0,2.200,3.500,2.625,2.75,1.850,1.950
+62036898,2026-05-16 10:00,KS Sleza Wroclaw,Slowianin Woliborz,2,0,2.200,3.500,2.625,2.75,2.000,1.800
+62036894,2026-05-16 11:00,Miedz Legnica II,GKS Pniowek Pawlowice,6,0,1.111,9.000,15.000,3.5,1.825,1.975
+62036884,2026-05-16 14:00,Mkp Carina Gubin,MKS Stal Jasien,0,0,,,,,,
+62036890,2026-05-16 18:00,KS Lechia Zielona Gora,LZS Starowice,5,1,1.142,7.500,15.000,3.5,1.975,1.825
+62036886,2026-05-17 10:00,KS Gornik Polkowice,MKS Kluczbork,3,1,1.500,4.000,4.750,2.75,1.800,2.000
+62036888,2026-05-17 10:00,Karkonosze Jelenia Gora,KS Polonia Nysa,3,1,2.100,3.500,2.900,2.75,1.875,1.925
+62036902,2026-05-22 10:00,Gornik Zabrze II,KS Gornik Polkowice,6,0,3.100,4.000,1.900,3.5,2.000,1.800
+62036918,2026-05-22 10:00,Zaglebie Lubin II,Miedz Legnica II,1,3,2.050,3.900,2.700,3.5,1.850,1.950
+62036912,2026-05-22 17:00,SKRA Czestochowa,LKS Goczalkowice-Zdroj,4,0,1.800,3.700,3.500,2.75,1.775,2.025
+62036906,2026-05-23 13:00,LZS Starowice,Mkp Carina Gubin,0,2,,,,,,
+62036914,2026-05-23 14:00,MKS Stal Jasien,Slowianin Woliborz,0,0,,,,,,
+62036908,2026-05-23 15:00,MKS Kluczbork,Warta Gorzow Wielkopolski,0,0,,,,,,
+62036910,2026-05-23 15:00,GKS Pniowek Pawlowice,KS Sleza Wroclaw,2,4,,,,,,
+62036904,2026-05-23 18:00,KS Lechia Zielona Gora,Karkonosze Jelenia Gora,4,0,1.380,4.333,6.250,3,1.850,1.950
+62036916,2026-05-24 17:00,KS Polonia Nysa,BKS Sparta Katowice,2,3,,,,,,
+65653558,2026-05-29 16:00,MKS Kluczbork,KS Sleza Wroclaw,6,0,1.270,5.000,8.500,3.5,1.975,1.825
+62036920,2026-05-30 13:00,Mkp Carina Gubin,KS Polonia Nysa,1,2,,,,,,
+62036936,2026-05-30 13:00,Warta Gorzow Wielkopolski,GKS Pniowek Pawlowice,2,0,1.166,7.000,11.000,3.25,1.800,2.000
+62036926,2026-05-30 14:00,LKS Goczalkowice-Zdroj,Zaglebie Lubin II,3,2,2.050,3.900,2.700,3.5,1.850,1.950
+62036932,2026-05-30 14:00,BKS Sparta Katowice,MKS Stal Jasien,0,0,,,,,,
+62036922,2026-05-30 15:00,KS Gornik Polkowice,KS Lechia Zielona Gora,1,2,2.500,3.750,2.200,2.75,1.875,1.925
+62036924,2026-05-30 15:00,Karkonosze Jelenia Gora,Gornik Zabrze II,0,0,,,,,,
+62036928,2026-05-30 15:00,Miedz Legnica II,LZS Starowice,2,1,1.222,6.250,8.000,3.75,1.800,2.000
+62036930,2026-05-30 15:00,Slowianin Woliborz,SKRA Czestochowa,0,0,,,,,,
+72516500,2026-07-31 16:00,BTP Stal Brzeg,LKS Goczalkowice-Zdroj,1,1,2.700,3.500,2.200,2.5,1.825,1.975
+73204144,2026-07-31 16:00,KS Gornik Polkowice,Rakow II Czestochowa,5,4,1.650,4.100,3.700,3,1.925,1.875
+72516496,2026-08-01 10:00,Zaglebie Lubin II,BKS Sparta Katowice,1,0,2.100,3.600,2.750,3,1.925,1.875
+72516498,2026-08-01 12:00,KS Stilon Gorzow Wlkp,KS Sleza Wroclaw,3,1,,,,,,
+72516488,2026-08-01 14:00,Mkp Carina Gubin,Miedz Legnica II,2,1,,,,,,
+72516484,2026-08-01 15:05,Karkonosze Jelenia Gora,Zaglebie Sosnowiec,0,0,,,,,,
+72516486,2026-08-01 16:00,KS Row 1964 Rybnik,Warta Gorzow Wielkopolski,5,1,2.150,3.600,2.750,3,2.000,1.800
+72516490,2026-08-01 16:00,Barycz Sulow,MKS Kluczbork,2,0,2.450,3.600,2.400,3,2.000,1.800
+73074550,2026-08-01 18:30,Odra Bytom Odrzanski,KS Polonia Nysa,3,0,2.050,3.600,2.875,3,2.000,1.800
+72516810,2026-08-07 16:00,BTP Stal Brzeg,KS Sleza Wroclaw,5,1,1.909,3.800,3.100,2.75,1.775,2.025
+72516506,2026-08-08 10:00,BKS Sparta Katowice,KS Stilon Gorzow Wlkp,2,1,1.700,3.600,4.100,2.5,1.800,2.000
+73204146,2026-08-08 10:00,Rakow II Czestochowa,Odra Bytom Odrzanski,0,1,2.300,3.600,2.500,3,1.925,1.875
+72516516,2026-08-08 12:00,Warta Gorzow Wielkopolski,Mkp Carina Gubin,2,1,2.100,3.600,2.800,2.75,1.875,1.925
+72516512,2026-08-08 15:00,MKS Kluczbork,KS Gornik Polkowice,2,1,2.300,3.500,2.550,2.75,1.850,1.950
+73074554,2026-08-08 16:00,KS Polonia Nysa,Zaglebie Lubin II,2,2,,,,,,
+72516518,2026-08-08 17:00,Karkonosze Jelenia Gora,KS Row 1964 Rybnik,1,0,,,,,,
+72516514,2026-08-09 10:00,Miedz Legnica II,Barycz Sulow,1,2,2.050,3.700,2.875,3,1.900,1.900
+72516502,2026-08-09 15:00,Zaglebie Sosnowiec,LKS Goczalkowice-Zdroj,2,0,2.050,3.300,3.100,2.5,2.000,1.800
+72516522,2026-08-14 15:00,Mkp Carina Gubin,Karkonosze Jelenia Gora,1,1,2.150,3.750,2.625,3,1.825,1.975
+72516526,2026-08-14 15:00,KS Gornik Polkowice,Miedz Legnica II,3,3,2.100,4.000,2.600,3.5,2.000,1.800
+72516534,2026-08-14 16:00,BTP Stal Brzeg,BKS Sparta Katowice,1,1,,,,,,
+72516536,2026-08-15 11:00,LKS Goczalkowice-Zdroj,KS Sleza Wroclaw,0,2,1.400,4.200,5.750,2.75,1.775,2.025
+73074566,2026-08-15 15:00,KS Stilon Gorzow Wlkp,KS Polonia Nysa,1,1,2.250,3.500,2.625,2.75,1.825,1.975
+72516524,2026-08-15 16:00,Barycz Sulow,Warta Gorzow Wielkopolski,2,2,,,,,,
+72516528,2026-08-15 18:00,Odra Bytom Odrzanski,MKS Kluczbork,1,0,2.100,3.600,2.750,2.75,1.850,1.950
+73204148,2026-08-16 10:00,Zaglebie Lubin II,Rakow II Czestochowa,2,2,1.285,5.000,7.000,3.25,1.850,1.950
+72516520,2026-08-16 16:00,KS Row 1964 Rybnik,Zaglebie Sosnowiec,4,1,,,,,,
+73204150,2026-08-19 12:30,Rakow II Czestochowa,KS Stilon Gorzow Wlkp,1,4,2.050,3.500,3.000,2.5,1.800,2.000
+72516548,2026-08-19 14:00,Miedz Legnica II,Odra Bytom Odrzanski,0,1,2.150,3.700,2.625,3,1.950,1.850
+72516540,2026-08-19 15:00,BKS Sparta Katowice,LKS Goczalkowice-Zdroj,2,1,1.800,3.600,3.500,2.5,1.875,1.925
+72516546,2026-08-19 15:00,MKS Kluczbork,Zaglebie Lubin II,1,3,,,,,,
+72516550,2026-08-19 15:00,Warta Gorzow Wielkopolski,KS Gornik Polkowice,0,0,2.200,3.600,2.600,3,2.000,1.800
+72516552,2026-08-19 15:00,Karkonosze Jelenia Gora,Barycz Sulow,3,0,2.100,3.600,2.800,2.75,1.875,1.925
+72516538,2026-08-19 16:00,Zaglebie Sosnowiec,KS Sleza Wroclaw,3,1,1.300,4.750,7.500,3,2.000,1.800
+72516554,2026-08-19 16:00,KS Row 1964 Rybnik,Mkp Carina Gubin,4,0,1.666,3.900,3.750,3,1.850,1.950
+73074560,2026-08-19 18:00,KS Polonia Nysa,BTP Stal Brzeg,3,2,2.550,3.600,2.250,2.75,1.900,1.900
+72516564,2026-08-22 10:00,Zaglebie Lubin II,Miedz Legnica II,3,2,1.833,4.000,3.400,3.25,1.850,1.950
+72516878,2026-08-22 10:00,BKS Sparta Katowice,KS Sleza Wroclaw,3,0,1.300,4.750,7.000,3,1.975,1.825
+73074562,2026-08-22 11:00,LKS Goczalkowice-Zdroj,KS Polonia Nysa,2,0,,,,,,
+72516556,2026-08-22 14:00,Mkp Carina Gubin,Zaglebie Sosnowiec,0,4,,,,,,
+72516566,2026-08-22 15:00,KS Stilon Gorzow Wlkp,MKS Kluczbork,0,1,2.750,3.600,2.100,2.75,1.875,1.925
+72516558,2026-08-22 16:00,Barycz Sulow,KS Row 1964 Rybnik,4,0,,,,,,
+72516562,2026-08-22 18:00,Odra Bytom Odrzanski,Warta Gorzow Wielkopolski,0,1,1.850,3.700,3.250,2.75,1.900,1.900
+73204152,2026-08-23 13:00,BTP Stal Brzeg,Rakow II Czestochowa,3,0,,,,,,
+72516560,2026-08-23 15:00,KS Gornik Polkowice,Karkonosze Jelenia Gora,2,1,2.000,3.600,2.900,2.75,1.800,2.000
+72516582,2026-08-28 14:00,Miedz Legnica II,KS Stilon Gorzow Wlkp,2,2,1.550,4.100,4.333,3,1.850,1.950
+72516590,2026-08-28 14:00,Mkp Carina Gubin,Barycz Sulow,0,1,,,,,,
+72516580,2026-08-28 17:00,MKS Kluczbork,BTP Stal Brzeg,1,0,1.850,3.600,3.300,2.75,1.800,2.000
+72516574,2026-08-29 10:00,BKS Sparta Katowice,Zaglebie Sosnowiec,1,0,2.600,3.400,2.350,2.5,1.850,1.950
+73204154,2026-08-29 12:45,Rakow II Czestochowa,LKS Goczalkowice-Zdroj,0,0,2.350,3.600,2.450,2.75,1.800,2.000
+72516584,2026-08-29 15:00,Warta Gorzow Wielkopolski,Zaglebie Lubin II,0,2,2.500,3.750,2.250,3,1.950,1.850
+72516586,2026-08-29 15:00,Karkonosze Jelenia Gora,Odra Bytom Odrzanski,0,0,,,,,,
+72516588,2026-08-29 16:00,KS Row 1964 Rybnik,KS Gornik Polkowice,1,3,2.250,3.700,2.550,3.25,1.900,1.900
+73074558,2026-08-29 16:00,KS Polonia Nysa,KS Sleza Wroclaw,1,3,,,,,,
+72516598,2026-09-05 10:00,Zaglebie Lubin II,Karkonosze Jelenia Gora,1,0,1.533,4.100,4.500,3.25,1.925,1.875
+72516604,2026-09-05 10:00,LKS Goczalkowice-Zdroj,MKS Kluczbork,3,0,2.600,3.500,2.300,2.75,1.950,1.850
+73074618,2026-09-05 10:00,BKS Sparta Katowice,KS Polonia Nysa,4,0,1.285,5.000,7.000,3,1.825,1.975
+72516602,2026-09-05 13:00,BTP Stal Brzeg,Miedz Legnica II,2,4,,,,,,
+73204156,2026-09-05 13:30,KS Sleza Wroclaw,Rakow II Czestochowa,1,2,2.150,3.500,2.750,2.75,1.850,1.950
+72516600,2026-09-05 14:00,KS Stilon Gorzow Wlkp,Warta Gorzow Wielkopolski,1,1,,,,,,
+72516592,2026-09-05 16:00,Barycz Sulow,Zaglebie Sosnowiec,1,0,,,,,,
+72516596,2026-09-05 18:00,Odra Bytom Odrzanski,KS Row 1964 Rybnik,3,2,2.100,3.750,2.700,2.75,1.800,2.000
+72516594,2026-09-06 14:00,KS Gornik Polkowice,Mkp Carina Gubin,2,1,1.533,4.200,4.500,3.25,2.000,1.800
+72516624,2026-09-11 15:00,Mkp Carina Gubin,Odra Bytom Odrzanski,1,1,,,,,,
+72516616,2026-09-12 10:00,Miedz Legnica II,LKS Goczalkowice-Zdroj,5,0,2.150,3.500,2.625,3,2.000,1.800
+72516614,2026-09-12 15:00,MKS Kluczbork,KS Sleza Wroclaw,3,2,,,,,,
+72516618,2026-09-12 15:00,Warta Gorzow Wielkopolski,BTP Stal Brzeg,1,0,2.100,3.600,2.750,2.75,1.900,1.900
+72516622,2026-09-12 16:00,KS Row 1964 Rybnik,Zaglebie Lubin II,2,2,,,,,,
+72516626,2026-09-12 16:00,Barycz Sulow,KS Gornik Polkowice,2,1,2.000,3.700,2.900,2.75,1.825,1.975
+73074564,2026-09-12 17:00,KS Polonia Nysa,Zaglebie Sosnowiec,1,2,,,,,,
+73204158,2026-09-13 10:00,Rakow II Czestochowa,BKS Sparta Katowice,1,1,3.800,4.000,1.666,3,1.825,1.975
+72516620,2026-09-13 13:00,Karkonosze Jelenia Gora,KS Stilon Gorzow Wlkp,4,2,1.727,3.600,3.800,2.5,1.800,2.000
+72516632,2026-09-18 10:00,Zaglebie Lubin II,Mkp Carina Gubin,3,0,1.600,4.333,3.800,3.25,1.950,1.850
+72516628,2026-09-18 14:00,KS Gornik Polkowice,Zaglebie Sosnowiec,1,2,2.000,3.600,2.900,2.75,1.850,1.950
+73204160,2026-09-18 17:00,KS Polonia Nysa,Rakow II Czestochowa,0,2,,,,,,
+72516630,2026-09-18 18:00,Odra Bytom Odrzanski,Barycz Sulow,1,0,2.500,3.600,2.300,2.75,1.825,1.975
+72516638,2026-09-19 10:00,LKS Goczalkowice-Zdroj,Warta Gorzow Wielkopolski,4,1,1.850,3.600,3.400,2.5,1.825,1.975
+72516642,2026-09-19 10:00,BKS Sparta Katowice,MKS Kluczbork,2,1,1.615,3.800,4.333,2.75,1.925,1.875
+72516634,2026-09-19 13:00,KS Stilon Gorzow Wlkp,KS Row 1964 Rybnik,0,0,,,,,,
+72516636,2026-09-19 13:00,BTP Stal Brzeg,Karkonosze Jelenia Gora,1,0,,,,,,
+72516640,2026-09-19 13:30,KS Sleza Wroclaw,Miedz Legnica II,3,5,3.600,3.900,1.727,3,1.825,1.975
+72516650,2026-09-26 10:00,Miedz Legnica II,BKS Sparta Katowice,0,2,2.200,3.700,2.625,3,1.825,1.975
+72516652,2026-09-26 12:00,Warta Gorzow Wielkopolski,KS Sleza Wroclaw,1,1,1.833,3.600,3.400,2.75,1.850,1.950
+72516658,2026-09-26 14:00,Mkp Carina Gubin,KS Stilon Gorzow Wlkp,1,3,,,,,,
+72516662,2026-09-26 14:00,KS Gornik Polkowice,Odra Bytom Odrzanski,0,1,1.950,3.700,2.900,2.75,1.875,1.925
+72516654,2026-09-26 15:00,Karkonosze Jelenia Gora,LKS Goczalkowice-Zdroj,2,0,2.000,3.800,2.875,2.75,1.875,1.925
+72516656,2026-09-26 16:00,KS Row 1964 Rybnik,BTP Stal Brzeg,4,3,1.909,3.600,3.100,2.75,1.800,2.000
+72516660,2026-09-26 16:00,Barycz Sulow,Zaglebie Lubin II,3,3,2.350,3.600,2.400,3,1.850,1.950
+73074620,2026-09-26 16:00,MKS Kluczbork,KS Polonia Nysa,1,3,,,,,,
+72516666,2026-10-02 10:00,Zaglebie Lubin II,KS Gornik Polkowice,1,1,2.550,3.750,2.200,3.5,1.825,1.975
+73074622,2026-10-02 17:00,KS Polonia Nysa,Miedz Legnica II,1,2,2.600,4.000,2.100,3.5,1.875,1.925
+72516676,2026-10-03 10:00,BKS Sparta Katowice,Warta Gorzow Wielkopolski,1,1,1.615,3.800,4.333,2.75,1.875,1.925
+72516672,2026-10-03 11:00,LKS Goczalkowice-Zdroj,KS Row 1964 Rybnik,0,1,2.000,3.700,2.900,3,1.975,1.825
+72516668,2026-10-03 13:00,KS Stilon Gorzow Wlkp,Barycz Sulow,2,1,,,,,,
+72516670,2026-10-03 13:00,BTP Stal Brzeg,Mkp Carina Gubin,0,1,,,,,,
+72516674,2026-10-03 13:00,KS Sleza Wroclaw,Karkonosze Jelenia Gora,2,0,2.875,3.700,2.050,3,1.975,1.825
+72516664,2026-10-03 17:00,Odra Bytom Odrzanski,Zaglebie Sosnowiec,0,1,2.400,3.700,2.350,3,1.850,1.950
+72516696,2026-10-09 13:30,KS Gornik Polkowice,KS Stilon Gorzow Wlkp,4,1,1.666,3.700,4.000,2.75,1.950,1.850
+73204166,2026-10-10 09:00,Miedz Legnica II,Rakow II Czestochowa,2,1,1.550,4.200,4.333,3.25,1.850,1.950
+72516692,2026-10-10 13:00,Mkp Carina Gubin,LKS Goczalkowice-Zdroj,0,0,,,,,,
+73074624,2026-10-10 13:00,Warta Gorzow Wielkopolski,KS Polonia Nysa,0,1,1.850,3.600,3.400,3,1.975,1.825
+72516682,2026-10-10 15:00,Zaglebie Sosnowiec,MKS Kluczbork,1,0,1.615,3.750,4.333,2.75,1.825,1.975
+72516688,2026-10-10 15:00,Karkonosze Jelenia Gora,BKS Sparta Katowice,1,0,,,,,,
+72516690,2026-10-10 15:00,KS Row 1964 Rybnik,KS Sleza Wroclaw,2,1,1.500,4.200,4.800,3.25,1.950,1.850
+72516694,2026-10-10 16:00,Barycz Sulow,BTP Stal Brzeg,1,1,,,,,,
+72516698,2026-10-10 17:00,Odra Bytom Odrzanski,Zaglebie Lubin II,1,1,1.850,3.600,3.400,3,1.850,1.950
+73204162,2026-10-14 16:00,Zaglebie Sosnowiec,Rakow II Czestochowa,1,0,1.380,4.500,6.250,3,1.850,1.950
+73074626,2026-10-16 17:00,KS Polonia Nysa,Karkonosze Jelenia Gora,2,2,2.750,3.500,2.150,2.75,1.950,1.850
+72516700,2026-10-17 10:00,Zaglebie Lubin II,Zaglebie Sosnowiec,0,1,2.250,3.600,2.550,3,2.025,1.775
+72516710,2026-10-17 10:00,BKS Sparta Katowice,KS Row 1964 Rybnik,2,0,1.727,3.750,3.600,3,2.000,1.800
+73204168,2026-10-17 10:00,Rakow II Czestochowa,Warta Gorzow Wielkopolski,3,2,2.300,3.600,2.500,2.75,1.900,1.900
+72516706,2026-10-17 11:00,LKS Goczalkowice-Zdroj,Barycz Sulow,3,1,2.350,3.600,2.450,2.75,1.875,1.925
+72516704,2026-10-17 12:00,BTP Stal Brzeg,KS Gornik Polkowice,2,0,,,,,,
+72516702,2026-10-17 13:00,KS Stilon Gorzow Wlkp,Odra Bytom Odrzanski,0,0,,,,,,
+72516708,2026-10-17 13:00,KS Sleza Wroclaw,Mkp Carina Gubin,1,3,2.050,3.700,2.750,3,1.900,1.900
+72516716,2026-10-17 15:00,MKS Kluczbork,Miedz Legnica II,2,0,2.000,3.800,2.800,3,1.875,1.925
+72516718,2026-10-23 15:00,Zaglebie Sosnowiec,Miedz Legnica II,3,1,1.615,4.000,4.000,3,1.825,1.975
+72516730,2026-10-24 11:00,KS Gornik Polkowice,LKS Goczalkowice-Zdroj,4,1,1.950,3.600,3.000,2.75,1.775,2.025
+72516720,2026-10-24 12:00,Warta Gorzow Wielkopolski,MKS Kluczbork,0,2,,,,,,
+72516726,2026-10-24 12:00,Mkp Carina Gubin,BKS Sparta Katowice,1,3,,,,,,
+73074636,2026-10-24 15:00,KS Row 1964 Rybnik,KS Polonia Nysa,3,0,,,,,,
+73204170,2026-10-24 15:00,Karkonosze Jelenia Gora,Rakow II Czestochowa,3,1,1.850,3.700,3.250,3,1.975,1.825
+72516728,2026-10-24 16:00,Barycz Sulow,KS Sleza Wroclaw,1,2,,,,,,
+72516732,2026-10-24 16:00,Odra Bytom Odrzanski,BTP Stal Brzeg,3,2,1.800,3.700,3.500,2.75,1.875,1.925
+72516734,2026-10-25 11:00,Zaglebie Lubin II,KS Stilon Gorzow Wlkp,3,1,1.600,4.100,4.000,3,1.775,2.025
+72516752,2026-10-30 12:00,Miedz Legnica II,Warta Gorzow Wielkopolski,6,0,1.571,4.000,4.333,3.25,1.825,1.975
+73204172,2026-10-30 12:30,Rakow II Czestochowa,KS Row 1964 Rybnik,1,3,2.250,3.600,2.550,3,1.825,1.975
+72516742,2026-10-30 13:00,KS Sleza Wroclaw,KS Gornik Polkowice,2,2,,,,,,
+72516750,2026-10-30 17:00,MKS Kluczbork,Karkonosze Jelenia Gora,2,2,,,,,,
+72516744,2026-10-31 11:00,BKS Sparta Katowice,Barycz Sulow,3,1,1.727,3.700,3.800,3,2.000,1.800
+72516736,2026-10-31 12:00,KS Stilon Gorzow Wlkp,Zaglebie Sosnowiec,0,2,,,,,,
+72516738,2026-10-31 12:00,BTP Stal Brzeg,Zaglebie Lubin II,4,1,,,,,,
+72516740,2026-10-31 12:00,LKS Goczalkowice-Zdroj,Odra Bytom Odrzanski,3,0,2.450,3.200,2.500,2.5,1.900,1.900
+73074634,2026-10-31 16:00,KS Polonia Nysa,Mkp Carina Gubin,0,0,2.100,3.400,2.900,2.75,1.900,1.900
+75261372,2026-11-04 11:30,Rakow II Czestochowa,MKS Kluczbork,0,0,2.300,3.700,2.450,3,1.900,1.900
+72516768,2026-11-06 11:00,Zaglebie Lubin II,LKS Goczalkowice-Zdroj,1,2,2.050,3.700,2.750,3,1.900,1.900
+72516764,2026-11-07 12:00,KS Gornik Polkowice,BKS Sparta Katowice,0,4,2.875,3.600,2.100,2.75,1.800,2.000
+72516770,2026-11-07 12:00,KS Stilon Gorzow Wlkp,BTP Stal Brzeg,2,2,2.750,3.500,2.100,2.75,1.850,1.950
+73204174,2026-11-07 12:00,Mkp Carina Gubin,Rakow II Czestochowa,2,1,,,,,,
+72516756,2026-11-07 16:00,Karkonosze Jelenia Gora,Miedz Legnica II,1,2,,,,,,
+72516758,2026-11-07 16:00,KS Row 1964 Rybnik,MKS Kluczbork,1,2,1.800,3.900,3.250,3,1.900,1.900
+72516766,2026-11-07 17:00,Odra Bytom Odrzanski,KS Sleza Wroclaw,1,0,,,,,,
+72516754,2026-11-08 16:00,Zaglebie Sosnowiec,Warta Gorzow Wielkopolski,3,0,1.300,5.250,7.000,3,1.850,1.950
+72516820,2026-11-11 14:00,Barycz Sulow,Miedz Legnica II,3,0,2.250,3.700,2.500,3.25,2.000,1.800

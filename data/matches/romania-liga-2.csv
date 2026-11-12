@@ -1,464 +1,464 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-60475069,2025-05-24 08:00,AFC Chindia Targoviste,CSC Dumbravita,3,2,,,
-62265332,2025-08-02 08:00,SC FC Voluntari,AFC Metalul Buzau,2,1,,,
-62265334,2025-08-02 08:00,CSM Slatina,CS Gloria 2018 Bistrita-Nasaud,0,0,,,
-62265336,2025-08-02 08:00,CS Afumati,ACS FC Bacau,3,2,,,
-62265340,2025-08-02 08:00,CS Tunari,Csa Steaua Bucuresti,1,3,,,
-62265342,2025-08-02 08:00,CS Concordia Chiajna,AFC Campulung Muscel 2022,2,0,,,
-62265344,2025-08-02 08:00,CS Dinamo Bucuresti,CSC Dumbravita,1,2,,,
-62265346,2025-08-02 08:00,ACSM Resita,Csm Olimpia Satu Mare,2,1,,,
-62265348,2025-08-02 08:00,FC Bihor Oradea,CSC 1599 Selimbar,1,0,,,
-62265350,2025-08-02 08:00,Asa Targu Mures,FC Corvinul Hunedoara 1921,0,0,,,
-62265352,2025-08-03 08:00,AFC Chindia Targoviste,ACS Sepsi OSK Sfantu Gheorghe,3,0,,,
-62510706,2025-08-05 17:00,CSM Politehnica Iasi,CSM Ceahlaul Piatra Neamt,0,1,,,
-62265360,2025-08-08 14:00,Csm Olimpia Satu Mare,FC Bihor Oradea,1,4,,,
-62265366,2025-08-08 16:00,Csa Steaua Bucuresti,CS Concordia Chiajna,4,1,,,
-62265358,2025-08-09 08:00,CSC 1599 Selimbar,Asa Targu Mures,1,3,,,
-62265362,2025-08-09 08:00,CSC Dumbravita,ACSM Resita,1,3,,,
-62265364,2025-08-09 08:00,AFC Campulung Muscel 2022,CS Dinamo Bucuresti,2,3,,,
-62265368,2025-08-09 08:00,CSM Ceahlaul Piatra Neamt,CS Tunari,1,1,,,
-62265372,2025-08-09 08:00,CS Gloria 2018 Bistrita-Nasaud,CS Afumati,1,1,,,
-62265374,2025-08-09 08:00,SC FC Voluntari,CSM Slatina,1,0,,,
-62265354,2025-08-09 08:30,AFC Metalul Buzau,ACS Sepsi OSK Sfantu Gheorghe,0,0,,,
-62265356,2025-08-10 09:00,FC Corvinul Hunedoara 1921,AFC Chindia Targoviste,1,0,,,
-62517122,2025-08-12 15:00,ACS FC Bacau,CSM Politehnica Iasi,1,2,,,
-62265390,2025-08-15 08:00,FC Bihor Oradea,CSC Dumbravita,3,2,,,
-62265376,2025-08-16 08:00,CSM Slatina,AFC Metalul Buzau,2,3,,,
-62265378,2025-08-16 08:00,CS Afumati,SC FC Voluntari,0,1,,,
-62265388,2025-08-16 08:00,ACSM Resita,AFC Campulung Muscel 2022,7,0,,,
-62265392,2025-08-16 08:00,Asa Targu Mures,Csm Olimpia Satu Mare,4,0,,,
-62265394,2025-08-16 08:00,AFC Chindia Targoviste,CSC 1599 Selimbar,3,1,,,
-62265386,2025-08-16 15:30,CS Dinamo Bucuresti,Csa Steaua Bucuresti,0,0,,,
-62265382,2025-08-17 08:00,CS Tunari,ACS FC Bacau,1,2,,,
-62265384,2025-08-17 08:00,CS Concordia Chiajna,CSM Ceahlaul Piatra Neamt,8,0,,,
-62715447,2025-08-18 14:00,ACS Sepsi OSK Sfantu Gheorghe,FC Corvinul Hunedoara 1921,0,2,,,
-62641733,2025-08-19 16:00,CSM Politehnica Iasi,CS Gloria 2018 Bistrita-Nasaud,3,0,,,
-62265400,2025-08-22 14:00,CSC 1599 Selimbar,ACS Sepsi OSK Sfantu Gheorghe,0,2,,,
-62265398,2025-08-23 08:00,AFC Metalul Buzau,FC Corvinul Hunedoara 1921,0,1,,,
-62265404,2025-08-23 08:00,CSC Dumbravita,Asa Targu Mures,2,3,,,
-62265406,2025-08-23 08:00,AFC Campulung Muscel 2022,FC Bihor Oradea,2,1,,,
-62265408,2025-08-23 08:00,Csa Steaua Bucuresti,ACSM Resita,2,1,,,
-62265410,2025-08-23 08:00,CSM Ceahlaul Piatra Neamt,CS Dinamo Bucuresti,3,0,,,
-62265412,2025-08-23 08:00,ACS FC Bacau,CS Concordia Chiajna,1,1,,,
-62265414,2025-08-23 08:00,CS Gloria 2018 Bistrita-Nasaud,CS Tunari,2,2,,,
-62265418,2025-08-23 08:00,CSM Slatina,CS Afumati,0,2,,,
-62265416,2025-08-23 10:00,SC FC Voluntari,CSM Politehnica Iasi,0,0,,,
-62265402,2025-08-24 09:00,Csm Olimpia Satu Mare,AFC Chindia Targoviste,2,4,,,
-62265420,2025-08-30 08:00,CS Afumati,AFC Metalul Buzau,0,2,,,
-62265422,2025-08-30 08:00,CSM Politehnica Iasi,CSM Slatina,1,1,,,
-62265424,2025-08-30 08:00,CS Tunari,SC FC Voluntari,2,1,,,
-62265426,2025-08-30 08:00,CS Concordia Chiajna,CS Gloria 2018 Bistrita-Nasaud,2,0,,,
-62265430,2025-08-30 08:00,ACSM Resita,CSM Ceahlaul Piatra Neamt,0,2,,,
-62265434,2025-08-30 08:00,Asa Targu Mures,AFC Campulung Muscel 2022,3,0,,,
-62265432,2025-08-30 08:30,FC Bihor Oradea,Csa Steaua Bucuresti,4,2,,,
-62265438,2025-08-30 11:00,ACS Sepsi OSK Sfantu Gheorghe,Csm Olimpia Satu Mare,1,0,,,
-62265440,2025-08-31 08:00,FC Corvinul Hunedoara 1921,CSC 1599 Selimbar,3,2,,,
-62265428,2025-08-31 08:30,CS Dinamo Bucuresti,ACS FC Bacau,1,1,,,
-63132093,2025-09-02 16:30,AFC Chindia Targoviste,CSC Dumbravita,2,0,,,
-62265460,2025-09-11 15:00,SC FC Voluntari,CS Concordia Chiajna,1,0,,,
-62265452,2025-09-11 17:30,Csa Steaua Bucuresti,Asa Targu Mures,2,1,,,
-62265454,2025-09-12 15:00,CSM Ceahlaul Piatra Neamt,FC Bihor Oradea,0,3,,,
-62265442,2025-09-13 08:00,AFC Metalul Buzau,CSC 1599 Selimbar,1,0,,,
-62265448,2025-09-13 08:00,CSC Dumbravita,ACS Sepsi OSK Sfantu Gheorghe,1,2,,,
-62265450,2025-09-13 08:00,AFC Campulung Muscel 2022,AFC Chindia Targoviste,1,1,,,
-62265456,2025-09-13 08:00,ACS FC Bacau,ACSM Resita,0,0,,,
-62265458,2025-09-13 08:00,CS Gloria 2018 Bistrita-Nasaud,CS Dinamo Bucuresti,2,1,,,
-62265462,2025-09-13 08:00,CSM Slatina,CS Tunari,1,1,,,
-62265464,2025-09-13 10:30,CS Afumati,CSM Politehnica Iasi,2,0,,,
-62265444,2025-09-14 08:00,Csm Olimpia Satu Mare,FC Corvinul Hunedoara 1921,2,4,,,
-62265476,2025-09-19 14:00,FC Bihor Oradea,ACS FC Bacau,2,0,,,
-62265468,2025-09-20 08:00,CS Tunari,CS Afumati,0,2,,,
-62265470,2025-09-20 08:00,CS Concordia Chiajna,CSM Slatina,1,2,,,
-62265472,2025-09-20 08:00,CS Dinamo Bucuresti,SC FC Voluntari,0,0,,,
-62265474,2025-09-20 08:00,ACSM Resita,CS Gloria 2018 Bistrita-Nasaud,2,1,,,
-62265482,2025-09-20 08:00,ACS Sepsi OSK Sfantu Gheorghe,AFC Campulung Muscel 2022,2,0,,,
-62265484,2025-09-20 08:00,FC Corvinul Hunedoara 1921,CSC Dumbravita,3,1,,,
-62265486,2025-09-20 08:00,CSC 1599 Selimbar,Csm Olimpia Satu Mare,1,1,,,
-62265466,2025-09-20 09:30,CSM Politehnica Iasi,AFC Metalul Buzau,2,1,,,
-62265478,2025-09-21 08:00,Asa Targu Mures,CSM Ceahlaul Piatra Neamt,3,0,,,
-63664245,2025-09-23 16:00,AFC Chindia Targoviste,Csa Steaua Bucuresti,3,0,,,
-62265488,2025-09-27 08:00,AFC Metalul Buzau,Csm Olimpia Satu Mare,0,1,,,
-62265490,2025-09-27 08:00,CSC Dumbravita,CSC 1599 Selimbar,1,1,,,
-62265492,2025-09-27 08:00,AFC Campulung Muscel 2022,FC Corvinul Hunedoara 1921,0,1,,,
-62265500,2025-09-27 08:00,CS Gloria 2018 Bistrita-Nasaud,FC Bihor Oradea,1,3,,,
-62265502,2025-09-27 08:00,SC FC Voluntari,ACSM Resita,3,2,,,
-62265504,2025-09-27 08:00,CSM Slatina,CS Dinamo Bucuresti,2,0,,,
-62265506,2025-09-27 08:00,CS Afumati,CS Concordia Chiajna,1,2,,,
-62265508,2025-09-27 08:00,CSM Politehnica Iasi,CS Tunari,2,0,,,
-62265498,2025-09-27 10:00,ACS FC Bacau,Asa Targu Mures,3,0,,,
-62265496,2025-09-28 09:30,CSM Ceahlaul Piatra Neamt,AFC Chindia Targoviste,0,0,,,
-63854143,2025-09-30 14:00,Csa Steaua Bucuresti,ACS Sepsi OSK Sfantu Gheorghe,2,1,,,
-62265518,2025-10-03 14:00,FC Bihor Oradea,SC FC Voluntari,1,1,,,
-62265510,2025-10-04 08:00,CS Tunari,AFC Metalul Buzau,2,4,,,
-62265512,2025-10-04 08:00,CS Concordia Chiajna,CSM Politehnica Iasi,2,0,,,
-62265514,2025-10-04 08:00,CS Dinamo Bucuresti,CS Afumati,0,0,,,
-62265516,2025-10-04 08:00,ACSM Resita,CSM Slatina,2,0,,,
-62265522,2025-10-04 08:00,AFC Chindia Targoviste,ACS FC Bacau,4,0,,,
-62265528,2025-10-04 08:00,CSC 1599 Selimbar,AFC Campulung Muscel 2022,5,0,,,
-62265530,2025-10-04 08:00,Csm Olimpia Satu Mare,CSC Dumbravita,1,4,,,
-62265526,2025-10-04 09:30,FC Corvinul Hunedoara 1921,Csa Steaua Bucuresti,0,0,,,
-62265524,2025-10-05 09:30,ACS Sepsi OSK Sfantu Gheorghe,CSM Ceahlaul Piatra Neamt,1,0,,,
-64011921,2025-10-07 17:00,Asa Targu Mures,CS Gloria 2018 Bistrita-Nasaud,3,0,,,
-62265550,2025-10-17 14:30,CSM Politehnica Iasi,CS Dinamo Bucuresti,1,1,,,
-62265532,2025-10-18 08:00,AFC Metalul Buzau,CSC Dumbravita,5,1,,,
-62265534,2025-10-18 08:00,AFC Campulung Muscel 2022,Csm Olimpia Satu Mare,3,0,,,
-62265536,2025-10-18 08:00,Csa Steaua Bucuresti,CSC 1599 Selimbar,4,3,,,
-62265540,2025-10-18 08:00,ACS FC Bacau,ACS Sepsi OSK Sfantu Gheorghe,0,2,,,
-62265542,2025-10-18 08:00,CS Gloria 2018 Bistrita-Nasaud,AFC Chindia Targoviste,3,1,,,
-62265544,2025-10-18 08:00,SC FC Voluntari,Asa Targu Mures,3,3,,,
-62265548,2025-10-18 08:00,CS Afumati,ACSM Resita,2,3,,,
-62265552,2025-10-18 08:00,CS Tunari,CS Concordia Chiajna,1,1,,,
-62265538,2025-10-18 09:30,CSM Ceahlaul Piatra Neamt,FC Corvinul Hunedoara 1921,2,3,,,
-62265546,2025-10-19 08:00,CSM Slatina,FC Bihor Oradea,2,0,,,
-62265554,2025-10-25 08:00,CS Concordia Chiajna,AFC Metalul Buzau,1,2,,,
-62265556,2025-10-25 08:00,CS Dinamo Bucuresti,CS Tunari,3,1,,,
-62265558,2025-10-25 08:00,ACSM Resita,CSM Politehnica Iasi,0,1,,,
-62265562,2025-10-25 08:00,Asa Targu Mures,CSM Slatina,3,2,,,
-62265566,2025-10-25 08:00,ACS Sepsi OSK Sfantu Gheorghe,CS Gloria 2018 Bistrita-Nasaud,1,1,,,
-62265568,2025-10-25 08:00,FC Corvinul Hunedoara 1921,ACS FC Bacau,2,0,,,
-62265570,2025-10-25 08:00,CSC 1599 Selimbar,CSM Ceahlaul Piatra Neamt,3,1,,,
-62265572,2025-10-25 08:00,Csm Olimpia Satu Mare,Csa Steaua Bucuresti,1,4,,,
-62265574,2025-10-25 08:00,CSC Dumbravita,AFC Campulung Muscel 2022,0,0,,,
-62265564,2025-10-25 10:30,AFC Chindia Targoviste,SC FC Voluntari,0,2,,,
-62265560,2025-10-26 09:30,FC Bihor Oradea,CS Afumati,2,1,,,
-62265592,2025-10-31 15:30,CSM Politehnica Iasi,FC Bihor Oradea,2,1,,,
-62265576,2025-11-01 09:00,AFC Metalul Buzau,AFC Campulung Muscel 2022,4,0,,,
-62265580,2025-11-01 09:00,CSM Ceahlaul Piatra Neamt,Csm Olimpia Satu Mare,1,0,,,
-62265582,2025-11-01 09:00,ACS FC Bacau,CSC 1599 Selimbar,1,1,,,
-62265584,2025-11-01 09:00,CS Gloria 2018 Bistrita-Nasaud,FC Corvinul Hunedoara 1921,0,1,,,
-62265588,2025-11-01 09:00,CSM Slatina,AFC Chindia Targoviste,1,1,,,
-62265594,2025-11-01 09:00,CS Tunari,ACSM Resita,0,1,,,
-62265590,2025-11-01 10:30,CS Afumati,Asa Targu Mures,2,1,,,
-62265578,2025-11-02 09:00,Csa Steaua Bucuresti,CSC Dumbravita,0,1,,,
-62265596,2025-11-02 09:00,CS Concordia Chiajna,CS Dinamo Bucuresti,2,1,,,
-64975718,2025-11-04 15:00,SC FC Voluntari,ACS Sepsi OSK Sfantu Gheorghe,1,2,,,
-62265598,2025-11-08 09:00,CS Dinamo Bucuresti,AFC Metalul Buzau,0,2,,,
-62265600,2025-11-08 09:00,ACSM Resita,CS Concordia Chiajna,1,0,,,
-62265602,2025-11-08 09:00,FC Bihor Oradea,CS Tunari,0,0,,,
-62265608,2025-11-08 09:00,ACS Sepsi OSK Sfantu Gheorghe,CSM Slatina,3,2,,,
-62265612,2025-11-08 09:00,CSC 1599 Selimbar,CS Gloria 2018 Bistrita-Nasaud,3,1,,,
-62265614,2025-11-08 09:00,Csm Olimpia Satu Mare,ACS FC Bacau,0,1,,,
-62265616,2025-11-08 09:00,CSC Dumbravita,CSM Ceahlaul Piatra Neamt,1,1,,,
-62265618,2025-11-08 09:00,AFC Campulung Muscel 2022,Csa Steaua Bucuresti,0,1,,,
-62265610,2025-11-08 10:00,FC Corvinul Hunedoara 1921,SC FC Voluntari,0,0,,,
-65126726,2025-11-10 17:30,Asa Targu Mures,CSM Politehnica Iasi,4,0,,,
-65129928,2025-11-11 17:30,AFC Chindia Targoviste,CS Afumati,2,3,,,
-62265638,2025-11-20 17:30,CS Concordia Chiajna,FC Bihor Oradea,1,0,,,
-62265620,2025-11-22 09:00,AFC Metalul Buzau,Csa Steaua Bucuresti,1,1,,,
-62265622,2025-11-22 09:00,CSM Ceahlaul Piatra Neamt,AFC Campulung Muscel 2022,3,0,,,
-62265624,2025-11-22 09:00,ACS FC Bacau,CSC Dumbravita,1,0,,,
-62265626,2025-11-22 09:00,CS Gloria 2018 Bistrita-Nasaud,Csm Olimpia Satu Mare,0,1,,,
-62265628,2025-11-22 09:00,SC FC Voluntari,CSC 1599 Selimbar,0,0,,,
-62265636,2025-11-22 09:00,CS Tunari,Asa Targu Mures,1,2,,,
-62265640,2025-11-22 09:00,CS Dinamo Bucuresti,ACSM Resita,1,1,,,
-62265630,2025-11-22 10:30,CSM Slatina,FC Corvinul Hunedoara 1921,0,1,,,
-62265632,2025-11-23 11:30,CS Afumati,ACS Sepsi OSK Sfantu Gheorghe,2,2,,,
-62265634,2025-11-25 15:00,CSM Politehnica Iasi,AFC Chindia Targoviste,1,0,,,
-62265646,2025-11-28 15:30,Asa Targu Mures,CS Concordia Chiajna,0,0,,,
-62265648,2025-11-29 09:00,AFC Chindia Targoviste,CS Tunari,3,0,,,
-62265654,2025-11-29 09:00,CSC 1599 Selimbar,CSM Slatina,1,2,,,
-62265656,2025-11-29 09:00,Csm Olimpia Satu Mare,SC FC Voluntari,0,1,,,
-62265658,2025-11-29 09:00,CSC Dumbravita,CS Gloria 2018 Bistrita-Nasaud,2,1,,,
-62265660,2025-11-29 09:00,AFC Campulung Muscel 2022,ACS FC Bacau,0,0,,,
-62265662,2025-11-29 09:00,Csa Steaua Bucuresti,CSM Ceahlaul Piatra Neamt,2,0,,,
-62265644,2025-11-29 09:30,FC Bihor Oradea,CS Dinamo Bucuresti,5,0,,,
-62265652,2025-11-29 12:00,FC Corvinul Hunedoara 1921,CS Afumati,3,2,,,
-62265642,2025-11-30 10:30,ACSM Resita,AFC Metalul Buzau,2,0,,,
-65752548,2025-12-01 11:30,ACS Sepsi OSK Sfantu Gheorghe,CSM Politehnica Iasi,1,0,,,
-62265680,2025-12-05 16:15,CS Concordia Chiajna,AFC Chindia Targoviste,0,1,,,
-62265666,2025-12-06 09:00,ACS FC Bacau,Csa Steaua Bucuresti,3,2,,,
-62265668,2025-12-06 09:00,CS Gloria 2018 Bistrita-Nasaud,AFC Campulung Muscel 2022,6,0,,,
-62265670,2025-12-06 09:00,SC FC Voluntari,CSC Dumbravita,3,1,,,
-62265672,2025-12-06 09:00,CSM Slatina,Csm Olimpia Satu Mare,3,1,,,
-62265674,2025-12-06 09:00,CS Afumati,CSC 1599 Selimbar,1,0,,,
-62265682,2025-12-06 09:00,CS Dinamo Bucuresti,Asa Targu Mures,0,2,,,
-62265684,2025-12-06 12:30,ACSM Resita,FC Bihor Oradea,2,3,,,
-62265664,2025-12-07 09:00,AFC Metalul Buzau,CSM Ceahlaul Piatra Neamt,2,1,,,
-62265678,2025-12-07 09:00,CS Tunari,ACS Sepsi OSK Sfantu Gheorghe,0,2,,,
-62265676,2025-12-07 10:30,CSM Politehnica Iasi,FC Corvinul Hunedoara 1921,0,0,,,
-62265692,2025-12-12 15:30,ACS Sepsi OSK Sfantu Gheorghe,CS Concordia Chiajna,3,1,1.666,3.500,4.200
-62265690,2025-12-13 09:00,AFC Chindia Targoviste,CS Dinamo Bucuresti,2,0,1.444,3.800,6.500
-62265694,2025-12-13 09:00,FC Corvinul Hunedoara 1921,CS Tunari,3,0,1.142,6.500,17.000
-62265696,2025-12-13 09:00,CSC 1599 Selimbar,CSM Politehnica Iasi,2,1,2.600,3.100,2.450
-62265698,2025-12-13 09:00,Csm Olimpia Satu Mare,CS Afumati,2,1,4.100,3.300,1.750
-62265700,2025-12-13 09:00,CSC Dumbravita,CSM Slatina,1,2,4.333,3.100,1.800
-62265702,2025-12-13 09:00,AFC Campulung Muscel 2022,SC FC Voluntari,0,2,,,
-62265704,2025-12-13 09:00,Csa Steaua Bucuresti,CS Gloria 2018 Bistrita-Nasaud,1,2,1.480,4.100,5.500
-62265706,2025-12-13 09:00,CSM Ceahlaul Piatra Neamt,ACS FC Bacau,1,5,2.900,3.250,2.250
-62265688,2025-12-13 10:30,Asa Targu Mures,ACSM Resita,0,2,2.500,3.200,2.500
-62265686,2025-12-14 09:00,FC Bihor Oradea,AFC Metalul Buzau,2,1,2.100,3.100,3.100
-62265712,2026-02-19 15:30,SC FC Voluntari,Csa Steaua Bucuresti,2,0,,,
-62265708,2026-02-21 09:00,AFC Metalul Buzau,ACS FC Bacau,0,1,,,
-62265710,2026-02-21 09:00,CS Gloria 2018 Bistrita-Nasaud,CSM Ceahlaul Piatra Neamt,2,0,,,
-62265714,2026-02-21 09:00,CSM Slatina,AFC Campulung Muscel 2022,0,0,,,
-62265718,2026-02-21 09:00,CSM Politehnica Iasi,Csm Olimpia Satu Mare,2,0,,,
-62265726,2026-02-21 09:00,ACSM Resita,AFC Chindia Targoviste,2,3,,,
-62265724,2026-02-21 10:00,CS Dinamo Bucuresti,ACS Sepsi OSK Sfantu Gheorghe,1,2,,,
-62265716,2026-02-21 13:00,CS Afumati,CSC Dumbravita,0,1,,,
-62265720,2026-02-22 09:00,CS Tunari,CSC 1599 Selimbar,1,0,,,
-62265728,2026-02-22 10:30,FC Bihor Oradea,Asa Targu Mures,2,1,,,
-68771220,2026-02-24 15:30,CS Concordia Chiajna,FC Corvinul Hunedoara 1921,0,2,,,
-62265746,2026-02-26 15:30,Csa Steaua Bucuresti,CSM Slatina,2,1,,,
-62265734,2026-02-28 09:00,ACS Sepsi OSK Sfantu Gheorghe,ACSM Resita,5,0,,,
-62265736,2026-02-28 09:00,FC Corvinul Hunedoara 1921,CS Dinamo Bucuresti,2,2,,,
-62265738,2026-02-28 09:00,CSC 1599 Selimbar,CS Concordia Chiajna,1,0,,,
-62265740,2026-02-28 09:00,Csm Olimpia Satu Mare,CS Tunari,1,1,,,
-62265742,2026-02-28 09:00,CSC Dumbravita,CSM Politehnica Iasi,1,0,,,
-62265744,2026-02-28 09:00,AFC Campulung Muscel 2022,CS Afumati,0,3,,,
-62265748,2026-02-28 09:00,CSM Ceahlaul Piatra Neamt,SC FC Voluntari,1,5,,,
-62265750,2026-02-28 09:00,ACS FC Bacau,CS Gloria 2018 Bistrita-Nasaud,1,1,,,
-62265730,2026-02-28 11:00,Asa Targu Mures,AFC Metalul Buzau,1,0,,,
-62265732,2026-03-01 09:15,AFC Chindia Targoviste,FC Bihor Oradea,1,0,,,
-62265754,2026-03-06 15:00,SC FC Voluntari,ACS FC Bacau,1,2,1.444,3.900,6.500
-62265756,2026-03-07 09:00,CSM Slatina,CSM Ceahlaul Piatra Neamt,2,1,1.166,5.750,13.000
-62265758,2026-03-07 09:00,CS Afumati,Csa Steaua Bucuresti,0,1,3.800,3.300,1.800
-62265760,2026-03-07 09:00,CSM Politehnica Iasi,AFC Campulung Muscel 2022,6,1,,,
-62265764,2026-03-07 09:00,CS Concordia Chiajna,Csm Olimpia Satu Mare,4,2,1.550,3.750,5.000
-62265766,2026-03-07 09:00,CS Dinamo Bucuresti,CSC 1599 Selimbar,4,1,2.875,3.200,2.250
-62265770,2026-03-07 10:00,FC Bihor Oradea,ACS Sepsi OSK Sfantu Gheorghe,2,2,3.600,2.800,2.100
-62265762,2026-03-07 13:00,CS Tunari,CSC Dumbravita,1,1,2.300,3.000,2.900
-62265752,2026-03-08 09:00,AFC Metalul Buzau,CS Gloria 2018 Bistrita-Nasaud,1,4,1.800,3.300,4.000
-62265768,2026-03-08 10:00,ACSM Resita,FC Corvinul Hunedoara 1921,1,3,3.500,3.100,1.950
-69497498,2026-03-09 15:00,Asa Targu Mures,AFC Chindia Targoviste,0,2,2.625,3.000,2.500
-62265774,2026-03-14 10:30,AFC Chindia Targoviste,AFC Metalul Buzau,2,3,1.444,3.800,6.250
-62265776,2026-03-14 10:30,ACS Sepsi OSK Sfantu Gheorghe,Asa Targu Mures,0,0,1.450,3.800,6.000
-62265778,2026-03-14 10:30,FC Corvinul Hunedoara 1921,FC Bihor Oradea,2,1,1.500,3.700,5.500
-62265780,2026-03-14 10:30,CSC 1599 Selimbar,ACSM Resita,1,1,2.900,3.200,2.200
-62265782,2026-03-14 10:30,Csm Olimpia Satu Mare,CS Dinamo Bucuresti,2,0,1.950,3.200,3.600
-62265784,2026-03-14 10:30,CSC Dumbravita,CS Concordia Chiajna,1,0,3.100,3.100,2.100
-62265786,2026-03-14 10:30,AFC Campulung Muscel 2022,CS Tunari,1,3,,,
-62265788,2026-03-14 10:30,Csa Steaua Bucuresti,CSM Politehnica Iasi,3,1,1.444,3.900,6.250
-62265790,2026-03-14 10:30,CSM Ceahlaul Piatra Neamt,CS Afumati,1,2,5.250,3.800,1.500
-62265792,2026-03-14 10:30,ACS FC Bacau,CSM Slatina,3,2,2.550,3.000,2.550
-62265794,2026-03-14 10:30,CS Gloria 2018 Bistrita-Nasaud,SC FC Voluntari,1,0,2.450,3.200,2.550
-69910330,2026-03-21 09:00,CSM Politehnica Iasi,CSM Ceahlaul Piatra Neamt,3,0,,,
-69910332,2026-03-21 09:00,AFC Metalul Buzau,CS Dinamo Bucuresti,4,2,,,
-69910334,2026-03-21 09:00,Asa Targu Mures,AFC Campulung Muscel 2022,1,0,,,
-69910336,2026-03-21 09:00,CS Gloria 2018 Bistrita-Nasaud,CSM Slatina,1,2,1.850,3.300,3.700
-69910388,2026-03-21 09:00,CS Afumati,CSC 1599 Selimbar,0,1,1.950,3.200,3.500
-69910390,2026-03-21 09:00,ACS FC Bacau,CS Tunari,1,0,,,
-69910392,2026-03-21 09:00,ACSM Resita,Csm Olimpia Satu Mare,2,0,,,
-69910394,2026-03-21 09:00,CS Concordia Chiajna,CSC Dumbravita,1,0,1.650,3.400,4.500
-69910228,2026-03-21 10:30,FC Corvinul Hunedoara 1921,Csa Steaua Bucuresti,1,0,1.480,3.800,5.750
-69910230,2026-03-22 09:00,SC FC Voluntari,AFC Chindia Targoviste,5,1,2.000,3.100,3.500
-69910232,2026-03-22 11:00,ACS Sepsi OSK Sfantu Gheorghe,FC Bihor Oradea,3,0,1.700,3.400,4.333
-69910234,2026-04-02 17:30,Csa Steaua Bucuresti,AFC Chindia Targoviste,2,0,,,
-69910236,2026-04-03 14:30,FC Bihor Oradea,SC FC Voluntari,0,2,,,
-69910338,2026-04-04 08:00,Asa Targu Mures,AFC Metalul Buzau,1,4,,,
-69910340,2026-04-04 08:00,CS Dinamo Bucuresti,CSM Politehnica Iasi,0,1,,,
-69910342,2026-04-04 08:00,CSM Ceahlaul Piatra Neamt,CS Gloria 2018 Bistrita-Nasaud,0,3,,,
-69910344,2026-04-04 08:00,AFC Campulung Muscel 2022,CSM Slatina,0,4,,,
-69910396,2026-04-04 08:00,ACSM Resita,ACS FC Bacau,1,0,,,
-69910398,2026-04-04 08:00,CS Tunari,CS Afumati,0,4,,,
-69910400,2026-04-04 08:00,CSC 1599 Selimbar,CS Concordia Chiajna,0,2,,,
-69910402,2026-04-04 08:00,Csm Olimpia Satu Mare,CSC Dumbravita,3,2,,,
-69910238,2026-04-04 09:30,FC Corvinul Hunedoara 1921,ACS Sepsi OSK Sfantu Gheorghe,0,1,,,
-69910346,2026-04-10 08:00,CSM Slatina,CSM Ceahlaul Piatra Neamt,1,1,,,
-69910348,2026-04-10 08:00,CS Gloria 2018 Bistrita-Nasaud,CS Dinamo Bucuresti,0,2,,,
-69910350,2026-04-10 08:00,CSM Politehnica Iasi,Asa Targu Mures,0,1,,,
-69910352,2026-04-10 08:00,AFC Metalul Buzau,AFC Campulung Muscel 2022,1,0,,,
-69910404,2026-04-10 08:00,CSC Dumbravita,CSC 1599 Selimbar,0,0,,,
-69910406,2026-04-10 08:00,CS Concordia Chiajna,CS Tunari,1,1,,,
-69910408,2026-04-10 08:00,CS Afumati,ACSM Resita,1,1,,,
-69910410,2026-04-10 08:00,ACS FC Bacau,Csm Olimpia Satu Mare,1,3,,,
-69910240,2026-04-10 10:30,AFC Chindia Targoviste,FC Bihor Oradea,1,3,,,
-69910242,2026-04-10 13:00,SC FC Voluntari,FC Corvinul Hunedoara 1921,1,0,,,
-69910244,2026-04-11 09:30,ACS Sepsi OSK Sfantu Gheorghe,Csa Steaua Bucuresti,2,0,,,
-69910248,2026-04-14 14:00,FC Corvinul Hunedoara 1921,AFC Chindia Targoviste,2,0,,,
-69910250,2026-04-15 14:00,ACS Sepsi OSK Sfantu Gheorghe,SC FC Voluntari,1,1,,,
-69910246,2026-04-15 16:00,Csa Steaua Bucuresti,FC Bihor Oradea,3,1,,,
-69910354,2026-04-18 08:00,CS Dinamo Bucuresti,CSM Slatina,1,2,,,
-69910356,2026-04-18 08:00,AFC Campulung Muscel 2022,CSM Ceahlaul Piatra Neamt,3,3,,,
-69910358,2026-04-18 08:00,Asa Targu Mures,CS Gloria 2018 Bistrita-Nasaud,1,1,,,
-69910360,2026-04-18 08:00,AFC Metalul Buzau,CSM Politehnica Iasi,2,0,,,
-69910412,2026-04-18 08:00,CS Tunari,CSC Dumbravita,2,1,,,
-69910414,2026-04-18 08:00,Csm Olimpia Satu Mare,CSC 1599 Selimbar,4,0,,,
-69910416,2026-04-18 08:00,ACSM Resita,CS Concordia Chiajna,1,2,,,
-69910418,2026-04-18 08:00,ACS FC Bacau,CS Afumati,3,1,,,
-69910254,2026-04-18 09:00,AFC Chindia Targoviste,ACS Sepsi OSK Sfantu Gheorghe,0,1,,,
-69910252,2026-04-19 08:00,SC FC Voluntari,Csa Steaua Bucuresti,2,0,,,
-69910256,2026-04-19 10:30,FC Bihor Oradea,FC Corvinul Hunedoara 1921,1,3,,,
-69910262,2026-04-23 14:15,FC Bihor Oradea,ACS Sepsi OSK Sfantu Gheorghe,3,2,,,
-69910260,2026-04-25 08:00,AFC Chindia Targoviste,SC FC Voluntari,1,2,,,
-69910362,2026-04-25 08:00,CSM Ceahlaul Piatra Neamt,CS Dinamo Bucuresti,0,2,,,
-69910364,2026-04-25 08:00,CSM Slatina,Asa Targu Mures,0,0,,,
-69910366,2026-04-25 08:00,CS Gloria 2018 Bistrita-Nasaud,AFC Metalul Buzau,0,1,,,
-69910368,2026-04-25 08:00,CSM Politehnica Iasi,AFC Campulung Muscel 2022,1,0,,,
-69910420,2026-04-25 08:00,CSC 1599 Selimbar,CS Tunari,1,2,,,
-69910422,2026-04-25 08:00,CSC Dumbravita,ACSM Resita,2,0,,,
-69910424,2026-04-25 08:00,CS Concordia Chiajna,ACS FC Bacau,2,0,,,
-69910426,2026-04-25 08:00,CS Afumati,Csm Olimpia Satu Mare,1,3,,,
-69910258,2026-04-25 10:00,Csa Steaua Bucuresti,FC Corvinul Hunedoara 1921,1,3,,,
-69910266,2026-04-30 16:00,SC FC Voluntari,FC Bihor Oradea,2,1,,,
-69910264,2026-05-01 14:30,AFC Chindia Targoviste,Csa Steaua Bucuresti,1,2,,,
-69910370,2026-05-02 08:00,CSM Politehnica Iasi,CS Gloria 2018 Bistrita-Nasaud,2,2,,,
-69910372,2026-05-02 08:00,AFC Metalul Buzau,CSM Slatina,1,3,,,
-69910374,2026-05-02 08:00,Asa Targu Mures,CSM Ceahlaul Piatra Neamt,4,0,,,
-69910376,2026-05-02 08:00,AFC Campulung Muscel 2022,CS Dinamo Bucuresti,0,1,,,
-69910428,2026-05-02 08:00,CS Afumati,CS Concordia Chiajna,1,0,,,
-69910430,2026-05-02 08:00,ACS FC Bacau,CSC Dumbravita,1,0,,,
-69910432,2026-05-02 08:00,ACSM Resita,CSC 1599 Selimbar,0,2,,,
-69910434,2026-05-02 08:00,Csm Olimpia Satu Mare,CS Tunari,1,1,,,
-69910268,2026-05-02 09:30,ACS Sepsi OSK Sfantu Gheorghe,FC Corvinul Hunedoara 1921,2,1,,,
-69910274,2026-05-05 14:30,FC Bihor Oradea,AFC Chindia Targoviste,3,1,,,
-69910272,2026-05-06 15:30,FC Corvinul Hunedoara 1921,SC FC Voluntari,2,0,,,
-69910270,2026-05-07 16:00,Csa Steaua Bucuresti,ACS Sepsi OSK Sfantu Gheorghe,0,2,,,
-69910378,2026-05-09 08:00,CS Dinamo Bucuresti,Asa Targu Mures,1,3,,,
-69910380,2026-05-09 08:00,CSM Ceahlaul Piatra Neamt,AFC Metalul Buzau,0,3,,,
-69910382,2026-05-09 08:00,CSM Slatina,CSM Politehnica Iasi,1,0,,,
-69910384,2026-05-09 08:00,CS Gloria 2018 Bistrita-Nasaud,AFC Campulung Muscel 2022,3,0,,,
-69910436,2026-05-09 08:00,CS Tunari,ACSM Resita,3,1,,,
-69910438,2026-05-09 08:00,CSC 1599 Selimbar,ACS FC Bacau,4,1,,,
-69910440,2026-05-09 08:00,CSC Dumbravita,CS Afumati,1,0,,,
-69910442,2026-05-09 08:00,CS Concordia Chiajna,Csm Olimpia Satu Mare,2,2,,,
-69910278,2026-05-09 10:30,AFC Chindia Targoviste,FC Corvinul Hunedoara 1921,1,0,,,
-69910276,2026-05-10 08:30,FC Bihor Oradea,Csa Steaua Bucuresti,3,3,,,
-69910280,2026-05-12 17:00,SC FC Voluntari,ACS Sepsi OSK Sfantu Gheorghe,2,0,,,
-69910282,2026-05-16 08:00,Csa Steaua Bucuresti,SC FC Voluntari,2,4,3.500,3.600,1.900
-69910284,2026-05-16 08:00,ACS Sepsi OSK Sfantu Gheorghe,AFC Chindia Targoviste,1,1,,,
-69910286,2026-05-16 08:00,FC Corvinul Hunedoara 1921,FC Bihor Oradea,1,1,,,
-71421860,2026-05-16 08:00,CS Dinamo Bucuresti,CSC 1599 Selimbar,1,1,2.700,3.200,2.350
-71421862,2026-05-23 08:00,CSC 1599 Selimbar,CS Dinamo Bucuresti,2,0,1.700,3.300,4.500
-73086460,2026-08-01 08:00,ACSM Resita,Asa Targu Mures,2,1,2.250,3.400,2.700
-73086462,2026-08-01 08:00,CS Gloria Bistrita,CSC 1599 Selimbar,2,1,1.650,3.500,4.500
-73086466,2026-08-01 08:00,CS Afumati,CS Dinamo Bucuresti,2,1,,,
-73086468,2026-08-01 08:00,Cetatea 1932 Suceava,CS Concordia Chiajna,1,3,2.800,3.300,2.200
-73086470,2026-08-01 08:00,FC Bihor Oradea,AFC Unirea 04 Slobozia,1,1,1.950,3.400,3.400
-73086472,2026-08-01 08:00,Metaloglobus Bucuresti,AFC Metalul Buzau,0,0,2.450,3.100,2.600
-73086474,2026-08-01 08:00,Scm Ramnicu Valcea,SC Popesti Leordeni,1,1,1.750,3.600,3.700
-73086476,2026-08-01 08:00,ACS FC Bacau,Csl Stefanestii de Jos,3,0,1.333,5.000,6.000
-73086456,2026-08-02 13:00,Csa Steaua Bucuresti,CSM Slatina,1,2,1.750,3.400,4.000
-73134724,2026-08-04 15:00,Stinta Poli Timisoara,AFC Chindia Targoviste,1,0,,,
-73334732,2026-08-05 15:00,CSC Dumbravita,Csm Olimpia Satu Mare,1,1,1.650,3.750,4.100
-73086482,2026-08-07 15:00,AFC Unirea 04 Slobozia,CS Gloria Bistrita,0,3,1.909,3.200,3.600
-73086478,2026-08-08 08:00,CS Concordia Chiajna,FC Bihor Oradea,2,0,2.500,3.100,2.600
-73086480,2026-08-08 08:00,Csl Stefanestii de Jos,CSC Dumbravita,1,0,2.700,3.100,2.450
-73086486,2026-08-08 08:00,CSC 1599 Selimbar,Stinta Poli Timisoara,1,1,,,
-73086488,2026-08-08 08:00,Csa Steaua Bucuresti,Scm Ramnicu Valcea,1,2,1.533,3.750,5.250
-73086492,2026-08-08 08:00,CSM Slatina,CS Dinamo Bucuresti,5,1,1.142,7.000,13.000
-73086494,2026-08-08 08:00,AFC Metalul Buzau,CS Afumati,3,1,1.727,3.600,4.000
-73086496,2026-08-08 08:00,SC Popesti Leordeni,ACS FC Bacau,3,2,2.550,3.100,2.550
-73086498,2026-08-08 08:00,Asa Targu Mures,Cetatea 1932 Suceava,0,2,1.420,4.000,6.250
-73323790,2026-08-08 08:00,Csm Olimpia Satu Mare,ACSM Resita,0,2,4.000,3.400,1.750
-73086490,2026-08-09 13:30,AFC Chindia Targoviste,Metaloglobus Bucuresti,3,1,1.533,3.800,5.000
-73086500,2026-08-15 08:00,CS Dinamo Bucuresti,AFC Metalul Buzau,0,1,10.000,5.750,1.200
-73086504,2026-08-15 08:00,CSC Dumbravita,SC Popesti Leordeni,1,1,2.700,3.100,2.375
-73086506,2026-08-15 08:00,Scm Ramnicu Valcea,CSM Slatina,0,1,3.000,3.200,2.200
-73086512,2026-08-15 08:00,FC Bihor Oradea,Asa Targu Mures,1,1,1.900,3.300,3.600
-73086514,2026-08-15 08:00,Metaloglobus Bucuresti,CSC 1599 Selimbar,3,1,1.950,3.200,3.600
-73086516,2026-08-15 08:00,Stinta Poli Timisoara,AFC Unirea 04 Slobozia,1,0,,,
-73086518,2026-08-15 08:00,ACSM Resita,Csl Stefanestii de Jos,2,0,1.285,4.750,8.000
-73086520,2026-08-15 08:00,CS Gloria Bistrita,CS Concordia Chiajna,1,2,2.350,3.100,2.700
-73323792,2026-08-15 08:00,Cetatea 1932 Suceava,Csm Olimpia Satu Mare,2,0,1.750,3.500,3.900
-73086510,2026-08-15 13:30,CS Afumati,AFC Chindia Targoviste,0,3,2.875,3.200,2.250
-73086508,2026-08-16 08:00,ACS FC Bacau,Csa Steaua Bucuresti,3,0,3.000,3.200,2.150
-73086522,2026-08-21 14:30,AFC Chindia Targoviste,CS Dinamo Bucuresti,1,2,1.125,7.500,21.000
-73086524,2026-08-22 08:00,Csl Stefanestii de Jos,Cetatea 1932 Suceava,3,1,3.250,3.500,1.950
-73086528,2026-08-22 08:00,CSM Slatina,AFC Metalul Buzau,2,0,2.100,3.250,3.100
-73086532,2026-08-22 08:00,SC Popesti Leordeni,ACSM Resita,4,1,3.100,3.100,2.100
-73086536,2026-08-22 08:00,Asa Targu Mures,CS Gloria Bistrita,1,0,2.150,3.100,3.000
-73086540,2026-08-22 08:00,CS Concordia Chiajna,Stinta Poli Timisoara,1,5,,,
-73086542,2026-08-22 08:00,Scm Ramnicu Valcea,ACS FC Bacau,2,2,2.500,3.300,2.400
-73323794,2026-08-22 08:00,Csm Olimpia Satu Mare,FC Bihor Oradea,0,0,4.333,3.600,1.650
-73086526,2026-08-23 08:00,CSC 1599 Selimbar,CS Afumati,1,1,2.550,3.200,2.450
-73086538,2026-08-23 08:00,Csa Steaua Bucuresti,CSC Dumbravita,2,2,1.650,3.900,4.000
-73727188,2026-08-25 16:00,AFC Unirea 04 Slobozia,Metaloglobus Bucuresti,1,2,2.250,3.200,2.800
-73086544,2026-08-29 08:00,CS Afumati,AFC Unirea 04 Slobozia,2,1,1.850,3.400,3.600
-73086546,2026-08-29 08:00,Cetatea 1932 Suceava,SC Popesti Leordeni,1,1,2.000,3.400,3.100
-73086548,2026-08-29 08:00,ACSM Resita,Csa Steaua Bucuresti,2,1,2.000,3.400,3.100
-73086550,2026-08-29 08:00,Metaloglobus Bucuresti,CS Concordia Chiajna,1,3,2.625,3.250,2.300
-73086552,2026-08-29 08:00,CS Dinamo Bucuresti,CSC 1599 Selimbar,0,1,4.000,3.500,1.727
-73086556,2026-08-29 08:00,AFC Metalul Buzau,AFC Chindia Targoviste,1,3,2.200,3.400,2.750
-73086558,2026-08-29 08:00,CSC Dumbravita,Scm Ramnicu Valcea,0,1,2.700,3.200,2.300
-73086562,2026-08-29 08:00,FC Bihor Oradea,Csl Stefanestii de Jos,4,0,1.200,5.750,10.000
-73323796,2026-08-29 08:00,CS Gloria Bistrita,Csm Olimpia Satu Mare,1,0,1.615,3.600,4.750
-73086564,2026-08-30 08:00,Stinta Poli Timisoara,Asa Targu Mures,3,0,,,
-73990198,2026-08-31 14:30,ACS FC Bacau,CSM Slatina,0,0,2.100,3.300,3.200
-73086574,2026-09-04 14:30,CSM Slatina,AFC Chindia Targoviste,3,2,1.950,3.600,3.100
-73086568,2026-09-05 08:00,CSC 1599 Selimbar,AFC Metalul Buzau,1,1,3.100,3.200,2.050
-73086570,2026-09-05 08:00,AFC Unirea 04 Slobozia,CS Dinamo Bucuresti,8,0,1.380,4.100,6.250
-73086572,2026-09-05 08:00,Csa Steaua Bucuresti,Cetatea 1932 Suceava,2,2,1.650,3.700,4.333
-73086576,2026-09-05 08:00,Csl Stefanestii de Jos,CS Gloria Bistrita,1,2,4.000,3.250,1.800
-73086580,2026-09-05 08:00,Asa Targu Mures,Metaloglobus Bucuresti,3,2,1.900,3.600,3.300
-73086582,2026-09-05 08:00,CS Concordia Chiajna,CS Afumati,1,2,1.571,3.700,5.000
-73086586,2026-09-05 08:00,Scm Ramnicu Valcea,ACSM Resita,1,2,3.100,3.250,2.100
-73086578,2026-09-05 09:30,SC Popesti Leordeni,FC Bihor Oradea,3,2,5.000,3.700,1.550
-73086566,2026-09-06 08:00,ACS FC Bacau,CSC Dumbravita,6,1,1.480,4.000,5.250
-73323798,2026-09-06 09:30,Csm Olimpia Satu Mare,Stinta Poli Timisoara,1,1,,,
-73086588,2026-09-12 08:00,CS Dinamo Bucuresti,CS Concordia Chiajna,2,5,10.000,5.250,1.222
-73086590,2026-09-12 08:00,CSC Dumbravita,CSM Slatina,0,2,5.000,3.500,1.571
-73086596,2026-09-12 08:00,Cetatea 1932 Suceava,Scm Ramnicu Valcea,4,0,1.833,3.600,3.400
-73086598,2026-09-12 08:00,CS Gloria Bistrita,SC Popesti Leordeni,2,3,1.800,3.250,3.900
-73086602,2026-09-12 08:00,CS Afumati,Asa Targu Mures,2,2,1.800,3.700,3.500
-73086606,2026-09-12 08:00,Stinta Poli Timisoara,Csl Stefanestii de Jos,2,1,,,
-73323800,2026-09-12 08:00,Metaloglobus Bucuresti,Csm Olimpia Satu Mare,1,1,1.700,3.400,4.200
-73086604,2026-09-12 10:30,FC Bihor Oradea,Csa Steaua Bucuresti,3,0,1.666,3.500,4.333
-73086592,2026-09-13 08:00,AFC Chindia Targoviste,CSC 1599 Selimbar,4,0,1.363,4.500,5.750
-73086608,2026-09-13 10:00,AFC Metalul Buzau,AFC Unirea 04 Slobozia,2,0,1.850,3.600,3.250
-74364956,2026-09-15 14:00,ACSM Resita,ACS FC Bacau,0,1,1.850,3.700,3.300
-73086610,2026-09-19 08:00,AFC Unirea 04 Slobozia,AFC Chindia Targoviste,0,1,3.100,3.400,2.000
-73086616,2026-09-19 08:00,ACS FC Bacau,Cetatea 1932 Suceava,2,2,1.800,3.600,3.600
-73086618,2026-09-19 08:00,Csa Steaua Bucuresti,CS Gloria Bistrita,2,1,1.727,3.600,3.900
-73086620,2026-09-19 08:00,CSM Slatina,CSC 1599 Selimbar,2,1,1.300,4.333,8.000
-73086622,2026-09-19 08:00,Csl Stefanestii de Jos,Metaloglobus Bucuresti,0,1,3.900,3.500,1.750
-73086626,2026-09-19 08:00,CS Concordia Chiajna,AFC Metalul Buzau,0,1,1.950,3.300,3.400
-73323802,2026-09-19 08:00,Csm Olimpia Satu Mare,CS Afumati,0,2,3.100,3.250,2.050
-73086624,2026-09-19 09:30,SC Popesti Leordeni,Stinta Poli Timisoara,3,4,,,
-73086628,2026-09-20 08:30,Scm Ramnicu Valcea,FC Bihor Oradea,3,2,3.300,3.400,1.909
-74551756,2026-09-22 14:30,CSC Dumbravita,ACSM Resita,0,2,5.250,3.750,1.500
-74551764,2026-09-22 17:00,Asa Targu Mures,CS Dinamo Bucuresti,4,3,1.166,7.000,13.000
-73086638,2026-10-08 15:00,Stinta Poli Timisoara,Csa Steaua Bucuresti,1,1,,,
-73086632,2026-10-10 08:00,AFC Chindia Targoviste,CS Concordia Chiajna,3,2,1.833,3.500,3.500
-73086634,2026-10-10 08:00,Cetatea 1932 Suceava,CSC Dumbravita,3,1,1.380,4.333,6.250
-73086642,2026-10-10 08:00,Metaloglobus Bucuresti,SC Popesti Leordeni,0,3,2.150,3.250,2.900
-73086644,2026-10-10 08:00,CS Gloria Bistrita,Scm Ramnicu Valcea,1,0,1.800,3.400,3.700
-73086646,2026-10-10 08:00,AFC Metalul Buzau,Asa Targu Mures,1,0,2.000,3.300,3.200
-73086652,2026-10-10 08:00,CSC 1599 Selimbar,AFC Unirea 04 Slobozia,0,1,2.150,3.400,2.800
-73323804,2026-10-10 08:00,CS Dinamo Bucuresti,Csm Olimpia Satu Mare,2,2,4.750,3.600,1.615
-73086650,2026-10-10 10:00,ACSM Resita,CSM Slatina,3,1,2.150,3.200,2.900
-73086640,2026-10-11 08:00,CS Afumati,Csl Stefanestii de Jos,4,0,1.333,4.750,6.250
-73086648,2026-10-11 12:45,FC Bihor Oradea,ACS FC Bacau,1,0,1.800,3.400,3.700
-73086654,2026-10-17 08:00,CSC Dumbravita,FC Bihor Oradea,0,2,5.750,4.333,1.380
-73086658,2026-10-17 08:00,Csa Steaua Bucuresti,Metaloglobus Bucuresti,0,0,2.000,3.300,3.250
-73086660,2026-10-17 08:00,ACSM Resita,Cetatea 1932 Suceava,0,2,1.700,3.700,3.900
-73086666,2026-10-17 08:00,CSM Slatina,AFC Unirea 04 Slobozia,1,0,1.650,3.600,4.200
-73086668,2026-10-17 08:00,Csl Stefanestii de Jos,CS Dinamo Bucuresti,1,4,1.850,3.400,3.400
-73086672,2026-10-17 08:00,CS Concordia Chiajna,CSC 1599 Selimbar,5,0,1.400,4.333,5.500
-73086674,2026-10-17 08:00,SC Popesti Leordeni,CS Afumati,2,0,3.000,3.400,2.050
-73323806,2026-10-17 08:00,Csm Olimpia Satu Mare,AFC Metalul Buzau,0,0,4.200,3.400,1.700
-73086656,2026-10-17 09:30,Scm Ramnicu Valcea,Stinta Poli Timisoara,0,1,,,
-73086662,2026-10-18 10:30,ACS FC Bacau,CS Gloria Bistrita,3,0,2.150,3.300,2.900
-75374504,2026-10-20 14:30,Asa Targu Mures,AFC Chindia Targoviste,2,4,2.250,3.250,2.875
-73086684,2026-10-22 13:00,FC Bihor Oradea,ACSM Resita,2,0,2.200,3.300,2.750
-73086680,2026-10-24 08:00,AFC Metalul Buzau,Csl Stefanestii de Jos,3,0,1.181,6.500,11.000
-73086690,2026-10-24 08:00,AFC Unirea 04 Slobozia,CS Concordia Chiajna,2,2,3.500,3.500,1.833
-73086692,2026-10-24 08:00,CS Dinamo Bucuresti,SC Popesti Leordeni,1,2,6.500,5.000,1.333
-73086694,2026-10-24 08:00,Cetatea 1932 Suceava,CSM Slatina,2,0,2.150,3.400,2.800
-73086696,2026-10-24 08:00,CS Gloria Bistrita,CSC Dumbravita,2,1,1.333,4.333,7.500
-73086676,2026-10-24 10:00,Stinta Poli Timisoara,ACS FC Bacau,1,0,,,
-73086682,2026-10-25 09:00,CSC 1599 Selimbar,Asa Targu Mures,1,0,2.875,3.600,2.050
-73086686,2026-10-25 09:00,CS Afumati,Csa Steaua Bucuresti,1,3,2.350,3.750,2.350
-73323808,2026-10-25 09:00,AFC Chindia Targoviste,Csm Olimpia Satu Mare,3,2,1.333,4.500,7.500
-73086678,2026-10-26 15:00,Metaloglobus Bucuresti,Scm Ramnicu Valcea,2,0,1.909,3.700,3.200
-73086702,2026-10-30 16:00,Csa Steaua Bucuresti,CS Dinamo Bucuresti,0,0,1.200,5.750,10.000
-73086700,2026-10-31 09:00,Csl Stefanestii de Jos,AFC Chindia Targoviste,0,3,9.000,6.500,1.181
-73086706,2026-10-31 09:00,CSC Dumbravita,Stinta Poli Timisoara,2,2,,,
-73086708,2026-10-31 09:00,Scm Ramnicu Valcea,CS Afumati,3,2,2.100,3.700,2.750
-73086710,2026-10-31 09:00,Cetatea 1932 Suceava,FC Bihor Oradea,2,2,2.150,3.300,2.875
-73086714,2026-10-31 09:00,SC Popesti Leordeni,AFC Metalul Buzau,2,1,2.625,3.500,2.200
-73086716,2026-10-31 09:00,Asa Targu Mures,AFC Unirea 04 Slobozia,0,1,1.833,3.500,3.600
-73323810,2026-10-31 09:00,Csm Olimpia Satu Mare,CSC 1599 Selimbar,2,0,2.050,3.250,3.100
-73086704,2026-10-31 11:30,ACS FC Bacau,Metaloglobus Bucuresti,1,4,1.727,3.500,4.000
-73086718,2026-11-01 09:00,CSM Slatina,CS Concordia Chiajna,1,2,2.200,3.250,2.750
-73086698,2026-11-01 10:30,ACSM Resita,CS Gloria Bistrita,1,0,1.909,3.500,3.300
-73086736,2026-11-05 15:00,AFC Chindia Targoviste,SC Popesti Leordeni,4,1,1.571,3.900,4.500
-73086726,2026-11-07 09:00,Metaloglobus Bucuresti,CSC Dumbravita,1,0,1.400,4.200,6.250
-73086728,2026-11-07 09:00,CS Afumati,ACS FC Bacau,1,1,2.150,3.400,2.800
-73086734,2026-11-07 09:00,CSC 1599 Selimbar,Csl Stefanestii de Jos,0,2,1.333,4.500,6.500
-73086738,2026-11-07 09:00,CS Concordia Chiajna,Asa Targu Mures,5,0,1.727,3.600,3.800
-73086740,2026-11-07 09:00,CS Gloria Bistrita,Cetatea 1932 Suceava,3,1,2.300,3.400,2.550
-73323812,2026-11-07 09:00,AFC Unirea 04 Slobozia,Csm Olimpia Satu Mare,2,0,1.800,3.400,3.750
-73086724,2026-11-07 10:30,FC Bihor Oradea,CSM Slatina,0,1,2.000,3.400,3.300
-76121454,2026-11-09 12:30,Stinta Poli Timisoara,ACSM Resita,0,0,,,
-76121458,2026-11-09 15:00,CS Dinamo Bucuresti,Scm Ramnicu Valcea,2,3,4.500,4.100,1.533
-76121460,2026-11-10 17:30,AFC Metalul Buzau,Csa Steaua Bucuresti,2,1,2.050,3.300,3.100
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+60475069,2025-05-24 08:00,AFC Chindia Targoviste,CSC Dumbravita,3,2,,,,,,
+62265332,2025-08-02 08:00,SC FC Voluntari,AFC Metalul Buzau,2,1,,,,,,
+62265334,2025-08-02 08:00,CSM Slatina,CS Gloria 2018 Bistrita-Nasaud,0,0,,,,,,
+62265336,2025-08-02 08:00,CS Afumati,ACS FC Bacau,3,2,,,,,,
+62265340,2025-08-02 08:00,CS Tunari,Csa Steaua Bucuresti,1,3,,,,,,
+62265342,2025-08-02 08:00,CS Concordia Chiajna,AFC Campulung Muscel 2022,2,0,,,,,,
+62265344,2025-08-02 08:00,CS Dinamo Bucuresti,CSC Dumbravita,1,2,,,,,,
+62265346,2025-08-02 08:00,ACSM Resita,Csm Olimpia Satu Mare,2,1,,,,,,
+62265348,2025-08-02 08:00,FC Bihor Oradea,CSC 1599 Selimbar,1,0,,,,,,
+62265350,2025-08-02 08:00,Asa Targu Mures,FC Corvinul Hunedoara 1921,0,0,,,,,,
+62265352,2025-08-03 08:00,AFC Chindia Targoviste,ACS Sepsi OSK Sfantu Gheorghe,3,0,,,,,,
+62510706,2025-08-05 17:00,CSM Politehnica Iasi,CSM Ceahlaul Piatra Neamt,0,1,,,,,,
+62265360,2025-08-08 14:00,Csm Olimpia Satu Mare,FC Bihor Oradea,1,4,,,,,,
+62265366,2025-08-08 16:00,Csa Steaua Bucuresti,CS Concordia Chiajna,4,1,,,,,,
+62265358,2025-08-09 08:00,CSC 1599 Selimbar,Asa Targu Mures,1,3,,,,,,
+62265362,2025-08-09 08:00,CSC Dumbravita,ACSM Resita,1,3,,,,,,
+62265364,2025-08-09 08:00,AFC Campulung Muscel 2022,CS Dinamo Bucuresti,2,3,,,,,,
+62265368,2025-08-09 08:00,CSM Ceahlaul Piatra Neamt,CS Tunari,1,1,,,,,,
+62265372,2025-08-09 08:00,CS Gloria 2018 Bistrita-Nasaud,CS Afumati,1,1,,,,,,
+62265374,2025-08-09 08:00,SC FC Voluntari,CSM Slatina,1,0,,,,,,
+62265354,2025-08-09 08:30,AFC Metalul Buzau,ACS Sepsi OSK Sfantu Gheorghe,0,0,,,,,,
+62265356,2025-08-10 09:00,FC Corvinul Hunedoara 1921,AFC Chindia Targoviste,1,0,,,,,,
+62517122,2025-08-12 15:00,ACS FC Bacau,CSM Politehnica Iasi,1,2,,,,,,
+62265390,2025-08-15 08:00,FC Bihor Oradea,CSC Dumbravita,3,2,,,,,,
+62265376,2025-08-16 08:00,CSM Slatina,AFC Metalul Buzau,2,3,,,,,,
+62265378,2025-08-16 08:00,CS Afumati,SC FC Voluntari,0,1,,,,,,
+62265388,2025-08-16 08:00,ACSM Resita,AFC Campulung Muscel 2022,7,0,,,,,,
+62265392,2025-08-16 08:00,Asa Targu Mures,Csm Olimpia Satu Mare,4,0,,,,,,
+62265394,2025-08-16 08:00,AFC Chindia Targoviste,CSC 1599 Selimbar,3,1,,,,,,
+62265386,2025-08-16 15:30,CS Dinamo Bucuresti,Csa Steaua Bucuresti,0,0,,,,,,
+62265382,2025-08-17 08:00,CS Tunari,ACS FC Bacau,1,2,,,,,,
+62265384,2025-08-17 08:00,CS Concordia Chiajna,CSM Ceahlaul Piatra Neamt,8,0,,,,,,
+62715447,2025-08-18 14:00,ACS Sepsi OSK Sfantu Gheorghe,FC Corvinul Hunedoara 1921,0,2,,,,,,
+62641733,2025-08-19 16:00,CSM Politehnica Iasi,CS Gloria 2018 Bistrita-Nasaud,3,0,,,,,,
+62265400,2025-08-22 14:00,CSC 1599 Selimbar,ACS Sepsi OSK Sfantu Gheorghe,0,2,,,,,,
+62265398,2025-08-23 08:00,AFC Metalul Buzau,FC Corvinul Hunedoara 1921,0,1,,,,,,
+62265404,2025-08-23 08:00,CSC Dumbravita,Asa Targu Mures,2,3,,,,,,
+62265406,2025-08-23 08:00,AFC Campulung Muscel 2022,FC Bihor Oradea,2,1,,,,,,
+62265408,2025-08-23 08:00,Csa Steaua Bucuresti,ACSM Resita,2,1,,,,,,
+62265410,2025-08-23 08:00,CSM Ceahlaul Piatra Neamt,CS Dinamo Bucuresti,3,0,,,,,,
+62265412,2025-08-23 08:00,ACS FC Bacau,CS Concordia Chiajna,1,1,,,,,,
+62265414,2025-08-23 08:00,CS Gloria 2018 Bistrita-Nasaud,CS Tunari,2,2,,,,,,
+62265418,2025-08-23 08:00,CSM Slatina,CS Afumati,0,2,,,,,,
+62265416,2025-08-23 10:00,SC FC Voluntari,CSM Politehnica Iasi,0,0,,,,,,
+62265402,2025-08-24 09:00,Csm Olimpia Satu Mare,AFC Chindia Targoviste,2,4,,,,,,
+62265420,2025-08-30 08:00,CS Afumati,AFC Metalul Buzau,0,2,,,,,,
+62265422,2025-08-30 08:00,CSM Politehnica Iasi,CSM Slatina,1,1,,,,,,
+62265424,2025-08-30 08:00,CS Tunari,SC FC Voluntari,2,1,,,,,,
+62265426,2025-08-30 08:00,CS Concordia Chiajna,CS Gloria 2018 Bistrita-Nasaud,2,0,,,,,,
+62265430,2025-08-30 08:00,ACSM Resita,CSM Ceahlaul Piatra Neamt,0,2,,,,,,
+62265434,2025-08-30 08:00,Asa Targu Mures,AFC Campulung Muscel 2022,3,0,,,,,,
+62265432,2025-08-30 08:30,FC Bihor Oradea,Csa Steaua Bucuresti,4,2,,,,,,
+62265438,2025-08-30 11:00,ACS Sepsi OSK Sfantu Gheorghe,Csm Olimpia Satu Mare,1,0,,,,,,
+62265440,2025-08-31 08:00,FC Corvinul Hunedoara 1921,CSC 1599 Selimbar,3,2,,,,,,
+62265428,2025-08-31 08:30,CS Dinamo Bucuresti,ACS FC Bacau,1,1,,,,,,
+63132093,2025-09-02 16:30,AFC Chindia Targoviste,CSC Dumbravita,2,0,,,,,,
+62265460,2025-09-11 15:00,SC FC Voluntari,CS Concordia Chiajna,1,0,,,,,,
+62265452,2025-09-11 17:30,Csa Steaua Bucuresti,Asa Targu Mures,2,1,,,,,,
+62265454,2025-09-12 15:00,CSM Ceahlaul Piatra Neamt,FC Bihor Oradea,0,3,,,,,,
+62265442,2025-09-13 08:00,AFC Metalul Buzau,CSC 1599 Selimbar,1,0,,,,,,
+62265448,2025-09-13 08:00,CSC Dumbravita,ACS Sepsi OSK Sfantu Gheorghe,1,2,,,,,,
+62265450,2025-09-13 08:00,AFC Campulung Muscel 2022,AFC Chindia Targoviste,1,1,,,,,,
+62265456,2025-09-13 08:00,ACS FC Bacau,ACSM Resita,0,0,,,,,,
+62265458,2025-09-13 08:00,CS Gloria 2018 Bistrita-Nasaud,CS Dinamo Bucuresti,2,1,,,,,,
+62265462,2025-09-13 08:00,CSM Slatina,CS Tunari,1,1,,,,,,
+62265464,2025-09-13 10:30,CS Afumati,CSM Politehnica Iasi,2,0,,,,,,
+62265444,2025-09-14 08:00,Csm Olimpia Satu Mare,FC Corvinul Hunedoara 1921,2,4,,,,,,
+62265476,2025-09-19 14:00,FC Bihor Oradea,ACS FC Bacau,2,0,,,,,,
+62265468,2025-09-20 08:00,CS Tunari,CS Afumati,0,2,,,,,,
+62265470,2025-09-20 08:00,CS Concordia Chiajna,CSM Slatina,1,2,,,,,,
+62265472,2025-09-20 08:00,CS Dinamo Bucuresti,SC FC Voluntari,0,0,,,,,,
+62265474,2025-09-20 08:00,ACSM Resita,CS Gloria 2018 Bistrita-Nasaud,2,1,,,,,,
+62265482,2025-09-20 08:00,ACS Sepsi OSK Sfantu Gheorghe,AFC Campulung Muscel 2022,2,0,,,,,,
+62265484,2025-09-20 08:00,FC Corvinul Hunedoara 1921,CSC Dumbravita,3,1,,,,,,
+62265486,2025-09-20 08:00,CSC 1599 Selimbar,Csm Olimpia Satu Mare,1,1,,,,,,
+62265466,2025-09-20 09:30,CSM Politehnica Iasi,AFC Metalul Buzau,2,1,,,,,,
+62265478,2025-09-21 08:00,Asa Targu Mures,CSM Ceahlaul Piatra Neamt,3,0,,,,,,
+63664245,2025-09-23 16:00,AFC Chindia Targoviste,Csa Steaua Bucuresti,3,0,,,,,,
+62265488,2025-09-27 08:00,AFC Metalul Buzau,Csm Olimpia Satu Mare,0,1,,,,,,
+62265490,2025-09-27 08:00,CSC Dumbravita,CSC 1599 Selimbar,1,1,,,,,,
+62265492,2025-09-27 08:00,AFC Campulung Muscel 2022,FC Corvinul Hunedoara 1921,0,1,,,,,,
+62265500,2025-09-27 08:00,CS Gloria 2018 Bistrita-Nasaud,FC Bihor Oradea,1,3,,,,,,
+62265502,2025-09-27 08:00,SC FC Voluntari,ACSM Resita,3,2,,,,,,
+62265504,2025-09-27 08:00,CSM Slatina,CS Dinamo Bucuresti,2,0,,,,,,
+62265506,2025-09-27 08:00,CS Afumati,CS Concordia Chiajna,1,2,,,,,,
+62265508,2025-09-27 08:00,CSM Politehnica Iasi,CS Tunari,2,0,,,,,,
+62265498,2025-09-27 10:00,ACS FC Bacau,Asa Targu Mures,3,0,,,,,,
+62265496,2025-09-28 09:30,CSM Ceahlaul Piatra Neamt,AFC Chindia Targoviste,0,0,,,,,,
+63854143,2025-09-30 14:00,Csa Steaua Bucuresti,ACS Sepsi OSK Sfantu Gheorghe,2,1,,,,,,
+62265518,2025-10-03 14:00,FC Bihor Oradea,SC FC Voluntari,1,1,,,,,,
+62265510,2025-10-04 08:00,CS Tunari,AFC Metalul Buzau,2,4,,,,,,
+62265512,2025-10-04 08:00,CS Concordia Chiajna,CSM Politehnica Iasi,2,0,,,,,,
+62265514,2025-10-04 08:00,CS Dinamo Bucuresti,CS Afumati,0,0,,,,,,
+62265516,2025-10-04 08:00,ACSM Resita,CSM Slatina,2,0,,,,,,
+62265522,2025-10-04 08:00,AFC Chindia Targoviste,ACS FC Bacau,4,0,,,,,,
+62265528,2025-10-04 08:00,CSC 1599 Selimbar,AFC Campulung Muscel 2022,5,0,,,,,,
+62265530,2025-10-04 08:00,Csm Olimpia Satu Mare,CSC Dumbravita,1,4,,,,,,
+62265526,2025-10-04 09:30,FC Corvinul Hunedoara 1921,Csa Steaua Bucuresti,0,0,,,,,,
+62265524,2025-10-05 09:30,ACS Sepsi OSK Sfantu Gheorghe,CSM Ceahlaul Piatra Neamt,1,0,,,,,,
+64011921,2025-10-07 17:00,Asa Targu Mures,CS Gloria 2018 Bistrita-Nasaud,3,0,,,,,,
+62265550,2025-10-17 14:30,CSM Politehnica Iasi,CS Dinamo Bucuresti,1,1,,,,,,
+62265532,2025-10-18 08:00,AFC Metalul Buzau,CSC Dumbravita,5,1,,,,,,
+62265534,2025-10-18 08:00,AFC Campulung Muscel 2022,Csm Olimpia Satu Mare,3,0,,,,,,
+62265536,2025-10-18 08:00,Csa Steaua Bucuresti,CSC 1599 Selimbar,4,3,,,,,,
+62265540,2025-10-18 08:00,ACS FC Bacau,ACS Sepsi OSK Sfantu Gheorghe,0,2,,,,,,
+62265542,2025-10-18 08:00,CS Gloria 2018 Bistrita-Nasaud,AFC Chindia Targoviste,3,1,,,,,,
+62265544,2025-10-18 08:00,SC FC Voluntari,Asa Targu Mures,3,3,,,,,,
+62265548,2025-10-18 08:00,CS Afumati,ACSM Resita,2,3,,,,,,
+62265552,2025-10-18 08:00,CS Tunari,CS Concordia Chiajna,1,1,,,,,,
+62265538,2025-10-18 09:30,CSM Ceahlaul Piatra Neamt,FC Corvinul Hunedoara 1921,2,3,,,,,,
+62265546,2025-10-19 08:00,CSM Slatina,FC Bihor Oradea,2,0,,,,,,
+62265554,2025-10-25 08:00,CS Concordia Chiajna,AFC Metalul Buzau,1,2,,,,,,
+62265556,2025-10-25 08:00,CS Dinamo Bucuresti,CS Tunari,3,1,,,,,,
+62265558,2025-10-25 08:00,ACSM Resita,CSM Politehnica Iasi,0,1,,,,,,
+62265562,2025-10-25 08:00,Asa Targu Mures,CSM Slatina,3,2,,,,,,
+62265566,2025-10-25 08:00,ACS Sepsi OSK Sfantu Gheorghe,CS Gloria 2018 Bistrita-Nasaud,1,1,,,,,,
+62265568,2025-10-25 08:00,FC Corvinul Hunedoara 1921,ACS FC Bacau,2,0,,,,,,
+62265570,2025-10-25 08:00,CSC 1599 Selimbar,CSM Ceahlaul Piatra Neamt,3,1,,,,,,
+62265572,2025-10-25 08:00,Csm Olimpia Satu Mare,Csa Steaua Bucuresti,1,4,,,,,,
+62265574,2025-10-25 08:00,CSC Dumbravita,AFC Campulung Muscel 2022,0,0,,,,,,
+62265564,2025-10-25 10:30,AFC Chindia Targoviste,SC FC Voluntari,0,2,,,,,,
+62265560,2025-10-26 09:30,FC Bihor Oradea,CS Afumati,2,1,,,,,,
+62265592,2025-10-31 15:30,CSM Politehnica Iasi,FC Bihor Oradea,2,1,,,,,,
+62265576,2025-11-01 09:00,AFC Metalul Buzau,AFC Campulung Muscel 2022,4,0,,,,,,
+62265580,2025-11-01 09:00,CSM Ceahlaul Piatra Neamt,Csm Olimpia Satu Mare,1,0,,,,,,
+62265582,2025-11-01 09:00,ACS FC Bacau,CSC 1599 Selimbar,1,1,,,,,,
+62265584,2025-11-01 09:00,CS Gloria 2018 Bistrita-Nasaud,FC Corvinul Hunedoara 1921,0,1,,,,,,
+62265588,2025-11-01 09:00,CSM Slatina,AFC Chindia Targoviste,1,1,,,,,,
+62265594,2025-11-01 09:00,CS Tunari,ACSM Resita,0,1,,,,,,
+62265590,2025-11-01 10:30,CS Afumati,Asa Targu Mures,2,1,,,,,,
+62265578,2025-11-02 09:00,Csa Steaua Bucuresti,CSC Dumbravita,0,1,,,,,,
+62265596,2025-11-02 09:00,CS Concordia Chiajna,CS Dinamo Bucuresti,2,1,,,,,,
+64975718,2025-11-04 15:00,SC FC Voluntari,ACS Sepsi OSK Sfantu Gheorghe,1,2,,,,,,
+62265598,2025-11-08 09:00,CS Dinamo Bucuresti,AFC Metalul Buzau,0,2,,,,,,
+62265600,2025-11-08 09:00,ACSM Resita,CS Concordia Chiajna,1,0,,,,,,
+62265602,2025-11-08 09:00,FC Bihor Oradea,CS Tunari,0,0,,,,,,
+62265608,2025-11-08 09:00,ACS Sepsi OSK Sfantu Gheorghe,CSM Slatina,3,2,,,,,,
+62265612,2025-11-08 09:00,CSC 1599 Selimbar,CS Gloria 2018 Bistrita-Nasaud,3,1,,,,,,
+62265614,2025-11-08 09:00,Csm Olimpia Satu Mare,ACS FC Bacau,0,1,,,,,,
+62265616,2025-11-08 09:00,CSC Dumbravita,CSM Ceahlaul Piatra Neamt,1,1,,,,,,
+62265618,2025-11-08 09:00,AFC Campulung Muscel 2022,Csa Steaua Bucuresti,0,1,,,,,,
+62265610,2025-11-08 10:00,FC Corvinul Hunedoara 1921,SC FC Voluntari,0,0,,,,,,
+65126726,2025-11-10 17:30,Asa Targu Mures,CSM Politehnica Iasi,4,0,,,,,,
+65129928,2025-11-11 17:30,AFC Chindia Targoviste,CS Afumati,2,3,,,,,,
+62265638,2025-11-20 17:30,CS Concordia Chiajna,FC Bihor Oradea,1,0,,,,,,
+62265620,2025-11-22 09:00,AFC Metalul Buzau,Csa Steaua Bucuresti,1,1,,,,,,
+62265622,2025-11-22 09:00,CSM Ceahlaul Piatra Neamt,AFC Campulung Muscel 2022,3,0,,,,,,
+62265624,2025-11-22 09:00,ACS FC Bacau,CSC Dumbravita,1,0,,,,,,
+62265626,2025-11-22 09:00,CS Gloria 2018 Bistrita-Nasaud,Csm Olimpia Satu Mare,0,1,,,,,,
+62265628,2025-11-22 09:00,SC FC Voluntari,CSC 1599 Selimbar,0,0,,,,,,
+62265636,2025-11-22 09:00,CS Tunari,Asa Targu Mures,1,2,,,,,,
+62265640,2025-11-22 09:00,CS Dinamo Bucuresti,ACSM Resita,1,1,,,,,,
+62265630,2025-11-22 10:30,CSM Slatina,FC Corvinul Hunedoara 1921,0,1,,,,,,
+62265632,2025-11-23 11:30,CS Afumati,ACS Sepsi OSK Sfantu Gheorghe,2,2,,,,,,
+62265634,2025-11-25 15:00,CSM Politehnica Iasi,AFC Chindia Targoviste,1,0,,,,,,
+62265646,2025-11-28 15:30,Asa Targu Mures,CS Concordia Chiajna,0,0,,,,,,
+62265648,2025-11-29 09:00,AFC Chindia Targoviste,CS Tunari,3,0,,,,,,
+62265654,2025-11-29 09:00,CSC 1599 Selimbar,CSM Slatina,1,2,,,,,,
+62265656,2025-11-29 09:00,Csm Olimpia Satu Mare,SC FC Voluntari,0,1,,,,,,
+62265658,2025-11-29 09:00,CSC Dumbravita,CS Gloria 2018 Bistrita-Nasaud,2,1,,,,,,
+62265660,2025-11-29 09:00,AFC Campulung Muscel 2022,ACS FC Bacau,0,0,,,,,,
+62265662,2025-11-29 09:00,Csa Steaua Bucuresti,CSM Ceahlaul Piatra Neamt,2,0,,,,,,
+62265644,2025-11-29 09:30,FC Bihor Oradea,CS Dinamo Bucuresti,5,0,,,,,,
+62265652,2025-11-29 12:00,FC Corvinul Hunedoara 1921,CS Afumati,3,2,,,,,,
+62265642,2025-11-30 10:30,ACSM Resita,AFC Metalul Buzau,2,0,,,,,,
+65752548,2025-12-01 11:30,ACS Sepsi OSK Sfantu Gheorghe,CSM Politehnica Iasi,1,0,,,,,,
+62265680,2025-12-05 16:15,CS Concordia Chiajna,AFC Chindia Targoviste,0,1,,,,,,
+62265666,2025-12-06 09:00,ACS FC Bacau,Csa Steaua Bucuresti,3,2,,,,,,
+62265668,2025-12-06 09:00,CS Gloria 2018 Bistrita-Nasaud,AFC Campulung Muscel 2022,6,0,,,,,,
+62265670,2025-12-06 09:00,SC FC Voluntari,CSC Dumbravita,3,1,,,,,,
+62265672,2025-12-06 09:00,CSM Slatina,Csm Olimpia Satu Mare,3,1,,,,,,
+62265674,2025-12-06 09:00,CS Afumati,CSC 1599 Selimbar,1,0,,,,,,
+62265682,2025-12-06 09:00,CS Dinamo Bucuresti,Asa Targu Mures,0,2,,,,,,
+62265684,2025-12-06 12:30,ACSM Resita,FC Bihor Oradea,2,3,,,,,,
+62265664,2025-12-07 09:00,AFC Metalul Buzau,CSM Ceahlaul Piatra Neamt,2,1,,,,,,
+62265678,2025-12-07 09:00,CS Tunari,ACS Sepsi OSK Sfantu Gheorghe,0,2,,,,,,
+62265676,2025-12-07 10:30,CSM Politehnica Iasi,FC Corvinul Hunedoara 1921,0,0,,,,,,
+62265692,2025-12-12 15:30,ACS Sepsi OSK Sfantu Gheorghe,CS Concordia Chiajna,3,1,1.666,3.500,4.200,2.5,1.975,1.825
+62265690,2025-12-13 09:00,AFC Chindia Targoviste,CS Dinamo Bucuresti,2,0,1.444,3.800,6.500,2.5,1.900,1.900
+62265694,2025-12-13 09:00,FC Corvinul Hunedoara 1921,CS Tunari,3,0,1.142,6.500,17.000,3.25,1.850,1.950
+62265696,2025-12-13 09:00,CSC 1599 Selimbar,CSM Politehnica Iasi,2,1,2.600,3.100,2.450,2.25,1.775,2.025
+62265698,2025-12-13 09:00,Csm Olimpia Satu Mare,CS Afumati,2,1,4.100,3.300,1.750,2.5,1.850,1.950
+62265700,2025-12-13 09:00,CSC Dumbravita,CSM Slatina,1,2,4.333,3.100,1.800,2.25,1.925,1.875
+62265702,2025-12-13 09:00,AFC Campulung Muscel 2022,SC FC Voluntari,0,2,,,,,,
+62265704,2025-12-13 09:00,Csa Steaua Bucuresti,CS Gloria 2018 Bistrita-Nasaud,1,2,1.480,4.100,5.500,2.75,1.975,1.825
+62265706,2025-12-13 09:00,CSM Ceahlaul Piatra Neamt,ACS FC Bacau,1,5,2.900,3.250,2.250,2.5,2.000,1.800
+62265688,2025-12-13 10:30,Asa Targu Mures,ACSM Resita,0,2,2.500,3.200,2.500,2.5,1.875,1.925
+62265686,2025-12-14 09:00,FC Bihor Oradea,AFC Metalul Buzau,2,1,2.100,3.100,3.100,2.5,1.875,1.925
+62265712,2026-02-19 15:30,SC FC Voluntari,Csa Steaua Bucuresti,2,0,,,,,,
+62265708,2026-02-21 09:00,AFC Metalul Buzau,ACS FC Bacau,0,1,,,,,,
+62265710,2026-02-21 09:00,CS Gloria 2018 Bistrita-Nasaud,CSM Ceahlaul Piatra Neamt,2,0,,,,,,
+62265714,2026-02-21 09:00,CSM Slatina,AFC Campulung Muscel 2022,0,0,,,,,,
+62265718,2026-02-21 09:00,CSM Politehnica Iasi,Csm Olimpia Satu Mare,2,0,,,,,,
+62265726,2026-02-21 09:00,ACSM Resita,AFC Chindia Targoviste,2,3,,,,,,
+62265724,2026-02-21 10:00,CS Dinamo Bucuresti,ACS Sepsi OSK Sfantu Gheorghe,1,2,,,,,,
+62265716,2026-02-21 13:00,CS Afumati,CSC Dumbravita,0,1,,,,,,
+62265720,2026-02-22 09:00,CS Tunari,CSC 1599 Selimbar,1,0,,,,,,
+62265728,2026-02-22 10:30,FC Bihor Oradea,Asa Targu Mures,2,1,,,,,,
+68771220,2026-02-24 15:30,CS Concordia Chiajna,FC Corvinul Hunedoara 1921,0,2,,,,,,
+62265746,2026-02-26 15:30,Csa Steaua Bucuresti,CSM Slatina,2,1,,,,,,
+62265734,2026-02-28 09:00,ACS Sepsi OSK Sfantu Gheorghe,ACSM Resita,5,0,,,,,,
+62265736,2026-02-28 09:00,FC Corvinul Hunedoara 1921,CS Dinamo Bucuresti,2,2,,,,,,
+62265738,2026-02-28 09:00,CSC 1599 Selimbar,CS Concordia Chiajna,1,0,,,,,,
+62265740,2026-02-28 09:00,Csm Olimpia Satu Mare,CS Tunari,1,1,,,,,,
+62265742,2026-02-28 09:00,CSC Dumbravita,CSM Politehnica Iasi,1,0,,,,,,
+62265744,2026-02-28 09:00,AFC Campulung Muscel 2022,CS Afumati,0,3,,,,,,
+62265748,2026-02-28 09:00,CSM Ceahlaul Piatra Neamt,SC FC Voluntari,1,5,,,,,,
+62265750,2026-02-28 09:00,ACS FC Bacau,CS Gloria 2018 Bistrita-Nasaud,1,1,,,,,,
+62265730,2026-02-28 11:00,Asa Targu Mures,AFC Metalul Buzau,1,0,,,,,,
+62265732,2026-03-01 09:15,AFC Chindia Targoviste,FC Bihor Oradea,1,0,,,,,,
+62265754,2026-03-06 15:00,SC FC Voluntari,ACS FC Bacau,1,2,1.444,3.900,6.500,2.5,1.800,2.000
+62265756,2026-03-07 09:00,CSM Slatina,CSM Ceahlaul Piatra Neamt,2,1,1.166,5.750,13.000,2.5,1.925,1.875
+62265758,2026-03-07 09:00,CS Afumati,Csa Steaua Bucuresti,0,1,3.800,3.300,1.800,2.5,2.025,1.775
+62265760,2026-03-07 09:00,CSM Politehnica Iasi,AFC Campulung Muscel 2022,6,1,,,,,,
+62265764,2026-03-07 09:00,CS Concordia Chiajna,Csm Olimpia Satu Mare,4,2,1.550,3.750,5.000,2.75,1.800,2.000
+62265766,2026-03-07 09:00,CS Dinamo Bucuresti,CSC 1599 Selimbar,4,1,2.875,3.200,2.250,2.25,1.850,1.950
+62265770,2026-03-07 10:00,FC Bihor Oradea,ACS Sepsi OSK Sfantu Gheorghe,2,2,3.600,2.800,2.100,2.25,1.950,1.850
+62265762,2026-03-07 13:00,CS Tunari,CSC Dumbravita,1,1,2.300,3.000,2.900,2.25,2.000,1.800
+62265752,2026-03-08 09:00,AFC Metalul Buzau,CS Gloria 2018 Bistrita-Nasaud,1,4,1.800,3.300,4.000,2.5,1.975,1.825
+62265768,2026-03-08 10:00,ACSM Resita,FC Corvinul Hunedoara 1921,1,3,3.500,3.100,1.950,2.25,1.900,1.900
+69497498,2026-03-09 15:00,Asa Targu Mures,AFC Chindia Targoviste,0,2,2.625,3.000,2.500,2.5,1.800,2.000
+62265774,2026-03-14 10:30,AFC Chindia Targoviste,AFC Metalul Buzau,2,3,1.444,3.800,6.250,2.25,1.975,1.825
+62265776,2026-03-14 10:30,ACS Sepsi OSK Sfantu Gheorghe,Asa Targu Mures,0,0,1.450,3.800,6.000,2.5,1.800,2.000
+62265778,2026-03-14 10:30,FC Corvinul Hunedoara 1921,FC Bihor Oradea,2,1,1.500,3.700,5.500,2.5,2.025,1.775
+62265780,2026-03-14 10:30,CSC 1599 Selimbar,ACSM Resita,1,1,2.900,3.200,2.200,2.5,2.000,1.800
+62265782,2026-03-14 10:30,Csm Olimpia Satu Mare,CS Dinamo Bucuresti,2,0,1.950,3.200,3.600,2.5,2.000,1.800
+62265784,2026-03-14 10:30,CSC Dumbravita,CS Concordia Chiajna,1,0,3.100,3.100,2.100,2.25,1.900,1.900
+62265786,2026-03-14 10:30,AFC Campulung Muscel 2022,CS Tunari,1,3,,,,,,
+62265788,2026-03-14 10:30,Csa Steaua Bucuresti,CSM Politehnica Iasi,3,1,1.444,3.900,6.250,2.5,1.875,1.925
+62265790,2026-03-14 10:30,CSM Ceahlaul Piatra Neamt,CS Afumati,1,2,5.250,3.800,1.500,2.75,1.975,1.825
+62265792,2026-03-14 10:30,ACS FC Bacau,CSM Slatina,3,2,2.550,3.000,2.550,2.25,2.025,1.775
+62265794,2026-03-14 10:30,CS Gloria 2018 Bistrita-Nasaud,SC FC Voluntari,1,0,2.450,3.200,2.550,2.5,1.975,1.825
+69910330,2026-03-21 09:00,CSM Politehnica Iasi,CSM Ceahlaul Piatra Neamt,3,0,,,,,,
+69910332,2026-03-21 09:00,AFC Metalul Buzau,CS Dinamo Bucuresti,4,2,,,,,,
+69910334,2026-03-21 09:00,Asa Targu Mures,AFC Campulung Muscel 2022,1,0,,,,,,
+69910336,2026-03-21 09:00,CS Gloria 2018 Bistrita-Nasaud,CSM Slatina,1,2,1.850,3.300,3.700,2.25,1.775,2.025
+69910388,2026-03-21 09:00,CS Afumati,CSC 1599 Selimbar,0,1,1.950,3.200,3.500,2.25,1.850,1.950
+69910390,2026-03-21 09:00,ACS FC Bacau,CS Tunari,1,0,,,,,,
+69910392,2026-03-21 09:00,ACSM Resita,Csm Olimpia Satu Mare,2,0,,,,,,
+69910394,2026-03-21 09:00,CS Concordia Chiajna,CSC Dumbravita,1,0,1.650,3.400,4.500,2.5,1.850,1.950
+69910228,2026-03-21 10:30,FC Corvinul Hunedoara 1921,Csa Steaua Bucuresti,1,0,1.480,3.800,5.750,2.5,1.850,1.950
+69910230,2026-03-22 09:00,SC FC Voluntari,AFC Chindia Targoviste,5,1,2.000,3.100,3.500,2,2.025,1.775
+69910232,2026-03-22 11:00,ACS Sepsi OSK Sfantu Gheorghe,FC Bihor Oradea,3,0,1.700,3.400,4.333,2.5,1.950,1.850
+69910234,2026-04-02 17:30,Csa Steaua Bucuresti,AFC Chindia Targoviste,2,0,,,,,,
+69910236,2026-04-03 14:30,FC Bihor Oradea,SC FC Voluntari,0,2,,,,,,
+69910338,2026-04-04 08:00,Asa Targu Mures,AFC Metalul Buzau,1,4,,,,,,
+69910340,2026-04-04 08:00,CS Dinamo Bucuresti,CSM Politehnica Iasi,0,1,,,,,,
+69910342,2026-04-04 08:00,CSM Ceahlaul Piatra Neamt,CS Gloria 2018 Bistrita-Nasaud,0,3,,,,,,
+69910344,2026-04-04 08:00,AFC Campulung Muscel 2022,CSM Slatina,0,4,,,,,,
+69910396,2026-04-04 08:00,ACSM Resita,ACS FC Bacau,1,0,,,,,,
+69910398,2026-04-04 08:00,CS Tunari,CS Afumati,0,4,,,,,,
+69910400,2026-04-04 08:00,CSC 1599 Selimbar,CS Concordia Chiajna,0,2,,,,,,
+69910402,2026-04-04 08:00,Csm Olimpia Satu Mare,CSC Dumbravita,3,2,,,,,,
+69910238,2026-04-04 09:30,FC Corvinul Hunedoara 1921,ACS Sepsi OSK Sfantu Gheorghe,0,1,,,,,,
+69910346,2026-04-10 08:00,CSM Slatina,CSM Ceahlaul Piatra Neamt,1,1,,,,,,
+69910348,2026-04-10 08:00,CS Gloria 2018 Bistrita-Nasaud,CS Dinamo Bucuresti,0,2,,,,,,
+69910350,2026-04-10 08:00,CSM Politehnica Iasi,Asa Targu Mures,0,1,,,,,,
+69910352,2026-04-10 08:00,AFC Metalul Buzau,AFC Campulung Muscel 2022,1,0,,,,,,
+69910404,2026-04-10 08:00,CSC Dumbravita,CSC 1599 Selimbar,0,0,,,,,,
+69910406,2026-04-10 08:00,CS Concordia Chiajna,CS Tunari,1,1,,,,,,
+69910408,2026-04-10 08:00,CS Afumati,ACSM Resita,1,1,,,,,,
+69910410,2026-04-10 08:00,ACS FC Bacau,Csm Olimpia Satu Mare,1,3,,,,,,
+69910240,2026-04-10 10:30,AFC Chindia Targoviste,FC Bihor Oradea,1,3,,,,,,
+69910242,2026-04-10 13:00,SC FC Voluntari,FC Corvinul Hunedoara 1921,1,0,,,,,,
+69910244,2026-04-11 09:30,ACS Sepsi OSK Sfantu Gheorghe,Csa Steaua Bucuresti,2,0,,,,,,
+69910248,2026-04-14 14:00,FC Corvinul Hunedoara 1921,AFC Chindia Targoviste,2,0,,,,,,
+69910250,2026-04-15 14:00,ACS Sepsi OSK Sfantu Gheorghe,SC FC Voluntari,1,1,,,,,,
+69910246,2026-04-15 16:00,Csa Steaua Bucuresti,FC Bihor Oradea,3,1,,,,,,
+69910354,2026-04-18 08:00,CS Dinamo Bucuresti,CSM Slatina,1,2,,,,,,
+69910356,2026-04-18 08:00,AFC Campulung Muscel 2022,CSM Ceahlaul Piatra Neamt,3,3,,,,,,
+69910358,2026-04-18 08:00,Asa Targu Mures,CS Gloria 2018 Bistrita-Nasaud,1,1,,,,,,
+69910360,2026-04-18 08:00,AFC Metalul Buzau,CSM Politehnica Iasi,2,0,,,,,,
+69910412,2026-04-18 08:00,CS Tunari,CSC Dumbravita,2,1,,,,,,
+69910414,2026-04-18 08:00,Csm Olimpia Satu Mare,CSC 1599 Selimbar,4,0,,,,,,
+69910416,2026-04-18 08:00,ACSM Resita,CS Concordia Chiajna,1,2,,,,,,
+69910418,2026-04-18 08:00,ACS FC Bacau,CS Afumati,3,1,,,,,,
+69910254,2026-04-18 09:00,AFC Chindia Targoviste,ACS Sepsi OSK Sfantu Gheorghe,0,1,,,,,,
+69910252,2026-04-19 08:00,SC FC Voluntari,Csa Steaua Bucuresti,2,0,,,,,,
+69910256,2026-04-19 10:30,FC Bihor Oradea,FC Corvinul Hunedoara 1921,1,3,,,,,,
+69910262,2026-04-23 14:15,FC Bihor Oradea,ACS Sepsi OSK Sfantu Gheorghe,3,2,,,,,,
+69910260,2026-04-25 08:00,AFC Chindia Targoviste,SC FC Voluntari,1,2,,,,,,
+69910362,2026-04-25 08:00,CSM Ceahlaul Piatra Neamt,CS Dinamo Bucuresti,0,2,,,,,,
+69910364,2026-04-25 08:00,CSM Slatina,Asa Targu Mures,0,0,,,,,,
+69910366,2026-04-25 08:00,CS Gloria 2018 Bistrita-Nasaud,AFC Metalul Buzau,0,1,,,,,,
+69910368,2026-04-25 08:00,CSM Politehnica Iasi,AFC Campulung Muscel 2022,1,0,,,,,,
+69910420,2026-04-25 08:00,CSC 1599 Selimbar,CS Tunari,1,2,,,,,,
+69910422,2026-04-25 08:00,CSC Dumbravita,ACSM Resita,2,0,,,,,,
+69910424,2026-04-25 08:00,CS Concordia Chiajna,ACS FC Bacau,2,0,,,,,,
+69910426,2026-04-25 08:00,CS Afumati,Csm Olimpia Satu Mare,1,3,,,,,,
+69910258,2026-04-25 10:00,Csa Steaua Bucuresti,FC Corvinul Hunedoara 1921,1,3,,,,,,
+69910266,2026-04-30 16:00,SC FC Voluntari,FC Bihor Oradea,2,1,,,,,,
+69910264,2026-05-01 14:30,AFC Chindia Targoviste,Csa Steaua Bucuresti,1,2,,,,,,
+69910370,2026-05-02 08:00,CSM Politehnica Iasi,CS Gloria 2018 Bistrita-Nasaud,2,2,,,,,,
+69910372,2026-05-02 08:00,AFC Metalul Buzau,CSM Slatina,1,3,,,,,,
+69910374,2026-05-02 08:00,Asa Targu Mures,CSM Ceahlaul Piatra Neamt,4,0,,,,,,
+69910376,2026-05-02 08:00,AFC Campulung Muscel 2022,CS Dinamo Bucuresti,0,1,,,,,,
+69910428,2026-05-02 08:00,CS Afumati,CS Concordia Chiajna,1,0,,,,,,
+69910430,2026-05-02 08:00,ACS FC Bacau,CSC Dumbravita,1,0,,,,,,
+69910432,2026-05-02 08:00,ACSM Resita,CSC 1599 Selimbar,0,2,,,,,,
+69910434,2026-05-02 08:00,Csm Olimpia Satu Mare,CS Tunari,1,1,,,,,,
+69910268,2026-05-02 09:30,ACS Sepsi OSK Sfantu Gheorghe,FC Corvinul Hunedoara 1921,2,1,,,,,,
+69910274,2026-05-05 14:30,FC Bihor Oradea,AFC Chindia Targoviste,3,1,,,,,,
+69910272,2026-05-06 15:30,FC Corvinul Hunedoara 1921,SC FC Voluntari,2,0,,,,,,
+69910270,2026-05-07 16:00,Csa Steaua Bucuresti,ACS Sepsi OSK Sfantu Gheorghe,0,2,,,,,,
+69910378,2026-05-09 08:00,CS Dinamo Bucuresti,Asa Targu Mures,1,3,,,,,,
+69910380,2026-05-09 08:00,CSM Ceahlaul Piatra Neamt,AFC Metalul Buzau,0,3,,,,,,
+69910382,2026-05-09 08:00,CSM Slatina,CSM Politehnica Iasi,1,0,,,,,,
+69910384,2026-05-09 08:00,CS Gloria 2018 Bistrita-Nasaud,AFC Campulung Muscel 2022,3,0,,,,,,
+69910436,2026-05-09 08:00,CS Tunari,ACSM Resita,3,1,,,,,,
+69910438,2026-05-09 08:00,CSC 1599 Selimbar,ACS FC Bacau,4,1,,,,,,
+69910440,2026-05-09 08:00,CSC Dumbravita,CS Afumati,1,0,,,,,,
+69910442,2026-05-09 08:00,CS Concordia Chiajna,Csm Olimpia Satu Mare,2,2,,,,,,
+69910278,2026-05-09 10:30,AFC Chindia Targoviste,FC Corvinul Hunedoara 1921,1,0,,,,,,
+69910276,2026-05-10 08:30,FC Bihor Oradea,Csa Steaua Bucuresti,3,3,,,,,,
+69910280,2026-05-12 17:00,SC FC Voluntari,ACS Sepsi OSK Sfantu Gheorghe,2,0,,,,,,
+69910282,2026-05-16 08:00,Csa Steaua Bucuresti,SC FC Voluntari,2,4,3.500,3.600,1.900,2.5,1.825,1.975
+69910284,2026-05-16 08:00,ACS Sepsi OSK Sfantu Gheorghe,AFC Chindia Targoviste,1,1,,,,,,
+69910286,2026-05-16 08:00,FC Corvinul Hunedoara 1921,FC Bihor Oradea,1,1,,,,,,
+71421860,2026-05-16 08:00,CS Dinamo Bucuresti,CSC 1599 Selimbar,1,1,2.700,3.200,2.350,2.25,1.800,2.000
+71421862,2026-05-23 08:00,CSC 1599 Selimbar,CS Dinamo Bucuresti,2,0,1.700,3.300,4.500,2.25,1.850,1.950
+73086460,2026-08-01 08:00,ACSM Resita,Asa Targu Mures,2,1,2.250,3.400,2.700,2.25,1.875,1.925
+73086462,2026-08-01 08:00,CS Gloria Bistrita,CSC 1599 Selimbar,2,1,1.650,3.500,4.500,2.25,1.875,1.925
+73086466,2026-08-01 08:00,CS Afumati,CS Dinamo Bucuresti,2,1,,,,,,
+73086468,2026-08-01 08:00,Cetatea 1932 Suceava,CS Concordia Chiajna,1,3,2.800,3.300,2.200,2.5,1.975,1.825
+73086470,2026-08-01 08:00,FC Bihor Oradea,AFC Unirea 04 Slobozia,1,1,1.950,3.400,3.400,2.5,2.000,1.800
+73086472,2026-08-01 08:00,Metaloglobus Bucuresti,AFC Metalul Buzau,0,0,2.450,3.100,2.600,2.25,1.925,1.875
+73086474,2026-08-01 08:00,Scm Ramnicu Valcea,SC Popesti Leordeni,1,1,1.750,3.600,3.700,2.25,1.825,1.975
+73086476,2026-08-01 08:00,ACS FC Bacau,Csl Stefanestii de Jos,3,0,1.333,5.000,6.000,2.5,1.800,2.000
+73086456,2026-08-02 13:00,Csa Steaua Bucuresti,CSM Slatina,1,2,1.750,3.400,4.000,2.5,1.875,1.925
+73134724,2026-08-04 15:00,Stinta Poli Timisoara,AFC Chindia Targoviste,1,0,,,,,,
+73334732,2026-08-05 15:00,CSC Dumbravita,Csm Olimpia Satu Mare,1,1,1.650,3.750,4.100,2.5,1.875,1.925
+73086482,2026-08-07 15:00,AFC Unirea 04 Slobozia,CS Gloria Bistrita,0,3,1.909,3.200,3.600,2.25,1.900,1.900
+73086478,2026-08-08 08:00,CS Concordia Chiajna,FC Bihor Oradea,2,0,2.500,3.100,2.600,2.5,1.950,1.850
+73086480,2026-08-08 08:00,Csl Stefanestii de Jos,CSC Dumbravita,1,0,2.700,3.100,2.450,2.5,2.000,1.800
+73086486,2026-08-08 08:00,CSC 1599 Selimbar,Stinta Poli Timisoara,1,1,,,,,,
+73086488,2026-08-08 08:00,Csa Steaua Bucuresti,Scm Ramnicu Valcea,1,2,1.533,3.750,5.250,2.75,1.975,1.825
+73086492,2026-08-08 08:00,CSM Slatina,CS Dinamo Bucuresti,5,1,1.142,7.000,13.000,3.25,1.950,1.850
+73086494,2026-08-08 08:00,AFC Metalul Buzau,CS Afumati,3,1,1.727,3.600,4.000,2.5,1.925,1.875
+73086496,2026-08-08 08:00,SC Popesti Leordeni,ACS FC Bacau,3,2,2.550,3.100,2.550,2.25,1.875,1.925
+73086498,2026-08-08 08:00,Asa Targu Mures,Cetatea 1932 Suceava,0,2,1.420,4.000,6.250,3,1.950,1.850
+73323790,2026-08-08 08:00,Csm Olimpia Satu Mare,ACSM Resita,0,2,4.000,3.400,1.750,2.5,1.975,1.825
+73086490,2026-08-09 13:30,AFC Chindia Targoviste,Metaloglobus Bucuresti,3,1,1.533,3.800,5.000,2.5,1.975,1.825
+73086500,2026-08-15 08:00,CS Dinamo Bucuresti,AFC Metalul Buzau,0,1,10.000,5.750,1.200,3.25,1.950,1.850
+73086504,2026-08-15 08:00,CSC Dumbravita,SC Popesti Leordeni,1,1,2.700,3.100,2.375,2,1.800,2.000
+73086506,2026-08-15 08:00,Scm Ramnicu Valcea,CSM Slatina,0,1,3.000,3.200,2.200,2.5,1.875,1.925
+73086512,2026-08-15 08:00,FC Bihor Oradea,Asa Targu Mures,1,1,1.900,3.300,3.600,2.5,1.950,1.850
+73086514,2026-08-15 08:00,Metaloglobus Bucuresti,CSC 1599 Selimbar,3,1,1.950,3.200,3.600,2.25,1.775,2.025
+73086516,2026-08-15 08:00,Stinta Poli Timisoara,AFC Unirea 04 Slobozia,1,0,,,,,,
+73086518,2026-08-15 08:00,ACSM Resita,Csl Stefanestii de Jos,2,0,1.285,4.750,8.000,3,2.000,1.800
+73086520,2026-08-15 08:00,CS Gloria Bistrita,CS Concordia Chiajna,1,2,2.350,3.100,2.700,2.25,1.825,1.975
+73323792,2026-08-15 08:00,Cetatea 1932 Suceava,Csm Olimpia Satu Mare,2,0,1.750,3.500,3.900,2.5,1.800,2.000
+73086510,2026-08-15 13:30,CS Afumati,AFC Chindia Targoviste,0,3,2.875,3.200,2.250,2.5,2.000,1.800
+73086508,2026-08-16 08:00,ACS FC Bacau,Csa Steaua Bucuresti,3,0,3.000,3.200,2.150,2.75,2.000,1.800
+73086522,2026-08-21 14:30,AFC Chindia Targoviste,CS Dinamo Bucuresti,1,2,1.125,7.500,21.000,3.5,2.000,1.800
+73086524,2026-08-22 08:00,Csl Stefanestii de Jos,Cetatea 1932 Suceava,3,1,3.250,3.500,1.950,2.75,1.925,1.875
+73086528,2026-08-22 08:00,CSM Slatina,AFC Metalul Buzau,2,0,2.100,3.250,3.100,2.25,1.850,1.950
+73086532,2026-08-22 08:00,SC Popesti Leordeni,ACSM Resita,4,1,3.100,3.100,2.100,2.25,1.850,1.950
+73086536,2026-08-22 08:00,Asa Targu Mures,CS Gloria Bistrita,1,0,2.150,3.100,3.000,2.25,1.800,2.000
+73086540,2026-08-22 08:00,CS Concordia Chiajna,Stinta Poli Timisoara,1,5,,,,,,
+73086542,2026-08-22 08:00,Scm Ramnicu Valcea,ACS FC Bacau,2,2,2.500,3.300,2.400,2.5,1.800,2.000
+73323794,2026-08-22 08:00,Csm Olimpia Satu Mare,FC Bihor Oradea,0,0,4.333,3.600,1.650,2.5,1.825,1.975
+73086526,2026-08-23 08:00,CSC 1599 Selimbar,CS Afumati,1,1,2.550,3.200,2.450,2.5,1.975,1.825
+73086538,2026-08-23 08:00,Csa Steaua Bucuresti,CSC Dumbravita,2,2,1.650,3.900,4.000,2.5,1.900,1.900
+73727188,2026-08-25 16:00,AFC Unirea 04 Slobozia,Metaloglobus Bucuresti,1,2,2.250,3.200,2.800,2.5,1.900,1.900
+73086544,2026-08-29 08:00,CS Afumati,AFC Unirea 04 Slobozia,2,1,1.850,3.400,3.600,2.5,1.850,1.950
+73086546,2026-08-29 08:00,Cetatea 1932 Suceava,SC Popesti Leordeni,1,1,2.000,3.400,3.100,2.5,1.850,1.950
+73086548,2026-08-29 08:00,ACSM Resita,Csa Steaua Bucuresti,2,1,2.000,3.400,3.100,2.5,1.850,1.950
+73086550,2026-08-29 08:00,Metaloglobus Bucuresti,CS Concordia Chiajna,1,3,2.625,3.250,2.300,2.5,1.975,1.825
+73086552,2026-08-29 08:00,CS Dinamo Bucuresti,CSC 1599 Selimbar,0,1,4.000,3.500,1.727,2.5,1.900,1.900
+73086556,2026-08-29 08:00,AFC Metalul Buzau,AFC Chindia Targoviste,1,3,2.200,3.400,2.750,2.5,1.950,1.850
+73086558,2026-08-29 08:00,CSC Dumbravita,Scm Ramnicu Valcea,0,1,2.700,3.200,2.300,2.25,1.825,1.975
+73086562,2026-08-29 08:00,FC Bihor Oradea,Csl Stefanestii de Jos,4,0,1.200,5.750,10.000,2.75,1.950,1.850
+73323796,2026-08-29 08:00,CS Gloria Bistrita,Csm Olimpia Satu Mare,1,0,1.615,3.600,4.750,2.5,2.000,1.800
+73086564,2026-08-30 08:00,Stinta Poli Timisoara,Asa Targu Mures,3,0,,,,,,
+73990198,2026-08-31 14:30,ACS FC Bacau,CSM Slatina,0,0,2.100,3.300,3.200,2.25,1.825,1.975
+73086574,2026-09-04 14:30,CSM Slatina,AFC Chindia Targoviste,3,2,1.950,3.600,3.100,2.75,2.000,1.800
+73086568,2026-09-05 08:00,CSC 1599 Selimbar,AFC Metalul Buzau,1,1,3.100,3.200,2.050,2.25,1.900,1.900
+73086570,2026-09-05 08:00,AFC Unirea 04 Slobozia,CS Dinamo Bucuresti,8,0,1.380,4.100,6.250,2.75,1.825,1.975
+73086572,2026-09-05 08:00,Csa Steaua Bucuresti,Cetatea 1932 Suceava,2,2,1.650,3.700,4.333,3,2.000,1.800
+73086576,2026-09-05 08:00,Csl Stefanestii de Jos,CS Gloria Bistrita,1,2,4.000,3.250,1.800,2.5,2.000,1.800
+73086580,2026-09-05 08:00,Asa Targu Mures,Metaloglobus Bucuresti,3,2,1.900,3.600,3.300,2.75,1.900,1.900
+73086582,2026-09-05 08:00,CS Concordia Chiajna,CS Afumati,1,2,1.571,3.700,5.000,2.75,1.875,1.925
+73086586,2026-09-05 08:00,Scm Ramnicu Valcea,ACSM Resita,1,2,3.100,3.250,2.100,2.5,2.025,1.775
+73086578,2026-09-05 09:30,SC Popesti Leordeni,FC Bihor Oradea,3,2,5.000,3.700,1.550,2.25,1.825,1.975
+73086566,2026-09-06 08:00,ACS FC Bacau,CSC Dumbravita,6,1,1.480,4.000,5.250,2.5,1.800,2.000
+73323798,2026-09-06 09:30,Csm Olimpia Satu Mare,Stinta Poli Timisoara,1,1,,,,,,
+73086588,2026-09-12 08:00,CS Dinamo Bucuresti,CS Concordia Chiajna,2,5,10.000,5.250,1.222,3.5,1.950,1.850
+73086590,2026-09-12 08:00,CSC Dumbravita,CSM Slatina,0,2,5.000,3.500,1.571,2.5,1.850,1.950
+73086596,2026-09-12 08:00,Cetatea 1932 Suceava,Scm Ramnicu Valcea,4,0,1.833,3.600,3.400,3.25,2.025,1.775
+73086598,2026-09-12 08:00,CS Gloria Bistrita,SC Popesti Leordeni,2,3,1.800,3.250,3.900,2.5,1.975,1.825
+73086602,2026-09-12 08:00,CS Afumati,Asa Targu Mures,2,2,1.800,3.700,3.500,3.25,2.025,1.775
+73086606,2026-09-12 08:00,Stinta Poli Timisoara,Csl Stefanestii de Jos,2,1,,,,,,
+73323800,2026-09-12 08:00,Metaloglobus Bucuresti,Csm Olimpia Satu Mare,1,1,1.700,3.400,4.200,2.5,1.800,2.000
+73086604,2026-09-12 10:30,FC Bihor Oradea,Csa Steaua Bucuresti,3,0,1.666,3.500,4.333,2.75,1.900,1.900
+73086592,2026-09-13 08:00,AFC Chindia Targoviste,CSC 1599 Selimbar,4,0,1.363,4.500,5.750,3.25,1.825,1.975
+73086608,2026-09-13 10:00,AFC Metalul Buzau,AFC Unirea 04 Slobozia,2,0,1.850,3.600,3.250,2.75,1.775,2.025
+74364956,2026-09-15 14:00,ACSM Resita,ACS FC Bacau,0,1,1.850,3.700,3.300,2.75,1.800,2.000
+73086610,2026-09-19 08:00,AFC Unirea 04 Slobozia,AFC Chindia Targoviste,0,1,3.100,3.400,2.000,2.75,1.975,1.825
+73086616,2026-09-19 08:00,ACS FC Bacau,Cetatea 1932 Suceava,2,2,1.800,3.600,3.600,2.75,1.775,2.025
+73086618,2026-09-19 08:00,Csa Steaua Bucuresti,CS Gloria Bistrita,2,1,1.727,3.600,3.900,2.75,2.000,1.800
+73086620,2026-09-19 08:00,CSM Slatina,CSC 1599 Selimbar,2,1,1.300,4.333,8.000,2.75,1.900,1.900
+73086622,2026-09-19 08:00,Csl Stefanestii de Jos,Metaloglobus Bucuresti,0,1,3.900,3.500,1.750,2.75,2.000,1.800
+73086626,2026-09-19 08:00,CS Concordia Chiajna,AFC Metalul Buzau,0,1,1.950,3.300,3.400,2.75,1.925,1.875
+73323802,2026-09-19 08:00,Csm Olimpia Satu Mare,CS Afumati,0,2,3.100,3.250,2.050,2.5,1.900,1.900
+73086624,2026-09-19 09:30,SC Popesti Leordeni,Stinta Poli Timisoara,3,4,,,,,,
+73086628,2026-09-20 08:30,Scm Ramnicu Valcea,FC Bihor Oradea,3,2,3.300,3.400,1.909,3,1.825,1.975
+74551756,2026-09-22 14:30,CSC Dumbravita,ACSM Resita,0,2,5.250,3.750,1.500,2.75,1.975,1.825
+74551764,2026-09-22 17:00,Asa Targu Mures,CS Dinamo Bucuresti,4,3,1.166,7.000,13.000,3.75,1.900,1.900
+73086638,2026-10-08 15:00,Stinta Poli Timisoara,Csa Steaua Bucuresti,1,1,,,,,,
+73086632,2026-10-10 08:00,AFC Chindia Targoviste,CS Concordia Chiajna,3,2,1.833,3.500,3.500,2.75,1.875,1.925
+73086634,2026-10-10 08:00,Cetatea 1932 Suceava,CSC Dumbravita,3,1,1.380,4.333,6.250,2.75,1.825,1.975
+73086642,2026-10-10 08:00,Metaloglobus Bucuresti,SC Popesti Leordeni,0,3,2.150,3.250,2.900,2.5,1.975,1.825
+73086644,2026-10-10 08:00,CS Gloria Bistrita,Scm Ramnicu Valcea,1,0,1.800,3.400,3.700,2.5,1.875,1.925
+73086646,2026-10-10 08:00,AFC Metalul Buzau,Asa Targu Mures,1,0,2.000,3.300,3.200,2.75,1.975,1.825
+73086652,2026-10-10 08:00,CSC 1599 Selimbar,AFC Unirea 04 Slobozia,0,1,2.150,3.400,2.800,2.5,1.975,1.825
+73323804,2026-10-10 08:00,CS Dinamo Bucuresti,Csm Olimpia Satu Mare,2,2,4.750,3.600,1.615,2.75,1.875,1.925
+73086650,2026-10-10 10:00,ACSM Resita,CSM Slatina,3,1,2.150,3.200,2.900,2.5,1.950,1.850
+73086640,2026-10-11 08:00,CS Afumati,Csl Stefanestii de Jos,4,0,1.333,4.750,6.250,3,1.825,1.975
+73086648,2026-10-11 12:45,FC Bihor Oradea,ACS FC Bacau,1,0,1.800,3.400,3.700,2.5,1.825,1.975
+73086654,2026-10-17 08:00,CSC Dumbravita,FC Bihor Oradea,0,2,5.750,4.333,1.380,2.75,1.800,2.000
+73086658,2026-10-17 08:00,Csa Steaua Bucuresti,Metaloglobus Bucuresti,0,0,2.000,3.300,3.250,2.5,1.800,2.000
+73086660,2026-10-17 08:00,ACSM Resita,Cetatea 1932 Suceava,0,2,1.700,3.700,3.900,3,1.950,1.850
+73086666,2026-10-17 08:00,CSM Slatina,AFC Unirea 04 Slobozia,1,0,1.650,3.600,4.200,2.75,1.900,1.900
+73086668,2026-10-17 08:00,Csl Stefanestii de Jos,CS Dinamo Bucuresti,1,4,1.850,3.400,3.400,2.75,1.875,1.925
+73086672,2026-10-17 08:00,CS Concordia Chiajna,CSC 1599 Selimbar,5,0,1.400,4.333,5.500,2.75,1.850,1.950
+73086674,2026-10-17 08:00,SC Popesti Leordeni,CS Afumati,2,0,3.000,3.400,2.050,2.75,2.000,1.800
+73323806,2026-10-17 08:00,Csm Olimpia Satu Mare,AFC Metalul Buzau,0,0,4.200,3.400,1.700,2.5,1.900,1.900
+73086656,2026-10-17 09:30,Scm Ramnicu Valcea,Stinta Poli Timisoara,0,1,,,,,,
+73086662,2026-10-18 10:30,ACS FC Bacau,CS Gloria Bistrita,3,0,2.150,3.300,2.900,2.5,1.925,1.875
+75374504,2026-10-20 14:30,Asa Targu Mures,AFC Chindia Targoviste,2,4,2.250,3.250,2.875,2.75,1.850,1.950
+73086684,2026-10-22 13:00,FC Bihor Oradea,ACSM Resita,2,0,2.200,3.300,2.750,2.5,1.900,1.900
+73086680,2026-10-24 08:00,AFC Metalul Buzau,Csl Stefanestii de Jos,3,0,1.181,6.500,11.000,3.5,1.950,1.850
+73086690,2026-10-24 08:00,AFC Unirea 04 Slobozia,CS Concordia Chiajna,2,2,3.500,3.500,1.833,2.75,1.975,1.825
+73086692,2026-10-24 08:00,CS Dinamo Bucuresti,SC Popesti Leordeni,1,2,6.500,5.000,1.333,3.5,1.950,1.850
+73086694,2026-10-24 08:00,Cetatea 1932 Suceava,CSM Slatina,2,0,2.150,3.400,2.800,2.75,1.900,1.900
+73086696,2026-10-24 08:00,CS Gloria Bistrita,CSC Dumbravita,2,1,1.333,4.333,7.500,2.75,2.000,1.800
+73086676,2026-10-24 10:00,Stinta Poli Timisoara,ACS FC Bacau,1,0,,,,,,
+73086682,2026-10-25 09:00,CSC 1599 Selimbar,Asa Targu Mures,1,0,2.875,3.600,2.050,2.5,1.825,1.975
+73086686,2026-10-25 09:00,CS Afumati,Csa Steaua Bucuresti,1,3,2.350,3.750,2.350,3.5,1.925,1.875
+73323808,2026-10-25 09:00,AFC Chindia Targoviste,Csm Olimpia Satu Mare,3,2,1.333,4.500,7.500,2.75,1.825,1.975
+73086678,2026-10-26 15:00,Metaloglobus Bucuresti,Scm Ramnicu Valcea,2,0,1.909,3.700,3.200,3.25,1.975,1.825
+73086702,2026-10-30 16:00,Csa Steaua Bucuresti,CS Dinamo Bucuresti,0,0,1.200,5.750,10.000,3.75,1.950,1.850
+73086700,2026-10-31 09:00,Csl Stefanestii de Jos,AFC Chindia Targoviste,0,3,9.000,6.500,1.181,3.25,1.975,1.825
+73086706,2026-10-31 09:00,CSC Dumbravita,Stinta Poli Timisoara,2,2,,,,,,
+73086708,2026-10-31 09:00,Scm Ramnicu Valcea,CS Afumati,3,2,2.100,3.700,2.750,2.75,1.800,2.000
+73086710,2026-10-31 09:00,Cetatea 1932 Suceava,FC Bihor Oradea,2,2,2.150,3.300,2.875,2.5,1.800,2.000
+73086714,2026-10-31 09:00,SC Popesti Leordeni,AFC Metalul Buzau,2,1,2.625,3.500,2.200,2.75,1.850,1.950
+73086716,2026-10-31 09:00,Asa Targu Mures,AFC Unirea 04 Slobozia,0,1,1.833,3.500,3.600,2.75,1.825,1.975
+73323810,2026-10-31 09:00,Csm Olimpia Satu Mare,CSC 1599 Selimbar,2,0,2.050,3.250,3.100,2.5,1.950,1.850
+73086704,2026-10-31 11:30,ACS FC Bacau,Metaloglobus Bucuresti,1,4,1.727,3.500,4.000,2.5,1.850,1.950
+73086718,2026-11-01 09:00,CSM Slatina,CS Concordia Chiajna,1,2,2.200,3.250,2.750,2.75,2.000,1.800
+73086698,2026-11-01 10:30,ACSM Resita,CS Gloria Bistrita,1,0,1.909,3.500,3.300,2.25,1.850,1.950
+73086736,2026-11-05 15:00,AFC Chindia Targoviste,SC Popesti Leordeni,4,1,1.571,3.900,4.500,3,1.850,1.950
+73086726,2026-11-07 09:00,Metaloglobus Bucuresti,CSC Dumbravita,1,0,1.400,4.200,6.250,2.75,1.950,1.850
+73086728,2026-11-07 09:00,CS Afumati,ACS FC Bacau,1,1,2.150,3.400,2.800,2.5,1.800,2.000
+73086734,2026-11-07 09:00,CSC 1599 Selimbar,Csl Stefanestii de Jos,0,2,1.333,4.500,6.500,2.75,1.900,1.900
+73086738,2026-11-07 09:00,CS Concordia Chiajna,Asa Targu Mures,5,0,1.727,3.600,3.800,2.75,1.825,1.975
+73086740,2026-11-07 09:00,CS Gloria Bistrita,Cetatea 1932 Suceava,3,1,2.300,3.400,2.550,2.75,1.950,1.850
+73323812,2026-11-07 09:00,AFC Unirea 04 Slobozia,Csm Olimpia Satu Mare,2,0,1.800,3.400,3.750,2.5,2.000,1.800
+73086724,2026-11-07 10:30,FC Bihor Oradea,CSM Slatina,0,1,2.000,3.400,3.300,2.5,1.850,1.950
+76121454,2026-11-09 12:30,Stinta Poli Timisoara,ACSM Resita,0,0,,,,,,
+76121458,2026-11-09 15:00,CS Dinamo Bucuresti,Scm Ramnicu Valcea,2,3,4.500,4.100,1.533,3,1.775,2.025
+76121460,2026-11-10 17:30,AFC Metalul Buzau,Csa Steaua Bucuresti,2,1,2.050,3.300,3.100,2.5,1.975,1.825

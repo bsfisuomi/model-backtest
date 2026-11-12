@@ -1,96 +1,96 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-72878262,2026-07-25 09:00,Nyiregyhaza Spartacus FC II,Diosgyori Vtk II,3,1,1.500,4.500,4.500
-72878256,2026-07-25 15:30,Godolloi SK,Salgotarjani BTC,3,1,1.800,4.000,3.250
-72878260,2026-07-25 15:30,Debreceni VSC II,Hajdunanas FK,5,2,1.400,4.500,5.500
-72878270,2026-07-25 15:30,Tiszaujvaros,Ozd-Sajovolgye,0,1,2.100,3.600,2.750
-72878258,2026-07-26 09:00,Kisvarda FC II,Mateszalka MTK,1,1,1.363,4.750,6.000
-72878264,2026-07-26 15:00,Tarpa SC,Fuzesabony SC,2,1,,,
-72878266,2026-07-26 15:30,Tiszafured Vse,Debreceni Eac,0,2,4.100,3.500,1.727
-72878268,2026-07-26 15:30,Cigand SE,Eger SE,0,1,,,
-72878322,2026-08-08 15:30,Godolloi SK,Hajdunanas FK,2,0,1.800,3.700,3.500
-72878326,2026-08-08 15:30,Debreceni VSC II,Fuzesabony SC,1,2,1.363,4.750,5.750
-72878328,2026-08-08 15:30,Nyiregyhaza Spartacus FC II,Debreceni Eac,2,4,3.200,3.600,1.909
-72878332,2026-08-08 15:30,Tiszafured Vse,Ozd-Sajovolgye,0,2,1.700,3.750,3.800
-72878334,2026-08-08 15:30,Cigand SE,Tiszaujvaros,3,1,1.333,5.250,6.500
-72878336,2026-08-08 15:30,Salgotarjani BTC,Mateszalka MTK,1,2,,,
-72878324,2026-08-09 09:00,Kisvarda FC II,Diosgyori Vtk II,2,2,1.420,4.500,5.000
-72878330,2026-08-09 15:00,Tarpa SC,Eger SE,1,2,,,
-72878344,2026-08-15 09:00,Eger SE,Nyiregyhaza Spartacus FC II,2,1,2.350,3.600,2.400
-72878340,2026-08-15 15:30,Tiszaujvaros,Tiszafured Vse,1,0,3.200,3.700,1.850
-72878342,2026-08-15 15:30,Ozd-Sajovolgye,Tarpa SC,4,0,,,
-72878346,2026-08-15 15:30,Debreceni Eac,Debreceni VSC II,3,2,1.500,4.000,4.750
-72878348,2026-08-15 15:30,Fuzesabony SC,Kisvarda FC II,0,1,3.800,3.600,1.700
-72878350,2026-08-16 09:00,Diosgyori Vtk II,Godolloi SK,1,0,2.300,3.200,2.750
-72878338,2026-08-16 15:30,Cigand SE,Salgotarjani BTC,2,0,1.200,6.250,8.500
-72878352,2026-08-16 15:30,Hajdunanas FK,Mateszalka MTK,3,0,,,
-73558596,2026-08-19 15:30,Diosgyori Vtk II,Debreceni VSC II,0,0,2.750,3.600,2.150
-72878354,2026-08-26 15:30,Godolloi SK,Fuzesabony SC,1,0,1.833,3.600,3.400
-72878356,2026-08-26 15:30,Kisvarda FC II,Debreceni Eac,1,1,,,
-72878358,2026-08-26 15:30,Debreceni VSC II,Eger SE,5,2,1.833,3.750,3.300
-72878360,2026-08-26 15:30,Nyiregyhaza Spartacus FC II,Ozd-Sajovolgye,0,5,2.200,3.700,2.550
-72878362,2026-08-26 15:30,Tarpa SC,Tiszaujvaros,0,3,,,
-72878364,2026-08-26 15:30,Tiszafured Vse,Cigand SE,0,2,3.600,3.700,1.750
-72878366,2026-08-26 15:30,Mateszalka MTK,Diosgyori Vtk II,2,2,,,
-72878368,2026-08-26 15:30,Salgotarjani BTC,Hajdunanas FK,0,3,,,
-72878378,2026-08-29 09:00,Eger SE,Kisvarda FC II,1,1,2.400,3.600,2.400
-72878370,2026-08-29 15:30,Tiszafured Vse,Salgotarjani BTC,2,1,,,
-72878374,2026-08-29 15:30,Tiszaujvaros,Nyiregyhaza Spartacus FC II,3,2,,,
-72878376,2026-08-29 15:30,Ozd-Sajovolgye,Debreceni VSC II,5,2,,,
-72878382,2026-08-29 15:30,Fuzesabony SC,Mateszalka MTK,3,0,2.250,3.250,2.750
-72878384,2026-08-30 09:00,Diosgyori Vtk II,Hajdunanas FK,2,2,2.000,3.600,3.000
-72878372,2026-08-30 15:30,Cigand SE,Tarpa SC,3,1,1.285,5.250,6.500
-72878380,2026-08-30 15:30,Debreceni Eac,Godolloi SK,1,2,1.400,4.500,5.750
-72878386,2026-09-05 14:00,Godolloi SK,Eger SE,4,0,1.727,3.900,3.600
-72878390,2026-09-05 14:00,Debreceni VSC II,Tiszaujvaros,3,1,1.600,3.900,4.100
-72878432,2026-09-05 14:00,Mateszalka MTK,Debreceni Eac,1,1,3.500,3.900,1.750
-72878434,2026-09-05 14:00,Salgotarjani BTC,Diosgyori Vtk II,0,1,,,
-72878388,2026-09-06 09:00,Kisvarda FC II,Ozd-Sajovolgye,2,3,,,
-72878392,2026-09-06 09:00,Nyiregyhaza Spartacus FC II,Cigand SE,1,5,6.500,5.000,1.333
-72878428,2026-09-06 14:00,Tarpa SC,Tiszafured Vse,0,1,,,
-72878430,2026-09-06 14:00,Hajdunanas FK,Fuzesabony SC,0,1,1.909,3.500,3.200
-72878440,2026-09-19 13:00,Cigand SE,Debreceni VSC II,4,2,,,
-72878446,2026-09-19 13:00,Eger SE,Mateszalka MTK,0,3,,,
-72878436,2026-09-19 14:00,Tarpa SC,Salgotarjani BTC,1,2,,,
-72878438,2026-09-19 14:00,Tiszafured Vse,Nyiregyhaza Spartacus FC II,2,1,,,
-72878444,2026-09-19 14:00,Ozd-Sajovolgye,Godolloi SK,2,0,,,
-72878448,2026-09-19 14:00,Debreceni Eac,Hajdunanas FK,4,0,,,
-72878450,2026-09-19 14:00,Fuzesabony SC,Diosgyori Vtk II,1,3,,,
-72878442,2026-09-20 14:00,Tiszaujvaros,Kisvarda FC II,0,1,4.000,4.200,1.600
-72878460,2026-09-26 09:00,Diosgyori Vtk II,Debreceni Eac,5,2,4.000,3.900,1.650
-72878766,2026-09-26 09:00,Tarpa SC,Nyiregyhaza Spartacus FC II,2,0,,,
-72878456,2026-09-26 13:00,Debreceni VSC II,Tiszafured Vse,3,1,1.533,4.200,4.750
-72878452,2026-09-26 14:00,Godolloi SK,Tiszaujvaros,0,1,,,
-72878464,2026-09-26 14:00,Mateszalka MTK,Ozd-Sajovolgye,2,1,5.750,4.750,1.400
-72878466,2026-09-26 14:00,Salgotarjani BTC,Fuzesabony SC,0,1,,,
-72878454,2026-09-27 09:00,Kisvarda FC II,Cigand SE,1,1,3.600,3.750,1.750
-72878462,2026-09-27 14:00,Hajdunanas FK,Eger SE,5,1,2.700,3.700,2.100
-72878470,2026-10-03 09:00,Tarpa SC,Debreceni VSC II,1,2,,,
-72878480,2026-10-03 09:00,Eger SE,Diosgyori Vtk II,2,1,2.450,3.700,2.300
-72878468,2026-10-03 11:00,Nyiregyhaza Spartacus FC II,Salgotarjani BTC,0,1,2.250,3.750,2.500
-72878472,2026-10-03 11:00,Tiszafured Vse,Kisvarda FC II,0,2,,,
-72878474,2026-10-03 11:00,Cigand SE,Godolloi SK,2,2,,,
-72878476,2026-10-03 11:00,Tiszaujvaros,Mateszalka MTK,2,2,2.100,3.400,2.875
-72878478,2026-10-03 11:00,Ozd-Sajovolgye,Hajdunanas FK,9,0,,,
-72878482,2026-10-03 11:00,Debreceni Eac,Fuzesabony SC,3,0,1.400,4.333,5.750
-72878484,2026-10-10 11:00,Godolloi SK,Tiszafured Vse,3,0,1.727,4.000,3.600
-72878490,2026-10-10 11:00,Fuzesabony SC,Eger SE,1,1,2.000,3.500,3.000
-72878530,2026-10-10 11:00,Mateszalka MTK,Cigand SE,0,1,3.400,4.000,1.750
-72878532,2026-10-10 11:00,Salgotarjani BTC,Debreceni Eac,1,4,,,
-72878486,2026-10-11 09:00,Kisvarda FC II,Tarpa SC,3,0,1.285,5.000,7.500
-72878488,2026-10-11 09:00,Debreceni VSC II,Nyiregyhaza Spartacus FC II,4,0,1.285,4.750,8.000
-72878492,2026-10-11 09:00,Diosgyori Vtk II,Ozd-Sajovolgye,1,3,3.200,4.100,1.800
-72878528,2026-10-11 11:00,Hajdunanas FK,Tiszaujvaros,1,3,2.250,3.750,2.500
-72878534,2026-10-18 10:30,Debreceni VSC II,Salgotarjani BTC,2,1,1.300,4.750,7.000
-72878558,2026-10-24 09:00,Diosgyori Vtk II,Cigand SE,0,3,3.200,4.000,1.800
-72878574,2026-10-31 12:00,Tiszafured Vse,Diosgyori Vtk II,2,1,2.625,3.600,2.250
-72878576,2026-10-31 12:00,Cigand SE,Fuzesabony SC,2,1,,,
-72878578,2026-10-31 12:00,Tiszaujvaros,Debreceni Eac,0,1,3.600,3.800,1.727
-72878566,2026-11-01 12:00,Kisvarda FC II,Salgotarjani BTC,1,1,,,
-72878582,2026-11-07 10:00,Godolloi SK,Kisvarda FC II,2,0,2.050,3.500,2.900
-72878584,2026-11-07 12:00,Eger SE,Tiszaujvaros,1,3,,,
-72878586,2026-11-07 12:00,Debreceni Eac,Cigand SE,1,1,2.550,3.600,2.250
-72878588,2026-11-07 12:00,Fuzesabony SC,Tiszafured Vse,0,2,,,
-72878594,2026-11-07 12:00,Mateszalka MTK,Debreceni VSC II,1,2,2.900,3.700,2.000
-72878596,2026-11-07 12:00,Salgotarjani BTC,Ozd-Sajovolgye,1,1,,,
-72878590,2026-11-08 10:00,Diosgyori Vtk II,Tarpa SC,7,1,1.571,4.000,4.500
-72878592,2026-11-08 12:00,Hajdunanas FK,Nyiregyhaza Spartacus FC II,5,1,1.800,4.000,3.250
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+72878262,2026-07-25 09:00,Nyiregyhaza Spartacus FC II,Diosgyori Vtk II,3,1,1.500,4.500,4.500,3.5,1.825,1.975
+72878256,2026-07-25 15:30,Godolloi SK,Salgotarjani BTC,3,1,1.800,4.000,3.250,3,2.000,1.800
+72878260,2026-07-25 15:30,Debreceni VSC II,Hajdunanas FK,5,2,1.400,4.500,5.500,3.25,1.900,1.900
+72878270,2026-07-25 15:30,Tiszaujvaros,Ozd-Sajovolgye,0,1,2.100,3.600,2.750,3.25,1.900,1.900
+72878258,2026-07-26 09:00,Kisvarda FC II,Mateszalka MTK,1,1,1.363,4.750,6.000,3.25,1.975,1.825
+72878264,2026-07-26 15:00,Tarpa SC,Fuzesabony SC,2,1,,,,,,
+72878266,2026-07-26 15:30,Tiszafured Vse,Debreceni Eac,0,2,4.100,3.500,1.727,2.5,1.800,2.000
+72878268,2026-07-26 15:30,Cigand SE,Eger SE,0,1,,,,,,
+72878322,2026-08-08 15:30,Godolloi SK,Hajdunanas FK,2,0,1.800,3.700,3.500,3,1.950,1.850
+72878326,2026-08-08 15:30,Debreceni VSC II,Fuzesabony SC,1,2,1.363,4.750,5.750,3.25,2.000,1.800
+72878328,2026-08-08 15:30,Nyiregyhaza Spartacus FC II,Debreceni Eac,2,4,3.200,3.600,1.909,3,1.875,1.925
+72878332,2026-08-08 15:30,Tiszafured Vse,Ozd-Sajovolgye,0,2,1.700,3.750,3.800,3,1.825,1.975
+72878334,2026-08-08 15:30,Cigand SE,Tiszaujvaros,3,1,1.333,5.250,6.500,3.25,1.900,1.900
+72878336,2026-08-08 15:30,Salgotarjani BTC,Mateszalka MTK,1,2,,,,,,
+72878324,2026-08-09 09:00,Kisvarda FC II,Diosgyori Vtk II,2,2,1.420,4.500,5.000,3,1.900,1.900
+72878330,2026-08-09 15:00,Tarpa SC,Eger SE,1,2,,,,,,
+72878344,2026-08-15 09:00,Eger SE,Nyiregyhaza Spartacus FC II,2,1,2.350,3.600,2.400,3,1.825,1.975
+72878340,2026-08-15 15:30,Tiszaujvaros,Tiszafured Vse,1,0,3.200,3.700,1.850,3,1.850,1.950
+72878342,2026-08-15 15:30,Ozd-Sajovolgye,Tarpa SC,4,0,,,,,,
+72878346,2026-08-15 15:30,Debreceni Eac,Debreceni VSC II,3,2,1.500,4.000,4.750,3,1.825,1.975
+72878348,2026-08-15 15:30,Fuzesabony SC,Kisvarda FC II,0,1,3.800,3.600,1.700,2.5,1.850,1.950
+72878350,2026-08-16 09:00,Diosgyori Vtk II,Godolloi SK,1,0,2.300,3.200,2.750,2.75,1.900,1.900
+72878338,2026-08-16 15:30,Cigand SE,Salgotarjani BTC,2,0,1.200,6.250,8.500,3.25,1.875,1.925
+72878352,2026-08-16 15:30,Hajdunanas FK,Mateszalka MTK,3,0,,,,,,
+73558596,2026-08-19 15:30,Diosgyori Vtk II,Debreceni VSC II,0,0,2.750,3.600,2.150,2.75,1.800,2.000
+72878354,2026-08-26 15:30,Godolloi SK,Fuzesabony SC,1,0,1.833,3.600,3.400,2.75,1.975,1.825
+72878356,2026-08-26 15:30,Kisvarda FC II,Debreceni Eac,1,1,,,,,,
+72878358,2026-08-26 15:30,Debreceni VSC II,Eger SE,5,2,1.833,3.750,3.300,3.25,1.975,1.825
+72878360,2026-08-26 15:30,Nyiregyhaza Spartacus FC II,Ozd-Sajovolgye,0,5,2.200,3.700,2.550,3.25,2.000,1.800
+72878362,2026-08-26 15:30,Tarpa SC,Tiszaujvaros,0,3,,,,,,
+72878364,2026-08-26 15:30,Tiszafured Vse,Cigand SE,0,2,3.600,3.700,1.750,2.75,1.825,1.975
+72878366,2026-08-26 15:30,Mateszalka MTK,Diosgyori Vtk II,2,2,,,,,,
+72878368,2026-08-26 15:30,Salgotarjani BTC,Hajdunanas FK,0,3,,,,,,
+72878378,2026-08-29 09:00,Eger SE,Kisvarda FC II,1,1,2.400,3.600,2.400,2.75,1.875,1.925
+72878370,2026-08-29 15:30,Tiszafured Vse,Salgotarjani BTC,2,1,,,,,,
+72878374,2026-08-29 15:30,Tiszaujvaros,Nyiregyhaza Spartacus FC II,3,2,,,,,,
+72878376,2026-08-29 15:30,Ozd-Sajovolgye,Debreceni VSC II,5,2,,,,,,
+72878382,2026-08-29 15:30,Fuzesabony SC,Mateszalka MTK,3,0,2.250,3.250,2.750,2.5,1.950,1.850
+72878384,2026-08-30 09:00,Diosgyori Vtk II,Hajdunanas FK,2,2,2.000,3.600,3.000,2.75,1.800,2.000
+72878372,2026-08-30 15:30,Cigand SE,Tarpa SC,3,1,1.285,5.250,6.500,3.25,2.025,1.775
+72878380,2026-08-30 15:30,Debreceni Eac,Godolloi SK,1,2,1.400,4.500,5.750,3,1.800,2.000
+72878386,2026-09-05 14:00,Godolloi SK,Eger SE,4,0,1.727,3.900,3.600,3,1.825,1.975
+72878390,2026-09-05 14:00,Debreceni VSC II,Tiszaujvaros,3,1,1.600,3.900,4.100,3.25,1.875,1.925
+72878432,2026-09-05 14:00,Mateszalka MTK,Debreceni Eac,1,1,3.500,3.900,1.750,,,
+72878434,2026-09-05 14:00,Salgotarjani BTC,Diosgyori Vtk II,0,1,,,,,,
+72878388,2026-09-06 09:00,Kisvarda FC II,Ozd-Sajovolgye,2,3,,,,,,
+72878392,2026-09-06 09:00,Nyiregyhaza Spartacus FC II,Cigand SE,1,5,6.500,5.000,1.333,3.25,1.950,1.850
+72878428,2026-09-06 14:00,Tarpa SC,Tiszafured Vse,0,1,,,,,,
+72878430,2026-09-06 14:00,Hajdunanas FK,Fuzesabony SC,0,1,1.909,3.500,3.200,2.75,1.950,1.850
+72878440,2026-09-19 13:00,Cigand SE,Debreceni VSC II,4,2,,,,,,
+72878446,2026-09-19 13:00,Eger SE,Mateszalka MTK,0,3,,,,,,
+72878436,2026-09-19 14:00,Tarpa SC,Salgotarjani BTC,1,2,,,,,,
+72878438,2026-09-19 14:00,Tiszafured Vse,Nyiregyhaza Spartacus FC II,2,1,,,,,,
+72878444,2026-09-19 14:00,Ozd-Sajovolgye,Godolloi SK,2,0,,,,,,
+72878448,2026-09-19 14:00,Debreceni Eac,Hajdunanas FK,4,0,,,,,,
+72878450,2026-09-19 14:00,Fuzesabony SC,Diosgyori Vtk II,1,3,,,,,,
+72878442,2026-09-20 14:00,Tiszaujvaros,Kisvarda FC II,0,1,4.000,4.200,1.600,3,1.925,1.875
+72878460,2026-09-26 09:00,Diosgyori Vtk II,Debreceni Eac,5,2,4.000,3.900,1.650,3,1.950,1.850
+72878766,2026-09-26 09:00,Tarpa SC,Nyiregyhaza Spartacus FC II,2,0,,,,,,
+72878456,2026-09-26 13:00,Debreceni VSC II,Tiszafured Vse,3,1,1.533,4.200,4.750,3,1.900,1.900
+72878452,2026-09-26 14:00,Godolloi SK,Tiszaujvaros,0,1,,,,,,
+72878464,2026-09-26 14:00,Mateszalka MTK,Ozd-Sajovolgye,2,1,5.750,4.750,1.400,3,1.875,1.925
+72878466,2026-09-26 14:00,Salgotarjani BTC,Fuzesabony SC,0,1,,,,,,
+72878454,2026-09-27 09:00,Kisvarda FC II,Cigand SE,1,1,3.600,3.750,1.750,2.75,1.800,2.000
+72878462,2026-09-27 14:00,Hajdunanas FK,Eger SE,5,1,2.700,3.700,2.100,3,1.900,1.900
+72878470,2026-10-03 09:00,Tarpa SC,Debreceni VSC II,1,2,,,,,,
+72878480,2026-10-03 09:00,Eger SE,Diosgyori Vtk II,2,1,2.450,3.700,2.300,3,1.800,2.000
+72878468,2026-10-03 11:00,Nyiregyhaza Spartacus FC II,Salgotarjani BTC,0,1,2.250,3.750,2.500,3,1.900,1.900
+72878472,2026-10-03 11:00,Tiszafured Vse,Kisvarda FC II,0,2,,,,,,
+72878474,2026-10-03 11:00,Cigand SE,Godolloi SK,2,2,,,,,,
+72878476,2026-10-03 11:00,Tiszaujvaros,Mateszalka MTK,2,2,2.100,3.400,2.875,2.75,1.950,1.850
+72878478,2026-10-03 11:00,Ozd-Sajovolgye,Hajdunanas FK,9,0,,,,,,
+72878482,2026-10-03 11:00,Debreceni Eac,Fuzesabony SC,3,0,1.400,4.333,5.750,3,1.975,1.825
+72878484,2026-10-10 11:00,Godolloi SK,Tiszafured Vse,3,0,1.727,4.000,3.600,2.75,1.850,1.950
+72878490,2026-10-10 11:00,Fuzesabony SC,Eger SE,1,1,2.000,3.500,3.000,2.75,2.000,1.800
+72878530,2026-10-10 11:00,Mateszalka MTK,Cigand SE,0,1,3.400,4.000,1.750,3.25,1.925,1.875
+72878532,2026-10-10 11:00,Salgotarjani BTC,Debreceni Eac,1,4,,,,,,
+72878486,2026-10-11 09:00,Kisvarda FC II,Tarpa SC,3,0,1.285,5.000,7.500,3,1.875,1.925
+72878488,2026-10-11 09:00,Debreceni VSC II,Nyiregyhaza Spartacus FC II,4,0,1.285,4.750,8.000,3.25,1.800,2.000
+72878492,2026-10-11 09:00,Diosgyori Vtk II,Ozd-Sajovolgye,1,3,3.200,4.100,1.800,3,1.800,2.000
+72878528,2026-10-11 11:00,Hajdunanas FK,Tiszaujvaros,1,3,2.250,3.750,2.500,3,1.900,1.900
+72878534,2026-10-18 10:30,Debreceni VSC II,Salgotarjani BTC,2,1,1.300,4.750,7.000,3.5,1.925,1.875
+72878558,2026-10-24 09:00,Diosgyori Vtk II,Cigand SE,0,3,3.200,4.000,1.800,3.5,1.875,1.925
+72878574,2026-10-31 12:00,Tiszafured Vse,Diosgyori Vtk II,2,1,2.625,3.600,2.250,2.75,1.900,1.900
+72878576,2026-10-31 12:00,Cigand SE,Fuzesabony SC,2,1,,,,,,
+72878578,2026-10-31 12:00,Tiszaujvaros,Debreceni Eac,0,1,3.600,3.800,1.727,3.25,1.975,1.825
+72878566,2026-11-01 12:00,Kisvarda FC II,Salgotarjani BTC,1,1,,,,,,
+72878582,2026-11-07 10:00,Godolloi SK,Kisvarda FC II,2,0,2.050,3.500,2.900,2.75,2.000,1.800
+72878584,2026-11-07 12:00,Eger SE,Tiszaujvaros,1,3,,,,,,
+72878586,2026-11-07 12:00,Debreceni Eac,Cigand SE,1,1,2.550,3.600,2.250,3,1.900,1.900
+72878588,2026-11-07 12:00,Fuzesabony SC,Tiszafured Vse,0,2,,,,,,
+72878594,2026-11-07 12:00,Mateszalka MTK,Debreceni VSC II,1,2,2.900,3.700,2.000,3,1.800,2.000
+72878596,2026-11-07 12:00,Salgotarjani BTC,Ozd-Sajovolgye,1,1,,,,,,
+72878590,2026-11-08 10:00,Diosgyori Vtk II,Tarpa SC,7,1,1.571,4.000,4.500,3.25,2.000,1.800
+72878592,2026-11-08 12:00,Hajdunanas FK,Nyiregyhaza Spartacus FC II,5,1,1.800,4.000,3.250,3.25,1.975,1.825

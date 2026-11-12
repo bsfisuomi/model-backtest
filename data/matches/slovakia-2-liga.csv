@@ -1,335 +1,335 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-61677472,2025-08-08 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MSK Zilina B,4,1,,,
-61677476,2025-08-08 15:30,OFK Banik Lehota Pod Vtacnikom,Slovan Bratislava B,2,3,,,
-61677474,2025-08-08 17:00,FC Vion Zlate Moravce - Vrable,Slavia Tu Kosice,1,1,,,
-61677478,2025-08-09 15:00,MFK Stara Lubovna,FC STK 1914 Samorin,2,0,,,
-61677480,2025-08-09 15:00,MSK Puchov,MFK Zvolen,1,1,,,
-61677482,2025-08-09 15:00,FK Inter Bratislava,MSK Povazska Bystrica,1,1,,,
-61677484,2025-08-09 17:00,MFk Dukla Banska Bystrica,MFK Tatran Liptovsky Mikulas,4,3,,,
-61677486,2025-08-10 08:30,FC Petrzalka,OFK Dynamo Malzenice,3,1,,,
-61677500,2025-08-15 15:00,Slovan Bratislava B,FK Inter Bratislava,0,1,,,
-61677488,2025-08-16 15:00,MFK Tatran Liptovsky Mikulas,FC Vion Zlate Moravce - Vrable,1,1,,,
-61677490,2025-08-16 15:00,MFK Stara Lubovna,Slavia Tu Kosice,1,1,,,
-61677492,2025-08-16 15:00,MFK Zvolen,FC Petrzalka,3,2,,,
-61677494,2025-08-16 15:00,MSK Povazska Bystrica,MFk Dukla Banska Bystrica,0,1,,,
-61677496,2025-08-16 15:00,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,1,,,
-61677498,2025-08-17 08:30,MSK Zilina B,MSK Puchov,5,2,,,
-61677502,2025-08-17 08:30,OFK Dynamo Malzenice,OFK Banik Lehota Pod Vtacnikom,2,1,,,
-61677514,2025-08-22 14:30,OFK Banik Lehota Pod Vtacnikom,MFK Zvolen,1,5,,,
-61677504,2025-08-22 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MFK Stara Lubovna,3,1,,,
-61677506,2025-08-22 16:00,MFk Dukla Banska Bystrica,Slovan Bratislava B,1,0,,,
-61677508,2025-08-22 17:00,FC Vion Zlate Moravce - Vrable,MSK Povazska Bystrica,5,1,,,
-61677510,2025-08-23 14:30,MSK Puchov,FC STK 1914 Samorin,2,3,,,
-61677512,2025-08-23 15:00,FK Inter Bratislava,OFK Dynamo Malzenice,2,1,,,
-62938003,2025-08-23 15:00,MFK Tatran Liptovsky Mikulas,Slavia Tu Kosice,5,3,,,
-61677516,2025-08-24 08:30,FC Petrzalka,MSK Zilina B,1,1,,,
-61677520,2025-08-29 16:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,Slavia Tu Kosice,4,1,,,
-61677522,2025-08-30 14:30,FC STK 1914 Samorin,FC Petrzalka,1,1,,,
-61677524,2025-08-30 14:30,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2,2,,,
-61677526,2025-08-30 14:30,MFK Stara Lubovna,MSK Puchov,1,0,,,
-61677528,2025-08-30 14:30,MFK Zvolen,FK Inter Bratislava,1,1,,,
-61677530,2025-08-31 08:30,OFK Dynamo Malzenice,MFk Dukla Banska Bystrica,0,3,,,
-61677532,2025-08-31 08:30,MSK Zilina B,OFK Banik Lehota Pod Vtacnikom,3,2,,,
-61677534,2025-08-31 08:30,Slovan Bratislava B,FC Vion Zlate Moravce - Vrable,2,1,,,
-61677548,2025-09-05 14:00,FK Inter Bratislava,MSK Zilina B,1,0,,,
-61677536,2025-09-05 15:00,MFk Dukla Banska Bystrica,MFK Zvolen,1,1,,,
-61677542,2025-09-06 14:00,MSK Puchov,FK Pohronie Ziar Nad Hronom Dolna Zdana,3,1,,,
-61677544,2025-09-06 14:30,MFK Tatran Liptovsky Mikulas,Slovan Bratislava B,2,1,,,
-61677552,2025-09-07 08:30,FC Petrzalka,MFK Stara Lubovna,1,0,,,
-61677556,2025-09-12 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,FC Petrzalka,1,2,,,
-61677558,2025-09-13 14:00,MFK Stara Lubovna,OFK Banik Lehota Pod Vtacnikom,0,0,,,
-61677560,2025-09-13 14:00,MFK Zvolen,FC Vion Zlate Moravce - Vrable,1,3,,,
-61677562,2025-09-13 14:00,MSK Puchov,Slavia Tu Kosice,0,2,,,
-61677564,2025-09-13 14:00,FC STK 1914 Samorin,FK Inter Bratislava,2,0,,,
-61677568,2025-09-14 08:30,OFK Dynamo Malzenice,MFK Tatran Liptovsky Mikulas,1,2,,,
-61677570,2025-09-14 08:30,MSK Zilina B,MFk Dukla Banska Bystrica,0,4,,,
-61677580,2025-09-19 13:30,MSK Povazska Bystrica,OFK Dynamo Malzenice,1,3,,,
-61677574,2025-09-19 16:00,FC Vion Zlate Moravce - Vrable,MSK Zilina B,3,1,,,
-61677572,2025-09-19 18:00,MFk Dukla Banska Bystrica,FC STK 1914 Samorin,3,1,,,
-61677584,2025-09-20 08:30,FC Petrzalka,MSK Puchov,4,0,,,
-61677576,2025-09-20 13:30,OFK Banik Lehota Pod Vtacnikom,FK Pohronie Ziar Nad Hronom Dolna Zdana,4,3,,,
-61677578,2025-09-20 13:30,FK Inter Bratislava,MFK Stara Lubovna,4,1,,,
-61677582,2025-09-20 13:40,MFK Tatran Liptovsky Mikulas,MFK Zvolen,0,1,,,
-61677586,2025-09-21 09:00,Slavia Tu Kosice,Slovan Bratislava B,2,2,,,
-63402897,2025-09-23 16:00,FC Vion Zlate Moravce - Vrable,OFK Dynamo Malzenice,4,3,,,
-61677588,2025-09-26 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,FK Inter Bratislava,1,0,,,
-61677590,2025-09-27 13:30,MFK Stara Lubovna,MFk Dukla Banska Bystrica,0,2,,,
-61677592,2025-09-27 13:30,MFK Zvolen,MSK Povazska Bystrica,0,1,,,
-61677594,2025-09-27 13:30,MSK Puchov,OFK Banik Lehota Pod Vtacnikom,2,0,,,
-61677596,2025-09-27 13:30,FC STK 1914 Samorin,FC Vion Zlate Moravce - Vrable,3,3,,,
-61677598,2025-09-28 08:30,OFK Dynamo Malzenice,Slovan Bratislava B,3,0,,,
-61677600,2025-09-28 08:30,MSK Zilina B,MFK Tatran Liptovsky Mikulas,1,0,,,
-61677602,2025-09-28 08:30,FC Petrzalka,Slavia Tu Kosice,2,3,,,
-61677604,2025-10-03 16:00,MFk Dukla Banska Bystrica,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,1,,,
-61677606,2025-10-03 16:00,FC Vion Zlate Moravce - Vrable,MFK Stara Lubovna,3,2,,,
-61677608,2025-10-04 13:00,FK Inter Bratislava,MSK Puchov,0,0,,,
-61677610,2025-10-04 13:00,OFK Banik Lehota Pod Vtacnikom,FC Petrzalka,1,0,,,
-61677612,2025-10-04 13:00,MFK Tatran Liptovsky Mikulas,FC STK 1914 Samorin,2,1,,,
-61677614,2025-10-04 13:00,MSK Povazska Bystrica,MSK Zilina B,1,1,,,
-61677618,2025-10-04 13:00,Slavia Tu Kosice,OFK Dynamo Malzenice,2,2,,,
-61677616,2025-10-05 08:30,Slovan Bratislava B,MFK Zvolen,2,0,,,
-64091775,2025-10-08 13:00,Slavia Tu Kosice,MSK Povazska Bystrica,1,1,,,
-61677632,2025-10-10 13:00,MSK Zilina B,Slovan Bratislava B,0,1,,,
-61677620,2025-10-10 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,FC Vion Zlate Moravce - Vrable,3,1,,,
-61677622,2025-10-11 13:00,MSK Puchov,MFk Dukla Banska Bystrica,1,4,,,
-61677626,2025-10-11 13:00,FC STK 1914 Samorin,MSK Povazska Bystrica,0,2,,,
-61677628,2025-10-11 13:00,OFK Banik Lehota Pod Vtacnikom,Slavia Tu Kosice,3,1,,,
-61677630,2025-10-11 13:00,MFK Stara Lubovna,MFK Tatran Liptovsky Mikulas,1,1,,,
-61677634,2025-10-12 08:30,FC Petrzalka,FK Inter Bratislava,0,1,,,
-64268285,2025-10-14 13:00,Slovan Bratislava B,MSK Povazska Bystrica,2,4,,,
-64229943,2025-10-15 13:00,MFK Zvolen,OFK Dynamo Malzenice,3,1,,,
-61677636,2025-10-17 16:00,MFk Dukla Banska Bystrica,FC Petrzalka,1,0,,,
-61677638,2025-10-17 16:00,FC Vion Zlate Moravce - Vrable,MSK Puchov,2,1,,,
-61677640,2025-10-18 12:30,FK Inter Bratislava,OFK Banik Lehota Pod Vtacnikom,2,2,,,
-61677642,2025-10-18 12:30,MSK Povazska Bystrica,MFK Stara Lubovna,2,0,,,
-61677644,2025-10-18 12:30,MFK Tatran Liptovsky Mikulas,FK Pohronie Ziar Nad Hronom Dolna Zdana,0,3,,,
-61677646,2025-10-19 08:30,OFK Dynamo Malzenice,MSK Zilina B,2,1,,,
-61677648,2025-10-19 08:30,Slovan Bratislava B,FC STK 1914 Samorin,1,4,,,
-61677650,2025-10-19 09:00,Slavia Tu Kosice,MFK Zvolen,1,0,,,
-61677652,2025-10-24 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MSK Povazska Bystrica,4,0,,,
-61677654,2025-10-25 11:30,MFK Stara Lubovna,Slovan Bratislava B,7,0,,,
-61677656,2025-10-25 11:30,FK Inter Bratislava,Slavia Tu Kosice,3,1,,,
-61677658,2025-10-25 11:30,MSK Puchov,MFK Tatran Liptovsky Mikulas,3,3,,,
-61677662,2025-10-25 11:30,OFK Banik Lehota Pod Vtacnikom,MFk Dukla Banska Bystrica,1,2,,,
-61677666,2025-10-26 09:30,MSK Zilina B,MFK Zvolen,1,3,,,
-61677664,2025-10-26 10:00,FC Petrzalka,FC Vion Zlate Moravce - Vrable,3,2,,,
-61677668,2025-10-31 16:00,MFk Dukla Banska Bystrica,FK Inter Bratislava,3,0,,,
-61677670,2025-10-31 17:00,FC Vion Zlate Moravce - Vrable,OFK Banik Lehota Pod Vtacnikom,1,1,,,
-61677672,2025-11-01 12:00,MFK Tatran Liptovsky Mikulas,FC Petrzalka,4,2,,,
-61677674,2025-11-01 12:00,MFK Zvolen,FC STK 1914 Samorin,1,3,,,
-61677676,2025-11-01 12:00,MSK Povazska Bystrica,MSK Puchov,0,1,,,
-61677678,2025-11-02 09:30,Slovan Bratislava B,FK Pohronie Ziar Nad Hronom Dolna Zdana,2,2,,,
-61677680,2025-11-02 09:30,OFK Dynamo Malzenice,MFK Stara Lubovna,2,1,,,
-61677682,2025-11-02 10:00,Slavia Tu Kosice,MSK Zilina B,1,3,,,
-65628932,2025-11-21 12:00,MSK Puchov,OFK Dynamo Malzenice,4,2,,,
-61677716,2026-02-28 13:00,MSK Povazska Bystrica,FK Inter Bratislava,0,2,1.900,3.700,3.700
-61677718,2026-02-28 13:00,FC STK 1914 Samorin,MFK Stara Lubovna,1,1,1.500,4.500,5.250
-61677720,2026-02-28 13:00,MFK Zvolen,MSK Puchov,2,2,1.909,3.750,3.500
-61677722,2026-02-28 13:00,MFK Tatran Liptovsky Mikulas,MFk Dukla Banska Bystrica,3,1,2.700,3.400,2.400
-61677724,2026-03-01 09:30,Slovan Bratislava B,OFK Banik Lehota Pod Vtacnikom,1,1,1.850,3.700,3.700
-61677726,2026-03-01 09:30,MSK Zilina B,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,0,2.500,3.400,2.700
-61677728,2026-03-01 09:30,OFK Dynamo Malzenice,FC Petrzalka,0,0,2.250,3.500,2.900
-61677730,2026-03-01 10:00,Slavia Tu Kosice,FC Vion Zlate Moravce - Vrable,1,3,3.750,3.900,1.800
-61677732,2026-03-06 16:00,MFk Dukla Banska Bystrica,MSK Povazska Bystrica,3,1,1.480,4.500,5.500
-61677734,2026-03-06 16:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,FC STK 1914 Samorin,1,0,2.000,3.700,3.200
-61677736,2026-03-06 16:00,FC Vion Zlate Moravce - Vrable,MFK Tatran Liptovsky Mikulas,1,2,1.833,4.000,3.700
-61677738,2026-03-07 13:30,FK Inter Bratislava,Slovan Bratislava B,2,0,1.650,3.900,4.750
-61677740,2026-03-07 13:30,MSK Puchov,MSK Zilina B,0,0,1.833,4.333,3.400
-61677742,2026-03-07 13:30,OFK Banik Lehota Pod Vtacnikom,OFK Dynamo Malzenice,0,2,2.100,3.700,3.000
-61677744,2026-03-08 09:30,FC Petrzalka,MFK Zvolen,1,1,1.900,3.750,3.600
-61677746,2026-03-08 10:00,Slavia Tu Kosice,MFK Stara Lubovna,3,0,1.850,4.000,3.600
-61677754,2026-03-14 13:15,MSK Povazska Bystrica,FC Vion Zlate Moravce - Vrable,1,2,2.875,3.600,2.250
-61677748,2026-03-14 13:30,MFK Stara Lubovna,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,1,3.800,3.500,1.900
-61677752,2026-03-14 13:30,FC STK 1914 Samorin,MSK Puchov,0,0,1.700,3.900,4.500
-61677756,2026-03-14 13:30,MFK Zvolen,OFK Banik Lehota Pod Vtacnikom,1,0,1.727,4.000,4.000
-61677758,2026-03-15 09:30,Slovan Bratislava B,MFk Dukla Banska Bystrica,2,0,5.750,4.100,1.533
-61677760,2026-03-15 09:30,MSK Zilina B,FC Petrzalka,1,1,2.700,3.500,2.375
-61677762,2026-03-15 09:30,OFK Dynamo Malzenice,FK Inter Bratislava,1,0,2.300,3.500,2.900
-61677766,2026-03-20 16:00,MFk Dukla Banska Bystrica,OFK Dynamo Malzenice,1,3,1.285,6.000,7.500
-61677764,2026-03-20 17:00,FC Vion Zlate Moravce - Vrable,Slovan Bratislava B,2,2,1.420,4.750,6.000
-61677768,2026-03-21 14:00,MSK Puchov,MFK Stara Lubovna,1,0,1.500,4.333,5.750
-61677770,2026-03-21 14:00,OFK Banik Lehota Pod Vtacnikom,MSK Zilina B,1,0,2.250,3.800,2.750
-61677772,2026-03-21 14:00,MFK Tatran Liptovsky Mikulas,MSK Povazska Bystrica,4,2,2.150,3.750,2.900
-61677774,2026-03-21 14:00,FK Inter Bratislava,MFK Zvolen,0,1,1.909,3.900,3.500
-61677776,2026-03-22 09:30,FC Petrzalka,FC STK 1914 Samorin,3,0,1.900,3.600,3.600
-61677778,2026-03-22 10:00,Slavia Tu Kosice,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,1,2.300,3.500,2.800
-61677780,2026-03-27 17:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MSK Puchov,3,1,,,
-61677792,2026-03-28 09:30,Slovan Bratislava B,MFK Tatran Liptovsky Mikulas,3,1,,,
-61677782,2026-03-28 14:00,FC STK 1914 Samorin,OFK Banik Lehota Pod Vtacnikom,0,1,1.727,3.900,4.333
-61677784,2026-03-28 14:00,MSK Povazska Bystrica,Slavia Tu Kosice,4,0,1.750,4.200,3.700
-61677786,2026-03-28 14:00,MFK Zvolen,MFk Dukla Banska Bystrica,1,1,3.400,3.500,2.000
-61677788,2026-03-28 14:00,MFK Stara Lubovna,FC Petrzalka,0,4,3.600,3.500,2.000
-61677794,2026-03-28 14:00,MSK Zilina B,FK Inter Bratislava,1,2,,,
-61677796,2026-04-02 16:00,FC Vion Zlate Moravce - Vrable,MFK Zvolen,0,0,,,
-61677804,2026-04-03 12:00,FK Inter Bratislava,FC STK 1914 Samorin,0,2,,,
-61677798,2026-04-03 15:00,MFk Dukla Banska Bystrica,MSK Zilina B,4,1,1.333,5.500,7.500
-61677800,2026-04-04 14:00,MFK Tatran Liptovsky Mikulas,OFK Dynamo Malzenice,0,0,1.850,3.750,3.700
-61677802,2026-04-04 14:00,MSK Povazska Bystrica,Slovan Bratislava B,1,1,1.533,4.200,5.750
-61677806,2026-04-04 14:00,OFK Banik Lehota Pod Vtacnikom,MFK Stara Lubovna,1,2,1.500,4.200,5.750
-61677808,2026-04-05 08:30,FC Petrzalka,FK Pohronie Ziar Nad Hronom Dolna Zdana,3,0,1.950,3.700,3.500
-61677810,2026-04-05 09:00,Slavia Tu Kosice,MSK Puchov,0,0,1.950,3.900,3.300
-70174200,2026-04-07 14:00,OFK Dynamo Malzenice,FC Vion Zlate Moravce - Vrable,1,0,3.400,3.000,2.250
-61677812,2026-04-10 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,OFK Banik Lehota Pod Vtacnikom,0,2,1.615,4.100,4.500
-61677814,2026-04-11 14:00,MFK Zvolen,MFK Tatran Liptovsky Mikulas,2,1,2.300,3.400,2.875
-61677816,2026-04-11 14:00,MSK Puchov,FC Petrzalka,1,2,2.450,3.500,2.625
-61677818,2026-04-11 14:00,MFK Stara Lubovna,FK Inter Bratislava,2,2,3.200,3.500,2.100
-61677820,2026-04-11 14:00,FC STK 1914 Samorin,MFk Dukla Banska Bystrica,0,2,2.750,3.600,2.300
-61677822,2026-04-12 08:30,Slovan Bratislava B,Slavia Tu Kosice,4,1,1.950,3.700,3.400
-61677824,2026-04-12 08:30,MSK Zilina B,FC Vion Zlate Moravce - Vrable,1,4,3.000,3.750,2.100
-61677826,2026-04-12 08:30,OFK Dynamo Malzenice,MSK Povazska Bystrica,4,2,2.100,3.500,3.250
-61677828,2026-04-17 15:00,MFk Dukla Banska Bystrica,MFK Stara Lubovna,3,0,1.166,8.000,11.000
-61677830,2026-04-17 16:00,FC Vion Zlate Moravce - Vrable,FC STK 1914 Samorin,1,2,1.727,4.333,3.800
-61677836,2026-04-18 11:30,OFK Banik Lehota Pod Vtacnikom,MSK Puchov,3,3,2.250,3.500,2.900
-61677832,2026-04-18 14:30,MSK Povazska Bystrica,MFK Zvolen,0,2,1.950,3.600,3.500
-61677834,2026-04-18 14:30,MFK Tatran Liptovsky Mikulas,MSK Zilina B,2,0,1.650,4.100,4.500
-61677838,2026-04-18 14:30,FK Inter Bratislava,FK Pohronie Ziar Nad Hronom Dolna Zdana,2,1,1.850,3.900,3.600
-61677840,2026-04-19 08:30,Slovan Bratislava B,OFK Dynamo Malzenice,1,1,2.800,3.600,2.200
-61677842,2026-04-19 09:00,Slavia Tu Kosice,FC Petrzalka,1,0,3.000,3.500,2.150
-61677848,2026-04-21 14:30,MFK Stara Lubovna,FC Vion Zlate Moravce - Vrable,4,2,5.500,4.000,1.533
-61677854,2026-04-22 13:00,OFK Dynamo Malzenice,Slavia Tu Kosice,1,0,1.600,4.000,4.750
-61677846,2026-04-22 14:30,MSK Puchov,FK Inter Bratislava,1,3,1.727,3.750,4.333
-61677850,2026-04-22 14:30,MSK Zilina B,MSK Povazska Bystrica,2,2,1.571,4.200,5.000
-61677852,2026-04-22 14:30,FC Petrzalka,OFK Banik Lehota Pod Vtacnikom,2,1,1.533,4.100,5.750
-61677856,2026-04-22 14:30,FC STK 1914 Samorin,MFK Tatran Liptovsky Mikulas,1,1,2.150,3.600,3.000
-61677858,2026-04-22 15:00,MFK Zvolen,Slovan Bratislava B,1,2,1.700,4.000,4.200
-61677844,2026-04-22 16:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MFk Dukla Banska Bystrica,0,0,2.900,3.700,2.000
-61677866,2026-04-25 14:00,FK Inter Bratislava,FC Petrzalka,0,2,2.600,3.250,2.600
-61677862,2026-04-25 14:30,MFk Dukla Banska Bystrica,MSK Puchov,0,0,,,
-61677864,2026-04-25 14:30,MSK Povazska Bystrica,FC STK 1914 Samorin,1,1,2.050,3.500,3.300
-61677868,2026-04-25 14:30,MFK Tatran Liptovsky Mikulas,MFK Stara Lubovna,2,0,1.363,4.750,8.000
-61677870,2026-04-26 08:30,Slovan Bratislava B,MSK Zilina B,4,2,2.800,3.700,2.250
-61677874,2026-04-26 09:00,Slavia Tu Kosice,OFK Banik Lehota Pod Vtacnikom,1,1,1.900,3.750,3.600
-61677872,2026-04-26 09:15,OFK Dynamo Malzenice,MFK Zvolen,0,0,1.833,3.750,4.000
-61677860,2026-04-26 13:00,FC Vion Zlate Moravce - Vrable,FK Pohronie Ziar Nad Hronom Dolna Zdana,0,1,1.480,4.333,6.000
-61677880,2026-05-01 12:00,OFK Banik Lehota Pod Vtacnikom,FK Inter Bratislava,1,0,,,
-61677878,2026-05-02 14:00,FC STK 1914 Samorin,Slovan Bratislava B,1,1,1.650,4.000,4.750
-61677876,2026-05-02 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MFK Tatran Liptovsky Mikulas,2,2,3.000,3.600,2.150
-61677884,2026-05-02 15:00,MFK Zvolen,Slavia Tu Kosice,2,1,1.833,3.800,3.900
-61677886,2026-05-02 15:00,MFK Stara Lubovna,MSK Povazska Bystrica,1,1,3.500,3.600,1.950
-61677882,2026-05-02 15:30,MSK Puchov,FC Vion Zlate Moravce - Vrable,1,0,2.600,3.750,2.400
-61677888,2026-05-03 08:30,FC Petrzalka,MFk Dukla Banska Bystrica,1,3,,,
-61677890,2026-05-03 08:30,MSK Zilina B,OFK Dynamo Malzenice,1,1,1.650,3.900,4.750
-61677892,2026-05-08 15:00,MSK Povazska Bystrica,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,1,,,
-61677894,2026-05-08 15:00,MFK Zvolen,MSK Zilina B,5,2,2.750,3.750,2.100
-61677896,2026-05-08 15:00,MFk Dukla Banska Bystrica,OFK Banik Lehota Pod Vtacnikom,4,1,,,
-61677898,2026-05-08 15:00,FC Vion Zlate Moravce - Vrable,FC Petrzalka,1,0,,,
-61677900,2026-05-08 15:00,MFK Tatran Liptovsky Mikulas,MSK Puchov,3,0,1.650,4.000,4.500
-61677902,2026-05-08 15:00,Slavia Tu Kosice,FK Inter Bratislava,2,1,,,
-61677904,2026-05-08 15:00,OFK Dynamo Malzenice,FC STK 1914 Samorin,2,3,1.850,3.600,3.800
-61677906,2026-05-08 15:00,Slovan Bratislava B,MFK Stara Lubovna,5,1,,,
-61677908,2026-05-15 15:00,MFK Stara Lubovna,OFK Dynamo Malzenice,1,2,,,
-61677910,2026-05-15 15:00,FK Inter Bratislava,MFk Dukla Banska Bystrica,1,0,,,
-61677912,2026-05-15 15:00,FC Petrzalka,MFK Tatran Liptovsky Mikulas,2,1,,,
-61677914,2026-05-15 15:00,MSK Zilina B,Slavia Tu Kosice,4,0,1.333,5.750,6.250
-61677916,2026-05-15 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,Slovan Bratislava B,2,1,,,
-61677918,2026-05-15 15:00,OFK Banik Lehota Pod Vtacnikom,FC Vion Zlate Moravce - Vrable,3,3,,,
-61677920,2026-05-15 15:00,FC STK 1914 Samorin,MFK Zvolen,3,1,,,
-61677922,2026-05-15 15:00,MSK Puchov,MSK Povazska Bystrica,0,1,2.500,3.700,2.500
-72305066,2026-07-25 14:00,FK Humenne,1. FC Tatran Presov,1,2,2.900,3.500,2.250
-72305068,2026-07-25 15:00,MSK Povazska Bystrica,FK Inter Bratislava,3,1,2.300,3.300,2.875
-72305070,2026-07-25 15:00,MFk Bytca,MFK Tatran Liptovsky Mikulas,0,5,3.750,3.700,1.850
-72305072,2026-07-25 15:00,FC Slovan Galanta,MFK Zvolen,1,1,2.600,3.500,2.500
-72305074,2026-07-25 15:00,OFK Banik Lehota Pod Vtacnikom,FK Pohronie Ziar Nad Hronom Dolna Zdana,3,3,1.900,3.600,3.800
-72305076,2026-07-26 08:30,Slovan Bratislava B,FC Vion Zlate Moravce - Vrable,0,1,2.900,3.400,2.300
-72305078,2026-07-26 08:30,MSK Zilina B,FC Petrzalka,0,2,3.300,3.500,2.050
-72305064,2026-07-27 15:00,FC STK 1914 Samorin,OFK Dynamo Malzenice,2,0,2.200,3.300,3.200
-72305080,2026-07-31 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MSK Povazska Bystrica,2,1,2.700,3.300,2.450
-72305082,2026-07-31 17:00,MFK Tatran Liptovsky Mikulas,FC Slovan Galanta,2,0,1.363,5.000,7.000
-72305084,2026-08-01 15:00,FC STK 1914 Samorin,FK Humenne,3,1,1.500,4.100,5.750
-72305088,2026-08-01 15:00,MFK Zvolen,1. FC Tatran Presov,0,1,2.900,3.500,2.250
-72305090,2026-08-01 17:00,FC Vion Zlate Moravce - Vrable,OFK Banik Lehota Pod Vtacnikom,2,2,1.727,3.900,4.200
-72305092,2026-08-02 08:30,OFK Dynamo Malzenice,Slovan Bratislava B,4,2,2.000,3.500,3.500
-72305094,2026-08-02 08:30,FC Petrzalka,MFk Bytca,4,0,,,
-72305086,2026-08-03 15:00,FK Inter Bratislava,MSK Zilina B,0,1,1.700,3.750,4.500
-72305106,2026-08-08 14:00,1. FC Tatran Presov,MFK Tatran Liptovsky Mikulas,1,1,1.850,3.600,3.900
-72305096,2026-08-08 15:00,OFK Banik Lehota Pod Vtacnikom,OFK Dynamo Malzenice,1,1,1.850,3.750,3.750
-72305098,2026-08-08 15:00,FK Humenne,MFK Zvolen,1,0,2.625,3.400,2.500
-72305100,2026-08-08 15:00,FC Slovan Galanta,FC Petrzalka,0,3,6.000,4.333,1.450
-72305104,2026-08-08 15:00,MFk Bytca,FK Inter Bratislava,0,3,4.500,3.600,1.727
-72305108,2026-08-09 08:30,Slovan Bratislava B,FC STK 1914 Samorin,1,2,2.625,3.500,2.450
-72305110,2026-08-09 08:30,MSK Zilina B,FK Pohronie Ziar Nad Hronom Dolna Zdana,2,1,2.200,3.500,3.000
-72305102,2026-08-10 15:00,MSK Povazska Bystrica,FC Vion Zlate Moravce - Vrable,2,1,1.909,3.700,3.600
-72305112,2026-08-14 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MFk Bytca,3,1,1.480,4.750,5.500
-72305114,2026-08-14 17:00,MFK Tatran Liptovsky Mikulas,MFK Zvolen,2,2,1.909,3.600,3.750
-72305120,2026-08-15 14:00,FC Vion Zlate Moravce - Vrable,MSK Zilina B,0,0,1.650,4.000,4.750
-72305116,2026-08-15 15:00,FC STK 1914 Samorin,OFK Banik Lehota Pod Vtacnikom,0,2,1.533,4.200,5.500
-72305118,2026-08-15 15:00,FK Inter Bratislava,FC Slovan Galanta,3,0,1.400,4.750,6.500
-72305124,2026-08-16 08:30,OFK Dynamo Malzenice,MSK Povazska Bystrica,1,2,2.450,3.300,2.750
-72305126,2026-08-16 08:30,FC Petrzalka,1. FC Tatran Presov,4,2,1.750,3.800,4.100
-72305122,2026-08-17 15:00,Slovan Bratislava B,FK Humenne,3,0,2.000,3.600,3.400
-72305128,2026-08-22 14:30,OFK Banik Lehota Pod Vtacnikom,Slovan Bratislava B,2,2,2.000,3.600,3.400
-72305130,2026-08-22 14:30,MSK Povazska Bystrica,FC STK 1914 Samorin,1,4,2.150,3.500,3.100
-72305132,2026-08-22 14:30,FK Humenne,MFK Tatran Liptovsky Mikulas,1,0,4.100,4.333,1.666
-72305134,2026-08-22 14:30,MFk Bytca,FC Vion Zlate Moravce - Vrable,2,1,5.250,4.500,1.500
-72305138,2026-08-22 14:30,FC Slovan Galanta,FK Pohronie Ziar Nad Hronom Dolna Zdana,2,0,3.000,3.600,2.150
-72305140,2026-08-22 16:00,1. FC Tatran Presov,FK Inter Bratislava,2,1,1.750,3.600,4.333
-72305142,2026-08-23 08:30,MSK Zilina B,OFK Dynamo Malzenice,2,1,2.200,3.500,3.000
-73739962,2026-08-24 15:00,MFK Zvolen,FC Petrzalka,0,1,3.000,3.400,2.200
-72305144,2026-08-28 16:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,1. FC Tatran Presov,3,1,3.400,3.700,2.000
-72305146,2026-08-29 14:30,OFK Banik Lehota Pod Vtacnikom,FK Humenne,1,0,1.500,4.333,5.750
-72305148,2026-08-29 14:30,FC STK 1914 Samorin,MSK Zilina B,2,1,1.480,4.333,5.750
-72305150,2026-08-29 14:30,FK Inter Bratislava,MFK Zvolen,1,1,2.250,3.800,2.750
-72305152,2026-08-29 17:00,FC Vion Zlate Moravce - Vrable,FC Slovan Galanta,0,1,1.480,4.500,5.750
-72305156,2026-08-30 08:30,Slovan Bratislava B,MSK Povazska Bystrica,1,1,1.950,3.750,3.400
-72305158,2026-08-30 08:30,FC Petrzalka,MFK Tatran Liptovsky Mikulas,2,0,1.615,4.333,4.500
-72305154,2026-08-31 15:00,OFK Dynamo Malzenice,MFk Bytca,3,1,1.420,5.000,6.000
-72305160,2026-09-04 16:00,MFK Tatran Liptovsky Mikulas,FK Inter Bratislava,3,3,1.850,3.600,3.500
-72305162,2026-09-05 14:00,MSK Povazska Bystrica,OFK Banik Lehota Pod Vtacnikom,2,1,1.950,3.600,3.400
-72305164,2026-09-05 14:00,FK Humenne,FC Petrzalka,0,1,4.500,3.900,1.615
-72305166,2026-09-05 14:00,MFK Zvolen,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,2,2.050,3.750,2.900
-72305168,2026-09-05 14:00,FC Slovan Galanta,OFK Dynamo Malzenice,1,0,2.500,3.500,2.450
-72305170,2026-09-05 14:00,MFk Bytca,FC STK 1914 Samorin,1,2,7.000,4.333,1.380
-72305172,2026-09-05 16:00,1. FC Tatran Presov,FC Vion Zlate Moravce - Vrable,0,1,1.700,3.800,4.100
-72305174,2026-09-07 15:00,MSK Zilina B,Slovan Bratislava B,2,0,2.150,3.750,2.750
-72305176,2026-09-11 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MFK Tatran Liptovsky Mikulas,2,0,2.600,3.500,2.350
-72305178,2026-09-12 14:00,MSK Povazska Bystrica,FK Humenne,2,1,1.600,3.900,4.500
-72305180,2026-09-12 14:00,FC STK 1914 Samorin,FC Slovan Galanta,3,2,1.380,4.500,7.000
-72305182,2026-09-12 14:00,OFK Banik Lehota Pod Vtacnikom,MSK Zilina B,1,0,1.650,3.900,4.333
-72305184,2026-09-12 14:00,FK Inter Bratislava,FC Petrzalka,4,0,2.800,3.500,2.250
-72305188,2026-09-13 08:30,Slovan Bratislava B,MFk Bytca,2,0,1.333,5.000,7.500
-72305190,2026-09-13 08:30,OFK Dynamo Malzenice,1. FC Tatran Presov,0,1,2.600,3.400,2.400
-72305186,2026-09-14 15:00,FC Vion Zlate Moravce - Vrable,MFK Zvolen,4,0,1.750,3.500,3.800
-72305192,2026-09-18 16:00,MFK Tatran Liptovsky Mikulas,FC Vion Zlate Moravce - Vrable,0,0,2.000,3.500,3.000
-72305194,2026-09-19 13:30,MFk Bytca,OFK Banik Lehota Pod Vtacnikom,2,1,5.250,4.000,1.500
-72305196,2026-09-19 13:30,FK Humenne,FK Inter Bratislava,1,1,3.400,3.500,1.900
-72305200,2026-09-19 13:30,MFK Zvolen,OFK Dynamo Malzenice,1,2,1.800,3.600,3.750
-72305202,2026-09-19 16:00,1. FC Tatran Presov,FC STK 1914 Samorin,0,1,1.950,3.500,3.200
-72305204,2026-09-20 08:30,MSK Zilina B,MSK Povazska Bystrica,4,2,2.600,3.300,2.350
-72305198,2026-09-20 13:30,FC Slovan Galanta,Slovan Bratislava B,2,1,2.875,3.500,2.150
-72305206,2026-09-21 15:00,FC Petrzalka,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,0,1.420,4.500,6.000
-72305208,2026-09-25 14:30,FK Pohronie Ziar Nad Hronom Dolna Zdana,FK Inter Bratislava,0,3,2.450,3.600,2.450
-72305210,2026-09-26 13:30,OFK Banik Lehota Pod Vtacnikom,FC Slovan Galanta,1,4,1.615,4.000,4.500
-72305212,2026-09-26 13:30,FC STK 1914 Samorin,MFK Zvolen,3,1,1.615,4.100,4.500
-72305214,2026-09-26 13:30,MSK Povazska Bystrica,MFk Bytca,4,1,1.300,5.250,7.500
-72305216,2026-09-26 16:00,FC Vion Zlate Moravce - Vrable,FC Petrzalka,0,2,2.375,3.500,2.450
-72305220,2026-09-27 08:30,Slovan Bratislava B,1. FC Tatran Presov,2,2,2.450,3.500,2.450
-72305222,2026-09-27 08:30,OFK Dynamo Malzenice,MFK Tatran Liptovsky Mikulas,1,2,2.700,3.500,2.150
-72305218,2026-09-28 15:00,MSK Zilina B,FK Humenne,0,0,,,
-72305226,2026-10-03 13:00,MFk Bytca,MSK Zilina B,1,2,2.875,3.600,2.150
-72305228,2026-10-03 13:00,FC Slovan Galanta,MSK Povazska Bystrica,2,3,2.250,3.500,2.750
-72305230,2026-10-03 13:00,FK Humenne,FK Pohronie Ziar Nad Hronom Dolna Zdana,0,2,2.250,3.700,2.700
-72305232,2026-10-03 13:00,FK Inter Bratislava,FC Vion Zlate Moravce - Vrable,2,2,2.050,3.600,3.100
-72305234,2026-10-03 13:00,MFK Zvolen,Slovan Bratislava B,0,2,1.833,3.800,3.600
-72305236,2026-10-03 16:00,1. FC Tatran Presov,OFK Banik Lehota Pod Vtacnikom,3,2,1.615,4.000,4.333
-72305238,2026-10-04 08:30,FC Petrzalka,OFK Dynamo Malzenice,1,1,1.420,4.333,6.250
-74711332,2026-10-05 15:00,MFK Tatran Liptovsky Mikulas,FC STK 1914 Samorin,2,0,2.300,3.400,2.550
-72305240,2026-10-10 13:00,MFk Bytca,FK Humenne,4,1,2.700,3.700,2.100
-72305242,2026-10-10 13:00,MSK Povazska Bystrica,1. FC Tatran Presov,2,2,1.800,3.600,3.500
-72305244,2026-10-10 13:00,OFK Banik Lehota Pod Vtacnikom,MFK Zvolen,1,0,2.300,3.500,2.550
-72305250,2026-10-11 08:30,OFK Dynamo Malzenice,FK Inter Bratislava,2,5,2.200,3.500,2.700
-72305252,2026-10-11 08:30,Slovan Bratislava B,MFK Tatran Liptovsky Mikulas,2,0,2.150,3.500,2.750
-72305254,2026-10-11 08:30,MSK Zilina B,FC Slovan Galanta,2,3,1.850,3.500,3.500
-72305246,2026-10-11 13:00,FC STK 1914 Samorin,FC Petrzalka,1,1,2.250,3.300,2.700
-72305248,2026-10-12 15:00,FC Vion Zlate Moravce - Vrable,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,3,1.650,3.900,4.000
-72305256,2026-10-16 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,OFK Dynamo Malzenice,0,0,1.727,3.800,4.000
-72305258,2026-10-16 15:00,MFK Tatran Liptovsky Mikulas,OFK Banik Lehota Pod Vtacnikom,1,0,1.700,3.900,4.100
-72305260,2026-10-17 12:30,FC Slovan Galanta,MFk Bytca,2,1,1.500,4.200,5.250
-72305262,2026-10-17 12:30,FK Humenne,FC Vion Zlate Moravce - Vrable,2,1,3.200,3.600,2.000
-72305264,2026-10-17 12:30,FK Inter Bratislava,FC STK 1914 Samorin,2,2,2.250,3.500,2.750
-72305266,2026-10-17 12:30,MFK Zvolen,MSK Povazska Bystrica,2,1,2.450,3.400,2.400
-72305270,2026-10-18 08:30,FC Petrzalka,Slovan Bratislava B,1,1,1.420,4.333,6.000
-72305268,2026-10-19 15:00,1. FC Tatran Presov,MSK Zilina B,1,1,1.533,3.800,5.000
-72305272,2026-10-24 12:30,FC Slovan Galanta,FK Humenne,3,3,1.615,4.000,3.900
-72305274,2026-10-24 12:30,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2,1,2.100,3.500,2.900
-72305278,2026-10-24 12:30,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2,1,1.500,4.200,4.750
-72305280,2026-10-24 12:30,MFk Bytca,1. FC Tatran Presov,0,3,4.333,4.000,1.571
-72305276,2026-10-24 12:45,OFK Banik Lehota Pod Vtacnikom,FC Petrzalka,1,0,3.000,3.400,2.000
-72305282,2026-10-25 09:30,MSK Zilina B,MFK Zvolen,2,1,1.950,3.700,3.100
-72305286,2026-10-25 09:30,OFK Dynamo Malzenice,FC Vion Zlate Moravce - Vrable,3,0,2.150,3.500,2.800
-72305284,2026-10-25 10:00,Slovan Bratislava B,FK Inter Bratislava,2,2,2.100,3.500,2.900
-72305290,2026-10-30 15:00,MFK Tatran Liptovsky Mikulas,MSK Zilina B,3,2,1.380,4.333,6.250
-72305288,2026-10-30 16:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,Slovan Bratislava B,1,1,1.727,3.900,3.600
-72305292,2026-10-31 12:00,MFK Zvolen,MFk Bytca,5,0,1.333,5.000,6.250
-72305294,2026-10-31 12:00,FK Humenne,OFK Dynamo Malzenice,2,2,2.500,3.400,2.400
-72305296,2026-10-31 12:00,FK Inter Bratislava,OFK Banik Lehota Pod Vtacnikom,2,3,1.571,3.800,4.500
-72305298,2026-10-31 14:00,FC Vion Zlate Moravce - Vrable,FC STK 1914 Samorin,0,0,2.875,3.400,2.100
-72305300,2026-10-31 17:00,1. FC Tatran Presov,FC Slovan Galanta,3,0,1.480,4.000,5.500
-72305302,2026-11-01 09:30,FC Petrzalka,MSK Povazska Bystrica,0,1,1.615,3.800,4.333
-72305304,2026-11-06 16:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,OFK Banik Lehota Pod Vtacnikom,5,1,1.727,3.700,3.800
-72305318,2026-11-07 10:00,OFK Dynamo Malzenice,FC STK 1914 Samorin,3,5,2.900,3.500,2.050
-72305308,2026-11-07 12:00,FK Inter Bratislava,MSK Povazska Bystrica,3,1,2.375,3.500,2.450
-72305310,2026-11-07 12:00,MFK Zvolen,FC Slovan Galanta,1,5,1.750,3.750,3.750
-72305312,2026-11-07 16:00,FC Vion Zlate Moravce - Vrable,Slovan Bratislava B,0,1,1.800,3.700,3.500
-72305314,2026-11-07 17:00,1. FC Tatran Presov,FK Humenne,1,0,1.363,4.333,7.000
-72305316,2026-11-08 09:30,FC Petrzalka,MSK Zilina B,2,1,1.450,4.200,5.250
-76146334,2026-11-09 16:00,MFK Tatran Liptovsky Mikulas,MFk Bytca,4,0,1.181,7.000,10.000
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+61677472,2025-08-08 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MSK Zilina B,4,1,,,,,,
+61677476,2025-08-08 15:30,OFK Banik Lehota Pod Vtacnikom,Slovan Bratislava B,2,3,,,,,,
+61677474,2025-08-08 17:00,FC Vion Zlate Moravce - Vrable,Slavia Tu Kosice,1,1,,,,,,
+61677478,2025-08-09 15:00,MFK Stara Lubovna,FC STK 1914 Samorin,2,0,,,,,,
+61677480,2025-08-09 15:00,MSK Puchov,MFK Zvolen,1,1,,,,,,
+61677482,2025-08-09 15:00,FK Inter Bratislava,MSK Povazska Bystrica,1,1,,,,,,
+61677484,2025-08-09 17:00,MFk Dukla Banska Bystrica,MFK Tatran Liptovsky Mikulas,4,3,,,,,,
+61677486,2025-08-10 08:30,FC Petrzalka,OFK Dynamo Malzenice,3,1,,,,,,
+61677500,2025-08-15 15:00,Slovan Bratislava B,FK Inter Bratislava,0,1,,,,,,
+61677488,2025-08-16 15:00,MFK Tatran Liptovsky Mikulas,FC Vion Zlate Moravce - Vrable,1,1,,,,,,
+61677490,2025-08-16 15:00,MFK Stara Lubovna,Slavia Tu Kosice,1,1,,,,,,
+61677492,2025-08-16 15:00,MFK Zvolen,FC Petrzalka,3,2,,,,,,
+61677494,2025-08-16 15:00,MSK Povazska Bystrica,MFk Dukla Banska Bystrica,0,1,,,,,,
+61677496,2025-08-16 15:00,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,1,,,,,,
+61677498,2025-08-17 08:30,MSK Zilina B,MSK Puchov,5,2,,,,,,
+61677502,2025-08-17 08:30,OFK Dynamo Malzenice,OFK Banik Lehota Pod Vtacnikom,2,1,,,,,,
+61677514,2025-08-22 14:30,OFK Banik Lehota Pod Vtacnikom,MFK Zvolen,1,5,,,,,,
+61677504,2025-08-22 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MFK Stara Lubovna,3,1,,,,,,
+61677506,2025-08-22 16:00,MFk Dukla Banska Bystrica,Slovan Bratislava B,1,0,,,,,,
+61677508,2025-08-22 17:00,FC Vion Zlate Moravce - Vrable,MSK Povazska Bystrica,5,1,,,,,,
+61677510,2025-08-23 14:30,MSK Puchov,FC STK 1914 Samorin,2,3,,,,,,
+61677512,2025-08-23 15:00,FK Inter Bratislava,OFK Dynamo Malzenice,2,1,,,,,,
+62938003,2025-08-23 15:00,MFK Tatran Liptovsky Mikulas,Slavia Tu Kosice,5,3,,,,,,
+61677516,2025-08-24 08:30,FC Petrzalka,MSK Zilina B,1,1,,,,,,
+61677520,2025-08-29 16:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,Slavia Tu Kosice,4,1,,,,,,
+61677522,2025-08-30 14:30,FC STK 1914 Samorin,FC Petrzalka,1,1,,,,,,
+61677524,2025-08-30 14:30,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2,2,,,,,,
+61677526,2025-08-30 14:30,MFK Stara Lubovna,MSK Puchov,1,0,,,,,,
+61677528,2025-08-30 14:30,MFK Zvolen,FK Inter Bratislava,1,1,,,,,,
+61677530,2025-08-31 08:30,OFK Dynamo Malzenice,MFk Dukla Banska Bystrica,0,3,,,,,,
+61677532,2025-08-31 08:30,MSK Zilina B,OFK Banik Lehota Pod Vtacnikom,3,2,,,,,,
+61677534,2025-08-31 08:30,Slovan Bratislava B,FC Vion Zlate Moravce - Vrable,2,1,,,,,,
+61677548,2025-09-05 14:00,FK Inter Bratislava,MSK Zilina B,1,0,,,,,,
+61677536,2025-09-05 15:00,MFk Dukla Banska Bystrica,MFK Zvolen,1,1,,,,,,
+61677542,2025-09-06 14:00,MSK Puchov,FK Pohronie Ziar Nad Hronom Dolna Zdana,3,1,,,,,,
+61677544,2025-09-06 14:30,MFK Tatran Liptovsky Mikulas,Slovan Bratislava B,2,1,,,,,,
+61677552,2025-09-07 08:30,FC Petrzalka,MFK Stara Lubovna,1,0,,,,,,
+61677556,2025-09-12 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,FC Petrzalka,1,2,,,,,,
+61677558,2025-09-13 14:00,MFK Stara Lubovna,OFK Banik Lehota Pod Vtacnikom,0,0,,,,,,
+61677560,2025-09-13 14:00,MFK Zvolen,FC Vion Zlate Moravce - Vrable,1,3,,,,,,
+61677562,2025-09-13 14:00,MSK Puchov,Slavia Tu Kosice,0,2,,,,,,
+61677564,2025-09-13 14:00,FC STK 1914 Samorin,FK Inter Bratislava,2,0,,,,,,
+61677568,2025-09-14 08:30,OFK Dynamo Malzenice,MFK Tatran Liptovsky Mikulas,1,2,,,,,,
+61677570,2025-09-14 08:30,MSK Zilina B,MFk Dukla Banska Bystrica,0,4,,,,,,
+61677580,2025-09-19 13:30,MSK Povazska Bystrica,OFK Dynamo Malzenice,1,3,,,,,,
+61677574,2025-09-19 16:00,FC Vion Zlate Moravce - Vrable,MSK Zilina B,3,1,,,,,,
+61677572,2025-09-19 18:00,MFk Dukla Banska Bystrica,FC STK 1914 Samorin,3,1,,,,,,
+61677584,2025-09-20 08:30,FC Petrzalka,MSK Puchov,4,0,,,,,,
+61677576,2025-09-20 13:30,OFK Banik Lehota Pod Vtacnikom,FK Pohronie Ziar Nad Hronom Dolna Zdana,4,3,,,,,,
+61677578,2025-09-20 13:30,FK Inter Bratislava,MFK Stara Lubovna,4,1,,,,,,
+61677582,2025-09-20 13:40,MFK Tatran Liptovsky Mikulas,MFK Zvolen,0,1,,,,,,
+61677586,2025-09-21 09:00,Slavia Tu Kosice,Slovan Bratislava B,2,2,,,,,,
+63402897,2025-09-23 16:00,FC Vion Zlate Moravce - Vrable,OFK Dynamo Malzenice,4,3,,,,,,
+61677588,2025-09-26 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,FK Inter Bratislava,1,0,,,,,,
+61677590,2025-09-27 13:30,MFK Stara Lubovna,MFk Dukla Banska Bystrica,0,2,,,,,,
+61677592,2025-09-27 13:30,MFK Zvolen,MSK Povazska Bystrica,0,1,,,,,,
+61677594,2025-09-27 13:30,MSK Puchov,OFK Banik Lehota Pod Vtacnikom,2,0,,,,,,
+61677596,2025-09-27 13:30,FC STK 1914 Samorin,FC Vion Zlate Moravce - Vrable,3,3,,,,,,
+61677598,2025-09-28 08:30,OFK Dynamo Malzenice,Slovan Bratislava B,3,0,,,,,,
+61677600,2025-09-28 08:30,MSK Zilina B,MFK Tatran Liptovsky Mikulas,1,0,,,,,,
+61677602,2025-09-28 08:30,FC Petrzalka,Slavia Tu Kosice,2,3,,,,,,
+61677604,2025-10-03 16:00,MFk Dukla Banska Bystrica,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,1,,,,,,
+61677606,2025-10-03 16:00,FC Vion Zlate Moravce - Vrable,MFK Stara Lubovna,3,2,,,,,,
+61677608,2025-10-04 13:00,FK Inter Bratislava,MSK Puchov,0,0,,,,,,
+61677610,2025-10-04 13:00,OFK Banik Lehota Pod Vtacnikom,FC Petrzalka,1,0,,,,,,
+61677612,2025-10-04 13:00,MFK Tatran Liptovsky Mikulas,FC STK 1914 Samorin,2,1,,,,,,
+61677614,2025-10-04 13:00,MSK Povazska Bystrica,MSK Zilina B,1,1,,,,,,
+61677618,2025-10-04 13:00,Slavia Tu Kosice,OFK Dynamo Malzenice,2,2,,,,,,
+61677616,2025-10-05 08:30,Slovan Bratislava B,MFK Zvolen,2,0,,,,,,
+64091775,2025-10-08 13:00,Slavia Tu Kosice,MSK Povazska Bystrica,1,1,,,,,,
+61677632,2025-10-10 13:00,MSK Zilina B,Slovan Bratislava B,0,1,,,,,,
+61677620,2025-10-10 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,FC Vion Zlate Moravce - Vrable,3,1,,,,,,
+61677622,2025-10-11 13:00,MSK Puchov,MFk Dukla Banska Bystrica,1,4,,,,,,
+61677626,2025-10-11 13:00,FC STK 1914 Samorin,MSK Povazska Bystrica,0,2,,,,,,
+61677628,2025-10-11 13:00,OFK Banik Lehota Pod Vtacnikom,Slavia Tu Kosice,3,1,,,,,,
+61677630,2025-10-11 13:00,MFK Stara Lubovna,MFK Tatran Liptovsky Mikulas,1,1,,,,,,
+61677634,2025-10-12 08:30,FC Petrzalka,FK Inter Bratislava,0,1,,,,,,
+64268285,2025-10-14 13:00,Slovan Bratislava B,MSK Povazska Bystrica,2,4,,,,,,
+64229943,2025-10-15 13:00,MFK Zvolen,OFK Dynamo Malzenice,3,1,,,,,,
+61677636,2025-10-17 16:00,MFk Dukla Banska Bystrica,FC Petrzalka,1,0,,,,,,
+61677638,2025-10-17 16:00,FC Vion Zlate Moravce - Vrable,MSK Puchov,2,1,,,,,,
+61677640,2025-10-18 12:30,FK Inter Bratislava,OFK Banik Lehota Pod Vtacnikom,2,2,,,,,,
+61677642,2025-10-18 12:30,MSK Povazska Bystrica,MFK Stara Lubovna,2,0,,,,,,
+61677644,2025-10-18 12:30,MFK Tatran Liptovsky Mikulas,FK Pohronie Ziar Nad Hronom Dolna Zdana,0,3,,,,,,
+61677646,2025-10-19 08:30,OFK Dynamo Malzenice,MSK Zilina B,2,1,,,,,,
+61677648,2025-10-19 08:30,Slovan Bratislava B,FC STK 1914 Samorin,1,4,,,,,,
+61677650,2025-10-19 09:00,Slavia Tu Kosice,MFK Zvolen,1,0,,,,,,
+61677652,2025-10-24 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MSK Povazska Bystrica,4,0,,,,,,
+61677654,2025-10-25 11:30,MFK Stara Lubovna,Slovan Bratislava B,7,0,,,,,,
+61677656,2025-10-25 11:30,FK Inter Bratislava,Slavia Tu Kosice,3,1,,,,,,
+61677658,2025-10-25 11:30,MSK Puchov,MFK Tatran Liptovsky Mikulas,3,3,,,,,,
+61677662,2025-10-25 11:30,OFK Banik Lehota Pod Vtacnikom,MFk Dukla Banska Bystrica,1,2,,,,,,
+61677666,2025-10-26 09:30,MSK Zilina B,MFK Zvolen,1,3,,,,,,
+61677664,2025-10-26 10:00,FC Petrzalka,FC Vion Zlate Moravce - Vrable,3,2,,,,,,
+61677668,2025-10-31 16:00,MFk Dukla Banska Bystrica,FK Inter Bratislava,3,0,,,,,,
+61677670,2025-10-31 17:00,FC Vion Zlate Moravce - Vrable,OFK Banik Lehota Pod Vtacnikom,1,1,,,,,,
+61677672,2025-11-01 12:00,MFK Tatran Liptovsky Mikulas,FC Petrzalka,4,2,,,,,,
+61677674,2025-11-01 12:00,MFK Zvolen,FC STK 1914 Samorin,1,3,,,,,,
+61677676,2025-11-01 12:00,MSK Povazska Bystrica,MSK Puchov,0,1,,,,,,
+61677678,2025-11-02 09:30,Slovan Bratislava B,FK Pohronie Ziar Nad Hronom Dolna Zdana,2,2,,,,,,
+61677680,2025-11-02 09:30,OFK Dynamo Malzenice,MFK Stara Lubovna,2,1,,,,,,
+61677682,2025-11-02 10:00,Slavia Tu Kosice,MSK Zilina B,1,3,,,,,,
+65628932,2025-11-21 12:00,MSK Puchov,OFK Dynamo Malzenice,4,2,,,,,,
+61677716,2026-02-28 13:00,MSK Povazska Bystrica,FK Inter Bratislava,0,2,1.900,3.700,3.700,2.5,1.825,1.975
+61677718,2026-02-28 13:00,FC STK 1914 Samorin,MFK Stara Lubovna,1,1,1.500,4.500,5.250,2.75,1.800,2.000
+61677720,2026-02-28 13:00,MFK Zvolen,MSK Puchov,2,2,1.909,3.750,3.500,3,1.950,1.850
+61677722,2026-02-28 13:00,MFK Tatran Liptovsky Mikulas,MFk Dukla Banska Bystrica,3,1,2.700,3.400,2.400,2.75,1.850,1.950
+61677724,2026-03-01 09:30,Slovan Bratislava B,OFK Banik Lehota Pod Vtacnikom,1,1,1.850,3.700,3.700,2.75,1.800,2.000
+61677726,2026-03-01 09:30,MSK Zilina B,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,0,2.500,3.400,2.700,3,1.825,1.975
+61677728,2026-03-01 09:30,OFK Dynamo Malzenice,FC Petrzalka,0,0,2.250,3.500,2.900,2.5,1.850,1.950
+61677730,2026-03-01 10:00,Slavia Tu Kosice,FC Vion Zlate Moravce - Vrable,1,3,3.750,3.900,1.800,3,1.825,1.975
+61677732,2026-03-06 16:00,MFk Dukla Banska Bystrica,MSK Povazska Bystrica,3,1,1.480,4.500,5.500,2.75,1.825,1.975
+61677734,2026-03-06 16:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,FC STK 1914 Samorin,1,0,2.000,3.700,3.200,2.75,1.800,2.000
+61677736,2026-03-06 16:00,FC Vion Zlate Moravce - Vrable,MFK Tatran Liptovsky Mikulas,1,2,1.833,4.000,3.700,3,1.850,1.950
+61677738,2026-03-07 13:30,FK Inter Bratislava,Slovan Bratislava B,2,0,1.650,3.900,4.750,3,2.000,1.800
+61677740,2026-03-07 13:30,MSK Puchov,MSK Zilina B,0,0,1.833,4.333,3.400,3.25,1.950,1.850
+61677742,2026-03-07 13:30,OFK Banik Lehota Pod Vtacnikom,OFK Dynamo Malzenice,0,2,2.100,3.700,3.000,2.75,2.000,1.800
+61677744,2026-03-08 09:30,FC Petrzalka,MFK Zvolen,1,1,1.900,3.750,3.600,2.75,1.825,1.975
+61677746,2026-03-08 10:00,Slavia Tu Kosice,MFK Stara Lubovna,3,0,1.850,4.000,3.600,2.75,1.800,2.000
+61677754,2026-03-14 13:15,MSK Povazska Bystrica,FC Vion Zlate Moravce - Vrable,1,2,2.875,3.600,2.250,2.75,2.000,1.800
+61677748,2026-03-14 13:30,MFK Stara Lubovna,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,1,3.800,3.500,1.900,2.5,1.825,1.975
+61677752,2026-03-14 13:30,FC STK 1914 Samorin,MSK Puchov,0,0,1.700,3.900,4.500,2.75,1.850,1.950
+61677756,2026-03-14 13:30,MFK Zvolen,OFK Banik Lehota Pod Vtacnikom,1,0,1.727,4.000,4.000,3,1.825,1.975
+61677758,2026-03-15 09:30,Slovan Bratislava B,MFk Dukla Banska Bystrica,2,0,5.750,4.100,1.533,2.75,1.950,1.850
+61677760,2026-03-15 09:30,MSK Zilina B,FC Petrzalka,1,1,2.700,3.500,2.375,2.75,1.900,1.900
+61677762,2026-03-15 09:30,OFK Dynamo Malzenice,FK Inter Bratislava,1,0,2.300,3.500,2.900,2.5,1.900,1.900
+61677766,2026-03-20 16:00,MFk Dukla Banska Bystrica,OFK Dynamo Malzenice,1,3,1.285,6.000,7.500,3.5,1.925,1.875
+61677764,2026-03-20 17:00,FC Vion Zlate Moravce - Vrable,Slovan Bratislava B,2,2,1.420,4.750,6.000,3.25,1.925,1.875
+61677768,2026-03-21 14:00,MSK Puchov,MFK Stara Lubovna,1,0,1.500,4.333,5.750,2.75,1.900,1.900
+61677770,2026-03-21 14:00,OFK Banik Lehota Pod Vtacnikom,MSK Zilina B,1,0,2.250,3.800,2.750,2.75,2.000,1.800
+61677772,2026-03-21 14:00,MFK Tatran Liptovsky Mikulas,MSK Povazska Bystrica,4,2,2.150,3.750,2.900,2.75,1.875,1.925
+61677774,2026-03-21 14:00,FK Inter Bratislava,MFK Zvolen,0,1,1.909,3.900,3.500,2.75,1.975,1.825
+61677776,2026-03-22 09:30,FC Petrzalka,FC STK 1914 Samorin,3,0,1.900,3.600,3.600,2.75,1.975,1.825
+61677778,2026-03-22 10:00,Slavia Tu Kosice,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,1,2.300,3.500,2.800,3,1.900,1.900
+61677780,2026-03-27 17:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MSK Puchov,3,1,,,,,,
+61677792,2026-03-28 09:30,Slovan Bratislava B,MFK Tatran Liptovsky Mikulas,3,1,,,,,,
+61677782,2026-03-28 14:00,FC STK 1914 Samorin,OFK Banik Lehota Pod Vtacnikom,0,1,1.727,3.900,4.333,3,1.975,1.825
+61677784,2026-03-28 14:00,MSK Povazska Bystrica,Slavia Tu Kosice,4,0,1.750,4.200,3.700,3,1.825,1.975
+61677786,2026-03-28 14:00,MFK Zvolen,MFk Dukla Banska Bystrica,1,1,3.400,3.500,2.000,2.5,1.825,1.975
+61677788,2026-03-28 14:00,MFK Stara Lubovna,FC Petrzalka,0,4,3.600,3.500,2.000,2.5,1.875,1.925
+61677794,2026-03-28 14:00,MSK Zilina B,FK Inter Bratislava,1,2,,,,,,
+61677796,2026-04-02 16:00,FC Vion Zlate Moravce - Vrable,MFK Zvolen,0,0,,,,,,
+61677804,2026-04-03 12:00,FK Inter Bratislava,FC STK 1914 Samorin,0,2,,,,,,
+61677798,2026-04-03 15:00,MFk Dukla Banska Bystrica,MSK Zilina B,4,1,1.333,5.500,7.500,3.25,1.800,2.000
+61677800,2026-04-04 14:00,MFK Tatran Liptovsky Mikulas,OFK Dynamo Malzenice,0,0,1.850,3.750,3.700,2.75,1.800,2.000
+61677802,2026-04-04 14:00,MSK Povazska Bystrica,Slovan Bratislava B,1,1,1.533,4.200,5.750,3,1.975,1.825
+61677806,2026-04-04 14:00,OFK Banik Lehota Pod Vtacnikom,MFK Stara Lubovna,1,2,1.500,4.200,5.750,2.5,1.925,1.875
+61677808,2026-04-05 08:30,FC Petrzalka,FK Pohronie Ziar Nad Hronom Dolna Zdana,3,0,1.950,3.700,3.500,2.75,1.975,1.825
+61677810,2026-04-05 09:00,Slavia Tu Kosice,MSK Puchov,0,0,1.950,3.900,3.300,3,1.950,1.850
+70174200,2026-04-07 14:00,OFK Dynamo Malzenice,FC Vion Zlate Moravce - Vrable,1,0,3.400,3.000,2.250,2.5,1.850,1.950
+61677812,2026-04-10 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,OFK Banik Lehota Pod Vtacnikom,0,2,1.615,4.100,4.500,2.75,2.000,1.800
+61677814,2026-04-11 14:00,MFK Zvolen,MFK Tatran Liptovsky Mikulas,2,1,2.300,3.400,2.875,2.5,1.950,1.850
+61677816,2026-04-11 14:00,MSK Puchov,FC Petrzalka,1,2,2.450,3.500,2.625,2.5,1.825,1.975
+61677818,2026-04-11 14:00,MFK Stara Lubovna,FK Inter Bratislava,2,2,3.200,3.500,2.100,2.5,1.875,1.925
+61677820,2026-04-11 14:00,FC STK 1914 Samorin,MFk Dukla Banska Bystrica,0,2,2.750,3.600,2.300,2.5,1.825,1.975
+61677822,2026-04-12 08:30,Slovan Bratislava B,Slavia Tu Kosice,4,1,1.950,3.700,3.400,2.75,1.875,1.925
+61677824,2026-04-12 08:30,MSK Zilina B,FC Vion Zlate Moravce - Vrable,1,4,3.000,3.750,2.100,3,2.000,1.800
+61677826,2026-04-12 08:30,OFK Dynamo Malzenice,MSK Povazska Bystrica,4,2,2.100,3.500,3.250,2.75,1.850,1.950
+61677828,2026-04-17 15:00,MFk Dukla Banska Bystrica,MFK Stara Lubovna,3,0,1.166,8.000,11.000,3.25,1.800,2.000
+61677830,2026-04-17 16:00,FC Vion Zlate Moravce - Vrable,FC STK 1914 Samorin,1,2,1.727,4.333,3.800,2.75,1.950,1.850
+61677836,2026-04-18 11:30,OFK Banik Lehota Pod Vtacnikom,MSK Puchov,3,3,2.250,3.500,2.900,2.75,1.825,1.975
+61677832,2026-04-18 14:30,MSK Povazska Bystrica,MFK Zvolen,0,2,1.950,3.600,3.500,2.5,1.875,1.925
+61677834,2026-04-18 14:30,MFK Tatran Liptovsky Mikulas,MSK Zilina B,2,0,1.650,4.100,4.500,3,1.800,2.000
+61677838,2026-04-18 14:30,FK Inter Bratislava,FK Pohronie Ziar Nad Hronom Dolna Zdana,2,1,1.850,3.900,3.600,2.5,1.975,1.825
+61677840,2026-04-19 08:30,Slovan Bratislava B,OFK Dynamo Malzenice,1,1,2.800,3.600,2.200,2.5,2.000,1.800
+61677842,2026-04-19 09:00,Slavia Tu Kosice,FC Petrzalka,1,0,3.000,3.500,2.150,3,2.000,1.800
+61677848,2026-04-21 14:30,MFK Stara Lubovna,FC Vion Zlate Moravce - Vrable,4,2,5.500,4.000,1.533,2.75,1.875,1.925
+61677854,2026-04-22 13:00,OFK Dynamo Malzenice,Slavia Tu Kosice,1,0,1.600,4.000,4.750,2.75,1.950,1.850
+61677846,2026-04-22 14:30,MSK Puchov,FK Inter Bratislava,1,3,1.727,3.750,4.333,2.75,1.900,1.900
+61677850,2026-04-22 14:30,MSK Zilina B,MSK Povazska Bystrica,2,2,1.571,4.200,5.000,3,1.875,1.925
+61677852,2026-04-22 14:30,FC Petrzalka,OFK Banik Lehota Pod Vtacnikom,2,1,1.533,4.100,5.750,2.75,1.875,1.925
+61677856,2026-04-22 14:30,FC STK 1914 Samorin,MFK Tatran Liptovsky Mikulas,1,1,2.150,3.600,3.000,3,1.975,1.825
+61677858,2026-04-22 15:00,MFK Zvolen,Slovan Bratislava B,1,2,1.700,4.000,4.200,2.75,1.950,1.850
+61677844,2026-04-22 16:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MFk Dukla Banska Bystrica,0,0,2.900,3.700,2.000,2.75,1.900,1.900
+61677866,2026-04-25 14:00,FK Inter Bratislava,FC Petrzalka,0,2,2.600,3.250,2.600,2.25,1.800,2.000
+61677862,2026-04-25 14:30,MFk Dukla Banska Bystrica,MSK Puchov,0,0,,,,,,
+61677864,2026-04-25 14:30,MSK Povazska Bystrica,FC STK 1914 Samorin,1,1,2.050,3.500,3.300,2.75,1.975,1.825
+61677868,2026-04-25 14:30,MFK Tatran Liptovsky Mikulas,MFK Stara Lubovna,2,0,1.363,4.750,8.000,2.75,1.800,2.000
+61677870,2026-04-26 08:30,Slovan Bratislava B,MSK Zilina B,4,2,2.800,3.700,2.250,3,1.900,1.900
+61677874,2026-04-26 09:00,Slavia Tu Kosice,OFK Banik Lehota Pod Vtacnikom,1,1,1.900,3.750,3.600,2.75,1.850,1.950
+61677872,2026-04-26 09:15,OFK Dynamo Malzenice,MFK Zvolen,0,0,1.833,3.750,4.000,2.5,1.875,1.925
+61677860,2026-04-26 13:00,FC Vion Zlate Moravce - Vrable,FK Pohronie Ziar Nad Hronom Dolna Zdana,0,1,1.480,4.333,6.000,2.75,1.975,1.825
+61677880,2026-05-01 12:00,OFK Banik Lehota Pod Vtacnikom,FK Inter Bratislava,1,0,,,,,,
+61677878,2026-05-02 14:00,FC STK 1914 Samorin,Slovan Bratislava B,1,1,1.650,4.000,4.750,3,1.950,1.850
+61677876,2026-05-02 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MFK Tatran Liptovsky Mikulas,2,2,3.000,3.600,2.150,2.75,1.800,2.000
+61677884,2026-05-02 15:00,MFK Zvolen,Slavia Tu Kosice,2,1,1.833,3.800,3.900,2.75,1.950,1.850
+61677886,2026-05-02 15:00,MFK Stara Lubovna,MSK Povazska Bystrica,1,1,3.500,3.600,1.950,2.75,1.850,1.950
+61677882,2026-05-02 15:30,MSK Puchov,FC Vion Zlate Moravce - Vrable,1,0,2.600,3.750,2.400,2.75,1.850,1.950
+61677888,2026-05-03 08:30,FC Petrzalka,MFk Dukla Banska Bystrica,1,3,,,,,,
+61677890,2026-05-03 08:30,MSK Zilina B,OFK Dynamo Malzenice,1,1,1.650,3.900,4.750,3,1.900,1.900
+61677892,2026-05-08 15:00,MSK Povazska Bystrica,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,1,,,,,,
+61677894,2026-05-08 15:00,MFK Zvolen,MSK Zilina B,5,2,2.750,3.750,2.100,3.25,1.950,1.850
+61677896,2026-05-08 15:00,MFk Dukla Banska Bystrica,OFK Banik Lehota Pod Vtacnikom,4,1,,,,,,
+61677898,2026-05-08 15:00,FC Vion Zlate Moravce - Vrable,FC Petrzalka,1,0,,,,,,
+61677900,2026-05-08 15:00,MFK Tatran Liptovsky Mikulas,MSK Puchov,3,0,1.650,4.000,4.500,3,1.925,1.875
+61677902,2026-05-08 15:00,Slavia Tu Kosice,FK Inter Bratislava,2,1,,,,,,
+61677904,2026-05-08 15:00,OFK Dynamo Malzenice,FC STK 1914 Samorin,2,3,1.850,3.600,3.800,2.5,1.850,1.950
+61677906,2026-05-08 15:00,Slovan Bratislava B,MFK Stara Lubovna,5,1,,,,,,
+61677908,2026-05-15 15:00,MFK Stara Lubovna,OFK Dynamo Malzenice,1,2,,,,,,
+61677910,2026-05-15 15:00,FK Inter Bratislava,MFk Dukla Banska Bystrica,1,0,,,,,,
+61677912,2026-05-15 15:00,FC Petrzalka,MFK Tatran Liptovsky Mikulas,2,1,,,,,,
+61677914,2026-05-15 15:00,MSK Zilina B,Slavia Tu Kosice,4,0,1.333,5.750,6.250,3.25,1.850,1.950
+61677916,2026-05-15 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,Slovan Bratislava B,2,1,,,,,,
+61677918,2026-05-15 15:00,OFK Banik Lehota Pod Vtacnikom,FC Vion Zlate Moravce - Vrable,3,3,,,,,,
+61677920,2026-05-15 15:00,FC STK 1914 Samorin,MFK Zvolen,3,1,,,,,,
+61677922,2026-05-15 15:00,MSK Puchov,MSK Povazska Bystrica,0,1,2.500,3.700,2.500,3,2.000,1.800
+72305066,2026-07-25 14:00,FK Humenne,1. FC Tatran Presov,1,2,2.900,3.500,2.250,2.75,1.975,1.825
+72305068,2026-07-25 15:00,MSK Povazska Bystrica,FK Inter Bratislava,3,1,2.300,3.300,2.875,2.5,1.950,1.850
+72305070,2026-07-25 15:00,MFk Bytca,MFK Tatran Liptovsky Mikulas,0,5,3.750,3.700,1.850,2.75,1.900,1.900
+72305072,2026-07-25 15:00,FC Slovan Galanta,MFK Zvolen,1,1,2.600,3.500,2.500,2.75,1.975,1.825
+72305074,2026-07-25 15:00,OFK Banik Lehota Pod Vtacnikom,FK Pohronie Ziar Nad Hronom Dolna Zdana,3,3,1.900,3.600,3.800,2.75,2.000,1.800
+72305076,2026-07-26 08:30,Slovan Bratislava B,FC Vion Zlate Moravce - Vrable,0,1,2.900,3.400,2.300,3,2.000,1.800
+72305078,2026-07-26 08:30,MSK Zilina B,FC Petrzalka,0,2,3.300,3.500,2.050,3,2.000,1.800
+72305064,2026-07-27 15:00,FC STK 1914 Samorin,OFK Dynamo Malzenice,2,0,2.200,3.300,3.200,2.75,2.000,1.800
+72305080,2026-07-31 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MSK Povazska Bystrica,2,1,2.700,3.300,2.450,2.75,2.000,1.800
+72305082,2026-07-31 17:00,MFK Tatran Liptovsky Mikulas,FC Slovan Galanta,2,0,1.363,5.000,7.000,3.25,1.950,1.850
+72305084,2026-08-01 15:00,FC STK 1914 Samorin,FK Humenne,3,1,1.500,4.100,5.750,2.75,1.850,1.950
+72305088,2026-08-01 15:00,MFK Zvolen,1. FC Tatran Presov,0,1,2.900,3.500,2.250,2.5,1.975,1.825
+72305090,2026-08-01 17:00,FC Vion Zlate Moravce - Vrable,OFK Banik Lehota Pod Vtacnikom,2,2,1.727,3.900,4.200,3,2.000,1.800
+72305092,2026-08-02 08:30,OFK Dynamo Malzenice,Slovan Bratislava B,4,2,2.000,3.500,3.500,2.5,1.875,1.925
+72305094,2026-08-02 08:30,FC Petrzalka,MFk Bytca,4,0,,,,,,
+72305086,2026-08-03 15:00,FK Inter Bratislava,MSK Zilina B,0,1,1.700,3.750,4.500,2.75,1.900,1.900
+72305106,2026-08-08 14:00,1. FC Tatran Presov,MFK Tatran Liptovsky Mikulas,1,1,1.850,3.600,3.900,2.5,1.850,1.950
+72305096,2026-08-08 15:00,OFK Banik Lehota Pod Vtacnikom,OFK Dynamo Malzenice,1,1,1.850,3.750,3.750,2.75,1.975,1.825
+72305098,2026-08-08 15:00,FK Humenne,MFK Zvolen,1,0,2.625,3.400,2.500,2.5,1.975,1.825
+72305100,2026-08-08 15:00,FC Slovan Galanta,FC Petrzalka,0,3,6.000,4.333,1.450,2.75,1.800,2.000
+72305104,2026-08-08 15:00,MFk Bytca,FK Inter Bratislava,0,3,4.500,3.600,1.727,2.75,1.975,1.825
+72305108,2026-08-09 08:30,Slovan Bratislava B,FC STK 1914 Samorin,1,2,2.625,3.500,2.450,2.5,1.850,1.950
+72305110,2026-08-09 08:30,MSK Zilina B,FK Pohronie Ziar Nad Hronom Dolna Zdana,2,1,2.200,3.500,3.000,2.75,1.900,1.900
+72305102,2026-08-10 15:00,MSK Povazska Bystrica,FC Vion Zlate Moravce - Vrable,2,1,1.909,3.700,3.600,2.75,1.825,1.975
+72305112,2026-08-14 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MFk Bytca,3,1,1.480,4.750,5.500,3.25,2.000,1.800
+72305114,2026-08-14 17:00,MFK Tatran Liptovsky Mikulas,MFK Zvolen,2,2,1.909,3.600,3.750,2.75,1.975,1.825
+72305120,2026-08-15 14:00,FC Vion Zlate Moravce - Vrable,MSK Zilina B,0,0,1.650,4.000,4.750,2.75,1.825,1.975
+72305116,2026-08-15 15:00,FC STK 1914 Samorin,OFK Banik Lehota Pod Vtacnikom,0,2,1.533,4.200,5.500,2.75,1.800,2.000
+72305118,2026-08-15 15:00,FK Inter Bratislava,FC Slovan Galanta,3,0,1.400,4.750,6.500,2.75,1.800,2.000
+72305124,2026-08-16 08:30,OFK Dynamo Malzenice,MSK Povazska Bystrica,1,2,2.450,3.300,2.750,2.75,1.925,1.875
+72305126,2026-08-16 08:30,FC Petrzalka,1. FC Tatran Presov,4,2,1.750,3.800,4.100,2.5,1.850,1.950
+72305122,2026-08-17 15:00,Slovan Bratislava B,FK Humenne,3,0,2.000,3.600,3.400,2.75,1.800,2.000
+72305128,2026-08-22 14:30,OFK Banik Lehota Pod Vtacnikom,Slovan Bratislava B,2,2,2.000,3.600,3.400,2.75,1.875,1.925
+72305130,2026-08-22 14:30,MSK Povazska Bystrica,FC STK 1914 Samorin,1,4,2.150,3.500,3.100,2.75,1.900,1.900
+72305132,2026-08-22 14:30,FK Humenne,MFK Tatran Liptovsky Mikulas,1,0,4.100,4.333,1.666,3,1.950,1.850
+72305134,2026-08-22 14:30,MFk Bytca,FC Vion Zlate Moravce - Vrable,2,1,5.250,4.500,1.500,3,1.950,1.850
+72305138,2026-08-22 14:30,FC Slovan Galanta,FK Pohronie Ziar Nad Hronom Dolna Zdana,2,0,3.000,3.600,2.150,2.75,1.950,1.850
+72305140,2026-08-22 16:00,1. FC Tatran Presov,FK Inter Bratislava,2,1,1.750,3.600,4.333,2.5,2.000,1.800
+72305142,2026-08-23 08:30,MSK Zilina B,OFK Dynamo Malzenice,2,1,2.200,3.500,3.000,3,2.000,1.800
+73739962,2026-08-24 15:00,MFK Zvolen,FC Petrzalka,0,1,3.000,3.400,2.200,2.75,1.850,1.950
+72305144,2026-08-28 16:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,1. FC Tatran Presov,3,1,3.400,3.700,2.000,2.75,1.825,1.975
+72305146,2026-08-29 14:30,OFK Banik Lehota Pod Vtacnikom,FK Humenne,1,0,1.500,4.333,5.750,3,1.975,1.825
+72305148,2026-08-29 14:30,FC STK 1914 Samorin,MSK Zilina B,2,1,1.480,4.333,5.750,3,1.975,1.825
+72305150,2026-08-29 14:30,FK Inter Bratislava,MFK Zvolen,1,1,2.250,3.800,2.750,2.75,1.825,1.975
+72305152,2026-08-29 17:00,FC Vion Zlate Moravce - Vrable,FC Slovan Galanta,0,1,1.480,4.500,5.750,3,1.900,1.900
+72305156,2026-08-30 08:30,Slovan Bratislava B,MSK Povazska Bystrica,1,1,1.950,3.750,3.400,3,1.925,1.875
+72305158,2026-08-30 08:30,FC Petrzalka,MFK Tatran Liptovsky Mikulas,2,0,1.615,4.333,4.500,3,1.875,1.925
+72305154,2026-08-31 15:00,OFK Dynamo Malzenice,MFk Bytca,3,1,1.420,5.000,6.000,3,1.950,1.850
+72305160,2026-09-04 16:00,MFK Tatran Liptovsky Mikulas,FK Inter Bratislava,3,3,1.850,3.600,3.500,2.75,1.800,2.000
+72305162,2026-09-05 14:00,MSK Povazska Bystrica,OFK Banik Lehota Pod Vtacnikom,2,1,1.950,3.600,3.400,2.75,1.800,2.000
+72305164,2026-09-05 14:00,FK Humenne,FC Petrzalka,0,1,4.500,3.900,1.615,2.75,1.800,2.000
+72305166,2026-09-05 14:00,MFK Zvolen,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,2,2.050,3.750,2.900,3,1.900,1.900
+72305168,2026-09-05 14:00,FC Slovan Galanta,OFK Dynamo Malzenice,1,0,2.500,3.500,2.450,2.75,1.800,2.000
+72305170,2026-09-05 14:00,MFk Bytca,FC STK 1914 Samorin,1,2,7.000,4.333,1.380,3,2.000,1.800
+72305172,2026-09-05 16:00,1. FC Tatran Presov,FC Vion Zlate Moravce - Vrable,0,1,1.700,3.800,4.100,2.75,1.975,1.825
+72305174,2026-09-07 15:00,MSK Zilina B,Slovan Bratislava B,2,0,2.150,3.750,2.750,3,1.850,1.950
+72305176,2026-09-11 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,MFK Tatran Liptovsky Mikulas,2,0,2.600,3.500,2.350,3,1.875,1.925
+72305178,2026-09-12 14:00,MSK Povazska Bystrica,FK Humenne,2,1,1.600,3.900,4.500,3,1.925,1.875
+72305180,2026-09-12 14:00,FC STK 1914 Samorin,FC Slovan Galanta,3,2,1.380,4.500,7.000,2.75,1.825,1.975
+72305182,2026-09-12 14:00,OFK Banik Lehota Pod Vtacnikom,MSK Zilina B,1,0,1.650,3.900,4.333,3,1.875,1.925
+72305184,2026-09-12 14:00,FK Inter Bratislava,FC Petrzalka,4,0,2.800,3.500,2.250,2.75,2.000,1.800
+72305188,2026-09-13 08:30,Slovan Bratislava B,MFk Bytca,2,0,1.333,5.000,7.500,3.25,1.975,1.825
+72305190,2026-09-13 08:30,OFK Dynamo Malzenice,1. FC Tatran Presov,0,1,2.600,3.400,2.400,2.75,1.825,1.975
+72305186,2026-09-14 15:00,FC Vion Zlate Moravce - Vrable,MFK Zvolen,4,0,1.750,3.500,3.800,2.75,1.850,1.950
+72305192,2026-09-18 16:00,MFK Tatran Liptovsky Mikulas,FC Vion Zlate Moravce - Vrable,0,0,2.000,3.500,3.000,3,1.950,1.850
+72305194,2026-09-19 13:30,MFk Bytca,OFK Banik Lehota Pod Vtacnikom,2,1,5.250,4.000,1.500,3,1.925,1.875
+72305196,2026-09-19 13:30,FK Humenne,FK Inter Bratislava,1,1,3.400,3.500,1.900,2.75,1.950,1.850
+72305200,2026-09-19 13:30,MFK Zvolen,OFK Dynamo Malzenice,1,2,1.800,3.600,3.750,2.75,1.850,1.950
+72305202,2026-09-19 16:00,1. FC Tatran Presov,FC STK 1914 Samorin,0,1,1.950,3.500,3.200,,,
+72305204,2026-09-20 08:30,MSK Zilina B,MSK Povazska Bystrica,4,2,2.600,3.300,2.350,2.75,1.825,1.975
+72305198,2026-09-20 13:30,FC Slovan Galanta,Slovan Bratislava B,2,1,2.875,3.500,2.150,2.75,1.950,1.850
+72305206,2026-09-21 15:00,FC Petrzalka,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,0,1.420,4.500,6.000,3,1.800,2.000
+72305208,2026-09-25 14:30,FK Pohronie Ziar Nad Hronom Dolna Zdana,FK Inter Bratislava,0,3,2.450,3.600,2.450,3,1.850,1.950
+72305210,2026-09-26 13:30,OFK Banik Lehota Pod Vtacnikom,FC Slovan Galanta,1,4,1.615,4.000,4.500,3,1.925,1.875
+72305212,2026-09-26 13:30,FC STK 1914 Samorin,MFK Zvolen,3,1,1.615,4.100,4.500,3,1.900,1.900
+72305214,2026-09-26 13:30,MSK Povazska Bystrica,MFk Bytca,4,1,1.300,5.250,7.500,3.25,1.950,1.850
+72305216,2026-09-26 16:00,FC Vion Zlate Moravce - Vrable,FC Petrzalka,0,2,2.375,3.500,2.450,3,2.000,1.800
+72305220,2026-09-27 08:30,Slovan Bratislava B,1. FC Tatran Presov,2,2,2.450,3.500,2.450,2.75,1.800,2.000
+72305222,2026-09-27 08:30,OFK Dynamo Malzenice,MFK Tatran Liptovsky Mikulas,1,2,2.700,3.500,2.150,2.75,1.800,2.000
+72305218,2026-09-28 15:00,MSK Zilina B,FK Humenne,0,0,,,,,,
+72305226,2026-10-03 13:00,MFk Bytca,MSK Zilina B,1,2,2.875,3.600,2.150,2.75,1.775,2.025
+72305228,2026-10-03 13:00,FC Slovan Galanta,MSK Povazska Bystrica,2,3,2.250,3.500,2.750,2.75,1.900,1.900
+72305230,2026-10-03 13:00,FK Humenne,FK Pohronie Ziar Nad Hronom Dolna Zdana,0,2,2.250,3.700,2.700,2.75,1.825,1.975
+72305232,2026-10-03 13:00,FK Inter Bratislava,FC Vion Zlate Moravce - Vrable,2,2,2.050,3.600,3.100,2.75,1.950,1.850
+72305234,2026-10-03 13:00,MFK Zvolen,Slovan Bratislava B,0,2,1.833,3.800,3.600,3,2.000,1.800
+72305236,2026-10-03 16:00,1. FC Tatran Presov,OFK Banik Lehota Pod Vtacnikom,3,2,1.615,4.000,4.333,2.75,1.900,1.900
+72305238,2026-10-04 08:30,FC Petrzalka,OFK Dynamo Malzenice,1,1,1.420,4.333,6.250,3,1.975,1.825
+74711332,2026-10-05 15:00,MFK Tatran Liptovsky Mikulas,FC STK 1914 Samorin,2,0,2.300,3.400,2.550,3,1.900,1.900
+72305240,2026-10-10 13:00,MFk Bytca,FK Humenne,4,1,2.700,3.700,2.100,2.75,1.975,1.825
+72305242,2026-10-10 13:00,MSK Povazska Bystrica,1. FC Tatran Presov,2,2,1.800,3.600,3.500,2.75,1.950,1.850
+72305244,2026-10-10 13:00,OFK Banik Lehota Pod Vtacnikom,MFK Zvolen,1,0,2.300,3.500,2.550,3,2.000,1.800
+72305250,2026-10-11 08:30,OFK Dynamo Malzenice,FK Inter Bratislava,2,5,2.200,3.500,2.700,2.75,1.900,1.900
+72305252,2026-10-11 08:30,Slovan Bratislava B,MFK Tatran Liptovsky Mikulas,2,0,2.150,3.500,2.750,3,1.950,1.850
+72305254,2026-10-11 08:30,MSK Zilina B,FC Slovan Galanta,2,3,1.850,3.500,3.500,3,2.000,1.800
+72305246,2026-10-11 13:00,FC STK 1914 Samorin,FC Petrzalka,1,1,2.250,3.300,2.700,2.75,2.000,1.800
+72305248,2026-10-12 15:00,FC Vion Zlate Moravce - Vrable,FK Pohronie Ziar Nad Hronom Dolna Zdana,1,3,1.650,3.900,4.000,3,1.850,1.950
+72305256,2026-10-16 15:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,OFK Dynamo Malzenice,0,0,1.727,3.800,4.000,3,1.975,1.825
+72305258,2026-10-16 15:00,MFK Tatran Liptovsky Mikulas,OFK Banik Lehota Pod Vtacnikom,1,0,1.700,3.900,4.100,3,1.975,1.825
+72305260,2026-10-17 12:30,FC Slovan Galanta,MFk Bytca,2,1,1.500,4.200,5.250,3,1.975,1.825
+72305262,2026-10-17 12:30,FK Humenne,FC Vion Zlate Moravce - Vrable,2,1,3.200,3.600,2.000,2.75,1.850,1.950
+72305264,2026-10-17 12:30,FK Inter Bratislava,FC STK 1914 Samorin,2,2,2.250,3.500,2.750,2.75,1.900,1.900
+72305266,2026-10-17 12:30,MFK Zvolen,MSK Povazska Bystrica,2,1,2.450,3.400,2.400,3,1.950,1.850
+72305270,2026-10-18 08:30,FC Petrzalka,Slovan Bratislava B,1,1,1.420,4.333,6.000,2.75,1.875,1.925
+72305268,2026-10-19 15:00,1. FC Tatran Presov,MSK Zilina B,1,1,1.533,3.800,5.000,2.75,1.800,2.000
+72305272,2026-10-24 12:30,FC Slovan Galanta,FK Humenne,3,3,1.615,4.000,3.900,2.75,1.800,2.000
+72305274,2026-10-24 12:30,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2,1,2.100,3.500,2.900,3,1.825,1.975
+72305278,2026-10-24 12:30,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2,1,1.500,4.200,4.750,3,1.900,1.900
+72305280,2026-10-24 12:30,MFk Bytca,1. FC Tatran Presov,0,3,4.333,4.000,1.571,3,2.000,1.800
+72305276,2026-10-24 12:45,OFK Banik Lehota Pod Vtacnikom,FC Petrzalka,1,0,3.000,3.400,2.000,2.75,1.950,1.850
+72305282,2026-10-25 09:30,MSK Zilina B,MFK Zvolen,2,1,1.950,3.700,3.100,3,1.950,1.850
+72305286,2026-10-25 09:30,OFK Dynamo Malzenice,FC Vion Zlate Moravce - Vrable,3,0,2.150,3.500,2.800,2.75,1.825,1.975
+72305284,2026-10-25 10:00,Slovan Bratislava B,FK Inter Bratislava,2,2,2.100,3.500,2.900,3,2.000,1.800
+72305290,2026-10-30 15:00,MFK Tatran Liptovsky Mikulas,MSK Zilina B,3,2,1.380,4.333,6.250,3,1.850,1.950
+72305288,2026-10-30 16:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,Slovan Bratislava B,1,1,1.727,3.900,3.600,3.25,1.975,1.825
+72305292,2026-10-31 12:00,MFK Zvolen,MFk Bytca,5,0,1.333,5.000,6.250,3.25,1.975,1.825
+72305294,2026-10-31 12:00,FK Humenne,OFK Dynamo Malzenice,2,2,2.500,3.400,2.400,2.75,1.975,1.825
+72305296,2026-10-31 12:00,FK Inter Bratislava,OFK Banik Lehota Pod Vtacnikom,2,3,1.571,3.800,4.500,2.75,1.825,1.975
+72305298,2026-10-31 14:00,FC Vion Zlate Moravce - Vrable,FC STK 1914 Samorin,0,0,2.875,3.400,2.100,2.75,1.800,2.000
+72305300,2026-10-31 17:00,1. FC Tatran Presov,FC Slovan Galanta,3,0,1.480,4.000,5.500,3,1.800,2.000
+72305302,2026-11-01 09:30,FC Petrzalka,MSK Povazska Bystrica,0,1,1.615,3.800,4.333,3,2.000,1.800
+72305304,2026-11-06 16:00,FK Pohronie Ziar Nad Hronom Dolna Zdana,OFK Banik Lehota Pod Vtacnikom,5,1,1.727,3.700,3.800,3,1.900,1.900
+72305318,2026-11-07 10:00,OFK Dynamo Malzenice,FC STK 1914 Samorin,3,5,2.900,3.500,2.050,2.75,1.875,1.925
+72305308,2026-11-07 12:00,FK Inter Bratislava,MSK Povazska Bystrica,3,1,2.375,3.500,2.450,3,2.000,1.800
+72305310,2026-11-07 12:00,MFK Zvolen,FC Slovan Galanta,1,5,1.750,3.750,3.750,3,1.950,1.850
+72305312,2026-11-07 16:00,FC Vion Zlate Moravce - Vrable,Slovan Bratislava B,0,1,1.800,3.700,3.500,3,1.950,1.850
+72305314,2026-11-07 17:00,1. FC Tatran Presov,FK Humenne,1,0,1.363,4.333,7.000,3,1.950,1.850
+72305316,2026-11-08 09:30,FC Petrzalka,MSK Zilina B,2,1,1.450,4.200,5.250,2.75,1.825,1.975
+76146334,2026-11-09 16:00,MFK Tatran Liptovsky Mikulas,MFk Bytca,4,0,1.181,7.000,10.000,3.75,2.000,1.800

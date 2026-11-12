@@ -1,279 +1,279 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-66058202,2025-12-10 19:00,CD Cazalegas,CD Villacanas,0,3,5.000,3.300,1.650
-63149887,2025-12-13 15:30,CD Marchamalo,Villarrubia CF,0,2,2.250,3.100,2.900
-63149877,2025-12-13 16:00,Atletico Albacete,CD Illescas,3,0,1.615,3.400,5.000
-63149885,2025-12-13 16:00,CF La Solana,CD Villacanas,0,1,3.800,3.100,1.909
-63149891,2025-12-14 11:00,CD Toledo Sad,AD San Clemente,2,0,1.222,4.750,12.000
-63149881,2025-12-14 15:00,CD Guadalajara B,CD Tarancon,0,1,,,
-63149879,2025-12-14 15:15,CD Cazalegas,Calvo Sotelo Puertollano,1,2,,,
-63149889,2025-12-14 15:30,CD Sonseca,CD Azuqueca,0,0,4.100,3.500,1.666
-63149893,2025-12-14 15:30,CP Villarrobledo,CD Manchego Ciudad Real,0,3,,,
-63149883,2025-12-14 15:45,CD Huracan de Balazote,CD Pedroneras,3,2,,,
-63149907,2025-12-20 15:00,CD Tarancon,CD Huracan de Balazote,3,1,,,
-63149905,2025-12-20 15:30,CD Sonseca,CD Manchego Ciudad Real,0,2,,,
-63149909,2025-12-20 15:30,CD Villacanas,Atletico Albacete,1,1,2.250,2.900,3.100
-63149911,2025-12-20 16:30,Villarrubia CF,CD Guadalajara B,0,1,1.600,3.500,5.000
-63149897,2025-12-21 11:00,CD Illescas,CP Villarrobledo,0,0,1.666,3.400,4.600
-63149899,2025-12-21 11:00,CD Pedroneras,CD Cazalegas,0,0,,,
-63149903,2025-12-21 11:30,AD San Clemente,CF La Solana,4,1,2.375,2.900,2.875
-63149895,2025-12-21 15:30,CD Azuqueca,CD Marchamalo,1,2,2.100,3.100,3.200
-63149901,2025-12-21 16:00,Calvo Sotelo Puertollano,CD Toledo Sad,1,2,2.900,2.750,2.350
-66053232,2026-01-06 11:00,CD Sonseca,Villarrubia CF,0,3,5.500,3.900,1.480
-63149925,2026-01-10 15:15,CD Marchamalo,CD Sonseca,2,1,1.222,5.250,9.500
-63149917,2026-01-10 16:00,CD Manchego Ciudad Real,CD Illescas,2,0,1.480,3.600,6.500
-63149913,2026-01-11 11:00,Atletico Albacete,AD San Clemente,0,0,1.400,3.900,6.500
-63149915,2026-01-11 11:00,CD Cazalegas,CD Tarancon,1,2,,,
-63149927,2026-01-11 11:00,CD Toledo Sad,CD Pedroneras,2,1,,,
-63149919,2026-01-11 15:00,CD Guadalajara B,CD Azuqueca,2,0,,,
-63149923,2026-01-11 15:30,CF La Solana,Calvo Sotelo Puertollano,0,2,3.750,3.000,1.950
-63149921,2026-01-11 16:00,CD Huracan de Balazote,Villarrubia CF,1,2,,,
-63149929,2026-01-11 16:00,CP Villarrobledo,CD Villacanas,1,0,,,
-63149937,2026-01-17 15:00,CD Guadalajara B,CD Marchamalo,1,0,3.100,3.200,2.100
-63149935,2026-01-17 16:00,CD Manchego Ciudad Real,CD Villacanas,1,0,1.666,3.400,4.500
-63149931,2026-01-18 11:00,Atletico Albacete,Calvo Sotelo Puertollano,0,2,2.400,3.000,2.750
-63149933,2026-01-18 11:00,CD Cazalegas,Villarrubia CF,1,1,,,
-63149941,2026-01-18 11:00,CD Illescas,CD Sonseca,1,0,1.285,4.500,8.500
-63149945,2026-01-18 11:00,CD Toledo Sad,CD Tarancon,0,1,1.750,3.100,4.500
-63149943,2026-01-18 15:30,CF La Solana,CD Pedroneras,1,1,2.050,3.100,3.300
-63149939,2026-01-18 16:00,CD Huracan de Balazote,CD Azuqueca,1,0,,,
-63149947,2026-01-18 16:00,CP Villarrobledo,AD San Clemente,0,0,,,
-63149961,2026-01-24 15:00,CD Tarancon,CF La Solana,1,1,1.480,3.400,7.000
-63149963,2026-01-24 15:30,CD Villacanas,CD Illescas,1,0,,,
-63149965,2026-01-24 16:00,Villarrubia CF,CD Toledo Sad,2,1,4.500,3.500,1.666
-63149957,2026-01-25 11:30,AD San Clemente,CD Manchego Ciudad Real,3,2,,,
-63149949,2026-01-25 15:30,CD Azuqueca,CD Cazalegas,0,1,1.727,3.300,4.333
-63149951,2026-01-25 15:30,CD Marchamalo,CD Huracan de Balazote,3,1,,,
-63149953,2026-01-25 15:30,CD Pedroneras,Atletico Albacete,0,1,,,
-63149959,2026-01-25 15:45,CD Sonseca,CD Guadalajara B,1,0,3.700,3.300,1.850
-63149955,2026-01-25 16:00,Calvo Sotelo Puertollano,CP Villarrobledo,0,0,1.363,4.100,7.500
-63149981,2026-01-31 15:30,CD Villacanas,CD Sonseca,1,0,1.250,4.500,12.000
-63149971,2026-01-31 16:00,CD Manchego Ciudad Real,Calvo Sotelo Puertollano,0,1,2.050,3.100,3.300
-63149967,2026-02-01 11:00,Atletico Albacete,CD Tarancon,2,0,2.625,2.625,2.750
-63149969,2026-02-01 11:00,CD Cazalegas,CD Marchamalo,0,0,,,
-63149975,2026-02-01 11:00,CD Illescas,AD San Clemente,1,1,1.900,3.100,3.800
-63149979,2026-02-01 11:00,CD Toledo Sad,CD Azuqueca,2,1,1.111,7.500,19.000
-63149973,2026-02-01 16:00,CD Huracan de Balazote,CD Guadalajara B,1,2,,,
-63149977,2026-02-01 16:00,CF La Solana,Villarrubia CF,0,0,3.400,2.875,2.150
-63149983,2026-02-01 16:00,CP Villarrobledo,CD Pedroneras,1,1,,,
-63149987,2026-02-07 15:00,CD Guadalajara B,CD Cazalegas,3,0,1.850,3.100,3.750
-63149999,2026-02-07 15:30,CD Tarancon,CP Villarrobledo,3,0,,,
-63149989,2026-02-07 16:00,CD Marchamalo,CD Toledo Sad,0,2,,,
-63150001,2026-02-07 16:00,Villarrubia CF,Atletico Albacete,1,2,2.350,2.875,3.000
-63149985,2026-02-07 16:30,CD Azuqueca,CF La Solana,0,0,,,
-63149995,2026-02-08 11:30,AD San Clemente,CD Villacanas,2,2,,,
-63149991,2026-02-08 15:30,CD Pedroneras,CD Manchego Ciudad Real,0,4,,,
-63149997,2026-02-08 15:45,CD Sonseca,CD Huracan de Balazote,0,1,,,
-63149993,2026-02-08 16:00,Calvo Sotelo Puertollano,CD Illescas,1,0,1.333,4.000,8.500
-63150007,2026-02-14 16:00,CD Manchego Ciudad Real,CD Tarancon,0,2,2.150,2.900,3.300
-63150011,2026-02-14 16:00,CF La Solana,CD Marchamalo,2,5,,,
-63150019,2026-02-15 10:30,CP Villarrobledo,Villarrubia CF,1,0,,,
-63150003,2026-02-15 11:00,Atletico Albacete,CD Azuqueca,0,0,1.285,4.500,9.500
-63150005,2026-02-15 11:00,CD Cazalegas,CD Huracan de Balazote,1,1,2.250,3.100,2.875
-63150009,2026-02-15 11:00,CD Illescas,CD Pedroneras,0,1,1.700,3.500,4.200
-63150013,2026-02-15 11:30,AD San Clemente,CD Sonseca,2,2,,,
-63150017,2026-02-15 15:30,CD Villacanas,Calvo Sotelo Puertollano,2,1,2.875,2.800,2.500
-63150015,2026-02-15 16:00,CD Toledo Sad,CD Guadalajara B,1,0,1.250,4.750,11.000
-63150039,2026-02-21 11:00,CD Tarancon,CD Illescas,2,1,1.500,3.700,5.250
-63150023,2026-02-21 15:00,CD Guadalajara B,CF La Solana,0,0,2.200,2.900,3.100
-63150027,2026-02-21 15:30,CD Marchamalo,Atletico Albacete,2,1,3.100,2.900,2.200
-63150041,2026-02-21 16:00,Villarrubia CF,CD Manchego Ciudad Real,1,0,2.600,3.000,2.550
-63150021,2026-02-21 16:30,CD Azuqueca,CP Villarrobledo,1,3,2.350,3.000,2.875
-63150037,2026-02-22 15:45,CD Sonseca,CD Cazalegas,3,0,2.400,3.000,2.625
-63150025,2026-02-22 16:00,CD Huracan de Balazote,CD Toledo Sad,0,1,7.000,3.900,1.420
-63150029,2026-02-22 16:00,CD Pedroneras,CD Villacanas,1,1,,,
-63150035,2026-02-22 16:00,Calvo Sotelo Puertollano,AD San Clemente,1,0,1.420,3.500,8.000
-63150057,2026-02-28 15:30,CD Villacanas,CD Tarancon,1,1,2.600,2.800,2.700
-63150045,2026-03-01 10:30,CD Manchego Ciudad Real,CD Azuqueca,2,0,1.380,4.000,7.000
-63150043,2026-03-01 11:00,Atletico Albacete,CD Guadalajara B,1,0,1.444,3.700,7.000
-63150047,2026-03-01 11:00,CD Illescas,Villarrubia CF,0,0,2.300,3.000,2.900
-63150053,2026-03-01 11:30,AD San Clemente,CD Pedroneras,1,0,1.950,3.100,3.700
-63150049,2026-03-01 16:00,CF La Solana,CD Huracan de Balazote,0,1,2.200,3.000,3.100
-63150051,2026-03-01 16:00,Calvo Sotelo Puertollano,CD Sonseca,3,1,1.100,8.000,21.000
-63150055,2026-03-01 16:00,CD Toledo Sad,CD Cazalegas,6,0,1.062,10.000,41.000
-63150059,2026-03-01 16:00,CP Villarrobledo,CD Marchamalo,2,1,,,
-63150065,2026-03-07 15:00,CD Guadalajara B,CP Villarrobledo,3,1,2.550,2.900,2.600
-63150069,2026-03-07 16:00,CD Marchamalo,CD Manchego Ciudad Real,2,2,3.000,3.250,2.100
-63150075,2026-03-07 16:00,CD Tarancon,AD San Clemente,1,1,,,
-63150077,2026-03-07 16:30,Villarrubia CF,CD Villacanas,1,0,2.200,2.750,3.400
-63150061,2026-03-07 18:00,CD Azuqueca,CD Illescas,1,0,2.800,3.100,2.300
-63150063,2026-03-08 11:00,CD Cazalegas,CF La Solana,2,1,3.200,3.000,2.150
-63150071,2026-03-08 11:00,CD Pedroneras,Calvo Sotelo Puertollano,1,1,,,
-63150073,2026-03-08 16:00,CD Sonseca,CD Toledo Sad,1,1,15.000,6.000,1.166
-63150067,2026-03-08 16:15,CD Huracan de Balazote,Atletico Albacete,0,1,,,
-63150081,2026-03-14 16:00,CD Manchego Ciudad Real,CD Guadalajara B,1,0,1.480,3.600,6.000
-63150093,2026-03-14 16:00,CD Villacanas,CD Azuqueca,0,1,1.571,3.250,5.750
-63150079,2026-03-14 17:00,Atletico Albacete,CD Cazalegas,5,0,,,
-63150083,2026-03-15 11:00,CD Illescas,CD Marchamalo,2,1,1.800,3.500,3.700
-63150087,2026-03-15 11:00,CD Pedroneras,CD Sonseca,1,0,,,
-63150091,2026-03-15 11:30,AD San Clemente,Villarrubia CF,2,1,,,
-63150085,2026-03-15 16:00,CF La Solana,CD Toledo Sad,0,0,7.500,3.700,1.420
-63150089,2026-03-15 16:00,Calvo Sotelo Puertollano,CD Tarancon,2,0,1.900,3.200,3.600
-63150095,2026-03-15 16:30,CP Villarrobledo,CD Huracan de Balazote,1,1,,,
-63150101,2026-03-21 15:00,CD Guadalajara B,CD Illescas,0,0,2.250,3.000,2.900
-63150109,2026-03-21 16:00,CD Tarancon,CD Pedroneras,2,0,,,
-63150113,2026-03-21 16:30,Villarrubia CF,Calvo Sotelo Puertollano,1,2,3.100,3.000,2.200
-63150105,2026-03-21 17:00,CD Marchamalo,CD Villacanas,1,0,2.250,3.000,2.900
-63150097,2026-03-21 18:00,CD Azuqueca,AD San Clemente,2,2,2.550,3.000,2.550
-63150099,2026-03-22 11:00,CD Cazalegas,CP Villarrobledo,0,2,3.600,3.250,1.900
-63150103,2026-03-22 16:00,CD Huracan de Balazote,CD Manchego Ciudad Real,0,0,3.500,3.200,1.950
-63150107,2026-03-22 16:00,CD Sonseca,CF La Solana,3,2,3.100,3.100,2.200
-63150111,2026-03-22 16:00,CD Toledo Sad,Atletico Albacete,0,0,,,
-63150119,2026-03-28 15:00,CD Illescas,CD Huracan de Balazote,0,1,1.800,3.100,4.200
-63150117,2026-03-28 16:00,CD Manchego Ciudad Real,CD Cazalegas,4,1,1.200,5.250,13.000
-63150123,2026-03-28 16:00,Calvo Sotelo Puertollano,CD Azuqueca,1,1,,,
-63150127,2026-03-28 16:00,CD Tarancon,CD Sonseca,2,1,,,
-63150129,2026-03-28 16:00,CD Villacanas,CD Guadalajara B,1,1,,,
-63150121,2026-03-28 16:30,CD Pedroneras,Villarrubia CF,1,0,,,
-63150115,2026-03-29 10:00,Atletico Albacete,CF La Solana,4,0,,,
-63150125,2026-03-29 14:30,AD San Clemente,CD Marchamalo,1,0,,,
-63150131,2026-03-29 15:30,CP Villarrobledo,CD Toledo Sad,0,0,,,
-63150149,2026-04-02 10:00,CD Marchamalo,Calvo Sotelo Puertollano,1,3,3.600,3.100,1.950
-63150151,2026-04-02 10:00,CD Sonseca,Atletico Albacete,0,3,,,
-63150153,2026-04-02 10:00,CD Toledo Sad,CD Manchego Ciudad Real,1,0,,,
-63150133,2026-04-02 10:30,CD Azuqueca,CD Pedroneras,0,1,,,
-63150137,2026-04-02 10:30,CD Guadalajara B,AD San Clemente,2,1,2.050,2.950,3.500
-63150155,2026-04-02 10:30,Villarrubia CF,CD Tarancon,2,1,2.750,2.875,2.500
-63150147,2026-04-02 15:00,CF La Solana,CP Villarrobledo,1,2,,,
-63150139,2026-04-03 15:00,CD Huracan de Balazote,CD Villacanas,2,0,2.875,2.800,2.500
-63150135,2026-04-05 10:00,CD Cazalegas,CD Illescas,0,1,5.000,3.600,1.571
-63150157,2026-04-11 15:00,CD Manchego Ciudad Real,CF La Solana,2,0,,,
-63150159,2026-04-11 15:00,CD Illescas,CD Toledo Sad,1,1,,,
-63150169,2026-04-11 15:00,CD Villacanas,CD Cazalegas,1,0,,,
-63150165,2026-04-11 15:30,AD San Clemente,CD Huracan de Balazote,0,0,,,
-63150167,2026-04-11 15:30,CD Tarancon,CD Azuqueca,2,1,,,
-63150173,2026-04-11 16:00,Villarrubia CF,CD Sonseca,2,1,,,
-63150161,2026-04-12 10:00,CD Pedroneras,CD Marchamalo,0,1,,,
-63150163,2026-04-12 16:00,Calvo Sotelo Puertollano,CD Guadalajara B,4,0,,,
-63150171,2026-04-12 16:00,CP Villarrobledo,Atletico Albacete,0,0,,,
-63150181,2026-04-18 14:00,CD Guadalajara B,CD Pedroneras,1,1,,,
-63150187,2026-04-18 16:00,CD Marchamalo,CD Tarancon,0,1,,,
-63150191,2026-04-18 16:00,CD Toledo Sad,CD Villacanas,4,0,,,
-63150175,2026-04-19 10:00,Atletico Albacete,CD Manchego Ciudad Real,1,1,,,
-63150179,2026-04-19 10:00,CD Cazalegas,AD San Clemente,0,2,,,
-63150177,2026-04-19 15:00,CD Azuqueca,Villarrubia CF,2,2,2.400,3.000,2.700
-63150185,2026-04-19 15:30,CF La Solana,CD Illescas,1,0,,,
-63150183,2026-04-19 16:00,CD Huracan de Balazote,Calvo Sotelo Puertollano,2,1,,,
-63150189,2026-04-19 16:00,CD Sonseca,CP Villarrobledo,1,2,,,
-63150195,2026-04-25 15:00,CD Manchego Ciudad Real,CP Villarrobledo,0,0,,,
-63150197,2026-04-25 15:00,CD Illescas,Atletico Albacete,1,0,,,
-63150207,2026-04-25 15:30,CD Villacanas,CF La Solana,1,1,,,
-63150205,2026-04-25 16:00,CD Tarancon,CD Guadalajara B,3,0,,,
-63150209,2026-04-25 16:00,Villarrubia CF,CD Marchamalo,2,2,,,
-63150203,2026-04-26 10:00,AD San Clemente,CD Toledo Sad,0,0,,,
-63150193,2026-04-26 15:00,CD Azuqueca,CD Sonseca,4,1,,,
-63150199,2026-04-26 16:00,CD Pedroneras,CD Huracan de Balazote,0,0,,,
-63150201,2026-04-26 16:00,Calvo Sotelo Puertollano,CD Cazalegas,1,0,,,
-63150211,2026-05-03 16:00,Atletico Albacete,CD Villacanas,0,0,,,
-63150213,2026-05-03 16:00,CD Cazalegas,CD Pedroneras,0,0,,,
-63150215,2026-05-03 16:00,CD Manchego Ciudad Real,CD Sonseca,0,2,,,
-63150217,2026-05-03 16:00,CD Guadalajara B,Villarrubia CF,2,0,,,
-63150219,2026-05-03 16:00,CD Huracan de Balazote,CD Tarancon,0,0,,,
-63150221,2026-05-03 16:00,CF La Solana,AD San Clemente,4,1,,,
-63150223,2026-05-03 16:00,CD Marchamalo,CD Azuqueca,0,0,,,
-63150225,2026-05-03 16:00,CD Toledo Sad,Calvo Sotelo Puertollano,0,2,1.750,3.100,4.500
-63150227,2026-05-03 16:00,CP Villarrobledo,CD Illescas,0,0,,,
-63150243,2026-05-09 14:00,CD Villacanas,CP Villarrobledo,0,0,,,
-63150245,2026-05-09 17:00,Villarrubia CF,CD Huracan de Balazote,0,0,,,
-63150229,2026-05-10 14:30,CD Azuqueca,CD Guadalajara B,2,0,,,
-63150231,2026-05-10 16:00,CD Illescas,CD Manchego Ciudad Real,0,0,,,
-63150233,2026-05-10 16:00,CD Pedroneras,CD Toledo Sad,0,0,,,
-63150235,2026-05-10 16:00,Calvo Sotelo Puertollano,CF La Solana,1,0,,,
-63150237,2026-05-10 16:00,AD San Clemente,Atletico Albacete,0,0,,,
-63150239,2026-05-10 16:00,CD Sonseca,CD Marchamalo,1,0,,,
-63150241,2026-05-10 16:00,CD Tarancon,CD Cazalegas,0,0,,,
-71483872,2026-05-17 09:30,CD Manchego Ciudad Real,CD Tarancon,0,0,2.500,2.800,2.800
-71483876,2026-05-17 10:00,Atletico Albacete,CD Toledo Sad,0,0,,,
-71483880,2026-05-23 18:00,CD Tarancon,CD Manchego Ciudad Real,0,1,,,
-71483882,2026-05-24 16:00,CD Toledo Sad,Atletico Albacete,0,1,,,
-71741624,2026-05-30 18:00,CD Manchego Ciudad Real,Atletico Albacete,2,0,,,
-71741626,2026-06-06 18:00,Atletico Albacete,CD Manchego Ciudad Real,3,0,,,
-73560264,2026-09-05 14:30,CD Guadalajara B,CD Torrijos,0,1,2.150,2.800,3.300
-73560268,2026-09-05 16:00,CD Villacanas,CD Huracan de Balazote,3,0,,,
-73560254,2026-09-05 17:00,CD Noblejas,UD Almansa,3,2,2.100,3.300,3.000
-73560256,2026-09-05 17:00,Villarrubia CF,AD San Clemente,1,1,,,
-73560262,2026-09-05 17:00,CD Tarancon,CD Illescas,0,1,,,
-73560266,2026-09-05 17:30,CD Marchamalo,CD Villa,2,0,1.727,3.250,4.500
-73560252,2026-09-05 18:00,CF La Solana,CD Manchego Ciudad Real,0,1,4.750,3.500,1.666
-73560260,2026-09-06 16:30,UD Socuellamos CF,CP Villarrobledo,0,0,,,
-73560258,2026-09-06 17:00,CD Quintanar del Rey,CD Toledo Sad,2,4,2.550,2.875,2.700
-73560272,2026-09-12 17:00,CD Manchego Ciudad Real,CD Villacanas,2,0,2.150,2.875,3.300
-73560278,2026-09-12 17:00,CD Toledo Sad,Villarrubia CF,1,1,,,
-73560286,2026-09-12 17:30,CD Villa,CD Guadalajara B,1,0,,,
-73560270,2026-09-13 10:00,CD Huracan de Balazote,CD Marchamalo,0,2,3.100,3.000,2.200
-73560274,2026-09-13 10:00,UD Almansa,CF La Solana,3,0,2.050,3.200,3.200
-73560276,2026-09-13 10:00,AD San Clemente,CD Noblejas,1,1,1.850,3.300,3.700
-73560282,2026-09-13 10:00,CD Illescas,UD Socuellamos CF,0,0,,,
-73560284,2026-09-13 15:30,CD Torrijos,CD Tarancon,1,0,3.200,3.000,2.150
-73560280,2026-09-13 17:00,CP Villarrobledo,CD Quintanar del Rey,1,1,3.100,3.000,2.200
-73560290,2026-09-19 15:30,CD Villacanas,UD Almansa,0,0,,,
-73560302,2026-09-19 16:00,CD Tarancon,CD Villa,2,1,,,
-73560292,2026-09-19 17:00,CF La Solana,AD San Clemente,4,0,2.500,3.000,2.600
-73560294,2026-09-19 17:00,CD Noblejas,CD Toledo Sad,2,1,5.250,3.700,1.533
-73560296,2026-09-19 17:00,Villarrubia CF,CP Villarrobledo,0,4,2.000,3.100,3.600
-73560288,2026-09-20 10:00,CD Huracan de Balazote,CD Manchego Ciudad Real,0,1,3.500,3.200,1.950
-73560300,2026-09-20 10:00,UD Socuellamos CF,CD Torrijos,1,1,,,
-73560298,2026-09-20 17:00,CD Quintanar del Rey,CD Illescas,2,2,2.700,2.875,2.550
-73560304,2026-09-20 17:15,CD Marchamalo,CD Guadalajara B,2,2,1.850,3.100,3.900
-73560322,2026-09-26 14:00,CD Guadalajara B,CD Tarancon,2,6,3.300,3.250,2.000
-73560306,2026-09-27 09:30,CD Manchego Ciudad Real,CD Marchamalo,3,2,1.700,3.400,4.333
-73560308,2026-09-27 10:00,UD Almansa,CD Huracan de Balazote,3,1,1.750,3.400,4.000
-73560316,2026-09-27 10:00,CD Illescas,Villarrubia CF,2,0,1.833,3.100,4.200
-73560310,2026-09-27 10:30,AD San Clemente,CD Villacanas,0,2,,,
-73560318,2026-09-27 15:30,CD Torrijos,CD Quintanar del Rey,2,0,2.800,3.000,2.400
-73560312,2026-09-27 16:00,CD Toledo Sad,CF La Solana,4,0,1.250,4.500,10.000
-73560314,2026-09-27 16:00,CP Villarrobledo,CD Noblejas,2,0,,,
-73560320,2026-09-27 16:00,CD Villa,UD Socuellamos CF,2,0,,,
-73560338,2026-10-03 15:30,CD Villacanas,CD Toledo Sad,1,2,,,
-73560324,2026-10-03 16:00,CD Noblejas,CD Illescas,1,2,,,
-73560332,2026-10-03 16:30,CD Marchamalo,CD Tarancon,2,2,,,
-73560340,2026-10-03 17:00,CF La Solana,CP Villarrobledo,0,1,2.875,3.100,2.300
-73560334,2026-10-04 09:30,CD Manchego Ciudad Real,UD Almansa,1,0,1.533,3.700,5.250
-73560326,2026-10-04 10:00,Villarrubia CF,CD Torrijos,1,1,,,
-73560330,2026-10-04 10:00,UD Socuellamos CF,CD Guadalajara B,2,2,,,
-73560336,2026-10-04 10:00,CD Huracan de Balazote,AD San Clemente,3,5,,,
-73560328,2026-10-04 15:30,CD Quintanar del Rey,CD Villa,0,2,1.550,3.600,5.250
-73560356,2026-10-10 14:00,CD Guadalajara B,CD Quintanar del Rey,0,1,2.375,3.100,2.700
-73560342,2026-10-10 15:00,UD Almansa,CD Marchamalo,3,1,2.200,3.250,2.875
-73560358,2026-10-10 15:00,CD Tarancon,UD Socuellamos CF,1,0,1.850,3.300,3.750
-73560344,2026-10-11 09:30,AD San Clemente,CD Manchego Ciudad Real,3,1,,,
-73560350,2026-10-11 10:00,CD Illescas,CF La Solana,1,0,1.500,3.900,5.250
-73560352,2026-10-11 15:00,CD Torrijos,CD Noblejas,4,0,,,
-73560354,2026-10-11 15:00,CD Villa,Villarrubia CF,2,1,,,
-73560346,2026-10-11 16:00,CD Toledo Sad,CD Huracan de Balazote,3,1,1.200,5.250,12.000
-73560348,2026-10-11 16:00,CP Villarrobledo,CD Villacanas,0,0,,,
-73560366,2026-10-17 14:30,CD Villacanas,CD Illescas,4,3,,,
-73560370,2026-10-17 14:30,CD Noblejas,CD Villa,3,0,2.300,3.250,2.700
-73560376,2026-10-17 15:00,CD Marchamalo,UD Socuellamos CF,1,0,2.250,3.000,3.000
-73560362,2026-10-17 16:00,CD Manchego Ciudad Real,CD Toledo Sad,1,0,2.550,2.900,2.550
-73560368,2026-10-17 17:00,CF La Solana,CD Torrijos,2,0,,,
-73560360,2026-10-18 10:00,UD Almansa,AD San Clemente,1,1,1.833,3.300,3.700
-73560372,2026-10-18 10:00,Villarrubia CF,CD Guadalajara B,4,0,1.833,3.250,3.800
-73560364,2026-10-18 15:00,CD Huracan de Balazote,CP Villarrobledo,1,1,,,
-73560374,2026-10-18 15:30,CD Quintanar del Rey,CD Tarancon,1,2,,,
-73560390,2026-10-24 14:00,CD Guadalajara B,CD Noblejas,1,4,2.500,3.100,2.550
-73560392,2026-10-24 15:00,CD Tarancon,Villarrubia CF,1,1,,,
-73560384,2026-10-25 11:00,CD Illescas,CD Huracan de Balazote,0,1,1.420,4.100,6.000
-73560394,2026-10-25 11:00,UD Socuellamos CF,CD Quintanar del Rey,2,1,2.100,3.100,3.200
-73560378,2026-10-25 11:30,AD San Clemente,CD Marchamalo,3,1,,,
-73560380,2026-10-25 15:30,CD Toledo Sad,UD Almansa,2,0,1.363,4.100,7.500
-73560388,2026-10-25 15:30,CD Villa,CF La Solana,1,0,,,
-73560382,2026-10-25 16:00,CP Villarrobledo,CD Manchego Ciudad Real,1,0,,,
-73560386,2026-10-25 16:00,CD Torrijos,CD Villacanas,0,3,2.300,3.000,2.900
-73560404,2026-10-31 15:30,CD Villacanas,CD Villa,4,1,,,
-73560408,2026-10-31 15:30,CD Noblejas,CD Tarancon,2,2,2.250,3.100,2.800
-73560396,2026-10-31 16:00,AD San Clemente,CD Toledo Sad,2,3,,,
-73560402,2026-10-31 16:00,CD Huracan de Balazote,CD Torrijos,1,0,,,
-73560412,2026-10-31 16:00,CD Marchamalo,CD Quintanar del Rey,3,3,,,
-73560400,2026-10-31 17:00,CD Manchego Ciudad Real,CD Illescas,4,1,2.100,3.000,3.250
-73560398,2026-11-01 11:00,UD Almansa,CP Villarrobledo,1,1,2.450,3.100,2.600
-73560410,2026-11-01 11:00,Villarrubia CF,UD Socuellamos CF,1,0,2.150,3.100,3.000
-73560406,2026-11-01 16:00,CF La Solana,CD Guadalajara B,1,0,1.850,3.200,3.700
-73560424,2026-11-07 15:00,CD Guadalajara B,CD Villacanas,2,2,3.700,3.400,1.833
-73560418,2026-11-08 11:00,CD Illescas,UD Almansa,1,0,1.727,3.400,4.100
-73560428,2026-11-08 11:00,UD Socuellamos CF,CD Noblejas,2,0,1.850,3.500,3.500
-73560414,2026-11-08 15:30,CD Toledo Sad,CD Marchamalo,2,0,,,
-73560420,2026-11-08 15:30,CD Torrijos,CD Manchego Ciudad Real,1,4,2.800,3.200,2.250
-73560422,2026-11-08 15:30,CD Villa,CD Huracan de Balazote,5,1,,,
-73560430,2026-11-08 15:30,CD Quintanar del Rey,Villarrubia CF,1,2,,,
-73560416,2026-11-08 16:00,CP Villarrobledo,AD San Clemente,0,2,,,
-73560426,2026-11-08 16:00,CD Tarancon,CF La Solana,0,2,,,
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+66058202,2025-12-10 19:00,CD Cazalegas,CD Villacanas,0,3,5.000,3.300,1.650,2,1.775,2.025
+63149887,2025-12-13 15:30,CD Marchamalo,Villarrubia CF,0,2,2.250,3.100,2.900,2,1.975,1.825
+63149877,2025-12-13 16:00,Atletico Albacete,CD Illescas,3,0,1.615,3.400,5.000,2.25,1.900,1.900
+63149885,2025-12-13 16:00,CF La Solana,CD Villacanas,0,1,3.800,3.100,1.909,1.75,1.850,1.950
+63149891,2025-12-14 11:00,CD Toledo Sad,AD San Clemente,2,0,1.222,4.750,12.000,2.5,1.850,1.950
+63149881,2025-12-14 15:00,CD Guadalajara B,CD Tarancon,0,1,,,,,,
+63149879,2025-12-14 15:15,CD Cazalegas,Calvo Sotelo Puertollano,1,2,,,,,,
+63149889,2025-12-14 15:30,CD Sonseca,CD Azuqueca,0,0,4.100,3.500,1.666,2.5,2.025,1.775
+63149893,2025-12-14 15:30,CP Villarrobledo,CD Manchego Ciudad Real,0,3,,,,,,
+63149883,2025-12-14 15:45,CD Huracan de Balazote,CD Pedroneras,3,2,,,,,,
+63149907,2025-12-20 15:00,CD Tarancon,CD Huracan de Balazote,3,1,,,,,,
+63149905,2025-12-20 15:30,CD Sonseca,CD Manchego Ciudad Real,0,2,,,,,,
+63149909,2025-12-20 15:30,CD Villacanas,Atletico Albacete,1,1,2.250,2.900,3.100,2,2.000,1.800
+63149911,2025-12-20 16:30,Villarrubia CF,CD Guadalajara B,0,1,1.600,3.500,5.000,2.25,1.950,1.850
+63149897,2025-12-21 11:00,CD Illescas,CP Villarrobledo,0,0,1.666,3.400,4.600,2.25,1.950,1.850
+63149899,2025-12-21 11:00,CD Pedroneras,CD Cazalegas,0,0,,,,,,
+63149903,2025-12-21 11:30,AD San Clemente,CF La Solana,4,1,2.375,2.900,2.875,2,1.975,1.825
+63149895,2025-12-21 15:30,CD Azuqueca,CD Marchamalo,1,2,2.100,3.100,3.200,2.25,2.025,1.775
+63149901,2025-12-21 16:00,Calvo Sotelo Puertollano,CD Toledo Sad,1,2,2.900,2.750,2.350,1.75,1.825,1.975
+66053232,2026-01-06 11:00,CD Sonseca,Villarrubia CF,0,3,5.500,3.900,1.480,2.5,1.950,1.850
+63149925,2026-01-10 15:15,CD Marchamalo,CD Sonseca,2,1,1.222,5.250,9.500,2.75,1.850,1.950
+63149917,2026-01-10 16:00,CD Manchego Ciudad Real,CD Illescas,2,0,1.480,3.600,6.500,2.25,1.925,1.875
+63149913,2026-01-11 11:00,Atletico Albacete,AD San Clemente,0,0,1.400,3.900,6.500,2.5,1.900,1.900
+63149915,2026-01-11 11:00,CD Cazalegas,CD Tarancon,1,2,,,,,,
+63149927,2026-01-11 11:00,CD Toledo Sad,CD Pedroneras,2,1,,,,,,
+63149919,2026-01-11 15:00,CD Guadalajara B,CD Azuqueca,2,0,,,,,,
+63149923,2026-01-11 15:30,CF La Solana,Calvo Sotelo Puertollano,0,2,3.750,3.000,1.950,2,2.025,1.775
+63149921,2026-01-11 16:00,CD Huracan de Balazote,Villarrubia CF,1,2,,,,,,
+63149929,2026-01-11 16:00,CP Villarrobledo,CD Villacanas,1,0,,,,,,
+63149937,2026-01-17 15:00,CD Guadalajara B,CD Marchamalo,1,0,3.100,3.200,2.100,2,1.775,2.025
+63149935,2026-01-17 16:00,CD Manchego Ciudad Real,CD Villacanas,1,0,1.666,3.400,4.500,2.25,1.800,2.000
+63149931,2026-01-18 11:00,Atletico Albacete,Calvo Sotelo Puertollano,0,2,2.400,3.000,2.750,2,1.875,1.925
+63149933,2026-01-18 11:00,CD Cazalegas,Villarrubia CF,1,1,,,,,,
+63149941,2026-01-18 11:00,CD Illescas,CD Sonseca,1,0,1.285,4.500,8.500,2.5,1.825,1.975
+63149945,2026-01-18 11:00,CD Toledo Sad,CD Tarancon,0,1,1.750,3.100,4.500,2,2.000,1.800
+63149943,2026-01-18 15:30,CF La Solana,CD Pedroneras,1,1,2.050,3.100,3.300,2,1.875,1.925
+63149939,2026-01-18 16:00,CD Huracan de Balazote,CD Azuqueca,1,0,,,,,,
+63149947,2026-01-18 16:00,CP Villarrobledo,AD San Clemente,0,0,,,,,,
+63149961,2026-01-24 15:00,CD Tarancon,CF La Solana,1,1,1.480,3.400,7.000,2,1.775,2.025
+63149963,2026-01-24 15:30,CD Villacanas,CD Illescas,1,0,,,,,,
+63149965,2026-01-24 16:00,Villarrubia CF,CD Toledo Sad,2,1,4.500,3.500,1.666,2.25,2.000,1.800
+63149957,2026-01-25 11:30,AD San Clemente,CD Manchego Ciudad Real,3,2,,,,,,
+63149949,2026-01-25 15:30,CD Azuqueca,CD Cazalegas,0,1,1.727,3.300,4.333,2.25,1.900,1.900
+63149951,2026-01-25 15:30,CD Marchamalo,CD Huracan de Balazote,3,1,,,,,,
+63149953,2026-01-25 15:30,CD Pedroneras,Atletico Albacete,0,1,,,,,,
+63149959,2026-01-25 15:45,CD Sonseca,CD Guadalajara B,1,0,3.700,3.300,1.850,2.25,2.025,1.775
+63149955,2026-01-25 16:00,Calvo Sotelo Puertollano,CP Villarrobledo,0,0,1.363,4.100,7.500,2.5,1.800,2.000
+63149981,2026-01-31 15:30,CD Villacanas,CD Sonseca,1,0,1.250,4.500,12.000,2.25,1.850,1.950
+63149971,2026-01-31 16:00,CD Manchego Ciudad Real,Calvo Sotelo Puertollano,0,1,2.050,3.100,3.300,2,1.950,1.850
+63149967,2026-02-01 11:00,Atletico Albacete,CD Tarancon,2,0,2.625,2.625,2.750,1.75,1.825,1.975
+63149969,2026-02-01 11:00,CD Cazalegas,CD Marchamalo,0,0,,,,,,
+63149975,2026-02-01 11:00,CD Illescas,AD San Clemente,1,1,1.900,3.100,3.800,2,1.775,2.025
+63149979,2026-02-01 11:00,CD Toledo Sad,CD Azuqueca,2,1,1.111,7.500,19.000,2.75,1.875,1.925
+63149973,2026-02-01 16:00,CD Huracan de Balazote,CD Guadalajara B,1,2,,,,,,
+63149977,2026-02-01 16:00,CF La Solana,Villarrubia CF,0,0,3.400,2.875,2.150,1.75,1.950,1.850
+63149983,2026-02-01 16:00,CP Villarrobledo,CD Pedroneras,1,1,,,,,,
+63149987,2026-02-07 15:00,CD Guadalajara B,CD Cazalegas,3,0,1.850,3.100,3.750,2,1.825,1.975
+63149999,2026-02-07 15:30,CD Tarancon,CP Villarrobledo,3,0,,,,,,
+63149989,2026-02-07 16:00,CD Marchamalo,CD Toledo Sad,0,2,,,,,,
+63150001,2026-02-07 16:00,Villarrubia CF,Atletico Albacete,1,2,2.350,2.875,3.000,1.75,1.900,1.900
+63149985,2026-02-07 16:30,CD Azuqueca,CF La Solana,0,0,,,,,,
+63149995,2026-02-08 11:30,AD San Clemente,CD Villacanas,2,2,,,,,,
+63149991,2026-02-08 15:30,CD Pedroneras,CD Manchego Ciudad Real,0,4,,,,,,
+63149997,2026-02-08 15:45,CD Sonseca,CD Huracan de Balazote,0,1,,,,,,
+63149993,2026-02-08 16:00,Calvo Sotelo Puertollano,CD Illescas,1,0,1.333,4.000,8.500,2,2.000,1.800
+63150007,2026-02-14 16:00,CD Manchego Ciudad Real,CD Tarancon,0,2,2.150,2.900,3.300,1.75,1.775,2.025
+63150011,2026-02-14 16:00,CF La Solana,CD Marchamalo,2,5,,,,,,
+63150019,2026-02-15 10:30,CP Villarrobledo,Villarrubia CF,1,0,,,,,,
+63150003,2026-02-15 11:00,Atletico Albacete,CD Azuqueca,0,0,1.285,4.500,9.500,2.5,1.925,1.875
+63150005,2026-02-15 11:00,CD Cazalegas,CD Huracan de Balazote,1,1,2.250,3.100,2.875,2.25,2.000,1.800
+63150009,2026-02-15 11:00,CD Illescas,CD Pedroneras,0,1,1.700,3.500,4.200,2.5,2.000,1.800
+63150013,2026-02-15 11:30,AD San Clemente,CD Sonseca,2,2,,,,,,
+63150017,2026-02-15 15:30,CD Villacanas,Calvo Sotelo Puertollano,2,1,2.875,2.800,2.500,1.75,1.975,1.825
+63150015,2026-02-15 16:00,CD Toledo Sad,CD Guadalajara B,1,0,1.250,4.750,11.000,2.75,1.900,1.900
+63150039,2026-02-21 11:00,CD Tarancon,CD Illescas,2,1,1.500,3.700,5.250,2,1.800,2.000
+63150023,2026-02-21 15:00,CD Guadalajara B,CF La Solana,0,0,2.200,2.900,3.100,2,2.025,1.775
+63150027,2026-02-21 15:30,CD Marchamalo,Atletico Albacete,2,1,3.100,2.900,2.200,1.75,1.775,2.025
+63150041,2026-02-21 16:00,Villarrubia CF,CD Manchego Ciudad Real,1,0,2.600,3.000,2.550,2,2.000,1.800
+63150021,2026-02-21 16:30,CD Azuqueca,CP Villarrobledo,1,3,2.350,3.000,2.875,2,2.000,1.800
+63150037,2026-02-22 15:45,CD Sonseca,CD Cazalegas,3,0,2.400,3.000,2.625,2,1.800,2.000
+63150025,2026-02-22 16:00,CD Huracan de Balazote,CD Toledo Sad,0,1,7.000,3.900,1.420,2.25,1.825,1.975
+63150029,2026-02-22 16:00,CD Pedroneras,CD Villacanas,1,1,,,,,,
+63150035,2026-02-22 16:00,Calvo Sotelo Puertollano,AD San Clemente,1,0,1.420,3.500,8.000,2,1.825,1.975
+63150057,2026-02-28 15:30,CD Villacanas,CD Tarancon,1,1,2.600,2.800,2.700,1.75,1.925,1.875
+63150045,2026-03-01 10:30,CD Manchego Ciudad Real,CD Azuqueca,2,0,1.380,4.000,7.000,2.25,1.775,2.025
+63150043,2026-03-01 11:00,Atletico Albacete,CD Guadalajara B,1,0,1.444,3.700,7.000,2.25,1.950,1.850
+63150047,2026-03-01 11:00,CD Illescas,Villarrubia CF,0,0,2.300,3.000,2.900,2,1.800,2.000
+63150053,2026-03-01 11:30,AD San Clemente,CD Pedroneras,1,0,1.950,3.100,3.700,2.25,2.050,1.750
+63150049,2026-03-01 16:00,CF La Solana,CD Huracan de Balazote,0,1,2.200,3.000,3.100,2,1.950,1.850
+63150051,2026-03-01 16:00,Calvo Sotelo Puertollano,CD Sonseca,3,1,1.100,8.000,21.000,2.75,1.925,1.875
+63150055,2026-03-01 16:00,CD Toledo Sad,CD Cazalegas,6,0,1.062,10.000,41.000,2.75,1.950,1.850
+63150059,2026-03-01 16:00,CP Villarrobledo,CD Marchamalo,2,1,,,,,,
+63150065,2026-03-07 15:00,CD Guadalajara B,CP Villarrobledo,3,1,2.550,2.900,2.600,2,1.975,1.825
+63150069,2026-03-07 16:00,CD Marchamalo,CD Manchego Ciudad Real,2,2,3.000,3.250,2.100,2.25,1.800,2.000
+63150075,2026-03-07 16:00,CD Tarancon,AD San Clemente,1,1,,,,,,
+63150077,2026-03-07 16:30,Villarrubia CF,CD Villacanas,1,0,2.200,2.750,3.400,2,1.850,1.950
+63150061,2026-03-07 18:00,CD Azuqueca,CD Illescas,1,0,2.800,3.100,2.300,2,1.875,1.925
+63150063,2026-03-08 11:00,CD Cazalegas,CF La Solana,2,1,3.200,3.000,2.150,2,1.850,1.950
+63150071,2026-03-08 11:00,CD Pedroneras,Calvo Sotelo Puertollano,1,1,,,,,,
+63150073,2026-03-08 16:00,CD Sonseca,CD Toledo Sad,1,1,15.000,6.000,1.166,2.75,1.900,1.900
+63150067,2026-03-08 16:15,CD Huracan de Balazote,Atletico Albacete,0,1,,,,,,
+63150081,2026-03-14 16:00,CD Manchego Ciudad Real,CD Guadalajara B,1,0,1.480,3.600,6.000,2.25,1.850,1.950
+63150093,2026-03-14 16:00,CD Villacanas,CD Azuqueca,0,1,1.571,3.250,5.750,2,1.925,1.875
+63150079,2026-03-14 17:00,Atletico Albacete,CD Cazalegas,5,0,,,,,,
+63150083,2026-03-15 11:00,CD Illescas,CD Marchamalo,2,1,1.800,3.500,3.700,2.25,1.800,2.000
+63150087,2026-03-15 11:00,CD Pedroneras,CD Sonseca,1,0,,,,,,
+63150091,2026-03-15 11:30,AD San Clemente,Villarrubia CF,2,1,,,,,,
+63150085,2026-03-15 16:00,CF La Solana,CD Toledo Sad,0,0,7.500,3.700,1.420,2,1.925,1.875
+63150089,2026-03-15 16:00,Calvo Sotelo Puertollano,CD Tarancon,2,0,1.900,3.200,3.600,1.75,2.025,1.775
+63150095,2026-03-15 16:30,CP Villarrobledo,CD Huracan de Balazote,1,1,,,,,,
+63150101,2026-03-21 15:00,CD Guadalajara B,CD Illescas,0,0,2.250,3.000,2.900,2,1.925,1.875
+63150109,2026-03-21 16:00,CD Tarancon,CD Pedroneras,2,0,,,,,,
+63150113,2026-03-21 16:30,Villarrubia CF,Calvo Sotelo Puertollano,1,2,3.100,3.000,2.200,1.75,1.775,2.025
+63150105,2026-03-21 17:00,CD Marchamalo,CD Villacanas,1,0,2.250,3.000,2.900,2,1.925,1.875
+63150097,2026-03-21 18:00,CD Azuqueca,AD San Clemente,2,2,2.550,3.000,2.550,2,1.900,1.900
+63150099,2026-03-22 11:00,CD Cazalegas,CP Villarrobledo,0,2,3.600,3.250,1.900,2.25,1.975,1.825
+63150103,2026-03-22 16:00,CD Huracan de Balazote,CD Manchego Ciudad Real,0,0,3.500,3.200,1.950,2.25,1.975,1.825
+63150107,2026-03-22 16:00,CD Sonseca,CF La Solana,3,2,3.100,3.100,2.200,2,1.975,1.825
+63150111,2026-03-22 16:00,CD Toledo Sad,Atletico Albacete,0,0,,,,,,
+63150119,2026-03-28 15:00,CD Illescas,CD Huracan de Balazote,0,1,1.800,3.100,4.200,2,1.925,1.875
+63150117,2026-03-28 16:00,CD Manchego Ciudad Real,CD Cazalegas,4,1,1.200,5.250,13.000,3,1.800,2.000
+63150123,2026-03-28 16:00,Calvo Sotelo Puertollano,CD Azuqueca,1,1,,,,,,
+63150127,2026-03-28 16:00,CD Tarancon,CD Sonseca,2,1,,,,,,
+63150129,2026-03-28 16:00,CD Villacanas,CD Guadalajara B,1,1,,,,,,
+63150121,2026-03-28 16:30,CD Pedroneras,Villarrubia CF,1,0,,,,,,
+63150115,2026-03-29 10:00,Atletico Albacete,CF La Solana,4,0,,,,,,
+63150125,2026-03-29 14:30,AD San Clemente,CD Marchamalo,1,0,,,,,,
+63150131,2026-03-29 15:30,CP Villarrobledo,CD Toledo Sad,0,0,,,,,,
+63150149,2026-04-02 10:00,CD Marchamalo,Calvo Sotelo Puertollano,1,3,3.600,3.100,1.950,2.25,2.025,1.775
+63150151,2026-04-02 10:00,CD Sonseca,Atletico Albacete,0,3,,,,,,
+63150153,2026-04-02 10:00,CD Toledo Sad,CD Manchego Ciudad Real,1,0,,,,,,
+63150133,2026-04-02 10:30,CD Azuqueca,CD Pedroneras,0,1,,,,,,
+63150137,2026-04-02 10:30,CD Guadalajara B,AD San Clemente,2,1,2.050,2.950,3.500,2,1.925,1.875
+63150155,2026-04-02 10:30,Villarrubia CF,CD Tarancon,2,1,2.750,2.875,2.500,2,1.775,2.025
+63150147,2026-04-02 15:00,CF La Solana,CP Villarrobledo,1,2,,,,,,
+63150139,2026-04-03 15:00,CD Huracan de Balazote,CD Villacanas,2,0,2.875,2.800,2.500,1.75,2.000,1.800
+63150135,2026-04-05 10:00,CD Cazalegas,CD Illescas,0,1,5.000,3.600,1.571,2.25,1.900,1.900
+63150157,2026-04-11 15:00,CD Manchego Ciudad Real,CF La Solana,2,0,,,,,,
+63150159,2026-04-11 15:00,CD Illescas,CD Toledo Sad,1,1,,,,,,
+63150169,2026-04-11 15:00,CD Villacanas,CD Cazalegas,1,0,,,,,,
+63150165,2026-04-11 15:30,AD San Clemente,CD Huracan de Balazote,0,0,,,,,,
+63150167,2026-04-11 15:30,CD Tarancon,CD Azuqueca,2,1,,,,,,
+63150173,2026-04-11 16:00,Villarrubia CF,CD Sonseca,2,1,,,,,,
+63150161,2026-04-12 10:00,CD Pedroneras,CD Marchamalo,0,1,,,,,,
+63150163,2026-04-12 16:00,Calvo Sotelo Puertollano,CD Guadalajara B,4,0,,,,,,
+63150171,2026-04-12 16:00,CP Villarrobledo,Atletico Albacete,0,0,,,,,,
+63150181,2026-04-18 14:00,CD Guadalajara B,CD Pedroneras,1,1,,,,,,
+63150187,2026-04-18 16:00,CD Marchamalo,CD Tarancon,0,1,,,,,,
+63150191,2026-04-18 16:00,CD Toledo Sad,CD Villacanas,4,0,,,,,,
+63150175,2026-04-19 10:00,Atletico Albacete,CD Manchego Ciudad Real,1,1,,,,,,
+63150179,2026-04-19 10:00,CD Cazalegas,AD San Clemente,0,2,,,,,,
+63150177,2026-04-19 15:00,CD Azuqueca,Villarrubia CF,2,2,2.400,3.000,2.700,2,1.925,1.875
+63150185,2026-04-19 15:30,CF La Solana,CD Illescas,1,0,,,,,,
+63150183,2026-04-19 16:00,CD Huracan de Balazote,Calvo Sotelo Puertollano,2,1,,,,,,
+63150189,2026-04-19 16:00,CD Sonseca,CP Villarrobledo,1,2,,,,,,
+63150195,2026-04-25 15:00,CD Manchego Ciudad Real,CP Villarrobledo,0,0,,,,,,
+63150197,2026-04-25 15:00,CD Illescas,Atletico Albacete,1,0,,,,,,
+63150207,2026-04-25 15:30,CD Villacanas,CF La Solana,1,1,,,,,,
+63150205,2026-04-25 16:00,CD Tarancon,CD Guadalajara B,3,0,,,,,,
+63150209,2026-04-25 16:00,Villarrubia CF,CD Marchamalo,2,2,,,,,,
+63150203,2026-04-26 10:00,AD San Clemente,CD Toledo Sad,0,0,,,,,,
+63150193,2026-04-26 15:00,CD Azuqueca,CD Sonseca,4,1,,,,,,
+63150199,2026-04-26 16:00,CD Pedroneras,CD Huracan de Balazote,0,0,,,,,,
+63150201,2026-04-26 16:00,Calvo Sotelo Puertollano,CD Cazalegas,1,0,,,,,,
+63150211,2026-05-03 16:00,Atletico Albacete,CD Villacanas,0,0,,,,,,
+63150213,2026-05-03 16:00,CD Cazalegas,CD Pedroneras,0,0,,,,,,
+63150215,2026-05-03 16:00,CD Manchego Ciudad Real,CD Sonseca,0,2,,,,,,
+63150217,2026-05-03 16:00,CD Guadalajara B,Villarrubia CF,2,0,,,,,,
+63150219,2026-05-03 16:00,CD Huracan de Balazote,CD Tarancon,0,0,,,,,,
+63150221,2026-05-03 16:00,CF La Solana,AD San Clemente,4,1,,,,,,
+63150223,2026-05-03 16:00,CD Marchamalo,CD Azuqueca,0,0,,,,,,
+63150225,2026-05-03 16:00,CD Toledo Sad,Calvo Sotelo Puertollano,0,2,1.750,3.100,4.500,2,1.850,1.950
+63150227,2026-05-03 16:00,CP Villarrobledo,CD Illescas,0,0,,,,,,
+63150243,2026-05-09 14:00,CD Villacanas,CP Villarrobledo,0,0,,,,,,
+63150245,2026-05-09 17:00,Villarrubia CF,CD Huracan de Balazote,0,0,,,,,,
+63150229,2026-05-10 14:30,CD Azuqueca,CD Guadalajara B,2,0,,,,,,
+63150231,2026-05-10 16:00,CD Illescas,CD Manchego Ciudad Real,0,0,,,,,,
+63150233,2026-05-10 16:00,CD Pedroneras,CD Toledo Sad,0,0,,,,,,
+63150235,2026-05-10 16:00,Calvo Sotelo Puertollano,CF La Solana,1,0,,,,,,
+63150237,2026-05-10 16:00,AD San Clemente,Atletico Albacete,0,0,,,,,,
+63150239,2026-05-10 16:00,CD Sonseca,CD Marchamalo,1,0,,,,,,
+63150241,2026-05-10 16:00,CD Tarancon,CD Cazalegas,0,0,,,,,,
+71483872,2026-05-17 09:30,CD Manchego Ciudad Real,CD Tarancon,0,0,2.500,2.800,2.800,1.75,1.825,1.975
+71483876,2026-05-17 10:00,Atletico Albacete,CD Toledo Sad,0,0,,,,,,
+71483880,2026-05-23 18:00,CD Tarancon,CD Manchego Ciudad Real,0,1,,,,,,
+71483882,2026-05-24 16:00,CD Toledo Sad,Atletico Albacete,0,1,,,,,,
+71741624,2026-05-30 18:00,CD Manchego Ciudad Real,Atletico Albacete,2,0,,,,,,
+71741626,2026-06-06 18:00,Atletico Albacete,CD Manchego Ciudad Real,3,0,,,,,,
+73560264,2026-09-05 14:30,CD Guadalajara B,CD Torrijos,0,1,2.150,2.800,3.300,2,1.900,1.900
+73560268,2026-09-05 16:00,CD Villacanas,CD Huracan de Balazote,3,0,,,,,,
+73560254,2026-09-05 17:00,CD Noblejas,UD Almansa,3,2,2.100,3.300,3.000,2.5,1.900,1.900
+73560256,2026-09-05 17:00,Villarrubia CF,AD San Clemente,1,1,,,,,,
+73560262,2026-09-05 17:00,CD Tarancon,CD Illescas,0,1,,,,,,
+73560266,2026-09-05 17:30,CD Marchamalo,CD Villa,2,0,1.727,3.250,4.500,2.25,1.800,2.000
+73560252,2026-09-05 18:00,CF La Solana,CD Manchego Ciudad Real,0,1,4.750,3.500,1.666,2.5,2.000,1.800
+73560260,2026-09-06 16:30,UD Socuellamos CF,CP Villarrobledo,0,0,,,,,,
+73560258,2026-09-06 17:00,CD Quintanar del Rey,CD Toledo Sad,2,4,2.550,2.875,2.700,2,2.025,1.775
+73560272,2026-09-12 17:00,CD Manchego Ciudad Real,CD Villacanas,2,0,2.150,2.875,3.300,2,2.025,1.775
+73560278,2026-09-12 17:00,CD Toledo Sad,Villarrubia CF,1,1,,,,,,
+73560286,2026-09-12 17:30,CD Villa,CD Guadalajara B,1,0,,,,,,
+73560270,2026-09-13 10:00,CD Huracan de Balazote,CD Marchamalo,0,2,3.100,3.000,2.200,2,1.850,1.950
+73560274,2026-09-13 10:00,UD Almansa,CF La Solana,3,0,2.050,3.200,3.200,2.25,1.825,1.975
+73560276,2026-09-13 10:00,AD San Clemente,CD Noblejas,1,1,1.850,3.300,3.700,2.25,1.950,1.850
+73560282,2026-09-13 10:00,CD Illescas,UD Socuellamos CF,0,0,,,,,,
+73560284,2026-09-13 15:30,CD Torrijos,CD Tarancon,1,0,3.200,3.000,2.150,2,1.950,1.850
+73560280,2026-09-13 17:00,CP Villarrobledo,CD Quintanar del Rey,1,1,3.100,3.000,2.200,2.25,2.050,1.750
+73560290,2026-09-19 15:30,CD Villacanas,UD Almansa,0,0,,,,,,
+73560302,2026-09-19 16:00,CD Tarancon,CD Villa,2,1,,,,,,
+73560292,2026-09-19 17:00,CF La Solana,AD San Clemente,4,0,2.500,3.000,2.600,2,1.825,1.975
+73560294,2026-09-19 17:00,CD Noblejas,CD Toledo Sad,2,1,5.250,3.700,1.533,2.25,1.800,2.000
+73560296,2026-09-19 17:00,Villarrubia CF,CP Villarrobledo,0,4,2.000,3.100,3.600,2,1.825,1.975
+73560288,2026-09-20 10:00,CD Huracan de Balazote,CD Manchego Ciudad Real,0,1,3.500,3.200,1.950,2.25,2.050,1.750
+73560300,2026-09-20 10:00,UD Socuellamos CF,CD Torrijos,1,1,,,,,,
+73560298,2026-09-20 17:00,CD Quintanar del Rey,CD Illescas,2,2,2.700,2.875,2.550,2,1.750,2.050
+73560304,2026-09-20 17:15,CD Marchamalo,CD Guadalajara B,2,2,1.850,3.100,3.900,2.25,1.900,1.900
+73560322,2026-09-26 14:00,CD Guadalajara B,CD Tarancon,2,6,3.300,3.250,2.000,2,1.775,2.025
+73560306,2026-09-27 09:30,CD Manchego Ciudad Real,CD Marchamalo,3,2,1.700,3.400,4.333,2.25,1.775,2.025
+73560308,2026-09-27 10:00,UD Almansa,CD Huracan de Balazote,3,1,1.750,3.400,4.000,2.25,2.025,1.775
+73560316,2026-09-27 10:00,CD Illescas,Villarrubia CF,2,0,1.833,3.100,4.200,2.25,2.000,1.800
+73560310,2026-09-27 10:30,AD San Clemente,CD Villacanas,0,2,,,,,,
+73560318,2026-09-27 15:30,CD Torrijos,CD Quintanar del Rey,2,0,2.800,3.000,2.400,2,1.775,2.025
+73560312,2026-09-27 16:00,CD Toledo Sad,CF La Solana,4,0,1.250,4.500,10.000,2.5,1.850,1.950
+73560314,2026-09-27 16:00,CP Villarrobledo,CD Noblejas,2,0,,,,,,
+73560320,2026-09-27 16:00,CD Villa,UD Socuellamos CF,2,0,,,,,,
+73560338,2026-10-03 15:30,CD Villacanas,CD Toledo Sad,1,2,,,,,,
+73560324,2026-10-03 16:00,CD Noblejas,CD Illescas,1,2,,,,,,
+73560332,2026-10-03 16:30,CD Marchamalo,CD Tarancon,2,2,,,,,,
+73560340,2026-10-03 17:00,CF La Solana,CP Villarrobledo,0,1,2.875,3.100,2.300,2,1.850,1.950
+73560334,2026-10-04 09:30,CD Manchego Ciudad Real,UD Almansa,1,0,1.533,3.700,5.250,2.5,2.025,1.775
+73560326,2026-10-04 10:00,Villarrubia CF,CD Torrijos,1,1,,,,,,
+73560330,2026-10-04 10:00,UD Socuellamos CF,CD Guadalajara B,2,2,,,,,,
+73560336,2026-10-04 10:00,CD Huracan de Balazote,AD San Clemente,3,5,,,,,,
+73560328,2026-10-04 15:30,CD Quintanar del Rey,CD Villa,0,2,1.550,3.600,5.250,2.5,1.950,1.850
+73560356,2026-10-10 14:00,CD Guadalajara B,CD Quintanar del Rey,0,1,2.375,3.100,2.700,2.25,1.975,1.825
+73560342,2026-10-10 15:00,UD Almansa,CD Marchamalo,3,1,2.200,3.250,2.875,2.5,2.025,1.775
+73560358,2026-10-10 15:00,CD Tarancon,UD Socuellamos CF,1,0,1.850,3.300,3.750,2.25,1.850,1.950
+73560344,2026-10-11 09:30,AD San Clemente,CD Manchego Ciudad Real,3,1,,,,,,
+73560350,2026-10-11 10:00,CD Illescas,CF La Solana,1,0,1.500,3.900,5.250,2.25,1.875,1.925
+73560352,2026-10-11 15:00,CD Torrijos,CD Noblejas,4,0,,,,,,
+73560354,2026-10-11 15:00,CD Villa,Villarrubia CF,2,1,,,,,,
+73560346,2026-10-11 16:00,CD Toledo Sad,CD Huracan de Balazote,3,1,1.200,5.250,12.000,2.5,1.925,1.875
+73560348,2026-10-11 16:00,CP Villarrobledo,CD Villacanas,0,0,,,,,,
+73560366,2026-10-17 14:30,CD Villacanas,CD Illescas,4,3,,,,,,
+73560370,2026-10-17 14:30,CD Noblejas,CD Villa,3,0,2.300,3.250,2.700,2.5,2.000,1.800
+73560376,2026-10-17 15:00,CD Marchamalo,UD Socuellamos CF,1,0,2.250,3.000,3.000,2.25,1.950,1.850
+73560362,2026-10-17 16:00,CD Manchego Ciudad Real,CD Toledo Sad,1,0,2.550,2.900,2.550,2,1.900,1.900
+73560368,2026-10-17 17:00,CF La Solana,CD Torrijos,2,0,,,,,,
+73560360,2026-10-18 10:00,UD Almansa,AD San Clemente,1,1,1.833,3.300,3.700,2.25,1.800,2.000
+73560372,2026-10-18 10:00,Villarrubia CF,CD Guadalajara B,4,0,1.833,3.250,3.800,2.25,1.925,1.875
+73560364,2026-10-18 15:00,CD Huracan de Balazote,CP Villarrobledo,1,1,,,,,,
+73560374,2026-10-18 15:30,CD Quintanar del Rey,CD Tarancon,1,2,,,,,,
+73560390,2026-10-24 14:00,CD Guadalajara B,CD Noblejas,1,4,2.500,3.100,2.550,2.25,1.850,1.950
+73560392,2026-10-24 15:00,CD Tarancon,Villarrubia CF,1,1,,,,,,
+73560384,2026-10-25 11:00,CD Illescas,CD Huracan de Balazote,0,1,1.420,4.100,6.000,2.5,1.850,1.950
+73560394,2026-10-25 11:00,UD Socuellamos CF,CD Quintanar del Rey,2,1,2.100,3.100,3.200,2.25,1.975,1.825
+73560378,2026-10-25 11:30,AD San Clemente,CD Marchamalo,3,1,,,,,,
+73560380,2026-10-25 15:30,CD Toledo Sad,UD Almansa,2,0,1.363,4.100,7.500,2.5,1.850,1.950
+73560388,2026-10-25 15:30,CD Villa,CF La Solana,1,0,,,,,,
+73560382,2026-10-25 16:00,CP Villarrobledo,CD Manchego Ciudad Real,1,0,,,,,,
+73560386,2026-10-25 16:00,CD Torrijos,CD Villacanas,0,3,2.300,3.000,2.900,2,1.850,1.950
+73560404,2026-10-31 15:30,CD Villacanas,CD Villa,4,1,,,,,,
+73560408,2026-10-31 15:30,CD Noblejas,CD Tarancon,2,2,2.250,3.100,2.800,2.25,1.850,1.950
+73560396,2026-10-31 16:00,AD San Clemente,CD Toledo Sad,2,3,,,,,,
+73560402,2026-10-31 16:00,CD Huracan de Balazote,CD Torrijos,1,0,,,,,,
+73560412,2026-10-31 16:00,CD Marchamalo,CD Quintanar del Rey,3,3,,,,,,
+73560400,2026-10-31 17:00,CD Manchego Ciudad Real,CD Illescas,4,1,2.100,3.000,3.250,2.25,2.025,1.775
+73560398,2026-11-01 11:00,UD Almansa,CP Villarrobledo,1,1,2.450,3.100,2.600,2.25,1.950,1.850
+73560410,2026-11-01 11:00,Villarrubia CF,UD Socuellamos CF,1,0,2.150,3.100,3.000,2.25,1.975,1.825
+73560406,2026-11-01 16:00,CF La Solana,CD Guadalajara B,1,0,1.850,3.200,3.700,2.25,2.025,1.775
+73560424,2026-11-07 15:00,CD Guadalajara B,CD Villacanas,2,2,3.700,3.400,1.833,2.25,1.875,1.925
+73560418,2026-11-08 11:00,CD Illescas,UD Almansa,1,0,1.727,3.400,4.100,2.5,2.000,1.800
+73560428,2026-11-08 11:00,UD Socuellamos CF,CD Noblejas,2,0,1.850,3.500,3.500,2.5,1.925,1.875
+73560414,2026-11-08 15:30,CD Toledo Sad,CD Marchamalo,2,0,,,,,,
+73560420,2026-11-08 15:30,CD Torrijos,CD Manchego Ciudad Real,1,4,2.800,3.200,2.250,2.25,1.925,1.875
+73560422,2026-11-08 15:30,CD Villa,CD Huracan de Balazote,5,1,,,,,,
+73560430,2026-11-08 15:30,CD Quintanar del Rey,Villarrubia CF,1,2,,,,,,
+73560416,2026-11-08 16:00,CP Villarrobledo,AD San Clemente,0,2,,,,,,
+73560426,2026-11-08 16:00,CD Tarancon,CF La Solana,0,2,,,,,,

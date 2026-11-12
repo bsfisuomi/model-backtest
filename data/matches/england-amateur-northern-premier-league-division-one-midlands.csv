@@ -1,60 +1,60 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-29369978619,2026-10-13 18:45,Bedworth United,Carlton Town,1,1,2.350,3.500,2.450
-30915938140,2026-10-13 18:45,Long Eaton United FC,Wellingborough Town,1,4,4.000,4.100,1.615
-31826440815,2026-10-13 18:45,Bourne Town,Shepshed Dynamo,1,3,,,
-31836945234,2026-10-13 18:45,Mickleover FC,Boldmere St Michaels FC,2,0,,,
-28440139269,2026-10-17 14:00,Bourne Town,Barwell FC,2,2,,,
-29111405442,2026-10-17 14:00,Grantham Town,Carlton Town,2,2,,,
-29516714358,2026-10-17 14:00,Coventry United,Loughborough Students,0,3,2.250,3.500,2.625
-29917683312,2026-10-17 14:00,Coleshill Town,Shepshed Dynamo,1,5,,,
-30351199147,2026-10-17 14:00,Long Eaton United FC,St Ives Town,3,1,2.000,3.700,3.000
-30575196469,2026-10-17 14:00,Boston Town,Basford United,1,2,,,
-31394886494,2026-10-17 14:00,Sutton Coldfield Town,Bedworth United,1,1,,,
-31794257799,2026-10-17 14:00,Corby Town,Wellingborough Town,1,4,,,
-31924868197,2026-10-17 14:00,Nuneaton Town,Belper Town FC,1,2,1.900,3.700,3.100
-32247731251,2026-10-17 14:00,Rugby Borough,Boldmere St Michaels FC,1,0,,,
-29688217266,2026-10-19 18:45,Barwell FC,Nuneaton Town,1,0,2.900,3.400,2.100
-29001705864,2026-10-20 18:45,Bourne Town,Mickleover FC,2,3,,,
-30415751406,2026-10-20 18:45,Wellingborough Town,Loughborough Students,4,0,,,
-31086813253,2026-10-20 18:45,Boldmere St Michaels FC,AFC Rushden & Diamonds,1,1,2.450,3.500,2.375
-31818381870,2026-10-20 18:45,Shepshed Dynamo,St Ives Town,6,0,1.380,4.500,5.750
-28259976165,2026-10-21 18:45,Coventry United,Basford United,1,3,2.250,3.500,2.600
-28382823697,2026-10-24 14:00,Wellingborough Town,Coleshill Town,5,4,,,
-28702272796,2026-10-24 14:00,Shepshed Dynamo,Sutton Coldfield Town,0,4,,,
-29032992096,2026-10-24 14:00,Belper Town FC,AFC Rushden & Diamonds,1,2,,,
-30009336257,2026-10-24 14:00,Barwell FC,Corby Town,4,0,,,
-30432087926,2026-10-24 14:00,Basford United,Grantham Town,2,4,,,
-30756736019,2026-10-24 14:00,St Ives Town,Coventry United,1,3,,,
-30936944479,2026-10-24 14:00,Bedworth United,Long Eaton United FC,3,0,,,
-30962958429,2026-10-24 14:00,Boldmere St Michaels FC,Nuneaton Town,2,1,,,
-28143066828,2026-10-27 19:45,Basford United,Bourne Town,4,2,,,
-28268709009,2026-10-27 19:45,Loughborough Students,AFC Rushden & Diamonds,1,0,2.900,3.700,2.000
-29782889421,2026-10-27 19:45,Corby Town,Mickleover FC,2,0,,,
-29968237224,2026-10-27 19:45,Wellingborough Town,Boldmere St Michaels FC,4,1,,,
-30118622089,2026-10-27 19:45,Sutton Coldfield Town,Long Eaton United FC,3,1,,,
-28949481438,2026-10-31 15:00,Wellingborough Town,Sutton Coldfield Town,2,1,,,
-29003379919,2026-10-31 15:00,Barwell FC,Coleshill Town,1,1,,,
-29132302068,2026-10-31 15:00,Boldmere St Michaels FC,Long Eaton United FC,1,3,,,
-29279275031,2026-10-31 15:00,Rugby Borough,St Ives Town,2,0,,,
-30407869757,2026-10-31 15:00,Corby Town,Shepshed Dynamo,0,0,,,
-30694107218,2026-10-31 15:00,Basford United,Mickleover FC,1,2,,,
-31061555709,2026-10-31 15:00,Loughborough Students,Bedworth United,3,1,,,
-31119241679,2026-10-31 15:00,Grantham Town,Boston Town,2,2,,,
-31271087910,2026-10-31 15:00,Carlton Town,AFC Rushden & Diamonds,4,2,,,
-31354520281,2026-10-31 15:00,Bourne Town,Belper Town FC,1,2,,,
-32210920120,2026-10-31 15:00,Nuneaton Town,Coventry United,3,1,,,
-29737058040,2026-11-03 19:45,Nuneaton Town,Corby Town,0,0,1.571,4.000,4.500
-28047842743,2026-11-07 15:00,St Ives Town,Loughborough Students,1,2,,,
-28111587940,2026-11-07 15:00,Mickleover FC,Grantham Town,2,0,,,
-28354263112,2026-11-07 15:00,Shepshed Dynamo,Wellingborough Town,3,3,2.450,3.600,2.350
-30442924419,2026-11-07 15:00,Long Eaton United FC,Nuneaton Town,0,2,,,
-30858768254,2026-11-07 15:00,Belper Town FC,Carlton Town,1,0,,,
-30904260098,2026-11-07 15:00,Rugby Borough,Coventry United,4,4,,,
-31053644444,2026-11-07 15:00,Coleshill Town,Corby Town,3,4,,,
-31309281218,2026-11-07 15:00,Boston Town,Boldmere St Michaels FC,1,1,,,
-31531869482,2026-11-07 15:00,Bedworth United,Barwell FC,1,1,,,
-32142575706,2026-11-07 15:00,Sutton Coldfield Town,Basford United,2,1,,,
-28044935047,2026-11-10 19:45,Loughborough Students,Rugby Borough,3,2,1.800,3.750,3.500
-29337654550,2026-11-10 19:45,Carlton Town,Bourne Town,4,1,,,
-31192867722,2026-11-10 19:45,Mickleover FC,Boston Town,2,0,,,
-28017652129,2026-11-11 19:45,Coventry United,AFC Rushden & Diamonds,1,0,2.800,4.000,1.950
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+29369978619,2026-10-13 18:45,Bedworth United,Carlton Town,1,1,2.350,3.500,2.450,2.5,1.800,2.000
+30915938140,2026-10-13 18:45,Long Eaton United FC,Wellingborough Town,1,4,4.000,4.100,1.615,3,1.825,1.975
+31826440815,2026-10-13 18:45,Bourne Town,Shepshed Dynamo,1,3,,,,,,
+31836945234,2026-10-13 18:45,Mickleover FC,Boldmere St Michaels FC,2,0,,,,,,
+28440139269,2026-10-17 14:00,Bourne Town,Barwell FC,2,2,,,,,,
+29111405442,2026-10-17 14:00,Grantham Town,Carlton Town,2,2,,,,,,
+29516714358,2026-10-17 14:00,Coventry United,Loughborough Students,0,3,2.250,3.500,2.625,2.75,1.950,1.850
+29917683312,2026-10-17 14:00,Coleshill Town,Shepshed Dynamo,1,5,,,,,,
+30351199147,2026-10-17 14:00,Long Eaton United FC,St Ives Town,3,1,2.000,3.700,3.000,2.75,1.975,1.825
+30575196469,2026-10-17 14:00,Boston Town,Basford United,1,2,,,,,,
+31394886494,2026-10-17 14:00,Sutton Coldfield Town,Bedworth United,1,1,,,,,,
+31794257799,2026-10-17 14:00,Corby Town,Wellingborough Town,1,4,,,,,,
+31924868197,2026-10-17 14:00,Nuneaton Town,Belper Town FC,1,2,1.900,3.700,3.100,2.75,1.850,1.950
+32247731251,2026-10-17 14:00,Rugby Borough,Boldmere St Michaels FC,1,0,,,,,,
+29688217266,2026-10-19 18:45,Barwell FC,Nuneaton Town,1,0,2.900,3.400,2.100,3,2.000,1.800
+29001705864,2026-10-20 18:45,Bourne Town,Mickleover FC,2,3,,,,,,
+30415751406,2026-10-20 18:45,Wellingborough Town,Loughborough Students,4,0,,,,,,
+31086813253,2026-10-20 18:45,Boldmere St Michaels FC,AFC Rushden & Diamonds,1,1,2.450,3.500,2.375,3,1.900,1.900
+31818381870,2026-10-20 18:45,Shepshed Dynamo,St Ives Town,6,0,1.380,4.500,5.750,2.75,1.850,1.950
+28259976165,2026-10-21 18:45,Coventry United,Basford United,1,3,2.250,3.500,2.600,2.75,1.900,1.900
+28382823697,2026-10-24 14:00,Wellingborough Town,Coleshill Town,5,4,,,,,,
+28702272796,2026-10-24 14:00,Shepshed Dynamo,Sutton Coldfield Town,0,4,,,,,,
+29032992096,2026-10-24 14:00,Belper Town FC,AFC Rushden & Diamonds,1,2,,,,,,
+30009336257,2026-10-24 14:00,Barwell FC,Corby Town,4,0,,,,,,
+30432087926,2026-10-24 14:00,Basford United,Grantham Town,2,4,,,,,,
+30756736019,2026-10-24 14:00,St Ives Town,Coventry United,1,3,,,,,,
+30936944479,2026-10-24 14:00,Bedworth United,Long Eaton United FC,3,0,,,,,,
+30962958429,2026-10-24 14:00,Boldmere St Michaels FC,Nuneaton Town,2,1,,,,,,
+28143066828,2026-10-27 19:45,Basford United,Bourne Town,4,2,,,,,,
+28268709009,2026-10-27 19:45,Loughborough Students,AFC Rushden & Diamonds,1,0,2.900,3.700,2.000,3,1.800,2.000
+29782889421,2026-10-27 19:45,Corby Town,Mickleover FC,2,0,,,,,,
+29968237224,2026-10-27 19:45,Wellingborough Town,Boldmere St Michaels FC,4,1,,,,,,
+30118622089,2026-10-27 19:45,Sutton Coldfield Town,Long Eaton United FC,3,1,,,,,,
+28949481438,2026-10-31 15:00,Wellingborough Town,Sutton Coldfield Town,2,1,,,,,,
+29003379919,2026-10-31 15:00,Barwell FC,Coleshill Town,1,1,,,,,,
+29132302068,2026-10-31 15:00,Boldmere St Michaels FC,Long Eaton United FC,1,3,,,,,,
+29279275031,2026-10-31 15:00,Rugby Borough,St Ives Town,2,0,,,,,,
+30407869757,2026-10-31 15:00,Corby Town,Shepshed Dynamo,0,0,,,,,,
+30694107218,2026-10-31 15:00,Basford United,Mickleover FC,1,2,,,,,,
+31061555709,2026-10-31 15:00,Loughborough Students,Bedworth United,3,1,,,,,,
+31119241679,2026-10-31 15:00,Grantham Town,Boston Town,2,2,,,,,,
+31271087910,2026-10-31 15:00,Carlton Town,AFC Rushden & Diamonds,4,2,,,,,,
+31354520281,2026-10-31 15:00,Bourne Town,Belper Town FC,1,2,,,,,,
+32210920120,2026-10-31 15:00,Nuneaton Town,Coventry United,3,1,,,,,,
+29737058040,2026-11-03 19:45,Nuneaton Town,Corby Town,0,0,1.571,4.000,4.500,3,1.825,1.975
+28047842743,2026-11-07 15:00,St Ives Town,Loughborough Students,1,2,,,,,,
+28111587940,2026-11-07 15:00,Mickleover FC,Grantham Town,2,0,,,,,,
+28354263112,2026-11-07 15:00,Shepshed Dynamo,Wellingborough Town,3,3,2.450,3.600,2.350,2.75,1.975,1.825
+30442924419,2026-11-07 15:00,Long Eaton United FC,Nuneaton Town,0,2,,,,,,
+30858768254,2026-11-07 15:00,Belper Town FC,Carlton Town,1,0,,,,,,
+30904260098,2026-11-07 15:00,Rugby Borough,Coventry United,4,4,,,,,,
+31053644444,2026-11-07 15:00,Coleshill Town,Corby Town,3,4,,,,,,
+31309281218,2026-11-07 15:00,Boston Town,Boldmere St Michaels FC,1,1,,,,,,
+31531869482,2026-11-07 15:00,Bedworth United,Barwell FC,1,1,,,,,,
+32142575706,2026-11-07 15:00,Sutton Coldfield Town,Basford United,2,1,,,,,,
+28044935047,2026-11-10 19:45,Loughborough Students,Rugby Borough,3,2,1.800,3.750,3.500,3,2.000,1.800
+29337654550,2026-11-10 19:45,Carlton Town,Bourne Town,4,1,,,,,,
+31192867722,2026-11-10 19:45,Mickleover FC,Boston Town,2,0,,,,,,
+28017652129,2026-11-11 19:45,Coventry United,AFC Rushden & Diamonds,1,0,2.800,4.000,1.950,3.25,1.850,1.950

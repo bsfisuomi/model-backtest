@@ -1,4 +1,4 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-76463318,2026-11-06 19:00,Birzebbuga St. Peters FC,Mosta FC,0,0,2.375,3.400,2.450
-76463320,2026-11-07 15:45,Gzira United FC,Balzan FC,0,3,3.400,3.500,1.900
-76463322,2026-11-08 10:00,Birkirkara FC,Zabbar Saint Patrick FC,1,1,1.800,3.500,3.750
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+76463318,2026-11-06 19:00,Birzebbuga St. Peters FC,Mosta FC,0,0,2.375,3.400,2.450,2.75,1.950,1.850
+76463320,2026-11-07 15:45,Gzira United FC,Balzan FC,0,3,3.400,3.500,1.900,2.5,1.900,1.900
+76463322,2026-11-08 10:00,Birkirkara FC,Zabbar Saint Patrick FC,1,1,1.800,3.500,3.750,2.5,1.950,1.850

@@ -1,282 +1,282 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-62754025,2025-09-07 13:00,US Vibonese Calcio,ASD Paterno Calcio,2,1,,,
-62754027,2025-09-07 14:00,Vigor Lamezia,ASD Citta di Acireale 1946,1,0,,,
-62754041,2025-09-14 13:00,Reggina 1914,SSD Nissa FC,1,0,,,
-62754043,2025-09-14 13:00,AS Sambiase,ASD Castrumfavara,1,1,,,
-62754051,2025-09-21 13:00,ASD Gelbison,SSD Nissa FC,1,2,,,
-62754081,2025-09-24 14:00,AS Sambiase,US Vibonese Calcio,3,0,,,
-62754079,2025-09-24 18:30,Reggina 1914,ASD Gelbison,2,3,,,
-62754087,2025-09-28 13:00,ASD Gelbison,SS Milazzo,1,1,,,
-62754115,2025-10-05 13:00,Reggina 1914,ASD Ragusa Calcio,2,0,,,
-62754153,2025-10-19 13:00,AS Sambiase,ACR Messina,1,1,,,
-62754183,2025-11-02 13:30,SSD Nissa FC,ACR Messina,1,0,,,
-64854790,2025-11-05 13:30,ASD Citta di Acireale 1946,ASD Paterno Calcio,2,1,,,
-62754265,2025-11-30 13:30,US Vibonese Calcio,Igea Virtus Barcellona,0,1,,,
-62754281,2025-12-07 13:30,AS Sambiase,SS Milazzo,0,1,,,
-62754285,2025-12-14 13:30,ACR Messina,Igea Virtus Barcellona,1,0,2.350,3.100,2.750
-62754287,2025-12-14 13:30,ASD Castrumfavara,ASD Paterno Calcio,1,1,,,
-62754289,2025-12-14 13:30,ASD Gelbison,Enna Calcio SCSD,2,1,,,
-62754291,2025-12-14 13:30,SSD Nissa FC,AS Sambiase,0,0,1.850,3.200,3.900
-62754293,2025-12-14 13:30,Reggina 1914,SS Milazzo,2,0,1.600,3.750,4.500
-62754295,2025-12-14 13:30,AC Savoia 1908,Ssd Athletic Club Palermo,3,1,,,
-62754297,2025-12-14 13:30,ASD Ragusa Calcio,ASD Citta di Acireale 1946,2,0,,,
-62754299,2025-12-14 13:30,US Vibonese Calcio,Gela,1,2,2.100,3.200,3.000
-62754301,2025-12-14 13:30,Vigor Lamezia,ASD Sancataldese Calcio,2,1,2.000,3.100,3.400
-62754303,2025-12-21 13:30,ASD Citta di Acireale 1946,US Vibonese Calcio,2,2,2.400,3.200,2.625
-62754305,2025-12-21 13:30,Ssd Athletic Club Palermo,ASD Ragusa Calcio,2,1,1.650,3.400,4.750
-62754309,2025-12-21 13:30,Gela,ASD Gelbison,0,2,,,
-62754311,2025-12-21 13:30,Igea Virtus Barcellona,Vigor Lamezia,1,1,,,
-62754313,2025-12-21 13:30,SS Milazzo,ACR Messina,0,0,,,
-62754315,2025-12-21 13:30,ASD Paterno Calcio,SSD Nissa FC,0,3,,,
-62754317,2025-12-21 13:30,AS Sambiase,Reggina 1914,0,1,,,
-62754321,2025-12-21 13:30,ASD Sancataldese Calcio,AC Savoia 1908,3,1,,,
-62754323,2026-01-04 13:30,ASD Citta di Acireale 1946,Vigor Lamezia,1,1,,,
-62754325,2026-01-04 13:30,Ssd Athletic Club Palermo,ACR Messina,4,0,1.615,3.400,5.000
-62754327,2026-01-04 13:30,Enna Calcio SCSD,ASD Ragusa Calcio,0,0,,,
-62754329,2026-01-04 13:30,Gela,AC Savoia 1908,1,2,,,
-62754331,2026-01-04 13:30,SS Milazzo,SSD Nissa FC,1,1,,,
-62754333,2026-01-04 13:30,ASD Paterno Calcio,US Vibonese Calcio,0,0,,,
-62754335,2026-01-04 13:30,Reggina 1914,ASD Castrumfavara,2,0,1.250,5.000,8.000
-62754337,2026-01-04 13:30,AS Sambiase,ASD Gelbison,2,1,1.800,3.100,4.200
-62754339,2026-01-04 13:30,ASD Sancataldese Calcio,Igea Virtus Barcellona,0,3,,,
-62754341,2026-01-11 13:30,ACR Messina,ASD Sancataldese Calcio,1,1,,,
-62754343,2026-01-11 13:30,ASD Castrumfavara,AS Sambiase,0,2,3.600,3.000,2.000
-62754345,2026-01-11 13:30,ASD Gelbison,ASD Paterno Calcio,3,0,,,
-62754347,2026-01-11 13:30,Igea Virtus Barcellona,SS Milazzo,2,0,,,
-62754349,2026-01-11 13:30,SSD Nissa FC,Reggina 1914,1,2,3.400,3.250,1.950
-62754351,2026-01-11 13:30,AC Savoia 1908,ASD Citta di Acireale 1946,2,2,1.450,3.900,5.750
-62754353,2026-01-11 13:30,ASD Ragusa Calcio,Gela,2,3,,,
-62754355,2026-01-11 13:30,US Vibonese Calcio,Enna Calcio SCSD,1,3,1.900,3.250,3.500
-62754357,2026-01-11 13:30,Vigor Lamezia,Ssd Athletic Club Palermo,2,3,3.400,3.400,1.909
-62754359,2026-01-18 13:30,ASD Citta di Acireale 1946,Igea Virtus Barcellona,3,3,,,
-62754361,2026-01-18 13:30,Ssd Athletic Club Palermo,ASD Sancataldese Calcio,2,1,,,
-62754365,2026-01-18 13:30,Gela,ACR Messina,1,0,,,
-62754367,2026-01-18 13:30,SS Milazzo,ASD Castrumfavara,1,0,,,
-62754369,2026-01-18 13:30,SSD Nissa FC,ASD Gelbison,0,0,,,
-62754371,2026-01-18 13:30,ASD Paterno Calcio,AC Savoia 1908,0,3,,,
-62754373,2026-01-18 13:30,Reggina 1914,US Vibonese Calcio,3,0,1.450,3.800,6.500
-62754375,2026-01-18 13:30,AS Sambiase,ASD Ragusa Calcio,1,1,,,
-62754377,2026-01-25 13:30,ACR Messina,ASD Citta di Acireale 1946,2,1,,,
-62754379,2026-01-25 13:30,ASD Castrumfavara,SSD Nissa FC,0,1,3.400,3.250,1.950
-62754381,2026-01-25 13:30,ASD Gelbison,Reggina 1914,0,1,,,
-62754383,2026-01-25 13:30,Igea Virtus Barcellona,Ssd Athletic Club Palermo,1,0,,,
-62754385,2026-01-25 13:30,ASD Sancataldese Calcio,SS Milazzo,1,2,,,
-62754387,2026-01-25 13:30,AC Savoia 1908,Enna Calcio SCSD,2,2,,,
-62754389,2026-01-25 13:30,ASD Ragusa Calcio,ASD Paterno Calcio,5,1,,,
-62754391,2026-01-25 13:30,US Vibonese Calcio,AS Sambiase,2,0,,,
-62754393,2026-01-25 13:30,Vigor Lamezia,Gela,2,0,2.300,3.100,2.800
-62754395,2026-02-01 13:30,ASD Citta di Acireale 1946,Ssd Athletic Club Palermo,0,4,,,
-62754397,2026-02-01 13:30,ASD Castrumfavara,US Vibonese Calcio,2,1,,,
-62754399,2026-02-01 13:30,Enna Calcio SCSD,Igea Virtus Barcellona,1,1,,,
-62754401,2026-02-01 13:30,Gela,ASD Sancataldese Calcio,2,0,,,
-62754403,2026-02-01 13:30,SS Milazzo,ASD Gelbison,1,3,,,
-62754405,2026-02-01 13:30,SSD Nissa FC,ASD Ragusa Calcio,1,0,,,
-62754407,2026-02-01 13:30,ASD Paterno Calcio,ACR Messina,0,1,,,
-62754409,2026-02-01 13:30,Reggina 1914,AC Savoia 1908,1,1,1.650,3.400,4.500
-62754411,2026-02-01 13:30,AS Sambiase,Vigor Lamezia,0,1,,,
-62754413,2026-02-08 13:30,ACR Messina,Enna Calcio SCSD,2,5,,,
-62754415,2026-02-08 13:30,Ssd Athletic Club Palermo,SS Milazzo,1,0,,,
-62754417,2026-02-08 13:30,ASD Gelbison,ASD Castrumfavara,2,0,,,
-62754419,2026-02-08 13:30,Igea Virtus Barcellona,Gela,3,0,,,
-62754421,2026-02-08 13:30,ASD Sancataldese Calcio,ASD Citta di Acireale 1946,1,1,,,
-62754423,2026-02-08 13:30,AC Savoia 1908,AS Sambiase,2,1,,,
-62754425,2026-02-08 13:30,ASD Ragusa Calcio,Reggina 1914,0,1,,,
-62754427,2026-02-08 13:30,US Vibonese Calcio,SSD Nissa FC,0,1,2.375,3.100,2.700
-62754429,2026-02-08 13:30,Vigor Lamezia,ASD Paterno Calcio,6,0,1.480,3.750,6.000
-62754431,2026-02-15 13:30,ASD Castrumfavara,AC Savoia 1908,1,3,5.500,3.500,1.600
-62754435,2026-02-15 13:30,Gela,ASD Citta di Acireale 1946,3,1,,,
-62754437,2026-02-15 13:30,ASD Gelbison,ASD Ragusa Calcio,2,0,,,
-62754439,2026-02-15 13:30,SS Milazzo,US Vibonese Calcio,4,0,,,
-62754441,2026-02-15 13:30,SSD Nissa FC,Vigor Lamezia,2,1,,,
-62754443,2026-02-15 13:30,ASD Paterno Calcio,ASD Sancataldese Calcio,3,2,,,
-62754445,2026-02-15 13:30,Reggina 1914,ACR Messina,1,1,1.800,3.100,4.200
-62754447,2026-02-15 13:30,AS Sambiase,Igea Virtus Barcellona,0,0,,,
-62754449,2026-02-22 13:30,ACR Messina,AS Sambiase,0,1,,,
-62754451,2026-02-22 13:30,ASD Citta di Acireale 1946,SS Milazzo,3,1,,,
-62754453,2026-02-22 13:30,Ssd Athletic Club Palermo,Gela,1,1,1.533,3.750,5.250
-62754455,2026-02-22 13:30,Igea Virtus Barcellona,ASD Paterno Calcio,2,0,,,
-62754457,2026-02-22 13:30,ASD Sancataldese Calcio,Enna Calcio SCSD,1,0,,,
-62754459,2026-02-22 13:30,AC Savoia 1908,SSD Nissa FC,1,1,,,
-62754461,2026-02-22 13:30,ASD Ragusa Calcio,ASD Castrumfavara,2,1,,,
-62754463,2026-02-22 13:30,US Vibonese Calcio,ASD Gelbison,0,4,2.500,3.000,2.600
-62754465,2026-02-22 13:30,Vigor Lamezia,Reggina 1914,2,0,,,
-62754467,2026-03-01 13:30,ASD Castrumfavara,ACR Messina,1,1,2.500,3.100,2.550
-62754469,2026-03-01 13:30,Enna Calcio SCSD,Gela,6,1,2.000,3.250,3.200
-62754471,2026-03-01 13:30,ASD Gelbison,Vigor Lamezia,1,1,,,
-62754473,2026-03-01 13:30,SS Milazzo,ASD Ragusa Calcio,0,1,,,
-62754475,2026-03-01 13:30,SSD Nissa FC,Igea Virtus Barcellona,1,1,,,
-62754477,2026-03-01 13:30,ASD Paterno Calcio,ASD Citta di Acireale 1946,2,1,,,
-62754479,2026-03-01 13:30,Reggina 1914,ASD Sancataldese Calcio,2,0,,,
-62754481,2026-03-01 13:30,AS Sambiase,Ssd Athletic Club Palermo,1,2,,,
-62754483,2026-03-01 13:30,US Vibonese Calcio,AC Savoia 1908,0,2,,,
-62754501,2026-03-15 13:30,Vigor Lamezia,ASD Castrumfavara,0,0,,,
-62754485,2026-03-15 14:00,ACR Messina,SSD Nissa FC,0,0,,,
-62754489,2026-03-15 14:00,Ssd Athletic Club Palermo,ASD Paterno Calcio,0,0,,,
-62754495,2026-03-15 14:00,ASD Sancataldese Calcio,AS Sambiase,0,0,,,
-62754499,2026-03-15 14:00,ASD Ragusa Calcio,US Vibonese Calcio,0,0,,,
-62754497,2026-03-15 14:30,AC Savoia 1908,ASD Gelbison,0,0,,,
-62754491,2026-03-15 15:00,Gela,SS Milazzo,0,0,,,
-62754513,2026-03-21 13:30,Reggina 1914,ASD Citta di Acireale 1946,0,1,,,
-62754505,2026-03-22 13:30,ASD Gelbison,Igea Virtus Barcellona,0,0,,,
-62754511,2026-03-22 13:30,ASD Paterno Calcio,Enna Calcio SCSD,0,0,,,
-62754519,2026-03-22 13:30,US Vibonese Calcio,ACR Messina,0,0,,,
-62754503,2026-03-22 14:00,ASD Castrumfavara,ASD Sancataldese Calcio,0,0,,,
-62754507,2026-03-22 14:00,SS Milazzo,AC Savoia 1908,0,0,,,
-62754509,2026-03-22 14:00,SSD Nissa FC,Ssd Athletic Club Palermo,0,0,2.300,3.200,2.700
-62754515,2026-03-22 14:00,AS Sambiase,Gela,0,0,1.800,3.250,4.333
-62754517,2026-03-22 14:00,ASD Ragusa Calcio,Vigor Lamezia,0,0,,,
-70181242,2026-03-25 13:30,ASD Citta di Acireale 1946,Enna Calcio SCSD,0,0,,,
-70181348,2026-03-25 13:30,Igea Virtus Barcellona,Reggina 1914,0,0,,,
-62754521,2026-03-29 13:00,ACR Messina,ASD Gelbison,0,0,2.700,3.250,2.300
-62754523,2026-03-29 13:00,ASD Citta di Acireale 1946,AS Sambiase,0,0,,,
-62754525,2026-03-29 13:00,Ssd Athletic Club Palermo,Reggina 1914,0,0,2.450,3.400,2.450
-62754531,2026-03-29 13:00,Igea Virtus Barcellona,ASD Castrumfavara,0,0,,,
-62754535,2026-03-29 13:00,AC Savoia 1908,ASD Ragusa Calcio,0,0,1.444,3.600,7.000
-62754537,2026-03-29 13:00,Vigor Lamezia,US Vibonese Calcio,0,0,1.727,3.500,4.000
-62754533,2026-03-29 13:30,ASD Sancataldese Calcio,SSD Nissa FC,0,0,4.500,3.300,1.700
-62754529,2026-03-29 14:30,Gela,ASD Paterno Calcio,0,0,1.500,3.800,5.250
-62754539,2026-04-02 13:00,ASD Castrumfavara,ASD Citta di Acireale 1946,0,0,2.250,3.100,2.900
-62754541,2026-04-02 13:00,ASD Gelbison,Ssd Athletic Club Palermo,0,0,,,
-62754545,2026-04-02 13:00,SSD Nissa FC,Gela,1,0,1.400,3.900,7.500
-62754549,2026-04-02 13:00,AS Sambiase,ASD Paterno Calcio,3,1,1.300,4.750,7.500
-62754551,2026-04-02 13:00,AC Savoia 1908,ACR Messina,0,0,1.400,4.100,6.500
-62754553,2026-04-02 13:00,ASD Ragusa Calcio,Igea Virtus Barcellona,0,0,,,
-62754555,2026-04-02 13:00,US Vibonese Calcio,ASD Sancataldese Calcio,0,0,1.600,3.600,4.750
-70348242,2026-04-08 13:30,Enna Calcio SCSD,SS Milazzo,3,1,1.700,3.600,4.000
-62754557,2026-04-12 13:00,ACR Messina,ASD Ragusa Calcio,0,0,2.200,3.000,3.100
-62754559,2026-04-12 13:00,ASD Citta di Acireale 1946,SSD Nissa FC,0,0,,,
-62754561,2026-04-12 13:00,Ssd Athletic Club Palermo,ASD Castrumfavara,0,3,1.333,4.333,7.000
-62754565,2026-04-12 13:00,Gela,Reggina 1914,0,0,6.500,3.500,1.450
-62754569,2026-04-12 13:00,ASD Paterno Calcio,SS Milazzo,0,0,,,
-62754571,2026-04-12 13:00,ASD Sancataldese Calcio,ASD Gelbison,0,0,3.100,3.300,2.050
-62754573,2026-04-12 13:00,Vigor Lamezia,AC Savoia 1908,1,2,4.750,3.750,1.571
-62754563,2026-04-12 13:30,Enna Calcio SCSD,AS Sambiase,0,0,,,
-70370538,2026-04-15 13:00,Reggina 1914,Enna Calcio SCSD,2,1,1.420,4.200,5.500
-70716408,2026-04-15 15:30,SS Milazzo,Vigor Lamezia,0,0,,,
-62754575,2026-04-19 13:00,ASD Castrumfavara,Gela,0,0,1.500,3.900,5.000
-62754577,2026-04-19 13:00,ASD Gelbison,ASD Citta di Acireale 1946,0,0,,,
-62754579,2026-04-19 13:00,SS Milazzo,AS Sambiase,0,0,,,
-62754581,2026-04-19 13:00,SSD Nissa FC,Enna Calcio SCSD,3,0,1.500,3.900,5.250
-62754583,2026-04-19 13:00,Reggina 1914,ASD Paterno Calcio,2,0,1.166,6.250,13.000
-62754585,2026-04-19 13:00,AC Savoia 1908,Igea Virtus Barcellona,0,0,,,
-62754587,2026-04-19 13:00,ASD Ragusa Calcio,ASD Sancataldese Calcio,0,0,,,
-62754589,2026-04-19 13:00,US Vibonese Calcio,Ssd Athletic Club Palermo,0,0,,,
-62754591,2026-04-19 13:00,Vigor Lamezia,ACR Messina,1,1,2.500,3.200,2.500
-70966388,2026-04-22 15:00,Igea Virtus Barcellona,US Vibonese Calcio,0,0,,,
-62754593,2026-04-26 13:00,ASD Citta di Acireale 1946,ASD Ragusa Calcio,0,0,,,
-62754595,2026-04-26 13:00,Ssd Athletic Club Palermo,AC Savoia 1908,1,3,3.500,3.400,1.850
-62754597,2026-04-26 13:00,Enna Calcio SCSD,ASD Gelbison,0,0,,,
-62754599,2026-04-26 13:00,Gela,US Vibonese Calcio,0,0,,,
-62754601,2026-04-26 13:00,Igea Virtus Barcellona,ACR Messina,0,0,,,
-62754603,2026-04-26 13:00,SS Milazzo,Reggina 1914,0,0,,,
-62754605,2026-04-26 13:00,ASD Paterno Calcio,ASD Castrumfavara,0,0,,,
-62754607,2026-04-26 13:00,AS Sambiase,SSD Nissa FC,0,0,3.300,3.100,2.050
-62754609,2026-04-26 13:00,ASD Sancataldese Calcio,Vigor Lamezia,0,0,,,
-62754611,2026-05-03 13:00,ACR Messina,SS Milazzo,0,0,,,
-62754613,2026-05-03 13:00,ASD Castrumfavara,Enna Calcio SCSD,0,0,,,
-62754615,2026-05-03 13:00,ASD Gelbison,Gela,0,0,,,
-62754617,2026-05-03 13:00,SSD Nissa FC,ASD Paterno Calcio,4,1,,,
-62754619,2026-05-03 13:00,Reggina 1914,AS Sambiase,4,2,,,
-62754621,2026-05-03 13:00,AC Savoia 1908,ASD Sancataldese Calcio,0,0,,,
-62754623,2026-05-03 13:00,ASD Ragusa Calcio,Ssd Athletic Club Palermo,0,0,,,
-62754625,2026-05-03 13:00,US Vibonese Calcio,ASD Citta di Acireale 1946,0,0,2.000,3.250,3.250
-62754627,2026-05-03 13:00,Vigor Lamezia,Igea Virtus Barcellona,4,1,,,
-71322046,2026-05-10 14:00,SSD Nissa FC,ASD Gelbison,4,0,2.000,3.200,3.400
-71322048,2026-05-10 14:00,Reggina 1914,Ssd Athletic Club Palermo,1,0,1.666,3.600,4.200
-71322486,2026-05-10 14:00,US Vibonese Calcio,ASD Citta di Acireale 1946,1,0,1.750,3.000,4.750
-71322488,2026-05-10 14:00,ASD Ragusa Calcio,ACR Messina,0,0,,,
-71467826,2026-05-17 14:00,SSD Nissa FC,Reggina 1914,0,0,2.800,2.900,2.400
-73632038,2026-09-06 13:00,Reggina 1914,Licata Calcio,5,0,,,
-73632042,2026-09-06 13:00,Siracusa Calcio,Ssd Athletic Club Palermo,1,1,,,
-73632044,2026-09-06 13:00,FC Trapani 1905,US Vibonese Calcio,0,4,,,
-73632028,2026-09-06 14:00,ASD Castrumfavara,SS Milazzo,3,0,3.000,3.200,2.150
-73632032,2026-09-06 15:00,SSD Nissa FC,Vigor Lamezia,3,1,1.500,3.700,5.750
-73632036,2026-09-06 15:00,ASD Ragusa Calcio,ASD Polisportiva Modica Calcio,2,1,,,
-73632040,2026-09-06 15:00,AS Sambiase,Gela,2,1,,,
-73632060,2026-09-12 14:00,US Vibonese Calcio,Siracusa Calcio,1,1,,,
-73632058,2026-09-13 13:00,ASD Polisportiva Modica Calcio,Reggina 1914,0,1,6.000,3.600,1.500
-73632056,2026-09-13 14:00,SS Milazzo,ASD Ragusa Calcio,3,1,2.400,3.100,2.700
-73632046,2026-09-13 15:00,Gela,ASD Castrumfavara,2,1,,,
-73632048,2026-09-13 15:00,Ssd Athletic Club Palermo,Enna Calcio SCSD,3,0,1.363,4.333,6.250
-73632054,2026-09-13 18:00,Licata Calcio,SSD Nissa FC,1,1,5.750,3.750,1.500
-73632074,2026-09-16 13:00,ASD Ragusa Calcio,Vigor Lamezia,1,1,,,
-73632064,2026-09-16 14:00,Ssd Athletic Club Palermo,Asd Digiesse Praiatortora,1,1,1.700,3.750,3.900
-73632066,2026-09-16 14:00,ASD Castrumfavara,Licata Calcio,1,1,,,
-73632068,2026-09-16 14:00,Enna Calcio SCSD,SS Milazzo,0,1,,,
-73632078,2026-09-16 14:00,AS Sambiase,ASD Polisportiva Modica Calcio,1,0,1.700,3.400,4.333
-73632070,2026-09-16 14:30,SSD Nissa FC,FC Trapani 1905,2,0,1.500,3.600,6.000
-73632076,2026-09-16 16:30,Reggina 1914,Calcio Avola 1949,4,0,1.250,5.500,7.500
-73632072,2026-09-16 17:00,Igea Virtus Barcellona,US Vibonese Calcio,4,3,2.250,3.400,2.700
-73632080,2026-09-16 18:30,Siracusa Calcio,Gela,2,1,,,
-73632084,2026-09-20 13:00,Calcio Avola 1949,SSD Nissa FC,4,2,4.100,3.600,1.666
-73632088,2026-09-20 13:00,Licata Calcio,ASD Ragusa Calcio,1,0,2.400,3.200,2.550
-73632092,2026-09-20 13:00,ASD Polisportiva Modica Calcio,ASD Castrumfavara,1,0,,,
-73632094,2026-09-20 13:00,FC Trapani 1905,Igea Virtus Barcellona,1,3,,,
-73632096,2026-09-20 13:00,US Vibonese Calcio,Ssd Athletic Club Palermo,3,0,1.600,3.600,4.750
-73632098,2026-09-20 13:00,Vigor Lamezia,Reggina 1914,0,3,5.750,3.700,1.500
-73632086,2026-09-20 14:00,Asd Digiesse Praiatortora,Siracusa Calcio,0,0,,,
-73632090,2026-09-20 14:00,SS Milazzo,AS Sambiase,0,1,2.250,3.200,2.800
-73632082,2026-09-20 15:00,Gela,Enna Calcio SCSD,0,0,,,
-73632106,2026-09-26 16:30,Enna Calcio SCSD,Licata Calcio,0,3,,,
-73632100,2026-09-27 13:00,Ssd Athletic Club Palermo,SS Milazzo,3,0,2.150,3.250,2.900
-73632104,2026-09-27 13:00,Asd Digiesse Praiatortora,Gela,1,0,,,
-73632108,2026-09-27 13:00,SSD Nissa FC,US Vibonese Calcio,0,2,2.250,3.100,2.800
-73632110,2026-09-27 13:00,ASD Ragusa Calcio,FC Trapani 1905,0,1,,,
-73632112,2026-09-27 13:00,Reggina 1914,Igea Virtus Barcellona,2,0,1.533,4.000,4.750
-73632114,2026-09-27 13:00,AS Sambiase,Vigor Lamezia,4,1,1.850,3.300,3.750
-73632116,2026-09-27 13:00,Siracusa Calcio,ASD Polisportiva Modica Calcio,1,0,,,
-73632102,2026-09-27 14:00,ASD Castrumfavara,Calcio Avola 1949,0,1,2.600,3.100,2.400
-73632120,2026-10-04 13:00,Calcio Avola 1949,ASD Ragusa Calcio,0,0,,,
-73632124,2026-10-04 13:00,SS Milazzo,Siracusa Calcio,1,0,3.100,3.200,2.100
-73632126,2026-10-04 13:00,Igea Virtus Barcellona,SSD Nissa FC,1,1,2.050,3.100,3.300
-73632128,2026-10-04 13:00,ASD Polisportiva Modica Calcio,Enna Calcio SCSD,3,0,,,
-73632132,2026-10-04 13:00,US Vibonese Calcio,Asd Digiesse Praiatortora,2,0,1.666,3.400,4.333
-73632134,2026-10-04 13:00,Vigor Lamezia,ASD Castrumfavara,2,0,1.800,3.400,3.750
-73632130,2026-10-04 13:30,FC Trapani 1905,Reggina 1914,1,0,,,
-73632122,2026-10-04 14:00,Licata Calcio,AS Sambiase,2,1,,,
-73632118,2026-10-04 15:00,Gela,Ssd Athletic Club Palermo,0,0,,,
-73632140,2026-10-11 13:00,ASD Castrumfavara,Igea Virtus Barcellona,3,2,4.333,3.500,1.650
-73632142,2026-10-11 13:00,Asd Digiesse Praiatortora,ASD Polisportiva Modica Calcio,5,1,,,
-73632144,2026-10-11 13:00,Enna Calcio SCSD,Calcio Avola 1949,0,2,,,
-73632146,2026-10-11 13:00,ASD Ragusa Calcio,SSD Nissa FC,1,1,6.500,3.800,1.444
-73632148,2026-10-11 13:00,Reggina 1914,US Vibonese Calcio,1,1,1.500,3.750,5.500
-73632150,2026-10-11 13:00,AS Sambiase,FC Trapani 1905,1,0,2.100,3.200,3.100
-73632152,2026-10-11 13:00,Siracusa Calcio,Vigor Lamezia,3,0,,,
-73632136,2026-10-11 14:00,Gela,SS Milazzo,1,1,,,
-73632138,2026-10-11 14:00,Ssd Athletic Club Palermo,Licata Calcio,1,2,1.909,3.200,3.600
-73632154,2026-10-18 13:00,Calcio Avola 1949,AS Sambiase,1,1,,,
-73632160,2026-10-18 13:00,SSD Nissa FC,Reggina 1914,1,2,4.100,3.300,1.750
-73632162,2026-10-18 13:00,Igea Virtus Barcellona,ASD Ragusa Calcio,3,1,,,
-73632164,2026-10-18 13:00,ASD Polisportiva Modica Calcio,Ssd Athletic Club Palermo,0,0,,,
-73632166,2026-10-18 13:00,FC Trapani 1905,ASD Castrumfavara,1,0,1.480,3.900,5.500
-73632168,2026-10-18 13:00,US Vibonese Calcio,Gela,1,1,1.420,3.800,6.500
-73632170,2026-10-18 13:00,Vigor Lamezia,Enna Calcio SCSD,3,0,,,
-73632158,2026-10-18 13:30,SS Milazzo,Asd Digiesse Praiatortora,3,1,,,
-73632156,2026-10-18 14:00,Licata Calcio,Siracusa Calcio,2,1,3.000,3.300,2.150
-73632174,2026-10-25 13:30,Ssd Athletic Club Palermo,Calcio Avola 1949,1,0,2.100,3.250,3.000
-73632178,2026-10-25 13:30,Asd Digiesse Praiatortora,Vigor Lamezia,1,0,,,
-73632184,2026-10-25 13:30,ASD Ragusa Calcio,US Vibonese Calcio,1,3,,,
-73632186,2026-10-25 13:30,AS Sambiase,SSD Nissa FC,1,0,2.200,3.200,2.800
-73632188,2026-10-25 13:30,Siracusa Calcio,FC Trapani 1905,1,1,,,
-73632172,2026-10-25 14:00,Gela,Licata Calcio,4,0,2.150,3.100,3.000
-73632182,2026-10-25 14:00,SS Milazzo,ASD Polisportiva Modica Calcio,1,0,2.100,3.100,3.200
-73632180,2026-10-25 14:30,Enna Calcio SCSD,Igea Virtus Barcellona,2,2,,,
-75952450,2026-10-28 13:30,ASD Castrumfavara,Reggina 1914,2,2,5.500,3.900,1.450
-73632194,2026-11-01 13:30,SSD Nissa FC,ASD Castrumfavara,5,1,1.650,3.600,4.500
-73632198,2026-11-01 13:30,ASD Polisportiva Modica Calcio,Gela,0,1,,,
-73632200,2026-11-01 13:30,Reggina 1914,ASD Ragusa Calcio,5,2,,,
-73632202,2026-11-01 13:30,FC Trapani 1905,Enna Calcio SCSD,2,2,1.125,7.000,15.000
-73632204,2026-11-01 13:30,US Vibonese Calcio,SS Milazzo,2,1,1.600,3.500,5.000
-73632206,2026-11-01 13:30,Vigor Lamezia,Ssd Athletic Club Palermo,0,1,,,
-73632190,2026-11-01 14:00,Calcio Avola 1949,Siracusa Calcio,4,2,,,
-73632192,2026-11-01 14:00,Licata Calcio,Asd Digiesse Praiatortora,0,1,2.300,3.000,2.875
-73632196,2026-11-01 14:00,Igea Virtus Barcellona,AS Sambiase,1,2,,,
-73632212,2026-11-08 13:30,ASD Castrumfavara,US Vibonese Calcio,1,2,4.750,3.750,1.571
-73632214,2026-11-08 13:30,Asd Digiesse Praiatortora,FC Trapani 1905,0,2,,,
-73632216,2026-11-08 13:30,Enna Calcio SCSD,Reggina 1914,0,3,,,
-73632218,2026-11-08 13:30,SS Milazzo,Vigor Lamezia,3,1,,,
-73632220,2026-11-08 13:30,ASD Polisportiva Modica Calcio,Licata Calcio,5,1,,,
-73632222,2026-11-08 13:30,AS Sambiase,ASD Ragusa Calcio,2,0,1.333,4.500,6.250
-73632224,2026-11-08 13:30,Siracusa Calcio,SSD Nissa FC,1,0,2.550,3.300,2.375
-73632210,2026-11-08 14:00,Ssd Athletic Club Palermo,Igea Virtus Barcellona,1,2,2.150,3.300,2.900
-73632208,2026-11-08 16:00,Gela,Calcio Avola 1949,2,1,,,
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+62754025,2025-09-07 13:00,US Vibonese Calcio,ASD Paterno Calcio,2,1,,,,,,
+62754027,2025-09-07 14:00,Vigor Lamezia,ASD Citta di Acireale 1946,1,0,,,,,,
+62754041,2025-09-14 13:00,Reggina 1914,SSD Nissa FC,1,0,,,,,,
+62754043,2025-09-14 13:00,AS Sambiase,ASD Castrumfavara,1,1,,,,,,
+62754051,2025-09-21 13:00,ASD Gelbison,SSD Nissa FC,1,2,,,,,,
+62754081,2025-09-24 14:00,AS Sambiase,US Vibonese Calcio,3,0,,,,,,
+62754079,2025-09-24 18:30,Reggina 1914,ASD Gelbison,2,3,,,,,,
+62754087,2025-09-28 13:00,ASD Gelbison,SS Milazzo,1,1,,,,,,
+62754115,2025-10-05 13:00,Reggina 1914,ASD Ragusa Calcio,2,0,,,,,,
+62754153,2025-10-19 13:00,AS Sambiase,ACR Messina,1,1,,,,,,
+62754183,2025-11-02 13:30,SSD Nissa FC,ACR Messina,1,0,,,,,,
+64854790,2025-11-05 13:30,ASD Citta di Acireale 1946,ASD Paterno Calcio,2,1,,,,,,
+62754265,2025-11-30 13:30,US Vibonese Calcio,Igea Virtus Barcellona,0,1,,,,,,
+62754281,2025-12-07 13:30,AS Sambiase,SS Milazzo,0,1,,,,,,
+62754285,2025-12-14 13:30,ACR Messina,Igea Virtus Barcellona,1,0,2.350,3.100,2.750,2,1.800,2.000
+62754287,2025-12-14 13:30,ASD Castrumfavara,ASD Paterno Calcio,1,1,,,,,,
+62754289,2025-12-14 13:30,ASD Gelbison,Enna Calcio SCSD,2,1,,,,,,
+62754291,2025-12-14 13:30,SSD Nissa FC,AS Sambiase,0,0,1.850,3.200,3.900,2,1.750,2.050
+62754293,2025-12-14 13:30,Reggina 1914,SS Milazzo,2,0,1.600,3.750,4.500,2.5,1.850,1.950
+62754295,2025-12-14 13:30,AC Savoia 1908,Ssd Athletic Club Palermo,3,1,,,,,,
+62754297,2025-12-14 13:30,ASD Ragusa Calcio,ASD Citta di Acireale 1946,2,0,,,,,,
+62754299,2025-12-14 13:30,US Vibonese Calcio,Gela,1,2,2.100,3.200,3.000,2.25,1.925,1.875
+62754301,2025-12-14 13:30,Vigor Lamezia,ASD Sancataldese Calcio,2,1,2.000,3.100,3.400,2,1.775,2.025
+62754303,2025-12-21 13:30,ASD Citta di Acireale 1946,US Vibonese Calcio,2,2,2.400,3.200,2.625,2.25,1.900,1.900
+62754305,2025-12-21 13:30,Ssd Athletic Club Palermo,ASD Ragusa Calcio,2,1,1.650,3.400,4.750,2.25,1.950,1.850
+62754309,2025-12-21 13:30,Gela,ASD Gelbison,0,2,,,,,,
+62754311,2025-12-21 13:30,Igea Virtus Barcellona,Vigor Lamezia,1,1,,,,,,
+62754313,2025-12-21 13:30,SS Milazzo,ACR Messina,0,0,,,,,,
+62754315,2025-12-21 13:30,ASD Paterno Calcio,SSD Nissa FC,0,3,,,,,,
+62754317,2025-12-21 13:30,AS Sambiase,Reggina 1914,0,1,,,,,,
+62754321,2025-12-21 13:30,ASD Sancataldese Calcio,AC Savoia 1908,3,1,,,,,,
+62754323,2026-01-04 13:30,ASD Citta di Acireale 1946,Vigor Lamezia,1,1,,,,,,
+62754325,2026-01-04 13:30,Ssd Athletic Club Palermo,ACR Messina,4,0,1.615,3.400,5.000,2,1.775,2.025
+62754327,2026-01-04 13:30,Enna Calcio SCSD,ASD Ragusa Calcio,0,0,,,,,,
+62754329,2026-01-04 13:30,Gela,AC Savoia 1908,1,2,,,,,,
+62754331,2026-01-04 13:30,SS Milazzo,SSD Nissa FC,1,1,,,,,,
+62754333,2026-01-04 13:30,ASD Paterno Calcio,US Vibonese Calcio,0,0,,,,,,
+62754335,2026-01-04 13:30,Reggina 1914,ASD Castrumfavara,2,0,1.250,5.000,8.000,2.75,1.900,1.900
+62754337,2026-01-04 13:30,AS Sambiase,ASD Gelbison,2,1,1.800,3.100,4.200,2,1.850,1.950
+62754339,2026-01-04 13:30,ASD Sancataldese Calcio,Igea Virtus Barcellona,0,3,,,,,,
+62754341,2026-01-11 13:30,ACR Messina,ASD Sancataldese Calcio,1,1,,,,,,
+62754343,2026-01-11 13:30,ASD Castrumfavara,AS Sambiase,0,2,3.600,3.000,2.000,2,1.750,2.050
+62754345,2026-01-11 13:30,ASD Gelbison,ASD Paterno Calcio,3,0,,,,,,
+62754347,2026-01-11 13:30,Igea Virtus Barcellona,SS Milazzo,2,0,,,,,,
+62754349,2026-01-11 13:30,SSD Nissa FC,Reggina 1914,1,2,3.400,3.250,1.950,2.25,1.925,1.875
+62754351,2026-01-11 13:30,AC Savoia 1908,ASD Citta di Acireale 1946,2,2,1.450,3.900,5.750,2.5,2.000,1.800
+62754353,2026-01-11 13:30,ASD Ragusa Calcio,Gela,2,3,,,,,,
+62754355,2026-01-11 13:30,US Vibonese Calcio,Enna Calcio SCSD,1,3,1.900,3.250,3.500,2.25,2.000,1.800
+62754357,2026-01-11 13:30,Vigor Lamezia,Ssd Athletic Club Palermo,2,3,3.400,3.400,1.909,2.25,1.850,1.950
+62754359,2026-01-18 13:30,ASD Citta di Acireale 1946,Igea Virtus Barcellona,3,3,,,,,,
+62754361,2026-01-18 13:30,Ssd Athletic Club Palermo,ASD Sancataldese Calcio,2,1,,,,,,
+62754365,2026-01-18 13:30,Gela,ACR Messina,1,0,,,,,,
+62754367,2026-01-18 13:30,SS Milazzo,ASD Castrumfavara,1,0,,,,,,
+62754369,2026-01-18 13:30,SSD Nissa FC,ASD Gelbison,0,0,,,,,,
+62754371,2026-01-18 13:30,ASD Paterno Calcio,AC Savoia 1908,0,3,,,,,,
+62754373,2026-01-18 13:30,Reggina 1914,US Vibonese Calcio,3,0,1.450,3.800,6.500,2.5,2.000,1.800
+62754375,2026-01-18 13:30,AS Sambiase,ASD Ragusa Calcio,1,1,,,,,,
+62754377,2026-01-25 13:30,ACR Messina,ASD Citta di Acireale 1946,2,1,,,,,,
+62754379,2026-01-25 13:30,ASD Castrumfavara,SSD Nissa FC,0,1,3.400,3.250,1.950,2.25,1.800,2.000
+62754381,2026-01-25 13:30,ASD Gelbison,Reggina 1914,0,1,,,,,,
+62754383,2026-01-25 13:30,Igea Virtus Barcellona,Ssd Athletic Club Palermo,1,0,,,,,,
+62754385,2026-01-25 13:30,ASD Sancataldese Calcio,SS Milazzo,1,2,,,,,,
+62754387,2026-01-25 13:30,AC Savoia 1908,Enna Calcio SCSD,2,2,,,,,,
+62754389,2026-01-25 13:30,ASD Ragusa Calcio,ASD Paterno Calcio,5,1,,,,,,
+62754391,2026-01-25 13:30,US Vibonese Calcio,AS Sambiase,2,0,,,,,,
+62754393,2026-01-25 13:30,Vigor Lamezia,Gela,2,0,2.300,3.100,2.800,2.25,2.050,1.750
+62754395,2026-02-01 13:30,ASD Citta di Acireale 1946,Ssd Athletic Club Palermo,0,4,,,,,,
+62754397,2026-02-01 13:30,ASD Castrumfavara,US Vibonese Calcio,2,1,,,,,,
+62754399,2026-02-01 13:30,Enna Calcio SCSD,Igea Virtus Barcellona,1,1,,,,,,
+62754401,2026-02-01 13:30,Gela,ASD Sancataldese Calcio,2,0,,,,,,
+62754403,2026-02-01 13:30,SS Milazzo,ASD Gelbison,1,3,,,,,,
+62754405,2026-02-01 13:30,SSD Nissa FC,ASD Ragusa Calcio,1,0,,,,,,
+62754407,2026-02-01 13:30,ASD Paterno Calcio,ACR Messina,0,1,,,,,,
+62754409,2026-02-01 13:30,Reggina 1914,AC Savoia 1908,1,1,1.650,3.400,4.500,2.25,1.825,1.975
+62754411,2026-02-01 13:30,AS Sambiase,Vigor Lamezia,0,1,,,,,,
+62754413,2026-02-08 13:30,ACR Messina,Enna Calcio SCSD,2,5,,,,,,
+62754415,2026-02-08 13:30,Ssd Athletic Club Palermo,SS Milazzo,1,0,,,,,,
+62754417,2026-02-08 13:30,ASD Gelbison,ASD Castrumfavara,2,0,,,,,,
+62754419,2026-02-08 13:30,Igea Virtus Barcellona,Gela,3,0,,,,,,
+62754421,2026-02-08 13:30,ASD Sancataldese Calcio,ASD Citta di Acireale 1946,1,1,,,,,,
+62754423,2026-02-08 13:30,AC Savoia 1908,AS Sambiase,2,1,,,,,,
+62754425,2026-02-08 13:30,ASD Ragusa Calcio,Reggina 1914,0,1,,,,,,
+62754427,2026-02-08 13:30,US Vibonese Calcio,SSD Nissa FC,0,1,2.375,3.100,2.700,2,1.850,1.950
+62754429,2026-02-08 13:30,Vigor Lamezia,ASD Paterno Calcio,6,0,1.480,3.750,6.000,2.25,1.775,2.025
+62754431,2026-02-15 13:30,ASD Castrumfavara,AC Savoia 1908,1,3,5.500,3.500,1.600,2,1.775,2.025
+62754435,2026-02-15 13:30,Gela,ASD Citta di Acireale 1946,3,1,,,,,,
+62754437,2026-02-15 13:30,ASD Gelbison,ASD Ragusa Calcio,2,0,,,,,,
+62754439,2026-02-15 13:30,SS Milazzo,US Vibonese Calcio,4,0,,,,,,
+62754441,2026-02-15 13:30,SSD Nissa FC,Vigor Lamezia,2,1,,,,,,
+62754443,2026-02-15 13:30,ASD Paterno Calcio,ASD Sancataldese Calcio,3,2,,,,,,
+62754445,2026-02-15 13:30,Reggina 1914,ACR Messina,1,1,1.800,3.100,4.200,2,1.800,2.000
+62754447,2026-02-15 13:30,AS Sambiase,Igea Virtus Barcellona,0,0,,,,,,
+62754449,2026-02-22 13:30,ACR Messina,AS Sambiase,0,1,,,,,,
+62754451,2026-02-22 13:30,ASD Citta di Acireale 1946,SS Milazzo,3,1,,,,,,
+62754453,2026-02-22 13:30,Ssd Athletic Club Palermo,Gela,1,1,1.533,3.750,5.250,2.25,1.800,2.000
+62754455,2026-02-22 13:30,Igea Virtus Barcellona,ASD Paterno Calcio,2,0,,,,,,
+62754457,2026-02-22 13:30,ASD Sancataldese Calcio,Enna Calcio SCSD,1,0,,,,,,
+62754459,2026-02-22 13:30,AC Savoia 1908,SSD Nissa FC,1,1,,,,,,
+62754461,2026-02-22 13:30,ASD Ragusa Calcio,ASD Castrumfavara,2,1,,,,,,
+62754463,2026-02-22 13:30,US Vibonese Calcio,ASD Gelbison,0,4,2.500,3.000,2.600,2.25,2.000,1.800
+62754465,2026-02-22 13:30,Vigor Lamezia,Reggina 1914,2,0,,,,,,
+62754467,2026-03-01 13:30,ASD Castrumfavara,ACR Messina,1,1,2.500,3.100,2.550,2,1.850,1.950
+62754469,2026-03-01 13:30,Enna Calcio SCSD,Gela,6,1,2.000,3.250,3.200,2.25,1.900,1.900
+62754471,2026-03-01 13:30,ASD Gelbison,Vigor Lamezia,1,1,,,,,,
+62754473,2026-03-01 13:30,SS Milazzo,ASD Ragusa Calcio,0,1,,,,,,
+62754475,2026-03-01 13:30,SSD Nissa FC,Igea Virtus Barcellona,1,1,,,,,,
+62754477,2026-03-01 13:30,ASD Paterno Calcio,ASD Citta di Acireale 1946,2,1,,,,,,
+62754479,2026-03-01 13:30,Reggina 1914,ASD Sancataldese Calcio,2,0,,,,,,
+62754481,2026-03-01 13:30,AS Sambiase,Ssd Athletic Club Palermo,1,2,,,,,,
+62754483,2026-03-01 13:30,US Vibonese Calcio,AC Savoia 1908,0,2,,,,,,
+62754501,2026-03-15 13:30,Vigor Lamezia,ASD Castrumfavara,0,0,,,,,,
+62754485,2026-03-15 14:00,ACR Messina,SSD Nissa FC,0,0,,,,,,
+62754489,2026-03-15 14:00,Ssd Athletic Club Palermo,ASD Paterno Calcio,0,0,,,,,,
+62754495,2026-03-15 14:00,ASD Sancataldese Calcio,AS Sambiase,0,0,,,,,,
+62754499,2026-03-15 14:00,ASD Ragusa Calcio,US Vibonese Calcio,0,0,,,,,,
+62754497,2026-03-15 14:30,AC Savoia 1908,ASD Gelbison,0,0,,,,,,
+62754491,2026-03-15 15:00,Gela,SS Milazzo,0,0,,,,,,
+62754513,2026-03-21 13:30,Reggina 1914,ASD Citta di Acireale 1946,0,1,,,,,,
+62754505,2026-03-22 13:30,ASD Gelbison,Igea Virtus Barcellona,0,0,,,,,,
+62754511,2026-03-22 13:30,ASD Paterno Calcio,Enna Calcio SCSD,0,0,,,,,,
+62754519,2026-03-22 13:30,US Vibonese Calcio,ACR Messina,0,0,,,,,,
+62754503,2026-03-22 14:00,ASD Castrumfavara,ASD Sancataldese Calcio,0,0,,,,,,
+62754507,2026-03-22 14:00,SS Milazzo,AC Savoia 1908,0,0,,,,,,
+62754509,2026-03-22 14:00,SSD Nissa FC,Ssd Athletic Club Palermo,0,0,2.300,3.200,2.700,2.25,1.975,1.825
+62754515,2026-03-22 14:00,AS Sambiase,Gela,0,0,1.800,3.250,4.333,2.25,2.025,1.775
+62754517,2026-03-22 14:00,ASD Ragusa Calcio,Vigor Lamezia,0,0,,,,,,
+70181242,2026-03-25 13:30,ASD Citta di Acireale 1946,Enna Calcio SCSD,0,0,,,,,,
+70181348,2026-03-25 13:30,Igea Virtus Barcellona,Reggina 1914,0,0,,,,,,
+62754521,2026-03-29 13:00,ACR Messina,ASD Gelbison,0,0,2.700,3.250,2.300,2,1.800,2.000
+62754523,2026-03-29 13:00,ASD Citta di Acireale 1946,AS Sambiase,0,0,,,,,,
+62754525,2026-03-29 13:00,Ssd Athletic Club Palermo,Reggina 1914,0,0,2.450,3.400,2.450,2.25,1.875,1.925
+62754531,2026-03-29 13:00,Igea Virtus Barcellona,ASD Castrumfavara,0,0,,,,,,
+62754535,2026-03-29 13:00,AC Savoia 1908,ASD Ragusa Calcio,0,0,1.444,3.600,7.000,2.25,1.900,1.900
+62754537,2026-03-29 13:00,Vigor Lamezia,US Vibonese Calcio,0,0,1.727,3.500,4.000,2.5,1.800,2.000
+62754533,2026-03-29 13:30,ASD Sancataldese Calcio,SSD Nissa FC,0,0,4.500,3.300,1.700,2,1.750,2.050
+62754529,2026-03-29 14:30,Gela,ASD Paterno Calcio,0,0,1.500,3.800,5.250,2.5,1.950,1.850
+62754539,2026-04-02 13:00,ASD Castrumfavara,ASD Citta di Acireale 1946,0,0,2.250,3.100,2.900,2.25,1.925,1.875
+62754541,2026-04-02 13:00,ASD Gelbison,Ssd Athletic Club Palermo,0,0,,,,,,
+62754545,2026-04-02 13:00,SSD Nissa FC,Gela,1,0,1.400,3.900,7.500,2.25,1.950,1.850
+62754549,2026-04-02 13:00,AS Sambiase,ASD Paterno Calcio,3,1,1.300,4.750,7.500,2.5,1.825,1.975
+62754551,2026-04-02 13:00,AC Savoia 1908,ACR Messina,0,0,1.400,4.100,6.500,2.5,1.875,1.925
+62754553,2026-04-02 13:00,ASD Ragusa Calcio,Igea Virtus Barcellona,0,0,,,,,,
+62754555,2026-04-02 13:00,US Vibonese Calcio,ASD Sancataldese Calcio,0,0,1.600,3.600,4.750,2.25,1.850,1.950
+70348242,2026-04-08 13:30,Enna Calcio SCSD,SS Milazzo,3,1,1.700,3.600,4.000,2.5,1.950,1.850
+62754557,2026-04-12 13:00,ACR Messina,ASD Ragusa Calcio,0,0,2.200,3.000,3.100,2,1.925,1.875
+62754559,2026-04-12 13:00,ASD Citta di Acireale 1946,SSD Nissa FC,0,0,,,,,,
+62754561,2026-04-12 13:00,Ssd Athletic Club Palermo,ASD Castrumfavara,0,3,1.333,4.333,7.000,2.75,1.800,2.000
+62754565,2026-04-12 13:00,Gela,Reggina 1914,0,0,6.500,3.500,1.450,2.25,1.875,1.925
+62754569,2026-04-12 13:00,ASD Paterno Calcio,SS Milazzo,0,0,,,,,,
+62754571,2026-04-12 13:00,ASD Sancataldese Calcio,ASD Gelbison,0,0,3.100,3.300,2.050,2.25,1.975,1.825
+62754573,2026-04-12 13:00,Vigor Lamezia,AC Savoia 1908,1,2,4.750,3.750,1.571,2.25,1.950,1.850
+62754563,2026-04-12 13:30,Enna Calcio SCSD,AS Sambiase,0,0,,,,,,
+70370538,2026-04-15 13:00,Reggina 1914,Enna Calcio SCSD,2,1,1.420,4.200,5.500,2.5,1.875,1.925
+70716408,2026-04-15 15:30,SS Milazzo,Vigor Lamezia,0,0,,,,,,
+62754575,2026-04-19 13:00,ASD Castrumfavara,Gela,0,0,1.500,3.900,5.000,2.5,1.800,2.000
+62754577,2026-04-19 13:00,ASD Gelbison,ASD Citta di Acireale 1946,0,0,,,,,,
+62754579,2026-04-19 13:00,SS Milazzo,AS Sambiase,0,0,,,,,,
+62754581,2026-04-19 13:00,SSD Nissa FC,Enna Calcio SCSD,3,0,1.500,3.900,5.250,2.5,1.875,1.925
+62754583,2026-04-19 13:00,Reggina 1914,ASD Paterno Calcio,2,0,1.166,6.250,13.000,3,1.825,1.975
+62754585,2026-04-19 13:00,AC Savoia 1908,Igea Virtus Barcellona,0,0,,,,,,
+62754587,2026-04-19 13:00,ASD Ragusa Calcio,ASD Sancataldese Calcio,0,0,,,,,,
+62754589,2026-04-19 13:00,US Vibonese Calcio,Ssd Athletic Club Palermo,0,0,,,,,,
+62754591,2026-04-19 13:00,Vigor Lamezia,ACR Messina,1,1,2.500,3.200,2.500,2.25,1.925,1.875
+70966388,2026-04-22 15:00,Igea Virtus Barcellona,US Vibonese Calcio,0,0,,,,,,
+62754593,2026-04-26 13:00,ASD Citta di Acireale 1946,ASD Ragusa Calcio,0,0,,,,,,
+62754595,2026-04-26 13:00,Ssd Athletic Club Palermo,AC Savoia 1908,1,3,3.500,3.400,1.850,2.25,1.825,1.975
+62754597,2026-04-26 13:00,Enna Calcio SCSD,ASD Gelbison,0,0,,,,,,
+62754599,2026-04-26 13:00,Gela,US Vibonese Calcio,0,0,,,,,,
+62754601,2026-04-26 13:00,Igea Virtus Barcellona,ACR Messina,0,0,,,,,,
+62754603,2026-04-26 13:00,SS Milazzo,Reggina 1914,0,0,,,,,,
+62754605,2026-04-26 13:00,ASD Paterno Calcio,ASD Castrumfavara,0,0,,,,,,
+62754607,2026-04-26 13:00,AS Sambiase,SSD Nissa FC,0,0,3.300,3.100,2.050,2,2.000,1.800
+62754609,2026-04-26 13:00,ASD Sancataldese Calcio,Vigor Lamezia,0,0,,,,,,
+62754611,2026-05-03 13:00,ACR Messina,SS Milazzo,0,0,,,,,,
+62754613,2026-05-03 13:00,ASD Castrumfavara,Enna Calcio SCSD,0,0,,,,,,
+62754615,2026-05-03 13:00,ASD Gelbison,Gela,0,0,,,,,,
+62754617,2026-05-03 13:00,SSD Nissa FC,ASD Paterno Calcio,4,1,,,,,,
+62754619,2026-05-03 13:00,Reggina 1914,AS Sambiase,4,2,,,,,,
+62754621,2026-05-03 13:00,AC Savoia 1908,ASD Sancataldese Calcio,0,0,,,,,,
+62754623,2026-05-03 13:00,ASD Ragusa Calcio,Ssd Athletic Club Palermo,0,0,,,,,,
+62754625,2026-05-03 13:00,US Vibonese Calcio,ASD Citta di Acireale 1946,0,0,2.000,3.250,3.250,2.25,1.925,1.875
+62754627,2026-05-03 13:00,Vigor Lamezia,Igea Virtus Barcellona,4,1,,,,,,
+71322046,2026-05-10 14:00,SSD Nissa FC,ASD Gelbison,4,0,2.000,3.200,3.400,2.25,2.000,1.800
+71322048,2026-05-10 14:00,Reggina 1914,Ssd Athletic Club Palermo,1,0,1.666,3.600,4.200,2.5,2.000,1.800
+71322486,2026-05-10 14:00,US Vibonese Calcio,ASD Citta di Acireale 1946,1,0,1.750,3.000,4.750,2,1.850,1.950
+71322488,2026-05-10 14:00,ASD Ragusa Calcio,ACR Messina,0,0,,,,,,
+71467826,2026-05-17 14:00,SSD Nissa FC,Reggina 1914,0,0,2.800,2.900,2.400,2,1.900,1.900
+73632038,2026-09-06 13:00,Reggina 1914,Licata Calcio,5,0,,,,,,
+73632042,2026-09-06 13:00,Siracusa Calcio,Ssd Athletic Club Palermo,1,1,,,,,,
+73632044,2026-09-06 13:00,FC Trapani 1905,US Vibonese Calcio,0,4,,,,,,
+73632028,2026-09-06 14:00,ASD Castrumfavara,SS Milazzo,3,0,3.000,3.200,2.150,2.25,1.950,1.850
+73632032,2026-09-06 15:00,SSD Nissa FC,Vigor Lamezia,3,1,1.500,3.700,5.750,2.25,1.850,1.950
+73632036,2026-09-06 15:00,ASD Ragusa Calcio,ASD Polisportiva Modica Calcio,2,1,,,,,,
+73632040,2026-09-06 15:00,AS Sambiase,Gela,2,1,,,,,,
+73632060,2026-09-12 14:00,US Vibonese Calcio,Siracusa Calcio,1,1,,,,,,
+73632058,2026-09-13 13:00,ASD Polisportiva Modica Calcio,Reggina 1914,0,1,6.000,3.600,1.500,2.25,1.850,1.950
+73632056,2026-09-13 14:00,SS Milazzo,ASD Ragusa Calcio,3,1,2.400,3.100,2.700,2.25,1.975,1.825
+73632046,2026-09-13 15:00,Gela,ASD Castrumfavara,2,1,,,,,,
+73632048,2026-09-13 15:00,Ssd Athletic Club Palermo,Enna Calcio SCSD,3,0,1.363,4.333,6.250,,,
+73632054,2026-09-13 18:00,Licata Calcio,SSD Nissa FC,1,1,5.750,3.750,1.500,2.25,1.850,1.950
+73632074,2026-09-16 13:00,ASD Ragusa Calcio,Vigor Lamezia,1,1,,,,,,
+73632064,2026-09-16 14:00,Ssd Athletic Club Palermo,Asd Digiesse Praiatortora,1,1,1.700,3.750,3.900,2.75,1.950,1.850
+73632066,2026-09-16 14:00,ASD Castrumfavara,Licata Calcio,1,1,,,,,,
+73632068,2026-09-16 14:00,Enna Calcio SCSD,SS Milazzo,0,1,,,,,,
+73632078,2026-09-16 14:00,AS Sambiase,ASD Polisportiva Modica Calcio,1,0,1.700,3.400,4.333,2.25,1.775,2.025
+73632070,2026-09-16 14:30,SSD Nissa FC,FC Trapani 1905,2,0,1.500,3.600,6.000,2.25,1.850,1.950
+73632076,2026-09-16 16:30,Reggina 1914,Calcio Avola 1949,4,0,1.250,5.500,7.500,2.5,1.850,1.950
+73632072,2026-09-16 17:00,Igea Virtus Barcellona,US Vibonese Calcio,4,3,2.250,3.400,2.700,2.25,1.825,1.975
+73632080,2026-09-16 18:30,Siracusa Calcio,Gela,2,1,,,,,,
+73632084,2026-09-20 13:00,Calcio Avola 1949,SSD Nissa FC,4,2,4.100,3.600,1.666,3,2.000,1.800
+73632088,2026-09-20 13:00,Licata Calcio,ASD Ragusa Calcio,1,0,2.400,3.200,2.550,2.25,1.975,1.825
+73632092,2026-09-20 13:00,ASD Polisportiva Modica Calcio,ASD Castrumfavara,1,0,,,,,,
+73632094,2026-09-20 13:00,FC Trapani 1905,Igea Virtus Barcellona,1,3,,,,,,
+73632096,2026-09-20 13:00,US Vibonese Calcio,Ssd Athletic Club Palermo,3,0,1.600,3.600,4.750,2.5,2.000,1.800
+73632098,2026-09-20 13:00,Vigor Lamezia,Reggina 1914,0,3,5.750,3.700,1.500,2.5,1.875,1.925
+73632086,2026-09-20 14:00,Asd Digiesse Praiatortora,Siracusa Calcio,0,0,,,,,,
+73632090,2026-09-20 14:00,SS Milazzo,AS Sambiase,0,1,2.250,3.200,2.800,2.25,2.000,1.800
+73632082,2026-09-20 15:00,Gela,Enna Calcio SCSD,0,0,,,,,,
+73632106,2026-09-26 16:30,Enna Calcio SCSD,Licata Calcio,0,3,,,,,,
+73632100,2026-09-27 13:00,Ssd Athletic Club Palermo,SS Milazzo,3,0,2.150,3.250,2.900,2.5,1.875,1.925
+73632104,2026-09-27 13:00,Asd Digiesse Praiatortora,Gela,1,0,,,,,,
+73632108,2026-09-27 13:00,SSD Nissa FC,US Vibonese Calcio,0,2,2.250,3.100,2.800,2.25,1.775,2.025
+73632110,2026-09-27 13:00,ASD Ragusa Calcio,FC Trapani 1905,0,1,,,,,,
+73632112,2026-09-27 13:00,Reggina 1914,Igea Virtus Barcellona,2,0,1.533,4.000,4.750,2.75,1.850,1.950
+73632114,2026-09-27 13:00,AS Sambiase,Vigor Lamezia,4,1,1.850,3.300,3.750,2.25,1.825,1.975
+73632116,2026-09-27 13:00,Siracusa Calcio,ASD Polisportiva Modica Calcio,1,0,,,,,,
+73632102,2026-09-27 14:00,ASD Castrumfavara,Calcio Avola 1949,0,1,2.600,3.100,2.400,2.25,1.800,2.000
+73632120,2026-10-04 13:00,Calcio Avola 1949,ASD Ragusa Calcio,0,0,,,,,,
+73632124,2026-10-04 13:00,SS Milazzo,Siracusa Calcio,1,0,3.100,3.200,2.100,2.25,1.800,2.000
+73632126,2026-10-04 13:00,Igea Virtus Barcellona,SSD Nissa FC,1,1,2.050,3.100,3.300,2.25,1.925,1.875
+73632128,2026-10-04 13:00,ASD Polisportiva Modica Calcio,Enna Calcio SCSD,3,0,,,,,,
+73632132,2026-10-04 13:00,US Vibonese Calcio,Asd Digiesse Praiatortora,2,0,1.666,3.400,4.333,2.25,1.825,1.975
+73632134,2026-10-04 13:00,Vigor Lamezia,ASD Castrumfavara,2,0,1.800,3.400,3.750,2.5,1.950,1.850
+73632130,2026-10-04 13:30,FC Trapani 1905,Reggina 1914,1,0,,,,,,
+73632122,2026-10-04 14:00,Licata Calcio,AS Sambiase,2,1,,,,,,
+73632118,2026-10-04 15:00,Gela,Ssd Athletic Club Palermo,0,0,,,,,,
+73632140,2026-10-11 13:00,ASD Castrumfavara,Igea Virtus Barcellona,3,2,4.333,3.500,1.650,2.25,1.800,2.000
+73632142,2026-10-11 13:00,Asd Digiesse Praiatortora,ASD Polisportiva Modica Calcio,5,1,,,,,,
+73632144,2026-10-11 13:00,Enna Calcio SCSD,Calcio Avola 1949,0,2,,,,,,
+73632146,2026-10-11 13:00,ASD Ragusa Calcio,SSD Nissa FC,1,1,6.500,3.800,1.444,2.25,1.950,1.850
+73632148,2026-10-11 13:00,Reggina 1914,US Vibonese Calcio,1,1,1.500,3.750,5.500,2.5,1.900,1.900
+73632150,2026-10-11 13:00,AS Sambiase,FC Trapani 1905,1,0,2.100,3.200,3.100,2.25,1.800,2.000
+73632152,2026-10-11 13:00,Siracusa Calcio,Vigor Lamezia,3,0,,,,,,
+73632136,2026-10-11 14:00,Gela,SS Milazzo,1,1,,,,,,
+73632138,2026-10-11 14:00,Ssd Athletic Club Palermo,Licata Calcio,1,2,1.909,3.200,3.600,2.5,1.950,1.850
+73632154,2026-10-18 13:00,Calcio Avola 1949,AS Sambiase,1,1,,,,,,
+73632160,2026-10-18 13:00,SSD Nissa FC,Reggina 1914,1,2,4.100,3.300,1.750,2.5,1.950,1.850
+73632162,2026-10-18 13:00,Igea Virtus Barcellona,ASD Ragusa Calcio,3,1,,,,,,
+73632164,2026-10-18 13:00,ASD Polisportiva Modica Calcio,Ssd Athletic Club Palermo,0,0,,,,,,
+73632166,2026-10-18 13:00,FC Trapani 1905,ASD Castrumfavara,1,0,1.480,3.900,5.500,2.25,1.825,1.975
+73632168,2026-10-18 13:00,US Vibonese Calcio,Gela,1,1,1.420,3.800,6.500,2.5,1.875,1.925
+73632170,2026-10-18 13:00,Vigor Lamezia,Enna Calcio SCSD,3,0,,,,,,
+73632158,2026-10-18 13:30,SS Milazzo,Asd Digiesse Praiatortora,3,1,,,,,,
+73632156,2026-10-18 14:00,Licata Calcio,Siracusa Calcio,2,1,3.000,3.300,2.150,2.5,2.000,1.800
+73632174,2026-10-25 13:30,Ssd Athletic Club Palermo,Calcio Avola 1949,1,0,2.100,3.250,3.000,2.5,1.825,1.975
+73632178,2026-10-25 13:30,Asd Digiesse Praiatortora,Vigor Lamezia,1,0,,,,,,
+73632184,2026-10-25 13:30,ASD Ragusa Calcio,US Vibonese Calcio,1,3,,,,,,
+73632186,2026-10-25 13:30,AS Sambiase,SSD Nissa FC,1,0,2.200,3.200,2.800,2.25,1.850,1.950
+73632188,2026-10-25 13:30,Siracusa Calcio,FC Trapani 1905,1,1,,,,,,
+73632172,2026-10-25 14:00,Gela,Licata Calcio,4,0,2.150,3.100,3.000,2.25,1.825,1.975
+73632182,2026-10-25 14:00,SS Milazzo,ASD Polisportiva Modica Calcio,1,0,2.100,3.100,3.200,2.25,1.850,1.950
+73632180,2026-10-25 14:30,Enna Calcio SCSD,Igea Virtus Barcellona,2,2,,,,,,
+75952450,2026-10-28 13:30,ASD Castrumfavara,Reggina 1914,2,2,5.500,3.900,1.450,2.5,1.825,1.975
+73632194,2026-11-01 13:30,SSD Nissa FC,ASD Castrumfavara,5,1,1.650,3.600,4.500,2.75,1.950,1.850
+73632198,2026-11-01 13:30,ASD Polisportiva Modica Calcio,Gela,0,1,,,,,,
+73632200,2026-11-01 13:30,Reggina 1914,ASD Ragusa Calcio,5,2,,,,,,
+73632202,2026-11-01 13:30,FC Trapani 1905,Enna Calcio SCSD,2,2,1.125,7.000,15.000,2.75,1.850,1.950
+73632204,2026-11-01 13:30,US Vibonese Calcio,SS Milazzo,2,1,1.600,3.500,5.000,2.5,2.000,1.800
+73632206,2026-11-01 13:30,Vigor Lamezia,Ssd Athletic Club Palermo,0,1,,,,,,
+73632190,2026-11-01 14:00,Calcio Avola 1949,Siracusa Calcio,4,2,,,,,,
+73632192,2026-11-01 14:00,Licata Calcio,Asd Digiesse Praiatortora,0,1,2.300,3.000,2.875,2.25,1.850,1.950
+73632196,2026-11-01 14:00,Igea Virtus Barcellona,AS Sambiase,1,2,,,,,,
+73632212,2026-11-08 13:30,ASD Castrumfavara,US Vibonese Calcio,1,2,4.750,3.750,1.571,2.5,1.850,1.950
+73632214,2026-11-08 13:30,Asd Digiesse Praiatortora,FC Trapani 1905,0,2,,,,,,
+73632216,2026-11-08 13:30,Enna Calcio SCSD,Reggina 1914,0,3,,,,,,
+73632218,2026-11-08 13:30,SS Milazzo,Vigor Lamezia,3,1,,,,,,
+73632220,2026-11-08 13:30,ASD Polisportiva Modica Calcio,Licata Calcio,5,1,,,,,,
+73632222,2026-11-08 13:30,AS Sambiase,ASD Ragusa Calcio,2,0,1.333,4.500,6.250,2.5,1.875,1.925
+73632224,2026-11-08 13:30,Siracusa Calcio,SSD Nissa FC,1,0,2.550,3.300,2.375,2.5,1.900,1.900
+73632210,2026-11-08 14:00,Ssd Athletic Club Palermo,Igea Virtus Barcellona,1,2,2.150,3.300,2.900,2.75,1.975,1.825
+73632208,2026-11-08 16:00,Gela,Calcio Avola 1949,2,1,,,,,,

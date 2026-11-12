@@ -1,400 +1,400 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-60531225,2025-05-24 14:45,CD Constancia,SE Penya Independent,0,1,,,
-60808807,2025-06-08 15:00,UE Porreres,SE Penya Independent,1,1,,,
-63144729,2025-09-06 15:00,CD Constancia,SD Portmany,4,0,,,
-63144731,2025-09-06 15:30,CD Llosetense,CF Platges de Calvia,1,0,,,
-63144733,2025-09-06 16:00,CD Manacor,UD Alcudia,3,0,,,
-63144737,2025-09-07 10:00,SCR Pena Deportiva,UD Rotlet Molinar,2,1,,,
-63144741,2025-09-07 14:30,CE Mercadal,CD Son Cladera,2,1,,,
-63144739,2025-09-07 15:00,Inter Ibiza CD,SD Formentera,1,1,,,
-63144745,2025-09-07 16:30,CE Felanitx,UD Collerense,3,3,,,
-63144735,2025-09-07 17:00,CD Binissalem,CE Santanyi,1,0,,,
-63144743,2025-09-07 17:30,CD Cardassar,RCD Mallorca B,0,4,,,
-63144747,2025-09-13 15:00,CE Santanyi,CE Mercadal,3,0,,,
-63144761,2025-09-13 16:00,UD Rotlet Molinar,CE Felanitx,1,1,,,
-63144749,2025-09-13 17:00,UD Alcudia,CD Cardassar,1,3,,,
-63144751,2025-09-13 17:00,SD Portmany,SCR Pena Deportiva,0,1,,,
-63144763,2025-09-13 17:00,CD Son Cladera,CD Manacor,2,3,,,
-63144757,2025-09-14 10:00,SD Formentera,CD Constancia,2,2,,,
-63144759,2025-09-14 10:00,RCD Mallorca B,CD Llosetense,5,0,,,
-63144755,2025-09-14 16:00,UD Collerense,CD Binissalem,4,1,,,
-63144765,2025-09-20 14:00,CD Manacor,CE Santanyi,5,1,,,
-63144777,2025-09-20 14:00,CD Constancia,SCR Pena Deportiva,1,0,,,
-63144767,2025-09-20 14:30,CE Felanitx,SD Portmany,3,0,,,
-63144769,2025-09-20 14:30,Inter Ibiza CD,RCD Mallorca B,2,0,,,
-63144781,2025-09-20 14:30,CD Llosetense,UD Alcudia,2,0,,,
-63144779,2025-09-21 10:00,SD Formentera,CF Platges de Calvia,2,2,,,
-63144773,2025-09-21 10:30,CE Mercadal,UD Collerense,2,0,,,
-63144775,2025-09-21 16:00,CD Cardassar,CD Son Cladera,0,0,,,
-63144771,2025-09-21 17:00,CD Binissalem,UD Rotlet Molinar,1,1,,,
-63144797,2025-09-27 14:00,UD Rotlet Molinar,CE Mercadal,0,0,,,
-63144791,2025-09-27 15:30,UD Collerense,CD Manacor,2,3,,,
-63144783,2025-09-27 16:00,UD Alcudia,Inter Ibiza CD,1,2,,,
-63144789,2025-09-27 17:00,CF Platges de Calvia,CD Constancia,3,2,,,
-63144799,2025-09-27 17:00,CD Son Cladera,CD Llosetense,0,3,,,
-63144795,2025-09-28 10:00,SCR Pena Deportiva,CE Felanitx,4,1,,,
-63144793,2025-09-28 10:45,RCD Mallorca B,SD Formentera,3,1,,,
-63144785,2025-09-28 15:00,SD Portmany,CD Binissalem,2,1,,,
-63144787,2025-09-28 15:00,CE Santanyi,CD Cardassar,4,1,,,
-63144801,2025-10-04 14:00,CD Manacor,UD Rotlet Molinar,4,1,,,
-63144803,2025-10-04 14:00,CE Mercadal,SD Portmany,2,0,,,
-63144813,2025-10-04 14:30,Inter Ibiza CD,CD Son Cladera,0,3,,,
-63144809,2025-10-04 16:00,CD Constancia,CE Felanitx,1,0,,,
-63144817,2025-10-04 16:00,CF Platges de Calvia,RCD Mallorca B,1,1,,,
-63144811,2025-10-05 10:00,SD Formentera,UD Alcudia,2,0,,,
-63144805,2025-10-05 14:30,CD Binissalem,SCR Pena Deportiva,0,2,,,
-63144815,2025-10-05 14:30,CD Llosetense,CE Santanyi,0,0,,,
-63144807,2025-10-05 15:00,CD Cardassar,UD Collerense,1,1,,,
-63144823,2025-10-11 15:30,UD Collerense,CD Llosetense,0,1,,,
-63144827,2025-10-12 10:00,RCD Mallorca B,CD Constancia,2,0,,,
-63144829,2025-10-12 10:00,SCR Pena Deportiva,CE Mercadal,2,1,,,
-63741517,2025-10-15 15:30,CF Platges de Calvia,Inter Ibiza CD,3,1,,,
-63144839,2025-10-18 14:30,Inter Ibiza CD,UD Collerense,3,1,,,
-63144845,2025-10-18 15:00,CD Constancia,CD Binissalem,3,0,,,
-63144841,2025-10-19 10:00,CE Mercadal,CE Felanitx,1,0,,,
-63144853,2025-10-19 10:00,CF Platges de Calvia,CD Son Cladera,2,0,,,
-63144847,2025-10-19 10:15,SD Formentera,CE Santanyi,0,0,,,
-63144843,2025-10-19 14:00,CD Cardassar,SD Portmany,2,1,,,
-63144837,2025-10-19 14:30,CD Manacor,SCR Pena Deportiva,0,5,,,
-63144849,2025-10-19 14:30,CD Llosetense,UD Rotlet Molinar,3,0,,,
-63144851,2025-10-19 15:00,RCD Mallorca B,UD Alcudia,5,2,,,
-64361127,2025-10-22 18:00,UD Alcudia,CF Platges de Calvia,1,0,,,
-63144855,2025-10-25 15:00,SD Portmany,CD Llosetense,0,0,,,
-63144859,2025-10-25 15:00,UD Alcudia,CD Constancia,1,0,,,
-63144871,2025-10-25 15:30,CD Son Cladera,RCD Mallorca B,1,2,,,
-63144863,2025-10-25 16:00,CE Felanitx,CD Manacor,0,2,,,
-63144867,2025-10-25 16:00,UD Rotlet Molinar,Inter Ibiza CD,0,2,,,
-63144865,2025-10-26 11:00,SCR Pena Deportiva,CD Cardassar,5,1,,,
-63144869,2025-10-26 11:00,CE Santanyi,CF Platges de Calvia,1,3,,,
-63144857,2025-10-26 11:30,CD Binissalem,CE Mercadal,0,1,,,
-63144861,2025-10-26 11:30,UD Collerense,SD Formentera,0,0,,,
-64800774,2025-10-29 15:30,SD Portmany,CD Manacor,0,2,,,
-64800772,2025-10-29 19:00,CE Felanitx,CD Binissalem,0,0,,,
-64551556,2025-10-29 19:15,UD Rotlet Molinar,CD Cardassar,1,2,,,
-63144885,2025-11-01 15:00,CD Llosetense,SCR Pena Deportiva,2,2,,,
-63144875,2025-11-01 16:00,UD Alcudia,CD Son Cladera,1,1,,,
-63144879,2025-11-02 10:30,CD Constancia,CE Mercadal,0,2,,,
-63144887,2025-11-02 11:00,RCD Mallorca B,CE Santanyi,9,0,,,
-63144881,2025-11-02 11:45,SD Formentera,UD Rotlet Molinar,1,0,,,
-63144873,2025-11-02 16:00,CD Manacor,CD Binissalem,1,0,,,
-63144877,2025-11-02 16:00,CD Cardassar,CE Felanitx,1,1,,,
-63144883,2025-11-02 16:00,Inter Ibiza CD,SD Portmany,1,2,,,
-63144889,2025-11-02 17:00,CF Platges de Calvia,UD Collerense,3,0,,,
-63144897,2025-11-08 15:30,CE Felanitx,CD Llosetense,0,3,,,
-63144901,2025-11-08 16:00,SD Portmany,SD Formentera,1,1,,,
-63144895,2025-11-08 16:30,UD Collerense,RCD Mallorca B,0,5,,,
-63144907,2025-11-08 16:30,CD Son Cladera,CD Constancia,2,1,,,
-63144903,2025-11-08 17:00,UD Rotlet Molinar,CF Platges de Calvia,1,1,,,
-63144893,2025-11-09 11:00,CE Mercadal,CD Manacor,0,1,,,
-63144899,2025-11-09 11:00,SCR Pena Deportiva,Inter Ibiza CD,2,0,,,
-63144891,2025-11-09 15:00,CD Binissalem,CD Cardassar,1,1,,,
-65350062,2025-11-12 16:30,CD Son Cladera,SD Formentera,2,1,,,
-63144919,2025-11-15 15:30,CD Llosetense,CD Binissalem,1,1,,,
-63144923,2025-11-15 15:30,CF Platges de Calvia,SD Portmany,1,2,,,
-63144909,2025-11-15 16:00,Inter Ibiza CD,CE Felanitx,0,1,,,
-63144915,2025-11-15 16:30,CD Constancia,CD Manacor,1,2,,,
-63144917,2025-11-16 11:00,SD Formentera,SCR Pena Deportiva,0,1,,,
-63144921,2025-11-16 12:30,RCD Mallorca B,UD Rotlet Molinar,4,0,,,
-63144913,2025-11-16 15:00,CD Cardassar,CE Mercadal,2,1,,,
-63144911,2025-11-16 16:00,UD Alcudia,UD Collerense,3,0,,,
-63144925,2025-11-16 16:00,CD Son Cladera,CE Santanyi,2,1,,,
-63144929,2025-11-22 15:00,SD Portmany,RCD Mallorca B,0,2,,,
-63144931,2025-11-22 15:30,CD Binissalem,Inter Ibiza CD,0,0,,,
-63144943,2025-11-22 15:30,CE Santanyi,CD Constancia,0,2,,,
-63144935,2025-11-22 16:30,UD Collerense,CD Son Cladera,1,1,,,
-63144941,2025-11-22 17:00,UD Rotlet Molinar,UD Alcudia,0,1,,,
-63144939,2025-11-23 10:30,SCR Pena Deportiva,CF Platges de Calvia,1,0,,,
-63144933,2025-11-23 11:00,CE Mercadal,CD Llosetense,0,0,,,
-63144937,2025-11-23 11:45,CE Felanitx,SD Formentera,0,2,,,
-64800776,2025-11-26 15:30,CE Santanyi,Inter Ibiza CD,0,2,,,
-63144957,2025-12-04 19:00,CF Platges de Calvia,CE Felanitx,0,0,,,
-63144955,2025-12-06 15:00,RCD Mallorca B,SCR Pena Deportiva,1,0,,,
-63144947,2025-12-06 15:30,UD Alcudia,SD Portmany,0,0,,,
-63144953,2025-12-06 15:30,CD Llosetense,CD Manacor,1,4,,,
-63144959,2025-12-06 15:30,CE Santanyi,UD Collerense,2,0,,,
-63144961,2025-12-06 16:30,CD Son Cladera,UD Rotlet Molinar,2,0,,,
-63144949,2025-12-07 10:30,CD Constancia,CD Cardassar,1,1,,,
-63144945,2025-12-07 11:00,Inter Ibiza CD,CE Mercadal,0,2,,,
-63144951,2025-12-07 11:00,SD Formentera,CD Binissalem,0,1,,,
-63144963,2025-12-13 15:30,CD Manacor,Inter Ibiza CD,4,1,,,
-63144967,2025-12-13 15:30,CD Binissalem,CF Platges de Calvia,1,0,,,
-63144977,2025-12-13 16:00,SD Portmany,CD Son Cladera,1,0,2.100,3.400,2.900
-63144971,2025-12-13 16:30,UD Collerense,CD Constancia,1,1,4.333,3.500,1.666
-63144973,2025-12-13 16:30,CE Felanitx,RCD Mallorca B,0,1,,,
-63144979,2025-12-13 17:00,UD Rotlet Molinar,CE Santanyi,5,1,2.500,3.200,2.500
-63144975,2025-12-14 11:00,SCR Pena Deportiva,UD Alcudia,5,1,,,
-63144965,2025-12-14 13:00,CE Mercadal,SD Formentera,0,1,,,
-63144969,2025-12-14 16:00,CD Cardassar,CD Llosetense,2,1,3.300,3.250,2.000
-63144993,2025-12-20 11:30,CF Platges de Calvia,CE Mercadal,4,1,1.900,3.100,3.600
-63144989,2025-12-20 13:00,Inter Ibiza CD,CD Cardassar,0,2,,,
-63144987,2025-12-20 14:30,SD Formentera,CD Manacor,0,1,,,
-63144981,2025-12-20 15:00,UD Alcudia,CE Felanitx,2,1,,,
-63144985,2025-12-20 15:30,CD Constancia,CD Llosetense,3,0,,,
-63144995,2025-12-20 15:30,CE Santanyi,SD Portmany,2,0,,,
-63144991,2025-12-20 16:00,RCD Mallorca B,CD Binissalem,3,0,1.125,7.500,17.000
-63144983,2025-12-20 16:30,UD Collerense,UD Rotlet Molinar,3,4,,,
-63145015,2026-01-03 14:30,SD Portmany,UD Collerense,1,1,,,
-63145007,2026-01-04 10:00,CD Constancia,UD Rotlet Molinar,3,0,1.500,3.700,5.750
-63145009,2026-01-04 10:30,CE Felanitx,CD Son Cladera,0,2,,,
-63145001,2026-01-04 11:00,CE Mercadal,RCD Mallorca B,0,2,,,
-63145013,2026-01-04 11:00,SCR Pena Deportiva,CE Santanyi,1,1,,,
-63145005,2026-01-04 12:00,CD Cardassar,SD Formentera,1,2,,,
-63144999,2026-01-04 16:00,CD Manacor,CF Platges de Calvia,1,0,1.750,3.400,4.000
-63145019,2026-01-10 12:00,UD Alcudia,CE Mercadal,0,1,,,
-63145017,2026-01-10 15:00,Inter Ibiza CD,CD Constancia,2,0,,,
-63145021,2026-01-10 15:30,UD Collerense,SCR Pena Deportiva,2,2,,,
-63145029,2026-01-10 15:30,UD Rotlet Molinar,SD Portmany,2,1,,,
-63145031,2026-01-10 16:00,CE Santanyi,CE Felanitx,2,1,,,
-63145033,2026-01-10 16:00,CD Son Cladera,CD Binissalem,0,3,2.050,3.200,3.200
-63145027,2026-01-10 16:30,CF Platges de Calvia,CD Cardassar,0,1,1.615,3.600,4.600
-63145023,2026-01-11 11:00,SD Formentera,CD Llosetense,1,1,,,
-63145025,2026-01-11 11:00,RCD Mallorca B,CD Manacor,4,1,1.615,3.600,4.500
-67129826,2026-01-13 16:15,CD Son Cladera,SCR Pena Deportiva,0,2,4.750,3.500,1.615
-67129830,2026-01-14 16:30,CD Llosetense,Inter Ibiza CD,2,1,2.200,3.200,3.000
-63145035,2026-01-15 19:15,UD Alcudia,CD Manacor,2,2,4.500,3.800,1.615
-63145047,2026-01-17 15:30,UD Rotlet Molinar,SCR Pena Deportiva,1,2,5.500,4.100,1.450
-63145045,2026-01-17 16:00,SD Portmany,CD Constancia,0,1,4.100,3.400,1.727
-63145051,2026-01-17 16:00,CD Son Cladera,CE Mercadal,1,3,,,
-63145037,2026-01-17 16:30,UD Collerense,CE Felanitx,1,2,2.350,3.200,2.625
-63145039,2026-01-18 11:00,SD Formentera,Inter Ibiza CD,0,0,,,
-63145041,2026-01-18 11:00,RCD Mallorca B,CD Cardassar,2,0,1.181,6.000,10.000
-63145049,2026-01-18 16:00,CE Santanyi,CD Binissalem,0,1,2.300,3.100,2.800
-67960298,2026-01-20 18:30,CF Platges de Calvia,CD Llosetense,2,3,2.100,3.100,3.300
-63145055,2026-01-24 15:00,CD Manacor,CD Son Cladera,3,1,,,
-63145053,2026-01-24 16:00,Inter Ibiza CD,CF Platges de Calvia,2,0,,,
-63145059,2026-01-24 16:00,CD Binissalem,UD Collerense,0,0,1.800,3.250,4.000
-63145065,2026-01-24 16:00,CE Felanitx,UD Rotlet Molinar,1,1,,,
-63145057,2026-01-25 11:00,CE Mercadal,CE Santanyi,1,0,,,
-63145069,2026-01-25 11:00,SCR Pena Deportiva,SD Portmany,2,0,1.222,5.500,10.000
-63145067,2026-01-25 11:30,CD Llosetense,RCD Mallorca B,3,1,6.250,3.750,1.450
-63145063,2026-01-25 11:45,CD Constancia,SD Formentera,2,1,1.909,3.100,3.700
-63145061,2026-01-25 16:00,CD Cardassar,UD Alcudia,0,1,1.909,3.400,3.250
-63145071,2026-01-31 16:00,UD Alcudia,CD Llosetense,2,1,,,
-63145085,2026-01-31 16:00,CE Santanyi,CD Manacor,1,1,,,
-63145087,2026-01-31 16:00,CD Son Cladera,CD Cardassar,1,1,,,
-63145083,2026-01-31 17:00,UD Rotlet Molinar,CD Binissalem,0,1,2.550,3.000,2.600
-63145081,2026-02-01 10:30,SD Portmany,CE Felanitx,2,0,,,
-63145075,2026-02-01 15:30,RCD Mallorca B,Inter Ibiza CD,4,2,1.111,8.000,17.000
-63145089,2026-02-07 15:00,Inter Ibiza CD,UD Alcudia,2,0,,,
-63145091,2026-02-07 15:00,CD Manacor,UD Collerense,1,0,,,
-63145095,2026-02-07 15:30,CD Binissalem,SD Portmany,1,2,,,
-63145099,2026-02-07 15:30,CD Constancia,CF Platges de Calvia,0,1,1.950,3.200,3.400
-63145101,2026-02-07 15:30,CE Felanitx,SCR Pena Deportiva,3,2,,,
-63145105,2026-02-07 15:30,CD Llosetense,CD Son Cladera,2,0,,,
-63145103,2026-02-08 11:00,SD Formentera,RCD Mallorca B,0,0,,,
-63145097,2026-02-08 16:00,CD Cardassar,CE Santanyi,2,3,2.100,3.100,3.100
-63145121,2026-02-14 16:00,CE Santanyi,CD Llosetense,3,2,,,
-63145109,2026-02-14 16:30,UD Collerense,CD Cardassar,0,1,,,
-63145119,2026-02-14 16:30,UD Rotlet Molinar,CD Manacor,1,2,4.500,3.600,1.650
-63145113,2026-02-15 11:00,RCD Mallorca B,CF Platges de Calvia,3,0,1.111,8.000,17.000
-63145115,2026-02-15 11:00,SCR Pena Deportiva,CD Binissalem,1,1,1.420,4.000,6.000
-63145107,2026-02-15 12:00,UD Alcudia,SD Formentera,1,0,,,
-63145111,2026-02-15 16:00,CE Felanitx,CD Constancia,0,1,4.000,3.250,1.800
-63145125,2026-02-21 15:00,Inter Ibiza CD,CE Santanyi,2,1,,,
-63145127,2026-02-21 15:00,CD Manacor,SD Portmany,1,0,,,
-63145139,2026-02-21 15:00,CD Llosetense,UD Collerense,4,1,1.500,3.750,5.250
-63145131,2026-02-21 15:30,CD Binissalem,CE Felanitx,0,0,,,
-63145135,2026-02-21 16:00,CD Constancia,RCD Mallorca B,1,1,,,
-63145141,2026-02-21 16:30,CF Platges de Calvia,UD Alcudia,1,0,1.727,3.500,3.900
-63145129,2026-02-22 11:00,CE Mercadal,SCR Pena Deportiva,0,1,,,
-63145137,2026-02-22 11:30,SD Formentera,CD Son Cladera,1,0,,,
-63145133,2026-02-22 16:00,CD Cardassar,UD Rotlet Molinar,1,0,1.800,3.400,3.750
-63145143,2026-02-28 15:30,UD Alcudia,RCD Mallorca B,0,3,,,
-63145145,2026-02-28 15:30,CD Binissalem,CD Constancia,0,1,,,
-63145149,2026-02-28 15:30,CE Felanitx,CE Mercadal,1,1,2.450,2.900,2.800
-63145147,2026-02-28 16:00,UD Collerense,Inter Ibiza CD,1,2,2.900,3.300,2.150
-63145153,2026-02-28 16:00,SD Portmany,CD Cardassar,3,0,,,
-63145159,2026-02-28 16:00,CD Son Cladera,CF Platges de Calvia,3,1,,,
-63145155,2026-02-28 16:30,UD Rotlet Molinar,CD Llosetense,1,4,3.000,3.250,2.100
-63145151,2026-03-01 11:00,SCR Pena Deportiva,CD Manacor,1,1,,,
-63145157,2026-03-01 12:00,CE Santanyi,SD Formentera,1,1,,,
-68939110,2026-03-04 14:30,SCR Pena Deportiva,CD Constancia,2,1,,,
-68723222,2026-03-04 16:00,UD Collerense,CE Mercadal,1,0,2.550,3.300,2.375
-69116222,2026-03-04 16:00,CF Platges de Calvia,SD Formentera,0,2,2.300,3.300,2.700
-63145161,2026-03-07 15:00,Inter Ibiza CD,UD Rotlet Molinar,2,2,,,
-63145163,2026-03-07 15:00,CD Manacor,CE Felanitx,3,3,,,
-63145173,2026-03-07 15:30,CD Llosetense,SD Portmany,3,0,1.600,3.600,4.750
-63145177,2026-03-07 18:30,CF Platges de Calvia,CE Santanyi,0,1,1.800,3.300,4.000
-63145169,2026-03-08 10:45,CD Constancia,UD Alcudia,5,0,,,
-63145165,2026-03-08 11:00,CE Mercadal,CD Binissalem,1,0,,,
-63145175,2026-03-08 11:00,RCD Mallorca B,CD Son Cladera,6,2,1.100,9.000,17.000
-63145171,2026-03-08 11:15,SD Formentera,UD Collerense,1,1,,,
-63145167,2026-03-08 15:00,CD Cardassar,SCR Pena Deportiva,0,2,,,
-69116224,2026-03-11 15:00,CE Mercadal,UD Rotlet Molinar,1,0,,,
-63145181,2026-03-14 15:30,CD Binissalem,CD Manacor,0,1,4.000,3.200,1.800
-63145191,2026-03-14 15:30,UD Rotlet Molinar,SD Formentera,0,5,3.600,3.250,1.850
-63145185,2026-03-14 16:00,CE Felanitx,CD Cardassar,1,1,,,
-63145189,2026-03-14 16:00,SD Portmany,Inter Ibiza CD,0,1,,,
-63145195,2026-03-14 16:00,CD Son Cladera,UD Alcudia,0,1,2.200,3.400,2.750
-63145183,2026-03-14 16:30,UD Collerense,CF Platges de Calvia,0,0,2.875,3.200,2.300
-63145179,2026-03-15 11:00,CE Mercadal,CD Constancia,1,4,,,
-63145187,2026-03-15 11:00,SCR Pena Deportiva,CD Llosetense,1,1,,,
-63145193,2026-03-15 16:15,CE Santanyi,RCD Mallorca B,0,3,6.500,4.200,1.380
-69315020,2026-03-18 15:00,SD Portmany,CE Mercadal,0,0,,,
-69116226,2026-03-18 16:00,CD Son Cladera,Inter Ibiza CD,4,0,2.900,3.100,2.200
-63145197,2026-03-21 15:00,CD Manacor,CE Mercadal,2,0,,,
-63145211,2026-03-21 15:00,RCD Mallorca B,UD Collerense,2,0,1.055,15.000,29.000
-63145199,2026-03-21 15:30,UD Alcudia,CE Santanyi,1,1,,,
-63145203,2026-03-21 16:00,CD Constancia,CD Son Cladera,3,0,1.250,5.000,9.000
-63145213,2026-03-21 17:00,CF Platges de Calvia,UD Rotlet Molinar,3,1,1.480,3.900,5.500
-63145205,2026-03-22 11:00,SD Formentera,SD Portmany,2,1,,,
-63145209,2026-03-22 11:15,CD Llosetense,CE Felanitx,4,2,1.550,3.750,5.000
-63145201,2026-03-22 16:00,CD Cardassar,CD Binissalem,2,4,2.250,3.100,2.900
-63145207,2026-03-22 16:00,Inter Ibiza CD,SCR Pena Deportiva,3,0,,,
-63145215,2026-03-28 15:00,CD Manacor,CD Constancia,3,2,2.100,3.100,3.100
-63145227,2026-03-28 15:15,SD Portmany,CF Platges de Calvia,0,2,2.900,3.250,2.150
-63145219,2026-03-28 15:30,CD Binissalem,CD Llosetense,2,0,2.900,3.100,2.250
-63145223,2026-03-28 15:30,CE Felanitx,Inter Ibiza CD,1,1,,,
-63145231,2026-03-28 16:00,CE Santanyi,CD Son Cladera,4,0,,,
-63145229,2026-03-28 17:00,UD Rotlet Molinar,RCD Mallorca B,2,2,,,
-63145221,2026-03-28 18:45,UD Collerense,UD Alcudia,4,2,2.100,3.250,3.000
-63145217,2026-03-29 10:00,CE Mercadal,CD Cardassar,2,1,,,
-63145225,2026-03-29 10:00,SCR Pena Deportiva,SD Formentera,0,1,,,
-63145239,2026-04-01 17:30,CD Constancia,CE Santanyi,3,0,1.400,4.000,7.000
-63145235,2026-04-01 18:30,UD Alcudia,UD Rotlet Molinar,1,2,,,
-63145233,2026-04-02 14:30,Inter Ibiza CD,CD Binissalem,3,0,,,
-63145249,2026-04-02 15:00,CD Son Cladera,UD Collerense,3,2,1.850,3.300,3.600
-63145241,2026-04-04 13:00,SD Formentera,CE Felanitx,2,0,,,
-63145245,2026-04-05 10:00,RCD Mallorca B,SD Portmany,5,0,1.181,6.500,12.000
-63145247,2026-04-05 10:00,CF Platges de Calvia,SCR Pena Deportiva,0,4,2.700,3.250,2.300
-63145237,2026-04-05 16:00,CD Cardassar,CD Manacor,2,1,5.500,3.600,1.533
-63145251,2026-04-11 14:00,CD Manacor,CD Llosetense,1,0,,,
-63145265,2026-04-11 14:00,SD Portmany,UD Alcudia,3,1,,,
-63145259,2026-04-11 15:30,UD Collerense,CE Santanyi,1,0,,,
-63145267,2026-04-11 16:00,UD Rotlet Molinar,CD Son Cladera,0,2,,,
-63145263,2026-04-12 10:00,SCR Pena Deportiva,RCD Mallorca B,2,2,,,
-63145255,2026-04-12 10:45,CD Binissalem,SD Formentera,1,1,,,
-63145253,2026-04-12 11:30,CE Mercadal,Inter Ibiza CD,0,1,,,
-63145257,2026-04-12 15:00,CD Cardassar,CD Constancia,0,2,,,
-63145271,2026-04-18 14:30,UD Alcudia,SCR Pena Deportiva,2,2,,,
-63145277,2026-04-18 14:30,CD Llosetense,CD Cardassar,1,1,,,
-63145285,2026-04-18 14:30,CD Son Cladera,SD Portmany,1,1,,,
-63145283,2026-04-18 15:00,CE Santanyi,UD Rotlet Molinar,2,2,,,
-63145269,2026-04-18 15:30,Inter Ibiza CD,CD Manacor,3,1,,,
-63145273,2026-04-19 09:30,CD Constancia,UD Collerense,4,0,1.270,4.750,8.500
-63145275,2026-04-19 10:00,SD Formentera,CE Mercadal,1,0,,,
-63145279,2026-04-19 10:00,RCD Mallorca B,CE Felanitx,8,1,1.100,9.000,19.000
-63145281,2026-04-19 17:00,CF Platges de Calvia,CD Binissalem,0,0,,,
-63145261,2026-04-22 18:15,CE Felanitx,CF Platges de Calvia,0,3,,,
-63145291,2026-04-25 14:30,CD Binissalem,RCD Mallorca B,0,2,,,
-63145297,2026-04-25 15:30,CD Llosetense,CD Constancia,1,1,2.700,3.000,2.450
-63145303,2026-04-25 16:00,UD Rotlet Molinar,UD Collerense,2,5,,,
-63145299,2026-04-26 10:00,SCR Pena Deportiva,CD Son Cladera,7,0,,,
-63145301,2026-04-26 10:00,SD Portmany,CE Santanyi,1,1,,,
-63145287,2026-04-26 11:00,CD Manacor,SD Formentera,3,0,,,
-63145293,2026-04-26 13:00,CD Cardassar,Inter Ibiza CD,1,0,,,
-63145289,2026-04-26 14:15,CE Mercadal,CF Platges de Calvia,1,0,,,
-63145295,2026-04-26 15:00,CE Felanitx,UD Alcudia,0,2,,,
-71000880,2026-04-29 14:00,CD Llosetense,CE Mercadal,6,1,1.444,3.900,6.250
-63145309,2026-05-02 14:30,UD Collerense,SD Portmany,2,1,,,
-63145305,2026-05-03 10:00,Inter Ibiza CD,CD Llosetense,0,1,,,
-63145307,2026-05-03 10:00,UD Alcudia,CD Binissalem,1,1,,,
-63145311,2026-05-03 10:00,SD Formentera,CD Cardassar,3,1,,,
-63145313,2026-05-03 10:00,RCD Mallorca B,CE Mercadal,7,0,,,
-63145315,2026-05-03 10:00,CF Platges de Calvia,CD Manacor,4,2,,,
-63145317,2026-05-03 10:00,UD Rotlet Molinar,CD Constancia,1,3,,,
-63145319,2026-05-03 10:00,CE Santanyi,SCR Pena Deportiva,2,1,,,
-63145321,2026-05-03 10:00,CD Son Cladera,CE Felanitx,4,3,,,
-63145323,2026-05-09 13:00,CD Manacor,RCD Mallorca B,1,1,,,
-63145325,2026-05-10 10:00,CE Mercadal,UD Alcudia,3,2,,,
-63145327,2026-05-10 10:00,CD Binissalem,CD Son Cladera,2,0,,,
-63145329,2026-05-10 10:00,CD Cardassar,CF Platges de Calvia,3,1,,,
-63145331,2026-05-10 10:00,CD Constancia,Inter Ibiza CD,3,0,,,
-63145333,2026-05-10 10:00,CE Felanitx,CE Santanyi,2,1,,,
-63145335,2026-05-10 10:00,CD Llosetense,SD Formentera,2,2,,,
-63145337,2026-05-10 10:00,SCR Pena Deportiva,UD Collerense,2,0,,,
-63145339,2026-05-10 10:00,SD Portmany,UD Rotlet Molinar,0,1,,,
-71483564,2026-05-17 10:00,CD Llosetense,CD Manacor,1,1,2.800,3.200,2.250
-71483566,2026-05-17 10:00,CD Constancia,SCR Pena Deportiva,0,0,,,
-71483568,2026-05-23 16:00,CD Manacor,CD Llosetense,0,0,,,
-71483570,2026-05-24 10:30,SCR Pena Deportiva,CD Constancia,2,1,,,
-71753422,2026-05-30 14:00,SCR Pena Deportiva,CD Manacor,2,1,,,
-71753426,2026-06-07 10:00,CD Manacor,SCR Pena Deportiva,1,3,,,
-73584468,2026-09-05 13:30,CE Mercadal,SD Formentera,1,1,,,
-73584464,2026-09-05 17:00,CD Llosetense,CE Sineu,2,0,,,
-73584476,2026-09-05 17:00,CD Manacor,CD Binissalem,2,1,,,
-73584472,2026-09-05 17:30,CD Constancia,UD Arenal,3,0,,,
-73584462,2026-09-06 10:00,PE Sant Jordi,CD Migjorn,1,0,1.950,3.300,3.400
-73584478,2026-09-06 10:00,CD Ibiza Islas Pitiusas,CF Platges de Calvia,2,1,1.650,3.700,4.200
-73584470,2026-09-06 10:15,UD Alcudia,Inter Ibiza CD,5,0,,,
-73584466,2026-09-06 15:30,UE Porreres,CE Andratx,2,0,1.444,3.700,7.000
-73584474,2026-09-06 15:30,CD Cardassar,CE Santanyi,0,0,,,
-73584492,2026-09-12 10:30,Inter Ibiza CD,CE Mercadal,0,2,2.150,3.200,2.900
-73584484,2026-09-12 14:00,CD Migjorn,CD Ibiza Islas Pitiusas,1,3,,,
-73584486,2026-09-12 15:00,CE Sineu,PE Sant Jordi,2,4,,,
-73584488,2026-09-12 15:30,CE Andratx,CD Llosetense,1,0,2.875,3.400,2.150
-73584494,2026-09-12 16:00,UD Arenal,UD Alcudia,1,2,3.800,3.600,1.727
-73584482,2026-09-12 16:30,CF Platges de Calvia,CD Manacor,1,2,,,
-73584480,2026-09-12 17:30,CD Binissalem,CD Cardassar,1,3,2.200,3.000,3.000
-73584490,2026-09-13 10:00,SD Formentera,UE Porreres,3,1,,,
-73584496,2026-09-13 16:00,CE Santanyi,CD Constancia,1,1,3.400,3.300,1.950
-73584498,2026-09-18 17:30,CD Binissalem,CF Platges de Calvia,0,3,2.700,3.000,2.450
-73584506,2026-09-19 14:00,CD Llosetense,SD Formentera,0,0,,,
-73584510,2026-09-19 14:00,CE Mercadal,UD Arenal,1,2,,,
-73584500,2026-09-19 15:00,CE Manacor,CD Migjorn,5,1,,,
-73584512,2026-09-19 17:00,UD Alcudia,CE Santanyi,1,2,2.050,3.400,3.000
-73584502,2026-09-20 10:00,CD Ibiza Islas Pitiusas,CE Sineu,1,0,1.142,6.500,13.000
-73584504,2026-09-20 10:00,PE Sant Jordi,CE Andratx,2,2,2.875,3.250,2.200
-73584508,2026-09-20 15:00,UE Porreres,Inter Ibiza CD,2,1,1.333,4.750,7.000
-73584514,2026-09-20 16:00,CD Cardassar,CD Constancia,1,0,3.100,3.300,2.050
-73584592,2026-09-26 14:30,CE Santanyi,CE Mercadal,1,1,,,
-73584584,2026-09-26 15:00,CE Andratx,CD Ibiza Islas Pitiusas,0,0,,,
-73584588,2026-09-26 15:00,Inter Ibiza CD,CD Llosetense,1,3,,,
-73584590,2026-09-26 15:30,UD Arenal,UE Porreres,1,2,7.500,4.333,1.333
-73584516,2026-09-26 16:30,CF Platges de Calvia,CD Cardassar,1,0,,,
-73584594,2026-09-26 16:30,CD Constancia,UD Alcudia,2,0,1.500,4.333,4.500
-73584582,2026-09-27 10:00,CE Sineu,CE Manacor,1,4,,,
-73584586,2026-09-27 10:00,SD Formentera,PE Sant Jordi,3,0,,,
-73584518,2026-09-27 15:30,CD Migjorn,CD Binissalem,1,0,,,
-73584602,2026-10-03 13:45,CE Mercadal,CD Constancia,1,3,,,
-73584598,2026-10-03 14:00,CD Llosetense,UD Arenal,3,1,,,
-73584610,2026-10-03 14:00,CE Manacor,CE Andratx,2,1,,,
-73584606,2026-10-03 14:30,CF Platges de Calvia,CD Migjorn,3,1,1.181,5.500,13.000
-73584608,2026-10-03 14:30,CD Binissalem,CE Sineu,3,0,,,
-73584612,2026-10-04 10:00,CD Ibiza Islas Pitiusas,SD Formentera,2,0,1.950,3.200,3.400
-73584596,2026-10-04 15:00,PE Sant Jordi,Inter Ibiza CD,0,0,1.950,3.250,3.300
-73584600,2026-10-04 15:30,UE Porreres,CE Santanyi,0,1,1.727,3.500,4.000
-73584604,2026-10-04 16:00,CD Cardassar,UD Alcudia,6,2,,,
-73584628,2026-10-10 10:00,CD Constancia,UE Porreres,1,0,2.300,3.300,2.600
-73584630,2026-10-10 14:00,UD Alcudia,CE Mercadal,1,0,2.000,3.400,3.100
-73584618,2026-10-10 15:00,CE Andratx,CD Binissalem,2,3,,,
-73584622,2026-10-10 15:00,Inter Ibiza CD,CD Ibiza Islas Pitiusas,0,3,5.250,3.400,1.571
-73584624,2026-10-10 15:00,UD Arenal,PE Sant Jordi,0,3,,,
-73584616,2026-10-10 16:30,CE Sineu,CF Platges de Calvia,0,2,,,
-73584620,2026-10-11 10:00,SD Formentera,CE Manacor,2,0,,,
-73584626,2026-10-11 10:00,CE Santanyi,CD Llosetense,3,0,,,
-73584614,2026-10-11 10:30,CD Migjorn,CD Cardassar,2,3,,,
-73584632,2026-10-17 14:30,CD Migjorn,CE Sineu,0,0,,,
-73584634,2026-10-17 17:30,CF Platges de Calvia,CE Andratx,1,0,1.666,3.700,4.100
-73584644,2026-10-18 10:00,CD Llosetense,CD Constancia,0,3,2.700,3.200,2.300
-73584648,2026-10-18 10:00,CD Cardassar,CE Mercadal,1,2,,,
-73584658,2026-10-21 18:45,UD Arenal,CE Manacor,1,1,7.000,4.750,1.300
-73584666,2026-10-24 13:45,CE Mercadal,UE Porreres,1,5,,,
-73584652,2026-10-24 14:00,CE Andratx,CD Migjorn,4,4,1.363,4.333,7.000
-73584654,2026-10-24 14:00,SD Formentera,CF Platges de Calvia,2,3,,,
-73584660,2026-10-24 14:30,CE Santanyi,CD Ibiza Islas Pitiusas,0,0,,,
-73584656,2026-10-24 15:00,Inter Ibiza CD,CD Binissalem,1,1,3.100,3.100,2.150
-73584662,2026-10-24 15:00,CD Constancia,PE Sant Jordi,2,2,1.420,3.900,6.500
-73584664,2026-10-24 15:00,UD Alcudia,CD Llosetense,2,0,,,
-73584650,2026-10-25 11:00,CE Sineu,CD Cardassar,1,1,,,
-73584680,2026-10-31 15:00,PE Sant Jordi,UD Alcudia,3,0,2.300,3.250,2.625
-73584682,2026-10-31 15:00,CD Llosetense,CE Mercadal,2,0,1.750,3.400,4.100
-73584674,2026-10-31 15:30,CD Binissalem,UD Arenal,3,0,,,
-73584668,2026-10-31 15:45,CE Sineu,CE Andratx,4,2,,,
-73584672,2026-10-31 16:00,CF Platges de Calvia,Inter Ibiza CD,5,1,1.363,4.200,7.000
-73584676,2026-10-31 16:30,CE Manacor,CE Santanyi,1,1,,,
-73584678,2026-11-01 11:00,CD Ibiza Islas Pitiusas,CD Constancia,0,0,1.650,3.500,4.200
-73584670,2026-11-01 13:00,CD Migjorn,SD Formentera,0,2,,,
-73584990,2026-11-01 15:30,UE Porreres,CD Cardassar,2,1,1.800,3.400,3.700
-76404788,2026-11-04 19:00,UE Porreres,UD Alcudia,1,0,1.615,3.700,4.333
-73584694,2026-11-06 19:00,CE Santanyi,CD Binissalem,1,2,,,
-73584700,2026-11-07 14:00,CE Mercadal,PE Sant Jordi,0,1,,,
-73584698,2026-11-07 15:30,UD Alcudia,CD Ibiza Islas Pitiusas,0,3,4.333,3.500,1.666
-73584692,2026-11-07 16:30,UD Arenal,CF Platges de Calvia,0,2,6.250,3.900,1.420
-73584696,2026-11-07 17:00,CD Constancia,CE Manacor,1,1,,,
-73584688,2026-11-08 11:00,SD Formentera,CE Sineu,0,1,,,
-73584690,2026-11-08 11:00,Inter Ibiza CD,CD Migjorn,2,0,1.750,3.700,3.500
-73584702,2026-11-08 15:30,UE Porreres,CD Llosetense,0,1,1.800,3.500,3.600
-73584686,2026-11-08 16:00,CE Andratx,CD Cardassar,3,2,1.900,3.500,3.300
-75910284,2026-11-11 15:00,CD Ibiza Islas Pitiusas,UD Arenal,2,0,1.062,11.000,23.000
-75667382,2026-11-11 16:30,CE Manacor,Inter Ibiza CD,3,0,1.166,7.500,9.000
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+60531225,2025-05-24 14:45,CD Constancia,SE Penya Independent,0,1,,,,,,
+60808807,2025-06-08 15:00,UE Porreres,SE Penya Independent,1,1,,,,,,
+63144729,2025-09-06 15:00,CD Constancia,SD Portmany,4,0,,,,,,
+63144731,2025-09-06 15:30,CD Llosetense,CF Platges de Calvia,1,0,,,,,,
+63144733,2025-09-06 16:00,CD Manacor,UD Alcudia,3,0,,,,,,
+63144737,2025-09-07 10:00,SCR Pena Deportiva,UD Rotlet Molinar,2,1,,,,,,
+63144741,2025-09-07 14:30,CE Mercadal,CD Son Cladera,2,1,,,,,,
+63144739,2025-09-07 15:00,Inter Ibiza CD,SD Formentera,1,1,,,,,,
+63144745,2025-09-07 16:30,CE Felanitx,UD Collerense,3,3,,,,,,
+63144735,2025-09-07 17:00,CD Binissalem,CE Santanyi,1,0,,,,,,
+63144743,2025-09-07 17:30,CD Cardassar,RCD Mallorca B,0,4,,,,,,
+63144747,2025-09-13 15:00,CE Santanyi,CE Mercadal,3,0,,,,,,
+63144761,2025-09-13 16:00,UD Rotlet Molinar,CE Felanitx,1,1,,,,,,
+63144749,2025-09-13 17:00,UD Alcudia,CD Cardassar,1,3,,,,,,
+63144751,2025-09-13 17:00,SD Portmany,SCR Pena Deportiva,0,1,,,,,,
+63144763,2025-09-13 17:00,CD Son Cladera,CD Manacor,2,3,,,,,,
+63144757,2025-09-14 10:00,SD Formentera,CD Constancia,2,2,,,,,,
+63144759,2025-09-14 10:00,RCD Mallorca B,CD Llosetense,5,0,,,,,,
+63144755,2025-09-14 16:00,UD Collerense,CD Binissalem,4,1,,,,,,
+63144765,2025-09-20 14:00,CD Manacor,CE Santanyi,5,1,,,,,,
+63144777,2025-09-20 14:00,CD Constancia,SCR Pena Deportiva,1,0,,,,,,
+63144767,2025-09-20 14:30,CE Felanitx,SD Portmany,3,0,,,,,,
+63144769,2025-09-20 14:30,Inter Ibiza CD,RCD Mallorca B,2,0,,,,,,
+63144781,2025-09-20 14:30,CD Llosetense,UD Alcudia,2,0,,,,,,
+63144779,2025-09-21 10:00,SD Formentera,CF Platges de Calvia,2,2,,,,,,
+63144773,2025-09-21 10:30,CE Mercadal,UD Collerense,2,0,,,,,,
+63144775,2025-09-21 16:00,CD Cardassar,CD Son Cladera,0,0,,,,,,
+63144771,2025-09-21 17:00,CD Binissalem,UD Rotlet Molinar,1,1,,,,,,
+63144797,2025-09-27 14:00,UD Rotlet Molinar,CE Mercadal,0,0,,,,,,
+63144791,2025-09-27 15:30,UD Collerense,CD Manacor,2,3,,,,,,
+63144783,2025-09-27 16:00,UD Alcudia,Inter Ibiza CD,1,2,,,,,,
+63144789,2025-09-27 17:00,CF Platges de Calvia,CD Constancia,3,2,,,,,,
+63144799,2025-09-27 17:00,CD Son Cladera,CD Llosetense,0,3,,,,,,
+63144795,2025-09-28 10:00,SCR Pena Deportiva,CE Felanitx,4,1,,,,,,
+63144793,2025-09-28 10:45,RCD Mallorca B,SD Formentera,3,1,,,,,,
+63144785,2025-09-28 15:00,SD Portmany,CD Binissalem,2,1,,,,,,
+63144787,2025-09-28 15:00,CE Santanyi,CD Cardassar,4,1,,,,,,
+63144801,2025-10-04 14:00,CD Manacor,UD Rotlet Molinar,4,1,,,,,,
+63144803,2025-10-04 14:00,CE Mercadal,SD Portmany,2,0,,,,,,
+63144813,2025-10-04 14:30,Inter Ibiza CD,CD Son Cladera,0,3,,,,,,
+63144809,2025-10-04 16:00,CD Constancia,CE Felanitx,1,0,,,,,,
+63144817,2025-10-04 16:00,CF Platges de Calvia,RCD Mallorca B,1,1,,,,,,
+63144811,2025-10-05 10:00,SD Formentera,UD Alcudia,2,0,,,,,,
+63144805,2025-10-05 14:30,CD Binissalem,SCR Pena Deportiva,0,2,,,,,,
+63144815,2025-10-05 14:30,CD Llosetense,CE Santanyi,0,0,,,,,,
+63144807,2025-10-05 15:00,CD Cardassar,UD Collerense,1,1,,,,,,
+63144823,2025-10-11 15:30,UD Collerense,CD Llosetense,0,1,,,,,,
+63144827,2025-10-12 10:00,RCD Mallorca B,CD Constancia,2,0,,,,,,
+63144829,2025-10-12 10:00,SCR Pena Deportiva,CE Mercadal,2,1,,,,,,
+63741517,2025-10-15 15:30,CF Platges de Calvia,Inter Ibiza CD,3,1,,,,,,
+63144839,2025-10-18 14:30,Inter Ibiza CD,UD Collerense,3,1,,,,,,
+63144845,2025-10-18 15:00,CD Constancia,CD Binissalem,3,0,,,,,,
+63144841,2025-10-19 10:00,CE Mercadal,CE Felanitx,1,0,,,,,,
+63144853,2025-10-19 10:00,CF Platges de Calvia,CD Son Cladera,2,0,,,,,,
+63144847,2025-10-19 10:15,SD Formentera,CE Santanyi,0,0,,,,,,
+63144843,2025-10-19 14:00,CD Cardassar,SD Portmany,2,1,,,,,,
+63144837,2025-10-19 14:30,CD Manacor,SCR Pena Deportiva,0,5,,,,,,
+63144849,2025-10-19 14:30,CD Llosetense,UD Rotlet Molinar,3,0,,,,,,
+63144851,2025-10-19 15:00,RCD Mallorca B,UD Alcudia,5,2,,,,,,
+64361127,2025-10-22 18:00,UD Alcudia,CF Platges de Calvia,1,0,,,,,,
+63144855,2025-10-25 15:00,SD Portmany,CD Llosetense,0,0,,,,,,
+63144859,2025-10-25 15:00,UD Alcudia,CD Constancia,1,0,,,,,,
+63144871,2025-10-25 15:30,CD Son Cladera,RCD Mallorca B,1,2,,,,,,
+63144863,2025-10-25 16:00,CE Felanitx,CD Manacor,0,2,,,,,,
+63144867,2025-10-25 16:00,UD Rotlet Molinar,Inter Ibiza CD,0,2,,,,,,
+63144865,2025-10-26 11:00,SCR Pena Deportiva,CD Cardassar,5,1,,,,,,
+63144869,2025-10-26 11:00,CE Santanyi,CF Platges de Calvia,1,3,,,,,,
+63144857,2025-10-26 11:30,CD Binissalem,CE Mercadal,0,1,,,,,,
+63144861,2025-10-26 11:30,UD Collerense,SD Formentera,0,0,,,,,,
+64800774,2025-10-29 15:30,SD Portmany,CD Manacor,0,2,,,,,,
+64800772,2025-10-29 19:00,CE Felanitx,CD Binissalem,0,0,,,,,,
+64551556,2025-10-29 19:15,UD Rotlet Molinar,CD Cardassar,1,2,,,,,,
+63144885,2025-11-01 15:00,CD Llosetense,SCR Pena Deportiva,2,2,,,,,,
+63144875,2025-11-01 16:00,UD Alcudia,CD Son Cladera,1,1,,,,,,
+63144879,2025-11-02 10:30,CD Constancia,CE Mercadal,0,2,,,,,,
+63144887,2025-11-02 11:00,RCD Mallorca B,CE Santanyi,9,0,,,,,,
+63144881,2025-11-02 11:45,SD Formentera,UD Rotlet Molinar,1,0,,,,,,
+63144873,2025-11-02 16:00,CD Manacor,CD Binissalem,1,0,,,,,,
+63144877,2025-11-02 16:00,CD Cardassar,CE Felanitx,1,1,,,,,,
+63144883,2025-11-02 16:00,Inter Ibiza CD,SD Portmany,1,2,,,,,,
+63144889,2025-11-02 17:00,CF Platges de Calvia,UD Collerense,3,0,,,,,,
+63144897,2025-11-08 15:30,CE Felanitx,CD Llosetense,0,3,,,,,,
+63144901,2025-11-08 16:00,SD Portmany,SD Formentera,1,1,,,,,,
+63144895,2025-11-08 16:30,UD Collerense,RCD Mallorca B,0,5,,,,,,
+63144907,2025-11-08 16:30,CD Son Cladera,CD Constancia,2,1,,,,,,
+63144903,2025-11-08 17:00,UD Rotlet Molinar,CF Platges de Calvia,1,1,,,,,,
+63144893,2025-11-09 11:00,CE Mercadal,CD Manacor,0,1,,,,,,
+63144899,2025-11-09 11:00,SCR Pena Deportiva,Inter Ibiza CD,2,0,,,,,,
+63144891,2025-11-09 15:00,CD Binissalem,CD Cardassar,1,1,,,,,,
+65350062,2025-11-12 16:30,CD Son Cladera,SD Formentera,2,1,,,,,,
+63144919,2025-11-15 15:30,CD Llosetense,CD Binissalem,1,1,,,,,,
+63144923,2025-11-15 15:30,CF Platges de Calvia,SD Portmany,1,2,,,,,,
+63144909,2025-11-15 16:00,Inter Ibiza CD,CE Felanitx,0,1,,,,,,
+63144915,2025-11-15 16:30,CD Constancia,CD Manacor,1,2,,,,,,
+63144917,2025-11-16 11:00,SD Formentera,SCR Pena Deportiva,0,1,,,,,,
+63144921,2025-11-16 12:30,RCD Mallorca B,UD Rotlet Molinar,4,0,,,,,,
+63144913,2025-11-16 15:00,CD Cardassar,CE Mercadal,2,1,,,,,,
+63144911,2025-11-16 16:00,UD Alcudia,UD Collerense,3,0,,,,,,
+63144925,2025-11-16 16:00,CD Son Cladera,CE Santanyi,2,1,,,,,,
+63144929,2025-11-22 15:00,SD Portmany,RCD Mallorca B,0,2,,,,,,
+63144931,2025-11-22 15:30,CD Binissalem,Inter Ibiza CD,0,0,,,,,,
+63144943,2025-11-22 15:30,CE Santanyi,CD Constancia,0,2,,,,,,
+63144935,2025-11-22 16:30,UD Collerense,CD Son Cladera,1,1,,,,,,
+63144941,2025-11-22 17:00,UD Rotlet Molinar,UD Alcudia,0,1,,,,,,
+63144939,2025-11-23 10:30,SCR Pena Deportiva,CF Platges de Calvia,1,0,,,,,,
+63144933,2025-11-23 11:00,CE Mercadal,CD Llosetense,0,0,,,,,,
+63144937,2025-11-23 11:45,CE Felanitx,SD Formentera,0,2,,,,,,
+64800776,2025-11-26 15:30,CE Santanyi,Inter Ibiza CD,0,2,,,,,,
+63144957,2025-12-04 19:00,CF Platges de Calvia,CE Felanitx,0,0,,,,,,
+63144955,2025-12-06 15:00,RCD Mallorca B,SCR Pena Deportiva,1,0,,,,,,
+63144947,2025-12-06 15:30,UD Alcudia,SD Portmany,0,0,,,,,,
+63144953,2025-12-06 15:30,CD Llosetense,CD Manacor,1,4,,,,,,
+63144959,2025-12-06 15:30,CE Santanyi,UD Collerense,2,0,,,,,,
+63144961,2025-12-06 16:30,CD Son Cladera,UD Rotlet Molinar,2,0,,,,,,
+63144949,2025-12-07 10:30,CD Constancia,CD Cardassar,1,1,,,,,,
+63144945,2025-12-07 11:00,Inter Ibiza CD,CE Mercadal,0,2,,,,,,
+63144951,2025-12-07 11:00,SD Formentera,CD Binissalem,0,1,,,,,,
+63144963,2025-12-13 15:30,CD Manacor,Inter Ibiza CD,4,1,,,,,,
+63144967,2025-12-13 15:30,CD Binissalem,CF Platges de Calvia,1,0,,,,,,
+63144977,2025-12-13 16:00,SD Portmany,CD Son Cladera,1,0,2.100,3.400,2.900,2.5,2.025,1.775
+63144971,2025-12-13 16:30,UD Collerense,CD Constancia,1,1,4.333,3.500,1.666,2.25,1.900,1.900
+63144973,2025-12-13 16:30,CE Felanitx,RCD Mallorca B,0,1,,,,,,
+63144979,2025-12-13 17:00,UD Rotlet Molinar,CE Santanyi,5,1,2.500,3.200,2.500,2.25,1.900,1.900
+63144975,2025-12-14 11:00,SCR Pena Deportiva,UD Alcudia,5,1,,,,,,
+63144965,2025-12-14 13:00,CE Mercadal,SD Formentera,0,1,,,,,,
+63144969,2025-12-14 16:00,CD Cardassar,CD Llosetense,2,1,3.300,3.250,2.000,2.25,1.825,1.975
+63144993,2025-12-20 11:30,CF Platges de Calvia,CE Mercadal,4,1,1.900,3.100,3.600,2.25,2.025,1.775
+63144989,2025-12-20 13:00,Inter Ibiza CD,CD Cardassar,0,2,,,,,,
+63144987,2025-12-20 14:30,SD Formentera,CD Manacor,0,1,,,,,,
+63144981,2025-12-20 15:00,UD Alcudia,CE Felanitx,2,1,,,,,,
+63144985,2025-12-20 15:30,CD Constancia,CD Llosetense,3,0,,,,,,
+63144995,2025-12-20 15:30,CE Santanyi,SD Portmany,2,0,,,,,,
+63144991,2025-12-20 16:00,RCD Mallorca B,CD Binissalem,3,0,1.125,7.500,17.000,3.5,1.775,2.025
+63144983,2025-12-20 16:30,UD Collerense,UD Rotlet Molinar,3,4,,,,,,
+63145015,2026-01-03 14:30,SD Portmany,UD Collerense,1,1,,,,,,
+63145007,2026-01-04 10:00,CD Constancia,UD Rotlet Molinar,3,0,1.500,3.700,5.750,2.5,1.925,1.875
+63145009,2026-01-04 10:30,CE Felanitx,CD Son Cladera,0,2,,,,,,
+63145001,2026-01-04 11:00,CE Mercadal,RCD Mallorca B,0,2,,,,,,
+63145013,2026-01-04 11:00,SCR Pena Deportiva,CE Santanyi,1,1,,,,,,
+63145005,2026-01-04 12:00,CD Cardassar,SD Formentera,1,2,,,,,,
+63144999,2026-01-04 16:00,CD Manacor,CF Platges de Calvia,1,0,1.750,3.400,4.000,2.5,1.975,1.825
+63145019,2026-01-10 12:00,UD Alcudia,CE Mercadal,0,1,,,,,,
+63145017,2026-01-10 15:00,Inter Ibiza CD,CD Constancia,2,0,,,,,,
+63145021,2026-01-10 15:30,UD Collerense,SCR Pena Deportiva,2,2,,,,,,
+63145029,2026-01-10 15:30,UD Rotlet Molinar,SD Portmany,2,1,,,,,,
+63145031,2026-01-10 16:00,CE Santanyi,CE Felanitx,2,1,,,,,,
+63145033,2026-01-10 16:00,CD Son Cladera,CD Binissalem,0,3,2.050,3.200,3.200,2,1.850,1.950
+63145027,2026-01-10 16:30,CF Platges de Calvia,CD Cardassar,0,1,1.615,3.600,4.600,2.5,1.900,1.900
+63145023,2026-01-11 11:00,SD Formentera,CD Llosetense,1,1,,,,,,
+63145025,2026-01-11 11:00,RCD Mallorca B,CD Manacor,4,1,1.615,3.600,4.500,2.5,1.950,1.850
+67129826,2026-01-13 16:15,CD Son Cladera,SCR Pena Deportiva,0,2,4.750,3.500,1.615,2.5,2.000,1.800
+67129830,2026-01-14 16:30,CD Llosetense,Inter Ibiza CD,2,1,2.200,3.200,3.000,2.25,1.950,1.850
+63145035,2026-01-15 19:15,UD Alcudia,CD Manacor,2,2,4.500,3.800,1.615,2.5,1.950,1.850
+63145047,2026-01-17 15:30,UD Rotlet Molinar,SCR Pena Deportiva,1,2,5.500,4.100,1.450,3,2.025,1.775
+63145045,2026-01-17 16:00,SD Portmany,CD Constancia,0,1,4.100,3.400,1.727,2.25,2.000,1.800
+63145051,2026-01-17 16:00,CD Son Cladera,CE Mercadal,1,3,,,,,,
+63145037,2026-01-17 16:30,UD Collerense,CE Felanitx,1,2,2.350,3.200,2.625,2.25,1.950,1.850
+63145039,2026-01-18 11:00,SD Formentera,Inter Ibiza CD,0,0,,,,,,
+63145041,2026-01-18 11:00,RCD Mallorca B,CD Cardassar,2,0,1.181,6.000,10.000,3.25,1.825,1.975
+63145049,2026-01-18 16:00,CE Santanyi,CD Binissalem,0,1,2.300,3.100,2.800,2,1.825,1.975
+67960298,2026-01-20 18:30,CF Platges de Calvia,CD Llosetense,2,3,2.100,3.100,3.300,2,2.000,1.800
+63145055,2026-01-24 15:00,CD Manacor,CD Son Cladera,3,1,,,,,,
+63145053,2026-01-24 16:00,Inter Ibiza CD,CF Platges de Calvia,2,0,,,,,,
+63145059,2026-01-24 16:00,CD Binissalem,UD Collerense,0,0,1.800,3.250,4.000,2.25,1.775,2.025
+63145065,2026-01-24 16:00,CE Felanitx,UD Rotlet Molinar,1,1,,,,,,
+63145057,2026-01-25 11:00,CE Mercadal,CE Santanyi,1,0,,,,,,
+63145069,2026-01-25 11:00,SCR Pena Deportiva,SD Portmany,2,0,1.222,5.500,10.000,3,1.825,1.975
+63145067,2026-01-25 11:30,CD Llosetense,RCD Mallorca B,3,1,6.250,3.750,1.450,2.5,1.950,1.850
+63145063,2026-01-25 11:45,CD Constancia,SD Formentera,2,1,1.909,3.100,3.700,2,1.825,1.975
+63145061,2026-01-25 16:00,CD Cardassar,UD Alcudia,0,1,1.909,3.400,3.250,2.5,1.975,1.825
+63145071,2026-01-31 16:00,UD Alcudia,CD Llosetense,2,1,,,,,,
+63145085,2026-01-31 16:00,CE Santanyi,CD Manacor,1,1,,,,,,
+63145087,2026-01-31 16:00,CD Son Cladera,CD Cardassar,1,1,,,,,,
+63145083,2026-01-31 17:00,UD Rotlet Molinar,CD Binissalem,0,1,2.550,3.000,2.600,2,1.775,2.025
+63145081,2026-02-01 10:30,SD Portmany,CE Felanitx,2,0,,,,,,
+63145075,2026-02-01 15:30,RCD Mallorca B,Inter Ibiza CD,4,2,1.111,8.000,17.000,3.25,1.925,1.875
+63145089,2026-02-07 15:00,Inter Ibiza CD,UD Alcudia,2,0,,,,,,
+63145091,2026-02-07 15:00,CD Manacor,UD Collerense,1,0,,,,,,
+63145095,2026-02-07 15:30,CD Binissalem,SD Portmany,1,2,,,,,,
+63145099,2026-02-07 15:30,CD Constancia,CF Platges de Calvia,0,1,1.950,3.200,3.400,2.25,2.000,1.800
+63145101,2026-02-07 15:30,CE Felanitx,SCR Pena Deportiva,3,2,,,,,,
+63145105,2026-02-07 15:30,CD Llosetense,CD Son Cladera,2,0,,,,,,
+63145103,2026-02-08 11:00,SD Formentera,RCD Mallorca B,0,0,,,,,,
+63145097,2026-02-08 16:00,CD Cardassar,CE Santanyi,2,3,2.100,3.100,3.100,2.25,1.975,1.825
+63145121,2026-02-14 16:00,CE Santanyi,CD Llosetense,3,2,,,,,,
+63145109,2026-02-14 16:30,UD Collerense,CD Cardassar,0,1,,,,,,
+63145119,2026-02-14 16:30,UD Rotlet Molinar,CD Manacor,1,2,4.500,3.600,1.650,2.5,1.975,1.825
+63145113,2026-02-15 11:00,RCD Mallorca B,CF Platges de Calvia,3,0,1.111,8.000,17.000,3.25,2.000,1.800
+63145115,2026-02-15 11:00,SCR Pena Deportiva,CD Binissalem,1,1,1.420,4.000,6.000,2.5,2.000,1.800
+63145107,2026-02-15 12:00,UD Alcudia,SD Formentera,1,0,,,,,,
+63145111,2026-02-15 16:00,CE Felanitx,CD Constancia,0,1,4.000,3.250,1.800,2.25,2.000,1.800
+63145125,2026-02-21 15:00,Inter Ibiza CD,CE Santanyi,2,1,,,,,,
+63145127,2026-02-21 15:00,CD Manacor,SD Portmany,1,0,,,,,,
+63145139,2026-02-21 15:00,CD Llosetense,UD Collerense,4,1,1.500,3.750,5.250,2.5,1.925,1.875
+63145131,2026-02-21 15:30,CD Binissalem,CE Felanitx,0,0,,,,,,
+63145135,2026-02-21 16:00,CD Constancia,RCD Mallorca B,1,1,,,,,,
+63145141,2026-02-21 16:30,CF Platges de Calvia,UD Alcudia,1,0,1.727,3.500,3.900,2.5,2.025,1.775
+63145129,2026-02-22 11:00,CE Mercadal,SCR Pena Deportiva,0,1,,,,,,
+63145137,2026-02-22 11:30,SD Formentera,CD Son Cladera,1,0,,,,,,
+63145133,2026-02-22 16:00,CD Cardassar,UD Rotlet Molinar,1,0,1.800,3.400,3.750,2.5,2.025,1.775
+63145143,2026-02-28 15:30,UD Alcudia,RCD Mallorca B,0,3,,,,,,
+63145145,2026-02-28 15:30,CD Binissalem,CD Constancia,0,1,,,,,,
+63145149,2026-02-28 15:30,CE Felanitx,CE Mercadal,1,1,2.450,2.900,2.800,2,1.850,1.950
+63145147,2026-02-28 16:00,UD Collerense,Inter Ibiza CD,1,2,2.900,3.300,2.150,2.25,1.875,1.925
+63145153,2026-02-28 16:00,SD Portmany,CD Cardassar,3,0,,,,,,
+63145159,2026-02-28 16:00,CD Son Cladera,CF Platges de Calvia,3,1,,,,,,
+63145155,2026-02-28 16:30,UD Rotlet Molinar,CD Llosetense,1,4,3.000,3.250,2.100,2.5,2.000,1.800
+63145151,2026-03-01 11:00,SCR Pena Deportiva,CD Manacor,1,1,,,,,,
+63145157,2026-03-01 12:00,CE Santanyi,SD Formentera,1,1,,,,,,
+68939110,2026-03-04 14:30,SCR Pena Deportiva,CD Constancia,2,1,,,,,,
+68723222,2026-03-04 16:00,UD Collerense,CE Mercadal,1,0,2.550,3.300,2.375,2.25,1.900,1.900
+69116222,2026-03-04 16:00,CF Platges de Calvia,SD Formentera,0,2,2.300,3.300,2.700,2,1.850,1.950
+63145161,2026-03-07 15:00,Inter Ibiza CD,UD Rotlet Molinar,2,2,,,,,,
+63145163,2026-03-07 15:00,CD Manacor,CE Felanitx,3,3,,,,,,
+63145173,2026-03-07 15:30,CD Llosetense,SD Portmany,3,0,1.600,3.600,4.750,2.5,1.850,1.950
+63145177,2026-03-07 18:30,CF Platges de Calvia,CE Santanyi,0,1,1.800,3.300,4.000,2.5,1.825,1.975
+63145169,2026-03-08 10:45,CD Constancia,UD Alcudia,5,0,,,,,,
+63145165,2026-03-08 11:00,CE Mercadal,CD Binissalem,1,0,,,,,,
+63145175,2026-03-08 11:00,RCD Mallorca B,CD Son Cladera,6,2,1.100,9.000,17.000,3.5,1.800,2.000
+63145171,2026-03-08 11:15,SD Formentera,UD Collerense,1,1,,,,,,
+63145167,2026-03-08 15:00,CD Cardassar,SCR Pena Deportiva,0,2,,,,,,
+69116224,2026-03-11 15:00,CE Mercadal,UD Rotlet Molinar,1,0,,,,,,
+63145181,2026-03-14 15:30,CD Binissalem,CD Manacor,0,1,4.000,3.200,1.800,2,1.875,1.925
+63145191,2026-03-14 15:30,UD Rotlet Molinar,SD Formentera,0,5,3.600,3.250,1.850,2.25,1.900,1.900
+63145185,2026-03-14 16:00,CE Felanitx,CD Cardassar,1,1,,,,,,
+63145189,2026-03-14 16:00,SD Portmany,Inter Ibiza CD,0,1,,,,,,
+63145195,2026-03-14 16:00,CD Son Cladera,UD Alcudia,0,1,2.200,3.400,2.750,2.5,1.975,1.825
+63145183,2026-03-14 16:30,UD Collerense,CF Platges de Calvia,0,0,2.875,3.200,2.300,2.25,2.000,1.800
+63145179,2026-03-15 11:00,CE Mercadal,CD Constancia,1,4,,,,,,
+63145187,2026-03-15 11:00,SCR Pena Deportiva,CD Llosetense,1,1,,,,,,
+63145193,2026-03-15 16:15,CE Santanyi,RCD Mallorca B,0,3,6.500,4.200,1.380,3,2.000,1.800
+69315020,2026-03-18 15:00,SD Portmany,CE Mercadal,0,0,,,,,,
+69116226,2026-03-18 16:00,CD Son Cladera,Inter Ibiza CD,4,0,2.900,3.100,2.200,2.5,2.000,1.800
+63145197,2026-03-21 15:00,CD Manacor,CE Mercadal,2,0,,,,,,
+63145211,2026-03-21 15:00,RCD Mallorca B,UD Collerense,2,0,1.055,15.000,29.000,4.5,1.950,1.850
+63145199,2026-03-21 15:30,UD Alcudia,CE Santanyi,1,1,,,,,,
+63145203,2026-03-21 16:00,CD Constancia,CD Son Cladera,3,0,1.250,5.000,9.000,2.75,2.000,1.800
+63145213,2026-03-21 17:00,CF Platges de Calvia,UD Rotlet Molinar,3,1,1.480,3.900,5.500,2.5,1.975,1.825
+63145205,2026-03-22 11:00,SD Formentera,SD Portmany,2,1,,,,,,
+63145209,2026-03-22 11:15,CD Llosetense,CE Felanitx,4,2,1.550,3.750,5.000,2.5,1.900,1.900
+63145201,2026-03-22 16:00,CD Cardassar,CD Binissalem,2,4,2.250,3.100,2.900,2,1.850,1.950
+63145207,2026-03-22 16:00,Inter Ibiza CD,SCR Pena Deportiva,3,0,,,,,,
+63145215,2026-03-28 15:00,CD Manacor,CD Constancia,3,2,2.100,3.100,3.100,2,1.875,1.925
+63145227,2026-03-28 15:15,SD Portmany,CF Platges de Calvia,0,2,2.900,3.250,2.150,2.25,1.875,1.925
+63145219,2026-03-28 15:30,CD Binissalem,CD Llosetense,2,0,2.900,3.100,2.250,2,1.800,2.000
+63145223,2026-03-28 15:30,CE Felanitx,Inter Ibiza CD,1,1,,,,,,
+63145231,2026-03-28 16:00,CE Santanyi,CD Son Cladera,4,0,,,,,,
+63145229,2026-03-28 17:00,UD Rotlet Molinar,RCD Mallorca B,2,2,,,,,,
+63145221,2026-03-28 18:45,UD Collerense,UD Alcudia,4,2,2.100,3.250,3.000,2.25,1.900,1.900
+63145217,2026-03-29 10:00,CE Mercadal,CD Cardassar,2,1,,,,,,
+63145225,2026-03-29 10:00,SCR Pena Deportiva,SD Formentera,0,1,,,,,,
+63145239,2026-04-01 17:30,CD Constancia,CE Santanyi,3,0,1.400,4.000,7.000,2.5,1.950,1.850
+63145235,2026-04-01 18:30,UD Alcudia,UD Rotlet Molinar,1,2,,,,,,
+63145233,2026-04-02 14:30,Inter Ibiza CD,CD Binissalem,3,0,,,,,,
+63145249,2026-04-02 15:00,CD Son Cladera,UD Collerense,3,2,1.850,3.300,3.600,2.5,1.975,1.825
+63145241,2026-04-04 13:00,SD Formentera,CE Felanitx,2,0,,,,,,
+63145245,2026-04-05 10:00,RCD Mallorca B,SD Portmany,5,0,1.181,6.500,12.000,3.5,1.850,1.950
+63145247,2026-04-05 10:00,CF Platges de Calvia,SCR Pena Deportiva,0,4,2.700,3.250,2.300,2.25,1.825,1.975
+63145237,2026-04-05 16:00,CD Cardassar,CD Manacor,2,1,5.500,3.600,1.533,2.5,1.925,1.875
+63145251,2026-04-11 14:00,CD Manacor,CD Llosetense,1,0,,,,,,
+63145265,2026-04-11 14:00,SD Portmany,UD Alcudia,3,1,,,,,,
+63145259,2026-04-11 15:30,UD Collerense,CE Santanyi,1,0,,,,,,
+63145267,2026-04-11 16:00,UD Rotlet Molinar,CD Son Cladera,0,2,,,,,,
+63145263,2026-04-12 10:00,SCR Pena Deportiva,RCD Mallorca B,2,2,,,,,,
+63145255,2026-04-12 10:45,CD Binissalem,SD Formentera,1,1,,,,,,
+63145253,2026-04-12 11:30,CE Mercadal,Inter Ibiza CD,0,1,,,,,,
+63145257,2026-04-12 15:00,CD Cardassar,CD Constancia,0,2,,,,,,
+63145271,2026-04-18 14:30,UD Alcudia,SCR Pena Deportiva,2,2,,,,,,
+63145277,2026-04-18 14:30,CD Llosetense,CD Cardassar,1,1,,,,,,
+63145285,2026-04-18 14:30,CD Son Cladera,SD Portmany,1,1,,,,,,
+63145283,2026-04-18 15:00,CE Santanyi,UD Rotlet Molinar,2,2,,,,,,
+63145269,2026-04-18 15:30,Inter Ibiza CD,CD Manacor,3,1,,,,,,
+63145273,2026-04-19 09:30,CD Constancia,UD Collerense,4,0,1.270,4.750,8.500,2.75,1.900,1.900
+63145275,2026-04-19 10:00,SD Formentera,CE Mercadal,1,0,,,,,,
+63145279,2026-04-19 10:00,RCD Mallorca B,CE Felanitx,8,1,1.100,9.000,19.000,4,1.925,1.875
+63145281,2026-04-19 17:00,CF Platges de Calvia,CD Binissalem,0,0,,,,,,
+63145261,2026-04-22 18:15,CE Felanitx,CF Platges de Calvia,0,3,,,,,,
+63145291,2026-04-25 14:30,CD Binissalem,RCD Mallorca B,0,2,,,,,,
+63145297,2026-04-25 15:30,CD Llosetense,CD Constancia,1,1,2.700,3.000,2.450,2.5,2.000,1.800
+63145303,2026-04-25 16:00,UD Rotlet Molinar,UD Collerense,2,5,,,,,,
+63145299,2026-04-26 10:00,SCR Pena Deportiva,CD Son Cladera,7,0,,,,,,
+63145301,2026-04-26 10:00,SD Portmany,CE Santanyi,1,1,,,,,,
+63145287,2026-04-26 11:00,CD Manacor,SD Formentera,3,0,,,,,,
+63145293,2026-04-26 13:00,CD Cardassar,Inter Ibiza CD,1,0,,,,,,
+63145289,2026-04-26 14:15,CE Mercadal,CF Platges de Calvia,1,0,,,,,,
+63145295,2026-04-26 15:00,CE Felanitx,UD Alcudia,0,2,,,,,,
+71000880,2026-04-29 14:00,CD Llosetense,CE Mercadal,6,1,1.444,3.900,6.250,2.5,2.000,1.800
+63145309,2026-05-02 14:30,UD Collerense,SD Portmany,2,1,,,,,,
+63145305,2026-05-03 10:00,Inter Ibiza CD,CD Llosetense,0,1,,,,,,
+63145307,2026-05-03 10:00,UD Alcudia,CD Binissalem,1,1,,,,,,
+63145311,2026-05-03 10:00,SD Formentera,CD Cardassar,3,1,,,,,,
+63145313,2026-05-03 10:00,RCD Mallorca B,CE Mercadal,7,0,,,,,,
+63145315,2026-05-03 10:00,CF Platges de Calvia,CD Manacor,4,2,,,,,,
+63145317,2026-05-03 10:00,UD Rotlet Molinar,CD Constancia,1,3,,,,,,
+63145319,2026-05-03 10:00,CE Santanyi,SCR Pena Deportiva,2,1,,,,,,
+63145321,2026-05-03 10:00,CD Son Cladera,CE Felanitx,4,3,,,,,,
+63145323,2026-05-09 13:00,CD Manacor,RCD Mallorca B,1,1,,,,,,
+63145325,2026-05-10 10:00,CE Mercadal,UD Alcudia,3,2,,,,,,
+63145327,2026-05-10 10:00,CD Binissalem,CD Son Cladera,2,0,,,,,,
+63145329,2026-05-10 10:00,CD Cardassar,CF Platges de Calvia,3,1,,,,,,
+63145331,2026-05-10 10:00,CD Constancia,Inter Ibiza CD,3,0,,,,,,
+63145333,2026-05-10 10:00,CE Felanitx,CE Santanyi,2,1,,,,,,
+63145335,2026-05-10 10:00,CD Llosetense,SD Formentera,2,2,,,,,,
+63145337,2026-05-10 10:00,SCR Pena Deportiva,UD Collerense,2,0,,,,,,
+63145339,2026-05-10 10:00,SD Portmany,UD Rotlet Molinar,0,1,,,,,,
+71483564,2026-05-17 10:00,CD Llosetense,CD Manacor,1,1,2.800,3.200,2.250,2.5,1.925,1.875
+71483566,2026-05-17 10:00,CD Constancia,SCR Pena Deportiva,0,0,,,,,,
+71483568,2026-05-23 16:00,CD Manacor,CD Llosetense,0,0,,,,,,
+71483570,2026-05-24 10:30,SCR Pena Deportiva,CD Constancia,2,1,,,,,,
+71753422,2026-05-30 14:00,SCR Pena Deportiva,CD Manacor,2,1,,,,,,
+71753426,2026-06-07 10:00,CD Manacor,SCR Pena Deportiva,1,3,,,,,,
+73584468,2026-09-05 13:30,CE Mercadal,SD Formentera,1,1,,,,,,
+73584464,2026-09-05 17:00,CD Llosetense,CE Sineu,2,0,,,,,,
+73584476,2026-09-05 17:00,CD Manacor,CD Binissalem,2,1,,,,,,
+73584472,2026-09-05 17:30,CD Constancia,UD Arenal,3,0,,,,,,
+73584462,2026-09-06 10:00,PE Sant Jordi,CD Migjorn,1,0,1.950,3.300,3.400,2.25,1.900,1.900
+73584478,2026-09-06 10:00,CD Ibiza Islas Pitiusas,CF Platges de Calvia,2,1,1.650,3.700,4.200,2.5,2.000,1.800
+73584470,2026-09-06 10:15,UD Alcudia,Inter Ibiza CD,5,0,,,,,,
+73584466,2026-09-06 15:30,UE Porreres,CE Andratx,2,0,1.444,3.700,7.000,2.25,1.900,1.900
+73584474,2026-09-06 15:30,CD Cardassar,CE Santanyi,0,0,,,,,,
+73584492,2026-09-12 10:30,Inter Ibiza CD,CE Mercadal,0,2,2.150,3.200,2.900,2.25,1.950,1.850
+73584484,2026-09-12 14:00,CD Migjorn,CD Ibiza Islas Pitiusas,1,3,,,,,,
+73584486,2026-09-12 15:00,CE Sineu,PE Sant Jordi,2,4,,,,,,
+73584488,2026-09-12 15:30,CE Andratx,CD Llosetense,1,0,2.875,3.400,2.150,2.75,2.000,1.800
+73584494,2026-09-12 16:00,UD Arenal,UD Alcudia,1,2,3.800,3.600,1.727,2.5,1.825,1.975
+73584482,2026-09-12 16:30,CF Platges de Calvia,CD Manacor,1,2,,,,,,
+73584480,2026-09-12 17:30,CD Binissalem,CD Cardassar,1,3,2.200,3.000,3.000,2,1.875,1.925
+73584490,2026-09-13 10:00,SD Formentera,UE Porreres,3,1,,,,,,
+73584496,2026-09-13 16:00,CE Santanyi,CD Constancia,1,1,3.400,3.300,1.950,2.25,1.975,1.825
+73584498,2026-09-18 17:30,CD Binissalem,CF Platges de Calvia,0,3,2.700,3.000,2.450,2,1.925,1.875
+73584506,2026-09-19 14:00,CD Llosetense,SD Formentera,0,0,,,,,,
+73584510,2026-09-19 14:00,CE Mercadal,UD Arenal,1,2,,,,,,
+73584500,2026-09-19 15:00,CE Manacor,CD Migjorn,5,1,,,,,,
+73584512,2026-09-19 17:00,UD Alcudia,CE Santanyi,1,2,2.050,3.400,3.000,2.5,1.900,1.900
+73584502,2026-09-20 10:00,CD Ibiza Islas Pitiusas,CE Sineu,1,0,1.142,6.500,13.000,3.25,1.900,1.900
+73584504,2026-09-20 10:00,PE Sant Jordi,CE Andratx,2,2,2.875,3.250,2.200,2.5,2.000,1.800
+73584508,2026-09-20 15:00,UE Porreres,Inter Ibiza CD,2,1,1.333,4.750,7.000,3,1.975,1.825
+73584514,2026-09-20 16:00,CD Cardassar,CD Constancia,1,0,3.100,3.300,2.050,2.25,1.775,2.025
+73584592,2026-09-26 14:30,CE Santanyi,CE Mercadal,1,1,,,,,,
+73584584,2026-09-26 15:00,CE Andratx,CD Ibiza Islas Pitiusas,0,0,,,,,,
+73584588,2026-09-26 15:00,Inter Ibiza CD,CD Llosetense,1,3,,,,,,
+73584590,2026-09-26 15:30,UD Arenal,UE Porreres,1,2,7.500,4.333,1.333,2.75,1.900,1.900
+73584516,2026-09-26 16:30,CF Platges de Calvia,CD Cardassar,1,0,,,,,,
+73584594,2026-09-26 16:30,CD Constancia,UD Alcudia,2,0,1.500,4.333,4.500,2.75,1.900,1.900
+73584582,2026-09-27 10:00,CE Sineu,CE Manacor,1,4,,,,,,
+73584586,2026-09-27 10:00,SD Formentera,PE Sant Jordi,3,0,,,,,,
+73584518,2026-09-27 15:30,CD Migjorn,CD Binissalem,1,0,,,,,,
+73584602,2026-10-03 13:45,CE Mercadal,CD Constancia,1,3,,,,,,
+73584598,2026-10-03 14:00,CD Llosetense,UD Arenal,3,1,,,,,,
+73584610,2026-10-03 14:00,CE Manacor,CE Andratx,2,1,,,,,,
+73584606,2026-10-03 14:30,CF Platges de Calvia,CD Migjorn,3,1,1.181,5.500,13.000,2.75,1.900,1.900
+73584608,2026-10-03 14:30,CD Binissalem,CE Sineu,3,0,,,,,,
+73584612,2026-10-04 10:00,CD Ibiza Islas Pitiusas,SD Formentera,2,0,1.950,3.200,3.400,2.25,1.950,1.850
+73584596,2026-10-04 15:00,PE Sant Jordi,Inter Ibiza CD,0,0,1.950,3.250,3.300,2.25,1.800,2.000
+73584600,2026-10-04 15:30,UE Porreres,CE Santanyi,0,1,1.727,3.500,4.000,2.5,1.975,1.825
+73584604,2026-10-04 16:00,CD Cardassar,UD Alcudia,6,2,,,,,,
+73584628,2026-10-10 10:00,CD Constancia,UE Porreres,1,0,2.300,3.300,2.600,2.5,2.025,1.775
+73584630,2026-10-10 14:00,UD Alcudia,CE Mercadal,1,0,2.000,3.400,3.100,2.5,1.975,1.825
+73584618,2026-10-10 15:00,CE Andratx,CD Binissalem,2,3,,,,,,
+73584622,2026-10-10 15:00,Inter Ibiza CD,CD Ibiza Islas Pitiusas,0,3,5.250,3.400,1.571,2.25,1.850,1.950
+73584624,2026-10-10 15:00,UD Arenal,PE Sant Jordi,0,3,,,,,,
+73584616,2026-10-10 16:30,CE Sineu,CF Platges de Calvia,0,2,,,,,,
+73584620,2026-10-11 10:00,SD Formentera,CE Manacor,2,0,,,,,,
+73584626,2026-10-11 10:00,CE Santanyi,CD Llosetense,3,0,,,,,,
+73584614,2026-10-11 10:30,CD Migjorn,CD Cardassar,2,3,,,,,,
+73584632,2026-10-17 14:30,CD Migjorn,CE Sineu,0,0,,,,,,
+73584634,2026-10-17 17:30,CF Platges de Calvia,CE Andratx,1,0,1.666,3.700,4.100,2.25,1.825,1.975
+73584644,2026-10-18 10:00,CD Llosetense,CD Constancia,0,3,2.700,3.200,2.300,2.25,1.875,1.925
+73584648,2026-10-18 10:00,CD Cardassar,CE Mercadal,1,2,,,,,,
+73584658,2026-10-21 18:45,UD Arenal,CE Manacor,1,1,7.000,4.750,1.300,3,1.825,1.975
+73584666,2026-10-24 13:45,CE Mercadal,UE Porreres,1,5,,,,,,
+73584652,2026-10-24 14:00,CE Andratx,CD Migjorn,4,4,1.363,4.333,7.000,2.5,1.800,2.000
+73584654,2026-10-24 14:00,SD Formentera,CF Platges de Calvia,2,3,,,,,,
+73584660,2026-10-24 14:30,CE Santanyi,CD Ibiza Islas Pitiusas,0,0,,,,,,
+73584656,2026-10-24 15:00,Inter Ibiza CD,CD Binissalem,1,1,3.100,3.100,2.150,2.25,1.950,1.850
+73584662,2026-10-24 15:00,CD Constancia,PE Sant Jordi,2,2,1.420,3.900,6.500,2.5,1.900,1.900
+73584664,2026-10-24 15:00,UD Alcudia,CD Llosetense,2,0,,,,,,
+73584650,2026-10-25 11:00,CE Sineu,CD Cardassar,1,1,,,,,,
+73584680,2026-10-31 15:00,PE Sant Jordi,UD Alcudia,3,0,2.300,3.250,2.625,2.5,2.025,1.775
+73584682,2026-10-31 15:00,CD Llosetense,CE Mercadal,2,0,1.750,3.400,4.100,2.25,1.825,1.975
+73584674,2026-10-31 15:30,CD Binissalem,UD Arenal,3,0,,,,,,
+73584668,2026-10-31 15:45,CE Sineu,CE Andratx,4,2,,,,,,
+73584672,2026-10-31 16:00,CF Platges de Calvia,Inter Ibiza CD,5,1,1.363,4.200,7.000,2.5,1.800,2.000
+73584676,2026-10-31 16:30,CE Manacor,CE Santanyi,1,1,,,,,,
+73584678,2026-11-01 11:00,CD Ibiza Islas Pitiusas,CD Constancia,0,0,1.650,3.500,4.200,2.5,2.025,1.775
+73584670,2026-11-01 13:00,CD Migjorn,SD Formentera,0,2,,,,,,
+73584990,2026-11-01 15:30,UE Porreres,CD Cardassar,2,1,1.800,3.400,3.700,2.5,1.875,1.925
+76404788,2026-11-04 19:00,UE Porreres,UD Alcudia,1,0,1.615,3.700,4.333,2.5,1.800,2.000
+73584694,2026-11-06 19:00,CE Santanyi,CD Binissalem,1,2,,,,,,
+73584700,2026-11-07 14:00,CE Mercadal,PE Sant Jordi,0,1,,,,,,
+73584698,2026-11-07 15:30,UD Alcudia,CD Ibiza Islas Pitiusas,0,3,4.333,3.500,1.666,2.5,1.950,1.850
+73584692,2026-11-07 16:30,UD Arenal,CF Platges de Calvia,0,2,6.250,3.900,1.420,2.5,1.900,1.900
+73584696,2026-11-07 17:00,CD Constancia,CE Manacor,1,1,,,,,,
+73584688,2026-11-08 11:00,SD Formentera,CE Sineu,0,1,,,,,,
+73584690,2026-11-08 11:00,Inter Ibiza CD,CD Migjorn,2,0,1.750,3.700,3.500,2.75,1.975,1.825
+73584702,2026-11-08 15:30,UE Porreres,CD Llosetense,0,1,1.800,3.500,3.600,2.5,1.950,1.850
+73584686,2026-11-08 16:00,CE Andratx,CD Cardassar,3,2,1.900,3.500,3.300,2.5,1.900,1.900
+75910284,2026-11-11 15:00,CD Ibiza Islas Pitiusas,UD Arenal,2,0,1.062,11.000,23.000,4,1.975,1.825
+75667382,2026-11-11 16:30,CE Manacor,Inter Ibiza CD,3,0,1.166,7.500,9.000,3,1.775,2.025

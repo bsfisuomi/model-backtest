@@ -1,385 +1,385 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-54640473,2025-05-24 10:00,Stomil Olsztyn,Victoria Sulejowek,2,1,,,
-54640479,2025-05-24 15:00,TS Sokol Aleksandrow Lodzki,Unia Skierniewice,1,4,,,
-54640483,2025-05-24 15:00,MKS Mlawianka Mlawa,KS Warta Sieradz,4,0,,,
-54640471,2025-05-25 10:00,KS Pelikan Lowicz,Wisla Plock II,1,1,,,
-54640477,2025-05-25 10:00,Legia Warszawa II,LKS 1926 Lomza,0,1,,,
-54640481,2025-05-25 16:00,Wigry Suwalki,Lechia Tomaszow Mazowiecki,1,0,,,
-54640495,2025-05-30 17:45,Unia Skierniewice,Legia Warszawa II,0,0,,,
-54640487,2025-05-30 18:00,GKS Wikielec,GKS Belchatow,1,2,,,
-54640503,2025-05-31 10:30,Wisla Plock II,Swit Nowy Dwor Mazowiecki,0,0,,,
-54640501,2025-05-31 16:00,Victoria Sulejowek,KS Pelikan Lowicz,1,0,,,
-54640491,2025-05-31 16:30,KS Warta Sieradz,Wigry Suwalki,3,2,,,
-54640507,2025-06-07 13:00,Swit Nowy Dwor Mazowiecki,Victoria Sulejowek,2,3,,,
-54640511,2025-06-07 13:00,Stomil Olsztyn,LKS 1926 Lomza,0,4,,,
-54640519,2025-06-07 13:00,Wigry Suwalki,Bron Radom,2,1,,,
-62037572,2025-08-08 17:23,Lechia Tomaszow Mazowiecki,Jagiellonia II Bialystok,1,1,,,
-62037582,2025-08-08 17:47,Wigry Suwalki,Zabkovia Zabki,1,2,,,
-62037574,2025-08-09 13:00,LKS 1926 Lomza,Widzew Lodz II,6,4,,,
-62037568,2025-08-09 15:00,GKS Belchatow,Bron Radom,4,4,,,
-62037576,2025-08-09 15:00,MKS Mlawianka Mlawa,Legia Warszawa II,2,2,,,
-62037578,2025-08-09 15:00,ZKS Olimpia Elblag,KS Warta Sieradz,0,2,,,
-62037580,2025-08-09 15:00,Swit Nowy Dwor Mazowiecki,KS Ck Troszyn,2,1,,,
-62037584,2025-08-10 10:00,Wisla Plock II,Mlks Znicz Biala Piska,4,1,,,
-62037600,2025-08-15 15:00,Zabkovia Zabki,ZKS Olimpia Elblag,2,3,,,
-62037594,2025-08-16 10:00,Legia Warszawa II,Swit Nowy Dwor Mazowiecki,2,1,,,
-62037612,2025-08-22 15:00,MKS Mlawianka Mlawa,Wisla Plock II,2,1,,,
-62037610,2025-08-23 13:00,LKS 1926 Lomza,Mlks Znicz Biala Piska,4,0,,,
-62037614,2025-08-23 13:00,ZKS Olimpia Elblag,Jagiellonia II Bialystok,2,0,,,
-62037620,2025-08-23 14:00,Zabkovia Zabki,KS Warta Sieradz,2,1,,,
-62037630,2025-08-27 15:00,KS Wasilkow,Legia Warszawa II,3,1,,,
-62037634,2025-08-27 15:00,KS Warta Sieradz,Lechia Tomaszow Mazowiecki,2,1,,,
-62037636,2025-08-27 15:00,Wisla Plock II,LKS 1926 Lomza,2,1,,,
-62037624,2025-08-27 16:00,GKS Wikielec,ZKS Olimpia Elblag,1,1,,,
-62037644,2025-08-30 13:00,LKS 1926 Lomza,Bron Radom,2,0,,,
-62037654,2025-08-30 14:00,Zabkovia Zabki,KS Ck Troszyn,6,2,,,
-62037652,2025-08-30 17:47,Wigry Suwalki,Wisla Plock II,3,2,,,
-62037640,2025-08-31 10:00,Lechia Tomaszow Mazowiecki,GKS Belchatow,1,2,,,
-62037642,2025-08-31 10:00,Legia Warszawa II,Jagiellonia II Bialystok,2,1,,,
-62037658,2025-09-05 16:00,Bron Radom,Wigry Suwalki,2,0,,,
-62037672,2025-09-06 14:00,Swit Nowy Dwor Mazowiecki,KS Warta Sieradz,0,1,,,
-62037660,2025-09-06 15:00,GKS Belchatow,Zabkovia Zabki,3,6,,,
-62037690,2025-09-12 14:30,Zabkovia Zabki,LKS 1926 Lomza,2,0,,,
-62037682,2025-09-13 14:30,MKS Mlawianka Mlawa,GKS Belchatow,2,3,,,
-63283477,2025-09-17 11:00,Wisla Plock II,Legia Warszawa II,1,2,,,
-62037694,2025-09-19 16:30,Bron Radom,Mlks Znicz Biala Piska,2,0,,,
-62037710,2025-09-20 10:00,Wisla Plock II,Zabkovia Zabki,2,2,,,
-62037706,2025-09-20 12:00,Swit Nowy Dwor Mazowiecki,Jagiellonia II Bialystok,3,2,,,
-62037696,2025-09-20 14:00,GKS Belchatow,KS Wasilkow,3,1,,,
-62037700,2025-09-21 13:00,Legia Warszawa II,ZKS Olimpia Elblag,4,2,,,
-62037712,2025-09-27 10:00,GKS Wikielec,Wisla Plock II,1,2,,,
-62037716,2025-09-27 14:00,KS Wasilkow,Widzew Lodz II,2,3,,,
-62037722,2025-09-27 14:00,KS Warta Sieradz,GKS Belchatow,2,1,,,
-62037714,2025-09-28 10:00,Jagiellonia II Bialystok,Bron Radom,1,0,,,
-62037740,2025-10-03 17:45,KS Warta Sieradz,Mlks Znicz Biala Piska,3,1,,,
-62037746,2025-10-04 13:00,Zabkovia Zabki,Lechia Tomaszow Mazowiecki,2,1,,,
-62037742,2025-10-05 10:00,Widzew Lodz II,Jagiellonia II Bialystok,1,1,,,
-62037752,2025-10-11 10:00,Jagiellonia II Bialystok,KS Warta Sieradz,0,2,,,
-62037754,2025-10-11 13:00,KS Wasilkow,Zabkovia Zabki,1,5,,,
-62037780,2025-10-17 17:45,KS Warta Sieradz,KS Wasilkow,2,0,,,
-62037778,2025-10-18 10:00,Swit Nowy Dwor Mazowiecki,Mlks Znicz Biala Piska,4,0,,,
-62037774,2025-10-18 13:00,MKS Mlawianka Mlawa,Wigry Suwalki,1,2,,,
-62037770,2025-10-18 17:23,Lechia Tomaszow Mazowiecki,Wisla Plock II,4,1,,,
-62037786,2025-10-24 16:00,GKS Wikielec,Legia Warszawa II,0,2,,,
-62037798,2025-10-25 10:00,Wisla Plock II,KS Warta Sieradz,2,1,,,
-62037794,2025-10-26 11:00,Widzew Lodz II,GKS Belchatow,3,0,,,
-62037756,2025-10-29 12:00,Legia Warszawa II,LKS 1926 Lomza,0,0,,,
-62038120,2025-10-30 16:00,Wigry Suwalki,KS Wasilkow,4,1,,,
-62037814,2025-10-31 12:00,Swit Nowy Dwor Mazowiecki,Lechia Tomaszow Mazowiecki,1,1,,,
-62037818,2025-10-31 12:00,Zabkovia Zabki,Mlks Znicz Biala Piska,2,1,,,
-62037804,2025-10-31 12:30,KS Ck Troszyn,Jagiellonia II Bialystok,1,1,,,
-62037816,2025-10-31 18:00,KS Warta Sieradz,GKS Wikielec,1,0,,,
-62037808,2025-11-02 11:00,Legia Warszawa II,Bron Radom,7,0,,,
-62037812,2025-11-02 11:00,ZKS Olimpia Elblag,Wisla Plock II,2,1,,,
-62037802,2025-11-02 13:30,GKS Belchatow,LKS 1926 Lomza,1,4,,,
-62037826,2025-11-07 17:00,Lechia Tomaszow Mazowiecki,MKS Mlawianka Mlawa,1,3,,,
-62037828,2025-11-08 12:00,LKS 1926 Lomza,KS Ck Troszyn,2,3,,,
-62037820,2025-11-08 12:30,Bron Radom,KS Wasilkow,2,1,,,
-62037832,2025-11-08 16:00,Wigry Suwalki,KS Warta Sieradz,1,2,,,
-62037830,2025-11-09 11:00,Widzew Lodz II,Legia Warszawa II,0,5,,,
-62037834,2025-11-09 11:00,Wisla Plock II,Swit Nowy Dwor Mazowiecki,1,1,,,
-62037848,2025-11-15 11:00,ZKS Olimpia Elblag,Lechia Tomaszow Mazowiecki,2,5,,,
-62037838,2025-11-15 12:00,GKS Belchatow,Wisla Plock II,3,4,,,
-62037840,2025-11-15 12:00,KS Ck Troszyn,GKS Wikielec,4,1,,,
-62037842,2025-11-15 12:00,KS Wasilkow,Jagiellonia II Bialystok,0,1,,,
-62037846,2025-11-15 12:00,MKS Mlawianka Mlawa,LKS 1926 Lomza,0,1,,,
-62037850,2025-11-15 12:00,Swit Nowy Dwor Mazowiecki,Wigry Suwalki,2,3,,,
-62037854,2025-11-15 12:00,Zabkovia Zabki,Widzew Lodz II,4,1,,,
-62037852,2025-11-15 16:00,KS Warta Sieradz,Bron Radom,3,0,,,
-62037860,2025-11-21 17:00,Lechia Tomaszow Mazowiecki,Legia Warszawa II,0,2,,,
-62037862,2025-11-22 11:00,LKS 1926 Lomza,KS Warta Sieradz,1,1,,,
-62037868,2025-11-22 11:00,Swit Nowy Dwor Mazowiecki,KS Wasilkow,3,0,,,
-62037872,2025-11-22 11:00,Wisla Plock II,KS Ck Troszyn,2,1,,,
-62037856,2025-11-22 12:00,GKS Belchatow,Mlks Znicz Biala Piska,5,0,,,
-62037864,2025-11-22 12:00,MKS Mlawianka Mlawa,Zabkovia Zabki,2,1,,,
-62037866,2025-11-22 15:00,ZKS Olimpia Elblag,Bron Radom,1,0,,,
-62037870,2025-11-22 16:00,Wigry Suwalki,Jagiellonia II Bialystok,1,0,,,
-62037844,2025-11-26 11:00,Legia Warszawa II,Mlks Znicz Biala Piska,5,0,,,
-62037876,2025-11-29 11:00,Jagiellonia II Bialystok,Lechia Tomaszow Mazowiecki,2,3,,,
-62037888,2025-11-29 12:00,Zabkovia Zabki,Wigry Suwalki,0,1,,,
-62037874,2025-11-29 17:00,Bron Radom,GKS Belchatow,1,1,,,
-62037882,2025-11-30 11:00,Legia Warszawa II,MKS Mlawianka Mlawa,3,0,,,
-62037886,2025-11-30 11:00,Widzew Lodz II,LKS 1926 Lomza,2,6,,,
-62037900,2026-02-28 11:00,MKS Mlawianka Mlawa,KS Warta Sieradz,2,3,,,
-62037902,2026-02-28 11:00,ZKS Olimpia Elblag,Zabkovia Zabki,3,1,,,
-62037908,2026-02-28 11:00,Wisla Plock II,Bron Radom,0,0,,,
-62037896,2026-02-28 13:00,Lechia Tomaszow Mazowiecki,Mlks Znicz Biala Piska,7,1,1.222,5.750,8.500
-62037898,2026-02-28 13:00,LKS 1926 Lomza,KS Wasilkow,2,1,,,
-62037892,2026-02-28 14:00,GKS Belchatow,KS Ck Troszyn,0,3,2.800,3.800,2.000
-62037904,2026-03-01 10:00,Swit Nowy Dwor Mazowiecki,Legia Warszawa II,0,1,3.400,4.000,1.750
-62037598,2026-03-01 11:30,Widzew Lodz II,Wigry Suwalki,4,0,2.750,3.900,2.000
-62037894,2026-03-01 12:00,GKS Wikielec,Jagiellonia II Bialystok,0,2,,,
-62037910,2026-03-06 17:00,Bron Radom,GKS Wikielec,0,2,1.727,3.750,3.750
-62037918,2026-03-07 11:00,Legia Warszawa II,GKS Belchatow,2,0,1.250,5.500,8.000
-62037924,2026-03-07 11:00,Wisla Plock II,MKS Mlawianka Mlawa,2,1,1.850,3.900,3.200
-62037912,2026-03-07 12:00,Jagiellonia II Bialystok,ZKS Olimpia Elblag,3,1,,,
-62037926,2026-03-07 12:00,Mlks Znicz Biala Piska,LKS 1926 Lomza,0,4,,,
-62037914,2026-03-07 13:00,KS Ck Troszyn,Wigry Suwalki,3,0,2.350,3.700,2.400
-62037916,2026-03-07 13:00,KS Wasilkow,Lechia Tomaszow Mazowiecki,3,3,,,
-62037920,2026-03-07 13:00,Swit Nowy Dwor Mazowiecki,Widzew Lodz II,1,0,2.050,3.800,2.750
-62037922,2026-03-07 14:00,KS Warta Sieradz,Zabkovia Zabki,2,1,2.000,3.800,2.900
-62037932,2026-03-14 11:00,Legia Warszawa II,KS Wasilkow,4,1,1.100,9.000,17.000
-62037944,2026-03-14 12:00,Zabkovia Zabki,Jagiellonia II Bialystok,0,1,1.750,3.900,3.500
-62037930,2026-03-14 13:00,Lechia Tomaszow Mazowiecki,KS Warta Sieradz,1,1,2.300,3.700,2.400
-62037934,2026-03-14 13:00,LKS 1926 Lomza,Wisla Plock II,0,0,,,
-62037936,2026-03-14 13:00,MKS Mlawianka Mlawa,KS Ck Troszyn,0,0,,,
-62037938,2026-03-14 13:00,ZKS Olimpia Elblag,GKS Wikielec,0,1,2.200,3.400,2.750
-62037942,2026-03-14 13:00,Wigry Suwalki,Mlks Znicz Biala Piska,0,0,,,
-62037928,2026-03-14 14:00,GKS Belchatow,Swit Nowy Dwor Mazowiecki,2,1,2.100,3.700,2.750
-62037940,2026-03-15 14:00,Widzew Lodz II,Bron Radom,6,0,1.950,3.700,3.000
-62037950,2026-03-20 17:00,GKS Wikielec,Mlks Znicz Biala Piska,3,1,1.125,9.500,17.000
-62037960,2026-03-20 17:00,KS Warta Sieradz,Widzew Lodz II,1,2,1.615,4.333,3.700
-62037962,2026-03-21 11:00,Wisla Plock II,Wigry Suwalki,2,2,2.050,3.700,2.800
-62037956,2026-03-21 13:00,KS Wasilkow,ZKS Olimpia Elblag,0,1,2.625,3.600,2.200
-62037958,2026-03-21 13:00,Swit Nowy Dwor Mazowiecki,MKS Mlawianka Mlawa,1,1,1.950,3.750,2.900
-62037948,2026-03-21 14:00,GKS Belchatow,Lechia Tomaszow Mazowiecki,1,0,2.750,3.800,2.050
-62037954,2026-03-21 14:00,KS Ck Troszyn,Zabkovia Zabki,4,0,1.833,3.900,3.100
-62037946,2026-03-21 18:26,Bron Radom,LKS 1926 Lomza,2,0,3.700,3.600,1.750
-62037952,2026-03-22 11:00,Jagiellonia II Bialystok,Legia Warszawa II,0,0,,,
-69734518,2026-03-25 14:30,KS Wasilkow,GKS Wikielec,1,2,,,
-69593948,2026-03-25 15:00,Mlks Znicz Biala Piska,Wisla Plock II,1,2,8.000,6.250,1.250
-69594126,2026-03-25 18:00,KS Warta Sieradz,ZKS Olimpia Elblag,4,1,1.700,3.800,3.700
-62037970,2026-03-28 14:00,ZKS Olimpia Elblag,LKS 1926 Lomza,0,3,3.400,4.000,1.750
-62037968,2026-03-28 14:30,MKS Mlawianka Mlawa,KS Wasilkow,4,2,1.600,4.000,4.100
-62037978,2026-03-28 15:00,Zabkovia Zabki,GKS Belchatow,1,4,1.650,4.000,3.800
-62037976,2026-03-28 16:00,Wigry Suwalki,Bron Radom,2,1,1.750,3.800,3.600
-62037964,2026-03-29 10:00,Lechia Tomaszow Mazowiecki,GKS Wikielec,3,1,1.750,3.900,3.400
-62037972,2026-03-29 10:00,KS Warta Sieradz,Swit Nowy Dwor Mazowiecki,3,1,1.550,4.000,4.500
-62037974,2026-03-29 10:00,Widzew Lodz II,KS Ck Troszyn,0,2,2.625,4.000,2.100
-62037998,2026-04-03 10:00,Wisla Plock II,Jagiellonia II Bialystok,0,4,2.150,3.750,2.600
-62037996,2026-04-03 12:00,Widzew Lodz II,Mlks Znicz Biala Piska,2,3,1.125,8.000,13.000
-62037994,2026-04-03 14:00,Swit Nowy Dwor Mazowiecki,ZKS Olimpia Elblag,0,1,2.000,3.600,2.900
-62037986,2026-04-03 16:00,GKS Wikielec,Wigry Suwalki,1,2,2.700,3.500,2.200
-62037990,2026-04-04 10:00,Legia Warszawa II,KS Warta Sieradz,1,1,1.533,4.100,4.500
-62037988,2026-04-04 12:00,KS Ck Troszyn,KS Wasilkow,3,2,1.285,5.500,6.500
-62037982,2026-04-04 13:00,Bron Radom,Lechia Tomaszow Mazowiecki,2,3,2.375,3.600,2.400
-62037984,2026-04-04 13:00,GKS Belchatow,MKS Mlawianka Mlawa,0,1,2.300,3.700,2.450
-62037992,2026-04-04 14:00,LKS 1926 Lomza,Zabkovia Zabki,3,0,1.420,4.500,5.250
-62038010,2026-04-10 17:00,KS Warta Sieradz,KS Ck Troszyn,1,2,2.250,3.500,2.500
-62038006,2026-04-11 12:00,Lechia Tomaszow Mazowiecki,Widzew Lodz II,3,1,1.727,3.900,3.500
-62038016,2026-04-11 12:00,Mlks Znicz Biala Piska,Bron Radom,1,0,,,
-62038002,2026-04-11 13:00,Jagiellonia II Bialystok,Swit Nowy Dwor Mazowiecki,0,0,,,
-62038014,2026-04-11 15:00,Zabkovia Zabki,Wisla Plock II,0,1,1.444,4.500,5.000
-62038000,2026-04-11 16:00,GKS Wikielec,MKS Mlawianka Mlawa,2,1,2.050,3.600,2.875
-62038004,2026-04-12 11:00,KS Wasilkow,GKS Belchatow,0,0,,,
-62038008,2026-04-12 13:00,ZKS Olimpia Elblag,Legia Warszawa II,1,2,5.000,3.800,1.550
-62038012,2026-04-12 17:00,Wigry Suwalki,LKS 1926 Lomza,1,0,2.600,3.200,2.400
-62037966,2026-04-15 14:00,Legia Warszawa II,Wisla Plock II,3,0,1.380,4.500,5.750
-69734486,2026-04-15 15:00,GKS Wikielec,Widzew Lodz II,1,2,2.000,3.900,2.800
-70278582,2026-04-15 15:30,Mlks Znicz Biala Piska,Jagiellonia II Bialystok,0,0,,,
-62038034,2026-04-18 10:00,Wisla Plock II,GKS Wikielec,3,1,2.500,3.500,2.350
-62038022,2026-04-18 12:00,KS Ck Troszyn,ZKS Olimpia Elblag,0,0,,,
-62038030,2026-04-18 13:00,Swit Nowy Dwor Mazowiecki,Zabkovia Zabki,3,3,2.350,3.750,2.375
-62038026,2026-04-18 14:00,LKS 1926 Lomza,Lechia Tomaszow Mazowiecki,1,1,1.600,4.000,4.333
-62038020,2026-04-18 15:00,GKS Belchatow,KS Warta Sieradz,3,3,3.100,3.700,1.909
-62038028,2026-04-18 15:00,MKS Mlawianka Mlawa,Mlks Znicz Biala Piska,0,0,,,
-62038032,2026-04-19 10:00,Widzew Lodz II,KS Wasilkow,4,1,1.850,4.000,3.000
-62038024,2026-04-19 11:00,Legia Warszawa II,Wigry Suwalki,1,0,1.444,4.100,5.750
-62038018,2026-04-19 14:30,Bron Radom,Jagiellonia II Bialystok,1,2,2.375,3.600,2.450
-62038046,2026-04-25 10:00,Legia Warszawa II,KS Ck Troszyn,2,0,1.600,4.000,4.200
-62038052,2026-04-25 12:00,Mlks Znicz Biala Piska,KS Warta Sieradz,0,0,,,
-62038040,2026-04-25 13:00,Jagiellonia II Bialystok,Widzew Lodz II,1,4,1.650,4.000,3.900
-62038042,2026-04-25 13:00,KS Wasilkow,Wisla Plock II,2,1,2.800,3.700,2.050
-62038044,2026-04-25 13:00,Lechia Tomaszow Mazowiecki,Zabkovia Zabki,2,1,1.480,4.500,4.500
-62038048,2026-04-25 15:00,ZKS Olimpia Elblag,MKS Mlawianka Mlawa,0,2,2.250,3.600,2.550
-62038038,2026-04-25 16:00,GKS Wikielec,LKS 1926 Lomza,0,0,,,
-62038036,2026-04-26 17:00,Bron Radom,Swit Nowy Dwor Mazowiecki,0,1,2.100,3.500,2.875
-62038050,2026-04-26 17:00,Wigry Suwalki,GKS Belchatow,1,1,1.444,4.200,5.250
-62038068,2026-04-30 10:00,Wisla Plock II,Widzew Lodz II,0,1,2.550,3.600,2.250
-62038066,2026-04-30 15:00,KS Warta Sieradz,Jagiellonia II Bialystok,3,3,1.727,3.900,3.600
-62038056,2026-04-30 15:30,KS Ck Troszyn,Mlks Znicz Biala Piska,2,0,,,
-62038070,2026-05-01 12:00,Zabkovia Zabki,KS Wasilkow,0,3,1.800,3.900,3.250
-62038062,2026-05-01 15:00,MKS Mlawianka Mlawa,Bron Radom,3,2,1.700,3.750,3.800
-62038058,2026-05-02 10:00,Lechia Tomaszow Mazowiecki,Wigry Suwalki,1,3,1.909,3.600,3.100
-62038054,2026-05-02 15:00,GKS Belchatow,ZKS Olimpia Elblag,0,0,,,
-62038060,2026-05-03 14:00,LKS 1926 Lomza,Legia Warszawa II,3,0,2.800,3.600,2.100
-62038064,2026-05-03 14:00,Swit Nowy Dwor Mazowiecki,GKS Wikielec,2,4,1.909,3.600,3.200
-62038074,2026-05-08 16:00,GKS Wikielec,GKS Belchatow,0,1,1.750,3.750,3.500
-62038072,2026-05-08 16:30,Bron Radom,KS Ck Troszyn,1,1,3.300,3.750,1.833
-62038080,2026-05-09 10:00,Legia Warszawa II,Zabkovia Zabki,2,0,1.250,5.500,7.500
-62038086,2026-05-09 10:00,Wisla Plock II,Lechia Tomaszow Mazowiecki,2,2,2.350,3.600,2.400
-62038078,2026-05-09 12:00,KS Wasilkow,KS Warta Sieradz,0,0,,,
-62038088,2026-05-09 12:00,Mlks Znicz Biala Piska,Swit Nowy Dwor Mazowiecki,0,0,,,
-62038084,2026-05-09 17:00,Wigry Suwalki,MKS Mlawianka Mlawa,2,0,1.700,3.900,3.700
-62038076,2026-05-10 10:00,Jagiellonia II Bialystok,LKS 1926 Lomza,0,2,3.000,3.600,1.950
-62038082,2026-05-10 10:00,Widzew Lodz II,ZKS Olimpia Elblag,3,0,1.900,3.800,3.200
-62038090,2026-05-13 15:00,GKS Belchatow,Widzew Lodz II,1,3,2.100,3.800,2.600
-62038092,2026-05-13 15:00,KS Ck Troszyn,Lechia Tomaszow Mazowiecki,4,1,1.666,4.200,3.700
-62038096,2026-05-13 15:00,Legia Warszawa II,GKS Wikielec,2,0,1.380,4.500,5.500
-62038100,2026-05-13 15:00,ZKS Olimpia Elblag,Wigry Suwalki,0,0,,,
-62038102,2026-05-13 15:00,Swit Nowy Dwor Mazowiecki,LKS 1926 Lomza,3,2,3.700,3.900,1.700
-62038104,2026-05-13 15:00,KS Warta Sieradz,Wisla Plock II,1,1,1.571,3.900,4.333
-62038094,2026-05-13 15:30,KS Wasilkow,Mlks Znicz Biala Piska,3,3,,,
-62038098,2026-05-13 15:30,MKS Mlawianka Mlawa,Jagiellonia II Bialystok,0,1,2.350,3.800,2.375
-62038106,2026-05-13 16:00,Zabkovia Zabki,Bron Radom,0,0,2.150,3.600,2.700
-62037806,2026-05-16 11:00,KS Wasilkow,Wigry Suwalki,0,3,3.700,3.900,1.666
-62038124,2026-05-16 14:00,Mlks Znicz Biala Piska,Zabkovia Zabki,2,6,,,
-62038116,2026-05-16 17:26,LKS 1926 Lomza,GKS Belchatow,5,0,1.333,5.000,5.750
-62038112,2026-05-17 10:00,Jagiellonia II Bialystok,KS Ck Troszyn,0,1,,,
-62038114,2026-05-17 10:00,Lechia Tomaszow Mazowiecki,Swit Nowy Dwor Mazowiecki,2,0,1.700,4.000,3.600
-62038118,2026-05-17 10:00,Widzew Lodz II,MKS Mlawianka Mlawa,0,2,2.100,3.750,2.600
-62038122,2026-05-17 12:00,Wisla Plock II,ZKS Olimpia Elblag,1,1,1.727,3.800,3.700
-62038110,2026-05-17 15:00,GKS Wikielec,KS Warta Sieradz,1,1,3.000,3.700,1.950
-62038108,2026-05-17 16:30,Bron Radom,Legia Warszawa II,1,2,2.600,3.500,2.200
-62038132,2026-05-21 09:00,Legia Warszawa II,Widzew Lodz II,0,3,,,
-62038140,2026-05-22 16:00,KS Warta Sieradz,Wigry Suwalki,2,1,2.100,3.500,2.750
-62038138,2026-05-23 11:00,Swit Nowy Dwor Mazowiecki,Wisla Plock II,2,3,2.100,3.900,2.625
-62038130,2026-05-23 12:00,KS Wasilkow,Bron Radom,1,4,3.600,3.750,1.727
-62038128,2026-05-23 14:00,KS Ck Troszyn,LKS 1926 Lomza,0,2,2.750,3.600,2.100
-62038126,2026-05-23 15:00,GKS Belchatow,Jagiellonia II Bialystok,1,2,2.100,3.600,2.800
-62038136,2026-05-23 15:00,ZKS Olimpia Elblag,Mlks Znicz Biala Piska,2,3,1.200,6.500,10.000
-62038142,2026-05-23 16:00,Zabkovia Zabki,GKS Wikielec,2,2,2.500,3.600,2.300
-62038134,2026-05-24 15:00,MKS Mlawianka Mlawa,Lechia Tomaszow Mazowiecki,3,1,1.650,4.000,4.100
-62038148,2026-05-30 10:00,Jagiellonia II Bialystok,KS Wasilkow,1,1,1.700,4.000,3.700
-62038160,2026-05-30 13:00,Mlks Znicz Biala Piska,Legia Warszawa II,0,3,,,
-62038144,2026-05-30 15:00,Bron Radom,KS Warta Sieradz,0,1,3.200,3.800,1.850
-62038146,2026-05-30 15:00,GKS Wikielec,KS Ck Troszyn,0,0,,,
-62038150,2026-05-30 15:00,Lechia Tomaszow Mazowiecki,ZKS Olimpia Elblag,0,0,,,
-62038152,2026-05-30 15:00,LKS 1926 Lomza,MKS Mlawianka Mlawa,0,0,,,
-62038154,2026-05-30 15:00,Widzew Lodz II,Zabkovia Zabki,2,1,1.700,4.200,3.500
-62038156,2026-05-30 15:00,Wigry Suwalki,Swit Nowy Dwor Mazowiecki,3,2,1.550,4.200,4.333
-62038158,2026-05-30 15:00,Wisla Plock II,GKS Belchatow,4,1,1.833,4.000,3.100
-72514582,2026-07-31 15:00,ZKS Olimpia Elblag,Wisla Plock II,1,2,2.150,3.500,2.800
-72514590,2026-07-31 16:00,SK Mazovia Minsk Mazowiecki,Jagiellonia II Bialystok,2,3,1.727,4.200,3.400
-72514598,2026-07-31 17:00,KTS Weszlo Warszawa,Lechia Tomaszow Mazowiecki,2,1,2.000,3.750,3.100
-72514586,2026-08-01 15:30,Olimpia Zambrow,Zabkovia Zabki,5,0,3.400,3.500,1.850
-72514584,2026-08-01 16:00,MKS Polonia Lidzbark Warminski,Swit Nowy Dwor Mazowiecki,1,2,2.375,3.600,2.400
-72514594,2026-08-01 16:00,KS Warta Sieradz,MKS Mlawianka Mlawa,1,2,1.833,3.750,3.300
-72514596,2026-08-01 16:00,KS Pelikan Lowicz,LKS 1926 Lomza,3,2,2.200,4.000,2.450
-72514588,2026-08-02 10:00,Widzew Lodz II,KS Ck Troszyn,5,1,1.900,3.800,3.200
-72514592,2026-08-02 16:00,Wigry Suwalki,LKS Lodz II,2,0,1.750,4.000,3.400
-72514608,2026-08-07 15:00,Jagiellonia II Bialystok,Wigry Suwalki,1,1,2.375,3.800,2.350
-72514616,2026-08-07 15:00,ZKS Olimpia Elblag,MKS Polonia Lidzbark Warminski,4,2,2.100,3.500,2.800
-72514604,2026-08-07 15:30,MKS Mlawianka Mlawa,KS Pelikan Lowicz,0,1,2.200,3.700,2.625
-72514610,2026-08-08 11:00,KS Ck Troszyn,SK Mazovia Minsk Mazowiecki,1,4,4.000,3.900,1.650
-72514612,2026-08-08 13:00,Zabkovia Zabki,Widzew Lodz II,1,0,,,
-72514614,2026-08-08 13:00,Swit Nowy Dwor Mazowiecki,Olimpia Zambrow,4,0,1.600,4.333,3.900
-72514600,2026-08-08 15:00,Wisla Plock II,Lechia Tomaszow Mazowiecki,2,1,2.000,3.750,2.875
-72514602,2026-08-08 15:00,LKS 1926 Lomza,KTS Weszlo Warszawa,0,1,1.700,4.000,3.600
-72514606,2026-08-09 15:00,LKS Lodz II,KS Warta Sieradz,0,1,3.700,3.750,1.750
-72514634,2026-08-14 14:00,Lechia Tomaszow Mazowiecki,LKS 1926 Lomza,5,2,2.300,3.750,2.400
-72514624,2026-08-14 15:30,SK Mazovia Minsk Mazowiecki,Zabkovia Zabki,3,2,1.700,3.900,3.800
-72514632,2026-08-14 17:00,KTS Weszlo Warszawa,MKS Mlawianka Mlawa,5,1,2.150,3.600,2.700
-72514626,2026-08-14 17:47,Wigry Suwalki,KS Ck Troszyn,1,0,1.285,4.750,7.500
-72514622,2026-08-15 10:00,Widzew Lodz II,Swit Nowy Dwor Mazowiecki,0,0,2.400,3.800,2.300
-72514630,2026-08-15 13:00,KS Pelikan Lowicz,LKS Lodz II,2,1,2.000,3.600,3.000
-72514618,2026-08-15 15:00,MKS Polonia Lidzbark Warminski,Wisla Plock II,1,1,,,
-72514620,2026-08-15 15:30,Olimpia Zambrow,ZKS Olimpia Elblag,1,2,,,
-72514628,2026-08-15 16:00,KS Warta Sieradz,Jagiellonia II Bialystok,2,2,1.850,3.600,3.400
-72514640,2026-08-19 13:00,LKS Lodz II,KTS Weszlo Warszawa,0,2,2.750,3.600,2.100
-72514642,2026-08-19 14:30,Jagiellonia II Bialystok,KS Pelikan Lowicz,3,0,2.000,3.800,2.875
-72514636,2026-08-19 15:00,Wisla Plock II,LKS 1926 Lomza,1,1,1.850,3.900,3.000
-72514638,2026-08-19 15:00,MKS Mlawianka Mlawa,Lechia Tomaszow Mazowiecki,2,3,2.000,4.100,2.600
-72514644,2026-08-19 15:00,KS Ck Troszyn,KS Warta Sieradz,1,4,3.500,3.800,1.750
-72514646,2026-08-19 15:00,Zabkovia Zabki,Wigry Suwalki,1,1,3.200,3.800,1.833
-72514650,2026-08-19 15:00,ZKS Olimpia Elblag,Widzew Lodz II,0,2,2.150,3.600,2.700
-72514652,2026-08-19 15:00,MKS Polonia Lidzbark Warminski,Olimpia Zambrow,2,3,,,
-72514648,2026-08-19 15:30,Swit Nowy Dwor Mazowiecki,SK Mazovia Minsk Mazowiecki,1,2,1.950,3.700,3.000
-72514658,2026-08-22 15:00,SK Mazovia Minsk Mazowiecki,ZKS Olimpia Elblag,2,2,1.500,4.100,4.750
-72514662,2026-08-22 15:00,KS Warta Sieradz,Zabkovia Zabki,0,4,1.533,4.200,4.333
-72514670,2026-08-22 15:00,LKS 1926 Lomza,MKS Mlawianka Mlawa,0,0,1.950,3.800,3.000
-72514656,2026-08-23 10:00,Widzew Lodz II,MKS Polonia Lidzbark Warminski,4,1,1.285,4.750,8.000
-72514664,2026-08-23 10:00,KS Pelikan Lowicz,KS Ck Troszyn,1,1,1.700,3.900,3.700
-72514666,2026-08-23 13:00,KTS Weszlo Warszawa,Jagiellonia II Bialystok,4,0,2.000,3.500,3.000
-72514654,2026-08-23 14:00,Olimpia Zambrow,Wisla Plock II,4,3,2.800,3.500,2.100
-72514668,2026-08-23 14:00,Lechia Tomaszow Mazowiecki,LKS Lodz II,4,3,1.727,3.900,3.500
-72514660,2026-08-23 16:00,Wigry Suwalki,Swit Nowy Dwor Mazowiecki,0,0,,,
-72514672,2026-08-29 10:00,Wisla Plock II,MKS Mlawianka Mlawa,5,3,1.650,4.100,3.800
-72514676,2026-08-29 10:00,Jagiellonia II Bialystok,Lechia Tomaszow Mazowiecki,1,1,2.250,3.750,2.500
-72514678,2026-08-29 12:00,KS Ck Troszyn,KTS Weszlo Warszawa,3,3,3.600,3.750,1.727
-72514682,2026-08-29 13:00,Swit Nowy Dwor Mazowiecki,KS Warta Sieradz,2,1,2.100,3.800,2.700
-72514680,2026-08-29 15:00,Zabkovia Zabki,KS Pelikan Lowicz,2,1,2.000,3.800,2.875
-72514684,2026-08-29 15:00,ZKS Olimpia Elblag,Wigry Suwalki,1,3,3.100,3.750,1.909
-72514686,2026-08-29 15:00,MKS Polonia Lidzbark Warminski,SK Mazovia Minsk Mazowiecki,2,2,,,
-72514688,2026-08-30 14:00,Olimpia Zambrow,Widzew Lodz II,3,4,3.000,3.800,1.909
-72514674,2026-08-30 15:00,LKS Lodz II,LKS 1926 Lomza,4,3,2.500,3.600,2.300
-72514696,2026-09-04 15:00,KS Warta Sieradz,ZKS Olimpia Elblag,4,1,1.650,3.700,4.200
-72514698,2026-09-04 15:00,KS Pelikan Lowicz,Swit Nowy Dwor Mazowiecki,4,1,2.800,3.600,2.050
-72514692,2026-09-05 13:00,SK Mazovia Minsk Mazowiecki,Olimpia Zambrow,5,0,1.450,4.750,4.750
-72514700,2026-09-05 13:00,KTS Weszlo Warszawa,Zabkovia Zabki,2,0,1.833,3.900,3.200
-72514702,2026-09-05 14:00,Lechia Tomaszow Mazowiecki,KS Ck Troszyn,0,2,1.700,4.200,3.500
-72514704,2026-09-05 14:00,LKS 1926 Lomza,Jagiellonia II Bialystok,1,2,1.833,3.800,3.300
-72514690,2026-09-06 10:00,Widzew Lodz II,Wisla Plock II,0,2,1.850,3.800,3.200
-72514706,2026-09-06 14:00,MKS Mlawianka Mlawa,LKS Lodz II,0,2,2.050,3.750,2.750
-72514694,2026-09-06 16:00,Wigry Suwalki,MKS Polonia Lidzbark Warminski,1,3,1.333,4.750,6.500
-72514724,2026-09-11 11:00,Widzew Lodz II,SK Mazovia Minsk Mazowiecki,2,3,2.700,3.600,2.100
-72514714,2026-09-11 14:30,Zabkovia Zabki,Lechia Tomaszow Mazowiecki,4,2,1.909,3.800,3.000
-72514708,2026-09-12 10:00,Wisla Plock II,LKS Lodz II,2,2,1.800,3.800,3.400
-72514710,2026-09-12 13:00,Jagiellonia II Bialystok,MKS Mlawianka Mlawa,7,4,1.615,4.000,4.000
-72514712,2026-09-12 13:00,KS Ck Troszyn,LKS 1926 Lomza,1,1,,,
-72514716,2026-09-12 13:00,Swit Nowy Dwor Mazowiecki,KTS Weszlo Warszawa,0,1,2.250,3.600,2.500
-72514718,2026-09-12 14:00,ZKS Olimpia Elblag,KS Pelikan Lowicz,1,0,2.450,3.600,2.350
-72514722,2026-09-12 14:00,Olimpia Zambrow,Wigry Suwalki,1,1,3.600,3.800,1.700
-72514720,2026-09-12 17:00,MKS Polonia Lidzbark Warminski,KS Warta Sieradz,1,2,3.100,3.600,1.950
-72514738,2026-09-18 14:00,LKS 1926 Lomza,Zabkovia Zabki,0,2,3.700,4.000,1.666
-72514736,2026-09-18 14:30,Lechia Tomaszow Mazowiecki,Swit Nowy Dwor Mazowiecki,1,2,2.550,3.900,2.150
-72514742,2026-09-19 10:00,Jagiellonia II Bialystok,LKS Lodz II,2,3,2.000,3.700,2.875
-72514732,2026-09-19 13:00,KS Pelikan Lowicz,MKS Polonia Lidzbark Warminski,1,0,1.850,3.750,3.250
-72514734,2026-09-19 13:00,KTS Weszlo Warszawa,ZKS Olimpia Elblag,2,1,1.550,4.333,4.100
-72514726,2026-09-19 14:00,SK Mazovia Minsk Mazowiecki,Wisla Plock II,3,2,,,
-72514730,2026-09-19 14:00,KS Warta Sieradz,Olimpia Zambrow,2,2,,,
-72514740,2026-09-19 14:00,MKS Mlawianka Mlawa,KS Ck Troszyn,4,1,,,
-72514728,2026-09-20 16:00,Wigry Suwalki,Widzew Lodz II,6,3,,,
-72514744,2026-09-25 14:00,Wisla Plock II,Jagiellonia II Bialystok,2,1,2.150,4.000,2.500
-72514748,2026-09-25 14:00,Zabkovia Zabki,MKS Mlawianka Mlawa,3,4,1.666,4.100,3.750
-72514750,2026-09-25 14:00,Swit Nowy Dwor Mazowiecki,LKS 1926 Lomza,4,0,1.363,5.000,5.500
-72514746,2026-09-26 11:00,KS Ck Troszyn,LKS Lodz II,1,1,,,
-72514756,2026-09-26 13:00,Olimpia Zambrow,KS Pelikan Lowicz,1,3,2.625,3.700,2.200
-72514752,2026-09-26 14:00,ZKS Olimpia Elblag,Lechia Tomaszow Mazowiecki,1,2,2.050,3.750,2.800
-72514760,2026-09-26 14:00,SK Mazovia Minsk Mazowiecki,Wigry Suwalki,0,2,1.900,3.800,3.100
-72514754,2026-09-26 16:00,MKS Polonia Lidzbark Warminski,KTS Weszlo Warszawa,1,1,,,
-72514774,2026-10-03 12:30,MKS Mlawianka Mlawa,Swit Nowy Dwor Mazowiecki,2,4,,,
-72514766,2026-10-03 13:00,KS Pelikan Lowicz,Widzew Lodz II,1,1,2.000,3.750,2.875
-72514768,2026-10-03 13:00,KTS Weszlo Warszawa,Olimpia Zambrow,1,3,1.480,4.333,5.000
-72514770,2026-10-03 13:00,Lechia Tomaszow Mazowiecki,MKS Polonia Lidzbark Warminski,1,2,2.050,3.700,2.800
-72514772,2026-10-03 14:00,LKS 1926 Lomza,ZKS Olimpia Elblag,0,2,2.700,3.600,2.150
-72514762,2026-10-03 15:00,Wigry Suwalki,Wisla Plock II,1,0,2.000,3.600,3.000
-72514764,2026-10-03 17:00,KS Warta Sieradz,SK Mazovia Minsk Mazowiecki,1,1,2.400,3.600,2.400
-72514796,2026-10-09 17:00,KS Warta Sieradz,Wigry Suwalki,1,3,2.600,3.600,2.200
-72514780,2026-10-10 12:00,Wisla Plock II,KS Ck Troszyn,2,1,1.700,4.000,3.600
-72514786,2026-10-10 12:00,ZKS Olimpia Elblag,MKS Mlawianka Mlawa,2,1,,,
-72514794,2026-10-10 12:00,SK Mazovia Minsk Mazowiecki,KS Pelikan Lowicz,1,4,1.850,3.900,3.200
-72514782,2026-10-10 13:00,Zabkovia Zabki,Jagiellonia II Bialystok,2,2,2.000,3.750,2.900
-72514784,2026-10-10 13:00,Swit Nowy Dwor Mazowiecki,LKS Lodz II,2,7,1.850,3.800,3.250
-72514788,2026-10-10 16:00,MKS Polonia Lidzbark Warminski,LKS 1926 Lomza,3,2,,,
-72514792,2026-10-11 09:30,Widzew Lodz II,KTS Weszlo Warszawa,0,2,2.100,3.750,2.700
-72514790,2026-10-11 13:00,Olimpia Zambrow,Lechia Tomaszow Mazowiecki,3,0,1.950,3.800,2.875
-72514778,2026-10-14 13:00,Jagiellonia II Bialystok,KS Ck Troszyn,0,1,1.666,3.900,3.900
-72514776,2026-10-14 16:00,LKS Lodz II,Zabkovia Zabki,0,3,2.100,3.900,2.625
-72514810,2026-10-17 11:00,LKS Lodz II,ZKS Olimpia Elblag,1,1,1.900,3.700,3.100
-72514800,2026-10-17 13:00,KS Pelikan Lowicz,Wigry Suwalki,1,4,2.600,3.500,2.250
-72514806,2026-10-17 13:00,LKS 1926 Lomza,Olimpia Zambrow,0,2,6.500,5.000,1.333
-72514808,2026-10-17 13:00,MKS Mlawianka Mlawa,MKS Polonia Lidzbark Warminski,3,2,2.050,3.750,2.750
-72514798,2026-10-17 16:00,KS Warta Sieradz,Wisla Plock II,2,1,2.000,3.600,3.000
-72514804,2026-10-18 10:00,Lechia Tomaszow Mazowiecki,Widzew Lodz II,1,1,2.350,3.750,2.350
-72514812,2026-10-18 10:00,Jagiellonia II Bialystok,Swit Nowy Dwor Mazowiecki,1,3,2.300,3.750,2.400
-72514814,2026-10-18 12:00,KS Ck Troszyn,Zabkovia Zabki,1,1,,,
-72514802,2026-10-18 13:00,KTS Weszlo Warszawa,SK Mazovia Minsk Mazowiecki,3,2,1.909,3.750,3.100
-72514758,2026-10-21 15:30,Widzew Lodz II,KS Warta Sieradz,0,1,2.300,3.750,2.375
-72514816,2026-10-24 10:00,Wisla Plock II,Zabkovia Zabki,2,2,2.400,3.800,2.250
-72514828,2026-10-24 11:00,SK Mazovia Minsk Mazowiecki,Lechia Tomaszow Mazowiecki,3,1,1.650,4.000,3.800
-72514818,2026-10-24 12:00,Swit Nowy Dwor Mazowiecki,KS Ck Troszyn,3,0,1.615,4.200,4.000
-72514820,2026-10-24 12:00,ZKS Olimpia Elblag,Jagiellonia II Bialystok,0,0,,,
-72514824,2026-10-24 12:00,Olimpia Zambrow,MKS Mlawianka Mlawa,1,1,,,
-72514822,2026-10-24 15:00,MKS Polonia Lidzbark Warminski,LKS Lodz II,3,0,3.100,3.700,1.950
-72514830,2026-10-24 15:00,Wigry Suwalki,KTS Weszlo Warszawa,4,1,1.600,4.000,4.000
-72514832,2026-10-24 16:00,KS Warta Sieradz,KS Pelikan Lowicz,2,2,2.150,3.600,2.625
-72514826,2026-10-25 11:00,Widzew Lodz II,LKS 1926 Lomza,2,2,1.333,4.750,6.500
-72514846,2026-10-30 12:00,Jagiellonia II Bialystok,MKS Polonia Lidzbark Warminski,2,1,1.666,3.900,3.900
-72514838,2026-10-31 11:00,Lechia Tomaszow Mazowiecki,Wigry Suwalki,2,0,3.700,4.000,1.700
-72514844,2026-10-31 11:00,LKS Lodz II,Olimpia Zambrow,3,2,1.909,3.900,3.100
-72514840,2026-10-31 12:00,LKS 1926 Lomza,SK Mazovia Minsk Mazowiecki,2,3,6.500,5.000,1.300
-72514842,2026-10-31 12:00,MKS Mlawianka Mlawa,Widzew Lodz II,1,4,,,
-72514848,2026-10-31 12:00,KS Ck Troszyn,ZKS Olimpia Elblag,2,0,,,
-72514850,2026-10-31 12:00,Zabkovia Zabki,Swit Nowy Dwor Mazowiecki,2,0,2.100,4.000,2.550
-72514834,2026-10-31 13:00,KS Pelikan Lowicz,Wisla Plock II,1,2,2.100,3.600,2.800
-72514836,2026-10-31 14:00,KTS Weszlo Warszawa,KS Warta Sieradz,0,1,2.150,3.400,2.900
-72514866,2026-11-06 18:00,KS Warta Sieradz,Lechia Tomaszow Mazowiecki,3,0,1.700,3.900,3.700
-72514852,2026-11-07 12:00,Wisla Plock II,Swit Nowy Dwor Mazowiecki,1,4,2.350,3.750,2.350
-72514858,2026-11-07 12:00,Olimpia Zambrow,Jagiellonia II Bialystok,2,1,,,
-72514862,2026-11-07 12:00,SK Mazovia Minsk Mazowiecki,MKS Mlawianka Mlawa,3,1,1.480,4.333,4.750
-72514868,2026-11-07 12:00,KS Pelikan Lowicz,KTS Weszlo Warszawa,0,1,,,
-72514854,2026-11-07 13:00,ZKS Olimpia Elblag,Zabkovia Zabki,2,0,3.500,4.000,1.727
-72514856,2026-11-07 16:00,MKS Polonia Lidzbark Warminski,KS Ck Troszyn,4,2,1.800,3.800,3.300
-72514864,2026-11-07 16:00,Wigry Suwalki,LKS 1926 Lomza,1,0,,,
-72514860,2026-11-08 11:00,Widzew Lodz II,LKS Lodz II,0,1,2.100,3.600,2.700
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+54640473,2025-05-24 10:00,Stomil Olsztyn,Victoria Sulejowek,2,1,,,,,,
+54640479,2025-05-24 15:00,TS Sokol Aleksandrow Lodzki,Unia Skierniewice,1,4,,,,,,
+54640483,2025-05-24 15:00,MKS Mlawianka Mlawa,KS Warta Sieradz,4,0,,,,,,
+54640471,2025-05-25 10:00,KS Pelikan Lowicz,Wisla Plock II,1,1,,,,,,
+54640477,2025-05-25 10:00,Legia Warszawa II,LKS 1926 Lomza,0,1,,,,,,
+54640481,2025-05-25 16:00,Wigry Suwalki,Lechia Tomaszow Mazowiecki,1,0,,,,,,
+54640495,2025-05-30 17:45,Unia Skierniewice,Legia Warszawa II,0,0,,,,,,
+54640487,2025-05-30 18:00,GKS Wikielec,GKS Belchatow,1,2,,,,,,
+54640503,2025-05-31 10:30,Wisla Plock II,Swit Nowy Dwor Mazowiecki,0,0,,,,,,
+54640501,2025-05-31 16:00,Victoria Sulejowek,KS Pelikan Lowicz,1,0,,,,,,
+54640491,2025-05-31 16:30,KS Warta Sieradz,Wigry Suwalki,3,2,,,,,,
+54640507,2025-06-07 13:00,Swit Nowy Dwor Mazowiecki,Victoria Sulejowek,2,3,,,,,,
+54640511,2025-06-07 13:00,Stomil Olsztyn,LKS 1926 Lomza,0,4,,,,,,
+54640519,2025-06-07 13:00,Wigry Suwalki,Bron Radom,2,1,,,,,,
+62037572,2025-08-08 17:23,Lechia Tomaszow Mazowiecki,Jagiellonia II Bialystok,1,1,,,,,,
+62037582,2025-08-08 17:47,Wigry Suwalki,Zabkovia Zabki,1,2,,,,,,
+62037574,2025-08-09 13:00,LKS 1926 Lomza,Widzew Lodz II,6,4,,,,,,
+62037568,2025-08-09 15:00,GKS Belchatow,Bron Radom,4,4,,,,,,
+62037576,2025-08-09 15:00,MKS Mlawianka Mlawa,Legia Warszawa II,2,2,,,,,,
+62037578,2025-08-09 15:00,ZKS Olimpia Elblag,KS Warta Sieradz,0,2,,,,,,
+62037580,2025-08-09 15:00,Swit Nowy Dwor Mazowiecki,KS Ck Troszyn,2,1,,,,,,
+62037584,2025-08-10 10:00,Wisla Plock II,Mlks Znicz Biala Piska,4,1,,,,,,
+62037600,2025-08-15 15:00,Zabkovia Zabki,ZKS Olimpia Elblag,2,3,,,,,,
+62037594,2025-08-16 10:00,Legia Warszawa II,Swit Nowy Dwor Mazowiecki,2,1,,,,,,
+62037612,2025-08-22 15:00,MKS Mlawianka Mlawa,Wisla Plock II,2,1,,,,,,
+62037610,2025-08-23 13:00,LKS 1926 Lomza,Mlks Znicz Biala Piska,4,0,,,,,,
+62037614,2025-08-23 13:00,ZKS Olimpia Elblag,Jagiellonia II Bialystok,2,0,,,,,,
+62037620,2025-08-23 14:00,Zabkovia Zabki,KS Warta Sieradz,2,1,,,,,,
+62037630,2025-08-27 15:00,KS Wasilkow,Legia Warszawa II,3,1,,,,,,
+62037634,2025-08-27 15:00,KS Warta Sieradz,Lechia Tomaszow Mazowiecki,2,1,,,,,,
+62037636,2025-08-27 15:00,Wisla Plock II,LKS 1926 Lomza,2,1,,,,,,
+62037624,2025-08-27 16:00,GKS Wikielec,ZKS Olimpia Elblag,1,1,,,,,,
+62037644,2025-08-30 13:00,LKS 1926 Lomza,Bron Radom,2,0,,,,,,
+62037654,2025-08-30 14:00,Zabkovia Zabki,KS Ck Troszyn,6,2,,,,,,
+62037652,2025-08-30 17:47,Wigry Suwalki,Wisla Plock II,3,2,,,,,,
+62037640,2025-08-31 10:00,Lechia Tomaszow Mazowiecki,GKS Belchatow,1,2,,,,,,
+62037642,2025-08-31 10:00,Legia Warszawa II,Jagiellonia II Bialystok,2,1,,,,,,
+62037658,2025-09-05 16:00,Bron Radom,Wigry Suwalki,2,0,,,,,,
+62037672,2025-09-06 14:00,Swit Nowy Dwor Mazowiecki,KS Warta Sieradz,0,1,,,,,,
+62037660,2025-09-06 15:00,GKS Belchatow,Zabkovia Zabki,3,6,,,,,,
+62037690,2025-09-12 14:30,Zabkovia Zabki,LKS 1926 Lomza,2,0,,,,,,
+62037682,2025-09-13 14:30,MKS Mlawianka Mlawa,GKS Belchatow,2,3,,,,,,
+63283477,2025-09-17 11:00,Wisla Plock II,Legia Warszawa II,1,2,,,,,,
+62037694,2025-09-19 16:30,Bron Radom,Mlks Znicz Biala Piska,2,0,,,,,,
+62037710,2025-09-20 10:00,Wisla Plock II,Zabkovia Zabki,2,2,,,,,,
+62037706,2025-09-20 12:00,Swit Nowy Dwor Mazowiecki,Jagiellonia II Bialystok,3,2,,,,,,
+62037696,2025-09-20 14:00,GKS Belchatow,KS Wasilkow,3,1,,,,,,
+62037700,2025-09-21 13:00,Legia Warszawa II,ZKS Olimpia Elblag,4,2,,,,,,
+62037712,2025-09-27 10:00,GKS Wikielec,Wisla Plock II,1,2,,,,,,
+62037716,2025-09-27 14:00,KS Wasilkow,Widzew Lodz II,2,3,,,,,,
+62037722,2025-09-27 14:00,KS Warta Sieradz,GKS Belchatow,2,1,,,,,,
+62037714,2025-09-28 10:00,Jagiellonia II Bialystok,Bron Radom,1,0,,,,,,
+62037740,2025-10-03 17:45,KS Warta Sieradz,Mlks Znicz Biala Piska,3,1,,,,,,
+62037746,2025-10-04 13:00,Zabkovia Zabki,Lechia Tomaszow Mazowiecki,2,1,,,,,,
+62037742,2025-10-05 10:00,Widzew Lodz II,Jagiellonia II Bialystok,1,1,,,,,,
+62037752,2025-10-11 10:00,Jagiellonia II Bialystok,KS Warta Sieradz,0,2,,,,,,
+62037754,2025-10-11 13:00,KS Wasilkow,Zabkovia Zabki,1,5,,,,,,
+62037780,2025-10-17 17:45,KS Warta Sieradz,KS Wasilkow,2,0,,,,,,
+62037778,2025-10-18 10:00,Swit Nowy Dwor Mazowiecki,Mlks Znicz Biala Piska,4,0,,,,,,
+62037774,2025-10-18 13:00,MKS Mlawianka Mlawa,Wigry Suwalki,1,2,,,,,,
+62037770,2025-10-18 17:23,Lechia Tomaszow Mazowiecki,Wisla Plock II,4,1,,,,,,
+62037786,2025-10-24 16:00,GKS Wikielec,Legia Warszawa II,0,2,,,,,,
+62037798,2025-10-25 10:00,Wisla Plock II,KS Warta Sieradz,2,1,,,,,,
+62037794,2025-10-26 11:00,Widzew Lodz II,GKS Belchatow,3,0,,,,,,
+62037756,2025-10-29 12:00,Legia Warszawa II,LKS 1926 Lomza,0,0,,,,,,
+62038120,2025-10-30 16:00,Wigry Suwalki,KS Wasilkow,4,1,,,,,,
+62037814,2025-10-31 12:00,Swit Nowy Dwor Mazowiecki,Lechia Tomaszow Mazowiecki,1,1,,,,,,
+62037818,2025-10-31 12:00,Zabkovia Zabki,Mlks Znicz Biala Piska,2,1,,,,,,
+62037804,2025-10-31 12:30,KS Ck Troszyn,Jagiellonia II Bialystok,1,1,,,,,,
+62037816,2025-10-31 18:00,KS Warta Sieradz,GKS Wikielec,1,0,,,,,,
+62037808,2025-11-02 11:00,Legia Warszawa II,Bron Radom,7,0,,,,,,
+62037812,2025-11-02 11:00,ZKS Olimpia Elblag,Wisla Plock II,2,1,,,,,,
+62037802,2025-11-02 13:30,GKS Belchatow,LKS 1926 Lomza,1,4,,,,,,
+62037826,2025-11-07 17:00,Lechia Tomaszow Mazowiecki,MKS Mlawianka Mlawa,1,3,,,,,,
+62037828,2025-11-08 12:00,LKS 1926 Lomza,KS Ck Troszyn,2,3,,,,,,
+62037820,2025-11-08 12:30,Bron Radom,KS Wasilkow,2,1,,,,,,
+62037832,2025-11-08 16:00,Wigry Suwalki,KS Warta Sieradz,1,2,,,,,,
+62037830,2025-11-09 11:00,Widzew Lodz II,Legia Warszawa II,0,5,,,,,,
+62037834,2025-11-09 11:00,Wisla Plock II,Swit Nowy Dwor Mazowiecki,1,1,,,,,,
+62037848,2025-11-15 11:00,ZKS Olimpia Elblag,Lechia Tomaszow Mazowiecki,2,5,,,,,,
+62037838,2025-11-15 12:00,GKS Belchatow,Wisla Plock II,3,4,,,,,,
+62037840,2025-11-15 12:00,KS Ck Troszyn,GKS Wikielec,4,1,,,,,,
+62037842,2025-11-15 12:00,KS Wasilkow,Jagiellonia II Bialystok,0,1,,,,,,
+62037846,2025-11-15 12:00,MKS Mlawianka Mlawa,LKS 1926 Lomza,0,1,,,,,,
+62037850,2025-11-15 12:00,Swit Nowy Dwor Mazowiecki,Wigry Suwalki,2,3,,,,,,
+62037854,2025-11-15 12:00,Zabkovia Zabki,Widzew Lodz II,4,1,,,,,,
+62037852,2025-11-15 16:00,KS Warta Sieradz,Bron Radom,3,0,,,,,,
+62037860,2025-11-21 17:00,Lechia Tomaszow Mazowiecki,Legia Warszawa II,0,2,,,,,,
+62037862,2025-11-22 11:00,LKS 1926 Lomza,KS Warta Sieradz,1,1,,,,,,
+62037868,2025-11-22 11:00,Swit Nowy Dwor Mazowiecki,KS Wasilkow,3,0,,,,,,
+62037872,2025-11-22 11:00,Wisla Plock II,KS Ck Troszyn,2,1,,,,,,
+62037856,2025-11-22 12:00,GKS Belchatow,Mlks Znicz Biala Piska,5,0,,,,,,
+62037864,2025-11-22 12:00,MKS Mlawianka Mlawa,Zabkovia Zabki,2,1,,,,,,
+62037866,2025-11-22 15:00,ZKS Olimpia Elblag,Bron Radom,1,0,,,,,,
+62037870,2025-11-22 16:00,Wigry Suwalki,Jagiellonia II Bialystok,1,0,,,,,,
+62037844,2025-11-26 11:00,Legia Warszawa II,Mlks Znicz Biala Piska,5,0,,,,,,
+62037876,2025-11-29 11:00,Jagiellonia II Bialystok,Lechia Tomaszow Mazowiecki,2,3,,,,,,
+62037888,2025-11-29 12:00,Zabkovia Zabki,Wigry Suwalki,0,1,,,,,,
+62037874,2025-11-29 17:00,Bron Radom,GKS Belchatow,1,1,,,,,,
+62037882,2025-11-30 11:00,Legia Warszawa II,MKS Mlawianka Mlawa,3,0,,,,,,
+62037886,2025-11-30 11:00,Widzew Lodz II,LKS 1926 Lomza,2,6,,,,,,
+62037900,2026-02-28 11:00,MKS Mlawianka Mlawa,KS Warta Sieradz,2,3,,,,,,
+62037902,2026-02-28 11:00,ZKS Olimpia Elblag,Zabkovia Zabki,3,1,,,,,,
+62037908,2026-02-28 11:00,Wisla Plock II,Bron Radom,0,0,,,,,,
+62037896,2026-02-28 13:00,Lechia Tomaszow Mazowiecki,Mlks Znicz Biala Piska,7,1,1.222,5.750,8.500,3.5,1.825,1.975
+62037898,2026-02-28 13:00,LKS 1926 Lomza,KS Wasilkow,2,1,,,,,,
+62037892,2026-02-28 14:00,GKS Belchatow,KS Ck Troszyn,0,3,2.800,3.800,2.000,3.25,1.950,1.850
+62037904,2026-03-01 10:00,Swit Nowy Dwor Mazowiecki,Legia Warszawa II,0,1,3.400,4.000,1.750,3,1.950,1.850
+62037598,2026-03-01 11:30,Widzew Lodz II,Wigry Suwalki,4,0,2.750,3.900,2.000,3.25,1.925,1.875
+62037894,2026-03-01 12:00,GKS Wikielec,Jagiellonia II Bialystok,0,2,,,,,,
+62037910,2026-03-06 17:00,Bron Radom,GKS Wikielec,0,2,1.727,3.750,3.750,2.75,1.800,2.000
+62037918,2026-03-07 11:00,Legia Warszawa II,GKS Belchatow,2,0,1.250,5.500,8.000,3.5,1.975,1.825
+62037924,2026-03-07 11:00,Wisla Plock II,MKS Mlawianka Mlawa,2,1,1.850,3.900,3.200,3,1.975,1.825
+62037912,2026-03-07 12:00,Jagiellonia II Bialystok,ZKS Olimpia Elblag,3,1,,,,,,
+62037926,2026-03-07 12:00,Mlks Znicz Biala Piska,LKS 1926 Lomza,0,4,,,,,,
+62037914,2026-03-07 13:00,KS Ck Troszyn,Wigry Suwalki,3,0,2.350,3.700,2.400,3.25,2.000,1.800
+62037916,2026-03-07 13:00,KS Wasilkow,Lechia Tomaszow Mazowiecki,3,3,,,,,,
+62037920,2026-03-07 13:00,Swit Nowy Dwor Mazowiecki,Widzew Lodz II,1,0,2.050,3.800,2.750,3.25,1.925,1.875
+62037922,2026-03-07 14:00,KS Warta Sieradz,Zabkovia Zabki,2,1,2.000,3.800,2.900,3,1.850,1.950
+62037932,2026-03-14 11:00,Legia Warszawa II,KS Wasilkow,4,1,1.100,9.000,17.000,3.75,1.825,1.975
+62037944,2026-03-14 12:00,Zabkovia Zabki,Jagiellonia II Bialystok,0,1,1.750,3.900,3.500,3,1.900,1.900
+62037930,2026-03-14 13:00,Lechia Tomaszow Mazowiecki,KS Warta Sieradz,1,1,2.300,3.700,2.400,3,1.900,1.900
+62037934,2026-03-14 13:00,LKS 1926 Lomza,Wisla Plock II,0,0,,,,,,
+62037936,2026-03-14 13:00,MKS Mlawianka Mlawa,KS Ck Troszyn,0,0,,,,,,
+62037938,2026-03-14 13:00,ZKS Olimpia Elblag,GKS Wikielec,0,1,2.200,3.400,2.750,2.5,1.825,1.975
+62037942,2026-03-14 13:00,Wigry Suwalki,Mlks Znicz Biala Piska,0,0,,,,,,
+62037928,2026-03-14 14:00,GKS Belchatow,Swit Nowy Dwor Mazowiecki,2,1,2.100,3.700,2.750,3,1.800,2.000
+62037940,2026-03-15 14:00,Widzew Lodz II,Bron Radom,6,0,1.950,3.700,3.000,2.75,1.825,1.975
+62037950,2026-03-20 17:00,GKS Wikielec,Mlks Znicz Biala Piska,3,1,1.125,9.500,17.000,3.5,1.975,1.825
+62037960,2026-03-20 17:00,KS Warta Sieradz,Widzew Lodz II,1,2,1.615,4.333,3.700,3.25,1.875,1.925
+62037962,2026-03-21 11:00,Wisla Plock II,Wigry Suwalki,2,2,2.050,3.700,2.800,2.75,1.800,2.000
+62037956,2026-03-21 13:00,KS Wasilkow,ZKS Olimpia Elblag,0,1,2.625,3.600,2.200,3,2.000,1.800
+62037958,2026-03-21 13:00,Swit Nowy Dwor Mazowiecki,MKS Mlawianka Mlawa,1,1,1.950,3.750,2.900,3,1.925,1.875
+62037948,2026-03-21 14:00,GKS Belchatow,Lechia Tomaszow Mazowiecki,1,0,2.750,3.800,2.050,3,1.825,1.975
+62037954,2026-03-21 14:00,KS Ck Troszyn,Zabkovia Zabki,4,0,1.833,3.900,3.100,3.25,1.975,1.825
+62037946,2026-03-21 18:26,Bron Radom,LKS 1926 Lomza,2,0,3.700,3.600,1.750,2.75,1.925,1.875
+62037952,2026-03-22 11:00,Jagiellonia II Bialystok,Legia Warszawa II,0,0,,,,,,
+69734518,2026-03-25 14:30,KS Wasilkow,GKS Wikielec,1,2,,,,,,
+69593948,2026-03-25 15:00,Mlks Znicz Biala Piska,Wisla Plock II,1,2,8.000,6.250,1.250,3.5,1.925,1.875
+69594126,2026-03-25 18:00,KS Warta Sieradz,ZKS Olimpia Elblag,4,1,1.700,3.800,3.700,3,1.850,1.950
+62037970,2026-03-28 14:00,ZKS Olimpia Elblag,LKS 1926 Lomza,0,3,3.400,4.000,1.750,3,1.975,1.825
+62037968,2026-03-28 14:30,MKS Mlawianka Mlawa,KS Wasilkow,4,2,1.600,4.000,4.100,3.25,2.000,1.800
+62037978,2026-03-28 15:00,Zabkovia Zabki,GKS Belchatow,1,4,1.650,4.000,3.800,3,1.825,1.975
+62037976,2026-03-28 16:00,Wigry Suwalki,Bron Radom,2,1,1.750,3.800,3.600,2.75,1.850,1.950
+62037964,2026-03-29 10:00,Lechia Tomaszow Mazowiecki,GKS Wikielec,3,1,1.750,3.900,3.400,3,1.950,1.850
+62037972,2026-03-29 10:00,KS Warta Sieradz,Swit Nowy Dwor Mazowiecki,3,1,1.550,4.000,4.500,3,1.800,2.000
+62037974,2026-03-29 10:00,Widzew Lodz II,KS Ck Troszyn,0,2,2.625,4.000,2.100,3.25,1.875,1.925
+62037998,2026-04-03 10:00,Wisla Plock II,Jagiellonia II Bialystok,0,4,2.150,3.750,2.600,3.25,1.800,2.000
+62037996,2026-04-03 12:00,Widzew Lodz II,Mlks Znicz Biala Piska,2,3,1.125,8.000,13.000,4,1.825,1.975
+62037994,2026-04-03 14:00,Swit Nowy Dwor Mazowiecki,ZKS Olimpia Elblag,0,1,2.000,3.600,2.900,2.75,1.950,1.850
+62037986,2026-04-03 16:00,GKS Wikielec,Wigry Suwalki,1,2,2.700,3.500,2.200,2.5,1.775,2.025
+62037990,2026-04-04 10:00,Legia Warszawa II,KS Warta Sieradz,1,1,1.533,4.100,4.500,3,1.900,1.900
+62037988,2026-04-04 12:00,KS Ck Troszyn,KS Wasilkow,3,2,1.285,5.500,6.500,3.5,2.000,1.800
+62037982,2026-04-04 13:00,Bron Radom,Lechia Tomaszow Mazowiecki,2,3,2.375,3.600,2.400,2.5,1.875,1.925
+62037984,2026-04-04 13:00,GKS Belchatow,MKS Mlawianka Mlawa,0,1,2.300,3.700,2.450,3.25,1.850,1.950
+62037992,2026-04-04 14:00,LKS 1926 Lomza,Zabkovia Zabki,3,0,1.420,4.500,5.250,3.25,1.800,2.000
+62038010,2026-04-10 17:00,KS Warta Sieradz,KS Ck Troszyn,1,2,2.250,3.500,2.500,2.75,1.825,1.975
+62038006,2026-04-11 12:00,Lechia Tomaszow Mazowiecki,Widzew Lodz II,3,1,1.727,3.900,3.500,3.25,1.850,1.950
+62038016,2026-04-11 12:00,Mlks Znicz Biala Piska,Bron Radom,1,0,,,,,,
+62038002,2026-04-11 13:00,Jagiellonia II Bialystok,Swit Nowy Dwor Mazowiecki,0,0,,,,,,
+62038014,2026-04-11 15:00,Zabkovia Zabki,Wisla Plock II,0,1,1.444,4.500,5.000,3.25,1.975,1.825
+62038000,2026-04-11 16:00,GKS Wikielec,MKS Mlawianka Mlawa,2,1,2.050,3.600,2.875,2.75,1.800,2.000
+62038004,2026-04-12 11:00,KS Wasilkow,GKS Belchatow,0,0,,,,,,
+62038008,2026-04-12 13:00,ZKS Olimpia Elblag,Legia Warszawa II,1,2,5.000,3.800,1.550,3.25,1.950,1.850
+62038012,2026-04-12 17:00,Wigry Suwalki,LKS 1926 Lomza,1,0,2.600,3.200,2.400,2.75,1.975,1.825
+62037966,2026-04-15 14:00,Legia Warszawa II,Wisla Plock II,3,0,1.380,4.500,5.750,3,1.850,1.950
+69734486,2026-04-15 15:00,GKS Wikielec,Widzew Lodz II,1,2,2.000,3.900,2.800,3.25,1.850,1.950
+70278582,2026-04-15 15:30,Mlks Znicz Biala Piska,Jagiellonia II Bialystok,0,0,,,,,,
+62038034,2026-04-18 10:00,Wisla Plock II,GKS Wikielec,3,1,2.500,3.500,2.350,3,1.900,1.900
+62038022,2026-04-18 12:00,KS Ck Troszyn,ZKS Olimpia Elblag,0,0,,,,,,
+62038030,2026-04-18 13:00,Swit Nowy Dwor Mazowiecki,Zabkovia Zabki,3,3,2.350,3.750,2.375,3,1.850,1.950
+62038026,2026-04-18 14:00,LKS 1926 Lomza,Lechia Tomaszow Mazowiecki,1,1,1.600,4.000,4.333,3,1.875,1.925
+62038020,2026-04-18 15:00,GKS Belchatow,KS Warta Sieradz,3,3,3.100,3.700,1.909,3,2.025,1.775
+62038028,2026-04-18 15:00,MKS Mlawianka Mlawa,Mlks Znicz Biala Piska,0,0,,,,,,
+62038032,2026-04-19 10:00,Widzew Lodz II,KS Wasilkow,4,1,1.850,4.000,3.000,3.5,1.850,1.950
+62038024,2026-04-19 11:00,Legia Warszawa II,Wigry Suwalki,1,0,1.444,4.100,5.750,2.75,1.800,2.000
+62038018,2026-04-19 14:30,Bron Radom,Jagiellonia II Bialystok,1,2,2.375,3.600,2.450,2.75,1.925,1.875
+62038046,2026-04-25 10:00,Legia Warszawa II,KS Ck Troszyn,2,0,1.600,4.000,4.200,3,1.875,1.925
+62038052,2026-04-25 12:00,Mlks Znicz Biala Piska,KS Warta Sieradz,0,0,,,,,,
+62038040,2026-04-25 13:00,Jagiellonia II Bialystok,Widzew Lodz II,1,4,1.650,4.000,3.900,3.25,1.800,2.000
+62038042,2026-04-25 13:00,KS Wasilkow,Wisla Plock II,2,1,2.800,3.700,2.050,3.25,1.800,2.000
+62038044,2026-04-25 13:00,Lechia Tomaszow Mazowiecki,Zabkovia Zabki,2,1,1.480,4.500,4.500,3.25,2.000,1.800
+62038048,2026-04-25 15:00,ZKS Olimpia Elblag,MKS Mlawianka Mlawa,0,2,2.250,3.600,2.550,3,2.000,1.800
+62038038,2026-04-25 16:00,GKS Wikielec,LKS 1926 Lomza,0,0,,,,,,
+62038036,2026-04-26 17:00,Bron Radom,Swit Nowy Dwor Mazowiecki,0,1,2.100,3.500,2.875,2.75,1.825,1.975
+62038050,2026-04-26 17:00,Wigry Suwalki,GKS Belchatow,1,1,1.444,4.200,5.250,3,1.950,1.850
+62038068,2026-04-30 10:00,Wisla Plock II,Widzew Lodz II,0,1,2.550,3.600,2.250,3.25,1.825,1.975
+62038066,2026-04-30 15:00,KS Warta Sieradz,Jagiellonia II Bialystok,3,3,1.727,3.900,3.600,3.25,1.800,2.000
+62038056,2026-04-30 15:30,KS Ck Troszyn,Mlks Znicz Biala Piska,2,0,,,,,,
+62038070,2026-05-01 12:00,Zabkovia Zabki,KS Wasilkow,0,3,1.800,3.900,3.250,3.25,1.975,1.825
+62038062,2026-05-01 15:00,MKS Mlawianka Mlawa,Bron Radom,3,2,1.700,3.750,3.800,3,2.000,1.800
+62038058,2026-05-02 10:00,Lechia Tomaszow Mazowiecki,Wigry Suwalki,1,3,1.909,3.600,3.100,3,1.825,1.975
+62038054,2026-05-02 15:00,GKS Belchatow,ZKS Olimpia Elblag,0,0,,,,,,
+62038060,2026-05-03 14:00,LKS 1926 Lomza,Legia Warszawa II,3,0,2.800,3.600,2.100,2.75,1.875,1.925
+62038064,2026-05-03 14:00,Swit Nowy Dwor Mazowiecki,GKS Wikielec,2,4,1.909,3.600,3.200,2.75,1.825,1.975
+62038074,2026-05-08 16:00,GKS Wikielec,GKS Belchatow,0,1,1.750,3.750,3.500,2.75,1.850,1.950
+62038072,2026-05-08 16:30,Bron Radom,KS Ck Troszyn,1,1,3.300,3.750,1.833,2.75,1.900,1.900
+62038080,2026-05-09 10:00,Legia Warszawa II,Zabkovia Zabki,2,0,1.250,5.500,7.500,3.5,1.800,2.000
+62038086,2026-05-09 10:00,Wisla Plock II,Lechia Tomaszow Mazowiecki,2,2,2.350,3.600,2.400,3.25,1.900,1.900
+62038078,2026-05-09 12:00,KS Wasilkow,KS Warta Sieradz,0,0,,,,,,
+62038088,2026-05-09 12:00,Mlks Znicz Biala Piska,Swit Nowy Dwor Mazowiecki,0,0,,,,,,
+62038084,2026-05-09 17:00,Wigry Suwalki,MKS Mlawianka Mlawa,2,0,1.700,3.900,3.700,3,1.825,1.975
+62038076,2026-05-10 10:00,Jagiellonia II Bialystok,LKS 1926 Lomza,0,2,3.000,3.600,1.950,2.75,1.850,1.950
+62038082,2026-05-10 10:00,Widzew Lodz II,ZKS Olimpia Elblag,3,0,1.900,3.800,3.200,3,2.000,1.800
+62038090,2026-05-13 15:00,GKS Belchatow,Widzew Lodz II,1,3,2.100,3.800,2.600,3.25,1.900,1.900
+62038092,2026-05-13 15:00,KS Ck Troszyn,Lechia Tomaszow Mazowiecki,4,1,1.666,4.200,3.700,3.5,1.975,1.825
+62038096,2026-05-13 15:00,Legia Warszawa II,GKS Wikielec,2,0,1.380,4.500,5.500,3.25,1.975,1.825
+62038100,2026-05-13 15:00,ZKS Olimpia Elblag,Wigry Suwalki,0,0,,,,,,
+62038102,2026-05-13 15:00,Swit Nowy Dwor Mazowiecki,LKS 1926 Lomza,3,2,3.700,3.900,1.700,3,1.975,1.825
+62038104,2026-05-13 15:00,KS Warta Sieradz,Wisla Plock II,1,1,1.571,3.900,4.333,3,1.875,1.925
+62038094,2026-05-13 15:30,KS Wasilkow,Mlks Znicz Biala Piska,3,3,,,,,,
+62038098,2026-05-13 15:30,MKS Mlawianka Mlawa,Jagiellonia II Bialystok,0,1,2.350,3.800,2.375,3.25,1.875,1.925
+62038106,2026-05-13 16:00,Zabkovia Zabki,Bron Radom,0,0,2.150,3.600,2.700,3,1.950,1.850
+62037806,2026-05-16 11:00,KS Wasilkow,Wigry Suwalki,0,3,3.700,3.900,1.666,3,1.900,1.900
+62038124,2026-05-16 14:00,Mlks Znicz Biala Piska,Zabkovia Zabki,2,6,,,,,,
+62038116,2026-05-16 17:26,LKS 1926 Lomza,GKS Belchatow,5,0,1.333,5.000,5.750,3,1.800,2.000
+62038112,2026-05-17 10:00,Jagiellonia II Bialystok,KS Ck Troszyn,0,1,,,,,,
+62038114,2026-05-17 10:00,Lechia Tomaszow Mazowiecki,Swit Nowy Dwor Mazowiecki,2,0,1.700,4.000,3.600,3.5,1.925,1.875
+62038118,2026-05-17 10:00,Widzew Lodz II,MKS Mlawianka Mlawa,0,2,2.100,3.750,2.600,3.5,1.900,1.900
+62038122,2026-05-17 12:00,Wisla Plock II,ZKS Olimpia Elblag,1,1,1.727,3.800,3.700,3,2.000,1.800
+62038110,2026-05-17 15:00,GKS Wikielec,KS Warta Sieradz,1,1,3.000,3.700,1.950,2.75,1.800,2.000
+62038108,2026-05-17 16:30,Bron Radom,Legia Warszawa II,1,2,2.600,3.500,2.200,2.75,1.875,1.925
+62038132,2026-05-21 09:00,Legia Warszawa II,Widzew Lodz II,0,3,,,,,,
+62038140,2026-05-22 16:00,KS Warta Sieradz,Wigry Suwalki,2,1,2.100,3.500,2.750,3,2.000,1.800
+62038138,2026-05-23 11:00,Swit Nowy Dwor Mazowiecki,Wisla Plock II,2,3,2.100,3.900,2.625,3.25,1.950,1.850
+62038130,2026-05-23 12:00,KS Wasilkow,Bron Radom,1,4,3.600,3.750,1.727,3,1.900,1.900
+62038128,2026-05-23 14:00,KS Ck Troszyn,LKS 1926 Lomza,0,2,2.750,3.600,2.100,3,1.850,1.950
+62038126,2026-05-23 15:00,GKS Belchatow,Jagiellonia II Bialystok,1,2,2.100,3.600,2.800,3,1.850,1.950
+62038136,2026-05-23 15:00,ZKS Olimpia Elblag,Mlks Znicz Biala Piska,2,3,1.200,6.500,10.000,3.5,1.850,1.950
+62038142,2026-05-23 16:00,Zabkovia Zabki,GKS Wikielec,2,2,2.500,3.600,2.300,3,2.000,1.800
+62038134,2026-05-24 15:00,MKS Mlawianka Mlawa,Lechia Tomaszow Mazowiecki,3,1,1.650,4.000,4.100,3.5,1.975,1.825
+62038148,2026-05-30 10:00,Jagiellonia II Bialystok,KS Wasilkow,1,1,1.700,4.000,3.700,3.5,1.975,1.825
+62038160,2026-05-30 13:00,Mlks Znicz Biala Piska,Legia Warszawa II,0,3,,,,,,
+62038144,2026-05-30 15:00,Bron Radom,KS Warta Sieradz,0,1,3.200,3.800,1.850,2.75,1.800,2.000
+62038146,2026-05-30 15:00,GKS Wikielec,KS Ck Troszyn,0,0,,,,,,
+62038150,2026-05-30 15:00,Lechia Tomaszow Mazowiecki,ZKS Olimpia Elblag,0,0,,,,,,
+62038152,2026-05-30 15:00,LKS 1926 Lomza,MKS Mlawianka Mlawa,0,0,,,,,,
+62038154,2026-05-30 15:00,Widzew Lodz II,Zabkovia Zabki,2,1,1.700,4.200,3.500,3.75,2.000,1.800
+62038156,2026-05-30 15:00,Wigry Suwalki,Swit Nowy Dwor Mazowiecki,3,2,1.550,4.200,4.333,3.25,1.800,2.000
+62038158,2026-05-30 15:00,Wisla Plock II,GKS Belchatow,4,1,1.833,4.000,3.100,3.25,1.975,1.825
+72514582,2026-07-31 15:00,ZKS Olimpia Elblag,Wisla Plock II,1,2,2.150,3.500,2.800,2.75,1.825,1.975
+72514590,2026-07-31 16:00,SK Mazovia Minsk Mazowiecki,Jagiellonia II Bialystok,2,3,1.727,4.200,3.400,3,1.950,1.850
+72514598,2026-07-31 17:00,KTS Weszlo Warszawa,Lechia Tomaszow Mazowiecki,2,1,2.000,3.750,3.100,3,1.950,1.850
+72514586,2026-08-01 15:30,Olimpia Zambrow,Zabkovia Zabki,5,0,3.400,3.500,1.850,2.75,1.825,1.975
+72514584,2026-08-01 16:00,MKS Polonia Lidzbark Warminski,Swit Nowy Dwor Mazowiecki,1,2,2.375,3.600,2.400,3,1.825,1.975
+72514594,2026-08-01 16:00,KS Warta Sieradz,MKS Mlawianka Mlawa,1,2,1.833,3.750,3.300,3,1.975,1.825
+72514596,2026-08-01 16:00,KS Pelikan Lowicz,LKS 1926 Lomza,3,2,2.200,4.000,2.450,3.25,1.925,1.875
+72514588,2026-08-02 10:00,Widzew Lodz II,KS Ck Troszyn,5,1,1.900,3.800,3.200,3,1.925,1.875
+72514592,2026-08-02 16:00,Wigry Suwalki,LKS Lodz II,2,0,1.750,4.000,3.400,3,2.000,1.800
+72514608,2026-08-07 15:00,Jagiellonia II Bialystok,Wigry Suwalki,1,1,2.375,3.800,2.350,2.75,1.900,1.900
+72514616,2026-08-07 15:00,ZKS Olimpia Elblag,MKS Polonia Lidzbark Warminski,4,2,2.100,3.500,2.800,2.5,1.850,1.950
+72514604,2026-08-07 15:30,MKS Mlawianka Mlawa,KS Pelikan Lowicz,0,1,2.200,3.700,2.625,3,1.900,1.900
+72514610,2026-08-08 11:00,KS Ck Troszyn,SK Mazovia Minsk Mazowiecki,1,4,4.000,3.900,1.650,3,2.000,1.800
+72514612,2026-08-08 13:00,Zabkovia Zabki,Widzew Lodz II,1,0,,,,,,
+72514614,2026-08-08 13:00,Swit Nowy Dwor Mazowiecki,Olimpia Zambrow,4,0,1.600,4.333,3.900,3,1.800,2.000
+72514600,2026-08-08 15:00,Wisla Plock II,Lechia Tomaszow Mazowiecki,2,1,2.000,3.750,2.875,3,1.800,2.000
+72514602,2026-08-08 15:00,LKS 1926 Lomza,KTS Weszlo Warszawa,0,1,1.700,4.000,3.600,3,1.825,1.975
+72514606,2026-08-09 15:00,LKS Lodz II,KS Warta Sieradz,0,1,3.700,3.750,1.750,2.75,1.975,1.825
+72514634,2026-08-14 14:00,Lechia Tomaszow Mazowiecki,LKS 1926 Lomza,5,2,2.300,3.750,2.400,3,1.850,1.950
+72514624,2026-08-14 15:30,SK Mazovia Minsk Mazowiecki,Zabkovia Zabki,3,2,1.700,3.900,3.800,3.25,1.800,2.000
+72514632,2026-08-14 17:00,KTS Weszlo Warszawa,MKS Mlawianka Mlawa,5,1,2.150,3.600,2.700,3,1.850,1.950
+72514626,2026-08-14 17:47,Wigry Suwalki,KS Ck Troszyn,1,0,1.285,4.750,7.500,3,1.800,2.000
+72514622,2026-08-15 10:00,Widzew Lodz II,Swit Nowy Dwor Mazowiecki,0,0,2.400,3.800,2.300,3.25,1.850,1.950
+72514630,2026-08-15 13:00,KS Pelikan Lowicz,LKS Lodz II,2,1,2.000,3.600,3.000,2.75,1.925,1.875
+72514618,2026-08-15 15:00,MKS Polonia Lidzbark Warminski,Wisla Plock II,1,1,,,,,,
+72514620,2026-08-15 15:30,Olimpia Zambrow,ZKS Olimpia Elblag,1,2,,,,,,
+72514628,2026-08-15 16:00,KS Warta Sieradz,Jagiellonia II Bialystok,2,2,1.850,3.600,3.400,2.75,1.925,1.875
+72514640,2026-08-19 13:00,LKS Lodz II,KTS Weszlo Warszawa,0,2,2.750,3.600,2.100,3,2.000,1.800
+72514642,2026-08-19 14:30,Jagiellonia II Bialystok,KS Pelikan Lowicz,3,0,2.000,3.800,2.875,3,1.800,2.000
+72514636,2026-08-19 15:00,Wisla Plock II,LKS 1926 Lomza,1,1,1.850,3.900,3.000,3,1.850,1.950
+72514638,2026-08-19 15:00,MKS Mlawianka Mlawa,Lechia Tomaszow Mazowiecki,2,3,2.000,4.100,2.600,3.75,1.900,1.900
+72514644,2026-08-19 15:00,KS Ck Troszyn,KS Warta Sieradz,1,4,3.500,3.800,1.750,3,1.900,1.900
+72514646,2026-08-19 15:00,Zabkovia Zabki,Wigry Suwalki,1,1,3.200,3.800,1.833,3,1.950,1.850
+72514650,2026-08-19 15:00,ZKS Olimpia Elblag,Widzew Lodz II,0,2,2.150,3.600,2.700,3,1.950,1.850
+72514652,2026-08-19 15:00,MKS Polonia Lidzbark Warminski,Olimpia Zambrow,2,3,,,,,,
+72514648,2026-08-19 15:30,Swit Nowy Dwor Mazowiecki,SK Mazovia Minsk Mazowiecki,1,2,1.950,3.700,3.000,3.25,1.900,1.900
+72514658,2026-08-22 15:00,SK Mazovia Minsk Mazowiecki,ZKS Olimpia Elblag,2,2,1.500,4.100,4.750,3,1.900,1.900
+72514662,2026-08-22 15:00,KS Warta Sieradz,Zabkovia Zabki,0,4,1.533,4.200,4.333,3.25,1.850,1.950
+72514670,2026-08-22 15:00,LKS 1926 Lomza,MKS Mlawianka Mlawa,0,0,1.950,3.800,3.000,3.25,2.000,1.800
+72514656,2026-08-23 10:00,Widzew Lodz II,MKS Polonia Lidzbark Warminski,4,1,1.285,4.750,8.000,3,1.900,1.900
+72514664,2026-08-23 10:00,KS Pelikan Lowicz,KS Ck Troszyn,1,1,1.700,3.900,3.700,3.25,2.000,1.800
+72514666,2026-08-23 13:00,KTS Weszlo Warszawa,Jagiellonia II Bialystok,4,0,2.000,3.500,3.000,3,1.975,1.825
+72514654,2026-08-23 14:00,Olimpia Zambrow,Wisla Plock II,4,3,2.800,3.500,2.100,2.75,1.800,2.000
+72514668,2026-08-23 14:00,Lechia Tomaszow Mazowiecki,LKS Lodz II,4,3,1.727,3.900,3.500,3.25,2.000,1.800
+72514660,2026-08-23 16:00,Wigry Suwalki,Swit Nowy Dwor Mazowiecki,0,0,,,,,,
+72514672,2026-08-29 10:00,Wisla Plock II,MKS Mlawianka Mlawa,5,3,1.650,4.100,3.800,3.25,1.850,1.950
+72514676,2026-08-29 10:00,Jagiellonia II Bialystok,Lechia Tomaszow Mazowiecki,1,1,2.250,3.750,2.500,3.25,2.000,1.800
+72514678,2026-08-29 12:00,KS Ck Troszyn,KTS Weszlo Warszawa,3,3,3.600,3.750,1.727,3.25,1.975,1.825
+72514682,2026-08-29 13:00,Swit Nowy Dwor Mazowiecki,KS Warta Sieradz,2,1,2.100,3.800,2.700,3,1.900,1.900
+72514680,2026-08-29 15:00,Zabkovia Zabki,KS Pelikan Lowicz,2,1,2.000,3.800,2.875,3.25,1.900,1.900
+72514684,2026-08-29 15:00,ZKS Olimpia Elblag,Wigry Suwalki,1,3,3.100,3.750,1.909,2.75,1.825,1.975
+72514686,2026-08-29 15:00,MKS Polonia Lidzbark Warminski,SK Mazovia Minsk Mazowiecki,2,2,,,,,,
+72514688,2026-08-30 14:00,Olimpia Zambrow,Widzew Lodz II,3,4,3.000,3.800,1.909,3.25,1.875,1.925
+72514674,2026-08-30 15:00,LKS Lodz II,LKS 1926 Lomza,4,3,2.500,3.600,2.300,3,2.000,1.800
+72514696,2026-09-04 15:00,KS Warta Sieradz,ZKS Olimpia Elblag,4,1,1.650,3.700,4.200,2.75,1.850,1.950
+72514698,2026-09-04 15:00,KS Pelikan Lowicz,Swit Nowy Dwor Mazowiecki,4,1,2.800,3.600,2.050,2.75,1.825,1.975
+72514692,2026-09-05 13:00,SK Mazovia Minsk Mazowiecki,Olimpia Zambrow,5,0,1.450,4.750,4.750,3.25,1.825,1.975
+72514700,2026-09-05 13:00,KTS Weszlo Warszawa,Zabkovia Zabki,2,0,1.833,3.900,3.200,3.25,1.950,1.850
+72514702,2026-09-05 14:00,Lechia Tomaszow Mazowiecki,KS Ck Troszyn,0,2,1.700,4.200,3.500,3.5,1.925,1.875
+72514704,2026-09-05 14:00,LKS 1926 Lomza,Jagiellonia II Bialystok,1,2,1.833,3.800,3.300,3,1.875,1.925
+72514690,2026-09-06 10:00,Widzew Lodz II,Wisla Plock II,0,2,1.850,3.800,3.200,3,1.850,1.950
+72514706,2026-09-06 14:00,MKS Mlawianka Mlawa,LKS Lodz II,0,2,2.050,3.750,2.750,3.25,1.875,1.925
+72514694,2026-09-06 16:00,Wigry Suwalki,MKS Polonia Lidzbark Warminski,1,3,1.333,4.750,6.500,3,1.850,1.950
+72514724,2026-09-11 11:00,Widzew Lodz II,SK Mazovia Minsk Mazowiecki,2,3,2.700,3.600,2.100,3,1.850,1.950
+72514714,2026-09-11 14:30,Zabkovia Zabki,Lechia Tomaszow Mazowiecki,4,2,1.909,3.800,3.000,3.25,1.800,2.000
+72514708,2026-09-12 10:00,Wisla Plock II,LKS Lodz II,2,2,1.800,3.800,3.400,3,1.800,2.000
+72514710,2026-09-12 13:00,Jagiellonia II Bialystok,MKS Mlawianka Mlawa,7,4,1.615,4.000,4.000,3,1.800,2.000
+72514712,2026-09-12 13:00,KS Ck Troszyn,LKS 1926 Lomza,1,1,,,,,,
+72514716,2026-09-12 13:00,Swit Nowy Dwor Mazowiecki,KTS Weszlo Warszawa,0,1,2.250,3.600,2.500,3,1.925,1.875
+72514718,2026-09-12 14:00,ZKS Olimpia Elblag,KS Pelikan Lowicz,1,0,2.450,3.600,2.350,3,1.975,1.825
+72514722,2026-09-12 14:00,Olimpia Zambrow,Wigry Suwalki,1,1,3.600,3.800,1.700,3,1.800,2.000
+72514720,2026-09-12 17:00,MKS Polonia Lidzbark Warminski,KS Warta Sieradz,1,2,3.100,3.600,1.950,3,2.000,1.800
+72514738,2026-09-18 14:00,LKS 1926 Lomza,Zabkovia Zabki,0,2,3.700,4.000,1.666,3.25,1.975,1.825
+72514736,2026-09-18 14:30,Lechia Tomaszow Mazowiecki,Swit Nowy Dwor Mazowiecki,1,2,2.550,3.900,2.150,3.5,1.950,1.850
+72514742,2026-09-19 10:00,Jagiellonia II Bialystok,LKS Lodz II,2,3,2.000,3.700,2.875,3,1.800,2.000
+72514732,2026-09-19 13:00,KS Pelikan Lowicz,MKS Polonia Lidzbark Warminski,1,0,1.850,3.750,3.250,3,1.825,1.975
+72514734,2026-09-19 13:00,KTS Weszlo Warszawa,ZKS Olimpia Elblag,2,1,1.550,4.333,4.100,3,1.975,1.825
+72514726,2026-09-19 14:00,SK Mazovia Minsk Mazowiecki,Wisla Plock II,3,2,,,,,,
+72514730,2026-09-19 14:00,KS Warta Sieradz,Olimpia Zambrow,2,2,,,,,,
+72514740,2026-09-19 14:00,MKS Mlawianka Mlawa,KS Ck Troszyn,4,1,,,,,,
+72514728,2026-09-20 16:00,Wigry Suwalki,Widzew Lodz II,6,3,,,,,,
+72514744,2026-09-25 14:00,Wisla Plock II,Jagiellonia II Bialystok,2,1,2.150,4.000,2.500,3.5,1.950,1.850
+72514748,2026-09-25 14:00,Zabkovia Zabki,MKS Mlawianka Mlawa,3,4,1.666,4.100,3.750,3.5,1.850,1.950
+72514750,2026-09-25 14:00,Swit Nowy Dwor Mazowiecki,LKS 1926 Lomza,4,0,1.363,5.000,5.500,3.25,1.825,1.975
+72514746,2026-09-26 11:00,KS Ck Troszyn,LKS Lodz II,1,1,,,,,,
+72514756,2026-09-26 13:00,Olimpia Zambrow,KS Pelikan Lowicz,1,3,2.625,3.700,2.200,3,1.825,1.975
+72514752,2026-09-26 14:00,ZKS Olimpia Elblag,Lechia Tomaszow Mazowiecki,1,2,2.050,3.750,2.800,3.25,1.950,1.850
+72514760,2026-09-26 14:00,SK Mazovia Minsk Mazowiecki,Wigry Suwalki,0,2,1.900,3.800,3.100,3,1.800,2.000
+72514754,2026-09-26 16:00,MKS Polonia Lidzbark Warminski,KTS Weszlo Warszawa,1,1,,,,,,
+72514774,2026-10-03 12:30,MKS Mlawianka Mlawa,Swit Nowy Dwor Mazowiecki,2,4,,,,,,
+72514766,2026-10-03 13:00,KS Pelikan Lowicz,Widzew Lodz II,1,1,2.000,3.750,2.875,3,1.875,1.925
+72514768,2026-10-03 13:00,KTS Weszlo Warszawa,Olimpia Zambrow,1,3,1.480,4.333,5.000,3.25,1.925,1.875
+72514770,2026-10-03 13:00,Lechia Tomaszow Mazowiecki,MKS Polonia Lidzbark Warminski,1,2,2.050,3.700,2.800,3.25,1.975,1.825
+72514772,2026-10-03 14:00,LKS 1926 Lomza,ZKS Olimpia Elblag,0,2,2.700,3.600,2.150,3,1.975,1.825
+72514762,2026-10-03 15:00,Wigry Suwalki,Wisla Plock II,1,0,2.000,3.600,3.000,3,1.800,2.000
+72514764,2026-10-03 17:00,KS Warta Sieradz,SK Mazovia Minsk Mazowiecki,1,1,2.400,3.600,2.400,3.25,2.000,1.800
+72514796,2026-10-09 17:00,KS Warta Sieradz,Wigry Suwalki,1,3,2.600,3.600,2.200,2.75,1.800,2.000
+72514780,2026-10-10 12:00,Wisla Plock II,KS Ck Troszyn,2,1,1.700,4.000,3.600,3.25,1.975,1.825
+72514786,2026-10-10 12:00,ZKS Olimpia Elblag,MKS Mlawianka Mlawa,2,1,,,,,,
+72514794,2026-10-10 12:00,SK Mazovia Minsk Mazowiecki,KS Pelikan Lowicz,1,4,1.850,3.900,3.200,3,1.900,1.900
+72514782,2026-10-10 13:00,Zabkovia Zabki,Jagiellonia II Bialystok,2,2,2.000,3.750,2.900,3.5,2.000,1.800
+72514784,2026-10-10 13:00,Swit Nowy Dwor Mazowiecki,LKS Lodz II,2,7,1.850,3.800,3.250,3.25,1.975,1.825
+72514788,2026-10-10 16:00,MKS Polonia Lidzbark Warminski,LKS 1926 Lomza,3,2,,,,,,
+72514792,2026-10-11 09:30,Widzew Lodz II,KTS Weszlo Warszawa,0,2,2.100,3.750,2.700,3,1.800,2.000
+72514790,2026-10-11 13:00,Olimpia Zambrow,Lechia Tomaszow Mazowiecki,3,0,1.950,3.800,2.875,3.25,1.950,1.850
+72514778,2026-10-14 13:00,Jagiellonia II Bialystok,KS Ck Troszyn,0,1,1.666,3.900,3.900,3.25,1.900,1.900
+72514776,2026-10-14 16:00,LKS Lodz II,Zabkovia Zabki,0,3,2.100,3.900,2.625,3.5,1.925,1.875
+72514810,2026-10-17 11:00,LKS Lodz II,ZKS Olimpia Elblag,1,1,1.900,3.700,3.100,3,1.850,1.950
+72514800,2026-10-17 13:00,KS Pelikan Lowicz,Wigry Suwalki,1,4,2.600,3.500,2.250,2.75,1.825,1.975
+72514806,2026-10-17 13:00,LKS 1926 Lomza,Olimpia Zambrow,0,2,6.500,5.000,1.333,3,1.850,1.950
+72514808,2026-10-17 13:00,MKS Mlawianka Mlawa,MKS Polonia Lidzbark Warminski,3,2,2.050,3.750,2.750,3.25,1.950,1.850
+72514798,2026-10-17 16:00,KS Warta Sieradz,Wisla Plock II,2,1,2.000,3.600,3.000,3,1.925,1.875
+72514804,2026-10-18 10:00,Lechia Tomaszow Mazowiecki,Widzew Lodz II,1,1,2.350,3.750,2.350,3.25,1.850,1.950
+72514812,2026-10-18 10:00,Jagiellonia II Bialystok,Swit Nowy Dwor Mazowiecki,1,3,2.300,3.750,2.400,3.25,2.000,1.800
+72514814,2026-10-18 12:00,KS Ck Troszyn,Zabkovia Zabki,1,1,,,,,,
+72514802,2026-10-18 13:00,KTS Weszlo Warszawa,SK Mazovia Minsk Mazowiecki,3,2,1.909,3.750,3.100,3,1.900,1.900
+72514758,2026-10-21 15:30,Widzew Lodz II,KS Warta Sieradz,0,1,2.300,3.750,2.375,3.25,1.975,1.825
+72514816,2026-10-24 10:00,Wisla Plock II,Zabkovia Zabki,2,2,2.400,3.800,2.250,3.5,2.000,1.800
+72514828,2026-10-24 11:00,SK Mazovia Minsk Mazowiecki,Lechia Tomaszow Mazowiecki,3,1,1.650,4.000,3.800,3.25,1.850,1.950
+72514818,2026-10-24 12:00,Swit Nowy Dwor Mazowiecki,KS Ck Troszyn,3,0,1.615,4.200,4.000,3.25,1.850,1.950
+72514820,2026-10-24 12:00,ZKS Olimpia Elblag,Jagiellonia II Bialystok,0,0,,,,,,
+72514824,2026-10-24 12:00,Olimpia Zambrow,MKS Mlawianka Mlawa,1,1,,,,,,
+72514822,2026-10-24 15:00,MKS Polonia Lidzbark Warminski,LKS Lodz II,3,0,3.100,3.700,1.950,3,2.000,1.800
+72514830,2026-10-24 15:00,Wigry Suwalki,KTS Weszlo Warszawa,4,1,1.600,4.000,4.000,3,1.950,1.850
+72514832,2026-10-24 16:00,KS Warta Sieradz,KS Pelikan Lowicz,2,2,2.150,3.600,2.625,3,2.000,1.800
+72514826,2026-10-25 11:00,Widzew Lodz II,LKS 1926 Lomza,2,2,1.333,4.750,6.500,3.5,2.000,1.800
+72514846,2026-10-30 12:00,Jagiellonia II Bialystok,MKS Polonia Lidzbark Warminski,2,1,1.666,3.900,3.900,3,1.800,2.000
+72514838,2026-10-31 11:00,Lechia Tomaszow Mazowiecki,Wigry Suwalki,2,0,3.700,4.000,1.700,3,1.825,1.975
+72514844,2026-10-31 11:00,LKS Lodz II,Olimpia Zambrow,3,2,1.909,3.900,3.100,3.25,1.950,1.850
+72514840,2026-10-31 12:00,LKS 1926 Lomza,SK Mazovia Minsk Mazowiecki,2,3,6.500,5.000,1.300,3.25,1.875,1.925
+72514842,2026-10-31 12:00,MKS Mlawianka Mlawa,Widzew Lodz II,1,4,,,,,,
+72514848,2026-10-31 12:00,KS Ck Troszyn,ZKS Olimpia Elblag,2,0,,,,,,
+72514850,2026-10-31 12:00,Zabkovia Zabki,Swit Nowy Dwor Mazowiecki,2,0,2.100,4.000,2.550,3.5,1.975,1.825
+72514834,2026-10-31 13:00,KS Pelikan Lowicz,Wisla Plock II,1,2,2.100,3.600,2.800,3,1.875,1.925
+72514836,2026-10-31 14:00,KTS Weszlo Warszawa,KS Warta Sieradz,0,1,2.150,3.400,2.900,2.75,1.875,1.925
+72514866,2026-11-06 18:00,KS Warta Sieradz,Lechia Tomaszow Mazowiecki,3,0,1.700,3.900,3.700,3,1.850,1.950
+72514852,2026-11-07 12:00,Wisla Plock II,Swit Nowy Dwor Mazowiecki,1,4,2.350,3.750,2.350,3,1.825,1.975
+72514858,2026-11-07 12:00,Olimpia Zambrow,Jagiellonia II Bialystok,2,1,,,,,,
+72514862,2026-11-07 12:00,SK Mazovia Minsk Mazowiecki,MKS Mlawianka Mlawa,3,1,1.480,4.333,4.750,3.5,1.900,1.900
+72514868,2026-11-07 12:00,KS Pelikan Lowicz,KTS Weszlo Warszawa,0,1,,,,,,
+72514854,2026-11-07 13:00,ZKS Olimpia Elblag,Zabkovia Zabki,2,0,3.500,4.000,1.727,3,1.800,2.000
+72514856,2026-11-07 16:00,MKS Polonia Lidzbark Warminski,KS Ck Troszyn,4,2,1.800,3.800,3.300,3,1.850,1.950
+72514864,2026-11-07 16:00,Wigry Suwalki,LKS 1926 Lomza,1,0,,,,,,
+72514860,2026-11-08 11:00,Widzew Lodz II,LKS Lodz II,0,1,2.100,3.600,2.700,3,1.850,1.950

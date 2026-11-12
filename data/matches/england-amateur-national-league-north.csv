@@ -1,646 +1,646 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-61944258,2025-08-09 14:00,AFC Fylde,Oxford City,3,2,,,
-61944264,2025-08-09 14:00,Chester FC,Peterborough Sports,3,2,,,
-61944266,2025-08-09 14:00,Curzon Ashton FC,Leamington FC,1,1,,,
-61944270,2025-08-09 14:00,Kidderminster Harriers FC,Scarborough Athletic,1,0,,,
-61944286,2025-08-16 14:00,Chorley FC,Chester FC,3,0,,,
-61944292,2025-08-16 14:00,Marine FC,Buxton FC,2,1,,,
-61944294,2025-08-16 14:00,Oxford City,Macclesfield FC,2,1,,,
-61944296,2025-08-16 14:00,Peterborough Sports,Merthyr Town,0,3,,,
-61944298,2025-08-16 14:00,Radcliffe FC,Spennymoor Town FC,0,2,,,
-61944310,2025-08-19 18:45,Buxton FC,Hereford FC,1,2,,,
-61944312,2025-08-19 18:45,Chester FC,Curzon Ashton FC,1,1,,,
-61944314,2025-08-19 18:45,Chorley FC,Scarborough Athletic,2,2,,,
-61944318,2025-08-19 18:45,Kidderminster Harriers FC,Oxford City,1,1,,,
-61944320,2025-08-19 18:45,Merthyr Town,Marine FC,1,3,,,
-61944324,2025-08-19 18:45,Radcliffe FC,Worksop Town,2,1,,,
-61944326,2025-08-19 18:45,Southport FC,Macclesfield FC,1,2,,,
-61944330,2025-08-23 14:00,AFC Fylde,Kidderminster Harriers FC,2,1,,,
-61944334,2025-08-23 14:00,Curzon Ashton FC,Merthyr Town,0,3,,,
-61944336,2025-08-23 14:00,Hereford FC,Chorley FC,1,4,,,
-61944344,2025-08-23 14:00,Marine FC,Bedford Town Football Club,2,1,,,
-61944346,2025-08-23 14:00,Oxford City,Spennymoor Town FC,1,2,,,
-61944352,2025-08-23 14:00,Worksop Town,Southport FC,2,0,,,
-61944362,2025-08-25 14:00,Chorley FC,King's Lynn Town,4,0,,,
-61944372,2025-08-25 14:00,Radcliffe FC,Hereford FC,1,0,,,
-61944376,2025-08-25 14:00,Spennymoor Town FC,Macclesfield FC,0,0,,,
-61944378,2025-08-30 14:00,AFC Fylde,Bedford Town Football Club,1,0,,,
-61944382,2025-08-30 14:00,Curzon Ashton FC,Kidderminster Harriers FC,0,1,,,
-61944392,2025-08-30 14:00,Marine FC,Peterborough Sports,0,1,,,
-61944394,2025-08-30 14:00,Oxford City,Radcliffe FC,1,5,,,
-61944402,2025-09-02 18:45,AFC Fylde,Chester FC,2,2,,,
-61944406,2025-09-02 18:45,Curzon Ashton FC,Chorley FC,2,0,,,
-61944408,2025-09-02 18:45,Hereford FC,Bedford Town Football Club,2,2,,,
-61944410,2025-09-02 18:45,King's Lynn Town,Kidderminster Harriers FC,0,1,,,
-61944412,2025-09-02 18:45,Leamington FC,Southport FC,2,1,,,
-61944416,2025-09-02 18:45,Marine FC,Darlington FC,1,4,,,
-61944418,2025-09-02 18:45,Oxford City,Alfreton Town FC,5,0,,,
-61944422,2025-09-02 18:45,South Shields,Radcliffe FC,3,0,,,
-61944424,2025-09-02 18:45,Worksop Town,Spennymoor Town FC,3,3,,,
-61944404,2025-09-02 19:00,AFC Telford United,Peterborough Sports,3,2,,,
-61944432,2025-09-06 14:00,Chester FC,Scarborough Athletic,1,1,,,
-61944434,2025-09-06 14:00,Chorley FC,AFC Telford United,3,1,,,
-61944438,2025-09-06 14:00,Kidderminster Harriers FC,Macclesfield FC,1,1,,,
-61944476,2025-10-04 14:00,Buxton FC,Darlington FC,1,0,,,
-61944480,2025-10-04 14:00,King's Lynn Town,Scarborough Athletic,2,3,,,
-61944484,2025-10-04 14:00,Macclesfield FC,Marine FC,0,1,,,
-61944490,2025-10-04 14:00,Radcliffe FC,Alfreton Town FC,3,1,,,
-61944494,2025-10-04 14:00,Spennymoor Town FC,Southport FC,2,0,,,
-64201213,2025-10-07 18:45,AFC Fylde,Leamington FC,1,1,,,
-61944498,2025-10-11 14:00,AFC Fylde,Worksop Town,2,3,,,
-61944504,2025-10-11 14:00,Chorley FC,Oxford City,3,3,,,
-61944512,2025-10-11 14:00,Kidderminster Harriers FC,Radcliffe FC,1,5,,,
-61944518,2025-10-11 14:00,Scarborough Athletic,Leamington FC,2,0,,,
-61944554,2025-10-11 14:00,Marine FC,Curzon Ashton FC,0,4,,,
-61944522,2025-10-18 14:00,AFC Telford United,Scarborough Athletic,4,1,,,
-61944526,2025-10-18 14:00,Chester FC,Kidderminster Harriers FC,1,1,,,
-61944530,2025-10-18 14:00,Leamington FC,Darlington FC,0,1,,,
-61944536,2025-10-18 14:00,Peterborough Sports,Alfreton Town FC,1,1,,,
-61944538,2025-10-18 14:00,Radcliffe FC,Bedford Town Football Club,0,0,,,
-61944542,2025-10-18 14:00,Spennymoor Town FC,Merthyr Town,6,4,,,
-61944544,2025-10-18 14:00,Worksop Town,Marine FC,1,2,,,
-61944546,2025-10-21 18:45,Alfreton Town FC,Chester FC,0,2,,,
-61944550,2025-10-21 18:45,Hereford FC,AFC Telford United,1,1,,,
-61944556,2025-10-21 18:45,Merthyr Town,Kidderminster Harriers FC,0,1,,,
-61944560,2025-10-21 18:45,Radcliffe FC,Darlington FC,3,1,,,
-61944562,2025-10-21 18:45,South Shields,Scarborough Athletic,4,0,,,
-61944564,2025-10-21 18:45,Southport FC,Chorley FC,1,1,,,
-61944566,2025-10-21 18:45,Spennymoor Town FC,AFC Fylde,0,5,,,
-61944568,2025-10-21 18:45,Worksop Town,King's Lynn Town,2,2,,,
-61944578,2025-10-25 14:00,Chorley FC,Merthyr Town,0,2,,,
-61944580,2025-10-25 14:00,Curzon Ashton FC,Peterborough Sports,1,0,,,
-64201291,2025-10-28 19:45,Curzon Ashton FC,King's Lynn Town,3,0,,,
-64295451,2025-10-28 19:45,Southport FC,Peterborough Sports,2,3,,,
-61944594,2025-11-01 15:00,Alfreton Town FC,Kidderminster Harriers FC,1,1,,,
-61944598,2025-11-01 15:00,Hereford FC,Curzon Ashton FC,3,3,,,
-61944602,2025-11-01 15:00,Marine FC,AFC Fylde,0,1,,,
-61944604,2025-11-01 15:00,Merthyr Town,Darlington FC,3,1,,,
-61944606,2025-11-01 15:00,Peterborough Sports,Chorley FC,2,1,,,
-61944612,2025-11-01 15:00,Southport FC,King's Lynn Town,0,0,,,
-61944616,2025-11-01 15:00,Worksop Town,Scarborough Athletic,1,0,,,
-61945022,2025-11-01 15:00,Oxford City,Bedford Town Football Club,1,2,,,
-61944624,2025-11-04 19:40,Chester FC,Marine FC,1,1,,,
-61944620,2025-11-04 19:45,AFC Telford United,Merthyr Town,2,4,,,
-61944622,2025-11-04 19:45,Buxton FC,Southport FC,1,2,,,
-61944626,2025-11-04 19:45,Chorley FC,Alfreton Town FC,0,1,,,
-61944628,2025-11-04 19:45,Curzon Ashton FC,Spennymoor Town FC,2,2,,,
-61944630,2025-11-04 19:45,Darlington FC,Worksop Town,5,1,,,
-61944632,2025-11-04 19:45,Kidderminster Harriers FC,Bedford Town Football Club,2,1,,,
-61944634,2025-11-04 19:45,King's Lynn Town,Leamington FC,2,0,,,
-61944636,2025-11-04 19:45,Macclesfield FC,Peterborough Sports,3,1,,,
-61944638,2025-11-04 19:45,Oxford City,Hereford FC,3,0,,,
-61944618,2025-11-05 19:45,AFC Fylde,South Shields,2,4,,,
-61944642,2025-11-08 15:00,Alfreton Town FC,AFC Fylde,0,1,,,
-61944644,2025-11-08 15:00,Bedford Town Football Club,Merthyr Town,3,4,,,
-61944646,2025-11-08 15:00,Buxton FC,Chester FC,1,2,,,
-61944648,2025-11-08 15:00,Curzon Ashton FC,Scarborough Athletic,1,2,,,
-61944650,2025-11-08 15:00,Hereford FC,Southport FC,1,2,,,
-61944652,2025-11-08 15:00,Kidderminster Harriers FC,Darlington FC,1,2,,,
-61944654,2025-11-08 15:00,Leamington FC,Marine FC,0,1,,,
-61944656,2025-11-08 15:00,Macclesfield FC,AFC Telford United,1,1,,,
-61944658,2025-11-08 15:00,Oxford City,Worksop Town,2,0,,,
-61944660,2025-11-08 15:00,Radcliffe FC,Chorley FC,2,2,,,
-61944662,2025-11-08 15:00,South Shields,King's Lynn Town,1,1,,,
-61944664,2025-11-08 15:00,Spennymoor Town FC,Peterborough Sports,1,0,,,
-64294431,2025-11-11 19:45,Bedford Town Football Club,Buxton FC,3,0,,,
-64294437,2025-11-11 19:45,Marine FC,AFC Telford United,2,1,,,
-64294443,2025-11-11 19:45,Merthyr Town,South Shields,3,1,,,
-64480029,2025-11-11 19:45,Alfreton Town FC,Spennymoor Town FC,2,1,,,
-64480033,2025-11-11 19:45,Southport FC,Chester FC,2,2,,,
-64480169,2025-11-18 19:45,Darlington FC,Peterborough Sports,5,2,,,
-64804420,2025-11-18 19:45,South Shields,Oxford City,4,1,,,
-61944666,2025-11-22 15:00,AFC Fylde,Buxton FC,1,2,,,
-61944668,2025-11-22 15:00,AFC Telford United,South Shields,1,1,,,
-61944670,2025-11-22 15:00,Chester FC,Leamington FC,2,0,,,
-61944672,2025-11-22 15:00,Chorley FC,Bedford Town Football Club,1,0,,,
-61944674,2025-11-22 15:00,Darlington FC,Spennymoor Town FC,1,0,,,
-61944678,2025-11-22 15:00,Marine FC,Oxford City,0,0,,,
-61944680,2025-11-22 15:00,Merthyr Town,Alfreton Town FC,6,2,,,
-61944682,2025-11-22 15:00,Peterborough Sports,Radcliffe FC,3,0,,,
-61944686,2025-11-22 15:00,Southport FC,Kidderminster Harriers FC,2,2,,,
-61944688,2025-11-22 15:00,Worksop Town,Curzon Ashton FC,0,1,,,
-61944690,2025-11-25 19:45,AFC Fylde,Macclesfield FC,5,1,,,
-61944692,2025-11-25 19:45,AFC Telford United,Oxford City,4,0,,,
-61944694,2025-11-25 19:45,Chester FC,Hereford FC,1,1,,,
-61944696,2025-11-25 19:45,Chorley FC,Spennymoor Town FC,0,0,,,
-61944698,2025-11-25 19:45,Darlington FC,Curzon Ashton FC,3,3,,,
-61944700,2025-11-25 19:45,King's Lynn Town,Buxton FC,3,2,,,
-61944702,2025-11-25 19:45,Marine FC,Kidderminster Harriers FC,2,0,,,
-61944704,2025-11-25 19:45,Merthyr Town,Leamington FC,4,1,,,
-61944706,2025-11-25 19:45,Peterborough Sports,Bedford Town Football Club,3,1,,,
-61944708,2025-11-25 19:45,Scarborough Athletic,Alfreton Town FC,0,0,,,
-61944710,2025-11-25 19:45,Southport FC,Radcliffe FC,2,0,,,
-61944712,2025-11-25 19:45,Worksop Town,South Shields,0,3,,,
-61944716,2025-11-29 15:00,Bedford Town Football Club,Darlington FC,3,4,,,
-61944718,2025-11-29 15:00,Buxton FC,Merthyr Town,1,2,,,
-61944720,2025-11-29 15:00,Curzon Ashton FC,AFC Fylde,1,3,,,
-61944724,2025-11-29 15:00,Kidderminster Harriers FC,Chorley FC,3,1,,,
-61944726,2025-11-29 15:00,Leamington FC,Worksop Town,1,2,,,
-61944728,2025-11-29 15:00,Macclesfield FC,Scarborough Athletic,1,1,,,
-61944730,2025-11-29 15:00,Oxford City,King's Lynn Town,0,1,,,
-61944732,2025-11-29 15:00,Radcliffe FC,AFC Telford United,2,2,,,
-61944736,2025-11-29 15:00,Spennymoor Town FC,Chester FC,0,2,,,
-65066044,2025-12-02 19:45,Radcliffe FC,Chester FC,1,3,,,
-61944738,2025-12-06 15:00,AFC Fylde,Merthyr Town,1,0,,,
-61944742,2025-12-06 15:00,Curzon Ashton FC,Alfreton Town FC,2,1,,,
-61944752,2025-12-06 15:00,Marine FC,Spennymoor Town FC,0,2,,,
-61944754,2025-12-06 15:00,Oxford City,Darlington FC,5,1,,,
-61944758,2025-12-06 15:00,South Shields,Kidderminster Harriers FC,1,2,,,
-61944760,2025-12-06 15:00,Worksop Town,Chorley FC,1,1,,,
-65066198,2025-12-09 19:45,Leamington FC,AFC Telford United,1,3,3.400,3.500,1.900
-66297688,2025-12-10 19:45,King's Lynn Town,Macclesfield FC,1,1,2.450,3.500,2.400
-66046516,2025-12-13 15:00,Spennymoor Town FC,Buxton FC,2,2,2.150,3.200,3.000
-65543160,2025-12-16 18:45,Bedford Town Football Club,Macclesfield FC,1,2,,,
-65066202,2025-12-16 19:45,Scarborough Athletic,Radcliffe FC,0,3,2.600,3.000,2.500
-66356716,2025-12-16 19:45,Alfreton Town FC,Southport FC,1,1,2.550,2.875,2.625
-61944764,2025-12-20 15:00,Bedford Town Football Club,Marine FC,1,1,2.500,3.300,2.450
-61944766,2025-12-20 15:00,Buxton FC,AFC Telford United,0,2,2.450,3.400,2.450
-61944768,2025-12-20 15:00,Chester FC,South Shields,1,3,2.200,3.500,2.700
-61944770,2025-12-20 15:00,Chorley FC,Hereford FC,4,2,2.000,3.300,3.200
-61944772,2025-12-20 15:00,Darlington FC,King's Lynn Town,1,1,2.050,3.500,2.900
-61944774,2025-12-20 15:00,Kidderminster Harriers FC,AFC Fylde,1,0,2.550,3.300,2.350
-61944776,2025-12-20 15:00,Merthyr Town,Curzon Ashton FC,2,1,2.050,3.800,2.700
-61944778,2025-12-20 15:00,Peterborough Sports,Scarborough Athletic,0,4,2.150,3.300,2.900
-61944780,2025-12-20 15:00,Radcliffe FC,Leamington FC,2,1,1.300,4.500,7.500
-61944782,2025-12-20 15:00,Southport FC,Worksop Town,1,1,2.100,3.200,3.000
-61944784,2025-12-20 15:00,Spennymoor Town FC,Oxford City,1,1,1.550,3.750,4.750
-61944786,2025-12-26 15:00,AFC Fylde,Chorley FC,1,0,1.700,3.750,3.800
-61944788,2025-12-26 15:00,AFC Telford United,Chester FC,3,1,2.200,3.300,2.750
-61944790,2025-12-26 15:00,Curzon Ashton FC,Radcliffe FC,0,3,2.550,3.800,2.200
-61944792,2025-12-26 15:00,Hereford FC,Kidderminster Harriers FC,0,1,2.625,3.500,2.250
-61944794,2025-12-26 15:00,King's Lynn Town,Peterborough Sports,2,2,1.833,3.400,3.700
-61944796,2025-12-26 15:00,Leamington FC,Bedford Town Football Club,2,2,2.750,3.300,2.200
-61944798,2025-12-26 15:00,Macclesfield FC,Buxton FC,0,2,1.727,3.700,3.750
-61944800,2025-12-26 15:00,Marine FC,Southport FC,4,2,2.050,3.100,3.200
-61944802,2025-12-26 15:00,Oxford City,Merthyr Town,1,3,2.550,3.400,2.300
-61944804,2025-12-26 15:00,Scarborough Athletic,Darlington FC,0,1,2.250,3.700,2.500
-61944806,2025-12-26 15:00,South Shields,Spennymoor Town FC,6,0,1.666,3.750,4.000
-61944808,2025-12-26 15:00,Worksop Town,Alfreton Town FC,1,0,1.900,3.500,3.400
-61944810,2025-12-30 19:45,Alfreton Town FC,Leamington FC,2,1,1.700,3.500,4.200
-61944812,2025-12-30 19:45,Bedford Town Football Club,King's Lynn Town,4,2,2.450,3.400,2.450
-61944814,2025-12-30 19:45,Buxton FC,Worksop Town,3,1,1.950,3.400,3.200
-61944816,2025-12-30 19:45,Chester FC,Macclesfield FC,2,0,2.100,3.400,2.900
-61944818,2025-12-30 19:45,Chorley FC,Marine FC,2,1,2.000,3.300,3.250
-61944820,2025-12-30 19:45,Darlington FC,South Shields,1,2,3.400,3.900,1.800
-61944822,2025-12-30 19:45,Kidderminster Harriers FC,AFC Telford United,3,0,1.850,3.400,3.600
-61944824,2025-12-30 19:45,Merthyr Town,Hereford FC,2,2,1.615,4.000,3.900
-61944826,2025-12-30 19:45,Peterborough Sports,Oxford City,0,0,2.100,3.250,3.100
-61944828,2025-12-30 19:45,Radcliffe FC,AFC Fylde,3,3,2.375,3.700,2.375
-61944830,2025-12-30 19:45,Southport FC,Curzon Ashton FC,2,4,2.050,3.300,3.000
-61944832,2025-12-30 19:45,Spennymoor Town FC,Scarborough Athletic,1,1,2.000,3.500,3.100
-61944836,2026-01-03 15:00,Bedford Town Football Club,AFC Fylde,0,2,4.500,4.000,1.533
-61944838,2026-01-03 15:00,Buxton FC,South Shields,1,1,3.300,3.600,1.900
-61944840,2026-01-03 15:00,Chester FC,Worksop Town,0,1,1.727,3.500,4.000
-61944846,2026-01-03 15:00,Kidderminster Harriers FC,Curzon Ashton FC,1,0,1.500,3.750,5.500
-61944848,2026-01-03 15:00,Merthyr Town,King's Lynn Town,1,0,2.150,3.700,2.700
-61944854,2026-01-03 15:00,Southport FC,Scarborough Athletic,1,1,2.500,3.000,2.600
-65860156,2026-01-06 19:45,Macclesfield FC,Radcliffe FC,2,1,2.100,3.600,2.750
-61944874,2026-01-10 15:00,Oxford City,Buxton FC,2,1,2.875,3.500,2.150
-61944876,2026-01-10 15:00,Scarborough Athletic,Chester FC,1,0,2.625,3.300,2.350
-61944880,2026-01-10 15:00,Worksop Town,Merthyr Town,3,5,2.300,3.700,2.450
-61944882,2026-01-17 15:00,AFC Fylde,Scarborough Athletic,2,1,1.420,4.200,5.750
-61944884,2026-01-17 15:00,Bedford Town Football Club,Southport FC,2,3,2.700,3.400,2.250
-61944886,2026-01-17 15:00,Buxton FC,Marine FC,4,0,2.100,3.300,2.900
-61944888,2026-01-17 15:00,Chester FC,Chorley FC,3,3,,,
-61944890,2026-01-17 15:00,Curzon Ashton FC,AFC Telford United,0,8,2.875,3.500,2.050
-61944892,2026-01-17 15:00,Darlington FC,Alfreton Town FC,3,1,1.850,3.600,3.400
-61944894,2026-01-17 15:00,Kidderminster Harriers FC,Worksop Town,2,2,1.400,4.000,6.500
-61944896,2026-01-17 15:00,King's Lynn Town,Hereford FC,0,0,2.100,3.500,2.800
-61944898,2026-01-17 15:00,Macclesfield FC,Oxford City,3,0,1.420,3.900,6.250
-61944900,2026-01-17 15:00,Merthyr Town,Peterborough Sports,2,0,1.615,4.333,3.800
-61944902,2026-01-17 15:00,South Shields,Leamington FC,3,0,1.200,6.000,10.000
-61944904,2026-01-17 15:00,Spennymoor Town FC,Radcliffe FC,2,3,2.400,3.500,2.400
-66672282,2026-01-20 19:45,Spennymoor Town FC,Chester FC,1,2,2.625,3.250,2.350
-66879068,2026-01-20 19:45,Marine FC,Radcliffe FC,3,0,3.000,3.400,2.100
-67496594,2026-01-20 19:45,South Shields,Southport FC,1,0,1.420,4.750,5.250
-61944906,2026-01-24 15:00,AFC Telford United,King's Lynn Town,2,1,1.850,3.500,3.600
-61944908,2026-01-24 15:00,Alfreton Town FC,Bedford Town Football Club,1,2,1.950,3.500,3.300
-61944910,2026-01-24 15:00,Chorley FC,Darlington FC,1,2,1.900,3.600,3.300
-61944914,2026-01-24 15:00,Leamington FC,Curzon Ashton FC,2,1,3.300,3.700,1.900
-61944916,2026-01-24 15:00,Marine FC,South Shields,2,2,4.200,3.700,1.666
-61944918,2026-01-24 15:00,Oxford City,AFC Fylde,1,0,5.250,4.000,1.500
-61944920,2026-01-24 15:00,Peterborough Sports,Chester FC,3,0,3.250,3.400,2.000
-61944922,2026-01-24 15:00,Radcliffe FC,Buxton FC,1,5,1.800,3.700,3.600
-61944924,2026-01-24 15:00,Scarborough Athletic,Kidderminster Harriers FC,0,2,4.200,3.600,1.700
-61944926,2026-01-24 15:00,Southport FC,Merthyr Town,1,0,2.500,3.500,2.400
-61944928,2026-01-24 15:00,Worksop Town,Macclesfield FC,2,4,2.700,3.500,2.250
-61944932,2026-01-27 19:45,Bedford Town Football Club,Kidderminster Harriers FC,0,0,4.200,3.400,1.700
-61944938,2026-01-27 19:45,Marine FC,Chester FC,2,1,2.450,3.100,2.625
-61944940,2026-01-27 19:45,Merthyr Town,AFC Telford United,1,4,2.450,3.800,2.250
-61944942,2026-01-27 19:45,Peterborough Sports,Macclesfield FC,4,3,3.300,3.500,1.900
-61944944,2026-01-27 19:45,Radcliffe FC,Scarborough Athletic,1,4,1.850,3.500,3.500
-61944952,2026-01-27 19:45,Worksop Town,Darlington FC,1,1,2.750,3.400,2.200
-61944958,2026-01-31 15:00,Buxton FC,Spennymoor Town FC,1,2,2.100,3.300,3.100
-61944960,2026-01-31 15:00,Chester FC,Radcliffe FC,1,3,2.250,3.400,2.800
-61944962,2026-01-31 15:00,Chorley FC,Peterborough Sports,0,1,1.650,3.900,4.200
-61944964,2026-01-31 15:00,Curzon Ashton FC,Hereford FC,2,1,2.550,3.600,2.300
-61944966,2026-01-31 15:00,Darlington FC,Merthyr Town,3,1,1.750,4.333,3.300
-61944972,2026-01-31 15:00,Macclesfield FC,Bedford Town Football Club,2,1,1.533,4.200,4.750
-61944974,2026-01-31 15:00,Oxford City,South Shields,1,3,4.750,4.200,1.533
-61944976,2026-01-31 15:00,Scarborough Athletic,Worksop Town,0,0,2.050,3.400,3.200
-67870156,2026-01-31 15:00,King's Lynn Town,Alfreton Town FC,0,2,1.900,3.200,3.900
-66849316,2026-02-03 19:45,Macclesfield FC,Kidderminster Harriers FC,5,1,2.800,3.200,2.300
-67496656,2026-02-03 19:45,AFC Fylde,Peterborough Sports,5,2,1.450,4.200,5.500
-67496838,2026-02-03 19:45,Radcliffe FC,Oxford City,1,0,1.600,3.800,4.750
-67503236,2026-02-03 19:45,Chorley FC,Leamington FC,1,1,1.333,4.500,7.500
-67610162,2026-02-03 19:45,Spennymoor Town FC,AFC Telford United,0,2,2.600,3.600,2.300
-68041912,2026-02-03 19:45,Curzon Ashton FC,Bedford Town Football Club,2,2,2.100,3.700,2.800
-68042040,2026-02-03 19:45,King's Lynn Town,Southport FC,2,0,2.200,3.000,3.100
-61944980,2026-02-07 15:00,Bedford Town Football Club,Chester FC,1,2,3.500,3.400,1.850
-61944984,2026-02-07 15:00,Leamington FC,Oxford City,0,0,3.300,3.200,2.000
-61944986,2026-02-07 15:00,Marine FC,Scarborough Athletic,1,1,2.400,3.100,2.625
-61944988,2026-02-07 15:00,Merthyr Town,Chorley FC,2,3,2.550,3.700,2.300
-61944990,2026-02-07 15:00,Peterborough Sports,Curzon Ashton FC,1,1,2.100,3.500,2.750
-61944992,2026-02-07 15:00,Radcliffe FC,King's Lynn Town,0,1,2.000,3.250,3.200
-61944996,2026-02-07 15:00,Southport FC,Darlington FC,2,2,2.400,3.400,2.500
-61945000,2026-02-07 15:00,Worksop Town,AFC Telford United,3,1,3.750,3.600,1.750
-61945002,2026-02-10 19:45,AFC Fylde,Spennymoor Town FC,5,0,1.500,4.100,5.250
-61945004,2026-02-10 19:45,AFC Telford United,Hereford FC,3,0,1.700,3.750,4.000
-61945006,2026-02-10 19:45,Buxton FC,Peterborough Sports,0,0,1.727,3.750,3.900
-61945008,2026-02-10 19:45,Chester FC,Alfreton Town FC,2,2,1.900,3.400,3.600
-61945010,2026-02-10 19:45,Chorley FC,Southport FC,4,2,2.100,3.400,3.100
-61945012,2026-02-10 19:45,Curzon Ashton FC,Marine FC,4,1,2.450,3.250,2.600
-61945016,2026-02-10 19:45,Kidderminster Harriers FC,Merthyr Town,0,0,1.500,4.000,5.250
-61945018,2026-02-10 19:45,King's Lynn Town,Worksop Town,0,1,2.100,3.100,3.250
-61945020,2026-02-10 19:45,Macclesfield FC,Leamington FC,3,1,1.380,4.500,6.250
-61945024,2026-02-10 19:45,Scarborough Athletic,South Shields,2,2,3.700,4.000,1.727
-61945026,2026-02-14 15:00,AFC Fylde,Alfreton Town FC,3,0,1.363,4.333,7.000
-61945030,2026-02-14 15:00,Chester FC,Buxton FC,1,0,2.350,3.500,2.600
-61945032,2026-02-14 15:00,Chorley FC,Radcliffe FC,0,1,2.050,3.800,2.875
-61945038,2026-02-14 15:00,Marine FC,Leamington FC,5,0,1.666,3.500,4.750
-61945040,2026-02-14 15:00,Merthyr Town,Bedford Town Football Club,7,1,1.833,3.900,3.300
-61945042,2026-02-14 15:00,Peterborough Sports,Spennymoor Town FC,1,3,2.300,3.300,2.700
-61945044,2026-02-14 15:00,Scarborough Athletic,Curzon Ashton FC,1,0,1.850,3.400,3.700
-61945046,2026-02-14 15:00,Southport FC,Hereford FC,5,1,2.100,3.300,3.000
-61945048,2026-02-14 15:00,Worksop Town,Oxford City,1,2,1.909,3.400,3.500
-67048722,2026-02-17 19:45,Hereford FC,Darlington FC,1,0,2.550,3.500,2.250
-68006366,2026-02-17 19:45,Leamington FC,Spennymoor Town FC,0,2,3.250,3.250,2.050
-68352642,2026-02-17 19:45,Southport FC,Buxton FC,0,0,2.400,3.500,2.450
-68416288,2026-02-17 19:45,AFC Telford United,Chorley FC,2,2,1.800,3.700,3.500
-61945050,2026-02-21 15:00,Alfreton Town FC,Merthyr Town,3,2,2.550,3.400,2.375
-61945052,2026-02-21 15:00,Bedford Town Football Club,Chorley FC,2,0,3.500,3.600,1.833
-61945054,2026-02-21 15:00,Buxton FC,AFC Fylde,0,3,3.700,3.800,1.727
-61945056,2026-02-21 15:00,Curzon Ashton FC,Worksop Town,3,1,2.450,3.500,2.450
-61945058,2026-02-21 15:00,Hereford FC,Scarborough Athletic,1,2,2.200,3.300,2.750
-61945060,2026-02-21 15:00,Kidderminster Harriers FC,Southport FC,1,1,1.600,3.400,5.000
-61945062,2026-02-21 15:00,Leamington FC,Chester FC,0,2,4.200,3.400,1.700
-61945064,2026-02-21 15:00,Macclesfield FC,King's Lynn Town,4,0,1.909,3.100,3.700
-61945066,2026-02-21 15:00,Oxford City,Marine FC,0,2,2.750,3.200,2.300
-61945068,2026-02-21 15:00,Radcliffe FC,Peterborough Sports,2,1,1.615,3.600,4.500
-61945070,2026-02-21 15:00,South Shields,AFC Telford United,2,2,1.750,3.600,3.800
-61945072,2026-02-21 15:00,Spennymoor Town FC,Darlington FC,0,4,2.750,3.250,2.250
-61945074,2026-02-24 19:45,Alfreton Town FC,Scarborough Athletic,2,1,2.500,3.200,2.500
-61945076,2026-02-24 19:45,Bedford Town Football Club,Peterborough Sports,4,1,2.400,3.300,2.550
-61945078,2026-02-24 19:45,Buxton FC,King's Lynn Town,1,2,1.950,3.300,3.300
-61945080,2026-02-24 19:45,Curzon Ashton FC,Darlington FC,1,2,3.000,3.800,1.950
-61945082,2026-02-24 19:45,Hereford FC,Chester FC,5,2,2.500,3.400,2.400
-61945084,2026-02-24 19:45,Kidderminster Harriers FC,Marine FC,4,0,1.615,3.300,5.250
-61945086,2026-02-24 19:45,Leamington FC,Merthyr Town,1,2,4.000,3.500,1.700
-61945088,2026-02-24 19:45,Macclesfield FC,AFC Fylde,1,4,2.600,3.600,2.200
-61945090,2026-02-24 19:45,Oxford City,AFC Telford United,0,0,3.600,3.400,1.833
-61945092,2026-02-24 19:45,Radcliffe FC,Southport FC,1,2,1.950,3.250,3.400
-61945094,2026-02-24 19:45,South Shields,Worksop Town,3,1,1.333,4.500,7.000
-61945096,2026-02-24 19:45,Spennymoor Town FC,Chorley FC,1,0,2.875,3.100,2.250
-61945098,2026-02-28 15:00,AFC Fylde,Curzon Ashton FC,5,1,1.250,5.500,9.500
-61945100,2026-02-28 15:00,AFC Telford United,Radcliffe FC,2,0,1.850,3.800,3.400
-61945102,2026-02-28 15:00,Chester FC,Spennymoor Town FC,2,1,1.600,3.700,5.250
-61945106,2026-02-28 15:00,Darlington FC,Bedford Town Football Club,2,0,1.480,4.333,5.000
-61945108,2026-02-28 15:00,King's Lynn Town,Oxford City,1,2,1.850,3.200,4.100
-61945112,2026-02-28 15:00,Merthyr Town,Buxton FC,1,3,2.100,4.000,2.750
-61945114,2026-02-28 15:00,Peterborough Sports,South Shields,0,3,5.750,4.500,1.450
-61945116,2026-02-28 15:00,Scarborough Athletic,Macclesfield FC,2,2,2.350,3.600,2.550
-61945120,2026-02-28 15:00,Worksop Town,Leamington FC,2,0,1.650,3.800,4.750
-61945122,2026-03-07 15:00,AFC Telford United,Alfreton Town FC,4,1,1.650,3.750,4.333
-61945124,2026-03-07 15:00,Buxton FC,Kidderminster Harriers FC,1,3,2.900,3.600,2.050
-61945126,2026-03-07 15:00,Chester FC,Darlington FC,2,1,2.100,3.500,2.875
-61945128,2026-03-07 15:00,King's Lynn Town,Marine FC,1,0,2.100,3.250,3.000
-61945130,2026-03-07 15:00,Leamington FC,AFC Fylde,1,1,8.500,5.250,1.285
-61945132,2026-03-07 15:00,Macclesfield FC,Chorley FC,1,2,1.909,3.400,3.400
-61945134,2026-03-07 15:00,Oxford City,Scarborough Athletic,0,2,2.600,3.500,2.300
-61945136,2026-03-07 15:00,Peterborough Sports,Southport FC,0,1,2.625,3.500,2.250
-61945138,2026-03-07 15:00,Radcliffe FC,Merthyr Town,1,3,1.833,4.200,3.000
-61945140,2026-03-07 15:00,South Shields,Curzon Ashton FC,3,0,1.250,5.500,9.000
-61945142,2026-03-07 15:00,Spennymoor Town FC,Bedford Town Football Club,0,0,2.050,3.500,2.900
-61945144,2026-03-07 15:00,Worksop Town,Hereford FC,2,3,2.450,3.500,2.375
-61945146,2026-03-10 19:45,AFC Fylde,AFC Telford United,2,1,1.615,3.800,4.200
-61945148,2026-03-10 19:45,Alfreton Town FC,Radcliffe FC,1,1,2.600,3.300,2.300
-61945150,2026-03-10 19:45,Bedford Town Football Club,Worksop Town,0,2,2.350,3.400,2.625
-61945152,2026-03-10 19:45,Chorley FC,South Shields,1,1,3.000,3.300,2.100
-61945154,2026-03-10 19:45,Curzon Ashton FC,Oxford City,2,2,2.050,3.400,3.000
-61945156,2026-03-10 19:45,Darlington FC,Buxton FC,0,2,2.050,3.500,2.800
-61945158,2026-03-10 19:45,Hereford FC,Leamington FC,4,1,1.400,4.100,6.250
-61945160,2026-03-10 19:45,Kidderminster Harriers FC,Peterborough Sports,4,0,1.363,4.200,7.500
-61945162,2026-03-10 19:45,Marine FC,Macclesfield FC,2,4,3.200,3.100,2.050
-61945164,2026-03-10 19:45,Merthyr Town,Chester FC,1,1,3.000,3.600,2.000
-61945166,2026-03-10 19:45,Scarborough Athletic,King's Lynn Town,1,1,2.100,3.100,3.200
-61945168,2026-03-10 19:45,Southport FC,Spennymoor Town FC,2,0,1.909,3.300,3.300
-61945170,2026-03-14 15:00,AFC Fylde,King's Lynn Town,4,1,1.333,4.500,7.000
-61945172,2026-03-14 15:00,Alfreton Town FC,Peterborough Sports,0,2,1.833,3.400,3.700
-61945174,2026-03-14 15:00,Bedford Town Football Club,Radcliffe FC,1,0,3.000,3.600,2.000
-61945176,2026-03-14 15:00,Chorley FC,Buxton FC,1,2,1.900,3.200,3.600
-61945178,2026-03-14 15:00,Curzon Ashton FC,Macclesfield FC,0,2,3.900,3.900,1.666
-61945180,2026-03-14 15:00,Darlington FC,Leamington FC,1,0,1.285,5.000,7.500
-61945182,2026-03-14 15:00,Hereford FC,South Shields,2,0,3.900,3.900,1.666
-61945184,2026-03-14 15:00,Kidderminster Harriers FC,Chester FC,1,1,1.833,3.300,3.700
-61945186,2026-03-14 15:00,Marine FC,Worksop Town,4,2,2.250,3.000,3.000
-61945188,2026-03-14 15:00,Merthyr Town,Spennymoor Town FC,2,2,1.909,3.900,3.000
-61945190,2026-03-14 15:00,Scarborough Athletic,AFC Telford United,1,1,2.500,3.400,2.450
-61945192,2026-03-14 15:00,Southport FC,Oxford City,1,3,1.666,3.600,4.200
-67771280,2026-03-17 19:45,Peterborough Sports,Marine FC,0,0,,,
-68006368,2026-03-17 19:45,AFC Telford United,Macclesfield FC,3,0,,,
-68352648,2026-03-17 19:45,Spennymoor Town FC,Curzon Ashton FC,4,1,,,
-68567682,2026-03-17 19:45,Chorley FC,Kidderminster Harriers FC,2,1,,,
-68719514,2026-03-17 19:45,Southport FC,Alfreton Town FC,2,1,,,
-68840790,2026-03-17 19:45,Hereford FC,AFC Fylde,0,4,,,
-68906668,2026-03-17 19:45,Leamington FC,Buxton FC,0,1,,,
-69020682,2026-03-17 19:45,Darlington FC,Radcliffe FC,3,0,,,
-69107500,2026-03-17 19:45,King's Lynn Town,South Shields,3,0,,,
-69584328,2026-03-19 19:45,Alfreton Town FC,Hereford FC,2,1,2.400,3.700,2.350
-61945194,2026-03-21 15:00,AFC Telford United,Marine FC,0,2,1.615,3.700,4.500
-61945196,2026-03-21 15:00,Buxton FC,Bedford Town Football Club,3,0,1.800,4.000,3.250
-61945198,2026-03-21 15:00,Chester FC,Southport FC,1,0,1.900,3.300,3.600
-61945200,2026-03-21 15:00,King's Lynn Town,Curzon Ashton FC,0,0,1.571,3.700,5.000
-61945202,2026-03-21 15:00,Leamington FC,Scarborough Athletic,1,2,4.750,3.300,1.650
-61945204,2026-03-21 15:00,Macclesfield FC,Hereford FC,0,0,1.420,4.200,5.750
-61945206,2026-03-21 15:00,Oxford City,Chorley FC,0,0,2.900,3.200,2.200
-61945208,2026-03-21 15:00,Peterborough Sports,Darlington FC,0,1,3.700,3.750,1.727
-61945210,2026-03-21 15:00,Radcliffe FC,Kidderminster Harriers FC,1,1,3.900,3.600,1.727
-61945212,2026-03-21 15:00,South Shields,Merthyr Town,3,0,1.270,5.500,7.500
-61945214,2026-03-21 15:00,Spennymoor Town FC,Alfreton Town FC,1,1,1.727,3.600,3.800
-61945216,2026-03-21 15:00,Worksop Town,AFC Fylde,1,0,4.750,3.900,1.533
-67870232,2026-03-24 19:45,AFC Fylde,Marine FC,0,0,1.285,4.500,8.500
-68156334,2026-03-24 19:45,Alfreton Town FC,Macclesfield FC,0,2,4.500,3.400,1.666
-68352650,2026-03-24 19:45,Hereford FC,Spennymoor Town FC,1,2,2.375,3.400,2.500
-68719520,2026-03-24 19:45,Leamington FC,King's Lynn Town,2,5,4.500,3.400,1.666
-69048374,2026-03-24 19:45,Darlington FC,Kidderminster Harriers FC,0,2,2.550,3.250,2.450
-61945218,2026-03-28 15:00,AFC Fylde,Darlington FC,4,1,1.450,4.100,5.500
-61945220,2026-03-28 15:00,AFC Telford United,Bedford Town Football Club,2,2,1.270,5.000,7.000
-61945222,2026-03-28 15:00,Curzon Ashton FC,Chester FC,0,1,3.700,3.700,1.750
-61945224,2026-03-28 15:00,Hereford FC,Buxton FC,0,1,3.500,3.700,1.800
-61945226,2026-03-28 15:00,King's Lynn Town,Spennymoor Town FC,0,1,1.850,3.400,3.400
-61945228,2026-03-28 15:00,Leamington FC,Peterborough Sports,4,2,3.300,3.250,1.950
-61945234,2026-03-28 15:00,Oxford City,Kidderminster Harriers FC,3,2,3.900,3.100,1.833
-61945236,2026-03-28 15:00,Scarborough Athletic,Chorley FC,0,0,2.150,3.100,3.000
-61945238,2026-03-28 15:00,South Shields,Alfreton Town FC,3,0,1.166,6.250,13.000
-61945240,2026-03-28 15:00,Worksop Town,Radcliffe FC,2,0,2.150,3.500,2.700
-68042046,2026-03-31 18:45,Hereford FC,Macclesfield FC,0,2,3.700,3.500,1.750
-68674722,2026-03-31 18:45,Alfreton Town FC,Chorley FC,1,0,3.000,3.200,2.100
-68840792,2026-03-31 18:45,Spennymoor Town FC,Kidderminster Harriers FC,3,1,3.500,3.300,1.909
-70231168,2026-03-31 18:45,AFC Fylde,Marine FC,2,0,1.333,4.500,7.500
-61945242,2026-04-03 14:00,Alfreton Town FC,Worksop Town,1,1,3.000,3.250,2.150
-61945244,2026-04-03 14:00,Bedford Town Football Club,Leamington FC,3,1,1.550,4.100,4.500
-61945246,2026-04-03 14:00,Buxton FC,Macclesfield FC,2,4,2.625,3.500,2.250
-61945248,2026-04-03 14:00,Chester FC,AFC Telford United,2,1,2.250,3.500,2.625
-61945250,2026-04-03 14:00,Chorley FC,AFC Fylde,2,0,3.750,3.600,1.750
-61945252,2026-04-03 14:00,Darlington FC,Scarborough Athletic,1,2,2.000,3.400,3.100
-61945254,2026-04-03 14:00,Kidderminster Harriers FC,Hereford FC,2,1,1.222,5.500,8.500
-61945256,2026-04-03 14:00,Merthyr Town,Oxford City,1,1,2.200,3.600,2.625
-61945258,2026-04-03 14:00,Radcliffe FC,Curzon Ashton FC,3,3,1.650,3.900,4.000
-61945260,2026-04-03 14:00,Southport FC,Marine FC,2,1,1.950,3.300,3.400
-61945262,2026-04-03 14:00,Spennymoor Town FC,South Shields,1,1,4.100,3.900,1.615
-61945264,2026-04-03 14:00,Peterborough Sports,King's Lynn Town,2,2,2.875,3.400,2.150
-61945266,2026-04-06 14:00,Marine FC,Chorley FC,2,1,3.200,3.000,2.100
-61945268,2026-04-06 14:00,Worksop Town,Buxton FC,1,2,2.700,3.100,2.350
-61945270,2026-04-06 14:00,South Shields,Darlington FC,0,1,1.420,4.333,5.500
-61945272,2026-04-06 14:00,Scarborough Athletic,Spennymoor Town FC,1,0,2.050,3.300,3.000
-61945274,2026-04-06 14:00,Oxford City,Peterborough Sports,2,0,1.800,3.400,3.700
-61945276,2026-04-06 14:00,Macclesfield FC,Chester FC,0,2,1.850,3.250,3.800
-61945278,2026-04-06 14:00,Leamington FC,Alfreton Town FC,1,2,2.750,3.100,2.300
-61945280,2026-04-06 14:00,King's Lynn Town,Bedford Town Football Club,0,1,1.666,3.500,4.333
-61945282,2026-04-06 14:00,Hereford FC,Merthyr Town,3,0,2.875,3.800,1.950
-61945284,2026-04-06 14:00,Curzon Ashton FC,Southport FC,1,3,3.300,3.500,1.950
-61945286,2026-04-06 14:00,AFC Telford United,Kidderminster Harriers FC,1,2,2.250,3.300,2.625
-61945288,2026-04-06 14:00,AFC Fylde,Radcliffe FC,4,3,1.300,5.000,7.500
-68840794,2026-04-08 18:45,Marine FC,Hereford FC,0,1,1.700,3.600,4.100
-61945290,2026-04-11 14:00,Southport FC,Leamington FC,1,2,1.444,3.800,6.000
-61945292,2026-04-11 14:00,Spennymoor Town FC,Worksop Town,0,0,2.150,3.250,2.900
-61945294,2026-04-11 14:00,Radcliffe FC,South Shields,2,5,4.000,3.800,1.666
-61945296,2026-04-11 14:00,Peterborough Sports,AFC Telford United,2,3,4.200,3.900,1.615
-61945298,2026-04-11 14:00,Merthyr Town,Macclesfield FC,1,2,3.750,3.600,1.727
-61945300,2026-04-11 14:00,Kidderminster Harriers FC,King's Lynn Town,4,1,1.666,3.250,4.750
-61945302,2026-04-11 14:00,Chorley FC,Curzon Ashton FC,0,1,1.615,3.750,4.333
-61945304,2026-04-11 14:00,Chester FC,AFC Fylde,1,0,3.200,3.300,1.950
-61945306,2026-04-11 14:00,Buxton FC,Scarborough Athletic,2,0,1.950,3.300,3.400
-61945308,2026-04-11 14:00,Bedford Town Football Club,Hereford FC,2,2,2.100,3.400,2.800
-61945310,2026-04-11 14:00,Alfreton Town FC,Oxford City,0,0,2.600,3.100,2.500
-61945312,2026-04-11 14:00,Darlington FC,Marine FC,2,3,1.750,3.600,3.750
-68352652,2026-04-14 18:45,Hereford FC,Oxford City,1,2,2.150,3.400,2.750
-68840800,2026-04-14 18:45,Alfreton Town FC,Buxton FC,2,2,4.100,3.600,1.700
-69227452,2026-04-14 18:45,South Shields,Macclesfield FC,4,1,1.571,4.000,4.500
-69755424,2026-04-14 18:45,Marine FC,Merthyr Town,1,3,2.000,3.600,2.900
-70472886,2026-04-14 18:45,Radcliffe FC,Kidderminster Harriers FC,1,3,4.500,4.000,1.550
-61945314,2026-04-18 14:00,Scarborough Athletic,Merthyr Town,2,1,1.833,3.400,3.700
-61945316,2026-04-18 14:00,Worksop Town,Peterborough Sports,8,0,1.650,3.800,4.100
-61945318,2026-04-18 14:00,South Shields,Bedford Town Football Club,1,1,1.166,7.000,13.000
-61945320,2026-04-18 14:00,Oxford City,Chester FC,1,2,3.000,3.300,2.050
-61945322,2026-04-18 14:00,Marine FC,Alfreton Town FC,2,3,1.950,3.200,3.400
-61945324,2026-04-18 14:00,Macclesfield FC,Spennymoor Town FC,0,2,1.650,3.500,4.500
-61945326,2026-04-18 14:00,King's Lynn Town,Chorley FC,1,1,2.050,3.250,3.200
-61945328,2026-04-18 14:00,Hereford FC,Radcliffe FC,3,1,2.050,3.750,2.875
-61945330,2026-04-18 14:00,Curzon Ashton FC,Buxton FC,0,4,3.300,3.800,1.833
-61945332,2026-04-18 14:00,AFC Telford United,Darlington FC,1,1,1.750,3.900,3.500
-61945334,2026-04-18 14:00,AFC Fylde,Southport FC,4,0,1.222,5.750,8.500
-61945336,2026-04-18 14:00,Leamington FC,Kidderminster Harriers FC,2,3,7.000,5.000,1.300
-68840802,2026-04-21 18:45,Hereford FC,Marine FC,2,1,1.444,4.500,5.250
-69852122,2026-04-21 18:45,Macclesfield FC,Southport FC,2,1,1.600,3.900,4.333
-61945338,2026-04-25 11:30,Spennymoor Town FC,Marine FC,1,1,1.850,3.900,3.200
-61945340,2026-04-25 11:30,Southport FC,AFC Telford United,2,0,3.100,4.000,1.850
-61945342,2026-04-25 11:30,Radcliffe FC,Macclesfield FC,1,0,1.900,3.800,3.200
-61945346,2026-04-25 11:30,Merthyr Town,AFC Fylde,2,4,4.750,4.500,1.480
-61945348,2026-04-25 11:30,Kidderminster Harriers FC,South Shields,1,0,2.500,3.900,2.200
-61945350,2026-04-25 11:30,Darlington FC,Oxford City,1,3,1.666,3.750,4.000
-61945352,2026-04-25 11:30,Chorley FC,Worksop Town,2,1,2.050,3.300,3.000
-61945354,2026-04-25 11:30,Chester FC,King's Lynn Town,0,0,1.750,3.600,3.800
-61945356,2026-04-25 11:30,Buxton FC,Leamington FC,4,1,1.181,6.500,10.000
-61945358,2026-04-25 11:30,Bedford Town Football Club,Scarborough Athletic,1,1,3.600,2.900,2.050
-61945360,2026-04-25 11:30,Alfreton Town FC,Curzon Ashton FC,3,3,2.450,3.500,2.450
-66356718,2026-04-25 11:30,Hereford FC,Peterborough Sports,2,2,1.285,5.750,7.000
-71073866,2026-04-28 18:45,Buxton FC,Scarborough Athletic,4,2,2.000,3.200,3.400
-71073868,2026-04-29 18:45,Macclesfield FC,Chester FC,2,1,2.250,3.000,3.000
-71193112,2026-05-02 11:30,Kidderminster Harriers FC,Macclesfield FC,3,1,1.700,3.600,4.000
-71173610,2026-05-02 15:00,South Shields,Buxton FC,1,0,1.550,4.333,4.200
-71252244,2026-05-09 11:30,South Shields,Kidderminster Harriers FC,0,2,1.833,3.600,3.400
-72759082,2026-08-08 14:00,AFC Telford United,Brackley Town FC,1,2,2.150,3.400,2.800
-72759084,2026-08-08 14:00,Buxton FC,Hereford FC,2,1,1.700,3.750,3.900
-72759086,2026-08-08 14:00,Chorley FC,Chester FC,1,2,2.625,3.400,2.350
-72759088,2026-08-08 14:00,Darlington FC,Worksop Town,1,2,2.100,3.600,2.800
-72759090,2026-08-08 14:00,Hebburn Town,Southport FC,3,1,2.700,3.600,2.150
-72759092,2026-08-08 14:00,King's Lynn Town,Harborough Town FC,1,1,2.150,3.300,2.900
-72759094,2026-08-08 14:00,Marine FC,Macclesfield FC,0,1,3.100,3.600,1.950
-72759096,2026-08-08 14:00,Merthyr Town,Hednesford Town,2,0,2.375,3.500,2.450
-72759098,2026-08-08 14:00,Morecambe FC,Spennymoor Town FC,1,1,1.800,3.600,3.600
-72759100,2026-08-08 14:00,Oxford City,Bedford Town Football Club,1,0,1.950,3.500,3.250
-72759102,2026-08-08 14:00,Radcliffe FC,Spalding United,0,2,2.350,3.800,2.350
-72759104,2026-08-08 14:00,Scarborough Athletic,South Shields,0,1,4.200,3.500,1.700
-72759106,2026-08-15 14:00,Bedford Town Football Club,Darlington FC,2,3,2.500,3.400,2.400
-72759108,2026-08-15 14:00,Brackley Town FC,Hebburn Town,1,1,1.650,3.500,4.500
-72759110,2026-08-15 14:00,Chester FC,King's Lynn Town,2,0,1.666,3.700,4.100
-72759112,2026-08-15 14:00,Harborough Town FC,Morecambe FC,1,0,2.350,3.500,2.500
-72759114,2026-08-15 14:00,Hednesford Town,Scarborough Athletic,3,4,2.200,3.400,2.800
-72759116,2026-08-15 14:00,Hereford FC,Marine FC,1,0,2.050,3.500,3.000
-72759118,2026-08-15 14:00,Macclesfield FC,Radcliffe FC,2,1,1.600,3.900,4.500
-72759120,2026-08-15 14:00,South Shields,Chorley FC,2,1,1.480,4.100,5.250
-72759122,2026-08-15 14:00,Southport FC,Buxton FC,1,1,2.700,3.400,2.250
-72759124,2026-08-15 14:00,Spalding United,Oxford City,0,1,2.000,3.300,3.200
-72759126,2026-08-15 14:00,Spennymoor Town FC,Merthyr Town,2,1,1.950,3.500,3.100
-72759128,2026-08-15 14:00,Worksop Town,AFC Telford United,2,1,2.450,3.250,2.450
-72759130,2026-08-18 18:45,Bedford Town Football Club,Buxton FC,2,1,4.000,3.750,1.666
-72759132,2026-08-18 18:45,Brackley Town FC,King's Lynn Town,0,2,2.050,3.300,3.100
-72759134,2026-08-18 18:45,Darlington FC,Chester FC,0,1,3.100,3.600,1.950
-72759136,2026-08-18 18:45,Hebburn Town,Worksop Town,1,0,2.800,3.300,2.200
-72759138,2026-08-18 18:45,Hednesford Town,Southport FC,2,2,2.150,3.500,2.700
-72759140,2026-08-18 18:45,Hereford FC,Radcliffe FC,3,0,1.833,3.600,3.500
-72759142,2026-08-18 18:45,Marine FC,Chorley FC,0,2,2.800,3.300,2.250
-72759144,2026-08-18 18:45,Merthyr Town,AFC Telford United,2,2,2.300,3.500,2.550
-72759146,2026-08-18 18:45,Morecambe FC,South Shields,0,1,3.500,4.000,1.750
-72759148,2026-08-18 18:45,Oxford City,Harborough Town FC,1,1,2.250,3.300,2.700
-72759150,2026-08-18 18:45,Scarborough Athletic,Spennymoor Town FC,3,0,2.000,3.400,3.200
-72759152,2026-08-18 18:45,Spalding United,Macclesfield FC,0,0,2.800,3.400,2.200
-72759154,2026-08-22 14:00,AFC Telford United,Hednesford Town,1,1,2.150,3.400,2.800
-72759156,2026-08-22 14:00,Buxton FC,Hebburn Town,1,2,1.533,3.600,5.250
-72759158,2026-08-22 14:00,Chester FC,Spalding United,1,0,1.550,4.100,4.500
-72759160,2026-08-22 14:00,Chorley FC,Scarborough Athletic,2,1,2.450,3.400,2.450
-72759162,2026-08-22 14:00,Harborough Town FC,Darlington FC,4,2,1.700,3.800,3.750
-72759164,2026-08-22 14:00,King's Lynn Town,Marine FC,1,4,1.650,3.800,4.100
-72759166,2026-08-22 14:00,Macclesfield FC,Brackley Town FC,2,1,1.650,3.750,4.200
-72759168,2026-08-22 14:00,Radcliffe FC,Morecambe FC,2,1,3.200,3.600,1.950
-72759170,2026-08-22 14:00,South Shields,Merthyr Town,1,1,1.400,4.500,5.250
-72759172,2026-08-22 14:00,Southport FC,Bedford Town Football Club,4,1,2.100,3.400,2.900
-72759174,2026-08-22 14:00,Spennymoor Town FC,Oxford City,1,4,2.400,3.200,2.600
-72759176,2026-08-22 14:00,Worksop Town,Hereford FC,0,3,2.200,3.250,2.875
-72759186,2026-08-28 18:45,Hednesford Town,Harborough Town FC,2,1,2.200,3.400,2.700
-72759194,2026-08-28 18:45,Morecambe FC,AFC Telford United,2,1,2.050,3.500,2.900
-72759196,2026-08-28 18:45,Oxford City,Buxton FC,2,3,2.400,3.300,2.500
-72759178,2026-08-29 14:00,Bedford Town Football Club,Spennymoor Town FC,3,1,2.150,3.400,2.875
-72759180,2026-08-29 14:00,Brackley Town FC,South Shields,0,0,3.500,3.700,1.833
-72759182,2026-08-29 14:00,Darlington FC,Macclesfield FC,1,2,3.300,3.700,1.850
-72759184,2026-08-29 14:00,Hebburn Town,King's Lynn Town,4,2,2.450,3.300,2.450
-72759188,2026-08-29 14:00,Hereford FC,Chester FC,1,1,3.100,3.300,2.050
-72759190,2026-08-29 14:00,Marine FC,Radcliffe FC,2,0,2.050,3.500,3.000
-72759192,2026-08-29 14:00,Merthyr Town,Chorley FC,1,1,2.000,3.500,2.900
-72759198,2026-08-29 14:00,Scarborough Athletic,Southport FC,5,1,1.700,3.700,4.100
-72759200,2026-08-29 14:00,Spalding United,Worksop Town,3,1,2.200,3.500,2.700
-72759202,2026-08-31 14:00,AFC Telford United,Bedford Town Football Club,0,1,1.833,3.600,3.300
-72759204,2026-08-31 14:00,Buxton FC,Merthyr Town,2,1,1.600,4.000,4.000
-72759206,2026-08-31 14:00,Chester FC,Morecambe FC,0,1,1.666,3.800,3.900
-72759208,2026-08-31 14:00,Chorley FC,Brackley Town FC,2,2,1.950,3.200,3.400
-72759210,2026-08-31 14:00,Harborough Town FC,Marine FC,2,1,1.600,4.000,4.200
-72759212,2026-08-31 14:00,King's Lynn Town,Scarborough Athletic,3,1,2.550,3.200,2.450
-72759214,2026-08-31 14:00,Macclesfield FC,Hebburn Town,3,0,1.571,3.700,4.750
-72759216,2026-08-31 14:00,Radcliffe FC,Darlington FC,0,1,2.500,3.600,2.300
-72759218,2026-08-31 14:00,South Shields,Spalding United,1,1,1.600,4.000,4.100
-72759220,2026-08-31 14:00,Southport FC,Hereford FC,0,1,2.450,3.400,2.375
-72759222,2026-08-31 14:00,Spennymoor Town FC,Hednesford Town,1,1,2.875,3.400,2.100
-72759224,2026-08-31 14:00,Worksop Town,Oxford City,0,1,2.500,3.200,2.500
-72759226,2026-09-05 14:00,Bedford Town Football Club,Radcliffe FC,1,0,1.833,3.600,3.500
-72759228,2026-09-05 14:00,Brackley Town FC,Harborough Town FC,1,0,2.750,3.500,2.150
-72759230,2026-09-05 14:00,Darlington FC,King's Lynn Town,0,2,2.200,3.500,2.700
-72759232,2026-09-05 14:00,Hebburn Town,Chester FC,1,1,3.500,3.500,1.833
-72759234,2026-09-05 14:00,Hednesford Town,South Shields,0,1,2.600,3.600,2.200
-72759236,2026-09-05 14:00,Hereford FC,Spennymoor Town FC,2,1,1.750,3.600,3.750
-72759238,2026-09-05 14:00,Marine FC,Worksop Town,0,1,2.450,3.400,2.500
-72759240,2026-09-05 14:00,Merthyr Town,Macclesfield FC,2,1,2.900,3.700,2.000
-72759242,2026-09-05 14:00,Morecambe FC,Buxton FC,4,0,2.500,3.500,2.350
-72759244,2026-09-05 14:00,Oxford City,Chorley FC,4,0,1.800,3.600,3.700
-72759246,2026-09-05 14:00,Scarborough Athletic,AFC Telford United,0,1,1.850,3.600,3.400
-72759248,2026-09-05 14:00,Spalding United,Southport FC,2,0,1.750,3.700,3.700
-72759250,2026-09-08 18:45,AFC Telford United,Oxford City,1,0,2.375,3.500,2.400
-72759252,2026-09-08 18:45,Buxton FC,Brackley Town FC,5,0,1.571,3.800,4.333
-72759254,2026-09-08 18:45,Chester FC,Merthyr Town,0,1,1.600,3.750,4.500
-72759256,2026-09-08 18:45,Chorley FC,Darlington FC,5,2,2.200,3.500,2.700
-72759258,2026-09-08 18:45,Harborough Town FC,Hereford FC,0,3,1.850,3.600,3.250
-72759260,2026-09-08 18:45,King's Lynn Town,Hednesford Town,2,3,2.100,3.400,2.800
-72759262,2026-09-08 18:45,Macclesfield FC,Scarborough Athletic,0,0,1.650,3.800,4.100
-72759264,2026-09-08 18:45,Radcliffe FC,Hebburn Town,5,1,2.700,3.500,2.150
-72759266,2026-09-08 18:45,South Shields,Marine FC,2,1,1.533,4.100,4.750
-72759268,2026-09-08 18:45,Southport FC,Morecambe FC,2,1,3.200,3.300,1.950
-72759270,2026-09-08 18:45,Spennymoor Town FC,Spalding United,1,3,2.875,3.400,2.150
-72759272,2026-09-08 18:45,Worksop Town,Bedford Town Football Club,1,2,2.000,3.500,3.000
-72759274,2026-09-12 14:00,Buxton FC,Chester FC,3,1,2.375,3.400,2.500
-72759276,2026-09-12 14:00,Harborough Town FC,AFC Telford United,0,0,1.850,3.700,3.300
-72759278,2026-09-12 14:00,Hebburn Town,Hednesford Town,2,1,2.300,3.400,2.550
-72759280,2026-09-12 14:00,Hereford FC,South Shields,6,0,3.400,3.400,1.900
-72759282,2026-09-12 14:00,King's Lynn Town,Chorley FC,2,0,1.800,3.500,3.500
-72759284,2026-09-12 14:00,Marine FC,Darlington FC,2,1,2.100,3.500,2.875
-72759286,2026-09-12 14:00,Morecambe FC,Brackley Town FC,3,0,1.571,3.800,4.500
-72759288,2026-09-12 14:00,Radcliffe FC,Oxford City,0,3,3.000,3.600,2.000
-72759290,2026-09-12 14:00,Scarborough Athletic,Merthyr Town,0,0,2.000,3.600,3.000
-72759292,2026-09-12 14:00,Spalding United,Bedford Town Football Club,2,1,1.850,3.500,3.500
-72759294,2026-09-12 14:00,Spennymoor Town FC,Macclesfield FC,1,1,4.100,3.700,1.666
-72759296,2026-09-12 14:00,Worksop Town,Southport FC,2,0,1.850,3.500,3.300
-72759298,2026-09-26 14:00,AFC Telford United,King's Lynn Town,0,5,2.100,3.400,2.900
-72759300,2026-09-26 14:00,Bedford Town Football Club,Hereford FC,1,1,2.800,3.700,2.050
-72759302,2026-09-26 14:00,Brackley Town FC,Scarborough Athletic,1,1,2.600,3.400,2.300
-72759304,2026-09-26 14:00,Chester FC,Worksop Town,4,1,1.615,3.600,4.500
-72759306,2026-09-26 14:00,Chorley FC,Spalding United,2,1,2.625,3.500,2.250
-72759308,2026-09-26 14:00,Darlington FC,Hebburn Town,1,1,2.200,3.600,2.700
-72759310,2026-09-26 14:00,Hednesford Town,Radcliffe FC,4,1,1.600,3.800,4.500
-72759312,2026-09-26 14:00,Macclesfield FC,Harborough Town FC,1,0,1.950,3.500,3.200
-72759314,2026-09-26 14:00,Merthyr Town,Marine FC,1,2,1.833,3.600,3.500
-72759316,2026-09-26 14:00,Oxford City,Morecambe FC,1,1,2.100,3.400,2.875
-72759318,2026-09-26 14:00,South Shields,Buxton FC,4,0,1.850,3.800,3.200
-72759320,2026-09-26 14:00,Southport FC,Spennymoor Town FC,2,2,2.200,3.400,2.700
-74317764,2026-09-29 18:45,Brackley Town FC,South Shields,3,2,3.600,3.600,1.800
-72759322,2026-10-10 14:00,Brackley Town FC,Spennymoor Town FC,2,1,2.050,3.500,3.000
-72759324,2026-10-10 14:00,Chester FC,Bedford Town Football Club,1,0,1.380,4.333,6.000
-72759326,2026-10-10 14:00,Chorley FC,AFC Telford United,2,1,2.375,3.200,2.625
-72759328,2026-10-10 14:00,Darlington FC,Merthyr Town,1,1,2.400,3.600,2.350
-72759330,2026-10-10 14:00,Harborough Town FC,Southport FC,1,0,1.550,4.000,4.500
-72759332,2026-10-10 14:00,Hebburn Town,Oxford City,0,3,2.450,3.400,2.400
-72759334,2026-10-10 14:00,Hereford FC,Hednesford Town,0,1,1.909,3.400,3.300
-72759336,2026-10-10 14:00,King's Lynn Town,Buxton FC,1,0,2.625,3.700,2.200
-72759338,2026-10-10 14:00,Macclesfield FC,South Shields,4,3,2.000,3.700,2.900
-72759340,2026-10-10 14:00,Marine FC,Spalding United,1,0,2.050,3.400,3.000
-72759342,2026-10-10 14:00,Radcliffe FC,Scarborough Athletic,4,1,2.800,3.400,2.150
-72759344,2026-10-10 14:00,Worksop Town,Morecambe FC,2,1,2.600,3.400,2.300
-72759346,2026-10-17 14:00,AFC Telford United,Darlington FC,2,1,1.900,3.750,3.200
-72759350,2026-10-17 14:00,Buxton FC,Worksop Town,2,2,1.666,3.750,4.000
-72759352,2026-10-17 14:00,Hednesford Town,Brackley Town FC,3,2,1.750,3.600,3.700
-72759354,2026-10-17 14:00,Merthyr Town,King's Lynn Town,1,1,2.250,3.400,2.700
-72759364,2026-10-17 14:00,Southport FC,Radcliffe FC,0,2,2.050,3.600,2.900
-72759400,2026-10-17 14:00,Hebburn Town,Scarborough Athletic,0,2,2.300,3.500,2.550
-72759370,2026-10-24 14:00,AFC Telford United,Hebburn Town,2,2,1.900,3.400,3.400
-72759372,2026-10-24 14:00,Brackley Town FC,Radcliffe FC,0,1,2.200,3.300,2.750
-72759374,2026-10-24 14:00,Chorley FC,Buxton FC,2,3,2.625,3.400,2.250
-72759376,2026-10-24 14:00,Darlington FC,Spennymoor Town FC,3,0,1.900,3.600,3.300
-72759378,2026-10-24 14:00,Harborough Town FC,Worksop Town,1,1,1.900,3.600,3.300
-72759380,2026-10-24 14:00,Hednesford Town,Spalding United,2,0,2.000,3.300,3.200
-72759382,2026-10-24 14:00,King's Lynn Town,Southport FC,0,0,1.550,3.900,4.750
-72759384,2026-10-24 14:00,Macclesfield FC,Hereford FC,1,2,1.800,3.700,3.400
-72759386,2026-10-24 14:00,Marine FC,Oxford City,1,1,2.625,3.400,2.250
-72759388,2026-10-24 14:00,Merthyr Town,Morecambe FC,1,3,2.550,3.600,2.300
-72759390,2026-10-24 14:00,Scarborough Athletic,Bedford Town Football Club,1,2,1.750,3.700,3.700
-72759392,2026-10-24 14:00,South Shields,Chester FC,3,1,2.200,3.400,2.800
-72759394,2026-10-27 19:45,Bedford Town Football Club,Hednesford Town,1,0,2.900,3.500,2.100
-72759396,2026-10-27 19:45,Buxton FC,Harborough Town FC,3,0,2.250,3.400,2.600
-72759398,2026-10-27 19:45,Chester FC,Marine FC,2,1,1.550,3.800,4.750
-72759402,2026-10-27 19:45,Hereford FC,AFC Telford United,0,1,1.750,3.600,3.700
-72759404,2026-10-27 19:45,Morecambe FC,Darlington FC,1,0,1.727,3.750,3.800
-72759406,2026-10-27 19:45,Oxford City,Merthyr Town,3,0,1.550,4.200,4.333
-72759408,2026-10-27 19:45,Radcliffe FC,Chorley FC,0,3,2.150,3.400,2.800
-72759412,2026-10-27 19:45,Spalding United,Brackley Town FC,2,2,2.200,3.400,2.700
-72759414,2026-10-27 19:45,Spennymoor Town FC,South Shields,0,1,4.750,4.200,1.533
-72759416,2026-10-27 19:45,Worksop Town,King's Lynn Town,5,0,2.050,3.600,2.900
-72759418,2026-10-31 15:00,Bedford Town Football Club,Macclesfield FC,0,3,2.700,3.500,2.200
-72759420,2026-10-31 15:00,Buxton FC,Marine FC,4,2,1.800,3.600,3.500
-72759422,2026-10-31 15:00,Chester FC,Hednesford Town,0,1,1.850,3.600,3.400
-72759424,2026-10-31 15:00,Hebburn Town,Harborough Town FC,1,1,2.800,3.300,2.150
-72759426,2026-10-31 15:00,Hereford FC,King's Lynn Town,0,3,1.850,3.500,3.500
-72759428,2026-10-31 15:00,Morecambe FC,Scarborough Athletic,2,0,1.833,3.600,3.400
-72759432,2026-10-31 15:00,Oxford City,South Shields,1,3,2.200,3.600,2.625
-72759434,2026-10-31 15:00,Radcliffe FC,Merthyr Town,3,3,2.300,3.600,2.500
-72759436,2026-10-31 15:00,Southport FC,AFC Telford United,1,2,2.750,3.400,2.150
-72759438,2026-10-31 15:00,Spalding United,Darlington FC,3,2,2.100,3.500,2.800
-72759440,2026-10-31 15:00,Spennymoor Town FC,Chorley FC,2,0,2.600,3.500,2.300
-72759442,2026-10-31 15:00,Worksop Town,Brackley Town FC,0,1,1.727,3.600,3.900
-72759444,2026-11-07 15:00,AFC Telford United,Spalding United,2,1,1.909,3.500,3.200
-72759446,2026-11-07 15:00,Brackley Town FC,Chester FC,0,1,3.100,3.300,2.050
-72759448,2026-11-07 15:00,Chorley FC,Hereford FC,1,2,2.550,3.500,2.300
-72759454,2026-11-07 15:00,Hednesford Town,Morecambe FC,6,2,2.200,3.300,2.750
-72759456,2026-11-07 15:00,King's Lynn Town,Spennymoor Town FC,2,0,1.571,3.800,4.750
-72759462,2026-11-07 15:00,Merthyr Town,Hebburn Town,4,1,2.050,3.800,2.800
-72759464,2026-11-07 15:00,Scarborough Athletic,Buxton FC,2,2,2.750,3.400,2.150
-72759466,2026-11-07 15:00,South Shields,Southport FC,5,1,1.444,4.333,5.500
-75445664,2026-11-10 19:45,Scarborough Athletic,Marine FC,1,3,1.900,3.600,3.500
-75801260,2026-11-10 19:45,Morecambe FC,Hereford FC,2,2,2.100,3.500,2.875
-76077312,2026-11-10 19:45,Darlington FC,Oxford City,1,1,3.900,3.800,1.666
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+61944258,2025-08-09 14:00,AFC Fylde,Oxford City,3,2,,,,,,
+61944264,2025-08-09 14:00,Chester FC,Peterborough Sports,3,2,,,,,,
+61944266,2025-08-09 14:00,Curzon Ashton FC,Leamington FC,1,1,,,,,,
+61944270,2025-08-09 14:00,Kidderminster Harriers FC,Scarborough Athletic,1,0,,,,,,
+61944286,2025-08-16 14:00,Chorley FC,Chester FC,3,0,,,,,,
+61944292,2025-08-16 14:00,Marine FC,Buxton FC,2,1,,,,,,
+61944294,2025-08-16 14:00,Oxford City,Macclesfield FC,2,1,,,,,,
+61944296,2025-08-16 14:00,Peterborough Sports,Merthyr Town,0,3,,,,,,
+61944298,2025-08-16 14:00,Radcliffe FC,Spennymoor Town FC,0,2,,,,,,
+61944310,2025-08-19 18:45,Buxton FC,Hereford FC,1,2,,,,,,
+61944312,2025-08-19 18:45,Chester FC,Curzon Ashton FC,1,1,,,,,,
+61944314,2025-08-19 18:45,Chorley FC,Scarborough Athletic,2,2,,,,,,
+61944318,2025-08-19 18:45,Kidderminster Harriers FC,Oxford City,1,1,,,,,,
+61944320,2025-08-19 18:45,Merthyr Town,Marine FC,1,3,,,,,,
+61944324,2025-08-19 18:45,Radcliffe FC,Worksop Town,2,1,,,,,,
+61944326,2025-08-19 18:45,Southport FC,Macclesfield FC,1,2,,,,,,
+61944330,2025-08-23 14:00,AFC Fylde,Kidderminster Harriers FC,2,1,,,,,,
+61944334,2025-08-23 14:00,Curzon Ashton FC,Merthyr Town,0,3,,,,,,
+61944336,2025-08-23 14:00,Hereford FC,Chorley FC,1,4,,,,,,
+61944344,2025-08-23 14:00,Marine FC,Bedford Town Football Club,2,1,,,,,,
+61944346,2025-08-23 14:00,Oxford City,Spennymoor Town FC,1,2,,,,,,
+61944352,2025-08-23 14:00,Worksop Town,Southport FC,2,0,,,,,,
+61944362,2025-08-25 14:00,Chorley FC,King's Lynn Town,4,0,,,,,,
+61944372,2025-08-25 14:00,Radcliffe FC,Hereford FC,1,0,,,,,,
+61944376,2025-08-25 14:00,Spennymoor Town FC,Macclesfield FC,0,0,,,,,,
+61944378,2025-08-30 14:00,AFC Fylde,Bedford Town Football Club,1,0,,,,,,
+61944382,2025-08-30 14:00,Curzon Ashton FC,Kidderminster Harriers FC,0,1,,,,,,
+61944392,2025-08-30 14:00,Marine FC,Peterborough Sports,0,1,,,,,,
+61944394,2025-08-30 14:00,Oxford City,Radcliffe FC,1,5,,,,,,
+61944402,2025-09-02 18:45,AFC Fylde,Chester FC,2,2,,,,,,
+61944406,2025-09-02 18:45,Curzon Ashton FC,Chorley FC,2,0,,,,,,
+61944408,2025-09-02 18:45,Hereford FC,Bedford Town Football Club,2,2,,,,,,
+61944410,2025-09-02 18:45,King's Lynn Town,Kidderminster Harriers FC,0,1,,,,,,
+61944412,2025-09-02 18:45,Leamington FC,Southport FC,2,1,,,,,,
+61944416,2025-09-02 18:45,Marine FC,Darlington FC,1,4,,,,,,
+61944418,2025-09-02 18:45,Oxford City,Alfreton Town FC,5,0,,,,,,
+61944422,2025-09-02 18:45,South Shields,Radcliffe FC,3,0,,,,,,
+61944424,2025-09-02 18:45,Worksop Town,Spennymoor Town FC,3,3,,,,,,
+61944404,2025-09-02 19:00,AFC Telford United,Peterborough Sports,3,2,,,,,,
+61944432,2025-09-06 14:00,Chester FC,Scarborough Athletic,1,1,,,,,,
+61944434,2025-09-06 14:00,Chorley FC,AFC Telford United,3,1,,,,,,
+61944438,2025-09-06 14:00,Kidderminster Harriers FC,Macclesfield FC,1,1,,,,,,
+61944476,2025-10-04 14:00,Buxton FC,Darlington FC,1,0,,,,,,
+61944480,2025-10-04 14:00,King's Lynn Town,Scarborough Athletic,2,3,,,,,,
+61944484,2025-10-04 14:00,Macclesfield FC,Marine FC,0,1,,,,,,
+61944490,2025-10-04 14:00,Radcliffe FC,Alfreton Town FC,3,1,,,,,,
+61944494,2025-10-04 14:00,Spennymoor Town FC,Southport FC,2,0,,,,,,
+64201213,2025-10-07 18:45,AFC Fylde,Leamington FC,1,1,,,,,,
+61944498,2025-10-11 14:00,AFC Fylde,Worksop Town,2,3,,,,,,
+61944504,2025-10-11 14:00,Chorley FC,Oxford City,3,3,,,,,,
+61944512,2025-10-11 14:00,Kidderminster Harriers FC,Radcliffe FC,1,5,,,,,,
+61944518,2025-10-11 14:00,Scarborough Athletic,Leamington FC,2,0,,,,,,
+61944554,2025-10-11 14:00,Marine FC,Curzon Ashton FC,0,4,,,,,,
+61944522,2025-10-18 14:00,AFC Telford United,Scarborough Athletic,4,1,,,,,,
+61944526,2025-10-18 14:00,Chester FC,Kidderminster Harriers FC,1,1,,,,,,
+61944530,2025-10-18 14:00,Leamington FC,Darlington FC,0,1,,,,,,
+61944536,2025-10-18 14:00,Peterborough Sports,Alfreton Town FC,1,1,,,,,,
+61944538,2025-10-18 14:00,Radcliffe FC,Bedford Town Football Club,0,0,,,,,,
+61944542,2025-10-18 14:00,Spennymoor Town FC,Merthyr Town,6,4,,,,,,
+61944544,2025-10-18 14:00,Worksop Town,Marine FC,1,2,,,,,,
+61944546,2025-10-21 18:45,Alfreton Town FC,Chester FC,0,2,,,,,,
+61944550,2025-10-21 18:45,Hereford FC,AFC Telford United,1,1,,,,,,
+61944556,2025-10-21 18:45,Merthyr Town,Kidderminster Harriers FC,0,1,,,,,,
+61944560,2025-10-21 18:45,Radcliffe FC,Darlington FC,3,1,,,,,,
+61944562,2025-10-21 18:45,South Shields,Scarborough Athletic,4,0,,,,,,
+61944564,2025-10-21 18:45,Southport FC,Chorley FC,1,1,,,,,,
+61944566,2025-10-21 18:45,Spennymoor Town FC,AFC Fylde,0,5,,,,,,
+61944568,2025-10-21 18:45,Worksop Town,King's Lynn Town,2,2,,,,,,
+61944578,2025-10-25 14:00,Chorley FC,Merthyr Town,0,2,,,,,,
+61944580,2025-10-25 14:00,Curzon Ashton FC,Peterborough Sports,1,0,,,,,,
+64201291,2025-10-28 19:45,Curzon Ashton FC,King's Lynn Town,3,0,,,,,,
+64295451,2025-10-28 19:45,Southport FC,Peterborough Sports,2,3,,,,,,
+61944594,2025-11-01 15:00,Alfreton Town FC,Kidderminster Harriers FC,1,1,,,,,,
+61944598,2025-11-01 15:00,Hereford FC,Curzon Ashton FC,3,3,,,,,,
+61944602,2025-11-01 15:00,Marine FC,AFC Fylde,0,1,,,,,,
+61944604,2025-11-01 15:00,Merthyr Town,Darlington FC,3,1,,,,,,
+61944606,2025-11-01 15:00,Peterborough Sports,Chorley FC,2,1,,,,,,
+61944612,2025-11-01 15:00,Southport FC,King's Lynn Town,0,0,,,,,,
+61944616,2025-11-01 15:00,Worksop Town,Scarborough Athletic,1,0,,,,,,
+61945022,2025-11-01 15:00,Oxford City,Bedford Town Football Club,1,2,,,,,,
+61944624,2025-11-04 19:40,Chester FC,Marine FC,1,1,,,,,,
+61944620,2025-11-04 19:45,AFC Telford United,Merthyr Town,2,4,,,,,,
+61944622,2025-11-04 19:45,Buxton FC,Southport FC,1,2,,,,,,
+61944626,2025-11-04 19:45,Chorley FC,Alfreton Town FC,0,1,,,,,,
+61944628,2025-11-04 19:45,Curzon Ashton FC,Spennymoor Town FC,2,2,,,,,,
+61944630,2025-11-04 19:45,Darlington FC,Worksop Town,5,1,,,,,,
+61944632,2025-11-04 19:45,Kidderminster Harriers FC,Bedford Town Football Club,2,1,,,,,,
+61944634,2025-11-04 19:45,King's Lynn Town,Leamington FC,2,0,,,,,,
+61944636,2025-11-04 19:45,Macclesfield FC,Peterborough Sports,3,1,,,,,,
+61944638,2025-11-04 19:45,Oxford City,Hereford FC,3,0,,,,,,
+61944618,2025-11-05 19:45,AFC Fylde,South Shields,2,4,,,,,,
+61944642,2025-11-08 15:00,Alfreton Town FC,AFC Fylde,0,1,,,,,,
+61944644,2025-11-08 15:00,Bedford Town Football Club,Merthyr Town,3,4,,,,,,
+61944646,2025-11-08 15:00,Buxton FC,Chester FC,1,2,,,,,,
+61944648,2025-11-08 15:00,Curzon Ashton FC,Scarborough Athletic,1,2,,,,,,
+61944650,2025-11-08 15:00,Hereford FC,Southport FC,1,2,,,,,,
+61944652,2025-11-08 15:00,Kidderminster Harriers FC,Darlington FC,1,2,,,,,,
+61944654,2025-11-08 15:00,Leamington FC,Marine FC,0,1,,,,,,
+61944656,2025-11-08 15:00,Macclesfield FC,AFC Telford United,1,1,,,,,,
+61944658,2025-11-08 15:00,Oxford City,Worksop Town,2,0,,,,,,
+61944660,2025-11-08 15:00,Radcliffe FC,Chorley FC,2,2,,,,,,
+61944662,2025-11-08 15:00,South Shields,King's Lynn Town,1,1,,,,,,
+61944664,2025-11-08 15:00,Spennymoor Town FC,Peterborough Sports,1,0,,,,,,
+64294431,2025-11-11 19:45,Bedford Town Football Club,Buxton FC,3,0,,,,,,
+64294437,2025-11-11 19:45,Marine FC,AFC Telford United,2,1,,,,,,
+64294443,2025-11-11 19:45,Merthyr Town,South Shields,3,1,,,,,,
+64480029,2025-11-11 19:45,Alfreton Town FC,Spennymoor Town FC,2,1,,,,,,
+64480033,2025-11-11 19:45,Southport FC,Chester FC,2,2,,,,,,
+64480169,2025-11-18 19:45,Darlington FC,Peterborough Sports,5,2,,,,,,
+64804420,2025-11-18 19:45,South Shields,Oxford City,4,1,,,,,,
+61944666,2025-11-22 15:00,AFC Fylde,Buxton FC,1,2,,,,,,
+61944668,2025-11-22 15:00,AFC Telford United,South Shields,1,1,,,,,,
+61944670,2025-11-22 15:00,Chester FC,Leamington FC,2,0,,,,,,
+61944672,2025-11-22 15:00,Chorley FC,Bedford Town Football Club,1,0,,,,,,
+61944674,2025-11-22 15:00,Darlington FC,Spennymoor Town FC,1,0,,,,,,
+61944678,2025-11-22 15:00,Marine FC,Oxford City,0,0,,,,,,
+61944680,2025-11-22 15:00,Merthyr Town,Alfreton Town FC,6,2,,,,,,
+61944682,2025-11-22 15:00,Peterborough Sports,Radcliffe FC,3,0,,,,,,
+61944686,2025-11-22 15:00,Southport FC,Kidderminster Harriers FC,2,2,,,,,,
+61944688,2025-11-22 15:00,Worksop Town,Curzon Ashton FC,0,1,,,,,,
+61944690,2025-11-25 19:45,AFC Fylde,Macclesfield FC,5,1,,,,,,
+61944692,2025-11-25 19:45,AFC Telford United,Oxford City,4,0,,,,,,
+61944694,2025-11-25 19:45,Chester FC,Hereford FC,1,1,,,,,,
+61944696,2025-11-25 19:45,Chorley FC,Spennymoor Town FC,0,0,,,,,,
+61944698,2025-11-25 19:45,Darlington FC,Curzon Ashton FC,3,3,,,,,,
+61944700,2025-11-25 19:45,King's Lynn Town,Buxton FC,3,2,,,,,,
+61944702,2025-11-25 19:45,Marine FC,Kidderminster Harriers FC,2,0,,,,,,
+61944704,2025-11-25 19:45,Merthyr Town,Leamington FC,4,1,,,,,,
+61944706,2025-11-25 19:45,Peterborough Sports,Bedford Town Football Club,3,1,,,,,,
+61944708,2025-11-25 19:45,Scarborough Athletic,Alfreton Town FC,0,0,,,,,,
+61944710,2025-11-25 19:45,Southport FC,Radcliffe FC,2,0,,,,,,
+61944712,2025-11-25 19:45,Worksop Town,South Shields,0,3,,,,,,
+61944716,2025-11-29 15:00,Bedford Town Football Club,Darlington FC,3,4,,,,,,
+61944718,2025-11-29 15:00,Buxton FC,Merthyr Town,1,2,,,,,,
+61944720,2025-11-29 15:00,Curzon Ashton FC,AFC Fylde,1,3,,,,,,
+61944724,2025-11-29 15:00,Kidderminster Harriers FC,Chorley FC,3,1,,,,,,
+61944726,2025-11-29 15:00,Leamington FC,Worksop Town,1,2,,,,,,
+61944728,2025-11-29 15:00,Macclesfield FC,Scarborough Athletic,1,1,,,,,,
+61944730,2025-11-29 15:00,Oxford City,King's Lynn Town,0,1,,,,,,
+61944732,2025-11-29 15:00,Radcliffe FC,AFC Telford United,2,2,,,,,,
+61944736,2025-11-29 15:00,Spennymoor Town FC,Chester FC,0,2,,,,,,
+65066044,2025-12-02 19:45,Radcliffe FC,Chester FC,1,3,,,,,,
+61944738,2025-12-06 15:00,AFC Fylde,Merthyr Town,1,0,,,,,,
+61944742,2025-12-06 15:00,Curzon Ashton FC,Alfreton Town FC,2,1,,,,,,
+61944752,2025-12-06 15:00,Marine FC,Spennymoor Town FC,0,2,,,,,,
+61944754,2025-12-06 15:00,Oxford City,Darlington FC,5,1,,,,,,
+61944758,2025-12-06 15:00,South Shields,Kidderminster Harriers FC,1,2,,,,,,
+61944760,2025-12-06 15:00,Worksop Town,Chorley FC,1,1,,,,,,
+65066198,2025-12-09 19:45,Leamington FC,AFC Telford United,1,3,3.400,3.500,1.900,2.75,1.900,1.900
+66297688,2025-12-10 19:45,King's Lynn Town,Macclesfield FC,1,1,2.450,3.500,2.400,2.75,1.950,1.850
+66046516,2025-12-13 15:00,Spennymoor Town FC,Buxton FC,2,2,2.150,3.200,3.000,2.5,1.900,1.900
+65543160,2025-12-16 18:45,Bedford Town Football Club,Macclesfield FC,1,2,,,,,,
+65066202,2025-12-16 19:45,Scarborough Athletic,Radcliffe FC,0,3,2.600,3.000,2.500,2.75,1.875,1.925
+66356716,2025-12-16 19:45,Alfreton Town FC,Southport FC,1,1,2.550,2.875,2.625,2.25,1.850,1.950
+61944764,2025-12-20 15:00,Bedford Town Football Club,Marine FC,1,1,2.500,3.300,2.450,2.5,1.825,1.975
+61944766,2025-12-20 15:00,Buxton FC,AFC Telford United,0,2,2.450,3.400,2.450,3,1.975,1.825
+61944768,2025-12-20 15:00,Chester FC,South Shields,1,3,2.200,3.500,2.700,2.75,1.800,2.000
+61944770,2025-12-20 15:00,Chorley FC,Hereford FC,4,2,2.000,3.300,3.200,2.75,1.925,1.875
+61944772,2025-12-20 15:00,Darlington FC,King's Lynn Town,1,1,2.050,3.500,2.900,2.75,1.875,1.925
+61944774,2025-12-20 15:00,Kidderminster Harriers FC,AFC Fylde,1,0,2.550,3.300,2.350,2.5,1.850,1.950
+61944776,2025-12-20 15:00,Merthyr Town,Curzon Ashton FC,2,1,2.050,3.800,2.700,3.5,1.925,1.875
+61944778,2025-12-20 15:00,Peterborough Sports,Scarborough Athletic,0,4,2.150,3.300,2.900,2.5,1.950,1.850
+61944780,2025-12-20 15:00,Radcliffe FC,Leamington FC,2,1,1.300,4.500,7.500,3,1.825,1.975
+61944782,2025-12-20 15:00,Southport FC,Worksop Town,1,1,2.100,3.200,3.000,2.5,1.950,1.850
+61944784,2025-12-20 15:00,Spennymoor Town FC,Oxford City,1,1,1.550,3.750,4.750,2.75,1.875,1.925
+61944786,2025-12-26 15:00,AFC Fylde,Chorley FC,1,0,1.700,3.750,3.800,3,1.825,1.975
+61944788,2025-12-26 15:00,AFC Telford United,Chester FC,3,1,2.200,3.300,2.750,2.75,1.950,1.850
+61944790,2025-12-26 15:00,Curzon Ashton FC,Radcliffe FC,0,3,2.550,3.800,2.200,3.25,1.900,1.900
+61944792,2025-12-26 15:00,Hereford FC,Kidderminster Harriers FC,0,1,2.625,3.500,2.250,2.5,1.825,1.975
+61944794,2025-12-26 15:00,King's Lynn Town,Peterborough Sports,2,2,1.833,3.400,3.700,2.5,1.900,1.900
+61944796,2025-12-26 15:00,Leamington FC,Bedford Town Football Club,2,2,2.750,3.300,2.200,2.75,1.950,1.850
+61944798,2025-12-26 15:00,Macclesfield FC,Buxton FC,0,2,1.727,3.700,3.750,2.75,2.000,1.800
+61944800,2025-12-26 15:00,Marine FC,Southport FC,4,2,2.050,3.100,3.200,2.25,1.925,1.875
+61944802,2025-12-26 15:00,Oxford City,Merthyr Town,1,3,2.550,3.400,2.300,3,1.800,2.000
+61944804,2025-12-26 15:00,Scarborough Athletic,Darlington FC,0,1,2.250,3.700,2.500,3,2.000,1.800
+61944806,2025-12-26 15:00,South Shields,Spennymoor Town FC,6,0,1.666,3.750,4.000,3,1.850,1.950
+61944808,2025-12-26 15:00,Worksop Town,Alfreton Town FC,1,0,1.900,3.500,3.400,2.75,1.950,1.850
+61944810,2025-12-30 19:45,Alfreton Town FC,Leamington FC,2,1,1.700,3.500,4.200,2.5,1.950,1.850
+61944812,2025-12-30 19:45,Bedford Town Football Club,King's Lynn Town,4,2,2.450,3.400,2.450,2.75,1.900,1.900
+61944814,2025-12-30 19:45,Buxton FC,Worksop Town,3,1,1.950,3.400,3.200,2.75,1.900,1.900
+61944816,2025-12-30 19:45,Chester FC,Macclesfield FC,2,0,2.100,3.400,2.900,2.75,1.900,1.900
+61944818,2025-12-30 19:45,Chorley FC,Marine FC,2,1,2.000,3.300,3.250,2.5,1.925,1.875
+61944820,2025-12-30 19:45,Darlington FC,South Shields,1,2,3.400,3.900,1.800,3.25,1.900,1.900
+61944822,2025-12-30 19:45,Kidderminster Harriers FC,AFC Telford United,3,0,1.850,3.400,3.600,2.5,1.800,2.000
+61944824,2025-12-30 19:45,Merthyr Town,Hereford FC,2,2,1.615,4.000,3.900,3.25,1.825,1.975
+61944826,2025-12-30 19:45,Peterborough Sports,Oxford City,0,0,2.100,3.250,3.100,2.5,1.800,2.000
+61944828,2025-12-30 19:45,Radcliffe FC,AFC Fylde,3,3,2.375,3.700,2.375,3,2.025,1.775
+61944830,2025-12-30 19:45,Southport FC,Curzon Ashton FC,2,4,2.050,3.300,3.000,2.75,1.975,1.825
+61944832,2025-12-30 19:45,Spennymoor Town FC,Scarborough Athletic,1,1,2.000,3.500,3.100,2.75,1.875,1.925
+61944836,2026-01-03 15:00,Bedford Town Football Club,AFC Fylde,0,2,4.500,4.000,1.533,3.25,1.900,1.900
+61944838,2026-01-03 15:00,Buxton FC,South Shields,1,1,3.300,3.600,1.900,3,1.825,1.975
+61944840,2026-01-03 15:00,Chester FC,Worksop Town,0,1,1.727,3.500,4.000,2.5,1.800,2.000
+61944846,2026-01-03 15:00,Kidderminster Harriers FC,Curzon Ashton FC,1,0,1.500,3.750,5.500,2.75,1.925,1.875
+61944848,2026-01-03 15:00,Merthyr Town,King's Lynn Town,1,0,2.150,3.700,2.700,3,1.950,1.850
+61944854,2026-01-03 15:00,Southport FC,Scarborough Athletic,1,1,2.500,3.000,2.600,2.25,1.825,1.975
+65860156,2026-01-06 19:45,Macclesfield FC,Radcliffe FC,2,1,2.100,3.600,2.750,3,1.975,1.825
+61944874,2026-01-10 15:00,Oxford City,Buxton FC,2,1,2.875,3.500,2.150,2.75,1.850,1.950
+61944876,2026-01-10 15:00,Scarborough Athletic,Chester FC,1,0,2.625,3.300,2.350,2.5,1.950,1.850
+61944880,2026-01-10 15:00,Worksop Town,Merthyr Town,3,5,2.300,3.700,2.450,3.25,1.975,1.825
+61944882,2026-01-17 15:00,AFC Fylde,Scarborough Athletic,2,1,1.420,4.200,5.750,3,2.025,1.775
+61944884,2026-01-17 15:00,Bedford Town Football Club,Southport FC,2,3,2.700,3.400,2.250,2.5,1.900,1.900
+61944886,2026-01-17 15:00,Buxton FC,Marine FC,4,0,2.100,3.300,2.900,2.5,2.025,1.775
+61944888,2026-01-17 15:00,Chester FC,Chorley FC,3,3,,,,,,
+61944890,2026-01-17 15:00,Curzon Ashton FC,AFC Telford United,0,8,2.875,3.500,2.050,3,2.000,1.800
+61944892,2026-01-17 15:00,Darlington FC,Alfreton Town FC,3,1,1.850,3.600,3.400,2.75,1.975,1.825
+61944894,2026-01-17 15:00,Kidderminster Harriers FC,Worksop Town,2,2,1.400,4.000,6.500,2.75,1.825,1.975
+61944896,2026-01-17 15:00,King's Lynn Town,Hereford FC,0,0,2.100,3.500,2.800,2.75,2.000,1.800
+61944898,2026-01-17 15:00,Macclesfield FC,Oxford City,3,0,1.420,3.900,6.250,2.75,1.825,1.975
+61944900,2026-01-17 15:00,Merthyr Town,Peterborough Sports,2,0,1.615,4.333,3.800,3.5,1.975,1.825
+61944902,2026-01-17 15:00,South Shields,Leamington FC,3,0,1.200,6.000,10.000,3.5,1.850,1.950
+61944904,2026-01-17 15:00,Spennymoor Town FC,Radcliffe FC,2,3,2.400,3.500,2.400,2.75,1.950,1.850
+66672282,2026-01-20 19:45,Spennymoor Town FC,Chester FC,1,2,2.625,3.250,2.350,2.5,1.800,2.000
+66879068,2026-01-20 19:45,Marine FC,Radcliffe FC,3,0,3.000,3.400,2.100,2.5,1.825,1.975
+67496594,2026-01-20 19:45,South Shields,Southport FC,1,0,1.420,4.750,5.250,3.25,2.000,1.800
+61944906,2026-01-24 15:00,AFC Telford United,King's Lynn Town,2,1,1.850,3.500,3.600,2.75,1.975,1.825
+61944908,2026-01-24 15:00,Alfreton Town FC,Bedford Town Football Club,1,2,1.950,3.500,3.300,2.5,1.925,1.875
+61944910,2026-01-24 15:00,Chorley FC,Darlington FC,1,2,1.900,3.600,3.300,3.25,2.000,1.800
+61944914,2026-01-24 15:00,Leamington FC,Curzon Ashton FC,2,1,3.300,3.700,1.900,2.75,1.975,1.825
+61944916,2026-01-24 15:00,Marine FC,South Shields,2,2,4.200,3.700,1.666,2.75,1.975,1.825
+61944918,2026-01-24 15:00,Oxford City,AFC Fylde,1,0,5.250,4.000,1.500,3,1.950,1.850
+61944920,2026-01-24 15:00,Peterborough Sports,Chester FC,3,0,3.250,3.400,2.000,2.5,1.900,1.900
+61944922,2026-01-24 15:00,Radcliffe FC,Buxton FC,1,5,1.800,3.700,3.600,3,1.850,1.950
+61944924,2026-01-24 15:00,Scarborough Athletic,Kidderminster Harriers FC,0,2,4.200,3.600,1.700,2.5,2.000,1.800
+61944926,2026-01-24 15:00,Southport FC,Merthyr Town,1,0,2.500,3.500,2.400,3,1.875,1.925
+61944928,2026-01-24 15:00,Worksop Town,Macclesfield FC,2,4,2.700,3.500,2.250,2.75,1.900,1.900
+61944932,2026-01-27 19:45,Bedford Town Football Club,Kidderminster Harriers FC,0,0,4.200,3.400,1.700,2.5,1.825,1.975
+61944938,2026-01-27 19:45,Marine FC,Chester FC,2,1,2.450,3.100,2.625,2.25,2.025,1.775
+61944940,2026-01-27 19:45,Merthyr Town,AFC Telford United,1,4,2.450,3.800,2.250,3.25,1.850,1.950
+61944942,2026-01-27 19:45,Peterborough Sports,Macclesfield FC,4,3,3.300,3.500,1.900,3,1.800,2.000
+61944944,2026-01-27 19:45,Radcliffe FC,Scarborough Athletic,1,4,1.850,3.500,3.500,2.75,1.825,1.975
+61944952,2026-01-27 19:45,Worksop Town,Darlington FC,1,1,2.750,3.400,2.200,3,1.825,1.975
+61944958,2026-01-31 15:00,Buxton FC,Spennymoor Town FC,1,2,2.100,3.300,3.100,2.5,1.800,2.000
+61944960,2026-01-31 15:00,Chester FC,Radcliffe FC,1,3,2.250,3.400,2.800,2.75,2.000,1.800
+61944962,2026-01-31 15:00,Chorley FC,Peterborough Sports,0,1,1.650,3.900,4.200,2.75,1.975,1.825
+61944964,2026-01-31 15:00,Curzon Ashton FC,Hereford FC,2,1,2.550,3.600,2.300,3.25,2.000,1.800
+61944966,2026-01-31 15:00,Darlington FC,Merthyr Town,3,1,1.750,4.333,3.300,3.5,1.850,1.950
+61944972,2026-01-31 15:00,Macclesfield FC,Bedford Town Football Club,2,1,1.533,4.200,4.750,3,1.950,1.850
+61944974,2026-01-31 15:00,Oxford City,South Shields,1,3,4.750,4.200,1.533,2.75,1.875,1.925
+61944976,2026-01-31 15:00,Scarborough Athletic,Worksop Town,0,0,2.050,3.400,3.200,2.5,1.850,1.950
+67870156,2026-01-31 15:00,King's Lynn Town,Alfreton Town FC,0,2,1.900,3.200,3.900,2.25,2.025,1.775
+66849316,2026-02-03 19:45,Macclesfield FC,Kidderminster Harriers FC,5,1,2.800,3.200,2.300,2.25,1.975,1.825
+67496656,2026-02-03 19:45,AFC Fylde,Peterborough Sports,5,2,1.450,4.200,5.500,3,1.850,1.950
+67496838,2026-02-03 19:45,Radcliffe FC,Oxford City,1,0,1.600,3.800,4.750,3,1.950,1.850
+67503236,2026-02-03 19:45,Chorley FC,Leamington FC,1,1,1.333,4.500,7.500,2.75,1.800,2.000
+67610162,2026-02-03 19:45,Spennymoor Town FC,AFC Telford United,0,2,2.600,3.600,2.300,3,1.975,1.825
+68041912,2026-02-03 19:45,Curzon Ashton FC,Bedford Town Football Club,2,2,2.100,3.700,2.800,3,1.800,2.000
+68042040,2026-02-03 19:45,King's Lynn Town,Southport FC,2,0,2.200,3.000,3.100,2.25,1.975,1.825
+61944980,2026-02-07 15:00,Bedford Town Football Club,Chester FC,1,2,3.500,3.400,1.850,2.5,1.850,1.950
+61944984,2026-02-07 15:00,Leamington FC,Oxford City,0,0,3.300,3.200,2.000,2.25,1.850,1.950
+61944986,2026-02-07 15:00,Marine FC,Scarborough Athletic,1,1,2.400,3.100,2.625,2.25,1.850,1.950
+61944988,2026-02-07 15:00,Merthyr Town,Chorley FC,2,3,2.550,3.700,2.300,3.25,1.925,1.875
+61944990,2026-02-07 15:00,Peterborough Sports,Curzon Ashton FC,1,1,2.100,3.500,2.750,3,1.950,1.850
+61944992,2026-02-07 15:00,Radcliffe FC,King's Lynn Town,0,1,2.000,3.250,3.200,2.5,1.900,1.900
+61944996,2026-02-07 15:00,Southport FC,Darlington FC,2,2,2.400,3.400,2.500,2.75,1.925,1.875
+61945000,2026-02-07 15:00,Worksop Town,AFC Telford United,3,1,3.750,3.600,1.750,2.75,2.025,1.775
+61945002,2026-02-10 19:45,AFC Fylde,Spennymoor Town FC,5,0,1.500,4.100,5.250,3,1.825,1.975
+61945004,2026-02-10 19:45,AFC Telford United,Hereford FC,3,0,1.700,3.750,4.000,3,2.025,1.775
+61945006,2026-02-10 19:45,Buxton FC,Peterborough Sports,0,0,1.727,3.750,3.900,3,1.850,1.950
+61945008,2026-02-10 19:45,Chester FC,Alfreton Town FC,2,2,1.900,3.400,3.600,2.25,1.800,2.000
+61945010,2026-02-10 19:45,Chorley FC,Southport FC,4,2,2.100,3.400,3.100,2.5,1.800,2.000
+61945012,2026-02-10 19:45,Curzon Ashton FC,Marine FC,4,1,2.450,3.250,2.600,2.5,1.900,1.900
+61945016,2026-02-10 19:45,Kidderminster Harriers FC,Merthyr Town,0,0,1.500,4.000,5.250,3,2.000,1.800
+61945018,2026-02-10 19:45,King's Lynn Town,Worksop Town,0,1,2.100,3.100,3.250,2.25,1.850,1.950
+61945020,2026-02-10 19:45,Macclesfield FC,Leamington FC,3,1,1.380,4.500,6.250,2.75,1.825,1.975
+61945024,2026-02-10 19:45,Scarborough Athletic,South Shields,2,2,3.700,4.000,1.727,3,2.000,1.800
+61945026,2026-02-14 15:00,AFC Fylde,Alfreton Town FC,3,0,1.363,4.333,7.000,2.75,2.025,1.775
+61945030,2026-02-14 15:00,Chester FC,Buxton FC,1,0,2.350,3.500,2.600,2.75,1.975,1.825
+61945032,2026-02-14 15:00,Chorley FC,Radcliffe FC,0,1,2.050,3.800,2.875,3,2.000,1.800
+61945038,2026-02-14 15:00,Marine FC,Leamington FC,5,0,1.666,3.500,4.750,2.25,2.000,1.800
+61945040,2026-02-14 15:00,Merthyr Town,Bedford Town Football Club,7,1,1.833,3.900,3.300,3.25,1.900,1.900
+61945042,2026-02-14 15:00,Peterborough Sports,Spennymoor Town FC,1,3,2.300,3.300,2.700,2.5,1.950,1.850
+61945044,2026-02-14 15:00,Scarborough Athletic,Curzon Ashton FC,1,0,1.850,3.400,3.700,2.5,1.800,2.000
+61945046,2026-02-14 15:00,Southport FC,Hereford FC,5,1,2.100,3.300,3.000,2.5,1.800,2.000
+61945048,2026-02-14 15:00,Worksop Town,Oxford City,1,2,1.909,3.400,3.500,2.5,1.875,1.925
+67048722,2026-02-17 19:45,Hereford FC,Darlington FC,1,0,2.550,3.500,2.250,2.75,1.775,2.025
+68006366,2026-02-17 19:45,Leamington FC,Spennymoor Town FC,0,2,3.250,3.250,2.050,2.5,1.900,1.900
+68352642,2026-02-17 19:45,Southport FC,Buxton FC,0,0,2.400,3.500,2.450,2.75,1.950,1.850
+68416288,2026-02-17 19:45,AFC Telford United,Chorley FC,2,2,1.800,3.700,3.500,3,1.925,1.875
+61945050,2026-02-21 15:00,Alfreton Town FC,Merthyr Town,3,2,2.550,3.400,2.375,3,2.000,1.800
+61945052,2026-02-21 15:00,Bedford Town Football Club,Chorley FC,2,0,3.500,3.600,1.833,2.75,1.950,1.850
+61945054,2026-02-21 15:00,Buxton FC,AFC Fylde,0,3,3.700,3.800,1.727,3,2.000,1.800
+61945056,2026-02-21 15:00,Curzon Ashton FC,Worksop Town,3,1,2.450,3.500,2.450,2.75,1.825,1.975
+61945058,2026-02-21 15:00,Hereford FC,Scarborough Athletic,1,2,2.200,3.300,2.750,2.5,1.875,1.925
+61945060,2026-02-21 15:00,Kidderminster Harriers FC,Southport FC,1,1,1.600,3.400,5.000,2.25,1.925,1.875
+61945062,2026-02-21 15:00,Leamington FC,Chester FC,0,2,4.200,3.400,1.700,2.5,1.925,1.875
+61945064,2026-02-21 15:00,Macclesfield FC,King's Lynn Town,4,0,1.909,3.100,3.700,2.25,1.775,2.025
+61945066,2026-02-21 15:00,Oxford City,Marine FC,0,2,2.750,3.200,2.300,2.25,1.900,1.900
+61945068,2026-02-21 15:00,Radcliffe FC,Peterborough Sports,2,1,1.615,3.600,4.500,3,2.000,1.800
+61945070,2026-02-21 15:00,South Shields,AFC Telford United,2,2,1.750,3.600,3.800,3,1.800,2.000
+61945072,2026-02-21 15:00,Spennymoor Town FC,Darlington FC,0,4,2.750,3.250,2.250,2.75,1.850,1.950
+61945074,2026-02-24 19:45,Alfreton Town FC,Scarborough Athletic,2,1,2.500,3.200,2.500,2.5,1.950,1.850
+61945076,2026-02-24 19:45,Bedford Town Football Club,Peterborough Sports,4,1,2.400,3.300,2.550,2.75,1.950,1.850
+61945078,2026-02-24 19:45,Buxton FC,King's Lynn Town,1,2,1.950,3.300,3.300,2.5,2.000,1.800
+61945080,2026-02-24 19:45,Curzon Ashton FC,Darlington FC,1,2,3.000,3.800,1.950,3,1.775,2.025
+61945082,2026-02-24 19:45,Hereford FC,Chester FC,5,2,2.500,3.400,2.400,2.75,1.950,1.850
+61945084,2026-02-24 19:45,Kidderminster Harriers FC,Marine FC,4,0,1.615,3.300,5.250,2.5,1.875,1.925
+61945086,2026-02-24 19:45,Leamington FC,Merthyr Town,1,2,4.000,3.500,1.700,2.75,1.800,2.000
+61945088,2026-02-24 19:45,Macclesfield FC,AFC Fylde,1,4,2.600,3.600,2.200,3,2.000,1.800
+61945090,2026-02-24 19:45,Oxford City,AFC Telford United,0,0,3.600,3.400,1.833,2.75,1.900,1.900
+61945092,2026-02-24 19:45,Radcliffe FC,Southport FC,1,2,1.950,3.250,3.400,2.75,1.925,1.875
+61945094,2026-02-24 19:45,South Shields,Worksop Town,3,1,1.333,4.500,7.000,3.25,1.950,1.850
+61945096,2026-02-24 19:45,Spennymoor Town FC,Chorley FC,1,0,2.875,3.100,2.250,2.5,1.875,1.925
+61945098,2026-02-28 15:00,AFC Fylde,Curzon Ashton FC,5,1,1.250,5.500,9.500,3.5,1.975,1.825
+61945100,2026-02-28 15:00,AFC Telford United,Radcliffe FC,2,0,1.850,3.800,3.400,3,1.875,1.925
+61945102,2026-02-28 15:00,Chester FC,Spennymoor Town FC,2,1,1.600,3.700,5.250,2.5,1.950,1.850
+61945106,2026-02-28 15:00,Darlington FC,Bedford Town Football Club,2,0,1.480,4.333,5.000,3.25,1.950,1.850
+61945108,2026-02-28 15:00,King's Lynn Town,Oxford City,1,2,1.850,3.200,4.100,2.25,1.900,1.900
+61945112,2026-02-28 15:00,Merthyr Town,Buxton FC,1,3,2.100,4.000,2.750,3.5,1.975,1.825
+61945114,2026-02-28 15:00,Peterborough Sports,South Shields,0,3,5.750,4.500,1.450,3,1.800,2.000
+61945116,2026-02-28 15:00,Scarborough Athletic,Macclesfield FC,2,2,2.350,3.600,2.550,2.5,1.900,1.900
+61945120,2026-02-28 15:00,Worksop Town,Leamington FC,2,0,1.650,3.800,4.750,2.75,1.825,1.975
+61945122,2026-03-07 15:00,AFC Telford United,Alfreton Town FC,4,1,1.650,3.750,4.333,2.75,1.850,1.950
+61945124,2026-03-07 15:00,Buxton FC,Kidderminster Harriers FC,1,3,2.900,3.600,2.050,2.5,1.975,1.825
+61945126,2026-03-07 15:00,Chester FC,Darlington FC,2,1,2.100,3.500,2.875,2.75,1.800,2.000
+61945128,2026-03-07 15:00,King's Lynn Town,Marine FC,1,0,2.100,3.250,3.000,2.25,1.950,1.850
+61945130,2026-03-07 15:00,Leamington FC,AFC Fylde,1,1,8.500,5.250,1.285,3,1.850,1.950
+61945132,2026-03-07 15:00,Macclesfield FC,Chorley FC,1,2,1.909,3.400,3.400,2.75,1.975,1.825
+61945134,2026-03-07 15:00,Oxford City,Scarborough Athletic,0,2,2.600,3.500,2.300,2.5,1.975,1.825
+61945136,2026-03-07 15:00,Peterborough Sports,Southport FC,0,1,2.625,3.500,2.250,2.5,1.850,1.950
+61945138,2026-03-07 15:00,Radcliffe FC,Merthyr Town,1,3,1.833,4.200,3.000,3.5,1.800,2.000
+61945140,2026-03-07 15:00,South Shields,Curzon Ashton FC,3,0,1.250,5.500,9.000,3.5,1.850,1.950
+61945142,2026-03-07 15:00,Spennymoor Town FC,Bedford Town Football Club,0,0,2.050,3.500,2.900,2.75,1.850,1.950
+61945144,2026-03-07 15:00,Worksop Town,Hereford FC,2,3,2.450,3.500,2.375,2.75,1.800,2.000
+61945146,2026-03-10 19:45,AFC Fylde,AFC Telford United,2,1,1.615,3.800,4.200,3.25,1.950,1.850
+61945148,2026-03-10 19:45,Alfreton Town FC,Radcliffe FC,1,1,2.600,3.300,2.300,2.75,1.900,1.900
+61945150,2026-03-10 19:45,Bedford Town Football Club,Worksop Town,0,2,2.350,3.400,2.625,2.5,1.850,1.950
+61945152,2026-03-10 19:45,Chorley FC,South Shields,1,1,3.000,3.300,2.100,2.75,1.875,1.925
+61945154,2026-03-10 19:45,Curzon Ashton FC,Oxford City,2,2,2.050,3.400,3.000,2.75,1.900,1.900
+61945156,2026-03-10 19:45,Darlington FC,Buxton FC,0,2,2.050,3.500,2.800,3,1.800,2.000
+61945158,2026-03-10 19:45,Hereford FC,Leamington FC,4,1,1.400,4.100,6.250,2.75,1.800,2.000
+61945160,2026-03-10 19:45,Kidderminster Harriers FC,Peterborough Sports,4,0,1.363,4.200,7.500,2.75,1.925,1.875
+61945162,2026-03-10 19:45,Marine FC,Macclesfield FC,2,4,3.200,3.100,2.050,2.5,2.000,1.800
+61945164,2026-03-10 19:45,Merthyr Town,Chester FC,1,1,3.000,3.600,2.000,3,1.925,1.875
+61945166,2026-03-10 19:45,Scarborough Athletic,King's Lynn Town,1,1,2.100,3.100,3.200,2.25,1.875,1.925
+61945168,2026-03-10 19:45,Southport FC,Spennymoor Town FC,2,0,1.909,3.300,3.300,2.5,1.850,1.950
+61945170,2026-03-14 15:00,AFC Fylde,King's Lynn Town,4,1,1.333,4.500,7.000,2.75,2.000,1.800
+61945172,2026-03-14 15:00,Alfreton Town FC,Peterborough Sports,0,2,1.833,3.400,3.700,2.75,1.800,2.000
+61945174,2026-03-14 15:00,Bedford Town Football Club,Radcliffe FC,1,0,3.000,3.600,2.000,3,1.900,1.900
+61945176,2026-03-14 15:00,Chorley FC,Buxton FC,1,2,1.900,3.200,3.600,2.5,2.000,1.800
+61945178,2026-03-14 15:00,Curzon Ashton FC,Macclesfield FC,0,2,3.900,3.900,1.666,3.25,2.000,1.800
+61945180,2026-03-14 15:00,Darlington FC,Leamington FC,1,0,1.285,5.000,7.500,3,1.850,1.950
+61945182,2026-03-14 15:00,Hereford FC,South Shields,2,0,3.900,3.900,1.666,3,1.775,2.025
+61945184,2026-03-14 15:00,Kidderminster Harriers FC,Chester FC,1,1,1.833,3.300,3.700,2.5,1.900,1.900
+61945186,2026-03-14 15:00,Marine FC,Worksop Town,4,2,2.250,3.000,3.000,2.25,1.975,1.825
+61945188,2026-03-14 15:00,Merthyr Town,Spennymoor Town FC,2,2,1.909,3.900,3.000,3.25,1.850,1.950
+61945190,2026-03-14 15:00,Scarborough Athletic,AFC Telford United,1,1,2.500,3.400,2.450,2.75,2.000,1.800
+61945192,2026-03-14 15:00,Southport FC,Oxford City,1,3,1.666,3.600,4.200,2.5,1.800,2.000
+67771280,2026-03-17 19:45,Peterborough Sports,Marine FC,0,0,,,,,,
+68006368,2026-03-17 19:45,AFC Telford United,Macclesfield FC,3,0,,,,,,
+68352648,2026-03-17 19:45,Spennymoor Town FC,Curzon Ashton FC,4,1,,,,,,
+68567682,2026-03-17 19:45,Chorley FC,Kidderminster Harriers FC,2,1,,,,,,
+68719514,2026-03-17 19:45,Southport FC,Alfreton Town FC,2,1,,,,,,
+68840790,2026-03-17 19:45,Hereford FC,AFC Fylde,0,4,,,,,,
+68906668,2026-03-17 19:45,Leamington FC,Buxton FC,0,1,,,,,,
+69020682,2026-03-17 19:45,Darlington FC,Radcliffe FC,3,0,,,,,,
+69107500,2026-03-17 19:45,King's Lynn Town,South Shields,3,0,,,,,,
+69584328,2026-03-19 19:45,Alfreton Town FC,Hereford FC,2,1,2.400,3.700,2.350,2.5,1.950,1.850
+61945194,2026-03-21 15:00,AFC Telford United,Marine FC,0,2,1.615,3.700,4.500,2.75,1.950,1.850
+61945196,2026-03-21 15:00,Buxton FC,Bedford Town Football Club,3,0,1.800,4.000,3.250,3,1.975,1.825
+61945198,2026-03-21 15:00,Chester FC,Southport FC,1,0,1.900,3.300,3.600,2.5,1.950,1.850
+61945200,2026-03-21 15:00,King's Lynn Town,Curzon Ashton FC,0,0,1.571,3.700,5.000,2.5,1.825,1.975
+61945202,2026-03-21 15:00,Leamington FC,Scarborough Athletic,1,2,4.750,3.300,1.650,2.25,1.950,1.850
+61945204,2026-03-21 15:00,Macclesfield FC,Hereford FC,0,0,1.420,4.200,5.750,3,1.900,1.900
+61945206,2026-03-21 15:00,Oxford City,Chorley FC,0,0,2.900,3.200,2.200,2.5,1.950,1.850
+61945208,2026-03-21 15:00,Peterborough Sports,Darlington FC,0,1,3.700,3.750,1.727,3,2.025,1.775
+61945210,2026-03-21 15:00,Radcliffe FC,Kidderminster Harriers FC,1,1,3.900,3.600,1.727,2.5,1.825,1.975
+61945212,2026-03-21 15:00,South Shields,Merthyr Town,3,0,1.270,5.500,7.500,3.75,1.825,1.975
+61945214,2026-03-21 15:00,Spennymoor Town FC,Alfreton Town FC,1,1,1.727,3.600,3.800,2.25,1.925,1.875
+61945216,2026-03-21 15:00,Worksop Town,AFC Fylde,1,0,4.750,3.900,1.533,3,2.000,1.800
+67870232,2026-03-24 19:45,AFC Fylde,Marine FC,0,0,1.285,4.500,8.500,2.75,2.000,1.800
+68156334,2026-03-24 19:45,Alfreton Town FC,Macclesfield FC,0,2,4.500,3.400,1.666,2.25,1.775,2.025
+68352650,2026-03-24 19:45,Hereford FC,Spennymoor Town FC,1,2,2.375,3.400,2.500,2.75,1.825,1.975
+68719520,2026-03-24 19:45,Leamington FC,King's Lynn Town,2,5,4.500,3.400,1.666,2.25,1.825,1.975
+69048374,2026-03-24 19:45,Darlington FC,Kidderminster Harriers FC,0,2,2.550,3.250,2.450,2.5,1.825,1.975
+61945218,2026-03-28 15:00,AFC Fylde,Darlington FC,4,1,1.450,4.100,5.500,3.25,1.950,1.850
+61945220,2026-03-28 15:00,AFC Telford United,Bedford Town Football Club,2,2,1.270,5.000,7.000,3.25,1.900,1.900
+61945222,2026-03-28 15:00,Curzon Ashton FC,Chester FC,0,1,3.700,3.700,1.750,3,2.000,1.800
+61945224,2026-03-28 15:00,Hereford FC,Buxton FC,0,1,3.500,3.700,1.800,2.75,1.950,1.850
+61945226,2026-03-28 15:00,King's Lynn Town,Spennymoor Town FC,0,1,1.850,3.400,3.400,2.5,1.825,1.975
+61945228,2026-03-28 15:00,Leamington FC,Peterborough Sports,4,2,3.300,3.250,1.950,2.25,2.025,1.775
+61945234,2026-03-28 15:00,Oxford City,Kidderminster Harriers FC,3,2,3.900,3.100,1.833,2.25,1.800,2.000
+61945236,2026-03-28 15:00,Scarborough Athletic,Chorley FC,0,0,2.150,3.100,3.000,2.25,1.975,1.825
+61945238,2026-03-28 15:00,South Shields,Alfreton Town FC,3,0,1.166,6.250,13.000,3,1.950,1.850
+61945240,2026-03-28 15:00,Worksop Town,Radcliffe FC,2,0,2.150,3.500,2.700,3,1.975,1.825
+68042046,2026-03-31 18:45,Hereford FC,Macclesfield FC,0,2,3.700,3.500,1.750,3,1.925,1.875
+68674722,2026-03-31 18:45,Alfreton Town FC,Chorley FC,1,0,3.000,3.200,2.100,2.5,2.000,1.800
+68840792,2026-03-31 18:45,Spennymoor Town FC,Kidderminster Harriers FC,3,1,3.500,3.300,1.909,2.5,2.000,1.800
+70231168,2026-03-31 18:45,AFC Fylde,Marine FC,2,0,1.333,4.500,7.500,3,1.900,1.900
+61945242,2026-04-03 14:00,Alfreton Town FC,Worksop Town,1,1,3.000,3.250,2.150,2.25,1.850,1.950
+61945244,2026-04-03 14:00,Bedford Town Football Club,Leamington FC,3,1,1.550,4.100,4.500,3,1.850,1.950
+61945246,2026-04-03 14:00,Buxton FC,Macclesfield FC,2,4,2.625,3.500,2.250,2.75,1.900,1.900
+61945248,2026-04-03 14:00,Chester FC,AFC Telford United,2,1,2.250,3.500,2.625,3,1.975,1.825
+61945250,2026-04-03 14:00,Chorley FC,AFC Fylde,2,0,3.750,3.600,1.750,2.75,1.850,1.950
+61945252,2026-04-03 14:00,Darlington FC,Scarborough Athletic,1,2,2.000,3.400,3.100,2.75,1.900,1.900
+61945254,2026-04-03 14:00,Kidderminster Harriers FC,Hereford FC,2,1,1.222,5.500,8.500,3,1.825,1.975
+61945256,2026-04-03 14:00,Merthyr Town,Oxford City,1,1,2.200,3.600,2.625,3.25,2.000,1.800
+61945258,2026-04-03 14:00,Radcliffe FC,Curzon Ashton FC,3,3,1.650,3.900,4.000,3.25,1.900,1.900
+61945260,2026-04-03 14:00,Southport FC,Marine FC,2,1,1.950,3.300,3.400,2.5,2.025,1.775
+61945262,2026-04-03 14:00,Spennymoor Town FC,South Shields,1,1,4.100,3.900,1.615,3,1.825,1.975
+61945264,2026-04-03 14:00,Peterborough Sports,King's Lynn Town,2,2,2.875,3.400,2.150,2.75,1.900,1.900
+61945266,2026-04-06 14:00,Marine FC,Chorley FC,2,1,3.200,3.000,2.100,2.25,1.925,1.875
+61945268,2026-04-06 14:00,Worksop Town,Buxton FC,1,2,2.700,3.100,2.350,2.25,2.025,1.775
+61945270,2026-04-06 14:00,South Shields,Darlington FC,0,1,1.420,4.333,5.500,3.25,2.000,1.800
+61945272,2026-04-06 14:00,Scarborough Athletic,Spennymoor Town FC,1,0,2.050,3.300,3.000,2.75,1.975,1.825
+61945274,2026-04-06 14:00,Oxford City,Peterborough Sports,2,0,1.800,3.400,3.700,2.75,2.000,1.800
+61945276,2026-04-06 14:00,Macclesfield FC,Chester FC,0,2,1.850,3.250,3.800,2.25,1.850,1.950
+61945278,2026-04-06 14:00,Leamington FC,Alfreton Town FC,1,2,2.750,3.100,2.300,2.25,1.900,1.900
+61945280,2026-04-06 14:00,King's Lynn Town,Bedford Town Football Club,0,1,1.666,3.500,4.333,2.5,1.900,1.900
+61945282,2026-04-06 14:00,Hereford FC,Merthyr Town,3,0,2.875,3.800,1.950,3.25,1.825,1.975
+61945284,2026-04-06 14:00,Curzon Ashton FC,Southport FC,1,3,3.300,3.500,1.950,2.75,1.800,2.000
+61945286,2026-04-06 14:00,AFC Telford United,Kidderminster Harriers FC,1,2,2.250,3.300,2.625,2.5,1.875,1.925
+61945288,2026-04-06 14:00,AFC Fylde,Radcliffe FC,4,3,1.300,5.000,7.500,3.5,1.975,1.825
+68840794,2026-04-08 18:45,Marine FC,Hereford FC,0,1,1.700,3.600,4.100,2.75,1.850,1.950
+61945290,2026-04-11 14:00,Southport FC,Leamington FC,1,2,1.444,3.800,6.000,2.75,1.900,1.900
+61945292,2026-04-11 14:00,Spennymoor Town FC,Worksop Town,0,0,2.150,3.250,2.900,2.75,2.000,1.800
+61945294,2026-04-11 14:00,Radcliffe FC,South Shields,2,5,4.000,3.800,1.666,3.5,1.800,2.000
+61945296,2026-04-11 14:00,Peterborough Sports,AFC Telford United,2,3,4.200,3.900,1.615,3,1.850,1.950
+61945298,2026-04-11 14:00,Merthyr Town,Macclesfield FC,1,2,3.750,3.600,1.727,3.25,1.775,2.025
+61945300,2026-04-11 14:00,Kidderminster Harriers FC,King's Lynn Town,4,1,1.666,3.250,4.750,2.25,1.850,1.950
+61945302,2026-04-11 14:00,Chorley FC,Curzon Ashton FC,0,1,1.615,3.750,4.333,3,1.900,1.900
+61945304,2026-04-11 14:00,Chester FC,AFC Fylde,1,0,3.200,3.300,1.950,2.75,1.900,1.900
+61945306,2026-04-11 14:00,Buxton FC,Scarborough Athletic,2,0,1.950,3.300,3.400,2.5,1.925,1.875
+61945308,2026-04-11 14:00,Bedford Town Football Club,Hereford FC,2,2,2.100,3.400,2.800,2.75,1.875,1.925
+61945310,2026-04-11 14:00,Alfreton Town FC,Oxford City,0,0,2.600,3.100,2.500,2.5,1.825,1.975
+61945312,2026-04-11 14:00,Darlington FC,Marine FC,2,3,1.750,3.600,3.750,2.75,1.825,1.975
+68352652,2026-04-14 18:45,Hereford FC,Oxford City,1,2,2.150,3.400,2.750,2.75,1.850,1.950
+68840800,2026-04-14 18:45,Alfreton Town FC,Buxton FC,2,2,4.100,3.600,1.700,2.75,2.000,1.800
+69227452,2026-04-14 18:45,South Shields,Macclesfield FC,4,1,1.571,4.000,4.500,3,1.775,2.025
+69755424,2026-04-14 18:45,Marine FC,Merthyr Town,1,3,2.000,3.600,2.900,3.25,1.850,1.950
+70472886,2026-04-14 18:45,Radcliffe FC,Kidderminster Harriers FC,1,3,4.500,4.000,1.550,3,2.000,1.800
+61945314,2026-04-18 14:00,Scarborough Athletic,Merthyr Town,2,1,1.833,3.400,3.700,3,1.850,1.950
+61945316,2026-04-18 14:00,Worksop Town,Peterborough Sports,8,0,1.650,3.800,4.100,2.75,2.025,1.775
+61945318,2026-04-18 14:00,South Shields,Bedford Town Football Club,1,1,1.166,7.000,13.000,3.5,1.825,1.975
+61945320,2026-04-18 14:00,Oxford City,Chester FC,1,2,3.000,3.300,2.050,2.5,1.925,1.875
+61945322,2026-04-18 14:00,Marine FC,Alfreton Town FC,2,3,1.950,3.200,3.400,2.25,1.850,1.950
+61945324,2026-04-18 14:00,Macclesfield FC,Spennymoor Town FC,0,2,1.650,3.500,4.500,2.75,1.900,1.900
+61945326,2026-04-18 14:00,King's Lynn Town,Chorley FC,1,1,2.050,3.250,3.200,2.25,1.925,1.875
+61945328,2026-04-18 14:00,Hereford FC,Radcliffe FC,3,1,2.050,3.750,2.875,3,1.950,1.850
+61945330,2026-04-18 14:00,Curzon Ashton FC,Buxton FC,0,4,3.300,3.800,1.833,3,1.800,2.000
+61945332,2026-04-18 14:00,AFC Telford United,Darlington FC,1,1,1.750,3.900,3.500,3.25,1.975,1.825
+61945334,2026-04-18 14:00,AFC Fylde,Southport FC,4,0,1.222,5.750,8.500,3.25,1.825,1.975
+61945336,2026-04-18 14:00,Leamington FC,Kidderminster Harriers FC,2,3,7.000,5.000,1.300,2.75,1.850,1.950
+68840802,2026-04-21 18:45,Hereford FC,Marine FC,2,1,1.444,4.500,5.250,3,1.825,1.975
+69852122,2026-04-21 18:45,Macclesfield FC,Southport FC,2,1,1.600,3.900,4.333,2.75,1.825,1.975
+61945338,2026-04-25 11:30,Spennymoor Town FC,Marine FC,1,1,1.850,3.900,3.200,3,1.900,1.900
+61945340,2026-04-25 11:30,Southport FC,AFC Telford United,2,0,3.100,4.000,1.850,3.25,1.900,1.900
+61945342,2026-04-25 11:30,Radcliffe FC,Macclesfield FC,1,0,1.900,3.800,3.200,3,1.850,1.950
+61945346,2026-04-25 11:30,Merthyr Town,AFC Fylde,2,4,4.750,4.500,1.480,3.75,1.925,1.875
+61945348,2026-04-25 11:30,Kidderminster Harriers FC,South Shields,1,0,2.500,3.900,2.200,3,1.950,1.850
+61945350,2026-04-25 11:30,Darlington FC,Oxford City,1,3,1.666,3.750,4.000,3,1.850,1.950
+61945352,2026-04-25 11:30,Chorley FC,Worksop Town,2,1,2.050,3.300,3.000,2.5,1.900,1.900
+61945354,2026-04-25 11:30,Chester FC,King's Lynn Town,0,0,1.750,3.600,3.800,2.5,1.800,2.000
+61945356,2026-04-25 11:30,Buxton FC,Leamington FC,4,1,1.181,6.500,10.000,3.25,1.950,1.850
+61945358,2026-04-25 11:30,Bedford Town Football Club,Scarborough Athletic,1,1,3.600,2.900,2.050,2.75,1.800,2.000
+61945360,2026-04-25 11:30,Alfreton Town FC,Curzon Ashton FC,3,3,2.450,3.500,2.450,2.75,1.900,1.900
+66356718,2026-04-25 11:30,Hereford FC,Peterborough Sports,2,2,1.285,5.750,7.000,3.25,1.950,1.850
+71073866,2026-04-28 18:45,Buxton FC,Scarborough Athletic,4,2,2.000,3.200,3.400,2.5,1.900,1.900
+71073868,2026-04-29 18:45,Macclesfield FC,Chester FC,2,1,2.250,3.000,3.000,2.5,1.950,1.850
+71193112,2026-05-02 11:30,Kidderminster Harriers FC,Macclesfield FC,3,1,1.700,3.600,4.000,2.75,1.900,1.900
+71173610,2026-05-02 15:00,South Shields,Buxton FC,1,0,1.550,4.333,4.200,3.5,1.875,1.925
+71252244,2026-05-09 11:30,South Shields,Kidderminster Harriers FC,0,2,1.833,3.600,3.400,2.5,1.800,2.000
+72759082,2026-08-08 14:00,AFC Telford United,Brackley Town FC,1,2,2.150,3.400,2.800,2.5,1.825,1.975
+72759084,2026-08-08 14:00,Buxton FC,Hereford FC,2,1,1.700,3.750,3.900,2.75,1.775,2.025
+72759086,2026-08-08 14:00,Chorley FC,Chester FC,1,2,2.625,3.400,2.350,2.25,1.800,2.000
+72759088,2026-08-08 14:00,Darlington FC,Worksop Town,1,2,2.100,3.600,2.800,2.75,1.950,1.850
+72759090,2026-08-08 14:00,Hebburn Town,Southport FC,3,1,2.700,3.600,2.150,2.75,1.900,1.900
+72759092,2026-08-08 14:00,King's Lynn Town,Harborough Town FC,1,1,2.150,3.300,2.900,2.5,1.900,1.900
+72759094,2026-08-08 14:00,Marine FC,Macclesfield FC,0,1,3.100,3.600,1.950,2.5,1.900,1.900
+72759096,2026-08-08 14:00,Merthyr Town,Hednesford Town,2,0,2.375,3.500,2.450,2.75,1.825,1.975
+72759098,2026-08-08 14:00,Morecambe FC,Spennymoor Town FC,1,1,1.800,3.600,3.600,3,2.025,1.775
+72759100,2026-08-08 14:00,Oxford City,Bedford Town Football Club,1,0,1.950,3.500,3.250,2.5,1.900,1.900
+72759102,2026-08-08 14:00,Radcliffe FC,Spalding United,0,2,2.350,3.800,2.350,3,1.975,1.825
+72759104,2026-08-08 14:00,Scarborough Athletic,South Shields,0,1,4.200,3.500,1.700,2.75,2.000,1.800
+72759106,2026-08-15 14:00,Bedford Town Football Club,Darlington FC,2,3,2.500,3.400,2.400,2.75,1.850,1.950
+72759108,2026-08-15 14:00,Brackley Town FC,Hebburn Town,1,1,1.650,3.500,4.500,2.5,1.950,1.850
+72759110,2026-08-15 14:00,Chester FC,King's Lynn Town,2,0,1.666,3.700,4.100,2.75,1.850,1.950
+72759112,2026-08-15 14:00,Harborough Town FC,Morecambe FC,1,0,2.350,3.500,2.500,2.75,1.900,1.900
+72759114,2026-08-15 14:00,Hednesford Town,Scarborough Athletic,3,4,2.200,3.400,2.800,2.5,1.875,1.925
+72759116,2026-08-15 14:00,Hereford FC,Marine FC,1,0,2.050,3.500,3.000,2.75,1.975,1.825
+72759118,2026-08-15 14:00,Macclesfield FC,Radcliffe FC,2,1,1.600,3.900,4.500,3,1.975,1.825
+72759120,2026-08-15 14:00,South Shields,Chorley FC,2,1,1.480,4.100,5.250,3,1.975,1.825
+72759122,2026-08-15 14:00,Southport FC,Buxton FC,1,1,2.700,3.400,2.250,2.5,1.800,2.000
+72759124,2026-08-15 14:00,Spalding United,Oxford City,0,1,2.000,3.300,3.200,2.75,1.850,1.950
+72759126,2026-08-15 14:00,Spennymoor Town FC,Merthyr Town,2,1,1.950,3.500,3.100,3,1.975,1.825
+72759128,2026-08-15 14:00,Worksop Town,AFC Telford United,2,1,2.450,3.250,2.450,2.75,1.975,1.825
+72759130,2026-08-18 18:45,Bedford Town Football Club,Buxton FC,2,1,4.000,3.750,1.666,3,1.950,1.850
+72759132,2026-08-18 18:45,Brackley Town FC,King's Lynn Town,0,2,2.050,3.300,3.100,2.5,1.975,1.825
+72759134,2026-08-18 18:45,Darlington FC,Chester FC,0,1,3.100,3.600,1.950,2.75,1.950,1.850
+72759136,2026-08-18 18:45,Hebburn Town,Worksop Town,1,0,2.800,3.300,2.200,2.5,1.850,1.950
+72759138,2026-08-18 18:45,Hednesford Town,Southport FC,2,2,2.150,3.500,2.700,2.75,1.900,1.900
+72759140,2026-08-18 18:45,Hereford FC,Radcliffe FC,3,0,1.833,3.600,3.500,3,1.875,1.925
+72759142,2026-08-18 18:45,Marine FC,Chorley FC,0,2,2.800,3.300,2.250,2.25,1.800,2.000
+72759144,2026-08-18 18:45,Merthyr Town,AFC Telford United,2,2,2.300,3.500,2.550,3.25,2.000,1.800
+72759146,2026-08-18 18:45,Morecambe FC,South Shields,0,1,3.500,4.000,1.750,3,1.800,2.000
+72759148,2026-08-18 18:45,Oxford City,Harborough Town FC,1,1,2.250,3.300,2.700,2.5,1.875,1.925
+72759150,2026-08-18 18:45,Scarborough Athletic,Spennymoor Town FC,3,0,2.000,3.400,3.200,2.5,1.950,1.850
+72759152,2026-08-18 18:45,Spalding United,Macclesfield FC,0,0,2.800,3.400,2.200,2.75,1.900,1.900
+72759154,2026-08-22 14:00,AFC Telford United,Hednesford Town,1,1,2.150,3.400,2.800,2.75,1.925,1.875
+72759156,2026-08-22 14:00,Buxton FC,Hebburn Town,1,2,1.533,3.600,5.250,2.75,1.825,1.975
+72759158,2026-08-22 14:00,Chester FC,Spalding United,1,0,1.550,4.100,4.500,3,1.975,1.825
+72759160,2026-08-22 14:00,Chorley FC,Scarborough Athletic,2,1,2.450,3.400,2.450,2.5,1.925,1.875
+72759162,2026-08-22 14:00,Harborough Town FC,Darlington FC,4,2,1.700,3.800,3.750,3,1.925,1.875
+72759164,2026-08-22 14:00,King's Lynn Town,Marine FC,1,4,1.650,3.800,4.100,2.75,1.875,1.925
+72759166,2026-08-22 14:00,Macclesfield FC,Brackley Town FC,2,1,1.650,3.750,4.200,2.5,1.850,1.950
+72759168,2026-08-22 14:00,Radcliffe FC,Morecambe FC,2,1,3.200,3.600,1.950,3,2.025,1.775
+72759170,2026-08-22 14:00,South Shields,Merthyr Town,1,1,1.400,4.500,5.250,3.5,1.950,1.850
+72759172,2026-08-22 14:00,Southport FC,Bedford Town Football Club,4,1,2.100,3.400,2.900,2.75,2.000,1.800
+72759174,2026-08-22 14:00,Spennymoor Town FC,Oxford City,1,4,2.400,3.200,2.600,2.5,1.925,1.875
+72759176,2026-08-22 14:00,Worksop Town,Hereford FC,0,3,2.200,3.250,2.875,2.75,2.000,1.800
+72759186,2026-08-28 18:45,Hednesford Town,Harborough Town FC,2,1,2.200,3.400,2.700,2.75,1.800,2.000
+72759194,2026-08-28 18:45,Morecambe FC,AFC Telford United,2,1,2.050,3.500,2.900,2.75,1.800,2.000
+72759196,2026-08-28 18:45,Oxford City,Buxton FC,2,3,2.400,3.300,2.500,3,2.025,1.775
+72759178,2026-08-29 14:00,Bedford Town Football Club,Spennymoor Town FC,3,1,2.150,3.400,2.875,2.75,1.975,1.825
+72759180,2026-08-29 14:00,Brackley Town FC,South Shields,0,0,3.500,3.700,1.833,2.75,1.950,1.850
+72759182,2026-08-29 14:00,Darlington FC,Macclesfield FC,1,2,3.300,3.700,1.850,3,1.825,1.975
+72759184,2026-08-29 14:00,Hebburn Town,King's Lynn Town,4,2,2.450,3.300,2.450,2.5,1.800,2.000
+72759188,2026-08-29 14:00,Hereford FC,Chester FC,1,1,3.100,3.300,2.050,2.5,1.950,1.850
+72759190,2026-08-29 14:00,Marine FC,Radcliffe FC,2,0,2.050,3.500,3.000,2.75,1.850,1.950
+72759192,2026-08-29 14:00,Merthyr Town,Chorley FC,1,1,2.000,3.500,2.900,2.75,1.800,2.000
+72759198,2026-08-29 14:00,Scarborough Athletic,Southport FC,5,1,1.700,3.700,4.100,2.75,1.950,1.850
+72759200,2026-08-29 14:00,Spalding United,Worksop Town,3,1,2.200,3.500,2.700,2.75,1.950,1.850
+72759202,2026-08-31 14:00,AFC Telford United,Bedford Town Football Club,0,1,1.833,3.600,3.300,3,1.975,1.825
+72759204,2026-08-31 14:00,Buxton FC,Merthyr Town,2,1,1.600,4.000,4.000,3.25,1.950,1.850
+72759206,2026-08-31 14:00,Chester FC,Morecambe FC,0,1,1.666,3.800,3.900,2.75,1.825,1.975
+72759208,2026-08-31 14:00,Chorley FC,Brackley Town FC,2,2,1.950,3.200,3.400,2.5,1.900,1.900
+72759210,2026-08-31 14:00,Harborough Town FC,Marine FC,2,1,1.600,4.000,4.200,3,1.950,1.850
+72759212,2026-08-31 14:00,King's Lynn Town,Scarborough Athletic,3,1,2.550,3.200,2.450,2.5,1.825,1.975
+72759214,2026-08-31 14:00,Macclesfield FC,Hebburn Town,3,0,1.571,3.700,4.750,2.75,1.875,1.925
+72759216,2026-08-31 14:00,Radcliffe FC,Darlington FC,0,1,2.500,3.600,2.300,3,1.850,1.950
+72759218,2026-08-31 14:00,South Shields,Spalding United,1,1,1.600,4.000,4.100,3.5,1.833,1.833
+72759220,2026-08-31 14:00,Southport FC,Hereford FC,0,1,2.450,3.400,2.375,2.75,1.800,2.000
+72759222,2026-08-31 14:00,Spennymoor Town FC,Hednesford Town,1,1,2.875,3.400,2.100,2.5,1.800,2.000
+72759224,2026-08-31 14:00,Worksop Town,Oxford City,0,1,2.500,3.200,2.500,2.75,2.000,1.800
+72759226,2026-09-05 14:00,Bedford Town Football Club,Radcliffe FC,1,0,1.833,3.600,3.500,2.5,1.800,2.000
+72759228,2026-09-05 14:00,Brackley Town FC,Harborough Town FC,1,0,2.750,3.500,2.150,2.75,1.825,1.975
+72759230,2026-09-05 14:00,Darlington FC,King's Lynn Town,0,2,2.200,3.500,2.700,3,2.025,1.775
+72759232,2026-09-05 14:00,Hebburn Town,Chester FC,1,1,3.500,3.500,1.833,2.5,1.925,1.875
+72759234,2026-09-05 14:00,Hednesford Town,South Shields,0,1,2.600,3.600,2.200,2.75,1.825,1.975
+72759236,2026-09-05 14:00,Hereford FC,Spennymoor Town FC,2,1,1.750,3.600,3.750,2.75,1.925,1.875
+72759238,2026-09-05 14:00,Marine FC,Worksop Town,0,1,2.450,3.400,2.500,2.5,1.825,1.975
+72759240,2026-09-05 14:00,Merthyr Town,Macclesfield FC,2,1,2.900,3.700,2.000,3.25,2.025,1.775
+72759242,2026-09-05 14:00,Morecambe FC,Buxton FC,4,0,2.500,3.500,2.350,2.75,1.800,2.000
+72759244,2026-09-05 14:00,Oxford City,Chorley FC,4,0,1.800,3.600,3.700,2.75,1.825,1.975
+72759246,2026-09-05 14:00,Scarborough Athletic,AFC Telford United,0,1,1.850,3.600,3.400,2.75,1.800,2.000
+72759248,2026-09-05 14:00,Spalding United,Southport FC,2,0,1.750,3.700,3.700,2.75,1.975,1.825
+72759250,2026-09-08 18:45,AFC Telford United,Oxford City,1,0,2.375,3.500,2.400,3,1.925,1.875
+72759252,2026-09-08 18:45,Buxton FC,Brackley Town FC,5,0,1.571,3.800,4.333,2.75,1.850,1.950
+72759254,2026-09-08 18:45,Chester FC,Merthyr Town,0,1,1.600,3.750,4.500,3,1.900,1.900
+72759256,2026-09-08 18:45,Chorley FC,Darlington FC,5,2,2.200,3.500,2.700,3,2.000,1.800
+72759258,2026-09-08 18:45,Harborough Town FC,Hereford FC,0,3,1.850,3.600,3.250,3,2.025,1.775
+72759260,2026-09-08 18:45,King's Lynn Town,Hednesford Town,2,3,2.100,3.400,2.800,2.5,1.825,1.975
+72759262,2026-09-08 18:45,Macclesfield FC,Scarborough Athletic,0,0,1.650,3.800,4.100,2.75,1.825,1.975
+72759264,2026-09-08 18:45,Radcliffe FC,Hebburn Town,5,1,2.700,3.500,2.150,2.75,1.825,1.975
+72759266,2026-09-08 18:45,South Shields,Marine FC,2,1,1.533,4.100,4.750,3.25,2.025,1.775
+72759268,2026-09-08 18:45,Southport FC,Morecambe FC,2,1,3.200,3.300,1.950,2.25,1.850,1.950
+72759270,2026-09-08 18:45,Spennymoor Town FC,Spalding United,1,3,2.875,3.400,2.150,2.75,1.975,1.825
+72759272,2026-09-08 18:45,Worksop Town,Bedford Town Football Club,1,2,2.000,3.500,3.000,2.75,1.975,1.825
+72759274,2026-09-12 14:00,Buxton FC,Chester FC,3,1,2.375,3.400,2.500,2.5,1.800,2.000
+72759276,2026-09-12 14:00,Harborough Town FC,AFC Telford United,0,0,1.850,3.700,3.300,3,1.925,1.875
+72759278,2026-09-12 14:00,Hebburn Town,Hednesford Town,2,1,2.300,3.400,2.550,2.5,1.825,1.975
+72759280,2026-09-12 14:00,Hereford FC,South Shields,6,0,3.400,3.400,1.900,3,1.925,1.875
+72759282,2026-09-12 14:00,King's Lynn Town,Chorley FC,2,0,1.800,3.500,3.500,2.75,1.875,1.925
+72759284,2026-09-12 14:00,Marine FC,Darlington FC,2,1,2.100,3.500,2.875,3,1.950,1.850
+72759286,2026-09-12 14:00,Morecambe FC,Brackley Town FC,3,0,1.571,3.800,4.500,2.75,1.975,1.825
+72759288,2026-09-12 14:00,Radcliffe FC,Oxford City,0,3,3.000,3.600,2.000,3,2.000,1.800
+72759290,2026-09-12 14:00,Scarborough Athletic,Merthyr Town,0,0,2.000,3.600,3.000,3,1.950,1.850
+72759292,2026-09-12 14:00,Spalding United,Bedford Town Football Club,2,1,1.850,3.500,3.500,2.75,1.800,2.000
+72759294,2026-09-12 14:00,Spennymoor Town FC,Macclesfield FC,1,1,4.100,3.700,1.666,3,1.975,1.825
+72759296,2026-09-12 14:00,Worksop Town,Southport FC,2,0,1.850,3.500,3.300,2.75,1.975,1.825
+72759298,2026-09-26 14:00,AFC Telford United,King's Lynn Town,0,5,2.100,3.400,2.900,2.5,1.825,1.975
+72759300,2026-09-26 14:00,Bedford Town Football Club,Hereford FC,1,1,2.800,3.700,2.050,3,1.950,1.850
+72759302,2026-09-26 14:00,Brackley Town FC,Scarborough Athletic,1,1,2.600,3.400,2.300,2.75,1.900,1.900
+72759304,2026-09-26 14:00,Chester FC,Worksop Town,4,1,1.615,3.600,4.500,2.75,1.900,1.900
+72759306,2026-09-26 14:00,Chorley FC,Spalding United,2,1,2.625,3.500,2.250,2.75,1.925,1.875
+72759308,2026-09-26 14:00,Darlington FC,Hebburn Town,1,1,2.200,3.600,2.700,2.75,1.775,2.025
+72759310,2026-09-26 14:00,Hednesford Town,Radcliffe FC,4,1,1.600,3.800,4.500,2.75,1.800,2.000
+72759312,2026-09-26 14:00,Macclesfield FC,Harborough Town FC,1,0,1.950,3.500,3.200,3,1.925,1.875
+72759314,2026-09-26 14:00,Merthyr Town,Marine FC,1,2,1.833,3.600,3.500,2.75,1.800,2.000
+72759316,2026-09-26 14:00,Oxford City,Morecambe FC,1,1,2.100,3.400,2.875,2.75,1.975,1.825
+72759318,2026-09-26 14:00,South Shields,Buxton FC,4,0,1.850,3.800,3.200,3.25,1.975,1.825
+72759320,2026-09-26 14:00,Southport FC,Spennymoor Town FC,2,2,2.200,3.400,2.700,2.75,1.975,1.825
+74317764,2026-09-29 18:45,Brackley Town FC,South Shields,3,2,3.600,3.600,1.800,2.75,1.950,1.850
+72759322,2026-10-10 14:00,Brackley Town FC,Spennymoor Town FC,2,1,2.050,3.500,3.000,2.75,1.975,1.825
+72759324,2026-10-10 14:00,Chester FC,Bedford Town Football Club,1,0,1.380,4.333,6.000,3,2.000,1.800
+72759326,2026-10-10 14:00,Chorley FC,AFC Telford United,2,1,2.375,3.200,2.625,2.5,1.950,1.850
+72759328,2026-10-10 14:00,Darlington FC,Merthyr Town,1,1,2.400,3.600,2.350,3.25,1.975,1.825
+72759330,2026-10-10 14:00,Harborough Town FC,Southport FC,1,0,1.550,4.000,4.500,2.75,1.825,1.975
+72759332,2026-10-10 14:00,Hebburn Town,Oxford City,0,3,2.450,3.400,2.400,2.75,1.875,1.925
+72759334,2026-10-10 14:00,Hereford FC,Hednesford Town,0,1,1.909,3.400,3.300,2.75,1.800,2.000
+72759336,2026-10-10 14:00,King's Lynn Town,Buxton FC,1,0,2.625,3.700,2.200,3,1.975,1.825
+72759338,2026-10-10 14:00,Macclesfield FC,South Shields,4,3,2.000,3.700,2.900,3,1.850,1.950
+72759340,2026-10-10 14:00,Marine FC,Spalding United,1,0,2.050,3.400,3.000,2.75,2.000,1.800
+72759342,2026-10-10 14:00,Radcliffe FC,Scarborough Athletic,4,1,2.800,3.400,2.150,2.75,1.825,1.975
+72759344,2026-10-10 14:00,Worksop Town,Morecambe FC,2,1,2.600,3.400,2.300,2.75,1.950,1.850
+72759346,2026-10-17 14:00,AFC Telford United,Darlington FC,2,1,1.900,3.750,3.200,3,1.850,1.950
+72759350,2026-10-17 14:00,Buxton FC,Worksop Town,2,2,1.666,3.750,4.000,2.75,1.825,1.975
+72759352,2026-10-17 14:00,Hednesford Town,Brackley Town FC,3,2,1.750,3.600,3.700,2.5,1.800,2.000
+72759354,2026-10-17 14:00,Merthyr Town,King's Lynn Town,1,1,2.250,3.400,2.700,3,1.925,1.875
+72759364,2026-10-17 14:00,Southport FC,Radcliffe FC,0,2,2.050,3.600,2.900,3,1.900,1.900
+72759400,2026-10-17 14:00,Hebburn Town,Scarborough Athletic,0,2,2.300,3.500,2.550,2.75,1.925,1.875
+72759370,2026-10-24 14:00,AFC Telford United,Hebburn Town,2,2,1.900,3.400,3.400,2.5,1.825,1.975
+72759372,2026-10-24 14:00,Brackley Town FC,Radcliffe FC,0,1,2.200,3.300,2.750,2.75,1.850,1.950
+72759374,2026-10-24 14:00,Chorley FC,Buxton FC,2,3,2.625,3.400,2.250,2.5,1.850,1.950
+72759376,2026-10-24 14:00,Darlington FC,Spennymoor Town FC,3,0,1.900,3.600,3.300,3,1.950,1.850
+72759378,2026-10-24 14:00,Harborough Town FC,Worksop Town,1,1,1.900,3.600,3.300,3,1.975,1.825
+72759380,2026-10-24 14:00,Hednesford Town,Spalding United,2,0,2.000,3.300,3.200,2.5,1.900,1.900
+72759382,2026-10-24 14:00,King's Lynn Town,Southport FC,0,0,1.550,3.900,4.750,3,2.025,1.775
+72759384,2026-10-24 14:00,Macclesfield FC,Hereford FC,1,2,1.800,3.700,3.400,3,1.975,1.825
+72759386,2026-10-24 14:00,Marine FC,Oxford City,1,1,2.625,3.400,2.250,2.5,1.900,1.900
+72759388,2026-10-24 14:00,Merthyr Town,Morecambe FC,1,3,2.550,3.600,2.300,3,1.900,1.900
+72759390,2026-10-24 14:00,Scarborough Athletic,Bedford Town Football Club,1,2,1.750,3.700,3.700,2.75,1.900,1.900
+72759392,2026-10-24 14:00,South Shields,Chester FC,3,1,2.200,3.400,2.800,3,2.025,1.775
+72759394,2026-10-27 19:45,Bedford Town Football Club,Hednesford Town,1,0,2.900,3.500,2.100,2.75,1.800,2.000
+72759396,2026-10-27 19:45,Buxton FC,Harborough Town FC,3,0,2.250,3.400,2.600,2.75,1.800,2.000
+72759398,2026-10-27 19:45,Chester FC,Marine FC,2,1,1.550,3.800,4.750,2.75,1.900,1.900
+72759402,2026-10-27 19:45,Hereford FC,AFC Telford United,0,1,1.750,3.600,3.700,2.75,1.875,1.925
+72759404,2026-10-27 19:45,Morecambe FC,Darlington FC,1,0,1.727,3.750,3.800,3,1.850,1.950
+72759406,2026-10-27 19:45,Oxford City,Merthyr Town,3,0,1.550,4.200,4.333,3.25,1.825,1.975
+72759408,2026-10-27 19:45,Radcliffe FC,Chorley FC,0,3,2.150,3.400,2.800,2.75,1.800,2.000
+72759412,2026-10-27 19:45,Spalding United,Brackley Town FC,2,2,2.200,3.400,2.700,2.75,1.925,1.875
+72759414,2026-10-27 19:45,Spennymoor Town FC,South Shields,0,1,4.750,4.200,1.533,3.25,1.850,1.950
+72759416,2026-10-27 19:45,Worksop Town,King's Lynn Town,5,0,2.050,3.600,2.900,3,1.950,1.850
+72759418,2026-10-31 15:00,Bedford Town Football Club,Macclesfield FC,0,3,2.700,3.500,2.200,3,1.950,1.850
+72759420,2026-10-31 15:00,Buxton FC,Marine FC,4,2,1.800,3.600,3.500,2.75,1.825,1.975
+72759422,2026-10-31 15:00,Chester FC,Hednesford Town,0,1,1.850,3.600,3.400,2.5,1.825,1.975
+72759424,2026-10-31 15:00,Hebburn Town,Harborough Town FC,1,1,2.800,3.300,2.150,2.75,1.775,2.025
+72759426,2026-10-31 15:00,Hereford FC,King's Lynn Town,0,3,1.850,3.500,3.500,2.75,1.875,1.925
+72759428,2026-10-31 15:00,Morecambe FC,Scarborough Athletic,2,0,1.833,3.600,3.400,3,2.000,1.800
+72759432,2026-10-31 15:00,Oxford City,South Shields,1,3,2.200,3.600,2.625,3,1.825,1.975
+72759434,2026-10-31 15:00,Radcliffe FC,Merthyr Town,3,3,2.300,3.600,2.500,3.5,1.875,1.925
+72759436,2026-10-31 15:00,Southport FC,AFC Telford United,1,2,2.750,3.400,2.150,2.75,2.000,1.800
+72759438,2026-10-31 15:00,Spalding United,Darlington FC,3,2,2.100,3.500,2.800,2.75,1.850,1.950
+72759440,2026-10-31 15:00,Spennymoor Town FC,Chorley FC,2,0,2.600,3.500,2.300,2.5,1.825,1.975
+72759442,2026-10-31 15:00,Worksop Town,Brackley Town FC,0,1,1.727,3.600,3.900,2.75,1.850,1.950
+72759444,2026-11-07 15:00,AFC Telford United,Spalding United,2,1,1.909,3.500,3.200,2.5,1.850,1.950
+72759446,2026-11-07 15:00,Brackley Town FC,Chester FC,0,1,3.100,3.300,2.050,2.5,1.900,1.900
+72759448,2026-11-07 15:00,Chorley FC,Hereford FC,1,2,2.550,3.500,2.300,2.75,1.875,1.925
+72759454,2026-11-07 15:00,Hednesford Town,Morecambe FC,6,2,2.200,3.300,2.750,2.5,1.950,1.850
+72759456,2026-11-07 15:00,King's Lynn Town,Spennymoor Town FC,2,0,1.571,3.800,4.750,2.75,1.800,2.000
+72759462,2026-11-07 15:00,Merthyr Town,Hebburn Town,4,1,2.050,3.800,2.800,3,1.925,1.875
+72759464,2026-11-07 15:00,Scarborough Athletic,Buxton FC,2,2,2.750,3.400,2.150,2.75,1.850,1.950
+72759466,2026-11-07 15:00,South Shields,Southport FC,5,1,1.444,4.333,5.500,3.25,2.000,1.800
+75445664,2026-11-10 19:45,Scarborough Athletic,Marine FC,1,3,1.900,3.600,3.500,2.75,1.850,1.950
+75801260,2026-11-10 19:45,Morecambe FC,Hereford FC,2,2,2.100,3.500,2.875,3,2.025,1.775
+76077312,2026-11-10 19:45,Darlington FC,Oxford City,1,1,3.900,3.800,1.666,3,1.850,1.950

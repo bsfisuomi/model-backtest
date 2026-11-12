@@ -1,352 +1,352 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-60610623,2025-05-22 16:00,AS Nordia Jerusalem,Hapoel Nof Hagalil FC,2,5,,,
-61651786,2025-08-24 16:30,Hapoel Rishon Lezion FC,Bnei Yehuda Tel Aviv FC,0,0,,,
-61651790,2025-08-24 16:30,Hapoel Kfar Saba FC,Maccabi Kabilio Jaffa,2,1,,,
-61651792,2025-08-24 16:30,Hapoel Ramat Gan Givatayim FC,Hapoel Acre FC,1,1,,,
-61651788,2025-08-25 16:30,Hapoel Kfar Shalem FC,Maccabi Petah Tikva FC,0,0,,,
-61651794,2025-08-25 16:30,FC Kafr Qasim,Hapoel Hadera FC,2,2,,,
-62610510,2025-08-25 16:30,Maccabi Herzliya,Hapoel Afula FC,1,0,,,
-61651800,2025-09-01 16:00,Maccabi Kabilio Jaffa,Hapoel Ramat Gan Givatayim FC,2,4,,,
-62610512,2025-09-01 16:00,Hapoel Afula FC,Hapoel Rishon Lezion FC,0,3,,,
-63260797,2025-09-07 16:00,MS Football Hapoel Kiryat Yam,Ironi Modiin,3,2,,,
-63260799,2025-09-07 16:00,Hapoel Kfar Shalem FC,Hapoel Afula FC,2,0,,,
-63260801,2025-09-07 16:00,Hapoel Hadera FC,Hapoel Acre FC,1,2,,,
-63260803,2025-09-07 16:00,Hapoel Kfar Saba FC,Bnei Yehuda Tel Aviv FC,1,0,,,
-63260805,2025-09-08 15:30,Hapoel Rishon Lezion FC,Hapoel Ra`anana FC,1,0,,,
-63260807,2025-09-08 15:30,FC Kafr Qasim,Maccabi Kabilio Jaffa,4,2,,,
-63310899,2025-09-08 15:30,Maccabi Herzliya,Hapoel Nof Hagalil FC,4,1,,,
-61651832,2025-09-14 16:00,Maccabi Petah Tikva FC,FC Kafr Qasim,2,3,,,
-61651834,2025-09-14 16:00,Bnei Yehuda Tel Aviv FC,Hapoel Ramat Gan Givatayim FC,1,0,,,
-62610516,2025-09-14 16:00,Hapoel Afula FC,Hapoel Kfar Saba FC,1,1,,,
-61651838,2025-09-15 16:00,Hapoel Ra`anana FC,Hapoel Kfar Shalem FC,1,3,,,
-61651840,2025-09-15 16:00,Hapoel Nof Hagalil FC,Hapoel Rishon Lezion FC,0,1,,,
-61651842,2025-09-15 16:00,MS Football Hapoel Kiryat Yam,Maccabi Herzliya,0,0,,,
-63260811,2025-09-17 16:00,Hapoel Ramat Gan Givatayim FC,Maccabi Petah Tikva FC,0,3,,,
-61651854,2025-09-21 16:00,FC Kafr Qasim,Bnei Yehuda Tel Aviv FC,1,2,,,
-61651864,2025-09-29 16:00,Bnei Yehuda Tel Aviv FC,Hapoel Hadera FC,2,0,,,
-61651870,2025-09-29 16:00,Hapoel Nof Hagalil FC,Hapoel Kfar Saba FC,0,1,,,
-61651874,2025-09-29 16:00,Maccabi Herzliya,Hapoel Rishon Lezion FC,2,0,,,
-61651890,2025-10-04 17:00,Maccabi Kabilio Jaffa,Maccabi Petah Tikva FC,1,6,,,
-61651878,2025-10-05 16:00,Hapoel Kfar Shalem FC,Maccabi Herzliya,0,2,,,
-61651880,2025-10-05 16:00,Hapoel Kfar Saba FC,MS Football Hapoel Kiryat Yam,0,2,,,
-61651894,2025-10-12 16:00,Bnei Yehuda Tel Aviv FC,Maccabi Kabilio Jaffa,0,1,,,
-61651898,2025-10-12 16:00,Hapoel Ra`anana FC,Hapoel Hadera FC,0,3,,,
-61651902,2025-10-12 16:00,MS Football Hapoel Kiryat Yam,Hapoel Ramat Gan Givatayim FC,0,2,,,
-61651904,2025-10-12 16:00,Maccabi Herzliya,Hapoel Kfar Saba FC,2,2,,,
-61651892,2025-10-15 16:00,Ironi Modiin,Maccabi Petah Tikva FC,1,2,,,
-61651910,2025-10-17 13:00,Hapoel Kfar Saba FC,Hapoel Rishon Lezion FC,1,3,,,
-61651912,2025-10-17 13:00,Hapoel Ramat Gan Givatayim FC,Maccabi Herzliya,0,2,,,
-61651916,2025-10-17 13:00,Hapoel Hadera FC,Hapoel Nof Hagalil FC,0,0,,,
-61651918,2025-10-17 13:00,Hapoel Acre FC,Hapoel Ra`anana FC,0,2,,,
-61651908,2025-10-20 16:00,Hapoel Kfar Shalem FC,Ironi Modiin,3,2,,,
-61651914,2025-10-20 16:00,FC Kafr Qasim,MS Football Hapoel Kiryat Yam,1,0,,,
-61651922,2025-10-20 16:00,Maccabi Petah Tikva FC,Bnei Yehuda Tel Aviv FC,6,0,,,
-61651924,2025-10-24 13:00,Ironi Modiin,Bnei Yehuda Tel Aviv FC,3,1,,,
-61651934,2025-10-24 13:00,Maccabi Herzliya,FC Kafr Qasim,1,1,,,
-61651936,2025-10-24 13:00,Hapoel Rishon Lezion FC,Hapoel Ramat Gan Givatayim FC,4,1,,,
-61651938,2025-10-24 13:00,Hapoel Kfar Shalem FC,Hapoel Kfar Saba FC,1,3,,,
-62610528,2025-10-24 13:00,Hapoel Afula FC,Maccabi Petah Tikva FC,2,3,,,
-61651942,2025-10-31 13:00,Hapoel Ramat Gan Givatayim FC,Hapoel Kfar Shalem FC,3,1,,,
-61651944,2025-10-31 13:00,FC Kafr Qasim,Hapoel Rishon Lezion FC,3,0,,,
-61651948,2025-10-31 13:00,Hapoel Acre FC,MS Football Hapoel Kiryat Yam,0,0,,,
-62610530,2025-10-31 13:00,Bnei Yehuda Tel Aviv FC,Hapoel Afula FC,0,1,,,
-61651940,2025-11-03 17:00,Hapoel Kfar Saba FC,Ironi Modiin,2,0,,,
-61651946,2025-11-03 17:00,Hapoel Hadera FC,Maccabi Herzliya,2,2,,,
-61651952,2025-11-03 17:00,Maccabi Petah Tikva FC,Hapoel Ra`anana FC,1,0,,,
-61651972,2025-11-28 13:00,Hapoel Ramat Gan Givatayim FC,Ironi Modiin,0,1,,,
-61651974,2025-11-28 13:00,FC Kafr Qasim,Hapoel Kfar Saba FC,0,2,,,
-61651978,2025-11-28 13:00,Hapoel Acre FC,Hapoel Rishon Lezion FC,1,1,,,
-61651982,2025-11-28 13:00,Maccabi Petah Tikva FC,MS Football Hapoel Kiryat Yam,3,2,,,
-62610534,2025-11-28 13:00,Hapoel Afula FC,Hapoel Ra`anana FC,0,2,,,
-61651980,2025-12-01 17:00,Maccabi Kabilio Jaffa,Maccabi Herzliya,0,1,,,
-61651988,2025-12-08 17:00,Ironi Modiin,Hapoel Ra`anana FC,1,2,2.100,3.200,3.100
-61651994,2025-12-08 17:00,Maccabi Herzliya,Maccabi Petah Tikva FC,3,1,5.000,3.600,1.600
-61651998,2025-12-08 17:00,Hapoel Kfar Shalem FC,Hapoel Acre FC,1,2,1.900,3.400,3.500
-61652004,2025-12-12 13:00,FC Kafr Qasim,Ironi Modiin,0,0,1.950,3.300,3.300
-61652006,2025-12-12 13:00,Hapoel Hadera FC,Hapoel Ramat Gan Givatayim FC,0,1,2.700,2.900,2.500
-61652010,2025-12-12 13:00,Maccabi Kabilio Jaffa,Hapoel Kfar Shalem FC,1,3,2.100,3.250,3.000
-61652012,2025-12-12 13:00,Maccabi Petah Tikva FC,Hapoel Rishon Lezion FC,2,1,1.500,3.900,5.500
-61652018,2025-12-12 13:00,Hapoel Ra`anana FC,Hapoel Nof Hagalil FC,2,2,2.350,2.875,3.000
-61652008,2025-12-15 17:00,Hapoel Acre FC,Hapoel Kfar Saba FC,2,1,2.500,2.875,2.750
-61652014,2025-12-15 17:00,Bnei Yehuda Tel Aviv FC,Maccabi Herzliya,2,3,2.250,3.250,2.750
-64453885,2025-12-15 17:00,Hapoel Afula FC,MS Football Hapoel Kiryat Yam,2,0,4.100,3.300,1.750
-61652020,2025-12-19 13:00,Hapoel Nof Hagalil FC,Ironi Modiin,3,0,2.250,3.300,2.750
-61652022,2025-12-19 13:00,Hapoel Ra`anana FC,MS Football Hapoel Kiryat Yam,0,2,3.100,3.100,2.150
-61652026,2025-12-19 13:00,Bnei Yehuda Tel Aviv FC,Hapoel Rishon Lezion FC,1,1,2.400,3.300,2.500
-61652030,2025-12-19 13:00,Maccabi Kabilio Jaffa,Hapoel Kfar Saba FC,1,2,2.600,3.400,2.300
-62610540,2025-12-19 13:00,Hapoel Afula FC,Maccabi Herzliya,1,0,3.500,3.300,1.909
-61652028,2025-12-22 17:00,Maccabi Petah Tikva FC,Hapoel Kfar Shalem FC,2,1,1.250,5.000,8.500
-61652032,2025-12-22 17:00,Hapoel Acre FC,Hapoel Ramat Gan Givatayim FC,1,1,2.550,3.250,2.375
-61652034,2025-12-22 17:00,Hapoel Hadera FC,FC Kafr Qasim,0,0,2.100,3.250,3.000
-61652038,2026-01-02 13:00,FC Kafr Qasim,Hapoel Acre FC,1,0,2.500,2.700,2.900
-61652040,2026-01-02 13:00,Hapoel Ramat Gan Givatayim FC,Maccabi Kabilio Jaffa,1,0,2.150,3.400,2.750
-61652042,2026-01-02 13:00,Hapoel Kfar Saba FC,Maccabi Petah Tikva FC,1,4,4.100,3.250,1.800
-61652048,2026-01-02 13:00,Maccabi Herzliya,Hapoel Ra`anana FC,0,2,1.900,3.400,3.500
-62610542,2026-01-02 13:00,Hapoel Rishon Lezion FC,Hapoel Afula FC,1,1,1.666,3.400,4.500
-61652036,2026-01-05 17:00,Ironi Modiin,Hapoel Hadera FC,1,0,2.450,3.100,2.625
-61652044,2026-01-05 17:00,Hapoel Kfar Shalem FC,Bnei Yehuda Tel Aviv FC,0,3,2.500,3.300,2.400
-61652050,2026-01-05 17:00,MS Football Hapoel Kiryat Yam,Hapoel Nof Hagalil FC,2,2,1.900,3.300,3.700
-61652052,2026-01-09 13:00,Ironi Modiin,MS Football Hapoel Kiryat Yam,0,0,3.250,3.400,1.950
-61652054,2026-01-09 13:00,Hapoel Nof Hagalil FC,Maccabi Herzliya,2,1,2.900,3.200,2.150
-61652056,2026-01-09 13:00,Hapoel Ra`anana FC,Hapoel Rishon Lezion FC,2,1,3.100,3.100,2.150
-61652060,2026-01-09 13:00,Bnei Yehuda Tel Aviv FC,Hapoel Kfar Saba FC,0,0,2.250,3.250,2.700
-61652064,2026-01-09 13:00,Maccabi Kabilio Jaffa,FC Kafr Qasim,1,0,2.400,3.200,2.600
-61652062,2026-01-12 17:00,Maccabi Petah Tikva FC,Hapoel Ramat Gan Givatayim FC,2,2,1.400,4.333,6.250
-61652066,2026-01-12 17:00,Hapoel Acre FC,Hapoel Hadera FC,1,1,2.150,3.100,3.000
-67239440,2026-01-12 17:00,Hapoel Afula FC,Hapoel Kfar Shalem FC,2,2,2.700,3.200,2.300
-61652068,2026-01-16 13:00,Hapoel Acre FC,Ironi Modiin,0,0,2.050,3.200,3.200
-61652070,2026-01-16 13:00,Hapoel Hadera FC,Maccabi Kabilio Jaffa,3,2,2.450,3.300,2.500
-61652074,2026-01-16 13:00,Hapoel Ramat Gan Givatayim FC,Bnei Yehuda Tel Aviv FC,1,1,2.550,3.250,2.400
-61652080,2026-01-16 13:00,Hapoel Rishon Lezion FC,Hapoel Nof Hagalil FC,0,0,1.950,3.250,3.300
-61652082,2026-01-16 13:00,Maccabi Herzliya,MS Football Hapoel Kiryat Yam,1,3,2.500,3.200,2.550
-61652072,2026-01-19 17:00,FC Kafr Qasim,Maccabi Petah Tikva FC,0,0,5.000,4.000,1.533
-61652078,2026-01-19 17:00,Hapoel Kfar Shalem FC,Hapoel Ra`anana FC,2,1,1.727,3.600,3.900
-67239486,2026-01-19 17:00,Hapoel Kfar Saba FC,Hapoel Afula FC,3,3,1.727,3.400,4.100
-61652086,2026-01-23 13:00,MS Football Hapoel Kiryat Yam,Hapoel Rishon Lezion FC,2,0,2.150,3.400,2.800
-61652088,2026-01-23 13:00,Hapoel Nof Hagalil FC,Hapoel Kfar Shalem FC,2,2,2.600,3.100,2.450
-61652094,2026-01-23 13:00,Bnei Yehuda Tel Aviv FC,FC Kafr Qasim,1,0,1.850,3.300,3.600
-61652098,2026-01-23 13:00,Maccabi Kabilio Jaffa,Hapoel Acre FC,0,1,2.100,3.300,3.000
-62610548,2026-01-23 13:00,Hapoel Afula FC,Hapoel Ramat Gan Givatayim FC,2,1,3.500,3.250,1.950
-61652084,2026-01-26 17:00,Ironi Modiin,Maccabi Herzliya,1,2,2.800,3.400,2.150
-61652090,2026-01-26 17:00,Hapoel Ra`anana FC,Hapoel Kfar Saba FC,1,1,3.250,3.250,2.000
-61652096,2026-01-26 17:00,Maccabi Petah Tikva FC,Hapoel Hadera FC,2,0,1.333,4.333,7.500
-61652100,2026-01-30 13:00,Maccabi Kabilio Jaffa,Ironi Modiin,1,0,1.850,3.600,3.400
-61652102,2026-01-30 13:00,Hapoel Acre FC,Maccabi Petah Tikva FC,1,5,5.500,4.000,1.480
-61652104,2026-01-30 13:00,Hapoel Hadera FC,Bnei Yehuda Tel Aviv FC,0,1,3.400,3.000,2.050
-61652110,2026-01-30 13:00,Hapoel Kfar Saba FC,Hapoel Nof Hagalil FC,1,1,1.800,3.500,3.700
-62610550,2026-01-30 13:00,FC Kafr Qasim,Hapoel Afula FC,1,2,2.050,2.875,3.700
-61652108,2026-02-02 17:00,Hapoel Ramat Gan Givatayim FC,Hapoel Ra`anana FC,1,0,1.950,3.200,3.500
-61652112,2026-02-02 17:00,Hapoel Kfar Shalem FC,MS Football Hapoel Kiryat Yam,1,0,2.050,3.400,3.000
-61652114,2026-02-02 17:00,Hapoel Rishon Lezion FC,Maccabi Herzliya,3,1,2.375,3.200,2.700
-61652116,2026-02-06 13:00,Ironi Modiin,Hapoel Rishon Lezion FC,1,1,3.000,3.200,2.150
-61652118,2026-02-06 13:00,Maccabi Herzliya,Hapoel Kfar Shalem FC,2,2,2.300,3.300,2.700
-61652120,2026-02-06 13:00,MS Football Hapoel Kiryat Yam,Hapoel Kfar Saba FC,2,1,2.375,3.300,2.600
-61652122,2026-02-06 13:00,Hapoel Nof Hagalil FC,Hapoel Ramat Gan Givatayim FC,0,4,2.550,3.100,2.450
-62610552,2026-02-06 13:00,Hapoel Afula FC,Hapoel Hadera FC,0,1,2.800,3.100,2.300
-61652124,2026-02-09 17:00,Hapoel Ra`anana FC,FC Kafr Qasim,1,1,2.600,3.200,2.450
-61652128,2026-02-09 17:00,Bnei Yehuda Tel Aviv FC,Hapoel Acre FC,2,1,1.650,3.600,4.333
-61652130,2026-02-09 17:00,Maccabi Petah Tikva FC,Maccabi Kabilio Jaffa,0,0,1.181,6.250,11.000
-61652132,2026-02-13 13:00,Maccabi Petah Tikva FC,Ironi Modiin,5,1,1.222,5.000,10.000
-61652138,2026-02-13 13:00,Hapoel Hadera FC,Hapoel Ra`anana FC,0,1,2.150,3.100,3.100
-61652140,2026-02-13 13:00,FC Kafr Qasim,Hapoel Nof Hagalil FC,2,3,2.350,2.875,2.900
-61652142,2026-02-13 13:00,Hapoel Ramat Gan Givatayim FC,MS Football Hapoel Kiryat Yam,2,0,2.700,3.100,2.375
-61652146,2026-02-13 13:00,Hapoel Kfar Shalem FC,Hapoel Rishon Lezion FC,2,3,2.800,3.100,2.250
-61652134,2026-02-16 17:00,Maccabi Kabilio Jaffa,Bnei Yehuda Tel Aviv FC,4,4,3.400,3.400,1.909
-61652144,2026-02-16 17:00,Hapoel Kfar Saba FC,Maccabi Herzliya,1,2,1.950,3.250,3.300
-67872366,2026-02-16 17:00,Hapoel Acre FC,Hapoel Afula FC,0,2,2.375,3.100,2.700
-61652150,2026-02-20 13:00,Hapoel Rishon Lezion FC,Hapoel Kfar Saba FC,2,0,1.850,3.300,3.700
-61652152,2026-02-20 13:00,Maccabi Herzliya,Hapoel Ramat Gan Givatayim FC,0,0,2.450,3.250,2.500
-61652156,2026-02-20 13:00,Hapoel Nof Hagalil FC,Hapoel Hadera FC,2,2,2.375,2.900,2.900
-61652158,2026-02-20 13:00,Hapoel Ra`anana FC,Hapoel Acre FC,2,1,2.550,3.100,2.500
-62610556,2026-02-20 13:00,Hapoel Afula FC,Maccabi Kabilio Jaffa,0,5,2.800,3.200,2.250
-61652148,2026-02-23 17:00,Ironi Modiin,Hapoel Kfar Shalem FC,0,0,3.300,3.250,2.000
-61652162,2026-02-23 17:00,Bnei Yehuda Tel Aviv FC,Maccabi Petah Tikva FC,1,1,4.750,3.500,1.615
-61652154,2026-02-23 18:00,MS Football Hapoel Kiryat Yam,FC Kafr Qasim,1,1,1.950,3.100,3.600
-61652164,2026-02-27 13:00,Bnei Yehuda Tel Aviv FC,Ironi Modiin,1,0,1.571,3.500,5.250
-61652168,2026-02-27 13:00,Maccabi Kabilio Jaffa,Hapoel Ra`anana FC,1,1,1.900,3.400,3.500
-61652170,2026-02-27 13:00,Hapoel Acre FC,Hapoel Nof Hagalil FC,0,2,2.150,3.250,2.900
-61652176,2026-02-27 13:00,Hapoel Ramat Gan Givatayim FC,Hapoel Rishon Lezion FC,1,2,2.500,3.400,2.500
-62610558,2026-02-27 13:00,Maccabi Petah Tikva FC,Hapoel Afula FC,0,1,1.222,5.250,10.000
-70148810,2026-03-24 14:30,Hapoel Kfar Saba FC,Hapoel Kfar Shalem FC,2,3,2.250,3.500,2.625
-70148812,2026-03-24 14:30,Hapoel Hadera FC,MS Football Hapoel Kiryat Yam,1,4,3.250,3.100,2.000
-70148814,2026-03-24 14:30,FC Kafr Qasim,Maccabi Herzliya,0,2,2.625,3.200,2.350
-70148834,2026-03-27 12:00,Hapoel Nof Hagalil FC,Maccabi Kabilio Jaffa,0,1,2.250,3.500,2.625
-70148836,2026-03-27 12:00,Hapoel Afula FC,Bnei Yehuda Tel Aviv FC,0,1,3.800,3.300,1.833
-70148830,2026-03-30 13:30,Maccabi Herzliya,Hapoel Hadera FC,2,1,1.900,3.400,3.500
-70148832,2026-03-30 13:30,MS Football Hapoel Kiryat Yam,Hapoel Acre FC,0,0,1.727,3.600,3.900
-70148838,2026-03-30 13:30,Ironi Modiin,Hapoel Kfar Saba FC,1,0,3.500,3.500,1.850
-70148842,2026-03-30 13:30,Hapoel Rishon Lezion FC,FC Kafr Qasim,0,2,1.850,3.300,3.750
-70153948,2026-03-31 13:00,Hapoel Nof Hagalil FC,Bnei Yehuda Tel Aviv FC,1,1,3.300,3.100,2.050
-70153806,2026-04-03 12:00,Maccabi Petah Tikva FC,Hapoel Nof Hagalil FC,5,1,1.300,4.500,7.500
-70153808,2026-04-03 12:00,FC Kafr Qasim,Hapoel Kfar Shalem FC,0,3,2.550,3.100,2.500
-70153810,2026-04-03 12:00,Bnei Yehuda Tel Aviv FC,Hapoel Ra`anana FC,1,0,1.750,3.300,4.200
-70153812,2026-04-03 12:00,Hapoel Ramat Gan Givatayim FC,Hapoel Kfar Saba FC,2,1,2.000,3.400,3.100
-70153816,2026-04-03 12:00,Maccabi Kabilio Jaffa,MS Football Hapoel Kiryat Yam,2,0,2.750,3.250,2.200
-70153818,2026-04-03 12:00,Hapoel Hadera FC,Hapoel Rishon Lezion FC,1,2,3.500,3.300,1.909
-70153878,2026-04-06 14:00,Hapoel Afula FC,Ironi Modiin,0,0,2.500,3.200,2.600
-70153938,2026-04-06 14:00,Hapoel Acre FC,Maccabi Herzliya,3,1,2.800,3.100,2.300
-70148828,2026-04-07 11:00,Hapoel Kfar Shalem FC,Hapoel Ramat Gan Givatayim FC,3,1,2.200,3.500,2.750
-70148840,2026-04-07 11:00,Hapoel Ra`anana FC,Maccabi Petah Tikva FC,1,2,8.000,4.333,1.300
-70154008,2026-04-10 12:00,Hapoel Kfar Saba FC,FC Kafr Qasim,1,0,1.850,3.400,3.600
-70154010,2026-04-10 12:00,Hapoel Kfar Shalem FC,Hapoel Hadera FC,3,2,1.750,3.600,3.750
-70154070,2026-04-10 12:00,Ironi Modiin,Hapoel Ramat Gan Givatayim FC,2,3,3.300,3.300,1.909
-70154074,2026-04-10 12:00,MS Football Hapoel Kiryat Yam,Maccabi Petah Tikva FC,2,2,4.100,3.500,1.700
-70154086,2026-04-10 12:00,Maccabi Herzliya,Maccabi Kabilio Jaffa,3,1,2.150,3.400,2.750
-70154094,2026-04-10 12:00,Hapoel Ra`anana FC,Hapoel Afula FC,1,1,2.200,3.000,3.100
-70154098,2026-04-10 12:00,Hapoel Rishon Lezion FC,Hapoel Acre FC,3,1,2.050,3.250,3.100
-70151968,2026-04-14 17:30,Maccabi Petah Tikva FC,Maccabi Herzliya,1,1,1.571,4.000,4.500
-70151970,2026-04-14 17:30,Hapoel Hadera FC,Hapoel Kfar Saba FC,0,3,2.625,3.250,2.350
-70151972,2026-04-14 17:30,FC Kafr Qasim,Hapoel Ramat Gan Givatayim FC,1,3,2.500,3.100,2.600
-70151976,2026-04-14 17:30,Maccabi Kabilio Jaffa,Hapoel Rishon Lezion FC,1,1,2.875,3.400,2.100
-70151978,2026-04-14 17:30,Hapoel Acre FC,Hapoel Kfar Shalem FC,1,1,2.800,3.400,2.150
-70151984,2026-04-14 17:30,Bnei Yehuda Tel Aviv FC,MS Football Hapoel Kiryat Yam,1,3,1.750,3.600,3.900
-70151988,2026-04-14 17:30,Hapoel Afula FC,Hapoel Nof Hagalil FC,1,3,2.875,3.200,2.200
-70151990,2026-04-14 17:30,Hapoel Ra`anana FC,Ironi Modiin,1,0,2.375,3.000,2.750
-70154106,2026-04-17 12:00,Ironi Modiin,FC Kafr Qasim,0,0,1.950,3.300,3.400
-70154194,2026-04-17 12:00,Hapoel Ramat Gan Givatayim FC,Hapoel Hadera FC,3,1,1.700,3.600,4.000
-70154198,2026-04-17 12:00,Hapoel Kfar Saba FC,Hapoel Acre FC,3,2,1.909,3.250,3.600
-70154200,2026-04-17 12:00,Hapoel Kfar Shalem FC,Maccabi Kabilio Jaffa,1,4,2.300,3.700,2.450
-70154290,2026-04-17 12:00,Hapoel Rishon Lezion FC,Maccabi Petah Tikva FC,1,1,3.600,3.300,1.850
-70154378,2026-04-17 12:00,Maccabi Herzliya,Bnei Yehuda Tel Aviv FC,0,1,2.600,3.300,2.375
-70154466,2026-04-17 12:00,MS Football Hapoel Kiryat Yam,Hapoel Afula FC,1,2,1.909,3.300,3.400
-70154470,2026-04-17 12:00,Hapoel Nof Hagalil FC,Hapoel Ra`anana FC,0,0,2.800,3.000,2.300
-70929682,2026-04-24 13:00,Maccabi Petah Tikva FC,Hapoel Kfar Shalem FC,2,3,1.420,4.333,5.750
-70929738,2026-04-24 13:00,Hapoel Ra`anana FC,Hapoel Nof Hagalil FC,4,1,2.400,3.100,2.700
-70929740,2026-04-24 13:00,Maccabi Kabilio Jaffa,Hapoel Acre FC,0,0,2.000,3.300,3.200
-70929742,2026-04-24 13:00,FC Kafr Qasim,Hapoel Hadera FC,0,0,1.833,3.300,3.800
-70929744,2026-04-24 13:00,Hapoel Afula FC,Ironi Modiin,0,0,2.150,3.100,3.000
-70929684,2026-04-27 16:00,Hapoel Ramat Gan Givatayim FC,Bnei Yehuda Tel Aviv FC,1,1,2.800,3.400,2.150
-70929686,2026-04-27 16:00,Maccabi Herzliya,MS Football Hapoel Kiryat Yam,0,0,2.200,3.300,2.750
-70929688,2026-04-27 16:00,Hapoel Rishon Lezion FC,Hapoel Kfar Saba FC,0,5,1.800,3.400,3.600
-70929690,2026-04-30 15:45,Hapoel Kfar Shalem FC,Hapoel Kfar Saba FC,2,4,1.727,3.500,4.000
-70929746,2026-04-30 15:45,Hapoel Nof Hagalil FC,Hapoel Hadera FC,2,0,2.250,3.100,2.900
-70929748,2026-04-30 15:45,Hapoel Ra`anana FC,Maccabi Kabilio Jaffa,0,1,2.450,3.000,2.625
-70929750,2026-04-30 15:45,Hapoel Acre FC,Hapoel Afula FC,4,1,2.250,3.100,2.800
-70929692,2026-05-01 13:00,MS Football Hapoel Kiryat Yam,Hapoel Ramat Gan Givatayim FC,0,1,2.350,3.200,2.625
-70929694,2026-05-01 13:00,Maccabi Petah Tikva FC,Maccabi Herzliya,1,2,1.533,3.900,5.000
-70929696,2026-05-01 13:00,Bnei Yehuda Tel Aviv FC,Hapoel Rishon Lezion FC,2,2,1.850,3.500,3.600
-70929752,2026-05-01 13:00,Ironi Modiin,FC Kafr Qasim,1,1,2.400,3.100,2.625
-70929754,2026-05-04 16:00,Maccabi Kabilio Jaffa,Hapoel Nof Hagalil FC,2,0,2.050,3.250,3.100
-70929756,2026-05-04 16:00,Hapoel Afula FC,Hapoel Ra`anana FC,0,0,2.900,3.000,2.300
-70929698,2026-05-05 16:00,Hapoel Rishon Lezion FC,MS Football Hapoel Kiryat Yam,1,2,2.150,3.400,2.800
-70929700,2026-05-05 16:00,Hapoel Kfar Saba FC,Bnei Yehuda Tel Aviv FC,1,3,2.750,3.400,2.200
-70929702,2026-05-05 16:00,Maccabi Herzliya,Hapoel Kfar Shalem FC,4,2,2.300,3.600,2.500
-70929704,2026-05-05 16:00,Hapoel Ramat Gan Givatayim FC,Maccabi Petah Tikva FC,1,1,3.400,3.600,1.850
-70929758,2026-05-05 16:00,Hapoel Hadera FC,Ironi Modiin,1,0,2.550,3.100,2.500
-70929760,2026-05-05 16:00,FC Kafr Qasim,Hapoel Acre FC,1,0,2.350,3.100,2.750
-70929706,2026-05-08 13:00,Hapoel Kfar Shalem FC,Bnei Yehuda Tel Aviv FC,0,1,2.875,3.900,1.950
-70929708,2026-05-08 13:00,Maccabi Herzliya,Hapoel Ramat Gan Givatayim FC,0,3,2.450,3.400,2.450
-70929762,2026-05-08 13:00,Hapoel Acre FC,Hapoel Ra`anana FC,1,2,2.250,3.100,2.800
-70929764,2026-05-08 13:00,Ironi Modiin,Maccabi Kabilio Jaffa,4,1,3.000,3.200,2.150
-70929766,2026-05-08 13:00,Hapoel Hadera FC,Hapoel Afula FC,1,1,2.300,3.100,2.800
-70929710,2026-05-11 16:00,Maccabi Petah Tikva FC,Hapoel Rishon Lezion FC,2,0,1.533,4.200,4.333
-70929712,2026-05-11 16:00,MS Football Hapoel Kiryat Yam,Hapoel Kfar Saba FC,2,0,2.400,3.500,2.400
-70929768,2026-05-11 16:00,FC Kafr Qasim,Hapoel Nof Hagalil FC,1,1,2.250,2.900,3.100
-70929770,2026-05-14 16:00,Hapoel Hadera FC,Hapoel Ra`anana FC,3,3,2.100,3.300,3.000
-70929772,2026-05-14 16:00,Ironi Modiin,Hapoel Acre FC,0,1,2.400,3.000,2.750
-70929714,2026-05-15 13:00,Hapoel Rishon Lezion FC,Maccabi Herzliya,1,2,2.900,3.500,2.100
-70929716,2026-05-15 13:00,Hapoel Kfar Saba FC,Maccabi Petah Tikva FC,2,2,6.000,4.500,1.400
-70929718,2026-05-15 13:00,Hapoel Ramat Gan Givatayim FC,Hapoel Kfar Shalem FC,2,1,1.533,4.100,4.750
-70929720,2026-05-15 13:00,Bnei Yehuda Tel Aviv FC,MS Football Hapoel Kiryat Yam,2,0,1.750,3.500,3.900
-70929774,2026-05-15 13:00,Hapoel Afula FC,Hapoel Nof Hagalil FC,2,1,2.700,3.000,2.450
-70929776,2026-05-15 13:00,FC Kafr Qasim,Maccabi Kabilio Jaffa,2,2,2.100,3.250,3.100
-70929778,2026-05-19 16:00,Hapoel Nof Hagalil FC,Ironi Modiin,0,2,2.900,3.000,2.250
-70929780,2026-05-19 16:00,Hapoel Acre FC,Hapoel Hadera FC,0,0,1.615,3.500,4.500
-70929782,2026-05-19 16:00,Hapoel Ra`anana FC,FC Kafr Qasim,2,2,3.200,3.300,2.000
-70929784,2026-05-19 16:00,Maccabi Kabilio Jaffa,Hapoel Afula FC,4,1,1.650,3.900,4.333
-70929722,2026-05-20 15:45,Hapoel Kfar Shalem FC,MS Football Hapoel Kiryat Yam,2,1,2.450,3.600,2.350
-70929724,2026-05-20 15:45,Maccabi Petah Tikva FC,Bnei Yehuda Tel Aviv FC,2,2,1.800,3.300,3.900
-70929726,2026-05-20 15:45,Maccabi Herzliya,Hapoel Kfar Saba FC,1,1,1.420,4.333,5.500
-70929728,2026-05-20 15:45,Hapoel Ramat Gan Givatayim FC,Hapoel Rishon Lezion FC,2,1,1.571,3.800,4.500
-70929730,2026-05-25 16:00,Hapoel Rishon Lezion FC,Hapoel Kfar Shalem FC,2,6,2.375,3.750,2.375
-70929732,2026-05-25 16:00,Hapoel Kfar Saba FC,Hapoel Ramat Gan Givatayim FC,1,1,3.900,3.900,1.666
-70929734,2026-05-25 16:00,Bnei Yehuda Tel Aviv FC,Maccabi Herzliya,1,1,2.550,3.500,2.300
-70929736,2026-05-25 16:00,MS Football Hapoel Kiryat Yam,Maccabi Petah Tikva FC,0,0,2.500,3.700,2.250
-70929786,2026-05-25 16:00,Hapoel Nof Hagalil FC,Hapoel Acre FC,2,2,3.100,3.250,2.050
-70929788,2026-05-25 16:00,Hapoel Ra`anana FC,Ironi Modiin,2,0,2.375,3.000,2.750
-70929790,2026-05-25 16:00,Maccabi Kabilio Jaffa,Hapoel Hadera FC,6,1,1.600,3.900,4.200
-70929792,2026-05-25 16:00,Hapoel Afula FC,FC Kafr Qasim,0,0,3.750,1.833,3.200
-72283988,2026-08-18 16:30,Hapoel Ra`anana FC,Maccabi Achi Nazareth FC,2,0,1.950,3.400,3.300
-72283990,2026-08-18 16:30,Hapoel Afula FC,MS Ashdod,2,0,3.700,3.400,1.800
-72283992,2026-08-18 16:30,Maccabi Kabilio Jaffa,MS Football Hapoel Kiryat Yam,2,6,2.550,3.300,2.550
-72283994,2026-08-18 16:30,Maccabi Bney Reine,Bnei Yehuda Tel Aviv FC,1,4,2.550,3.300,2.350
-72283996,2026-08-18 16:30,Hapoel Kfar Shalem FC,FC Kafr Qasim,2,0,2.000,3.400,3.300
-72283998,2026-08-18 16:30,Hapoel Acre FC,Maccabi Ironi Kiryat Gat,0,2,,,
-72284000,2026-08-18 16:30,Hapoel Rishon Lezion FC,Hapoel Kfar Saba FC,2,0,2.150,3.500,2.900
-72284002,2026-08-18 16:30,Ironi Modiin,Maccabi Herzliya,0,2,3.100,3.300,2.100
-72284004,2026-08-23 16:00,Maccabi Herzliya,Hapoel Ra`anana FC,2,3,1.950,3.250,3.400
-72284006,2026-08-23 16:00,Hapoel Kfar Saba FC,Ironi Modiin,1,4,2.050,3.250,3.100
-72284010,2026-08-23 16:00,FC Kafr Qasim,Hapoel Acre FC,4,0,2.375,3.200,2.625
-72284012,2026-08-23 16:00,Bnei Yehuda Tel Aviv FC,Hapoel Kfar Shalem FC,3,1,1.571,3.900,4.500
-72284014,2026-08-23 16:00,MS Football Hapoel Kiryat Yam,Maccabi Bney Reine,0,1,1.700,3.600,4.000
-72284008,2026-08-24 16:00,Maccabi Ironi Kiryat Gat,Hapoel Rishon Lezion FC,1,2,,,
-72284016,2026-08-24 16:00,MS Ashdod,Maccabi Kabilio Jaffa,1,0,1.600,3.700,4.500
-72284018,2026-08-24 16:00,Maccabi Achi Nazareth FC,Hapoel Afula FC,0,1,2.500,3.200,2.550
-72284022,2026-08-30 16:00,Maccabi Kabilio Jaffa,Maccabi Achi Nazareth FC,1,2,1.900,3.400,3.500
-72284026,2026-08-30 16:00,Hapoel Kfar Shalem FC,MS Football Hapoel Kiryat Yam,3,2,2.400,3.500,2.450
-72284030,2026-08-30 16:00,Hapoel Rishon Lezion FC,FC Kafr Qasim,2,1,1.800,3.700,3.500
-72284032,2026-08-30 16:00,Ironi Modiin,Maccabi Ironi Kiryat Gat,1,1,,,
-72284034,2026-08-30 16:00,Maccabi Herzliya,Hapoel Kfar Saba FC,0,2,2.200,3.400,2.750
-72284020,2026-08-31 16:00,Hapoel Afula FC,Hapoel Ra`anana FC,3,2,2.600,3.100,2.500
-72284024,2026-08-31 16:00,Maccabi Bney Reine,MS Ashdod,1,2,2.750,3.200,2.250
-72284028,2026-08-31 16:00,Hapoel Acre FC,Bnei Yehuda Tel Aviv FC,0,3,4.500,3.800,1.600
-72284036,2026-09-06 16:00,Hapoel Ra`anana FC,Hapoel Kfar Saba FC,6,1,2.150,3.400,2.800
-72284044,2026-09-06 16:00,MS Football Hapoel Kiryat Yam,Hapoel Acre FC,5,0,1.571,3.800,4.500
-72284046,2026-09-06 16:00,MS Ashdod,Hapoel Kfar Shalem FC,4,0,1.700,3.600,3.900
-72284048,2026-09-06 16:00,Maccabi Achi Nazareth FC,Maccabi Bney Reine,1,2,3.300,3.250,1.950
-72284050,2026-09-06 16:00,Hapoel Afula FC,Maccabi Kabilio Jaffa,0,1,2.200,3.250,2.875
-72284038,2026-09-07 16:00,Maccabi Ironi Kiryat Gat,Maccabi Herzliya,1,1,,,
-72284040,2026-09-07 16:00,FC Kafr Qasim,Ironi Modiin,0,0,2.350,3.400,2.550
-72284042,2026-09-07 16:00,Bnei Yehuda Tel Aviv FC,Hapoel Rishon Lezion FC,0,0,1.700,3.800,3.900
-72284052,2026-09-10 16:00,Maccabi Kabilio Jaffa,Hapoel Ra`anana FC,1,3,2.500,3.600,2.300
-72284054,2026-09-10 16:00,Maccabi Bney Reine,Hapoel Afula FC,4,2,1.727,3.600,3.900
-72284056,2026-09-10 16:00,Hapoel Kfar Shalem FC,Maccabi Achi Nazareth FC,3,3,1.800,3.600,3.600
-72284060,2026-09-10 16:00,Hapoel Rishon Lezion FC,MS Football Hapoel Kiryat Yam,4,2,2.150,3.800,2.550
-72284062,2026-09-10 16:00,Ironi Modiin,Bnei Yehuda Tel Aviv FC,2,4,5.250,4.100,1.450
-72284066,2026-09-10 16:00,Hapoel Kfar Saba FC,Maccabi Ironi Kiryat Gat,2,0,,,
-73833288,2026-09-14 16:00,Hapoel Acre FC,MS Ashdod,0,4,9.000,5.000,1.250
-73833290,2026-09-14 16:00,Maccabi Herzliya,FC Kafr Qasim,1,0,1.900,3.300,3.600
-72284068,2026-09-17 16:00,Hapoel Ra`anana FC,Maccabi Ironi Kiryat Gat,0,1,,,
-72284070,2026-09-17 16:00,FC Kafr Qasim,Hapoel Kfar Saba FC,4,2,2.600,3.200,2.400
-72284072,2026-09-17 16:00,Bnei Yehuda Tel Aviv FC,Maccabi Herzliya,1,1,1.380,4.200,6.500
-72284074,2026-09-17 16:00,MS Football Hapoel Kiryat Yam,Ironi Modiin,3,2,1.600,3.800,4.333
-72284076,2026-09-17 16:00,MS Ashdod,Hapoel Rishon Lezion FC,3,2,1.850,3.800,3.250
-72284078,2026-09-17 16:00,Maccabi Achi Nazareth FC,Hapoel Acre FC,1,0,1.450,4.333,5.000
-72284080,2026-09-17 16:00,Hapoel Afula FC,Hapoel Kfar Shalem FC,3,3,2.200,3.700,2.600
-72284082,2026-09-17 16:00,Maccabi Kabilio Jaffa,Maccabi Bney Reine,0,2,3.900,3.900,1.650
-72284088,2026-09-24 16:00,Hapoel Acre FC,Hapoel Afula FC,0,3,4.000,3.700,1.700
-72284090,2026-09-24 16:00,Hapoel Rishon Lezion FC,Maccabi Achi Nazareth FC,1,0,1.533,4.000,4.750
-72284092,2026-09-24 16:00,Ironi Modiin,MS Ashdod,1,3,7.000,4.333,1.333
-72284094,2026-09-24 16:00,Maccabi Herzliya,MS Football Hapoel Kiryat Yam,1,3,2.550,3.400,2.375
-74341554,2026-09-28 16:00,Maccabi Ironi Kiryat Gat,FC Kafr Qasim,0,1,,,
-74341556,2026-09-28 16:00,Hapoel Kfar Saba FC,Bnei Yehuda Tel Aviv FC,1,2,5.000,4.100,1.480
-74341558,2026-09-28 16:00,Hapoel Kfar Shalem FC,Maccabi Kabilio Jaffa,3,1,1.750,3.900,3.400
-74341562,2026-09-28 16:45,Maccabi Bney Reine,Hapoel Ra`anana FC,1,2,2.000,3.500,3.100
-72284100,2026-10-01 16:00,Hapoel Ra`anana FC,FC Kafr Qasim,1,2,1.800,3.750,3.400
-72284102,2026-10-01 16:00,Bnei Yehuda Tel Aviv FC,Maccabi Ironi Kiryat Gat,2,1,,,
-72284104,2026-10-01 16:00,MS Football Hapoel Kiryat Yam,Hapoel Kfar Saba FC,2,0,1.650,3.900,4.000
-72284106,2026-10-01 16:00,MS Ashdod,Maccabi Herzliya,1,0,1.400,4.200,6.000
-72284108,2026-10-01 16:00,Maccabi Achi Nazareth FC,Ironi Modiin,1,2,2.150,3.400,2.800
-72284110,2026-10-01 16:00,Hapoel Afula FC,Hapoel Rishon Lezion FC,2,2,3.200,3.500,1.900
-72284112,2026-10-01 16:00,Maccabi Kabilio Jaffa,Hapoel Acre FC,1,0,1.666,3.750,3.900
-72284114,2026-10-01 16:00,Maccabi Bney Reine,Hapoel Kfar Shalem FC,1,2,1.650,4.000,3.800
-72284118,2026-10-09 13:00,Hapoel Acre FC,Maccabi Bney Reine,0,0,5.750,4.500,1.400
-72284122,2026-10-09 13:00,Ironi Modiin,Hapoel Afula FC,1,2,2.600,3.400,2.300
-72284124,2026-10-09 13:00,Maccabi Herzliya,Maccabi Achi Nazareth FC,1,2,1.833,3.500,3.600
-72284128,2026-10-09 13:00,Maccabi Ironi Kiryat Gat,MS Football Hapoel Kiryat Yam,2,2,,,
-72284130,2026-10-09 13:00,FC Kafr Qasim,Bnei Yehuda Tel Aviv FC,0,1,5.250,4.200,1.444
-74341678,2026-10-12 16:00,Hapoel Kfar Saba FC,MS Ashdod,2,4,5.250,4.100,1.450
-74341680,2026-10-12 16:00,Hapoel Kfar Shalem FC,Hapoel Ra`anana FC,2,1,2.700,3.700,2.100
-74341682,2026-10-12 16:00,Hapoel Rishon Lezion FC,Maccabi Kabilio Jaffa,3,0,1.444,4.333,5.250
-72284134,2026-10-16 13:00,MS Football Hapoel Kiryat Yam,FC Kafr Qasim,2,1,1.750,3.600,3.700
-72284136,2026-10-16 13:00,MS Ashdod,Maccabi Ironi Kiryat Gat,0,0,,,
-72284138,2026-10-16 13:00,Maccabi Achi Nazareth FC,Hapoel Kfar Saba FC,0,4,2.400,3.300,2.450
-72284140,2026-10-16 13:00,Hapoel Afula FC,Maccabi Herzliya,0,0,2.100,3.300,2.900
-72284142,2026-10-16 13:00,Maccabi Kabilio Jaffa,Ironi Modiin,0,2,2.400,3.500,2.400
-74341756,2026-10-19 16:00,Hapoel Ra`anana FC,Bnei Yehuda Tel Aviv FC,1,1,4.000,3.800,1.650
-74341758,2026-10-19 16:00,Hapoel Kfar Shalem FC,Hapoel Acre FC,4,0,1.380,4.333,6.500
-74341760,2026-10-19 16:00,Maccabi Bney Reine,Hapoel Rishon Lezion FC,1,1,2.350,3.500,2.500
-72284148,2026-10-23 13:00,Hapoel Acre FC,Hapoel Ra`anana FC,0,1,4.750,3.900,1.533
-72284150,2026-10-23 13:00,Hapoel Rishon Lezion FC,Hapoel Kfar Shalem FC,0,3,1.833,3.800,3.200
-72284152,2026-10-23 13:00,Ironi Modiin,Maccabi Bney Reine,0,6,3.400,3.600,1.833
-72284154,2026-10-23 13:00,Maccabi Herzliya,Maccabi Kabilio Jaffa,0,1,1.900,3.400,3.500
-72284156,2026-10-23 13:00,Hapoel Kfar Saba FC,Hapoel Afula FC,2,0,2.800,3.600,2.050
-72284158,2026-10-23 13:00,Maccabi Ironi Kiryat Gat,Maccabi Achi Nazareth FC,2,2,,,
-72284160,2026-10-23 13:00,FC Kafr Qasim,MS Ashdod,0,1,4.750,3.750,1.550
-72284162,2026-10-23 13:00,Bnei Yehuda Tel Aviv FC,MS Football Hapoel Kiryat Yam,5,1,1.615,3.900,4.200
-72284168,2026-10-30 13:00,Maccabi Achi Nazareth FC,FC Kafr Qasim,3,2,2.750,3.400,2.150
-72284170,2026-10-30 13:00,Hapoel Afula FC,Maccabi Ironi Kiryat Gat,1,0,2.000,3.400,3.100
-72284174,2026-10-30 13:00,Maccabi Bney Reine,Maccabi Herzliya,1,1,1.750,3.400,3.900
-72284178,2026-10-30 13:00,Hapoel Acre FC,Hapoel Rishon Lezion FC,2,2,6.000,4.000,1.420
-75660752,2026-11-02 17:00,MS Ashdod,Bnei Yehuda Tel Aviv FC,3,1,2.100,3.400,2.900
-75660754,2026-11-02 17:00,Maccabi Kabilio Jaffa,Hapoel Kfar Saba FC,0,3,2.550,3.600,2.250
-75660756,2026-11-02 17:00,Hapoel Ra`anana FC,MS Football Hapoel Kiryat Yam,3,2,2.550,3.600,2.250
-75660758,2026-11-02 17:00,Hapoel Kfar Shalem FC,Ironi Modiin,3,2,1.500,4.100,5.000
-72284180,2026-11-06 13:00,Hapoel Rishon Lezion FC,Hapoel Ra`anana FC,1,2,2.050,3.500,2.900
-72284184,2026-11-06 13:00,Maccabi Herzliya,Hapoel Kfar Shalem FC,0,1,2.700,3.400,2.250
-72284188,2026-11-06 13:00,Maccabi Ironi Kiryat Gat,Maccabi Kabilio Jaffa,2,1,1.950,3.500,3.250
-72284192,2026-11-06 13:00,Bnei Yehuda Tel Aviv FC,Maccabi Achi Nazareth FC,2,1,1.250,5.000,8.000
-72284194,2026-11-06 13:00,MS Football Hapoel Kiryat Yam,MS Ashdod,4,0,4.500,4.000,1.550
-75661174,2026-11-09 17:00,Hapoel Kfar Saba FC,Maccabi Bney Reine,1,2,2.875,3.500,2.100
-75661176,2026-11-09 17:00,FC Kafr Qasim,Hapoel Afula FC,1,3,2.500,3.250,2.400
-75661178,2026-11-09 17:00,Ironi Modiin,Hapoel Acre FC,2,2,1.950,3.500,3.400
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+60610623,2025-05-22 16:00,AS Nordia Jerusalem,Hapoel Nof Hagalil FC,2,5,,,,,,
+61651786,2025-08-24 16:30,Hapoel Rishon Lezion FC,Bnei Yehuda Tel Aviv FC,0,0,,,,,,
+61651790,2025-08-24 16:30,Hapoel Kfar Saba FC,Maccabi Kabilio Jaffa,2,1,,,,,,
+61651792,2025-08-24 16:30,Hapoel Ramat Gan Givatayim FC,Hapoel Acre FC,1,1,,,,,,
+61651788,2025-08-25 16:30,Hapoel Kfar Shalem FC,Maccabi Petah Tikva FC,0,0,,,,,,
+61651794,2025-08-25 16:30,FC Kafr Qasim,Hapoel Hadera FC,2,2,,,,,,
+62610510,2025-08-25 16:30,Maccabi Herzliya,Hapoel Afula FC,1,0,,,,,,
+61651800,2025-09-01 16:00,Maccabi Kabilio Jaffa,Hapoel Ramat Gan Givatayim FC,2,4,,,,,,
+62610512,2025-09-01 16:00,Hapoel Afula FC,Hapoel Rishon Lezion FC,0,3,,,,,,
+63260797,2025-09-07 16:00,MS Football Hapoel Kiryat Yam,Ironi Modiin,3,2,,,,,,
+63260799,2025-09-07 16:00,Hapoel Kfar Shalem FC,Hapoel Afula FC,2,0,,,,,,
+63260801,2025-09-07 16:00,Hapoel Hadera FC,Hapoel Acre FC,1,2,,,,,,
+63260803,2025-09-07 16:00,Hapoel Kfar Saba FC,Bnei Yehuda Tel Aviv FC,1,0,,,,,,
+63260805,2025-09-08 15:30,Hapoel Rishon Lezion FC,Hapoel Ra`anana FC,1,0,,,,,,
+63260807,2025-09-08 15:30,FC Kafr Qasim,Maccabi Kabilio Jaffa,4,2,,,,,,
+63310899,2025-09-08 15:30,Maccabi Herzliya,Hapoel Nof Hagalil FC,4,1,,,,,,
+61651832,2025-09-14 16:00,Maccabi Petah Tikva FC,FC Kafr Qasim,2,3,,,,,,
+61651834,2025-09-14 16:00,Bnei Yehuda Tel Aviv FC,Hapoel Ramat Gan Givatayim FC,1,0,,,,,,
+62610516,2025-09-14 16:00,Hapoel Afula FC,Hapoel Kfar Saba FC,1,1,,,,,,
+61651838,2025-09-15 16:00,Hapoel Ra`anana FC,Hapoel Kfar Shalem FC,1,3,,,,,,
+61651840,2025-09-15 16:00,Hapoel Nof Hagalil FC,Hapoel Rishon Lezion FC,0,1,,,,,,
+61651842,2025-09-15 16:00,MS Football Hapoel Kiryat Yam,Maccabi Herzliya,0,0,,,,,,
+63260811,2025-09-17 16:00,Hapoel Ramat Gan Givatayim FC,Maccabi Petah Tikva FC,0,3,,,,,,
+61651854,2025-09-21 16:00,FC Kafr Qasim,Bnei Yehuda Tel Aviv FC,1,2,,,,,,
+61651864,2025-09-29 16:00,Bnei Yehuda Tel Aviv FC,Hapoel Hadera FC,2,0,,,,,,
+61651870,2025-09-29 16:00,Hapoel Nof Hagalil FC,Hapoel Kfar Saba FC,0,1,,,,,,
+61651874,2025-09-29 16:00,Maccabi Herzliya,Hapoel Rishon Lezion FC,2,0,,,,,,
+61651890,2025-10-04 17:00,Maccabi Kabilio Jaffa,Maccabi Petah Tikva FC,1,6,,,,,,
+61651878,2025-10-05 16:00,Hapoel Kfar Shalem FC,Maccabi Herzliya,0,2,,,,,,
+61651880,2025-10-05 16:00,Hapoel Kfar Saba FC,MS Football Hapoel Kiryat Yam,0,2,,,,,,
+61651894,2025-10-12 16:00,Bnei Yehuda Tel Aviv FC,Maccabi Kabilio Jaffa,0,1,,,,,,
+61651898,2025-10-12 16:00,Hapoel Ra`anana FC,Hapoel Hadera FC,0,3,,,,,,
+61651902,2025-10-12 16:00,MS Football Hapoel Kiryat Yam,Hapoel Ramat Gan Givatayim FC,0,2,,,,,,
+61651904,2025-10-12 16:00,Maccabi Herzliya,Hapoel Kfar Saba FC,2,2,,,,,,
+61651892,2025-10-15 16:00,Ironi Modiin,Maccabi Petah Tikva FC,1,2,,,,,,
+61651910,2025-10-17 13:00,Hapoel Kfar Saba FC,Hapoel Rishon Lezion FC,1,3,,,,,,
+61651912,2025-10-17 13:00,Hapoel Ramat Gan Givatayim FC,Maccabi Herzliya,0,2,,,,,,
+61651916,2025-10-17 13:00,Hapoel Hadera FC,Hapoel Nof Hagalil FC,0,0,,,,,,
+61651918,2025-10-17 13:00,Hapoel Acre FC,Hapoel Ra`anana FC,0,2,,,,,,
+61651908,2025-10-20 16:00,Hapoel Kfar Shalem FC,Ironi Modiin,3,2,,,,,,
+61651914,2025-10-20 16:00,FC Kafr Qasim,MS Football Hapoel Kiryat Yam,1,0,,,,,,
+61651922,2025-10-20 16:00,Maccabi Petah Tikva FC,Bnei Yehuda Tel Aviv FC,6,0,,,,,,
+61651924,2025-10-24 13:00,Ironi Modiin,Bnei Yehuda Tel Aviv FC,3,1,,,,,,
+61651934,2025-10-24 13:00,Maccabi Herzliya,FC Kafr Qasim,1,1,,,,,,
+61651936,2025-10-24 13:00,Hapoel Rishon Lezion FC,Hapoel Ramat Gan Givatayim FC,4,1,,,,,,
+61651938,2025-10-24 13:00,Hapoel Kfar Shalem FC,Hapoel Kfar Saba FC,1,3,,,,,,
+62610528,2025-10-24 13:00,Hapoel Afula FC,Maccabi Petah Tikva FC,2,3,,,,,,
+61651942,2025-10-31 13:00,Hapoel Ramat Gan Givatayim FC,Hapoel Kfar Shalem FC,3,1,,,,,,
+61651944,2025-10-31 13:00,FC Kafr Qasim,Hapoel Rishon Lezion FC,3,0,,,,,,
+61651948,2025-10-31 13:00,Hapoel Acre FC,MS Football Hapoel Kiryat Yam,0,0,,,,,,
+62610530,2025-10-31 13:00,Bnei Yehuda Tel Aviv FC,Hapoel Afula FC,0,1,,,,,,
+61651940,2025-11-03 17:00,Hapoel Kfar Saba FC,Ironi Modiin,2,0,,,,,,
+61651946,2025-11-03 17:00,Hapoel Hadera FC,Maccabi Herzliya,2,2,,,,,,
+61651952,2025-11-03 17:00,Maccabi Petah Tikva FC,Hapoel Ra`anana FC,1,0,,,,,,
+61651972,2025-11-28 13:00,Hapoel Ramat Gan Givatayim FC,Ironi Modiin,0,1,,,,,,
+61651974,2025-11-28 13:00,FC Kafr Qasim,Hapoel Kfar Saba FC,0,2,,,,,,
+61651978,2025-11-28 13:00,Hapoel Acre FC,Hapoel Rishon Lezion FC,1,1,,,,,,
+61651982,2025-11-28 13:00,Maccabi Petah Tikva FC,MS Football Hapoel Kiryat Yam,3,2,,,,,,
+62610534,2025-11-28 13:00,Hapoel Afula FC,Hapoel Ra`anana FC,0,2,,,,,,
+61651980,2025-12-01 17:00,Maccabi Kabilio Jaffa,Maccabi Herzliya,0,1,,,,,,
+61651988,2025-12-08 17:00,Ironi Modiin,Hapoel Ra`anana FC,1,2,2.100,3.200,3.100,2.25,1.775,2.025
+61651994,2025-12-08 17:00,Maccabi Herzliya,Maccabi Petah Tikva FC,3,1,5.000,3.600,1.600,2.75,1.975,1.825
+61651998,2025-12-08 17:00,Hapoel Kfar Shalem FC,Hapoel Acre FC,1,2,1.900,3.400,3.500,2.5,2.000,1.800
+61652004,2025-12-12 13:00,FC Kafr Qasim,Ironi Modiin,0,0,1.950,3.300,3.300,2.25,1.775,2.025
+61652006,2025-12-12 13:00,Hapoel Hadera FC,Hapoel Ramat Gan Givatayim FC,0,1,2.700,2.900,2.500,2.5,2.025,1.775
+61652010,2025-12-12 13:00,Maccabi Kabilio Jaffa,Hapoel Kfar Shalem FC,1,3,2.100,3.250,3.000,2.75,1.800,2.000
+61652012,2025-12-12 13:00,Maccabi Petah Tikva FC,Hapoel Rishon Lezion FC,2,1,1.500,3.900,5.500,2.75,1.950,1.850
+61652018,2025-12-12 13:00,Hapoel Ra`anana FC,Hapoel Nof Hagalil FC,2,2,2.350,2.875,3.000,2.25,2.000,1.800
+61652008,2025-12-15 17:00,Hapoel Acre FC,Hapoel Kfar Saba FC,2,1,2.500,2.875,2.750,2.25,1.900,1.900
+61652014,2025-12-15 17:00,Bnei Yehuda Tel Aviv FC,Maccabi Herzliya,2,3,2.250,3.250,2.750,2.5,1.950,1.850
+64453885,2025-12-15 17:00,Hapoel Afula FC,MS Football Hapoel Kiryat Yam,2,0,4.100,3.300,1.750,2.5,1.850,1.950
+61652020,2025-12-19 13:00,Hapoel Nof Hagalil FC,Ironi Modiin,3,0,2.250,3.300,2.750,2.25,2.000,1.800
+61652022,2025-12-19 13:00,Hapoel Ra`anana FC,MS Football Hapoel Kiryat Yam,0,2,3.100,3.100,2.150,2.5,1.925,1.875
+61652026,2025-12-19 13:00,Bnei Yehuda Tel Aviv FC,Hapoel Rishon Lezion FC,1,1,2.400,3.300,2.500,2.25,1.800,2.000
+61652030,2025-12-19 13:00,Maccabi Kabilio Jaffa,Hapoel Kfar Saba FC,1,2,2.600,3.400,2.300,2.75,1.875,1.925
+62610540,2025-12-19 13:00,Hapoel Afula FC,Maccabi Herzliya,1,0,3.500,3.300,1.909,2.5,1.950,1.850
+61652028,2025-12-22 17:00,Maccabi Petah Tikva FC,Hapoel Kfar Shalem FC,2,1,1.250,5.000,8.500,3,1.825,1.975
+61652032,2025-12-22 17:00,Hapoel Acre FC,Hapoel Ramat Gan Givatayim FC,1,1,2.550,3.250,2.375,2.5,2.025,1.775
+61652034,2025-12-22 17:00,Hapoel Hadera FC,FC Kafr Qasim,0,0,2.100,3.250,3.000,2.25,1.825,1.975
+61652038,2026-01-02 13:00,FC Kafr Qasim,Hapoel Acre FC,1,0,2.500,2.700,2.900,2,1.850,1.950
+61652040,2026-01-02 13:00,Hapoel Ramat Gan Givatayim FC,Maccabi Kabilio Jaffa,1,0,2.150,3.400,2.750,2.75,1.800,2.000
+61652042,2026-01-02 13:00,Hapoel Kfar Saba FC,Maccabi Petah Tikva FC,1,4,4.100,3.250,1.800,2.5,2.000,1.800
+61652048,2026-01-02 13:00,Maccabi Herzliya,Hapoel Ra`anana FC,0,2,1.900,3.400,3.500,2.5,1.925,1.875
+62610542,2026-01-02 13:00,Hapoel Rishon Lezion FC,Hapoel Afula FC,1,1,1.666,3.400,4.500,2.5,1.850,1.950
+61652036,2026-01-05 17:00,Ironi Modiin,Hapoel Hadera FC,1,0,2.450,3.100,2.625,2.25,1.850,1.950
+61652044,2026-01-05 17:00,Hapoel Kfar Shalem FC,Bnei Yehuda Tel Aviv FC,0,3,2.500,3.300,2.400,2.5,1.900,1.900
+61652050,2026-01-05 17:00,MS Football Hapoel Kiryat Yam,Hapoel Nof Hagalil FC,2,2,1.900,3.300,3.700,2.25,1.775,2.025
+61652052,2026-01-09 13:00,Ironi Modiin,MS Football Hapoel Kiryat Yam,0,0,3.250,3.400,1.950,2.5,1.800,2.000
+61652054,2026-01-09 13:00,Hapoel Nof Hagalil FC,Maccabi Herzliya,2,1,2.900,3.200,2.150,2.5,1.825,1.975
+61652056,2026-01-09 13:00,Hapoel Ra`anana FC,Hapoel Rishon Lezion FC,2,1,3.100,3.100,2.150,2.25,1.900,1.900
+61652060,2026-01-09 13:00,Bnei Yehuda Tel Aviv FC,Hapoel Kfar Saba FC,0,0,2.250,3.250,2.700,2.5,1.900,1.900
+61652064,2026-01-09 13:00,Maccabi Kabilio Jaffa,FC Kafr Qasim,1,0,2.400,3.200,2.600,2.25,2.000,1.800
+61652062,2026-01-12 17:00,Maccabi Petah Tikva FC,Hapoel Ramat Gan Givatayim FC,2,2,1.400,4.333,6.250,3.25,1.825,1.975
+61652066,2026-01-12 17:00,Hapoel Acre FC,Hapoel Hadera FC,1,1,2.150,3.100,3.000,2.25,1.875,1.925
+67239440,2026-01-12 17:00,Hapoel Afula FC,Hapoel Kfar Shalem FC,2,2,2.700,3.200,2.300,2.5,1.925,1.875
+61652068,2026-01-16 13:00,Hapoel Acre FC,Ironi Modiin,0,0,2.050,3.200,3.200,2.25,1.800,2.000
+61652070,2026-01-16 13:00,Hapoel Hadera FC,Maccabi Kabilio Jaffa,3,2,2.450,3.300,2.500,2.5,1.950,1.850
+61652074,2026-01-16 13:00,Hapoel Ramat Gan Givatayim FC,Bnei Yehuda Tel Aviv FC,1,1,2.550,3.250,2.400,2.5,1.950,1.850
+61652080,2026-01-16 13:00,Hapoel Rishon Lezion FC,Hapoel Nof Hagalil FC,0,0,1.950,3.250,3.300,2.5,1.975,1.825
+61652082,2026-01-16 13:00,Maccabi Herzliya,MS Football Hapoel Kiryat Yam,1,3,2.500,3.200,2.550,2.5,1.975,1.825
+61652072,2026-01-19 17:00,FC Kafr Qasim,Maccabi Petah Tikva FC,0,0,5.000,4.000,1.533,2.75,1.900,1.900
+61652078,2026-01-19 17:00,Hapoel Kfar Shalem FC,Hapoel Ra`anana FC,2,1,1.727,3.600,3.900,2.5,1.800,2.000
+67239486,2026-01-19 17:00,Hapoel Kfar Saba FC,Hapoel Afula FC,3,3,1.727,3.400,4.100,2.5,1.925,1.875
+61652086,2026-01-23 13:00,MS Football Hapoel Kiryat Yam,Hapoel Rishon Lezion FC,2,0,2.150,3.400,2.800,2.5,1.975,1.825
+61652088,2026-01-23 13:00,Hapoel Nof Hagalil FC,Hapoel Kfar Shalem FC,2,2,2.600,3.100,2.450,2.25,1.825,1.975
+61652094,2026-01-23 13:00,Bnei Yehuda Tel Aviv FC,FC Kafr Qasim,1,0,1.850,3.300,3.600,2.5,2.025,1.775
+61652098,2026-01-23 13:00,Maccabi Kabilio Jaffa,Hapoel Acre FC,0,1,2.100,3.300,3.000,2.5,1.800,2.000
+62610548,2026-01-23 13:00,Hapoel Afula FC,Hapoel Ramat Gan Givatayim FC,2,1,3.500,3.250,1.950,2.5,1.950,1.850
+61652084,2026-01-26 17:00,Ironi Modiin,Maccabi Herzliya,1,2,2.800,3.400,2.150,2.5,2.000,1.800
+61652090,2026-01-26 17:00,Hapoel Ra`anana FC,Hapoel Kfar Saba FC,1,1,3.250,3.250,2.000,2.5,1.975,1.825
+61652096,2026-01-26 17:00,Maccabi Petah Tikva FC,Hapoel Hadera FC,2,0,1.333,4.333,7.500,2.75,1.800,2.000
+61652100,2026-01-30 13:00,Maccabi Kabilio Jaffa,Ironi Modiin,1,0,1.850,3.600,3.400,2.75,1.800,2.000
+61652102,2026-01-30 13:00,Hapoel Acre FC,Maccabi Petah Tikva FC,1,5,5.500,4.000,1.480,2.75,1.850,1.950
+61652104,2026-01-30 13:00,Hapoel Hadera FC,Bnei Yehuda Tel Aviv FC,0,1,3.400,3.000,2.050,2.25,1.800,2.000
+61652110,2026-01-30 13:00,Hapoel Kfar Saba FC,Hapoel Nof Hagalil FC,1,1,1.800,3.500,3.700,2.75,1.800,2.000
+62610550,2026-01-30 13:00,FC Kafr Qasim,Hapoel Afula FC,1,2,2.050,2.875,3.700,2,1.800,2.000
+61652108,2026-02-02 17:00,Hapoel Ramat Gan Givatayim FC,Hapoel Ra`anana FC,1,0,1.950,3.200,3.500,2.5,1.975,1.825
+61652112,2026-02-02 17:00,Hapoel Kfar Shalem FC,MS Football Hapoel Kiryat Yam,1,0,2.050,3.400,3.000,2.5,2.000,1.800
+61652114,2026-02-02 17:00,Hapoel Rishon Lezion FC,Maccabi Herzliya,3,1,2.375,3.200,2.700,2.5,2.000,1.800
+61652116,2026-02-06 13:00,Ironi Modiin,Hapoel Rishon Lezion FC,1,1,3.000,3.200,2.150,2.25,1.825,1.975
+61652118,2026-02-06 13:00,Maccabi Herzliya,Hapoel Kfar Shalem FC,2,2,2.300,3.300,2.700,2.5,1.925,1.875
+61652120,2026-02-06 13:00,MS Football Hapoel Kiryat Yam,Hapoel Kfar Saba FC,2,1,2.375,3.300,2.600,2.5,1.900,1.900
+61652122,2026-02-06 13:00,Hapoel Nof Hagalil FC,Hapoel Ramat Gan Givatayim FC,0,4,2.550,3.100,2.450,2.25,1.850,1.950
+62610552,2026-02-06 13:00,Hapoel Afula FC,Hapoel Hadera FC,0,1,2.800,3.100,2.300,2.25,1.900,1.900
+61652124,2026-02-09 17:00,Hapoel Ra`anana FC,FC Kafr Qasim,1,1,2.600,3.200,2.450,2,1.850,1.950
+61652128,2026-02-09 17:00,Bnei Yehuda Tel Aviv FC,Hapoel Acre FC,2,1,1.650,3.600,4.333,2.5,1.975,1.825
+61652130,2026-02-09 17:00,Maccabi Petah Tikva FC,Maccabi Kabilio Jaffa,0,0,1.181,6.250,11.000,3.25,1.850,1.950
+61652132,2026-02-13 13:00,Maccabi Petah Tikva FC,Ironi Modiin,5,1,1.222,5.000,10.000,3,1.825,1.975
+61652138,2026-02-13 13:00,Hapoel Hadera FC,Hapoel Ra`anana FC,0,1,2.150,3.100,3.100,2.25,1.975,1.825
+61652140,2026-02-13 13:00,FC Kafr Qasim,Hapoel Nof Hagalil FC,2,3,2.350,2.875,2.900,2,1.925,1.875
+61652142,2026-02-13 13:00,Hapoel Ramat Gan Givatayim FC,MS Football Hapoel Kiryat Yam,2,0,2.700,3.100,2.375,2.5,1.975,1.825
+61652146,2026-02-13 13:00,Hapoel Kfar Shalem FC,Hapoel Rishon Lezion FC,2,3,2.800,3.100,2.250,2.5,1.850,1.950
+61652134,2026-02-16 17:00,Maccabi Kabilio Jaffa,Bnei Yehuda Tel Aviv FC,4,4,3.400,3.400,1.909,2.5,1.900,1.900
+61652144,2026-02-16 17:00,Hapoel Kfar Saba FC,Maccabi Herzliya,1,2,1.950,3.250,3.300,2.5,1.900,1.900
+67872366,2026-02-16 17:00,Hapoel Acre FC,Hapoel Afula FC,0,2,2.375,3.100,2.700,2.25,1.875,1.925
+61652150,2026-02-20 13:00,Hapoel Rishon Lezion FC,Hapoel Kfar Saba FC,2,0,1.850,3.300,3.700,2.5,1.825,1.975
+61652152,2026-02-20 13:00,Maccabi Herzliya,Hapoel Ramat Gan Givatayim FC,0,0,2.450,3.250,2.500,2.5,1.825,1.975
+61652156,2026-02-20 13:00,Hapoel Nof Hagalil FC,Hapoel Hadera FC,2,2,2.375,2.900,2.900,2,1.825,1.975
+61652158,2026-02-20 13:00,Hapoel Ra`anana FC,Hapoel Acre FC,2,1,2.550,3.100,2.500,2.25,1.975,1.825
+62610556,2026-02-20 13:00,Hapoel Afula FC,Maccabi Kabilio Jaffa,0,5,2.800,3.200,2.250,2.5,1.900,1.900
+61652148,2026-02-23 17:00,Ironi Modiin,Hapoel Kfar Shalem FC,0,0,3.300,3.250,2.000,2.5,1.850,1.950
+61652162,2026-02-23 17:00,Bnei Yehuda Tel Aviv FC,Maccabi Petah Tikva FC,1,1,4.750,3.500,1.615,2.5,1.800,2.000
+61652154,2026-02-23 18:00,MS Football Hapoel Kiryat Yam,FC Kafr Qasim,1,1,1.950,3.100,3.600,2.25,1.825,1.975
+61652164,2026-02-27 13:00,Bnei Yehuda Tel Aviv FC,Ironi Modiin,1,0,1.571,3.500,5.250,2.5,1.875,1.925
+61652168,2026-02-27 13:00,Maccabi Kabilio Jaffa,Hapoel Ra`anana FC,1,1,1.900,3.400,3.500,2.5,1.900,1.900
+61652170,2026-02-27 13:00,Hapoel Acre FC,Hapoel Nof Hagalil FC,0,2,2.150,3.250,2.900,2.25,2.025,1.775
+61652176,2026-02-27 13:00,Hapoel Ramat Gan Givatayim FC,Hapoel Rishon Lezion FC,1,2,2.500,3.400,2.500,2.5,1.975,1.825
+62610558,2026-02-27 13:00,Maccabi Petah Tikva FC,Hapoel Afula FC,0,1,1.222,5.250,10.000,3,1.975,1.825
+70148810,2026-03-24 14:30,Hapoel Kfar Saba FC,Hapoel Kfar Shalem FC,2,3,2.250,3.500,2.625,2.5,1.875,1.925
+70148812,2026-03-24 14:30,Hapoel Hadera FC,MS Football Hapoel Kiryat Yam,1,4,3.250,3.100,2.000,2.25,1.850,1.950
+70148814,2026-03-24 14:30,FC Kafr Qasim,Maccabi Herzliya,0,2,2.625,3.200,2.350,2.25,1.800,2.000
+70148834,2026-03-27 12:00,Hapoel Nof Hagalil FC,Maccabi Kabilio Jaffa,0,1,2.250,3.500,2.625,2.75,1.800,2.000
+70148836,2026-03-27 12:00,Hapoel Afula FC,Bnei Yehuda Tel Aviv FC,0,1,3.800,3.300,1.833,2.5,1.900,1.900
+70148830,2026-03-30 13:30,Maccabi Herzliya,Hapoel Hadera FC,2,1,1.900,3.400,3.500,2.5,1.900,1.900
+70148832,2026-03-30 13:30,MS Football Hapoel Kiryat Yam,Hapoel Acre FC,0,0,1.727,3.600,3.900,2.5,1.925,1.875
+70148838,2026-03-30 13:30,Ironi Modiin,Hapoel Kfar Saba FC,1,0,3.500,3.500,1.850,2.5,1.950,1.850
+70148842,2026-03-30 13:30,Hapoel Rishon Lezion FC,FC Kafr Qasim,0,2,1.850,3.300,3.750,2.25,1.850,1.950
+70153948,2026-03-31 13:00,Hapoel Nof Hagalil FC,Bnei Yehuda Tel Aviv FC,1,1,3.300,3.100,2.050,2.25,1.825,1.975
+70153806,2026-04-03 12:00,Maccabi Petah Tikva FC,Hapoel Nof Hagalil FC,5,1,1.300,4.500,7.500,2.75,1.950,1.850
+70153808,2026-04-03 12:00,FC Kafr Qasim,Hapoel Kfar Shalem FC,0,3,2.550,3.100,2.500,2.25,1.925,1.875
+70153810,2026-04-03 12:00,Bnei Yehuda Tel Aviv FC,Hapoel Ra`anana FC,1,0,1.750,3.300,4.200,2.5,2.000,1.800
+70153812,2026-04-03 12:00,Hapoel Ramat Gan Givatayim FC,Hapoel Kfar Saba FC,2,1,2.000,3.400,3.100,2.5,1.825,1.975
+70153816,2026-04-03 12:00,Maccabi Kabilio Jaffa,MS Football Hapoel Kiryat Yam,2,0,2.750,3.250,2.200,2.5,1.800,2.000
+70153818,2026-04-03 12:00,Hapoel Hadera FC,Hapoel Rishon Lezion FC,1,2,3.500,3.300,1.909,2.25,1.850,1.950
+70153878,2026-04-06 14:00,Hapoel Afula FC,Ironi Modiin,0,0,2.500,3.200,2.600,2.25,1.800,2.000
+70153938,2026-04-06 14:00,Hapoel Acre FC,Maccabi Herzliya,3,1,2.800,3.100,2.300,2.5,1.975,1.825
+70148828,2026-04-07 11:00,Hapoel Kfar Shalem FC,Hapoel Ramat Gan Givatayim FC,3,1,2.200,3.500,2.750,2.5,1.975,1.825
+70148840,2026-04-07 11:00,Hapoel Ra`anana FC,Maccabi Petah Tikva FC,1,2,8.000,4.333,1.300,2.75,1.825,1.975
+70154008,2026-04-10 12:00,Hapoel Kfar Saba FC,FC Kafr Qasim,1,0,1.850,3.400,3.600,2.5,2.000,1.800
+70154010,2026-04-10 12:00,Hapoel Kfar Shalem FC,Hapoel Hadera FC,3,2,1.750,3.600,3.750,2.75,1.875,1.925
+70154070,2026-04-10 12:00,Ironi Modiin,Hapoel Ramat Gan Givatayim FC,2,3,3.300,3.300,1.909,2.5,1.925,1.875
+70154074,2026-04-10 12:00,MS Football Hapoel Kiryat Yam,Maccabi Petah Tikva FC,2,2,4.100,3.500,1.700,2.75,1.825,1.975
+70154086,2026-04-10 12:00,Maccabi Herzliya,Maccabi Kabilio Jaffa,3,1,2.150,3.400,2.750,2.5,1.950,1.850
+70154094,2026-04-10 12:00,Hapoel Ra`anana FC,Hapoel Afula FC,1,1,2.200,3.000,3.100,2.25,1.900,1.900
+70154098,2026-04-10 12:00,Hapoel Rishon Lezion FC,Hapoel Acre FC,3,1,2.050,3.250,3.100,2.5,1.875,1.925
+70151968,2026-04-14 17:30,Maccabi Petah Tikva FC,Maccabi Herzliya,1,1,1.571,4.000,4.500,2.75,1.850,1.950
+70151970,2026-04-14 17:30,Hapoel Hadera FC,Hapoel Kfar Saba FC,0,3,2.625,3.250,2.350,2.5,1.950,1.850
+70151972,2026-04-14 17:30,FC Kafr Qasim,Hapoel Ramat Gan Givatayim FC,1,3,2.500,3.100,2.600,2.25,1.800,2.000
+70151976,2026-04-14 17:30,Maccabi Kabilio Jaffa,Hapoel Rishon Lezion FC,1,1,2.875,3.400,2.100,2.75,1.850,1.950
+70151978,2026-04-14 17:30,Hapoel Acre FC,Hapoel Kfar Shalem FC,1,1,2.800,3.400,2.150,2.75,1.975,1.825
+70151984,2026-04-14 17:30,Bnei Yehuda Tel Aviv FC,MS Football Hapoel Kiryat Yam,1,3,1.750,3.600,3.900,2.5,1.850,1.950
+70151988,2026-04-14 17:30,Hapoel Afula FC,Hapoel Nof Hagalil FC,1,3,2.875,3.200,2.200,2.25,1.950,1.850
+70151990,2026-04-14 17:30,Hapoel Ra`anana FC,Ironi Modiin,1,0,2.375,3.000,2.750,2.25,1.900,1.900
+70154106,2026-04-17 12:00,Ironi Modiin,FC Kafr Qasim,0,0,1.950,3.300,3.400,2.25,1.850,1.950
+70154194,2026-04-17 12:00,Hapoel Ramat Gan Givatayim FC,Hapoel Hadera FC,3,1,1.700,3.600,4.000,2.75,1.875,1.925
+70154198,2026-04-17 12:00,Hapoel Kfar Saba FC,Hapoel Acre FC,3,2,1.909,3.250,3.600,2.5,1.925,1.875
+70154200,2026-04-17 12:00,Hapoel Kfar Shalem FC,Maccabi Kabilio Jaffa,1,4,2.300,3.700,2.450,2.75,1.900,1.900
+70154290,2026-04-17 12:00,Hapoel Rishon Lezion FC,Maccabi Petah Tikva FC,1,1,3.600,3.300,1.850,2.5,1.800,2.000
+70154378,2026-04-17 12:00,Maccabi Herzliya,Bnei Yehuda Tel Aviv FC,0,1,2.600,3.300,2.375,2.5,1.825,1.975
+70154466,2026-04-17 12:00,MS Football Hapoel Kiryat Yam,Hapoel Afula FC,1,2,1.909,3.300,3.400,2.5,1.800,2.000
+70154470,2026-04-17 12:00,Hapoel Nof Hagalil FC,Hapoel Ra`anana FC,0,0,2.800,3.000,2.300,2.25,1.850,1.950
+70929682,2026-04-24 13:00,Maccabi Petah Tikva FC,Hapoel Kfar Shalem FC,2,3,1.420,4.333,5.750,3.25,1.975,1.825
+70929738,2026-04-24 13:00,Hapoel Ra`anana FC,Hapoel Nof Hagalil FC,4,1,2.400,3.100,2.700,2.25,2.000,1.800
+70929740,2026-04-24 13:00,Maccabi Kabilio Jaffa,Hapoel Acre FC,0,0,2.000,3.300,3.200,2.75,1.950,1.850
+70929742,2026-04-24 13:00,FC Kafr Qasim,Hapoel Hadera FC,0,0,1.833,3.300,3.800,2.25,1.800,2.000
+70929744,2026-04-24 13:00,Hapoel Afula FC,Ironi Modiin,0,0,2.150,3.100,3.000,2.25,1.850,1.950
+70929684,2026-04-27 16:00,Hapoel Ramat Gan Givatayim FC,Bnei Yehuda Tel Aviv FC,1,1,2.800,3.400,2.150,2.5,1.900,1.900
+70929686,2026-04-27 16:00,Maccabi Herzliya,MS Football Hapoel Kiryat Yam,0,0,2.200,3.300,2.750,2.5,1.950,1.850
+70929688,2026-04-27 16:00,Hapoel Rishon Lezion FC,Hapoel Kfar Saba FC,0,5,1.800,3.400,3.600,2.5,2.000,1.800
+70929690,2026-04-30 15:45,Hapoel Kfar Shalem FC,Hapoel Kfar Saba FC,2,4,1.727,3.500,4.000,3,1.800,2.000
+70929746,2026-04-30 15:45,Hapoel Nof Hagalil FC,Hapoel Hadera FC,2,0,2.250,3.100,2.900,2.5,2.025,1.775
+70929748,2026-04-30 15:45,Hapoel Ra`anana FC,Maccabi Kabilio Jaffa,0,1,2.450,3.000,2.625,2.5,1.950,1.850
+70929750,2026-04-30 15:45,Hapoel Acre FC,Hapoel Afula FC,4,1,2.250,3.100,2.800,2.5,2.025,1.775
+70929692,2026-05-01 13:00,MS Football Hapoel Kiryat Yam,Hapoel Ramat Gan Givatayim FC,0,1,2.350,3.200,2.625,2.5,1.800,2.000
+70929694,2026-05-01 13:00,Maccabi Petah Tikva FC,Maccabi Herzliya,1,2,1.533,3.900,5.000,3,1.775,2.025
+70929696,2026-05-01 13:00,Bnei Yehuda Tel Aviv FC,Hapoel Rishon Lezion FC,2,2,1.850,3.500,3.600,2.5,2.000,1.800
+70929752,2026-05-01 13:00,Ironi Modiin,FC Kafr Qasim,1,1,2.400,3.100,2.625,2.5,2.000,1.800
+70929754,2026-05-04 16:00,Maccabi Kabilio Jaffa,Hapoel Nof Hagalil FC,2,0,2.050,3.250,3.100,2.5,2.000,1.800
+70929756,2026-05-04 16:00,Hapoel Afula FC,Hapoel Ra`anana FC,0,0,2.900,3.000,2.300,2.25,2.000,1.800
+70929698,2026-05-05 16:00,Hapoel Rishon Lezion FC,MS Football Hapoel Kiryat Yam,1,2,2.150,3.400,2.800,2.75,1.850,1.950
+70929700,2026-05-05 16:00,Hapoel Kfar Saba FC,Bnei Yehuda Tel Aviv FC,1,3,2.750,3.400,2.200,2.75,1.900,1.900
+70929702,2026-05-05 16:00,Maccabi Herzliya,Hapoel Kfar Shalem FC,4,2,2.300,3.600,2.500,3,2.000,1.800
+70929704,2026-05-05 16:00,Hapoel Ramat Gan Givatayim FC,Maccabi Petah Tikva FC,1,1,3.400,3.600,1.850,3,1.850,1.950
+70929758,2026-05-05 16:00,Hapoel Hadera FC,Ironi Modiin,1,0,2.550,3.100,2.500,2.25,1.775,2.025
+70929760,2026-05-05 16:00,FC Kafr Qasim,Hapoel Acre FC,1,0,2.350,3.100,2.750,2.25,1.850,1.950
+70929706,2026-05-08 13:00,Hapoel Kfar Shalem FC,Bnei Yehuda Tel Aviv FC,0,1,2.875,3.900,1.950,3,1.800,2.000
+70929708,2026-05-08 13:00,Maccabi Herzliya,Hapoel Ramat Gan Givatayim FC,0,3,2.450,3.400,2.450,2.5,1.850,1.950
+70929762,2026-05-08 13:00,Hapoel Acre FC,Hapoel Ra`anana FC,1,2,2.250,3.100,2.800,2.25,1.875,1.925
+70929764,2026-05-08 13:00,Ironi Modiin,Maccabi Kabilio Jaffa,4,1,3.000,3.200,2.150,2.25,2.000,1.800
+70929766,2026-05-08 13:00,Hapoel Hadera FC,Hapoel Afula FC,1,1,2.300,3.100,2.800,2.25,1.850,1.950
+70929710,2026-05-11 16:00,Maccabi Petah Tikva FC,Hapoel Rishon Lezion FC,2,0,1.533,4.200,4.333,3.25,1.875,1.925
+70929712,2026-05-11 16:00,MS Football Hapoel Kiryat Yam,Hapoel Kfar Saba FC,2,0,2.400,3.500,2.400,2.75,1.825,1.975
+70929768,2026-05-11 16:00,FC Kafr Qasim,Hapoel Nof Hagalil FC,1,1,2.250,2.900,3.100,2,1.850,1.950
+70929770,2026-05-14 16:00,Hapoel Hadera FC,Hapoel Ra`anana FC,3,3,2.100,3.300,3.000,2.5,1.850,1.950
+70929772,2026-05-14 16:00,Ironi Modiin,Hapoel Acre FC,0,1,2.400,3.000,2.750,2.25,1.850,1.950
+70929714,2026-05-15 13:00,Hapoel Rishon Lezion FC,Maccabi Herzliya,1,2,2.900,3.500,2.100,2.75,1.875,1.925
+70929716,2026-05-15 13:00,Hapoel Kfar Saba FC,Maccabi Petah Tikva FC,2,2,6.000,4.500,1.400,3,1.800,2.000
+70929718,2026-05-15 13:00,Hapoel Ramat Gan Givatayim FC,Hapoel Kfar Shalem FC,2,1,1.533,4.100,4.750,3.25,1.975,1.825
+70929720,2026-05-15 13:00,Bnei Yehuda Tel Aviv FC,MS Football Hapoel Kiryat Yam,2,0,1.750,3.500,3.900,2.75,1.850,1.950
+70929774,2026-05-15 13:00,Hapoel Afula FC,Hapoel Nof Hagalil FC,2,1,2.700,3.000,2.450,2.25,2.000,1.800
+70929776,2026-05-15 13:00,FC Kafr Qasim,Maccabi Kabilio Jaffa,2,2,2.100,3.250,3.100,2.5,1.925,1.875
+70929778,2026-05-19 16:00,Hapoel Nof Hagalil FC,Ironi Modiin,0,2,2.900,3.000,2.250,2.25,1.975,1.825
+70929780,2026-05-19 16:00,Hapoel Acre FC,Hapoel Hadera FC,0,0,1.615,3.500,4.500,2.75,1.950,1.850
+70929782,2026-05-19 16:00,Hapoel Ra`anana FC,FC Kafr Qasim,2,2,3.200,3.300,2.000,2.25,1.850,1.950
+70929784,2026-05-19 16:00,Maccabi Kabilio Jaffa,Hapoel Afula FC,4,1,1.650,3.900,4.333,3,1.900,1.900
+70929722,2026-05-20 15:45,Hapoel Kfar Shalem FC,MS Football Hapoel Kiryat Yam,2,1,2.450,3.600,2.350,3,1.825,1.975
+70929724,2026-05-20 15:45,Maccabi Petah Tikva FC,Bnei Yehuda Tel Aviv FC,2,2,1.800,3.300,3.900,2.5,1.825,1.975
+70929726,2026-05-20 15:45,Maccabi Herzliya,Hapoel Kfar Saba FC,1,1,1.420,4.333,5.500,3.25,2.025,1.775
+70929728,2026-05-20 15:45,Hapoel Ramat Gan Givatayim FC,Hapoel Rishon Lezion FC,2,1,1.571,3.800,4.500,3,1.975,1.825
+70929730,2026-05-25 16:00,Hapoel Rishon Lezion FC,Hapoel Kfar Shalem FC,2,6,2.375,3.750,2.375,3.25,1.825,1.975
+70929732,2026-05-25 16:00,Hapoel Kfar Saba FC,Hapoel Ramat Gan Givatayim FC,1,1,3.900,3.900,1.666,3,1.875,1.925
+70929734,2026-05-25 16:00,Bnei Yehuda Tel Aviv FC,Maccabi Herzliya,1,1,2.550,3.500,2.300,3,1.975,1.825
+70929736,2026-05-25 16:00,MS Football Hapoel Kiryat Yam,Maccabi Petah Tikva FC,0,0,2.500,3.700,2.250,3.5,2.000,1.800
+70929786,2026-05-25 16:00,Hapoel Nof Hagalil FC,Hapoel Acre FC,2,2,3.100,3.250,2.050,2.25,1.775,2.025
+70929788,2026-05-25 16:00,Hapoel Ra`anana FC,Ironi Modiin,2,0,2.375,3.000,2.750,2.25,1.950,1.850
+70929790,2026-05-25 16:00,Maccabi Kabilio Jaffa,Hapoel Hadera FC,6,1,1.600,3.900,4.200,3.25,1.825,1.975
+70929792,2026-05-25 16:00,Hapoel Afula FC,FC Kafr Qasim,0,0,3.750,1.833,3.200,,,
+72283988,2026-08-18 16:30,Hapoel Ra`anana FC,Maccabi Achi Nazareth FC,2,0,1.950,3.400,3.300,2.5,2.000,1.800
+72283990,2026-08-18 16:30,Hapoel Afula FC,MS Ashdod,2,0,3.700,3.400,1.800,2.25,1.800,2.000
+72283992,2026-08-18 16:30,Maccabi Kabilio Jaffa,MS Football Hapoel Kiryat Yam,2,6,2.550,3.300,2.550,2.5,1.850,1.950
+72283994,2026-08-18 16:30,Maccabi Bney Reine,Bnei Yehuda Tel Aviv FC,1,4,2.550,3.300,2.350,2.5,1.825,1.975
+72283996,2026-08-18 16:30,Hapoel Kfar Shalem FC,FC Kafr Qasim,2,0,2.000,3.400,3.300,2.75,1.900,1.900
+72283998,2026-08-18 16:30,Hapoel Acre FC,Maccabi Ironi Kiryat Gat,0,2,,,,,,
+72284000,2026-08-18 16:30,Hapoel Rishon Lezion FC,Hapoel Kfar Saba FC,2,0,2.150,3.500,2.900,2.75,1.900,1.900
+72284002,2026-08-18 16:30,Ironi Modiin,Maccabi Herzliya,0,2,3.100,3.300,2.100,2.5,1.975,1.825
+72284004,2026-08-23 16:00,Maccabi Herzliya,Hapoel Ra`anana FC,2,3,1.950,3.250,3.400,2.25,1.800,2.000
+72284006,2026-08-23 16:00,Hapoel Kfar Saba FC,Ironi Modiin,1,4,2.050,3.250,3.100,2.75,1.850,1.950
+72284010,2026-08-23 16:00,FC Kafr Qasim,Hapoel Acre FC,4,0,2.375,3.200,2.625,2.25,2.000,1.800
+72284012,2026-08-23 16:00,Bnei Yehuda Tel Aviv FC,Hapoel Kfar Shalem FC,3,1,1.571,3.900,4.500,3,2.025,1.775
+72284014,2026-08-23 16:00,MS Football Hapoel Kiryat Yam,Maccabi Bney Reine,0,1,1.700,3.600,4.000,2.75,1.925,1.875
+72284008,2026-08-24 16:00,Maccabi Ironi Kiryat Gat,Hapoel Rishon Lezion FC,1,2,,,,,,
+72284016,2026-08-24 16:00,MS Ashdod,Maccabi Kabilio Jaffa,1,0,1.600,3.700,4.500,2.75,1.900,1.900
+72284018,2026-08-24 16:00,Maccabi Achi Nazareth FC,Hapoel Afula FC,0,1,2.500,3.200,2.550,2.25,1.825,1.975
+72284022,2026-08-30 16:00,Maccabi Kabilio Jaffa,Maccabi Achi Nazareth FC,1,2,1.900,3.400,3.500,2.75,1.900,1.900
+72284026,2026-08-30 16:00,Hapoel Kfar Shalem FC,MS Football Hapoel Kiryat Yam,3,2,2.400,3.500,2.450,2.75,1.900,1.900
+72284030,2026-08-30 16:00,Hapoel Rishon Lezion FC,FC Kafr Qasim,2,1,1.800,3.700,3.500,3,2.000,1.800
+72284032,2026-08-30 16:00,Ironi Modiin,Maccabi Ironi Kiryat Gat,1,1,,,,,,
+72284034,2026-08-30 16:00,Maccabi Herzliya,Hapoel Kfar Saba FC,0,2,2.200,3.400,2.750,2.75,1.975,1.825
+72284020,2026-08-31 16:00,Hapoel Afula FC,Hapoel Ra`anana FC,3,2,2.600,3.100,2.500,2.25,1.950,1.850
+72284024,2026-08-31 16:00,Maccabi Bney Reine,MS Ashdod,1,2,2.750,3.200,2.250,2.25,1.850,1.950
+72284028,2026-08-31 16:00,Hapoel Acre FC,Bnei Yehuda Tel Aviv FC,0,3,4.500,3.800,1.600,2.25,1.900,1.900
+72284036,2026-09-06 16:00,Hapoel Ra`anana FC,Hapoel Kfar Saba FC,6,1,2.150,3.400,2.800,3,2.000,1.800
+72284044,2026-09-06 16:00,MS Football Hapoel Kiryat Yam,Hapoel Acre FC,5,0,1.571,3.800,4.500,2.75,2.000,1.800
+72284046,2026-09-06 16:00,MS Ashdod,Hapoel Kfar Shalem FC,4,0,1.700,3.600,3.900,2.75,1.800,2.000
+72284048,2026-09-06 16:00,Maccabi Achi Nazareth FC,Maccabi Bney Reine,1,2,3.300,3.250,1.950,2.5,2.000,1.800
+72284050,2026-09-06 16:00,Hapoel Afula FC,Maccabi Kabilio Jaffa,0,1,2.200,3.250,2.875,2.5,1.850,1.950
+72284038,2026-09-07 16:00,Maccabi Ironi Kiryat Gat,Maccabi Herzliya,1,1,,,,,,
+72284040,2026-09-07 16:00,FC Kafr Qasim,Ironi Modiin,0,0,2.350,3.400,2.550,2.5,1.900,1.900
+72284042,2026-09-07 16:00,Bnei Yehuda Tel Aviv FC,Hapoel Rishon Lezion FC,0,0,1.700,3.800,3.900,2.75,1.800,2.000
+72284052,2026-09-10 16:00,Maccabi Kabilio Jaffa,Hapoel Ra`anana FC,1,3,2.500,3.600,2.300,3.25,1.975,1.825
+72284054,2026-09-10 16:00,Maccabi Bney Reine,Hapoel Afula FC,4,2,1.727,3.600,3.900,2.75,1.925,1.875
+72284056,2026-09-10 16:00,Hapoel Kfar Shalem FC,Maccabi Achi Nazareth FC,3,3,1.800,3.600,3.600,3,1.950,1.850
+72284060,2026-09-10 16:00,Hapoel Rishon Lezion FC,MS Football Hapoel Kiryat Yam,4,2,2.150,3.800,2.550,3.5,1.925,1.875
+72284062,2026-09-10 16:00,Ironi Modiin,Bnei Yehuda Tel Aviv FC,2,4,5.250,4.100,1.450,2.75,1.825,1.975
+72284066,2026-09-10 16:00,Hapoel Kfar Saba FC,Maccabi Ironi Kiryat Gat,2,0,,,,,,
+73833288,2026-09-14 16:00,Hapoel Acre FC,MS Ashdod,0,4,9.000,5.000,1.250,3.25,1.950,1.850
+73833290,2026-09-14 16:00,Maccabi Herzliya,FC Kafr Qasim,1,0,1.900,3.300,3.600,2.5,1.950,1.850
+72284068,2026-09-17 16:00,Hapoel Ra`anana FC,Maccabi Ironi Kiryat Gat,0,1,,,,,,
+72284070,2026-09-17 16:00,FC Kafr Qasim,Hapoel Kfar Saba FC,4,2,2.600,3.200,2.400,2.5,1.875,1.925
+72284072,2026-09-17 16:00,Bnei Yehuda Tel Aviv FC,Maccabi Herzliya,1,1,1.380,4.200,6.500,3,1.975,1.825
+72284074,2026-09-17 16:00,MS Football Hapoel Kiryat Yam,Ironi Modiin,3,2,1.600,3.800,4.333,3,2.000,1.800
+72284076,2026-09-17 16:00,MS Ashdod,Hapoel Rishon Lezion FC,3,2,1.850,3.800,3.250,3,1.800,2.000
+72284078,2026-09-17 16:00,Maccabi Achi Nazareth FC,Hapoel Acre FC,1,0,1.450,4.333,5.000,3,2.000,1.800
+72284080,2026-09-17 16:00,Hapoel Afula FC,Hapoel Kfar Shalem FC,3,3,2.200,3.700,2.600,3.25,1.875,1.925
+72284082,2026-09-17 16:00,Maccabi Kabilio Jaffa,Maccabi Bney Reine,0,2,3.900,3.900,1.650,3,1.900,1.900
+72284088,2026-09-24 16:00,Hapoel Acre FC,Hapoel Afula FC,0,3,4.000,3.700,1.700,2.75,1.925,1.875
+72284090,2026-09-24 16:00,Hapoel Rishon Lezion FC,Maccabi Achi Nazareth FC,1,0,1.533,4.000,4.750,3,1.875,1.925
+72284092,2026-09-24 16:00,Ironi Modiin,MS Ashdod,1,3,7.000,4.333,1.333,3,1.900,1.900
+72284094,2026-09-24 16:00,Maccabi Herzliya,MS Football Hapoel Kiryat Yam,1,3,2.550,3.400,2.375,2.75,1.900,1.900
+74341554,2026-09-28 16:00,Maccabi Ironi Kiryat Gat,FC Kafr Qasim,0,1,,,,,,
+74341556,2026-09-28 16:00,Hapoel Kfar Saba FC,Bnei Yehuda Tel Aviv FC,1,2,5.000,4.100,1.480,3,1.775,2.025
+74341558,2026-09-28 16:00,Hapoel Kfar Shalem FC,Maccabi Kabilio Jaffa,3,1,1.750,3.900,3.400,3.25,1.800,2.000
+74341562,2026-09-28 16:45,Maccabi Bney Reine,Hapoel Ra`anana FC,1,2,2.000,3.500,3.100,3,1.975,1.825
+72284100,2026-10-01 16:00,Hapoel Ra`anana FC,FC Kafr Qasim,1,2,1.800,3.750,3.400,2.75,1.900,1.900
+72284102,2026-10-01 16:00,Bnei Yehuda Tel Aviv FC,Maccabi Ironi Kiryat Gat,2,1,,,,,,
+72284104,2026-10-01 16:00,MS Football Hapoel Kiryat Yam,Hapoel Kfar Saba FC,2,0,1.650,3.900,4.000,3.5,1.909,1.800
+72284106,2026-10-01 16:00,MS Ashdod,Maccabi Herzliya,1,0,1.400,4.200,6.000,3,2.025,1.775
+72284108,2026-10-01 16:00,Maccabi Achi Nazareth FC,Ironi Modiin,1,2,2.150,3.400,2.800,2.75,1.975,1.825
+72284110,2026-10-01 16:00,Hapoel Afula FC,Hapoel Rishon Lezion FC,2,2,3.200,3.500,1.900,3,1.975,1.825
+72284112,2026-10-01 16:00,Maccabi Kabilio Jaffa,Hapoel Acre FC,1,0,1.666,3.750,3.900,3,1.900,1.900
+72284114,2026-10-01 16:00,Maccabi Bney Reine,Hapoel Kfar Shalem FC,1,2,1.650,4.000,3.800,3.25,1.950,1.850
+72284118,2026-10-09 13:00,Hapoel Acre FC,Maccabi Bney Reine,0,0,5.750,4.500,1.400,2.75,1.850,1.950
+72284122,2026-10-09 13:00,Ironi Modiin,Hapoel Afula FC,1,2,2.600,3.400,2.300,2.75,1.975,1.825
+72284124,2026-10-09 13:00,Maccabi Herzliya,Maccabi Achi Nazareth FC,1,2,1.833,3.500,3.600,2.5,1.850,1.950
+72284128,2026-10-09 13:00,Maccabi Ironi Kiryat Gat,MS Football Hapoel Kiryat Yam,2,2,,,,,,
+72284130,2026-10-09 13:00,FC Kafr Qasim,Bnei Yehuda Tel Aviv FC,0,1,5.250,4.200,1.444,3,1.925,1.875
+74341678,2026-10-12 16:00,Hapoel Kfar Saba FC,MS Ashdod,2,4,5.250,4.100,1.450,3,1.800,2.000
+74341680,2026-10-12 16:00,Hapoel Kfar Shalem FC,Hapoel Ra`anana FC,2,1,2.700,3.700,2.100,3,1.850,1.950
+74341682,2026-10-12 16:00,Hapoel Rishon Lezion FC,Maccabi Kabilio Jaffa,3,0,1.444,4.333,5.250,3.25,2.000,1.800
+72284134,2026-10-16 13:00,MS Football Hapoel Kiryat Yam,FC Kafr Qasim,2,1,1.750,3.600,3.700,2.75,1.875,1.925
+72284136,2026-10-16 13:00,MS Ashdod,Maccabi Ironi Kiryat Gat,0,0,,,,,,
+72284138,2026-10-16 13:00,Maccabi Achi Nazareth FC,Hapoel Kfar Saba FC,0,4,2.400,3.300,2.450,2.75,1.875,1.925
+72284140,2026-10-16 13:00,Hapoel Afula FC,Maccabi Herzliya,0,0,2.100,3.300,2.900,2.75,2.000,1.800
+72284142,2026-10-16 13:00,Maccabi Kabilio Jaffa,Ironi Modiin,0,2,2.400,3.500,2.400,2.75,1.800,2.000
+74341756,2026-10-19 16:00,Hapoel Ra`anana FC,Bnei Yehuda Tel Aviv FC,1,1,4.000,3.800,1.650,2.75,1.800,2.000
+74341758,2026-10-19 16:00,Hapoel Kfar Shalem FC,Hapoel Acre FC,4,0,1.380,4.333,6.500,3.25,2.025,1.775
+74341760,2026-10-19 16:00,Maccabi Bney Reine,Hapoel Rishon Lezion FC,1,1,2.350,3.500,2.500,2.75,1.800,2.000
+72284148,2026-10-23 13:00,Hapoel Acre FC,Hapoel Ra`anana FC,0,1,4.750,3.900,1.533,2.75,1.775,2.025
+72284150,2026-10-23 13:00,Hapoel Rishon Lezion FC,Hapoel Kfar Shalem FC,0,3,1.833,3.800,3.200,3.5,1.950,1.850
+72284152,2026-10-23 13:00,Ironi Modiin,Maccabi Bney Reine,0,6,3.400,3.600,1.833,2.75,1.850,1.950
+72284154,2026-10-23 13:00,Maccabi Herzliya,Maccabi Kabilio Jaffa,0,1,1.900,3.400,3.500,2.5,1.800,2.000
+72284156,2026-10-23 13:00,Hapoel Kfar Saba FC,Hapoel Afula FC,2,0,2.800,3.600,2.050,3,1.900,1.900
+72284158,2026-10-23 13:00,Maccabi Ironi Kiryat Gat,Maccabi Achi Nazareth FC,2,2,,,,,,
+72284160,2026-10-23 13:00,FC Kafr Qasim,MS Ashdod,0,1,4.750,3.750,1.550,2.75,1.800,2.000
+72284162,2026-10-23 13:00,Bnei Yehuda Tel Aviv FC,MS Football Hapoel Kiryat Yam,5,1,1.615,3.900,4.200,3,1.800,2.000
+72284168,2026-10-30 13:00,Maccabi Achi Nazareth FC,FC Kafr Qasim,3,2,2.750,3.400,2.150,2.75,1.950,1.850
+72284170,2026-10-30 13:00,Hapoel Afula FC,Maccabi Ironi Kiryat Gat,1,0,2.000,3.400,3.100,2.75,1.975,1.825
+72284174,2026-10-30 13:00,Maccabi Bney Reine,Maccabi Herzliya,1,1,1.750,3.400,3.900,2.5,1.925,1.875
+72284178,2026-10-30 13:00,Hapoel Acre FC,Hapoel Rishon Lezion FC,2,2,6.000,4.000,1.420,2.75,1.825,1.975
+75660752,2026-11-02 17:00,MS Ashdod,Bnei Yehuda Tel Aviv FC,3,1,2.100,3.400,2.900,2.75,1.900,1.900
+75660754,2026-11-02 17:00,Maccabi Kabilio Jaffa,Hapoel Kfar Saba FC,0,3,2.550,3.600,2.250,3,2.000,1.800
+75660756,2026-11-02 17:00,Hapoel Ra`anana FC,MS Football Hapoel Kiryat Yam,3,2,2.550,3.600,2.250,3,1.950,1.850
+75660758,2026-11-02 17:00,Hapoel Kfar Shalem FC,Ironi Modiin,3,2,1.500,4.100,5.000,3.25,1.950,1.850
+72284180,2026-11-06 13:00,Hapoel Rishon Lezion FC,Hapoel Ra`anana FC,1,2,2.050,3.500,2.900,3,1.950,1.850
+72284184,2026-11-06 13:00,Maccabi Herzliya,Hapoel Kfar Shalem FC,0,1,2.700,3.400,2.250,2.75,1.800,2.000
+72284188,2026-11-06 13:00,Maccabi Ironi Kiryat Gat,Maccabi Kabilio Jaffa,2,1,1.950,3.500,3.250,2.75,1.800,2.000
+72284192,2026-11-06 13:00,Bnei Yehuda Tel Aviv FC,Maccabi Achi Nazareth FC,2,1,1.250,5.000,8.000,3.25,1.925,1.875
+72284194,2026-11-06 13:00,MS Football Hapoel Kiryat Yam,MS Ashdod,4,0,4.500,4.000,1.550,3.25,2.025,1.775
+75661174,2026-11-09 17:00,Hapoel Kfar Saba FC,Maccabi Bney Reine,1,2,2.875,3.500,2.100,2.75,1.825,1.975
+75661176,2026-11-09 17:00,FC Kafr Qasim,Hapoel Afula FC,1,3,2.500,3.250,2.400,2.5,1.850,1.950
+75661178,2026-11-09 17:00,Ironi Modiin,Hapoel Acre FC,2,2,1.950,3.500,3.400,2.5,1.825,1.975

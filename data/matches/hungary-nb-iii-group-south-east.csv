@@ -1,121 +1,121 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-72879782,2026-07-25 14:00,Szegedi Vasutas SE,Vasas SC II,1,1,3.600,3.800,1.727
-72879738,2026-07-25 15:30,III Keruleti Tve,Csepel SC,2,0,1.615,3.800,4.200
-72879740,2026-07-25 15:30,Gyulai FC,Hodmezovasarhelyi FC,3,0,1.222,5.500,9.000
-72879778,2026-07-25 15:30,Szolnoki MAV FC,Sandorfalvi Ske,5,2,,,
-72879742,2026-07-26 09:00,Ujpest FC II,BKV Elore,6,0,1.800,3.700,3.500
-72879780,2026-07-26 09:00,Budapest Honved MFA,Bekescsaba 1912 Elore,0,0,,,
-72879736,2026-07-26 15:30,Esmtk Budapest,Monori SE,2,1,1.615,3.750,4.333
-72879784,2026-07-26 15:30,Dabas FC,Szeged-Csanad Grosics Akademia II,1,4,1.700,3.750,3.800
-72879808,2026-08-08 08:00,Ujpest FC II,Bekescsaba 1912 Elore,2,2,2.350,3.300,2.550
-72879814,2026-08-08 14:00,Szegedi Vasutas SE,Dabas FC,1,2,,,
-72879806,2026-08-08 15:30,Gyulai FC,Sandorfalvi Ske,7,0,1.363,4.500,6.500
-72879810,2026-08-08 15:30,Szolnoki MAV FC,Vasas SC II,2,2,,,
-72879816,2026-08-08 15:30,Monori SE,Csepel SC,0,0,1.650,3.800,4.000
-72879812,2026-08-09 09:00,Budapest Honved MFA,Szeged-Csanad Grosics Akademia II,2,3,2.500,3.600,2.300
-72879802,2026-08-09 15:30,Esmtk Budapest,Hodmezovasarhelyi FC,1,2,1.166,7.000,11.000
-72879804,2026-08-09 15:30,III Keruleti Tve,BKV Elore,2,0,,,
-73412962,2026-08-12 15:00,Eger SE,Tiszafured Vse,1,0,2.800,3.700,2.050
-73413018,2026-08-12 15:30,Debreceni Eac,Tarpa SC,4,0,1.480,3.750,6.000
-73413024,2026-08-12 15:30,Mateszalka MTK,Godolloi SK,4,0,,,
-73413026,2026-08-12 15:30,Fuzesabony SC,Nyiregyhaza Spartacus FC II,1,0,3.000,3.500,2.000
-73413028,2026-08-12 15:30,Salgotarjani BTC,Tiszaujvaros,1,0,,,
-73413100,2026-08-12 15:30,Hajdunanas FK,Kisvarda FC II,2,3,4.500,4.100,1.550
-73413106,2026-08-12 15:30,Csepel SC,Esmtk Budapest,2,1,4.000,3.750,1.666
-73413108,2026-08-12 15:30,Szeged-Csanad Grosics Akademia II,Szegedi Vasutas SE,2,1,,,
-73413110,2026-08-12 15:30,Sandorfalvi Ske,Ujpest FC II,1,0,,,
-73413112,2026-08-12 15:30,Bekescsaba 1912 Elore,Szolnoki MAV FC,0,2,,,
-73413170,2026-08-12 15:30,Hodmezovasarhelyi FC,III Keruleti Tve,0,3,,,
-73413438,2026-08-12 15:30,Monori SE,Dabas FC,2,3,1.700,3.750,4.000
-73413502,2026-08-12 15:30,Paksi FC II,Ferencvarosi TC II,2,2,,,
-73413504,2026-08-12 15:30,Sarbogard SE,Pecsi MFC,0,6,,,
-73413540,2026-08-12 15:30,Budafoki Mte,Pte Peac,2,0,1.480,4.333,4.750
-73413668,2026-08-12 15:30,BFC Siofok,MTK Budapest II,2,1,3.800,3.900,1.650
-73413670,2026-08-12 15:30,Dunaharaszti MTK,Majosi SE,2,1,2.300,3.600,2.500
-73413728,2026-08-12 15:30,Sarisapi BSE,Szombathelyi Mav Haladas VSE,1,2,1.333,4.750,6.500
-73413764,2026-08-12 15:30,FC Tatabanya,Bicskei Tc,3,1,1.363,4.500,6.250
-73414092,2026-08-12 15:30,Kiraly SE,Dorogi FC,0,0,3.300,3.700,1.850
-73414150,2026-08-12 15:30,Papai Perutz FC,Veszprem FC,1,1,3.400,3.700,1.833
-73414152,2026-08-12 15:30,SC Sopron,ETO Akademia,1,0,1.800,3.900,3.250
-73414372,2026-08-12 15:30,Balatonalmadi SE,Mosonmagyarovari TE,0,1,,,
-73414374,2026-08-12 15:30,Puskas Akademia FC II,Komarom Vse,1,2,2.600,3.600,2.150
-73414376,2026-08-12 15:30,1908 Szac Budapest,Zalaegerszeg TE II,0,1,1.700,4.333,3.500
-73458038,2026-08-12 15:30,Ozd-Sajovolgye,Cigand SE,0,2,,,
-73458040,2026-08-12 15:30,BKV Elore,Gyulai FC,2,4,11.000,5.750,1.200
-73458042,2026-08-12 15:30,Szekszardi UFC,Kaposvari Rakoczi FC,0,3,,,
-72879818,2026-08-15 14:00,Szegedi Vasutas SE,Monori SE,2,3,,,
-72879826,2026-08-15 15:00,Bekescsaba 1912 Elore,Gyulai FC,0,2,,,
-72879828,2026-08-15 15:30,Sandorfalvi Ske,III Keruleti Tve,0,3,,,
-72879832,2026-08-15 15:30,Hodmezovasarhelyi FC,Csepel SC,1,1,,,
-72879822,2026-08-16 09:00,Szeged-Csanad Grosics Akademia II,Szolnoki MAV FC,5,0,,,
-72879824,2026-08-16 09:00,Vasas SC II,Ujpest FC II,3,5,2.000,3.700,2.875
-72879820,2026-08-16 15:30,Dabas FC,Budapest Honved MFA,3,1,,,
-72879830,2026-08-16 15:30,BKV Elore,Esmtk Budapest,0,3,6.250,5.750,1.300
-73558486,2026-08-19 09:00,Vasas SC II,Budapest Honved MFA,3,0,1.600,4.200,4.000
-72879840,2026-08-26 09:00,Ujpest FC II,Szeged-Csanad Grosics Akademia II,2,2,1.950,3.600,3.000
-72879838,2026-08-26 15:00,Gyulai FC,Vasas SC II,1,0,,,
-72879834,2026-08-26 15:30,Esmtk Budapest,Sandorfalvi Ske,3,0,1.181,6.250,11.000
-72879836,2026-08-26 15:30,III Keruleti Tve,Bekescsaba 1912 Elore,2,0,1.450,4.000,5.500
-72879842,2026-08-26 15:30,Szolnoki MAV FC,Dabas FC,2,2,,,
-72879844,2026-08-26 15:30,Budapest Honved MFA,Szegedi Vasutas SE,8,1,,,
-72879846,2026-08-26 15:30,Csepel SC,BKV Elore,9,1,1.533,4.100,4.500
-72879848,2026-08-26 15:30,Monori SE,Hodmezovasarhelyi FC,4,1,1.500,4.100,4.750
-72879852,2026-08-29 14:00,Szegedi Vasutas SE,Szolnoki MAV FC,3,3,2.800,3.700,2.050
-72879860,2026-08-29 15:00,Bekescsaba 1912 Elore,Esmtk Budapest,3,3,,,
-72879862,2026-08-29 15:30,Sandorfalvi Ske,Csepel SC,1,5,,,
-72879850,2026-08-30 09:00,Budapest Honved MFA,Monori SE,1,1,,,
-72879858,2026-08-30 09:00,Vasas SC II,III Keruleti Tve,3,0,2.550,3.500,2.250
-72880130,2026-08-30 09:00,Gyulai FC,Szeged-Csanad Grosics Akademia II,4,0,4.500,4.200,1.533
-72879854,2026-08-30 15:30,Dabas FC,Ujpest FC II,1,2,2.700,3.600,2.100
-72879864,2026-08-30 15:30,BKV Elore,Hodmezovasarhelyi FC,2,2,,,
-72879868,2026-09-05 14:00,III Keruleti Tve,Szeged-Csanad Grosics Akademia II,1,0,1.480,4.100,5.000
-72879870,2026-09-05 14:00,Gyulai FC,Dabas FC,5,0,1.222,5.500,9.500
-72879874,2026-09-05 14:00,Szolnoki MAV FC,Budapest Honved MFA,1,0,,,
-72879876,2026-09-05 14:00,Hodmezovasarhelyi FC,Sandorfalvi Ske,3,1,,,
-72879878,2026-09-05 14:00,Csepel SC,Bekescsaba 1912 Elore,2,2,1.550,4.333,4.200
-72879880,2026-09-05 14:00,Monori SE,BKV Elore,3,1,1.222,6.500,8.500
-72879872,2026-09-06 09:00,Ujpest FC II,Szegedi Vasutas SE,6,1,1.333,4.750,6.500
-72879866,2026-09-06 14:00,Esmtk Budapest,Vasas SC II,2,0,1.833,3.700,3.400
-72879928,2026-09-19 13:00,Bekescsaba 1912 Elore,Hodmezovasarhelyi FC,3,1,2.000,3.600,3.000
-72879882,2026-09-19 14:00,Szolnoki MAV FC,Monori SE,4,4,,,
-72879886,2026-09-19 14:00,Szegedi Vasutas SE,Gyulai FC,1,4,,,
-72879930,2026-09-19 14:00,Sandorfalvi Ske,BKV Elore,0,1,,,
-72879884,2026-09-20 09:00,Budapest Honved MFA,Ujpest FC II,3,0,3.400,3.800,1.800
-72879892,2026-09-20 09:00,Vasas SC II,Csepel SC,6,0,1.727,3.800,3.600
-72879888,2026-09-20 14:00,Dabas FC,III Keruleti Tve,0,1,3.900,4.000,1.615
-72879890,2026-09-20 14:00,Szeged-Csanad Grosics Akademia II,Esmtk Budapest,1,1,,,
-72879936,2026-09-26 09:00,Gyulai FC,Budapest Honved MFA,3,2,,,
-72879938,2026-09-26 09:00,Ujpest FC II,Szolnoki MAV FC,2,1,1.833,4.000,3.200
-72879942,2026-09-26 09:00,Hodmezovasarhelyi FC,Vasas SC II,0,2,,,
-72879934,2026-09-26 14:00,III Keruleti Tve,Szegedi Vasutas SE,1,0,1.166,7.500,11.000
-72879944,2026-09-26 14:00,Csepel SC,Szeged-Csanad Grosics Akademia II,1,1,1.950,3.600,3.000
-72879932,2026-09-27 14:00,Esmtk Budapest,Dabas FC,6,0,1.222,5.250,9.000
-72879940,2026-09-27 14:00,BKV Elore,Bekescsaba 1912 Elore,0,4,3.900,4.000,1.650
-72879948,2026-10-03 09:00,Ujpest FC II,Monori SE,2,2,2.050,3.700,2.800
-72879960,2026-10-03 09:00,Vasas SC II,BKV Elore,3,0,1.166,7.500,11.000
-72879950,2026-10-03 11:00,Szolnoki MAV FC,Gyulai FC,3,4,,,
-72879954,2026-10-03 11:00,Szegedi Vasutas SE,Esmtk Budapest,1,4,13.000,8.000,1.125
-72879962,2026-10-03 11:00,Bekescsaba 1912 Elore,Sandorfalvi Ske,0,1,,,
-72879952,2026-10-04 09:00,Budapest Honved MFA,III Keruleti Tve,1,0,,,
-72879956,2026-10-04 11:00,Dabas FC,Csepel SC,1,0,2.350,3.900,2.300
-72879958,2026-10-04 12:00,Szeged-Csanad Grosics Akademia II,Hodmezovasarhelyi FC,1,1,,,
-72879968,2026-10-10 09:00,Gyulai FC,Ujpest FC II,2,1,1.380,4.750,5.500
-72879966,2026-10-10 11:00,III Keruleti Tve,Szolnoki MAV FC,1,1,1.400,4.333,5.750
-72879970,2026-10-10 11:00,Sandorfalvi Ske,Vasas SC II,1,0,,,
-72879974,2026-10-10 11:00,Hodmezovasarhelyi FC,Dabas FC,1,1,,,
-72879976,2026-10-10 11:00,Csepel SC,Szegedi Vasutas SE,1,1,1.400,5.250,5.000
-72879978,2026-10-10 11:00,Monori SE,Bekescsaba 1912 Elore,0,2,1.833,4.000,3.100
-72879964,2026-10-11 11:00,Esmtk Budapest,Budapest Honved MFA,3,0,,,
-72879972,2026-10-11 11:00,BKV Elore,Szeged-Csanad Grosics Akademia II,1,1,4.500,4.200,1.500
-72879994,2026-10-17 10:00,Vasas SC II,Bekescsaba 1912 Elore,2,2,1.727,3.800,3.600
-72879992,2026-10-18 11:00,Szeged-Csanad Grosics Akademia II,Sandorfalvi Ske,2,0,,,
-72880300,2026-10-31 10:00,Vasas SC II,Szeged-Csanad Grosics Akademia II,3,3,2.200,3.600,2.625
-72880018,2026-10-31 12:00,Szolnoki MAV FC,Hodmezovasarhelyi FC,1,2,,,
-72880032,2026-11-07 12:00,Bekescsaba 1912 Elore,Szegedi Vasutas SE,3,2,,,
-72880034,2026-11-07 12:00,Sandorfalvi Ske,Budapest Honved MFA,0,0,,,
-72880038,2026-11-07 12:00,Hodmezovasarhelyi FC,Ujpest FC II,2,4,,,
-72880040,2026-11-07 12:00,Csepel SC,Gyulai FC,0,2,4.100,4.200,1.571
-72880042,2026-11-07 12:00,Monori SE,Szeged-Csanad Grosics Akademia II,1,0,1.400,4.500,5.500
-72880030,2026-11-08 10:00,Vasas SC II,Dabas FC,1,1,1.571,4.333,4.000
-72880028,2026-11-08 12:00,Esmtk Budapest,III Keruleti Tve,2,0,1.615,4.000,4.000
-72880036,2026-11-08 12:00,BKV Elore,Szolnoki MAV FC,2,2,4.000,4.000,1.615
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+72879782,2026-07-25 14:00,Szegedi Vasutas SE,Vasas SC II,1,1,3.600,3.800,1.727,3.25,1.950,1.850
+72879738,2026-07-25 15:30,III Keruleti Tve,Csepel SC,2,0,1.615,3.800,4.200,3,1.825,1.975
+72879740,2026-07-25 15:30,Gyulai FC,Hodmezovasarhelyi FC,3,0,1.222,5.500,9.000,3.25,1.900,1.900
+72879778,2026-07-25 15:30,Szolnoki MAV FC,Sandorfalvi Ske,5,2,,,,,,
+72879742,2026-07-26 09:00,Ujpest FC II,BKV Elore,6,0,1.800,3.700,3.500,3,1.800,2.000
+72879780,2026-07-26 09:00,Budapest Honved MFA,Bekescsaba 1912 Elore,0,0,,,,,,
+72879736,2026-07-26 15:30,Esmtk Budapest,Monori SE,2,1,1.615,3.750,4.333,2.75,1.850,1.950
+72879784,2026-07-26 15:30,Dabas FC,Szeged-Csanad Grosics Akademia II,1,4,1.700,3.750,3.800,3,2.000,1.800
+72879808,2026-08-08 08:00,Ujpest FC II,Bekescsaba 1912 Elore,2,2,2.350,3.300,2.550,2.5,1.800,2.000
+72879814,2026-08-08 14:00,Szegedi Vasutas SE,Dabas FC,1,2,,,,,,
+72879806,2026-08-08 15:30,Gyulai FC,Sandorfalvi Ske,7,0,1.363,4.500,6.500,3,1.900,1.900
+72879810,2026-08-08 15:30,Szolnoki MAV FC,Vasas SC II,2,2,,,,,,
+72879816,2026-08-08 15:30,Monori SE,Csepel SC,0,0,1.650,3.800,4.000,3,1.925,1.875
+72879812,2026-08-09 09:00,Budapest Honved MFA,Szeged-Csanad Grosics Akademia II,2,3,2.500,3.600,2.300,2.75,1.850,1.950
+72879802,2026-08-09 15:30,Esmtk Budapest,Hodmezovasarhelyi FC,1,2,1.166,7.000,11.000,3.75,1.950,1.850
+72879804,2026-08-09 15:30,III Keruleti Tve,BKV Elore,2,0,,,,,,
+73412962,2026-08-12 15:00,Eger SE,Tiszafured Vse,1,0,2.800,3.700,2.050,3.25,1.975,1.825
+73413018,2026-08-12 15:30,Debreceni Eac,Tarpa SC,4,0,1.480,3.750,6.000,2.5,1.950,1.850
+73413024,2026-08-12 15:30,Mateszalka MTK,Godolloi SK,4,0,,,,,,
+73413026,2026-08-12 15:30,Fuzesabony SC,Nyiregyhaza Spartacus FC II,1,0,3.000,3.500,2.000,2.75,1.800,2.000
+73413028,2026-08-12 15:30,Salgotarjani BTC,Tiszaujvaros,1,0,,,,,,
+73413100,2026-08-12 15:30,Hajdunanas FK,Kisvarda FC II,2,3,4.500,4.100,1.550,3,1.950,1.850
+73413106,2026-08-12 15:30,Csepel SC,Esmtk Budapest,2,1,4.000,3.750,1.666,2.75,1.850,1.950
+73413108,2026-08-12 15:30,Szeged-Csanad Grosics Akademia II,Szegedi Vasutas SE,2,1,,,,,,
+73413110,2026-08-12 15:30,Sandorfalvi Ske,Ujpest FC II,1,0,,,,,,
+73413112,2026-08-12 15:30,Bekescsaba 1912 Elore,Szolnoki MAV FC,0,2,,,,,,
+73413170,2026-08-12 15:30,Hodmezovasarhelyi FC,III Keruleti Tve,0,3,,,,,,
+73413438,2026-08-12 15:30,Monori SE,Dabas FC,2,3,1.700,3.750,4.000,2.75,1.850,1.950
+73413502,2026-08-12 15:30,Paksi FC II,Ferencvarosi TC II,2,2,,,,,,
+73413504,2026-08-12 15:30,Sarbogard SE,Pecsi MFC,0,6,,,,,,
+73413540,2026-08-12 15:30,Budafoki Mte,Pte Peac,2,0,1.480,4.333,4.750,3,1.825,1.975
+73413668,2026-08-12 15:30,BFC Siofok,MTK Budapest II,2,1,3.800,3.900,1.650,3,1.875,1.925
+73413670,2026-08-12 15:30,Dunaharaszti MTK,Majosi SE,2,1,2.300,3.600,2.500,3.25,2.000,1.800
+73413728,2026-08-12 15:30,Sarisapi BSE,Szombathelyi Mav Haladas VSE,1,2,1.333,4.750,6.500,3.25,1.950,1.850
+73413764,2026-08-12 15:30,FC Tatabanya,Bicskei Tc,3,1,1.363,4.500,6.250,3.25,1.925,1.875
+73414092,2026-08-12 15:30,Kiraly SE,Dorogi FC,0,0,3.300,3.700,1.850,2.75,1.800,2.000
+73414150,2026-08-12 15:30,Papai Perutz FC,Veszprem FC,1,1,3.400,3.700,1.833,3,2.000,1.800
+73414152,2026-08-12 15:30,SC Sopron,ETO Akademia,1,0,1.800,3.900,3.250,3.25,1.800,2.000
+73414372,2026-08-12 15:30,Balatonalmadi SE,Mosonmagyarovari TE,0,1,,,,,,
+73414374,2026-08-12 15:30,Puskas Akademia FC II,Komarom Vse,1,2,2.600,3.600,2.150,3,1.850,1.950
+73414376,2026-08-12 15:30,1908 Szac Budapest,Zalaegerszeg TE II,0,1,1.700,4.333,3.500,3,2.025,1.775
+73458038,2026-08-12 15:30,Ozd-Sajovolgye,Cigand SE,0,2,,,,,,
+73458040,2026-08-12 15:30,BKV Elore,Gyulai FC,2,4,11.000,5.750,1.200,3.25,1.825,1.975
+73458042,2026-08-12 15:30,Szekszardi UFC,Kaposvari Rakoczi FC,0,3,,,,,,
+72879818,2026-08-15 14:00,Szegedi Vasutas SE,Monori SE,2,3,,,,,,
+72879826,2026-08-15 15:00,Bekescsaba 1912 Elore,Gyulai FC,0,2,,,,,,
+72879828,2026-08-15 15:30,Sandorfalvi Ske,III Keruleti Tve,0,3,,,,,,
+72879832,2026-08-15 15:30,Hodmezovasarhelyi FC,Csepel SC,1,1,,,,,,
+72879822,2026-08-16 09:00,Szeged-Csanad Grosics Akademia II,Szolnoki MAV FC,5,0,,,,,,
+72879824,2026-08-16 09:00,Vasas SC II,Ujpest FC II,3,5,2.000,3.700,2.875,3,1.975,1.825
+72879820,2026-08-16 15:30,Dabas FC,Budapest Honved MFA,3,1,,,,,,
+72879830,2026-08-16 15:30,BKV Elore,Esmtk Budapest,0,3,6.250,5.750,1.300,3.5,1.975,1.825
+73558486,2026-08-19 09:00,Vasas SC II,Budapest Honved MFA,3,0,1.600,4.200,4.000,3.25,1.900,1.900
+72879840,2026-08-26 09:00,Ujpest FC II,Szeged-Csanad Grosics Akademia II,2,2,1.950,3.600,3.000,3.25,2.000,1.800
+72879838,2026-08-26 15:00,Gyulai FC,Vasas SC II,1,0,,,,,,
+72879834,2026-08-26 15:30,Esmtk Budapest,Sandorfalvi Ske,3,0,1.181,6.250,11.000,3.25,1.900,1.900
+72879836,2026-08-26 15:30,III Keruleti Tve,Bekescsaba 1912 Elore,2,0,1.450,4.000,5.500,2.75,1.825,1.975
+72879842,2026-08-26 15:30,Szolnoki MAV FC,Dabas FC,2,2,,,,,,
+72879844,2026-08-26 15:30,Budapest Honved MFA,Szegedi Vasutas SE,8,1,,,,,,
+72879846,2026-08-26 15:30,Csepel SC,BKV Elore,9,1,1.533,4.100,4.500,3,1.800,2.000
+72879848,2026-08-26 15:30,Monori SE,Hodmezovasarhelyi FC,4,1,1.500,4.100,4.750,3,1.950,1.850
+72879852,2026-08-29 14:00,Szegedi Vasutas SE,Szolnoki MAV FC,3,3,2.800,3.700,2.050,3.25,2.000,1.800
+72879860,2026-08-29 15:00,Bekescsaba 1912 Elore,Esmtk Budapest,3,3,,,,,,
+72879862,2026-08-29 15:30,Sandorfalvi Ske,Csepel SC,1,5,,,,,,
+72879850,2026-08-30 09:00,Budapest Honved MFA,Monori SE,1,1,,,,,,
+72879858,2026-08-30 09:00,Vasas SC II,III Keruleti Tve,3,0,2.550,3.500,2.250,3,1.900,1.900
+72880130,2026-08-30 09:00,Gyulai FC,Szeged-Csanad Grosics Akademia II,4,0,4.500,4.200,1.533,3.25,1.825,1.975
+72879854,2026-08-30 15:30,Dabas FC,Ujpest FC II,1,2,2.700,3.600,2.100,3.25,1.850,1.950
+72879864,2026-08-30 15:30,BKV Elore,Hodmezovasarhelyi FC,2,2,,,,,,
+72879868,2026-09-05 14:00,III Keruleti Tve,Szeged-Csanad Grosics Akademia II,1,0,1.480,4.100,5.000,3.25,1.975,1.825
+72879870,2026-09-05 14:00,Gyulai FC,Dabas FC,5,0,1.222,5.500,9.500,3.5,1.900,1.900
+72879874,2026-09-05 14:00,Szolnoki MAV FC,Budapest Honved MFA,1,0,,,,,,
+72879876,2026-09-05 14:00,Hodmezovasarhelyi FC,Sandorfalvi Ske,3,1,,,,,,
+72879878,2026-09-05 14:00,Csepel SC,Bekescsaba 1912 Elore,2,2,1.550,4.333,4.200,3.25,1.975,1.825
+72879880,2026-09-05 14:00,Monori SE,BKV Elore,3,1,1.222,6.500,8.500,3.75,1.950,1.850
+72879872,2026-09-06 09:00,Ujpest FC II,Szegedi Vasutas SE,6,1,1.333,4.750,6.500,3.5,1.850,1.950
+72879866,2026-09-06 14:00,Esmtk Budapest,Vasas SC II,2,0,1.833,3.700,3.400,3.25,1.950,1.850
+72879928,2026-09-19 13:00,Bekescsaba 1912 Elore,Hodmezovasarhelyi FC,3,1,2.000,3.600,3.000,3,2.000,1.800
+72879882,2026-09-19 14:00,Szolnoki MAV FC,Monori SE,4,4,,,,,,
+72879886,2026-09-19 14:00,Szegedi Vasutas SE,Gyulai FC,1,4,,,,,,
+72879930,2026-09-19 14:00,Sandorfalvi Ske,BKV Elore,0,1,,,,,,
+72879884,2026-09-20 09:00,Budapest Honved MFA,Ujpest FC II,3,0,3.400,3.800,1.800,3.25,1.800,2.000
+72879892,2026-09-20 09:00,Vasas SC II,Csepel SC,6,0,1.727,3.800,3.600,3.25,2.000,1.800
+72879888,2026-09-20 14:00,Dabas FC,III Keruleti Tve,0,1,3.900,4.000,1.615,3.25,1.800,2.000
+72879890,2026-09-20 14:00,Szeged-Csanad Grosics Akademia II,Esmtk Budapest,1,1,,,,,,
+72879936,2026-09-26 09:00,Gyulai FC,Budapest Honved MFA,3,2,,,,,,
+72879938,2026-09-26 09:00,Ujpest FC II,Szolnoki MAV FC,2,1,1.833,4.000,3.200,3.5,1.900,1.900
+72879942,2026-09-26 09:00,Hodmezovasarhelyi FC,Vasas SC II,0,2,,,,,,
+72879934,2026-09-26 14:00,III Keruleti Tve,Szegedi Vasutas SE,1,0,1.166,7.500,11.000,4,1.825,1.975
+72879944,2026-09-26 14:00,Csepel SC,Szeged-Csanad Grosics Akademia II,1,1,1.950,3.600,3.000,3.25,1.975,1.825
+72879932,2026-09-27 14:00,Esmtk Budapest,Dabas FC,6,0,1.222,5.250,9.000,3.25,1.875,1.925
+72879940,2026-09-27 14:00,BKV Elore,Bekescsaba 1912 Elore,0,4,3.900,4.000,1.650,3.25,1.925,1.875
+72879948,2026-10-03 09:00,Ujpest FC II,Monori SE,2,2,2.050,3.700,2.800,3.25,1.800,2.000
+72879960,2026-10-03 09:00,Vasas SC II,BKV Elore,3,0,1.166,7.500,11.000,3.75,1.850,1.950
+72879950,2026-10-03 11:00,Szolnoki MAV FC,Gyulai FC,3,4,,,,,,
+72879954,2026-10-03 11:00,Szegedi Vasutas SE,Esmtk Budapest,1,4,13.000,8.000,1.125,4,1.900,1.900
+72879962,2026-10-03 11:00,Bekescsaba 1912 Elore,Sandorfalvi Ske,0,1,,,,,,
+72879952,2026-10-04 09:00,Budapest Honved MFA,III Keruleti Tve,1,0,,,,,,
+72879956,2026-10-04 11:00,Dabas FC,Csepel SC,1,0,2.350,3.900,2.300,3,1.950,1.850
+72879958,2026-10-04 12:00,Szeged-Csanad Grosics Akademia II,Hodmezovasarhelyi FC,1,1,,,,,,
+72879968,2026-10-10 09:00,Gyulai FC,Ujpest FC II,2,1,1.380,4.750,5.500,3.75,1.800,2.000
+72879966,2026-10-10 11:00,III Keruleti Tve,Szolnoki MAV FC,1,1,1.400,4.333,5.750,3.25,1.875,1.925
+72879970,2026-10-10 11:00,Sandorfalvi Ske,Vasas SC II,1,0,,,,,,
+72879974,2026-10-10 11:00,Hodmezovasarhelyi FC,Dabas FC,1,1,,,,,,
+72879976,2026-10-10 11:00,Csepel SC,Szegedi Vasutas SE,1,1,1.400,5.250,5.000,3.5,1.850,1.950
+72879978,2026-10-10 11:00,Monori SE,Bekescsaba 1912 Elore,0,2,1.833,4.000,3.100,3.25,1.800,2.000
+72879964,2026-10-11 11:00,Esmtk Budapest,Budapest Honved MFA,3,0,,,,,,
+72879972,2026-10-11 11:00,BKV Elore,Szeged-Csanad Grosics Akademia II,1,1,4.500,4.200,1.500,3.25,1.900,1.900
+72879994,2026-10-17 10:00,Vasas SC II,Bekescsaba 1912 Elore,2,2,1.727,3.800,3.600,3,1.875,1.925
+72879992,2026-10-18 11:00,Szeged-Csanad Grosics Akademia II,Sandorfalvi Ske,2,0,,,,,,
+72880300,2026-10-31 10:00,Vasas SC II,Szeged-Csanad Grosics Akademia II,3,3,2.200,3.600,2.625,3,2.000,1.800
+72880018,2026-10-31 12:00,Szolnoki MAV FC,Hodmezovasarhelyi FC,1,2,,,,,,
+72880032,2026-11-07 12:00,Bekescsaba 1912 Elore,Szegedi Vasutas SE,3,2,,,,,,
+72880034,2026-11-07 12:00,Sandorfalvi Ske,Budapest Honved MFA,0,0,,,,,,
+72880038,2026-11-07 12:00,Hodmezovasarhelyi FC,Ujpest FC II,2,4,,,,,,
+72880040,2026-11-07 12:00,Csepel SC,Gyulai FC,0,2,4.100,4.200,1.571,3.5,1.975,1.825
+72880042,2026-11-07 12:00,Monori SE,Szeged-Csanad Grosics Akademia II,1,0,1.400,4.500,5.500,3.5,2.000,1.800
+72880030,2026-11-08 10:00,Vasas SC II,Dabas FC,1,1,1.571,4.333,4.000,3.5,1.900,1.900
+72880028,2026-11-08 12:00,Esmtk Budapest,III Keruleti Tve,2,0,1.615,4.000,4.000,3,1.800,2.000
+72880036,2026-11-08 12:00,BKV Elore,Szolnoki MAV FC,2,2,4.000,4.000,1.615,3.5,1.975,1.825

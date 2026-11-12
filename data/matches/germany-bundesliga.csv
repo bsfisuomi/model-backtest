@@ -1,392 +1,392 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-60433915,2025-05-22 18:30,1. FC Heidenheim,SV 07 Elversberg,2,2,,,
-60433921,2025-05-26 18:30,SV 07 Elversberg,1. FC Heidenheim,1,2,,,
-61489293,2025-08-22 18:30,Bayern Munich,RB Leipzig,6,0,,,
-61496019,2025-08-23 13:30,Eintracht Frankfurt,Werder Bremen,4,1,,,
-61512400,2025-08-23 13:30,Bayer Leverkusen,TSG Hoffenheim,1,2,,,
-61512402,2025-08-23 13:30,SC Freiburg,FC Augsburg,1,3,,,
-61512410,2025-08-23 13:30,Union Berlin,VfB Stuttgart,2,1,,,
-61512414,2025-08-23 13:30,1. FC Heidenheim,VfL Wolfsburg,1,3,,,
-61512412,2025-08-23 16:30,FC St. Pauli,Borussia Dortmund,3,3,,,
-61512406,2025-08-24 13:30,FSV Mainz,1. FC Cologne,0,1,,,
-61512408,2025-08-24 15:30,Borussia Monchengladbach,Hamburger SV,0,0,,,
-61513644,2025-08-29 18:30,Hamburger SV,FC St. Pauli,0,2,,,
-61513630,2025-08-30 13:30,RB Leipzig,1. FC Heidenheim,2,0,,,
-61513632,2025-08-30 13:30,Werder Bremen,Bayer Leverkusen,3,3,,,
-61513634,2025-08-30 13:30,VfB Stuttgart,Borussia Monchengladbach,1,0,,,
-61513640,2025-08-30 13:30,TSG Hoffenheim,Eintracht Frankfurt,1,3,,,
-61513638,2025-08-30 16:30,FC Augsburg,Bayern Munich,2,3,,,
-61513636,2025-08-31 13:30,VfL Wolfsburg,FSV Mainz,1,1,,,
-61513628,2025-08-31 15:30,Borussia Dortmund,Union Berlin,3,0,,,
-61513642,2025-08-31 17:30,1. FC Cologne,SC Freiburg,4,1,,,
-61513646,2025-09-12 18:30,Bayer Leverkusen,Eintracht Frankfurt,3,1,,,
-61513648,2025-09-13 13:30,SC Freiburg,VfB Stuttgart,3,1,,,
-61513650,2025-09-13 13:30,FSV Mainz,RB Leipzig,0,1,,,
-61513654,2025-09-13 13:30,VfL Wolfsburg,1. FC Cologne,3,3,,,
-61513656,2025-09-13 13:30,Union Berlin,TSG Hoffenheim,2,4,,,
-61513660,2025-09-13 13:30,1. FC Heidenheim,Borussia Dortmund,0,2,,,
-61498395,2025-09-13 16:30,Bayern Munich,Hamburger SV,5,0,,,
-61513658,2025-09-14 13:30,FC St. Pauli,FC Augsburg,2,1,,,
-61513652,2025-09-14 15:30,Borussia Monchengladbach,Werder Bremen,0,4,,,
-61513672,2025-09-19 18:30,VfB Stuttgart,FC St. Pauli,2,0,,,
-61513670,2025-09-20 13:30,Werder Bremen,SC Freiburg,0,3,,,
-61513674,2025-09-20 13:30,FC Augsburg,FSV Mainz,1,4,,,
-61513676,2025-09-20 13:30,TSG Hoffenheim,Bayern Munich,1,4,,,
-61513678,2025-09-20 13:30,Hamburger SV,1. FC Heidenheim,2,1,,,
-61513668,2025-09-20 16:30,RB Leipzig,1. FC Cologne,3,1,,,
-61513664,2025-09-21 13:30,Eintracht Frankfurt,Union Berlin,3,4,,,
-61513662,2025-09-21 15:30,Bayer Leverkusen,Borussia Monchengladbach,1,1,,,
-61513666,2025-09-21 17:30,Borussia Dortmund,VfL Wolfsburg,1,0,,,
-61513680,2025-09-26 18:30,Bayern Munich,Werder Bremen,4,0,,,
-61513684,2025-09-27 13:30,FSV Mainz,Borussia Dortmund,0,2,,,
-61513688,2025-09-27 13:30,VfL Wolfsburg,RB Leipzig,0,1,,,
-61513692,2025-09-27 13:30,FC St. Pauli,Bayer Leverkusen,1,2,,,
-61513694,2025-09-27 13:30,1. FC Heidenheim,FC Augsburg,2,1,,,
-61513686,2025-09-27 16:30,Borussia Monchengladbach,Eintracht Frankfurt,4,6,,,
-61513682,2025-09-28 13:30,SC Freiburg,TSG Hoffenheim,1,1,,,
-61513696,2025-09-28 15:30,1. FC Cologne,VfB Stuttgart,1,2,,,
-61513690,2025-09-28 17:30,Union Berlin,Hamburger SV,0,0,,,
-61513712,2025-10-03 18:30,TSG Hoffenheim,1. FC Cologne,0,1,,,
-61513698,2025-10-04 13:30,Bayer Leverkusen,Union Berlin,2,0,,,
-61513702,2025-10-04 13:30,Borussia Dortmund,RB Leipzig,1,1,,,
-61513704,2025-10-04 13:30,Werder Bremen,FC St. Pauli,1,0,,,
-61513710,2025-10-04 13:30,FC Augsburg,VfL Wolfsburg,3,1,,,
-61513700,2025-10-04 16:30,Eintracht Frankfurt,Bayern Munich,0,3,,,
-61513706,2025-10-05 13:30,VfB Stuttgart,1. FC Heidenheim,1,0,,,
-61513714,2025-10-05 15:30,Hamburger SV,FSV Mainz,4,0,,,
-61513708,2025-10-05 17:30,Borussia Monchengladbach,SC Freiburg,0,0,,,
-61513726,2025-10-17 18:30,Union Berlin,Borussia Monchengladbach,3,1,,,
-61513720,2025-10-18 13:30,FSV Mainz,Bayer Leverkusen,3,4,,,
-61513722,2025-10-18 13:30,RB Leipzig,Hamburger SV,2,1,,,
-61513724,2025-10-18 13:30,VfL Wolfsburg,VfB Stuttgart,0,3,,,
-61513730,2025-10-18 13:30,1. FC Heidenheim,Werder Bremen,2,2,,,
-61513732,2025-10-18 13:30,1. FC Cologne,FC Augsburg,1,1,,,
-61513716,2025-10-18 16:30,Bayern Munich,Borussia Dortmund,2,1,,,
-61513718,2025-10-19 13:30,SC Freiburg,Eintracht Frankfurt,2,2,,,
-61513728,2025-10-19 15:30,FC St. Pauli,TSG Hoffenheim,0,3,,,
-61513740,2025-10-24 18:30,Werder Bremen,Union Berlin,1,0,,,
-61513736,2025-10-25 13:30,Eintracht Frankfurt,FC St. Pauli,2,0,,,
-61513746,2025-10-25 13:30,FC Augsburg,RB Leipzig,0,6,,,
-61513748,2025-10-25 13:30,TSG Hoffenheim,1. FC Heidenheim,3,1,,,
-61513750,2025-10-25 13:30,Hamburger SV,VfL Wolfsburg,0,1,,,
-61513744,2025-10-25 13:45,Borussia Monchengladbach,Bayern Munich,0,3,,,
-61513738,2025-10-25 16:30,Borussia Dortmund,1. FC Cologne,1,0,,,
-61513734,2025-10-26 14:30,Bayer Leverkusen,SC Freiburg,2,0,,,
-61513742,2025-10-26 16:30,VfB Stuttgart,FSV Mainz,2,1,,,
-61513760,2025-10-31 19:30,FC Augsburg,Borussia Dortmund,0,1,,,
-61513754,2025-11-01 14:30,FSV Mainz,Werder Bremen,1,1,,,
-61513756,2025-11-01 14:30,RB Leipzig,VfB Stuttgart,3,1,,,
-61513762,2025-11-01 14:30,Union Berlin,SC Freiburg,0,0,,,
-61513764,2025-11-01 14:30,FC St. Pauli,Borussia Monchengladbach,0,4,,,
-61513766,2025-11-01 14:30,1. FC Heidenheim,Eintracht Frankfurt,1,1,,,
-61513752,2025-11-01 17:30,Bayern Munich,Bayer Leverkusen,3,0,,,
-61513768,2025-11-02 14:30,1. FC Cologne,Hamburger SV,4,1,,,
-61513758,2025-11-02 16:30,VfL Wolfsburg,TSG Hoffenheim,2,3,,,
-61513776,2025-11-07 19:30,Werder Bremen,VfL Wolfsburg,2,1,,,
-61513770,2025-11-08 14:30,Bayer Leverkusen,1. FC Heidenheim,6,0,,,
-61513782,2025-11-08 14:30,Union Berlin,Bayern Munich,2,2,,,
-61513784,2025-11-08 14:30,TSG Hoffenheim,RB Leipzig,3,1,,,
-61513786,2025-11-08 14:30,Hamburger SV,Borussia Dortmund,1,1,,,
-61513780,2025-11-08 17:30,Borussia Monchengladbach,1. FC Cologne,3,1,,,
-61513774,2025-11-09 14:30,SC Freiburg,FC St. Pauli,2,1,,,
-61513778,2025-11-09 16:30,VfB Stuttgart,FC Augsburg,3,2,,,
-61513772,2025-11-09 18:30,Eintracht Frankfurt,FSV Mainz,1,0,,,
-61513792,2025-11-21 19:30,FSV Mainz,TSG Hoffenheim,1,1,,,
-61513788,2025-11-22 14:30,Bayern Munich,SC Freiburg,6,2,,,
-61513790,2025-11-22 14:30,Borussia Dortmund,VfB Stuttgart,3,3,,,
-61513796,2025-11-22 14:30,VfL Wolfsburg,Bayer Leverkusen,1,3,,,
-61513798,2025-11-22 14:30,FC Augsburg,Hamburger SV,1,0,,,
-61513802,2025-11-22 14:30,1. FC Heidenheim,Borussia Monchengladbach,0,3,,,
-61513804,2025-11-22 17:30,1. FC Cologne,Eintracht Frankfurt,3,4,,,
-61513794,2025-11-23 14:30,RB Leipzig,Werder Bremen,2,0,,,
-61513800,2025-11-23 16:30,FC St. Pauli,Union Berlin,0,1,,,
-61513816,2025-11-28 19:30,Borussia Monchengladbach,RB Leipzig,0,0,,,
-61513806,2025-11-29 14:30,Bayern Munich,FC St. Pauli,3,1,,,
-61513814,2025-11-29 14:30,Werder Bremen,1. FC Cologne,1,1,,,
-61513818,2025-11-29 14:30,Union Berlin,1. FC Heidenheim,1,2,,,
-61513820,2025-11-29 14:30,TSG Hoffenheim,FC Augsburg,3,0,,,
-61513808,2025-11-29 17:30,Bayer Leverkusen,Borussia Dortmund,1,2,,,
-61513822,2025-11-30 14:30,Hamburger SV,VfB Stuttgart,2,1,,,
-61513810,2025-11-30 16:30,Eintracht Frankfurt,VfL Wolfsburg,1,1,,,
-61513812,2025-11-30 18:30,SC Freiburg,FSV Mainz,4,0,,,
-61513826,2025-12-05 19:30,FSV Mainz,Borussia Monchengladbach,0,1,,,
-61513830,2025-12-06 14:30,VfB Stuttgart,Bayern Munich,0,5,,,
-61513832,2025-12-06 14:30,VfL Wolfsburg,Union Berlin,3,1,,,
-61513834,2025-12-06 14:30,FC Augsburg,Bayer Leverkusen,2,0,,,
-61513836,2025-12-06 14:30,1. FC Heidenheim,SC Freiburg,2,1,,,
-61513838,2025-12-06 14:30,1. FC Cologne,FC St. Pauli,1,1,,,
-61513828,2025-12-06 17:30,RB Leipzig,Eintracht Frankfurt,6,0,,,
-61513840,2025-12-07 14:30,Hamburger SV,Werder Bremen,3,2,,,
-61513824,2025-12-07 16:30,Borussia Dortmund,TSG Hoffenheim,2,0,,,
-61513854,2025-12-12 19:30,Union Berlin,RB Leipzig,3,1,2.900,3.400,2.350
-61513846,2025-12-13 14:30,Eintracht Frankfurt,FC Augsburg,1,0,1.800,3.900,4.200
-61513852,2025-12-13 14:30,Borussia Monchengladbach,VfL Wolfsburg,1,3,,,
-61513856,2025-12-13 14:30,FC St. Pauli,1. FC Heidenheim,2,1,1.850,3.400,4.333
-61513858,2025-12-13 14:30,TSG Hoffenheim,Hamburger SV,4,1,1.700,4.200,4.200
-61513844,2025-12-13 17:30,Bayer Leverkusen,1. FC Cologne,2,0,1.750,4.100,4.100
-61513848,2025-12-14 14:30,SC Freiburg,Borussia Dortmund,1,1,3.800,3.600,1.950
-61513842,2025-12-14 16:30,Bayern Munich,FSV Mainz,2,2,1.083,12.000,19.000
-61513850,2025-12-14 18:30,Werder Bremen,VfB Stuttgart,0,4,2.800,3.800,2.350
-61513860,2025-12-19 19:30,Borussia Dortmund,Borussia Monchengladbach,2,0,,,
-61513866,2025-12-20 14:30,VfB Stuttgart,TSG Hoffenheim,0,0,1.950,3.800,3.700
-61513868,2025-12-20 14:30,VfL Wolfsburg,SC Freiburg,3,4,2.350,3.500,2.900
-61513870,2025-12-20 14:30,FC Augsburg,Werder Bremen,0,0,2.200,3.500,3.200
-61513874,2025-12-20 14:30,1. FC Cologne,Union Berlin,0,1,2.550,3.100,2.875
-61513876,2025-12-20 14:30,Hamburger SV,Eintracht Frankfurt,1,1,2.350,3.500,2.900
-61513864,2025-12-20 17:30,RB Leipzig,Bayer Leverkusen,1,3,2.050,3.900,3.250
-61513862,2025-12-21 14:30,FSV Mainz,FC St. Pauli,0,0,1.950,3.300,4.100
-61513872,2025-12-21 16:30,1. FC Heidenheim,Bayern Munich,0,4,13.000,9.500,1.142
-61513882,2026-01-09 19:30,Eintracht Frankfurt,Borussia Dortmund,3,3,3.250,3.750,2.050
-61513884,2026-01-10 14:30,SC Freiburg,Hamburger SV,2,1,1.800,3.500,4.750
-61513890,2026-01-10 14:30,Union Berlin,FSV Mainz,2,2,2.050,3.300,3.900
-61513894,2026-01-10 14:30,1. FC Heidenheim,1. FC Cologne,2,2,2.750,3.400,2.500
-61513880,2026-01-10 17:30,Bayer Leverkusen,VfB Stuttgart,1,4,2.150,3.750,3.100
-61513888,2026-01-11 14:30,Borussia Monchengladbach,FC Augsburg,4,0,,,
-61513878,2026-01-11 16:30,Bayern Munich,VfL Wolfsburg,8,1,1.125,9.500,17.000
-61513902,2026-01-13 17:30,VfB Stuttgart,Eintracht Frankfurt,3,2,1.666,4.333,4.333
-61513896,2026-01-13 19:30,Borussia Dortmund,Werder Bremen,3,0,1.444,5.000,6.250
-61513898,2026-01-13 19:30,FSV Mainz,1. FC Heidenheim,2,1,1.750,3.800,4.500
-61513904,2026-01-14 17:30,VfL Wolfsburg,FC St. Pauli,2,1,1.850,3.600,4.333
-61513900,2026-01-14 19:30,RB Leipzig,SC Freiburg,2,0,1.750,3.900,4.333
-61513908,2026-01-14 19:30,TSG Hoffenheim,Borussia Monchengladbach,5,1,1.909,3.900,3.600
-61513910,2026-01-14 19:30,1. FC Cologne,Bayern Munich,1,3,11.000,7.000,1.200
-61513906,2026-01-15 19:30,FC Augsburg,Union Berlin,1,1,2.600,3.200,2.750
-61513918,2026-01-16 19:30,Werder Bremen,Eintracht Frankfurt,3,3,2.625,3.600,2.500
-61513914,2026-01-17 14:30,Borussia Dortmund,FC St. Pauli,3,2,1.300,5.000,11.000
-61513922,2026-01-17 14:30,VfL Wolfsburg,1. FC Heidenheim,1,1,1.700,4.100,4.500
-61513926,2026-01-17 14:30,TSG Hoffenheim,Bayer Leverkusen,1,0,2.350,3.750,2.800
-61513928,2026-01-17 14:30,1. FC Cologne,FSV Mainz,2,1,2.150,3.400,3.400
-61513930,2026-01-17 14:30,Hamburger SV,Borussia Monchengladbach,0,0,2.450,3.500,2.800
-61513916,2026-01-17 17:30,RB Leipzig,Bayern Munich,1,5,4.100,4.333,1.700
-61513920,2026-01-18 14:30,VfB Stuttgart,Union Berlin,1,1,1.600,4.000,5.500
-61513924,2026-01-18 16:30,FC Augsburg,SC Freiburg,2,2,2.625,3.250,2.750
-61513946,2026-01-23 19:30,FC St. Pauli,Hamburger SV,0,0,2.800,2.900,2.800
-61513932,2026-01-24 14:30,Bayern Munich,FC Augsburg,1,2,1.142,10.000,13.000
-61513934,2026-01-24 14:30,Bayer Leverkusen,Werder Bremen,1,0,1.571,4.333,5.500
-61513936,2026-01-24 14:30,Eintracht Frankfurt,TSG Hoffenheim,1,3,3.000,3.600,2.200
-61513940,2026-01-24 14:30,FSV Mainz,VfL Wolfsburg,3,1,2.350,3.300,3.100
-61513948,2026-01-24 14:30,1. FC Heidenheim,RB Leipzig,0,3,4.333,4.333,1.650
-61513944,2026-01-24 17:30,Union Berlin,Borussia Dortmund,0,3,3.300,3.250,2.250
-61513942,2026-01-25 14:30,Borussia Monchengladbach,VfB Stuttgart,0,3,2.875,3.700,2.300
-61513938,2026-01-25 16:30,SC Freiburg,1. FC Cologne,2,1,2.000,3.700,3.500
-67760806,2026-01-27 19:30,Werder Bremen,TSG Hoffenheim,0,2,3.700,3.700,1.909
-67760808,2026-01-27 19:30,FC St. Pauli,RB Leipzig,1,1,5.000,3.500,1.750
-61513964,2026-01-30 19:30,1. FC Cologne,VfL Wolfsburg,1,0,2.000,3.700,3.400
-61513950,2026-01-31 14:30,Eintracht Frankfurt,Bayer Leverkusen,1,3,3.300,3.750,2.050
-61513954,2026-01-31 14:30,RB Leipzig,FSV Mainz,1,2,1.571,4.500,5.250
-61513956,2026-01-31 14:30,Werder Bremen,Borussia Monchengladbach,1,1,2.150,3.600,3.250
-61513960,2026-01-31 14:30,FC Augsburg,FC St. Pauli,2,1,2.100,3.200,3.750
-61513962,2026-01-31 14:30,TSG Hoffenheim,Union Berlin,3,1,1.833,3.750,4.200
-61513966,2026-01-31 17:30,Hamburger SV,Bayern Munich,2,2,7.500,6.000,1.300
-61513958,2026-02-01 14:30,VfB Stuttgart,SC Freiburg,1,0,1.615,4.200,5.000
-61513952,2026-02-01 16:30,Borussia Dortmund,1. FC Heidenheim,3,2,1.270,6.500,8.500
-61513978,2026-02-06 19:30,Union Berlin,Eintracht Frankfurt,1,1,2.100,3.500,3.400
-61513970,2026-02-07 14:30,SC Freiburg,Werder Bremen,1,0,2.200,3.400,3.400
-61513972,2026-02-07 14:30,FSV Mainz,FC Augsburg,2,0,1.950,3.700,3.750
-61513976,2026-02-07 14:30,VFL Wolfsburg,Borussia Dortmund,1,2,4.333,4.333,1.700
-61513980,2026-02-07 14:30,FC St. Pauli,VfB Stuttgart,2,1,4.750,3.900,1.700
-61513982,2026-02-07 14:30,1. FC Heidenheim,Hamburger SV,0,2,2.800,3.500,2.450
-61513974,2026-02-07 17:30,Borussia Monchengladbach,Bayer Leverkusen,1,1,3.400,3.700,2.050
-61513984,2026-02-08 14:30,1. FC Cologne,RB Leipzig,1,2,3.500,3.900,1.950
-61513968,2026-02-08 16:30,Bayern Munich,TSG Hoffenheim,5,1,1.222,7.500,9.000
-61513990,2026-02-13 19:30,Borussia Dortmund,FSV Mainz,4,0,1.650,4.200,4.750
-61513986,2026-02-14 14:30,Bayer Leverkusen,FC St. Pauli,4,0,1.533,4.333,5.750
-61513988,2026-02-14 14:30,Eintracht Frankfurt,Borussia Monchengladbach,3,0,2.100,3.500,3.400
-61513994,2026-02-14 14:30,Werder Bremen,Bayern Munich,0,3,8.000,6.250,1.300
-61514000,2026-02-14 14:30,TSG Hoffenheim,SC Freiburg,3,0,1.666,4.100,4.750
-61514002,2026-02-14 14:30,Hamburger SV,Union Berlin,3,2,2.400,3.250,3.100
-61513996,2026-02-14 17:30,VfB Stuttgart,1. FC Cologne,3,1,1.480,5.000,5.750
-61513998,2026-02-15 14:30,FC Augsburg,1. FC Heidenheim,1,0,1.850,3.800,4.000
-61513992,2026-02-15 16:30,RB Leipzig,VFL Wolfsburg,2,2,1.500,4.750,5.500
-61514008,2026-02-20 19:30,FSV Mainz,Hamburger SV,1,1,2.050,3.400,3.600
-61514004,2026-02-21 14:30,Bayern Munich,Eintracht Frankfurt,3,2,1.090,12.000,17.000
-61514012,2026-02-21 14:30,VFL Wolfsburg,FC Augsburg,2,3,2.150,3.400,3.300
-61514014,2026-02-21 14:30,Union Berlin,Bayer Leverkusen,1,0,3.100,3.300,2.350
-61514020,2026-02-21 14:30,1. FC Cologne,TSG Hoffenheim,2,2,3.500,3.900,1.950
-61514010,2026-02-21 17:30,RB Leipzig,Borussia Dortmund,2,2,2.000,3.900,3.400
-61514006,2026-02-22 14:30,SC Freiburg,Borussia Monchengladbach,2,1,2.100,3.250,3.700
-61514016,2026-02-22 16:30,FC St. Pauli,Werder Bremen,2,1,2.625,3.200,2.750
-61514018,2026-02-22 18:30,1. FC Heidenheim,VfB Stuttgart,3,3,4.333,4.333,1.666
-61514034,2026-02-27 19:30,FC Augsburg,1. FC Cologne,2,0,2.200,3.400,3.250
-61514022,2026-02-28 14:30,Bayer Leverkusen,FSV Mainz,1,1,1.700,4.100,4.333
-61514028,2026-02-28 14:30,Werder Bremen,1. FC Heidenheim,2,0,1.615,4.500,4.750
-61514032,2026-02-28 14:30,Borussia Monchengladbach,Union Berlin,1,0,2.375,3.300,3.000
-61514036,2026-02-28 14:30,TSG Hoffenheim,FC St. Pauli,0,1,1.533,4.333,5.750
-61514026,2026-02-28 17:30,Borussia Dortmund,Bayern Munich,2,3,4.333,4.333,1.700
-61514030,2026-03-01 14:30,VfB Stuttgart,VFL Wolfsburg,4,0,1.380,5.750,6.500
-61514024,2026-03-01 16:30,Eintracht Frankfurt,SC Freiburg,2,0,2.250,3.400,3.200
-61514038,2026-03-01 18:30,Hamburger SV,RB Leipzig,1,2,3.800,4.000,1.850
-67872358,2026-03-04 19:30,Hamburger SV,Bayer Leverkusen,0,1,3.750,3.600,1.950
-61514040,2026-03-06 19:30,Bayern Munich,Borussia Monchengladbach,4,1,1.250,8.000,8.000
-61514042,2026-03-07 14:30,SC Freiburg,Bayer Leverkusen,3,3,2.900,3.500,2.350
-61514044,2026-03-07 14:30,FSV Mainz,VfB Stuttgart,2,2,3.500,3.800,1.950
-61514046,2026-03-07 14:30,RB Leipzig,FC Augsburg,2,1,1.363,5.500,7.500
-61514048,2026-03-07 14:30,VFL Wolfsburg,Hamburger SV,1,2,2.625,3.300,2.700
-61514054,2026-03-07 14:30,1. FC Heidenheim,TSG Hoffenheim,2,4,5.500,4.750,1.500
-61514056,2026-03-07 17:30,1. FC Cologne,Borussia Dortmund,1,2,4.100,4.000,1.750
-61514052,2026-03-08 14:30,FC St. Pauli,Eintracht Frankfurt,0,0,2.600,3.400,2.700
-61514050,2026-03-08 16:30,Union Berlin,Werder Bremen,1,4,2.500,3.200,2.900
-61514070,2026-03-13 19:30,Borussia Monchengladbach,FC St. Pauli,2,0,1.909,3.400,4.200
-61514058,2026-03-14 14:30,Bayer Leverkusen,Bayern Munich,1,1,4.750,4.750,1.571
-61514060,2026-03-14 14:30,Eintracht Frankfurt,1. FC Heidenheim,1,0,1.650,4.333,4.750
-61514062,2026-03-14 14:30,Borussia Dortmund,FC Augsburg,2,0,1.550,4.500,5.000
-61514072,2026-03-14 14:30,TSG Hoffenheim,VFL Wolfsburg,1,1,1.400,5.000,7.000
-61514074,2026-03-14 17:30,Hamburger SV,1. FC Cologne,1,1,2.300,3.500,3.000
-61514066,2026-03-15 14:30,Werder Bremen,FSV Mainz,0,2,2.250,3.500,3.100
-61514064,2026-03-15 16:30,SC Freiburg,Union Berlin,0,1,1.950,3.600,3.800
-61514068,2026-03-15 18:30,VfB Stuttgart,RB Leipzig,1,0,2.400,3.900,2.600
-61514082,2026-03-20 19:30,RB Leipzig,TSG Hoffenheim,5,0,1.850,3.600,3.300
-61514076,2026-03-21 14:30,Bayern Munich,Union Berlin,4,0,1.142,9.000,13.000
-61514084,2026-03-21 14:30,VFL Wolfsburg,Werder Bremen,0,1,2.350,3.700,2.800
-61514090,2026-03-21 14:30,1. FC Heidenheim,Bayer Leverkusen,3,3,5.000,4.500,1.550
-61514092,2026-03-21 14:30,1. FC Cologne,Borussia Monchengladbach,3,3,2.250,3.400,3.200
-61514078,2026-03-21 17:30,Borussia Dortmund,Hamburger SV,3,2,1.420,4.750,7.000
-61514080,2026-03-22 14:30,FSV Mainz,Eintracht Frankfurt,2,1,2.150,3.600,3.250
-61514088,2026-03-22 16:30,FC St. Pauli,SC Freiburg,1,2,2.625,3.100,2.900
-61514086,2026-03-22 18:30,FC Augsburg,VfB Stuttgart,2,5,3.500,3.800,2.000
-61514094,2026-04-04 13:30,Bayer Leverkusen,VFL Wolfsburg,6,3,1.444,4.750,6.500
-61514098,2026-04-04 13:30,SC Freiburg,Bayern Munich,2,3,5.250,4.750,1.533
-61514100,2026-04-04 13:30,Werder Bremen,RB Leipzig,1,2,3.700,4.000,1.900
-61514104,2026-04-04 13:30,Borussia Monchengladbach,1. FC Heidenheim,2,2,1.615,4.200,5.000
-61514108,2026-04-04 13:30,TSG Hoffenheim,FSV Mainz,1,2,1.727,3.900,4.500
-61514110,2026-04-04 13:30,Hamburger SV,FC Augsburg,1,1,2.350,3.500,2.900
-61514102,2026-04-04 16:30,VfB Stuttgart,Borussia Dortmund,0,2,2.350,3.900,2.700
-61514106,2026-04-05 13:30,Union Berlin,FC St. Pauli,1,1,2.000,3.250,4.000
-61514096,2026-04-05 15:30,Eintracht Frankfurt,1. FC Cologne,2,2,1.900,3.800,3.750
-61514122,2026-04-10 18:30,FC Augsburg,TSG Hoffenheim,2,2,3.600,3.900,1.950
-61514112,2026-04-11 13:30,Borussia Dortmund,Bayer Leverkusen,0,1,2.100,3.800,3.200
-61514116,2026-04-11 13:30,RB Leipzig,Borussia Monchengladbach,0,0,1.450,5.000,6.000
-61514120,2026-04-11 13:30,VFL Wolfsburg,Eintracht Frankfurt,0,2,2.500,3.600,2.700
-61514126,2026-04-11 13:30,1. FC Heidenheim,Union Berlin,2,0,2.750,3.400,2.500
-61514124,2026-04-11 16:30,FC St. Pauli,Bayern Munich,0,5,8.000,5.500,1.333
-61514128,2026-04-12 13:30,1. FC Cologne,Werder Bremen,3,1,2.300,3.400,3.100
-61514118,2026-04-12 15:30,VfB Stuttgart,Hamburger SV,4,0,1.285,6.000,9.000
-61514114,2026-04-12 17:30,FSV Mainz,SC Freiburg,0,1,2.200,3.000,3.600
-61514144,2026-04-17 18:30,FC St. Pauli,1. FC Cologne,1,1,2.875,3.250,2.450
-61514132,2026-04-18 13:30,Bayer Leverkusen,FC Augsburg,1,2,1.400,5.250,7.000
-61514138,2026-04-18 13:30,Werder Bremen,Hamburger SV,3,1,1.750,3.750,4.500
-61514142,2026-04-18 13:30,Union Berlin,VFL Wolfsburg,1,2,2.200,3.600,3.100
-61514146,2026-04-18 13:30,TSG Hoffenheim,Borussia Dortmund,2,1,2.150,3.900,3.000
-61514134,2026-04-18 16:30,Eintracht Frankfurt,RB Leipzig,1,3,3.000,3.900,2.200
-61514136,2026-04-19 13:30,SC Freiburg,1. FC Heidenheim,2,1,1.650,4.200,5.000
-61514130,2026-04-19 15:30,Bayern Munich,VfB Stuttgart,4,2,1.480,5.250,5.500
-61514140,2026-04-19 17:30,Borussia Monchengladbach,FSV Mainz,1,1,2.250,3.500,3.100
-61514152,2026-04-24 18:30,RB Leipzig,Union Berlin,3,1,1.420,5.000,6.500
-61514150,2026-04-25 13:30,FSV Mainz,Bayern Munich,3,4,3.600,4.200,1.850
-61514156,2026-04-25 13:30,VFL Wolfsburg,Borussia Monchengladbach,0,0,2.100,3.800,3.200
-61514158,2026-04-25 13:30,FC Augsburg,Eintracht Frankfurt,1,1,2.350,3.900,2.625
-61514160,2026-04-25 13:30,1. FC Heidenheim,FC St. Pauli,2,0,2.300,3.500,3.000
-61514162,2026-04-25 13:30,1. FC Cologne,Bayer Leverkusen,1,2,3.600,4.000,1.909
-61514164,2026-04-25 16:30,Hamburger SV,TSG Hoffenheim,1,2,4.500,4.200,1.650
-61514154,2026-04-26 13:30,VfB Stuttgart,Werder Bremen,1,1,1.550,4.500,5.250
-61514148,2026-04-26 15:30,Borussia Dortmund,SC Freiburg,4,0,1.444,5.000,6.250
-61514166,2026-05-02 13:30,Bayern Munich,1. FC Heidenheim,3,3,1.250,7.000,9.000
-61514170,2026-05-02 13:30,Eintracht Frankfurt,Hamburger SV,1,2,1.700,4.200,4.333
-61514174,2026-05-02 13:30,Werder Bremen,FC Augsburg,1,3,1.909,3.700,3.700
-61514178,2026-05-02 13:30,Union Berlin,1. FC Cologne,2,2,2.625,3.400,2.600
-61514182,2026-05-02 13:30,TSG Hoffenheim,VfB Stuttgart,3,3,2.150,4.100,2.875
-61514168,2026-05-02 16:30,Bayer Leverkusen,RB Leipzig,4,1,2.100,4.000,3.100
-61514180,2026-05-03 13:30,FC St. Pauli,FSV Mainz,1,2,2.875,3.250,2.500
-61514176,2026-05-03 15:30,Borussia Monchengladbach,Borussia Dortmund,1,0,3.750,3.900,1.900
-61514172,2026-05-03 17:30,SC Freiburg,VFL Wolfsburg,1,1,2.050,3.600,3.500
-61514184,2026-05-08 18:30,Borussia Dortmund,Eintracht Frankfurt,3,2,1.727,4.200,4.100
-61514188,2026-05-09 13:30,RB Leipzig,FC St. Pauli,2,1,1.270,6.250,9.000
-61514190,2026-05-09 13:30,VfB Stuttgart,Bayer Leverkusen,3,1,2.000,4.100,3.200
-61514194,2026-05-09 13:30,FC Augsburg,Borussia Monchengladbach,3,1,1.909,4.000,3.500
-61514196,2026-05-09 13:30,TSG Hoffenheim,Werder Bremen,1,0,1.500,5.000,5.500
-61514192,2026-05-09 16:30,VFL Wolfsburg,Bayern Munich,0,1,5.250,5.250,1.480
-61514200,2026-05-10 13:30,Hamburger SV,SC Freiburg,3,2,3.100,3.600,2.200
-61514198,2026-05-10 15:30,1. FC Cologne,1. FC Heidenheim,1,3,2.050,4.100,3.100
-61514186,2026-05-10 17:30,FSV Mainz,Union Berlin,2,3,1.666,4.333,4.500
-61515274,2026-05-16 13:30,Bayern Munich,1. FC Cologne,5,1,1.125,9.000,12.000
-61515276,2026-05-16 13:30,Bayer Leverkusen,Hamburger SV,1,1,1.285,6.500,8.000
-61515278,2026-05-16 13:30,Eintracht Frankfurt,VfB Stuttgart,2,2,3.600,4.333,1.833
-61515282,2026-05-16 13:30,SC Freiburg,RB Leipzig,4,1,2.450,3.900,2.550
-61515284,2026-05-16 13:30,Werder Bremen,Borussia Dortmund,1,2,3.300,4.000,2.000
-61515288,2026-05-16 13:30,Borussia Monchengladbach,TSG Hoffenheim,4,0,4.500,4.750,1.615
-61515290,2026-05-16 13:30,Union Berlin,FC Augsburg,4,0,2.600,4.000,2.400
-61515292,2026-05-16 13:30,FC St. Pauli,VFL Wolfsburg,1,3,2.550,3.700,2.550
-61515296,2026-05-16 13:30,1. FC Heidenheim,FSV Mainz,0,2,1.950,4.200,3.300
-71443804,2026-05-21 18:30,VFL Wolfsburg,SC Paderborn 07,0,0,1.600,4.000,5.500
-71443806,2026-05-25 18:30,SC Paderborn 07,VFL Wolfsburg,2,1,3.250,3.400,2.150
-72513148,2026-08-28 18:30,Bayern Munich,VfB Stuttgart,5,1,1.222,7.500,10.000
-72513152,2026-08-29 13:30,RB Leipzig,Borussia Monchengladbach,3,0,1.550,4.500,5.250
-72513158,2026-08-29 13:30,FSV Mainz,SC Paderborn 07,0,0,1.500,4.500,6.000
-72513160,2026-08-29 13:30,Union Berlin,Eintracht Frankfurt,3,3,2.625,3.700,2.500
-72513162,2026-08-29 13:30,1. FC Cologne,TSG Hoffenheim,3,2,3.200,3.750,2.100
-72513164,2026-08-29 13:30,SV 07 Elversberg,Bayer Leverkusen,3,2,5.250,4.333,1.571
-72513150,2026-08-29 16:30,Borussia Dortmund,Hamburger SV,2,0,1.363,5.500,7.000
-72513154,2026-08-30 13:30,SC Freiburg,Werder Bremen,4,1,1.750,3.800,4.500
-72513156,2026-08-30 15:30,FC Augsburg,Schalke 04,3,0,2.250,3.600,3.000
-72513166,2026-09-04 18:30,VfB Stuttgart,1. FC Cologne,4,1,1.444,5.250,6.250
-72513168,2026-09-05 13:30,TSG Hoffenheim,Borussia Dortmund,2,3,2.450,3.750,2.625
-72513170,2026-09-05 13:30,Bayer Leverkusen,Union Berlin,4,0,1.333,5.500,7.500
-72513174,2026-09-05 13:30,Borussia Monchengladbach,SV 07 Elversberg,3,4,1.909,3.900,3.500
-72513178,2026-09-05 13:30,Werder Bremen,RB Leipzig,3,1,3.900,4.200,1.800
-72513182,2026-09-05 13:30,SC Paderborn 07,SC Freiburg,0,1,3.600,3.800,1.909
-72513180,2026-09-05 16:30,Schalke 04,Bayern Munich,0,0,13.000,7.000,1.200
-72513176,2026-09-06 13:30,Hamburger SV,FSV Mainz,0,5,2.900,3.300,2.400
-72513172,2026-09-06 15:30,Eintracht Frankfurt,FC Augsburg,1,4,1.833,4.100,3.750
-72513196,2026-09-11 18:30,Union Berlin,Schalke 04,1,3,2.350,3.400,3.000
-72513184,2026-09-12 13:30,Borussia Dortmund,SC Paderborn 07,3,0,1.285,6.500,8.000
-72513188,2026-09-12 13:30,TSG Hoffenheim,VfB Stuttgart,2,1,2.150,4.000,2.900
-72513190,2026-09-12 13:30,SC Freiburg,Borussia Monchengladbach,5,0,1.666,4.200,4.750
-72513192,2026-09-12 13:30,FC Augsburg,Bayer Leverkusen,2,2,3.700,4.100,1.850
-72513194,2026-09-12 13:30,FSV Mainz,Eintracht Frankfurt,1,3,1.727,4.200,4.100
-72513198,2026-09-12 16:30,1. FC Cologne,Werder Bremen,1,1,2.050,3.900,3.200
-72513186,2026-09-13 13:30,RB Leipzig,Hamburger SV,5,0,1.380,5.250,7.000
-72513200,2026-09-13 15:30,SV 07 Elversberg,Bayern Munich,1,2,12.000,9.000,1.166
-72513202,2026-09-18 18:30,Bayern Munich,Union Berlin,7,0,1.035,19.000,29.000
-72513208,2026-09-19 13:30,Eintracht Frankfurt,SC Freiburg,2,2,2.500,3.750,2.600
-72513210,2026-09-19 13:30,Borussia Monchengladbach,FSV Mainz,3,4,3.200,3.750,2.100
-72513212,2026-09-19 13:30,Hamburger SV,1. FC Cologne,2,1,2.700,3.600,2.450
-72513214,2026-09-19 13:30,Werder Bremen,FC Augsburg,3,2,2.250,3.700,2.900
-72513204,2026-09-19 16:30,VfB Stuttgart,Borussia Dortmund,0,1,2.350,3.900,2.700
-72513206,2026-09-20 13:30,Bayer Leverkusen,RB Leipzig,2,0,1.850,4.500,3.400
-72513216,2026-09-20 15:30,Schalke 04,SV 07 Elversberg,0,0,1.900,3.900,3.700
-72513218,2026-09-20 17:30,SC Paderborn 07,TSG Hoffenheim,3,1,3.900,4.200,1.800
-72513220,2026-10-09 18:30,Borussia Dortmund,Werder Bremen,2,2,1.363,5.000,8.000
-72513224,2026-10-10 13:30,TSG Hoffenheim,Hamburger SV,2,3,1.400,4.750,7.000
-72513228,2026-10-10 13:30,FC Augsburg,Bayern Munich,2,2,13.000,9.500,1.142
-72513230,2026-10-10 13:30,FSV Mainz,Bayer Leverkusen,3,4,3.100,3.600,2.200
-72513232,2026-10-10 13:30,Union Berlin,SV 07 Elversberg,1,0,2.500,3.500,2.700
-72513236,2026-10-10 13:30,SC Paderborn 07,VfB Stuttgart,0,2,4.500,4.500,1.615
-72513222,2026-10-10 16:30,RB Leipzig,Eintracht Frankfurt,6,0,1.600,4.500,4.750
-72513234,2026-10-11 13:30,1. FC Cologne,Borussia Monchengladbach,2,1,2.000,3.800,3.500
-72513226,2026-10-11 15:30,SC Freiburg,Schalke 04,2,1,1.615,4.100,5.250
-72513242,2026-10-16 18:30,Eintracht Frankfurt,1. FC Cologne,1,0,1.750,4.333,3.900
-72513244,2026-10-17 13:30,Union Berlin,Borussia Dortmund,0,0,6.250,4.500,1.500
-72513248,2026-10-17 13:30,Hamburger SV,VfB Stuttgart,1,0,4.100,4.200,1.727
-72513250,2026-10-17 13:30,Werder Bremen,SC Paderborn 07,2,2,1.666,4.333,4.500
-72513252,2026-10-17 13:30,Schalke 04,FSV Mainz,0,1,2.800,3.500,2.450
-72513254,2026-10-17 13:30,SV 07 Elversberg,FC Augsburg,4,3,2.500,3.700,2.625
-72513238,2026-10-17 16:30,Bayern Munich,RB Leipzig,6,1,1.250,7.000,9.500
-72513240,2026-10-18 13:30,Bayer Leverkusen,SC Freiburg,2,1,1.600,4.500,4.750
-72513246,2026-10-18 15:30,Borussia Monchengladbach,TSG Hoffenheim,1,2,2.800,4.000,2.200
-72513260,2026-10-23 18:30,VfB Stuttgart,Borussia Monchengladbach,2,3,1.363,5.500,7.000
-72513258,2026-10-24 13:30,RB Leipzig,SV 07 Elversberg,4,0,1.533,4.750,5.250
-72513266,2026-10-24 13:30,FC Augsburg,Union Berlin,1,1,1.700,4.100,4.500
-72513268,2026-10-24 13:30,FSV Mainz,Werder Bremen,2,3,1.727,4.000,4.333
-72513270,2026-10-24 13:30,1. FC Cologne,Schalke 04,0,0,2.200,3.750,3.100
-72513272,2026-10-24 13:30,SC Paderborn 07,Hamburger SV,1,0,2.150,3.700,3.100
-72513256,2026-10-24 16:30,Borussia Dortmund,Eintracht Frankfurt,1,0,1.400,5.250,6.500
-72513262,2026-10-25 14:30,TSG Hoffenheim,Bayer Leverkusen,3,0,3.300,4.000,2.000
-72513264,2026-10-25 16:30,SC Freiburg,Bayern Munich,1,3,6.000,5.500,1.420
-72513290,2026-10-30 19:30,SV 07 Elversberg,FSV Mainz,4,1,3.750,3.900,1.850
-72513276,2026-10-31 14:30,Bayer Leverkusen,VfB Stuttgart,2,4,1.700,4.500,4.100
-72513280,2026-10-31 14:30,FC Augsburg,SC Freiburg,1,2,2.625,3.700,2.500
-72513284,2026-10-31 14:30,Borussia Monchengladbach,SC Paderborn 07,0,0,2.150,3.750,3.100
-72513286,2026-10-31 14:30,Werder Bremen,TSG Hoffenheim,2,0,2.250,3.900,2.875
-72513288,2026-10-31 14:30,Schalke 04,RB Leipzig,0,2,4.100,3.750,1.850
-72513274,2026-10-31 17:30,Bayern Munich,Borussia Dortmund,2,2,1.333,6.000,8.000
-72513282,2026-11-01 14:30,Union Berlin,1. FC Cologne,1,1,2.625,3.400,2.600
-72513278,2026-11-01 16:30,Eintracht Frankfurt,Hamburger SV,3,1,1.480,5.000,6.000
-72513304,2026-11-06 19:30,Hamburger SV,Borussia Monchengladbach,3,1,2.300,3.500,2.900
-72513292,2026-11-07 14:30,Borussia Dortmund,SV 07 Elversberg,2,1,1.363,5.250,7.500
-72513294,2026-11-07 14:30,RB Leipzig,FC Augsburg,5,2,1.400,5.250,6.250
-72513302,2026-11-07 14:30,FSV Mainz,Bayern Munich,1,2,9.000,7.000,1.270
-72513308,2026-11-07 14:30,SC Paderborn 07,Eintracht Frankfurt,2,2,3.100,3.800,2.150
-72513296,2026-11-07 17:30,VfB Stuttgart,Werder Bremen,1,0,1.800,4.200,3.750
-72513306,2026-11-08 14:30,1. FC Cologne,Bayer Leverkusen,1,2,4.333,4.100,1.727
-72513300,2026-11-08 16:30,SC Freiburg,Union Berlin,2,0,1.450,4.500,7.000
-72513298,2026-11-08 18:30,TSG Hoffenheim,Schalke 04,2,1,1.533,4.500,5.500
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+60433915,2025-05-22 18:30,1. FC Heidenheim,SV 07 Elversberg,2,2,,,,,,
+60433921,2025-05-26 18:30,SV 07 Elversberg,1. FC Heidenheim,1,2,,,,,,
+61489293,2025-08-22 18:30,Bayern Munich,RB Leipzig,6,0,,,,,,
+61496019,2025-08-23 13:30,Eintracht Frankfurt,Werder Bremen,4,1,,,,,,
+61512400,2025-08-23 13:30,Bayer Leverkusen,TSG Hoffenheim,1,2,,,,,,
+61512402,2025-08-23 13:30,SC Freiburg,FC Augsburg,1,3,,,,,,
+61512410,2025-08-23 13:30,Union Berlin,VfB Stuttgart,2,1,,,,,,
+61512414,2025-08-23 13:30,1. FC Heidenheim,VfL Wolfsburg,1,3,,,,,,
+61512412,2025-08-23 16:30,FC St. Pauli,Borussia Dortmund,3,3,,,,,,
+61512406,2025-08-24 13:30,FSV Mainz,1. FC Cologne,0,1,,,,,,
+61512408,2025-08-24 15:30,Borussia Monchengladbach,Hamburger SV,0,0,,,,,,
+61513644,2025-08-29 18:30,Hamburger SV,FC St. Pauli,0,2,,,,,,
+61513630,2025-08-30 13:30,RB Leipzig,1. FC Heidenheim,2,0,,,,,,
+61513632,2025-08-30 13:30,Werder Bremen,Bayer Leverkusen,3,3,,,,,,
+61513634,2025-08-30 13:30,VfB Stuttgart,Borussia Monchengladbach,1,0,,,,,,
+61513640,2025-08-30 13:30,TSG Hoffenheim,Eintracht Frankfurt,1,3,,,,,,
+61513638,2025-08-30 16:30,FC Augsburg,Bayern Munich,2,3,,,,,,
+61513636,2025-08-31 13:30,VfL Wolfsburg,FSV Mainz,1,1,,,,,,
+61513628,2025-08-31 15:30,Borussia Dortmund,Union Berlin,3,0,,,,,,
+61513642,2025-08-31 17:30,1. FC Cologne,SC Freiburg,4,1,,,,,,
+61513646,2025-09-12 18:30,Bayer Leverkusen,Eintracht Frankfurt,3,1,,,,,,
+61513648,2025-09-13 13:30,SC Freiburg,VfB Stuttgart,3,1,,,,,,
+61513650,2025-09-13 13:30,FSV Mainz,RB Leipzig,0,1,,,,,,
+61513654,2025-09-13 13:30,VfL Wolfsburg,1. FC Cologne,3,3,,,,,,
+61513656,2025-09-13 13:30,Union Berlin,TSG Hoffenheim,2,4,,,,,,
+61513660,2025-09-13 13:30,1. FC Heidenheim,Borussia Dortmund,0,2,,,,,,
+61498395,2025-09-13 16:30,Bayern Munich,Hamburger SV,5,0,,,,,,
+61513658,2025-09-14 13:30,FC St. Pauli,FC Augsburg,2,1,,,,,,
+61513652,2025-09-14 15:30,Borussia Monchengladbach,Werder Bremen,0,4,,,,,,
+61513672,2025-09-19 18:30,VfB Stuttgart,FC St. Pauli,2,0,,,,,,
+61513670,2025-09-20 13:30,Werder Bremen,SC Freiburg,0,3,,,,,,
+61513674,2025-09-20 13:30,FC Augsburg,FSV Mainz,1,4,,,,,,
+61513676,2025-09-20 13:30,TSG Hoffenheim,Bayern Munich,1,4,,,,,,
+61513678,2025-09-20 13:30,Hamburger SV,1. FC Heidenheim,2,1,,,,,,
+61513668,2025-09-20 16:30,RB Leipzig,1. FC Cologne,3,1,,,,,,
+61513664,2025-09-21 13:30,Eintracht Frankfurt,Union Berlin,3,4,,,,,,
+61513662,2025-09-21 15:30,Bayer Leverkusen,Borussia Monchengladbach,1,1,,,,,,
+61513666,2025-09-21 17:30,Borussia Dortmund,VfL Wolfsburg,1,0,,,,,,
+61513680,2025-09-26 18:30,Bayern Munich,Werder Bremen,4,0,,,,,,
+61513684,2025-09-27 13:30,FSV Mainz,Borussia Dortmund,0,2,,,,,,
+61513688,2025-09-27 13:30,VfL Wolfsburg,RB Leipzig,0,1,,,,,,
+61513692,2025-09-27 13:30,FC St. Pauli,Bayer Leverkusen,1,2,,,,,,
+61513694,2025-09-27 13:30,1. FC Heidenheim,FC Augsburg,2,1,,,,,,
+61513686,2025-09-27 16:30,Borussia Monchengladbach,Eintracht Frankfurt,4,6,,,,,,
+61513682,2025-09-28 13:30,SC Freiburg,TSG Hoffenheim,1,1,,,,,,
+61513696,2025-09-28 15:30,1. FC Cologne,VfB Stuttgart,1,2,,,,,,
+61513690,2025-09-28 17:30,Union Berlin,Hamburger SV,0,0,,,,,,
+61513712,2025-10-03 18:30,TSG Hoffenheim,1. FC Cologne,0,1,,,,,,
+61513698,2025-10-04 13:30,Bayer Leverkusen,Union Berlin,2,0,,,,,,
+61513702,2025-10-04 13:30,Borussia Dortmund,RB Leipzig,1,1,,,,,,
+61513704,2025-10-04 13:30,Werder Bremen,FC St. Pauli,1,0,,,,,,
+61513710,2025-10-04 13:30,FC Augsburg,VfL Wolfsburg,3,1,,,,,,
+61513700,2025-10-04 16:30,Eintracht Frankfurt,Bayern Munich,0,3,,,,,,
+61513706,2025-10-05 13:30,VfB Stuttgart,1. FC Heidenheim,1,0,,,,,,
+61513714,2025-10-05 15:30,Hamburger SV,FSV Mainz,4,0,,,,,,
+61513708,2025-10-05 17:30,Borussia Monchengladbach,SC Freiburg,0,0,,,,,,
+61513726,2025-10-17 18:30,Union Berlin,Borussia Monchengladbach,3,1,,,,,,
+61513720,2025-10-18 13:30,FSV Mainz,Bayer Leverkusen,3,4,,,,,,
+61513722,2025-10-18 13:30,RB Leipzig,Hamburger SV,2,1,,,,,,
+61513724,2025-10-18 13:30,VfL Wolfsburg,VfB Stuttgart,0,3,,,,,,
+61513730,2025-10-18 13:30,1. FC Heidenheim,Werder Bremen,2,2,,,,,,
+61513732,2025-10-18 13:30,1. FC Cologne,FC Augsburg,1,1,,,,,,
+61513716,2025-10-18 16:30,Bayern Munich,Borussia Dortmund,2,1,,,,,,
+61513718,2025-10-19 13:30,SC Freiburg,Eintracht Frankfurt,2,2,,,,,,
+61513728,2025-10-19 15:30,FC St. Pauli,TSG Hoffenheim,0,3,,,,,,
+61513740,2025-10-24 18:30,Werder Bremen,Union Berlin,1,0,,,,,,
+61513736,2025-10-25 13:30,Eintracht Frankfurt,FC St. Pauli,2,0,,,,,,
+61513746,2025-10-25 13:30,FC Augsburg,RB Leipzig,0,6,,,,,,
+61513748,2025-10-25 13:30,TSG Hoffenheim,1. FC Heidenheim,3,1,,,,,,
+61513750,2025-10-25 13:30,Hamburger SV,VfL Wolfsburg,0,1,,,,,,
+61513744,2025-10-25 13:45,Borussia Monchengladbach,Bayern Munich,0,3,,,,,,
+61513738,2025-10-25 16:30,Borussia Dortmund,1. FC Cologne,1,0,,,,,,
+61513734,2025-10-26 14:30,Bayer Leverkusen,SC Freiburg,2,0,,,,,,
+61513742,2025-10-26 16:30,VfB Stuttgart,FSV Mainz,2,1,,,,,,
+61513760,2025-10-31 19:30,FC Augsburg,Borussia Dortmund,0,1,,,,,,
+61513754,2025-11-01 14:30,FSV Mainz,Werder Bremen,1,1,,,,,,
+61513756,2025-11-01 14:30,RB Leipzig,VfB Stuttgart,3,1,,,,,,
+61513762,2025-11-01 14:30,Union Berlin,SC Freiburg,0,0,,,,,,
+61513764,2025-11-01 14:30,FC St. Pauli,Borussia Monchengladbach,0,4,,,,,,
+61513766,2025-11-01 14:30,1. FC Heidenheim,Eintracht Frankfurt,1,1,,,,,,
+61513752,2025-11-01 17:30,Bayern Munich,Bayer Leverkusen,3,0,,,,,,
+61513768,2025-11-02 14:30,1. FC Cologne,Hamburger SV,4,1,,,,,,
+61513758,2025-11-02 16:30,VfL Wolfsburg,TSG Hoffenheim,2,3,,,,,,
+61513776,2025-11-07 19:30,Werder Bremen,VfL Wolfsburg,2,1,,,,,,
+61513770,2025-11-08 14:30,Bayer Leverkusen,1. FC Heidenheim,6,0,,,,,,
+61513782,2025-11-08 14:30,Union Berlin,Bayern Munich,2,2,,,,,,
+61513784,2025-11-08 14:30,TSG Hoffenheim,RB Leipzig,3,1,,,,,,
+61513786,2025-11-08 14:30,Hamburger SV,Borussia Dortmund,1,1,,,,,,
+61513780,2025-11-08 17:30,Borussia Monchengladbach,1. FC Cologne,3,1,,,,,,
+61513774,2025-11-09 14:30,SC Freiburg,FC St. Pauli,2,1,,,,,,
+61513778,2025-11-09 16:30,VfB Stuttgart,FC Augsburg,3,2,,,,,,
+61513772,2025-11-09 18:30,Eintracht Frankfurt,FSV Mainz,1,0,,,,,,
+61513792,2025-11-21 19:30,FSV Mainz,TSG Hoffenheim,1,1,,,,,,
+61513788,2025-11-22 14:30,Bayern Munich,SC Freiburg,6,2,,,,,,
+61513790,2025-11-22 14:30,Borussia Dortmund,VfB Stuttgart,3,3,,,,,,
+61513796,2025-11-22 14:30,VfL Wolfsburg,Bayer Leverkusen,1,3,,,,,,
+61513798,2025-11-22 14:30,FC Augsburg,Hamburger SV,1,0,,,,,,
+61513802,2025-11-22 14:30,1. FC Heidenheim,Borussia Monchengladbach,0,3,,,,,,
+61513804,2025-11-22 17:30,1. FC Cologne,Eintracht Frankfurt,3,4,,,,,,
+61513794,2025-11-23 14:30,RB Leipzig,Werder Bremen,2,0,,,,,,
+61513800,2025-11-23 16:30,FC St. Pauli,Union Berlin,0,1,,,,,,
+61513816,2025-11-28 19:30,Borussia Monchengladbach,RB Leipzig,0,0,,,,,,
+61513806,2025-11-29 14:30,Bayern Munich,FC St. Pauli,3,1,,,,,,
+61513814,2025-11-29 14:30,Werder Bremen,1. FC Cologne,1,1,,,,,,
+61513818,2025-11-29 14:30,Union Berlin,1. FC Heidenheim,1,2,,,,,,
+61513820,2025-11-29 14:30,TSG Hoffenheim,FC Augsburg,3,0,,,,,,
+61513808,2025-11-29 17:30,Bayer Leverkusen,Borussia Dortmund,1,2,,,,,,
+61513822,2025-11-30 14:30,Hamburger SV,VfB Stuttgart,2,1,,,,,,
+61513810,2025-11-30 16:30,Eintracht Frankfurt,VfL Wolfsburg,1,1,,,,,,
+61513812,2025-11-30 18:30,SC Freiburg,FSV Mainz,4,0,,,,,,
+61513826,2025-12-05 19:30,FSV Mainz,Borussia Monchengladbach,0,1,,,,,,
+61513830,2025-12-06 14:30,VfB Stuttgart,Bayern Munich,0,5,,,,,,
+61513832,2025-12-06 14:30,VfL Wolfsburg,Union Berlin,3,1,,,,,,
+61513834,2025-12-06 14:30,FC Augsburg,Bayer Leverkusen,2,0,,,,,,
+61513836,2025-12-06 14:30,1. FC Heidenheim,SC Freiburg,2,1,,,,,,
+61513838,2025-12-06 14:30,1. FC Cologne,FC St. Pauli,1,1,,,,,,
+61513828,2025-12-06 17:30,RB Leipzig,Eintracht Frankfurt,6,0,,,,,,
+61513840,2025-12-07 14:30,Hamburger SV,Werder Bremen,3,2,,,,,,
+61513824,2025-12-07 16:30,Borussia Dortmund,TSG Hoffenheim,2,0,,,,,,
+61513854,2025-12-12 19:30,Union Berlin,RB Leipzig,3,1,2.900,3.400,2.350,2.5,1.975,1.875
+61513846,2025-12-13 14:30,Eintracht Frankfurt,FC Augsburg,1,0,1.800,3.900,4.200,2.75,2.025,1.825
+61513852,2025-12-13 14:30,Borussia Monchengladbach,VfL Wolfsburg,1,3,,,,,,
+61513856,2025-12-13 14:30,FC St. Pauli,1. FC Heidenheim,2,1,1.850,3.400,4.333,2.25,1.925,1.925
+61513858,2025-12-13 14:30,TSG Hoffenheim,Hamburger SV,4,1,1.700,4.200,4.200,3,1.975,1.875
+61513844,2025-12-13 17:30,Bayer Leverkusen,1. FC Cologne,2,0,1.750,4.100,4.100,3.25,1.975,1.875
+61513848,2025-12-14 14:30,SC Freiburg,Borussia Dortmund,1,1,3.800,3.600,1.950,2.5,2.050,1.800
+61513842,2025-12-14 16:30,Bayern Munich,FSV Mainz,2,2,1.083,12.000,19.000,4,1.925,1.925
+61513850,2025-12-14 18:30,Werder Bremen,VfB Stuttgart,0,4,2.800,3.800,2.350,3,1.950,1.900
+61513860,2025-12-19 19:30,Borussia Dortmund,Borussia Monchengladbach,2,0,,,,,,
+61513866,2025-12-20 14:30,VfB Stuttgart,TSG Hoffenheim,0,0,1.950,3.800,3.700,3.25,2.050,1.800
+61513868,2025-12-20 14:30,VfL Wolfsburg,SC Freiburg,3,4,2.350,3.500,2.900,2.5,1.900,1.950
+61513870,2025-12-20 14:30,FC Augsburg,Werder Bremen,0,0,2.200,3.500,3.200,2.75,2.025,1.825
+61513874,2025-12-20 14:30,1. FC Cologne,Union Berlin,0,1,2.550,3.100,2.875,2.5,1.850,2.000
+61513876,2025-12-20 14:30,Hamburger SV,Eintracht Frankfurt,1,1,2.350,3.500,2.900,2.5,1.850,2.000
+61513864,2025-12-20 17:30,RB Leipzig,Bayer Leverkusen,1,3,2.050,3.900,3.250,3,1.900,1.950
+61513862,2025-12-21 14:30,FSV Mainz,FC St. Pauli,0,0,1.950,3.300,4.100,2.25,1.975,1.875
+61513872,2025-12-21 16:30,1. FC Heidenheim,Bayern Munich,0,4,13.000,9.500,1.142,3.75,1.925,1.925
+61513882,2026-01-09 19:30,Eintracht Frankfurt,Borussia Dortmund,3,3,3.250,3.750,2.050,3,2.025,1.825
+61513884,2026-01-10 14:30,SC Freiburg,Hamburger SV,2,1,1.800,3.500,4.750,2.5,1.925,1.925
+61513890,2026-01-10 14:30,Union Berlin,FSV Mainz,2,2,2.050,3.300,3.900,2.25,1.950,1.900
+61513894,2026-01-10 14:30,1. FC Heidenheim,1. FC Cologne,2,2,2.750,3.400,2.500,2.75,2.000,1.850
+61513880,2026-01-10 17:30,Bayer Leverkusen,VfB Stuttgart,1,4,2.150,3.750,3.100,3,2.025,1.825
+61513888,2026-01-11 14:30,Borussia Monchengladbach,FC Augsburg,4,0,,,,,,
+61513878,2026-01-11 16:30,Bayern Munich,VfL Wolfsburg,8,1,1.125,9.500,17.000,4,1.850,2.000
+61513902,2026-01-13 17:30,VfB Stuttgart,Eintracht Frankfurt,3,2,1.666,4.333,4.333,3.25,1.925,1.925
+61513896,2026-01-13 19:30,Borussia Dortmund,Werder Bremen,3,0,1.444,5.000,6.250,3,1.875,1.975
+61513898,2026-01-13 19:30,FSV Mainz,1. FC Heidenheim,2,1,1.750,3.800,4.500,2.75,2.000,1.850
+61513904,2026-01-14 17:30,VfL Wolfsburg,FC St. Pauli,2,1,1.850,3.600,4.333,2.5,1.925,1.925
+61513900,2026-01-14 19:30,RB Leipzig,SC Freiburg,2,0,1.750,3.900,4.333,2.75,1.825,2.025
+61513908,2026-01-14 19:30,TSG Hoffenheim,Borussia Monchengladbach,5,1,1.909,3.900,3.600,3,1.925,1.925
+61513910,2026-01-14 19:30,1. FC Cologne,Bayern Munich,1,3,11.000,7.000,1.200,3.75,2.025,1.825
+61513906,2026-01-15 19:30,FC Augsburg,Union Berlin,1,1,2.600,3.200,2.750,2.25,1.925,1.925
+61513918,2026-01-16 19:30,Werder Bremen,Eintracht Frankfurt,3,3,2.625,3.600,2.500,3,1.950,1.900
+61513914,2026-01-17 14:30,Borussia Dortmund,FC St. Pauli,3,2,1.300,5.000,11.000,2.5,1.875,1.975
+61513922,2026-01-17 14:30,VfL Wolfsburg,1. FC Heidenheim,1,1,1.700,4.100,4.500,3,2.000,1.850
+61513926,2026-01-17 14:30,TSG Hoffenheim,Bayer Leverkusen,1,0,2.350,3.750,2.800,3,1.850,2.000
+61513928,2026-01-17 14:30,1. FC Cologne,FSV Mainz,2,1,2.150,3.400,3.400,2.5,1.875,1.975
+61513930,2026-01-17 14:30,Hamburger SV,Borussia Monchengladbach,0,0,2.450,3.500,2.800,2.5,1.925,1.925
+61513916,2026-01-17 17:30,RB Leipzig,Bayern Munich,1,5,4.100,4.333,1.700,3.75,1.925,1.925
+61513920,2026-01-18 14:30,VfB Stuttgart,Union Berlin,1,1,1.600,4.000,5.500,2.75,1.925,1.925
+61513924,2026-01-18 16:30,FC Augsburg,SC Freiburg,2,2,2.625,3.250,2.750,2.25,2.025,1.825
+61513946,2026-01-23 19:30,FC St. Pauli,Hamburger SV,0,0,2.800,2.900,2.800,2,1.925,1.925
+61513932,2026-01-24 14:30,Bayern Munich,FC Augsburg,1,2,1.142,10.000,13.000,4.25,1.825,2.025
+61513934,2026-01-24 14:30,Bayer Leverkusen,Werder Bremen,1,0,1.571,4.333,5.500,3.25,2.000,1.850
+61513936,2026-01-24 14:30,Eintracht Frankfurt,TSG Hoffenheim,1,3,3.000,3.600,2.200,3,1.800,2.050
+61513940,2026-01-24 14:30,FSV Mainz,VfL Wolfsburg,3,1,2.350,3.300,3.100,2.5,1.950,1.900
+61513948,2026-01-24 14:30,1. FC Heidenheim,RB Leipzig,0,3,4.333,4.333,1.650,3.25,1.925,1.925
+61513944,2026-01-24 17:30,Union Berlin,Borussia Dortmund,0,3,3.300,3.250,2.250,2.25,1.825,2.025
+61513942,2026-01-25 14:30,Borussia Monchengladbach,VfB Stuttgart,0,3,2.875,3.700,2.300,3,1.975,1.875
+61513938,2026-01-25 16:30,SC Freiburg,1. FC Cologne,2,1,2.000,3.700,3.500,2.75,1.850,2.000
+67760806,2026-01-27 19:30,Werder Bremen,TSG Hoffenheim,0,2,3.700,3.700,1.909,2.75,2.025,1.825
+67760808,2026-01-27 19:30,FC St. Pauli,RB Leipzig,1,1,5.000,3.500,1.750,2.25,1.850,2.000
+61513964,2026-01-30 19:30,1. FC Cologne,VfL Wolfsburg,1,0,2.000,3.700,3.400,2.75,1.825,2.025
+61513950,2026-01-31 14:30,Eintracht Frankfurt,Bayer Leverkusen,1,3,3.300,3.750,2.050,3,1.900,1.950
+61513954,2026-01-31 14:30,RB Leipzig,FSV Mainz,1,2,1.571,4.500,5.250,3.25,2.050,1.800
+61513956,2026-01-31 14:30,Werder Bremen,Borussia Monchengladbach,1,1,2.150,3.600,3.250,2.75,1.925,1.925
+61513960,2026-01-31 14:30,FC Augsburg,FC St. Pauli,2,1,2.100,3.200,3.750,2,1.850,2.000
+61513962,2026-01-31 14:30,TSG Hoffenheim,Union Berlin,3,1,1.833,3.750,4.200,2.5,1.825,2.025
+61513966,2026-01-31 17:30,Hamburger SV,Bayern Munich,2,2,7.500,6.000,1.300,3.25,2.000,1.850
+61513958,2026-02-01 14:30,VfB Stuttgart,SC Freiburg,1,0,1.615,4.200,5.000,3,2.000,1.850
+61513952,2026-02-01 16:30,Borussia Dortmund,1. FC Heidenheim,3,2,1.270,6.500,8.500,3.25,1.900,1.950
+61513978,2026-02-06 19:30,Union Berlin,Eintracht Frankfurt,1,1,2.100,3.500,3.400,2.5,2.000,1.850
+61513970,2026-02-07 14:30,SC Freiburg,Werder Bremen,1,0,2.200,3.400,3.400,2.75,2.000,1.850
+61513972,2026-02-07 14:30,FSV Mainz,FC Augsburg,2,0,1.950,3.700,3.750,2.5,1.825,2.025
+61513976,2026-02-07 14:30,VFL Wolfsburg,Borussia Dortmund,1,2,4.333,4.333,1.700,3,1.850,2.000
+61513980,2026-02-07 14:30,FC St. Pauli,VfB Stuttgart,2,1,4.750,3.900,1.700,2.5,1.875,1.975
+61513982,2026-02-07 14:30,1. FC Heidenheim,Hamburger SV,0,2,2.800,3.500,2.450,2.5,1.875,1.975
+61513974,2026-02-07 17:30,Borussia Monchengladbach,Bayer Leverkusen,1,1,3.400,3.700,2.050,2.75,1.875,1.975
+61513984,2026-02-08 14:30,1. FC Cologne,RB Leipzig,1,2,3.500,3.900,1.950,3.25,1.975,1.875
+61513968,2026-02-08 16:30,Bayern Munich,TSG Hoffenheim,5,1,1.222,7.500,9.000,3.75,1.875,1.975
+61513990,2026-02-13 19:30,Borussia Dortmund,FSV Mainz,4,0,1.650,4.200,4.750,3,1.975,1.875
+61513986,2026-02-14 14:30,Bayer Leverkusen,FC St. Pauli,4,0,1.533,4.333,5.750,2.5,2.025,1.825
+61513988,2026-02-14 14:30,Eintracht Frankfurt,Borussia Monchengladbach,3,0,2.100,3.500,3.400,2.5,1.925,1.925
+61513994,2026-02-14 14:30,Werder Bremen,Bayern Munich,0,3,8.000,6.250,1.300,3.75,1.925,1.925
+61514000,2026-02-14 14:30,TSG Hoffenheim,SC Freiburg,3,0,1.666,4.100,4.750,2.75,1.825,2.025
+61514002,2026-02-14 14:30,Hamburger SV,Union Berlin,3,2,2.400,3.250,3.100,2.25,1.925,1.925
+61513996,2026-02-14 17:30,VfB Stuttgart,1. FC Cologne,3,1,1.480,5.000,5.750,3.25,1.950,1.900
+61513998,2026-02-15 14:30,FC Augsburg,1. FC Heidenheim,1,0,1.850,3.800,4.000,2.75,1.925,1.925
+61513992,2026-02-15 16:30,RB Leipzig,VFL Wolfsburg,2,2,1.500,4.750,5.500,3.5,1.975,1.875
+61514008,2026-02-20 19:30,FSV Mainz,Hamburger SV,1,1,2.050,3.400,3.600,2.75,1.950,1.900
+61514004,2026-02-21 14:30,Bayern Munich,Eintracht Frankfurt,3,2,1.090,12.000,17.000,4.5,1.850,2.000
+61514012,2026-02-21 14:30,VFL Wolfsburg,FC Augsburg,2,3,2.150,3.400,3.300,2.75,1.900,1.950
+61514014,2026-02-21 14:30,Union Berlin,Bayer Leverkusen,1,0,3.100,3.300,2.350,2.5,1.800,2.050
+61514020,2026-02-21 14:30,1. FC Cologne,TSG Hoffenheim,2,2,3.500,3.900,1.950,2.75,1.825,2.025
+61514010,2026-02-21 17:30,RB Leipzig,Borussia Dortmund,2,2,2.000,3.900,3.400,3.25,2.000,1.850
+61514006,2026-02-22 14:30,SC Freiburg,Borussia Monchengladbach,2,1,2.100,3.250,3.700,2.5,1.825,2.025
+61514016,2026-02-22 16:30,FC St. Pauli,Werder Bremen,2,1,2.625,3.200,2.750,2.25,1.825,2.025
+61514018,2026-02-22 18:30,1. FC Heidenheim,VfB Stuttgart,3,3,4.333,4.333,1.666,3.25,2.000,1.850
+61514034,2026-02-27 19:30,FC Augsburg,1. FC Cologne,2,0,2.200,3.400,3.250,2.5,2.000,1.850
+61514022,2026-02-28 14:30,Bayer Leverkusen,FSV Mainz,1,1,1.700,4.100,4.333,2.75,1.825,2.025
+61514028,2026-02-28 14:30,Werder Bremen,1. FC Heidenheim,2,0,1.615,4.500,4.750,3,1.875,1.975
+61514032,2026-02-28 14:30,Borussia Monchengladbach,Union Berlin,1,0,2.375,3.300,3.000,2.25,2.050,1.800
+61514036,2026-02-28 14:30,TSG Hoffenheim,FC St. Pauli,0,1,1.533,4.333,5.750,2.75,1.875,1.975
+61514026,2026-02-28 17:30,Borussia Dortmund,Bayern Munich,2,3,4.333,4.333,1.700,3.5,1.850,2.000
+61514030,2026-03-01 14:30,VfB Stuttgart,VFL Wolfsburg,4,0,1.380,5.750,6.500,3.5,1.850,2.000
+61514024,2026-03-01 16:30,Eintracht Frankfurt,SC Freiburg,2,0,2.250,3.400,3.200,2.5,1.825,2.025
+61514038,2026-03-01 18:30,Hamburger SV,RB Leipzig,1,2,3.800,4.000,1.850,3,2.050,1.800
+67872358,2026-03-04 19:30,Hamburger SV,Bayer Leverkusen,0,1,3.750,3.600,1.950,2.75,1.900,1.950
+61514040,2026-03-06 19:30,Bayern Munich,Borussia Monchengladbach,4,1,1.250,8.000,8.000,3.75,1.925,1.925
+61514042,2026-03-07 14:30,SC Freiburg,Bayer Leverkusen,3,3,2.900,3.500,2.350,2.5,1.950,1.900
+61514044,2026-03-07 14:30,FSV Mainz,VfB Stuttgart,2,2,3.500,3.800,1.950,3,1.900,1.950
+61514046,2026-03-07 14:30,RB Leipzig,FC Augsburg,2,1,1.363,5.500,7.500,3.5,2.025,1.825
+61514048,2026-03-07 14:30,VFL Wolfsburg,Hamburger SV,1,2,2.625,3.300,2.700,2.75,1.850,2.000
+61514054,2026-03-07 14:30,1. FC Heidenheim,TSG Hoffenheim,2,4,5.500,4.750,1.500,3.25,1.925,1.925
+61514056,2026-03-07 17:30,1. FC Cologne,Borussia Dortmund,1,2,4.100,4.000,1.750,3,1.925,1.925
+61514052,2026-03-08 14:30,FC St. Pauli,Eintracht Frankfurt,0,0,2.600,3.400,2.700,2.5,2.050,1.800
+61514050,2026-03-08 16:30,Union Berlin,Werder Bremen,1,4,2.500,3.200,2.900,2.25,1.925,1.925
+61514070,2026-03-13 19:30,Borussia Monchengladbach,FC St. Pauli,2,0,1.909,3.400,4.200,2.25,1.950,1.900
+61514058,2026-03-14 14:30,Bayer Leverkusen,Bayern Munich,1,1,4.750,4.750,1.571,3.75,1.875,1.975
+61514060,2026-03-14 14:30,Eintracht Frankfurt,1. FC Heidenheim,1,0,1.650,4.333,4.750,3,1.825,2.025
+61514062,2026-03-14 14:30,Borussia Dortmund,FC Augsburg,2,0,1.550,4.500,5.000,3,1.875,1.975
+61514072,2026-03-14 14:30,TSG Hoffenheim,VFL Wolfsburg,1,1,1.400,5.000,7.000,3.25,1.825,2.025
+61514074,2026-03-14 17:30,Hamburger SV,1. FC Cologne,1,1,2.300,3.500,3.000,2.75,1.825,2.025
+61514066,2026-03-15 14:30,Werder Bremen,FSV Mainz,0,2,2.250,3.500,3.100,2.75,1.900,1.950
+61514064,2026-03-15 16:30,SC Freiburg,Union Berlin,0,1,1.950,3.600,3.800,2.5,1.850,2.000
+61514068,2026-03-15 18:30,VfB Stuttgart,RB Leipzig,1,0,2.400,3.900,2.600,3.5,1.825,2.025
+61514082,2026-03-20 19:30,RB Leipzig,TSG Hoffenheim,5,0,1.850,3.600,3.300,3.5,1.850,2.000
+61514076,2026-03-21 14:30,Bayern Munich,Union Berlin,4,0,1.142,9.000,13.000,3.75,1.975,1.875
+61514084,2026-03-21 14:30,VFL Wolfsburg,Werder Bremen,0,1,2.350,3.700,2.800,2.75,2.025,1.825
+61514090,2026-03-21 14:30,1. FC Heidenheim,Bayer Leverkusen,3,3,5.000,4.500,1.550,3.25,1.850,2.000
+61514092,2026-03-21 14:30,1. FC Cologne,Borussia Monchengladbach,3,3,2.250,3.400,3.200,2.5,1.900,1.950
+61514078,2026-03-21 17:30,Borussia Dortmund,Hamburger SV,3,2,1.420,4.750,7.000,3,2.025,1.825
+61514080,2026-03-22 14:30,FSV Mainz,Eintracht Frankfurt,2,1,2.150,3.600,3.250,2.75,2.025,1.825
+61514088,2026-03-22 16:30,FC St. Pauli,SC Freiburg,1,2,2.625,3.100,2.900,2.25,2.050,1.800
+61514086,2026-03-22 18:30,FC Augsburg,VfB Stuttgart,2,5,3.500,3.800,2.000,3,1.925,1.925
+61514094,2026-04-04 13:30,Bayer Leverkusen,VFL Wolfsburg,6,3,1.444,4.750,6.500,3.25,1.975,1.875
+61514098,2026-04-04 13:30,SC Freiburg,Bayern Munich,2,3,5.250,4.750,1.533,3.5,1.975,1.875
+61514100,2026-04-04 13:30,Werder Bremen,RB Leipzig,1,2,3.700,4.000,1.900,3.25,1.950,1.900
+61514104,2026-04-04 13:30,Borussia Monchengladbach,1. FC Heidenheim,2,2,1.615,4.200,5.000,3,2.000,1.850
+61514108,2026-04-04 13:30,TSG Hoffenheim,FSV Mainz,1,2,1.727,3.900,4.500,3,1.875,1.975
+61514110,2026-04-04 13:30,Hamburger SV,FC Augsburg,1,1,2.350,3.500,2.900,2.5,1.925,1.925
+61514102,2026-04-04 16:30,VfB Stuttgart,Borussia Dortmund,0,2,2.350,3.900,2.700,3.25,2.000,1.850
+61514106,2026-04-05 13:30,Union Berlin,FC St. Pauli,1,1,2.000,3.250,4.000,2,2.025,1.825
+61514096,2026-04-05 15:30,Eintracht Frankfurt,1. FC Cologne,2,2,1.900,3.800,3.750,2.75,1.800,2.050
+61514122,2026-04-10 18:30,FC Augsburg,TSG Hoffenheim,2,2,3.600,3.900,1.950,3,2.025,1.825
+61514112,2026-04-11 13:30,Borussia Dortmund,Bayer Leverkusen,0,1,2.100,3.800,3.200,3,1.800,2.050
+61514116,2026-04-11 13:30,RB Leipzig,Borussia Monchengladbach,0,0,1.450,5.000,6.000,3.25,1.825,2.025
+61514120,2026-04-11 13:30,VFL Wolfsburg,Eintracht Frankfurt,0,2,2.500,3.600,2.700,3,1.925,1.925
+61514126,2026-04-11 13:30,1. FC Heidenheim,Union Berlin,2,0,2.750,3.400,2.500,2.5,1.875,1.975
+61514124,2026-04-11 16:30,FC St. Pauli,Bayern Munich,0,5,8.000,5.500,1.333,3.25,1.850,2.000
+61514128,2026-04-12 13:30,1. FC Cologne,Werder Bremen,3,1,2.300,3.400,3.100,2.75,2.025,1.825
+61514118,2026-04-12 15:30,VfB Stuttgart,Hamburger SV,4,0,1.285,6.000,9.000,3.5,1.900,1.950
+61514114,2026-04-12 17:30,FSV Mainz,SC Freiburg,0,1,2.200,3.000,3.600,2.5,1.975,1.875
+61514144,2026-04-17 18:30,FC St. Pauli,1. FC Cologne,1,1,2.875,3.250,2.450,2.5,1.825,2.025
+61514132,2026-04-18 13:30,Bayer Leverkusen,FC Augsburg,1,2,1.400,5.250,7.000,3.5,1.825,2.025
+61514138,2026-04-18 13:30,Werder Bremen,Hamburger SV,3,1,1.750,3.750,4.500,2.75,1.925,1.925
+61514142,2026-04-18 13:30,Union Berlin,VFL Wolfsburg,1,2,2.200,3.600,3.100,2.75,1.925,1.925
+61514146,2026-04-18 13:30,TSG Hoffenheim,Borussia Dortmund,2,1,2.150,3.900,3.000,3.25,2.000,1.850
+61514134,2026-04-18 16:30,Eintracht Frankfurt,RB Leipzig,1,3,3.000,3.900,2.200,3.5,2.000,1.850
+61514136,2026-04-19 13:30,SC Freiburg,1. FC Heidenheim,2,1,1.650,4.200,5.000,3,1.975,1.875
+61514130,2026-04-19 15:30,Bayern Munich,VfB Stuttgart,4,2,1.480,5.250,5.500,4,1.925,1.925
+61514140,2026-04-19 17:30,Borussia Monchengladbach,FSV Mainz,1,1,2.250,3.500,3.100,2.5,2.050,1.800
+61514152,2026-04-24 18:30,RB Leipzig,Union Berlin,3,1,1.420,5.000,6.500,3,1.825,2.025
+61514150,2026-04-25 13:30,FSV Mainz,Bayern Munich,3,4,3.600,4.200,1.850,3.5,1.900,1.950
+61514156,2026-04-25 13:30,VFL Wolfsburg,Borussia Monchengladbach,0,0,2.100,3.800,3.200,3,1.975,1.875
+61514158,2026-04-25 13:30,FC Augsburg,Eintracht Frankfurt,1,1,2.350,3.900,2.625,3.25,1.950,1.900
+61514160,2026-04-25 13:30,1. FC Heidenheim,FC St. Pauli,2,0,2.300,3.500,3.000,2.5,1.875,1.975
+61514162,2026-04-25 13:30,1. FC Cologne,Bayer Leverkusen,1,2,3.600,4.000,1.909,3.25,2.050,1.800
+61514164,2026-04-25 16:30,Hamburger SV,TSG Hoffenheim,1,2,4.500,4.200,1.650,3.25,1.925,1.925
+61514154,2026-04-26 13:30,VfB Stuttgart,Werder Bremen,1,1,1.550,4.500,5.250,3.25,1.850,2.000
+61514148,2026-04-26 15:30,Borussia Dortmund,SC Freiburg,4,0,1.444,5.000,6.250,3,1.875,1.975
+61514166,2026-05-02 13:30,Bayern Munich,1. FC Heidenheim,3,3,1.250,7.000,9.000,4,2.000,1.850
+61514170,2026-05-02 13:30,Eintracht Frankfurt,Hamburger SV,1,2,1.700,4.200,4.333,3.25,2.000,1.850
+61514174,2026-05-02 13:30,Werder Bremen,FC Augsburg,1,3,1.909,3.700,3.700,3,1.850,2.000
+61514178,2026-05-02 13:30,Union Berlin,1. FC Cologne,2,2,2.625,3.400,2.600,2.75,1.975,1.875
+61514182,2026-05-02 13:30,TSG Hoffenheim,VfB Stuttgart,3,3,2.150,4.100,2.875,3.5,1.900,1.950
+61514168,2026-05-02 16:30,Bayer Leverkusen,RB Leipzig,4,1,2.100,4.000,3.100,3.5,1.950,1.900
+61514180,2026-05-03 13:30,FC St. Pauli,FSV Mainz,1,2,2.875,3.250,2.500,2.5,1.850,2.000
+61514176,2026-05-03 15:30,Borussia Monchengladbach,Borussia Dortmund,1,0,3.750,3.900,1.900,3,1.875,1.975
+61514172,2026-05-03 17:30,SC Freiburg,VFL Wolfsburg,1,1,2.050,3.600,3.500,2.75,1.975,1.875
+61514184,2026-05-08 18:30,Borussia Dortmund,Eintracht Frankfurt,3,2,1.727,4.200,4.100,3.25,1.975,1.875
+61514188,2026-05-09 13:30,RB Leipzig,FC St. Pauli,2,1,1.270,6.250,9.000,3.25,1.950,1.900
+61514190,2026-05-09 13:30,VfB Stuttgart,Bayer Leverkusen,3,1,2.000,4.100,3.200,3.75,1.950,1.900
+61514194,2026-05-09 13:30,FC Augsburg,Borussia Monchengladbach,3,1,1.909,4.000,3.500,3.25,1.875,1.975
+61514196,2026-05-09 13:30,TSG Hoffenheim,Werder Bremen,1,0,1.500,5.000,5.500,3.5,1.950,1.900
+61514192,2026-05-09 16:30,VFL Wolfsburg,Bayern Munich,0,1,5.250,5.250,1.480,4,1.850,2.000
+61514200,2026-05-10 13:30,Hamburger SV,SC Freiburg,3,2,3.100,3.600,2.200,2.75,2.050,1.800
+61514198,2026-05-10 15:30,1. FC Cologne,1. FC Heidenheim,1,3,2.050,4.100,3.100,3.5,1.875,1.975
+61514186,2026-05-10 17:30,FSV Mainz,Union Berlin,2,3,1.666,4.333,4.500,2.75,1.850,2.000
+61515274,2026-05-16 13:30,Bayern Munich,1. FC Cologne,5,1,1.125,9.000,12.000,4.75,1.875,1.975
+61515276,2026-05-16 13:30,Bayer Leverkusen,Hamburger SV,1,1,1.285,6.500,8.000,3.75,1.875,1.975
+61515278,2026-05-16 13:30,Eintracht Frankfurt,VfB Stuttgart,2,2,3.600,4.333,1.833,3.75,1.900,1.950
+61515282,2026-05-16 13:30,SC Freiburg,RB Leipzig,4,1,2.450,3.900,2.550,3.25,2.025,1.825
+61515284,2026-05-16 13:30,Werder Bremen,Borussia Dortmund,1,2,3.300,4.000,2.000,3.5,2.025,1.825
+61515288,2026-05-16 13:30,Borussia Monchengladbach,TSG Hoffenheim,4,0,4.500,4.750,1.615,3.5,1.900,1.950
+61515290,2026-05-16 13:30,Union Berlin,FC Augsburg,4,0,2.600,4.000,2.400,3.5,1.875,1.975
+61515292,2026-05-16 13:30,FC St. Pauli,VFL Wolfsburg,1,3,2.550,3.700,2.550,2.75,1.875,1.975
+61515296,2026-05-16 13:30,1. FC Heidenheim,FSV Mainz,0,2,1.950,4.200,3.300,3.25,1.925,1.925
+71443804,2026-05-21 18:30,VFL Wolfsburg,SC Paderborn 07,0,0,1.600,4.000,5.500,2.75,1.950,1.900
+71443806,2026-05-25 18:30,SC Paderborn 07,VFL Wolfsburg,2,1,3.250,3.400,2.150,2.5,1.850,2.000
+72513148,2026-08-28 18:30,Bayern Munich,VfB Stuttgart,5,1,1.222,7.500,10.000,4.25,1.825,2.025
+72513152,2026-08-29 13:30,RB Leipzig,Borussia Monchengladbach,3,0,1.550,4.500,5.250,3.25,1.900,1.950
+72513158,2026-08-29 13:30,FSV Mainz,SC Paderborn 07,0,0,1.500,4.500,6.000,3.25,1.950,1.900
+72513160,2026-08-29 13:30,Union Berlin,Eintracht Frankfurt,3,3,2.625,3.700,2.500,3,1.975,1.875
+72513162,2026-08-29 13:30,1. FC Cologne,TSG Hoffenheim,3,2,3.200,3.750,2.100,3,1.950,1.900
+72513164,2026-08-29 13:30,SV 07 Elversberg,Bayer Leverkusen,3,2,5.250,4.333,1.571,3.25,1.975,1.875
+72513150,2026-08-29 16:30,Borussia Dortmund,Hamburger SV,2,0,1.363,5.500,7.000,3.25,2.000,1.850
+72513154,2026-08-30 13:30,SC Freiburg,Werder Bremen,4,1,1.750,3.800,4.500,2.75,1.850,2.000
+72513156,2026-08-30 15:30,FC Augsburg,Schalke 04,3,0,2.250,3.600,3.000,2.75,1.925,1.925
+72513166,2026-09-04 18:30,VfB Stuttgart,1. FC Cologne,4,1,1.444,5.250,6.250,3.75,2.000,1.850
+72513168,2026-09-05 13:30,TSG Hoffenheim,Borussia Dortmund,2,3,2.450,3.750,2.625,3.25,1.875,1.975
+72513170,2026-09-05 13:30,Bayer Leverkusen,Union Berlin,4,0,1.333,5.500,7.500,3.5,2.025,1.825
+72513174,2026-09-05 13:30,Borussia Monchengladbach,SV 07 Elversberg,3,4,1.909,3.900,3.500,3.25,1.950,1.900
+72513178,2026-09-05 13:30,Werder Bremen,RB Leipzig,3,1,3.900,4.200,1.800,3.5,2.025,1.825
+72513182,2026-09-05 13:30,SC Paderborn 07,SC Freiburg,0,1,3.600,3.800,1.909,3,2.025,1.825
+72513180,2026-09-05 16:30,Schalke 04,Bayern Munich,0,0,13.000,7.000,1.200,4,2.025,1.825
+72513176,2026-09-06 13:30,Hamburger SV,FSV Mainz,0,5,2.900,3.300,2.400,2.75,2.025,1.825
+72513172,2026-09-06 15:30,Eintracht Frankfurt,FC Augsburg,1,4,1.833,4.100,3.750,3.5,1.975,1.875
+72513196,2026-09-11 18:30,Union Berlin,Schalke 04,1,3,2.350,3.400,3.000,2.75,1.975,1.875
+72513184,2026-09-12 13:30,Borussia Dortmund,SC Paderborn 07,3,0,1.285,6.500,8.000,3.5,1.909,1.909
+72513188,2026-09-12 13:30,TSG Hoffenheim,VfB Stuttgart,2,1,2.150,4.000,2.900,3.5,1.875,1.975
+72513190,2026-09-12 13:30,SC Freiburg,Borussia Monchengladbach,5,0,1.666,4.200,4.750,3.25,1.925,1.925
+72513192,2026-09-12 13:30,FC Augsburg,Bayer Leverkusen,2,2,3.700,4.100,1.850,3.5,1.950,1.900
+72513194,2026-09-12 13:30,FSV Mainz,Eintracht Frankfurt,1,3,1.727,4.200,4.100,3.5,2.000,1.800
+72513198,2026-09-12 16:30,1. FC Cologne,Werder Bremen,1,1,2.050,3.900,3.200,3.25,2.025,1.825
+72513186,2026-09-13 13:30,RB Leipzig,Hamburger SV,5,0,1.380,5.250,7.000,3.5,1.875,1.975
+72513200,2026-09-13 15:30,SV 07 Elversberg,Bayern Munich,1,2,12.000,9.000,1.166,4.5,2.000,1.850
+72513202,2026-09-18 18:30,Bayern Munich,Union Berlin,7,0,1.035,19.000,29.000,5,1.925,1.925
+72513208,2026-09-19 13:30,Eintracht Frankfurt,SC Freiburg,2,2,2.500,3.750,2.600,3.25,2.000,1.850
+72513210,2026-09-19 13:30,Borussia Monchengladbach,FSV Mainz,3,4,3.200,3.750,2.100,3,1.900,1.950
+72513212,2026-09-19 13:30,Hamburger SV,1. FC Cologne,2,1,2.700,3.600,2.450,3,1.975,1.875
+72513214,2026-09-19 13:30,Werder Bremen,FC Augsburg,3,2,2.250,3.700,2.900,3,1.800,2.050
+72513204,2026-09-19 16:30,VfB Stuttgart,Borussia Dortmund,0,1,2.350,3.900,2.700,3.5,1.900,1.950
+72513206,2026-09-20 13:30,Bayer Leverkusen,RB Leipzig,2,0,1.850,4.500,3.400,4,2.025,1.825
+72513216,2026-09-20 15:30,Schalke 04,SV 07 Elversberg,0,0,1.900,3.900,3.700,3.25,1.950,1.900
+72513218,2026-09-20 17:30,SC Paderborn 07,TSG Hoffenheim,3,1,3.900,4.200,1.800,3.5,1.950,1.900
+72513220,2026-10-09 18:30,Borussia Dortmund,Werder Bremen,2,2,1.363,5.000,8.000,3.25,2.000,1.850
+72513224,2026-10-10 13:30,TSG Hoffenheim,Hamburger SV,2,3,1.400,4.750,7.000,3.5,1.950,1.900
+72513228,2026-10-10 13:30,FC Augsburg,Bayern Munich,2,2,13.000,9.500,1.142,4.5,1.850,2.000
+72513230,2026-10-10 13:30,FSV Mainz,Bayer Leverkusen,3,4,3.100,3.600,2.200,3,1.900,1.950
+72513232,2026-10-10 13:30,Union Berlin,SV 07 Elversberg,1,0,2.500,3.500,2.700,3,2.000,1.850
+72513236,2026-10-10 13:30,SC Paderborn 07,VfB Stuttgart,0,2,4.500,4.500,1.615,3.75,1.925,1.925
+72513222,2026-10-10 16:30,RB Leipzig,Eintracht Frankfurt,6,0,1.600,4.500,4.750,4,2.025,1.825
+72513234,2026-10-11 13:30,1. FC Cologne,Borussia Monchengladbach,2,1,2.000,3.800,3.500,3.25,2.000,1.850
+72513226,2026-10-11 15:30,SC Freiburg,Schalke 04,2,1,1.615,4.100,5.250,3,1.950,1.900
+72513242,2026-10-16 18:30,Eintracht Frankfurt,1. FC Cologne,1,0,1.750,4.333,3.900,3.5,1.875,1.975
+72513244,2026-10-17 13:30,Union Berlin,Borussia Dortmund,0,0,6.250,4.500,1.500,3.25,2.025,1.825
+72513248,2026-10-17 13:30,Hamburger SV,VfB Stuttgart,1,0,4.100,4.200,1.727,3.5,2.000,1.850
+72513250,2026-10-17 13:30,Werder Bremen,SC Paderborn 07,2,2,1.666,4.333,4.500,3.25,2.000,1.850
+72513252,2026-10-17 13:30,Schalke 04,FSV Mainz,0,1,2.800,3.500,2.450,2.75,1.900,1.950
+72513254,2026-10-17 13:30,SV 07 Elversberg,FC Augsburg,4,3,2.500,3.700,2.625,3.25,2.000,1.850
+72513238,2026-10-17 16:30,Bayern Munich,RB Leipzig,6,1,1.250,7.000,9.500,4.75,2.000,1.850
+72513240,2026-10-18 13:30,Bayer Leverkusen,SC Freiburg,2,1,1.600,4.500,4.750,3.5,2.025,1.825
+72513246,2026-10-18 15:30,Borussia Monchengladbach,TSG Hoffenheim,1,2,2.800,4.000,2.200,3.5,1.875,1.975
+72513260,2026-10-23 18:30,VfB Stuttgart,Borussia Monchengladbach,2,3,1.363,5.500,7.000,3.75,1.900,1.950
+72513258,2026-10-24 13:30,RB Leipzig,SV 07 Elversberg,4,0,1.533,4.750,5.250,3.75,2.000,1.850
+72513266,2026-10-24 13:30,FC Augsburg,Union Berlin,1,1,1.700,4.100,4.500,3.25,1.925,1.925
+72513268,2026-10-24 13:30,FSV Mainz,Werder Bremen,2,3,1.727,4.000,4.333,3.25,2.000,1.850
+72513270,2026-10-24 13:30,1. FC Cologne,Schalke 04,0,0,2.200,3.750,3.100,2.75,1.875,1.975
+72513272,2026-10-24 13:30,SC Paderborn 07,Hamburger SV,1,0,2.150,3.700,3.100,3,1.875,1.975
+72513256,2026-10-24 16:30,Borussia Dortmund,Eintracht Frankfurt,1,0,1.400,5.250,6.500,3.5,1.875,1.975
+72513262,2026-10-25 14:30,TSG Hoffenheim,Bayer Leverkusen,3,0,3.300,4.000,2.000,3.5,1.875,1.975
+72513264,2026-10-25 16:30,SC Freiburg,Bayern Munich,1,3,6.000,5.500,1.420,3.75,1.950,1.900
+72513290,2026-10-30 19:30,SV 07 Elversberg,FSV Mainz,4,1,3.750,3.900,1.850,3,1.800,2.050
+72513276,2026-10-31 14:30,Bayer Leverkusen,VfB Stuttgart,2,4,1.700,4.500,4.100,3.75,1.900,1.950
+72513280,2026-10-31 14:30,FC Augsburg,SC Freiburg,1,2,2.625,3.700,2.500,3.25,2.050,1.800
+72513284,2026-10-31 14:30,Borussia Monchengladbach,SC Paderborn 07,0,0,2.150,3.750,3.100,3,1.925,1.925
+72513286,2026-10-31 14:30,Werder Bremen,TSG Hoffenheim,2,0,2.250,3.900,2.875,3.5,1.975,1.875
+72513288,2026-10-31 14:30,Schalke 04,RB Leipzig,0,2,4.100,3.750,1.850,3,1.950,1.900
+72513274,2026-10-31 17:30,Bayern Munich,Borussia Dortmund,2,2,1.333,6.000,8.000,4,2.000,1.850
+72513282,2026-11-01 14:30,Union Berlin,1. FC Cologne,1,1,2.625,3.400,2.600,2.75,1.925,1.925
+72513278,2026-11-01 16:30,Eintracht Frankfurt,Hamburger SV,3,1,1.480,5.000,6.000,3.5,2.025,1.825
+72513304,2026-11-06 19:30,Hamburger SV,Borussia Monchengladbach,3,1,2.300,3.500,2.900,2.75,1.900,1.950
+72513292,2026-11-07 14:30,Borussia Dortmund,SV 07 Elversberg,2,1,1.363,5.250,7.500,3.5,1.900,1.950
+72513294,2026-11-07 14:30,RB Leipzig,FC Augsburg,5,2,1.400,5.250,6.250,4,1.850,2.000
+72513302,2026-11-07 14:30,FSV Mainz,Bayern Munich,1,2,9.000,7.000,1.270,4,1.925,1.925
+72513308,2026-11-07 14:30,SC Paderborn 07,Eintracht Frankfurt,2,2,3.100,3.800,2.150,3,1.800,2.050
+72513296,2026-11-07 17:30,VfB Stuttgart,Werder Bremen,1,0,1.800,4.200,3.750,3.5,1.900,1.950
+72513306,2026-11-08 14:30,1. FC Cologne,Bayer Leverkusen,1,2,4.333,4.100,1.727,3,1.875,1.975
+72513300,2026-11-08 16:30,SC Freiburg,Union Berlin,2,0,1.450,4.500,7.000,2.75,1.875,1.975
+72513298,2026-11-08 18:30,TSG Hoffenheim,Schalke 04,2,1,1.533,4.500,5.500,3,1.800,2.050

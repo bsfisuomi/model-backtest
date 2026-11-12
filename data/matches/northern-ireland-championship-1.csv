@@ -1,116 +1,116 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-72346774,2026-08-07 18:45,Strabane Athletic FC,Institute FC,0,1,,,
-72346760,2026-08-08 14:00,Armagh City FC,Queens University,1,1,,,
-72346762,2026-08-08 14:00,Ballinamallard United,Newry City AFC,0,1,,,
-72346764,2026-08-08 14:00,Dundela FC,Moyola Park FC,2,2,1.800,3.700,3.500
-72346766,2026-08-08 14:00,Glenavon FC,Ards FC,1,3,,,
-72346768,2026-08-08 14:00,Harland And Wolff Welders,Warrenpoint Town FC,3,0,1.333,5.000,6.250
-72346770,2026-08-08 14:00,Newington FC,Annagh United FC,4,1,,,
-72346772,2026-08-08 14:00,Rathfriland Rangers,Loughgall FC,1,3,,,
-72346776,2026-08-11 18:45,Annagh United FC,Rathfriland Rangers,4,2,,,
-72346778,2026-08-11 18:45,Ards FC,Dundela FC,2,2,1.600,3.600,4.750
-72346780,2026-08-11 18:45,Institute FC,Ballinamallard United,1,2,1.500,3.800,5.250
-72346782,2026-08-11 18:45,Loughgall FC,Newington FC,2,2,2.150,3.400,2.800
-72346784,2026-08-11 18:45,Moyola Park FC,Strabane Athletic FC,1,3,2.100,3.300,3.000
-72346786,2026-08-11 18:45,Newry City AFC,Glenavon FC,1,4,,,
-72346788,2026-08-11 18:45,Queens University,Harland And Wolff Welders,2,1,5.500,4.333,1.420
-72346790,2026-08-11 18:45,Warrenpoint Town FC,Armagh City FC,2,0,,,
-72346792,2026-08-15 14:00,Dundela FC,Annagh United FC,2,2,3.900,3.700,1.700
-72346794,2026-08-15 14:00,Glenavon FC,Strabane Athletic FC,4,1,,,
-72346796,2026-08-15 14:00,Harland And Wolff Welders,Armagh City FC,1,0,,,
-72346798,2026-08-15 14:00,Institute FC,Loughgall FC,0,0,2.800,3.500,2.150
-72346800,2026-08-15 14:00,Moyola Park FC,Ballinamallard United,2,0,,,
-72346802,2026-08-15 14:00,Newington FC,Queens University,2,1,1.909,3.600,3.200
-72346806,2026-08-15 14:00,Warrenpoint Town FC,Ards FC,1,3,,,
-72346804,2026-08-15 16:30,Rathfriland Rangers,Newry City AFC,1,2,,,
-72346818,2026-08-21 18:45,Newry City AFC,Warrenpoint Town FC,0,3,1.909,3.400,3.400
-72346808,2026-08-22 14:00,Annagh United FC,Moyola Park FC,2,0,1.444,4.500,5.250
-72346810,2026-08-22 14:00,Ards FC,Loughgall FC,1,2,2.350,3.300,2.550
-72346812,2026-08-22 14:00,Armagh City FC,Glenavon FC,2,2,,,
-72346814,2026-08-22 14:00,Ballinamallard United,Dundela FC,2,1,,,
-72346816,2026-08-22 14:00,Newington FC,Rathfriland Rangers,4,0,1.270,5.500,7.000
-72346820,2026-08-22 14:00,Queens University,Institute FC,4,1,2.400,3.300,2.450
-72346822,2026-08-22 14:00,Strabane Athletic FC,Harland And Wolff Welders,1,2,7.000,5.000,1.300
-72346824,2026-08-28 18:45,Ards FC,Queens University,0,3,2.100,3.400,2.900
-72346826,2026-08-28 18:45,Strabane Athletic FC,Newington FC,1,2,4.500,4.100,1.533
-72346830,2026-08-28 18:45,Glenavon FC,Rathfriland Rangers,3,1,1.270,5.000,9.000
-72346832,2026-08-28 18:45,Harland And Wolff Welders,Dundela FC,2,0,1.270,5.250,8.000
-72346836,2026-08-28 18:45,Loughgall FC,Warrenpoint Town FC,3,3,1.700,3.600,4.100
-72346838,2026-08-28 18:45,Moyola Park FC,Armagh City FC,1,0,1.571,4.000,4.200
-72346828,2026-08-29 14:00,Ballinamallard United,Annagh United FC,1,3,,,
-72346834,2026-08-29 14:00,Institute FC,Newry City AFC,1,3,1.833,3.500,3.500
-72346840,2026-09-04 18:45,Annagh United FC,Ards FC,2,1,1.800,3.500,3.750
-72346848,2026-09-04 18:45,Newry City AFC,Armagh City FC,2,2,1.400,4.100,6.500
-72346842,2026-09-05 14:00,Dundela FC,Glenavon FC,3,2,4.500,3.800,1.571
-72346844,2026-09-05 14:00,Loughgall FC,Ballinamallard United,1,6,1.533,3.800,5.000
-72346846,2026-09-05 14:00,Moyola Park FC,Harland And Wolff Welders,1,4,,,
-72346850,2026-09-05 14:00,Queens University,Strabane Athletic FC,6,0,,,
-72346852,2026-09-05 14:00,Rathfriland Rangers,Institute FC,0,2,3.900,4.000,1.650
-72346854,2026-09-05 14:00,Warrenpoint Town FC,Newington FC,0,1,,,
-72346868,2026-09-11 19:00,Strabane Athletic FC,Newry City AFC,2,2,3.500,3.500,1.850
-72346856,2026-09-12 14:00,Annagh United FC,Harland And Wolff Welders,3,1,3.100,3.500,1.950
-72346858,2026-09-12 14:00,Ards FC,Rathfriland Rangers,1,0,1.363,4.500,6.500
-72346860,2026-09-12 14:00,Armagh City FC,Institute FC,3,5,,,
-72346862,2026-09-12 14:00,Ballinamallard United,Glenavon FC,1,1,,,
-72346864,2026-09-12 14:00,Newington FC,Dundela FC,5,5,,,
-72346866,2026-09-12 14:00,Queens University,Loughgall FC,1,0,,,
-72346870,2026-09-12 14:00,Warrenpoint Town FC,Moyola Park FC,6,2,,,
-72346872,2026-09-18 18:45,Dundela FC,Strabane Athletic FC,1,1,1.666,3.700,4.000
-72346884,2026-09-18 18:45,Newry City AFC,Annagh United FC,1,1,3.000,3.500,2.000
-72346874,2026-09-19 14:00,Glenavon FC,Newington FC,1,0,,,
-72346876,2026-09-19 14:00,Harland And Wolff Welders,Ballinamallard United,1,3,,,
-72346878,2026-09-19 14:00,Institute FC,Warrenpoint Town FC,2,0,,,
-72346880,2026-09-19 14:00,Loughgall FC,Armagh City FC,0,0,,,
-72346882,2026-09-19 14:00,Moyola Park FC,Ards FC,0,0,,,
-72346886,2026-09-19 16:30,Rathfriland Rangers,Queens University,1,0,,,
-72346894,2026-09-25 18:45,Glenavon FC,Loughgall FC,4,1,1.700,3.500,4.000
-72346898,2026-09-25 18:45,Newry City AFC,Harland And Wolff Welders,3,2,2.875,3.250,2.150
-72346902,2026-09-25 18:45,Rathfriland Rangers,Warrenpoint Town FC,0,2,2.900,3.500,2.050
-72346888,2026-09-26 14:00,Annagh United FC,Institute FC,5,0,1.800,3.600,3.600
-72346890,2026-09-26 14:00,Ards FC,Strabane Athletic FC,0,1,1.444,4.100,5.750
-72346892,2026-09-26 14:00,Armagh City FC,Dundela FC,0,2,3.700,3.700,1.727
-72346896,2026-09-26 14:00,Newington FC,Ballinamallard United,4,0,1.600,3.900,4.200
-72346900,2026-09-26 14:00,Queens University,Moyola Park FC,0,1,1.533,4.000,4.750
-72346916,2026-10-02 18:45,Strabane Athletic FC,Armagh City FC,0,0,1.700,3.700,3.900
-72346904,2026-10-03 14:00,Ballinamallard United,Ards FC,1,1,2.550,3.400,2.300
-72346906,2026-10-03 14:00,Dundela FC,Queens University,0,2,2.700,3.500,2.150
-72346908,2026-10-03 14:00,Harland And Wolff Welders,Rathfriland Rangers,1,3,1.200,6.500,9.500
-72346910,2026-10-03 14:00,Institute FC,Newington FC,7,0,3.600,3.750,1.800
-72346912,2026-10-03 14:00,Loughgall FC,Newry City AFC,2,1,2.150,3.400,2.750
-72346918,2026-10-03 14:00,Warrenpoint Town FC,Annagh United FC,1,1,3.500,3.600,1.850
-72346914,2026-10-03 17:00,Moyola Park FC,Glenavon FC,0,3,4.500,4.100,1.533
-72346926,2026-10-09 18:45,Newington FC,Ards FC,0,2,1.900,3.600,3.200
-72346928,2026-10-09 18:45,Newry City AFC,Dundela FC,3,1,1.800,3.600,3.500
-72346932,2026-10-09 18:45,Rathfriland Rangers,Armagh City FC,2,1,1.900,3.600,3.100
-72346922,2026-10-10 14:00,Institute FC,Harland And Wolff Welders,0,0,2.875,3.600,2.000
-72346924,2026-10-10 14:00,Loughgall FC,Moyola Park FC,1,2,1.600,3.800,4.333
-72346930,2026-10-10 14:00,Queens University,Ballinamallard United,0,1,1.800,3.600,3.500
-72346934,2026-10-10 14:00,Warrenpoint Town FC,Strabane Athletic FC,1,0,1.700,3.600,4.000
-72346920,2026-10-10 16:30,Annagh United FC,Glenavon FC,1,1,2.250,3.500,2.700
-72346936,2026-10-16 18:45,Ards FC,Institute FC,0,2,2.350,3.300,2.550
-72346944,2026-10-16 18:45,Glenavon FC,Harland And Wolff Welders,4,0,2.000,3.700,2.900
-72346946,2026-10-16 18:45,Moyola Park FC,Newington FC,2,3,3.400,3.700,1.833
-72346950,2026-10-16 18:45,Strabane Athletic FC,Loughgall FC,1,1,3.500,3.500,1.833
-72346938,2026-10-17 14:00,Armagh City FC,Annagh United FC,1,3,5.250,4.333,1.400
-72346940,2026-10-17 14:00,Ballinamallard United,Warrenpoint Town FC,2,2,2.300,3.300,2.625
-72346942,2026-10-17 14:00,Dundela FC,Rathfriland Rangers,0,1,1.750,3.600,3.700
-72346948,2026-10-17 14:00,Queens University,Newry City AFC,1,1,2.100,3.500,2.875
-72346960,2026-10-23 18:45,Newry City AFC,Newington FC,0,2,2.400,3.600,2.350
-72346964,2026-10-23 18:45,Strabane Athletic FC,Ballinamallard United,0,1,2.875,3.300,2.150
-72346952,2026-10-24 14:00,Annagh United FC,Queens University,5,1,1.700,3.600,3.900
-72346954,2026-10-24 14:00,Armagh City FC,Ards FC,1,1,,,
-72346956,2026-10-24 14:00,Harland And Wolff Welders,Loughgall FC,1,2,1.833,3.600,3.400
-72346982,2026-10-30 19:45,Rathfriland Rangers,Strabane Athletic FC,2,2,2.100,3.400,2.875
-72346970,2026-10-31 15:00,Ards FC,Newry City AFC,1,1,2.150,3.400,2.800
-72346972,2026-10-31 15:00,Ballinamallard United,Armagh City FC,0,1,1.400,4.500,5.500
-72346976,2026-10-31 15:00,Institute FC,Moyola Park FC,1,1,1.550,4.100,4.500
-72346978,2026-10-31 15:00,Loughgall FC,Annagh United FC,0,3,2.600,3.400,2.300
-72346980,2026-10-31 15:00,Queens University,Glenavon FC,2,4,3.700,3.900,1.700
-72346986,2026-11-06 19:45,Ballinamallard United,Rathfriland Rangers,0,1,1.800,3.400,3.800
-72346994,2026-11-06 19:45,Moyola Park FC,Newry City AFC,1,2,2.550,3.500,2.250
-72346996,2026-11-06 19:45,Strabane Athletic FC,Annagh United FC,0,1,6.250,4.200,1.380
-72346984,2026-11-07 15:00,Armagh City FC,Newington FC,0,6,5.250,4.500,1.450
-72346988,2026-11-07 15:00,Dundela FC,Loughgall FC,0,3,3.100,3.600,1.950
-72346990,2026-11-07 15:00,Glenavon FC,Institute FC,2,0,1.533,4.200,4.500
-72346992,2026-11-07 15:00,Harland And Wolff Welders,Ards FC,3,0,1.727,3.750,3.750
-72346998,2026-11-07 15:00,Warrenpoint Town FC,Queens University,1,4,,,
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+72346774,2026-08-07 18:45,Strabane Athletic FC,Institute FC,0,1,,,,,,
+72346760,2026-08-08 14:00,Armagh City FC,Queens University,1,1,,,,,,
+72346762,2026-08-08 14:00,Ballinamallard United,Newry City AFC,0,1,,,,,,
+72346764,2026-08-08 14:00,Dundela FC,Moyola Park FC,2,2,1.800,3.700,3.500,3,1.850,1.950
+72346766,2026-08-08 14:00,Glenavon FC,Ards FC,1,3,,,,,,
+72346768,2026-08-08 14:00,Harland And Wolff Welders,Warrenpoint Town FC,3,0,1.333,5.000,6.250,3,1.825,1.975
+72346770,2026-08-08 14:00,Newington FC,Annagh United FC,4,1,,,,,,
+72346772,2026-08-08 14:00,Rathfriland Rangers,Loughgall FC,1,3,,,,,,
+72346776,2026-08-11 18:45,Annagh United FC,Rathfriland Rangers,4,2,,,,,,
+72346778,2026-08-11 18:45,Ards FC,Dundela FC,2,2,1.600,3.600,4.750,2.75,1.850,1.950
+72346780,2026-08-11 18:45,Institute FC,Ballinamallard United,1,2,1.500,3.800,5.250,2.5,1.800,2.000
+72346782,2026-08-11 18:45,Loughgall FC,Newington FC,2,2,2.150,3.400,2.800,3,1.975,1.825
+72346784,2026-08-11 18:45,Moyola Park FC,Strabane Athletic FC,1,3,2.100,3.300,3.000,2.75,1.875,1.925
+72346786,2026-08-11 18:45,Newry City AFC,Glenavon FC,1,4,,,,,,
+72346788,2026-08-11 18:45,Queens University,Harland And Wolff Welders,2,1,5.500,4.333,1.420,3,1.800,2.000
+72346790,2026-08-11 18:45,Warrenpoint Town FC,Armagh City FC,2,0,,,,,,
+72346792,2026-08-15 14:00,Dundela FC,Annagh United FC,2,2,3.900,3.700,1.700,2.75,1.950,1.850
+72346794,2026-08-15 14:00,Glenavon FC,Strabane Athletic FC,4,1,,,,,,
+72346796,2026-08-15 14:00,Harland And Wolff Welders,Armagh City FC,1,0,,,,,,
+72346798,2026-08-15 14:00,Institute FC,Loughgall FC,0,0,2.800,3.500,2.150,2.75,1.975,1.825
+72346800,2026-08-15 14:00,Moyola Park FC,Ballinamallard United,2,0,,,,,,
+72346802,2026-08-15 14:00,Newington FC,Queens University,2,1,1.909,3.600,3.200,3,2.000,1.800
+72346806,2026-08-15 14:00,Warrenpoint Town FC,Ards FC,1,3,,,,,,
+72346804,2026-08-15 16:30,Rathfriland Rangers,Newry City AFC,1,2,,,,,,
+72346818,2026-08-21 18:45,Newry City AFC,Warrenpoint Town FC,0,3,1.909,3.400,3.400,2.5,1.825,1.975
+72346808,2026-08-22 14:00,Annagh United FC,Moyola Park FC,2,0,1.444,4.500,5.250,3,1.900,1.900
+72346810,2026-08-22 14:00,Ards FC,Loughgall FC,1,2,2.350,3.300,2.550,2.5,1.800,2.000
+72346812,2026-08-22 14:00,Armagh City FC,Glenavon FC,2,2,,,,,,
+72346814,2026-08-22 14:00,Ballinamallard United,Dundela FC,2,1,,,,,,
+72346816,2026-08-22 14:00,Newington FC,Rathfriland Rangers,4,0,1.270,5.500,7.000,3.5,1.950,1.850
+72346820,2026-08-22 14:00,Queens University,Institute FC,4,1,2.400,3.300,2.450,2.75,2.000,1.800
+72346822,2026-08-22 14:00,Strabane Athletic FC,Harland And Wolff Welders,1,2,7.000,5.000,1.300,3,1.800,2.000
+72346824,2026-08-28 18:45,Ards FC,Queens University,0,3,2.100,3.400,2.900,2.75,1.875,1.925
+72346826,2026-08-28 18:45,Strabane Athletic FC,Newington FC,1,2,4.500,4.100,1.533,3.25,2.000,1.800
+72346830,2026-08-28 18:45,Glenavon FC,Rathfriland Rangers,3,1,1.270,5.000,9.000,3.25,1.925,1.875
+72346832,2026-08-28 18:45,Harland And Wolff Welders,Dundela FC,2,0,1.270,5.250,8.000,3.5,1.950,1.850
+72346836,2026-08-28 18:45,Loughgall FC,Warrenpoint Town FC,3,3,1.700,3.600,4.100,2.75,1.975,1.825
+72346838,2026-08-28 18:45,Moyola Park FC,Armagh City FC,1,0,1.571,4.000,4.200,3.25,2.000,1.800
+72346828,2026-08-29 14:00,Ballinamallard United,Annagh United FC,1,3,,,,,,
+72346834,2026-08-29 14:00,Institute FC,Newry City AFC,1,3,1.833,3.500,3.500,3,1.800,2.000
+72346840,2026-09-04 18:45,Annagh United FC,Ards FC,2,1,1.800,3.500,3.750,2.75,1.950,1.850
+72346848,2026-09-04 18:45,Newry City AFC,Armagh City FC,2,2,1.400,4.100,6.500,3,1.825,1.975
+72346842,2026-09-05 14:00,Dundela FC,Glenavon FC,3,2,4.500,3.800,1.571,3,1.825,1.975
+72346844,2026-09-05 14:00,Loughgall FC,Ballinamallard United,1,6,1.533,3.800,5.000,2.75,1.850,1.950
+72346846,2026-09-05 14:00,Moyola Park FC,Harland And Wolff Welders,1,4,,,,,,
+72346850,2026-09-05 14:00,Queens University,Strabane Athletic FC,6,0,,,,,,
+72346852,2026-09-05 14:00,Rathfriland Rangers,Institute FC,0,2,3.900,4.000,1.650,3,1.900,1.900
+72346854,2026-09-05 14:00,Warrenpoint Town FC,Newington FC,0,1,,,,,,
+72346868,2026-09-11 19:00,Strabane Athletic FC,Newry City AFC,2,2,3.500,3.500,1.850,2.5,1.800,2.000
+72346856,2026-09-12 14:00,Annagh United FC,Harland And Wolff Welders,3,1,3.100,3.500,1.950,2.75,1.775,2.025
+72346858,2026-09-12 14:00,Ards FC,Rathfriland Rangers,1,0,1.363,4.500,6.500,3,1.800,2.000
+72346860,2026-09-12 14:00,Armagh City FC,Institute FC,3,5,,,,,,
+72346862,2026-09-12 14:00,Ballinamallard United,Glenavon FC,1,1,,,,,,
+72346864,2026-09-12 14:00,Newington FC,Dundela FC,5,5,,,,,,
+72346866,2026-09-12 14:00,Queens University,Loughgall FC,1,0,,,,,,
+72346870,2026-09-12 14:00,Warrenpoint Town FC,Moyola Park FC,6,2,,,,,,
+72346872,2026-09-18 18:45,Dundela FC,Strabane Athletic FC,1,1,1.666,3.700,4.000,2.75,1.800,2.000
+72346884,2026-09-18 18:45,Newry City AFC,Annagh United FC,1,1,3.000,3.500,2.000,2.75,1.850,1.950
+72346874,2026-09-19 14:00,Glenavon FC,Newington FC,1,0,,,,,,
+72346876,2026-09-19 14:00,Harland And Wolff Welders,Ballinamallard United,1,3,,,,,,
+72346878,2026-09-19 14:00,Institute FC,Warrenpoint Town FC,2,0,,,,,,
+72346880,2026-09-19 14:00,Loughgall FC,Armagh City FC,0,0,,,,,,
+72346882,2026-09-19 14:00,Moyola Park FC,Ards FC,0,0,,,,,,
+72346886,2026-09-19 16:30,Rathfriland Rangers,Queens University,1,0,,,,,,
+72346894,2026-09-25 18:45,Glenavon FC,Loughgall FC,4,1,1.700,3.500,4.000,2.75,1.900,1.900
+72346898,2026-09-25 18:45,Newry City AFC,Harland And Wolff Welders,3,2,2.875,3.250,2.150,3,1.800,2.000
+72346902,2026-09-25 18:45,Rathfriland Rangers,Warrenpoint Town FC,0,2,2.900,3.500,2.050,3,2.025,1.775
+72346888,2026-09-26 14:00,Annagh United FC,Institute FC,5,0,1.800,3.600,3.600,2.75,1.875,1.925
+72346890,2026-09-26 14:00,Ards FC,Strabane Athletic FC,0,1,1.444,4.100,5.750,2.75,1.775,2.025
+72346892,2026-09-26 14:00,Armagh City FC,Dundela FC,0,2,3.700,3.700,1.727,3,1.925,1.875
+72346896,2026-09-26 14:00,Newington FC,Ballinamallard United,4,0,1.600,3.900,4.200,3.25,1.975,1.825
+72346900,2026-09-26 14:00,Queens University,Moyola Park FC,0,1,1.533,4.000,4.750,3,1.975,1.825
+72346916,2026-10-02 18:45,Strabane Athletic FC,Armagh City FC,0,0,1.700,3.700,3.900,2.75,1.800,2.000
+72346904,2026-10-03 14:00,Ballinamallard United,Ards FC,1,1,2.550,3.400,2.300,2.75,1.825,1.975
+72346906,2026-10-03 14:00,Dundela FC,Queens University,0,2,2.700,3.500,2.150,2.75,1.825,1.975
+72346908,2026-10-03 14:00,Harland And Wolff Welders,Rathfriland Rangers,1,3,1.200,6.500,9.500,3.5,1.900,1.900
+72346910,2026-10-03 14:00,Institute FC,Newington FC,7,0,3.600,3.750,1.800,3.25,2.000,1.800
+72346912,2026-10-03 14:00,Loughgall FC,Newry City AFC,2,1,2.150,3.400,2.750,2.75,1.850,1.950
+72346918,2026-10-03 14:00,Warrenpoint Town FC,Annagh United FC,1,1,3.500,3.600,1.850,2.75,1.900,1.900
+72346914,2026-10-03 17:00,Moyola Park FC,Glenavon FC,0,3,4.500,4.100,1.533,3,1.850,1.950
+72346926,2026-10-09 18:45,Newington FC,Ards FC,0,2,1.900,3.600,3.200,3.25,2.000,1.800
+72346928,2026-10-09 18:45,Newry City AFC,Dundela FC,3,1,1.800,3.600,3.500,3,1.850,1.950
+72346932,2026-10-09 18:45,Rathfriland Rangers,Armagh City FC,2,1,1.900,3.600,3.100,3,1.875,1.925
+72346922,2026-10-10 14:00,Institute FC,Harland And Wolff Welders,0,0,2.875,3.600,2.000,3.25,1.975,1.825
+72346924,2026-10-10 14:00,Loughgall FC,Moyola Park FC,1,2,1.600,3.800,4.333,3,1.950,1.850
+72346930,2026-10-10 14:00,Queens University,Ballinamallard United,0,1,1.800,3.600,3.500,2.75,1.800,2.000
+72346934,2026-10-10 14:00,Warrenpoint Town FC,Strabane Athletic FC,1,0,1.700,3.600,4.000,2.5,1.800,2.000
+72346920,2026-10-10 16:30,Annagh United FC,Glenavon FC,1,1,2.250,3.500,2.700,3,1.975,1.825
+72346936,2026-10-16 18:45,Ards FC,Institute FC,0,2,2.350,3.300,2.550,2.75,1.900,1.900
+72346944,2026-10-16 18:45,Glenavon FC,Harland And Wolff Welders,4,0,2.000,3.700,2.900,3.25,1.950,1.850
+72346946,2026-10-16 18:45,Moyola Park FC,Newington FC,2,3,3.400,3.700,1.833,3.25,1.975,1.825
+72346950,2026-10-16 18:45,Strabane Athletic FC,Loughgall FC,1,1,3.500,3.500,1.833,2.5,1.825,1.975
+72346938,2026-10-17 14:00,Armagh City FC,Annagh United FC,1,3,5.250,4.333,1.400,3,1.975,1.825
+72346940,2026-10-17 14:00,Ballinamallard United,Warrenpoint Town FC,2,2,2.300,3.300,2.625,2.75,2.000,1.800
+72346942,2026-10-17 14:00,Dundela FC,Rathfriland Rangers,0,1,1.750,3.600,3.700,3,2.000,1.800
+72346948,2026-10-17 14:00,Queens University,Newry City AFC,1,1,2.100,3.500,2.875,2.75,1.825,1.975
+72346960,2026-10-23 18:45,Newry City AFC,Newington FC,0,2,2.400,3.600,2.350,3.25,1.925,1.875
+72346964,2026-10-23 18:45,Strabane Athletic FC,Ballinamallard United,0,1,2.875,3.300,2.150,2.5,1.825,1.975
+72346952,2026-10-24 14:00,Annagh United FC,Queens University,5,1,1.700,3.600,3.900,2.75,1.875,1.925
+72346954,2026-10-24 14:00,Armagh City FC,Ards FC,1,1,,,,,,
+72346956,2026-10-24 14:00,Harland And Wolff Welders,Loughgall FC,1,2,1.833,3.600,3.400,3,1.825,1.975
+72346982,2026-10-30 19:45,Rathfriland Rangers,Strabane Athletic FC,2,2,2.100,3.400,2.875,2.5,1.800,2.000
+72346970,2026-10-31 15:00,Ards FC,Newry City AFC,1,1,2.150,3.400,2.800,2.75,1.875,1.925
+72346972,2026-10-31 15:00,Ballinamallard United,Armagh City FC,0,1,1.400,4.500,5.500,3,1.900,1.900
+72346976,2026-10-31 15:00,Institute FC,Moyola Park FC,1,1,1.550,4.100,4.500,3,1.900,1.900
+72346978,2026-10-31 15:00,Loughgall FC,Annagh United FC,0,3,2.600,3.400,2.300,2.75,1.925,1.875
+72346980,2026-10-31 15:00,Queens University,Glenavon FC,2,4,3.700,3.900,1.700,3,1.950,1.850
+72346986,2026-11-06 19:45,Ballinamallard United,Rathfriland Rangers,0,1,1.800,3.400,3.800,2.75,1.925,1.875
+72346994,2026-11-06 19:45,Moyola Park FC,Newry City AFC,1,2,2.550,3.500,2.250,3,1.875,1.925
+72346996,2026-11-06 19:45,Strabane Athletic FC,Annagh United FC,0,1,6.250,4.200,1.380,2.75,1.800,2.000
+72346984,2026-11-07 15:00,Armagh City FC,Newington FC,0,6,5.250,4.500,1.450,3.25,1.825,1.975
+72346988,2026-11-07 15:00,Dundela FC,Loughgall FC,0,3,3.100,3.600,1.950,3,2.000,1.800
+72346990,2026-11-07 15:00,Glenavon FC,Institute FC,2,0,1.533,4.200,4.500,3.25,1.975,1.825
+72346992,2026-11-07 15:00,Harland And Wolff Welders,Ards FC,3,0,1.727,3.750,3.750,3,1.775,2.025
+72346998,2026-11-07 15:00,Warrenpoint Town FC,Queens University,1,4,,,,,,

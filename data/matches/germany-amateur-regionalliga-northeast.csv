@@ -1,451 +1,451 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-61711622,2025-07-25 17:00,FC Rot-Weiss Erfurt,FSV Luckenwalde,2,1,,,
-61711636,2025-07-25 17:00,VSG Altglienicke,FC Hertha 03 Zehlendorf,2,0,,,
-61711612,2025-07-26 12:00,Hallescher FC,BFC Dynamo,1,0,,,
-61711646,2025-07-26 12:00,BFC Preussen Berlin,FC Eilenburg,2,2,,,
-61711618,2025-07-26 14:00,FSV Zwickau,1. FC Lokomotive Leipzig,1,1,,,
-61711632,2025-07-27 12:00,Chemnitzer FC,Greifswalder FC,1,0,,,
-61711642,2025-07-27 12:00,SV Babelsberg,FC Carl Zeiss Jena,1,4,,,
-61711652,2025-07-27 12:00,BSG Chemie Leipzig,FC Magdeburg II,0,2,,,
-61711688,2025-07-31 17:00,FC Magdeburg II,Hallescher FC,0,1,,,
-61711656,2025-08-01 17:00,1. FC Lokomotive Leipzig,VSG Altglienicke,1,0,,,
-61711662,2025-08-01 17:00,FC Carl Zeiss Jena,Hertha BSC II,1,0,,,
-61711670,2025-08-01 17:00,BFC Dynamo,FC Rot-Weiss Erfurt,2,3,,,
-61711666,2025-08-02 12:00,Greifswalder FC,BSG Chemie Leipzig,3,0,,,
-61711684,2025-08-02 12:00,FC Eilenburg,FSV Zwickau,3,0,,,
-61711692,2025-08-02 12:00,FSV Luckenwalde,Chemnitzer FC,2,1,,,
-61711674,2025-08-03 12:00,ZFC Meuselwitz,SV Babelsberg,1,1,,,
-61711680,2025-08-03 12:00,FC Hertha 03 Zehlendorf,BFC Preussen Berlin,0,2,,,
-61711710,2025-08-08 17:00,Hertha BSC II,FC Eilenburg,5,2,,,
-61711720,2025-08-08 17:00,VSG Altglienicke,FC Carl Zeiss Jena,2,1,,,
-61711698,2025-08-09 12:00,Hallescher FC,FC Hertha 03 Zehlendorf,5,1,,,
-61711724,2025-08-09 12:00,SV Babelsberg,FSV Zwickau,0,2,,,
-61711728,2025-08-09 12:00,BFC Preussen Berlin,BFC Dynamo,1,2,,,
-61711732,2025-08-09 12:00,FC Magdeburg II,FSV Luckenwalde,1,2,,,
-61711702,2025-08-10 12:00,1. FC Lokomotive Leipzig,ZFC Meuselwitz,1,0,,,
-61711706,2025-08-10 12:00,FC Rot-Weiss Erfurt,Greifswalder FC,3,2,,,
-62086492,2025-08-13 17:00,Chemnitzer FC,BSG Chemie Leipzig,1,0,,,
-61711736,2025-08-22 17:00,FSV Zwickau,FC Carl Zeiss Jena,0,0,,,
-61711754,2025-08-22 17:00,FC Hertha 03 Zehlendorf,1. FC Lokomotive Leipzig,0,1,,,
-61711760,2025-08-22 17:00,BSG Chemie Leipzig,SV Babelsberg,2,3,,,
-61711764,2025-08-22 17:00,FC Eilenburg,VSG Altglienicke,0,2,,,
-61711768,2025-08-22 17:00,FSV Luckenwalde,BFC Preussen Berlin,3,0,,,
-61711750,2025-08-23 12:00,Chemnitzer FC,FC Magdeburg II,2,4,,,
-61711774,2025-08-23 12:00,FC Rot-Weiss Erfurt,Hallescher FC,1,2,,,
-61711742,2025-08-24 12:00,Greifswalder FC,Hertha BSC II,1,1,,,
-61711746,2025-08-24 12:00,BFC Dynamo,ZFC Meuselwitz,1,1,,,
-61711796,2025-08-26 15:30,BFC Preussen Berlin,BSG Chemie Leipzig,2,1,,,
-61711778,2025-08-26 17:00,Hallescher FC,FSV Luckenwalde,3,1,,,
-61711782,2025-08-26 17:00,FC Carl Zeiss Jena,FC Hertha 03 Zehlendorf,4,0,,,
-61711786,2025-08-26 17:00,VSG Altglienicke,FC Rot-Weiss Erfurt,1,3,,,
-61711790,2025-08-27 16:00,ZFC Meuselwitz,FC Eilenburg,1,1,,,
-61711800,2025-08-27 17:00,1. FC Lokomotive Leipzig,Chemnitzer FC,2,1,,,
-61711804,2025-08-27 17:00,Hertha BSC II,FSV Zwickau,3,3,,,
-61711808,2025-08-27 17:00,SV Babelsberg,Greifswalder FC,3,1,,,
-61711814,2025-08-27 17:00,FC Magdeburg II,BFC Dynamo,4,3,,,
-61711850,2025-08-29 17:00,FSV Luckenwalde,VSG Altglienicke,1,3,,,
-61711826,2025-08-30 12:00,Greifswalder FC,Hallescher FC,0,2,,,
-61711832,2025-08-30 12:00,BFC Dynamo,SV Babelsberg,0,4,,,
-61711836,2025-08-30 12:00,Chemnitzer FC,BFC Preussen Berlin,1,1,,,
-61711854,2025-08-30 12:00,FC Hertha 03 Zehlendorf,Hertha BSC II,2,2,,,
-61711818,2025-08-31 12:00,FC Rot-Weiss Erfurt,FC Magdeburg II,3,1,,,
-61711822,2025-08-31 12:00,FSV Zwickau,ZFC Meuselwitz,2,0,,,
-61711844,2025-08-31 12:00,FC Eilenburg,1. FC Lokomotive Leipzig,0,1,,,
-62791337,2025-09-02 17:00,BSG Chemie Leipzig,FC Carl Zeiss Jena,0,2,,,
-62810409,2025-09-03 17:00,Hertha BSC II,ZFC Meuselwitz,2,3,,,
-61711858,2025-09-12 16:00,Hallescher FC,BSG Chemie Leipzig,0,0,,,
-61711872,2025-09-12 17:00,Hertha BSC II,BFC Dynamo,2,2,,,
-61711876,2025-09-12 17:00,VSG Altglienicke,FSV Zwickau,3,0,,,
-61711894,2025-09-12 17:00,FC Magdeburg II,Greifswalder FC,1,1,,,
-61711862,2025-09-13 12:00,1. FC Lokomotive Leipzig,FSV Luckenwalde,4,0,,,
-61711868,2025-09-13 12:00,FC Carl Zeiss Jena,FC Eilenburg,2,0,,,
-61711880,2025-09-13 12:00,ZFC Meuselwitz,FC Hertha 03 Zehlendorf,2,1,,,
-61711884,2025-09-13 12:00,BFC Preussen Berlin,FC Rot-Weiss Erfurt,2,4,,,
-61711890,2025-09-13 14:00,SV Babelsberg,Chemnitzer FC,0,1,,,
-61711904,2025-09-16 17:00,FSV Zwickau,FC Magdeburg II,1,0,,,
-61711908,2025-09-16 17:00,BFC Dynamo,Greifswalder FC,2,0,,,
-61711916,2025-09-16 17:00,VSG Altglienicke,ZFC Meuselwitz,1,0,,,
-61711920,2025-09-16 17:00,FC Eilenburg,SV Babelsberg,0,2,,,
-61711922,2025-09-16 17:00,FSV Luckenwalde,FC Hertha 03 Zehlendorf,1,0,,,
-61711924,2025-09-16 17:00,BSG Chemie Leipzig,FC Rot-Weiss Erfurt,0,1,,,
-61711918,2025-09-17 15:00,BFC Preussen Berlin,Hertha BSC II,0,0,,,
-61711912,2025-09-17 17:00,Chemnitzer FC,Hallescher FC,3,0,,,
-61711934,2025-09-19 17:00,SV Babelsberg,VSG Altglienicke,1,2,,,
-61711938,2025-09-19 17:00,FC Hertha 03 Zehlendorf,FSV Zwickau,0,1,,,
-61711940,2025-09-19 17:00,BSG Chemie Leipzig,BFC Dynamo,2,0,,,
-61711926,2025-09-20 12:00,Hallescher FC,BFC Preussen Berlin,0,1,,,
-61711928,2025-09-20 14:00,FC Rot-Weiss Erfurt,Chemnitzer FC,2,2,,,
-61711930,2025-09-21 12:00,Greifswalder FC,FSV Luckenwalde,0,2,,,
-61711932,2025-09-21 12:00,Hertha BSC II,1. FC Lokomotive Leipzig,2,7,,,
-61711936,2025-09-21 12:00,ZFC Meuselwitz,FC Carl Zeiss Jena,0,3,,,
-62456420,2025-09-23 17:00,FC Magdeburg II,FC Eilenburg,4,0,,,
-61711944,2025-09-26 17:00,1. FC Lokomotive Leipzig,SV Babelsberg,1,0,,,
-61711960,2025-09-26 17:00,Hertha BSC II,FC Rot-Weiss Erfurt,0,0,,,
-61711954,2025-09-27 12:00,BFC Preussen Berlin,FC Magdeburg II,1,0,,,
-61711956,2025-09-27 12:00,FC Eilenburg,FC Hertha 03 Zehlendorf,1,1,,,
-61711958,2025-09-27 12:00,FSV Luckenwalde,BSG Chemie Leipzig,1,0,,,
-61711946,2025-09-27 14:00,FC Carl Zeiss Jena,Chemnitzer FC,2,0,,,
-61711948,2025-09-28 12:00,FSV Zwickau,Hallescher FC,2,1,,,
-61711950,2025-09-28 12:00,VSG Altglienicke,BFC Dynamo,0,0,,,
-61711952,2025-09-28 12:00,ZFC Meuselwitz,Greifswalder FC,1,1,,,
-62456410,2025-10-01 17:00,FC Carl Zeiss Jena,1. FC Lokomotive Leipzig,1,0,,,
-61711964,2025-10-03 12:00,Greifswalder FC,BFC Preussen Berlin,1,1,,,
-61711966,2025-10-03 12:00,BFC Dynamo,FSV Zwickau,1,0,,,
-61711976,2025-10-03 12:00,BSG Chemie Leipzig,VSG Altglienicke,3,0,,,
-61711962,2025-10-04 12:00,Hallescher FC,ZFC Meuselwitz,1,0,,,
-61711968,2025-10-04 12:00,Chemnitzer FC,FC Eilenburg,2,2,,,
-61711970,2025-10-05 12:00,FC Hertha 03 Zehlendorf,SV Babelsberg,3,3,,,
-61711972,2025-10-05 12:00,FSV Luckenwalde,FC Carl Zeiss Jena,1,1,,,
-61711974,2025-10-05 12:00,FC Rot-Weiss Erfurt,1. FC Lokomotive Leipzig,0,2,,,
-63667249,2025-10-10 17:00,FC Magdeburg II,Hertha BSC II,6,0,,,
-61711982,2025-10-17 17:00,FC Carl Zeiss Jena,BFC Preussen Berlin,3,1,,,
-61711994,2025-10-17 17:00,FC Eilenburg,FSV Luckenwalde,0,2,,,
-61711984,2025-10-18 12:00,FSV Zwickau,Greifswalder FC,1,0,,,
-61711990,2025-10-18 12:00,FC Hertha 03 Zehlendorf,BFC Dynamo,2,1,,,
-61711992,2025-10-18 12:00,VSG Altglienicke,Hallescher FC,1,1,,,
-61711996,2025-10-18 12:00,SV Babelsberg,FC Rot-Weiss Erfurt,0,2,,,
-61711980,2025-10-19 12:00,1. FC Lokomotive Leipzig,BSG Chemie Leipzig,2,0,,,
-61711986,2025-10-19 12:00,Hertha BSC II,Chemnitzer FC,2,0,,,
-61711988,2025-10-19 14:00,ZFC Meuselwitz,FC Magdeburg II,1,1,,,
-61711998,2025-10-24 17:00,Hallescher FC,1. FC Lokomotive Leipzig,2,4,,,
-61712014,2025-10-24 17:00,FSV Luckenwalde,SV Babelsberg,0,0,,,
-61712002,2025-10-25 12:00,Greifswalder FC,FC Carl Zeiss Jena,3,3,,,
-61712006,2025-10-25 12:00,Chemnitzer FC,FC Hertha 03 Zehlendorf,2,1,,,
-61712012,2025-10-25 12:00,BSG Chemie Leipzig,Hertha BSC II,3,1,,,
-61712000,2025-10-26 13:00,FC Rot-Weiss Erfurt,ZFC Meuselwitz,3,3,,,
-61712004,2025-10-26 13:00,BFC Dynamo,FC Eilenburg,2,1,,,
-61712008,2025-10-26 13:00,BFC Preussen Berlin,FSV Zwickau,3,2,,,
-63736935,2025-10-28 18:00,FC Magdeburg II,VSG Altglienicke,0,1,,,
-61712018,2025-10-31 13:00,FC Carl Zeiss Jena,FC Magdeburg II,2,1,,,
-61712026,2025-10-31 18:00,SV Babelsberg,BFC Preussen Berlin,2,5,,,
-61712020,2025-11-01 13:00,FSV Zwickau,FSV Luckenwalde,3,0,,,
-61712024,2025-11-01 13:00,VSG Altglienicke,Greifswalder FC,1,2,,,
-61712032,2025-11-01 13:00,FC Eilenburg,FC Rot-Weiss Erfurt,1,1,,,
-61712016,2025-11-02 13:00,1. FC Lokomotive Leipzig,BFC Dynamo,3,0,,,
-61712022,2025-11-02 13:00,Hertha BSC II,Hallescher FC,1,0,,,
-61712028,2025-11-02 13:00,ZFC Meuselwitz,Chemnitzer FC,1,4,,,
-61712034,2025-11-07 18:00,Hallescher FC,SV Babelsberg,2,2,,,
-61712040,2025-11-07 18:00,BFC Dynamo,FC Carl Zeiss Jena,2,3,,,
-61712042,2025-11-07 18:00,Chemnitzer FC,VSG Altglienicke,2,2,,,
-61712048,2025-11-07 18:00,FSV Luckenwalde,Hertha BSC II,0,1,,,
-61712036,2025-11-08 13:00,FC Rot-Weiss Erfurt,FSV Zwickau,2,2,,,
-61712044,2025-11-08 13:00,BSG Chemie Leipzig,ZFC Meuselwitz,0,2,,,
-61712038,2025-11-09 13:00,Greifswalder FC,FC Eilenburg,2,1,,,
-61712050,2025-11-09 13:00,BFC Preussen Berlin,1. FC Lokomotive Leipzig,2,0,,,
-63736941,2025-11-11 18:00,FC Magdeburg II,FC Hertha 03 Zehlendorf,1,0,,,
-61712052,2025-11-21 18:00,1. FC Lokomotive Leipzig,Greifswalder FC,3,0,,,
-61712066,2025-11-21 18:00,FC Eilenburg,BSG Chemie Leipzig,0,1,,,
-61712054,2025-11-21 19:20,FC Carl Zeiss Jena,Hallescher FC,1,1,,,
-61712056,2025-11-22 13:00,FSV Zwickau,Chemnitzer FC,4,0,,,
-61712062,2025-11-22 13:00,SV Babelsberg,FC Magdeburg II,1,3,,,
-61712064,2025-11-22 13:00,FC Hertha 03 Zehlendorf,FC Rot-Weiss Erfurt,1,1,,,
-61712084,2025-11-26 18:00,FC Magdeburg II,1. FC Lokomotive Leipzig,1,5,,,
-66018836,2025-11-26 18:00,VSG Altglienicke,Hertha BSC II,3,0,,,
-61712070,2025-11-28 18:00,Hallescher FC,FC Eilenburg,3,0,,,
-61712078,2025-11-28 18:00,Chemnitzer FC,BFC Dynamo,1,1,,,
-61712086,2025-11-28 18:00,FSV Luckenwalde,ZFC Meuselwitz,2,2,,,
-61712072,2025-11-28 19:20,FC Rot-Weiss Erfurt,FC Carl Zeiss Jena,3,1,,,
-61712080,2025-11-29 12:00,BFC Preussen Berlin,VSG Altglienicke,1,1,,,
-61712082,2025-11-29 13:00,BSG Chemie Leipzig,FSV Zwickau,1,2,,,
-61712074,2025-11-30 13:00,Greifswalder FC,FC Hertha 03 Zehlendorf,1,1,,,
-61712076,2025-11-30 13:00,Hertha BSC II,SV Babelsberg,0,2,,,
-61712088,2025-12-05 18:00,1. FC Lokomotive Leipzig,FSV Zwickau,0,2,,,
-61712094,2025-12-05 18:00,BFC Dynamo,Hallescher FC,1,1,,,
-61712092,2025-12-06 13:00,Greifswalder FC,Chemnitzer FC,0,0,,,
-61712098,2025-12-06 13:00,FC Hertha 03 Zehlendorf,VSG Altglienicke,1,3,,,
-61712100,2025-12-06 13:00,FC Eilenburg,BFC Preussen Berlin,1,0,,,
-61712104,2025-12-06 13:00,FSV Luckenwalde,FC Rot-Weiss Erfurt,1,1,,,
-61712090,2025-12-07 13:00,FC Carl Zeiss Jena,SV Babelsberg,1,1,,,
-61712096,2025-12-07 13:00,ZFC Meuselwitz,Hertha BSC II,1,3,,,
-61712102,2025-12-07 13:00,FC Magdeburg II,BSG Chemie Leipzig,2,1,,,
-61712116,2025-12-12 18:00,VSG Altglienicke,1. FC Lokomotive Leipzig,2,3,2.875,3.250,2.200
-61712118,2025-12-12 18:00,SV Babelsberg,ZFC Meuselwitz,2,3,1.900,3.500,3.400
-61712108,2025-12-13 13:00,FC Rot-Weiss Erfurt,BFC Dynamo,1,0,1.800,3.750,3.500
-61712114,2025-12-13 13:00,Chemnitzer FC,FSV Luckenwalde,3,3,1.909,3.200,3.700
-61712106,2025-12-14 13:00,Hallescher FC,FC Magdeburg II,3,1,2.100,3.400,3.000
-61712110,2025-12-14 13:00,FSV Zwickau,FC Eilenburg,2,2,1.363,4.100,6.500
-61712112,2025-12-14 13:00,Hertha BSC II,FC Carl Zeiss Jena,2,3,,,
-61712122,2025-12-14 13:00,BSG Chemie Leipzig,Greifswalder FC,2,3,2.700,3.200,2.300
-66673862,2026-01-24 13:00,ZFC Meuselwitz,BFC Preussen Berlin,0,0,,,
-61712158,2026-02-06 18:00,FC Magdeburg II,Chemnitzer FC,0,1,2.250,3.400,2.625
-61712142,2026-02-07 13:00,Hallescher FC,FC Rot-Weiss Erfurt,1,0,2.200,3.300,2.750
-61712168,2026-02-15 15:00,Chemnitzer FC,1. FC Lokomotive Leipzig,3,0,3.300,3.300,2.000
-61712194,2026-02-20 18:00,FC Magdeburg II,FC Rot-Weiss Erfurt,2,3,2.450,3.700,2.300
-61712178,2026-02-21 13:00,Hallescher FC,Greifswalder FC,2,0,1.666,3.700,4.200
-61712182,2026-02-21 13:00,FC Carl Zeiss Jena,BSG Chemie Leipzig,2,1,1.533,3.600,5.250
-61712180,2026-02-22 13:00,1. FC Lokomotive Leipzig,FC Eilenburg,3,0,1.250,4.750,9.500
-61712190,2026-02-22 13:00,ZFC Meuselwitz,FSV Zwickau,4,0,2.900,3.500,2.100
-61712202,2026-02-27 18:00,BFC Dynamo,Hertha BSC II,1,3,,,
-61712208,2026-02-27 18:00,FC Eilenburg,FC Carl Zeiss Jena,2,1,4.750,4.200,1.550
-61712212,2026-02-27 18:00,Chemnitzer FC,SV Babelsberg,5,1,1.750,3.700,3.600
-61712196,2026-02-28 13:00,FC Rot-Weiss Erfurt,BFC Preussen Berlin,0,1,1.615,3.900,4.200
-61712198,2026-02-28 13:00,FSV Zwickau,VSG Altglienicke,2,2,2.450,3.400,2.450
-61712210,2026-02-28 13:00,FSV Luckenwalde,1. FC Lokomotive Leipzig,0,3,,,
-61712204,2026-03-01 13:00,FC Hertha 03 Zehlendorf,ZFC Meuselwitz,1,1,2.600,3.400,2.300
-61712206,2026-03-01 13:00,BSG Chemie Leipzig,Hallescher FC,0,2,3.400,3.500,1.833
-68987708,2026-03-03 18:00,FSV Zwickau,SV Babelsberg,3,2,1.727,3.500,3.900
-68987886,2026-03-03 18:00,FC Eilenburg,Hertha BSC II,0,1,3.400,3.400,1.850
-68988230,2026-03-03 18:00,FC Carl Zeiss Jena,VSG Altglienicke,0,0,1.850,3.400,3.400
-68988244,2026-03-03 18:00,BFC Dynamo,BFC Preussen Berlin,3,1,2.100,3.400,2.875
-68987602,2026-03-04 18:00,ZFC Meuselwitz,1. FC Lokomotive Leipzig,0,1,5.250,3.600,1.533
-68987612,2026-03-04 18:00,FSV Luckenwalde,FC Magdeburg II,0,0,2.700,3.500,2.200
-68987796,2026-03-04 18:00,Greifswalder FC,FC Rot-Weiss Erfurt,1,2,2.800,3.300,2.200
-68988138,2026-03-04 18:00,FC Hertha 03 Zehlendorf,Hallescher FC,1,4,5.000,3.500,1.571
-61712222,2026-03-06 18:00,Hertha BSC II,BFC Preussen Berlin,5,0,2.100,3.500,2.875
-61712224,2026-03-06 18:00,SV Babelsberg,FC Eilenburg,2,1,1.750,3.600,3.750
-61712214,2026-03-07 13:00,Hallescher FC,Chemnitzer FC,3,1,1.700,3.600,4.000
-61712220,2026-03-07 13:00,Greifswalder FC,BFC Dynamo,0,1,2.100,3.500,2.750
-61712230,2026-03-07 13:00,FC Magdeburg II,FSV Zwickau,1,2,2.550,3.600,2.300
-61712216,2026-03-08 13:00,1. FC Lokomotive Leipzig,FC Carl Zeiss Jena,1,2,1.900,3.400,3.400
-61712218,2026-03-08 13:00,FC Rot-Weiss Erfurt,BSG Chemie Leipzig,2,2,1.615,3.800,4.500
-61712226,2026-03-08 13:00,ZFC Meuselwitz,VSG Altglienicke,4,0,2.900,3.500,2.050
-61712228,2026-03-08 13:00,FC Hertha 03 Zehlendorf,FSV Luckenwalde,1,1,,,
-69135064,2026-03-10 18:00,BFC Dynamo,FC Magdeburg II,1,2,,,
-69140780,2026-03-10 18:00,Hertha BSC II,Greifswalder FC,0,1,,,
-69134092,2026-03-11 18:00,VSG Altglienicke,FSV Luckenwalde,0,2,1.700,3.500,4.200
-61712234,2026-03-13 18:00,FC Carl Zeiss Jena,ZFC Meuselwitz,1,2,1.571,3.600,4.750
-61712236,2026-03-13 18:00,FSV Zwickau,FC Hertha 03 Zehlendorf,1,0,1.450,4.750,5.000
-61712238,2026-03-13 18:00,BFC Dynamo,BSG Chemie Leipzig,2,0,2.200,3.300,2.800
-61712240,2026-03-14 13:00,Chemnitzer FC,FC Rot-Weiss Erfurt,0,4,2.100,3.600,2.800
-61712244,2026-03-14 13:00,BFC Preussen Berlin,Hallescher FC,1,3,3.900,4.000,1.666
-61712246,2026-03-14 13:00,FC Eilenburg,FC Magdeburg II,0,1,2.700,3.500,2.150
-61712248,2026-03-14 13:00,FSV Luckenwalde,Greifswalder FC,1,1,2.400,3.500,2.400
-61712232,2026-03-15 13:00,1. FC Lokomotive Leipzig,Hertha BSC II,4,0,,,
-61712242,2026-03-15 13:00,VSG Altglienicke,SV Babelsberg,1,1,1.833,3.500,3.500
-69133904,2026-03-17 18:00,FC Eilenburg,ZFC Meuselwitz,5,1,,,
-69134104,2026-03-18 18:00,BSG Chemie Leipzig,BFC Preussen Berlin,2,2,,,
-61712250,2026-03-20 18:00,Hallescher FC,FSV Zwickau,3,0,1.800,3.500,3.600
-61712252,2026-03-20 18:00,FC Rot-Weiss Erfurt,Hertha BSC II,3,2,1.700,3.750,3.800
-61712256,2026-03-20 18:00,BFC Dynamo,VSG Altglienicke,1,1,2.550,3.400,2.300
-61712254,2026-03-21 13:00,Greifswalder FC,ZFC Meuselwitz,2,0,1.909,3.500,3.300
-61712260,2026-03-21 13:00,SV Babelsberg,1. FC Lokomotive Leipzig,1,2,,,
-61712258,2026-03-22 13:00,Chemnitzer FC,FC Carl Zeiss Jena,4,1,4.750,3.800,1.550
-61712262,2026-03-22 13:00,FC Hertha 03 Zehlendorf,FC Eilenburg,0,0,2.400,3.400,2.450
-61712264,2026-03-22 13:00,BSG Chemie Leipzig,FSV Luckenwalde,1,0,2.200,3.250,2.800
-61712266,2026-03-22 13:00,FC Magdeburg II,BFC Preussen Berlin,1,1,1.909,3.600,3.100
-69140786,2026-03-24 18:00,FSV Zwickau,Hertha BSC II,2,0,,,
-69134102,2026-03-25 18:00,1. FC Lokomotive Leipzig,FC Hertha 03 Zehlendorf,0,2,,,
-69140800,2026-03-25 18:00,VSG Altglienicke,FC Eilenburg,3,1,,,
-69140806,2026-03-25 18:00,BFC Dynamo,FSV Luckenwalde,0,1,,,
-69500084,2026-03-25 18:00,Greifswalder FC,FC Magdeburg II,1,3,,,
-69137482,2026-03-27 18:00,SV Babelsberg,BSG Chemie Leipzig,5,0,,,
-69134086,2026-03-28 13:00,BFC Preussen Berlin,FSV Luckenwalde,3,1,,,
-69134096,2026-04-01 17:00,ZFC Meuselwitz,BFC Preussen Berlin,2,3,,,
-69137486,2026-04-01 17:00,SV Babelsberg,BFC Dynamo,2,2,,,
-69140798,2026-04-01 17:00,FC Hertha 03 Zehlendorf,FC Carl Zeiss Jena,0,3,,,
-61712276,2026-04-02 17:00,VSG Altglienicke,BSG Chemie Leipzig,1,1,,,
-61712284,2026-04-02 17:30,FC Eilenburg,Chemnitzer FC,1,1,,,
-61712268,2026-04-04 12:00,1. FC Lokomotive Leipzig,FC Rot-Weiss Erfurt,2,1,2.050,3.500,2.900
-61712270,2026-04-04 12:00,FC Carl Zeiss Jena,FSV Luckenwalde,1,0,1.480,4.200,5.000
-61712278,2026-04-04 12:00,SV Babelsberg,FC Hertha 03 Zehlendorf,4,0,,,
-61712280,2026-04-04 14:00,ZFC Meuselwitz,Hallescher FC,3,2,4.200,3.900,1.600
-61712274,2026-04-05 12:00,Hertha BSC II,FC Magdeburg II,2,1,2.625,3.750,2.150
-61712282,2026-04-05 12:00,BFC Preussen Berlin,Greifswalder FC,0,0,2.250,3.700,2.550
-61712272,2026-04-05 16:00,FSV Zwickau,BFC Dynamo,2,2,1.727,3.700,3.750
-69500092,2026-04-07 17:00,FSV Luckenwalde,Hallescher FC,1,4,,,
-69810832,2026-04-07 17:00,FC Hertha 03 Zehlendorf,BSG Chemie Leipzig,0,5,,,
-69135084,2026-04-08 15:00,BFC Preussen Berlin,Chemnitzer FC,2,1,,,
-69133914,2026-04-08 17:00,FC Carl Zeiss Jena,FSV Zwickau,5,1,,,
-69136430,2026-04-08 17:00,Greifswalder FC,SV Babelsberg,0,0,,,
-61712286,2026-04-10 17:00,Hallescher FC,VSG Altglienicke,2,3,1.800,3.700,3.400
-61712300,2026-04-10 17:00,FC Magdeburg II,ZFC Meuselwitz,2,1,2.000,3.500,3.000
-61712288,2026-04-11 12:00,FC Rot-Weiss Erfurt,SV Babelsberg,4,2,1.800,3.400,3.800
-61712292,2026-04-11 12:00,BFC Dynamo,FC Hertha 03 Zehlendorf,5,1,1.500,4.000,5.000
-61712294,2026-04-11 12:00,Chemnitzer FC,Hertha BSC II,0,1,2.700,3.400,2.250
-61712302,2026-04-11 12:00,FSV Luckenwalde,FC Eilenburg,1,1,2.150,3.400,2.800
-61712290,2026-04-12 12:00,Greifswalder FC,FSV Zwickau,1,2,2.800,3.500,2.150
-61712296,2026-04-12 12:00,BFC Preussen Berlin,FC Carl Zeiss Jena,0,2,3.700,3.900,1.727
-61712298,2026-04-12 12:00,BSG Chemie Leipzig,1. FC Lokomotive Leipzig,1,0,4.200,3.500,1.700
-69137484,2026-04-14 13:00,Hertha BSC II,FC Hertha 03 Zehlendorf,3,1,,,
-69133998,2026-04-15 17:00,FC Rot-Weiss Erfurt,VSG Altglienicke,1,1,2.000,3.600,3.000
-69140802,2026-04-15 17:00,ZFC Meuselwitz,BFC Dynamo,0,1,2.450,3.500,2.375
-61712306,2026-04-17 17:00,FC Carl Zeiss Jena,Greifswalder FC,2,1,1.571,3.700,5.000
-61712308,2026-04-17 17:00,FSV Zwickau,BFC Preussen Berlin,1,0,1.700,3.700,4.000
-61712314,2026-04-17 17:00,SV Babelsberg,FSV Luckenwalde,2,3,,,
-61712318,2026-04-17 17:00,FC Hertha 03 Zehlendorf,Chemnitzer FC,1,2,4.500,4.000,1.533
-61712304,2026-04-18 12:00,1. FC Lokomotive Leipzig,Hallescher FC,0,0,2.100,3.500,2.900
-61712312,2026-04-18 12:00,VSG Altglienicke,FC Magdeburg II,5,1,1.900,3.750,3.200
-61712310,2026-04-18 14:00,Hertha BSC II,BSG Chemie Leipzig,0,1,1.950,3.700,3.000
-61712316,2026-04-19 12:00,ZFC Meuselwitz,FC Rot-Weiss Erfurt,0,3,3.100,3.700,1.950
-61712320,2026-04-19 12:00,FC Eilenburg,BFC Dynamo,2,2,2.500,3.900,2.200
-69140794,2026-04-22 15:30,BFC Preussen Berlin,FC Hertha 03 Zehlendorf,3,2,,,
-61712326,2026-04-24 17:00,Greifswalder FC,VSG Altglienicke,1,0,2.300,3.600,2.500
-61712328,2026-04-24 17:00,BFC Dynamo,1. FC Lokomotive Leipzig,0,1,4.500,3.750,1.600
-61712324,2026-04-25 12:00,FC Rot-Weiss Erfurt,FC Eilenburg,3,3,1.380,4.500,6.250
-61712334,2026-04-25 12:00,BSG Chemie Leipzig,FC Hertha 03 Zehlendorf,4,2,1.363,4.500,6.250
-61712322,2026-04-26 12:00,Hallescher FC,Hertha BSC II,2,0,1.615,4.000,4.200
-61712330,2026-04-26 12:00,Chemnitzer FC,ZFC Meuselwitz,3,2,2.000,3.400,3.100
-61712332,2026-04-26 12:00,BFC Preussen Berlin,SV Babelsberg,3,6,2.150,3.900,2.600
-61712336,2026-04-26 12:00,FC Magdeburg II,FC Carl Zeiss Jena,4,1,3.750,4.100,1.650
-61712338,2026-04-26 12:00,FSV Luckenwalde,FSV Zwickau,0,1,2.600,3.600,2.200
-61712350,2026-04-29 17:00,SV Babelsberg,Hallescher FC,4,1,,,
-61712346,2026-04-30 17:00,Hertha BSC II,FSV Luckenwalde,0,1,,,
-61712340,2026-05-02 12:00,1. FC Lokomotive Leipzig,BFC Preussen Berlin,1,3,,,
-61712342,2026-05-02 12:00,FC Carl Zeiss Jena,BFC Dynamo,2,1,,,
-61712356,2026-05-02 12:00,FC Eilenburg,Greifswalder FC,0,6,,,
-61712344,2026-05-03 12:00,FSV Zwickau,FC Rot-Weiss Erfurt,2,1,,,
-61712348,2026-05-03 12:00,VSG Altglienicke,Chemnitzer FC,1,2,,,
-61712352,2026-05-03 12:00,ZFC Meuselwitz,BSG Chemie Leipzig,0,4,,,
-61712354,2026-05-03 12:00,FC Hertha 03 Zehlendorf,FC Magdeburg II,0,2,,,
-61712358,2026-05-08 17:00,Hallescher FC,FC Carl Zeiss Jena,0,2,,,
-61712364,2026-05-08 17:00,Hertha BSC II,VSG Altglienicke,1,2,,,
-61712370,2026-05-08 17:00,BSG Chemie Leipzig,FC Eilenburg,3,2,,,
-61712360,2026-05-09 12:00,FC Rot-Weiss Erfurt,FC Hertha 03 Zehlendorf,5,2,,,
-61712368,2026-05-09 12:00,BFC Preussen Berlin,ZFC Meuselwitz,2,1,,,
-61712366,2026-05-09 14:00,Chemnitzer FC,FSV Zwickau,3,2,2.400,3.400,2.450
-61712362,2026-05-10 12:00,Greifswalder FC,1. FC Lokomotive Leipzig,1,1,,,
-61712372,2026-05-10 12:00,FC Magdeburg II,SV Babelsberg,6,4,,,
-61712374,2026-05-10 12:00,FSV Luckenwalde,BFC Dynamo,0,1,,,
-61712376,2026-05-16 12:00,1. FC Lokomotive Leipzig,FC Magdeburg II,5,2,1.420,4.200,5.750
-61712378,2026-05-16 12:00,FC Carl Zeiss Jena,FC Rot-Weiss Erfurt,2,0,1.550,4.333,4.333
-61712380,2026-05-16 12:00,FSV Zwickau,BSG Chemie Leipzig,1,0,2.000,3.700,2.900
-61712382,2026-05-16 12:00,BFC Dynamo,Chemnitzer FC,2,2,1.909,4.100,2.800
-61712384,2026-05-16 12:00,VSG Altglienicke,BFC Preussen Berlin,1,0,1.750,4.333,3.200
-61712386,2026-05-16 12:00,SV Babelsberg,Hertha BSC II,3,1,,,
-61712388,2026-05-16 12:00,ZFC Meuselwitz,FSV Luckenwalde,1,1,2.250,3.900,2.400
-61712390,2026-05-16 12:00,FC Hertha 03 Zehlendorf,Greifswalder FC,2,3,3.700,4.500,1.615
-61712392,2026-05-16 12:00,FC Eilenburg,Hallescher FC,0,5,5.000,4.333,1.480
-72697512,2026-07-24 17:00,FC Rot-Weiss Erfurt,BFC Dynamo,4,1,,,
-72697514,2026-07-24 17:00,FSV Luckenwalde,1. FC Lokomotive Leipzig,1,3,,,
-72697502,2026-07-25 12:00,Hertha BSC II,Chemnitzer FC,0,4,,,
-72697504,2026-07-25 12:00,BFC Preussen Berlin,RSV Eintracht Stahnsdorf 1949,1,1,,,
-72697508,2026-07-25 12:00,FC Magdeburg II,SV Tasmania Berlin,5,1,,,
-72697510,2026-07-25 12:30,Erzgebirge Aue,VSG Altglienicke,3,3,,,
-72697498,2026-07-26 12:00,FC Carl Zeiss Jena,FSV Zwickau,1,2,,,
-72697500,2026-07-26 12:00,Greifswalder FC,Hallescher FC,2,2,,,
-72697506,2026-07-26 12:00,BSG Chemie Leipzig,SV Babelsberg,0,2,,,
-72697524,2026-07-31 17:00,Chemnitzer FC,BFC Preussen Berlin,3,0,,,
-72697528,2026-07-31 17:00,SV Babelsberg,FC Carl Zeiss Jena,0,1,,,
-72697532,2026-07-31 17:00,SV Tasmania Berlin,Erzgebirge Aue,0,2,,,
-72697520,2026-08-01 12:00,FSV Zwickau,Greifswalder FC,0,3,,,
-72697530,2026-08-01 12:00,RSV Eintracht Stahnsdorf 1949,FSV Luckenwalde,3,0,,,
-72697522,2026-08-01 14:00,BFC Dynamo,BSG Chemie Leipzig,2,0,,,
-72697516,2026-08-02 12:00,Hallescher FC,FC Rot-Weiss Erfurt,1,1,,,
-72697518,2026-08-02 12:00,1. FC Lokomotive Leipzig,FC Magdeburg II,3,3,,,
-72697534,2026-08-04 17:00,Hertha BSC II,Greifswalder FC,1,4,,,
-72697536,2026-08-04 17:00,SV Babelsberg,VSG Altglienicke,2,2,,,
-72697544,2026-08-04 17:00,FC Carl Zeiss Jena,RSV Eintracht Stahnsdorf 1949,4,0,,,
-72697548,2026-08-04 17:00,Chemnitzer FC,FSV Zwickau,3,1,,,
-72697550,2026-08-04 17:00,FC Magdeburg II,FSV Luckenwalde,0,1,,,
-72697538,2026-08-05 17:00,BFC Preussen Berlin,1. FC Lokomotive Leipzig,1,2,,,
-72697542,2026-08-05 17:00,BSG Chemie Leipzig,Hallescher FC,0,1,,,
-72697546,2026-08-05 17:00,FC Rot-Weiss Erfurt,SV Tasmania Berlin,5,0,,,
-72697540,2026-08-06 17:00,Erzgebirge Aue,BFC Dynamo,3,2,,,
-72697558,2026-08-07 17:00,Greifswalder FC,VSG Altglienicke,1,3,,,
-72697562,2026-08-08 12:00,RSV Eintracht Stahnsdorf 1949,BSG Chemie Leipzig,1,1,,,
-72697566,2026-08-08 12:00,FSV Luckenwalde,SV Tasmania Berlin,2,3,,,
-72697554,2026-08-08 12:30,1. FC Lokomotive Leipzig,Hertha BSC II,1,2,,,
-72697552,2026-08-09 12:00,Hallescher FC,Chemnitzer FC,0,0,,,
-72697556,2026-08-09 12:00,FC Carl Zeiss Jena,FC Rot-Weiss Erfurt,1,2,,,
-72697560,2026-08-09 12:00,BFC Dynamo,FSV Zwickau,0,0,,,
-72697568,2026-08-09 12:00,Erzgebirge Aue,BFC Preussen Berlin,2,1,,,
-73045482,2026-08-11 17:00,FC Magdeburg II,SV Babelsberg,3,1,,,
-73602174,2026-08-11 17:00,VSG Altglienicke,Hertha BSC II,3,1,,,
-72697572,2026-08-14 17:00,FSV Zwickau,FSV Luckenwalde,2,1,,,
-72697574,2026-08-14 17:00,Hertha BSC II,BFC Dynamo,1,1,,,
-72697580,2026-08-14 17:00,SV Babelsberg,RSV Eintracht Stahnsdorf 1949,3,3,,,
-72697584,2026-08-14 17:00,BSG Chemie Leipzig,FC Carl Zeiss Jena,0,1,,,
-72697570,2026-08-15 12:00,FC Rot-Weiss Erfurt,FC Magdeburg II,4,1,1.615,4.000,4.000
-72697582,2026-08-15 12:00,BFC Preussen Berlin,Greifswalder FC,1,1,,,
-72697576,2026-08-15 14:00,Chemnitzer FC,Erzgebirge Aue,3,1,2.700,3.600,2.150
-72697578,2026-08-16 12:00,VSG Altglienicke,Hallescher FC,2,1,,,
-72697586,2026-08-16 12:00,SV Tasmania Berlin,1. FC Lokomotive Leipzig,2,3,,,
-72697588,2026-08-25 17:00,1. FC Lokomotive Leipzig,Chemnitzer FC,0,2,,,
-72697592,2026-08-25 17:00,BFC Dynamo,BFC Preussen Berlin,2,0,,,
-72697602,2026-08-25 17:00,FC Magdeburg II,BSG Chemie Leipzig,1,0,,,
-72697604,2026-08-25 17:00,FSV Luckenwalde,FC Rot-Weiss Erfurt,0,5,,,
-72697600,2026-08-26 16:00,RSV Eintracht Stahnsdorf 1949,FSV Zwickau,1,2,,,
-72697594,2026-08-26 17:00,Erzgebirge Aue,Hertha BSC II,0,0,,,
-72697598,2026-08-26 17:00,Greifswalder FC,SV Babelsberg,2,1,,,
-72697610,2026-08-28 17:00,Chemnitzer FC,FC Carl Zeiss Jena,1,1,,,
-72697612,2026-08-28 17:00,VSG Altglienicke,BSG Chemie Leipzig,1,1,,,
-72697608,2026-08-29 12:00,Hertha BSC II,Hallescher FC,0,2,3.500,3.700,1.800
-72697622,2026-08-29 12:00,FC Rot-Weiss Erfurt,BFC Preussen Berlin,1,1,,,
-72697606,2026-08-29 14:00,FSV Zwickau,SV Babelsberg,1,0,1.833,3.700,3.250
-72697614,2026-08-30 12:00,RSV Eintracht Stahnsdorf 1949,FC Magdeburg II,2,4,,,
-72697616,2026-08-30 12:00,SV Tasmania Berlin,Greifswalder FC,2,2,,,
-72697618,2026-08-30 12:00,FSV Luckenwalde,BFC Dynamo,0,2,,,
-72697620,2026-08-30 12:00,1. FC Lokomotive Leipzig,Erzgebirge Aue,1,2,,,
-72697596,2026-09-02 17:00,Hallescher FC,SV Tasmania Berlin,2,0,,,
-73045800,2026-09-02 17:00,FC Carl Zeiss Jena,VSG Altglienicke,1,0,,,
-72697628,2026-09-10 17:00,BFC Dynamo,SV Tasmania Berlin,3,1,,,
-72697624,2026-09-11 17:00,FC Rot-Weiss Erfurt,RSV Eintracht Stahnsdorf 1949,5,0,,,
-72697630,2026-09-11 17:00,VSG Altglienicke,Chemnitzer FC,0,2,,,
-72697632,2026-09-12 12:00,SV Babelsberg,Hallescher FC,1,1,,,
-72697634,2026-09-12 12:00,BFC Preussen Berlin,FC Magdeburg II,4,1,,,
-72697636,2026-09-12 12:00,Erzgebirge Aue,FSV Luckenwalde,2,1,,,
-72697640,2026-09-12 12:00,FC Carl Zeiss Jena,Hertha BSC II,3,0,,,
-72697638,2026-09-12 12:30,BSG Chemie Leipzig,FSV Zwickau,2,2,3.000,3.300,2.050
-72697626,2026-09-13 12:00,Greifswalder FC,1. FC Lokomotive Leipzig,3,3,,,
-72697642,2026-09-15 17:00,Hallescher FC,FC Carl Zeiss Jena,2,0,,,
-72697644,2026-09-15 17:00,FSV Zwickau,VSG Altglienicke,1,2,,,
-72697646,2026-09-15 17:00,Hertha BSC II,FC Rot-Weiss Erfurt,1,2,,,
-72697654,2026-09-15 17:00,FSV Luckenwalde,BFC Preussen Berlin,0,2,,,
-72697648,2026-09-16 15:00,RSV Eintracht Stahnsdorf 1949,Greifswalder FC,1,2,,,
-72697650,2026-09-16 17:00,SV Tasmania Berlin,BSG Chemie Leipzig,2,5,,,
-72697652,2026-09-16 17:00,FC Magdeburg II,Erzgebirge Aue,1,2,,,
-72697656,2026-09-16 17:00,1. FC Lokomotive Leipzig,BFC Dynamo,2,2,,,
-72697658,2026-09-16 17:00,Chemnitzer FC,SV Babelsberg,0,1,,,
-72697674,2026-09-18 17:00,FSV Zwickau,Hallescher FC,1,3,,,
-72697666,2026-09-19 12:00,VSG Altglienicke,RSV Eintracht Stahnsdorf 1949,3,1,,,
-72697668,2026-09-19 12:00,SV Babelsberg,Hertha BSC II,0,2,,,
-72697670,2026-09-19 12:00,BFC Preussen Berlin,SV Tasmania Berlin,1,1,,,
-72697662,2026-09-19 12:30,FC Rot-Weiss Erfurt,Erzgebirge Aue,2,2,2.150,3.600,2.700
-72697660,2026-09-20 12:00,FC Carl Zeiss Jena,1. FC Lokomotive Leipzig,1,2,,,
-72697664,2026-09-20 12:00,Greifswalder FC,FSV Luckenwalde,3,1,,,
-72697676,2026-09-20 12:00,BFC Dynamo,FC Magdeburg II,4,1,,,
-72697672,2026-09-20 16:00,BSG Chemie Leipzig,Chemnitzer FC,1,3,,,
-72697686,2026-09-25 17:00,SV Tasmania Berlin,FC Carl Zeiss Jena,1,5,,,
-72697692,2026-09-25 17:00,BFC Dynamo,Greifswalder FC,1,0,,,
-72697694,2026-09-25 17:00,FC Magdeburg II,VSG Altglienicke,0,1,,,
-72697678,2026-09-26 12:00,Hallescher FC,BFC Preussen Berlin,3,2,,,
-72697680,2026-09-26 12:00,1. FC Lokomotive Leipzig,FC Rot-Weiss Erfurt,3,4,,,
-72697682,2026-09-26 14:00,RSV Eintracht Stahnsdorf 1949,Chemnitzer FC,0,4,,,
-72697684,2026-09-27 12:00,Erzgebirge Aue,BSG Chemie Leipzig,1,2,,,
-72697688,2026-09-27 12:00,FSV Luckenwalde,SV Babelsberg,2,3,,,
-72697690,2026-09-27 12:00,Hertha BSC II,FSV Zwickau,1,1,,,
-72697700,2026-10-09 17:00,VSG Altglienicke,BFC Dynamo,0,1,,,
-72697708,2026-10-09 17:00,FSV Zwickau,SV Tasmania Berlin,2,0,,,
-72697712,2026-10-09 17:00,BSG Chemie Leipzig,FSV Luckenwalde,1,3,,,
-72697696,2026-10-10 12:00,FC Carl Zeiss Jena,FC Magdeburg II,2,1,1.600,4.100,4.100
-72697702,2026-10-10 12:00,BFC Preussen Berlin,Hertha BSC II,1,1,,,
-72697698,2026-10-11 12:00,Greifswalder FC,Erzgebirge Aue,1,0,,,
-72697704,2026-10-11 12:00,Hallescher FC,RSV Eintracht Stahnsdorf 1949,1,0,,,
-72697706,2026-10-11 14:00,SV Babelsberg,1. FC Lokomotive Leipzig,0,0,,,
-72697710,2026-10-11 14:00,Chemnitzer FC,FC Rot-Weiss Erfurt,3,1,2.200,3.600,2.625
-72697724,2026-10-16 17:00,FC Rot-Weiss Erfurt,FSV Zwickau,2,2,,,
-72697726,2026-10-16 17:00,Hertha BSC II,RSV Eintracht Stahnsdorf 1949,0,1,,,
-72697730,2026-10-16 17:00,SV Tasmania Berlin,SV Babelsberg,6,0,,,
-72697714,2026-10-17 12:00,1. FC Lokomotive Leipzig,BSG Chemie Leipzig,2,2,1.615,3.750,4.333
-72697716,2026-10-17 12:00,BFC Preussen Berlin,VSG Altglienicke,1,3,,,
-72697722,2026-10-17 12:00,FSV Luckenwalde,FC Carl Zeiss Jena,1,2,,,
-72697718,2026-10-18 12:00,Erzgebirge Aue,Hallescher FC,0,1,,,
-72697720,2026-10-18 12:00,FC Magdeburg II,Greifswalder FC,4,2,,,
-72697728,2026-10-18 12:00,BFC Dynamo,Chemnitzer FC,1,1,,,
-72697732,2026-10-23 17:00,FC Carl Zeiss Jena,BFC Dynamo,0,0,,,
-72697738,2026-10-23 17:00,SV Babelsberg,BFC Preussen Berlin,1,0,,,
-72697748,2026-10-23 17:00,VSG Altglienicke,FSV Luckenwalde,3,1,,,
-72697734,2026-10-24 12:00,FSV Zwickau,Erzgebirge Aue,0,3,2.400,3.600,2.400
-72697740,2026-10-24 12:00,RSV Eintracht Stahnsdorf 1949,SV Tasmania Berlin,1,2,,,
-72697746,2026-10-24 12:00,Chemnitzer FC,FC Magdeburg II,1,2,,,
-72697736,2026-10-24 14:00,Greifswalder FC,FC Rot-Weiss Erfurt,2,3,,,
-72697742,2026-10-25 13:00,BSG Chemie Leipzig,Hertha BSC II,2,0,,,
-72697744,2026-10-25 13:00,Hallescher FC,1. FC Lokomotive Leipzig,2,2,,,
-72697750,2026-10-30 18:00,1. FC Lokomotive Leipzig,VSG Altglienicke,3,1,,,
-72697754,2026-10-30 18:00,BFC Dynamo,RSV Eintracht Stahnsdorf 1949,2,0,,,
-72697764,2026-10-30 18:00,FSV Luckenwalde,Hertha BSC II,1,1,,,
-72697762,2026-10-31 12:00,FC Magdeburg II,Hallescher FC,1,1,,,
-72697756,2026-10-31 13:00,BFC Preussen Berlin,FSV Zwickau,3,0,,,
-72697758,2026-10-31 13:30,Erzgebirge Aue,FC Carl Zeiss Jena,1,0,,,
-72697752,2026-11-01 13:00,Greifswalder FC,BSG Chemie Leipzig,1,1,,,
-72697760,2026-11-01 13:00,SV Tasmania Berlin,Chemnitzer FC,3,4,,,
-72697766,2026-11-01 13:00,FC Rot-Weiss Erfurt,SV Babelsberg,4,1,,,
-72697768,2026-11-06 18:00,FC Carl Zeiss Jena,BFC Preussen Berlin,1,1,,,
-72697774,2026-11-06 18:00,VSG Altglienicke,SV Tasmania Berlin,5,0,,,
-72697778,2026-11-06 18:00,BSG Chemie Leipzig,FC Rot-Weiss Erfurt,0,2,,,
-72697780,2026-11-06 18:00,Hallescher FC,FSV Luckenwalde,2,2,,,
-72697772,2026-11-07 13:00,Chemnitzer FC,Greifswalder FC,0,4,1.700,3.750,3.900
-72697784,2026-11-07 13:00,SV Babelsberg,BFC Dynamo,0,1,,,
-72697770,2026-11-08 13:00,FSV Zwickau,1. FC Lokomotive Leipzig,1,2,,,
-72697776,2026-11-08 13:00,RSV Eintracht Stahnsdorf 1949,Erzgebirge Aue,1,2,,,
-72697782,2026-11-08 13:00,Hertha BSC II,FC Magdeburg II,4,4,,,
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+61711622,2025-07-25 17:00,FC Rot-Weiss Erfurt,FSV Luckenwalde,2,1,,,,,,
+61711636,2025-07-25 17:00,VSG Altglienicke,FC Hertha 03 Zehlendorf,2,0,,,,,,
+61711612,2025-07-26 12:00,Hallescher FC,BFC Dynamo,1,0,,,,,,
+61711646,2025-07-26 12:00,BFC Preussen Berlin,FC Eilenburg,2,2,,,,,,
+61711618,2025-07-26 14:00,FSV Zwickau,1. FC Lokomotive Leipzig,1,1,,,,,,
+61711632,2025-07-27 12:00,Chemnitzer FC,Greifswalder FC,1,0,,,,,,
+61711642,2025-07-27 12:00,SV Babelsberg,FC Carl Zeiss Jena,1,4,,,,,,
+61711652,2025-07-27 12:00,BSG Chemie Leipzig,FC Magdeburg II,0,2,,,,,,
+61711688,2025-07-31 17:00,FC Magdeburg II,Hallescher FC,0,1,,,,,,
+61711656,2025-08-01 17:00,1. FC Lokomotive Leipzig,VSG Altglienicke,1,0,,,,,,
+61711662,2025-08-01 17:00,FC Carl Zeiss Jena,Hertha BSC II,1,0,,,,,,
+61711670,2025-08-01 17:00,BFC Dynamo,FC Rot-Weiss Erfurt,2,3,,,,,,
+61711666,2025-08-02 12:00,Greifswalder FC,BSG Chemie Leipzig,3,0,,,,,,
+61711684,2025-08-02 12:00,FC Eilenburg,FSV Zwickau,3,0,,,,,,
+61711692,2025-08-02 12:00,FSV Luckenwalde,Chemnitzer FC,2,1,,,,,,
+61711674,2025-08-03 12:00,ZFC Meuselwitz,SV Babelsberg,1,1,,,,,,
+61711680,2025-08-03 12:00,FC Hertha 03 Zehlendorf,BFC Preussen Berlin,0,2,,,,,,
+61711710,2025-08-08 17:00,Hertha BSC II,FC Eilenburg,5,2,,,,,,
+61711720,2025-08-08 17:00,VSG Altglienicke,FC Carl Zeiss Jena,2,1,,,,,,
+61711698,2025-08-09 12:00,Hallescher FC,FC Hertha 03 Zehlendorf,5,1,,,,,,
+61711724,2025-08-09 12:00,SV Babelsberg,FSV Zwickau,0,2,,,,,,
+61711728,2025-08-09 12:00,BFC Preussen Berlin,BFC Dynamo,1,2,,,,,,
+61711732,2025-08-09 12:00,FC Magdeburg II,FSV Luckenwalde,1,2,,,,,,
+61711702,2025-08-10 12:00,1. FC Lokomotive Leipzig,ZFC Meuselwitz,1,0,,,,,,
+61711706,2025-08-10 12:00,FC Rot-Weiss Erfurt,Greifswalder FC,3,2,,,,,,
+62086492,2025-08-13 17:00,Chemnitzer FC,BSG Chemie Leipzig,1,0,,,,,,
+61711736,2025-08-22 17:00,FSV Zwickau,FC Carl Zeiss Jena,0,0,,,,,,
+61711754,2025-08-22 17:00,FC Hertha 03 Zehlendorf,1. FC Lokomotive Leipzig,0,1,,,,,,
+61711760,2025-08-22 17:00,BSG Chemie Leipzig,SV Babelsberg,2,3,,,,,,
+61711764,2025-08-22 17:00,FC Eilenburg,VSG Altglienicke,0,2,,,,,,
+61711768,2025-08-22 17:00,FSV Luckenwalde,BFC Preussen Berlin,3,0,,,,,,
+61711750,2025-08-23 12:00,Chemnitzer FC,FC Magdeburg II,2,4,,,,,,
+61711774,2025-08-23 12:00,FC Rot-Weiss Erfurt,Hallescher FC,1,2,,,,,,
+61711742,2025-08-24 12:00,Greifswalder FC,Hertha BSC II,1,1,,,,,,
+61711746,2025-08-24 12:00,BFC Dynamo,ZFC Meuselwitz,1,1,,,,,,
+61711796,2025-08-26 15:30,BFC Preussen Berlin,BSG Chemie Leipzig,2,1,,,,,,
+61711778,2025-08-26 17:00,Hallescher FC,FSV Luckenwalde,3,1,,,,,,
+61711782,2025-08-26 17:00,FC Carl Zeiss Jena,FC Hertha 03 Zehlendorf,4,0,,,,,,
+61711786,2025-08-26 17:00,VSG Altglienicke,FC Rot-Weiss Erfurt,1,3,,,,,,
+61711790,2025-08-27 16:00,ZFC Meuselwitz,FC Eilenburg,1,1,,,,,,
+61711800,2025-08-27 17:00,1. FC Lokomotive Leipzig,Chemnitzer FC,2,1,,,,,,
+61711804,2025-08-27 17:00,Hertha BSC II,FSV Zwickau,3,3,,,,,,
+61711808,2025-08-27 17:00,SV Babelsberg,Greifswalder FC,3,1,,,,,,
+61711814,2025-08-27 17:00,FC Magdeburg II,BFC Dynamo,4,3,,,,,,
+61711850,2025-08-29 17:00,FSV Luckenwalde,VSG Altglienicke,1,3,,,,,,
+61711826,2025-08-30 12:00,Greifswalder FC,Hallescher FC,0,2,,,,,,
+61711832,2025-08-30 12:00,BFC Dynamo,SV Babelsberg,0,4,,,,,,
+61711836,2025-08-30 12:00,Chemnitzer FC,BFC Preussen Berlin,1,1,,,,,,
+61711854,2025-08-30 12:00,FC Hertha 03 Zehlendorf,Hertha BSC II,2,2,,,,,,
+61711818,2025-08-31 12:00,FC Rot-Weiss Erfurt,FC Magdeburg II,3,1,,,,,,
+61711822,2025-08-31 12:00,FSV Zwickau,ZFC Meuselwitz,2,0,,,,,,
+61711844,2025-08-31 12:00,FC Eilenburg,1. FC Lokomotive Leipzig,0,1,,,,,,
+62791337,2025-09-02 17:00,BSG Chemie Leipzig,FC Carl Zeiss Jena,0,2,,,,,,
+62810409,2025-09-03 17:00,Hertha BSC II,ZFC Meuselwitz,2,3,,,,,,
+61711858,2025-09-12 16:00,Hallescher FC,BSG Chemie Leipzig,0,0,,,,,,
+61711872,2025-09-12 17:00,Hertha BSC II,BFC Dynamo,2,2,,,,,,
+61711876,2025-09-12 17:00,VSG Altglienicke,FSV Zwickau,3,0,,,,,,
+61711894,2025-09-12 17:00,FC Magdeburg II,Greifswalder FC,1,1,,,,,,
+61711862,2025-09-13 12:00,1. FC Lokomotive Leipzig,FSV Luckenwalde,4,0,,,,,,
+61711868,2025-09-13 12:00,FC Carl Zeiss Jena,FC Eilenburg,2,0,,,,,,
+61711880,2025-09-13 12:00,ZFC Meuselwitz,FC Hertha 03 Zehlendorf,2,1,,,,,,
+61711884,2025-09-13 12:00,BFC Preussen Berlin,FC Rot-Weiss Erfurt,2,4,,,,,,
+61711890,2025-09-13 14:00,SV Babelsberg,Chemnitzer FC,0,1,,,,,,
+61711904,2025-09-16 17:00,FSV Zwickau,FC Magdeburg II,1,0,,,,,,
+61711908,2025-09-16 17:00,BFC Dynamo,Greifswalder FC,2,0,,,,,,
+61711916,2025-09-16 17:00,VSG Altglienicke,ZFC Meuselwitz,1,0,,,,,,
+61711920,2025-09-16 17:00,FC Eilenburg,SV Babelsberg,0,2,,,,,,
+61711922,2025-09-16 17:00,FSV Luckenwalde,FC Hertha 03 Zehlendorf,1,0,,,,,,
+61711924,2025-09-16 17:00,BSG Chemie Leipzig,FC Rot-Weiss Erfurt,0,1,,,,,,
+61711918,2025-09-17 15:00,BFC Preussen Berlin,Hertha BSC II,0,0,,,,,,
+61711912,2025-09-17 17:00,Chemnitzer FC,Hallescher FC,3,0,,,,,,
+61711934,2025-09-19 17:00,SV Babelsberg,VSG Altglienicke,1,2,,,,,,
+61711938,2025-09-19 17:00,FC Hertha 03 Zehlendorf,FSV Zwickau,0,1,,,,,,
+61711940,2025-09-19 17:00,BSG Chemie Leipzig,BFC Dynamo,2,0,,,,,,
+61711926,2025-09-20 12:00,Hallescher FC,BFC Preussen Berlin,0,1,,,,,,
+61711928,2025-09-20 14:00,FC Rot-Weiss Erfurt,Chemnitzer FC,2,2,,,,,,
+61711930,2025-09-21 12:00,Greifswalder FC,FSV Luckenwalde,0,2,,,,,,
+61711932,2025-09-21 12:00,Hertha BSC II,1. FC Lokomotive Leipzig,2,7,,,,,,
+61711936,2025-09-21 12:00,ZFC Meuselwitz,FC Carl Zeiss Jena,0,3,,,,,,
+62456420,2025-09-23 17:00,FC Magdeburg II,FC Eilenburg,4,0,,,,,,
+61711944,2025-09-26 17:00,1. FC Lokomotive Leipzig,SV Babelsberg,1,0,,,,,,
+61711960,2025-09-26 17:00,Hertha BSC II,FC Rot-Weiss Erfurt,0,0,,,,,,
+61711954,2025-09-27 12:00,BFC Preussen Berlin,FC Magdeburg II,1,0,,,,,,
+61711956,2025-09-27 12:00,FC Eilenburg,FC Hertha 03 Zehlendorf,1,1,,,,,,
+61711958,2025-09-27 12:00,FSV Luckenwalde,BSG Chemie Leipzig,1,0,,,,,,
+61711946,2025-09-27 14:00,FC Carl Zeiss Jena,Chemnitzer FC,2,0,,,,,,
+61711948,2025-09-28 12:00,FSV Zwickau,Hallescher FC,2,1,,,,,,
+61711950,2025-09-28 12:00,VSG Altglienicke,BFC Dynamo,0,0,,,,,,
+61711952,2025-09-28 12:00,ZFC Meuselwitz,Greifswalder FC,1,1,,,,,,
+62456410,2025-10-01 17:00,FC Carl Zeiss Jena,1. FC Lokomotive Leipzig,1,0,,,,,,
+61711964,2025-10-03 12:00,Greifswalder FC,BFC Preussen Berlin,1,1,,,,,,
+61711966,2025-10-03 12:00,BFC Dynamo,FSV Zwickau,1,0,,,,,,
+61711976,2025-10-03 12:00,BSG Chemie Leipzig,VSG Altglienicke,3,0,,,,,,
+61711962,2025-10-04 12:00,Hallescher FC,ZFC Meuselwitz,1,0,,,,,,
+61711968,2025-10-04 12:00,Chemnitzer FC,FC Eilenburg,2,2,,,,,,
+61711970,2025-10-05 12:00,FC Hertha 03 Zehlendorf,SV Babelsberg,3,3,,,,,,
+61711972,2025-10-05 12:00,FSV Luckenwalde,FC Carl Zeiss Jena,1,1,,,,,,
+61711974,2025-10-05 12:00,FC Rot-Weiss Erfurt,1. FC Lokomotive Leipzig,0,2,,,,,,
+63667249,2025-10-10 17:00,FC Magdeburg II,Hertha BSC II,6,0,,,,,,
+61711982,2025-10-17 17:00,FC Carl Zeiss Jena,BFC Preussen Berlin,3,1,,,,,,
+61711994,2025-10-17 17:00,FC Eilenburg,FSV Luckenwalde,0,2,,,,,,
+61711984,2025-10-18 12:00,FSV Zwickau,Greifswalder FC,1,0,,,,,,
+61711990,2025-10-18 12:00,FC Hertha 03 Zehlendorf,BFC Dynamo,2,1,,,,,,
+61711992,2025-10-18 12:00,VSG Altglienicke,Hallescher FC,1,1,,,,,,
+61711996,2025-10-18 12:00,SV Babelsberg,FC Rot-Weiss Erfurt,0,2,,,,,,
+61711980,2025-10-19 12:00,1. FC Lokomotive Leipzig,BSG Chemie Leipzig,2,0,,,,,,
+61711986,2025-10-19 12:00,Hertha BSC II,Chemnitzer FC,2,0,,,,,,
+61711988,2025-10-19 14:00,ZFC Meuselwitz,FC Magdeburg II,1,1,,,,,,
+61711998,2025-10-24 17:00,Hallescher FC,1. FC Lokomotive Leipzig,2,4,,,,,,
+61712014,2025-10-24 17:00,FSV Luckenwalde,SV Babelsberg,0,0,,,,,,
+61712002,2025-10-25 12:00,Greifswalder FC,FC Carl Zeiss Jena,3,3,,,,,,
+61712006,2025-10-25 12:00,Chemnitzer FC,FC Hertha 03 Zehlendorf,2,1,,,,,,
+61712012,2025-10-25 12:00,BSG Chemie Leipzig,Hertha BSC II,3,1,,,,,,
+61712000,2025-10-26 13:00,FC Rot-Weiss Erfurt,ZFC Meuselwitz,3,3,,,,,,
+61712004,2025-10-26 13:00,BFC Dynamo,FC Eilenburg,2,1,,,,,,
+61712008,2025-10-26 13:00,BFC Preussen Berlin,FSV Zwickau,3,2,,,,,,
+63736935,2025-10-28 18:00,FC Magdeburg II,VSG Altglienicke,0,1,,,,,,
+61712018,2025-10-31 13:00,FC Carl Zeiss Jena,FC Magdeburg II,2,1,,,,,,
+61712026,2025-10-31 18:00,SV Babelsberg,BFC Preussen Berlin,2,5,,,,,,
+61712020,2025-11-01 13:00,FSV Zwickau,FSV Luckenwalde,3,0,,,,,,
+61712024,2025-11-01 13:00,VSG Altglienicke,Greifswalder FC,1,2,,,,,,
+61712032,2025-11-01 13:00,FC Eilenburg,FC Rot-Weiss Erfurt,1,1,,,,,,
+61712016,2025-11-02 13:00,1. FC Lokomotive Leipzig,BFC Dynamo,3,0,,,,,,
+61712022,2025-11-02 13:00,Hertha BSC II,Hallescher FC,1,0,,,,,,
+61712028,2025-11-02 13:00,ZFC Meuselwitz,Chemnitzer FC,1,4,,,,,,
+61712034,2025-11-07 18:00,Hallescher FC,SV Babelsberg,2,2,,,,,,
+61712040,2025-11-07 18:00,BFC Dynamo,FC Carl Zeiss Jena,2,3,,,,,,
+61712042,2025-11-07 18:00,Chemnitzer FC,VSG Altglienicke,2,2,,,,,,
+61712048,2025-11-07 18:00,FSV Luckenwalde,Hertha BSC II,0,1,,,,,,
+61712036,2025-11-08 13:00,FC Rot-Weiss Erfurt,FSV Zwickau,2,2,,,,,,
+61712044,2025-11-08 13:00,BSG Chemie Leipzig,ZFC Meuselwitz,0,2,,,,,,
+61712038,2025-11-09 13:00,Greifswalder FC,FC Eilenburg,2,1,,,,,,
+61712050,2025-11-09 13:00,BFC Preussen Berlin,1. FC Lokomotive Leipzig,2,0,,,,,,
+63736941,2025-11-11 18:00,FC Magdeburg II,FC Hertha 03 Zehlendorf,1,0,,,,,,
+61712052,2025-11-21 18:00,1. FC Lokomotive Leipzig,Greifswalder FC,3,0,,,,,,
+61712066,2025-11-21 18:00,FC Eilenburg,BSG Chemie Leipzig,0,1,,,,,,
+61712054,2025-11-21 19:20,FC Carl Zeiss Jena,Hallescher FC,1,1,,,,,,
+61712056,2025-11-22 13:00,FSV Zwickau,Chemnitzer FC,4,0,,,,,,
+61712062,2025-11-22 13:00,SV Babelsberg,FC Magdeburg II,1,3,,,,,,
+61712064,2025-11-22 13:00,FC Hertha 03 Zehlendorf,FC Rot-Weiss Erfurt,1,1,,,,,,
+61712084,2025-11-26 18:00,FC Magdeburg II,1. FC Lokomotive Leipzig,1,5,,,,,,
+66018836,2025-11-26 18:00,VSG Altglienicke,Hertha BSC II,3,0,,,,,,
+61712070,2025-11-28 18:00,Hallescher FC,FC Eilenburg,3,0,,,,,,
+61712078,2025-11-28 18:00,Chemnitzer FC,BFC Dynamo,1,1,,,,,,
+61712086,2025-11-28 18:00,FSV Luckenwalde,ZFC Meuselwitz,2,2,,,,,,
+61712072,2025-11-28 19:20,FC Rot-Weiss Erfurt,FC Carl Zeiss Jena,3,1,,,,,,
+61712080,2025-11-29 12:00,BFC Preussen Berlin,VSG Altglienicke,1,1,,,,,,
+61712082,2025-11-29 13:00,BSG Chemie Leipzig,FSV Zwickau,1,2,,,,,,
+61712074,2025-11-30 13:00,Greifswalder FC,FC Hertha 03 Zehlendorf,1,1,,,,,,
+61712076,2025-11-30 13:00,Hertha BSC II,SV Babelsberg,0,2,,,,,,
+61712088,2025-12-05 18:00,1. FC Lokomotive Leipzig,FSV Zwickau,0,2,,,,,,
+61712094,2025-12-05 18:00,BFC Dynamo,Hallescher FC,1,1,,,,,,
+61712092,2025-12-06 13:00,Greifswalder FC,Chemnitzer FC,0,0,,,,,,
+61712098,2025-12-06 13:00,FC Hertha 03 Zehlendorf,VSG Altglienicke,1,3,,,,,,
+61712100,2025-12-06 13:00,FC Eilenburg,BFC Preussen Berlin,1,0,,,,,,
+61712104,2025-12-06 13:00,FSV Luckenwalde,FC Rot-Weiss Erfurt,1,1,,,,,,
+61712090,2025-12-07 13:00,FC Carl Zeiss Jena,SV Babelsberg,1,1,,,,,,
+61712096,2025-12-07 13:00,ZFC Meuselwitz,Hertha BSC II,1,3,,,,,,
+61712102,2025-12-07 13:00,FC Magdeburg II,BSG Chemie Leipzig,2,1,,,,,,
+61712116,2025-12-12 18:00,VSG Altglienicke,1. FC Lokomotive Leipzig,2,3,2.875,3.250,2.200,2.5,1.925,1.875
+61712118,2025-12-12 18:00,SV Babelsberg,ZFC Meuselwitz,2,3,1.900,3.500,3.400,2.75,2.000,1.800
+61712108,2025-12-13 13:00,FC Rot-Weiss Erfurt,BFC Dynamo,1,0,1.800,3.750,3.500,3.25,1.825,1.975
+61712114,2025-12-13 13:00,Chemnitzer FC,FSV Luckenwalde,3,3,1.909,3.200,3.700,2.5,1.975,1.825
+61712106,2025-12-14 13:00,Hallescher FC,FC Magdeburg II,3,1,2.100,3.400,3.000,2.75,1.775,2.025
+61712110,2025-12-14 13:00,FSV Zwickau,FC Eilenburg,2,2,1.363,4.100,6.500,2.75,1.900,1.900
+61712112,2025-12-14 13:00,Hertha BSC II,FC Carl Zeiss Jena,2,3,,,,,,
+61712122,2025-12-14 13:00,BSG Chemie Leipzig,Greifswalder FC,2,3,2.700,3.200,2.300,2.5,2.000,1.800
+66673862,2026-01-24 13:00,ZFC Meuselwitz,BFC Preussen Berlin,0,0,,,,,,
+61712158,2026-02-06 18:00,FC Magdeburg II,Chemnitzer FC,0,1,2.250,3.400,2.625,2.75,1.900,1.900
+61712142,2026-02-07 13:00,Hallescher FC,FC Rot-Weiss Erfurt,1,0,2.200,3.300,2.750,2.75,1.950,1.850
+61712168,2026-02-15 15:00,Chemnitzer FC,1. FC Lokomotive Leipzig,3,0,3.300,3.300,2.000,2.5,1.975,1.825
+61712194,2026-02-20 18:00,FC Magdeburg II,FC Rot-Weiss Erfurt,2,3,2.450,3.700,2.300,3,1.900,1.900
+61712178,2026-02-21 13:00,Hallescher FC,Greifswalder FC,2,0,1.666,3.700,4.200,2.5,1.800,2.000
+61712182,2026-02-21 13:00,FC Carl Zeiss Jena,BSG Chemie Leipzig,2,1,1.533,3.600,5.250,2.75,1.850,1.950
+61712180,2026-02-22 13:00,1. FC Lokomotive Leipzig,FC Eilenburg,3,0,1.250,4.750,9.500,3,1.825,1.975
+61712190,2026-02-22 13:00,ZFC Meuselwitz,FSV Zwickau,4,0,2.900,3.500,2.100,2.5,1.950,1.850
+61712202,2026-02-27 18:00,BFC Dynamo,Hertha BSC II,1,3,,,,,,
+61712208,2026-02-27 18:00,FC Eilenburg,FC Carl Zeiss Jena,2,1,4.750,4.200,1.550,2.75,1.875,1.925
+61712212,2026-02-27 18:00,Chemnitzer FC,SV Babelsberg,5,1,1.750,3.700,3.600,2.75,1.975,1.825
+61712196,2026-02-28 13:00,FC Rot-Weiss Erfurt,BFC Preussen Berlin,0,1,1.615,3.900,4.200,3,1.900,1.900
+61712198,2026-02-28 13:00,FSV Zwickau,VSG Altglienicke,2,2,2.450,3.400,2.450,2.5,1.825,1.975
+61712210,2026-02-28 13:00,FSV Luckenwalde,1. FC Lokomotive Leipzig,0,3,,,,,,
+61712204,2026-03-01 13:00,FC Hertha 03 Zehlendorf,ZFC Meuselwitz,1,1,2.600,3.400,2.300,2.75,1.875,1.925
+61712206,2026-03-01 13:00,BSG Chemie Leipzig,Hallescher FC,0,2,3.400,3.500,1.833,2.5,1.875,1.925
+68987708,2026-03-03 18:00,FSV Zwickau,SV Babelsberg,3,2,1.727,3.500,3.900,,,
+68987886,2026-03-03 18:00,FC Eilenburg,Hertha BSC II,0,1,3.400,3.400,1.850,,,
+68988230,2026-03-03 18:00,FC Carl Zeiss Jena,VSG Altglienicke,0,0,1.850,3.400,3.400,,,
+68988244,2026-03-03 18:00,BFC Dynamo,BFC Preussen Berlin,3,1,2.100,3.400,2.875,,,
+68987602,2026-03-04 18:00,ZFC Meuselwitz,1. FC Lokomotive Leipzig,0,1,5.250,3.600,1.533,2.75,1.900,1.900
+68987612,2026-03-04 18:00,FSV Luckenwalde,FC Magdeburg II,0,0,2.700,3.500,2.200,2.75,1.825,1.975
+68987796,2026-03-04 18:00,Greifswalder FC,FC Rot-Weiss Erfurt,1,2,2.800,3.300,2.200,2.75,1.925,1.875
+68988138,2026-03-04 18:00,FC Hertha 03 Zehlendorf,Hallescher FC,1,4,5.000,3.500,1.571,2.75,1.900,1.900
+61712222,2026-03-06 18:00,Hertha BSC II,BFC Preussen Berlin,5,0,2.100,3.500,2.875,2.75,2.025,1.775
+61712224,2026-03-06 18:00,SV Babelsberg,FC Eilenburg,2,1,1.750,3.600,3.750,2.75,1.925,1.875
+61712214,2026-03-07 13:00,Hallescher FC,Chemnitzer FC,3,1,1.700,3.600,4.000,2.5,1.875,1.925
+61712220,2026-03-07 13:00,Greifswalder FC,BFC Dynamo,0,1,2.100,3.500,2.750,2.75,1.875,1.925
+61712230,2026-03-07 13:00,FC Magdeburg II,FSV Zwickau,1,2,2.550,3.600,2.300,2.75,1.850,1.950
+61712216,2026-03-08 13:00,1. FC Lokomotive Leipzig,FC Carl Zeiss Jena,1,2,1.900,3.400,3.400,2.75,1.800,2.000
+61712218,2026-03-08 13:00,FC Rot-Weiss Erfurt,BSG Chemie Leipzig,2,2,1.615,3.800,4.500,2.75,1.800,2.000
+61712226,2026-03-08 13:00,ZFC Meuselwitz,VSG Altglienicke,4,0,2.900,3.500,2.050,2.75,1.825,1.975
+61712228,2026-03-08 13:00,FC Hertha 03 Zehlendorf,FSV Luckenwalde,1,1,,,,,,
+69135064,2026-03-10 18:00,BFC Dynamo,FC Magdeburg II,1,2,,,,,,
+69140780,2026-03-10 18:00,Hertha BSC II,Greifswalder FC,0,1,,,,,,
+69134092,2026-03-11 18:00,VSG Altglienicke,FSV Luckenwalde,0,2,1.700,3.500,4.200,2.5,1.850,1.950
+61712234,2026-03-13 18:00,FC Carl Zeiss Jena,ZFC Meuselwitz,1,2,1.571,3.600,4.750,3,1.825,1.975
+61712236,2026-03-13 18:00,FSV Zwickau,FC Hertha 03 Zehlendorf,1,0,1.450,4.750,5.000,3,1.875,1.925
+61712238,2026-03-13 18:00,BFC Dynamo,BSG Chemie Leipzig,2,0,2.200,3.300,2.800,2.75,1.800,2.000
+61712240,2026-03-14 13:00,Chemnitzer FC,FC Rot-Weiss Erfurt,0,4,2.100,3.600,2.800,2.75,1.925,1.875
+61712244,2026-03-14 13:00,BFC Preussen Berlin,Hallescher FC,1,3,3.900,4.000,1.666,2.75,1.975,1.825
+61712246,2026-03-14 13:00,FC Eilenburg,FC Magdeburg II,0,1,2.700,3.500,2.150,2.75,1.875,1.925
+61712248,2026-03-14 13:00,FSV Luckenwalde,Greifswalder FC,1,1,2.400,3.500,2.400,2.5,1.950,1.850
+61712232,2026-03-15 13:00,1. FC Lokomotive Leipzig,Hertha BSC II,4,0,,,,,,
+61712242,2026-03-15 13:00,VSG Altglienicke,SV Babelsberg,1,1,1.833,3.500,3.500,3,2.025,1.775
+69133904,2026-03-17 18:00,FC Eilenburg,ZFC Meuselwitz,5,1,,,,,,
+69134104,2026-03-18 18:00,BSG Chemie Leipzig,BFC Preussen Berlin,2,2,,,,,,
+61712250,2026-03-20 18:00,Hallescher FC,FSV Zwickau,3,0,1.800,3.500,3.600,2.5,1.800,2.000
+61712252,2026-03-20 18:00,FC Rot-Weiss Erfurt,Hertha BSC II,3,2,1.700,3.750,3.800,3,1.900,1.900
+61712256,2026-03-20 18:00,BFC Dynamo,VSG Altglienicke,1,1,2.550,3.400,2.300,2.75,1.975,1.825
+61712254,2026-03-21 13:00,Greifswalder FC,ZFC Meuselwitz,2,0,1.909,3.500,3.300,2.5,1.825,1.975
+61712260,2026-03-21 13:00,SV Babelsberg,1. FC Lokomotive Leipzig,1,2,,,,,,
+61712258,2026-03-22 13:00,Chemnitzer FC,FC Carl Zeiss Jena,4,1,4.750,3.800,1.550,2.5,1.950,1.850
+61712262,2026-03-22 13:00,FC Hertha 03 Zehlendorf,FC Eilenburg,0,0,2.400,3.400,2.450,2.75,1.950,1.850
+61712264,2026-03-22 13:00,BSG Chemie Leipzig,FSV Luckenwalde,1,0,2.200,3.250,2.800,2.5,1.925,1.875
+61712266,2026-03-22 13:00,FC Magdeburg II,BFC Preussen Berlin,1,1,1.909,3.600,3.100,3,1.950,1.850
+69140786,2026-03-24 18:00,FSV Zwickau,Hertha BSC II,2,0,,,,,,
+69134102,2026-03-25 18:00,1. FC Lokomotive Leipzig,FC Hertha 03 Zehlendorf,0,2,,,,,,
+69140800,2026-03-25 18:00,VSG Altglienicke,FC Eilenburg,3,1,,,,,,
+69140806,2026-03-25 18:00,BFC Dynamo,FSV Luckenwalde,0,1,,,,,,
+69500084,2026-03-25 18:00,Greifswalder FC,FC Magdeburg II,1,3,,,,,,
+69137482,2026-03-27 18:00,SV Babelsberg,BSG Chemie Leipzig,5,0,,,,,,
+69134086,2026-03-28 13:00,BFC Preussen Berlin,FSV Luckenwalde,3,1,,,,,,
+69134096,2026-04-01 17:00,ZFC Meuselwitz,BFC Preussen Berlin,2,3,,,,,,
+69137486,2026-04-01 17:00,SV Babelsberg,BFC Dynamo,2,2,,,,,,
+69140798,2026-04-01 17:00,FC Hertha 03 Zehlendorf,FC Carl Zeiss Jena,0,3,,,,,,
+61712276,2026-04-02 17:00,VSG Altglienicke,BSG Chemie Leipzig,1,1,,,,,,
+61712284,2026-04-02 17:30,FC Eilenburg,Chemnitzer FC,1,1,,,,,,
+61712268,2026-04-04 12:00,1. FC Lokomotive Leipzig,FC Rot-Weiss Erfurt,2,1,2.050,3.500,2.900,2.75,1.900,1.900
+61712270,2026-04-04 12:00,FC Carl Zeiss Jena,FSV Luckenwalde,1,0,1.480,4.200,5.000,3,2.000,1.800
+61712278,2026-04-04 12:00,SV Babelsberg,FC Hertha 03 Zehlendorf,4,0,,,,,,
+61712280,2026-04-04 14:00,ZFC Meuselwitz,Hallescher FC,3,2,4.200,3.900,1.600,2.5,1.825,1.975
+61712274,2026-04-05 12:00,Hertha BSC II,FC Magdeburg II,2,1,2.625,3.750,2.150,3,1.800,2.000
+61712282,2026-04-05 12:00,BFC Preussen Berlin,Greifswalder FC,0,0,2.250,3.700,2.550,2.75,1.975,1.825
+61712272,2026-04-05 16:00,FSV Zwickau,BFC Dynamo,2,2,1.727,3.700,3.750,2.75,1.925,1.875
+69500092,2026-04-07 17:00,FSV Luckenwalde,Hallescher FC,1,4,,,,,,
+69810832,2026-04-07 17:00,FC Hertha 03 Zehlendorf,BSG Chemie Leipzig,0,5,,,,,,
+69135084,2026-04-08 15:00,BFC Preussen Berlin,Chemnitzer FC,2,1,,,,,,
+69133914,2026-04-08 17:00,FC Carl Zeiss Jena,FSV Zwickau,5,1,,,,,,
+69136430,2026-04-08 17:00,Greifswalder FC,SV Babelsberg,0,0,,,,,,
+61712286,2026-04-10 17:00,Hallescher FC,VSG Altglienicke,2,3,1.800,3.700,3.400,2.75,1.900,1.900
+61712300,2026-04-10 17:00,FC Magdeburg II,ZFC Meuselwitz,2,1,2.000,3.500,3.000,3,2.025,1.775
+61712288,2026-04-11 12:00,FC Rot-Weiss Erfurt,SV Babelsberg,4,2,1.800,3.400,3.800,3,1.950,1.850
+61712292,2026-04-11 12:00,BFC Dynamo,FC Hertha 03 Zehlendorf,5,1,1.500,4.000,5.000,3,1.850,1.950
+61712294,2026-04-11 12:00,Chemnitzer FC,Hertha BSC II,0,1,2.700,3.400,2.250,2.75,1.825,1.975
+61712302,2026-04-11 12:00,FSV Luckenwalde,FC Eilenburg,1,1,2.150,3.400,2.800,2.5,1.800,2.000
+61712290,2026-04-12 12:00,Greifswalder FC,FSV Zwickau,1,2,2.800,3.500,2.150,2.5,1.825,1.975
+61712296,2026-04-12 12:00,BFC Preussen Berlin,FC Carl Zeiss Jena,0,2,3.700,3.900,1.727,2.75,1.800,2.000
+61712298,2026-04-12 12:00,BSG Chemie Leipzig,1. FC Lokomotive Leipzig,1,0,4.200,3.500,1.700,2.75,1.800,2.000
+69137484,2026-04-14 13:00,Hertha BSC II,FC Hertha 03 Zehlendorf,3,1,,,,,,
+69133998,2026-04-15 17:00,FC Rot-Weiss Erfurt,VSG Altglienicke,1,1,2.000,3.600,3.000,,,
+69140802,2026-04-15 17:00,ZFC Meuselwitz,BFC Dynamo,0,1,2.450,3.500,2.375,,,
+61712306,2026-04-17 17:00,FC Carl Zeiss Jena,Greifswalder FC,2,1,1.571,3.700,5.000,3,1.875,1.925
+61712308,2026-04-17 17:00,FSV Zwickau,BFC Preussen Berlin,1,0,1.700,3.700,4.000,2.75,1.875,1.925
+61712314,2026-04-17 17:00,SV Babelsberg,FSV Luckenwalde,2,3,,,,,,
+61712318,2026-04-17 17:00,FC Hertha 03 Zehlendorf,Chemnitzer FC,1,2,4.500,4.000,1.533,3,1.950,1.850
+61712304,2026-04-18 12:00,1. FC Lokomotive Leipzig,Hallescher FC,0,0,2.100,3.500,2.900,2.75,2.000,1.800
+61712312,2026-04-18 12:00,VSG Altglienicke,FC Magdeburg II,5,1,1.900,3.750,3.200,3,1.900,1.900
+61712310,2026-04-18 14:00,Hertha BSC II,BSG Chemie Leipzig,0,1,1.950,3.700,3.000,2.75,1.825,1.975
+61712316,2026-04-19 12:00,ZFC Meuselwitz,FC Rot-Weiss Erfurt,0,3,3.100,3.700,1.950,3,1.825,1.975
+61712320,2026-04-19 12:00,FC Eilenburg,BFC Dynamo,2,2,2.500,3.900,2.200,3,1.850,1.950
+69140794,2026-04-22 15:30,BFC Preussen Berlin,FC Hertha 03 Zehlendorf,3,2,,,,,,
+61712326,2026-04-24 17:00,Greifswalder FC,VSG Altglienicke,1,0,2.300,3.600,2.500,2.75,1.850,1.950
+61712328,2026-04-24 17:00,BFC Dynamo,1. FC Lokomotive Leipzig,0,1,4.500,3.750,1.600,2.75,1.850,1.950
+61712324,2026-04-25 12:00,FC Rot-Weiss Erfurt,FC Eilenburg,3,3,1.380,4.500,6.250,3.25,1.900,1.900
+61712334,2026-04-25 12:00,BSG Chemie Leipzig,FC Hertha 03 Zehlendorf,4,2,1.363,4.500,6.250,3,1.825,1.975
+61712322,2026-04-26 12:00,Hallescher FC,Hertha BSC II,2,0,1.615,4.000,4.200,3.25,1.950,1.850
+61712330,2026-04-26 12:00,Chemnitzer FC,ZFC Meuselwitz,3,2,2.000,3.400,3.100,2.75,1.900,1.900
+61712332,2026-04-26 12:00,BFC Preussen Berlin,SV Babelsberg,3,6,2.150,3.900,2.600,3,1.875,1.925
+61712336,2026-04-26 12:00,FC Magdeburg II,FC Carl Zeiss Jena,4,1,3.750,4.100,1.650,3.25,1.800,2.000
+61712338,2026-04-26 12:00,FSV Luckenwalde,FSV Zwickau,0,1,2.600,3.600,2.200,2.75,1.825,1.975
+61712350,2026-04-29 17:00,SV Babelsberg,Hallescher FC,4,1,,,,,,
+61712346,2026-04-30 17:00,Hertha BSC II,FSV Luckenwalde,0,1,,,,,,
+61712340,2026-05-02 12:00,1. FC Lokomotive Leipzig,BFC Preussen Berlin,1,3,,,,,,
+61712342,2026-05-02 12:00,FC Carl Zeiss Jena,BFC Dynamo,2,1,,,,,,
+61712356,2026-05-02 12:00,FC Eilenburg,Greifswalder FC,0,6,,,,,,
+61712344,2026-05-03 12:00,FSV Zwickau,FC Rot-Weiss Erfurt,2,1,,,,,,
+61712348,2026-05-03 12:00,VSG Altglienicke,Chemnitzer FC,1,2,,,,,,
+61712352,2026-05-03 12:00,ZFC Meuselwitz,BSG Chemie Leipzig,0,4,,,,,,
+61712354,2026-05-03 12:00,FC Hertha 03 Zehlendorf,FC Magdeburg II,0,2,,,,,,
+61712358,2026-05-08 17:00,Hallescher FC,FC Carl Zeiss Jena,0,2,,,,,,
+61712364,2026-05-08 17:00,Hertha BSC II,VSG Altglienicke,1,2,,,,,,
+61712370,2026-05-08 17:00,BSG Chemie Leipzig,FC Eilenburg,3,2,,,,,,
+61712360,2026-05-09 12:00,FC Rot-Weiss Erfurt,FC Hertha 03 Zehlendorf,5,2,,,,,,
+61712368,2026-05-09 12:00,BFC Preussen Berlin,ZFC Meuselwitz,2,1,,,,,,
+61712366,2026-05-09 14:00,Chemnitzer FC,FSV Zwickau,3,2,2.400,3.400,2.450,2.75,1.825,1.975
+61712362,2026-05-10 12:00,Greifswalder FC,1. FC Lokomotive Leipzig,1,1,,,,,,
+61712372,2026-05-10 12:00,FC Magdeburg II,SV Babelsberg,6,4,,,,,,
+61712374,2026-05-10 12:00,FSV Luckenwalde,BFC Dynamo,0,1,,,,,,
+61712376,2026-05-16 12:00,1. FC Lokomotive Leipzig,FC Magdeburg II,5,2,1.420,4.200,5.750,3.25,1.950,1.850
+61712378,2026-05-16 12:00,FC Carl Zeiss Jena,FC Rot-Weiss Erfurt,2,0,1.550,4.333,4.333,3.5,1.850,1.950
+61712380,2026-05-16 12:00,FSV Zwickau,BSG Chemie Leipzig,1,0,2.000,3.700,2.900,3.25,1.825,1.975
+61712382,2026-05-16 12:00,BFC Dynamo,Chemnitzer FC,2,2,1.909,4.100,2.800,3.25,1.825,1.975
+61712384,2026-05-16 12:00,VSG Altglienicke,BFC Preussen Berlin,1,0,1.750,4.333,3.200,3.75,1.950,1.850
+61712386,2026-05-16 12:00,SV Babelsberg,Hertha BSC II,3,1,,,,,,
+61712388,2026-05-16 12:00,ZFC Meuselwitz,FSV Luckenwalde,1,1,2.250,3.900,2.400,3.25,1.950,1.850
+61712390,2026-05-16 12:00,FC Hertha 03 Zehlendorf,Greifswalder FC,2,3,3.700,4.500,1.615,3.75,2.000,1.800
+61712392,2026-05-16 12:00,FC Eilenburg,Hallescher FC,0,5,5.000,4.333,1.480,3.5,1.900,1.900
+72697512,2026-07-24 17:00,FC Rot-Weiss Erfurt,BFC Dynamo,4,1,,,,,,
+72697514,2026-07-24 17:00,FSV Luckenwalde,1. FC Lokomotive Leipzig,1,3,,,,,,
+72697502,2026-07-25 12:00,Hertha BSC II,Chemnitzer FC,0,4,,,,,,
+72697504,2026-07-25 12:00,BFC Preussen Berlin,RSV Eintracht Stahnsdorf 1949,1,1,,,,,,
+72697508,2026-07-25 12:00,FC Magdeburg II,SV Tasmania Berlin,5,1,,,,,,
+72697510,2026-07-25 12:30,Erzgebirge Aue,VSG Altglienicke,3,3,,,,,,
+72697498,2026-07-26 12:00,FC Carl Zeiss Jena,FSV Zwickau,1,2,,,,,,
+72697500,2026-07-26 12:00,Greifswalder FC,Hallescher FC,2,2,,,,,,
+72697506,2026-07-26 12:00,BSG Chemie Leipzig,SV Babelsberg,0,2,,,,,,
+72697524,2026-07-31 17:00,Chemnitzer FC,BFC Preussen Berlin,3,0,,,,,,
+72697528,2026-07-31 17:00,SV Babelsberg,FC Carl Zeiss Jena,0,1,,,,,,
+72697532,2026-07-31 17:00,SV Tasmania Berlin,Erzgebirge Aue,0,2,,,,,,
+72697520,2026-08-01 12:00,FSV Zwickau,Greifswalder FC,0,3,,,,,,
+72697530,2026-08-01 12:00,RSV Eintracht Stahnsdorf 1949,FSV Luckenwalde,3,0,,,,,,
+72697522,2026-08-01 14:00,BFC Dynamo,BSG Chemie Leipzig,2,0,,,,,,
+72697516,2026-08-02 12:00,Hallescher FC,FC Rot-Weiss Erfurt,1,1,,,,,,
+72697518,2026-08-02 12:00,1. FC Lokomotive Leipzig,FC Magdeburg II,3,3,,,,,,
+72697534,2026-08-04 17:00,Hertha BSC II,Greifswalder FC,1,4,,,,,,
+72697536,2026-08-04 17:00,SV Babelsberg,VSG Altglienicke,2,2,,,,,,
+72697544,2026-08-04 17:00,FC Carl Zeiss Jena,RSV Eintracht Stahnsdorf 1949,4,0,,,,,,
+72697548,2026-08-04 17:00,Chemnitzer FC,FSV Zwickau,3,1,,,,,,
+72697550,2026-08-04 17:00,FC Magdeburg II,FSV Luckenwalde,0,1,,,,,,
+72697538,2026-08-05 17:00,BFC Preussen Berlin,1. FC Lokomotive Leipzig,1,2,,,,,,
+72697542,2026-08-05 17:00,BSG Chemie Leipzig,Hallescher FC,0,1,,,,,,
+72697546,2026-08-05 17:00,FC Rot-Weiss Erfurt,SV Tasmania Berlin,5,0,,,,,,
+72697540,2026-08-06 17:00,Erzgebirge Aue,BFC Dynamo,3,2,,,,,,
+72697558,2026-08-07 17:00,Greifswalder FC,VSG Altglienicke,1,3,,,,,,
+72697562,2026-08-08 12:00,RSV Eintracht Stahnsdorf 1949,BSG Chemie Leipzig,1,1,,,,,,
+72697566,2026-08-08 12:00,FSV Luckenwalde,SV Tasmania Berlin,2,3,,,,,,
+72697554,2026-08-08 12:30,1. FC Lokomotive Leipzig,Hertha BSC II,1,2,,,,,,
+72697552,2026-08-09 12:00,Hallescher FC,Chemnitzer FC,0,0,,,,,,
+72697556,2026-08-09 12:00,FC Carl Zeiss Jena,FC Rot-Weiss Erfurt,1,2,,,,,,
+72697560,2026-08-09 12:00,BFC Dynamo,FSV Zwickau,0,0,,,,,,
+72697568,2026-08-09 12:00,Erzgebirge Aue,BFC Preussen Berlin,2,1,,,,,,
+73045482,2026-08-11 17:00,FC Magdeburg II,SV Babelsberg,3,1,,,,,,
+73602174,2026-08-11 17:00,VSG Altglienicke,Hertha BSC II,3,1,,,,,,
+72697572,2026-08-14 17:00,FSV Zwickau,FSV Luckenwalde,2,1,,,,,,
+72697574,2026-08-14 17:00,Hertha BSC II,BFC Dynamo,1,1,,,,,,
+72697580,2026-08-14 17:00,SV Babelsberg,RSV Eintracht Stahnsdorf 1949,3,3,,,,,,
+72697584,2026-08-14 17:00,BSG Chemie Leipzig,FC Carl Zeiss Jena,0,1,,,,,,
+72697570,2026-08-15 12:00,FC Rot-Weiss Erfurt,FC Magdeburg II,4,1,1.615,4.000,4.000,3.5,1.975,1.825
+72697582,2026-08-15 12:00,BFC Preussen Berlin,Greifswalder FC,1,1,,,,,,
+72697576,2026-08-15 14:00,Chemnitzer FC,Erzgebirge Aue,3,1,2.700,3.600,2.150,3,1.900,1.900
+72697578,2026-08-16 12:00,VSG Altglienicke,Hallescher FC,2,1,,,,,,
+72697586,2026-08-16 12:00,SV Tasmania Berlin,1. FC Lokomotive Leipzig,2,3,,,,,,
+72697588,2026-08-25 17:00,1. FC Lokomotive Leipzig,Chemnitzer FC,0,2,,,,,,
+72697592,2026-08-25 17:00,BFC Dynamo,BFC Preussen Berlin,2,0,,,,,,
+72697602,2026-08-25 17:00,FC Magdeburg II,BSG Chemie Leipzig,1,0,,,,,,
+72697604,2026-08-25 17:00,FSV Luckenwalde,FC Rot-Weiss Erfurt,0,5,,,,,,
+72697600,2026-08-26 16:00,RSV Eintracht Stahnsdorf 1949,FSV Zwickau,1,2,,,,,,
+72697594,2026-08-26 17:00,Erzgebirge Aue,Hertha BSC II,0,0,,,,,,
+72697598,2026-08-26 17:00,Greifswalder FC,SV Babelsberg,2,1,,,,,,
+72697610,2026-08-28 17:00,Chemnitzer FC,FC Carl Zeiss Jena,1,1,,,,,,
+72697612,2026-08-28 17:00,VSG Altglienicke,BSG Chemie Leipzig,1,1,,,,,,
+72697608,2026-08-29 12:00,Hertha BSC II,Hallescher FC,0,2,3.500,3.700,1.800,3,1.950,1.850
+72697622,2026-08-29 12:00,FC Rot-Weiss Erfurt,BFC Preussen Berlin,1,1,,,,,,
+72697606,2026-08-29 14:00,FSV Zwickau,SV Babelsberg,1,0,1.833,3.700,3.250,3,1.900,1.900
+72697614,2026-08-30 12:00,RSV Eintracht Stahnsdorf 1949,FC Magdeburg II,2,4,,,,,,
+72697616,2026-08-30 12:00,SV Tasmania Berlin,Greifswalder FC,2,2,,,,,,
+72697618,2026-08-30 12:00,FSV Luckenwalde,BFC Dynamo,0,2,,,,,,
+72697620,2026-08-30 12:00,1. FC Lokomotive Leipzig,Erzgebirge Aue,1,2,,,,,,
+72697596,2026-09-02 17:00,Hallescher FC,SV Tasmania Berlin,2,0,,,,,,
+73045800,2026-09-02 17:00,FC Carl Zeiss Jena,VSG Altglienicke,1,0,,,,,,
+72697628,2026-09-10 17:00,BFC Dynamo,SV Tasmania Berlin,3,1,,,,,,
+72697624,2026-09-11 17:00,FC Rot-Weiss Erfurt,RSV Eintracht Stahnsdorf 1949,5,0,,,,,,
+72697630,2026-09-11 17:00,VSG Altglienicke,Chemnitzer FC,0,2,,,,,,
+72697632,2026-09-12 12:00,SV Babelsberg,Hallescher FC,1,1,,,,,,
+72697634,2026-09-12 12:00,BFC Preussen Berlin,FC Magdeburg II,4,1,,,,,,
+72697636,2026-09-12 12:00,Erzgebirge Aue,FSV Luckenwalde,2,1,,,,,,
+72697640,2026-09-12 12:00,FC Carl Zeiss Jena,Hertha BSC II,3,0,,,,,,
+72697638,2026-09-12 12:30,BSG Chemie Leipzig,FSV Zwickau,2,2,3.000,3.300,2.050,2.75,1.975,1.825
+72697626,2026-09-13 12:00,Greifswalder FC,1. FC Lokomotive Leipzig,3,3,,,,,,
+72697642,2026-09-15 17:00,Hallescher FC,FC Carl Zeiss Jena,2,0,,,,,,
+72697644,2026-09-15 17:00,FSV Zwickau,VSG Altglienicke,1,2,,,,,,
+72697646,2026-09-15 17:00,Hertha BSC II,FC Rot-Weiss Erfurt,1,2,,,,,,
+72697654,2026-09-15 17:00,FSV Luckenwalde,BFC Preussen Berlin,0,2,,,,,,
+72697648,2026-09-16 15:00,RSV Eintracht Stahnsdorf 1949,Greifswalder FC,1,2,,,,,,
+72697650,2026-09-16 17:00,SV Tasmania Berlin,BSG Chemie Leipzig,2,5,,,,,,
+72697652,2026-09-16 17:00,FC Magdeburg II,Erzgebirge Aue,1,2,,,,,,
+72697656,2026-09-16 17:00,1. FC Lokomotive Leipzig,BFC Dynamo,2,2,,,,,,
+72697658,2026-09-16 17:00,Chemnitzer FC,SV Babelsberg,0,1,,,,,,
+72697674,2026-09-18 17:00,FSV Zwickau,Hallescher FC,1,3,,,,,,
+72697666,2026-09-19 12:00,VSG Altglienicke,RSV Eintracht Stahnsdorf 1949,3,1,,,,,,
+72697668,2026-09-19 12:00,SV Babelsberg,Hertha BSC II,0,2,,,,,,
+72697670,2026-09-19 12:00,BFC Preussen Berlin,SV Tasmania Berlin,1,1,,,,,,
+72697662,2026-09-19 12:30,FC Rot-Weiss Erfurt,Erzgebirge Aue,2,2,2.150,3.600,2.700,3,1.900,1.900
+72697660,2026-09-20 12:00,FC Carl Zeiss Jena,1. FC Lokomotive Leipzig,1,2,,,,,,
+72697664,2026-09-20 12:00,Greifswalder FC,FSV Luckenwalde,3,1,,,,,,
+72697676,2026-09-20 12:00,BFC Dynamo,FC Magdeburg II,4,1,,,,,,
+72697672,2026-09-20 16:00,BSG Chemie Leipzig,Chemnitzer FC,1,3,,,,,,
+72697686,2026-09-25 17:00,SV Tasmania Berlin,FC Carl Zeiss Jena,1,5,,,,,,
+72697692,2026-09-25 17:00,BFC Dynamo,Greifswalder FC,1,0,,,,,,
+72697694,2026-09-25 17:00,FC Magdeburg II,VSG Altglienicke,0,1,,,,,,
+72697678,2026-09-26 12:00,Hallescher FC,BFC Preussen Berlin,3,2,,,,,,
+72697680,2026-09-26 12:00,1. FC Lokomotive Leipzig,FC Rot-Weiss Erfurt,3,4,,,,,,
+72697682,2026-09-26 14:00,RSV Eintracht Stahnsdorf 1949,Chemnitzer FC,0,4,,,,,,
+72697684,2026-09-27 12:00,Erzgebirge Aue,BSG Chemie Leipzig,1,2,,,,,,
+72697688,2026-09-27 12:00,FSV Luckenwalde,SV Babelsberg,2,3,,,,,,
+72697690,2026-09-27 12:00,Hertha BSC II,FSV Zwickau,1,1,,,,,,
+72697700,2026-10-09 17:00,VSG Altglienicke,BFC Dynamo,0,1,,,,,,
+72697708,2026-10-09 17:00,FSV Zwickau,SV Tasmania Berlin,2,0,,,,,,
+72697712,2026-10-09 17:00,BSG Chemie Leipzig,FSV Luckenwalde,1,3,,,,,,
+72697696,2026-10-10 12:00,FC Carl Zeiss Jena,FC Magdeburg II,2,1,1.600,4.100,4.100,3.25,1.850,1.950
+72697702,2026-10-10 12:00,BFC Preussen Berlin,Hertha BSC II,1,1,,,,,,
+72697698,2026-10-11 12:00,Greifswalder FC,Erzgebirge Aue,1,0,,,,,,
+72697704,2026-10-11 12:00,Hallescher FC,RSV Eintracht Stahnsdorf 1949,1,0,,,,,,
+72697706,2026-10-11 14:00,SV Babelsberg,1. FC Lokomotive Leipzig,0,0,,,,,,
+72697710,2026-10-11 14:00,Chemnitzer FC,FC Rot-Weiss Erfurt,3,1,2.200,3.600,2.625,3,1.825,1.975
+72697724,2026-10-16 17:00,FC Rot-Weiss Erfurt,FSV Zwickau,2,2,,,,,,
+72697726,2026-10-16 17:00,Hertha BSC II,RSV Eintracht Stahnsdorf 1949,0,1,,,,,,
+72697730,2026-10-16 17:00,SV Tasmania Berlin,SV Babelsberg,6,0,,,,,,
+72697714,2026-10-17 12:00,1. FC Lokomotive Leipzig,BSG Chemie Leipzig,2,2,1.615,3.750,4.333,2.75,1.800,2.000
+72697716,2026-10-17 12:00,BFC Preussen Berlin,VSG Altglienicke,1,3,,,,,,
+72697722,2026-10-17 12:00,FSV Luckenwalde,FC Carl Zeiss Jena,1,2,,,,,,
+72697718,2026-10-18 12:00,Erzgebirge Aue,Hallescher FC,0,1,,,,,,
+72697720,2026-10-18 12:00,FC Magdeburg II,Greifswalder FC,4,2,,,,,,
+72697728,2026-10-18 12:00,BFC Dynamo,Chemnitzer FC,1,1,,,,,,
+72697732,2026-10-23 17:00,FC Carl Zeiss Jena,BFC Dynamo,0,0,,,,,,
+72697738,2026-10-23 17:00,SV Babelsberg,BFC Preussen Berlin,1,0,,,,,,
+72697748,2026-10-23 17:00,VSG Altglienicke,FSV Luckenwalde,3,1,,,,,,
+72697734,2026-10-24 12:00,FSV Zwickau,Erzgebirge Aue,0,3,2.400,3.600,2.400,3,2.000,1.800
+72697740,2026-10-24 12:00,RSV Eintracht Stahnsdorf 1949,SV Tasmania Berlin,1,2,,,,,,
+72697746,2026-10-24 12:00,Chemnitzer FC,FC Magdeburg II,1,2,,,,,,
+72697736,2026-10-24 14:00,Greifswalder FC,FC Rot-Weiss Erfurt,2,3,,,,,,
+72697742,2026-10-25 13:00,BSG Chemie Leipzig,Hertha BSC II,2,0,,,,,,
+72697744,2026-10-25 13:00,Hallescher FC,1. FC Lokomotive Leipzig,2,2,,,,,,
+72697750,2026-10-30 18:00,1. FC Lokomotive Leipzig,VSG Altglienicke,3,1,,,,,,
+72697754,2026-10-30 18:00,BFC Dynamo,RSV Eintracht Stahnsdorf 1949,2,0,,,,,,
+72697764,2026-10-30 18:00,FSV Luckenwalde,Hertha BSC II,1,1,,,,,,
+72697762,2026-10-31 12:00,FC Magdeburg II,Hallescher FC,1,1,,,,,,
+72697756,2026-10-31 13:00,BFC Preussen Berlin,FSV Zwickau,3,0,,,,,,
+72697758,2026-10-31 13:30,Erzgebirge Aue,FC Carl Zeiss Jena,1,0,,,,,,
+72697752,2026-11-01 13:00,Greifswalder FC,BSG Chemie Leipzig,1,1,,,,,,
+72697760,2026-11-01 13:00,SV Tasmania Berlin,Chemnitzer FC,3,4,,,,,,
+72697766,2026-11-01 13:00,FC Rot-Weiss Erfurt,SV Babelsberg,4,1,,,,,,
+72697768,2026-11-06 18:00,FC Carl Zeiss Jena,BFC Preussen Berlin,1,1,,,,,,
+72697774,2026-11-06 18:00,VSG Altglienicke,SV Tasmania Berlin,5,0,,,,,,
+72697778,2026-11-06 18:00,BSG Chemie Leipzig,FC Rot-Weiss Erfurt,0,2,,,,,,
+72697780,2026-11-06 18:00,Hallescher FC,FSV Luckenwalde,2,2,,,,,,
+72697772,2026-11-07 13:00,Chemnitzer FC,Greifswalder FC,0,4,1.700,3.750,3.900,3,2.025,1.775
+72697784,2026-11-07 13:00,SV Babelsberg,BFC Dynamo,0,1,,,,,,
+72697770,2026-11-08 13:00,FSV Zwickau,1. FC Lokomotive Leipzig,1,2,,,,,,
+72697776,2026-11-08 13:00,RSV Eintracht Stahnsdorf 1949,Erzgebirge Aue,1,2,,,,,,
+72697782,2026-11-08 13:00,Hertha BSC II,FC Magdeburg II,4,4,,,,,,

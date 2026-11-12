@@ -1,440 +1,440 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-50593143,2025-05-24 15:30,Gornik Zabrze,Korona Kielce,1,1,,,
-50593145,2025-05-24 15:30,Jagiellonia Bialystok,Pogon Szczecin,1,1,,,
-50593147,2025-05-24 15:30,Zaglebie Lubin,MKS Cracovia Krakow,1,2,,,
-50593149,2025-05-24 15:30,KKS Lech Poznan,GKS Piast Gliwice,1,0,,,
-50593151,2025-05-24 15:30,KS Lechia Gdansk,GKS Katowice,2,3,,,
-50593153,2025-05-24 15:30,Legia Warszawa,FKS Stal Mielec,2,2,,,
-50593155,2025-05-24 15:30,Puszcza Niepolomice,WKS Slask Wroclaw,1,1,,,
-50593157,2025-05-24 15:30,RKS Radomiak Radom,LKP Motor Lublin,2,3,,,
-50593159,2025-05-24 15:30,RKS Rakow Czestochowa,Widzew Lodz,2,1,,,
-61061751,2025-07-18 16:00,Jagiellonia Bialystok,Bruk-Bet Termalica Nieciecza,0,4,,,
-61061749,2025-07-18 18:30,KKS Lech Poznan,MKS Cracovia Krakow,1,4,,,
-61061741,2025-07-19 12:45,Widzew Lodz,Zaglebie Lubin,1,0,,,
-61061735,2025-07-19 15:30,Wisla Plock,Korona Kielce,2,0,,,
-61061747,2025-07-19 18:15,GKS Katowice,RKS Rakow Czestochowa,0,1,,,
-61061743,2025-07-20 12:45,Gornik Zabrze,KS Lechia Gdansk,2,1,,,
-61061739,2025-07-20 15:30,LKP Motor Lublin,MKS Arka Gdynia,1,0,,,
-61061745,2025-07-20 18:15,RKS Radomiak Radom,Pogon Szczecin,5,1,,,
-61061761,2025-07-25 16:00,MKS Cracovia Krakow,Bruk-Bet Termalica Nieciecza,2,0,,,
-61061753,2025-07-25 18:30,MKS Arka Gdynia,RKS Radomiak Radom,1,1,,,
-61061769,2025-07-26 12:45,GKS Piast Gliwice,Gornik Zabrze,0,1,,,
-61061757,2025-07-26 15:30,Pogon Szczecin,LKP Motor Lublin,4,1,,,
-61061755,2025-07-26 18:15,KS Lechia Gdansk,KKS Lech Poznan,3,4,,,
-61061765,2025-07-27 12:45,RKS Rakow Czestochowa,Wisla Plock,1,2,,,
-61061767,2025-07-27 15:30,Jagiellonia Bialystok,Widzew Lodz,3,2,,,
-61061759,2025-07-27 18:15,Korona Kielce,Legia Warszawa,0,2,,,
-61470055,2025-07-28 17:00,GKS Katowice,Zaglebie Lubin,2,2,,,
-61061779,2025-08-01 16:00,Zaglebie Lubin,Korona Kielce,1,1,,,
-61061771,2025-08-01 18:30,Wisla Plock,GKS Piast Gliwice,2,0,,,
-61061773,2025-08-02 12:45,Bruk-Bet Termalica Nieciecza,Pogon Szczecin,1,1,,,
-61061787,2025-08-02 15:30,Widzew Lodz,GKS Katowice,3,0,,,
-61061785,2025-08-02 18:15,KKS Lech Poznan,Gornik Zabrze,2,1,,,
-61061783,2025-08-03 12:45,MKS Cracovia Krakow,KS Lechia Gdansk,2,2,,,
-61061781,2025-08-03 15:30,RKS Radomiak Radom,RKS Rakow Czestochowa,3,1,,,
-61061775,2025-08-03 18:15,Legia Warszawa,MKS Arka Gdynia,0,0,,,
-61061797,2025-08-08 16:00,Korona Kielce,RKS Radomiak Radom,3,0,,,
-61061795,2025-08-08 18:30,Gornik Zabrze,Bruk-Bet Termalica Nieciecza,0,1,,,
-61061789,2025-08-09 15:30,MKS Arka Gdynia,Pogon Szczecin,2,1,,,
-61061805,2025-08-09 18:15,Widzew Lodz,Wisla Plock,1,1,,,
-61061801,2025-08-10 15:30,Jagiellonia Bialystok,MKS Cracovia Krakow,5,2,,,
-61061791,2025-08-10 18:15,Legia Warszawa,GKS Katowice,3,1,,,
-61061793,2025-08-11 17:00,KS Lechia Gdansk,LKP Motor Lublin,3,3,,,
-61061813,2025-08-15 16:00,Zaglebie Lubin,KS Lechia Gdansk,6,2,,,
-61061819,2025-08-15 18:30,MKS Cracovia Krakow,Widzew Lodz,1,0,,,
-61061811,2025-08-16 12:45,LKP Motor Lublin,GKS Piast Gliwice,0,0,,,
-61061821,2025-08-16 15:30,GKS Katowice,MKS Arka Gdynia,4,1,,,
-61061823,2025-08-16 18:15,KKS Lech Poznan,Korona Kielce,1,1,,,
-61061815,2025-08-17 15:30,RKS Radomiak Radom,Jagiellonia Bialystok,1,2,,,
-61061817,2025-08-17 15:30,Pogon Szczecin,Gornik Zabrze,0,3,,,
-61061807,2025-08-17 18:15,Wisla Plock,Legia Warszawa,1,0,,,
-61061809,2025-08-17 18:15,Bruk-Bet Termalica Nieciecza,RKS Rakow Czestochowa,2,3,,,
-61061833,2025-08-22 16:00,RKS Radomiak Radom,Bruk-Bet Termalica Nieciecza,1,1,,,
-61061841,2025-08-22 18:30,Widzew Lodz,Pogon Szczecin,1,2,,,
-61061835,2025-08-23 15:30,Korona Kielce,LKP Motor Lublin,2,0,,,
-61061831,2025-08-23 18:15,Gornik Zabrze,GKS Katowice,3,0,,,
-61061839,2025-08-24 12:45,GKS Piast Gliwice,MKS Cracovia Krakow,0,0,,,
-61061829,2025-08-24 15:30,KS Lechia Gdansk,MKS Arka Gdynia,1,0,,,
-61061825,2025-08-25 17:00,Wisla Plock,Zaglebie Lubin,2,1,,,
-61061843,2025-08-29 16:00,MKS Arka Gdynia,Wisla Plock,1,0,,,
-61061855,2025-08-29 18:30,GKS Katowice,RKS Radomiak Radom,3,2,,,
-61061845,2025-08-30 12:45,Bruk-Bet Termalica Nieciecza,Korona Kielce,1,3,,,
-61061847,2025-08-30 15:30,Zaglebie Lubin,GKS Piast Gliwice,2,2,,,
-61061849,2025-08-30 18:15,Gornik Zabrze,LKP Motor Lublin,0,1,,,
-61061857,2025-08-31 15:30,KKS Lech Poznan,Widzew Lodz,2,1,,,
-61061859,2025-08-31 15:30,Jagiellonia Bialystok,KS Lechia Gdansk,2,0,,,
-61061851,2025-08-31 18:15,Pogon Szczecin,RKS Rakow Czestochowa,2,0,,,
-61061853,2025-08-31 18:15,MKS Cracovia Krakow,Legia Warszawa,2,1,,,
-61061865,2025-09-12 16:00,KS Lechia Gdansk,GKS Katowice,2,0,,,
-61061871,2025-09-12 18:30,KKS Lech Poznan,Zaglebie Lubin,1,2,,,
-61061869,2025-09-13 12:45,Korona Kielce,Pogon Szczecin,1,0,,,
-61061875,2025-09-13 18:15,GKS Piast Gliwice,Jagiellonia Bialystok,1,1,,,
-61061867,2025-09-14 10:15,LKP Motor Lublin,Bruk-Bet Termalica Nieciecza,1,1,,,
-61061863,2025-09-14 12:45,Legia Warszawa,RKS Radomiak Radom,4,1,,,
-61061877,2025-09-14 15:30,Widzew Lodz,MKS Arka Gdynia,2,0,,,
-62977553,2025-09-15 17:00,RKS Rakow Czestochowa,Gornik Zabrze,0,1,,,
-61061891,2025-09-19 16:00,GKS Katowice,MKS Cracovia Krakow,0,3,,,
-61062185,2025-09-19 18:30,Wisla Plock,Jagiellonia Bialystok,0,1,,,
-61061887,2025-09-20 10:15,RKS Radomiak Radom,GKS Piast Gliwice,1,0,,,
-61061879,2025-09-20 12:45,MKS Arka Gdynia,Korona Kielce,0,0,,,
-61061881,2025-09-20 15:30,Bruk-Bet Termalica Nieciecza,KKS Lech Poznan,0,2,,,
-61061893,2025-09-20 18:15,RKS Rakow Czestochowa,Legia Warszawa,1,1,,,
-61061883,2025-09-21 10:15,Zaglebie Lubin,LKP Motor Lublin,2,2,,,
-61061889,2025-09-21 12:45,Pogon Szczecin,KS Lechia Gdansk,3,4,,,
-61061885,2025-09-21 15:30,Gornik Zabrze,Widzew Lodz,3,2,,,
-63345303,2025-09-24 16:45,RKS Rakow Czestochowa,KKS Lech Poznan,2,2,,,
-63745107,2025-09-24 19:00,Legia Warszawa,Jagiellonia Bialystok,0,0,,,
-61061897,2025-09-26 18:30,Wisla Plock,GKS Katowice,1,1,,,
-61061905,2025-09-27 12:45,Korona Kielce,KS Lechia Gdansk,3,0,,,
-61061911,2025-09-27 15:30,GKS Piast Gliwice,Bruk-Bet Termalica Nieciecza,4,2,,,
-61061907,2025-09-27 18:15,MKS Cracovia Krakow,Gornik Zabrze,1,1,,,
-61061913,2025-09-28 10:15,Widzew Lodz,RKS Rakow Czestochowa,0,1,,,
-61061909,2025-09-28 12:45,KKS Lech Poznan,Jagiellonia Bialystok,2,2,,,
-61061899,2025-09-28 15:30,Legia Warszawa,Pogon Szczecin,1,0,,,
-61061903,2025-09-29 16:00,Zaglebie Lubin,MKS Arka Gdynia,4,0,,,
-61061901,2025-09-29 18:30,LKP Motor Lublin,RKS Radomiak Radom,2,2,,,
-61061919,2025-10-03 16:00,KS Lechia Gdansk,Wisla Plock,1,1,,,
-61061925,2025-10-03 18:30,Pogon Szczecin,GKS Piast Gliwice,2,1,,,
-61061917,2025-10-04 12:45,Bruk-Bet Termalica Nieciecza,Widzew Lodz,2,4,,,
-61061923,2025-10-04 15:30,RKS Radomiak Radom,Zaglebie Lubin,3,1,,,
-61061915,2025-10-04 18:15,MKS Arka Gdynia,MKS Cracovia Krakow,2,1,,,
-61061931,2025-10-05 10:15,Jagiellonia Bialystok,Korona Kielce,3,1,,,
-61061929,2025-10-05 12:45,RKS Rakow Czestochowa,LKP Motor Lublin,2,0,,,
-61061927,2025-10-05 15:30,GKS Katowice,KKS Lech Poznan,0,1,,,
-61061921,2025-10-05 18:15,Gornik Zabrze,Legia Warszawa,3,1,,,
-61061935,2025-10-17 16:00,LKP Motor Lublin,GKS Katowice,2,5,,,
-61061949,2025-10-17 18:30,Widzew Lodz,RKS Radomiak Radom,3,2,,,
-61061939,2025-10-18 12:45,Korona Kielce,Gornik Zabrze,1,1,,,
-61061945,2025-10-18 15:30,Jagiellonia Bialystok,MKS Arka Gdynia,4,0,,,
-61061941,2025-10-18 18:15,MKS Cracovia Krakow,RKS Rakow Czestochowa,2,0,,,
-63859661,2025-10-19 10:15,GKS Piast Gliwice,KS Lechia Gdansk,1,2,,,
-61061943,2025-10-19 12:45,KKS Lech Poznan,Pogon Szczecin,2,2,,,
-61061937,2025-10-19 15:30,Zaglebie Lubin,Legia Warszawa,3,1,,,
-61061933,2025-10-20 17:00,Wisla Plock,Bruk-Bet Termalica Nieciecza,3,1,,,
-61061953,2025-10-24 16:00,Bruk-Bet Termalica Nieciecza,Zaglebie Lubin,1,1,,,
-61061957,2025-10-24 18:30,LKP Motor Lublin,Widzew Lodz,3,0,,,
-61061951,2025-10-25 12:45,MKS Arka Gdynia,GKS Piast Gliwice,2,1,,,
-61061963,2025-10-25 15:30,Pogon Szczecin,MKS Cracovia Krakow,2,1,,,
-61061965,2025-10-25 18:15,GKS Katowice,Korona Kielce,1,0,,,
-61061967,2025-10-26 13:45,RKS Rakow Czestochowa,KS Lechia Gdansk,2,1,,,
-61061959,2025-10-26 16:30,Gornik Zabrze,Jagiellonia Bialystok,2,1,,,
-61061955,2025-10-26 19:15,Legia Warszawa,KKS Lech Poznan,0,0,,,
-64649742,2025-10-27 18:00,RKS Radomiak Radom,Wisla Plock,1,1,,,
-61061971,2025-10-31 17:00,Bruk-Bet Termalica Nieciecza,GKS Katowice,0,3,,,
-61061983,2025-10-31 19:30,GKS Piast Gliwice,Korona Kielce,0,0,,,
-61061975,2025-11-02 11:15,Gornik Zabrze,MKS Arka Gdynia,5,1,,,
-61061979,2025-11-02 13:45,KKS Lech Poznan,LKP Motor Lublin,2,2,,,
-61061981,2025-11-02 16:30,Jagiellonia Bialystok,RKS Rakow Czestochowa,1,2,,,
-61061985,2025-11-02 19:15,Widzew Lodz,Legia Warszawa,1,1,,,
-61061969,2025-11-03 17:00,Wisla Plock,Pogon Szczecin,2,0,,,
-61061973,2025-11-03 17:00,KS Lechia Gdansk,RKS Radomiak Radom,1,2,,,
-61061977,2025-11-03 19:30,MKS Cracovia Krakow,Zaglebie Lubin,0,0,,,
-61061997,2025-11-07 17:00,RKS Radomiak Radom,MKS Cracovia Krakow,3,0,,,
-61061995,2025-11-07 19:30,Zaglebie Lubin,Gornik Zabrze,2,0,,,
-61061991,2025-11-08 13:45,KS Lechia Gdansk,Widzew Lodz,2,1,,,
-61061993,2025-11-08 16:30,LKP Motor Lublin,Wisla Plock,1,1,,,
-61062003,2025-11-08 19:15,GKS Katowice,GKS Piast Gliwice,1,3,,,
-61061989,2025-11-09 13:45,Legia Warszawa,Bruk-Bet Termalica Nieciecza,1,2,,,
-61062001,2025-11-09 13:45,Korona Kielce,RKS Rakow Czestochowa,1,4,,,
-61061999,2025-11-09 16:30,Pogon Szczecin,Jagiellonia Bialystok,1,2,,,
-61061987,2025-11-09 19:15,MKS Arka Gdynia,KKS Lech Poznan,3,1,,,
-61062005,2025-11-21 17:00,Bruk-Bet Termalica Nieciecza,MKS Arka Gdynia,2,0,,,
-61062009,2025-11-21 19:30,Gornik Zabrze,Wisla Plock,1,1,,,
-61062013,2025-11-22 13:45,MKS Cracovia Krakow,LKP Motor Lublin,1,2,,,
-61062017,2025-11-22 16:30,RKS Rakow Czestochowa,GKS Piast Gliwice,1,3,,,
-61062007,2025-11-22 19:15,Legia Warszawa,KS Lechia Gdansk,2,2,,,
-61062015,2025-11-23 13:45,KKS Lech Poznan,RKS Radomiak Radom,4,1,,,
-61062021,2025-11-23 16:30,Widzew Lodz,Korona Kielce,1,3,,,
-61062011,2025-11-24 18:00,Pogon Szczecin,Zaglebie Lubin,5,1,,,
-61062039,2025-11-28 17:00,GKS Piast Gliwice,Widzew Lodz,0,2,,,
-61062033,2025-11-28 19:30,RKS Radomiak Radom,Gornik Zabrze,4,0,,,
-61062027,2025-11-29 13:45,KS Lechia Gdansk,Bruk-Bet Termalica Nieciecza,5,1,,,
-61062035,2025-11-29 16:30,Korona Kielce,MKS Cracovia Krakow,0,1,,,
-61062037,2025-11-29 19:15,GKS Katowice,Pogon Szczecin,2,0,,,
-61062023,2025-11-30 13:45,MKS Arka Gdynia,RKS Rakow Czestochowa,1,4,,,
-61062031,2025-11-30 16:30,Zaglebie Lubin,Jagiellonia Bialystok,0,0,,,
-61062025,2025-11-30 19:15,Wisla Plock,KKS Lech Poznan,0,0,,,
-61062029,2025-12-01 18:00,LKP Motor Lublin,Legia Warszawa,1,1,,,
-66203196,2025-12-04 16:00,Wisla Plock,MKS Cracovia Krakow,0,0,,,
-61062045,2025-12-05 19:30,KS Lechia Gdansk,Gornik Zabrze,5,2,,,
-61062041,2025-12-06 11:15,MKS Arka Gdynia,LKP Motor Lublin,1,0,,,
-61062047,2025-12-06 13:45,Pogon Szczecin,RKS Radomiak Radom,2,2,,,
-61062057,2025-12-06 16:30,Zaglebie Lubin,Widzew Lodz,2,1,,,
-61062055,2025-12-06 19:15,GKS Piast Gliwice,Legia Warszawa,2,0,,,
-61062043,2025-12-07 11:15,Bruk-Bet Termalica Nieciecza,Jagiellonia Bialystok,2,1,,,
-61062051,2025-12-07 13:45,MKS Cracovia Krakow,KKS Lech Poznan,2,2,,,
-61062053,2025-12-07 16:30,RKS Rakow Czestochowa,GKS Katowice,1,0,,,
-61062049,2025-12-08 18:00,Korona Kielce,Wisla Plock,1,1,1.909,3.100,3.800
-65538944,2025-12-14 13:45,RKS Rakow Czestochowa,Zaglebie Lubin,0,1,1.500,3.750,6.250
-65539022,2025-12-14 16:30,LKP Motor Lublin,Jagiellonia Bialystok,1,1,2.900,3.500,2.200
-61617090,2025-12-14 19:15,Legia Warszawa,GKS Piast Gliwice,0,1,1.900,3.200,3.900
-61062067,2026-01-30 17:00,Zaglebie Lubin,GKS Katowice,0,2,2.300,3.200,2.900
-61062069,2026-01-31 13:45,Gornik Zabrze,GKS Piast Gliwice,2,1,2.050,3.100,3.600
-61062075,2026-01-31 16:30,Widzew Lodz,Jagiellonia Bialystok,1,3,2.100,3.400,3.100
-61062073,2026-01-31 19:15,KKS Lech Poznan,KS Lechia Gdansk,1,3,1.727,3.800,3.800
-61062065,2026-02-01 11:15,LKP Motor Lublin,Pogon Szczecin,2,1,2.550,3.500,2.375
-61062059,2026-02-01 13:45,Wisla Plock,RKS Rakow Czestochowa,2,1,3.500,3.100,2.100
-61062063,2026-02-01 16:30,Legia Warszawa,Korona Kielce,1,2,1.833,3.250,4.200
-61062061,2026-02-02 18:00,Bruk-Bet Termalica Nieciecza,MKS Cracovia Krakow,0,1,2.600,3.100,2.600
-66817116,2026-02-03 19:30,GKS Piast Gliwice,KKS Lech Poznan,1,0,2.875,3.200,2.350
-61062085,2026-02-06 17:00,Korona Kielce,Zaglebie Lubin,1,2,1.700,3.400,4.750
-61062079,2026-02-06 19:30,KS Lechia Gdansk,MKS Cracovia Krakow,1,1,2.000,3.250,3.400
-61062077,2026-02-07 13:45,MKS Arka Gdynia,Legia Warszawa,2,2,4.000,3.500,1.833
-61062091,2026-02-07 16:30,Jagiellonia Bialystok,LKP Motor Lublin,4,1,1.800,3.500,4.100
-61062081,2026-02-07 19:15,Gornik Zabrze,KKS Lech Poznan,0,1,2.200,3.500,2.800
-61062083,2026-02-08 11:15,Pogon Szczecin,Bruk-Bet Termalica Nieciecza,1,1,1.533,4.200,5.000
-61062089,2026-02-08 13:45,RKS Rakow Czestochowa,RKS Radomiak Radom,0,0,1.700,3.600,4.500
-61062087,2026-02-08 16:30,GKS Katowice,Widzew Lodz,1,0,3.000,3.300,2.150
-61062093,2026-02-09 18:00,GKS Piast Gliwice,Wisla Plock,1,0,2.100,3.100,3.400
-61062103,2026-02-13 17:00,RKS Radomiak Radom,Korona Kielce,0,2,2.100,3.400,3.100
-61062109,2026-02-13 19:30,GKS Katowice,Legia Warszawa,1,1,3.300,3.250,2.050
-61062107,2026-02-14 13:45,MKS Cracovia Krakow,Jagiellonia Bialystok,0,0,2.600,3.100,2.600
-61062101,2026-02-14 16:30,Zaglebie Lubin,RKS Rakow Czestochowa,0,0,3.800,3.100,1.909
-61062095,2026-02-14 19:15,Wisla Plock,Widzew Lodz,0,2,3.000,3.100,2.250
-61062099,2026-02-15 11:15,LKP Motor Lublin,KS Lechia Gdansk,2,3,2.150,3.500,2.875
-61062105,2026-02-15 13:45,Pogon Szczecin,MKS Arka Gdynia,1,0,1.600,3.750,5.000
-61062111,2026-02-15 16:30,KKS Lech Poznan,GKS Piast Gliwice,3,0,1.850,3.500,3.800
-61062097,2026-02-16 18:00,Bruk-Bet Termalica Nieciecza,Gornik Zabrze,1,1,3.300,3.400,2.000
-61062127,2026-02-20 17:00,GKS Piast Gliwice,LKP Motor Lublin,1,2,2.100,3.300,3.250
-61062129,2026-02-20 19:30,Widzew Lodz,MKS Cracovia Krakow,0,0,1.900,3.250,4.000
-61062123,2026-02-21 14:00,RKS Rakow Czestochowa,Bruk-Bet Termalica Nieciecza,1,0,1.400,4.200,6.500
-61062119,2026-02-21 16:45,Gornik Zabrze,Pogon Szczecin,0,1,1.833,3.500,3.750
-61062115,2026-02-21 19:30,Legia Warszawa,Wisla Plock,2,1,1.727,3.400,4.750
-61062113,2026-02-22 11:15,MKS Arka Gdynia,GKS Katowice,2,1,3.000,3.200,2.300
-61062125,2026-02-22 13:45,Jagiellonia Bialystok,RKS Radomiak Radom,1,1,1.850,3.600,3.600
-61062121,2026-02-22 16:30,Korona Kielce,KKS Lech Poznan,1,2,2.750,3.500,2.250
-61062117,2026-02-23 18:00,KS Lechia Gdansk,Zaglebie Lubin,0,2,1.666,3.600,4.500
-61062141,2026-02-27 17:00,MKS Cracovia Krakow,GKS Piast Gliwice,2,3,2.150,3.100,3.250
-61062131,2026-02-27 19:30,MKS Arka Gdynia,KS Lechia Gdansk,2,2,3.100,3.200,2.150
-61062139,2026-02-28 13:45,Pogon Szczecin,Widzew Lodz,1,0,2.300,3.400,2.800
-61062135,2026-02-28 16:30,LKP Motor Lublin,Korona Kielce,2,0,2.150,3.400,3.000
-61062143,2026-02-28 19:15,GKS Katowice,Gornik Zabrze,3,1,2.600,3.300,2.500
-61062133,2026-03-01 11:15,Bruk-Bet Termalica Nieciecza,RKS Radomiak Radom,1,1,2.500,3.500,2.500
-61062147,2026-03-01 13:45,Jagiellonia Bialystok,Legia Warszawa,2,2,2.200,3.400,3.000
-61062145,2026-03-01 16:30,KKS Lech Poznan,RKS Rakow Czestochowa,4,3,2.050,3.500,3.100
-61062137,2026-03-02 18:00,Zaglebie Lubin,Wisla Plock,2,0,2.350,3.100,2.900
-69259504,2026-03-05 19:30,RKS Radomiak Radom,MKS Arka Gdynia,3,1,1.727,3.700,4.500
-61062153,2026-03-06 19:30,KS Lechia Gdansk,Jagiellonia Bialystok,3,0,2.300,3.600,2.750
-61062159,2026-03-07 13:45,Korona Kielce,Bruk-Bet Termalica Nieciecza,2,1,1.650,4.100,4.750
-61062163,2026-03-07 16:30,GKS Piast Gliwice,Zaglebie Lubin,1,3,1.850,3.250,4.100
-61062165,2026-03-07 19:15,Widzew Lodz,KKS Lech Poznan,2,1,2.250,3.500,3.100
-61062155,2026-03-08 11:15,LKP Motor Lublin,Gornik Zabrze,0,0,2.800,3.300,2.300
-61062157,2026-03-08 13:45,RKS Radomiak Radom,GKS Katowice,0,1,2.050,3.400,3.200
-61062161,2026-03-08 16:30,RKS Rakow Czestochowa,Pogon Szczecin,2,0,1.900,3.500,4.000
-61062151,2026-03-08 19:15,Legia Warszawa,MKS Cracovia Krakow,1,0,1.800,3.250,4.333
-61062149,2026-03-09 18:00,Wisla Plock,MKS Arka Gdynia,0,3,1.950,3.100,3.900
-61062169,2026-03-13 17:00,Bruk-Bet Termalica Nieciecza,LKP Motor Lublin,1,2,2.450,3.600,2.450
-61062175,2026-03-13 19:30,RKS Radomiak Radom,Legia Warszawa,1,1,2.500,3.200,2.550
-61062183,2026-03-14 13:45,Jagiellonia Bialystok,GKS Piast Gliwice,1,2,1.800,3.600,4.000
-61062181,2026-03-14 16:30,GKS Katowice,KS Lechia Gdansk,2,0,2.250,3.500,2.700
-61062179,2026-03-14 19:15,MKS Cracovia Krakow,Wisla Plock,1,2,1.850,3.200,4.200
-61062167,2026-03-15 11:15,MKS Arka Gdynia,Widzew Lodz,0,0,3.250,3.100,2.200
-61062171,2026-03-15 13:45,Zaglebie Lubin,KKS Lech Poznan,0,1,4.000,3.300,1.833
-61062173,2026-03-15 16:30,Gornik Zabrze,RKS Rakow Czestochowa,3,1,2.300,3.100,3.000
-61062177,2026-03-16 18:00,Pogon Szczecin,Korona Kielce,2,1,2.050,3.400,3.200
-69496210,2026-03-17 18:00,Jagiellonia Bialystok,GKS Katowice,2,1,1.700,3.750,4.333
-61062199,2026-03-20 17:00,GKS Piast Gliwice,RKS Radomiak Radom,3,1,2.200,3.100,3.250
-61062191,2026-03-20 19:30,LKP Motor Lublin,Zaglebie Lubin,1,0,2.000,3.400,3.250
-61062195,2026-03-21 13:45,MKS Cracovia Krakow,GKS Katowice,1,0,2.200,3.100,3.100
-61062189,2026-03-21 16:30,KS Lechia Gdansk,Pogon Szczecin,2,1,2.450,3.300,2.550
-63157399,2026-03-21 19:15,Jagiellonia Bialystok,Wisla Plock,1,2,1.571,3.750,5.250
-61062193,2026-03-22 11:15,Korona Kielce,MKS Arka Gdynia,3,0,1.950,3.000,4.200
-61062197,2026-03-22 13:45,KKS Lech Poznan,Bruk-Bet Termalica Nieciecza,4,1,1.285,5.000,8.000
-61062207,2026-03-22 16:30,Widzew Lodz,Gornik Zabrze,0,0,2.200,3.100,3.100
-61062187,2026-03-22 19:15,Legia Warszawa,RKS Rakow Czestochowa,1,1,2.050,3.300,3.250
-61062221,2026-04-04 10:15,GKS Katowice,Wisla Plock,1,0,1.833,3.500,3.800
-61062223,2026-04-04 12:45,RKS Rakow Czestochowa,Widzew Lodz,1,1,2.050,3.100,3.600
-61062215,2026-04-04 15:30,Gornik Zabrze,MKS Cracovia Krakow,3,0,1.800,3.200,4.500
-61062225,2026-04-04 18:15,Jagiellonia Bialystok,KKS Lech Poznan,0,0,2.600,3.600,2.350
-61062211,2026-04-06 10:15,Bruk-Bet Termalica Nieciecza,GKS Piast Gliwice,3,2,3.000,3.400,2.150
-61062217,2026-04-06 12:45,RKS Radomiak Radom,LKP Motor Lublin,1,1,2.150,3.400,2.900
-61062219,2026-04-06 15:30,Pogon Szczecin,Legia Warszawa,0,2,2.400,3.400,2.625
-61062213,2026-04-06 18:15,KS Lechia Gdansk,Korona Kielce,4,2,1.900,3.600,3.400
-61062209,2026-04-07 17:00,MKS Arka Gdynia,Zaglebie Lubin,3,1,2.450,3.000,2.875
-61062227,2026-04-10 16:00,Wisla Plock,KS Lechia Gdansk,1,0,2.750,3.400,2.250
-61062235,2026-04-10 18:30,Korona Kielce,Jagiellonia Bialystok,1,1,2.600,3.400,2.400
-61062245,2026-04-11 12:45,Widzew Lodz,Bruk-Bet Termalica Nieciecza,1,0,1.400,4.200,7.000
-61062233,2026-04-11 15:30,Zaglebie Lubin,RKS Radomiak Radom,1,0,2.250,3.200,2.900
-61062229,2026-04-11 18:15,Legia Warszawa,Gornik Zabrze,1,1,2.050,3.300,3.500
-61062239,2026-04-12 10:15,MKS Cracovia Krakow,MKS Arka Gdynia,2,2,1.800,3.250,4.333
-61062231,2026-04-12 12:45,LKP Motor Lublin,RKS Rakow Czestochowa,1,1,2.750,3.400,2.350
-61062241,2026-04-12 15:30,KKS Lech Poznan,GKS Katowice,3,3,1.444,4.500,5.500
-61062243,2026-04-13 17:00,GKS Piast Gliwice,Pogon Szczecin,0,2,2.000,3.500,3.300
-61062261,2026-04-17 16:00,GKS Katowice,LKP Motor Lublin,3,2,1.950,3.600,3.400
-61062251,2026-04-17 18:30,Legia Warszawa,Zaglebie Lubin,1,0,1.550,3.700,6.000
-61062257,2026-04-18 12:45,RKS Radomiak Radom,Widzew Lodz,2,1,3.100,3.100,2.200
-61062255,2026-04-18 15:30,Gornik Zabrze,Korona Kielce,1,0,1.850,3.400,3.900
-61062259,2026-04-18 18:15,Pogon Szczecin,KKS Lech Poznan,1,2,2.900,3.700,2.100
-61062249,2026-04-19 10:15,Bruk-Bet Termalica Nieciecza,Wisla Plock,1,3,2.600,3.300,2.500
-61062263,2026-04-19 12:45,RKS Rakow Czestochowa,MKS Cracovia Krakow,4,1,1.850,3.300,4.100
-61062247,2026-04-19 15:30,MKS Arka Gdynia,Jagiellonia Bialystok,0,3,3.200,3.300,2.100
-61062253,2026-04-20 17:00,KS Lechia Gdansk,GKS Piast Gliwice,1,1,1.950,3.700,3.200
-61062269,2026-04-24 16:00,Zaglebie Lubin,Bruk-Bet Termalica Nieciecza,1,2,1.833,3.500,3.800
-61062277,2026-04-24 18:30,Jagiellonia Bialystok,Gornik Zabrze,1,2,2.250,3.300,2.875
-61062271,2026-04-25 12:45,Korona Kielce,GKS Katowice,1,1,2.050,3.500,3.100
-61062267,2026-04-25 15:30,KS Lechia Gdansk,RKS Rakow Czestochowa,1,2,2.200,3.500,2.800
-61062273,2026-04-25 18:15,MKS Cracovia Krakow,Pogon Szczecin,1,1,2.250,3.100,3.100
-61062265,2026-04-26 10:15,Wisla Plock,RKS Radomiak Radom,0,1,2.400,3.250,2.700
-61062281,2026-04-26 12:45,Widzew Lodz,LKP Motor Lublin,2,0,1.650,3.750,4.750
-61062275,2026-04-26 15:30,KKS Lech Poznan,Legia Warszawa,4,0,1.900,3.500,3.600
-61062279,2026-04-27 17:00,GKS Piast Gliwice,MKS Arka Gdynia,4,1,1.750,3.300,4.333
-61062295,2026-05-01 15:30,Korona Kielce,GKS Piast Gliwice,1,1,2.200,3.100,3.200
-61062285,2026-05-01 18:30,Legia Warszawa,Widzew Lodz,1,0,1.909,3.100,4.100
-61062287,2026-05-02 18:15,LKP Motor Lublin,KKS Lech Poznan,0,1,4.000,4.200,1.666
-61062297,2026-05-03 10:15,GKS Katowice,Bruk-Bet Termalica Nieciecza,5,2,1.550,4.500,5.250
-61062289,2026-05-03 12:45,Zaglebie Lubin,MKS Cracovia Krakow,0,0,3.000,2.800,2.400
-61062293,2026-05-03 15:30,Pogon Szczecin,Wisla Plock,3,0,1.833,3.400,3.900
-61062291,2026-05-04 17:00,RKS Radomiak Radom,KS Lechia Gdansk,3,1,2.450,3.400,2.500
-61062311,2026-05-08 16:00,RKS Rakow Czestochowa,Korona Kielce,3,0,1.850,3.400,3.750
-61062309,2026-05-08 18:30,KKS Lech Poznan,MKS Arka Gdynia,1,1,1.300,5.250,7.500
-61062317,2026-05-09 12:45,Widzew Lodz,KS Lechia Gdansk,3,1,2.100,3.200,3.200
-61062313,2026-05-09 15:30,Jagiellonia Bialystok,Pogon Szczecin,3,2,1.700,3.800,4.200
-61062305,2026-05-09 18:15,Gornik Zabrze,Zaglebie Lubin,0,2,1.615,3.400,5.250
-61062315,2026-05-10 10:15,GKS Piast Gliwice,GKS Katowice,0,1,2.000,3.500,3.300
-61062301,2026-05-10 12:45,Wisla Plock,LKP Motor Lublin,0,4,2.300,3.400,2.800
-61062303,2026-05-10 15:30,Bruk-Bet Termalica Nieciecza,Legia Warszawa,0,1,4.500,3.800,1.650
-61062307,2026-05-11 17:00,MKS Cracovia Krakow,RKS Radomiak Radom,0,0,1.800,3.300,4.200
-61062283,2026-05-13 16:00,MKS Arka Gdynia,Gornik Zabrze,0,0,3.750,3.400,1.909
-61062299,2026-05-13 18:30,RKS Rakow Czestochowa,Jagiellonia Bialystok,0,2,2.050,3.400,3.200
-61062327,2026-05-15 16:00,Zaglebie Lubin,Pogon Szczecin,0,1,2.450,3.250,2.625
-61062331,2026-05-15 18:30,Korona Kielce,Widzew Lodz,1,0,2.375,2.900,3.000
-61062325,2026-05-16 12:45,LKP Motor Lublin,MKS Cracovia Krakow,3,3,2.750,3.500,2.300
-61062321,2026-05-16 15:30,Wisla Plock,Gornik Zabrze,0,1,3.800,3.400,1.850
-61062329,2026-05-16 18:15,RKS Radomiak Radom,KKS Lech Poznan,1,3,3.900,3.900,1.727
-61062335,2026-05-17 10:15,GKS Piast Gliwice,RKS Rakow Czestochowa,1,3,2.350,3.250,2.800
-61062333,2026-05-17 12:45,GKS Katowice,Jagiellonia Bialystok,2,2,2.250,3.600,2.700
-71262292,2026-05-17 15:30,KS Lechia Gdansk,Legia Warszawa,1,2,2.100,3.500,3.000
-61062319,2026-05-18 17:00,MKS Arka Gdynia,Bruk-Bet Termalica Nieciecza,2,3,1.666,3.750,4.200
-61062337,2026-05-23 15:30,Bruk-Bet Termalica Nieciecza,KS Lechia Gdansk,3,2,3.600,4.200,1.727
-61062339,2026-05-23 15:30,Legia Warszawa,LKP Motor Lublin,4,0,1.450,4.333,5.500
-61062341,2026-05-23 15:30,Gornik Zabrze,RKS Radomiak Radom,6,2,1.400,4.200,7.000
-61062343,2026-05-23 15:30,Pogon Szczecin,GKS Katowice,1,1,2.400,3.600,2.450
-61062345,2026-05-23 15:30,MKS Cracovia Krakow,Korona Kielce,1,1,2.000,2.700,4.500
-61062347,2026-05-23 15:30,KKS Lech Poznan,Wisla Plock,3,2,1.333,5.000,6.500
-61062349,2026-05-23 15:30,RKS Rakow Czestochowa,MKS Arka Gdynia,3,0,1.222,5.250,11.000
-61062351,2026-05-23 15:30,Jagiellonia Bialystok,Zaglebie Lubin,1,0,1.400,4.500,6.500
-61062353,2026-05-23 15:30,Widzew Lodz,GKS Piast Gliwice,2,1,2.350,3.000,2.900
-72043020,2026-07-24 16:00,RKS Radomiak Radom,Wieczysta Krakow,2,1,2.300,3.250,3.000
-72043022,2026-07-24 18:30,Pogon Szczecin,Legia Warszawa,0,1,2.550,3.250,2.500
-72043028,2026-07-25 12:45,Jagiellonia Bialystok,Korona Kielce,1,0,1.950,3.300,3.500
-72043030,2026-07-25 15:30,Gornik Zabrze,WKS Slask Wroclaw,2,1,1.800,3.500,4.100
-72043034,2026-07-25 18:15,KKS Lech Poznan,KS Cracovia Krakow,0,0,1.533,4.000,5.250
-72043024,2026-07-26 12:45,RKS Rakow Czestochowa,Wisla Plock,1,2,1.666,3.600,4.500
-72043026,2026-07-26 15:30,Widzew Lodz,LKP Motor Lublin,2,2,1.750,3.700,4.100
-72043018,2026-07-26 18:15,Wisla Krakow,GKS Katowice,2,1,2.050,3.400,3.200
-72043032,2026-07-27 17:00,Zaglebie Lubin,GKS Piast Gliwice,2,0,2.450,3.300,2.700
-72043052,2026-07-31 16:00,Wisla Plock,Widzew Lodz,0,0,2.900,3.250,2.250
-72043036,2026-07-31 18:30,LKP Motor Lublin,Jagiellonia Bialystok,1,2,2.800,3.400,2.250
-72043050,2026-08-01 12:45,GKS Piast Gliwice,Wisla Krakow,4,3,2.400,2.900,3.000
-72043040,2026-08-01 15:30,Wieczysta Krakow,KKS Lech Poznan,1,2,3.100,3.500,2.050
-72043044,2026-08-02 12:45,Legia Warszawa,Zaglebie Lubin,3,1,1.615,3.700,4.750
-72043048,2026-08-02 15:30,WKS Slask Wroclaw,RKS Rakow Czestochowa,2,1,3.100,3.600,2.200
-72043046,2026-08-02 18:15,GKS Katowice,RKS Radomiak Radom,3,1,2.000,3.500,3.200
-72043042,2026-08-03 17:00,KS Cracovia Krakow,Pogon Szczecin,0,2,2.150,3.300,3.100
-72043056,2026-08-07 18:30,Wisla Krakow,Wisla Plock,2,1,1.700,3.800,4.000
-72043058,2026-08-08 12:45,RKS Radomiak Radom,Gornik Zabrze,1,3,2.600,3.300,2.500
-72043060,2026-08-08 15:30,Pogon Szczecin,LKP Motor Lublin,3,1,1.900,3.600,3.600
-72043054,2026-08-08 18:15,Korona Kielce,Legia Warszawa,1,1,3.000,3.200,2.300
-72043066,2026-08-09 12:45,WKS Slask Wroclaw,KS Cracovia Krakow,0,0,2.375,3.300,2.750
-72043070,2026-08-09 15:30,KKS Lech Poznan,GKS Piast Gliwice,3,0,1.533,4.200,5.000
-72043068,2026-08-09 18:15,Jagiellonia Bialystok,Widzew Lodz,0,2,2.450,3.200,2.700
-72043076,2026-08-14 18:30,Legia Warszawa,RKS Radomiak Radom,5,0,1.480,3.900,6.250
-72043086,2026-08-15 12:45,Zaglebie Lubin,WKS Slask Wroclaw,2,1,2.100,3.300,3.200
-72043080,2026-08-15 15:30,GKS Piast Gliwice,Wieczysta Krakow,3,4,2.100,3.300,3.200
-72043078,2026-08-15 18:15,Widzew Lodz,Korona Kielce,1,2,1.950,3.100,3.800
-72043072,2026-08-16 12:45,LKP Motor Lublin,GKS Katowice,1,0,2.150,3.600,2.800
-72043074,2026-08-16 15:30,KS Cracovia Krakow,RKS Rakow Czestochowa,2,1,2.450,3.100,2.750
-72043084,2026-08-16 18:15,Gornik Zabrze,Wisla Krakow,2,1,2.050,3.400,3.250
-72043092,2026-08-21 18:30,KS Cracovia Krakow,Wieczysta Krakow,3,2,2.100,3.200,3.200
-72043090,2026-08-22 12:45,Korona Kielce,LKP Motor Lublin,1,1,1.750,3.600,4.000
-72043104,2026-08-22 15:30,GKS Piast Gliwice,Legia Warszawa,1,1,3.600,3.400,1.950
-72043102,2026-08-22 18:15,WKS Slask Wroclaw,Widzew Lodz,3,3,3.100,3.200,2.150
-72043094,2026-08-23 12:45,RKS Radomiak Radom,Zaglebie Lubin,0,0,2.500,3.300,2.550
-72043100,2026-08-23 15:30,GKS Katowice,Wisla Plock,5,0,1.833,3.600,3.700
-72043096,2026-08-23 18:15,Pogon Szczecin,Wisla Krakow,2,2,2.100,3.600,3.000
-72043124,2026-08-28 16:00,Wisla Plock,Korona Kielce,0,2,2.400,3.200,2.700
-72043114,2026-08-28 18:30,Legia Warszawa,WKS Slask Wroclaw,1,1,1.480,3.900,6.500
-72043112,2026-08-29 10:15,RKS Radomiak Radom,KS Cracovia Krakow,2,1,2.800,3.200,2.350
-72043108,2026-08-29 12:45,LKP Motor Lublin,GKS Piast Gliwice,0,2,2.300,3.400,2.800
-72043110,2026-08-29 15:30,Wisla Krakow,Wieczysta Krakow,2,0,1.833,3.700,3.500
-72043122,2026-08-29 18:15,Zaglebie Lubin,Pogon Szczecin,0,0,2.750,3.100,2.450
-72043116,2026-08-30 12:45,RKS Rakow Czestochowa,Jagiellonia Bialystok,2,5,1.950,3.400,3.400
-72043120,2026-08-30 15:30,Gornik Zabrze,GKS Katowice,2,3,1.800,3.500,4.100
-72043118,2026-08-30 18:15,Widzew Lodz,KKS Lech Poznan,2,3,3.100,3.300,2.100
-72043098,2026-09-03 16:00,RKS Rakow Czestochowa,Gornik Zabrze,1,2,2.700,3.250,2.450
-73716490,2026-09-03 18:30,KKS Lech Poznan,Jagiellonia Bialystok,2,1,1.550,4.200,5.000
-72043138,2026-09-04 18:30,GKS Piast Gliwice,GKS Katowice,3,0,2.250,3.500,2.700
-72043136,2026-09-05 12:45,Widzew Lodz,RKS Radomiak Radom,0,0,1.600,3.700,5.000
-72043128,2026-09-05 15:30,Korona Kielce,Wisla Krakow,1,1,2.200,3.300,3.000
-72043126,2026-09-05 18:15,LKP Motor Lublin,Legia Warszawa,2,3,3.400,3.600,1.909
-72043132,2026-09-06 12:45,KS Cracovia Krakow,Gornik Zabrze,0,1,2.500,3.400,2.500
-72043142,2026-09-06 15:30,KKS Lech Poznan,RKS Rakow Czestochowa,1,0,1.550,4.500,4.500
-72043140,2026-09-06 18:15,Jagiellonia Bialystok,WKS Slask Wroclaw,2,1,1.666,4.100,4.100
-72043130,2026-09-07 16:00,Wieczysta Krakow,Zaglebie Lubin,1,1,1.850,3.600,3.600
-72043134,2026-09-07 18:30,Pogon Szczecin,Wisla Plock,1,1,2.150,3.400,3.000
-72043152,2026-09-11 16:00,RKS Rakow Czestochowa,LKP Motor Lublin,2,1,1.909,3.600,3.400
-72043144,2026-09-11 18:30,Wisla Krakow,Jagiellonia Bialystok,2,0,2.150,3.700,2.875
-72043154,2026-09-12 12:45,WKS Slask Wroclaw,Korona Kielce,1,2,2.800,3.200,2.400
-72043156,2026-09-12 15:30,Gornik Zabrze,KKS Lech Poznan,2,1,2.750,3.400,2.300
-72043158,2026-09-12 18:15,Zaglebie Lubin,GKS Katowice,2,1,2.625,3.300,2.400
-72043160,2026-09-13 10:15,Wisla Plock,KS Cracovia Krakow,3,1,2.750,3.400,2.450
-72043150,2026-09-13 12:45,Pogon Szczecin,Wieczysta Krakow,2,0,2.250,3.500,3.000
-72043148,2026-09-13 15:30,Legia Warszawa,Widzew Lodz,1,1,1.950,3.400,3.900
-72043146,2026-09-14 17:00,RKS Radomiak Radom,GKS Piast Gliwice,0,2,2.450,3.500,2.625
-74101934,2026-09-15 16:00,RKS Rakow Czestochowa,Zaglebie Lubin,2,3,1.727,3.900,4.500
-74021804,2026-09-15 18:30,Korona Kielce,Gornik Zabrze,0,2,2.625,3.400,2.600
-72043170,2026-09-18 16:30,Widzew Lodz,Wieczysta Krakow,2,2,1.950,3.500,3.400
-72043166,2026-09-18 18:30,Wisla Krakow,WKS Slask Wroclaw,2,1,1.533,4.000,5.250
-72043164,2026-09-19 12:45,Korona Kielce,RKS Rakow Czestochowa,3,2,2.100,3.400,3.000
-72043168,2026-09-19 15:30,GKS Katowice,KS Cracovia Krakow,3,2,2.200,3.400,2.900
-72043162,2026-09-19 18:15,LKP Motor Lublin,Gornik Zabrze,0,0,3.100,3.300,2.150
-72043172,2026-09-20 10:15,GKS Piast Gliwice,Pogon Szczecin,1,2,2.250,3.400,2.800
-72043176,2026-09-20 12:45,Zaglebie Lubin,Wisla Plock,0,2,2.450,3.250,2.700
-72043174,2026-09-20 15:30,Jagiellonia Bialystok,Legia Warszawa,1,3,2.550,3.400,2.500
-72043178,2026-09-20 18:15,KKS Lech Poznan,RKS Radomiak Radom,5,1,1.333,5.000,7.000
-72043180,2026-10-09 16:00,Wieczysta Krakow,Wisla Plock,3,0,2.000,3.500,3.200
-72043190,2026-10-09 18:30,RKS Rakow Czestochowa,GKS Katowice,1,4,2.100,3.600,3.000
-72043182,2026-10-10 12:45,KS Cracovia Krakow,Zaglebie Lubin,3,1,1.850,3.300,3.750
-72043192,2026-10-10 15:30,WKS Slask Wroclaw,KKS Lech Poznan,1,4,4.200,3.800,1.666
-72043196,2026-10-10 18:15,Jagiellonia Bialystok,Gornik Zabrze,1,3,2.450,3.300,2.625
-72043194,2026-10-11 12:45,GKS Piast Gliwice,Widzew Lodz,2,1,2.600,3.250,2.450
-72043188,2026-10-11 15:30,Pogon Szczecin,Korona Kielce,2,0,2.300,3.100,3.000
-72043186,2026-10-11 18:15,Legia Warszawa,Wisla Krakow,2,0,2.250,3.100,3.000
-72043184,2026-10-12 16:00,RKS Radomiak Radom,LKP Motor Lublin,2,3,2.600,3.250,2.450
-74128332,2026-10-12 18:30,GKS Katowice,Wieczysta Krakow,2,1,1.950,3.700,3.200
-72043200,2026-10-16 16:00,Wieczysta Krakow,RKS Rakow Czestochowa,1,2,1.850,3.600,3.600
-72043206,2026-10-16 18:30,Widzew Lodz,Wisla Krakow,0,0,2.300,3.400,2.800
-72043198,2026-10-17 12:45,LKP Motor Lublin,WKS Slask Wroclaw,3,2,1.833,3.600,3.750
-72043204,2026-10-17 15:30,GKS Katowice,Pogon Szczecin,0,1,2.050,3.400,3.250
-72043202,2026-10-17 18:15,KS Cracovia Krakow,Legia Warszawa,1,1,2.800,3.250,2.350
-72043208,2026-10-18 10:15,Gornik Zabrze,GKS Piast Gliwice,1,1,1.550,3.900,5.250
-72043210,2026-10-18 12:45,Zaglebie Lubin,Jagiellonia Bialystok,1,0,2.450,3.500,2.550
-72043214,2026-10-18 15:30,KKS Lech Poznan,Korona Kielce,6,1,1.650,3.900,4.500
-72043212,2026-10-19 17:00,Wisla Plock,RKS Radomiak Radom,1,0,1.750,3.600,4.000
-72043216,2026-10-23 16:00,LKP Motor Lublin,Zaglebie Lubin,2,2,1.900,3.500,3.500
-72043284,2026-10-23 18:30,Widzew Lodz,Gornik Zabrze,1,1,3.000,3.200,2.300
-72043286,2026-10-24 10:15,GKS Piast Gliwice,KS Cracovia Krakow,3,1,2.300,3.500,2.700
-72043218,2026-10-24 12:45,Korona Kielce,GKS Katowice,1,0,2.100,3.600,3.000
-72043224,2026-10-24 15:30,Pogon Szczecin,RKS Radomiak Radom,4,3,1.533,3.900,5.000
-72043220,2026-10-24 18:15,Wisla Krakow,RKS Rakow Czestochowa,2,1,1.727,3.750,4.000
-72043258,2026-10-25 11:15,WKS Slask Wroclaw,Wieczysta Krakow,2,0,2.875,3.600,2.150
-72043288,2026-10-25 13:45,Jagiellonia Bialystok,Wisla Plock,1,0,1.900,3.600,3.400
-72043222,2026-10-25 16:30,Legia Warszawa,KKS Lech Poznan,1,2,2.550,3.500,2.450
-72043292,2026-10-30 17:00,KS Cracovia Krakow,LKP Motor Lublin,1,2,2.200,3.300,3.000
-72043300,2026-10-30 19:30,Gornik Zabrze,Legia Warszawa,0,0,1.909,3.300,3.600
-72043304,2026-10-31 11:15,Wisla Plock,GKS Piast Gliwice,2,2,2.050,3.400,3.100
-72043290,2026-10-31 13:45,Wieczysta Krakow,Jagiellonia Bialystok,1,3,2.375,3.400,2.625
-72043306,2026-10-31 16:30,KKS Lech Poznan,Wisla Krakow,3,1,1.900,3.600,3.500
-72043298,2026-10-31 19:15,GKS Katowice,Widzew Lodz,3,2,2.000,3.600,3.200
-72043294,2026-11-02 17:00,RKS Radomiak Radom,WKS Slask Wroclaw,3,1,1.909,3.600,3.500
-72043302,2026-11-02 17:00,Zaglebie Lubin,Korona Kielce,1,0,2.550,3.200,2.550
-72043296,2026-11-02 19:30,RKS Rakow Czestochowa,Pogon Szczecin,3,1,1.900,3.500,3.600
-72043308,2026-11-06 17:00,LKP Motor Lublin,Wisla Plock,3,2,1.900,3.600,3.500
-72043312,2026-11-06 19:30,Wisla Krakow,KS Cracovia Krakow,2,1,1.833,3.500,3.800
-72043310,2026-11-07 11:15,Korona Kielce,RKS Radomiak Radom,0,2,1.666,3.700,4.333
-72043316,2026-11-07 13:45,WKS Slask Wroclaw,GKS Piast Gliwice,0,0,2.450,3.600,2.450
-72043322,2026-11-07 16:30,Gornik Zabrze,Wieczysta Krakow,2,1,1.533,4.100,5.000
-72043318,2026-11-07 19:15,Widzew Lodz,Pogon Szczecin,3,0,1.850,3.500,3.700
-72043320,2026-11-08 13:45,Jagiellonia Bialystok,GKS Katowice,1,0,1.850,3.900,3.500
-72043314,2026-11-08 16:30,Legia Warszawa,RKS Rakow Czestochowa,2,4,1.950,3.500,3.400
-72043324,2026-11-08 19:15,KKS Lech Poznan,Zaglebie Lubin,2,2,1.480,4.100,5.750
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+50593143,2025-05-24 15:30,Gornik Zabrze,Korona Kielce,1,1,,,,,,
+50593145,2025-05-24 15:30,Jagiellonia Bialystok,Pogon Szczecin,1,1,,,,,,
+50593147,2025-05-24 15:30,Zaglebie Lubin,MKS Cracovia Krakow,1,2,,,,,,
+50593149,2025-05-24 15:30,KKS Lech Poznan,GKS Piast Gliwice,1,0,,,,,,
+50593151,2025-05-24 15:30,KS Lechia Gdansk,GKS Katowice,2,3,,,,,,
+50593153,2025-05-24 15:30,Legia Warszawa,FKS Stal Mielec,2,2,,,,,,
+50593155,2025-05-24 15:30,Puszcza Niepolomice,WKS Slask Wroclaw,1,1,,,,,,
+50593157,2025-05-24 15:30,RKS Radomiak Radom,LKP Motor Lublin,2,3,,,,,,
+50593159,2025-05-24 15:30,RKS Rakow Czestochowa,Widzew Lodz,2,1,,,,,,
+61061751,2025-07-18 16:00,Jagiellonia Bialystok,Bruk-Bet Termalica Nieciecza,0,4,,,,,,
+61061749,2025-07-18 18:30,KKS Lech Poznan,MKS Cracovia Krakow,1,4,,,,,,
+61061741,2025-07-19 12:45,Widzew Lodz,Zaglebie Lubin,1,0,,,,,,
+61061735,2025-07-19 15:30,Wisla Plock,Korona Kielce,2,0,,,,,,
+61061747,2025-07-19 18:15,GKS Katowice,RKS Rakow Czestochowa,0,1,,,,,,
+61061743,2025-07-20 12:45,Gornik Zabrze,KS Lechia Gdansk,2,1,,,,,,
+61061739,2025-07-20 15:30,LKP Motor Lublin,MKS Arka Gdynia,1,0,,,,,,
+61061745,2025-07-20 18:15,RKS Radomiak Radom,Pogon Szczecin,5,1,,,,,,
+61061761,2025-07-25 16:00,MKS Cracovia Krakow,Bruk-Bet Termalica Nieciecza,2,0,,,,,,
+61061753,2025-07-25 18:30,MKS Arka Gdynia,RKS Radomiak Radom,1,1,,,,,,
+61061769,2025-07-26 12:45,GKS Piast Gliwice,Gornik Zabrze,0,1,,,,,,
+61061757,2025-07-26 15:30,Pogon Szczecin,LKP Motor Lublin,4,1,,,,,,
+61061755,2025-07-26 18:15,KS Lechia Gdansk,KKS Lech Poznan,3,4,,,,,,
+61061765,2025-07-27 12:45,RKS Rakow Czestochowa,Wisla Plock,1,2,,,,,,
+61061767,2025-07-27 15:30,Jagiellonia Bialystok,Widzew Lodz,3,2,,,,,,
+61061759,2025-07-27 18:15,Korona Kielce,Legia Warszawa,0,2,,,,,,
+61470055,2025-07-28 17:00,GKS Katowice,Zaglebie Lubin,2,2,,,,,,
+61061779,2025-08-01 16:00,Zaglebie Lubin,Korona Kielce,1,1,,,,,,
+61061771,2025-08-01 18:30,Wisla Plock,GKS Piast Gliwice,2,0,,,,,,
+61061773,2025-08-02 12:45,Bruk-Bet Termalica Nieciecza,Pogon Szczecin,1,1,,,,,,
+61061787,2025-08-02 15:30,Widzew Lodz,GKS Katowice,3,0,,,,,,
+61061785,2025-08-02 18:15,KKS Lech Poznan,Gornik Zabrze,2,1,,,,,,
+61061783,2025-08-03 12:45,MKS Cracovia Krakow,KS Lechia Gdansk,2,2,,,,,,
+61061781,2025-08-03 15:30,RKS Radomiak Radom,RKS Rakow Czestochowa,3,1,,,,,,
+61061775,2025-08-03 18:15,Legia Warszawa,MKS Arka Gdynia,0,0,,,,,,
+61061797,2025-08-08 16:00,Korona Kielce,RKS Radomiak Radom,3,0,,,,,,
+61061795,2025-08-08 18:30,Gornik Zabrze,Bruk-Bet Termalica Nieciecza,0,1,,,,,,
+61061789,2025-08-09 15:30,MKS Arka Gdynia,Pogon Szczecin,2,1,,,,,,
+61061805,2025-08-09 18:15,Widzew Lodz,Wisla Plock,1,1,,,,,,
+61061801,2025-08-10 15:30,Jagiellonia Bialystok,MKS Cracovia Krakow,5,2,,,,,,
+61061791,2025-08-10 18:15,Legia Warszawa,GKS Katowice,3,1,,,,,,
+61061793,2025-08-11 17:00,KS Lechia Gdansk,LKP Motor Lublin,3,3,,,,,,
+61061813,2025-08-15 16:00,Zaglebie Lubin,KS Lechia Gdansk,6,2,,,,,,
+61061819,2025-08-15 18:30,MKS Cracovia Krakow,Widzew Lodz,1,0,,,,,,
+61061811,2025-08-16 12:45,LKP Motor Lublin,GKS Piast Gliwice,0,0,,,,,,
+61061821,2025-08-16 15:30,GKS Katowice,MKS Arka Gdynia,4,1,,,,,,
+61061823,2025-08-16 18:15,KKS Lech Poznan,Korona Kielce,1,1,,,,,,
+61061815,2025-08-17 15:30,RKS Radomiak Radom,Jagiellonia Bialystok,1,2,,,,,,
+61061817,2025-08-17 15:30,Pogon Szczecin,Gornik Zabrze,0,3,,,,,,
+61061807,2025-08-17 18:15,Wisla Plock,Legia Warszawa,1,0,,,,,,
+61061809,2025-08-17 18:15,Bruk-Bet Termalica Nieciecza,RKS Rakow Czestochowa,2,3,,,,,,
+61061833,2025-08-22 16:00,RKS Radomiak Radom,Bruk-Bet Termalica Nieciecza,1,1,,,,,,
+61061841,2025-08-22 18:30,Widzew Lodz,Pogon Szczecin,1,2,,,,,,
+61061835,2025-08-23 15:30,Korona Kielce,LKP Motor Lublin,2,0,,,,,,
+61061831,2025-08-23 18:15,Gornik Zabrze,GKS Katowice,3,0,,,,,,
+61061839,2025-08-24 12:45,GKS Piast Gliwice,MKS Cracovia Krakow,0,0,,,,,,
+61061829,2025-08-24 15:30,KS Lechia Gdansk,MKS Arka Gdynia,1,0,,,,,,
+61061825,2025-08-25 17:00,Wisla Plock,Zaglebie Lubin,2,1,,,,,,
+61061843,2025-08-29 16:00,MKS Arka Gdynia,Wisla Plock,1,0,,,,,,
+61061855,2025-08-29 18:30,GKS Katowice,RKS Radomiak Radom,3,2,,,,,,
+61061845,2025-08-30 12:45,Bruk-Bet Termalica Nieciecza,Korona Kielce,1,3,,,,,,
+61061847,2025-08-30 15:30,Zaglebie Lubin,GKS Piast Gliwice,2,2,,,,,,
+61061849,2025-08-30 18:15,Gornik Zabrze,LKP Motor Lublin,0,1,,,,,,
+61061857,2025-08-31 15:30,KKS Lech Poznan,Widzew Lodz,2,1,,,,,,
+61061859,2025-08-31 15:30,Jagiellonia Bialystok,KS Lechia Gdansk,2,0,,,,,,
+61061851,2025-08-31 18:15,Pogon Szczecin,RKS Rakow Czestochowa,2,0,,,,,,
+61061853,2025-08-31 18:15,MKS Cracovia Krakow,Legia Warszawa,2,1,,,,,,
+61061865,2025-09-12 16:00,KS Lechia Gdansk,GKS Katowice,2,0,,,,,,
+61061871,2025-09-12 18:30,KKS Lech Poznan,Zaglebie Lubin,1,2,,,,,,
+61061869,2025-09-13 12:45,Korona Kielce,Pogon Szczecin,1,0,,,,,,
+61061875,2025-09-13 18:15,GKS Piast Gliwice,Jagiellonia Bialystok,1,1,,,,,,
+61061867,2025-09-14 10:15,LKP Motor Lublin,Bruk-Bet Termalica Nieciecza,1,1,,,,,,
+61061863,2025-09-14 12:45,Legia Warszawa,RKS Radomiak Radom,4,1,,,,,,
+61061877,2025-09-14 15:30,Widzew Lodz,MKS Arka Gdynia,2,0,,,,,,
+62977553,2025-09-15 17:00,RKS Rakow Czestochowa,Gornik Zabrze,0,1,,,,,,
+61061891,2025-09-19 16:00,GKS Katowice,MKS Cracovia Krakow,0,3,,,,,,
+61062185,2025-09-19 18:30,Wisla Plock,Jagiellonia Bialystok,0,1,,,,,,
+61061887,2025-09-20 10:15,RKS Radomiak Radom,GKS Piast Gliwice,1,0,,,,,,
+61061879,2025-09-20 12:45,MKS Arka Gdynia,Korona Kielce,0,0,,,,,,
+61061881,2025-09-20 15:30,Bruk-Bet Termalica Nieciecza,KKS Lech Poznan,0,2,,,,,,
+61061893,2025-09-20 18:15,RKS Rakow Czestochowa,Legia Warszawa,1,1,,,,,,
+61061883,2025-09-21 10:15,Zaglebie Lubin,LKP Motor Lublin,2,2,,,,,,
+61061889,2025-09-21 12:45,Pogon Szczecin,KS Lechia Gdansk,3,4,,,,,,
+61061885,2025-09-21 15:30,Gornik Zabrze,Widzew Lodz,3,2,,,,,,
+63345303,2025-09-24 16:45,RKS Rakow Czestochowa,KKS Lech Poznan,2,2,,,,,,
+63745107,2025-09-24 19:00,Legia Warszawa,Jagiellonia Bialystok,0,0,,,,,,
+61061897,2025-09-26 18:30,Wisla Plock,GKS Katowice,1,1,,,,,,
+61061905,2025-09-27 12:45,Korona Kielce,KS Lechia Gdansk,3,0,,,,,,
+61061911,2025-09-27 15:30,GKS Piast Gliwice,Bruk-Bet Termalica Nieciecza,4,2,,,,,,
+61061907,2025-09-27 18:15,MKS Cracovia Krakow,Gornik Zabrze,1,1,,,,,,
+61061913,2025-09-28 10:15,Widzew Lodz,RKS Rakow Czestochowa,0,1,,,,,,
+61061909,2025-09-28 12:45,KKS Lech Poznan,Jagiellonia Bialystok,2,2,,,,,,
+61061899,2025-09-28 15:30,Legia Warszawa,Pogon Szczecin,1,0,,,,,,
+61061903,2025-09-29 16:00,Zaglebie Lubin,MKS Arka Gdynia,4,0,,,,,,
+61061901,2025-09-29 18:30,LKP Motor Lublin,RKS Radomiak Radom,2,2,,,,,,
+61061919,2025-10-03 16:00,KS Lechia Gdansk,Wisla Plock,1,1,,,,,,
+61061925,2025-10-03 18:30,Pogon Szczecin,GKS Piast Gliwice,2,1,,,,,,
+61061917,2025-10-04 12:45,Bruk-Bet Termalica Nieciecza,Widzew Lodz,2,4,,,,,,
+61061923,2025-10-04 15:30,RKS Radomiak Radom,Zaglebie Lubin,3,1,,,,,,
+61061915,2025-10-04 18:15,MKS Arka Gdynia,MKS Cracovia Krakow,2,1,,,,,,
+61061931,2025-10-05 10:15,Jagiellonia Bialystok,Korona Kielce,3,1,,,,,,
+61061929,2025-10-05 12:45,RKS Rakow Czestochowa,LKP Motor Lublin,2,0,,,,,,
+61061927,2025-10-05 15:30,GKS Katowice,KKS Lech Poznan,0,1,,,,,,
+61061921,2025-10-05 18:15,Gornik Zabrze,Legia Warszawa,3,1,,,,,,
+61061935,2025-10-17 16:00,LKP Motor Lublin,GKS Katowice,2,5,,,,,,
+61061949,2025-10-17 18:30,Widzew Lodz,RKS Radomiak Radom,3,2,,,,,,
+61061939,2025-10-18 12:45,Korona Kielce,Gornik Zabrze,1,1,,,,,,
+61061945,2025-10-18 15:30,Jagiellonia Bialystok,MKS Arka Gdynia,4,0,,,,,,
+61061941,2025-10-18 18:15,MKS Cracovia Krakow,RKS Rakow Czestochowa,2,0,,,,,,
+63859661,2025-10-19 10:15,GKS Piast Gliwice,KS Lechia Gdansk,1,2,,,,,,
+61061943,2025-10-19 12:45,KKS Lech Poznan,Pogon Szczecin,2,2,,,,,,
+61061937,2025-10-19 15:30,Zaglebie Lubin,Legia Warszawa,3,1,,,,,,
+61061933,2025-10-20 17:00,Wisla Plock,Bruk-Bet Termalica Nieciecza,3,1,,,,,,
+61061953,2025-10-24 16:00,Bruk-Bet Termalica Nieciecza,Zaglebie Lubin,1,1,,,,,,
+61061957,2025-10-24 18:30,LKP Motor Lublin,Widzew Lodz,3,0,,,,,,
+61061951,2025-10-25 12:45,MKS Arka Gdynia,GKS Piast Gliwice,2,1,,,,,,
+61061963,2025-10-25 15:30,Pogon Szczecin,MKS Cracovia Krakow,2,1,,,,,,
+61061965,2025-10-25 18:15,GKS Katowice,Korona Kielce,1,0,,,,,,
+61061967,2025-10-26 13:45,RKS Rakow Czestochowa,KS Lechia Gdansk,2,1,,,,,,
+61061959,2025-10-26 16:30,Gornik Zabrze,Jagiellonia Bialystok,2,1,,,,,,
+61061955,2025-10-26 19:15,Legia Warszawa,KKS Lech Poznan,0,0,,,,,,
+64649742,2025-10-27 18:00,RKS Radomiak Radom,Wisla Plock,1,1,,,,,,
+61061971,2025-10-31 17:00,Bruk-Bet Termalica Nieciecza,GKS Katowice,0,3,,,,,,
+61061983,2025-10-31 19:30,GKS Piast Gliwice,Korona Kielce,0,0,,,,,,
+61061975,2025-11-02 11:15,Gornik Zabrze,MKS Arka Gdynia,5,1,,,,,,
+61061979,2025-11-02 13:45,KKS Lech Poznan,LKP Motor Lublin,2,2,,,,,,
+61061981,2025-11-02 16:30,Jagiellonia Bialystok,RKS Rakow Czestochowa,1,2,,,,,,
+61061985,2025-11-02 19:15,Widzew Lodz,Legia Warszawa,1,1,,,,,,
+61061969,2025-11-03 17:00,Wisla Plock,Pogon Szczecin,2,0,,,,,,
+61061973,2025-11-03 17:00,KS Lechia Gdansk,RKS Radomiak Radom,1,2,,,,,,
+61061977,2025-11-03 19:30,MKS Cracovia Krakow,Zaglebie Lubin,0,0,,,,,,
+61061997,2025-11-07 17:00,RKS Radomiak Radom,MKS Cracovia Krakow,3,0,,,,,,
+61061995,2025-11-07 19:30,Zaglebie Lubin,Gornik Zabrze,2,0,,,,,,
+61061991,2025-11-08 13:45,KS Lechia Gdansk,Widzew Lodz,2,1,,,,,,
+61061993,2025-11-08 16:30,LKP Motor Lublin,Wisla Plock,1,1,,,,,,
+61062003,2025-11-08 19:15,GKS Katowice,GKS Piast Gliwice,1,3,,,,,,
+61061989,2025-11-09 13:45,Legia Warszawa,Bruk-Bet Termalica Nieciecza,1,2,,,,,,
+61062001,2025-11-09 13:45,Korona Kielce,RKS Rakow Czestochowa,1,4,,,,,,
+61061999,2025-11-09 16:30,Pogon Szczecin,Jagiellonia Bialystok,1,2,,,,,,
+61061987,2025-11-09 19:15,MKS Arka Gdynia,KKS Lech Poznan,3,1,,,,,,
+61062005,2025-11-21 17:00,Bruk-Bet Termalica Nieciecza,MKS Arka Gdynia,2,0,,,,,,
+61062009,2025-11-21 19:30,Gornik Zabrze,Wisla Plock,1,1,,,,,,
+61062013,2025-11-22 13:45,MKS Cracovia Krakow,LKP Motor Lublin,1,2,,,,,,
+61062017,2025-11-22 16:30,RKS Rakow Czestochowa,GKS Piast Gliwice,1,3,,,,,,
+61062007,2025-11-22 19:15,Legia Warszawa,KS Lechia Gdansk,2,2,,,,,,
+61062015,2025-11-23 13:45,KKS Lech Poznan,RKS Radomiak Radom,4,1,,,,,,
+61062021,2025-11-23 16:30,Widzew Lodz,Korona Kielce,1,3,,,,,,
+61062011,2025-11-24 18:00,Pogon Szczecin,Zaglebie Lubin,5,1,,,,,,
+61062039,2025-11-28 17:00,GKS Piast Gliwice,Widzew Lodz,0,2,,,,,,
+61062033,2025-11-28 19:30,RKS Radomiak Radom,Gornik Zabrze,4,0,,,,,,
+61062027,2025-11-29 13:45,KS Lechia Gdansk,Bruk-Bet Termalica Nieciecza,5,1,,,,,,
+61062035,2025-11-29 16:30,Korona Kielce,MKS Cracovia Krakow,0,1,,,,,,
+61062037,2025-11-29 19:15,GKS Katowice,Pogon Szczecin,2,0,,,,,,
+61062023,2025-11-30 13:45,MKS Arka Gdynia,RKS Rakow Czestochowa,1,4,,,,,,
+61062031,2025-11-30 16:30,Zaglebie Lubin,Jagiellonia Bialystok,0,0,,,,,,
+61062025,2025-11-30 19:15,Wisla Plock,KKS Lech Poznan,0,0,,,,,,
+61062029,2025-12-01 18:00,LKP Motor Lublin,Legia Warszawa,1,1,,,,,,
+66203196,2025-12-04 16:00,Wisla Plock,MKS Cracovia Krakow,0,0,,,,,,
+61062045,2025-12-05 19:30,KS Lechia Gdansk,Gornik Zabrze,5,2,,,,,,
+61062041,2025-12-06 11:15,MKS Arka Gdynia,LKP Motor Lublin,1,0,,,,,,
+61062047,2025-12-06 13:45,Pogon Szczecin,RKS Radomiak Radom,2,2,,,,,,
+61062057,2025-12-06 16:30,Zaglebie Lubin,Widzew Lodz,2,1,,,,,,
+61062055,2025-12-06 19:15,GKS Piast Gliwice,Legia Warszawa,2,0,,,,,,
+61062043,2025-12-07 11:15,Bruk-Bet Termalica Nieciecza,Jagiellonia Bialystok,2,1,,,,,,
+61062051,2025-12-07 13:45,MKS Cracovia Krakow,KKS Lech Poznan,2,2,,,,,,
+61062053,2025-12-07 16:30,RKS Rakow Czestochowa,GKS Katowice,1,0,,,,,,
+61062049,2025-12-08 18:00,Korona Kielce,Wisla Plock,1,1,1.909,3.100,3.800,2.25,2.000,1.800
+65538944,2025-12-14 13:45,RKS Rakow Czestochowa,Zaglebie Lubin,0,1,1.500,3.750,6.250,2.5,1.900,1.900
+65539022,2025-12-14 16:30,LKP Motor Lublin,Jagiellonia Bialystok,1,1,2.900,3.500,2.200,2.75,1.800,2.000
+61617090,2025-12-14 19:15,Legia Warszawa,GKS Piast Gliwice,0,1,1.900,3.200,3.900,2.5,2.025,1.775
+61062067,2026-01-30 17:00,Zaglebie Lubin,GKS Katowice,0,2,2.300,3.200,2.900,2.25,1.800,2.000
+61062069,2026-01-31 13:45,Gornik Zabrze,GKS Piast Gliwice,2,1,2.050,3.100,3.600,2.25,2.025,1.775
+61062075,2026-01-31 16:30,Widzew Lodz,Jagiellonia Bialystok,1,3,2.100,3.400,3.100,2.5,1.800,2.000
+61062073,2026-01-31 19:15,KKS Lech Poznan,KS Lechia Gdansk,1,3,1.727,3.800,3.800,3,1.775,2.025
+61062065,2026-02-01 11:15,LKP Motor Lublin,Pogon Szczecin,2,1,2.550,3.500,2.375,3,1.775,2.025
+61062059,2026-02-01 13:45,Wisla Plock,RKS Rakow Czestochowa,2,1,3.500,3.100,2.100,2.25,2.000,1.800
+61062063,2026-02-01 16:30,Legia Warszawa,Korona Kielce,1,2,1.833,3.250,4.200,2.5,2.000,1.800
+61062061,2026-02-02 18:00,Bruk-Bet Termalica Nieciecza,MKS Cracovia Krakow,0,1,2.600,3.100,2.600,2.25,1.850,1.950
+66817116,2026-02-03 19:30,GKS Piast Gliwice,KKS Lech Poznan,1,0,2.875,3.200,2.350,2.5,1.900,1.900
+61062085,2026-02-06 17:00,Korona Kielce,Zaglebie Lubin,1,2,1.700,3.400,4.750,2.25,1.850,1.950
+61062079,2026-02-06 19:30,KS Lechia Gdansk,MKS Cracovia Krakow,1,1,2.000,3.250,3.400,2.5,1.950,1.850
+61062077,2026-02-07 13:45,MKS Arka Gdynia,Legia Warszawa,2,2,4.000,3.500,1.833,2.25,2.000,1.800
+61062091,2026-02-07 16:30,Jagiellonia Bialystok,LKP Motor Lublin,4,1,1.800,3.500,4.100,2.75,1.925,1.875
+61062081,2026-02-07 19:15,Gornik Zabrze,KKS Lech Poznan,0,1,2.200,3.500,2.800,3,2.025,1.775
+61062083,2026-02-08 11:15,Pogon Szczecin,Bruk-Bet Termalica Nieciecza,1,1,1.533,4.200,5.000,3,1.875,1.925
+61062089,2026-02-08 13:45,RKS Rakow Czestochowa,RKS Radomiak Radom,0,0,1.700,3.600,4.500,2.5,1.900,1.900
+61062087,2026-02-08 16:30,GKS Katowice,Widzew Lodz,1,0,3.000,3.300,2.150,2.5,1.900,1.900
+61062093,2026-02-09 18:00,GKS Piast Gliwice,Wisla Plock,1,0,2.100,3.100,3.400,2.25,2.000,1.800
+61062103,2026-02-13 17:00,RKS Radomiak Radom,Korona Kielce,0,2,2.100,3.400,3.100,2.75,1.975,1.825
+61062109,2026-02-13 19:30,GKS Katowice,Legia Warszawa,1,1,3.300,3.250,2.050,2.5,1.900,1.900
+61062107,2026-02-14 13:45,MKS Cracovia Krakow,Jagiellonia Bialystok,0,0,2.600,3.100,2.600,2.25,1.825,1.975
+61062101,2026-02-14 16:30,Zaglebie Lubin,RKS Rakow Czestochowa,0,0,3.800,3.100,1.909,2.25,1.975,1.825
+61062095,2026-02-14 19:15,Wisla Plock,Widzew Lodz,0,2,3.000,3.100,2.250,2.25,1.950,1.850
+61062099,2026-02-15 11:15,LKP Motor Lublin,KS Lechia Gdansk,2,3,2.150,3.500,2.875,3,2.000,1.800
+61062105,2026-02-15 13:45,Pogon Szczecin,MKS Arka Gdynia,1,0,1.600,3.750,5.000,2.75,1.850,1.950
+61062111,2026-02-15 16:30,KKS Lech Poznan,GKS Piast Gliwice,3,0,1.850,3.500,3.800,2.75,1.800,2.000
+61062097,2026-02-16 18:00,Bruk-Bet Termalica Nieciecza,Gornik Zabrze,1,1,3.300,3.400,2.000,2.75,1.950,1.850
+61062127,2026-02-20 17:00,GKS Piast Gliwice,LKP Motor Lublin,1,2,2.100,3.300,3.250,2.5,1.975,1.825
+61062129,2026-02-20 19:30,Widzew Lodz,MKS Cracovia Krakow,0,0,1.900,3.250,4.000,2.25,1.975,1.825
+61062123,2026-02-21 14:00,RKS Rakow Czestochowa,Bruk-Bet Termalica Nieciecza,1,0,1.400,4.200,6.500,2.75,1.800,2.000
+61062119,2026-02-21 16:45,Gornik Zabrze,Pogon Szczecin,0,1,1.833,3.500,3.750,2.75,1.800,2.000
+61062115,2026-02-21 19:30,Legia Warszawa,Wisla Plock,2,1,1.727,3.400,4.750,2.25,1.775,2.025
+61062113,2026-02-22 11:15,MKS Arka Gdynia,GKS Katowice,2,1,3.000,3.200,2.300,2.25,1.800,2.000
+61062125,2026-02-22 13:45,Jagiellonia Bialystok,RKS Radomiak Radom,1,1,1.850,3.600,3.600,3,2.000,1.800
+61062121,2026-02-22 16:30,Korona Kielce,KKS Lech Poznan,1,2,2.750,3.500,2.250,2.75,1.850,1.950
+61062117,2026-02-23 18:00,KS Lechia Gdansk,Zaglebie Lubin,0,2,1.666,3.600,4.500,2.75,1.975,1.825
+61062141,2026-02-27 17:00,MKS Cracovia Krakow,GKS Piast Gliwice,2,3,2.150,3.100,3.250,2,1.775,2.025
+61062131,2026-02-27 19:30,MKS Arka Gdynia,KS Lechia Gdansk,2,2,3.100,3.200,2.150,2.5,1.800,2.000
+61062139,2026-02-28 13:45,Pogon Szczecin,Widzew Lodz,1,0,2.300,3.400,2.800,2.75,1.950,1.850
+61062135,2026-02-28 16:30,LKP Motor Lublin,Korona Kielce,2,0,2.150,3.400,3.000,2.5,1.975,1.825
+61062143,2026-02-28 19:15,GKS Katowice,Gornik Zabrze,3,1,2.600,3.300,2.500,2.5,1.900,1.900
+61062133,2026-03-01 11:15,Bruk-Bet Termalica Nieciecza,RKS Radomiak Radom,1,1,2.500,3.500,2.500,2.75,1.950,1.850
+61062147,2026-03-01 13:45,Jagiellonia Bialystok,Legia Warszawa,2,2,2.200,3.400,3.000,2.5,1.800,2.000
+61062145,2026-03-01 16:30,KKS Lech Poznan,RKS Rakow Czestochowa,4,3,2.050,3.500,3.100,2.75,2.000,1.800
+61062137,2026-03-02 18:00,Zaglebie Lubin,Wisla Plock,2,0,2.350,3.100,2.900,2.25,1.925,1.875
+69259504,2026-03-05 19:30,RKS Radomiak Radom,MKS Arka Gdynia,3,1,1.727,3.700,4.500,2.5,1.800,2.000
+61062153,2026-03-06 19:30,KS Lechia Gdansk,Jagiellonia Bialystok,3,0,2.300,3.600,2.750,3,1.950,1.850
+61062159,2026-03-07 13:45,Korona Kielce,Bruk-Bet Termalica Nieciecza,2,1,1.650,4.100,4.750,2.75,2.025,1.775
+61062163,2026-03-07 16:30,GKS Piast Gliwice,Zaglebie Lubin,1,3,1.850,3.250,4.100,2.25,1.875,1.925
+61062165,2026-03-07 19:15,Widzew Lodz,KKS Lech Poznan,2,1,2.250,3.500,3.100,2.75,1.825,1.975
+61062155,2026-03-08 11:15,LKP Motor Lublin,Gornik Zabrze,0,0,2.800,3.300,2.300,2.75,1.800,2.000
+61062157,2026-03-08 13:45,RKS Radomiak Radom,GKS Katowice,0,1,2.050,3.400,3.200,2.75,1.975,1.825
+61062161,2026-03-08 16:30,RKS Rakow Czestochowa,Pogon Szczecin,2,0,1.900,3.500,4.000,2.75,2.000,1.800
+61062151,2026-03-08 19:15,Legia Warszawa,MKS Cracovia Krakow,1,0,1.800,3.250,4.333,2.25,1.800,2.000
+61062149,2026-03-09 18:00,Wisla Plock,MKS Arka Gdynia,0,3,1.950,3.100,3.900,2.25,2.000,1.800
+61062169,2026-03-13 17:00,Bruk-Bet Termalica Nieciecza,LKP Motor Lublin,1,2,2.450,3.600,2.450,2.75,1.775,2.025
+61062175,2026-03-13 19:30,RKS Radomiak Radom,Legia Warszawa,1,1,2.500,3.200,2.550,2.5,1.950,1.850
+61062183,2026-03-14 13:45,Jagiellonia Bialystok,GKS Piast Gliwice,1,2,1.800,3.600,4.000,2.75,1.925,1.875
+61062181,2026-03-14 16:30,GKS Katowice,KS Lechia Gdansk,2,0,2.250,3.500,2.700,2.75,1.850,1.950
+61062179,2026-03-14 19:15,MKS Cracovia Krakow,Wisla Plock,1,2,1.850,3.200,4.200,2.25,1.950,1.850
+61062167,2026-03-15 11:15,MKS Arka Gdynia,Widzew Lodz,0,0,3.250,3.100,2.200,2.25,2.025,1.775
+61062171,2026-03-15 13:45,Zaglebie Lubin,KKS Lech Poznan,0,1,4.000,3.300,1.833,2.75,1.800,2.000
+61062173,2026-03-15 16:30,Gornik Zabrze,RKS Rakow Czestochowa,3,1,2.300,3.100,3.000,2.25,1.925,1.875
+61062177,2026-03-16 18:00,Pogon Szczecin,Korona Kielce,2,1,2.050,3.400,3.200,2.75,1.950,1.850
+69496210,2026-03-17 18:00,Jagiellonia Bialystok,GKS Katowice,2,1,1.700,3.750,4.333,2.75,1.825,1.975
+61062199,2026-03-20 17:00,GKS Piast Gliwice,RKS Radomiak Radom,3,1,2.200,3.100,3.250,2.25,1.975,1.825
+61062191,2026-03-20 19:30,LKP Motor Lublin,Zaglebie Lubin,1,0,2.000,3.400,3.250,2.5,1.825,1.975
+61062195,2026-03-21 13:45,MKS Cracovia Krakow,GKS Katowice,1,0,2.200,3.100,3.100,2.25,1.900,1.900
+61062189,2026-03-21 16:30,KS Lechia Gdansk,Pogon Szczecin,2,1,2.450,3.300,2.550,3,1.975,1.825
+63157399,2026-03-21 19:15,Jagiellonia Bialystok,Wisla Plock,1,2,1.571,3.750,5.250,2.75,1.975,1.825
+61062193,2026-03-22 11:15,Korona Kielce,MKS Arka Gdynia,3,0,1.950,3.000,4.200,2.25,1.925,1.875
+61062197,2026-03-22 13:45,KKS Lech Poznan,Bruk-Bet Termalica Nieciecza,4,1,1.285,5.000,8.000,3.5,1.900,1.900
+61062207,2026-03-22 16:30,Widzew Lodz,Gornik Zabrze,0,0,2.200,3.100,3.100,2.25,2.000,1.800
+61062187,2026-03-22 19:15,Legia Warszawa,RKS Rakow Czestochowa,1,1,2.050,3.300,3.250,2.25,1.800,2.000
+61062221,2026-04-04 10:15,GKS Katowice,Wisla Plock,1,0,1.833,3.500,3.800,2.5,1.925,1.875
+61062223,2026-04-04 12:45,RKS Rakow Czestochowa,Widzew Lodz,1,1,2.050,3.100,3.600,2.25,1.925,1.875
+61062215,2026-04-04 15:30,Gornik Zabrze,MKS Cracovia Krakow,3,0,1.800,3.200,4.500,2.25,2.000,1.800
+61062225,2026-04-04 18:15,Jagiellonia Bialystok,KKS Lech Poznan,0,0,2.600,3.600,2.350,3,1.850,1.950
+61062211,2026-04-06 10:15,Bruk-Bet Termalica Nieciecza,GKS Piast Gliwice,3,2,3.000,3.400,2.150,2.5,1.800,2.000
+61062217,2026-04-06 12:45,RKS Radomiak Radom,LKP Motor Lublin,1,1,2.150,3.400,2.900,2.75,1.900,1.900
+61062219,2026-04-06 15:30,Pogon Szczecin,Legia Warszawa,0,2,2.400,3.400,2.625,2.75,1.975,1.825
+61062213,2026-04-06 18:15,KS Lechia Gdansk,Korona Kielce,4,2,1.900,3.600,3.400,2.75,1.825,1.975
+61062209,2026-04-07 17:00,MKS Arka Gdynia,Zaglebie Lubin,3,1,2.450,3.000,2.875,2,1.825,1.975
+61062227,2026-04-10 16:00,Wisla Plock,KS Lechia Gdansk,1,0,2.750,3.400,2.250,2.5,1.950,1.850
+61062235,2026-04-10 18:30,Korona Kielce,Jagiellonia Bialystok,1,1,2.600,3.400,2.400,2.75,1.925,1.875
+61062245,2026-04-11 12:45,Widzew Lodz,Bruk-Bet Termalica Nieciecza,1,0,1.400,4.200,7.000,2.75,1.950,1.850
+61062233,2026-04-11 15:30,Zaglebie Lubin,RKS Radomiak Radom,1,0,2.250,3.200,2.900,2.5,2.000,1.800
+61062229,2026-04-11 18:15,Legia Warszawa,Gornik Zabrze,1,1,2.050,3.300,3.500,2.5,1.800,2.000
+61062239,2026-04-12 10:15,MKS Cracovia Krakow,MKS Arka Gdynia,2,2,1.800,3.250,4.333,2.25,1.900,1.900
+61062231,2026-04-12 12:45,LKP Motor Lublin,RKS Rakow Czestochowa,1,1,2.750,3.400,2.350,2.75,1.975,1.825
+61062241,2026-04-12 15:30,KKS Lech Poznan,GKS Katowice,3,3,1.444,4.500,5.500,3.5,2.000,1.800
+61062243,2026-04-13 17:00,GKS Piast Gliwice,Pogon Szczecin,0,2,2.000,3.500,3.300,2.5,1.825,1.975
+61062261,2026-04-17 16:00,GKS Katowice,LKP Motor Lublin,3,2,1.950,3.600,3.400,2.75,1.775,2.025
+61062251,2026-04-17 18:30,Legia Warszawa,Zaglebie Lubin,1,0,1.550,3.700,6.000,2.25,1.800,2.000
+61062257,2026-04-18 12:45,RKS Radomiak Radom,Widzew Lodz,2,1,3.100,3.100,2.200,2.25,2.000,1.800
+61062255,2026-04-18 15:30,Gornik Zabrze,Korona Kielce,1,0,1.850,3.400,3.900,2.5,1.900,1.900
+61062259,2026-04-18 18:15,Pogon Szczecin,KKS Lech Poznan,1,2,2.900,3.700,2.100,3,1.825,1.975
+61062249,2026-04-19 10:15,Bruk-Bet Termalica Nieciecza,Wisla Plock,1,3,2.600,3.300,2.500,2.75,1.925,1.875
+61062263,2026-04-19 12:45,RKS Rakow Czestochowa,MKS Cracovia Krakow,4,1,1.850,3.300,4.100,2.25,1.950,1.850
+61062247,2026-04-19 15:30,MKS Arka Gdynia,Jagiellonia Bialystok,0,3,3.200,3.300,2.100,2.5,1.875,1.925
+61062253,2026-04-20 17:00,KS Lechia Gdansk,GKS Piast Gliwice,1,1,1.950,3.700,3.200,3,2.000,1.800
+61062269,2026-04-24 16:00,Zaglebie Lubin,Bruk-Bet Termalica Nieciecza,1,2,1.833,3.500,3.800,2.75,1.975,1.825
+61062277,2026-04-24 18:30,Jagiellonia Bialystok,Gornik Zabrze,1,2,2.250,3.300,2.875,2.5,1.825,1.975
+61062271,2026-04-25 12:45,Korona Kielce,GKS Katowice,1,1,2.050,3.500,3.100,2.75,2.000,1.800
+61062267,2026-04-25 15:30,KS Lechia Gdansk,RKS Rakow Czestochowa,1,2,2.200,3.500,2.800,2.75,1.900,1.900
+61062273,2026-04-25 18:15,MKS Cracovia Krakow,Pogon Szczecin,1,1,2.250,3.100,3.100,2.25,1.975,1.825
+61062265,2026-04-26 10:15,Wisla Plock,RKS Radomiak Radom,0,1,2.400,3.250,2.700,2.5,2.025,1.775
+61062281,2026-04-26 12:45,Widzew Lodz,LKP Motor Lublin,2,0,1.650,3.750,4.750,2.75,1.975,1.825
+61062275,2026-04-26 15:30,KKS Lech Poznan,Legia Warszawa,4,0,1.900,3.500,3.600,2.75,1.900,1.900
+61062279,2026-04-27 17:00,GKS Piast Gliwice,MKS Arka Gdynia,4,1,1.750,3.300,4.333,2.5,1.775,2.025
+61062295,2026-05-01 15:30,Korona Kielce,GKS Piast Gliwice,1,1,2.200,3.100,3.200,2.75,1.800,2.000
+61062285,2026-05-01 18:30,Legia Warszawa,Widzew Lodz,1,0,1.909,3.100,4.100,2.25,2.000,1.800
+61062287,2026-05-02 18:15,LKP Motor Lublin,KKS Lech Poznan,0,1,4.000,4.200,1.666,3.5,2.000,1.800
+61062297,2026-05-03 10:15,GKS Katowice,Bruk-Bet Termalica Nieciecza,5,2,1.550,4.500,5.250,3.25,1.875,1.925
+61062289,2026-05-03 12:45,Zaglebie Lubin,MKS Cracovia Krakow,0,0,3.000,2.800,2.400,2,2.000,1.800
+61062293,2026-05-03 15:30,Pogon Szczecin,Wisla Plock,3,0,1.833,3.400,3.900,2.5,1.850,1.950
+61062291,2026-05-04 17:00,RKS Radomiak Radom,KS Lechia Gdansk,3,1,2.450,3.400,2.500,2.75,1.800,2.000
+61062311,2026-05-08 16:00,RKS Rakow Czestochowa,Korona Kielce,3,0,1.850,3.400,3.750,2.75,1.800,2.000
+61062309,2026-05-08 18:30,KKS Lech Poznan,MKS Arka Gdynia,1,1,1.300,5.250,7.500,3.25,1.950,1.850
+61062317,2026-05-09 12:45,Widzew Lodz,KS Lechia Gdansk,3,1,2.100,3.200,3.200,2.5,1.900,1.900
+61062313,2026-05-09 15:30,Jagiellonia Bialystok,Pogon Szczecin,3,2,1.700,3.800,4.200,3.25,1.800,2.000
+61062305,2026-05-09 18:15,Gornik Zabrze,Zaglebie Lubin,0,2,1.615,3.400,5.250,2.5,2.025,1.775
+61062315,2026-05-10 10:15,GKS Piast Gliwice,GKS Katowice,0,1,2.000,3.500,3.300,2.75,1.875,1.925
+61062301,2026-05-10 12:45,Wisla Plock,LKP Motor Lublin,0,4,2.300,3.400,2.800,2.75,1.875,1.925
+61062303,2026-05-10 15:30,Bruk-Bet Termalica Nieciecza,Legia Warszawa,0,1,4.500,3.800,1.650,2.75,2.000,1.800
+61062307,2026-05-11 17:00,MKS Cracovia Krakow,RKS Radomiak Radom,0,0,1.800,3.300,4.200,2.5,1.900,1.900
+61062283,2026-05-13 16:00,MKS Arka Gdynia,Gornik Zabrze,0,0,3.750,3.400,1.909,2.5,1.850,1.950
+61062299,2026-05-13 18:30,RKS Rakow Czestochowa,Jagiellonia Bialystok,0,2,2.050,3.400,3.200,2.5,1.825,1.975
+61062327,2026-05-15 16:00,Zaglebie Lubin,Pogon Szczecin,0,1,2.450,3.250,2.625,2.5,1.975,1.825
+61062331,2026-05-15 18:30,Korona Kielce,Widzew Lodz,1,0,2.375,2.900,3.000,2,1.775,2.025
+61062325,2026-05-16 12:45,LKP Motor Lublin,MKS Cracovia Krakow,3,3,2.750,3.500,2.300,2.5,1.825,1.975
+61062321,2026-05-16 15:30,Wisla Plock,Gornik Zabrze,0,1,3.800,3.400,1.850,2.5,1.900,1.900
+61062329,2026-05-16 18:15,RKS Radomiak Radom,KKS Lech Poznan,1,3,3.900,3.900,1.727,3.25,1.950,1.850
+61062335,2026-05-17 10:15,GKS Piast Gliwice,RKS Rakow Czestochowa,1,3,2.350,3.250,2.800,2.5,1.975,1.825
+61062333,2026-05-17 12:45,GKS Katowice,Jagiellonia Bialystok,2,2,2.250,3.600,2.700,3,1.900,1.900
+71262292,2026-05-17 15:30,KS Lechia Gdansk,Legia Warszawa,1,2,2.100,3.500,3.000,2.75,1.950,1.850
+61062319,2026-05-18 17:00,MKS Arka Gdynia,Bruk-Bet Termalica Nieciecza,2,3,1.666,3.750,4.200,2.75,1.800,2.000
+61062337,2026-05-23 15:30,Bruk-Bet Termalica Nieciecza,KS Lechia Gdansk,3,2,3.600,4.200,1.727,3.5,1.975,1.825
+61062339,2026-05-23 15:30,Legia Warszawa,LKP Motor Lublin,4,0,1.450,4.333,5.500,3.25,2.025,1.775
+61062341,2026-05-23 15:30,Gornik Zabrze,RKS Radomiak Radom,6,2,1.400,4.200,7.000,3,2.000,1.800
+61062343,2026-05-23 15:30,Pogon Szczecin,GKS Katowice,1,1,2.400,3.600,2.450,3.25,1.950,1.850
+61062345,2026-05-23 15:30,MKS Cracovia Krakow,Korona Kielce,1,1,2.000,2.700,4.500,2.25,1.900,1.900
+61062347,2026-05-23 15:30,KKS Lech Poznan,Wisla Plock,3,2,1.333,5.000,6.500,3.25,1.850,1.950
+61062349,2026-05-23 15:30,RKS Rakow Czestochowa,MKS Arka Gdynia,3,0,1.222,5.250,11.000,3,1.875,1.925
+61062351,2026-05-23 15:30,Jagiellonia Bialystok,Zaglebie Lubin,1,0,1.400,4.500,6.500,3,1.825,1.975
+61062353,2026-05-23 15:30,Widzew Lodz,GKS Piast Gliwice,2,1,2.350,3.000,2.900,2.25,1.825,1.975
+72043020,2026-07-24 16:00,RKS Radomiak Radom,Wieczysta Krakow,2,1,2.300,3.250,3.000,2.75,1.850,1.950
+72043022,2026-07-24 18:30,Pogon Szczecin,Legia Warszawa,0,1,2.550,3.250,2.500,2.5,2.000,1.800
+72043028,2026-07-25 12:45,Jagiellonia Bialystok,Korona Kielce,1,0,1.950,3.300,3.500,2.5,1.900,1.900
+72043030,2026-07-25 15:30,Gornik Zabrze,WKS Slask Wroclaw,2,1,1.800,3.500,4.100,2.5,1.825,1.975
+72043034,2026-07-25 18:15,KKS Lech Poznan,KS Cracovia Krakow,0,0,1.533,4.000,5.250,3,2.000,1.800
+72043024,2026-07-26 12:45,RKS Rakow Czestochowa,Wisla Plock,1,2,1.666,3.600,4.500,2.5,1.925,1.875
+72043026,2026-07-26 15:30,Widzew Lodz,LKP Motor Lublin,2,2,1.750,3.700,4.100,2.5,1.925,1.875
+72043018,2026-07-26 18:15,Wisla Krakow,GKS Katowice,2,1,2.050,3.400,3.200,2.75,1.975,1.825
+72043032,2026-07-27 17:00,Zaglebie Lubin,GKS Piast Gliwice,2,0,2.450,3.300,2.700,2.25,1.950,1.850
+72043052,2026-07-31 16:00,Wisla Plock,Widzew Lodz,0,0,2.900,3.250,2.250,2.25,1.950,1.850
+72043036,2026-07-31 18:30,LKP Motor Lublin,Jagiellonia Bialystok,1,2,2.800,3.400,2.250,3,2.000,1.800
+72043050,2026-08-01 12:45,GKS Piast Gliwice,Wisla Krakow,4,3,2.400,2.900,3.000,2.5,1.850,1.950
+72043040,2026-08-01 15:30,Wieczysta Krakow,KKS Lech Poznan,1,2,3.100,3.500,2.050,3,1.875,1.925
+72043044,2026-08-02 12:45,Legia Warszawa,Zaglebie Lubin,3,1,1.615,3.700,4.750,2.5,1.950,1.850
+72043048,2026-08-02 15:30,WKS Slask Wroclaw,RKS Rakow Czestochowa,2,1,3.100,3.600,2.200,2.75,2.000,1.800
+72043046,2026-08-02 18:15,GKS Katowice,RKS Radomiak Radom,3,1,2.000,3.500,3.200,2.5,1.800,2.000
+72043042,2026-08-03 17:00,KS Cracovia Krakow,Pogon Szczecin,0,2,2.150,3.300,3.100,2.25,1.775,2.025
+72043056,2026-08-07 18:30,Wisla Krakow,Wisla Plock,2,1,1.700,3.800,4.000,2.75,1.800,2.000
+72043058,2026-08-08 12:45,RKS Radomiak Radom,Gornik Zabrze,1,3,2.600,3.300,2.500,2.5,1.875,1.925
+72043060,2026-08-08 15:30,Pogon Szczecin,LKP Motor Lublin,3,1,1.900,3.600,3.600,3,1.975,1.825
+72043054,2026-08-08 18:15,Korona Kielce,Legia Warszawa,1,1,3.000,3.200,2.300,2.25,1.825,1.975
+72043066,2026-08-09 12:45,WKS Slask Wroclaw,KS Cracovia Krakow,0,0,2.375,3.300,2.750,2.5,1.900,1.900
+72043070,2026-08-09 15:30,KKS Lech Poznan,GKS Piast Gliwice,3,0,1.533,4.200,5.000,3,1.875,1.925
+72043068,2026-08-09 18:15,Jagiellonia Bialystok,Widzew Lodz,0,2,2.450,3.200,2.700,2.25,1.800,2.000
+72043076,2026-08-14 18:30,Legia Warszawa,RKS Radomiak Radom,5,0,1.480,3.900,6.250,2.75,1.975,1.825
+72043086,2026-08-15 12:45,Zaglebie Lubin,WKS Slask Wroclaw,2,1,2.100,3.300,3.200,2.5,1.850,1.950
+72043080,2026-08-15 15:30,GKS Piast Gliwice,Wieczysta Krakow,3,4,2.100,3.300,3.200,2.75,1.875,1.925
+72043078,2026-08-15 18:15,Widzew Lodz,Korona Kielce,1,2,1.950,3.100,3.800,2.25,1.900,1.900
+72043072,2026-08-16 12:45,LKP Motor Lublin,GKS Katowice,1,0,2.150,3.600,2.800,3,1.875,1.925
+72043074,2026-08-16 15:30,KS Cracovia Krakow,RKS Rakow Czestochowa,2,1,2.450,3.100,2.750,2.25,1.775,2.025
+72043084,2026-08-16 18:15,Gornik Zabrze,Wisla Krakow,2,1,2.050,3.400,3.250,3,2.025,1.775
+72043092,2026-08-21 18:30,KS Cracovia Krakow,Wieczysta Krakow,3,2,2.100,3.200,3.200,2.5,1.900,1.900
+72043090,2026-08-22 12:45,Korona Kielce,LKP Motor Lublin,1,1,1.750,3.600,4.000,2.75,1.950,1.850
+72043104,2026-08-22 15:30,GKS Piast Gliwice,Legia Warszawa,1,1,3.600,3.400,1.950,2.5,1.875,1.925
+72043102,2026-08-22 18:15,WKS Slask Wroclaw,Widzew Lodz,3,3,3.100,3.200,2.150,2.5,1.950,1.850
+72043094,2026-08-23 12:45,RKS Radomiak Radom,Zaglebie Lubin,0,0,2.500,3.300,2.550,2.75,2.000,1.800
+72043100,2026-08-23 15:30,GKS Katowice,Wisla Plock,5,0,1.833,3.600,3.700,2.75,1.850,1.950
+72043096,2026-08-23 18:15,Pogon Szczecin,Wisla Krakow,2,2,2.100,3.600,3.000,3,1.950,1.850
+72043124,2026-08-28 16:00,Wisla Plock,Korona Kielce,0,2,2.400,3.200,2.700,2.5,1.975,1.825
+72043114,2026-08-28 18:30,Legia Warszawa,WKS Slask Wroclaw,1,1,1.480,3.900,6.500,2.75,1.850,1.950
+72043112,2026-08-29 10:15,RKS Radomiak Radom,KS Cracovia Krakow,2,1,2.800,3.200,2.350,2.5,1.875,1.925
+72043108,2026-08-29 12:45,LKP Motor Lublin,GKS Piast Gliwice,0,2,2.300,3.400,2.800,3,2.000,1.800
+72043110,2026-08-29 15:30,Wisla Krakow,Wieczysta Krakow,2,0,1.833,3.700,3.500,3,1.875,1.925
+72043122,2026-08-29 18:15,Zaglebie Lubin,Pogon Szczecin,0,0,2.750,3.100,2.450,2.5,1.975,1.825
+72043116,2026-08-30 12:45,RKS Rakow Czestochowa,Jagiellonia Bialystok,2,5,1.950,3.400,3.400,2.75,1.900,1.900
+72043120,2026-08-30 15:30,Gornik Zabrze,GKS Katowice,2,3,1.800,3.500,4.100,2.75,1.875,1.925
+72043118,2026-08-30 18:15,Widzew Lodz,KKS Lech Poznan,2,3,3.100,3.300,2.100,2.75,1.875,1.925
+72043098,2026-09-03 16:00,RKS Rakow Czestochowa,Gornik Zabrze,1,2,2.700,3.250,2.450,2.75,1.825,1.975
+73716490,2026-09-03 18:30,KKS Lech Poznan,Jagiellonia Bialystok,2,1,1.550,4.200,5.000,3.25,1.875,1.925
+72043138,2026-09-04 18:30,GKS Piast Gliwice,GKS Katowice,3,0,2.250,3.500,2.700,3,1.775,2.025
+72043136,2026-09-05 12:45,Widzew Lodz,RKS Radomiak Radom,0,0,1.600,3.700,5.000,2.75,1.825,1.975
+72043128,2026-09-05 15:30,Korona Kielce,Wisla Krakow,1,1,2.200,3.300,3.000,2.5,1.800,2.000
+72043126,2026-09-05 18:15,LKP Motor Lublin,Legia Warszawa,2,3,3.400,3.600,1.909,2.75,1.950,1.850
+72043132,2026-09-06 12:45,KS Cracovia Krakow,Gornik Zabrze,0,1,2.500,3.400,2.500,2.5,1.900,1.900
+72043142,2026-09-06 15:30,KKS Lech Poznan,RKS Rakow Czestochowa,1,0,1.550,4.500,4.500,3.25,2.000,1.800
+72043140,2026-09-06 18:15,Jagiellonia Bialystok,WKS Slask Wroclaw,2,1,1.666,4.100,4.100,3,1.825,1.975
+72043130,2026-09-07 16:00,Wieczysta Krakow,Zaglebie Lubin,1,1,1.850,3.600,3.600,2.75,1.900,1.900
+72043134,2026-09-07 18:30,Pogon Szczecin,Wisla Plock,1,1,2.150,3.400,3.000,2.75,2.000,1.800
+72043152,2026-09-11 16:00,RKS Rakow Czestochowa,LKP Motor Lublin,2,1,1.909,3.600,3.400,3,1.850,1.950
+72043144,2026-09-11 18:30,Wisla Krakow,Jagiellonia Bialystok,2,0,2.150,3.700,2.875,3,1.825,1.975
+72043154,2026-09-12 12:45,WKS Slask Wroclaw,Korona Kielce,1,2,2.800,3.200,2.400,2.5,1.875,1.925
+72043156,2026-09-12 15:30,Gornik Zabrze,KKS Lech Poznan,2,1,2.750,3.400,2.300,3,2.025,1.775
+72043158,2026-09-12 18:15,Zaglebie Lubin,GKS Katowice,2,1,2.625,3.300,2.400,2.75,1.975,1.825
+72043160,2026-09-13 10:15,Wisla Plock,KS Cracovia Krakow,3,1,2.750,3.400,2.450,2.5,1.900,1.900
+72043150,2026-09-13 12:45,Pogon Szczecin,Wieczysta Krakow,2,0,2.250,3.500,3.000,3,1.900,1.900
+72043148,2026-09-13 15:30,Legia Warszawa,Widzew Lodz,1,1,1.950,3.400,3.900,2.25,1.800,2.000
+72043146,2026-09-14 17:00,RKS Radomiak Radom,GKS Piast Gliwice,0,2,2.450,3.500,2.625,2.75,1.775,2.025
+74101934,2026-09-15 16:00,RKS Rakow Czestochowa,Zaglebie Lubin,2,3,1.727,3.900,4.500,2.75,1.900,1.900
+74021804,2026-09-15 18:30,Korona Kielce,Gornik Zabrze,0,2,2.625,3.400,2.600,2.5,1.950,1.850
+72043170,2026-09-18 16:30,Widzew Lodz,Wieczysta Krakow,2,2,1.950,3.500,3.400,2.75,1.925,1.875
+72043166,2026-09-18 18:30,Wisla Krakow,WKS Slask Wroclaw,2,1,1.533,4.000,5.250,3,2.000,1.800
+72043164,2026-09-19 12:45,Korona Kielce,RKS Rakow Czestochowa,3,2,2.100,3.400,3.000,2.75,1.975,1.825
+72043168,2026-09-19 15:30,GKS Katowice,KS Cracovia Krakow,3,2,2.200,3.400,2.900,2.75,1.850,1.950
+72043162,2026-09-19 18:15,LKP Motor Lublin,Gornik Zabrze,0,0,3.100,3.300,2.150,2.5,1.825,1.975
+72043172,2026-09-20 10:15,GKS Piast Gliwice,Pogon Szczecin,1,2,2.250,3.400,2.800,2.75,1.850,1.950
+72043176,2026-09-20 12:45,Zaglebie Lubin,Wisla Plock,0,2,2.450,3.250,2.700,2.5,1.925,1.875
+72043174,2026-09-20 15:30,Jagiellonia Bialystok,Legia Warszawa,1,3,2.550,3.400,2.500,2.75,1.875,1.925
+72043178,2026-09-20 18:15,KKS Lech Poznan,RKS Radomiak Radom,5,1,1.333,5.000,7.000,3.5,1.900,1.900
+72043180,2026-10-09 16:00,Wieczysta Krakow,Wisla Plock,3,0,2.000,3.500,3.200,3,1.950,1.850
+72043190,2026-10-09 18:30,RKS Rakow Czestochowa,GKS Katowice,1,4,2.100,3.600,3.000,3.25,1.925,1.875
+72043182,2026-10-10 12:45,KS Cracovia Krakow,Zaglebie Lubin,3,1,1.850,3.300,3.750,2.5,1.850,1.950
+72043192,2026-10-10 15:30,WKS Slask Wroclaw,KKS Lech Poznan,1,4,4.200,3.800,1.666,3.25,2.000,1.800
+72043196,2026-10-10 18:15,Jagiellonia Bialystok,Gornik Zabrze,1,3,2.450,3.300,2.625,2.5,1.850,1.950
+72043194,2026-10-11 12:45,GKS Piast Gliwice,Widzew Lodz,2,1,2.600,3.250,2.450,2.75,1.975,1.825
+72043188,2026-10-11 15:30,Pogon Szczecin,Korona Kielce,2,0,2.300,3.100,3.000,2.5,2.000,1.800
+72043186,2026-10-11 18:15,Legia Warszawa,Wisla Krakow,2,0,2.250,3.100,3.000,2.5,1.950,1.850
+72043184,2026-10-12 16:00,RKS Radomiak Radom,LKP Motor Lublin,2,3,2.600,3.250,2.450,2.75,1.800,2.000
+74128332,2026-10-12 18:30,GKS Katowice,Wieczysta Krakow,2,1,1.950,3.700,3.200,3.25,1.825,1.975
+72043200,2026-10-16 16:00,Wieczysta Krakow,RKS Rakow Czestochowa,1,2,1.850,3.600,3.600,3,1.850,1.950
+72043206,2026-10-16 18:30,Widzew Lodz,Wisla Krakow,0,0,2.300,3.400,2.800,2.75,1.900,1.900
+72043198,2026-10-17 12:45,LKP Motor Lublin,WKS Slask Wroclaw,3,2,1.833,3.600,3.750,3,1.950,1.850
+72043204,2026-10-17 15:30,GKS Katowice,Pogon Szczecin,0,1,2.050,3.400,3.250,3,2.000,1.800
+72043202,2026-10-17 18:15,KS Cracovia Krakow,Legia Warszawa,1,1,2.800,3.250,2.350,2.5,1.900,1.900
+72043208,2026-10-18 10:15,Gornik Zabrze,GKS Piast Gliwice,1,1,1.550,3.900,5.250,2.75,1.850,1.950
+72043210,2026-10-18 12:45,Zaglebie Lubin,Jagiellonia Bialystok,1,0,2.450,3.500,2.550,2.5,1.850,1.950
+72043214,2026-10-18 15:30,KKS Lech Poznan,Korona Kielce,6,1,1.650,3.900,4.500,3,1.900,1.900
+72043212,2026-10-19 17:00,Wisla Plock,RKS Radomiak Radom,1,0,1.750,3.600,4.000,2.75,1.800,2.000
+72043216,2026-10-23 16:00,LKP Motor Lublin,Zaglebie Lubin,2,2,1.900,3.500,3.500,2.75,1.875,1.925
+72043284,2026-10-23 18:30,Widzew Lodz,Gornik Zabrze,1,1,3.000,3.200,2.300,2.25,1.825,1.975
+72043286,2026-10-24 10:15,GKS Piast Gliwice,KS Cracovia Krakow,3,1,2.300,3.500,2.700,2.75,1.825,1.975
+72043218,2026-10-24 12:45,Korona Kielce,GKS Katowice,1,0,2.100,3.600,3.000,3,2.025,1.775
+72043224,2026-10-24 15:30,Pogon Szczecin,RKS Radomiak Radom,4,3,1.533,3.900,5.000,3,1.975,1.825
+72043220,2026-10-24 18:15,Wisla Krakow,RKS Rakow Czestochowa,2,1,1.727,3.750,4.000,2.75,1.775,2.025
+72043258,2026-10-25 11:15,WKS Slask Wroclaw,Wieczysta Krakow,2,0,2.875,3.600,2.150,3,1.800,2.000
+72043288,2026-10-25 13:45,Jagiellonia Bialystok,Wisla Plock,1,0,1.900,3.600,3.400,2.75,1.850,1.950
+72043222,2026-10-25 16:30,Legia Warszawa,KKS Lech Poznan,1,2,2.550,3.500,2.450,3,2.000,1.800
+72043292,2026-10-30 17:00,KS Cracovia Krakow,LKP Motor Lublin,1,2,2.200,3.300,3.000,2.5,1.800,2.000
+72043300,2026-10-30 19:30,Gornik Zabrze,Legia Warszawa,0,0,1.909,3.300,3.600,2.5,1.975,1.825
+72043304,2026-10-31 11:15,Wisla Plock,GKS Piast Gliwice,2,2,2.050,3.400,3.100,2.75,1.850,1.950
+72043290,2026-10-31 13:45,Wieczysta Krakow,Jagiellonia Bialystok,1,3,2.375,3.400,2.625,3.25,1.975,1.825
+72043306,2026-10-31 16:30,KKS Lech Poznan,Wisla Krakow,3,1,1.900,3.600,3.500,3,1.850,1.950
+72043298,2026-10-31 19:15,GKS Katowice,Widzew Lodz,3,2,2.000,3.600,3.200,3,1.975,1.825
+72043294,2026-11-02 17:00,RKS Radomiak Radom,WKS Slask Wroclaw,3,1,1.909,3.600,3.500,2.75,1.800,2.000
+72043302,2026-11-02 17:00,Zaglebie Lubin,Korona Kielce,1,0,2.550,3.200,2.550,2.5,1.950,1.850
+72043296,2026-11-02 19:30,RKS Rakow Czestochowa,Pogon Szczecin,3,1,1.900,3.500,3.600,2.75,1.900,1.900
+72043308,2026-11-06 17:00,LKP Motor Lublin,Wisla Plock,3,2,1.900,3.600,3.500,2.75,1.825,1.975
+72043312,2026-11-06 19:30,Wisla Krakow,KS Cracovia Krakow,2,1,1.833,3.500,3.800,2.75,2.000,1.800
+72043310,2026-11-07 11:15,Korona Kielce,RKS Radomiak Radom,0,2,1.666,3.700,4.333,2.75,1.850,1.950
+72043316,2026-11-07 13:45,WKS Slask Wroclaw,GKS Piast Gliwice,0,0,2.450,3.600,2.450,3,1.850,1.950
+72043322,2026-11-07 16:30,Gornik Zabrze,Wieczysta Krakow,2,1,1.533,4.100,5.000,3,1.900,1.900
+72043318,2026-11-07 19:15,Widzew Lodz,Pogon Szczecin,3,0,1.850,3.500,3.700,2.5,1.825,1.975
+72043320,2026-11-08 13:45,Jagiellonia Bialystok,GKS Katowice,1,0,1.850,3.900,3.500,3.25,1.950,1.850
+72043314,2026-11-08 16:30,Legia Warszawa,RKS Rakow Czestochowa,2,4,1.950,3.500,3.400,2.75,1.975,1.825
+72043324,2026-11-08 19:15,KKS Lech Poznan,Zaglebie Lubin,2,2,1.480,4.100,5.750,3,1.925,1.875

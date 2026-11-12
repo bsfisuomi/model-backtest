@@ -1,196 +1,196 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-62705365,2025-09-06 13:00,Bologna FC,Como 1907,2,2,,,
-62705377,2025-09-06 15:00,Asd Vicenza Calcio,SS Arezzo,1,2,,,
-62705371,2025-09-07 13:00,Hellas Verona,Asd Trastevere Calcio,2,0,,,
-62705381,2025-09-14 13:00,Como 1907,Lumezzane,2,0,,,
-62705399,2025-09-27 13:00,Hellas Verona,ACF Brescia,1,3,,,
-62705397,2025-09-28 13:00,Como 1907,Res Roma,5,1,,,
-62705419,2025-10-05 09:30,Asd Trastevere Calcio,Cesena FC,0,1,,,
-62705457,2025-11-01 10:00,Res Roma,Frosinone,4,5,,,
-62705459,2025-11-02 13:00,Asd Trastevere Calcio,Lumezzane,0,2,,,
-62705469,2025-11-08 13:30,Hellas Verona,Como 1907,2,1,,,
-62705467,2025-11-09 10:00,Frosinone,Freedom FC,0,2,,,
-62705463,2025-11-09 13:30,Bologna FC,Asd Trastevere Calcio,1,2,,,
-62705465,2025-11-09 13:30,ACF Brescia,SS Arezzo,2,2,,,
-62705471,2025-11-09 13:30,Lumezzane,Res Roma,2,1,,,
-62705473,2025-11-09 13:30,San Marino Academy Calcio,Cesena FC,0,2,,,
-62705475,2025-11-09 13:30,Venezia,Asd Vicenza Calcio,0,3,,,
-62705487,2025-11-15 13:30,Asd Trastevere Calcio,San Marino Academy Calcio,1,2,,,
-62705477,2025-11-16 13:30,SS Arezzo,Venezia,2,0,,,
-62705479,2025-11-16 13:30,Cesena FC,Como 1907,0,1,,,
-62705481,2025-11-16 13:30,Freedom FC,Bologna FC,0,4,,,
-62705483,2025-11-16 13:30,Frosinone,Hellas Verona,3,2,,,
-62705485,2025-11-16 13:30,Res Roma,ACF Brescia,1,1,,,
-62705489,2025-11-16 13:30,Asd Vicenza Calcio,Lumezzane,1,2,,,
-62705491,2025-11-23 13:30,ACF Brescia,Freedom FC,2,2,,,
-62705493,2025-11-23 13:30,Cesena FC,Asd Vicenza Calcio,0,1,,,
-62705495,2025-11-23 13:30,Como 1907,Asd Trastevere Calcio,1,0,,,
-62705501,2025-11-23 13:30,San Marino Academy Calcio,Frosinone,2,2,,,
-62705503,2025-11-23 13:30,Venezia,Bologna FC,0,7,,,
-62705497,2025-11-23 13:45,Hellas Verona,Res Roma,1,3,,,
-62705509,2025-12-06 13:30,Freedom FC,San Marino Academy Calcio,5,2,,,
-62705505,2025-12-07 13:30,SS Arezzo,Como 1907,0,3,,,
-62705507,2025-12-07 13:30,Bologna FC,Hellas Verona,3,2,,,
-62705511,2025-12-07 13:30,Frosinone,Venezia,3,0,,,
-62705515,2025-12-07 13:30,Asd Trastevere Calcio,Res Roma,1,2,,,
-62705517,2025-12-07 13:30,Asd Vicenza Calcio,ACF Brescia,1,1,,,
-62705521,2025-12-13 13:30,Cesena FC,Bologna FC,2,1,3.000,3.600,2.000
-62705525,2025-12-13 13:30,Hellas Verona,Asd Vicenza Calcio,0,0,,,
-62705519,2025-12-14 13:30,ACF Brescia,Frosinone,2,0,,,
-62705523,2025-12-14 13:30,Como 1907,San Marino Academy Calcio,4,0,,,
-62705531,2025-12-14 13:30,Venezia,Lumezzane,0,2,,,
-62705527,2025-12-14 14:00,Res Roma,Freedom FC,2,2,,,
-62705529,2025-12-14 14:00,Asd Trastevere Calcio,SS Arezzo,2,2,,,
-62705537,2026-01-17 13:30,Freedom FC,Asd Trastevere Calcio,1,1,,,
-62705533,2026-01-18 13:30,SS Arezzo,Res Roma,1,1,,,
-62705535,2026-01-18 13:30,Bologna FC,ACF Brescia,3,1,1.380,4.500,6.000
-62705539,2026-01-18 13:30,Frosinone,Cesena FC,1,2,4.333,3.700,1.650
-62705541,2026-01-18 13:30,Lumezzane,Hellas Verona,4,1,,,
-62705543,2026-01-18 13:30,San Marino Academy Calcio,Venezia,2,2,,,
-62705545,2026-01-18 13:30,Asd Vicenza Calcio,Como 1907,0,3,,,
-62705559,2026-01-24 13:30,SS Arezzo,Asd Vicenza Calcio,3,1,,,
-62705551,2026-01-25 11:00,Freedom FC,Cesena FC,2,2,,,
-62705547,2026-01-25 13:30,Como 1907,Bologna FC,4,2,,,
-62705549,2026-01-25 13:30,San Marino Academy Calcio,ACF Brescia,1,0,,,
-62705553,2026-01-25 13:30,Asd Trastevere Calcio,Hellas Verona,1,1,3.400,3.600,1.850
-62705555,2026-01-25 13:30,Frosinone,Lumezzane,1,1,5.500,4.200,1.444
-62705557,2026-01-25 13:30,Res Roma,Venezia,2,0,,,
-62705563,2026-01-31 13:30,Lumezzane,Como 1907,0,0,,,
-62705561,2026-02-01 13:30,Bologna FC,SS Arezzo,2,0,1.333,4.750,6.500
-62705565,2026-02-01 13:30,Venezia,Freedom FC,0,2,,,
-62705567,2026-02-01 13:30,Asd Vicenza Calcio,Frosinone,1,1,,,
-62705569,2026-02-01 13:30,Cesena FC,Res Roma,2,4,,,
-62705573,2026-02-01 14:00,ACF Brescia,Asd Trastevere Calcio,6,1,,,
-62705571,2026-02-01 15:30,Hellas Verona,San Marino Academy Calcio,0,1,1.909,3.600,3.200
-62705575,2026-02-07 13:30,Frosinone,Bologna FC,3,3,,,
-62705577,2026-02-08 13:30,SS Arezzo,Cesena FC,1,3,3.600,3.400,1.833
-62705579,2026-02-08 13:30,Res Roma,Como 1907,1,4,,,
-62705581,2026-02-08 13:30,ACF Brescia,Hellas Verona,2,1,,,
-62705583,2026-02-08 13:30,San Marino Academy Calcio,Lumezzane,0,1,6.000,4.200,1.420
-62705585,2026-02-08 13:30,Asd Trastevere Calcio,Venezia,1,4,,,
-62705587,2026-02-08 13:30,Freedom FC,Asd Vicenza Calcio,1,2,,,
-62705589,2026-02-14 13:30,Lumezzane,ACF Brescia,3,0,,,
-62705595,2026-02-14 13:30,Venezia,Hellas Verona,1,1,3.400,3.500,1.850
-62705591,2026-02-15 13:30,SS Arezzo,Freedom FC,1,1,,,
-62705593,2026-02-15 13:30,Como 1907,Frosinone,2,1,,,
-62705597,2026-02-15 13:30,Asd Vicenza Calcio,Res Roma,3,0,,,
-62705599,2026-02-15 13:30,Bologna FC,San Marino Academy Calcio,1,2,1.270,5.000,8.500
-62705601,2026-02-15 13:30,Cesena FC,Asd Trastevere Calcio,2,1,,,
-62705605,2026-02-21 13:30,Lumezzane,Bologna FC,2,1,1.909,3.800,3.100
-62705611,2026-02-21 13:30,San Marino Academy Calcio,Res Roma,2,2,2.800,3.600,2.100
-62705607,2026-02-21 15:00,Hellas Verona,Cesena FC,0,5,4.000,3.700,1.700
-62705609,2026-02-22 11:00,Freedom FC,Como 1907,2,2,,,
-62705603,2026-02-22 13:30,Frosinone,SS Arezzo,1,2,2.500,3.300,2.450
-62705613,2026-02-22 13:30,ACF Brescia,Venezia,2,1,,,
-62705615,2026-02-22 13:30,Asd Trastevere Calcio,Asd Vicenza Calcio,1,1,5.750,4.200,1.420
-62705625,2026-03-14 13:30,Freedom FC,Lumezzane,2,1,4.333,3.900,1.615
-62705617,2026-03-15 13:30,Res Roma,Bologna FC,3,0,3.700,4.100,1.666
-62705619,2026-03-15 13:30,Como 1907,ACF Brescia,0,0,,,
-62705621,2026-03-15 13:30,Asd Trastevere Calcio,Frosinone,2,2,3.600,3.500,1.833
-62705623,2026-03-15 13:30,SS Arezzo,Hellas Verona,3,0,,,
-62705627,2026-03-15 13:30,Asd Vicenza Calcio,San Marino Academy Calcio,0,1,,,
-62705629,2026-03-15 13:30,Cesena FC,Venezia,4,0,,,
-62705631,2026-03-21 13:30,San Marino Academy Calcio,SS Arezzo,0,0,,,
-62705635,2026-03-22 11:00,Venezia,Como 1907,1,3,,,
-62705633,2026-03-22 13:30,ACF Brescia,Cesena FC,1,2,,,
-62705637,2026-03-22 13:30,Hellas Verona,Freedom FC,1,1,3.500,3.600,1.800
-62705641,2026-03-22 13:30,Lumezzane,Asd Trastevere Calcio,1,0,,,
-62705643,2026-03-22 13:30,Bologna FC,Asd Vicenza Calcio,2,0,1.533,4.000,4.750
-62705639,2026-03-22 14:00,Frosinone,Res Roma,1,2,2.750,3.500,2.100
-62705645,2026-03-28 13:30,Asd Trastevere Calcio,Bologna FC,0,1,7.500,4.200,1.333
-62705647,2026-03-29 13:00,SS Arezzo,ACF Brescia,1,2,,,
-62705649,2026-03-29 13:00,Freedom FC,Frosinone,2,1,,,
-62705651,2026-03-29 13:00,Como 1907,Hellas Verona,5,3,,,
-62705653,2026-03-29 13:00,Res Roma,Lumezzane,1,2,,,
-62705655,2026-03-29 13:00,Cesena FC,San Marino Academy Calcio,3,1,1.222,5.250,9.500
-62705657,2026-03-29 13:00,Asd Vicenza Calcio,Venezia,4,1,,,
-62705669,2026-04-04 09:00,San Marino Academy Calcio,Asd Trastevere Calcio,1,2,,,
-62705659,2026-04-04 13:00,Venezia,SS Arezzo,1,1,3.000,3.400,2.100
-62705661,2026-04-04 13:00,Como 1907,Cesena FC,2,1,1.600,3.800,4.500
-62705663,2026-04-04 13:00,Bologna FC,Freedom FC,2,2,1.533,3.800,5.000
-62705665,2026-04-04 13:00,Hellas Verona,Frosinone,0,1,2.500,3.600,2.300
-62705667,2026-04-04 13:00,ACF Brescia,Res Roma,0,3,2.350,3.600,2.450
-62705671,2026-04-04 13:00,Lumezzane,Asd Vicenza Calcio,0,1,1.500,3.900,5.500
-62705679,2026-04-25 13:00,Res Roma,Hellas Verona,3,1,1.500,4.000,5.000
-62705681,2026-04-25 14:00,SS Arezzo,Lumezzane,0,0,,,
-62705677,2026-04-26 12:30,Asd Trastevere Calcio,Como 1907,1,4,,,
-62705673,2026-04-26 13:00,Freedom FC,ACF Brescia,5,1,,,
-62705675,2026-04-26 13:00,Asd Vicenza Calcio,Cesena FC,2,2,,,
-62705683,2026-04-26 13:00,Frosinone,San Marino Academy Calcio,2,1,1.800,3.700,3.400
-62705685,2026-04-26 13:00,Bologna FC,Venezia,1,2,1.125,7.000,15.000
-62705699,2026-05-02 13:00,ACF Brescia,Asd Vicenza Calcio,0,1,1.650,3.750,4.100
-62705687,2026-05-03 13:00,Como 1907,SS Arezzo,3,0,,,
-62705689,2026-05-03 13:00,Hellas Verona,Bologna FC,0,1,5.250,4.100,1.450
-62705691,2026-05-03 13:00,San Marino Academy Calcio,Freedom FC,3,0,,,
-62705693,2026-05-03 13:00,Venezia,Frosinone,0,0,,,
-62705697,2026-05-03 13:00,Res Roma,Asd Trastevere Calcio,3,2,,,
-62705709,2026-05-10 10:00,Freedom FC,Res Roma,0,0,,,
-62705701,2026-05-10 13:00,Frosinone,ACF Brescia,1,0,,,
-62705703,2026-05-10 13:00,Bologna FC,Cesena FC,1,3,,,
-62705705,2026-05-10 13:00,San Marino Academy Calcio,Como 1907,0,0,,,
-62705707,2026-05-10 13:00,Asd Vicenza Calcio,Hellas Verona,0,0,,,
-62705711,2026-05-10 13:00,SS Arezzo,Asd Trastevere Calcio,0,0,,,
-62705713,2026-05-10 13:00,Lumezzane,Venezia,0,0,,,
-62705715,2026-05-17 13:00,Res Roma,SS Arezzo,2,3,1.500,4.200,4.750
-62705717,2026-05-17 13:00,ACF Brescia,Bologna FC,1,2,3.900,3.700,1.727
-62705719,2026-05-17 13:00,Asd Trastevere Calcio,Freedom FC,0,2,3.600,3.400,1.833
-62705721,2026-05-17 13:00,Cesena FC,Frosinone,4,0,1.300,4.750,7.000
-62705723,2026-05-17 13:00,Hellas Verona,Lumezzane,1,2,8.500,5.250,1.250
-62705725,2026-05-17 13:00,Venezia,San Marino Academy Calcio,6,4,2.800,3.400,2.100
-62705727,2026-05-17 13:00,Como 1907,Asd Vicenza Calcio,4,1,1.222,5.250,9.000
-73712982,2026-09-05 13:00,SS Arezzo,San Marino Academy Calcio,1,0,,,
-73712984,2026-09-05 13:00,Bologna FC,Genoa CFC Women,4,0,,,
-73712992,2026-09-06 12:30,Asd Moncalieri Calcio 1953,Calcio Catania,1,0,,,
-73712990,2026-09-06 13:00,Lumezzane,Hellas Verona,2,1,,,
-73712994,2026-09-06 13:00,Res Donna Roma,Frosinone,2,2,,,
-73713002,2026-09-12 13:00,Genoa CFC Women,ACF Brescia,2,1,,,
-73713004,2026-09-12 16:00,Hellas Verona,Cesena FC,2,1,6.500,4.500,1.333
-73713000,2026-09-13 13:00,Frosinone,Lumezzane,3,1,3.800,3.750,1.727
-73713006,2026-09-13 13:00,San Marino Academy Calcio,Res Donna Roma,0,3,,,
-74352278,2026-09-13 13:00,Venezia,Asd Moncalieri Calcio 1953,0,0,,,
-73713008,2026-09-13 14:00,Asd Vicenza Calcio,SS Arezzo,3,1,1.950,3.500,3.100
-73712996,2026-09-13 14:30,Calcio Catania,Bologna FC,0,0,,,
-74352272,2026-09-23 09:00,ACF Brescia,Venezia,0,0,1.500,4.200,4.750
-73713010,2026-09-26 12:00,SS Arezzo,Calcio Catania,1,1,2.375,3.500,2.450
-73713022,2026-09-26 13:00,Asd Moncalieri Calcio 1953,Frosinone,0,0,,,
-73713018,2026-09-27 10:30,Genoa CFC Women,Asd Vicenza Calcio,1,0,1.650,3.700,4.333
-73713012,2026-09-27 13:00,Bologna FC,San Marino Academy Calcio,0,1,1.181,6.000,11.000
-73713014,2026-09-27 13:00,ACF Brescia,Hellas Verona,2,1,,,
-73713020,2026-09-27 13:00,Lumezzane,Res Donna Roma,0,1,,,
-74352280,2026-09-27 13:00,Cesena FC,Venezia,2,0,1.250,5.250,8.000
-73713036,2026-10-03 13:00,Asd Vicenza Calcio,San Marino Academy Calcio,2,2,1.500,3.800,5.500
-74352282,2026-10-03 13:00,Venezia,Bologna FC,1,3,,,
-73713024,2026-10-04 12:30,Calcio Catania,Genoa CFC Women,0,2,,,
-73713028,2026-10-04 13:00,Frosinone,ACF Brescia,2,0,2.100,3.500,2.875
-73713032,2026-10-04 13:00,Lumezzane,SS Arezzo,3,1,,,
-73713034,2026-10-04 13:00,Res Donna Roma,Cesena FC,3,4,,,
-73713030,2026-10-04 14:00,Hellas Verona,Asd Moncalieri Calcio 1953,0,0,2.550,3.400,2.350
-73713046,2026-10-17 11:30,Genoa CFC Women,Lumezzane,0,1,,,
-73713040,2026-10-17 13:00,Bologna FC,Frosinone,1,2,1.800,3.800,3.400
-73713038,2026-10-18 13:00,SS Arezzo,Res Donna Roma,0,1,,,
-73713050,2026-10-18 13:00,San Marino Academy Calcio,Hellas Verona,0,2,,,
-74352284,2026-10-18 13:30,Calcio Catania,Venezia,3,1,,,
-73713044,2026-10-18 14:00,Cesena FC,ACF Brescia,4,3,1.333,4.500,7.000
-73713048,2026-10-18 14:00,Asd Moncalieri Calcio 1953,Asd Vicenza Calcio,5,3,,,
-73713062,2026-10-24 13:00,Lumezzane,Asd Moncalieri Calcio 1953,1,1,,,
-74352286,2026-10-24 13:00,Venezia,Asd Vicenza Calcio,0,1,,,
-73713060,2026-10-24 14:00,Hellas Verona,Genoa CFC Women,1,1,4.200,3.600,1.650
-73713054,2026-10-25 13:30,Cesena FC,Bologna FC,2,1,2.100,3.700,2.750
-73713058,2026-10-25 13:30,Frosinone,San Marino Academy Calcio,3,1,1.444,4.100,5.750
-73713064,2026-10-25 13:30,Res Donna Roma,Calcio Catania,2,0,,,
-73713052,2026-10-25 14:30,ACF Brescia,SS Arezzo,1,2,,,
-75871602,2026-10-28 13:30,Cesena FC,Asd Vicenza Calcio,3,0,1.444,4.200,5.500
-74352288,2026-10-31 13:00,Genoa CFC Women,Venezia,4,0,,,
-73713066,2026-11-01 13:30,SS Arezzo,Frosinone,1,2,,,
-73713068,2026-11-01 13:30,Bologna FC,Hellas Verona,4,0,1.666,3.750,4.100
-73713074,2026-11-01 13:30,Asd Moncalieri Calcio 1953,Res Donna Roma,2,4,,,
-73713076,2026-11-01 13:30,San Marino Academy Calcio,Cesena FC,0,5,,,
-73713078,2026-11-01 13:30,Asd Vicenza Calcio,Lumezzane,0,2,,,
-73713070,2026-11-02 13:30,Calcio Catania,ACF Brescia,1,3,,,
-74352290,2026-11-07 13:30,Venezia,San Marino Academy Calcio,1,1,,,
-73713090,2026-11-08 11:30,Lumezzane,Calcio Catania,2,1,,,
-73713080,2026-11-08 13:30,ACF Brescia,Asd Vicenza Calcio,1,1,,,
-73713082,2026-11-08 13:30,Cesena FC,Asd Moncalieri Calcio 1953,2,2,,,
-73713086,2026-11-08 13:30,Frosinone,Genoa CFC Women,2,3,2.350,3.400,2.550
-73713092,2026-11-08 13:30,Res Donna Roma,Bologna FC,1,1,,,
-73713088,2026-11-08 14:30,Hellas Verona,SS Arezzo,5,0,2.100,3.300,3.000
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+62705365,2025-09-06 13:00,Bologna FC,Como 1907,2,2,,,,,,
+62705377,2025-09-06 15:00,Asd Vicenza Calcio,SS Arezzo,1,2,,,,,,
+62705371,2025-09-07 13:00,Hellas Verona,Asd Trastevere Calcio,2,0,,,,,,
+62705381,2025-09-14 13:00,Como 1907,Lumezzane,2,0,,,,,,
+62705399,2025-09-27 13:00,Hellas Verona,ACF Brescia,1,3,,,,,,
+62705397,2025-09-28 13:00,Como 1907,Res Roma,5,1,,,,,,
+62705419,2025-10-05 09:30,Asd Trastevere Calcio,Cesena FC,0,1,,,,,,
+62705457,2025-11-01 10:00,Res Roma,Frosinone,4,5,,,,,,
+62705459,2025-11-02 13:00,Asd Trastevere Calcio,Lumezzane,0,2,,,,,,
+62705469,2025-11-08 13:30,Hellas Verona,Como 1907,2,1,,,,,,
+62705467,2025-11-09 10:00,Frosinone,Freedom FC,0,2,,,,,,
+62705463,2025-11-09 13:30,Bologna FC,Asd Trastevere Calcio,1,2,,,,,,
+62705465,2025-11-09 13:30,ACF Brescia,SS Arezzo,2,2,,,,,,
+62705471,2025-11-09 13:30,Lumezzane,Res Roma,2,1,,,,,,
+62705473,2025-11-09 13:30,San Marino Academy Calcio,Cesena FC,0,2,,,,,,
+62705475,2025-11-09 13:30,Venezia,Asd Vicenza Calcio,0,3,,,,,,
+62705487,2025-11-15 13:30,Asd Trastevere Calcio,San Marino Academy Calcio,1,2,,,,,,
+62705477,2025-11-16 13:30,SS Arezzo,Venezia,2,0,,,,,,
+62705479,2025-11-16 13:30,Cesena FC,Como 1907,0,1,,,,,,
+62705481,2025-11-16 13:30,Freedom FC,Bologna FC,0,4,,,,,,
+62705483,2025-11-16 13:30,Frosinone,Hellas Verona,3,2,,,,,,
+62705485,2025-11-16 13:30,Res Roma,ACF Brescia,1,1,,,,,,
+62705489,2025-11-16 13:30,Asd Vicenza Calcio,Lumezzane,1,2,,,,,,
+62705491,2025-11-23 13:30,ACF Brescia,Freedom FC,2,2,,,,,,
+62705493,2025-11-23 13:30,Cesena FC,Asd Vicenza Calcio,0,1,,,,,,
+62705495,2025-11-23 13:30,Como 1907,Asd Trastevere Calcio,1,0,,,,,,
+62705501,2025-11-23 13:30,San Marino Academy Calcio,Frosinone,2,2,,,,,,
+62705503,2025-11-23 13:30,Venezia,Bologna FC,0,7,,,,,,
+62705497,2025-11-23 13:45,Hellas Verona,Res Roma,1,3,,,,,,
+62705509,2025-12-06 13:30,Freedom FC,San Marino Academy Calcio,5,2,,,,,,
+62705505,2025-12-07 13:30,SS Arezzo,Como 1907,0,3,,,,,,
+62705507,2025-12-07 13:30,Bologna FC,Hellas Verona,3,2,,,,,,
+62705511,2025-12-07 13:30,Frosinone,Venezia,3,0,,,,,,
+62705515,2025-12-07 13:30,Asd Trastevere Calcio,Res Roma,1,2,,,,,,
+62705517,2025-12-07 13:30,Asd Vicenza Calcio,ACF Brescia,1,1,,,,,,
+62705521,2025-12-13 13:30,Cesena FC,Bologna FC,2,1,3.000,3.600,2.000,2.25,1.800,2.000
+62705525,2025-12-13 13:30,Hellas Verona,Asd Vicenza Calcio,0,0,,,,,,
+62705519,2025-12-14 13:30,ACF Brescia,Frosinone,2,0,,,,,,
+62705523,2025-12-14 13:30,Como 1907,San Marino Academy Calcio,4,0,,,,,,
+62705531,2025-12-14 13:30,Venezia,Lumezzane,0,2,,,,,,
+62705527,2025-12-14 14:00,Res Roma,Freedom FC,2,2,,,,,,
+62705529,2025-12-14 14:00,Asd Trastevere Calcio,SS Arezzo,2,2,,,,,,
+62705537,2026-01-17 13:30,Freedom FC,Asd Trastevere Calcio,1,1,,,,,,
+62705533,2026-01-18 13:30,SS Arezzo,Res Roma,1,1,,,,,,
+62705535,2026-01-18 13:30,Bologna FC,ACF Brescia,3,1,1.380,4.500,6.000,3.5,2.000,1.800
+62705539,2026-01-18 13:30,Frosinone,Cesena FC,1,2,4.333,3.700,1.650,2.75,1.875,1.925
+62705541,2026-01-18 13:30,Lumezzane,Hellas Verona,4,1,,,,,,
+62705543,2026-01-18 13:30,San Marino Academy Calcio,Venezia,2,2,,,,,,
+62705545,2026-01-18 13:30,Asd Vicenza Calcio,Como 1907,0,3,,,,,,
+62705559,2026-01-24 13:30,SS Arezzo,Asd Vicenza Calcio,3,1,,,,,,
+62705551,2026-01-25 11:00,Freedom FC,Cesena FC,2,2,,,,,,
+62705547,2026-01-25 13:30,Como 1907,Bologna FC,4,2,,,,,,
+62705549,2026-01-25 13:30,San Marino Academy Calcio,ACF Brescia,1,0,,,,,,
+62705553,2026-01-25 13:30,Asd Trastevere Calcio,Hellas Verona,1,1,3.400,3.600,1.850,2.75,1.800,2.000
+62705555,2026-01-25 13:30,Frosinone,Lumezzane,1,1,5.500,4.200,1.444,3,1.900,1.900
+62705557,2026-01-25 13:30,Res Roma,Venezia,2,0,,,,,,
+62705563,2026-01-31 13:30,Lumezzane,Como 1907,0,0,,,,,,
+62705561,2026-02-01 13:30,Bologna FC,SS Arezzo,2,0,1.333,4.750,6.500,3.25,1.975,1.825
+62705565,2026-02-01 13:30,Venezia,Freedom FC,0,2,,,,,,
+62705567,2026-02-01 13:30,Asd Vicenza Calcio,Frosinone,1,1,,,,,,
+62705569,2026-02-01 13:30,Cesena FC,Res Roma,2,4,,,,,,
+62705573,2026-02-01 14:00,ACF Brescia,Asd Trastevere Calcio,6,1,,,,,,
+62705571,2026-02-01 15:30,Hellas Verona,San Marino Academy Calcio,0,1,1.909,3.600,3.200,3,2.000,1.800
+62705575,2026-02-07 13:30,Frosinone,Bologna FC,3,3,,,,,,
+62705577,2026-02-08 13:30,SS Arezzo,Cesena FC,1,3,3.600,3.400,1.833,2.75,1.800,2.000
+62705579,2026-02-08 13:30,Res Roma,Como 1907,1,4,,,,,,
+62705581,2026-02-08 13:30,ACF Brescia,Hellas Verona,2,1,,,,,,
+62705583,2026-02-08 13:30,San Marino Academy Calcio,Lumezzane,0,1,6.000,4.200,1.420,3,1.925,1.875
+62705585,2026-02-08 13:30,Asd Trastevere Calcio,Venezia,1,4,,,,,,
+62705587,2026-02-08 13:30,Freedom FC,Asd Vicenza Calcio,1,2,,,,,,
+62705589,2026-02-14 13:30,Lumezzane,ACF Brescia,3,0,,,,,,
+62705595,2026-02-14 13:30,Venezia,Hellas Verona,1,1,3.400,3.500,1.850,2.75,1.800,2.000
+62705591,2026-02-15 13:30,SS Arezzo,Freedom FC,1,1,,,,,,
+62705593,2026-02-15 13:30,Como 1907,Frosinone,2,1,,,,,,
+62705597,2026-02-15 13:30,Asd Vicenza Calcio,Res Roma,3,0,,,,,,
+62705599,2026-02-15 13:30,Bologna FC,San Marino Academy Calcio,1,2,1.270,5.000,8.500,3.25,1.875,1.925
+62705601,2026-02-15 13:30,Cesena FC,Asd Trastevere Calcio,2,1,,,,,,
+62705605,2026-02-21 13:30,Lumezzane,Bologna FC,2,1,1.909,3.800,3.100,3,1.800,2.000
+62705611,2026-02-21 13:30,San Marino Academy Calcio,Res Roma,2,2,2.800,3.600,2.100,3,1.925,1.875
+62705607,2026-02-21 15:00,Hellas Verona,Cesena FC,0,5,4.000,3.700,1.700,2.75,1.825,1.975
+62705609,2026-02-22 11:00,Freedom FC,Como 1907,2,2,,,,,,
+62705603,2026-02-22 13:30,Frosinone,SS Arezzo,1,2,2.500,3.300,2.450,2.5,1.800,2.000
+62705613,2026-02-22 13:30,ACF Brescia,Venezia,2,1,,,,,,
+62705615,2026-02-22 13:30,Asd Trastevere Calcio,Asd Vicenza Calcio,1,1,5.750,4.200,1.420,3,2.025,1.775
+62705625,2026-03-14 13:30,Freedom FC,Lumezzane,2,1,4.333,3.900,1.615,3,2.000,1.800
+62705617,2026-03-15 13:30,Res Roma,Bologna FC,3,0,3.700,4.100,1.666,3.25,1.975,1.825
+62705619,2026-03-15 13:30,Como 1907,ACF Brescia,0,0,,,,,,
+62705621,2026-03-15 13:30,Asd Trastevere Calcio,Frosinone,2,2,3.600,3.500,1.833,2.75,2.000,1.800
+62705623,2026-03-15 13:30,SS Arezzo,Hellas Verona,3,0,,,,,,
+62705627,2026-03-15 13:30,Asd Vicenza Calcio,San Marino Academy Calcio,0,1,,,,,,
+62705629,2026-03-15 13:30,Cesena FC,Venezia,4,0,,,,,,
+62705631,2026-03-21 13:30,San Marino Academy Calcio,SS Arezzo,0,0,,,,,,
+62705635,2026-03-22 11:00,Venezia,Como 1907,1,3,,,,,,
+62705633,2026-03-22 13:30,ACF Brescia,Cesena FC,1,2,,,,,,
+62705637,2026-03-22 13:30,Hellas Verona,Freedom FC,1,1,3.500,3.600,1.800,3,1.950,1.850
+62705641,2026-03-22 13:30,Lumezzane,Asd Trastevere Calcio,1,0,,,,,,
+62705643,2026-03-22 13:30,Bologna FC,Asd Vicenza Calcio,2,0,1.533,4.000,4.750,3.25,2.000,1.800
+62705639,2026-03-22 14:00,Frosinone,Res Roma,1,2,2.750,3.500,2.100,3,1.925,1.875
+62705645,2026-03-28 13:30,Asd Trastevere Calcio,Bologna FC,0,1,7.500,4.200,1.333,3,1.825,1.975
+62705647,2026-03-29 13:00,SS Arezzo,ACF Brescia,1,2,,,,,,
+62705649,2026-03-29 13:00,Freedom FC,Frosinone,2,1,,,,,,
+62705651,2026-03-29 13:00,Como 1907,Hellas Verona,5,3,,,,,,
+62705653,2026-03-29 13:00,Res Roma,Lumezzane,1,2,,,,,,
+62705655,2026-03-29 13:00,Cesena FC,San Marino Academy Calcio,3,1,1.222,5.250,9.500,3.25,1.825,1.975
+62705657,2026-03-29 13:00,Asd Vicenza Calcio,Venezia,4,1,,,,,,
+62705669,2026-04-04 09:00,San Marino Academy Calcio,Asd Trastevere Calcio,1,2,,,,,,
+62705659,2026-04-04 13:00,Venezia,SS Arezzo,1,1,3.000,3.400,2.100,3,2.000,1.800
+62705661,2026-04-04 13:00,Como 1907,Cesena FC,2,1,1.600,3.800,4.500,2.75,1.800,2.000
+62705663,2026-04-04 13:00,Bologna FC,Freedom FC,2,2,1.533,3.800,5.000,3,1.975,1.825
+62705665,2026-04-04 13:00,Hellas Verona,Frosinone,0,1,2.500,3.600,2.300,2.75,1.850,1.950
+62705667,2026-04-04 13:00,ACF Brescia,Res Roma,0,3,2.350,3.600,2.450,3,1.900,1.900
+62705671,2026-04-04 13:00,Lumezzane,Asd Vicenza Calcio,0,1,1.500,3.900,5.500,2.75,1.875,1.925
+62705679,2026-04-25 13:00,Res Roma,Hellas Verona,3,1,1.500,4.000,5.000,3,1.800,2.000
+62705681,2026-04-25 14:00,SS Arezzo,Lumezzane,0,0,,,,,,
+62705677,2026-04-26 12:30,Asd Trastevere Calcio,Como 1907,1,4,,,,,,
+62705673,2026-04-26 13:00,Freedom FC,ACF Brescia,5,1,,,,,,
+62705675,2026-04-26 13:00,Asd Vicenza Calcio,Cesena FC,2,2,,,,,,
+62705683,2026-04-26 13:00,Frosinone,San Marino Academy Calcio,2,1,1.800,3.700,3.400,3,1.850,1.950
+62705685,2026-04-26 13:00,Bologna FC,Venezia,1,2,1.125,7.000,15.000,3.5,2.000,1.800
+62705699,2026-05-02 13:00,ACF Brescia,Asd Vicenza Calcio,0,1,1.650,3.750,4.100,3,1.975,1.825
+62705687,2026-05-03 13:00,Como 1907,SS Arezzo,3,0,,,,,,
+62705689,2026-05-03 13:00,Hellas Verona,Bologna FC,0,1,5.250,4.100,1.450,3,1.950,1.850
+62705691,2026-05-03 13:00,San Marino Academy Calcio,Freedom FC,3,0,,,,,,
+62705693,2026-05-03 13:00,Venezia,Frosinone,0,0,,,,,,
+62705697,2026-05-03 13:00,Res Roma,Asd Trastevere Calcio,3,2,,,,,,
+62705709,2026-05-10 10:00,Freedom FC,Res Roma,0,0,,,,,,
+62705701,2026-05-10 13:00,Frosinone,ACF Brescia,1,0,,,,,,
+62705703,2026-05-10 13:00,Bologna FC,Cesena FC,1,3,,,,,,
+62705705,2026-05-10 13:00,San Marino Academy Calcio,Como 1907,0,0,,,,,,
+62705707,2026-05-10 13:00,Asd Vicenza Calcio,Hellas Verona,0,0,,,,,,
+62705711,2026-05-10 13:00,SS Arezzo,Asd Trastevere Calcio,0,0,,,,,,
+62705713,2026-05-10 13:00,Lumezzane,Venezia,0,0,,,,,,
+62705715,2026-05-17 13:00,Res Roma,SS Arezzo,2,3,1.500,4.200,4.750,3.25,1.875,1.925
+62705717,2026-05-17 13:00,ACF Brescia,Bologna FC,1,2,3.900,3.700,1.727,3,1.850,1.950
+62705719,2026-05-17 13:00,Asd Trastevere Calcio,Freedom FC,0,2,3.600,3.400,1.833,2.75,1.900,1.900
+62705721,2026-05-17 13:00,Cesena FC,Frosinone,4,0,1.300,4.750,7.000,3.5,2.000,1.800
+62705723,2026-05-17 13:00,Hellas Verona,Lumezzane,1,2,8.500,5.250,1.250,3.25,1.950,1.850
+62705725,2026-05-17 13:00,Venezia,San Marino Academy Calcio,6,4,2.800,3.400,2.100,3,1.975,1.825
+62705727,2026-05-17 13:00,Como 1907,Asd Vicenza Calcio,4,1,1.222,5.250,9.000,3.25,2.000,1.800
+73712982,2026-09-05 13:00,SS Arezzo,San Marino Academy Calcio,1,0,,,,,,
+73712984,2026-09-05 13:00,Bologna FC,Genoa CFC Women,4,0,,,,,,
+73712992,2026-09-06 12:30,Asd Moncalieri Calcio 1953,Calcio Catania,1,0,,,,,,
+73712990,2026-09-06 13:00,Lumezzane,Hellas Verona,2,1,,,,,,
+73712994,2026-09-06 13:00,Res Donna Roma,Frosinone,2,2,,,,,,
+73713002,2026-09-12 13:00,Genoa CFC Women,ACF Brescia,2,1,,,,,,
+73713004,2026-09-12 16:00,Hellas Verona,Cesena FC,2,1,6.500,4.500,1.333,3,1.825,1.975
+73713000,2026-09-13 13:00,Frosinone,Lumezzane,3,1,3.800,3.750,1.727,2.75,1.800,2.000
+73713006,2026-09-13 13:00,San Marino Academy Calcio,Res Donna Roma,0,3,,,,,,
+74352278,2026-09-13 13:00,Venezia,Asd Moncalieri Calcio 1953,0,0,,,,,,
+73713008,2026-09-13 14:00,Asd Vicenza Calcio,SS Arezzo,3,1,1.950,3.500,3.100,2.75,2.000,1.800
+73712996,2026-09-13 14:30,Calcio Catania,Bologna FC,0,0,,,,,,
+74352272,2026-09-23 09:00,ACF Brescia,Venezia,0,0,1.500,4.200,4.750,3.25,1.950,1.850
+73713010,2026-09-26 12:00,SS Arezzo,Calcio Catania,1,1,2.375,3.500,2.450,2.5,1.900,1.900
+73713022,2026-09-26 13:00,Asd Moncalieri Calcio 1953,Frosinone,0,0,,,,,,
+73713018,2026-09-27 10:30,Genoa CFC Women,Asd Vicenza Calcio,1,0,1.650,3.700,4.333,2.75,1.800,2.000
+73713012,2026-09-27 13:00,Bologna FC,San Marino Academy Calcio,0,1,1.181,6.000,11.000,3.5,1.850,1.950
+73713014,2026-09-27 13:00,ACF Brescia,Hellas Verona,2,1,,,,,,
+73713020,2026-09-27 13:00,Lumezzane,Res Donna Roma,0,1,,,,,,
+74352280,2026-09-27 13:00,Cesena FC,Venezia,2,0,1.250,5.250,8.000,3.25,1.825,1.975
+73713036,2026-10-03 13:00,Asd Vicenza Calcio,San Marino Academy Calcio,2,2,1.500,3.800,5.500,3,2.025,1.775
+74352282,2026-10-03 13:00,Venezia,Bologna FC,1,3,,,,,,
+73713024,2026-10-04 12:30,Calcio Catania,Genoa CFC Women,0,2,,,,,,
+73713028,2026-10-04 13:00,Frosinone,ACF Brescia,2,0,2.100,3.500,2.875,2.5,1.850,1.950
+73713032,2026-10-04 13:00,Lumezzane,SS Arezzo,3,1,,,,,,
+73713034,2026-10-04 13:00,Res Donna Roma,Cesena FC,3,4,,,,,,
+73713030,2026-10-04 14:00,Hellas Verona,Asd Moncalieri Calcio 1953,0,0,2.550,3.400,2.350,2.5,2.000,1.800
+73713046,2026-10-17 11:30,Genoa CFC Women,Lumezzane,0,1,,,,,,
+73713040,2026-10-17 13:00,Bologna FC,Frosinone,1,2,1.800,3.800,3.400,3,1.925,1.875
+73713038,2026-10-18 13:00,SS Arezzo,Res Donna Roma,0,1,,,,,,
+73713050,2026-10-18 13:00,San Marino Academy Calcio,Hellas Verona,0,2,,,,,,
+74352284,2026-10-18 13:30,Calcio Catania,Venezia,3,1,,,,,,
+73713044,2026-10-18 14:00,Cesena FC,ACF Brescia,4,3,1.333,4.500,7.000,3.25,1.950,1.850
+73713048,2026-10-18 14:00,Asd Moncalieri Calcio 1953,Asd Vicenza Calcio,5,3,,,,,,
+73713062,2026-10-24 13:00,Lumezzane,Asd Moncalieri Calcio 1953,1,1,,,,,,
+74352286,2026-10-24 13:00,Venezia,Asd Vicenza Calcio,0,1,,,,,,
+73713060,2026-10-24 14:00,Hellas Verona,Genoa CFC Women,1,1,4.200,3.600,1.650,3,1.900,1.900
+73713054,2026-10-25 13:30,Cesena FC,Bologna FC,2,1,2.100,3.700,2.750,3,1.825,1.975
+73713058,2026-10-25 13:30,Frosinone,San Marino Academy Calcio,3,1,1.444,4.100,5.750,3,1.925,1.875
+73713064,2026-10-25 13:30,Res Donna Roma,Calcio Catania,2,0,,,,,,
+73713052,2026-10-25 14:30,ACF Brescia,SS Arezzo,1,2,,,,,,
+75871602,2026-10-28 13:30,Cesena FC,Asd Vicenza Calcio,3,0,1.444,4.200,5.500,3.25,1.850,1.950
+74352288,2026-10-31 13:00,Genoa CFC Women,Venezia,4,0,,,,,,
+73713066,2026-11-01 13:30,SS Arezzo,Frosinone,1,2,,,,,,
+73713068,2026-11-01 13:30,Bologna FC,Hellas Verona,4,0,1.666,3.750,4.100,2.75,1.850,1.950
+73713074,2026-11-01 13:30,Asd Moncalieri Calcio 1953,Res Donna Roma,2,4,,,,,,
+73713076,2026-11-01 13:30,San Marino Academy Calcio,Cesena FC,0,5,,,,,,
+73713078,2026-11-01 13:30,Asd Vicenza Calcio,Lumezzane,0,2,,,,,,
+73713070,2026-11-02 13:30,Calcio Catania,ACF Brescia,1,3,,,,,,
+74352290,2026-11-07 13:30,Venezia,San Marino Academy Calcio,1,1,,,,,,
+73713090,2026-11-08 11:30,Lumezzane,Calcio Catania,2,1,,,,,,
+73713080,2026-11-08 13:30,ACF Brescia,Asd Vicenza Calcio,1,1,,,,,,
+73713082,2026-11-08 13:30,Cesena FC,Asd Moncalieri Calcio 1953,2,2,,,,,,
+73713086,2026-11-08 13:30,Frosinone,Genoa CFC Women,2,3,2.350,3.400,2.550,2.75,1.800,2.000
+73713092,2026-11-08 13:30,Res Donna Roma,Bologna FC,1,1,,,,,,
+73713088,2026-11-08 14:30,Hellas Verona,SS Arezzo,5,0,2.100,3.300,3.000,2.5,1.850,1.950

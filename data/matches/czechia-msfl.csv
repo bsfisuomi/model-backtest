@@ -1,453 +1,453 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-54162465,2025-05-24 08:15,FK Fotbal Trinec,FC Strani,3,0,,,
-54162455,2025-05-24 15:00,TJ Start Brno,FC Zbrojovka Brno B,1,1,,,
-54162459,2025-05-24 15:00,FK Frydek-Mistek,CSK Uhersky Brod,1,0,,,
-54162451,2025-05-25 08:15,MFk Karvina B,1. SC Znojmo FK,5,0,,,
-54162461,2025-05-25 08:15,1. FC Slovacko B,FC Zlinsko,1,1,,,
-58778641,2025-05-27 15:30,FK Hodonin,SK Unicov,0,2,,,
-54162473,2025-05-29 15:30,FC Strani,FK Hodonin,2,2,,,
-54162469,2025-05-30 15:30,1. SC Znojmo FK,TJ Unie Hlubina,1,8,,,
-54162481,2025-05-30 15:30,FK Blansko,TJ Start Brno,3,0,,,
-54162477,2025-05-30 16:00,FC Zlinsko,FK Frydek-Mistek,5,4,,,
-54162485,2025-05-31 08:30,FC Zlin B,MFk Karvina B,3,2,,,
-54162471,2025-05-31 15:00,SK Hanacka Slavia Kromeriz,FK Fotbal Trinec,1,0,,,
-54162479,2025-05-31 15:00,CSK Uhersky Brod,FC Slovan Rosice,1,1,,,
-54162475,2025-06-01 08:15,SK Unicov,1. FC Slovacko B,1,1,,,
-54162483,2025-06-01 08:15,FC Zbrojovka Brno B,FC Hlucin,2,1,,,
-54162515,2025-06-03 16:00,FC Zlinsko,TJ Start Brno,1,3,,,
-54162503,2025-06-06 15:30,FK Fotbal Trinec,TJ Unie Hlubina,2,1,,,
-54162491,2025-06-06 16:00,FC Hlucin,FK Blansko,4,1,,,
-54162495,2025-06-06 16:00,FC Slovan Rosice,FC Zlinsko,2,1,,,
-54162489,2025-06-07 08:15,MFk Karvina B,FC Zbrojovka Brno B,4,4,,,
-54162487,2025-06-07 08:30,FC Zlin B,1. SC Znojmo FK,2,1,,,
-54162493,2025-06-07 15:00,TJ Start Brno,CSK Uhersky Brod,1,1,,,
-54162497,2025-06-07 15:00,FK Frydek-Mistek,SK Unicov,1,4,,,
-54162499,2025-06-07 15:00,1. FC Slovacko B,FC Strani,2,2,,,
-54162501,2025-06-07 15:00,FK Hodonin,SK Hanacka Slavia Kromeriz,2,2,,,
-54162509,2025-06-13 15:00,SK Hanacka Slavia Kromeriz,1. FC Slovacko B,4,0,,,
-54162505,2025-06-13 15:30,1. SC Znojmo FK,FK Fotbal Trinec,0,5,,,
-54162513,2025-06-13 15:30,SK Unicov,FC Slovan Rosice,0,1,,,
-54162511,2025-06-14 15:00,FC Strani,FK Frydek-Mistek,1,2,,,
-54162517,2025-06-14 15:00,CSK Uhersky Brod,FC Hlucin,4,2,,,
-61684304,2025-08-08 16:00,TJ Unie Hlubina,FK Hodonin,3,2,,,
-61684316,2025-08-09 12:00,FC Vsetin,SFK Vrchovina,3,0,,,
-61684308,2025-08-09 15:00,FC Hlucin,MFK Vitkovice,0,1,,,
-61684312,2025-08-09 15:00,TJ Start Brno,FK Fotbal Trinec,0,0,,,
-61684306,2025-08-10 08:15,MFk Karvina B,FK Frydek-Mistek,0,3,,,
-61684314,2025-08-10 08:15,SK Sigma Olomouc B,1. FC Slovacko B,2,1,,,
-61684318,2025-08-10 08:15,FC Zbrojovka Brno B,SK Polanka Nad Odrou,3,0,,,
-61684310,2025-08-10 08:30,FC Zlin B,FK Blansko,4,2,,,
-61684326,2025-08-16 08:15,FK Frydek-Mistek,SK Hranice,1,0,,,
-61684332,2025-08-16 08:15,FK Fotbal Trinec,FC Zlin B,6,2,,,
-61684328,2025-08-16 14:30,MFK Vitkovice,MFk Karvina B,2,1,,,
-61684334,2025-08-16 14:30,FK Hodonin,TJ Start Brno,2,2,,,
-61684324,2025-08-17 08:15,SK Unicov,FC Zbrojovka Brno B,0,0,,,
-61684336,2025-08-17 08:15,1. FC Slovacko B,TJ Unie Hlubina,1,1,,,
-61684322,2025-08-17 14:30,SK Polanka Nad Odrou,FC Vsetin,1,1,,,
-62019556,2025-08-22 15:30,TJ Start Brno,1. FC Slovacko B,0,0,,,
-61684396,2025-08-22 16:00,FC Hlucin,FK Fotbal Trinec,1,1,,,
-61684390,2025-08-22 17:00,SK Hranice,MFK Vitkovice,0,0,,,
-61684404,2025-08-23 12:00,FC Vsetin,SK Unicov,2,1,,,
-61684402,2025-08-23 14:30,SFK Vrchovina,SK Polanka Nad Odrou,0,0,,,
-61684392,2025-08-24 08:15,FC Zbrojovka Brno B,FK Frydek-Mistek,2,2,,,
-61684394,2025-08-24 08:15,MFk Karvina B,FK Blansko,1,2,,,
-61684400,2025-08-24 08:15,SK Sigma Olomouc B,TJ Unie Hlubina,0,2,,,
-61684398,2025-08-24 08:30,FC Zlin B,FK Hodonin,1,1,,,
-61684408,2025-08-30 08:15,FK Fotbal Trinec,MFk Karvina B,2,0,,,
-61684420,2025-08-30 08:15,FK Frydek-Mistek,FC Vsetin,3,0,,,
-61684410,2025-08-30 14:30,TJ Unie Hlubina,TJ Start Brno,1,1,,,
-61684414,2025-08-30 14:30,FK Hodonin,FC Hlucin,4,0,,,
-61684418,2025-08-30 14:30,MFK Vitkovice,FC Zbrojovka Brno B,2,1,,,
-61684412,2025-08-31 08:15,1. FC Slovacko B,FC Zlin B,2,2,,,
-61684424,2025-08-31 14:30,SK Polanka Nad Odrou,SK Sigma Olomouc B,0,3,,,
-61684432,2025-09-05 16:00,FC Hlucin,1. FC Slovacko B,2,2,,,
-61684434,2025-09-05 16:00,FC Zlin B,TJ Unie Hlubina,2,2,,,
-61684426,2025-09-05 17:00,SK Hranice,FK Fotbal Trinec,0,1,,,
-61684428,2025-09-06 12:00,FC Vsetin,MFK Vitkovice,3,1,,,
-61684440,2025-09-06 14:00,SFK Vrchovina,FK Frydek-Mistek,4,1,,,
-61684430,2025-09-07 08:15,MFk Karvina B,FK Hodonin,2,3,,,
-61684436,2025-09-07 08:15,SK Sigma Olomouc B,TJ Start Brno,2,0,,,
-61684442,2025-09-07 08:15,FC Zbrojovka Brno B,FK Blansko,4,1,,,
-61684438,2025-09-07 14:00,SK Polanka Nad Odrou,SK Unicov,2,3,,,
-61684518,2025-09-10 14:00,1. FC Slovacko B,FK Fotbal Trinec,0,5,,,
-61684520,2025-09-10 14:00,TJ Unie Hlubina,FK Blansko,0,4,,,
-61684524,2025-09-10 14:00,FC Zlin B,FK Frydek-Mistek,1,1,,,
-61684528,2025-09-10 14:30,MFk Karvina B,SK Polanka Nad Odrou,1,2,,,
-61684516,2025-09-10 15:00,FK Hodonin,SK Sigma Olomouc B,3,3,,,
-61684522,2025-09-10 15:00,TJ Start Brno,MFK Vitkovice,3,2,,,
-61684530,2025-09-10 15:00,FC Zbrojovka Brno B,FC Vsetin,3,0,,,
-61684532,2025-09-10 15:00,SK Hranice,SFK Vrchovina,2,0,,,
-61684452,2025-09-13 08:15,FK Fotbal Trinec,FC Zbrojovka Brno B,3,1,,,
-61684444,2025-09-13 14:00,TJ Start Brno,FC Zlin B,2,3,,,
-61684446,2025-09-13 14:00,TJ Unie Hlubina,FC Hlucin,1,1,,,
-61684450,2025-09-13 14:00,FK Hodonin,SK Hranice,3,0,,,
-61684454,2025-09-13 14:00,FK Blansko,FC Vsetin,2,0,,,
-61684456,2025-09-13 14:00,MFK Vitkovice,SFK Vrchovina,2,4,,,
-61684462,2025-09-19 16:00,SK Hranice,1. FC Slovacko B,1,3,,,
-61684466,2025-09-19 16:00,FC Hlucin,TJ Start Brno,2,2,,,
-61684476,2025-09-20 12:00,FC Vsetin,FK Fotbal Trinec,2,0,,,
-61684474,2025-09-20 13:30,SFK Vrchovina,FK Blansko,3,0,,,
-61684468,2025-09-21 08:15,SK Sigma Olomouc B,FC Zlin B,1,1,,,
-61684478,2025-09-21 08:15,FC Zbrojovka Brno B,FK Hodonin,1,0,,,
-61684472,2025-09-21 13:30,SK Polanka Nad Odrou,MFK Vitkovice,0,3,,,
-61684486,2025-09-27 08:15,FK Fotbal Trinec,SFK Vrchovina,7,2,,,
-61684496,2025-09-27 08:30,FC Zlin B,FC Hlucin,6,0,,,
-61684488,2025-09-27 12:30,FK Hodonin,FC Vsetin,4,2,,,
-61684494,2025-09-27 12:30,TJ Start Brno,MFk Karvina B,0,1,,,
-61684482,2025-09-27 13:30,MFK Vitkovice,SK Unicov,2,2,,,
-61684492,2025-09-27 13:30,TJ Unie Hlubina,SK Hranice,1,3,,,
-61684490,2025-09-28 08:15,1. FC Slovacko B,FC Zbrojovka Brno B,3,3,,,
-61684498,2025-10-03 16:00,SK Hranice,TJ Start Brno,2,1,,,
-61684510,2025-10-04 08:15,FK Frydek-Mistek,MFK Vitkovice,1,0,,,
-61684502,2025-10-04 12:00,FC Vsetin,1. FC Slovacko B,3,1,,,
-61684504,2025-10-04 13:00,SFK Vrchovina,FK Hodonin,1,5,,,
-61684500,2025-10-05 08:15,FC Zbrojovka Brno B,TJ Unie Hlubina,1,0,,,
-61684508,2025-10-05 08:15,SK Unicov,FK Blansko,2,1,,,
-61684512,2025-10-05 08:15,SK Sigma Olomouc B,FC Hlucin,3,1,,,
-61684514,2025-10-05 08:15,MFk Karvina B,FC Zlin B,3,0,,,
-61684506,2025-10-05 13:00,SK Polanka Nad Odrou,FK Fotbal Trinec,1,2,,,
-64329375,2025-10-08 13:30,FK Frydek-Mistek,SK Polanka Nad Odrou,0,2,,,
-61685762,2025-10-10 16:00,FC Zlin B,SK Hranice,2,2,,,
-61685764,2025-10-10 16:00,FC Hlucin,MFk Karvina B,1,1,,,
-61685752,2025-10-11 08:15,FK Fotbal Trinec,SK Unicov,3,0,,,
-61685756,2025-10-11 08:15,1. FC Slovacko B,SFK Vrchovina,0,0,,,
-61685750,2025-10-11 13:00,FK Blansko,FK Frydek-Mistek,1,2,,,
-61685754,2025-10-11 13:00,FK Hodonin,SK Polanka Nad Odrou,4,0,,,
-61685760,2025-10-11 13:00,TJ Start Brno,FC Zbrojovka Brno B,1,1,,,
-64434375,2025-10-15 13:30,MFK Vitkovice,SK Sigma Olomouc B,2,3,,,
-61685768,2025-10-17 15:00,SK Hranice,FC Hlucin,1,3,,,
-61685774,2025-10-18 08:15,FK Frydek-Mistek,FK Fotbal Trinec,1,1,,,
-61685782,2025-10-18 12:00,FC Vsetin,TJ Start Brno,2,2,,,
-61685770,2025-10-18 12:30,MFK Vitkovice,FK Blansko,3,1,,,
-61685772,2025-10-19 08:15,SK Sigma Olomouc B,MFk Karvina B,2,3,,,
-61685780,2025-10-19 08:15,FC Zbrojovka Brno B,FC Zlin B,3,0,,,
-61685784,2025-10-19 12:30,SK Polanka Nad Odrou,1. FC Slovacko B,2,1,,,
-61685790,2025-10-24 16:00,FC Hlucin,FC Zbrojovka Brno B,1,4,,,
-61685800,2025-10-25 08:15,FK Fotbal Trinec,MFK Vitkovice,3,0,,,
-61685794,2025-10-25 12:30,TJ Unie Hlubina,SK Polanka Nad Odrou,5,1,,,
-61685798,2025-10-25 12:30,FK Hodonin,FK Frydek-Mistek,2,1,,,
-61685802,2025-10-25 12:30,FK Blansko,SK Sigma Olomouc B,0,1,,,
-61685788,2025-10-26 09:15,MFk Karvina B,SK Hranice,1,1,,,
-61685796,2025-10-26 09:15,1. FC Slovacko B,SK Unicov,0,2,,,
-61685792,2025-10-26 09:30,FC Zlin B,FC Vsetin,3,0,,,
-64771240,2025-10-29 13:00,FK Frydek-Mistek,SK Sigma Olomouc B,1,0,,,
-61685806,2025-11-01 13:00,FK Blansko,FK Fotbal Trinec,2,0,,,
-61685816,2025-11-01 13:00,FC Vsetin,FC Hlucin,3,1,,,
-61685808,2025-11-01 13:30,MFK Vitkovice,FK Hodonin,2,4,,,
-61685804,2025-11-02 09:15,SK Sigma Olomouc B,SK Hranice,2,0,,,
-61685812,2025-11-02 09:15,SK Unicov,TJ Unie Hlubina,2,0,,,
-61685818,2025-11-02 09:15,FC Zbrojovka Brno B,MFk Karvina B,1,2,,,
-61685810,2025-11-02 13:00,FK Frydek-Mistek,1. FC Slovacko B,2,2,,,
-61685822,2025-11-07 16:00,SK Hranice,FC Zbrojovka Brno B,0,4,,,
-61685824,2025-11-07 17:00,FC Hlucin,SFK Vrchovina,3,0,,,
-61685838,2025-11-08 09:15,FK Fotbal Trinec,SK Sigma Olomouc B,2,1,,,
-61685830,2025-11-08 13:00,TJ Start Brno,SK Unicov,0,1,,,
-61685832,2025-11-08 13:00,TJ Unie Hlubina,FK Frydek-Mistek,2,1,,,
-61685836,2025-11-08 13:00,FK Hodonin,FK Blansko,2,0,,,
-61685826,2025-11-09 09:15,MFk Karvina B,FC Vsetin,0,1,,,
-61685834,2025-11-09 09:15,1. FC Slovacko B,MFK Vitkovice,1,0,,,
-61685828,2025-11-09 09:30,FC Zlin B,SK Polanka Nad Odrou,2,1,,,
-61685850,2025-11-15 09:15,FK Frydek-Mistek,TJ Start Brno,2,0,,,
-61685856,2025-11-15 09:15,FK Fotbal Trinec,FK Hodonin,2,0,,,
-61685842,2025-11-15 13:00,FC Vsetin,SK Hranice,2,3,,,
-61685844,2025-11-15 13:00,SFK Vrchovina,MFk Karvina B,3,0,,,
-61685848,2025-11-15 13:00,SK Unicov,FC Zlin B,1,0,,,
-61685852,2025-11-15 13:00,MFK Vitkovice,TJ Unie Hlubina,0,1,,,
-61685854,2025-11-15 13:00,FK Blansko,1. FC Slovacko B,0,3,,,
-61685840,2025-11-16 09:15,SK Sigma Olomouc B,FC Zbrojovka Brno B,0,1,,,
-61685846,2025-11-16 13:00,SK Polanka Nad Odrou,FC Hlucin,2,1,,,
-66053528,2026-03-06 17:00,FC Hlucin,FK Frydek-Mistek,1,2,4.000,4.200,1.600
-66053524,2026-03-07 13:30,SK Hranice,SK Polanka Nad Odrou,1,2,1.833,3.800,3.300
-66053534,2026-03-07 13:30,TJ Unie Hlubina,FK Fotbal Trinec,1,2,5.500,4.100,1.444
-66053520,2026-03-08 09:15,SK Sigma Olomouc B,FC Vsetin,1,0,1.333,4.500,6.500
-66053522,2026-03-08 09:15,FC Zbrojovka Brno B,SFK Vrchovina,2,0,1.480,4.200,5.250
-66053526,2026-03-08 09:15,MFk Karvina B,SK Unicov,3,0,2.750,3.600,2.100
-66053536,2026-03-08 09:15,1. FC Slovacko B,FK Hodonin,0,2,2.450,3.750,2.300
-66053530,2026-03-08 09:30,FC Zlin B,MFK Vitkovice,4,1,1.950,3.750,3.000
-66053532,2026-03-08 13:30,TJ Start Brno,FK Blansko,1,0,1.909,3.700,3.000
-66053542,2026-03-13 17:00,FK Fotbal Trinec,TJ Start Brno,4,0,1.333,4.333,7.500
-66053548,2026-03-14 09:15,FK Frydek-Mistek,MFk Karvina B,1,0,1.550,3.900,4.500
-66053554,2026-03-14 09:30,SFK Vrchovina,FC Vsetin,3,0,2.100,3.600,3.000
-66053540,2026-03-14 13:30,FK Hodonin,TJ Unie Hlubina,1,1,1.420,4.750,5.250
-66053544,2026-03-14 13:30,FK Blansko,FC Zlin B,4,3,2.250,4.000,2.375
-66053546,2026-03-14 13:30,MFK Vitkovice,FC Hlucin,1,0,1.850,3.700,3.250
-66053538,2026-03-15 09:15,1. FC Slovacko B,SK Sigma Olomouc B,0,3,2.750,3.600,2.100
-66053550,2026-03-15 09:15,SK Unicov,SK Hranice,2,1,1.420,4.200,5.500
-66053552,2026-03-15 13:30,SK Polanka Nad Odrou,FC Zbrojovka Brno B,1,3,4.500,3.800,1.571
-66053562,2026-03-20 16:00,SK Hranice,FK Frydek-Mistek,0,2,3.300,3.600,1.900
-66053566,2026-03-20 17:00,FC Hlucin,FK Blansko,0,3,2.100,3.600,2.800
-66053568,2026-03-21 09:30,FC Zlin B,FK Fotbal Trinec,1,2,2.800,4.200,1.950
-66053558,2026-03-21 13:00,FC Vsetin,SK Polanka Nad Odrou,1,1,1.571,4.000,4.200
-66053572,2026-03-21 14:00,TJ Unie Hlubina,1. FC Slovacko B,0,1,2.100,3.600,2.750
-66053556,2026-03-22 09:15,SK Sigma Olomouc B,SFK Vrchovina,2,0,1.363,4.333,6.500
-66053560,2026-03-22 09:15,FC Zbrojovka Brno B,SK Unicov,0,1,2.000,3.750,2.875
-66053564,2026-03-22 09:15,MFk Karvina B,MFK Vitkovice,1,1,1.615,4.100,4.000
-66053576,2026-03-28 09:15,1. FC Slovacko B,TJ Start Brno,2,1,1.444,4.200,5.250
-66053580,2026-03-28 09:15,FK Fotbal Trinec,FC Hlucin,1,0,1.142,7.000,17.000
-66053586,2026-03-28 09:15,FK Frydek-Mistek,FC Zbrojovka Brno B,5,2,1.800,3.700,3.600
-66053574,2026-03-28 14:00,TJ Unie Hlubina,SK Sigma Olomouc B,0,3,4.100,3.900,1.615
-66053578,2026-03-28 14:00,FK Hodonin,FC Zlin B,1,1,1.950,3.900,2.900
-66053582,2026-03-28 14:00,FK Blansko,MFk Karvina B,3,1,2.150,3.700,2.600
-66053584,2026-03-28 14:00,MFK Vitkovice,SK Hranice,1,0,1.615,4.100,4.000
-66053588,2026-03-29 08:15,SK Unicov,FC Vsetin,0,0,1.300,4.750,7.500
-66053590,2026-03-29 13:00,SK Polanka Nad Odrou,SFK Vrchovina,2,2,2.875,3.400,2.100
-66053600,2026-04-03 13:00,SK Hranice,FK Blansko,2,2,2.450,3.600,2.350
-66053610,2026-04-03 13:00,TJ Start Brno,TJ Unie Hlubina,1,1,2.200,3.700,2.550
-66053604,2026-04-03 16:00,FC Hlucin,FK Hodonin,1,5,3.600,3.900,1.700
-66053602,2026-04-04 08:15,MFk Karvina B,FK Fotbal Trinec,0,1,4.333,4.200,1.550
-66053596,2026-04-04 12:00,FC Vsetin,FK Frydek-Mistek,2,1,4.000,3.700,1.700
-66053594,2026-04-04 13:30,SFK Vrchovina,SK Unicov,0,1,3.250,3.600,1.909
-66053592,2026-04-05 08:15,SK Sigma Olomouc B,SK Polanka Nad Odrou,3,0,1.142,7.500,13.000
-66053598,2026-04-05 08:15,FC Zbrojovka Brno B,MFK Vitkovice,4,1,1.550,4.100,4.750
-66053608,2026-04-05 08:30,FC Zlin B,1. FC Slovacko B,0,4,2.500,3.700,2.300
-66053620,2026-04-11 08:15,FK Fotbal Trinec,SK Hranice,3,0,1.090,9.500,19.000
-66053626,2026-04-11 08:15,FK Frydek-Mistek,SFK Vrchovina,1,1,1.450,4.333,5.000
-66053612,2026-04-11 13:00,TJ Start Brno,SK Sigma Olomouc B,0,0,7.500,4.500,1.300
-66053614,2026-04-11 13:30,TJ Unie Hlubina,FC Zlin B,1,0,2.100,3.600,2.750
-66053618,2026-04-11 13:30,FK Hodonin,MFk Karvina B,1,1,1.480,4.333,4.750
-66053622,2026-04-11 13:30,FK Blansko,FC Zbrojovka Brno B,0,2,2.050,3.900,2.800
-66053616,2026-04-12 08:15,1. FC Slovacko B,FC Hlucin,2,1,1.222,5.250,8.500
-66053624,2026-04-12 08:15,MFK Vitkovice,FC Vsetin,1,0,1.850,3.600,3.250
-66053630,2026-04-12 08:15,SK Unicov,SK Polanka Nad Odrou,1,1,1.363,4.200,6.250
-66053642,2026-04-17 16:00,SK Hranice,FK Hodonin,1,3,5.500,4.500,1.400
-66053646,2026-04-17 16:00,FC Hlucin,TJ Unie Hlubina,0,2,2.900,3.600,2.050
-66053638,2026-04-18 12:00,FC Vsetin,FK Blansko,2,0,2.350,3.500,2.450
-66053636,2026-04-18 14:00,SFK Vrchovina,MFK Vitkovice,1,1,2.100,3.500,2.800
-66053632,2026-04-19 08:00,SK Sigma Olomouc B,SK Unicov,1,2,1.600,3.700,4.500
-66053640,2026-04-19 08:15,FC Zbrojovka Brno B,FK Fotbal Trinec,2,1,3.900,3.900,1.666
-66053644,2026-04-19 08:15,MFk Karvina B,1. FC Slovacko B,1,1,1.909,4.100,2.900
-66053648,2026-04-19 08:30,FC Zlin B,TJ Start Brno,2,1,1.571,4.100,4.200
-66053634,2026-04-19 14:00,SK Polanka Nad Odrou,FK Frydek-Mistek,0,1,4.500,4.750,1.480
-70123212,2026-04-22 14:30,TJ Start Brno,FK Hodonin,1,3,3.900,4.000,1.615
-66053660,2026-04-25 08:15,FK Fotbal Trinec,FC Vsetin,1,0,1.181,6.250,9.500
-66053666,2026-04-25 08:15,FK Frydek-Mistek,SK Unicov,0,0,1.800,3.400,3.800
-66053652,2026-04-25 13:00,TJ Start Brno,FC Hlucin,0,0,1.800,3.700,3.500
-66053654,2026-04-25 14:00,TJ Unie Hlubina,MFk Karvina B,1,1,2.150,3.600,2.700
-66053658,2026-04-25 14:00,FK Hodonin,FC Zbrojovka Brno B,1,0,1.650,4.000,3.900
-66053662,2026-04-25 14:00,FK Blansko,SFK Vrchovina,2,3,2.000,3.600,3.000
-66053656,2026-04-26 08:15,1. FC Slovacko B,SK Hranice,1,0,1.300,5.500,5.750
-66053664,2026-04-26 08:15,MFK Vitkovice,SK Polanka Nad Odrou,1,1,1.600,3.800,4.333
-66053650,2026-04-26 08:30,FC Zlin B,SK Sigma Olomouc B,1,0,3.800,4.100,1.650
-66053794,2026-04-29 14:30,FC Zbrojovka Brno B,SK Sigma Olomouc B,2,1,3.500,3.900,1.750
-66053798,2026-04-29 14:30,MFk Karvina B,SFK Vrchovina,2,3,1.666,3.900,3.750
-66053802,2026-04-29 14:30,FC Zlin B,SK Unicov,1,1,3.200,3.750,1.900
-66053804,2026-04-29 14:30,TJ Start Brno,FK Frydek-Mistek,0,1,3.750,3.800,1.666
-66053806,2026-04-29 14:30,TJ Unie Hlubina,MFK Vitkovice,1,1,2.100,3.500,2.800
-66053808,2026-04-29 14:30,1. FC Slovacko B,FK Blansko,1,2,1.950,3.600,3.000
-66053810,2026-04-29 14:30,FK Hodonin,FK Fotbal Trinec,1,1,2.800,3.600,2.100
-66053796,2026-04-29 16:00,SK Hranice,FC Vsetin,0,2,2.150,3.500,2.700
-66053800,2026-04-29 16:00,FC Hlucin,SK Polanka Nad Odrou,0,2,1.950,3.600,3.100
-66053676,2026-05-02 12:00,FC Vsetin,FK Hodonin,0,2,,,
-66053674,2026-05-02 14:30,SFK Vrchovina,FK Fotbal Trinec,1,1,,,
-66053680,2026-05-02 16:00,SK Hranice,TJ Unie Hlubina,1,3,2.750,3.600,2.100
-66053684,2026-05-02 16:00,FC Hlucin,FC Zlin B,2,1,3.500,3.900,1.750
-66053668,2026-05-03 08:15,SK Sigma Olomouc B,FK Frydek-Mistek,0,1,2.000,3.600,2.900
-66053670,2026-05-03 08:15,SK Unicov,MFK Vitkovice,0,4,1.615,3.800,4.333
-66053678,2026-05-03 08:15,FC Zbrojovka Brno B,1. FC Slovacko B,2,1,1.700,4.100,3.500
-66053682,2026-05-03 08:15,MFk Karvina B,TJ Start Brno,0,5,1.363,5.250,5.500
-66053672,2026-05-03 14:30,SK Polanka Nad Odrou,FK Blansko,1,2,2.750,3.800,2.050
-66053690,2026-05-08 09:00,TJ Start Brno,SK Hranice,1,4,1.650,3.900,4.000
-66053692,2026-05-08 14:30,TJ Unie Hlubina,FC Zbrojovka Brno B,1,2,,,
-70620884,2026-05-08 14:30,FK Blansko,SK Unicov,0,3,,,
-66053686,2026-05-08 16:00,FC Hlucin,SK Sigma Olomouc B,1,6,,,
-66053698,2026-05-09 08:15,FK Fotbal Trinec,SK Polanka Nad Odrou,3,0,,,
-66053696,2026-05-09 14:30,FK Hodonin,SFK Vrchovina,0,1,,,
-66053702,2026-05-09 14:30,MFK Vitkovice,FK Frydek-Mistek,2,2,,,
-66053694,2026-05-10 08:15,1. FC Slovacko B,FC Vsetin,3,3,,,
-66053688,2026-05-10 08:30,FC Zlin B,MFk Karvina B,2,1,2.150,3.900,2.600
-66053706,2026-05-15 15:30,FK Frydek-Mistek,FK Blansko,2,0,,,
-70625110,2026-05-15 17:00,SK Hranice,FC Zlin B,3,2,,,
-66053714,2026-05-16 12:00,FC Vsetin,TJ Unie Hlubina,1,2,,,
-66053712,2026-05-16 15:00,SFK Vrchovina,1. FC Slovacko B,3,1,,,
-66053704,2026-05-17 08:15,SK Sigma Olomouc B,MFK Vitkovice,3,3,,,
-66053708,2026-05-17 08:15,SK Unicov,FK Fotbal Trinec,3,3,,,
-66053716,2026-05-17 08:15,FC Zbrojovka Brno B,TJ Start Brno,3,2,,,
-66053720,2026-05-17 08:15,MFk Karvina B,FC Hlucin,2,2,1.615,4.100,4.000
-66053812,2026-05-20 15:00,SK Sigma Olomouc B,FK Hodonin,0,1,,,
-66053816,2026-05-20 15:00,FK Blansko,TJ Unie Hlubina,2,4,,,
-66053820,2026-05-20 15:00,FK Frydek-Mistek,FC Zlin B,2,2,,,
-66053822,2026-05-20 15:00,SK Unicov,FC Hlucin,2,1,,,
-66053824,2026-05-20 15:00,SK Polanka Nad Odrou,MFk Karvina B,0,0,2.625,4.000,2.050
-66053826,2026-05-20 15:00,SFK Vrchovina,SK Hranice,2,2,,,
-66053814,2026-05-20 15:30,FK Fotbal Trinec,1. FC Slovacko B,1,1,1.181,6.000,11.000
-66053828,2026-05-20 15:30,FC Vsetin,FC Zbrojovka Brno B,1,3,,,
-66053736,2026-05-23 08:15,FK Fotbal Trinec,FK Frydek-Mistek,2,0,,,
-66053738,2026-05-23 08:15,FK Blansko,MFK Vitkovice,1,1,,,
-66053730,2026-05-23 15:00,TJ Unie Hlubina,SFK Vrchovina,1,0,,,
-66053734,2026-05-23 15:00,FK Hodonin,SK Unicov,3,1,,,
-66053722,2026-05-24 08:15,MFk Karvina B,SK Sigma Olomouc B,1,3,,,
-66053732,2026-05-24 08:15,1. FC Slovacko B,SK Polanka Nad Odrou,4,0,1.380,4.750,5.750
-66053726,2026-05-24 08:30,FC Zlin B,FC Zbrojovka Brno B,2,1,,,
-66053728,2026-05-24 15:00,TJ Start Brno,FC Vsetin,0,7,,,
-66053724,2026-05-24 16:00,FC Hlucin,SK Hranice,0,3,2.375,3.700,2.375
-66053744,2026-05-29 15:30,FK Frydek-Mistek,FK Hodonin,1,1,,,
-66053756,2026-05-29 17:00,SK Hranice,MFk Karvina B,0,0,1.700,4.333,3.500
-66053752,2026-05-30 12:00,FC Vsetin,FC Zlin B,1,1,,,
-66053742,2026-05-30 15:00,MFK Vitkovice,FK Fotbal Trinec,0,1,,,
-66053750,2026-05-30 15:00,SFK Vrchovina,TJ Start Brno,6,0,,,
-66053740,2026-05-31 08:15,SK Sigma Olomouc B,FK Blansko,5,0,,,
-66053746,2026-05-31 08:15,SK Unicov,1. FC Slovacko B,3,1,,,
-66053754,2026-05-31 08:15,FC Zbrojovka Brno B,FC Hlucin,1,6,,,
-66053748,2026-05-31 15:00,SK Polanka Nad Odrou,TJ Unie Hlubina,2,4,,,
-71557254,2026-06-03 15:30,SK Polanka Nad Odrou,FK Hodonin,3,4,,,
-66053762,2026-06-04 16:30,FC Hlucin,FC Vsetin,1,0,,,
-66053758,2026-06-05 17:00,SK Hranice,SK Sigma Olomouc B,0,4,,,
-66053760,2026-06-06 08:15,MFk Karvina B,FC Zbrojovka Brno B,2,0,,,
-66053774,2026-06-06 08:15,FK Fotbal Trinec,FK Blansko,5,0,,,
-66053770,2026-06-06 09:00,1. FC Slovacko B,FK Frydek-Mistek,2,2,,,
-66053764,2026-06-06 15:00,SFK Vrchovina,FC Zlin B,3,2,,,
-66053766,2026-06-06 15:00,TJ Start Brno,SK Polanka Nad Odrou,0,1,,,
-66053768,2026-06-06 15:00,TJ Unie Hlubina,SK Unicov,1,2,,,
-66053772,2026-06-06 15:00,FK Hodonin,MFK Vitkovice,1,2,,,
-66053776,2026-06-10 14:00,Olomouc B,Trinec,3,1,,,
-66053786,2026-06-10 15:30,Polanka Nad Odrou,Zlin B,0,2,,,
-66053780,2026-06-11 15:30,Vitkovice,Slovacko B,5,1,,,
-66053792,2026-06-12 14:30,FC Zbrojovka Brno B,SK Hranice,3,1,,,
-66053782,2026-06-12 15:30,Frydek-Mistek,Unie Hlubina,2,2,,,
-66053788,2026-06-12 16:00,Vrchovina,Hlucin,1,2,,,
-66053790,2026-06-13 12:00,FC Vsetin,MFk Karvina B,1,2,,,
-66053778,2026-06-13 15:00,Blansko,FK Hodonin,3,2,,,
-72597588,2026-07-31 15:30,TJ Unie Hlubina,FC Zbrojovka Brno B,8,2,2.700,3.700,2.100
-72597602,2026-07-31 16:00,FK Frydek-Mistek,SK Hranice,1,0,1.363,4.333,6.500
-72597586,2026-08-01 15:00,CSK Uhersky Brod,MFK Vitkovice,4,1,1.550,4.100,4.333
-72597596,2026-08-01 15:00,FK Hodonin,1. FC Slovacko B,1,3,1.650,3.900,4.000
-72597598,2026-08-01 15:00,SFK Vrchovina,FK Blansko,2,2,,,
-72597590,2026-08-02 08:15,MFK Havirov,FC Zlin B,0,1,2.875,3.500,2.100
-72597600,2026-08-02 08:15,SK Unicov,MFk Karvina B,3,2,1.450,4.333,5.000
-72597592,2026-08-02 15:00,FC Vsetin,SK Sigma Olomouc B,0,5,3.250,3.900,1.800
-72597594,2026-08-02 15:00,SK Polanka Nad Odrou,SK Artis B,0,1,4.100,3.800,1.615
-72597610,2026-08-07 15:30,SK Artis B,SFK Vrchovina,3,0,1.650,4.100,3.800
-72597604,2026-08-07 17:00,SK Hranice,SK Unicov,0,1,3.900,3.900,1.666
-72597616,2026-08-08 08:30,FK Blansko,FK Hodonin,3,3,3.100,3.750,1.950
-72597612,2026-08-08 12:00,FC Vsetin,TJ Unie Hlubina,2,4,,,
-72597618,2026-08-08 15:00,MFK Vitkovice,MFK Havirov,1,1,1.833,3.600,3.400
-72597606,2026-08-09 08:15,FC Zbrojovka Brno B,FK Frydek-Mistek,2,2,,,
-72597608,2026-08-09 08:15,SK Sigma Olomouc B,1. FC Slovacko B,2,1,1.400,4.750,5.250
-72597620,2026-08-09 08:15,MFk Karvina B,CSK Uhersky Brod,2,0,3.000,4.100,1.900
-72597614,2026-08-09 08:30,FC Zlin B,SK Polanka Nad Odrou,2,1,1.333,5.000,6.250
-72597622,2026-08-15 14:30,TJ Unie Hlubina,SK Sigma Olomouc B,2,3,3.200,3.800,1.850
-72597624,2026-08-15 14:30,CSK Uhersky Brod,SK Hranice,1,0,1.571,4.200,4.100
-72597632,2026-08-15 14:30,FK Frydek-Mistek,FC Vsetin,2,0,1.400,4.500,5.750
-72597634,2026-08-15 14:30,SFK Vrchovina,FC Zlin B,1,0,2.250,3.600,2.550
-72597636,2026-08-15 14:30,FK Hodonin,SK Artis B,0,1,2.400,3.600,2.350
-72597626,2026-08-16 08:15,MFK Havirov,MFk Karvina B,2,2,2.450,3.600,2.300
-72597628,2026-08-16 08:15,SK Unicov,FC Zbrojovka Brno B,1,2,1.615,4.000,4.000
-72597638,2026-08-16 08:15,1. FC Slovacko B,FK Blansko,4,2,1.480,4.500,4.750
-72597630,2026-08-16 14:30,SK Polanka Nad Odrou,MFK Vitkovice,0,0,3.100,3.700,1.950
-72597640,2026-08-21 17:00,SK Hranice,MFK Havirov,6,0,2.100,3.700,2.700
-72597650,2026-08-22 12:00,FC Vsetin,SK Unicov,1,2,3.750,3.700,1.727
-72597642,2026-08-22 14:30,TJ Unie Hlubina,FK Frydek-Mistek,3,2,2.400,3.600,2.375
-72597654,2026-08-22 14:30,MFK Vitkovice,SFK Vrchovina,0,1,2.000,3.700,3.000
-72597644,2026-08-23 08:15,FC Zbrojovka Brno B,CSK Uhersky Brod,2,1,1.700,4.100,3.700
-72597646,2026-08-23 08:15,SK Sigma Olomouc B,FK Blansko,3,0,1.222,6.250,8.000
-72597656,2026-08-23 08:15,MFk Karvina B,SK Polanka Nad Odrou,2,1,1.950,4.000,2.750
-72597652,2026-08-23 08:30,FC Zlin B,FK Hodonin,1,1,2.500,4.000,2.150
-72597648,2026-08-23 15:30,SK Artis B,1. FC Slovacko B,0,0,1.833,3.700,3.400
-72597664,2026-08-28 15:30,FK Frydek-Mistek,SK Sigma Olomouc B,1,0,3.000,3.800,1.950
-72597662,2026-08-29 14:00,FK Blansko,SK Artis B,0,4,4.100,4.100,1.600
-72597658,2026-08-29 14:30,CSK Uhersky Brod,FC Vsetin,2,1,1.615,4.100,4.000
-72597668,2026-08-29 14:30,SFK Vrchovina,MFk Karvina B,1,0,1.615,4.000,4.100
-72597670,2026-08-29 14:30,FK Hodonin,MFK Vitkovice,0,2,1.533,4.100,4.500
-72597660,2026-08-30 08:15,MFK Havirov,FC Zbrojovka Brno B,1,3,3.300,3.900,1.800
-72597672,2026-08-30 08:15,1. FC Slovacko B,FC Zlin B,1,1,2.100,3.600,2.750
-72597674,2026-08-30 08:15,SK Unicov,TJ Unie Hlubina,3,0,1.666,3.900,3.700
-72597666,2026-08-30 14:30,SK Polanka Nad Odrou,SK Hranice,0,1,2.875,3.600,2.050
-72597876,2026-09-02 14:30,1. FC Slovacko B,SFK Vrchovina,3,1,1.615,4.200,3.900
-72597878,2026-09-02 14:30,FK Hodonin,SK Sigma Olomouc B,2,0,2.800,3.500,2.100
-72597880,2026-09-02 14:30,MFk Karvina B,FK Frydek-Mistek,0,3,2.900,3.700,2.000
-72597882,2026-09-02 14:30,FK Blansko,SK Polanka Nad Odrou,1,1,1.900,3.800,3.100
-72597884,2026-09-02 14:30,MFK Vitkovice,SK Unicov,3,1,2.550,3.300,2.375
-72597890,2026-09-02 14:30,FC Zbrojovka Brno B,FC Vsetin,5,0,1.363,5.000,5.250
-72597888,2026-09-02 15:00,FC Zlin B,CSK Uhersky Brod,1,1,1.727,3.900,3.600
-72597886,2026-09-02 16:00,SK Artis B,MFK Havirov,2,0,1.250,5.750,8.000
-72597892,2026-09-02 16:00,SK Hranice,TJ Unie Hlubina,1,4,2.900,3.600,2.000
-72597684,2026-09-05 12:00,FC Vsetin,MFK Havirov,1,0,2.050,3.600,2.900
-72597676,2026-09-05 14:00,TJ Unie Hlubina,CSK Uhersky Brod,1,1,,,
-72597686,2026-09-05 14:00,FK Frydek-Mistek,SK Unicov,1,1,1.750,3.700,3.500
-72597692,2026-09-05 14:00,MFK Vitkovice,1. FC Slovacko B,1,0,2.100,3.500,2.800
-72597678,2026-09-05 16:00,SK Hranice,SFK Vrchovina,1,0,2.400,3.600,2.375
-72597680,2026-09-06 08:15,FC Zbrojovka Brno B,SK Polanka Nad Odrou,3,1,1.222,6.250,8.000
-72597682,2026-09-06 08:15,SK Sigma Olomouc B,SK Artis B,0,2,1.850,3.900,3.100
-72597694,2026-09-06 08:15,MFk Karvina B,FK Hodonin,1,0,2.875,3.800,1.950
-72597690,2026-09-06 08:30,FC Zlin B,FK Blansko,4,1,1.500,4.750,4.333
-72597700,2026-09-12 08:30,FK Blansko,MFK Vitkovice,0,0,3.100,3.750,1.909
-72597696,2026-09-12 14:00,CSK Uhersky Brod,FK Frydek-Mistek,1,3,3.200,3.500,1.950
-72597706,2026-09-12 14:00,SFK Vrchovina,FC Zbrojovka Brno B,0,3,3.500,3.900,1.750
-72597708,2026-09-12 14:00,FK Hodonin,SK Hranice,0,1,1.333,4.750,6.250
-72597698,2026-09-13 08:15,MFK Havirov,TJ Unie Hlubina,0,0,3.750,4.200,1.650
-72597710,2026-09-13 08:15,1. FC Slovacko B,MFk Karvina B,3,1,1.571,4.200,4.200
-72597712,2026-09-13 08:15,SK Unicov,SK Sigma Olomouc B,1,1,2.375,3.700,2.375
-72597702,2026-09-13 14:00,SK Polanka Nad Odrou,FC Vsetin,0,3,2.200,3.600,2.625
-72597704,2026-09-13 15:30,SK Artis B,FC Zlin B,4,1,1.166,7.000,10.000
-72597714,2026-09-18 16:00,SK Hranice,1. FC Slovacko B,1,1,2.800,3.600,2.050
-72597720,2026-09-19 08:15,SK Sigma Olomouc B,FC Zlin B,3,1,1.333,5.000,6.500
-72597722,2026-09-19 12:00,FC Vsetin,SFK Vrchovina,2,2,2.250,3.500,2.550
-72597716,2026-09-19 13:30,TJ Unie Hlubina,SK Polanka Nad Odrou,1,1,1.380,4.500,6.000
-72597724,2026-09-19 13:30,FK Frydek-Mistek,MFK Havirov,0,0,,,
-72597718,2026-09-20 08:15,FC Zbrojovka Brno B,FK Hodonin,0,1,1.571,4.100,4.200
-72597728,2026-09-20 08:15,SK Unicov,CSK Uhersky Brod,4,3,1.615,4.000,4.200
-72597730,2026-09-20 08:15,MFk Karvina B,FK Blansko,3,5,1.600,4.200,4.000
-72597726,2026-09-20 13:30,MFK Vitkovice,SK Artis B,0,0,4.100,4.200,1.600
-72597736,2026-09-25 13:30,FC Zlin B,MFK Vitkovice,0,3,2.000,3.700,2.900
-72597748,2026-09-25 13:30,1. FC Slovacko B,FC Zbrojovka Brno B,0,1,1.950,4.100,2.750
-75043646,2026-09-25 13:30,MFk Karvina B,SK Artis B,2,2,4.333,4.333,1.533
-72597732,2026-09-26 13:30,CSK Uhersky Brod,SK Sigma Olomouc B,2,1,3.500,4.000,1.727
-72597738,2026-09-26 13:30,FK Blansko,SK Hranice,1,3,2.000,3.750,2.875
-72597744,2026-09-26 13:30,SFK Vrchovina,TJ Unie Hlubina,3,2,2.200,3.700,2.550
-72597746,2026-09-26 13:30,FK Hodonin,FC Vsetin,2,0,1.480,4.200,4.750
-72597734,2026-09-27 08:15,MFK Havirov,SK Unicov,0,2,4.750,4.000,1.533
-72597740,2026-09-27 13:30,SK Polanka Nad Odrou,FK Frydek-Mistek,1,0,6.500,4.100,1.400
-72597750,2026-10-02 16:00,SK Hranice,SK Artis B,1,1,4.200,3.900,1.615
-72597752,2026-10-03 08:15,SK Sigma Olomouc B,MFK Vitkovice,2,1,1.444,4.500,5.000
-72597764,2026-10-03 12:00,FC Vsetin,1. FC Slovacko B,1,0,2.800,3.700,2.050
-72597754,2026-10-03 13:00,TJ Unie Hlubina,FK Hodonin,1,4,2.500,3.500,2.200
-72597756,2026-10-03 13:00,CSK Uhersky Brod,MFK Havirov,2,2,1.444,4.750,4.750
-72597766,2026-10-03 13:00,FK Frydek-Mistek,SFK Vrchovina,4,2,1.400,4.333,5.500
-72597758,2026-10-04 08:15,FC Zbrojovka Brno B,FK Blansko,1,1,1.270,5.500,7.500
-72597760,2026-10-04 08:15,SK Unicov,SK Polanka Nad Odrou,3,1,1.380,5.000,5.500
-72597762,2026-10-04 08:15,MFk Karvina B,FC Zlin B,0,1,2.250,4.000,2.400
-72597772,2026-10-10 13:00,MFK Vitkovice,MFk Karvina B,0,4,1.450,4.200,5.250
-72597776,2026-10-10 13:00,FK Blansko,FC Vsetin,2,0,2.000,3.700,2.900
-72597780,2026-10-10 13:00,FK Hodonin,FK Frydek-Mistek,3,0,2.800,3.500,2.150
-72597782,2026-10-10 13:00,SFK Vrchovina,SK Unicov,0,4,3.100,3.900,1.850
-72597768,2026-10-11 08:15,MFK Havirov,SK Sigma Olomouc B,3,0,4.750,4.750,1.420
-72597784,2026-10-11 08:15,1. FC Slovacko B,TJ Unie Hlubina,5,2,1.480,4.500,4.500
-72597770,2026-10-11 08:30,FC Zlin B,SK Hranice,0,1,1.615,4.100,4.000
-72597778,2026-10-11 13:00,SK Polanka Nad Odrou,CSK Uhersky Brod,4,0,3.000,3.750,1.950
-72597774,2026-10-13 15:30,SK Artis B,FC Zbrojovka Brno B,1,1,1.700,4.000,3.600
-72597786,2026-10-16 15:00,SK Hranice,MFK Vitkovice,2,1,2.750,3.300,2.250
-72597798,2026-10-17 12:00,FC Vsetin,SK Artis B,0,1,4.333,4.100,1.550
-72597788,2026-10-17 12:30,TJ Unie Hlubina,FK Blansko,1,0,1.650,4.000,3.900
-72597790,2026-10-17 12:30,CSK Uhersky Brod,SFK Vrchovina,4,0,1.909,3.900,3.000
-72597800,2026-10-17 12:30,FK Frydek-Mistek,1. FC Slovacko B,2,1,1.950,3.750,3.000
-72597792,2026-10-18 08:15,FC Zbrojovka Brno B,FC Zlin B,4,2,1.500,4.333,4.500
-72597794,2026-10-18 08:15,SK Sigma Olomouc B,MFk Karvina B,3,1,1.270,5.750,6.500
-72597796,2026-10-18 08:15,MFK Havirov,SK Polanka Nad Odrou,3,1,1.850,3.700,3.250
-72597802,2026-10-18 08:15,SK Unicov,FK Hodonin,3,2,1.900,3.600,3.200
-72597806,2026-10-24 12:30,SFK Vrchovina,MFK Havirov,2,0,2.050,3.900,2.700
-72597808,2026-10-24 12:30,FK Hodonin,CSK Uhersky Brod,1,2,1.615,4.000,4.000
-72597816,2026-10-24 12:30,FK Blansko,FK Frydek-Mistek,0,3,3.600,3.800,1.727
-72597820,2026-10-24 12:30,MFK Vitkovice,FC Zbrojovka Brno B,4,2,2.700,3.600,2.150
-72597804,2026-10-25 09:15,1. FC Slovacko B,SK Unicov,1,2,3.400,4.100,1.727
-72597810,2026-10-25 09:15,MFk Karvina B,SK Hranice,2,0,2.000,3.900,2.800
-72597814,2026-10-25 09:30,FC Zlin B,FC Vsetin,2,0,1.480,4.500,4.500
-72597812,2026-10-25 13:30,SK Polanka Nad Odrou,SK Sigma Olomouc B,0,5,6.000,5.000,1.333
-72597818,2026-10-25 15:30,SK Artis B,TJ Unie Hlubina,1,2,1.500,4.333,4.500
-72597830,2026-10-31 09:15,SK Sigma Olomouc B,SK Hranice,5,1,1.420,4.750,5.250
-72597822,2026-10-31 13:00,CSK Uhersky Brod,1. FC Slovacko B,1,2,2.100,3.600,2.750
-72597824,2026-10-31 13:00,TJ Unie Hlubina,FC Zlin B,2,2,2.100,4.000,2.600
-72597832,2026-10-31 13:00,FC Vsetin,MFK Vitkovice,1,4,3.500,3.600,1.800
-72597834,2026-10-31 13:00,FK Frydek-Mistek,SK Artis B,3,0,2.350,3.600,2.450
-72597826,2026-11-01 09:15,FC Zbrojovka Brno B,MFk Karvina B,1,3,1.380,5.000,5.250
-72597828,2026-11-01 09:15,MFK Havirov,FK Hodonin,0,1,3.100,3.800,1.900
-72597838,2026-11-01 09:15,SK Unicov,FK Blansko,1,3,1.300,5.250,6.250
-72597836,2026-11-01 13:00,SK Polanka Nad Odrou,SFK Vrchovina,4,2,2.600,3.600,2.200
-72597840,2026-11-06 16:00,SK Hranice,FC Zbrojovka Brno B,1,4,2.500,3.500,2.350
-72597856,2026-11-06 16:30,SK Artis B,SK Unicov,4,4,1.500,4.333,4.500
-72597844,2026-11-07 13:00,SFK Vrchovina,SK Sigma Olomouc B,0,2,4.100,4.200,1.571
-72597846,2026-11-07 13:00,FK Hodonin,SK Polanka Nad Odrou,4,0,1.333,5.000,6.250
-72597850,2026-11-07 13:00,FK Blansko,CSK Uhersky Brod,2,1,2.600,3.800,2.150
-72597854,2026-11-07 13:00,MFK Vitkovice,TJ Unie Hlubina,1,1,1.909,3.750,3.100
-72597842,2026-11-08 09:15,1. FC Slovacko B,MFK Havirov,1,1,1.450,4.750,4.750
-72597848,2026-11-08 09:15,MFk Karvina B,FC Vsetin,3,0,1.571,4.200,4.100
-72597852,2026-11-08 09:30,FC Zlin B,FK Frydek-Mistek,1,3,3.000,3.600,2.000
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+54162465,2025-05-24 08:15,FK Fotbal Trinec,FC Strani,3,0,,,,,,
+54162455,2025-05-24 15:00,TJ Start Brno,FC Zbrojovka Brno B,1,1,,,,,,
+54162459,2025-05-24 15:00,FK Frydek-Mistek,CSK Uhersky Brod,1,0,,,,,,
+54162451,2025-05-25 08:15,MFk Karvina B,1. SC Znojmo FK,5,0,,,,,,
+54162461,2025-05-25 08:15,1. FC Slovacko B,FC Zlinsko,1,1,,,,,,
+58778641,2025-05-27 15:30,FK Hodonin,SK Unicov,0,2,,,,,,
+54162473,2025-05-29 15:30,FC Strani,FK Hodonin,2,2,,,,,,
+54162469,2025-05-30 15:30,1. SC Znojmo FK,TJ Unie Hlubina,1,8,,,,,,
+54162481,2025-05-30 15:30,FK Blansko,TJ Start Brno,3,0,,,,,,
+54162477,2025-05-30 16:00,FC Zlinsko,FK Frydek-Mistek,5,4,,,,,,
+54162485,2025-05-31 08:30,FC Zlin B,MFk Karvina B,3,2,,,,,,
+54162471,2025-05-31 15:00,SK Hanacka Slavia Kromeriz,FK Fotbal Trinec,1,0,,,,,,
+54162479,2025-05-31 15:00,CSK Uhersky Brod,FC Slovan Rosice,1,1,,,,,,
+54162475,2025-06-01 08:15,SK Unicov,1. FC Slovacko B,1,1,,,,,,
+54162483,2025-06-01 08:15,FC Zbrojovka Brno B,FC Hlucin,2,1,,,,,,
+54162515,2025-06-03 16:00,FC Zlinsko,TJ Start Brno,1,3,,,,,,
+54162503,2025-06-06 15:30,FK Fotbal Trinec,TJ Unie Hlubina,2,1,,,,,,
+54162491,2025-06-06 16:00,FC Hlucin,FK Blansko,4,1,,,,,,
+54162495,2025-06-06 16:00,FC Slovan Rosice,FC Zlinsko,2,1,,,,,,
+54162489,2025-06-07 08:15,MFk Karvina B,FC Zbrojovka Brno B,4,4,,,,,,
+54162487,2025-06-07 08:30,FC Zlin B,1. SC Znojmo FK,2,1,,,,,,
+54162493,2025-06-07 15:00,TJ Start Brno,CSK Uhersky Brod,1,1,,,,,,
+54162497,2025-06-07 15:00,FK Frydek-Mistek,SK Unicov,1,4,,,,,,
+54162499,2025-06-07 15:00,1. FC Slovacko B,FC Strani,2,2,,,,,,
+54162501,2025-06-07 15:00,FK Hodonin,SK Hanacka Slavia Kromeriz,2,2,,,,,,
+54162509,2025-06-13 15:00,SK Hanacka Slavia Kromeriz,1. FC Slovacko B,4,0,,,,,,
+54162505,2025-06-13 15:30,1. SC Znojmo FK,FK Fotbal Trinec,0,5,,,,,,
+54162513,2025-06-13 15:30,SK Unicov,FC Slovan Rosice,0,1,,,,,,
+54162511,2025-06-14 15:00,FC Strani,FK Frydek-Mistek,1,2,,,,,,
+54162517,2025-06-14 15:00,CSK Uhersky Brod,FC Hlucin,4,2,,,,,,
+61684304,2025-08-08 16:00,TJ Unie Hlubina,FK Hodonin,3,2,,,,,,
+61684316,2025-08-09 12:00,FC Vsetin,SFK Vrchovina,3,0,,,,,,
+61684308,2025-08-09 15:00,FC Hlucin,MFK Vitkovice,0,1,,,,,,
+61684312,2025-08-09 15:00,TJ Start Brno,FK Fotbal Trinec,0,0,,,,,,
+61684306,2025-08-10 08:15,MFk Karvina B,FK Frydek-Mistek,0,3,,,,,,
+61684314,2025-08-10 08:15,SK Sigma Olomouc B,1. FC Slovacko B,2,1,,,,,,
+61684318,2025-08-10 08:15,FC Zbrojovka Brno B,SK Polanka Nad Odrou,3,0,,,,,,
+61684310,2025-08-10 08:30,FC Zlin B,FK Blansko,4,2,,,,,,
+61684326,2025-08-16 08:15,FK Frydek-Mistek,SK Hranice,1,0,,,,,,
+61684332,2025-08-16 08:15,FK Fotbal Trinec,FC Zlin B,6,2,,,,,,
+61684328,2025-08-16 14:30,MFK Vitkovice,MFk Karvina B,2,1,,,,,,
+61684334,2025-08-16 14:30,FK Hodonin,TJ Start Brno,2,2,,,,,,
+61684324,2025-08-17 08:15,SK Unicov,FC Zbrojovka Brno B,0,0,,,,,,
+61684336,2025-08-17 08:15,1. FC Slovacko B,TJ Unie Hlubina,1,1,,,,,,
+61684322,2025-08-17 14:30,SK Polanka Nad Odrou,FC Vsetin,1,1,,,,,,
+62019556,2025-08-22 15:30,TJ Start Brno,1. FC Slovacko B,0,0,,,,,,
+61684396,2025-08-22 16:00,FC Hlucin,FK Fotbal Trinec,1,1,,,,,,
+61684390,2025-08-22 17:00,SK Hranice,MFK Vitkovice,0,0,,,,,,
+61684404,2025-08-23 12:00,FC Vsetin,SK Unicov,2,1,,,,,,
+61684402,2025-08-23 14:30,SFK Vrchovina,SK Polanka Nad Odrou,0,0,,,,,,
+61684392,2025-08-24 08:15,FC Zbrojovka Brno B,FK Frydek-Mistek,2,2,,,,,,
+61684394,2025-08-24 08:15,MFk Karvina B,FK Blansko,1,2,,,,,,
+61684400,2025-08-24 08:15,SK Sigma Olomouc B,TJ Unie Hlubina,0,2,,,,,,
+61684398,2025-08-24 08:30,FC Zlin B,FK Hodonin,1,1,,,,,,
+61684408,2025-08-30 08:15,FK Fotbal Trinec,MFk Karvina B,2,0,,,,,,
+61684420,2025-08-30 08:15,FK Frydek-Mistek,FC Vsetin,3,0,,,,,,
+61684410,2025-08-30 14:30,TJ Unie Hlubina,TJ Start Brno,1,1,,,,,,
+61684414,2025-08-30 14:30,FK Hodonin,FC Hlucin,4,0,,,,,,
+61684418,2025-08-30 14:30,MFK Vitkovice,FC Zbrojovka Brno B,2,1,,,,,,
+61684412,2025-08-31 08:15,1. FC Slovacko B,FC Zlin B,2,2,,,,,,
+61684424,2025-08-31 14:30,SK Polanka Nad Odrou,SK Sigma Olomouc B,0,3,,,,,,
+61684432,2025-09-05 16:00,FC Hlucin,1. FC Slovacko B,2,2,,,,,,
+61684434,2025-09-05 16:00,FC Zlin B,TJ Unie Hlubina,2,2,,,,,,
+61684426,2025-09-05 17:00,SK Hranice,FK Fotbal Trinec,0,1,,,,,,
+61684428,2025-09-06 12:00,FC Vsetin,MFK Vitkovice,3,1,,,,,,
+61684440,2025-09-06 14:00,SFK Vrchovina,FK Frydek-Mistek,4,1,,,,,,
+61684430,2025-09-07 08:15,MFk Karvina B,FK Hodonin,2,3,,,,,,
+61684436,2025-09-07 08:15,SK Sigma Olomouc B,TJ Start Brno,2,0,,,,,,
+61684442,2025-09-07 08:15,FC Zbrojovka Brno B,FK Blansko,4,1,,,,,,
+61684438,2025-09-07 14:00,SK Polanka Nad Odrou,SK Unicov,2,3,,,,,,
+61684518,2025-09-10 14:00,1. FC Slovacko B,FK Fotbal Trinec,0,5,,,,,,
+61684520,2025-09-10 14:00,TJ Unie Hlubina,FK Blansko,0,4,,,,,,
+61684524,2025-09-10 14:00,FC Zlin B,FK Frydek-Mistek,1,1,,,,,,
+61684528,2025-09-10 14:30,MFk Karvina B,SK Polanka Nad Odrou,1,2,,,,,,
+61684516,2025-09-10 15:00,FK Hodonin,SK Sigma Olomouc B,3,3,,,,,,
+61684522,2025-09-10 15:00,TJ Start Brno,MFK Vitkovice,3,2,,,,,,
+61684530,2025-09-10 15:00,FC Zbrojovka Brno B,FC Vsetin,3,0,,,,,,
+61684532,2025-09-10 15:00,SK Hranice,SFK Vrchovina,2,0,,,,,,
+61684452,2025-09-13 08:15,FK Fotbal Trinec,FC Zbrojovka Brno B,3,1,,,,,,
+61684444,2025-09-13 14:00,TJ Start Brno,FC Zlin B,2,3,,,,,,
+61684446,2025-09-13 14:00,TJ Unie Hlubina,FC Hlucin,1,1,,,,,,
+61684450,2025-09-13 14:00,FK Hodonin,SK Hranice,3,0,,,,,,
+61684454,2025-09-13 14:00,FK Blansko,FC Vsetin,2,0,,,,,,
+61684456,2025-09-13 14:00,MFK Vitkovice,SFK Vrchovina,2,4,,,,,,
+61684462,2025-09-19 16:00,SK Hranice,1. FC Slovacko B,1,3,,,,,,
+61684466,2025-09-19 16:00,FC Hlucin,TJ Start Brno,2,2,,,,,,
+61684476,2025-09-20 12:00,FC Vsetin,FK Fotbal Trinec,2,0,,,,,,
+61684474,2025-09-20 13:30,SFK Vrchovina,FK Blansko,3,0,,,,,,
+61684468,2025-09-21 08:15,SK Sigma Olomouc B,FC Zlin B,1,1,,,,,,
+61684478,2025-09-21 08:15,FC Zbrojovka Brno B,FK Hodonin,1,0,,,,,,
+61684472,2025-09-21 13:30,SK Polanka Nad Odrou,MFK Vitkovice,0,3,,,,,,
+61684486,2025-09-27 08:15,FK Fotbal Trinec,SFK Vrchovina,7,2,,,,,,
+61684496,2025-09-27 08:30,FC Zlin B,FC Hlucin,6,0,,,,,,
+61684488,2025-09-27 12:30,FK Hodonin,FC Vsetin,4,2,,,,,,
+61684494,2025-09-27 12:30,TJ Start Brno,MFk Karvina B,0,1,,,,,,
+61684482,2025-09-27 13:30,MFK Vitkovice,SK Unicov,2,2,,,,,,
+61684492,2025-09-27 13:30,TJ Unie Hlubina,SK Hranice,1,3,,,,,,
+61684490,2025-09-28 08:15,1. FC Slovacko B,FC Zbrojovka Brno B,3,3,,,,,,
+61684498,2025-10-03 16:00,SK Hranice,TJ Start Brno,2,1,,,,,,
+61684510,2025-10-04 08:15,FK Frydek-Mistek,MFK Vitkovice,1,0,,,,,,
+61684502,2025-10-04 12:00,FC Vsetin,1. FC Slovacko B,3,1,,,,,,
+61684504,2025-10-04 13:00,SFK Vrchovina,FK Hodonin,1,5,,,,,,
+61684500,2025-10-05 08:15,FC Zbrojovka Brno B,TJ Unie Hlubina,1,0,,,,,,
+61684508,2025-10-05 08:15,SK Unicov,FK Blansko,2,1,,,,,,
+61684512,2025-10-05 08:15,SK Sigma Olomouc B,FC Hlucin,3,1,,,,,,
+61684514,2025-10-05 08:15,MFk Karvina B,FC Zlin B,3,0,,,,,,
+61684506,2025-10-05 13:00,SK Polanka Nad Odrou,FK Fotbal Trinec,1,2,,,,,,
+64329375,2025-10-08 13:30,FK Frydek-Mistek,SK Polanka Nad Odrou,0,2,,,,,,
+61685762,2025-10-10 16:00,FC Zlin B,SK Hranice,2,2,,,,,,
+61685764,2025-10-10 16:00,FC Hlucin,MFk Karvina B,1,1,,,,,,
+61685752,2025-10-11 08:15,FK Fotbal Trinec,SK Unicov,3,0,,,,,,
+61685756,2025-10-11 08:15,1. FC Slovacko B,SFK Vrchovina,0,0,,,,,,
+61685750,2025-10-11 13:00,FK Blansko,FK Frydek-Mistek,1,2,,,,,,
+61685754,2025-10-11 13:00,FK Hodonin,SK Polanka Nad Odrou,4,0,,,,,,
+61685760,2025-10-11 13:00,TJ Start Brno,FC Zbrojovka Brno B,1,1,,,,,,
+64434375,2025-10-15 13:30,MFK Vitkovice,SK Sigma Olomouc B,2,3,,,,,,
+61685768,2025-10-17 15:00,SK Hranice,FC Hlucin,1,3,,,,,,
+61685774,2025-10-18 08:15,FK Frydek-Mistek,FK Fotbal Trinec,1,1,,,,,,
+61685782,2025-10-18 12:00,FC Vsetin,TJ Start Brno,2,2,,,,,,
+61685770,2025-10-18 12:30,MFK Vitkovice,FK Blansko,3,1,,,,,,
+61685772,2025-10-19 08:15,SK Sigma Olomouc B,MFk Karvina B,2,3,,,,,,
+61685780,2025-10-19 08:15,FC Zbrojovka Brno B,FC Zlin B,3,0,,,,,,
+61685784,2025-10-19 12:30,SK Polanka Nad Odrou,1. FC Slovacko B,2,1,,,,,,
+61685790,2025-10-24 16:00,FC Hlucin,FC Zbrojovka Brno B,1,4,,,,,,
+61685800,2025-10-25 08:15,FK Fotbal Trinec,MFK Vitkovice,3,0,,,,,,
+61685794,2025-10-25 12:30,TJ Unie Hlubina,SK Polanka Nad Odrou,5,1,,,,,,
+61685798,2025-10-25 12:30,FK Hodonin,FK Frydek-Mistek,2,1,,,,,,
+61685802,2025-10-25 12:30,FK Blansko,SK Sigma Olomouc B,0,1,,,,,,
+61685788,2025-10-26 09:15,MFk Karvina B,SK Hranice,1,1,,,,,,
+61685796,2025-10-26 09:15,1. FC Slovacko B,SK Unicov,0,2,,,,,,
+61685792,2025-10-26 09:30,FC Zlin B,FC Vsetin,3,0,,,,,,
+64771240,2025-10-29 13:00,FK Frydek-Mistek,SK Sigma Olomouc B,1,0,,,,,,
+61685806,2025-11-01 13:00,FK Blansko,FK Fotbal Trinec,2,0,,,,,,
+61685816,2025-11-01 13:00,FC Vsetin,FC Hlucin,3,1,,,,,,
+61685808,2025-11-01 13:30,MFK Vitkovice,FK Hodonin,2,4,,,,,,
+61685804,2025-11-02 09:15,SK Sigma Olomouc B,SK Hranice,2,0,,,,,,
+61685812,2025-11-02 09:15,SK Unicov,TJ Unie Hlubina,2,0,,,,,,
+61685818,2025-11-02 09:15,FC Zbrojovka Brno B,MFk Karvina B,1,2,,,,,,
+61685810,2025-11-02 13:00,FK Frydek-Mistek,1. FC Slovacko B,2,2,,,,,,
+61685822,2025-11-07 16:00,SK Hranice,FC Zbrojovka Brno B,0,4,,,,,,
+61685824,2025-11-07 17:00,FC Hlucin,SFK Vrchovina,3,0,,,,,,
+61685838,2025-11-08 09:15,FK Fotbal Trinec,SK Sigma Olomouc B,2,1,,,,,,
+61685830,2025-11-08 13:00,TJ Start Brno,SK Unicov,0,1,,,,,,
+61685832,2025-11-08 13:00,TJ Unie Hlubina,FK Frydek-Mistek,2,1,,,,,,
+61685836,2025-11-08 13:00,FK Hodonin,FK Blansko,2,0,,,,,,
+61685826,2025-11-09 09:15,MFk Karvina B,FC Vsetin,0,1,,,,,,
+61685834,2025-11-09 09:15,1. FC Slovacko B,MFK Vitkovice,1,0,,,,,,
+61685828,2025-11-09 09:30,FC Zlin B,SK Polanka Nad Odrou,2,1,,,,,,
+61685850,2025-11-15 09:15,FK Frydek-Mistek,TJ Start Brno,2,0,,,,,,
+61685856,2025-11-15 09:15,FK Fotbal Trinec,FK Hodonin,2,0,,,,,,
+61685842,2025-11-15 13:00,FC Vsetin,SK Hranice,2,3,,,,,,
+61685844,2025-11-15 13:00,SFK Vrchovina,MFk Karvina B,3,0,,,,,,
+61685848,2025-11-15 13:00,SK Unicov,FC Zlin B,1,0,,,,,,
+61685852,2025-11-15 13:00,MFK Vitkovice,TJ Unie Hlubina,0,1,,,,,,
+61685854,2025-11-15 13:00,FK Blansko,1. FC Slovacko B,0,3,,,,,,
+61685840,2025-11-16 09:15,SK Sigma Olomouc B,FC Zbrojovka Brno B,0,1,,,,,,
+61685846,2025-11-16 13:00,SK Polanka Nad Odrou,FC Hlucin,2,1,,,,,,
+66053528,2026-03-06 17:00,FC Hlucin,FK Frydek-Mistek,1,2,4.000,4.200,1.600,2.75,1.850,1.950
+66053524,2026-03-07 13:30,SK Hranice,SK Polanka Nad Odrou,1,2,1.833,3.800,3.300,2.75,1.925,1.875
+66053534,2026-03-07 13:30,TJ Unie Hlubina,FK Fotbal Trinec,1,2,5.500,4.100,1.444,3.25,1.950,1.850
+66053520,2026-03-08 09:15,SK Sigma Olomouc B,FC Vsetin,1,0,1.333,4.500,6.500,3.25,1.850,1.950
+66053522,2026-03-08 09:15,FC Zbrojovka Brno B,SFK Vrchovina,2,0,1.480,4.200,5.250,3,1.850,1.950
+66053526,2026-03-08 09:15,MFk Karvina B,SK Unicov,3,0,2.750,3.600,2.100,3,1.950,1.850
+66053536,2026-03-08 09:15,1. FC Slovacko B,FK Hodonin,0,2,2.450,3.750,2.300,2.75,1.825,1.975
+66053530,2026-03-08 09:30,FC Zlin B,MFK Vitkovice,4,1,1.950,3.750,3.000,3.25,1.975,1.825
+66053532,2026-03-08 13:30,TJ Start Brno,FK Blansko,1,0,1.909,3.700,3.000,2.75,1.875,1.925
+66053542,2026-03-13 17:00,FK Fotbal Trinec,TJ Start Brno,4,0,1.333,4.333,7.500,3.25,1.800,2.000
+66053548,2026-03-14 09:15,FK Frydek-Mistek,MFk Karvina B,1,0,1.550,3.900,4.500,3,1.800,2.000
+66053554,2026-03-14 09:30,SFK Vrchovina,FC Vsetin,3,0,2.100,3.600,3.000,2.75,1.800,2.000
+66053540,2026-03-14 13:30,FK Hodonin,TJ Unie Hlubina,1,1,1.420,4.750,5.250,3.25,1.900,1.900
+66053544,2026-03-14 13:30,FK Blansko,FC Zlin B,4,3,2.250,4.000,2.375,3.25,1.825,1.975
+66053546,2026-03-14 13:30,MFK Vitkovice,FC Hlucin,1,0,1.850,3.700,3.250,2.75,2.000,1.800
+66053538,2026-03-15 09:15,1. FC Slovacko B,SK Sigma Olomouc B,0,3,2.750,3.600,2.100,3,2.000,1.800
+66053550,2026-03-15 09:15,SK Unicov,SK Hranice,2,1,1.420,4.200,5.500,2.75,1.800,2.000
+66053552,2026-03-15 13:30,SK Polanka Nad Odrou,FC Zbrojovka Brno B,1,3,4.500,3.800,1.571,2.75,1.900,1.900
+66053562,2026-03-20 16:00,SK Hranice,FK Frydek-Mistek,0,2,3.300,3.600,1.900,2.5,1.825,1.975
+66053566,2026-03-20 17:00,FC Hlucin,FK Blansko,0,3,2.100,3.600,2.800,3.25,1.975,1.825
+66053568,2026-03-21 09:30,FC Zlin B,FK Fotbal Trinec,1,2,2.800,4.200,1.950,3.25,2.000,1.800
+66053558,2026-03-21 13:00,FC Vsetin,SK Polanka Nad Odrou,1,1,1.571,4.000,4.200,2.75,1.875,1.925
+66053572,2026-03-21 14:00,TJ Unie Hlubina,1. FC Slovacko B,0,1,2.100,3.600,2.750,3,2.000,1.800
+66053556,2026-03-22 09:15,SK Sigma Olomouc B,SFK Vrchovina,2,0,1.363,4.333,6.500,2.75,1.900,1.900
+66053560,2026-03-22 09:15,FC Zbrojovka Brno B,SK Unicov,0,1,2.000,3.750,2.875,3,1.800,2.000
+66053564,2026-03-22 09:15,MFk Karvina B,MFK Vitkovice,1,1,1.615,4.100,4.000,3,1.850,1.950
+66053576,2026-03-28 09:15,1. FC Slovacko B,TJ Start Brno,2,1,1.444,4.200,5.250,2.75,1.975,1.825
+66053580,2026-03-28 09:15,FK Fotbal Trinec,FC Hlucin,1,0,1.142,7.000,17.000,3.25,1.800,2.000
+66053586,2026-03-28 09:15,FK Frydek-Mistek,FC Zbrojovka Brno B,5,2,1.800,3.700,3.600,2.75,1.900,1.900
+66053574,2026-03-28 14:00,TJ Unie Hlubina,SK Sigma Olomouc B,0,3,4.100,3.900,1.615,2.75,1.900,1.900
+66053578,2026-03-28 14:00,FK Hodonin,FC Zlin B,1,1,1.950,3.900,2.900,3.5,1.900,1.900
+66053582,2026-03-28 14:00,FK Blansko,MFk Karvina B,3,1,2.150,3.700,2.600,3,1.975,1.825
+66053584,2026-03-28 14:00,MFK Vitkovice,SK Hranice,1,0,1.615,4.100,4.000,2.75,1.825,1.975
+66053588,2026-03-29 08:15,SK Unicov,FC Vsetin,0,0,1.300,4.750,7.500,3,1.825,1.975
+66053590,2026-03-29 13:00,SK Polanka Nad Odrou,SFK Vrchovina,2,2,2.875,3.400,2.100,2.5,1.800,2.000
+66053600,2026-04-03 13:00,SK Hranice,FK Blansko,2,2,2.450,3.600,2.350,3,1.800,2.000
+66053610,2026-04-03 13:00,TJ Start Brno,TJ Unie Hlubina,1,1,2.200,3.700,2.550,3,1.900,1.900
+66053604,2026-04-03 16:00,FC Hlucin,FK Hodonin,1,5,3.600,3.900,1.700,3,1.925,1.875
+66053602,2026-04-04 08:15,MFk Karvina B,FK Fotbal Trinec,0,1,4.333,4.200,1.550,3.25,1.975,1.825
+66053596,2026-04-04 12:00,FC Vsetin,FK Frydek-Mistek,2,1,4.000,3.700,1.700,2.75,1.975,1.825
+66053594,2026-04-04 13:30,SFK Vrchovina,SK Unicov,0,1,3.250,3.600,1.909,2.75,1.975,1.825
+66053592,2026-04-05 08:15,SK Sigma Olomouc B,SK Polanka Nad Odrou,3,0,1.142,7.500,13.000,3.25,1.800,2.000
+66053598,2026-04-05 08:15,FC Zbrojovka Brno B,MFK Vitkovice,4,1,1.550,4.100,4.750,2.75,1.800,2.000
+66053608,2026-04-05 08:30,FC Zlin B,1. FC Slovacko B,0,4,2.500,3.700,2.300,3,1.950,1.850
+66053620,2026-04-11 08:15,FK Fotbal Trinec,SK Hranice,3,0,1.090,9.500,19.000,3.5,2.000,1.800
+66053626,2026-04-11 08:15,FK Frydek-Mistek,SFK Vrchovina,1,1,1.450,4.333,5.000,3,1.900,1.900
+66053612,2026-04-11 13:00,TJ Start Brno,SK Sigma Olomouc B,0,0,7.500,4.500,1.300,3,1.875,1.925
+66053614,2026-04-11 13:30,TJ Unie Hlubina,FC Zlin B,1,0,2.100,3.600,2.750,3,1.925,1.875
+66053618,2026-04-11 13:30,FK Hodonin,MFk Karvina B,1,1,1.480,4.333,4.750,3.5,2.000,1.800
+66053622,2026-04-11 13:30,FK Blansko,FC Zbrojovka Brno B,0,2,2.050,3.900,2.800,3,1.800,2.000
+66053616,2026-04-12 08:15,1. FC Slovacko B,FC Hlucin,2,1,1.222,5.250,8.500,3.25,1.875,1.925
+66053624,2026-04-12 08:15,MFK Vitkovice,FC Vsetin,1,0,1.850,3.600,3.250,2.5,1.975,1.825
+66053630,2026-04-12 08:15,SK Unicov,SK Polanka Nad Odrou,1,1,1.363,4.200,6.250,3.25,1.950,1.850
+66053642,2026-04-17 16:00,SK Hranice,FK Hodonin,1,3,5.500,4.500,1.400,3,1.900,1.900
+66053646,2026-04-17 16:00,FC Hlucin,TJ Unie Hlubina,0,2,2.900,3.600,2.050,2.75,1.800,2.000
+66053638,2026-04-18 12:00,FC Vsetin,FK Blansko,2,0,2.350,3.500,2.450,3,1.975,1.825
+66053636,2026-04-18 14:00,SFK Vrchovina,MFK Vitkovice,1,1,2.100,3.500,2.800,2.5,1.875,1.925
+66053632,2026-04-19 08:00,SK Sigma Olomouc B,SK Unicov,1,2,1.600,3.700,4.500,2.75,1.850,1.950
+66053640,2026-04-19 08:15,FC Zbrojovka Brno B,FK Fotbal Trinec,2,1,3.900,3.900,1.666,3,2.000,1.800
+66053644,2026-04-19 08:15,MFk Karvina B,1. FC Slovacko B,1,1,1.909,4.100,2.900,3.25,1.975,1.825
+66053648,2026-04-19 08:30,FC Zlin B,TJ Start Brno,2,1,1.571,4.100,4.200,3,1.875,1.925
+66053634,2026-04-19 14:00,SK Polanka Nad Odrou,FK Frydek-Mistek,0,1,4.500,4.750,1.480,2.75,1.875,1.925
+70123212,2026-04-22 14:30,TJ Start Brno,FK Hodonin,1,3,3.900,4.000,1.615,3,1.800,2.000
+66053660,2026-04-25 08:15,FK Fotbal Trinec,FC Vsetin,1,0,1.181,6.250,9.500,3.25,1.900,1.900
+66053666,2026-04-25 08:15,FK Frydek-Mistek,SK Unicov,0,0,1.800,3.400,3.800,2.5,1.975,1.825
+66053652,2026-04-25 13:00,TJ Start Brno,FC Hlucin,0,0,1.800,3.700,3.500,2.75,1.825,1.975
+66053654,2026-04-25 14:00,TJ Unie Hlubina,MFk Karvina B,1,1,2.150,3.600,2.700,3,1.925,1.875
+66053658,2026-04-25 14:00,FK Hodonin,FC Zbrojovka Brno B,1,0,1.650,4.000,3.900,3,1.975,1.825
+66053662,2026-04-25 14:00,FK Blansko,SFK Vrchovina,2,3,2.000,3.600,3.000,2.75,1.800,2.000
+66053656,2026-04-26 08:15,1. FC Slovacko B,SK Hranice,1,0,1.300,5.500,5.750,3.25,1.950,1.850
+66053664,2026-04-26 08:15,MFK Vitkovice,SK Polanka Nad Odrou,1,1,1.600,3.800,4.333,2.75,1.900,1.900
+66053650,2026-04-26 08:30,FC Zlin B,SK Sigma Olomouc B,1,0,3.800,4.100,1.650,3,1.925,1.875
+66053794,2026-04-29 14:30,FC Zbrojovka Brno B,SK Sigma Olomouc B,2,1,3.500,3.900,1.750,2.75,1.825,1.975
+66053798,2026-04-29 14:30,MFk Karvina B,SFK Vrchovina,2,3,1.666,3.900,3.750,2.75,1.975,1.825
+66053802,2026-04-29 14:30,FC Zlin B,SK Unicov,1,1,3.200,3.750,1.900,2.75,1.875,1.925
+66053804,2026-04-29 14:30,TJ Start Brno,FK Frydek-Mistek,0,1,3.750,3.800,1.666,2.75,1.950,1.850
+66053806,2026-04-29 14:30,TJ Unie Hlubina,MFK Vitkovice,1,1,2.100,3.500,2.800,2.75,1.900,1.900
+66053808,2026-04-29 14:30,1. FC Slovacko B,FK Blansko,1,2,1.950,3.600,3.000,3,1.900,1.900
+66053810,2026-04-29 14:30,FK Hodonin,FK Fotbal Trinec,1,1,2.800,3.600,2.100,2.75,1.825,1.975
+66053796,2026-04-29 16:00,SK Hranice,FC Vsetin,0,2,2.150,3.500,2.700,2.5,1.975,1.825
+66053800,2026-04-29 16:00,FC Hlucin,SK Polanka Nad Odrou,0,2,1.950,3.600,3.100,2.75,1.850,1.950
+66053676,2026-05-02 12:00,FC Vsetin,FK Hodonin,0,2,,,,,,
+66053674,2026-05-02 14:30,SFK Vrchovina,FK Fotbal Trinec,1,1,,,,,,
+66053680,2026-05-02 16:00,SK Hranice,TJ Unie Hlubina,1,3,2.750,3.600,2.100,2.75,1.875,1.925
+66053684,2026-05-02 16:00,FC Hlucin,FC Zlin B,2,1,3.500,3.900,1.750,3,1.925,1.875
+66053668,2026-05-03 08:15,SK Sigma Olomouc B,FK Frydek-Mistek,0,1,2.000,3.600,2.900,2.75,1.925,1.875
+66053670,2026-05-03 08:15,SK Unicov,MFK Vitkovice,0,4,1.615,3.800,4.333,2.75,1.825,1.975
+66053678,2026-05-03 08:15,FC Zbrojovka Brno B,1. FC Slovacko B,2,1,1.700,4.100,3.500,3,1.950,1.850
+66053682,2026-05-03 08:15,MFk Karvina B,TJ Start Brno,0,5,1.363,5.250,5.500,2.75,1.900,1.900
+66053672,2026-05-03 14:30,SK Polanka Nad Odrou,FK Blansko,1,2,2.750,3.800,2.050,3,1.950,1.850
+66053690,2026-05-08 09:00,TJ Start Brno,SK Hranice,1,4,1.650,3.900,4.000,3,1.975,1.825
+66053692,2026-05-08 14:30,TJ Unie Hlubina,FC Zbrojovka Brno B,1,2,,,,,,
+70620884,2026-05-08 14:30,FK Blansko,SK Unicov,0,3,,,,,,
+66053686,2026-05-08 16:00,FC Hlucin,SK Sigma Olomouc B,1,6,,,,,,
+66053698,2026-05-09 08:15,FK Fotbal Trinec,SK Polanka Nad Odrou,3,0,,,,,,
+66053696,2026-05-09 14:30,FK Hodonin,SFK Vrchovina,0,1,,,,,,
+66053702,2026-05-09 14:30,MFK Vitkovice,FK Frydek-Mistek,2,2,,,,,,
+66053694,2026-05-10 08:15,1. FC Slovacko B,FC Vsetin,3,3,,,,,,
+66053688,2026-05-10 08:30,FC Zlin B,MFk Karvina B,2,1,2.150,3.900,2.600,3.25,1.975,1.825
+66053706,2026-05-15 15:30,FK Frydek-Mistek,FK Blansko,2,0,,,,,,
+70625110,2026-05-15 17:00,SK Hranice,FC Zlin B,3,2,,,,,,
+66053714,2026-05-16 12:00,FC Vsetin,TJ Unie Hlubina,1,2,,,,,,
+66053712,2026-05-16 15:00,SFK Vrchovina,1. FC Slovacko B,3,1,,,,,,
+66053704,2026-05-17 08:15,SK Sigma Olomouc B,MFK Vitkovice,3,3,,,,,,
+66053708,2026-05-17 08:15,SK Unicov,FK Fotbal Trinec,3,3,,,,,,
+66053716,2026-05-17 08:15,FC Zbrojovka Brno B,TJ Start Brno,3,2,,,,,,
+66053720,2026-05-17 08:15,MFk Karvina B,FC Hlucin,2,2,1.615,4.100,4.000,3.25,2.000,1.800
+66053812,2026-05-20 15:00,SK Sigma Olomouc B,FK Hodonin,0,1,,,,,,
+66053816,2026-05-20 15:00,FK Blansko,TJ Unie Hlubina,2,4,,,,,,
+66053820,2026-05-20 15:00,FK Frydek-Mistek,FC Zlin B,2,2,,,,,,
+66053822,2026-05-20 15:00,SK Unicov,FC Hlucin,2,1,,,,,,
+66053824,2026-05-20 15:00,SK Polanka Nad Odrou,MFk Karvina B,0,0,2.625,4.000,2.050,3.25,2.000,1.800
+66053826,2026-05-20 15:00,SFK Vrchovina,SK Hranice,2,2,,,,,,
+66053814,2026-05-20 15:30,FK Fotbal Trinec,1. FC Slovacko B,1,1,1.181,6.000,11.000,3,1.875,1.925
+66053828,2026-05-20 15:30,FC Vsetin,FC Zbrojovka Brno B,1,3,,,,,,
+66053736,2026-05-23 08:15,FK Fotbal Trinec,FK Frydek-Mistek,2,0,,,,,,
+66053738,2026-05-23 08:15,FK Blansko,MFK Vitkovice,1,1,,,,,,
+66053730,2026-05-23 15:00,TJ Unie Hlubina,SFK Vrchovina,1,0,,,,,,
+66053734,2026-05-23 15:00,FK Hodonin,SK Unicov,3,1,,,,,,
+66053722,2026-05-24 08:15,MFk Karvina B,SK Sigma Olomouc B,1,3,,,,,,
+66053732,2026-05-24 08:15,1. FC Slovacko B,SK Polanka Nad Odrou,4,0,1.380,4.750,5.750,3,2.000,1.800
+66053726,2026-05-24 08:30,FC Zlin B,FC Zbrojovka Brno B,2,1,,,,,,
+66053728,2026-05-24 15:00,TJ Start Brno,FC Vsetin,0,7,,,,,,
+66053724,2026-05-24 16:00,FC Hlucin,SK Hranice,0,3,2.375,3.700,2.375,3,1.925,1.875
+66053744,2026-05-29 15:30,FK Frydek-Mistek,FK Hodonin,1,1,,,,,,
+66053756,2026-05-29 17:00,SK Hranice,MFk Karvina B,0,0,1.700,4.333,3.500,3.5,1.825,1.975
+66053752,2026-05-30 12:00,FC Vsetin,FC Zlin B,1,1,,,,,,
+66053742,2026-05-30 15:00,MFK Vitkovice,FK Fotbal Trinec,0,1,,,,,,
+66053750,2026-05-30 15:00,SFK Vrchovina,TJ Start Brno,6,0,,,,,,
+66053740,2026-05-31 08:15,SK Sigma Olomouc B,FK Blansko,5,0,,,,,,
+66053746,2026-05-31 08:15,SK Unicov,1. FC Slovacko B,3,1,,,,,,
+66053754,2026-05-31 08:15,FC Zbrojovka Brno B,FC Hlucin,1,6,,,,,,
+66053748,2026-05-31 15:00,SK Polanka Nad Odrou,TJ Unie Hlubina,2,4,,,,,,
+71557254,2026-06-03 15:30,SK Polanka Nad Odrou,FK Hodonin,3,4,,,,,,
+66053762,2026-06-04 16:30,FC Hlucin,FC Vsetin,1,0,,,,,,
+66053758,2026-06-05 17:00,SK Hranice,SK Sigma Olomouc B,0,4,,,,,,
+66053760,2026-06-06 08:15,MFk Karvina B,FC Zbrojovka Brno B,2,0,,,,,,
+66053774,2026-06-06 08:15,FK Fotbal Trinec,FK Blansko,5,0,,,,,,
+66053770,2026-06-06 09:00,1. FC Slovacko B,FK Frydek-Mistek,2,2,,,,,,
+66053764,2026-06-06 15:00,SFK Vrchovina,FC Zlin B,3,2,,,,,,
+66053766,2026-06-06 15:00,TJ Start Brno,SK Polanka Nad Odrou,0,1,,,,,,
+66053768,2026-06-06 15:00,TJ Unie Hlubina,SK Unicov,1,2,,,,,,
+66053772,2026-06-06 15:00,FK Hodonin,MFK Vitkovice,1,2,,,,,,
+66053776,2026-06-10 14:00,Olomouc B,Trinec,3,1,,,,,,
+66053786,2026-06-10 15:30,Polanka Nad Odrou,Zlin B,0,2,,,,,,
+66053780,2026-06-11 15:30,Vitkovice,Slovacko B,5,1,,,,,,
+66053792,2026-06-12 14:30,FC Zbrojovka Brno B,SK Hranice,3,1,,,,,,
+66053782,2026-06-12 15:30,Frydek-Mistek,Unie Hlubina,2,2,,,,,,
+66053788,2026-06-12 16:00,Vrchovina,Hlucin,1,2,,,,,,
+66053790,2026-06-13 12:00,FC Vsetin,MFk Karvina B,1,2,,,,,,
+66053778,2026-06-13 15:00,Blansko,FK Hodonin,3,2,,,,,,
+72597588,2026-07-31 15:30,TJ Unie Hlubina,FC Zbrojovka Brno B,8,2,2.700,3.700,2.100,3,1.975,1.825
+72597602,2026-07-31 16:00,FK Frydek-Mistek,SK Hranice,1,0,1.363,4.333,6.500,3,1.950,1.850
+72597586,2026-08-01 15:00,CSK Uhersky Brod,MFK Vitkovice,4,1,1.550,4.100,4.333,2.75,1.850,1.950
+72597596,2026-08-01 15:00,FK Hodonin,1. FC Slovacko B,1,3,1.650,3.900,4.000,3,1.900,1.900
+72597598,2026-08-01 15:00,SFK Vrchovina,FK Blansko,2,2,,,,,,
+72597590,2026-08-02 08:15,MFK Havirov,FC Zlin B,0,1,2.875,3.500,2.100,2.75,1.850,1.950
+72597600,2026-08-02 08:15,SK Unicov,MFk Karvina B,3,2,1.450,4.333,5.000,3,2.025,1.775
+72597592,2026-08-02 15:00,FC Vsetin,SK Sigma Olomouc B,0,5,3.250,3.900,1.800,3,1.975,1.825
+72597594,2026-08-02 15:00,SK Polanka Nad Odrou,SK Artis B,0,1,4.100,3.800,1.615,3,1.900,1.900
+72597610,2026-08-07 15:30,SK Artis B,SFK Vrchovina,3,0,1.650,4.100,3.800,3.25,1.950,1.850
+72597604,2026-08-07 17:00,SK Hranice,SK Unicov,0,1,3.900,3.900,1.666,2.75,1.800,2.000
+72597616,2026-08-08 08:30,FK Blansko,FK Hodonin,3,3,3.100,3.750,1.950,3,1.850,1.950
+72597612,2026-08-08 12:00,FC Vsetin,TJ Unie Hlubina,2,4,,,,,,
+72597618,2026-08-08 15:00,MFK Vitkovice,MFK Havirov,1,1,1.833,3.600,3.400,3,1.900,1.900
+72597606,2026-08-09 08:15,FC Zbrojovka Brno B,FK Frydek-Mistek,2,2,,,,,,
+72597608,2026-08-09 08:15,SK Sigma Olomouc B,1. FC Slovacko B,2,1,1.400,4.750,5.250,3.25,1.800,2.000
+72597620,2026-08-09 08:15,MFk Karvina B,CSK Uhersky Brod,2,0,3.000,4.100,1.900,3,1.925,1.875
+72597614,2026-08-09 08:30,FC Zlin B,SK Polanka Nad Odrou,2,1,1.333,5.000,6.250,3,1.950,1.850
+72597622,2026-08-15 14:30,TJ Unie Hlubina,SK Sigma Olomouc B,2,3,3.200,3.800,1.850,3,1.900,1.900
+72597624,2026-08-15 14:30,CSK Uhersky Brod,SK Hranice,1,0,1.571,4.200,4.100,3,1.950,1.850
+72597632,2026-08-15 14:30,FK Frydek-Mistek,FC Vsetin,2,0,1.400,4.500,5.750,3,1.900,1.900
+72597634,2026-08-15 14:30,SFK Vrchovina,FC Zlin B,1,0,2.250,3.600,2.550,2.75,1.875,1.925
+72597636,2026-08-15 14:30,FK Hodonin,SK Artis B,0,1,2.400,3.600,2.350,3.25,2.000,1.800
+72597626,2026-08-16 08:15,MFK Havirov,MFk Karvina B,2,2,2.450,3.600,2.300,3,1.850,1.950
+72597628,2026-08-16 08:15,SK Unicov,FC Zbrojovka Brno B,1,2,1.615,4.000,4.000,2.75,1.775,2.025
+72597638,2026-08-16 08:15,1. FC Slovacko B,FK Blansko,4,2,1.480,4.500,4.750,3.5,2.000,1.800
+72597630,2026-08-16 14:30,SK Polanka Nad Odrou,MFK Vitkovice,0,0,3.100,3.700,1.950,2.75,1.925,1.875
+72597640,2026-08-21 17:00,SK Hranice,MFK Havirov,6,0,2.100,3.700,2.700,3,2.000,1.800
+72597650,2026-08-22 12:00,FC Vsetin,SK Unicov,1,2,3.750,3.700,1.727,2.75,1.875,1.925
+72597642,2026-08-22 14:30,TJ Unie Hlubina,FK Frydek-Mistek,3,2,2.400,3.600,2.375,2.75,1.825,1.975
+72597654,2026-08-22 14:30,MFK Vitkovice,SFK Vrchovina,0,1,2.000,3.700,3.000,2.75,1.925,1.875
+72597644,2026-08-23 08:15,FC Zbrojovka Brno B,CSK Uhersky Brod,2,1,1.700,4.100,3.700,3,1.950,1.850
+72597646,2026-08-23 08:15,SK Sigma Olomouc B,FK Blansko,3,0,1.222,6.250,8.000,3.75,1.875,1.925
+72597656,2026-08-23 08:15,MFk Karvina B,SK Polanka Nad Odrou,2,1,1.950,4.000,2.750,3,1.950,1.850
+72597652,2026-08-23 08:30,FC Zlin B,FK Hodonin,1,1,2.500,4.000,2.150,3,1.925,1.875
+72597648,2026-08-23 15:30,SK Artis B,1. FC Slovacko B,0,0,1.833,3.700,3.400,3,1.825,1.975
+72597664,2026-08-28 15:30,FK Frydek-Mistek,SK Sigma Olomouc B,1,0,3.000,3.800,1.950,2.75,1.850,1.950
+72597662,2026-08-29 14:00,FK Blansko,SK Artis B,0,4,4.100,4.100,1.600,3.25,1.850,1.950
+72597658,2026-08-29 14:30,CSK Uhersky Brod,FC Vsetin,2,1,1.615,4.100,4.000,3,1.950,1.850
+72597668,2026-08-29 14:30,SFK Vrchovina,MFk Karvina B,1,0,1.615,4.000,4.100,2.75,1.875,1.925
+72597670,2026-08-29 14:30,FK Hodonin,MFK Vitkovice,0,2,1.533,4.100,4.500,2.75,1.825,1.975
+72597660,2026-08-30 08:15,MFK Havirov,FC Zbrojovka Brno B,1,3,3.300,3.900,1.800,3.25,1.825,1.975
+72597672,2026-08-30 08:15,1. FC Slovacko B,FC Zlin B,1,1,2.100,3.600,2.750,3,1.925,1.875
+72597674,2026-08-30 08:15,SK Unicov,TJ Unie Hlubina,3,0,1.666,3.900,3.700,3,1.900,1.900
+72597666,2026-08-30 14:30,SK Polanka Nad Odrou,SK Hranice,0,1,2.875,3.600,2.050,2.75,1.975,1.825
+72597876,2026-09-02 14:30,1. FC Slovacko B,SFK Vrchovina,3,1,1.615,4.200,3.900,3.25,1.925,1.875
+72597878,2026-09-02 14:30,FK Hodonin,SK Sigma Olomouc B,2,0,2.800,3.500,2.100,3,2.000,1.800
+72597880,2026-09-02 14:30,MFk Karvina B,FK Frydek-Mistek,0,3,2.900,3.700,2.000,2.75,1.875,1.925
+72597882,2026-09-02 14:30,FK Blansko,SK Polanka Nad Odrou,1,1,1.900,3.800,3.100,3,1.975,1.825
+72597884,2026-09-02 14:30,MFK Vitkovice,SK Unicov,3,1,2.550,3.300,2.375,2.75,1.950,1.850
+72597890,2026-09-02 14:30,FC Zbrojovka Brno B,FC Vsetin,5,0,1.363,5.000,5.250,3.75,2.000,1.800
+72597888,2026-09-02 15:00,FC Zlin B,CSK Uhersky Brod,1,1,1.727,3.900,3.600,3,1.975,1.825
+72597886,2026-09-02 16:00,SK Artis B,MFK Havirov,2,0,1.250,5.750,8.000,3.5,1.925,1.875
+72597892,2026-09-02 16:00,SK Hranice,TJ Unie Hlubina,1,4,2.900,3.600,2.000,3,1.825,1.975
+72597684,2026-09-05 12:00,FC Vsetin,MFK Havirov,1,0,2.050,3.600,2.900,2.75,1.800,2.000
+72597676,2026-09-05 14:00,TJ Unie Hlubina,CSK Uhersky Brod,1,1,,,,,,
+72597686,2026-09-05 14:00,FK Frydek-Mistek,SK Unicov,1,1,1.750,3.700,3.500,2.5,1.800,2.000
+72597692,2026-09-05 14:00,MFK Vitkovice,1. FC Slovacko B,1,0,2.100,3.500,2.800,2.75,1.800,2.000
+72597678,2026-09-05 16:00,SK Hranice,SFK Vrchovina,1,0,2.400,3.600,2.375,2.75,1.950,1.850
+72597680,2026-09-06 08:15,FC Zbrojovka Brno B,SK Polanka Nad Odrou,3,1,1.222,6.250,8.000,3.5,1.925,1.875
+72597682,2026-09-06 08:15,SK Sigma Olomouc B,SK Artis B,0,2,1.850,3.900,3.100,3,1.975,1.825
+72597694,2026-09-06 08:15,MFk Karvina B,FK Hodonin,1,0,2.875,3.800,1.950,3,1.800,2.000
+72597690,2026-09-06 08:30,FC Zlin B,FK Blansko,4,1,1.500,4.750,4.333,3.75,1.950,1.850
+72597700,2026-09-12 08:30,FK Blansko,MFK Vitkovice,0,0,3.100,3.750,1.909,3,1.950,1.850
+72597696,2026-09-12 14:00,CSK Uhersky Brod,FK Frydek-Mistek,1,3,3.200,3.500,1.950,2.5,1.800,2.000
+72597706,2026-09-12 14:00,SFK Vrchovina,FC Zbrojovka Brno B,0,3,3.500,3.900,1.750,3,1.900,1.900
+72597708,2026-09-12 14:00,FK Hodonin,SK Hranice,0,1,1.333,4.750,6.250,3,1.900,1.900
+72597698,2026-09-13 08:15,MFK Havirov,TJ Unie Hlubina,0,0,3.750,4.200,1.650,3.25,1.950,1.850
+72597710,2026-09-13 08:15,1. FC Slovacko B,MFk Karvina B,3,1,1.571,4.200,4.200,3.25,1.975,1.825
+72597712,2026-09-13 08:15,SK Unicov,SK Sigma Olomouc B,1,1,2.375,3.700,2.375,2.75,1.900,1.900
+72597702,2026-09-13 14:00,SK Polanka Nad Odrou,FC Vsetin,0,3,2.200,3.600,2.625,2.75,1.950,1.850
+72597704,2026-09-13 15:30,SK Artis B,FC Zlin B,4,1,1.166,7.000,10.000,3.25,1.800,2.000
+72597714,2026-09-18 16:00,SK Hranice,1. FC Slovacko B,1,1,2.800,3.600,2.050,2.75,1.850,1.950
+72597720,2026-09-19 08:15,SK Sigma Olomouc B,FC Zlin B,3,1,1.333,5.000,6.500,3,1.850,1.950
+72597722,2026-09-19 12:00,FC Vsetin,SFK Vrchovina,2,2,2.250,3.500,2.550,2.75,1.900,1.900
+72597716,2026-09-19 13:30,TJ Unie Hlubina,SK Polanka Nad Odrou,1,1,1.380,4.500,6.000,3.25,1.975,1.825
+72597724,2026-09-19 13:30,FK Frydek-Mistek,MFK Havirov,0,0,,,,,,
+72597718,2026-09-20 08:15,FC Zbrojovka Brno B,FK Hodonin,0,1,1.571,4.100,4.200,3,1.800,2.000
+72597728,2026-09-20 08:15,SK Unicov,CSK Uhersky Brod,4,3,1.615,4.000,4.200,2.75,1.900,1.900
+72597730,2026-09-20 08:15,MFk Karvina B,FK Blansko,3,5,1.600,4.200,4.000,3.25,1.850,1.950
+72597726,2026-09-20 13:30,MFK Vitkovice,SK Artis B,0,0,4.100,4.200,1.600,2.75,1.950,1.850
+72597736,2026-09-25 13:30,FC Zlin B,MFK Vitkovice,0,3,2.000,3.700,2.900,2.75,1.800,2.000
+72597748,2026-09-25 13:30,1. FC Slovacko B,FC Zbrojovka Brno B,0,1,1.950,4.100,2.750,3.25,1.825,1.975
+75043646,2026-09-25 13:30,MFk Karvina B,SK Artis B,2,2,4.333,4.333,1.533,3.25,1.950,1.850
+72597732,2026-09-26 13:30,CSK Uhersky Brod,SK Sigma Olomouc B,2,1,3.500,4.000,1.727,3,1.850,1.950
+72597738,2026-09-26 13:30,FK Blansko,SK Hranice,1,3,2.000,3.750,2.875,2.75,1.825,1.975
+72597744,2026-09-26 13:30,SFK Vrchovina,TJ Unie Hlubina,3,2,2.200,3.700,2.550,3,1.975,1.825
+72597746,2026-09-26 13:30,FK Hodonin,FC Vsetin,2,0,1.480,4.200,4.750,3,1.975,1.825
+72597734,2026-09-27 08:15,MFK Havirov,SK Unicov,0,2,4.750,4.000,1.533,3,1.975,1.825
+72597740,2026-09-27 13:30,SK Polanka Nad Odrou,FK Frydek-Mistek,1,0,6.500,4.100,1.400,2.75,1.950,1.850
+72597750,2026-10-02 16:00,SK Hranice,SK Artis B,1,1,4.200,3.900,1.615,2.75,1.850,1.950
+72597752,2026-10-03 08:15,SK Sigma Olomouc B,MFK Vitkovice,2,1,1.444,4.500,5.000,3.25,2.000,1.800
+72597764,2026-10-03 12:00,FC Vsetin,1. FC Slovacko B,1,0,2.800,3.700,2.050,2.75,1.850,1.950
+72597754,2026-10-03 13:00,TJ Unie Hlubina,FK Hodonin,1,4,2.500,3.500,2.200,2.75,1.800,2.000
+72597756,2026-10-03 13:00,CSK Uhersky Brod,MFK Havirov,2,2,1.444,4.750,4.750,3.25,1.850,1.950
+72597766,2026-10-03 13:00,FK Frydek-Mistek,SFK Vrchovina,4,2,1.400,4.333,5.500,2.75,1.800,2.000
+72597758,2026-10-04 08:15,FC Zbrojovka Brno B,FK Blansko,1,1,1.270,5.500,7.500,3.5,1.850,1.950
+72597760,2026-10-04 08:15,SK Unicov,SK Polanka Nad Odrou,3,1,1.380,5.000,5.500,3,1.850,1.950
+72597762,2026-10-04 08:15,MFk Karvina B,FC Zlin B,0,1,2.250,4.000,2.400,3.25,1.950,1.850
+72597772,2026-10-10 13:00,MFK Vitkovice,MFk Karvina B,0,4,1.450,4.200,5.250,3,1.900,1.900
+72597776,2026-10-10 13:00,FK Blansko,FC Vsetin,2,0,2.000,3.700,2.900,3,1.950,1.850
+72597780,2026-10-10 13:00,FK Hodonin,FK Frydek-Mistek,3,0,2.800,3.500,2.150,2.5,1.800,2.000
+72597782,2026-10-10 13:00,SFK Vrchovina,SK Unicov,0,4,3.100,3.900,1.850,3,2.000,1.800
+72597768,2026-10-11 08:15,MFK Havirov,SK Sigma Olomouc B,3,0,4.750,4.750,1.420,3.25,1.850,1.950
+72597784,2026-10-11 08:15,1. FC Slovacko B,TJ Unie Hlubina,5,2,1.480,4.500,4.500,3.25,1.950,1.850
+72597770,2026-10-11 08:30,FC Zlin B,SK Hranice,0,1,1.615,4.100,4.000,3,1.825,1.975
+72597778,2026-10-11 13:00,SK Polanka Nad Odrou,CSK Uhersky Brod,4,0,3.000,3.750,1.950,2.75,1.875,1.925
+72597774,2026-10-13 15:30,SK Artis B,FC Zbrojovka Brno B,1,1,1.700,4.000,3.600,3,1.975,1.825
+72597786,2026-10-16 15:00,SK Hranice,MFK Vitkovice,2,1,2.750,3.300,2.250,2.5,1.975,1.825
+72597798,2026-10-17 12:00,FC Vsetin,SK Artis B,0,1,4.333,4.100,1.550,2.75,1.800,2.000
+72597788,2026-10-17 12:30,TJ Unie Hlubina,FK Blansko,1,0,1.650,4.000,3.900,3.5,1.950,1.850
+72597790,2026-10-17 12:30,CSK Uhersky Brod,SFK Vrchovina,4,0,1.909,3.900,3.000,3,2.000,1.800
+72597800,2026-10-17 12:30,FK Frydek-Mistek,1. FC Slovacko B,2,1,1.950,3.750,3.000,2.75,1.900,1.900
+72597792,2026-10-18 08:15,FC Zbrojovka Brno B,FC Zlin B,4,2,1.500,4.333,4.500,3.25,1.975,1.825
+72597794,2026-10-18 08:15,SK Sigma Olomouc B,MFk Karvina B,3,1,1.270,5.750,6.500,3.75,1.825,1.975
+72597796,2026-10-18 08:15,MFK Havirov,SK Polanka Nad Odrou,3,1,1.850,3.700,3.250,2.75,1.875,1.925
+72597802,2026-10-18 08:15,SK Unicov,FK Hodonin,3,2,1.900,3.600,3.200,2.75,1.875,1.925
+72597806,2026-10-24 12:30,SFK Vrchovina,MFK Havirov,2,0,2.050,3.900,2.700,3.25,1.975,1.825
+72597808,2026-10-24 12:30,FK Hodonin,CSK Uhersky Brod,1,2,1.615,4.000,4.000,3,1.900,1.900
+72597816,2026-10-24 12:30,FK Blansko,FK Frydek-Mistek,0,3,3.600,3.800,1.727,3,1.975,1.825
+72597820,2026-10-24 12:30,MFK Vitkovice,FC Zbrojovka Brno B,4,2,2.700,3.600,2.150,2.75,1.800,2.000
+72597804,2026-10-25 09:15,1. FC Slovacko B,SK Unicov,1,2,3.400,4.100,1.727,3.25,1.825,1.975
+72597810,2026-10-25 09:15,MFk Karvina B,SK Hranice,2,0,2.000,3.900,2.800,2.75,1.775,2.025
+72597814,2026-10-25 09:30,FC Zlin B,FC Vsetin,2,0,1.480,4.500,4.500,3,1.825,1.975
+72597812,2026-10-25 13:30,SK Polanka Nad Odrou,SK Sigma Olomouc B,0,5,6.000,5.000,1.333,3.25,1.825,1.975
+72597818,2026-10-25 15:30,SK Artis B,TJ Unie Hlubina,1,2,1.500,4.333,4.500,3.25,1.900,1.900
+72597830,2026-10-31 09:15,SK Sigma Olomouc B,SK Hranice,5,1,1.420,4.750,5.250,3.25,2.000,1.800
+72597822,2026-10-31 13:00,CSK Uhersky Brod,1. FC Slovacko B,1,2,2.100,3.600,2.750,3,1.875,1.925
+72597824,2026-10-31 13:00,TJ Unie Hlubina,FC Zlin B,2,2,2.100,4.000,2.600,3,1.850,1.950
+72597832,2026-10-31 13:00,FC Vsetin,MFK Vitkovice,1,4,3.500,3.600,1.800,2.75,1.975,1.825
+72597834,2026-10-31 13:00,FK Frydek-Mistek,SK Artis B,3,0,2.350,3.600,2.450,2.75,1.975,1.825
+72597826,2026-11-01 09:15,FC Zbrojovka Brno B,MFk Karvina B,1,3,1.380,5.000,5.250,3.75,1.950,1.850
+72597828,2026-11-01 09:15,MFK Havirov,FK Hodonin,0,1,3.100,3.800,1.900,3,1.900,1.900
+72597838,2026-11-01 09:15,SK Unicov,FK Blansko,1,3,1.300,5.250,6.250,3.5,1.900,1.900
+72597836,2026-11-01 13:00,SK Polanka Nad Odrou,SFK Vrchovina,4,2,2.600,3.600,2.200,2.75,1.825,1.975
+72597840,2026-11-06 16:00,SK Hranice,FC Zbrojovka Brno B,1,4,2.500,3.500,2.350,3,2.000,1.800
+72597856,2026-11-06 16:30,SK Artis B,SK Unicov,4,4,1.500,4.333,4.500,3,1.850,1.950
+72597844,2026-11-07 13:00,SFK Vrchovina,SK Sigma Olomouc B,0,2,4.100,4.200,1.571,3.25,1.875,1.925
+72597846,2026-11-07 13:00,FK Hodonin,SK Polanka Nad Odrou,4,0,1.333,5.000,6.250,3.25,2.000,1.800
+72597850,2026-11-07 13:00,FK Blansko,CSK Uhersky Brod,2,1,2.600,3.800,2.150,3,1.800,2.000
+72597854,2026-11-07 13:00,MFK Vitkovice,TJ Unie Hlubina,1,1,1.909,3.750,3.100,3,1.875,1.925
+72597842,2026-11-08 09:15,1. FC Slovacko B,MFK Havirov,1,1,1.450,4.750,4.750,3.75,1.800,2.000
+72597848,2026-11-08 09:15,MFk Karvina B,FC Vsetin,3,0,1.571,4.200,4.100,3,1.775,2.025
+72597852,2026-11-08 09:30,FC Zlin B,FK Frydek-Mistek,1,3,3.000,3.600,2.000,3,2.000,1.800

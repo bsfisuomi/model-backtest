@@ -1,73 +1,73 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-72885230,2026-09-04 20:00,SD San Jose U19,Atletico Barranco Hondo,2,2,3.900,4.200,1.600
-72885232,2026-09-05 09:00,Arucas CF,CD Longuera Toscal,3,2,,,
-72885238,2026-09-05 10:00,CF Acodetti,UD Las Palmas,0,4,7.500,5.250,1.250
-72885236,2026-09-05 10:30,CD Herbania U19,Cef Puertos de Las Palmas U19,1,1,2.400,4.000,2.250
-72885242,2026-09-05 15:00,CD Union Sur Yaiza U19,CD Sobradillo,1,2,,,
-72885228,2026-09-05 16:00,CD Treinta Y Cinco Mil Seiscientos U19,CD Tenerife,1,2,6.500,5.500,1.285
-72885234,2026-09-06 11:00,CD Mensajero,CF Union Viera,4,2,,,
-72885240,2026-09-06 11:00,UD Las Zocas,AD Huracan,0,2,,,
-72885254,2026-09-12 09:00,Cef Puertos de Las Palmas U19,CD Mensajero,2,0,,,
-72885256,2026-09-12 09:00,UD Las Palmas,CD Herbania U19,5,1,1.142,7.000,15.000
-72885258,2026-09-12 09:30,AD Huracan,CF Acodetti,3,1,,,
-72885244,2026-09-12 10:00,CD Tenerife,UD Las Zocas,2,2,,,
-72885246,2026-09-12 11:00,Atletico Barranco Hondo,CD Treinta Y Cinco Mil Seiscientos U19,1,2,,,
-72885250,2026-09-12 11:00,CD Sobradillo,Arucas CF,1,0,,,
-72885252,2026-09-12 11:00,CF Union Viera,CD Union Sur Yaiza U19,1,0,,,
-72885248,2026-09-13 09:00,CD Longuera Toscal,SD San Jose U19,2,1,,,
-72885264,2026-09-18 20:00,SD San Jose U19,CD Sobradillo,1,0,,,
-72885260,2026-09-19 10:00,CD Tenerife,Atletico Barranco Hondo,4,0,,,
-72885274,2026-09-19 10:15,CD Union Sur Yaiza U19,Cef Puertos de Las Palmas U19,2,2,,,
-72883112,2026-09-19 10:30,Deportivo Alaves,Danok Bat,6,1,,,
-72885270,2026-09-19 11:00,CD Herbania U19,AD Huracan,1,0,,,
-72883114,2026-09-19 11:15,SD Leioa,SD Indautxu U19,2,2,,,
-72884766,2026-09-19 14:00,CF Trival Valderas Alcorcon,CF Talavera,2,0,,,
-72884770,2026-09-19 14:00,CD Toledo,Rayo Ciudad Alcobendas Juvenil,1,4,,,
-72885262,2026-09-19 15:00,CD Treinta Y Cinco Mil Seiscientos U19,CD Longuera Toscal,2,1,,,
-72883648,2026-09-19 16:00,CD Oberena,CF Damm,3,2,,,
-72883658,2026-09-19 16:00,CF Atletico de Monzon U19,UD Montecarlo,2,1,,,
-72884760,2026-09-19 16:30,AD Union Adarve,Albacete Balompie,0,0,,,
-72885266,2026-09-19 16:30,Arucas CF,CF Union Viera,2,2,,,
-72885268,2026-09-20 10:00,CD Mensajero,UD Las Palmas,0,4,,,
-72885272,2026-09-20 11:00,UD Las Zocas,CF Acodetti,2,0,2.000,4.333,2.625
-72885284,2026-10-02 19:00,Cef Puertos de Las Palmas U19,Arucas CF,3,5,,,
-72885288,2026-10-03 09:30,AD Huracan,CD Mensajero,2,1,,,
-72885290,2026-10-03 10:00,CF Acodetti,CD Herbania U19,3,0,2.000,3.700,3.000
-72885280,2026-10-03 11:00,CD Sobradillo,CD Treinta Y Cinco Mil Seiscientos U19,1,0,,,
-72885282,2026-10-03 11:00,CF Union Viera,SD San Jose U19,0,1,,,
-72885276,2026-10-03 18:30,Atletico Barranco Hondo,UD Las Zocas,0,1,,,
-72885278,2026-10-04 09:00,CD Longuera Toscal,CD Tenerife,0,4,,,
-72885286,2026-10-04 10:00,UD Las Palmas,CD Union Sur Yaiza U19,3,0,1.111,8.500,17.000
-72885300,2026-10-10 09:00,Arucas CF,UD Las Palmas,1,6,,,
-72885292,2026-10-10 11:00,Atletico Barranco Hondo,CD Longuera Toscal,3,3,,,
-72885294,2026-10-10 11:00,CD Tenerife,CD Sobradillo,5,0,1.333,5.000,6.250
-72885296,2026-10-10 15:00,CD Treinta Y Cinco Mil Seiscientos U19,CF Union Viera,0,0,,,
-72885302,2026-10-10 15:00,CD Mensajero,CF Acodetti,0,0,,,
-72885306,2026-10-10 15:00,CD Union Sur Yaiza U19,AD Huracan,1,4,,,
-72885298,2026-10-11 11:00,SD San Jose U19,Cef Puertos de Las Palmas U19,2,4,2.550,3.750,2.200
-72885304,2026-10-11 11:00,UD Las Zocas,CD Herbania U19,5,1,1.800,3.800,3.400
-72885334,2026-10-24 10:00,Arucas CF,CF Acodetti,1,4,,,
-72885328,2026-10-24 11:00,CD Tenerife,Cef Puertos de Las Palmas U19,4,0,1.142,7.000,13.000
-72885326,2026-10-24 11:15,Atletico Barranco Hondo,CF Union Viera,6,1,,,
-72885846,2026-10-24 14:00,UCAM Murcia,Real Murcia,4,1,2.100,3.500,2.875
-72883722,2026-10-24 14:30,Real Zaragoza,CE Sabadell FC,3,1,,,
-72884826,2026-10-24 15:00,Albacete Balompie,CF Talavera,2,1,,,
-72884836,2026-10-24 15:00,Real Madrid,Merida,5,1,,,
-72885338,2026-10-24 15:30,CD Union Sur Yaiza U19,CD Herbania U19,1,0,,,
-72883714,2026-10-24 16:00,CF Damm,CD Espanyol Barcelona,1,1,4.750,4.100,1.500
-72885330,2026-10-24 16:00,CD Treinta Y Cinco Mil Seiscientos U19,UD Las Palmas,1,1,,,
-72885324,2026-10-25 11:00,CD Longuera Toscal,CD Sobradillo,2,2,,,
-72885332,2026-10-25 12:00,SD San Jose U19,AD Huracan,4,2,,,
-72885336,2026-10-25 12:00,UD Las Zocas,CD Mensajero,3,0,1.650,4.000,3.900
-72885344,2026-10-31 11:15,Cef Puertos de Las Palmas,Atletico Barranco Hondo,2,3,,,
-72885348,2026-10-31 11:30,AD Huracan,CD Treinta Y Cinco Mil Seiscientos,4,2,,,
-72885340,2026-10-31 12:00,CD Sobradillo,UD Las Zocas,2,4,,,
-72885350,2026-10-31 12:00,CF Acodetti,SD San Jose,2,1,1.850,3.750,3.250
-72885342,2026-10-31 13:00,CF Union Viera,CD Longuera Toscal,1,2,,,
-72885352,2026-10-31 13:00,CD Herbania,Arucas CF,0,6,,,
-72885354,2026-11-01 12:00,CD Mensajero,CD Union Sur Yaiza,2,1,,,
-72885346,2026-11-01 14:00,UD Las Palmas,CD Tenerife,1,3,1.833,3.750,3.250
-72885368,2026-11-07 11:00,Arucas CF,CD Mensajero,2,1,1.600,4.000,4.200
-72885356,2026-11-07 12:00,CD Sobradillo,CF Union Viera,3,1,1.700,4.200,3.500
-72885360,2026-11-07 13:00,Atletico Barranco Hondo,UD Las Palmas,2,9,8.000,6.000,1.222
-72885364,2026-11-07 17:00,CD Treinta Y Cinco Mil Seiscientos,CF Acodetti,3,0,,,
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+72885230,2026-09-04 20:00,SD San Jose U19,Atletico Barranco Hondo,2,2,3.900,4.200,1.600,3.5,2.000,1.800
+72885232,2026-09-05 09:00,Arucas CF,CD Longuera Toscal,3,2,,,,,,
+72885238,2026-09-05 10:00,CF Acodetti,UD Las Palmas,0,4,7.500,5.250,1.250,3.5,2.000,1.800
+72885236,2026-09-05 10:30,CD Herbania U19,Cef Puertos de Las Palmas U19,1,1,2.400,4.000,2.250,3,1.900,1.900
+72885242,2026-09-05 15:00,CD Union Sur Yaiza U19,CD Sobradillo,1,2,,,,,,
+72885228,2026-09-05 16:00,CD Treinta Y Cinco Mil Seiscientos U19,CD Tenerife,1,2,6.500,5.500,1.285,3.5,1.900,1.900
+72885234,2026-09-06 11:00,CD Mensajero,CF Union Viera,4,2,,,,,,
+72885240,2026-09-06 11:00,UD Las Zocas,AD Huracan,0,2,,,,,,
+72885254,2026-09-12 09:00,Cef Puertos de Las Palmas U19,CD Mensajero,2,0,,,,,,
+72885256,2026-09-12 09:00,UD Las Palmas,CD Herbania U19,5,1,1.142,7.000,15.000,4,1.950,1.850
+72885258,2026-09-12 09:30,AD Huracan,CF Acodetti,3,1,,,,,,
+72885244,2026-09-12 10:00,CD Tenerife,UD Las Zocas,2,2,,,,,,
+72885246,2026-09-12 11:00,Atletico Barranco Hondo,CD Treinta Y Cinco Mil Seiscientos U19,1,2,,,,,,
+72885250,2026-09-12 11:00,CD Sobradillo,Arucas CF,1,0,,,,,,
+72885252,2026-09-12 11:00,CF Union Viera,CD Union Sur Yaiza U19,1,0,,,,,,
+72885248,2026-09-13 09:00,CD Longuera Toscal,SD San Jose U19,2,1,,,,,,
+72885264,2026-09-18 20:00,SD San Jose U19,CD Sobradillo,1,0,,,,,,
+72885260,2026-09-19 10:00,CD Tenerife,Atletico Barranco Hondo,4,0,,,,,,
+72885274,2026-09-19 10:15,CD Union Sur Yaiza U19,Cef Puertos de Las Palmas U19,2,2,,,,,,
+72883112,2026-09-19 10:30,Deportivo Alaves,Danok Bat,6,1,,,,,,
+72885270,2026-09-19 11:00,CD Herbania U19,AD Huracan,1,0,,,,,,
+72883114,2026-09-19 11:15,SD Leioa,SD Indautxu U19,2,2,,,,,,
+72884766,2026-09-19 14:00,CF Trival Valderas Alcorcon,CF Talavera,2,0,,,,,,
+72884770,2026-09-19 14:00,CD Toledo,Rayo Ciudad Alcobendas Juvenil,1,4,,,,,,
+72885262,2026-09-19 15:00,CD Treinta Y Cinco Mil Seiscientos U19,CD Longuera Toscal,2,1,,,,,,
+72883648,2026-09-19 16:00,CD Oberena,CF Damm,3,2,,,,,,
+72883658,2026-09-19 16:00,CF Atletico de Monzon U19,UD Montecarlo,2,1,,,,,,
+72884760,2026-09-19 16:30,AD Union Adarve,Albacete Balompie,0,0,,,,,,
+72885266,2026-09-19 16:30,Arucas CF,CF Union Viera,2,2,,,,,,
+72885268,2026-09-20 10:00,CD Mensajero,UD Las Palmas,0,4,,,,,,
+72885272,2026-09-20 11:00,UD Las Zocas,CF Acodetti,2,0,2.000,4.333,2.625,3,1.850,1.950
+72885284,2026-10-02 19:00,Cef Puertos de Las Palmas U19,Arucas CF,3,5,,,,,,
+72885288,2026-10-03 09:30,AD Huracan,CD Mensajero,2,1,,,,,,
+72885290,2026-10-03 10:00,CF Acodetti,CD Herbania U19,3,0,2.000,3.700,3.000,2.75,1.850,1.950
+72885280,2026-10-03 11:00,CD Sobradillo,CD Treinta Y Cinco Mil Seiscientos U19,1,0,,,,,,
+72885282,2026-10-03 11:00,CF Union Viera,SD San Jose U19,0,1,,,,,,
+72885276,2026-10-03 18:30,Atletico Barranco Hondo,UD Las Zocas,0,1,,,,,,
+72885278,2026-10-04 09:00,CD Longuera Toscal,CD Tenerife,0,4,,,,,,
+72885286,2026-10-04 10:00,UD Las Palmas,CD Union Sur Yaiza U19,3,0,1.111,8.500,17.000,3.5,1.850,1.950
+72885300,2026-10-10 09:00,Arucas CF,UD Las Palmas,1,6,,,,,,
+72885292,2026-10-10 11:00,Atletico Barranco Hondo,CD Longuera Toscal,3,3,,,,,,
+72885294,2026-10-10 11:00,CD Tenerife,CD Sobradillo,5,0,1.333,5.000,6.250,3.25,1.975,1.825
+72885296,2026-10-10 15:00,CD Treinta Y Cinco Mil Seiscientos U19,CF Union Viera,0,0,,,,,,
+72885302,2026-10-10 15:00,CD Mensajero,CF Acodetti,0,0,,,,,,
+72885306,2026-10-10 15:00,CD Union Sur Yaiza U19,AD Huracan,1,4,,,,,,
+72885298,2026-10-11 11:00,SD San Jose U19,Cef Puertos de Las Palmas U19,2,4,2.550,3.750,2.200,3,1.900,1.900
+72885304,2026-10-11 11:00,UD Las Zocas,CD Herbania U19,5,1,1.800,3.800,3.400,2.75,1.825,1.975
+72885334,2026-10-24 10:00,Arucas CF,CF Acodetti,1,4,,,,,,
+72885328,2026-10-24 11:00,CD Tenerife,Cef Puertos de Las Palmas U19,4,0,1.142,7.000,13.000,3.5,1.900,1.900
+72885326,2026-10-24 11:15,Atletico Barranco Hondo,CF Union Viera,6,1,,,,,,
+72885846,2026-10-24 14:00,UCAM Murcia,Real Murcia,4,1,2.100,3.500,2.875,2.75,1.825,1.975
+72883722,2026-10-24 14:30,Real Zaragoza,CE Sabadell FC,3,1,,,,,,
+72884826,2026-10-24 15:00,Albacete Balompie,CF Talavera,2,1,,,,,,
+72884836,2026-10-24 15:00,Real Madrid,Merida,5,1,,,,,,
+72885338,2026-10-24 15:30,CD Union Sur Yaiza U19,CD Herbania U19,1,0,,,,,,
+72883714,2026-10-24 16:00,CF Damm,CD Espanyol Barcelona,1,1,4.750,4.100,1.500,3,1.900,1.900
+72885330,2026-10-24 16:00,CD Treinta Y Cinco Mil Seiscientos U19,UD Las Palmas,1,1,,,,,,
+72885324,2026-10-25 11:00,CD Longuera Toscal,CD Sobradillo,2,2,,,,,,
+72885332,2026-10-25 12:00,SD San Jose U19,AD Huracan,4,2,,,,,,
+72885336,2026-10-25 12:00,UD Las Zocas,CD Mensajero,3,0,1.650,4.000,3.900,2.75,1.850,1.950
+72885344,2026-10-31 11:15,Cef Puertos de Las Palmas,Atletico Barranco Hondo,2,3,,,,,,
+72885348,2026-10-31 11:30,AD Huracan,CD Treinta Y Cinco Mil Seiscientos,4,2,,,,,,
+72885340,2026-10-31 12:00,CD Sobradillo,UD Las Zocas,2,4,,,,,,
+72885350,2026-10-31 12:00,CF Acodetti,SD San Jose,2,1,1.850,3.750,3.250,3,1.875,1.925
+72885342,2026-10-31 13:00,CF Union Viera,CD Longuera Toscal,1,2,,,,,,
+72885352,2026-10-31 13:00,CD Herbania,Arucas CF,0,6,,,,,,
+72885354,2026-11-01 12:00,CD Mensajero,CD Union Sur Yaiza,2,1,,,,,,
+72885346,2026-11-01 14:00,UD Las Palmas,CD Tenerife,1,3,1.833,3.750,3.250,3,2.000,1.800
+72885368,2026-11-07 11:00,Arucas CF,CD Mensajero,2,1,1.600,4.000,4.200,3,1.825,1.975
+72885356,2026-11-07 12:00,CD Sobradillo,CF Union Viera,3,1,1.700,4.200,3.500,2.75,1.825,1.975
+72885360,2026-11-07 13:00,Atletico Barranco Hondo,UD Las Palmas,2,9,8.000,6.000,1.222,3.25,1.900,1.900
+72885364,2026-11-07 17:00,CD Treinta Y Cinco Mil Seiscientos,CF Acodetti,3,0,,,,,,

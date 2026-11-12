@@ -1,401 +1,401 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-60659989,2025-05-24 18:00,CF Os Belenenses,FC Pacos Ferreira,2,1,,,
-60659991,2025-06-01 16:00,FC Pacos Ferreira,CF Os Belenenses,2,0,,,
-61731692,2025-08-09 10:00,FC Pacos Ferreira,FC Vizela,1,2,,,
-61731708,2025-08-09 13:00,SCU Torreense,Sporting Lisbon B,0,1,,,
-61731700,2025-08-09 17:00,Portimonense SAD,FC Penafiel,2,1,,,
-61731706,2025-08-10 10:00,GD Chaves,SL Benfica B,1,1,,,
-61731702,2025-08-10 13:00,Maritimo Madeira,Lusitania FC Lourosa,0,1,,,
-61731698,2025-08-10 14:30,Leixoes SC,FC Felgueiras 1932,3,0,,,
-61731694,2025-08-10 17:00,UD Leiria,Academico de Viseu FC,3,2,,,
-61731696,2025-08-10 17:00,FC Porto B,CD Feirense,0,0,,,
-61731704,2025-08-11 17:00,UD Oliveirense,SC Farense,1,1,,,
-61731712,2025-08-15 17:00,CD Feirense,Portimonense SAD,4,1,,,
-61731714,2025-08-16 10:00,FC Felgueiras 1932,Maritimo Madeira,0,1,,,
-61731722,2025-08-16 13:00,FC Vizela,FC Porto B,4,0,,,
-61731710,2025-08-16 14:30,Academico de Viseu FC,FC Pacos Ferreira,0,0,,,
-61731724,2025-08-16 14:30,Lusitania FC Lourosa,GD Chaves,2,2,,,
-61731716,2025-08-17 10:00,SC Farense,SCU Torreense,0,3,,,
-61731726,2025-08-17 10:00,Sporting Lisbon B,UD Leiria,1,0,,,
-61731720,2025-08-17 13:00,FC Penafiel,UD Oliveirense,0,0,,,
-61731718,2025-08-17 17:00,SL Benfica B,Leixoes SC,1,1,,,
-61731730,2025-08-22 19:15,GD Chaves,FC Felgueiras 1932,1,1,,,
-61731734,2025-08-23 10:00,Portimonense SAD,FC Vizela,1,1,,,
-61731744,2025-08-23 13:00,FC Pacos Ferreira,UD Leiria,0,0,,,
-61731736,2025-08-23 14:30,SCU Torreense,Academico de Viseu FC,2,1,,,
-61731728,2025-08-24 10:00,UD Oliveirense,Sporting Lisbon B,1,0,,,
-61731740,2025-08-24 10:00,FC Porto B,SC Farense,0,2,,,
-61731732,2025-08-24 13:00,Leixoes SC,FC Penafiel,3,2,,,
-61731738,2025-08-24 14:30,Maritimo Madeira,CD Feirense,1,0,,,
-61731742,2025-08-25 17:00,Lusitania FC Lourosa,SL Benfica B,1,1,,,
-61731756,2025-08-29 17:00,UD Leiria,SCU Torreense,1,0,,,
-61731762,2025-08-30 10:00,FC Penafiel,GD Chaves,0,2,,,
-61731750,2025-08-30 13:00,FC Felgueiras 1932,Lusitania FC Lourosa,3,1,,,
-61731748,2025-08-30 14:30,CD Feirense,Leixoes SC,2,0,,,
-61731754,2025-08-30 17:00,SL Benfica B,Portimonense SAD,1,2,,,
-61731752,2025-08-31 10:00,SC Farense,Maritimo Madeira,0,2,,,
-61731760,2025-08-31 10:00,Sporting Lisbon B,FC Pacos Ferreira,3,0,,,
-61731746,2025-08-31 13:00,Academico de Viseu FC,FC Porto B,2,0,,,
-61731758,2025-08-31 14:30,FC Vizela,UD Oliveirense,1,0,,,
-61731778,2025-09-13 10:00,FC Felgueiras 1932,SL Benfica B,2,1,,,
-61731766,2025-09-13 13:00,Lusitania FC Lourosa,FC Penafiel,0,0,,,
-61731776,2025-09-13 14:30,Leixoes SC,SC Farense,0,2,,,
-61731770,2025-09-14 10:00,Portimonense SAD,Sporting Lisbon B,1,2,,,
-61731768,2025-09-14 13:00,Maritimo Madeira,FC Vizela,1,1,,,
-61731774,2025-09-14 14:30,SCU Torreense,FC Pacos Ferreira,0,0,,,
-61731780,2025-09-14 14:45,FC Porto B,UD Leiria,1,2,,,
-61731764,2025-09-14 17:00,GD Chaves,CD Feirense,1,1,,,
-61731772,2025-09-15 19:15,UD Oliveirense,Academico de Viseu FC,2,2,,,
-61731796,2025-09-26 17:00,FC Vizela,Leixoes SC,2,0,,,
-61731788,2025-09-27 10:00,SL Benfica B,SCU Torreense,3,3,,,
-61731792,2025-09-27 10:00,FC Penafiel,FC Felgueiras 1932,2,0,,,
-61731798,2025-09-27 10:00,Sporting Lisbon B,Maritimo Madeira,0,1,,,
-61731782,2025-09-27 13:00,Academico de Viseu FC,Portimonense SAD,2,3,,,
-61731784,2025-09-28 10:00,CD Feirense,Lusitania FC Lourosa,1,2,,,
-61731794,2025-09-28 13:00,SC Farense,GD Chaves,0,2,,,
-61731786,2025-09-29 17:00,FC Pacos Ferreira,FC Porto B,2,2,,,
-61731810,2025-10-03 17:00,Maritimo Madeira,Academico de Viseu FC,2,2,,,
-61731814,2025-10-04 10:00,Lusitania FC Lourosa,SC Farense,1,2,,,
-61731804,2025-10-04 13:00,GD Chaves,FC Vizela,1,0,,,
-61731816,2025-10-04 14:30,Portimonense SAD,UD Leiria,1,1,,,
-61731800,2025-10-05 10:00,UD Oliveirense,FC Pacos Ferreira,2,2,,,
-61731802,2025-10-05 10:00,FC Porto B,SCU Torreense,2,3,,,
-61731812,2025-10-05 13:00,FC Felgueiras 1932,CD Feirense,2,0,,,
-61731806,2025-10-05 14:30,Leixoes SC,Sporting Lisbon B,0,4,,,
-61731808,2025-10-05 17:00,SL Benfica B,FC Penafiel,0,2,,,
-63956591,2025-10-11 14:30,UD Leiria,UD Oliveirense,0,0,,,
-61731832,2025-10-19 10:00,FC Porto B,Maritimo Madeira,1,0,,,
-61731848,2025-10-19 14:30,FC Penafiel,CD Feirense,1,2,,,
-61731826,2025-10-24 17:45,SCU Torreense,UD Oliveirense,3,2,,,
-61731828,2025-10-24 19:45,FC Vizela,FC Felgueiras 1932,2,2,,,
-61731824,2025-10-25 10:00,UD Leiria,Leixoes SC,1,3,,,
-61731830,2025-10-25 10:00,Sporting Lisbon B,Lusitania FC Lourosa,4,0,,,
-61731820,2025-10-25 13:00,FC Pacos Ferreira,Portimonense SAD,4,1,,,
-61731818,2025-10-25 14:30,Academico de Viseu FC,GD Chaves,1,0,,,
-61731834,2025-10-25 14:30,CD Feirense,SL Benfica B,0,2,,,
-61731822,2025-10-26 11:00,SC Farense,FC Penafiel,0,0,,,
-61731840,2025-10-29 17:15,Lusitania FC Lourosa,FC Vizela,1,1,,,
-61731836,2025-10-29 19:15,UD Oliveirense,FC Porto B,1,0,,,
-61731842,2025-10-30 18:00,Portimonense SAD,SCU Torreense,0,1,,,
-61731844,2025-10-30 18:00,SL Benfica B,FC Pacos Ferreira,2,1,,,
-61731846,2025-10-30 20:15,Leixoes SC,Academico de Viseu FC,1,5,,,
-61731852,2025-10-30 20:15,Maritimo Madeira,UD Leiria,1,3,,,
-61731858,2025-11-01 11:00,Sporting Lisbon B,CD Feirense,3,2,,,
-61731862,2025-11-02 11:00,FC Vizela,FC Penafiel,1,3,,,
-61731870,2025-11-02 15:30,SC Farense,SL Benfica B,4,3,,,
-61731866,2025-11-03 18:00,FC Pacos Ferreira,Leixoes SC,3,1,,,
-61731868,2025-11-03 18:00,UD Oliveirense,Maritimo Madeira,0,2,,,
-61731864,2025-11-03 20:00,UD Leiria,GD Chaves,2,1,,,
-64890878,2025-11-04 16:00,SCU Torreense,FC Felgueiras 1932,2,0,,,
-64890880,2025-11-04 18:00,Academico de Viseu FC,Lusitania FC Lourosa,3,2,,,
-61731886,2025-11-07 18:00,CD Feirense,SC Farense,0,0,,,
-61731872,2025-11-08 11:00,FC Penafiel,Sporting Lisbon B,1,1,,,
-61731884,2025-11-08 14:00,Portimonense SAD,UD Oliveirense,1,1,,,
-61731874,2025-11-08 18:00,GD Chaves,FC Porto B,0,1,,,
-61731880,2025-11-08 18:00,SL Benfica B,FC Vizela,1,2,,,
-61731876,2025-11-09 11:00,Leixoes SC,SCU Torreense,1,0,,,
-61731882,2025-11-09 14:00,FC Felgueiras 1932,Academico de Viseu FC,1,3,,,
-61731878,2025-11-09 15:30,Maritimo Madeira,FC Pacos Ferreira,2,0,,,
-61731888,2025-11-09 20:30,Lusitania FC Lourosa,UD Leiria,1,1,,,
-64512353,2025-11-16 11:00,FC Felgueiras 1932,SC Farense,1,1,,,
-61731974,2025-11-16 18:00,Leixoes SC,GD Chaves,0,1,,,
-65030584,2025-11-23 11:00,GD Chaves,Sporting Lisbon B,0,0,,,
-65067826,2025-11-23 11:00,FC Porto B,Portimonense SAD,1,0,,,
-61731966,2025-11-23 14:00,Maritimo Madeira,FC Penafiel,2,1,,,
-61731890,2025-11-29 11:00,Academico de Viseu FC,FC Penafiel,2,0,,,
-61731898,2025-11-29 14:00,UD Oliveirense,Leixoes SC,2,0,,,
-61731896,2025-11-30 11:00,SCU Torreense,GD Chaves,0,2,,,
-61731900,2025-11-30 11:00,FC Porto B,Lusitania FC Lourosa,1,2,,,
-61731902,2025-11-30 14:00,Portimonense SAD,Maritimo Madeira,0,2,,,
-61731904,2025-11-30 15:30,Sporting Lisbon B,SC Farense,3,1,,,
-61731906,2025-11-30 15:30,UD Leiria,SL Benfica B,2,2,,,
-61731894,2025-12-01 14:00,FC Pacos Ferreira,FC Felgueiras 1932,1,1,,,
-61731892,2025-12-01 18:00,FC Vizela,CD Feirense,1,1,,,
-61731924,2025-12-05 18:00,FC Penafiel,UD Leiria,1,0,,,
-61731908,2025-12-06 11:00,FC Felgueiras 1932,Sporting Lisbon B,0,2,,,
-61731916,2025-12-06 14:00,Maritimo Madeira,SCU Torreense,2,0,,,
-61731912,2025-12-06 18:00,Leixoes SC,FC Porto B,2,4,,,
-61731920,2025-12-06 18:00,SL Benfica B,UD Oliveirense,2,0,,,
-61731914,2025-12-07 11:00,Lusitania FC Lourosa,Portimonense SAD,3,2,,,
-61731922,2025-12-07 14:00,CD Feirense,Academico de Viseu FC,0,0,,,
-61731910,2025-12-07 15:30,GD Chaves,FC Pacos Ferreira,2,0,,,
-61731918,2025-12-08 15:30,SC Farense,FC Vizela,2,0,,,
-61731934,2025-12-12 18:00,FC Porto B,FC Penafiel,1,0,2.200,3.000,3.000
-61731936,2025-12-12 18:00,UD Oliveirense,GD Chaves,2,3,3.500,3.100,1.950
-61731930,2025-12-12 20:15,SCU Torreense,CD Feirense,2,3,2.250,2.700,3.300
-61731932,2025-12-13 11:00,UD Leiria,FC Felgueiras 1932,2,3,2.150,3.100,3.000
-61731926,2025-12-13 14:00,Academico de Viseu FC,SC Farense,3,0,2.050,3.000,3.300
-61731928,2025-12-14 11:00,Sporting Lisbon B,FC Vizela,0,1,2.350,3.100,2.750
-61731938,2025-12-14 11:00,Portimonense SAD,Leixoes SC,1,2,2.400,3.100,2.625
-61731940,2025-12-14 18:00,FC Pacos Ferreira,Lusitania FC Lourosa,1,5,2.875,3.000,2.300
-66737448,2025-12-16 17:00,Maritimo Madeira,SL Benfica B,1,1,1.615,3.500,4.500
-61731950,2025-12-20 14:00,GD Chaves,Portimonense SAD,0,1,1.571,3.400,5.250
-61731944,2025-12-20 15:30,CD Feirense,FC Pacos Ferreira,0,1,1.750,3.100,4.333
-61731960,2025-12-20 15:30,FC Vizela,Academico de Viseu FC,0,0,2.500,3.000,2.600
-61731946,2025-12-21 11:00,FC Felgueiras 1932,FC Porto B,2,0,1.750,3.250,4.100
-61731952,2025-12-21 14:00,Leixoes SC,Maritimo Madeira,1,4,4.000,3.250,1.800
-61731956,2025-12-21 15:30,SC Farense,UD Leiria,0,1,2.200,3.000,3.100
-61731948,2025-12-21 18:00,FC Penafiel,SCU Torreense,1,0,2.600,3.100,2.500
-61731958,2025-12-22 18:00,SL Benfica B,Sporting Lisbon B,1,0,2.600,3.300,2.500
-66879200,2025-12-22 20:45,Lusitania FC Lourosa,UD Oliveirense,0,1,1.950,3.200,3.400
-61731962,2025-12-28 11:00,Academico de Viseu FC,SL Benfica B,1,2,1.833,3.300,3.700
-61731978,2025-12-28 14:00,FC Pacos Ferreira,SC Farense,0,0,3.600,3.250,1.909
-66673916,2025-12-30 20:15,SCU Torreense,Lusitania FC Lourosa,0,1,2.300,3.100,3.200
-61731980,2026-01-03 11:00,CD Feirense,UD Leiria,2,2,2.400,3.100,3.000
-61731982,2026-01-03 14:00,FC Felgueiras 1932,UD Oliveirense,1,0,1.666,4.000,4.750
-61731990,2026-01-03 20:30,SC Farense,Portimonense SAD,0,1,1.666,3.800,4.750
-61731984,2026-01-04 11:00,FC Penafiel,FC Pacos Ferreira,1,2,2.000,3.200,3.900
-61731994,2026-01-04 11:00,Sporting Lisbon B,Academico de Viseu FC,1,2,3.100,3.000,2.400
-61731992,2026-01-05 18:00,SL Benfica B,FC Porto B,1,1,1.850,3.500,3.700
-61731996,2026-01-05 20:15,FC Vizela,SCU Torreense,0,1,1.950,3.250,3.600
-61731988,2026-01-08 20:15,Lusitania FC Lourosa,Leixoes SC,2,2,2.100,3.200,3.300
-66674314,2026-01-11 11:00,Portimonense SAD,FC Felgueiras 1932,0,0,3.000,3.250,2.150
-61731986,2026-01-11 14:00,GD Chaves,Maritimo Madeira,2,3,2.625,3.000,2.450
-66674462,2026-01-11 15:30,FC Porto B,Sporting Lisbon B,2,1,2.900,3.100,2.250
-66674480,2026-01-11 18:00,UD Oliveirense,CD Feirense,3,4,2.875,3.100,2.200
-61731998,2026-01-15 20:15,FC Vizela,FC Pacos Ferreira,3,0,1.666,3.250,4.750
-61732000,2026-01-16 18:00,Academico de Viseu FC,UD Leiria,2,0,1.800,3.200,4.100
-61732004,2026-01-17 11:00,FC Felgueiras 1932,Leixoes SC,0,1,1.533,3.600,5.500
-61732010,2026-01-17 11:00,SC Farense,UD Oliveirense,0,0,1.533,3.600,5.500
-61732006,2026-01-17 14:00,FC Penafiel,Portimonense SAD,0,2,2.100,3.100,3.100
-61732012,2026-01-17 18:00,SL Benfica B,GD Chaves,1,0,2.450,3.100,2.600
-61732008,2026-01-18 14:00,Lusitania FC Lourosa,Maritimo Madeira,0,4,3.900,3.250,1.800
-61732002,2026-01-19 18:00,CD Feirense,FC Porto B,2,1,1.900,3.200,3.600
-61732014,2026-01-19 18:00,Sporting Lisbon B,SCU Torreense,1,2,2.600,3.000,2.550
-66674456,2026-01-21 18:00,UD Leiria,FC Vizela,2,2,3.000,3.000,2.250
-61732016,2026-01-23 18:00,FC Pacos Ferreira,Academico de Viseu FC,2,1,5.000,3.400,1.615
-61732030,2026-01-24 11:00,GD Chaves,Lusitania FC Lourosa,2,2,2.050,3.200,3.900
-61732020,2026-01-24 14:00,Maritimo Madeira,FC Felgueiras 1932,1,1,1.750,3.600,4.500
-61732024,2026-01-24 15:30,Leixoes SC,SL Benfica B,0,0,2.800,3.300,2.500
-61732018,2026-01-25 11:00,Portimonense SAD,CD Feirense,0,1,2.300,3.000,2.875
-61732028,2026-01-25 11:00,FC Porto B,FC Vizela,1,0,3.400,3.000,2.050
-61732022,2026-01-25 14:00,SCU Torreense,SC Farense,2,1,2.400,3.100,2.625
-61732026,2026-01-25 15:30,UD Oliveirense,FC Penafiel,2,1,2.600,3.200,2.700
-61732032,2026-01-26 18:00,UD Leiria,Sporting Lisbon B,3,1,1.850,3.100,3.800
-61732048,2026-01-29 18:00,SL Benfica B,Lusitania FC Lourosa,1,2,2.100,3.100,3.200
-61732038,2026-01-30 18:45,FC Penafiel,Leixoes SC,0,0,2.550,2.875,2.700
-61732036,2026-01-31 11:00,FC Felgueiras 1932,GD Chaves,1,0,1.950,3.200,3.500
-61732042,2026-01-31 14:00,Academico de Viseu FC,SCU Torreense,1,0,2.100,3.000,3.300
-61732046,2026-01-31 18:00,SC Farense,FC Porto B,2,3,1.727,3.200,4.500
-61732040,2026-01-31 20:30,FC Vizela,Portimonense SAD,1,1,1.571,3.500,5.000
-61732034,2026-02-01 11:00,Sporting Lisbon B,UD Oliveirense,2,0,1.909,3.100,3.500
-61732044,2026-02-01 14:00,CD Feirense,Maritimo Madeira,1,1,3.000,2.900,2.250
-61732052,2026-02-06 18:00,FC Porto B,Academico de Viseu FC,3,1,3.750,3.200,1.850
-61732068,2026-02-06 20:15,GD Chaves,FC Penafiel,0,1,1.650,3.250,5.250
-61732056,2026-02-07 11:00,Lusitania FC Lourosa,FC Felgueiras 1932,2,1,3.200,3.000,2.150
-61732058,2026-02-07 14:00,Maritimo Madeira,SC Farense,0,1,1.700,3.400,4.500
-61732064,2026-02-07 15:30,UD Oliveirense,FC Vizela,3,0,3.300,3.200,2.000
-61732054,2026-02-07 18:00,Leixoes SC,CD Feirense,2,1,2.350,3.000,2.900
-61732062,2026-02-08 15:30,SCU Torreense,UD Leiria,3,1,2.350,3.100,2.875
-61732060,2026-02-09 18:00,Portimonense SAD,SL Benfica B,1,1,3.000,3.400,2.150
-61732066,2026-02-10 20:15,FC Pacos Ferreira,Sporting Lisbon B,0,3,3.200,3.100,2.100
-61732070,2026-02-14 11:00,CD Feirense,GD Chaves,1,0,2.875,3.000,2.450
-61732078,2026-02-14 14:00,Academico de Viseu FC,UD Oliveirense,4,1,1.500,3.750,6.000
-61732082,2026-02-14 15:30,SC Farense,Leixoes SC,1,2,2.050,3.100,3.600
-61732084,2026-02-14 18:00,SL Benfica B,FC Felgueiras 1932,4,2,2.200,3.250,3.000
-61732074,2026-02-15 11:00,FC Vizela,Maritimo Madeira,0,3,3.000,3.000,2.375
-61732076,2026-02-15 11:00,Sporting Lisbon B,Portimonense SAD,4,3,1.850,3.400,3.750
-61732080,2026-02-15 11:00,FC Pacos Ferreira,SCU Torreense,0,0,3.900,3.200,1.950
-61732086,2026-02-15 18:00,UD Leiria,FC Porto B,2,2,1.900,3.400,3.800
-61732072,2026-02-16 18:00,FC Penafiel,Lusitania FC Lourosa,2,0,2.600,3.000,2.700
-61732110,2026-02-20 18:45,Leixoes SC,FC Vizela,1,2,2.400,3.000,2.625
-61732102,2026-02-21 11:00,SCU Torreense,SL Benfica B,1,0,1.950,3.200,3.400
-61732112,2026-02-21 14:00,Maritimo Madeira,Sporting Lisbon B,1,0,1.600,3.400,5.250
-61732104,2026-02-21 18:00,UD Oliveirense,UD Leiria,2,4,3.250,3.200,2.000
-61732106,2026-02-22 11:00,FC Felgueiras 1932,FC Penafiel,0,0,1.750,3.200,4.500
-61732108,2026-02-22 14:00,GD Chaves,SC Farense,2,0,2.400,3.000,2.800
-61732088,2026-02-22 15:30,Portimonense SAD,Academico de Viseu FC,0,1,3.800,3.200,1.833
-61732098,2026-02-22 18:00,Lusitania FC Lourosa,CD Feirense,1,0,2.700,3.000,2.550
-61732100,2026-02-23 20:15,FC Porto B,FC Pacos Ferreira,1,0,2.000,3.400,3.300
-61732120,2026-02-28 11:00,Sporting Lisbon B,Leixoes SC,0,1,2.200,3.250,3.000
-61732116,2026-02-28 14:00,SCU Torreense,FC Porto B,0,3,1.750,3.500,4.333
-61732118,2026-02-28 15:30,FC Vizela,GD Chaves,3,2,2.200,3.000,3.400
-61732130,2026-02-28 18:00,UD Leiria,Portimonense SAD,1,0,1.727,3.400,4.333
-61732128,2026-03-01 11:00,SC Farense,Lusitania FC Lourosa,2,1,2.150,3.200,3.300
-61732124,2026-03-01 14:00,Academico de Viseu FC,Maritimo Madeira,3,1,2.250,3.000,3.100
-61732114,2026-03-01 15:30,FC Pacos Ferreira,UD Oliveirense,0,0,2.400,3.100,2.800
-61732122,2026-03-01 18:00,FC Penafiel,SL Benfica B,1,1,3.250,3.200,2.100
-61732126,2026-03-02 18:00,CD Feirense,FC Felgueiras 1932,0,0,2.500,2.900,2.875
-61732132,2026-03-06 18:00,GD Chaves,Academico de Viseu FC,1,0,,,
-61732140,2026-03-07 11:00,UD Oliveirense,SCU Torreense,0,3,,,
-61732134,2026-03-07 14:00,Portimonense SAD,FC Pacos Ferreira,2,3,,,
-61732136,2026-03-07 15:30,FC Penafiel,SC Farense,1,1,,,
-61732142,2026-03-08 11:00,FC Felgueiras 1932,FC Vizela,0,1,,,
-61732138,2026-03-08 14:00,Leixoes SC,UD Leiria,1,4,,,
-61732146,2026-03-08 15:30,Maritimo Madeira,FC Porto B,2,1,1.480,3.500,6.500
-61732144,2026-03-08 18:00,Lusitania FC Lourosa,Sporting Lisbon B,1,0,2.600,3.100,2.500
-61732148,2026-03-09 18:00,SL Benfica B,CD Feirense,3,0,1.850,3.100,3.800
-61732152,2026-03-13 18:00,Sporting Lisbon B,GD Chaves,0,1,2.550,3.250,2.550
-61732164,2026-03-13 18:00,SC Farense,FC Felgueiras 1932,0,0,,,
-61732160,2026-03-14 11:00,Academico de Viseu FC,Leixoes SC,3,1,,,
-61732158,2026-03-14 14:00,FC Pacos Ferreira,SL Benfica B,1,0,3.000,3.400,2.200
-61732154,2026-03-15 11:00,FC Vizela,Lusitania FC Lourosa,4,3,,,
-61732166,2026-03-15 14:00,UD Leiria,Maritimo Madeira,1,2,,,
-61732162,2026-03-15 18:00,CD Feirense,FC Penafiel,1,0,,,
-61732150,2026-03-16 18:45,FC Porto B,UD Oliveirense,0,0,2.000,3.300,3.500
-61732156,2026-03-16 20:15,SCU Torreense,Portimonense SAD,1,0,,,
-61732178,2026-03-20 18:00,GD Chaves,UD Leiria,0,2,,,
-61732168,2026-03-21 11:00,Lusitania FC Lourosa,Academico de Viseu FC,0,3,,,
-61732176,2026-03-21 14:00,FC Penafiel,FC Vizela,0,1,,,
-61732182,2026-03-21 15:30,Maritimo Madeira,UD Oliveirense,1,0,,,
-61732170,2026-03-21 18:00,Portimonense SAD,FC Porto B,2,1,2.375,3.200,2.700
-61732174,2026-03-22 11:00,FC Felgueiras 1932,SCU Torreense,0,3,,,
-61732172,2026-03-22 14:00,CD Feirense,Sporting Lisbon B,1,2,2.400,3.100,2.750
-61732180,2026-03-22 15:30,Leixoes SC,FC Pacos Ferreira,3,2,,,
-61732184,2026-03-22 18:00,SL Benfica B,SC Farense,1,0,2.300,3.200,2.750
-69566082,2026-03-29 14:30,UD Leiria,FC Pacos Ferreira,2,0,1.533,3.700,5.500
-61732198,2026-04-03 14:30,UD Oliveirense,Portimonense SAD,1,2,2.200,3.100,2.875
-61732186,2026-04-04 10:00,Sporting Lisbon B,FC Penafiel,1,2,1.900,3.300,3.500
-61732200,2026-04-04 10:00,SC Farense,CD Feirense,0,1,1.800,3.100,4.333
-61732192,2026-04-04 13:00,FC Pacos Ferreira,Maritimo Madeira,0,0,4.750,3.250,1.700
-61732196,2026-04-04 17:00,Academico de Viseu FC,FC Felgueiras 1932,0,1,1.850,3.200,3.750
-61732202,2026-04-05 17:00,UD Leiria,Lusitania FC Lourosa,0,0,1.727,3.300,4.333
-61732188,2026-04-06 17:00,FC Porto B,GD Chaves,3,0,3.200,3.300,2.000
-61732190,2026-04-06 17:00,SCU Torreense,Leixoes SC,1,1,1.900,3.300,3.600
-61732194,2026-04-07 17:00,FC Vizela,SL Benfica B,1,2,1.833,3.250,3.900
-61732208,2026-04-10 17:45,FC Felgueiras 1932,FC Pacos Ferreira,0,0,1.800,3.500,4.500
-61732204,2026-04-11 10:00,FC Penafiel,Academico de Viseu FC,4,3,3.250,3.000,2.100
-61732220,2026-04-11 13:00,SC Farense,Sporting Lisbon B,2,0,2.100,3.100,3.100
-61732212,2026-04-11 17:00,GD Chaves,SCU Torreense,2,0,2.375,3.100,2.700
-61732222,2026-04-11 17:00,SL Benfica B,UD Leiria,2,2,2.750,3.200,2.250
-61732206,2026-04-12 10:00,CD Feirense,FC Vizela,1,0,3.250,3.250,2.200
-61732218,2026-04-12 13:00,Maritimo Madeira,Portimonense SAD,1,0,1.550,3.900,6.000
-61732214,2026-04-12 14:30,Leixoes SC,UD Oliveirense,2,0,1.666,3.800,4.750
-61732216,2026-04-13 17:00,Lusitania FC Lourosa,FC Porto B,1,1,2.300,3.000,2.900
-61732238,2026-04-17 17:45,Academico de Viseu FC,CD Feirense,3,0,1.727,3.100,4.500
-61732226,2026-04-18 10:00,FC Pacos Ferreira,GD Chaves,4,3,2.900,3.000,2.250
-61732240,2026-04-18 13:00,UD Leiria,FC Penafiel,4,2,1.615,3.500,4.750
-61732232,2026-04-18 17:00,SCU Torreense,Maritimo Madeira,1,0,2.700,3.100,2.350
-61732230,2026-04-19 10:00,Portimonense SAD,Lusitania FC Lourosa,3,2,2.350,3.200,2.875
-61732234,2026-04-19 13:00,FC Vizela,SC Farense,0,2,2.050,3.200,3.400
-61732224,2026-04-20 17:45,Sporting Lisbon B,FC Felgueiras 1932,0,1,2.450,3.000,2.700
-61732228,2026-04-20 17:45,FC Porto B,Leixoes SC,0,3,2.750,3.200,2.300
-61732236,2026-04-22 17:00,UD Oliveirense,SL Benfica B,3,0,2.875,3.200,2.200
-61732254,2026-04-25 10:00,Leixoes SC,Portimonense SAD,2,0,1.833,3.200,3.800
-61732242,2026-04-25 13:00,SC Farense,Academico de Viseu FC,0,0,2.700,3.000,2.450
-61732248,2026-04-25 17:00,FC Felgueiras 1932,UD Leiria,2,1,3.000,2.900,2.250
-61732256,2026-04-26 10:00,Lusitania FC Lourosa,FC Pacos Ferreira,2,0,2.450,3.000,2.700
-61732244,2026-04-26 13:00,FC Vizela,Sporting Lisbon B,1,0,1.750,3.300,4.200
-61732250,2026-04-26 14:30,FC Penafiel,FC Porto B,3,0,1.900,3.200,3.600
-61732258,2026-04-26 17:00,SL Benfica B,Maritimo Madeira,1,2,2.900,3.000,2.300
-61732252,2026-04-27 17:00,GD Chaves,UD Oliveirense,2,1,1.600,3.400,4.750
-61732246,2026-04-28 17:00,CD Feirense,SCU Torreense,0,0,3.400,3.200,1.950
-61732268,2026-05-01 14:30,Maritimo Madeira,Leixoes SC,3,2,1.950,3.000,3.600
-61732274,2026-05-01 19:30,Sporting Lisbon B,SL Benfica B,0,1,2.700,3.000,2.450
-61732270,2026-05-02 10:00,UD Oliveirense,Lusitania FC Lourosa,0,0,2.100,3.400,2.900
-61732276,2026-05-02 13:00,Academico de Viseu FC,FC Vizela,0,0,1.909,3.100,3.600
-61732266,2026-05-03 10:00,Portimonense SAD,GD Chaves,3,2,2.800,3.100,2.300
-61732260,2026-05-03 13:00,FC Pacos Ferreira,CD Feirense,1,2,2.000,3.250,3.200
-61732272,2026-05-03 14:30,UD Leiria,SC Farense,1,3,1.750,3.300,4.200
-61732262,2026-05-04 17:00,FC Porto B,FC Felgueiras 1932,1,0,3.300,3.000,2.050
-61732264,2026-05-04 17:00,SCU Torreense,FC Penafiel,3,2,1.833,3.200,3.800
-61732280,2026-05-09 14:30,Sporting Lisbon B,FC Porto B,0,1,1.850,3.600,3.400
-61732282,2026-05-09 14:30,FC Penafiel,Maritimo Madeira,1,0,1.800,3.400,3.900
-61732286,2026-05-09 14:30,CD Feirense,UD Oliveirense,1,2,1.950,3.500,3.200
-61732288,2026-05-09 14:30,FC Felgueiras 1932,Portimonense SAD,1,2,2.100,3.200,3.100
-61732290,2026-05-09 14:30,GD Chaves,Leixoes SC,1,2,2.150,3.200,3.100
-61732294,2026-05-09 14:30,SC Farense,FC Pacos Ferreira,1,1,1.850,3.400,3.600
-61732278,2026-05-09 19:30,SL Benfica B,Academico de Viseu FC,0,2,3.100,3.400,2.000
-61732284,2026-05-09 19:30,FC Vizela,UD Leiria,1,0,2.200,3.400,2.800
-61732292,2026-05-09 19:30,Lusitania FC Lourosa,SCU Torreense,1,2,3.300,3.400,1.950
-61732308,2026-05-15 17:00,FC Porto B,SL Benfica B,2,1,3.100,3.500,1.950
-61732302,2026-05-15 18:00,Maritimo Madeira,GD Chaves,1,3,1.750,3.700,3.600
-61732310,2026-05-16 10:00,Academico de Viseu FC,Sporting Lisbon B,0,0,1.444,3.800,6.500
-61732312,2026-05-16 10:00,SCU Torreense,FC Vizela,4,0,1.800,3.500,3.700
-61732298,2026-05-17 10:00,UD Oliveirense,FC Felgueiras 1932,1,5,2.450,3.200,2.550
-61732296,2026-05-17 14:30,UD Leiria,CD Feirense,2,2,1.750,3.500,3.900
-61732304,2026-05-17 17:00,Leixoes SC,Lusitania FC Lourosa,2,1,1.533,4.000,5.000
-61732300,2026-05-17 19:30,FC Pacos Ferreira,FC Penafiel,2,1,1.650,3.600,4.500
-61732306,2026-05-17 19:30,Portimonense SAD,SC Farense,1,0,2.450,3.300,2.550
-71578516,2026-05-23 19:30,SC Farense,CF Os Belenenses,1,0,1.800,3.100,4.333
-71578520,2026-05-30 19:30,CF Os Belenenses,SC Farense,0,0,2.600,3.100,2.625
-72531488,2026-08-08 10:00,GD Chaves,Academica de Coimbra,1,4,1.950,3.100,3.600
-72531496,2026-08-08 13:00,FC Penafiel,Portimonense SAD,0,1,1.950,3.300,3.400
-72531498,2026-08-08 17:00,CD Tondela,Amarante FC,2,1,1.550,3.700,5.000
-72531490,2026-08-09 10:00,SC Farense,SCU Torreense,2,1,3.200,3.100,2.100
-72531500,2026-08-09 13:00,FC Vizela,UD Leiria,1,0,2.500,3.200,2.500
-72531484,2026-08-09 14:30,AVS Futebol SAD,Sporting Lisbon B,0,1,1.850,3.500,3.500
-72531492,2026-08-09 14:30,CD Feirense,FC Felgueiras 1932,0,0,2.750,3.000,2.400
-72531486,2026-08-10 17:00,SL Benfica B,Leixoes SC,1,0,2.100,3.300,3.000
-72531494,2026-08-10 17:00,Lusitania FC Lourosa,FC Porto B,2,0,2.150,3.300,2.900
-72531502,2026-08-14 17:00,Academica de Coimbra,CD Feirense,1,0,2.100,3.250,3.000
-72531508,2026-08-15 13:00,UD Leiria,SL Benfica B,1,2,1.750,3.300,4.100
-72531516,2026-08-15 14:30,Sporting Lisbon B,GD Chaves,1,0,2.150,3.100,3.000
-72531518,2026-08-15 17:00,SCU Torreense,FC Penafiel,2,2,1.800,3.250,4.000
-72531514,2026-08-16 10:00,Portimonense SAD,FC Vizela,2,0,2.700,3.000,2.500
-72531504,2026-08-16 13:00,Amarante FC,Lusitania FC Lourosa,0,1,2.625,2.900,2.500
-72531510,2026-08-16 14:30,Leixoes SC,CD Tondela,1,0,2.150,3.200,2.900
-72531512,2026-08-16 17:00,FC Porto B,SC Farense,1,3,3.250,3.000,2.100
-72531506,2026-08-17 17:00,FC Felgueiras 1932,AVS Futebol SAD,1,1,2.000,2.900,3.600
-72531520,2026-08-21 17:00,SL Benfica B,Portimonense SAD,1,1,2.150,3.000,3.200
-72531534,2026-08-21 19:15,CD Tondela,Academica de Coimbra,0,2,1.909,3.400,3.400
-72531530,2026-08-22 10:00,Leixoes SC,UD Leiria,2,4,1.950,3.250,3.400
-72531536,2026-08-22 13:00,FC Vizela,Amarante FC,0,0,1.900,3.300,3.600
-72531528,2026-08-22 17:00,Lusitania FC Lourosa,SCU Torreense,2,2,2.900,3.100,2.200
-72531522,2026-08-23 10:00,GD Chaves,AVS Futebol SAD,2,2,1.950,3.250,3.500
-72531532,2026-08-23 13:00,FC Penafiel,Sporting Lisbon B,2,0,2.600,3.100,2.500
-72531524,2026-08-24 17:00,SC Farense,FC Felgueiras 1932,1,1,2.050,3.000,3.500
-72531526,2026-08-24 19:15,CD Feirense,FC Porto B,0,1,2.000,3.100,3.500
-72531546,2026-08-28 17:00,UD Leiria,CD Tondela,2,0,1.950,3.200,3.400
-72531550,2026-08-29 10:00,Portimonense SAD,Leixoes SC,0,2,2.625,3.000,2.450
-72531538,2026-08-29 13:00,Academica de Coimbra,Lusitania FC Lourosa,0,2,2.300,3.000,2.875
-72531554,2026-08-29 19:30,SCU Torreense,FC Vizela,0,3,2.150,3.100,3.100
-72531542,2026-08-30 10:00,Amarante FC,SL Benfica B,1,0,2.350,3.100,2.750
-72531540,2026-08-30 13:00,AVS Futebol SAD,CD Feirense,2,0,2.250,3.000,3.000
-72531544,2026-08-30 17:00,FC Felgueiras 1932,GD Chaves,2,1,2.300,3.100,2.800
-72531548,2026-08-30 17:00,FC Porto B,FC Penafiel,0,3,2.550,3.100,2.450
-72531552,2026-08-30 17:00,Sporting Lisbon B,SC Farense,2,1,2.375,3.100,2.750
-72531570,2026-09-05 10:00,CD Tondela,FC Porto B,3,0,1.615,3.500,4.750
-72531568,2026-09-05 13:00,FC Penafiel,Academica de Coimbra,4,1,2.200,3.000,3.000
-72531556,2026-09-05 14:30,SL Benfica B,SCU Torreense,0,2,3.000,3.100,2.150
-72531560,2026-09-05 14:30,CD Feirense,Sporting Lisbon B,1,3,2.375,3.000,2.800
-72531572,2026-09-06 10:00,FC Vizela,FC Felgueiras 1932,1,0,2.150,3.000,3.200
-72531566,2026-09-06 14:30,Leixoes SC,Amarante FC,3,1,1.750,3.400,4.200
-72531562,2026-09-06 17:00,UD Leiria,Portimonense SAD,1,0,2.100,3.200,3.100
-72531564,2026-09-07 17:00,Lusitania FC Lourosa,AVS Futebol SAD,2,1,1.909,3.250,3.600
-72531590,2026-09-11 17:45,SCU Torreense,Leixoes SC,0,0,2.450,2.875,2.875
-72531574,2026-09-11 19:45,Academica de Coimbra,SL Benfica B,0,3,2.150,3.300,2.875
-72531586,2026-09-12 10:00,Portimonense SAD,CD Tondela,0,2,2.875,3.000,2.250
-72531582,2026-09-12 13:00,FC Felgueiras 1932,FC Penafiel,1,2,2.150,3.000,3.100
-72531576,2026-09-13 10:00,AVS Futebol SAD,SC Farense,0,0,3.100,3.100,2.150
-72531580,2026-09-13 13:00,GD Chaves,CD Feirense,1,0,1.950,3.200,3.400
-72531578,2026-09-13 14:30,Amarante FC,UD Leiria,2,2,3.300,2.900,2.100
-72531584,2026-09-14 17:00,FC Porto B,FC Vizela,2,2,3.600,3.400,1.850
-72531588,2026-09-14 17:00,Sporting Lisbon B,Lusitania FC Lourosa,1,2,2.200,3.100,2.875
-74352002,2026-10-04 10:00,SC Farense,GD Chaves,4,0,2.050,3.100,3.400
-72531604,2026-10-09 17:00,FC Penafiel,AVS Futebol SAD,1,2,1.800,3.300,4.333
-72531606,2026-10-10 10:00,CD Tondela,SCU Torreense,1,0,2.375,3.100,2.900
-72531592,2026-10-10 13:00,Amarante FC,Portimonense SAD,1,2,2.500,3.000,2.750
-72531602,2026-10-10 14:30,Leixoes SC,FC Porto B,1,2,1.533,3.800,5.750
-72531608,2026-10-10 19:30,FC Vizela,Sporting CP B,0,2,2.150,3.100,3.300
-72531600,2026-10-11 10:00,Lusitania FC Lourosa,GD Chaves,1,1,1.850,3.400,3.700
-72531596,2026-10-11 13:00,SC Farense,CD Feirense,2,1,1.650,3.500,5.000
-72531598,2026-10-11 17:00,UD Leiria,Academica de Coimbra,0,2,2.000,3.300,3.500
-74824830,2026-10-12 17:00,SL Benfica B,FC Felgueiras 1932,1,0,2.550,3.250,2.550
-72531614,2026-10-23 17:45,GD Chaves,FC Vizela,2,1,2.500,3.200,2.500
-72531610,2026-10-24 10:00,Academica de Coimbra,Leixoes SC,4,0,3.000,3.100,2.200
-72531624,2026-10-24 10:00,Sporting CP B,Portimonense SAD,3,0,2.600,3.000,2.550
-72531618,2026-10-24 13:00,CD Feirense,SL Benfica B,0,0,2.300,3.200,2.750
-72531616,2026-10-24 17:00,SC Farense,FC Penafiel,1,4,1.750,3.300,4.100
-72531612,2026-10-25 11:00,AVS Futebol SAD,CD Tondela,2,1,3.800,3.300,1.800
-72531620,2026-10-25 14:00,FC Felgueiras 1932,Lusitania FC Lourosa,2,2,2.300,3.100,2.800
-72531622,2026-10-25 15:30,FC Porto B,UD Leiria,1,1,3.300,3.100,2.000
-72531626,2026-10-26 20:45,SCU Torreense,Amarante FC,1,0,1.727,3.100,4.500
-72531628,2026-10-31 11:00,Amarante FC,FC Porto B,2,1,1.909,3.250,3.700
-72531640,2026-10-31 14:00,Portimonense SAD,SCU Torreense,0,0,2.700,3.100,2.500
-72531636,2026-10-31 15:30,Leixoes SC,Sporting CP B,1,2,2.200,3.100,3.200
-72531630,2026-10-31 18:00,SL Benfica B,GD Chaves,3,1,2.300,3.300,2.750
-72531632,2026-10-31 18:00,UD Leiria,AVS Futebol SAD,2,1,1.700,3.700,4.333
-72531644,2026-11-01 11:00,FC Vizela,Academica de Coimbra,2,1,2.350,3.000,3.000
-72531642,2026-11-01 14:00,CD Tondela,FC Felgueiras 1932,3,2,1.700,3.300,4.750
-72531634,2026-11-01 15:30,Lusitania FC Lourosa,SC Farense,1,1,2.625,3.100,2.550
-72531638,2026-11-02 18:00,FC Penafiel,CD Feirense,1,0,1.850,3.500,3.600
-72531648,2026-11-06 18:45,AVS Futebol SAD,FC Vizela,2,2,2.750,3.100,2.500
-72531656,2026-11-07 11:00,FC Felgueiras 1932,Leixoes SC,3,3,2.750,3.100,2.450
-72531650,2026-11-07 14:00,GD Chaves,FC Penafiel,2,3,2.625,3.000,2.625
-72531646,2026-11-07 15:30,Academica de Coimbra,Amarante FC,1,1,1.950,3.250,3.600
-72531654,2026-11-08 11:00,CD Feirense,Lusitania FC Lourosa,1,0,3.200,3.100,2.200
-72531658,2026-11-08 11:00,FC Porto B,Portimonense SAD,0,1,3.400,3.250,2.050
-72531652,2026-11-08 14:00,SC Farense,SL Benfica B,2,3,1.650,3.600,4.750
-72531660,2026-11-08 18:00,Sporting CP B,CD Tondela,1,1,2.600,3.200,2.550
-72531662,2026-11-09 20:15,SCU Torreense,UD Leiria,2,3,1.950,3.400,3.600
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+60659989,2025-05-24 18:00,CF Os Belenenses,FC Pacos Ferreira,2,1,,,,,,
+60659991,2025-06-01 16:00,FC Pacos Ferreira,CF Os Belenenses,2,0,,,,,,
+61731692,2025-08-09 10:00,FC Pacos Ferreira,FC Vizela,1,2,,,,,,
+61731708,2025-08-09 13:00,SCU Torreense,Sporting Lisbon B,0,1,,,,,,
+61731700,2025-08-09 17:00,Portimonense SAD,FC Penafiel,2,1,,,,,,
+61731706,2025-08-10 10:00,GD Chaves,SL Benfica B,1,1,,,,,,
+61731702,2025-08-10 13:00,Maritimo Madeira,Lusitania FC Lourosa,0,1,,,,,,
+61731698,2025-08-10 14:30,Leixoes SC,FC Felgueiras 1932,3,0,,,,,,
+61731694,2025-08-10 17:00,UD Leiria,Academico de Viseu FC,3,2,,,,,,
+61731696,2025-08-10 17:00,FC Porto B,CD Feirense,0,0,,,,,,
+61731704,2025-08-11 17:00,UD Oliveirense,SC Farense,1,1,,,,,,
+61731712,2025-08-15 17:00,CD Feirense,Portimonense SAD,4,1,,,,,,
+61731714,2025-08-16 10:00,FC Felgueiras 1932,Maritimo Madeira,0,1,,,,,,
+61731722,2025-08-16 13:00,FC Vizela,FC Porto B,4,0,,,,,,
+61731710,2025-08-16 14:30,Academico de Viseu FC,FC Pacos Ferreira,0,0,,,,,,
+61731724,2025-08-16 14:30,Lusitania FC Lourosa,GD Chaves,2,2,,,,,,
+61731716,2025-08-17 10:00,SC Farense,SCU Torreense,0,3,,,,,,
+61731726,2025-08-17 10:00,Sporting Lisbon B,UD Leiria,1,0,,,,,,
+61731720,2025-08-17 13:00,FC Penafiel,UD Oliveirense,0,0,,,,,,
+61731718,2025-08-17 17:00,SL Benfica B,Leixoes SC,1,1,,,,,,
+61731730,2025-08-22 19:15,GD Chaves,FC Felgueiras 1932,1,1,,,,,,
+61731734,2025-08-23 10:00,Portimonense SAD,FC Vizela,1,1,,,,,,
+61731744,2025-08-23 13:00,FC Pacos Ferreira,UD Leiria,0,0,,,,,,
+61731736,2025-08-23 14:30,SCU Torreense,Academico de Viseu FC,2,1,,,,,,
+61731728,2025-08-24 10:00,UD Oliveirense,Sporting Lisbon B,1,0,,,,,,
+61731740,2025-08-24 10:00,FC Porto B,SC Farense,0,2,,,,,,
+61731732,2025-08-24 13:00,Leixoes SC,FC Penafiel,3,2,,,,,,
+61731738,2025-08-24 14:30,Maritimo Madeira,CD Feirense,1,0,,,,,,
+61731742,2025-08-25 17:00,Lusitania FC Lourosa,SL Benfica B,1,1,,,,,,
+61731756,2025-08-29 17:00,UD Leiria,SCU Torreense,1,0,,,,,,
+61731762,2025-08-30 10:00,FC Penafiel,GD Chaves,0,2,,,,,,
+61731750,2025-08-30 13:00,FC Felgueiras 1932,Lusitania FC Lourosa,3,1,,,,,,
+61731748,2025-08-30 14:30,CD Feirense,Leixoes SC,2,0,,,,,,
+61731754,2025-08-30 17:00,SL Benfica B,Portimonense SAD,1,2,,,,,,
+61731752,2025-08-31 10:00,SC Farense,Maritimo Madeira,0,2,,,,,,
+61731760,2025-08-31 10:00,Sporting Lisbon B,FC Pacos Ferreira,3,0,,,,,,
+61731746,2025-08-31 13:00,Academico de Viseu FC,FC Porto B,2,0,,,,,,
+61731758,2025-08-31 14:30,FC Vizela,UD Oliveirense,1,0,,,,,,
+61731778,2025-09-13 10:00,FC Felgueiras 1932,SL Benfica B,2,1,,,,,,
+61731766,2025-09-13 13:00,Lusitania FC Lourosa,FC Penafiel,0,0,,,,,,
+61731776,2025-09-13 14:30,Leixoes SC,SC Farense,0,2,,,,,,
+61731770,2025-09-14 10:00,Portimonense SAD,Sporting Lisbon B,1,2,,,,,,
+61731768,2025-09-14 13:00,Maritimo Madeira,FC Vizela,1,1,,,,,,
+61731774,2025-09-14 14:30,SCU Torreense,FC Pacos Ferreira,0,0,,,,,,
+61731780,2025-09-14 14:45,FC Porto B,UD Leiria,1,2,,,,,,
+61731764,2025-09-14 17:00,GD Chaves,CD Feirense,1,1,,,,,,
+61731772,2025-09-15 19:15,UD Oliveirense,Academico de Viseu FC,2,2,,,,,,
+61731796,2025-09-26 17:00,FC Vizela,Leixoes SC,2,0,,,,,,
+61731788,2025-09-27 10:00,SL Benfica B,SCU Torreense,3,3,,,,,,
+61731792,2025-09-27 10:00,FC Penafiel,FC Felgueiras 1932,2,0,,,,,,
+61731798,2025-09-27 10:00,Sporting Lisbon B,Maritimo Madeira,0,1,,,,,,
+61731782,2025-09-27 13:00,Academico de Viseu FC,Portimonense SAD,2,3,,,,,,
+61731784,2025-09-28 10:00,CD Feirense,Lusitania FC Lourosa,1,2,,,,,,
+61731794,2025-09-28 13:00,SC Farense,GD Chaves,0,2,,,,,,
+61731786,2025-09-29 17:00,FC Pacos Ferreira,FC Porto B,2,2,,,,,,
+61731810,2025-10-03 17:00,Maritimo Madeira,Academico de Viseu FC,2,2,,,,,,
+61731814,2025-10-04 10:00,Lusitania FC Lourosa,SC Farense,1,2,,,,,,
+61731804,2025-10-04 13:00,GD Chaves,FC Vizela,1,0,,,,,,
+61731816,2025-10-04 14:30,Portimonense SAD,UD Leiria,1,1,,,,,,
+61731800,2025-10-05 10:00,UD Oliveirense,FC Pacos Ferreira,2,2,,,,,,
+61731802,2025-10-05 10:00,FC Porto B,SCU Torreense,2,3,,,,,,
+61731812,2025-10-05 13:00,FC Felgueiras 1932,CD Feirense,2,0,,,,,,
+61731806,2025-10-05 14:30,Leixoes SC,Sporting Lisbon B,0,4,,,,,,
+61731808,2025-10-05 17:00,SL Benfica B,FC Penafiel,0,2,,,,,,
+63956591,2025-10-11 14:30,UD Leiria,UD Oliveirense,0,0,,,,,,
+61731832,2025-10-19 10:00,FC Porto B,Maritimo Madeira,1,0,,,,,,
+61731848,2025-10-19 14:30,FC Penafiel,CD Feirense,1,2,,,,,,
+61731826,2025-10-24 17:45,SCU Torreense,UD Oliveirense,3,2,,,,,,
+61731828,2025-10-24 19:45,FC Vizela,FC Felgueiras 1932,2,2,,,,,,
+61731824,2025-10-25 10:00,UD Leiria,Leixoes SC,1,3,,,,,,
+61731830,2025-10-25 10:00,Sporting Lisbon B,Lusitania FC Lourosa,4,0,,,,,,
+61731820,2025-10-25 13:00,FC Pacos Ferreira,Portimonense SAD,4,1,,,,,,
+61731818,2025-10-25 14:30,Academico de Viseu FC,GD Chaves,1,0,,,,,,
+61731834,2025-10-25 14:30,CD Feirense,SL Benfica B,0,2,,,,,,
+61731822,2025-10-26 11:00,SC Farense,FC Penafiel,0,0,,,,,,
+61731840,2025-10-29 17:15,Lusitania FC Lourosa,FC Vizela,1,1,,,,,,
+61731836,2025-10-29 19:15,UD Oliveirense,FC Porto B,1,0,,,,,,
+61731842,2025-10-30 18:00,Portimonense SAD,SCU Torreense,0,1,,,,,,
+61731844,2025-10-30 18:00,SL Benfica B,FC Pacos Ferreira,2,1,,,,,,
+61731846,2025-10-30 20:15,Leixoes SC,Academico de Viseu FC,1,5,,,,,,
+61731852,2025-10-30 20:15,Maritimo Madeira,UD Leiria,1,3,,,,,,
+61731858,2025-11-01 11:00,Sporting Lisbon B,CD Feirense,3,2,,,,,,
+61731862,2025-11-02 11:00,FC Vizela,FC Penafiel,1,3,,,,,,
+61731870,2025-11-02 15:30,SC Farense,SL Benfica B,4,3,,,,,,
+61731866,2025-11-03 18:00,FC Pacos Ferreira,Leixoes SC,3,1,,,,,,
+61731868,2025-11-03 18:00,UD Oliveirense,Maritimo Madeira,0,2,,,,,,
+61731864,2025-11-03 20:00,UD Leiria,GD Chaves,2,1,,,,,,
+64890878,2025-11-04 16:00,SCU Torreense,FC Felgueiras 1932,2,0,,,,,,
+64890880,2025-11-04 18:00,Academico de Viseu FC,Lusitania FC Lourosa,3,2,,,,,,
+61731886,2025-11-07 18:00,CD Feirense,SC Farense,0,0,,,,,,
+61731872,2025-11-08 11:00,FC Penafiel,Sporting Lisbon B,1,1,,,,,,
+61731884,2025-11-08 14:00,Portimonense SAD,UD Oliveirense,1,1,,,,,,
+61731874,2025-11-08 18:00,GD Chaves,FC Porto B,0,1,,,,,,
+61731880,2025-11-08 18:00,SL Benfica B,FC Vizela,1,2,,,,,,
+61731876,2025-11-09 11:00,Leixoes SC,SCU Torreense,1,0,,,,,,
+61731882,2025-11-09 14:00,FC Felgueiras 1932,Academico de Viseu FC,1,3,,,,,,
+61731878,2025-11-09 15:30,Maritimo Madeira,FC Pacos Ferreira,2,0,,,,,,
+61731888,2025-11-09 20:30,Lusitania FC Lourosa,UD Leiria,1,1,,,,,,
+64512353,2025-11-16 11:00,FC Felgueiras 1932,SC Farense,1,1,,,,,,
+61731974,2025-11-16 18:00,Leixoes SC,GD Chaves,0,1,,,,,,
+65030584,2025-11-23 11:00,GD Chaves,Sporting Lisbon B,0,0,,,,,,
+65067826,2025-11-23 11:00,FC Porto B,Portimonense SAD,1,0,,,,,,
+61731966,2025-11-23 14:00,Maritimo Madeira,FC Penafiel,2,1,,,,,,
+61731890,2025-11-29 11:00,Academico de Viseu FC,FC Penafiel,2,0,,,,,,
+61731898,2025-11-29 14:00,UD Oliveirense,Leixoes SC,2,0,,,,,,
+61731896,2025-11-30 11:00,SCU Torreense,GD Chaves,0,2,,,,,,
+61731900,2025-11-30 11:00,FC Porto B,Lusitania FC Lourosa,1,2,,,,,,
+61731902,2025-11-30 14:00,Portimonense SAD,Maritimo Madeira,0,2,,,,,,
+61731904,2025-11-30 15:30,Sporting Lisbon B,SC Farense,3,1,,,,,,
+61731906,2025-11-30 15:30,UD Leiria,SL Benfica B,2,2,,,,,,
+61731894,2025-12-01 14:00,FC Pacos Ferreira,FC Felgueiras 1932,1,1,,,,,,
+61731892,2025-12-01 18:00,FC Vizela,CD Feirense,1,1,,,,,,
+61731924,2025-12-05 18:00,FC Penafiel,UD Leiria,1,0,,,,,,
+61731908,2025-12-06 11:00,FC Felgueiras 1932,Sporting Lisbon B,0,2,,,,,,
+61731916,2025-12-06 14:00,Maritimo Madeira,SCU Torreense,2,0,,,,,,
+61731912,2025-12-06 18:00,Leixoes SC,FC Porto B,2,4,,,,,,
+61731920,2025-12-06 18:00,SL Benfica B,UD Oliveirense,2,0,,,,,,
+61731914,2025-12-07 11:00,Lusitania FC Lourosa,Portimonense SAD,3,2,,,,,,
+61731922,2025-12-07 14:00,CD Feirense,Academico de Viseu FC,0,0,,,,,,
+61731910,2025-12-07 15:30,GD Chaves,FC Pacos Ferreira,2,0,,,,,,
+61731918,2025-12-08 15:30,SC Farense,FC Vizela,2,0,,,,,,
+61731934,2025-12-12 18:00,FC Porto B,FC Penafiel,1,0,2.200,3.000,3.000,2.25,1.925,1.875
+61731936,2025-12-12 18:00,UD Oliveirense,GD Chaves,2,3,3.500,3.100,1.950,2.25,1.900,1.900
+61731930,2025-12-12 20:15,SCU Torreense,CD Feirense,2,3,2.250,2.700,3.300,2,2.025,1.775
+61731932,2025-12-13 11:00,UD Leiria,FC Felgueiras 1932,2,3,2.150,3.100,3.000,2.5,2.025,1.775
+61731926,2025-12-13 14:00,Academico de Viseu FC,SC Farense,3,0,2.050,3.000,3.300,2.25,1.950,1.850
+61731928,2025-12-14 11:00,Sporting Lisbon B,FC Vizela,0,1,2.350,3.100,2.750,2.25,1.775,2.025
+61731938,2025-12-14 11:00,Portimonense SAD,Leixoes SC,1,2,2.400,3.100,2.625,2.5,2.025,1.775
+61731940,2025-12-14 18:00,FC Pacos Ferreira,Lusitania FC Lourosa,1,5,2.875,3.000,2.300,2.25,1.975,1.825
+66737448,2025-12-16 17:00,Maritimo Madeira,SL Benfica B,1,1,1.615,3.500,4.500,2.5,1.800,2.000
+61731950,2025-12-20 14:00,GD Chaves,Portimonense SAD,0,1,1.571,3.400,5.250,2.5,1.950,1.850
+61731944,2025-12-20 15:30,CD Feirense,FC Pacos Ferreira,0,1,1.750,3.100,4.333,2.25,2.050,1.750
+61731960,2025-12-20 15:30,FC Vizela,Academico de Viseu FC,0,0,2.500,3.000,2.600,2.25,1.900,1.900
+61731946,2025-12-21 11:00,FC Felgueiras 1932,FC Porto B,2,0,1.750,3.250,4.100,2.5,1.975,1.825
+61731952,2025-12-21 14:00,Leixoes SC,Maritimo Madeira,1,4,4.000,3.250,1.800,2.25,1.800,2.000
+61731956,2025-12-21 15:30,SC Farense,UD Leiria,0,1,2.200,3.000,3.100,2.25,2.025,1.775
+61731948,2025-12-21 18:00,FC Penafiel,SCU Torreense,1,0,2.600,3.100,2.500,2.25,1.825,1.975
+61731958,2025-12-22 18:00,SL Benfica B,Sporting Lisbon B,1,0,2.600,3.300,2.500,2.5,1.900,1.900
+66879200,2025-12-22 20:45,Lusitania FC Lourosa,UD Oliveirense,0,1,1.950,3.200,3.400,2.5,2.000,1.800
+61731962,2025-12-28 11:00,Academico de Viseu FC,SL Benfica B,1,2,1.833,3.300,3.700,2.5,1.950,1.850
+61731978,2025-12-28 14:00,FC Pacos Ferreira,SC Farense,0,0,3.600,3.250,1.909,2.25,1.850,1.950
+66673916,2025-12-30 20:15,SCU Torreense,Lusitania FC Lourosa,0,1,2.300,3.100,3.200,2,2.025,1.775
+61731980,2026-01-03 11:00,CD Feirense,UD Leiria,2,2,2.400,3.100,3.000,2,1.850,1.950
+61731982,2026-01-03 14:00,FC Felgueiras 1932,UD Oliveirense,1,0,1.666,4.000,4.750,2.5,2.000,1.800
+61731990,2026-01-03 20:30,SC Farense,Portimonense SAD,0,1,1.666,3.800,4.750,2.5,1.975,1.825
+61731984,2026-01-04 11:00,FC Penafiel,FC Pacos Ferreira,1,2,2.000,3.200,3.900,2.25,1.850,1.950
+61731994,2026-01-04 11:00,Sporting Lisbon B,Academico de Viseu FC,1,2,3.100,3.000,2.400,2.25,2.000,1.800
+61731992,2026-01-05 18:00,SL Benfica B,FC Porto B,1,1,1.850,3.500,3.700,2.5,1.850,1.950
+61731996,2026-01-05 20:15,FC Vizela,SCU Torreense,0,1,1.950,3.250,3.600,2.25,1.850,1.950
+61731988,2026-01-08 20:15,Lusitania FC Lourosa,Leixoes SC,2,2,2.100,3.200,3.300,2.25,1.975,1.825
+66674314,2026-01-11 11:00,Portimonense SAD,FC Felgueiras 1932,0,0,3.000,3.250,2.150,2.5,1.900,1.900
+61731986,2026-01-11 14:00,GD Chaves,Maritimo Madeira,2,3,2.625,3.000,2.450,2.25,1.975,1.825
+66674462,2026-01-11 15:30,FC Porto B,Sporting Lisbon B,2,1,2.900,3.100,2.250,2.25,1.925,1.875
+66674480,2026-01-11 18:00,UD Oliveirense,CD Feirense,3,4,2.875,3.100,2.200,2.25,1.850,1.950
+61731998,2026-01-15 20:15,FC Vizela,FC Pacos Ferreira,3,0,1.666,3.250,4.750,2.25,1.850,1.950
+61732000,2026-01-16 18:00,Academico de Viseu FC,UD Leiria,2,0,1.800,3.200,4.100,2.25,1.900,1.900
+61732004,2026-01-17 11:00,FC Felgueiras 1932,Leixoes SC,0,1,1.533,3.600,5.500,2.5,1.950,1.850
+61732010,2026-01-17 11:00,SC Farense,UD Oliveirense,0,0,1.533,3.600,5.500,2.5,1.950,1.850
+61732006,2026-01-17 14:00,FC Penafiel,Portimonense SAD,0,2,2.100,3.100,3.100,2.25,2.000,1.800
+61732012,2026-01-17 18:00,SL Benfica B,GD Chaves,1,0,2.450,3.100,2.600,2.25,1.775,2.025
+61732008,2026-01-18 14:00,Lusitania FC Lourosa,Maritimo Madeira,0,4,3.900,3.250,1.800,2.25,1.850,1.950
+61732002,2026-01-19 18:00,CD Feirense,FC Porto B,2,1,1.900,3.200,3.600,2.25,1.825,1.975
+61732014,2026-01-19 18:00,Sporting Lisbon B,SCU Torreense,1,2,2.600,3.000,2.550,2.25,2.000,1.800
+66674456,2026-01-21 18:00,UD Leiria,FC Vizela,2,2,3.000,3.000,2.250,2.25,1.975,1.825
+61732016,2026-01-23 18:00,FC Pacos Ferreira,Academico de Viseu FC,2,1,5.000,3.400,1.615,2.25,1.825,1.975
+61732030,2026-01-24 11:00,GD Chaves,Lusitania FC Lourosa,2,2,2.050,3.200,3.900,2.25,1.850,1.950
+61732020,2026-01-24 14:00,Maritimo Madeira,FC Felgueiras 1932,1,1,1.750,3.600,4.500,2.25,1.975,1.825
+61732024,2026-01-24 15:30,Leixoes SC,SL Benfica B,0,0,2.800,3.300,2.500,2.5,2.000,1.800
+61732018,2026-01-25 11:00,Portimonense SAD,CD Feirense,0,1,2.300,3.000,2.875,2.25,2.025,1.775
+61732028,2026-01-25 11:00,FC Porto B,FC Vizela,1,0,3.400,3.000,2.050,2.25,1.800,2.000
+61732022,2026-01-25 14:00,SCU Torreense,SC Farense,2,1,2.400,3.100,2.625,2.25,1.950,1.850
+61732026,2026-01-25 15:30,UD Oliveirense,FC Penafiel,2,1,2.600,3.200,2.700,2.25,1.775,2.025
+61732032,2026-01-26 18:00,UD Leiria,Sporting Lisbon B,3,1,1.850,3.100,3.800,2.25,1.925,1.875
+61732048,2026-01-29 18:00,SL Benfica B,Lusitania FC Lourosa,1,2,2.100,3.100,3.200,2.25,1.875,1.925
+61732038,2026-01-30 18:45,FC Penafiel,Leixoes SC,0,0,2.550,2.875,2.700,2,1.875,1.925
+61732036,2026-01-31 11:00,FC Felgueiras 1932,GD Chaves,1,0,1.950,3.200,3.500,2.25,1.975,1.825
+61732042,2026-01-31 14:00,Academico de Viseu FC,SCU Torreense,1,0,2.100,3.000,3.300,2.25,1.900,1.900
+61732046,2026-01-31 18:00,SC Farense,FC Porto B,2,3,1.727,3.200,4.500,2.25,1.900,1.900
+61732040,2026-01-31 20:30,FC Vizela,Portimonense SAD,1,1,1.571,3.500,5.000,2.5,1.825,1.975
+61732034,2026-02-01 11:00,Sporting Lisbon B,UD Oliveirense,2,0,1.909,3.100,3.500,2.5,1.975,1.825
+61732044,2026-02-01 14:00,CD Feirense,Maritimo Madeira,1,1,3.000,2.900,2.250,2,1.775,2.025
+61732052,2026-02-06 18:00,FC Porto B,Academico de Viseu FC,3,1,3.750,3.200,1.850,2.25,1.875,1.925
+61732068,2026-02-06 20:15,GD Chaves,FC Penafiel,0,1,1.650,3.250,5.250,2.25,1.900,1.900
+61732056,2026-02-07 11:00,Lusitania FC Lourosa,FC Felgueiras 1932,2,1,3.200,3.000,2.150,2.25,1.775,2.025
+61732058,2026-02-07 14:00,Maritimo Madeira,SC Farense,0,1,1.700,3.400,4.500,2.25,1.850,1.950
+61732064,2026-02-07 15:30,UD Oliveirense,FC Vizela,3,0,3.300,3.200,2.000,2.25,1.775,2.025
+61732054,2026-02-07 18:00,Leixoes SC,CD Feirense,2,1,2.350,3.000,2.900,2,1.775,2.025
+61732062,2026-02-08 15:30,SCU Torreense,UD Leiria,3,1,2.350,3.100,2.875,2.25,1.900,1.900
+61732060,2026-02-09 18:00,Portimonense SAD,SL Benfica B,1,1,3.000,3.400,2.150,2.5,1.850,1.950
+61732066,2026-02-10 20:15,FC Pacos Ferreira,Sporting Lisbon B,0,3,3.200,3.100,2.100,2.25,1.775,2.025
+61732070,2026-02-14 11:00,CD Feirense,GD Chaves,1,0,2.875,3.000,2.450,2,1.850,1.950
+61732078,2026-02-14 14:00,Academico de Viseu FC,UD Oliveirense,4,1,1.500,3.750,6.000,2.5,1.950,1.850
+61732082,2026-02-14 15:30,SC Farense,Leixoes SC,1,2,2.050,3.100,3.600,2.25,2.025,1.775
+61732084,2026-02-14 18:00,SL Benfica B,FC Felgueiras 1932,4,2,2.200,3.250,3.000,2.25,1.800,2.000
+61732074,2026-02-15 11:00,FC Vizela,Maritimo Madeira,0,3,3.000,3.000,2.375,2.25,1.900,1.900
+61732076,2026-02-15 11:00,Sporting Lisbon B,Portimonense SAD,4,3,1.850,3.400,3.750,2.5,1.950,1.850
+61732080,2026-02-15 11:00,FC Pacos Ferreira,SCU Torreense,0,0,3.900,3.200,1.950,2.25,1.925,1.875
+61732086,2026-02-15 18:00,UD Leiria,FC Porto B,2,2,1.900,3.400,3.800,2.5,2.000,1.800
+61732072,2026-02-16 18:00,FC Penafiel,Lusitania FC Lourosa,2,0,2.600,3.000,2.700,2.25,2.025,1.775
+61732110,2026-02-20 18:45,Leixoes SC,FC Vizela,1,2,2.400,3.000,2.625,2.25,1.950,1.850
+61732102,2026-02-21 11:00,SCU Torreense,SL Benfica B,1,0,1.950,3.200,3.400,2.5,1.975,1.825
+61732112,2026-02-21 14:00,Maritimo Madeira,Sporting Lisbon B,1,0,1.600,3.400,5.250,2.5,2.000,1.800
+61732104,2026-02-21 18:00,UD Oliveirense,UD Leiria,2,4,3.250,3.200,2.000,2.5,1.975,1.825
+61732106,2026-02-22 11:00,FC Felgueiras 1932,FC Penafiel,0,0,1.750,3.200,4.500,2.25,1.900,1.900
+61732108,2026-02-22 14:00,GD Chaves,SC Farense,2,0,2.400,3.000,2.800,2.25,2.025,1.775
+61732088,2026-02-22 15:30,Portimonense SAD,Academico de Viseu FC,0,1,3.800,3.200,1.833,2.25,1.775,2.025
+61732098,2026-02-22 18:00,Lusitania FC Lourosa,CD Feirense,1,0,2.700,3.000,2.550,2,2.025,1.775
+61732100,2026-02-23 20:15,FC Porto B,FC Pacos Ferreira,1,0,2.000,3.400,3.300,2.5,1.950,1.850
+61732120,2026-02-28 11:00,Sporting Lisbon B,Leixoes SC,0,1,2.200,3.250,3.000,2.25,1.800,2.000
+61732116,2026-02-28 14:00,SCU Torreense,FC Porto B,0,3,1.750,3.500,4.333,2.5,2.000,1.800
+61732118,2026-02-28 15:30,FC Vizela,GD Chaves,3,2,2.200,3.000,3.400,2.25,1.950,1.850
+61732130,2026-02-28 18:00,UD Leiria,Portimonense SAD,1,0,1.727,3.400,4.333,2.5,1.975,1.825
+61732128,2026-03-01 11:00,SC Farense,Lusitania FC Lourosa,2,1,2.150,3.200,3.300,2.25,1.875,1.925
+61732124,2026-03-01 14:00,Academico de Viseu FC,Maritimo Madeira,3,1,2.250,3.000,3.100,2,2.025,1.775
+61732114,2026-03-01 15:30,FC Pacos Ferreira,UD Oliveirense,0,0,2.400,3.100,2.800,2.25,1.800,2.000
+61732122,2026-03-01 18:00,FC Penafiel,SL Benfica B,1,1,3.250,3.200,2.100,2.25,1.850,1.950
+61732126,2026-03-02 18:00,CD Feirense,FC Felgueiras 1932,0,0,2.500,2.900,2.875,2,1.875,1.925
+61732132,2026-03-06 18:00,GD Chaves,Academico de Viseu FC,1,0,,,,,,
+61732140,2026-03-07 11:00,UD Oliveirense,SCU Torreense,0,3,,,,,,
+61732134,2026-03-07 14:00,Portimonense SAD,FC Pacos Ferreira,2,3,,,,,,
+61732136,2026-03-07 15:30,FC Penafiel,SC Farense,1,1,,,,,,
+61732142,2026-03-08 11:00,FC Felgueiras 1932,FC Vizela,0,1,,,,,,
+61732138,2026-03-08 14:00,Leixoes SC,UD Leiria,1,4,,,,,,
+61732146,2026-03-08 15:30,Maritimo Madeira,FC Porto B,2,1,1.480,3.500,6.500,2.25,1.850,1.950
+61732144,2026-03-08 18:00,Lusitania FC Lourosa,Sporting Lisbon B,1,0,2.600,3.100,2.500,2.25,1.850,1.950
+61732148,2026-03-09 18:00,SL Benfica B,CD Feirense,3,0,1.850,3.100,3.800,2.25,1.875,1.925
+61732152,2026-03-13 18:00,Sporting Lisbon B,GD Chaves,0,1,2.550,3.250,2.550,2.25,2.025,1.775
+61732164,2026-03-13 18:00,SC Farense,FC Felgueiras 1932,0,0,,,,,,
+61732160,2026-03-14 11:00,Academico de Viseu FC,Leixoes SC,3,1,,,,,,
+61732158,2026-03-14 14:00,FC Pacos Ferreira,SL Benfica B,1,0,3.000,3.400,2.200,2.5,1.850,1.950
+61732154,2026-03-15 11:00,FC Vizela,Lusitania FC Lourosa,4,3,,,,,,
+61732166,2026-03-15 14:00,UD Leiria,Maritimo Madeira,1,2,,,,,,
+61732162,2026-03-15 18:00,CD Feirense,FC Penafiel,1,0,,,,,,
+61732150,2026-03-16 18:45,FC Porto B,UD Oliveirense,0,0,2.000,3.300,3.500,2.5,1.875,1.925
+61732156,2026-03-16 20:15,SCU Torreense,Portimonense SAD,1,0,,,,,,
+61732178,2026-03-20 18:00,GD Chaves,UD Leiria,0,2,,,,,,
+61732168,2026-03-21 11:00,Lusitania FC Lourosa,Academico de Viseu FC,0,3,,,,,,
+61732176,2026-03-21 14:00,FC Penafiel,FC Vizela,0,1,,,,,,
+61732182,2026-03-21 15:30,Maritimo Madeira,UD Oliveirense,1,0,,,,,,
+61732170,2026-03-21 18:00,Portimonense SAD,FC Porto B,2,1,2.375,3.200,2.700,2.5,2.000,1.800
+61732174,2026-03-22 11:00,FC Felgueiras 1932,SCU Torreense,0,3,,,,,,
+61732172,2026-03-22 14:00,CD Feirense,Sporting Lisbon B,1,2,2.400,3.100,2.750,2.25,2.000,1.800
+61732180,2026-03-22 15:30,Leixoes SC,FC Pacos Ferreira,3,2,,,,,,
+61732184,2026-03-22 18:00,SL Benfica B,SC Farense,1,0,2.300,3.200,2.750,2.25,2.025,1.775
+69566082,2026-03-29 14:30,UD Leiria,FC Pacos Ferreira,2,0,1.533,3.700,5.500,2.5,1.975,1.825
+61732198,2026-04-03 14:30,UD Oliveirense,Portimonense SAD,1,2,2.200,3.100,2.875,2.5,1.850,1.950
+61732186,2026-04-04 10:00,Sporting Lisbon B,FC Penafiel,1,2,1.900,3.300,3.500,2.25,1.825,1.975
+61732200,2026-04-04 10:00,SC Farense,CD Feirense,0,1,1.800,3.100,4.333,2,1.850,1.950
+61732192,2026-04-04 13:00,FC Pacos Ferreira,Maritimo Madeira,0,0,4.750,3.250,1.700,2.25,1.800,2.000
+61732196,2026-04-04 17:00,Academico de Viseu FC,FC Felgueiras 1932,0,1,1.850,3.200,3.750,2.25,2.025,1.775
+61732202,2026-04-05 17:00,UD Leiria,Lusitania FC Lourosa,0,0,1.727,3.300,4.333,2.5,2.000,1.800
+61732188,2026-04-06 17:00,FC Porto B,GD Chaves,3,0,3.200,3.300,2.000,2.25,1.950,1.850
+61732190,2026-04-06 17:00,SCU Torreense,Leixoes SC,1,1,1.900,3.300,3.600,2.25,1.825,1.975
+61732194,2026-04-07 17:00,FC Vizela,SL Benfica B,1,2,1.833,3.250,3.900,2.5,1.850,1.950
+61732208,2026-04-10 17:45,FC Felgueiras 1932,FC Pacos Ferreira,0,0,1.800,3.500,4.500,2.25,1.825,1.975
+61732204,2026-04-11 10:00,FC Penafiel,Academico de Viseu FC,4,3,3.250,3.000,2.100,2.25,1.975,1.825
+61732220,2026-04-11 13:00,SC Farense,Sporting Lisbon B,2,0,2.100,3.100,3.100,2.25,1.850,1.950
+61732212,2026-04-11 17:00,GD Chaves,SCU Torreense,2,0,2.375,3.100,2.700,2.25,1.825,1.975
+61732222,2026-04-11 17:00,SL Benfica B,UD Leiria,2,2,2.750,3.200,2.250,2.5,1.900,1.900
+61732206,2026-04-12 10:00,CD Feirense,FC Vizela,1,0,3.250,3.250,2.200,2.25,1.900,1.900
+61732218,2026-04-12 13:00,Maritimo Madeira,Portimonense SAD,1,0,1.550,3.900,6.000,2.75,1.800,2.000
+61732214,2026-04-12 14:30,Leixoes SC,UD Oliveirense,2,0,1.666,3.800,4.750,2.5,1.900,1.900
+61732216,2026-04-13 17:00,Lusitania FC Lourosa,FC Porto B,1,1,2.300,3.000,2.900,2.25,1.950,1.850
+61732238,2026-04-17 17:45,Academico de Viseu FC,CD Feirense,3,0,1.727,3.100,4.500,2.25,1.975,1.825
+61732226,2026-04-18 10:00,FC Pacos Ferreira,GD Chaves,4,3,2.900,3.000,2.250,2.25,2.000,1.800
+61732240,2026-04-18 13:00,UD Leiria,FC Penafiel,4,2,1.615,3.500,4.750,2.5,1.925,1.875
+61732232,2026-04-18 17:00,SCU Torreense,Maritimo Madeira,1,0,2.700,3.100,2.350,2.25,1.800,2.000
+61732230,2026-04-19 10:00,Portimonense SAD,Lusitania FC Lourosa,3,2,2.350,3.200,2.875,2.25,1.950,1.850
+61732234,2026-04-19 13:00,FC Vizela,SC Farense,0,2,2.050,3.200,3.400,2.25,1.825,1.975
+61732224,2026-04-20 17:45,Sporting Lisbon B,FC Felgueiras 1932,0,1,2.450,3.000,2.700,2.25,1.900,1.900
+61732228,2026-04-20 17:45,FC Porto B,Leixoes SC,0,3,2.750,3.200,2.300,2.5,2.000,1.800
+61732236,2026-04-22 17:00,UD Oliveirense,SL Benfica B,3,0,2.875,3.200,2.200,2.5,1.825,1.975
+61732254,2026-04-25 10:00,Leixoes SC,Portimonense SAD,2,0,1.833,3.200,3.800,2.25,1.875,1.925
+61732242,2026-04-25 13:00,SC Farense,Academico de Viseu FC,0,0,2.700,3.000,2.450,2.25,1.900,1.900
+61732248,2026-04-25 17:00,FC Felgueiras 1932,UD Leiria,2,1,3.000,2.900,2.250,2.25,2.025,1.775
+61732256,2026-04-26 10:00,Lusitania FC Lourosa,FC Pacos Ferreira,2,0,2.450,3.000,2.700,2.25,2.000,1.800
+61732244,2026-04-26 13:00,FC Vizela,Sporting Lisbon B,1,0,1.750,3.300,4.200,2.5,1.875,1.925
+61732250,2026-04-26 14:30,FC Penafiel,FC Porto B,3,0,1.900,3.200,3.600,2.5,2.025,1.775
+61732258,2026-04-26 17:00,SL Benfica B,Maritimo Madeira,1,2,2.900,3.000,2.300,2.25,1.800,2.000
+61732252,2026-04-27 17:00,GD Chaves,UD Oliveirense,2,1,1.600,3.400,4.750,2.5,1.900,1.900
+61732246,2026-04-28 17:00,CD Feirense,SCU Torreense,0,0,3.400,3.200,1.950,2.25,1.950,1.850
+61732268,2026-05-01 14:30,Maritimo Madeira,Leixoes SC,3,2,1.950,3.000,3.600,2.25,1.850,1.950
+61732274,2026-05-01 19:30,Sporting Lisbon B,SL Benfica B,0,1,2.700,3.000,2.450,2.5,1.900,1.900
+61732270,2026-05-02 10:00,UD Oliveirense,Lusitania FC Lourosa,0,0,2.100,3.400,2.900,2.5,1.900,1.900
+61732276,2026-05-02 13:00,Academico de Viseu FC,FC Vizela,0,0,1.909,3.100,3.600,2.5,2.000,1.800
+61732266,2026-05-03 10:00,Portimonense SAD,GD Chaves,3,2,2.800,3.100,2.300,2.25,1.825,1.975
+61732260,2026-05-03 13:00,FC Pacos Ferreira,CD Feirense,1,2,2.000,3.250,3.200,2.25,2.025,1.775
+61732272,2026-05-03 14:30,UD Leiria,SC Farense,1,3,1.750,3.300,4.200,2.5,1.975,1.825
+61732262,2026-05-04 17:00,FC Porto B,FC Felgueiras 1932,1,0,3.300,3.000,2.050,2.25,2.025,1.775
+61732264,2026-05-04 17:00,SCU Torreense,FC Penafiel,3,2,1.833,3.200,3.800,2.25,1.800,2.000
+61732280,2026-05-09 14:30,Sporting Lisbon B,FC Porto B,0,1,1.850,3.600,3.400,2.5,1.825,1.975
+61732282,2026-05-09 14:30,FC Penafiel,Maritimo Madeira,1,0,1.800,3.400,3.900,2.25,1.825,1.975
+61732286,2026-05-09 14:30,CD Feirense,UD Oliveirense,1,2,1.950,3.500,3.200,2.25,2.000,1.800
+61732288,2026-05-09 14:30,FC Felgueiras 1932,Portimonense SAD,1,2,2.100,3.200,3.100,2.5,1.775,2.025
+61732290,2026-05-09 14:30,GD Chaves,Leixoes SC,1,2,2.150,3.200,3.100,2.25,1.850,1.950
+61732294,2026-05-09 14:30,SC Farense,FC Pacos Ferreira,1,1,1.850,3.400,3.600,2.25,1.775,2.025
+61732278,2026-05-09 19:30,SL Benfica B,Academico de Viseu FC,0,2,3.100,3.400,2.000,2.5,1.850,1.950
+61732284,2026-05-09 19:30,FC Vizela,UD Leiria,1,0,2.200,3.400,2.800,2.5,1.950,1.850
+61732292,2026-05-09 19:30,Lusitania FC Lourosa,SCU Torreense,1,2,3.300,3.400,1.950,2.5,1.975,1.825
+61732308,2026-05-15 17:00,FC Porto B,SL Benfica B,2,1,3.100,3.500,1.950,2.75,1.975,1.825
+61732302,2026-05-15 18:00,Maritimo Madeira,GD Chaves,1,3,1.750,3.700,3.600,2.75,1.900,1.900
+61732310,2026-05-16 10:00,Academico de Viseu FC,Sporting Lisbon B,0,0,1.444,3.800,6.500,2.5,1.850,1.950
+61732312,2026-05-16 10:00,SCU Torreense,FC Vizela,4,0,1.800,3.500,3.700,2.25,1.775,2.025
+61732298,2026-05-17 10:00,UD Oliveirense,FC Felgueiras 1932,1,5,2.450,3.200,2.550,2.5,2.000,1.800
+61732296,2026-05-17 14:30,UD Leiria,CD Feirense,2,2,1.750,3.500,3.900,2.75,1.950,1.850
+61732304,2026-05-17 17:00,Leixoes SC,Lusitania FC Lourosa,2,1,1.533,4.000,5.000,2.75,1.850,1.950
+61732300,2026-05-17 19:30,FC Pacos Ferreira,FC Penafiel,2,1,1.650,3.600,4.500,2.75,2.000,1.800
+61732306,2026-05-17 19:30,Portimonense SAD,SC Farense,1,0,2.450,3.300,2.550,2.5,2.000,1.800
+71578516,2026-05-23 19:30,SC Farense,CF Os Belenenses,1,0,1.800,3.100,4.333,2.25,2.000,1.800
+71578520,2026-05-30 19:30,CF Os Belenenses,SC Farense,0,0,2.600,3.100,2.625,2.25,2.025,1.775
+72531488,2026-08-08 10:00,GD Chaves,Academica de Coimbra,1,4,1.950,3.100,3.600,2.25,1.950,1.850
+72531496,2026-08-08 13:00,FC Penafiel,Portimonense SAD,0,1,1.950,3.300,3.400,2.25,1.800,2.000
+72531498,2026-08-08 17:00,CD Tondela,Amarante FC,2,1,1.550,3.700,5.000,2.25,1.875,1.925
+72531490,2026-08-09 10:00,SC Farense,SCU Torreense,2,1,3.200,3.100,2.100,2.25,1.950,1.850
+72531500,2026-08-09 13:00,FC Vizela,UD Leiria,1,0,2.500,3.200,2.500,2.5,1.975,1.825
+72531484,2026-08-09 14:30,AVS Futebol SAD,Sporting Lisbon B,0,1,1.850,3.500,3.500,2.25,1.900,1.900
+72531492,2026-08-09 14:30,CD Feirense,FC Felgueiras 1932,0,0,2.750,3.000,2.400,2,1.900,1.900
+72531486,2026-08-10 17:00,SL Benfica B,Leixoes SC,1,0,2.100,3.300,3.000,2.75,2.000,1.800
+72531494,2026-08-10 17:00,Lusitania FC Lourosa,FC Porto B,2,0,2.150,3.300,2.900,2.5,1.975,1.825
+72531502,2026-08-14 17:00,Academica de Coimbra,CD Feirense,1,0,2.100,3.250,3.000,2,1.800,2.000
+72531508,2026-08-15 13:00,UD Leiria,SL Benfica B,1,2,1.750,3.300,4.100,2.5,1.900,1.900
+72531516,2026-08-15 14:30,Sporting Lisbon B,GD Chaves,1,0,2.150,3.100,3.000,2.5,2.000,1.800
+72531518,2026-08-15 17:00,SCU Torreense,FC Penafiel,2,2,1.800,3.250,4.000,2.25,1.900,1.900
+72531514,2026-08-16 10:00,Portimonense SAD,FC Vizela,2,0,2.700,3.000,2.500,2.25,2.000,1.800
+72531504,2026-08-16 13:00,Amarante FC,Lusitania FC Lourosa,0,1,2.625,2.900,2.500,2.25,2.025,1.775
+72531510,2026-08-16 14:30,Leixoes SC,CD Tondela,1,0,2.150,3.200,2.900,2.25,1.775,2.025
+72531512,2026-08-16 17:00,FC Porto B,SC Farense,1,3,3.250,3.000,2.100,2.25,2.050,1.750
+72531506,2026-08-17 17:00,FC Felgueiras 1932,AVS Futebol SAD,1,1,2.000,2.900,3.600,2,1.825,1.975
+72531520,2026-08-21 17:00,SL Benfica B,Portimonense SAD,1,1,2.150,3.000,3.200,2.5,2.000,1.800
+72531534,2026-08-21 19:15,CD Tondela,Academica de Coimbra,0,2,1.909,3.400,3.400,2.25,1.900,1.900
+72531530,2026-08-22 10:00,Leixoes SC,UD Leiria,2,4,1.950,3.250,3.400,2.5,1.900,1.900
+72531536,2026-08-22 13:00,FC Vizela,Amarante FC,0,0,1.900,3.300,3.600,2.25,2.000,1.800
+72531528,2026-08-22 17:00,Lusitania FC Lourosa,SCU Torreense,2,2,2.900,3.100,2.200,2.25,1.850,1.950
+72531522,2026-08-23 10:00,GD Chaves,AVS Futebol SAD,2,2,1.950,3.250,3.500,2.25,1.775,2.025
+72531532,2026-08-23 13:00,FC Penafiel,Sporting Lisbon B,2,0,2.600,3.100,2.500,2.25,1.950,1.850
+72531524,2026-08-24 17:00,SC Farense,FC Felgueiras 1932,1,1,2.050,3.000,3.500,2.25,2.050,1.750
+72531526,2026-08-24 19:15,CD Feirense,FC Porto B,0,1,2.000,3.100,3.500,2.25,2.050,1.750
+72531546,2026-08-28 17:00,UD Leiria,CD Tondela,2,0,1.950,3.200,3.400,2.25,1.775,2.025
+72531550,2026-08-29 10:00,Portimonense SAD,Leixoes SC,0,2,2.625,3.000,2.450,2.25,1.800,2.000
+72531538,2026-08-29 13:00,Academica de Coimbra,Lusitania FC Lourosa,0,2,2.300,3.000,2.875,2.25,2.050,1.750
+72531554,2026-08-29 19:30,SCU Torreense,FC Vizela,0,3,2.150,3.100,3.100,2.25,1.900,1.900
+72531542,2026-08-30 10:00,Amarante FC,SL Benfica B,1,0,2.350,3.100,2.750,2.25,1.950,1.850
+72531540,2026-08-30 13:00,AVS Futebol SAD,CD Feirense,2,0,2.250,3.000,3.000,2.25,2.050,1.750
+72531544,2026-08-30 17:00,FC Felgueiras 1932,GD Chaves,2,1,2.300,3.100,2.800,2.25,1.950,1.850
+72531548,2026-08-30 17:00,FC Porto B,FC Penafiel,0,3,2.550,3.100,2.450,2.25,1.850,1.950
+72531552,2026-08-30 17:00,Sporting Lisbon B,SC Farense,2,1,2.375,3.100,2.750,2.25,1.975,1.825
+72531570,2026-09-05 10:00,CD Tondela,FC Porto B,3,0,1.615,3.500,4.750,2.5,1.975,1.825
+72531568,2026-09-05 13:00,FC Penafiel,Academica de Coimbra,4,1,2.200,3.000,3.000,2.25,2.025,1.775
+72531556,2026-09-05 14:30,SL Benfica B,SCU Torreense,0,2,3.000,3.100,2.150,2.5,1.950,1.850
+72531560,2026-09-05 14:30,CD Feirense,Sporting Lisbon B,1,3,2.375,3.000,2.800,2.25,2.050,1.750
+72531572,2026-09-06 10:00,FC Vizela,FC Felgueiras 1932,1,0,2.150,3.000,3.200,2,1.850,1.950
+72531566,2026-09-06 14:30,Leixoes SC,Amarante FC,3,1,1.750,3.400,4.200,2.25,1.900,1.900
+72531562,2026-09-06 17:00,UD Leiria,Portimonense SAD,1,0,2.100,3.200,3.100,2.5,2.000,1.800
+72531564,2026-09-07 17:00,Lusitania FC Lourosa,AVS Futebol SAD,2,1,1.909,3.250,3.600,2.25,1.775,2.025
+72531590,2026-09-11 17:45,SCU Torreense,Leixoes SC,0,0,2.450,2.875,2.875,2.25,2.000,1.800
+72531574,2026-09-11 19:45,Academica de Coimbra,SL Benfica B,0,3,2.150,3.300,2.875,2.75,1.950,1.850
+72531586,2026-09-12 10:00,Portimonense SAD,CD Tondela,0,2,2.875,3.000,2.250,2.25,1.975,1.825
+72531582,2026-09-12 13:00,FC Felgueiras 1932,FC Penafiel,1,2,2.150,3.000,3.100,2,1.775,2.025
+72531576,2026-09-13 10:00,AVS Futebol SAD,SC Farense,0,0,3.100,3.100,2.150,2.25,1.800,2.000
+72531580,2026-09-13 13:00,GD Chaves,CD Feirense,1,0,1.950,3.200,3.400,2.5,2.000,1.800
+72531578,2026-09-13 14:30,Amarante FC,UD Leiria,2,2,3.300,2.900,2.100,2.25,2.050,1.750
+72531584,2026-09-14 17:00,FC Porto B,FC Vizela,2,2,3.600,3.400,1.850,2.25,1.825,1.975
+72531588,2026-09-14 17:00,Sporting Lisbon B,Lusitania FC Lourosa,1,2,2.200,3.100,2.875,2.25,1.850,1.950
+74352002,2026-10-04 10:00,SC Farense,GD Chaves,4,0,2.050,3.100,3.400,2.5,2.000,1.800
+72531604,2026-10-09 17:00,FC Penafiel,AVS Futebol SAD,1,2,1.800,3.300,4.333,2.25,1.825,1.975
+72531606,2026-10-10 10:00,CD Tondela,SCU Torreense,1,0,2.375,3.100,2.900,2.25,1.975,1.825
+72531592,2026-10-10 13:00,Amarante FC,Portimonense SAD,1,2,2.500,3.000,2.750,2.25,2.050,1.750
+72531602,2026-10-10 14:30,Leixoes SC,FC Porto B,1,2,1.533,3.800,5.750,2.5,1.900,1.900
+72531608,2026-10-10 19:30,FC Vizela,Sporting CP B,0,2,2.150,3.100,3.300,2.25,1.850,1.950
+72531600,2026-10-11 10:00,Lusitania FC Lourosa,GD Chaves,1,1,1.850,3.400,3.700,2.5,2.000,1.800
+72531596,2026-10-11 13:00,SC Farense,CD Feirense,2,1,1.650,3.500,5.000,2.25,1.850,1.950
+72531598,2026-10-11 17:00,UD Leiria,Academica de Coimbra,0,2,2.000,3.300,3.500,2.5,1.900,1.900
+74824830,2026-10-12 17:00,SL Benfica B,FC Felgueiras 1932,1,0,2.550,3.250,2.550,2.25,1.800,2.000
+72531614,2026-10-23 17:45,GD Chaves,FC Vizela,2,1,2.500,3.200,2.500,2.5,1.950,1.850
+72531610,2026-10-24 10:00,Academica de Coimbra,Leixoes SC,4,0,3.000,3.100,2.200,2.5,1.975,1.825
+72531624,2026-10-24 10:00,Sporting CP B,Portimonense SAD,3,0,2.600,3.000,2.550,2.25,1.900,1.900
+72531618,2026-10-24 13:00,CD Feirense,SL Benfica B,0,0,2.300,3.200,2.750,2.5,2.000,1.800
+72531616,2026-10-24 17:00,SC Farense,FC Penafiel,1,4,1.750,3.300,4.100,2.5,2.025,1.775
+72531612,2026-10-25 11:00,AVS Futebol SAD,CD Tondela,2,1,3.800,3.300,1.800,2.5,1.975,1.825
+72531620,2026-10-25 14:00,FC Felgueiras 1932,Lusitania FC Lourosa,2,2,2.300,3.100,2.800,2.25,1.975,1.825
+72531622,2026-10-25 15:30,FC Porto B,UD Leiria,1,1,3.300,3.100,2.000,2.25,1.800,2.000
+72531626,2026-10-26 20:45,SCU Torreense,Amarante FC,1,0,1.727,3.100,4.500,2.25,1.875,1.925
+72531628,2026-10-31 11:00,Amarante FC,FC Porto B,2,1,1.909,3.250,3.700,2.25,1.900,1.900
+72531640,2026-10-31 14:00,Portimonense SAD,SCU Torreense,0,0,2.700,3.100,2.500,2.25,1.800,2.000
+72531636,2026-10-31 15:30,Leixoes SC,Sporting CP B,1,2,2.200,3.100,3.200,2.5,2.025,1.775
+72531630,2026-10-31 18:00,SL Benfica B,GD Chaves,3,1,2.300,3.300,2.750,2.5,1.800,2.000
+72531632,2026-10-31 18:00,UD Leiria,AVS Futebol SAD,2,1,1.700,3.700,4.333,3,1.900,1.900
+72531644,2026-11-01 11:00,FC Vizela,Academica de Coimbra,2,1,2.350,3.000,3.000,2.25,1.850,1.950
+72531642,2026-11-01 14:00,CD Tondela,FC Felgueiras 1932,3,2,1.700,3.300,4.750,2.25,2.025,1.775
+72531634,2026-11-01 15:30,Lusitania FC Lourosa,SC Farense,1,1,2.625,3.100,2.550,2.25,1.875,1.925
+72531638,2026-11-02 18:00,FC Penafiel,CD Feirense,1,0,1.850,3.500,3.600,2.25,1.825,1.975
+72531648,2026-11-06 18:45,AVS Futebol SAD,FC Vizela,2,2,2.750,3.100,2.500,2.5,1.975,1.825
+72531656,2026-11-07 11:00,FC Felgueiras 1932,Leixoes SC,3,3,2.750,3.100,2.450,2.25,1.900,1.900
+72531650,2026-11-07 14:00,GD Chaves,FC Penafiel,2,3,2.625,3.000,2.625,2.25,1.900,1.900
+72531646,2026-11-07 15:30,Academica de Coimbra,Amarante FC,1,1,1.950,3.250,3.600,2.25,1.800,2.000
+72531654,2026-11-08 11:00,CD Feirense,Lusitania FC Lourosa,1,0,3.200,3.100,2.200,2.25,1.900,1.900
+72531658,2026-11-08 11:00,FC Porto B,Portimonense SAD,0,1,3.400,3.250,2.050,2.25,1.825,1.975
+72531652,2026-11-08 14:00,SC Farense,SL Benfica B,2,3,1.650,3.600,4.750,2.75,1.975,1.825
+72531660,2026-11-08 18:00,Sporting CP B,CD Tondela,1,1,2.600,3.200,2.550,2.25,1.825,1.975
+72531662,2026-11-09 20:15,SCU Torreense,UD Leiria,2,3,1.950,3.400,3.600,2.75,1.875,1.925

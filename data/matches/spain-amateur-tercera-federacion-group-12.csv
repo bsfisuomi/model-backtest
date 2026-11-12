@@ -1,400 +1,400 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-63145411,2025-09-05 20:00,UD Telde,Arucas CF,0,0,,,
-63145395,2025-09-06 10:00,Real Union de Tenerife Santa Cruz,SD Tenisca,2,1,,,
-63145397,2025-09-06 11:00,CF Panaderia Pulido,UD Villa Santa Brigida,2,1,,,
-63145399,2025-09-06 11:00,UD Tamaraceite,CD Atletico Paso,1,1,,,
-63145401,2025-09-06 16:00,CD Herbania,CD San Miguel,2,2,,,
-63145403,2025-09-06 16:00,UD Las Palmas C,CD Union Sur Yaiza,0,1,,,
-63145405,2025-09-07 11:00,CD Marino,UD San Fernando,0,1,,,
-63145407,2025-09-07 11:00,UD Lanzarote,CD Tenerife C,2,1,,,
-63145409,2025-09-07 11:00,CD Mensajero,San Bartolome CF,2,0,,,
-63145413,2025-09-12 20:00,UD Villa Santa Brigida,UD Las Palmas C,1,0,,,
-63145415,2025-09-13 10:00,Arucas CF,CF Panaderia Pulido,0,1,,,
-63145421,2025-09-13 11:15,San Bartolome CF,CD Marino,2,3,,,
-63145419,2025-09-13 15:00,CD Tenerife C,CD Mensajero,1,0,,,
-63145417,2025-09-13 16:00,CD San Miguel,UD Tamaraceite,0,2,,,
-63145429,2025-09-13 16:00,CD Union Sur Yaiza,CD Herbania,2,0,,,
-63145423,2025-09-14 11:00,CD Atletico Paso,Real Union de Tenerife Santa Cruz,3,0,,,
-63145425,2025-09-14 11:00,UD San Fernando,UD Telde,2,0,,,
-63145427,2025-09-14 12:00,SD Tenisca,UD Lanzarote,2,0,,,
-63145431,2025-09-20 10:00,Real Union de Tenerife Santa Cruz,CD San Miguel,1,0,,,
-63145433,2025-09-20 11:00,CF Panaderia Pulido,UD San Fernando,0,0,,,
-63145435,2025-09-20 11:00,UD Tamaraceite,CD Union Sur Yaiza,4,0,,,
-63145437,2025-09-20 16:00,CD Herbania,UD Villa Santa Brigida,2,1,,,
-63145439,2025-09-20 16:00,UD Las Palmas C,Arucas CF,3,1,,,
-63145441,2025-09-21 11:00,CD Marino,CD Tenerife C,1,0,,,
-63145445,2025-09-21 11:00,SD Tenisca,CD Atletico Paso,0,1,,,
-63145447,2025-09-21 11:00,UD Telde,San Bartolome CF,1,3,,,
-63145443,2025-09-21 11:30,UD Lanzarote,CD Mensajero,4,1,,,
-63145449,2025-09-26 20:00,UD Villa Santa Brigida,UD Tamaraceite,1,0,,,
-63145451,2025-09-27 10:00,Arucas CF,CD Herbania,1,0,,,
-63145453,2025-09-27 12:00,CD San Miguel,SD Tenisca,3,1,,,
-63145455,2025-09-27 15:00,CD Tenerife C,UD Telde,3,0,,,
-63145465,2025-09-27 16:00,CD Union Sur Yaiza,Real Union de Tenerife Santa Cruz,1,0,,,
-63145457,2025-09-27 17:00,San Bartolome CF,CF Panaderia Pulido,0,2,,,
-63145461,2025-09-28 11:00,CD Mensajero,CD Marino,3,2,,,
-63145463,2025-09-28 11:00,UD San Fernando,UD Las Palmas C,2,1,,,
-63145459,2025-09-28 12:00,CD Atletico Paso,UD Lanzarote,0,2,,,
-63145467,2025-10-03 20:00,UD Tamaraceite,Arucas CF,0,0,,,
-63145469,2025-10-04 10:00,Real Union de Tenerife Santa Cruz,UD Villa Santa Brigida,0,0,,,
-63145471,2025-10-04 11:00,CF Panaderia Pulido,CD Tenerife C,1,2,,,
-63145473,2025-10-04 16:00,CD Herbania,UD San Fernando,2,2,,,
-63145475,2025-10-04 16:00,UD Las Palmas C,San Bartolome CF,6,1,,,
-63145477,2025-10-05 11:00,CD Atletico Paso,CD San Miguel,3,1,,,
-63145481,2025-10-05 11:00,SD Tenisca,CD Union Sur Yaiza,0,0,,,
-63145483,2025-10-05 11:00,UD Telde,CD Mensajero,0,0,,,
-63145479,2025-10-05 11:30,UD Lanzarote,CD Marino,2,1,,,
-63145485,2025-10-11 10:00,Arucas CF,Real Union de Tenerife Santa Cruz,0,2,,,
-63145487,2025-10-11 11:30,UD Villa Santa Brigida,SD Tenisca,4,0,,,
-63145491,2025-10-11 12:00,CD San Miguel,UD Lanzarote,1,1,,,
-63145495,2025-10-11 15:30,San Bartolome CF,CD Herbania,0,1,,,
-63145493,2025-10-11 16:00,CD Tenerife C,UD Las Palmas C,4,4,,,
-63145497,2025-10-12 11:00,CD Marino,UD Telde,4,0,,,
-63145499,2025-10-12 11:00,CD Mensajero,CF Panaderia Pulido,2,0,,,
-63145501,2025-10-12 11:00,UD San Fernando,UD Tamaraceite,0,1,,,
-63145503,2025-10-12 12:00,CD Union Sur Yaiza,CD Atletico Paso,0,1,,,
-63145505,2025-10-18 10:00,Real Union de Tenerife Santa Cruz,UD San Fernando,4,2,,,
-63145513,2025-10-18 10:15,UD Las Palmas C,CD Mensajero,1,1,,,
-63145507,2025-10-18 11:00,CF Panaderia Pulido,CD Marino,2,2,,,
-63145509,2025-10-18 11:00,UD Tamaraceite,San Bartolome CF,2,0,,,
-63145511,2025-10-18 16:00,CD Herbania,CD Tenerife C,3,4,,,
-63145515,2025-10-18 16:00,CD San Miguel,CD Union Sur Yaiza,2,4,,,
-63145519,2025-10-19 10:00,UD Lanzarote,UD Telde,5,0,,,
-63145517,2025-10-19 11:00,CD Atletico Paso,UD Villa Santa Brigida,1,0,,,
-63145521,2025-10-19 11:00,SD Tenisca,Arucas CF,1,1,,,
-63145523,2025-10-25 10:00,Arucas CF,CD Atletico Paso,1,0,,,
-63145525,2025-10-25 11:30,UD Villa Santa Brigida,CD San Miguel,0,0,,,
-63145527,2025-10-25 16:00,CD Tenerife C,UD Tamaraceite,4,2,,,
-63145529,2025-10-25 16:00,San Bartolome CF,Real Union de Tenerife Santa Cruz,1,0,,,
-63145539,2025-10-25 16:00,CD Union Sur Yaiza,UD Lanzarote,3,3,,,
-63145535,2025-10-25 17:00,UD San Fernando,SD Tenisca,4,0,,,
-63145531,2025-10-26 12:00,CD Marino,UD Las Palmas C,0,1,,,
-63145533,2025-10-26 12:00,CD Mensajero,CD Herbania,5,1,,,
-63145537,2025-10-26 12:00,UD Telde,CF Panaderia Pulido,0,3,,,
-63145541,2025-10-31 21:00,Real Union de Tenerife Santa Cruz,CD Tenerife C,0,0,,,
-63145543,2025-11-01 12:00,UD Tamaraceite,CD Mensajero,3,3,,,
-63145557,2025-11-01 12:00,CD Union Sur Yaiza,UD Villa Santa Brigida,3,1,,,
-63145547,2025-11-01 16:00,UD Las Palmas C,UD Telde,5,1,,,
-63145545,2025-11-01 17:00,CD Herbania,CD Marino,2,2,,,
-63145549,2025-11-01 17:00,CD San Miguel,Arucas CF,1,0,,,
-63145551,2025-11-02 12:00,CD Atletico Paso,UD San Fernando,3,0,,,
-63145553,2025-11-02 12:00,UD Lanzarote,CF Panaderia Pulido,2,1,,,
-63145555,2025-11-02 12:30,SD Tenisca,San Bartolome CF,7,1,,,
-63145559,2025-11-08 11:00,Arucas CF,CD Union Sur Yaiza,1,1,,,
-63145561,2025-11-08 12:00,CF Panaderia Pulido,UD Las Palmas C,2,3,,,
-63145563,2025-11-08 12:30,UD Villa Santa Brigida,UD Lanzarote,2,0,,,
-63145567,2025-11-08 13:00,San Bartolome CF,CD Atletico Paso,0,3,,,
-63145565,2025-11-08 15:30,CD Tenerife C,SD Tenisca,1,0,,,
-63145569,2025-11-09 12:00,CD Marino,UD Tamaraceite,3,0,,,
-63145571,2025-11-09 12:00,CD Mensajero,Real Union de Tenerife Santa Cruz,2,0,,,
-63145573,2025-11-09 12:00,UD San Fernando,CD San Miguel,1,0,,,
-65350064,2025-11-11 18:30,UD Telde,CD Herbania,3,2,,,
-63145577,2025-11-14 21:00,UD Tamaraceite,UD Telde,2,0,,,
-63145579,2025-11-14 21:00,UD Villa Santa Brigida,Arucas CF,1,0,,,
-63145581,2025-11-14 21:00,Real Union de Tenerife Santa Cruz,CD Marino,0,0,,,
-63145585,2025-11-15 15:00,CD San Miguel,San Bartolome CF,1,2,,,
-63145583,2025-11-15 17:00,CD Herbania,CF Panaderia Pulido,0,1,,,
-63145593,2025-11-15 17:00,CD Union Sur Yaiza,UD San Fernando,0,1,,,
-63145587,2025-11-16 12:00,CD Atletico Paso,CD Tenerife C,1,1,,,
-63145589,2025-11-16 12:00,UD Lanzarote,UD Las Palmas C,1,1,,,
-63145591,2025-11-16 12:00,SD Tenisca,CD Mensajero,0,2,,,
-63145597,2025-11-22 11:00,Arucas CF,UD Lanzarote,3,1,,,
-63145599,2025-11-22 12:00,CF Panaderia Pulido,UD Tamaraceite,1,2,,,
-63145595,2025-11-22 17:00,CD Tenerife C,CD San Miguel,1,1,,,
-63145601,2025-11-22 17:30,UD Las Palmas C,CD Herbania,4,1,,,
-63145603,2025-11-22 18:00,San Bartolome CF,CD Union Sur Yaiza,1,0,,,
-63145605,2025-11-23 12:00,CD Marino,SD Tenisca,5,1,,,
-63145607,2025-11-23 12:00,CD Mensajero,CD Atletico Paso,0,0,,,
-63145609,2025-11-23 12:00,UD San Fernando,UD Villa Santa Brigida,2,1,,,
-63145611,2025-11-23 12:00,UD Telde,Real Union de Tenerife Santa Cruz,1,1,,,
-63145613,2025-12-05 21:00,UD Tamaraceite,UD Las Palmas C,3,0,,,
-63145615,2025-12-06 11:00,Arucas CF,UD San Fernando,2,1,,,
-63145617,2025-12-06 11:00,Real Union de Tenerife Santa Cruz,CF Panaderia Pulido,1,4,,,
-63145619,2025-12-06 12:30,UD Villa Santa Brigida,San Bartolome CF,1,1,,,
-63145629,2025-12-06 16:00,CD Union Sur Yaiza,CD Tenerife C,0,1,,,
-63145621,2025-12-06 17:00,CD San Miguel,CD Mensajero,0,0,,,
-63145625,2025-12-07 11:15,UD Lanzarote,CD Herbania,1,0,,,
-63145623,2025-12-07 11:45,CD Atletico Paso,CD Marino,3,0,,,
-63145627,2025-12-07 12:00,SD Tenisca,UD Telde,2,1,,,
-66893080,2025-12-17 19:30,UD Telde,CD Atletico Paso,1,1,,,
-63145649,2025-12-20 11:00,Arucas CF,CD Tenerife C,2,2,1.666,3.600,4.333
-63145651,2025-12-20 11:30,Real Union de Tenerife Santa Cruz,CD Herbania,2,1,1.850,3.300,3.600
-63145653,2025-12-20 12:30,UD Villa Santa Brigida,CD Mensajero,1,0,,,
-63145655,2025-12-20 17:00,CD San Miguel,UD Telde,1,1,1.550,3.700,5.000
-63145665,2025-12-20 17:30,CD Union Sur Yaiza,CD Marino,0,1,,,
-63145663,2025-12-21 11:30,SD Tenisca,UD Las Palmas C,2,5,,,
-63145657,2025-12-21 12:00,CD Atletico Paso,CF Panaderia Pulido,1,1,,,
-63145659,2025-12-21 12:00,UD Lanzarote,UD Tamaraceite,5,0,,,
-63145661,2025-12-21 12:00,UD San Fernando,San Bartolome CF,0,0,,,
-63145667,2026-01-03 12:00,CF Panaderia Pulido,CD San Miguel,3,1,,,
-63145669,2026-01-03 12:00,UD Tamaraceite,Real Union de Tenerife Santa Cruz,3,1,1.450,4.100,6.000
-63145671,2026-01-03 12:00,CD Herbania,SD Tenisca,3,0,,,
-63145673,2026-01-03 12:00,UD Las Palmas C,CD Atletico Paso,1,3,,,
-63145675,2026-01-03 17:00,CD Tenerife C,UD San Fernando,1,0,2.375,3.250,2.600
-63145679,2026-01-04 11:00,UD Lanzarote,San Bartolome CF,3,0,,,
-63145683,2026-01-04 12:00,UD Telde,CD Union Sur Yaiza,2,1,3.500,3.300,1.900
-63145677,2026-01-04 12:45,CD Marino,UD Villa Santa Brigida,2,0,1.850,3.250,3.800
-63145681,2026-01-04 13:30,CD Mensajero,Arucas CF,4,2,1.900,3.250,3.600
-67273662,2026-01-06 17:00,CD Marino,CD San Miguel,1,2,1.444,4.333,5.500
-63145689,2026-01-10 10:30,Real Union de Tenerife Santa Cruz,UD Lanzarote,1,0,3.200,3.250,2.050
-63145687,2026-01-10 11:00,Arucas CF,CD Marino,1,4,2.100,3.600,2.800
-63145693,2026-01-10 12:00,UD San Fernando,CD Mensajero,4,0,,,
-63145695,2026-01-10 12:00,SD Tenisca,UD Tamaraceite,1,0,,,
-63145697,2026-01-10 12:00,CD Union Sur Yaiza,CF Panaderia Pulido,0,3,,,
-63145691,2026-01-10 12:45,CD Atletico Paso,CD Herbania,4,2,,,
-63145699,2026-01-10 17:00,CD San Miguel,UD Las Palmas C,1,0,4.200,3.600,1.666
-63145701,2026-01-10 18:00,San Bartolome CF,CD Tenerife C,1,3,,,
-63145685,2026-01-11 12:30,UD Villa Santa Brigida,UD Telde,3,0,,,
-67129832,2026-01-13 17:30,UD Las Palmas C,Real Union de Tenerife Santa Cruz,1,1,1.420,3.900,6.250
-66893072,2026-01-14 16:30,CD Mensajero,CD Union Sur Yaiza,3,0,,,
-66949030,2026-01-14 17:45,CD Tenerife C,UD Villa Santa Brigida,2,1,1.600,3.800,4.500
-66893074,2026-01-14 18:00,UD San Fernando,UD Lanzarote,2,0,1.850,3.500,3.500
-66893076,2026-01-14 18:00,San Bartolome CF,Arucas CF,0,0,,,
-67129834,2026-01-14 18:00,CF Panaderia Pulido,SD Tenisca,4,0,1.250,4.750,9.500
-66893078,2026-01-14 18:15,CD Herbania,UD Tamaraceite,0,1,,,
-63145705,2026-01-17 11:00,Arucas CF,UD Telde,2,2,,,
-63145707,2026-01-17 12:30,CD San Miguel,CD Herbania,1,1,1.800,3.300,3.900
-63145711,2026-01-17 12:30,San Bartolome CF,CD Mensajero,0,0,,,
-63145709,2026-01-17 17:00,CD Tenerife C,UD Lanzarote,2,0,2.450,3.400,2.400
-63145719,2026-01-17 17:30,CD Union Sur Yaiza,UD Las Palmas C,0,1,,,
-63145717,2026-01-18 12:00,SD Tenisca,Real Union de Tenerife Santa Cruz,1,1,,,
-63145703,2026-01-18 12:30,UD Villa Santa Brigida,CF Panaderia Pulido,1,1,2.600,3.250,2.375
-63145713,2026-01-18 12:30,CD Atletico Paso,UD Tamaraceite,1,0,,,
-63145721,2026-01-24 11:00,Real Union de Tenerife Santa Cruz,CD Atletico Paso,2,0,3.800,2.875,1.950
-63145729,2026-01-24 11:30,UD Las Palmas C,UD Villa Santa Brigida,1,0,,,
-63145723,2026-01-24 12:00,CF Panaderia Pulido,Arucas CF,1,0,,,
-63145725,2026-01-24 12:00,UD Tamaraceite,CD San Miguel,1,0,,,
-63145727,2026-01-24 16:00,CD Herbania,CD Union Sur Yaiza,1,0,,,
-63145731,2026-01-25 12:00,CD Marino,San Bartolome CF,1,1,1.480,3.900,5.500
-63145735,2026-01-25 12:00,CD Mensajero,CD Tenerife C,1,1,,,
-63145737,2026-01-25 12:00,UD Telde,UD San Fernando,0,1,,,
-63145733,2026-01-25 12:30,UD Lanzarote,SD Tenisca,1,0,,,
-63145745,2026-01-30 20:00,CD San Miguel,Real Union de Tenerife Santa Cruz,1,1,2.400,3.400,2.500
-63145739,2026-01-30 21:00,CD Tenerife C,CD Marino,0,2,1.727,3.600,3.800
-63145741,2026-01-31 11:00,Arucas CF,UD Las Palmas C,1,1,2.800,3.300,2.200
-63145743,2026-01-31 12:30,UD Villa Santa Brigida,CD Herbania,1,2,,,
-63145747,2026-01-31 18:00,San Bartolome CF,UD Telde,0,0,,,
-63145749,2026-02-01 12:00,CD Atletico Paso,SD Tenisca,0,0,,,
-63145755,2026-02-01 12:00,CD Union Sur Yaiza,UD Tamaraceite,0,1,,,
-63145751,2026-02-01 12:30,CD Mensajero,UD Lanzarote,3,0,,,
-63145757,2026-02-06 21:00,UD Tamaraceite,UD Villa Santa Brigida,1,0,1.420,4.100,6.000
-63145759,2026-02-07 11:00,Real Union de Tenerife Santa Cruz,CD Union Sur Yaiza,2,0,1.750,3.300,4.100
-63145761,2026-02-07 12:00,CF Panaderia Pulido,San Bartolome CF,0,0,,,
-63145763,2026-02-07 16:30,CD Herbania,Arucas CF,1,1,,,
-63145765,2026-02-07 17:00,UD Las Palmas C,UD San Fernando,2,2,,,
-63145773,2026-02-08 12:00,UD Telde,CD Tenerife C,2,6,,,
-63145767,2026-02-08 12:30,CD Marino,CD Mensajero,0,1,,,
-63145771,2026-02-08 12:30,SD Tenisca,CD San Miguel,0,3,,,
-63145769,2026-02-08 13:00,UD Lanzarote,CD Atletico Paso,0,1,,,
-63145775,2026-02-14 11:00,Arucas CF,UD Tamaraceite,1,3,,,
-63145777,2026-02-14 12:30,UD Villa Santa Brigida,Real Union de Tenerife Santa Cruz,1,0,,,
-63145779,2026-02-14 12:30,CD San Miguel,CD Atletico Paso,0,1,3.100,3.100,2.150
-63145781,2026-02-14 17:00,CD Tenerife C,CF Panaderia Pulido,0,1,1.909,3.500,3.300
-63145783,2026-02-14 18:00,San Bartolome CF,UD Las Palmas C,2,2,,,
-63145789,2026-02-15 12:00,UD San Fernando,CD Herbania,1,0,,,
-63145785,2026-02-15 12:30,CD Marino,UD Lanzarote,1,1,2.050,3.300,3.100
-63145791,2026-02-15 12:30,CD Union Sur Yaiza,SD Tenisca,4,0,,,
-63145793,2026-02-20 21:00,UD Tamaraceite,UD San Fernando,0,1,1.900,3.300,3.600
-63145795,2026-02-21 11:00,Real Union de Tenerife Santa Cruz,Arucas CF,2,0,2.050,3.100,3.200
-63145797,2026-02-21 12:00,CF Panaderia Pulido,CD Mensajero,3,2,1.833,3.200,3.900
-63145799,2026-02-21 13:00,CD Herbania,San Bartolome CF,1,1,,,
-63145801,2026-02-21 17:00,UD Las Palmas C,CD Tenerife C,0,1,1.833,3.700,3.250
-63145805,2026-02-22 11:00,UD Lanzarote,CD San Miguel,1,1,,,
-63145803,2026-02-22 12:00,CD Atletico Paso,CD Union Sur Yaiza,3,0,,,
-63145809,2026-02-22 12:00,UD Telde,CD Marino,2,2,5.250,3.700,1.500
-63145807,2026-02-22 12:15,SD Tenisca,UD Villa Santa Brigida,1,3,,,
-68391798,2026-02-25 18:00,UD San Fernando,CD Marino,1,1,,,
-63145811,2026-02-28 11:00,Arucas CF,SD Tenisca,2,0,,,
-63145817,2026-02-28 12:00,San Bartolome CF,UD Tamaraceite,0,2,,,
-63145825,2026-02-28 12:00,UD Telde,UD Lanzarote,2,1,,,
-63145813,2026-02-28 12:30,UD Villa Santa Brigida,CD Atletico Paso,1,1,,,
-63145815,2026-02-28 16:00,CD Tenerife C,CD Herbania,3,1,1.550,3.700,5.000
-63145819,2026-03-01 12:00,CD Marino,CF Panaderia Pulido,0,1,2.100,3.200,3.000
-63145823,2026-03-01 12:00,UD San Fernando,Real Union de Tenerife Santa Cruz,1,0,1.500,3.400,6.500
-63145821,2026-03-01 12:30,CD Mensajero,UD Las Palmas C,3,1,,,
-63145827,2026-03-01 13:00,CD Union Sur Yaiza,CD San Miguel,3,0,,,
-68723258,2026-03-04 18:00,UD San Fernando,CF Panaderia Pulido,1,0,1.700,3.700,4.000
-63145829,2026-03-07 11:00,Real Union de Tenerife Santa Cruz,San Bartolome CF,4,2,1.727,3.250,4.333
-63145833,2026-03-07 12:00,UD Tamaraceite,CD Tenerife C,3,0,2.100,3.100,3.200
-63145835,2026-03-07 13:30,CD Herbania,CD Mensajero,2,2,,,
-63145837,2026-03-07 16:00,UD Las Palmas C,CD Marino,1,1,1.833,3.400,3.600
-63145839,2026-03-07 17:00,CD San Miguel,UD Villa Santa Brigida,0,1,2.150,3.100,3.100
-63145843,2026-03-08 11:00,UD Lanzarote,CD Union Sur Yaiza,0,0,,,
-63145831,2026-03-08 12:00,CF Panaderia Pulido,UD Telde,1,0,,,
-63145841,2026-03-08 12:00,CD Atletico Paso,Arucas CF,3,0,,,
-63145845,2026-03-08 12:00,SD Tenisca,UD San Fernando,0,1,,,
-63145847,2026-03-13 19:00,CD Tenerife C,Real Union de Tenerife Santa Cruz,0,2,2.350,3.100,2.750
-63145849,2026-03-14 11:00,Arucas CF,CD San Miguel,3,0,1.950,3.200,3.400
-63145851,2026-03-14 12:00,CF Panaderia Pulido,UD Lanzarote,1,1,,,
-63145853,2026-03-14 12:30,UD Villa Santa Brigida,CD Union Sur Yaiza,2,1,,,
-63145855,2026-03-14 12:30,San Bartolome CF,SD Tenisca,3,1,,,
-63145857,2026-03-15 12:00,CD Marino,CD Herbania,1,1,1.571,3.700,5.000
-63145859,2026-03-15 12:00,CD Mensajero,UD Tamaraceite,2,1,,,
-63145861,2026-03-15 12:00,UD San Fernando,CD Atletico Paso,1,1,,,
-63145863,2026-03-15 12:00,UD Telde,UD Las Palmas C,2,4,4.750,3.800,1.550
-63145877,2026-03-22 12:00,UD Lanzarote,UD Villa Santa Brigida,2,0,,,
-63145879,2026-03-22 12:00,SD Tenisca,CD Tenerife C,0,0,,,
-63145885,2026-03-26 18:00,CF Panaderia Pulido,CD Herbania,0,3,1.500,4.000,5.000
-63145893,2026-03-27 21:00,CD Marino,Real Union de Tenerife Santa Cruz,0,0,2.300,2.900,3.000
-63145899,2026-03-27 21:00,UD Telde,UD Tamaraceite,3,1,5.250,3.900,1.500
-63145883,2026-03-28 11:00,Arucas CF,UD Villa Santa Brigida,1,2,1.833,3.200,3.900
-63145889,2026-03-28 16:00,CD Tenerife C,CD Atletico Paso,0,3,3.100,3.100,2.100
-63145891,2026-03-28 16:30,San Bartolome CF,CD San Miguel,0,3,,,
-63145887,2026-03-28 17:00,UD Las Palmas C,UD Lanzarote,2,0,1.950,3.500,3.200
-63145895,2026-03-29 11:00,CD Mensajero,SD Tenisca,1,2,,,
-63145897,2026-03-29 11:00,UD San Fernando,CD Union Sur Yaiza,3,0,,,
-63145907,2026-03-31 15:30,CD Herbania,UD Las Palmas C,0,2,,,
-63145917,2026-04-01 19:00,CD Union Sur Yaiza,San Bartolome CF,1,4,,,
-63145901,2026-04-01 20:00,UD Tamaraceite,CF Panaderia Pulido,3,2,2.050,3.300,3.100
-63145903,2026-04-01 20:00,UD Villa Santa Brigida,UD San Fernando,0,2,,,
-63145905,2026-04-02 11:00,CD Atletico Paso,CD Mensajero,1,1,,,
-63145909,2026-04-02 11:00,UD Lanzarote,Arucas CF,3,1,,,
-63145911,2026-04-02 11:00,Real Union de Tenerife Santa Cruz,UD Telde,3,0,1.285,5.000,7.500
-63145913,2026-04-02 11:00,CD San Miguel,CD Tenerife C,2,1,2.500,3.000,2.625
-63145915,2026-04-02 11:00,SD Tenisca,CD Marino,1,1,,,
-70378240,2026-04-08 16:30,CD San Miguel,UD San Fernando,1,2,4.000,3.200,1.800
-70510666,2026-04-08 17:00,UD Tamaraceite,CD Marino,2,2,1.800,3.250,4.000
-70246002,2026-04-08 17:30,Real Union de Tenerife Santa Cruz,CD Mensajero,0,1,2.000,3.250,3.250
-63145919,2026-04-11 11:00,CF Panaderia Pulido,Real Union de Tenerife Santa Cruz,2,1,,,
-63145927,2026-04-11 11:30,San Bartolome CF,UD Villa Santa Brigida,2,1,,,
-63145921,2026-04-11 15:00,CD Herbania,UD Lanzarote,0,0,,,
-63145923,2026-04-11 16:00,UD Las Palmas C,UD Tamaraceite,1,1,1.727,3.700,4.000
-63145925,2026-04-11 16:00,CD Tenerife C,CD Union Sur Yaiza,1,1,1.615,3.600,4.500
-63145929,2026-04-12 11:00,CD Marino,CD Atletico Paso,0,0,,,
-63145931,2026-04-12 11:00,CD Mensajero,CD San Miguel,1,0,,,
-63145933,2026-04-12 11:00,UD San Fernando,Arucas CF,1,1,1.300,4.200,8.500
-63145935,2026-04-12 11:00,UD Telde,SD Tenisca,2,1,,,
-63145939,2026-04-18 10:00,Real Union de Tenerife Santa Cruz,UD Las Palmas C,0,1,,,
-63145937,2026-04-18 11:00,Arucas CF,San Bartolome CF,0,0,,,
-63145941,2026-04-18 11:00,UD Tamaraceite,CD Herbania,4,1,1.600,3.600,4.750
-63145943,2026-04-18 11:30,UD Villa Santa Brigida,CD Tenerife C,2,2,,,
-63145945,2026-04-18 16:00,CD San Miguel,CD Marino,2,0,,,
-63145947,2026-04-19 11:00,CD Atletico Paso,UD Telde,1,1,,,
-63145949,2026-04-19 11:00,UD Lanzarote,UD San Fernando,1,1,,,
-63145951,2026-04-19 11:00,SD Tenisca,CF Panaderia Pulido,1,1,,,
-63145953,2026-04-19 12:00,CD Union Sur Yaiza,CD Mensajero,1,0,,,
-70510766,2026-04-22 16:30,CD Union Sur Yaiza,Arucas CF,3,0,,,
-70510768,2026-04-22 17:00,CD Herbania,UD Telde,1,1,,,
-70510770,2026-04-22 19:30,UD Las Palmas C,CF Panaderia Pulido,1,0,1.750,3.300,4.200
-63145955,2026-04-25 11:00,CD Herbania,Real Union de Tenerife Santa Cruz,1,0,,,
-63145957,2026-04-25 11:00,CF Panaderia Pulido,CD Atletico Paso,1,1,,,
-63145959,2026-04-25 11:00,UD Tamaraceite,UD Lanzarote,1,1,1.550,3.900,4.750
-63145961,2026-04-25 15:00,UD Las Palmas C,SD Tenisca,2,1,,,
-63145963,2026-04-25 16:00,CD Tenerife C,Arucas CF,1,1,1.700,3.400,4.200
-63145965,2026-04-25 17:00,San Bartolome CF,UD San Fernando,0,0,,,
-63145971,2026-04-26 11:00,UD Telde,CD San Miguel,1,3,,,
-63145967,2026-04-26 11:30,CD Marino,CD Union Sur Yaiza,0,0,,,
-63145969,2026-04-26 11:30,CD Mensajero,UD Villa Santa Brigida,2,0,,,
-63145987,2026-05-01 17:00,UD Villa Santa Brigida,CD Marino,3,0,,,
-63145973,2026-05-03 11:00,Arucas CF,CD Mensajero,0,1,,,
-63145975,2026-05-03 11:00,CD Atletico Paso,UD Las Palmas C,1,0,,,
-63145977,2026-05-03 11:00,Real Union de Tenerife Santa Cruz,UD Tamaraceite,0,1,,,
-63145979,2026-05-03 11:00,San Bartolome CF,UD Lanzarote,1,1,,,
-63145981,2026-05-03 11:00,UD San Fernando,CD Tenerife C,5,0,1.363,4.100,7.000
-63145983,2026-05-03 11:00,CD San Miguel,CF Panaderia Pulido,1,1,2.250,3.250,2.750
-63145985,2026-05-03 11:00,SD Tenisca,CD Herbania,4,0,,,
-63145989,2026-05-03 11:00,CD Union Sur Yaiza,UD Telde,2,1,,,
-63146005,2026-05-08 20:00,UD Telde,UD Villa Santa Brigida,0,3,,,
-63145991,2026-05-10 11:00,CD Marino,Arucas CF,1,2,,,
-63145993,2026-05-10 11:00,CD Herbania,CD Atletico Paso,1,1,,,
-63145995,2026-05-10 11:00,UD Lanzarote,Real Union de Tenerife Santa Cruz,0,0,,,
-63145997,2026-05-10 11:00,UD Las Palmas C,CD San Miguel,0,1,,,
-63145999,2026-05-10 11:00,CD Mensajero,UD San Fernando,1,0,,,
-63146001,2026-05-10 11:00,CF Panaderia Pulido,CD Union Sur Yaiza,0,0,,,
-63146003,2026-05-10 11:00,UD Tamaraceite,SD Tenisca,5,1,,,
-63146007,2026-05-10 11:00,CD Tenerife C,San Bartolome CF,0,1,,,
-71483626,2026-05-16 11:00,UD Tamaraceite,CD Mensajero,2,0,2.300,2.875,3.000
-71483628,2026-05-16 11:30,CF Panaderia Pulido,UD San Fernando,0,0,,,
-71483630,2026-05-24 11:00,UD San Fernando,CF Panaderia Pulido,1,2,1.833,3.300,3.750
-71483632,2026-05-24 11:30,CD Mensajero,UD Tamaraceite,0,0,,,
-71753436,2026-05-30 11:00,UD Tamaraceite,UD San Fernando,3,0,2.700,2.625,2.700
-71753438,2026-06-07 11:00,UD San Fernando,UD Tamaraceite,1,1,1.900,3.400,3.500
-73585620,2026-09-11 19:00,CD Union Sur Yaiza,San Bartolome CF,0,1,,,
-73585614,2026-09-12 10:00,Real Union de Tenerife Santa Cruz,UD Los Llanos de Aridane,1,0,,,
-73585622,2026-09-12 10:00,Estrella CF,SD Villaverde Norte,3,1,,,
-73585618,2026-09-12 11:00,UD Playas de Sotavento,UD Las Palmas C,0,2,,,
-73585626,2026-09-12 11:00,UD Villa Santa Brigida,UD Anaza,0,0,2.200,2.900,3.250
-73585616,2026-09-12 16:00,CD Laguna Sad,UD San Fernando,0,3,3.600,3.500,1.833
-73585624,2026-09-13 10:30,UD Lanzarote,CD San Miguel,1,1,,,
-73585612,2026-09-13 11:00,CD Marino,CF Panaderia Pulido,1,2,2.300,3.200,2.750
-73585628,2026-09-13 11:00,CD Mensajero,CD Tenerife C,1,0,,,
-73585630,2026-09-18 20:00,CD Marino,Real Union de Tenerife Santa Cruz,3,1,2.375,3.200,2.700
-73585646,2026-09-19 10:00,CF Panaderia Pulido,CD Tenerife C,3,3,1.950,3.250,3.500
-73585640,2026-09-19 11:00,SD Villaverde Norte,UD Lanzarote,1,1,,,
-73585632,2026-09-19 16:00,UD Los Llanos de Aridane,CD Laguna Sad,2,1,,,
-73585636,2026-09-19 16:00,UD Las Palmas C,CD Union Sur Yaiza,4,2,1.615,3.700,4.333
-73585638,2026-09-19 16:00,San Bartolome CF,Estrella CF,4,2,,,
-73585642,2026-09-19 16:00,CD San Miguel,UD Villa Santa Brigida,3,1,2.100,3.100,3.100
-73585644,2026-09-19 16:00,UD Anaza,CD Mensajero,1,0,3.000,3.000,2.250
-73585634,2026-09-20 11:00,UD San Fernando,UD Playas de Sotavento,5,0,1.200,5.750,9.500
-73585664,2026-09-25 19:00,CD Tenerife C,UD Anaza,3,2,1.615,3.400,4.750
-73585656,2026-09-25 20:00,Estrella CF,UD Las Palmas C,1,1,3.600,3.500,1.850
-73585648,2026-09-26 10:00,Real Union de Tenerife Santa Cruz,CF Panaderia Pulido,2,0,2.000,3.250,3.250
-73585654,2026-09-26 11:00,CD Union Sur Yaiza,UD San Fernando,2,0,,,
-73585660,2026-09-26 11:00,UD Villa Santa Brigida,SD Villaverde Norte,2,0,1.650,3.700,4.200
-73585652,2026-09-26 13:00,UD Playas de Sotavento,UD Los Llanos de Aridane,2,2,,,
-73585650,2026-09-26 19:00,CD Laguna Sad,CD Marino,2,2,2.550,3.400,2.350
-73585658,2026-09-27 10:30,UD Lanzarote,San Bartolome CF,1,1,,,
-73585662,2026-09-27 11:00,CD Mensajero,CD San Miguel,1,0,,,
-73585676,2026-10-02 20:00,Real Union de Tenerife Santa Cruz,CD Laguna Sad,1,0,1.615,3.800,4.333
-73585674,2026-10-03 11:00,CF Panaderia Pulido,UD Anaza,5,2,2.100,3.400,2.875
-73585670,2026-10-03 15:15,SD Villaverde Norte,CD Mensajero,1,2,,,
-73585666,2026-10-03 16:00,UD Las Palmas C,UD Lanzarote,1,2,1.800,3.500,3.600
-73585668,2026-10-03 16:00,San Bartolome CF,UD Villa Santa Brigida,1,1,,,
-73585672,2026-10-03 16:00,CD San Miguel,CD Tenerife C,2,0,2.150,3.200,2.900
-73585680,2026-10-03 16:00,UD Los Llanos de Aridane,CD Union Sur Yaiza,1,0,,,
-73585678,2026-10-04 11:00,CD Marino,UD Playas de Sotavento,6,1,1.800,3.500,3.700
-73585682,2026-10-04 11:00,UD San Fernando,Estrella CF,3,0,,,
-73585694,2026-10-09 20:00,UD Villa Santa Brigida,UD Las Palmas C,1,1,2.875,3.500,2.050
-73585700,2026-10-09 20:00,UD Anaza,CD San Miguel,0,2,3.300,3.400,1.909
-73585690,2026-10-10 10:00,Estrella CF,UD Los Llanos de Aridane,1,0,2.000,3.250,3.250
-73585688,2026-10-10 11:00,CD Union Sur Yaiza,CD Marino,2,1,,,
-73585686,2026-10-10 12:00,UD Playas de Sotavento,Real Union de Tenerife Santa Cruz,0,3,,,
-73585698,2026-10-10 14:30,CD Tenerife C,SD Villaverde Norte,4,1,,,
-73585684,2026-10-10 16:00,CD Laguna Sad,CF Panaderia Pulido,3,4,,,
-73585692,2026-10-11 10:00,UD Lanzarote,UD San Fernando,0,1,,,
-73585696,2026-10-11 11:00,CD Mensajero,San Bartolome CF,2,2,,,
-73585704,2026-10-17 10:00,Real Union de Tenerife Santa Cruz,CD Union Sur Yaiza,1,1,,,
-73585702,2026-10-17 11:00,CD Laguna Sad,UD Playas de Sotavento,1,1,,,
-73585708,2026-10-17 11:00,UD Los Llanos de Aridane,UD Lanzarote,3,0,,,
-73585718,2026-10-17 11:00,CF Panaderia Pulido,CD San Miguel,4,1,2.050,3.300,3.100
-73585710,2026-10-17 16:00,UD San Fernando,UD Villa Santa Brigida,4,0,,,
-73585714,2026-10-17 16:00,San Bartolome CF,CD Tenerife C,2,4,,,
-73585716,2026-10-17 16:00,SD Villaverde Norte,UD Anaza,1,1,,,
-73585712,2026-10-17 16:30,UD Las Palmas C,CD Mensajero,2,2,1.900,3.300,3.400
-73585706,2026-10-18 11:00,CD Marino,Estrella CF,1,0,1.571,3.700,4.750
-74316846,2026-10-21 15:00,San Bartolome CF,UD Playas de Sotavento,1,1,,,
-74316868,2026-10-21 15:00,SD Villaverde Norte,CD Union Sur Yaiza,0,1,,,
-74316848,2026-10-21 16:00,CD Tenerife C,UD Villa Santa Brigida,2,1,1.850,3.400,3.600
-74316852,2026-10-21 16:00,CD San Miguel,Estrella CF,3,0,1.600,3.700,4.750
-74316844,2026-10-21 16:30,CF Panaderia Pulido,CD Mensajero,5,0,2.350,3.200,2.700
-74316858,2026-10-21 16:30,UD Las Palmas C,CD Laguna Sad,3,0,1.250,5.250,9.000
-74316850,2026-10-21 17:00,UD Los Llanos de Aridane,CD Marino,1,2,,,
-74316872,2026-10-21 17:00,UD San Fernando,Real Union de Tenerife Santa Cruz,3,2,,,
-74316864,2026-10-21 17:30,UD Anaza,UD Lanzarote,1,1,,,
-73585724,2026-10-24 10:00,Estrella CF,Real Union de Tenerife Santa Cruz,0,1,,,
-73585720,2026-10-24 11:00,UD Playas de Sotavento,CF Panaderia Pulido,1,1,,,
-73585722,2026-10-24 11:00,CD Union Sur Yaiza,CD Laguna Sad,3,1,,,
-73585728,2026-10-24 11:00,UD Villa Santa Brigida,UD Los Llanos de Aridane,1,0,,,
-73585736,2026-10-24 14:30,CD San Miguel,SD Villaverde Norte,5,0,1.333,4.200,7.000
-73585732,2026-10-24 15:00,CD Tenerife C,UD Las Palmas C,1,1,2.900,3.400,2.100
-73585734,2026-10-24 16:00,UD Anaza,San Bartolome CF,2,1,,,
-73585726,2026-10-25 11:30,UD Lanzarote,CD Marino,1,0,,,
-73585730,2026-10-25 12:30,CD Mensajero,UD San Fernando,2,2,,,
-73585742,2026-10-31 11:00,Real Union de Tenerife Santa Cruz,UD Lanzarote,1,1,1.800,3.500,3.600
-73585738,2026-10-31 12:00,UD Playas de Sotavento,CD Union Sur Yaiza,0,2,,,
-73585754,2026-10-31 12:00,CF Panaderia Pulido,SD Villaverde Norte,5,0,1.222,5.250,9.000
-73585740,2026-10-31 17:00,CD Laguna Sad,Estrella CF,0,3,,,
-73585746,2026-10-31 17:00,UD Los Llanos de Aridane,CD Mensajero,3,1,,,
-73585750,2026-10-31 17:00,UD Las Palmas C,UD Anaza,3,0,1.363,4.333,6.500
-73585752,2026-10-31 17:00,San Bartolome CF,CD San Miguel,0,1,,,
-73585744,2026-11-01 12:00,CD Marino,UD Villa Santa Brigida,1,1,1.800,3.500,3.600
-73585748,2026-11-01 12:00,UD San Fernando,CD Tenerife C,2,0,,,
-73585758,2026-11-07 11:00,Estrella CF,UD Playas de Sotavento,2,1,,,
-73585756,2026-11-07 12:00,CD Union Sur Yaiza,CF Panaderia Pulido,1,2,,,
-73585762,2026-11-07 12:00,UD Villa Santa Brigida,Real Union de Tenerife Santa Cruz,1,2,2.250,3.100,2.800
-73585772,2026-11-07 12:00,SD Villaverde Norte,San Bartolome CF,2,0,,,
-73585768,2026-11-07 17:00,UD Anaza,UD San Fernando,1,2,,,
-73585770,2026-11-07 17:00,CD San Miguel,UD Las Palmas C,3,2,2.450,3.300,2.450
-73585760,2026-11-08 11:30,UD Lanzarote,CD Laguna Sad,2,2,,,
-73585764,2026-11-08 12:00,CD Mensajero,CD Marino,1,1,,,
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+63145411,2025-09-05 20:00,UD Telde,Arucas CF,0,0,,,,,,
+63145395,2025-09-06 10:00,Real Union de Tenerife Santa Cruz,SD Tenisca,2,1,,,,,,
+63145397,2025-09-06 11:00,CF Panaderia Pulido,UD Villa Santa Brigida,2,1,,,,,,
+63145399,2025-09-06 11:00,UD Tamaraceite,CD Atletico Paso,1,1,,,,,,
+63145401,2025-09-06 16:00,CD Herbania,CD San Miguel,2,2,,,,,,
+63145403,2025-09-06 16:00,UD Las Palmas C,CD Union Sur Yaiza,0,1,,,,,,
+63145405,2025-09-07 11:00,CD Marino,UD San Fernando,0,1,,,,,,
+63145407,2025-09-07 11:00,UD Lanzarote,CD Tenerife C,2,1,,,,,,
+63145409,2025-09-07 11:00,CD Mensajero,San Bartolome CF,2,0,,,,,,
+63145413,2025-09-12 20:00,UD Villa Santa Brigida,UD Las Palmas C,1,0,,,,,,
+63145415,2025-09-13 10:00,Arucas CF,CF Panaderia Pulido,0,1,,,,,,
+63145421,2025-09-13 11:15,San Bartolome CF,CD Marino,2,3,,,,,,
+63145419,2025-09-13 15:00,CD Tenerife C,CD Mensajero,1,0,,,,,,
+63145417,2025-09-13 16:00,CD San Miguel,UD Tamaraceite,0,2,,,,,,
+63145429,2025-09-13 16:00,CD Union Sur Yaiza,CD Herbania,2,0,,,,,,
+63145423,2025-09-14 11:00,CD Atletico Paso,Real Union de Tenerife Santa Cruz,3,0,,,,,,
+63145425,2025-09-14 11:00,UD San Fernando,UD Telde,2,0,,,,,,
+63145427,2025-09-14 12:00,SD Tenisca,UD Lanzarote,2,0,,,,,,
+63145431,2025-09-20 10:00,Real Union de Tenerife Santa Cruz,CD San Miguel,1,0,,,,,,
+63145433,2025-09-20 11:00,CF Panaderia Pulido,UD San Fernando,0,0,,,,,,
+63145435,2025-09-20 11:00,UD Tamaraceite,CD Union Sur Yaiza,4,0,,,,,,
+63145437,2025-09-20 16:00,CD Herbania,UD Villa Santa Brigida,2,1,,,,,,
+63145439,2025-09-20 16:00,UD Las Palmas C,Arucas CF,3,1,,,,,,
+63145441,2025-09-21 11:00,CD Marino,CD Tenerife C,1,0,,,,,,
+63145445,2025-09-21 11:00,SD Tenisca,CD Atletico Paso,0,1,,,,,,
+63145447,2025-09-21 11:00,UD Telde,San Bartolome CF,1,3,,,,,,
+63145443,2025-09-21 11:30,UD Lanzarote,CD Mensajero,4,1,,,,,,
+63145449,2025-09-26 20:00,UD Villa Santa Brigida,UD Tamaraceite,1,0,,,,,,
+63145451,2025-09-27 10:00,Arucas CF,CD Herbania,1,0,,,,,,
+63145453,2025-09-27 12:00,CD San Miguel,SD Tenisca,3,1,,,,,,
+63145455,2025-09-27 15:00,CD Tenerife C,UD Telde,3,0,,,,,,
+63145465,2025-09-27 16:00,CD Union Sur Yaiza,Real Union de Tenerife Santa Cruz,1,0,,,,,,
+63145457,2025-09-27 17:00,San Bartolome CF,CF Panaderia Pulido,0,2,,,,,,
+63145461,2025-09-28 11:00,CD Mensajero,CD Marino,3,2,,,,,,
+63145463,2025-09-28 11:00,UD San Fernando,UD Las Palmas C,2,1,,,,,,
+63145459,2025-09-28 12:00,CD Atletico Paso,UD Lanzarote,0,2,,,,,,
+63145467,2025-10-03 20:00,UD Tamaraceite,Arucas CF,0,0,,,,,,
+63145469,2025-10-04 10:00,Real Union de Tenerife Santa Cruz,UD Villa Santa Brigida,0,0,,,,,,
+63145471,2025-10-04 11:00,CF Panaderia Pulido,CD Tenerife C,1,2,,,,,,
+63145473,2025-10-04 16:00,CD Herbania,UD San Fernando,2,2,,,,,,
+63145475,2025-10-04 16:00,UD Las Palmas C,San Bartolome CF,6,1,,,,,,
+63145477,2025-10-05 11:00,CD Atletico Paso,CD San Miguel,3,1,,,,,,
+63145481,2025-10-05 11:00,SD Tenisca,CD Union Sur Yaiza,0,0,,,,,,
+63145483,2025-10-05 11:00,UD Telde,CD Mensajero,0,0,,,,,,
+63145479,2025-10-05 11:30,UD Lanzarote,CD Marino,2,1,,,,,,
+63145485,2025-10-11 10:00,Arucas CF,Real Union de Tenerife Santa Cruz,0,2,,,,,,
+63145487,2025-10-11 11:30,UD Villa Santa Brigida,SD Tenisca,4,0,,,,,,
+63145491,2025-10-11 12:00,CD San Miguel,UD Lanzarote,1,1,,,,,,
+63145495,2025-10-11 15:30,San Bartolome CF,CD Herbania,0,1,,,,,,
+63145493,2025-10-11 16:00,CD Tenerife C,UD Las Palmas C,4,4,,,,,,
+63145497,2025-10-12 11:00,CD Marino,UD Telde,4,0,,,,,,
+63145499,2025-10-12 11:00,CD Mensajero,CF Panaderia Pulido,2,0,,,,,,
+63145501,2025-10-12 11:00,UD San Fernando,UD Tamaraceite,0,1,,,,,,
+63145503,2025-10-12 12:00,CD Union Sur Yaiza,CD Atletico Paso,0,1,,,,,,
+63145505,2025-10-18 10:00,Real Union de Tenerife Santa Cruz,UD San Fernando,4,2,,,,,,
+63145513,2025-10-18 10:15,UD Las Palmas C,CD Mensajero,1,1,,,,,,
+63145507,2025-10-18 11:00,CF Panaderia Pulido,CD Marino,2,2,,,,,,
+63145509,2025-10-18 11:00,UD Tamaraceite,San Bartolome CF,2,0,,,,,,
+63145511,2025-10-18 16:00,CD Herbania,CD Tenerife C,3,4,,,,,,
+63145515,2025-10-18 16:00,CD San Miguel,CD Union Sur Yaiza,2,4,,,,,,
+63145519,2025-10-19 10:00,UD Lanzarote,UD Telde,5,0,,,,,,
+63145517,2025-10-19 11:00,CD Atletico Paso,UD Villa Santa Brigida,1,0,,,,,,
+63145521,2025-10-19 11:00,SD Tenisca,Arucas CF,1,1,,,,,,
+63145523,2025-10-25 10:00,Arucas CF,CD Atletico Paso,1,0,,,,,,
+63145525,2025-10-25 11:30,UD Villa Santa Brigida,CD San Miguel,0,0,,,,,,
+63145527,2025-10-25 16:00,CD Tenerife C,UD Tamaraceite,4,2,,,,,,
+63145529,2025-10-25 16:00,San Bartolome CF,Real Union de Tenerife Santa Cruz,1,0,,,,,,
+63145539,2025-10-25 16:00,CD Union Sur Yaiza,UD Lanzarote,3,3,,,,,,
+63145535,2025-10-25 17:00,UD San Fernando,SD Tenisca,4,0,,,,,,
+63145531,2025-10-26 12:00,CD Marino,UD Las Palmas C,0,1,,,,,,
+63145533,2025-10-26 12:00,CD Mensajero,CD Herbania,5,1,,,,,,
+63145537,2025-10-26 12:00,UD Telde,CF Panaderia Pulido,0,3,,,,,,
+63145541,2025-10-31 21:00,Real Union de Tenerife Santa Cruz,CD Tenerife C,0,0,,,,,,
+63145543,2025-11-01 12:00,UD Tamaraceite,CD Mensajero,3,3,,,,,,
+63145557,2025-11-01 12:00,CD Union Sur Yaiza,UD Villa Santa Brigida,3,1,,,,,,
+63145547,2025-11-01 16:00,UD Las Palmas C,UD Telde,5,1,,,,,,
+63145545,2025-11-01 17:00,CD Herbania,CD Marino,2,2,,,,,,
+63145549,2025-11-01 17:00,CD San Miguel,Arucas CF,1,0,,,,,,
+63145551,2025-11-02 12:00,CD Atletico Paso,UD San Fernando,3,0,,,,,,
+63145553,2025-11-02 12:00,UD Lanzarote,CF Panaderia Pulido,2,1,,,,,,
+63145555,2025-11-02 12:30,SD Tenisca,San Bartolome CF,7,1,,,,,,
+63145559,2025-11-08 11:00,Arucas CF,CD Union Sur Yaiza,1,1,,,,,,
+63145561,2025-11-08 12:00,CF Panaderia Pulido,UD Las Palmas C,2,3,,,,,,
+63145563,2025-11-08 12:30,UD Villa Santa Brigida,UD Lanzarote,2,0,,,,,,
+63145567,2025-11-08 13:00,San Bartolome CF,CD Atletico Paso,0,3,,,,,,
+63145565,2025-11-08 15:30,CD Tenerife C,SD Tenisca,1,0,,,,,,
+63145569,2025-11-09 12:00,CD Marino,UD Tamaraceite,3,0,,,,,,
+63145571,2025-11-09 12:00,CD Mensajero,Real Union de Tenerife Santa Cruz,2,0,,,,,,
+63145573,2025-11-09 12:00,UD San Fernando,CD San Miguel,1,0,,,,,,
+65350064,2025-11-11 18:30,UD Telde,CD Herbania,3,2,,,,,,
+63145577,2025-11-14 21:00,UD Tamaraceite,UD Telde,2,0,,,,,,
+63145579,2025-11-14 21:00,UD Villa Santa Brigida,Arucas CF,1,0,,,,,,
+63145581,2025-11-14 21:00,Real Union de Tenerife Santa Cruz,CD Marino,0,0,,,,,,
+63145585,2025-11-15 15:00,CD San Miguel,San Bartolome CF,1,2,,,,,,
+63145583,2025-11-15 17:00,CD Herbania,CF Panaderia Pulido,0,1,,,,,,
+63145593,2025-11-15 17:00,CD Union Sur Yaiza,UD San Fernando,0,1,,,,,,
+63145587,2025-11-16 12:00,CD Atletico Paso,CD Tenerife C,1,1,,,,,,
+63145589,2025-11-16 12:00,UD Lanzarote,UD Las Palmas C,1,1,,,,,,
+63145591,2025-11-16 12:00,SD Tenisca,CD Mensajero,0,2,,,,,,
+63145597,2025-11-22 11:00,Arucas CF,UD Lanzarote,3,1,,,,,,
+63145599,2025-11-22 12:00,CF Panaderia Pulido,UD Tamaraceite,1,2,,,,,,
+63145595,2025-11-22 17:00,CD Tenerife C,CD San Miguel,1,1,,,,,,
+63145601,2025-11-22 17:30,UD Las Palmas C,CD Herbania,4,1,,,,,,
+63145603,2025-11-22 18:00,San Bartolome CF,CD Union Sur Yaiza,1,0,,,,,,
+63145605,2025-11-23 12:00,CD Marino,SD Tenisca,5,1,,,,,,
+63145607,2025-11-23 12:00,CD Mensajero,CD Atletico Paso,0,0,,,,,,
+63145609,2025-11-23 12:00,UD San Fernando,UD Villa Santa Brigida,2,1,,,,,,
+63145611,2025-11-23 12:00,UD Telde,Real Union de Tenerife Santa Cruz,1,1,,,,,,
+63145613,2025-12-05 21:00,UD Tamaraceite,UD Las Palmas C,3,0,,,,,,
+63145615,2025-12-06 11:00,Arucas CF,UD San Fernando,2,1,,,,,,
+63145617,2025-12-06 11:00,Real Union de Tenerife Santa Cruz,CF Panaderia Pulido,1,4,,,,,,
+63145619,2025-12-06 12:30,UD Villa Santa Brigida,San Bartolome CF,1,1,,,,,,
+63145629,2025-12-06 16:00,CD Union Sur Yaiza,CD Tenerife C,0,1,,,,,,
+63145621,2025-12-06 17:00,CD San Miguel,CD Mensajero,0,0,,,,,,
+63145625,2025-12-07 11:15,UD Lanzarote,CD Herbania,1,0,,,,,,
+63145623,2025-12-07 11:45,CD Atletico Paso,CD Marino,3,0,,,,,,
+63145627,2025-12-07 12:00,SD Tenisca,UD Telde,2,1,,,,,,
+66893080,2025-12-17 19:30,UD Telde,CD Atletico Paso,1,1,,,,,,
+63145649,2025-12-20 11:00,Arucas CF,CD Tenerife C,2,2,1.666,3.600,4.333,2.25,1.850,1.950
+63145651,2025-12-20 11:30,Real Union de Tenerife Santa Cruz,CD Herbania,2,1,1.850,3.300,3.600,2.25,1.900,1.900
+63145653,2025-12-20 12:30,UD Villa Santa Brigida,CD Mensajero,1,0,,,,,,
+63145655,2025-12-20 17:00,CD San Miguel,UD Telde,1,1,1.550,3.700,5.000,2.5,1.825,1.975
+63145665,2025-12-20 17:30,CD Union Sur Yaiza,CD Marino,0,1,,,,,,
+63145663,2025-12-21 11:30,SD Tenisca,UD Las Palmas C,2,5,,,,,,
+63145657,2025-12-21 12:00,CD Atletico Paso,CF Panaderia Pulido,1,1,,,,,,
+63145659,2025-12-21 12:00,UD Lanzarote,UD Tamaraceite,5,0,,,,,,
+63145661,2025-12-21 12:00,UD San Fernando,San Bartolome CF,0,0,,,,,,
+63145667,2026-01-03 12:00,CF Panaderia Pulido,CD San Miguel,3,1,,,,,,
+63145669,2026-01-03 12:00,UD Tamaraceite,Real Union de Tenerife Santa Cruz,3,1,1.450,4.100,6.000,2.5,1.925,1.875
+63145671,2026-01-03 12:00,CD Herbania,SD Tenisca,3,0,,,,,,
+63145673,2026-01-03 12:00,UD Las Palmas C,CD Atletico Paso,1,3,,,,,,
+63145675,2026-01-03 17:00,CD Tenerife C,UD San Fernando,1,0,2.375,3.250,2.600,2.25,1.900,1.900
+63145679,2026-01-04 11:00,UD Lanzarote,San Bartolome CF,3,0,,,,,,
+63145683,2026-01-04 12:00,UD Telde,CD Union Sur Yaiza,2,1,3.500,3.300,1.900,2.5,1.850,1.950
+63145677,2026-01-04 12:45,CD Marino,UD Villa Santa Brigida,2,0,1.850,3.250,3.800,2.25,1.925,1.875
+63145681,2026-01-04 13:30,CD Mensajero,Arucas CF,4,2,1.900,3.250,3.600,2.25,1.950,1.850
+67273662,2026-01-06 17:00,CD Marino,CD San Miguel,1,2,1.444,4.333,5.500,2.5,2.025,1.775
+63145689,2026-01-10 10:30,Real Union de Tenerife Santa Cruz,UD Lanzarote,1,0,3.200,3.250,2.050,2.25,1.975,1.825
+63145687,2026-01-10 11:00,Arucas CF,CD Marino,1,4,2.100,3.600,2.800,2.5,1.950,1.850
+63145693,2026-01-10 12:00,UD San Fernando,CD Mensajero,4,0,,,,,,
+63145695,2026-01-10 12:00,SD Tenisca,UD Tamaraceite,1,0,,,,,,
+63145697,2026-01-10 12:00,CD Union Sur Yaiza,CF Panaderia Pulido,0,3,,,,,,
+63145691,2026-01-10 12:45,CD Atletico Paso,CD Herbania,4,2,,,,,,
+63145699,2026-01-10 17:00,CD San Miguel,UD Las Palmas C,1,0,4.200,3.600,1.666,2.5,1.800,2.000
+63145701,2026-01-10 18:00,San Bartolome CF,CD Tenerife C,1,3,,,,,,
+63145685,2026-01-11 12:30,UD Villa Santa Brigida,UD Telde,3,0,,,,,,
+67129832,2026-01-13 17:30,UD Las Palmas C,Real Union de Tenerife Santa Cruz,1,1,1.420,3.900,6.250,2.75,1.950,1.850
+66893072,2026-01-14 16:30,CD Mensajero,CD Union Sur Yaiza,3,0,,,,,,
+66949030,2026-01-14 17:45,CD Tenerife C,UD Villa Santa Brigida,2,1,1.600,3.800,4.500,2.25,1.775,2.025
+66893074,2026-01-14 18:00,UD San Fernando,UD Lanzarote,2,0,1.850,3.500,3.500,2.25,1.825,1.975
+66893076,2026-01-14 18:00,San Bartolome CF,Arucas CF,0,0,,,,,,
+67129834,2026-01-14 18:00,CF Panaderia Pulido,SD Tenisca,4,0,1.250,4.750,9.500,2.75,1.800,2.000
+66893078,2026-01-14 18:15,CD Herbania,UD Tamaraceite,0,1,,,,,,
+63145705,2026-01-17 11:00,Arucas CF,UD Telde,2,2,,,,,,
+63145707,2026-01-17 12:30,CD San Miguel,CD Herbania,1,1,1.800,3.300,3.900,2.25,1.800,2.000
+63145711,2026-01-17 12:30,San Bartolome CF,CD Mensajero,0,0,,,,,,
+63145709,2026-01-17 17:00,CD Tenerife C,UD Lanzarote,2,0,2.450,3.400,2.400,2.25,1.825,1.975
+63145719,2026-01-17 17:30,CD Union Sur Yaiza,UD Las Palmas C,0,1,,,,,,
+63145717,2026-01-18 12:00,SD Tenisca,Real Union de Tenerife Santa Cruz,1,1,,,,,,
+63145703,2026-01-18 12:30,UD Villa Santa Brigida,CF Panaderia Pulido,1,1,2.600,3.250,2.375,2.25,1.850,1.950
+63145713,2026-01-18 12:30,CD Atletico Paso,UD Tamaraceite,1,0,,,,,,
+63145721,2026-01-24 11:00,Real Union de Tenerife Santa Cruz,CD Atletico Paso,2,0,3.800,2.875,1.950,2,1.825,1.975
+63145729,2026-01-24 11:30,UD Las Palmas C,UD Villa Santa Brigida,1,0,,,,,,
+63145723,2026-01-24 12:00,CF Panaderia Pulido,Arucas CF,1,0,,,,,,
+63145725,2026-01-24 12:00,UD Tamaraceite,CD San Miguel,1,0,,,,,,
+63145727,2026-01-24 16:00,CD Herbania,CD Union Sur Yaiza,1,0,,,,,,
+63145731,2026-01-25 12:00,CD Marino,San Bartolome CF,1,1,1.480,3.900,5.500,2.5,1.825,1.975
+63145735,2026-01-25 12:00,CD Mensajero,CD Tenerife C,1,1,,,,,,
+63145737,2026-01-25 12:00,UD Telde,UD San Fernando,0,1,,,,,,
+63145733,2026-01-25 12:30,UD Lanzarote,SD Tenisca,1,0,,,,,,
+63145745,2026-01-30 20:00,CD San Miguel,Real Union de Tenerife Santa Cruz,1,1,2.400,3.400,2.500,2.5,1.925,1.875
+63145739,2026-01-30 21:00,CD Tenerife C,CD Marino,0,2,1.727,3.600,3.800,2.5,1.950,1.850
+63145741,2026-01-31 11:00,Arucas CF,UD Las Palmas C,1,1,2.800,3.300,2.200,2.5,1.975,1.825
+63145743,2026-01-31 12:30,UD Villa Santa Brigida,CD Herbania,1,2,,,,,,
+63145747,2026-01-31 18:00,San Bartolome CF,UD Telde,0,0,,,,,,
+63145749,2026-02-01 12:00,CD Atletico Paso,SD Tenisca,0,0,,,,,,
+63145755,2026-02-01 12:00,CD Union Sur Yaiza,UD Tamaraceite,0,1,,,,,,
+63145751,2026-02-01 12:30,CD Mensajero,UD Lanzarote,3,0,,,,,,
+63145757,2026-02-06 21:00,UD Tamaraceite,UD Villa Santa Brigida,1,0,1.420,4.100,6.000,2.5,1.950,1.850
+63145759,2026-02-07 11:00,Real Union de Tenerife Santa Cruz,CD Union Sur Yaiza,2,0,1.750,3.300,4.100,2,1.825,1.975
+63145761,2026-02-07 12:00,CF Panaderia Pulido,San Bartolome CF,0,0,,,,,,
+63145763,2026-02-07 16:30,CD Herbania,Arucas CF,1,1,,,,,,
+63145765,2026-02-07 17:00,UD Las Palmas C,UD San Fernando,2,2,,,,,,
+63145773,2026-02-08 12:00,UD Telde,CD Tenerife C,2,6,,,,,,
+63145767,2026-02-08 12:30,CD Marino,CD Mensajero,0,1,,,,,,
+63145771,2026-02-08 12:30,SD Tenisca,CD San Miguel,0,3,,,,,,
+63145769,2026-02-08 13:00,UD Lanzarote,CD Atletico Paso,0,1,,,,,,
+63145775,2026-02-14 11:00,Arucas CF,UD Tamaraceite,1,3,,,,,,
+63145777,2026-02-14 12:30,UD Villa Santa Brigida,Real Union de Tenerife Santa Cruz,1,0,,,,,,
+63145779,2026-02-14 12:30,CD San Miguel,CD Atletico Paso,0,1,3.100,3.100,2.150,2.25,2.050,1.750
+63145781,2026-02-14 17:00,CD Tenerife C,CF Panaderia Pulido,0,1,1.909,3.500,3.300,2.5,1.925,1.875
+63145783,2026-02-14 18:00,San Bartolome CF,UD Las Palmas C,2,2,,,,,,
+63145789,2026-02-15 12:00,UD San Fernando,CD Herbania,1,0,,,,,,
+63145785,2026-02-15 12:30,CD Marino,UD Lanzarote,1,1,2.050,3.300,3.100,2.25,1.875,1.925
+63145791,2026-02-15 12:30,CD Union Sur Yaiza,SD Tenisca,4,0,,,,,,
+63145793,2026-02-20 21:00,UD Tamaraceite,UD San Fernando,0,1,1.900,3.300,3.600,2.25,1.825,1.975
+63145795,2026-02-21 11:00,Real Union de Tenerife Santa Cruz,Arucas CF,2,0,2.050,3.100,3.200,2,1.825,1.975
+63145797,2026-02-21 12:00,CF Panaderia Pulido,CD Mensajero,3,2,1.833,3.200,3.900,2.25,2.025,1.775
+63145799,2026-02-21 13:00,CD Herbania,San Bartolome CF,1,1,,,,,,
+63145801,2026-02-21 17:00,UD Las Palmas C,CD Tenerife C,0,1,1.833,3.700,3.250,2.5,1.900,1.900
+63145805,2026-02-22 11:00,UD Lanzarote,CD San Miguel,1,1,,,,,,
+63145803,2026-02-22 12:00,CD Atletico Paso,CD Union Sur Yaiza,3,0,,,,,,
+63145809,2026-02-22 12:00,UD Telde,CD Marino,2,2,5.250,3.700,1.500,2.5,1.925,1.875
+63145807,2026-02-22 12:15,SD Tenisca,UD Villa Santa Brigida,1,3,,,,,,
+68391798,2026-02-25 18:00,UD San Fernando,CD Marino,1,1,,,,,,
+63145811,2026-02-28 11:00,Arucas CF,SD Tenisca,2,0,,,,,,
+63145817,2026-02-28 12:00,San Bartolome CF,UD Tamaraceite,0,2,,,,,,
+63145825,2026-02-28 12:00,UD Telde,UD Lanzarote,2,1,,,,,,
+63145813,2026-02-28 12:30,UD Villa Santa Brigida,CD Atletico Paso,1,1,,,,,,
+63145815,2026-02-28 16:00,CD Tenerife C,CD Herbania,3,1,1.550,3.700,5.000,2.5,1.800,2.000
+63145819,2026-03-01 12:00,CD Marino,CF Panaderia Pulido,0,1,2.100,3.200,3.000,2.5,2.000,1.800
+63145823,2026-03-01 12:00,UD San Fernando,Real Union de Tenerife Santa Cruz,1,0,1.500,3.400,6.500,2.25,2.000,1.800
+63145821,2026-03-01 12:30,CD Mensajero,UD Las Palmas C,3,1,,,,,,
+63145827,2026-03-01 13:00,CD Union Sur Yaiza,CD San Miguel,3,0,,,,,,
+68723258,2026-03-04 18:00,UD San Fernando,CF Panaderia Pulido,1,0,1.700,3.700,4.000,2.25,2.000,1.800
+63145829,2026-03-07 11:00,Real Union de Tenerife Santa Cruz,San Bartolome CF,4,2,1.727,3.250,4.333,2.25,1.950,1.850
+63145833,2026-03-07 12:00,UD Tamaraceite,CD Tenerife C,3,0,2.100,3.100,3.200,2.25,1.825,1.975
+63145835,2026-03-07 13:30,CD Herbania,CD Mensajero,2,2,,,,,,
+63145837,2026-03-07 16:00,UD Las Palmas C,CD Marino,1,1,1.833,3.400,3.600,2.5,2.000,1.800
+63145839,2026-03-07 17:00,CD San Miguel,UD Villa Santa Brigida,0,1,2.150,3.100,3.100,2.25,1.975,1.825
+63145843,2026-03-08 11:00,UD Lanzarote,CD Union Sur Yaiza,0,0,,,,,,
+63145831,2026-03-08 12:00,CF Panaderia Pulido,UD Telde,1,0,,,,,,
+63145841,2026-03-08 12:00,CD Atletico Paso,Arucas CF,3,0,,,,,,
+63145845,2026-03-08 12:00,SD Tenisca,UD San Fernando,0,1,,,,,,
+63145847,2026-03-13 19:00,CD Tenerife C,Real Union de Tenerife Santa Cruz,0,2,2.350,3.100,2.750,2.25,2.025,1.775
+63145849,2026-03-14 11:00,Arucas CF,CD San Miguel,3,0,1.950,3.200,3.400,2.25,1.850,1.950
+63145851,2026-03-14 12:00,CF Panaderia Pulido,UD Lanzarote,1,1,,,,,,
+63145853,2026-03-14 12:30,UD Villa Santa Brigida,CD Union Sur Yaiza,2,1,,,,,,
+63145855,2026-03-14 12:30,San Bartolome CF,SD Tenisca,3,1,,,,,,
+63145857,2026-03-15 12:00,CD Marino,CD Herbania,1,1,1.571,3.700,5.000,2.5,1.950,1.850
+63145859,2026-03-15 12:00,CD Mensajero,UD Tamaraceite,2,1,,,,,,
+63145861,2026-03-15 12:00,UD San Fernando,CD Atletico Paso,1,1,,,,,,
+63145863,2026-03-15 12:00,UD Telde,UD Las Palmas C,2,4,4.750,3.800,1.550,2.75,1.850,1.950
+63145877,2026-03-22 12:00,UD Lanzarote,UD Villa Santa Brigida,2,0,,,,,,
+63145879,2026-03-22 12:00,SD Tenisca,CD Tenerife C,0,0,,,,,,
+63145885,2026-03-26 18:00,CF Panaderia Pulido,CD Herbania,0,3,1.500,4.000,5.000,2.5,1.825,1.975
+63145893,2026-03-27 21:00,CD Marino,Real Union de Tenerife Santa Cruz,0,0,2.300,2.900,3.000,2.25,1.950,1.850
+63145899,2026-03-27 21:00,UD Telde,UD Tamaraceite,3,1,5.250,3.900,1.500,2.5,1.975,1.825
+63145883,2026-03-28 11:00,Arucas CF,UD Villa Santa Brigida,1,2,1.833,3.200,3.900,2.25,2.025,1.775
+63145889,2026-03-28 16:00,CD Tenerife C,CD Atletico Paso,0,3,3.100,3.100,2.100,2,1.825,1.975
+63145891,2026-03-28 16:30,San Bartolome CF,CD San Miguel,0,3,,,,,,
+63145887,2026-03-28 17:00,UD Las Palmas C,UD Lanzarote,2,0,1.950,3.500,3.200,2.5,1.850,1.950
+63145895,2026-03-29 11:00,CD Mensajero,SD Tenisca,1,2,,,,,,
+63145897,2026-03-29 11:00,UD San Fernando,CD Union Sur Yaiza,3,0,,,,,,
+63145907,2026-03-31 15:30,CD Herbania,UD Las Palmas C,0,2,,,,,,
+63145917,2026-04-01 19:00,CD Union Sur Yaiza,San Bartolome CF,1,4,,,,,,
+63145901,2026-04-01 20:00,UD Tamaraceite,CF Panaderia Pulido,3,2,2.050,3.300,3.100,2.25,1.900,1.900
+63145903,2026-04-01 20:00,UD Villa Santa Brigida,UD San Fernando,0,2,,,,,,
+63145905,2026-04-02 11:00,CD Atletico Paso,CD Mensajero,1,1,,,,,,
+63145909,2026-04-02 11:00,UD Lanzarote,Arucas CF,3,1,,,,,,
+63145911,2026-04-02 11:00,Real Union de Tenerife Santa Cruz,UD Telde,3,0,1.285,5.000,7.500,2.75,1.925,1.875
+63145913,2026-04-02 11:00,CD San Miguel,CD Tenerife C,2,1,2.500,3.000,2.625,2.25,1.925,1.875
+63145915,2026-04-02 11:00,SD Tenisca,CD Marino,1,1,,,,,,
+70378240,2026-04-08 16:30,CD San Miguel,UD San Fernando,1,2,4.000,3.200,1.800,2.25,2.000,1.800
+70510666,2026-04-08 17:00,UD Tamaraceite,CD Marino,2,2,1.800,3.250,4.000,2.25,1.800,2.000
+70246002,2026-04-08 17:30,Real Union de Tenerife Santa Cruz,CD Mensajero,0,1,2.000,3.250,3.250,2.25,1.825,1.975
+63145919,2026-04-11 11:00,CF Panaderia Pulido,Real Union de Tenerife Santa Cruz,2,1,,,,,,
+63145927,2026-04-11 11:30,San Bartolome CF,UD Villa Santa Brigida,2,1,,,,,,
+63145921,2026-04-11 15:00,CD Herbania,UD Lanzarote,0,0,,,,,,
+63145923,2026-04-11 16:00,UD Las Palmas C,UD Tamaraceite,1,1,1.727,3.700,4.000,2.5,2.025,1.775
+63145925,2026-04-11 16:00,CD Tenerife C,CD Union Sur Yaiza,1,1,1.615,3.600,4.500,2.5,2.000,1.800
+63145929,2026-04-12 11:00,CD Marino,CD Atletico Paso,0,0,,,,,,
+63145931,2026-04-12 11:00,CD Mensajero,CD San Miguel,1,0,,,,,,
+63145933,2026-04-12 11:00,UD San Fernando,Arucas CF,1,1,1.300,4.200,8.500,2.5,1.875,1.925
+63145935,2026-04-12 11:00,UD Telde,SD Tenisca,2,1,,,,,,
+63145939,2026-04-18 10:00,Real Union de Tenerife Santa Cruz,UD Las Palmas C,0,1,,,,,,
+63145937,2026-04-18 11:00,Arucas CF,San Bartolome CF,0,0,,,,,,
+63145941,2026-04-18 11:00,UD Tamaraceite,CD Herbania,4,1,1.600,3.600,4.750,2.5,1.850,1.950
+63145943,2026-04-18 11:30,UD Villa Santa Brigida,CD Tenerife C,2,2,,,,,,
+63145945,2026-04-18 16:00,CD San Miguel,CD Marino,2,0,,,,,,
+63145947,2026-04-19 11:00,CD Atletico Paso,UD Telde,1,1,,,,,,
+63145949,2026-04-19 11:00,UD Lanzarote,UD San Fernando,1,1,,,,,,
+63145951,2026-04-19 11:00,SD Tenisca,CF Panaderia Pulido,1,1,,,,,,
+63145953,2026-04-19 12:00,CD Union Sur Yaiza,CD Mensajero,1,0,,,,,,
+70510766,2026-04-22 16:30,CD Union Sur Yaiza,Arucas CF,3,0,,,,,,
+70510768,2026-04-22 17:00,CD Herbania,UD Telde,1,1,,,,,,
+70510770,2026-04-22 19:30,UD Las Palmas C,CF Panaderia Pulido,1,0,1.750,3.300,4.200,2.5,1.850,1.950
+63145955,2026-04-25 11:00,CD Herbania,Real Union de Tenerife Santa Cruz,1,0,,,,,,
+63145957,2026-04-25 11:00,CF Panaderia Pulido,CD Atletico Paso,1,1,,,,,,
+63145959,2026-04-25 11:00,UD Tamaraceite,UD Lanzarote,1,1,1.550,3.900,4.750,2.25,1.875,1.925
+63145961,2026-04-25 15:00,UD Las Palmas C,SD Tenisca,2,1,,,,,,
+63145963,2026-04-25 16:00,CD Tenerife C,Arucas CF,1,1,1.700,3.400,4.200,2.5,2.025,1.775
+63145965,2026-04-25 17:00,San Bartolome CF,UD San Fernando,0,0,,,,,,
+63145971,2026-04-26 11:00,UD Telde,CD San Miguel,1,3,,,,,,
+63145967,2026-04-26 11:30,CD Marino,CD Union Sur Yaiza,0,0,,,,,,
+63145969,2026-04-26 11:30,CD Mensajero,UD Villa Santa Brigida,2,0,,,,,,
+63145987,2026-05-01 17:00,UD Villa Santa Brigida,CD Marino,3,0,,,,,,
+63145973,2026-05-03 11:00,Arucas CF,CD Mensajero,0,1,,,,,,
+63145975,2026-05-03 11:00,CD Atletico Paso,UD Las Palmas C,1,0,,,,,,
+63145977,2026-05-03 11:00,Real Union de Tenerife Santa Cruz,UD Tamaraceite,0,1,,,,,,
+63145979,2026-05-03 11:00,San Bartolome CF,UD Lanzarote,1,1,,,,,,
+63145981,2026-05-03 11:00,UD San Fernando,CD Tenerife C,5,0,1.363,4.100,7.000,2.25,1.775,2.025
+63145983,2026-05-03 11:00,CD San Miguel,CF Panaderia Pulido,1,1,2.250,3.250,2.750,2.25,1.900,1.900
+63145985,2026-05-03 11:00,SD Tenisca,CD Herbania,4,0,,,,,,
+63145989,2026-05-03 11:00,CD Union Sur Yaiza,UD Telde,2,1,,,,,,
+63146005,2026-05-08 20:00,UD Telde,UD Villa Santa Brigida,0,3,,,,,,
+63145991,2026-05-10 11:00,CD Marino,Arucas CF,1,2,,,,,,
+63145993,2026-05-10 11:00,CD Herbania,CD Atletico Paso,1,1,,,,,,
+63145995,2026-05-10 11:00,UD Lanzarote,Real Union de Tenerife Santa Cruz,0,0,,,,,,
+63145997,2026-05-10 11:00,UD Las Palmas C,CD San Miguel,0,1,,,,,,
+63145999,2026-05-10 11:00,CD Mensajero,UD San Fernando,1,0,,,,,,
+63146001,2026-05-10 11:00,CF Panaderia Pulido,CD Union Sur Yaiza,0,0,,,,,,
+63146003,2026-05-10 11:00,UD Tamaraceite,SD Tenisca,5,1,,,,,,
+63146007,2026-05-10 11:00,CD Tenerife C,San Bartolome CF,0,1,,,,,,
+71483626,2026-05-16 11:00,UD Tamaraceite,CD Mensajero,2,0,2.300,2.875,3.000,2.25,1.950,1.850
+71483628,2026-05-16 11:30,CF Panaderia Pulido,UD San Fernando,0,0,,,,,,
+71483630,2026-05-24 11:00,UD San Fernando,CF Panaderia Pulido,1,2,1.833,3.300,3.750,2.25,1.825,1.975
+71483632,2026-05-24 11:30,CD Mensajero,UD Tamaraceite,0,0,,,,,,
+71753436,2026-05-30 11:00,UD Tamaraceite,UD San Fernando,3,0,2.700,2.625,2.700,2,2.025,1.775
+71753438,2026-06-07 11:00,UD San Fernando,UD Tamaraceite,1,1,1.900,3.400,3.500,2.25,1.850,1.950
+73585620,2026-09-11 19:00,CD Union Sur Yaiza,San Bartolome CF,0,1,,,,,,
+73585614,2026-09-12 10:00,Real Union de Tenerife Santa Cruz,UD Los Llanos de Aridane,1,0,,,,,,
+73585622,2026-09-12 10:00,Estrella CF,SD Villaverde Norte,3,1,,,,,,
+73585618,2026-09-12 11:00,UD Playas de Sotavento,UD Las Palmas C,0,2,,,,,,
+73585626,2026-09-12 11:00,UD Villa Santa Brigida,UD Anaza,0,0,2.200,2.900,3.250,2.25,1.800,2.000
+73585616,2026-09-12 16:00,CD Laguna Sad,UD San Fernando,0,3,3.600,3.500,1.833,2.25,1.800,2.000
+73585624,2026-09-13 10:30,UD Lanzarote,CD San Miguel,1,1,,,,,,
+73585612,2026-09-13 11:00,CD Marino,CF Panaderia Pulido,1,2,2.300,3.200,2.750,2.25,2.000,1.800
+73585628,2026-09-13 11:00,CD Mensajero,CD Tenerife C,1,0,,,,,,
+73585630,2026-09-18 20:00,CD Marino,Real Union de Tenerife Santa Cruz,3,1,2.375,3.200,2.700,2.25,1.950,1.850
+73585646,2026-09-19 10:00,CF Panaderia Pulido,CD Tenerife C,3,3,1.950,3.250,3.500,2.25,1.875,1.925
+73585640,2026-09-19 11:00,SD Villaverde Norte,UD Lanzarote,1,1,,,,,,
+73585632,2026-09-19 16:00,UD Los Llanos de Aridane,CD Laguna Sad,2,1,,,,,,
+73585636,2026-09-19 16:00,UD Las Palmas C,CD Union Sur Yaiza,4,2,1.615,3.700,4.333,,,
+73585638,2026-09-19 16:00,San Bartolome CF,Estrella CF,4,2,,,,,,
+73585642,2026-09-19 16:00,CD San Miguel,UD Villa Santa Brigida,3,1,2.100,3.100,3.100,,,
+73585644,2026-09-19 16:00,UD Anaza,CD Mensajero,1,0,3.000,3.000,2.250,,,
+73585634,2026-09-20 11:00,UD San Fernando,UD Playas de Sotavento,5,0,1.200,5.750,9.500,2.75,1.875,1.925
+73585664,2026-09-25 19:00,CD Tenerife C,UD Anaza,3,2,1.615,3.400,4.750,2.5,1.825,1.975
+73585656,2026-09-25 20:00,Estrella CF,UD Las Palmas C,1,1,3.600,3.500,1.850,2.5,1.825,1.975
+73585648,2026-09-26 10:00,Real Union de Tenerife Santa Cruz,CF Panaderia Pulido,2,0,2.000,3.250,3.250,2.25,1.775,2.025
+73585654,2026-09-26 11:00,CD Union Sur Yaiza,UD San Fernando,2,0,,,,,,
+73585660,2026-09-26 11:00,UD Villa Santa Brigida,SD Villaverde Norte,2,0,1.650,3.700,4.200,2.5,1.900,1.900
+73585652,2026-09-26 13:00,UD Playas de Sotavento,UD Los Llanos de Aridane,2,2,,,,,,
+73585650,2026-09-26 19:00,CD Laguna Sad,CD Marino,2,2,2.550,3.400,2.350,2.5,1.900,1.900
+73585658,2026-09-27 10:30,UD Lanzarote,San Bartolome CF,1,1,,,,,,
+73585662,2026-09-27 11:00,CD Mensajero,CD San Miguel,1,0,,,,,,
+73585676,2026-10-02 20:00,Real Union de Tenerife Santa Cruz,CD Laguna Sad,1,0,1.615,3.800,4.333,2.75,1.900,1.900
+73585674,2026-10-03 11:00,CF Panaderia Pulido,UD Anaza,5,2,2.100,3.400,2.875,2.5,1.950,1.850
+73585670,2026-10-03 15:15,SD Villaverde Norte,CD Mensajero,1,2,,,,,,
+73585666,2026-10-03 16:00,UD Las Palmas C,UD Lanzarote,1,2,1.800,3.500,3.600,2.5,1.850,1.950
+73585668,2026-10-03 16:00,San Bartolome CF,UD Villa Santa Brigida,1,1,,,,,,
+73585672,2026-10-03 16:00,CD San Miguel,CD Tenerife C,2,0,2.150,3.200,2.900,2.5,1.950,1.850
+73585680,2026-10-03 16:00,UD Los Llanos de Aridane,CD Union Sur Yaiza,1,0,,,,,,
+73585678,2026-10-04 11:00,CD Marino,UD Playas de Sotavento,6,1,1.800,3.500,3.700,2.5,1.975,1.825
+73585682,2026-10-04 11:00,UD San Fernando,Estrella CF,3,0,,,,,,
+73585694,2026-10-09 20:00,UD Villa Santa Brigida,UD Las Palmas C,1,1,2.875,3.500,2.050,2.75,1.900,1.900
+73585700,2026-10-09 20:00,UD Anaza,CD San Miguel,0,2,3.300,3.400,1.909,2.5,1.975,1.825
+73585690,2026-10-10 10:00,Estrella CF,UD Los Llanos de Aridane,1,0,2.000,3.250,3.250,2.5,2.025,1.775
+73585688,2026-10-10 11:00,CD Union Sur Yaiza,CD Marino,2,1,,,,,,
+73585686,2026-10-10 12:00,UD Playas de Sotavento,Real Union de Tenerife Santa Cruz,0,3,,,,,,
+73585698,2026-10-10 14:30,CD Tenerife C,SD Villaverde Norte,4,1,,,,,,
+73585684,2026-10-10 16:00,CD Laguna Sad,CF Panaderia Pulido,3,4,,,,,,
+73585692,2026-10-11 10:00,UD Lanzarote,UD San Fernando,0,1,,,,,,
+73585696,2026-10-11 11:00,CD Mensajero,San Bartolome CF,2,2,,,,,,
+73585704,2026-10-17 10:00,Real Union de Tenerife Santa Cruz,CD Union Sur Yaiza,1,1,,,,,,
+73585702,2026-10-17 11:00,CD Laguna Sad,UD Playas de Sotavento,1,1,,,,,,
+73585708,2026-10-17 11:00,UD Los Llanos de Aridane,UD Lanzarote,3,0,,,,,,
+73585718,2026-10-17 11:00,CF Panaderia Pulido,CD San Miguel,4,1,2.050,3.300,3.100,2.5,1.950,1.850
+73585710,2026-10-17 16:00,UD San Fernando,UD Villa Santa Brigida,4,0,,,,,,
+73585714,2026-10-17 16:00,San Bartolome CF,CD Tenerife C,2,4,,,,,,
+73585716,2026-10-17 16:00,SD Villaverde Norte,UD Anaza,1,1,,,,,,
+73585712,2026-10-17 16:30,UD Las Palmas C,CD Mensajero,2,2,1.900,3.300,3.400,2.5,1.875,1.925
+73585706,2026-10-18 11:00,CD Marino,Estrella CF,1,0,1.571,3.700,4.750,2.5,1.875,1.925
+74316846,2026-10-21 15:00,San Bartolome CF,UD Playas de Sotavento,1,1,,,,,,
+74316868,2026-10-21 15:00,SD Villaverde Norte,CD Union Sur Yaiza,0,1,,,,,,
+74316848,2026-10-21 16:00,CD Tenerife C,UD Villa Santa Brigida,2,1,1.850,3.400,3.600,2.5,1.950,1.850
+74316852,2026-10-21 16:00,CD San Miguel,Estrella CF,3,0,1.600,3.700,4.750,2.75,2.000,1.800
+74316844,2026-10-21 16:30,CF Panaderia Pulido,CD Mensajero,5,0,2.350,3.200,2.700,2.25,1.800,2.000
+74316858,2026-10-21 16:30,UD Las Palmas C,CD Laguna Sad,3,0,1.250,5.250,9.000,2.75,1.825,1.975
+74316850,2026-10-21 17:00,UD Los Llanos de Aridane,CD Marino,1,2,,,,,,
+74316872,2026-10-21 17:00,UD San Fernando,Real Union de Tenerife Santa Cruz,3,2,,,,,,
+74316864,2026-10-21 17:30,UD Anaza,UD Lanzarote,1,1,,,,,,
+73585724,2026-10-24 10:00,Estrella CF,Real Union de Tenerife Santa Cruz,0,1,,,,,,
+73585720,2026-10-24 11:00,UD Playas de Sotavento,CF Panaderia Pulido,1,1,,,,,,
+73585722,2026-10-24 11:00,CD Union Sur Yaiza,CD Laguna Sad,3,1,,,,,,
+73585728,2026-10-24 11:00,UD Villa Santa Brigida,UD Los Llanos de Aridane,1,0,,,,,,
+73585736,2026-10-24 14:30,CD San Miguel,SD Villaverde Norte,5,0,1.333,4.200,7.000,2.25,1.825,1.975
+73585732,2026-10-24 15:00,CD Tenerife C,UD Las Palmas C,1,1,2.900,3.400,2.100,2.5,1.825,1.975
+73585734,2026-10-24 16:00,UD Anaza,San Bartolome CF,2,1,,,,,,
+73585726,2026-10-25 11:30,UD Lanzarote,CD Marino,1,0,,,,,,
+73585730,2026-10-25 12:30,CD Mensajero,UD San Fernando,2,2,,,,,,
+73585742,2026-10-31 11:00,Real Union de Tenerife Santa Cruz,UD Lanzarote,1,1,1.800,3.500,3.600,2.75,1.950,1.850
+73585738,2026-10-31 12:00,UD Playas de Sotavento,CD Union Sur Yaiza,0,2,,,,,,
+73585754,2026-10-31 12:00,CF Panaderia Pulido,SD Villaverde Norte,5,0,1.222,5.250,9.000,3.25,2.000,1.800
+73585740,2026-10-31 17:00,CD Laguna Sad,Estrella CF,0,3,,,,,,
+73585746,2026-10-31 17:00,UD Los Llanos de Aridane,CD Mensajero,3,1,,,,,,
+73585750,2026-10-31 17:00,UD Las Palmas C,UD Anaza,3,0,1.363,4.333,6.500,3,1.900,1.900
+73585752,2026-10-31 17:00,San Bartolome CF,CD San Miguel,0,1,,,,,,
+73585744,2026-11-01 12:00,CD Marino,UD Villa Santa Brigida,1,1,1.800,3.500,3.600,2.5,1.900,1.900
+73585748,2026-11-01 12:00,UD San Fernando,CD Tenerife C,2,0,,,,,,
+73585758,2026-11-07 11:00,Estrella CF,UD Playas de Sotavento,2,1,,,,,,
+73585756,2026-11-07 12:00,CD Union Sur Yaiza,CF Panaderia Pulido,1,2,,,,,,
+73585762,2026-11-07 12:00,UD Villa Santa Brigida,Real Union de Tenerife Santa Cruz,1,2,2.250,3.100,2.800,2.25,1.900,1.900
+73585772,2026-11-07 12:00,SD Villaverde Norte,San Bartolome CF,2,0,,,,,,
+73585768,2026-11-07 17:00,UD Anaza,UD San Fernando,1,2,,,,,,
+73585770,2026-11-07 17:00,CD San Miguel,UD Las Palmas C,3,2,2.450,3.300,2.450,2.5,1.900,1.900
+73585760,2026-11-08 11:30,UD Lanzarote,CD Laguna Sad,2,2,,,,,,
+73585764,2026-11-08 12:00,CD Mensajero,CD Marino,1,1,,,,,,

@@ -1,285 +1,285 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-63149129,2025-12-13 15:00,Andorra CF,CD La Almunia,0,3,2.550,3.000,2.550
-63149131,2025-12-13 16:00,CF Atletico de Monzon,CD Binefar,4,0,,,
-63149139,2025-12-14 10:30,SD Huesca B,Robres CD,3,1,,,
-63149137,2025-12-14 11:00,CD Carinena,Illueca CF,3,3,,,
-63149135,2025-12-14 14:30,CF Calamocha,CD Cuarte,1,1,,,
-63149127,2025-12-14 15:00,AD Almudevar,CD Caspe,1,0,,,
-63149133,2025-12-14 15:00,CD Belchite 97,CF Epila,0,2,3.300,3.000,2.100
-63149141,2025-12-14 15:00,CDJ Tamarite,Casetas,3,1,,,
-63149143,2025-12-14 15:15,CD Utrillas,CD Zuera,0,0,,,
-63149159,2025-12-20 14:45,Robres CD,CF Epila,0,2,,,
-63149147,2025-12-20 16:30,CD Caspe,CF Atletico de Monzon,3,1,3.250,2.900,2.150
-63149155,2025-12-21 10:30,SD Huesca B,CF Calamocha,0,2,,,
-63149145,2025-12-21 11:00,CD Binefar,CDJ Tamarite,1,2,,,
-63149151,2025-12-21 11:00,CD Cuarte,CD Carinena,3,1,,,
-63149161,2025-12-21 11:00,Casetas,CD Utrillas,0,0,,,
-63149163,2025-12-21 14:30,CD Zuera,Andorra CF,2,1,,,
-63149149,2025-12-21 15:00,Illueca CF,AD Almudevar,0,1,,,
-63149157,2025-12-21 15:00,CD La Almunia,CD Belchite 97,0,3,1.727,3.500,3.900
-63149177,2026-01-03 14:45,Robres CD,CF Calamocha,0,1,2.750,3.000,2.450
-63149171,2026-01-03 15:00,CD Belchite 97,CD Zuera,1,1,2.250,3.000,3.000
-63149169,2026-01-04 11:00,CF Atletico de Monzon,Illueca CF,3,1,,,
-63149179,2026-01-04 11:00,CDJ Tamarite,CD Caspe,3,0,,,
-63149173,2026-01-04 14:30,CD Carinena,SD Huesca B,0,1,,,
-63149165,2026-01-04 15:00,AD Almudevar,CD Cuarte,0,2,3.200,2.750,2.350
-63149175,2026-01-04 15:00,CF Epila,CD La Almunia,1,0,,,
-63149167,2026-01-04 15:30,Andorra CF,Casetas,2,1,,,
-63149181,2026-01-04 15:30,CD Utrillas,CD Binefar,2,1,2.750,2.875,2.500
-63149195,2026-01-10 15:30,CD La Almunia,Robres CD,0,0,,,
-63149189,2026-01-11 11:00,Illueca CF,CDJ Tamarite,1,3,,,
-63149191,2026-01-11 11:00,CD Cuarte,CF Atletico de Monzon,2,0,2.250,3.100,2.900
-63149197,2026-01-11 11:00,Casetas,CD Belchite 97,1,1,,,
-63149183,2026-01-11 11:15,CD Binefar,Andorra CF,1,2,2.050,3.100,3.300
-63149199,2026-01-11 14:30,CD Zuera,CF Epila,1,2,4.500,3.200,1.727
-63149193,2026-01-11 14:45,SD Huesca B,AD Almudevar,0,1,,,
-63149185,2026-01-11 15:00,CF Calamocha,CD Carinena,3,1,,,
-63149187,2026-01-11 15:30,CD Caspe,CD Utrillas,1,1,1.800,3.000,4.333
-63149211,2026-01-17 19:30,CD Cuarte,CDJ Tamarite,1,0,1.650,3.250,5.250
-63149201,2026-01-18 11:00,CD Binefar,CD Belchite 97,0,0,,,
-63149205,2026-01-18 11:00,CD Carinena,Robres CD,2,0,,,
-63149215,2026-01-18 11:00,Casetas,CF Epila,0,2,5.250,3.600,1.550
-63149217,2026-01-18 11:00,CD Zuera,CD La Almunia,0,1,,,
-63149213,2026-01-18 14:30,SD Huesca B,CF Atletico de Monzon,0,1,2.500,3.100,2.600
-63149203,2026-01-18 15:00,CF Calamocha,AD Almudevar,1,0,1.666,3.400,4.500
-63149209,2026-01-18 15:15,Illueca CF,CD Utrillas,0,2,,,
-63149207,2026-01-18 15:30,CD Caspe,Andorra CF,2,0,,,
-63149231,2026-01-24 15:00,Robres CD,CD Zuera,1,1,,,
-63149219,2026-01-25 11:00,AD Almudevar,CD Carinena,2,0,,,
-63149223,2026-01-25 11:00,CF Atletico de Monzon,CF Calamocha,2,0,,,
-63149225,2026-01-25 15:00,CD Belchite 97,CD Caspe,1,1,,,
-63149229,2026-01-25 15:00,CD La Almunia,Casetas,2,2,,,
-63149233,2026-01-25 15:00,CDJ Tamarite,SD Huesca B,1,3,,,
-63149221,2026-01-25 15:30,Andorra CF,Illueca CF,1,1,,,
-63149227,2026-01-25 15:30,CF Epila,CD Binefar,1,0,,,
-63149235,2026-01-25 15:30,CD Utrillas,CD Cuarte,0,2,3.900,3.000,1.850
-63149237,2026-01-31 15:00,AD Almudevar,Robres CD,0,1,,,
-63149241,2026-02-01 11:00,CF Calamocha,CDJ Tamarite,2,1,,,
-63149249,2026-02-01 11:00,CD Cuarte,Andorra CF,2,1,,,
-63149253,2026-02-01 11:00,Casetas,CD Zuera,1,0,,,
-63149239,2026-02-01 11:15,CD Binefar,CD La Almunia,4,0,,,
-63149251,2026-02-01 15:00,SD Huesca B,CD Utrillas,3,0,,,
-63149247,2026-02-01 15:15,Illueca CF,CD Belchite 97,0,1,,,
-63149243,2026-02-01 15:30,CD Carinena,CF Atletico de Monzon,2,3,,,
-63149245,2026-02-01 15:30,CD Caspe,CF Epila,2,1,2.300,2.700,3.250
-63149265,2026-02-07 15:00,Robres CD,Casetas,0,2,,,
-63149263,2026-02-07 15:30,CD La Almunia,CD Caspe,2,0,,,
-63149269,2026-02-07 16:30,CD Utrillas,CF Calamocha,0,1,4.500,3.300,1.727
-63149257,2026-02-08 11:00,CF Atletico de Monzon,AD Almudevar,2,2,,,
-63149259,2026-02-08 15:00,CD Belchite 97,CD Cuarte,0,1,4.500,3.250,1.700
-63149267,2026-02-08 15:00,CDJ Tamarite,CD Carinena,1,1,,,
-63149271,2026-02-08 15:00,CD Zuera,CD Binefar,0,1,,,
-63149255,2026-02-08 15:30,Andorra CF,SD Huesca B,0,1,,,
-63149261,2026-02-08 15:30,CF Epila,Illueca CF,2,1,1.615,3.250,5.250
-63149287,2026-02-14 19:30,CD Cuarte,CF Epila,3,0,1.750,3.000,5.000
-63149273,2026-02-15 11:00,AD Almudevar,CDJ Tamarite,1,1,,,
-63149289,2026-02-15 11:00,SD Huesca B,CD Belchite 97,4,1,,,
-63149277,2026-02-15 11:15,CD Binefar,Casetas,2,2,,,
-63149281,2026-02-15 15:00,CD Carinena,CD Utrillas,2,0,,,
-63149275,2026-02-15 15:30,CF Atletico de Monzon,Robres CD,3,2,,,
-63149279,2026-02-15 15:30,CF Calamocha,Andorra CF,2,0,,,
-63149283,2026-02-15 15:30,CD Caspe,CD Zuera,2,0,1.363,4.000,7.500
-63149285,2026-02-15 16:00,Illueca CF,CD La Almunia,1,1,,,
-63149299,2026-02-21 15:00,Robres CD,CD Binefar,3,3,,,
-63149307,2026-02-21 15:00,CD Zuera,Illueca CF,1,2,2.550,3.200,2.450
-63149293,2026-02-21 15:30,CD Belchite 97,CF Calamocha,0,0,4.000,3.100,1.833
-63149303,2026-02-22 11:00,Casetas,CD Caspe,0,2,,,
-63149291,2026-02-22 15:30,Andorra CF,CD Carinena,2,1,,,
-63149295,2026-02-22 15:30,CF Epila,SD Huesca B,1,0,2.300,3.000,2.900
-63149297,2026-02-22 15:30,CD La Almunia,CD Cuarte,0,0,,,
-63149301,2026-02-22 15:30,CDJ Tamarite,CF Atletico de Monzon,1,2,,,
-63149305,2026-02-22 15:30,CD Utrillas,AD Almudevar,2,2,2.625,3.000,2.500
-63149321,2026-02-28 19:30,CD Cuarte,CD Zuera,1,0,1.142,6.250,19.000
-63149323,2026-03-01 10:30,SD Huesca B,CD La Almunia,1,1,,,
-63149315,2026-03-01 15:00,CD Carinena,CD Belchite 97,1,2,,,
-63149309,2026-03-01 15:30,AD Almudevar,Andorra CF,1,0,2.100,2.900,3.400
-63149311,2026-03-01 15:30,CF Atletico de Monzon,CD Utrillas,4,0,,,
-63149313,2026-03-01 15:30,CF Calamocha,CF Epila,0,0,2.150,2.750,3.500
-63149317,2026-03-01 15:30,CD Caspe,CD Binefar,1,1,,,
-63149319,2026-03-01 15:30,Illueca CF,Casetas,3,1,,,
-63149325,2026-03-01 15:30,CDJ Tamarite,Robres CD,1,1,,,
-63149339,2026-03-05 16:00,Casetas,CD Cuarte,2,3,6.500,3.600,1.480
-63149337,2026-03-07 15:00,Robres CD,CD Caspe,0,2,,,
-63149331,2026-03-08 11:15,CD Binefar,Illueca CF,4,0,,,
-63149327,2026-03-08 15:30,Andorra CF,CF Atletico de Monzon,2,1,,,
-63149329,2026-03-08 15:30,CD Belchite 97,AD Almudevar,0,1,,,
-63149343,2026-03-08 15:30,CD Zuera,SD Huesca B,0,1,,,
-63149333,2026-03-08 16:00,CF Epila,CD Carinena,2,2,1.700,3.300,4.500
-63149335,2026-03-08 16:00,CD La Almunia,CF Calamocha,1,2,,,
-63149341,2026-03-08 16:00,CD Utrillas,CDJ Tamarite,2,3,2.900,2.875,2.375
-63149353,2026-03-14 16:00,Illueca CF,CD Caspe,0,0,,,
-63149361,2026-03-14 16:30,CD Utrillas,Robres CD,4,2,3.000,3.250,2.150
-63149355,2026-03-14 19:30,CD Cuarte,CD Binefar,1,1,1.420,3.750,7.000
-63149345,2026-03-15 15:30,AD Almudevar,CF Epila,1,1,,,
-63149349,2026-03-15 15:30,CF Calamocha,CD Zuera,3,0,1.250,4.750,11.000
-63149351,2026-03-15 15:30,CD Carinena,CD La Almunia,0,0,,,
-63149357,2026-03-15 15:30,SD Huesca B,Casetas,2,1,1.400,3.900,7.000
-63149359,2026-03-15 15:30,CDJ Tamarite,Andorra CF,1,0,,,
-63149347,2026-03-15 16:00,CF Atletico de Monzon,CD Belchite 97,3,0,,,
-63149373,2026-03-21 16:00,CD La Almunia,AD Almudevar,3,0,,,
-63149371,2026-03-21 17:45,CF Epila,CF Atletico de Monzon,2,0,,,
-63149375,2026-03-22 11:00,Robres CD,Illueca CF,2,3,,,
-63149377,2026-03-22 11:00,Casetas,CF Calamocha,0,2,,,
-63149379,2026-03-22 15:15,CD Zuera,CD Carinena,2,1,,,
-63149365,2026-03-22 15:30,CD Belchite 97,CDJ Tamarite,1,1,,,
-63149369,2026-03-22 15:30,CD Caspe,CD Cuarte,1,1,,,
-63149363,2026-03-22 16:00,Andorra CF,CD Utrillas,0,3,1.850,3.200,3.900
-63149367,2026-03-22 16:00,CD Binefar,SD Huesca B,3,0,,,
-63149383,2026-03-28 15:00,Andorra CF,Robres CD,2,3,2.875,3.100,2.300
-63149395,2026-03-28 17:30,CDJ Tamarite,CF Epila,0,2,2.875,3.000,2.300
-63149393,2026-03-29 09:30,SD Huesca B,CD Caspe,4,1,,,
-63149385,2026-03-29 10:00,CF Atletico de Monzon,CD La Almunia,2,1,,,
-63149387,2026-03-29 10:00,CF Calamocha,CD Binefar,1,2,,,
-63149389,2026-03-29 14:30,CD Carinena,Casetas,0,0,,,
-63149381,2026-03-29 15:00,AD Almudevar,CD Zuera,3,0,,,
-63149397,2026-03-29 15:30,CD Utrillas,CD Belchite 97,0,2,2.350,3.000,2.800
-63149391,2026-03-29 15:45,CD Cuarte,Illueca CF,0,0,,,
-63149417,2026-04-01 18:15,CD Zuera,CF Atletico de Monzon,0,0,,,
-63149407,2026-04-02 10:00,CF Epila,CD Utrillas,1,0,,,
-63149413,2026-04-02 10:00,Robres CD,CD Cuarte,1,2,,,
-63149405,2026-04-02 14:45,Illueca CF,SD Huesca B,0,0,,,
-63149403,2026-04-02 15:30,CD Caspe,CF Calamocha,0,0,,,
-63149415,2026-04-02 16:30,Casetas,AD Almudevar,3,1,,,
-63149401,2026-04-03 10:00,CD Binefar,CD Carinena,4,2,,,
-63149399,2026-04-03 15:30,CD Belchite 97,Andorra CF,2,1,2.250,2.875,3.100
-63149409,2026-04-05 16:00,CD La Almunia,CDJ Tamarite,1,1,,,
-63149425,2026-04-11 15:30,CD Belchite 97,Robres CD,1,2,,,
-63149431,2026-04-12 09:30,SD Huesca B,CD Cuarte,1,1,,,
-63149429,2026-04-12 14:30,CD Carinena,CD Caspe,2,2,,,
-63149421,2026-04-12 15:00,Andorra CF,CF Epila,0,2,,,
-63149423,2026-04-12 15:00,CF Atletico de Monzon,Casetas,7,2,,,
-63149427,2026-04-12 15:00,CF Calamocha,Illueca CF,1,0,,,
-63149433,2026-04-12 15:30,CDJ Tamarite,CD Zuera,1,1,,,
-63149435,2026-04-12 15:30,CD Utrillas,CD La Almunia,3,3,,,
-63149419,2026-04-12 16:30,AD Almudevar,CD Binefar,1,0,,,
-63149443,2026-04-19 10:00,CD Cuarte,CF Calamocha,0,0,2.050,3.000,3.600
-63149451,2026-04-19 10:00,Casetas,CDJ Tamarite,5,1,,,
-63149441,2026-04-19 15:00,Illueca CF,CD Carinena,1,1,,,
-63149445,2026-04-19 15:00,CF Epila,CD Belchite 97,3,0,1.615,3.300,5.250
-63149449,2026-04-19 15:00,Robres CD,SD Huesca B,1,1,,,
-63149453,2026-04-19 15:00,CD Zuera,CD Utrillas,0,2,,,
-63149437,2026-04-19 15:30,CD Binefar,CF Atletico de Monzon,1,2,,,
-63149439,2026-04-19 15:30,CD Caspe,AD Almudevar,2,0,,,
-63149447,2026-04-19 16:00,CD La Almunia,Andorra CF,0,1,,,
-63149455,2026-04-23 16:00,AD Almudevar,Illueca CF,0,1,2.200,3.100,3.000
-63149467,2026-04-26 10:00,CF Epila,Robres CD,0,0,,,
-63149457,2026-04-26 15:00,Andorra CF,CD Zuera,0,0,,,
-63149459,2026-04-26 15:00,CF Atletico de Monzon,CD Caspe,0,0,,,
-63149461,2026-04-26 15:00,CD Belchite 97,CD La Almunia,0,0,,,
-63149463,2026-04-26 15:00,CF Calamocha,SD Huesca B,0,0,,,
-63149465,2026-04-26 16:00,CD Carinena,CD Cuarte,0,0,,,
-63149469,2026-04-26 16:00,CDJ Tamarite,CD Binefar,0,0,,,
-63149471,2026-04-26 16:00,CD Utrillas,Casetas,3,3,1.850,3.250,3.700
-63149473,2026-05-03 15:30,CD Binefar,CD Utrillas,5,0,,,
-63149475,2026-05-03 15:30,CF Calamocha,Robres CD,0,0,,,
-63149477,2026-05-03 15:30,CD Caspe,CDJ Tamarite,0,0,,,
-63149479,2026-05-03 15:30,Illueca CF,CF Atletico de Monzon,0,0,,,
-63149481,2026-05-03 15:30,CD Cuarte,AD Almudevar,0,0,,,
-63149483,2026-05-03 15:30,SD Huesca B,CD Carinena,0,0,,,
-63149489,2026-05-03 15:30,CD La Almunia,CF Epila,0,0,,,
-63149491,2026-05-03 15:30,Casetas,Andorra CF,0,0,,,
-63149493,2026-05-03 15:30,CD Zuera,CD Belchite 97,0,0,,,
-63149497,2026-05-09 15:30,Andorra CF,CD Binefar,0,0,,,
-63149507,2026-05-09 16:30,Robres CD,CD La Almunia,0,0,,,
-63149495,2026-05-10 15:30,AD Almudevar,SD Huesca B,0,0,,,
-63149499,2026-05-10 15:30,CF Atletico de Monzon,CD Cuarte,1,1,2.150,3.100,3.100
-63149501,2026-05-10 15:30,CD Belchite 97,Casetas,0,0,,,
-63149503,2026-05-10 15:30,CD Carinena,CF Calamocha,0,0,,,
-63149505,2026-05-10 15:30,CF Epila,CD Zuera,0,0,,,
-63149509,2026-05-10 15:30,CDJ Tamarite,Illueca CF,0,1,,,
-63149511,2026-05-10 15:30,CD Utrillas,CD Caspe,1,2,2.900,3.400,2.100
-71483864,2026-05-16 16:00,CF Epila,CF Atletico de Monzon,0,1,2.550,3.000,2.550
-71483866,2026-05-17 16:00,CD Caspe,CD Cuarte,1,1,3.100,2.450,2.350
-71483868,2026-05-24 10:00,CD Cuarte,CD Caspe,2,1,2.050,2.900,3.400
-71483870,2026-05-24 16:30,CF Atletico de Monzon,CF Epila,1,0,,,
-71753532,2026-05-30 18:30,CF Atletico de Monzon,CD Cuarte,0,2,,,
-71753534,2026-06-07 18:00,CD Cuarte,CF Atletico de Monzon,0,1,,,
-73562028,2026-09-05 15:00,Robres CD,UD Fraga,1,2,,,
-73562034,2026-09-05 17:30,CDJ Tamarite,Real Zaragoza Deportivo Aragon,1,2,3.300,3.100,2.050
-73562038,2026-09-06 10:00,Internacional Huesca,CF Epila,0,2,,,
-73562040,2026-09-06 15:30,Illueca CF,CD Cuarte,0,2,,,
-73562042,2026-09-06 15:30,CD Belchite 97,CD Brea,1,1,,,
-73562044,2026-09-06 16:00,AD Almudevar,SD Ejea,1,0,,,
-73562032,2026-09-06 16:30,CD La Almunia,SD Huesca B,2,2,,,
-73562030,2026-09-06 17:00,CD Caspe,CF Atletico de Monzon,3,0,,,
-73562036,2026-09-06 17:00,Andorra CF,CD Binefar,2,4,,,
-73562056,2026-09-12 16:00,CF Epila,Andorra CF,0,0,,,
-73562060,2026-09-12 16:30,CD Brea,Illueca CF,3,0,,,
-73562052,2026-09-13 10:00,Real Zaragoza Deportivo Aragon,CD La Almunia,2,0,,,
-73562058,2026-09-13 10:00,CD Cuarte,Internacional Huesca,5,2,,,
-73562062,2026-09-13 10:00,SD Ejea,CD Belchite 97,2,1,,,
-73562054,2026-09-13 15:00,CD Binefar,CDJ Tamarite,2,3,,,
-73562046,2026-09-13 16:00,UD Fraga,AD Almudevar,3,1,,,
-73562050,2026-09-13 16:00,SD Huesca B,CD Caspe,1,0,,,
-73562048,2026-09-13 17:00,CF Atletico de Monzon,Robres CD,4,3,1.400,3.800,7.500
-73562066,2026-09-19 14:30,Robres CD,SD Huesca B,1,1,,,
-73562070,2026-09-19 15:00,CD La Almunia,CD Binefar,2,1,,,
-73562072,2026-09-20 10:00,CDJ Tamarite,CF Epila,1,2,,,
-73562076,2026-09-20 10:00,Internacional Huesca,CD Brea,1,1,,,
-73562080,2026-09-20 15:00,AD Almudevar,CD Belchite 97,4,0,,,
-73562078,2026-09-20 15:15,Illueca CF,SD Ejea,0,2,,,
-73562068,2026-09-20 16:00,CD Caspe,Real Zaragoza Deportivo Aragon,1,1,,,
-73562074,2026-09-20 16:00,Andorra CF,CD Cuarte,1,0,,,
-73562084,2026-09-26 10:15,SD Huesca B,UD Fraga,0,0,2.000,3.250,3.300
-73562082,2026-09-26 17:00,CF Atletico de Monzon,AD Almudevar,2,1,,,
-73562086,2026-09-27 10:00,Real Zaragoza Deportivo Aragon,Robres CD,4,0,,,
-73562096,2026-09-27 10:00,SD Ejea,Internacional Huesca,2,1,,,
-73562088,2026-09-27 15:00,CD Binefar,CD Caspe,2,2,,,
-73562098,2026-09-27 15:00,CD Belchite 97,Illueca CF,0,3,,,
-73562398,2026-09-27 15:00,CDJ Tamarite,CD Cuarte,2,1,,,
-73562090,2026-09-27 15:30,CF Epila,CD La Almunia,1,3,,,
-73562094,2026-09-27 15:30,CD Brea,Andorra CF,3,0,,,
-73562114,2026-10-03 14:30,Robres CD,CD Binefar,1,2,,,
-73562106,2026-10-04 10:00,Internacional Huesca,CD Belchite 97,3,0,,,
-73562416,2026-10-04 14:30,CD Brea,CDJ Tamarite,1,0,,,
-73562100,2026-10-04 15:00,CD La Almunia,CD Cuarte,1,3,3.100,3.100,2.100
-73562104,2026-10-04 15:00,Andorra CF,SD Ejea,1,3,,,
-73562108,2026-10-04 15:00,AD Almudevar,Illueca CF,0,1,,,
-73562110,2026-10-04 15:30,CF Atletico de Monzon,SD Huesca B,2,0,,,
-73562112,2026-10-04 15:30,UD Fraga,Real Zaragoza Deportivo Aragon,1,2,,,
-73562116,2026-10-04 15:30,CD Caspe,CF Epila,3,2,,,
-73562124,2026-10-10 10:00,CF Epila,Robres CD,0,0,,,
-73562126,2026-10-10 10:00,CD Cuarte,CD Caspe,2,2,1.750,3.200,4.200
-73562118,2026-10-10 14:00,SD Huesca B,AD Almudevar,0,0,,,
-73562128,2026-10-10 14:00,CD Brea,CD La Almunia,1,0,,,
-73562132,2026-10-10 14:30,CD Belchite 97,Andorra CF,0,0,,,
-73562134,2026-10-10 14:30,Illueca CF,Internacional Huesca,0,0,,,
-73562130,2026-10-10 16:00,SD Ejea,CDJ Tamarite,5,3,,,
-73562428,2026-10-10 16:00,UD Fraga,CD Binefar,2,0,,,
-73562120,2026-10-11 10:00,Real Zaragoza Deportivo Aragon,CF Atletico de Monzon,3,0,1.666,3.750,4.000
-73562152,2026-10-17 14:30,AD Almudevar,Internacional Huesca,0,0,,,
-73562136,2026-10-18 10:00,SD Huesca B,Real Zaragoza Deportivo Aragon,2,0,,,
-73562142,2026-10-18 14:30,Robres CD,CD Cuarte,2,2,,,
-73562146,2026-10-18 14:30,CD La Almunia,SD Ejea,2,0,,,
-73562148,2026-10-18 14:30,CDJ Tamarite,CD Belchite 97,3,1,1.700,3.400,4.333
-73562150,2026-10-18 15:00,Andorra CF,Illueca CF,3,1,,,
-73562138,2026-10-18 15:30,CF Atletico de Monzon,CD Binefar,1,3,,,
-73562140,2026-10-18 15:30,UD Fraga,CF Epila,0,0,,,
-73562144,2026-10-18 15:30,CD Caspe,CD Brea,2,1,,,
-73562168,2026-10-24 14:00,Illueca CF,CDJ Tamarite,4,0,,,
-73562166,2026-10-24 14:30,CD Belchite 97,CD La Almunia,0,2,,,
-73562154,2026-10-24 15:00,Real Zaragoza Deportivo Aragon,AD Almudevar,4,0,,,
-73562160,2026-10-24 15:00,CD Cuarte,UD Fraga,2,0,,,
-73562158,2026-10-24 15:30,CF Epila,CF Atletico de Monzon,2,2,,,
-73562170,2026-10-25 11:00,Internacional Huesca,Andorra CF,2,2,,,
-73562164,2026-10-25 15:00,SD Ejea,CD Caspe,0,0,,,
-73562156,2026-10-25 15:30,CD Binefar,SD Huesca B,1,1,2.250,3.100,2.875
-73562162,2026-10-25 15:30,CD Brea,Robres CD,0,0,,,
-73562184,2026-10-31 15:00,CD La Almunia,Illueca CF,2,0,,,
-73562186,2026-10-31 15:00,CDJ Tamarite,Internacional Huesca,1,3,,,
-73562178,2026-10-31 15:30,UD Fraga,CD Brea,0,2,2.250,3.200,2.800
-73562172,2026-11-01 11:00,Real Zaragoza Deportivo Aragon,CD Binefar,3,3,1.333,4.750,7.000
-73562174,2026-11-01 11:00,SD Huesca B,CF Epila,2,0,,,
-73562180,2026-11-01 14:30,Robres CD,SD Ejea,1,1,,,
-73562188,2026-11-01 15:00,AD Almudevar,Andorra CF,2,0,,,
-73562176,2026-11-01 15:30,CF Atletico de Monzon,CD Cuarte,2,2,2.700,3.100,2.375
-73562182,2026-11-01 15:30,CD Caspe,CD Belchite 97,2,2,,,
-73562192,2026-11-08 11:00,Internacional Huesca,CD La Almunia,3,1,,,
-73562200,2026-11-08 11:00,CD Cuarte,SD Huesca B,1,0,1.850,3.250,3.600
-73562204,2026-11-08 11:00,SD Ejea,UD Fraga,2,1,,,
-73562196,2026-11-08 11:15,CD Binefar,AD Almudevar,0,0,1.800,3.250,3.800
-73562202,2026-11-08 15:00,CD Brea,CF Atletico de Monzon,0,1,,,
-73562206,2026-11-08 15:00,CD Belchite 97,Robres CD,1,1,2.450,3.200,2.550
-73562190,2026-11-08 15:15,Illueca CF,CD Caspe,2,2,,,
-73562194,2026-11-08 15:30,Andorra CF,CDJ Tamarite,2,1,,,
-73562198,2026-11-08 15:30,CF Epila,Real Zaragoza Deportivo Aragon,0,1,3.600,3.400,1.800
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+63149129,2025-12-13 15:00,Andorra CF,CD La Almunia,0,3,2.550,3.000,2.550,2,1.950,1.850
+63149131,2025-12-13 16:00,CF Atletico de Monzon,CD Binefar,4,0,,,,,,
+63149139,2025-12-14 10:30,SD Huesca B,Robres CD,3,1,,,,,,
+63149137,2025-12-14 11:00,CD Carinena,Illueca CF,3,3,,,,,,
+63149135,2025-12-14 14:30,CF Calamocha,CD Cuarte,1,1,,,,,,
+63149127,2025-12-14 15:00,AD Almudevar,CD Caspe,1,0,,,,,,
+63149133,2025-12-14 15:00,CD Belchite 97,CF Epila,0,2,3.300,3.000,2.100,2,1.975,1.825
+63149141,2025-12-14 15:00,CDJ Tamarite,Casetas,3,1,,,,,,
+63149143,2025-12-14 15:15,CD Utrillas,CD Zuera,0,0,,,,,,
+63149159,2025-12-20 14:45,Robres CD,CF Epila,0,2,,,,,,
+63149147,2025-12-20 16:30,CD Caspe,CF Atletico de Monzon,3,1,3.250,2.900,2.150,1.75,1.775,2.025
+63149155,2025-12-21 10:30,SD Huesca B,CF Calamocha,0,2,,,,,,
+63149145,2025-12-21 11:00,CD Binefar,CDJ Tamarite,1,2,,,,,,
+63149151,2025-12-21 11:00,CD Cuarte,CD Carinena,3,1,,,,,,
+63149161,2025-12-21 11:00,Casetas,CD Utrillas,0,0,,,,,,
+63149163,2025-12-21 14:30,CD Zuera,Andorra CF,2,1,,,,,,
+63149149,2025-12-21 15:00,Illueca CF,AD Almudevar,0,1,,,,,,
+63149157,2025-12-21 15:00,CD La Almunia,CD Belchite 97,0,3,1.727,3.500,3.900,2.25,1.850,1.950
+63149177,2026-01-03 14:45,Robres CD,CF Calamocha,0,1,2.750,3.000,2.450,2,1.775,2.025
+63149171,2026-01-03 15:00,CD Belchite 97,CD Zuera,1,1,2.250,3.000,3.000,2,1.900,1.900
+63149169,2026-01-04 11:00,CF Atletico de Monzon,Illueca CF,3,1,,,,,,
+63149179,2026-01-04 11:00,CDJ Tamarite,CD Caspe,3,0,,,,,,
+63149173,2026-01-04 14:30,CD Carinena,SD Huesca B,0,1,,,,,,
+63149165,2026-01-04 15:00,AD Almudevar,CD Cuarte,0,2,3.200,2.750,2.350,1.75,1.850,1.950
+63149175,2026-01-04 15:00,CF Epila,CD La Almunia,1,0,,,,,,
+63149167,2026-01-04 15:30,Andorra CF,Casetas,2,1,,,,,,
+63149181,2026-01-04 15:30,CD Utrillas,CD Binefar,2,1,2.750,2.875,2.500,2,1.900,1.900
+63149195,2026-01-10 15:30,CD La Almunia,Robres CD,0,0,,,,,,
+63149189,2026-01-11 11:00,Illueca CF,CDJ Tamarite,1,3,,,,,,
+63149191,2026-01-11 11:00,CD Cuarte,CF Atletico de Monzon,2,0,2.250,3.100,2.900,2,2.000,1.800
+63149197,2026-01-11 11:00,Casetas,CD Belchite 97,1,1,,,,,,
+63149183,2026-01-11 11:15,CD Binefar,Andorra CF,1,2,2.050,3.100,3.300,2,1.825,1.975
+63149199,2026-01-11 14:30,CD Zuera,CF Epila,1,2,4.500,3.200,1.727,2,1.975,1.825
+63149193,2026-01-11 14:45,SD Huesca B,AD Almudevar,0,1,,,,,,
+63149185,2026-01-11 15:00,CF Calamocha,CD Carinena,3,1,,,,,,
+63149187,2026-01-11 15:30,CD Caspe,CD Utrillas,1,1,1.800,3.000,4.333,2,2.050,1.750
+63149211,2026-01-17 19:30,CD Cuarte,CDJ Tamarite,1,0,1.650,3.250,5.250,2,1.850,1.950
+63149201,2026-01-18 11:00,CD Binefar,CD Belchite 97,0,0,,,,,,
+63149205,2026-01-18 11:00,CD Carinena,Robres CD,2,0,,,,,,
+63149215,2026-01-18 11:00,Casetas,CF Epila,0,2,5.250,3.600,1.550,2,1.825,1.975
+63149217,2026-01-18 11:00,CD Zuera,CD La Almunia,0,1,,,,,,
+63149213,2026-01-18 14:30,SD Huesca B,CF Atletico de Monzon,0,1,2.500,3.100,2.600,2.25,2.025,1.775
+63149203,2026-01-18 15:00,CF Calamocha,AD Almudevar,1,0,1.666,3.400,4.500,2.25,1.975,1.825
+63149209,2026-01-18 15:15,Illueca CF,CD Utrillas,0,2,,,,,,
+63149207,2026-01-18 15:30,CD Caspe,Andorra CF,2,0,,,,,,
+63149231,2026-01-24 15:00,Robres CD,CD Zuera,1,1,,,,,,
+63149219,2026-01-25 11:00,AD Almudevar,CD Carinena,2,0,,,,,,
+63149223,2026-01-25 11:00,CF Atletico de Monzon,CF Calamocha,2,0,,,,,,
+63149225,2026-01-25 15:00,CD Belchite 97,CD Caspe,1,1,,,,,,
+63149229,2026-01-25 15:00,CD La Almunia,Casetas,2,2,,,,,,
+63149233,2026-01-25 15:00,CDJ Tamarite,SD Huesca B,1,3,,,,,,
+63149221,2026-01-25 15:30,Andorra CF,Illueca CF,1,1,,,,,,
+63149227,2026-01-25 15:30,CF Epila,CD Binefar,1,0,,,,,,
+63149235,2026-01-25 15:30,CD Utrillas,CD Cuarte,0,2,3.900,3.000,1.850,1.75,1.950,1.850
+63149237,2026-01-31 15:00,AD Almudevar,Robres CD,0,1,,,,,,
+63149241,2026-02-01 11:00,CF Calamocha,CDJ Tamarite,2,1,,,,,,
+63149249,2026-02-01 11:00,CD Cuarte,Andorra CF,2,1,,,,,,
+63149253,2026-02-01 11:00,Casetas,CD Zuera,1,0,,,,,,
+63149239,2026-02-01 11:15,CD Binefar,CD La Almunia,4,0,,,,,,
+63149251,2026-02-01 15:00,SD Huesca B,CD Utrillas,3,0,,,,,,
+63149247,2026-02-01 15:15,Illueca CF,CD Belchite 97,0,1,,,,,,
+63149243,2026-02-01 15:30,CD Carinena,CF Atletico de Monzon,2,3,,,,,,
+63149245,2026-02-01 15:30,CD Caspe,CF Epila,2,1,2.300,2.700,3.250,1.5,1.850,1.950
+63149265,2026-02-07 15:00,Robres CD,Casetas,0,2,,,,,,
+63149263,2026-02-07 15:30,CD La Almunia,CD Caspe,2,0,,,,,,
+63149269,2026-02-07 16:30,CD Utrillas,CF Calamocha,0,1,4.500,3.300,1.727,2.5,1.900,1.900
+63149257,2026-02-08 11:00,CF Atletico de Monzon,AD Almudevar,2,2,,,,,,
+63149259,2026-02-08 15:00,CD Belchite 97,CD Cuarte,0,1,4.500,3.250,1.700,1.75,2.050,1.750
+63149267,2026-02-08 15:00,CDJ Tamarite,CD Carinena,1,1,,,,,,
+63149271,2026-02-08 15:00,CD Zuera,CD Binefar,0,1,,,,,,
+63149255,2026-02-08 15:30,Andorra CF,SD Huesca B,0,1,,,,,,
+63149261,2026-02-08 15:30,CF Epila,Illueca CF,2,1,1.615,3.250,5.250,2,1.950,1.850
+63149287,2026-02-14 19:30,CD Cuarte,CF Epila,3,0,1.750,3.000,5.000,1.5,1.875,1.925
+63149273,2026-02-15 11:00,AD Almudevar,CDJ Tamarite,1,1,,,,,,
+63149289,2026-02-15 11:00,SD Huesca B,CD Belchite 97,4,1,,,,,,
+63149277,2026-02-15 11:15,CD Binefar,Casetas,2,2,,,,,,
+63149281,2026-02-15 15:00,CD Carinena,CD Utrillas,2,0,,,,,,
+63149275,2026-02-15 15:30,CF Atletico de Monzon,Robres CD,3,2,,,,,,
+63149279,2026-02-15 15:30,CF Calamocha,Andorra CF,2,0,,,,,,
+63149283,2026-02-15 15:30,CD Caspe,CD Zuera,2,0,1.363,4.000,7.500,2.25,1.850,1.950
+63149285,2026-02-15 16:00,Illueca CF,CD La Almunia,1,1,,,,,,
+63149299,2026-02-21 15:00,Robres CD,CD Binefar,3,3,,,,,,
+63149307,2026-02-21 15:00,CD Zuera,Illueca CF,1,2,2.550,3.200,2.450,2.25,1.975,1.825
+63149293,2026-02-21 15:30,CD Belchite 97,CF Calamocha,0,0,4.000,3.100,1.833,2,1.850,1.950
+63149303,2026-02-22 11:00,Casetas,CD Caspe,0,2,,,,,,
+63149291,2026-02-22 15:30,Andorra CF,CD Carinena,2,1,,,,,,
+63149295,2026-02-22 15:30,CF Epila,SD Huesca B,1,0,2.300,3.000,2.900,2,2.000,1.800
+63149297,2026-02-22 15:30,CD La Almunia,CD Cuarte,0,0,,,,,,
+63149301,2026-02-22 15:30,CDJ Tamarite,CF Atletico de Monzon,1,2,,,,,,
+63149305,2026-02-22 15:30,CD Utrillas,AD Almudevar,2,2,2.625,3.000,2.500,1.75,1.800,2.000
+63149321,2026-02-28 19:30,CD Cuarte,CD Zuera,1,0,1.142,6.250,19.000,2.5,1.950,1.850
+63149323,2026-03-01 10:30,SD Huesca B,CD La Almunia,1,1,,,,,,
+63149315,2026-03-01 15:00,CD Carinena,CD Belchite 97,1,2,,,,,,
+63149309,2026-03-01 15:30,AD Almudevar,Andorra CF,1,0,2.100,2.900,3.400,2,1.950,1.850
+63149311,2026-03-01 15:30,CF Atletico de Monzon,CD Utrillas,4,0,,,,,,
+63149313,2026-03-01 15:30,CF Calamocha,CF Epila,0,0,2.150,2.750,3.500,2,1.825,1.975
+63149317,2026-03-01 15:30,CD Caspe,CD Binefar,1,1,,,,,,
+63149319,2026-03-01 15:30,Illueca CF,Casetas,3,1,,,,,,
+63149325,2026-03-01 15:30,CDJ Tamarite,Robres CD,1,1,,,,,,
+63149339,2026-03-05 16:00,Casetas,CD Cuarte,2,3,6.500,3.600,1.480,2,1.825,1.975
+63149337,2026-03-07 15:00,Robres CD,CD Caspe,0,2,,,,,,
+63149331,2026-03-08 11:15,CD Binefar,Illueca CF,4,0,,,,,,
+63149327,2026-03-08 15:30,Andorra CF,CF Atletico de Monzon,2,1,,,,,,
+63149329,2026-03-08 15:30,CD Belchite 97,AD Almudevar,0,1,,,,,,
+63149343,2026-03-08 15:30,CD Zuera,SD Huesca B,0,1,,,,,,
+63149333,2026-03-08 16:00,CF Epila,CD Carinena,2,2,1.700,3.300,4.500,2,1.825,1.975
+63149335,2026-03-08 16:00,CD La Almunia,CF Calamocha,1,2,,,,,,
+63149341,2026-03-08 16:00,CD Utrillas,CDJ Tamarite,2,3,2.900,2.875,2.375,2,1.800,2.000
+63149353,2026-03-14 16:00,Illueca CF,CD Caspe,0,0,,,,,,
+63149361,2026-03-14 16:30,CD Utrillas,Robres CD,4,2,3.000,3.250,2.150,2.25,2.000,1.800
+63149355,2026-03-14 19:30,CD Cuarte,CD Binefar,1,1,1.420,3.750,7.000,2.25,1.975,1.825
+63149345,2026-03-15 15:30,AD Almudevar,CF Epila,1,1,,,,,,
+63149349,2026-03-15 15:30,CF Calamocha,CD Zuera,3,0,1.250,4.750,11.000,2.5,1.950,1.850
+63149351,2026-03-15 15:30,CD Carinena,CD La Almunia,0,0,,,,,,
+63149357,2026-03-15 15:30,SD Huesca B,Casetas,2,1,1.400,3.900,7.000,2.5,2.025,1.775
+63149359,2026-03-15 15:30,CDJ Tamarite,Andorra CF,1,0,,,,,,
+63149347,2026-03-15 16:00,CF Atletico de Monzon,CD Belchite 97,3,0,,,,,,
+63149373,2026-03-21 16:00,CD La Almunia,AD Almudevar,3,0,,,,,,
+63149371,2026-03-21 17:45,CF Epila,CF Atletico de Monzon,2,0,,,,,,
+63149375,2026-03-22 11:00,Robres CD,Illueca CF,2,3,,,,,,
+63149377,2026-03-22 11:00,Casetas,CF Calamocha,0,2,,,,,,
+63149379,2026-03-22 15:15,CD Zuera,CD Carinena,2,1,,,,,,
+63149365,2026-03-22 15:30,CD Belchite 97,CDJ Tamarite,1,1,,,,,,
+63149369,2026-03-22 15:30,CD Caspe,CD Cuarte,1,1,,,,,,
+63149363,2026-03-22 16:00,Andorra CF,CD Utrillas,0,3,1.850,3.200,3.900,2.25,2.025,1.775
+63149367,2026-03-22 16:00,CD Binefar,SD Huesca B,3,0,,,,,,
+63149383,2026-03-28 15:00,Andorra CF,Robres CD,2,3,2.875,3.100,2.300,2,1.900,1.900
+63149395,2026-03-28 17:30,CDJ Tamarite,CF Epila,0,2,2.875,3.000,2.300,2,1.975,1.825
+63149393,2026-03-29 09:30,SD Huesca B,CD Caspe,4,1,,,,,,
+63149385,2026-03-29 10:00,CF Atletico de Monzon,CD La Almunia,2,1,,,,,,
+63149387,2026-03-29 10:00,CF Calamocha,CD Binefar,1,2,,,,,,
+63149389,2026-03-29 14:30,CD Carinena,Casetas,0,0,,,,,,
+63149381,2026-03-29 15:00,AD Almudevar,CD Zuera,3,0,,,,,,
+63149397,2026-03-29 15:30,CD Utrillas,CD Belchite 97,0,2,2.350,3.000,2.800,2,1.825,1.975
+63149391,2026-03-29 15:45,CD Cuarte,Illueca CF,0,0,,,,,,
+63149417,2026-04-01 18:15,CD Zuera,CF Atletico de Monzon,0,0,,,,,,
+63149407,2026-04-02 10:00,CF Epila,CD Utrillas,1,0,,,,,,
+63149413,2026-04-02 10:00,Robres CD,CD Cuarte,1,2,,,,,,
+63149405,2026-04-02 14:45,Illueca CF,SD Huesca B,0,0,,,,,,
+63149403,2026-04-02 15:30,CD Caspe,CF Calamocha,0,0,,,,,,
+63149415,2026-04-02 16:30,Casetas,AD Almudevar,3,1,,,,,,
+63149401,2026-04-03 10:00,CD Binefar,CD Carinena,4,2,,,,,,
+63149399,2026-04-03 15:30,CD Belchite 97,Andorra CF,2,1,2.250,2.875,3.100,2,1.925,1.875
+63149409,2026-04-05 16:00,CD La Almunia,CDJ Tamarite,1,1,,,,,,
+63149425,2026-04-11 15:30,CD Belchite 97,Robres CD,1,2,,,,,,
+63149431,2026-04-12 09:30,SD Huesca B,CD Cuarte,1,1,,,,,,
+63149429,2026-04-12 14:30,CD Carinena,CD Caspe,2,2,,,,,,
+63149421,2026-04-12 15:00,Andorra CF,CF Epila,0,2,,,,,,
+63149423,2026-04-12 15:00,CF Atletico de Monzon,Casetas,7,2,,,,,,
+63149427,2026-04-12 15:00,CF Calamocha,Illueca CF,1,0,,,,,,
+63149433,2026-04-12 15:30,CDJ Tamarite,CD Zuera,1,1,,,,,,
+63149435,2026-04-12 15:30,CD Utrillas,CD La Almunia,3,3,,,,,,
+63149419,2026-04-12 16:30,AD Almudevar,CD Binefar,1,0,,,,,,
+63149443,2026-04-19 10:00,CD Cuarte,CF Calamocha,0,0,2.050,3.000,3.600,1.75,1.875,1.925
+63149451,2026-04-19 10:00,Casetas,CDJ Tamarite,5,1,,,,,,
+63149441,2026-04-19 15:00,Illueca CF,CD Carinena,1,1,,,,,,
+63149445,2026-04-19 15:00,CF Epila,CD Belchite 97,3,0,1.615,3.300,5.250,2.25,1.775,2.025
+63149449,2026-04-19 15:00,Robres CD,SD Huesca B,1,1,,,,,,
+63149453,2026-04-19 15:00,CD Zuera,CD Utrillas,0,2,,,,,,
+63149437,2026-04-19 15:30,CD Binefar,CF Atletico de Monzon,1,2,,,,,,
+63149439,2026-04-19 15:30,CD Caspe,AD Almudevar,2,0,,,,,,
+63149447,2026-04-19 16:00,CD La Almunia,Andorra CF,0,1,,,,,,
+63149455,2026-04-23 16:00,AD Almudevar,Illueca CF,0,1,2.200,3.100,3.000,2.25,1.850,1.950
+63149467,2026-04-26 10:00,CF Epila,Robres CD,0,0,,,,,,
+63149457,2026-04-26 15:00,Andorra CF,CD Zuera,0,0,,,,,,
+63149459,2026-04-26 15:00,CF Atletico de Monzon,CD Caspe,0,0,,,,,,
+63149461,2026-04-26 15:00,CD Belchite 97,CD La Almunia,0,0,,,,,,
+63149463,2026-04-26 15:00,CF Calamocha,SD Huesca B,0,0,,,,,,
+63149465,2026-04-26 16:00,CD Carinena,CD Cuarte,0,0,,,,,,
+63149469,2026-04-26 16:00,CDJ Tamarite,CD Binefar,0,0,,,,,,
+63149471,2026-04-26 16:00,CD Utrillas,Casetas,3,3,1.850,3.250,3.700,2.25,1.950,1.850
+63149473,2026-05-03 15:30,CD Binefar,CD Utrillas,5,0,,,,,,
+63149475,2026-05-03 15:30,CF Calamocha,Robres CD,0,0,,,,,,
+63149477,2026-05-03 15:30,CD Caspe,CDJ Tamarite,0,0,,,,,,
+63149479,2026-05-03 15:30,Illueca CF,CF Atletico de Monzon,0,0,,,,,,
+63149481,2026-05-03 15:30,CD Cuarte,AD Almudevar,0,0,,,,,,
+63149483,2026-05-03 15:30,SD Huesca B,CD Carinena,0,0,,,,,,
+63149489,2026-05-03 15:30,CD La Almunia,CF Epila,0,0,,,,,,
+63149491,2026-05-03 15:30,Casetas,Andorra CF,0,0,,,,,,
+63149493,2026-05-03 15:30,CD Zuera,CD Belchite 97,0,0,,,,,,
+63149497,2026-05-09 15:30,Andorra CF,CD Binefar,0,0,,,,,,
+63149507,2026-05-09 16:30,Robres CD,CD La Almunia,0,0,,,,,,
+63149495,2026-05-10 15:30,AD Almudevar,SD Huesca B,0,0,,,,,,
+63149499,2026-05-10 15:30,CF Atletico de Monzon,CD Cuarte,1,1,2.150,3.100,3.100,2,1.875,1.925
+63149501,2026-05-10 15:30,CD Belchite 97,Casetas,0,0,,,,,,
+63149503,2026-05-10 15:30,CD Carinena,CF Calamocha,0,0,,,,,,
+63149505,2026-05-10 15:30,CF Epila,CD Zuera,0,0,,,,,,
+63149509,2026-05-10 15:30,CDJ Tamarite,Illueca CF,0,1,,,,,,
+63149511,2026-05-10 15:30,CD Utrillas,CD Caspe,1,2,2.900,3.400,2.100,2.25,1.975,1.825
+71483864,2026-05-16 16:00,CF Epila,CF Atletico de Monzon,0,1,2.550,3.000,2.550,2,1.800,2.000
+71483866,2026-05-17 16:00,CD Caspe,CD Cuarte,1,1,3.100,2.450,2.350,1.75,1.825,1.975
+71483868,2026-05-24 10:00,CD Cuarte,CD Caspe,2,1,2.050,2.900,3.400,2,1.975,1.825
+71483870,2026-05-24 16:30,CF Atletico de Monzon,CF Epila,1,0,,,,,,
+71753532,2026-05-30 18:30,CF Atletico de Monzon,CD Cuarte,0,2,,,,,,
+71753534,2026-06-07 18:00,CD Cuarte,CF Atletico de Monzon,0,1,,,,,,
+73562028,2026-09-05 15:00,Robres CD,UD Fraga,1,2,,,,,,
+73562034,2026-09-05 17:30,CDJ Tamarite,Real Zaragoza Deportivo Aragon,1,2,3.300,3.100,2.050,2.5,2.000,1.800
+73562038,2026-09-06 10:00,Internacional Huesca,CF Epila,0,2,,,,,,
+73562040,2026-09-06 15:30,Illueca CF,CD Cuarte,0,2,,,,,,
+73562042,2026-09-06 15:30,CD Belchite 97,CD Brea,1,1,,,,,,
+73562044,2026-09-06 16:00,AD Almudevar,SD Ejea,1,0,,,,,,
+73562032,2026-09-06 16:30,CD La Almunia,SD Huesca B,2,2,,,,,,
+73562030,2026-09-06 17:00,CD Caspe,CF Atletico de Monzon,3,0,,,,,,
+73562036,2026-09-06 17:00,Andorra CF,CD Binefar,2,4,,,,,,
+73562056,2026-09-12 16:00,CF Epila,Andorra CF,0,0,,,,,,
+73562060,2026-09-12 16:30,CD Brea,Illueca CF,3,0,,,,,,
+73562052,2026-09-13 10:00,Real Zaragoza Deportivo Aragon,CD La Almunia,2,0,,,,,,
+73562058,2026-09-13 10:00,CD Cuarte,Internacional Huesca,5,2,,,,,,
+73562062,2026-09-13 10:00,SD Ejea,CD Belchite 97,2,1,,,,,,
+73562054,2026-09-13 15:00,CD Binefar,CDJ Tamarite,2,3,,,,,,
+73562046,2026-09-13 16:00,UD Fraga,AD Almudevar,3,1,,,,,,
+73562050,2026-09-13 16:00,SD Huesca B,CD Caspe,1,0,,,,,,
+73562048,2026-09-13 17:00,CF Atletico de Monzon,Robres CD,4,3,1.400,3.800,7.500,2.25,1.775,2.025
+73562066,2026-09-19 14:30,Robres CD,SD Huesca B,1,1,,,,,,
+73562070,2026-09-19 15:00,CD La Almunia,CD Binefar,2,1,,,,,,
+73562072,2026-09-20 10:00,CDJ Tamarite,CF Epila,1,2,,,,,,
+73562076,2026-09-20 10:00,Internacional Huesca,CD Brea,1,1,,,,,,
+73562080,2026-09-20 15:00,AD Almudevar,CD Belchite 97,4,0,,,,,,
+73562078,2026-09-20 15:15,Illueca CF,SD Ejea,0,2,,,,,,
+73562068,2026-09-20 16:00,CD Caspe,Real Zaragoza Deportivo Aragon,1,1,,,,,,
+73562074,2026-09-20 16:00,Andorra CF,CD Cuarte,1,0,,,,,,
+73562084,2026-09-26 10:15,SD Huesca B,UD Fraga,0,0,2.000,3.250,3.300,2.5,1.925,1.875
+73562082,2026-09-26 17:00,CF Atletico de Monzon,AD Almudevar,2,1,,,,,,
+73562086,2026-09-27 10:00,Real Zaragoza Deportivo Aragon,Robres CD,4,0,,,,,,
+73562096,2026-09-27 10:00,SD Ejea,Internacional Huesca,2,1,,,,,,
+73562088,2026-09-27 15:00,CD Binefar,CD Caspe,2,2,,,,,,
+73562098,2026-09-27 15:00,CD Belchite 97,Illueca CF,0,3,,,,,,
+73562398,2026-09-27 15:00,CDJ Tamarite,CD Cuarte,2,1,,,,,,
+73562090,2026-09-27 15:30,CF Epila,CD La Almunia,1,3,,,,,,
+73562094,2026-09-27 15:30,CD Brea,Andorra CF,3,0,,,,,,
+73562114,2026-10-03 14:30,Robres CD,CD Binefar,1,2,,,,,,
+73562106,2026-10-04 10:00,Internacional Huesca,CD Belchite 97,3,0,,,,,,
+73562416,2026-10-04 14:30,CD Brea,CDJ Tamarite,1,0,,,,,,
+73562100,2026-10-04 15:00,CD La Almunia,CD Cuarte,1,3,3.100,3.100,2.100,2.25,2.025,1.775
+73562104,2026-10-04 15:00,Andorra CF,SD Ejea,1,3,,,,,,
+73562108,2026-10-04 15:00,AD Almudevar,Illueca CF,0,1,,,,,,
+73562110,2026-10-04 15:30,CF Atletico de Monzon,SD Huesca B,2,0,,,,,,
+73562112,2026-10-04 15:30,UD Fraga,Real Zaragoza Deportivo Aragon,1,2,,,,,,
+73562116,2026-10-04 15:30,CD Caspe,CF Epila,3,2,,,,,,
+73562124,2026-10-10 10:00,CF Epila,Robres CD,0,0,,,,,,
+73562126,2026-10-10 10:00,CD Cuarte,CD Caspe,2,2,1.750,3.200,4.200,2.25,2.050,1.750
+73562118,2026-10-10 14:00,SD Huesca B,AD Almudevar,0,0,,,,,,
+73562128,2026-10-10 14:00,CD Brea,CD La Almunia,1,0,,,,,,
+73562132,2026-10-10 14:30,CD Belchite 97,Andorra CF,0,0,,,,,,
+73562134,2026-10-10 14:30,Illueca CF,Internacional Huesca,0,0,,,,,,
+73562130,2026-10-10 16:00,SD Ejea,CDJ Tamarite,5,3,,,,,,
+73562428,2026-10-10 16:00,UD Fraga,CD Binefar,2,0,,,,,,
+73562120,2026-10-11 10:00,Real Zaragoza Deportivo Aragon,CF Atletico de Monzon,3,0,1.666,3.750,4.000,2.75,1.875,1.925
+73562152,2026-10-17 14:30,AD Almudevar,Internacional Huesca,0,0,,,,,,
+73562136,2026-10-18 10:00,SD Huesca B,Real Zaragoza Deportivo Aragon,2,0,,,,,,
+73562142,2026-10-18 14:30,Robres CD,CD Cuarte,2,2,,,,,,
+73562146,2026-10-18 14:30,CD La Almunia,SD Ejea,2,0,,,,,,
+73562148,2026-10-18 14:30,CDJ Tamarite,CD Belchite 97,3,1,1.700,3.400,4.333,2.5,2.025,1.775
+73562150,2026-10-18 15:00,Andorra CF,Illueca CF,3,1,,,,,,
+73562138,2026-10-18 15:30,CF Atletico de Monzon,CD Binefar,1,3,,,,,,
+73562140,2026-10-18 15:30,UD Fraga,CF Epila,0,0,,,,,,
+73562144,2026-10-18 15:30,CD Caspe,CD Brea,2,1,,,,,,
+73562168,2026-10-24 14:00,Illueca CF,CDJ Tamarite,4,0,,,,,,
+73562166,2026-10-24 14:30,CD Belchite 97,CD La Almunia,0,2,,,,,,
+73562154,2026-10-24 15:00,Real Zaragoza Deportivo Aragon,AD Almudevar,4,0,,,,,,
+73562160,2026-10-24 15:00,CD Cuarte,UD Fraga,2,0,,,,,,
+73562158,2026-10-24 15:30,CF Epila,CF Atletico de Monzon,2,2,,,,,,
+73562170,2026-10-25 11:00,Internacional Huesca,Andorra CF,2,2,,,,,,
+73562164,2026-10-25 15:00,SD Ejea,CD Caspe,0,0,,,,,,
+73562156,2026-10-25 15:30,CD Binefar,SD Huesca B,1,1,2.250,3.100,2.875,2.5,2.000,1.800
+73562162,2026-10-25 15:30,CD Brea,Robres CD,0,0,,,,,,
+73562184,2026-10-31 15:00,CD La Almunia,Illueca CF,2,0,,,,,,
+73562186,2026-10-31 15:00,CDJ Tamarite,Internacional Huesca,1,3,,,,,,
+73562178,2026-10-31 15:30,UD Fraga,CD Brea,0,2,2.250,3.200,2.800,2.25,2.025,1.775
+73562172,2026-11-01 11:00,Real Zaragoza Deportivo Aragon,CD Binefar,3,3,1.333,4.750,7.000,2.75,1.800,2.000
+73562174,2026-11-01 11:00,SD Huesca B,CF Epila,2,0,,,,,,
+73562180,2026-11-01 14:30,Robres CD,SD Ejea,1,1,,,,,,
+73562188,2026-11-01 15:00,AD Almudevar,Andorra CF,2,0,,,,,,
+73562176,2026-11-01 15:30,CF Atletico de Monzon,CD Cuarte,2,2,2.700,3.100,2.375,2.25,1.950,1.850
+73562182,2026-11-01 15:30,CD Caspe,CD Belchite 97,2,2,,,,,,
+73562192,2026-11-08 11:00,Internacional Huesca,CD La Almunia,3,1,,,,,,
+73562200,2026-11-08 11:00,CD Cuarte,SD Huesca B,1,0,1.850,3.250,3.600,2.25,2.025,1.775
+73562204,2026-11-08 11:00,SD Ejea,UD Fraga,2,1,,,,,,
+73562196,2026-11-08 11:15,CD Binefar,AD Almudevar,0,0,1.800,3.250,3.800,2.25,1.850,1.950
+73562202,2026-11-08 15:00,CD Brea,CF Atletico de Monzon,0,1,,,,,,
+73562206,2026-11-08 15:00,CD Belchite 97,Robres CD,1,1,2.450,3.200,2.550,2.5,1.950,1.850
+73562190,2026-11-08 15:15,Illueca CF,CD Caspe,2,2,,,,,,
+73562194,2026-11-08 15:30,Andorra CF,CDJ Tamarite,2,1,,,,,,
+73562198,2026-11-08 15:30,CF Epila,Real Zaragoza Deportivo Aragon,0,1,3.600,3.400,1.800,2.5,1.925,1.875

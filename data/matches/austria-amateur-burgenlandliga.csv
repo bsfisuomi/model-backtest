@@ -1,113 +1,113 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-72560178,2026-08-07 17:00,SC Pinkafeld,ASKO Kohfidisch,1,1,,,
-72560168,2026-08-07 17:30,SV Leithaprodersdorf,SPG Edelserpentin,3,2,,,
-72560172,2026-08-08 15:30,SC Rust,SV St. Margarethen,1,3,,,
-72560170,2026-08-08 16:30,SV Lackenbach,SC Oberpullendorf,0,3,,,
-72560180,2026-08-08 17:00,Bad Sauerbrunn,Usv Halbturn,3,0,2.050,3.800,2.750
-72560176,2026-08-08 17:30,FC Deutschkreutz,SPG Neudorf / Parndorf Juniors,0,0,,,
-72560182,2026-08-09 14:00,SK Pama,SC Neusiedl am See 1919,1,3,2.300,4.000,2.300
-72560174,2026-08-09 15:00,SV Eberau,Asko Klingenbach,0,0,1.533,4.000,4.750
-72560184,2026-08-13 18:00,Asko Klingenbach,SC Rust,3,2,1.550,4.200,4.333
-72560188,2026-08-14 17:00,Usv Halbturn,SPG Neudorf / Parndorf Juniors,3,0,1.800,4.200,3.100
-72560186,2026-08-14 17:30,SC Neusiedl am See 1919,SC Pinkafeld,1,1,1.571,4.333,4.000
-72560190,2026-08-14 17:30,Bad Sauerbrunn,SV Leithaprodersdorf,2,2,2.150,3.900,2.550
-72560196,2026-08-14 17:30,ASKO Kohfidisch,FC Deutschkreutz,1,2,2.300,3.900,2.375
-72560192,2026-08-14 18:00,SC Oberpullendorf,SK Pama,0,1,1.833,4.000,3.100
-72560194,2026-08-15 15:30,SV St. Margarethen,SV Lackenbach,2,0,,,
-72560198,2026-08-16 15:00,SPG Edelserpentin,SV Eberau,0,2,3.000,3.600,2.000
-72560200,2026-08-21 17:30,SV Leithaprodersdorf,Usv Halbturn,1,2,,,
-72560202,2026-08-21 17:30,SV Lackenbach,Asko Klingenbach,0,1,,,
-72560206,2026-08-21 17:30,FC Deutschkreutz,SC Neusiedl am See 1919,0,2,,,
-72560208,2026-08-21 17:30,SPG Neudorf / Parndorf Juniors,ASKO Kohfidisch,3,2,,,
-72560210,2026-08-21 17:30,SV Eberau,Bad Sauerbrunn,1,3,,,
-72560212,2026-08-21 17:30,SC Pinkafeld,SC Oberpullendorf,3,2,1.615,4.200,3.800
-72560204,2026-08-22 15:00,SC Rust,SPG Edelserpentin,1,3,,,
-72560214,2026-08-23 14:00,SK Pama,SV St. Margarethen,1,0,2.200,4.000,2.450
-72560218,2026-08-28 17:30,SPG Edelserpentin,SV Lackenbach,1,1,,,
-72560220,2026-08-28 17:30,SC Neusiedl am See 1919,SPG Neudorf / Parndorf Juniors,2,2,,,
-72560222,2026-08-28 17:30,SC Oberpullendorf,FC Deutschkreutz,0,3,2.400,3.700,2.350
-72560224,2026-08-28 17:30,Bad Sauerbrunn,SC Rust,1,2,,,
-72560226,2026-08-28 17:30,Asko Klingenbach,SK Pama,4,3,,,
-72560228,2026-08-29 15:00,Usv Halbturn,ASKO Kohfidisch,0,3,,,
-72560216,2026-08-29 16:00,SV Leithaprodersdorf,SV Eberau,1,0,,,
-72560230,2026-08-29 16:00,SV St. Margarethen,SC Pinkafeld,2,2,,,
-72560236,2026-09-04 17:30,FC Deutschkreutz,SV St. Margarethen,1,2,,,
-72560232,2026-09-05 15:30,SPG Neudorf / Parndorf Juniors,SC Oberpullendorf,4,1,,,
-72560238,2026-09-05 16:00,ASKO Kohfidisch,SC Neusiedl am See 1919,1,2,,,
-72560242,2026-09-05 16:00,SC Pinkafeld,Asko Klingenbach,1,0,2.250,4.000,2.400
-72560246,2026-09-06 14:00,SK Pama,SPG Edelserpentin,4,0,1.750,3.900,3.500
-72560234,2026-09-06 14:30,SV Eberau,Usv Halbturn,1,2,2.150,3.750,2.600
-72560244,2026-09-06 14:30,SV Lackenbach,Bad Sauerbrunn,2,3,,,
-72560240,2026-09-08 18:00,SC Rust,SV Leithaprodersdorf,1,3,,,
-72560248,2026-09-11 17:00,SV Leithaprodersdorf,SV Lackenbach,1,1,,,
-72560250,2026-09-11 17:30,Asko Klingenbach,FC Deutschkreutz,2,3,,,
-72560252,2026-09-11 17:30,SC Oberpullendorf,ASKO Kohfidisch,2,1,2.550,4.000,2.150
-72560256,2026-09-11 17:30,Bad Sauerbrunn,SK Pama,5,0,,,
-72560254,2026-09-12 14:00,Usv Halbturn,SC Neusiedl am See 1919,0,0,,,
-72560260,2026-09-12 15:00,SV St. Margarethen,SPG Neudorf / Parndorf Juniors,2,0,,,
-72560262,2026-09-12 17:00,SPG Edelserpentin,SC Pinkafeld,2,5,,,
-72560258,2026-09-13 14:30,SV Eberau,SC Rust,2,2,1.666,4.100,3.900
-72560268,2026-09-18 17:30,ASKO Kohfidisch,SV St. Margarethen,2,2,,,
-72560276,2026-09-18 17:30,SC Pinkafeld,Bad Sauerbrunn,0,1,,,
-72560278,2026-09-18 17:30,FC Deutschkreutz,SPG Edelserpentin,4,0,,,
-72560264,2026-09-18 18:00,SC Neusiedl am See 1919,SC Oberpullendorf,2,1,1.500,4.200,4.750
-72560274,2026-09-19 14:00,SC Rust,Usv Halbturn,4,1,,,
-72560270,2026-09-19 14:30,SPG Neudorf / Parndorf Juniors,Asko Klingenbach,0,1,,,
-72560272,2026-09-19 15:00,SV Lackenbach,SV Eberau,1,1,,,
-72560266,2026-09-20 09:00,SK Pama,SV Leithaprodersdorf,1,4,2.450,3.700,2.300
-72560280,2026-09-25 17:30,Bad Sauerbrunn,FC Deutschkreutz,5,0,1.950,3.900,2.875
-72560282,2026-09-25 17:30,SV Leithaprodersdorf,SC Pinkafeld,3,2,,,
-72560284,2026-09-25 17:30,Asko Klingenbach,ASKO Kohfidisch,4,1,,,
-72560286,2026-09-25 18:00,Usv Halbturn,SC Oberpullendorf,0,4,1.900,3.700,3.100
-72560290,2026-09-26 15:00,SV St. Margarethen,SC Neusiedl am See 1919,1,1,,,
-72560292,2026-09-26 15:00,SPG Edelserpentin,SPG Neudorf / Parndorf Juniors,4,0,2.550,3.600,2.250
-72560288,2026-09-27 14:00,SV Eberau,SK Pama,6,0,,,
-72560294,2026-09-27 14:00,SC Rust,SV Lackenbach,4,0,1.800,4.000,3.250
-72560296,2026-10-02 17:30,SC Oberpullendorf,SV St. Margarethen,1,2,,,
-72560300,2026-10-02 17:30,FC Deutschkreutz,SV Leithaprodersdorf,2,2,,,
-72560298,2026-10-03 14:00,SC Neusiedl am See 1919,Asko Klingenbach,0,4,,,
-72560306,2026-10-03 14:00,SPG Neudorf / Parndorf Juniors,Bad Sauerbrunn,1,1,,,
-72560302,2026-10-03 14:30,SV Lackenbach,Usv Halbturn,0,1,,,
-72560308,2026-10-03 15:00,SC Pinkafeld,SV Eberau,5,1,1.900,3.900,3.100
-72560304,2026-10-03 16:30,ASKO Kohfidisch,SPG Edelserpentin,0,1,1.615,4.333,3.750
-72560310,2026-10-04 13:30,SK Pama,SC Rust,1,0,,,
-72560312,2026-10-09 17:30,SPG Edelserpentin,SC Neusiedl am See 1919,2,2,,,
-72560314,2026-10-09 17:30,SV Leithaprodersdorf,SPG Neudorf / Parndorf Juniors,4,0,,,
-72560316,2026-10-10 13:00,Usv Halbturn,SV St. Margarethen,1,0,,,
-72560320,2026-10-10 13:00,SV Lackenbach,SK Pama,3,5,,,
-72560322,2026-10-10 15:30,Bad Sauerbrunn,ASKO Kohfidisch,1,2,1.333,5.000,6.000
-72560324,2026-10-10 17:00,Asko Klingenbach,SC Oberpullendorf,4,1,1.571,4.200,4.200
-72560318,2026-10-11 13:30,SV Eberau,FC Deutschkreutz,2,3,,,
-72560326,2026-10-11 13:30,SC Rust,SC Pinkafeld,1,3,,,
-72560328,2026-10-16 17:30,SC Oberpullendorf,SPG Edelserpentin,3,1,,,
-72560330,2026-10-16 17:30,SC Neusiedl am See 1919,Bad Sauerbrunn,1,3,3.300,3.900,1.800
-72560336,2026-10-16 17:30,FC Deutschkreutz,SC Rust,1,1,,,
-72560338,2026-10-17 14:00,SC Pinkafeld,SV Lackenbach,4,1,1.270,5.750,6.500
-72560340,2026-10-17 14:00,SV St. Margarethen,Asko Klingenbach,0,1,,,
-72560334,2026-10-17 16:00,ASKO Kohfidisch,SV Leithaprodersdorf,1,4,3.900,4.100,1.615
-72560342,2026-10-17 16:00,SK Pama,Usv Halbturn,1,1,,,
-72560332,2026-10-18 13:30,SPG Neudorf / Parndorf Juniors,SV Eberau,1,2,2.250,3.900,2.450
-72560412,2026-10-23 16:00,SK Pama,SC Pinkafeld,2,2,,,
-72560348,2026-10-23 16:30,SV Eberau,ASKO Kohfidisch,1,1,,,
-72560344,2026-10-23 17:30,Bad Sauerbrunn,SC Oberpullendorf,1,1,,,
-72560346,2026-10-23 17:30,SV Leithaprodersdorf,SC Neusiedl am See 1919,5,1,,,
-72560350,2026-10-23 17:30,Usv Halbturn,Asko Klingenbach,1,3,,,
-72560410,2026-10-24 13:00,SC Rust,SPG Neudorf / Parndorf Juniors,1,1,,,
-72560408,2026-10-24 15:00,SV Lackenbach,FC Deutschkreutz,1,2,4.333,4.100,1.571
-72560414,2026-10-25 15:00,SPG Edelserpentin,SV St. Margarethen,2,5,,,
-72560428,2026-10-30 18:00,SPG Neudorf / Parndorf Juniors,SV Lackenbach,2,2,,,
-72560416,2026-10-30 18:30,SC Neusiedl am See 1919,SV Eberau,1,4,2.000,3.800,2.875
-72560418,2026-10-30 18:30,Asko Klingenbach,SPG Edelserpentin,2,2,,,
-72560420,2026-10-30 18:30,SC Oberpullendorf,SV Leithaprodersdorf,0,0,4.333,4.333,1.533
-72560422,2026-10-30 18:30,FC Deutschkreutz,SK Pama,2,2,,,
-72560432,2026-10-30 18:30,SV St. Margarethen,Bad Sauerbrunn,1,1,,,
-72560424,2026-10-31 15:00,SC Pinkafeld,Usv Halbturn,7,1,2.150,3.700,2.600
-72560430,2026-10-31 15:00,ASKO Kohfidisch,SC Rust,2,1,,,
-72560434,2026-11-06 18:30,Bad Sauerbrunn,Asko Klingenbach,0,1,,,
-72560442,2026-11-07 14:00,Usv Halbturn,SPG Edelserpentin,3,1,,,
-72560436,2026-11-07 15:00,SV Lackenbach,ASKO Kohfidisch,1,1,,,
-72560438,2026-11-07 15:00,SC Pinkafeld,FC Deutschkreutz,1,1,1.900,3.900,3.100
-72560444,2026-11-07 15:00,SK Pama,SPG Neudorf / Parndorf Juniors,1,0,,,
-72560446,2026-11-07 15:00,SV Leithaprodersdorf,SV St. Margarethen,5,0,,,
-72560440,2026-11-08 13:00,SV Eberau,SC Oberpullendorf,1,1,,,
-72560448,2026-11-08 13:00,SC Rust,SC Neusiedl am See 1919,3,0,2.050,4.000,2.700
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+72560178,2026-08-07 17:00,SC Pinkafeld,ASKO Kohfidisch,1,1,,,,,,
+72560168,2026-08-07 17:30,SV Leithaprodersdorf,SPG Edelserpentin,3,2,,,,,,
+72560172,2026-08-08 15:30,SC Rust,SV St. Margarethen,1,3,,,,,,
+72560170,2026-08-08 16:30,SV Lackenbach,SC Oberpullendorf,0,3,,,,,,
+72560180,2026-08-08 17:00,Bad Sauerbrunn,Usv Halbturn,3,0,2.050,3.800,2.750,3,1.925,1.875
+72560176,2026-08-08 17:30,FC Deutschkreutz,SPG Neudorf / Parndorf Juniors,0,0,,,,,,
+72560182,2026-08-09 14:00,SK Pama,SC Neusiedl am See 1919,1,3,2.300,4.000,2.300,3,1.800,2.000
+72560174,2026-08-09 15:00,SV Eberau,Asko Klingenbach,0,0,1.533,4.000,4.750,2.75,1.775,2.025
+72560184,2026-08-13 18:00,Asko Klingenbach,SC Rust,3,2,1.550,4.200,4.333,3.25,2.000,1.800
+72560188,2026-08-14 17:00,Usv Halbturn,SPG Neudorf / Parndorf Juniors,3,0,1.800,4.200,3.100,3,2.025,1.775
+72560186,2026-08-14 17:30,SC Neusiedl am See 1919,SC Pinkafeld,1,1,1.571,4.333,4.000,3.5,1.900,1.900
+72560190,2026-08-14 17:30,Bad Sauerbrunn,SV Leithaprodersdorf,2,2,2.150,3.900,2.550,3,1.800,2.000
+72560196,2026-08-14 17:30,ASKO Kohfidisch,FC Deutschkreutz,1,2,2.300,3.900,2.375,3,1.850,1.950
+72560192,2026-08-14 18:00,SC Oberpullendorf,SK Pama,0,1,1.833,4.000,3.100,3,1.800,2.000
+72560194,2026-08-15 15:30,SV St. Margarethen,SV Lackenbach,2,0,,,,,,
+72560198,2026-08-16 15:00,SPG Edelserpentin,SV Eberau,0,2,3.000,3.600,2.000,2.5,1.800,2.000
+72560200,2026-08-21 17:30,SV Leithaprodersdorf,Usv Halbturn,1,2,,,,,,
+72560202,2026-08-21 17:30,SV Lackenbach,Asko Klingenbach,0,1,,,,,,
+72560206,2026-08-21 17:30,FC Deutschkreutz,SC Neusiedl am See 1919,0,2,,,,,,
+72560208,2026-08-21 17:30,SPG Neudorf / Parndorf Juniors,ASKO Kohfidisch,3,2,,,,,,
+72560210,2026-08-21 17:30,SV Eberau,Bad Sauerbrunn,1,3,,,,,,
+72560212,2026-08-21 17:30,SC Pinkafeld,SC Oberpullendorf,3,2,1.615,4.200,3.800,3,2.000,1.800
+72560204,2026-08-22 15:00,SC Rust,SPG Edelserpentin,1,3,,,,,,
+72560214,2026-08-23 14:00,SK Pama,SV St. Margarethen,1,0,2.200,4.000,2.450,3,1.900,1.900
+72560218,2026-08-28 17:30,SPG Edelserpentin,SV Lackenbach,1,1,,,,,,
+72560220,2026-08-28 17:30,SC Neusiedl am See 1919,SPG Neudorf / Parndorf Juniors,2,2,,,,,,
+72560222,2026-08-28 17:30,SC Oberpullendorf,FC Deutschkreutz,0,3,2.400,3.700,2.350,3,1.925,1.875
+72560224,2026-08-28 17:30,Bad Sauerbrunn,SC Rust,1,2,,,,,,
+72560226,2026-08-28 17:30,Asko Klingenbach,SK Pama,4,3,,,,,,
+72560228,2026-08-29 15:00,Usv Halbturn,ASKO Kohfidisch,0,3,,,,,,
+72560216,2026-08-29 16:00,SV Leithaprodersdorf,SV Eberau,1,0,,,,,,
+72560230,2026-08-29 16:00,SV St. Margarethen,SC Pinkafeld,2,2,,,,,,
+72560236,2026-09-04 17:30,FC Deutschkreutz,SV St. Margarethen,1,2,,,,,,
+72560232,2026-09-05 15:30,SPG Neudorf / Parndorf Juniors,SC Oberpullendorf,4,1,,,,,,
+72560238,2026-09-05 16:00,ASKO Kohfidisch,SC Neusiedl am See 1919,1,2,,,,,,
+72560242,2026-09-05 16:00,SC Pinkafeld,Asko Klingenbach,1,0,2.250,4.000,2.400,3,1.800,2.000
+72560246,2026-09-06 14:00,SK Pama,SPG Edelserpentin,4,0,1.750,3.900,3.500,2.75,1.850,1.950
+72560234,2026-09-06 14:30,SV Eberau,Usv Halbturn,1,2,2.150,3.750,2.600,3,2.000,1.800
+72560244,2026-09-06 14:30,SV Lackenbach,Bad Sauerbrunn,2,3,,,,,,
+72560240,2026-09-08 18:00,SC Rust,SV Leithaprodersdorf,1,3,,,,,,
+72560248,2026-09-11 17:00,SV Leithaprodersdorf,SV Lackenbach,1,1,,,,,,
+72560250,2026-09-11 17:30,Asko Klingenbach,FC Deutschkreutz,2,3,,,,,,
+72560252,2026-09-11 17:30,SC Oberpullendorf,ASKO Kohfidisch,2,1,2.550,4.000,2.150,3,1.800,2.000
+72560256,2026-09-11 17:30,Bad Sauerbrunn,SK Pama,5,0,,,,,,
+72560254,2026-09-12 14:00,Usv Halbturn,SC Neusiedl am See 1919,0,0,,,,,,
+72560260,2026-09-12 15:00,SV St. Margarethen,SPG Neudorf / Parndorf Juniors,2,0,,,,,,
+72560262,2026-09-12 17:00,SPG Edelserpentin,SC Pinkafeld,2,5,,,,,,
+72560258,2026-09-13 14:30,SV Eberau,SC Rust,2,2,1.666,4.100,3.900,3.5,1.900,1.900
+72560268,2026-09-18 17:30,ASKO Kohfidisch,SV St. Margarethen,2,2,,,,,,
+72560276,2026-09-18 17:30,SC Pinkafeld,Bad Sauerbrunn,0,1,,,,,,
+72560278,2026-09-18 17:30,FC Deutschkreutz,SPG Edelserpentin,4,0,,,,,,
+72560264,2026-09-18 18:00,SC Neusiedl am See 1919,SC Oberpullendorf,2,1,1.500,4.200,4.750,3.25,1.875,1.925
+72560274,2026-09-19 14:00,SC Rust,Usv Halbturn,4,1,,,,,,
+72560270,2026-09-19 14:30,SPG Neudorf / Parndorf Juniors,Asko Klingenbach,0,1,,,,,,
+72560272,2026-09-19 15:00,SV Lackenbach,SV Eberau,1,1,,,,,,
+72560266,2026-09-20 09:00,SK Pama,SV Leithaprodersdorf,1,4,2.450,3.700,2.300,3,1.975,1.825
+72560280,2026-09-25 17:30,Bad Sauerbrunn,FC Deutschkreutz,5,0,1.950,3.900,2.875,3.25,1.900,1.900
+72560282,2026-09-25 17:30,SV Leithaprodersdorf,SC Pinkafeld,3,2,,,,,,
+72560284,2026-09-25 17:30,Asko Klingenbach,ASKO Kohfidisch,4,1,,,,,,
+72560286,2026-09-25 18:00,Usv Halbturn,SC Oberpullendorf,0,4,1.900,3.700,3.100,3,1.950,1.850
+72560290,2026-09-26 15:00,SV St. Margarethen,SC Neusiedl am See 1919,1,1,,,,,,
+72560292,2026-09-26 15:00,SPG Edelserpentin,SPG Neudorf / Parndorf Juniors,4,0,2.550,3.600,2.250,3,1.800,2.000
+72560288,2026-09-27 14:00,SV Eberau,SK Pama,6,0,,,,,,
+72560294,2026-09-27 14:00,SC Rust,SV Lackenbach,4,0,1.800,4.000,3.250,3.25,1.900,1.900
+72560296,2026-10-02 17:30,SC Oberpullendorf,SV St. Margarethen,1,2,,,,,,
+72560300,2026-10-02 17:30,FC Deutschkreutz,SV Leithaprodersdorf,2,2,,,,,,
+72560298,2026-10-03 14:00,SC Neusiedl am See 1919,Asko Klingenbach,0,4,,,,,,
+72560306,2026-10-03 14:00,SPG Neudorf / Parndorf Juniors,Bad Sauerbrunn,1,1,,,,,,
+72560302,2026-10-03 14:30,SV Lackenbach,Usv Halbturn,0,1,,,,,,
+72560308,2026-10-03 15:00,SC Pinkafeld,SV Eberau,5,1,1.900,3.900,3.100,3,1.900,1.900
+72560304,2026-10-03 16:30,ASKO Kohfidisch,SPG Edelserpentin,0,1,1.615,4.333,3.750,3.25,1.950,1.850
+72560310,2026-10-04 13:30,SK Pama,SC Rust,1,0,,,,,,
+72560312,2026-10-09 17:30,SPG Edelserpentin,SC Neusiedl am See 1919,2,2,,,,,,
+72560314,2026-10-09 17:30,SV Leithaprodersdorf,SPG Neudorf / Parndorf Juniors,4,0,,,,,,
+72560316,2026-10-10 13:00,Usv Halbturn,SV St. Margarethen,1,0,,,,,,
+72560320,2026-10-10 13:00,SV Lackenbach,SK Pama,3,5,,,,,,
+72560322,2026-10-10 15:30,Bad Sauerbrunn,ASKO Kohfidisch,1,2,1.333,5.000,6.000,3.25,1.950,1.850
+72560324,2026-10-10 17:00,Asko Klingenbach,SC Oberpullendorf,4,1,1.571,4.200,4.200,3,1.850,1.950
+72560318,2026-10-11 13:30,SV Eberau,FC Deutschkreutz,2,3,,,,,,
+72560326,2026-10-11 13:30,SC Rust,SC Pinkafeld,1,3,,,,,,
+72560328,2026-10-16 17:30,SC Oberpullendorf,SPG Edelserpentin,3,1,,,,,,
+72560330,2026-10-16 17:30,SC Neusiedl am See 1919,Bad Sauerbrunn,1,3,3.300,3.900,1.800,3.25,1.950,1.850
+72560336,2026-10-16 17:30,FC Deutschkreutz,SC Rust,1,1,,,,,,
+72560338,2026-10-17 14:00,SC Pinkafeld,SV Lackenbach,4,1,1.270,5.750,6.500,4,1.975,1.825
+72560340,2026-10-17 14:00,SV St. Margarethen,Asko Klingenbach,0,1,,,,,,
+72560334,2026-10-17 16:00,ASKO Kohfidisch,SV Leithaprodersdorf,1,4,3.900,4.100,1.615,3.25,1.900,1.900
+72560342,2026-10-17 16:00,SK Pama,Usv Halbturn,1,1,,,,,,
+72560332,2026-10-18 13:30,SPG Neudorf / Parndorf Juniors,SV Eberau,1,2,2.250,3.900,2.450,3,1.900,1.900
+72560412,2026-10-23 16:00,SK Pama,SC Pinkafeld,2,2,,,,,,
+72560348,2026-10-23 16:30,SV Eberau,ASKO Kohfidisch,1,1,,,,,,
+72560344,2026-10-23 17:30,Bad Sauerbrunn,SC Oberpullendorf,1,1,,,,,,
+72560346,2026-10-23 17:30,SV Leithaprodersdorf,SC Neusiedl am See 1919,5,1,,,,,,
+72560350,2026-10-23 17:30,Usv Halbturn,Asko Klingenbach,1,3,,,,,,
+72560410,2026-10-24 13:00,SC Rust,SPG Neudorf / Parndorf Juniors,1,1,,,,,,
+72560408,2026-10-24 15:00,SV Lackenbach,FC Deutschkreutz,1,2,4.333,4.100,1.571,3,2.000,1.800
+72560414,2026-10-25 15:00,SPG Edelserpentin,SV St. Margarethen,2,5,,,,,,
+72560428,2026-10-30 18:00,SPG Neudorf / Parndorf Juniors,SV Lackenbach,2,2,,,,,,
+72560416,2026-10-30 18:30,SC Neusiedl am See 1919,SV Eberau,1,4,2.000,3.800,2.875,3.25,1.950,1.850
+72560418,2026-10-30 18:30,Asko Klingenbach,SPG Edelserpentin,2,2,,,,,,
+72560420,2026-10-30 18:30,SC Oberpullendorf,SV Leithaprodersdorf,0,0,4.333,4.333,1.533,3.5,1.975,1.825
+72560422,2026-10-30 18:30,FC Deutschkreutz,SK Pama,2,2,,,,,,
+72560432,2026-10-30 18:30,SV St. Margarethen,Bad Sauerbrunn,1,1,,,,,,
+72560424,2026-10-31 15:00,SC Pinkafeld,Usv Halbturn,7,1,2.150,3.700,2.600,3.25,1.950,1.850
+72560430,2026-10-31 15:00,ASKO Kohfidisch,SC Rust,2,1,,,,,,
+72560434,2026-11-06 18:30,Bad Sauerbrunn,Asko Klingenbach,0,1,,,,,,
+72560442,2026-11-07 14:00,Usv Halbturn,SPG Edelserpentin,3,1,,,,,,
+72560436,2026-11-07 15:00,SV Lackenbach,ASKO Kohfidisch,1,1,,,,,,
+72560438,2026-11-07 15:00,SC Pinkafeld,FC Deutschkreutz,1,1,1.900,3.900,3.100,3.25,1.825,1.975
+72560444,2026-11-07 15:00,SK Pama,SPG Neudorf / Parndorf Juniors,1,0,,,,,,
+72560446,2026-11-07 15:00,SV Leithaprodersdorf,SV St. Margarethen,5,0,,,,,,
+72560440,2026-11-08 13:00,SV Eberau,SC Oberpullendorf,1,1,,,,,,
+72560448,2026-11-08 13:00,SC Rust,SC Neusiedl am See 1919,3,0,2.050,4.000,2.700,3.25,1.925,1.875

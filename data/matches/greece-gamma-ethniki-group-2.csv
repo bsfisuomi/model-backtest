@@ -1,36 +1,36 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-74037378,2026-09-26 13:00,Makedonikos FC,Akrites Sykeon,0,2,,,
-74037376,2026-09-27 13:00,Foinikas Polichnis,Kilkisiakos,3,2,,,
-74037380,2026-09-27 13:00,Nikolaos,Iraklis Thermaikou,1,1,,,
-74037382,2026-09-27 13:00,Poseidonas Michanionas,PAOK Kristonis,5,1,1.833,3.400,3.600
-74037384,2026-09-27 13:00,Pas Panedessaikos,Bam FC,1,1,,,
-74037386,2026-10-03 13:00,AE Polykastrou,Foinikas Polichnis,0,1,,,
-74037388,2026-10-03 13:00,Kilkisiakos,Makedonikos FC,0,2,1.900,3.300,3.500
-74037390,2026-10-03 13:00,Akrites Sykeon,Poseidonas Michanionas,0,2,2.200,3.250,2.750
-74037392,2026-10-03 13:00,Iraklis Thermaikou,Pas Panedessaikos,2,0,,,
-74037394,2026-10-03 14:00,Bam FC,PAOK Kristonis,3,1,1.950,3.400,3.200
-74037396,2026-10-11 13:00,Foinikas Polichnis,Makedonikos FC,2,1,1.615,3.600,5.000
-74037398,2026-10-11 13:00,Nikolaos,AE Polykastrou,1,0,,,
-74037400,2026-10-11 13:00,Poseidonas Michanionas,Kilkisiakos,2,1,1.400,4.500,5.750
-74037402,2026-10-11 13:00,Bam FC,Akrites Sykeon,3,1,1.850,3.250,3.700
-74037404,2026-10-11 13:00,PAOK Kristonis,Iraklis Thermaikou,0,0,,,
-74037406,2026-10-18 13:00,Nikolaos,Foinikas Polichnis,3,1,,,
-74037408,2026-10-18 13:00,Makedonikos FC,Poseidonas Michanionas,2,2,2.900,3.300,2.150
-74037410,2026-10-18 13:00,AE Polykastrou,Pas Panedessaikos,1,0,,,
-74037412,2026-10-18 13:00,Kilkisiakos,Bam FC,4,4,,,
-74037414,2026-10-18 13:00,Iraklis Thermaikou,Akrites Sykeon,1,0,1.571,3.500,5.000
-74037416,2026-10-24 12:00,Foinikas Polichnis,Poseidonas Michanionas,2,1,2.100,3.500,2.800
-74037418,2026-10-24 12:00,Pas Panedessaikos,Nikolaos,0,2,,,
-74037420,2026-10-24 12:00,Bam FC,Makedonikos FC,2,2,,,
-74037424,2026-10-24 12:00,Iraklis Thermaikou,Kilkisiakos,0,0,1.380,4.100,6.500
-74037422,2026-10-25 13:00,PAOK Kristonis,AE Polykastrou,1,0,,,
-74037426,2026-11-01 13:00,Pas Panedessaikos,Foinikas Polichnis,1,3,,,
-74037428,2026-11-01 13:00,Poseidonas Michanionas,Bam FC,1,0,1.727,3.750,3.700
-74037430,2026-11-01 13:00,Nikolaos,PAOK Kristonis,0,1,,,
-74037432,2026-11-01 13:00,Makedonikos FC,Iraklis Thermaikou,0,0,2.000,3.300,3.200
-74037434,2026-11-01 13:00,AE Polykastrou,Akrites Sykeon,2,3,,,
-74037436,2026-11-07 13:00,Foinikas Polichnis,Bam FC,1,1,1.444,3.800,6.500
-74037438,2026-11-08 13:00,PAOK Kristonis,Pas Panedessaikos,3,1,,,
-74037440,2026-11-08 13:00,Iraklis Thermaikou,Poseidonas Michanionas,1,0,2.250,3.100,2.900
-74037444,2026-11-08 13:00,Kilkisiakos,AE Polykastrou,1,3,,,
-76363868,2026-11-08 13:00,Akrites Sykeon,Asteras Agiou Nikolaou,0,2,3.000,3.400,2.050
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+74037378,2026-09-26 13:00,Makedonikos FC,Akrites Sykeon,0,2,,,,,,
+74037376,2026-09-27 13:00,Foinikas Polichnis,Kilkisiakos,3,2,,,,,,
+74037380,2026-09-27 13:00,Nikolaos,Iraklis Thermaikou,1,1,,,,,,
+74037382,2026-09-27 13:00,Poseidonas Michanionas,PAOK Kristonis,5,1,1.833,3.400,3.600,2.5,1.900,1.900
+74037384,2026-09-27 13:00,Pas Panedessaikos,Bam FC,1,1,,,,,,
+74037386,2026-10-03 13:00,AE Polykastrou,Foinikas Polichnis,0,1,,,,,,
+74037388,2026-10-03 13:00,Kilkisiakos,Makedonikos FC,0,2,1.900,3.300,3.500,2.25,1.800,2.000
+74037390,2026-10-03 13:00,Akrites Sykeon,Poseidonas Michanionas,0,2,2.200,3.250,2.750,2.75,1.825,1.975
+74037392,2026-10-03 13:00,Iraklis Thermaikou,Pas Panedessaikos,2,0,,,,,,
+74037394,2026-10-03 14:00,Bam FC,PAOK Kristonis,3,1,1.950,3.400,3.200,2.75,1.850,1.950
+74037396,2026-10-11 13:00,Foinikas Polichnis,Makedonikos FC,2,1,1.615,3.600,5.000,2,1.850,1.950
+74037398,2026-10-11 13:00,Nikolaos,AE Polykastrou,1,0,,,,,,
+74037400,2026-10-11 13:00,Poseidonas Michanionas,Kilkisiakos,2,1,1.400,4.500,5.750,3.25,1.825,1.975
+74037402,2026-10-11 13:00,Bam FC,Akrites Sykeon,3,1,1.850,3.250,3.700,2.25,1.800,2.000
+74037404,2026-10-11 13:00,PAOK Kristonis,Iraklis Thermaikou,0,0,,,,,,
+74037406,2026-10-18 13:00,Nikolaos,Foinikas Polichnis,3,1,,,,,,
+74037408,2026-10-18 13:00,Makedonikos FC,Poseidonas Michanionas,2,2,2.900,3.300,2.150,2.5,1.950,1.850
+74037410,2026-10-18 13:00,AE Polykastrou,Pas Panedessaikos,1,0,,,,,,
+74037412,2026-10-18 13:00,Kilkisiakos,Bam FC,4,4,,,,,,
+74037414,2026-10-18 13:00,Iraklis Thermaikou,Akrites Sykeon,1,0,1.571,3.500,5.000,2.25,1.925,1.875
+74037416,2026-10-24 12:00,Foinikas Polichnis,Poseidonas Michanionas,2,1,2.100,3.500,2.800,2.5,1.875,1.925
+74037418,2026-10-24 12:00,Pas Panedessaikos,Nikolaos,0,2,,,,,,
+74037420,2026-10-24 12:00,Bam FC,Makedonikos FC,2,2,,,,,,
+74037424,2026-10-24 12:00,Iraklis Thermaikou,Kilkisiakos,0,0,1.380,4.100,6.500,2.5,1.800,2.000
+74037422,2026-10-25 13:00,PAOK Kristonis,AE Polykastrou,1,0,,,,,,
+74037426,2026-11-01 13:00,Pas Panedessaikos,Foinikas Polichnis,1,3,,,,,,
+74037428,2026-11-01 13:00,Poseidonas Michanionas,Bam FC,1,0,1.727,3.750,3.700,3,1.925,1.875
+74037430,2026-11-01 13:00,Nikolaos,PAOK Kristonis,0,1,,,,,,
+74037432,2026-11-01 13:00,Makedonikos FC,Iraklis Thermaikou,0,0,2.000,3.300,3.200,2.5,1.925,1.875
+74037434,2026-11-01 13:00,AE Polykastrou,Akrites Sykeon,2,3,,,,,,
+74037436,2026-11-07 13:00,Foinikas Polichnis,Bam FC,1,1,1.444,3.800,6.500,2.5,2.025,1.775
+74037438,2026-11-08 13:00,PAOK Kristonis,Pas Panedessaikos,3,1,,,,,,
+74037440,2026-11-08 13:00,Iraklis Thermaikou,Poseidonas Michanionas,1,0,2.250,3.100,2.900,2.25,1.825,1.975
+74037444,2026-11-08 13:00,Kilkisiakos,AE Polykastrou,1,3,,,,,,
+76363868,2026-11-08 13:00,Akrites Sykeon,Asteras Agiou Nikolaou,0,2,3.000,3.400,2.050,2.5,2.000,1.800

@@ -31,3 +31,14 @@ assert fair_odds(mat, "ah", -0.5, "home") > fair_odds(mat, "ah", -0.25, "home") 
 po = 1 / fair_odds(mat, "total", 2.5, "over") + 1 / fair_odds(mat, "total", 2.5, "under")
 assert abs(po - 1) < 1e-9
 print("ok  pricing checks")
+
+# Goal Line model: team at 50/50 on 2.5 + team at 50/50 on 3.0 -> match 50/50 on 2.75
+from model import fair_line, implied_mu  # noqa: E402
+mu = (implied_mu(2.5, 1.9, 1.9) + implied_mu(3.0, 1.9, 1.9)) / 2
+assert fair_line(mu) == 2.75, fair_line(mu)
+# implied mu reproduces the de-vigged closing probability
+from model import _total_probs  # noqa: E402
+m = implied_mu(2.5, 1.75, 2.05)
+w, l = _total_probs(m, 2.5)
+assert abs(w / (w + l) - (1 / 1.75) / (1 / 1.75 + 1 / 2.05)) < 1e-9
+print("ok  goal line model (2.5 + 3.0 -> 2.75)")

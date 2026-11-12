@@ -1,402 +1,402 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-60808487,2025-06-01 18:00,CD Badajoz,AD Llerenense,1,0,,,
-63146861,2025-09-06 17:00,Moralo CP,SP Villafranca,1,1,,,
-63146859,2025-09-07 10:00,UD Montijo,CD Don Benito,2,0,,,
-63146863,2025-09-07 10:00,Atletico Club Pueblonuevo,CD Santa Amalia,0,2,,,
-63146865,2025-09-07 10:00,CF Villanovense,EF Puebla de la Calzada,2,1,,,
-63146851,2025-09-07 17:00,CD Cabeza Del Buey,CD Calamonte,2,2,,,
-63146855,2025-09-07 17:00,Jerez CF,CD Diocesano,0,0,,,
-63146857,2025-09-07 17:00,Cp Montehermoso,CF Jaraiz,0,3,,,
-63146869,2025-09-14 10:00,CD Calamonte,CF Villanovense,0,1,,,
-63146873,2025-09-14 10:00,CD Don Benito,Atletico Club Pueblonuevo,6,1,,,
-63146867,2025-09-14 10:30,CD Azuaga,AD Llerenense,3,1,,,
-63146881,2025-09-14 10:30,SP Villafranca,UD Montijo,2,1,,,
-63146871,2025-09-14 16:00,CD Diocesano,Moralo CP,4,4,,,
-63694627,2025-09-14 16:00,CD Gevora,CD Cabeza Del Buey,1,0,,,
-63146875,2025-09-14 16:30,CF Jaraiz,Jerez CF,2,0,,,
-63146877,2025-09-14 16:30,EF Puebla de la Calzada,Cp Montehermoso,1,0,,,
-63146879,2025-09-14 17:00,CD Santa Amalia,CD Badajoz,1,0,,,
-63146895,2025-09-21 10:00,UD Montijo,CD Diocesano,1,1,,,
-63146943,2025-09-21 10:00,Atletico Club Pueblonuevo,SP Villafranca,1,3,,,
-63694629,2025-09-21 10:00,CF Villanovense,CD Gevora,3,2,,,
-63146885,2025-09-21 15:00,CD Badajoz,CD Don Benito,0,1,,,
-63146883,2025-09-21 16:00,CD Cabeza Del Buey,CD Azuaga,1,1,,,
-63146891,2025-09-21 16:00,AD Llerenense,CD Santa Amalia,1,0,,,
-63146887,2025-09-21 16:30,CF Jaraiz,EF Puebla de la Calzada,0,1,,,
-63146889,2025-09-21 16:30,Jerez CF,Moralo CP,2,2,,,
-63146893,2025-09-21 16:30,Cp Montehermoso,CD Calamonte,1,1,,,
-63146949,2025-09-28 10:00,CD Diocesano,Atletico Club Pueblonuevo,2,0,,,
-63146951,2025-09-28 10:00,CD Don Benito,AD Llerenense,1,0,,,
-63146961,2025-09-28 10:00,SP Villafranca,CD Badajoz,0,2,,,
-63146945,2025-09-28 10:15,CD Azuaga,CF Villanovense,0,0,,,
-63146947,2025-09-28 10:30,CD Calamonte,CF Jaraiz,2,2,,,
-63694631,2025-09-28 15:30,CD Gevora,Cp Montehermoso,1,0,,,
-63146955,2025-09-28 16:30,EF Puebla de la Calzada,Jerez CF,0,0,,,
-63146959,2025-09-28 16:30,CD Santa Amalia,CD Cabeza Del Buey,0,0,,,
-63146953,2025-09-28 17:00,Moralo CP,UD Montijo,4,2,,,
-63146975,2025-10-04 15:30,Atletico Club Pueblonuevo,Moralo CP,1,0,,,
-63146965,2025-10-04 16:30,CD Badajoz,CD Diocesano,3,1,,,
-63146977,2025-10-05 10:00,CF Villanovense,CD Santa Amalia,2,1,,,
-63146963,2025-10-05 10:30,CD Cabeza Del Buey,CD Don Benito,1,1,,,
-63146973,2025-10-05 10:30,EF Puebla de la Calzada,CD Calamonte,2,1,,,
-63146967,2025-10-05 15:00,Jerez CF,UD Montijo,1,3,,,
-63694633,2025-10-05 15:00,CF Jaraiz,CD Gevora,1,0,,,
-63146969,2025-10-05 16:00,AD Llerenense,SP Villafranca,0,1,,,
-63146971,2025-10-05 16:00,Cp Montehermoso,CD Azuaga,2,1,,,
-63146981,2025-10-12 10:00,CD Calamonte,Jerez CF,0,0,,,
-63146983,2025-10-12 10:00,CD Diocesano,AD Llerenense,2,1,,,
-63146987,2025-10-12 10:00,UD Montijo,Atletico Club Pueblonuevo,1,0,,,
-63146993,2025-10-12 10:30,SP Villafranca,CD Cabeza Del Buey,1,1,,,
-63146989,2025-10-12 15:00,Moralo CP,CD Badajoz,1,0,,,
-63146991,2025-10-12 15:00,CD Santa Amalia,Cp Montehermoso,1,0,,,
-63694635,2025-10-12 15:00,CD Gevora,EF Puebla de la Calzada,2,2,,,
-63146979,2025-10-12 15:30,CD Azuaga,CF Jaraiz,1,1,,,
-63146985,2025-10-13 15:00,CD Don Benito,CF Villanovense,2,0,,,
-63147007,2025-10-18 17:30,EF Puebla de la Calzada,CD Azuaga,0,2,,,
-63146997,2025-10-19 10:00,CD Badajoz,UD Montijo,2,1,,,
-63147009,2025-10-19 10:00,CF Villanovense,SP Villafranca,3,1,,,
-63694637,2025-10-19 10:00,CD Calamonte,CD Gevora,0,1,,,
-63146995,2025-10-19 15:00,CD Cabeza Del Buey,CD Diocesano,3,1,,,
-63146999,2025-10-19 15:00,CF Jaraiz,CD Santa Amalia,1,0,,,
-63147005,2025-10-19 15:00,Cp Montehermoso,CD Don Benito,0,7,,,
-63147001,2025-10-19 15:30,Jerez CF,Atletico Club Pueblonuevo,5,1,,,
-63147003,2025-10-19 15:30,AD Llerenense,Moralo CP,0,0,,,
-63147021,2025-10-25 15:30,Atletico Club Pueblonuevo,CD Badajoz,0,3,,,
-63147023,2025-10-25 17:00,CD Santa Amalia,EF Puebla de la Calzada,1,1,,,
-63147013,2025-10-26 11:00,CD Diocesano,CF Villanovense,0,0,,,
-63147015,2025-10-26 11:00,CD Don Benito,CF Jaraiz,2,2,,,
-63147017,2025-10-26 11:00,UD Montijo,AD Llerenense,2,0,,,
-63147011,2025-10-26 11:15,CD Azuaga,CD Calamonte,1,0,,,
-63694639,2025-10-26 11:15,CD Gevora,Jerez CF,2,2,,,
-63147019,2025-10-26 11:30,Moralo CP,CD Cabeza Del Buey,1,3,,,
-63147025,2025-10-26 11:30,SP Villafranca,Cp Montehermoso,1,0,,,
-63147035,2025-11-01 15:30,AD Llerenense,Atletico Club Pueblonuevo,2,0,,,
-63147029,2025-11-02 11:00,CD Calamonte,CD Santa Amalia,1,2,,,
-63147041,2025-11-02 11:00,CF Villanovense,Moralo CP,0,1,,,
-63147039,2025-11-02 11:15,EF Puebla de la Calzada,CD Don Benito,1,1,,,
-63147027,2025-11-02 11:30,CD Cabeza Del Buey,UD Montijo,1,0,,,
-63147033,2025-11-02 11:30,Jerez CF,CD Badajoz,0,0,,,
-63147031,2025-11-02 15:30,CF Jaraiz,SP Villafranca,4,1,,,
-63147037,2025-11-02 15:30,Cp Montehermoso,CD Diocesano,1,1,,,
-63694641,2025-11-02 15:30,CD Gevora,CD Azuaga,2,2,,,
-63147055,2025-11-08 15:30,Atletico Club Pueblonuevo,CD Cabeza Del Buey,0,0,,,
-63147047,2025-11-09 11:00,CD Diocesano,CF Jaraiz,2,3,,,
-63147049,2025-11-09 11:00,CD Don Benito,CD Calamonte,2,0,,,
-63147051,2025-11-09 11:00,UD Montijo,CF Villanovense,1,0,,,
-63147057,2025-11-09 11:30,SP Villafranca,EF Puebla de la Calzada,1,2,,,
-63694643,2025-11-09 16:00,CD Santa Amalia,CD Gevora,1,1,,,
-63147043,2025-11-09 16:30,CD Azuaga,Jerez CF,3,3,,,
-63147053,2025-11-09 17:15,Moralo CP,Cp Montehermoso,4,1,,,
-63147045,2025-11-09 18:00,CD Badajoz,AD Llerenense,1,1,,,
-63147063,2025-11-16 11:00,CD Calamonte,SP Villafranca,2,2,,,
-63147073,2025-11-16 11:00,CF Villanovense,Atletico Club Pueblonuevo,1,1,,,
-63147059,2025-11-16 11:15,CD Azuaga,CD Santa Amalia,1,0,,,
-63147061,2025-11-16 11:30,CD Cabeza Del Buey,CD Badajoz,3,1,,,
-63147067,2025-11-16 11:30,Jerez CF,AD Llerenense,4,1,,,
-63147071,2025-11-16 11:30,EF Puebla de la Calzada,CD Diocesano,2,1,,,
-63694645,2025-11-16 15:15,CD Gevora,CD Don Benito,0,3,,,
-63147065,2025-11-16 15:30,CF Jaraiz,Moralo CP,3,0,,,
-63147069,2025-11-16 15:30,Cp Montehermoso,UD Montijo,1,2,,,
-63147089,2025-11-22 17:00,CD Santa Amalia,Jerez CF,2,2,,,
-63147085,2025-11-22 19:00,Moralo CP,EF Puebla de la Calzada,1,1,,,
-63147075,2025-11-23 11:00,CD Badajoz,CF Villanovense,1,0,,,
-63147077,2025-11-23 11:00,CD Diocesano,CD Calamonte,1,1,,,
-63147083,2025-11-23 11:00,UD Montijo,CF Jaraiz,1,0,,,
-63147087,2025-11-23 11:00,Atletico Club Pueblonuevo,Cp Montehermoso,1,1,,,
-63147079,2025-11-23 11:15,CD Don Benito,CD Azuaga,1,2,,,
-63694647,2025-11-23 11:30,SP Villafranca,CD Gevora,2,0,,,
-63147081,2025-11-23 15:30,AD Llerenense,CD Cabeza Del Buey,1,2,,,
-63147095,2025-12-07 11:00,CD Calamonte,Moralo CP,1,1,,,
-63147107,2025-12-07 11:00,CF Villanovense,AD Llerenense,1,0,,,
-63147091,2025-12-07 11:15,CD Azuaga,SP Villafranca,1,1,,,
-63147103,2025-12-07 11:15,EF Puebla de la Calzada,UD Montijo,1,1,,,
-63147099,2025-12-07 11:30,Jerez CF,CD Cabeza Del Buey,1,1,,,
-63147101,2025-12-07 15:00,Cp Montehermoso,CD Badajoz,0,1,,,
-63694649,2025-12-07 15:15,CD Gevora,CD Diocesano,0,0,,,
-63147097,2025-12-07 15:30,CF Jaraiz,Atletico Club Pueblonuevo,2,1,,,
-63147105,2025-12-07 16:00,CD Santa Amalia,CD Don Benito,0,2,,,
-63147123,2025-12-13 15:30,SP Villafranca,CD Santa Amalia,1,2,2.050,3.100,3.250
-63147111,2025-12-14 11:00,CD Badajoz,CF Jaraiz,2,1,2.050,3.100,3.400
-63147113,2025-12-14 11:00,CD Diocesano,CD Azuaga,3,1,2.700,3.250,2.300
-63147119,2025-12-14 11:00,UD Montijo,CD Calamonte,0,2,1.550,3.600,5.250
-63147109,2025-12-14 11:30,CD Cabeza Del Buey,CF Villanovense,0,0,,,
-63147121,2025-12-14 11:30,Atletico Club Pueblonuevo,EF Puebla de la Calzada,2,0,,,
-63147117,2025-12-14 15:30,AD Llerenense,Cp Montehermoso,1,0,,,
-63147115,2025-12-14 16:00,CD Don Benito,Jerez CF,1,1,1.444,3.800,6.500
-63694651,2025-12-14 16:00,Moralo CP,CD Gevora,2,1,1.600,3.700,4.750
-63147125,2025-12-19 18:30,CD Azuaga,Moralo CP,1,2,,,
-63147127,2025-12-20 15:00,CD Calamonte,Atletico Club Pueblonuevo,2,0,1.800,3.500,3.750
-63147131,2025-12-20 15:00,CF Jaraiz,AD Llerenense,1,1,,,
-63147135,2025-12-20 15:00,Cp Montehermoso,CD Cabeza Del Buey,0,3,,,
-63147133,2025-12-20 16:30,Jerez CF,CF Villanovense,2,1,2.750,3.100,2.300
-63147129,2025-12-20 17:00,CD Don Benito,SP Villafranca,3,0,,,
-63147137,2025-12-20 17:00,EF Puebla de la Calzada,CD Badajoz,1,1,4.500,3.200,1.700
-63147139,2025-12-20 17:00,CD Santa Amalia,CD Diocesano,1,0,,,
-63694653,2025-12-21 16:30,CD Gevora,UD Montijo,1,3,2.550,3.250,2.450
-63147141,2026-01-03 15:30,CD Cabeza Del Buey,CF Jaraiz,0,0,2.100,3.250,3.000
-63147143,2026-01-04 11:00,CD Badajoz,CD Calamonte,2,0,1.363,4.333,7.000
-63147151,2026-01-04 11:00,UD Montijo,CD Azuaga,2,1,2.450,3.200,2.700
-63147155,2026-01-04 11:00,CF Villanovense,Cp Montehermoso,4,1,,,
-63694655,2026-01-04 11:00,Atletico Club Pueblonuevo,CD Gevora,1,1,,,
-63147149,2026-01-04 11:15,AD Llerenense,EF Puebla de la Calzada,1,0,,,
-63147147,2026-01-04 11:30,Jerez CF,SP Villafranca,1,1,1.750,3.400,4.000
-63147145,2026-01-04 15:00,CD Diocesano,CD Don Benito,0,1,4.000,3.200,1.833
-63147153,2026-01-04 17:00,Moralo CP,CD Santa Amalia,2,0,1.650,3.700,4.200
-63147159,2026-01-11 11:00,CD Calamonte,AD Llerenense,0,2,2.800,3.100,2.300
-63147161,2026-01-11 11:00,CD Don Benito,Moralo CP,1,1,1.500,4.000,5.000
-63147157,2026-01-11 11:15,CD Azuaga,Atletico Club Pueblonuevo,1,0,,,
-63147167,2026-01-11 11:30,EF Puebla de la Calzada,CD Cabeza Del Buey,0,0,,,
-63147171,2026-01-11 11:30,SP Villafranca,CD Diocesano,1,0,2.250,3.400,2.700
-63147163,2026-01-11 15:30,CF Jaraiz,CF Villanovense,1,1,,,
-63147165,2026-01-11 15:30,Cp Montehermoso,Jerez CF,1,1,,,
-63147169,2026-01-11 16:00,CD Santa Amalia,UD Montijo,1,0,,,
-63694657,2026-01-11 16:00,CD Gevora,CD Badajoz,0,3,4.500,3.400,1.650
-63147175,2026-01-18 11:00,CD Calamonte,CD Cabeza Del Buey,0,1,,,
-63147177,2026-01-18 11:00,CD Diocesano,Jerez CF,1,5,,,
-63147179,2026-01-18 11:00,CD Don Benito,UD Montijo,2,0,,,
-63147187,2026-01-18 11:00,SP Villafranca,Moralo CP,0,1,2.625,3.200,2.375
-63147173,2026-01-18 11:15,CD Azuaga,CD Badajoz,1,2,,,
-63147183,2026-01-18 11:30,EF Puebla de la Calzada,CF Villanovense,2,2,,,
-63147181,2026-01-18 15:30,CF Jaraiz,Cp Montehermoso,2,2,,,
-63147185,2026-01-18 16:00,CD Santa Amalia,Atletico Club Pueblonuevo,3,2,,,
-63694659,2026-01-18 16:00,CD Gevora,AD Llerenense,1,2,2.625,3.100,2.400
-63147189,2026-01-25 11:00,CD Badajoz,CD Santa Amalia,2,2,1.333,4.000,8.500
-63147197,2026-01-25 11:00,UD Montijo,SP Villafranca,0,1,1.727,3.300,4.333
-63147203,2026-01-25 11:00,CF Villanovense,CD Calamonte,3,0,1.533,3.400,5.750
-63147191,2026-01-25 11:30,Jerez CF,CF Jaraiz,2,2,2.625,3.600,2.200
-63147201,2026-01-25 11:30,Atletico Club Pueblonuevo,CD Don Benito,0,1,,,
-63694661,2026-01-25 11:30,CD Cabeza Del Buey,CD Gevora,2,0,,,
-63147193,2026-01-25 15:30,AD Llerenense,CD Azuaga,0,0,,,
-63147195,2026-01-25 15:30,Cp Montehermoso,EF Puebla de la Calzada,1,0,,,
-63147199,2026-01-25 16:00,Moralo CP,CD Diocesano,4,1,,,
-63147209,2026-02-01 11:00,CD Diocesano,UD Montijo,1,0,2.700,3.250,2.300
-63147219,2026-02-01 11:00,SP Villafranca,Atletico Club Pueblonuevo,4,0,1.550,3.750,5.250
-63147205,2026-02-01 11:15,CD Azuaga,CD Cabeza Del Buey,3,1,,,
-63147207,2026-02-01 11:30,CD Calamonte,Cp Montehermoso,0,0,1.666,3.500,4.500
-63147215,2026-02-01 11:30,EF Puebla de la Calzada,CF Jaraiz,0,1,,,
-63147213,2026-02-01 15:30,Moralo CP,Jerez CF,0,1,,,
-63147211,2026-02-01 16:00,CD Don Benito,CD Badajoz,1,1,,,
-63147217,2026-02-01 16:00,CD Santa Amalia,AD Llerenense,1,2,2.250,3.000,3.000
-63694663,2026-02-01 16:00,CD Gevora,CF Villanovense,0,0,2.800,2.800,2.500
-63147231,2026-02-08 10:00,UD Montijo,Moralo CP,0,0,2.400,3.100,2.700
-63147223,2026-02-08 11:00,CD Badajoz,SP Villafranca,1,0,1.333,4.333,7.500
-63147235,2026-02-08 11:00,CF Villanovense,CD Azuaga,0,1,,,
-63147221,2026-02-08 11:30,CD Cabeza Del Buey,CD Santa Amalia,3,0,,,
-63147225,2026-02-08 15:30,CF Jaraiz,CD Calamonte,1,2,1.363,4.200,7.000
-63147229,2026-02-08 15:30,AD Llerenense,CD Don Benito,1,0,,,
-63694665,2026-02-08 15:30,Cp Montehermoso,CD Gevora,1,3,,,
-63147237,2026-02-14 15:30,CD Azuaga,Cp Montehermoso,1,0,1.250,4.750,11.000
-63147245,2026-02-14 15:30,UD Montijo,Jerez CF,0,1,2.200,3.200,2.875
-63147251,2026-02-15 10:00,SP Villafranca,AD Llerenense,2,1,2.500,3.000,2.625
-63147239,2026-02-15 11:00,CD Calamonte,EF Puebla de la Calzada,1,1,,,
-63147241,2026-02-15 11:00,CD Diocesano,CD Badajoz,0,2,,,
-63147243,2026-02-15 11:00,CD Don Benito,CD Cabeza Del Buey,3,1,,,
-63147247,2026-02-15 11:00,Moralo CP,Atletico Club Pueblonuevo,2,0,1.181,6.000,11.000
-63147249,2026-02-15 16:30,CD Santa Amalia,CF Villanovense,0,1,2.800,3.100,2.300
-63694667,2026-02-15 16:30,CD Gevora,CF Jaraiz,0,0,2.625,3.500,2.200
-63147257,2026-02-21 15:30,CF Jaraiz,CD Azuaga,1,1,2.350,3.100,2.750
-63147255,2026-02-22 11:00,CD Badajoz,Moralo CP,0,1,1.750,3.200,4.200
-63147267,2026-02-22 11:00,CF Villanovense,CD Don Benito,0,5,3.300,2.900,2.150
-63147259,2026-02-22 11:30,Jerez CF,CD Calamonte,0,0,1.533,3.500,5.500
-63694669,2026-02-22 11:30,EF Puebla de la Calzada,CD Gevora,3,2,1.909,3.400,3.400
-63147253,2026-02-22 16:00,CD Cabeza Del Buey,SP Villafranca,1,0,,,
-63147261,2026-02-22 16:00,AD Llerenense,CD Diocesano,3,0,,,
-63147263,2026-02-22 16:00,Cp Montehermoso,CD Santa Amalia,3,1,,,
-63147265,2026-02-22 16:00,Atletico Club Pueblonuevo,UD Montijo,2,2,,,
-68939114,2026-02-25 20:00,Jerez CF,EF Puebla de la Calzada,2,2,1.600,3.700,4.500
-63147271,2026-03-01 11:00,CD Diocesano,CD Cabeza Del Buey,0,0,,,
-63147275,2026-03-01 11:00,UD Montijo,CD Badajoz,1,2,1.480,3.600,6.500
-63147283,2026-03-01 11:00,SP Villafranca,CF Villanovense,1,1,,,
-63147269,2026-03-01 11:15,CD Azuaga,EF Puebla de la Calzada,2,0,,,
-63147277,2026-03-01 12:00,Moralo CP,AD Llerenense,3,0,1.800,3.400,3.800
-63147273,2026-03-01 16:00,CD Don Benito,Cp Montehermoso,3,1,,,
-63147279,2026-03-01 16:00,Atletico Club Pueblonuevo,Jerez CF,3,2,,,
-63147281,2026-03-01 16:30,CD Santa Amalia,CF Jaraiz,1,4,3.200,3.100,2.100
-63694671,2026-03-01 16:30,CD Gevora,CD Calamonte,1,0,1.800,3.250,3.900
-63147287,2026-03-08 11:00,CD Badajoz,Atletico Club Pueblonuevo,1,0,1.062,9.000,23.000
-63147289,2026-03-08 11:00,CD Calamonte,CD Azuaga,0,1,4.500,3.250,1.700
-63147299,2026-03-08 11:00,CF Villanovense,CD Diocesano,5,1,1.500,3.750,5.500
-63147285,2026-03-08 11:30,CD Cabeza Del Buey,Moralo CP,1,3,,,
-63694673,2026-03-08 11:30,Jerez CF,CD Gevora,3,1,,,
-63147291,2026-03-08 16:00,CF Jaraiz,CD Don Benito,3,0,3.100,3.200,2.150
-63147293,2026-03-08 16:00,AD Llerenense,UD Montijo,2,2,,,
-63147295,2026-03-08 16:30,Cp Montehermoso,SP Villafranca,1,0,,,
-63147297,2026-03-08 17:30,EF Puebla de la Calzada,CD Santa Amalia,3,2,,,
-63147307,2026-03-14 15:00,UD Montijo,CD Cabeza Del Buey,1,1,2.500,,2.500
-63147303,2026-03-15 11:00,CD Diocesano,Cp Montehermoso,0,0,1.850,3.400,3.600
-63147305,2026-03-15 11:00,CD Don Benito,EF Puebla de la Calzada,4,0,,,
-63147315,2026-03-15 11:00,SP Villafranca,CF Jaraiz,2,1,2.450,3.200,2.550
-63694675,2026-03-15 11:15,CD Azuaga,CD Gevora,2,0,,,
-63147309,2026-03-15 11:30,Moralo CP,CF Villanovense,3,0,,,
-63147311,2026-03-15 16:30,Atletico Club Pueblonuevo,AD Llerenense,2,0,,,
-63147313,2026-03-15 16:30,CD Santa Amalia,CD Calamonte,2,1,1.800,3.000,4.333
-63147301,2026-03-15 17:00,CD Badajoz,Jerez CF,5,4,1.363,4.100,7.500
-63147329,2026-03-21 17:00,EF Puebla de la Calzada,SP Villafranca,1,2,,,
-63147331,2026-03-22 11:00,CF Villanovense,UD Montijo,3,1,1.909,3.100,3.750
-63147317,2026-03-22 16:00,CD Cabeza Del Buey,Atletico Club Pueblonuevo,2,0,,,
-63147319,2026-03-22 16:00,CD Calamonte,CD Don Benito,1,1,7.000,3.600,1.450
-63147321,2026-03-22 16:00,CF Jaraiz,CD Diocesano,3,0,1.380,4.200,6.500
-63147323,2026-03-22 16:00,Jerez CF,CD Azuaga,2,3,2.550,3.250,2.400
-63147325,2026-03-22 16:00,AD Llerenense,CD Badajoz,0,3,,,
-63147327,2026-03-22 16:30,Cp Montehermoso,Moralo CP,1,2,,,
-63694677,2026-03-22 17:00,CD Gevora,CD Santa Amalia,3,0,1.909,3.250,3.500
-63147337,2026-03-28 16:30,AD Llerenense,Jerez CF,1,1,,,
-63147339,2026-03-28 16:30,UD Montijo,Cp Montehermoso,4,0,1.950,3.200,3.600
-63147343,2026-03-28 17:00,Atletico Club Pueblonuevo,CF Villanovense,2,0,,,
-63147345,2026-03-29 09:00,CD Santa Amalia,CD Azuaga,0,4,,,
-63147333,2026-03-29 10:00,CD Badajoz,CD Cabeza Del Buey,2,1,1.420,4.000,6.500
-63147335,2026-03-29 10:00,CD Diocesano,EF Puebla de la Calzada,1,0,,,
-63147347,2026-03-29 10:00,SP Villafranca,CD Calamonte,1,0,,,
-63694679,2026-03-29 10:00,CD Don Benito,CD Gevora,2,0,1.166,6.000,12.000
-63147341,2026-03-29 10:30,Moralo CP,CF Jaraiz,0,1,,,
-68939162,2026-04-02 10:00,Atletico Club Pueblonuevo,CD Diocesano,2,1,,,
-63147361,2026-04-02 10:30,EF Puebla de la Calzada,Moralo CP,0,2,,,
-63147351,2026-04-03 10:15,CD Cabeza Del Buey,AD Llerenense,1,0,,,
-63694681,2026-04-03 10:15,CD Gevora,SP Villafranca,1,3,,,
-63147357,2026-04-04 16:30,Jerez CF,CD Santa Amalia,2,2,1.571,3.750,4.750
-63147349,2026-04-05 09:30,CD Azuaga,CD Don Benito,0,1,1.480,4.000,5.500
-63147353,2026-04-05 10:00,CD Calamonte,CD Diocesano,1,1,,,
-63147359,2026-04-05 10:00,Cp Montehermoso,Atletico Club Pueblonuevo,1,0,,,
-63147363,2026-04-05 10:00,CF Villanovense,CD Badajoz,1,2,,,
-63147355,2026-04-05 17:30,CF Jaraiz,UD Montijo,1,1,,,
-63147369,2026-04-12 10:00,CD Don Benito,CD Santa Amalia,1,0,,,
-63147373,2026-04-12 10:00,UD Montijo,EF Puebla de la Calzada,1,0,,,
-63147375,2026-04-12 10:00,Moralo CP,CD Calamonte,1,1,1.285,4.500,8.500
-63147379,2026-04-12 10:00,SP Villafranca,CD Azuaga,0,2,2.250,3.200,2.750
-63694683,2026-04-12 10:00,CD Diocesano,CD Gevora,2,1,,,
-63147365,2026-04-12 10:30,CD Cabeza Del Buey,Jerez CF,3,0,,,
-63147371,2026-04-12 16:00,AD Llerenense,CF Villanovense,0,2,,,
-63147377,2026-04-12 16:00,Atletico Club Pueblonuevo,CF Jaraiz,1,0,,,
-63147367,2026-04-12 17:00,CD Badajoz,Cp Montehermoso,4,0,,,
-63147389,2026-04-19 09:00,Cp Montehermoso,AD Llerenense,2,2,,,
-63147383,2026-04-19 10:00,CD Calamonte,UD Montijo,2,3,,,
-63147391,2026-04-19 10:00,EF Puebla de la Calzada,Atletico Club Pueblonuevo,3,1,,,
-63147395,2026-04-19 10:00,CF Villanovense,CD Cabeza Del Buey,3,2,,,
-63147381,2026-04-19 11:00,CD Azuaga,CD Diocesano,2,0,,,
-63147385,2026-04-19 16:00,CF Jaraiz,CD Badajoz,1,4,3.500,3.500,1.833
-63147387,2026-04-19 16:00,Jerez CF,CD Don Benito,0,2,,,
-63694685,2026-04-19 16:00,CD Gevora,Moralo CP,2,1,4.333,3.400,1.700
-63147393,2026-04-19 16:30,CD Santa Amalia,SP Villafranca,0,2,,,
-63147401,2026-04-26 10:00,CD Diocesano,CD Santa Amalia,0,0,,,
-63147411,2026-04-26 10:00,CF Villanovense,Jerez CF,2,0,,,
-63694687,2026-04-26 10:00,UD Montijo,CD Gevora,0,1,,,
-63147405,2026-04-26 11:00,Moralo CP,CD Azuaga,1,1,,,
-63147397,2026-04-26 16:00,CD Cabeza Del Buey,Cp Montehermoso,2,1,,,
-63147407,2026-04-26 16:00,Atletico Club Pueblonuevo,CD Calamonte,2,0,,,
-63147399,2026-04-26 16:30,CD Badajoz,EF Puebla de la Calzada,5,0,,,
-63147403,2026-04-26 16:30,AD Llerenense,CF Jaraiz,1,1,,,
-63147409,2026-04-26 16:30,SP Villafranca,CD Don Benito,1,0,3.750,3.200,1.833
-63147423,2026-05-01 10:00,EF Puebla de la Calzada,AD Llerenense,4,1,,,
-63147413,2026-05-02 10:00,CD Azuaga,UD Montijo,4,2,,,
-63147415,2026-05-03 10:00,CD Calamonte,CD Badajoz,0,3,,,
-63147417,2026-05-03 10:00,CD Don Benito,CD Diocesano,8,1,1.200,5.250,11.000
-63147427,2026-05-03 10:00,SP Villafranca,Jerez CF,2,1,,,
-63147421,2026-05-03 16:30,Cp Montehermoso,CF Villanovense,0,3,,,
-63694689,2026-05-03 16:30,CD Gevora,Atletico Club Pueblonuevo,1,1,,,
-63147419,2026-05-03 17:00,CF Jaraiz,CD Cabeza Del Buey,2,1,,,
-63147425,2026-05-03 17:00,CD Santa Amalia,Moralo CP,0,2,,,
-63147435,2026-05-09 16:30,AD Llerenense,CD Calamonte,3,1,,,
-63147437,2026-05-10 10:00,UD Montijo,CD Santa Amalia,2,1,,,
-63147429,2026-05-10 16:00,CD Cabeza Del Buey,EF Puebla de la Calzada,1,0,,,
-63147431,2026-05-10 16:00,CD Diocesano,SP Villafranca,4,4,2.900,3.400,2.100
-63147433,2026-05-10 16:00,Jerez CF,Cp Montehermoso,5,1,,,
-63147439,2026-05-10 16:00,Moralo CP,CD Don Benito,1,1,,,
-63147441,2026-05-10 16:00,Atletico Club Pueblonuevo,CD Azuaga,1,0,,,
-63147443,2026-05-10 16:00,CF Villanovense,CF Jaraiz,0,1,,,
-63694691,2026-05-10 16:00,CD Badajoz,CD Gevora,3,0,,,
-71483688,2026-05-17 11:00,CD Azuaga,Moralo CP,0,1,2.350,2.700,3.100
-71483690,2026-05-17 16:00,CF Jaraiz,CD Badajoz,1,0,3.200,3.300,2.050
-71483698,2026-05-23 17:00,Moralo CP,CD Azuaga,0,0,,,
-71483696,2026-05-24 16:30,CD Badajoz,CF Jaraiz,2,0,1.480,3.900,5.500
-71753440,2026-05-31 17:00,Moralo CP,CD Badajoz,0,2,,,
-71753444,2026-06-07 17:30,CD Badajoz,Moralo CP,0,0,,,
-73564220,2026-09-05 18:00,CD Castuera Subastacar,CD Gevora,5,0,,,
-73564218,2026-09-06 10:00,UP Plasencia,CD Santa Amalia,0,0,2.100,3.250,3.000
-73564206,2026-09-06 10:30,UD Montijo,CD Cabeza Del Buey,1,3,,,
-73564212,2026-09-06 10:30,Moralo CP,CF Villanovense,2,1,,,
-73564214,2026-09-06 16:30,Atletico Club Pueblonuevo,CF Jaraiz,2,2,5.000,4.333,1.444
-73564208,2026-09-06 17:00,SP Villafranca,CD Azuaga,1,4,,,
-73564216,2026-09-06 17:00,CD Quintana,CD Zafra,0,1,,,
-73564222,2026-09-06 17:00,Jerez CF,EF Puebla de la Calzada,2,2,,,
-73564210,2026-09-06 17:30,AD Llerenense,CD Guadiana,1,0,,,
-73564228,2026-09-12 17:00,CD Guadiana,SP Villafranca,0,2,,,
-73564224,2026-09-13 10:00,CD Cabeza Del Buey,Jerez CF,0,1,,,
-73564230,2026-09-13 10:00,CF Villanovense,AD Llerenense,0,1,,,
-73564234,2026-09-13 10:15,CD Zafra,Atletico Club Pueblonuevo,4,1,,,
-73564226,2026-09-13 10:30,CD Azuaga,UD Montijo,2,0,,,
-73564232,2026-09-13 17:00,CF Jaraiz,Moralo CP,2,3,,,
-73564238,2026-09-13 17:00,CD Gevora,UP Plasencia,4,2,,,
-73564240,2026-09-13 17:00,EF Puebla de la Calzada,CD Castuera Subastacar,2,0,,,
-73564236,2026-09-13 17:30,CD Santa Amalia,CD Quintana,3,0,1.950,3.100,3.700
-73564248,2026-09-19 17:00,AD Llerenense,CF Jaraiz,1,0,,,
-73564256,2026-09-19 17:00,UP Plasencia,EF Puebla de la Calzada,0,3,,,
-73564246,2026-09-20 10:00,SP Villafranca,CF Villanovense,0,1,,,
-73564250,2026-09-20 10:00,Moralo CP,CD Zafra,2,0,,,
-73564242,2026-09-20 10:30,CD Cabeza Del Buey,CD Azuaga,1,2,,,
-73564244,2026-09-20 10:30,UD Montijo,CD Guadiana,3,1,,,
-73564252,2026-09-20 17:00,Atletico Club Pueblonuevo,CD Santa Amalia,1,1,3.200,3.100,2.150
-73564254,2026-09-20 17:00,CD Quintana,CD Gevora,0,0,,,
-73564258,2026-09-20 17:00,Jerez CF,CD Castuera Subastacar,1,2,,,
-73564264,2026-09-27 10:00,CF Villanovense,UD Montijo,2,0,1.650,3.500,4.750
-73564278,2026-09-27 10:00,CD Castuera Subastacar,UP Plasencia,1,0,,,
-73564260,2026-09-27 10:15,CD Azuaga,Jerez CF,2,0,,,
-73564268,2026-09-27 10:30,CD Zafra,AD Llerenense,0,0,2.450,3.100,2.700
-73564266,2026-09-27 16:00,CF Jaraiz,SP Villafranca,2,1,,,
-73564262,2026-09-27 16:30,CD Guadiana,CD Cabeza Del Buey,1,1,,,
-73564274,2026-09-27 16:30,CD Gevora,Atletico Club Pueblonuevo,3,1,,,
-73564272,2026-09-27 17:00,CD Santa Amalia,Moralo CP,1,1,,,
-73564276,2026-09-27 17:00,EF Puebla de la Calzada,CD Quintana,1,2,1.533,3.600,5.500
-73564284,2026-10-03 15:30,Atletico Club Pueblonuevo,EF Puebla de la Calzada,0,0,,,
-73564282,2026-10-04 10:00,Moralo CP,CD Gevora,1,1,,,
-73564290,2026-10-04 10:15,CD Azuaga,CD Guadiana,4,0,,,
-73564292,2026-10-04 10:30,CD Cabeza Del Buey,CF Villanovense,1,1,,,
-73564294,2026-10-04 10:30,UD Montijo,CF Jaraiz,2,0,2.800,3.200,2.200
-73564306,2026-10-09 18:00,CD Santa Amalia,SP Villafranca,1,3,1.850,3.400,3.600
-73564300,2026-10-11 10:00,CF Villanovense,CD Azuaga,2,0,2.400,3.200,2.625
-73564310,2026-10-11 10:00,EF Puebla de la Calzada,Moralo CP,1,3,,,
-73564312,2026-10-11 10:00,CD Castuera Subastacar,Atletico Club Pueblonuevo,5,0,,,
-73564314,2026-10-11 10:00,UP Plasencia,CD Quintana,0,0,2.200,3.200,2.900
-73564304,2026-10-11 10:15,CD Zafra,UD Montijo,1,1,1.850,3.250,3.750
-73564298,2026-10-11 15:30,CD Guadiana,Jerez CF,1,4,,,
-73564302,2026-10-11 15:30,CF Jaraiz,CD Cabeza Del Buey,0,0,2.100,3.200,3.100
-73564308,2026-10-11 16:00,CD Gevora,AD Llerenense,1,2,2.450,3.300,2.500
-73564326,2026-10-17 16:30,AD Llerenense,EF Puebla de la Calzada,2,1,1.800,3.400,3.800
-73564332,2026-10-17 17:00,Jerez CF,CD Quintana,1,0,,,
-73564324,2026-10-18 10:00,SP Villafranca,CD Gevora,2,1,1.800,3.400,3.800
-73564330,2026-10-18 10:00,Atletico Club Pueblonuevo,UP Plasencia,3,4,,,
-73564320,2026-10-18 10:30,CD Cabeza Del Buey,CD Zafra,2,1,,,
-73564322,2026-10-18 10:30,UD Montijo,CD Santa Amalia,0,0,2.150,3.200,3.000
-73564328,2026-10-18 10:30,Moralo CP,CD Castuera Subastacar,2,1,,,
-73564318,2026-10-18 11:00,CD Azuaga,CF Jaraiz,3,2,,,
-73564316,2026-10-18 15:30,CD Guadiana,CF Villanovense,0,2,,,
-75667514,2026-10-21 16:00,AD Llerenense,CD Santa Amalia,3,0,,,
-75667518,2026-10-21 17:00,Jerez CF,UP Plasencia,0,0,1.533,3.900,5.000
-75667516,2026-10-21 18:00,CD Quintana,CD Castuera Subastacar,1,1,,,
-75667528,2026-10-21 18:00,SP Villafranca,CD Zafra,2,2,1.833,3.400,3.700
-73564334,2026-10-25 11:00,CF Villanovense,Jerez CF,5,1,1.600,3.600,4.750
-73564346,2026-10-25 11:00,CD Castuera Subastacar,AD Llerenense,0,0,,,
-73564348,2026-10-25 11:00,UP Plasencia,Moralo CP,1,1,,,
-73564338,2026-10-25 11:15,CD Zafra,CD Azuaga,1,2,3.500,3.500,1.850
-73564344,2026-10-25 11:15,EF Puebla de la Calzada,SP Villafranca,2,1,,,
-73564336,2026-10-25 16:00,CF Jaraiz,CD Guadiana,4,0,,,
-73564340,2026-10-25 16:00,CD Santa Amalia,CD Cabeza Del Buey,3,3,2.750,3.100,2.350
-73564342,2026-10-25 16:00,CD Gevora,UD Montijo,2,0,,,
-73564350,2026-10-25 16:00,CD Quintana,Atletico Club Pueblonuevo,4,1,,,
-73564352,2026-11-01 11:00,CF Villanovense,CF Jaraiz,0,0,1.550,3.700,5.250
-73564362,2026-11-01 11:00,SP Villafranca,CD Castuera Subastacar,0,1,,,
-73564356,2026-11-01 11:30,CD Azuaga,CD Santa Amalia,0,0,,,
-73564358,2026-11-01 11:30,CD Cabeza Del Buey,CD Gevora,3,2,,,
-73564360,2026-11-01 11:30,UD Montijo,EF Puebla de la Calzada,1,3,,,
-73564366,2026-11-01 11:30,Moralo CP,CD Quintana,0,2,,,
-73564368,2026-11-01 11:30,Jerez CF,Atletico Club Pueblonuevo,1,1,1.333,4.500,6.500
-73564354,2026-11-01 15:30,CD Guadiana,CD Zafra,0,4,,,
-73564364,2026-11-01 15:30,AD Llerenense,UP Plasencia,0,0,,,
-73564380,2026-11-08 11:00,CD Castuera Subastacar,UD Montijo,2,0,,,
-73564382,2026-11-08 11:00,UP Plasencia,SP Villafranca,3,5,2.450,3.200,2.500
-73564378,2026-11-08 11:15,EF Puebla de la Calzada,CD Cabeza Del Buey,2,1,2.400,3.200,2.550
-73564372,2026-11-08 11:30,CD Zafra,CF Villanovense,0,0,,,
-73564370,2026-11-08 15:30,CF Jaraiz,Jerez CF,2,0,,,
-73564374,2026-11-08 15:30,CD Santa Amalia,CD Guadiana,4,0,1.250,6.000,7.500
-73564376,2026-11-08 15:30,CD Gevora,CD Azuaga,1,1,,,
-73564384,2026-11-08 15:30,CD Quintana,AD Llerenense,1,1,,,
-73564386,2026-11-08 16:30,Atletico Club Pueblonuevo,Moralo CP,0,1,,,
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+60808487,2025-06-01 18:00,CD Badajoz,AD Llerenense,1,0,,,,,,
+63146861,2025-09-06 17:00,Moralo CP,SP Villafranca,1,1,,,,,,
+63146859,2025-09-07 10:00,UD Montijo,CD Don Benito,2,0,,,,,,
+63146863,2025-09-07 10:00,Atletico Club Pueblonuevo,CD Santa Amalia,0,2,,,,,,
+63146865,2025-09-07 10:00,CF Villanovense,EF Puebla de la Calzada,2,1,,,,,,
+63146851,2025-09-07 17:00,CD Cabeza Del Buey,CD Calamonte,2,2,,,,,,
+63146855,2025-09-07 17:00,Jerez CF,CD Diocesano,0,0,,,,,,
+63146857,2025-09-07 17:00,Cp Montehermoso,CF Jaraiz,0,3,,,,,,
+63146869,2025-09-14 10:00,CD Calamonte,CF Villanovense,0,1,,,,,,
+63146873,2025-09-14 10:00,CD Don Benito,Atletico Club Pueblonuevo,6,1,,,,,,
+63146867,2025-09-14 10:30,CD Azuaga,AD Llerenense,3,1,,,,,,
+63146881,2025-09-14 10:30,SP Villafranca,UD Montijo,2,1,,,,,,
+63146871,2025-09-14 16:00,CD Diocesano,Moralo CP,4,4,,,,,,
+63694627,2025-09-14 16:00,CD Gevora,CD Cabeza Del Buey,1,0,,,,,,
+63146875,2025-09-14 16:30,CF Jaraiz,Jerez CF,2,0,,,,,,
+63146877,2025-09-14 16:30,EF Puebla de la Calzada,Cp Montehermoso,1,0,,,,,,
+63146879,2025-09-14 17:00,CD Santa Amalia,CD Badajoz,1,0,,,,,,
+63146895,2025-09-21 10:00,UD Montijo,CD Diocesano,1,1,,,,,,
+63146943,2025-09-21 10:00,Atletico Club Pueblonuevo,SP Villafranca,1,3,,,,,,
+63694629,2025-09-21 10:00,CF Villanovense,CD Gevora,3,2,,,,,,
+63146885,2025-09-21 15:00,CD Badajoz,CD Don Benito,0,1,,,,,,
+63146883,2025-09-21 16:00,CD Cabeza Del Buey,CD Azuaga,1,1,,,,,,
+63146891,2025-09-21 16:00,AD Llerenense,CD Santa Amalia,1,0,,,,,,
+63146887,2025-09-21 16:30,CF Jaraiz,EF Puebla de la Calzada,0,1,,,,,,
+63146889,2025-09-21 16:30,Jerez CF,Moralo CP,2,2,,,,,,
+63146893,2025-09-21 16:30,Cp Montehermoso,CD Calamonte,1,1,,,,,,
+63146949,2025-09-28 10:00,CD Diocesano,Atletico Club Pueblonuevo,2,0,,,,,,
+63146951,2025-09-28 10:00,CD Don Benito,AD Llerenense,1,0,,,,,,
+63146961,2025-09-28 10:00,SP Villafranca,CD Badajoz,0,2,,,,,,
+63146945,2025-09-28 10:15,CD Azuaga,CF Villanovense,0,0,,,,,,
+63146947,2025-09-28 10:30,CD Calamonte,CF Jaraiz,2,2,,,,,,
+63694631,2025-09-28 15:30,CD Gevora,Cp Montehermoso,1,0,,,,,,
+63146955,2025-09-28 16:30,EF Puebla de la Calzada,Jerez CF,0,0,,,,,,
+63146959,2025-09-28 16:30,CD Santa Amalia,CD Cabeza Del Buey,0,0,,,,,,
+63146953,2025-09-28 17:00,Moralo CP,UD Montijo,4,2,,,,,,
+63146975,2025-10-04 15:30,Atletico Club Pueblonuevo,Moralo CP,1,0,,,,,,
+63146965,2025-10-04 16:30,CD Badajoz,CD Diocesano,3,1,,,,,,
+63146977,2025-10-05 10:00,CF Villanovense,CD Santa Amalia,2,1,,,,,,
+63146963,2025-10-05 10:30,CD Cabeza Del Buey,CD Don Benito,1,1,,,,,,
+63146973,2025-10-05 10:30,EF Puebla de la Calzada,CD Calamonte,2,1,,,,,,
+63146967,2025-10-05 15:00,Jerez CF,UD Montijo,1,3,,,,,,
+63694633,2025-10-05 15:00,CF Jaraiz,CD Gevora,1,0,,,,,,
+63146969,2025-10-05 16:00,AD Llerenense,SP Villafranca,0,1,,,,,,
+63146971,2025-10-05 16:00,Cp Montehermoso,CD Azuaga,2,1,,,,,,
+63146981,2025-10-12 10:00,CD Calamonte,Jerez CF,0,0,,,,,,
+63146983,2025-10-12 10:00,CD Diocesano,AD Llerenense,2,1,,,,,,
+63146987,2025-10-12 10:00,UD Montijo,Atletico Club Pueblonuevo,1,0,,,,,,
+63146993,2025-10-12 10:30,SP Villafranca,CD Cabeza Del Buey,1,1,,,,,,
+63146989,2025-10-12 15:00,Moralo CP,CD Badajoz,1,0,,,,,,
+63146991,2025-10-12 15:00,CD Santa Amalia,Cp Montehermoso,1,0,,,,,,
+63694635,2025-10-12 15:00,CD Gevora,EF Puebla de la Calzada,2,2,,,,,,
+63146979,2025-10-12 15:30,CD Azuaga,CF Jaraiz,1,1,,,,,,
+63146985,2025-10-13 15:00,CD Don Benito,CF Villanovense,2,0,,,,,,
+63147007,2025-10-18 17:30,EF Puebla de la Calzada,CD Azuaga,0,2,,,,,,
+63146997,2025-10-19 10:00,CD Badajoz,UD Montijo,2,1,,,,,,
+63147009,2025-10-19 10:00,CF Villanovense,SP Villafranca,3,1,,,,,,
+63694637,2025-10-19 10:00,CD Calamonte,CD Gevora,0,1,,,,,,
+63146995,2025-10-19 15:00,CD Cabeza Del Buey,CD Diocesano,3,1,,,,,,
+63146999,2025-10-19 15:00,CF Jaraiz,CD Santa Amalia,1,0,,,,,,
+63147005,2025-10-19 15:00,Cp Montehermoso,CD Don Benito,0,7,,,,,,
+63147001,2025-10-19 15:30,Jerez CF,Atletico Club Pueblonuevo,5,1,,,,,,
+63147003,2025-10-19 15:30,AD Llerenense,Moralo CP,0,0,,,,,,
+63147021,2025-10-25 15:30,Atletico Club Pueblonuevo,CD Badajoz,0,3,,,,,,
+63147023,2025-10-25 17:00,CD Santa Amalia,EF Puebla de la Calzada,1,1,,,,,,
+63147013,2025-10-26 11:00,CD Diocesano,CF Villanovense,0,0,,,,,,
+63147015,2025-10-26 11:00,CD Don Benito,CF Jaraiz,2,2,,,,,,
+63147017,2025-10-26 11:00,UD Montijo,AD Llerenense,2,0,,,,,,
+63147011,2025-10-26 11:15,CD Azuaga,CD Calamonte,1,0,,,,,,
+63694639,2025-10-26 11:15,CD Gevora,Jerez CF,2,2,,,,,,
+63147019,2025-10-26 11:30,Moralo CP,CD Cabeza Del Buey,1,3,,,,,,
+63147025,2025-10-26 11:30,SP Villafranca,Cp Montehermoso,1,0,,,,,,
+63147035,2025-11-01 15:30,AD Llerenense,Atletico Club Pueblonuevo,2,0,,,,,,
+63147029,2025-11-02 11:00,CD Calamonte,CD Santa Amalia,1,2,,,,,,
+63147041,2025-11-02 11:00,CF Villanovense,Moralo CP,0,1,,,,,,
+63147039,2025-11-02 11:15,EF Puebla de la Calzada,CD Don Benito,1,1,,,,,,
+63147027,2025-11-02 11:30,CD Cabeza Del Buey,UD Montijo,1,0,,,,,,
+63147033,2025-11-02 11:30,Jerez CF,CD Badajoz,0,0,,,,,,
+63147031,2025-11-02 15:30,CF Jaraiz,SP Villafranca,4,1,,,,,,
+63147037,2025-11-02 15:30,Cp Montehermoso,CD Diocesano,1,1,,,,,,
+63694641,2025-11-02 15:30,CD Gevora,CD Azuaga,2,2,,,,,,
+63147055,2025-11-08 15:30,Atletico Club Pueblonuevo,CD Cabeza Del Buey,0,0,,,,,,
+63147047,2025-11-09 11:00,CD Diocesano,CF Jaraiz,2,3,,,,,,
+63147049,2025-11-09 11:00,CD Don Benito,CD Calamonte,2,0,,,,,,
+63147051,2025-11-09 11:00,UD Montijo,CF Villanovense,1,0,,,,,,
+63147057,2025-11-09 11:30,SP Villafranca,EF Puebla de la Calzada,1,2,,,,,,
+63694643,2025-11-09 16:00,CD Santa Amalia,CD Gevora,1,1,,,,,,
+63147043,2025-11-09 16:30,CD Azuaga,Jerez CF,3,3,,,,,,
+63147053,2025-11-09 17:15,Moralo CP,Cp Montehermoso,4,1,,,,,,
+63147045,2025-11-09 18:00,CD Badajoz,AD Llerenense,1,1,,,,,,
+63147063,2025-11-16 11:00,CD Calamonte,SP Villafranca,2,2,,,,,,
+63147073,2025-11-16 11:00,CF Villanovense,Atletico Club Pueblonuevo,1,1,,,,,,
+63147059,2025-11-16 11:15,CD Azuaga,CD Santa Amalia,1,0,,,,,,
+63147061,2025-11-16 11:30,CD Cabeza Del Buey,CD Badajoz,3,1,,,,,,
+63147067,2025-11-16 11:30,Jerez CF,AD Llerenense,4,1,,,,,,
+63147071,2025-11-16 11:30,EF Puebla de la Calzada,CD Diocesano,2,1,,,,,,
+63694645,2025-11-16 15:15,CD Gevora,CD Don Benito,0,3,,,,,,
+63147065,2025-11-16 15:30,CF Jaraiz,Moralo CP,3,0,,,,,,
+63147069,2025-11-16 15:30,Cp Montehermoso,UD Montijo,1,2,,,,,,
+63147089,2025-11-22 17:00,CD Santa Amalia,Jerez CF,2,2,,,,,,
+63147085,2025-11-22 19:00,Moralo CP,EF Puebla de la Calzada,1,1,,,,,,
+63147075,2025-11-23 11:00,CD Badajoz,CF Villanovense,1,0,,,,,,
+63147077,2025-11-23 11:00,CD Diocesano,CD Calamonte,1,1,,,,,,
+63147083,2025-11-23 11:00,UD Montijo,CF Jaraiz,1,0,,,,,,
+63147087,2025-11-23 11:00,Atletico Club Pueblonuevo,Cp Montehermoso,1,1,,,,,,
+63147079,2025-11-23 11:15,CD Don Benito,CD Azuaga,1,2,,,,,,
+63694647,2025-11-23 11:30,SP Villafranca,CD Gevora,2,0,,,,,,
+63147081,2025-11-23 15:30,AD Llerenense,CD Cabeza Del Buey,1,2,,,,,,
+63147095,2025-12-07 11:00,CD Calamonte,Moralo CP,1,1,,,,,,
+63147107,2025-12-07 11:00,CF Villanovense,AD Llerenense,1,0,,,,,,
+63147091,2025-12-07 11:15,CD Azuaga,SP Villafranca,1,1,,,,,,
+63147103,2025-12-07 11:15,EF Puebla de la Calzada,UD Montijo,1,1,,,,,,
+63147099,2025-12-07 11:30,Jerez CF,CD Cabeza Del Buey,1,1,,,,,,
+63147101,2025-12-07 15:00,Cp Montehermoso,CD Badajoz,0,1,,,,,,
+63694649,2025-12-07 15:15,CD Gevora,CD Diocesano,0,0,,,,,,
+63147097,2025-12-07 15:30,CF Jaraiz,Atletico Club Pueblonuevo,2,1,,,,,,
+63147105,2025-12-07 16:00,CD Santa Amalia,CD Don Benito,0,2,,,,,,
+63147123,2025-12-13 15:30,SP Villafranca,CD Santa Amalia,1,2,2.050,3.100,3.250,2.25,2.000,1.800
+63147111,2025-12-14 11:00,CD Badajoz,CF Jaraiz,2,1,2.050,3.100,3.400,2.25,1.900,1.900
+63147113,2025-12-14 11:00,CD Diocesano,CD Azuaga,3,1,2.700,3.250,2.300,2.25,1.875,1.925
+63147119,2025-12-14 11:00,UD Montijo,CD Calamonte,0,2,1.550,3.600,5.250,2.25,1.875,1.925
+63147109,2025-12-14 11:30,CD Cabeza Del Buey,CF Villanovense,0,0,,,,,,
+63147121,2025-12-14 11:30,Atletico Club Pueblonuevo,EF Puebla de la Calzada,2,0,,,,,,
+63147117,2025-12-14 15:30,AD Llerenense,Cp Montehermoso,1,0,,,,,,
+63147115,2025-12-14 16:00,CD Don Benito,Jerez CF,1,1,1.444,3.800,6.500,2.5,1.950,1.850
+63694651,2025-12-14 16:00,Moralo CP,CD Gevora,2,1,1.600,3.700,4.750,2.25,1.825,1.975
+63147125,2025-12-19 18:30,CD Azuaga,Moralo CP,1,2,,,,,,
+63147127,2025-12-20 15:00,CD Calamonte,Atletico Club Pueblonuevo,2,0,1.800,3.500,3.750,2.5,2.000,1.800
+63147131,2025-12-20 15:00,CF Jaraiz,AD Llerenense,1,1,,,,,,
+63147135,2025-12-20 15:00,Cp Montehermoso,CD Cabeza Del Buey,0,3,,,,,,
+63147133,2025-12-20 16:30,Jerez CF,CF Villanovense,2,1,2.750,3.100,2.300,2.25,2.000,1.800
+63147129,2025-12-20 17:00,CD Don Benito,SP Villafranca,3,0,,,,,,
+63147137,2025-12-20 17:00,EF Puebla de la Calzada,CD Badajoz,1,1,4.500,3.200,1.700,2.25,1.975,1.825
+63147139,2025-12-20 17:00,CD Santa Amalia,CD Diocesano,1,0,,,,,,
+63694653,2025-12-21 16:30,CD Gevora,UD Montijo,1,3,2.550,3.250,2.450,2.25,1.925,1.875
+63147141,2026-01-03 15:30,CD Cabeza Del Buey,CF Jaraiz,0,0,2.100,3.250,3.000,2.25,1.800,2.000
+63147143,2026-01-04 11:00,CD Badajoz,CD Calamonte,2,0,1.363,4.333,7.000,2.5,1.800,2.000
+63147151,2026-01-04 11:00,UD Montijo,CD Azuaga,2,1,2.450,3.200,2.700,2.25,1.950,1.850
+63147155,2026-01-04 11:00,CF Villanovense,Cp Montehermoso,4,1,,,,,,
+63694655,2026-01-04 11:00,Atletico Club Pueblonuevo,CD Gevora,1,1,,,,,,
+63147149,2026-01-04 11:15,AD Llerenense,EF Puebla de la Calzada,1,0,,,,,,
+63147147,2026-01-04 11:30,Jerez CF,SP Villafranca,1,1,1.750,3.400,4.000,2.5,2.000,1.800
+63147145,2026-01-04 15:00,CD Diocesano,CD Don Benito,0,1,4.000,3.200,1.833,2.25,1.825,1.975
+63147153,2026-01-04 17:00,Moralo CP,CD Santa Amalia,2,0,1.650,3.700,4.200,2.5,2.000,1.800
+63147159,2026-01-11 11:00,CD Calamonte,AD Llerenense,0,2,2.800,3.100,2.300,2.25,2.000,1.800
+63147161,2026-01-11 11:00,CD Don Benito,Moralo CP,1,1,1.500,4.000,5.000,2.5,1.950,1.850
+63147157,2026-01-11 11:15,CD Azuaga,Atletico Club Pueblonuevo,1,0,,,,,,
+63147167,2026-01-11 11:30,EF Puebla de la Calzada,CD Cabeza Del Buey,0,0,,,,,,
+63147171,2026-01-11 11:30,SP Villafranca,CD Diocesano,1,0,2.250,3.400,2.700,2.25,1.775,2.025
+63147163,2026-01-11 15:30,CF Jaraiz,CF Villanovense,1,1,,,,,,
+63147165,2026-01-11 15:30,Cp Montehermoso,Jerez CF,1,1,,,,,,
+63147169,2026-01-11 16:00,CD Santa Amalia,UD Montijo,1,0,,,,,,
+63694657,2026-01-11 16:00,CD Gevora,CD Badajoz,0,3,4.500,3.400,1.650,2.25,1.975,1.825
+63147175,2026-01-18 11:00,CD Calamonte,CD Cabeza Del Buey,0,1,,,,,,
+63147177,2026-01-18 11:00,CD Diocesano,Jerez CF,1,5,,,,,,
+63147179,2026-01-18 11:00,CD Don Benito,UD Montijo,2,0,,,,,,
+63147187,2026-01-18 11:00,SP Villafranca,Moralo CP,0,1,2.625,3.200,2.375,2.5,1.975,1.825
+63147173,2026-01-18 11:15,CD Azuaga,CD Badajoz,1,2,,,,,,
+63147183,2026-01-18 11:30,EF Puebla de la Calzada,CF Villanovense,2,2,,,,,,
+63147181,2026-01-18 15:30,CF Jaraiz,Cp Montehermoso,2,2,,,,,,
+63147185,2026-01-18 16:00,CD Santa Amalia,Atletico Club Pueblonuevo,3,2,,,,,,
+63694659,2026-01-18 16:00,CD Gevora,AD Llerenense,1,2,2.625,3.100,2.400,2.25,1.950,1.850
+63147189,2026-01-25 11:00,CD Badajoz,CD Santa Amalia,2,2,1.333,4.000,8.500,2.5,1.900,1.900
+63147197,2026-01-25 11:00,UD Montijo,SP Villafranca,0,1,1.727,3.300,4.333,2.5,1.900,1.900
+63147203,2026-01-25 11:00,CF Villanovense,CD Calamonte,3,0,1.533,3.400,5.750,2.25,2.025,1.775
+63147191,2026-01-25 11:30,Jerez CF,CF Jaraiz,2,2,2.625,3.600,2.200,2.75,1.950,1.850
+63147201,2026-01-25 11:30,Atletico Club Pueblonuevo,CD Don Benito,0,1,,,,,,
+63694661,2026-01-25 11:30,CD Cabeza Del Buey,CD Gevora,2,0,,,,,,
+63147193,2026-01-25 15:30,AD Llerenense,CD Azuaga,0,0,,,,,,
+63147195,2026-01-25 15:30,Cp Montehermoso,EF Puebla de la Calzada,1,0,,,,,,
+63147199,2026-01-25 16:00,Moralo CP,CD Diocesano,4,1,,,,,,
+63147209,2026-02-01 11:00,CD Diocesano,UD Montijo,1,0,2.700,3.250,2.300,2.25,1.950,1.850
+63147219,2026-02-01 11:00,SP Villafranca,Atletico Club Pueblonuevo,4,0,1.550,3.750,5.250,2.5,1.900,1.900
+63147205,2026-02-01 11:15,CD Azuaga,CD Cabeza Del Buey,3,1,,,,,,
+63147207,2026-02-01 11:30,CD Calamonte,Cp Montehermoso,0,0,1.666,3.500,4.500,2.25,1.900,1.900
+63147215,2026-02-01 11:30,EF Puebla de la Calzada,CF Jaraiz,0,1,,,,,,
+63147213,2026-02-01 15:30,Moralo CP,Jerez CF,0,1,,,,,,
+63147211,2026-02-01 16:00,CD Don Benito,CD Badajoz,1,1,,,,,,
+63147217,2026-02-01 16:00,CD Santa Amalia,AD Llerenense,1,2,2.250,3.000,3.000,2,1.850,1.950
+63694663,2026-02-01 16:00,CD Gevora,CF Villanovense,0,0,2.800,2.800,2.500,2,1.900,1.900
+63147231,2026-02-08 10:00,UD Montijo,Moralo CP,0,0,2.400,3.100,2.700,2.25,2.025,1.775
+63147223,2026-02-08 11:00,CD Badajoz,SP Villafranca,1,0,1.333,4.333,7.500,2.5,1.850,1.950
+63147235,2026-02-08 11:00,CF Villanovense,CD Azuaga,0,1,,,,,,
+63147221,2026-02-08 11:30,CD Cabeza Del Buey,CD Santa Amalia,3,0,,,,,,
+63147225,2026-02-08 15:30,CF Jaraiz,CD Calamonte,1,2,1.363,4.200,7.000,2.5,1.925,1.875
+63147229,2026-02-08 15:30,AD Llerenense,CD Don Benito,1,0,,,,,,
+63694665,2026-02-08 15:30,Cp Montehermoso,CD Gevora,1,3,,,,,,
+63147237,2026-02-14 15:30,CD Azuaga,Cp Montehermoso,1,0,1.250,4.750,11.000,2.75,1.975,1.825
+63147245,2026-02-14 15:30,UD Montijo,Jerez CF,0,1,2.200,3.200,2.875,2,1.900,1.900
+63147251,2026-02-15 10:00,SP Villafranca,AD Llerenense,2,1,2.500,3.000,2.625,2,1.875,1.925
+63147239,2026-02-15 11:00,CD Calamonte,EF Puebla de la Calzada,1,1,,,,,,
+63147241,2026-02-15 11:00,CD Diocesano,CD Badajoz,0,2,,,,,,
+63147243,2026-02-15 11:00,CD Don Benito,CD Cabeza Del Buey,3,1,,,,,,
+63147247,2026-02-15 11:00,Moralo CP,Atletico Club Pueblonuevo,2,0,1.181,6.000,11.000,3,1.900,1.900
+63147249,2026-02-15 16:30,CD Santa Amalia,CF Villanovense,0,1,2.800,3.100,2.300,2,1.925,1.875
+63694667,2026-02-15 16:30,CD Gevora,CF Jaraiz,0,0,2.625,3.500,2.200,2.75,1.925,1.875
+63147257,2026-02-21 15:30,CF Jaraiz,CD Azuaga,1,1,2.350,3.100,2.750,2,1.800,2.000
+63147255,2026-02-22 11:00,CD Badajoz,Moralo CP,0,1,1.750,3.200,4.200,2.25,1.950,1.850
+63147267,2026-02-22 11:00,CF Villanovense,CD Don Benito,0,5,3.300,2.900,2.150,1.75,2.050,1.750
+63147259,2026-02-22 11:30,Jerez CF,CD Calamonte,0,0,1.533,3.500,5.500,2.25,1.925,1.875
+63694669,2026-02-22 11:30,EF Puebla de la Calzada,CD Gevora,3,2,1.909,3.400,3.400,2.25,1.950,1.850
+63147253,2026-02-22 16:00,CD Cabeza Del Buey,SP Villafranca,1,0,,,,,,
+63147261,2026-02-22 16:00,AD Llerenense,CD Diocesano,3,0,,,,,,
+63147263,2026-02-22 16:00,Cp Montehermoso,CD Santa Amalia,3,1,,,,,,
+63147265,2026-02-22 16:00,Atletico Club Pueblonuevo,UD Montijo,2,2,,,,,,
+68939114,2026-02-25 20:00,Jerez CF,EF Puebla de la Calzada,2,2,1.600,3.700,4.500,2.25,1.975,1.825
+63147271,2026-03-01 11:00,CD Diocesano,CD Cabeza Del Buey,0,0,,,,,,
+63147275,2026-03-01 11:00,UD Montijo,CD Badajoz,1,2,1.480,3.600,6.500,2,1.750,2.050
+63147283,2026-03-01 11:00,SP Villafranca,CF Villanovense,1,1,,,,,,
+63147269,2026-03-01 11:15,CD Azuaga,EF Puebla de la Calzada,2,0,,,,,,
+63147277,2026-03-01 12:00,Moralo CP,AD Llerenense,3,0,1.800,3.400,3.800,2.25,1.800,2.000
+63147273,2026-03-01 16:00,CD Don Benito,Cp Montehermoso,3,1,,,,,,
+63147279,2026-03-01 16:00,Atletico Club Pueblonuevo,Jerez CF,3,2,,,,,,
+63147281,2026-03-01 16:30,CD Santa Amalia,CF Jaraiz,1,4,3.200,3.100,2.100,2.25,2.025,1.775
+63694671,2026-03-01 16:30,CD Gevora,CD Calamonte,1,0,1.800,3.250,3.900,2,1.900,1.900
+63147287,2026-03-08 11:00,CD Badajoz,Atletico Club Pueblonuevo,1,0,1.062,9.000,23.000,3,2.000,1.800
+63147289,2026-03-08 11:00,CD Calamonte,CD Azuaga,0,1,4.500,3.250,1.700,2.25,2.000,1.800
+63147299,2026-03-08 11:00,CF Villanovense,CD Diocesano,5,1,1.500,3.750,5.500,2.25,1.825,1.975
+63147285,2026-03-08 11:30,CD Cabeza Del Buey,Moralo CP,1,3,,,,,,
+63694673,2026-03-08 11:30,Jerez CF,CD Gevora,3,1,,,,,,
+63147291,2026-03-08 16:00,CF Jaraiz,CD Don Benito,3,0,3.100,3.200,2.150,2,1.800,2.000
+63147293,2026-03-08 16:00,AD Llerenense,UD Montijo,2,2,,,,,,
+63147295,2026-03-08 16:30,Cp Montehermoso,SP Villafranca,1,0,,,,,,
+63147297,2026-03-08 17:30,EF Puebla de la Calzada,CD Santa Amalia,3,2,,,,,,
+63147307,2026-03-14 15:00,UD Montijo,CD Cabeza Del Buey,1,1,2.500,,2.500,,,
+63147303,2026-03-15 11:00,CD Diocesano,Cp Montehermoso,0,0,1.850,3.400,3.600,2.25,1.825,1.975
+63147305,2026-03-15 11:00,CD Don Benito,EF Puebla de la Calzada,4,0,,,,,,
+63147315,2026-03-15 11:00,SP Villafranca,CF Jaraiz,2,1,2.450,3.200,2.550,2.25,1.950,1.850
+63694675,2026-03-15 11:15,CD Azuaga,CD Gevora,2,0,,,,,,
+63147309,2026-03-15 11:30,Moralo CP,CF Villanovense,3,0,,,,,,
+63147311,2026-03-15 16:30,Atletico Club Pueblonuevo,AD Llerenense,2,0,,,,,,
+63147313,2026-03-15 16:30,CD Santa Amalia,CD Calamonte,2,1,1.800,3.000,4.333,2,1.950,1.850
+63147301,2026-03-15 17:00,CD Badajoz,Jerez CF,5,4,1.363,4.100,7.500,2.5,2.000,1.800
+63147329,2026-03-21 17:00,EF Puebla de la Calzada,SP Villafranca,1,2,,,,,,
+63147331,2026-03-22 11:00,CF Villanovense,UD Montijo,3,1,1.909,3.100,3.750,2,1.825,1.975
+63147317,2026-03-22 16:00,CD Cabeza Del Buey,Atletico Club Pueblonuevo,2,0,,,,,,
+63147319,2026-03-22 16:00,CD Calamonte,CD Don Benito,1,1,7.000,3.600,1.450,2.25,1.975,1.825
+63147321,2026-03-22 16:00,CF Jaraiz,CD Diocesano,3,0,1.380,4.200,6.500,2.5,1.800,2.000
+63147323,2026-03-22 16:00,Jerez CF,CD Azuaga,2,3,2.550,3.250,2.400,2.25,1.850,1.950
+63147325,2026-03-22 16:00,AD Llerenense,CD Badajoz,0,3,,,,,,
+63147327,2026-03-22 16:30,Cp Montehermoso,Moralo CP,1,2,,,,,,
+63694677,2026-03-22 17:00,CD Gevora,CD Santa Amalia,3,0,1.909,3.250,3.500,2.25,2.000,1.800
+63147337,2026-03-28 16:30,AD Llerenense,Jerez CF,1,1,,,,,,
+63147339,2026-03-28 16:30,UD Montijo,Cp Montehermoso,4,0,1.950,3.200,3.600,2.25,2.025,1.775
+63147343,2026-03-28 17:00,Atletico Club Pueblonuevo,CF Villanovense,2,0,,,,,,
+63147345,2026-03-29 09:00,CD Santa Amalia,CD Azuaga,0,4,,,,,,
+63147333,2026-03-29 10:00,CD Badajoz,CD Cabeza Del Buey,2,1,1.420,4.000,6.500,2.5,1.900,1.900
+63147335,2026-03-29 10:00,CD Diocesano,EF Puebla de la Calzada,1,0,,,,,,
+63147347,2026-03-29 10:00,SP Villafranca,CD Calamonte,1,0,,,,,,
+63694679,2026-03-29 10:00,CD Don Benito,CD Gevora,2,0,1.166,6.000,12.000,2.75,1.900,1.900
+63147341,2026-03-29 10:30,Moralo CP,CF Jaraiz,0,1,,,,,,
+68939162,2026-04-02 10:00,Atletico Club Pueblonuevo,CD Diocesano,2,1,,,,,,
+63147361,2026-04-02 10:30,EF Puebla de la Calzada,Moralo CP,0,2,,,,,,
+63147351,2026-04-03 10:15,CD Cabeza Del Buey,AD Llerenense,1,0,,,,,,
+63694681,2026-04-03 10:15,CD Gevora,SP Villafranca,1,3,,,,,,
+63147357,2026-04-04 16:30,Jerez CF,CD Santa Amalia,2,2,1.571,3.750,4.750,2.5,2.000,1.800
+63147349,2026-04-05 09:30,CD Azuaga,CD Don Benito,0,1,1.480,4.000,5.500,2.25,1.800,2.000
+63147353,2026-04-05 10:00,CD Calamonte,CD Diocesano,1,1,,,,,,
+63147359,2026-04-05 10:00,Cp Montehermoso,Atletico Club Pueblonuevo,1,0,,,,,,
+63147363,2026-04-05 10:00,CF Villanovense,CD Badajoz,1,2,,,,,,
+63147355,2026-04-05 17:30,CF Jaraiz,UD Montijo,1,1,,,,,,
+63147369,2026-04-12 10:00,CD Don Benito,CD Santa Amalia,1,0,,,,,,
+63147373,2026-04-12 10:00,UD Montijo,EF Puebla de la Calzada,1,0,,,,,,
+63147375,2026-04-12 10:00,Moralo CP,CD Calamonte,1,1,1.285,4.500,8.500,2.5,1.800,2.000
+63147379,2026-04-12 10:00,SP Villafranca,CD Azuaga,0,2,2.250,3.200,2.750,2.25,1.950,1.850
+63694683,2026-04-12 10:00,CD Diocesano,CD Gevora,2,1,,,,,,
+63147365,2026-04-12 10:30,CD Cabeza Del Buey,Jerez CF,3,0,,,,,,
+63147371,2026-04-12 16:00,AD Llerenense,CF Villanovense,0,2,,,,,,
+63147377,2026-04-12 16:00,Atletico Club Pueblonuevo,CF Jaraiz,1,0,,,,,,
+63147367,2026-04-12 17:00,CD Badajoz,Cp Montehermoso,4,0,,,,,,
+63147389,2026-04-19 09:00,Cp Montehermoso,AD Llerenense,2,2,,,,,,
+63147383,2026-04-19 10:00,CD Calamonte,UD Montijo,2,3,,,,,,
+63147391,2026-04-19 10:00,EF Puebla de la Calzada,Atletico Club Pueblonuevo,3,1,,,,,,
+63147395,2026-04-19 10:00,CF Villanovense,CD Cabeza Del Buey,3,2,,,,,,
+63147381,2026-04-19 11:00,CD Azuaga,CD Diocesano,2,0,,,,,,
+63147385,2026-04-19 16:00,CF Jaraiz,CD Badajoz,1,4,3.500,3.500,1.833,2.25,1.850,1.950
+63147387,2026-04-19 16:00,Jerez CF,CD Don Benito,0,2,,,,,,
+63694685,2026-04-19 16:00,CD Gevora,Moralo CP,2,1,4.333,3.400,1.700,2.25,1.825,1.975
+63147393,2026-04-19 16:30,CD Santa Amalia,SP Villafranca,0,2,,,,,,
+63147401,2026-04-26 10:00,CD Diocesano,CD Santa Amalia,0,0,,,,,,
+63147411,2026-04-26 10:00,CF Villanovense,Jerez CF,2,0,,,,,,
+63694687,2026-04-26 10:00,UD Montijo,CD Gevora,0,1,,,,,,
+63147405,2026-04-26 11:00,Moralo CP,CD Azuaga,1,1,,,,,,
+63147397,2026-04-26 16:00,CD Cabeza Del Buey,Cp Montehermoso,2,1,,,,,,
+63147407,2026-04-26 16:00,Atletico Club Pueblonuevo,CD Calamonte,2,0,,,,,,
+63147399,2026-04-26 16:30,CD Badajoz,EF Puebla de la Calzada,5,0,,,,,,
+63147403,2026-04-26 16:30,AD Llerenense,CF Jaraiz,1,1,,,,,,
+63147409,2026-04-26 16:30,SP Villafranca,CD Don Benito,1,0,3.750,3.200,1.833,2.25,1.950,1.850
+63147423,2026-05-01 10:00,EF Puebla de la Calzada,AD Llerenense,4,1,,,,,,
+63147413,2026-05-02 10:00,CD Azuaga,UD Montijo,4,2,,,,,,
+63147415,2026-05-03 10:00,CD Calamonte,CD Badajoz,0,3,,,,,,
+63147417,2026-05-03 10:00,CD Don Benito,CD Diocesano,8,1,1.200,5.250,11.000,2.75,1.825,1.975
+63147427,2026-05-03 10:00,SP Villafranca,Jerez CF,2,1,,,,,,
+63147421,2026-05-03 16:30,Cp Montehermoso,CF Villanovense,0,3,,,,,,
+63694689,2026-05-03 16:30,CD Gevora,Atletico Club Pueblonuevo,1,1,,,,,,
+63147419,2026-05-03 17:00,CF Jaraiz,CD Cabeza Del Buey,2,1,,,,,,
+63147425,2026-05-03 17:00,CD Santa Amalia,Moralo CP,0,2,,,,,,
+63147435,2026-05-09 16:30,AD Llerenense,CD Calamonte,3,1,,,,,,
+63147437,2026-05-10 10:00,UD Montijo,CD Santa Amalia,2,1,,,,,,
+63147429,2026-05-10 16:00,CD Cabeza Del Buey,EF Puebla de la Calzada,1,0,,,,,,
+63147431,2026-05-10 16:00,CD Diocesano,SP Villafranca,4,4,2.900,3.400,2.100,2.5,1.925,1.875
+63147433,2026-05-10 16:00,Jerez CF,Cp Montehermoso,5,1,,,,,,
+63147439,2026-05-10 16:00,Moralo CP,CD Don Benito,1,1,,,,,,
+63147441,2026-05-10 16:00,Atletico Club Pueblonuevo,CD Azuaga,1,0,,,,,,
+63147443,2026-05-10 16:00,CF Villanovense,CF Jaraiz,0,1,,,,,,
+63694691,2026-05-10 16:00,CD Badajoz,CD Gevora,3,0,,,,,,
+71483688,2026-05-17 11:00,CD Azuaga,Moralo CP,0,1,2.350,2.700,3.100,2.25,1.950,1.850
+71483690,2026-05-17 16:00,CF Jaraiz,CD Badajoz,1,0,3.200,3.300,2.050,2.5,2.000,1.800
+71483698,2026-05-23 17:00,Moralo CP,CD Azuaga,0,0,,,,,,
+71483696,2026-05-24 16:30,CD Badajoz,CF Jaraiz,2,0,1.480,3.900,5.500,2.75,2.000,1.800
+71753440,2026-05-31 17:00,Moralo CP,CD Badajoz,0,2,,,,,,
+71753444,2026-06-07 17:30,CD Badajoz,Moralo CP,0,0,,,,,,
+73564220,2026-09-05 18:00,CD Castuera Subastacar,CD Gevora,5,0,,,,,,
+73564218,2026-09-06 10:00,UP Plasencia,CD Santa Amalia,0,0,2.100,3.250,3.000,2.25,1.975,1.825
+73564206,2026-09-06 10:30,UD Montijo,CD Cabeza Del Buey,1,3,,,,,,
+73564212,2026-09-06 10:30,Moralo CP,CF Villanovense,2,1,,,,,,
+73564214,2026-09-06 16:30,Atletico Club Pueblonuevo,CF Jaraiz,2,2,5.000,4.333,1.444,2.75,1.875,1.925
+73564208,2026-09-06 17:00,SP Villafranca,CD Azuaga,1,4,,,,,,
+73564216,2026-09-06 17:00,CD Quintana,CD Zafra,0,1,,,,,,
+73564222,2026-09-06 17:00,Jerez CF,EF Puebla de la Calzada,2,2,,,,,,
+73564210,2026-09-06 17:30,AD Llerenense,CD Guadiana,1,0,,,,,,
+73564228,2026-09-12 17:00,CD Guadiana,SP Villafranca,0,2,,,,,,
+73564224,2026-09-13 10:00,CD Cabeza Del Buey,Jerez CF,0,1,,,,,,
+73564230,2026-09-13 10:00,CF Villanovense,AD Llerenense,0,1,,,,,,
+73564234,2026-09-13 10:15,CD Zafra,Atletico Club Pueblonuevo,4,1,,,,,,
+73564226,2026-09-13 10:30,CD Azuaga,UD Montijo,2,0,,,,,,
+73564232,2026-09-13 17:00,CF Jaraiz,Moralo CP,2,3,,,,,,
+73564238,2026-09-13 17:00,CD Gevora,UP Plasencia,4,2,,,,,,
+73564240,2026-09-13 17:00,EF Puebla de la Calzada,CD Castuera Subastacar,2,0,,,,,,
+73564236,2026-09-13 17:30,CD Santa Amalia,CD Quintana,3,0,1.950,3.100,3.700,2.25,1.950,1.850
+73564248,2026-09-19 17:00,AD Llerenense,CF Jaraiz,1,0,,,,,,
+73564256,2026-09-19 17:00,UP Plasencia,EF Puebla de la Calzada,0,3,,,,,,
+73564246,2026-09-20 10:00,SP Villafranca,CF Villanovense,0,1,,,,,,
+73564250,2026-09-20 10:00,Moralo CP,CD Zafra,2,0,,,,,,
+73564242,2026-09-20 10:30,CD Cabeza Del Buey,CD Azuaga,1,2,,,,,,
+73564244,2026-09-20 10:30,UD Montijo,CD Guadiana,3,1,,,,,,
+73564252,2026-09-20 17:00,Atletico Club Pueblonuevo,CD Santa Amalia,1,1,3.200,3.100,2.150,2.25,1.950,1.850
+73564254,2026-09-20 17:00,CD Quintana,CD Gevora,0,0,,,,,,
+73564258,2026-09-20 17:00,Jerez CF,CD Castuera Subastacar,1,2,,,,,,
+73564264,2026-09-27 10:00,CF Villanovense,UD Montijo,2,0,1.650,3.500,4.750,2.25,1.800,2.000
+73564278,2026-09-27 10:00,CD Castuera Subastacar,UP Plasencia,1,0,,,,,,
+73564260,2026-09-27 10:15,CD Azuaga,Jerez CF,2,0,,,,,,
+73564268,2026-09-27 10:30,CD Zafra,AD Llerenense,0,0,2.450,3.100,2.700,2.25,1.925,1.875
+73564266,2026-09-27 16:00,CF Jaraiz,SP Villafranca,2,1,,,,,,
+73564262,2026-09-27 16:30,CD Guadiana,CD Cabeza Del Buey,1,1,,,,,,
+73564274,2026-09-27 16:30,CD Gevora,Atletico Club Pueblonuevo,3,1,,,,,,
+73564272,2026-09-27 17:00,CD Santa Amalia,Moralo CP,1,1,,,,,,
+73564276,2026-09-27 17:00,EF Puebla de la Calzada,CD Quintana,1,2,1.533,3.600,5.500,2.25,1.825,1.975
+73564284,2026-10-03 15:30,Atletico Club Pueblonuevo,EF Puebla de la Calzada,0,0,,,,,,
+73564282,2026-10-04 10:00,Moralo CP,CD Gevora,1,1,,,,,,
+73564290,2026-10-04 10:15,CD Azuaga,CD Guadiana,4,0,,,,,,
+73564292,2026-10-04 10:30,CD Cabeza Del Buey,CF Villanovense,1,1,,,,,,
+73564294,2026-10-04 10:30,UD Montijo,CF Jaraiz,2,0,2.800,3.200,2.200,2.25,1.900,1.900
+73564306,2026-10-09 18:00,CD Santa Amalia,SP Villafranca,1,3,1.850,3.400,3.600,2.25,1.825,1.975
+73564300,2026-10-11 10:00,CF Villanovense,CD Azuaga,2,0,2.400,3.200,2.625,2.25,1.950,1.850
+73564310,2026-10-11 10:00,EF Puebla de la Calzada,Moralo CP,1,3,,,,,,
+73564312,2026-10-11 10:00,CD Castuera Subastacar,Atletico Club Pueblonuevo,5,0,,,,,,
+73564314,2026-10-11 10:00,UP Plasencia,CD Quintana,0,0,2.200,3.200,2.900,2.5,1.950,1.850
+73564304,2026-10-11 10:15,CD Zafra,UD Montijo,1,1,1.850,3.250,3.750,2.25,1.950,1.850
+73564298,2026-10-11 15:30,CD Guadiana,Jerez CF,1,4,,,,,,
+73564302,2026-10-11 15:30,CF Jaraiz,CD Cabeza Del Buey,0,0,2.100,3.200,3.100,2.5,1.950,1.850
+73564308,2026-10-11 16:00,CD Gevora,AD Llerenense,1,2,2.450,3.300,2.500,2.5,2.025,1.775
+73564326,2026-10-17 16:30,AD Llerenense,EF Puebla de la Calzada,2,1,1.800,3.400,3.800,2.5,1.975,1.825
+73564332,2026-10-17 17:00,Jerez CF,CD Quintana,1,0,,,,,,
+73564324,2026-10-18 10:00,SP Villafranca,CD Gevora,2,1,1.800,3.400,3.800,2.5,1.900,1.900
+73564330,2026-10-18 10:00,Atletico Club Pueblonuevo,UP Plasencia,3,4,,,,,,
+73564320,2026-10-18 10:30,CD Cabeza Del Buey,CD Zafra,2,1,,,,,,
+73564322,2026-10-18 10:30,UD Montijo,CD Santa Amalia,0,0,2.150,3.200,3.000,2.25,2.000,1.800
+73564328,2026-10-18 10:30,Moralo CP,CD Castuera Subastacar,2,1,,,,,,
+73564318,2026-10-18 11:00,CD Azuaga,CF Jaraiz,3,2,,,,,,
+73564316,2026-10-18 15:30,CD Guadiana,CF Villanovense,0,2,,,,,,
+75667514,2026-10-21 16:00,AD Llerenense,CD Santa Amalia,3,0,,,,,,
+75667518,2026-10-21 17:00,Jerez CF,UP Plasencia,0,0,1.533,3.900,5.000,2.75,1.900,1.900
+75667516,2026-10-21 18:00,CD Quintana,CD Castuera Subastacar,1,1,,,,,,
+75667528,2026-10-21 18:00,SP Villafranca,CD Zafra,2,2,1.833,3.400,3.700,2.5,1.925,1.875
+73564334,2026-10-25 11:00,CF Villanovense,Jerez CF,5,1,1.600,3.600,4.750,2.5,1.875,1.925
+73564346,2026-10-25 11:00,CD Castuera Subastacar,AD Llerenense,0,0,,,,,,
+73564348,2026-10-25 11:00,UP Plasencia,Moralo CP,1,1,,,,,,
+73564338,2026-10-25 11:15,CD Zafra,CD Azuaga,1,2,3.500,3.500,1.850,2.5,2.000,1.800
+73564344,2026-10-25 11:15,EF Puebla de la Calzada,SP Villafranca,2,1,,,,,,
+73564336,2026-10-25 16:00,CF Jaraiz,CD Guadiana,4,0,,,,,,
+73564340,2026-10-25 16:00,CD Santa Amalia,CD Cabeza Del Buey,3,3,2.750,3.100,2.350,2.25,2.050,1.750
+73564342,2026-10-25 16:00,CD Gevora,UD Montijo,2,0,,,,,,
+73564350,2026-10-25 16:00,CD Quintana,Atletico Club Pueblonuevo,4,1,,,,,,
+73564352,2026-11-01 11:00,CF Villanovense,CF Jaraiz,0,0,1.550,3.700,5.250,2.5,1.950,1.850
+73564362,2026-11-01 11:00,SP Villafranca,CD Castuera Subastacar,0,1,,,,,,
+73564356,2026-11-01 11:30,CD Azuaga,CD Santa Amalia,0,0,,,,,,
+73564358,2026-11-01 11:30,CD Cabeza Del Buey,CD Gevora,3,2,,,,,,
+73564360,2026-11-01 11:30,UD Montijo,EF Puebla de la Calzada,1,3,,,,,,
+73564366,2026-11-01 11:30,Moralo CP,CD Quintana,0,2,,,,,,
+73564368,2026-11-01 11:30,Jerez CF,Atletico Club Pueblonuevo,1,1,1.333,4.500,6.500,3,1.950,1.850
+73564354,2026-11-01 15:30,CD Guadiana,CD Zafra,0,4,,,,,,
+73564364,2026-11-01 15:30,AD Llerenense,UP Plasencia,0,0,,,,,,
+73564380,2026-11-08 11:00,CD Castuera Subastacar,UD Montijo,2,0,,,,,,
+73564382,2026-11-08 11:00,UP Plasencia,SP Villafranca,3,5,2.450,3.200,2.500,2.25,1.850,1.950
+73564378,2026-11-08 11:15,EF Puebla de la Calzada,CD Cabeza Del Buey,2,1,2.400,3.200,2.550,2.25,1.825,1.975
+73564372,2026-11-08 11:30,CD Zafra,CF Villanovense,0,0,,,,,,
+73564370,2026-11-08 15:30,CF Jaraiz,Jerez CF,2,0,,,,,,
+73564374,2026-11-08 15:30,CD Santa Amalia,CD Guadiana,4,0,1.250,6.000,7.500,3.25,1.875,1.925
+73564376,2026-11-08 15:30,CD Gevora,CD Azuaga,1,1,,,,,,
+73564384,2026-11-08 15:30,CD Quintana,AD Llerenense,1,1,,,,,,
+73564386,2026-11-08 16:30,Atletico Club Pueblonuevo,Moralo CP,0,1,,,,,,

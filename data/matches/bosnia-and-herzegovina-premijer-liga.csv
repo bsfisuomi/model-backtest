@@ -1,25 +1,25 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-74448070,2026-10-09 16:00,FK Velez Mostar,NK Siroki Brijeg,0,0,2.000,3.100,3.400
-74448072,2026-10-10 16:30,FK Borac Banja Luka,FK BSK Banja Luka,2,0,1.166,6.500,17.000
-74448064,2026-10-11 13:00,FK Radnik Bijeljina,FK Zeljeznicar Sarajevo,3,1,2.050,3.100,3.300
-74448068,2026-10-11 14:00,FK Sloga Doboj,HSK Zrinjski Mostar,2,6,4.333,3.300,1.700
-74448066,2026-10-11 16:30,NK Celik Zenica,FK Sarajevo,0,0,3.600,2.900,2.000
-75604992,2026-10-16 16:00,FK Sloga Doboj,NK Siroki Brijeg,0,1,2.000,3.200,3.300
-75604994,2026-10-17 11:00,FK BSK Banja Luka,FK Zeljeznicar Sarajevo,1,1,2.375,3.100,2.700
-75604996,2026-10-17 14:00,FK Radnik Bijeljina,FK Sarajevo,1,1,3.200,3.100,2.100
-75559894,2026-10-18 18:00,NK Celik Zenica,HSK Zrinjski Mostar,0,3,6.250,3.500,1.480
-75856246,2026-10-23 18:00,HSK Zrinjski Mostar,FK Radnik Bijeljina,1,0,1.181,6.500,11.000
-75856248,2026-10-24 14:00,NK Siroki Brijeg,NK Celik Zenica,0,0,1.900,3.200,3.750
-75856250,2026-10-24 17:45,FK Sarajevo,FK Zeljeznicar Sarajevo,2,0,,,
-75856252,2026-10-25 16:30,FK Borac Banja Luka,FK Sloga Doboj,2,0,1.300,4.500,9.000
-75856254,2026-10-25 19:00,FK Velez Mostar,FK BSK Banja Luka,2,3,1.650,3.400,4.500
-76124422,2026-10-31 12:00,FK Radnik Bijeljina,NK Siroki Brijeg,2,0,1.800,3.300,4.000
-76124424,2026-10-31 15:00,FK Zeljeznicar Sarajevo,HSK Zrinjski Mostar,0,4,5.000,3.700,1.533
-76124426,2026-10-31 19:45,NK Celik Zenica,FK Borac Banja Luka,2,4,5.250,3.900,1.480
-76124418,2026-11-01 12:00,FK BSK Banja Luka,FK Sarajevo,1,1,4.000,3.300,1.800
-76124420,2026-11-01 14:00,FK Sloga Doboj,FK Velez Mostar,0,1,2.200,3.000,3.100
-76161544,2026-11-07 15:00,FK Velez Mostar,NK Celik Zenica,1,1,1.727,3.300,4.333
-76161550,2026-11-07 17:30,NK Siroki Brijeg,FK Zeljeznicar Sarajevo,2,1,1.909,3.100,3.750
-76161552,2026-11-08 12:00,FK Sloga Doboj,FK BSK Banja Luka,1,3,1.909,3.200,3.500
-76161546,2026-11-08 14:00,FK Borac Banja Luka,FK Radnik Bijeljina,4,1,1.200,5.750,12.000
-76161548,2026-11-08 16:30,HSK Zrinjski Mostar,FK Sarajevo,0,0,1.700,3.250,4.333
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+74448070,2026-10-09 16:00,FK Velez Mostar,NK Siroki Brijeg,0,0,2.000,3.100,3.400,2.25,2.000,1.800
+74448072,2026-10-10 16:30,FK Borac Banja Luka,FK BSK Banja Luka,2,0,1.166,6.500,17.000,3,1.875,1.925
+74448064,2026-10-11 13:00,FK Radnik Bijeljina,FK Zeljeznicar Sarajevo,3,1,2.050,3.100,3.300,2.25,2.050,1.750
+74448068,2026-10-11 14:00,FK Sloga Doboj,HSK Zrinjski Mostar,2,6,4.333,3.300,1.700,2.25,2.000,1.800
+74448066,2026-10-11 16:30,NK Celik Zenica,FK Sarajevo,0,0,3.600,2.900,2.000,2,1.925,1.875
+75604992,2026-10-16 16:00,FK Sloga Doboj,NK Siroki Brijeg,0,1,2.000,3.200,3.300,2.25,1.850,1.950
+75604994,2026-10-17 11:00,FK BSK Banja Luka,FK Zeljeznicar Sarajevo,1,1,2.375,3.100,2.700,2.25,1.850,1.950
+75604996,2026-10-17 14:00,FK Radnik Bijeljina,FK Sarajevo,1,1,3.200,3.100,2.100,2.25,1.975,1.825
+75559894,2026-10-18 18:00,NK Celik Zenica,HSK Zrinjski Mostar,0,3,6.250,3.500,1.480,2.25,2.000,1.800
+75856246,2026-10-23 18:00,HSK Zrinjski Mostar,FK Radnik Bijeljina,1,0,1.181,6.500,11.000,2.75,1.775,2.025
+75856248,2026-10-24 14:00,NK Siroki Brijeg,NK Celik Zenica,0,0,1.900,3.200,3.750,2.25,1.900,1.900
+75856250,2026-10-24 17:45,FK Sarajevo,FK Zeljeznicar Sarajevo,2,0,,,,,,
+75856252,2026-10-25 16:30,FK Borac Banja Luka,FK Sloga Doboj,2,0,1.300,4.500,9.000,2.5,1.800,2.000
+75856254,2026-10-25 19:00,FK Velez Mostar,FK BSK Banja Luka,2,3,1.650,3.400,4.500,2.5,1.975,1.825
+76124422,2026-10-31 12:00,FK Radnik Bijeljina,NK Siroki Brijeg,2,0,1.800,3.300,4.000,2.25,1.900,1.900
+76124424,2026-10-31 15:00,FK Zeljeznicar Sarajevo,HSK Zrinjski Mostar,0,4,5.000,3.700,1.533,2.25,1.875,1.925
+76124426,2026-10-31 19:45,NK Celik Zenica,FK Borac Banja Luka,2,4,5.250,3.900,1.480,2.5,2.000,1.800
+76124418,2026-11-01 12:00,FK BSK Banja Luka,FK Sarajevo,1,1,4.000,3.300,1.800,2.25,1.850,1.950
+76124420,2026-11-01 14:00,FK Sloga Doboj,FK Velez Mostar,0,1,2.200,3.000,3.100,2,1.775,2.025
+76161544,2026-11-07 15:00,FK Velez Mostar,NK Celik Zenica,1,1,1.727,3.300,4.333,2.25,1.950,1.850
+76161550,2026-11-07 17:30,NK Siroki Brijeg,FK Zeljeznicar Sarajevo,2,1,1.909,3.100,3.750,2,1.775,2.025
+76161552,2026-11-08 12:00,FK Sloga Doboj,FK BSK Banja Luka,1,3,1.909,3.200,3.500,2.25,1.950,1.850
+76161546,2026-11-08 14:00,FK Borac Banja Luka,FK Radnik Bijeljina,4,1,1.200,5.750,12.000,3,1.825,1.975
+76161548,2026-11-08 16:30,HSK Zrinjski Mostar,FK Sarajevo,0,0,1.700,3.250,4.333,2.25,1.950,1.850

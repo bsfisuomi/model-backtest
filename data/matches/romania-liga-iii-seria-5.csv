@@ -1,43 +1,43 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-73927930,2026-08-28 15:00,CSM Alexandria,ACS Progresul Mogosoaia,2,2,,,
-73927938,2026-08-28 15:00,Fotbal Club FCSB 2,FC Dinamo Bucuresti 1948 2,0,1,1.700,4.100,3.600
-73927940,2026-08-28 15:00,ACS Axi Arena,SC FC Voluntari II,1,0,1.380,4.750,5.750
-73927932,2026-08-29 15:00,AFC Progresul 1944 Spartac,Oxigen Bucuresti,5,1,,,
-73927934,2026-08-29 15:00,ACS Omega Buc,ACS Inter Ilfov,1,1,,,
-73927936,2026-08-29 15:00,Scm Dunarea Giurgiu,CSM Cetatea Turnu Magurele,2,0,,,
-74087706,2026-09-19 14:00,ACS Progresul Mogosoaia,FC Dinamo Bucuresti 1948 2,0,3,,,
-74087708,2026-09-19 14:00,AFC Progresul 1944 Spartac,ACS Omega Buc,0,1,,,
-74087710,2026-09-22 14:00,Fotbal Club FCSB 2,CSM Alexandria,1,3,4.750,4.000,1.533
-74087714,2026-09-22 14:00,SC FC Voluntari II,ACS Inter Ilfov,2,3,4.750,5.000,1.444
-74087716,2026-09-22 14:00,FC Dinamo Bucuresti 1948 2,CSM Cetatea Turnu Magurele,1,3,2.400,3.700,2.300
-74087720,2026-09-22 14:00,ACS Axi Arena,Oxigen Bucuresti,0,1,1.500,4.100,4.500
-74087722,2026-09-25 16:00,ACS Inter Ilfov,FC Dinamo Bucuresti 1948 2,5,1,1.750,3.750,3.600
-74087728,2026-09-26 14:00,AFC Progresul 1944 Spartac,Fotbal Club FCSB 2,2,1,1.550,4.100,4.500
-74087730,2026-09-26 14:00,ACS Progresul Mogosoaia,CSM Cetatea Turnu Magurele,3,3,2.700,3.600,2.150
-74087732,2026-09-26 14:00,ACS Omega Buc,Scm Dunarea Giurgiu,1,1,1.615,4.000,4.000
-74087744,2026-10-02 12:00,FC Dinamo Bucuresti 1948 2,Oxigen Bucuresti,1,2,1.700,3.750,3.800
-74087738,2026-10-02 14:00,CSM Cetatea Turnu Magurele,ACS Inter Ilfov,2,2,,,
-74087746,2026-10-09 12:00,Oxigen Bucuresti,CSM Cetatea Turnu Magurele,2,0,3.700,4.100,1.666
-74087748,2026-10-09 12:00,CSM Alexandria,FC Dinamo Bucuresti 1948 2,1,0,,,
-74087750,2026-10-10 12:00,ACS Progresul Mogosoaia,ACS Inter Ilfov,2,1,2.800,3.600,2.100
-74087752,2026-10-10 12:00,Scm Dunarea Giurgiu,Fotbal Club FCSB 2,2,2,,,
-74087754,2026-10-10 12:00,ACS Omega Buc,ACS Axi Arena,2,1,1.615,3.600,4.600
-74087756,2026-10-10 12:00,AFC Progresul 1944 Spartac,SC FC Voluntari II,1,2,1.666,3.750,4.100
-74087758,2026-10-16 12:00,SC FC Voluntari II,ACS Omega Buc,1,1,5.200,4.100,1.480
-74087760,2026-10-16 12:00,Fotbal Club FCSB 2,ACS Progresul Mogosoaia,5,2,4.500,3.900,1.571
-74087762,2026-10-16 12:00,ACS Inter Ilfov,Oxigen Bucuresti,3,1,1.700,3.900,3.700
-74087764,2026-10-16 12:00,CSM Cetatea Turnu Magurele,CSM Alexandria,1,1,,,
-74087766,2026-10-16 12:00,ACS Axi Arena,Scm Dunarea Giurgiu,0,3,,,
-74087768,2026-10-16 12:00,FC Dinamo Bucuresti 1948 2,AFC Progresul 1944 Spartac,2,0,3.100,3.750,1.900
-74087782,2026-10-30 13:00,SC FC Voluntari II,Fotbal Club FCSB 2,4,2,2.400,3.600,2.400
-74087784,2026-10-30 13:00,ACS Inter Ilfov,AFC Progresul 1944 Spartac,3,2,1.480,4.333,4.750
-74087788,2026-10-30 13:00,ACS Axi Arena,ACS Progresul Mogosoaia,2,0,,,
-74087790,2026-10-30 13:00,CSM Cetatea Turnu Magurele,ACS Omega Buc,1,1,,,
-74087792,2026-10-30 13:00,FC Dinamo Bucuresti 1948 2,Scm Dunarea Giurgiu,4,5,2.500,3.500,2.350
-74087786,2026-10-31 13:00,Oxigen Bucuresti,CSM Alexandria,0,2,3.500,4.000,1.727
-74087796,2026-11-06 12:00,SC FC Voluntari II,ACS Axi Arena,1,0,2.100,3.500,2.750
-74087798,2026-11-06 12:00,CSM Cetatea Turnu Magurele,Scm Dunarea Giurgiu,2,4,,,
-74087804,2026-11-06 12:00,FC Dinamo Bucuresti 1948 2,Fotbal Club FCSB 2,0,3,1.909,3.800,3.000
-74087800,2026-11-07 12:00,Oxigen Bucuresti,AFC Progresul 1944 Spartac,1,0,2.550,3.500,2.300
-74087802,2026-11-07 12:00,ACS Progresul Mogosoaia,CSM Alexandria,0,0,3.300,3.600,1.850
-74087794,2026-11-07 17:00,ACS Inter Ilfov,ACS Omega Buc,2,1,2.250,3.400,2.625
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+73927930,2026-08-28 15:00,CSM Alexandria,ACS Progresul Mogosoaia,2,2,,,,,,
+73927938,2026-08-28 15:00,Fotbal Club FCSB 2,FC Dinamo Bucuresti 1948 2,0,1,1.700,4.100,3.600,3.25,1.925,1.875
+73927940,2026-08-28 15:00,ACS Axi Arena,SC FC Voluntari II,1,0,1.380,4.750,5.750,3.5,1.850,1.950
+73927932,2026-08-29 15:00,AFC Progresul 1944 Spartac,Oxigen Bucuresti,5,1,,,,,,
+73927934,2026-08-29 15:00,ACS Omega Buc,ACS Inter Ilfov,1,1,,,,,,
+73927936,2026-08-29 15:00,Scm Dunarea Giurgiu,CSM Cetatea Turnu Magurele,2,0,,,,,,
+74087706,2026-09-19 14:00,ACS Progresul Mogosoaia,FC Dinamo Bucuresti 1948 2,0,3,,,,,,
+74087708,2026-09-19 14:00,AFC Progresul 1944 Spartac,ACS Omega Buc,0,1,,,,,,
+74087710,2026-09-22 14:00,Fotbal Club FCSB 2,CSM Alexandria,1,3,4.750,4.000,1.533,3,1.900,1.900
+74087714,2026-09-22 14:00,SC FC Voluntari II,ACS Inter Ilfov,2,3,4.750,5.000,1.444,3.5,2.000,1.800
+74087716,2026-09-22 14:00,FC Dinamo Bucuresti 1948 2,CSM Cetatea Turnu Magurele,1,3,2.400,3.700,2.300,3,1.950,1.850
+74087720,2026-09-22 14:00,ACS Axi Arena,Oxigen Bucuresti,0,1,1.500,4.100,4.500,2.75,1.850,1.950
+74087722,2026-09-25 16:00,ACS Inter Ilfov,FC Dinamo Bucuresti 1948 2,5,1,1.750,3.750,3.600,3,1.825,1.975
+74087728,2026-09-26 14:00,AFC Progresul 1944 Spartac,Fotbal Club FCSB 2,2,1,1.550,4.100,4.500,3,1.800,2.000
+74087730,2026-09-26 14:00,ACS Progresul Mogosoaia,CSM Cetatea Turnu Magurele,3,3,2.700,3.600,2.150,2.75,1.950,1.850
+74087732,2026-09-26 14:00,ACS Omega Buc,Scm Dunarea Giurgiu,1,1,1.615,4.000,4.000,3.25,1.975,1.825
+74087744,2026-10-02 12:00,FC Dinamo Bucuresti 1948 2,Oxigen Bucuresti,1,2,1.700,3.750,3.800,3.25,1.850,1.950
+74087738,2026-10-02 14:00,CSM Cetatea Turnu Magurele,ACS Inter Ilfov,2,2,,,,,,
+74087746,2026-10-09 12:00,Oxigen Bucuresti,CSM Cetatea Turnu Magurele,2,0,3.700,4.100,1.666,3,1.850,1.950
+74087748,2026-10-09 12:00,CSM Alexandria,FC Dinamo Bucuresti 1948 2,1,0,,,,,,
+74087750,2026-10-10 12:00,ACS Progresul Mogosoaia,ACS Inter Ilfov,2,1,2.800,3.600,2.100,3,1.850,1.950
+74087752,2026-10-10 12:00,Scm Dunarea Giurgiu,Fotbal Club FCSB 2,2,2,,,,,,
+74087754,2026-10-10 12:00,ACS Omega Buc,ACS Axi Arena,2,1,1.615,3.600,4.600,2.5,1.950,1.850
+74087756,2026-10-10 12:00,AFC Progresul 1944 Spartac,SC FC Voluntari II,1,2,1.666,3.750,4.100,2.75,1.925,1.875
+74087758,2026-10-16 12:00,SC FC Voluntari II,ACS Omega Buc,1,1,5.200,4.100,1.480,2.5,1.850,1.950
+74087760,2026-10-16 12:00,Fotbal Club FCSB 2,ACS Progresul Mogosoaia,5,2,4.500,3.900,1.571,3,1.800,2.000
+74087762,2026-10-16 12:00,ACS Inter Ilfov,Oxigen Bucuresti,3,1,1.700,3.900,3.700,3,1.850,1.950
+74087764,2026-10-16 12:00,CSM Cetatea Turnu Magurele,CSM Alexandria,1,1,,,,,,
+74087766,2026-10-16 12:00,ACS Axi Arena,Scm Dunarea Giurgiu,0,3,,,,,,
+74087768,2026-10-16 12:00,FC Dinamo Bucuresti 1948 2,AFC Progresul 1944 Spartac,2,0,3.100,3.750,1.900,3,2.000,1.800
+74087782,2026-10-30 13:00,SC FC Voluntari II,Fotbal Club FCSB 2,4,2,2.400,3.600,2.400,3.5,2.000,1.800
+74087784,2026-10-30 13:00,ACS Inter Ilfov,AFC Progresul 1944 Spartac,3,2,1.480,4.333,4.750,3,1.850,1.950
+74087788,2026-10-30 13:00,ACS Axi Arena,ACS Progresul Mogosoaia,2,0,,,,,,
+74087790,2026-10-30 13:00,CSM Cetatea Turnu Magurele,ACS Omega Buc,1,1,,,,,,
+74087792,2026-10-30 13:00,FC Dinamo Bucuresti 1948 2,Scm Dunarea Giurgiu,4,5,2.500,3.500,2.350,3,1.875,1.925
+74087786,2026-10-31 13:00,Oxigen Bucuresti,CSM Alexandria,0,2,3.500,4.000,1.727,3,1.800,2.000
+74087796,2026-11-06 12:00,SC FC Voluntari II,ACS Axi Arena,1,0,2.100,3.500,2.750,2.75,1.850,1.950
+74087798,2026-11-06 12:00,CSM Cetatea Turnu Magurele,Scm Dunarea Giurgiu,2,4,,,,,,
+74087804,2026-11-06 12:00,FC Dinamo Bucuresti 1948 2,Fotbal Club FCSB 2,0,3,1.909,3.800,3.000,3.5,1.975,1.825
+74087800,2026-11-07 12:00,Oxigen Bucuresti,AFC Progresul 1944 Spartac,1,0,2.550,3.500,2.300,2.75,1.850,1.950
+74087802,2026-11-07 12:00,ACS Progresul Mogosoaia,CSM Alexandria,0,0,3.300,3.600,1.850,2.75,1.825,1.975
+74087794,2026-11-07 17:00,ACS Inter Ilfov,ACS Omega Buc,2,1,2.250,3.400,2.625,2.75,1.850,1.950

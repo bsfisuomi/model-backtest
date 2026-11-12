@@ -1,210 +1,210 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-60432557,2025-05-22 12:00,FC West Armenia,Gandzasar Kapan FC,0,3,,,
-60432559,2025-05-22 15:00,FC BKMA Yerevan,FC Alashkert Yerevan,2,0,,,
-60432561,2025-05-23 12:00,FC Van Charentsavan,FC Pyunik Yerevan,3,2,,,
-60432563,2025-05-24 12:00,Ararat Yerevan FC,FC Urartu Yerevan,2,4,,,
-60432565,2025-05-24 15:00,FC Noah Yerevan,FC Ararat-Armenia,2,0,,,
-60432569,2025-05-27 12:00,FC Alashkert Yerevan,FC Noah Yerevan,1,0,,,
-60432573,2025-05-28 15:00,FC Urartu Yerevan,FC Van Charentsavan,0,2,,,
-60432575,2025-05-28 15:00,FC Ararat-Armenia,Ararat Yerevan FC,6,0,,,
-62192594,2025-08-09 13:00,Ararat Yerevan FC,FC Van Charentsavan,0,1,,,
-62192584,2025-08-09 15:30,FC Urartu Yerevan,Gandzasar Kapan FC,1,0,,,
-62192610,2025-08-11 16:00,FC Shirak Gyumri,FC Pyunik Yerevan,0,0,,,
-62586978,2025-08-15 13:00,FC Van Charentsavan,FC Urartu Yerevan,0,2,,,
-62586980,2025-08-16 13:00,FC Alashkert Yerevan,Ararat Yerevan FC,3,0,,,
-62586982,2025-08-16 15:30,FC BKMA Yerevan,FC Shirak Gyumri,2,1,,,
-62951967,2025-08-17 16:00,FC Noah Yerevan,Gandzasar Kapan FC,4,1,,,
-62845507,2025-08-22 12:30,Ararat Yerevan FC,FC Pyunik Yerevan,0,2,,,
-62845509,2025-08-22 16:00,FC Urartu Yerevan,FC Alashkert Yerevan,0,1,,,
-62845511,2025-08-23 16:00,FC BKMA Yerevan,Gandzasar Kapan FC,0,0,,,
-62845513,2025-08-24 14:00,FC Shirak Gyumri,FC Ararat-Armenia,0,1,,,
-63322639,2025-08-29 12:00,FC BKMA Yerevan,FC Van Charentsavan,0,0,,,
-62845519,2025-08-29 15:00,FC Pyunik Yerevan,FC Urartu Yerevan,1,2,,,
-62845521,2025-08-30 13:00,Gandzasar Kapan FC,FC Shirak Gyumri,1,1,,,
-62845599,2025-08-30 15:00,FC Ararat-Armenia,Ararat Yerevan FC,4,2,,,
-62845601,2025-08-31 12:00,FC Alashkert Yerevan,FC Noah Yerevan,2,0,,,
-63344923,2025-09-12 13:00,Gandzasar Kapan FC,FC Van Charentsavan,1,0,,,
-63344925,2025-09-12 15:00,FC Shirak Gyumri,Ararat Yerevan FC,4,2,,,
-63344927,2025-09-13 14:00,FC BKMA Yerevan,FC Alashkert Yerevan,1,3,,,
-63344929,2025-09-14 15:00,FC Urartu Yerevan,FC Ararat-Armenia,2,3,,,
-63344931,2025-09-14 15:00,FC Noah Yerevan,FC Pyunik Yerevan,3,1,,,
-63344935,2025-09-19 12:00,FC Van Charentsavan,FC Shirak Gyumri,3,2,,,
-63843725,2025-09-19 15:00,FC Urartu Yerevan,Ararat Yerevan FC,6,0,,,
-63344939,2025-09-20 14:00,FC Pyunik Yerevan,FC BKMA Yerevan,2,1,,,
-63344941,2025-09-20 14:00,FC Ararat-Armenia,FC Noah Yerevan,2,2,,,
-63344943,2025-09-21 12:00,FC Alashkert Yerevan,Gandzasar Kapan FC,2,0,,,
-63460667,2025-09-24 15:00,FC Noah Yerevan,FC Van Charentsavan,2,1,,,
-63460669,2025-09-25 15:00,FC Ararat-Armenia,FC Alashkert Yerevan,2,1,,,
-63344945,2025-09-26 15:00,FC Shirak Gyumri,FC Urartu Yerevan,0,1,,,
-63345019,2025-09-27 15:00,Gandzasar Kapan FC,FC Pyunik Yerevan,0,1,,,
-63667435,2025-09-28 15:00,FC Noah Yerevan,Ararat Yerevan FC,2,0,,,
-63345025,2025-09-29 15:00,FC BKMA Yerevan,FC Ararat-Armenia,2,2,,,
-63961361,2025-10-03 11:30,FC Alashkert Yerevan,FC Shirak Gyumri,1,1,,,
-63961363,2025-10-04 13:00,FC Pyunik Yerevan,FC Van Charentsavan,5,1,,,
-63961365,2025-10-04 15:00,Ararat Yerevan FC,FC BKMA Yerevan,2,2,,,
-63961367,2025-10-05 13:00,FC Ararat-Armenia,Gandzasar Kapan FC,1,0,,,
-63961369,2025-10-05 16:00,FC Urartu Yerevan,FC Noah Yerevan,0,0,,,
-63961371,2025-10-17 15:00,FC Shirak Gyumri,FC Alashkert Yerevan,1,2,,,
-63961373,2025-10-18 11:30,FC Van Charentsavan,FC Pyunik Yerevan,2,1,,,
-63961375,2025-10-18 15:00,FC Noah Yerevan,FC Urartu Yerevan,0,0,,,
-63961377,2025-10-19 13:00,Gandzasar Kapan FC,FC Ararat-Armenia,0,1,,,
-63961379,2025-10-19 15:00,FC BKMA Yerevan,Ararat Yerevan FC,4,0,,,
-63961381,2025-10-24 11:30,FC Alashkert Yerevan,FC Van Charentsavan,1,0,,,
-63961383,2025-10-24 15:00,FC Urartu Yerevan,FC Shirak Gyumri,5,0,,,
-63961385,2025-10-25 13:00,FC Pyunik Yerevan,Gandzasar Kapan FC,2,0,,,
-63961387,2025-10-25 15:00,FC Ararat-Armenia,FC BKMA Yerevan,2,1,,,
-63961389,2025-10-27 15:00,Ararat Yerevan FC,FC Noah Yerevan,0,3,,,
-64564860,2025-11-01 15:00,FC Noah Yerevan,FC Ararat-Armenia,1,2,,,
-64564862,2025-11-02 13:00,FC BKMA Yerevan,FC Pyunik Yerevan,1,2,,,
-64564864,2025-11-02 15:00,FC Shirak Gyumri,FC Van Charentsavan,2,3,,,
-64564866,2025-11-03 13:00,Gandzasar Kapan FC,FC Alashkert Yerevan,1,0,,,
-64564868,2025-11-03 15:00,Ararat Yerevan FC,FC Urartu Yerevan,0,1,,,
-64564870,2025-11-08 11:00,FC Alashkert Yerevan,FC BKMA Yerevan,2,0,,,
-64564872,2025-11-08 14:00,FC Ararat-Armenia,FC Urartu Yerevan,1,1,,,
-64564874,2025-11-09 11:00,FC Van Charentsavan,Gandzasar Kapan FC,2,1,,,
-64564876,2025-11-09 14:00,Ararat Yerevan FC,FC Shirak Gyumri,0,0,,,
-64564878,2025-11-21 13:00,Ararat Yerevan FC,FC Ararat-Armenia,1,2,,,
-64564880,2025-11-21 15:00,FC Urartu Yerevan,FC Pyunik Yerevan,1,1,,,
-64564882,2025-11-22 12:00,FC Shirak Gyumri,Gandzasar Kapan FC,1,0,,,
-64564884,2025-11-22 14:00,FC Noah Yerevan,FC Alashkert Yerevan,2,2,,,
-64564886,2025-11-23 11:00,FC Van Charentsavan,FC BKMA Yerevan,3,2,,,
-64564888,2025-11-28 11:00,Gandzasar Kapan FC,FC BKMA Yerevan,0,0,,,
-64564890,2025-11-29 11:00,FC Alashkert Yerevan,FC Urartu Yerevan,0,2,,,
-64564894,2025-11-30 15:00,FC Pyunik Yerevan,Ararat Yerevan FC,2,0,,,
-64564892,2025-12-01 10:00,FC Ararat-Armenia,FC Shirak Gyumri,4,1,,,
-69042184,2026-03-06 13:00,Gandzasar Kapan FC,FC Urartu Yerevan,2,2,4.333,3.600,1.615
-69042188,2026-03-07 11:00,FC Van Charentsavan,Ararat Yerevan FC,1,2,1.950,3.500,3.100
-69042186,2026-03-07 14:00,FC Alashkert Yerevan,FC Ararat-Armenia,1,0,3.400,3.000,2.050
-69042192,2026-03-08 13:00,FC BKMA Yerevan,FC Noah Yerevan,0,2,6.250,5.000,1.333
-69042190,2026-03-09 11:00,FC Pyunik Yerevan,FC Shirak Gyumri,3,0,1.400,4.750,5.500
-69595162,2026-03-14 14:00,Ararat Yerevan FC,Gandzasar Kapan FC,0,2,2.375,3.100,2.800
-69595164,2026-03-15 11:30,FC Pyunik Yerevan,FC Alashkert Yerevan,1,0,1.950,3.250,3.400
-69595166,2026-03-15 15:45,FC Urartu Yerevan,FC BKMA Yerevan,4,1,1.250,5.000,9.000
-69595168,2026-03-16 11:30,FC Ararat-Armenia,FC Van Charentsavan,3,0,1.181,6.500,10.000
-69595170,2026-03-16 15:00,FC Shirak Gyumri,FC Noah Yerevan,0,2,6.250,5.250,1.380
-69595172,2026-03-20 11:30,FC Van Charentsavan,FC Ararat-Armenia,2,2,8.000,4.750,1.270
-69595174,2026-03-20 15:00,FC BKMA Yerevan,FC Urartu Yerevan,0,1,5.000,4.333,1.480
-69595176,2026-03-21 11:30,FC Alashkert Yerevan,FC Pyunik Yerevan,0,1,3.200,3.000,2.200
-69595178,2026-03-21 15:00,Gandzasar Kapan FC,Ararat Yerevan FC,2,1,1.833,3.400,3.700
-69595180,2026-03-22 12:00,FC Noah Yerevan,FC Shirak Gyumri,3,0,1.166,6.250,13.000
-69994410,2026-04-04 15:00,Ararat Yerevan FC,FC Van Charentsavan,1,2,2.200,3.250,2.800
-69994412,2026-04-05 12:00,FC Noah Yerevan,FC BKMA Yerevan,2,0,1.166,6.500,12.000
-69994486,2026-04-05 15:00,FC Urartu Yerevan,Gandzasar Kapan FC,4,2,1.500,3.600,5.750
-69994488,2026-04-06 13:00,FC Shirak Gyumri,FC Pyunik Yerevan,0,1,6.500,4.500,1.363
-69994490,2026-04-06 15:00,FC Ararat-Armenia,FC Alashkert Yerevan,1,1,1.615,3.500,4.750
-70309258,2026-04-10 11:30,FC Van Charentsavan,FC Urartu Yerevan,1,2,6.000,4.100,1.420
-70309542,2026-04-10 15:00,Gandzasar Kapan FC,FC Noah Yerevan,0,3,6.000,4.750,1.363
-70309936,2026-04-11 13:30,FC Pyunik Yerevan,FC Ararat-Armenia,0,1,2.300,3.400,2.600
-70309940,2026-04-12 11:30,FC BKMA Yerevan,FC Shirak Gyumri,0,0,2.350,3.400,2.600
-70637814,2026-04-14 11:00,FC Alashkert Yerevan,Ararat Yerevan FC,2,0,1.250,5.500,8.000
-70820612,2026-04-16 12:00,FC Shirak Gyumri,FC BKMA Yerevan,1,1,1.800,3.600,3.500
-70629818,2026-04-18 14:00,Ararat Yerevan FC,FC Pyunik Yerevan,1,0,,,
-70629820,2026-04-19 12:00,FC BKMA Yerevan,Gandzasar Kapan FC,1,1,,,
-70629822,2026-04-19 15:00,FC Urartu Yerevan,FC Alashkert Yerevan,1,3,2.150,3.200,3.000
-70629824,2026-04-20 12:00,FC Noah Yerevan,FC Van Charentsavan,2,0,1.142,7.000,13.000
-70629826,2026-04-20 15:00,FC Shirak Gyumri,FC Ararat-Armenia,0,4,6.000,4.750,1.363
-70629828,2026-04-23 11:30,FC Van Charentsavan,FC BKMA Yerevan,1,2,,,
-70629830,2026-04-23 14:00,FC Pyunik Yerevan,FC Urartu Yerevan,2,1,1.727,3.600,3.800
-70629832,2026-04-25 11:30,FC Alashkert Yerevan,FC Noah Yerevan,1,1,4.333,3.500,1.700
-70629834,2026-04-25 14:00,FC Ararat-Armenia,Ararat Yerevan FC,4,0,1.125,8.000,15.000
-70629836,2026-04-26 12:00,Gandzasar Kapan FC,FC Shirak Gyumri,3,2,1.800,3.600,3.400
-71050560,2026-04-26 14:00,FC Urartu Yerevan,FC Van Charentsavan,2,0,1.363,4.750,6.000
-70906462,2026-05-01 12:00,FC Shirak Gyumri,Ararat Yerevan FC,0,2,2.000,3.300,3.100
-70906464,2026-05-02 12:00,FC BKMA Yerevan,FC Alashkert Yerevan,2,2,,,
-70906466,2026-05-02 15:00,Gandzasar Kapan FC,FC Van Charentsavan,0,1,,,
-70906468,2026-05-03 15:00,FC Noah Yerevan,FC Pyunik Yerevan,0,0,1.650,3.600,4.500
-70906470,2026-05-03 15:00,FC Urartu Yerevan,FC Ararat-Armenia,0,2,4.000,3.500,1.750
-71050566,2026-05-06 15:00,FC Ararat-Armenia,FC Pyunik Yerevan,1,1,1.950,3.300,3.400
-71050570,2026-05-06 15:00,Gandzasar Kapan FC,FC Noah Yerevan,1,4,,,
-70906472,2026-05-08 11:00,FC Van Charentsavan,FC Shirak Gyumri,1,0,,,
-70906474,2026-05-09 11:00,FC Alashkert Yerevan,Gandzasar Kapan FC,3,1,1.400,4.100,6.500
-70906476,2026-05-09 15:00,FC Pyunik Yerevan,FC BKMA Yerevan,2,0,,,
-70906478,2026-05-10 12:00,Ararat Yerevan FC,FC Urartu Yerevan,0,1,4.500,4.200,1.533
-70906480,2026-05-10 14:00,FC Ararat-Armenia,FC Noah Yerevan,0,4,,,
-71360366,2026-05-16 12:00,FC Van Charentsavan,FC Alashkert Yerevan,0,1,,,
-71360368,2026-05-17 15:00,FC BKMA Yerevan,FC Ararat-Armenia,2,3,,,
-71360370,2026-05-18 13:00,FC Shirak Gyumri,FC Urartu Yerevan,0,0,5.000,4.200,1.480
-71360372,2026-05-18 15:00,Gandzasar Kapan FC,FC Pyunik Yerevan,0,2,,,
-71360374,2026-05-19 15:00,FC Noah Yerevan,Ararat Yerevan FC,8,3,1.125,9.500,12.000
-71495872,2026-05-26 15:00,FC Alashkert Yerevan,FC Shirak Gyumri,2,1,1.270,5.000,9.000
-71495874,2026-05-26 15:00,Ararat Yerevan FC,FC BKMA Yerevan,1,1,,,
-71495876,2026-05-27 15:00,FC Pyunik Yerevan,FC Van Charentsavan,2,1,,,
-71495878,2026-05-27 15:00,FC Ararat-Armenia,Gandzasar Kapan FC,1,0,,,
-71495880,2026-05-27 15:00,FC Urartu Yerevan,FC Noah Yerevan,0,5,,,
-72575504,2026-07-31 12:00,FC Van Charentsavan,Sardarapat FC,1,4,1.950,3.300,3.400
-72575496,2026-08-01 14:00,FC BKMA Yerevan,FC Shirak Gyumri,0,0,2.150,3.250,3.000
-72575500,2026-08-01 16:00,Gandzasar Kapan FC,FC Ararat-Armenia,3,4,4.333,3.400,1.700
-72575498,2026-08-02 15:00,FC Noah Yerevan,FC Syunik,3,0,1.222,6.500,7.500
-72575502,2026-08-02 17:00,FC Urartu Yerevan,FC Pyunik Yerevan,2,2,3.000,3.100,2.150
-72575494,2026-08-03 16:00,FC Alashkert Yerevan,Ararat Yerevan FC,3,0,1.400,4.500,5.500
-73036114,2026-08-07 15:00,Ararat Yerevan FC,Sardarapat FC,1,2,2.800,3.250,2.300
-73036116,2026-08-07 15:00,FC Ararat-Armenia,FC Urartu Yerevan,2,1,1.750,3.600,3.700
-73492564,2026-08-08 15:00,Gandzasar Kapan FC,FC Syunik,3,1,2.000,3.400,3.100
-73036118,2026-08-09 13:00,FC Pyunik Yerevan,FC Van Charentsavan,3,0,1.090,9.000,21.000
-73036120,2026-08-09 15:00,FC Shirak Gyumri,FC Noah Yerevan,3,4,9.500,6.000,1.200
-73036122,2026-08-10 16:00,FC Alashkert Yerevan,FC BKMA Yerevan,3,0,1.222,5.250,10.000
-73338682,2026-08-13 15:00,FC Urartu Yerevan,FC Syunik,3,0,1.444,4.200,5.500
-73338684,2026-08-14 16:00,Gandzasar Kapan FC,FC Shirak Gyumri,0,1,2.100,3.000,3.400
-73735404,2026-08-15 12:00,FC Ararat-Armenia,FC Van Charentsavan,2,0,1.083,11.000,19.000
-73338688,2026-08-15 15:30,FC BKMA Yerevan,Ararat Yerevan FC,1,2,2.600,3.300,2.350
-73338692,2026-08-17 16:00,FC Noah Yerevan,FC Alashkert Yerevan,1,0,1.666,3.600,4.200
-73742938,2026-08-20 12:15,FC Van Charentsavan,FC Syunik,1,1,2.150,3.400,2.875
-73592950,2026-08-21 15:00,Ararat Yerevan FC,FC Pyunik Yerevan,0,2,7.500,4.333,1.333
-73592948,2026-08-21 17:00,FC Alashkert Yerevan,Gandzasar Kapan FC,3,0,1.450,4.000,6.250
-73592952,2026-08-22 14:00,FC Shirak Gyumri,FC Urartu Yerevan,0,1,3.500,3.500,1.850
-73592956,2026-08-23 14:00,FC BKMA Yerevan,FC Noah Yerevan,0,1,10.000,5.750,1.200
-73592954,2026-08-23 17:00,FC Ararat-Armenia,Sardarapat FC,1,1,1.420,4.750,5.000
-73812370,2026-08-28 16:00,FC Urartu Yerevan,FC Alashkert Yerevan,1,1,2.875,3.600,2.050
-73812372,2026-08-29 12:00,FC Van Charentsavan,FC Shirak Gyumri,0,4,2.750,3.300,2.250
-73812374,2026-08-30 13:00,Gandzasar Kapan FC,FC BKMA Yerevan,0,3,1.800,3.500,3.600
-73812376,2026-08-30 16:00,FC Noah Yerevan,Ararat Yerevan FC,4,0,1.100,8.500,17.000
-73812378,2026-08-31 12:00,Sardarapat FC,FC Syunik,3,1,1.750,3.500,3.700
-73812380,2026-08-31 16:00,FC Pyunik Yerevan,FC Ararat-Armenia,2,1,2.150,3.300,2.800
-73945156,2026-09-03 16:00,FC Alashkert Yerevan,FC Van Charentsavan,4,0,1.142,8.500,11.000
-73945158,2026-09-04 12:00,FC Syunik,FC Pyunik Yerevan,0,0,11.000,5.500,1.200
-73945160,2026-09-04 16:00,FC Noah Yerevan,Gandzasar Kapan FC,3,2,1.111,8.500,17.000
-73945162,2026-09-05 15:00,Ararat Yerevan FC,FC Ararat-Armenia,0,1,7.500,4.200,1.333
-73945164,2026-09-06 13:00,FC BKMA Yerevan,FC Urartu Yerevan,2,1,4.333,3.600,1.650
-73945166,2026-09-06 15:00,FC Shirak Gyumri,Sardarapat FC,2,0,2.200,3.200,2.875
-74352276,2026-09-09 12:00,Sardarapat FC,FC Pyunik Yerevan,2,4,6.250,3.800,1.444
-73945168,2026-09-11 12:00,FC Van Charentsavan,FC BKMA Yerevan,2,1,3.100,3.400,2.000
-73945170,2026-09-11 15:00,FC Ararat-Armenia,FC Syunik,3,0,1.181,7.000,9.000
-73945172,2026-09-12 14:00,Gandzasar Kapan FC,Ararat Yerevan FC,0,2,2.200,3.000,3.100
-73945174,2026-09-12 16:00,FC Urartu Yerevan,FC Noah Yerevan,0,3,4.500,4.000,1.550
-73945176,2026-09-13 12:00,Sardarapat FC,FC Alashkert Yerevan,1,1,6.000,4.200,1.400
-73945178,2026-09-13 15:00,FC Pyunik Yerevan,FC Shirak Gyumri,2,0,1.333,4.500,6.500
-73945180,2026-09-18 14:00,Gandzasar Kapan FC,FC Urartu Yerevan,0,3,3.500,3.700,1.800
-73945182,2026-09-18 16:00,FC Noah Yerevan,FC Van Charentsavan,2,0,1.062,12.000,23.000
-73945184,2026-09-19 12:00,FC Alashkert Yerevan,FC Pyunik Yerevan,3,3,2.450,3.100,2.600
-73945186,2026-09-19 15:00,FC BKMA Yerevan,Sardarapat FC,1,1,2.875,3.300,2.200
-73945190,2026-09-20 12:00,Ararat Yerevan FC,FC Syunik,1,0,1.833,3.500,3.500
-73945188,2026-09-20 14:00,FC Shirak Gyumri,FC Ararat-Armenia,1,3,6.000,4.100,1.420
-75028960,2026-10-10 12:00,FC Van Charentsavan,Gandzasar Kapan FC,2,0,2.875,3.400,2.100
-75028962,2026-10-10 15:00,FC Ararat-Armenia,FC Alashkert Yerevan,1,1,2.450,3.300,2.450
-75028964,2026-10-11 12:00,Sardarapat FC,FC Noah Yerevan,1,5,7.500,5.250,1.250
-75028966,2026-10-11 16:00,FC Urartu Yerevan,Ararat Yerevan FC,2,2,1.571,3.750,4.750
-75028968,2026-10-12 12:00,FC Syunik,FC Shirak Gyumri,2,0,3.300,3.500,1.900
-75028970,2026-10-12 15:00,FC Pyunik Yerevan,FC BKMA Yerevan,5,0,1.222,5.250,10.000
-75028972,2026-10-16 13:00,FC Alashkert Yerevan,FC Syunik,5,1,1.270,5.250,7.000
-75028974,2026-10-16 15:00,Gandzasar Kapan FC,Sardarapat FC,1,2,2.750,3.500,2.100
-75028976,2026-10-17 14:00,FC Urartu Yerevan,FC Van Charentsavan,5,2,1.444,4.333,5.250
-75028978,2026-10-17 16:00,Ararat Yerevan FC,FC Shirak Gyumri,1,1,2.250,3.100,2.900
-75028980,2026-10-18 13:00,FC BKMA Yerevan,FC Ararat-Armenia,0,1,7.500,5.500,1.250
-75028982,2026-10-18 16:00,FC Noah Yerevan,FC Pyunik Yerevan,1,1,1.800,3.400,3.900
-75028988,2026-10-22 15:00,Sardarapat FC,FC Urartu Yerevan,0,0,3.800,3.800,1.700
-75028984,2026-10-23 11:30,FC Van Charentsavan,Ararat Yerevan FC,2,1,2.875,3.300,2.150
-75028986,2026-10-23 15:00,FC Pyunik Yerevan,Gandzasar Kapan FC,3,0,1.125,7.500,15.000
-75028990,2026-10-24 15:00,FC Shirak Gyumri,FC Alashkert Yerevan,0,1,5.000,3.900,1.533
-75028992,2026-10-25 11:30,FC Syunik,FC BKMA Yerevan,4,1,2.000,3.500,3.000
-75028994,2026-10-26 15:00,FC Ararat-Armenia,FC Noah Yerevan,2,1,3.100,3.500,2.000
-75028996,2026-10-30 11:30,Sardarapat FC,FC Van Charentsavan,2,2,2.250,3.400,2.700
-75028998,2026-10-30 15:00,FC Pyunik Yerevan,FC Urartu Yerevan,1,0,1.571,4.333,4.000
-75029000,2026-10-31 13:00,FC Shirak Gyumri,FC BKMA Yerevan,2,1,1.700,3.500,4.100
-75029002,2026-10-31 16:00,Ararat Yerevan FC,FC Alashkert Yerevan,0,2,5.500,4.100,1.450
-75029004,2026-11-01 11:30,FC Syunik,FC Noah Yerevan,1,3,11.000,7.000,1.166
-75029006,2026-11-01 15:00,FC Ararat-Armenia,Gandzasar Kapan FC,3,0,1.125,7.500,13.000
-75881448,2026-11-06 11:00,FC Van Charentsavan,FC Pyunik Yerevan,0,3,6.250,5.250,1.333
-75881450,2026-11-06 15:00,FC BKMA Yerevan,FC Alashkert Yerevan,4,1,9.500,5.750,1.200
-75881452,2026-11-07 11:00,Sardarapat FC,Ararat Yerevan FC,1,0,2.200,3.400,2.800
-75881454,2026-11-07 15:00,FC Noah Yerevan,FC Shirak Gyumri,1,0,1.181,6.500,10.000
-75881456,2026-11-08 11:00,FC Syunik,Gandzasar Kapan FC,2,1,1.727,3.800,3.700
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+60432557,2025-05-22 12:00,FC West Armenia,Gandzasar Kapan FC,0,3,,,,,,
+60432559,2025-05-22 15:00,FC BKMA Yerevan,FC Alashkert Yerevan,2,0,,,,,,
+60432561,2025-05-23 12:00,FC Van Charentsavan,FC Pyunik Yerevan,3,2,,,,,,
+60432563,2025-05-24 12:00,Ararat Yerevan FC,FC Urartu Yerevan,2,4,,,,,,
+60432565,2025-05-24 15:00,FC Noah Yerevan,FC Ararat-Armenia,2,0,,,,,,
+60432569,2025-05-27 12:00,FC Alashkert Yerevan,FC Noah Yerevan,1,0,,,,,,
+60432573,2025-05-28 15:00,FC Urartu Yerevan,FC Van Charentsavan,0,2,,,,,,
+60432575,2025-05-28 15:00,FC Ararat-Armenia,Ararat Yerevan FC,6,0,,,,,,
+62192594,2025-08-09 13:00,Ararat Yerevan FC,FC Van Charentsavan,0,1,,,,,,
+62192584,2025-08-09 15:30,FC Urartu Yerevan,Gandzasar Kapan FC,1,0,,,,,,
+62192610,2025-08-11 16:00,FC Shirak Gyumri,FC Pyunik Yerevan,0,0,,,,,,
+62586978,2025-08-15 13:00,FC Van Charentsavan,FC Urartu Yerevan,0,2,,,,,,
+62586980,2025-08-16 13:00,FC Alashkert Yerevan,Ararat Yerevan FC,3,0,,,,,,
+62586982,2025-08-16 15:30,FC BKMA Yerevan,FC Shirak Gyumri,2,1,,,,,,
+62951967,2025-08-17 16:00,FC Noah Yerevan,Gandzasar Kapan FC,4,1,,,,,,
+62845507,2025-08-22 12:30,Ararat Yerevan FC,FC Pyunik Yerevan,0,2,,,,,,
+62845509,2025-08-22 16:00,FC Urartu Yerevan,FC Alashkert Yerevan,0,1,,,,,,
+62845511,2025-08-23 16:00,FC BKMA Yerevan,Gandzasar Kapan FC,0,0,,,,,,
+62845513,2025-08-24 14:00,FC Shirak Gyumri,FC Ararat-Armenia,0,1,,,,,,
+63322639,2025-08-29 12:00,FC BKMA Yerevan,FC Van Charentsavan,0,0,,,,,,
+62845519,2025-08-29 15:00,FC Pyunik Yerevan,FC Urartu Yerevan,1,2,,,,,,
+62845521,2025-08-30 13:00,Gandzasar Kapan FC,FC Shirak Gyumri,1,1,,,,,,
+62845599,2025-08-30 15:00,FC Ararat-Armenia,Ararat Yerevan FC,4,2,,,,,,
+62845601,2025-08-31 12:00,FC Alashkert Yerevan,FC Noah Yerevan,2,0,,,,,,
+63344923,2025-09-12 13:00,Gandzasar Kapan FC,FC Van Charentsavan,1,0,,,,,,
+63344925,2025-09-12 15:00,FC Shirak Gyumri,Ararat Yerevan FC,4,2,,,,,,
+63344927,2025-09-13 14:00,FC BKMA Yerevan,FC Alashkert Yerevan,1,3,,,,,,
+63344929,2025-09-14 15:00,FC Urartu Yerevan,FC Ararat-Armenia,2,3,,,,,,
+63344931,2025-09-14 15:00,FC Noah Yerevan,FC Pyunik Yerevan,3,1,,,,,,
+63344935,2025-09-19 12:00,FC Van Charentsavan,FC Shirak Gyumri,3,2,,,,,,
+63843725,2025-09-19 15:00,FC Urartu Yerevan,Ararat Yerevan FC,6,0,,,,,,
+63344939,2025-09-20 14:00,FC Pyunik Yerevan,FC BKMA Yerevan,2,1,,,,,,
+63344941,2025-09-20 14:00,FC Ararat-Armenia,FC Noah Yerevan,2,2,,,,,,
+63344943,2025-09-21 12:00,FC Alashkert Yerevan,Gandzasar Kapan FC,2,0,,,,,,
+63460667,2025-09-24 15:00,FC Noah Yerevan,FC Van Charentsavan,2,1,,,,,,
+63460669,2025-09-25 15:00,FC Ararat-Armenia,FC Alashkert Yerevan,2,1,,,,,,
+63344945,2025-09-26 15:00,FC Shirak Gyumri,FC Urartu Yerevan,0,1,,,,,,
+63345019,2025-09-27 15:00,Gandzasar Kapan FC,FC Pyunik Yerevan,0,1,,,,,,
+63667435,2025-09-28 15:00,FC Noah Yerevan,Ararat Yerevan FC,2,0,,,,,,
+63345025,2025-09-29 15:00,FC BKMA Yerevan,FC Ararat-Armenia,2,2,,,,,,
+63961361,2025-10-03 11:30,FC Alashkert Yerevan,FC Shirak Gyumri,1,1,,,,,,
+63961363,2025-10-04 13:00,FC Pyunik Yerevan,FC Van Charentsavan,5,1,,,,,,
+63961365,2025-10-04 15:00,Ararat Yerevan FC,FC BKMA Yerevan,2,2,,,,,,
+63961367,2025-10-05 13:00,FC Ararat-Armenia,Gandzasar Kapan FC,1,0,,,,,,
+63961369,2025-10-05 16:00,FC Urartu Yerevan,FC Noah Yerevan,0,0,,,,,,
+63961371,2025-10-17 15:00,FC Shirak Gyumri,FC Alashkert Yerevan,1,2,,,,,,
+63961373,2025-10-18 11:30,FC Van Charentsavan,FC Pyunik Yerevan,2,1,,,,,,
+63961375,2025-10-18 15:00,FC Noah Yerevan,FC Urartu Yerevan,0,0,,,,,,
+63961377,2025-10-19 13:00,Gandzasar Kapan FC,FC Ararat-Armenia,0,1,,,,,,
+63961379,2025-10-19 15:00,FC BKMA Yerevan,Ararat Yerevan FC,4,0,,,,,,
+63961381,2025-10-24 11:30,FC Alashkert Yerevan,FC Van Charentsavan,1,0,,,,,,
+63961383,2025-10-24 15:00,FC Urartu Yerevan,FC Shirak Gyumri,5,0,,,,,,
+63961385,2025-10-25 13:00,FC Pyunik Yerevan,Gandzasar Kapan FC,2,0,,,,,,
+63961387,2025-10-25 15:00,FC Ararat-Armenia,FC BKMA Yerevan,2,1,,,,,,
+63961389,2025-10-27 15:00,Ararat Yerevan FC,FC Noah Yerevan,0,3,,,,,,
+64564860,2025-11-01 15:00,FC Noah Yerevan,FC Ararat-Armenia,1,2,,,,,,
+64564862,2025-11-02 13:00,FC BKMA Yerevan,FC Pyunik Yerevan,1,2,,,,,,
+64564864,2025-11-02 15:00,FC Shirak Gyumri,FC Van Charentsavan,2,3,,,,,,
+64564866,2025-11-03 13:00,Gandzasar Kapan FC,FC Alashkert Yerevan,1,0,,,,,,
+64564868,2025-11-03 15:00,Ararat Yerevan FC,FC Urartu Yerevan,0,1,,,,,,
+64564870,2025-11-08 11:00,FC Alashkert Yerevan,FC BKMA Yerevan,2,0,,,,,,
+64564872,2025-11-08 14:00,FC Ararat-Armenia,FC Urartu Yerevan,1,1,,,,,,
+64564874,2025-11-09 11:00,FC Van Charentsavan,Gandzasar Kapan FC,2,1,,,,,,
+64564876,2025-11-09 14:00,Ararat Yerevan FC,FC Shirak Gyumri,0,0,,,,,,
+64564878,2025-11-21 13:00,Ararat Yerevan FC,FC Ararat-Armenia,1,2,,,,,,
+64564880,2025-11-21 15:00,FC Urartu Yerevan,FC Pyunik Yerevan,1,1,,,,,,
+64564882,2025-11-22 12:00,FC Shirak Gyumri,Gandzasar Kapan FC,1,0,,,,,,
+64564884,2025-11-22 14:00,FC Noah Yerevan,FC Alashkert Yerevan,2,2,,,,,,
+64564886,2025-11-23 11:00,FC Van Charentsavan,FC BKMA Yerevan,3,2,,,,,,
+64564888,2025-11-28 11:00,Gandzasar Kapan FC,FC BKMA Yerevan,0,0,,,,,,
+64564890,2025-11-29 11:00,FC Alashkert Yerevan,FC Urartu Yerevan,0,2,,,,,,
+64564894,2025-11-30 15:00,FC Pyunik Yerevan,Ararat Yerevan FC,2,0,,,,,,
+64564892,2025-12-01 10:00,FC Ararat-Armenia,FC Shirak Gyumri,4,1,,,,,,
+69042184,2026-03-06 13:00,Gandzasar Kapan FC,FC Urartu Yerevan,2,2,4.333,3.600,1.615,2.5,2.000,1.800
+69042188,2026-03-07 11:00,FC Van Charentsavan,Ararat Yerevan FC,1,2,1.950,3.500,3.100,2.5,1.850,1.950
+69042186,2026-03-07 14:00,FC Alashkert Yerevan,FC Ararat-Armenia,1,0,3.400,3.000,2.050,2.25,1.925,1.875
+69042192,2026-03-08 13:00,FC BKMA Yerevan,FC Noah Yerevan,0,2,6.250,5.000,1.333,3.25,1.775,2.025
+69042190,2026-03-09 11:00,FC Pyunik Yerevan,FC Shirak Gyumri,3,0,1.400,4.750,5.500,2.75,2.000,1.800
+69595162,2026-03-14 14:00,Ararat Yerevan FC,Gandzasar Kapan FC,0,2,2.375,3.100,2.800,2.25,1.800,2.000
+69595164,2026-03-15 11:30,FC Pyunik Yerevan,FC Alashkert Yerevan,1,0,1.950,3.250,3.400,2.5,2.000,1.800
+69595166,2026-03-15 15:45,FC Urartu Yerevan,FC BKMA Yerevan,4,1,1.250,5.000,9.000,3,1.825,1.975
+69595168,2026-03-16 11:30,FC Ararat-Armenia,FC Van Charentsavan,3,0,1.181,6.500,10.000,2.75,1.800,2.000
+69595170,2026-03-16 15:00,FC Shirak Gyumri,FC Noah Yerevan,0,2,6.250,5.250,1.380,3,2.000,1.800
+69595172,2026-03-20 11:30,FC Van Charentsavan,FC Ararat-Armenia,2,2,8.000,4.750,1.270,2.75,1.825,1.975
+69595174,2026-03-20 15:00,FC BKMA Yerevan,FC Urartu Yerevan,0,1,5.000,4.333,1.480,3,1.900,1.900
+69595176,2026-03-21 11:30,FC Alashkert Yerevan,FC Pyunik Yerevan,0,1,3.200,3.000,2.200,2.25,1.775,2.025
+69595178,2026-03-21 15:00,Gandzasar Kapan FC,Ararat Yerevan FC,2,1,1.833,3.400,3.700,2.25,1.825,1.975
+69595180,2026-03-22 12:00,FC Noah Yerevan,FC Shirak Gyumri,3,0,1.166,6.250,13.000,3.25,1.850,1.950
+69994410,2026-04-04 15:00,Ararat Yerevan FC,FC Van Charentsavan,1,2,2.200,3.250,2.800,2.5,1.975,1.825
+69994412,2026-04-05 12:00,FC Noah Yerevan,FC BKMA Yerevan,2,0,1.166,6.500,12.000,3.25,1.950,1.850
+69994486,2026-04-05 15:00,FC Urartu Yerevan,Gandzasar Kapan FC,4,2,1.500,3.600,5.750,2.75,1.900,1.900
+69994488,2026-04-06 13:00,FC Shirak Gyumri,FC Pyunik Yerevan,0,1,6.500,4.500,1.363,2.75,1.975,1.825
+69994490,2026-04-06 15:00,FC Ararat-Armenia,FC Alashkert Yerevan,1,1,1.615,3.500,4.750,2.25,1.950,1.850
+70309258,2026-04-10 11:30,FC Van Charentsavan,FC Urartu Yerevan,1,2,6.000,4.100,1.420,2.75,2.000,1.800
+70309542,2026-04-10 15:00,Gandzasar Kapan FC,FC Noah Yerevan,0,3,6.000,4.750,1.363,2.5,1.900,1.900
+70309936,2026-04-11 13:30,FC Pyunik Yerevan,FC Ararat-Armenia,0,1,2.300,3.400,2.600,2.5,2.000,1.800
+70309940,2026-04-12 11:30,FC BKMA Yerevan,FC Shirak Gyumri,0,0,2.350,3.400,2.600,2.25,1.950,1.850
+70637814,2026-04-14 11:00,FC Alashkert Yerevan,Ararat Yerevan FC,2,0,1.250,5.500,8.000,3.25,1.775,2.025
+70820612,2026-04-16 12:00,FC Shirak Gyumri,FC BKMA Yerevan,1,1,1.800,3.600,3.500,2.5,1.950,1.850
+70629818,2026-04-18 14:00,Ararat Yerevan FC,FC Pyunik Yerevan,1,0,,,,,,
+70629820,2026-04-19 12:00,FC BKMA Yerevan,Gandzasar Kapan FC,1,1,,,,,,
+70629822,2026-04-19 15:00,FC Urartu Yerevan,FC Alashkert Yerevan,1,3,2.150,3.200,3.000,2.25,1.800,2.000
+70629824,2026-04-20 12:00,FC Noah Yerevan,FC Van Charentsavan,2,0,1.142,7.000,13.000,3.25,1.925,1.875
+70629826,2026-04-20 15:00,FC Shirak Gyumri,FC Ararat-Armenia,0,4,6.000,4.750,1.363,2.75,1.950,1.850
+70629828,2026-04-23 11:30,FC Van Charentsavan,FC BKMA Yerevan,1,2,,,,,,
+70629830,2026-04-23 14:00,FC Pyunik Yerevan,FC Urartu Yerevan,2,1,1.727,3.600,3.800,2.5,1.825,1.975
+70629832,2026-04-25 11:30,FC Alashkert Yerevan,FC Noah Yerevan,1,1,4.333,3.500,1.700,2.5,1.800,2.000
+70629834,2026-04-25 14:00,FC Ararat-Armenia,Ararat Yerevan FC,4,0,1.125,8.000,15.000,3.5,1.925,1.875
+70629836,2026-04-26 12:00,Gandzasar Kapan FC,FC Shirak Gyumri,3,2,1.800,3.600,3.400,2.5,1.950,1.850
+71050560,2026-04-26 14:00,FC Urartu Yerevan,FC Van Charentsavan,2,0,1.363,4.750,6.000,2.75,2.000,1.800
+70906462,2026-05-01 12:00,FC Shirak Gyumri,Ararat Yerevan FC,0,2,2.000,3.300,3.100,2.5,1.950,1.850
+70906464,2026-05-02 12:00,FC BKMA Yerevan,FC Alashkert Yerevan,2,2,,,,,,
+70906466,2026-05-02 15:00,Gandzasar Kapan FC,FC Van Charentsavan,0,1,,,,,,
+70906468,2026-05-03 15:00,FC Noah Yerevan,FC Pyunik Yerevan,0,0,1.650,3.600,4.500,2.25,1.800,2.000
+70906470,2026-05-03 15:00,FC Urartu Yerevan,FC Ararat-Armenia,0,2,4.000,3.500,1.750,2.5,1.850,1.950
+71050566,2026-05-06 15:00,FC Ararat-Armenia,FC Pyunik Yerevan,1,1,1.950,3.300,3.400,2.25,1.825,1.975
+71050570,2026-05-06 15:00,Gandzasar Kapan FC,FC Noah Yerevan,1,4,,,,,,
+70906472,2026-05-08 11:00,FC Van Charentsavan,FC Shirak Gyumri,1,0,,,,,,
+70906474,2026-05-09 11:00,FC Alashkert Yerevan,Gandzasar Kapan FC,3,1,1.400,4.100,6.500,,,
+70906476,2026-05-09 15:00,FC Pyunik Yerevan,FC BKMA Yerevan,2,0,,,,,,
+70906478,2026-05-10 12:00,Ararat Yerevan FC,FC Urartu Yerevan,0,1,4.500,4.200,1.533,3,1.825,1.975
+70906480,2026-05-10 14:00,FC Ararat-Armenia,FC Noah Yerevan,0,4,,,,,,
+71360366,2026-05-16 12:00,FC Van Charentsavan,FC Alashkert Yerevan,0,1,,,,,,
+71360368,2026-05-17 15:00,FC BKMA Yerevan,FC Ararat-Armenia,2,3,,,,,,
+71360370,2026-05-18 13:00,FC Shirak Gyumri,FC Urartu Yerevan,0,0,5.000,4.200,1.480,2.75,2.000,1.800
+71360372,2026-05-18 15:00,Gandzasar Kapan FC,FC Pyunik Yerevan,0,2,,,,,,
+71360374,2026-05-19 15:00,FC Noah Yerevan,Ararat Yerevan FC,8,3,1.125,9.500,12.000,3.5,1.800,2.000
+71495872,2026-05-26 15:00,FC Alashkert Yerevan,FC Shirak Gyumri,2,1,1.270,5.000,9.000,2.75,1.900,1.900
+71495874,2026-05-26 15:00,Ararat Yerevan FC,FC BKMA Yerevan,1,1,,,,,,
+71495876,2026-05-27 15:00,FC Pyunik Yerevan,FC Van Charentsavan,2,1,,,,,,
+71495878,2026-05-27 15:00,FC Ararat-Armenia,Gandzasar Kapan FC,1,0,,,,,,
+71495880,2026-05-27 15:00,FC Urartu Yerevan,FC Noah Yerevan,0,5,,,,,,
+72575504,2026-07-31 12:00,FC Van Charentsavan,Sardarapat FC,1,4,1.950,3.300,3.400,2.25,1.825,1.975
+72575496,2026-08-01 14:00,FC BKMA Yerevan,FC Shirak Gyumri,0,0,2.150,3.250,3.000,2.25,1.875,1.925
+72575500,2026-08-01 16:00,Gandzasar Kapan FC,FC Ararat-Armenia,3,4,4.333,3.400,1.700,2.5,1.950,1.850
+72575498,2026-08-02 15:00,FC Noah Yerevan,FC Syunik,3,0,1.222,6.500,7.500,3.25,1.850,1.950
+72575502,2026-08-02 17:00,FC Urartu Yerevan,FC Pyunik Yerevan,2,2,3.000,3.100,2.150,2.25,1.975,1.825
+72575494,2026-08-03 16:00,FC Alashkert Yerevan,Ararat Yerevan FC,3,0,1.400,4.500,5.500,2.75,1.950,1.850
+73036114,2026-08-07 15:00,Ararat Yerevan FC,Sardarapat FC,1,2,2.800,3.250,2.300,2.5,1.925,1.875
+73036116,2026-08-07 15:00,FC Ararat-Armenia,FC Urartu Yerevan,2,1,1.750,3.600,3.700,2.5,1.850,1.950
+73492564,2026-08-08 15:00,Gandzasar Kapan FC,FC Syunik,3,1,2.000,3.400,3.100,2.5,1.800,2.000
+73036118,2026-08-09 13:00,FC Pyunik Yerevan,FC Van Charentsavan,3,0,1.090,9.000,21.000,3.25,1.950,1.850
+73036120,2026-08-09 15:00,FC Shirak Gyumri,FC Noah Yerevan,3,4,9.500,6.000,1.200,2.75,1.950,1.850
+73036122,2026-08-10 16:00,FC Alashkert Yerevan,FC BKMA Yerevan,3,0,1.222,5.250,10.000,3,2.025,1.775
+73338682,2026-08-13 15:00,FC Urartu Yerevan,FC Syunik,3,0,1.444,4.200,5.500,3,1.925,1.875
+73338684,2026-08-14 16:00,Gandzasar Kapan FC,FC Shirak Gyumri,0,1,2.100,3.000,3.400,2.25,1.825,1.975
+73735404,2026-08-15 12:00,FC Ararat-Armenia,FC Van Charentsavan,2,0,1.083,11.000,19.000,3.5,1.850,1.950
+73338688,2026-08-15 15:30,FC BKMA Yerevan,Ararat Yerevan FC,1,2,2.600,3.300,2.350,2.5,1.950,1.850
+73338692,2026-08-17 16:00,FC Noah Yerevan,FC Alashkert Yerevan,1,0,1.666,3.600,4.200,2.75,1.875,1.925
+73742938,2026-08-20 12:15,FC Van Charentsavan,FC Syunik,1,1,2.150,3.400,2.875,2.75,1.975,1.825
+73592950,2026-08-21 15:00,Ararat Yerevan FC,FC Pyunik Yerevan,0,2,7.500,4.333,1.333,2.75,1.950,1.850
+73592948,2026-08-21 17:00,FC Alashkert Yerevan,Gandzasar Kapan FC,3,0,1.450,4.000,6.250,2.5,1.850,1.950
+73592952,2026-08-22 14:00,FC Shirak Gyumri,FC Urartu Yerevan,0,1,3.500,3.500,1.850,2.5,2.025,1.775
+73592956,2026-08-23 14:00,FC BKMA Yerevan,FC Noah Yerevan,0,1,10.000,5.750,1.200,3,1.825,1.975
+73592954,2026-08-23 17:00,FC Ararat-Armenia,Sardarapat FC,1,1,1.420,4.750,5.000,3,1.975,1.825
+73812370,2026-08-28 16:00,FC Urartu Yerevan,FC Alashkert Yerevan,1,1,2.875,3.600,2.050,2.75,1.850,1.950
+73812372,2026-08-29 12:00,FC Van Charentsavan,FC Shirak Gyumri,0,4,2.750,3.300,2.250,2.5,1.900,1.900
+73812374,2026-08-30 13:00,Gandzasar Kapan FC,FC BKMA Yerevan,0,3,1.800,3.500,3.600,2.5,1.850,1.950
+73812376,2026-08-30 16:00,FC Noah Yerevan,Ararat Yerevan FC,4,0,1.100,8.500,17.000,3.5,1.925,1.875
+73812378,2026-08-31 12:00,Sardarapat FC,FC Syunik,3,1,1.750,3.500,3.700,2.75,1.900,1.900
+73812380,2026-08-31 16:00,FC Pyunik Yerevan,FC Ararat-Armenia,2,1,2.150,3.300,2.800,2.25,1.850,1.950
+73945156,2026-09-03 16:00,FC Alashkert Yerevan,FC Van Charentsavan,4,0,1.142,8.500,11.000,3.75,1.900,1.900
+73945158,2026-09-04 12:00,FC Syunik,FC Pyunik Yerevan,0,0,11.000,5.500,1.200,3.25,2.000,1.800
+73945160,2026-09-04 16:00,FC Noah Yerevan,Gandzasar Kapan FC,3,2,1.111,8.500,17.000,3.5,1.825,1.975
+73945162,2026-09-05 15:00,Ararat Yerevan FC,FC Ararat-Armenia,0,1,7.500,4.200,1.333,2.75,1.800,2.000
+73945164,2026-09-06 13:00,FC BKMA Yerevan,FC Urartu Yerevan,2,1,4.333,3.600,1.650,2.75,1.950,1.850
+73945166,2026-09-06 15:00,FC Shirak Gyumri,Sardarapat FC,2,0,2.200,3.200,2.875,2.5,1.950,1.850
+74352276,2026-09-09 12:00,Sardarapat FC,FC Pyunik Yerevan,2,4,6.250,3.800,1.444,2.5,1.825,1.975
+73945168,2026-09-11 12:00,FC Van Charentsavan,FC BKMA Yerevan,2,1,3.100,3.400,2.000,2.5,1.950,1.850
+73945170,2026-09-11 15:00,FC Ararat-Armenia,FC Syunik,3,0,1.181,7.000,9.000,3.5,1.800,2.000
+73945172,2026-09-12 14:00,Gandzasar Kapan FC,Ararat Yerevan FC,0,2,2.200,3.000,3.100,2.5,1.850,1.950
+73945174,2026-09-12 16:00,FC Urartu Yerevan,FC Noah Yerevan,0,3,4.500,4.000,1.550,2.75,1.925,1.875
+73945176,2026-09-13 12:00,Sardarapat FC,FC Alashkert Yerevan,1,1,6.000,4.200,1.400,2.75,1.875,1.925
+73945178,2026-09-13 15:00,FC Pyunik Yerevan,FC Shirak Gyumri,2,0,1.333,4.500,6.500,2.75,1.900,1.900
+73945180,2026-09-18 14:00,Gandzasar Kapan FC,FC Urartu Yerevan,0,3,3.500,3.700,1.800,2.75,1.825,1.975
+73945182,2026-09-18 16:00,FC Noah Yerevan,FC Van Charentsavan,2,0,1.062,12.000,23.000,4,1.950,1.850
+73945184,2026-09-19 12:00,FC Alashkert Yerevan,FC Pyunik Yerevan,3,3,2.450,3.100,2.600,2.25,1.950,1.850
+73945186,2026-09-19 15:00,FC BKMA Yerevan,Sardarapat FC,1,1,2.875,3.300,2.200,2.75,1.950,1.850
+73945190,2026-09-20 12:00,Ararat Yerevan FC,FC Syunik,1,0,1.833,3.500,3.500,2.75,1.975,1.825
+73945188,2026-09-20 14:00,FC Shirak Gyumri,FC Ararat-Armenia,1,3,6.000,4.100,1.420,2.75,1.925,1.875
+75028960,2026-10-10 12:00,FC Van Charentsavan,Gandzasar Kapan FC,2,0,2.875,3.400,2.100,2.5,1.825,1.975
+75028962,2026-10-10 15:00,FC Ararat-Armenia,FC Alashkert Yerevan,1,1,2.450,3.300,2.450,2.75,2.000,1.800
+75028964,2026-10-11 12:00,Sardarapat FC,FC Noah Yerevan,1,5,7.500,5.250,1.250,3.25,1.975,1.825
+75028966,2026-10-11 16:00,FC Urartu Yerevan,Ararat Yerevan FC,2,2,1.571,3.750,4.750,2.75,1.950,1.850
+75028968,2026-10-12 12:00,FC Syunik,FC Shirak Gyumri,2,0,3.300,3.500,1.900,2.5,1.850,1.950
+75028970,2026-10-12 15:00,FC Pyunik Yerevan,FC BKMA Yerevan,5,0,1.222,5.250,10.000,3.25,2.000,1.800
+75028972,2026-10-16 13:00,FC Alashkert Yerevan,FC Syunik,5,1,1.270,5.250,7.000,3.25,1.950,1.850
+75028974,2026-10-16 15:00,Gandzasar Kapan FC,Sardarapat FC,1,2,2.750,3.500,2.100,2.75,1.900,1.900
+75028976,2026-10-17 14:00,FC Urartu Yerevan,FC Van Charentsavan,5,2,1.444,4.333,5.250,2.75,1.875,1.925
+75028978,2026-10-17 16:00,Ararat Yerevan FC,FC Shirak Gyumri,1,1,2.250,3.100,2.900,2.25,2.025,1.775
+75028980,2026-10-18 13:00,FC BKMA Yerevan,FC Ararat-Armenia,0,1,7.500,5.500,1.250,3.25,1.950,1.850
+75028982,2026-10-18 16:00,FC Noah Yerevan,FC Pyunik Yerevan,1,1,1.800,3.400,3.900,2.5,1.950,1.850
+75028988,2026-10-22 15:00,Sardarapat FC,FC Urartu Yerevan,0,0,3.800,3.800,1.700,3,2.000,1.800
+75028984,2026-10-23 11:30,FC Van Charentsavan,Ararat Yerevan FC,2,1,2.875,3.300,2.150,2.5,1.925,1.875
+75028986,2026-10-23 15:00,FC Pyunik Yerevan,Gandzasar Kapan FC,3,0,1.125,7.500,15.000,3.5,1.900,1.900
+75028990,2026-10-24 15:00,FC Shirak Gyumri,FC Alashkert Yerevan,0,1,5.000,3.900,1.533,2.5,1.825,1.975
+75028992,2026-10-25 11:30,FC Syunik,FC BKMA Yerevan,4,1,2.000,3.500,3.000,2.5,1.800,2.000
+75028994,2026-10-26 15:00,FC Ararat-Armenia,FC Noah Yerevan,2,1,3.100,3.500,2.000,2.75,1.975,1.825
+75028996,2026-10-30 11:30,Sardarapat FC,FC Van Charentsavan,2,2,2.250,3.400,2.700,2.5,1.825,1.975
+75028998,2026-10-30 15:00,FC Pyunik Yerevan,FC Urartu Yerevan,1,0,1.571,4.333,4.000,3,1.925,1.875
+75029000,2026-10-31 13:00,FC Shirak Gyumri,FC BKMA Yerevan,2,1,1.700,3.500,4.100,2.5,1.900,1.900
+75029002,2026-10-31 16:00,Ararat Yerevan FC,FC Alashkert Yerevan,0,2,5.500,4.100,1.450,2.75,1.850,1.950
+75029004,2026-11-01 11:30,FC Syunik,FC Noah Yerevan,1,3,11.000,7.000,1.166,3.5,1.975,1.825
+75029006,2026-11-01 15:00,FC Ararat-Armenia,Gandzasar Kapan FC,3,0,1.125,7.500,13.000,3.5,2.000,1.800
+75881448,2026-11-06 11:00,FC Van Charentsavan,FC Pyunik Yerevan,0,3,6.250,5.250,1.333,3,1.950,1.850
+75881450,2026-11-06 15:00,FC BKMA Yerevan,FC Alashkert Yerevan,4,1,9.500,5.750,1.200,2.75,1.850,1.950
+75881452,2026-11-07 11:00,Sardarapat FC,Ararat Yerevan FC,1,0,2.200,3.400,2.800,2.5,1.900,1.900
+75881454,2026-11-07 15:00,FC Noah Yerevan,FC Shirak Gyumri,1,0,1.181,6.500,10.000,3.5,2.000,1.800
+75881456,2026-11-08 11:00,FC Syunik,Gandzasar Kapan FC,2,1,1.727,3.800,3.700,2.75,1.825,1.975

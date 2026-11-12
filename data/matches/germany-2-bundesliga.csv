@@ -1,410 +1,410 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-60433923,2025-05-23 18:30,1. FC Saarbrucken,Eintracht Braunschweig,0,2,,,
-60433945,2025-05-27 18:30,Eintracht Braunschweig,1. FC Saarbrucken,2,2,,,
-61510996,2025-08-01 18:30,Schalke 04,Hertha BSC,2,1,,,
-61512416,2025-08-02 11:00,SV 07 Elversberg,1 FC Nuremberg,1,0,,,
-61512418,2025-08-02 11:00,SC Paderborn 07,Holstein Kiel,2,1,,,
-61512424,2025-08-02 11:00,Karlsruher SC,SC Preussen 06 Munster,3,2,,,
-61512428,2025-08-02 11:00,SV Darmstadt 98,VfL Bochum,4,1,,,
-61512432,2025-08-02 18:30,Arminia Bielefeld,Fortuna Dusseldorf,5,1,,,
-61512422,2025-08-03 11:30,1. FC Magdeburg,Eintracht Braunschweig,0,1,,,
-61512426,2025-08-03 11:30,Hannover 96,1 FC Kaiserslautern,1,0,,,
-61512430,2025-08-03 11:30,Greuther Furth,Dynamo Dresden,3,2,,,
-61514672,2025-08-08 16:30,1 FC Nuremberg,SV Darmstadt 98,0,1,,,
-61514676,2025-08-08 16:30,SC Preussen 06 Munster,SC Paderborn 07,1,1,,,
-61514668,2025-08-09 11:00,Fortuna Dusseldorf,Hannover 96,0,2,,,
-61514678,2025-08-09 11:00,Eintracht Braunschweig,Greuther Furth,3,2,,,
-61514680,2025-08-09 11:00,Dynamo Dresden,1. FC Magdeburg,1,2,,,
-61514670,2025-08-09 18:30,1 FC Kaiserslautern,Schalke 04,1,0,,,
-61514664,2025-08-10 11:30,Holstein Kiel,Arminia Bielefeld,0,2,,,
-61514666,2025-08-10 11:30,VfL Bochum,SV 07 Elversberg,2,0,,,
-61514674,2025-08-10 11:30,Hertha BSC,Karlsruher SC,0,0,,,
-61514682,2025-08-22 16:30,SV 07 Elversberg,1 FC Kaiserslautern,2,1,,,
-61514696,2025-08-22 16:30,SC Preussen 06 Munster,1 FC Nuremberg,2,1,,,
-61514684,2025-08-23 11:00,SC Paderborn 07,Fortuna Dusseldorf,1,2,,,
-61514686,2025-08-23 11:00,Karlsruher SC,Eintracht Braunschweig,2,0,,,
-61514688,2025-08-23 11:00,Hannover 96,1. FC Magdeburg,3,1,,,
-61514694,2025-08-23 18:30,Schalke 04,VfL Bochum,2,1,,,
-61514690,2025-08-24 11:30,SV Darmstadt 98,Hertha BSC,0,0,,,
-61514692,2025-08-24 11:30,Greuther Furth,Holstein Kiel,0,2,,,
-61514698,2025-08-24 11:30,Arminia Bielefeld,Dynamo Dresden,1,2,,,
-61514710,2025-08-29 16:30,1 FC Nuremberg,SC Paderborn 07,0,0,,,
-61514712,2025-08-29 16:30,Hertha BSC,SV 07 Elversberg,0,2,,,
-61514700,2025-08-30 11:00,Holstein Kiel,Hannover 96,1,2,,,
-61514702,2025-08-30 11:00,VfL Bochum,SC Preussen 06 Munster,1,2,,,
-61514714,2025-08-30 11:00,Eintracht Braunschweig,Arminia Bielefeld,1,1,,,
-61514706,2025-08-30 18:30,Fortuna Dusseldorf,Karlsruher SC,0,0,,,
-61514704,2025-08-31 11:30,1. FC Magdeburg,Greuther Furth,4,5,,,
-61514708,2025-08-31 11:30,1 FC Kaiserslautern,SV Darmstadt 98,3,1,,,
-61514716,2025-08-31 11:30,Dynamo Dresden,Schalke 04,0,1,,,
-61514720,2025-09-12 16:30,SC Paderborn 07,VfL Bochum,1,0,,,
-61514736,2025-09-12 16:30,Arminia Bielefeld,1. FC Magdeburg,2,0,,,
-61514722,2025-09-13 11:00,Karlsruher SC,1 FC Nuremberg,2,1,,,
-61514728,2025-09-13 11:00,SV Darmstadt 98,Eintracht Braunschweig,2,1,,,
-61514732,2025-09-13 11:00,Schalke 04,Holstein Kiel,0,1,,,
-61514726,2025-09-13 18:30,Hannover 96,Hertha BSC,0,3,,,
-61514718,2025-09-14 11:30,SV 07 Elversberg,Dynamo Dresden,2,2,,,
-61514730,2025-09-14 11:30,Greuther Furth,1 FC Kaiserslautern,0,3,,,
-61514734,2025-09-14 11:30,SC Preussen 06 Munster,Fortuna Dusseldorf,1,2,,,
-61514744,2025-09-19 16:30,1 FC Kaiserslautern,SC Preussen 06 Munster,4,1,,,
-61514752,2025-09-19 16:30,Arminia Bielefeld,Greuther Furth,1,3,,,
-61514740,2025-09-20 11:00,1. FC Magdeburg,Schalke 04,0,2,,,
-61514748,2025-09-20 11:00,Hertha BSC,SC Paderborn 07,0,2,,,
-61514750,2025-09-20 11:00,Eintracht Braunschweig,SV 07 Elversberg,1,4,,,
-61514746,2025-09-20 18:30,1 FC Nuremberg,VfL Bochum,2,1,,,
-61514738,2025-09-21 11:30,Holstein Kiel,Karlsruher SC,3,0,,,
-61514742,2025-09-21 11:30,Fortuna Dusseldorf,SV Darmstadt 98,0,3,,,
-61514754,2025-09-21 11:30,Dynamo Dresden,Hannover 96,2,2,,,
-61514768,2025-09-26 16:30,SV Darmstadt 98,Dynamo Dresden,2,0,,,
-61514770,2025-09-26 16:30,Schalke 04,Greuther Furth,1,0,,,
-61514758,2025-09-27 11:00,SV 07 Elversberg,Holstein Kiel,1,0,,,
-61514760,2025-09-27 11:00,SC Paderborn 07,1 FC Kaiserslautern,2,0,,,
-61514762,2025-09-27 11:00,Karlsruher SC,1. FC Magdeburg,1,0,,,
-61514756,2025-09-27 18:30,VfL Bochum,Fortuna Dusseldorf,0,1,,,
-61514764,2025-09-28 11:30,Hannover 96,Arminia Bielefeld,3,1,,,
-61514766,2025-09-28 11:30,1 FC Nuremberg,Hertha BSC,0,3,,,
-61514772,2025-09-28 11:30,SC Preussen 06 Munster,Eintracht Braunschweig,3,1,,,
-61514778,2025-10-03 16:30,Fortuna Dusseldorf,1 FC Nuremberg,2,3,,,
-61514786,2025-10-03 16:30,Eintracht Braunschweig,SC Paderborn 07,1,2,,,
-61514774,2025-10-04 11:00,Holstein Kiel,SV Darmstadt 98,1,1,,,
-61514780,2025-10-04 11:00,1 FC Kaiserslautern,VfL Bochum,3,2,,,
-61514782,2025-10-04 11:00,Hertha BSC,SC Preussen 06 Munster,2,1,,,
-61514790,2025-10-04 18:30,Dynamo Dresden,Karlsruher SC,3,3,,,
-61514776,2025-10-05 11:30,1. FC Magdeburg,SV 07 Elversberg,0,4,,,
-61514784,2025-10-05 11:30,Greuther Furth,Hannover 96,2,2,,,
-61514788,2025-10-05 11:30,Arminia Bielefeld,Schalke 04,1,2,,,
-61514798,2025-10-17 16:30,Fortuna Dusseldorf,Eintracht Braunschweig,1,2,,,
-61514802,2025-10-17 16:30,Hannover 96,Schalke 04,0,3,,,
-61514796,2025-10-18 11:00,SC Paderborn 07,Arminia Bielefeld,4,3,,,
-61514800,2025-10-18 11:00,Karlsruher SC,1 FC Kaiserslautern,2,3,,,
-61514808,2025-10-18 11:00,SC Preussen 06 Munster,Dynamo Dresden,2,2,,,
-61514792,2025-10-18 18:30,VfL Bochum,Hertha BSC,3,2,,,
-61514794,2025-10-19 11:30,SV 07 Elversberg,Greuther Furth,6,0,,,
-61514804,2025-10-19 11:30,1 FC Nuremberg,Holstein Kiel,1,1,,,
-61514806,2025-10-19 11:30,SV Darmstadt 98,1. FC Magdeburg,0,0,,,
-61514818,2025-10-24 16:30,Greuther Furth,Karlsruher SC,1,4,,,
-61514820,2025-10-24 16:30,Schalke 04,SV Darmstadt 98,1,0,,,
-61514810,2025-10-25 11:00,Holstein Kiel,VfL Bochum,1,1,,,
-61514824,2025-10-25 11:00,Arminia Bielefeld,SV 07 Elversberg,2,0,,,
-61514826,2025-10-25 11:00,Dynamo Dresden,SC Paderborn 07,1,2,,,
-61514816,2025-10-25 18:30,Hertha BSC,Fortuna Dusseldorf,1,0,,,
-61514812,2025-10-26 12:30,1. FC Magdeburg,SC Preussen 06 Munster,2,0,,,
-61514814,2025-10-26 12:30,1 FC Kaiserslautern,1 FC Nuremberg,1,1,,,
-61514822,2025-10-26 12:30,Eintracht Braunschweig,Hannover 96,0,3,,,
-61514830,2025-10-31 17:30,SV 07 Elversberg,Hannover 96,2,2,,,
-61514844,2025-10-31 17:30,SC Preussen 06 Munster,Holstein Kiel,2,1,,,
-61514836,2025-11-01 12:00,Karlsruher SC,Schalke 04,2,1,,,
-61514838,2025-11-01 12:00,1 FC Nuremberg,Eintracht Braunschweig,2,1,,,
-61514840,2025-11-01 12:00,Hertha BSC,Dynamo Dresden,2,0,,,
-61514842,2025-11-01 19:30,SV Darmstadt 98,Arminia Bielefeld,2,2,,,
-61514828,2025-11-02 12:30,VfL Bochum,1. FC Magdeburg,2,0,,,
-61514832,2025-11-02 12:30,SC Paderborn 07,Greuther Furth,2,1,,,
-61514834,2025-11-02 12:30,Fortuna Dusseldorf,1 FC Kaiserslautern,1,1,,,
-61514854,2025-11-07 17:30,Greuther Furth,SC Preussen 06 Munster,1,0,,,
-61514862,2025-11-07 17:30,Dynamo Dresden,1 FC Nuremberg,1,2,,,
-61514852,2025-11-08 12:00,Hannover 96,SV Darmstadt 98,2,3,,,
-61514856,2025-11-08 12:00,Schalke 04,SV 07 Elversberg,1,0,,,
-61514860,2025-11-08 12:00,Arminia Bielefeld,Karlsruher SC,4,0,,,
-61514850,2025-11-08 19:30,1 FC Kaiserslautern,Hertha BSC,0,1,,,
-61514846,2025-11-09 12:30,Holstein Kiel,Fortuna Dusseldorf,1,0,,,
-61514848,2025-11-09 12:30,1. FC Magdeburg,SC Paderborn 07,0,1,,,
-61514858,2025-11-09 12:30,Eintracht Braunschweig,VfL Bochum,0,2,,,
-61514864,2025-11-21 17:30,VfL Bochum,Dynamo Dresden,1,2,,,
-61514876,2025-11-21 17:30,Hertha BSC,Eintracht Braunschweig,1,0,,,
-61514866,2025-11-22 12:00,SC Paderborn 07,Hannover 96,0,2,,,
-61514868,2025-11-22 12:00,Fortuna Dusseldorf,1. FC Magdeburg,2,1,,,
-61514880,2025-11-22 12:00,SC Preussen 06 Munster,Schalke 04,0,0,,,
-61514878,2025-11-22 19:30,SV Darmstadt 98,Greuther Furth,4,2,,,
-61514870,2025-11-23 12:30,1 FC Kaiserslautern,Holstein Kiel,4,1,,,
-61514872,2025-11-23 12:30,Karlsruher SC,SV 07 Elversberg,2,3,,,
-61514874,2025-11-23 12:30,1 FC Nuremberg,Arminia Bielefeld,2,0,,,
-61514888,2025-11-28 17:30,Hannover 96,Karlsruher SC,3,0,,,
-61514892,2025-11-28 17:30,Schalke 04,SC Paderborn 07,2,1,,,
-61514882,2025-11-29 12:00,Holstein Kiel,Hertha BSC,0,1,,,
-61514890,2025-11-29 12:00,Greuther Furth,VfL Bochum,0,3,,,
-61514894,2025-11-29 12:00,Eintracht Braunschweig,1 FC Kaiserslautern,2,0,,,
-61514886,2025-11-29 19:30,1. FC Magdeburg,1 FC Nuremberg,3,0,,,
-61514884,2025-11-30 12:30,SV 07 Elversberg,SV Darmstadt 98,0,0,,,
-61514896,2025-11-30 12:30,Arminia Bielefeld,SC Preussen 06 Munster,1,2,,,
-61514898,2025-11-30 12:30,Dynamo Dresden,Fortuna Dusseldorf,2,1,,,
-61514904,2025-12-05 17:30,Fortuna Dusseldorf,Schalke 04,0,2,,,
-61514914,2025-12-05 17:30,SC Preussen 06 Munster,Hannover 96,2,2,,,
-61514900,2025-12-06 12:00,VfL Bochum,Arminia Bielefeld,1,0,,,
-61514902,2025-12-06 12:00,SC Paderborn 07,SV 07 Elversberg,1,2,,,
-61514906,2025-12-06 12:00,1 FC Kaiserslautern,Dynamo Dresden,3,1,,,
-61514912,2025-12-06 19:30,SV Darmstadt 98,Karlsruher SC,3,2,,,
-61514908,2025-12-07 12:30,1 FC Nuremberg,Greuther Furth,2,2,,,
-61514910,2025-12-07 12:30,Hertha BSC,1. FC Magdeburg,0,2,,,
-61514916,2025-12-07 12:30,Eintracht Braunschweig,Holstein Kiel,1,1,,,
-61514928,2025-12-12 17:30,Greuther Furth,Hertha BSC,3,3,4.000,3.800,1.800
-61514934,2025-12-12 17:30,Dynamo Dresden,Eintracht Braunschweig,2,3,2.200,3.300,3.300
-61514920,2025-12-13 12:00,1. FC Magdeburg,Holstein Kiel,3,3,2.050,3.500,3.400
-61514922,2025-12-13 12:00,Karlsruher SC,SC Paderborn 07,0,4,3.400,3.600,2.000
-61514932,2025-12-13 12:00,Arminia Bielefeld,1 FC Kaiserslautern,0,0,2.050,3.600,3.400
-61514924,2025-12-13 19:30,Hannover 96,VfL Bochum,0,0,1.850,3.400,4.333
-61514918,2025-12-14 12:30,SV 07 Elversberg,Fortuna Dusseldorf,1,0,1.550,4.333,5.250
-61514926,2025-12-14 12:30,SV Darmstadt 98,SC Preussen 06 Munster,1,0,1.850,3.400,4.100
-61514930,2025-12-14 12:30,Schalke 04,1 FC Nuremberg,1,0,1.850,3.750,3.800
-61514940,2025-12-19 17:30,SC Paderborn 07,SV Darmstadt 98,2,2,1.950,3.700,3.500
-61514948,2025-12-19 17:30,Hertha BSC,Arminia Bielefeld,1,1,2.000,3.300,3.900
-61514938,2025-12-20 12:00,VfL Bochum,Karlsruher SC,2,2,1.571,4.200,5.250
-61514942,2025-12-20 12:00,Fortuna Dusseldorf,Greuther Furth,2,1,1.727,4.000,4.200
-61514944,2025-12-20 12:00,1 FC Kaiserslautern,1. FC Magdeburg,2,3,2.400,3.700,2.700
-61514936,2025-12-20 19:30,Holstein Kiel,Dynamo Dresden,2,1,2.150,3.400,3.300
-61514946,2025-12-21 12:30,1 FC Nuremberg,Hannover 96,2,1,3.400,3.600,2.000
-61514950,2025-12-21 12:30,SC Preussen 06 Munster,SV 07 Elversberg,1,1,3.000,3.400,2.300
-61514952,2025-12-21 12:30,Eintracht Braunschweig,Schalke 04,2,1,3.000,3.300,2.350
-61514958,2026-01-16 17:30,Fortuna Dusseldorf,Arminia Bielefeld,1,0,2.500,3.500,2.625
-61514968,2026-01-16 17:30,Eintracht Braunschweig,1. FC Magdeburg,0,3,2.900,3.600,2.200
-61514962,2026-01-17 12:00,1 FC Nuremberg,SV 07 Elversberg,3,2,2.550,3.400,2.625
-61514966,2026-01-17 12:00,SC Preussen 06 Munster,Karlsruher SC,0,2,1.833,3.600,4.200
-61514970,2026-01-17 12:00,Dynamo Dresden,Greuther Furth,2,0,1.909,3.750,3.700
-61514964,2026-01-17 19:30,Hertha BSC,Schalke 04,0,0,2.500,3.200,2.875
-61514954,2026-01-18 12:30,Holstein Kiel,SC Paderborn 07,2,0,3.000,3.400,2.250
-61514956,2026-01-18 12:30,VfL Bochum,SV Darmstadt 98,3,3,2.500,3.250,2.800
-61514960,2026-01-18 12:30,1 FC Kaiserslautern,Hannover 96,3,1,2.900,3.500,2.300
-61514982,2026-01-23 17:30,SV Darmstadt 98,1 FC Nuremberg,2,0,,,
-61514988,2026-01-23 17:30,Arminia Bielefeld,Holstein Kiel,2,2,2.250,3.250,3.200
-61514978,2026-01-24 12:00,Karlsruher SC,Hertha BSC,2,2,,,
-61514980,2026-01-24 12:00,Hannover 96,Fortuna Dusseldorf,2,1,1.727,3.800,4.500
-61514984,2026-01-24 12:00,Greuther Furth,Eintracht Braunschweig,0,0,2.900,3.400,2.400
-61514976,2026-01-24 19:30,1. FC Magdeburg,Dynamo Dresden,1,2,,,
-61514972,2026-01-25 12:30,SV 07 Elversberg,VfL Bochum,1,1,,,
-61514974,2026-01-25 12:30,SC Paderborn 07,SC Preussen 06 Munster,2,1,,,
-61514986,2026-01-25 12:30,Schalke 04,1 FC Kaiserslautern,2,2,,,
-61514994,2026-01-30 17:30,1. FC Magdeburg,Hannover 96,1,2,,,
-61515000,2026-01-30 17:30,1 FC Nuremberg,SC Preussen 06 Munster,1,1,,,
-61514990,2026-01-31 12:00,Holstein Kiel,Greuther Furth,1,2,1.700,3.700,4.750
-61514992,2026-01-31 12:00,VfL Bochum,Schalke 04,2,0,,,
-61515004,2026-01-31 12:00,Eintracht Braunschweig,Karlsruher SC,1,0,2.000,3.600,3.400
-61514998,2026-01-31 19:30,1 FC Kaiserslautern,SV 07 Elversberg,1,3,,,
-61514996,2026-02-01 12:30,Fortuna Dusseldorf,SC Paderborn 07,2,1,,,
-61515002,2026-02-01 12:30,Hertha BSC,SV Darmstadt 98,2,2,,,
-61515006,2026-02-01 12:30,Dynamo Dresden,Arminia Bielefeld,1,1,2.600,3.300,2.600
-61515018,2026-02-06 17:30,Greuther Furth,1. FC Magdeburg,4,5,,,
-61515022,2026-02-06 17:30,SC Preussen 06 Munster,VfL Bochum,1,1,,,
-61515008,2026-02-07 12:00,SV 07 Elversberg,Hertha BSC,0,3,,,
-61515010,2026-02-07 12:00,SC Paderborn 07,1 FC Nuremberg,2,1,,,
-61515020,2026-02-07 12:00,Schalke 04,Dynamo Dresden,2,2,,,
-61515016,2026-02-07 19:30,SV Darmstadt 98,1 FC Kaiserslautern,4,0,,,
-61515012,2026-02-08 12:30,Karlsruher SC,Fortuna Dusseldorf,1,1,3.500,3.700,1.950
-61515014,2026-02-08 12:30,Hannover 96,Holstein Kiel,3,1,1.571,3.750,6.000
-61515024,2026-02-08 12:30,Arminia Bielefeld,Eintracht Braunschweig,3,2,1.800,3.500,4.333
-61515032,2026-02-13 17:30,Fortuna Dusseldorf,SC Preussen 06 Munster,0,0,,,
-61515036,2026-02-13 17:30,1 FC Nuremberg,Karlsruher SC,5,1,,,
-61515034,2026-02-14 12:00,1 FC Kaiserslautern,Greuther Furth,1,0,,,
-61515038,2026-02-14 12:00,Hertha BSC,Hannover 96,2,3,,,
-61515040,2026-02-14 12:00,Eintracht Braunschweig,SV Darmstadt 98,2,2,,,
-61515042,2026-02-14 19:30,Dynamo Dresden,SV 07 Elversberg,1,2,,,
-61515026,2026-02-15 12:30,Holstein Kiel,Schalke 04,1,2,,,
-61515028,2026-02-15 12:30,VfL Bochum,SC Paderborn 07,0,0,,,
-61515030,2026-02-15 12:30,1. FC Magdeburg,Arminia Bielefeld,0,2,,,
-61515044,2026-02-20 17:30,VfL Bochum,1 FC Nuremberg,1,1,,,
-61515056,2026-02-20 17:30,Greuther Furth,Arminia Bielefeld,2,1,,,
-61515046,2026-02-21 12:00,SV 07 Elversberg,Eintracht Braunschweig,3,1,,,
-61515050,2026-02-21 12:00,Karlsruher SC,Holstein Kiel,3,1,,,
-61515054,2026-02-21 12:00,SV Darmstadt 98,Fortuna Dusseldorf,2,1,,,
-61515058,2026-02-21 19:30,Schalke 04,1. FC Magdeburg,5,3,,,
-61515048,2026-02-22 12:30,SC Paderborn 07,Hertha BSC,5,2,,,
-61515052,2026-02-22 12:30,Hannover 96,Dynamo Dresden,0,0,,,
-61515060,2026-02-22 12:30,SC Preussen 06 Munster,1 FC Kaiserslautern,2,3,,,
-61515066,2026-02-27 17:30,Fortuna Dusseldorf,VfL Bochum,2,1,,,
-61515078,2026-02-27 17:30,Dynamo Dresden,SV Darmstadt 98,3,1,,,
-61515062,2026-02-28 12:00,Holstein Kiel,SV 07 Elversberg,1,1,,,
-61515068,2026-02-28 12:00,1 FC Kaiserslautern,SC Paderborn 07,1,2,,,
-61515076,2026-02-28 12:00,Arminia Bielefeld,Hannover 96,0,1,,,
-61515072,2026-02-28 19:30,Greuther Furth,Schalke 04,1,1,,,
-61515064,2026-03-01 12:30,1. FC Magdeburg,Karlsruher SC,1,3,,,
-61515070,2026-03-01 12:30,Hertha BSC,1 FC Nuremberg,2,1,,,
-61515074,2026-03-01 12:30,Eintracht Braunschweig,SC Preussen 06 Munster,1,2,,,
-61515082,2026-03-06 17:30,SV 07 Elversberg,1. FC Magdeburg,1,0,,,
-61515094,2026-03-06 17:30,Schalke 04,Arminia Bielefeld,1,0,,,
-61515084,2026-03-07 12:00,SC Paderborn 07,Eintracht Braunschweig,1,1,,,
-61515090,2026-03-07 12:00,1 FC Nuremberg,Fortuna Dusseldorf,0,1,,,
-61515092,2026-03-07 12:00,SV Darmstadt 98,Holstein Kiel,2,0,,,
-61515080,2026-03-07 19:30,VfL Bochum,1 FC Kaiserslautern,3,2,,,
-61515086,2026-03-08 12:30,Karlsruher SC,Dynamo Dresden,3,3,,,
-61515088,2026-03-08 12:30,Hannover 96,Greuther Furth,1,2,,,
-61515096,2026-03-08 12:30,SC Preussen 06 Munster,Hertha BSC,1,2,,,
-61515100,2026-03-13 17:30,1. FC Magdeburg,SV Darmstadt 98,1,1,,,
-61515106,2026-03-13 17:30,Greuther Furth,SV 07 Elversberg,2,0,,,
-61515098,2026-03-14 12:00,Holstein Kiel,1 FC Nuremberg,2,3,,,
-61515110,2026-03-14 12:00,Eintracht Braunschweig,Fortuna Dusseldorf,1,0,,,
-61515112,2026-03-14 12:00,Arminia Bielefeld,SC Paderborn 07,2,2,,,
-61515104,2026-03-14 19:30,Hertha BSC,VfL Bochum,1,1,,,
-61515102,2026-03-15 12:30,1 FC Kaiserslautern,Karlsruher SC,3,0,,,
-61515108,2026-03-15 12:30,Schalke 04,Hannover 96,2,2,,,
-61515114,2026-03-15 12:30,Dynamo Dresden,SC Preussen 06 Munster,6,0,,,
-61515124,2026-03-20 17:30,Karlsruher SC,Greuther Furth,3,1,,,
-61515126,2026-03-20 17:30,Hannover 96,Eintracht Braunschweig,1,0,,,
-61515118,2026-03-21 12:00,SV 07 Elversberg,Arminia Bielefeld,3,1,,,
-61515120,2026-03-21 12:00,SC Paderborn 07,Dynamo Dresden,2,1,,,
-61515128,2026-03-21 12:00,1 FC Nuremberg,1 FC Kaiserslautern,3,0,,,
-61515130,2026-03-21 19:30,SV Darmstadt 98,Schalke 04,1,1,,,
-61515116,2026-03-22 12:30,VfL Bochum,Holstein Kiel,2,3,,,
-61515122,2026-03-22 12:30,Fortuna Dusseldorf,Hertha BSC,2,5,,,
-61515132,2026-03-22 12:30,SC Preussen 06 Munster,1. FC Magdeburg,1,3,,,
-61515136,2026-04-04 11:00,1. FC Magdeburg,VfL Bochum,4,1,,,
-61515138,2026-04-04 11:00,1 FC Kaiserslautern,Fortuna Dusseldorf,3,0,,,
-61515148,2026-04-04 11:00,Arminia Bielefeld,SV Darmstadt 98,2,1,,,
-61515150,2026-04-04 18:30,Dynamo Dresden,Hertha BSC,0,1,,,
-61515134,2026-04-05 11:30,Holstein Kiel,SC Preussen 06 Munster,0,0,,,
-61515140,2026-04-05 11:30,Hannover 96,SV 07 Elversberg,1,1,,,
-61515142,2026-04-05 11:30,Greuther Furth,SC Paderborn 07,0,2,,,
-61515144,2026-04-05 11:30,Schalke 04,Karlsruher SC,1,0,,,
-61515146,2026-04-05 11:30,Eintracht Braunschweig,1 FC Nuremberg,1,1,,,
-61515158,2026-04-10 16:30,Fortuna Dusseldorf,Holstein Kiel,1,2,,,
-61515160,2026-04-10 16:30,Karlsruher SC,Arminia Bielefeld,4,1,,,
-61515162,2026-04-11 11:00,1 FC Nuremberg,Dynamo Dresden,0,2,,,
-61515164,2026-04-11 11:00,Hertha BSC,1 FC Kaiserslautern,0,1,,,
-61515168,2026-04-11 11:00,SC Preussen 06 Munster,Greuther Furth,0,0,,,
-61515166,2026-04-11 18:30,SV Darmstadt 98,Hannover 96,0,2,,,
-61515152,2026-04-12 11:30,VfL Bochum,Eintracht Braunschweig,4,1,,,
-61515154,2026-04-12 11:30,SV 07 Elversberg,Schalke 04,1,2,,,
-61515156,2026-04-12 11:30,SC Paderborn 07,1. FC Magdeburg,4,3,,,
-61515170,2026-04-17 16:30,Holstein Kiel,1 FC Kaiserslautern,3,0,,,
-61515172,2026-04-17 16:30,SV 07 Elversberg,Karlsruher SC,3,0,,,
-61515174,2026-04-18 11:00,1. FC Magdeburg,Fortuna Dusseldorf,2,0,,,
-61515184,2026-04-18 11:00,Arminia Bielefeld,1 FC Nuremberg,1,1,,,
-61515186,2026-04-18 11:00,Dynamo Dresden,VfL Bochum,2,0,,,
-61515176,2026-04-18 18:30,Hannover 96,SC Paderborn 07,1,1,,,
-61515178,2026-04-19 11:30,Greuther Furth,SV Darmstadt 98,3,2,,,
-61515180,2026-04-19 11:30,Schalke 04,SC Preussen 06 Munster,4,1,,,
-61515182,2026-04-19 11:30,Eintracht Braunschweig,Hertha BSC,1,1,,,
-61515192,2026-04-24 16:30,Fortuna Dusseldorf,Dynamo Dresden,3,1,,,
-61515194,2026-04-24 16:30,1 FC Kaiserslautern,Eintracht Braunschweig,0,2,,,
-61515196,2026-04-25 11:00,Karlsruher SC,Hannover 96,1,3,,,
-61515200,2026-04-25 11:00,Hertha BSC,Holstein Kiel,1,1,,,
-61515204,2026-04-25 11:00,SC Preussen 06 Munster,Arminia Bielefeld,2,3,,,
-61515202,2026-04-25 18:30,SV Darmstadt 98,SV 07 Elversberg,3,3,,,
-61515188,2026-04-26 11:30,VfL Bochum,Greuther Furth,2,1,,,
-61515190,2026-04-26 11:30,SC Paderborn 07,Schalke 04,2,3,,,
-61515198,2026-04-26 11:30,1 FC Nuremberg,1. FC Magdeburg,1,0,,,
-61515206,2026-05-02 11:00,Holstein Kiel,Eintracht Braunschweig,2,0,,,
-61515220,2026-05-02 11:00,Arminia Bielefeld,VfL Bochum,1,1,,,
-61515222,2026-05-02 11:00,Dynamo Dresden,1 FC Kaiserslautern,1,0,,,
-61515218,2026-05-02 18:30,Schalke 04,Fortuna Dusseldorf,1,0,,,
-61515208,2026-05-03 11:30,SV 07 Elversberg,SC Paderborn 07,5,1,,,
-61515210,2026-05-03 11:30,1. FC Magdeburg,Hertha BSC,1,0,,,
-61515212,2026-05-03 11:30,Karlsruher SC,SV Darmstadt 98,2,1,,,
-61515214,2026-05-03 11:30,Hannover 96,SC Preussen 06 Munster,3,3,,,
-61515216,2026-05-03 11:30,Greuther Furth,1 FC Nuremberg,1,1,,,
-61515228,2026-05-08 16:30,SC Paderborn 07,Karlsruher SC,2,2,,,
-61515232,2026-05-08 16:30,1 FC Kaiserslautern,Arminia Bielefeld,3,0,,,
-61515224,2026-05-09 11:00,Holstein Kiel,1. FC Magdeburg,1,3,,,
-61515226,2026-05-09 11:00,VfL Bochum,Hannover 96,1,1,,,
-61515240,2026-05-09 11:00,Eintracht Braunschweig,Dynamo Dresden,2,1,,,
-61515234,2026-05-09 18:30,1 FC Nuremberg,Schalke 04,3,0,,,
-61515230,2026-05-10 11:30,Fortuna Dusseldorf,SV 07 Elversberg,3,1,,,
-61515236,2026-05-10 11:30,Hertha BSC,Greuther Furth,2,1,,,
-61515238,2026-05-10 11:30,SC Preussen 06 Munster,SV Darmstadt 98,1,1,,,
-61515242,2026-05-17 13:30,SV 07 Elversberg,SC Preussen 06 Munster,3,0,1.222,7.000,9.500
-61515244,2026-05-17 13:30,1. FC Magdeburg,1 FC Kaiserslautern,0,1,1.480,5.000,5.250
-61515246,2026-05-17 13:30,Karlsruher SC,VfL Bochum,1,2,2.450,3.800,2.450
-61515248,2026-05-17 13:30,Hannover 96,1 FC Nuremberg,3,3,1.500,4.333,5.500
-61515250,2026-05-17 13:30,SV Darmstadt 98,SC Paderborn 07,0,2,3.600,4.000,1.900
-61515252,2026-05-17 13:30,Greuther Furth,Fortuna Dusseldorf,4,0,2.050,3.800,3.250
-61515254,2026-05-17 13:30,Schalke 04,Eintracht Braunschweig,1,0,1.727,3.800,4.500
-61515256,2026-05-17 13:30,Arminia Bielefeld,Hertha BSC,6,1,1.666,3.900,4.750
-61515258,2026-05-17 13:30,Dynamo Dresden,Holstein Kiel,2,1,1.750,4.100,4.000
-71443812,2026-05-22 18:30,Rot-Weiss Essen,Greuther Furth,1,0,2.375,3.400,2.800
-71443814,2026-05-26 18:30,Greuther Furth,Rot-Weiss Essen,2,1,1.750,4.200,4.000
-72513778,2026-08-07 18:30,VfL Bochum,Hertha BSC,0,1,2.200,3.500,3.100
-72513784,2026-08-08 11:00,1. FC Heidenheim,VfL 1899 Osnabruck,4,3,1.666,3.900,4.750
-72513786,2026-08-08 11:00,SV Darmstadt 98,Holstein Kiel,2,2,2.250,3.500,3.000
-72513790,2026-08-08 11:00,Karlsruher SC,Arminia Bielefeld,2,1,2.875,3.600,2.300
-72513792,2026-08-08 11:00,1. FC Magdeburg,Eintracht Braunschweig,1,6,1.750,3.800,4.333
-72513780,2026-08-08 18:30,VFL Wolfsburg,1 FC Kaiserslautern,0,0,1.571,4.333,5.000
-72513782,2026-08-09 11:30,FC St. Pauli,Greuther Furth,1,1,1.615,4.000,4.750
-72513788,2026-08-09 11:30,1 FC Nuremberg,Dynamo Dresden,3,0,2.550,3.100,2.800
-72513794,2026-08-09 11:30,Energie Cottbus,Hannover 96,3,1,3.100,3.500,2.150
-72513804,2026-08-14 16:30,Holstein Kiel,FC St. Pauli,2,2,2.625,3.400,2.550
-72513808,2026-08-14 16:30,Eintracht Braunschweig,VfL Bochum,0,1,2.500,3.500,2.600
-72513800,2026-08-15 11:00,Hertha BSC,1. FC Heidenheim,4,1,2.700,3.500,2.450
-72513810,2026-08-15 11:00,Greuther Furth,1 FC Nuremberg,2,4,3.000,3.500,2.250
-72513812,2026-08-15 11:00,VfL 1899 Osnabruck,1. FC Magdeburg,0,3,2.450,3.500,2.700
-72513798,2026-08-15 18:30,1 FC Kaiserslautern,Karlsruher SC,0,0,2.000,3.750,3.400
-72513796,2026-08-16 11:30,Hannover 96,VFL Wolfsburg,0,1,2.250,3.700,2.875
-72513802,2026-08-16 11:30,Dynamo Dresden,SV Darmstadt 98,1,0,2.000,3.700,3.400
-72513806,2026-08-16 11:30,Arminia Bielefeld,Energie Cottbus,3,0,1.571,4.333,5.250
-72513822,2026-08-28 16:30,VfL Bochum,VfL 1899 Osnabruck,0,1,1.850,3.600,4.000
-72513828,2026-08-28 16:30,Eintracht Braunschweig,Hertha BSC,3,5,2.750,3.500,2.400
-72513816,2026-08-29 11:00,1. FC Heidenheim,Dynamo Dresden,5,3,2.150,3.500,3.200
-72513824,2026-08-29 11:00,Karlsruher SC,VFL Wolfsburg,2,5,3.000,3.600,2.200
-72513830,2026-08-29 11:00,Energie Cottbus,Greuther Furth,3,4,2.450,3.700,2.625
-72513820,2026-08-29 18:30,1 FC Nuremberg,Arminia Bielefeld,4,1,2.300,3.600,2.875
-72513814,2026-08-30 11:30,FC St. Pauli,1 FC Kaiserslautern,1,2,1.800,3.750,4.100
-72513818,2026-08-30 11:30,SV Darmstadt 98,Hannover 96,0,1,3.000,3.600,2.200
-72513826,2026-08-30 11:30,1. FC Magdeburg,Holstein Kiel,2,0,2.100,3.750,3.100
-72513834,2026-09-04 16:30,Hannover 96,Karlsruher SC,2,2,1.480,4.750,5.250
-72513846,2026-09-04 16:30,Arminia Bielefeld,FC St. Pauli,2,2,2.350,3.400,2.625
-72513832,2026-09-05 11:00,VFL Wolfsburg,Energie Cottbus,4,4,1.363,5.000,6.250
-72513836,2026-09-05 11:00,1 FC Kaiserslautern,SV Darmstadt 98,3,0,2.250,3.400,2.900
-72513844,2026-09-05 11:00,Holstein Kiel,1 FC Nuremberg,2,2,2.050,3.600,3.200
-72513840,2026-09-05 18:30,Dynamo Dresden,VfL Bochum,1,2,2.150,3.300,3.000
-72513838,2026-09-06 11:30,Hertha BSC,1. FC Magdeburg,2,1,1.900,3.800,3.500
-72513848,2026-09-06 11:30,Greuther Furth,1. FC Heidenheim,0,1,3.000,3.750,2.050
-72513850,2026-09-06 11:30,VfL 1899 Osnabruck,Eintracht Braunschweig,3,1,2.150,3.400,3.000
-72513856,2026-09-11 16:30,SV Darmstadt 98,Arminia Bielefeld,2,1,3.100,3.400,2.200
-72513858,2026-09-11 16:30,1 FC Nuremberg,Hannover 96,2,1,2.500,3.700,2.550
-72513860,2026-09-12 11:00,VfL Bochum,Greuther Furth,1,1,1.700,3.900,4.333
-72513864,2026-09-12 11:00,1. FC Magdeburg,1 FC Kaiserslautern,3,0,2.100,3.700,3.200
-72513866,2026-09-12 11:00,Eintracht Braunschweig,Dynamo Dresden,2,2,2.800,3.400,2.450
-72513852,2026-09-12 18:30,FC St. Pauli,VFL Wolfsburg,1,0,2.500,3.500,2.600
-72513854,2026-09-13 11:30,1. FC Heidenheim,Holstein Kiel,1,0,2.100,3.500,3.100
-72513862,2026-09-13 11:30,Karlsruher SC,Energie Cottbus,0,3,1.850,4.000,3.500
-72513868,2026-09-13 11:30,VfL 1899 Osnabruck,Hertha BSC,1,3,3.100,3.700,2.100
-72513870,2026-09-18 16:30,VFL Wolfsburg,SV Darmstadt 98,5,1,1.500,4.333,5.500
-72513884,2026-09-18 16:30,Greuther Furth,1. FC Magdeburg,1,1,2.450,3.600,2.550
-72513874,2026-09-19 11:00,1 FC Kaiserslautern,Eintracht Braunschweig,1,0,1.900,3.700,3.600
-72513876,2026-09-19 11:00,Karlsruher SC,1 FC Nuremberg,0,1,2.900,4.000,2.100
-72513880,2026-09-19 11:00,Holstein Kiel,VfL 1899 Osnabruck,1,1,1.750,3.800,4.000
-72513878,2026-09-19 18:30,Dynamo Dresden,Hertha BSC,1,2,2.450,3.700,2.500
-72513872,2026-09-20 11:30,Hannover 96,VfL Bochum,2,1,1.909,3.800,3.400
-72513882,2026-09-20 11:30,Arminia Bielefeld,1. FC Heidenheim,2,2,1.900,3.750,3.500
-72513886,2026-09-20 11:30,Energie Cottbus,FC St. Pauli,1,1,3.100,3.800,2.050
-72513890,2026-10-09 16:30,1. FC Heidenheim,1 FC Kaiserslautern,0,0,2.000,3.900,3.200
-72513902,2026-10-09 16:30,Eintracht Braunschweig,Holstein Kiel,1,0,2.750,3.750,2.250
-72513892,2026-10-10 11:00,SV Darmstadt 98,Energie Cottbus,3,1,2.050,3.700,3.100
-72513900,2026-10-10 11:00,1. FC Magdeburg,Hannover 96,3,0,2.250,3.700,2.750
-72513904,2026-10-10 11:00,VfL 1899 Osnabruck,Dynamo Dresden,1,1,2.400,3.500,2.625
-72513896,2026-10-10 18:30,1 FC Nuremberg,VFL Wolfsburg,4,4,2.300,3.800,2.550
-72513888,2026-10-11 11:30,FC St. Pauli,Karlsruher SC,2,0,1.666,4.000,4.333
-72513894,2026-10-11 11:30,Hertha BSC,Greuther Furth,2,1,1.500,4.333,5.250
-72513898,2026-10-11 11:30,VfL Bochum,Arminia Bielefeld,0,1,2.050,3.500,3.300
-72513916,2026-10-16 16:30,Holstein Kiel,Hertha BSC,0,0,2.900,3.800,2.150
-72513922,2026-10-16 16:30,Energie Cottbus,1 FC Nuremberg,1,1,3.300,4.100,1.900
-72513906,2026-10-17 11:00,VFL Wolfsburg,1. FC Heidenheim,3,1,1.666,4.200,4.200
-72513910,2026-10-17 11:00,1 FC Kaiserslautern,VfL Bochum,2,0,2.150,3.500,3.000
-72513920,2026-10-17 11:00,Greuther Furth,Eintracht Braunschweig,2,0,2.100,3.600,3.100
-72513908,2026-10-17 18:30,Hannover 96,FC St. Pauli,1,1,,,
-72513912,2026-10-18 11:30,Karlsruher SC,SV Darmstadt 98,4,0,2.250,3.600,2.800
-72513914,2026-10-18 11:30,Dynamo Dresden,1. FC Magdeburg,2,0,2.500,3.500,2.500
-72513918,2026-10-18 11:30,Arminia Bielefeld,VfL 1899 Osnabruck,2,1,1.900,3.400,3.900
-72513926,2026-10-23 16:30,SV Darmstadt 98,FC St. Pauli,0,0,2.800,3.500,2.250
-72513932,2026-10-23 16:30,VfL Bochum,VFL Wolfsburg,1,1,2.900,3.750,2.150
-72513924,2026-10-24 11:00,1. FC Heidenheim,Energie Cottbus,1,1,1.444,4.750,5.750
-72513928,2026-10-24 11:00,Hertha BSC,Arminia Bielefeld,1,0,1.800,3.800,3.900
-72513936,2026-10-24 11:00,1. FC Magdeburg,Karlsruher SC,6,1,1.750,3.750,4.000
-72513930,2026-10-24 18:30,1 FC Nuremberg,1 FC Kaiserslautern,0,1,2.100,3.600,3.200
-72513934,2026-10-25 12:30,Holstein Kiel,Dynamo Dresden,3,0,2.200,3.600,2.875
-72513938,2026-10-25 12:30,Eintracht Braunschweig,Hannover 96,2,0,3.000,3.500,2.200
-72513940,2026-10-25 12:30,VfL 1899 Osnabruck,Greuther Furth,3,0,2.150,3.600,3.000
-72513954,2026-10-30 17:30,Arminia Bielefeld,Eintracht Braunschweig,3,1,1.909,3.700,3.500
-72513958,2026-10-30 17:30,Energie Cottbus,VfL Bochum,1,2,3.100,3.900,2.050
-72513942,2026-10-31 12:00,VFL Wolfsburg,VfL 1899 Osnabruck,2,0,1.550,4.333,5.000
-72513948,2026-10-31 12:00,SV Darmstadt 98,1. FC Magdeburg,1,1,2.900,3.600,2.250
-72513950,2026-10-31 12:00,1 FC Kaiserslautern,Hertha BSC,0,3,2.875,3.600,2.200
-72513952,2026-10-31 19:30,Karlsruher SC,1. FC Heidenheim,2,1,3.300,3.800,1.909
-72513944,2026-11-01 12:30,FC St. Pauli,1 FC Nuremberg,1,3,2.050,3.600,3.200
-72513946,2026-11-01 12:30,Hannover 96,Dynamo Dresden,2,1,1.900,3.700,3.700
-72513956,2026-11-01 12:30,Greuther Furth,Holstein Kiel,1,0,2.450,3.600,2.550
-72513968,2026-11-06 17:30,Dynamo Dresden,Greuther Furth,3,0,2.000,3.600,3.300
-72513974,2026-11-06 17:30,Eintracht Braunschweig,Energie Cottbus,0,0,1.900,3.800,3.500
-72513964,2026-11-07 12:00,1 FC Nuremberg,SV Darmstadt 98,2,0,1.650,4.200,4.500
-72513970,2026-11-07 12:00,Holstein Kiel,Arminia Bielefeld,1,2,2.500,3.500,2.600
-72513976,2026-11-07 12:00,VfL 1899 Osnabruck,1 FC Kaiserslautern,0,1,2.400,3.400,2.700
-72513962,2026-11-07 19:30,Hertha BSC,VFL Wolfsburg,2,1,2.050,3.900,3.100
-72513960,2026-11-08 12:30,1. FC Heidenheim,Hannover 96,2,2,1.850,4.000,3.500
-72513966,2026-11-08 12:30,VfL Bochum,Karlsruher SC,3,2,1.666,3.900,4.500
-72513972,2026-11-08 12:30,1. FC Magdeburg,FC St. Pauli,4,1,2.625,3.400,2.450
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+60433923,2025-05-23 18:30,1. FC Saarbrucken,Eintracht Braunschweig,0,2,,,,,,
+60433945,2025-05-27 18:30,Eintracht Braunschweig,1. FC Saarbrucken,2,2,,,,,,
+61510996,2025-08-01 18:30,Schalke 04,Hertha BSC,2,1,,,,,,
+61512416,2025-08-02 11:00,SV 07 Elversberg,1 FC Nuremberg,1,0,,,,,,
+61512418,2025-08-02 11:00,SC Paderborn 07,Holstein Kiel,2,1,,,,,,
+61512424,2025-08-02 11:00,Karlsruher SC,SC Preussen 06 Munster,3,2,,,,,,
+61512428,2025-08-02 11:00,SV Darmstadt 98,VfL Bochum,4,1,,,,,,
+61512432,2025-08-02 18:30,Arminia Bielefeld,Fortuna Dusseldorf,5,1,,,,,,
+61512422,2025-08-03 11:30,1. FC Magdeburg,Eintracht Braunschweig,0,1,,,,,,
+61512426,2025-08-03 11:30,Hannover 96,1 FC Kaiserslautern,1,0,,,,,,
+61512430,2025-08-03 11:30,Greuther Furth,Dynamo Dresden,3,2,,,,,,
+61514672,2025-08-08 16:30,1 FC Nuremberg,SV Darmstadt 98,0,1,,,,,,
+61514676,2025-08-08 16:30,SC Preussen 06 Munster,SC Paderborn 07,1,1,,,,,,
+61514668,2025-08-09 11:00,Fortuna Dusseldorf,Hannover 96,0,2,,,,,,
+61514678,2025-08-09 11:00,Eintracht Braunschweig,Greuther Furth,3,2,,,,,,
+61514680,2025-08-09 11:00,Dynamo Dresden,1. FC Magdeburg,1,2,,,,,,
+61514670,2025-08-09 18:30,1 FC Kaiserslautern,Schalke 04,1,0,,,,,,
+61514664,2025-08-10 11:30,Holstein Kiel,Arminia Bielefeld,0,2,,,,,,
+61514666,2025-08-10 11:30,VfL Bochum,SV 07 Elversberg,2,0,,,,,,
+61514674,2025-08-10 11:30,Hertha BSC,Karlsruher SC,0,0,,,,,,
+61514682,2025-08-22 16:30,SV 07 Elversberg,1 FC Kaiserslautern,2,1,,,,,,
+61514696,2025-08-22 16:30,SC Preussen 06 Munster,1 FC Nuremberg,2,1,,,,,,
+61514684,2025-08-23 11:00,SC Paderborn 07,Fortuna Dusseldorf,1,2,,,,,,
+61514686,2025-08-23 11:00,Karlsruher SC,Eintracht Braunschweig,2,0,,,,,,
+61514688,2025-08-23 11:00,Hannover 96,1. FC Magdeburg,3,1,,,,,,
+61514694,2025-08-23 18:30,Schalke 04,VfL Bochum,2,1,,,,,,
+61514690,2025-08-24 11:30,SV Darmstadt 98,Hertha BSC,0,0,,,,,,
+61514692,2025-08-24 11:30,Greuther Furth,Holstein Kiel,0,2,,,,,,
+61514698,2025-08-24 11:30,Arminia Bielefeld,Dynamo Dresden,1,2,,,,,,
+61514710,2025-08-29 16:30,1 FC Nuremberg,SC Paderborn 07,0,0,,,,,,
+61514712,2025-08-29 16:30,Hertha BSC,SV 07 Elversberg,0,2,,,,,,
+61514700,2025-08-30 11:00,Holstein Kiel,Hannover 96,1,2,,,,,,
+61514702,2025-08-30 11:00,VfL Bochum,SC Preussen 06 Munster,1,2,,,,,,
+61514714,2025-08-30 11:00,Eintracht Braunschweig,Arminia Bielefeld,1,1,,,,,,
+61514706,2025-08-30 18:30,Fortuna Dusseldorf,Karlsruher SC,0,0,,,,,,
+61514704,2025-08-31 11:30,1. FC Magdeburg,Greuther Furth,4,5,,,,,,
+61514708,2025-08-31 11:30,1 FC Kaiserslautern,SV Darmstadt 98,3,1,,,,,,
+61514716,2025-08-31 11:30,Dynamo Dresden,Schalke 04,0,1,,,,,,
+61514720,2025-09-12 16:30,SC Paderborn 07,VfL Bochum,1,0,,,,,,
+61514736,2025-09-12 16:30,Arminia Bielefeld,1. FC Magdeburg,2,0,,,,,,
+61514722,2025-09-13 11:00,Karlsruher SC,1 FC Nuremberg,2,1,,,,,,
+61514728,2025-09-13 11:00,SV Darmstadt 98,Eintracht Braunschweig,2,1,,,,,,
+61514732,2025-09-13 11:00,Schalke 04,Holstein Kiel,0,1,,,,,,
+61514726,2025-09-13 18:30,Hannover 96,Hertha BSC,0,3,,,,,,
+61514718,2025-09-14 11:30,SV 07 Elversberg,Dynamo Dresden,2,2,,,,,,
+61514730,2025-09-14 11:30,Greuther Furth,1 FC Kaiserslautern,0,3,,,,,,
+61514734,2025-09-14 11:30,SC Preussen 06 Munster,Fortuna Dusseldorf,1,2,,,,,,
+61514744,2025-09-19 16:30,1 FC Kaiserslautern,SC Preussen 06 Munster,4,1,,,,,,
+61514752,2025-09-19 16:30,Arminia Bielefeld,Greuther Furth,1,3,,,,,,
+61514740,2025-09-20 11:00,1. FC Magdeburg,Schalke 04,0,2,,,,,,
+61514748,2025-09-20 11:00,Hertha BSC,SC Paderborn 07,0,2,,,,,,
+61514750,2025-09-20 11:00,Eintracht Braunschweig,SV 07 Elversberg,1,4,,,,,,
+61514746,2025-09-20 18:30,1 FC Nuremberg,VfL Bochum,2,1,,,,,,
+61514738,2025-09-21 11:30,Holstein Kiel,Karlsruher SC,3,0,,,,,,
+61514742,2025-09-21 11:30,Fortuna Dusseldorf,SV Darmstadt 98,0,3,,,,,,
+61514754,2025-09-21 11:30,Dynamo Dresden,Hannover 96,2,2,,,,,,
+61514768,2025-09-26 16:30,SV Darmstadt 98,Dynamo Dresden,2,0,,,,,,
+61514770,2025-09-26 16:30,Schalke 04,Greuther Furth,1,0,,,,,,
+61514758,2025-09-27 11:00,SV 07 Elversberg,Holstein Kiel,1,0,,,,,,
+61514760,2025-09-27 11:00,SC Paderborn 07,1 FC Kaiserslautern,2,0,,,,,,
+61514762,2025-09-27 11:00,Karlsruher SC,1. FC Magdeburg,1,0,,,,,,
+61514756,2025-09-27 18:30,VfL Bochum,Fortuna Dusseldorf,0,1,,,,,,
+61514764,2025-09-28 11:30,Hannover 96,Arminia Bielefeld,3,1,,,,,,
+61514766,2025-09-28 11:30,1 FC Nuremberg,Hertha BSC,0,3,,,,,,
+61514772,2025-09-28 11:30,SC Preussen 06 Munster,Eintracht Braunschweig,3,1,,,,,,
+61514778,2025-10-03 16:30,Fortuna Dusseldorf,1 FC Nuremberg,2,3,,,,,,
+61514786,2025-10-03 16:30,Eintracht Braunschweig,SC Paderborn 07,1,2,,,,,,
+61514774,2025-10-04 11:00,Holstein Kiel,SV Darmstadt 98,1,1,,,,,,
+61514780,2025-10-04 11:00,1 FC Kaiserslautern,VfL Bochum,3,2,,,,,,
+61514782,2025-10-04 11:00,Hertha BSC,SC Preussen 06 Munster,2,1,,,,,,
+61514790,2025-10-04 18:30,Dynamo Dresden,Karlsruher SC,3,3,,,,,,
+61514776,2025-10-05 11:30,1. FC Magdeburg,SV 07 Elversberg,0,4,,,,,,
+61514784,2025-10-05 11:30,Greuther Furth,Hannover 96,2,2,,,,,,
+61514788,2025-10-05 11:30,Arminia Bielefeld,Schalke 04,1,2,,,,,,
+61514798,2025-10-17 16:30,Fortuna Dusseldorf,Eintracht Braunschweig,1,2,,,,,,
+61514802,2025-10-17 16:30,Hannover 96,Schalke 04,0,3,,,,,,
+61514796,2025-10-18 11:00,SC Paderborn 07,Arminia Bielefeld,4,3,,,,,,
+61514800,2025-10-18 11:00,Karlsruher SC,1 FC Kaiserslautern,2,3,,,,,,
+61514808,2025-10-18 11:00,SC Preussen 06 Munster,Dynamo Dresden,2,2,,,,,,
+61514792,2025-10-18 18:30,VfL Bochum,Hertha BSC,3,2,,,,,,
+61514794,2025-10-19 11:30,SV 07 Elversberg,Greuther Furth,6,0,,,,,,
+61514804,2025-10-19 11:30,1 FC Nuremberg,Holstein Kiel,1,1,,,,,,
+61514806,2025-10-19 11:30,SV Darmstadt 98,1. FC Magdeburg,0,0,,,,,,
+61514818,2025-10-24 16:30,Greuther Furth,Karlsruher SC,1,4,,,,,,
+61514820,2025-10-24 16:30,Schalke 04,SV Darmstadt 98,1,0,,,,,,
+61514810,2025-10-25 11:00,Holstein Kiel,VfL Bochum,1,1,,,,,,
+61514824,2025-10-25 11:00,Arminia Bielefeld,SV 07 Elversberg,2,0,,,,,,
+61514826,2025-10-25 11:00,Dynamo Dresden,SC Paderborn 07,1,2,,,,,,
+61514816,2025-10-25 18:30,Hertha BSC,Fortuna Dusseldorf,1,0,,,,,,
+61514812,2025-10-26 12:30,1. FC Magdeburg,SC Preussen 06 Munster,2,0,,,,,,
+61514814,2025-10-26 12:30,1 FC Kaiserslautern,1 FC Nuremberg,1,1,,,,,,
+61514822,2025-10-26 12:30,Eintracht Braunschweig,Hannover 96,0,3,,,,,,
+61514830,2025-10-31 17:30,SV 07 Elversberg,Hannover 96,2,2,,,,,,
+61514844,2025-10-31 17:30,SC Preussen 06 Munster,Holstein Kiel,2,1,,,,,,
+61514836,2025-11-01 12:00,Karlsruher SC,Schalke 04,2,1,,,,,,
+61514838,2025-11-01 12:00,1 FC Nuremberg,Eintracht Braunschweig,2,1,,,,,,
+61514840,2025-11-01 12:00,Hertha BSC,Dynamo Dresden,2,0,,,,,,
+61514842,2025-11-01 19:30,SV Darmstadt 98,Arminia Bielefeld,2,2,,,,,,
+61514828,2025-11-02 12:30,VfL Bochum,1. FC Magdeburg,2,0,,,,,,
+61514832,2025-11-02 12:30,SC Paderborn 07,Greuther Furth,2,1,,,,,,
+61514834,2025-11-02 12:30,Fortuna Dusseldorf,1 FC Kaiserslautern,1,1,,,,,,
+61514854,2025-11-07 17:30,Greuther Furth,SC Preussen 06 Munster,1,0,,,,,,
+61514862,2025-11-07 17:30,Dynamo Dresden,1 FC Nuremberg,1,2,,,,,,
+61514852,2025-11-08 12:00,Hannover 96,SV Darmstadt 98,2,3,,,,,,
+61514856,2025-11-08 12:00,Schalke 04,SV 07 Elversberg,1,0,,,,,,
+61514860,2025-11-08 12:00,Arminia Bielefeld,Karlsruher SC,4,0,,,,,,
+61514850,2025-11-08 19:30,1 FC Kaiserslautern,Hertha BSC,0,1,,,,,,
+61514846,2025-11-09 12:30,Holstein Kiel,Fortuna Dusseldorf,1,0,,,,,,
+61514848,2025-11-09 12:30,1. FC Magdeburg,SC Paderborn 07,0,1,,,,,,
+61514858,2025-11-09 12:30,Eintracht Braunschweig,VfL Bochum,0,2,,,,,,
+61514864,2025-11-21 17:30,VfL Bochum,Dynamo Dresden,1,2,,,,,,
+61514876,2025-11-21 17:30,Hertha BSC,Eintracht Braunschweig,1,0,,,,,,
+61514866,2025-11-22 12:00,SC Paderborn 07,Hannover 96,0,2,,,,,,
+61514868,2025-11-22 12:00,Fortuna Dusseldorf,1. FC Magdeburg,2,1,,,,,,
+61514880,2025-11-22 12:00,SC Preussen 06 Munster,Schalke 04,0,0,,,,,,
+61514878,2025-11-22 19:30,SV Darmstadt 98,Greuther Furth,4,2,,,,,,
+61514870,2025-11-23 12:30,1 FC Kaiserslautern,Holstein Kiel,4,1,,,,,,
+61514872,2025-11-23 12:30,Karlsruher SC,SV 07 Elversberg,2,3,,,,,,
+61514874,2025-11-23 12:30,1 FC Nuremberg,Arminia Bielefeld,2,0,,,,,,
+61514888,2025-11-28 17:30,Hannover 96,Karlsruher SC,3,0,,,,,,
+61514892,2025-11-28 17:30,Schalke 04,SC Paderborn 07,2,1,,,,,,
+61514882,2025-11-29 12:00,Holstein Kiel,Hertha BSC,0,1,,,,,,
+61514890,2025-11-29 12:00,Greuther Furth,VfL Bochum,0,3,,,,,,
+61514894,2025-11-29 12:00,Eintracht Braunschweig,1 FC Kaiserslautern,2,0,,,,,,
+61514886,2025-11-29 19:30,1. FC Magdeburg,1 FC Nuremberg,3,0,,,,,,
+61514884,2025-11-30 12:30,SV 07 Elversberg,SV Darmstadt 98,0,0,,,,,,
+61514896,2025-11-30 12:30,Arminia Bielefeld,SC Preussen 06 Munster,1,2,,,,,,
+61514898,2025-11-30 12:30,Dynamo Dresden,Fortuna Dusseldorf,2,1,,,,,,
+61514904,2025-12-05 17:30,Fortuna Dusseldorf,Schalke 04,0,2,,,,,,
+61514914,2025-12-05 17:30,SC Preussen 06 Munster,Hannover 96,2,2,,,,,,
+61514900,2025-12-06 12:00,VfL Bochum,Arminia Bielefeld,1,0,,,,,,
+61514902,2025-12-06 12:00,SC Paderborn 07,SV 07 Elversberg,1,2,,,,,,
+61514906,2025-12-06 12:00,1 FC Kaiserslautern,Dynamo Dresden,3,1,,,,,,
+61514912,2025-12-06 19:30,SV Darmstadt 98,Karlsruher SC,3,2,,,,,,
+61514908,2025-12-07 12:30,1 FC Nuremberg,Greuther Furth,2,2,,,,,,
+61514910,2025-12-07 12:30,Hertha BSC,1. FC Magdeburg,0,2,,,,,,
+61514916,2025-12-07 12:30,Eintracht Braunschweig,Holstein Kiel,1,1,,,,,,
+61514928,2025-12-12 17:30,Greuther Furth,Hertha BSC,3,3,4.000,3.800,1.800,2.75,1.850,1.950
+61514934,2025-12-12 17:30,Dynamo Dresden,Eintracht Braunschweig,2,3,2.200,3.300,3.300,2.5,1.775,2.025
+61514920,2025-12-13 12:00,1. FC Magdeburg,Holstein Kiel,3,3,2.050,3.500,3.400,3,1.975,1.825
+61514922,2025-12-13 12:00,Karlsruher SC,SC Paderborn 07,0,4,3.400,3.600,2.000,2.75,1.800,2.000
+61514932,2025-12-13 12:00,Arminia Bielefeld,1 FC Kaiserslautern,0,0,2.050,3.600,3.400,3,1.775,2.025
+61514924,2025-12-13 19:30,Hannover 96,VfL Bochum,0,0,1.850,3.400,4.333,2.75,1.925,1.875
+61514918,2025-12-14 12:30,SV 07 Elversberg,Fortuna Dusseldorf,1,0,1.550,4.333,5.250,3,1.800,2.000
+61514926,2025-12-14 12:30,SV Darmstadt 98,SC Preussen 06 Munster,1,0,1.850,3.400,4.100,2.75,1.900,1.900
+61514930,2025-12-14 12:30,Schalke 04,1 FC Nuremberg,1,0,1.850,3.750,3.800,2.5,1.800,2.000
+61514940,2025-12-19 17:30,SC Paderborn 07,SV Darmstadt 98,2,2,1.950,3.700,3.500,2.75,2.000,1.800
+61514948,2025-12-19 17:30,Hertha BSC,Arminia Bielefeld,1,1,2.000,3.300,3.900,2.75,1.900,1.900
+61514938,2025-12-20 12:00,VfL Bochum,Karlsruher SC,2,2,1.571,4.200,5.250,3,1.900,1.900
+61514942,2025-12-20 12:00,Fortuna Dusseldorf,Greuther Furth,2,1,1.727,4.000,4.200,3,1.850,1.950
+61514944,2025-12-20 12:00,1 FC Kaiserslautern,1. FC Magdeburg,2,3,2.400,3.700,2.700,3,1.825,1.975
+61514936,2025-12-20 19:30,Holstein Kiel,Dynamo Dresden,2,1,2.150,3.400,3.300,2.75,1.850,1.950
+61514946,2025-12-21 12:30,1 FC Nuremberg,Hannover 96,2,1,3.400,3.600,2.000,2.75,1.950,1.850
+61514950,2025-12-21 12:30,SC Preussen 06 Munster,SV 07 Elversberg,1,1,3.000,3.400,2.300,2.5,1.800,2.000
+61514952,2025-12-21 12:30,Eintracht Braunschweig,Schalke 04,2,1,3.000,3.300,2.350,2.5,1.925,1.875
+61514958,2026-01-16 17:30,Fortuna Dusseldorf,Arminia Bielefeld,1,0,2.500,3.500,2.625,2.75,2.000,1.800
+61514968,2026-01-16 17:30,Eintracht Braunschweig,1. FC Magdeburg,0,3,2.900,3.600,2.200,3,1.950,1.850
+61514962,2026-01-17 12:00,1 FC Nuremberg,SV 07 Elversberg,3,2,2.550,3.400,2.625,2.5,1.900,1.900
+61514966,2026-01-17 12:00,SC Preussen 06 Munster,Karlsruher SC,0,2,1.833,3.600,4.200,2.75,1.800,2.000
+61514970,2026-01-17 12:00,Dynamo Dresden,Greuther Furth,2,0,1.909,3.750,3.700,2.75,1.850,1.950
+61514964,2026-01-17 19:30,Hertha BSC,Schalke 04,0,0,2.500,3.200,2.875,2.25,2.000,1.800
+61514954,2026-01-18 12:30,Holstein Kiel,SC Paderborn 07,2,0,3.000,3.400,2.250,2.5,1.825,1.975
+61514956,2026-01-18 12:30,VfL Bochum,SV Darmstadt 98,3,3,2.500,3.250,2.800,2.75,1.850,1.950
+61514960,2026-01-18 12:30,1 FC Kaiserslautern,Hannover 96,3,1,2.900,3.500,2.300,2.75,2.025,1.775
+61514982,2026-01-23 17:30,SV Darmstadt 98,1 FC Nuremberg,2,0,,,,,,
+61514988,2026-01-23 17:30,Arminia Bielefeld,Holstein Kiel,2,2,2.250,3.250,3.200,2.5,2.000,1.800
+61514978,2026-01-24 12:00,Karlsruher SC,Hertha BSC,2,2,,,,,,
+61514980,2026-01-24 12:00,Hannover 96,Fortuna Dusseldorf,2,1,1.727,3.800,4.500,2.75,1.800,2.000
+61514984,2026-01-24 12:00,Greuther Furth,Eintracht Braunschweig,0,0,2.900,3.400,2.400,2.5,1.900,1.900
+61514976,2026-01-24 19:30,1. FC Magdeburg,Dynamo Dresden,1,2,,,,,,
+61514972,2026-01-25 12:30,SV 07 Elversberg,VfL Bochum,1,1,,,,,,
+61514974,2026-01-25 12:30,SC Paderborn 07,SC Preussen 06 Munster,2,1,,,,,,
+61514986,2026-01-25 12:30,Schalke 04,1 FC Kaiserslautern,2,2,,,,,,
+61514994,2026-01-30 17:30,1. FC Magdeburg,Hannover 96,1,2,,,,,,
+61515000,2026-01-30 17:30,1 FC Nuremberg,SC Preussen 06 Munster,1,1,,,,,,
+61514990,2026-01-31 12:00,Holstein Kiel,Greuther Furth,1,2,1.700,3.700,4.750,2.75,1.850,1.950
+61514992,2026-01-31 12:00,VfL Bochum,Schalke 04,2,0,,,,,,
+61515004,2026-01-31 12:00,Eintracht Braunschweig,Karlsruher SC,1,0,2.000,3.600,3.400,2.5,1.850,1.950
+61514998,2026-01-31 19:30,1 FC Kaiserslautern,SV 07 Elversberg,1,3,,,,,,
+61514996,2026-02-01 12:30,Fortuna Dusseldorf,SC Paderborn 07,2,1,,,,,,
+61515002,2026-02-01 12:30,Hertha BSC,SV Darmstadt 98,2,2,,,,,,
+61515006,2026-02-01 12:30,Dynamo Dresden,Arminia Bielefeld,1,1,2.600,3.300,2.600,2.5,1.900,1.900
+61515018,2026-02-06 17:30,Greuther Furth,1. FC Magdeburg,4,5,,,,,,
+61515022,2026-02-06 17:30,SC Preussen 06 Munster,VfL Bochum,1,1,,,,,,
+61515008,2026-02-07 12:00,SV 07 Elversberg,Hertha BSC,0,3,,,,,,
+61515010,2026-02-07 12:00,SC Paderborn 07,1 FC Nuremberg,2,1,,,,,,
+61515020,2026-02-07 12:00,Schalke 04,Dynamo Dresden,2,2,,,,,,
+61515016,2026-02-07 19:30,SV Darmstadt 98,1 FC Kaiserslautern,4,0,,,,,,
+61515012,2026-02-08 12:30,Karlsruher SC,Fortuna Dusseldorf,1,1,3.500,3.700,1.950,2.75,1.775,2.025
+61515014,2026-02-08 12:30,Hannover 96,Holstein Kiel,3,1,1.571,3.750,6.000,2.75,1.975,1.825
+61515024,2026-02-08 12:30,Arminia Bielefeld,Eintracht Braunschweig,3,2,1.800,3.500,4.333,2.5,1.825,1.975
+61515032,2026-02-13 17:30,Fortuna Dusseldorf,SC Preussen 06 Munster,0,0,,,,,,
+61515036,2026-02-13 17:30,1 FC Nuremberg,Karlsruher SC,5,1,,,,,,
+61515034,2026-02-14 12:00,1 FC Kaiserslautern,Greuther Furth,1,0,,,,,,
+61515038,2026-02-14 12:00,Hertha BSC,Hannover 96,2,3,,,,,,
+61515040,2026-02-14 12:00,Eintracht Braunschweig,SV Darmstadt 98,2,2,,,,,,
+61515042,2026-02-14 19:30,Dynamo Dresden,SV 07 Elversberg,1,2,,,,,,
+61515026,2026-02-15 12:30,Holstein Kiel,Schalke 04,1,2,,,,,,
+61515028,2026-02-15 12:30,VfL Bochum,SC Paderborn 07,0,0,,,,,,
+61515030,2026-02-15 12:30,1. FC Magdeburg,Arminia Bielefeld,0,2,,,,,,
+61515044,2026-02-20 17:30,VfL Bochum,1 FC Nuremberg,1,1,,,,,,
+61515056,2026-02-20 17:30,Greuther Furth,Arminia Bielefeld,2,1,,,,,,
+61515046,2026-02-21 12:00,SV 07 Elversberg,Eintracht Braunschweig,3,1,,,,,,
+61515050,2026-02-21 12:00,Karlsruher SC,Holstein Kiel,3,1,,,,,,
+61515054,2026-02-21 12:00,SV Darmstadt 98,Fortuna Dusseldorf,2,1,,,,,,
+61515058,2026-02-21 19:30,Schalke 04,1. FC Magdeburg,5,3,,,,,,
+61515048,2026-02-22 12:30,SC Paderborn 07,Hertha BSC,5,2,,,,,,
+61515052,2026-02-22 12:30,Hannover 96,Dynamo Dresden,0,0,,,,,,
+61515060,2026-02-22 12:30,SC Preussen 06 Munster,1 FC Kaiserslautern,2,3,,,,,,
+61515066,2026-02-27 17:30,Fortuna Dusseldorf,VfL Bochum,2,1,,,,,,
+61515078,2026-02-27 17:30,Dynamo Dresden,SV Darmstadt 98,3,1,,,,,,
+61515062,2026-02-28 12:00,Holstein Kiel,SV 07 Elversberg,1,1,,,,,,
+61515068,2026-02-28 12:00,1 FC Kaiserslautern,SC Paderborn 07,1,2,,,,,,
+61515076,2026-02-28 12:00,Arminia Bielefeld,Hannover 96,0,1,,,,,,
+61515072,2026-02-28 19:30,Greuther Furth,Schalke 04,1,1,,,,,,
+61515064,2026-03-01 12:30,1. FC Magdeburg,Karlsruher SC,1,3,,,,,,
+61515070,2026-03-01 12:30,Hertha BSC,1 FC Nuremberg,2,1,,,,,,
+61515074,2026-03-01 12:30,Eintracht Braunschweig,SC Preussen 06 Munster,1,2,,,,,,
+61515082,2026-03-06 17:30,SV 07 Elversberg,1. FC Magdeburg,1,0,,,,,,
+61515094,2026-03-06 17:30,Schalke 04,Arminia Bielefeld,1,0,,,,,,
+61515084,2026-03-07 12:00,SC Paderborn 07,Eintracht Braunschweig,1,1,,,,,,
+61515090,2026-03-07 12:00,1 FC Nuremberg,Fortuna Dusseldorf,0,1,,,,,,
+61515092,2026-03-07 12:00,SV Darmstadt 98,Holstein Kiel,2,0,,,,,,
+61515080,2026-03-07 19:30,VfL Bochum,1 FC Kaiserslautern,3,2,,,,,,
+61515086,2026-03-08 12:30,Karlsruher SC,Dynamo Dresden,3,3,,,,,,
+61515088,2026-03-08 12:30,Hannover 96,Greuther Furth,1,2,,,,,,
+61515096,2026-03-08 12:30,SC Preussen 06 Munster,Hertha BSC,1,2,,,,,,
+61515100,2026-03-13 17:30,1. FC Magdeburg,SV Darmstadt 98,1,1,,,,,,
+61515106,2026-03-13 17:30,Greuther Furth,SV 07 Elversberg,2,0,,,,,,
+61515098,2026-03-14 12:00,Holstein Kiel,1 FC Nuremberg,2,3,,,,,,
+61515110,2026-03-14 12:00,Eintracht Braunschweig,Fortuna Dusseldorf,1,0,,,,,,
+61515112,2026-03-14 12:00,Arminia Bielefeld,SC Paderborn 07,2,2,,,,,,
+61515104,2026-03-14 19:30,Hertha BSC,VfL Bochum,1,1,,,,,,
+61515102,2026-03-15 12:30,1 FC Kaiserslautern,Karlsruher SC,3,0,,,,,,
+61515108,2026-03-15 12:30,Schalke 04,Hannover 96,2,2,,,,,,
+61515114,2026-03-15 12:30,Dynamo Dresden,SC Preussen 06 Munster,6,0,,,,,,
+61515124,2026-03-20 17:30,Karlsruher SC,Greuther Furth,3,1,,,,,,
+61515126,2026-03-20 17:30,Hannover 96,Eintracht Braunschweig,1,0,,,,,,
+61515118,2026-03-21 12:00,SV 07 Elversberg,Arminia Bielefeld,3,1,,,,,,
+61515120,2026-03-21 12:00,SC Paderborn 07,Dynamo Dresden,2,1,,,,,,
+61515128,2026-03-21 12:00,1 FC Nuremberg,1 FC Kaiserslautern,3,0,,,,,,
+61515130,2026-03-21 19:30,SV Darmstadt 98,Schalke 04,1,1,,,,,,
+61515116,2026-03-22 12:30,VfL Bochum,Holstein Kiel,2,3,,,,,,
+61515122,2026-03-22 12:30,Fortuna Dusseldorf,Hertha BSC,2,5,,,,,,
+61515132,2026-03-22 12:30,SC Preussen 06 Munster,1. FC Magdeburg,1,3,,,,,,
+61515136,2026-04-04 11:00,1. FC Magdeburg,VfL Bochum,4,1,,,,,,
+61515138,2026-04-04 11:00,1 FC Kaiserslautern,Fortuna Dusseldorf,3,0,,,,,,
+61515148,2026-04-04 11:00,Arminia Bielefeld,SV Darmstadt 98,2,1,,,,,,
+61515150,2026-04-04 18:30,Dynamo Dresden,Hertha BSC,0,1,,,,,,
+61515134,2026-04-05 11:30,Holstein Kiel,SC Preussen 06 Munster,0,0,,,,,,
+61515140,2026-04-05 11:30,Hannover 96,SV 07 Elversberg,1,1,,,,,,
+61515142,2026-04-05 11:30,Greuther Furth,SC Paderborn 07,0,2,,,,,,
+61515144,2026-04-05 11:30,Schalke 04,Karlsruher SC,1,0,,,,,,
+61515146,2026-04-05 11:30,Eintracht Braunschweig,1 FC Nuremberg,1,1,,,,,,
+61515158,2026-04-10 16:30,Fortuna Dusseldorf,Holstein Kiel,1,2,,,,,,
+61515160,2026-04-10 16:30,Karlsruher SC,Arminia Bielefeld,4,1,,,,,,
+61515162,2026-04-11 11:00,1 FC Nuremberg,Dynamo Dresden,0,2,,,,,,
+61515164,2026-04-11 11:00,Hertha BSC,1 FC Kaiserslautern,0,1,,,,,,
+61515168,2026-04-11 11:00,SC Preussen 06 Munster,Greuther Furth,0,0,,,,,,
+61515166,2026-04-11 18:30,SV Darmstadt 98,Hannover 96,0,2,,,,,,
+61515152,2026-04-12 11:30,VfL Bochum,Eintracht Braunschweig,4,1,,,,,,
+61515154,2026-04-12 11:30,SV 07 Elversberg,Schalke 04,1,2,,,,,,
+61515156,2026-04-12 11:30,SC Paderborn 07,1. FC Magdeburg,4,3,,,,,,
+61515170,2026-04-17 16:30,Holstein Kiel,1 FC Kaiserslautern,3,0,,,,,,
+61515172,2026-04-17 16:30,SV 07 Elversberg,Karlsruher SC,3,0,,,,,,
+61515174,2026-04-18 11:00,1. FC Magdeburg,Fortuna Dusseldorf,2,0,,,,,,
+61515184,2026-04-18 11:00,Arminia Bielefeld,1 FC Nuremberg,1,1,,,,,,
+61515186,2026-04-18 11:00,Dynamo Dresden,VfL Bochum,2,0,,,,,,
+61515176,2026-04-18 18:30,Hannover 96,SC Paderborn 07,1,1,,,,,,
+61515178,2026-04-19 11:30,Greuther Furth,SV Darmstadt 98,3,2,,,,,,
+61515180,2026-04-19 11:30,Schalke 04,SC Preussen 06 Munster,4,1,,,,,,
+61515182,2026-04-19 11:30,Eintracht Braunschweig,Hertha BSC,1,1,,,,,,
+61515192,2026-04-24 16:30,Fortuna Dusseldorf,Dynamo Dresden,3,1,,,,,,
+61515194,2026-04-24 16:30,1 FC Kaiserslautern,Eintracht Braunschweig,0,2,,,,,,
+61515196,2026-04-25 11:00,Karlsruher SC,Hannover 96,1,3,,,,,,
+61515200,2026-04-25 11:00,Hertha BSC,Holstein Kiel,1,1,,,,,,
+61515204,2026-04-25 11:00,SC Preussen 06 Munster,Arminia Bielefeld,2,3,,,,,,
+61515202,2026-04-25 18:30,SV Darmstadt 98,SV 07 Elversberg,3,3,,,,,,
+61515188,2026-04-26 11:30,VfL Bochum,Greuther Furth,2,1,,,,,,
+61515190,2026-04-26 11:30,SC Paderborn 07,Schalke 04,2,3,,,,,,
+61515198,2026-04-26 11:30,1 FC Nuremberg,1. FC Magdeburg,1,0,,,,,,
+61515206,2026-05-02 11:00,Holstein Kiel,Eintracht Braunschweig,2,0,,,,,,
+61515220,2026-05-02 11:00,Arminia Bielefeld,VfL Bochum,1,1,,,,,,
+61515222,2026-05-02 11:00,Dynamo Dresden,1 FC Kaiserslautern,1,0,,,,,,
+61515218,2026-05-02 18:30,Schalke 04,Fortuna Dusseldorf,1,0,,,,,,
+61515208,2026-05-03 11:30,SV 07 Elversberg,SC Paderborn 07,5,1,,,,,,
+61515210,2026-05-03 11:30,1. FC Magdeburg,Hertha BSC,1,0,,,,,,
+61515212,2026-05-03 11:30,Karlsruher SC,SV Darmstadt 98,2,1,,,,,,
+61515214,2026-05-03 11:30,Hannover 96,SC Preussen 06 Munster,3,3,,,,,,
+61515216,2026-05-03 11:30,Greuther Furth,1 FC Nuremberg,1,1,,,,,,
+61515228,2026-05-08 16:30,SC Paderborn 07,Karlsruher SC,2,2,,,,,,
+61515232,2026-05-08 16:30,1 FC Kaiserslautern,Arminia Bielefeld,3,0,,,,,,
+61515224,2026-05-09 11:00,Holstein Kiel,1. FC Magdeburg,1,3,,,,,,
+61515226,2026-05-09 11:00,VfL Bochum,Hannover 96,1,1,,,,,,
+61515240,2026-05-09 11:00,Eintracht Braunschweig,Dynamo Dresden,2,1,,,,,,
+61515234,2026-05-09 18:30,1 FC Nuremberg,Schalke 04,3,0,,,,,,
+61515230,2026-05-10 11:30,Fortuna Dusseldorf,SV 07 Elversberg,3,1,,,,,,
+61515236,2026-05-10 11:30,Hertha BSC,Greuther Furth,2,1,,,,,,
+61515238,2026-05-10 11:30,SC Preussen 06 Munster,SV Darmstadt 98,1,1,,,,,,
+61515242,2026-05-17 13:30,SV 07 Elversberg,SC Preussen 06 Munster,3,0,1.222,7.000,9.500,3.75,1.975,1.825
+61515244,2026-05-17 13:30,1. FC Magdeburg,1 FC Kaiserslautern,0,1,1.480,5.000,5.250,3.5,1.900,1.900
+61515246,2026-05-17 13:30,Karlsruher SC,VfL Bochum,1,2,2.450,3.800,2.450,3.5,1.850,1.950
+61515248,2026-05-17 13:30,Hannover 96,1 FC Nuremberg,3,3,1.500,4.333,5.500,3.25,2.025,1.775
+61515250,2026-05-17 13:30,SV Darmstadt 98,SC Paderborn 07,0,2,3.600,4.000,1.900,3.25,1.875,1.925
+61515252,2026-05-17 13:30,Greuther Furth,Fortuna Dusseldorf,4,0,2.050,3.800,3.250,3.25,2.000,1.800
+61515254,2026-05-17 13:30,Schalke 04,Eintracht Braunschweig,1,0,1.727,3.800,4.500,3,1.850,1.950
+61515256,2026-05-17 13:30,Arminia Bielefeld,Hertha BSC,6,1,1.666,3.900,4.750,3,1.900,1.900
+61515258,2026-05-17 13:30,Dynamo Dresden,Holstein Kiel,2,1,1.750,4.100,4.000,3.25,2.000,1.800
+71443812,2026-05-22 18:30,Rot-Weiss Essen,Greuther Furth,1,0,2.375,3.400,2.800,2.5,1.800,2.000
+71443814,2026-05-26 18:30,Greuther Furth,Rot-Weiss Essen,2,1,1.750,4.200,4.000,2.75,1.850,1.950
+72513778,2026-08-07 18:30,VfL Bochum,Hertha BSC,0,1,2.200,3.500,3.100,2.75,1.825,1.975
+72513784,2026-08-08 11:00,1. FC Heidenheim,VfL 1899 Osnabruck,4,3,1.666,3.900,4.750,2.75,1.850,1.950
+72513786,2026-08-08 11:00,SV Darmstadt 98,Holstein Kiel,2,2,2.250,3.500,3.000,2.75,1.775,2.025
+72513790,2026-08-08 11:00,Karlsruher SC,Arminia Bielefeld,2,1,2.875,3.600,2.300,3,1.900,1.900
+72513792,2026-08-08 11:00,1. FC Magdeburg,Eintracht Braunschweig,1,6,1.750,3.800,4.333,2.75,1.850,1.950
+72513780,2026-08-08 18:30,VFL Wolfsburg,1 FC Kaiserslautern,0,0,1.571,4.333,5.000,3.25,1.900,1.900
+72513782,2026-08-09 11:30,FC St. Pauli,Greuther Furth,1,1,1.615,4.000,4.750,3,2.025,1.775
+72513788,2026-08-09 11:30,1 FC Nuremberg,Dynamo Dresden,3,0,2.550,3.100,2.800,2.75,1.975,1.825
+72513794,2026-08-09 11:30,Energie Cottbus,Hannover 96,3,1,3.100,3.500,2.150,3,1.850,1.950
+72513804,2026-08-14 16:30,Holstein Kiel,FC St. Pauli,2,2,2.625,3.400,2.550,2.75,1.900,1.900
+72513808,2026-08-14 16:30,Eintracht Braunschweig,VfL Bochum,0,1,2.500,3.500,2.600,2.75,1.800,2.000
+72513800,2026-08-15 11:00,Hertha BSC,1. FC Heidenheim,4,1,2.700,3.500,2.450,3,1.850,1.950
+72513810,2026-08-15 11:00,Greuther Furth,1 FC Nuremberg,2,4,3.000,3.500,2.250,2.75,1.800,2.000
+72513812,2026-08-15 11:00,VfL 1899 Osnabruck,1. FC Magdeburg,0,3,2.450,3.500,2.700,3,1.900,1.900
+72513798,2026-08-15 18:30,1 FC Kaiserslautern,Karlsruher SC,0,0,2.000,3.750,3.400,3,1.900,1.900
+72513796,2026-08-16 11:30,Hannover 96,VFL Wolfsburg,0,1,2.250,3.700,2.875,3.25,1.975,1.825
+72513802,2026-08-16 11:30,Dynamo Dresden,SV Darmstadt 98,1,0,2.000,3.700,3.400,3,1.975,1.825
+72513806,2026-08-16 11:30,Arminia Bielefeld,Energie Cottbus,3,0,1.571,4.333,5.250,3.25,2.025,1.775
+72513822,2026-08-28 16:30,VfL Bochum,VfL 1899 Osnabruck,0,1,1.850,3.600,4.000,2.75,1.825,1.975
+72513828,2026-08-28 16:30,Eintracht Braunschweig,Hertha BSC,3,5,2.750,3.500,2.400,3,1.925,1.875
+72513816,2026-08-29 11:00,1. FC Heidenheim,Dynamo Dresden,5,3,2.150,3.500,3.200,3,1.950,1.850
+72513824,2026-08-29 11:00,Karlsruher SC,VFL Wolfsburg,2,5,3.000,3.600,2.200,3,1.900,1.900
+72513830,2026-08-29 11:00,Energie Cottbus,Greuther Furth,3,4,2.450,3.700,2.625,3,1.950,1.850
+72513820,2026-08-29 18:30,1 FC Nuremberg,Arminia Bielefeld,4,1,2.300,3.600,2.875,3,2.000,1.800
+72513814,2026-08-30 11:30,FC St. Pauli,1 FC Kaiserslautern,1,2,1.800,3.750,4.100,2.75,1.850,1.950
+72513818,2026-08-30 11:30,SV Darmstadt 98,Hannover 96,0,1,3.000,3.600,2.200,3.25,1.975,1.825
+72513826,2026-08-30 11:30,1. FC Magdeburg,Holstein Kiel,2,0,2.100,3.750,3.100,3.25,1.900,1.900
+72513834,2026-09-04 16:30,Hannover 96,Karlsruher SC,2,2,1.480,4.750,5.250,3.75,1.925,1.875
+72513846,2026-09-04 16:30,Arminia Bielefeld,FC St. Pauli,2,2,2.350,3.400,2.625,3,2.000,1.800
+72513832,2026-09-05 11:00,VFL Wolfsburg,Energie Cottbus,4,4,1.363,5.000,6.250,3.5,1.825,1.975
+72513836,2026-09-05 11:00,1 FC Kaiserslautern,SV Darmstadt 98,3,0,2.250,3.400,2.900,2.75,1.900,1.900
+72513844,2026-09-05 11:00,Holstein Kiel,1 FC Nuremberg,2,2,2.050,3.600,3.200,3.25,1.950,1.850
+72513840,2026-09-05 18:30,Dynamo Dresden,VfL Bochum,1,2,2.150,3.300,3.000,2.75,2.000,1.800
+72513838,2026-09-06 11:30,Hertha BSC,1. FC Magdeburg,2,1,1.900,3.800,3.500,3.75,1.975,1.825
+72513848,2026-09-06 11:30,Greuther Furth,1. FC Heidenheim,0,1,3.000,3.750,2.050,3.25,1.850,1.950
+72513850,2026-09-06 11:30,VfL 1899 Osnabruck,Eintracht Braunschweig,3,1,2.150,3.400,3.000,3,2.025,1.775
+72513856,2026-09-11 16:30,SV Darmstadt 98,Arminia Bielefeld,2,1,3.100,3.400,2.200,2.75,1.875,1.925
+72513858,2026-09-11 16:30,1 FC Nuremberg,Hannover 96,2,1,2.500,3.700,2.550,3.5,1.850,1.950
+72513860,2026-09-12 11:00,VfL Bochum,Greuther Furth,1,1,1.700,3.900,4.333,3,1.975,1.825
+72513864,2026-09-12 11:00,1. FC Magdeburg,1 FC Kaiserslautern,3,0,2.100,3.700,3.200,3,1.850,1.950
+72513866,2026-09-12 11:00,Eintracht Braunschweig,Dynamo Dresden,2,2,2.800,3.400,2.450,3,1.850,1.950
+72513852,2026-09-12 18:30,FC St. Pauli,VFL Wolfsburg,1,0,2.500,3.500,2.600,3,2.000,1.800
+72513854,2026-09-13 11:30,1. FC Heidenheim,Holstein Kiel,1,0,2.100,3.500,3.100,3.25,1.975,1.825
+72513862,2026-09-13 11:30,Karlsruher SC,Energie Cottbus,0,3,1.850,4.000,3.500,3.5,1.800,1.909
+72513868,2026-09-13 11:30,VfL 1899 Osnabruck,Hertha BSC,1,3,3.100,3.700,2.100,3.25,1.900,1.900
+72513870,2026-09-18 16:30,VFL Wolfsburg,SV Darmstadt 98,5,1,1.500,4.333,5.500,3.25,1.825,1.975
+72513884,2026-09-18 16:30,Greuther Furth,1. FC Magdeburg,1,1,2.450,3.600,2.550,3.25,2.000,1.800
+72513874,2026-09-19 11:00,1 FC Kaiserslautern,Eintracht Braunschweig,1,0,1.900,3.700,3.600,3,1.900,1.900
+72513876,2026-09-19 11:00,Karlsruher SC,1 FC Nuremberg,0,1,2.900,4.000,2.100,3.5,1.800,2.000
+72513880,2026-09-19 11:00,Holstein Kiel,VfL 1899 Osnabruck,1,1,1.750,3.800,4.000,3,1.950,1.850
+72513878,2026-09-19 18:30,Dynamo Dresden,Hertha BSC,1,2,2.450,3.700,2.500,3.25,1.875,1.925
+72513872,2026-09-20 11:30,Hannover 96,VfL Bochum,2,1,1.909,3.800,3.400,3.25,1.950,1.850
+72513882,2026-09-20 11:30,Arminia Bielefeld,1. FC Heidenheim,2,2,1.900,3.750,3.500,3.25,2.025,1.775
+72513886,2026-09-20 11:30,Energie Cottbus,FC St. Pauli,1,1,3.100,3.800,2.050,3.25,1.800,2.000
+72513890,2026-10-09 16:30,1. FC Heidenheim,1 FC Kaiserslautern,0,0,2.000,3.900,3.200,3.25,2.000,1.800
+72513902,2026-10-09 16:30,Eintracht Braunschweig,Holstein Kiel,1,0,2.750,3.750,2.250,3.25,1.925,1.875
+72513892,2026-10-10 11:00,SV Darmstadt 98,Energie Cottbus,3,1,2.050,3.700,3.100,3.5,1.850,1.950
+72513900,2026-10-10 11:00,1. FC Magdeburg,Hannover 96,3,0,2.250,3.700,2.750,3.25,1.975,1.825
+72513904,2026-10-10 11:00,VfL 1899 Osnabruck,Dynamo Dresden,1,1,2.400,3.500,2.625,2.75,1.800,2.000
+72513896,2026-10-10 18:30,1 FC Nuremberg,VFL Wolfsburg,4,4,2.300,3.800,2.550,3.25,1.950,1.850
+72513888,2026-10-11 11:30,FC St. Pauli,Karlsruher SC,2,0,1.666,4.000,4.333,3,1.950,1.850
+72513894,2026-10-11 11:30,Hertha BSC,Greuther Furth,2,1,1.500,4.333,5.250,3.5,1.950,1.850
+72513898,2026-10-11 11:30,VfL Bochum,Arminia Bielefeld,0,1,2.050,3.500,3.300,2.75,1.950,1.850
+72513916,2026-10-16 16:30,Holstein Kiel,Hertha BSC,0,0,2.900,3.800,2.150,3.25,1.850,1.950
+72513922,2026-10-16 16:30,Energie Cottbus,1 FC Nuremberg,1,1,3.300,4.100,1.900,3.75,1.925,1.875
+72513906,2026-10-17 11:00,VFL Wolfsburg,1. FC Heidenheim,3,1,1.666,4.200,4.200,3.5,1.850,1.950
+72513910,2026-10-17 11:00,1 FC Kaiserslautern,VfL Bochum,2,0,2.150,3.500,3.000,2.75,1.875,1.925
+72513920,2026-10-17 11:00,Greuther Furth,Eintracht Braunschweig,2,0,2.100,3.600,3.100,3,1.850,1.950
+72513908,2026-10-17 18:30,Hannover 96,FC St. Pauli,1,1,,,,,,
+72513912,2026-10-18 11:30,Karlsruher SC,SV Darmstadt 98,4,0,2.250,3.600,2.800,3,1.975,1.825
+72513914,2026-10-18 11:30,Dynamo Dresden,1. FC Magdeburg,2,0,2.500,3.500,2.500,3,1.975,1.825
+72513918,2026-10-18 11:30,Arminia Bielefeld,VfL 1899 Osnabruck,2,1,1.900,3.400,3.900,2.75,1.975,1.825
+72513926,2026-10-23 16:30,SV Darmstadt 98,FC St. Pauli,0,0,2.800,3.500,2.250,2.5,1.825,1.975
+72513932,2026-10-23 16:30,VfL Bochum,VFL Wolfsburg,1,1,2.900,3.750,2.150,3.5,1.975,1.825
+72513924,2026-10-24 11:00,1. FC Heidenheim,Energie Cottbus,1,1,1.444,4.750,5.750,3.5,1.825,1.975
+72513928,2026-10-24 11:00,Hertha BSC,Arminia Bielefeld,1,0,1.800,3.800,3.900,3,1.900,1.900
+72513936,2026-10-24 11:00,1. FC Magdeburg,Karlsruher SC,6,1,1.750,3.750,4.000,3,1.775,2.025
+72513930,2026-10-24 18:30,1 FC Nuremberg,1 FC Kaiserslautern,0,1,2.100,3.600,3.200,3,1.900,1.900
+72513934,2026-10-25 12:30,Holstein Kiel,Dynamo Dresden,3,0,2.200,3.600,2.875,3,1.950,1.850
+72513938,2026-10-25 12:30,Eintracht Braunschweig,Hannover 96,2,0,3.000,3.500,2.200,3,1.975,1.825
+72513940,2026-10-25 12:30,VfL 1899 Osnabruck,Greuther Furth,3,0,2.150,3.600,3.000,2.75,1.850,1.950
+72513954,2026-10-30 17:30,Arminia Bielefeld,Eintracht Braunschweig,3,1,1.909,3.700,3.500,3,2.000,1.800
+72513958,2026-10-30 17:30,Energie Cottbus,VfL Bochum,1,2,3.100,3.900,2.050,3.25,1.875,1.925
+72513942,2026-10-31 12:00,VFL Wolfsburg,VfL 1899 Osnabruck,2,0,1.550,4.333,5.000,3.5,1.850,1.950
+72513948,2026-10-31 12:00,SV Darmstadt 98,1. FC Magdeburg,1,1,2.900,3.600,2.250,3,1.900,1.900
+72513950,2026-10-31 12:00,1 FC Kaiserslautern,Hertha BSC,0,3,2.875,3.600,2.200,3,1.825,1.975
+72513952,2026-10-31 19:30,Karlsruher SC,1. FC Heidenheim,2,1,3.300,3.800,1.909,3.25,1.850,1.950
+72513944,2026-11-01 12:30,FC St. Pauli,1 FC Nuremberg,1,3,2.050,3.600,3.200,2.75,1.825,1.975
+72513946,2026-11-01 12:30,Hannover 96,Dynamo Dresden,2,1,1.900,3.700,3.700,3,1.900,1.900
+72513956,2026-11-01 12:30,Greuther Furth,Holstein Kiel,1,0,2.450,3.600,2.550,2.75,1.775,2.025
+72513968,2026-11-06 17:30,Dynamo Dresden,Greuther Furth,3,0,2.000,3.600,3.300,2.75,1.825,1.975
+72513974,2026-11-06 17:30,Eintracht Braunschweig,Energie Cottbus,0,0,1.900,3.800,3.500,3.25,1.900,1.900
+72513964,2026-11-07 12:00,1 FC Nuremberg,SV Darmstadt 98,2,0,1.650,4.200,4.500,3.25,1.975,1.825
+72513970,2026-11-07 12:00,Holstein Kiel,Arminia Bielefeld,1,2,2.500,3.500,2.600,2.5,1.850,1.950
+72513976,2026-11-07 12:00,VfL 1899 Osnabruck,1 FC Kaiserslautern,0,1,2.400,3.400,2.700,2.5,1.900,1.900
+72513962,2026-11-07 19:30,Hertha BSC,VFL Wolfsburg,2,1,2.050,3.900,3.100,3.5,1.900,1.900
+72513960,2026-11-08 12:30,1. FC Heidenheim,Hannover 96,2,2,1.850,4.000,3.500,3.25,1.950,1.850
+72513966,2026-11-08 12:30,VfL Bochum,Karlsruher SC,3,2,1.666,3.900,4.500,3,1.950,1.850
+72513972,2026-11-08 12:30,1. FC Magdeburg,FC St. Pauli,4,1,2.625,3.400,2.450,2.75,1.825,1.975

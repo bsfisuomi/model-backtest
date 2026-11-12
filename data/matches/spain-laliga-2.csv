@@ -1,633 +1,633 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-51103795,2025-05-24 16:30,Albacete Balompie,Racing Club de Ferrol,2,0,,,
-51103797,2025-05-25 16:30,Burgos CF,Levante UD,2,3,,,
-51103799,2025-05-25 16:30,Cadiz CF,SD Huesca,4,0,,,
-51103801,2025-05-25 16:30,Elche CF,Malaga CF,2,0,,,
-51103803,2025-05-25 16:30,Club Deportivo Eldense,Racing Santander,3,3,,,
-51103805,2025-05-25 16:30,CD Mirandes,UD Almeria,0,0,,,
-51103807,2025-05-25 16:30,Sporting Gijon,FC Cartagena,3,2,,,
-51103809,2025-05-25 16:30,Granada CF,CD Castellon,2,1,,,
-51103811,2025-05-25 16:30,SD Eibar,Cordoba CF,4,1,,,
-51103813,2025-05-25 16:30,Real Zaragoza,RC Deportivo De La Coruna,1,0,,,
-51103815,2025-05-25 16:30,Tenerife CD,Real Oviedo,0,1,,,
-51103821,2025-05-30 18:30,CD Castellon,Real Zaragoza,4,1,,,
-51103825,2025-05-31 14:15,Racing Club de Ferrol,Sporting Gijon,0,2,,,
-51103829,2025-05-31 16:30,Malaga CF,Burgos CF,2,2,,,
-51103817,2025-06-01 16:30,UD Almeria,Tenerife CD,2,0,,,
-51103819,2025-06-01 16:30,FC Cartagena,CD Mirandes,1,3,,,
-51103823,2025-06-01 16:30,RC Deportivo De La Coruna,Elche CF,0,4,,,
-51103831,2025-06-01 16:30,Real Oviedo,Cadiz CF,2,1,,,
-51103833,2025-06-01 16:30,Levante UD,SD Eibar,1,0,,,
-51103835,2025-06-01 16:30,SD Huesca,Club Deportivo Eldense,3,2,,,
-51103837,2025-06-01 16:30,Racing Santander,Granada CF,2,1,,,
-51103827,2025-06-01 19:00,Cordoba CF,Albacete Balompie,1,1,,,
-60969997,2025-06-07 19:00,UD Almeria,Real Oviedo,1,2,,,
-60969993,2025-06-08 16:30,Racing Santander,CD Mirandes,3,3,,,
-60969995,2025-06-11 19:00,Real Oviedo,UD Almeria,1,1,,,
-60969991,2025-06-12 19:00,CD Mirandes,Racing Santander,4,1,,,
-60970001,2025-06-15 17:00,CD Mirandes,Real Oviedo,1,0,,,
-60969999,2025-06-21 19:00,Real Oviedo,CD Mirandes,3,1,,,
-61622932,2025-08-15 19:30,Burgos CF,Cultural Leonesa,5,1,,,
-61622944,2025-08-15 19:30,Real Valladolid,AD Ceuta,3,0,,,
-61622942,2025-08-16 15:00,Racing Santander,CD Castellon,3,1,,,
-61622950,2025-08-16 17:30,Malaga CF,SD Eibar,1,1,,,
-61622948,2025-08-16 19:30,Granada CF,RC Deportivo De La Coruna,1,3,,,
-61622938,2025-08-17 15:00,Real Sociedad San Sebastian B,Real Zaragoza,1,0,,,
-61622934,2025-08-17 17:30,Cadiz CF,CD Mirandes,1,0,,,
-61622936,2025-08-17 19:30,SD Huesca,CD Leganes,1,1,,,
-61622952,2025-08-17 19:30,UD Las Palmas,FC Andorra,1,1,,,
-61622946,2025-08-18 17:00,Sporting Gijon,Cordoba CF,2,1,,,
-61622940,2025-08-18 19:30,UD Almeria,Albacete Balompie,4,4,,,
-61622962,2025-08-22 17:30,SD Eibar,Granada CF,3,0,,,
-61622956,2025-08-22 19:30,CD Castellon,Real Valladolid,0,1,,,
-61622968,2025-08-22 19:30,CD Leganes,Cadiz CF,1,1,,,
-61622970,2025-08-23 15:00,CD Mirandes,SD Huesca,0,1,,,
-61622958,2025-08-23 17:00,AD Ceuta,Sporting Gijon,0,1,,,
-61622974,2025-08-23 19:30,Real Zaragoza,FC Andorra,1,3,,,
-61622966,2025-08-24 15:00,RC Deportivo De La Coruna,Burgos CF,0,0,,,
-61622972,2025-08-24 17:30,Cultural Leonesa,UD Almeria,0,1,,,
-61622964,2025-08-24 19:30,Malaga CF,Real Sociedad San Sebastian B,1,0,,,
-61622954,2025-08-25 17:30,Albacete Balompie,Racing Santander,2,3,,,
-61622960,2025-08-25 19:30,Cordoba CF,UD Las Palmas,1,3,,,
-61622996,2025-08-29 17:30,Real Sociedad San Sebastian B,UD Almeria,2,2,,,
-61622994,2025-08-29 19:30,Sporting Gijon,Cultural Leonesa,1,0,,,
-61622986,2025-08-30 15:00,Racing Santander,AD Ceuta,4,1,,,
-61622988,2025-08-30 17:00,Real Valladolid,Cordoba CF,0,0,,,
-61622976,2025-08-30 19:30,CD Castellon,Real Zaragoza,1,1,,,
-61622982,2025-08-31 15:00,FC Andorra,Burgos CF,2,1,,,
-61622984,2025-08-31 15:00,Cadiz CF,Albacete Balompie,2,1,,,
-61622980,2025-08-31 17:30,UD Las Palmas,Malaga CF,0,1,,,
-61622978,2025-08-31 19:30,Granada CF,CD Mirandes,1,2,,,
-61622992,2025-09-01 17:30,SD Huesca,SD Eibar,2,1,,,
-61622990,2025-09-01 19:30,CD Leganes,RC Deportivo De La Coruna,2,2,,,
-61622998,2025-09-05 17:30,Albacete Balompie,CD Mirandes,1,4,,,
-61623010,2025-09-05 19:30,Cordoba CF,CD Castellon,2,1,,,
-61623004,2025-09-06 14:15,RC Deportivo De La Coruna,Sporting Gijon,1,0,,,
-61623016,2025-09-06 16:30,Real Zaragoza,Real Valladolid,1,1,,,
-61623012,2025-09-06 19:00,Malaga CF,Granada CF,2,2,,,
-61623002,2025-09-07 12:00,AD Ceuta,SD Huesca,2,1,,,
-61623000,2025-09-07 14:15,Burgos CF,UD Las Palmas,0,0,,,
-61623008,2025-09-07 14:15,Real Sociedad San Sebastian B,Cadiz CF,3,3,,,
-61623006,2025-09-07 16:30,UD Almeria,Racing Santander,2,3,,,
-61623014,2025-09-07 16:30,Cultural Leonesa,CD Leganes,0,0,,,
-61623018,2025-09-08 18:30,SD Eibar,FC Andorra,2,0,,,
-61623028,2025-09-12 18:30,UD Las Palmas,Real Sociedad San Sebastian B,2,1,,,
-61623020,2025-09-13 14:15,Cadiz CF,SD Eibar,1,0,,,
-61623036,2025-09-13 14:15,CD Mirandes,RC Deportivo De La Coruna,1,5,,,
-61623026,2025-09-13 16:30,SD Huesca,Malaga CF,1,0,,,
-61623040,2025-09-13 19:00,Real Valladolid,UD Almeria,3,1,,,
-61623030,2025-09-14 12:00,FC Andorra,Cordoba CF,3,1,,,
-61623038,2025-09-14 14:15,Racing Santander,Cultural Leonesa,2,4,,,
-61623022,2025-09-14 16:30,CD Castellon,AD Ceuta,3,3,,,
-61623034,2025-09-14 16:30,Sporting Gijon,Burgos CF,2,3,,,
-61623024,2025-09-14 19:00,Granada CF,CD Leganes,0,2,,,
-61623032,2025-09-15 18:30,Real Zaragoza,Albacete Balompie,0,0,,,
-61623050,2025-09-19 18:30,RC Deportivo De La Coruna,SD Huesca,4,0,,,
-61623062,2025-09-20 14:15,Cultural Leonesa,CD Castellon,1,3,,,
-61623054,2025-09-20 16:30,CD Leganes,UD Las Palmas,0,1,,,
-61623058,2025-09-20 16:30,FC Andorra,CD Mirandes,1,1,,,
-61623056,2025-09-20 19:00,UD Almeria,Sporting Gijon,2,1,,,
-61623046,2025-09-21 12:00,AD Ceuta,Real Zaragoza,1,0,,,
-61623042,2025-09-21 14:15,Albacete Balompie,Real Valladolid,2,0,,,
-61623052,2025-09-21 16:30,SD Eibar,Real Sociedad San Sebastian B,2,1,,,
-61623060,2025-09-21 16:30,Malaga CF,Cadiz CF,0,1,,,
-61623048,2025-09-21 19:00,Cordoba CF,Racing Santander,2,2,,,
-61623044,2025-09-22 18:30,Burgos CF,Granada CF,1,1,,,
-61623068,2025-09-26 18:30,CD Mirandes,Real Zaragoza,0,1,,,
-61623076,2025-09-27 16:30,SD Eibar,RC Deportivo De La Coruna,1,1,,,
-61623084,2025-09-27 16:30,Racing Santander,FC Andorra,1,2,,,
-61623082,2025-09-27 19:00,UD Las Palmas,UD Almeria,0,1,,,
-61623074,2025-09-28 12:00,Real Sociedad San Sebastian B,Cordoba CF,1,1,,,
-61623064,2025-09-28 14:15,Burgos CF,Malaga CF,2,1,,,
-61623066,2025-09-28 14:15,Cadiz CF,AD Ceuta,0,0,,,
-61623070,2025-09-28 16:30,Sporting Gijon,Albacete Balompie,3,4,,,
-61623080,2025-09-28 16:30,Real Valladolid,Cultural Leonesa,0,1,,,
-61623078,2025-09-28 19:00,SD Huesca,Granada CF,0,1,,,
-61623072,2025-09-29 18:30,CD Leganes,CD Castellon,0,1,,,
-61623088,2025-10-03 18:30,AD Ceuta,SD Eibar,1,0,,,
-61623104,2025-10-04 14:15,RC Deportivo De La Coruna,UD Almeria,1,1,,,
-61623092,2025-10-04 16:30,FC Andorra,CD Leganes,1,2,,,
-61623096,2025-10-04 16:30,SD Huesca,Burgos CF,2,1,,,
-61623090,2025-10-04 19:00,Granada CF,Real Sociedad San Sebastian B,5,2,,,
-61623100,2025-10-05 12:00,Real Zaragoza,Cordoba CF,0,1,,,
-61623086,2025-10-05 14:15,CD Castellon,Sporting Gijon,3,1,,,
-61623102,2025-10-05 16:30,Racing Santander,Malaga CF,3,0,,,
-61623106,2025-10-05 16:30,Real Valladolid,CD Mirandes,1,1,,,
-61623098,2025-10-05 19:00,UD Las Palmas,Cadiz CF,1,0,,,
-61623094,2025-10-06 18:30,Cultural Leonesa,Albacete Balompie,0,0,,,
-61623116,2025-10-10 18:30,Granada CF,UD Las Palmas,0,0,,,
-61623124,2025-10-11 14:15,CD Mirandes,CD Leganes,0,0,,,
-61623118,2025-10-11 16:30,UD Almeria,Real Zaragoza,4,2,,,
-61623128,2025-10-11 16:30,Real Sociedad San Sebastian B,FC Andorra,3,0,,,
-61623108,2025-10-12 12:00,Albacete Balompie,AD Ceuta,0,0,,,
-61623120,2025-10-12 14:15,SD Eibar,CD Castellon,0,0,,,
-61623126,2025-10-12 14:15,Sporting Gijon,Racing Santander,2,1,,,
-61623110,2025-10-12 16:30,Burgos CF,Real Valladolid,0,1,,,
-61623112,2025-10-12 16:30,Cadiz CF,SD Huesca,1,0,,,
-61623122,2025-10-12 19:00,Malaga CF,RC Deportivo De La Coruna,3,0,,,
-61623114,2025-10-13 18:30,Cordoba CF,Cultural Leonesa,1,0,,,
-61623134,2025-10-17 18:30,FC Andorra,Granada CF,0,0,,,
-61623130,2025-10-18 14:15,AD Ceuta,CD Mirandes,2,0,,,
-61623146,2025-10-18 16:30,Real Zaragoza,Cultural Leonesa,0,5,,,
-61623132,2025-10-19 12:00,CD Leganes,Malaga CF,2,0,,,
-61623136,2025-10-19 14:15,CD Castellon,Albacete Balompie,0,1,,,
-61623148,2025-10-19 14:15,Real Valladolid,Sporting Gijon,2,3,,,
-61623140,2025-10-19 16:30,Racing Santander,RC Deportivo De La Coruna,2,1,,,
-61623150,2025-10-19 16:30,Cordoba CF,UD Almeria,1,1,,,
-61623142,2025-10-19 19:00,UD Las Palmas,SD Eibar,3,1,,,
-61623138,2025-10-20 18:30,Cadiz CF,Burgos CF,1,3,,,
-61623160,2025-10-24 18:30,SD Huesca,UD Las Palmas,1,1,,,
-61623170,2025-10-25 12:00,Cultural Leonesa,AD Ceuta,0,1,,,
-61623152,2025-10-25 14:15,Albacete Balompie,Cordoba CF,1,3,,,
-61623158,2025-10-25 14:15,SD Eibar,CD Leganes,0,0,,,
-61623154,2025-10-25 16:30,Burgos CF,Real Sociedad San Sebastian B,1,0,,,
-61623168,2025-10-25 16:30,Granada CF,Cadiz CF,0,0,,,
-61623166,2025-10-25 19:00,CD Mirandes,Racing Santander,1,3,,,
-61623172,2025-10-26 13:00,Malaga CF,FC Andorra,4,1,,,
-61623162,2025-10-26 17:30,Sporting Gijon,Real Zaragoza,1,0,,,
-61623164,2025-10-26 17:30,UD Almeria,CD Castellon,1,0,,,
-61623156,2025-10-26 20:00,RC Deportivo De La Coruna,Real Valladolid,1,1,,,
-61623180,2025-10-31 19:30,Racing Santander,Real Sociedad San Sebastian B,1,0,,,
-61623178,2025-11-01 15:15,Cultural Leonesa,CD Mirandes,3,2,,,
-61623174,2025-11-01 17:30,Albacete Balompie,SD Huesca,2,1,,,
-61623186,2025-11-01 17:30,CD Leganes,Burgos CF,1,2,,,
-61623182,2025-11-01 20:00,UD Almeria,SD Eibar,3,1,,,
-61623184,2025-11-02 13:00,FC Andorra,Cadiz CF,0,0,,,
-61623188,2025-11-02 15:15,Cordoba CF,AD Ceuta,2,0,,,
-61623194,2025-11-02 15:15,Sporting Gijon,UD Las Palmas,0,0,,,
-61623176,2025-11-02 17:30,CD Castellon,Malaga CF,2,1,,,
-61623190,2025-11-02 20:00,Real Zaragoza,RC Deportivo De La Coruna,0,2,,,
-61623192,2025-11-03 19:30,Real Valladolid,Granada CF,2,1,,,
-64817558,2025-11-05 19:00,Real Sociedad San Sebastian B,SD Huesca,2,0,,,
-61623206,2025-11-07 19:30,CD Mirandes,Sporting Gijon,2,1,,,
-61623212,2025-11-08 13:00,Real Sociedad San Sebastian B,CD Leganes,2,1,,,
-61623208,2025-11-08 15:15,SD Eibar,Albacete Balompie,3,2,,,
-61623216,2025-11-08 15:15,SD Huesca,FC Andorra,2,2,,,
-61623200,2025-11-08 17:30,RC Deportivo De La Coruna,Cultural Leonesa,3,0,,,
-61623210,2025-11-08 20:00,Malaga CF,Cordoba CF,2,2,,,
-61623204,2025-11-09 13:00,UD Las Palmas,Racing Santander,3,1,,,
-61623202,2025-11-09 17:30,Granada CF,Real Zaragoza,3,1,,,
-61623198,2025-11-09 20:00,Cadiz CF,Real Valladolid,0,0,,,
-61623196,2025-11-10 19:30,Burgos CF,CD Castellon,0,0,,,
-61623238,2025-11-14 19:30,Real Valladolid,UD Las Palmas,0,1,,,
-61623218,2025-11-15 15:00,Albacete Balompie,FC Andorra,1,0,,,
-61623220,2025-11-15 15:00,CD Castellon,Real Sociedad San Sebastian B,5,4,,,
-61623234,2025-11-15 20:00,Racing Santander,Granada CF,2,2,,,
-61623222,2025-11-16 13:00,AD Ceuta,CD Leganes,1,2,,,
-61623228,2025-11-16 15:15,UD Almeria,Cadiz CF,3,0,,,
-61623232,2025-11-16 15:15,Sporting Gijon,SD Eibar,1,1,,,
-61623224,2025-11-16 17:30,Cordoba CF,RC Deportivo De La Coruna,1,3,,,
-61623230,2025-11-16 17:30,CD Mirandes,Burgos CF,0,2,,,
-61623236,2025-11-16 20:00,Real Zaragoza,SD Huesca,1,0,,,
-61623226,2025-11-17 19:30,Cultural Leonesa,Malaga CF,1,0,,,
-61623254,2025-11-21 19:30,UD Las Palmas,Albacete Balompie,2,1,,,
-61623250,2025-11-22 15:15,FC Andorra,CD Castellon,1,3,,,
-61623244,2025-11-22 17:30,SD Eibar,Real Zaragoza,1,2,,,
-61623260,2025-11-22 17:30,CD Leganes,UD Almeria,0,3,,,
-61623258,2025-11-22 20:00,Granada CF,Cordoba CF,1,1,,,
-61623256,2025-11-23 13:00,RC Deportivo De La Coruna,AD Ceuta,2,1,,,
-61623242,2025-11-23 15:15,Cadiz CF,Cultural Leonesa,1,2,,,
-61623246,2025-11-23 15:15,SD Huesca,Sporting Gijon,2,0,,,
-61623240,2025-11-23 17:30,Burgos CF,Racing Santander,0,2,,,
-61623248,2025-11-23 20:00,Malaga CF,CD Mirandes,3,2,,,
-61623252,2025-11-24 19:30,Real Sociedad San Sebastian B,Real Valladolid,1,0,,,
-61623214,2025-11-26 18:00,AD Ceuta,UD Almeria,3,2,,,
-65843018,2025-11-26 18:00,AD Ceuta,UD Almeria,3,2,,,
-61623282,2025-11-28 19:30,Sporting Gijon,FC Andorra,1,1,,,
-61623270,2025-11-29 13:00,AD Ceuta,Burgos CF,1,0,,,
-61623276,2025-11-29 15:15,Cultural Leonesa,Granada CF,0,1,,,
-61623262,2025-11-29 17:30,Albacete Balompie,RC Deportivo De La Coruna,0,2,,,
-61623266,2025-11-29 17:30,UD Almeria,SD Huesca,0,0,,,
-61623280,2025-11-29 20:00,Real Valladolid,Malaga CF,1,1,,,
-61623278,2025-11-30 13:00,Real Zaragoza,CD Leganes,3,2,,,
-61623274,2025-11-30 15:15,Racing Santander,SD Eibar,4,0,,,
-61623268,2025-11-30 17:30,CD Mirandes,Real Sociedad San Sebastian B,1,0,,,
-61623272,2025-11-30 17:30,Cordoba CF,Cadiz CF,1,2,,,
-61623264,2025-11-30 20:00,CD Castellon,UD Las Palmas,1,0,,,
-61623304,2025-12-06 13:00,FC Andorra,UD Almeria,1,2,,,
-61623288,2025-12-06 15:15,SD Huesca,Real Valladolid,1,4,,,
-61623294,2025-12-06 17:30,Real Sociedad San Sebastian B,Sporting Gijon,0,1,,,
-61623284,2025-12-07 13:00,Cadiz CF,Racing Santander,2,3,,,
-61623302,2025-12-07 15:15,CD Leganes,Cordoba CF,0,0,,,
-61623286,2025-12-07 17:30,SD Eibar,Cultural Leonesa,1,2,,,
-61623298,2025-12-07 17:30,RC Deportivo De La Coruna,CD Castellon,1,3,,,
-61623300,2025-12-07 20:00,Granada CF,AD Ceuta,1,1,,,
-61623296,2025-12-08 15:15,Burgos CF,Albacete Balompie,0,1,,,
-61623290,2025-12-08 17:30,UD Las Palmas,CD Mirandes,0,0,1.533,3.800,6.500
-61623292,2025-12-08 19:30,Malaga CF,Real Zaragoza,1,1,2.050,3.200,3.600
-61623322,2025-12-12 19:30,Cultural Leonesa,SD Huesca,0,2,2.200,2.875,3.800
-61623312,2025-12-13 13:00,Cordoba CF,SD Eibar,0,0,2.250,3.200,3.250
-61623320,2025-12-13 15:15,Sporting Gijon,Granada CF,1,0,2.200,3.100,3.500
-61623326,2025-12-13 15:15,Real Valladolid,FC Andorra,0,1,1.533,4.200,5.500
-61623324,2025-12-13 17:30,Racing Santander,CD Leganes,1,1,1.600,4.200,4.750
-61623314,2025-12-13 20:00,RC Deportivo La Coruna,Real Sociedad San Sebastian B,0,3,1.480,4.333,6.000
-61623318,2025-12-13 20:00,Real Zaragoza,Cadiz CF,1,2,2.150,3.000,3.700
-61623306,2025-12-14 15:15,Albacete Balompie,Malaga CF,1,3,1.850,3.400,4.333
-61623316,2025-12-14 17:30,UD Almeria,Burgos CF,1,2,1.727,3.500,4.750
-61623310,2025-12-14 20:00,AD Ceuta,UD Las Palmas,1,1,2.700,3.000,2.750
-61623308,2025-12-15 19:30,CD Castellon,CD Mirandes,3,1,1.333,4.750,8.500
-61623332,2025-12-19 19:30,SD Eibar,Real Valladolid,3,0,2.300,2.900,3.500
-61623338,2025-12-20 13:00,FC Andorra,RC Deportivo La Coruna,1,0,2.500,3.300,2.750
-61623334,2025-12-20 15:15,SD Huesca,Racing Santander,1,1,2.700,3.200,2.700
-61623336,2025-12-20 17:30,CD Leganes,Sporting Gijon,0,1,2.450,3.100,3.100
-61623346,2025-12-20 20:00,UD Las Palmas,Cultural Leonesa,4,0,1.666,3.500,5.750
-61623348,2025-12-21 13:00,Malaga CF,UD Almeria,2,1,2.875,3.250,2.500
-61623342,2025-12-21 15:15,Real Sociedad San Sebastian B,AD Ceuta,1,3,2.800,3.000,2.700
-61623344,2025-12-21 15:15,CD Mirandes,Cordoba CF,1,2,3.100,3.200,2.350
-61623328,2025-12-21 17:30,Burgos CF,Real Zaragoza,1,1,2.100,3.000,4.100
-61623340,2025-12-21 17:30,Granada CF,Albacete Balompie,1,1,2.000,3.100,4.100
-61623330,2025-12-21 20:00,Cadiz CF,CD Castellon,2,0,3.800,3.500,1.950
-61623354,2026-01-02 19:30,SD Eibar,CD Mirandes,2,1,1.533,3.750,7.000
-61623356,2026-01-03 13:00,Cultural Leonesa,Real Sociedad San Sebastian B,1,1,1.750,3.500,4.750
-61623352,2026-01-03 15:15,CD Castellon,SD Huesca,4,1,1.444,4.100,8.000
-61623358,2026-01-03 15:15,UD Almeria,Granada CF,3,2,1.850,3.300,3.750
-61623368,2026-01-03 17:30,Real Valladolid,Racing Santander,1,1,1.950,3.500,3.700
-61623360,2026-01-03 20:00,Cordoba CF,Burgos CF,2,0,1.909,3.100,4.500
-61623366,2026-01-04 13:00,Sporting Gijon,Malaga CF,1,3,1.800,3.400,4.500
-61623370,2026-01-04 15:15,AD Ceuta,FC Andorra,2,1,1.950,3.500,3.800
-61623350,2026-01-04 17:30,Albacete Balompie,CD Leganes,1,3,2.300,3.200,3.100
-61623364,2026-01-04 17:30,Real Zaragoza,UD Las Palmas,1,2,2.800,2.900,2.700
-61623362,2026-01-04 20:00,RC Deportivo La Coruna,Cadiz CF,2,2,1.700,3.700,4.750
-61623374,2026-01-09 19:30,Cadiz CF,Sporting Gijon,3,2,2.700,3.100,2.700
-61623392,2026-01-10 13:00,CD Mirandes,UD Almeria,2,2,3.100,3.400,2.250
-61623380,2026-01-10 15:15,FC Andorra,Cultural Leonesa,1,1,2.000,3.500,3.600
-61623382,2026-01-10 15:15,Real Sociedad San Sebastian B,Albacete Balompie,0,0,2.600,3.400,2.600
-61623372,2026-01-10 17:30,Burgos CF,SD Eibar,1,0,2.750,2.700,3.100
-61623390,2026-01-10 17:30,UD Las Palmas,RC Deportivo La Coruna,1,1,1.950,3.200,4.200
-61623378,2026-01-10 20:00,Racing Santander,Real Zaragoza,2,3,1.700,3.900,4.750
-61623376,2026-01-11 13:00,CD Leganes,Real Valladolid,3,0,2.200,3.100,3.600
-61623384,2026-01-11 15:15,Granada CF,CD Castellon,0,0,3.200,3.400,2.200
-61623386,2026-01-11 15:15,Malaga CF,AD Ceuta,2,1,2.050,3.300,3.600
-61623388,2026-01-12 19:30,SD Huesca,Cordoba CF,1,2,2.600,2.900,3.000
-61623498,2026-01-16 19:30,CD Castellon,CD Leganes,2,0,1.533,4.333,5.500
-61623500,2026-01-17 13:00,AD Ceuta,Real Valladolid,0,3,2.450,3.000,3.100
-61623504,2026-01-17 15:15,Cultural Leonesa,Sporting Gijon,2,4,3.300,3.100,2.300
-61623514,2026-01-17 17:30,Real Zaragoza,Real Sociedad San Sebastian B,1,1,1.850,3.300,4.500
-61623506,2026-01-17 20:00,UD Almeria,RC Deportivo La Coruna,1,2,2.000,3.400,3.600
-61623512,2026-01-18 13:00,CD Mirandes,FC Andorra,1,2,2.700,3.200,2.600
-61623510,2026-01-18 15:15,Racing Santander,UD Las Palmas,4,1,2.200,3.250,3.250
-61623494,2026-01-18 17:30,Albacete Balompie,Cadiz CF,1,0,2.150,3.400,3.250
-61623496,2026-01-18 17:30,Burgos CF,SD Huesca,1,0,1.950,2.900,4.750
-61623502,2026-01-18 20:00,Cordoba CF,Malaga CF,0,1,2.050,3.300,3.500
-61623508,2026-01-19 19:30,Granada CF,SD Eibar,0,0,2.250,3.000,3.500
-61623528,2026-01-23 19:30,Malaga CF,Burgos CF,3,0,2.000,3.100,4.200
-61623526,2026-01-24 13:00,Real Valladolid,Albacete Balompie,0,1,1.950,3.200,4.200
-61623522,2026-01-24 15:15,CD Leganes,Real Sociedad San Sebastian B,2,0,1.900,3.300,4.333
-61623532,2026-01-24 17:30,UD Las Palmas,Cordoba CF,1,2,1.909,3.400,4.000
-61623536,2026-01-24 17:30,Sporting Gijon,CD Mirandes,3,0,1.650,3.900,5.250
-61623516,2026-01-24 20:00,Cadiz CF,Granada CF,1,2,2.625,3.000,2.900
-61623524,2026-01-25 13:00,FC Andorra,SD Huesca,1,1,1.909,3.400,4.200
-61623534,2026-01-25 15:15,SD Eibar,UD Almeria,1,0,2.250,3.300,3.200
-61623530,2026-01-25 17:30,Real Zaragoza,CD Castellon,0,0,3.900,3.400,1.950
-61623520,2026-01-25 20:00,RC Deportivo La Coruna,Racing Santander,0,1,2.000,3.300,3.800
-61623518,2026-01-26 19:30,AD Ceuta,Cultural Leonesa,3,1,2.050,3.400,3.500
-61623554,2026-01-30 19:30,Real Sociedad San Sebastian B,UD Las Palmas,1,1,2.800,3.250,2.550
-61623538,2026-01-31 15:15,Albacete Balompie,Real Zaragoza,2,0,1.850,3.400,4.100
-61623540,2026-01-31 15:15,Burgos CF,CD Leganes,2,1,2.300,2.800,3.600
-61623552,2026-01-31 17:30,Cultural Leonesa,RC Deportivo De La Coruna,0,1,3.400,3.000,2.300
-61623542,2026-01-31 20:00,Cordoba CF,Real Valladolid,3,1,1.850,3.500,4.100
-61623548,2026-02-01 13:00,UD Almeria,AD Ceuta,4,2,1.800,3.500,4.333
-61623544,2026-02-01 15:15,SD Eibar,Sporting Gijon,1,0,2.100,3.100,3.700
-61623550,2026-02-01 17:30,SD Huesca,Cadiz CF,1,0,2.375,3.100,3.100
-61623558,2026-02-01 17:30,CD Castellon,FC Andorra,2,0,1.400,4.200,6.000
-61623546,2026-02-01 20:00,Granada CF,Racing Santander,1,0,2.400,3.200,3.000
-61623556,2026-02-02 19:30,CD Mirandes,Malaga CF,2,1,3.000,2.900,2.550
-61623572,2026-02-06 19:30,CD Leganes,Granada CF,1,0,2.300,3.000,3.400
-61623562,2026-02-07 13:00,FC Andorra,Real Sociedad San Sebastian B,1,2,1.615,3.800,5.250
-61623566,2026-02-07 15:15,UD Las Palmas,Burgos CF,0,0,1.900,3.100,4.750
-61623570,2026-02-07 17:30,Real Zaragoza,SD Eibar,1,1,3.500,3.000,2.250
-61623568,2026-02-08 13:00,Real Valladolid,CD Castellon,0,4,3.100,3.300,2.250
-61623564,2026-02-08 15:15,RC Deportivo De La Coruna,Albacete Balompie,2,1,1.666,3.900,4.750
-61623578,2026-02-08 15:15,Cadiz CF,UD Almeria,1,2,2.800,3.400,2.400
-61623574,2026-02-08 17:30,Sporting Gijon,SD Huesca,2,1,1.850,3.250,4.500
-61623576,2026-02-08 20:00,Malaga CF,Cultural Leonesa,2,1,1.750,3.500,4.750
-61623580,2026-02-09 19:30,Racing Santander,CD Mirandes,1,0,1.615,4.100,5.000
-61623596,2026-02-13 19:30,UD Almeria,FC Andorra,3,2,1.727,4.000,4.200
-61623588,2026-02-14 13:00,Cordoba CF,CD Leganes,2,1,1.850,3.500,4.100
-61623584,2026-02-14 15:15,Burgos CF,Cadiz CF,1,1,1.900,3.200,4.333
-61623594,2026-02-14 17:30,Cultural Leonesa,Real Zaragoza,0,0,2.150,3.250,3.400
-61623592,2026-02-14 20:00,Granada CF,Real Valladolid,5,1,2.050,3.100,4.100
-61623600,2026-02-15 13:00,CD Mirandes,UD Las Palmas,1,1,3.250,3.100,2.300
-61623590,2026-02-15 15:15,SD Eibar,Racing Santander,2,1,2.150,3.200,3.400
-61623598,2026-02-15 15:15,SD Huesca,AD Ceuta,2,0,2.150,3.000,3.700
-61623582,2026-02-15 17:30,Albacete Balompie,Sporting Gijon,1,1,2.050,3.300,3.600
-61623586,2026-02-15 20:00,CD Castellon,RC Deportivo De La Coruna,2,0,1.750,3.750,4.333
-61623602,2026-02-16 19:30,Real Sociedad San Sebastian B,Malaga CF,2,1,2.700,3.200,2.625
-61623606,2026-02-20 19:30,AD Ceuta,Granada CF,2,1,2.550,3.000,3.000
-61623612,2026-02-21 13:00,CD Leganes,Cultural Leonesa,1,1,1.833,3.400,4.333
-61623608,2026-02-21 15:15,RC Deportivo De La Coruna,SD Eibar,1,0,1.909,3.400,4.100
-61623610,2026-02-21 15:15,SD Huesca,CD Mirandes,1,2,2.050,2.900,4.200
-61623616,2026-02-21 17:30,UD Almeria,Cordoba CF,2,1,2.150,3.500,3.200
-61623624,2026-02-21 20:00,UD Las Palmas,CD Castellon,1,1,2.600,3.200,2.700
-61623614,2026-02-22 13:00,Sporting Gijon,Real Valladolid,2,2,2.050,3.250,3.600
-61623618,2026-02-22 15:15,FC Andorra,Real Zaragoza,2,1,1.833,3.600,4.200
-61623622,2026-02-22 17:30,Racing Santander,Burgos CF,1,0,2.050,3.300,3.600
-61623620,2026-02-22 20:00,Malaga CF,Albacete Balompie,1,0,1.950,3.400,3.900
-61623604,2026-02-23 19:30,Cadiz CF,Real Sociedad San Sebastian B,0,2,2.150,3.300,3.300
-68906304,2026-02-25 18:00,AD Ceuta,Cordoba CF,3,2,3.000,3.100,2.400
-61623626,2026-02-27 19:30,Albacete Balompie,UD Almeria,1,1,2.625,3.400,2.625
-61623634,2026-02-28 15:15,Real Zaragoza,Burgos CF,0,1,3.000,3.000,2.500
-61623630,2026-02-28 17:30,Granada CF,Malaga CF,0,1,2.200,3.000,3.600
-61623642,2026-02-28 17:30,Real Valladolid,SD Huesca,1,0,1.750,3.500,4.500
-61623628,2026-02-28 20:00,CD Castellon,Racing Santander,1,3,1.615,4.200,4.750
-61623640,2026-03-01 13:00,Real Sociedad San Sebastian B,RC Deportivo De La Coruna,2,3,3.200,3.300,2.250
-61623638,2026-03-01 15:15,CD Mirandes,AD Ceuta,0,1,2.300,3.100,3.400
-61623644,2026-03-01 15:15,Sporting Gijon,CD Leganes,0,0,1.900,3.500,4.000
-61623632,2026-03-01 17:30,Cultural Leonesa,UD Las Palmas,0,3,3.100,3.100,2.450
-61623636,2026-03-01 20:00,SD Eibar,Cadiz CF,3,1,1.650,3.700,5.500
-61623646,2026-03-02 19:30,Cordoba CF,FC Andorra,1,4,1.615,4.000,5.000
-61623650,2026-03-06 19:30,Cadiz CF,Real Zaragoza,0,1,,,
-61623660,2026-03-07 15:15,SD Huesca,Albacete Balompie,0,0,,,
-61623662,2026-03-07 15:15,Real Sociedad San Sebastian B,CD Castellon,4,2,3.800,3.750,1.850
-61623648,2026-03-07 17:30,Burgos CF,CD Mirandes,2,0,,,
-61623654,2026-03-07 20:00,Malaga CF,Real Valladolid,3,3,,,
-61623664,2026-03-08 13:00,UD Las Palmas,AD Ceuta,4,0,,,
-61623658,2026-03-08 15:15,FC Andorra,Sporting Gijon,1,0,,,
-61623666,2026-03-08 17:30,Racing Santander,Cordoba CF,4,3,,,
-61623668,2026-03-08 17:30,CD Leganes,SD Eibar,0,1,,,
-61623652,2026-03-08 20:00,RC Deportivo De La Coruna,Granada CF,0,2,,,
-61623656,2026-03-09 19:30,UD Almeria,Cultural Leonesa,3,0,,,
-61623680,2026-03-13 19:30,CD Mirandes,Cadiz CF,0,2,,,
-61623676,2026-03-14 15:15,Cultural Leonesa,Racing Santander,1,2,,,
-61623686,2026-03-14 17:30,Real Valladolid,CD Leganes,3,2,,,
-61623688,2026-03-14 17:30,Real Zaragoza,UD Almeria,2,0,,,
-61623672,2026-03-14 20:00,AD Ceuta,RC Deportivo De La Coruna,1,2,,,
-61623674,2026-03-15 13:00,Cordoba CF,Real Sociedad San Sebastian B,0,2,1.727,3.900,4.333
-61623690,2026-03-15 15:15,Granada CF,FC Andorra,1,1,,,
-61623678,2026-03-15 17:30,SD Eibar,Burgos CF,0,0,,,
-61623684,2026-03-15 17:30,Malaga CF,SD Huesca,5,3,,,
-61623682,2026-03-15 20:00,Sporting Gijon,CD Castellon,4,1,,,
-61623670,2026-03-16 19:30,Albacete Balompie,UD Las Palmas,2,1,,,
-61623712,2026-03-20 19:30,SD Huesca,UD Almeria,1,3,,,
-61623708,2026-03-21 13:00,CD Leganes,AD Ceuta,5,2,,,
-61623704,2026-03-21 15:15,FC Andorra,SD Eibar,0,1,,,
-61623706,2026-03-21 15:15,Racing Santander,Albacete Balompie,0,4,,,
-61623694,2026-03-21 17:30,Cadiz CF,Malaga CF,0,3,,,
-61623698,2026-03-21 20:00,RC Deportivo De La Coruna,Real Zaragoza,2,1,,,
-61623692,2026-03-22 13:00,Burgos CF,Cordoba CF,4,0,,,
-61623702,2026-03-22 15:15,CD Mirandes,Real Valladolid,2,1,,,
-61623710,2026-03-22 15:15,Real Sociedad San Sebastian B,Granada CF,0,2,2.550,3.100,2.875
-61623700,2026-03-22 17:30,UD Las Palmas,Sporting Gijon,1,0,,,
-61623696,2026-03-23 19:30,CD Castellon,Cultural Leonesa,1,1,,,
-61623716,2026-03-27 18:00,Cordoba CF,CD Mirandes,2,2,,,
-61623726,2026-03-28 13:00,AD Ceuta,Cadiz CF,2,1,,,
-61623720,2026-03-28 15:15,Granada CF,SD Huesca,4,2,,,
-61623724,2026-03-28 15:15,Real Valladolid,Burgos CF,0,1,,,
-61623730,2026-03-28 17:30,Malaga CF,CD Leganes,0,0,,,
-61623714,2026-03-28 20:00,Albacete Balompie,CD Castellon,1,1,,,
-62622992,2026-03-28 20:00,Sporting Gijon,RC Deportivo De La Coruna,1,1,,,
-61623718,2026-03-29 12:00,SD Eibar,UD Las Palmas,3,1,2.300,3.000,3.250
-61623734,2026-03-29 14:15,Cultural Leonesa,FC Andorra,0,4,2.250,3.200,3.100
-61623732,2026-03-29 16:30,Real Zaragoza,Racing Santander,2,0,2.350,3.250,3.000
-61623722,2026-03-29 19:00,UD Almeria,Real Sociedad San Sebastian B,5,1,1.550,4.100,5.250
-61623746,2026-03-31 17:00,CD Mirandes,Albacete Balompie,1,1,2.250,3.300,3.100
-61623750,2026-03-31 18:00,RC Deportivo De La Coruna,Cordoba CF,2,0,1.909,3.600,3.900
-61623748,2026-03-31 19:30,Real Valladolid,Cadiz CF,3,0,1.500,4.200,6.250
-61623744,2026-04-01 17:00,FC Andorra,Malaga CF,3,3,1.909,3.600,3.750
-61623736,2026-04-01 18:00,Burgos CF,AD Ceuta,1,1,1.900,3.000,4.500
-61623738,2026-04-01 18:00,SD Huesca,Cultural Leonesa,1,1,2.050,3.000,3.500
-61623742,2026-04-01 19:30,Racing Santander,Sporting Gijon,3,1,1.833,3.600,4.100
-61623754,2026-04-02 17:00,UD Las Palmas,Granada CF,2,0,1.700,3.400,5.500
-61623752,2026-04-02 18:00,Real Sociedad San Sebastian B,SD Eibar,0,1,3.200,3.300,2.200
-61623756,2026-04-02 18:00,CD Castellon,UD Almeria,2,0,1.900,3.900,3.700
-61623740,2026-04-02 19:30,CD Leganes,Real Zaragoza,1,1,2.100,3.200,3.700
-61623760,2026-04-04 12:00,Cadiz CF,Cordoba CF,1,3,3.100,3.400,2.200
-61623758,2026-04-04 14:15,Albacete Balompie,Burgos CF,2,3,2.500,3.100,3.000
-61623764,2026-04-04 16:30,RC Deportivo De La Coruna,Malaga CF,1,1,1.900,3.700,3.750
-61623766,2026-04-04 16:30,Cultural Leonesa,Real Valladolid,1,0,2.625,3.300,2.625
-61623772,2026-04-05 12:00,SD Eibar,AD Ceuta,3,0,1.533,3.900,6.250
-61623770,2026-04-05 14:15,FC Andorra,Racing Santander,6,2,2.100,3.500,2.875
-61623768,2026-04-05 16:30,UD Almeria,CD Leganes,2,1,1.550,4.200,5.500
-61623774,2026-04-05 16:30,UD Las Palmas,SD Huesca,2,1,1.571,3.800,6.000
-61623776,2026-04-05 19:00,Real Zaragoza,CD Mirandes,1,2,2.000,3.250,3.900
-61623762,2026-04-06 17:00,CD Castellon,Granada CF,3,2,1.480,3.800,5.750
-61623778,2026-04-06 18:30,Sporting Gijon,Real Sociedad San Sebastian B,1,0,1.500,3.800,5.250
-61623782,2026-04-10 18:30,AD Ceuta,Real Sociedad San Sebastian B,0,0,1.800,3.700,4.333
-61623780,2026-04-11 14:15,Burgos CF,Sporting Gijon,1,0,2.200,3.000,3.500
-61623788,2026-04-11 14:15,CD Leganes,Albacete Balompie,2,1,1.900,3.250,4.333
-61623796,2026-04-11 16:30,Malaga CF,UD Las Palmas,2,0,2.500,3.200,2.900
-61623784,2026-04-11 19:00,Cordoba CF,Real Zaragoza,1,0,1.850,3.600,4.000
-61623786,2026-04-12 12:00,Granada CF,Cultural Leonesa,1,0,1.850,3.300,4.500
-61623792,2026-04-12 14:15,SD Huesca,RC Deportivo De La Coruna,1,1,3.400,3.200,2.150
-61623790,2026-04-12 16:30,CD Mirandes,CD Castellon,2,2,4.333,3.700,1.800
-61623800,2026-04-12 16:30,Cadiz CF,FC Andorra,0,1,3.200,3.400,2.200
-61623798,2026-04-12 19:00,Racing Santander,UD Almeria,5,1,2.350,3.600,2.875
-61623794,2026-04-13 18:30,Real Valladolid,SD Eibar,0,0,2.375,2.900,3.400
-61623822,2026-04-17 18:30,Real Sociedad San Sebastian B,Racing Santander,1,3,3.300,3.800,2.000
-61623820,2026-04-17 19:00,UD Las Palmas,CD Leganes,2,0,1.666,3.900,4.750
-61623816,2026-04-18 14:15,Real Zaragoza,AD Ceuta,2,2,1.615,3.900,5.250
-61623812,2026-04-18 16:30,CD Castellon,Burgos CF,3,1,1.666,3.600,5.500
-61623818,2026-04-18 16:30,Cultural Leonesa,Cordoba CF,1,2,2.450,3.300,2.800
-61623810,2026-04-19 12:00,FC Andorra,Real Valladolid,1,0,2.200,3.300,3.250
-61623814,2026-04-19 14:15,Sporting Gijon,Cadiz CF,3,0,1.615,3.800,5.500
-61623802,2026-04-19 16:30,Albacete Balompie,Granada CF,4,1,2.625,2.875,3.100
-61623806,2026-04-19 16:30,SD Eibar,SD Huesca,2,1,1.615,3.600,6.250
-61623808,2026-04-19 19:00,UD Almeria,Malaga CF,3,2,1.800,3.900,4.100
-61623804,2026-04-20 18:30,RC Deportivo De La Coruna,CD Mirandes,3,1,1.533,4.100,6.250
-61623824,2026-04-24 18:30,Albacete Balompie,SD Eibar,0,3,3.100,3.100,2.450
-61623844,2026-04-25 14:15,Real Valladolid,Real Sociedad San Sebastian B,1,0,1.550,4.100,5.750
-61623826,2026-04-25 16:30,Burgos CF,RC Deportivo De La Coruna,1,1,2.750,2.900,2.875
-61623836,2026-04-25 19:00,Malaga CF,CD Castellon,2,3,3.100,3.500,2.200
-61623832,2026-04-26 12:00,Cordoba CF,Sporting Gijon,3,2,1.950,3.750,3.400
-61623838,2026-04-26 14:15,CD Mirandes,Cultural Leonesa,2,1,1.909,3.700,3.700
-61623840,2026-04-26 14:15,Granada CF,UD Almeria,2,4,3.000,3.250,2.375
-61623834,2026-04-26 16:30,SD Huesca,Real Zaragoza,1,0,3.000,2.800,2.700
-61623842,2026-04-26 16:30,CD Leganes,FC Andorra,0,4,2.250,3.300,3.200
-61623830,2026-04-26 19:00,AD Ceuta,Racing Santander,0,1,4.000,4.000,1.800
-61623828,2026-04-27 18:30,Cadiz CF,UD Las Palmas,1,2,3.500,3.000,2.200
-61623856,2026-05-01 14:15,FC Andorra,Albacete Balompie,0,1,1.550,4.333,5.000
-61623848,2026-05-01 16:30,RC Deportivo De La Coruna,CD Leganes,2,1,1.500,4.333,6.000
-61623864,2026-05-01 19:00,Real Zaragoza,Granada CF,0,1,1.950,3.250,4.000
-61623860,2026-05-02 14:15,Cultural Leonesa,Cadiz CF,2,2,1.909,3.400,4.000
-61623846,2026-05-02 16:30,CD Castellon,Cordoba CF,1,2,1.450,5.000,6.000
-61623850,2026-05-02 19:00,SD Eibar,Malaga CF,2,4,2.100,3.200,3.750
-61623866,2026-05-03 12:00,Racing Santander,SD Huesca,4,2,1.380,5.000,7.000
-61623862,2026-05-03 14:15,Sporting Gijon,AD Ceuta,1,2,1.500,4.500,5.750
-61623858,2026-05-03 16:30,Real Sociedad San Sebastian B,Burgos CF,0,0,2.900,3.000,2.625
-61623852,2026-05-03 19:00,UD Las Palmas,Real Valladolid,2,1,1.615,4.100,5.250
-61623854,2026-05-04 18:30,UD Almeria,CD Mirandes,4,2,1.420,5.000,6.000
-61623870,2026-05-08 18:30,Cadiz CF,RC Deportivo De La Coruna,0,1,4.000,3.600,1.850
-61623886,2026-05-09 12:00,AD Ceuta,CD Castellon,1,1,5.500,5.000,1.450
-61623868,2026-05-09 14:15,Albacete Balompie,Cultural Leonesa,2,1,2.300,3.100,3.300
-61623890,2026-05-09 14:15,Burgos CF,UD Almeria,0,0,2.500,3.200,2.875
-61623880,2026-05-09 16:30,Real Valladolid,Real Zaragoza,2,0,1.800,3.250,4.100
-61623878,2026-05-09 19:00,Malaga CF,Sporting Gijon,2,1,1.615,4.200,4.750
-61623884,2026-05-10 12:00,FC Andorra,UD Las Palmas,5,1,2.700,3.100,2.700
-61623876,2026-05-10 14:15,CD Leganes,Racing Santander,1,2,2.900,3.750,2.200
-61623872,2026-05-10 16:30,Cordoba CF,Granada CF,1,0,1.615,4.100,5.000
-61623888,2026-05-10 16:30,CD Mirandes,SD Eibar,0,1,2.400,3.400,2.800
-61623874,2026-05-11 18:30,SD Huesca,Real Sociedad San Sebastian B,1,2,2.375,3.400,2.875
-61623902,2026-05-15 18:30,CD Castellon,Cadiz CF,1,1,1.250,6.250,10.000
-61623898,2026-05-15 19:00,Cordoba CF,Albacete Balompie,1,2,1.533,4.200,5.750
-61623910,2026-05-16 12:00,Real Sociedad San Sebastian B,CD Mirandes,2,2,2.900,3.400,2.350
-61623892,2026-05-16 14:15,AD Ceuta,Malaga CF,1,4,4.100,4.100,1.750
-61623904,2026-05-16 14:15,Cultural Leonesa,SD Eibar,2,1,3.100,3.400,2.250
-61623894,2026-05-16 16:30,Racing Santander,Real Valladolid,4,1,1.380,4.500,6.000
-61623896,2026-05-16 16:30,UD Almeria,UD Las Palmas,1,2,1.750,3.400,4.000
-61623900,2026-05-16 16:30,Granada CF,Burgos CF,0,1,3.700,3.100,2.150
-61623912,2026-05-17 12:00,RC Deportivo De La Coruna,FC Andorra,2,1,1.700,4.000,4.200
-61623908,2026-05-17 19:15,Real Zaragoza,Sporting Gijon,1,3,1.909,3.400,4.100
-61623906,2026-05-18 18:30,CD Leganes,SD Huesca,1,0,1.833,3.600,4.500
-61623914,2026-05-24 14:15,Albacete Balompie,Real Sociedad San Sebastian B,3,1,1.727,4.100,4.200
-61623922,2026-05-24 14:15,FC Andorra,AD Ceuta,0,2,1.300,5.250,9.000
-61623916,2026-05-24 16:30,Cadiz CF,CD Leganes,3,0,2.700,3.000,2.800
-61623918,2026-05-24 16:30,UD Las Palmas,Real Zaragoza,1,1,1.420,4.500,7.000
-61623920,2026-05-24 16:30,Malaga CF,Racing Santander,1,1,1.666,4.333,4.200
-61623924,2026-05-24 16:30,Cultural Leonesa,Burgos CF,0,2,2.900,3.200,2.450
-61623926,2026-05-24 16:30,SD Huesca,CD Castellon,0,1,4.750,4.333,1.600
-61623928,2026-05-24 16:30,SD Eibar,Cordoba CF,2,0,1.666,4.333,4.333
-61623930,2026-05-24 16:30,Real Valladolid,RC Deportivo De La Coruna,0,2,3.600,3.300,2.100
-61623932,2026-05-24 16:30,CD Mirandes,Granada CF,3,1,1.500,4.333,6.000
-61623934,2026-05-24 16:30,Sporting Gijon,UD Almeria,3,1,3.200,3.700,2.100
-61623948,2026-05-30 14:15,AD Ceuta,Albacete Balompie,2,0,2.750,3.250,2.550
-61623952,2026-05-30 14:15,Real Sociedad San Sebastian B,Cultural Leonesa,1,1,2.250,3.400,3.100
-61623942,2026-05-30 19:00,Granada CF,Sporting Gijon,2,2,2.300,3.500,2.900
-61623936,2026-05-31 16:30,CD Castellon,SD Eibar,2,1,1.533,4.333,5.500
-61623940,2026-05-31 16:30,RC Deportivo De La Coruna,UD Las Palmas,1,2,3.100,3.600,2.100
-61623946,2026-05-31 16:30,UD Almeria,Real Valladolid,1,0,1.420,5.000,6.250
-61623950,2026-05-31 16:30,Racing Santander,Cadiz CF,4,1,1.333,5.000,8.500
-61623954,2026-05-31 16:30,Real Zaragoza,Malaga CF,0,2,5.250,4.200,1.600
-61623956,2026-05-31 16:30,Burgos CF,FC Andorra,1,0,1.571,4.000,5.500
-61623938,2026-05-31 19:00,Cordoba CF,SD Huesca,1,1,1.533,4.100,6.500
-61623944,2026-05-31 19:00,CD Leganes,CD Mirandes,1,0,2.100,3.500,3.250
-71853258,2026-06-06 19:00,CD Castellon,UD Almeria,1,1,1.800,3.900,3.900
-71853280,2026-06-07 19:00,UD Las Palmas,Malaga CF,0,1,2.150,3.100,3.600
-72477308,2026-08-14 18:30,Real Sociedad San Sebastian B,CD Castellon,0,1,4.333,3.900,1.750
-72477292,2026-08-15 15:00,FC Andorra,AD Ceuta,5,1,1.571,3.900,5.750
-72477296,2026-08-15 17:00,Cadiz CF,RC Celta Fortuna,0,0,2.150,3.500,3.250
-72477306,2026-08-15 17:00,Real Oviedo,Granada CF,0,0,2.000,3.000,4.500
-72477304,2026-08-15 19:30,RCD Mallorca,Real Valladolid,2,0,1.700,3.500,5.250
-72477298,2026-08-16 15:00,SD Eibar,Tenerife CD,1,3,1.833,3.400,4.500
-72477294,2026-08-16 17:00,Burgos CF,Cordoba CF,3,2,2.250,3.250,3.200
-72477300,2026-08-16 17:00,Girona FC,CD Leganes,1,1,1.571,3.800,6.000
-72477302,2026-08-16 19:30,UD Las Palmas,Albacete Balompie,2,1,1.950,3.400,3.750
-72477310,2026-08-17 17:00,Sporting Gijon,CE Sabadell FC,0,0,2.100,3.200,3.700
-72477290,2026-08-17 19:30,UD Almeria,Club Deportivo Eldense,3,0,1.450,4.500,6.500
-72477326,2026-08-21 19:00,Cordoba CF,Girona FC,2,1,2.600,3.500,2.500
-72477334,2026-08-22 15:00,Real Oviedo,CD Leganes,0,1,1.800,3.300,4.750
-72477318,2026-08-22 17:00,Albacete Balompie,Real Sociedad San Sebastian B,1,2,1.666,3.600,5.500
-72477324,2026-08-22 17:00,AD Ceuta,UD Las Palmas,0,2,2.900,3.300,2.350
-72477330,2026-08-22 19:30,Club Deportivo Eldense,Cadiz CF,2,2,2.150,3.100,3.700
-72477328,2026-08-23 15:00,SD Eibar,Real Valladolid,1,0,2.000,3.000,4.333
-72477320,2026-08-23 17:00,CD Castellon,CE Sabadell FC,0,0,1.727,3.400,5.250
-72477336,2026-08-23 17:00,Sporting Gijon,Burgos CF,1,0,2.000,3.100,4.100
-72477338,2026-08-23 19:30,Tenerife CD,UD Almeria,1,0,2.700,3.100,2.700
-72477322,2026-08-24 17:00,RC Celta Fortuna,FC Andorra,4,2,3.500,3.100,2.200
-72477332,2026-08-24 19:30,Granada CF,RCD Mallorca,2,0,3.200,3.000,2.450
-72477360,2026-08-28 19:00,Tenerife CD,Sporting Gijon,0,1,2.300,3.100,3.250
-72477358,2026-08-29 15:00,CE Sabadell FC,UD Almeria,1,0,2.625,3.100,2.750
-72477340,2026-08-29 17:00,Albacete Balompie,Real Oviedo,0,1,2.400,3.200,3.000
-72477354,2026-08-29 17:00,CD Leganes,Club Deportivo Eldense,1,0,1.833,3.600,4.200
-72477352,2026-08-29 19:30,Girona FC,UD Las Palmas,5,2,1.700,3.700,5.000
-72477342,2026-08-30 15:00,FC Andorra,SD Eibar,0,1,2.000,3.300,3.750
-72477346,2026-08-30 17:00,Cadiz CF,Real Valladolid,1,1,2.700,3.000,2.750
-72477356,2026-08-30 17:00,RCD Mallorca,AD Ceuta,3,0,1.400,4.333,8.000
-72477350,2026-08-30 19:30,Cordoba CF,Granada CF,1,3,1.800,3.500,4.500
-72477344,2026-08-31 17:00,Burgos CF,Real Sociedad San Sebastian B,2,2,1.950,3.200,4.333
-72477348,2026-08-31 19:30,RC Celta Fortuna,CD Castellon,1,2,4.100,3.750,1.800
-72477372,2026-09-04 18:30,UD Las Palmas,CD Leganes,0,0,2.625,3.100,2.750
-72477376,2026-09-05 12:00,Real Sociedad San Sebastian B,Tenerife CD,1,1,2.625,3.100,2.750
-72477380,2026-09-05 14:15,Sporting Gijon,Girona FC,0,2,2.750,3.300,2.550
-72477366,2026-09-05 16:30,AD Ceuta,RC Celta Fortuna,0,2,1.900,3.600,3.900
-72477382,2026-09-05 16:30,Real Valladolid,FC Andorra,1,0,2.375,3.200,3.000
-72477370,2026-09-05 19:00,Club Deportivo Eldense,RCD Mallorca,0,0,3.600,3.400,2.050
-72477368,2026-09-06 12:00,SD Eibar,Granada CF,3,0,1.950,3.400,3.900
-72477374,2026-09-06 14:15,Real Oviedo,Burgos CF,0,0,1.950,3.300,4.000
-72477364,2026-09-06 16:30,CD Castellon,Albacete Balompie,2,0,1.500,4.200,6.250
-72477362,2026-09-06 19:00,UD Almeria,Cadiz CF,3,2,1.500,4.100,6.250
-72477378,2026-09-07 18:30,CE Sabadell FC,Cordoba CF,3,2,2.200,3.200,3.300
-72477386,2026-09-11 18:30,Burgos CF,AD Ceuta,3,1,1.615,3.600,6.000
-72477384,2026-09-12 12:00,FC Andorra,Real Sociedad San Sebastian B,1,3,1.727,3.900,4.333
-72477388,2026-09-12 14:15,Cadiz CF,UD Las Palmas,0,1,2.375,3.300,3.000
-72477394,2026-09-12 16:30,Girona FC,CD Castellon,1,2,2.250,3.400,3.100
-72477396,2026-09-12 16:30,Granada CF,Albacete Balompie,1,1,1.850,3.500,4.200
-72477392,2026-09-12 19:00,Cordoba CF,UD Almeria,0,2,2.550,3.400,2.700
-72477400,2026-09-13 12:00,Sporting Gijon,Club Deportivo Eldense,0,1,1.571,3.750,6.000
-72477404,2026-09-13 14:15,Real Valladolid,Real Oviedo,0,3,2.500,3.000,3.000
-72477398,2026-09-13 16:30,RCD Mallorca,CE Sabadell FC,2,0,1.850,3.200,5.000
-72477402,2026-09-13 19:00,Tenerife CD,CD Leganes,2,0,2.375,2.900,3.300
-72477390,2026-09-14 18:30,RC Celta Fortuna,SD Eibar,0,4,3.400,3.250,2.150
-72477406,2026-09-18 18:30,Albacete Balompie,Cordoba CF,1,2,2.550,3.600,2.550
-72477424,2026-09-19 12:00,Real Sociedad San Sebastian B,RCD Mallorca,0,1,3.800,3.400,1.950
-72477410,2026-09-19 14:15,FC Andorra,Sporting Gijon,1,3,2.050,3.500,3.500
-72477414,2026-09-19 16:30,CD Castellon,Tenerife CD,5,0,1.450,4.100,7.000
-72477418,2026-09-19 16:30,Club Deportivo Eldense,SD Eibar,1,2,2.750,3.000,2.700
-72477412,2026-09-19 19:00,Cadiz CF,Girona FC,1,2,3.750,3.400,1.950
-72477426,2026-09-20 12:00,CE Sabadell FC,Real Oviedo,3,1,2.250,3.100,3.500
-72477416,2026-09-20 14:15,AD Ceuta,Real Valladolid,1,1,3.250,3.200,2.250
-72477408,2026-09-20 16:30,UD Almeria,RC Celta Fortuna,2,0,1.420,4.500,7.000
-72477422,2026-09-20 16:30,UD Las Palmas,Burgos CF,1,2,1.909,3.500,4.000
-72477420,2026-09-20 19:00,CD Leganes,Granada CF,3,2,2.100,3.100,3.750
-72477436,2026-09-25 18:30,Girona FC,Albacete Balompie,2,0,1.550,4.200,5.500
-72477432,2026-09-26 12:00,AD Ceuta,Real Sociedad San Sebastian B,3,1,2.700,3.300,2.550
-72477438,2026-09-26 14:15,Granada CF,FC Andorra,2,3,2.000,3.500,3.600
-72477430,2026-09-26 16:30,RC Celta Fortuna,CE Sabadell FC,1,1,3.500,3.300,2.100
-72477446,2026-09-26 16:30,Tenerife CD,Cadiz CF,1,1,1.800,3.300,4.750
-72477448,2026-09-27 12:00,Real Valladolid,Cordoba CF,3,1,2.450,3.400,2.750
-72477442,2026-09-27 14:15,RCD Mallorca,UD Almeria,0,1,2.000,3.300,3.600
-72477428,2026-09-27 16:30,Burgos CF,Club Deportivo Eldense,1,0,2.350,3.200,3.100
-72477434,2026-09-27 16:30,SD Eibar,UD Las Palmas,3,2,1.750,3.600,4.500
-72477444,2026-09-27 19:00,Real Oviedo,Sporting Gijon,2,0,2.200,3.100,3.500
-72477440,2026-09-28 18:30,CD Leganes,CD Castellon,0,2,3.200,3.500,2.150
-72477460,2026-10-02 18:30,Club Deportivo Eldense,Real Oviedo,4,1,2.450,3.000,3.000
-72477450,2026-10-03 12:00,Albacete Balompie,SD Eibar,1,3,2.500,3.500,2.600
-72477452,2026-10-03 14:15,UD Almeria,Burgos CF,2,1,1.533,4.333,5.250
-72477454,2026-10-03 16:30,Cadiz CF,CD Leganes,4,0,2.900,3.250,2.400
-72477466,2026-10-04 12:00,Real Sociedad San Sebastian B,Granada CF,2,3,2.400,3.100,3.000
-72477470,2026-10-04 14:15,Sporting Gijon,RC Celta Fortuna,3,2,1.800,3.400,4.750
-72477456,2026-10-04 16:30,CD Castellon,AD Ceuta,1,1,1.250,5.750,10.000
-72477464,2026-10-04 16:30,UD Las Palmas,Real Valladolid,2,2,2.600,3.000,3.000
-72477462,2026-10-04 19:00,Girona FC,RCD Mallorca,0,0,2.400,3.250,2.900
-72477468,2026-10-04 19:00,CE Sabadell FC,FC Andorra,0,0,1.950,3.200,4.333
-72477458,2026-10-05 18:30,Cordoba CF,Tenerife CD,3,2,1.850,3.500,4.100
-72477482,2026-10-10 14:15,AD Ceuta,CE Sabadell FC,1,2,3.300,2.875,2.375
-72477484,2026-10-10 16:30,Club Deportivo Eldense,Cordoba CF,2,1,2.200,3.700,3.000
-72477480,2026-10-10 19:00,RC Celta Fortuna,Real Sociedad San Sebastian B,4,1,2.400,3.400,2.875
-72477474,2026-10-11 12:00,FC Andorra,CD Castellon,1,0,3.200,3.300,2.250
-72477472,2026-10-11 14:15,UD Almeria,CD Leganes,3,0,1.750,3.500,5.000
-72477486,2026-10-11 16:30,RCD Mallorca,UD Las Palmas,3,1,1.533,3.900,6.500
-72477478,2026-10-11 19:00,Cadiz CF,Sporting Gijon,0,1,2.100,3.100,3.750
-72477492,2026-10-12 12:00,Real Valladolid,Albacete Balompie,5,0,1.909,3.300,4.200
-72477476,2026-10-12 14:15,Burgos CF,Granada CF,0,1,2.450,3.100,3.100
-72477488,2026-10-12 16:30,Real Oviedo,SD Eibar,3,1,2.600,3.000,2.900
-72477490,2026-10-12 19:00,Tenerife CD,Girona FC,1,1,2.875,3.100,2.550
-72477506,2026-10-16 18:30,CD Leganes,Cordoba CF,0,1,2.550,3.250,2.800
-72477510,2026-10-17 12:00,Real Sociedad San Sebastian B,UD Almeria,2,4,3.700,3.500,1.950
-72477500,2026-10-17 14:15,SD Eibar,RCD Mallorca,1,1,2.500,3.250,2.800
-72477512,2026-10-17 16:30,Sporting Gijon,Albacete Balompie,2,1,2.000,3.400,3.800
-72477508,2026-10-17 19:00,UD Las Palmas,CD Castellon,0,3,3.750,3.600,1.950
-72477498,2026-10-18 12:00,AD Ceuta,Real Oviedo,1,2,2.900,3.250,2.400
-72477504,2026-10-18 14:15,Granada CF,Cadiz CF,2,0,1.850,3.600,4.100
-72477502,2026-10-18 16:30,Girona FC,FC Andorra,2,0,1.850,3.600,4.100
-72477514,2026-10-18 16:30,Real Valladolid,Club Deportivo Eldense,2,3,1.800,3.400,4.500
-72477494,2026-10-18 19:00,Burgos CF,CE Sabadell FC,1,0,3.100,2.750,2.750
-72477496,2026-10-19 18:30,RC Celta Fortuna,Tenerife CD,1,1,2.900,3.100,2.500
-72477530,2026-10-23 18:30,Granada CF,Real Valladolid,2,1,2.150,3.200,3.500
-72477526,2026-10-24 12:00,Cordoba CF,SD Eibar,2,0,1.833,3.800,3.800
-72477532,2026-10-24 14:15,CD Leganes,RCD Mallorca,1,1,4.333,3.500,1.833
-72477528,2026-10-24 16:30,Girona FC,RC Celta Fortuna,5,1,1.363,5.000,7.500
-72477534,2026-10-24 16:30,UD Las Palmas,Real Sociedad San Sebastian B,1,0,2.150,3.300,3.400
-72477518,2026-10-24 19:00,UD Almeria,Real Oviedo,2,2,1.750,3.600,4.500
-72477536,2026-10-25 13:00,CE Sabadell FC,Tenerife CD,1,1,1.800,3.200,5.000
-72477516,2026-10-25 15:15,Albacete Balompie,Club Deportivo Eldense,2,0,2.300,3.400,3.000
-72477522,2026-10-25 15:15,Cadiz CF,AD Ceuta,3,1,1.909,3.500,3.900
-72477524,2026-10-25 17:30,CD Castellon,Sporting Gijon,4,0,1.571,3.900,6.000
-72477520,2026-10-26 19:30,FC Andorra,Burgos CF,2,3,2.050,3.300,3.500
-72477554,2026-10-31 13:00,Real Sociedad San Sebastian B,Girona FC,1,0,3.700,3.600,2.000
-72477546,2026-10-31 15:15,SD Eibar,UD Almeria,1,1,2.300,3.500,2.900
-72477542,2026-10-31 17:30,RC Celta Fortuna,Cordoba CF,2,2,3.900,4.000,1.800
-72477538,2026-10-31 20:00,Albacete Balompie,CE Sabadell FC,2,1,2.450,3.000,3.200
-72477548,2026-11-01 13:00,Club Deportivo Eldense,Granada CF,0,2,2.300,3.300,3.000
-72477544,2026-11-01 15:15,AD Ceuta,Sporting Gijon,0,2,2.450,3.200,3.000
-72477540,2026-11-01 17:30,Burgos CF,CD Castellon,1,1,3.700,3.400,2.000
-72477552,2026-11-02 15:15,Real Oviedo,UD Las Palmas,2,3,1.666,3.900,4.750
-72477558,2026-11-02 17:30,Real Valladolid,CD Leganes,4,3,1.850,3.500,4.200
-72477550,2026-11-02 20:00,RCD Mallorca,Cadiz CF,2,1,1.444,4.500,7.000
-72477562,2026-11-07 13:00,Burgos CF,RC Celta Fortuna,2,1,1.750,3.400,5.000
-72477564,2026-11-07 15:15,Cadiz CF,Real Oviedo,1,2,3.100,3.300,2.250
-72477568,2026-11-07 17:30,Cordoba CF,AD Ceuta,3,0,1.480,4.500,5.750
-72477574,2026-11-07 17:30,CD Leganes,Albacete Balompie,1,3,1.950,3.500,3.700
-72477570,2026-11-08 15:15,Girona FC,UD Almeria,0,1,2.000,3.400,3.700
-72477580,2026-11-08 17:30,Sporting Gijon,Real Valladolid,1,2,2.300,3.250,3.100
-72477576,2026-11-09 19:30,UD Las Palmas,Club Deportivo Eldense,2,0,2.100,3.500,3.400
-72477578,2026-11-09 19:30,CE Sabadell FC,Real Sociedad San Sebastian B,0,0,1.850,3.500,4.000
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+51103795,2025-05-24 16:30,Albacete Balompie,Racing Club de Ferrol,2,0,,,,,,
+51103797,2025-05-25 16:30,Burgos CF,Levante UD,2,3,,,,,,
+51103799,2025-05-25 16:30,Cadiz CF,SD Huesca,4,0,,,,,,
+51103801,2025-05-25 16:30,Elche CF,Malaga CF,2,0,,,,,,
+51103803,2025-05-25 16:30,Club Deportivo Eldense,Racing Santander,3,3,,,,,,
+51103805,2025-05-25 16:30,CD Mirandes,UD Almeria,0,0,,,,,,
+51103807,2025-05-25 16:30,Sporting Gijon,FC Cartagena,3,2,,,,,,
+51103809,2025-05-25 16:30,Granada CF,CD Castellon,2,1,,,,,,
+51103811,2025-05-25 16:30,SD Eibar,Cordoba CF,4,1,,,,,,
+51103813,2025-05-25 16:30,Real Zaragoza,RC Deportivo De La Coruna,1,0,,,,,,
+51103815,2025-05-25 16:30,Tenerife CD,Real Oviedo,0,1,,,,,,
+51103821,2025-05-30 18:30,CD Castellon,Real Zaragoza,4,1,,,,,,
+51103825,2025-05-31 14:15,Racing Club de Ferrol,Sporting Gijon,0,2,,,,,,
+51103829,2025-05-31 16:30,Malaga CF,Burgos CF,2,2,,,,,,
+51103817,2025-06-01 16:30,UD Almeria,Tenerife CD,2,0,,,,,,
+51103819,2025-06-01 16:30,FC Cartagena,CD Mirandes,1,3,,,,,,
+51103823,2025-06-01 16:30,RC Deportivo De La Coruna,Elche CF,0,4,,,,,,
+51103831,2025-06-01 16:30,Real Oviedo,Cadiz CF,2,1,,,,,,
+51103833,2025-06-01 16:30,Levante UD,SD Eibar,1,0,,,,,,
+51103835,2025-06-01 16:30,SD Huesca,Club Deportivo Eldense,3,2,,,,,,
+51103837,2025-06-01 16:30,Racing Santander,Granada CF,2,1,,,,,,
+51103827,2025-06-01 19:00,Cordoba CF,Albacete Balompie,1,1,,,,,,
+60969997,2025-06-07 19:00,UD Almeria,Real Oviedo,1,2,,,,,,
+60969993,2025-06-08 16:30,Racing Santander,CD Mirandes,3,3,,,,,,
+60969995,2025-06-11 19:00,Real Oviedo,UD Almeria,1,1,,,,,,
+60969991,2025-06-12 19:00,CD Mirandes,Racing Santander,4,1,,,,,,
+60970001,2025-06-15 17:00,CD Mirandes,Real Oviedo,1,0,,,,,,
+60969999,2025-06-21 19:00,Real Oviedo,CD Mirandes,3,1,,,,,,
+61622932,2025-08-15 19:30,Burgos CF,Cultural Leonesa,5,1,,,,,,
+61622944,2025-08-15 19:30,Real Valladolid,AD Ceuta,3,0,,,,,,
+61622942,2025-08-16 15:00,Racing Santander,CD Castellon,3,1,,,,,,
+61622950,2025-08-16 17:30,Malaga CF,SD Eibar,1,1,,,,,,
+61622948,2025-08-16 19:30,Granada CF,RC Deportivo De La Coruna,1,3,,,,,,
+61622938,2025-08-17 15:00,Real Sociedad San Sebastian B,Real Zaragoza,1,0,,,,,,
+61622934,2025-08-17 17:30,Cadiz CF,CD Mirandes,1,0,,,,,,
+61622936,2025-08-17 19:30,SD Huesca,CD Leganes,1,1,,,,,,
+61622952,2025-08-17 19:30,UD Las Palmas,FC Andorra,1,1,,,,,,
+61622946,2025-08-18 17:00,Sporting Gijon,Cordoba CF,2,1,,,,,,
+61622940,2025-08-18 19:30,UD Almeria,Albacete Balompie,4,4,,,,,,
+61622962,2025-08-22 17:30,SD Eibar,Granada CF,3,0,,,,,,
+61622956,2025-08-22 19:30,CD Castellon,Real Valladolid,0,1,,,,,,
+61622968,2025-08-22 19:30,CD Leganes,Cadiz CF,1,1,,,,,,
+61622970,2025-08-23 15:00,CD Mirandes,SD Huesca,0,1,,,,,,
+61622958,2025-08-23 17:00,AD Ceuta,Sporting Gijon,0,1,,,,,,
+61622974,2025-08-23 19:30,Real Zaragoza,FC Andorra,1,3,,,,,,
+61622966,2025-08-24 15:00,RC Deportivo De La Coruna,Burgos CF,0,0,,,,,,
+61622972,2025-08-24 17:30,Cultural Leonesa,UD Almeria,0,1,,,,,,
+61622964,2025-08-24 19:30,Malaga CF,Real Sociedad San Sebastian B,1,0,,,,,,
+61622954,2025-08-25 17:30,Albacete Balompie,Racing Santander,2,3,,,,,,
+61622960,2025-08-25 19:30,Cordoba CF,UD Las Palmas,1,3,,,,,,
+61622996,2025-08-29 17:30,Real Sociedad San Sebastian B,UD Almeria,2,2,,,,,,
+61622994,2025-08-29 19:30,Sporting Gijon,Cultural Leonesa,1,0,,,,,,
+61622986,2025-08-30 15:00,Racing Santander,AD Ceuta,4,1,,,,,,
+61622988,2025-08-30 17:00,Real Valladolid,Cordoba CF,0,0,,,,,,
+61622976,2025-08-30 19:30,CD Castellon,Real Zaragoza,1,1,,,,,,
+61622982,2025-08-31 15:00,FC Andorra,Burgos CF,2,1,,,,,,
+61622984,2025-08-31 15:00,Cadiz CF,Albacete Balompie,2,1,,,,,,
+61622980,2025-08-31 17:30,UD Las Palmas,Malaga CF,0,1,,,,,,
+61622978,2025-08-31 19:30,Granada CF,CD Mirandes,1,2,,,,,,
+61622992,2025-09-01 17:30,SD Huesca,SD Eibar,2,1,,,,,,
+61622990,2025-09-01 19:30,CD Leganes,RC Deportivo De La Coruna,2,2,,,,,,
+61622998,2025-09-05 17:30,Albacete Balompie,CD Mirandes,1,4,,,,,,
+61623010,2025-09-05 19:30,Cordoba CF,CD Castellon,2,1,,,,,,
+61623004,2025-09-06 14:15,RC Deportivo De La Coruna,Sporting Gijon,1,0,,,,,,
+61623016,2025-09-06 16:30,Real Zaragoza,Real Valladolid,1,1,,,,,,
+61623012,2025-09-06 19:00,Malaga CF,Granada CF,2,2,,,,,,
+61623002,2025-09-07 12:00,AD Ceuta,SD Huesca,2,1,,,,,,
+61623000,2025-09-07 14:15,Burgos CF,UD Las Palmas,0,0,,,,,,
+61623008,2025-09-07 14:15,Real Sociedad San Sebastian B,Cadiz CF,3,3,,,,,,
+61623006,2025-09-07 16:30,UD Almeria,Racing Santander,2,3,,,,,,
+61623014,2025-09-07 16:30,Cultural Leonesa,CD Leganes,0,0,,,,,,
+61623018,2025-09-08 18:30,SD Eibar,FC Andorra,2,0,,,,,,
+61623028,2025-09-12 18:30,UD Las Palmas,Real Sociedad San Sebastian B,2,1,,,,,,
+61623020,2025-09-13 14:15,Cadiz CF,SD Eibar,1,0,,,,,,
+61623036,2025-09-13 14:15,CD Mirandes,RC Deportivo De La Coruna,1,5,,,,,,
+61623026,2025-09-13 16:30,SD Huesca,Malaga CF,1,0,,,,,,
+61623040,2025-09-13 19:00,Real Valladolid,UD Almeria,3,1,,,,,,
+61623030,2025-09-14 12:00,FC Andorra,Cordoba CF,3,1,,,,,,
+61623038,2025-09-14 14:15,Racing Santander,Cultural Leonesa,2,4,,,,,,
+61623022,2025-09-14 16:30,CD Castellon,AD Ceuta,3,3,,,,,,
+61623034,2025-09-14 16:30,Sporting Gijon,Burgos CF,2,3,,,,,,
+61623024,2025-09-14 19:00,Granada CF,CD Leganes,0,2,,,,,,
+61623032,2025-09-15 18:30,Real Zaragoza,Albacete Balompie,0,0,,,,,,
+61623050,2025-09-19 18:30,RC Deportivo De La Coruna,SD Huesca,4,0,,,,,,
+61623062,2025-09-20 14:15,Cultural Leonesa,CD Castellon,1,3,,,,,,
+61623054,2025-09-20 16:30,CD Leganes,UD Las Palmas,0,1,,,,,,
+61623058,2025-09-20 16:30,FC Andorra,CD Mirandes,1,1,,,,,,
+61623056,2025-09-20 19:00,UD Almeria,Sporting Gijon,2,1,,,,,,
+61623046,2025-09-21 12:00,AD Ceuta,Real Zaragoza,1,0,,,,,,
+61623042,2025-09-21 14:15,Albacete Balompie,Real Valladolid,2,0,,,,,,
+61623052,2025-09-21 16:30,SD Eibar,Real Sociedad San Sebastian B,2,1,,,,,,
+61623060,2025-09-21 16:30,Malaga CF,Cadiz CF,0,1,,,,,,
+61623048,2025-09-21 19:00,Cordoba CF,Racing Santander,2,2,,,,,,
+61623044,2025-09-22 18:30,Burgos CF,Granada CF,1,1,,,,,,
+61623068,2025-09-26 18:30,CD Mirandes,Real Zaragoza,0,1,,,,,,
+61623076,2025-09-27 16:30,SD Eibar,RC Deportivo De La Coruna,1,1,,,,,,
+61623084,2025-09-27 16:30,Racing Santander,FC Andorra,1,2,,,,,,
+61623082,2025-09-27 19:00,UD Las Palmas,UD Almeria,0,1,,,,,,
+61623074,2025-09-28 12:00,Real Sociedad San Sebastian B,Cordoba CF,1,1,,,,,,
+61623064,2025-09-28 14:15,Burgos CF,Malaga CF,2,1,,,,,,
+61623066,2025-09-28 14:15,Cadiz CF,AD Ceuta,0,0,,,,,,
+61623070,2025-09-28 16:30,Sporting Gijon,Albacete Balompie,3,4,,,,,,
+61623080,2025-09-28 16:30,Real Valladolid,Cultural Leonesa,0,1,,,,,,
+61623078,2025-09-28 19:00,SD Huesca,Granada CF,0,1,,,,,,
+61623072,2025-09-29 18:30,CD Leganes,CD Castellon,0,1,,,,,,
+61623088,2025-10-03 18:30,AD Ceuta,SD Eibar,1,0,,,,,,
+61623104,2025-10-04 14:15,RC Deportivo De La Coruna,UD Almeria,1,1,,,,,,
+61623092,2025-10-04 16:30,FC Andorra,CD Leganes,1,2,,,,,,
+61623096,2025-10-04 16:30,SD Huesca,Burgos CF,2,1,,,,,,
+61623090,2025-10-04 19:00,Granada CF,Real Sociedad San Sebastian B,5,2,,,,,,
+61623100,2025-10-05 12:00,Real Zaragoza,Cordoba CF,0,1,,,,,,
+61623086,2025-10-05 14:15,CD Castellon,Sporting Gijon,3,1,,,,,,
+61623102,2025-10-05 16:30,Racing Santander,Malaga CF,3,0,,,,,,
+61623106,2025-10-05 16:30,Real Valladolid,CD Mirandes,1,1,,,,,,
+61623098,2025-10-05 19:00,UD Las Palmas,Cadiz CF,1,0,,,,,,
+61623094,2025-10-06 18:30,Cultural Leonesa,Albacete Balompie,0,0,,,,,,
+61623116,2025-10-10 18:30,Granada CF,UD Las Palmas,0,0,,,,,,
+61623124,2025-10-11 14:15,CD Mirandes,CD Leganes,0,0,,,,,,
+61623118,2025-10-11 16:30,UD Almeria,Real Zaragoza,4,2,,,,,,
+61623128,2025-10-11 16:30,Real Sociedad San Sebastian B,FC Andorra,3,0,,,,,,
+61623108,2025-10-12 12:00,Albacete Balompie,AD Ceuta,0,0,,,,,,
+61623120,2025-10-12 14:15,SD Eibar,CD Castellon,0,0,,,,,,
+61623126,2025-10-12 14:15,Sporting Gijon,Racing Santander,2,1,,,,,,
+61623110,2025-10-12 16:30,Burgos CF,Real Valladolid,0,1,,,,,,
+61623112,2025-10-12 16:30,Cadiz CF,SD Huesca,1,0,,,,,,
+61623122,2025-10-12 19:00,Malaga CF,RC Deportivo De La Coruna,3,0,,,,,,
+61623114,2025-10-13 18:30,Cordoba CF,Cultural Leonesa,1,0,,,,,,
+61623134,2025-10-17 18:30,FC Andorra,Granada CF,0,0,,,,,,
+61623130,2025-10-18 14:15,AD Ceuta,CD Mirandes,2,0,,,,,,
+61623146,2025-10-18 16:30,Real Zaragoza,Cultural Leonesa,0,5,,,,,,
+61623132,2025-10-19 12:00,CD Leganes,Malaga CF,2,0,,,,,,
+61623136,2025-10-19 14:15,CD Castellon,Albacete Balompie,0,1,,,,,,
+61623148,2025-10-19 14:15,Real Valladolid,Sporting Gijon,2,3,,,,,,
+61623140,2025-10-19 16:30,Racing Santander,RC Deportivo De La Coruna,2,1,,,,,,
+61623150,2025-10-19 16:30,Cordoba CF,UD Almeria,1,1,,,,,,
+61623142,2025-10-19 19:00,UD Las Palmas,SD Eibar,3,1,,,,,,
+61623138,2025-10-20 18:30,Cadiz CF,Burgos CF,1,3,,,,,,
+61623160,2025-10-24 18:30,SD Huesca,UD Las Palmas,1,1,,,,,,
+61623170,2025-10-25 12:00,Cultural Leonesa,AD Ceuta,0,1,,,,,,
+61623152,2025-10-25 14:15,Albacete Balompie,Cordoba CF,1,3,,,,,,
+61623158,2025-10-25 14:15,SD Eibar,CD Leganes,0,0,,,,,,
+61623154,2025-10-25 16:30,Burgos CF,Real Sociedad San Sebastian B,1,0,,,,,,
+61623168,2025-10-25 16:30,Granada CF,Cadiz CF,0,0,,,,,,
+61623166,2025-10-25 19:00,CD Mirandes,Racing Santander,1,3,,,,,,
+61623172,2025-10-26 13:00,Malaga CF,FC Andorra,4,1,,,,,,
+61623162,2025-10-26 17:30,Sporting Gijon,Real Zaragoza,1,0,,,,,,
+61623164,2025-10-26 17:30,UD Almeria,CD Castellon,1,0,,,,,,
+61623156,2025-10-26 20:00,RC Deportivo De La Coruna,Real Valladolid,1,1,,,,,,
+61623180,2025-10-31 19:30,Racing Santander,Real Sociedad San Sebastian B,1,0,,,,,,
+61623178,2025-11-01 15:15,Cultural Leonesa,CD Mirandes,3,2,,,,,,
+61623174,2025-11-01 17:30,Albacete Balompie,SD Huesca,2,1,,,,,,
+61623186,2025-11-01 17:30,CD Leganes,Burgos CF,1,2,,,,,,
+61623182,2025-11-01 20:00,UD Almeria,SD Eibar,3,1,,,,,,
+61623184,2025-11-02 13:00,FC Andorra,Cadiz CF,0,0,,,,,,
+61623188,2025-11-02 15:15,Cordoba CF,AD Ceuta,2,0,,,,,,
+61623194,2025-11-02 15:15,Sporting Gijon,UD Las Palmas,0,0,,,,,,
+61623176,2025-11-02 17:30,CD Castellon,Malaga CF,2,1,,,,,,
+61623190,2025-11-02 20:00,Real Zaragoza,RC Deportivo De La Coruna,0,2,,,,,,
+61623192,2025-11-03 19:30,Real Valladolid,Granada CF,2,1,,,,,,
+64817558,2025-11-05 19:00,Real Sociedad San Sebastian B,SD Huesca,2,0,,,,,,
+61623206,2025-11-07 19:30,CD Mirandes,Sporting Gijon,2,1,,,,,,
+61623212,2025-11-08 13:00,Real Sociedad San Sebastian B,CD Leganes,2,1,,,,,,
+61623208,2025-11-08 15:15,SD Eibar,Albacete Balompie,3,2,,,,,,
+61623216,2025-11-08 15:15,SD Huesca,FC Andorra,2,2,,,,,,
+61623200,2025-11-08 17:30,RC Deportivo De La Coruna,Cultural Leonesa,3,0,,,,,,
+61623210,2025-11-08 20:00,Malaga CF,Cordoba CF,2,2,,,,,,
+61623204,2025-11-09 13:00,UD Las Palmas,Racing Santander,3,1,,,,,,
+61623202,2025-11-09 17:30,Granada CF,Real Zaragoza,3,1,,,,,,
+61623198,2025-11-09 20:00,Cadiz CF,Real Valladolid,0,0,,,,,,
+61623196,2025-11-10 19:30,Burgos CF,CD Castellon,0,0,,,,,,
+61623238,2025-11-14 19:30,Real Valladolid,UD Las Palmas,0,1,,,,,,
+61623218,2025-11-15 15:00,Albacete Balompie,FC Andorra,1,0,,,,,,
+61623220,2025-11-15 15:00,CD Castellon,Real Sociedad San Sebastian B,5,4,,,,,,
+61623234,2025-11-15 20:00,Racing Santander,Granada CF,2,2,,,,,,
+61623222,2025-11-16 13:00,AD Ceuta,CD Leganes,1,2,,,,,,
+61623228,2025-11-16 15:15,UD Almeria,Cadiz CF,3,0,,,,,,
+61623232,2025-11-16 15:15,Sporting Gijon,SD Eibar,1,1,,,,,,
+61623224,2025-11-16 17:30,Cordoba CF,RC Deportivo De La Coruna,1,3,,,,,,
+61623230,2025-11-16 17:30,CD Mirandes,Burgos CF,0,2,,,,,,
+61623236,2025-11-16 20:00,Real Zaragoza,SD Huesca,1,0,,,,,,
+61623226,2025-11-17 19:30,Cultural Leonesa,Malaga CF,1,0,,,,,,
+61623254,2025-11-21 19:30,UD Las Palmas,Albacete Balompie,2,1,,,,,,
+61623250,2025-11-22 15:15,FC Andorra,CD Castellon,1,3,,,,,,
+61623244,2025-11-22 17:30,SD Eibar,Real Zaragoza,1,2,,,,,,
+61623260,2025-11-22 17:30,CD Leganes,UD Almeria,0,3,,,,,,
+61623258,2025-11-22 20:00,Granada CF,Cordoba CF,1,1,,,,,,
+61623256,2025-11-23 13:00,RC Deportivo De La Coruna,AD Ceuta,2,1,,,,,,
+61623242,2025-11-23 15:15,Cadiz CF,Cultural Leonesa,1,2,,,,,,
+61623246,2025-11-23 15:15,SD Huesca,Sporting Gijon,2,0,,,,,,
+61623240,2025-11-23 17:30,Burgos CF,Racing Santander,0,2,,,,,,
+61623248,2025-11-23 20:00,Malaga CF,CD Mirandes,3,2,,,,,,
+61623252,2025-11-24 19:30,Real Sociedad San Sebastian B,Real Valladolid,1,0,,,,,,
+61623214,2025-11-26 18:00,AD Ceuta,UD Almeria,3,2,,,,,,
+65843018,2025-11-26 18:00,AD Ceuta,UD Almeria,3,2,,,,,,
+61623282,2025-11-28 19:30,Sporting Gijon,FC Andorra,1,1,,,,,,
+61623270,2025-11-29 13:00,AD Ceuta,Burgos CF,1,0,,,,,,
+61623276,2025-11-29 15:15,Cultural Leonesa,Granada CF,0,1,,,,,,
+61623262,2025-11-29 17:30,Albacete Balompie,RC Deportivo De La Coruna,0,2,,,,,,
+61623266,2025-11-29 17:30,UD Almeria,SD Huesca,0,0,,,,,,
+61623280,2025-11-29 20:00,Real Valladolid,Malaga CF,1,1,,,,,,
+61623278,2025-11-30 13:00,Real Zaragoza,CD Leganes,3,2,,,,,,
+61623274,2025-11-30 15:15,Racing Santander,SD Eibar,4,0,,,,,,
+61623268,2025-11-30 17:30,CD Mirandes,Real Sociedad San Sebastian B,1,0,,,,,,
+61623272,2025-11-30 17:30,Cordoba CF,Cadiz CF,1,2,,,,,,
+61623264,2025-11-30 20:00,CD Castellon,UD Las Palmas,1,0,,,,,,
+61623304,2025-12-06 13:00,FC Andorra,UD Almeria,1,2,,,,,,
+61623288,2025-12-06 15:15,SD Huesca,Real Valladolid,1,4,,,,,,
+61623294,2025-12-06 17:30,Real Sociedad San Sebastian B,Sporting Gijon,0,1,,,,,,
+61623284,2025-12-07 13:00,Cadiz CF,Racing Santander,2,3,,,,,,
+61623302,2025-12-07 15:15,CD Leganes,Cordoba CF,0,0,,,,,,
+61623286,2025-12-07 17:30,SD Eibar,Cultural Leonesa,1,2,,,,,,
+61623298,2025-12-07 17:30,RC Deportivo De La Coruna,CD Castellon,1,3,,,,,,
+61623300,2025-12-07 20:00,Granada CF,AD Ceuta,1,1,,,,,,
+61623296,2025-12-08 15:15,Burgos CF,Albacete Balompie,0,1,,,,,,
+61623290,2025-12-08 17:30,UD Las Palmas,CD Mirandes,0,0,1.533,3.800,6.500,2.25,1.900,1.900
+61623292,2025-12-08 19:30,Malaga CF,Real Zaragoza,1,1,2.050,3.200,3.600,2.25,1.975,1.825
+61623322,2025-12-12 19:30,Cultural Leonesa,SD Huesca,0,2,2.200,2.875,3.800,2,2.025,1.775
+61623312,2025-12-13 13:00,Cordoba CF,SD Eibar,0,0,2.250,3.200,3.250,2.25,1.825,1.975
+61623320,2025-12-13 15:15,Sporting Gijon,Granada CF,1,0,2.200,3.100,3.500,2.25,2.025,1.775
+61623326,2025-12-13 15:15,Real Valladolid,FC Andorra,0,1,1.533,4.200,5.500,2.5,1.800,2.000
+61623324,2025-12-13 17:30,Racing Santander,CD Leganes,1,1,1.600,4.200,4.750,2.75,1.875,1.925
+61623314,2025-12-13 20:00,RC Deportivo La Coruna,Real Sociedad San Sebastian B,0,3,1.480,4.333,6.000,2.5,1.900,1.900
+61623318,2025-12-13 20:00,Real Zaragoza,Cadiz CF,1,2,2.150,3.000,3.700,2,1.775,2.025
+61623306,2025-12-14 15:15,Albacete Balompie,Malaga CF,1,3,1.850,3.400,4.333,2.5,1.975,1.825
+61623316,2025-12-14 17:30,UD Almeria,Burgos CF,1,2,1.727,3.500,4.750,2.25,1.975,1.825
+61623310,2025-12-14 20:00,AD Ceuta,UD Las Palmas,1,1,2.700,3.000,2.750,2,1.950,1.850
+61623308,2025-12-15 19:30,CD Castellon,CD Mirandes,3,1,1.333,4.750,8.500,3,1.875,1.925
+61623332,2025-12-19 19:30,SD Eibar,Real Valladolid,3,0,2.300,2.900,3.500,2.25,2.000,1.800
+61623338,2025-12-20 13:00,FC Andorra,RC Deportivo La Coruna,1,0,2.500,3.300,2.750,2.5,1.900,1.900
+61623334,2025-12-20 15:15,SD Huesca,Racing Santander,1,1,2.700,3.200,2.700,2.5,1.975,1.825
+61623336,2025-12-20 17:30,CD Leganes,Sporting Gijon,0,1,2.450,3.100,3.100,2,1.875,1.925
+61623346,2025-12-20 20:00,UD Las Palmas,Cultural Leonesa,4,0,1.666,3.500,5.750,2.25,1.825,1.975
+61623348,2025-12-21 13:00,Malaga CF,UD Almeria,2,1,2.875,3.250,2.500,2.5,1.900,1.900
+61623342,2025-12-21 15:15,Real Sociedad San Sebastian B,AD Ceuta,1,3,2.800,3.000,2.700,2.25,2.000,1.800
+61623344,2025-12-21 15:15,CD Mirandes,Cordoba CF,1,2,3.100,3.200,2.350,2.25,1.975,1.825
+61623328,2025-12-21 17:30,Burgos CF,Real Zaragoza,1,1,2.100,3.000,4.100,1.75,1.775,2.025
+61623340,2025-12-21 17:30,Granada CF,Albacete Balompie,1,1,2.000,3.100,4.100,2.5,2.025,1.775
+61623330,2025-12-21 20:00,Cadiz CF,CD Castellon,2,0,3.800,3.500,1.950,2.5,1.900,1.900
+61623354,2026-01-02 19:30,SD Eibar,CD Mirandes,2,1,1.533,3.750,7.000,2.25,1.975,1.825
+61623356,2026-01-03 13:00,Cultural Leonesa,Real Sociedad San Sebastian B,1,1,1.750,3.500,4.750,2.5,2.000,1.800
+61623352,2026-01-03 15:15,CD Castellon,SD Huesca,4,1,1.444,4.100,8.000,2.25,1.775,2.025
+61623358,2026-01-03 15:15,UD Almeria,Granada CF,3,2,1.850,3.300,3.750,2.5,1.900,1.900
+61623368,2026-01-03 17:30,Real Valladolid,Racing Santander,1,1,1.950,3.500,3.700,2.75,1.950,1.850
+61623360,2026-01-03 20:00,Cordoba CF,Burgos CF,2,0,1.909,3.100,4.500,2,1.950,1.850
+61623366,2026-01-04 13:00,Sporting Gijon,Malaga CF,1,3,1.800,3.400,4.500,2.5,2.025,1.775
+61623370,2026-01-04 15:15,AD Ceuta,FC Andorra,2,1,1.950,3.500,3.800,2.5,1.900,1.900
+61623350,2026-01-04 17:30,Albacete Balompie,CD Leganes,1,3,2.300,3.200,3.100,2.25,1.800,2.000
+61623364,2026-01-04 17:30,Real Zaragoza,UD Las Palmas,1,2,2.800,2.900,2.700,2,1.950,1.850
+61623362,2026-01-04 20:00,RC Deportivo La Coruna,Cadiz CF,2,2,1.700,3.700,4.750,2.5,1.975,1.825
+61623374,2026-01-09 19:30,Cadiz CF,Sporting Gijon,3,2,2.700,3.100,2.700,2,2.025,1.775
+61623392,2026-01-10 13:00,CD Mirandes,UD Almeria,2,2,3.100,3.400,2.250,2.5,1.950,1.850
+61623380,2026-01-10 15:15,FC Andorra,Cultural Leonesa,1,1,2.000,3.500,3.600,2.5,1.900,1.900
+61623382,2026-01-10 15:15,Real Sociedad San Sebastian B,Albacete Balompie,0,0,2.600,3.400,2.600,2.5,1.800,2.000
+61623372,2026-01-10 17:30,Burgos CF,SD Eibar,1,0,2.750,2.700,3.100,1.5,1.800,2.000
+61623390,2026-01-10 17:30,UD Las Palmas,RC Deportivo La Coruna,1,1,1.950,3.200,4.200,2.25,1.900,1.900
+61623378,2026-01-10 20:00,Racing Santander,Real Zaragoza,2,3,1.700,3.900,4.750,2.75,2.000,1.800
+61623376,2026-01-11 13:00,CD Leganes,Real Valladolid,3,0,2.200,3.100,3.600,2,1.825,1.975
+61623384,2026-01-11 15:15,Granada CF,CD Castellon,0,0,3.200,3.400,2.200,2.5,2.000,1.800
+61623386,2026-01-11 15:15,Malaga CF,AD Ceuta,2,1,2.050,3.300,3.600,2.5,1.900,1.900
+61623388,2026-01-12 19:30,SD Huesca,Cordoba CF,1,2,2.600,2.900,3.000,2,1.775,2.025
+61623498,2026-01-16 19:30,CD Castellon,CD Leganes,2,0,1.533,4.333,5.500,2.75,1.975,1.825
+61623500,2026-01-17 13:00,AD Ceuta,Real Valladolid,0,3,2.450,3.000,3.100,2,2.050,1.750
+61623504,2026-01-17 15:15,Cultural Leonesa,Sporting Gijon,2,4,3.300,3.100,2.300,2.25,1.925,1.875
+61623514,2026-01-17 17:30,Real Zaragoza,Real Sociedad San Sebastian B,1,1,1.850,3.300,4.500,2.25,1.875,1.925
+61623506,2026-01-17 20:00,UD Almeria,RC Deportivo La Coruna,1,2,2.000,3.400,3.600,2.5,1.875,1.925
+61623512,2026-01-18 13:00,CD Mirandes,FC Andorra,1,2,2.700,3.200,2.600,2.25,1.825,1.975
+61623510,2026-01-18 15:15,Racing Santander,UD Las Palmas,4,1,2.200,3.250,3.250,2.5,1.850,1.950
+61623494,2026-01-18 17:30,Albacete Balompie,Cadiz CF,1,0,2.150,3.400,3.250,2.5,1.900,1.900
+61623496,2026-01-18 17:30,Burgos CF,SD Huesca,1,0,1.950,2.900,4.750,1.75,1.875,1.925
+61623502,2026-01-18 20:00,Cordoba CF,Malaga CF,0,1,2.050,3.300,3.500,2.5,1.950,1.850
+61623508,2026-01-19 19:30,Granada CF,SD Eibar,0,0,2.250,3.000,3.500,2,1.900,1.900
+61623528,2026-01-23 19:30,Malaga CF,Burgos CF,3,0,2.000,3.100,4.200,2,1.900,1.900
+61623526,2026-01-24 13:00,Real Valladolid,Albacete Balompie,0,1,1.950,3.200,4.200,2.5,2.050,1.750
+61623522,2026-01-24 15:15,CD Leganes,Real Sociedad San Sebastian B,2,0,1.900,3.300,4.333,2.5,1.950,1.850
+61623532,2026-01-24 17:30,UD Las Palmas,Cordoba CF,1,2,1.909,3.400,4.000,2.25,1.825,1.975
+61623536,2026-01-24 17:30,Sporting Gijon,CD Mirandes,3,0,1.650,3.900,5.250,2.25,1.800,2.000
+61623516,2026-01-24 20:00,Cadiz CF,Granada CF,1,2,2.625,3.000,2.900,2,1.750,2.050
+61623524,2026-01-25 13:00,FC Andorra,SD Huesca,1,1,1.909,3.400,4.200,2.25,1.875,1.925
+61623534,2026-01-25 15:15,SD Eibar,UD Almeria,1,0,2.250,3.300,3.200,2.5,2.000,1.800
+61623530,2026-01-25 17:30,Real Zaragoza,CD Castellon,0,0,3.900,3.400,1.950,2.5,1.950,1.850
+61623520,2026-01-25 20:00,RC Deportivo La Coruna,Racing Santander,0,1,2.000,3.300,3.800,2.75,1.975,1.825
+61623518,2026-01-26 19:30,AD Ceuta,Cultural Leonesa,3,1,2.050,3.400,3.500,2.5,1.950,1.850
+61623554,2026-01-30 19:30,Real Sociedad San Sebastian B,UD Las Palmas,1,1,2.800,3.250,2.550,2.25,1.800,2.000
+61623538,2026-01-31 15:15,Albacete Balompie,Real Zaragoza,2,0,1.850,3.400,4.100,2.25,1.800,2.000
+61623540,2026-01-31 15:15,Burgos CF,CD Leganes,2,1,2.300,2.800,3.600,1.75,1.850,1.950
+61623552,2026-01-31 17:30,Cultural Leonesa,RC Deportivo De La Coruna,0,1,3.400,3.000,2.300,2.25,1.975,1.825
+61623542,2026-01-31 20:00,Cordoba CF,Real Valladolid,3,1,1.850,3.500,4.100,2.5,1.950,1.850
+61623548,2026-02-01 13:00,UD Almeria,AD Ceuta,4,2,1.800,3.500,4.333,2.75,1.850,1.950
+61623544,2026-02-01 15:15,SD Eibar,Sporting Gijon,1,0,2.100,3.100,3.700,2,1.800,2.000
+61623550,2026-02-01 17:30,SD Huesca,Cadiz CF,1,0,2.375,3.100,3.100,2,1.800,2.000
+61623558,2026-02-01 17:30,CD Castellon,FC Andorra,2,0,1.400,4.200,6.000,3,2.025,1.775
+61623546,2026-02-01 20:00,Granada CF,Racing Santander,1,0,2.400,3.200,3.000,2.5,2.000,1.800
+61623556,2026-02-02 19:30,CD Mirandes,Malaga CF,2,1,3.000,2.900,2.550,2.25,2.025,1.775
+61623572,2026-02-06 19:30,CD Leganes,Granada CF,1,0,2.300,3.000,3.400,2,1.950,1.850
+61623562,2026-02-07 13:00,FC Andorra,Real Sociedad San Sebastian B,1,2,1.615,3.800,5.250,2.5,1.900,1.900
+61623566,2026-02-07 15:15,UD Las Palmas,Burgos CF,0,0,1.900,3.100,4.750,2,1.825,1.975
+61623570,2026-02-07 17:30,Real Zaragoza,SD Eibar,1,1,3.500,3.000,2.250,2,1.800,2.000
+61623568,2026-02-08 13:00,Real Valladolid,CD Castellon,0,4,3.100,3.300,2.250,2.5,1.975,1.825
+61623564,2026-02-08 15:15,RC Deportivo De La Coruna,Albacete Balompie,2,1,1.666,3.900,4.750,2.5,1.825,1.975
+61623578,2026-02-08 15:15,Cadiz CF,UD Almeria,1,2,2.800,3.400,2.400,2.5,1.950,1.850
+61623574,2026-02-08 17:30,Sporting Gijon,SD Huesca,2,1,1.850,3.250,4.500,2,1.775,2.025
+61623576,2026-02-08 20:00,Malaga CF,Cultural Leonesa,2,1,1.750,3.500,4.750,2.5,2.000,1.800
+61623580,2026-02-09 19:30,Racing Santander,CD Mirandes,1,0,1.615,4.100,5.000,2.75,1.950,1.850
+61623596,2026-02-13 19:30,UD Almeria,FC Andorra,3,2,1.727,4.000,4.200,3,1.975,1.825
+61623588,2026-02-14 13:00,Cordoba CF,CD Leganes,2,1,1.850,3.500,4.100,2.5,1.975,1.825
+61623584,2026-02-14 15:15,Burgos CF,Cadiz CF,1,1,1.900,3.200,4.333,2,2.000,1.800
+61623594,2026-02-14 17:30,Cultural Leonesa,Real Zaragoza,0,0,2.150,3.250,3.400,2.25,1.975,1.825
+61623592,2026-02-14 20:00,Granada CF,Real Valladolid,5,1,2.050,3.100,4.100,2,1.950,1.850
+61623600,2026-02-15 13:00,CD Mirandes,UD Las Palmas,1,1,3.250,3.100,2.300,2,1.750,2.050
+61623590,2026-02-15 15:15,SD Eibar,Racing Santander,2,1,2.150,3.200,3.400,2.25,1.900,1.900
+61623598,2026-02-15 15:15,SD Huesca,AD Ceuta,2,0,2.150,3.000,3.700,2,1.800,2.000
+61623582,2026-02-15 17:30,Albacete Balompie,Sporting Gijon,1,1,2.050,3.300,3.600,2.5,1.950,1.850
+61623586,2026-02-15 20:00,CD Castellon,RC Deportivo De La Coruna,2,0,1.750,3.750,4.333,2.75,2.000,1.800
+61623602,2026-02-16 19:30,Real Sociedad San Sebastian B,Malaga CF,2,1,2.700,3.200,2.625,2.25,1.850,1.950
+61623606,2026-02-20 19:30,AD Ceuta,Granada CF,2,1,2.550,3.000,3.000,2.25,1.975,1.825
+61623612,2026-02-21 13:00,CD Leganes,Cultural Leonesa,1,1,1.833,3.400,4.333,2.25,1.850,1.950
+61623608,2026-02-21 15:15,RC Deportivo De La Coruna,SD Eibar,1,0,1.909,3.400,4.100,2.25,2.025,1.775
+61623610,2026-02-21 15:15,SD Huesca,CD Mirandes,1,2,2.050,2.900,4.200,2,1.900,1.900
+61623616,2026-02-21 17:30,UD Almeria,Cordoba CF,2,1,2.150,3.500,3.200,3,1.975,1.825
+61623624,2026-02-21 20:00,UD Las Palmas,CD Castellon,1,1,2.600,3.200,2.700,2.25,1.925,1.875
+61623614,2026-02-22 13:00,Sporting Gijon,Real Valladolid,2,2,2.050,3.250,3.600,2.25,2.000,1.800
+61623618,2026-02-22 15:15,FC Andorra,Real Zaragoza,2,1,1.833,3.600,4.200,2.25,2.000,1.800
+61623622,2026-02-22 17:30,Racing Santander,Burgos CF,1,0,2.050,3.300,3.600,2.25,1.925,1.875
+61623620,2026-02-22 20:00,Malaga CF,Albacete Balompie,1,0,1.950,3.400,3.900,2.5,1.975,1.825
+61623604,2026-02-23 19:30,Cadiz CF,Real Sociedad San Sebastian B,0,2,2.150,3.300,3.300,2.5,2.025,1.775
+68906304,2026-02-25 18:00,AD Ceuta,Cordoba CF,3,2,3.000,3.100,2.400,2.75,1.975,1.825
+61623626,2026-02-27 19:30,Albacete Balompie,UD Almeria,1,1,2.625,3.400,2.625,2.5,1.825,1.975
+61623634,2026-02-28 15:15,Real Zaragoza,Burgos CF,0,1,3.000,3.000,2.500,1.75,1.750,2.050
+61623630,2026-02-28 17:30,Granada CF,Malaga CF,0,1,2.200,3.000,3.600,2.25,1.950,1.850
+61623642,2026-02-28 17:30,Real Valladolid,SD Huesca,1,0,1.750,3.500,4.500,2,1.925,1.875
+61623628,2026-02-28 20:00,CD Castellon,Racing Santander,1,3,1.615,4.200,4.750,2.75,1.850,1.950
+61623640,2026-03-01 13:00,Real Sociedad San Sebastian B,RC Deportivo De La Coruna,2,3,3.200,3.300,2.250,2.25,1.850,1.950
+61623638,2026-03-01 15:15,CD Mirandes,AD Ceuta,0,1,2.300,3.100,3.400,2.25,2.025,1.775
+61623644,2026-03-01 15:15,Sporting Gijon,CD Leganes,0,0,1.900,3.500,4.000,2.25,1.825,1.975
+61623632,2026-03-01 17:30,Cultural Leonesa,UD Las Palmas,0,3,3.100,3.100,2.450,2.25,2.025,1.775
+61623636,2026-03-01 20:00,SD Eibar,Cadiz CF,3,1,1.650,3.700,5.500,2.25,1.825,1.975
+61623646,2026-03-02 19:30,Cordoba CF,FC Andorra,1,4,1.615,4.000,5.000,3,1.850,1.950
+61623650,2026-03-06 19:30,Cadiz CF,Real Zaragoza,0,1,,,,,,
+61623660,2026-03-07 15:15,SD Huesca,Albacete Balompie,0,0,,,,,,
+61623662,2026-03-07 15:15,Real Sociedad San Sebastian B,CD Castellon,4,2,3.800,3.750,1.850,2.75,2.000,1.800
+61623648,2026-03-07 17:30,Burgos CF,CD Mirandes,2,0,,,,,,
+61623654,2026-03-07 20:00,Malaga CF,Real Valladolid,3,3,,,,,,
+61623664,2026-03-08 13:00,UD Las Palmas,AD Ceuta,4,0,,,,,,
+61623658,2026-03-08 15:15,FC Andorra,Sporting Gijon,1,0,,,,,,
+61623666,2026-03-08 17:30,Racing Santander,Cordoba CF,4,3,,,,,,
+61623668,2026-03-08 17:30,CD Leganes,SD Eibar,0,1,,,,,,
+61623652,2026-03-08 20:00,RC Deportivo De La Coruna,Granada CF,0,2,,,,,,
+61623656,2026-03-09 19:30,UD Almeria,Cultural Leonesa,3,0,,,,,,
+61623680,2026-03-13 19:30,CD Mirandes,Cadiz CF,0,2,,,,,,
+61623676,2026-03-14 15:15,Cultural Leonesa,Racing Santander,1,2,,,,,,
+61623686,2026-03-14 17:30,Real Valladolid,CD Leganes,3,2,,,,,,
+61623688,2026-03-14 17:30,Real Zaragoza,UD Almeria,2,0,,,,,,
+61623672,2026-03-14 20:00,AD Ceuta,RC Deportivo De La Coruna,1,2,,,,,,
+61623674,2026-03-15 13:00,Cordoba CF,Real Sociedad San Sebastian B,0,2,1.727,3.900,4.333,3,1.975,1.825
+61623690,2026-03-15 15:15,Granada CF,FC Andorra,1,1,,,,,,
+61623678,2026-03-15 17:30,SD Eibar,Burgos CF,0,0,,,,,,
+61623684,2026-03-15 17:30,Malaga CF,SD Huesca,5,3,,,,,,
+61623682,2026-03-15 20:00,Sporting Gijon,CD Castellon,4,1,,,,,,
+61623670,2026-03-16 19:30,Albacete Balompie,UD Las Palmas,2,1,,,,,,
+61623712,2026-03-20 19:30,SD Huesca,UD Almeria,1,3,,,,,,
+61623708,2026-03-21 13:00,CD Leganes,AD Ceuta,5,2,,,,,,
+61623704,2026-03-21 15:15,FC Andorra,SD Eibar,0,1,,,,,,
+61623706,2026-03-21 15:15,Racing Santander,Albacete Balompie,0,4,,,,,,
+61623694,2026-03-21 17:30,Cadiz CF,Malaga CF,0,3,,,,,,
+61623698,2026-03-21 20:00,RC Deportivo De La Coruna,Real Zaragoza,2,1,,,,,,
+61623692,2026-03-22 13:00,Burgos CF,Cordoba CF,4,0,,,,,,
+61623702,2026-03-22 15:15,CD Mirandes,Real Valladolid,2,1,,,,,,
+61623710,2026-03-22 15:15,Real Sociedad San Sebastian B,Granada CF,0,2,2.550,3.100,2.875,2.25,1.900,1.900
+61623700,2026-03-22 17:30,UD Las Palmas,Sporting Gijon,1,0,,,,,,
+61623696,2026-03-23 19:30,CD Castellon,Cultural Leonesa,1,1,,,,,,
+61623716,2026-03-27 18:00,Cordoba CF,CD Mirandes,2,2,,,,,,
+61623726,2026-03-28 13:00,AD Ceuta,Cadiz CF,2,1,,,,,,
+61623720,2026-03-28 15:15,Granada CF,SD Huesca,4,2,,,,,,
+61623724,2026-03-28 15:15,Real Valladolid,Burgos CF,0,1,,,,,,
+61623730,2026-03-28 17:30,Malaga CF,CD Leganes,0,0,,,,,,
+61623714,2026-03-28 20:00,Albacete Balompie,CD Castellon,1,1,,,,,,
+62622992,2026-03-28 20:00,Sporting Gijon,RC Deportivo De La Coruna,1,1,,,,,,
+61623718,2026-03-29 12:00,SD Eibar,UD Las Palmas,3,1,2.300,3.000,3.250,2,1.900,1.900
+61623734,2026-03-29 14:15,Cultural Leonesa,FC Andorra,0,4,2.250,3.200,3.100,2.25,1.900,1.900
+61623732,2026-03-29 16:30,Real Zaragoza,Racing Santander,2,0,2.350,3.250,3.000,2.5,2.000,1.800
+61623722,2026-03-29 19:00,UD Almeria,Real Sociedad San Sebastian B,5,1,1.550,4.100,5.250,3,1.950,1.850
+61623746,2026-03-31 17:00,CD Mirandes,Albacete Balompie,1,1,2.250,3.300,3.100,2.5,2.000,1.800
+61623750,2026-03-31 18:00,RC Deportivo De La Coruna,Cordoba CF,2,0,1.909,3.600,3.900,2.5,1.850,1.950
+61623748,2026-03-31 19:30,Real Valladolid,Cadiz CF,3,0,1.500,4.200,6.250,2.5,1.875,1.925
+61623744,2026-04-01 17:00,FC Andorra,Malaga CF,3,3,1.909,3.600,3.750,2.5,1.900,1.900
+61623736,2026-04-01 18:00,Burgos CF,AD Ceuta,1,1,1.900,3.000,4.500,2,1.900,1.900
+61623738,2026-04-01 18:00,SD Huesca,Cultural Leonesa,1,1,2.050,3.000,3.500,2.25,2.000,1.800
+61623742,2026-04-01 19:30,Racing Santander,Sporting Gijon,3,1,1.833,3.600,4.100,2.75,1.900,1.900
+61623754,2026-04-02 17:00,UD Las Palmas,Granada CF,2,0,1.700,3.400,5.500,2.25,1.900,1.900
+61623752,2026-04-02 18:00,Real Sociedad San Sebastian B,SD Eibar,0,1,3.200,3.300,2.200,2.5,1.950,1.850
+61623756,2026-04-02 18:00,CD Castellon,UD Almeria,2,0,1.900,3.900,3.700,3.25,1.975,1.825
+61623740,2026-04-02 19:30,CD Leganes,Real Zaragoza,1,1,2.100,3.200,3.700,2.25,1.975,1.825
+61623760,2026-04-04 12:00,Cadiz CF,Cordoba CF,1,3,3.100,3.400,2.200,2.5,1.950,1.850
+61623758,2026-04-04 14:15,Albacete Balompie,Burgos CF,2,3,2.500,3.100,3.000,2,1.925,1.875
+61623764,2026-04-04 16:30,RC Deportivo De La Coruna,Malaga CF,1,1,1.900,3.700,3.750,2.25,1.800,2.000
+61623766,2026-04-04 16:30,Cultural Leonesa,Real Valladolid,1,0,2.625,3.300,2.625,2.25,1.825,1.975
+61623772,2026-04-05 12:00,SD Eibar,AD Ceuta,3,0,1.533,3.900,6.250,2.5,1.875,1.925
+61623770,2026-04-05 14:15,FC Andorra,Racing Santander,6,2,2.100,3.500,2.875,2.75,1.925,1.875
+61623768,2026-04-05 16:30,UD Almeria,CD Leganes,2,1,1.550,4.200,5.500,3,1.950,1.850
+61623774,2026-04-05 16:30,UD Las Palmas,SD Huesca,2,1,1.571,3.800,6.000,2.5,1.950,1.850
+61623776,2026-04-05 19:00,Real Zaragoza,CD Mirandes,1,2,2.000,3.250,3.900,2.25,1.875,1.925
+61623762,2026-04-06 17:00,CD Castellon,Granada CF,3,2,1.480,3.800,5.750,2.5,1.900,1.900
+61623778,2026-04-06 18:30,Sporting Gijon,Real Sociedad San Sebastian B,1,0,1.500,3.800,5.250,2.75,1.825,1.975
+61623782,2026-04-10 18:30,AD Ceuta,Real Sociedad San Sebastian B,0,0,1.800,3.700,4.333,2.75,1.850,1.950
+61623780,2026-04-11 14:15,Burgos CF,Sporting Gijon,1,0,2.200,3.000,3.500,2,1.925,1.875
+61623788,2026-04-11 14:15,CD Leganes,Albacete Balompie,2,1,1.900,3.250,4.333,2.25,2.000,1.800
+61623796,2026-04-11 16:30,Malaga CF,UD Las Palmas,2,0,2.500,3.200,2.900,2.5,2.025,1.775
+61623784,2026-04-11 19:00,Cordoba CF,Real Zaragoza,1,0,1.850,3.600,4.000,2.75,1.925,1.875
+61623786,2026-04-12 12:00,Granada CF,Cultural Leonesa,1,0,1.850,3.300,4.500,2.25,1.950,1.850
+61623792,2026-04-12 14:15,SD Huesca,RC Deportivo De La Coruna,1,1,3.400,3.200,2.150,2.25,1.975,1.825
+61623790,2026-04-12 16:30,CD Mirandes,CD Castellon,2,2,4.333,3.700,1.800,2.75,2.000,1.800
+61623800,2026-04-12 16:30,Cadiz CF,FC Andorra,0,1,3.200,3.400,2.200,2.5,1.975,1.825
+61623798,2026-04-12 19:00,Racing Santander,UD Almeria,5,1,2.350,3.600,2.875,3,1.850,1.950
+61623794,2026-04-13 18:30,Real Valladolid,SD Eibar,0,0,2.375,2.900,3.400,2.25,1.825,1.975
+61623822,2026-04-17 18:30,Real Sociedad San Sebastian B,Racing Santander,1,3,3.300,3.800,2.000,3.25,2.000,1.800
+61623820,2026-04-17 19:00,UD Las Palmas,CD Leganes,2,0,1.666,3.900,4.750,2.5,1.825,1.975
+61623816,2026-04-18 14:15,Real Zaragoza,AD Ceuta,2,2,1.615,3.900,5.250,2.5,1.925,1.875
+61623812,2026-04-18 16:30,CD Castellon,Burgos CF,3,1,1.666,3.600,5.500,2.25,1.825,1.975
+61623818,2026-04-18 16:30,Cultural Leonesa,Cordoba CF,1,2,2.450,3.300,2.800,2.75,1.800,2.000
+61623810,2026-04-19 12:00,FC Andorra,Real Valladolid,1,0,2.200,3.300,3.250,2.25,1.775,2.025
+61623814,2026-04-19 14:15,Sporting Gijon,Cadiz CF,3,0,1.615,3.800,5.500,2.5,1.825,1.975
+61623802,2026-04-19 16:30,Albacete Balompie,Granada CF,4,1,2.625,2.875,3.100,2.25,1.900,1.900
+61623806,2026-04-19 16:30,SD Eibar,SD Huesca,2,1,1.615,3.600,6.250,2.25,1.950,1.850
+61623808,2026-04-19 19:00,UD Almeria,Malaga CF,3,2,1.800,3.900,4.100,3,1.975,1.825
+61623804,2026-04-20 18:30,RC Deportivo De La Coruna,CD Mirandes,3,1,1.533,4.100,6.250,2.5,1.975,1.825
+61623824,2026-04-24 18:30,Albacete Balompie,SD Eibar,0,3,3.100,3.100,2.450,2.25,2.000,1.800
+61623844,2026-04-25 14:15,Real Valladolid,Real Sociedad San Sebastian B,1,0,1.550,4.100,5.750,2.75,1.875,1.925
+61623826,2026-04-25 16:30,Burgos CF,RC Deportivo De La Coruna,1,1,2.750,2.900,2.875,2,1.900,1.900
+61623836,2026-04-25 19:00,Malaga CF,CD Castellon,2,3,3.100,3.500,2.200,3,1.900,1.900
+61623832,2026-04-26 12:00,Cordoba CF,Sporting Gijon,3,2,1.950,3.750,3.400,2.75,1.775,2.025
+61623838,2026-04-26 14:15,CD Mirandes,Cultural Leonesa,2,1,1.909,3.700,3.700,2.5,2.000,1.800
+61623840,2026-04-26 14:15,Granada CF,UD Almeria,2,4,3.000,3.250,2.375,2.75,1.975,1.825
+61623834,2026-04-26 16:30,SD Huesca,Real Zaragoza,1,0,3.000,2.800,2.700,2.25,1.800,2.000
+61623842,2026-04-26 16:30,CD Leganes,FC Andorra,0,4,2.250,3.300,3.200,2.5,1.925,1.875
+61623830,2026-04-26 19:00,AD Ceuta,Racing Santander,0,1,4.000,4.000,1.800,3,1.825,1.975
+61623828,2026-04-27 18:30,Cadiz CF,UD Las Palmas,1,2,3.500,3.000,2.200,2.25,1.875,1.925
+61623856,2026-05-01 14:15,FC Andorra,Albacete Balompie,0,1,1.550,4.333,5.000,2.75,2.025,1.775
+61623848,2026-05-01 16:30,RC Deportivo De La Coruna,CD Leganes,2,1,1.500,4.333,6.000,2.5,1.975,1.825
+61623864,2026-05-01 19:00,Real Zaragoza,Granada CF,0,1,1.950,3.250,4.000,2.25,1.825,1.975
+61623860,2026-05-02 14:15,Cultural Leonesa,Cadiz CF,2,2,1.909,3.400,4.000,2.5,1.900,1.900
+61623846,2026-05-02 16:30,CD Castellon,Cordoba CF,1,2,1.450,5.000,6.000,3.25,2.000,1.800
+61623850,2026-05-02 19:00,SD Eibar,Malaga CF,2,4,2.100,3.200,3.750,2.25,1.900,1.900
+61623866,2026-05-03 12:00,Racing Santander,SD Huesca,4,2,1.380,5.000,7.000,3,1.875,1.925
+61623862,2026-05-03 14:15,Sporting Gijon,AD Ceuta,1,2,1.500,4.500,5.750,2.75,1.825,1.975
+61623858,2026-05-03 16:30,Real Sociedad San Sebastian B,Burgos CF,0,0,2.900,3.000,2.625,2.25,2.025,1.775
+61623852,2026-05-03 19:00,UD Las Palmas,Real Valladolid,2,1,1.615,4.100,5.250,2.25,2.000,1.800
+61623854,2026-05-04 18:30,UD Almeria,CD Mirandes,4,2,1.420,5.000,6.000,3.25,1.900,1.900
+61623870,2026-05-08 18:30,Cadiz CF,RC Deportivo De La Coruna,0,1,4.000,3.600,1.850,2.5,1.900,1.900
+61623886,2026-05-09 12:00,AD Ceuta,CD Castellon,1,1,5.500,5.000,1.450,3.25,1.950,1.850
+61623868,2026-05-09 14:15,Albacete Balompie,Cultural Leonesa,2,1,2.300,3.100,3.300,2.5,1.850,1.950
+61623890,2026-05-09 14:15,Burgos CF,UD Almeria,0,0,2.500,3.200,2.875,2.25,1.900,1.900
+61623880,2026-05-09 16:30,Real Valladolid,Real Zaragoza,2,0,1.800,3.250,4.100,2.25,1.825,1.975
+61623878,2026-05-09 19:00,Malaga CF,Sporting Gijon,2,1,1.615,4.200,4.750,2.75,2.000,1.800
+61623884,2026-05-10 12:00,FC Andorra,UD Las Palmas,5,1,2.700,3.100,2.700,2.5,1.925,1.875
+61623876,2026-05-10 14:15,CD Leganes,Racing Santander,1,2,2.900,3.750,2.200,3,1.875,1.925
+61623872,2026-05-10 16:30,Cordoba CF,Granada CF,1,0,1.615,4.100,5.000,2.75,1.850,1.950
+61623888,2026-05-10 16:30,CD Mirandes,SD Eibar,0,1,2.400,3.400,2.800,2.25,2.000,1.800
+61623874,2026-05-11 18:30,SD Huesca,Real Sociedad San Sebastian B,1,2,2.375,3.400,2.875,2.25,1.900,1.900
+61623902,2026-05-15 18:30,CD Castellon,Cadiz CF,1,1,1.250,6.250,10.000,3.25,1.925,1.875
+61623898,2026-05-15 19:00,Cordoba CF,Albacete Balompie,1,2,1.533,4.200,5.750,3,1.800,2.000
+61623910,2026-05-16 12:00,Real Sociedad San Sebastian B,CD Mirandes,2,2,2.900,3.400,2.350,2.75,1.950,1.850
+61623892,2026-05-16 14:15,AD Ceuta,Malaga CF,1,4,4.100,4.100,1.750,3,1.825,1.975
+61623904,2026-05-16 14:15,Cultural Leonesa,SD Eibar,2,1,3.100,3.400,2.250,2.25,1.900,1.900
+61623894,2026-05-16 16:30,Racing Santander,Real Valladolid,4,1,1.380,4.500,6.000,3.25,2.000,1.800
+61623896,2026-05-16 16:30,UD Almeria,UD Las Palmas,1,2,1.750,3.400,4.000,3,1.975,1.825
+61623900,2026-05-16 16:30,Granada CF,Burgos CF,0,1,3.700,3.100,2.150,2,1.875,1.925
+61623912,2026-05-17 12:00,RC Deportivo De La Coruna,FC Andorra,2,1,1.700,4.000,4.200,2.75,1.875,1.925
+61623908,2026-05-17 19:15,Real Zaragoza,Sporting Gijon,1,3,1.909,3.400,4.100,2.25,1.900,1.900
+61623906,2026-05-18 18:30,CD Leganes,SD Huesca,1,0,1.833,3.600,4.500,2.5,1.950,1.850
+61623914,2026-05-24 14:15,Albacete Balompie,Real Sociedad San Sebastian B,3,1,1.727,4.100,4.200,2.75,1.800,2.000
+61623922,2026-05-24 14:15,FC Andorra,AD Ceuta,0,2,1.300,5.250,9.000,3.25,1.900,1.900
+61623916,2026-05-24 16:30,Cadiz CF,CD Leganes,3,0,2.700,3.000,2.800,2.25,1.975,1.825
+61623918,2026-05-24 16:30,UD Las Palmas,Real Zaragoza,1,1,1.420,4.500,7.000,2.75,1.900,1.900
+61623920,2026-05-24 16:30,Malaga CF,Racing Santander,1,1,1.666,4.333,4.200,3.25,1.975,1.825
+61623924,2026-05-24 16:30,Cultural Leonesa,Burgos CF,0,2,2.900,3.200,2.450,2.25,1.950,1.850
+61623926,2026-05-24 16:30,SD Huesca,CD Castellon,0,1,4.750,4.333,1.600,3,1.950,1.850
+61623928,2026-05-24 16:30,SD Eibar,Cordoba CF,2,0,1.666,4.333,4.333,2.75,1.875,1.925
+61623930,2026-05-24 16:30,Real Valladolid,RC Deportivo De La Coruna,0,2,3.600,3.300,2.100,2.25,1.775,2.025
+61623932,2026-05-24 16:30,CD Mirandes,Granada CF,3,1,1.500,4.333,6.000,2.75,1.900,1.900
+61623934,2026-05-24 16:30,Sporting Gijon,UD Almeria,3,1,3.200,3.700,2.100,3,1.900,1.900
+61623948,2026-05-30 14:15,AD Ceuta,Albacete Balompie,2,0,2.750,3.250,2.550,3,2.025,1.775
+61623952,2026-05-30 14:15,Real Sociedad San Sebastian B,Cultural Leonesa,1,1,2.250,3.400,3.100,2.75,1.825,1.975
+61623942,2026-05-30 19:00,Granada CF,Sporting Gijon,2,2,2.300,3.500,2.900,2.75,2.025,1.775
+61623936,2026-05-31 16:30,CD Castellon,SD Eibar,2,1,1.533,4.333,5.500,3,1.900,1.900
+61623940,2026-05-31 16:30,RC Deportivo De La Coruna,UD Las Palmas,1,2,3.100,3.600,2.100,2.5,1.850,1.950
+61623946,2026-05-31 16:30,UD Almeria,Real Valladolid,1,0,1.420,5.000,6.250,3,1.825,1.975
+61623950,2026-05-31 16:30,Racing Santander,Cadiz CF,4,1,1.333,5.000,8.500,3.25,1.850,1.950
+61623954,2026-05-31 16:30,Real Zaragoza,Malaga CF,0,2,5.250,4.200,1.600,2.75,1.800,2.000
+61623956,2026-05-31 16:30,Burgos CF,FC Andorra,1,0,1.571,4.000,5.500,2.25,1.800,2.000
+61623938,2026-05-31 19:00,Cordoba CF,SD Huesca,1,1,1.533,4.100,6.500,3.25,1.900,1.900
+61623944,2026-05-31 19:00,CD Leganes,CD Mirandes,1,0,2.100,3.500,3.250,2.5,1.825,1.975
+71853258,2026-06-06 19:00,CD Castellon,UD Almeria,1,1,1.800,3.900,3.900,3,1.900,1.900
+71853280,2026-06-07 19:00,UD Las Palmas,Malaga CF,0,1,2.150,3.100,3.600,2.25,1.975,1.825
+72477308,2026-08-14 18:30,Real Sociedad San Sebastian B,CD Castellon,0,1,4.333,3.900,1.750,2.75,1.850,1.950
+72477292,2026-08-15 15:00,FC Andorra,AD Ceuta,5,1,1.571,3.900,5.750,2.5,1.800,2.000
+72477296,2026-08-15 17:00,Cadiz CF,RC Celta Fortuna,0,0,2.150,3.500,3.250,2.5,1.900,1.900
+72477306,2026-08-15 17:00,Real Oviedo,Granada CF,0,0,2.000,3.000,4.500,2,1.850,1.950
+72477304,2026-08-15 19:30,RCD Mallorca,Real Valladolid,2,0,1.700,3.500,5.250,2.5,1.950,1.850
+72477298,2026-08-16 15:00,SD Eibar,Tenerife CD,1,3,1.833,3.400,4.500,2.25,2.000,1.800
+72477294,2026-08-16 17:00,Burgos CF,Cordoba CF,3,2,2.250,3.250,3.200,2.25,1.900,1.900
+72477300,2026-08-16 17:00,Girona FC,CD Leganes,1,1,1.571,3.800,6.000,2.5,1.900,1.900
+72477302,2026-08-16 19:30,UD Las Palmas,Albacete Balompie,2,1,1.950,3.400,3.750,2.5,1.975,1.825
+72477310,2026-08-17 17:00,Sporting Gijon,CE Sabadell FC,0,0,2.100,3.200,3.700,2.25,2.025,1.775
+72477290,2026-08-17 19:30,UD Almeria,Club Deportivo Eldense,3,0,1.450,4.500,6.500,3,1.975,1.825
+72477326,2026-08-21 19:00,Cordoba CF,Girona FC,2,1,2.600,3.500,2.500,2.75,1.900,1.900
+72477334,2026-08-22 15:00,Real Oviedo,CD Leganes,0,1,1.800,3.300,4.750,2,1.800,2.000
+72477318,2026-08-22 17:00,Albacete Balompie,Real Sociedad San Sebastian B,1,2,1.666,3.600,5.500,2.5,1.825,1.975
+72477324,2026-08-22 17:00,AD Ceuta,UD Las Palmas,0,2,2.900,3.300,2.350,2.75,1.900,1.900
+72477330,2026-08-22 19:30,Club Deportivo Eldense,Cadiz CF,2,2,2.150,3.100,3.700,2.25,1.900,1.900
+72477328,2026-08-23 15:00,SD Eibar,Real Valladolid,1,0,2.000,3.000,4.333,2,1.850,1.950
+72477320,2026-08-23 17:00,CD Castellon,CE Sabadell FC,0,0,1.727,3.400,5.250,2.5,1.925,1.875
+72477336,2026-08-23 17:00,Sporting Gijon,Burgos CF,1,0,2.000,3.100,4.100,2.25,1.975,1.825
+72477338,2026-08-23 19:30,Tenerife CD,UD Almeria,1,0,2.700,3.100,2.700,2.25,1.850,1.950
+72477322,2026-08-24 17:00,RC Celta Fortuna,FC Andorra,4,2,3.500,3.100,2.200,2.25,1.800,2.000
+72477332,2026-08-24 19:30,Granada CF,RCD Mallorca,2,0,3.200,3.000,2.450,2,1.775,2.025
+72477360,2026-08-28 19:00,Tenerife CD,Sporting Gijon,0,1,2.300,3.100,3.250,2,1.750,2.050
+72477358,2026-08-29 15:00,CE Sabadell FC,UD Almeria,1,0,2.625,3.100,2.750,2.25,2.025,1.775
+72477340,2026-08-29 17:00,Albacete Balompie,Real Oviedo,0,1,2.400,3.200,3.000,2,1.800,2.000
+72477354,2026-08-29 17:00,CD Leganes,Club Deportivo Eldense,1,0,1.833,3.600,4.200,2.25,1.825,1.975
+72477352,2026-08-29 19:30,Girona FC,UD Las Palmas,5,2,1.700,3.700,5.000,2.75,1.975,1.825
+72477342,2026-08-30 15:00,FC Andorra,SD Eibar,0,1,2.000,3.300,3.750,2.5,1.950,1.850
+72477346,2026-08-30 17:00,Cadiz CF,Real Valladolid,1,1,2.700,3.000,2.750,2.25,1.975,1.825
+72477356,2026-08-30 17:00,RCD Mallorca,AD Ceuta,3,0,1.400,4.333,8.000,2.75,1.775,2.025
+72477350,2026-08-30 19:30,Cordoba CF,Granada CF,1,3,1.800,3.500,4.500,2.5,1.850,1.950
+72477344,2026-08-31 17:00,Burgos CF,Real Sociedad San Sebastian B,2,2,1.950,3.200,4.333,2.25,1.975,1.825
+72477348,2026-08-31 19:30,RC Celta Fortuna,CD Castellon,1,2,4.100,3.750,1.800,2.75,1.900,1.900
+72477372,2026-09-04 18:30,UD Las Palmas,CD Leganes,0,0,2.625,3.100,2.750,2.25,1.825,1.975
+72477376,2026-09-05 12:00,Real Sociedad San Sebastian B,Tenerife CD,1,1,2.625,3.100,2.750,2.25,1.950,1.850
+72477380,2026-09-05 14:15,Sporting Gijon,Girona FC,0,2,2.750,3.300,2.550,2.5,1.975,1.825
+72477366,2026-09-05 16:30,AD Ceuta,RC Celta Fortuna,0,2,1.900,3.600,3.900,2.75,1.975,1.825
+72477382,2026-09-05 16:30,Real Valladolid,FC Andorra,1,0,2.375,3.200,3.000,2.25,1.825,1.975
+72477370,2026-09-05 19:00,Club Deportivo Eldense,RCD Mallorca,0,0,3.600,3.400,2.050,2.5,2.000,1.800
+72477368,2026-09-06 12:00,SD Eibar,Granada CF,3,0,1.950,3.400,3.900,2.25,1.950,1.850
+72477374,2026-09-06 14:15,Real Oviedo,Burgos CF,0,0,1.950,3.300,4.000,2,1.850,1.950
+72477364,2026-09-06 16:30,CD Castellon,Albacete Balompie,2,0,1.500,4.200,6.250,3,2.000,1.800
+72477362,2026-09-06 19:00,UD Almeria,Cadiz CF,3,2,1.500,4.100,6.250,2.5,1.950,1.850
+72477378,2026-09-07 18:30,CE Sabadell FC,Cordoba CF,3,2,2.200,3.200,3.300,2.25,1.975,1.825
+72477386,2026-09-11 18:30,Burgos CF,AD Ceuta,3,1,1.615,3.600,6.000,2.5,2.000,1.800
+72477384,2026-09-12 12:00,FC Andorra,Real Sociedad San Sebastian B,1,3,1.727,3.900,4.333,2.75,1.900,1.900
+72477388,2026-09-12 14:15,Cadiz CF,UD Las Palmas,0,1,2.375,3.300,3.000,2.25,1.800,2.000
+72477394,2026-09-12 16:30,Girona FC,CD Castellon,1,2,2.250,3.400,3.100,2.75,1.775,2.025
+72477396,2026-09-12 16:30,Granada CF,Albacete Balompie,1,1,1.850,3.500,4.200,2.5,1.950,1.850
+72477392,2026-09-12 19:00,Cordoba CF,UD Almeria,0,2,2.550,3.400,2.700,2.75,1.825,1.975
+72477400,2026-09-13 12:00,Sporting Gijon,Club Deportivo Eldense,0,1,1.571,3.750,6.000,2.5,1.925,1.875
+72477404,2026-09-13 14:15,Real Valladolid,Real Oviedo,0,3,2.500,3.000,3.000,2,1.900,1.900
+72477398,2026-09-13 16:30,RCD Mallorca,CE Sabadell FC,2,0,1.850,3.200,5.000,2,1.800,2.000
+72477402,2026-09-13 19:00,Tenerife CD,CD Leganes,2,0,2.375,2.900,3.300,2,1.975,1.825
+72477390,2026-09-14 18:30,RC Celta Fortuna,SD Eibar,0,4,3.400,3.250,2.150,2.5,2.000,1.800
+72477406,2026-09-18 18:30,Albacete Balompie,Cordoba CF,1,2,2.550,3.600,2.550,3,2.000,1.800
+72477424,2026-09-19 12:00,Real Sociedad San Sebastian B,RCD Mallorca,0,1,3.800,3.400,1.950,2.5,1.950,1.850
+72477410,2026-09-19 14:15,FC Andorra,Sporting Gijon,1,3,2.050,3.500,3.500,2.5,1.900,1.900
+72477414,2026-09-19 16:30,CD Castellon,Tenerife CD,5,0,1.450,4.100,7.000,2.5,1.950,1.850
+72477418,2026-09-19 16:30,Club Deportivo Eldense,SD Eibar,1,2,2.750,3.000,2.700,2.25,1.950,1.850
+72477412,2026-09-19 19:00,Cadiz CF,Girona FC,1,2,3.750,3.400,1.950,2.5,2.000,1.800
+72477426,2026-09-20 12:00,CE Sabadell FC,Real Oviedo,3,1,2.250,3.100,3.500,2,1.975,1.825
+72477416,2026-09-20 14:15,AD Ceuta,Real Valladolid,1,1,3.250,3.200,2.250,2.25,1.950,1.850
+72477408,2026-09-20 16:30,UD Almeria,RC Celta Fortuna,2,0,1.420,4.500,7.000,3,2.000,1.800
+72477422,2026-09-20 16:30,UD Las Palmas,Burgos CF,1,2,1.909,3.500,4.000,2.25,1.850,1.950
+72477420,2026-09-20 19:00,CD Leganes,Granada CF,3,2,2.100,3.100,3.750,2,1.750,2.050
+72477436,2026-09-25 18:30,Girona FC,Albacete Balompie,2,0,1.550,4.200,5.500,2.75,1.850,1.950
+72477432,2026-09-26 12:00,AD Ceuta,Real Sociedad San Sebastian B,3,1,2.700,3.300,2.550,2.5,1.900,1.900
+72477438,2026-09-26 14:15,Granada CF,FC Andorra,2,3,2.000,3.500,3.600,2.5,1.975,1.825
+72477430,2026-09-26 16:30,RC Celta Fortuna,CE Sabadell FC,1,1,3.500,3.300,2.100,2.25,1.775,2.025
+72477446,2026-09-26 16:30,Tenerife CD,Cadiz CF,1,1,1.800,3.300,4.750,2.25,2.050,1.750
+72477448,2026-09-27 12:00,Real Valladolid,Cordoba CF,3,1,2.450,3.400,2.750,2.5,1.900,1.900
+72477442,2026-09-27 14:15,RCD Mallorca,UD Almeria,0,1,2.000,3.300,3.600,2.5,2.025,1.775
+72477428,2026-09-27 16:30,Burgos CF,Club Deportivo Eldense,1,0,2.350,3.200,3.100,2.25,1.975,1.825
+72477434,2026-09-27 16:30,SD Eibar,UD Las Palmas,3,2,1.750,3.600,4.500,2.75,2.000,1.800
+72477444,2026-09-27 19:00,Real Oviedo,Sporting Gijon,2,0,2.200,3.100,3.500,2,1.775,2.025
+72477440,2026-09-28 18:30,CD Leganes,CD Castellon,0,2,3.200,3.500,2.150,2.5,1.825,1.975
+72477460,2026-10-02 18:30,Club Deportivo Eldense,Real Oviedo,4,1,2.450,3.000,3.000,2.25,2.000,1.800
+72477450,2026-10-03 12:00,Albacete Balompie,SD Eibar,1,3,2.500,3.500,2.600,2.75,1.950,1.850
+72477452,2026-10-03 14:15,UD Almeria,Burgos CF,2,1,1.533,4.333,5.250,2.5,1.800,2.000
+72477454,2026-10-03 16:30,Cadiz CF,CD Leganes,4,0,2.900,3.250,2.400,2.25,1.950,1.850
+72477466,2026-10-04 12:00,Real Sociedad San Sebastian B,Granada CF,2,3,2.400,3.100,3.000,2.25,1.775,2.025
+72477470,2026-10-04 14:15,Sporting Gijon,RC Celta Fortuna,3,2,1.800,3.400,4.750,2.5,1.975,1.825
+72477456,2026-10-04 16:30,CD Castellon,AD Ceuta,1,1,1.250,5.750,10.000,3.5,1.900,1.900
+72477464,2026-10-04 16:30,UD Las Palmas,Real Valladolid,2,2,2.600,3.000,3.000,2.25,1.900,1.900
+72477462,2026-10-04 19:00,Girona FC,RCD Mallorca,0,0,2.400,3.250,2.900,2.5,1.925,1.875
+72477468,2026-10-04 19:00,CE Sabadell FC,FC Andorra,0,0,1.950,3.200,4.333,2.25,1.975,1.825
+72477458,2026-10-05 18:30,Cordoba CF,Tenerife CD,3,2,1.850,3.500,4.100,2.5,1.850,1.950
+72477482,2026-10-10 14:15,AD Ceuta,CE Sabadell FC,1,2,3.300,2.875,2.375,2,1.800,2.000
+72477484,2026-10-10 16:30,Club Deportivo Eldense,Cordoba CF,2,1,2.200,3.700,3.000,2.75,1.850,1.950
+72477480,2026-10-10 19:00,RC Celta Fortuna,Real Sociedad San Sebastian B,4,1,2.400,3.400,2.875,2.75,1.975,1.825
+72477474,2026-10-11 12:00,FC Andorra,CD Castellon,1,0,3.200,3.300,2.250,2.75,1.900,1.900
+72477472,2026-10-11 14:15,UD Almeria,CD Leganes,3,0,1.750,3.500,5.000,2.5,1.850,1.950
+72477486,2026-10-11 16:30,RCD Mallorca,UD Las Palmas,3,1,1.533,3.900,6.500,2.5,1.875,1.925
+72477478,2026-10-11 19:00,Cadiz CF,Sporting Gijon,0,1,2.100,3.100,3.750,2.25,1.975,1.825
+72477492,2026-10-12 12:00,Real Valladolid,Albacete Balompie,5,0,1.909,3.300,4.200,2.5,1.950,1.850
+72477476,2026-10-12 14:15,Burgos CF,Granada CF,0,1,2.450,3.100,3.100,2.25,2.000,1.800
+72477488,2026-10-12 16:30,Real Oviedo,SD Eibar,3,1,2.600,3.000,2.900,2,1.850,1.950
+72477490,2026-10-12 19:00,Tenerife CD,Girona FC,1,1,2.875,3.100,2.550,2.25,1.850,1.950
+72477506,2026-10-16 18:30,CD Leganes,Cordoba CF,0,1,2.550,3.250,2.800,2.5,1.825,1.975
+72477510,2026-10-17 12:00,Real Sociedad San Sebastian B,UD Almeria,2,4,3.700,3.500,1.950,2.75,1.925,1.875
+72477500,2026-10-17 14:15,SD Eibar,RCD Mallorca,1,1,2.500,3.250,2.800,2.25,1.825,1.975
+72477512,2026-10-17 16:30,Sporting Gijon,Albacete Balompie,2,1,2.000,3.400,3.800,2.5,1.900,1.900
+72477508,2026-10-17 19:00,UD Las Palmas,CD Castellon,0,3,3.750,3.600,1.950,2.75,1.800,2.000
+72477498,2026-10-18 12:00,AD Ceuta,Real Oviedo,1,2,2.900,3.250,2.400,2.5,1.900,1.900
+72477504,2026-10-18 14:15,Granada CF,Cadiz CF,2,0,1.850,3.600,4.100,2.5,1.950,1.850
+72477502,2026-10-18 16:30,Girona FC,FC Andorra,2,0,1.850,3.600,4.100,2.75,1.875,1.925
+72477514,2026-10-18 16:30,Real Valladolid,Club Deportivo Eldense,2,3,1.800,3.400,4.500,2.5,2.000,1.800
+72477494,2026-10-18 19:00,Burgos CF,CE Sabadell FC,1,0,3.100,2.750,2.750,1.75,1.900,1.900
+72477496,2026-10-19 18:30,RC Celta Fortuna,Tenerife CD,1,1,2.900,3.100,2.500,2.25,1.800,2.000
+72477530,2026-10-23 18:30,Granada CF,Real Valladolid,2,1,2.150,3.200,3.500,2.5,1.975,1.825
+72477526,2026-10-24 12:00,Cordoba CF,SD Eibar,2,0,1.833,3.800,3.800,3,1.850,1.950
+72477532,2026-10-24 14:15,CD Leganes,RCD Mallorca,1,1,4.333,3.500,1.833,2.25,1.825,1.975
+72477528,2026-10-24 16:30,Girona FC,RC Celta Fortuna,5,1,1.363,5.000,7.500,3,1.900,1.900
+72477534,2026-10-24 16:30,UD Las Palmas,Real Sociedad San Sebastian B,1,0,2.150,3.300,3.400,2.75,1.825,1.975
+72477518,2026-10-24 19:00,UD Almeria,Real Oviedo,2,2,1.750,3.600,4.500,2.5,1.800,2.000
+72477536,2026-10-25 13:00,CE Sabadell FC,Tenerife CD,1,1,1.800,3.200,5.000,2,1.950,1.850
+72477516,2026-10-25 15:15,Albacete Balompie,Club Deportivo Eldense,2,0,2.300,3.400,3.000,2.75,1.900,1.900
+72477522,2026-10-25 15:15,Cadiz CF,AD Ceuta,3,1,1.909,3.500,3.900,2.5,1.900,1.900
+72477524,2026-10-25 17:30,CD Castellon,Sporting Gijon,4,0,1.571,3.900,6.000,2.75,1.850,1.950
+72477520,2026-10-26 19:30,FC Andorra,Burgos CF,2,3,2.050,3.300,3.500,2.25,1.950,1.850
+72477554,2026-10-31 13:00,Real Sociedad San Sebastian B,Girona FC,1,0,3.700,3.600,2.000,2.75,1.850,1.950
+72477546,2026-10-31 15:15,SD Eibar,UD Almeria,1,1,2.300,3.500,2.900,2.75,1.775,2.025
+72477542,2026-10-31 17:30,RC Celta Fortuna,Cordoba CF,2,2,3.900,4.000,1.800,3.25,1.900,1.900
+72477538,2026-10-31 20:00,Albacete Balompie,CE Sabadell FC,2,1,2.450,3.000,3.200,2.25,1.975,1.825
+72477548,2026-11-01 13:00,Club Deportivo Eldense,Granada CF,0,2,2.300,3.300,3.000,2.5,1.925,1.875
+72477544,2026-11-01 15:15,AD Ceuta,Sporting Gijon,0,2,2.450,3.200,3.000,2.25,1.875,1.925
+72477540,2026-11-01 17:30,Burgos CF,CD Castellon,1,1,3.700,3.400,2.000,2.5,1.925,1.875
+72477552,2026-11-02 15:15,Real Oviedo,UD Las Palmas,2,3,1.666,3.900,4.750,2.5,1.825,1.975
+72477558,2026-11-02 17:30,Real Valladolid,CD Leganes,4,3,1.850,3.500,4.200,2.5,2.000,1.800
+72477550,2026-11-02 20:00,RCD Mallorca,Cadiz CF,2,1,1.444,4.500,7.000,2.5,1.800,2.000
+72477562,2026-11-07 13:00,Burgos CF,RC Celta Fortuna,2,1,1.750,3.400,5.000,2.25,1.800,2.000
+72477564,2026-11-07 15:15,Cadiz CF,Real Oviedo,1,2,3.100,3.300,2.250,2.25,1.775,2.025
+72477568,2026-11-07 17:30,Cordoba CF,AD Ceuta,3,0,1.480,4.500,5.750,3.25,1.875,1.925
+72477574,2026-11-07 17:30,CD Leganes,Albacete Balompie,1,3,1.950,3.500,3.700,2.5,1.900,1.900
+72477570,2026-11-08 15:15,Girona FC,UD Almeria,0,1,2.000,3.400,3.700,2.75,1.975,1.825
+72477580,2026-11-08 17:30,Sporting Gijon,Real Valladolid,1,2,2.300,3.250,3.100,2.25,1.825,1.975
+72477576,2026-11-09 19:30,UD Las Palmas,Club Deportivo Eldense,2,0,2.100,3.500,3.400,2.75,1.975,1.825
+72477578,2026-11-09 19:30,CE Sabadell FC,Real Sociedad San Sebastian B,0,0,1.850,3.500,4.000,2.5,2.000,1.800

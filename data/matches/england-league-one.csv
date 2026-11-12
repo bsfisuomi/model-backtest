@@ -1,717 +1,717 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-60600145,2025-05-25 12:00,Charlton Athletic,Leyton Orient London,1,0,,,
-61492439,2025-08-01 19:00,Luton Town,AFC Wimbledon,1,0,,,
-61492445,2025-08-02 11:30,Cardiff City,Peterborough United,2,1,,,
-61492449,2025-08-02 14:00,Blackpool FC,Stevenage FC,2,3,,,
-61492453,2025-08-02 14:00,Bradford City FC,Wycombe Wanderers,2,1,,,
-61492457,2025-08-02 14:00,Burton Albion,Mansfield Town,2,1,,,
-61492461,2025-08-02 14:00,Doncaster Rovers,Exeter City,1,0,,,
-61492465,2025-08-02 14:00,Huddersfield Town,Leyton Orient London,3,0,,,
-61492469,2025-08-02 14:00,Lincoln City,Reading FC,2,0,,,
-61492473,2025-08-02 14:00,Plymouth Argyle,Barnsley FC,1,3,,,
-61492477,2025-08-02 14:00,Rotherham United,Port Vale,2,1,,,
-61492481,2025-08-02 14:00,Wigan Athletic,Northampton Town,3,1,,,
-61492485,2025-08-03 11:00,Stockport County FC,Bolton Wanderers,2,0,,,
-61492521,2025-08-07 19:00,Port Vale,Cardiff City,0,0,,,
-61492517,2025-08-09 11:30,Peterborough United,Luton Town,0,2,,,
-61492523,2025-08-09 11:30,Reading FC,Huddersfield Town,0,2,,,
-61492489,2025-08-09 14:00,AFC Wimbledon,Lincoln City,2,0,,,
-61492493,2025-08-09 14:00,Barnsley FC,Burton Albion,3,2,,,
-61492497,2025-08-09 14:00,Bolton Wanderers,Plymouth Argyle,2,0,,,
-61492501,2025-08-09 14:00,Exeter City,Blackpool FC,4,1,,,
-61492505,2025-08-09 14:00,Leyton Orient London,Wigan Athletic,2,0,,,
-61492509,2025-08-09 14:00,Mansfield Town,Doncaster Rovers,1,2,,,
-61492513,2025-08-09 14:00,Northampton Town,Bradford City FC,0,0,,,
-61492527,2025-08-09 14:00,Stevenage FC,Rotherham United,1,0,,,
-61492531,2025-08-09 14:00,Wycombe Wanderers,Stockport County FC,1,2,,,
-61492547,2025-08-16 11:30,Burton Albion,Port Vale,0,0,,,
-61492559,2025-08-16 11:30,Exeter City,Mansfield Town,1,2,,,
-61492535,2025-08-16 14:00,Barnsley FC,Bolton Wanderers,1,1,,,
-61492539,2025-08-16 14:00,Blackpool FC,Huddersfield Town,3,2,,,
-61492543,2025-08-16 14:00,Bradford City FC,Luton Town,2,1,,,
-61492551,2025-08-16 14:00,Cardiff City,Rotherham United,3,0,,,
-61492555,2025-08-16 14:00,Doncaster Rovers,Wycombe Wanderers,1,1,,,
-61492561,2025-08-16 14:00,Leyton Orient London,Stockport County FC,2,2,,,
-61492565,2025-08-16 14:00,Lincoln City,Plymouth Argyle,3,2,,,
-61492569,2025-08-16 14:00,Reading FC,AFC Wimbledon,1,2,,,
-61492573,2025-08-16 14:00,Stevenage FC,Northampton Town,2,0,,,
-61492577,2025-08-16 14:00,Wigan Athletic,Peterborough United,2,0,,,
-61492581,2025-08-19 18:45,AFC Wimbledon,Cardiff City,0,1,,,
-61492587,2025-08-19 18:45,Huddersfield Town,Doncaster Rovers,2,0,,,
-61492591,2025-08-19 18:45,Luton Town,Wigan Athletic,1,0,,,
-61492595,2025-08-19 18:45,Mansfield Town,Blackpool FC,2,0,,,
-61492599,2025-08-19 18:45,Northampton Town,Lincoln City,0,1,,,
-61492603,2025-08-19 18:45,Peterborough United,Barnsley FC,0,1,,,
-61492607,2025-08-19 18:45,Plymouth Argyle,Leyton Orient London,0,1,,,
-61492611,2025-08-19 18:45,Port Vale,Stevenage FC,1,2,,,
-61492619,2025-08-19 18:45,Stockport County FC,Bradford City FC,1,2,,,
-61492621,2025-08-19 18:45,Wycombe Wanderers,Exeter City,0,1,,,
-61492583,2025-08-20 19:00,Bolton Wanderers,Reading FC,1,1,,,
-61492637,2025-08-23 11:30,Luton Town,Cardiff City,0,1,,,
-61492659,2025-08-23 11:30,Rotherham United,Wigan Athletic,2,2,,,
-61492625,2025-08-23 14:00,AFC Wimbledon,Barnsley FC,2,0,,,
-61492629,2025-08-23 14:00,Bolton Wanderers,Lincoln City,1,1,,,
-61492633,2025-08-23 14:00,Huddersfield Town,Stevenage FC,1,0,,,
-61492641,2025-08-23 14:00,Mansfield Town,Leyton Orient London,4,1,,,
-61492645,2025-08-23 14:00,Northampton Town,Exeter City,2,0,,,
-61492649,2025-08-23 14:00,Peterborough United,Bradford City FC,1,1,,,
-61492653,2025-08-23 14:00,Plymouth Argyle,Blackpool FC,1,0,,,
-61492657,2025-08-23 14:00,Port Vale,Doncaster Rovers,0,1,,,
-61492663,2025-08-23 14:00,Stockport County FC,Burton Albion,2,1,,,
-61492667,2025-08-23 14:00,Wycombe Wanderers,Reading FC,2,2,,,
-61492687,2025-08-30 11:30,Cardiff City,Plymouth Argyle,4,0,,,
-61492691,2025-08-30 11:30,Doncaster Rovers,Rotherham United,1,0,,,
-61492671,2025-08-30 14:00,Barnsley FC,Huddersfield Town,3,1,,,
-61492675,2025-08-30 14:00,Blackpool FC,Bolton Wanderers,1,1,,,
-61492679,2025-08-30 14:00,Bradford City FC,AFC Wimbledon,3,2,,,
-61492683,2025-08-30 14:00,Burton Albion,Luton Town,0,3,,,
-61492695,2025-08-30 14:00,Exeter City,Peterborough United,3,0,,,
-61492699,2025-08-30 14:00,Leyton Orient London,Northampton Town,0,1,,,
-61492707,2025-08-30 14:00,Reading FC,Port Vale,1,0,,,
-61492711,2025-08-30 14:00,Stevenage FC,Wycombe Wanderers,1,0,,,
-61492713,2025-08-30 14:00,Wigan Athletic,Stockport County FC,1,1,,,
-61492703,2025-08-30 14:15,Lincoln City,Mansfield Town,1,1,,,
-61492721,2025-09-06 14:00,Bolton Wanderers,AFC Wimbledon,3,0,,,
-61492729,2025-09-06 14:00,Doncaster Rovers,Bradford City FC,3,1,,,
-61492733,2025-09-06 14:00,Huddersfield Town,Peterborough United,3,2,,,
-61492737,2025-09-06 14:00,Lincoln City,Wigan Athletic,2,2,,,
-61492741,2025-09-06 14:00,Plymouth Argyle,Stockport County FC,4,2,,,
-61492743,2025-09-06 14:00,Port Vale,Leyton Orient London,2,3,,,
-61492751,2025-09-06 14:00,Rotherham United,Exeter City,1,0,,,
-61492759,2025-09-06 14:00,Wycombe Wanderers,Mansfield Town,2,0,,,
-61492771,2025-09-13 11:30,Bradford City FC,Huddersfield Town,3,1,,,
-61492793,2025-09-13 11:30,Northampton Town,Blackpool FC,1,0,,,
-61492763,2025-09-13 14:00,AFC Wimbledon,Rotherham United,2,1,,,
-61492767,2025-09-13 14:00,Barnsley FC,Reading FC,3,2,,,
-61492775,2025-09-13 14:00,Burton Albion,Lincoln City,0,1,,,
-61492779,2025-09-13 14:00,Exeter City,Port Vale,0,2,,,
-61492783,2025-09-13 14:00,Leyton Orient London,Bolton Wanderers,1,1,,,
-61492785,2025-09-13 14:00,Luton Town,Plymouth Argyle,2,3,,,
-61492789,2025-09-13 14:00,Mansfield Town,Stevenage FC,1,1,,,
-61492797,2025-09-13 14:00,Peterborough United,Wycombe Wanderers,2,1,,,
-61492801,2025-09-13 14:00,Stockport County FC,Cardiff City,1,1,,,
-61492805,2025-09-13 14:00,Wigan Athletic,Doncaster Rovers,3,0,,,
-61492809,2025-09-20 11:30,Blackpool FC,Barnsley FC,1,0,,,
-61492813,2025-09-20 11:30,Bolton Wanderers,Wigan Athletic,4,1,,,
-61492827,2025-09-20 11:30,Lincoln City,Luton Town,3,1,,,
-61492817,2025-09-20 14:00,Cardiff City,Bradford City FC,1,3,,,
-61492821,2025-09-20 14:00,Doncaster Rovers,AFC Wimbledon,1,2,,,
-61492825,2025-09-20 14:00,Huddersfield Town,Burton Albion,0,0,,,
-61492831,2025-09-20 14:00,Plymouth Argyle,Peterborough United,0,1,,,
-61492835,2025-09-20 14:00,Port Vale,Mansfield Town,2,1,,,
-61492839,2025-09-20 14:00,Reading FC,Leyton Orient London,2,1,,,
-61492843,2025-09-20 14:00,Rotherham United,Stockport County FC,0,1,,,
-61492847,2025-09-20 14:00,Stevenage FC,Exeter City,2,1,,,
-61492851,2025-09-20 14:00,Wycombe Wanderers,Northampton Town,2,0,,,
-61492855,2025-09-27 11:30,AFC Wimbledon,Wycombe Wanderers,2,1,,,
-61492873,2025-09-27 11:30,Leyton Orient London,Stevenage FC,2,3,,,
-61492859,2025-09-27 14:00,Barnsley FC,Port Vale,0,2,,,
-61492863,2025-09-27 14:00,Bradford City FC,Blackpool FC,1,0,,,
-61492865,2025-09-27 14:00,Burton Albion,Plymouth Argyle,0,4,,,
-61492869,2025-09-27 14:00,Exeter City,Huddersfield Town,0,1,,,
-61492877,2025-09-27 14:00,Luton Town,Doncaster Rovers,1,0,,,
-61492881,2025-09-27 14:00,Mansfield Town,Rotherham United,2,1,,,
-61492885,2025-09-27 14:00,Northampton Town,Bolton Wanderers,2,0,,,
-61492889,2025-09-27 14:00,Peterborough United,Lincoln City,0,3,,,
-61492893,2025-09-27 14:00,Stockport County FC,Reading FC,1,1,,,
-61492897,2025-09-27 14:00,Wigan Athletic,Cardiff City,0,2,,,
-63572779,2025-09-30 18:45,Blackpool FC,Luton Town,2,2,,,
-63575827,2025-09-30 18:45,Cardiff City,Burton Albion,0,1,,,
-61492935,2025-10-02 19:00,Rotherham United,Bradford City FC,2,2,,,
-61492911,2025-10-04 11:30,Doncaster Rovers,Burton Albion,1,1,,,
-61492941,2025-10-04 11:30,Wycombe Wanderers,Barnsley FC,2,2,,,
-61492901,2025-10-04 14:00,Blackpool FC,AFC Wimbledon,0,2,,,
-61492903,2025-10-04 14:00,Bolton Wanderers,Peterborough United,2,1,,,
-61492907,2025-10-04 14:00,Cardiff City,Leyton Orient London,4,3,,,
-61492915,2025-10-04 14:00,Huddersfield Town,Stockport County FC,1,2,,,
-61492919,2025-10-04 14:00,Lincoln City,Exeter City,0,1,,,
-61492923,2025-10-04 14:00,Plymouth Argyle,Wigan Athletic,1,1,,,
-61492927,2025-10-04 14:00,Port Vale,Northampton Town,0,0,,,
-61492931,2025-10-04 14:00,Reading FC,Mansfield Town,1,1,,,
-61492939,2025-10-04 14:00,Stevenage FC,Luton Town,2,0,,,
-61492977,2025-10-11 13:00,Northampton Town,Rotherham United,1,2,,,
-61492945,2025-10-11 14:00,AFC Wimbledon,Port Vale,1,1,,,
-61492957,2025-10-11 14:00,Burton Albion,Bolton Wanderers,3,0,,,
-61492961,2025-10-11 14:00,Exeter City,Reading FC,1,1,,,
-61492965,2025-10-11 14:00,Leyton Orient London,Doncaster Rovers,4,0,,,
-61492985,2025-10-11 14:00,Stockport County FC,Blackpool FC,1,0,,,
-61492989,2025-10-11 14:00,Wigan Athletic,Wycombe Wanderers,0,1,,,
-61493011,2025-10-16 19:00,Huddersfield Town,Bolton Wanderers,1,2,,,
-61492999,2025-10-18 11:30,Burton Albion,Peterborough United,0,1,,,
-61493015,2025-10-18 11:30,Lincoln City,Stevenage FC,1,0,,,
-61492991,2025-10-18 14:00,Blackpool FC,Wycombe Wanderers,1,1,,,
-61492995,2025-10-18 14:00,Bradford City FC,Barnsley FC,2,2,,,
-61493003,2025-10-18 14:00,Cardiff City,Reading FC,2,1,,,
-61493007,2025-10-18 14:00,Doncaster Rovers,Northampton Town,1,2,,,
-61493019,2025-10-18 14:00,Luton Town,Mansfield Town,0,2,,,
-61493023,2025-10-18 14:00,Plymouth Argyle,AFC Wimbledon,1,2,,,
-61493027,2025-10-18 14:00,Rotherham United,Leyton Orient London,1,0,,,
-61493031,2025-10-18 14:00,Stockport County FC,Exeter City,1,0,,,
-61493033,2025-10-18 14:00,Wigan Athletic,Port Vale,1,0,,,
-63808047,2025-10-21 19:00,Reading FC,Northampton Town,1,0,,,
-61493041,2025-10-23 19:00,Exeter City,Plymouth Argyle,2,0,,,
-61493039,2025-10-25 11:30,Bolton Wanderers,Cardiff City,1,0,,,
-61493045,2025-10-25 11:30,Mansfield Town,Wigan Athletic,1,1,,,
-61493035,2025-10-25 14:00,AFC Wimbledon,Burton Albion,0,1,,,
-61493037,2025-10-25 14:00,Barnsley FC,Rotherham United,0,1,,,
-61493043,2025-10-25 14:00,Leyton Orient London,Lincoln City,1,0,,,
-61493047,2025-10-25 14:00,Northampton Town,Luton Town,0,1,,,
-61493049,2025-10-25 14:00,Peterborough United,Blackpool FC,1,2,,,
-61493053,2025-10-25 14:00,Reading FC,Doncaster Rovers,1,1,,,
-61493055,2025-10-25 14:00,Stevenage FC,Bradford City FC,1,1,,,
-61493057,2025-10-25 14:00,Wycombe Wanderers,Huddersfield Town,3,0,,,
-62819167,2025-10-27 20:00,Port Vale,Stockport County FC,0,3,,,
-64504661,2025-10-28 19:45,Bradford City FC,Lincoln City,0,0,,,
-64504667,2025-10-28 19:45,Mansfield Town,Plymouth Argyle,2,0,,,
-63572789,2025-11-04 19:45,Rotherham United,Burton Albion,2,2,,,
-61493075,2025-11-06 20:00,Reading FC,Stevenage FC,1,0,,,
-61493071,2025-11-08 12:30,Northampton Town,Mansfield Town,2,1,,,
-61493081,2025-11-08 12:30,Wycombe Wanderers,Leyton Orient London,4,1,,,
-61493059,2025-11-08 15:00,Blackpool FC,Cardiff City,3,1,,,
-61493061,2025-11-08 15:00,Bolton Wanderers,Port Vale,4,0,,,
-61493063,2025-11-08 15:00,Bradford City FC,Burton Albion,1,2,,,
-61493065,2025-11-08 15:00,Doncaster Rovers,Barnsley FC,1,2,,,
-61493067,2025-11-08 15:00,Exeter City,Wigan Athletic,1,1,,,
-61493069,2025-11-08 15:00,Huddersfield Town,Plymouth Argyle,3,1,,,
-61493073,2025-11-08 15:00,Peterborough United,AFC Wimbledon,5,0,,,
-61493077,2025-11-08 15:00,Rotherham United,Lincoln City,3,0,,,
-61493079,2025-11-08 15:00,Stockport County FC,Luton Town,0,3,,,
-61493087,2025-11-15 15:00,Burton Albion,Blackpool FC,1,0,,,
-61493091,2025-11-15 15:00,Leyton Orient London,Exeter City,2,1,,,
-61493093,2025-11-15 15:00,Lincoln City,Doncaster Rovers,2,1,,,
-61493095,2025-11-15 15:00,Luton Town,Rotherham United,0,0,,,
-61493101,2025-11-15 15:00,Port Vale,Wycombe Wanderers,0,0,,,
-61493121,2025-11-20 20:00,Peterborough United,Stockport County FC,3,0,,,
-61493123,2025-11-22 12:30,Port Vale,Plymouth Argyle,0,1,,,
-61493107,2025-11-22 15:00,AFC Wimbledon,Wigan Athletic,1,2,,,
-61493109,2025-11-22 15:00,Barnsley FC,Luton Town,5,0,,,
-61493111,2025-11-22 15:00,Bolton Wanderers,Bradford City FC,0,0,,,
-61493115,2025-11-22 15:00,Leyton Orient London,Blackpool FC,1,1,,,
-61493117,2025-11-22 15:00,Mansfield Town,Huddersfield Town,1,3,,,
-61493119,2025-11-22 15:00,Northampton Town,Cardiff City,1,3,,,
-61493125,2025-11-22 15:00,Reading FC,Rotherham United,1,1,,,
-61493127,2025-11-22 15:00,Stevenage FC,Doncaster Rovers,0,0,,,
-61493129,2025-11-22 15:00,Wycombe Wanderers,Lincoln City,3,2,,,
-64619584,2025-11-25 19:45,Peterborough United,Stevenage FC,0,1,,,
-64882502,2025-11-25 19:45,Luton Town,Huddersfield Town,2,1,,,
-61493131,2025-11-29 12:30,Blackpool FC,Reading FC,0,3,,,
-61493151,2025-11-29 12:30,Stockport County FC,Barnsley FC,1,1,,,
-61493133,2025-11-29 15:00,Bradford City FC,Exeter City,1,0,,,
-61493135,2025-11-29 15:00,Burton Albion,Leyton Orient London,0,4,,,
-61493137,2025-11-29 15:00,Cardiff City,Mansfield Town,3,0,,,
-61493139,2025-11-29 15:00,Doncaster Rovers,Peterborough United,2,1,,,
-61493141,2025-11-29 15:00,Huddersfield Town,AFC Wimbledon,3,3,,,
-61493143,2025-11-29 15:00,Lincoln City,Port Vale,1,0,,,
-61493145,2025-11-29 15:00,Luton Town,Bolton Wanderers,1,1,,,
-61493147,2025-11-29 15:00,Plymouth Argyle,Northampton Town,0,3,,,
-61493149,2025-11-29 15:00,Rotherham United,Wycombe Wanderers,1,1,,,
-61493153,2025-11-29 15:00,Wigan Athletic,Stevenage FC,0,0,,,
-61493173,2025-12-02 19:45,Wigan Athletic,Burton Albion,1,0,,,
-65414126,2025-12-06 12:30,Cardiff City,Huddersfield Town,3,2,,,
-65417484,2025-12-06 12:30,Plymouth Argyle,Bradford City FC,0,1,,,
-61493155,2025-12-09 19:45,Doncaster Rovers,Stockport County FC,0,2,2.550,3.250,2.700
-61493157,2025-12-09 19:45,Exeter City,AFC Wimbledon,1,0,2.000,3.300,3.600
-61493159,2025-12-09 19:45,Leyton Orient London,Luton Town,1,1,2.800,3.200,2.450
-61493161,2025-12-09 19:45,Lincoln City,Barnsley FC,3,1,2.000,3.500,3.400
-61493163,2025-12-09 19:45,Mansfield Town,Bolton Wanderers,0,1,4.100,3.600,1.800
-61493165,2025-12-09 19:45,Northampton Town,Huddersfield Town,1,1,3.100,3.200,2.300
-61493171,2025-12-09 19:45,Stevenage FC,Cardiff City,0,1,3.000,3.200,2.350
-61493175,2025-12-09 19:45,Wycombe Wanderers,Plymouth Argyle,0,1,1.666,3.700,4.750
-61493177,2025-12-09 20:00,Reading FC,Peterborough United,1,2,2.200,3.300,3.200
-61493169,2025-12-10 19:45,Rotherham United,Blackpool FC,0,3,2.700,3.100,2.700
-61493179,2025-12-13 12:30,AFC Wimbledon,Mansfield Town,0,0,2.375,3.300,2.875
-61493193,2025-12-13 12:30,Huddersfield Town,Wigan Athletic,1,1,2.000,3.500,3.400
-61493181,2025-12-13 15:00,Barnsley FC,Leyton Orient London,3,2,2.000,3.600,3.400
-61493183,2025-12-13 15:00,Blackpool FC,Lincoln City,2,2,2.900,3.300,2.350
-61493185,2025-12-13 15:00,Bolton Wanderers,Exeter City,2,1,1.420,4.500,7.000
-61493187,2025-12-13 15:00,Bradford City FC,Reading FC,2,0,2.150,3.300,3.200
-61493189,2025-12-13 15:00,Burton Albion,Wycombe Wanderers,0,0,3.700,3.400,1.950
-61493191,2025-12-13 15:00,Cardiff City,Doncaster Rovers,4,3,1.700,4.000,4.333
-61493195,2025-12-13 15:00,Luton Town,Port Vale,2,2,1.666,3.600,5.000
-61493197,2025-12-13 15:00,Peterborough United,Northampton Town,2,1,1.909,3.400,3.800
-61493199,2025-12-13 15:00,Plymouth Argyle,Rotherham United,1,0,2.100,3.250,3.400
-61493201,2025-12-13 15:00,Stockport County FC,Stevenage FC,1,3,1.750,3.300,5.000
-61493217,2025-12-18 20:00,Reading FC,Luton Town,3,2,2.550,3.100,2.800
-61493213,2025-12-19 19:45,Northampton Town,AFC Wimbledon,3,1,2.200,3.100,3.400
-61493221,2025-12-20 12:30,Stevenage FC,Burton Albion,2,2,2.150,3.000,3.600
-61493223,2025-12-20 12:30,Wigan Athletic,Blackpool FC,0,2,2.250,3.100,3.300
-61493203,2025-12-20 15:00,Doncaster Rovers,Plymouth Argyle,1,5,1.833,3.700,4.000
-61493205,2025-12-20 15:00,Exeter City,Barnsley FC,3,0,2.900,3.400,2.350
-61493207,2025-12-20 15:00,Leyton Orient London,Bradford City FC,2,1,2.800,3.400,2.400
-61493209,2025-12-20 15:00,Lincoln City,Cardiff City,2,1,2.200,3.500,3.000
-61493211,2025-12-20 15:00,Mansfield Town,Stockport County FC,1,2,3.250,3.400,2.100
-61493215,2025-12-20 15:00,Port Vale,Peterborough United,0,1,2.300,3.400,2.900
-61493219,2025-12-20 15:00,Rotherham United,Huddersfield Town,1,3,3.400,3.100,2.150
-61493225,2025-12-20 15:00,Wycombe Wanderers,Bolton Wanderers,2,1,2.625,3.250,2.600
-61493227,2025-12-26 15:00,AFC Wimbledon,Stevenage FC,0,0,3.000,2.800,2.625
-61493229,2025-12-26 15:00,Barnsley FC,Mansfield Town,2,3,2.000,3.700,3.500
-61493231,2025-12-26 15:00,Blackpool FC,Doncaster Rovers,1,0,2.375,3.400,2.800
-61493233,2025-12-26 15:00,Bolton Wanderers,Rotherham United,2,1,1.380,4.200,8.500
-61493235,2025-12-26 15:00,Bradford City FC,Wigan Athletic,2,1,2.300,3.200,3.000
-61493237,2025-12-26 15:00,Burton Albion,Northampton Town,5,1,2.250,3.200,3.200
-61493239,2025-12-26 15:00,Cardiff City,Exeter City,1,0,1.550,4.000,5.500
-61493241,2025-12-26 15:00,Huddersfield Town,Port Vale,5,0,1.700,3.700,4.750
-61493243,2025-12-26 15:00,Luton Town,Wycombe Wanderers,4,0,2.300,3.200,3.300
-61493245,2025-12-26 15:00,Peterborough United,Leyton Orient London,1,0,2.050,3.600,3.300
-61493247,2025-12-26 15:00,Plymouth Argyle,Reading FC,1,4,2.550,3.400,2.500
-61493249,2025-12-26 15:00,Stockport County FC,Lincoln City,1,2,2.250,3.250,3.100
-61493251,2025-12-29 19:45,AFC Wimbledon,Exeter City,0,1,2.450,3.100,2.900
-61493253,2025-12-29 19:45,Barnsley FC,Lincoln City,0,2,2.625,3.200,2.625
-61493255,2025-12-29 19:45,Blackpool FC,Rotherham United,4,0,1.850,3.400,4.000
-61493257,2025-12-29 19:45,Bolton Wanderers,Mansfield Town,0,1,1.400,4.500,7.500
-61493259,2025-12-29 19:45,Bradford City FC,Port Vale,1,0,1.700,3.700,4.750
-61493261,2025-12-29 19:45,Burton Albion,Wigan Athletic,0,2,2.500,3.250,2.750
-61493263,2025-12-29 19:45,Cardiff City,Stevenage FC,2,1,1.750,3.500,4.333
-61493265,2025-12-29 19:45,Huddersfield Town,Northampton Town,2,0,1.533,3.750,6.500
-61493267,2025-12-29 19:45,Luton Town,Leyton Orient London,3,0,1.615,3.600,5.500
-61493269,2025-12-29 19:45,Peterborough United,Reading FC,1,1,2.250,3.250,3.100
-61493271,2025-12-29 19:45,Plymouth Argyle,Wycombe Wanderers,1,1,2.800,3.250,2.450
-61493273,2025-12-29 19:45,Stockport County FC,Doncaster Rovers,4,2,1.800,3.400,3.700
-61493275,2026-01-01 15:00,Doncaster Rovers,Bolton Wanderers,1,1,3.800,3.600,1.850
-61493277,2026-01-01 15:00,Exeter City,Luton Town,1,0,3.100,3.400,2.200
-61493279,2026-01-01 15:00,Leyton Orient London,AFC Wimbledon,1,3,2.100,3.200,3.400
-61493281,2026-01-01 15:00,Lincoln City,Huddersfield Town,1,1,2.500,3.100,2.800
-61493283,2026-01-01 15:00,Mansfield Town,Bradford City FC,3,0,2.600,3.100,2.750
-61493285,2026-01-01 15:00,Northampton Town,Stockport County FC,0,0,3.900,3.400,1.909
-61493287,2026-01-01 15:00,Port Vale,Blackpool FC,5,1,2.625,3.000,2.750
-61493289,2026-01-01 15:00,Reading FC,Burton Albion,2,0,1.850,3.400,4.200
-61493291,2026-01-01 15:00,Rotherham United,Peterborough United,0,2,3.000,3.200,2.300
-61493293,2026-01-01 15:00,Stevenage FC,Plymouth Argyle,1,1,2.000,3.300,3.700
-61493295,2026-01-01 15:00,Wigan Athletic,Barnsley FC,1,1,2.300,3.200,3.000
-61493297,2026-01-01 15:00,Wycombe Wanderers,Cardiff City,1,1,2.800,3.250,2.450
-61493301,2026-01-04 12:00,Bolton Wanderers,Northampton Town,0,0,1.400,4.200,8.500
-61493309,2026-01-04 12:00,Lincoln City,Peterborough United,5,2,2.200,3.400,3.100
-61493299,2026-01-04 15:00,Blackpool FC,Bradford City FC,1,2,2.500,3.250,2.750
-61493303,2026-01-04 15:00,Cardiff City,Wigan Athletic,1,0,1.600,3.900,5.500
-61493307,2026-01-04 15:00,Huddersfield Town,Exeter City,2,2,1.600,3.600,6.250
-61493311,2026-01-04 15:00,Plymouth Argyle,Burton Albion,3,0,1.727,3.500,4.750
-61493315,2026-01-04 15:00,Reading FC,Stockport County FC,1,0,2.500,3.300,2.700
-61493321,2026-01-04 15:00,Wycombe Wanderers,AFC Wimbledon,2,0,1.800,3.250,4.750
-61493335,2026-01-10 12:30,Luton Town,Stevenage FC,2,1,1.900,3.100,4.333
-61493343,2026-01-10 12:30,Stockport County FC,Huddersfield Town,1,0,2.150,3.300,3.200
-61493333,2026-01-10 15:00,Leyton Orient London,Cardiff City,1,1,3.900,3.800,1.800
-61493341,2026-01-10 15:00,Peterborough United,Bolton Wanderers,3,1,3.000,3.750,2.150
-61493351,2026-01-17 12:30,Bradford City FC,Cardiff City,1,2,2.875,3.500,2.250
-61493369,2026-01-17 12:30,Wigan Athletic,Bolton Wanderers,0,1,3.300,3.300,2.150
-61493347,2026-01-17 15:00,AFC Wimbledon,Doncaster Rovers,0,1,2.625,3.300,2.550
-61493349,2026-01-17 15:00,Barnsley FC,Blackpool FC,2,1,2.100,3.400,3.300
-61493353,2026-01-17 15:00,Burton Albion,Huddersfield Town,3,1,3.900,3.300,1.950
-61493355,2026-01-17 15:00,Exeter City,Stevenage FC,3,0,2.450,3.000,3.000
-61493357,2026-01-17 15:00,Leyton Orient London,Reading FC,3,1,2.550,3.500,2.550
-61493359,2026-01-17 15:00,Luton Town,Lincoln City,2,2,2.300,2.900,3.000
-61493361,2026-01-17 15:00,Mansfield Town,Port Vale,3,0,2.150,3.500,3.100
-61493363,2026-01-17 15:00,Northampton Town,Wycombe Wanderers,1,2,3.500,3.400,2.000
-61493365,2026-01-17 15:00,Peterborough United,Plymouth Argyle,0,1,1.900,3.700,3.600
-61493367,2026-01-17 15:00,Stockport County FC,Rotherham United,3,2,1.500,4.100,6.000
-65865110,2026-01-20 19:45,Stevenage FC,Bolton Wanderers,0,0,3.600,3.300,2.000
-61493381,2026-01-22 20:00,Lincoln City,Burton Albion,2,1,1.550,3.900,6.000
-61493375,2026-01-24 12:30,Cardiff City,Stockport County FC,1,1,2.100,3.600,3.200
-61493379,2026-01-24 12:30,Huddersfield Town,Bradford City FC,1,0,2.100,3.100,3.600
-61493383,2026-01-24 12:30,Plymouth Argyle,Luton Town,1,0,2.450,3.400,2.750
-61493371,2026-01-24 15:00,Blackpool FC,Northampton Town,2,0,1.950,3.400,3.800
-61493373,2026-01-24 15:00,Bolton Wanderers,Leyton Orient London,2,1,1.571,4.100,5.250
-61493377,2026-01-24 15:00,Doncaster Rovers,Wigan Athletic,3,3,2.200,3.300,3.400
-61493385,2026-01-24 15:00,Port Vale,Exeter City,1,3,2.375,3.300,3.000
-61493387,2026-01-24 15:00,Reading FC,Barnsley FC,2,2,2.200,3.600,3.000
-61493389,2026-01-24 15:00,Rotherham United,AFC Wimbledon,1,1,2.375,3.100,3.100
-61493391,2026-01-24 15:00,Stevenage FC,Mansfield Town,1,1,2.200,3.100,3.400
-61493393,2026-01-24 15:00,Wycombe Wanderers,Peterborough United,0,2,1.909,3.600,3.700
-61493395,2026-01-27 19:45,Blackpool FC,Stockport County FC,1,2,3.700,3.400,2.000
-61493397,2026-01-27 19:45,Bolton Wanderers,Burton Albion,2,1,1.480,3.800,6.500
-61493399,2026-01-27 19:45,Cardiff City,Barnsley FC,4,0,1.615,3.800,5.000
-61493403,2026-01-27 19:45,Huddersfield Town,Luton Town,1,0,2.000,3.300,3.600
-61493405,2026-01-27 19:45,Lincoln City,Bradford City FC,3,0,1.900,3.400,4.000
-61493407,2026-01-27 19:45,Plymouth Argyle,Mansfield Town,1,1,2.050,3.600,3.250
-61493411,2026-01-27 19:45,Rotherham United,Northampton Town,2,1,2.050,3.100,3.750
-61493413,2026-01-27 19:45,Stevenage FC,Peterborough United,1,0,1.850,3.500,3.900
-61493415,2026-01-27 19:45,Wycombe Wanderers,Wigan Athletic,2,0,1.909,3.500,3.800
-61493401,2026-01-27 20:00,Doncaster Rovers,Leyton Orient London,3,0,1.950,3.600,3.500
-61493417,2026-01-27 20:00,Reading FC,Exeter City,2,2,2.100,3.300,3.500
-61493419,2026-01-31 12:30,AFC Wimbledon,Bolton Wanderers,0,1,3.900,3.500,1.900
-61493423,2026-01-31 12:30,Bradford City FC,Doncaster Rovers,1,0,2.550,3.200,2.750
-61493435,2026-01-31 14:00,Northampton Town,Reading FC,0,2,2.900,3.300,2.350
-61493421,2026-01-31 15:00,Barnsley FC,Stevenage FC,3,1,2.500,3.250,2.750
-61493425,2026-01-31 15:00,Burton Albion,Cardiff City,2,2,4.100,3.600,1.800
-61493427,2026-01-31 15:00,Exeter City,Rotherham United,0,4,2.050,3.400,3.500
-61493429,2026-01-31 15:00,Leyton Orient London,Port Vale,0,1,2.100,3.250,3.500
-61493431,2026-01-31 15:00,Luton Town,Blackpool FC,1,0,1.666,3.700,5.000
-61493433,2026-01-31 15:00,Mansfield Town,Wycombe Wanderers,0,0,2.875,3.100,2.450
-61493437,2026-01-31 15:00,Peterborough United,Huddersfield Town,2,3,2.900,3.500,2.250
-61493439,2026-01-31 15:00,Stockport County FC,Plymouth Argyle,2,1,1.700,3.700,4.750
-61493441,2026-01-31 15:00,Wigan Athletic,Lincoln City,0,1,3.300,3.200,2.200
-68314220,2026-02-03 19:00,Port Vale,AFC Wimbledon,0,1,2.250,3.000,3.300
-66909370,2026-02-03 19:45,Barnsley FC,Northampton Town,2,2,1.700,3.700,4.333
-68304340,2026-02-03 19:45,Burton Albion,Doncaster Rovers,1,2,3.000,3.250,2.350
-61493449,2026-02-07 12:30,Luton Town,Bradford City FC,2,1,,,
-61493459,2026-02-07 12:30,Port Vale,Burton Albion,2,2,,,
-61493443,2026-02-07 15:00,AFC Wimbledon,Reading FC,3,2,,,
-61493445,2026-02-07 15:00,Bolton Wanderers,Barnsley FC,3,2,,,
-61493447,2026-02-07 15:00,Huddersfield Town,Blackpool FC,2,2,,,
-61493451,2026-02-07 15:00,Mansfield Town,Exeter City,0,0,,,
-61493453,2026-02-07 15:00,Northampton Town,Stevenage FC,3,1,,,
-61493455,2026-02-07 15:00,Peterborough United,Wigan Athletic,6,1,,,
-61493457,2026-02-07 15:00,Plymouth Argyle,Lincoln City,1,4,,,
-61493461,2026-02-07 15:00,Rotherham United,Cardiff City,0,3,,,
-61493463,2026-02-07 15:00,Stockport County FC,Leyton Orient London,0,0,,,
-61493465,2026-02-07 15:00,Wycombe Wanderers,Doncaster Rovers,4,0,,,
-66673856,2026-02-10 19:45,Wigan Athletic,Reading FC,1,2,2.300,3.100,3.100
-66910878,2026-02-10 19:45,Mansfield Town,Peterborough United,1,2,2.375,3.300,2.875
-61493485,2026-02-14 12:30,Reading FC,Wycombe Wanderers,3,2,3.000,3.300,2.250
-61493487,2026-02-14 12:30,Stevenage FC,Huddersfield Town,1,0,2.600,2.800,3.000
-61493467,2026-02-14 15:00,Barnsley FC,AFC Wimbledon,3,3,1.950,3.500,3.500
-61493469,2026-02-14 15:00,Blackpool FC,Plymouth Argyle,0,4,2.600,3.400,2.600
-61493471,2026-02-14 15:00,Bradford City FC,Peterborough United,2,0,1.850,3.600,3.800
-61493475,2026-02-14 15:00,Cardiff City,Luton Town,3,1,1.750,3.800,4.000
-61493479,2026-02-14 15:00,Exeter City,Northampton Town,0,0,1.950,3.600,3.600
-61493483,2026-02-14 15:00,Lincoln City,Bolton Wanderers,1,1,2.300,3.500,2.875
-61493491,2026-02-17 19:45,Barnsley FC,Peterborough United,2,1,1.800,4.000,3.700
-61493495,2026-02-17 19:45,Bradford City FC,Stockport County FC,1,0,2.700,3.200,2.600
-61493497,2026-02-17 19:45,Burton Albion,Rotherham United,1,0,2.150,3.250,3.300
-61493499,2026-02-17 19:45,Cardiff City,AFC Wimbledon,4,1,1.380,4.750,7.500
-61493501,2026-02-17 19:45,Doncaster Rovers,Huddersfield Town,1,0,2.450,3.300,2.750
-61493503,2026-02-17 19:45,Exeter City,Wycombe Wanderers,1,1,3.100,3.250,2.250
-61493505,2026-02-17 19:45,Leyton Orient London,Plymouth Argyle,1,3,2.600,3.300,2.600
-61493507,2026-02-17 19:45,Lincoln City,Northampton Town,4,0,1.363,4.500,8.500
-61493509,2026-02-17 19:45,Stevenage FC,Port Vale,2,1,1.750,3.200,5.250
-61493493,2026-02-17 20:00,Blackpool FC,Mansfield Town,1,0,2.700,3.200,2.625
-61493513,2026-02-17 20:00,Reading FC,Bolton Wanderers,1,1,3.200,3.500,2.100
-61493511,2026-02-18 19:45,Wigan Athletic,Luton Town,1,0,2.600,3.250,2.700
-61493529,2026-02-21 12:30,Plymouth Argyle,Cardiff City,5,2,3.000,3.600,2.200
-61493533,2026-02-21 12:30,Rotherham United,Doncaster Rovers,1,2,2.625,3.400,2.500
-61493537,2026-02-21 12:30,Wycombe Wanderers,Stevenage FC,3,1,2.050,3.100,4.000
-61493515,2026-02-21 15:00,AFC Wimbledon,Bradford City FC,3,1,2.625,3.200,2.625
-61493517,2026-02-21 15:00,Bolton Wanderers,Blackpool FC,2,2,1.533,4.000,6.000
-61493519,2026-02-21 15:00,Huddersfield Town,Barnsley FC,2,1,1.850,3.700,3.900
-61493521,2026-02-21 15:00,Luton Town,Burton Albion,1,1,1.850,3.500,4.100
-61493523,2026-02-21 15:00,Mansfield Town,Lincoln City,0,2,3.700,3.400,2.000
-61493525,2026-02-21 15:00,Northampton Town,Leyton Orient London,1,2,2.700,3.250,2.550
-61493527,2026-02-21 15:00,Peterborough United,Exeter City,3,3,2.300,3.500,2.875
-61493531,2026-02-21 15:00,Port Vale,Reading FC,1,1,2.750,3.300,2.500
-61493535,2026-02-21 15:00,Stockport County FC,Wigan Athletic,4,2,1.727,3.600,4.750
-66910880,2026-02-24 19:45,Northampton Town,Port Vale,0,1,2.375,3.100,3.100
-68021032,2026-02-24 19:45,Burton Albion,Stockport County FC,3,0,3.200,3.400,2.200
-68304342,2026-02-24 19:45,Bradford City FC,Rotherham United,1,0,1.650,3.600,5.750
-61493543,2026-02-28 12:30,Leyton Orient London,Barnsley FC,1,3,2.400,3.400,2.750
-61493549,2026-02-28 12:30,Northampton Town,Peterborough United,1,1,2.600,3.700,2.400
-61493539,2026-02-28 15:00,Doncaster Rovers,Cardiff City,0,4,2.900,3.750,2.150
-61493541,2026-02-28 15:00,Exeter City,Bolton Wanderers,1,5,3.250,3.500,2.100
-61493545,2026-02-28 15:00,Lincoln City,Blackpool FC,4,0,1.450,4.333,6.500
-61493547,2026-02-28 15:00,Mansfield Town,AFC Wimbledon,2,2,2.100,3.100,3.500
-61493551,2026-02-28 15:00,Port Vale,Luton Town,1,1,3.000,3.300,2.250
-61493553,2026-02-28 15:00,Reading FC,Bradford City FC,2,1,2.700,3.100,2.600
-61493555,2026-02-28 15:00,Rotherham United,Plymouth Argyle,1,0,3.100,3.500,2.150
-61493557,2026-02-28 15:00,Stevenage FC,Stockport County FC,2,1,2.625,3.200,2.600
-61493559,2026-02-28 15:00,Wigan Athletic,Huddersfield Town,1,0,3.100,3.100,2.300
-61493561,2026-02-28 15:00,Wycombe Wanderers,Burton Albion,3,0,1.800,3.400,4.500
-67179542,2026-03-03 19:45,Barnsley FC,Wycombe Wanderers,0,1,2.900,3.400,2.250
-67179546,2026-03-03 19:45,Exeter City,Burton Albion,1,1,2.200,3.300,3.100
-68304364,2026-03-03 19:45,Rotherham United,Mansfield Town,0,0,2.600,3.250,2.625
-61493575,2026-03-07 12:30,Cardiff City,Lincoln City,0,2,2.150,3.300,3.250
-61493577,2026-03-07 12:30,Huddersfield Town,Rotherham United,1,0,1.615,3.750,5.500
-61493565,2026-03-07 15:00,Barnsley FC,Exeter City,2,1,2.050,3.600,3.200
-61493567,2026-03-07 15:00,Blackpool FC,Wigan Athletic,1,1,2.625,3.200,2.625
-61493569,2026-03-07 15:00,Bolton Wanderers,Wycombe Wanderers,3,2,1.900,3.500,3.750
-61493571,2026-03-07 15:00,Bradford City FC,Leyton Orient London,2,1,1.950,3.250,3.900
-61493573,2026-03-07 15:00,Burton Albion,Stevenage FC,0,1,2.400,3.200,2.875
-61493579,2026-03-07 15:00,Luton Town,Reading FC,2,3,1.800,3.600,4.200
-61493583,2026-03-07 15:00,Plymouth Argyle,Doncaster Rovers,2,1,1.900,3.600,3.700
-61493563,2026-03-08 12:00,AFC Wimbledon,Northampton Town,1,0,1.909,3.400,3.800
-67092588,2026-03-10 19:45,Barnsley FC,Cardiff City,1,1,4.000,4.000,1.727
-67260320,2026-03-10 19:45,Wigan Athletic,Plymouth Argyle,0,3,2.750,3.300,2.500
-67604512,2026-03-10 19:45,Exeter City,Lincoln City,0,1,4.333,4.000,1.700
-67625652,2026-03-10 19:45,Stevenage FC,Leyton Orient London,1,2,1.850,3.400,4.200
-68304334,2026-03-10 19:45,Mansfield Town,Reading FC,1,0,2.050,3.300,3.400
-69246748,2026-03-10 19:45,Doncaster Rovers,Luton Town,1,1,2.450,3.500,2.625
-67179544,2026-03-11 19:45,Port Vale,Bradford City FC,0,2,3.800,3.400,1.909
-67468326,2026-03-11 19:45,AFC Wimbledon,Blackpool FC,4,1,2.300,3.200,3.100
-61493593,2026-03-14 12:30,Lincoln City,Stockport County FC,3,1,1.950,3.600,3.700
-61493603,2026-03-14 12:30,Rotherham United,Bolton Wanderers,2,2,4.100,3.800,1.750
-61493587,2026-03-14 15:00,Doncaster Rovers,Blackpool FC,2,1,1.900,3.600,3.750
-61493589,2026-03-14 15:00,Exeter City,Cardiff City,0,4,4.333,3.700,1.750
-61493591,2026-03-14 15:00,Leyton Orient London,Peterborough United,2,1,2.000,3.800,3.200
-61493595,2026-03-14 15:00,Mansfield Town,Barnsley FC,2,2,2.000,3.800,3.300
-61493597,2026-03-14 15:00,Northampton Town,Burton Albion,0,2,2.900,3.250,2.400
-61493599,2026-03-14 15:00,Port Vale,Huddersfield Town,0,0,4.100,3.400,1.800
-61493601,2026-03-14 15:00,Reading FC,Plymouth Argyle,2,2,2.900,3.400,2.350
-61493605,2026-03-14 15:00,Stevenage FC,AFC Wimbledon,1,0,2.000,3.100,4.000
-61493607,2026-03-14 15:00,Wigan Athletic,Bradford City FC,2,0,3.250,3.400,2.100
-61493609,2026-03-14 15:00,Wycombe Wanderers,Luton Town,1,2,2.100,3.500,3.250
-61493611,2026-03-17 19:45,AFC Wimbledon,Leyton Orient London,2,4,,,
-61493615,2026-03-17 19:45,Blackpool FC,Port Vale,3,2,,,
-61493617,2026-03-17 19:45,Bolton Wanderers,Doncaster Rovers,0,0,,,
-61493619,2026-03-17 19:45,Bradford City FC,Mansfield Town,1,1,,,
-61493621,2026-03-17 19:45,Burton Albion,Reading FC,1,2,,,
-61493623,2026-03-17 19:45,Cardiff City,Wycombe Wanderers,0,2,,,
-61493625,2026-03-17 19:45,Huddersfield Town,Lincoln City,2,2,,,
-61493627,2026-03-17 19:45,Luton Town,Exeter City,3,2,,,
-61493629,2026-03-17 19:45,Peterborough United,Rotherham United,5,0,,,
-61493631,2026-03-17 19:45,Plymouth Argyle,Stevenage FC,1,0,,,
-61493633,2026-03-17 19:45,Stockport County FC,Northampton Town,2,1,,,
-61493613,2026-03-17 20:00,Barnsley FC,Wigan Athletic,1,1,2.250,3.250,3.000
-61493641,2026-03-21 12:30,Cardiff City,Blackpool FC,0,0,1.363,4.750,7.500
-61493647,2026-03-21 12:30,Luton Town,Stockport County FC,1,1,2.600,3.400,2.600
-61493635,2026-03-21 15:00,AFC Wimbledon,Peterborough United,1,1,2.100,3.500,3.250
-61493637,2026-03-21 15:00,Barnsley FC,Doncaster Rovers,0,1,2.600,3.400,2.550
-61493639,2026-03-21 15:00,Burton Albion,Bradford City FC,2,1,2.750,3.300,2.450
-61493643,2026-03-21 15:00,Leyton Orient London,Wycombe Wanderers,2,0,3.000,3.400,2.250
-61493645,2026-03-21 15:00,Lincoln City,Rotherham United,3,0,1.363,4.750,7.500
-61493649,2026-03-21 15:00,Mansfield Town,Northampton Town,4,1,1.533,3.900,6.000
-61493651,2026-03-21 15:00,Plymouth Argyle,Huddersfield Town,3,1,2.200,3.200,3.250
-61493653,2026-03-21 15:00,Port Vale,Bolton Wanderers,1,0,5.250,4.100,1.550
-61493655,2026-03-21 15:00,Stevenage FC,Reading FC,1,0,1.950,3.100,4.200
-61493657,2026-03-21 15:00,Wigan Athletic,Exeter City,2,0,2.200,3.000,3.500
-69145170,2026-03-24 19:45,Doncaster Rovers,Port Vale,1,0,1.700,3.600,4.750
-61493659,2026-03-28 15:00,Blackpool FC,Burton Albion,1,0,2.350,3.250,3.000
-61493667,2026-03-28 15:00,Exeter City,Leyton Orient London,0,0,2.400,3.600,2.625
-61493675,2026-03-28 15:00,Reading FC,Wigan Athletic,3,0,2.250,3.250,3.100
-61493679,2026-03-28 15:00,Stockport County FC,AFC Wimbledon,3,0,1.480,4.500,6.000
-61493681,2026-03-28 15:00,Wycombe Wanderers,Port Vale,4,0,1.450,4.200,6.500
-61493705,2026-04-02 18:45,Wigan Athletic,Leyton Orient London,0,0,2.300,3.200,3.200
-61493691,2026-04-03 11:30,Doncaster Rovers,Mansfield Town,0,2,2.150,3.400,3.200
-61493683,2026-04-03 14:00,Blackpool FC,Exeter City,1,0,1.900,3.500,3.900
-61493685,2026-04-03 14:00,Bradford City FC,Northampton Town,1,0,1.400,4.333,8.000
-61493687,2026-04-03 14:00,Burton Albion,Barnsley FC,1,1,2.100,3.300,3.500
-61493693,2026-04-03 14:00,Huddersfield Town,Reading FC,1,1,1.727,3.600,4.500
-61493695,2026-04-03 14:00,Lincoln City,AFC Wimbledon,1,0,1.444,4.333,7.000
-61493697,2026-04-03 14:00,Luton Town,Peterborough United,2,1,1.533,4.200,5.750
-61493699,2026-04-03 14:00,Plymouth Argyle,Bolton Wanderers,1,2,2.200,3.600,2.900
-61493701,2026-04-03 14:00,Rotherham United,Stevenage FC,0,0,3.750,3.100,2.050
-61493703,2026-04-03 14:00,Stockport County FC,Wycombe Wanderers,3,0,2.100,3.500,3.200
-61493707,2026-04-06 14:00,AFC Wimbledon,Luton Town,0,3,3.500,3.500,2.000
-61493709,2026-04-06 14:00,Barnsley FC,Plymouth Argyle,0,3,2.875,3.700,2.250
-61493711,2026-04-06 14:00,Bolton Wanderers,Stockport County FC,2,2,2.150,3.700,3.000
-61493713,2026-04-06 14:00,Exeter City,Doncaster Rovers,3,0,3.100,3.300,2.250
-61493715,2026-04-06 14:00,Leyton Orient London,Huddersfield Town,1,2,3.200,3.100,2.300
-61493717,2026-04-06 14:00,Mansfield Town,Burton Albion,0,0,2.200,3.400,3.000
-61493719,2026-04-06 14:00,Northampton Town,Wigan Athletic,1,3,3.700,3.200,2.100
-61493721,2026-04-06 14:00,Peterborough United,Cardiff City,1,1,4.500,4.750,1.571
-61493851,2026-04-06 14:00,Reading FC,Lincoln City,1,2,3.900,3.600,1.850
-61493853,2026-04-06 14:00,Stevenage FC,Blackpool FC,1,0,1.909,3.300,4.000
-61493855,2026-04-06 14:00,Wycombe Wanderers,Bradford City FC,1,2,2.150,3.200,3.300
-61493857,2026-04-07 18:45,Port Vale,Rotherham United,1,0,2.500,3.250,2.750
-61493867,2026-04-11 11:30,Plymouth Argyle,Exeter City,2,2,1.420,4.500,7.000
-61493869,2026-04-11 11:30,Lincoln City,Leyton Orient London,2,1,1.444,4.200,7.500
-61493875,2026-04-11 11:30,Cardiff City,Bolton Wanderers,2,0,1.850,3.900,3.700
-61493861,2026-04-11 14:00,Wigan Athletic,Mansfield Town,2,1,2.300,3.400,3.000
-61493865,2026-04-11 14:00,Rotherham United,Barnsley FC,1,3,2.550,3.500,2.550
-61493871,2026-04-11 14:00,Huddersfield Town,Wycombe Wanderers,3,3,1.950,3.500,3.700
-61493873,2026-04-11 14:00,Doncaster Rovers,Reading FC,1,0,1.833,3.750,3.900
-61493877,2026-04-11 14:00,Burton Albion,AFC Wimbledon,1,0,1.800,3.600,4.500
-61493879,2026-04-11 14:00,Bradford City FC,Stevenage FC,0,1,2.250,2.900,3.600
-61493881,2026-04-11 14:00,Blackpool FC,Peterborough United,3,1,1.850,3.900,3.500
-68162602,2026-04-14 18:45,Port Vale,Barnsley FC,0,0,2.750,3.200,2.500
-68305678,2026-04-14 18:45,Leyton Orient London,Mansfield Town,0,0,2.000,3.500,3.400
-68306292,2026-04-14 18:45,Wigan Athletic,Rotherham United,3,0,1.571,3.750,5.500
-69887086,2026-04-14 18:45,Huddersfield Town,Cardiff City,1,1,3.000,3.600,2.200
-70008380,2026-04-14 18:45,Bolton Wanderers,Stevenage FC,5,1,1.833,3.700,4.100
-61493859,2026-04-15 18:45,Luton Town,Northampton Town,2,1,1.285,5.750,8.500
-68021016,2026-04-15 18:45,AFC Wimbledon,Stockport County FC,0,2,4.100,3.800,1.750
-70077144,2026-04-16 18:45,Peterborough United,Port Vale,1,3,1.600,4.333,4.750
-61493899,2026-04-18 11:30,Bolton Wanderers,Huddersfield Town,3,3,1.650,3.750,4.200
-61493901,2026-04-18 11:30,Barnsley FC,Bradford City FC,2,2,3.000,3.300,2.300
-61493883,2026-04-18 14:00,Stevenage FC,Lincoln City,2,2,2.900,3.000,2.500
-61493885,2026-04-18 14:00,Wycombe Wanderers,Blackpool FC,0,1,1.850,3.750,3.750
-61493887,2026-04-18 14:00,Reading FC,Cardiff City,1,3,5.250,4.100,1.550
-61493893,2026-04-18 14:00,Northampton Town,Doncaster Rovers,1,3,4.333,3.700,1.727
-61493895,2026-04-18 14:00,Leyton Orient London,Rotherham United,0,2,1.500,4.100,6.000
-61493897,2026-04-18 14:00,Exeter City,Stockport County FC,3,3,4.100,4.000,1.727
-61493903,2026-04-18 14:00,AFC Wimbledon,Plymouth Argyle,1,3,3.600,3.700,1.909
-61493905,2026-04-18 14:00,Mansfield Town,Luton Town,2,2,2.800,3.200,2.200
-61493891,2026-04-19 12:00,Peterborough United,Burton Albion,1,1,2.700,3.300,2.500
-61493889,2026-04-19 14:00,Port Vale,Wigan Athletic,0,0,3.200,3.100,2.300
-69106832,2026-04-21 18:45,Stevenage FC,Barnsley FC,1,0,1.700,3.500,5.000
-69887096,2026-04-21 18:45,Rotherham United,Luton Town,0,2,5.750,4.200,1.500
-70100814,2026-04-21 18:45,Doncaster Rovers,Lincoln City,0,2,3.000,3.200,2.300
-70347656,2026-04-21 18:45,Bradford City FC,Plymouth Argyle,1,1,2.600,3.250,2.600
-70347714,2026-04-21 18:45,Stockport County FC,Mansfield Town,0,1,1.533,4.200,5.500
-70077220,2026-04-22 18:45,Cardiff City,Port Vale,1,0,1.380,5.500,5.750
-61493911,2026-04-25 11:30,Stockport County FC,Peterborough United,3,1,1.420,5.250,5.500
-61493919,2026-04-25 11:30,Doncaster Rovers,Stevenage FC,1,1,3.500,3.250,2.100
-61493907,2026-04-25 14:00,Rotherham United,Reading FC,1,1,2.750,3.500,2.350
-61493909,2026-04-25 14:00,Wigan Athletic,AFC Wimbledon,0,1,2.200,3.400,3.100
-61493913,2026-04-25 14:00,Plymouth Argyle,Port Vale,2,1,1.333,5.500,7.500
-61493915,2026-04-25 14:00,Luton Town,Barnsley FC,2,1,1.500,4.500,5.500
-61493917,2026-04-25 14:00,Lincoln City,Wycombe Wanderers,4,3,1.750,3.900,4.000
-61493921,2026-04-25 14:00,Cardiff City,Northampton Town,5,1,1.200,6.500,11.000
-61493923,2026-04-25 14:00,Burton Albion,Exeter City,1,1,1.650,4.000,4.750
-61493925,2026-04-25 14:00,Bradford City FC,Bolton Wanderers,1,1,2.900,3.100,2.450
-61493927,2026-04-25 14:00,Blackpool FC,Leyton Orient London,1,0,2.700,3.000,2.750
-61493929,2026-04-25 14:00,Huddersfield Town,Mansfield Town,2,4,2.100,3.500,3.250
-70017990,2026-04-28 18:45,Northampton Town,Barnsley FC,0,1,3.000,3.900,2.050
-70077146,2026-04-28 18:45,Stockport County FC,Port Vale,1,2,1.333,5.250,7.500
-70100812,2026-04-28 18:45,Peterborough United,Mansfield Town,0,0,2.700,3.200,2.550
-61493931,2026-05-02 14:00,Wycombe Wanderers,Rotherham United,3,2,1.600,4.000,5.000
-61493933,2026-05-02 14:00,Stevenage FC,Wigan Athletic,1,0,1.550,4.200,5.500
-61493935,2026-05-02 14:00,Reading FC,Blackpool FC,0,1,2.300,3.400,2.900
-61493937,2026-05-02 14:00,Port Vale,Lincoln City,0,2,4.100,4.333,1.666
-61493939,2026-05-02 14:00,Peterborough United,Doncaster Rovers,1,3,2.625,3.700,2.350
-61493941,2026-05-02 14:00,Northampton Town,Plymouth Argyle,2,3,5.750,6.000,1.380
-61493943,2026-05-02 14:00,Mansfield Town,Cardiff City,5,4,3.100,4.000,2.000
-61493945,2026-05-02 14:00,Leyton Orient London,Burton Albion,3,2,1.800,3.800,3.900
-61493947,2026-05-02 14:00,Exeter City,Bradford City FC,1,2,3.250,3.700,2.000
-61493949,2026-05-02 14:00,Bolton Wanderers,Luton Town,2,3,2.150,4.333,2.600
-61493951,2026-05-02 14:00,Barnsley FC,Stockport County FC,1,3,3.750,4.200,1.750
-61493953,2026-05-02 14:00,AFC Wimbledon,Huddersfield Town,0,4,3.300,3.600,2.050
-71242304,2026-05-09 14:00,Stevenage FC,Stockport County FC,0,1,2.550,3.100,2.800
-71242312,2026-05-09 19:00,Bolton Wanderers,Bradford City FC,1,0,1.800,3.200,4.100
-71242306,2026-05-13 19:00,Stockport County FC,Stevenage FC,2,0,1.950,3.400,3.750
-71242310,2026-05-14 19:00,Bradford City FC,Bolton Wanderers,0,1,2.550,3.100,2.800
-71573910,2026-05-24 12:00,Bolton Wanderers,Stockport County FC,4,1,2.600,3.100,2.800
-72341022,2026-08-15 11:30,Notts County,Leicester City,1,1,3.500,3.400,2.000
-72341024,2026-08-15 11:30,Oxford United,Milton Keynes Dons,2,2,2.200,3.300,3.200
-72341026,2026-08-15 11:30,Reading FC,Luton Town,3,4,3.000,3.400,2.250
-72341028,2026-08-15 14:00,Barnsley FC,Bromley FC,0,1,2.200,3.500,3.000
-72341030,2026-08-15 14:00,Blackpool FC,Wycombe Wanderers,1,1,2.625,3.300,2.550
-72341032,2026-08-15 14:00,Bradford City FC,Peterborough United,2,0,1.650,4.000,4.500
-72341034,2026-08-15 14:00,Burton Albion,Stevenage FC,1,1,2.750,3.200,2.500
-72341036,2026-08-15 14:00,Cambridge United,Wigan Athletic,3,2,2.150,3.300,3.250
-72341038,2026-08-15 14:00,Huddersfield Town,AFC Wimbledon,3,0,1.600,3.800,5.500
-72341040,2026-08-15 14:00,Leyton Orient London,Sheffield Wednesday,1,2,2.350,3.400,2.800
-72341042,2026-08-15 14:00,Mansfield Town,Doncaster Rovers,2,1,2.150,3.400,3.100
-72341044,2026-08-15 14:00,Plymouth Argyle,Stockport County FC,1,3,2.300,3.400,2.900
-72341060,2026-08-20 19:00,Sheffield Wednesday,Bradford City FC,0,1,2.625,3.400,2.450
-72341050,2026-08-22 11:30,Doncaster Rovers,Barnsley FC,0,0,1.833,3.700,4.000
-72341054,2026-08-22 11:30,Luton Town,Notts County,2,2,1.533,4.100,5.750
-72341046,2026-08-22 14:00,AFC Wimbledon,Reading FC,0,0,2.900,3.250,2.300
-72341048,2026-08-22 14:00,Bromley FC,Cambridge United,1,1,2.625,3.100,2.600
-72341052,2026-08-22 14:00,Leicester City,Burton Albion,1,2,1.533,4.000,5.500
-72341056,2026-08-22 14:00,Milton Keynes Dons,Huddersfield Town,1,1,2.450,3.300,2.700
-72341058,2026-08-22 14:00,Peterborough United,Mansfield Town,2,1,2.800,3.500,2.300
-72341062,2026-08-22 14:00,Stevenage FC,Oxford United,1,2,2.625,3.000,2.750
-72341064,2026-08-22 14:00,Stockport County FC,Blackpool FC,1,2,1.600,3.800,5.250
-72341066,2026-08-22 14:00,Wigan Athletic,Leyton Orient London,0,2,1.950,3.300,3.750
-72341068,2026-08-22 14:00,Wycombe Wanderers,Plymouth Argyle,1,1,2.450,3.300,2.800
-72341072,2026-08-29 11:30,Blackpool FC,Peterborough United,4,0,2.200,3.500,3.000
-72341080,2026-08-29 11:30,Milton Keynes Dons,Leicester City,0,0,2.400,3.500,2.700
-72341074,2026-08-29 14:00,Cambridge United,Huddersfield Town,1,2,2.700,3.200,2.600
-72341076,2026-08-29 14:00,Leyton Orient London,Barnsley FC,1,3,2.150,3.500,3.100
-72341082,2026-08-29 14:00,Notts County,Burton Albion,2,1,2.200,3.500,3.100
-72341086,2026-08-29 14:00,Plymouth Argyle,Bradford City FC,2,0,2.375,3.250,2.900
-72341088,2026-08-29 14:00,Sheffield Wednesday,Bromley FC,7,2,1.750,3.600,4.333
-72341090,2026-08-29 14:00,Stevenage FC,Doncaster Rovers,2,2,2.400,3.100,3.000
-72341092,2026-08-29 14:00,Stockport County FC,Wycombe Wanderers,5,1,1.800,3.700,4.100
-72341070,2026-08-30 13:00,AFC Wimbledon,Wigan Athletic,1,0,2.875,3.200,2.450
-72341078,2026-08-30 14:00,Mansfield Town,Luton Town,5,2,3.200,3.300,2.200
-72341096,2026-09-01 18:45,Bradford City FC,Cambridge United,1,2,1.900,3.200,4.100
-72341098,2026-09-01 18:45,Bromley FC,Leyton Orient London,0,5,2.300,3.100,3.100
-72341102,2026-09-01 18:45,Doncaster Rovers,Notts County,1,1,2.000,3.400,3.500
-72341104,2026-09-01 18:45,Huddersfield Town,Oxford United,3,1,1.666,3.800,4.500
-72341106,2026-09-01 18:45,Leicester City,Plymouth Argyle,2,0,2.050,3.600,3.250
-72341112,2026-09-01 18:45,Wycombe Wanderers,Sheffield Wednesday,1,2,2.200,3.300,3.000
-72341114,2026-09-01 18:45,Peterborough United,Stevenage FC,0,0,1.950,3.300,3.750
-72341094,2026-09-02 18:45,Barnsley FC,Blackpool FC,2,1,2.250,3.600,2.800
-72341100,2026-09-02 18:45,Burton Albion,AFC Wimbledon,4,1,2.500,3.100,2.900
-72341108,2026-09-02 18:45,Luton Town,Stockport County FC,2,0,2.550,3.600,2.450
-73873516,2026-09-02 18:45,Wigan Athletic,Milton Keynes Dons,3,1,2.350,3.500,2.700
-72341116,2026-09-02 19:00,Reading FC,Mansfield Town,5,0,1.950,3.500,3.500
-72341134,2026-09-05 11:30,Peterborough United,Sheffield Wednesday,1,2,2.625,3.400,2.500
-72341138,2026-09-05 11:30,Wigan Athletic,Stockport County FC,0,4,4.200,3.700,1.750
-72341118,2026-09-05 14:00,Barnsley FC,Stevenage FC,1,5,2.250,3.250,3.100
-72341120,2026-09-05 14:00,Bradford City FC,Mansfield Town,1,0,1.750,3.600,4.333
-72341124,2026-09-05 14:00,Burton Albion,Cambridge United,2,2,2.750,3.200,2.500
-72341126,2026-09-05 14:00,Doncaster Rovers,Plymouth Argyle,2,3,2.450,3.400,2.700
-72341128,2026-09-05 14:00,Huddersfield Town,Notts County,1,1,1.700,3.700,4.500
-72341130,2026-09-05 14:00,Leicester City,Oxford United,0,4,1.550,4.100,5.250
-72341132,2026-09-05 14:00,Luton Town,Leyton Orient London,1,1,1.615,4.000,4.750
-72341136,2026-09-05 14:00,Reading FC,Blackpool FC,3,1,1.750,3.600,4.500
-72341140,2026-09-05 14:00,Wycombe Wanderers,Milton Keynes Dons,3,3,2.250,3.500,2.900
-72573876,2026-09-07 19:00,Bromley FC,AFC Wimbledon,0,2,2.200,3.400,3.000
-72341162,2026-09-10 19:00,Stevenage FC,Luton Town,2,1,3.400,3.400,2.100
-72341148,2026-09-12 11:30,Leyton Orient London,Wycombe Wanderers,2,3,2.600,3.300,2.600
-72341154,2026-09-12 11:30,Notts County,Bradford City FC,0,1,3.100,3.100,2.300
-72341142,2026-09-12 14:00,AFC Wimbledon,Doncaster Rovers,1,0,3.300,3.400,2.100
-72341144,2026-09-12 14:00,Blackpool FC,Bromley FC,2,2,1.666,4.000,4.500
-72341146,2026-09-12 14:00,Cambridge United,Reading FC,2,1,2.750,3.100,2.500
-72341150,2026-09-12 14:00,Mansfield Town,Huddersfield Town,0,0,3.400,3.500,2.000
-72341152,2026-09-12 14:00,Milton Keynes Dons,Peterborough United,1,1,1.950,3.800,3.400
-72341156,2026-09-12 14:00,Oxford United,Burton Albion,3,0,1.900,3.600,3.900
-72341158,2026-09-12 14:00,Plymouth Argyle,Barnsley FC,3,0,1.666,4.000,4.500
-72341160,2026-09-12 14:00,Sheffield Wednesday,Wigan Athletic,0,0,1.700,3.800,4.500
-72341164,2026-09-12 14:00,Stockport County FC,Leicester City,3,4,1.700,4.000,4.200
-72341166,2026-09-17 19:00,AFC Wimbledon,Milton Keynes Dons,0,0,3.100,3.200,2.300
-72341168,2026-09-19 11:30,Barnsley FC,Leicester City,1,1,2.625,3.750,2.350
-72341174,2026-09-19 11:30,Burton Albion,Mansfield Town,2,2,2.550,3.300,2.600
-72341170,2026-09-19 14:00,Blackpool FC,Plymouth Argyle,2,4,,,
-72341172,2026-09-19 14:00,Bromley FC,Huddersfield Town,2,1,,,
-72341176,2026-09-19 14:00,Leyton Orient London,Stevenage FC,1,0,,,
-72341178,2026-09-19 14:00,Luton Town,Bradford City FC,0,1,,,
-72341180,2026-09-19 14:00,Oxford United,Cambridge United,1,1,,,
-72341182,2026-09-19 14:00,Peterborough United,Doncaster Rovers,0,2,,,
-72341184,2026-09-19 14:00,Reading FC,Notts County,2,0,,,
-72341186,2026-09-19 14:00,Sheffield Wednesday,Stockport County FC,0,0,,,
-72341188,2026-09-19 14:00,Wigan Athletic,Wycombe Wanderers,0,1,,,
-72341192,2026-09-26 14:00,Cambridge United,AFC Wimbledon,1,1,1.666,4.000,4.500
-72341206,2026-09-26 14:00,Plymouth Argyle,Burton Albion,0,1,1.500,4.200,6.000
-72341210,2026-09-26 14:00,Stockport County FC,Peterborough United,1,0,1.363,4.750,7.500
-72341212,2026-09-26 14:00,Wycombe Wanderers,Reading FC,2,2,2.500,3.600,2.500
-72341222,2026-10-03 14:00,Burton Albion,Huddersfield Town,1,3,4.333,3.750,1.727
-72341224,2026-10-03 14:00,Leyton Orient London,Plymouth Argyle,0,2,2.800,3.700,2.250
-72341232,2026-10-03 14:00,Reading FC,Bradford City FC,1,1,1.900,3.700,3.700
-72341252,2026-10-10 11:30,Notts County,Oxford United,1,2,2.150,3.300,3.200
-72341254,2026-10-10 11:30,Plymouth Argyle,AFC Wimbledon,2,1,1.600,4.000,5.250
-72341238,2026-10-10 14:00,Bradford City FC,Leyton Orient London,0,0,1.650,3.800,5.250
-72341240,2026-10-10 14:00,Cambridge United,Blackpool FC,1,0,1.850,3.600,3.750
-72341242,2026-10-10 14:00,Doncaster Rovers,Burton Albion,1,0,1.727,3.700,4.500
-72341244,2026-10-10 14:00,Huddersfield Town,Sheffield Wednesday,2,2,1.666,3.900,4.500
-72341246,2026-10-10 14:00,Leicester City,Peterborough United,1,3,1.615,4.200,4.500
-72341248,2026-10-10 14:00,Mansfield Town,Bromley FC,2,1,1.615,3.800,5.250
-72341250,2026-10-10 14:00,Milton Keynes Dons,Reading FC,1,5,2.800,3.600,2.300
-72341256,2026-10-10 14:00,Stevenage FC,Wigan Athletic,1,0,1.900,3.250,4.200
-72341258,2026-10-10 14:00,Stockport County FC,Barnsley FC,3,1,1.333,5.250,7.500
-72341260,2026-10-10 14:00,Wycombe Wanderers,Luton Town,1,4,2.750,3.400,2.400
-72341270,2026-10-15 19:00,Mansfield Town,Oxford United,1,1,2.300,3.500,2.800
-72341272,2026-10-17 11:30,Milton Keynes Dons,Luton Town,2,1,3.400,3.500,2.000
-72341274,2026-10-17 11:30,Peterborough United,Burton Albion,2,2,1.833,3.800,3.800
-72341262,2026-10-17 14:00,Barnsley FC,Cambridge United,1,2,2.900,3.500,2.250
-72341264,2026-10-17 14:00,Bradford City FC,Stevenage FC,2,0,1.833,3.400,4.333
-72341266,2026-10-17 14:00,Leicester City,Doncaster Rovers,2,1,1.727,4.000,4.000
-72341268,2026-10-17 14:00,Leyton Orient London,Blackpool FC,2,0,2.150,3.500,3.100
-72341276,2026-10-17 14:00,Plymouth Argyle,Huddersfield Town,0,2,2.300,3.600,2.875
-72341278,2026-10-17 14:00,Sheffield Wednesday,AFC Wimbledon,5,0,1.600,3.900,5.000
-72341280,2026-10-17 14:00,Stockport County FC,Bromley FC,1,0,1.270,5.750,9.500
-72341282,2026-10-17 14:00,Wigan Athletic,Reading FC,1,0,4.200,3.750,1.750
-72341284,2026-10-17 14:00,Wycombe Wanderers,Notts County,2,0,1.750,3.600,4.500
-72341286,2026-10-20 18:45,AFC Wimbledon,Mansfield Town,0,3,3.400,3.400,2.050
-72341288,2026-10-20 18:45,Blackpool FC,Milton Keynes Dons,2,0,2.300,3.400,2.900
-72341290,2026-10-20 18:45,Bromley FC,Leicester City,0,4,4.500,4.100,1.666
-72341292,2026-10-20 18:45,Burton Albion,Bradford City FC,0,0,4.500,3.750,1.727
-72341294,2026-10-20 18:45,Cambridge United,Wycombe Wanderers,2,2,2.550,3.200,2.750
-72341296,2026-10-20 18:45,Doncaster Rovers,Stockport County FC,0,2,4.333,4.100,1.666
-72341298,2026-10-20 18:45,Huddersfield Town,Peterborough United,4,1,1.450,4.500,5.750
-72341300,2026-10-20 18:45,Luton Town,Barnsley FC,2,1,1.500,4.333,5.500
-72341302,2026-10-20 18:45,Notts County,Sheffield Wednesday,2,0,3.700,3.400,1.950
-72341304,2026-10-20 18:45,Oxford United,Wigan Athletic,2,1,1.700,3.900,4.333
-72341306,2026-10-20 18:45,Stevenage FC,Plymouth Argyle,3,0,2.700,3.400,2.450
-72341308,2026-10-21 19:00,Reading FC,Leyton Orient London,1,0,1.600,3.800,5.250
-72341322,2026-10-24 11:30,Huddersfield Town,Wigan Athletic,2,1,1.380,4.500,7.500
-72341324,2026-10-24 11:30,Luton Town,Leicester City,2,1,2.150,3.700,3.000
-72341310,2026-10-24 14:00,AFC Wimbledon,Wycombe Wanderers,1,1,3.900,3.750,1.833
-72341312,2026-10-24 14:00,Blackpool FC,Mansfield Town,1,4,2.625,3.400,2.500
-72341314,2026-10-24 14:00,Bromley FC,Peterborough United,1,1,3.400,3.800,1.909
-72341316,2026-10-24 14:00,Burton Albion,Leyton Orient London,2,1,2.875,3.300,2.300
-72341318,2026-10-24 14:00,Cambridge United,Plymouth Argyle,2,3,2.300,3.400,2.875
-72341320,2026-10-24 14:00,Doncaster Rovers,Sheffield Wednesday,2,0,2.450,3.600,2.550
-72341326,2026-10-24 14:00,Notts County,Stockport County FC,1,1,4.200,3.400,1.850
-72341328,2026-10-24 14:00,Oxford United,Bradford City FC,0,0,2.300,3.300,3.000
-72341330,2026-10-24 14:00,Reading FC,Barnsley FC,2,1,1.571,4.200,4.750
-72341332,2026-10-24 14:00,Stevenage FC,Milton Keynes Dons,0,1,2.050,3.400,3.400
-74557818,2026-10-27 19:45,Oxford United,Stockport County FC,1,0,3.500,3.700,1.950
-74838878,2026-10-27 19:45,Leicester City,Wigan Athletic,3,0,1.380,4.500,7.000
-75078276,2026-10-27 19:45,Sheffield Wednesday,Cambridge United,1,1,2.000,3.800,3.500
-75365068,2026-10-27 19:45,Luton Town,Doncaster Rovers,3,1,1.444,4.750,5.750
-75768806,2026-10-27 19:45,Milton Keynes Dons,Bromley FC,4,1,1.480,4.200,6.500
-72341336,2026-10-31 12:30,Bradford City FC,Huddersfield Town,0,3,2.700,3.500,2.550
-72341340,2026-10-31 12:30,Leyton Orient London,Cambridge United,3,0,2.500,3.500,2.700
-72341348,2026-10-31 12:30,Plymouth Argyle,Reading FC,0,0,2.750,3.300,2.500
-72341334,2026-10-31 15:00,Barnsley FC,Oxford United,1,1,2.550,3.600,2.550
-72341338,2026-10-31 15:00,Leicester City,Stevenage FC,2,2,1.550,4.333,5.500
-72341342,2026-10-31 15:00,Mansfield Town,Notts County,0,2,1.909,3.600,3.600
-72341344,2026-10-31 15:00,Milton Keynes Dons,Doncaster Rovers,6,1,2.100,3.500,3.400
-72341346,2026-10-31 15:00,Peterborough United,Luton Town,0,2,3.250,3.750,2.000
-72341352,2026-10-31 15:00,Stockport County FC,AFC Wimbledon,2,1,1.285,5.750,9.000
-72341354,2026-10-31 15:00,Wigan Athletic,Bromley FC,3,2,1.950,3.500,3.700
-72341356,2026-10-31 15:00,Wycombe Wanderers,Burton Albion,2,0,1.500,4.200,5.750
-72341350,2026-11-01 14:00,Sheffield Wednesday,Blackpool FC,1,1,1.833,3.800,3.800
-74821224,2026-11-03 19:45,Huddersfield Town,Luton Town,1,1,1.833,3.600,3.900
-76029384,2026-11-03 19:45,Wigan Athletic,Mansfield Town,0,0,2.700,3.400,2.450
-74353170,2026-11-04 19:45,Oxford United,Reading FC,2,0,2.900,3.250,2.375
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+60600145,2025-05-25 12:00,Charlton Athletic,Leyton Orient London,1,0,,,,,,
+61492439,2025-08-01 19:00,Luton Town,AFC Wimbledon,1,0,,,,,,
+61492445,2025-08-02 11:30,Cardiff City,Peterborough United,2,1,,,,,,
+61492449,2025-08-02 14:00,Blackpool FC,Stevenage FC,2,3,,,,,,
+61492453,2025-08-02 14:00,Bradford City FC,Wycombe Wanderers,2,1,,,,,,
+61492457,2025-08-02 14:00,Burton Albion,Mansfield Town,2,1,,,,,,
+61492461,2025-08-02 14:00,Doncaster Rovers,Exeter City,1,0,,,,,,
+61492465,2025-08-02 14:00,Huddersfield Town,Leyton Orient London,3,0,,,,,,
+61492469,2025-08-02 14:00,Lincoln City,Reading FC,2,0,,,,,,
+61492473,2025-08-02 14:00,Plymouth Argyle,Barnsley FC,1,3,,,,,,
+61492477,2025-08-02 14:00,Rotherham United,Port Vale,2,1,,,,,,
+61492481,2025-08-02 14:00,Wigan Athletic,Northampton Town,3,1,,,,,,
+61492485,2025-08-03 11:00,Stockport County FC,Bolton Wanderers,2,0,,,,,,
+61492521,2025-08-07 19:00,Port Vale,Cardiff City,0,0,,,,,,
+61492517,2025-08-09 11:30,Peterborough United,Luton Town,0,2,,,,,,
+61492523,2025-08-09 11:30,Reading FC,Huddersfield Town,0,2,,,,,,
+61492489,2025-08-09 14:00,AFC Wimbledon,Lincoln City,2,0,,,,,,
+61492493,2025-08-09 14:00,Barnsley FC,Burton Albion,3,2,,,,,,
+61492497,2025-08-09 14:00,Bolton Wanderers,Plymouth Argyle,2,0,,,,,,
+61492501,2025-08-09 14:00,Exeter City,Blackpool FC,4,1,,,,,,
+61492505,2025-08-09 14:00,Leyton Orient London,Wigan Athletic,2,0,,,,,,
+61492509,2025-08-09 14:00,Mansfield Town,Doncaster Rovers,1,2,,,,,,
+61492513,2025-08-09 14:00,Northampton Town,Bradford City FC,0,0,,,,,,
+61492527,2025-08-09 14:00,Stevenage FC,Rotherham United,1,0,,,,,,
+61492531,2025-08-09 14:00,Wycombe Wanderers,Stockport County FC,1,2,,,,,,
+61492547,2025-08-16 11:30,Burton Albion,Port Vale,0,0,,,,,,
+61492559,2025-08-16 11:30,Exeter City,Mansfield Town,1,2,,,,,,
+61492535,2025-08-16 14:00,Barnsley FC,Bolton Wanderers,1,1,,,,,,
+61492539,2025-08-16 14:00,Blackpool FC,Huddersfield Town,3,2,,,,,,
+61492543,2025-08-16 14:00,Bradford City FC,Luton Town,2,1,,,,,,
+61492551,2025-08-16 14:00,Cardiff City,Rotherham United,3,0,,,,,,
+61492555,2025-08-16 14:00,Doncaster Rovers,Wycombe Wanderers,1,1,,,,,,
+61492561,2025-08-16 14:00,Leyton Orient London,Stockport County FC,2,2,,,,,,
+61492565,2025-08-16 14:00,Lincoln City,Plymouth Argyle,3,2,,,,,,
+61492569,2025-08-16 14:00,Reading FC,AFC Wimbledon,1,2,,,,,,
+61492573,2025-08-16 14:00,Stevenage FC,Northampton Town,2,0,,,,,,
+61492577,2025-08-16 14:00,Wigan Athletic,Peterborough United,2,0,,,,,,
+61492581,2025-08-19 18:45,AFC Wimbledon,Cardiff City,0,1,,,,,,
+61492587,2025-08-19 18:45,Huddersfield Town,Doncaster Rovers,2,0,,,,,,
+61492591,2025-08-19 18:45,Luton Town,Wigan Athletic,1,0,,,,,,
+61492595,2025-08-19 18:45,Mansfield Town,Blackpool FC,2,0,,,,,,
+61492599,2025-08-19 18:45,Northampton Town,Lincoln City,0,1,,,,,,
+61492603,2025-08-19 18:45,Peterborough United,Barnsley FC,0,1,,,,,,
+61492607,2025-08-19 18:45,Plymouth Argyle,Leyton Orient London,0,1,,,,,,
+61492611,2025-08-19 18:45,Port Vale,Stevenage FC,1,2,,,,,,
+61492619,2025-08-19 18:45,Stockport County FC,Bradford City FC,1,2,,,,,,
+61492621,2025-08-19 18:45,Wycombe Wanderers,Exeter City,0,1,,,,,,
+61492583,2025-08-20 19:00,Bolton Wanderers,Reading FC,1,1,,,,,,
+61492637,2025-08-23 11:30,Luton Town,Cardiff City,0,1,,,,,,
+61492659,2025-08-23 11:30,Rotherham United,Wigan Athletic,2,2,,,,,,
+61492625,2025-08-23 14:00,AFC Wimbledon,Barnsley FC,2,0,,,,,,
+61492629,2025-08-23 14:00,Bolton Wanderers,Lincoln City,1,1,,,,,,
+61492633,2025-08-23 14:00,Huddersfield Town,Stevenage FC,1,0,,,,,,
+61492641,2025-08-23 14:00,Mansfield Town,Leyton Orient London,4,1,,,,,,
+61492645,2025-08-23 14:00,Northampton Town,Exeter City,2,0,,,,,,
+61492649,2025-08-23 14:00,Peterborough United,Bradford City FC,1,1,,,,,,
+61492653,2025-08-23 14:00,Plymouth Argyle,Blackpool FC,1,0,,,,,,
+61492657,2025-08-23 14:00,Port Vale,Doncaster Rovers,0,1,,,,,,
+61492663,2025-08-23 14:00,Stockport County FC,Burton Albion,2,1,,,,,,
+61492667,2025-08-23 14:00,Wycombe Wanderers,Reading FC,2,2,,,,,,
+61492687,2025-08-30 11:30,Cardiff City,Plymouth Argyle,4,0,,,,,,
+61492691,2025-08-30 11:30,Doncaster Rovers,Rotherham United,1,0,,,,,,
+61492671,2025-08-30 14:00,Barnsley FC,Huddersfield Town,3,1,,,,,,
+61492675,2025-08-30 14:00,Blackpool FC,Bolton Wanderers,1,1,,,,,,
+61492679,2025-08-30 14:00,Bradford City FC,AFC Wimbledon,3,2,,,,,,
+61492683,2025-08-30 14:00,Burton Albion,Luton Town,0,3,,,,,,
+61492695,2025-08-30 14:00,Exeter City,Peterborough United,3,0,,,,,,
+61492699,2025-08-30 14:00,Leyton Orient London,Northampton Town,0,1,,,,,,
+61492707,2025-08-30 14:00,Reading FC,Port Vale,1,0,,,,,,
+61492711,2025-08-30 14:00,Stevenage FC,Wycombe Wanderers,1,0,,,,,,
+61492713,2025-08-30 14:00,Wigan Athletic,Stockport County FC,1,1,,,,,,
+61492703,2025-08-30 14:15,Lincoln City,Mansfield Town,1,1,,,,,,
+61492721,2025-09-06 14:00,Bolton Wanderers,AFC Wimbledon,3,0,,,,,,
+61492729,2025-09-06 14:00,Doncaster Rovers,Bradford City FC,3,1,,,,,,
+61492733,2025-09-06 14:00,Huddersfield Town,Peterborough United,3,2,,,,,,
+61492737,2025-09-06 14:00,Lincoln City,Wigan Athletic,2,2,,,,,,
+61492741,2025-09-06 14:00,Plymouth Argyle,Stockport County FC,4,2,,,,,,
+61492743,2025-09-06 14:00,Port Vale,Leyton Orient London,2,3,,,,,,
+61492751,2025-09-06 14:00,Rotherham United,Exeter City,1,0,,,,,,
+61492759,2025-09-06 14:00,Wycombe Wanderers,Mansfield Town,2,0,,,,,,
+61492771,2025-09-13 11:30,Bradford City FC,Huddersfield Town,3,1,,,,,,
+61492793,2025-09-13 11:30,Northampton Town,Blackpool FC,1,0,,,,,,
+61492763,2025-09-13 14:00,AFC Wimbledon,Rotherham United,2,1,,,,,,
+61492767,2025-09-13 14:00,Barnsley FC,Reading FC,3,2,,,,,,
+61492775,2025-09-13 14:00,Burton Albion,Lincoln City,0,1,,,,,,
+61492779,2025-09-13 14:00,Exeter City,Port Vale,0,2,,,,,,
+61492783,2025-09-13 14:00,Leyton Orient London,Bolton Wanderers,1,1,,,,,,
+61492785,2025-09-13 14:00,Luton Town,Plymouth Argyle,2,3,,,,,,
+61492789,2025-09-13 14:00,Mansfield Town,Stevenage FC,1,1,,,,,,
+61492797,2025-09-13 14:00,Peterborough United,Wycombe Wanderers,2,1,,,,,,
+61492801,2025-09-13 14:00,Stockport County FC,Cardiff City,1,1,,,,,,
+61492805,2025-09-13 14:00,Wigan Athletic,Doncaster Rovers,3,0,,,,,,
+61492809,2025-09-20 11:30,Blackpool FC,Barnsley FC,1,0,,,,,,
+61492813,2025-09-20 11:30,Bolton Wanderers,Wigan Athletic,4,1,,,,,,
+61492827,2025-09-20 11:30,Lincoln City,Luton Town,3,1,,,,,,
+61492817,2025-09-20 14:00,Cardiff City,Bradford City FC,1,3,,,,,,
+61492821,2025-09-20 14:00,Doncaster Rovers,AFC Wimbledon,1,2,,,,,,
+61492825,2025-09-20 14:00,Huddersfield Town,Burton Albion,0,0,,,,,,
+61492831,2025-09-20 14:00,Plymouth Argyle,Peterborough United,0,1,,,,,,
+61492835,2025-09-20 14:00,Port Vale,Mansfield Town,2,1,,,,,,
+61492839,2025-09-20 14:00,Reading FC,Leyton Orient London,2,1,,,,,,
+61492843,2025-09-20 14:00,Rotherham United,Stockport County FC,0,1,,,,,,
+61492847,2025-09-20 14:00,Stevenage FC,Exeter City,2,1,,,,,,
+61492851,2025-09-20 14:00,Wycombe Wanderers,Northampton Town,2,0,,,,,,
+61492855,2025-09-27 11:30,AFC Wimbledon,Wycombe Wanderers,2,1,,,,,,
+61492873,2025-09-27 11:30,Leyton Orient London,Stevenage FC,2,3,,,,,,
+61492859,2025-09-27 14:00,Barnsley FC,Port Vale,0,2,,,,,,
+61492863,2025-09-27 14:00,Bradford City FC,Blackpool FC,1,0,,,,,,
+61492865,2025-09-27 14:00,Burton Albion,Plymouth Argyle,0,4,,,,,,
+61492869,2025-09-27 14:00,Exeter City,Huddersfield Town,0,1,,,,,,
+61492877,2025-09-27 14:00,Luton Town,Doncaster Rovers,1,0,,,,,,
+61492881,2025-09-27 14:00,Mansfield Town,Rotherham United,2,1,,,,,,
+61492885,2025-09-27 14:00,Northampton Town,Bolton Wanderers,2,0,,,,,,
+61492889,2025-09-27 14:00,Peterborough United,Lincoln City,0,3,,,,,,
+61492893,2025-09-27 14:00,Stockport County FC,Reading FC,1,1,,,,,,
+61492897,2025-09-27 14:00,Wigan Athletic,Cardiff City,0,2,,,,,,
+63572779,2025-09-30 18:45,Blackpool FC,Luton Town,2,2,,,,,,
+63575827,2025-09-30 18:45,Cardiff City,Burton Albion,0,1,,,,,,
+61492935,2025-10-02 19:00,Rotherham United,Bradford City FC,2,2,,,,,,
+61492911,2025-10-04 11:30,Doncaster Rovers,Burton Albion,1,1,,,,,,
+61492941,2025-10-04 11:30,Wycombe Wanderers,Barnsley FC,2,2,,,,,,
+61492901,2025-10-04 14:00,Blackpool FC,AFC Wimbledon,0,2,,,,,,
+61492903,2025-10-04 14:00,Bolton Wanderers,Peterborough United,2,1,,,,,,
+61492907,2025-10-04 14:00,Cardiff City,Leyton Orient London,4,3,,,,,,
+61492915,2025-10-04 14:00,Huddersfield Town,Stockport County FC,1,2,,,,,,
+61492919,2025-10-04 14:00,Lincoln City,Exeter City,0,1,,,,,,
+61492923,2025-10-04 14:00,Plymouth Argyle,Wigan Athletic,1,1,,,,,,
+61492927,2025-10-04 14:00,Port Vale,Northampton Town,0,0,,,,,,
+61492931,2025-10-04 14:00,Reading FC,Mansfield Town,1,1,,,,,,
+61492939,2025-10-04 14:00,Stevenage FC,Luton Town,2,0,,,,,,
+61492977,2025-10-11 13:00,Northampton Town,Rotherham United,1,2,,,,,,
+61492945,2025-10-11 14:00,AFC Wimbledon,Port Vale,1,1,,,,,,
+61492957,2025-10-11 14:00,Burton Albion,Bolton Wanderers,3,0,,,,,,
+61492961,2025-10-11 14:00,Exeter City,Reading FC,1,1,,,,,,
+61492965,2025-10-11 14:00,Leyton Orient London,Doncaster Rovers,4,0,,,,,,
+61492985,2025-10-11 14:00,Stockport County FC,Blackpool FC,1,0,,,,,,
+61492989,2025-10-11 14:00,Wigan Athletic,Wycombe Wanderers,0,1,,,,,,
+61493011,2025-10-16 19:00,Huddersfield Town,Bolton Wanderers,1,2,,,,,,
+61492999,2025-10-18 11:30,Burton Albion,Peterborough United,0,1,,,,,,
+61493015,2025-10-18 11:30,Lincoln City,Stevenage FC,1,0,,,,,,
+61492991,2025-10-18 14:00,Blackpool FC,Wycombe Wanderers,1,1,,,,,,
+61492995,2025-10-18 14:00,Bradford City FC,Barnsley FC,2,2,,,,,,
+61493003,2025-10-18 14:00,Cardiff City,Reading FC,2,1,,,,,,
+61493007,2025-10-18 14:00,Doncaster Rovers,Northampton Town,1,2,,,,,,
+61493019,2025-10-18 14:00,Luton Town,Mansfield Town,0,2,,,,,,
+61493023,2025-10-18 14:00,Plymouth Argyle,AFC Wimbledon,1,2,,,,,,
+61493027,2025-10-18 14:00,Rotherham United,Leyton Orient London,1,0,,,,,,
+61493031,2025-10-18 14:00,Stockport County FC,Exeter City,1,0,,,,,,
+61493033,2025-10-18 14:00,Wigan Athletic,Port Vale,1,0,,,,,,
+63808047,2025-10-21 19:00,Reading FC,Northampton Town,1,0,,,,,,
+61493041,2025-10-23 19:00,Exeter City,Plymouth Argyle,2,0,,,,,,
+61493039,2025-10-25 11:30,Bolton Wanderers,Cardiff City,1,0,,,,,,
+61493045,2025-10-25 11:30,Mansfield Town,Wigan Athletic,1,1,,,,,,
+61493035,2025-10-25 14:00,AFC Wimbledon,Burton Albion,0,1,,,,,,
+61493037,2025-10-25 14:00,Barnsley FC,Rotherham United,0,1,,,,,,
+61493043,2025-10-25 14:00,Leyton Orient London,Lincoln City,1,0,,,,,,
+61493047,2025-10-25 14:00,Northampton Town,Luton Town,0,1,,,,,,
+61493049,2025-10-25 14:00,Peterborough United,Blackpool FC,1,2,,,,,,
+61493053,2025-10-25 14:00,Reading FC,Doncaster Rovers,1,1,,,,,,
+61493055,2025-10-25 14:00,Stevenage FC,Bradford City FC,1,1,,,,,,
+61493057,2025-10-25 14:00,Wycombe Wanderers,Huddersfield Town,3,0,,,,,,
+62819167,2025-10-27 20:00,Port Vale,Stockport County FC,0,3,,,,,,
+64504661,2025-10-28 19:45,Bradford City FC,Lincoln City,0,0,,,,,,
+64504667,2025-10-28 19:45,Mansfield Town,Plymouth Argyle,2,0,,,,,,
+63572789,2025-11-04 19:45,Rotherham United,Burton Albion,2,2,,,,,,
+61493075,2025-11-06 20:00,Reading FC,Stevenage FC,1,0,,,,,,
+61493071,2025-11-08 12:30,Northampton Town,Mansfield Town,2,1,,,,,,
+61493081,2025-11-08 12:30,Wycombe Wanderers,Leyton Orient London,4,1,,,,,,
+61493059,2025-11-08 15:00,Blackpool FC,Cardiff City,3,1,,,,,,
+61493061,2025-11-08 15:00,Bolton Wanderers,Port Vale,4,0,,,,,,
+61493063,2025-11-08 15:00,Bradford City FC,Burton Albion,1,2,,,,,,
+61493065,2025-11-08 15:00,Doncaster Rovers,Barnsley FC,1,2,,,,,,
+61493067,2025-11-08 15:00,Exeter City,Wigan Athletic,1,1,,,,,,
+61493069,2025-11-08 15:00,Huddersfield Town,Plymouth Argyle,3,1,,,,,,
+61493073,2025-11-08 15:00,Peterborough United,AFC Wimbledon,5,0,,,,,,
+61493077,2025-11-08 15:00,Rotherham United,Lincoln City,3,0,,,,,,
+61493079,2025-11-08 15:00,Stockport County FC,Luton Town,0,3,,,,,,
+61493087,2025-11-15 15:00,Burton Albion,Blackpool FC,1,0,,,,,,
+61493091,2025-11-15 15:00,Leyton Orient London,Exeter City,2,1,,,,,,
+61493093,2025-11-15 15:00,Lincoln City,Doncaster Rovers,2,1,,,,,,
+61493095,2025-11-15 15:00,Luton Town,Rotherham United,0,0,,,,,,
+61493101,2025-11-15 15:00,Port Vale,Wycombe Wanderers,0,0,,,,,,
+61493121,2025-11-20 20:00,Peterborough United,Stockport County FC,3,0,,,,,,
+61493123,2025-11-22 12:30,Port Vale,Plymouth Argyle,0,1,,,,,,
+61493107,2025-11-22 15:00,AFC Wimbledon,Wigan Athletic,1,2,,,,,,
+61493109,2025-11-22 15:00,Barnsley FC,Luton Town,5,0,,,,,,
+61493111,2025-11-22 15:00,Bolton Wanderers,Bradford City FC,0,0,,,,,,
+61493115,2025-11-22 15:00,Leyton Orient London,Blackpool FC,1,1,,,,,,
+61493117,2025-11-22 15:00,Mansfield Town,Huddersfield Town,1,3,,,,,,
+61493119,2025-11-22 15:00,Northampton Town,Cardiff City,1,3,,,,,,
+61493125,2025-11-22 15:00,Reading FC,Rotherham United,1,1,,,,,,
+61493127,2025-11-22 15:00,Stevenage FC,Doncaster Rovers,0,0,,,,,,
+61493129,2025-11-22 15:00,Wycombe Wanderers,Lincoln City,3,2,,,,,,
+64619584,2025-11-25 19:45,Peterborough United,Stevenage FC,0,1,,,,,,
+64882502,2025-11-25 19:45,Luton Town,Huddersfield Town,2,1,,,,,,
+61493131,2025-11-29 12:30,Blackpool FC,Reading FC,0,3,,,,,,
+61493151,2025-11-29 12:30,Stockport County FC,Barnsley FC,1,1,,,,,,
+61493133,2025-11-29 15:00,Bradford City FC,Exeter City,1,0,,,,,,
+61493135,2025-11-29 15:00,Burton Albion,Leyton Orient London,0,4,,,,,,
+61493137,2025-11-29 15:00,Cardiff City,Mansfield Town,3,0,,,,,,
+61493139,2025-11-29 15:00,Doncaster Rovers,Peterborough United,2,1,,,,,,
+61493141,2025-11-29 15:00,Huddersfield Town,AFC Wimbledon,3,3,,,,,,
+61493143,2025-11-29 15:00,Lincoln City,Port Vale,1,0,,,,,,
+61493145,2025-11-29 15:00,Luton Town,Bolton Wanderers,1,1,,,,,,
+61493147,2025-11-29 15:00,Plymouth Argyle,Northampton Town,0,3,,,,,,
+61493149,2025-11-29 15:00,Rotherham United,Wycombe Wanderers,1,1,,,,,,
+61493153,2025-11-29 15:00,Wigan Athletic,Stevenage FC,0,0,,,,,,
+61493173,2025-12-02 19:45,Wigan Athletic,Burton Albion,1,0,,,,,,
+65414126,2025-12-06 12:30,Cardiff City,Huddersfield Town,3,2,,,,,,
+65417484,2025-12-06 12:30,Plymouth Argyle,Bradford City FC,0,1,,,,,,
+61493155,2025-12-09 19:45,Doncaster Rovers,Stockport County FC,0,2,2.550,3.250,2.700,2.5,1.875,1.975
+61493157,2025-12-09 19:45,Exeter City,AFC Wimbledon,1,0,2.000,3.300,3.600,2.25,1.975,1.875
+61493159,2025-12-09 19:45,Leyton Orient London,Luton Town,1,1,2.800,3.200,2.450,2.5,2.050,1.800
+61493161,2025-12-09 19:45,Lincoln City,Barnsley FC,3,1,2.000,3.500,3.400,2.75,2.025,1.825
+61493163,2025-12-09 19:45,Mansfield Town,Bolton Wanderers,0,1,4.100,3.600,1.800,2.75,1.975,1.875
+61493165,2025-12-09 19:45,Northampton Town,Huddersfield Town,1,1,3.100,3.200,2.300,2.25,1.950,1.900
+61493171,2025-12-09 19:45,Stevenage FC,Cardiff City,0,1,3.000,3.200,2.350,2.25,1.975,1.875
+61493175,2025-12-09 19:45,Wycombe Wanderers,Plymouth Argyle,0,1,1.666,3.700,4.750,2.5,1.850,2.000
+61493177,2025-12-09 20:00,Reading FC,Peterborough United,1,2,2.200,3.300,3.200,2.5,1.875,1.975
+61493169,2025-12-10 19:45,Rotherham United,Blackpool FC,0,3,2.700,3.100,2.700,2.25,1.825,2.025
+61493179,2025-12-13 12:30,AFC Wimbledon,Mansfield Town,0,0,2.375,3.300,2.875,2.25,1.925,1.925
+61493193,2025-12-13 12:30,Huddersfield Town,Wigan Athletic,1,1,2.000,3.500,3.400,2.25,1.825,2.025
+61493181,2025-12-13 15:00,Barnsley FC,Leyton Orient London,3,2,2.000,3.600,3.400,2.75,2.025,1.825
+61493183,2025-12-13 15:00,Blackpool FC,Lincoln City,2,2,2.900,3.300,2.350,2.25,1.825,2.025
+61493185,2025-12-13 15:00,Bolton Wanderers,Exeter City,2,1,1.420,4.500,7.000,2.75,2.025,1.825
+61493187,2025-12-13 15:00,Bradford City FC,Reading FC,2,0,2.150,3.300,3.200,2.5,1.825,2.025
+61493189,2025-12-13 15:00,Burton Albion,Wycombe Wanderers,0,0,3.700,3.400,1.950,2.5,2.000,1.850
+61493191,2025-12-13 15:00,Cardiff City,Doncaster Rovers,4,3,1.700,4.000,4.333,2.75,1.825,2.025
+61493195,2025-12-13 15:00,Luton Town,Port Vale,2,2,1.666,3.600,5.000,2.25,1.875,1.975
+61493197,2025-12-13 15:00,Peterborough United,Northampton Town,2,1,1.909,3.400,3.800,2.25,1.900,1.950
+61493199,2025-12-13 15:00,Plymouth Argyle,Rotherham United,1,0,2.100,3.250,3.400,2.25,2.025,1.825
+61493201,2025-12-13 15:00,Stockport County FC,Stevenage FC,1,3,1.750,3.300,5.000,2,1.825,2.025
+61493217,2025-12-18 20:00,Reading FC,Luton Town,3,2,2.550,3.100,2.800,2.25,2.000,1.850
+61493213,2025-12-19 19:45,Northampton Town,AFC Wimbledon,3,1,2.200,3.100,3.400,2,1.850,2.000
+61493221,2025-12-20 12:30,Stevenage FC,Burton Albion,2,2,2.150,3.000,3.600,2,1.875,1.975
+61493223,2025-12-20 12:30,Wigan Athletic,Blackpool FC,0,2,2.250,3.100,3.300,2.25,1.950,1.900
+61493203,2025-12-20 15:00,Doncaster Rovers,Plymouth Argyle,1,5,1.833,3.700,4.000,2.5,1.850,2.000
+61493205,2025-12-20 15:00,Exeter City,Barnsley FC,3,0,2.900,3.400,2.350,2.5,1.875,1.975
+61493207,2025-12-20 15:00,Leyton Orient London,Bradford City FC,2,1,2.800,3.400,2.400,2.5,1.850,2.000
+61493209,2025-12-20 15:00,Lincoln City,Cardiff City,2,1,2.200,3.500,3.000,2.5,1.825,2.025
+61493211,2025-12-20 15:00,Mansfield Town,Stockport County FC,1,2,3.250,3.400,2.100,2.75,1.975,1.875
+61493215,2025-12-20 15:00,Port Vale,Peterborough United,0,1,2.300,3.400,2.900,2.5,1.825,2.025
+61493219,2025-12-20 15:00,Rotherham United,Huddersfield Town,1,3,3.400,3.100,2.150,2.25,1.950,1.900
+61493225,2025-12-20 15:00,Wycombe Wanderers,Bolton Wanderers,2,1,2.625,3.250,2.600,2.5,2.000,1.850
+61493227,2025-12-26 15:00,AFC Wimbledon,Stevenage FC,0,0,3.000,2.800,2.625,1.75,1.800,2.050
+61493229,2025-12-26 15:00,Barnsley FC,Mansfield Town,2,3,2.000,3.700,3.500,2.75,1.950,1.900
+61493231,2025-12-26 15:00,Blackpool FC,Doncaster Rovers,1,0,2.375,3.400,2.800,2.5,1.950,1.900
+61493233,2025-12-26 15:00,Bolton Wanderers,Rotherham United,2,1,1.380,4.200,8.500,2.25,1.825,2.025
+61493235,2025-12-26 15:00,Bradford City FC,Wigan Athletic,2,1,2.300,3.200,3.000,2.25,2.050,1.800
+61493237,2025-12-26 15:00,Burton Albion,Northampton Town,5,1,2.250,3.200,3.200,2.25,1.850,2.000
+61493239,2025-12-26 15:00,Cardiff City,Exeter City,1,0,1.550,4.000,5.500,2.75,1.850,2.000
+61493241,2025-12-26 15:00,Huddersfield Town,Port Vale,5,0,1.700,3.700,4.750,2.5,1.925,1.925
+61493243,2025-12-26 15:00,Luton Town,Wycombe Wanderers,4,0,2.300,3.200,3.300,2.25,1.775,2.100
+61493245,2025-12-26 15:00,Peterborough United,Leyton Orient London,1,0,2.050,3.600,3.300,2.75,1.900,1.950
+61493247,2025-12-26 15:00,Plymouth Argyle,Reading FC,1,4,2.550,3.400,2.500,2.5,2.000,1.850
+61493249,2025-12-26 15:00,Stockport County FC,Lincoln City,1,2,2.250,3.250,3.100,2.25,1.850,2.000
+61493251,2025-12-29 19:45,AFC Wimbledon,Exeter City,0,1,2.450,3.100,2.900,2,1.875,1.975
+61493253,2025-12-29 19:45,Barnsley FC,Lincoln City,0,2,2.625,3.200,2.625,2.5,1.825,2.025
+61493255,2025-12-29 19:45,Blackpool FC,Rotherham United,4,0,1.850,3.400,4.000,2.25,1.800,2.050
+61493257,2025-12-29 19:45,Bolton Wanderers,Mansfield Town,0,1,1.400,4.500,7.500,2.75,2.025,1.825
+61493259,2025-12-29 19:45,Bradford City FC,Port Vale,1,0,1.700,3.700,4.750,2.5,2.025,1.825
+61493261,2025-12-29 19:45,Burton Albion,Wigan Athletic,0,2,2.500,3.250,2.750,2.25,1.925,1.925
+61493263,2025-12-29 19:45,Cardiff City,Stevenage FC,2,1,1.750,3.500,4.333,2.5,1.975,1.875
+61493265,2025-12-29 19:45,Huddersfield Town,Northampton Town,2,0,1.533,3.750,6.500,2.5,2.025,1.825
+61493267,2025-12-29 19:45,Luton Town,Leyton Orient London,3,0,1.615,3.600,5.500,2.5,2.000,1.850
+61493269,2025-12-29 19:45,Peterborough United,Reading FC,1,1,2.250,3.250,3.100,2.5,2.000,1.850
+61493271,2025-12-29 19:45,Plymouth Argyle,Wycombe Wanderers,1,1,2.800,3.250,2.450,2.5,2.000,1.850
+61493273,2025-12-29 19:45,Stockport County FC,Doncaster Rovers,4,2,1.800,3.400,3.700,2.75,2.000,1.850
+61493275,2026-01-01 15:00,Doncaster Rovers,Bolton Wanderers,1,1,3.800,3.600,1.850,2.75,1.875,1.975
+61493277,2026-01-01 15:00,Exeter City,Luton Town,1,0,3.100,3.400,2.200,2.25,2.025,1.825
+61493279,2026-01-01 15:00,Leyton Orient London,AFC Wimbledon,1,3,2.100,3.200,3.400,2.25,1.875,1.975
+61493281,2026-01-01 15:00,Lincoln City,Huddersfield Town,1,1,2.500,3.100,2.800,2.25,1.825,2.025
+61493283,2026-01-01 15:00,Mansfield Town,Bradford City FC,3,0,2.600,3.100,2.750,2.25,1.850,2.000
+61493285,2026-01-01 15:00,Northampton Town,Stockport County FC,0,0,3.900,3.400,1.909,2.25,1.850,2.000
+61493287,2026-01-01 15:00,Port Vale,Blackpool FC,5,1,2.625,3.000,2.750,2.25,1.975,1.875
+61493289,2026-01-01 15:00,Reading FC,Burton Albion,2,0,1.850,3.400,4.200,2.5,2.000,1.850
+61493291,2026-01-01 15:00,Rotherham United,Peterborough United,0,2,3.000,3.200,2.300,2.25,2.050,1.800
+61493293,2026-01-01 15:00,Stevenage FC,Plymouth Argyle,1,1,2.000,3.300,3.700,2.25,1.975,1.875
+61493295,2026-01-01 15:00,Wigan Athletic,Barnsley FC,1,1,2.300,3.200,3.000,2.25,1.800,2.050
+61493297,2026-01-01 15:00,Wycombe Wanderers,Cardiff City,1,1,2.800,3.250,2.450,2.5,1.825,2.025
+61493301,2026-01-04 12:00,Bolton Wanderers,Northampton Town,0,0,1.400,4.200,8.500,2.5,1.875,1.975
+61493309,2026-01-04 12:00,Lincoln City,Peterborough United,5,2,2.200,3.400,3.100,2.5,1.900,1.950
+61493299,2026-01-04 15:00,Blackpool FC,Bradford City FC,1,2,2.500,3.250,2.750,2.5,1.900,1.950
+61493303,2026-01-04 15:00,Cardiff City,Wigan Athletic,1,0,1.600,3.900,5.500,2.5,1.900,1.950
+61493307,2026-01-04 15:00,Huddersfield Town,Exeter City,2,2,1.600,3.600,6.250,2.25,2.025,1.825
+61493311,2026-01-04 15:00,Plymouth Argyle,Burton Albion,3,0,1.727,3.500,4.750,2.5,2.000,1.850
+61493315,2026-01-04 15:00,Reading FC,Stockport County FC,1,0,2.500,3.300,2.700,2.5,1.975,1.875
+61493321,2026-01-04 15:00,Wycombe Wanderers,AFC Wimbledon,2,0,1.800,3.250,4.750,2.25,1.975,1.875
+61493335,2026-01-10 12:30,Luton Town,Stevenage FC,2,1,1.900,3.100,4.333,2,1.875,1.975
+61493343,2026-01-10 12:30,Stockport County FC,Huddersfield Town,1,0,2.150,3.300,3.200,2.5,1.900,1.950
+61493333,2026-01-10 15:00,Leyton Orient London,Cardiff City,1,1,3.900,3.800,1.800,2.75,1.900,1.950
+61493341,2026-01-10 15:00,Peterborough United,Bolton Wanderers,3,1,3.000,3.750,2.150,2.75,1.975,1.875
+61493351,2026-01-17 12:30,Bradford City FC,Cardiff City,1,2,2.875,3.500,2.250,2.5,1.875,1.975
+61493369,2026-01-17 12:30,Wigan Athletic,Bolton Wanderers,0,1,3.300,3.300,2.150,2.25,1.850,2.000
+61493347,2026-01-17 15:00,AFC Wimbledon,Doncaster Rovers,0,1,2.625,3.300,2.550,2.5,2.000,1.850
+61493349,2026-01-17 15:00,Barnsley FC,Blackpool FC,2,1,2.100,3.400,3.300,2.75,1.975,1.875
+61493353,2026-01-17 15:00,Burton Albion,Huddersfield Town,3,1,3.900,3.300,1.950,2.5,1.800,2.050
+61493355,2026-01-17 15:00,Exeter City,Stevenage FC,3,0,2.450,3.000,3.000,2,1.900,1.950
+61493357,2026-01-17 15:00,Leyton Orient London,Reading FC,3,1,2.550,3.500,2.550,2.5,1.825,2.025
+61493359,2026-01-17 15:00,Luton Town,Lincoln City,2,2,2.300,2.900,3.000,2,2.050,1.800
+61493361,2026-01-17 15:00,Mansfield Town,Port Vale,3,0,2.150,3.500,3.100,2.5,1.950,1.900
+61493363,2026-01-17 15:00,Northampton Town,Wycombe Wanderers,1,2,3.500,3.400,2.000,2.25,1.875,1.975
+61493365,2026-01-17 15:00,Peterborough United,Plymouth Argyle,0,1,1.900,3.700,3.600,2.75,1.975,1.875
+61493367,2026-01-17 15:00,Stockport County FC,Rotherham United,3,2,1.500,4.100,6.000,2.5,1.850,2.000
+65865110,2026-01-20 19:45,Stevenage FC,Bolton Wanderers,0,0,3.600,3.300,2.000,2.25,2.000,1.850
+61493381,2026-01-22 20:00,Lincoln City,Burton Albion,2,1,1.550,3.900,6.000,2.25,1.850,2.000
+61493375,2026-01-24 12:30,Cardiff City,Stockport County FC,1,1,2.100,3.600,3.200,2.75,1.950,1.900
+61493379,2026-01-24 12:30,Huddersfield Town,Bradford City FC,1,0,2.100,3.100,3.600,2,1.800,2.050
+61493383,2026-01-24 12:30,Plymouth Argyle,Luton Town,1,0,2.450,3.400,2.750,2.25,2.000,1.850
+61493371,2026-01-24 15:00,Blackpool FC,Northampton Town,2,0,1.950,3.400,3.800,2.25,1.850,2.000
+61493373,2026-01-24 15:00,Bolton Wanderers,Leyton Orient London,2,1,1.571,4.100,5.250,2.75,1.825,2.025
+61493377,2026-01-24 15:00,Doncaster Rovers,Wigan Athletic,3,3,2.200,3.300,3.400,2.25,1.900,1.950
+61493385,2026-01-24 15:00,Port Vale,Exeter City,1,3,2.375,3.300,3.000,2.25,1.975,1.875
+61493387,2026-01-24 15:00,Reading FC,Barnsley FC,2,2,2.200,3.600,3.000,2.75,1.975,1.875
+61493389,2026-01-24 15:00,Rotherham United,AFC Wimbledon,1,1,2.375,3.100,3.100,2,1.775,2.100
+61493391,2026-01-24 15:00,Stevenage FC,Mansfield Town,1,1,2.200,3.100,3.400,2,1.800,2.050
+61493393,2026-01-24 15:00,Wycombe Wanderers,Peterborough United,0,2,1.909,3.600,3.700,2.5,1.900,1.950
+61493395,2026-01-27 19:45,Blackpool FC,Stockport County FC,1,2,3.700,3.400,2.000,2.5,1.975,1.875
+61493397,2026-01-27 19:45,Bolton Wanderers,Burton Albion,2,1,1.480,3.800,6.500,2.5,1.925,1.925
+61493399,2026-01-27 19:45,Cardiff City,Barnsley FC,4,0,1.615,3.800,5.000,2.75,1.875,1.975
+61493403,2026-01-27 19:45,Huddersfield Town,Luton Town,1,0,2.000,3.300,3.600,2.25,1.875,1.975
+61493405,2026-01-27 19:45,Lincoln City,Bradford City FC,3,0,1.900,3.400,4.000,2.25,1.850,2.000
+61493407,2026-01-27 19:45,Plymouth Argyle,Mansfield Town,1,1,2.050,3.600,3.250,2.75,1.950,1.900
+61493411,2026-01-27 19:45,Rotherham United,Northampton Town,2,1,2.050,3.100,3.750,2.25,2.050,1.800
+61493413,2026-01-27 19:45,Stevenage FC,Peterborough United,1,0,1.850,3.500,3.900,2.25,1.975,1.875
+61493415,2026-01-27 19:45,Wycombe Wanderers,Wigan Athletic,2,0,1.909,3.500,3.800,2,1.950,1.900
+61493401,2026-01-27 20:00,Doncaster Rovers,Leyton Orient London,3,0,1.950,3.600,3.500,2.75,1.950,1.900
+61493417,2026-01-27 20:00,Reading FC,Exeter City,2,2,2.100,3.300,3.500,2.5,1.975,1.875
+61493419,2026-01-31 12:30,AFC Wimbledon,Bolton Wanderers,0,1,3.900,3.500,1.900,2.25,1.850,2.000
+61493423,2026-01-31 12:30,Bradford City FC,Doncaster Rovers,1,0,2.550,3.200,2.750,2.5,2.050,1.800
+61493435,2026-01-31 14:00,Northampton Town,Reading FC,0,2,2.900,3.300,2.350,2.25,1.925,1.925
+61493421,2026-01-31 15:00,Barnsley FC,Stevenage FC,3,1,2.500,3.250,2.750,2.25,1.875,1.975
+61493425,2026-01-31 15:00,Burton Albion,Cardiff City,2,2,4.100,3.600,1.800,2.5,1.875,1.975
+61493427,2026-01-31 15:00,Exeter City,Rotherham United,0,4,2.050,3.400,3.500,2.25,1.900,1.950
+61493429,2026-01-31 15:00,Leyton Orient London,Port Vale,0,1,2.100,3.250,3.500,2.5,2.025,1.825
+61493431,2026-01-31 15:00,Luton Town,Blackpool FC,1,0,1.666,3.700,5.000,2.5,1.925,1.925
+61493433,2026-01-31 15:00,Mansfield Town,Wycombe Wanderers,0,0,2.875,3.100,2.450,2.25,1.825,2.025
+61493437,2026-01-31 15:00,Peterborough United,Huddersfield Town,2,3,2.900,3.500,2.250,2.5,2.025,1.825
+61493439,2026-01-31 15:00,Stockport County FC,Plymouth Argyle,2,1,1.700,3.700,4.750,2.5,1.825,2.025
+61493441,2026-01-31 15:00,Wigan Athletic,Lincoln City,0,1,3.300,3.200,2.200,2.25,2.025,1.825
+68314220,2026-02-03 19:00,Port Vale,AFC Wimbledon,0,1,2.250,3.000,3.300,2,1.925,1.925
+66909370,2026-02-03 19:45,Barnsley FC,Northampton Town,2,2,1.700,3.700,4.333,2.5,1.875,1.975
+68304340,2026-02-03 19:45,Burton Albion,Doncaster Rovers,1,2,3.000,3.250,2.350,2.5,1.975,1.875
+61493449,2026-02-07 12:30,Luton Town,Bradford City FC,2,1,,,,,,
+61493459,2026-02-07 12:30,Port Vale,Burton Albion,2,2,,,,,,
+61493443,2026-02-07 15:00,AFC Wimbledon,Reading FC,3,2,,,,,,
+61493445,2026-02-07 15:00,Bolton Wanderers,Barnsley FC,3,2,,,,,,
+61493447,2026-02-07 15:00,Huddersfield Town,Blackpool FC,2,2,,,,,,
+61493451,2026-02-07 15:00,Mansfield Town,Exeter City,0,0,,,,,,
+61493453,2026-02-07 15:00,Northampton Town,Stevenage FC,3,1,,,,,,
+61493455,2026-02-07 15:00,Peterborough United,Wigan Athletic,6,1,,,,,,
+61493457,2026-02-07 15:00,Plymouth Argyle,Lincoln City,1,4,,,,,,
+61493461,2026-02-07 15:00,Rotherham United,Cardiff City,0,3,,,,,,
+61493463,2026-02-07 15:00,Stockport County FC,Leyton Orient London,0,0,,,,,,
+61493465,2026-02-07 15:00,Wycombe Wanderers,Doncaster Rovers,4,0,,,,,,
+66673856,2026-02-10 19:45,Wigan Athletic,Reading FC,1,2,2.300,3.100,3.100,2.25,1.975,1.875
+66910878,2026-02-10 19:45,Mansfield Town,Peterborough United,1,2,2.375,3.300,2.875,2.75,1.975,1.875
+61493485,2026-02-14 12:30,Reading FC,Wycombe Wanderers,3,2,3.000,3.300,2.250,2.5,2.000,1.850
+61493487,2026-02-14 12:30,Stevenage FC,Huddersfield Town,1,0,2.600,2.800,3.000,2,2.050,1.800
+61493467,2026-02-14 15:00,Barnsley FC,AFC Wimbledon,3,3,1.950,3.500,3.500,2.5,2.000,1.850
+61493469,2026-02-14 15:00,Blackpool FC,Plymouth Argyle,0,4,2.600,3.400,2.600,2.5,1.950,1.900
+61493471,2026-02-14 15:00,Bradford City FC,Peterborough United,2,0,1.850,3.600,3.800,2.5,1.850,2.000
+61493475,2026-02-14 15:00,Cardiff City,Luton Town,3,1,1.750,3.800,4.000,2.75,1.975,1.875
+61493479,2026-02-14 15:00,Exeter City,Northampton Town,0,0,1.950,3.600,3.600,2.5,1.925,1.925
+61493483,2026-02-14 15:00,Lincoln City,Bolton Wanderers,1,1,2.300,3.500,2.875,2.5,1.925,1.925
+61493491,2026-02-17 19:45,Barnsley FC,Peterborough United,2,1,1.800,4.000,3.700,3,1.825,2.025
+61493495,2026-02-17 19:45,Bradford City FC,Stockport County FC,1,0,2.700,3.200,2.600,2.25,1.875,1.975
+61493497,2026-02-17 19:45,Burton Albion,Rotherham United,1,0,2.150,3.250,3.300,2.5,2.025,1.825
+61493499,2026-02-17 19:45,Cardiff City,AFC Wimbledon,4,1,1.380,4.750,7.500,2.75,1.925,1.925
+61493501,2026-02-17 19:45,Doncaster Rovers,Huddersfield Town,1,0,2.450,3.300,2.750,2.5,1.975,1.875
+61493503,2026-02-17 19:45,Exeter City,Wycombe Wanderers,1,1,3.100,3.250,2.250,2.25,2.100,1.775
+61493505,2026-02-17 19:45,Leyton Orient London,Plymouth Argyle,1,3,2.600,3.300,2.600,2.5,1.925,1.925
+61493507,2026-02-17 19:45,Lincoln City,Northampton Town,4,0,1.363,4.500,8.500,2.5,1.825,2.025
+61493509,2026-02-17 19:45,Stevenage FC,Port Vale,2,1,1.750,3.200,5.250,2,2.025,1.825
+61493493,2026-02-17 20:00,Blackpool FC,Mansfield Town,1,0,2.700,3.200,2.625,2.25,1.825,2.025
+61493513,2026-02-17 20:00,Reading FC,Bolton Wanderers,1,1,3.200,3.500,2.100,2.5,1.925,1.925
+61493511,2026-02-18 19:45,Wigan Athletic,Luton Town,1,0,2.600,3.250,2.700,2.25,2.000,1.850
+61493529,2026-02-21 12:30,Plymouth Argyle,Cardiff City,5,2,3.000,3.600,2.200,2.75,1.975,1.875
+61493533,2026-02-21 12:30,Rotherham United,Doncaster Rovers,1,2,2.625,3.400,2.500,2.5,1.925,1.925
+61493537,2026-02-21 12:30,Wycombe Wanderers,Stevenage FC,3,1,2.050,3.100,4.000,2,1.825,2.025
+61493515,2026-02-21 15:00,AFC Wimbledon,Bradford City FC,3,1,2.625,3.200,2.625,2.25,2.000,1.850
+61493517,2026-02-21 15:00,Bolton Wanderers,Blackpool FC,2,2,1.533,4.000,6.000,2.75,1.975,1.875
+61493519,2026-02-21 15:00,Huddersfield Town,Barnsley FC,2,1,1.850,3.700,3.900,2.75,1.850,2.000
+61493521,2026-02-21 15:00,Luton Town,Burton Albion,1,1,1.850,3.500,4.100,2.5,1.950,1.900
+61493523,2026-02-21 15:00,Mansfield Town,Lincoln City,0,2,3.700,3.400,2.000,2.5,1.925,1.925
+61493525,2026-02-21 15:00,Northampton Town,Leyton Orient London,1,2,2.700,3.250,2.550,2.25,1.825,2.025
+61493527,2026-02-21 15:00,Peterborough United,Exeter City,3,3,2.300,3.500,2.875,2.75,1.800,2.050
+61493531,2026-02-21 15:00,Port Vale,Reading FC,1,1,2.750,3.300,2.500,2.25,1.825,2.025
+61493535,2026-02-21 15:00,Stockport County FC,Wigan Athletic,4,2,1.727,3.600,4.750,2.25,1.800,2.050
+66910880,2026-02-24 19:45,Northampton Town,Port Vale,0,1,2.375,3.100,3.100,2.5,1.975,1.875
+68021032,2026-02-24 19:45,Burton Albion,Stockport County FC,3,0,3.200,3.400,2.200,2.25,2.025,1.825
+68304342,2026-02-24 19:45,Bradford City FC,Rotherham United,1,0,1.650,3.600,5.750,2.5,2.050,1.800
+61493543,2026-02-28 12:30,Leyton Orient London,Barnsley FC,1,3,2.400,3.400,2.750,2.75,2.025,1.825
+61493549,2026-02-28 12:30,Northampton Town,Peterborough United,1,1,2.600,3.700,2.400,2.75,1.825,2.025
+61493539,2026-02-28 15:00,Doncaster Rovers,Cardiff City,0,4,2.900,3.750,2.150,2.75,1.875,1.975
+61493541,2026-02-28 15:00,Exeter City,Bolton Wanderers,1,5,3.250,3.500,2.100,2.5,1.925,1.925
+61493545,2026-02-28 15:00,Lincoln City,Blackpool FC,4,0,1.450,4.333,6.500,2.75,1.975,1.875
+61493547,2026-02-28 15:00,Mansfield Town,AFC Wimbledon,2,2,2.100,3.100,3.500,2.25,2.000,1.850
+61493551,2026-02-28 15:00,Port Vale,Luton Town,1,1,3.000,3.300,2.250,2.25,1.850,2.000
+61493553,2026-02-28 15:00,Reading FC,Bradford City FC,2,1,2.700,3.100,2.600,2.25,2.050,1.800
+61493555,2026-02-28 15:00,Rotherham United,Plymouth Argyle,1,0,3.100,3.500,2.150,2.5,2.025,1.825
+61493557,2026-02-28 15:00,Stevenage FC,Stockport County FC,2,1,2.625,3.200,2.600,2,1.775,2.100
+61493559,2026-02-28 15:00,Wigan Athletic,Huddersfield Town,1,0,3.100,3.100,2.300,2,1.775,2.100
+61493561,2026-02-28 15:00,Wycombe Wanderers,Burton Albion,3,0,1.800,3.400,4.500,2.5,1.825,2.025
+67179542,2026-03-03 19:45,Barnsley FC,Wycombe Wanderers,0,1,2.900,3.400,2.250,2.75,1.975,1.875
+67179546,2026-03-03 19:45,Exeter City,Burton Albion,1,1,2.200,3.300,3.100,2.5,2.000,1.850
+68304364,2026-03-03 19:45,Rotherham United,Mansfield Town,0,0,2.600,3.250,2.625,2.5,2.000,1.850
+61493575,2026-03-07 12:30,Cardiff City,Lincoln City,0,2,2.150,3.300,3.250,2.75,1.925,1.925
+61493577,2026-03-07 12:30,Huddersfield Town,Rotherham United,1,0,1.615,3.750,5.500,2.5,1.975,1.875
+61493565,2026-03-07 15:00,Barnsley FC,Exeter City,2,1,2.050,3.600,3.200,2.75,1.850,2.000
+61493567,2026-03-07 15:00,Blackpool FC,Wigan Athletic,1,1,2.625,3.200,2.625,2.25,1.875,1.975
+61493569,2026-03-07 15:00,Bolton Wanderers,Wycombe Wanderers,3,2,1.900,3.500,3.750,2.5,1.875,1.975
+61493571,2026-03-07 15:00,Bradford City FC,Leyton Orient London,2,1,1.950,3.250,3.900,2.25,1.900,1.950
+61493573,2026-03-07 15:00,Burton Albion,Stevenage FC,0,1,2.400,3.200,2.875,2,1.950,1.900
+61493579,2026-03-07 15:00,Luton Town,Reading FC,2,3,1.800,3.600,4.200,2.5,1.900,1.950
+61493583,2026-03-07 15:00,Plymouth Argyle,Doncaster Rovers,2,1,1.900,3.600,3.700,2.75,1.925,1.925
+61493563,2026-03-08 12:00,AFC Wimbledon,Northampton Town,1,0,1.909,3.400,3.800,2.5,1.825,2.025
+67092588,2026-03-10 19:45,Barnsley FC,Cardiff City,1,1,4.000,4.000,1.727,3,1.850,2.000
+67260320,2026-03-10 19:45,Wigan Athletic,Plymouth Argyle,0,3,2.750,3.300,2.500,2.25,2.050,1.800
+67604512,2026-03-10 19:45,Exeter City,Lincoln City,0,1,4.333,4.000,1.700,2.5,1.875,1.975
+67625652,2026-03-10 19:45,Stevenage FC,Leyton Orient London,1,2,1.850,3.400,4.200,2,1.925,1.925
+68304334,2026-03-10 19:45,Mansfield Town,Reading FC,1,0,2.050,3.300,3.400,2.25,1.850,2.000
+69246748,2026-03-10 19:45,Doncaster Rovers,Luton Town,1,1,2.450,3.500,2.625,2.5,1.900,1.950
+67179544,2026-03-11 19:45,Port Vale,Bradford City FC,0,2,3.800,3.400,1.909,2.25,1.950,1.900
+67468326,2026-03-11 19:45,AFC Wimbledon,Blackpool FC,4,1,2.300,3.200,3.100,2.25,1.975,1.875
+61493593,2026-03-14 12:30,Lincoln City,Stockport County FC,3,1,1.950,3.600,3.700,2.25,1.975,1.875
+61493603,2026-03-14 12:30,Rotherham United,Bolton Wanderers,2,2,4.100,3.800,1.750,2.75,1.925,1.925
+61493587,2026-03-14 15:00,Doncaster Rovers,Blackpool FC,2,1,1.900,3.600,3.750,2.5,1.925,1.925
+61493589,2026-03-14 15:00,Exeter City,Cardiff City,0,4,4.333,3.700,1.750,2.75,1.925,1.925
+61493591,2026-03-14 15:00,Leyton Orient London,Peterborough United,2,1,2.000,3.800,3.200,2.75,1.875,1.975
+61493595,2026-03-14 15:00,Mansfield Town,Barnsley FC,2,2,2.000,3.800,3.300,2.75,1.900,1.950
+61493597,2026-03-14 15:00,Northampton Town,Burton Albion,0,2,2.900,3.250,2.400,2.25,1.950,1.900
+61493599,2026-03-14 15:00,Port Vale,Huddersfield Town,0,0,4.100,3.400,1.800,2.25,1.975,1.875
+61493601,2026-03-14 15:00,Reading FC,Plymouth Argyle,2,2,2.900,3.400,2.350,2.5,1.825,2.025
+61493605,2026-03-14 15:00,Stevenage FC,AFC Wimbledon,1,0,2.000,3.100,4.000,2,1.850,2.000
+61493607,2026-03-14 15:00,Wigan Athletic,Bradford City FC,2,0,3.250,3.400,2.100,2.25,1.875,1.975
+61493609,2026-03-14 15:00,Wycombe Wanderers,Luton Town,1,2,2.100,3.500,3.250,2.5,1.975,1.875
+61493611,2026-03-17 19:45,AFC Wimbledon,Leyton Orient London,2,4,,,,,,
+61493615,2026-03-17 19:45,Blackpool FC,Port Vale,3,2,,,,,,
+61493617,2026-03-17 19:45,Bolton Wanderers,Doncaster Rovers,0,0,,,,,,
+61493619,2026-03-17 19:45,Bradford City FC,Mansfield Town,1,1,,,,,,
+61493621,2026-03-17 19:45,Burton Albion,Reading FC,1,2,,,,,,
+61493623,2026-03-17 19:45,Cardiff City,Wycombe Wanderers,0,2,,,,,,
+61493625,2026-03-17 19:45,Huddersfield Town,Lincoln City,2,2,,,,,,
+61493627,2026-03-17 19:45,Luton Town,Exeter City,3,2,,,,,,
+61493629,2026-03-17 19:45,Peterborough United,Rotherham United,5,0,,,,,,
+61493631,2026-03-17 19:45,Plymouth Argyle,Stevenage FC,1,0,,,,,,
+61493633,2026-03-17 19:45,Stockport County FC,Northampton Town,2,1,,,,,,
+61493613,2026-03-17 20:00,Barnsley FC,Wigan Athletic,1,1,2.250,3.250,3.000,2.5,2.025,1.825
+61493641,2026-03-21 12:30,Cardiff City,Blackpool FC,0,0,1.363,4.750,7.500,3,1.850,2.000
+61493647,2026-03-21 12:30,Luton Town,Stockport County FC,1,1,2.600,3.400,2.600,2.5,1.850,2.000
+61493635,2026-03-21 15:00,AFC Wimbledon,Peterborough United,1,1,2.100,3.500,3.250,2.75,1.925,1.925
+61493637,2026-03-21 15:00,Barnsley FC,Doncaster Rovers,0,1,2.600,3.400,2.550,3,1.875,1.975
+61493639,2026-03-21 15:00,Burton Albion,Bradford City FC,2,1,2.750,3.300,2.450,2.25,1.925,1.925
+61493643,2026-03-21 15:00,Leyton Orient London,Wycombe Wanderers,2,0,3.000,3.400,2.250,2.5,1.950,1.900
+61493645,2026-03-21 15:00,Lincoln City,Rotherham United,3,0,1.363,4.750,7.500,2.75,1.875,1.975
+61493649,2026-03-21 15:00,Mansfield Town,Northampton Town,4,1,1.533,3.900,6.000,2.5,1.850,2.000
+61493651,2026-03-21 15:00,Plymouth Argyle,Huddersfield Town,3,1,2.200,3.200,3.250,2.25,1.825,2.025
+61493653,2026-03-21 15:00,Port Vale,Bolton Wanderers,1,0,5.250,4.100,1.550,2.75,2.000,1.850
+61493655,2026-03-21 15:00,Stevenage FC,Reading FC,1,0,1.950,3.100,4.200,2,1.925,1.925
+61493657,2026-03-21 15:00,Wigan Athletic,Exeter City,2,0,2.200,3.000,3.500,2.25,1.800,2.050
+69145170,2026-03-24 19:45,Doncaster Rovers,Port Vale,1,0,1.700,3.600,4.750,2.5,1.950,1.900
+61493659,2026-03-28 15:00,Blackpool FC,Burton Albion,1,0,2.350,3.250,3.000,2.5,1.975,1.875
+61493667,2026-03-28 15:00,Exeter City,Leyton Orient London,0,0,2.400,3.600,2.625,2.75,1.825,2.025
+61493675,2026-03-28 15:00,Reading FC,Wigan Athletic,3,0,2.250,3.250,3.100,2.25,1.975,1.875
+61493679,2026-03-28 15:00,Stockport County FC,AFC Wimbledon,3,0,1.480,4.500,6.000,3,2.025,1.825
+61493681,2026-03-28 15:00,Wycombe Wanderers,Port Vale,4,0,1.450,4.200,6.500,2.5,1.875,1.975
+61493705,2026-04-02 18:45,Wigan Athletic,Leyton Orient London,0,0,2.300,3.200,3.200,2.25,1.925,1.925
+61493691,2026-04-03 11:30,Doncaster Rovers,Mansfield Town,0,2,2.150,3.400,3.200,2.5,1.950,1.900
+61493683,2026-04-03 14:00,Blackpool FC,Exeter City,1,0,1.900,3.500,3.900,2.5,1.850,2.000
+61493685,2026-04-03 14:00,Bradford City FC,Northampton Town,1,0,1.400,4.333,8.000,2.5,1.875,1.975
+61493687,2026-04-03 14:00,Burton Albion,Barnsley FC,1,1,2.100,3.300,3.500,2.5,2.000,1.850
+61493693,2026-04-03 14:00,Huddersfield Town,Reading FC,1,1,1.727,3.600,4.500,2.5,2.025,1.825
+61493695,2026-04-03 14:00,Lincoln City,AFC Wimbledon,1,0,1.444,4.333,7.000,2.5,1.900,1.950
+61493697,2026-04-03 14:00,Luton Town,Peterborough United,2,1,1.533,4.200,5.750,3,1.875,1.975
+61493699,2026-04-03 14:00,Plymouth Argyle,Bolton Wanderers,1,2,2.200,3.600,2.900,2.75,1.975,1.875
+61493701,2026-04-03 14:00,Rotherham United,Stevenage FC,0,0,3.750,3.100,2.050,2,1.900,1.950
+61493703,2026-04-03 14:00,Stockport County FC,Wycombe Wanderers,3,0,2.100,3.500,3.200,2.5,1.950,1.900
+61493707,2026-04-06 14:00,AFC Wimbledon,Luton Town,0,3,3.500,3.500,2.000,2.5,1.950,1.900
+61493709,2026-04-06 14:00,Barnsley FC,Plymouth Argyle,0,3,2.875,3.700,2.250,3,2.025,1.825
+61493711,2026-04-06 14:00,Bolton Wanderers,Stockport County FC,2,2,2.150,3.700,3.000,2.75,2.000,1.850
+61493713,2026-04-06 14:00,Exeter City,Doncaster Rovers,3,0,3.100,3.300,2.250,2.5,1.850,2.000
+61493715,2026-04-06 14:00,Leyton Orient London,Huddersfield Town,1,2,3.200,3.100,2.300,2.25,1.900,1.950
+61493717,2026-04-06 14:00,Mansfield Town,Burton Albion,0,0,2.200,3.400,3.000,2.5,1.825,2.025
+61493719,2026-04-06 14:00,Northampton Town,Wigan Athletic,1,3,3.700,3.200,2.100,2.25,1.975,1.875
+61493721,2026-04-06 14:00,Peterborough United,Cardiff City,1,1,4.500,4.750,1.571,3.25,1.825,2.025
+61493851,2026-04-06 14:00,Reading FC,Lincoln City,1,2,3.900,3.600,1.850,2.25,1.825,2.025
+61493853,2026-04-06 14:00,Stevenage FC,Blackpool FC,1,0,1.909,3.300,4.000,2,2.000,1.850
+61493855,2026-04-06 14:00,Wycombe Wanderers,Bradford City FC,1,2,2.150,3.200,3.300,2.5,1.800,2.050
+61493857,2026-04-07 18:45,Port Vale,Rotherham United,1,0,2.500,3.250,2.750,2.25,1.950,1.900
+61493867,2026-04-11 11:30,Plymouth Argyle,Exeter City,2,2,1.420,4.500,7.000,3,1.825,2.025
+61493869,2026-04-11 11:30,Lincoln City,Leyton Orient London,2,1,1.444,4.200,7.500,2.5,1.850,2.000
+61493875,2026-04-11 11:30,Cardiff City,Bolton Wanderers,2,0,1.850,3.900,3.700,3.25,1.875,1.975
+61493861,2026-04-11 14:00,Wigan Athletic,Mansfield Town,2,1,2.300,3.400,3.000,2.25,2.000,1.850
+61493865,2026-04-11 14:00,Rotherham United,Barnsley FC,1,3,2.550,3.500,2.550,2.75,2.025,1.825
+61493871,2026-04-11 14:00,Huddersfield Town,Wycombe Wanderers,3,3,1.950,3.500,3.700,2.5,1.925,1.925
+61493873,2026-04-11 14:00,Doncaster Rovers,Reading FC,1,0,1.833,3.750,3.900,2.5,1.875,1.975
+61493877,2026-04-11 14:00,Burton Albion,AFC Wimbledon,1,0,1.800,3.600,4.500,2.5,2.050,1.800
+61493879,2026-04-11 14:00,Bradford City FC,Stevenage FC,0,1,2.250,2.900,3.600,2,2.050,1.800
+61493881,2026-04-11 14:00,Blackpool FC,Peterborough United,3,1,1.850,3.900,3.500,3,1.925,1.925
+68162602,2026-04-14 18:45,Port Vale,Barnsley FC,0,0,2.750,3.200,2.500,2.5,1.975,1.875
+68305678,2026-04-14 18:45,Leyton Orient London,Mansfield Town,0,0,2.000,3.500,3.400,2.5,1.850,2.000
+68306292,2026-04-14 18:45,Wigan Athletic,Rotherham United,3,0,1.571,3.750,5.500,2.25,1.850,2.000
+69887086,2026-04-14 18:45,Huddersfield Town,Cardiff City,1,1,3.000,3.600,2.200,2.75,1.925,1.925
+70008380,2026-04-14 18:45,Bolton Wanderers,Stevenage FC,5,1,1.833,3.700,4.100,2.25,1.875,1.975
+61493859,2026-04-15 18:45,Luton Town,Northampton Town,2,1,1.285,5.750,8.500,3,2.025,1.825
+68021016,2026-04-15 18:45,AFC Wimbledon,Stockport County FC,0,2,4.100,3.800,1.750,2.75,1.975,1.875
+70077144,2026-04-16 18:45,Peterborough United,Port Vale,1,3,1.600,4.333,4.750,2.75,2.000,1.850
+61493899,2026-04-18 11:30,Bolton Wanderers,Huddersfield Town,3,3,1.650,3.750,4.200,2.75,1.850,2.000
+61493901,2026-04-18 11:30,Barnsley FC,Bradford City FC,2,2,3.000,3.300,2.300,2.5,1.950,1.900
+61493883,2026-04-18 14:00,Stevenage FC,Lincoln City,2,2,2.900,3.000,2.500,2,1.875,1.975
+61493885,2026-04-18 14:00,Wycombe Wanderers,Blackpool FC,0,1,1.850,3.750,3.750,2.75,2.025,1.825
+61493887,2026-04-18 14:00,Reading FC,Cardiff City,1,3,5.250,4.100,1.550,2.75,1.875,1.975
+61493893,2026-04-18 14:00,Northampton Town,Doncaster Rovers,1,3,4.333,3.700,1.727,2.5,1.825,2.025
+61493895,2026-04-18 14:00,Leyton Orient London,Rotherham United,0,2,1.500,4.100,6.000,2.5,1.875,1.975
+61493897,2026-04-18 14:00,Exeter City,Stockport County FC,3,3,4.100,4.000,1.727,3,1.975,1.875
+61493903,2026-04-18 14:00,AFC Wimbledon,Plymouth Argyle,1,3,3.600,3.700,1.909,2.75,1.950,1.900
+61493905,2026-04-18 14:00,Mansfield Town,Luton Town,2,2,2.800,3.200,2.200,2.75,1.925,1.925
+61493891,2026-04-19 12:00,Peterborough United,Burton Albion,1,1,2.700,3.300,2.500,2.75,1.850,2.000
+61493889,2026-04-19 14:00,Port Vale,Wigan Athletic,0,0,3.200,3.100,2.300,2,2.025,1.825
+69106832,2026-04-21 18:45,Stevenage FC,Barnsley FC,1,0,1.700,3.500,5.000,2.25,1.925,1.925
+69887096,2026-04-21 18:45,Rotherham United,Luton Town,0,2,5.750,4.200,1.500,2.75,2.050,1.800
+70100814,2026-04-21 18:45,Doncaster Rovers,Lincoln City,0,2,3.000,3.200,2.300,2.75,1.800,2.050
+70347656,2026-04-21 18:45,Bradford City FC,Plymouth Argyle,1,1,2.600,3.250,2.600,2.5,2.000,1.850
+70347714,2026-04-21 18:45,Stockport County FC,Mansfield Town,0,1,1.533,4.200,5.500,3,1.825,2.025
+70077220,2026-04-22 18:45,Cardiff City,Port Vale,1,0,1.380,5.500,5.750,3,2.025,1.825
+61493911,2026-04-25 11:30,Stockport County FC,Peterborough United,3,1,1.420,5.250,5.500,3.25,2.000,1.850
+61493919,2026-04-25 11:30,Doncaster Rovers,Stevenage FC,1,1,3.500,3.250,2.100,2.25,2.000,1.850
+61493907,2026-04-25 14:00,Rotherham United,Reading FC,1,1,2.750,3.500,2.350,2.5,1.900,1.950
+61493909,2026-04-25 14:00,Wigan Athletic,AFC Wimbledon,0,1,2.200,3.400,3.100,2.5,2.000,1.850
+61493913,2026-04-25 14:00,Plymouth Argyle,Port Vale,2,1,1.333,5.500,7.500,2.75,1.825,2.025
+61493915,2026-04-25 14:00,Luton Town,Barnsley FC,2,1,1.500,4.500,5.500,3.25,2.000,1.850
+61493917,2026-04-25 14:00,Lincoln City,Wycombe Wanderers,4,3,1.750,3.900,4.000,2.5,2.000,1.850
+61493921,2026-04-25 14:00,Cardiff City,Northampton Town,5,1,1.200,6.500,11.000,3.5,1.925,1.925
+61493923,2026-04-25 14:00,Burton Albion,Exeter City,1,1,1.650,4.000,4.750,2.75,2.025,1.825
+61493925,2026-04-25 14:00,Bradford City FC,Bolton Wanderers,1,1,2.900,3.100,2.450,2.5,1.950,1.900
+61493927,2026-04-25 14:00,Blackpool FC,Leyton Orient London,1,0,2.700,3.000,2.750,2.5,1.950,1.900
+61493929,2026-04-25 14:00,Huddersfield Town,Mansfield Town,2,4,2.100,3.500,3.250,2.5,1.850,2.000
+70017990,2026-04-28 18:45,Northampton Town,Barnsley FC,0,1,3.000,3.900,2.050,3,1.825,2.025
+70077146,2026-04-28 18:45,Stockport County FC,Port Vale,1,2,1.333,5.250,7.500,3.25,2.000,1.850
+70100812,2026-04-28 18:45,Peterborough United,Mansfield Town,0,0,2.700,3.200,2.550,3,1.975,1.875
+61493931,2026-05-02 14:00,Wycombe Wanderers,Rotherham United,3,2,1.600,4.000,5.000,2.75,2.025,1.825
+61493933,2026-05-02 14:00,Stevenage FC,Wigan Athletic,1,0,1.550,4.200,5.500,2,1.800,2.050
+61493935,2026-05-02 14:00,Reading FC,Blackpool FC,0,1,2.300,3.400,2.900,2.75,1.850,2.000
+61493937,2026-05-02 14:00,Port Vale,Lincoln City,0,2,4.100,4.333,1.666,2.5,2.025,1.825
+61493939,2026-05-02 14:00,Peterborough United,Doncaster Rovers,1,3,2.625,3.700,2.350,3,1.950,1.900
+61493941,2026-05-02 14:00,Northampton Town,Plymouth Argyle,2,3,5.750,6.000,1.380,3,1.900,1.950
+61493943,2026-05-02 14:00,Mansfield Town,Cardiff City,5,4,3.100,4.000,2.000,3.25,1.975,1.875
+61493945,2026-05-02 14:00,Leyton Orient London,Burton Albion,3,2,1.800,3.800,3.900,2.5,1.850,2.000
+61493947,2026-05-02 14:00,Exeter City,Bradford City FC,1,2,3.250,3.700,2.000,2.5,1.825,2.025
+61493949,2026-05-02 14:00,Bolton Wanderers,Luton Town,2,3,2.150,4.333,2.600,3.25,1.925,1.925
+61493951,2026-05-02 14:00,Barnsley FC,Stockport County FC,1,3,3.750,4.200,1.750,3.25,2.000,1.850
+61493953,2026-05-02 14:00,AFC Wimbledon,Huddersfield Town,0,4,3.300,3.600,2.050,2.75,1.975,1.875
+71242304,2026-05-09 14:00,Stevenage FC,Stockport County FC,0,1,2.550,3.100,2.800,2.25,2.025,1.825
+71242312,2026-05-09 19:00,Bolton Wanderers,Bradford City FC,1,0,1.800,3.200,4.100,2.5,1.875,1.975
+71242306,2026-05-13 19:00,Stockport County FC,Stevenage FC,2,0,1.950,3.400,3.750,2.25,1.850,2.000
+71242310,2026-05-14 19:00,Bradford City FC,Bolton Wanderers,0,1,2.550,3.100,2.800,2.25,1.850,2.000
+71573910,2026-05-24 12:00,Bolton Wanderers,Stockport County FC,4,1,2.600,3.100,2.800,2.5,2.025,1.825
+72341022,2026-08-15 11:30,Notts County,Leicester City,1,1,3.500,3.400,2.000,2.5,1.975,1.875
+72341024,2026-08-15 11:30,Oxford United,Milton Keynes Dons,2,2,2.200,3.300,3.200,2.25,1.825,2.025
+72341026,2026-08-15 11:30,Reading FC,Luton Town,3,4,3.000,3.400,2.250,2.5,1.825,2.025
+72341028,2026-08-15 14:00,Barnsley FC,Bromley FC,0,1,2.200,3.500,3.000,2.5,1.825,2.025
+72341030,2026-08-15 14:00,Blackpool FC,Wycombe Wanderers,1,1,2.625,3.300,2.550,2.5,1.925,1.925
+72341032,2026-08-15 14:00,Bradford City FC,Peterborough United,2,0,1.650,4.000,4.500,2.75,1.850,2.000
+72341034,2026-08-15 14:00,Burton Albion,Stevenage FC,1,1,2.750,3.200,2.500,2.25,2.025,1.825
+72341036,2026-08-15 14:00,Cambridge United,Wigan Athletic,3,2,2.150,3.300,3.250,2.25,1.925,1.925
+72341038,2026-08-15 14:00,Huddersfield Town,AFC Wimbledon,3,0,1.600,3.800,5.500,2.75,1.975,1.875
+72341040,2026-08-15 14:00,Leyton Orient London,Sheffield Wednesday,1,2,2.350,3.400,2.800,2.5,1.950,1.900
+72341042,2026-08-15 14:00,Mansfield Town,Doncaster Rovers,2,1,2.150,3.400,3.100,2.5,1.875,1.975
+72341044,2026-08-15 14:00,Plymouth Argyle,Stockport County FC,1,3,2.300,3.400,2.900,2.75,1.975,1.875
+72341060,2026-08-20 19:00,Sheffield Wednesday,Bradford City FC,0,1,2.625,3.400,2.450,2.5,1.925,1.925
+72341050,2026-08-22 11:30,Doncaster Rovers,Barnsley FC,0,0,1.833,3.700,4.000,2.75,1.850,2.000
+72341054,2026-08-22 11:30,Luton Town,Notts County,2,2,1.533,4.100,5.750,2.75,1.875,1.975
+72341046,2026-08-22 14:00,AFC Wimbledon,Reading FC,0,0,2.900,3.250,2.300,2.5,2.050,1.800
+72341048,2026-08-22 14:00,Bromley FC,Cambridge United,1,1,2.625,3.100,2.600,2.5,2.050,1.800
+72341052,2026-08-22 14:00,Leicester City,Burton Albion,1,2,1.533,4.000,5.500,2.75,2.025,1.825
+72341056,2026-08-22 14:00,Milton Keynes Dons,Huddersfield Town,1,1,2.450,3.300,2.700,2.5,1.850,2.000
+72341058,2026-08-22 14:00,Peterborough United,Mansfield Town,2,1,2.800,3.500,2.300,2.75,1.825,2.025
+72341062,2026-08-22 14:00,Stevenage FC,Oxford United,1,2,2.625,3.000,2.750,2,1.800,2.050
+72341064,2026-08-22 14:00,Stockport County FC,Blackpool FC,1,2,1.600,3.800,5.250,2.75,1.950,1.900
+72341066,2026-08-22 14:00,Wigan Athletic,Leyton Orient London,0,2,1.950,3.300,3.750,2.5,2.000,1.850
+72341068,2026-08-22 14:00,Wycombe Wanderers,Plymouth Argyle,1,1,2.450,3.300,2.800,2.5,1.850,2.000
+72341072,2026-08-29 11:30,Blackpool FC,Peterborough United,4,0,2.200,3.500,3.000,2.75,1.850,2.000
+72341080,2026-08-29 11:30,Milton Keynes Dons,Leicester City,0,0,2.400,3.500,2.700,2.75,1.850,2.000
+72341074,2026-08-29 14:00,Cambridge United,Huddersfield Town,1,2,2.700,3.200,2.600,2.5,1.925,1.925
+72341076,2026-08-29 14:00,Leyton Orient London,Barnsley FC,1,3,2.150,3.500,3.100,2.75,1.950,1.900
+72341082,2026-08-29 14:00,Notts County,Burton Albion,2,1,2.200,3.500,3.100,2.5,2.025,1.825
+72341086,2026-08-29 14:00,Plymouth Argyle,Bradford City FC,2,0,2.375,3.250,2.900,2.5,1.825,2.025
+72341088,2026-08-29 14:00,Sheffield Wednesday,Bromley FC,7,2,1.750,3.600,4.333,2.5,1.900,1.950
+72341090,2026-08-29 14:00,Stevenage FC,Doncaster Rovers,2,2,2.400,3.100,3.000,2.25,1.925,1.925
+72341092,2026-08-29 14:00,Stockport County FC,Wycombe Wanderers,5,1,1.800,3.700,4.100,2.75,1.925,1.925
+72341070,2026-08-30 13:00,AFC Wimbledon,Wigan Athletic,1,0,2.875,3.200,2.450,2.25,1.800,2.050
+72341078,2026-08-30 14:00,Mansfield Town,Luton Town,5,2,3.200,3.300,2.200,2.75,1.900,1.950
+72341096,2026-09-01 18:45,Bradford City FC,Cambridge United,1,2,1.900,3.200,4.100,2.25,1.975,1.875
+72341098,2026-09-01 18:45,Bromley FC,Leyton Orient London,0,5,2.300,3.100,3.100,2.5,1.900,1.950
+72341102,2026-09-01 18:45,Doncaster Rovers,Notts County,1,1,2.000,3.400,3.500,2.5,2.000,1.850
+72341104,2026-09-01 18:45,Huddersfield Town,Oxford United,3,1,1.666,3.800,4.500,2.75,1.975,1.875
+72341106,2026-09-01 18:45,Leicester City,Plymouth Argyle,2,0,2.050,3.600,3.250,2.75,1.800,2.050
+72341112,2026-09-01 18:45,Wycombe Wanderers,Sheffield Wednesday,1,2,2.200,3.300,3.000,3,2.050,1.800
+72341114,2026-09-01 18:45,Peterborough United,Stevenage FC,0,0,1.950,3.300,3.750,2.5,1.900,1.950
+72341094,2026-09-02 18:45,Barnsley FC,Blackpool FC,2,1,2.250,3.600,2.800,3,2.025,1.825
+72341100,2026-09-02 18:45,Burton Albion,AFC Wimbledon,4,1,2.500,3.100,2.900,2.25,1.900,1.950
+72341108,2026-09-02 18:45,Luton Town,Stockport County FC,2,0,2.550,3.600,2.450,3,1.800,2.050
+73873516,2026-09-02 18:45,Wigan Athletic,Milton Keynes Dons,3,1,2.350,3.500,2.700,2.75,1.975,1.875
+72341116,2026-09-02 19:00,Reading FC,Mansfield Town,5,0,1.950,3.500,3.500,2.75,2.000,1.850
+72341134,2026-09-05 11:30,Peterborough United,Sheffield Wednesday,1,2,2.625,3.400,2.500,3,1.925,1.925
+72341138,2026-09-05 11:30,Wigan Athletic,Stockport County FC,0,4,4.200,3.700,1.750,2.75,1.925,1.925
+72341118,2026-09-05 14:00,Barnsley FC,Stevenage FC,1,5,2.250,3.250,3.100,2.5,1.975,1.875
+72341120,2026-09-05 14:00,Bradford City FC,Mansfield Town,1,0,1.750,3.600,4.333,2.5,1.925,1.925
+72341124,2026-09-05 14:00,Burton Albion,Cambridge United,2,2,2.750,3.200,2.500,2.25,1.925,1.925
+72341126,2026-09-05 14:00,Doncaster Rovers,Plymouth Argyle,2,3,2.450,3.400,2.700,2.75,2.000,1.850
+72341128,2026-09-05 14:00,Huddersfield Town,Notts County,1,1,1.700,3.700,4.500,2.75,2.000,1.850
+72341130,2026-09-05 14:00,Leicester City,Oxford United,0,4,1.550,4.100,5.250,3,1.950,1.900
+72341132,2026-09-05 14:00,Luton Town,Leyton Orient London,1,1,1.615,4.000,4.750,3,2.000,1.850
+72341136,2026-09-05 14:00,Reading FC,Blackpool FC,3,1,1.750,3.600,4.500,2.75,1.925,1.925
+72341140,2026-09-05 14:00,Wycombe Wanderers,Milton Keynes Dons,3,3,2.250,3.500,2.900,2.75,1.850,2.000
+72573876,2026-09-07 19:00,Bromley FC,AFC Wimbledon,0,2,2.200,3.400,3.000,2.5,2.000,1.850
+72341162,2026-09-10 19:00,Stevenage FC,Luton Town,2,1,3.400,3.400,2.100,2.25,1.800,2.050
+72341148,2026-09-12 11:30,Leyton Orient London,Wycombe Wanderers,2,3,2.600,3.300,2.600,2.75,2.000,1.850
+72341154,2026-09-12 11:30,Notts County,Bradford City FC,0,1,3.100,3.100,2.300,2.25,1.850,2.000
+72341142,2026-09-12 14:00,AFC Wimbledon,Doncaster Rovers,1,0,3.300,3.400,2.100,2.5,2.000,1.850
+72341144,2026-09-12 14:00,Blackpool FC,Bromley FC,2,2,1.666,4.000,4.500,2.75,1.800,2.050
+72341146,2026-09-12 14:00,Cambridge United,Reading FC,2,1,2.750,3.100,2.500,2.5,2.000,1.850
+72341150,2026-09-12 14:00,Mansfield Town,Huddersfield Town,0,0,3.400,3.500,2.000,3,2.050,1.800
+72341152,2026-09-12 14:00,Milton Keynes Dons,Peterborough United,1,1,1.950,3.800,3.400,3,1.800,2.050
+72341156,2026-09-12 14:00,Oxford United,Burton Albion,3,0,1.900,3.600,3.900,2.75,2.025,1.825
+72341158,2026-09-12 14:00,Plymouth Argyle,Barnsley FC,3,0,1.666,4.000,4.500,3.25,1.950,1.900
+72341160,2026-09-12 14:00,Sheffield Wednesday,Wigan Athletic,0,0,1.700,3.800,4.500,3,2.025,1.825
+72341164,2026-09-12 14:00,Stockport County FC,Leicester City,3,4,1.700,4.000,4.200,3,1.825,2.025
+72341166,2026-09-17 19:00,AFC Wimbledon,Milton Keynes Dons,0,0,3.100,3.200,2.300,2.25,1.825,2.025
+72341168,2026-09-19 11:30,Barnsley FC,Leicester City,1,1,2.625,3.750,2.350,3.5,2.025,1.825
+72341174,2026-09-19 11:30,Burton Albion,Mansfield Town,2,2,2.550,3.300,2.600,2.5,1.875,1.975
+72341170,2026-09-19 14:00,Blackpool FC,Plymouth Argyle,2,4,,,,,,
+72341172,2026-09-19 14:00,Bromley FC,Huddersfield Town,2,1,,,,,,
+72341176,2026-09-19 14:00,Leyton Orient London,Stevenage FC,1,0,,,,,,
+72341178,2026-09-19 14:00,Luton Town,Bradford City FC,0,1,,,,,,
+72341180,2026-09-19 14:00,Oxford United,Cambridge United,1,1,,,,,,
+72341182,2026-09-19 14:00,Peterborough United,Doncaster Rovers,0,2,,,,,,
+72341184,2026-09-19 14:00,Reading FC,Notts County,2,0,,,,,,
+72341186,2026-09-19 14:00,Sheffield Wednesday,Stockport County FC,0,0,,,,,,
+72341188,2026-09-19 14:00,Wigan Athletic,Wycombe Wanderers,0,1,,,,,,
+72341192,2026-09-26 14:00,Cambridge United,AFC Wimbledon,1,1,1.666,4.000,4.500,2.75,2.000,1.850
+72341206,2026-09-26 14:00,Plymouth Argyle,Burton Albion,0,1,1.500,4.200,6.000,3,1.975,1.875
+72341210,2026-09-26 14:00,Stockport County FC,Peterborough United,1,0,1.363,4.750,7.500,3.5,1.975,1.875
+72341212,2026-09-26 14:00,Wycombe Wanderers,Reading FC,2,2,2.500,3.600,2.500,2.75,1.825,2.025
+72341222,2026-10-03 14:00,Burton Albion,Huddersfield Town,1,3,4.333,3.750,1.727,2.75,1.925,1.925
+72341224,2026-10-03 14:00,Leyton Orient London,Plymouth Argyle,0,2,2.800,3.700,2.250,3,2.000,1.850
+72341232,2026-10-03 14:00,Reading FC,Bradford City FC,1,1,1.900,3.700,3.700,2.5,1.825,2.025
+72341252,2026-10-10 11:30,Notts County,Oxford United,1,2,2.150,3.300,3.200,2.5,2.000,1.850
+72341254,2026-10-10 11:30,Plymouth Argyle,AFC Wimbledon,2,1,1.600,4.000,5.250,2.75,1.875,1.975
+72341238,2026-10-10 14:00,Bradford City FC,Leyton Orient London,0,0,1.650,3.800,5.250,2.5,1.825,2.025
+72341240,2026-10-10 14:00,Cambridge United,Blackpool FC,1,0,1.850,3.600,3.750,2.75,1.850,2.000
+72341242,2026-10-10 14:00,Doncaster Rovers,Burton Albion,1,0,1.727,3.700,4.500,2.5,1.875,1.975
+72341244,2026-10-10 14:00,Huddersfield Town,Sheffield Wednesday,2,2,1.666,3.900,4.500,3,2.050,1.800
+72341246,2026-10-10 14:00,Leicester City,Peterborough United,1,3,1.615,4.200,4.500,3.5,1.875,1.975
+72341248,2026-10-10 14:00,Mansfield Town,Bromley FC,2,1,1.615,3.800,5.250,3,1.900,1.950
+72341250,2026-10-10 14:00,Milton Keynes Dons,Reading FC,1,5,2.800,3.600,2.300,2.75,1.925,1.925
+72341256,2026-10-10 14:00,Stevenage FC,Wigan Athletic,1,0,1.900,3.250,4.200,2.25,1.975,1.875
+72341258,2026-10-10 14:00,Stockport County FC,Barnsley FC,3,1,1.333,5.250,7.500,3.5,2.025,1.825
+72341260,2026-10-10 14:00,Wycombe Wanderers,Luton Town,1,4,2.750,3.400,2.400,2.75,1.850,2.000
+72341270,2026-10-15 19:00,Mansfield Town,Oxford United,1,1,2.300,3.500,2.800,2.75,1.925,1.925
+72341272,2026-10-17 11:30,Milton Keynes Dons,Luton Town,2,1,3.400,3.500,2.000,2.75,1.850,2.000
+72341274,2026-10-17 11:30,Peterborough United,Burton Albion,2,2,1.833,3.800,3.800,3,1.925,1.925
+72341262,2026-10-17 14:00,Barnsley FC,Cambridge United,1,2,2.900,3.500,2.250,2.75,1.825,2.025
+72341264,2026-10-17 14:00,Bradford City FC,Stevenage FC,2,0,1.833,3.400,4.333,2.25,2.000,1.850
+72341266,2026-10-17 14:00,Leicester City,Doncaster Rovers,2,1,1.727,4.000,4.000,3,1.800,2.050
+72341268,2026-10-17 14:00,Leyton Orient London,Blackpool FC,2,0,2.150,3.500,3.100,2.75,1.875,1.975
+72341276,2026-10-17 14:00,Plymouth Argyle,Huddersfield Town,0,2,2.300,3.600,2.875,2.75,1.800,2.050
+72341278,2026-10-17 14:00,Sheffield Wednesday,AFC Wimbledon,5,0,1.600,3.900,5.000,2.75,1.925,1.925
+72341280,2026-10-17 14:00,Stockport County FC,Bromley FC,1,0,1.270,5.750,9.500,3.25,1.875,1.975
+72341282,2026-10-17 14:00,Wigan Athletic,Reading FC,1,0,4.200,3.750,1.750,2.75,1.900,1.950
+72341284,2026-10-17 14:00,Wycombe Wanderers,Notts County,2,0,1.750,3.600,4.500,2.5,1.825,2.025
+72341286,2026-10-20 18:45,AFC Wimbledon,Mansfield Town,0,3,3.400,3.400,2.050,2.5,1.850,2.000
+72341288,2026-10-20 18:45,Blackpool FC,Milton Keynes Dons,2,0,2.300,3.400,2.900,3,2.025,1.825
+72341290,2026-10-20 18:45,Bromley FC,Leicester City,0,4,4.500,4.100,1.666,3,1.850,2.000
+72341292,2026-10-20 18:45,Burton Albion,Bradford City FC,0,0,4.500,3.750,1.727,2.5,1.875,1.975
+72341294,2026-10-20 18:45,Cambridge United,Wycombe Wanderers,2,2,2.550,3.200,2.750,2.25,1.800,2.050
+72341296,2026-10-20 18:45,Doncaster Rovers,Stockport County FC,0,2,4.333,4.100,1.666,3,2.025,1.825
+72341298,2026-10-20 18:45,Huddersfield Town,Peterborough United,4,1,1.450,4.500,5.750,3.5,2.000,1.850
+72341300,2026-10-20 18:45,Luton Town,Barnsley FC,2,1,1.500,4.333,5.500,3.5,1.900,1.950
+72341302,2026-10-20 18:45,Notts County,Sheffield Wednesday,2,0,3.700,3.400,1.950,2.5,1.925,1.925
+72341304,2026-10-20 18:45,Oxford United,Wigan Athletic,2,1,1.700,3.900,4.333,2.5,1.825,2.025
+72341306,2026-10-20 18:45,Stevenage FC,Plymouth Argyle,3,0,2.700,3.400,2.450,2.5,1.875,1.975
+72341308,2026-10-21 19:00,Reading FC,Leyton Orient London,1,0,1.600,3.800,5.250,2.75,1.825,2.025
+72341322,2026-10-24 11:30,Huddersfield Town,Wigan Athletic,2,1,1.380,4.500,7.500,3,1.875,1.975
+72341324,2026-10-24 11:30,Luton Town,Leicester City,2,1,2.150,3.700,3.000,3.25,1.975,1.875
+72341310,2026-10-24 14:00,AFC Wimbledon,Wycombe Wanderers,1,1,3.900,3.750,1.833,2.75,2.000,1.850
+72341312,2026-10-24 14:00,Blackpool FC,Mansfield Town,1,4,2.625,3.400,2.500,2.75,1.900,1.950
+72341314,2026-10-24 14:00,Bromley FC,Peterborough United,1,1,3.400,3.800,1.909,3.25,2.025,1.825
+72341316,2026-10-24 14:00,Burton Albion,Leyton Orient London,2,1,2.875,3.300,2.300,2.5,1.825,2.025
+72341318,2026-10-24 14:00,Cambridge United,Plymouth Argyle,2,3,2.300,3.400,2.875,2.75,2.000,1.850
+72341320,2026-10-24 14:00,Doncaster Rovers,Sheffield Wednesday,2,0,2.450,3.600,2.550,2.75,1.900,1.950
+72341326,2026-10-24 14:00,Notts County,Stockport County FC,1,1,4.200,3.400,1.850,2.5,1.875,1.975
+72341328,2026-10-24 14:00,Oxford United,Bradford City FC,0,0,2.300,3.300,3.000,2.5,1.875,1.975
+72341330,2026-10-24 14:00,Reading FC,Barnsley FC,2,1,1.571,4.200,4.750,3.5,2.000,1.850
+72341332,2026-10-24 14:00,Stevenage FC,Milton Keynes Dons,0,1,2.050,3.400,3.400,2.5,2.050,1.800
+74557818,2026-10-27 19:45,Oxford United,Stockport County FC,1,0,3.500,3.700,1.950,2.75,1.800,2.050
+74838878,2026-10-27 19:45,Leicester City,Wigan Athletic,3,0,1.380,4.500,7.000,3.25,2.050,1.800
+75078276,2026-10-27 19:45,Sheffield Wednesday,Cambridge United,1,1,2.000,3.800,3.500,2.75,1.925,1.925
+75365068,2026-10-27 19:45,Luton Town,Doncaster Rovers,3,1,1.444,4.750,5.750,3.25,1.875,1.975
+75768806,2026-10-27 19:45,Milton Keynes Dons,Bromley FC,4,1,1.480,4.200,6.500,2.75,1.900,1.950
+72341336,2026-10-31 12:30,Bradford City FC,Huddersfield Town,0,3,2.700,3.500,2.550,2.5,2.050,1.800
+72341340,2026-10-31 12:30,Leyton Orient London,Cambridge United,3,0,2.500,3.500,2.700,2.5,1.875,1.975
+72341348,2026-10-31 12:30,Plymouth Argyle,Reading FC,0,0,2.750,3.300,2.500,2.75,1.825,2.025
+72341334,2026-10-31 15:00,Barnsley FC,Oxford United,1,1,2.550,3.600,2.550,3,1.900,1.950
+72341338,2026-10-31 15:00,Leicester City,Stevenage FC,2,2,1.550,4.333,5.500,2.75,1.800,2.050
+72341342,2026-10-31 15:00,Mansfield Town,Notts County,0,2,1.909,3.600,3.600,2.5,1.850,2.000
+72341344,2026-10-31 15:00,Milton Keynes Dons,Doncaster Rovers,6,1,2.100,3.500,3.400,2.75,1.875,1.975
+72341346,2026-10-31 15:00,Peterborough United,Luton Town,0,2,3.250,3.750,2.000,3.25,2.025,1.825
+72341352,2026-10-31 15:00,Stockport County FC,AFC Wimbledon,2,1,1.285,5.750,9.000,3.25,2.000,1.850
+72341354,2026-10-31 15:00,Wigan Athletic,Bromley FC,3,2,1.950,3.500,3.700,2.5,1.875,1.975
+72341356,2026-10-31 15:00,Wycombe Wanderers,Burton Albion,2,0,1.500,4.200,5.750,3,1.950,1.900
+72341350,2026-11-01 14:00,Sheffield Wednesday,Blackpool FC,1,1,1.833,3.800,3.800,3,1.975,1.875
+74821224,2026-11-03 19:45,Huddersfield Town,Luton Town,1,1,1.833,3.600,3.900,3,2.050,1.800
+76029384,2026-11-03 19:45,Wigan Athletic,Mansfield Town,0,0,2.700,3.400,2.450,2.75,1.900,1.950
+74353170,2026-11-04 19:45,Oxford United,Reading FC,2,0,2.900,3.250,2.375,2.5,1.925,1.925

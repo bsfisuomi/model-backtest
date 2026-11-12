@@ -1,424 +1,424 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-51472467,2025-05-24 13:00,Eyupspor,Antalyaspor,2,1,,,
-51472461,2025-05-24 16:00,Gaziantep FK,Kasimpasa Istanbul,2,2,,,
-51472463,2025-05-24 16:00,Goztepe Izmir,Galatasaray Istanbul,0,2,,,
-51472455,2025-05-25 16:00,Istanbul Basaksehir,Adana Demirspor,2,3,,,
-51472459,2025-05-25 16:00,Besiktas Istanbul,Caykur Rizespor,1,2,,,
-51472465,2025-05-25 16:00,Konyaspor,Alanyaspor,1,2,,,
-51472469,2025-05-25 16:00,Trabzonspor,Samsunspor,2,2,,,
-51472471,2025-05-25 16:00,Kayserispor,Bodrum FK,1,1,,,
-51472457,2025-05-26 17:00,Hatayspor Antakya,Fenerbahce Istanbul,4,2,,,
-51472475,2025-05-30 17:00,Antalyaspor,Trabzonspor,0,2,,,
-51472487,2025-05-30 17:00,Kasimpasa Istanbul,Goztepe Izmir,1,2,,,
-51472489,2025-05-30 17:00,Galatasaray Istanbul,Istanbul Basaksehir,2,0,,,
-51472479,2025-05-31 13:00,Caykur Rizespor,Hatayspor Antakya,5,2,,,
-51472483,2025-05-31 13:00,Fenerbahce Istanbul,Konyaspor,2,1,,,
-51472473,2025-05-31 16:00,Alanyaspor,Sivasspor,2,0,,,
-51472485,2025-05-31 16:00,Adana Demirspor,Gaziantep FK,2,2,,,
-51472477,2025-06-01 16:00,Samsunspor,Kayserispor,2,1,,,
-51472481,2025-06-01 16:00,Bodrum FK,Besiktas Istanbul,0,4,,,
-61720412,2025-08-08 18:30,Gaziantep FK,Galatasaray Istanbul,0,3,,,
-61720408,2025-08-09 16:00,Samsunspor,Genclerbirligi SK,2,1,,,
-61720404,2025-08-09 18:30,Antalyaspor,Kasimpasa Istanbul,2,1,,,
-61720416,2025-08-10 16:00,Caykur Rizespor,Goztepe Izmir,0,3,,,
-61720402,2025-08-10 18:30,Eyupspor,Konyaspor,1,4,,,
-61720406,2025-08-11 18:30,Trabzonspor,Kocaelispor,1,0,,,
-61720432,2025-08-15 18:30,Galatasaray Istanbul,Fatih Karagumruk Istanbul,3,0,,,
-61720436,2025-08-16 16:00,Kocaelispor,Samsunspor,0,1,,,
-61720426,2025-08-16 18:30,Alanyaspor,Caykur Rizespor,0,0,,,
-61720430,2025-08-16 18:30,Goztepe Izmir,Fenerbahce Istanbul,0,0,,,
-61720422,2025-08-17 16:00,Konyaspor,Gaziantep FK,3,0,,,
-61720434,2025-08-17 16:00,Genclerbirligi SK,Antalyaspor,0,1,,,
-61720424,2025-08-17 18:30,Besiktas Istanbul,Eyupspor,2,1,,,
-61720428,2025-08-17 18:30,Istanbul Basaksehir,Kayserispor,1,1,,,
-61720420,2025-08-18 18:30,Kasimpasa Istanbul,Trabzonspor,0,1,,,
-61720446,2025-08-22 18:30,Fatih Karagumruk Istanbul,Goztepe Izmir,0,2,,,
-61720448,2025-08-23 18:30,Gaziantep FK,Genclerbirligi SK,2,1,,,
-61720450,2025-08-23 18:30,Fenerbahce Istanbul,Kocaelispor,3,1,,,
-61720442,2025-08-24 16:00,Trabzonspor,Antalyaspor,1,0,,,
-61720454,2025-08-24 18:30,Kayserispor,Galatasaray Istanbul,0,4,,,
-61720438,2025-08-25 16:00,Eyupspor,Alanyaspor,2,1,,,
-61720466,2025-08-29 18:30,Goztepe Izmir,Konyaspor,1,1,,,
-61720456,2025-08-30 16:00,Kasimpasa Istanbul,Gaziantep FK,2,3,,,
-61720472,2025-08-30 16:00,Kocaelispor,Kayserispor,1,1,,,
-61720458,2025-08-30 18:30,Antalyaspor,Fatih Karagumruk Istanbul,1,2,,,
-61720468,2025-08-30 18:30,Galatasaray Istanbul,Caykur Rizespor,3,1,,,
-61720464,2025-08-31 16:00,Istanbul Basaksehir,Eyupspor,0,0,,,
-61720470,2025-08-31 16:00,Genclerbirligi SK,Fenerbahce Istanbul,1,3,,,
-61720460,2025-08-31 18:30,Trabzonspor,Samsunspor,1,1,,,
-61720462,2025-08-31 18:30,Alanyaspor,Besiktas Istanbul,2,0,,,
-61720474,2025-09-13 14:00,Eyupspor,Galatasaray Istanbul,0,2,,,
-61720480,2025-09-13 14:00,Samsunspor,Antalyaspor,1,2,,,
-61720482,2025-09-13 14:00,Fatih Karagumruk Istanbul,Kasimpasa Istanbul,0,1,,,
-61720476,2025-09-13 17:00,Konyaspor,Alanyaspor,1,2,,,
-61720478,2025-09-13 17:00,Besiktas Istanbul,Istanbul Basaksehir,2,1,,,
-61720490,2025-09-14 14:00,Kayserispor,Goztepe Izmir,1,1,,,
-61720484,2025-09-14 16:00,Gaziantep FK,Kocaelispor,2,0,,,
-61720486,2025-09-14 16:00,Fenerbahce Istanbul,Trabzonspor,1,0,,,
-61720488,2025-09-15 17:00,Caykur Rizespor,Genclerbirligi SK,1,0,,,
-63506025,2025-09-17 17:00,Fenerbahce Istanbul,Alanyaspor,2,2,,,
-63506027,2025-09-17 17:00,Fatih Karagumruk Istanbul,Istanbul Basaksehir,0,2,,,
-63506029,2025-09-17 17:00,Samsunspor,Kasimpasa Istanbul,0,0,,,
-61720502,2025-09-19 17:00,Goztepe Izmir,Besiktas Istanbul,3,0,,,
-61720506,2025-09-20 14:00,Genclerbirligi SK,Eyupspor,1,0,,,
-61720494,2025-09-20 17:00,Antalyaspor,Kayserispor,1,1,,,
-61720496,2025-09-20 17:00,Trabzonspor,Gaziantep FK,1,1,,,
-61720500,2025-09-21 14:00,Istanbul Basaksehir,Alanyaspor,1,1,,,
-61720508,2025-09-21 14:00,Kocaelispor,Caykur Rizespor,1,1,,,
-61720492,2025-09-21 17:00,Kasimpasa Istanbul,Fenerbahce Istanbul,1,1,,,
-61720498,2025-09-21 17:00,Samsunspor,Fatih Karagumruk Istanbul,3,2,,,
-61720504,2025-09-22 17:00,Galatasaray Istanbul,Konyaspor,3,1,,,
-63745989,2025-09-24 17:00,Kayserispor,Besiktas Istanbul,0,4,,,
-61720516,2025-09-26 17:00,Alanyaspor,Galatasaray Istanbul,0,1,,,
-61720510,2025-09-27 14:00,Eyupspor,Goztepe Izmir,0,0,,,
-61720520,2025-09-27 14:00,Gaziantep FK,Samsunspor,2,2,,,
-61720518,2025-09-27 17:00,Fatih Karagumruk Istanbul,Trabzonspor,3,4,,,
-61720512,2025-09-28 14:00,Konyaspor,Istanbul Basaksehir,2,1,,,
-61720524,2025-09-28 14:00,Caykur Rizespor,Kasimpasa Istanbul,1,2,,,
-61720522,2025-09-28 17:00,Fenerbahce Istanbul,Antalyaspor,2,0,,,
-61720526,2025-09-28 17:00,Kayserispor,Genclerbirligi SK,1,1,,,
-61720514,2025-09-29 17:00,Besiktas Istanbul,Kocaelispor,3,1,,,
-61720530,2025-10-03 17:00,Antalyaspor,Caykur Rizespor,2,5,,,
-61720532,2025-10-03 17:00,Trabzonspor,Kayserispor,4,0,,,
-61720542,2025-10-04 11:30,Genclerbirligi SK,Alanyaspor,2,2,,,
-61720544,2025-10-04 14:00,Kocaelispor,Eyupspor,1,0,,,
-61720540,2025-10-04 17:00,Galatasaray Istanbul,Besiktas Istanbul,1,1,,,
-61720528,2025-10-05 11:30,Kasimpasa Istanbul,Konyaspor,1,1,,,
-61720536,2025-10-05 14:00,Fatih Karagumruk Istanbul,Gaziantep FK,0,2,,,
-61720534,2025-10-05 17:00,Samsunspor,Fenerbahce Istanbul,0,0,,,
-61720538,2025-10-05 17:00,Goztepe Izmir,Istanbul Basaksehir,1,0,,,
-61720548,2025-10-18 11:30,Konyaspor,Kocaelispor,2,3,,,
-61720550,2025-10-18 14:00,Besiktas Istanbul,Genclerbirligi SK,1,2,,,
-61720560,2025-10-18 14:00,Caykur Rizespor,Trabzonspor,1,2,,,
-61720554,2025-10-18 17:00,Istanbul Basaksehir,Galatasaray Istanbul,1,2,,,
-61720562,2025-10-19 11:30,Kayserispor,Samsunspor,1,3,,,
-61720552,2025-10-19 14:00,Alanyaspor,Goztepe Izmir,1,0,,,
-61720556,2025-10-19 14:00,Gaziantep FK,Antalyaspor,3,2,,,
-61720558,2025-10-19 17:00,Fenerbahce Istanbul,Fatih Karagumruk Istanbul,2,1,,,
-61720546,2025-10-20 17:00,Eyupspor,Kasimpasa Istanbul,2,0,,,
-64296011,2025-10-22 17:00,Konyaspor,Besiktas Istanbul,0,2,,,
-64453895,2025-10-22 17:00,Caykur Rizespor,Istanbul Basaksehir,0,0,,,
-61720572,2025-10-24 17:00,Fatih Karagumruk Istanbul,Kayserispor,2,2,,,
-61720580,2025-10-25 14:00,Kocaelispor,Alanyaspor,2,0,,,
-61720568,2025-10-25 17:00,Trabzonspor,Eyupspor,2,0,,,
-61720566,2025-10-26 11:30,Antalyaspor,Istanbul Basaksehir,0,4,,,
-61720576,2025-10-26 14:00,Galatasaray Istanbul,Goztepe Izmir,3,1,,,
-61720578,2025-10-26 14:00,Genclerbirligi SK,Konyaspor,1,2,,,
-61720564,2025-10-26 17:00,Kasimpasa Istanbul,Besiktas Istanbul,1,1,,,
-61720570,2025-10-27 17:00,Samsunspor,Caykur Rizespor,1,1,,,
-61720574,2025-10-27 17:00,Gaziantep FK,Fenerbahce Istanbul,0,4,,,
-61720590,2025-10-31 17:00,Istanbul Basaksehir,Kocaelispor,1,0,,,
-61720592,2025-11-01 14:00,Goztepe Izmir,Genclerbirligi SK,1,0,,,
-61720594,2025-11-01 17:00,Galatasaray Istanbul,Trabzonspor,0,0,,,
-61720584,2025-11-02 11:30,Konyaspor,Samsunspor,1,3,,,
-61720598,2025-11-02 14:00,Kayserispor,Kasimpasa Istanbul,3,2,,,
-61720586,2025-11-02 17:00,Besiktas Istanbul,Fenerbahce Istanbul,2,3,,,
-61720582,2025-11-03 17:00,Eyupspor,Antalyaspor,0,1,,,
-61720588,2025-11-03 17:00,Alanyaspor,Gaziantep FK,0,0,,,
-61720596,2025-11-03 17:00,Caykur Rizespor,Fatih Karagumruk Istanbul,1,0,,,
-61720616,2025-11-07 17:00,Genclerbirligi SK,Istanbul Basaksehir,2,1,,,
-61720612,2025-11-08 11:30,Gaziantep FK,Caykur Rizespor,2,2,,,
-61720606,2025-11-08 14:00,Trabzonspor,Alanyaspor,1,1,,,
-61720602,2025-11-08 17:00,Kasimpasa Istanbul,Goztepe Izmir,0,2,,,
-61720604,2025-11-08 17:00,Antalyaspor,Besiktas Istanbul,1,3,,,
-61720610,2025-11-09 11:30,Fatih Karagumruk Istanbul,Konyaspor,2,0,,,
-61720618,2025-11-09 14:00,Kocaelispor,Galatasaray Istanbul,1,0,,,
-61720608,2025-11-09 17:00,Samsunspor,Eyupspor,1,0,,,
-61720614,2025-11-09 17:00,Fenerbahce Istanbul,Kayserispor,4,2,,,
-61720636,2025-11-22 11:30,Kayserispor,Gaziantep FK,0,3,,,
-61720620,2025-11-22 14:00,Eyupspor,Fatih Karagumruk Istanbul,1,1,,,
-61720632,2025-11-22 17:00,Galatasaray Istanbul,Genclerbirligi SK,3,2,,,
-61720630,2025-11-23 11:30,Goztepe Izmir,Kocaelispor,0,0,,,
-61720624,2025-11-23 14:00,Besiktas Istanbul,Samsunspor,1,1,,,
-61720626,2025-11-23 14:00,Alanyaspor,Kasimpasa Istanbul,1,2,,,
-61720634,2025-11-23 17:00,Caykur Rizespor,Fenerbahce Istanbul,2,5,,,
-61720622,2025-11-24 17:00,Konyaspor,Antalyaspor,0,0,,,
-61720628,2025-11-24 17:00,Istanbul Basaksehir,Trabzonspor,3,4,,,
-61720654,2025-11-28 17:00,Kocaelispor,Genclerbirligi SK,1,0,,,
-61720652,2025-11-29 11:30,Caykur Rizespor,Kayserispor,0,1,,,
-61720648,2025-11-29 14:00,Gaziantep FK,Eyupspor,1,2,,,
-61720638,2025-11-29 17:00,Kasimpasa Istanbul,Istanbul Basaksehir,1,3,,,
-61720642,2025-11-29 17:00,Trabzonspor,Konyaspor,3,1,,,
-61720640,2025-11-30 14:00,Antalyaspor,Goztepe Izmir,1,2,,,
-61720646,2025-11-30 17:00,Fatih Karagumruk Istanbul,Besiktas Istanbul,0,2,,,
-61720644,2025-12-01 17:00,Samsunspor,Alanyaspor,1,1,,,
-61720650,2025-12-01 17:00,Fenerbahce Istanbul,Galatasaray Istanbul,1,1,,,
-61720668,2025-12-05 17:00,Galatasaray Istanbul,Samsunspor,3,2,,,
-61720656,2025-12-06 11:30,Eyupspor,Kayserispor,1,1,,,
-61720658,2025-12-06 14:00,Konyaspor,Caykur Rizespor,1,1,,,
-61720664,2025-12-06 17:00,Istanbul Basaksehir,Fenerbahce Istanbul,1,1,,,
-61720670,2025-12-07 11:30,Genclerbirligi SK,Fatih Karagumruk Istanbul,3,0,,,
-61720672,2025-12-07 14:00,Kocaelispor,Kasimpasa Istanbul,0,0,,,
-61720666,2025-12-07 17:00,Goztepe Izmir,Trabzonspor,1,2,,,
-61720660,2025-12-08 17:00,Besiktas Istanbul,Gaziantep FK,2,2,1.380,5.250,6.500
-61720662,2025-12-08 17:00,Alanyaspor,Antalyaspor,0,0,1.727,3.600,4.750
-61720674,2025-12-12 17:00,Kasimpasa Istanbul,Genclerbirligi SK,0,0,2.550,3.400,2.700
-61720688,2025-12-13 11:30,Caykur Rizespor,Eyupspor,3,0,1.900,3.700,3.750
-61720690,2025-12-13 14:00,Kayserispor,Alanyaspor,0,0,2.700,3.400,2.500
-61720676,2025-12-13 17:00,Antalyaspor,Galatasaray Istanbul,1,4,6.500,5.000,1.380
-61720684,2025-12-14 11:30,Gaziantep FK,Goztepe Izmir,0,1,3.400,3.250,2.150
-61720682,2025-12-14 14:00,Fatih Karagumruk Istanbul,Kocaelispor,1,1,3.700,3.000,2.150
-61720678,2025-12-14 17:00,Trabzonspor,Besiktas Istanbul,3,3,2.750,3.400,2.500
-61720680,2025-12-14 17:00,Samsunspor,Istanbul Basaksehir,0,2,2.050,3.500,3.400
-61720686,2025-12-15 17:00,Fenerbahce Istanbul,Konyaspor,4,0,1.222,7.000,10.000
-61720708,2025-12-19 17:00,Kocaelispor,Antalyaspor,2,1,1.666,3.600,5.500
-61720694,2025-12-20 11:30,Konyaspor,Kayserispor,1,1,2.050,3.500,3.300
-61720692,2025-12-20 14:00,Eyupspor,Fenerbahce Istanbul,0,3,6.500,4.750,1.444
-61720696,2025-12-20 17:00,Besiktas Istanbul,Caykur Rizespor,1,0,1.800,3.900,3.900
-61720698,2025-12-21 11:30,Alanyaspor,Fatih Karagumruk Istanbul,2,0,1.750,3.500,4.750
-61720702,2025-12-21 17:00,Goztepe Izmir,Samsunspor,2,0,2.250,2.900,3.600
-61720704,2025-12-21 17:00,Galatasaray Istanbul,Kasimpasa Istanbul,3,0,1.222,7.500,9.000
-61720700,2025-12-22 14:00,Istanbul Basaksehir,Gaziantep FK,5,1,1.666,4.100,5.000
-61720706,2025-12-22 17:00,Genclerbirligi SK,Trabzonspor,4,3,3.200,3.400,2.200
-61729958,2026-01-17 14:00,Istanbul Basaksehir,Fatih Karagumruk Istanbul,2,1,1.480,4.333,6.500
-61729960,2026-01-17 17:00,Galatasaray Istanbul,Gaziantep FK,1,1,1.222,7.000,10.000
-61729952,2026-01-18 11:30,Kasimpasa Istanbul,Antalyaspor,0,0,2.000,3.300,3.800
-61729954,2026-01-18 14:00,Kocaelispor,Trabzonspor,1,2,2.450,3.300,2.800
-61729956,2026-01-18 14:00,Genclerbirligi SK,Samsunspor,1,1,2.250,3.100,3.400
-61729962,2026-01-18 17:00,Alanyaspor,Fenerbahce Istanbul,2,3,5.000,4.200,1.571
-61729950,2026-01-19 14:00,Konyaspor,Eyupspor,1,1,1.420,4.750,6.500
-61729964,2026-01-19 17:00,Goztepe Izmir,Caykur Rizespor,3,1,2.050,3.200,3.900
-61729966,2026-01-19 17:00,Besiktas Istanbul,Kayserispor,1,0,1.400,5.000,6.500
-61729970,2026-01-23 17:00,Trabzonspor,Kasimpasa Istanbul,2,1,1.550,4.200,5.500
-61729976,2026-01-24 11:30,Kayserispor,Istanbul Basaksehir,0,3,3.300,3.500,2.100
-61729984,2026-01-24 14:00,Samsunspor,Kocaelispor,0,0,2.400,3.000,3.200
-61729980,2026-01-24 17:00,Fatih Karagumruk Istanbul,Galatasaray Istanbul,1,3,9.000,6.000,1.270
-61729972,2026-01-25 11:30,Gaziantep FK,Konyaspor,1,1,2.200,3.400,3.100
-61729974,2026-01-25 14:00,Caykur Rizespor,Alanyaspor,1,1,1.850,3.500,4.200
-61729982,2026-01-25 14:00,Antalyaspor,Genclerbirligi SK,2,1,2.750,3.300,2.550
-61729978,2026-01-25 17:00,Fenerbahce Istanbul,Goztepe Izmir,1,1,1.444,4.500,7.000
-61729968,2026-01-26 17:00,Eyupspor,Besiktas Istanbul,2,2,9.000,6.250,1.285
-61729990,2026-01-30 17:00,Antalyaspor,Trabzonspor,1,1,4.100,3.500,1.850
-61729992,2026-01-30 17:00,Kasimpasa Istanbul,Samsunspor,0,1,3.500,3.200,2.200
-61729986,2026-01-31 11:30,Alanyaspor,Eyupspor,1,3,1.571,3.800,5.750
-61730000,2026-01-31 14:00,Istanbul Basaksehir,Caykur Rizespor,2,2,1.800,3.800,4.000
-61729988,2026-01-31 17:00,Besiktas Istanbul,Konyaspor,2,1,1.480,4.500,6.000
-61729994,2026-01-31 17:00,Goztepe Izmir,Fatih Karagumruk Istanbul,2,1,1.533,3.900,6.250
-61729996,2026-02-01 14:00,Genclerbirligi SK,Gaziantep FK,2,1,2.200,3.400,3.250
-61730002,2026-02-01 17:00,Galatasaray Istanbul,Kayserispor,4,0,1.200,6.500,13.000
-61729998,2026-02-02 17:00,Kocaelispor,Fenerbahce Istanbul,0,2,5.000,3.600,1.727
-61730008,2026-02-07 11:30,Fatih Karagumruk Istanbul,Antalyaspor,1,0,2.350,3.100,3.200
-61730010,2026-02-07 17:00,Samsunspor,Trabzonspor,0,3,2.250,3.250,3.200
-61730004,2026-02-08 11:30,Eyupspor,Istanbul Basaksehir,1,2,5.000,3.700,1.700
-61730014,2026-02-08 14:00,Konyaspor,Goztepe Izmir,0,0,2.400,3.000,2.700
-61730016,2026-02-08 14:00,Caykur Rizespor,Galatasaray Istanbul,0,3,4.750,4.500,1.600
-61730012,2026-02-08 17:00,Besiktas Istanbul,Alanyaspor,2,2,1.550,4.333,5.250
-61730020,2026-02-09 14:00,Kayserispor,Kocaelispor,1,2,3.400,3.100,2.200
-61730006,2026-02-09 17:00,Gaziantep FK,Kasimpasa Istanbul,2,1,2.150,3.400,3.300
-61730018,2026-02-09 17:00,Fenerbahce Istanbul,Genclerbirligi SK,3,1,1.270,5.500,11.000
-61730022,2026-02-13 17:00,Galatasaray Istanbul,Eyupspor,5,1,1.142,7.500,17.000
-61730028,2026-02-13 17:00,Antalyaspor,Samsunspor,3,1,3.500,3.200,2.150
-61730036,2026-02-14 11:30,Genclerbirligi SK,Caykur Rizespor,2,2,2.450,3.200,2.900
-61730024,2026-02-14 14:00,Alanyaspor,Konyaspor,2,1,2.200,3.400,3.100
-61730034,2026-02-14 17:00,Trabzonspor,Fenerbahce Istanbul,2,3,3.500,3.500,2.050
-61730032,2026-02-15 11:30,Kocaelispor,Gaziantep FK,3,0,1.900,3.400,4.100
-61730038,2026-02-15 14:00,Goztepe Izmir,Kayserispor,0,0,1.666,3.500,5.250
-61730026,2026-02-15 17:00,Istanbul Basaksehir,Besiktas Istanbul,2,3,2.700,3.500,2.450
-61730030,2026-02-16 17:00,Kasimpasa Istanbul,Fatih Karagumruk Istanbul,3,2,1.950,3.500,3.700
-61730056,2026-02-20 17:00,Caykur Rizespor,Kocaelispor,2,0,2.300,3.200,3.200
-61730040,2026-02-21 10:30,Eyupspor,Genclerbirligi SK,1,0,2.900,3.500,2.300
-61730050,2026-02-21 13:00,Alanyaspor,Istanbul Basaksehir,1,2,2.900,3.300,2.400
-61730054,2026-02-21 17:00,Konyaspor,Galatasaray Istanbul,2,0,5.000,4.100,1.615
-61730044,2026-02-22 10:30,Kayserispor,Antalyaspor,1,0,1.909,3.300,4.100
-61730046,2026-02-22 13:00,Gaziantep FK,Trabzonspor,1,2,3.900,3.600,1.850
-61730048,2026-02-22 17:00,Fatih Karagumruk Istanbul,Samsunspor,0,0,2.900,3.100,2.500
-61730052,2026-02-22 17:00,Besiktas Istanbul,Goztepe Izmir,4,0,1.615,3.800,5.500
-61730042,2026-02-23 17:00,Fenerbahce Istanbul,Kasimpasa Istanbul,1,1,1.285,5.500,10.000
-61730060,2026-02-27 17:00,Istanbul Basaksehir,Konyaspor,2,0,1.727,3.600,4.750
-61730066,2026-02-27 17:00,Trabzonspor,Fatih Karagumruk Istanbul,3,1,1.480,4.333,6.000
-61730072,2026-02-28 10:30,Kasimpasa Istanbul,Caykur Rizespor,0,3,2.800,3.500,2.450
-61730062,2026-02-28 13:00,Kocaelispor,Besiktas Istanbul,0,1,3.400,3.400,2.100
-61730058,2026-02-28 17:00,Goztepe Izmir,Eyupspor,0,0,1.450,4.100,7.000
-61730064,2026-02-28 17:00,Galatasaray Istanbul,Alanyaspor,3,1,1.300,5.000,7.000
-61730074,2026-03-01 13:00,Genclerbirligi SK,Kayserispor,0,0,2.400,3.400,2.800
-61730068,2026-03-01 17:00,Samsunspor,Gaziantep FK,0,0,1.909,3.500,3.900
-61730070,2026-03-01 17:00,Antalyaspor,Fenerbahce Istanbul,2,2,6.000,4.000,1.550
-61730088,2026-03-07 13:00,Istanbul Basaksehir,Goztepe Izmir,2,1,1.850,3.300,4.333
-61730090,2026-03-07 17:00,Besiktas Istanbul,Galatasaray Istanbul,0,1,2.550,3.600,2.550
-61730080,2026-03-08 10:30,Caykur Rizespor,Antalyaspor,1,0,1.550,4.000,5.750
-61730086,2026-03-08 10:30,Gaziantep FK,Fatih Karagumruk Istanbul,1,1,2.150,3.500,3.200
-61730078,2026-03-08 13:00,Konyaspor,Kasimpasa Istanbul,1,1,1.850,3.200,4.750
-61730084,2026-03-08 17:00,Fenerbahce Istanbul,Samsunspor,3,2,1.480,4.750,6.000
-61730076,2026-03-09 13:00,Eyupspor,Kocaelispor,0,1,3.700,3.100,2.100
-61730082,2026-03-09 17:00,Kayserispor,Trabzonspor,1,3,3.500,3.600,2.000
-61730092,2026-03-09 17:00,Alanyaspor,Genclerbirligi SK,0,0,2.000,3.300,3.900
-61730104,2026-03-13 17:00,Antalyaspor,Gaziantep FK,1,4,2.300,3.300,3.100
-61730106,2026-03-13 17:00,Fatih Karagumruk Istanbul,Fenerbahce Istanbul,2,0,7.000,4.333,1.444
-61730096,2026-03-14 10:30,Kocaelispor,Konyaspor,1,2,2.300,2.875,3.500
-61730100,2026-03-14 17:00,Goztepe Izmir,Alanyaspor,2,2,2.100,3.200,3.600
-61730102,2026-03-14 17:00,Galatasaray Istanbul,Istanbul Basaksehir,3,0,1.400,5.250,6.250
-61730108,2026-03-14 17:00,Trabzonspor,Caykur Rizespor,1,0,1.850,3.800,3.800
-61730094,2026-03-15 13:00,Kasimpasa Istanbul,Eyupspor,1,0,1.900,3.600,3.900
-61730098,2026-03-15 17:00,Genclerbirligi SK,Besiktas Istanbul,0,2,5.250,4.000,1.600
-61730110,2026-03-15 17:00,Samsunspor,Kayserispor,2,1,1.950,3.500,3.900
-61730122,2026-03-17 17:00,Fenerbahce Istanbul,Gaziantep FK,4,1,1.285,5.750,7.000
-61730128,2026-03-18 13:00,Alanyaspor,Kocaelispor,5,0,1.950,3.250,4.000
-61730112,2026-03-18 17:00,Eyupspor,Trabzonspor,0,1,5.250,3.900,1.600
-61730116,2026-03-18 17:00,Istanbul Basaksehir,Antalyaspor,0,0,1.533,4.000,6.250
-61730120,2026-03-19 13:00,Kayserispor,Fatih Karagumruk Istanbul,1,0,2.100,3.400,3.300
-61730114,2026-03-19 17:00,Besiktas Istanbul,Kasimpasa Istanbul,2,1,1.333,4.750,8.500
-61730126,2026-03-19 17:00,Konyaspor,Genclerbirligi SK,1,0,1.750,3.500,4.750
-61730140,2026-04-04 11:30,Genclerbirligi SK,Goztepe Izmir,0,2,3.400,3.000,2.300
-61730146,2026-04-04 11:30,Kasimpasa Istanbul,Kayserispor,2,0,2.200,3.400,3.200
-61730136,2026-04-04 14:00,Gaziantep FK,Alanyaspor,1,1,2.750,3.400,2.450
-61730142,2026-04-04 17:00,Trabzonspor,Galatasaray Istanbul,2,1,3.300,3.500,2.100
-61730132,2026-04-05 11:30,Samsunspor,Konyaspor,2,2,2.100,3.250,3.600
-61730144,2026-04-05 11:30,Fatih Karagumruk Istanbul,Caykur Rizespor,2,1,2.875,3.500,2.350
-61730130,2026-04-05 14:00,Antalyaspor,Eyupspor,3,0,2.050,3.000,4.200
-61730134,2026-04-05 17:00,Fenerbahce Istanbul,Besiktas Istanbul,1,0,1.900,3.500,4.000
-61730138,2026-04-06 17:00,Kocaelispor,Istanbul Basaksehir,0,0,3.300,3.400,2.150
-70173470,2026-04-08 17:00,Goztepe Izmir,Galatasaray Istanbul,1,3,4.500,3.400,1.800
-70173444,2026-04-09 17:00,Caykur Rizespor,Samsunspor,4,1,2.500,3.250,2.800
-61730152,2026-04-10 17:00,Besiktas Istanbul,Antalyaspor,4,2,1.333,5.500,8.000
-61730162,2026-04-11 11:30,Istanbul Basaksehir,Genclerbirligi SK,3,0,1.571,4.100,5.250
-61730154,2026-04-11 14:00,Alanyaspor,Trabzonspor,1,1,2.900,3.300,2.350
-61730160,2026-04-11 17:00,Kayserispor,Fenerbahce Istanbul,0,4,5.750,4.500,1.480
-61730156,2026-04-12 11:30,Konyaspor,Fatih Karagumruk Istanbul,3,0,1.850,3.500,4.200
-61730150,2026-04-12 14:00,Goztepe Izmir,Kasimpasa Istanbul,3,3,1.900,3.250,4.333
-61730164,2026-04-12 17:00,Galatasaray Istanbul,Kocaelispor,1,1,1.250,5.750,12.000
-61730148,2026-04-13 17:00,Eyupspor,Samsunspor,1,2,4.200,3.400,1.850
-61730158,2026-04-13 17:00,Caykur Rizespor,Gaziantep FK,2,1,1.750,3.700,4.500
-61730168,2026-04-17 17:00,Antalyaspor,Konyaspor,0,2,2.625,3.250,2.600
-61730180,2026-04-17 17:00,Fenerbahce Istanbul,Caykur Rizespor,2,2,1.363,5.000,8.000
-61730166,2026-04-18 11:30,Fatih Karagumruk Istanbul,Eyupspor,1,2,1.666,3.600,5.250
-61730176,2026-04-18 14:00,Kocaelispor,Goztepe Izmir,1,1,2.900,3.000,2.600
-61730178,2026-04-18 17:00,Genclerbirligi SK,Galatasaray Istanbul,1,2,7.500,4.500,1.400
-61730172,2026-04-19 11:30,Kasimpasa Istanbul,Alanyaspor,1,0,2.400,3.100,3.000
-61730170,2026-04-19 14:00,Samsunspor,Besiktas Istanbul,2,1,3.000,3.700,2.150
-61730174,2026-04-19 17:00,Trabzonspor,Istanbul Basaksehir,1,1,1.833,4.100,3.600
-61730182,2026-04-20 17:00,Gaziantep FK,Kayserispor,3,0,2.150,3.400,3.250
-61730186,2026-04-24 17:00,Istanbul Basaksehir,Kasimpasa Istanbul,4,0,1.666,4.000,4.750
-61730184,2026-04-25 11:30,Eyupspor,Gaziantep FK,3,0,2.700,3.400,2.500
-61730198,2026-04-25 14:00,Kayserispor,Caykur Rizespor,2,1,2.300,3.500,2.900
-61730188,2026-04-25 17:00,Goztepe Izmir,Antalyaspor,2,0,1.615,3.700,5.750
-61730200,2026-04-26 11:30,Genclerbirligi SK,Kocaelispor,1,0,2.600,3.200,2.750
-61730196,2026-04-26 17:00,Galatasaray Istanbul,Fenerbahce Istanbul,3,0,2.050,3.300,3.600
-61730192,2026-04-27 14:00,Alanyaspor,Samsunspor,2,3,2.200,3.250,3.300
-61730190,2026-04-27 17:00,Konyaspor,Trabzonspor,3,1,3.100,3.700,2.150
-61730194,2026-04-27 17:00,Besiktas Istanbul,Fatih Karagumruk Istanbul,0,0,1.400,5.000,6.500
-61730204,2026-05-01 14:00,Caykur Rizespor,Konyaspor,3,2,1.666,3.700,4.100
-61730206,2026-05-01 17:00,Gaziantep FK,Besiktas Istanbul,1,2,3.000,3.500,2.250
-61730210,2026-05-02 17:00,Fenerbahce Istanbul,Istanbul Basaksehir,3,1,1.750,4.200,4.000
-61730212,2026-05-02 17:00,Trabzonspor,Goztepe Izmir,1,1,1.750,3.800,4.200
-61730214,2026-05-02 17:00,Samsunspor,Galatasaray Istanbul,4,1,4.333,4.333,1.666
-61730202,2026-05-03 17:00,Kayserispor,Eyupspor,1,1,1.650,3.900,5.000
-61730208,2026-05-03 17:00,Antalyaspor,Alanyaspor,0,1,2.750,3.100,2.625
-61730216,2026-05-03 17:00,Fatih Karagumruk Istanbul,Genclerbirligi SK,1,0,2.400,3.250,3.000
-61730218,2026-05-03 17:00,Kasimpasa Istanbul,Kocaelispor,1,1,1.950,3.300,4.000
-61730220,2026-05-09 17:00,Eyupspor,Caykur Rizespor,4,0,2.750,3.600,2.350
-61730222,2026-05-09 17:00,Genclerbirligi SK,Kasimpasa Istanbul,3,2,2.250,3.100,3.400
-61730224,2026-05-09 17:00,Galatasaray Istanbul,Antalyaspor,4,2,1.100,9.000,19.000
-61730226,2026-05-09 17:00,Besiktas Istanbul,Trabzonspor,1,2,1.666,4.333,4.000
-61730228,2026-05-09 17:00,Istanbul Basaksehir,Samsunspor,3,0,1.800,4.000,4.000
-61730230,2026-05-09 17:00,Kocaelispor,Fatih Karagumruk Istanbul,0,1,2.050,3.400,3.500
-61730232,2026-05-09 17:00,Goztepe Izmir,Gaziantep FK,2,1,1.550,4.333,5.250
-61730234,2026-05-09 17:00,Konyaspor,Fenerbahce Istanbul,0,3,4.500,3.900,1.666
-61730236,2026-05-09 17:00,Alanyaspor,Kayserispor,3,1,2.500,3.500,2.625
-61730242,2026-05-15 17:00,Caykur Rizespor,Besiktas Istanbul,3,2,3.000,3.750,2.150
-61730244,2026-05-16 14:00,Fatih Karagumruk Istanbul,Alanyaspor,2,1,3.200,3.300,2.200
-61730246,2026-05-16 17:00,Gaziantep FK,Istanbul Basaksehir,1,2,3.600,4.500,1.833
-61730248,2026-05-16 17:00,Samsunspor,Goztepe Izmir,3,1,3.100,3.600,2.200
-61730240,2026-05-17 14:00,Kayserispor,Konyaspor,2,1,1.800,4.100,3.900
-61730238,2026-05-17 17:00,Fenerbahce Istanbul,Eyupspor,3,3,1.444,5.000,5.750
-61730250,2026-05-17 17:00,Kasimpasa Istanbul,Galatasaray Istanbul,1,0,3.000,3.500,2.200
-61730252,2026-05-17 17:00,Trabzonspor,Genclerbirligi SK,0,3,2.625,3.400,2.600
-61730254,2026-05-17 17:00,Antalyaspor,Kocaelispor,1,0,1.750,3.800,4.200
-72723136,2026-08-14 18:30,Galatasaray Istanbul,Corum FK,2,2,1.363,5.000,7.500
-72723126,2026-08-15 16:00,Kasimpasa Istanbul,Trabzonspor,1,1,3.700,3.500,1.950
-72723134,2026-08-15 16:00,Konyaspor,Caykur Rizespor,0,1,2.350,3.400,2.900
-72723124,2026-08-15 18:30,Gaziantep FK,Alanyaspor,1,1,2.400,3.300,2.900
-72723132,2026-08-15 18:30,Genclerbirligi SK,Fenerbahce Istanbul,2,1,5.000,4.000,1.666
-72723128,2026-08-16 16:00,Istanbul Basaksehir,Kocaelispor,2,0,1.650,3.600,5.750
-72723130,2026-08-16 18:30,Amed Sportif Faaliyetler,Erzurumspor FK,3,0,2.100,3.400,3.400
-72723138,2026-08-16 18:30,Besiktas Istanbul,Eyupspor,1,0,1.300,5.250,9.000
-72723140,2026-08-17 18:30,Samsunspor,Goztepe Izmir,3,3,2.150,3.300,3.300
-72723158,2026-08-21 18:30,Erzurumspor FK,Galatasaray Istanbul,0,4,5.750,4.000,1.550
-72723142,2026-08-22 16:00,Corum FK,Kasimpasa Istanbul,0,1,1.950,3.500,3.750
-72723150,2026-08-22 16:00,Caykur Rizespor,Samsunspor,0,2,1.909,3.600,3.800
-72723154,2026-08-22 18:30,Fenerbahce Istanbul,Konyaspor,4,2,1.250,5.750,11.000
-72723144,2026-08-23 16:00,Trabzonspor,Istanbul Basaksehir,2,1,1.900,3.800,3.600
-72723146,2026-08-23 16:00,Eyupspor,Gaziantep FK,0,1,2.875,3.300,2.375
-72723148,2026-08-23 18:30,Alanyaspor,Besiktas Istanbul,1,0,4.750,3.500,1.727
-72723152,2026-08-23 18:30,Goztepe Izmir,Genclerbirligi SK,0,1,2.000,3.400,3.600
-72723156,2026-08-24 18:30,Kocaelispor,Amed Sportif Faaliyetler,2,0,2.550,3.200,2.875
-72723168,2026-08-28 18:30,Genclerbirligi SK,Erzurumspor FK,1,1,2.250,3.100,3.400
-72723170,2026-08-29 16:00,Konyaspor,Kocaelispor,1,2,1.900,3.250,4.500
-72723160,2026-08-29 18:30,Gaziantep FK,Caykur Rizespor,1,2,3.100,3.400,2.250
-72723172,2026-08-29 18:30,Galatasaray Istanbul,Goztepe Izmir,3,2,1.270,6.000,9.500
-72723162,2026-08-30 16:00,Eyupspor,Alanyaspor,2,1,3.800,3.100,2.100
-72723164,2026-08-30 18:30,Istanbul Basaksehir,Kasimpasa Istanbul,1,1,1.600,3.800,5.750
-72723176,2026-08-30 18:30,Samsunspor,Fenerbahce Istanbul,0,2,5.250,4.100,1.571
-72723166,2026-08-31 18:30,Amed Sportif Faaliyetler,Trabzonspor,2,1,3.100,3.750,2.100
-72723174,2026-08-31 18:30,Besiktas Istanbul,Corum FK,6,2,1.420,5.000,6.500
-72723182,2026-09-04 17:00,Istanbul Basaksehir,Galatasaray Istanbul,2,3,4.750,4.200,1.615
-72723194,2026-09-05 14:00,Erzurumspor FK,Konyaspor,1,0,2.300,3.200,3.000
-72723190,2026-09-05 17:00,Fenerbahce Istanbul,Besiktas Istanbul,1,2,2.200,3.100,3.200
-72723180,2026-09-06 14:00,Kasimpasa Istanbul,Amed Sportif Faaliyetler,2,2,2.500,3.200,2.700
-72723188,2026-09-06 14:00,Corum FK,Eyupspor,3,0,1.571,3.700,5.250
-72723178,2026-09-06 17:00,Trabzonspor,Genclerbirligi SK,5,0,1.400,4.750,6.500
-72723192,2026-09-06 17:00,Kocaelispor,Samsunspor,1,0,2.350,3.100,3.000
-72723184,2026-09-07 17:00,Caykur Rizespor,Alanyaspor,0,1,1.850,3.300,4.200
-72723186,2026-09-07 17:00,Goztepe Izmir,Gaziantep FK,2,4,1.833,3.400,4.000
-72723210,2026-09-11 17:00,Besiktas Istanbul,Erzurumspor FK,3,0,1.200,6.000,13.000
-72723198,2026-09-12 14:00,Eyupspor,Caykur Rizespor,0,2,4.100,3.500,1.800
-72723212,2026-09-12 14:00,Samsunspor,Corum FK,1,5,2.300,3.400,2.875
-72723200,2026-09-12 17:00,Alanyaspor,Goztepe Izmir,2,2,2.150,3.300,3.100
-72723206,2026-09-12 17:00,Konyaspor,Trabzonspor,1,0,3.700,3.600,1.900
-72723204,2026-09-13 14:00,Genclerbirligi SK,Kasimpasa Istanbul,1,2,2.250,3.250,3.100
-72723202,2026-09-13 17:00,Amed Sportif Faaliyetler,Istanbul Basaksehir,5,0,2.400,3.500,2.625
-72723208,2026-09-13 17:00,Galatasaray Istanbul,Kocaelispor,1,0,1.250,5.250,10.000
-72723196,2026-09-14 17:00,Gaziantep FK,Fenerbahce Istanbul,0,0,5.750,4.333,1.450
-72723216,2026-09-18 17:00,Kasimpasa Istanbul,Konyaspor,0,0,2.375,3.100,3.000
-72723224,2026-09-19 14:00,Corum FK,Alanyaspor,1,2,,,
-72723228,2026-09-19 14:00,Kocaelispor,Gaziantep FK,2,0,,,
-72723214,2026-09-19 17:00,Trabzonspor,Galatasaray Istanbul,4,0,3.000,3.600,2.150
-72723218,2026-09-19 17:00,Istanbul Basaksehir,Genclerbirligi SK,4,0,1.727,3.900,4.200
-72723226,2026-09-20 14:00,Fenerbahce Istanbul,Eyupspor,8,0,1.142,7.000,15.000
-72723230,2026-09-20 14:00,Erzurumspor FK,Samsunspor,1,0,2.500,3.100,2.800
-72723220,2026-09-20 17:00,Amed Sportif Faaliyetler,Besiktas Istanbul,3,2,3.750,3.700,1.833
-72723222,2026-09-20 17:00,Goztepe Izmir,Caykur Rizespor,2,2,2.375,3.400,2.800
-72723244,2026-10-09 17:00,Galatasaray Istanbul,Kasimpasa Istanbul,3,1,1.250,5.500,10.000
-72723240,2026-10-10 10:30,Genclerbirligi SK,Amed Sportif Faaliyetler,2,2,3.600,3.300,1.950
-72723236,2026-10-10 13:00,Alanyaspor,Erzurumspor FK,0,0,1.909,3.200,4.000
-72723248,2026-10-10 13:00,Samsunspor,Trabzonspor,0,3,3.400,3.700,1.950
-72723238,2026-10-10 16:00,Caykur Rizespor,Fenerbahce Istanbul,0,3,4.750,4.000,1.615
-72723242,2026-10-11 10:30,Konyaspor,Istanbul Basaksehir,0,0,2.200,3.600,2.900
-72723232,2026-10-11 13:00,Gaziantep FK,Corum FK,0,3,2.550,3.400,2.450
-72723246,2026-10-11 16:00,Besiktas Istanbul,Kocaelispor,2,1,1.142,6.250,15.000
-72723234,2026-10-12 17:00,Eyupspor,Goztepe Izmir,0,4,3.600,3.700,1.750
-72723260,2026-10-16 17:00,Corum FK,Caykur Rizespor,2,1,1.909,3.700,3.400
-72723266,2026-10-17 10:30,Erzurumspor FK,Eyupspor,2,0,1.600,3.600,5.500
-72723256,2026-10-17 13:00,Amed Sportif Faaliyetler,Konyaspor,1,0,1.800,3.400,4.100
-72723258,2026-10-17 13:00,Genclerbirligi SK,Galatasaray Istanbul,0,1,7.500,5.250,1.300
-72723262,2026-10-17 16:00,Fenerbahce Istanbul,Alanyaspor,3,0,1.270,5.250,8.500
-72723252,2026-10-18 10:30,Kasimpasa Istanbul,Samsunspor,4,1,2.450,3.250,2.625
-72723264,2026-10-18 13:00,Kocaelispor,Goztepe Izmir,1,2,2.750,3.250,2.450
-72723254,2026-10-18 16:00,Istanbul Basaksehir,Gaziantep FK,2,1,1.727,3.900,4.000
-72723250,2026-10-19 17:00,Trabzonspor,Besiktas Istanbul,2,0,2.550,3.600,2.375
-72723272,2026-10-23 17:00,Alanyaspor,Kocaelispor,1,2,2.100,3.100,3.500
-72723270,2026-10-24 10:30,Eyupspor,Kasimpasa Istanbul,0,1,5.000,3.600,1.666
-72723268,2026-10-24 13:00,Gaziantep FK,Erzurumspor FK,1,3,2.100,3.250,3.400
-72723284,2026-10-24 16:00,Samsunspor,Amed Sportif Faaliyetler,1,2,2.900,3.400,2.250
-72723278,2026-10-25 13:00,Konyaspor,Genclerbirligi SK,2,0,1.800,3.500,4.200
-72723276,2026-10-25 16:00,Goztepe Izmir,Corum FK,2,0,2.200,3.500,2.900
-72723274,2026-10-26 16:00,Caykur Rizespor,Trabzonspor,3,4,4.100,3.800,1.833
-72723282,2026-10-26 16:00,Besiktas Istanbul,Istanbul Basaksehir,2,0,1.380,5.000,7.000
-72723280,2026-10-26 18:30,Galatasaray Istanbul,Fenerbahce Istanbul,2,1,1.950,4.000,3.400
-72723296,2026-10-30 17:00,Konyaspor,Galatasaray Istanbul,0,4,5.000,4.500,1.533
-72723302,2026-10-31 10:30,Erzurumspor FK,Corum FK,1,3,2.700,3.250,2.450
-72723300,2026-10-31 13:00,Kocaelispor,Caykur Rizespor,0,0,2.375,3.400,2.700
-72723298,2026-10-31 16:00,Fenerbahce Istanbul,Goztepe Izmir,1,2,1.480,4.500,5.500
-72723292,2026-11-01 10:30,Amed Sportif Faaliyetler,Eyupspor,5,1,1.300,5.500,8.500
-72723286,2026-11-01 13:00,Trabzonspor,Gaziantep FK,2,0,1.222,6.500,8.000
-72723290,2026-11-01 13:00,Istanbul Basaksehir,Samsunspor,5,2,1.750,3.700,4.100
-72723288,2026-11-01 16:00,Kasimpasa Istanbul,Besiktas Istanbul,2,2,4.750,4.500,1.533
-72723294,2026-11-02 17:00,Genclerbirligi SK,Alanyaspor,5,0,2.550,3.250,2.550
-72723304,2026-11-06 17:00,Gaziantep FK,Kasimpasa Istanbul,0,2,2.400,3.500,2.625
-72723306,2026-11-07 10:30,Eyupspor,Kocaelispor,0,2,4.100,3.300,1.833
-72723320,2026-11-07 13:00,Samsunspor,Konyaspor,1,0,2.450,3.300,2.700
-72723312,2026-11-07 16:00,Goztepe Izmir,Istanbul Basaksehir,1,2,2.000,3.500,3.400
-72723316,2026-11-07 16:00,Galatasaray Istanbul,Amed Sportif Faaliyetler,4,3,1.400,4.500,6.500
-72723310,2026-11-08 10:30,Caykur Rizespor,Erzurumspor FK,2,1,1.833,3.300,4.000
-72723314,2026-11-08 13:00,Corum FK,Fenerbahce Istanbul,0,5,3.400,3.600,1.900
-72723308,2026-11-08 15:30,Alanyaspor,Trabzonspor,0,2,4.750,3.800,1.615
-72723318,2026-11-08 18:00,Besiktas Istanbul,Genclerbirligi SK,3,0,1.166,7.500,13.000
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+51472467,2025-05-24 13:00,Eyupspor,Antalyaspor,2,1,,,,,,
+51472461,2025-05-24 16:00,Gaziantep FK,Kasimpasa Istanbul,2,2,,,,,,
+51472463,2025-05-24 16:00,Goztepe Izmir,Galatasaray Istanbul,0,2,,,,,,
+51472455,2025-05-25 16:00,Istanbul Basaksehir,Adana Demirspor,2,3,,,,,,
+51472459,2025-05-25 16:00,Besiktas Istanbul,Caykur Rizespor,1,2,,,,,,
+51472465,2025-05-25 16:00,Konyaspor,Alanyaspor,1,2,,,,,,
+51472469,2025-05-25 16:00,Trabzonspor,Samsunspor,2,2,,,,,,
+51472471,2025-05-25 16:00,Kayserispor,Bodrum FK,1,1,,,,,,
+51472457,2025-05-26 17:00,Hatayspor Antakya,Fenerbahce Istanbul,4,2,,,,,,
+51472475,2025-05-30 17:00,Antalyaspor,Trabzonspor,0,2,,,,,,
+51472487,2025-05-30 17:00,Kasimpasa Istanbul,Goztepe Izmir,1,2,,,,,,
+51472489,2025-05-30 17:00,Galatasaray Istanbul,Istanbul Basaksehir,2,0,,,,,,
+51472479,2025-05-31 13:00,Caykur Rizespor,Hatayspor Antakya,5,2,,,,,,
+51472483,2025-05-31 13:00,Fenerbahce Istanbul,Konyaspor,2,1,,,,,,
+51472473,2025-05-31 16:00,Alanyaspor,Sivasspor,2,0,,,,,,
+51472485,2025-05-31 16:00,Adana Demirspor,Gaziantep FK,2,2,,,,,,
+51472477,2025-06-01 16:00,Samsunspor,Kayserispor,2,1,,,,,,
+51472481,2025-06-01 16:00,Bodrum FK,Besiktas Istanbul,0,4,,,,,,
+61720412,2025-08-08 18:30,Gaziantep FK,Galatasaray Istanbul,0,3,,,,,,
+61720408,2025-08-09 16:00,Samsunspor,Genclerbirligi SK,2,1,,,,,,
+61720404,2025-08-09 18:30,Antalyaspor,Kasimpasa Istanbul,2,1,,,,,,
+61720416,2025-08-10 16:00,Caykur Rizespor,Goztepe Izmir,0,3,,,,,,
+61720402,2025-08-10 18:30,Eyupspor,Konyaspor,1,4,,,,,,
+61720406,2025-08-11 18:30,Trabzonspor,Kocaelispor,1,0,,,,,,
+61720432,2025-08-15 18:30,Galatasaray Istanbul,Fatih Karagumruk Istanbul,3,0,,,,,,
+61720436,2025-08-16 16:00,Kocaelispor,Samsunspor,0,1,,,,,,
+61720426,2025-08-16 18:30,Alanyaspor,Caykur Rizespor,0,0,,,,,,
+61720430,2025-08-16 18:30,Goztepe Izmir,Fenerbahce Istanbul,0,0,,,,,,
+61720422,2025-08-17 16:00,Konyaspor,Gaziantep FK,3,0,,,,,,
+61720434,2025-08-17 16:00,Genclerbirligi SK,Antalyaspor,0,1,,,,,,
+61720424,2025-08-17 18:30,Besiktas Istanbul,Eyupspor,2,1,,,,,,
+61720428,2025-08-17 18:30,Istanbul Basaksehir,Kayserispor,1,1,,,,,,
+61720420,2025-08-18 18:30,Kasimpasa Istanbul,Trabzonspor,0,1,,,,,,
+61720446,2025-08-22 18:30,Fatih Karagumruk Istanbul,Goztepe Izmir,0,2,,,,,,
+61720448,2025-08-23 18:30,Gaziantep FK,Genclerbirligi SK,2,1,,,,,,
+61720450,2025-08-23 18:30,Fenerbahce Istanbul,Kocaelispor,3,1,,,,,,
+61720442,2025-08-24 16:00,Trabzonspor,Antalyaspor,1,0,,,,,,
+61720454,2025-08-24 18:30,Kayserispor,Galatasaray Istanbul,0,4,,,,,,
+61720438,2025-08-25 16:00,Eyupspor,Alanyaspor,2,1,,,,,,
+61720466,2025-08-29 18:30,Goztepe Izmir,Konyaspor,1,1,,,,,,
+61720456,2025-08-30 16:00,Kasimpasa Istanbul,Gaziantep FK,2,3,,,,,,
+61720472,2025-08-30 16:00,Kocaelispor,Kayserispor,1,1,,,,,,
+61720458,2025-08-30 18:30,Antalyaspor,Fatih Karagumruk Istanbul,1,2,,,,,,
+61720468,2025-08-30 18:30,Galatasaray Istanbul,Caykur Rizespor,3,1,,,,,,
+61720464,2025-08-31 16:00,Istanbul Basaksehir,Eyupspor,0,0,,,,,,
+61720470,2025-08-31 16:00,Genclerbirligi SK,Fenerbahce Istanbul,1,3,,,,,,
+61720460,2025-08-31 18:30,Trabzonspor,Samsunspor,1,1,,,,,,
+61720462,2025-08-31 18:30,Alanyaspor,Besiktas Istanbul,2,0,,,,,,
+61720474,2025-09-13 14:00,Eyupspor,Galatasaray Istanbul,0,2,,,,,,
+61720480,2025-09-13 14:00,Samsunspor,Antalyaspor,1,2,,,,,,
+61720482,2025-09-13 14:00,Fatih Karagumruk Istanbul,Kasimpasa Istanbul,0,1,,,,,,
+61720476,2025-09-13 17:00,Konyaspor,Alanyaspor,1,2,,,,,,
+61720478,2025-09-13 17:00,Besiktas Istanbul,Istanbul Basaksehir,2,1,,,,,,
+61720490,2025-09-14 14:00,Kayserispor,Goztepe Izmir,1,1,,,,,,
+61720484,2025-09-14 16:00,Gaziantep FK,Kocaelispor,2,0,,,,,,
+61720486,2025-09-14 16:00,Fenerbahce Istanbul,Trabzonspor,1,0,,,,,,
+61720488,2025-09-15 17:00,Caykur Rizespor,Genclerbirligi SK,1,0,,,,,,
+63506025,2025-09-17 17:00,Fenerbahce Istanbul,Alanyaspor,2,2,,,,,,
+63506027,2025-09-17 17:00,Fatih Karagumruk Istanbul,Istanbul Basaksehir,0,2,,,,,,
+63506029,2025-09-17 17:00,Samsunspor,Kasimpasa Istanbul,0,0,,,,,,
+61720502,2025-09-19 17:00,Goztepe Izmir,Besiktas Istanbul,3,0,,,,,,
+61720506,2025-09-20 14:00,Genclerbirligi SK,Eyupspor,1,0,,,,,,
+61720494,2025-09-20 17:00,Antalyaspor,Kayserispor,1,1,,,,,,
+61720496,2025-09-20 17:00,Trabzonspor,Gaziantep FK,1,1,,,,,,
+61720500,2025-09-21 14:00,Istanbul Basaksehir,Alanyaspor,1,1,,,,,,
+61720508,2025-09-21 14:00,Kocaelispor,Caykur Rizespor,1,1,,,,,,
+61720492,2025-09-21 17:00,Kasimpasa Istanbul,Fenerbahce Istanbul,1,1,,,,,,
+61720498,2025-09-21 17:00,Samsunspor,Fatih Karagumruk Istanbul,3,2,,,,,,
+61720504,2025-09-22 17:00,Galatasaray Istanbul,Konyaspor,3,1,,,,,,
+63745989,2025-09-24 17:00,Kayserispor,Besiktas Istanbul,0,4,,,,,,
+61720516,2025-09-26 17:00,Alanyaspor,Galatasaray Istanbul,0,1,,,,,,
+61720510,2025-09-27 14:00,Eyupspor,Goztepe Izmir,0,0,,,,,,
+61720520,2025-09-27 14:00,Gaziantep FK,Samsunspor,2,2,,,,,,
+61720518,2025-09-27 17:00,Fatih Karagumruk Istanbul,Trabzonspor,3,4,,,,,,
+61720512,2025-09-28 14:00,Konyaspor,Istanbul Basaksehir,2,1,,,,,,
+61720524,2025-09-28 14:00,Caykur Rizespor,Kasimpasa Istanbul,1,2,,,,,,
+61720522,2025-09-28 17:00,Fenerbahce Istanbul,Antalyaspor,2,0,,,,,,
+61720526,2025-09-28 17:00,Kayserispor,Genclerbirligi SK,1,1,,,,,,
+61720514,2025-09-29 17:00,Besiktas Istanbul,Kocaelispor,3,1,,,,,,
+61720530,2025-10-03 17:00,Antalyaspor,Caykur Rizespor,2,5,,,,,,
+61720532,2025-10-03 17:00,Trabzonspor,Kayserispor,4,0,,,,,,
+61720542,2025-10-04 11:30,Genclerbirligi SK,Alanyaspor,2,2,,,,,,
+61720544,2025-10-04 14:00,Kocaelispor,Eyupspor,1,0,,,,,,
+61720540,2025-10-04 17:00,Galatasaray Istanbul,Besiktas Istanbul,1,1,,,,,,
+61720528,2025-10-05 11:30,Kasimpasa Istanbul,Konyaspor,1,1,,,,,,
+61720536,2025-10-05 14:00,Fatih Karagumruk Istanbul,Gaziantep FK,0,2,,,,,,
+61720534,2025-10-05 17:00,Samsunspor,Fenerbahce Istanbul,0,0,,,,,,
+61720538,2025-10-05 17:00,Goztepe Izmir,Istanbul Basaksehir,1,0,,,,,,
+61720548,2025-10-18 11:30,Konyaspor,Kocaelispor,2,3,,,,,,
+61720550,2025-10-18 14:00,Besiktas Istanbul,Genclerbirligi SK,1,2,,,,,,
+61720560,2025-10-18 14:00,Caykur Rizespor,Trabzonspor,1,2,,,,,,
+61720554,2025-10-18 17:00,Istanbul Basaksehir,Galatasaray Istanbul,1,2,,,,,,
+61720562,2025-10-19 11:30,Kayserispor,Samsunspor,1,3,,,,,,
+61720552,2025-10-19 14:00,Alanyaspor,Goztepe Izmir,1,0,,,,,,
+61720556,2025-10-19 14:00,Gaziantep FK,Antalyaspor,3,2,,,,,,
+61720558,2025-10-19 17:00,Fenerbahce Istanbul,Fatih Karagumruk Istanbul,2,1,,,,,,
+61720546,2025-10-20 17:00,Eyupspor,Kasimpasa Istanbul,2,0,,,,,,
+64296011,2025-10-22 17:00,Konyaspor,Besiktas Istanbul,0,2,,,,,,
+64453895,2025-10-22 17:00,Caykur Rizespor,Istanbul Basaksehir,0,0,,,,,,
+61720572,2025-10-24 17:00,Fatih Karagumruk Istanbul,Kayserispor,2,2,,,,,,
+61720580,2025-10-25 14:00,Kocaelispor,Alanyaspor,2,0,,,,,,
+61720568,2025-10-25 17:00,Trabzonspor,Eyupspor,2,0,,,,,,
+61720566,2025-10-26 11:30,Antalyaspor,Istanbul Basaksehir,0,4,,,,,,
+61720576,2025-10-26 14:00,Galatasaray Istanbul,Goztepe Izmir,3,1,,,,,,
+61720578,2025-10-26 14:00,Genclerbirligi SK,Konyaspor,1,2,,,,,,
+61720564,2025-10-26 17:00,Kasimpasa Istanbul,Besiktas Istanbul,1,1,,,,,,
+61720570,2025-10-27 17:00,Samsunspor,Caykur Rizespor,1,1,,,,,,
+61720574,2025-10-27 17:00,Gaziantep FK,Fenerbahce Istanbul,0,4,,,,,,
+61720590,2025-10-31 17:00,Istanbul Basaksehir,Kocaelispor,1,0,,,,,,
+61720592,2025-11-01 14:00,Goztepe Izmir,Genclerbirligi SK,1,0,,,,,,
+61720594,2025-11-01 17:00,Galatasaray Istanbul,Trabzonspor,0,0,,,,,,
+61720584,2025-11-02 11:30,Konyaspor,Samsunspor,1,3,,,,,,
+61720598,2025-11-02 14:00,Kayserispor,Kasimpasa Istanbul,3,2,,,,,,
+61720586,2025-11-02 17:00,Besiktas Istanbul,Fenerbahce Istanbul,2,3,,,,,,
+61720582,2025-11-03 17:00,Eyupspor,Antalyaspor,0,1,,,,,,
+61720588,2025-11-03 17:00,Alanyaspor,Gaziantep FK,0,0,,,,,,
+61720596,2025-11-03 17:00,Caykur Rizespor,Fatih Karagumruk Istanbul,1,0,,,,,,
+61720616,2025-11-07 17:00,Genclerbirligi SK,Istanbul Basaksehir,2,1,,,,,,
+61720612,2025-11-08 11:30,Gaziantep FK,Caykur Rizespor,2,2,,,,,,
+61720606,2025-11-08 14:00,Trabzonspor,Alanyaspor,1,1,,,,,,
+61720602,2025-11-08 17:00,Kasimpasa Istanbul,Goztepe Izmir,0,2,,,,,,
+61720604,2025-11-08 17:00,Antalyaspor,Besiktas Istanbul,1,3,,,,,,
+61720610,2025-11-09 11:30,Fatih Karagumruk Istanbul,Konyaspor,2,0,,,,,,
+61720618,2025-11-09 14:00,Kocaelispor,Galatasaray Istanbul,1,0,,,,,,
+61720608,2025-11-09 17:00,Samsunspor,Eyupspor,1,0,,,,,,
+61720614,2025-11-09 17:00,Fenerbahce Istanbul,Kayserispor,4,2,,,,,,
+61720636,2025-11-22 11:30,Kayserispor,Gaziantep FK,0,3,,,,,,
+61720620,2025-11-22 14:00,Eyupspor,Fatih Karagumruk Istanbul,1,1,,,,,,
+61720632,2025-11-22 17:00,Galatasaray Istanbul,Genclerbirligi SK,3,2,,,,,,
+61720630,2025-11-23 11:30,Goztepe Izmir,Kocaelispor,0,0,,,,,,
+61720624,2025-11-23 14:00,Besiktas Istanbul,Samsunspor,1,1,,,,,,
+61720626,2025-11-23 14:00,Alanyaspor,Kasimpasa Istanbul,1,2,,,,,,
+61720634,2025-11-23 17:00,Caykur Rizespor,Fenerbahce Istanbul,2,5,,,,,,
+61720622,2025-11-24 17:00,Konyaspor,Antalyaspor,0,0,,,,,,
+61720628,2025-11-24 17:00,Istanbul Basaksehir,Trabzonspor,3,4,,,,,,
+61720654,2025-11-28 17:00,Kocaelispor,Genclerbirligi SK,1,0,,,,,,
+61720652,2025-11-29 11:30,Caykur Rizespor,Kayserispor,0,1,,,,,,
+61720648,2025-11-29 14:00,Gaziantep FK,Eyupspor,1,2,,,,,,
+61720638,2025-11-29 17:00,Kasimpasa Istanbul,Istanbul Basaksehir,1,3,,,,,,
+61720642,2025-11-29 17:00,Trabzonspor,Konyaspor,3,1,,,,,,
+61720640,2025-11-30 14:00,Antalyaspor,Goztepe Izmir,1,2,,,,,,
+61720646,2025-11-30 17:00,Fatih Karagumruk Istanbul,Besiktas Istanbul,0,2,,,,,,
+61720644,2025-12-01 17:00,Samsunspor,Alanyaspor,1,1,,,,,,
+61720650,2025-12-01 17:00,Fenerbahce Istanbul,Galatasaray Istanbul,1,1,,,,,,
+61720668,2025-12-05 17:00,Galatasaray Istanbul,Samsunspor,3,2,,,,,,
+61720656,2025-12-06 11:30,Eyupspor,Kayserispor,1,1,,,,,,
+61720658,2025-12-06 14:00,Konyaspor,Caykur Rizespor,1,1,,,,,,
+61720664,2025-12-06 17:00,Istanbul Basaksehir,Fenerbahce Istanbul,1,1,,,,,,
+61720670,2025-12-07 11:30,Genclerbirligi SK,Fatih Karagumruk Istanbul,3,0,,,,,,
+61720672,2025-12-07 14:00,Kocaelispor,Kasimpasa Istanbul,0,0,,,,,,
+61720666,2025-12-07 17:00,Goztepe Izmir,Trabzonspor,1,2,,,,,,
+61720660,2025-12-08 17:00,Besiktas Istanbul,Gaziantep FK,2,2,1.380,5.250,6.500,3.25,1.950,1.850
+61720662,2025-12-08 17:00,Alanyaspor,Antalyaspor,0,0,1.727,3.600,4.750,2.5,1.950,1.850
+61720674,2025-12-12 17:00,Kasimpasa Istanbul,Genclerbirligi SK,0,0,2.550,3.400,2.700,2.25,1.900,1.900
+61720688,2025-12-13 11:30,Caykur Rizespor,Eyupspor,3,0,1.900,3.700,3.750,2.75,1.900,1.900
+61720690,2025-12-13 14:00,Kayserispor,Alanyaspor,0,0,2.700,3.400,2.500,2.5,1.975,1.825
+61720676,2025-12-13 17:00,Antalyaspor,Galatasaray Istanbul,1,4,6.500,5.000,1.380,3.25,1.800,2.000
+61720684,2025-12-14 11:30,Gaziantep FK,Goztepe Izmir,0,1,3.400,3.250,2.150,2.5,2.025,1.775
+61720682,2025-12-14 14:00,Fatih Karagumruk Istanbul,Kocaelispor,1,1,3.700,3.000,2.150,2.25,2.025,1.775
+61720678,2025-12-14 17:00,Trabzonspor,Besiktas Istanbul,3,3,2.750,3.400,2.500,2.75,1.900,1.900
+61720680,2025-12-14 17:00,Samsunspor,Istanbul Basaksehir,0,2,2.050,3.500,3.400,2.5,1.800,2.000
+61720686,2025-12-15 17:00,Fenerbahce Istanbul,Konyaspor,4,0,1.222,7.000,10.000,3.25,1.925,1.875
+61720708,2025-12-19 17:00,Kocaelispor,Antalyaspor,2,1,1.666,3.600,5.500,2.25,2.050,1.750
+61720694,2025-12-20 11:30,Konyaspor,Kayserispor,1,1,2.050,3.500,3.300,2.75,1.875,1.925
+61720692,2025-12-20 14:00,Eyupspor,Fenerbahce Istanbul,0,3,6.500,4.750,1.444,3,1.825,1.975
+61720696,2025-12-20 17:00,Besiktas Istanbul,Caykur Rizespor,1,0,1.800,3.900,3.900,3,1.875,1.925
+61720698,2025-12-21 11:30,Alanyaspor,Fatih Karagumruk Istanbul,2,0,1.750,3.500,4.750,2.5,1.800,2.000
+61720702,2025-12-21 17:00,Goztepe Izmir,Samsunspor,2,0,2.250,2.900,3.600,2,1.950,1.850
+61720704,2025-12-21 17:00,Galatasaray Istanbul,Kasimpasa Istanbul,3,0,1.222,7.500,9.000,3.5,1.825,1.975
+61720700,2025-12-22 14:00,Istanbul Basaksehir,Gaziantep FK,5,1,1.666,4.100,5.000,3,1.975,1.825
+61720706,2025-12-22 17:00,Genclerbirligi SK,Trabzonspor,4,3,3.200,3.400,2.200,2.5,1.850,1.950
+61729958,2026-01-17 14:00,Istanbul Basaksehir,Fatih Karagumruk Istanbul,2,1,1.480,4.333,6.500,2.75,1.850,1.950
+61729960,2026-01-17 17:00,Galatasaray Istanbul,Gaziantep FK,1,1,1.222,7.000,10.000,3.5,1.875,1.925
+61729952,2026-01-18 11:30,Kasimpasa Istanbul,Antalyaspor,0,0,2.000,3.300,3.800,2.25,1.800,2.000
+61729954,2026-01-18 14:00,Kocaelispor,Trabzonspor,1,2,2.450,3.300,2.800,2.25,1.800,2.000
+61729956,2026-01-18 14:00,Genclerbirligi SK,Samsunspor,1,1,2.250,3.100,3.400,2.25,1.975,1.825
+61729962,2026-01-18 17:00,Alanyaspor,Fenerbahce Istanbul,2,3,5.000,4.200,1.571,2.5,1.950,1.850
+61729950,2026-01-19 14:00,Konyaspor,Eyupspor,1,1,1.420,4.750,6.500,2.5,1.925,1.875
+61729964,2026-01-19 17:00,Goztepe Izmir,Caykur Rizespor,3,1,2.050,3.200,3.900,2.25,2.000,1.800
+61729966,2026-01-19 17:00,Besiktas Istanbul,Kayserispor,1,0,1.400,5.000,6.500,3.25,1.850,1.950
+61729970,2026-01-23 17:00,Trabzonspor,Kasimpasa Istanbul,2,1,1.550,4.200,5.500,3,1.950,1.850
+61729976,2026-01-24 11:30,Kayserispor,Istanbul Basaksehir,0,3,3.300,3.500,2.100,2.75,2.000,1.800
+61729984,2026-01-24 14:00,Samsunspor,Kocaelispor,0,0,2.400,3.000,3.200,2,2.025,1.775
+61729980,2026-01-24 17:00,Fatih Karagumruk Istanbul,Galatasaray Istanbul,1,3,9.000,6.000,1.270,3.25,1.875,1.925
+61729972,2026-01-25 11:30,Gaziantep FK,Konyaspor,1,1,2.200,3.400,3.100,2.75,1.975,1.825
+61729974,2026-01-25 14:00,Caykur Rizespor,Alanyaspor,1,1,1.850,3.500,4.200,2.5,2.000,1.800
+61729982,2026-01-25 14:00,Antalyaspor,Genclerbirligi SK,2,1,2.750,3.300,2.550,2.25,1.900,1.900
+61729978,2026-01-25 17:00,Fenerbahce Istanbul,Goztepe Izmir,1,1,1.444,4.500,7.000,2.75,1.950,1.850
+61729968,2026-01-26 17:00,Eyupspor,Besiktas Istanbul,2,2,9.000,6.250,1.285,3.25,1.825,1.975
+61729990,2026-01-30 17:00,Antalyaspor,Trabzonspor,1,1,4.100,3.500,1.850,2.5,1.900,1.900
+61729992,2026-01-30 17:00,Kasimpasa Istanbul,Samsunspor,0,1,3.500,3.200,2.200,2.25,1.900,1.900
+61729986,2026-01-31 11:30,Alanyaspor,Eyupspor,1,3,1.571,3.800,5.750,2.75,2.000,1.800
+61730000,2026-01-31 14:00,Istanbul Basaksehir,Caykur Rizespor,2,2,1.800,3.800,4.000,2.75,1.950,1.850
+61729988,2026-01-31 17:00,Besiktas Istanbul,Konyaspor,2,1,1.480,4.500,6.000,3,1.775,2.025
+61729994,2026-01-31 17:00,Goztepe Izmir,Fatih Karagumruk Istanbul,2,1,1.533,3.900,6.250,2.5,1.975,1.825
+61729996,2026-02-01 14:00,Genclerbirligi SK,Gaziantep FK,2,1,2.200,3.400,3.250,2.75,2.000,1.800
+61730002,2026-02-01 17:00,Galatasaray Istanbul,Kayserispor,4,0,1.200,6.500,13.000,3.5,1.900,1.900
+61729998,2026-02-02 17:00,Kocaelispor,Fenerbahce Istanbul,0,2,5.000,3.600,1.727,2.5,1.975,1.825
+61730008,2026-02-07 11:30,Fatih Karagumruk Istanbul,Antalyaspor,1,0,2.350,3.100,3.200,2.25,2.025,1.775
+61730010,2026-02-07 17:00,Samsunspor,Trabzonspor,0,3,2.250,3.250,3.200,2.5,1.950,1.850
+61730004,2026-02-08 11:30,Eyupspor,Istanbul Basaksehir,1,2,5.000,3.700,1.700,2.75,1.775,2.025
+61730014,2026-02-08 14:00,Konyaspor,Goztepe Izmir,0,0,2.400,3.000,2.700,2.25,1.950,1.850
+61730016,2026-02-08 14:00,Caykur Rizespor,Galatasaray Istanbul,0,3,4.750,4.500,1.600,3,2.025,1.775
+61730012,2026-02-08 17:00,Besiktas Istanbul,Alanyaspor,2,2,1.550,4.333,5.250,3,2.025,1.775
+61730020,2026-02-09 14:00,Kayserispor,Kocaelispor,1,2,3.400,3.100,2.200,2.25,1.975,1.825
+61730006,2026-02-09 17:00,Gaziantep FK,Kasimpasa Istanbul,2,1,2.150,3.400,3.300,2.5,1.825,1.975
+61730018,2026-02-09 17:00,Fenerbahce Istanbul,Genclerbirligi SK,3,1,1.270,5.500,11.000,3,1.900,1.900
+61730022,2026-02-13 17:00,Galatasaray Istanbul,Eyupspor,5,1,1.142,7.500,17.000,3.75,1.900,1.900
+61730028,2026-02-13 17:00,Antalyaspor,Samsunspor,3,1,3.500,3.200,2.150,2.25,1.900,1.900
+61730036,2026-02-14 11:30,Genclerbirligi SK,Caykur Rizespor,2,2,2.450,3.200,2.900,2.5,2.025,1.775
+61730024,2026-02-14 14:00,Alanyaspor,Konyaspor,2,1,2.200,3.400,3.100,2.5,1.975,1.825
+61730034,2026-02-14 17:00,Trabzonspor,Fenerbahce Istanbul,2,3,3.500,3.500,2.050,2.5,1.975,1.825
+61730032,2026-02-15 11:30,Kocaelispor,Gaziantep FK,3,0,1.900,3.400,4.100,2.25,1.825,1.975
+61730038,2026-02-15 14:00,Goztepe Izmir,Kayserispor,0,0,1.666,3.500,5.250,2.25,1.900,1.900
+61730026,2026-02-15 17:00,Istanbul Basaksehir,Besiktas Istanbul,2,3,2.700,3.500,2.450,2.75,1.850,1.950
+61730030,2026-02-16 17:00,Kasimpasa Istanbul,Fatih Karagumruk Istanbul,3,2,1.950,3.500,3.700,2.25,1.850,1.950
+61730056,2026-02-20 17:00,Caykur Rizespor,Kocaelispor,2,0,2.300,3.200,3.200,2.25,1.825,1.975
+61730040,2026-02-21 10:30,Eyupspor,Genclerbirligi SK,1,0,2.900,3.500,2.300,2.5,2.000,1.800
+61730050,2026-02-21 13:00,Alanyaspor,Istanbul Basaksehir,1,2,2.900,3.300,2.400,2.5,1.825,1.975
+61730054,2026-02-21 17:00,Konyaspor,Galatasaray Istanbul,2,0,5.000,4.100,1.615,2.75,1.825,1.975
+61730044,2026-02-22 10:30,Kayserispor,Antalyaspor,1,0,1.909,3.300,4.100,2.25,1.825,1.975
+61730046,2026-02-22 13:00,Gaziantep FK,Trabzonspor,1,2,3.900,3.600,1.850,2.75,1.900,1.900
+61730048,2026-02-22 17:00,Fatih Karagumruk Istanbul,Samsunspor,0,0,2.900,3.100,2.500,2.25,1.950,1.850
+61730052,2026-02-22 17:00,Besiktas Istanbul,Goztepe Izmir,4,0,1.615,3.800,5.500,2.75,2.000,1.800
+61730042,2026-02-23 17:00,Fenerbahce Istanbul,Kasimpasa Istanbul,1,1,1.285,5.500,10.000,3,2.000,1.800
+61730060,2026-02-27 17:00,Istanbul Basaksehir,Konyaspor,2,0,1.727,3.600,4.750,2.75,1.800,2.000
+61730066,2026-02-27 17:00,Trabzonspor,Fatih Karagumruk Istanbul,3,1,1.480,4.333,6.000,2.75,1.900,1.900
+61730072,2026-02-28 10:30,Kasimpasa Istanbul,Caykur Rizespor,0,3,2.800,3.500,2.450,2.5,1.900,1.900
+61730062,2026-02-28 13:00,Kocaelispor,Besiktas Istanbul,0,1,3.400,3.400,2.100,2.5,1.975,1.825
+61730058,2026-02-28 17:00,Goztepe Izmir,Eyupspor,0,0,1.450,4.100,7.000,2.25,1.775,2.025
+61730064,2026-02-28 17:00,Galatasaray Istanbul,Alanyaspor,3,1,1.300,5.000,7.000,3.25,1.775,2.025
+61730074,2026-03-01 13:00,Genclerbirligi SK,Kayserispor,0,0,2.400,3.400,2.800,2.5,1.850,1.950
+61730068,2026-03-01 17:00,Samsunspor,Gaziantep FK,0,0,1.909,3.500,3.900,2.5,1.775,2.025
+61730070,2026-03-01 17:00,Antalyaspor,Fenerbahce Istanbul,2,2,6.000,4.000,1.550,2.75,1.850,1.950
+61730088,2026-03-07 13:00,Istanbul Basaksehir,Goztepe Izmir,2,1,1.850,3.300,4.333,2.25,2.000,1.800
+61730090,2026-03-07 17:00,Besiktas Istanbul,Galatasaray Istanbul,0,1,2.550,3.600,2.550,3,1.800,2.000
+61730080,2026-03-08 10:30,Caykur Rizespor,Antalyaspor,1,0,1.550,4.000,5.750,2.5,2.000,1.800
+61730086,2026-03-08 10:30,Gaziantep FK,Fatih Karagumruk Istanbul,1,1,2.150,3.500,3.200,2.5,1.925,1.875
+61730078,2026-03-08 13:00,Konyaspor,Kasimpasa Istanbul,1,1,1.850,3.200,4.750,2.25,1.850,1.950
+61730084,2026-03-08 17:00,Fenerbahce Istanbul,Samsunspor,3,2,1.480,4.750,6.000,2.5,1.850,1.950
+61730076,2026-03-09 13:00,Eyupspor,Kocaelispor,0,1,3.700,3.100,2.100,2,1.750,2.050
+61730082,2026-03-09 17:00,Kayserispor,Trabzonspor,1,3,3.500,3.600,2.000,2.75,2.025,1.775
+61730092,2026-03-09 17:00,Alanyaspor,Genclerbirligi SK,0,0,2.000,3.300,3.900,2.25,1.900,1.900
+61730104,2026-03-13 17:00,Antalyaspor,Gaziantep FK,1,4,2.300,3.300,3.100,2.5,1.975,1.825
+61730106,2026-03-13 17:00,Fatih Karagumruk Istanbul,Fenerbahce Istanbul,2,0,7.000,4.333,1.444,3,1.950,1.850
+61730096,2026-03-14 10:30,Kocaelispor,Konyaspor,1,2,2.300,2.875,3.500,2.25,1.825,1.975
+61730100,2026-03-14 17:00,Goztepe Izmir,Alanyaspor,2,2,2.100,3.200,3.600,2.25,2.000,1.800
+61730102,2026-03-14 17:00,Galatasaray Istanbul,Istanbul Basaksehir,3,0,1.400,5.250,6.250,3.25,1.975,1.825
+61730108,2026-03-14 17:00,Trabzonspor,Caykur Rizespor,1,0,1.850,3.800,3.800,2.75,1.800,2.000
+61730094,2026-03-15 13:00,Kasimpasa Istanbul,Eyupspor,1,0,1.900,3.600,3.900,2.25,2.000,1.800
+61730098,2026-03-15 17:00,Genclerbirligi SK,Besiktas Istanbul,0,2,5.250,4.000,1.600,2.75,1.900,1.900
+61730110,2026-03-15 17:00,Samsunspor,Kayserispor,2,1,1.950,3.500,3.900,2.5,1.900,1.900
+61730122,2026-03-17 17:00,Fenerbahce Istanbul,Gaziantep FK,4,1,1.285,5.750,7.000,3.25,1.925,1.875
+61730128,2026-03-18 13:00,Alanyaspor,Kocaelispor,5,0,1.950,3.250,4.000,2.25,2.025,1.775
+61730112,2026-03-18 17:00,Eyupspor,Trabzonspor,0,1,5.250,3.900,1.600,2.75,2.000,1.800
+61730116,2026-03-18 17:00,Istanbul Basaksehir,Antalyaspor,0,0,1.533,4.000,6.250,2.75,1.925,1.875
+61730120,2026-03-19 13:00,Kayserispor,Fatih Karagumruk Istanbul,1,0,2.100,3.400,3.300,2.5,1.900,1.900
+61730114,2026-03-19 17:00,Besiktas Istanbul,Kasimpasa Istanbul,2,1,1.333,4.750,8.500,3,1.900,1.900
+61730126,2026-03-19 17:00,Konyaspor,Genclerbirligi SK,1,0,1.750,3.500,4.750,2.25,1.775,2.025
+61730140,2026-04-04 11:30,Genclerbirligi SK,Goztepe Izmir,0,2,3.400,3.000,2.300,2.25,2.000,1.800
+61730146,2026-04-04 11:30,Kasimpasa Istanbul,Kayserispor,2,0,2.200,3.400,3.200,2.5,1.925,1.875
+61730136,2026-04-04 14:00,Gaziantep FK,Alanyaspor,1,1,2.750,3.400,2.450,2.5,1.900,1.900
+61730142,2026-04-04 17:00,Trabzonspor,Galatasaray Istanbul,2,1,3.300,3.500,2.100,3,1.950,1.850
+61730132,2026-04-05 11:30,Samsunspor,Konyaspor,2,2,2.100,3.250,3.600,2.5,1.950,1.850
+61730144,2026-04-05 11:30,Fatih Karagumruk Istanbul,Caykur Rizespor,2,1,2.875,3.500,2.350,2.5,1.900,1.900
+61730130,2026-04-05 14:00,Antalyaspor,Eyupspor,3,0,2.050,3.000,4.200,2.25,1.850,1.950
+61730134,2026-04-05 17:00,Fenerbahce Istanbul,Besiktas Istanbul,1,0,1.900,3.500,4.000,2.75,1.900,1.900
+61730138,2026-04-06 17:00,Kocaelispor,Istanbul Basaksehir,0,0,3.300,3.400,2.150,2.25,1.925,1.875
+70173470,2026-04-08 17:00,Goztepe Izmir,Galatasaray Istanbul,1,3,4.500,3.400,1.800,2.5,1.900,1.900
+70173444,2026-04-09 17:00,Caykur Rizespor,Samsunspor,4,1,2.500,3.250,2.800,2.5,1.850,1.950
+61730152,2026-04-10 17:00,Besiktas Istanbul,Antalyaspor,4,2,1.333,5.500,8.000,3.25,1.775,2.025
+61730162,2026-04-11 11:30,Istanbul Basaksehir,Genclerbirligi SK,3,0,1.571,4.100,5.250,2.75,2.025,1.775
+61730154,2026-04-11 14:00,Alanyaspor,Trabzonspor,1,1,2.900,3.300,2.350,2.5,1.850,1.950
+61730160,2026-04-11 17:00,Kayserispor,Fenerbahce Istanbul,0,4,5.750,4.500,1.480,3,2.025,1.775
+61730156,2026-04-12 11:30,Konyaspor,Fatih Karagumruk Istanbul,3,0,1.850,3.500,4.200,2.5,2.025,1.775
+61730150,2026-04-12 14:00,Goztepe Izmir,Kasimpasa Istanbul,3,3,1.900,3.250,4.333,2.25,1.775,2.025
+61730164,2026-04-12 17:00,Galatasaray Istanbul,Kocaelispor,1,1,1.250,5.750,12.000,3,2.000,1.800
+61730148,2026-04-13 17:00,Eyupspor,Samsunspor,1,2,4.200,3.400,1.850,2.5,1.975,1.825
+61730158,2026-04-13 17:00,Caykur Rizespor,Gaziantep FK,2,1,1.750,3.700,4.500,2.75,1.825,1.975
+61730168,2026-04-17 17:00,Antalyaspor,Konyaspor,0,2,2.625,3.250,2.600,2.5,1.900,1.900
+61730180,2026-04-17 17:00,Fenerbahce Istanbul,Caykur Rizespor,2,2,1.363,5.000,8.000,3.25,1.925,1.875
+61730166,2026-04-18 11:30,Fatih Karagumruk Istanbul,Eyupspor,1,2,1.666,3.600,5.250,2.25,1.825,1.975
+61730176,2026-04-18 14:00,Kocaelispor,Goztepe Izmir,1,1,2.900,3.000,2.600,2,1.900,1.900
+61730178,2026-04-18 17:00,Genclerbirligi SK,Galatasaray Istanbul,1,2,7.500,4.500,1.400,3,1.950,1.850
+61730172,2026-04-19 11:30,Kasimpasa Istanbul,Alanyaspor,1,0,2.400,3.100,3.000,2,2.000,1.800
+61730170,2026-04-19 14:00,Samsunspor,Besiktas Istanbul,2,1,3.000,3.700,2.150,2.75,1.950,1.850
+61730174,2026-04-19 17:00,Trabzonspor,Istanbul Basaksehir,1,1,1.833,4.100,3.600,3.25,2.000,1.800
+61730182,2026-04-20 17:00,Gaziantep FK,Kayserispor,3,0,2.150,3.400,3.250,2.75,1.825,1.975
+61730186,2026-04-24 17:00,Istanbul Basaksehir,Kasimpasa Istanbul,4,0,1.666,4.000,4.750,2.75,1.900,1.900
+61730184,2026-04-25 11:30,Eyupspor,Gaziantep FK,3,0,2.700,3.400,2.500,2.75,1.800,2.000
+61730198,2026-04-25 14:00,Kayserispor,Caykur Rizespor,2,1,2.300,3.500,2.900,2.75,2.000,1.800
+61730188,2026-04-25 17:00,Goztepe Izmir,Antalyaspor,2,0,1.615,3.700,5.750,2.5,1.900,1.900
+61730200,2026-04-26 11:30,Genclerbirligi SK,Kocaelispor,1,0,2.600,3.200,2.750,2.25,2.000,1.800
+61730196,2026-04-26 17:00,Galatasaray Istanbul,Fenerbahce Istanbul,3,0,2.050,3.300,3.600,2.75,1.975,1.825
+61730192,2026-04-27 14:00,Alanyaspor,Samsunspor,2,3,2.200,3.250,3.300,2.5,1.825,1.975
+61730190,2026-04-27 17:00,Konyaspor,Trabzonspor,3,1,3.100,3.700,2.150,2.75,1.975,1.825
+61730194,2026-04-27 17:00,Besiktas Istanbul,Fatih Karagumruk Istanbul,0,0,1.400,5.000,6.500,3,1.875,1.925
+61730204,2026-05-01 14:00,Caykur Rizespor,Konyaspor,3,2,1.666,3.700,4.100,3,1.900,1.900
+61730206,2026-05-01 17:00,Gaziantep FK,Besiktas Istanbul,1,2,3.000,3.500,2.250,3.25,1.800,2.000
+61730210,2026-05-02 17:00,Fenerbahce Istanbul,Istanbul Basaksehir,3,1,1.750,4.200,4.000,3,1.825,1.975
+61730212,2026-05-02 17:00,Trabzonspor,Goztepe Izmir,1,1,1.750,3.800,4.200,3,1.925,1.875
+61730214,2026-05-02 17:00,Samsunspor,Galatasaray Istanbul,4,1,4.333,4.333,1.666,3,1.900,1.900
+61730202,2026-05-03 17:00,Kayserispor,Eyupspor,1,1,1.650,3.900,5.000,2.5,1.825,1.975
+61730208,2026-05-03 17:00,Antalyaspor,Alanyaspor,0,1,2.750,3.100,2.625,2.25,1.850,1.950
+61730216,2026-05-03 17:00,Fatih Karagumruk Istanbul,Genclerbirligi SK,1,0,2.400,3.250,3.000,2.5,1.875,1.925
+61730218,2026-05-03 17:00,Kasimpasa Istanbul,Kocaelispor,1,1,1.950,3.300,4.000,2.25,1.925,1.875
+61730220,2026-05-09 17:00,Eyupspor,Caykur Rizespor,4,0,2.750,3.600,2.350,2.75,1.950,1.850
+61730222,2026-05-09 17:00,Genclerbirligi SK,Kasimpasa Istanbul,3,2,2.250,3.100,3.400,2.25,1.975,1.825
+61730224,2026-05-09 17:00,Galatasaray Istanbul,Antalyaspor,4,2,1.100,9.000,19.000,3.5,1.950,1.850
+61730226,2026-05-09 17:00,Besiktas Istanbul,Trabzonspor,1,2,1.666,4.333,4.000,3.5,1.825,1.975
+61730228,2026-05-09 17:00,Istanbul Basaksehir,Samsunspor,3,0,1.800,4.000,4.000,3,1.925,1.875
+61730230,2026-05-09 17:00,Kocaelispor,Fatih Karagumruk Istanbul,0,1,2.050,3.400,3.500,2.25,2.000,1.800
+61730232,2026-05-09 17:00,Goztepe Izmir,Gaziantep FK,2,1,1.550,4.333,5.250,2.75,1.850,1.950
+61730234,2026-05-09 17:00,Konyaspor,Fenerbahce Istanbul,0,3,4.500,3.900,1.666,2.75,1.850,1.950
+61730236,2026-05-09 17:00,Alanyaspor,Kayserispor,3,1,2.500,3.500,2.625,2.75,1.800,2.000
+61730242,2026-05-15 17:00,Caykur Rizespor,Besiktas Istanbul,3,2,3.000,3.750,2.150,3.25,1.900,1.900
+61730244,2026-05-16 14:00,Fatih Karagumruk Istanbul,Alanyaspor,2,1,3.200,3.300,2.200,2.5,1.800,2.000
+61730246,2026-05-16 17:00,Gaziantep FK,Istanbul Basaksehir,1,2,3.600,4.500,1.833,3.5,1.900,1.900
+61730248,2026-05-16 17:00,Samsunspor,Goztepe Izmir,3,1,3.100,3.600,2.200,2.75,1.850,1.950
+61730240,2026-05-17 14:00,Kayserispor,Konyaspor,2,1,1.800,4.100,3.900,3,1.900,1.900
+61730238,2026-05-17 17:00,Fenerbahce Istanbul,Eyupspor,3,3,1.444,5.000,5.750,3.25,1.850,1.950
+61730250,2026-05-17 17:00,Kasimpasa Istanbul,Galatasaray Istanbul,1,0,3.000,3.500,2.200,3,1.975,1.825
+61730252,2026-05-17 17:00,Trabzonspor,Genclerbirligi SK,0,3,2.625,3.400,2.600,2.75,1.800,2.000
+61730254,2026-05-17 17:00,Antalyaspor,Kocaelispor,1,0,1.750,3.800,4.200,2.5,1.925,1.875
+72723136,2026-08-14 18:30,Galatasaray Istanbul,Corum FK,2,2,1.363,5.000,7.500,3,1.875,1.925
+72723126,2026-08-15 16:00,Kasimpasa Istanbul,Trabzonspor,1,1,3.700,3.500,1.950,2.5,1.900,1.900
+72723134,2026-08-15 16:00,Konyaspor,Caykur Rizespor,0,1,2.350,3.400,2.900,2.5,1.825,1.975
+72723124,2026-08-15 18:30,Gaziantep FK,Alanyaspor,1,1,2.400,3.300,2.900,2.25,1.850,1.950
+72723132,2026-08-15 18:30,Genclerbirligi SK,Fenerbahce Istanbul,2,1,5.000,4.000,1.666,2.5,1.825,1.975
+72723128,2026-08-16 16:00,Istanbul Basaksehir,Kocaelispor,2,0,1.650,3.600,5.750,2.5,2.025,1.775
+72723130,2026-08-16 18:30,Amed Sportif Faaliyetler,Erzurumspor FK,3,0,2.100,3.400,3.400,2.5,1.850,1.950
+72723138,2026-08-16 18:30,Besiktas Istanbul,Eyupspor,1,0,1.300,5.250,9.000,3.25,2.000,1.800
+72723140,2026-08-17 18:30,Samsunspor,Goztepe Izmir,3,3,2.150,3.300,3.300,2.5,1.875,1.925
+72723158,2026-08-21 18:30,Erzurumspor FK,Galatasaray Istanbul,0,4,5.750,4.000,1.550,2.75,1.875,1.925
+72723142,2026-08-22 16:00,Corum FK,Kasimpasa Istanbul,0,1,1.950,3.500,3.750,2.5,1.900,1.900
+72723150,2026-08-22 16:00,Caykur Rizespor,Samsunspor,0,2,1.909,3.600,3.800,2.75,1.975,1.825
+72723154,2026-08-22 18:30,Fenerbahce Istanbul,Konyaspor,4,2,1.250,5.750,11.000,3,1.900,1.900
+72723144,2026-08-23 16:00,Trabzonspor,Istanbul Basaksehir,2,1,1.900,3.800,3.600,3,1.900,1.900
+72723146,2026-08-23 16:00,Eyupspor,Gaziantep FK,0,1,2.875,3.300,2.375,2.5,1.900,1.900
+72723148,2026-08-23 18:30,Alanyaspor,Besiktas Istanbul,1,0,4.750,3.500,1.727,2.25,1.825,1.975
+72723152,2026-08-23 18:30,Goztepe Izmir,Genclerbirligi SK,0,1,2.000,3.400,3.600,2.5,2.000,1.800
+72723156,2026-08-24 18:30,Kocaelispor,Amed Sportif Faaliyetler,2,0,2.550,3.200,2.875,2.25,2.000,1.800
+72723168,2026-08-28 18:30,Genclerbirligi SK,Erzurumspor FK,1,1,2.250,3.100,3.400,2,1.900,1.900
+72723170,2026-08-29 16:00,Konyaspor,Kocaelispor,1,2,1.900,3.250,4.500,2,1.825,1.975
+72723160,2026-08-29 18:30,Gaziantep FK,Caykur Rizespor,1,2,3.100,3.400,2.250,2.5,1.925,1.875
+72723172,2026-08-29 18:30,Galatasaray Istanbul,Goztepe Izmir,3,2,1.270,6.000,9.500,3.25,1.850,1.950
+72723162,2026-08-30 16:00,Eyupspor,Alanyaspor,2,1,3.800,3.100,2.100,2,1.750,2.050
+72723164,2026-08-30 18:30,Istanbul Basaksehir,Kasimpasa Istanbul,1,1,1.600,3.800,5.750,2.5,1.800,2.000
+72723176,2026-08-30 18:30,Samsunspor,Fenerbahce Istanbul,0,2,5.250,4.100,1.571,2.75,1.850,1.950
+72723166,2026-08-31 18:30,Amed Sportif Faaliyetler,Trabzonspor,2,1,3.100,3.750,2.100,2.75,1.825,1.975
+72723174,2026-08-31 18:30,Besiktas Istanbul,Corum FK,6,2,1.420,5.000,6.500,3,1.975,1.825
+72723182,2026-09-04 17:00,Istanbul Basaksehir,Galatasaray Istanbul,2,3,4.750,4.200,1.615,3.25,1.875,1.925
+72723194,2026-09-05 14:00,Erzurumspor FK,Konyaspor,1,0,2.300,3.200,3.000,2,1.825,1.975
+72723190,2026-09-05 17:00,Fenerbahce Istanbul,Besiktas Istanbul,1,2,2.200,3.100,3.200,2.5,1.800,2.000
+72723180,2026-09-06 14:00,Kasimpasa Istanbul,Amed Sportif Faaliyetler,2,2,2.500,3.200,2.700,2.25,1.950,1.850
+72723188,2026-09-06 14:00,Corum FK,Eyupspor,3,0,1.571,3.700,5.250,2.5,1.900,1.900
+72723178,2026-09-06 17:00,Trabzonspor,Genclerbirligi SK,5,0,1.400,4.750,6.500,3,1.850,1.950
+72723192,2026-09-06 17:00,Kocaelispor,Samsunspor,1,0,2.350,3.100,3.000,2.25,2.025,1.775
+72723184,2026-09-07 17:00,Caykur Rizespor,Alanyaspor,0,1,1.850,3.300,4.200,2.25,1.800,2.000
+72723186,2026-09-07 17:00,Goztepe Izmir,Gaziantep FK,2,4,1.833,3.400,4.000,2.5,1.975,1.825
+72723210,2026-09-11 17:00,Besiktas Istanbul,Erzurumspor FK,3,0,1.200,6.000,13.000,3,1.875,1.925
+72723198,2026-09-12 14:00,Eyupspor,Caykur Rizespor,0,2,4.100,3.500,1.800,2.5,1.925,1.875
+72723212,2026-09-12 14:00,Samsunspor,Corum FK,1,5,2.300,3.400,2.875,2.75,2.000,1.800
+72723200,2026-09-12 17:00,Alanyaspor,Goztepe Izmir,2,2,2.150,3.300,3.100,2.5,2.000,1.800
+72723206,2026-09-12 17:00,Konyaspor,Trabzonspor,1,0,3.700,3.600,1.900,2.75,1.825,1.975
+72723204,2026-09-13 14:00,Genclerbirligi SK,Kasimpasa Istanbul,1,2,2.250,3.250,3.100,2.5,2.025,1.775
+72723202,2026-09-13 17:00,Amed Sportif Faaliyetler,Istanbul Basaksehir,5,0,2.400,3.500,2.625,2.75,1.875,1.925
+72723208,2026-09-13 17:00,Galatasaray Istanbul,Kocaelispor,1,0,1.250,5.250,10.000,3,1.900,1.900
+72723196,2026-09-14 17:00,Gaziantep FK,Fenerbahce Istanbul,0,0,5.750,4.333,1.450,3,2.000,1.800
+72723216,2026-09-18 17:00,Kasimpasa Istanbul,Konyaspor,0,0,2.375,3.100,3.000,2.25,1.850,1.950
+72723224,2026-09-19 14:00,Corum FK,Alanyaspor,1,2,,,,,,
+72723228,2026-09-19 14:00,Kocaelispor,Gaziantep FK,2,0,,,,,,
+72723214,2026-09-19 17:00,Trabzonspor,Galatasaray Istanbul,4,0,3.000,3.600,2.150,3.25,2.025,1.775
+72723218,2026-09-19 17:00,Istanbul Basaksehir,Genclerbirligi SK,4,0,1.727,3.900,4.200,3,1.900,1.900
+72723226,2026-09-20 14:00,Fenerbahce Istanbul,Eyupspor,8,0,1.142,7.000,15.000,3.25,1.950,1.850
+72723230,2026-09-20 14:00,Erzurumspor FK,Samsunspor,1,0,2.500,3.100,2.800,2.25,1.950,1.850
+72723220,2026-09-20 17:00,Amed Sportif Faaliyetler,Besiktas Istanbul,3,2,3.750,3.700,1.833,3,2.025,1.775
+72723222,2026-09-20 17:00,Goztepe Izmir,Caykur Rizespor,2,2,2.375,3.400,2.800,2.75,1.925,1.875
+72723244,2026-10-09 17:00,Galatasaray Istanbul,Kasimpasa Istanbul,3,1,1.250,5.500,10.000,3.25,1.850,1.950
+72723240,2026-10-10 10:30,Genclerbirligi SK,Amed Sportif Faaliyetler,2,2,3.600,3.300,1.950,2.5,1.925,1.875
+72723236,2026-10-10 13:00,Alanyaspor,Erzurumspor FK,0,0,1.909,3.200,4.000,2,1.900,1.900
+72723248,2026-10-10 13:00,Samsunspor,Trabzonspor,0,3,3.400,3.700,1.950,3,1.925,1.875
+72723238,2026-10-10 16:00,Caykur Rizespor,Fenerbahce Istanbul,0,3,4.750,4.000,1.615,3,1.825,1.975
+72723242,2026-10-11 10:30,Konyaspor,Istanbul Basaksehir,0,0,2.200,3.600,2.900,2.75,1.850,1.950
+72723232,2026-10-11 13:00,Gaziantep FK,Corum FK,0,3,2.550,3.400,2.450,2.75,1.950,1.850
+72723246,2026-10-11 16:00,Besiktas Istanbul,Kocaelispor,2,1,1.142,6.250,15.000,3.25,1.900,1.900
+72723234,2026-10-12 17:00,Eyupspor,Goztepe Izmir,0,4,3.600,3.700,1.750,2.75,1.975,1.825
+72723260,2026-10-16 17:00,Corum FK,Caykur Rizespor,2,1,1.909,3.700,3.400,3,1.850,1.950
+72723266,2026-10-17 10:30,Erzurumspor FK,Eyupspor,2,0,1.600,3.600,5.500,2.25,1.800,2.000
+72723256,2026-10-17 13:00,Amed Sportif Faaliyetler,Konyaspor,1,0,1.800,3.400,4.100,2.5,1.900,1.900
+72723258,2026-10-17 13:00,Genclerbirligi SK,Galatasaray Istanbul,0,1,7.500,5.250,1.300,3.25,2.000,1.800
+72723262,2026-10-17 16:00,Fenerbahce Istanbul,Alanyaspor,3,0,1.270,5.250,8.500,3.25,2.000,1.800
+72723252,2026-10-18 10:30,Kasimpasa Istanbul,Samsunspor,4,1,2.450,3.250,2.625,2.25,1.825,1.975
+72723264,2026-10-18 13:00,Kocaelispor,Goztepe Izmir,1,2,2.750,3.250,2.450,2.25,1.800,2.000
+72723254,2026-10-18 16:00,Istanbul Basaksehir,Gaziantep FK,2,1,1.727,3.900,4.000,3,1.775,2.025
+72723250,2026-10-19 17:00,Trabzonspor,Besiktas Istanbul,2,0,2.550,3.600,2.375,3.25,1.850,1.950
+72723272,2026-10-23 17:00,Alanyaspor,Kocaelispor,1,2,2.100,3.100,3.500,2.25,1.900,1.900
+72723270,2026-10-24 10:30,Eyupspor,Kasimpasa Istanbul,0,1,5.000,3.600,1.666,2.5,2.000,1.800
+72723268,2026-10-24 13:00,Gaziantep FK,Erzurumspor FK,1,3,2.100,3.250,3.400,2.5,1.975,1.825
+72723284,2026-10-24 16:00,Samsunspor,Amed Sportif Faaliyetler,1,2,2.900,3.400,2.250,2.5,1.825,1.975
+72723278,2026-10-25 13:00,Konyaspor,Genclerbirligi SK,2,0,1.800,3.500,4.200,2.5,1.950,1.850
+72723276,2026-10-25 16:00,Goztepe Izmir,Corum FK,2,0,2.200,3.500,2.900,2.75,1.975,1.825
+72723274,2026-10-26 16:00,Caykur Rizespor,Trabzonspor,3,4,4.100,3.800,1.833,3.25,2.000,1.800
+72723282,2026-10-26 16:00,Besiktas Istanbul,Istanbul Basaksehir,2,0,1.380,5.000,7.000,3.25,1.825,1.975
+72723280,2026-10-26 18:30,Galatasaray Istanbul,Fenerbahce Istanbul,2,1,1.950,4.000,3.400,3,1.800,2.000
+72723296,2026-10-30 17:00,Konyaspor,Galatasaray Istanbul,0,4,5.000,4.500,1.533,3,1.825,1.975
+72723302,2026-10-31 10:30,Erzurumspor FK,Corum FK,1,3,2.700,3.250,2.450,2.25,1.850,1.950
+72723300,2026-10-31 13:00,Kocaelispor,Caykur Rizespor,0,0,2.375,3.400,2.700,2.5,1.900,1.900
+72723298,2026-10-31 16:00,Fenerbahce Istanbul,Goztepe Izmir,1,2,1.480,4.500,5.500,3,1.800,2.000
+72723292,2026-11-01 10:30,Amed Sportif Faaliyetler,Eyupspor,5,1,1.300,5.500,8.500,3,2.000,1.800
+72723286,2026-11-01 13:00,Trabzonspor,Gaziantep FK,2,0,1.222,6.500,8.000,3.5,1.800,1.909
+72723290,2026-11-01 13:00,Istanbul Basaksehir,Samsunspor,5,2,1.750,3.700,4.100,2.75,1.800,2.000
+72723288,2026-11-01 16:00,Kasimpasa Istanbul,Besiktas Istanbul,2,2,4.750,4.500,1.533,3,1.850,1.950
+72723294,2026-11-02 17:00,Genclerbirligi SK,Alanyaspor,5,0,2.550,3.250,2.550,2.5,1.975,1.825
+72723304,2026-11-06 17:00,Gaziantep FK,Kasimpasa Istanbul,0,2,2.400,3.500,2.625,3,2.000,1.800
+72723306,2026-11-07 10:30,Eyupspor,Kocaelispor,0,2,4.100,3.300,1.833,2.25,1.925,1.875
+72723320,2026-11-07 13:00,Samsunspor,Konyaspor,1,0,2.450,3.300,2.700,2.5,1.800,2.000
+72723312,2026-11-07 16:00,Goztepe Izmir,Istanbul Basaksehir,1,2,2.000,3.500,3.400,2.75,1.950,1.850
+72723316,2026-11-07 16:00,Galatasaray Istanbul,Amed Sportif Faaliyetler,4,3,1.400,4.500,6.500,3.25,1.825,1.975
+72723310,2026-11-08 10:30,Caykur Rizespor,Erzurumspor FK,2,1,1.833,3.300,4.000,2.5,1.825,1.975
+72723314,2026-11-08 13:00,Corum FK,Fenerbahce Istanbul,0,5,3.400,3.600,1.900,3,1.950,1.850
+72723308,2026-11-08 15:30,Alanyaspor,Trabzonspor,0,2,4.750,3.800,1.615,2.75,1.850,1.950
+72723318,2026-11-08 18:00,Besiktas Istanbul,Genclerbirligi SK,3,0,1.166,7.500,13.000,3.5,1.900,1.900

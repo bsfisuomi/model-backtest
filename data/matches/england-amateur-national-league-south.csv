@@ -1,618 +1,618 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-61913518,2025-08-09 14:00,Farnborough FC,Eastbourne Borough,1,1,,,
-61913526,2025-08-09 14:00,Maidenhead United FC,Chesham United,1,2,,,
-61913528,2025-08-09 14:00,Tonbridge Angels,Slough Town,0,0,,,
-61913544,2025-08-16 14:00,Ebbsfleet United FC,Chippenham Town FC,1,0,,,
-61913554,2025-08-16 14:00,Slough Town,Hemel Hempstead Town,0,1,,,
-61913562,2025-08-19 18:45,Dagenham and Redbridge FC,Tonbridge Angels,2,2,,,
-61913564,2025-08-19 18:45,Dorking Wanderers,Slough Town,2,0,,,
-61913568,2025-08-19 18:45,Ebbsfleet United FC,Chelmsford City,1,0,,,
-61913574,2025-08-19 18:45,Maidstone United FC,Hampton & Richmond Borough,2,0,,,
-61913594,2025-08-23 14:00,Hornchurch FC,Farnborough FC,3,1,,,
-61913598,2025-08-23 14:00,Slough Town,Ebbsfleet United FC,2,0,,,
-61913600,2025-08-23 14:00,Tonbridge Angels,Chesham United,0,0,,,
-61913610,2025-08-25 14:00,Dagenham and Redbridge FC,Hemel Hempstead Town,2,1,,,
-61913622,2025-08-25 14:00,Maidenhead United FC,Horsham FC,2,1,,,
-61913624,2025-08-25 14:00,Maidstone United FC,Chelmsford City,0,0,,,
-61913626,2025-08-25 14:00,Salisbury FC,Hornchurch FC,3,3,,,
-61913628,2025-08-25 14:00,Torquay United,Dover Athletic FC,3,2,,,
-61913654,2025-09-01 18:45,Chelmsford City,Farnborough FC,2,5,,,
-61913658,2025-09-02 18:45,Bath City FC,Maidenhead United FC,0,4,,,
-61913662,2025-09-02 18:45,Hampton & Richmond Borough,Torquay United,2,2,,,
-61913664,2025-09-02 18:45,Hemel Hempstead Town,Ebbsfleet United FC,0,0,,,
-61913666,2025-09-02 18:45,Hornchurch FC,Dorking Wanderers,1,0,,,
-61913670,2025-09-02 18:45,Slough Town,Chippenham Town FC,3,2,,,
-61913674,2025-09-02 18:45,Weston-super-Mare,Maidstone United FC,3,0,,,
-61913682,2025-09-06 14:00,Dagenham and Redbridge FC,Worthing FC,2,5,,,
-61913684,2025-09-06 14:00,Dorking Wanderers,AFC Totton,2,1,,,
-61913688,2025-09-06 14:00,Ebbsfleet United FC,Hornchurch FC,1,1,,,
-61913692,2025-09-06 14:00,Farnborough FC,Dover Athletic FC,1,2,,,
-61913696,2025-09-06 14:00,Maidstone United FC,Horsham FC,0,3,,,
-61913704,2025-09-20 14:00,Dorking Wanderers,Dagenham and Redbridge FC,0,0,,,
-61913712,2025-09-20 14:00,Hemel Hempstead Town,Farnborough FC,1,0,,,
-61913716,2025-09-20 14:00,Maidstone United FC,Maidenhead United FC,0,1,,,
-61913718,2025-09-20 14:00,Slough Town,Hornchurch FC,2,5,,,
-61913736,2025-10-04 14:00,Ebbsfleet United FC,Eastbourne Borough,2,2,,,
-61913740,2025-10-04 14:00,Hampton & Richmond Borough,Slough Town,2,3,,,
-61913744,2025-10-04 14:00,Maidenhead United FC,Worthing FC,1,0,,,
-61913764,2025-10-11 14:00,Maidstone United FC,Chesham United,0,0,,,
-61913768,2025-10-11 14:00,Torquay United,Dagenham and Redbridge FC,0,0,,,
-61914190,2025-10-11 14:00,Dover Athletic FC,Horsham FC,1,1,,,
-61913780,2025-10-18 14:00,Chippenham Town FC,Dover Athletic FC,1,1,,,
-61913782,2025-10-18 14:00,Dagenham and Redbridge FC,Enfield Town,3,2,,,
-61913800,2025-10-21 18:45,Bath City FC,AFC Totton,2,0,,,
-61913804,2025-10-21 18:45,Dagenham and Redbridge FC,Horsham FC,1,2,,,
-61913806,2025-10-21 18:45,Dover Athletic FC,Dorking Wanderers,2,2,,,
-61913810,2025-10-21 18:45,Hampton & Richmond Borough,Hemel Hempstead Town,1,2,,,
-61913812,2025-10-21 18:45,Maidenhead United FC,Tonbridge Angels,1,1,,,
-61913820,2025-10-21 18:45,Weston-super-Mare,Slough Town,5,1,,,
-64294551,2025-10-28 19:45,Dorking Wanderers,Maidenhead United FC,1,0,,,
-64480171,2025-10-28 19:45,Dover Athletic FC,Chelmsford City,0,0,,,
-61913846,2025-11-01 15:00,Bath City FC,Horsham FC,0,2,,,
-61913850,2025-11-01 15:00,Chesham United,Chippenham Town FC,2,1,,,
-61913852,2025-11-01 15:00,Dagenham and Redbridge FC,Farnborough FC,0,0,,,
-61913856,2025-11-01 15:00,Enfield Town,Eastbourne Borough,1,2,,,
-61913862,2025-11-01 15:00,Maidstone United FC,Tonbridge Angels,1,2,,,
-61913864,2025-11-01 15:00,Salisbury FC,Dorking Wanderers,0,2,,,
-61913866,2025-11-01 15:00,Torquay United,Hornchurch FC,1,2,,,
-61913890,2025-11-01 15:00,Worthing FC,Hampton & Richmond Borough,3,0,,,
-61913870,2025-11-04 19:45,AFC Totton,Maidenhead United FC,2,1,,,
-61913872,2025-11-04 19:45,Chippenham Town FC,Salisbury FC,2,2,,,
-61913874,2025-11-04 19:45,Dorking Wanderers,Enfield Town,2,1,,,
-61913876,2025-11-04 19:45,Eastbourne Borough,Dagenham and Redbridge FC,1,2,,,
-61913878,2025-11-04 19:45,Ebbsfleet United FC,Maidstone United FC,1,0,,,
-61913880,2025-11-04 19:45,Hemel Hempstead Town,Weston-super-Mare,3,0,,,
-61913882,2025-11-04 19:45,Hornchurch FC,Chesham United,1,1,,,
-61913884,2025-11-04 19:45,Horsham FC,Dover Athletic FC,1,1,,,
-61913886,2025-11-04 19:45,Slough Town,Bath City FC,2,3,,,
-61913888,2025-11-04 19:45,Tonbridge Angels,Chelmsford City,2,4,,,
-61913894,2025-11-08 15:00,AFC Totton,Ebbsfleet United FC,0,2,,,
-61913896,2025-11-08 15:00,Bath City FC,Dagenham and Redbridge FC,0,0,,,
-61913898,2025-11-08 15:00,Chelmsford City,Hampton & Richmond Borough,1,0,,,
-61913900,2025-11-08 15:00,Chesham United,Salisbury FC,0,1,,,
-61913902,2025-11-08 15:00,Dover Athletic FC,Enfield Town,4,1,,,
-61913904,2025-11-08 15:00,Eastbourne Borough,Weston-super-Mare,1,2,,,
-61913906,2025-11-08 15:00,Farnborough FC,Dorking Wanderers,2,0,,,
-61913908,2025-11-08 15:00,Horsham FC,Slough Town,1,0,,,
-61913910,2025-11-08 15:00,Maidenhead United FC,Torquay United,1,2,,,
-61913912,2025-11-08 15:00,Maidstone United FC,Chippenham Town FC,3,0,,,
-61913914,2025-11-08 15:00,Tonbridge Angels,Hornchurch FC,0,1,,,
-61913916,2025-11-08 15:00,Worthing FC,Hemel Hempstead Town,4,0,,,
-64480175,2025-11-10 19:45,Chelmsford City,Hornchurch FC,2,0,,,
-64201313,2025-11-11 19:45,Horsham FC,Hampton & Richmond Borough,0,0,,,
-64294563,2025-11-11 19:45,Eastbourne Borough,Chippenham Town FC,2,2,,,
-64294565,2025-11-11 19:45,Enfield Town,Salisbury FC,1,2,,,
-64294567,2025-11-11 19:45,Worthing FC,AFC Totton,4,0,,,
-64480181,2025-11-11 19:45,Bath City FC,Tonbridge Angels,1,1,,,
-64201309,2025-11-18 19:45,Weston-super-Mare,Ebbsfleet United FC,1,0,,,
-64480185,2025-11-18 19:45,Slough Town,Farnborough FC,2,0,,,
-61913918,2025-11-22 15:00,Chippenham Town FC,Tonbridge Angels,1,0,,,
-61913920,2025-11-22 15:00,Dagenham and Redbridge FC,Maidenhead United FC,1,0,,,
-61913922,2025-11-22 15:00,Dorking Wanderers,Maidstone United FC,3,1,,,
-61913924,2025-11-22 15:00,Ebbsfleet United FC,Chesham United,2,1,,,
-61913926,2025-11-22 15:00,Enfield Town,Farnborough FC,5,1,,,
-61913928,2025-11-22 15:00,Hampton & Richmond Borough,Bath City FC,1,2,,,
-61913930,2025-11-22 15:00,Hemel Hempstead Town,Horsham FC,1,1,,,
-61913932,2025-11-22 15:00,Hornchurch FC,AFC Totton,1,1,,,
-61913934,2025-11-22 15:00,Salisbury FC,Chelmsford City,3,0,,,
-61913936,2025-11-22 15:00,Slough Town,Worthing FC,1,2,,,
-61913938,2025-11-22 15:00,Torquay United,Eastbourne Borough,7,0,,,
-61913940,2025-11-22 15:00,Weston-super-Mare,Dover Athletic FC,1,2,,,
-61913942,2025-11-25 19:45,Chippenham Town FC,Farnborough FC,2,2,,,
-61913944,2025-11-25 19:45,Dagenham and Redbridge FC,Chesham United,3,1,,,
-61913948,2025-11-25 19:45,Ebbsfleet United FC,Horsham FC,1,2,,,
-61913950,2025-11-25 19:45,Enfield Town,Maidstone United FC,2,1,,,
-61913952,2025-11-25 19:45,Hampton & Richmond Borough,Tonbridge Angels,0,3,,,
-61913954,2025-11-25 19:45,Hemel Hempstead Town,Chelmsford City,2,1,,,
-61913958,2025-11-25 19:45,Salisbury FC,Maidenhead United FC,0,6,,,
-61913960,2025-11-25 19:45,Slough Town,AFC Totton,3,2,,,
-61913962,2025-11-25 19:45,Torquay United,Worthing FC,3,2,,,
-61913964,2025-11-25 19:45,Weston-super-Mare,Bath City FC,2,1,,,
-61913966,2025-11-29 15:00,AFC Totton,Dagenham and Redbridge FC,0,5,,,
-61913968,2025-11-29 15:00,Bath City FC,Enfield Town,1,1,,,
-61913970,2025-11-29 15:00,Chelmsford City,Torquay United,0,2,,,
-61913972,2025-11-29 15:00,Chesham United,Dorking Wanderers,2,1,,,
-61913974,2025-11-29 15:00,Dover Athletic FC,Slough Town,2,0,,,
-61913976,2025-11-29 15:00,Eastbourne Borough,Hampton & Richmond Borough,6,0,,,
-61913978,2025-11-29 15:00,Farnborough FC,Ebbsfleet United FC,1,1,,,
-61913980,2025-11-29 15:00,Horsham FC,Weston-super-Mare,1,1,,,
-61913982,2025-11-29 15:00,Maidenhead United FC,Chippenham Town FC,3,0,,,
-61913984,2025-11-29 15:00,Maidstone United FC,Salisbury FC,1,0,,,
-61913986,2025-11-29 15:00,Tonbridge Angels,Hemel Hempstead Town,1,3,,,
-61913988,2025-11-29 15:00,Worthing FC,Hornchurch FC,5,0,,,
-64699790,2025-12-02 19:45,Hemel Hempstead Town,Hornchurch FC,0,4,,,
-65375824,2025-12-02 19:45,Hampton & Richmond Borough,AFC Totton,2,0,,,
-61913990,2025-12-06 15:00,Chesham United,Dover Athletic FC,0,1,,,
-61914000,2025-12-06 15:00,Ebbsfleet United FC,Worthing FC,1,2,,,
-61914006,2025-12-06 15:00,Maidenhead United FC,Hornchurch FC,2,0,,,
-61914008,2025-12-06 15:00,Maidstone United FC,Bath City FC,2,0,,,
-66046522,2025-12-13 15:00,Eastbourne Borough,Chelmsford City,1,2,,,
-65543198,2025-12-16 18:45,Dorking Wanderers,Weston-super-Mare,3,2,,,
-66046530,2025-12-16 19:45,Dagenham and Redbridge FC,Slough Town,0,0,1.571,3.750,5.000
-61914014,2025-12-20 15:00,AFC Totton,Torquay United,1,0,3.300,3.750,1.850
-61914016,2025-12-20 15:00,Bath City FC,Salisbury FC,2,0,2.150,3.200,3.000
-61914018,2025-12-20 15:00,Chelmsford City,Ebbsfleet United FC,0,1,2.400,3.200,2.600
-61914020,2025-12-20 15:00,Dover Athletic FC,Eastbourne Borough,2,5,2.300,3.400,2.550
-61914022,2025-12-20 15:00,Hampton & Richmond Borough,Maidstone United FC,0,0,3.800,3.600,1.750
-61914024,2025-12-20 15:00,Hemel Hempstead Town,Maidenhead United FC,0,0,2.500,3.250,2.450
-61914026,2025-12-20 15:00,Hornchurch FC,Enfield Town,2,2,1.450,4.200,5.250
-61914028,2025-12-20 15:00,Horsham FC,Chesham United,1,2,1.833,3.400,3.700
-61914030,2025-12-20 15:00,Slough Town,Dorking Wanderers,1,2,3.800,4.100,1.650
-61914032,2025-12-20 15:00,Tonbridge Angels,Dagenham and Redbridge FC,2,2,3.000,3.400,2.050
-61914034,2025-12-20 15:00,Weston-super-Mare,Chippenham Town FC,1,0,1.571,3.900,4.750
-61914036,2025-12-20 15:00,Worthing FC,Farnborough FC,5,0,1.300,4.750,7.000
-61914038,2025-12-26 15:00,Chesham United,Hemel Hempstead Town,1,0,,,
-61914040,2025-12-26 15:00,Chippenham Town FC,Bath City FC,3,2,2.800,3.200,2.250
-61914042,2025-12-26 15:00,Dagenham and Redbridge FC,Hornchurch FC,2,3,,,
-61914044,2025-12-26 15:00,Dorking Wanderers,Horsham FC,2,0,1.650,3.900,4.000
-61914046,2025-12-26 15:00,Eastbourne Borough,Worthing FC,0,3,,,
-61914048,2025-12-26 15:00,Ebbsfleet United FC,Tonbridge Angels,1,0,,,
-61914050,2025-12-26 15:00,Enfield Town,Chelmsford City,0,4,3.100,3.300,2.050
-61914052,2025-12-26 15:00,Farnborough FC,Hampton & Richmond Borough,0,2,1.909,3.300,3.300
-61914054,2025-12-26 15:00,Maidenhead United FC,Slough Town,1,3,1.380,4.100,6.500
-61914056,2025-12-26 15:00,Maidstone United FC,Dover Athletic FC,1,0,,,
-61914058,2025-12-26 15:00,Salisbury FC,AFC Totton,3,1,2.500,3.300,2.400
-61914060,2025-12-26 15:00,Torquay United,Weston-super-Mare,3,1,1.700,3.750,3.800
-61914062,2025-12-30 19:45,AFC Totton,Chippenham Town FC,1,1,1.727,3.600,3.900
-61914064,2025-12-30 19:45,Bath City FC,Torquay United,0,0,3.400,3.250,1.950
-61914066,2025-12-30 19:45,Chelmsford City,Dagenham and Redbridge FC,1,4,,,
-61914068,2025-12-30 19:45,Dover Athletic FC,Ebbsfleet United FC,1,2,3.100,3.700,1.950
-61914070,2025-12-30 19:45,Hampton & Richmond Borough,Maidenhead United FC,1,3,,,
-61914072,2025-12-30 19:45,Hemel Hempstead Town,Enfield Town,3,0,1.650,3.600,4.750
-61914074,2025-12-30 19:45,Hornchurch FC,Maidstone United FC,1,2,2.375,3.250,2.625
-61914076,2025-12-30 19:45,Horsham FC,Farnborough FC,2,2,1.700,3.500,4.200
-61914078,2025-12-30 19:45,Slough Town,Chesham United,3,0,2.550,3.300,2.350
-61914080,2025-12-30 19:45,Tonbridge Angels,Eastbourne Borough,3,4,2.700,3.400,2.250
-61914082,2025-12-30 19:45,Weston-super-Mare,Salisbury FC,1,0,1.700,3.500,4.100
-61914084,2025-12-30 19:45,Worthing FC,Dorking Wanderers,3,2,2.000,3.750,3.000
-61914086,2026-01-03 15:00,AFC Totton,Enfield Town,3,2,1.950,3.400,3.250
-61914096,2026-01-03 15:00,Hemel Hempstead Town,Dagenham and Redbridge FC,1,0,2.200,3.250,2.800
-61914100,2026-01-03 15:00,Horsham FC,Maidenhead United FC,1,2,2.900,3.300,2.150
-61914102,2026-01-03 15:00,Slough Town,Eastbourne Borough,2,1,2.550,3.400,2.300
-61914104,2026-01-03 15:00,Tonbridge Angels,Dorking Wanderers,2,2,4.200,3.700,1.650
-61914106,2026-01-03 15:00,Weston-super-Mare,Farnborough FC,4,1,1.650,3.500,4.500
-61914108,2026-01-03 15:00,Worthing FC,Chippenham Town FC,2,2,1.222,5.500,9.000
-61914118,2026-01-10 15:00,Eastbourne Borough,Horsham FC,0,2,,,
-61914122,2026-01-10 15:00,Enfield Town,Tonbridge Angels,1,1,2.450,3.500,2.375
-61914130,2026-01-10 15:00,Salisbury FC,Worthing FC,5,4,4.333,3.900,1.571
-61914132,2026-01-10 15:00,Torquay United,Hampton & Richmond Borough,4,1,1.380,4.200,6.500
-61914134,2026-01-17 15:00,Chelmsford City,Weston-super-Mare,1,0,2.600,3.250,2.350
-61914136,2026-01-17 15:00,Chippenham Town FC,Ebbsfleet United FC,1,4,3.700,3.400,1.800
-61914138,2026-01-17 15:00,Dagenham and Redbridge FC,Salisbury FC,0,1,1.750,3.400,3.900
-61914140,2026-01-17 15:00,Dover Athletic FC,Bath City FC,1,0,2.600,3.400,2.300
-61914142,2026-01-17 15:00,Farnborough FC,Chesham United,0,1,2.400,3.300,2.500
-61914144,2026-01-17 15:00,Hampton & Richmond Borough,Dorking Wanderers,0,2,3.600,4.200,1.666
-61914146,2026-01-17 15:00,Hemel Hempstead Town,Slough Town,0,3,1.500,3.750,5.500
-61914148,2026-01-17 15:00,Hornchurch FC,Eastbourne Borough,2,0,1.750,3.700,3.600
-61914150,2026-01-17 15:00,Maidenhead United FC,Enfield Town,3,0,1.333,4.500,7.000
-61914152,2026-01-17 15:00,Tonbridge Angels,AFC Totton,4,1,2.100,3.500,2.875
-61914154,2026-01-17 15:00,Torquay United,Maidstone United FC,1,1,1.850,3.300,3.600
-61914156,2026-01-17 15:00,Worthing FC,Horsham FC,1,1,1.450,4.100,5.250
-67049120,2026-01-20 19:45,Dagenham and Redbridge FC,Dover Athletic FC,2,0,1.700,3.600,4.100
-67502968,2026-01-20 19:45,Hampton & Richmond Borough,Chesham United,0,1,2.625,3.250,2.350
-61914158,2026-01-24 15:00,AFC Totton,Dover Athletic FC,3,0,2.100,3.500,2.800
-61914160,2026-01-24 15:00,Bath City FC,Worthing FC,3,2,4.333,3.700,1.650
-61914162,2026-01-24 15:00,Chesham United,Maidenhead United FC,1,1,3.750,3.200,1.833
-61914164,2026-01-24 15:00,Dorking Wanderers,Chippenham Town FC,2,1,1.363,4.333,6.250
-61914166,2026-01-24 15:00,Eastbourne Borough,Farnborough FC,1,2,1.833,3.500,3.500
-61914168,2026-01-24 15:00,Ebbsfleet United FC,Dagenham and Redbridge FC,1,0,1.900,3.300,3.400
-61914170,2026-01-24 15:00,Enfield Town,Torquay United,1,2,4.750,4.000,1.533
-61914172,2026-01-24 15:00,Horsham FC,Chelmsford City,2,3,2.400,3.100,2.625
-61914174,2026-01-24 15:00,Maidstone United FC,Hemel Hempstead Town,0,1,2.100,3.000,3.250
-61914176,2026-01-24 15:00,Salisbury FC,Hampton & Richmond Borough,1,1,1.727,3.750,3.600
-61914178,2026-01-24 15:00,Slough Town,Tonbridge Angels,2,3,2.400,3.400,2.500
-61914180,2026-01-24 15:00,Weston-super-Mare,Hornchurch FC,1,2,2.200,3.250,2.800
-61914182,2026-01-26 19:45,Chelmsford City,Tonbridge Angels,1,0,1.700,3.500,4.333
-61914188,2026-01-27 19:45,Dagenham and Redbridge FC,Eastbourne Borough,2,0,1.727,3.700,3.800
-61914194,2026-01-27 19:45,Hampton & Richmond Borough,Worthing FC,1,0,4.333,4.333,1.550
-61914198,2026-01-27 19:45,Maidstone United FC,Ebbsfleet United FC,3,0,2.200,3.100,2.900
-61914208,2026-01-31 15:00,Chippenham Town FC,Chesham United,1,4,2.550,3.200,2.450
-61914210,2026-01-31 15:00,Dorking Wanderers,Salisbury FC,3,0,1.500,4.100,4.750
-61914212,2026-01-31 15:00,Eastbourne Borough,Enfield Town,1,1,1.800,3.600,3.600
-61914214,2026-01-31 15:00,Ebbsfleet United FC,Maidenhead United FC,3,0,2.450,3.000,2.700
-61914218,2026-01-31 15:00,Hemel Hempstead Town,Dover Athletic FC,1,2,1.650,3.500,4.333
-61914220,2026-01-31 15:00,Hornchurch FC,Torquay United,1,2,2.750,3.500,2.100
-61914224,2026-01-31 15:00,Slough Town,Chelmsford City,5,0,3.100,3.400,2.000
-61914226,2026-01-31 15:00,Tonbridge Angels,Maidstone United FC,1,1,3.700,3.300,1.850
-61914228,2026-01-31 15:00,Worthing FC,Weston-super-Mare,1,1,1.650,3.750,4.200
-66908624,2026-02-03 19:45,Ebbsfleet United FC,Hemel Hempstead Town,2,2,1.950,3.100,3.700
-67610174,2026-02-03 19:45,Dover Athletic FC,Torquay United,2,3,4.333,3.900,1.615
-61914236,2026-02-07 15:00,Dagenham and Redbridge FC,Chippenham Town FC,4,2,1.615,3.600,4.500
-61914238,2026-02-07 15:00,Dover Athletic FC,Worthing FC,1,1,4.500,4.200,1.533
-61914242,2026-02-07 15:00,Hampton & Richmond Borough,Hornchurch FC,2,2,2.900,3.500,2.050
-61914244,2026-02-07 15:00,Maidenhead United FC,Farnborough FC,2,2,1.420,4.200,5.500
-61914246,2026-02-07 15:00,Maidstone United FC,Slough Town,1,2,1.533,3.750,5.250
-61914248,2026-02-07 15:00,Salisbury FC,Ebbsfleet United FC,1,1,3.300,3.700,1.833
-61914256,2026-02-10 19:45,Chippenham Town FC,Torquay United,1,0,5.250,3.900,1.500
-61914258,2026-02-10 19:45,Dorking Wanderers,Dover Athletic FC,2,0,1.380,4.500,6.000
-61914260,2026-02-10 19:45,Eastbourne Borough,Maidstone United FC,3,1,3.100,3.300,2.050
-61914262,2026-02-10 19:45,Ebbsfleet United FC,Enfield Town,2,2,1.420,3.900,6.250
-61914264,2026-02-10 19:45,Hemel Hempstead Town,Hampton & Richmond Borough,0,3,1.750,3.300,4.100
-61914268,2026-02-10 19:45,Horsham FC,Dagenham and Redbridge FC,1,1,2.450,3.250,2.500
-61914270,2026-02-10 19:45,Slough Town,Weston-super-Mare,1,0,2.450,3.400,2.600
-61914272,2026-02-10 19:45,Tonbridge Angels,Maidenhead United FC,0,1,3.500,3.300,1.850
-61914276,2026-02-11 19:45,Farnborough FC,Salisbury FC,1,0,,,
-61914278,2026-02-14 15:00,Chippenham Town FC,Maidstone United FC,1,0,3.900,3.300,1.800
-61914280,2026-02-14 15:00,Dagenham and Redbridge FC,Bath City FC,1,0,1.909,3.250,3.500
-61914282,2026-02-14 15:00,Dorking Wanderers,Farnborough FC,5,3,1.333,4.500,6.500
-61914284,2026-02-14 15:00,Ebbsfleet United FC,AFC Totton,4,0,1.666,3.500,4.333
-61914288,2026-02-14 15:00,Hampton & Richmond Borough,Chelmsford City,1,3,2.500,3.200,2.450
-61914290,2026-02-14 15:00,Hemel Hempstead Town,Worthing FC,1,0,3.250,3.400,1.950
-61914292,2026-02-14 15:00,Hornchurch FC,Tonbridge Angels,3,2,1.666,3.600,4.200
-61914294,2026-02-14 15:00,Salisbury FC,Chesham United,1,2,2.200,3.400,2.700
-61914296,2026-02-14 15:00,Slough Town,Horsham FC,0,0,2.050,3.500,3.000
-61914298,2026-02-14 15:00,Torquay United,Maidenhead United FC,1,1,2.000,3.300,3.100
-61914300,2026-02-14 15:00,Weston-super-Mare,Eastbourne Borough,3,1,1.833,3.300,3.600
-67610194,2026-02-16 19:45,Chelmsford City,Maidstone United FC,1,1,2.500,3.100,2.500
-67610196,2026-02-17 19:45,Bath City FC,Ebbsfleet United FC,2,2,3.300,3.200,2.000
-67877866,2026-02-17 19:45,Dorking Wanderers,Hornchurch FC,1,0,1.800,3.600,3.700
-68416396,2026-02-17 19:45,Salisbury FC,Chippenham Town FC,1,0,2.100,3.400,2.900
-68567688,2026-02-17 19:45,AFC Totton,Hampton & Richmond Borough,1,1,2.050,3.500,3.000
-68840806,2026-02-17 19:45,Chesham United,Eastbourne Borough,1,0,1.950,3.250,3.300
-68840808,2026-02-17 19:45,Enfield Town,Horsham FC,2,1,3.000,3.300,2.100
-61914302,2026-02-21 15:00,AFC Totton,Hornchurch FC,1,0,2.875,3.500,2.100
-61914304,2026-02-21 15:00,Bath City FC,Hampton & Richmond Borough,0,4,2.100,3.100,3.100
-61914306,2026-02-21 15:00,Chelmsford City,Salisbury FC,2,2,1.615,3.700,4.500
-61914308,2026-02-21 15:00,Chesham United,Ebbsfleet United FC,4,1,2.875,3.400,2.100
-61914310,2026-02-21 15:00,Dover Athletic FC,Weston-super-Mare,1,1,2.900,3.600,2.050
-61914312,2026-02-21 15:00,Eastbourne Borough,Torquay United,4,2,4.333,4.000,1.600
-61914314,2026-02-21 15:00,Farnborough FC,Enfield Town,0,5,2.200,3.500,2.750
-61914316,2026-02-21 15:00,Horsham FC,Hemel Hempstead Town,2,0,2.400,3.200,2.625
-61914318,2026-02-21 15:00,Maidenhead United FC,Dagenham and Redbridge FC,2,0,1.833,3.500,3.600
-61914320,2026-02-21 15:00,Maidstone United FC,Dorking Wanderers,1,1,2.700,3.600,2.150
-61914322,2026-02-21 15:00,Tonbridge Angels,Chippenham Town FC,3,2,1.750,3.500,3.800
-61914324,2026-02-21 15:00,Worthing FC,Slough Town,4,1,1.571,4.100,4.333
-61914326,2026-02-23 19:45,Chelmsford City,Hemel Hempstead Town,1,0,2.050,3.300,3.100
-61914328,2026-02-24 19:45,AFC Totton,Slough Town,1,1,2.300,3.500,2.550
-61914330,2026-02-24 19:45,Bath City FC,Weston-super-Mare,0,0,2.800,3.000,2.375
-61914332,2026-02-24 19:45,Chesham United,Dagenham and Redbridge FC,0,1,2.400,3.200,2.625
-61914334,2026-02-24 19:45,Dover Athletic FC,Hornchurch FC,4,1,3.300,3.400,1.909
-61914336,2026-02-24 19:45,Eastbourne Borough,Dorking Wanderers,1,2,3.500,3.800,1.833
-61914338,2026-02-24 19:45,Horsham FC,Ebbsfleet United FC,1,1,2.700,3.200,2.300
-61914340,2026-02-24 19:45,Maidenhead United FC,Salisbury FC,2,1,1.420,3.900,6.500
-61914342,2026-02-24 19:45,Maidstone United FC,Enfield Town,8,0,1.571,3.700,4.750
-61914344,2026-02-24 19:45,Tonbridge Angels,Hampton & Richmond Borough,2,0,2.150,3.300,2.875
-61914346,2026-02-24 19:45,Worthing FC,Torquay United,3,1,1.900,3.750,3.200
-61914348,2026-02-25 19:45,Farnborough FC,Chippenham Town FC,2,1,2.200,3.400,2.700
-61914350,2026-02-28 15:00,Chippenham Town FC,Maidenhead United FC,1,0,4.100,3.500,1.700
-61914352,2026-02-28 15:00,Dagenham and Redbridge FC,AFC Totton,0,2,1.800,3.700,3.600
-61914354,2026-02-28 15:00,Dorking Wanderers,Chesham United,1,1,1.615,3.600,4.500
-61914356,2026-02-28 15:00,Ebbsfleet United FC,Farnborough FC,2,2,1.380,4.200,6.500
-61914358,2026-02-28 15:00,Enfield Town,Bath City FC,1,1,2.875,3.100,2.250
-61914360,2026-02-28 15:00,Hampton & Richmond Borough,Eastbourne Borough,1,2,1.950,3.750,3.000
-61914362,2026-02-28 15:00,Hemel Hempstead Town,Tonbridge Angels,1,0,1.950,3.500,3.100
-61914364,2026-02-28 15:00,Hornchurch FC,Worthing FC,2,1,2.800,3.600,2.100
-61914366,2026-02-28 15:00,Salisbury FC,Maidstone United FC,0,1,3.400,3.400,1.909
-61914368,2026-02-28 15:00,Slough Town,Dover Athletic FC,1,1,1.900,3.600,3.250
-61914370,2026-02-28 15:00,Torquay United,Chelmsford City,0,5,1.900,3.500,3.400
-61914374,2026-03-07 15:00,AFC Totton,Horsham FC,3,0,2.550,3.400,2.300
-61914376,2026-03-07 15:00,Chelmsford City,Bath City FC,7,1,1.550,3.700,5.250
-61914378,2026-03-07 15:00,Chesham United,Weston-super-Mare,4,0,2.100,3.100,3.100
-61914380,2026-03-07 15:00,Chippenham Town FC,Enfield Town,1,0,2.000,3.300,3.200
-61914382,2026-03-07 15:00,Dagenham and Redbridge FC,Dorking Wanderers,1,0,2.600,3.300,2.350
-61914384,2026-03-07 15:00,Ebbsfleet United FC,Torquay United,3,0,2.100,3.500,2.875
-61914386,2026-03-07 15:00,Farnborough FC,Hemel Hempstead Town,2,3,2.900,3.500,2.050
-61914388,2026-03-07 15:00,Hampton & Richmond Borough,Dover Athletic FC,2,1,1.950,3.500,3.100
-61914390,2026-03-07 15:00,Hornchurch FC,Slough Town,2,3,1.800,3.400,3.700
-61914392,2026-03-07 15:00,Maidenhead United FC,Maidstone United FC,2,1,2.200,3.100,3.000
-61914394,2026-03-07 15:00,Salisbury FC,Eastbourne Borough,2,0,2.450,3.500,2.375
-61914396,2026-03-07 15:00,Tonbridge Angels,Worthing FC,1,0,3.700,3.700,1.727
-61914398,2026-03-10 19:45,Bath City FC,Farnborough FC,0,1,2.150,3.600,2.700
-61914400,2026-03-10 19:45,Dorking Wanderers,Chelmsford City,1,1,2.200,3.400,2.700
-61914402,2026-03-10 19:45,Dover Athletic FC,Tonbridge Angels,2,0,2.150,3.500,2.750
-61914404,2026-03-10 19:45,Eastbourne Borough,Ebbsfleet United FC,1,3,4.200,3.700,1.650
-61914408,2026-03-10 19:45,Hemel Hempstead Town,Chippenham Town FC,3,2,1.909,3.400,3.400
-61914410,2026-03-10 19:45,Horsham FC,Hornchurch FC,0,2,2.550,3.300,2.375
-61914412,2026-03-10 19:45,Maidstone United FC,Dagenham and Redbridge FC,2,1,1.950,3.300,3.400
-61914414,2026-03-10 19:45,Slough Town,Hampton & Richmond Borough,1,2,2.150,3.500,2.750
-61914416,2026-03-10 19:45,Torquay United,Salisbury FC,2,1,1.666,3.900,3.900
-61914418,2026-03-10 19:45,Weston-super-Mare,AFC Totton,1,0,2.000,3.250,3.200
-61914420,2026-03-10 19:45,Worthing FC,Maidenhead United FC,0,0,1.850,3.600,3.400
-61914422,2026-03-14 15:00,Bath City FC,Hornchurch FC,2,2,3.200,3.300,2.050
-61914424,2026-03-14 15:00,Dorking Wanderers,Ebbsfleet United FC,2,1,2.800,3.400,2.150
-61914426,2026-03-14 15:00,Dover Athletic FC,Chippenham Town FC,0,1,2.100,3.300,3.000
-61914428,2026-03-14 15:00,Eastbourne Borough,Maidenhead United FC,0,0,3.100,3.200,2.050
-61914430,2026-03-14 15:00,Enfield Town,Dagenham and Redbridge FC,0,0,3.600,3.500,1.833
-61914432,2026-03-14 15:00,Hemel Hempstead Town,AFC Totton,2,0,1.727,3.500,4.000
-61914434,2026-03-14 15:00,Horsham FC,Tonbridge Angels,0,0,1.909,3.500,3.300
-61914436,2026-03-14 15:00,Maidstone United FC,Farnborough FC,1,0,1.480,3.800,5.750
-61914438,2026-03-14 15:00,Slough Town,Salisbury FC,3,3,2.350,3.500,2.500
-61914440,2026-03-14 15:00,Torquay United,Chesham United,2,1,2.300,3.400,2.600
-61914442,2026-03-14 15:00,Weston-super-Mare,Hampton & Richmond Borough,2,0,1.833,3.250,3.700
-61914444,2026-03-14 15:00,Worthing FC,Chelmsford City,2,0,2.050,3.600,2.900
-68124148,2026-03-16 19:45,Chelmsford City,Slough Town,2,0,1.571,3.800,4.750
-67870242,2026-03-17 19:45,Maidenhead United FC,Ebbsfleet United FC,2,3,,,
-68303890,2026-03-17 19:45,Horsham FC,Bath City FC,2,1,,,
-68533014,2026-03-17 19:45,Enfield Town,Dorking Wanderers,2,4,,,
-68719536,2026-03-17 19:45,Chesham United,AFC Totton,1,2,,,
-68840812,2026-03-17 19:45,Weston-super-Mare,Tonbridge Angels,0,1,,,
-69310226,2026-03-17 19:45,Farnborough FC,Dagenham and Redbridge FC,2,3,,,
-61914446,2026-03-21 15:00,AFC Totton,Worthing FC,0,3,4.200,4.200,1.615
-61914448,2026-03-21 15:00,Chelmsford City,Dover Athletic FC,0,2,1.480,4.500,5.250
-61914450,2026-03-21 15:00,Chesham United,Maidstone United FC,4,1,2.800,3.100,2.400
-61914452,2026-03-21 15:00,Chippenham Town FC,Eastbourne Borough,5,2,1.909,3.600,3.250
-61914454,2026-03-21 15:00,Dagenham and Redbridge FC,Torquay United,1,0,2.250,3.500,2.700
-61914456,2026-03-21 15:00,Ebbsfleet United FC,Weston-super-Mare,1,2,1.666,3.400,5.000
-61914458,2026-03-21 15:00,Farnborough FC,Slough Town,1,0,1.850,3.700,3.500
-61914460,2026-03-21 15:00,Hampton & Richmond Borough,Horsham FC,2,0,2.100,3.500,3.100
-61914462,2026-03-21 15:00,Hornchurch FC,Hemel Hempstead Town,0,1,2.000,3.400,3.400
-61914464,2026-03-21 15:00,Maidenhead United FC,Dorking Wanderers,1,0,2.150,3.400,3.000
-61914466,2026-03-21 15:00,Salisbury FC,Enfield Town,1,0,1.700,3.900,4.200
-61914468,2026-03-21 15:00,Tonbridge Angels,Bath City FC,1,1,2.100,3.400,3.100
-68674898,2026-03-24 19:45,Chesham United,Hornchurch FC,1,2,2.400,3.300,2.500
-68821142,2026-03-24 19:45,Weston-super-Mare,Worthing FC,2,3,2.900,3.400,2.100
-68840820,2026-03-24 19:45,Torquay United,Dorking Wanderers,2,2,2.000,3.600,2.900
-68931910,2026-03-24 19:45,Bath City FC,Hemel Hempstead Town,0,3,3.600,3.200,1.900
-69496200,2026-03-24 19:45,Enfield Town,Dover Athletic FC,3,1,2.450,3.300,2.450
-68567708,2026-03-25 19:45,Farnborough FC,Chelmsford City,4,2,3.300,3.600,1.900
-61914470,2026-03-28 15:00,Chesham United,Tonbridge Angels,1,0,1.850,3.400,3.700
-61914472,2026-03-28 15:00,Chippenham Town FC,Chelmsford City,0,1,3.250,3.300,2.000
-61914474,2026-03-28 15:00,Dagenham and Redbridge FC,Hampton & Richmond Borough,3,1,2.100,3.250,3.100
-61914476,2026-03-28 15:00,Dorking Wanderers,Hemel Hempstead Town,2,1,1.950,3.600,3.100
-61914478,2026-03-28 15:00,Eastbourne Borough,Bath City FC,1,2,2.050,3.600,2.900
-61914480,2026-03-28 15:00,Ebbsfleet United FC,Slough Town,1,1,1.420,4.200,6.000
-61914482,2026-03-28 15:00,Enfield Town,Worthing FC,1,1,6.500,4.333,1.363
-61914484,2026-03-28 15:00,Farnborough FC,Hornchurch FC,2,1,2.500,3.500,2.350
-61914486,2026-03-28 15:00,Maidenhead United FC,Weston-super-Mare,1,2,1.900,3.000,3.900
-61914488,2026-03-28 15:00,Maidstone United FC,AFC Totton,2,1,1.571,3.600,5.000
-61914490,2026-03-28 15:00,Salisbury FC,Dover Athletic FC,2,1,1.600,3.800,4.500
-61914492,2026-03-28 15:00,Torquay United,Horsham FC,2,0,1.666,3.600,4.100
-69021078,2026-03-30 18:45,Chelmsford City,AFC Totton,1,1,1.480,4.100,5.250
-68821144,2026-03-31 18:45,Weston-super-Mare,Hemel Hempstead Town,0,0,2.250,2.875,3.100
-69137480,2026-03-31 18:45,Enfield Town,Chesham United,3,4,4.100,3.500,1.700
-69143746,2026-03-31 18:45,Maidenhead United FC,Bath City FC,3,0,1.363,4.200,7.000
-61914494,2026-04-03 14:00,AFC Totton,Salisbury FC,2,1,2.400,3.500,2.400
-61914496,2026-04-03 14:00,Bath City FC,Chippenham Town FC,1,0,2.625,3.500,2.250
-61914498,2026-04-03 14:00,Chelmsford City,Enfield Town,3,0,1.300,4.500,8.000
-61914500,2026-04-03 14:00,Dover Athletic FC,Maidstone United FC,0,2,4.100,3.500,1.700
-61914502,2026-04-03 14:00,Hampton & Richmond Borough,Farnborough FC,3,1,2.000,3.500,3.100
-61914504,2026-04-03 14:00,Hemel Hempstead Town,Chesham United,0,3,2.450,3.250,2.500
-61914506,2026-04-03 14:00,Hornchurch FC,Dagenham and Redbridge FC,3,0,2.050,3.400,3.100
-61914508,2026-04-03 14:00,Horsham FC,Dorking Wanderers,3,0,3.300,3.700,1.850
-61914594,2026-04-03 14:00,Tonbridge Angels,Ebbsfleet United FC,1,2,3.500,3.300,1.900
-61914596,2026-04-03 14:00,Weston-super-Mare,Torquay United,0,3,2.400,3.400,2.500
-61914598,2026-04-03 14:00,Worthing FC,Eastbourne Borough,2,1,1.270,5.250,7.500
-61914600,2026-04-03 14:00,Slough Town,Maidenhead United FC,2,2,4.000,3.600,1.700
-61914602,2026-04-06 14:00,Farnborough FC,Horsham FC,2,0,2.300,3.400,2.600
-61914604,2026-04-06 14:00,Torquay United,Bath City FC,4,1,1.333,4.750,7.000
-61914606,2026-04-06 14:00,Salisbury FC,Weston-super-Mare,1,2,2.875,3.250,2.250
-61914608,2026-04-06 14:00,Maidstone United FC,Hornchurch FC,5,4,1.833,3.300,3.700
-61914610,2026-04-06 14:00,Maidenhead United FC,Hampton & Richmond Borough,2,1,1.700,3.400,4.333
-61914612,2026-04-06 14:00,Enfield Town,Hemel Hempstead Town,0,0,3.500,3.300,1.850
-61914614,2026-04-06 14:00,Ebbsfleet United FC,Dover Athletic FC,4,0,1.363,4.500,6.500
-61914616,2026-04-06 14:00,Eastbourne Borough,Tonbridge Angels,1,1,2.150,3.600,2.625
-61914618,2026-04-06 14:00,Dorking Wanderers,Worthing FC,1,2,2.350,3.800,2.300
-61914620,2026-04-06 14:00,Dagenham and Redbridge FC,Chelmsford City,3,3,3.000,3.250,2.150
-61914622,2026-04-06 14:00,Chippenham Town FC,AFC Totton,2,0,2.050,3.400,3.000
-61914624,2026-04-06 14:00,Chesham United,Slough Town,4,1,1.480,4.200,5.000
-61914626,2026-04-11 14:00,Weston-super-Mare,Enfield Town,1,0,1.363,4.200,7.000
-61914628,2026-04-11 14:00,Worthing FC,Dagenham and Redbridge FC,7,2,1.222,5.500,9.000
-61914630,2026-04-11 14:00,Tonbridge Angels,Salisbury FC,3,2,2.100,3.400,3.000
-61914632,2026-04-11 14:00,Slough Town,Torquay United,1,5,4.333,4.200,1.550
-61914634,2026-04-11 14:00,Horsham FC,Maidstone United FC,0,0,3.600,3.400,1.850
-61914636,2026-04-11 14:00,Hornchurch FC,Ebbsfleet United FC,1,0,2.550,3.200,2.450
-61914638,2026-04-11 14:00,Hampton & Richmond Borough,Chippenham Town FC,1,1,2.050,3.400,3.000
-61914640,2026-04-11 14:00,Dover Athletic FC,Farnborough FC,1,3,2.700,3.400,2.250
-61914642,2026-04-11 14:00,Chelmsford City,Maidenhead United FC,1,1,2.150,3.100,3.100
-61914644,2026-04-11 14:00,Bath City FC,Chesham United,1,0,4.750,3.800,1.571
-61914646,2026-04-11 14:00,AFC Totton,Dorking Wanderers,2,1,4.500,4.100,1.550
-61914648,2026-04-11 14:00,Hemel Hempstead Town,Eastbourne Borough,3,1,1.533,3.800,5.250
-68821146,2026-04-14 18:45,Weston-super-Mare,Horsham FC,1,0,1.500,3.750,5.500
-69025534,2026-04-14 18:45,Hornchurch FC,Chelmsford City,3,3,2.100,3.300,2.900
-69128026,2026-04-14 18:45,AFC Totton,Bath City FC,2,1,1.800,3.500,3.600
-61914650,2026-04-18 14:00,Maidstone United FC,Worthing FC,2,1,2.700,3.500,2.250
-61914652,2026-04-18 14:00,Torquay United,Hemel Hempstead Town,1,2,1.571,3.800,4.500
-61914654,2026-04-18 14:00,Salisbury FC,Horsham FC,2,1,2.150,3.400,2.875
-61914656,2026-04-18 14:00,Maidenhead United FC,Dover Athletic FC,1,0,1.222,5.250,10.000
-61914658,2026-04-18 14:00,Farnborough FC,Tonbridge Angels,1,6,2.250,3.500,2.625
-61914660,2026-04-18 14:00,Enfield Town,Slough Town,5,2,2.400,3.400,2.500
-61914662,2026-04-18 14:00,Eastbourne Borough,AFC Totton,2,3,2.050,3.900,2.700
-61914664,2026-04-18 14:00,Dorking Wanderers,Bath City FC,1,3,1.250,5.750,8.500
-61914666,2026-04-18 14:00,Dagenham and Redbridge FC,Weston-super-Mare,0,0,5.000,3.500,1.600
-61914668,2026-04-18 14:00,Chippenham Town FC,Hornchurch FC,1,3,3.750,3.600,1.750
-61914670,2026-04-18 14:00,Chesham United,Chelmsford City,0,2,2.350,3.400,2.500
-61914672,2026-04-18 14:00,Ebbsfleet United FC,Hampton & Richmond Borough,4,0,1.500,3.800,5.250
-61914674,2026-04-25 11:30,Worthing FC,Ebbsfleet United FC,2,0,1.615,4.200,3.800
-61914676,2026-04-25 11:30,Weston-super-Mare,Dorking Wanderers,1,1,2.300,3.400,2.600
-61914678,2026-04-25 11:30,Tonbridge Angels,Torquay United,1,2,4.500,4.000,1.550
-61914680,2026-04-25 11:30,Slough Town,Dagenham and Redbridge FC,3,2,2.450,3.500,2.375
-61914682,2026-04-25 11:30,Horsham FC,Chippenham Town FC,3,2,2.100,3.200,3.000
-61914684,2026-04-25 11:30,Hornchurch FC,Maidenhead United FC,0,0,2.550,3.300,2.375
-61914686,2026-04-25 11:30,Hemel Hempstead Town,Salisbury FC,1,1,1.480,4.100,5.000
-61914688,2026-04-25 11:30,Hampton & Richmond Borough,Enfield Town,1,0,1.500,3.900,5.000
-61914690,2026-04-25 11:30,Dover Athletic FC,Chesham United,2,2,3.900,3.900,1.700
-61914692,2026-04-25 11:30,Chelmsford City,Eastbourne Borough,1,3,1.380,4.750,5.500
-61914694,2026-04-25 11:30,Bath City FC,Maidstone United FC,2,3,6.000,3.900,1.444
-61914696,2026-04-25 11:30,AFC Totton,Farnborough FC,1,6,1.900,3.800,3.100
-71073856,2026-04-28 18:45,Hemel Hempstead Town,Weston-super-Mare,1,1,2.500,3.100,2.600
-71073858,2026-04-29 18:45,Dorking Wanderers,Maidenhead United FC,2,0,1.800,3.600,3.500
-71193108,2026-05-02 11:30,Torquay United,Dorking Wanderers,4,2,2.350,3.400,2.550
-71173988,2026-05-02 15:00,Hornchurch FC,Weston-super-Mare,2,0,2.200,3.300,2.800
-71252080,2026-05-09 14:00,Hornchurch FC,Torquay United,2,2,2.550,3.300,2.400
-72757930,2026-08-08 14:00,Billericay Town,Dover Athletic FC,2,0,1.800,3.700,3.500
-72757932,2026-08-08 14:00,Braintree Town FC,Tonbridge Angels,0,4,2.450,3.400,2.450
-72757934,2026-08-08 14:00,Dorking Wanderers,Dagenham and Redbridge FC,0,1,2.200,3.400,2.750
-72757936,2026-08-08 14:00,Farnham Town,AFC Totton,0,1,1.900,3.600,3.300
-72757938,2026-08-08 14:00,Folkestone Invicta,Walton and Hersham FC,5,1,1.833,3.700,3.300
-72757940,2026-08-08 14:00,Hemel Hempstead Town,Chelmsford City,1,1,2.550,3.400,2.375
-72757942,2026-08-08 14:00,Maidstone United FC,Farnborough FC,1,2,1.533,4.000,5.000
-72757944,2026-08-08 14:00,Salisbury FC,Hampton & Richmond Borough,5,0,2.800,3.300,2.200
-72757948,2026-08-08 14:00,Torquay United,Horsham FC,1,1,1.450,4.200,5.500
-72757950,2026-08-08 14:00,Truro City,Maidenhead United FC,2,0,1.950,3.600,3.100
-72757952,2026-08-08 14:00,Weston-super-Mare,Chesham United,3,0,2.150,3.200,3.000
-72757960,2026-08-14 19:00,Dagenham and Redbridge FC,Farnham Town,2,1,1.666,3.800,4.100
-72757954,2026-08-15 14:00,AFC Totton,Billericay Town,1,0,2.150,3.400,2.750
-72757956,2026-08-15 14:00,Braintree Town FC,Chesham United,3,2,3.000,3.700,1.950
-72757958,2026-08-15 14:00,Chelmsford City,Truro City,0,0,1.950,3.500,3.250
-72757962,2026-08-15 14:00,Dover Athletic FC,Slough Town,5,3,2.200,3.400,2.625
-72757966,2026-08-15 14:00,Farnborough FC,Hemel Hempstead Town,0,2,2.400,3.300,2.500
-72757968,2026-08-15 14:00,Horsham FC,Salisbury FC,0,0,2.200,3.600,2.600
-72757970,2026-08-15 14:00,Maidenhead United FC,Dorking Wanderers,0,0,2.350,3.500,2.450
-72757972,2026-08-15 14:00,Tonbridge Angels,Torquay United,1,2,3.250,3.600,1.850
-72757974,2026-08-15 14:00,Walton and Hersham FC,Maidstone United FC,0,3,3.300,3.700,1.850
-72757976,2026-08-15 14:00,Weston-super-Mare,Hampton & Richmond Borough,3,0,1.571,3.600,5.250
-72757980,2026-08-18 18:45,AFC Totton,Dorking Wanderers,0,3,2.800,3.600,2.100
-72757982,2026-08-18 18:45,Dover Athletic FC,Tonbridge Angels,0,1,2.800,3.600,2.100
-72757984,2026-08-18 18:45,Hemel Hempstead Town,Maidenhead United FC,0,1,2.300,3.250,2.700
-72757986,2026-08-18 18:45,Horsham FC,Hampton & Richmond Borough,2,0,1.750,3.600,3.800
-72757988,2026-08-18 18:45,Maidstone United FC,Folkestone Invicta,1,1,1.909,3.500,3.300
-72757990,2026-08-18 18:45,Slough Town,Farnham Town,0,1,3.200,3.900,1.850
-72757992,2026-08-18 18:45,Torquay United,Weston-super-Mare,0,0,1.800,3.600,3.500
-72757994,2026-08-18 18:45,Walton and Hersham FC,Dagenham and Redbridge FC,0,2,4.750,3.900,1.533
-72757996,2026-08-19 18:45,Farnborough FC,Chesham United,1,0,2.625,3.600,2.200
-72758002,2026-08-22 14:00,Braintree Town FC,Horsham FC,1,2,2.800,3.400,2.100
-72758004,2026-08-22 14:00,Chesham United,Walton and Hersham FC,2,0,1.450,3.900,5.750
-72758006,2026-08-22 14:00,Dagenham and Redbridge FC,Torquay United,2,0,2.500,3.300,2.450
-72758008,2026-08-22 14:00,Dorking Wanderers,Maidstone United FC,2,3,2.000,3.500,3.000
-72758012,2026-08-22 14:00,Farnham Town,Billericay Town,2,4,1.833,3.600,3.400
-72758014,2026-08-22 14:00,Folkestone Invicta,Chelmsford City,1,1,2.200,3.500,2.800
-72758016,2026-08-22 14:00,Hampton & Richmond Borough,Slough Town,5,3,2.050,3.400,2.875
-72758018,2026-08-22 14:00,Maidenhead United FC,Farnborough FC,1,1,1.800,3.700,3.500
-72758020,2026-08-22 14:00,Salisbury FC,Hemel Hempstead Town,1,2,2.375,3.300,2.550
-72758022,2026-08-22 14:00,Tonbridge Angels,Truro City,0,2,2.500,3.250,2.450
-72758024,2026-08-22 14:00,Weston-super-Mare,Dover Athletic FC,2,3,1.533,4.000,4.750
-72758026,2026-08-29 14:00,AFC Totton,Chesham United,0,4,2.625,3.500,2.200
-72758028,2026-08-29 14:00,Billericay Town,Tonbridge Angels,2,2,2.100,3.300,2.900
-72758030,2026-08-29 14:00,Chelmsford City,Maidenhead United FC,1,0,2.000,3.300,3.250
-72758032,2026-08-29 14:00,Dover Athletic FC,Braintree Town FC,3,3,2.000,3.600,3.100
-72758036,2026-08-29 14:00,Hemel Hempstead Town,Weston-super-Mare,1,3,2.375,3.000,2.700
-72758038,2026-08-29 14:00,Horsham FC,Farnham Town,1,2,1.727,3.800,3.500
-72758040,2026-08-29 14:00,Maidstone United FC,Salisbury FC,2,1,1.700,3.600,3.900
-72758042,2026-08-29 14:00,Slough Town,Folkestone Invicta,0,2,4.000,3.750,1.650
-72758044,2026-08-29 14:00,Torquay United,Hampton & Richmond Borough,1,1,1.363,4.500,7.000
-72758046,2026-08-29 14:00,Truro City,Dagenham and Redbridge FC,3,0,2.100,3.400,3.000
-72758048,2026-08-29 14:00,Walton and Hersham FC,Dorking Wanderers,1,4,4.200,4.333,1.550
-72758050,2026-08-31 14:00,Braintree Town FC,Farnborough FC,0,2,3.200,3.700,1.900
-72758052,2026-08-31 14:00,Chesham United,Dover Athletic FC,2,2,1.550,3.900,4.750
-72758054,2026-08-31 14:00,Dagenham and Redbridge FC,Slough Town,1,0,1.380,4.200,6.250
-72758056,2026-08-31 14:00,Dorking Wanderers,Truro City,1,0,2.050,3.600,2.800
-72758060,2026-08-31 14:00,Farnham Town,Torquay United,2,0,3.200,3.800,1.833
-72758062,2026-08-31 14:00,Folkestone Invicta,Hemel Hempstead Town,2,0,1.900,3.750,3.250
-72758064,2026-08-31 14:00,Hampton & Richmond Borough,Maidstone United FC,1,4,3.700,3.500,1.800
-72758066,2026-08-31 14:00,Maidenhead United FC,AFC Totton,1,1,1.615,3.700,4.333
-72758068,2026-08-31 14:00,Salisbury FC,Billericay Town,1,0,2.150,3.300,2.875
-72758070,2026-08-31 14:00,Tonbridge Angels,Walton and Hersham FC,5,1,1.571,4.100,4.333
-72758072,2026-08-31 14:00,Weston-super-Mare,Chelmsford City,1,1,2.300,3.200,2.700
-72758074,2026-09-05 14:00,AFC Totton,Hampton & Richmond Borough,4,1,1.833,3.600,3.400
-72758076,2026-09-05 14:00,Billericay Town,Dorking Wanderers,3,3,2.700,3.600,2.100
-72758078,2026-09-05 14:00,Chelmsford City,Salisbury FC,1,1,1.727,3.600,3.800
-72758080,2026-09-05 14:00,Dover Athletic FC,Maidenhead United FC,0,3,3.400,3.500,1.900
-72758082,2026-09-05 14:00,Farnborough FC,Tonbridge Angels,0,4,2.150,3.500,2.750
-72758084,2026-09-05 14:00,Hemel Hempstead Town,Farnham Town,1,1,2.100,3.400,2.875
-72758086,2026-09-05 14:00,Horsham FC,Dagenham and Redbridge FC,1,1,2.500,3.250,2.400
-72758088,2026-09-05 14:00,Maidstone United FC,Weston-super-Mare,1,0,2.000,3.250,3.200
-72758090,2026-09-05 14:00,Slough Town,Braintree Town FC,1,2,2.300,3.400,2.600
-72758092,2026-09-05 14:00,Torquay United,Folkestone Invicta,3,2,1.727,3.600,3.800
-72758094,2026-09-05 14:00,Truro City,Chesham United,3,1,1.700,3.600,4.000
-72758096,2026-09-05 14:00,Walton and Hersham FC,Ebbsfleet United FC,0,2,3.900,4.200,1.615
-72758098,2026-09-08 18:45,Chesham United,Billericay Town,1,2,1.850,3.700,3.300
-72758100,2026-09-08 18:45,Dagenham and Redbridge FC,Dover Athletic FC,0,1,1.300,5.000,7.000
-72758102,2026-09-08 18:45,Dorking Wanderers,Chelmsford City,3,3,1.850,4.000,3.100
-72758104,2026-09-08 18:45,Ebbsfleet United FC,Hemel Hempstead Town,0,0,1.750,3.600,3.750
-72758106,2026-09-08 18:45,Folkestone Invicta,Horsham FC,1,1,1.800,3.600,3.600
-72758108,2026-09-08 18:45,Hampton & Richmond Borough,Farnborough FC,2,0,2.625,3.600,2.200
-72758110,2026-09-08 18:45,Maidenhead United FC,Torquay United,0,4,2.700,3.500,2.250
-72758112,2026-09-08 18:45,Salisbury FC,Slough Town,5,1,1.300,5.000,7.000
-72758114,2026-09-08 18:45,Tonbridge Angels,Maidstone United FC,0,1,2.750,3.600,2.100
-72758116,2026-09-08 18:45,Weston-super-Mare,AFC Totton,3,1,1.666,3.700,4.200
-72758122,2026-09-12 14:00,Farnborough FC,Dover Athletic FC,0,1,1.833,3.600,3.400
-72758124,2026-09-12 14:00,Folkestone Invicta,Farnham Town,1,2,1.700,3.900,3.750
-72758126,2026-09-12 14:00,Hampton & Richmond Borough,Chelmsford City,1,1,3.500,3.500,1.850
-72758128,2026-09-12 14:00,Hemel Hempstead Town,Tonbridge Angels,1,1,2.350,3.300,2.550
-72758130,2026-09-12 14:00,Horsham FC,Chesham United,1,4,2.150,3.400,2.800
-72758132,2026-09-12 14:00,Maidenhead United FC,Billericay Town,2,2,1.909,3.500,3.100
-72758134,2026-09-12 14:00,Torquay United,Dorking Wanderers,2,2,1.750,3.900,3.400
-72758136,2026-09-12 14:00,Truro City,Walton and Hersham FC,1,1,1.181,6.500,9.500
-72758138,2026-09-12 14:00,Weston-super-Mare,Dagenham and Redbridge FC,1,0,2.375,3.100,2.700
-72758140,2026-09-12 14:00,AFC Totton,Slough Town,0,1,1.600,3.900,4.333
-72758142,2026-09-12 14:00,Braintree Town FC,Maidstone United FC,2,1,4.100,3.800,1.650
-72758144,2026-09-12 14:00,Ebbsfleet United FC,Salisbury FC,1,1,1.750,3.600,3.700
-72757998,2026-09-15 18:45,Billericay Town,Braintree Town FC,3,2,1.650,3.800,4.200
-72758000,2026-09-15 18:45,Truro City,Salisbury FC,0,1,1.666,3.600,4.333
-72758146,2026-09-26 14:00,Billericay Town,Torquay United,3,0,2.800,3.600,2.100
-72758148,2026-09-26 14:00,Chelmsford City,Horsham FC,0,0,1.833,3.500,3.600
-72758150,2026-09-26 14:00,Chesham United,Maidenhead United FC,0,4,2.300,3.600,2.500
-72758152,2026-09-26 14:00,Dagenham and Redbridge FC,Hampton & Richmond Borough,1,0,1.444,4.000,5.750
-72758154,2026-09-26 14:00,Dorking Wanderers,Braintree Town FC,4,3,1.333,5.000,5.750
-72758156,2026-09-26 14:00,Dover Athletic FC,AFC Totton,2,0,2.150,3.600,2.700
-72758158,2026-09-26 14:00,Farnham Town,Weston-super-Mare,3,2,2.700,3.700,2.100
-72758160,2026-09-26 14:00,Maidstone United FC,Truro City,1,2,2.450,3.500,2.375
-72758162,2026-09-26 14:00,Salisbury FC,Folkestone Invicta,2,0,2.200,3.600,2.750
-72758164,2026-09-26 14:00,Slough Town,Hemel Hempstead Town,0,2,3.250,3.750,1.833
-72758166,2026-09-26 14:00,Tonbridge Angels,Ebbsfleet United FC,1,2,2.500,3.300,2.400
-72758168,2026-09-26 14:00,Walton and Hersham FC,Farnborough FC,2,2,3.100,3.700,1.900
-74795888,2026-09-29 18:45,Slough Town,Ebbsfleet United FC,1,1,5.500,4.200,1.444
-72758118,2026-10-06 18:45,Braintree Town FC,Walton and Hersham FC,1,3,1.615,3.800,4.200
-72758120,2026-10-06 18:45,Farnham Town,Truro City,2,2,3.900,3.900,1.666
-74795890,2026-10-06 18:45,Ebbsfleet United FC,Folkestone Invicta,1,0,1.600,3.900,4.200
-72758170,2026-10-10 14:00,AFC Totton,Walton and Hersham FC,0,1,1.750,3.750,3.700
-72758172,2026-10-10 14:00,Billericay Town,Farnborough FC,4,0,1.615,3.900,4.100
-72758174,2026-10-10 14:00,Braintree Town FC,Truro City,1,2,4.333,3.900,1.600
-72758176,2026-10-10 14:00,Chesham United,Chelmsford City,0,5,2.200,3.750,2.500
-72758178,2026-10-10 14:00,Dagenham and Redbridge FC,Hemel Hempstead Town,0,0,2.100,3.400,2.875
-72758180,2026-10-10 14:00,Dover Athletic FC,Dorking Wanderers,1,1,3.100,3.700,1.900
-72758182,2026-10-10 14:00,Farnham Town,Salisbury FC,1,2,2.550,3.500,2.300
-72758184,2026-10-10 14:00,Hampton & Richmond Borough,Ebbsfleet United FC,0,2,4.200,3.700,1.650
-72758186,2026-10-10 14:00,Horsham FC,Maidstone United FC,1,2,2.700,3.300,2.250
-72758188,2026-10-10 14:00,Maidenhead United FC,Tonbridge Angels,0,1,2.000,3.600,3.000
-72758190,2026-10-10 14:00,Torquay United,Slough Town,5,1,1.300,5.250,7.000
-72758192,2026-10-10 14:00,Weston-super-Mare,Folkestone Invicta,1,1,2.000,3.400,3.200
-74795892,2026-10-13 18:45,Ebbsfleet United FC,AFC Totton,5,0,1.400,4.500,6.250
-72758198,2026-10-17 14:00,Ebbsfleet United FC,Weston-super-Mare,6,1,1.700,3.500,4.200
-72758200,2026-10-17 14:00,Farnborough FC,Dagenham and Redbridge FC,2,0,3.100,3.600,1.950
-72758202,2026-10-17 14:00,Folkestone Invicta,AFC Totton,2,1,1.615,3.800,4.333
-72758206,2026-10-17 14:00,Maidstone United FC,Maidenhead United FC,2,1,2.150,3.400,2.800
-72758210,2026-10-17 14:00,Slough Town,Horsham FC,1,2,3.500,3.700,1.800
-72758600,2026-10-17 14:00,Tonbridge Angels,Hemel Hempstead Town,1,0,2.100,3.300,2.900
-74795950,2026-10-20 18:45,Ebbsfleet United FC,Horsham FC,2,2,1.480,3.800,5.750
-72758218,2026-10-24 14:00,Chelmsford City,Tonbridge Angels,3,3,1.850,3.500,3.400
-72758220,2026-10-24 14:00,Dagenham and Redbridge FC,Chesham United,2,0,1.833,3.500,3.500
-72758222,2026-10-24 14:00,Ebbsfleet United FC,Maidenhead United FC,4,0,1.700,3.600,4.000
-72758224,2026-10-24 14:00,Farnham Town,Braintree Town FC,6,0,1.700,3.800,3.750
-72758226,2026-10-24 14:00,Folkestone Invicta,Farnborough FC,2,0,1.727,3.750,3.750
-72758228,2026-10-24 14:00,Hampton & Richmond Borough,Truro City,3,4,4.100,3.700,1.666
-72758230,2026-10-24 14:00,Hemel Hempstead Town,AFC Totton,1,3,1.550,3.900,4.500
-72758232,2026-10-24 14:00,Horsham FC,Walton and Hersham FC,1,0,1.420,4.333,5.750
-72758234,2026-10-24 14:00,Salisbury FC,Dover Athletic FC,1,1,1.420,4.500,5.250
-72758236,2026-10-24 14:00,Slough Town,Dorking Wanderers,1,3,3.600,4.000,1.700
-72758238,2026-10-24 14:00,Torquay United,Maidstone United FC,1,1,2.100,3.500,2.750
-72758240,2026-10-24 14:00,Weston-super-Mare,Billericay Town,0,1,2.150,3.500,2.750
-72758242,2026-10-27 19:45,AFC Totton,Torquay United,1,0,3.500,3.900,1.750
-72758244,2026-10-27 19:45,Billericay Town,Hampton & Richmond Borough,2,2,1.571,4.333,4.000
-72758246,2026-10-27 19:45,Braintree Town FC,Dagenham and Redbridge FC,2,1,3.750,3.800,1.727
-72758248,2026-10-27 19:45,Chesham United,Farnham Town,2,4,2.500,3.700,2.250
-72758250,2026-10-27 19:45,Dorking Wanderers,Hemel Hempstead Town,3,3,1.833,3.600,3.300
-72758252,2026-10-27 19:45,Dover Athletic FC,Chelmsford City,0,1,3.250,3.800,1.850
-72758254,2026-10-27 19:45,Maidenhead United FC,Horsham FC,1,1,2.050,3.400,2.900
-72758256,2026-10-27 19:45,Maidstone United FC,Ebbsfleet United FC,1,3,3.000,3.400,2.050
-72758258,2026-10-27 19:45,Tonbridge Angels,Folkestone Invicta,2,0,2.150,3.500,2.750
-72758260,2026-10-27 19:45,Truro City,Slough Town,3,1,1.250,5.500,7.500
-72758262,2026-10-27 19:45,Walton and Hersham FC,Salisbury FC,0,2,4.200,4.333,1.550
-72758264,2026-10-28 19:45,Farnborough FC,Weston-super-Mare,2,1,2.800,3.500,2.150
-72758266,2026-10-31 15:00,AFC Totton,Chelmsford City,1,3,3.500,3.600,1.800
-72758268,2026-10-31 15:00,Billericay Town,Hemel Hempstead Town,5,0,1.750,3.700,3.600
-72758270,2026-10-31 15:00,Braintree Town FC,Hampton & Richmond Borough,1,0,2.625,3.500,2.250
-72758272,2026-10-31 15:00,Chesham United,Folkestone Invicta,2,2,2.375,3.700,2.375
-72758274,2026-10-31 15:00,Dorking Wanderers,Weston-super-Mare,2,0,1.950,3.600,3.100
-72758276,2026-10-31 15:00,Dover Athletic FC,Farnham Town,1,0,2.700,3.900,2.050
-72758278,2026-10-31 15:00,Farnborough FC,Horsham FC,0,5,2.875,3.500,2.050
-72758280,2026-10-31 15:00,Maidenhead United FC,Dagenham and Redbridge FC,0,0,2.450,3.250,2.550
-72758282,2026-10-31 15:00,Maidstone United FC,Slough Town,2,1,1.333,5.000,6.250
-72758284,2026-10-31 15:00,Tonbridge Angels,Salisbury FC,1,2,2.350,3.400,2.550
-72758286,2026-10-31 15:00,Truro City,Ebbsfleet United FC,3,0,2.300,3.400,2.600
-72758288,2026-10-31 15:00,Walton and Hersham FC,Torquay United,0,3,3.700,3.600,1.800
-75597592,2026-11-02 19:45,Chelmsford City,Farnham Town,0,2,1.750,3.800,3.500
-75018346,2026-11-03 19:45,Farnborough FC,Ebbsfleet United FC,0,6,5.000,4.100,1.500
-75445666,2026-11-03 19:45,Dorking Wanderers,Hampton & Richmond Borough,3,2,1.380,4.500,6.000
-72758290,2026-11-07 15:00,Chelmsford City,Farnborough FC,2,1,1.500,4.100,4.750
-72758292,2026-11-07 15:00,Dagenham and Redbridge FC,Billericay Town,2,2,2.000,3.400,3.000
-72758294,2026-11-07 15:00,Ebbsfleet United FC,Chesham United,1,0,1.300,4.750,7.000
-72758296,2026-11-07 15:00,Farnham Town,Tonbridge Angels,3,1,2.150,3.500,2.800
-72758300,2026-11-07 15:00,Hampton & Richmond Borough,Maidenhead United FC,1,1,2.400,3.300,2.500
-72758302,2026-11-07 15:00,Hemel Hempstead Town,Maidstone United FC,1,2,2.900,3.400,2.100
-72758304,2026-11-07 15:00,Horsham FC,AFC Totton,2,3,1.533,3.900,5.000
-72758308,2026-11-07 15:00,Slough Town,Walton and Hersham FC,3,1,2.000,3.800,2.875
-72758312,2026-11-07 15:00,Weston-super-Mare,Braintree Town FC,4,1,1.500,3.900,5.000
-75018348,2026-11-09 19:45,Chelmsford City,Ebbsfleet United FC,2,2,3.500,3.600,1.800
-76122398,2026-11-10 19:45,Hemel Hempstead Town,Torquay United,0,2,3.200,3.700,1.950
-76122400,2026-11-10 19:45,Salisbury FC,Braintree Town FC,2,0,1.333,5.000,7.000
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+61913518,2025-08-09 14:00,Farnborough FC,Eastbourne Borough,1,1,,,,,,
+61913526,2025-08-09 14:00,Maidenhead United FC,Chesham United,1,2,,,,,,
+61913528,2025-08-09 14:00,Tonbridge Angels,Slough Town,0,0,,,,,,
+61913544,2025-08-16 14:00,Ebbsfleet United FC,Chippenham Town FC,1,0,,,,,,
+61913554,2025-08-16 14:00,Slough Town,Hemel Hempstead Town,0,1,,,,,,
+61913562,2025-08-19 18:45,Dagenham and Redbridge FC,Tonbridge Angels,2,2,,,,,,
+61913564,2025-08-19 18:45,Dorking Wanderers,Slough Town,2,0,,,,,,
+61913568,2025-08-19 18:45,Ebbsfleet United FC,Chelmsford City,1,0,,,,,,
+61913574,2025-08-19 18:45,Maidstone United FC,Hampton & Richmond Borough,2,0,,,,,,
+61913594,2025-08-23 14:00,Hornchurch FC,Farnborough FC,3,1,,,,,,
+61913598,2025-08-23 14:00,Slough Town,Ebbsfleet United FC,2,0,,,,,,
+61913600,2025-08-23 14:00,Tonbridge Angels,Chesham United,0,0,,,,,,
+61913610,2025-08-25 14:00,Dagenham and Redbridge FC,Hemel Hempstead Town,2,1,,,,,,
+61913622,2025-08-25 14:00,Maidenhead United FC,Horsham FC,2,1,,,,,,
+61913624,2025-08-25 14:00,Maidstone United FC,Chelmsford City,0,0,,,,,,
+61913626,2025-08-25 14:00,Salisbury FC,Hornchurch FC,3,3,,,,,,
+61913628,2025-08-25 14:00,Torquay United,Dover Athletic FC,3,2,,,,,,
+61913654,2025-09-01 18:45,Chelmsford City,Farnborough FC,2,5,,,,,,
+61913658,2025-09-02 18:45,Bath City FC,Maidenhead United FC,0,4,,,,,,
+61913662,2025-09-02 18:45,Hampton & Richmond Borough,Torquay United,2,2,,,,,,
+61913664,2025-09-02 18:45,Hemel Hempstead Town,Ebbsfleet United FC,0,0,,,,,,
+61913666,2025-09-02 18:45,Hornchurch FC,Dorking Wanderers,1,0,,,,,,
+61913670,2025-09-02 18:45,Slough Town,Chippenham Town FC,3,2,,,,,,
+61913674,2025-09-02 18:45,Weston-super-Mare,Maidstone United FC,3,0,,,,,,
+61913682,2025-09-06 14:00,Dagenham and Redbridge FC,Worthing FC,2,5,,,,,,
+61913684,2025-09-06 14:00,Dorking Wanderers,AFC Totton,2,1,,,,,,
+61913688,2025-09-06 14:00,Ebbsfleet United FC,Hornchurch FC,1,1,,,,,,
+61913692,2025-09-06 14:00,Farnborough FC,Dover Athletic FC,1,2,,,,,,
+61913696,2025-09-06 14:00,Maidstone United FC,Horsham FC,0,3,,,,,,
+61913704,2025-09-20 14:00,Dorking Wanderers,Dagenham and Redbridge FC,0,0,,,,,,
+61913712,2025-09-20 14:00,Hemel Hempstead Town,Farnborough FC,1,0,,,,,,
+61913716,2025-09-20 14:00,Maidstone United FC,Maidenhead United FC,0,1,,,,,,
+61913718,2025-09-20 14:00,Slough Town,Hornchurch FC,2,5,,,,,,
+61913736,2025-10-04 14:00,Ebbsfleet United FC,Eastbourne Borough,2,2,,,,,,
+61913740,2025-10-04 14:00,Hampton & Richmond Borough,Slough Town,2,3,,,,,,
+61913744,2025-10-04 14:00,Maidenhead United FC,Worthing FC,1,0,,,,,,
+61913764,2025-10-11 14:00,Maidstone United FC,Chesham United,0,0,,,,,,
+61913768,2025-10-11 14:00,Torquay United,Dagenham and Redbridge FC,0,0,,,,,,
+61914190,2025-10-11 14:00,Dover Athletic FC,Horsham FC,1,1,,,,,,
+61913780,2025-10-18 14:00,Chippenham Town FC,Dover Athletic FC,1,1,,,,,,
+61913782,2025-10-18 14:00,Dagenham and Redbridge FC,Enfield Town,3,2,,,,,,
+61913800,2025-10-21 18:45,Bath City FC,AFC Totton,2,0,,,,,,
+61913804,2025-10-21 18:45,Dagenham and Redbridge FC,Horsham FC,1,2,,,,,,
+61913806,2025-10-21 18:45,Dover Athletic FC,Dorking Wanderers,2,2,,,,,,
+61913810,2025-10-21 18:45,Hampton & Richmond Borough,Hemel Hempstead Town,1,2,,,,,,
+61913812,2025-10-21 18:45,Maidenhead United FC,Tonbridge Angels,1,1,,,,,,
+61913820,2025-10-21 18:45,Weston-super-Mare,Slough Town,5,1,,,,,,
+64294551,2025-10-28 19:45,Dorking Wanderers,Maidenhead United FC,1,0,,,,,,
+64480171,2025-10-28 19:45,Dover Athletic FC,Chelmsford City,0,0,,,,,,
+61913846,2025-11-01 15:00,Bath City FC,Horsham FC,0,2,,,,,,
+61913850,2025-11-01 15:00,Chesham United,Chippenham Town FC,2,1,,,,,,
+61913852,2025-11-01 15:00,Dagenham and Redbridge FC,Farnborough FC,0,0,,,,,,
+61913856,2025-11-01 15:00,Enfield Town,Eastbourne Borough,1,2,,,,,,
+61913862,2025-11-01 15:00,Maidstone United FC,Tonbridge Angels,1,2,,,,,,
+61913864,2025-11-01 15:00,Salisbury FC,Dorking Wanderers,0,2,,,,,,
+61913866,2025-11-01 15:00,Torquay United,Hornchurch FC,1,2,,,,,,
+61913890,2025-11-01 15:00,Worthing FC,Hampton & Richmond Borough,3,0,,,,,,
+61913870,2025-11-04 19:45,AFC Totton,Maidenhead United FC,2,1,,,,,,
+61913872,2025-11-04 19:45,Chippenham Town FC,Salisbury FC,2,2,,,,,,
+61913874,2025-11-04 19:45,Dorking Wanderers,Enfield Town,2,1,,,,,,
+61913876,2025-11-04 19:45,Eastbourne Borough,Dagenham and Redbridge FC,1,2,,,,,,
+61913878,2025-11-04 19:45,Ebbsfleet United FC,Maidstone United FC,1,0,,,,,,
+61913880,2025-11-04 19:45,Hemel Hempstead Town,Weston-super-Mare,3,0,,,,,,
+61913882,2025-11-04 19:45,Hornchurch FC,Chesham United,1,1,,,,,,
+61913884,2025-11-04 19:45,Horsham FC,Dover Athletic FC,1,1,,,,,,
+61913886,2025-11-04 19:45,Slough Town,Bath City FC,2,3,,,,,,
+61913888,2025-11-04 19:45,Tonbridge Angels,Chelmsford City,2,4,,,,,,
+61913894,2025-11-08 15:00,AFC Totton,Ebbsfleet United FC,0,2,,,,,,
+61913896,2025-11-08 15:00,Bath City FC,Dagenham and Redbridge FC,0,0,,,,,,
+61913898,2025-11-08 15:00,Chelmsford City,Hampton & Richmond Borough,1,0,,,,,,
+61913900,2025-11-08 15:00,Chesham United,Salisbury FC,0,1,,,,,,
+61913902,2025-11-08 15:00,Dover Athletic FC,Enfield Town,4,1,,,,,,
+61913904,2025-11-08 15:00,Eastbourne Borough,Weston-super-Mare,1,2,,,,,,
+61913906,2025-11-08 15:00,Farnborough FC,Dorking Wanderers,2,0,,,,,,
+61913908,2025-11-08 15:00,Horsham FC,Slough Town,1,0,,,,,,
+61913910,2025-11-08 15:00,Maidenhead United FC,Torquay United,1,2,,,,,,
+61913912,2025-11-08 15:00,Maidstone United FC,Chippenham Town FC,3,0,,,,,,
+61913914,2025-11-08 15:00,Tonbridge Angels,Hornchurch FC,0,1,,,,,,
+61913916,2025-11-08 15:00,Worthing FC,Hemel Hempstead Town,4,0,,,,,,
+64480175,2025-11-10 19:45,Chelmsford City,Hornchurch FC,2,0,,,,,,
+64201313,2025-11-11 19:45,Horsham FC,Hampton & Richmond Borough,0,0,,,,,,
+64294563,2025-11-11 19:45,Eastbourne Borough,Chippenham Town FC,2,2,,,,,,
+64294565,2025-11-11 19:45,Enfield Town,Salisbury FC,1,2,,,,,,
+64294567,2025-11-11 19:45,Worthing FC,AFC Totton,4,0,,,,,,
+64480181,2025-11-11 19:45,Bath City FC,Tonbridge Angels,1,1,,,,,,
+64201309,2025-11-18 19:45,Weston-super-Mare,Ebbsfleet United FC,1,0,,,,,,
+64480185,2025-11-18 19:45,Slough Town,Farnborough FC,2,0,,,,,,
+61913918,2025-11-22 15:00,Chippenham Town FC,Tonbridge Angels,1,0,,,,,,
+61913920,2025-11-22 15:00,Dagenham and Redbridge FC,Maidenhead United FC,1,0,,,,,,
+61913922,2025-11-22 15:00,Dorking Wanderers,Maidstone United FC,3,1,,,,,,
+61913924,2025-11-22 15:00,Ebbsfleet United FC,Chesham United,2,1,,,,,,
+61913926,2025-11-22 15:00,Enfield Town,Farnborough FC,5,1,,,,,,
+61913928,2025-11-22 15:00,Hampton & Richmond Borough,Bath City FC,1,2,,,,,,
+61913930,2025-11-22 15:00,Hemel Hempstead Town,Horsham FC,1,1,,,,,,
+61913932,2025-11-22 15:00,Hornchurch FC,AFC Totton,1,1,,,,,,
+61913934,2025-11-22 15:00,Salisbury FC,Chelmsford City,3,0,,,,,,
+61913936,2025-11-22 15:00,Slough Town,Worthing FC,1,2,,,,,,
+61913938,2025-11-22 15:00,Torquay United,Eastbourne Borough,7,0,,,,,,
+61913940,2025-11-22 15:00,Weston-super-Mare,Dover Athletic FC,1,2,,,,,,
+61913942,2025-11-25 19:45,Chippenham Town FC,Farnborough FC,2,2,,,,,,
+61913944,2025-11-25 19:45,Dagenham and Redbridge FC,Chesham United,3,1,,,,,,
+61913948,2025-11-25 19:45,Ebbsfleet United FC,Horsham FC,1,2,,,,,,
+61913950,2025-11-25 19:45,Enfield Town,Maidstone United FC,2,1,,,,,,
+61913952,2025-11-25 19:45,Hampton & Richmond Borough,Tonbridge Angels,0,3,,,,,,
+61913954,2025-11-25 19:45,Hemel Hempstead Town,Chelmsford City,2,1,,,,,,
+61913958,2025-11-25 19:45,Salisbury FC,Maidenhead United FC,0,6,,,,,,
+61913960,2025-11-25 19:45,Slough Town,AFC Totton,3,2,,,,,,
+61913962,2025-11-25 19:45,Torquay United,Worthing FC,3,2,,,,,,
+61913964,2025-11-25 19:45,Weston-super-Mare,Bath City FC,2,1,,,,,,
+61913966,2025-11-29 15:00,AFC Totton,Dagenham and Redbridge FC,0,5,,,,,,
+61913968,2025-11-29 15:00,Bath City FC,Enfield Town,1,1,,,,,,
+61913970,2025-11-29 15:00,Chelmsford City,Torquay United,0,2,,,,,,
+61913972,2025-11-29 15:00,Chesham United,Dorking Wanderers,2,1,,,,,,
+61913974,2025-11-29 15:00,Dover Athletic FC,Slough Town,2,0,,,,,,
+61913976,2025-11-29 15:00,Eastbourne Borough,Hampton & Richmond Borough,6,0,,,,,,
+61913978,2025-11-29 15:00,Farnborough FC,Ebbsfleet United FC,1,1,,,,,,
+61913980,2025-11-29 15:00,Horsham FC,Weston-super-Mare,1,1,,,,,,
+61913982,2025-11-29 15:00,Maidenhead United FC,Chippenham Town FC,3,0,,,,,,
+61913984,2025-11-29 15:00,Maidstone United FC,Salisbury FC,1,0,,,,,,
+61913986,2025-11-29 15:00,Tonbridge Angels,Hemel Hempstead Town,1,3,,,,,,
+61913988,2025-11-29 15:00,Worthing FC,Hornchurch FC,5,0,,,,,,
+64699790,2025-12-02 19:45,Hemel Hempstead Town,Hornchurch FC,0,4,,,,,,
+65375824,2025-12-02 19:45,Hampton & Richmond Borough,AFC Totton,2,0,,,,,,
+61913990,2025-12-06 15:00,Chesham United,Dover Athletic FC,0,1,,,,,,
+61914000,2025-12-06 15:00,Ebbsfleet United FC,Worthing FC,1,2,,,,,,
+61914006,2025-12-06 15:00,Maidenhead United FC,Hornchurch FC,2,0,,,,,,
+61914008,2025-12-06 15:00,Maidstone United FC,Bath City FC,2,0,,,,,,
+66046522,2025-12-13 15:00,Eastbourne Borough,Chelmsford City,1,2,,,,,,
+65543198,2025-12-16 18:45,Dorking Wanderers,Weston-super-Mare,3,2,,,,,,
+66046530,2025-12-16 19:45,Dagenham and Redbridge FC,Slough Town,0,0,1.571,3.750,5.000,2.75,1.925,1.875
+61914014,2025-12-20 15:00,AFC Totton,Torquay United,1,0,3.300,3.750,1.850,3,1.875,1.925
+61914016,2025-12-20 15:00,Bath City FC,Salisbury FC,2,0,2.150,3.200,3.000,2.25,1.850,1.950
+61914018,2025-12-20 15:00,Chelmsford City,Ebbsfleet United FC,0,1,2.400,3.200,2.600,2.5,1.925,1.875
+61914020,2025-12-20 15:00,Dover Athletic FC,Eastbourne Borough,2,5,2.300,3.400,2.550,3,2.025,1.775
+61914022,2025-12-20 15:00,Hampton & Richmond Borough,Maidstone United FC,0,0,3.800,3.600,1.750,2.5,1.850,1.950
+61914024,2025-12-20 15:00,Hemel Hempstead Town,Maidenhead United FC,0,0,2.500,3.250,2.450,2.5,1.900,1.900
+61914026,2025-12-20 15:00,Hornchurch FC,Enfield Town,2,2,1.450,4.200,5.250,3,1.900,1.900
+61914028,2025-12-20 15:00,Horsham FC,Chesham United,1,2,1.833,3.400,3.700,2.5,1.925,1.875
+61914030,2025-12-20 15:00,Slough Town,Dorking Wanderers,1,2,3.800,4.100,1.650,3.25,2.025,1.775
+61914032,2025-12-20 15:00,Tonbridge Angels,Dagenham and Redbridge FC,2,2,3.000,3.400,2.050,2.5,1.850,1.950
+61914034,2025-12-20 15:00,Weston-super-Mare,Chippenham Town FC,1,0,1.571,3.900,4.750,2.5,1.800,2.000
+61914036,2025-12-20 15:00,Worthing FC,Farnborough FC,5,0,1.300,4.750,7.000,3.25,1.950,1.850
+61914038,2025-12-26 15:00,Chesham United,Hemel Hempstead Town,1,0,,,,,,
+61914040,2025-12-26 15:00,Chippenham Town FC,Bath City FC,3,2,2.800,3.200,2.250,2.5,2.000,1.800
+61914042,2025-12-26 15:00,Dagenham and Redbridge FC,Hornchurch FC,2,3,,,,,,
+61914044,2025-12-26 15:00,Dorking Wanderers,Horsham FC,2,0,1.650,3.900,4.000,2.75,1.900,1.900
+61914046,2025-12-26 15:00,Eastbourne Borough,Worthing FC,0,3,,,,,,
+61914048,2025-12-26 15:00,Ebbsfleet United FC,Tonbridge Angels,1,0,,,,,,
+61914050,2025-12-26 15:00,Enfield Town,Chelmsford City,0,4,3.100,3.300,2.050,2.5,1.850,1.950
+61914052,2025-12-26 15:00,Farnborough FC,Hampton & Richmond Borough,0,2,1.909,3.300,3.300,3,2.000,1.800
+61914054,2025-12-26 15:00,Maidenhead United FC,Slough Town,1,3,1.380,4.100,6.500,2.75,1.850,1.950
+61914056,2025-12-26 15:00,Maidstone United FC,Dover Athletic FC,1,0,,,,,,
+61914058,2025-12-26 15:00,Salisbury FC,AFC Totton,3,1,2.500,3.300,2.400,2.5,1.900,1.900
+61914060,2025-12-26 15:00,Torquay United,Weston-super-Mare,3,1,1.700,3.750,3.800,2.5,1.800,2.000
+61914062,2025-12-30 19:45,AFC Totton,Chippenham Town FC,1,1,1.727,3.600,3.900,2.75,1.800,2.000
+61914064,2025-12-30 19:45,Bath City FC,Torquay United,0,0,3.400,3.250,1.950,2.5,1.975,1.825
+61914066,2025-12-30 19:45,Chelmsford City,Dagenham and Redbridge FC,1,4,,,,,,
+61914068,2025-12-30 19:45,Dover Athletic FC,Ebbsfleet United FC,1,2,3.100,3.700,1.950,3,1.775,2.025
+61914070,2025-12-30 19:45,Hampton & Richmond Borough,Maidenhead United FC,1,3,,,,,,
+61914072,2025-12-30 19:45,Hemel Hempstead Town,Enfield Town,3,0,1.650,3.600,4.750,2.75,1.925,1.875
+61914074,2025-12-30 19:45,Hornchurch FC,Maidstone United FC,1,2,2.375,3.250,2.625,2.5,1.950,1.850
+61914076,2025-12-30 19:45,Horsham FC,Farnborough FC,2,2,1.700,3.500,4.200,2.75,1.950,1.850
+61914078,2025-12-30 19:45,Slough Town,Chesham United,3,0,2.550,3.300,2.350,2.75,1.975,1.825
+61914080,2025-12-30 19:45,Tonbridge Angels,Eastbourne Borough,3,4,2.700,3.400,2.250,2.75,1.950,1.850
+61914082,2025-12-30 19:45,Weston-super-Mare,Salisbury FC,1,0,1.700,3.500,4.100,2.5,1.850,1.950
+61914084,2025-12-30 19:45,Worthing FC,Dorking Wanderers,3,2,2.000,3.750,3.000,3.25,1.900,1.900
+61914086,2026-01-03 15:00,AFC Totton,Enfield Town,3,2,1.950,3.400,3.250,2.75,1.900,1.900
+61914096,2026-01-03 15:00,Hemel Hempstead Town,Dagenham and Redbridge FC,1,0,2.200,3.250,2.800,2.25,1.775,2.025
+61914100,2026-01-03 15:00,Horsham FC,Maidenhead United FC,1,2,2.900,3.300,2.150,2.5,1.950,1.850
+61914102,2026-01-03 15:00,Slough Town,Eastbourne Borough,2,1,2.550,3.400,2.300,2.75,1.850,1.950
+61914104,2026-01-03 15:00,Tonbridge Angels,Dorking Wanderers,2,2,4.200,3.700,1.650,3,1.950,1.850
+61914106,2026-01-03 15:00,Weston-super-Mare,Farnborough FC,4,1,1.650,3.500,4.500,2.75,1.950,1.850
+61914108,2026-01-03 15:00,Worthing FC,Chippenham Town FC,2,2,1.222,5.500,9.000,3.5,1.975,1.825
+61914118,2026-01-10 15:00,Eastbourne Borough,Horsham FC,0,2,,,,,,
+61914122,2026-01-10 15:00,Enfield Town,Tonbridge Angels,1,1,2.450,3.500,2.375,2.75,1.950,1.850
+61914130,2026-01-10 15:00,Salisbury FC,Worthing FC,5,4,4.333,3.900,1.571,3.25,1.925,1.875
+61914132,2026-01-10 15:00,Torquay United,Hampton & Richmond Borough,4,1,1.380,4.200,6.500,3,2.000,1.800
+61914134,2026-01-17 15:00,Chelmsford City,Weston-super-Mare,1,0,2.600,3.250,2.350,2.5,1.925,1.875
+61914136,2026-01-17 15:00,Chippenham Town FC,Ebbsfleet United FC,1,4,3.700,3.400,1.800,2.75,1.950,1.850
+61914138,2026-01-17 15:00,Dagenham and Redbridge FC,Salisbury FC,0,1,1.750,3.400,3.900,2.5,1.875,1.925
+61914140,2026-01-17 15:00,Dover Athletic FC,Bath City FC,1,0,2.600,3.400,2.300,2.75,1.950,1.850
+61914142,2026-01-17 15:00,Farnborough FC,Chesham United,0,1,2.400,3.300,2.500,2.75,1.950,1.850
+61914144,2026-01-17 15:00,Hampton & Richmond Borough,Dorking Wanderers,0,2,3.600,4.200,1.666,3,1.850,1.950
+61914146,2026-01-17 15:00,Hemel Hempstead Town,Slough Town,0,3,1.500,3.750,5.500,2.75,1.850,1.950
+61914148,2026-01-17 15:00,Hornchurch FC,Eastbourne Borough,2,0,1.750,3.700,3.600,3,1.850,1.950
+61914150,2026-01-17 15:00,Maidenhead United FC,Enfield Town,3,0,1.333,4.500,7.000,3,1.925,1.875
+61914152,2026-01-17 15:00,Tonbridge Angels,AFC Totton,4,1,2.100,3.500,2.875,2.75,1.950,1.850
+61914154,2026-01-17 15:00,Torquay United,Maidstone United FC,1,1,1.850,3.300,3.600,2.5,1.950,1.850
+61914156,2026-01-17 15:00,Worthing FC,Horsham FC,1,1,1.450,4.100,5.250,3.25,1.975,1.825
+67049120,2026-01-20 19:45,Dagenham and Redbridge FC,Dover Athletic FC,2,0,1.700,3.600,4.100,2.75,1.825,1.975
+67502968,2026-01-20 19:45,Hampton & Richmond Borough,Chesham United,0,1,2.625,3.250,2.350,2.5,1.950,1.850
+61914158,2026-01-24 15:00,AFC Totton,Dover Athletic FC,3,0,2.100,3.500,2.800,3,1.975,1.825
+61914160,2026-01-24 15:00,Bath City FC,Worthing FC,3,2,4.333,3.700,1.650,2.75,1.925,1.875
+61914162,2026-01-24 15:00,Chesham United,Maidenhead United FC,1,1,3.750,3.200,1.833,2.5,2.025,1.775
+61914164,2026-01-24 15:00,Dorking Wanderers,Chippenham Town FC,2,1,1.363,4.333,6.250,3.25,1.975,1.825
+61914166,2026-01-24 15:00,Eastbourne Borough,Farnborough FC,1,2,1.833,3.500,3.500,3,1.975,1.825
+61914168,2026-01-24 15:00,Ebbsfleet United FC,Dagenham and Redbridge FC,1,0,1.900,3.300,3.400,2.5,1.900,1.900
+61914170,2026-01-24 15:00,Enfield Town,Torquay United,1,2,4.750,4.000,1.533,3,1.925,1.875
+61914172,2026-01-24 15:00,Horsham FC,Chelmsford City,2,3,2.400,3.100,2.625,2.5,1.975,1.825
+61914174,2026-01-24 15:00,Maidstone United FC,Hemel Hempstead Town,0,1,2.100,3.000,3.250,2.25,1.950,1.850
+61914176,2026-01-24 15:00,Salisbury FC,Hampton & Richmond Borough,1,1,1.727,3.750,3.600,3,1.950,1.850
+61914178,2026-01-24 15:00,Slough Town,Tonbridge Angels,2,3,2.400,3.400,2.500,2.75,1.900,1.900
+61914180,2026-01-24 15:00,Weston-super-Mare,Hornchurch FC,1,2,2.200,3.250,2.800,2.5,1.950,1.850
+61914182,2026-01-26 19:45,Chelmsford City,Tonbridge Angels,1,0,1.700,3.500,4.333,2.5,1.875,1.925
+61914188,2026-01-27 19:45,Dagenham and Redbridge FC,Eastbourne Borough,2,0,1.727,3.700,3.800,3,1.800,2.000
+61914194,2026-01-27 19:45,Hampton & Richmond Borough,Worthing FC,1,0,4.333,4.333,1.550,3.25,1.825,1.975
+61914198,2026-01-27 19:45,Maidstone United FC,Ebbsfleet United FC,3,0,2.200,3.100,2.900,2.25,1.875,1.925
+61914208,2026-01-31 15:00,Chippenham Town FC,Chesham United,1,4,2.550,3.200,2.450,2.5,1.950,1.850
+61914210,2026-01-31 15:00,Dorking Wanderers,Salisbury FC,3,0,1.500,4.100,4.750,3.25,1.850,1.950
+61914212,2026-01-31 15:00,Eastbourne Borough,Enfield Town,1,1,1.800,3.600,3.600,3,2.000,1.800
+61914214,2026-01-31 15:00,Ebbsfleet United FC,Maidenhead United FC,3,0,2.450,3.000,2.700,2.25,1.900,1.900
+61914218,2026-01-31 15:00,Hemel Hempstead Town,Dover Athletic FC,1,2,1.650,3.500,4.333,2.5,1.800,2.000
+61914220,2026-01-31 15:00,Hornchurch FC,Torquay United,1,2,2.750,3.500,2.100,2.75,2.000,1.800
+61914224,2026-01-31 15:00,Slough Town,Chelmsford City,5,0,3.100,3.400,2.000,2.75,1.900,1.900
+61914226,2026-01-31 15:00,Tonbridge Angels,Maidstone United FC,1,1,3.700,3.300,1.850,2.5,2.000,1.800
+61914228,2026-01-31 15:00,Worthing FC,Weston-super-Mare,1,1,1.650,3.750,4.200,3,1.950,1.850
+66908624,2026-02-03 19:45,Ebbsfleet United FC,Hemel Hempstead Town,2,2,1.950,3.100,3.700,2.25,1.800,2.000
+67610174,2026-02-03 19:45,Dover Athletic FC,Torquay United,2,3,4.333,3.900,1.615,3,1.825,1.975
+61914236,2026-02-07 15:00,Dagenham and Redbridge FC,Chippenham Town FC,4,2,1.615,3.600,4.500,2.75,1.925,1.875
+61914238,2026-02-07 15:00,Dover Athletic FC,Worthing FC,1,1,4.500,4.200,1.533,3.5,1.975,1.825
+61914242,2026-02-07 15:00,Hampton & Richmond Borough,Hornchurch FC,2,2,2.900,3.500,2.050,2.75,1.950,1.850
+61914244,2026-02-07 15:00,Maidenhead United FC,Farnborough FC,2,2,1.420,4.200,5.500,2.75,1.825,1.975
+61914246,2026-02-07 15:00,Maidstone United FC,Slough Town,1,2,1.533,3.750,5.250,2.75,1.850,1.950
+61914248,2026-02-07 15:00,Salisbury FC,Ebbsfleet United FC,1,1,3.300,3.700,1.833,2.75,1.800,2.000
+61914256,2026-02-10 19:45,Chippenham Town FC,Torquay United,1,0,5.250,3.900,1.500,3,2.000,1.800
+61914258,2026-02-10 19:45,Dorking Wanderers,Dover Athletic FC,2,0,1.380,4.500,6.000,3.25,1.875,1.925
+61914260,2026-02-10 19:45,Eastbourne Borough,Maidstone United FC,3,1,3.100,3.300,2.050,2.5,1.850,1.950
+61914262,2026-02-10 19:45,Ebbsfleet United FC,Enfield Town,2,2,1.420,3.900,6.250,2.75,1.950,1.850
+61914264,2026-02-10 19:45,Hemel Hempstead Town,Hampton & Richmond Borough,0,3,1.750,3.300,4.100,2.5,1.925,1.875
+61914268,2026-02-10 19:45,Horsham FC,Dagenham and Redbridge FC,1,1,2.450,3.250,2.500,2.5,1.825,1.975
+61914270,2026-02-10 19:45,Slough Town,Weston-super-Mare,1,0,2.450,3.400,2.600,2.75,2.000,1.800
+61914272,2026-02-10 19:45,Tonbridge Angels,Maidenhead United FC,0,1,3.500,3.300,1.850,2.5,1.875,1.925
+61914276,2026-02-11 19:45,Farnborough FC,Salisbury FC,1,0,,,,,,
+61914278,2026-02-14 15:00,Chippenham Town FC,Maidstone United FC,1,0,3.900,3.300,1.800,2.5,1.950,1.850
+61914280,2026-02-14 15:00,Dagenham and Redbridge FC,Bath City FC,1,0,1.909,3.250,3.500,2.25,1.825,1.975
+61914282,2026-02-14 15:00,Dorking Wanderers,Farnborough FC,5,3,1.333,4.500,6.500,3.25,1.800,2.000
+61914284,2026-02-14 15:00,Ebbsfleet United FC,AFC Totton,4,0,1.666,3.500,4.333,2.5,2.000,1.800
+61914288,2026-02-14 15:00,Hampton & Richmond Borough,Chelmsford City,1,3,2.500,3.200,2.450,2.5,1.950,1.850
+61914290,2026-02-14 15:00,Hemel Hempstead Town,Worthing FC,1,0,3.250,3.400,1.950,2.75,1.800,2.000
+61914292,2026-02-14 15:00,Hornchurch FC,Tonbridge Angels,3,2,1.666,3.600,4.200,2.75,1.875,1.925
+61914294,2026-02-14 15:00,Salisbury FC,Chesham United,1,2,2.200,3.400,2.700,2.5,2.000,1.800
+61914296,2026-02-14 15:00,Slough Town,Horsham FC,0,0,2.050,3.500,3.000,2.75,1.850,1.950
+61914298,2026-02-14 15:00,Torquay United,Maidenhead United FC,1,1,2.000,3.300,3.100,2.5,1.850,1.950
+61914300,2026-02-14 15:00,Weston-super-Mare,Eastbourne Borough,3,1,1.833,3.300,3.600,2.5,1.825,1.975
+67610194,2026-02-16 19:45,Chelmsford City,Maidstone United FC,1,1,2.500,3.100,2.500,2.25,1.825,1.975
+67610196,2026-02-17 19:45,Bath City FC,Ebbsfleet United FC,2,2,3.300,3.200,2.000,2.25,1.900,1.900
+67877866,2026-02-17 19:45,Dorking Wanderers,Hornchurch FC,1,0,1.800,3.600,3.700,2.75,1.875,1.925
+68416396,2026-02-17 19:45,Salisbury FC,Chippenham Town FC,1,0,2.100,3.400,2.900,2.75,1.950,1.850
+68567688,2026-02-17 19:45,AFC Totton,Hampton & Richmond Borough,1,1,2.050,3.500,3.000,2.75,1.950,1.850
+68840806,2026-02-17 19:45,Chesham United,Eastbourne Borough,1,0,1.950,3.250,3.300,2.5,1.800,2.000
+68840808,2026-02-17 19:45,Enfield Town,Horsham FC,2,1,3.000,3.300,2.100,2.5,1.825,1.975
+61914302,2026-02-21 15:00,AFC Totton,Hornchurch FC,1,0,2.875,3.500,2.100,2.75,1.950,1.850
+61914304,2026-02-21 15:00,Bath City FC,Hampton & Richmond Borough,0,4,2.100,3.100,3.100,2.25,1.775,2.025
+61914306,2026-02-21 15:00,Chelmsford City,Salisbury FC,2,2,1.615,3.700,4.500,2.5,1.800,2.000
+61914308,2026-02-21 15:00,Chesham United,Ebbsfleet United FC,4,1,2.875,3.400,2.100,2.5,2.000,1.800
+61914310,2026-02-21 15:00,Dover Athletic FC,Weston-super-Mare,1,1,2.900,3.600,2.050,2.5,1.825,1.975
+61914312,2026-02-21 15:00,Eastbourne Borough,Torquay United,4,2,4.333,4.000,1.600,3,1.850,1.950
+61914314,2026-02-21 15:00,Farnborough FC,Enfield Town,0,5,2.200,3.500,2.750,2.75,1.925,1.875
+61914316,2026-02-21 15:00,Horsham FC,Hemel Hempstead Town,2,0,2.400,3.200,2.625,2.25,1.800,2.000
+61914318,2026-02-21 15:00,Maidenhead United FC,Dagenham and Redbridge FC,2,0,1.833,3.500,3.600,2.5,1.975,1.825
+61914320,2026-02-21 15:00,Maidstone United FC,Dorking Wanderers,1,1,2.700,3.600,2.150,2.5,1.875,1.925
+61914322,2026-02-21 15:00,Tonbridge Angels,Chippenham Town FC,3,2,1.750,3.500,3.800,2.75,2.000,1.800
+61914324,2026-02-21 15:00,Worthing FC,Slough Town,4,1,1.571,4.100,4.333,3.5,1.925,1.875
+61914326,2026-02-23 19:45,Chelmsford City,Hemel Hempstead Town,1,0,2.050,3.300,3.100,2.5,1.950,1.850
+61914328,2026-02-24 19:45,AFC Totton,Slough Town,1,1,2.300,3.500,2.550,2.75,1.825,1.975
+61914330,2026-02-24 19:45,Bath City FC,Weston-super-Mare,0,0,2.800,3.000,2.375,2.25,1.975,1.825
+61914332,2026-02-24 19:45,Chesham United,Dagenham and Redbridge FC,0,1,2.400,3.200,2.625,2.5,2.000,1.800
+61914334,2026-02-24 19:45,Dover Athletic FC,Hornchurch FC,4,1,3.300,3.400,1.909,2.75,1.950,1.850
+61914336,2026-02-24 19:45,Eastbourne Borough,Dorking Wanderers,1,2,3.500,3.800,1.833,3,1.900,1.900
+61914338,2026-02-24 19:45,Horsham FC,Ebbsfleet United FC,1,1,2.700,3.200,2.300,2.5,1.925,1.875
+61914340,2026-02-24 19:45,Maidenhead United FC,Salisbury FC,2,1,1.420,3.900,6.500,2.75,1.900,1.900
+61914342,2026-02-24 19:45,Maidstone United FC,Enfield Town,8,0,1.571,3.700,4.750,2.75,1.950,1.850
+61914344,2026-02-24 19:45,Tonbridge Angels,Hampton & Richmond Borough,2,0,2.150,3.300,2.875,2.75,1.950,1.850
+61914346,2026-02-24 19:45,Worthing FC,Torquay United,3,1,1.900,3.750,3.200,3.25,2.025,1.775
+61914348,2026-02-25 19:45,Farnborough FC,Chippenham Town FC,2,1,2.200,3.400,2.700,2.75,1.900,1.900
+61914350,2026-02-28 15:00,Chippenham Town FC,Maidenhead United FC,1,0,4.100,3.500,1.700,2.5,1.825,1.975
+61914352,2026-02-28 15:00,Dagenham and Redbridge FC,AFC Totton,0,2,1.800,3.700,3.600,2.75,1.975,1.825
+61914354,2026-02-28 15:00,Dorking Wanderers,Chesham United,1,1,1.615,3.600,4.500,2.75,1.975,1.825
+61914356,2026-02-28 15:00,Ebbsfleet United FC,Farnborough FC,2,2,1.380,4.200,6.500,3,2.025,1.775
+61914358,2026-02-28 15:00,Enfield Town,Bath City FC,1,1,2.875,3.100,2.250,2.5,1.975,1.825
+61914360,2026-02-28 15:00,Hampton & Richmond Borough,Eastbourne Borough,1,2,1.950,3.750,3.000,2.75,1.950,1.850
+61914362,2026-02-28 15:00,Hemel Hempstead Town,Tonbridge Angels,1,0,1.950,3.500,3.100,2.5,2.000,1.800
+61914364,2026-02-28 15:00,Hornchurch FC,Worthing FC,2,1,2.800,3.600,2.100,3.25,2.025,1.775
+61914366,2026-02-28 15:00,Salisbury FC,Maidstone United FC,0,1,3.400,3.400,1.909,2.5,1.825,1.975
+61914368,2026-02-28 15:00,Slough Town,Dover Athletic FC,1,1,1.900,3.600,3.250,3,1.975,1.825
+61914370,2026-02-28 15:00,Torquay United,Chelmsford City,0,5,1.900,3.500,3.400,2.75,1.900,1.900
+61914374,2026-03-07 15:00,AFC Totton,Horsham FC,3,0,2.550,3.400,2.300,2.5,1.800,2.000
+61914376,2026-03-07 15:00,Chelmsford City,Bath City FC,7,1,1.550,3.700,5.250,2.5,1.900,1.900
+61914378,2026-03-07 15:00,Chesham United,Weston-super-Mare,4,0,2.100,3.100,3.100,2.25,1.850,1.950
+61914380,2026-03-07 15:00,Chippenham Town FC,Enfield Town,1,0,2.000,3.300,3.200,2.5,1.850,1.950
+61914382,2026-03-07 15:00,Dagenham and Redbridge FC,Dorking Wanderers,1,0,2.600,3.300,2.350,2.75,1.900,1.900
+61914384,2026-03-07 15:00,Ebbsfleet United FC,Torquay United,3,0,2.100,3.500,2.875,2.75,1.850,1.950
+61914386,2026-03-07 15:00,Farnborough FC,Hemel Hempstead Town,2,3,2.900,3.500,2.050,2.75,1.850,1.950
+61914388,2026-03-07 15:00,Hampton & Richmond Borough,Dover Athletic FC,2,1,1.950,3.500,3.100,2.75,1.875,1.925
+61914390,2026-03-07 15:00,Hornchurch FC,Slough Town,2,3,1.800,3.400,3.700,2.75,1.825,1.975
+61914392,2026-03-07 15:00,Maidenhead United FC,Maidstone United FC,2,1,2.200,3.100,3.000,2.25,1.900,1.900
+61914394,2026-03-07 15:00,Salisbury FC,Eastbourne Borough,2,0,2.450,3.500,2.375,2.75,2.000,1.800
+61914396,2026-03-07 15:00,Tonbridge Angels,Worthing FC,1,0,3.700,3.700,1.727,3,1.900,1.900
+61914398,2026-03-10 19:45,Bath City FC,Farnborough FC,0,1,2.150,3.600,2.700,2.75,2.000,1.800
+61914400,2026-03-10 19:45,Dorking Wanderers,Chelmsford City,1,1,2.200,3.400,2.700,2.75,1.800,2.000
+61914402,2026-03-10 19:45,Dover Athletic FC,Tonbridge Angels,2,0,2.150,3.500,2.750,2.75,1.900,1.900
+61914404,2026-03-10 19:45,Eastbourne Borough,Ebbsfleet United FC,1,3,4.200,3.700,1.650,2.75,1.925,1.875
+61914408,2026-03-10 19:45,Hemel Hempstead Town,Chippenham Town FC,3,2,1.909,3.400,3.400,2.5,1.975,1.825
+61914410,2026-03-10 19:45,Horsham FC,Hornchurch FC,0,2,2.550,3.300,2.375,2.5,1.850,1.950
+61914412,2026-03-10 19:45,Maidstone United FC,Dagenham and Redbridge FC,2,1,1.950,3.300,3.400,2.25,1.925,1.875
+61914414,2026-03-10 19:45,Slough Town,Hampton & Richmond Borough,1,2,2.150,3.500,2.750,2.75,1.800,2.000
+61914416,2026-03-10 19:45,Torquay United,Salisbury FC,2,1,1.666,3.900,3.900,3,1.800,2.000
+61914418,2026-03-10 19:45,Weston-super-Mare,AFC Totton,1,0,2.000,3.250,3.200,2.5,1.925,1.875
+61914420,2026-03-10 19:45,Worthing FC,Maidenhead United FC,0,0,1.850,3.600,3.400,3,2.025,1.775
+61914422,2026-03-14 15:00,Bath City FC,Hornchurch FC,2,2,3.200,3.300,2.050,2.5,2.000,1.800
+61914424,2026-03-14 15:00,Dorking Wanderers,Ebbsfleet United FC,2,1,2.800,3.400,2.150,2.5,1.800,2.000
+61914426,2026-03-14 15:00,Dover Athletic FC,Chippenham Town FC,0,1,2.100,3.300,3.000,2.5,1.975,1.825
+61914428,2026-03-14 15:00,Eastbourne Borough,Maidenhead United FC,0,0,3.100,3.200,2.050,2.5,1.825,1.975
+61914430,2026-03-14 15:00,Enfield Town,Dagenham and Redbridge FC,0,0,3.600,3.500,1.833,2.5,1.800,2.000
+61914432,2026-03-14 15:00,Hemel Hempstead Town,AFC Totton,2,0,1.727,3.500,4.000,2.5,1.950,1.850
+61914434,2026-03-14 15:00,Horsham FC,Tonbridge Angels,0,0,1.909,3.500,3.300,2.5,1.850,1.950
+61914436,2026-03-14 15:00,Maidstone United FC,Farnborough FC,1,0,1.480,3.800,5.750,2.75,1.800,2.000
+61914438,2026-03-14 15:00,Slough Town,Salisbury FC,3,3,2.350,3.500,2.500,2.75,1.950,1.850
+61914440,2026-03-14 15:00,Torquay United,Chesham United,2,1,2.300,3.400,2.600,2.75,1.925,1.875
+61914442,2026-03-14 15:00,Weston-super-Mare,Hampton & Richmond Borough,2,0,1.833,3.250,3.700,2.5,1.950,1.850
+61914444,2026-03-14 15:00,Worthing FC,Chelmsford City,2,0,2.050,3.600,2.900,3,1.925,1.875
+68124148,2026-03-16 19:45,Chelmsford City,Slough Town,2,0,1.571,3.800,4.750,3,1.825,1.975
+67870242,2026-03-17 19:45,Maidenhead United FC,Ebbsfleet United FC,2,3,,,,,,
+68303890,2026-03-17 19:45,Horsham FC,Bath City FC,2,1,,,,,,
+68533014,2026-03-17 19:45,Enfield Town,Dorking Wanderers,2,4,,,,,,
+68719536,2026-03-17 19:45,Chesham United,AFC Totton,1,2,,,,,,
+68840812,2026-03-17 19:45,Weston-super-Mare,Tonbridge Angels,0,1,,,,,,
+69310226,2026-03-17 19:45,Farnborough FC,Dagenham and Redbridge FC,2,3,,,,,,
+61914446,2026-03-21 15:00,AFC Totton,Worthing FC,0,3,4.200,4.200,1.615,3.25,1.975,1.825
+61914448,2026-03-21 15:00,Chelmsford City,Dover Athletic FC,0,2,1.480,4.500,5.250,3,1.950,1.850
+61914450,2026-03-21 15:00,Chesham United,Maidstone United FC,4,1,2.800,3.100,2.400,2.25,2.050,1.750
+61914452,2026-03-21 15:00,Chippenham Town FC,Eastbourne Borough,5,2,1.909,3.600,3.250,2.75,1.950,1.850
+61914454,2026-03-21 15:00,Dagenham and Redbridge FC,Torquay United,1,0,2.250,3.500,2.700,2.75,1.850,1.950
+61914456,2026-03-21 15:00,Ebbsfleet United FC,Weston-super-Mare,1,2,1.666,3.400,5.000,2.5,2.000,1.800
+61914458,2026-03-21 15:00,Farnborough FC,Slough Town,1,0,1.850,3.700,3.500,3,1.800,2.000
+61914460,2026-03-21 15:00,Hampton & Richmond Borough,Horsham FC,2,0,2.100,3.500,3.100,2.5,1.825,1.975
+61914462,2026-03-21 15:00,Hornchurch FC,Hemel Hempstead Town,0,1,2.000,3.400,3.400,2.25,1.775,2.025
+61914464,2026-03-21 15:00,Maidenhead United FC,Dorking Wanderers,1,0,2.150,3.400,3.000,2.5,1.825,1.975
+61914466,2026-03-21 15:00,Salisbury FC,Enfield Town,1,0,1.700,3.900,4.200,2.75,1.800,2.000
+61914468,2026-03-21 15:00,Tonbridge Angels,Bath City FC,1,1,2.100,3.400,3.100,2.5,1.775,2.025
+68674898,2026-03-24 19:45,Chesham United,Hornchurch FC,1,2,2.400,3.300,2.500,2.5,1.825,1.975
+68821142,2026-03-24 19:45,Weston-super-Mare,Worthing FC,2,3,2.900,3.400,2.100,2.75,1.925,1.875
+68840820,2026-03-24 19:45,Torquay United,Dorking Wanderers,2,2,2.000,3.600,2.900,3,1.850,1.950
+68931910,2026-03-24 19:45,Bath City FC,Hemel Hempstead Town,0,3,3.600,3.200,1.900,2.25,1.800,2.000
+69496200,2026-03-24 19:45,Enfield Town,Dover Athletic FC,3,1,2.450,3.300,2.450,2.5,1.800,2.000
+68567708,2026-03-25 19:45,Farnborough FC,Chelmsford City,4,2,3.300,3.600,1.900,2.75,1.875,1.925
+61914470,2026-03-28 15:00,Chesham United,Tonbridge Angels,1,0,1.850,3.400,3.700,2.5,1.950,1.850
+61914472,2026-03-28 15:00,Chippenham Town FC,Chelmsford City,0,1,3.250,3.300,2.000,2.5,1.800,2.000
+61914474,2026-03-28 15:00,Dagenham and Redbridge FC,Hampton & Richmond Borough,3,1,2.100,3.250,3.100,2.5,1.975,1.825
+61914476,2026-03-28 15:00,Dorking Wanderers,Hemel Hempstead Town,2,1,1.950,3.600,3.100,3,1.800,2.000
+61914478,2026-03-28 15:00,Eastbourne Borough,Bath City FC,1,2,2.050,3.600,2.900,2.75,1.800,2.000
+61914480,2026-03-28 15:00,Ebbsfleet United FC,Slough Town,1,1,1.420,4.200,6.000,3,2.025,1.775
+61914482,2026-03-28 15:00,Enfield Town,Worthing FC,1,1,6.500,4.333,1.363,3,1.850,1.950
+61914484,2026-03-28 15:00,Farnborough FC,Hornchurch FC,2,1,2.500,3.500,2.350,3,1.950,1.850
+61914486,2026-03-28 15:00,Maidenhead United FC,Weston-super-Mare,1,2,1.900,3.000,3.900,2,1.850,1.950
+61914488,2026-03-28 15:00,Maidstone United FC,AFC Totton,2,1,1.571,3.600,5.000,2.5,1.800,2.000
+61914490,2026-03-28 15:00,Salisbury FC,Dover Athletic FC,2,1,1.600,3.800,4.500,2.75,1.825,1.975
+61914492,2026-03-28 15:00,Torquay United,Horsham FC,2,0,1.666,3.600,4.100,2.75,1.875,1.925
+69021078,2026-03-30 18:45,Chelmsford City,AFC Totton,1,1,1.480,4.100,5.250,2.75,2.025,1.775
+68821144,2026-03-31 18:45,Weston-super-Mare,Hemel Hempstead Town,0,0,2.250,2.875,3.100,2,1.800,2.000
+69137480,2026-03-31 18:45,Enfield Town,Chesham United,3,4,4.100,3.500,1.700,2.5,1.850,1.950
+69143746,2026-03-31 18:45,Maidenhead United FC,Bath City FC,3,0,1.363,4.200,7.000,2.5,1.800,2.000
+61914494,2026-04-03 14:00,AFC Totton,Salisbury FC,2,1,2.400,3.500,2.400,3,1.950,1.850
+61914496,2026-04-03 14:00,Bath City FC,Chippenham Town FC,1,0,2.625,3.500,2.250,2.5,1.850,1.950
+61914498,2026-04-03 14:00,Chelmsford City,Enfield Town,3,0,1.300,4.500,8.000,3,1.850,1.950
+61914500,2026-04-03 14:00,Dover Athletic FC,Maidstone United FC,0,2,4.100,3.500,1.700,2.5,1.800,2.000
+61914502,2026-04-03 14:00,Hampton & Richmond Borough,Farnborough FC,3,1,2.000,3.500,3.100,2.75,1.900,1.900
+61914504,2026-04-03 14:00,Hemel Hempstead Town,Chesham United,0,3,2.450,3.250,2.500,2.5,2.000,1.800
+61914506,2026-04-03 14:00,Hornchurch FC,Dagenham and Redbridge FC,3,0,2.050,3.400,3.100,2.5,1.875,1.925
+61914508,2026-04-03 14:00,Horsham FC,Dorking Wanderers,3,0,3.300,3.700,1.850,3,1.975,1.825
+61914594,2026-04-03 14:00,Tonbridge Angels,Ebbsfleet United FC,1,2,3.500,3.300,1.900,2.5,1.850,1.950
+61914596,2026-04-03 14:00,Weston-super-Mare,Torquay United,0,3,2.400,3.400,2.500,2.5,1.875,1.925
+61914598,2026-04-03 14:00,Worthing FC,Eastbourne Borough,2,1,1.270,5.250,7.500,3.5,1.975,1.825
+61914600,2026-04-03 14:00,Slough Town,Maidenhead United FC,2,2,4.000,3.600,1.700,2.75,1.900,1.900
+61914602,2026-04-06 14:00,Farnborough FC,Horsham FC,2,0,2.300,3.400,2.600,2.75,1.850,1.950
+61914604,2026-04-06 14:00,Torquay United,Bath City FC,4,1,1.333,4.750,7.000,3,1.775,2.025
+61914606,2026-04-06 14:00,Salisbury FC,Weston-super-Mare,1,2,2.875,3.250,2.250,2.5,1.900,1.900
+61914608,2026-04-06 14:00,Maidstone United FC,Hornchurch FC,5,4,1.833,3.300,3.700,2.5,1.850,1.950
+61914610,2026-04-06 14:00,Maidenhead United FC,Hampton & Richmond Borough,2,1,1.700,3.400,4.333,2.75,2.000,1.800
+61914612,2026-04-06 14:00,Enfield Town,Hemel Hempstead Town,0,0,3.500,3.300,1.850,2.5,1.900,1.900
+61914614,2026-04-06 14:00,Ebbsfleet United FC,Dover Athletic FC,4,0,1.363,4.500,6.500,3,1.900,1.900
+61914616,2026-04-06 14:00,Eastbourne Borough,Tonbridge Angels,1,1,2.150,3.600,2.625,3,1.800,2.000
+61914618,2026-04-06 14:00,Dorking Wanderers,Worthing FC,1,2,2.350,3.800,2.300,3.75,1.925,1.875
+61914620,2026-04-06 14:00,Dagenham and Redbridge FC,Chelmsford City,3,3,3.000,3.250,2.150,2.5,2.025,1.775
+61914622,2026-04-06 14:00,Chippenham Town FC,AFC Totton,2,0,2.050,3.400,3.000,2.75,1.900,1.900
+61914624,2026-04-06 14:00,Chesham United,Slough Town,4,1,1.480,4.200,5.000,3,1.800,2.000
+61914626,2026-04-11 14:00,Weston-super-Mare,Enfield Town,1,0,1.363,4.200,7.000,2.75,1.950,1.850
+61914628,2026-04-11 14:00,Worthing FC,Dagenham and Redbridge FC,7,2,1.222,5.500,9.000,3,1.775,2.025
+61914630,2026-04-11 14:00,Tonbridge Angels,Salisbury FC,3,2,2.100,3.400,3.000,2.75,1.875,1.925
+61914632,2026-04-11 14:00,Slough Town,Torquay United,1,5,4.333,4.200,1.550,3.25,1.900,1.900
+61914634,2026-04-11 14:00,Horsham FC,Maidstone United FC,0,0,3.600,3.400,1.850,2.5,1.900,1.900
+61914636,2026-04-11 14:00,Hornchurch FC,Ebbsfleet United FC,1,0,2.550,3.200,2.450,2.5,1.850,1.950
+61914638,2026-04-11 14:00,Hampton & Richmond Borough,Chippenham Town FC,1,1,2.050,3.400,3.000,2.75,1.975,1.825
+61914640,2026-04-11 14:00,Dover Athletic FC,Farnborough FC,1,3,2.700,3.400,2.250,3,2.025,1.775
+61914642,2026-04-11 14:00,Chelmsford City,Maidenhead United FC,1,1,2.150,3.100,3.100,2.5,1.975,1.825
+61914644,2026-04-11 14:00,Bath City FC,Chesham United,1,0,4.750,3.800,1.571,2.75,1.950,1.850
+61914646,2026-04-11 14:00,AFC Totton,Dorking Wanderers,2,1,4.500,4.100,1.550,3,1.775,2.025
+61914648,2026-04-11 14:00,Hemel Hempstead Town,Eastbourne Borough,3,1,1.533,3.800,5.250,2.75,1.825,1.975
+68821146,2026-04-14 18:45,Weston-super-Mare,Horsham FC,1,0,1.500,3.750,5.500,2.5,1.900,1.900
+69025534,2026-04-14 18:45,Hornchurch FC,Chelmsford City,3,3,2.100,3.300,2.900,2.75,1.975,1.825
+69128026,2026-04-14 18:45,AFC Totton,Bath City FC,2,1,1.800,3.500,3.600,2.75,1.900,1.900
+61914650,2026-04-18 14:00,Maidstone United FC,Worthing FC,2,1,2.700,3.500,2.250,2.75,1.800,2.000
+61914652,2026-04-18 14:00,Torquay United,Hemel Hempstead Town,1,2,1.571,3.800,4.500,2.75,1.850,1.950
+61914654,2026-04-18 14:00,Salisbury FC,Horsham FC,2,1,2.150,3.400,2.875,2.5,1.825,1.975
+61914656,2026-04-18 14:00,Maidenhead United FC,Dover Athletic FC,1,0,1.222,5.250,10.000,3,1.925,1.875
+61914658,2026-04-18 14:00,Farnborough FC,Tonbridge Angels,1,6,2.250,3.500,2.625,2.75,1.975,1.825
+61914660,2026-04-18 14:00,Enfield Town,Slough Town,5,2,2.400,3.400,2.500,2.75,1.850,1.950
+61914662,2026-04-18 14:00,Eastbourne Borough,AFC Totton,2,3,2.050,3.900,2.700,3.25,1.950,1.850
+61914664,2026-04-18 14:00,Dorking Wanderers,Bath City FC,1,3,1.250,5.750,8.500,3.25,1.950,1.850
+61914666,2026-04-18 14:00,Dagenham and Redbridge FC,Weston-super-Mare,0,0,5.000,3.500,1.600,2.25,1.825,1.975
+61914668,2026-04-18 14:00,Chippenham Town FC,Hornchurch FC,1,3,3.750,3.600,1.750,2.75,2.025,1.775
+61914670,2026-04-18 14:00,Chesham United,Chelmsford City,0,2,2.350,3.400,2.500,2.75,1.900,1.900
+61914672,2026-04-18 14:00,Ebbsfleet United FC,Hampton & Richmond Borough,4,0,1.500,3.800,5.250,2.75,1.800,2.000
+61914674,2026-04-25 11:30,Worthing FC,Ebbsfleet United FC,2,0,1.615,4.200,3.800,3.5,1.975,1.825
+61914676,2026-04-25 11:30,Weston-super-Mare,Dorking Wanderers,1,1,2.300,3.400,2.600,2.75,1.925,1.875
+61914678,2026-04-25 11:30,Tonbridge Angels,Torquay United,1,2,4.500,4.000,1.550,3,2.025,1.775
+61914680,2026-04-25 11:30,Slough Town,Dagenham and Redbridge FC,3,2,2.450,3.500,2.375,3,1.925,1.875
+61914682,2026-04-25 11:30,Horsham FC,Chippenham Town FC,3,2,2.100,3.200,3.000,2.75,1.850,1.950
+61914684,2026-04-25 11:30,Hornchurch FC,Maidenhead United FC,0,0,2.550,3.300,2.375,2.5,1.950,1.850
+61914686,2026-04-25 11:30,Hemel Hempstead Town,Salisbury FC,1,1,1.480,4.100,5.000,2.75,1.800,2.000
+61914688,2026-04-25 11:30,Hampton & Richmond Borough,Enfield Town,1,0,1.500,3.900,5.000,3,2.025,1.775
+61914690,2026-04-25 11:30,Dover Athletic FC,Chesham United,2,2,3.900,3.900,1.700,3,1.875,1.925
+61914692,2026-04-25 11:30,Chelmsford City,Eastbourne Borough,1,3,1.380,4.750,5.500,3.5,1.975,1.825
+61914694,2026-04-25 11:30,Bath City FC,Maidstone United FC,2,3,6.000,3.900,1.444,2.75,1.850,1.950
+61914696,2026-04-25 11:30,AFC Totton,Farnborough FC,1,6,1.900,3.800,3.100,3.25,1.900,1.900
+71073856,2026-04-28 18:45,Hemel Hempstead Town,Weston-super-Mare,1,1,2.500,3.100,2.600,2.25,1.900,1.900
+71073858,2026-04-29 18:45,Dorking Wanderers,Maidenhead United FC,2,0,1.800,3.600,3.500,2.75,1.825,1.975
+71193108,2026-05-02 11:30,Torquay United,Dorking Wanderers,4,2,2.350,3.400,2.550,3,1.850,1.950
+71173988,2026-05-02 15:00,Hornchurch FC,Weston-super-Mare,2,0,2.200,3.300,2.800,2.5,1.975,1.825
+71252080,2026-05-09 14:00,Hornchurch FC,Torquay United,2,2,2.550,3.300,2.400,2.75,1.900,1.900
+72757930,2026-08-08 14:00,Billericay Town,Dover Athletic FC,2,0,1.800,3.700,3.500,2.75,1.950,1.850
+72757932,2026-08-08 14:00,Braintree Town FC,Tonbridge Angels,0,4,2.450,3.400,2.450,2.5,1.825,1.975
+72757934,2026-08-08 14:00,Dorking Wanderers,Dagenham and Redbridge FC,0,1,2.200,3.400,2.750,2.75,1.900,1.900
+72757936,2026-08-08 14:00,Farnham Town,AFC Totton,0,1,1.900,3.600,3.300,2.75,1.825,1.975
+72757938,2026-08-08 14:00,Folkestone Invicta,Walton and Hersham FC,5,1,1.833,3.700,3.300,2.75,1.900,1.900
+72757940,2026-08-08 14:00,Hemel Hempstead Town,Chelmsford City,1,1,2.550,3.400,2.375,2.5,1.975,1.825
+72757942,2026-08-08 14:00,Maidstone United FC,Farnborough FC,1,2,1.533,4.000,5.000,2.75,1.800,2.000
+72757944,2026-08-08 14:00,Salisbury FC,Hampton & Richmond Borough,5,0,2.800,3.300,2.200,2.5,1.900,1.900
+72757948,2026-08-08 14:00,Torquay United,Horsham FC,1,1,1.450,4.200,5.500,3,1.975,1.825
+72757950,2026-08-08 14:00,Truro City,Maidenhead United FC,2,0,1.950,3.600,3.100,2.5,1.875,1.925
+72757952,2026-08-08 14:00,Weston-super-Mare,Chesham United,3,0,2.150,3.200,3.000,2.25,1.850,1.950
+72757960,2026-08-14 19:00,Dagenham and Redbridge FC,Farnham Town,2,1,1.666,3.800,4.100,2.75,1.950,1.850
+72757954,2026-08-15 14:00,AFC Totton,Billericay Town,1,0,2.150,3.400,2.750,2.75,1.950,1.850
+72757956,2026-08-15 14:00,Braintree Town FC,Chesham United,3,2,3.000,3.700,1.950,2.5,1.825,1.975
+72757958,2026-08-15 14:00,Chelmsford City,Truro City,0,0,1.950,3.500,3.250,2.25,1.800,2.000
+72757962,2026-08-15 14:00,Dover Athletic FC,Slough Town,5,3,2.200,3.400,2.625,2.75,1.800,2.000
+72757966,2026-08-15 14:00,Farnborough FC,Hemel Hempstead Town,0,2,2.400,3.300,2.500,2.75,2.000,1.800
+72757968,2026-08-15 14:00,Horsham FC,Salisbury FC,0,0,2.200,3.600,2.600,2.75,1.825,1.975
+72757970,2026-08-15 14:00,Maidenhead United FC,Dorking Wanderers,0,0,2.350,3.500,2.450,2.75,1.950,1.850
+72757972,2026-08-15 14:00,Tonbridge Angels,Torquay United,1,2,3.250,3.600,1.850,2.75,1.900,1.900
+72757974,2026-08-15 14:00,Walton and Hersham FC,Maidstone United FC,0,3,3.300,3.700,1.850,2.75,1.925,1.875
+72757976,2026-08-15 14:00,Weston-super-Mare,Hampton & Richmond Borough,3,0,1.571,3.600,5.250,2.5,2.000,1.800
+72757980,2026-08-18 18:45,AFC Totton,Dorking Wanderers,0,3,2.800,3.600,2.100,2.75,1.775,2.025
+72757982,2026-08-18 18:45,Dover Athletic FC,Tonbridge Angels,0,1,2.800,3.600,2.100,3,1.975,1.825
+72757984,2026-08-18 18:45,Hemel Hempstead Town,Maidenhead United FC,0,1,2.300,3.250,2.700,2.25,1.900,1.900
+72757986,2026-08-18 18:45,Horsham FC,Hampton & Richmond Borough,2,0,1.750,3.600,3.800,2.5,1.850,1.950
+72757988,2026-08-18 18:45,Maidstone United FC,Folkestone Invicta,1,1,1.909,3.500,3.300,2.75,2.000,1.800
+72757990,2026-08-18 18:45,Slough Town,Farnham Town,0,1,3.200,3.900,1.850,3.25,2.025,1.775
+72757992,2026-08-18 18:45,Torquay United,Weston-super-Mare,0,0,1.800,3.600,3.500,2.5,1.800,2.000
+72757994,2026-08-18 18:45,Walton and Hersham FC,Dagenham and Redbridge FC,0,2,4.750,3.900,1.533,2.75,1.850,1.950
+72757996,2026-08-19 18:45,Farnborough FC,Chesham United,1,0,2.625,3.600,2.200,3.25,1.975,1.825
+72758002,2026-08-22 14:00,Braintree Town FC,Horsham FC,1,2,2.800,3.400,2.100,2.5,1.950,1.850
+72758004,2026-08-22 14:00,Chesham United,Walton and Hersham FC,2,0,1.450,3.900,5.750,3,1.875,1.925
+72758006,2026-08-22 14:00,Dagenham and Redbridge FC,Torquay United,2,0,2.500,3.300,2.450,2.75,2.000,1.800
+72758008,2026-08-22 14:00,Dorking Wanderers,Maidstone United FC,2,3,2.000,3.500,3.000,2.75,1.825,1.975
+72758012,2026-08-22 14:00,Farnham Town,Billericay Town,2,4,1.833,3.600,3.400,2.75,1.950,1.850
+72758014,2026-08-22 14:00,Folkestone Invicta,Chelmsford City,1,1,2.200,3.500,2.800,2.75,1.925,1.875
+72758016,2026-08-22 14:00,Hampton & Richmond Borough,Slough Town,5,3,2.050,3.400,2.875,2.75,1.825,1.975
+72758018,2026-08-22 14:00,Maidenhead United FC,Farnborough FC,1,1,1.800,3.700,3.500,2.75,1.875,1.925
+72758020,2026-08-22 14:00,Salisbury FC,Hemel Hempstead Town,1,2,2.375,3.300,2.550,2.75,1.975,1.825
+72758022,2026-08-22 14:00,Tonbridge Angels,Truro City,0,2,2.500,3.250,2.450,2.5,1.900,1.900
+72758024,2026-08-22 14:00,Weston-super-Mare,Dover Athletic FC,2,3,1.533,4.000,4.750,2.5,1.850,1.950
+72758026,2026-08-29 14:00,AFC Totton,Chesham United,0,4,2.625,3.500,2.200,2.75,1.825,1.975
+72758028,2026-08-29 14:00,Billericay Town,Tonbridge Angels,2,2,2.100,3.300,2.900,2.5,1.800,2.000
+72758030,2026-08-29 14:00,Chelmsford City,Maidenhead United FC,1,0,2.000,3.300,3.250,2.75,1.975,1.825
+72758032,2026-08-29 14:00,Dover Athletic FC,Braintree Town FC,3,3,2.000,3.600,3.100,3,2.000,1.800
+72758036,2026-08-29 14:00,Hemel Hempstead Town,Weston-super-Mare,1,3,2.375,3.000,2.700,2.25,1.950,1.850
+72758038,2026-08-29 14:00,Horsham FC,Farnham Town,1,2,1.727,3.800,3.500,3,1.800,2.000
+72758040,2026-08-29 14:00,Maidstone United FC,Salisbury FC,2,1,1.700,3.600,3.900,3,2.025,1.775
+72758042,2026-08-29 14:00,Slough Town,Folkestone Invicta,0,2,4.000,3.750,1.650,3.25,2.025,1.775
+72758044,2026-08-29 14:00,Torquay United,Hampton & Richmond Borough,1,1,1.363,4.500,7.000,3,1.900,1.900
+72758046,2026-08-29 14:00,Truro City,Dagenham and Redbridge FC,3,0,2.100,3.400,3.000,2.5,1.950,1.850
+72758048,2026-08-29 14:00,Walton and Hersham FC,Dorking Wanderers,1,4,4.200,4.333,1.550,3.5,1.825,1.975
+72758050,2026-08-31 14:00,Braintree Town FC,Farnborough FC,0,2,3.200,3.700,1.900,3,1.800,2.000
+72758052,2026-08-31 14:00,Chesham United,Dover Athletic FC,2,2,1.550,3.900,4.750,3,1.950,1.850
+72758054,2026-08-31 14:00,Dagenham and Redbridge FC,Slough Town,1,0,1.380,4.200,6.250,3.25,1.925,1.875
+72758056,2026-08-31 14:00,Dorking Wanderers,Truro City,1,0,2.050,3.600,2.800,3,2.000,1.800
+72758060,2026-08-31 14:00,Farnham Town,Torquay United,2,0,3.200,3.800,1.833,3,1.825,1.975
+72758062,2026-08-31 14:00,Folkestone Invicta,Hemel Hempstead Town,2,0,1.900,3.750,3.250,2.75,2.000,1.800
+72758064,2026-08-31 14:00,Hampton & Richmond Borough,Maidstone United FC,1,4,3.700,3.500,1.800,2.75,1.900,1.900
+72758066,2026-08-31 14:00,Maidenhead United FC,AFC Totton,1,1,1.615,3.700,4.333,2.75,1.900,1.900
+72758068,2026-08-31 14:00,Salisbury FC,Billericay Town,1,0,2.150,3.300,2.875,2.75,1.950,1.850
+72758070,2026-08-31 14:00,Tonbridge Angels,Walton and Hersham FC,5,1,1.571,4.100,4.333,2.75,1.825,1.975
+72758072,2026-08-31 14:00,Weston-super-Mare,Chelmsford City,1,1,2.300,3.200,2.700,2.5,2.000,1.800
+72758074,2026-09-05 14:00,AFC Totton,Hampton & Richmond Borough,4,1,1.833,3.600,3.400,2.75,1.825,1.975
+72758076,2026-09-05 14:00,Billericay Town,Dorking Wanderers,3,3,2.700,3.600,2.100,3,1.900,1.900
+72758078,2026-09-05 14:00,Chelmsford City,Salisbury FC,1,1,1.727,3.600,3.800,3,2.025,1.775
+72758080,2026-09-05 14:00,Dover Athletic FC,Maidenhead United FC,0,3,3.400,3.500,1.900,2.75,1.875,1.925
+72758082,2026-09-05 14:00,Farnborough FC,Tonbridge Angels,0,4,2.150,3.500,2.750,3,1.900,1.900
+72758084,2026-09-05 14:00,Hemel Hempstead Town,Farnham Town,1,1,2.100,3.400,2.875,2.75,1.850,1.950
+72758086,2026-09-05 14:00,Horsham FC,Dagenham and Redbridge FC,1,1,2.500,3.250,2.400,2.5,2.000,1.800
+72758088,2026-09-05 14:00,Maidstone United FC,Weston-super-Mare,1,0,2.000,3.250,3.200,2.5,1.925,1.875
+72758090,2026-09-05 14:00,Slough Town,Braintree Town FC,1,2,2.300,3.400,2.600,3,1.875,1.925
+72758092,2026-09-05 14:00,Torquay United,Folkestone Invicta,3,2,1.727,3.600,3.800,2.75,1.775,2.025
+72758094,2026-09-05 14:00,Truro City,Chesham United,3,1,1.700,3.600,4.000,2.75,1.950,1.850
+72758096,2026-09-05 14:00,Walton and Hersham FC,Ebbsfleet United FC,0,2,3.900,4.200,1.615,3.25,1.975,1.825
+72758098,2026-09-08 18:45,Chesham United,Billericay Town,1,2,1.850,3.700,3.300,2.75,1.850,1.950
+72758100,2026-09-08 18:45,Dagenham and Redbridge FC,Dover Athletic FC,0,1,1.300,5.000,7.000,3,1.775,2.025
+72758102,2026-09-08 18:45,Dorking Wanderers,Chelmsford City,3,3,1.850,4.000,3.100,3.25,1.975,1.825
+72758104,2026-09-08 18:45,Ebbsfleet United FC,Hemel Hempstead Town,0,0,1.750,3.600,3.750,2.5,1.900,1.900
+72758106,2026-09-08 18:45,Folkestone Invicta,Horsham FC,1,1,1.800,3.600,3.600,2.75,1.900,1.900
+72758108,2026-09-08 18:45,Hampton & Richmond Borough,Farnborough FC,2,0,2.625,3.600,2.200,3.25,1.975,1.825
+72758110,2026-09-08 18:45,Maidenhead United FC,Torquay United,0,4,2.700,3.500,2.250,2.75,1.925,1.875
+72758112,2026-09-08 18:45,Salisbury FC,Slough Town,5,1,1.300,5.000,7.000,3.5,1.875,1.925
+72758114,2026-09-08 18:45,Tonbridge Angels,Maidstone United FC,0,1,2.750,3.600,2.100,2.75,1.900,1.900
+72758116,2026-09-08 18:45,Weston-super-Mare,AFC Totton,3,1,1.666,3.700,4.200,2.5,1.800,2.000
+72758122,2026-09-12 14:00,Farnborough FC,Dover Athletic FC,0,1,1.833,3.600,3.400,3.25,1.950,1.850
+72758124,2026-09-12 14:00,Folkestone Invicta,Farnham Town,1,2,1.700,3.900,3.750,3.25,2.000,1.800
+72758126,2026-09-12 14:00,Hampton & Richmond Borough,Chelmsford City,1,1,3.500,3.500,1.850,2.75,1.850,1.950
+72758128,2026-09-12 14:00,Hemel Hempstead Town,Tonbridge Angels,1,1,2.350,3.300,2.550,2.5,1.825,1.975
+72758130,2026-09-12 14:00,Horsham FC,Chesham United,1,4,2.150,3.400,2.800,2.75,1.950,1.850
+72758132,2026-09-12 14:00,Maidenhead United FC,Billericay Town,2,2,1.909,3.500,3.100,2.75,1.900,1.900
+72758134,2026-09-12 14:00,Torquay United,Dorking Wanderers,2,2,1.750,3.900,3.400,3.5,1.975,1.825
+72758136,2026-09-12 14:00,Truro City,Walton and Hersham FC,1,1,1.181,6.500,9.500,3.25,1.900,1.900
+72758138,2026-09-12 14:00,Weston-super-Mare,Dagenham and Redbridge FC,1,0,2.375,3.100,2.700,2.25,1.850,1.950
+72758140,2026-09-12 14:00,AFC Totton,Slough Town,0,1,1.600,3.900,4.333,3.25,1.850,1.950
+72758142,2026-09-12 14:00,Braintree Town FC,Maidstone United FC,2,1,4.100,3.800,1.650,3,1.925,1.875
+72758144,2026-09-12 14:00,Ebbsfleet United FC,Salisbury FC,1,1,1.750,3.600,3.700,2.75,1.875,1.925
+72757998,2026-09-15 18:45,Billericay Town,Braintree Town FC,3,2,1.650,3.800,4.200,3,1.925,1.875
+72758000,2026-09-15 18:45,Truro City,Salisbury FC,0,1,1.666,3.600,4.333,2.75,1.850,1.950
+72758146,2026-09-26 14:00,Billericay Town,Torquay United,3,0,2.800,3.600,2.100,3.25,1.850,1.950
+72758148,2026-09-26 14:00,Chelmsford City,Horsham FC,0,0,1.833,3.500,3.600,2.75,1.950,1.850
+72758150,2026-09-26 14:00,Chesham United,Maidenhead United FC,0,4,2.300,3.600,2.500,3,1.900,1.900
+72758152,2026-09-26 14:00,Dagenham and Redbridge FC,Hampton & Richmond Borough,1,0,1.444,4.000,5.750,2.75,1.800,2.000
+72758154,2026-09-26 14:00,Dorking Wanderers,Braintree Town FC,4,3,1.333,5.000,5.750,3.5,1.825,1.975
+72758156,2026-09-26 14:00,Dover Athletic FC,AFC Totton,2,0,2.150,3.600,2.700,3,1.875,1.925
+72758158,2026-09-26 14:00,Farnham Town,Weston-super-Mare,3,2,2.700,3.700,2.100,3,1.900,1.900
+72758160,2026-09-26 14:00,Maidstone United FC,Truro City,1,2,2.450,3.500,2.375,2.75,1.850,1.950
+72758162,2026-09-26 14:00,Salisbury FC,Folkestone Invicta,2,0,2.200,3.600,2.750,3.25,2.025,1.775
+72758164,2026-09-26 14:00,Slough Town,Hemel Hempstead Town,0,2,3.250,3.750,1.833,3.25,1.975,1.825
+72758166,2026-09-26 14:00,Tonbridge Angels,Ebbsfleet United FC,1,2,2.500,3.300,2.400,2.5,1.825,1.975
+72758168,2026-09-26 14:00,Walton and Hersham FC,Farnborough FC,2,2,3.100,3.700,1.900,3.5,1.950,1.850
+74795888,2026-09-29 18:45,Slough Town,Ebbsfleet United FC,1,1,5.500,4.200,1.444,3,1.825,1.975
+72758118,2026-10-06 18:45,Braintree Town FC,Walton and Hersham FC,1,3,1.615,3.800,4.200,3.25,2.000,1.800
+72758120,2026-10-06 18:45,Farnham Town,Truro City,2,2,3.900,3.900,1.666,3,1.875,1.925
+74795890,2026-10-06 18:45,Ebbsfleet United FC,Folkestone Invicta,1,0,1.600,3.900,4.200,3,1.950,1.850
+72758170,2026-10-10 14:00,AFC Totton,Walton and Hersham FC,0,1,1.750,3.750,3.700,3.25,1.900,1.900
+72758172,2026-10-10 14:00,Billericay Town,Farnborough FC,4,0,1.615,3.900,4.100,3.25,1.875,1.925
+72758174,2026-10-10 14:00,Braintree Town FC,Truro City,1,2,4.333,3.900,1.600,2.75,1.775,2.025
+72758176,2026-10-10 14:00,Chesham United,Chelmsford City,0,5,2.200,3.750,2.500,3.25,1.950,1.850
+72758178,2026-10-10 14:00,Dagenham and Redbridge FC,Hemel Hempstead Town,0,0,2.100,3.400,2.875,2.75,2.000,1.800
+72758180,2026-10-10 14:00,Dover Athletic FC,Dorking Wanderers,1,1,3.100,3.700,1.900,3.25,1.800,2.000
+72758182,2026-10-10 14:00,Farnham Town,Salisbury FC,1,2,2.550,3.500,2.300,3,1.850,1.950
+72758184,2026-10-10 14:00,Hampton & Richmond Borough,Ebbsfleet United FC,0,2,4.200,3.700,1.650,2.75,1.850,1.950
+72758186,2026-10-10 14:00,Horsham FC,Maidstone United FC,1,2,2.700,3.300,2.250,2.75,1.975,1.825
+72758188,2026-10-10 14:00,Maidenhead United FC,Tonbridge Angels,0,1,2.000,3.600,3.000,2.75,1.975,1.825
+72758190,2026-10-10 14:00,Torquay United,Slough Town,5,1,1.300,5.250,7.000,3.75,1.900,1.900
+72758192,2026-10-10 14:00,Weston-super-Mare,Folkestone Invicta,1,1,2.000,3.400,3.200,2.75,1.975,1.825
+74795892,2026-10-13 18:45,Ebbsfleet United FC,AFC Totton,5,0,1.400,4.500,6.250,3,1.925,1.875
+72758198,2026-10-17 14:00,Ebbsfleet United FC,Weston-super-Mare,6,1,1.700,3.500,4.200,2.5,1.875,1.925
+72758200,2026-10-17 14:00,Farnborough FC,Dagenham and Redbridge FC,2,0,3.100,3.600,1.950,2.75,1.825,1.975
+72758202,2026-10-17 14:00,Folkestone Invicta,AFC Totton,2,1,1.615,3.800,4.333,3,1.800,2.000
+72758206,2026-10-17 14:00,Maidstone United FC,Maidenhead United FC,2,1,2.150,3.400,2.800,2.75,1.875,1.925
+72758210,2026-10-17 14:00,Slough Town,Horsham FC,1,2,3.500,3.700,1.800,3,1.900,1.900
+72758600,2026-10-17 14:00,Tonbridge Angels,Hemel Hempstead Town,1,0,2.100,3.300,2.900,2.5,1.825,1.975
+74795950,2026-10-20 18:45,Ebbsfleet United FC,Horsham FC,2,2,1.480,3.800,5.750,2.75,1.900,1.900
+72758218,2026-10-24 14:00,Chelmsford City,Tonbridge Angels,3,3,1.850,3.500,3.400,3,2.000,1.800
+72758220,2026-10-24 14:00,Dagenham and Redbridge FC,Chesham United,2,0,1.833,3.500,3.500,2.75,1.900,1.900
+72758222,2026-10-24 14:00,Ebbsfleet United FC,Maidenhead United FC,4,0,1.700,3.600,4.000,2.5,1.800,2.000
+72758224,2026-10-24 14:00,Farnham Town,Braintree Town FC,6,0,1.700,3.800,3.750,3.25,1.975,1.825
+72758226,2026-10-24 14:00,Folkestone Invicta,Farnborough FC,2,0,1.727,3.750,3.750,3.25,2.025,1.775
+72758228,2026-10-24 14:00,Hampton & Richmond Borough,Truro City,3,4,4.100,3.700,1.666,2.75,1.875,1.925
+72758230,2026-10-24 14:00,Hemel Hempstead Town,AFC Totton,1,3,1.550,3.900,4.500,2.75,1.825,1.975
+72758232,2026-10-24 14:00,Horsham FC,Walton and Hersham FC,1,0,1.420,4.333,5.750,3.25,2.000,1.800
+72758234,2026-10-24 14:00,Salisbury FC,Dover Athletic FC,1,1,1.420,4.500,5.250,3.25,1.900,1.900
+72758236,2026-10-24 14:00,Slough Town,Dorking Wanderers,1,3,3.600,4.000,1.700,3.5,1.825,1.975
+72758238,2026-10-24 14:00,Torquay United,Maidstone United FC,1,1,2.100,3.500,2.750,3,1.975,1.825
+72758240,2026-10-24 14:00,Weston-super-Mare,Billericay Town,0,1,2.150,3.500,2.750,2.75,1.925,1.875
+72758242,2026-10-27 19:45,AFC Totton,Torquay United,1,0,3.500,3.900,1.750,3,1.825,1.975
+72758244,2026-10-27 19:45,Billericay Town,Hampton & Richmond Borough,2,2,1.571,4.333,4.000,3,1.850,1.950
+72758246,2026-10-27 19:45,Braintree Town FC,Dagenham and Redbridge FC,2,1,3.750,3.800,1.727,2.75,1.875,1.925
+72758248,2026-10-27 19:45,Chesham United,Farnham Town,2,4,2.500,3.700,2.250,3.25,1.900,1.900
+72758250,2026-10-27 19:45,Dorking Wanderers,Hemel Hempstead Town,3,3,1.833,3.600,3.300,3,1.950,1.850
+72758252,2026-10-27 19:45,Dover Athletic FC,Chelmsford City,0,1,3.250,3.800,1.850,3,1.875,1.925
+72758254,2026-10-27 19:45,Maidenhead United FC,Horsham FC,1,1,2.050,3.400,2.900,2.75,1.975,1.825
+72758256,2026-10-27 19:45,Maidstone United FC,Ebbsfleet United FC,1,3,3.000,3.400,2.050,2.75,1.950,1.850
+72758258,2026-10-27 19:45,Tonbridge Angels,Folkestone Invicta,2,0,2.150,3.500,2.750,2.75,1.925,1.875
+72758260,2026-10-27 19:45,Truro City,Slough Town,3,1,1.250,5.500,7.500,3.5,1.950,1.850
+72758262,2026-10-27 19:45,Walton and Hersham FC,Salisbury FC,0,2,4.200,4.333,1.550,3.25,1.900,1.900
+72758264,2026-10-28 19:45,Farnborough FC,Weston-super-Mare,2,1,2.800,3.500,2.150,2.75,1.850,1.950
+72758266,2026-10-31 15:00,AFC Totton,Chelmsford City,1,3,3.500,3.600,1.800,3,1.975,1.825
+72758268,2026-10-31 15:00,Billericay Town,Hemel Hempstead Town,5,0,1.750,3.700,3.600,3,1.975,1.825
+72758270,2026-10-31 15:00,Braintree Town FC,Hampton & Richmond Borough,1,0,2.625,3.500,2.250,3,2.000,1.800
+72758272,2026-10-31 15:00,Chesham United,Folkestone Invicta,2,2,2.375,3.700,2.375,3,1.850,1.950
+72758274,2026-10-31 15:00,Dorking Wanderers,Weston-super-Mare,2,0,1.950,3.600,3.100,3.25,2.000,1.800
+72758276,2026-10-31 15:00,Dover Athletic FC,Farnham Town,1,0,2.700,3.900,2.050,3.5,2.000,1.800
+72758278,2026-10-31 15:00,Farnborough FC,Horsham FC,0,5,2.875,3.500,2.050,3,1.850,1.950
+72758280,2026-10-31 15:00,Maidenhead United FC,Dagenham and Redbridge FC,0,0,2.450,3.250,2.550,2.5,1.900,1.900
+72758282,2026-10-31 15:00,Maidstone United FC,Slough Town,2,1,1.333,5.000,6.250,3.5,2.000,1.800
+72758284,2026-10-31 15:00,Tonbridge Angels,Salisbury FC,1,2,2.350,3.400,2.550,3,1.875,1.925
+72758286,2026-10-31 15:00,Truro City,Ebbsfleet United FC,3,0,2.300,3.400,2.600,2.5,1.900,1.900
+72758288,2026-10-31 15:00,Walton and Hersham FC,Torquay United,0,3,3.700,3.600,1.800,3.25,2.025,1.775
+75597592,2026-11-02 19:45,Chelmsford City,Farnham Town,0,2,1.750,3.800,3.500,3.25,1.975,1.825
+75018346,2026-11-03 19:45,Farnborough FC,Ebbsfleet United FC,0,6,5.000,4.100,1.500,3,1.825,1.975
+75445666,2026-11-03 19:45,Dorking Wanderers,Hampton & Richmond Borough,3,2,1.380,4.500,6.000,3.25,1.825,1.975
+72758290,2026-11-07 15:00,Chelmsford City,Farnborough FC,2,1,1.500,4.100,4.750,3.25,2.025,1.775
+72758292,2026-11-07 15:00,Dagenham and Redbridge FC,Billericay Town,2,2,2.000,3.400,3.000,2.75,1.950,1.850
+72758294,2026-11-07 15:00,Ebbsfleet United FC,Chesham United,1,0,1.300,4.750,7.000,3.25,1.900,1.900
+72758296,2026-11-07 15:00,Farnham Town,Tonbridge Angels,3,1,2.150,3.500,2.800,3,1.900,1.900
+72758300,2026-11-07 15:00,Hampton & Richmond Borough,Maidenhead United FC,1,1,2.400,3.300,2.500,2.75,1.900,1.900
+72758302,2026-11-07 15:00,Hemel Hempstead Town,Maidstone United FC,1,2,2.900,3.400,2.100,2.75,1.900,1.900
+72758304,2026-11-07 15:00,Horsham FC,AFC Totton,2,3,1.533,3.900,5.000,2.75,1.800,2.000
+72758308,2026-11-07 15:00,Slough Town,Walton and Hersham FC,3,1,2.000,3.800,2.875,3.25,1.950,1.850
+72758312,2026-11-07 15:00,Weston-super-Mare,Braintree Town FC,4,1,1.500,3.900,5.000,3,2.000,1.800
+75018348,2026-11-09 19:45,Chelmsford City,Ebbsfleet United FC,2,2,3.500,3.600,1.800,3,1.975,1.825
+76122398,2026-11-10 19:45,Hemel Hempstead Town,Torquay United,0,2,3.200,3.700,1.950,2.75,1.800,2.000
+76122400,2026-11-10 19:45,Salisbury FC,Braintree Town FC,2,0,1.333,5.000,7.000,3.75,1.950,1.850

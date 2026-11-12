@@ -22,6 +22,24 @@ Data och odds: **Odds-API.io** med bet365. Därifrån kommer historiska stängni
 
 `tests/test_excel.py` kontrollerar att koden ger exakt samma siffror som Excel-fliken *Poland ll*.
 
+## Goal Line-modellerna (totaler från stängningslinor)
+
+Steg 1, lika för båda: **lagens snittmål från stängda goal lines.**
+
+| Del | Regel |
+| --- | --- |
+| Stängning → μ | Varje stängd huvudlina (den jämnaste) räknas om till förväntade mål μ, det Poisson-medel där linans marginalfria över-sannolikhet (push borträknad) stämmer exakt. Exempel: 2,5 på 1,75/2,05 ger μ = 2,84. |
+| Lagets snitt | Snitt-μ i lagets **senaste 20** matcher med stängningslina, i alla insamlade ligor. Förra säsongen och förra serien fyller på. **Exakt 20** krävs. |
+
+Steg 2, två modeller:
+
+| Modell (`model`) | Matchens förväntade mål |
+| --- | --- |
+| `goal_line_tg` | Din Total Goals-formel med lagens goal line-snitt i stället för faktiska mål: E = (3,2811 + 0,008833·\|P hemma − P borta\|) · ((snitt hemma + snitt borta)/2) / 3,6247, uppdelat på lagen som i Excel |
+| `goal_line_avg` | (snitt hemma + snitt borta) / 2. Ett lag på 50/50 vid 2,5 och ett vid 3,0 ger 50/50 vid **2,75** |
+
+Båda prissätter bet365:s öppningslina på totaler med Poisson. `model_line` i spelloggen är modellens 50/50-lina. Ursprungsmodellen (`excel`, faktiska mål) prissätter fortfarande AH och totaler. Varje modells spel loggas separat.
+
 ## Körning
 
 ```bash
@@ -38,7 +56,7 @@ python3 tests/test_excel.py
 | Fil | Innehåll |
 | --- | --- |
 | `config/leagues.json` | Ligor (Odds-API-slug, HA för Excel-ligorna), modellkonstanter, EV-gräns |
-| `data/matches/<liga>.csv` | Avgjorda matcher: resultat och bet365-stängning 1X2 |
+| `data/matches/<liga>.csv` | Avgjorda matcher: resultat, bet365-stängning 1X2 och stängd huvudlina på goal line (`close_tl`, `close_over`, `close_under`) |
 | `data/prices/latest.csv` | Modellen per kommande match: P 2-väg, E, λ, fair AH 0 och 2,5 mål |
 | `data/scans/<tid>.csv` | Öppnings- och senaste huvudlina per match och marknad, med fair odds och EV |
 | `data/bets.csv` | Bokförda spel: öppningslina, odds och tid, fair odds, EV, modellvärden, senaste lina och odds, resultat, vinst, stängningsodds på samma lina och CLV |

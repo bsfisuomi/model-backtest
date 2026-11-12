@@ -1,315 +1,315 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-51158013,2025-05-24 12:30,FAC Wien,SK Sturm Graz II,1,1,,,
-51158017,2025-05-24 12:30,Kapfenberger SV,Schwarz-Weiss Bregenz,5,3,,,
-51158007,2025-05-25 12:30,SKU Amstetten,FC Liefering,3,1,,,
-51158009,2025-05-25 15:00,SV Lafnitz,SKN St Polten,2,2,,,
-51158011,2025-05-25 15:00,Rapid Wien II,SV Stripfing,2,3,,,
-51158015,2025-05-25 15:00,Austria Lustenau,ASK Voitsberg,3,0,,,
-51158019,2025-05-25 15:00,SV Ried,First Vienna FC 1894,1,1,,,
-51158021,2025-05-25 15:00,FC Admira Wacker Modling,SV Horn,1,3,,,
-61590894,2025-08-01 16:00,FC Liefering,Austria Lustenau,0,4,,,
-61590902,2025-08-01 16:00,Kapfenberger SV,FC Admira Wacker Modling,0,2,,,
-61590906,2025-08-01 16:00,SKU Amstetten,SK Sturm Graz II,2,0,,,
-61590908,2025-08-01 16:00,Austria Salzburg,SK Austria Klagenfurt,1,2,,,
-61590900,2025-08-02 12:30,Schwarz-Weiss Bregenz,Rapid Wien II,1,1,,,
-61590898,2025-08-02 18:00,Young Violets Wien,SKN St Polten,1,4,,,
-61590896,2025-08-03 08:30,FC Hertha Wels,FAC Wien,0,3,,,
-61590910,2025-08-08 16:00,Austria Lustenau,FC Hertha Wels,1,0,,,
-61590912,2025-08-08 16:00,SK Austria Klagenfurt,Young Violets Wien,2,3,,,
-61590916,2025-08-08 16:00,FAC Wien,Kapfenberger SV,2,0,,,
-61590920,2025-08-08 16:00,SKN St Polten,Schwarz-Weiss Bregenz,4,2,,,
-61590914,2025-08-08 18:30,First Vienna FC 1894,Austria Salzburg,3,0,,,
-61590924,2025-08-09 12:30,Rapid Wien II,FC Liefering,1,1,,,
-61590918,2025-08-10 08:30,FC Admira Wacker Modling,SKU Amstetten,2,2,,,
-61590926,2025-08-15 16:00,FC Liefering,SK Sturm Graz II,2,2,,,
-61590928,2025-08-15 16:00,FC Hertha Wels,SKU Amstetten,1,0,,,
-61590930,2025-08-15 16:00,SKN St Polten,First Vienna FC 1894,2,1,,,
-61590934,2025-08-15 16:00,Schwarz-Weiss Bregenz,FAC Wien,1,1,,,
-61590936,2025-08-15 16:00,Kapfenberger SV,Austria Lustenau,3,1,,,
-61590932,2025-08-16 18:00,Young Violets Wien,FC Admira Wacker Modling,1,1,,,
-61590940,2025-08-17 08:30,Austria Salzburg,Rapid Wien II,4,2,,,
-61590946,2025-08-22 16:00,First Vienna FC 1894,FC Liefering,0,0,,,
-61590954,2025-08-22 16:00,SKU Amstetten,SKN St Polten,0,0,,,
-61590950,2025-08-22 18:30,FC Admira Wacker Modling,FC Hertha Wels,1,0,,,
-61590944,2025-08-23 12:30,SK Austria Klagenfurt,Schwarz-Weiss Bregenz,2,1,,,
-61590948,2025-08-23 18:00,FAC Wien,Austria Salzburg,1,2,,,
-61590952,2025-08-23 18:00,SK Sturm Graz II,Kapfenberger SV,1,2,,,
-61590956,2025-08-24 08:30,Rapid Wien II,Young Violets Wien,0,2,,,
-61590960,2025-08-29 16:00,First Vienna FC 1894,Austria Lustenau,1,1,,,
-61590962,2025-08-29 16:00,FC Hertha Wels,Young Violets Wien,0,1,,,
-61590958,2025-08-29 18:30,SK Austria Klagenfurt,FC Admira Wacker Modling,0,4,,,
-61590970,2025-08-30 12:30,Rapid Wien II,SKN St Polten,0,2,,,
-61590972,2025-08-30 12:30,Austria Salzburg,SKU Amstetten,2,2,,,
-61590968,2025-08-30 18:00,SK Sturm Graz II,FAC Wien,0,2,,,
-61590964,2025-08-31 08:30,Schwarz-Weiss Bregenz,FC Liefering,2,2,,,
-61590974,2025-09-12 16:00,Austria Lustenau,SK Sturm Graz II,2,1,,,
-61590986,2025-09-12 16:00,Kapfenberger SV,FC Hertha Wels,3,2,,,
-61590988,2025-09-12 16:00,SKU Amstetten,Rapid Wien II,3,1,,,
-61590976,2025-09-12 18:30,FAC Wien,SK Austria Klagenfurt,1,2,,,
-61590980,2025-09-13 12:30,FC Admira Wacker Modling,Schwarz-Weiss Bregenz,2,2,,,
-61590984,2025-09-13 18:00,Young Violets Wien,First Vienna FC 1894,1,1,,,
-61590978,2025-09-14 08:30,FC Liefering,Austria Salzburg,3,2,,,
-61590990,2025-09-19 16:00,Austria Lustenau,FAC Wien,0,0,,,
-61590994,2025-09-19 16:00,FC Hertha Wels,FC Liefering,1,1,,,
-61591002,2025-09-19 16:00,Rapid Wien II,FC Admira Wacker Modling,2,2,,,
-61590992,2025-09-19 18:30,First Vienna FC 1894,SK Austria Klagenfurt,0,2,,,
-61591004,2025-09-20 12:30,Austria Salzburg,SKN St Polten,1,2,,,
-61590998,2025-09-20 18:00,SK Sturm Graz II,Young Violets Wien,1,2,,,
-61591000,2025-09-21 08:30,SKU Amstetten,Kapfenberger SV,3,0,,,
-61591006,2025-09-26 16:00,SK Austria Klagenfurt,FC Hertha Wels,2,0,,,
-61591008,2025-09-26 16:00,FAC Wien,Rapid Wien II,0,1,,,
-61591012,2025-09-26 16:00,FC Admira Wacker Modling,Austria Lustenau,1,1,,,
-61591014,2025-09-26 16:00,SKN St Polten,SK Sturm Graz II,4,0,,,
-61591018,2025-09-26 16:00,Schwarz-Weiss Bregenz,Austria Salzburg,0,0,,,
-61591016,2025-09-27 18:00,Young Violets Wien,SKU Amstetten,0,0,,,
-61591020,2025-09-28 08:30,Kapfenberger SV,First Vienna FC 1894,0,3,,,
-61591032,2025-10-03 16:00,SKU Amstetten,FC Liefering,2,2,,,
-61591026,2025-10-03 18:30,First Vienna FC 1894,FAC Wien,0,2,,,
-61591022,2025-10-04 12:30,Austria Lustenau,Young Violets Wien,3,2,,,
-61591036,2025-10-04 12:30,Austria Salzburg,FC Hertha Wels,4,2,,,
-61591030,2025-10-04 18:00,SK Sturm Graz II,Schwarz-Weiss Bregenz,3,1,,,
-61591034,2025-10-04 18:00,Rapid Wien II,Kapfenberger SV,1,0,,,
-61591024,2025-10-05 08:30,SK Austria Klagenfurt,SKN St Polten,1,2,,,
-61591050,2025-10-17 16:00,Kapfenberger SV,SK Austria Klagenfurt,1,1,,,
-61591044,2025-10-17 18:30,SKN St Polten,Austria Lustenau,1,0,,,
-61591038,2025-10-18 12:30,FAC Wien,FC Liefering,2,0,,,
-61591048,2025-10-18 12:30,Schwarz-Weiss Bregenz,SKU Amstetten,0,2,,,
-61591040,2025-10-18 18:00,FC Admira Wacker Modling,Austria Salzburg,4,0,,,
-61591052,2025-10-18 18:00,SK Sturm Graz II,First Vienna FC 1894,0,2,,,
-61591042,2025-10-19 08:30,FC Hertha Wels,Rapid Wien II,3,2,,,
-61591054,2025-10-24 16:00,SK Austria Klagenfurt,SK Sturm Graz II,0,0,,,
-61591056,2025-10-24 16:00,First Vienna FC 1894,FC Admira Wacker Modling,1,3,,,
-61591058,2025-10-24 16:00,FC Liefering,SKN St Polten,3,1,,,
-61591060,2025-10-24 16:00,Schwarz-Weiss Bregenz,Kapfenberger SV,1,1,,,
-61591068,2025-10-25 12:30,Austria Salzburg,Young Violets Wien,2,0,,,
-61591066,2025-10-25 18:00,Rapid Wien II,Austria Lustenau,1,2,,,
-61591064,2025-10-26 09:30,SKU Amstetten,FAC Wien,1,1,,,
-61591080,2025-10-31 19:30,Kapfenberger SV,Austria Salzburg,4,1,,,
-61591072,2025-11-01 13:30,First Vienna FC 1894,SKU Amstetten,2,3,,,
-61591074,2025-11-01 13:30,FC Hertha Wels,Schwarz-Weiss Bregenz,1,1,,,
-61591076,2025-11-01 13:30,SKN St Polten,FAC Wien,0,2,,,
-61591078,2025-11-01 19:00,Young Violets Wien,FC Liefering,0,2,,,
-61591084,2025-11-01 19:00,SK Sturm Graz II,FC Admira Wacker Modling,1,1,,,
-61591070,2025-11-02 09:30,Austria Lustenau,SK Austria Klagenfurt,2,0,,,
-61591088,2025-11-07 17:00,FC Liefering,Kapfenberger SV,5,2,,,
-61591092,2025-11-07 17:00,FC Hertha Wels,First Vienna FC 1894,0,0,,,
-61591090,2025-11-07 19:30,FC Admira Wacker Modling,SKN St Polten,2,1,,,
-61591094,2025-11-08 13:30,Schwarz-Weiss Bregenz,Austria Lustenau,1,2,,,
-61591098,2025-11-08 13:30,Rapid Wien II,SK Austria Klagenfurt,2,1,,,
-61591100,2025-11-08 13:30,Austria Salzburg,SK Sturm Graz II,1,2,,,
-61591086,2025-11-09 09:30,FAC Wien,Young Violets Wien,2,1,,,
-61591106,2025-11-21 19:30,First Vienna FC 1894,Rapid Wien II,2,0,,,
-61591102,2025-11-22 13:30,Austria Lustenau,Austria Salzburg,0,0,,,
-61591104,2025-11-22 13:30,SK Austria Klagenfurt,SKU Amstetten,0,2,,,
-61591108,2025-11-22 13:30,FC Admira Wacker Modling,FC Liefering,4,0,,,
-61591112,2025-11-22 19:00,Young Violets Wien,Schwarz-Weiss Bregenz,2,1,,,
-61591116,2025-11-22 19:00,SK Sturm Graz II,FC Hertha Wels,0,3,,,
-61591110,2025-11-23 09:30,SKN St Polten,Kapfenberger SV,2,1,,,
-61591120,2025-11-28 17:00,FC Liefering,SK Austria Klagenfurt,2,2,,,
-61591122,2025-11-28 17:00,FC Hertha Wels,SKN St Polten,1,1,,,
-61591126,2025-11-28 17:00,Kapfenberger SV,Young Violets Wien,1,2,,,
-61591128,2025-11-28 17:00,SKU Amstetten,Austria Lustenau,1,0,,,
-61591118,2025-11-28 19:30,FAC Wien,FC Admira Wacker Modling,1,1,,,
-61591130,2025-11-29 19:00,Rapid Wien II,SK Sturm Graz II,1,1,,,
-61591124,2025-11-30 09:30,Schwarz-Weiss Bregenz,First Vienna FC 1894,3,0,,,
-61591140,2025-12-05 17:00,FAC Wien,FC Hertha Wels,3,1,,,
-61591142,2025-12-05 17:00,FC Admira Wacker Modling,Kapfenberger SV,6,1,,,
-61591148,2025-12-05 17:00,Rapid Wien II,Schwarz-Weiss Bregenz,3,1,,,
-61591144,2025-12-05 19:30,SKN St Polten,Young Violets Wien,2,0,,,
-61591134,2025-12-06 13:30,Austria Lustenau,FC Liefering,1,0,,,
-61591146,2025-12-06 19:00,SK Sturm Graz II,SKU Amstetten,3,3,,,
-61591136,2025-12-07 09:30,SK Austria Klagenfurt,Austria Salzburg,0,1,,,
-61591150,2025-12-12 17:00,FC Liefering,Rapid Wien II,1,0,1.500,4.500,5.250
-61591152,2025-12-12 17:00,FC Hertha Wels,Austria Lustenau,0,1,2.600,3.400,2.550
-61591154,2025-12-12 17:00,Young Violets Wien,SK Austria Klagenfurt,2,1,,,
-61591156,2025-12-12 17:00,Schwarz-Weiss Bregenz,SKN St Polten,2,1,5.250,4.333,1.533
-61591158,2025-12-12 17:00,Kapfenberger SV,FAC Wien,0,0,,,
-61591162,2025-12-12 19:30,SKU Amstetten,FC Admira Wacker Modling,2,1,3.400,3.600,2.000
-61591164,2025-12-13 13:30,Austria Salzburg,First Vienna FC 1894,0,0,2.150,3.400,3.100
-61591166,2026-02-20 17:00,Austria Lustenau,Kapfenberger SV,2,1,1.480,4.333,5.750
-61591170,2026-02-20 19:30,First Vienna FC 1894,SKN St Polten,2,1,4.000,3.400,1.900
-61591178,2026-02-22 09:30,SKU Amstetten,FC Hertha Wels,1,1,1.750,3.600,4.333
-69140782,2026-02-24 17:30,FC Admira Wacker Modling,Young Violets Wien,2,1,,,
-61591182,2026-02-27 17:00,FC Liefering,First Vienna FC 1894,1,0,2.400,3.400,2.800
-61591184,2026-02-27 17:00,FC Hertha Wels,FC Admira Wacker Modling,1,0,4.750,3.500,1.727
-61591188,2026-02-27 17:00,Young Violets Wien,Rapid Wien II,1,0,,,
-61591190,2026-02-27 17:00,Schwarz-Weiss Bregenz,SK Austria Klagenfurt,1,1,2.000,3.700,3.400
-61591186,2026-02-27 19:30,SKN St Polten,SKU Amstetten,1,3,2.300,3.500,2.875
-61591196,2026-02-28 13:30,Austria Salzburg,FAC Wien,0,1,,,
-61591192,2026-03-01 09:30,Kapfenberger SV,SK Sturm Graz II,2,1,2.700,3.750,2.300
-69140784,2026-03-03 19:30,Rapid Wien II,Austria Salzburg,1,1,3.100,3.300,2.200
-61591198,2026-03-06 17:00,Austria Lustenau,First Vienna FC 1894,0,3,1.800,3.250,5.000
-61591200,2026-03-06 17:00,FAC Wien,SK Sturm Graz II,0,1,,,
-61591202,2026-03-06 17:00,FC Liefering,Schwarz-Weiss Bregenz,4,3,1.800,4.000,3.750
-61591206,2026-03-06 17:00,SKN St Polten,Rapid Wien II,4,0,1.550,4.200,5.250
-61591212,2026-03-06 17:00,SKU Amstetten,Austria Salzburg,0,2,1.666,3.800,4.500
-61591208,2026-03-07 13:30,Young Violets Wien,FC Hertha Wels,1,0,,,
-61591204,2026-03-08 09:30,FC Admira Wacker Modling,SK Austria Klagenfurt,3,3,1.363,4.750,7.500
-69140788,2026-03-10 17:30,SK Sturm Graz II,FC Liefering,0,1,3.000,3.700,2.100
-69231436,2026-03-10 17:30,FAC Wien,Schwarz-Weiss Bregenz,2,0,,,
-61591214,2026-03-13 17:00,SK Austria Klagenfurt,FAC Wien,0,3,,,
-61591218,2026-03-13 17:00,FC Hertha Wels,Kapfenberger SV,3,1,1.950,3.500,3.750
-61591220,2026-03-13 17:00,Schwarz-Weiss Bregenz,FC Admira Wacker Modling,1,4,6.500,4.500,1.450
-61591226,2026-03-13 17:00,Rapid Wien II,SKU Amstetten,4,1,4.200,3.800,1.750
-61591228,2026-03-13 19:30,Austria Salzburg,FC Liefering,2,0,3.400,3.250,2.150
-61591224,2026-03-14 13:30,SK Sturm Graz II,Austria Lustenau,0,1,3.000,3.400,2.250
-61591216,2026-03-15 09:30,First Vienna FC 1894,Young Violets Wien,0,2,,,
-61591230,2026-03-20 17:00,SK Austria Klagenfurt,First Vienna FC 1894,0,2,3.700,3.400,1.950
-61591234,2026-03-20 17:00,FC Liefering,FC Hertha Wels,2,5,2.050,3.400,3.400
-61591236,2026-03-20 17:00,FC Admira Wacker Modling,Rapid Wien II,0,3,1.363,4.750,8.500
-61591238,2026-03-20 17:00,SKN St Polten,Austria Salzburg,2,1,1.444,4.000,5.750
-61591232,2026-03-20 19:30,FAC Wien,Austria Lustenau,0,2,,,
-61591240,2026-03-21 13:30,Young Violets Wien,SK Sturm Graz II,0,1,,,
-61591244,2026-03-22 09:30,Kapfenberger SV,SKU Amstetten,0,0,4.500,3.750,1.700
-61591248,2026-04-03 16:00,First Vienna FC 1894,Kapfenberger SV,1,2,1.833,3.500,4.200
-61591250,2026-04-03 16:00,FC Hertha Wels,SK Austria Klagenfurt,1,2,1.600,4.200,5.000
-61591254,2026-04-03 16:00,SK Sturm Graz II,SKN St Polten,0,1,3.900,3.800,1.800
-61591256,2026-04-03 16:00,SKU Amstetten,Young Violets Wien,1,1,,,
-61591258,2026-04-03 16:00,Rapid Wien II,FAC Wien,0,2,,,
-61591260,2026-04-03 16:00,Austria Salzburg,Schwarz-Weiss Bregenz,2,2,1.909,3.500,3.750
-61591246,2026-04-03 18:30,Austria Lustenau,FC Admira Wacker Modling,1,1,3.300,3.100,2.150
-61591264,2026-04-06 12:00,FC Liefering,SKU Amstetten,0,1,2.500,3.600,2.500
-61591268,2026-04-06 12:00,FC Hertha Wels,Austria Salzburg,1,1,2.200,3.300,3.100
-61591272,2026-04-06 12:00,Young Violets Wien,Austria Lustenau,3,1,,,
-61591276,2026-04-06 12:00,Kapfenberger SV,Rapid Wien II,0,2,2.350,3.400,2.500
-61591262,2026-04-06 14:00,FAC Wien,First Vienna FC 1894,0,1,,,
-61591270,2026-04-06 15:00,SKN St Polten,SK Austria Klagenfurt,2,0,1.270,5.250,7.500
-61591274,2026-04-06 15:00,Schwarz-Weiss Bregenz,SK Sturm Graz II,1,3,3.400,3.400,2.050
-61591280,2026-04-10 16:00,SK Austria Klagenfurt,Kapfenberger SV,0,0,2.750,3.500,2.350
-61591288,2026-04-10 16:00,SKU Amstetten,Schwarz-Weiss Bregenz,2,3,1.571,4.333,5.000
-61591290,2026-04-10 16:00,Rapid Wien II,FC Hertha Wels,1,4,2.600,3.400,2.550
-61591278,2026-04-10 18:30,Austria Lustenau,SKN St Polten,3,0,2.875,2.700,2.500
-61591284,2026-04-11 12:30,FC Liefering,FAC Wien,3,1,,,
-61591292,2026-04-11 12:30,Austria Salzburg,FC Admira Wacker Modling,0,0,5.500,4.000,1.550
-61591282,2026-04-12 08:30,First Vienna FC 1894,SK Sturm Graz II,2,1,2.300,3.500,2.800
-61591294,2026-04-17 16:00,Austria Lustenau,Rapid Wien II,3,0,1.550,4.333,5.250
-61591296,2026-04-17 16:00,FAC Wien,SKU Amstetten,5,0,,,
-61591306,2026-04-17 16:00,Kapfenberger SV,Schwarz-Weiss Bregenz,3,1,2.300,3.500,2.800
-61591298,2026-04-17 18:30,FC Admira Wacker Modling,First Vienna FC 1894,0,0,1.700,3.800,4.333
-61591304,2026-04-17 18:30,Young Violets Wien,Austria Salzburg,1,1,,,
-61591308,2026-04-18 12:30,SK Sturm Graz II,SK Austria Klagenfurt,1,1,1.850,3.600,3.900
-61591302,2026-04-19 08:30,SKN St Polten,FC Liefering,0,0,1.750,3.800,4.100
-61591310,2026-04-24 16:00,SK Austria Klagenfurt,Austria Lustenau,3,0,4.333,3.800,1.727
-61591314,2026-04-24 16:00,FC Liefering,Young Violets Wien,2,0,,,
-61591318,2026-04-24 16:00,Schwarz-Weiss Bregenz,FC Hertha Wels,2,3,3.000,3.600,2.150
-61591320,2026-04-24 16:00,SKU Amstetten,First Vienna FC 1894,0,0,2.150,3.750,2.900
-61591312,2026-04-24 18:30,FAC Wien,SKN St Polten,0,0,,,
-61591324,2026-04-25 12:30,Austria Salzburg,Kapfenberger SV,1,0,1.750,3.900,4.100
-61591316,2026-04-26 08:30,FC Admira Wacker Modling,SK Sturm Graz II,2,1,1.420,4.750,6.250
-61591330,2026-05-02 12:30,First Vienna FC 1894,FC Hertha Wels,1,0,2.150,3.600,3.000
-61591334,2026-05-02 12:30,Young Violets Wien,FAC Wien,0,5,,,
-61591336,2026-05-02 12:30,Kapfenberger SV,FC Liefering,1,4,3.000,3.900,1.900
-61591340,2026-05-02 12:30,SK Sturm Graz II,Austria Salzburg,0,2,2.200,3.500,3.000
-61591332,2026-05-02 18:00,SKN St Polten,FC Admira Wacker Modling,0,0,2.700,3.500,2.375
-61591326,2026-05-03 08:30,Austria Lustenau,Schwarz-Weiss Bregenz,2,0,1.450,4.500,6.250
-61591328,2026-05-03 08:30,SK Austria Klagenfurt,Rapid Wien II,2,1,2.500,3.700,2.500
-61591344,2026-05-08 16:00,FC Liefering,FC Admira Wacker Modling,3,0,3.400,4.000,1.900
-61591346,2026-05-08 16:00,FC Hertha Wels,SK Sturm Graz II,2,0,1.950,3.700,3.500
-61591348,2026-05-08 16:00,Schwarz-Weiss Bregenz,Young Violets Wien,2,2,,,
-61591350,2026-05-08 16:00,Kapfenberger SV,SKN St Polten,0,3,6.500,5.500,1.333
-61591352,2026-05-08 16:00,SKU Amstetten,SK Austria Klagenfurt,3,0,1.650,4.000,4.750
-61591354,2026-05-08 16:00,Rapid Wien II,First Vienna FC 1894,1,0,3.100,3.750,2.050
-61591356,2026-05-08 16:00,Austria Salzburg,Austria Lustenau,2,2,3.900,3.500,1.850
-61591358,2026-05-14 15:00,Austria Lustenau,SKU Amstetten,2,1,1.600,4.000,5.000
-61591360,2026-05-14 15:00,SK Austria Klagenfurt,FC Liefering,2,3,3.750,3.750,1.850
-61591362,2026-05-14 15:00,First Vienna FC 1894,Schwarz-Weiss Bregenz,2,0,1.750,4.333,3.700
-61591364,2026-05-14 15:00,FC Admira Wacker Modling,FAC Wien,1,0,,,
-61591366,2026-05-14 15:00,SKN St Polten,FC Hertha Wels,1,0,1.400,4.750,6.500
-61591368,2026-05-14 15:00,Young Violets Wien,Kapfenberger SV,1,2,,,
-61591372,2026-05-14 15:00,SK Sturm Graz II,Rapid Wien II,1,2,2.600,3.900,2.350
-72440570,2026-07-31 16:30,FC Admira Wacker Modling,Rapid Wien II,0,1,2.000,3.750,3.300
-72440576,2026-07-31 16:30,Young Violets Wien,Blau-Weiss Linz,0,3,,,
-72440580,2026-07-31 16:30,Kapfenberger SV,FC Liefering,0,4,3.600,4.000,1.833
-72440582,2026-07-31 16:30,ASK Voitsberg,SKU Amstetten,1,1,1.909,3.600,3.600
-72440584,2026-07-31 16:30,Wacker Innsbruck,Schwarz-Weiss Bregenz,5,0,1.909,3.500,3.700
-72440572,2026-07-31 18:30,FAC Wien,SKN St Polten,1,0,,,
-72440574,2026-08-01 16:30,First Vienna FC 1894,SK Sturm Graz II,4,0,1.600,4.200,5.000
-72440578,2026-08-02 08:30,FC Hertha Wels,Austria Salzburg,0,2,2.250,3.400,2.900
-72440588,2026-08-07 16:30,SKN St Polten,Young Violets Wien,0,1,1.500,4.100,6.000
-72440590,2026-08-07 16:30,FC Liefering,FC Hertha Wels,2,3,2.000,3.700,3.300
-72440586,2026-08-07 18:30,Blau-Weiss Linz,Wacker Innsbruck,3,0,1.571,4.100,5.250
-72440596,2026-08-08 13:30,Rapid Wien II,ASK Voitsberg,1,3,3.000,3.800,2.100
-72440594,2026-08-08 15:30,Austria Salzburg,First Vienna FC 1894,4,1,2.875,3.400,2.300
-72440598,2026-08-08 15:30,SK Sturm Graz II,FAC Wien,4,2,3.750,3.600,1.900
-72440600,2026-08-08 15:30,Schwarz-Weiss Bregenz,Kapfenberger SV,3,2,1.900,3.700,3.600
-72440592,2026-08-09 08:30,SKU Amstetten,FC Admira Wacker Modling,2,1,2.200,3.500,2.900
-72440610,2026-08-14 16:30,FC Hertha Wels,Rapid Wien II,1,2,2.150,3.700,3.000
-72440602,2026-08-14 18:30,SKN St Polten,Blau-Weiss Linz,0,1,3.000,3.400,2.250
-72440604,2026-08-15 15:30,FAC Wien,SKU Amstetten,2,2,3.400,3.400,2.050
-72440614,2026-08-15 15:30,SK Sturm Graz II,FC Admira Wacker Modling,0,2,3.200,3.400,2.150
-72440608,2026-08-15 16:30,Young Violets Wien,Austria Salzburg,3,1,3.750,3.500,1.909
-72440612,2026-08-15 16:30,Kapfenberger SV,Wacker Innsbruck,0,1,3.300,3.400,2.050
-72440616,2026-08-15 16:30,ASK Voitsberg,Schwarz-Weiss Bregenz,0,0,1.750,3.900,4.200
-72440606,2026-08-16 08:30,First Vienna FC 1894,FC Liefering,2,2,2.200,3.500,3.000
-72440622,2026-08-21 16:30,FC Liefering,Young Violets Wien,2,1,2.000,3.900,3.200
-72440624,2026-08-21 16:30,SKU Amstetten,FC Hertha Wels,1,1,2.050,3.700,3.200
-72440626,2026-08-21 16:30,Austria Salzburg,Kapfenberger SV,3,2,1.900,3.700,3.700
-72440632,2026-08-21 16:30,Wacker Innsbruck,SKN St Polten,1,0,2.750,3.600,2.300
-72440620,2026-08-21 18:30,FC Admira Wacker Modling,First Vienna FC 1894,0,1,3.400,3.500,2.000
-72440628,2026-08-22 13:30,Rapid Wien II,FAC Wien,0,2,2.450,3.500,2.600
-72440630,2026-08-22 15:30,Schwarz-Weiss Bregenz,SK Sturm Graz II,3,1,1.800,3.750,3.800
-72440618,2026-08-23 08:30,Blau-Weiss Linz,ASK Voitsberg,5,1,1.600,4.333,4.500
-72440634,2026-08-28 16:30,SKN St Polten,Austria Salzburg,1,0,2.150,3.300,3.250
-72440638,2026-08-28 16:30,First Vienna FC 1894,SKU Amstetten,1,0,2.200,3.500,3.000
-72440644,2026-08-28 16:30,Kapfenberger SV,Blau-Weiss Linz,2,1,6.250,4.750,1.420
-72440648,2026-08-28 16:30,ASK Voitsberg,FC Liefering,2,3,2.000,4.000,3.200
-72440642,2026-08-28 18:30,FC Hertha Wels,FC Admira Wacker Modling,1,3,2.550,3.500,2.500
-72440636,2026-08-29 15:30,FAC Wien,Wacker Innsbruck,2,0,2.750,3.300,2.500
-72440640,2026-08-29 16:30,Young Violets Wien,Schwarz-Weiss Bregenz,2,0,2.550,3.600,2.500
-72440646,2026-08-30 08:30,SK Sturm Graz II,Rapid Wien II,5,2,2.450,3.750,2.500
-72440652,2026-09-11 16:30,FC Admira Wacker Modling,Kapfenberger SV,1,0,1.800,4.000,3.600
-72440656,2026-09-11 16:30,SKU Amstetten,Young Violets Wien,4,2,1.950,3.600,3.400
-72440660,2026-09-11 16:30,Rapid Wien II,First Vienna FC 1894,0,2,3.900,4.000,1.700
-72440664,2026-09-11 18:30,Wacker Innsbruck,ASK Voitsberg,1,1,2.050,3.500,3.100
-72440658,2026-09-12 13:30,Austria Salzburg,SK Sturm Graz II,3,3,2.050,3.600,3.000
-72440662,2026-09-12 13:30,Schwarz-Weiss Bregenz,FAC Wien,4,0,2.250,3.300,2.875
-72440650,2026-09-12 15:30,Blau-Weiss Linz,FC Hertha Wels,4,1,1.420,4.750,5.750
-72440654,2026-09-13 08:30,FC Liefering,SKN St Polten,1,3,2.600,3.900,2.200
-72440670,2026-09-18 16:30,FAC Wien,FC Liefering,4,0,2.050,3.700,3.000
-72440674,2026-09-18 16:30,FC Hertha Wels,First Vienna FC 1894,1,3,4.000,3.400,1.833
-72440676,2026-09-18 16:30,Kapfenberger SV,SKU Amstetten,3,4,4.200,4.000,1.650
-72440666,2026-09-18 18:30,Blau-Weiss Linz,FC Admira Wacker Modling,3,0,1.480,4.200,5.500
-72440678,2026-09-19 13:30,SK Sturm Graz II,Wacker Innsbruck,2,2,2.600,3.600,2.350
-72440680,2026-09-19 13:30,ASK Voitsberg,Austria Salzburg,2,1,1.850,3.750,3.500
-72440668,2026-09-19 15:30,SKN St Polten,Schwarz-Weiss Bregenz,2,1,2.050,3.600,3.100
-72440672,2026-09-20 08:30,Young Violets Wien,Rapid Wien II,4,1,2.250,3.700,2.625
-72440688,2026-10-09 16:30,SKU Amstetten,Blau-Weiss Linz,1,1,2.800,3.600,2.150
-72440700,2026-10-09 16:30,Kapfenberger SV,Young Violets Wien,0,1,2.800,3.600,2.150
-72440692,2026-10-09 18:30,First Vienna FC 1894,SKN St Polten,3,1,2.350,3.400,2.750
-72440684,2026-10-10 13:30,FC Liefering,SK Sturm Graz II,3,1,2.150,3.900,2.700
-72440694,2026-10-10 13:30,Austria Salzburg,FAC Wien,2,1,2.300,3.400,2.800
-72440696,2026-10-10 13:30,FC Hertha Wels,Schwarz-Weiss Bregenz,1,0,2.500,3.500,2.500
-72440698,2026-10-10 13:30,Rapid Wien II,Wacker Innsbruck,1,2,3.000,3.700,2.050
-72440682,2026-10-11 08:30,FC Admira Wacker Modling,ASK Voitsberg,3,2,2.450,3.700,2.450
-72440704,2026-10-16 16:30,SKN St Polten,Rapid Wien II,0,0,1.750,3.800,3.800
-72440708,2026-10-16 16:30,Young Violets Wien,FC Hertha Wels,2,2,2.450,3.400,2.500
-72440714,2026-10-16 16:30,ASK Voitsberg,First Vienna FC 1894,1,2,3.000,3.500,2.100
-72440716,2026-10-16 18:30,Wacker Innsbruck,Austria Salzburg,0,1,2.250,3.400,2.750
-72440706,2026-10-17 13:30,FAC Wien,FC Admira Wacker Modling,0,2,2.550,3.400,2.450
-72440712,2026-10-17 13:30,Schwarz-Weiss Bregenz,SKU Amstetten,0,0,3.100,3.600,2.050
-72440702,2026-10-17 15:30,Blau-Weiss Linz,FC Liefering,4,1,1.400,4.750,5.750
-72440710,2026-10-18 08:30,SK Sturm Graz II,Kapfenberger SV,0,2,1.833,3.750,3.400
-72440722,2026-10-23 16:30,SKU Amstetten,Rapid Wien II,3,2,1.533,4.333,5.000
-72440724,2026-10-23 16:30,First Vienna FC 1894,FAC Wien,2,0,1.727,3.500,4.333
-72440726,2026-10-23 16:30,Young Violets Wien,SK Sturm Graz II,1,0,2.450,3.900,2.350
-72440730,2026-10-23 16:30,FC Hertha Wels,ASK Voitsberg,2,6,2.350,3.500,2.600
-72440732,2026-10-23 16:30,Kapfenberger SV,SKN St Polten,1,1,4.500,4.200,1.550
-72440728,2026-10-23 18:30,Austria Salzburg,Blau-Weiss Linz,0,1,3.800,3.750,1.800
-72440718,2026-10-24 13:30,FC Admira Wacker Modling,Wacker Innsbruck,1,0,2.100,3.500,3.000
-72440720,2026-10-24 13:30,FC Liefering,Schwarz-Weiss Bregenz,2,2,2.375,3.750,2.450
-72440734,2026-10-30 17:30,SKN St Polten,FC Hertha Wels,2,1,1.727,3.800,4.100
-72440740,2026-10-30 17:30,Austria Salzburg,SKU Amstetten,3,0,2.750,3.600,2.250
-72440736,2026-10-31 14:30,FAC Wien,Kapfenberger SV,2,2,1.666,3.900,4.333
-72440742,2026-10-31 14:30,Rapid Wien II,FC Liefering,1,2,2.600,4.000,2.200
-72440744,2026-10-31 14:30,SK Sturm Graz II,ASK Voitsberg,2,0,2.450,3.750,2.350
-72440746,2026-10-31 14:30,Schwarz-Weiss Bregenz,FC Admira Wacker Modling,1,0,2.450,3.700,2.450
-72440748,2026-10-31 14:30,Wacker Innsbruck,Young Violets Wien,1,2,2.000,3.600,3.100
-72440738,2026-10-31 16:00,First Vienna FC 1894,Blau-Weiss Linz,0,6,2.400,3.400,2.625
-72440754,2026-11-06 17:30,FC Liefering,Austria Salzburg,4,1,2.500,3.900,2.300
-72440756,2026-11-06 17:30,SKU Amstetten,Wacker Innsbruck,2,3,1.833,3.700,3.600
-72440758,2026-11-06 17:30,Young Violets Wien,First Vienna FC 1894,1,1,4.333,3.600,1.700
-72440752,2026-11-06 19:30,FC Admira Wacker Modling,SKN St Polten,2,2,2.700,3.700,2.200
-72440760,2026-11-07 14:30,FC Hertha Wels,SK Sturm Graz II,1,3,2.750,3.500,2.250
-72440762,2026-11-07 14:30,Schwarz-Weiss Bregenz,Rapid Wien II,1,1,1.950,3.700,3.200
-72440750,2026-11-07 16:30,Blau-Weiss Linz,FAC Wien,3,0,1.450,4.333,6.000
-74827640,2026-11-08 09:30,ASK Voitsberg,Kapfenberger SV,4,0,1.615,4.100,4.200
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+51158013,2025-05-24 12:30,FAC Wien,SK Sturm Graz II,1,1,,,,,,
+51158017,2025-05-24 12:30,Kapfenberger SV,Schwarz-Weiss Bregenz,5,3,,,,,,
+51158007,2025-05-25 12:30,SKU Amstetten,FC Liefering,3,1,,,,,,
+51158009,2025-05-25 15:00,SV Lafnitz,SKN St Polten,2,2,,,,,,
+51158011,2025-05-25 15:00,Rapid Wien II,SV Stripfing,2,3,,,,,,
+51158015,2025-05-25 15:00,Austria Lustenau,ASK Voitsberg,3,0,,,,,,
+51158019,2025-05-25 15:00,SV Ried,First Vienna FC 1894,1,1,,,,,,
+51158021,2025-05-25 15:00,FC Admira Wacker Modling,SV Horn,1,3,,,,,,
+61590894,2025-08-01 16:00,FC Liefering,Austria Lustenau,0,4,,,,,,
+61590902,2025-08-01 16:00,Kapfenberger SV,FC Admira Wacker Modling,0,2,,,,,,
+61590906,2025-08-01 16:00,SKU Amstetten,SK Sturm Graz II,2,0,,,,,,
+61590908,2025-08-01 16:00,Austria Salzburg,SK Austria Klagenfurt,1,2,,,,,,
+61590900,2025-08-02 12:30,Schwarz-Weiss Bregenz,Rapid Wien II,1,1,,,,,,
+61590898,2025-08-02 18:00,Young Violets Wien,SKN St Polten,1,4,,,,,,
+61590896,2025-08-03 08:30,FC Hertha Wels,FAC Wien,0,3,,,,,,
+61590910,2025-08-08 16:00,Austria Lustenau,FC Hertha Wels,1,0,,,,,,
+61590912,2025-08-08 16:00,SK Austria Klagenfurt,Young Violets Wien,2,3,,,,,,
+61590916,2025-08-08 16:00,FAC Wien,Kapfenberger SV,2,0,,,,,,
+61590920,2025-08-08 16:00,SKN St Polten,Schwarz-Weiss Bregenz,4,2,,,,,,
+61590914,2025-08-08 18:30,First Vienna FC 1894,Austria Salzburg,3,0,,,,,,
+61590924,2025-08-09 12:30,Rapid Wien II,FC Liefering,1,1,,,,,,
+61590918,2025-08-10 08:30,FC Admira Wacker Modling,SKU Amstetten,2,2,,,,,,
+61590926,2025-08-15 16:00,FC Liefering,SK Sturm Graz II,2,2,,,,,,
+61590928,2025-08-15 16:00,FC Hertha Wels,SKU Amstetten,1,0,,,,,,
+61590930,2025-08-15 16:00,SKN St Polten,First Vienna FC 1894,2,1,,,,,,
+61590934,2025-08-15 16:00,Schwarz-Weiss Bregenz,FAC Wien,1,1,,,,,,
+61590936,2025-08-15 16:00,Kapfenberger SV,Austria Lustenau,3,1,,,,,,
+61590932,2025-08-16 18:00,Young Violets Wien,FC Admira Wacker Modling,1,1,,,,,,
+61590940,2025-08-17 08:30,Austria Salzburg,Rapid Wien II,4,2,,,,,,
+61590946,2025-08-22 16:00,First Vienna FC 1894,FC Liefering,0,0,,,,,,
+61590954,2025-08-22 16:00,SKU Amstetten,SKN St Polten,0,0,,,,,,
+61590950,2025-08-22 18:30,FC Admira Wacker Modling,FC Hertha Wels,1,0,,,,,,
+61590944,2025-08-23 12:30,SK Austria Klagenfurt,Schwarz-Weiss Bregenz,2,1,,,,,,
+61590948,2025-08-23 18:00,FAC Wien,Austria Salzburg,1,2,,,,,,
+61590952,2025-08-23 18:00,SK Sturm Graz II,Kapfenberger SV,1,2,,,,,,
+61590956,2025-08-24 08:30,Rapid Wien II,Young Violets Wien,0,2,,,,,,
+61590960,2025-08-29 16:00,First Vienna FC 1894,Austria Lustenau,1,1,,,,,,
+61590962,2025-08-29 16:00,FC Hertha Wels,Young Violets Wien,0,1,,,,,,
+61590958,2025-08-29 18:30,SK Austria Klagenfurt,FC Admira Wacker Modling,0,4,,,,,,
+61590970,2025-08-30 12:30,Rapid Wien II,SKN St Polten,0,2,,,,,,
+61590972,2025-08-30 12:30,Austria Salzburg,SKU Amstetten,2,2,,,,,,
+61590968,2025-08-30 18:00,SK Sturm Graz II,FAC Wien,0,2,,,,,,
+61590964,2025-08-31 08:30,Schwarz-Weiss Bregenz,FC Liefering,2,2,,,,,,
+61590974,2025-09-12 16:00,Austria Lustenau,SK Sturm Graz II,2,1,,,,,,
+61590986,2025-09-12 16:00,Kapfenberger SV,FC Hertha Wels,3,2,,,,,,
+61590988,2025-09-12 16:00,SKU Amstetten,Rapid Wien II,3,1,,,,,,
+61590976,2025-09-12 18:30,FAC Wien,SK Austria Klagenfurt,1,2,,,,,,
+61590980,2025-09-13 12:30,FC Admira Wacker Modling,Schwarz-Weiss Bregenz,2,2,,,,,,
+61590984,2025-09-13 18:00,Young Violets Wien,First Vienna FC 1894,1,1,,,,,,
+61590978,2025-09-14 08:30,FC Liefering,Austria Salzburg,3,2,,,,,,
+61590990,2025-09-19 16:00,Austria Lustenau,FAC Wien,0,0,,,,,,
+61590994,2025-09-19 16:00,FC Hertha Wels,FC Liefering,1,1,,,,,,
+61591002,2025-09-19 16:00,Rapid Wien II,FC Admira Wacker Modling,2,2,,,,,,
+61590992,2025-09-19 18:30,First Vienna FC 1894,SK Austria Klagenfurt,0,2,,,,,,
+61591004,2025-09-20 12:30,Austria Salzburg,SKN St Polten,1,2,,,,,,
+61590998,2025-09-20 18:00,SK Sturm Graz II,Young Violets Wien,1,2,,,,,,
+61591000,2025-09-21 08:30,SKU Amstetten,Kapfenberger SV,3,0,,,,,,
+61591006,2025-09-26 16:00,SK Austria Klagenfurt,FC Hertha Wels,2,0,,,,,,
+61591008,2025-09-26 16:00,FAC Wien,Rapid Wien II,0,1,,,,,,
+61591012,2025-09-26 16:00,FC Admira Wacker Modling,Austria Lustenau,1,1,,,,,,
+61591014,2025-09-26 16:00,SKN St Polten,SK Sturm Graz II,4,0,,,,,,
+61591018,2025-09-26 16:00,Schwarz-Weiss Bregenz,Austria Salzburg,0,0,,,,,,
+61591016,2025-09-27 18:00,Young Violets Wien,SKU Amstetten,0,0,,,,,,
+61591020,2025-09-28 08:30,Kapfenberger SV,First Vienna FC 1894,0,3,,,,,,
+61591032,2025-10-03 16:00,SKU Amstetten,FC Liefering,2,2,,,,,,
+61591026,2025-10-03 18:30,First Vienna FC 1894,FAC Wien,0,2,,,,,,
+61591022,2025-10-04 12:30,Austria Lustenau,Young Violets Wien,3,2,,,,,,
+61591036,2025-10-04 12:30,Austria Salzburg,FC Hertha Wels,4,2,,,,,,
+61591030,2025-10-04 18:00,SK Sturm Graz II,Schwarz-Weiss Bregenz,3,1,,,,,,
+61591034,2025-10-04 18:00,Rapid Wien II,Kapfenberger SV,1,0,,,,,,
+61591024,2025-10-05 08:30,SK Austria Klagenfurt,SKN St Polten,1,2,,,,,,
+61591050,2025-10-17 16:00,Kapfenberger SV,SK Austria Klagenfurt,1,1,,,,,,
+61591044,2025-10-17 18:30,SKN St Polten,Austria Lustenau,1,0,,,,,,
+61591038,2025-10-18 12:30,FAC Wien,FC Liefering,2,0,,,,,,
+61591048,2025-10-18 12:30,Schwarz-Weiss Bregenz,SKU Amstetten,0,2,,,,,,
+61591040,2025-10-18 18:00,FC Admira Wacker Modling,Austria Salzburg,4,0,,,,,,
+61591052,2025-10-18 18:00,SK Sturm Graz II,First Vienna FC 1894,0,2,,,,,,
+61591042,2025-10-19 08:30,FC Hertha Wels,Rapid Wien II,3,2,,,,,,
+61591054,2025-10-24 16:00,SK Austria Klagenfurt,SK Sturm Graz II,0,0,,,,,,
+61591056,2025-10-24 16:00,First Vienna FC 1894,FC Admira Wacker Modling,1,3,,,,,,
+61591058,2025-10-24 16:00,FC Liefering,SKN St Polten,3,1,,,,,,
+61591060,2025-10-24 16:00,Schwarz-Weiss Bregenz,Kapfenberger SV,1,1,,,,,,
+61591068,2025-10-25 12:30,Austria Salzburg,Young Violets Wien,2,0,,,,,,
+61591066,2025-10-25 18:00,Rapid Wien II,Austria Lustenau,1,2,,,,,,
+61591064,2025-10-26 09:30,SKU Amstetten,FAC Wien,1,1,,,,,,
+61591080,2025-10-31 19:30,Kapfenberger SV,Austria Salzburg,4,1,,,,,,
+61591072,2025-11-01 13:30,First Vienna FC 1894,SKU Amstetten,2,3,,,,,,
+61591074,2025-11-01 13:30,FC Hertha Wels,Schwarz-Weiss Bregenz,1,1,,,,,,
+61591076,2025-11-01 13:30,SKN St Polten,FAC Wien,0,2,,,,,,
+61591078,2025-11-01 19:00,Young Violets Wien,FC Liefering,0,2,,,,,,
+61591084,2025-11-01 19:00,SK Sturm Graz II,FC Admira Wacker Modling,1,1,,,,,,
+61591070,2025-11-02 09:30,Austria Lustenau,SK Austria Klagenfurt,2,0,,,,,,
+61591088,2025-11-07 17:00,FC Liefering,Kapfenberger SV,5,2,,,,,,
+61591092,2025-11-07 17:00,FC Hertha Wels,First Vienna FC 1894,0,0,,,,,,
+61591090,2025-11-07 19:30,FC Admira Wacker Modling,SKN St Polten,2,1,,,,,,
+61591094,2025-11-08 13:30,Schwarz-Weiss Bregenz,Austria Lustenau,1,2,,,,,,
+61591098,2025-11-08 13:30,Rapid Wien II,SK Austria Klagenfurt,2,1,,,,,,
+61591100,2025-11-08 13:30,Austria Salzburg,SK Sturm Graz II,1,2,,,,,,
+61591086,2025-11-09 09:30,FAC Wien,Young Violets Wien,2,1,,,,,,
+61591106,2025-11-21 19:30,First Vienna FC 1894,Rapid Wien II,2,0,,,,,,
+61591102,2025-11-22 13:30,Austria Lustenau,Austria Salzburg,0,0,,,,,,
+61591104,2025-11-22 13:30,SK Austria Klagenfurt,SKU Amstetten,0,2,,,,,,
+61591108,2025-11-22 13:30,FC Admira Wacker Modling,FC Liefering,4,0,,,,,,
+61591112,2025-11-22 19:00,Young Violets Wien,Schwarz-Weiss Bregenz,2,1,,,,,,
+61591116,2025-11-22 19:00,SK Sturm Graz II,FC Hertha Wels,0,3,,,,,,
+61591110,2025-11-23 09:30,SKN St Polten,Kapfenberger SV,2,1,,,,,,
+61591120,2025-11-28 17:00,FC Liefering,SK Austria Klagenfurt,2,2,,,,,,
+61591122,2025-11-28 17:00,FC Hertha Wels,SKN St Polten,1,1,,,,,,
+61591126,2025-11-28 17:00,Kapfenberger SV,Young Violets Wien,1,2,,,,,,
+61591128,2025-11-28 17:00,SKU Amstetten,Austria Lustenau,1,0,,,,,,
+61591118,2025-11-28 19:30,FAC Wien,FC Admira Wacker Modling,1,1,,,,,,
+61591130,2025-11-29 19:00,Rapid Wien II,SK Sturm Graz II,1,1,,,,,,
+61591124,2025-11-30 09:30,Schwarz-Weiss Bregenz,First Vienna FC 1894,3,0,,,,,,
+61591140,2025-12-05 17:00,FAC Wien,FC Hertha Wels,3,1,,,,,,
+61591142,2025-12-05 17:00,FC Admira Wacker Modling,Kapfenberger SV,6,1,,,,,,
+61591148,2025-12-05 17:00,Rapid Wien II,Schwarz-Weiss Bregenz,3,1,,,,,,
+61591144,2025-12-05 19:30,SKN St Polten,Young Violets Wien,2,0,,,,,,
+61591134,2025-12-06 13:30,Austria Lustenau,FC Liefering,1,0,,,,,,
+61591146,2025-12-06 19:00,SK Sturm Graz II,SKU Amstetten,3,3,,,,,,
+61591136,2025-12-07 09:30,SK Austria Klagenfurt,Austria Salzburg,0,1,,,,,,
+61591150,2025-12-12 17:00,FC Liefering,Rapid Wien II,1,0,1.500,4.500,5.250,3.25,1.975,1.825
+61591152,2025-12-12 17:00,FC Hertha Wels,Austria Lustenau,0,1,2.600,3.400,2.550,2.5,1.975,1.825
+61591154,2025-12-12 17:00,Young Violets Wien,SK Austria Klagenfurt,2,1,,,,,,
+61591156,2025-12-12 17:00,Schwarz-Weiss Bregenz,SKN St Polten,2,1,5.250,4.333,1.533,3,2.000,1.800
+61591158,2025-12-12 17:00,Kapfenberger SV,FAC Wien,0,0,,,,,,
+61591162,2025-12-12 19:30,SKU Amstetten,FC Admira Wacker Modling,2,1,3.400,3.600,2.000,2.75,1.900,1.900
+61591164,2025-12-13 13:30,Austria Salzburg,First Vienna FC 1894,0,0,2.150,3.400,3.100,2.5,1.825,1.975
+61591166,2026-02-20 17:00,Austria Lustenau,Kapfenberger SV,2,1,1.480,4.333,5.750,2.5,2.000,1.800
+61591170,2026-02-20 19:30,First Vienna FC 1894,SKN St Polten,2,1,4.000,3.400,1.900,2.5,1.950,1.850
+61591178,2026-02-22 09:30,SKU Amstetten,FC Hertha Wels,1,1,1.750,3.600,4.333,2.5,1.975,1.825
+69140782,2026-02-24 17:30,FC Admira Wacker Modling,Young Violets Wien,2,1,,,,,,
+61591182,2026-02-27 17:00,FC Liefering,First Vienna FC 1894,1,0,2.400,3.400,2.800,2.5,1.850,1.950
+61591184,2026-02-27 17:00,FC Hertha Wels,FC Admira Wacker Modling,1,0,4.750,3.500,1.727,2.25,1.750,2.050
+61591188,2026-02-27 17:00,Young Violets Wien,Rapid Wien II,1,0,,,,,,
+61591190,2026-02-27 17:00,Schwarz-Weiss Bregenz,SK Austria Klagenfurt,1,1,2.000,3.700,3.400,2.5,1.850,1.950
+61591186,2026-02-27 19:30,SKN St Polten,SKU Amstetten,1,3,2.300,3.500,2.875,2.75,1.975,1.825
+61591196,2026-02-28 13:30,Austria Salzburg,FAC Wien,0,1,,,,,,
+61591192,2026-03-01 09:30,Kapfenberger SV,SK Sturm Graz II,2,1,2.700,3.750,2.300,3,1.850,1.950
+69140784,2026-03-03 19:30,Rapid Wien II,Austria Salzburg,1,1,3.100,3.300,2.200,2.5,1.850,1.950
+61591198,2026-03-06 17:00,Austria Lustenau,First Vienna FC 1894,0,3,1.800,3.250,5.000,2.25,1.800,2.000
+61591200,2026-03-06 17:00,FAC Wien,SK Sturm Graz II,0,1,,,,,,
+61591202,2026-03-06 17:00,FC Liefering,Schwarz-Weiss Bregenz,4,3,1.800,4.000,3.750,3,1.975,1.825
+61591206,2026-03-06 17:00,SKN St Polten,Rapid Wien II,4,0,1.550,4.200,5.250,2.75,1.825,1.975
+61591212,2026-03-06 17:00,SKU Amstetten,Austria Salzburg,0,2,1.666,3.800,4.500,2.5,1.900,1.900
+61591208,2026-03-07 13:30,Young Violets Wien,FC Hertha Wels,1,0,,,,,,
+61591204,2026-03-08 09:30,FC Admira Wacker Modling,SK Austria Klagenfurt,3,3,1.363,4.750,7.500,2.5,1.900,1.900
+69140788,2026-03-10 17:30,SK Sturm Graz II,FC Liefering,0,1,3.000,3.700,2.100,2.75,1.950,1.850
+69231436,2026-03-10 17:30,FAC Wien,Schwarz-Weiss Bregenz,2,0,,,,,,
+61591214,2026-03-13 17:00,SK Austria Klagenfurt,FAC Wien,0,3,,,,,,
+61591218,2026-03-13 17:00,FC Hertha Wels,Kapfenberger SV,3,1,1.950,3.500,3.750,2.5,1.950,1.850
+61591220,2026-03-13 17:00,Schwarz-Weiss Bregenz,FC Admira Wacker Modling,1,4,6.500,4.500,1.450,2.5,1.950,1.850
+61591226,2026-03-13 17:00,Rapid Wien II,SKU Amstetten,4,1,4.200,3.800,1.750,2.5,1.875,1.925
+61591228,2026-03-13 19:30,Austria Salzburg,FC Liefering,2,0,3.400,3.250,2.150,2.25,2.025,1.775
+61591224,2026-03-14 13:30,SK Sturm Graz II,Austria Lustenau,0,1,3.000,3.400,2.250,2.5,1.975,1.825
+61591216,2026-03-15 09:30,First Vienna FC 1894,Young Violets Wien,0,2,,,,,,
+61591230,2026-03-20 17:00,SK Austria Klagenfurt,First Vienna FC 1894,0,2,3.700,3.400,1.950,2.25,1.800,2.000
+61591234,2026-03-20 17:00,FC Liefering,FC Hertha Wels,2,5,2.050,3.400,3.400,2.5,1.925,1.875
+61591236,2026-03-20 17:00,FC Admira Wacker Modling,Rapid Wien II,0,3,1.363,4.750,8.500,3,1.800,2.000
+61591238,2026-03-20 17:00,SKN St Polten,Austria Salzburg,2,1,1.444,4.000,5.750,2.5,1.875,1.925
+61591232,2026-03-20 19:30,FAC Wien,Austria Lustenau,0,2,,,,,,
+61591240,2026-03-21 13:30,Young Violets Wien,SK Sturm Graz II,0,1,,,,,,
+61591244,2026-03-22 09:30,Kapfenberger SV,SKU Amstetten,0,0,4.500,3.750,1.700,2.75,1.825,1.975
+61591248,2026-04-03 16:00,First Vienna FC 1894,Kapfenberger SV,1,2,1.833,3.500,4.200,2.5,1.900,1.900
+61591250,2026-04-03 16:00,FC Hertha Wels,SK Austria Klagenfurt,1,2,1.600,4.200,5.000,2.5,1.900,1.900
+61591254,2026-04-03 16:00,SK Sturm Graz II,SKN St Polten,0,1,3.900,3.800,1.800,2.75,1.950,1.850
+61591256,2026-04-03 16:00,SKU Amstetten,Young Violets Wien,1,1,,,,,,
+61591258,2026-04-03 16:00,Rapid Wien II,FAC Wien,0,2,,,,,,
+61591260,2026-04-03 16:00,Austria Salzburg,Schwarz-Weiss Bregenz,2,2,1.909,3.500,3.750,2.5,1.900,1.900
+61591246,2026-04-03 18:30,Austria Lustenau,FC Admira Wacker Modling,1,1,3.300,3.100,2.150,2.25,1.800,2.000
+61591264,2026-04-06 12:00,FC Liefering,SKU Amstetten,0,1,2.500,3.600,2.500,2.75,1.950,1.850
+61591268,2026-04-06 12:00,FC Hertha Wels,Austria Salzburg,1,1,2.200,3.300,3.100,2.25,2.025,1.775
+61591272,2026-04-06 12:00,Young Violets Wien,Austria Lustenau,3,1,,,,,,
+61591276,2026-04-06 12:00,Kapfenberger SV,Rapid Wien II,0,2,2.350,3.400,2.500,2.75,1.850,1.950
+61591262,2026-04-06 14:00,FAC Wien,First Vienna FC 1894,0,1,,,,,,
+61591270,2026-04-06 15:00,SKN St Polten,SK Austria Klagenfurt,2,0,1.270,5.250,7.500,2.75,1.900,1.900
+61591274,2026-04-06 15:00,Schwarz-Weiss Bregenz,SK Sturm Graz II,1,3,3.400,3.400,2.050,2.5,1.850,1.950
+61591280,2026-04-10 16:00,SK Austria Klagenfurt,Kapfenberger SV,0,0,2.750,3.500,2.350,2.5,1.900,1.900
+61591288,2026-04-10 16:00,SKU Amstetten,Schwarz-Weiss Bregenz,2,3,1.571,4.333,5.000,3,1.950,1.850
+61591290,2026-04-10 16:00,Rapid Wien II,FC Hertha Wels,1,4,2.600,3.400,2.550,2.5,1.825,1.975
+61591278,2026-04-10 18:30,Austria Lustenau,SKN St Polten,3,0,2.875,2.700,2.500,2.5,2.025,1.775
+61591284,2026-04-11 12:30,FC Liefering,FAC Wien,3,1,,,,,,
+61591292,2026-04-11 12:30,Austria Salzburg,FC Admira Wacker Modling,0,0,5.500,4.000,1.550,2.5,1.900,1.900
+61591282,2026-04-12 08:30,First Vienna FC 1894,SK Sturm Graz II,2,1,2.300,3.500,2.800,2.5,1.900,1.900
+61591294,2026-04-17 16:00,Austria Lustenau,Rapid Wien II,3,0,1.550,4.333,5.250,2.75,1.950,1.850
+61591296,2026-04-17 16:00,FAC Wien,SKU Amstetten,5,0,,,,,,
+61591306,2026-04-17 16:00,Kapfenberger SV,Schwarz-Weiss Bregenz,3,1,2.300,3.500,2.800,3,2.000,1.800
+61591298,2026-04-17 18:30,FC Admira Wacker Modling,First Vienna FC 1894,0,0,1.700,3.800,4.333,2.5,1.975,1.825
+61591304,2026-04-17 18:30,Young Violets Wien,Austria Salzburg,1,1,,,,,,
+61591308,2026-04-18 12:30,SK Sturm Graz II,SK Austria Klagenfurt,1,1,1.850,3.600,3.900,2.5,1.875,1.925
+61591302,2026-04-19 08:30,SKN St Polten,FC Liefering,0,0,1.750,3.800,4.100,2.75,1.825,1.975
+61591310,2026-04-24 16:00,SK Austria Klagenfurt,Austria Lustenau,3,0,4.333,3.800,1.727,2.5,2.000,1.800
+61591314,2026-04-24 16:00,FC Liefering,Young Violets Wien,2,0,,,,,,
+61591318,2026-04-24 16:00,Schwarz-Weiss Bregenz,FC Hertha Wels,2,3,3.000,3.600,2.150,2.75,1.925,1.875
+61591320,2026-04-24 16:00,SKU Amstetten,First Vienna FC 1894,0,0,2.150,3.750,2.900,2.5,1.925,1.875
+61591312,2026-04-24 18:30,FAC Wien,SKN St Polten,0,0,,,,,,
+61591324,2026-04-25 12:30,Austria Salzburg,Kapfenberger SV,1,0,1.750,3.900,4.100,2.75,2.025,1.775
+61591316,2026-04-26 08:30,FC Admira Wacker Modling,SK Sturm Graz II,2,1,1.420,4.750,6.250,2.75,2.025,1.775
+61591330,2026-05-02 12:30,First Vienna FC 1894,FC Hertha Wels,1,0,2.150,3.600,3.000,2.75,1.950,1.850
+61591334,2026-05-02 12:30,Young Violets Wien,FAC Wien,0,5,,,,,,
+61591336,2026-05-02 12:30,Kapfenberger SV,FC Liefering,1,4,3.000,3.900,1.900,3.25,1.925,1.875
+61591340,2026-05-02 12:30,SK Sturm Graz II,Austria Salzburg,0,2,2.200,3.500,3.000,2.75,2.000,1.800
+61591332,2026-05-02 18:00,SKN St Polten,FC Admira Wacker Modling,0,0,2.700,3.500,2.375,2.5,1.850,1.950
+61591326,2026-05-03 08:30,Austria Lustenau,Schwarz-Weiss Bregenz,2,0,1.450,4.500,6.250,3,1.950,1.850
+61591328,2026-05-03 08:30,SK Austria Klagenfurt,Rapid Wien II,2,1,2.500,3.700,2.500,2.75,1.800,2.000
+61591344,2026-05-08 16:00,FC Liefering,FC Admira Wacker Modling,3,0,3.400,4.000,1.900,3,2.000,1.800
+61591346,2026-05-08 16:00,FC Hertha Wels,SK Sturm Graz II,2,0,1.950,3.700,3.500,2.75,1.850,1.950
+61591348,2026-05-08 16:00,Schwarz-Weiss Bregenz,Young Violets Wien,2,2,,,,,,
+61591350,2026-05-08 16:00,Kapfenberger SV,SKN St Polten,0,3,6.500,5.500,1.333,3,1.800,2.000
+61591352,2026-05-08 16:00,SKU Amstetten,SK Austria Klagenfurt,3,0,1.650,4.000,4.750,2.75,1.975,1.825
+61591354,2026-05-08 16:00,Rapid Wien II,First Vienna FC 1894,1,0,3.100,3.750,2.050,2.75,1.825,1.975
+61591356,2026-05-08 16:00,Austria Salzburg,Austria Lustenau,2,2,3.900,3.500,1.850,2.5,1.900,1.900
+61591358,2026-05-14 15:00,Austria Lustenau,SKU Amstetten,2,1,1.600,4.000,5.000,2.75,1.850,1.950
+61591360,2026-05-14 15:00,SK Austria Klagenfurt,FC Liefering,2,3,3.750,3.750,1.850,3,1.850,1.950
+61591362,2026-05-14 15:00,First Vienna FC 1894,Schwarz-Weiss Bregenz,2,0,1.750,4.333,3.700,3.25,1.900,1.900
+61591364,2026-05-14 15:00,FC Admira Wacker Modling,FAC Wien,1,0,,,,,,
+61591366,2026-05-14 15:00,SKN St Polten,FC Hertha Wels,1,0,1.400,4.750,6.500,3.25,2.000,1.800
+61591368,2026-05-14 15:00,Young Violets Wien,Kapfenberger SV,1,2,,,,,,
+61591372,2026-05-14 15:00,SK Sturm Graz II,Rapid Wien II,1,2,2.600,3.900,2.350,3.5,1.975,1.825
+72440570,2026-07-31 16:30,FC Admira Wacker Modling,Rapid Wien II,0,1,2.000,3.750,3.300,3,1.900,1.900
+72440576,2026-07-31 16:30,Young Violets Wien,Blau-Weiss Linz,0,3,,,,,,
+72440580,2026-07-31 16:30,Kapfenberger SV,FC Liefering,0,4,3.600,4.000,1.833,3,1.850,1.950
+72440582,2026-07-31 16:30,ASK Voitsberg,SKU Amstetten,1,1,1.909,3.600,3.600,3,2.025,1.775
+72440584,2026-07-31 16:30,Wacker Innsbruck,Schwarz-Weiss Bregenz,5,0,1.909,3.500,3.700,2.75,1.950,1.850
+72440572,2026-07-31 18:30,FAC Wien,SKN St Polten,1,0,,,,,,
+72440574,2026-08-01 16:30,First Vienna FC 1894,SK Sturm Graz II,4,0,1.600,4.200,5.000,2.75,1.875,1.925
+72440578,2026-08-02 08:30,FC Hertha Wels,Austria Salzburg,0,2,2.250,3.400,2.900,2.75,2.000,1.800
+72440588,2026-08-07 16:30,SKN St Polten,Young Violets Wien,0,1,1.500,4.100,6.000,2.75,1.800,2.000
+72440590,2026-08-07 16:30,FC Liefering,FC Hertha Wels,2,3,2.000,3.700,3.300,3,1.850,1.950
+72440586,2026-08-07 18:30,Blau-Weiss Linz,Wacker Innsbruck,3,0,1.571,4.100,5.250,3,1.950,1.850
+72440596,2026-08-08 13:30,Rapid Wien II,ASK Voitsberg,1,3,3.000,3.800,2.100,3,1.850,1.950
+72440594,2026-08-08 15:30,Austria Salzburg,First Vienna FC 1894,4,1,2.875,3.400,2.300,2.5,1.975,1.825
+72440598,2026-08-08 15:30,SK Sturm Graz II,FAC Wien,4,2,3.750,3.600,1.900,2.5,1.950,1.850
+72440600,2026-08-08 15:30,Schwarz-Weiss Bregenz,Kapfenberger SV,3,2,1.900,3.700,3.600,3,1.900,1.900
+72440592,2026-08-09 08:30,SKU Amstetten,FC Admira Wacker Modling,2,1,2.200,3.500,2.900,2.75,1.950,1.850
+72440610,2026-08-14 16:30,FC Hertha Wels,Rapid Wien II,1,2,2.150,3.700,3.000,2.75,1.775,2.025
+72440602,2026-08-14 18:30,SKN St Polten,Blau-Weiss Linz,0,1,3.000,3.400,2.250,2.75,2.000,1.800
+72440604,2026-08-15 15:30,FAC Wien,SKU Amstetten,2,2,3.400,3.400,2.050,2.5,2.000,1.800
+72440614,2026-08-15 15:30,SK Sturm Graz II,FC Admira Wacker Modling,0,2,3.200,3.400,2.150,2.75,1.825,1.975
+72440608,2026-08-15 16:30,Young Violets Wien,Austria Salzburg,3,1,3.750,3.500,1.909,2.5,1.875,1.925
+72440612,2026-08-15 16:30,Kapfenberger SV,Wacker Innsbruck,0,1,3.300,3.400,2.050,2.75,1.950,1.850
+72440616,2026-08-15 16:30,ASK Voitsberg,Schwarz-Weiss Bregenz,0,0,1.750,3.900,4.200,3,1.875,1.925
+72440606,2026-08-16 08:30,First Vienna FC 1894,FC Liefering,2,2,2.200,3.500,3.000,3,1.850,1.950
+72440622,2026-08-21 16:30,FC Liefering,Young Violets Wien,2,1,2.000,3.900,3.200,3.25,1.925,1.875
+72440624,2026-08-21 16:30,SKU Amstetten,FC Hertha Wels,1,1,2.050,3.700,3.200,2.75,1.825,1.975
+72440626,2026-08-21 16:30,Austria Salzburg,Kapfenberger SV,3,2,1.900,3.700,3.700,2.75,1.775,2.025
+72440632,2026-08-21 16:30,Wacker Innsbruck,SKN St Polten,1,0,2.750,3.600,2.300,2.5,1.900,1.900
+72440620,2026-08-21 18:30,FC Admira Wacker Modling,First Vienna FC 1894,0,1,3.400,3.500,2.000,2.75,1.975,1.825
+72440628,2026-08-22 13:30,Rapid Wien II,FAC Wien,0,2,2.450,3.500,2.600,3,2.000,1.800
+72440630,2026-08-22 15:30,Schwarz-Weiss Bregenz,SK Sturm Graz II,3,1,1.800,3.750,3.800,3,1.825,1.975
+72440618,2026-08-23 08:30,Blau-Weiss Linz,ASK Voitsberg,5,1,1.600,4.333,4.500,2.75,1.800,2.000
+72440634,2026-08-28 16:30,SKN St Polten,Austria Salzburg,1,0,2.150,3.300,3.250,2.75,2.000,1.800
+72440638,2026-08-28 16:30,First Vienna FC 1894,SKU Amstetten,1,0,2.200,3.500,3.000,2.75,1.900,1.900
+72440644,2026-08-28 16:30,Kapfenberger SV,Blau-Weiss Linz,2,1,6.250,4.750,1.420,3,1.800,2.000
+72440648,2026-08-28 16:30,ASK Voitsberg,FC Liefering,2,3,2.000,4.000,3.200,3.25,1.925,1.875
+72440642,2026-08-28 18:30,FC Hertha Wels,FC Admira Wacker Modling,1,3,2.550,3.500,2.500,2.75,1.850,1.950
+72440636,2026-08-29 15:30,FAC Wien,Wacker Innsbruck,2,0,2.750,3.300,2.500,2.25,1.950,1.850
+72440640,2026-08-29 16:30,Young Violets Wien,Schwarz-Weiss Bregenz,2,0,2.550,3.600,2.500,2.75,1.850,1.950
+72440646,2026-08-30 08:30,SK Sturm Graz II,Rapid Wien II,5,2,2.450,3.750,2.500,3.5,2.000,1.800
+72440652,2026-09-11 16:30,FC Admira Wacker Modling,Kapfenberger SV,1,0,1.800,4.000,3.600,3,1.900,1.900
+72440656,2026-09-11 16:30,SKU Amstetten,Young Violets Wien,4,2,1.950,3.600,3.400,2.75,1.875,1.925
+72440660,2026-09-11 16:30,Rapid Wien II,First Vienna FC 1894,0,2,3.900,4.000,1.700,3,1.775,2.025
+72440664,2026-09-11 18:30,Wacker Innsbruck,ASK Voitsberg,1,1,2.050,3.500,3.100,2.75,1.825,1.975
+72440658,2026-09-12 13:30,Austria Salzburg,SK Sturm Graz II,3,3,2.050,3.600,3.000,3,1.950,1.850
+72440662,2026-09-12 13:30,Schwarz-Weiss Bregenz,FAC Wien,4,0,2.250,3.300,2.875,2.5,1.950,1.850
+72440650,2026-09-12 15:30,Blau-Weiss Linz,FC Hertha Wels,4,1,1.420,4.750,5.750,3,1.900,1.900
+72440654,2026-09-13 08:30,FC Liefering,SKN St Polten,1,3,2.600,3.900,2.200,3.5,1.975,1.825
+72440670,2026-09-18 16:30,FAC Wien,FC Liefering,4,0,2.050,3.700,3.000,3,2.000,1.800
+72440674,2026-09-18 16:30,FC Hertha Wels,First Vienna FC 1894,1,3,4.000,3.400,1.833,2.5,2.000,1.800
+72440676,2026-09-18 16:30,Kapfenberger SV,SKU Amstetten,3,4,4.200,4.000,1.650,3,1.925,1.875
+72440666,2026-09-18 18:30,Blau-Weiss Linz,FC Admira Wacker Modling,3,0,1.480,4.200,5.500,3,1.900,1.900
+72440678,2026-09-19 13:30,SK Sturm Graz II,Wacker Innsbruck,2,2,2.600,3.600,2.350,3,1.925,1.875
+72440680,2026-09-19 13:30,ASK Voitsberg,Austria Salzburg,2,1,1.850,3.750,3.500,3,1.975,1.825
+72440668,2026-09-19 15:30,SKN St Polten,Schwarz-Weiss Bregenz,2,1,2.050,3.600,3.100,2.75,1.850,1.950
+72440672,2026-09-20 08:30,Young Violets Wien,Rapid Wien II,4,1,2.250,3.700,2.625,3,1.825,1.975
+72440688,2026-10-09 16:30,SKU Amstetten,Blau-Weiss Linz,1,1,2.800,3.600,2.150,3,1.825,1.975
+72440700,2026-10-09 16:30,Kapfenberger SV,Young Violets Wien,0,1,2.800,3.600,2.150,3,2.000,1.800
+72440692,2026-10-09 18:30,First Vienna FC 1894,SKN St Polten,3,1,2.350,3.400,2.750,2.75,1.800,2.000
+72440684,2026-10-10 13:30,FC Liefering,SK Sturm Graz II,3,1,2.150,3.900,2.700,3.75,1.975,1.825
+72440694,2026-10-10 13:30,Austria Salzburg,FAC Wien,2,1,2.300,3.400,2.800,2.5,1.850,1.950
+72440696,2026-10-10 13:30,FC Hertha Wels,Schwarz-Weiss Bregenz,1,0,2.500,3.500,2.500,2.75,1.900,1.900
+72440698,2026-10-10 13:30,Rapid Wien II,Wacker Innsbruck,1,2,3.000,3.700,2.050,3,1.850,1.950
+72440682,2026-10-11 08:30,FC Admira Wacker Modling,ASK Voitsberg,3,2,2.450,3.700,2.450,3,1.900,1.900
+72440704,2026-10-16 16:30,SKN St Polten,Rapid Wien II,0,0,1.750,3.800,3.800,3.5,1.909,1.800
+72440708,2026-10-16 16:30,Young Violets Wien,FC Hertha Wels,2,2,2.450,3.400,2.500,2.75,1.950,1.850
+72440714,2026-10-16 16:30,ASK Voitsberg,First Vienna FC 1894,1,2,3.000,3.500,2.100,2.75,1.975,1.825
+72440716,2026-10-16 18:30,Wacker Innsbruck,Austria Salzburg,0,1,2.250,3.400,2.750,2.5,1.825,1.975
+72440706,2026-10-17 13:30,FAC Wien,FC Admira Wacker Modling,0,2,2.550,3.400,2.450,2.5,1.850,1.950
+72440712,2026-10-17 13:30,Schwarz-Weiss Bregenz,SKU Amstetten,0,0,3.100,3.600,2.050,3,1.900,1.900
+72440702,2026-10-17 15:30,Blau-Weiss Linz,FC Liefering,4,1,1.400,4.750,5.750,3.5,1.925,1.875
+72440710,2026-10-18 08:30,SK Sturm Graz II,Kapfenberger SV,0,2,1.833,3.750,3.400,3.25,1.950,1.850
+72440722,2026-10-23 16:30,SKU Amstetten,Rapid Wien II,3,2,1.533,4.333,5.000,3.5,1.950,1.850
+72440724,2026-10-23 16:30,First Vienna FC 1894,FAC Wien,2,0,1.727,3.500,4.333,2.25,1.800,2.000
+72440726,2026-10-23 16:30,Young Violets Wien,SK Sturm Graz II,1,0,2.450,3.900,2.350,3,1.800,2.000
+72440730,2026-10-23 16:30,FC Hertha Wels,ASK Voitsberg,2,6,2.350,3.500,2.600,3,2.025,1.775
+72440732,2026-10-23 16:30,Kapfenberger SV,SKN St Polten,1,1,4.500,4.200,1.550,3.25,1.900,1.900
+72440728,2026-10-23 18:30,Austria Salzburg,Blau-Weiss Linz,0,1,3.800,3.750,1.800,2.75,1.800,2.000
+72440718,2026-10-24 13:30,FC Admira Wacker Modling,Wacker Innsbruck,1,0,2.100,3.500,3.000,2.75,1.825,1.975
+72440720,2026-10-24 13:30,FC Liefering,Schwarz-Weiss Bregenz,2,2,2.375,3.750,2.450,3.25,2.000,1.800
+72440734,2026-10-30 17:30,SKN St Polten,FC Hertha Wels,2,1,1.727,3.800,4.100,2.75,1.825,1.975
+72440740,2026-10-30 17:30,Austria Salzburg,SKU Amstetten,3,0,2.750,3.600,2.250,2.75,1.800,2.000
+72440736,2026-10-31 14:30,FAC Wien,Kapfenberger SV,2,2,1.666,3.900,4.333,2.75,1.800,2.000
+72440742,2026-10-31 14:30,Rapid Wien II,FC Liefering,1,2,2.600,4.000,2.200,3.5,1.875,1.925
+72440744,2026-10-31 14:30,SK Sturm Graz II,ASK Voitsberg,2,0,2.450,3.750,2.350,3.5,2.000,1.800
+72440746,2026-10-31 14:30,Schwarz-Weiss Bregenz,FC Admira Wacker Modling,1,0,2.450,3.700,2.450,3,1.950,1.850
+72440748,2026-10-31 14:30,Wacker Innsbruck,Young Violets Wien,1,2,2.000,3.600,3.100,2.75,1.825,1.975
+72440738,2026-10-31 16:00,First Vienna FC 1894,Blau-Weiss Linz,0,6,2.400,3.400,2.625,2.5,1.900,1.900
+72440754,2026-11-06 17:30,FC Liefering,Austria Salzburg,4,1,2.500,3.900,2.300,3.25,1.800,2.000
+72440756,2026-11-06 17:30,SKU Amstetten,Wacker Innsbruck,2,3,1.833,3.700,3.600,2.75,1.900,1.900
+72440758,2026-11-06 17:30,Young Violets Wien,First Vienna FC 1894,1,1,4.333,3.600,1.700,2.5,1.950,1.850
+72440752,2026-11-06 19:30,FC Admira Wacker Modling,SKN St Polten,2,2,2.700,3.700,2.200,2.75,1.800,2.000
+72440760,2026-11-07 14:30,FC Hertha Wels,SK Sturm Graz II,1,3,2.750,3.500,2.250,2.75,1.825,1.975
+72440762,2026-11-07 14:30,Schwarz-Weiss Bregenz,Rapid Wien II,1,1,1.950,3.700,3.200,3,1.900,1.900
+72440750,2026-11-07 16:30,Blau-Weiss Linz,FAC Wien,3,0,1.450,4.333,6.000,2.75,1.850,1.950
+74827640,2026-11-08 09:30,ASK Voitsberg,Kapfenberger SV,4,0,1.615,4.100,4.200,3.25,1.975,1.825

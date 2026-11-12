@@ -1,92 +1,92 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-74100652,2026-08-28 16:00,Tritones Vallarta MFC,Reboceros de La Piedad,0,1,2.050,3.400,3.000
-74100998,2026-08-29 00:00,Chapulineros de Oaxaca,Jaguares FC,0,1,3.000,3.300,2.100
-74100654,2026-08-29 02:30,Tigres de Alica FC,Zacatepec FC,3,1,2.050,3.300,3.100
-74101000,2026-08-29 21:30,Pioneros de Cancun,Club Celaya FC,0,3,2.550,3.400,2.300
-74101002,2026-08-29 23:00,Tapachula Soconusco FC,Racing de Veracruz,0,4,3.900,3.500,1.727
-74100656,2026-08-30 01:00,Irapuato,Los Cabos United,2,1,1.333,4.500,6.500
-74100658,2026-08-30 17:00,H2O Purepechas FC,Cordobes FC,1,1,,,
-74101004,2026-08-30 18:00,Montaneses FC,Deportiva Venados,1,1,2.800,3.500,2.150
-74100660,2026-09-05 02:00,Reboceros de La Piedad,H2O Purepechas FC,3,0,1.727,3.700,3.600
-74100662,2026-09-05 21:30,Zacatepec FC,Lobos Ulmx,2,1,1.950,3.100,3.700
-74101006,2026-09-05 22:00,Racing de Veracruz,Chapulineros de Oaxaca,5,1,1.300,5.000,6.500
-74100664,2026-09-05 23:00,Cordobes FC,Irapuato,0,3,2.400,3.500,2.400
-74101008,2026-09-06 00:00,Jaguares FC,Montaneses FC,2,2,2.000,3.600,3.250
-74101010,2026-09-06 01:00,Club Celaya FC,Tapachula Soconusco FC,2,0,1.600,3.600,5.000
-74100666,2026-09-06 03:00,Los Cabos United,Tigres de Alica FC,1,2,,,
-74101012,2026-09-08 02:05,Inter Playa Del Carmen,Pioneros de Cancun,0,4,1.833,3.250,3.900
-74100668,2026-09-11 16:00,Tritones Vallarta MFC,Zacatepec FC,1,1,2.500,3.100,2.550
-74101014,2026-09-12 00:00,Chapulineros de Oaxaca,Club Celaya FC,1,1,3.750,3.500,1.750
-74100670,2026-09-12 21:30,Cordobes FC,Reboceros de La Piedad,1,2,2.500,3.700,2.300
-74101016,2026-09-12 23:00,Deportiva Venados,Jaguares FC,2,0,1.500,3.900,5.000
-74101018,2026-09-12 23:00,Tapachula Soconusco FC,Inter Playa Del Carmen,2,0,2.625,3.300,2.300
-74100672,2026-09-13 01:00,Irapuato,Tigres de Alica FC,2,1,1.850,3.700,3.300
-74100674,2026-09-13 01:00,Lobos Ulmx,Los Cabos United,1,2,2.100,3.300,3.000
-74101020,2026-09-13 18:00,Montaneses FC,Racing de Veracruz,1,3,4.000,3.750,1.666
-74100676,2026-09-19 01:30,Tigres de Alica FC,Lobos Ulmx,1,1,1.450,3.900,6.000
-74100678,2026-09-19 21:30,Zacatepec FC,H2O Purepechas FC,1,0,1.500,3.900,5.000
-74101024,2026-09-19 21:30,Pioneros de Cancun,Tapachula Soconusco FC,5,1,1.727,3.400,4.100
-74101022,2026-09-19 22:00,Racing de Veracruz,Deportiva Venados,3,3,,,
-74101026,2026-09-19 23:00,Inter Playa Del Carmen,Chapulineros de Oaxaca,1,1,,,
-74101028,2026-09-20 01:00,Club Celaya FC,Montaneses FC,2,1,2.050,3.400,3.000
-74100680,2026-09-20 03:00,Los Cabos United,Tritones Vallarta MFC,1,0,1.950,3.400,3.100
-74100682,2026-09-22 02:05,Reboceros de La Piedad,Irapuato,2,3,2.200,3.500,2.625
-74101030,2026-09-26 00:00,Chapulineros de Oaxaca,Pioneros de Cancun,1,3,2.700,3.200,2.350
-74100686,2026-09-26 21:30,Cordobes FC,Zacatepec FC,0,1,2.800,3.200,2.250
-74101032,2026-09-26 23:00,Deportiva Venados,Club Celaya FC,2,2,2.800,3.200,2.250
-74100852,2026-09-27 00:00,Tigres de Alica FC,Tritones Vallarta MFC,1,1,1.600,3.600,5.000
-74100688,2026-09-27 01:00,Irapuato,Lobos Ulmx,3,0,1.666,3.750,4.000
-74100690,2026-09-27 17:00,H2O Purepechas FC,Los Cabos United,0,1,3.200,3.250,2.000
-74101034,2026-09-27 18:00,Montaneses FC,Inter Playa Del Carmen,3,2,1.950,3.200,3.500
-74101036,2026-09-29 02:05,Jaguares FC,Racing de Veracruz,1,1,3.400,3.700,1.833
-74100694,2026-10-03 21:30,Zacatepec FC,Reboceros de La Piedad,2,2,2.625,3.250,2.375
-74101038,2026-10-03 21:30,Pioneros de Cancun,Montaneses FC,2,1,1.750,3.500,4.000
-74101040,2026-10-03 23:00,Tapachula Soconusco FC,Chapulineros de Oaxaca,2,3,2.150,3.400,2.800
-74101042,2026-10-03 23:00,Inter Playa Del Carmen,Deportiva Venados,3,1,3.250,3.500,1.900
-74100692,2026-10-04 00:00,Tigres de Alica FC,H2O Purepechas FC,1,0,1.380,4.500,6.000
-74100696,2026-10-04 01:00,Lobos Ulmx,Tritones Vallarta MFC,2,1,1.850,3.600,3.400
-74100698,2026-10-04 14:00,Los Cabos United,Cordobes FC,0,2,1.650,3.750,4.100
-74101044,2026-10-06 02:05,Club Celaya FC,Jaguares FC,0,1,1.833,3.500,3.400
-74100700,2026-10-10 02:00,Reboceros de La Piedad,Los Cabos United,2,1,1.727,3.300,4.500
-74100702,2026-10-10 21:30,Cordobes FC,Tigres de Alica FC,1,0,3.100,3.400,2.000
-74101046,2026-10-10 21:30,Racing de Veracruz,Club Celaya FC,2,1,1.600,3.800,5.000
-74101048,2026-10-10 23:00,Deportiva Venados,Pioneros de Cancun,1,4,2.200,3.300,2.875
-74101050,2026-10-11 00:00,Jaguares FC,Inter Playa Del Carmen,1,0,1.550,4.000,4.500
-74100704,2026-10-11 01:00,Irapuato,Tritones Vallarta MFC,1,0,1.222,5.500,9.000
-74100706,2026-10-11 17:00,H2O Purepechas FC,Lobos Ulmx,2,0,2.300,3.200,2.750
-74101052,2026-10-11 18:00,Montaneses FC,Tapachula Soconusco FC,2,1,1.800,3.400,3.700
-74101054,2026-10-17 00:00,Chapulineros de Oaxaca,Montaneses FC,2,1,2.900,3.250,2.150
-74100710,2026-10-17 02:30,Tigres de Alica FC,Reboceros de La Piedad,4,0,1.550,4.000,4.750
-74101056,2026-10-17 21:00,Pioneros de Cancun,Jaguares FC,0,0,2.000,3.500,3.200
-74101058,2026-10-17 23:00,Inter Playa Del Carmen,Racing de Veracruz,0,1,3.900,3.700,1.727
-74100712,2026-10-18 01:00,Irapuato,Zacatepec FC,2,0,1.480,4.200,5.250
-74100714,2026-10-18 01:00,Lobos Ulmx,Cordobes FC,2,0,2.900,3.400,2.050
-74101060,2026-10-20 02:05,Tapachula Soconusco FC,Deportiva Venados,1,4,4.333,4.100,1.571
-74100716,2026-10-24 00:00,Chapulineros de Oaxaca,Tritones Vallarta MFC,2,1,2.000,3.600,3.400
-74100720,2026-10-24 21:00,Pioneros de Cancun,Zacatepec FC,0,0,2.500,3.000,2.625
-74100718,2026-10-24 21:30,Racing de Veracruz,Los Cabos United,0,0,,,
-74100722,2026-10-24 23:00,Deportiva Venados,Tigres de Alica FC,3,1,2.600,3.200,2.400
-74100724,2026-10-24 23:00,Tapachula Soconusco FC,H2O Purepechas FC,1,0,2.400,3.300,2.550
-74100726,2026-10-24 23:00,Inter Playa Del Carmen,Irapuato,1,4,4.000,3.500,1.727
-74100728,2026-10-25 00:00,Jaguares FC,Reboceros de La Piedad,2,2,,,
-74100730,2026-10-25 01:00,Club Celaya FC,Cordobes FC,2,1,1.500,4.000,5.000
-74100732,2026-10-25 18:00,Montaneses FC,Lobos Ulmx,0,3,2.200,3.500,2.700
-74100738,2026-10-31 02:00,Reboceros de La Piedad,Inter Playa Del Carmen,1,2,1.700,3.700,4.000
-74100736,2026-10-31 02:30,Tigres de Alica FC,Tapachula Soconusco FC,4,1,1.285,5.500,7.000
-74100740,2026-10-31 21:30,Zacatepec FC,Racing de Veracruz,1,5,3.800,3.250,1.833
-74100742,2026-10-31 21:30,Cordobes FC,Jaguares FC,2,2,3.100,3.400,2.000
-74100734,2026-10-31 22:00,Tritones Vallarta MFC,Pioneros de Cancun,3,2,3.400,3.200,2.000
-74100746,2026-11-01 01:00,Lobos Ulmx,Chapulineros de Oaxaca,1,1,1.800,3.500,3.700
-74100744,2026-11-01 02:00,Irapuato,Deportiva Venados,2,1,1.450,4.333,5.250
-74100748,2026-11-01 03:00,Los Cabos United,Club Celaya FC,1,4,2.600,3.700,2.250
-74100750,2026-11-01 17:00,Purepechas FC,Montaneses FC,2,1,2.300,3.600,2.500
-74100756,2026-11-06 18:00,Tapachula Soconusco FC,Zacatepec FC,2,4,4.500,4.333,1.533
-74100754,2026-11-07 21:00,Pioneros de Cancun,Reboceros de La Piedad,1,0,1.700,3.750,4.100
-74100752,2026-11-07 21:30,Racing de Veracruz,Irapuato,0,1,1.950,3.500,3.300
-74100758,2026-11-07 23:00,Deportiva Venados,Tritones Vallarta MFC,1,1,1.533,4.200,5.000
-74100762,2026-11-07 23:00,Inter Playa Del Carmen,Lobos Ulmx,1,2,2.500,3.200,2.625
-74100760,2026-11-08 00:00,Jaguares FC,Purepechas FC,1,1,1.480,4.333,5.250
-74100764,2026-11-08 01:00,Club Celaya FC,Tigres de Alica FC,1,1,2.150,3.100,3.200
-74100766,2026-11-08 18:00,Montaneses FC,Los Cabos United,2,1,1.500,4.333,4.750
-74100768,2026-11-10 02:05,Chapulineros de Oaxaca,Cordobes FC,1,1,2.050,3.400,3.000
-76708846,2026-11-12 16:00,Tritones Vallarta MFC,Purepechas FC,0,0,1.950,3.400,3.300
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+74100652,2026-08-28 16:00,Tritones Vallarta MFC,Reboceros de La Piedad,0,1,2.050,3.400,3.000,2.75,1.900,1.900
+74100998,2026-08-29 00:00,Chapulineros de Oaxaca,Jaguares FC,0,1,3.000,3.300,2.100,2.75,1.950,1.850
+74100654,2026-08-29 02:30,Tigres de Alica FC,Zacatepec FC,3,1,2.050,3.300,3.100,2.25,1.975,1.825
+74101000,2026-08-29 21:30,Pioneros de Cancun,Club Celaya FC,0,3,2.550,3.400,2.300,2.5,1.950,1.850
+74101002,2026-08-29 23:00,Tapachula Soconusco FC,Racing de Veracruz,0,4,3.900,3.500,1.727,2.75,1.950,1.850
+74100656,2026-08-30 01:00,Irapuato,Los Cabos United,2,1,1.333,4.500,6.500,3,1.900,1.900
+74100658,2026-08-30 17:00,H2O Purepechas FC,Cordobes FC,1,1,,,,,,
+74101004,2026-08-30 18:00,Montaneses FC,Deportiva Venados,1,1,2.800,3.500,2.150,2.5,1.850,1.950
+74100660,2026-09-05 02:00,Reboceros de La Piedad,H2O Purepechas FC,3,0,1.727,3.700,3.600,2.75,1.900,1.900
+74100662,2026-09-05 21:30,Zacatepec FC,Lobos Ulmx,2,1,1.950,3.100,3.700,2.25,1.875,1.925
+74101006,2026-09-05 22:00,Racing de Veracruz,Chapulineros de Oaxaca,5,1,1.300,5.000,6.500,3,2.000,1.800
+74100664,2026-09-05 23:00,Cordobes FC,Irapuato,0,3,2.400,3.500,2.400,2.75,1.800,2.000
+74101008,2026-09-06 00:00,Jaguares FC,Montaneses FC,2,2,2.000,3.600,3.250,3,1.975,1.825
+74101010,2026-09-06 01:00,Club Celaya FC,Tapachula Soconusco FC,2,0,1.600,3.600,5.000,2.75,2.000,1.800
+74100666,2026-09-06 03:00,Los Cabos United,Tigres de Alica FC,1,2,,,,,,
+74101012,2026-09-08 02:05,Inter Playa Del Carmen,Pioneros de Cancun,0,4,1.833,3.250,3.900,2.5,1.850,1.950
+74100668,2026-09-11 16:00,Tritones Vallarta MFC,Zacatepec FC,1,1,2.500,3.100,2.550,2.5,2.025,1.775
+74101014,2026-09-12 00:00,Chapulineros de Oaxaca,Club Celaya FC,1,1,3.750,3.500,1.750,2.75,2.000,1.800
+74100670,2026-09-12 21:30,Cordobes FC,Reboceros de La Piedad,1,2,2.500,3.700,2.300,3,1.875,1.925
+74101016,2026-09-12 23:00,Deportiva Venados,Jaguares FC,2,0,1.500,3.900,5.000,3,1.875,1.925
+74101018,2026-09-12 23:00,Tapachula Soconusco FC,Inter Playa Del Carmen,2,0,2.625,3.300,2.300,2.5,1.975,1.825
+74100672,2026-09-13 01:00,Irapuato,Tigres de Alica FC,2,1,1.850,3.700,3.300,2.75,1.825,1.975
+74100674,2026-09-13 01:00,Lobos Ulmx,Los Cabos United,1,2,2.100,3.300,3.000,2.5,1.950,1.850
+74101020,2026-09-13 18:00,Montaneses FC,Racing de Veracruz,1,3,4.000,3.750,1.666,2.75,2.000,1.800
+74100676,2026-09-19 01:30,Tigres de Alica FC,Lobos Ulmx,1,1,1.450,3.900,6.000,2.5,1.950,1.850
+74100678,2026-09-19 21:30,Zacatepec FC,H2O Purepechas FC,1,0,1.500,3.900,5.000,2.75,2.000,1.800
+74101024,2026-09-19 21:30,Pioneros de Cancun,Tapachula Soconusco FC,5,1,1.727,3.400,4.100,2.75,2.000,1.800
+74101022,2026-09-19 22:00,Racing de Veracruz,Deportiva Venados,3,3,,,,,,
+74101026,2026-09-19 23:00,Inter Playa Del Carmen,Chapulineros de Oaxaca,1,1,,,,,,
+74101028,2026-09-20 01:00,Club Celaya FC,Montaneses FC,2,1,2.050,3.400,3.000,2.75,1.875,1.925
+74100680,2026-09-20 03:00,Los Cabos United,Tritones Vallarta MFC,1,0,1.950,3.400,3.100,2.5,1.800,2.000
+74100682,2026-09-22 02:05,Reboceros de La Piedad,Irapuato,2,3,2.200,3.500,2.625,3,1.975,1.825
+74101030,2026-09-26 00:00,Chapulineros de Oaxaca,Pioneros de Cancun,1,3,2.700,3.200,2.350,2.75,1.975,1.825
+74100686,2026-09-26 21:30,Cordobes FC,Zacatepec FC,0,1,2.800,3.200,2.250,2.25,1.825,1.975
+74101032,2026-09-26 23:00,Deportiva Venados,Club Celaya FC,2,2,2.800,3.200,2.250,2.5,1.950,1.850
+74100852,2026-09-27 00:00,Tigres de Alica FC,Tritones Vallarta MFC,1,1,1.600,3.600,5.000,2.25,1.800,2.000
+74100688,2026-09-27 01:00,Irapuato,Lobos Ulmx,3,0,1.666,3.750,4.000,2.75,1.850,1.950
+74100690,2026-09-27 17:00,H2O Purepechas FC,Los Cabos United,0,1,3.200,3.250,2.000,2.25,1.850,1.950
+74101034,2026-09-27 18:00,Montaneses FC,Inter Playa Del Carmen,3,2,1.950,3.200,3.500,2.5,1.850,1.950
+74101036,2026-09-29 02:05,Jaguares FC,Racing de Veracruz,1,1,3.400,3.700,1.833,2.75,1.975,1.825
+74100694,2026-10-03 21:30,Zacatepec FC,Reboceros de La Piedad,2,2,2.625,3.250,2.375,2.5,1.925,1.875
+74101038,2026-10-03 21:30,Pioneros de Cancun,Montaneses FC,2,1,1.750,3.500,4.000,3,1.875,1.925
+74101040,2026-10-03 23:00,Tapachula Soconusco FC,Chapulineros de Oaxaca,2,3,2.150,3.400,2.800,2.75,1.850,1.950
+74101042,2026-10-03 23:00,Inter Playa Del Carmen,Deportiva Venados,3,1,3.250,3.500,1.900,2.75,1.875,1.925
+74100692,2026-10-04 00:00,Tigres de Alica FC,H2O Purepechas FC,1,0,1.380,4.500,6.000,3,1.975,1.825
+74100696,2026-10-04 01:00,Lobos Ulmx,Tritones Vallarta MFC,2,1,1.850,3.600,3.400,2.5,1.900,1.900
+74100698,2026-10-04 14:00,Los Cabos United,Cordobes FC,0,2,1.650,3.750,4.100,2.5,1.800,2.000
+74101044,2026-10-06 02:05,Club Celaya FC,Jaguares FC,0,1,1.833,3.500,3.400,2.75,1.950,1.850
+74100700,2026-10-10 02:00,Reboceros de La Piedad,Los Cabos United,2,1,1.727,3.300,4.500,2.25,1.825,1.975
+74100702,2026-10-10 21:30,Cordobes FC,Tigres de Alica FC,1,0,3.100,3.400,2.000,2.5,1.975,1.825
+74101046,2026-10-10 21:30,Racing de Veracruz,Club Celaya FC,2,1,1.600,3.800,5.000,2.5,1.800,2.000
+74101048,2026-10-10 23:00,Deportiva Venados,Pioneros de Cancun,1,4,2.200,3.300,2.875,2.75,1.825,1.975
+74101050,2026-10-11 00:00,Jaguares FC,Inter Playa Del Carmen,1,0,1.550,4.000,4.500,2.75,1.975,1.825
+74100704,2026-10-11 01:00,Irapuato,Tritones Vallarta MFC,1,0,1.222,5.500,9.000,3,1.825,1.975
+74100706,2026-10-11 17:00,H2O Purepechas FC,Lobos Ulmx,2,0,2.300,3.200,2.750,2.5,2.000,1.800
+74101052,2026-10-11 18:00,Montaneses FC,Tapachula Soconusco FC,2,1,1.800,3.400,3.700,2.5,1.825,1.975
+74101054,2026-10-17 00:00,Chapulineros de Oaxaca,Montaneses FC,2,1,2.900,3.250,2.150,2.25,1.775,2.025
+74100710,2026-10-17 02:30,Tigres de Alica FC,Reboceros de La Piedad,4,0,1.550,4.000,4.750,3,1.875,1.925
+74101056,2026-10-17 21:00,Pioneros de Cancun,Jaguares FC,0,0,2.000,3.500,3.200,2.75,1.950,1.850
+74101058,2026-10-17 23:00,Inter Playa Del Carmen,Racing de Veracruz,0,1,3.900,3.700,1.727,2.5,1.900,1.900
+74100712,2026-10-18 01:00,Irapuato,Zacatepec FC,2,0,1.480,4.200,5.250,2.5,1.975,1.825
+74100714,2026-10-18 01:00,Lobos Ulmx,Cordobes FC,2,0,2.900,3.400,2.050,2.5,1.800,2.000
+74101060,2026-10-20 02:05,Tapachula Soconusco FC,Deportiva Venados,1,4,4.333,4.100,1.571,2.75,1.850,1.950
+74100716,2026-10-24 00:00,Chapulineros de Oaxaca,Tritones Vallarta MFC,2,1,2.000,3.600,3.400,2.5,1.825,1.975
+74100720,2026-10-24 21:00,Pioneros de Cancun,Zacatepec FC,0,0,2.500,3.000,2.625,2.5,1.975,1.825
+74100718,2026-10-24 21:30,Racing de Veracruz,Los Cabos United,0,0,,,,,,
+74100722,2026-10-24 23:00,Deportiva Venados,Tigres de Alica FC,3,1,2.600,3.200,2.400,2.75,1.850,1.950
+74100724,2026-10-24 23:00,Tapachula Soconusco FC,H2O Purepechas FC,1,0,2.400,3.300,2.550,2.25,1.950,1.850
+74100726,2026-10-24 23:00,Inter Playa Del Carmen,Irapuato,1,4,4.000,3.500,1.727,2.75,1.950,1.850
+74100728,2026-10-25 00:00,Jaguares FC,Reboceros de La Piedad,2,2,,,,,,
+74100730,2026-10-25 01:00,Club Celaya FC,Cordobes FC,2,1,1.500,4.000,5.000,2.5,2.000,1.800
+74100732,2026-10-25 18:00,Montaneses FC,Lobos Ulmx,0,3,2.200,3.500,2.700,2.5,1.800,2.000
+74100738,2026-10-31 02:00,Reboceros de La Piedad,Inter Playa Del Carmen,1,2,1.700,3.700,4.000,2.5,1.825,1.975
+74100736,2026-10-31 02:30,Tigres de Alica FC,Tapachula Soconusco FC,4,1,1.285,5.500,7.000,3.25,1.900,1.900
+74100740,2026-10-31 21:30,Zacatepec FC,Racing de Veracruz,1,5,3.800,3.250,1.833,2.25,2.000,1.800
+74100742,2026-10-31 21:30,Cordobes FC,Jaguares FC,2,2,3.100,3.400,2.000,2.25,1.850,1.950
+74100734,2026-10-31 22:00,Tritones Vallarta MFC,Pioneros de Cancun,3,2,3.400,3.200,2.000,2.5,2.025,1.775
+74100746,2026-11-01 01:00,Lobos Ulmx,Chapulineros de Oaxaca,1,1,1.800,3.500,3.700,2.25,1.800,2.000
+74100744,2026-11-01 02:00,Irapuato,Deportiva Venados,2,1,1.450,4.333,5.250,2.5,1.925,1.875
+74100748,2026-11-01 03:00,Los Cabos United,Club Celaya FC,1,4,2.600,3.700,2.250,2.75,1.850,1.950
+74100750,2026-11-01 17:00,Purepechas FC,Montaneses FC,2,1,2.300,3.600,2.500,2.5,1.900,1.900
+74100756,2026-11-06 18:00,Tapachula Soconusco FC,Zacatepec FC,2,4,4.500,4.333,1.533,3,1.875,1.925
+74100754,2026-11-07 21:00,Pioneros de Cancun,Reboceros de La Piedad,1,0,1.700,3.750,4.100,3,1.825,1.975
+74100752,2026-11-07 21:30,Racing de Veracruz,Irapuato,0,1,1.950,3.500,3.300,3,2.000,1.800
+74100758,2026-11-07 23:00,Deportiva Venados,Tritones Vallarta MFC,1,1,1.533,4.200,5.000,2.75,1.925,1.875
+74100762,2026-11-07 23:00,Inter Playa Del Carmen,Lobos Ulmx,1,2,2.500,3.200,2.625,2.5,1.975,1.825
+74100760,2026-11-08 00:00,Jaguares FC,Purepechas FC,1,1,1.480,4.333,5.250,2.5,1.975,1.825
+74100764,2026-11-08 01:00,Club Celaya FC,Tigres de Alica FC,1,1,2.150,3.100,3.200,2.5,1.925,1.875
+74100766,2026-11-08 18:00,Montaneses FC,Los Cabos United,2,1,1.500,4.333,4.750,3.5,2.000,1.800
+74100768,2026-11-10 02:05,Chapulineros de Oaxaca,Cordobes FC,1,1,2.050,3.400,3.000,2.5,1.850,1.950
+76708846,2026-11-12 16:00,Tritones Vallarta MFC,Purepechas FC,0,0,1.950,3.400,3.300,2.25,1.850,1.950

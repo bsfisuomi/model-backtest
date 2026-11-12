@@ -1,174 +1,174 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-57436081,2025-05-24 11:00,Czarni Sosnowiec,Gornik Leczna,1,2,,,
-57436077,2025-05-25 09:00,UKS SMS Lodz,WKS Slask Wroclaw,1,1,,,
-57436087,2025-05-25 09:00,GKS Katowice,KKP Stomilanki Olsztyn,5,0,,,
-57436079,2025-05-25 10:00,Pogon Szczecin,AP ORLEN Gdansk,1,0,,,
-61672912,2025-08-09 10:00,Kks Lech Poznan,KKP Stomilanki Olsztyn,1,0,,,
-61672920,2025-08-09 13:00,GKS Katowice,Rekord Bielsko-Biala,2,3,,,
-61672922,2025-08-09 13:00,Czarni Sosnowiec,AP ORLEN Gdansk,4,0,,,
-61672916,2025-08-10 09:00,Gornik Leczna,WKS Slask Wroclaw,2,1,,,
-61672914,2025-08-10 15:00,AZS UJ Krakow,Pogon Tczew,1,0,,,
-61672926,2025-08-16 10:00,UKS SMS Lodz,Gornik Leczna,1,1,,,
-61672932,2025-08-16 10:00,KKP Stomilanki Olsztyn,GKS Katowice,1,4,,,
-61672934,2025-08-17 10:00,AZS UJ Krakow,Kks Lech Poznan,1,1,,,
-61672946,2025-08-22 16:00,GKS Katowice,AZS UJ Krakow,2,0,,,
-61672938,2025-08-23 09:30,WKS Slask Wroclaw,UKS SMS Lodz,2,1,,,
-61672936,2025-08-23 10:00,Kks Lech Poznan,Pogon Tczew,3,1,,,
-61672944,2025-08-23 13:00,Czarni Sosnowiec,KKP Stomilanki Olsztyn,5,3,,,
-61672954,2025-08-31 09:45,KKP Stomilanki Olsztyn,Pogon Szczecin,1,3,,,
-61672968,2025-09-13 10:00,WKS Slask Wroclaw,Rekord Bielsko-Biala,0,1,,,
-61672978,2025-09-20 10:00,Rekord Bielsko-Biala,UKS SMS Lodz,1,4,,,
-61672976,2025-09-20 12:00,AZS UJ Krakow,Gornik Leczna,0,1,,,
-61672982,2025-09-21 10:00,KKP Stomilanki Olsztyn,WKS Slask Wroclaw,0,5,,,
-61672972,2025-09-22 15:00,GKS Katowice,Czarni Sosnowiec,1,2,,,
-61672986,2025-09-27 10:00,Pogon Szczecin,GKS Katowice,0,2,,,
-61672992,2025-09-27 10:00,UKS SMS Lodz,KKP Stomilanki Olsztyn,0,1,,,
-61672994,2025-09-27 10:00,AP ORLEN Gdansk,Rekord Bielsko-Biala,0,1,,,
-61672984,2025-09-27 13:00,Czarni Sosnowiec,Pogon Tczew,7,0,,,
-61673000,2025-10-03 15:00,GKS Katowice,Gornik Leczna,0,4,,,
-61672998,2025-10-04 09:45,Czarni Sosnowiec,Pogon Szczecin,2,1,,,
-61673002,2025-10-04 10:00,Kks Lech Poznan,WKS Slask Wroclaw,0,3,,,
-61672996,2025-10-04 11:00,Pogon Tczew,Rekord Bielsko-Biala,0,0,,,
-61673006,2025-10-05 11:00,KKP Stomilanki Olsztyn,AP ORLEN Gdansk,2,3,,,
-61673004,2025-10-05 13:00,AZS UJ Krakow,UKS SMS Lodz,1,1,,,
-61673010,2025-10-11 09:00,Gornik Leczna,Czarni Sosnowiec,0,0,,,
-61673012,2025-10-11 10:00,AP ORLEN Gdansk,AZS UJ Krakow,3,0,,,
-61673014,2025-10-11 10:00,UKS SMS Lodz,Kks Lech Poznan,3,1,,,
-61673016,2025-10-12 10:00,WKS Slask Wroclaw,GKS Katowice,0,1,,,
-61673024,2025-10-31 11:00,Kks Lech Poznan,AP ORLEN Gdansk,2,1,,,
-61673022,2025-10-31 18:30,AZS UJ Krakow,Rekord Bielsko-Biala,4,4,,,
-61673030,2025-11-02 10:45,Pogon Szczecin,Gornik Leczna,3,2,,,
-61673026,2025-11-02 11:00,GKS Katowice,UKS SMS Lodz,2,1,,,
-61673028,2025-11-02 14:00,Czarni Sosnowiec,WKS Slask Wroclaw,2,0,,,
-61673036,2025-11-08 11:00,UKS SMS Lodz,Czarni Sosnowiec,2,3,,,
-61673038,2025-11-08 11:00,AP ORLEN Gdansk,GKS Katowice,2,5,,,
-61673034,2025-11-08 11:15,WKS Slask Wroclaw,Pogon Szczecin,0,5,,,
-61673040,2025-11-08 12:00,Rekord Bielsko-Biala,Kks Lech Poznan,0,0,,,
-61673032,2025-11-08 13:00,Gornik Leczna,Pogon Tczew,3,1,,,
-63935149,2025-11-11 11:00,Czarni Sosnowiec,Kks Lech Poznan,7,1,,,
-65382062,2025-11-19 15:00,GKS Katowice,Pogon Tczew,3,1,,,
-67790336,2026-02-21 11:00,WKS Slask Wroclaw,Gornik Leczna,0,1,5.250,4.100,1.450
-67790342,2026-02-21 11:00,AP ORLEN Gdansk,Czarni Sosnowiec,1,0,,,
-67790334,2026-02-21 11:30,Pogon Tczew,AZS UJ Krakow,0,5,1.533,4.200,4.750
-67790338,2026-02-22 11:00,UKS SMS Lodz,Pogon Szczecin,0,3,3.700,3.700,1.750
-67790354,2026-02-28 13:00,Kks Lech Poznan,AZS UJ Krakow,4,1,,,
-67790350,2026-02-28 15:00,Czarni Sosnowiec,Rekord Bielsko-Biala,1,0,,,
-67790356,2026-03-14 10:00,Pogon Tczew,Kks Lech Poznan,0,1,7.500,5.000,1.270
-67790364,2026-03-14 16:00,KKP Stomilanki Olsztyn,Czarni Sosnowiec,1,5,21.000,9.500,1.083
-67790366,2026-03-14 16:30,AZS UJ Krakow,GKS Katowice,2,3,6.000,4.200,1.420
-67790358,2026-03-15 09:30,UKS SMS Lodz,WKS Slask Wroclaw,1,0,1.833,3.300,3.600
-67790362,2026-03-15 11:00,Rekord Bielsko-Biala,Pogon Szczecin,0,1,6.500,3.900,1.420
-67790360,2026-03-15 11:30,AP ORLEN Gdansk,Gornik Leczna,1,4,,,
-67790368,2026-03-21 11:00,UKS SMS Lodz,Pogon Tczew,3,3,1.125,7.000,17.000
-67790374,2026-03-21 11:00,Pogon Szczecin,KKP Stomilanki Olsztyn,7,2,,,
-67790370,2026-03-21 12:00,GKS Katowice,Kks Lech Poznan,1,1,1.333,4.750,7.000
-67790372,2026-03-21 12:00,Czarni Sosnowiec,AZS UJ Krakow,1,0,1.083,9.000,23.000
-67790376,2026-03-21 13:00,Gornik Leczna,Rekord Bielsko-Biala,0,2,1.125,7.000,17.000
-67790378,2026-03-22 11:00,WKS Slask Wroclaw,AP ORLEN Gdansk,3,2,,,
-69572182,2026-03-25 11:00,KKP Stomilanki Olsztyn,Kks Lech Poznan,0,4,4.750,4.200,1.500
-69100500,2026-03-25 14:00,Rekord Bielsko-Biala,GKS Katowice,1,1,6.000,4.200,1.400
-67790346,2026-03-25 15:00,Gornik Leczna,UKS SMS Lodz,3,0,1.650,3.500,4.333
-69310292,2026-03-25 16:00,Pogon Szczecin,AP ORLEN Gdansk,3,0,,,
-67790382,2026-03-28 11:00,Kks Lech Poznan,Czarni Sosnowiec,0,4,11.000,6.000,1.200
-67790384,2026-03-28 11:30,AZS UJ Krakow,Pogon Szczecin,0,6,11.000,6.250,1.166
-67790386,2026-03-28 16:00,KKP Stomilanki Olsztyn,Gornik Leczna,0,2,23.000,12.000,1.062
-67790380,2026-03-29 10:00,Pogon Tczew,GKS Katowice,1,1,11.000,6.000,1.222
-67790388,2026-03-29 13:00,Rekord Bielsko-Biala,WKS Slask Wroclaw,1,3,2.750,3.250,2.250
-67790390,2026-03-29 13:00,AP ORLEN Gdansk,UKS SMS Lodz,0,6,,,
-67790398,2026-04-03 10:00,UKS SMS Lodz,Rekord Bielsko-Biala,2,0,1.500,3.700,5.500
-67790392,2026-04-04 08:45,Czarni Sosnowiec,GKS Katowice,0,2,1.550,3.800,4.750
-67790394,2026-04-04 10:00,Pogon Szczecin,Kks Lech Poznan,3,0,1.125,8.000,13.000
-67790400,2026-04-04 10:00,AP ORLEN Gdansk,Pogon Tczew,2,0,,,
-67790402,2026-04-04 10:00,WKS Slask Wroclaw,KKP Stomilanki Olsztyn,6,1,1.380,5.250,5.000
-67790396,2026-04-04 11:00,Gornik Leczna,AZS UJ Krakow,0,0,1.181,6.000,13.000
-67790406,2026-04-25 09:00,GKS Katowice,Pogon Szczecin,4,2,2.625,3.500,2.250
-67790414,2026-04-25 09:30,Rekord Bielsko-Biala,AP ORLEN Gdansk,1,0,,,
-67790404,2026-04-25 10:00,Pogon Tczew,Czarni Sosnowiec,0,8,41.000,10.000,1.062
-67790408,2026-04-25 10:00,Kks Lech Poznan,Gornik Leczna,1,3,6.000,4.750,1.380
-67790412,2026-04-25 15:00,KKP Stomilanki Olsztyn,UKS SMS Lodz,1,2,15.000,6.500,1.142
-67790410,2026-04-25 15:30,AZS UJ Krakow,WKS Slask Wroclaw,2,3,3.300,3.700,1.833
-67790422,2026-05-01 10:00,WKS Slask Wroclaw,Kks Lech Poznan,3,3,1.500,4.100,5.000
-67790418,2026-05-02 10:00,Pogon Szczecin,Czarni Sosnowiec,2,2,2.500,3.500,2.300
-67790426,2026-05-02 11:00,AP ORLEN Gdansk,KKP Stomilanki Olsztyn,1,3,,,
-67790420,2026-05-02 12:00,Gornik Leczna,GKS Katowice,2,1,2.050,3.600,2.900
-67790424,2026-05-02 13:00,UKS SMS Lodz,AZS UJ Krakow,1,0,1.500,3.800,5.250
-67790416,2026-05-03 09:00,Rekord Bielsko-Biala,Pogon Tczew,5,1,1.420,4.500,5.500
-71183308,2026-05-06 13:00,GKS Katowice,KKP Stomilanki Olsztyn,5,0,,,
-67790434,2026-05-09 10:00,Kks Lech Poznan,UKS SMS Lodz,1,1,4.100,4.000,1.615
-67790432,2026-05-09 10:30,AZS UJ Krakow,AP ORLEN Gdansk,2,0,,,
-67790436,2026-05-09 11:00,GKS Katowice,WKS Slask Wroclaw,2,1,1.571,4.333,4.000
-67790438,2026-05-09 15:00,Pogon Tczew,Pogon Szczecin,0,3,23.000,17.000,1.045
-67790430,2026-05-10 08:00,Czarni Sosnowiec,Gornik Leczna,4,1,1.850,3.400,3.600
-67790428,2026-05-10 12:45,KKP Stomilanki Olsztyn,Rekord Bielsko-Biala,1,3,4.100,4.100,1.571
-69401910,2026-05-16 10:00,WKS Slask Wroclaw,Pogon Tczew,0,2,1.166,7.000,15.000
-65867826,2026-05-20 13:00,Kks Lech Poznan,GKS Katowice,1,4,4.500,4.500,1.480
-67790442,2026-05-22 15:00,Rekord Bielsko-Biala,AZS UJ Krakow,0,1,1.800,3.600,3.400
-67790448,2026-05-23 08:30,WKS Slask Wroclaw,Czarni Sosnowiec,1,2,8.000,5.250,1.270
-67790446,2026-05-23 10:00,UKS SMS Lodz,GKS Katowice,1,2,2.800,3.600,2.100
-67790450,2026-05-23 14:00,Gornik Leczna,Pogon Szczecin,0,3,2.875,3.750,2.000
-67790440,2026-05-24 10:00,Pogon Tczew,KKP Stomilanki Olsztyn,2,2,2.400,3.700,2.350
-67790444,2026-05-24 10:00,AP ORLEN Gdansk,Kks Lech Poznan,2,1,,,
-67790452,2026-05-30 09:30,Pogon Tczew,Gornik Leczna,0,5,12.000,8.000,1.166
-67790454,2026-05-30 09:30,Pogon Szczecin,WKS Slask Wroclaw,1,0,1.222,6.000,8.000
-67790456,2026-05-30 09:30,Czarni Sosnowiec,UKS SMS Lodz,3,2,1.333,5.000,6.250
-67790458,2026-05-30 09:30,GKS Katowice,AP ORLEN Gdansk,3,0,,,
-67790460,2026-05-30 09:30,Kks Lech Poznan,Rekord Bielsko-Biala,2,1,2.500,3.500,2.350
-67790462,2026-05-30 09:30,AZS UJ Krakow,KKP Stomilanki Olsztyn,4,0,1.533,4.333,4.333
-72577690,2026-07-31 15:00,Czarni Sosnowiec,UKS SMS Lodz,5,0,1.111,7.500,17.000
-72577698,2026-08-01 11:15,Legia Ladies,Pogon Szczecin,1,2,,,
-72577696,2026-08-01 13:00,GKS Katowice,Rekord Bielsko-Biala,3,1,1.285,5.000,7.000
-72577688,2026-08-01 15:30,Sleza Wroclaw,Kks Lech Poznan,0,2,,,
-72577694,2026-08-02 12:00,Gornik Leczna,AP ORLEN Gdansk,2,0,,,
-72577692,2026-08-02 15:30,AZS UJ Krakow,WKS Slask Wroclaw,2,1,2.000,3.500,3.000
-72577704,2026-08-08 08:30,Pogon Szczecin,Gornik Leczna,1,3,2.550,3.400,2.350
-72577702,2026-08-08 10:00,AP ORLEN Gdansk,AZS UJ Krakow,1,2,,,
-72577708,2026-08-08 10:00,Kks Lech Poznan,GKS Katowice,0,5,6.250,5.000,1.333
-73156840,2026-08-08 15:00,WKS Slask Wroclaw,UKS SMS Lodz,1,1,2.350,3.750,2.400
-72577706,2026-08-09 10:00,Rekord Bielsko-Biala,Legia Ladies,1,4,,,
-72577714,2026-08-15 10:00,UKS SMS Lodz,Sleza Wroclaw,0,0,1.270,4.750,8.500
-72577722,2026-08-15 13:00,Legia Ladies,Kks Lech Poznan,4,3,,,
-72577712,2026-08-16 09:00,GKS Katowice,Czarni Sosnowiec,3,3,3.000,3.500,2.050
-72577718,2026-08-16 10:00,AZS UJ Krakow,Pogon Szczecin,1,4,3.900,3.900,1.666
-72577720,2026-08-16 10:00,Gornik Leczna,Rekord Bielsko-Biala,5,1,1.181,5.750,12.000
-72577716,2026-08-16 15:00,WKS Slask Wroclaw,AP ORLEN Gdansk,1,2,,,
-72577730,2026-08-22 09:00,Kks Lech Poznan,Gornik Leczna,0,3,6.500,3.750,1.480
-72577734,2026-08-22 10:00,Pogon Szczecin,WKS Slask Wroclaw,5,0,1.420,4.200,5.750
-72577728,2026-08-22 13:00,Czarni Sosnowiec,Legia Ladies,3,0,,,
-73805722,2026-08-22 13:00,GKS Katowice,Sleza Wroclaw,2,1,1.062,12.000,34.000
-72577724,2026-08-22 14:00,UKS SMS Lodz,AP ORLEN Gdansk,1,2,,,
-72577732,2026-08-22 15:00,Rekord Bielsko-Biala,AZS UJ Krakow,1,1,,,
-72577736,2026-08-29 11:00,AP ORLEN Gdansk,Pogon Szczecin,2,1,,,
-72577744,2026-08-29 11:45,Legia Ladies,Sleza Wroclaw,5,2,,,
-72577738,2026-08-30 10:00,WKS Slask Wroclaw,Rekord Bielsko-Biala,1,1,2.100,3.400,2.900
-72577772,2026-09-26 10:00,UKS SMS Lodz,Pogon Szczecin,0,2,4.333,4.333,1.533
-74174164,2026-09-26 13:30,Sleza Wroclaw,Gornik Leczna,1,3,17.000,9.500,1.100
-73362128,2026-09-26 15:00,GKS Katowice,Legia Ladies,6,0,,,
-74174158,2026-09-27 10:00,Rekord Bielsko-Biala,AP ORLEN Gdansk,1,1,,,
-74517524,2026-09-27 10:00,WKS Slask Wroclaw,Kks Lech Poznan,2,2,2.100,3.500,2.900
-74174162,2026-09-27 10:45,Czarni Sosnowiec,AZS UJ Krakow,2,0,1.222,6.250,10.000
-72577762,2026-10-03 11:00,AP ORLEN Gdansk,Kks Lech Poznan,3,1,,,
-72577768,2026-10-03 11:00,Gornik Leczna,GKS Katowice,1,2,2.450,3.500,2.300
-72577760,2026-10-04 10:00,Pogon Szczecin,Rekord Bielsko-Biala,1,2,1.285,5.500,7.500
-72577764,2026-10-04 10:00,WKS Slask Wroclaw,Czarni Sosnowiec,0,2,13.000,7.000,1.166
-72577770,2026-10-04 15:00,Legia Ladies,UKS SMS Lodz,1,2,,,
-72577766,2026-10-04 15:30,AZS UJ Krakow,Sleza Wroclaw,4,1,,,
-72577754,2026-10-17 10:00,Kks Lech Poznan,Pogon Szczecin,1,3,8.500,5.750,1.222
-72577756,2026-10-17 10:00,UKS SMS Lodz,Rekord Bielsko-Biala,1,1,1.900,3.600,3.200
-72577758,2026-10-17 11:00,Czarni Sosnowiec,AP ORLEN Gdansk,1,1,,,
-72577752,2026-10-17 16:30,Sleza Wroclaw,WKS Slask Wroclaw,3,2,3.750,3.800,1.800
-72577748,2026-10-18 10:15,Legia Ladies,Gornik Leczna,1,1,,,
-72577750,2026-10-18 11:00,GKS Katowice,AZS UJ Krakow,3,0,1.300,5.250,6.500
-74147724,2026-10-21 17:00,AZS UJ Krakow,Kks Lech Poznan,0,2,1.850,3.600,3.300
-73491292,2026-10-21 18:00,Sleza Wroclaw,Czarni Sosnowiec,4,2,13.000,9.000,1.142
-72577792,2026-10-30 12:00,WKS Slask Wroclaw,GKS Katowice,1,4,10.000,5.500,1.222
-72577794,2026-10-30 12:00,Gornik Leczna,UKS SMS Lodz,3,0,1.380,4.333,6.500
-75790940,2026-10-31 11:45,Czarni Sosnowiec,Pogon Szczecin,0,3,1.727,3.900,3.500
-72577790,2026-10-31 12:00,AP ORLEN Gdansk,Sleza Wroclaw,2,2,,,
-72577786,2026-10-31 14:30,AZS UJ Krakow,Legia Ladies,0,0,,,
-74173424,2026-11-03 12:00,Gornik Leczna,Czarni Sosnowiec,1,3,1.650,4.000,3.900
-72577796,2026-11-07 11:00,UKS SMS Lodz,Kks Lech Poznan,0,3,2.150,3.400,2.875
-72577804,2026-11-07 12:00,Legia Ladies,WKS Slask Wroclaw,3,0,,,
-72577798,2026-11-07 14:00,Czarni Sosnowiec,Rekord Bielsko-Biala,4,1,1.200,6.250,11.000
-72577800,2026-11-07 17:30,Sleza Wroclaw,Pogon Szczecin,2,3,7.000,5.250,1.300
-72577806,2026-11-08 12:00,Gornik Leczna,AZS UJ Krakow,2,2,1.285,5.000,7.500
-72577802,2026-11-08 14:00,GKS Katowice,AP ORLEN Gdansk,3,0,1.333,4.500,7.500
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+57436081,2025-05-24 11:00,Czarni Sosnowiec,Gornik Leczna,1,2,,,,,,
+57436077,2025-05-25 09:00,UKS SMS Lodz,WKS Slask Wroclaw,1,1,,,,,,
+57436087,2025-05-25 09:00,GKS Katowice,KKP Stomilanki Olsztyn,5,0,,,,,,
+57436079,2025-05-25 10:00,Pogon Szczecin,AP ORLEN Gdansk,1,0,,,,,,
+61672912,2025-08-09 10:00,Kks Lech Poznan,KKP Stomilanki Olsztyn,1,0,,,,,,
+61672920,2025-08-09 13:00,GKS Katowice,Rekord Bielsko-Biala,2,3,,,,,,
+61672922,2025-08-09 13:00,Czarni Sosnowiec,AP ORLEN Gdansk,4,0,,,,,,
+61672916,2025-08-10 09:00,Gornik Leczna,WKS Slask Wroclaw,2,1,,,,,,
+61672914,2025-08-10 15:00,AZS UJ Krakow,Pogon Tczew,1,0,,,,,,
+61672926,2025-08-16 10:00,UKS SMS Lodz,Gornik Leczna,1,1,,,,,,
+61672932,2025-08-16 10:00,KKP Stomilanki Olsztyn,GKS Katowice,1,4,,,,,,
+61672934,2025-08-17 10:00,AZS UJ Krakow,Kks Lech Poznan,1,1,,,,,,
+61672946,2025-08-22 16:00,GKS Katowice,AZS UJ Krakow,2,0,,,,,,
+61672938,2025-08-23 09:30,WKS Slask Wroclaw,UKS SMS Lodz,2,1,,,,,,
+61672936,2025-08-23 10:00,Kks Lech Poznan,Pogon Tczew,3,1,,,,,,
+61672944,2025-08-23 13:00,Czarni Sosnowiec,KKP Stomilanki Olsztyn,5,3,,,,,,
+61672954,2025-08-31 09:45,KKP Stomilanki Olsztyn,Pogon Szczecin,1,3,,,,,,
+61672968,2025-09-13 10:00,WKS Slask Wroclaw,Rekord Bielsko-Biala,0,1,,,,,,
+61672978,2025-09-20 10:00,Rekord Bielsko-Biala,UKS SMS Lodz,1,4,,,,,,
+61672976,2025-09-20 12:00,AZS UJ Krakow,Gornik Leczna,0,1,,,,,,
+61672982,2025-09-21 10:00,KKP Stomilanki Olsztyn,WKS Slask Wroclaw,0,5,,,,,,
+61672972,2025-09-22 15:00,GKS Katowice,Czarni Sosnowiec,1,2,,,,,,
+61672986,2025-09-27 10:00,Pogon Szczecin,GKS Katowice,0,2,,,,,,
+61672992,2025-09-27 10:00,UKS SMS Lodz,KKP Stomilanki Olsztyn,0,1,,,,,,
+61672994,2025-09-27 10:00,AP ORLEN Gdansk,Rekord Bielsko-Biala,0,1,,,,,,
+61672984,2025-09-27 13:00,Czarni Sosnowiec,Pogon Tczew,7,0,,,,,,
+61673000,2025-10-03 15:00,GKS Katowice,Gornik Leczna,0,4,,,,,,
+61672998,2025-10-04 09:45,Czarni Sosnowiec,Pogon Szczecin,2,1,,,,,,
+61673002,2025-10-04 10:00,Kks Lech Poznan,WKS Slask Wroclaw,0,3,,,,,,
+61672996,2025-10-04 11:00,Pogon Tczew,Rekord Bielsko-Biala,0,0,,,,,,
+61673006,2025-10-05 11:00,KKP Stomilanki Olsztyn,AP ORLEN Gdansk,2,3,,,,,,
+61673004,2025-10-05 13:00,AZS UJ Krakow,UKS SMS Lodz,1,1,,,,,,
+61673010,2025-10-11 09:00,Gornik Leczna,Czarni Sosnowiec,0,0,,,,,,
+61673012,2025-10-11 10:00,AP ORLEN Gdansk,AZS UJ Krakow,3,0,,,,,,
+61673014,2025-10-11 10:00,UKS SMS Lodz,Kks Lech Poznan,3,1,,,,,,
+61673016,2025-10-12 10:00,WKS Slask Wroclaw,GKS Katowice,0,1,,,,,,
+61673024,2025-10-31 11:00,Kks Lech Poznan,AP ORLEN Gdansk,2,1,,,,,,
+61673022,2025-10-31 18:30,AZS UJ Krakow,Rekord Bielsko-Biala,4,4,,,,,,
+61673030,2025-11-02 10:45,Pogon Szczecin,Gornik Leczna,3,2,,,,,,
+61673026,2025-11-02 11:00,GKS Katowice,UKS SMS Lodz,2,1,,,,,,
+61673028,2025-11-02 14:00,Czarni Sosnowiec,WKS Slask Wroclaw,2,0,,,,,,
+61673036,2025-11-08 11:00,UKS SMS Lodz,Czarni Sosnowiec,2,3,,,,,,
+61673038,2025-11-08 11:00,AP ORLEN Gdansk,GKS Katowice,2,5,,,,,,
+61673034,2025-11-08 11:15,WKS Slask Wroclaw,Pogon Szczecin,0,5,,,,,,
+61673040,2025-11-08 12:00,Rekord Bielsko-Biala,Kks Lech Poznan,0,0,,,,,,
+61673032,2025-11-08 13:00,Gornik Leczna,Pogon Tczew,3,1,,,,,,
+63935149,2025-11-11 11:00,Czarni Sosnowiec,Kks Lech Poznan,7,1,,,,,,
+65382062,2025-11-19 15:00,GKS Katowice,Pogon Tczew,3,1,,,,,,
+67790336,2026-02-21 11:00,WKS Slask Wroclaw,Gornik Leczna,0,1,5.250,4.100,1.450,3,1.825,1.975
+67790342,2026-02-21 11:00,AP ORLEN Gdansk,Czarni Sosnowiec,1,0,,,,,,
+67790334,2026-02-21 11:30,Pogon Tczew,AZS UJ Krakow,0,5,1.533,4.200,4.750,3,1.800,2.000
+67790338,2026-02-22 11:00,UKS SMS Lodz,Pogon Szczecin,0,3,3.700,3.700,1.750,3,1.800,2.000
+67790354,2026-02-28 13:00,Kks Lech Poznan,AZS UJ Krakow,4,1,,,,,,
+67790350,2026-02-28 15:00,Czarni Sosnowiec,Rekord Bielsko-Biala,1,0,,,,,,
+67790356,2026-03-14 10:00,Pogon Tczew,Kks Lech Poznan,0,1,7.500,5.000,1.270,3,1.825,1.975
+67790364,2026-03-14 16:00,KKP Stomilanki Olsztyn,Czarni Sosnowiec,1,5,21.000,9.500,1.083,3.75,1.850,1.950
+67790366,2026-03-14 16:30,AZS UJ Krakow,GKS Katowice,2,3,6.000,4.200,1.420,3.25,1.950,1.850
+67790358,2026-03-15 09:30,UKS SMS Lodz,WKS Slask Wroclaw,1,0,1.833,3.300,3.600,2.75,1.800,2.000
+67790362,2026-03-15 11:00,Rekord Bielsko-Biala,Pogon Szczecin,0,1,6.500,3.900,1.420,3,1.825,1.975
+67790360,2026-03-15 11:30,AP ORLEN Gdansk,Gornik Leczna,1,4,,,,,,
+67790368,2026-03-21 11:00,UKS SMS Lodz,Pogon Tczew,3,3,1.125,7.000,17.000,3.25,1.825,1.975
+67790374,2026-03-21 11:00,Pogon Szczecin,KKP Stomilanki Olsztyn,7,2,,,,,,
+67790370,2026-03-21 12:00,GKS Katowice,Kks Lech Poznan,1,1,1.333,4.750,7.000,3.5,1.850,1.950
+67790372,2026-03-21 12:00,Czarni Sosnowiec,AZS UJ Krakow,1,0,1.083,9.000,23.000,3.75,1.900,1.900
+67790376,2026-03-21 13:00,Gornik Leczna,Rekord Bielsko-Biala,0,2,1.125,7.000,17.000,3.25,1.825,1.975
+67790378,2026-03-22 11:00,WKS Slask Wroclaw,AP ORLEN Gdansk,3,2,,,,,,
+69572182,2026-03-25 11:00,KKP Stomilanki Olsztyn,Kks Lech Poznan,0,4,4.750,4.200,1.500,3,1.975,1.825
+69100500,2026-03-25 14:00,Rekord Bielsko-Biala,GKS Katowice,1,1,6.000,4.200,1.400,3.25,1.900,1.900
+67790346,2026-03-25 15:00,Gornik Leczna,UKS SMS Lodz,3,0,1.650,3.500,4.333,2.75,1.925,1.875
+69310292,2026-03-25 16:00,Pogon Szczecin,AP ORLEN Gdansk,3,0,,,,,,
+67790382,2026-03-28 11:00,Kks Lech Poznan,Czarni Sosnowiec,0,4,11.000,6.000,1.200,3.25,2.000,1.800
+67790384,2026-03-28 11:30,AZS UJ Krakow,Pogon Szczecin,0,6,11.000,6.250,1.166,3.75,1.850,1.950
+67790386,2026-03-28 16:00,KKP Stomilanki Olsztyn,Gornik Leczna,0,2,23.000,12.000,1.062,4,1.950,1.850
+67790380,2026-03-29 10:00,Pogon Tczew,GKS Katowice,1,1,11.000,6.000,1.222,3.75,1.825,1.975
+67790388,2026-03-29 13:00,Rekord Bielsko-Biala,WKS Slask Wroclaw,1,3,2.750,3.250,2.250,2.75,1.925,1.875
+67790390,2026-03-29 13:00,AP ORLEN Gdansk,UKS SMS Lodz,0,6,,,,,,
+67790398,2026-04-03 10:00,UKS SMS Lodz,Rekord Bielsko-Biala,2,0,1.500,3.700,5.500,2.75,1.825,1.975
+67790392,2026-04-04 08:45,Czarni Sosnowiec,GKS Katowice,0,2,1.550,3.800,4.750,3,1.875,1.925
+67790394,2026-04-04 10:00,Pogon Szczecin,Kks Lech Poznan,3,0,1.125,8.000,13.000,4,1.875,1.925
+67790400,2026-04-04 10:00,AP ORLEN Gdansk,Pogon Tczew,2,0,,,,,,
+67790402,2026-04-04 10:00,WKS Slask Wroclaw,KKP Stomilanki Olsztyn,6,1,1.380,5.250,5.000,3,1.800,2.000
+67790396,2026-04-04 11:00,Gornik Leczna,AZS UJ Krakow,0,0,1.181,6.000,13.000,3.25,1.975,1.825
+67790406,2026-04-25 09:00,GKS Katowice,Pogon Szczecin,4,2,2.625,3.500,2.250,2.75,1.825,1.975
+67790414,2026-04-25 09:30,Rekord Bielsko-Biala,AP ORLEN Gdansk,1,0,,,,,,
+67790404,2026-04-25 10:00,Pogon Tczew,Czarni Sosnowiec,0,8,41.000,10.000,1.062,3.75,1.800,2.000
+67790408,2026-04-25 10:00,Kks Lech Poznan,Gornik Leczna,1,3,6.000,4.750,1.380,2.75,1.825,1.975
+67790412,2026-04-25 15:00,KKP Stomilanki Olsztyn,UKS SMS Lodz,1,2,15.000,6.500,1.142,3.75,1.975,1.825
+67790410,2026-04-25 15:30,AZS UJ Krakow,WKS Slask Wroclaw,2,3,3.300,3.700,1.833,3,1.925,1.875
+67790422,2026-05-01 10:00,WKS Slask Wroclaw,Kks Lech Poznan,3,3,1.500,4.100,5.000,3,1.800,2.000
+67790418,2026-05-02 10:00,Pogon Szczecin,Czarni Sosnowiec,2,2,2.500,3.500,2.300,3,1.950,1.850
+67790426,2026-05-02 11:00,AP ORLEN Gdansk,KKP Stomilanki Olsztyn,1,3,,,,,,
+67790420,2026-05-02 12:00,Gornik Leczna,GKS Katowice,2,1,2.050,3.600,2.900,2.75,1.800,2.000
+67790424,2026-05-02 13:00,UKS SMS Lodz,AZS UJ Krakow,1,0,1.500,3.800,5.250,2.75,1.800,2.000
+67790416,2026-05-03 09:00,Rekord Bielsko-Biala,Pogon Tczew,5,1,1.420,4.500,5.500,3,1.850,1.950
+71183308,2026-05-06 13:00,GKS Katowice,KKP Stomilanki Olsztyn,5,0,,,,,,
+67790434,2026-05-09 10:00,Kks Lech Poznan,UKS SMS Lodz,1,1,4.100,4.000,1.615,2.75,1.850,1.950
+67790432,2026-05-09 10:30,AZS UJ Krakow,AP ORLEN Gdansk,2,0,,,,,,
+67790436,2026-05-09 11:00,GKS Katowice,WKS Slask Wroclaw,2,1,1.571,4.333,4.000,3,1.800,2.000
+67790438,2026-05-09 15:00,Pogon Tczew,Pogon Szczecin,0,3,23.000,17.000,1.045,4.5,1.975,1.825
+67790430,2026-05-10 08:00,Czarni Sosnowiec,Gornik Leczna,4,1,1.850,3.400,3.600,2.75,1.950,1.850
+67790428,2026-05-10 12:45,KKP Stomilanki Olsztyn,Rekord Bielsko-Biala,1,3,4.100,4.100,1.571,3.25,2.000,1.800
+69401910,2026-05-16 10:00,WKS Slask Wroclaw,Pogon Tczew,0,2,1.166,7.000,15.000,3.75,1.825,1.975
+65867826,2026-05-20 13:00,Kks Lech Poznan,GKS Katowice,1,4,4.500,4.500,1.480,3.5,1.975,1.825
+67790442,2026-05-22 15:00,Rekord Bielsko-Biala,AZS UJ Krakow,0,1,1.800,3.600,3.400,3,1.950,1.850
+67790448,2026-05-23 08:30,WKS Slask Wroclaw,Czarni Sosnowiec,1,2,8.000,5.250,1.270,3.75,1.950,1.850
+67790446,2026-05-23 10:00,UKS SMS Lodz,GKS Katowice,1,2,2.800,3.600,2.100,3,1.975,1.825
+67790450,2026-05-23 14:00,Gornik Leczna,Pogon Szczecin,0,3,2.875,3.750,2.000,2.75,1.850,1.950
+67790440,2026-05-24 10:00,Pogon Tczew,KKP Stomilanki Olsztyn,2,2,2.400,3.700,2.350,3.25,1.850,1.950
+67790444,2026-05-24 10:00,AP ORLEN Gdansk,Kks Lech Poznan,2,1,,,,,,
+67790452,2026-05-30 09:30,Pogon Tczew,Gornik Leczna,0,5,12.000,8.000,1.166,3.5,1.925,1.875
+67790454,2026-05-30 09:30,Pogon Szczecin,WKS Slask Wroclaw,1,0,1.222,6.000,8.000,3.75,1.925,1.875
+67790456,2026-05-30 09:30,Czarni Sosnowiec,UKS SMS Lodz,3,2,1.333,5.000,6.250,3.25,1.875,1.925
+67790458,2026-05-30 09:30,GKS Katowice,AP ORLEN Gdansk,3,0,,,,,,
+67790460,2026-05-30 09:30,Kks Lech Poznan,Rekord Bielsko-Biala,2,1,2.500,3.500,2.350,3,1.900,1.900
+67790462,2026-05-30 09:30,AZS UJ Krakow,KKP Stomilanki Olsztyn,4,0,1.533,4.333,4.333,3.25,1.850,1.950
+72577690,2026-07-31 15:00,Czarni Sosnowiec,UKS SMS Lodz,5,0,1.111,7.500,17.000,3,1.775,2.025
+72577698,2026-08-01 11:15,Legia Ladies,Pogon Szczecin,1,2,,,,,,
+72577696,2026-08-01 13:00,GKS Katowice,Rekord Bielsko-Biala,3,1,1.285,5.000,7.000,3.25,1.900,1.900
+72577688,2026-08-01 15:30,Sleza Wroclaw,Kks Lech Poznan,0,2,,,,,,
+72577694,2026-08-02 12:00,Gornik Leczna,AP ORLEN Gdansk,2,0,,,,,,
+72577692,2026-08-02 15:30,AZS UJ Krakow,WKS Slask Wroclaw,2,1,2.000,3.500,3.000,2.75,1.850,1.950
+72577704,2026-08-08 08:30,Pogon Szczecin,Gornik Leczna,1,3,2.550,3.400,2.350,2.75,1.925,1.875
+72577702,2026-08-08 10:00,AP ORLEN Gdansk,AZS UJ Krakow,1,2,,,,,,
+72577708,2026-08-08 10:00,Kks Lech Poznan,GKS Katowice,0,5,6.250,5.000,1.333,3.25,1.900,1.900
+73156840,2026-08-08 15:00,WKS Slask Wroclaw,UKS SMS Lodz,1,1,2.350,3.750,2.400,2.75,1.775,2.025
+72577706,2026-08-09 10:00,Rekord Bielsko-Biala,Legia Ladies,1,4,,,,,,
+72577714,2026-08-15 10:00,UKS SMS Lodz,Sleza Wroclaw,0,0,1.270,4.750,8.500,3.25,1.850,1.950
+72577722,2026-08-15 13:00,Legia Ladies,Kks Lech Poznan,4,3,,,,,,
+72577712,2026-08-16 09:00,GKS Katowice,Czarni Sosnowiec,3,3,3.000,3.500,2.050,3,2.025,1.775
+72577718,2026-08-16 10:00,AZS UJ Krakow,Pogon Szczecin,1,4,3.900,3.900,1.666,2.75,1.900,1.900
+72577720,2026-08-16 10:00,Gornik Leczna,Rekord Bielsko-Biala,5,1,1.181,5.750,12.000,3.25,1.900,1.900
+72577716,2026-08-16 15:00,WKS Slask Wroclaw,AP ORLEN Gdansk,1,2,,,,,,
+72577730,2026-08-22 09:00,Kks Lech Poznan,Gornik Leczna,0,3,6.500,3.750,1.480,3,1.850,1.950
+72577734,2026-08-22 10:00,Pogon Szczecin,WKS Slask Wroclaw,5,0,1.420,4.200,5.750,3.25,2.000,1.800
+72577728,2026-08-22 13:00,Czarni Sosnowiec,Legia Ladies,3,0,,,,,,
+73805722,2026-08-22 13:00,GKS Katowice,Sleza Wroclaw,2,1,1.062,12.000,34.000,3.75,2.000,1.800
+72577724,2026-08-22 14:00,UKS SMS Lodz,AP ORLEN Gdansk,1,2,,,,,,
+72577732,2026-08-22 15:00,Rekord Bielsko-Biala,AZS UJ Krakow,1,1,,,,,,
+72577736,2026-08-29 11:00,AP ORLEN Gdansk,Pogon Szczecin,2,1,,,,,,
+72577744,2026-08-29 11:45,Legia Ladies,Sleza Wroclaw,5,2,,,,,,
+72577738,2026-08-30 10:00,WKS Slask Wroclaw,Rekord Bielsko-Biala,1,1,2.100,3.400,2.900,2.75,2.000,1.800
+72577772,2026-09-26 10:00,UKS SMS Lodz,Pogon Szczecin,0,2,4.333,4.333,1.533,3.5,1.925,1.875
+74174164,2026-09-26 13:30,Sleza Wroclaw,Gornik Leczna,1,3,17.000,9.500,1.100,3.75,1.825,1.975
+73362128,2026-09-26 15:00,GKS Katowice,Legia Ladies,6,0,,,,,,
+74174158,2026-09-27 10:00,Rekord Bielsko-Biala,AP ORLEN Gdansk,1,1,,,,,,
+74517524,2026-09-27 10:00,WKS Slask Wroclaw,Kks Lech Poznan,2,2,2.100,3.500,2.900,2.75,1.775,2.025
+74174162,2026-09-27 10:45,Czarni Sosnowiec,AZS UJ Krakow,2,0,1.222,6.250,10.000,3.5,1.825,1.975
+72577762,2026-10-03 11:00,AP ORLEN Gdansk,Kks Lech Poznan,3,1,,,,,,
+72577768,2026-10-03 11:00,Gornik Leczna,GKS Katowice,1,2,2.450,3.500,2.300,3,1.900,1.900
+72577760,2026-10-04 10:00,Pogon Szczecin,Rekord Bielsko-Biala,1,2,1.285,5.500,7.500,3.5,1.975,1.825
+72577764,2026-10-04 10:00,WKS Slask Wroclaw,Czarni Sosnowiec,0,2,13.000,7.000,1.166,3.75,1.925,1.875
+72577770,2026-10-04 15:00,Legia Ladies,UKS SMS Lodz,1,2,,,,,,
+72577766,2026-10-04 15:30,AZS UJ Krakow,Sleza Wroclaw,4,1,,,,,,
+72577754,2026-10-17 10:00,Kks Lech Poznan,Pogon Szczecin,1,3,8.500,5.750,1.222,3.5,1.975,1.825
+72577756,2026-10-17 10:00,UKS SMS Lodz,Rekord Bielsko-Biala,1,1,1.900,3.600,3.200,3,2.025,1.775
+72577758,2026-10-17 11:00,Czarni Sosnowiec,AP ORLEN Gdansk,1,1,,,,,,
+72577752,2026-10-17 16:30,Sleza Wroclaw,WKS Slask Wroclaw,3,2,3.750,3.800,1.800,3,1.900,1.900
+72577748,2026-10-18 10:15,Legia Ladies,Gornik Leczna,1,1,,,,,,
+72577750,2026-10-18 11:00,GKS Katowice,AZS UJ Krakow,3,0,1.300,5.250,6.500,3.25,1.925,1.875
+74147724,2026-10-21 17:00,AZS UJ Krakow,Kks Lech Poznan,0,2,1.850,3.600,3.300,3,1.850,1.950
+73491292,2026-10-21 18:00,Sleza Wroclaw,Czarni Sosnowiec,4,2,13.000,9.000,1.142,4,1.800,2.000
+72577792,2026-10-30 12:00,WKS Slask Wroclaw,GKS Katowice,1,4,10.000,5.500,1.222,3.5,2.000,1.800
+72577794,2026-10-30 12:00,Gornik Leczna,UKS SMS Lodz,3,0,1.380,4.333,6.500,3.25,1.825,1.975
+75790940,2026-10-31 11:45,Czarni Sosnowiec,Pogon Szczecin,0,3,1.727,3.900,3.500,3,1.975,1.825
+72577790,2026-10-31 12:00,AP ORLEN Gdansk,Sleza Wroclaw,2,2,,,,,,
+72577786,2026-10-31 14:30,AZS UJ Krakow,Legia Ladies,0,0,,,,,,
+74173424,2026-11-03 12:00,Gornik Leczna,Czarni Sosnowiec,1,3,1.650,4.000,3.900,3.25,1.925,1.875
+72577796,2026-11-07 11:00,UKS SMS Lodz,Kks Lech Poznan,0,3,2.150,3.400,2.875,2.75,1.900,1.900
+72577804,2026-11-07 12:00,Legia Ladies,WKS Slask Wroclaw,3,0,,,,,,
+72577798,2026-11-07 14:00,Czarni Sosnowiec,Rekord Bielsko-Biala,4,1,1.200,6.250,11.000,3.75,2.000,1.800
+72577800,2026-11-07 17:30,Sleza Wroclaw,Pogon Szczecin,2,3,7.000,5.250,1.300,3.75,1.950,1.850
+72577806,2026-11-08 12:00,Gornik Leczna,AZS UJ Krakow,2,2,1.285,5.000,7.500,3,1.800,2.000
+72577802,2026-11-08 14:00,GKS Katowice,AP ORLEN Gdansk,3,0,1.333,4.500,7.500,3.5,2.000,1.800

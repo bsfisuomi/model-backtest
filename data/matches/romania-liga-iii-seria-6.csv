@@ -1,37 +1,37 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-73927952,2026-08-28 15:00,Acso Filiasi,CSM Jiul Petrosani,2,1,,,
-73927956,2026-08-28 15:00,CS Drobeta Turnu Severin,ACS Petrolul Hartiesti,2,0,1.400,5.000,5.000
-73927948,2026-08-29 15:00,CS Vulturii Farcasesti,CS Universitatea Craiova II,0,0,2.450,3.100,2.600
-73927950,2026-08-29 15:00,ACS Oltul Curtisoara,Csm Targu Jiu,2,3,2.375,3.600,2.375
-73927954,2026-08-29 15:00,Asfc Pausesti Otasau,Unirea Bascov,1,1,,,
-73927958,2026-08-29 15:00,CS Minerul Lupeni,ACS Academica Bals,1,0,,,
-74088294,2026-09-11 14:00,ACS Academica Bals,ACS Petrolul Hartiesti,5,0,,,
-74088308,2026-09-18 14:00,Unirea Bascov,ACS Academica Bals,3,1,3.400,3.600,1.850
-74088310,2026-09-19 14:00,ACS Oltul Curtisoara,Acso Filiasi,1,3,,,
-74088312,2026-09-19 14:00,CS Vulturii Farcasesti,Asfc Pausesti Otasau,2,2,,,
-74088306,2026-09-19 17:00,CSM Jiul Petrosani,CS Minerul Lupeni,1,0,4.500,4.100,1.533
-74088316,2026-09-22 14:00,Acso Filiasi,CS Universitatea Craiova II,2,2,3.750,4.000,1.666
-74088318,2026-09-22 14:00,Asfc Pausesti Otasau,ACS Oltul Curtisoara,0,1,,,
-74088322,2026-09-22 14:00,ACS Academica Bals,CSM Jiul Petrosani,0,2,,,
-74088324,2026-09-22 14:00,CS Minerul Lupeni,Csm Targu Jiu,1,0,,,
-74088330,2026-09-26 14:00,CSM Jiul Petrosani,ACS Petrolul Hartiesti,5,0,,,
-74088332,2026-09-26 14:00,CS Vulturii Farcasesti,CS Minerul Lupeni,2,1,3.250,3.700,1.833
-74088334,2026-09-26 14:00,CS Universitatea Craiova II,Unirea Bascov,1,1,,,
-74088336,2026-09-26 14:00,ACS Oltul Curtisoara,CS Drobeta Turnu Severin,2,0,,,
-74088342,2026-10-02 12:00,ACS Petrolul Hartiesti,Csm Targu Jiu,1,6,,,
-74088350,2026-10-09 12:00,Acso Filiasi,CS Minerul Lupeni,0,1,7.000,4.500,1.333
-74088352,2026-10-09 16:00,Csm Targu Jiu,Unirea Bascov,1,0,1.300,4.500,7.500
-74088372,2026-10-16 12:00,ACS Academica Bals,Acso Filiasi,1,1,,,
-74088366,2026-10-17 15:00,CSM Jiul Petrosani,Csm Targu Jiu,2,0,,,
-74088380,2026-10-23 12:00,CS Universitatea Craiova II,Csm Targu Jiu,0,0,,,
-74088388,2026-10-30 13:00,CSM Jiul Petrosani,ACS Oltul Curtisoara,0,3,1.727,3.750,3.750
-74088390,2026-10-30 13:00,Unirea Bascov,Acso Filiasi,2,0,1.800,3.600,3.500
-74088396,2026-10-30 13:00,ACS Academica Bals,CS Drobeta Turnu Severin,0,0,,,
-74088392,2026-10-31 13:00,ACS Petrolul Hartiesti,Asfc Pausesti Otasau,0,3,,,
-74088394,2026-10-31 13:00,CS Minerul Lupeni,CS Universitatea Craiova II,1,0,,,
-74088402,2026-11-06 12:00,Unirea Bascov,Asfc Pausesti Otasau,1,3,1.363,4.500,6.250
-74088406,2026-11-06 12:00,ACS Petrolul Hartiesti,CS Drobeta Turnu Severin,2,4,,,
-74088408,2026-11-06 12:00,ACS Academica Bals,CS Minerul Lupeni,1,1,,,
-74088398,2026-11-06 15:00,Csm Targu Jiu,ACS Oltul Curtisoara,3,1,1.142,6.250,15.000
-74088404,2026-11-07 12:00,CS Universitatea Craiova II,CS Vulturii Farcasesti,1,0,1.650,3.750,4.333
-74088400,2026-11-07 15:00,CSM Jiul Petrosani,Acso Filiasi,1,0,2.100,3.400,2.875
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+73927952,2026-08-28 15:00,Acso Filiasi,CSM Jiul Petrosani,2,1,,,,,,
+73927956,2026-08-28 15:00,CS Drobeta Turnu Severin,ACS Petrolul Hartiesti,2,0,1.400,5.000,5.000,3.25,1.800,2.000
+73927948,2026-08-29 15:00,CS Vulturii Farcasesti,CS Universitatea Craiova II,0,0,2.450,3.100,2.600,3,2.000,1.800
+73927950,2026-08-29 15:00,ACS Oltul Curtisoara,Csm Targu Jiu,2,3,2.375,3.600,2.375,3,1.950,1.850
+73927954,2026-08-29 15:00,Asfc Pausesti Otasau,Unirea Bascov,1,1,,,,,,
+73927958,2026-08-29 15:00,CS Minerul Lupeni,ACS Academica Bals,1,0,,,,,,
+74088294,2026-09-11 14:00,ACS Academica Bals,ACS Petrolul Hartiesti,5,0,,,,,,
+74088308,2026-09-18 14:00,Unirea Bascov,ACS Academica Bals,3,1,3.400,3.600,1.850,2.5,1.800,2.000
+74088310,2026-09-19 14:00,ACS Oltul Curtisoara,Acso Filiasi,1,3,,,,,,
+74088312,2026-09-19 14:00,CS Vulturii Farcasesti,Asfc Pausesti Otasau,2,2,,,,,,
+74088306,2026-09-19 17:00,CSM Jiul Petrosani,CS Minerul Lupeni,1,0,4.500,4.100,1.533,2.25,1.850,1.950
+74088316,2026-09-22 14:00,Acso Filiasi,CS Universitatea Craiova II,2,2,3.750,4.000,1.666,3,1.825,1.975
+74088318,2026-09-22 14:00,Asfc Pausesti Otasau,ACS Oltul Curtisoara,0,1,,,,,,
+74088322,2026-09-22 14:00,ACS Academica Bals,CSM Jiul Petrosani,0,2,,,,,,
+74088324,2026-09-22 14:00,CS Minerul Lupeni,Csm Targu Jiu,1,0,,,,,,
+74088330,2026-09-26 14:00,CSM Jiul Petrosani,ACS Petrolul Hartiesti,5,0,,,,,,
+74088332,2026-09-26 14:00,CS Vulturii Farcasesti,CS Minerul Lupeni,2,1,3.250,3.700,1.833,3,1.975,1.825
+74088334,2026-09-26 14:00,CS Universitatea Craiova II,Unirea Bascov,1,1,,,,,,
+74088336,2026-09-26 14:00,ACS Oltul Curtisoara,CS Drobeta Turnu Severin,2,0,,,,,,
+74088342,2026-10-02 12:00,ACS Petrolul Hartiesti,Csm Targu Jiu,1,6,,,,,,
+74088350,2026-10-09 12:00,Acso Filiasi,CS Minerul Lupeni,0,1,7.000,4.500,1.333,2.75,1.825,1.975
+74088352,2026-10-09 16:00,Csm Targu Jiu,Unirea Bascov,1,0,1.300,4.500,7.500,2.75,1.800,2.000
+74088372,2026-10-16 12:00,ACS Academica Bals,Acso Filiasi,1,1,,,,,,
+74088366,2026-10-17 15:00,CSM Jiul Petrosani,Csm Targu Jiu,2,0,,,,,,
+74088380,2026-10-23 12:00,CS Universitatea Craiova II,Csm Targu Jiu,0,0,,,,,,
+74088388,2026-10-30 13:00,CSM Jiul Petrosani,ACS Oltul Curtisoara,0,3,1.727,3.750,3.750,2.75,1.825,1.975
+74088390,2026-10-30 13:00,Unirea Bascov,Acso Filiasi,2,0,1.800,3.600,3.500,3,2.000,1.800
+74088396,2026-10-30 13:00,ACS Academica Bals,CS Drobeta Turnu Severin,0,0,,,,,,
+74088392,2026-10-31 13:00,ACS Petrolul Hartiesti,Asfc Pausesti Otasau,0,3,,,,,,
+74088394,2026-10-31 13:00,CS Minerul Lupeni,CS Universitatea Craiova II,1,0,,,,,,
+74088402,2026-11-06 12:00,Unirea Bascov,Asfc Pausesti Otasau,1,3,1.363,4.500,6.250,3,1.950,1.850
+74088406,2026-11-06 12:00,ACS Petrolul Hartiesti,CS Drobeta Turnu Severin,2,4,,,,,,
+74088408,2026-11-06 12:00,ACS Academica Bals,CS Minerul Lupeni,1,1,,,,,,
+74088398,2026-11-06 15:00,Csm Targu Jiu,ACS Oltul Curtisoara,3,1,1.142,6.250,15.000,3,1.925,1.875
+74088404,2026-11-07 12:00,CS Universitatea Craiova II,CS Vulturii Farcasesti,1,0,1.650,3.750,4.333,2.75,1.800,2.000
+74088400,2026-11-07 15:00,CSM Jiul Petrosani,Acso Filiasi,1,0,2.100,3.400,2.875,2.5,1.850,1.950

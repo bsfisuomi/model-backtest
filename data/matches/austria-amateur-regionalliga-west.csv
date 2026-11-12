@@ -1,343 +1,343 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-51228933,2025-05-24 14:00,SK Bischofshofen,FC Lauterach,4,1,,,
-51228937,2025-05-24 14:00,FC Dornbirn,FC Kitzbuhel,0,0,,,
-51228941,2025-05-24 15:00,SCR Altach,SV Kuchl,3,2,,,
-51228951,2025-05-28 17:30,FC Pinzgau Saalfelden,SK Bischofshofen,1,2,,,
-51228957,2025-05-28 17:30,SV Kuchl,TSV St. Johann,3,1,,,
-51228955,2025-05-29 09:00,SC Rothis,FC Dornbirn,0,3,,,
-51228963,2025-05-29 09:00,FC Lauterach,VfB Hohenems,2,2,,,
-51228959,2025-05-29 12:30,SV Wals-Grunau,Austria Salzburg,1,0,,,
-51228961,2025-05-29 12:30,SVG Reichenau,SCR Altach,5,2,,,
-51228973,2025-05-31 13:00,SCR Altach,FC Lauterach,3,0,,,
-54905029,2025-06-01 09:00,SV Wals-Grunau,SV Kuchl,3,1,,,
-51228983,2025-06-07 15:00,FC Pinzgau Saalfelden,SCR Altach,2,0,,,
-51228987,2025-06-07 15:00,SC Rothis,FC Kufstein,5,4,,,
-51228989,2025-06-07 15:00,Austria Salzburg,SC Schwaz,1,0,,,
-51228991,2025-06-07 15:00,SV Wals-Grunau,FC Dornbirn,6,0,,,
-51228995,2025-06-07 15:00,FC Lauterach,TSV St. Johann,3,0,,,
-61540990,2025-08-08 16:00,VfB Hohenems,SC Schwaz,1,1,,,
-61540988,2025-08-08 17:00,TSV St. Johann,SK Bischofshofen,3,1,,,
-61540986,2025-08-09 15:00,SV Seekirchen,FC Lustenau,6,0,,,
-61540978,2025-08-09 16:00,FC Dornbirn,FC Kitzbuhel,4,2,,,
-61540984,2025-08-10 08:30,SCR Altach,FC Lauterach,2,0,,,
-61541006,2025-08-15 16:00,FC Lauterach,SV Seekirchen,2,2,,,
-61541000,2025-08-15 17:30,Wacker Innsbruck,FC Dornbirn,4,0,,,
-61540996,2025-08-16 14:00,FC Kitzbuhel,FC Pinzgau Saalfelden,1,1,,,
-61540998,2025-08-16 14:00,FC Lustenau,SVG Reichenau,2,0,,,
-61540994,2025-08-16 15:00,SK Bischofshofen,SCR Altach,5,0,,,
-61541280,2025-08-16 15:00,VfB Hohenems,SV Kuchl,1,1,,,
-61541018,2025-08-22 16:00,SCR Altach,SC Imst 1933,1,2,,,
-61541024,2025-08-23 13:45,SV Wals-Grunau,FC Kitzbuhel,1,2,,,
-61541012,2025-08-23 16:00,FC Dornbirn,FC Lustenau,0,4,,,
-61541016,2025-08-24 15:00,FC Pinzgau Saalfelden,Wacker Innsbruck,0,2,,,
-61541026,2025-08-30 15:00,SK Bischofshofen,SVG Reichenau,4,1,,,
-61541036,2025-08-30 15:00,VfB Hohenems,FC Kufstein,1,1,,,
-61541050,2025-09-05 17:00,SV Seekirchen,SC Schwaz,3,0,,,
-61541048,2025-09-06 13:30,SCR Altach,SV Kuchl,3,4,,,
-61541056,2025-09-06 13:30,SV Wals-Grunau,FC Lustenau,6,3,,,
-61541042,2025-09-06 15:00,FC Dornbirn,SK Bischofshofen,3,0,,,
-61541046,2025-09-06 15:30,FC Pinzgau Saalfelden,FC Lauterach,2,1,,,
-61541044,2025-09-07 09:00,FC Kitzbuhel,Wacker Innsbruck,0,3,,,
-61541072,2025-09-13 15:00,SC Imst 1933,FC Dornbirn,0,0,,,
-61541066,2025-09-14 08:30,SV Kuchl,SV Seekirchen,0,4,,,
-62603130,2025-09-16 17:00,FC Lauterach,TSV St. Johann,1,1,,,
-61541084,2025-09-20 12:30,SCR Altach,FC Kufstein,3,1,,,
-61541086,2025-09-20 12:30,SV Seekirchen,VfB Hohenems,2,2,,,
-61541076,2025-09-20 15:00,FC Dornbirn,SC Schwaz,5,1,,,
-61541082,2025-09-20 15:30,FC Pinzgau Saalfelden,SC Imst 1933,1,2,,,
-61541102,2025-09-23 16:30,FC Lauterach,Wacker Innsbruck,2,3,,,
-61541090,2025-09-23 17:30,SK Bischofshofen,FC Kitzbuhel,1,0,,,
-61541098,2025-09-24 17:00,TSV St. Johann,SCR Altach,1,1,,,
-61541110,2025-09-27 13:30,FC Lustenau,FC Lauterach,2,4,,,
-61541118,2025-09-27 15:00,SV Seekirchen,TSV St. Johann,5,1,,,
-61541106,2025-09-28 09:00,FC Dornbirn,VfB Hohenems,1,0,,,
-61541134,2025-10-04 12:00,SK Bischofshofen,FC Lustenau,4,0,,,
-61541128,2025-10-04 13:00,SCR Altach,SV Seekirchen,2,6,,,
-61541130,2025-10-04 14:00,TSV St. Johann,SVG Reichenau,0,2,,,
-61541148,2025-10-11 12:30,SV Wals-Grunau,VfB Hohenems,3,3,,,
-61541138,2025-10-11 13:00,FC Dornbirn,TSV St. Johann,3,1,,,
-61541140,2025-10-11 14:00,FC Kitzbuhel,SV Kuchl,1,2,,,
-61541150,2025-10-11 14:00,FC Lauterach,SK Bischofshofen,1,3,,,
-61541164,2025-10-16 17:30,TSV St. Johann,FC Pinzgau Saalfelden,3,0,,,
-61541158,2025-10-18 13:00,SCR Altach,FC Dornbirn,0,2,,,
-61541172,2025-10-25 12:00,FC Kitzbuhel,FC Kufstein,0,0,,,
-61541184,2025-10-25 12:00,SK Bischofshofen,SC Imst 1933,2,2,,,
-61541170,2025-10-25 12:30,FC Dornbirn,SV Seekirchen,3,0,,,
-61541180,2025-10-25 12:30,SV Wals-Grunau,TSV St. Johann,1,2,,,
-61541182,2025-10-25 14:00,FC Lauterach,SC Schwaz,2,4,,,
-61541176,2025-10-25 15:30,FC Pinzgau Saalfelden,SCR Altach,2,0,,,
-61541188,2025-10-31 17:00,SC Schwaz,SK Bischofshofen,3,0,,,
-61541194,2025-10-31 18:30,SV Seekirchen,FC Pinzgau Saalfelden,1,0,,,
-61541190,2025-11-01 13:00,SCR Altach,SV Wals-Grunau,1,4,,,
-61541210,2025-11-07 18:00,SV Wals-Grunau,SV Seekirchen,3,1,,,
-61541216,2025-11-07 18:00,SC Imst 1933,SC Schwaz,0,3,,,
-61541204,2025-11-08 13:00,FC Lustenau,FC Kufstein,3,2,,,
-61541206,2025-11-08 13:00,FC Pinzgau Saalfelden,SVG Reichenau,1,0,,,
-61541214,2025-11-08 13:00,SK Bischofshofen,SV Kuchl,0,1,,,
-61541212,2025-11-08 13:30,FC Lauterach,VfB Hohenems,2,1,,,
-61541208,2025-11-08 14:30,Wacker Innsbruck,TSV St. Johann,1,0,,,
-61541202,2025-11-08 15:30,FC Kitzbuhel,SCR Altach,4,1,,,
-61541232,2025-11-14 17:30,SVG Reichenau,SV Wals-Grunau,0,2,,,
-61541218,2025-11-15 13:00,FC Dornbirn,FC Pinzgau Saalfelden,1,0,,,
-61541220,2025-11-15 13:00,FC Kufstein,FC Lauterach,1,1,,,
-61541222,2025-11-15 13:00,SCR Altach,Wacker Innsbruck,2,2,,,
-61541224,2025-11-15 13:00,SV Kuchl,SC Imst 1933,3,1,,,
-61541228,2025-11-15 13:00,TSV St. Johann,FC Lustenau,5,1,,,
-61541230,2025-11-15 13:00,VfB Hohenems,SK Bischofshofen,1,3,,,
-61541226,2025-11-15 14:00,SV Seekirchen,FC Kitzbuhel,4,0,,,
-61541234,2026-03-14 13:00,FC Dornbirn,SV Wals-Grunau,4,2,1.666,3.900,3.800
-61541236,2026-03-14 13:00,FC Kufstein,SK Bischofshofen,1,0,,,
-61541242,2026-03-14 13:00,SV Seekirchen,Wacker Innsbruck,0,1,3.500,3.800,1.750
-61541246,2026-03-14 13:00,TSV St. Johann,FC Lauterach,3,0,,,
-61541248,2026-03-14 14:00,VfB Hohenems,SC Imst 1933,1,1,2.625,3.900,2.100
-62447260,2026-03-14 14:00,SC Schwaz,SV Kuchl,0,2,,,
-61541244,2026-03-15 09:30,SVG Reichenau,FC Kitzbuhel,1,0,,,
-61541238,2026-03-15 14:00,SCR Altach,FC Lustenau,0,0,,,
-61541256,2026-03-20 18:00,Wacker Innsbruck,SVG Reichenau,4,0,,,
-61541254,2026-03-21 13:00,FC Lustenau,SV Seekirchen,2,1,,,
-61541262,2026-03-21 13:00,SV Wals-Grunau,FC Pinzgau Saalfelden,1,1,1.615,3.800,4.200
-61541250,2026-03-21 14:00,SK Bischofshofen,TSV St. Johann,4,0,,,
-61541252,2026-03-21 14:00,FC Kitzbuhel,FC Dornbirn,0,4,,,
-61541258,2026-03-21 14:00,SC Schwaz,VfB Hohenems,1,3,,,
-61541260,2026-03-21 14:00,SC Imst 1933,FC Kufstein,1,0,,,
-61541264,2026-03-21 14:00,FC Lauterach,SCR Altach,4,3,,,
-61541272,2026-03-24 18:00,SCR Altach,SK Bischofshofen,1,3,,,
-61541270,2026-03-24 18:30,FC Pinzgau Saalfelden,FC Kitzbuhel,0,4,2.550,3.250,2.450
-61541276,2026-03-25 17:30,SVG Reichenau,FC Lustenau,1,3,1.500,4.100,4.750
-62103522,2026-03-25 17:30,SV Kuchl,VfB Hohenems,2,1,1.833,4.100,3.100
-61541266,2026-03-25 18:00,FC Dornbirn,Wacker Innsbruck,0,3,2.800,3.900,2.000
-61541268,2026-03-25 18:00,FC Kufstein,SC Schwaz,0,2,2.625,4.000,2.050
-61541274,2026-03-25 18:00,SV Seekirchen,FC Lauterach,3,2,1.166,7.500,9.000
-61541278,2026-03-25 18:00,TSV St. Johann,SC Imst 1933,2,3,,,
-61541282,2026-03-28 14:00,SK Bischofshofen,SV Seekirchen,3,1,2.200,3.750,2.600
-61541286,2026-03-28 14:00,FC Lustenau,FC Dornbirn,1,1,,,
-61541296,2026-03-28 14:00,FC Lauterach,SVG Reichenau,2,2,2.700,4.333,1.900
-61541288,2026-03-28 14:30,Wacker Innsbruck,FC Pinzgau Saalfelden,1,1,,,
-61541290,2026-03-29 12:00,SC Schwaz,TSV St. Johann,6,3,,,
-61541294,2026-03-29 12:30,SV Kuchl,FC Kufstein,1,3,1.600,4.000,4.200
-61541312,2026-04-02 17:45,TSV St. Johann,SV Kuchl,0,2,,,
-61541306,2026-04-03 16:00,SV Wals-Grunau,Wacker Innsbruck,0,2,6.250,4.333,1.400
-61541300,2026-04-03 16:30,FC Kufstein,VfB Hohenems,0,1,,,
-61541310,2026-04-03 16:30,SVG Reichenau,SK Bischofshofen,1,0,,,
-61541298,2026-04-03 17:00,FC Dornbirn,FC Lauterach,6,2,1.250,5.250,8.500
-61541302,2026-04-03 17:00,FC Pinzgau Saalfelden,FC Lustenau,1,3,,,
-61541304,2026-04-03 17:00,SCR Altach,SC Schwaz,1,1,,,
-61541308,2026-04-03 17:00,SV Seekirchen,SC Imst 1933,3,0,2.100,3.750,2.700
-61541316,2026-04-06 12:00,FC Lustenau,SV Wals-Grunau,1,2,3.100,4.100,1.800
-61541320,2026-04-06 12:00,SC Schwaz,SV Seekirchen,1,5,,,
-61541322,2026-04-06 12:00,SC Imst 1933,SVG Reichenau,6,1,,,
-61541326,2026-04-06 12:00,VfB Hohenems,TSV St. Johann,3,1,1.700,3.700,4.000
-61541328,2026-04-06 12:00,FC Lauterach,FC Pinzgau Saalfelden,1,0,2.200,3.600,2.600
-61541314,2026-04-06 13:00,SK Bischofshofen,FC Dornbirn,0,0,,,
-61541318,2026-04-06 14:00,Wacker Innsbruck,FC Kitzbuhel,1,2,,,
-61541324,2026-04-06 15:00,SV Kuchl,SCR Altach,4,1,,,
-61541334,2026-04-10 17:00,FC Pinzgau Saalfelden,SK Bischofshofen,1,3,,,
-61541340,2026-04-10 17:00,SV Seekirchen,SV Kuchl,2,1,,,
-61541344,2026-04-10 17:30,TSV St. Johann,FC Kufstein,2,0,,,
-61541330,2026-04-11 13:00,FC Dornbirn,SC Imst 1933,0,2,1.700,4.100,3.600
-61541338,2026-04-11 13:00,SV Wals-Grunau,FC Lauterach,3,0,1.380,4.500,5.750
-61541332,2026-04-11 14:00,FC Kitzbuhel,FC Lustenau,1,0,,,
-61541342,2026-04-12 08:30,SVG Reichenau,SC Schwaz,0,1,,,
-61541336,2026-04-12 13:00,SCR Altach,VfB Hohenems,0,2,,,
-61541354,2026-04-17 17:30,SC Imst 1933,FC Pinzgau Saalfelden,5,0,1.333,5.000,6.500
-61541346,2026-04-18 13:00,SK Bischofshofen,SV Wals-Grunau,3,0,2.150,3.600,2.750
-61541360,2026-04-18 13:00,FC Lauterach,FC Kitzbuhel,0,3,3.000,3.900,1.900
-61541348,2026-04-18 14:00,FC Kufstein,SCR Altach,0,0,,,
-61541358,2026-04-18 15:00,VfB Hohenems,SV Seekirchen,4,4,2.350,3.800,2.350
-61541352,2026-04-19 13:00,SC Schwaz,FC Dornbirn,2,0,,,
-61541356,2026-04-19 13:30,SV Kuchl,SVG Reichenau,3,0,1.950,3.500,3.200
-61541350,2026-04-19 14:00,Wacker Innsbruck,FC Lustenau,5,0,,,
-70352338,2026-04-21 17:00,FC Kitzbuhel,SV Wals-Grunau,0,1,,,
-70352344,2026-04-21 17:00,SC Imst 1933,SCR Altach,5,0,,,
-61541366,2026-04-24 17:00,FC Pinzgau Saalfelden,SC Schwaz,2,0,,,
-61541372,2026-04-24 17:00,SV Wals-Grunau,SC Imst 1933,1,5,2.600,3.600,2.150
-61541368,2026-04-24 17:30,Wacker Innsbruck,FC Lauterach,3,0,,,
-61541374,2026-04-24 17:30,SV Seekirchen,FC Kufstein,1,0,1.270,5.250,7.500
-61541370,2026-04-25 13:00,SCR Altach,TSV St. Johann,0,1,,,
-61541362,2026-04-25 15:00,FC Dornbirn,SV Kuchl,2,0,1.800,3.900,3.300
-61541376,2026-04-25 15:00,SVG Reichenau,VfB Hohenems,0,0,,,
-61541364,2026-04-26 13:00,FC Kitzbuhel,SK Bischofshofen,2,0,,,
-61541388,2026-04-30 17:00,TSV St. Johann,SV Seekirchen,0,2,,,
-61541378,2026-05-02 12:30,SK Bischofshofen,Wacker Innsbruck,0,4,,,
-61541380,2026-05-02 13:30,FC Kufstein,SVG Reichenau,1,1,,,
-61541382,2026-05-02 14:00,SC Schwaz,SV Wals-Grunau,1,1,,,
-61541392,2026-05-02 14:00,FC Lauterach,FC Lustenau,2,3,2.250,3.800,2.500
-61541384,2026-05-02 15:00,SC Imst 1933,FC Kitzbuhel,2,0,,,
-61541390,2026-05-02 15:00,VfB Hohenems,FC Dornbirn,4,1,2.875,4.000,1.909
-61541386,2026-05-03 12:30,SV Kuchl,FC Pinzgau Saalfelden,1,0,,,
-61541402,2026-05-08 17:30,Wacker Innsbruck,SC Imst 1933,2,1,1.450,4.750,5.000
-61541406,2026-05-09 12:00,SV Seekirchen,SCR Altach,3,4,,,
-61541404,2026-05-09 12:30,SV Wals-Grunau,SV Kuchl,1,2,1.909,4.200,2.800
-61541408,2026-05-09 13:30,SVG Reichenau,TSV St. Johann,2,0,,,
-61541398,2026-05-09 14:00,FC Lustenau,SK Bischofshofen,1,4,2.700,3.900,2.050
-61541394,2026-05-09 15:00,FC Dornbirn,FC Kufstein,3,3,1.363,4.500,6.250
-61541396,2026-05-09 15:00,FC Kitzbuhel,SC Schwaz,2,0,,,
-61541400,2026-05-09 15:00,FC Pinzgau Saalfelden,VfB Hohenems,2,2,,,
-61541420,2026-05-14 15:00,SV Kuchl,FC Kitzbuhel,3,1,1.833,3.900,3.200
-61541410,2026-05-16 13:00,SK Bischofshofen,FC Lauterach,4,1,1.222,6.500,7.500
-61541412,2026-05-16 15:00,FC Kufstein,FC Pinzgau Saalfelden,2,0,,,
-61541416,2026-05-16 15:00,SC Imst 1933,FC Lustenau,4,1,,,
-61541422,2026-05-16 15:00,TSV St. Johann,FC Dornbirn,0,1,,,
-61541424,2026-05-16 15:00,VfB Hohenems,SV Wals-Grunau,3,3,2.100,3.700,2.700
-61541418,2026-05-17 13:00,SCR Altach,SVG Reichenau,1,0,,,
-61541414,2026-05-17 14:00,SC Schwaz,Wacker Innsbruck,1,5,,,
-61541438,2026-05-22 16:30,SVG Reichenau,SV Seekirchen,4,3,,,
-61541428,2026-05-22 17:00,FC Kitzbuhel,VfB Hohenems,2,1,,,
-61541436,2026-05-22 17:00,SV Wals-Grunau,FC Kufstein,4,1,,,
-61541440,2026-05-22 17:00,FC Lauterach,SC Imst 1933,1,3,5.000,5.250,1.363
-61541434,2026-05-22 17:30,Wacker Innsbruck,SV Kuchl,4,3,,,
-61541432,2026-05-23 11:00,FC Pinzgau Saalfelden,TSV St. Johann,1,4,2.500,3.300,2.400
-61541430,2026-05-23 13:30,FC Lustenau,SC Schwaz,2,2,2.350,4.000,2.300
-61541426,2026-05-23 15:30,FC Dornbirn,SCR Altach,2,0,,,
-61541488,2026-05-27 17:00,VfB Hohenems,FC Lauterach,4,1,1.333,5.750,5.250
-61541442,2026-05-29 17:00,FC Kufstein,FC Kitzbuhel,3,1,,,
-61541454,2026-05-29 17:30,TSV St. Johann,SV Wals-Grunau,6,1,,,
-61541444,2026-05-30 13:00,SC Schwaz,FC Lauterach,3,0,,,
-61541446,2026-05-30 13:30,SC Imst 1933,SK Bischofshofen,2,0,,,
-61541448,2026-05-30 13:30,SCR Altach,FC Pinzgau Saalfelden,2,0,,,
-61541450,2026-05-30 13:30,SV Kuchl,FC Lustenau,3,1,1.444,5.250,4.500
-61541452,2026-05-30 13:30,SV Seekirchen,FC Dornbirn,4,3,2.000,4.000,2.700
-61541456,2026-05-30 14:00,VfB Hohenems,Wacker Innsbruck,1,4,3.600,4.100,1.700
-61541458,2026-06-03 17:00,SK Bischofshofen,SC Schwaz,0,0,1.666,3.900,3.800
-61541466,2026-06-03 17:00,FC Pinzgau Saalfelden,SV Seekirchen,0,0,,,
-61541468,2026-06-03 17:30,Wacker Innsbruck,FC Kufstein,0,0,,,
-61541464,2026-06-04 09:00,FC Lustenau,VfB Hohenems,2,2,3.100,4.100,1.909
-61541470,2026-06-04 12:00,SV Wals-Grunau,SCR Altach,1,2,,,
-61541472,2026-06-04 12:00,FC Lauterach,SV Kuchl,0,3,6.500,6.500,1.222
-61541462,2026-06-04 12:30,FC Kitzbuhel,TSV St. Johann,0,0,2.100,3.900,2.600
-61541460,2026-06-04 16:00,FC Dornbirn,SVG Reichenau,1,2,1.550,4.333,4.200
-61541482,2026-06-06 12:00,SV Seekirchen,SV Wals-Grunau,4,2,1.480,4.500,4.750
-61541476,2026-06-06 14:00,SC Schwaz,SC Imst 1933,1,2,,,
-61541474,2026-06-06 15:00,FC Kufstein,FC Lustenau,4,1,,,
-61541480,2026-06-07 09:00,SV Kuchl,SK Bischofshofen,2,0,1.750,4.000,3.400
-61541478,2026-06-07 13:00,SCR Altach,FC Kitzbuhel,2,5,,,
-61541484,2026-06-07 15:00,SVG Reichenau,FC Pinzgau Saalfelden,4,0,,,
-61541486,2026-06-07 15:00,TSV St. Johann,Wacker Innsbruck,1,2,,,
-61541500,2026-06-12 17:30,Imst,Kuchl,3,0,1.650,4.200,3.700
-61541490,2026-06-13 15:00,Bischofshofen,Hohenems,3,7,,,
-61541492,2026-06-13 15:00,Kitzbuhel,Seekirchen,4,1,,,
-61541494,2026-06-13 15:00,FC Lustenau,St. Johann,3,1,2.450,4.333,2.150
-61541496,2026-06-13 15:00,Saalfelden,Dornbirn,2,1,,,
-61541502,2026-06-13 15:00,Wals-Grunau,Reichenau,3,1,1.950,4.500,2.750
-61541504,2026-06-13 15:00,Lauterach,Kufstein,6,2,3.300,4.500,1.666
-61541498,2026-06-13 16:00,Wacker Innsbruck,Altach,5,0,,,
-72549102,2026-07-31 17:00,FC Kitzbuhel,FC Lustenau,2,0,1.444,4.500,5.000
-72549104,2026-07-31 17:00,SC Imst 1933,SVG Reichenau,3,0,,,
-72549106,2026-07-31 17:00,SV Fugen,SC Schwaz,2,3,,,
-72549112,2026-08-01 15:00,SK St. Johann,FC Kufstein,1,3,2.000,4.000,2.700
-72549110,2026-08-01 16:00,SV Lochau,VfB Hohenems,2,3,2.800,4.100,1.950
-72549116,2026-08-02 12:30,WSG Tirol,FC Dornbirn,1,1,,,
-72549108,2026-08-02 15:00,SC Rothis,FC Lauterach,3,2,,,
-72549114,2026-08-02 15:00,FC Wolfurt,SCR Altach,2,2,,,
-72549120,2026-08-07 16:00,VfB Hohenems,FC Lustenau,6,0,1.270,5.250,7.000
-72549118,2026-08-07 16:15,SVG Reichenau,WSG Tirol,1,0,,,
-72549130,2026-08-07 17:30,FC Kufstein,SV Lochau,1,1,,,
-72549126,2026-08-08 13:30,FC Lauterach,SC Imst 1933,0,1,,,
-72549128,2026-08-08 15:00,SCR Altach,SK St. Johann,0,2,,,
-72549122,2026-08-08 16:00,SC Schwaz,SC Rothis,2,1,,,
-72549124,2026-08-08 16:00,FC Dornbirn,FC Wolfurt,3,1,,,
-72549132,2026-08-08 16:00,FC Kitzbuhel,SV Fugen,0,2,,,
-72549136,2026-08-14 16:00,FC Wolfurt,SVG Reichenau,2,1,2.900,4.333,1.850
-72549140,2026-08-14 17:00,FC Kitzbuhel,SC Rothis,4,0,,,
-72549144,2026-08-15 14:00,SV Lochau,SCR Altach,2,1,,,
-72549134,2026-08-15 15:00,FC Lustenau,FC Kufstein,1,1,,,
-72549138,2026-08-15 15:00,SK St. Johann,FC Dornbirn,0,1,,,
-72549146,2026-08-15 15:00,FC Lauterach,SC Schwaz,3,3,2.750,4.000,2.000
-72549148,2026-08-15 15:30,SC Imst 1933,WSG Tirol,2,0,,,
-72549142,2026-08-15 17:00,SV Fugen,VfB Hohenems,0,2,,,
-72549162,2026-08-21 16:30,FC Dornbirn,SV Lochau,7,0,1.380,4.500,5.750
-72549164,2026-08-21 17:30,SK St. Johann,SVG Reichenau,3,3,,,
-72549158,2026-08-22 16:00,FC Kufstein,SV Fugen,1,3,,,
-72549156,2026-08-23 08:30,SCR Altach,FC Lustenau,3,1,,,
-72549154,2026-08-23 12:30,WSG Tirol,FC Wolfurt,5,1,,,
-72549152,2026-08-23 15:00,SC Schwaz,SC Imst 1933,0,2,,,
-72549160,2026-08-23 15:00,VfB Hohenems,SC Rothis,1,2,1.222,5.750,8.000
-72549150,2026-08-23 16:00,FC Kitzbuhel,FC Lauterach,4,2,1.333,4.750,6.250
-72549178,2026-08-28 17:30,SK St. Johann,WSG Tirol,2,1,,,
-72549174,2026-08-29 12:00,SV Lochau,SVG Reichenau,1,2,,,
-72549172,2026-08-29 14:00,SC Imst 1933,FC Wolfurt,2,1,,,
-72549180,2026-08-29 14:00,FC Lauterach,VfB Hohenems,1,3,4.500,4.500,1.500
-72549166,2026-08-29 15:00,FC Lustenau,FC Dornbirn,1,4,,,
-72549176,2026-08-29 15:00,SV Fugen,SCR Altach,4,2,,,
-72549170,2026-08-30 12:00,SC Rothis,FC Kufstein,0,0,2.150,3.700,2.600
-72549168,2026-08-30 15:00,SC Schwaz,FC Kitzbuhel,3,1,,,
-72549192,2026-09-04 17:00,FC Kufstein,FC Lauterach,2,2,1.850,3.900,3.100
-72549194,2026-09-05 12:30,WSG Tirol,SV Lochau,3,2,,,
-72549188,2026-09-05 13:00,SVG Reichenau,FC Lustenau,0,0,,,
-72549182,2026-09-05 15:00,VfB Hohenems,SC Schwaz,3,1,,,
-72549190,2026-09-05 16:00,FC Dornbirn,SV Fugen,4,0,1.420,4.333,5.500
-72549184,2026-09-06 12:00,SCR Altach,SC Rothis,3,3,,,
-72549186,2026-09-06 13:00,FC Wolfurt,SK St. Johann,0,1,2.600,3.900,2.100
-72549196,2026-09-09 17:30,FC Kitzbuhel,SC Imst 1933,3,2,,,
-72549206,2026-09-11 16:00,SV Fugen,SVG Reichenau,2,2,,,
-72549198,2026-09-12 13:30,FC Lustenau,WSG Tirol,1,3,,,
-72549200,2026-09-12 14:00,SV Lochau,FC Wolfurt,3,2,2.050,4.000,2.700
-72549202,2026-09-12 14:00,FC Lauterach,SCR Altach,1,1,,,
-72549210,2026-09-12 14:00,SC Imst 1933,SK St. Johann,0,0,,,
-72549204,2026-09-13 09:00,SC Rothis,FC Dornbirn,2,2,3.700,3.750,1.750
-72549208,2026-09-13 13:00,SC Schwaz,FC Kufstein,2,1,,,
-72549212,2026-09-13 13:00,FC Kitzbuhel,VfB Hohenems,1,2,,,
-72549216,2026-09-18 16:30,FC Dornbirn,FC Lauterach,1,0,1.250,5.500,8.000
-72549222,2026-09-19 12:00,SK St. Johann,SV Lochau,3,1,1.571,4.200,4.100
-72549224,2026-09-19 12:00,SVG Reichenau,SC Rothis,0,2,,,
-72549226,2026-09-19 13:00,FC Kufstein,FC Kitzbuhel,1,2,3.000,3.700,2.000
-72549228,2026-09-19 14:00,FC Wolfurt,FC Lustenau,2,3,,,
-72549214,2026-09-19 15:00,VfB Hohenems,SC Imst 1933,2,0,2.150,3.800,2.550
-72549220,2026-09-20 08:30,WSG Tirol,SV Fugen,6,0,,,
-72549218,2026-09-20 13:00,SCR Altach,SC Schwaz,2,4,,,
-72549230,2026-09-26 13:30,FC Lustenau,SK St. Johann,1,1,3.400,4.000,1.750
-72549234,2026-09-26 14:00,SC Imst 1933,SV Lochau,3,0,,,
-72549236,2026-09-26 14:00,SC Schwaz,FC Dornbirn,3,0,,,
-72549238,2026-09-26 14:00,FC Lauterach,SVG Reichenau,3,0,2.700,3.800,2.100
-72549244,2026-09-26 14:00,FC Kitzbuhel,SCR Altach,4,0,,,
-72549240,2026-09-26 15:00,SV Fugen,FC Wolfurt,6,1,,,
-72549242,2026-09-27 12:00,SC Rothis,WSG Tirol,3,4,,,
-72549232,2026-09-27 13:00,VfB Hohenems,FC Kufstein,3,1,1.270,5.500,7.500
-72549248,2026-10-03 12:00,SV Lochau,FC Lustenau,1,1,2.000,3.900,2.800
-72549252,2026-10-03 12:30,SK St. Johann,SV Fugen,5,1,1.833,4.333,2.900
-72549246,2026-10-03 14:00,SVG Reichenau,SC Schwaz,1,2,,,
-72549250,2026-10-03 14:00,FC Dornbirn,FC Kitzbuhel,0,2,1.727,4.000,3.500
-72549256,2026-10-03 14:00,FC Wolfurt,SC Rothis,0,3,,,
-72549258,2026-10-03 14:00,FC Kufstein,SC Imst 1933,1,2,4.500,4.200,1.500
-72549260,2026-10-03 14:00,SCR Altach,VfB Hohenems,1,2,,,
-72549254,2026-10-04 12:30,WSG Tirol,FC Lauterach,6,1,,,
-72549264,2026-10-10 12:00,SVG Reichenau,FC Kitzbuhel,3,1,,,
-72549262,2026-10-10 14:00,VfB Hohenems,FC Dornbirn,1,2,1.500,4.500,4.333
-72549266,2026-10-10 14:00,FC Lauterach,FC Wolfurt,4,2,1.571,4.500,3.900
-72549268,2026-10-10 14:00,SV Fugen,SV Lochau,1,2,,,
-72549274,2026-10-10 14:00,FC Kufstein,SCR Altach,4,0,,,
-72549276,2026-10-10 14:00,SC Imst 1933,FC Lustenau,7,2,,,
-72549272,2026-10-10 15:00,SC Schwaz,WSG Tirol,4,3,,,
-72549270,2026-10-11 12:00,SC Rothis,SK St. Johann,2,1,2.625,3.700,2.200
-72549280,2026-10-17 12:00,SV Lochau,SC Rothis,1,2,2.500,4.000,2.150
-72549278,2026-10-17 12:45,FC Lustenau,SV Fugen,3,4,,,
-72549286,2026-10-17 13:00,FC Dornbirn,FC Kufstein,0,0,1.444,4.500,5.000
-72549292,2026-10-18 08:30,WSG Tirol,FC Kitzbuhel,2,2,,,
-72549282,2026-10-18 13:00,FC Wolfurt,SC Schwaz,2,5,4.333,5.000,1.480
-72549284,2026-10-18 13:00,SVG Reichenau,VfB Hohenems,3,0,,,
-72549288,2026-10-18 13:00,SK St. Johann,FC Lauterach,1,3,,,
-72549290,2026-10-18 13:00,SCR Altach,SC Imst 1933,0,2,,,
-72549298,2026-10-23 17:00,FC Kufstein,SVG Reichenau,3,1,2.250,3.700,2.500
-72549300,2026-10-23 17:00,FC Kitzbuhel,FC Wolfurt,3,2,,,
-72549302,2026-10-23 17:00,SC Schwaz,SK St. Johann,3,1,,,
-72549308,2026-10-23 17:00,SC Imst 1933,SV Fugen,2,1,,,
-72549550,2026-10-23 17:00,FC Dornbirn,SCR Altach,0,2,,,
-72549306,2026-10-24 12:00,SC Rothis,FC Lustenau,4,3,,,
-72549294,2026-10-24 14:00,VfB Hohenems,WSG Tirol,5,2,,,
-72549296,2026-10-24 14:00,FC Lauterach,SV Lochau,2,0,1.850,3.900,3.100
-72549324,2026-10-30 17:30,SVG Reichenau,SCR Altach,0,0,,,
-72549310,2026-10-31 13:00,FC Lustenau,FC Lauterach,1,1,,,
-72549320,2026-10-31 13:00,SV Lochau,SC Schwaz,0,4,5.000,4.333,1.450
-72549322,2026-10-31 13:00,FC Wolfurt,VfB Hohenems,1,4,8.500,6.250,1.222
-72549314,2026-10-31 13:30,WSG Tirol,FC Kufstein,0,2,,,
-72549312,2026-10-31 14:00,SC Imst 1933,FC Dornbirn,3,0,,,
-72549318,2026-10-31 14:00,SV Fugen,SC Rothis,2,1,,,
-72549316,2026-10-31 15:00,SK St. Johann,FC Kitzbuhel,2,0,,,
-72549326,2026-11-07 13:00,VfB Hohenems,SK St. Johann,4,0,1.444,4.500,5.250
-72549330,2026-11-07 13:00,FC Kufstein,FC Wolfurt,1,1,1.250,5.750,7.500
-72549332,2026-11-07 13:00,SC Schwaz,FC Lustenau,6,0,,,
-72549336,2026-11-07 13:00,FC Dornbirn,SVG Reichenau,0,0,1.600,4.333,3.900
-72549338,2026-11-07 13:00,FC Kitzbuhel,SV Lochau,3,0,,,
-72549340,2026-11-07 13:30,FC Lauterach,SV Fugen,1,5,,,
-72549328,2026-11-08 13:00,SCR Altach,WSG Tirol,0,3,,,
-72549334,2026-11-08 13:00,SC Rothis,SC Imst 1933,0,3,3.600,4.333,1.666
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+51228933,2025-05-24 14:00,SK Bischofshofen,FC Lauterach,4,1,,,,,,
+51228937,2025-05-24 14:00,FC Dornbirn,FC Kitzbuhel,0,0,,,,,,
+51228941,2025-05-24 15:00,SCR Altach,SV Kuchl,3,2,,,,,,
+51228951,2025-05-28 17:30,FC Pinzgau Saalfelden,SK Bischofshofen,1,2,,,,,,
+51228957,2025-05-28 17:30,SV Kuchl,TSV St. Johann,3,1,,,,,,
+51228955,2025-05-29 09:00,SC Rothis,FC Dornbirn,0,3,,,,,,
+51228963,2025-05-29 09:00,FC Lauterach,VfB Hohenems,2,2,,,,,,
+51228959,2025-05-29 12:30,SV Wals-Grunau,Austria Salzburg,1,0,,,,,,
+51228961,2025-05-29 12:30,SVG Reichenau,SCR Altach,5,2,,,,,,
+51228973,2025-05-31 13:00,SCR Altach,FC Lauterach,3,0,,,,,,
+54905029,2025-06-01 09:00,SV Wals-Grunau,SV Kuchl,3,1,,,,,,
+51228983,2025-06-07 15:00,FC Pinzgau Saalfelden,SCR Altach,2,0,,,,,,
+51228987,2025-06-07 15:00,SC Rothis,FC Kufstein,5,4,,,,,,
+51228989,2025-06-07 15:00,Austria Salzburg,SC Schwaz,1,0,,,,,,
+51228991,2025-06-07 15:00,SV Wals-Grunau,FC Dornbirn,6,0,,,,,,
+51228995,2025-06-07 15:00,FC Lauterach,TSV St. Johann,3,0,,,,,,
+61540990,2025-08-08 16:00,VfB Hohenems,SC Schwaz,1,1,,,,,,
+61540988,2025-08-08 17:00,TSV St. Johann,SK Bischofshofen,3,1,,,,,,
+61540986,2025-08-09 15:00,SV Seekirchen,FC Lustenau,6,0,,,,,,
+61540978,2025-08-09 16:00,FC Dornbirn,FC Kitzbuhel,4,2,,,,,,
+61540984,2025-08-10 08:30,SCR Altach,FC Lauterach,2,0,,,,,,
+61541006,2025-08-15 16:00,FC Lauterach,SV Seekirchen,2,2,,,,,,
+61541000,2025-08-15 17:30,Wacker Innsbruck,FC Dornbirn,4,0,,,,,,
+61540996,2025-08-16 14:00,FC Kitzbuhel,FC Pinzgau Saalfelden,1,1,,,,,,
+61540998,2025-08-16 14:00,FC Lustenau,SVG Reichenau,2,0,,,,,,
+61540994,2025-08-16 15:00,SK Bischofshofen,SCR Altach,5,0,,,,,,
+61541280,2025-08-16 15:00,VfB Hohenems,SV Kuchl,1,1,,,,,,
+61541018,2025-08-22 16:00,SCR Altach,SC Imst 1933,1,2,,,,,,
+61541024,2025-08-23 13:45,SV Wals-Grunau,FC Kitzbuhel,1,2,,,,,,
+61541012,2025-08-23 16:00,FC Dornbirn,FC Lustenau,0,4,,,,,,
+61541016,2025-08-24 15:00,FC Pinzgau Saalfelden,Wacker Innsbruck,0,2,,,,,,
+61541026,2025-08-30 15:00,SK Bischofshofen,SVG Reichenau,4,1,,,,,,
+61541036,2025-08-30 15:00,VfB Hohenems,FC Kufstein,1,1,,,,,,
+61541050,2025-09-05 17:00,SV Seekirchen,SC Schwaz,3,0,,,,,,
+61541048,2025-09-06 13:30,SCR Altach,SV Kuchl,3,4,,,,,,
+61541056,2025-09-06 13:30,SV Wals-Grunau,FC Lustenau,6,3,,,,,,
+61541042,2025-09-06 15:00,FC Dornbirn,SK Bischofshofen,3,0,,,,,,
+61541046,2025-09-06 15:30,FC Pinzgau Saalfelden,FC Lauterach,2,1,,,,,,
+61541044,2025-09-07 09:00,FC Kitzbuhel,Wacker Innsbruck,0,3,,,,,,
+61541072,2025-09-13 15:00,SC Imst 1933,FC Dornbirn,0,0,,,,,,
+61541066,2025-09-14 08:30,SV Kuchl,SV Seekirchen,0,4,,,,,,
+62603130,2025-09-16 17:00,FC Lauterach,TSV St. Johann,1,1,,,,,,
+61541084,2025-09-20 12:30,SCR Altach,FC Kufstein,3,1,,,,,,
+61541086,2025-09-20 12:30,SV Seekirchen,VfB Hohenems,2,2,,,,,,
+61541076,2025-09-20 15:00,FC Dornbirn,SC Schwaz,5,1,,,,,,
+61541082,2025-09-20 15:30,FC Pinzgau Saalfelden,SC Imst 1933,1,2,,,,,,
+61541102,2025-09-23 16:30,FC Lauterach,Wacker Innsbruck,2,3,,,,,,
+61541090,2025-09-23 17:30,SK Bischofshofen,FC Kitzbuhel,1,0,,,,,,
+61541098,2025-09-24 17:00,TSV St. Johann,SCR Altach,1,1,,,,,,
+61541110,2025-09-27 13:30,FC Lustenau,FC Lauterach,2,4,,,,,,
+61541118,2025-09-27 15:00,SV Seekirchen,TSV St. Johann,5,1,,,,,,
+61541106,2025-09-28 09:00,FC Dornbirn,VfB Hohenems,1,0,,,,,,
+61541134,2025-10-04 12:00,SK Bischofshofen,FC Lustenau,4,0,,,,,,
+61541128,2025-10-04 13:00,SCR Altach,SV Seekirchen,2,6,,,,,,
+61541130,2025-10-04 14:00,TSV St. Johann,SVG Reichenau,0,2,,,,,,
+61541148,2025-10-11 12:30,SV Wals-Grunau,VfB Hohenems,3,3,,,,,,
+61541138,2025-10-11 13:00,FC Dornbirn,TSV St. Johann,3,1,,,,,,
+61541140,2025-10-11 14:00,FC Kitzbuhel,SV Kuchl,1,2,,,,,,
+61541150,2025-10-11 14:00,FC Lauterach,SK Bischofshofen,1,3,,,,,,
+61541164,2025-10-16 17:30,TSV St. Johann,FC Pinzgau Saalfelden,3,0,,,,,,
+61541158,2025-10-18 13:00,SCR Altach,FC Dornbirn,0,2,,,,,,
+61541172,2025-10-25 12:00,FC Kitzbuhel,FC Kufstein,0,0,,,,,,
+61541184,2025-10-25 12:00,SK Bischofshofen,SC Imst 1933,2,2,,,,,,
+61541170,2025-10-25 12:30,FC Dornbirn,SV Seekirchen,3,0,,,,,,
+61541180,2025-10-25 12:30,SV Wals-Grunau,TSV St. Johann,1,2,,,,,,
+61541182,2025-10-25 14:00,FC Lauterach,SC Schwaz,2,4,,,,,,
+61541176,2025-10-25 15:30,FC Pinzgau Saalfelden,SCR Altach,2,0,,,,,,
+61541188,2025-10-31 17:00,SC Schwaz,SK Bischofshofen,3,0,,,,,,
+61541194,2025-10-31 18:30,SV Seekirchen,FC Pinzgau Saalfelden,1,0,,,,,,
+61541190,2025-11-01 13:00,SCR Altach,SV Wals-Grunau,1,4,,,,,,
+61541210,2025-11-07 18:00,SV Wals-Grunau,SV Seekirchen,3,1,,,,,,
+61541216,2025-11-07 18:00,SC Imst 1933,SC Schwaz,0,3,,,,,,
+61541204,2025-11-08 13:00,FC Lustenau,FC Kufstein,3,2,,,,,,
+61541206,2025-11-08 13:00,FC Pinzgau Saalfelden,SVG Reichenau,1,0,,,,,,
+61541214,2025-11-08 13:00,SK Bischofshofen,SV Kuchl,0,1,,,,,,
+61541212,2025-11-08 13:30,FC Lauterach,VfB Hohenems,2,1,,,,,,
+61541208,2025-11-08 14:30,Wacker Innsbruck,TSV St. Johann,1,0,,,,,,
+61541202,2025-11-08 15:30,FC Kitzbuhel,SCR Altach,4,1,,,,,,
+61541232,2025-11-14 17:30,SVG Reichenau,SV Wals-Grunau,0,2,,,,,,
+61541218,2025-11-15 13:00,FC Dornbirn,FC Pinzgau Saalfelden,1,0,,,,,,
+61541220,2025-11-15 13:00,FC Kufstein,FC Lauterach,1,1,,,,,,
+61541222,2025-11-15 13:00,SCR Altach,Wacker Innsbruck,2,2,,,,,,
+61541224,2025-11-15 13:00,SV Kuchl,SC Imst 1933,3,1,,,,,,
+61541228,2025-11-15 13:00,TSV St. Johann,FC Lustenau,5,1,,,,,,
+61541230,2025-11-15 13:00,VfB Hohenems,SK Bischofshofen,1,3,,,,,,
+61541226,2025-11-15 14:00,SV Seekirchen,FC Kitzbuhel,4,0,,,,,,
+61541234,2026-03-14 13:00,FC Dornbirn,SV Wals-Grunau,4,2,1.666,3.900,3.800,3,1.875,1.925
+61541236,2026-03-14 13:00,FC Kufstein,SK Bischofshofen,1,0,,,,,,
+61541242,2026-03-14 13:00,SV Seekirchen,Wacker Innsbruck,0,1,3.500,3.800,1.750,3,1.875,1.925
+61541246,2026-03-14 13:00,TSV St. Johann,FC Lauterach,3,0,,,,,,
+61541248,2026-03-14 14:00,VfB Hohenems,SC Imst 1933,1,1,2.625,3.900,2.100,2.75,1.775,2.025
+62447260,2026-03-14 14:00,SC Schwaz,SV Kuchl,0,2,,,,,,
+61541244,2026-03-15 09:30,SVG Reichenau,FC Kitzbuhel,1,0,,,,,,
+61541238,2026-03-15 14:00,SCR Altach,FC Lustenau,0,0,,,,,,
+61541256,2026-03-20 18:00,Wacker Innsbruck,SVG Reichenau,4,0,,,,,,
+61541254,2026-03-21 13:00,FC Lustenau,SV Seekirchen,2,1,,,,,,
+61541262,2026-03-21 13:00,SV Wals-Grunau,FC Pinzgau Saalfelden,1,1,1.615,3.800,4.200,3,1.950,1.850
+61541250,2026-03-21 14:00,SK Bischofshofen,TSV St. Johann,4,0,,,,,,
+61541252,2026-03-21 14:00,FC Kitzbuhel,FC Dornbirn,0,4,,,,,,
+61541258,2026-03-21 14:00,SC Schwaz,VfB Hohenems,1,3,,,,,,
+61541260,2026-03-21 14:00,SC Imst 1933,FC Kufstein,1,0,,,,,,
+61541264,2026-03-21 14:00,FC Lauterach,SCR Altach,4,3,,,,,,
+61541272,2026-03-24 18:00,SCR Altach,SK Bischofshofen,1,3,,,,,,
+61541270,2026-03-24 18:30,FC Pinzgau Saalfelden,FC Kitzbuhel,0,4,2.550,3.250,2.450,2.5,2.000,1.800
+61541276,2026-03-25 17:30,SVG Reichenau,FC Lustenau,1,3,1.500,4.100,4.750,3.25,1.900,1.900
+62103522,2026-03-25 17:30,SV Kuchl,VfB Hohenems,2,1,1.833,4.100,3.100,3,1.825,1.975
+61541266,2026-03-25 18:00,FC Dornbirn,Wacker Innsbruck,0,3,2.800,3.900,2.000,3,1.975,1.825
+61541268,2026-03-25 18:00,FC Kufstein,SC Schwaz,0,2,2.625,4.000,2.050,2.75,1.800,2.000
+61541274,2026-03-25 18:00,SV Seekirchen,FC Lauterach,3,2,1.166,7.500,9.000,3.5,1.925,1.875
+61541278,2026-03-25 18:00,TSV St. Johann,SC Imst 1933,2,3,,,,,,
+61541282,2026-03-28 14:00,SK Bischofshofen,SV Seekirchen,3,1,2.200,3.750,2.600,3,1.825,1.975
+61541286,2026-03-28 14:00,FC Lustenau,FC Dornbirn,1,1,,,,,,
+61541296,2026-03-28 14:00,FC Lauterach,SVG Reichenau,2,2,2.700,4.333,1.900,3.25,1.975,1.825
+61541288,2026-03-28 14:30,Wacker Innsbruck,FC Pinzgau Saalfelden,1,1,,,,,,
+61541290,2026-03-29 12:00,SC Schwaz,TSV St. Johann,6,3,,,,,,
+61541294,2026-03-29 12:30,SV Kuchl,FC Kufstein,1,3,1.600,4.000,4.200,3,1.900,1.900
+61541312,2026-04-02 17:45,TSV St. Johann,SV Kuchl,0,2,,,,,,
+61541306,2026-04-03 16:00,SV Wals-Grunau,Wacker Innsbruck,0,2,6.250,4.333,1.400,3,1.900,1.900
+61541300,2026-04-03 16:30,FC Kufstein,VfB Hohenems,0,1,,,,,,
+61541310,2026-04-03 16:30,SVG Reichenau,SK Bischofshofen,1,0,,,,,,
+61541298,2026-04-03 17:00,FC Dornbirn,FC Lauterach,6,2,1.250,5.250,8.500,3.5,1.850,1.950
+61541302,2026-04-03 17:00,FC Pinzgau Saalfelden,FC Lustenau,1,3,,,,,,
+61541304,2026-04-03 17:00,SCR Altach,SC Schwaz,1,1,,,,,,
+61541308,2026-04-03 17:00,SV Seekirchen,SC Imst 1933,3,0,2.100,3.750,2.700,3.25,1.975,1.825
+61541316,2026-04-06 12:00,FC Lustenau,SV Wals-Grunau,1,2,3.100,4.100,1.800,3.25,1.900,1.900
+61541320,2026-04-06 12:00,SC Schwaz,SV Seekirchen,1,5,,,,,,
+61541322,2026-04-06 12:00,SC Imst 1933,SVG Reichenau,6,1,,,,,,
+61541326,2026-04-06 12:00,VfB Hohenems,TSV St. Johann,3,1,1.700,3.700,4.000,2.75,1.825,1.975
+61541328,2026-04-06 12:00,FC Lauterach,FC Pinzgau Saalfelden,1,0,2.200,3.600,2.600,2.75,1.800,2.000
+61541314,2026-04-06 13:00,SK Bischofshofen,FC Dornbirn,0,0,,,,,,
+61541318,2026-04-06 14:00,Wacker Innsbruck,FC Kitzbuhel,1,2,,,,,,
+61541324,2026-04-06 15:00,SV Kuchl,SCR Altach,4,1,,,,,,
+61541334,2026-04-10 17:00,FC Pinzgau Saalfelden,SK Bischofshofen,1,3,,,,,,
+61541340,2026-04-10 17:00,SV Seekirchen,SV Kuchl,2,1,,,,,,
+61541344,2026-04-10 17:30,TSV St. Johann,FC Kufstein,2,0,,,,,,
+61541330,2026-04-11 13:00,FC Dornbirn,SC Imst 1933,0,2,1.700,4.100,3.600,3.25,1.925,1.875
+61541338,2026-04-11 13:00,SV Wals-Grunau,FC Lauterach,3,0,1.380,4.500,5.750,3.5,1.900,1.900
+61541332,2026-04-11 14:00,FC Kitzbuhel,FC Lustenau,1,0,,,,,,
+61541342,2026-04-12 08:30,SVG Reichenau,SC Schwaz,0,1,,,,,,
+61541336,2026-04-12 13:00,SCR Altach,VfB Hohenems,0,2,,,,,,
+61541354,2026-04-17 17:30,SC Imst 1933,FC Pinzgau Saalfelden,5,0,1.333,5.000,6.500,3,2.000,1.800
+61541346,2026-04-18 13:00,SK Bischofshofen,SV Wals-Grunau,3,0,2.150,3.600,2.750,3,1.975,1.825
+61541360,2026-04-18 13:00,FC Lauterach,FC Kitzbuhel,0,3,3.000,3.900,1.900,3,1.850,1.950
+61541348,2026-04-18 14:00,FC Kufstein,SCR Altach,0,0,,,,,,
+61541358,2026-04-18 15:00,VfB Hohenems,SV Seekirchen,4,4,2.350,3.800,2.350,3,1.825,1.975
+61541352,2026-04-19 13:00,SC Schwaz,FC Dornbirn,2,0,,,,,,
+61541356,2026-04-19 13:30,SV Kuchl,SVG Reichenau,3,0,1.950,3.500,3.200,3,1.850,1.950
+61541350,2026-04-19 14:00,Wacker Innsbruck,FC Lustenau,5,0,,,,,,
+70352338,2026-04-21 17:00,FC Kitzbuhel,SV Wals-Grunau,0,1,,,,,,
+70352344,2026-04-21 17:00,SC Imst 1933,SCR Altach,5,0,,,,,,
+61541366,2026-04-24 17:00,FC Pinzgau Saalfelden,SC Schwaz,2,0,,,,,,
+61541372,2026-04-24 17:00,SV Wals-Grunau,SC Imst 1933,1,5,2.600,3.600,2.150,3,1.950,1.850
+61541368,2026-04-24 17:30,Wacker Innsbruck,FC Lauterach,3,0,,,,,,
+61541374,2026-04-24 17:30,SV Seekirchen,FC Kufstein,1,0,1.270,5.250,7.500,3.25,1.800,2.000
+61541370,2026-04-25 13:00,SCR Altach,TSV St. Johann,0,1,,,,,,
+61541362,2026-04-25 15:00,FC Dornbirn,SV Kuchl,2,0,1.800,3.900,3.300,3,2.000,1.800
+61541376,2026-04-25 15:00,SVG Reichenau,VfB Hohenems,0,0,,,,,,
+61541364,2026-04-26 13:00,FC Kitzbuhel,SK Bischofshofen,2,0,,,,,,
+61541388,2026-04-30 17:00,TSV St. Johann,SV Seekirchen,0,2,,,,,,
+61541378,2026-05-02 12:30,SK Bischofshofen,Wacker Innsbruck,0,4,,,,,,
+61541380,2026-05-02 13:30,FC Kufstein,SVG Reichenau,1,1,,,,,,
+61541382,2026-05-02 14:00,SC Schwaz,SV Wals-Grunau,1,1,,,,,,
+61541392,2026-05-02 14:00,FC Lauterach,FC Lustenau,2,3,2.250,3.800,2.500,3.25,1.875,1.925
+61541384,2026-05-02 15:00,SC Imst 1933,FC Kitzbuhel,2,0,,,,,,
+61541390,2026-05-02 15:00,VfB Hohenems,FC Dornbirn,4,1,2.875,4.000,1.909,3,2.000,1.800
+61541386,2026-05-03 12:30,SV Kuchl,FC Pinzgau Saalfelden,1,0,,,,,,
+61541402,2026-05-08 17:30,Wacker Innsbruck,SC Imst 1933,2,1,1.450,4.750,5.000,3.25,1.950,1.850
+61541406,2026-05-09 12:00,SV Seekirchen,SCR Altach,3,4,,,,,,
+61541404,2026-05-09 12:30,SV Wals-Grunau,SV Kuchl,1,2,1.909,4.200,2.800,3,1.975,1.825
+61541408,2026-05-09 13:30,SVG Reichenau,TSV St. Johann,2,0,,,,,,
+61541398,2026-05-09 14:00,FC Lustenau,SK Bischofshofen,1,4,2.700,3.900,2.050,3,1.900,1.900
+61541394,2026-05-09 15:00,FC Dornbirn,FC Kufstein,3,3,1.363,4.500,6.250,3.25,1.975,1.825
+61541396,2026-05-09 15:00,FC Kitzbuhel,SC Schwaz,2,0,,,,,,
+61541400,2026-05-09 15:00,FC Pinzgau Saalfelden,VfB Hohenems,2,2,,,,,,
+61541420,2026-05-14 15:00,SV Kuchl,FC Kitzbuhel,3,1,1.833,3.900,3.200,3,2.000,1.800
+61541410,2026-05-16 13:00,SK Bischofshofen,FC Lauterach,4,1,1.222,6.500,7.500,3.5,1.825,1.975
+61541412,2026-05-16 15:00,FC Kufstein,FC Pinzgau Saalfelden,2,0,,,,,,
+61541416,2026-05-16 15:00,SC Imst 1933,FC Lustenau,4,1,,,,,,
+61541422,2026-05-16 15:00,TSV St. Johann,FC Dornbirn,0,1,,,,,,
+61541424,2026-05-16 15:00,VfB Hohenems,SV Wals-Grunau,3,3,2.100,3.700,2.700,3,1.875,1.925
+61541418,2026-05-17 13:00,SCR Altach,SVG Reichenau,1,0,,,,,,
+61541414,2026-05-17 14:00,SC Schwaz,Wacker Innsbruck,1,5,,,,,,
+61541438,2026-05-22 16:30,SVG Reichenau,SV Seekirchen,4,3,,,,,,
+61541428,2026-05-22 17:00,FC Kitzbuhel,VfB Hohenems,2,1,,,,,,
+61541436,2026-05-22 17:00,SV Wals-Grunau,FC Kufstein,4,1,,,,,,
+61541440,2026-05-22 17:00,FC Lauterach,SC Imst 1933,1,3,5.000,5.250,1.363,4,1.850,1.950
+61541434,2026-05-22 17:30,Wacker Innsbruck,SV Kuchl,4,3,,,,,,
+61541432,2026-05-23 11:00,FC Pinzgau Saalfelden,TSV St. Johann,1,4,2.500,3.300,2.400,2.5,1.850,1.950
+61541430,2026-05-23 13:30,FC Lustenau,SC Schwaz,2,2,2.350,4.000,2.300,3.25,1.825,1.975
+61541426,2026-05-23 15:30,FC Dornbirn,SCR Altach,2,0,,,,,,
+61541488,2026-05-27 17:00,VfB Hohenems,FC Lauterach,4,1,1.333,5.750,5.250,4,1.900,1.900
+61541442,2026-05-29 17:00,FC Kufstein,FC Kitzbuhel,3,1,,,,,,
+61541454,2026-05-29 17:30,TSV St. Johann,SV Wals-Grunau,6,1,,,,,,
+61541444,2026-05-30 13:00,SC Schwaz,FC Lauterach,3,0,,,,,,
+61541446,2026-05-30 13:30,SC Imst 1933,SK Bischofshofen,2,0,,,,,,
+61541448,2026-05-30 13:30,SCR Altach,FC Pinzgau Saalfelden,2,0,,,,,,
+61541450,2026-05-30 13:30,SV Kuchl,FC Lustenau,3,1,1.444,5.250,4.500,3.75,1.850,1.950
+61541452,2026-05-30 13:30,SV Seekirchen,FC Dornbirn,4,3,2.000,4.000,2.700,3.75,2.000,1.800
+61541456,2026-05-30 14:00,VfB Hohenems,Wacker Innsbruck,1,4,3.600,4.100,1.700,3.5,1.925,1.875
+61541458,2026-06-03 17:00,SK Bischofshofen,SC Schwaz,0,0,1.666,3.900,3.800,3.25,1.975,1.825
+61541466,2026-06-03 17:00,FC Pinzgau Saalfelden,SV Seekirchen,0,0,,,,,,
+61541468,2026-06-03 17:30,Wacker Innsbruck,FC Kufstein,0,0,,,,,,
+61541464,2026-06-04 09:00,FC Lustenau,VfB Hohenems,2,2,3.100,4.100,1.909,3.5,1.800,2.000
+61541470,2026-06-04 12:00,SV Wals-Grunau,SCR Altach,1,2,,,,,,
+61541472,2026-06-04 12:00,FC Lauterach,SV Kuchl,0,3,6.500,6.500,1.222,4.25,1.975,1.825
+61541462,2026-06-04 12:30,FC Kitzbuhel,TSV St. Johann,0,0,2.100,3.900,2.600,3.5,2.000,1.800
+61541460,2026-06-04 16:00,FC Dornbirn,SVG Reichenau,1,2,1.550,4.333,4.200,3.5,1.925,1.875
+61541482,2026-06-06 12:00,SV Seekirchen,SV Wals-Grunau,4,2,1.480,4.500,4.750,3.75,1.875,1.925
+61541476,2026-06-06 14:00,SC Schwaz,SC Imst 1933,1,2,,,,,,
+61541474,2026-06-06 15:00,FC Kufstein,FC Lustenau,4,1,,,,,,
+61541480,2026-06-07 09:00,SV Kuchl,SK Bischofshofen,2,0,1.750,4.000,3.400,3.25,1.850,1.950
+61541478,2026-06-07 13:00,SCR Altach,FC Kitzbuhel,2,5,,,,,,
+61541484,2026-06-07 15:00,SVG Reichenau,FC Pinzgau Saalfelden,4,0,,,,,,
+61541486,2026-06-07 15:00,TSV St. Johann,Wacker Innsbruck,1,2,,,,,,
+61541500,2026-06-12 17:30,Imst,Kuchl,3,0,1.650,4.200,3.700,3.75,1.950,1.850
+61541490,2026-06-13 15:00,Bischofshofen,Hohenems,3,7,,,,,,
+61541492,2026-06-13 15:00,Kitzbuhel,Seekirchen,4,1,,,,,,
+61541494,2026-06-13 15:00,FC Lustenau,St. Johann,3,1,2.450,4.333,2.150,3.5,1.875,1.925
+61541496,2026-06-13 15:00,Saalfelden,Dornbirn,2,1,,,,,,
+61541502,2026-06-13 15:00,Wals-Grunau,Reichenau,3,1,1.950,4.500,2.750,4,2.000,1.800
+61541504,2026-06-13 15:00,Lauterach,Kufstein,6,2,3.300,4.500,1.666,3.75,1.850,1.950
+61541498,2026-06-13 16:00,Wacker Innsbruck,Altach,5,0,,,,,,
+72549102,2026-07-31 17:00,FC Kitzbuhel,FC Lustenau,2,0,1.444,4.500,5.000,3.25,1.800,2.000
+72549104,2026-07-31 17:00,SC Imst 1933,SVG Reichenau,3,0,,,,,,
+72549106,2026-07-31 17:00,SV Fugen,SC Schwaz,2,3,,,,,,
+72549112,2026-08-01 15:00,SK St. Johann,FC Kufstein,1,3,2.000,4.000,2.700,3,1.900,1.900
+72549110,2026-08-01 16:00,SV Lochau,VfB Hohenems,2,3,2.800,4.100,1.950,3.25,1.900,1.900
+72549116,2026-08-02 12:30,WSG Tirol,FC Dornbirn,1,1,,,,,,
+72549108,2026-08-02 15:00,SC Rothis,FC Lauterach,3,2,,,,,,
+72549114,2026-08-02 15:00,FC Wolfurt,SCR Altach,2,2,,,,,,
+72549120,2026-08-07 16:00,VfB Hohenems,FC Lustenau,6,0,1.270,5.250,7.000,4,1.875,1.925
+72549118,2026-08-07 16:15,SVG Reichenau,WSG Tirol,1,0,,,,,,
+72549130,2026-08-07 17:30,FC Kufstein,SV Lochau,1,1,,,,,,
+72549126,2026-08-08 13:30,FC Lauterach,SC Imst 1933,0,1,,,,,,
+72549128,2026-08-08 15:00,SCR Altach,SK St. Johann,0,2,,,,,,
+72549122,2026-08-08 16:00,SC Schwaz,SC Rothis,2,1,,,,,,
+72549124,2026-08-08 16:00,FC Dornbirn,FC Wolfurt,3,1,,,,,,
+72549132,2026-08-08 16:00,FC Kitzbuhel,SV Fugen,0,2,,,,,,
+72549136,2026-08-14 16:00,FC Wolfurt,SVG Reichenau,2,1,2.900,4.333,1.850,3.25,1.900,1.900
+72549140,2026-08-14 17:00,FC Kitzbuhel,SC Rothis,4,0,,,,,,
+72549144,2026-08-15 14:00,SV Lochau,SCR Altach,2,1,,,,,,
+72549134,2026-08-15 15:00,FC Lustenau,FC Kufstein,1,1,,,,,,
+72549138,2026-08-15 15:00,SK St. Johann,FC Dornbirn,0,1,,,,,,
+72549146,2026-08-15 15:00,FC Lauterach,SC Schwaz,3,3,2.750,4.000,2.000,3.25,1.850,1.950
+72549148,2026-08-15 15:30,SC Imst 1933,WSG Tirol,2,0,,,,,,
+72549142,2026-08-15 17:00,SV Fugen,VfB Hohenems,0,2,,,,,,
+72549162,2026-08-21 16:30,FC Dornbirn,SV Lochau,7,0,1.380,4.500,5.750,3.25,2.000,1.800
+72549164,2026-08-21 17:30,SK St. Johann,SVG Reichenau,3,3,,,,,,
+72549158,2026-08-22 16:00,FC Kufstein,SV Fugen,1,3,,,,,,
+72549156,2026-08-23 08:30,SCR Altach,FC Lustenau,3,1,,,,,,
+72549154,2026-08-23 12:30,WSG Tirol,FC Wolfurt,5,1,,,,,,
+72549152,2026-08-23 15:00,SC Schwaz,SC Imst 1933,0,2,,,,,,
+72549160,2026-08-23 15:00,VfB Hohenems,SC Rothis,1,2,1.222,5.750,8.000,3.25,1.850,1.950
+72549150,2026-08-23 16:00,FC Kitzbuhel,FC Lauterach,4,2,1.333,4.750,6.250,3.5,1.900,1.900
+72549178,2026-08-28 17:30,SK St. Johann,WSG Tirol,2,1,,,,,,
+72549174,2026-08-29 12:00,SV Lochau,SVG Reichenau,1,2,,,,,,
+72549172,2026-08-29 14:00,SC Imst 1933,FC Wolfurt,2,1,,,,,,
+72549180,2026-08-29 14:00,FC Lauterach,VfB Hohenems,1,3,4.500,4.500,1.500,3.5,1.975,1.825
+72549166,2026-08-29 15:00,FC Lustenau,FC Dornbirn,1,4,,,,,,
+72549176,2026-08-29 15:00,SV Fugen,SCR Altach,4,2,,,,,,
+72549170,2026-08-30 12:00,SC Rothis,FC Kufstein,0,0,2.150,3.700,2.600,3.25,2.000,1.800
+72549168,2026-08-30 15:00,SC Schwaz,FC Kitzbuhel,3,1,,,,,,
+72549192,2026-09-04 17:00,FC Kufstein,FC Lauterach,2,2,1.850,3.900,3.100,3.5,2.000,1.800
+72549194,2026-09-05 12:30,WSG Tirol,SV Lochau,3,2,,,,,,
+72549188,2026-09-05 13:00,SVG Reichenau,FC Lustenau,0,0,,,,,,
+72549182,2026-09-05 15:00,VfB Hohenems,SC Schwaz,3,1,,,,,,
+72549190,2026-09-05 16:00,FC Dornbirn,SV Fugen,4,0,1.420,4.333,5.500,3.25,1.850,1.950
+72549184,2026-09-06 12:00,SCR Altach,SC Rothis,3,3,,,,,,
+72549186,2026-09-06 13:00,FC Wolfurt,SK St. Johann,0,1,2.600,3.900,2.100,3.25,1.850,1.950
+72549196,2026-09-09 17:30,FC Kitzbuhel,SC Imst 1933,3,2,,,,,,
+72549206,2026-09-11 16:00,SV Fugen,SVG Reichenau,2,2,,,,,,
+72549198,2026-09-12 13:30,FC Lustenau,WSG Tirol,1,3,,,,,,
+72549200,2026-09-12 14:00,SV Lochau,FC Wolfurt,3,2,2.050,4.000,2.700,3.25,1.800,2.000
+72549202,2026-09-12 14:00,FC Lauterach,SCR Altach,1,1,,,,,,
+72549210,2026-09-12 14:00,SC Imst 1933,SK St. Johann,0,0,,,,,,
+72549204,2026-09-13 09:00,SC Rothis,FC Dornbirn,2,2,3.700,3.750,1.750,3.25,1.875,1.925
+72549208,2026-09-13 13:00,SC Schwaz,FC Kufstein,2,1,,,,,,
+72549212,2026-09-13 13:00,FC Kitzbuhel,VfB Hohenems,1,2,,,,,,
+72549216,2026-09-18 16:30,FC Dornbirn,FC Lauterach,1,0,1.250,5.500,8.000,4,2.000,1.800
+72549222,2026-09-19 12:00,SK St. Johann,SV Lochau,3,1,1.571,4.200,4.100,3,1.900,1.900
+72549224,2026-09-19 12:00,SVG Reichenau,SC Rothis,0,2,,,,,,
+72549226,2026-09-19 13:00,FC Kufstein,FC Kitzbuhel,1,2,3.000,3.700,2.000,3,1.950,1.850
+72549228,2026-09-19 14:00,FC Wolfurt,FC Lustenau,2,3,,,,,,
+72549214,2026-09-19 15:00,VfB Hohenems,SC Imst 1933,2,0,2.150,3.800,2.550,3.25,1.850,1.950
+72549220,2026-09-20 08:30,WSG Tirol,SV Fugen,6,0,,,,,,
+72549218,2026-09-20 13:00,SCR Altach,SC Schwaz,2,4,,,,,,
+72549230,2026-09-26 13:30,FC Lustenau,SK St. Johann,1,1,3.400,4.000,1.750,3.25,1.900,1.900
+72549234,2026-09-26 14:00,SC Imst 1933,SV Lochau,3,0,,,,,,
+72549236,2026-09-26 14:00,SC Schwaz,FC Dornbirn,3,0,,,,,,
+72549238,2026-09-26 14:00,FC Lauterach,SVG Reichenau,3,0,2.700,3.800,2.100,3.25,1.900,1.900
+72549244,2026-09-26 14:00,FC Kitzbuhel,SCR Altach,4,0,,,,,,
+72549240,2026-09-26 15:00,SV Fugen,FC Wolfurt,6,1,,,,,,
+72549242,2026-09-27 12:00,SC Rothis,WSG Tirol,3,4,,,,,,
+72549232,2026-09-27 13:00,VfB Hohenems,FC Kufstein,3,1,1.270,5.500,7.500,3.5,1.850,1.950
+72549248,2026-10-03 12:00,SV Lochau,FC Lustenau,1,1,2.000,3.900,2.800,3.25,1.825,1.975
+72549252,2026-10-03 12:30,SK St. Johann,SV Fugen,5,1,1.833,4.333,2.900,3.5,1.950,1.850
+72549246,2026-10-03 14:00,SVG Reichenau,SC Schwaz,1,2,,,,,,
+72549250,2026-10-03 14:00,FC Dornbirn,FC Kitzbuhel,0,2,1.727,4.000,3.500,3.25,1.800,2.000
+72549256,2026-10-03 14:00,FC Wolfurt,SC Rothis,0,3,,,,,,
+72549258,2026-10-03 14:00,FC Kufstein,SC Imst 1933,1,2,4.500,4.200,1.500,3,1.825,1.975
+72549260,2026-10-03 14:00,SCR Altach,VfB Hohenems,1,2,,,,,,
+72549254,2026-10-04 12:30,WSG Tirol,FC Lauterach,6,1,,,,,,
+72549264,2026-10-10 12:00,SVG Reichenau,FC Kitzbuhel,3,1,,,,,,
+72549262,2026-10-10 14:00,VfB Hohenems,FC Dornbirn,1,2,1.500,4.500,4.333,3.5,1.900,1.900
+72549266,2026-10-10 14:00,FC Lauterach,FC Wolfurt,4,2,1.571,4.500,3.900,3.75,1.950,1.850
+72549268,2026-10-10 14:00,SV Fugen,SV Lochau,1,2,,,,,,
+72549274,2026-10-10 14:00,FC Kufstein,SCR Altach,4,0,,,,,,
+72549276,2026-10-10 14:00,SC Imst 1933,FC Lustenau,7,2,,,,,,
+72549272,2026-10-10 15:00,SC Schwaz,WSG Tirol,4,3,,,,,,
+72549270,2026-10-11 12:00,SC Rothis,SK St. Johann,2,1,2.625,3.700,2.200,3.25,2.000,1.800
+72549280,2026-10-17 12:00,SV Lochau,SC Rothis,1,2,2.500,4.000,2.150,3.25,1.850,1.950
+72549278,2026-10-17 12:45,FC Lustenau,SV Fugen,3,4,,,,,,
+72549286,2026-10-17 13:00,FC Dornbirn,FC Kufstein,0,0,1.444,4.500,5.000,3.25,1.800,2.000
+72549292,2026-10-18 08:30,WSG Tirol,FC Kitzbuhel,2,2,,,,,,
+72549282,2026-10-18 13:00,FC Wolfurt,SC Schwaz,2,5,4.333,5.000,1.480,3.5,1.925,1.875
+72549284,2026-10-18 13:00,SVG Reichenau,VfB Hohenems,3,0,,,,,,
+72549288,2026-10-18 13:00,SK St. Johann,FC Lauterach,1,3,,,,,,
+72549290,2026-10-18 13:00,SCR Altach,SC Imst 1933,0,2,,,,,,
+72549298,2026-10-23 17:00,FC Kufstein,SVG Reichenau,3,1,2.250,3.700,2.500,3.25,2.000,1.800
+72549300,2026-10-23 17:00,FC Kitzbuhel,FC Wolfurt,3,2,,,,,,
+72549302,2026-10-23 17:00,SC Schwaz,SK St. Johann,3,1,,,,,,
+72549308,2026-10-23 17:00,SC Imst 1933,SV Fugen,2,1,,,,,,
+72549550,2026-10-23 17:00,FC Dornbirn,SCR Altach,0,2,,,,,,
+72549306,2026-10-24 12:00,SC Rothis,FC Lustenau,4,3,,,,,,
+72549294,2026-10-24 14:00,VfB Hohenems,WSG Tirol,5,2,,,,,,
+72549296,2026-10-24 14:00,FC Lauterach,SV Lochau,2,0,1.850,3.900,3.100,3.75,1.950,1.850
+72549324,2026-10-30 17:30,SVG Reichenau,SCR Altach,0,0,,,,,,
+72549310,2026-10-31 13:00,FC Lustenau,FC Lauterach,1,1,,,,,,
+72549320,2026-10-31 13:00,SV Lochau,SC Schwaz,0,4,5.000,4.333,1.450,3.25,1.850,1.950
+72549322,2026-10-31 13:00,FC Wolfurt,VfB Hohenems,1,4,8.500,6.250,1.222,4,1.975,1.825
+72549314,2026-10-31 13:30,WSG Tirol,FC Kufstein,0,2,,,,,,
+72549312,2026-10-31 14:00,SC Imst 1933,FC Dornbirn,3,0,,,,,,
+72549318,2026-10-31 14:00,SV Fugen,SC Rothis,2,1,,,,,,
+72549316,2026-10-31 15:00,SK St. Johann,FC Kitzbuhel,2,0,,,,,,
+72549326,2026-11-07 13:00,VfB Hohenems,SK St. Johann,4,0,1.444,4.500,5.250,3.5,1.850,1.950
+72549330,2026-11-07 13:00,FC Kufstein,FC Wolfurt,1,1,1.250,5.750,7.500,4.25,1.975,1.825
+72549332,2026-11-07 13:00,SC Schwaz,FC Lustenau,6,0,,,,,,
+72549336,2026-11-07 13:00,FC Dornbirn,SVG Reichenau,0,0,1.600,4.333,3.900,3.25,1.975,1.825
+72549338,2026-11-07 13:00,FC Kitzbuhel,SV Lochau,3,0,,,,,,
+72549340,2026-11-07 13:30,FC Lauterach,SV Fugen,1,5,,,,,,
+72549328,2026-11-08 13:00,SCR Altach,WSG Tirol,0,3,,,,,,
+72549334,2026-11-08 13:00,SC Rothis,SC Imst 1933,0,3,3.600,4.333,1.666,3.25,1.825,1.975

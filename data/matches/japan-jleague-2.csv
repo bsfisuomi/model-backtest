@@ -1,783 +1,783 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-57584859,2025-05-25 04:00,Iwaki FC,Vegalta Sendai,1,2,,,
-57584861,2025-05-25 05:00,Montedio Yamagata,Ventforet Kofu,0,4,,,
-57584863,2025-05-25 05:00,Renofa Yamaguchi,Fujieda MYFC,0,0,,,
-57584865,2025-05-25 05:00,Tokushima Vortis,Jubilo Iwata,1,1,,,
-57584867,2025-05-25 05:00,Sagan Tosu,Hokkaido Consadole Sapporo,2,1,,,
-57584869,2025-05-25 05:00,V-Varen Nagasaki,JEF United Chiba,1,0,,,
-57584871,2025-05-25 07:00,Roasso Kumamoto,Blaublitz Akita,1,2,,,
-57584879,2025-05-31 05:00,Vegalta Sendai,Hokkaido Consadole Sapporo,1,1,,,
-57584881,2025-05-31 05:00,Blaublitz Akita,Kataller Toyama,2,2,,,
-57584883,2025-05-31 05:00,Mito Hollyhock,V-Varen Nagasaki,3,0,,,
-57584885,2025-05-31 05:00,RB Omiya Ardija,Jubilo Iwata,2,2,,,
-57584887,2025-05-31 05:00,JEF United Chiba,Renofa Yamaguchi,0,0,,,
-57584889,2025-05-31 05:00,Fujieda MYFC,Montedio Yamagata,2,1,,,
-57584891,2025-05-31 05:00,Sagan Tosu,Ehime FC,2,2,,,
-57584893,2025-05-31 09:05,FC Imabari,Tokushima Vortis,0,1,,,
-57584895,2025-05-31 10:00,Oita Trinita,Ventforet Kofu,2,1,,,
-57584897,2025-06-01 05:00,Iwaki FC,Roasso Kumamoto,5,1,,,
-57584873,2025-06-07 09:00,FC Imabari,Oita Trinita,1,1,,,
-57584875,2025-06-08 05:00,RB Omiya Ardija,Ehime FC,1,1,,,
-57584877,2025-06-08 05:00,Kataller Toyama,Mito Hollyhock,0,1,,,
-57584899,2025-06-14 09:00,Mito Hollyhock,Sagan Tosu,1,0,,,
-57584901,2025-06-15 05:00,Hokkaido Consadole Sapporo,FC Imabari,2,2,,,
-57584903,2025-06-15 05:00,Kataller Toyama,Fujieda MYFC,0,1,,,
-57584905,2025-06-15 05:00,Renofa Yamaguchi,Iwaki FC,2,2,,,
-57584907,2025-06-15 07:00,Montedio Yamagata,Vegalta Sendai,3,4,,,
-57584909,2025-06-15 08:00,Jubilo Iwata,Ehime FC,4,0,,,
-57584911,2025-06-15 08:00,V-Varen Nagasaki,RB Omiya Ardija,3,3,,,
-57584913,2025-06-15 09:00,Oita Trinita,Blaublitz Akita,1,2,,,
-57584915,2025-06-15 09:30,Ventforet Kofu,Roasso Kumamoto,1,1,,,
-57584917,2025-06-15 10:00,Tokushima Vortis,JEF United Chiba,3,3,,,
-57584919,2025-06-21 07:00,Iwaki FC,Kataller Toyama,3,1,,,
-57584921,2025-06-21 09:00,Ehime FC,Renofa Yamaguchi,2,0,,,
-57584923,2025-06-21 09:00,FC Imabari,Mito Hollyhock,1,2,,,
-57584925,2025-06-21 10:00,RB Omiya Ardija,Sagan Tosu,0,0,,,
-57584927,2025-06-21 10:00,JEF United Chiba,Jubilo Iwata,0,1,,,
-57584929,2025-06-21 10:00,Fujieda MYFC,Hokkaido Consadole Sapporo,1,3,,,
-57584931,2025-06-21 10:00,Tokushima Vortis,Oita Trinita,2,0,,,
-57584933,2025-06-22 04:35,Roasso Kumamoto,V-Varen Nagasaki,1,3,,,
-57584935,2025-06-22 05:00,Blaublitz Akita,Montedio Yamagata,2,3,,,
-57584937,2025-06-22 09:00,Vegalta Sendai,Ventforet Kofu,0,0,,,
-57584939,2025-06-28 05:00,Hokkaido Consadole Sapporo,Roasso Kumamoto,3,2,,,
-57584941,2025-06-28 09:00,Mito Hollyhock,Tokushima Vortis,1,1,,,
-57584943,2025-06-28 09:00,Kataller Toyama,JEF United Chiba,1,0,,,
-57584945,2025-06-28 09:30,Ventforet Kofu,Ehime FC,0,0,,,
-57584947,2025-06-28 10:00,Montedio Yamagata,V-Varen Nagasaki,1,2,,,
-57584949,2025-06-28 10:00,Fujieda MYFC,FC Imabari,0,0,,,
-57584951,2025-06-28 10:00,Renofa Yamaguchi,Blaublitz Akita,1,1,,,
-57584953,2025-06-28 10:00,Sagan Tosu,Iwaki FC,1,0,,,
-57584955,2025-06-28 10:00,Oita Trinita,RB Omiya Ardija,0,0,,,
-57584957,2025-06-28 10:30,Jubilo Iwata,Vegalta Sendai,0,1,,,
-57584959,2025-07-05 05:00,Hokkaido Consadole Sapporo,Renofa Yamaguchi,1,0,,,
-57584961,2025-07-05 09:00,Blaublitz Akita,Mito Hollyhock,0,2,,,
-57584963,2025-07-05 09:00,V-Varen Nagasaki,Oita Trinita,1,0,,,
-57584965,2025-07-05 10:00,Vegalta Sendai,Kataller Toyama,0,1,,,
-57584967,2025-07-05 10:00,RB Omiya Ardija,Iwaki FC,1,2,,,
-57584969,2025-07-05 10:00,JEF United Chiba,Sagan Tosu,0,2,,,
-57584971,2025-07-05 10:00,Tokushima Vortis,Fujieda MYFC,0,2,,,
-57584973,2025-07-05 10:00,FC Imabari,Ventforet Kofu,2,4,,,
-57584975,2025-07-06 09:00,Roasso Kumamoto,Jubilo Iwata,2,0,,,
-57584977,2025-07-06 10:00,Ehime FC,Montedio Yamagata,1,3,,,
-57584979,2025-07-12 09:00,Blaublitz Akita,Roasso Kumamoto,3,2,,,
-57584981,2025-07-12 09:00,Iwaki FC,V-Varen Nagasaki,1,1,,,
-57584983,2025-07-12 09:00,Mito Hollyhock,Kataller Toyama,3,0,,,
-57584985,2025-07-12 09:05,FC Imabari,Ehime FC,1,0,,,
-57584987,2025-07-12 09:30,Ventforet Kofu,RB Omiya Ardija,1,0,,,
-57584989,2025-07-12 10:00,Montedio Yamagata,JEF United Chiba,0,1,,,
-57584991,2025-07-12 10:00,Fujieda MYFC,Vegalta Sendai,1,1,,,
-57584993,2025-07-12 10:00,Renofa Yamaguchi,Tokushima Vortis,0,0,,,
-57584995,2025-07-12 10:00,Sagan Tosu,Oita Trinita,2,1,,,
-57584997,2025-07-12 10:30,Jubilo Iwata,Hokkaido Consadole Sapporo,5,1,,,
-57584999,2025-08-02 05:00,Hokkaido Consadole Sapporo,Sagan Tosu,1,0,,,
-57585001,2025-08-02 09:00,Kataller Toyama,RB Omiya Ardija,0,2,,,
-57585003,2025-08-02 09:00,V-Varen Nagasaki,Vegalta Sendai,0,0,,,
-57585005,2025-08-02 09:30,Ventforet Kofu,Montedio Yamagata,1,3,,,
-57585007,2025-08-02 10:00,JEF United Chiba,Iwaki FC,2,2,,,
-57585009,2025-08-02 10:00,Fujieda MYFC,Renofa Yamaguchi,2,2,,,
-57585011,2025-08-02 10:00,Tokushima Vortis,Ehime FC,1,0,,,
-57585013,2025-08-02 10:00,Oita Trinita,FC Imabari,0,1,,,
-57585015,2025-08-02 10:30,Jubilo Iwata,Blaublitz Akita,1,4,,,
-57585017,2025-08-03 10:00,Roasso Kumamoto,Mito Hollyhock,2,1,,,
-57585019,2025-08-09 09:00,Blaublitz Akita,Fujieda MYFC,0,0,,,
-57585021,2025-08-09 09:00,V-Varen Nagasaki,Hokkaido Consadole Sapporo,2,1,,,
-57585023,2025-08-09 10:00,RB Omiya Ardija,JEF United Chiba,0,1,,,
-57585025,2025-08-09 10:00,FC Imabari,Roasso Kumamoto,3,2,,,
-57585027,2025-08-09 10:00,Oita Trinita,Kataller Toyama,2,2,,,
-57585029,2025-08-10 09:00,Iwaki FC,Jubilo Iwata,3,1,,,
-57585031,2025-08-10 10:00,Vegalta Sendai,Tokushima Vortis,0,2,,,
-57585033,2025-08-10 10:00,Montedio Yamagata,Mito Hollyhock,1,2,,,
-57585035,2025-08-10 10:00,Ehime FC,Sagan Tosu,0,1,,,
-57585037,2025-08-11 10:00,Renofa Yamaguchi,Ventforet Kofu,0,1,,,
-57585039,2025-08-16 05:00,Hokkaido Consadole Sapporo,Blaublitz Akita,0,2,,,
-57585041,2025-08-16 09:00,Mito Hollyhock,Jubilo Iwata,1,3,,,
-57585043,2025-08-16 09:00,Kataller Toyama,FC Imabari,1,2,,,
-57585045,2025-08-16 10:00,Montedio Yamagata,Iwaki FC,1,0,,,
-57585047,2025-08-16 10:00,JEF United Chiba,Tokushima Vortis,1,0,,,
-57585049,2025-08-16 10:00,Renofa Yamaguchi,Vegalta Sendai,2,2,,,
-57585051,2025-08-16 10:00,Roasso Kumamoto,Fujieda MYFC,2,1,,,
-57585053,2025-08-17 09:30,Ventforet Kofu,Oita Trinita,2,0,,,
-57585055,2025-08-17 10:00,Ehime FC,RB Omiya Ardija,0,3,,,
-57585057,2025-08-17 10:00,Sagan Tosu,V-Varen Nagasaki,1,2,,,
-57585059,2025-08-23 09:00,Blaublitz Akita,FC Imabari,1,2,,,
-57585061,2025-08-23 09:00,Iwaki FC,Oita Trinita,4,0,,,
-57585063,2025-08-23 09:30,Ventforet Kofu,Hokkaido Consadole Sapporo,1,2,,,
-57585065,2025-08-23 10:00,RB Omiya Ardija,Roasso Kumamoto,1,0,,,
-57585067,2025-08-23 10:00,Fujieda MYFC,Ehime FC,4,1,,,
-57585069,2025-08-23 10:00,Tokushima Vortis,Montedio Yamagata,1,0,,,
-57585071,2025-08-23 10:00,Sagan Tosu,Mito Hollyhock,2,2,,,
-57585073,2025-08-23 10:30,Jubilo Iwata,Kataller Toyama,2,0,,,
-57585075,2025-08-24 09:00,V-Varen Nagasaki,Renofa Yamaguchi,1,0,,,
-57585077,2025-08-24 10:00,Vegalta Sendai,JEF United Chiba,1,0,,,
-57585079,2025-08-30 05:00,Hokkaido Consadole Sapporo,RB Omiya Ardija,1,0,,,
-57585081,2025-08-30 09:00,Mito Hollyhock,Renofa Yamaguchi,2,2,,,
-57585083,2025-08-30 09:30,Kataller Toyama,Roasso Kumamoto,0,1,,,
-57585085,2025-08-30 10:00,Montedio Yamagata,Sagan Tosu,3,2,,,
-57585087,2025-08-30 10:00,JEF United Chiba,Ventforet Kofu,2,1,,,
-57585089,2025-08-30 10:00,Tokushima Vortis,Blaublitz Akita,1,1,,,
-57585091,2025-08-30 10:00,FC Imabari,Iwaki FC,0,2,,,
-57585093,2025-08-31 09:00,V-Varen Nagasaki,Fujieda MYFC,2,1,,,
-57585095,2025-08-31 10:00,Ehime FC,Vegalta Sendai,1,1,,,
-57585097,2025-08-31 10:00,Oita Trinita,Jubilo Iwata,0,0,,,
-57585099,2025-09-13 05:00,Hokkaido Consadole Sapporo,Iwaki FC,1,5,,,
-57585101,2025-09-13 09:00,Vegalta Sendai,Mito Hollyhock,1,1,,,
-57585109,2025-09-13 09:00,Fujieda MYFC,Oita Trinita,1,1,,,
-57585105,2025-09-13 09:30,Ventforet Kofu,Sagan Tosu,2,3,,,
-57585103,2025-09-13 10:00,RB Omiya Ardija,V-Varen Nagasaki,1,2,,,
-57585107,2025-09-13 10:00,Jubilo Iwata,FC Imabari,1,0,,,
-57585111,2025-09-14 10:00,Blaublitz Akita,Ehime FC,3,2,,,
-57585113,2025-09-14 10:00,Montedio Yamagata,Kataller Toyama,3,0,,,
-57585115,2025-09-14 10:00,Renofa Yamaguchi,JEF United Chiba,2,1,,,
-57585117,2025-09-15 10:00,Roasso Kumamoto,Tokushima Vortis,2,1,,,
-57585127,2025-09-20 04:55,Fujieda MYFC,Jubilo Iwata,2,1,,,
-57585119,2025-09-20 09:00,Vegalta Sendai,Montedio Yamagata,3,1,,,
-57585121,2025-09-20 09:00,Iwaki FC,Mito Hollyhock,0,0,,,
-57585135,2025-09-20 09:00,V-Varen Nagasaki,Kataller Toyama,1,1,,,
-57585125,2025-09-20 09:30,Ventforet Kofu,Blaublitz Akita,1,1,,,
-57585123,2025-09-20 10:00,RB Omiya Ardija,FC Imabari,2,3,,,
-57585129,2025-09-20 10:00,Tokushima Vortis,Hokkaido Consadole Sapporo,1,2,,,
-57585131,2025-09-20 10:00,Ehime FC,JEF United Chiba,0,1,,,
-57585133,2025-09-20 10:00,Sagan Tosu,Roasso Kumamoto,4,2,,,
-57585137,2025-09-20 10:00,Oita Trinita,Renofa Yamaguchi,1,0,,,
-57585139,2025-09-27 05:00,Hokkaido Consadole Sapporo,Vegalta Sendai,0,3,,,
-57585141,2025-09-27 09:00,Montedio Yamagata,Renofa Yamaguchi,2,1,,,
-57585143,2025-09-27 09:00,Iwaki FC,Ventforet Kofu,2,3,,,
-57585145,2025-09-27 09:00,JEF United Chiba,Roasso Kumamoto,2,2,,,
-57585147,2025-09-27 10:00,Jubilo Iwata,RB Omiya Ardija,3,4,,,
-57585149,2025-09-27 10:00,FC Imabari,Sagan Tosu,1,1,,,
-57585151,2025-09-27 10:00,Oita Trinita,Ehime FC,0,3,,,
-57585153,2025-09-28 04:00,Blaublitz Akita,V-Varen Nagasaki,0,0,,,
-57585155,2025-09-28 05:00,Mito Hollyhock,Fujieda MYFC,2,0,,,
-57585157,2025-09-28 06:00,Kataller Toyama,Tokushima Vortis,1,3,,,
-57585159,2025-10-04 05:00,Hokkaido Consadole Sapporo,Montedio Yamagata,1,2,,,
-57585163,2025-10-04 05:00,JEF United Chiba,V-Varen Nagasaki,0,2,,,
-57585167,2025-10-04 05:00,Fujieda MYFC,Kataller Toyama,0,1,,,
-57585161,2025-10-04 06:00,Vegalta Sendai,RB Omiya Ardija,1,2,,,
-57585165,2025-10-04 07:00,Ventforet Kofu,Jubilo Iwata,0,1,,,
-57585169,2025-10-05 05:00,Blaublitz Akita,Oita Trinita,0,0,,,
-57585171,2025-10-05 05:00,Renofa Yamaguchi,Sagan Tosu,1,2,,,
-57585173,2025-10-05 05:00,Tokushima Vortis,FC Imabari,1,0,,,
-57585177,2025-10-05 06:00,Roasso Kumamoto,Iwaki FC,0,2,,,
-57585175,2025-10-05 07:00,Ehime FC,Mito Hollyhock,1,3,,,
-57585179,2025-10-18 05:00,Iwaki FC,Ehime FC,2,1,,,
-57585181,2025-10-18 05:00,RB Omiya Ardija,Fujieda MYFC,1,0,,,
-57585185,2025-10-18 05:00,Sagan Tosu,Blaublitz Akita,1,0,,,
-57585183,2025-10-18 08:00,Jubilo Iwata,Tokushima Vortis,0,4,,,
-57585187,2025-10-18 08:00,V-Varen Nagasaki,Ventforet Kofu,4,0,,,
-57585193,2025-10-19 03:55,Kataller Toyama,Hokkaido Consadole Sapporo,0,2,,,
-57585195,2025-10-19 04:00,FC Imabari,Renofa Yamaguchi,1,1,,,
-57585189,2025-10-19 05:00,Montedio Yamagata,Roasso Kumamoto,1,1,,,
-57585197,2025-10-19 05:00,Oita Trinita,Vegalta Sendai,0,0,,,
-57585191,2025-10-19 07:00,Mito Hollyhock,JEF United Chiba,0,1,,,
-57585201,2025-10-25 05:00,Fujieda MYFC,Ventforet Kofu,1,1,,,
-57585203,2025-10-25 08:00,V-Varen Nagasaki,FC Imabari,1,1,,,
-57585205,2025-10-26 04:00,Hokkaido Consadole Sapporo,Mito Hollyhock,0,1,,,
-57585209,2025-10-26 04:00,Montedio Yamagata,RB Omiya Ardija,2,2,,,
-57585213,2025-10-26 04:05,Tokushima Vortis,Iwaki FC,0,1,,,
-57585199,2025-10-26 05:00,Vegalta Sendai,Sagan Tosu,3,2,,,
-57585207,2025-10-26 05:00,Blaublitz Akita,JEF United Chiba,0,0,,,
-57585211,2025-10-26 05:00,Renofa Yamaguchi,Kataller Toyama,1,0,,,
-57585217,2025-10-26 05:00,Roasso Kumamoto,Oita Trinita,0,1,,,
-57585215,2025-10-26 07:00,Ehime FC,Jubilo Iwata,1,3,,,
-57585219,2025-11-02 05:00,Iwaki FC,Fujieda MYFC,3,1,,,
-57585221,2025-11-02 05:00,RB Omiya Ardija,Blaublitz Akita,5,0,,,
-57585223,2025-11-02 05:00,JEF United Chiba,Hokkaido Consadole Sapporo,5,2,,,
-57585225,2025-11-02 05:00,Ventforet Kofu,Mito Hollyhock,0,1,,,
-57585227,2025-11-02 05:00,Kataller Toyama,Ehime FC,1,1,,,
-57585229,2025-11-02 05:00,Jubilo Iwata,V-Varen Nagasaki,1,0,,,
-57585231,2025-11-02 05:00,FC Imabari,Vegalta Sendai,3,2,,,
-57585233,2025-11-02 05:00,Sagan Tosu,Tokushima Vortis,0,0,,,
-57585235,2025-11-02 05:00,Roasso Kumamoto,Renofa Yamaguchi,0,1,,,
-57585237,2025-11-02 05:30,Oita Trinita,Montedio Yamagata,1,2,,,
-57585239,2025-11-08 05:00,Hokkaido Consadole Sapporo,Oita Trinita,3,1,,,
-57585243,2025-11-08 05:30,Ehime FC,V-Varen Nagasaki,0,4,,,
-57585241,2025-11-09 04:00,Vegalta Sendai,Roasso Kumamoto,2,0,,,
-57585253,2025-11-09 04:00,Kataller Toyama,Sagan Tosu,3,1,,,
-57585245,2025-11-09 05:00,Blaublitz Akita,Iwaki FC,2,0,,,
-57585247,2025-11-09 05:00,Montedio Yamagata,FC Imabari,2,1,,,
-57585249,2025-11-09 05:00,Mito Hollyhock,RB Omiya Ardija,0,2,,,
-57585251,2025-11-09 05:00,JEF United Chiba,Fujieda MYFC,1,1,,,
-57585255,2025-11-09 05:00,Renofa Yamaguchi,Jubilo Iwata,1,2,,,
-57585257,2025-11-09 05:00,Tokushima Vortis,Ventforet Kofu,4,1,,,
-57585277,2025-11-23 04:00,Oita Trinita,JEF United Chiba,0,1,,,
-57585275,2025-11-23 04:05,V-Varen Nagasaki,Mito Hollyhock,2,1,,,
-57585259,2025-11-23 05:00,Blaublitz Akita,Vegalta Sendai,0,0,,,
-57585261,2025-11-23 05:00,Iwaki FC,Renofa Yamaguchi,0,0,,,
-57585263,2025-11-23 05:00,RB Omiya Ardija,Tokushima Vortis,1,2,,,
-57585265,2025-11-23 05:00,Ventforet Kofu,Kataller Toyama,0,1,,,
-57585267,2025-11-23 05:00,Jubilo Iwata,Montedio Yamagata,2,2,,,
-57585269,2025-11-23 05:00,Fujieda MYFC,Sagan Tosu,0,0,,,
-57585273,2025-11-23 05:00,FC Imabari,Hokkaido Consadole Sapporo,1,1,,,
-57585271,2025-11-23 07:00,Ehime FC,Roasso Kumamoto,1,1,,,
-57585279,2025-11-29 05:00,Hokkaido Consadole Sapporo,Ehime FC,3,0,,,
-57585281,2025-11-29 05:00,Vegalta Sendai,Iwaki FC,0,1,,,
-57585283,2025-11-29 05:00,Montedio Yamagata,Fujieda MYFC,2,1,,,
-57585285,2025-11-29 05:00,Mito Hollyhock,Oita Trinita,2,0,,,
-57585287,2025-11-29 05:00,JEF United Chiba,FC Imabari,5,0,,,
-57585289,2025-11-29 05:00,Kataller Toyama,Blaublitz Akita,4,1,,,
-57585291,2025-11-29 05:00,Renofa Yamaguchi,RB Omiya Ardija,3,2,,,
-57585293,2025-11-29 05:00,Tokushima Vortis,V-Varen Nagasaki,1,1,,,
-57585295,2025-11-29 05:00,Sagan Tosu,Jubilo Iwata,1,2,,,
-57585297,2025-11-29 05:00,Roasso Kumamoto,Ventforet Kofu,0,0,,,
-66270614,2025-12-07 04:00,JEF United Chiba,RB Omiya Ardija,4,3,,,
-66270616,2025-12-07 04:10,Tokushima Vortis,Jubilo Iwata,1,1,,,
-66527462,2025-12-13 04:05,JEF United Chiba,Tokushima Vortis,1,0,2.250,3.000,3.300
-67092092,2026-02-07 05:00,Tochigi City FC,Vegalta Sendai,1,4,2.600,3.000,2.550
-67092094,2026-02-07 05:00,Yokohama FC,Montedio Yamagata,1,2,2.050,3.100,3.300
-67092096,2026-02-07 05:00,Shonan Bellmare,Blaublitz Akita,1,2,2.000,3.100,3.400
-67092102,2026-02-07 05:00,RB Omiya Ardija,Matsumoto Yamaga FC,2,1,1.480,4.333,4.750
-67092104,2026-02-07 05:00,Ventforet Kofu,Fukushima United FC,4,1,1.571,3.800,4.500
-67092106,2026-02-07 05:00,Jubilo Iwata,AC Nagano Parceiro,0,0,1.400,4.500,5.500
-67092112,2026-02-07 05:00,Nara Club,Tokushima Vortis,0,6,4.500,4.000,1.550
-67092120,2026-02-07 05:00,Giravanz Kitakyushu,Gainare Tottori,1,3,2.150,3.100,3.100
-67092122,2026-02-08 04:00,Roasso Kumamoto,Renofa Yamaguchi,2,1,2.550,3.100,2.550
-67092114,2026-02-08 04:05,Ehime FC,Albirex Niigata,0,1,4.333,3.700,1.650
-67092108,2026-02-08 04:30,Fujieda MYFC,FC Gifu,0,2,2.000,3.300,3.200
-67092100,2026-02-08 05:00,Iwaki FC,Hokkaido Consadole Sapporo,1,0,2.400,3.200,2.550
-67092110,2026-02-08 05:00,FC Osaka,Kamatamare Sanuki,0,1,1.700,3.600,4.200
-67092116,2026-02-08 05:00,FC Imabari,Zweigen Kanazawa,0,0,1.727,3.500,4.000
-67092118,2026-02-08 05:00,Kochi United SC,Kataller Toyama,3,1,2.600,3.200,2.500
-67092126,2026-02-08 05:00,Kagoshima United,Tegevajaro Miyazaki,2,3,1.909,3.300,3.500
-67092128,2026-02-08 05:00,FC Ryukyu,Sagan Tosu,2,2,4.750,4.000,1.550
-67150244,2026-02-14 05:00,Thespakusatsu,Vanraure Hachinohe FC,0,1,,,
-67150246,2026-02-14 05:00,Yokohama FC,Vegalta Sendai,0,1,2.450,3.200,2.500
-67150248,2026-02-14 05:00,Shonan Bellmare,SC Sagamihara,4,0,1.650,3.800,4.100
-67150254,2026-02-14 05:00,RB Omiya Ardija,Hokkaido Consadole Sapporo,3,2,1.800,3.400,3.700
-67150256,2026-02-14 05:00,Ventforet Kofu,AC Nagano Parceiro,2,0,1.615,3.700,4.500
-67150258,2026-02-14 05:00,Fujieda MYFC,Matsumoto Yamaga FC,2,0,1.900,3.500,3.500
-67150344,2026-02-14 05:00,Nara Club,FC Imabari,1,0,5.250,4.000,1.480
-67150260,2026-02-15 04:00,Iwaki FC,Fukushima United FC,3,1,1.380,4.750,6.500
-67150250,2026-02-15 05:00,Tochigi SC,Montedio Yamagata,1,2,2.875,3.300,2.250
-67150252,2026-02-15 05:00,Tochigi City FC,Blaublitz Akita,0,1,2.200,3.300,3.000
-67150262,2026-02-15 05:00,FC Gifu,Jubilo Iwata,2,1,3.100,3.500,2.100
-67150346,2026-02-15 05:00,FC Osaka,Kochi United SC,2,2,1.950,3.100,3.750
-67150348,2026-02-15 05:00,Kamatamare Sanuki,Kataller Toyama,1,5,2.750,3.300,2.350
-67150350,2026-02-15 05:00,Tokushima Vortis,Albirex Niigata,4,0,1.900,3.300,3.700
-67150352,2026-02-15 05:00,Ehime FC,Zweigen Kanazawa,2,2,3.100,3.200,2.200
-67150370,2026-02-15 05:00,Renofa Yamaguchi,Reilac Shiga FC,2,1,1.533,4.100,5.000
-67150372,2026-02-15 05:00,Sagan Tosu,Roasso Kumamoto,1,1,2.150,3.300,3.100
-67150374,2026-02-15 05:00,Oita Trinita,Giravanz Kitakyushu,2,0,1.750,3.400,4.333
-67150376,2026-02-15 05:00,Tegevajaro Miyazaki,Gainare Tottori,3,1,1.666,3.600,4.500
-67150378,2026-02-15 05:00,Kagoshima United,FC Ryukyu,3,1,1.500,4.333,5.000
-67647840,2026-02-21 05:00,Shonan Bellmare,Vanraure Hachinohe FC,1,0,1.850,3.100,3.800
-67647842,2026-02-21 05:00,Thespakusatsu,Montedio Yamagata,1,1,,,
-67647844,2026-02-21 05:00,SC Sagamihara,Blaublitz Akita,1,2,4.333,3.100,1.750
-67648002,2026-02-21 05:00,AC Nagano Parceiro,Hokkaido Consadole Sapporo,1,1,5.000,3.500,1.571
-67648004,2026-02-21 05:00,RB Omiya Ardija,Fukushima United FC,6,0,1.250,5.500,9.000
-67648006,2026-02-21 05:00,Fujieda MYFC,Ventforet Kofu,1,1,2.875,3.250,2.300
-67648008,2026-02-21 05:00,Jubilo Iwata,Matsumoto Yamaga FC,1,2,1.750,3.400,4.333
-67648162,2026-02-21 05:00,Nara Club,Ehime FC,2,2,2.750,3.200,2.300
-67648320,2026-02-21 05:00,FC Ryukyu,Reilac Shiga FC,0,0,1.900,3.400,3.500
-67648322,2026-02-21 05:00,Tegevajaro Miyazaki,Sagan Tosu,2,1,2.700,3.500,2.200
-67648324,2026-02-22 04:00,Roasso Kumamoto,Giravanz Kitakyushu,4,1,1.666,3.600,4.500
-67647846,2026-02-22 05:00,Tochigi SC,Vegalta Sendai,1,2,3.900,3.300,1.850
-67647848,2026-02-22 05:00,Yokohama FC,Tochigi City FC,5,1,2.000,3.200,3.500
-67648010,2026-02-22 05:00,FC Gifu,Iwaki FC,0,0,3.400,3.600,1.909
-67648164,2026-02-22 05:00,Kamatamare Sanuki,Albirex Niigata,0,3,4.750,3.750,1.650
-67648166,2026-02-22 05:00,Kochi United SC,Zweigen Kanazawa,3,2,2.900,3.300,2.200
-67648168,2026-02-22 05:00,FC Imabari,FC Osaka,2,0,2.000,3.300,3.400
-67648170,2026-02-22 05:00,Tokushima Vortis,Kataller Toyama,1,3,1.615,3.800,4.500
-67648326,2026-02-22 05:00,Oita Trinita,Gainare Tottori,2,0,1.850,3.300,3.900
-67648328,2026-02-22 05:00,Kagoshima United,Renofa Yamaguchi,1,0,2.400,3.250,2.750
-68938974,2026-02-25 09:30,Oita Trinita,Reilac Shiga FC,2,0,1.533,3.500,5.750
-67647850,2026-02-28 04:00,Vegalta Sendai,Vanraure Hachinohe FC,0,0,1.800,3.300,3.900
-67647852,2026-02-28 05:00,Tochigi City FC,Shonan Bellmare,1,3,2.750,3.200,2.300
-67647854,2026-02-28 05:00,Thespakusatsu,Blaublitz Akita,3,2,,,
-67648012,2026-02-28 05:00,Ventforet Kofu,Matsumoto Yamaga FC,1,0,1.727,3.500,4.000
-67648014,2026-02-28 05:00,AC Nagano Parceiro,RB Omiya Ardija,1,2,7.000,4.200,1.400
-67648016,2026-02-28 05:00,Jubilo Iwata,Fukushima United FC,0,0,1.363,5.000,5.500
-67648018,2026-02-28 05:00,Hokkaido Consadole Sapporo,FC Gifu,1,2,1.850,3.800,3.250
-67648172,2026-02-28 05:00,Kataller Toyama,FC Osaka,0,0,1.727,3.500,4.100
-67648330,2026-02-28 05:00,Giravanz Kitakyushu,Reilac Shiga FC,1,2,1.850,3.200,3.800
-67648332,2026-02-28 05:00,Sagan Tosu,Kagoshima United,0,1,2.200,3.250,2.800
-67648334,2026-02-28 05:00,FC Ryukyu,Tegevajaro Miyazaki,0,2,3.400,3.400,1.900
-67648174,2026-02-28 07:00,Ehime FC,Tokushima Vortis,0,1,3.600,3.400,1.833
-67648336,2026-03-01 04:00,Renofa Yamaguchi,Gainare Tottori,0,0,1.650,3.800,4.000
-67648338,2026-03-01 04:00,Roasso Kumamoto,Oita Trinita,3,1,2.400,3.000,2.700
-67647856,2026-03-01 05:00,Tochigi SC,Yokohama FC,4,0,2.750,3.250,2.200
-67647858,2026-03-01 05:00,SC Sagamihara,Montedio Yamagata,2,1,3.500,3.400,1.900
-67648020,2026-03-01 05:00,Iwaki FC,Fujieda MYFC,1,2,1.850,3.600,3.400
-67648176,2026-03-01 05:00,Zweigen Kanazawa,Kamatamare Sanuki,1,0,1.450,4.200,5.000
-67648178,2026-03-01 05:00,FC Imabari,Albirex Niigata,0,2,2.875,3.000,2.300
-67648180,2026-03-01 05:00,Kochi United SC,Nara Club,2,0,1.909,3.250,3.500
-69092940,2026-03-04 09:30,SC Sagamihara,Thespakusatsu,5,0,,,
-67648182,2026-03-06 10:00,FC Osaka,Nara Club,2,0,,,
-67647860,2026-03-07 05:00,Vegalta Sendai,Shonan Bellmare,1,1,,,
-67648022,2026-03-07 05:00,Iwaki FC,RB Omiya Ardija,1,1,,,
-67648024,2026-03-07 05:00,Matsumoto Yamaga FC,Hokkaido Consadole Sapporo,3,0,,,
-67648026,2026-03-07 05:00,Fujieda MYFC,Jubilo Iwata,1,1,,,
-67648184,2026-03-07 05:00,Albirex Niigata,Kochi United SC,2,2,,,
-67648340,2026-03-07 05:00,Giravanz Kitakyushu,Tegevajaro Miyazaki,2,3,,,
-67648342,2026-03-07 05:00,Renofa Yamaguchi,Sagan Tosu,2,0,,,
-67647862,2026-03-08 04:00,Vanraure Hachinohe FC,Yokohama FC,1,1,,,
-67647864,2026-03-08 05:00,Tochigi City FC,Thespakusatsu,1,1,,,
-67647866,2026-03-08 05:00,SC Sagamihara,Tochigi SC,4,0,,,
-67647868,2026-03-08 05:00,Montedio Yamagata,Blaublitz Akita,0,1,,,
-67648028,2026-03-08 05:00,FC Gifu,Ventforet Kofu,0,1,,,
-67648030,2026-03-08 05:00,Fukushima United FC,AC Nagano Parceiro,4,2,,,
-67648186,2026-03-08 05:00,Zweigen Kanazawa,Tokushima Vortis,0,4,,,
-67648188,2026-03-08 05:00,Kataller Toyama,Ehime FC,2,2,,,
-67648190,2026-03-08 05:00,Kamatamare Sanuki,FC Imabari,1,0,,,
-67648344,2026-03-08 05:00,Reilac Shiga FC,Roasso Kumamoto,1,0,,,
-67648346,2026-03-08 05:00,Gainare Tottori,FC Ryukyu,0,0,,,
-67648348,2026-03-08 05:00,Oita Trinita,Kagoshima United,0,0,,,
-67648192,2026-03-14 04:00,Kochi United SC,FC Imabari,2,0,,,
-67647870,2026-03-14 05:00,Vegalta Sendai,SC Sagamihara,3,1,,,
-67647872,2026-03-14 05:00,Shonan Bellmare,Montedio Yamagata,2,1,,,
-67648032,2026-03-14 05:00,RB Omiya Ardija,Fujieda MYFC,1,2,,,
-67648034,2026-03-14 05:00,Ventforet Kofu,Iwaki FC,0,1,,,
-67648036,2026-03-14 05:00,AC Nagano Parceiro,Matsumoto Yamaga FC,0,5,,,
-67648038,2026-03-14 05:00,Jubilo Iwata,Hokkaido Consadole Sapporo,0,1,,,
-67648194,2026-03-14 05:00,Nara Club,Albirex Niigata,0,0,,,
-67648350,2026-03-14 05:00,Sagan Tosu,Giravanz Kitakyushu,1,0,,,
-67648352,2026-03-14 05:00,Tegevajaro Miyazaki,Oita Trinita,1,0,,,
-67648354,2026-03-14 05:00,FC Ryukyu,Renofa Yamaguchi,1,1,,,
-67647874,2026-03-15 04:00,Vanraure Hachinohe FC,Tochigi City FC,0,1,,,
-67647876,2026-03-15 04:00,Blaublitz Akita,Tochigi SC,2,0,,,
-67648356,2026-03-15 04:00,Roasso Kumamoto,Gainare Tottori,0,1,,,
-67648196,2026-03-15 04:05,Kataller Toyama,Zweigen Kanazawa,0,2,,,
-67647878,2026-03-15 05:00,Yokohama FC,Thespakusatsu,3,0,,,
-67648198,2026-03-15 05:00,Ehime FC,FC Osaka,0,1,,,
-67648200,2026-03-15 05:00,Tokushima Vortis,Kamatamare Sanuki,1,0,,,
-67648358,2026-03-15 05:00,Kagoshima United,Reilac Shiga FC,1,0,,,
-67648040,2026-03-15 10:00,FC Gifu,Fukushima United FC,2,1,,,
-67647880,2026-03-20 05:00,Thespakusatsu,Shonan Bellmare,0,2,,,
-67648202,2026-03-20 05:00,Albirex Niigata,Kataller Toyama,2,3,,,
-67647882,2026-03-21 05:00,Blaublitz Akita,Vanraure Hachinohe FC,1,0,,,
-67647884,2026-03-21 05:00,SC Sagamihara,Yokohama FC,2,4,,,
-67648042,2026-03-21 05:00,Jubilo Iwata,RB Omiya Ardija,1,4,,,
-67648044,2026-03-21 05:00,AC Nagano Parceiro,Iwaki FC,1,3,,,
-67648046,2026-03-21 05:00,Matsumoto Yamaga FC,FC Gifu,2,2,,,
-67648048,2026-03-21 05:00,Hokkaido Consadole Sapporo,Ventforet Kofu,1,0,,,
-67648050,2026-03-21 05:00,Fukushima United FC,Fujieda MYFC,3,3,,,
-67648360,2026-03-21 05:00,Tegevajaro Miyazaki,Roasso Kumamoto,1,0,,,
-67648362,2026-03-21 05:00,Oita Trinita,FC Ryukyu,2,3,,,
-67647886,2026-03-22 05:00,Montedio Yamagata,Vegalta Sendai,0,1,,,
-67647888,2026-03-22 05:00,Tochigi SC,Tochigi City FC,3,2,,,
-67648204,2026-03-22 05:00,Zweigen Kanazawa,FC Osaka,0,0,,,
-67648206,2026-03-22 05:00,Kamatamare Sanuki,Nara Club,3,1,,,
-67648208,2026-03-22 05:00,Ehime FC,Kochi United SC,1,0,,,
-67648210,2026-03-22 05:00,FC Imabari,Tokushima Vortis,2,1,,,
-67648366,2026-03-22 05:00,Gainare Tottori,Kagoshima United,0,0,,,
-67648368,2026-03-22 05:00,Renofa Yamaguchi,Giravanz Kitakyushu,0,1,,,
-67648364,2026-03-22 06:00,Reilac Shiga FC,Sagan Tosu,0,2,,,
-67647890,2026-03-28 05:00,Thespakusatsu,Tochigi SC,1,3,,,
-67647892,2026-03-28 05:00,Yokohama FC,Shonan Bellmare,1,3,,,
-67648052,2026-03-28 05:00,Ventforet Kofu,RB Omiya Ardija,2,1,,,
-67648054,2026-03-28 05:00,Fujieda MYFC,Hokkaido Consadole Sapporo,3,5,,,
-67648056,2026-03-28 05:00,FC Gifu,AC Nagano Parceiro,5,1,,,
-67648212,2026-03-28 05:00,Nara Club,Zweigen Kanazawa,5,1,,,
-67647894,2026-03-29 04:00,Vanraure Hachinohe FC,SC Sagamihara,2,2,2.200,3.100,3.000
-67648370,2026-03-29 04:00,Roasso Kumamoto,Kagoshima United,0,1,3.300,2.900,2.100
-67647896,2026-03-29 05:00,Blaublitz Akita,Vegalta Sendai,0,0,3.000,3.200,2.100
-67647898,2026-03-29 05:00,Montedio Yamagata,Tochigi City FC,1,2,2.550,3.600,2.250
-67648058,2026-03-29 05:00,Fukushima United FC,Matsumoto Yamaga FC,1,3,3.800,3.600,1.800
-67648060,2026-03-29 05:00,Iwaki FC,Jubilo Iwata,1,0,1.833,3.250,3.900
-67648214,2026-03-29 05:00,Kamatamare Sanuki,Ehime FC,1,0,3.400,3.400,1.909
-67648216,2026-03-29 05:00,Tokushima Vortis,Kochi United SC,3,0,1.833,3.100,4.500
-67648218,2026-03-29 05:00,FC Osaka,Albirex Niigata,0,0,2.500,2.875,2.800
-67648220,2026-03-29 05:00,Kataller Toyama,FC Imabari,1,1,2.400,3.100,2.625
-67648372,2026-03-29 05:00,Reilac Shiga FC,Tegevajaro Miyazaki,1,0,4.333,3.250,1.750
-67648374,2026-03-29 05:00,Gainare Tottori,Sagan Tosu,0,2,3.400,3.200,2.000
-67648376,2026-03-29 05:00,Renofa Yamaguchi,Oita Trinita,3,1,2.150,3.000,3.200
-67648378,2026-03-29 05:00,Giravanz Kitakyushu,FC Ryukyu,1,0,2.300,3.300,2.600
-67647900,2026-04-04 05:00,Tochigi City FC,SC Sagamihara,0,0,2.050,3.500,3.500
-67647902,2026-04-04 05:00,Shonan Bellmare,Tochigi SC,1,1,1.700,3.700,5.000
-67647904,2026-04-04 05:00,Yokohama FC,Blaublitz Akita,1,2,2.350,2.900,3.400
-67647906,2026-04-04 05:00,Vegalta Sendai,Thespakusatsu,2,2,,,
-67648062,2026-04-04 05:00,Jubilo Iwata,Ventforet Kofu,1,0,2.250,3.000,3.600
-67648064,2026-04-04 05:00,Fujieda MYFC,AC Nagano Parceiro,0,2,1.571,3.900,5.750
-67648066,2026-04-04 05:00,RB Omiya Ardija,FC Gifu,3,0,1.615,4.200,4.500
-67648068,2026-04-04 05:00,Hokkaido Consadole Sapporo,Fukushima United FC,0,2,1.550,4.200,5.500
-67648222,2026-04-04 05:00,Albirex Niigata,Zweigen Kanazawa,0,0,1.900,3.400,4.100
-67648380,2026-04-04 08:00,FC Ryukyu,Roasso Kumamoto,0,1,4.750,3.600,1.750
-67647908,2026-04-05 04:00,Vanraure Hachinohe FC,Montedio Yamagata,0,2,1.850,3.250,4.100
-67648224,2026-04-05 04:30,FC Imabari,Ehime FC,0,1,2.250,3.500,2.750
-67648070,2026-04-05 05:00,Matsumoto Yamaga FC,Iwaki FC,2,2,2.750,3.200,2.375
-67648226,2026-04-05 05:00,Kataller Toyama,Nara Club,5,2,1.600,4.000,4.750
-67648228,2026-04-05 05:00,Tokushima Vortis,FC Osaka,1,0,2.250,2.875,3.300
-67648230,2026-04-05 05:00,Kochi United SC,Kamatamare Sanuki,2,0,1.800,3.300,4.333
-67648384,2026-04-05 05:00,Kagoshima United,Giravanz Kitakyushu,1,1,1.420,3.800,7.500
-67648386,2026-04-05 05:00,Tegevajaro Miyazaki,Renofa Yamaguchi,3,0,2.150,3.000,3.300
-67648388,2026-04-05 05:00,Sagan Tosu,Oita Trinita,0,1,2.450,3.200,2.625
-69283622,2026-04-08 09:30,Tochigi SC,Vanraure Hachinohe FC,0,3,2.450,2.750,3.000
-67648072,2026-04-11 05:00,Ventforet Kofu,Hokkaido Consadole Sapporo,2,1,2.700,3.100,2.750
-67648074,2026-04-11 05:00,FC Gifu,Fujieda MYFC,1,2,1.666,3.750,5.250
-67648232,2026-04-11 05:00,FC Osaka,Kataller Toyama,1,2,2.200,3.200,3.500
-67648390,2026-04-11 10:00,Oita Trinita,Renofa Yamaguchi,1,2,2.400,3.400,2.800
-67648076,2026-04-12 04:00,AC Nagano Parceiro,Jubilo Iwata,1,1,5.250,3.600,1.700
-67647910,2026-04-12 05:00,Blaublitz Akita,Shonan Bellmare,0,1,2.625,3.100,2.750
-67647912,2026-04-12 05:00,Montedio Yamagata,Yokohama FC,1,0,3.600,3.500,2.000
-67647914,2026-04-12 05:00,Tochigi SC,Thespakusatsu,5,1,,,
-67647916,2026-04-12 05:00,Tochigi City FC,Vanraure Hachinohe FC,2,4,3.250,3.200,2.250
-67647918,2026-04-12 05:00,SC Sagamihara,Vegalta Sendai,0,3,4.000,3.500,1.900
-67648078,2026-04-12 05:00,Fukushima United FC,Iwaki FC,2,3,5.500,3.700,1.533
-67648080,2026-04-12 05:00,Matsumoto Yamaga FC,RB Omiya Ardija,4,1,3.100,3.500,2.200
-67648234,2026-04-12 05:00,Kochi United SC,Albirex Niigata,2,1,2.750,3.100,2.750
-67648236,2026-04-12 05:00,Ehime FC,Nara Club,3,2,1.700,3.800,3.900
-67648238,2026-04-12 05:00,Zweigen Kanazawa,FC Imabari,0,0,3.000,3.200,2.350
-67648240,2026-04-12 05:00,Kamatamare Sanuki,Tokushima Vortis,0,5,5.000,3.000,1.727
-67648392,2026-04-12 05:00,Reilac Shiga FC,FC Ryukyu,2,1,2.550,3.200,2.450
-67648394,2026-04-12 05:00,Giravanz Kitakyushu,Sagan Tosu,0,1,3.700,3.250,1.900
-67648396,2026-04-12 05:00,Roasso Kumamoto,Tegevajaro Miyazaki,0,5,3.900,3.200,2.050
-67648398,2026-04-12 05:00,Kagoshima United,Gainare Tottori,3,1,1.444,4.100,5.750
-67648242,2026-04-17 10:00,FC Osaka,Ehime FC,0,1,2.050,3.300,3.100
-67648082,2026-04-18 04:00,Hokkaido Consadole Sapporo,Matsumoto Yamaga FC,2,1,2.200,3.400,2.700
-67648400,2026-04-18 04:40,Renofa Yamaguchi,Kagoshima United,2,1,3.800,3.200,1.850
-67647920,2026-04-18 05:00,Vegalta Sendai,Tochigi City FC,5,0,1.533,3.700,5.250
-67647922,2026-04-18 05:00,Shonan Bellmare,Thespakusatsu,1,2,,,
-67648084,2026-04-18 05:00,Ventforet Kofu,Fujieda MYFC,0,1,2.050,3.100,3.250
-67648086,2026-04-18 05:00,RB Omiya Ardija,Jubilo Iwata,1,2,1.571,4.000,4.333
-67648244,2026-04-18 05:00,Albirex Niigata,FC Imabari,1,0,2.150,3.400,2.800
-67648246,2026-04-18 05:00,Nara Club,Kamatamare Sanuki,1,1,2.350,3.300,2.600
-67648248,2026-04-18 05:00,Tokushima Vortis,Zweigen Kanazawa,2,1,1.533,3.400,6.000
-67648402,2026-04-18 07:00,FC Ryukyu,Giravanz Kitakyushu,0,2,2.000,3.400,3.000
-67647924,2026-04-19 05:00,Blaublitz Akita,Yokohama FC,1,3,2.750,2.800,2.500
-67647926,2026-04-19 05:00,Montedio Yamagata,Vanraure Hachinohe FC,1,0,3.100,3.100,2.100
-67647928,2026-04-19 05:00,Tochigi SC,SC Sagamihara,0,2,2.200,3.100,2.900
-67648088,2026-04-19 05:00,Fukushima United FC,FC Gifu,1,2,3.900,4.100,1.650
-67648090,2026-04-19 05:00,Iwaki FC,AC Nagano Parceiro,1,0,1.285,4.750,8.500
-67648250,2026-04-19 05:00,Kataller Toyama,Kochi United SC,4,0,2.000,3.100,3.400
-67648404,2026-04-19 05:00,Reilac Shiga FC,Oita Trinita,0,3,3.700,3.100,1.909
-67648406,2026-04-19 05:00,Gainare Tottori,Tegevajaro Miyazaki,0,1,5.000,3.800,1.550
-67648408,2026-04-19 06:00,Roasso Kumamoto,Sagan Tosu,0,2,3.000,3.000,2.200
-67648092,2026-04-25 04:00,Jubilo Iwata,FC Gifu,1,0,2.200,3.300,2.750
-67647930,2026-04-25 05:00,Vegalta Sendai,Montedio Yamagata,1,0,1.900,3.400,3.500
-67647932,2026-04-25 05:00,Tochigi City FC,Tochigi SC,2,2,2.150,3.500,2.750
-67647934,2026-04-25 05:00,Thespakusatsu,Yokohama FC,3,1,,,
-67648094,2026-04-25 05:00,Hokkaido Consadole Sapporo,Iwaki FC,2,1,2.900,3.400,2.100
-67648096,2026-04-25 05:00,Fukushima United FC,Ventforet Kofu,0,1,2.700,3.600,2.150
-67648098,2026-04-25 05:00,Fujieda MYFC,RB Omiya Ardija,1,1,3.100,3.750,1.900
-67648252,2026-04-25 05:00,Zweigen Kanazawa,Nara Club,1,0,1.833,3.700,3.400
-67648254,2026-04-25 05:00,Albirex Niigata,FC Osaka,1,0,2.500,3.000,2.600
-67648256,2026-04-25 05:00,FC Imabari,Kataller Toyama,1,2,3.200,3.400,1.950
-67648410,2026-04-25 05:00,Gainare Tottori,Roasso Kumamoto,0,2,3.300,3.100,2.050
-67648412,2026-04-25 05:00,Giravanz Kitakyushu,Renofa Yamaguchi,2,2,3.500,3.300,1.909
-67648414,2026-04-25 05:00,Sagan Tosu,Reilac Shiga FC,2,0,1.300,4.500,8.000
-67648416,2026-04-25 05:00,Tegevajaro Miyazaki,Kagoshima United,1,0,2.250,3.100,2.900
-67647936,2026-04-25 08:00,SC Sagamihara,Shonan Bellmare,1,1,2.900,3.400,2.100
-67648418,2026-04-25 10:00,FC Ryukyu,Oita Trinita,0,0,3.900,3.400,1.833
-67647938,2026-04-26 04:00,Vanraure Hachinohe FC,Blaublitz Akita,1,0,2.750,2.600,2.750
-67648100,2026-04-26 05:00,Matsumoto Yamaga FC,AC Nagano Parceiro,0,1,1.500,4.200,5.000
-67648258,2026-04-26 05:00,Kochi United SC,Tokushima Vortis,2,1,3.400,3.250,1.950
-67648260,2026-04-26 06:00,Ehime FC,Kamatamare Sanuki,3,0,1.727,3.500,4.000
-67648102,2026-04-29 04:00,Iwaki FC,FC Gifu,0,1,1.950,3.300,3.500
-67647940,2026-04-29 05:00,Tochigi SC,Shonan Bellmare,1,1,3.200,3.200,2.150
-67647942,2026-04-29 05:00,SC Sagamihara,Tochigi City FC,1,0,2.375,3.200,2.700
-67647944,2026-04-29 05:00,Yokohama FC,Vanraure Hachinohe FC,4,1,2.100,2.900,3.600
-67647946,2026-04-29 05:00,Thespakusatsu,Vegalta Sendai,1,3,,,
-67647948,2026-04-29 05:00,Blaublitz Akita,Montedio Yamagata,2,0,2.300,3.100,3.000
-67648104,2026-04-29 05:00,Hokkaido Consadole Sapporo,Fujieda MYFC,2,1,1.950,3.250,3.700
-67648106,2026-04-29 05:00,RB Omiya Ardija,Ventforet Kofu,1,2,2.250,3.200,2.800
-67648262,2026-04-29 05:00,Kataller Toyama,Albirex Niigata,2,0,2.150,3.200,3.000
-67648264,2026-04-29 05:00,FC Osaka,Tokushima Vortis,2,2,3.100,3.300,2.150
-67648266,2026-04-29 05:00,Nara Club,Kochi United SC,0,0,3.000,3.300,2.200
-67648268,2026-04-29 05:00,Kamatamare Sanuki,Zweigen Kanazawa,0,1,3.300,3.200,2.150
-67648420,2026-04-29 05:00,Oita Trinita,Roasso Kumamoto,0,1,2.300,2.875,3.200
-67648422,2026-04-29 05:00,Kagoshima United,Sagan Tosu,1,1,2.550,2.800,2.800
-67648424,2026-04-29 05:00,Tegevajaro Miyazaki,Giravanz Kitakyushu,3,0,1.571,3.750,5.000
-67648426,2026-04-29 05:00,Renofa Yamaguchi,FC Ryukyu,2,0,1.615,3.900,4.500
-67648428,2026-04-29 05:00,Reilac Shiga FC,Gainare Tottori,1,3,1.615,3.500,5.250
-67648270,2026-04-29 08:00,Ehime FC,FC Imabari,0,2,2.050,3.250,3.300
-67648108,2026-04-29 09:00,Matsumoto Yamaga FC,Jubilo Iwata,1,1,2.600,2.900,2.600
-67648110,2026-04-29 09:00,AC Nagano Parceiro,Fukushima United FC,1,3,3.000,3.250,2.100
-67647950,2026-05-02 05:00,Vegalta Sendai,Blaublitz Akita,1,3,1.950,3.300,3.300
-67647952,2026-05-02 05:00,Yokohama FC,SC Sagamihara,3,3,1.615,3.600,4.333
-67647954,2026-05-02 05:00,Shonan Bellmare,Tochigi City FC,1,2,1.900,3.250,3.600
-67648112,2026-05-02 05:00,Jubilo Iwata,Iwaki FC,1,1,3.100,3.200,2.100
-67648114,2026-05-02 05:00,FC Gifu,Hokkaido Consadole Sapporo,0,3,1.571,3.800,4.500
-67648272,2026-05-02 05:00,Tokushima Vortis,Ehime FC,0,6,2.050,3.100,3.300
-67648274,2026-05-02 05:00,Kochi United SC,FC Osaka,0,0,3.000,2.800,2.350
-67648430,2026-05-02 05:00,Sagan Tosu,Tegevajaro Miyazaki,1,1,3.100,2.900,2.200
-67648432,2026-05-02 06:00,Gainare Tottori,Renofa Yamaguchi,4,1,2.900,3.600,2.000
-67648116,2026-05-02 09:00,AC Nagano Parceiro,Fujieda MYFC,0,0,2.800,3.200,2.200
-67647956,2026-05-03 04:00,Vanraure Hachinohe FC,Thespakusatsu,0,1,,,
-67648118,2026-05-03 04:00,Matsumoto Yamaga FC,Ventforet Kofu,0,1,2.450,2.875,2.800
-67647958,2026-05-03 05:00,Montedio Yamagata,Tochigi SC,2,2,2.300,3.200,2.750
-67648120,2026-05-03 05:00,Fukushima United FC,RB Omiya Ardija,1,2,3.100,4.200,1.800
-67648276,2026-05-03 05:00,FC Imabari,Nara Club,1,2,1.727,3.600,3.800
-67648278,2026-05-03 05:00,Albirex Niigata,Kamatamare Sanuki,2,1,1.727,3.250,4.500
-67648434,2026-05-03 05:00,Giravanz Kitakyushu,Oita Trinita,2,1,2.500,3.100,2.600
-67648436,2026-05-03 05:00,Roasso Kumamoto,Reilac Shiga FC,2,0,1.666,3.500,4.333
-68664142,2026-05-03 05:00,Zweigen Kanazawa,Kataller Toyama,0,1,3.200,3.200,2.050
-67648438,2026-05-03 09:00,FC Ryukyu,Kagoshima United,1,1,3.600,3.500,1.800
-67647960,2026-05-06 05:00,Vanraure Hachinohe FC,Shonan Bellmare,0,1,3.200,2.900,2.250
-67647962,2026-05-06 05:00,Tochigi City FC,Yokohama FC,2,2,3.500,3.250,2.050
-67647964,2026-05-06 05:00,Vegalta Sendai,Tochigi SC,2,1,1.750,3.400,4.333
-67647966,2026-05-06 05:00,Montedio Yamagata,Thespakusatsu,1,2,,,
-67648122,2026-05-06 05:00,Hokkaido Consadole Sapporo,AC Nagano Parceiro,2,0,1.300,4.750,7.000
-67648124,2026-05-06 05:00,Fujieda MYFC,Fukushima United FC,1,1,1.666,3.500,4.500
-67648126,2026-05-06 05:00,RB Omiya Ardija,Iwaki FC,3,2,3.300,3.300,2.100
-67648128,2026-05-06 05:00,Ventforet Kofu,Jubilo Iwata,1,2,2.900,2.875,2.500
-67648280,2026-05-06 05:00,Zweigen Kanazawa,Ehime FC,0,2,3.500,3.250,2.000
-67648282,2026-05-06 05:00,Albirex Niigata,Tokushima Vortis,1,0,2.875,3.100,2.450
-67648284,2026-05-06 05:00,Kataller Toyama,Kamatamare Sanuki,1,1,1.650,4.333,4.100
-67648286,2026-05-06 05:00,Nara Club,FC Osaka,1,3,4.000,3.400,1.833
-67648288,2026-05-06 05:00,FC Imabari,Kochi United SC,1,0,2.250,3.250,3.000
-67648440,2026-05-06 05:00,Reilac Shiga FC,Renofa Yamaguchi,1,4,4.333,3.500,1.750
-67648442,2026-05-06 05:00,Kagoshima United,Oita Trinita,0,1,2.050,3.400,3.100
-67648444,2026-05-06 05:00,Tegevajaro Miyazaki,FC Ryukyu,1,0,1.300,5.250,8.500
-67648446,2026-05-06 05:00,Giravanz Kitakyushu,Roasso Kumamoto,1,2,2.300,3.200,2.875
-67648448,2026-05-06 05:00,Sagan Tosu,Gainare Tottori,4,0,1.750,3.600,4.200
-67647968,2026-05-06 06:00,Blaublitz Akita,SC Sagamihara,0,1,1.909,3.300,3.800
-67648130,2026-05-06 10:00,FC Gifu,Matsumoto Yamaga FC,0,3,2.100,3.100,3.000
-67647970,2026-05-09 05:00,Thespakusatsu,Tochigi City FC,0,0,,,
-67648132,2026-05-09 05:00,Hokkaido Consadole Sapporo,RB Omiya Ardija,4,3,2.300,3.400,2.800
-67648134,2026-05-09 05:00,Iwaki FC,Ventforet Kofu,0,1,1.900,3.400,3.600
-67648290,2026-05-09 05:00,FC Osaka,FC Imabari,1,2,2.150,3.200,3.100
-67648450,2026-05-09 05:00,Renofa Yamaguchi,Tegevajaro Miyazaki,0,1,2.350,3.250,2.750
-67648136,2026-05-09 09:00,AC Nagano Parceiro,FC Gifu,2,3,3.750,3.400,1.850
-67648292,2026-05-10 04:30,Zweigen Kanazawa,Albirex Niigata,1,1,2.400,3.100,2.800
-67647972,2026-05-10 05:00,Vanraure Hachinohe FC,Vegalta Sendai,1,1,3.300,2.875,2.250
-67647974,2026-05-10 05:00,Montedio Yamagata,SC Sagamihara,2,3,2.400,3.250,2.750
-67647976,2026-05-10 05:00,Tochigi SC,Blaublitz Akita,0,0,2.750,3.100,2.450
-67647978,2026-05-10 05:00,Shonan Bellmare,Yokohama FC,0,1,3.000,3.400,2.150
-67648138,2026-05-10 05:00,Fukushima United FC,Jubilo Iwata,4,2,2.550,3.400,2.375
-67648140,2026-05-10 05:00,Matsumoto Yamaga FC,Fujieda MYFC,0,0,1.950,3.300,3.500
-67648294,2026-05-10 05:00,Kamatamare Sanuki,Kochi United SC,0,3,2.800,3.000,2.450
-67648296,2026-05-10 05:00,Tokushima Vortis,Nara Club,1,2,1.450,4.200,6.000
-67648452,2026-05-10 05:00,Reilac Shiga FC,Kagoshima United,1,0,6.000,4.000,1.480
-67648454,2026-05-10 05:00,Gainare Tottori,Giravanz Kitakyushu,1,1,2.550,3.100,2.625
-67648456,2026-05-10 05:00,Roasso Kumamoto,FC Ryukyu,0,1,1.800,3.250,4.500
-67648458,2026-05-10 05:00,Oita Trinita,Sagan Tosu,0,1,3.100,3.100,2.200
-67648298,2026-05-10 06:00,Ehime FC,Kataller Toyama,0,2,2.900,3.400,2.200
-70851614,2026-05-13 09:00,Gainare Tottori,Reilac Shiga FC,3,2,2.250,3.100,2.900
-67647980,2026-05-16 05:00,Shonan Bellmare,Vegalta Sendai,0,2,3.000,3.400,2.050
-67647982,2026-05-16 05:00,SC Sagamihara,Vanraure Hachinohe FC,1,1,2.700,2.800,2.550
-67647984,2026-05-16 05:00,Tochigi City FC,Montedio Yamagata,3,0,2.150,3.250,2.875
-67648142,2026-05-16 05:00,Fukushima United FC,Hokkaido Consadole Sapporo,0,3,3.750,3.500,1.800
-67648300,2026-05-16 05:00,Albirex Niigata,Nara Club,2,1,1.727,3.400,4.100
-67648460,2026-05-16 05:00,Sagan Tosu,Renofa Yamaguchi,1,1,1.900,3.250,3.500
-67648144,2026-05-16 05:30,Jubilo Iwata,Fujieda MYFC,0,3,2.200,3.000,3.100
-67648146,2026-05-16 07:00,Ventforet Kofu,FC Gifu,2,2,2.150,3.000,3.100
-67647986,2026-05-17 05:00,Blaublitz Akita,Thespakusatsu,3,1,,,
-67647988,2026-05-17 05:00,Yokohama FC,Tochigi SC,1,0,1.600,3.800,4.500
-67648148,2026-05-17 05:00,Iwaki FC,Matsumoto Yamaga FC,1,1,1.900,3.400,3.500
-67648150,2026-05-17 05:00,RB Omiya Ardija,AC Nagano Parceiro,1,2,1.333,4.500,7.000
-67648302,2026-05-17 05:00,Kataller Toyama,Tokushima Vortis,2,2,2.050,3.300,3.100
-67648304,2026-05-17 05:00,FC Osaka,Zweigen Kanazawa,1,1,1.800,3.600,3.500
-67648306,2026-05-17 05:00,FC Imabari,Kamatamare Sanuki,1,2,1.550,3.800,4.750
-67648308,2026-05-17 05:00,Kochi United SC,Ehime FC,0,1,2.800,3.000,2.375
-67648464,2026-05-17 05:00,Kagoshima United,Roasso Kumamoto,2,1,1.800,3.250,4.000
-67648466,2026-05-17 05:00,Oita Trinita,Tegevajaro Miyazaki,1,2,3.900,2.900,1.950
-67648468,2026-05-17 09:00,FC Ryukyu,Gainare Tottori,1,3,2.200,3.100,3.000
-67647990,2026-05-23 05:00,Vegalta Sendai,Yokohama FC,0,3,2.600,3.500,2.250
-67647992,2026-05-23 05:00,Thespakusatsu,SC Sagamihara,7,2,,,
-67648152,2026-05-23 05:00,Hokkaido Consadole Sapporo,Jubilo Iwata,0,1,1.900,3.500,3.400
-67648154,2026-05-23 05:00,Fujieda MYFC,Iwaki FC,0,0,3.300,3.100,2.050
-67648156,2026-05-23 05:00,FC Gifu,RB Omiya Ardija,0,2,2.700,3.500,2.150
-67648310,2026-05-23 05:00,Albirex Niigata,Ehime FC,2,1,2.300,3.250,2.700
-67648312,2026-05-23 05:00,Nara Club,Kataller Toyama,5,1,4.333,4.000,1.571
-67648470,2026-05-23 05:00,Renofa Yamaguchi,Roasso Kumamoto,5,6,2.050,3.200,3.100
-67648472,2026-05-23 05:00,Sagan Tosu,FC Ryukyu,5,6,1.450,4.100,5.750
-67648158,2026-05-23 07:00,AC Nagano Parceiro,Ventforet Kofu,4,4,2.875,3.200,2.250
-67647994,2026-05-24 04:00,Vanraure Hachinohe FC,Tochigi SC,0,0,2.150,3.000,3.200
-67647996,2026-05-24 05:00,Blaublitz Akita,Tochigi City FC,1,0,2.550,3.000,2.550
-67647998,2026-05-24 05:00,Montedio Yamagata,Shonan Bellmare,3,1,3.000,3.000,2.250
-67648160,2026-05-24 05:00,Matsumoto Yamaga FC,Fukushima United FC,3,3,1.850,3.300,3.600
-67648314,2026-05-24 05:00,Kamatamare Sanuki,FC Osaka,2,2,4.100,3.400,1.727
-67648316,2026-05-24 05:00,Tokushima Vortis,FC Imabari,3,3,2.200,3.100,3.000
-67648474,2026-05-24 05:00,Gainare Tottori,Oita Trinita,0,0,2.800,3.100,2.250
-67648476,2026-05-24 05:00,Giravanz Kitakyushu,Kagoshima United,1,5,4.200,3.300,1.727
-67648478,2026-05-24 05:00,Tegevajaro Miyazaki,Reilac Shiga FC,2,2,1.300,4.333,8.500
-68664144,2026-05-24 05:00,Zweigen Kanazawa,Kochi United SC,2,0,2.200,2.900,3.200
-71715480,2026-05-30 05:00,Vegalta Sendai,Ventforet Kofu,1,0,1.727,3.500,4.100
-71715868,2026-05-30 05:00,Shonan Bellmare,Iwaki FC,1,1,2.550,3.100,2.550
-71715870,2026-05-30 05:00,FC Osaka,Reilac Shiga FC,0,0,1.650,3.300,4.750
-71715872,2026-05-30 05:00,Tochigi City FC,Jubilo Iwata,2,2,2.250,3.200,2.900
-71715874,2026-05-30 05:00,Nara Club,Oita Trinita,3,3,3.100,3.100,2.250
-71715876,2026-05-30 05:00,SC Sagamihara,Fujieda MYFC,1,1,2.600,3.200,2.550
-71715878,2026-05-30 05:00,Kochi United SC,Renofa Yamaguchi,2,2,2.550,2.900,2.700
-71715880,2026-05-30 05:00,Yokohama FC,RB Omiya Ardija,2,1,1.800,3.800,3.400
-71715882,2026-05-30 05:00,Tokushima Vortis,Sagan Tosu,3,1,2.500,3.100,2.550
-71715884,2026-05-30 05:00,Albirex Niigata,Kagoshima United,0,0,3.000,3.200,2.150
-71715886,2026-05-30 07:00,Ehime FC,Roasso Kumamoto,0,1,2.150,3.100,3.100
-71715482,2026-05-30 09:00,Kataller Toyama,Tegevajaro Miyazaki,1,0,2.400,3.200,2.600
-71715888,2026-05-31 05:00,Blaublitz Akita,Hokkaido Consadole Sapporo,1,1,1.950,3.100,3.500
-71715890,2026-05-31 05:00,Thespakusatsu,FC Gifu,0,1,,,
-71715892,2026-05-31 05:00,Zweigen Kanazawa,Gainare Tottori,1,3,2.150,2.900,3.300
-71715894,2026-05-31 05:00,Montedio Yamagata,Matsumoto Yamaga FC,1,1,2.500,3.100,2.500
-71715896,2026-05-31 05:00,FC Imabari,FC Ryukyu,1,2,1.615,3.200,5.250
-71715898,2026-05-31 05:00,Tochigi SC,AC Nagano Parceiro,0,0,1.615,3.250,5.000
-71715900,2026-05-31 05:00,Kamatamare Sanuki,Giravanz Kitakyushu,3,1,2.600,3.000,2.600
-71715902,2026-06-01 10:00,Vanraure Hachinohe FC,Fukushima United FC,0,1,1.800,3.100,4.200
-71838798,2026-06-05 10:00,Kamatamare Sanuki,AC Nagano Parceiro,0,0,2.350,2.800,3.100
-71835690,2026-06-06 05:00,Vegalta Sendai,Kataller Toyama,1,1,2.375,3.100,2.700
-71835856,2026-06-06 05:00,Tegevajaro Miyazaki,Ventforet Kofu,2,1,1.666,3.400,4.500
-71838800,2026-06-06 05:00,Tochigi City FC,Reilac Shiga FC,3,1,1.950,3.500,3.250
-71838802,2026-06-06 05:00,RB Omiya Ardija,Kochi United SC,2,1,2.050,3.250,3.100
-71838804,2026-06-06 05:00,Yokohama FC,Renofa Yamaguchi,2,1,1.600,3.750,4.500
-71838806,2026-06-06 05:00,SC Sagamihara,Roasso Kumamoto,3,0,2.200,3.000,3.100
-71838808,2026-06-06 05:00,Matsumoto Yamaga FC,Nara Club,0,2,1.700,3.600,4.000
-71838810,2026-06-06 05:00,Albirex Niigata,Hokkaido Consadole Sapporo,0,0,2.550,3.100,2.500
-71838812,2026-06-06 05:00,Fujieda MYFC,Ehime FC,1,0,2.800,3.100,2.300
-71838814,2026-06-06 06:00,FC Gifu,Gainare Tottori,1,1,1.900,3.400,3.500
-71838816,2026-06-06 07:00,Jubilo Iwata,FC Osaka,1,1,2.500,2.800,2.800
-71838818,2026-06-06 10:00,Sagan Tosu,Shonan Bellmare,1,0,2.050,3.000,3.400
-71874808,2026-06-07 04:00,Vanraure Hachinohe FC,FC Imabari,1,1,2.450,2.800,2.875
-71838820,2026-06-07 04:05,Tokushima Vortis,Iwaki FC,2,0,2.450,3.000,2.700
-71838822,2026-06-07 05:00,Blaublitz Akita,Kagoshima United,0,2,3.400,3.000,2.050
-71838824,2026-06-07 05:00,Tochigi SC,Giravanz Kitakyushu,1,1,1.650,3.300,4.750
-71838826,2026-06-07 05:00,Zweigen Kanazawa,Thespakusatsu,4,1,,,
-71875328,2026-06-07 05:00,Fukushima United FC,FC Ryukyu,1,1,2.550,3.100,2.550
-71838828,2026-06-07 07:00,Oita Trinita,Montedio Yamagata,1,0,2.375,2.700,3.100
-72115580,2026-08-08 05:45,Hokkaido Consadole Sapporo,Tokushima Vortis,2,0,2.800,3.300,2.400
-72115582,2026-08-08 09:30,Vanraure Hachinohe FC,Kataller Toyama,2,0,3.000,3.250,2.300
-72115592,2026-08-08 09:30,Fujieda MYFC,Vegalta Sendai,2,0,3.600,3.300,2.000
-72115588,2026-08-08 10:00,RB Omiya Ardija,Albirex Niigata,1,0,2.050,3.300,3.500
-72115590,2026-08-08 10:00,Jubilo Iwata,Blaublitz Akita,1,1,2.450,3.000,3.000
-72115596,2026-08-08 10:00,Oita Trinita,Shonan Bellmare,0,1,2.875,3.000,2.500
-72115598,2026-08-08 10:00,Tegevajaro Miyazaki,Yokohama FC,0,1,2.800,3.200,2.500
-72115594,2026-08-08 10:30,Sagan Tosu,Ventforet Kofu,2,0,1.750,3.500,4.750
-72115586,2026-08-09 09:00,Iwaki FC,FC Imabari,2,1,1.950,3.300,3.800
-72115584,2026-08-09 10:00,Montedio Yamagata,Tochigi City FC,2,0,2.500,3.400,2.700
-72151036,2026-08-15 09:00,Blaublitz Akita,Kataller Toyama,0,4,3.000,3.200,2.350
-72151038,2026-08-15 09:00,Tochigi City FC,Vanraure Hachinohe FC,5,0,2.300,3.300,3.000
-72151046,2026-08-15 09:30,Fujieda MYFC,Iwaki FC,3,1,3.500,3.250,2.100
-72151034,2026-08-15 10:00,Vegalta Sendai,Oita Trinita,0,0,1.750,3.400,4.500
-72151040,2026-08-15 10:00,Shonan Bellmare,Montedio Yamagata,1,0,2.100,3.250,3.500
-72151042,2026-08-15 10:00,Ventforet Kofu,Tegevajaro Miyazaki,1,1,3.400,3.250,2.150
-72151044,2026-08-15 10:00,Albirex Niigata,Hokkaido Consadole Sapporo,2,1,2.400,3.200,2.900
-72151062,2026-08-15 10:00,FC Imabari,RB Omiya Ardija,2,3,3.000,3.400,2.300
-72151064,2026-08-16 09:00,Yokohama FC,Jubilo Iwata,3,1,1.900,3.500,3.900
-72151048,2026-08-16 10:00,Tokushima Vortis,Sagan Tosu,0,0,2.750,3.000,2.700
-72151066,2026-08-22 06:00,Hokkaido Consadole Sapporo,RB Omiya Ardija,1,4,3.000,3.600,2.200
-72151068,2026-08-22 08:00,Vanraure Hachinohe FC,Vegalta Sendai,0,2,4.500,3.000,1.909
-72151070,2026-08-22 09:00,Blaublitz Akita,Ventforet Kofu,3,0,2.200,3.100,3.400
-72151076,2026-08-22 09:30,Kataller Toyama,FC Imabari,4,0,1.750,3.600,4.333
-72151072,2026-08-22 10:00,Montedio Yamagata,Yokohama FC,2,0,4.333,3.600,1.750
-72151074,2026-08-22 10:00,Albirex Niigata,Fujieda MYFC,1,0,2.150,3.000,3.500
-72151078,2026-08-22 10:00,Jubilo Iwata,Tokushima Vortis,2,1,2.700,3.000,2.625
-72151080,2026-08-22 10:00,Sagan Tosu,Tochigi City FC,1,3,2.000,3.250,3.800
-72151082,2026-08-22 10:00,Oita Trinita,Iwaki FC,4,1,3.200,2.800,2.450
-72151084,2026-08-22 10:00,Tegevajaro Miyazaki,Shonan Bellmare,0,0,2.250,3.200,3.200
-72151090,2026-08-29 09:00,Iwaki FC,Albirex Niigata,2,3,2.350,3.250,3.000
-72151092,2026-08-29 09:00,Tochigi City FC,Jubilo Iwata,1,3,2.300,3.400,2.900
-72151086,2026-08-29 09:30,Vanraure Hachinohe FC,Blaublitz Akita,1,0,2.750,3.200,2.500
-72151100,2026-08-29 09:30,Kataller Toyama,Fujieda MYFC,2,3,1.700,3.900,4.333
-72151088,2026-08-29 10:00,Vegalta Sendai,Tegevajaro Miyazaki,4,2,2.500,3.200,2.800
-72151094,2026-08-29 10:00,RB Omiya Ardija,Shonan Bellmare,2,2,2.250,3.600,2.900
-72151096,2026-08-29 10:00,Yokohama FC,Sagan Tosu,2,2,2.100,3.400,3.300
-72151098,2026-08-29 10:00,Ventforet Kofu,Hokkaido Consadole Sapporo,2,1,3.000,3.500,2.200
-72151102,2026-08-29 10:00,Tokushima Vortis,Oita Trinita,1,0,2.300,3.200,3.200
-72151104,2026-08-29 10:00,FC Imabari,Montedio Yamagata,0,3,2.500,3.300,2.700
-72151118,2026-09-05 09:30,Fujieda MYFC,Vanraure Hachinohe FC,0,0,1.900,3.200,4.100
-72151110,2026-09-05 10:00,Montedio Yamagata,Ventforet Kofu,1,2,1.950,3.200,3.800
-72151114,2026-09-05 10:00,Shonan Bellmare,Vegalta Sendai,1,3,2.800,3.100,2.350
-72151120,2026-09-05 10:00,Tokushima Vortis,Iwaki FC,1,0,2.300,3.200,2.900
-72151122,2026-09-05 10:00,Sagan Tosu,Tegevajaro Miyazaki,2,0,2.500,3.100,2.700
-72151106,2026-09-06 04:00,Hokkaido Consadole Sapporo,Tochigi City FC,1,4,2.600,3.400,2.375
-72151108,2026-09-06 09:00,Blaublitz Akita,RB Omiya Ardija,0,0,3.300,3.300,2.050
-72151112,2026-09-06 09:00,Yokohama FC,Albirex Niigata,5,0,1.850,3.300,3.900
-72151116,2026-09-06 10:00,Jubilo Iwata,Kataller Toyama,0,1,2.150,3.200,3.100
-72151124,2026-09-06 10:00,Oita Trinita,FC Imabari,1,1,2.200,3.000,3.400
-72151130,2026-09-12 09:00,Blaublitz Akita,Tokushima Vortis,4,1,2.700,3.000,2.700
-72151132,2026-09-12 09:00,Iwaki FC,Yokohama FC,2,0,3.500,3.250,2.050
-72151126,2026-09-12 09:30,Vanraure Hachinohe FC,Shonan Bellmare,0,1,3.600,3.200,2.050
-72151140,2026-09-12 09:30,Kataller Toyama,Tochigi City FC,0,0,1.833,3.800,3.800
-72151134,2026-09-12 10:00,RB Omiya Ardija,Oita Trinita,0,0,1.727,3.600,4.500
-72151136,2026-09-12 10:00,Ventforet Kofu,Jubilo Iwata,0,1,4.750,3.200,1.833
-72151142,2026-09-12 10:00,FC Imabari,Sagan Tosu,1,0,4.000,3.400,1.850
-72151144,2026-09-12 10:00,Tegevajaro Miyazaki,Fujieda MYFC,3,2,1.950,3.250,3.900
-72151128,2026-09-13 09:00,Vegalta Sendai,Hokkaido Consadole Sapporo,1,1,1.571,3.900,5.250
-72151138,2026-09-13 09:00,Albirex Niigata,Montedio Yamagata,1,0,2.700,3.000,2.700
-72151148,2026-09-18 04:00,Vanraure Hachinohe FC,Tegevajaro Miyazaki,0,3,3.300,3.000,2.300
-72151146,2026-09-19 05:00,Hokkaido Consadole Sapporo,Oita Trinita,1,1,2.250,3.000,3.300
-72151162,2026-09-19 09:30,Fujieda MYFC,RB Omiya Ardija,1,1,3.000,3.600,2.200
-72151150,2026-09-19 10:00,Montedio Yamagata,Kataller Toyama,0,2,2.625,3.500,2.450
-72151154,2026-09-19 10:00,Yokohama FC,FC Imabari,2,1,1.480,4.000,6.500
-72151156,2026-09-19 10:00,Shonan Bellmare,Blaublitz Akita,1,1,2.200,3.100,3.300
-72151158,2026-09-19 10:00,Ventforet Kofu,Tokushima Vortis,0,1,2.900,3.100,2.500
-72151160,2026-09-19 10:00,Albirex Niigata,Jubilo Iwata,2,1,3.300,3.200,2.150
-72151164,2026-09-19 10:00,Sagan Tosu,Iwaki FC,1,3,1.833,3.300,4.333
-72151152,2026-09-20 08:00,Tochigi City FC,Vegalta Sendai,1,3,3.600,3.400,2.000
-72151166,2026-09-26 08:00,Blaublitz Akita,Albirex Niigata,2,2,2.350,3.000,3.200
-72151168,2026-09-26 08:00,Montedio Yamagata,Sagan Tosu,2,0,2.875,3.300,2.375
-72151170,2026-09-26 08:00,Iwaki FC,Vegalta Sendai,0,2,4.100,3.400,1.850
-72151172,2026-09-26 08:00,RB Omiya Ardija,Ventforet Kofu,5,1,1.533,4.000,5.750
-72151174,2026-09-26 08:00,Kataller Toyama,Yokohama FC,3,3,2.600,3.400,2.500
-72151176,2026-09-26 08:00,Jubilo Iwata,Vanraure Hachinohe FC,1,2,1.480,4.100,6.500
-72151178,2026-09-26 08:00,Tokushima Vortis,Tochigi City FC,3,0,2.625,3.100,2.700
-72151180,2026-09-26 08:00,FC Imabari,Shonan Bellmare,1,2,3.300,3.500,2.100
-72151182,2026-09-26 08:00,Oita Trinita,Fujieda MYFC,1,1,2.450,3.100,2.900
-72151184,2026-09-26 08:00,Tegevajaro Miyazaki,Hokkaido Consadole Sapporo,3,2,1.850,3.600,3.800
-72151198,2026-10-03 05:00,Albirex Niigata,Tokushima Vortis,2,1,2.450,3.100,2.875
-72151200,2026-10-03 05:00,Fujieda MYFC,Shonan Bellmare,1,1,2.500,3.200,2.750
-72151196,2026-10-03 07:00,Ventforet Kofu,Kataller Toyama,1,2,5.250,3.800,1.615
-72151194,2026-10-03 08:00,Tochigi City FC,FC Imabari,1,2,1.800,3.700,4.000
-72151202,2026-10-03 08:00,Oita Trinita,Montedio Yamagata,2,1,2.800,3.000,2.550
-72151186,2026-10-04 04:00,Hokkaido Consadole Sapporo,Iwaki FC,2,1,2.300,3.500,2.875
-72151188,2026-10-04 04:00,Vanraure Hachinohe FC,Yokohama FC,0,2,4.333,3.500,1.750
-72151192,2026-10-04 05:00,Blaublitz Akita,Sagan Tosu,1,0,2.900,3.200,2.375
-72151190,2026-10-04 06:00,Vegalta Sendai,Jubilo Iwata,2,1,1.950,3.600,3.500
-72151204,2026-10-04 10:00,Tegevajaro Miyazaki,RB Omiya Ardija,1,1,2.700,3.300,2.550
-72151210,2026-10-10 05:00,RB Omiya Ardija,Vanraure Hachinohe FC,3,1,1.533,3.900,5.750
-72151212,2026-10-10 05:00,Yokohama FC,Oita Trinita,1,2,1.666,3.500,5.250
-72151222,2026-10-10 05:00,Tokushima Vortis,FC Imabari,1,2,2.000,3.200,3.700
-72151224,2026-10-10 05:00,Sagan Tosu,Fujieda MYFC,1,0,1.900,3.400,3.900
-72151216,2026-10-10 07:00,Ventforet Kofu,Tochigi City FC,2,1,3.600,3.500,1.950
-72151220,2026-10-10 09:00,Jubilo Iwata,Hokkaido Consadole Sapporo,1,0,1.750,3.750,4.200
-72151206,2026-10-11 04:05,Montedio Yamagata,Vegalta Sendai,0,1,3.900,3.500,1.850
-72151218,2026-10-11 05:00,Kataller Toyama,Tegevajaro Miyazaki,1,1,2.100,3.400,3.400
-72151208,2026-10-11 06:00,Iwaki FC,Blaublitz Akita,1,0,2.150,3.300,3.200
-72151214,2026-10-11 09:00,Shonan Bellmare,Albirex Niigata,1,1,2.100,3.250,3.400
-72151226,2026-10-17 05:00,Hokkaido Consadole Sapporo,Blaublitz Akita,1,0,2.300,3.200,2.900
-72151228,2026-10-17 05:00,Vegalta Sendai,Tokushima Vortis,0,0,1.571,3.600,5.500
-72151232,2026-10-17 05:00,Tochigi City FC,Yokohama FC,1,1,3.200,3.500,2.050
-72151236,2026-10-17 05:00,Fujieda MYFC,Montedio Yamagata,0,0,2.450,3.250,2.625
-72151238,2026-10-17 05:00,FC Imabari,Vanraure Hachinohe FC,3,3,2.450,3.100,2.800
-72151240,2026-10-17 05:00,Sagan Tosu,RB Omiya Ardija,2,1,2.450,3.250,2.625
-72151242,2026-10-17 05:00,Oita Trinita,Albirex Niigata,5,1,2.500,3.100,2.800
-72151234,2026-10-17 09:00,Kataller Toyama,Shonan Bellmare,1,1,1.900,3.500,3.700
-72151244,2026-10-17 10:00,Tegevajaro Miyazaki,Jubilo Iwata,1,1,2.550,3.100,2.600
-72151230,2026-10-18 04:00,Iwaki FC,Ventforet Kofu,5,0,1.700,3.500,4.500
-72151248,2026-10-21 04:00,Montedio Yamagata,Hokkaido Consadole Sapporo,0,2,2.300,3.400,2.875
-72151246,2026-10-21 10:00,Vegalta Sendai,FC Imabari,3,1,1.480,4.000,6.500
-72151250,2026-10-21 10:00,Tochigi City FC,Fujieda MYFC,2,2,2.800,3.500,2.300
-72151252,2026-10-21 10:00,RB Omiya Ardija,Kataller Toyama,0,3,2.450,3.700,2.550
-72151254,2026-10-21 10:00,Shonan Bellmare,Iwaki FC,1,1,2.875,3.250,2.450
-72151256,2026-10-21 10:00,Ventforet Kofu,Yokohama FC,0,3,5.750,3.800,1.550
-72151258,2026-10-21 10:00,Albirex Niigata,Sagan Tosu,2,1,3.500,3.300,2.100
-72151260,2026-10-21 10:00,Jubilo Iwata,Oita Trinita,0,0,2.100,3.100,3.600
-72151262,2026-10-21 10:00,Tokushima Vortis,Vanraure Hachinohe FC,0,1,2.000,3.400,3.600
-72151264,2026-10-21 10:00,Tegevajaro Miyazaki,Blaublitz Akita,2,1,1.750,3.400,4.500
-72151272,2026-10-24 05:00,RB Omiya Ardija,Yokohama FC,2,2,2.600,3.500,2.450
-72151280,2026-10-24 05:00,Fujieda MYFC,Tokushima Vortis,0,1,2.550,3.200,2.800
-72151266,2026-10-25 05:00,Blaublitz Akita,FC Imabari,1,0,2.200,3.300,3.250
-72151268,2026-10-25 05:00,Montedio Yamagata,Tegevajaro Miyazaki,0,2,3.250,3.250,2.200
-72151276,2026-10-25 05:00,Albirex Niigata,Vegalta Sendai,2,1,3.800,3.400,1.900
-72151278,2026-10-25 05:00,Kataller Toyama,Hokkaido Consadole Sapporo,0,1,1.727,3.900,4.200
-72151282,2026-10-25 05:00,Sagan Tosu,Vanraure Hachinohe FC,2,0,1.600,3.700,6.000
-72151284,2026-10-25 05:00,Oita Trinita,Ventforet Kofu,1,1,1.900,3.200,4.333
-72151270,2026-10-25 06:00,Iwaki FC,Jubilo Iwata,1,1,2.450,3.300,2.750
-72151274,2026-10-25 09:00,Shonan Bellmare,Tochigi City FC,2,1,2.050,3.600,3.250
-72151286,2026-10-31 04:00,Hokkaido Consadole Sapporo,Shonan Bellmare,1,0,2.700,3.500,2.375
-72151288,2026-10-31 05:00,Vanraure Hachinohe FC,Montedio Yamagata,1,2,2.700,3.200,2.550
-72151290,2026-10-31 05:00,Vegalta Sendai,RB Omiya Ardija,1,2,1.850,3.900,3.700
-72151294,2026-10-31 05:00,Tochigi City FC,Iwaki FC,1,3,2.625,3.500,2.450
-72151296,2026-10-31 05:00,Albirex Niigata,Kataller Toyama,2,3,3.000,3.600,2.200
-72151298,2026-10-31 05:00,Jubilo Iwata,Sagan Tosu,2,0,2.550,3.200,2.750
-72151300,2026-10-31 05:00,Tokushima Vortis,Yokohama FC,0,1,3.400,3.300,2.100
-72151304,2026-10-31 05:00,Tegevajaro Miyazaki,Oita Trinita,2,0,1.800,3.400,4.500
-72151302,2026-10-31 05:05,FC Imabari,Ventforet Kofu,1,1,2.000,3.400,3.500
-72151292,2026-10-31 05:45,Blaublitz Akita,Fujieda MYFC,1,1,2.350,3.100,3.100
-72151316,2026-11-03 04:55,Kataller Toyama,Vegalta Sendai,1,0,2.900,3.600,2.200
-72151306,2026-11-03 05:00,Montedio Yamagata,Tokushima Vortis,1,0,2.875,3.100,2.450
-72151308,2026-11-03 05:00,RB Omiya Ardija,Iwaki FC,2,1,1.909,3.600,3.500
-72151310,2026-11-03 05:00,Yokohama FC,Blaublitz Akita,2,1,1.600,3.750,5.250
-72151312,2026-11-03 05:00,Shonan Bellmare,Sagan Tosu,0,1,3.100,3.300,2.200
-72151314,2026-11-03 05:00,Ventforet Kofu,Albirex Niigata,0,1,3.600,3.500,1.950
-72151318,2026-11-03 05:00,Fujieda MYFC,Jubilo Iwata,1,2,3.250,3.300,2.150
-72151322,2026-11-03 05:00,Oita Trinita,Vanraure Hachinohe FC,1,0,2.375,3.200,2.900
-72151324,2026-11-03 05:00,Tegevajaro Miyazaki,Tochigi City FC,3,0,1.615,3.900,4.750
-72151320,2026-11-03 05:50,FC Imabari,Hokkaido Consadole Sapporo,0,4,2.625,3.500,2.400
-72151330,2026-11-07 05:00,Blaublitz Akita,Oita Trinita,2,1,2.400,3.100,3.000
-72151332,2026-11-07 05:00,Iwaki FC,Montedio Yamagata,2,0,1.800,3.750,3.900
-72151336,2026-11-07 05:00,Yokohama FC,Fujieda MYFC,4,0,1.533,4.000,6.000
-72151338,2026-11-07 05:00,Albirex Niigata,FC Imabari,1,0,1.850,3.500,4.000
-72151342,2026-11-07 05:00,Tokushima Vortis,Tegevajaro Miyazaki,1,2,3.700,3.300,2.000
-72151344,2026-11-07 05:00,Sagan Tosu,Kataller Toyama,1,2,1.850,3.700,3.800
-72151326,2026-11-08 04:00,Vanraure Hachinohe FC,Hokkaido Consadole Sapporo,0,1,3.100,3.300,2.250
-72151334,2026-11-08 05:00,Tochigi City FC,RB Omiya Ardija,0,3,3.600,3.900,1.833
-72151340,2026-11-08 05:00,Jubilo Iwata,Shonan Bellmare,1,1,1.909,3.700,3.600
-72151328,2026-11-08 06:00,Vegalta Sendai,Ventforet Kofu,5,1,1.420,4.500,6.500
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+57584859,2025-05-25 04:00,Iwaki FC,Vegalta Sendai,1,2,,,,,,
+57584861,2025-05-25 05:00,Montedio Yamagata,Ventforet Kofu,0,4,,,,,,
+57584863,2025-05-25 05:00,Renofa Yamaguchi,Fujieda MYFC,0,0,,,,,,
+57584865,2025-05-25 05:00,Tokushima Vortis,Jubilo Iwata,1,1,,,,,,
+57584867,2025-05-25 05:00,Sagan Tosu,Hokkaido Consadole Sapporo,2,1,,,,,,
+57584869,2025-05-25 05:00,V-Varen Nagasaki,JEF United Chiba,1,0,,,,,,
+57584871,2025-05-25 07:00,Roasso Kumamoto,Blaublitz Akita,1,2,,,,,,
+57584879,2025-05-31 05:00,Vegalta Sendai,Hokkaido Consadole Sapporo,1,1,,,,,,
+57584881,2025-05-31 05:00,Blaublitz Akita,Kataller Toyama,2,2,,,,,,
+57584883,2025-05-31 05:00,Mito Hollyhock,V-Varen Nagasaki,3,0,,,,,,
+57584885,2025-05-31 05:00,RB Omiya Ardija,Jubilo Iwata,2,2,,,,,,
+57584887,2025-05-31 05:00,JEF United Chiba,Renofa Yamaguchi,0,0,,,,,,
+57584889,2025-05-31 05:00,Fujieda MYFC,Montedio Yamagata,2,1,,,,,,
+57584891,2025-05-31 05:00,Sagan Tosu,Ehime FC,2,2,,,,,,
+57584893,2025-05-31 09:05,FC Imabari,Tokushima Vortis,0,1,,,,,,
+57584895,2025-05-31 10:00,Oita Trinita,Ventforet Kofu,2,1,,,,,,
+57584897,2025-06-01 05:00,Iwaki FC,Roasso Kumamoto,5,1,,,,,,
+57584873,2025-06-07 09:00,FC Imabari,Oita Trinita,1,1,,,,,,
+57584875,2025-06-08 05:00,RB Omiya Ardija,Ehime FC,1,1,,,,,,
+57584877,2025-06-08 05:00,Kataller Toyama,Mito Hollyhock,0,1,,,,,,
+57584899,2025-06-14 09:00,Mito Hollyhock,Sagan Tosu,1,0,,,,,,
+57584901,2025-06-15 05:00,Hokkaido Consadole Sapporo,FC Imabari,2,2,,,,,,
+57584903,2025-06-15 05:00,Kataller Toyama,Fujieda MYFC,0,1,,,,,,
+57584905,2025-06-15 05:00,Renofa Yamaguchi,Iwaki FC,2,2,,,,,,
+57584907,2025-06-15 07:00,Montedio Yamagata,Vegalta Sendai,3,4,,,,,,
+57584909,2025-06-15 08:00,Jubilo Iwata,Ehime FC,4,0,,,,,,
+57584911,2025-06-15 08:00,V-Varen Nagasaki,RB Omiya Ardija,3,3,,,,,,
+57584913,2025-06-15 09:00,Oita Trinita,Blaublitz Akita,1,2,,,,,,
+57584915,2025-06-15 09:30,Ventforet Kofu,Roasso Kumamoto,1,1,,,,,,
+57584917,2025-06-15 10:00,Tokushima Vortis,JEF United Chiba,3,3,,,,,,
+57584919,2025-06-21 07:00,Iwaki FC,Kataller Toyama,3,1,,,,,,
+57584921,2025-06-21 09:00,Ehime FC,Renofa Yamaguchi,2,0,,,,,,
+57584923,2025-06-21 09:00,FC Imabari,Mito Hollyhock,1,2,,,,,,
+57584925,2025-06-21 10:00,RB Omiya Ardija,Sagan Tosu,0,0,,,,,,
+57584927,2025-06-21 10:00,JEF United Chiba,Jubilo Iwata,0,1,,,,,,
+57584929,2025-06-21 10:00,Fujieda MYFC,Hokkaido Consadole Sapporo,1,3,,,,,,
+57584931,2025-06-21 10:00,Tokushima Vortis,Oita Trinita,2,0,,,,,,
+57584933,2025-06-22 04:35,Roasso Kumamoto,V-Varen Nagasaki,1,3,,,,,,
+57584935,2025-06-22 05:00,Blaublitz Akita,Montedio Yamagata,2,3,,,,,,
+57584937,2025-06-22 09:00,Vegalta Sendai,Ventforet Kofu,0,0,,,,,,
+57584939,2025-06-28 05:00,Hokkaido Consadole Sapporo,Roasso Kumamoto,3,2,,,,,,
+57584941,2025-06-28 09:00,Mito Hollyhock,Tokushima Vortis,1,1,,,,,,
+57584943,2025-06-28 09:00,Kataller Toyama,JEF United Chiba,1,0,,,,,,
+57584945,2025-06-28 09:30,Ventforet Kofu,Ehime FC,0,0,,,,,,
+57584947,2025-06-28 10:00,Montedio Yamagata,V-Varen Nagasaki,1,2,,,,,,
+57584949,2025-06-28 10:00,Fujieda MYFC,FC Imabari,0,0,,,,,,
+57584951,2025-06-28 10:00,Renofa Yamaguchi,Blaublitz Akita,1,1,,,,,,
+57584953,2025-06-28 10:00,Sagan Tosu,Iwaki FC,1,0,,,,,,
+57584955,2025-06-28 10:00,Oita Trinita,RB Omiya Ardija,0,0,,,,,,
+57584957,2025-06-28 10:30,Jubilo Iwata,Vegalta Sendai,0,1,,,,,,
+57584959,2025-07-05 05:00,Hokkaido Consadole Sapporo,Renofa Yamaguchi,1,0,,,,,,
+57584961,2025-07-05 09:00,Blaublitz Akita,Mito Hollyhock,0,2,,,,,,
+57584963,2025-07-05 09:00,V-Varen Nagasaki,Oita Trinita,1,0,,,,,,
+57584965,2025-07-05 10:00,Vegalta Sendai,Kataller Toyama,0,1,,,,,,
+57584967,2025-07-05 10:00,RB Omiya Ardija,Iwaki FC,1,2,,,,,,
+57584969,2025-07-05 10:00,JEF United Chiba,Sagan Tosu,0,2,,,,,,
+57584971,2025-07-05 10:00,Tokushima Vortis,Fujieda MYFC,0,2,,,,,,
+57584973,2025-07-05 10:00,FC Imabari,Ventforet Kofu,2,4,,,,,,
+57584975,2025-07-06 09:00,Roasso Kumamoto,Jubilo Iwata,2,0,,,,,,
+57584977,2025-07-06 10:00,Ehime FC,Montedio Yamagata,1,3,,,,,,
+57584979,2025-07-12 09:00,Blaublitz Akita,Roasso Kumamoto,3,2,,,,,,
+57584981,2025-07-12 09:00,Iwaki FC,V-Varen Nagasaki,1,1,,,,,,
+57584983,2025-07-12 09:00,Mito Hollyhock,Kataller Toyama,3,0,,,,,,
+57584985,2025-07-12 09:05,FC Imabari,Ehime FC,1,0,,,,,,
+57584987,2025-07-12 09:30,Ventforet Kofu,RB Omiya Ardija,1,0,,,,,,
+57584989,2025-07-12 10:00,Montedio Yamagata,JEF United Chiba,0,1,,,,,,
+57584991,2025-07-12 10:00,Fujieda MYFC,Vegalta Sendai,1,1,,,,,,
+57584993,2025-07-12 10:00,Renofa Yamaguchi,Tokushima Vortis,0,0,,,,,,
+57584995,2025-07-12 10:00,Sagan Tosu,Oita Trinita,2,1,,,,,,
+57584997,2025-07-12 10:30,Jubilo Iwata,Hokkaido Consadole Sapporo,5,1,,,,,,
+57584999,2025-08-02 05:00,Hokkaido Consadole Sapporo,Sagan Tosu,1,0,,,,,,
+57585001,2025-08-02 09:00,Kataller Toyama,RB Omiya Ardija,0,2,,,,,,
+57585003,2025-08-02 09:00,V-Varen Nagasaki,Vegalta Sendai,0,0,,,,,,
+57585005,2025-08-02 09:30,Ventforet Kofu,Montedio Yamagata,1,3,,,,,,
+57585007,2025-08-02 10:00,JEF United Chiba,Iwaki FC,2,2,,,,,,
+57585009,2025-08-02 10:00,Fujieda MYFC,Renofa Yamaguchi,2,2,,,,,,
+57585011,2025-08-02 10:00,Tokushima Vortis,Ehime FC,1,0,,,,,,
+57585013,2025-08-02 10:00,Oita Trinita,FC Imabari,0,1,,,,,,
+57585015,2025-08-02 10:30,Jubilo Iwata,Blaublitz Akita,1,4,,,,,,
+57585017,2025-08-03 10:00,Roasso Kumamoto,Mito Hollyhock,2,1,,,,,,
+57585019,2025-08-09 09:00,Blaublitz Akita,Fujieda MYFC,0,0,,,,,,
+57585021,2025-08-09 09:00,V-Varen Nagasaki,Hokkaido Consadole Sapporo,2,1,,,,,,
+57585023,2025-08-09 10:00,RB Omiya Ardija,JEF United Chiba,0,1,,,,,,
+57585025,2025-08-09 10:00,FC Imabari,Roasso Kumamoto,3,2,,,,,,
+57585027,2025-08-09 10:00,Oita Trinita,Kataller Toyama,2,2,,,,,,
+57585029,2025-08-10 09:00,Iwaki FC,Jubilo Iwata,3,1,,,,,,
+57585031,2025-08-10 10:00,Vegalta Sendai,Tokushima Vortis,0,2,,,,,,
+57585033,2025-08-10 10:00,Montedio Yamagata,Mito Hollyhock,1,2,,,,,,
+57585035,2025-08-10 10:00,Ehime FC,Sagan Tosu,0,1,,,,,,
+57585037,2025-08-11 10:00,Renofa Yamaguchi,Ventforet Kofu,0,1,,,,,,
+57585039,2025-08-16 05:00,Hokkaido Consadole Sapporo,Blaublitz Akita,0,2,,,,,,
+57585041,2025-08-16 09:00,Mito Hollyhock,Jubilo Iwata,1,3,,,,,,
+57585043,2025-08-16 09:00,Kataller Toyama,FC Imabari,1,2,,,,,,
+57585045,2025-08-16 10:00,Montedio Yamagata,Iwaki FC,1,0,,,,,,
+57585047,2025-08-16 10:00,JEF United Chiba,Tokushima Vortis,1,0,,,,,,
+57585049,2025-08-16 10:00,Renofa Yamaguchi,Vegalta Sendai,2,2,,,,,,
+57585051,2025-08-16 10:00,Roasso Kumamoto,Fujieda MYFC,2,1,,,,,,
+57585053,2025-08-17 09:30,Ventforet Kofu,Oita Trinita,2,0,,,,,,
+57585055,2025-08-17 10:00,Ehime FC,RB Omiya Ardija,0,3,,,,,,
+57585057,2025-08-17 10:00,Sagan Tosu,V-Varen Nagasaki,1,2,,,,,,
+57585059,2025-08-23 09:00,Blaublitz Akita,FC Imabari,1,2,,,,,,
+57585061,2025-08-23 09:00,Iwaki FC,Oita Trinita,4,0,,,,,,
+57585063,2025-08-23 09:30,Ventforet Kofu,Hokkaido Consadole Sapporo,1,2,,,,,,
+57585065,2025-08-23 10:00,RB Omiya Ardija,Roasso Kumamoto,1,0,,,,,,
+57585067,2025-08-23 10:00,Fujieda MYFC,Ehime FC,4,1,,,,,,
+57585069,2025-08-23 10:00,Tokushima Vortis,Montedio Yamagata,1,0,,,,,,
+57585071,2025-08-23 10:00,Sagan Tosu,Mito Hollyhock,2,2,,,,,,
+57585073,2025-08-23 10:30,Jubilo Iwata,Kataller Toyama,2,0,,,,,,
+57585075,2025-08-24 09:00,V-Varen Nagasaki,Renofa Yamaguchi,1,0,,,,,,
+57585077,2025-08-24 10:00,Vegalta Sendai,JEF United Chiba,1,0,,,,,,
+57585079,2025-08-30 05:00,Hokkaido Consadole Sapporo,RB Omiya Ardija,1,0,,,,,,
+57585081,2025-08-30 09:00,Mito Hollyhock,Renofa Yamaguchi,2,2,,,,,,
+57585083,2025-08-30 09:30,Kataller Toyama,Roasso Kumamoto,0,1,,,,,,
+57585085,2025-08-30 10:00,Montedio Yamagata,Sagan Tosu,3,2,,,,,,
+57585087,2025-08-30 10:00,JEF United Chiba,Ventforet Kofu,2,1,,,,,,
+57585089,2025-08-30 10:00,Tokushima Vortis,Blaublitz Akita,1,1,,,,,,
+57585091,2025-08-30 10:00,FC Imabari,Iwaki FC,0,2,,,,,,
+57585093,2025-08-31 09:00,V-Varen Nagasaki,Fujieda MYFC,2,1,,,,,,
+57585095,2025-08-31 10:00,Ehime FC,Vegalta Sendai,1,1,,,,,,
+57585097,2025-08-31 10:00,Oita Trinita,Jubilo Iwata,0,0,,,,,,
+57585099,2025-09-13 05:00,Hokkaido Consadole Sapporo,Iwaki FC,1,5,,,,,,
+57585101,2025-09-13 09:00,Vegalta Sendai,Mito Hollyhock,1,1,,,,,,
+57585109,2025-09-13 09:00,Fujieda MYFC,Oita Trinita,1,1,,,,,,
+57585105,2025-09-13 09:30,Ventforet Kofu,Sagan Tosu,2,3,,,,,,
+57585103,2025-09-13 10:00,RB Omiya Ardija,V-Varen Nagasaki,1,2,,,,,,
+57585107,2025-09-13 10:00,Jubilo Iwata,FC Imabari,1,0,,,,,,
+57585111,2025-09-14 10:00,Blaublitz Akita,Ehime FC,3,2,,,,,,
+57585113,2025-09-14 10:00,Montedio Yamagata,Kataller Toyama,3,0,,,,,,
+57585115,2025-09-14 10:00,Renofa Yamaguchi,JEF United Chiba,2,1,,,,,,
+57585117,2025-09-15 10:00,Roasso Kumamoto,Tokushima Vortis,2,1,,,,,,
+57585127,2025-09-20 04:55,Fujieda MYFC,Jubilo Iwata,2,1,,,,,,
+57585119,2025-09-20 09:00,Vegalta Sendai,Montedio Yamagata,3,1,,,,,,
+57585121,2025-09-20 09:00,Iwaki FC,Mito Hollyhock,0,0,,,,,,
+57585135,2025-09-20 09:00,V-Varen Nagasaki,Kataller Toyama,1,1,,,,,,
+57585125,2025-09-20 09:30,Ventforet Kofu,Blaublitz Akita,1,1,,,,,,
+57585123,2025-09-20 10:00,RB Omiya Ardija,FC Imabari,2,3,,,,,,
+57585129,2025-09-20 10:00,Tokushima Vortis,Hokkaido Consadole Sapporo,1,2,,,,,,
+57585131,2025-09-20 10:00,Ehime FC,JEF United Chiba,0,1,,,,,,
+57585133,2025-09-20 10:00,Sagan Tosu,Roasso Kumamoto,4,2,,,,,,
+57585137,2025-09-20 10:00,Oita Trinita,Renofa Yamaguchi,1,0,,,,,,
+57585139,2025-09-27 05:00,Hokkaido Consadole Sapporo,Vegalta Sendai,0,3,,,,,,
+57585141,2025-09-27 09:00,Montedio Yamagata,Renofa Yamaguchi,2,1,,,,,,
+57585143,2025-09-27 09:00,Iwaki FC,Ventforet Kofu,2,3,,,,,,
+57585145,2025-09-27 09:00,JEF United Chiba,Roasso Kumamoto,2,2,,,,,,
+57585147,2025-09-27 10:00,Jubilo Iwata,RB Omiya Ardija,3,4,,,,,,
+57585149,2025-09-27 10:00,FC Imabari,Sagan Tosu,1,1,,,,,,
+57585151,2025-09-27 10:00,Oita Trinita,Ehime FC,0,3,,,,,,
+57585153,2025-09-28 04:00,Blaublitz Akita,V-Varen Nagasaki,0,0,,,,,,
+57585155,2025-09-28 05:00,Mito Hollyhock,Fujieda MYFC,2,0,,,,,,
+57585157,2025-09-28 06:00,Kataller Toyama,Tokushima Vortis,1,3,,,,,,
+57585159,2025-10-04 05:00,Hokkaido Consadole Sapporo,Montedio Yamagata,1,2,,,,,,
+57585163,2025-10-04 05:00,JEF United Chiba,V-Varen Nagasaki,0,2,,,,,,
+57585167,2025-10-04 05:00,Fujieda MYFC,Kataller Toyama,0,1,,,,,,
+57585161,2025-10-04 06:00,Vegalta Sendai,RB Omiya Ardija,1,2,,,,,,
+57585165,2025-10-04 07:00,Ventforet Kofu,Jubilo Iwata,0,1,,,,,,
+57585169,2025-10-05 05:00,Blaublitz Akita,Oita Trinita,0,0,,,,,,
+57585171,2025-10-05 05:00,Renofa Yamaguchi,Sagan Tosu,1,2,,,,,,
+57585173,2025-10-05 05:00,Tokushima Vortis,FC Imabari,1,0,,,,,,
+57585177,2025-10-05 06:00,Roasso Kumamoto,Iwaki FC,0,2,,,,,,
+57585175,2025-10-05 07:00,Ehime FC,Mito Hollyhock,1,3,,,,,,
+57585179,2025-10-18 05:00,Iwaki FC,Ehime FC,2,1,,,,,,
+57585181,2025-10-18 05:00,RB Omiya Ardija,Fujieda MYFC,1,0,,,,,,
+57585185,2025-10-18 05:00,Sagan Tosu,Blaublitz Akita,1,0,,,,,,
+57585183,2025-10-18 08:00,Jubilo Iwata,Tokushima Vortis,0,4,,,,,,
+57585187,2025-10-18 08:00,V-Varen Nagasaki,Ventforet Kofu,4,0,,,,,,
+57585193,2025-10-19 03:55,Kataller Toyama,Hokkaido Consadole Sapporo,0,2,,,,,,
+57585195,2025-10-19 04:00,FC Imabari,Renofa Yamaguchi,1,1,,,,,,
+57585189,2025-10-19 05:00,Montedio Yamagata,Roasso Kumamoto,1,1,,,,,,
+57585197,2025-10-19 05:00,Oita Trinita,Vegalta Sendai,0,0,,,,,,
+57585191,2025-10-19 07:00,Mito Hollyhock,JEF United Chiba,0,1,,,,,,
+57585201,2025-10-25 05:00,Fujieda MYFC,Ventforet Kofu,1,1,,,,,,
+57585203,2025-10-25 08:00,V-Varen Nagasaki,FC Imabari,1,1,,,,,,
+57585205,2025-10-26 04:00,Hokkaido Consadole Sapporo,Mito Hollyhock,0,1,,,,,,
+57585209,2025-10-26 04:00,Montedio Yamagata,RB Omiya Ardija,2,2,,,,,,
+57585213,2025-10-26 04:05,Tokushima Vortis,Iwaki FC,0,1,,,,,,
+57585199,2025-10-26 05:00,Vegalta Sendai,Sagan Tosu,3,2,,,,,,
+57585207,2025-10-26 05:00,Blaublitz Akita,JEF United Chiba,0,0,,,,,,
+57585211,2025-10-26 05:00,Renofa Yamaguchi,Kataller Toyama,1,0,,,,,,
+57585217,2025-10-26 05:00,Roasso Kumamoto,Oita Trinita,0,1,,,,,,
+57585215,2025-10-26 07:00,Ehime FC,Jubilo Iwata,1,3,,,,,,
+57585219,2025-11-02 05:00,Iwaki FC,Fujieda MYFC,3,1,,,,,,
+57585221,2025-11-02 05:00,RB Omiya Ardija,Blaublitz Akita,5,0,,,,,,
+57585223,2025-11-02 05:00,JEF United Chiba,Hokkaido Consadole Sapporo,5,2,,,,,,
+57585225,2025-11-02 05:00,Ventforet Kofu,Mito Hollyhock,0,1,,,,,,
+57585227,2025-11-02 05:00,Kataller Toyama,Ehime FC,1,1,,,,,,
+57585229,2025-11-02 05:00,Jubilo Iwata,V-Varen Nagasaki,1,0,,,,,,
+57585231,2025-11-02 05:00,FC Imabari,Vegalta Sendai,3,2,,,,,,
+57585233,2025-11-02 05:00,Sagan Tosu,Tokushima Vortis,0,0,,,,,,
+57585235,2025-11-02 05:00,Roasso Kumamoto,Renofa Yamaguchi,0,1,,,,,,
+57585237,2025-11-02 05:30,Oita Trinita,Montedio Yamagata,1,2,,,,,,
+57585239,2025-11-08 05:00,Hokkaido Consadole Sapporo,Oita Trinita,3,1,,,,,,
+57585243,2025-11-08 05:30,Ehime FC,V-Varen Nagasaki,0,4,,,,,,
+57585241,2025-11-09 04:00,Vegalta Sendai,Roasso Kumamoto,2,0,,,,,,
+57585253,2025-11-09 04:00,Kataller Toyama,Sagan Tosu,3,1,,,,,,
+57585245,2025-11-09 05:00,Blaublitz Akita,Iwaki FC,2,0,,,,,,
+57585247,2025-11-09 05:00,Montedio Yamagata,FC Imabari,2,1,,,,,,
+57585249,2025-11-09 05:00,Mito Hollyhock,RB Omiya Ardija,0,2,,,,,,
+57585251,2025-11-09 05:00,JEF United Chiba,Fujieda MYFC,1,1,,,,,,
+57585255,2025-11-09 05:00,Renofa Yamaguchi,Jubilo Iwata,1,2,,,,,,
+57585257,2025-11-09 05:00,Tokushima Vortis,Ventforet Kofu,4,1,,,,,,
+57585277,2025-11-23 04:00,Oita Trinita,JEF United Chiba,0,1,,,,,,
+57585275,2025-11-23 04:05,V-Varen Nagasaki,Mito Hollyhock,2,1,,,,,,
+57585259,2025-11-23 05:00,Blaublitz Akita,Vegalta Sendai,0,0,,,,,,
+57585261,2025-11-23 05:00,Iwaki FC,Renofa Yamaguchi,0,0,,,,,,
+57585263,2025-11-23 05:00,RB Omiya Ardija,Tokushima Vortis,1,2,,,,,,
+57585265,2025-11-23 05:00,Ventforet Kofu,Kataller Toyama,0,1,,,,,,
+57585267,2025-11-23 05:00,Jubilo Iwata,Montedio Yamagata,2,2,,,,,,
+57585269,2025-11-23 05:00,Fujieda MYFC,Sagan Tosu,0,0,,,,,,
+57585273,2025-11-23 05:00,FC Imabari,Hokkaido Consadole Sapporo,1,1,,,,,,
+57585271,2025-11-23 07:00,Ehime FC,Roasso Kumamoto,1,1,,,,,,
+57585279,2025-11-29 05:00,Hokkaido Consadole Sapporo,Ehime FC,3,0,,,,,,
+57585281,2025-11-29 05:00,Vegalta Sendai,Iwaki FC,0,1,,,,,,
+57585283,2025-11-29 05:00,Montedio Yamagata,Fujieda MYFC,2,1,,,,,,
+57585285,2025-11-29 05:00,Mito Hollyhock,Oita Trinita,2,0,,,,,,
+57585287,2025-11-29 05:00,JEF United Chiba,FC Imabari,5,0,,,,,,
+57585289,2025-11-29 05:00,Kataller Toyama,Blaublitz Akita,4,1,,,,,,
+57585291,2025-11-29 05:00,Renofa Yamaguchi,RB Omiya Ardija,3,2,,,,,,
+57585293,2025-11-29 05:00,Tokushima Vortis,V-Varen Nagasaki,1,1,,,,,,
+57585295,2025-11-29 05:00,Sagan Tosu,Jubilo Iwata,1,2,,,,,,
+57585297,2025-11-29 05:00,Roasso Kumamoto,Ventforet Kofu,0,0,,,,,,
+66270614,2025-12-07 04:00,JEF United Chiba,RB Omiya Ardija,4,3,,,,,,
+66270616,2025-12-07 04:10,Tokushima Vortis,Jubilo Iwata,1,1,,,,,,
+66527462,2025-12-13 04:05,JEF United Chiba,Tokushima Vortis,1,0,2.250,3.000,3.300,2.5,1.975,1.825
+67092092,2026-02-07 05:00,Tochigi City FC,Vegalta Sendai,1,4,2.600,3.000,2.550,2.25,1.975,1.825
+67092094,2026-02-07 05:00,Yokohama FC,Montedio Yamagata,1,2,2.050,3.100,3.300,2.25,1.900,1.900
+67092096,2026-02-07 05:00,Shonan Bellmare,Blaublitz Akita,1,2,2.000,3.100,3.400,2.25,1.950,1.850
+67092102,2026-02-07 05:00,RB Omiya Ardija,Matsumoto Yamaga FC,2,1,1.480,4.333,4.750,2.75,1.950,1.850
+67092104,2026-02-07 05:00,Ventforet Kofu,Fukushima United FC,4,1,1.571,3.800,4.500,2.5,1.850,1.950
+67092106,2026-02-07 05:00,Jubilo Iwata,AC Nagano Parceiro,0,0,1.400,4.500,5.500,2.5,2.000,1.800
+67092112,2026-02-07 05:00,Nara Club,Tokushima Vortis,0,6,4.500,4.000,1.550,2.5,1.975,1.825
+67092120,2026-02-07 05:00,Giravanz Kitakyushu,Gainare Tottori,1,3,2.150,3.100,3.100,2.25,1.925,1.875
+67092122,2026-02-08 04:00,Roasso Kumamoto,Renofa Yamaguchi,2,1,2.550,3.100,2.550,2.25,1.975,1.825
+67092114,2026-02-08 04:05,Ehime FC,Albirex Niigata,0,1,4.333,3.700,1.650,2.5,1.950,1.850
+67092108,2026-02-08 04:30,Fujieda MYFC,FC Gifu,0,2,2.000,3.300,3.200,2.5,1.925,1.875
+67092100,2026-02-08 05:00,Iwaki FC,Hokkaido Consadole Sapporo,1,0,2.400,3.200,2.550,2.5,1.950,1.850
+67092110,2026-02-08 05:00,FC Osaka,Kamatamare Sanuki,0,1,1.700,3.600,4.200,2.5,1.975,1.825
+67092116,2026-02-08 05:00,FC Imabari,Zweigen Kanazawa,0,0,1.727,3.500,4.000,2.5,1.975,1.825
+67092118,2026-02-08 05:00,Kochi United SC,Kataller Toyama,3,1,2.600,3.200,2.500,2.25,1.950,1.850
+67092126,2026-02-08 05:00,Kagoshima United,Tegevajaro Miyazaki,2,3,1.909,3.300,3.500,2.5,1.850,1.950
+67092128,2026-02-08 05:00,FC Ryukyu,Sagan Tosu,2,2,4.750,4.000,1.550,2.75,1.900,1.900
+67150244,2026-02-14 05:00,Thespakusatsu,Vanraure Hachinohe FC,0,1,,,,,,
+67150246,2026-02-14 05:00,Yokohama FC,Vegalta Sendai,0,1,2.450,3.200,2.500,2.25,1.825,1.975
+67150248,2026-02-14 05:00,Shonan Bellmare,SC Sagamihara,4,0,1.650,3.800,4.100,2.5,1.950,1.850
+67150254,2026-02-14 05:00,RB Omiya Ardija,Hokkaido Consadole Sapporo,3,2,1.800,3.400,3.700,2.75,1.875,1.925
+67150256,2026-02-14 05:00,Ventforet Kofu,AC Nagano Parceiro,2,0,1.615,3.700,4.500,2.5,1.900,1.900
+67150258,2026-02-14 05:00,Fujieda MYFC,Matsumoto Yamaga FC,2,0,1.900,3.500,3.500,2.5,1.850,1.950
+67150344,2026-02-14 05:00,Nara Club,FC Imabari,1,0,5.250,4.000,1.480,2.5,1.825,1.975
+67150260,2026-02-15 04:00,Iwaki FC,Fukushima United FC,3,1,1.380,4.750,6.500,3,1.975,1.825
+67150250,2026-02-15 05:00,Tochigi SC,Montedio Yamagata,1,2,2.875,3.300,2.250,2.5,1.975,1.825
+67150252,2026-02-15 05:00,Tochigi City FC,Blaublitz Akita,0,1,2.200,3.300,3.000,2.5,1.850,1.950
+67150262,2026-02-15 05:00,FC Gifu,Jubilo Iwata,2,1,3.100,3.500,2.100,2.75,1.950,1.850
+67150346,2026-02-15 05:00,FC Osaka,Kochi United SC,2,2,1.950,3.100,3.750,2.25,1.900,1.900
+67150348,2026-02-15 05:00,Kamatamare Sanuki,Kataller Toyama,1,5,2.750,3.300,2.350,2.25,1.950,1.850
+67150350,2026-02-15 05:00,Tokushima Vortis,Albirex Niigata,4,0,1.900,3.300,3.700,2.25,1.950,1.850
+67150352,2026-02-15 05:00,Ehime FC,Zweigen Kanazawa,2,2,3.100,3.200,2.200,2.25,1.800,2.000
+67150370,2026-02-15 05:00,Renofa Yamaguchi,Reilac Shiga FC,2,1,1.533,4.100,5.000,2.75,2.000,1.800
+67150372,2026-02-15 05:00,Sagan Tosu,Roasso Kumamoto,1,1,2.150,3.300,3.100,2.5,2.000,1.800
+67150374,2026-02-15 05:00,Oita Trinita,Giravanz Kitakyushu,2,0,1.750,3.400,4.333,2.25,1.850,1.950
+67150376,2026-02-15 05:00,Tegevajaro Miyazaki,Gainare Tottori,3,1,1.666,3.600,4.500,2.5,1.875,1.925
+67150378,2026-02-15 05:00,Kagoshima United,FC Ryukyu,3,1,1.500,4.333,5.000,3,1.850,1.950
+67647840,2026-02-21 05:00,Shonan Bellmare,Vanraure Hachinohe FC,1,0,1.850,3.100,3.800,2.25,1.800,2.000
+67647842,2026-02-21 05:00,Thespakusatsu,Montedio Yamagata,1,1,,,,,,
+67647844,2026-02-21 05:00,SC Sagamihara,Blaublitz Akita,1,2,4.333,3.100,1.750,2.5,2.000,1.800
+67648002,2026-02-21 05:00,AC Nagano Parceiro,Hokkaido Consadole Sapporo,1,1,5.000,3.500,1.571,2.5,1.975,1.825
+67648004,2026-02-21 05:00,RB Omiya Ardija,Fukushima United FC,6,0,1.250,5.500,9.000,3.25,1.950,1.850
+67648006,2026-02-21 05:00,Fujieda MYFC,Ventforet Kofu,1,1,2.875,3.250,2.300,2.5,2.025,1.775
+67648008,2026-02-21 05:00,Jubilo Iwata,Matsumoto Yamaga FC,1,2,1.750,3.400,4.333,2.5,1.975,1.825
+67648162,2026-02-21 05:00,Nara Club,Ehime FC,2,2,2.750,3.200,2.300,2.5,1.975,1.825
+67648320,2026-02-21 05:00,FC Ryukyu,Reilac Shiga FC,0,0,1.900,3.400,3.500,2.75,2.000,1.800
+67648322,2026-02-21 05:00,Tegevajaro Miyazaki,Sagan Tosu,2,1,2.700,3.500,2.200,2.75,2.000,1.800
+67648324,2026-02-22 04:00,Roasso Kumamoto,Giravanz Kitakyushu,4,1,1.666,3.600,4.500,2.5,1.900,1.900
+67647846,2026-02-22 05:00,Tochigi SC,Vegalta Sendai,1,2,3.900,3.300,1.850,2.25,2.000,1.800
+67647848,2026-02-22 05:00,Yokohama FC,Tochigi City FC,5,1,2.000,3.200,3.500,2.25,1.950,1.850
+67648010,2026-02-22 05:00,FC Gifu,Iwaki FC,0,0,3.400,3.600,1.909,2.5,1.850,1.950
+67648164,2026-02-22 05:00,Kamatamare Sanuki,Albirex Niigata,0,3,4.750,3.750,1.650,2.5,1.800,2.000
+67648166,2026-02-22 05:00,Kochi United SC,Zweigen Kanazawa,3,2,2.900,3.300,2.200,2.25,1.800,2.000
+67648168,2026-02-22 05:00,FC Imabari,FC Osaka,2,0,2.000,3.300,3.400,2.25,1.850,1.950
+67648170,2026-02-22 05:00,Tokushima Vortis,Kataller Toyama,1,3,1.615,3.800,4.500,2.5,1.850,1.950
+67648326,2026-02-22 05:00,Oita Trinita,Gainare Tottori,2,0,1.850,3.300,3.900,2.25,1.900,1.900
+67648328,2026-02-22 05:00,Kagoshima United,Renofa Yamaguchi,1,0,2.400,3.250,2.750,2.25,1.800,2.000
+68938974,2026-02-25 09:30,Oita Trinita,Reilac Shiga FC,2,0,1.533,3.500,5.750,2.25,2.050,1.750
+67647850,2026-02-28 04:00,Vegalta Sendai,Vanraure Hachinohe FC,0,0,1.800,3.300,3.900,2.5,2.000,1.800
+67647852,2026-02-28 05:00,Tochigi City FC,Shonan Bellmare,1,3,2.750,3.200,2.300,2.25,1.800,2.000
+67647854,2026-02-28 05:00,Thespakusatsu,Blaublitz Akita,3,2,,,,,,
+67648012,2026-02-28 05:00,Ventforet Kofu,Matsumoto Yamaga FC,1,0,1.727,3.500,4.000,2.75,1.800,2.000
+67648014,2026-02-28 05:00,AC Nagano Parceiro,RB Omiya Ardija,1,2,7.000,4.200,1.400,3,1.975,1.825
+67648016,2026-02-28 05:00,Jubilo Iwata,Fukushima United FC,0,0,1.363,5.000,5.500,3.25,2.000,1.800
+67648018,2026-02-28 05:00,Hokkaido Consadole Sapporo,FC Gifu,1,2,1.850,3.800,3.250,2.5,1.850,1.950
+67648172,2026-02-28 05:00,Kataller Toyama,FC Osaka,0,0,1.727,3.500,4.100,2.5,1.950,1.850
+67648330,2026-02-28 05:00,Giravanz Kitakyushu,Reilac Shiga FC,1,2,1.850,3.200,3.800,2.5,2.025,1.775
+67648332,2026-02-28 05:00,Sagan Tosu,Kagoshima United,0,1,2.200,3.250,2.800,2.5,2.025,1.775
+67648334,2026-02-28 05:00,FC Ryukyu,Tegevajaro Miyazaki,0,2,3.400,3.400,1.900,2.5,1.825,1.975
+67648174,2026-02-28 07:00,Ehime FC,Tokushima Vortis,0,1,3.600,3.400,1.833,2.25,1.925,1.875
+67648336,2026-03-01 04:00,Renofa Yamaguchi,Gainare Tottori,0,0,1.650,3.800,4.000,2.5,1.900,1.900
+67648338,2026-03-01 04:00,Roasso Kumamoto,Oita Trinita,3,1,2.400,3.000,2.700,2.25,1.775,2.025
+67647856,2026-03-01 05:00,Tochigi SC,Yokohama FC,4,0,2.750,3.250,2.200,2.25,2.025,1.775
+67647858,2026-03-01 05:00,SC Sagamihara,Montedio Yamagata,2,1,3.500,3.400,1.900,2.5,1.775,2.025
+67648020,2026-03-01 05:00,Iwaki FC,Fujieda MYFC,1,2,1.850,3.600,3.400,2.25,1.875,1.925
+67648176,2026-03-01 05:00,Zweigen Kanazawa,Kamatamare Sanuki,1,0,1.450,4.200,5.000,2.25,2.000,1.800
+67648178,2026-03-01 05:00,FC Imabari,Albirex Niigata,0,2,2.875,3.000,2.300,2.25,1.775,2.025
+67648180,2026-03-01 05:00,Kochi United SC,Nara Club,2,0,1.909,3.250,3.500,2.25,1.825,1.975
+69092940,2026-03-04 09:30,SC Sagamihara,Thespakusatsu,5,0,,,,,,
+67648182,2026-03-06 10:00,FC Osaka,Nara Club,2,0,,,,,,
+67647860,2026-03-07 05:00,Vegalta Sendai,Shonan Bellmare,1,1,,,,,,
+67648022,2026-03-07 05:00,Iwaki FC,RB Omiya Ardija,1,1,,,,,,
+67648024,2026-03-07 05:00,Matsumoto Yamaga FC,Hokkaido Consadole Sapporo,3,0,,,,,,
+67648026,2026-03-07 05:00,Fujieda MYFC,Jubilo Iwata,1,1,,,,,,
+67648184,2026-03-07 05:00,Albirex Niigata,Kochi United SC,2,2,,,,,,
+67648340,2026-03-07 05:00,Giravanz Kitakyushu,Tegevajaro Miyazaki,2,3,,,,,,
+67648342,2026-03-07 05:00,Renofa Yamaguchi,Sagan Tosu,2,0,,,,,,
+67647862,2026-03-08 04:00,Vanraure Hachinohe FC,Yokohama FC,1,1,,,,,,
+67647864,2026-03-08 05:00,Tochigi City FC,Thespakusatsu,1,1,,,,,,
+67647866,2026-03-08 05:00,SC Sagamihara,Tochigi SC,4,0,,,,,,
+67647868,2026-03-08 05:00,Montedio Yamagata,Blaublitz Akita,0,1,,,,,,
+67648028,2026-03-08 05:00,FC Gifu,Ventforet Kofu,0,1,,,,,,
+67648030,2026-03-08 05:00,Fukushima United FC,AC Nagano Parceiro,4,2,,,,,,
+67648186,2026-03-08 05:00,Zweigen Kanazawa,Tokushima Vortis,0,4,,,,,,
+67648188,2026-03-08 05:00,Kataller Toyama,Ehime FC,2,2,,,,,,
+67648190,2026-03-08 05:00,Kamatamare Sanuki,FC Imabari,1,0,,,,,,
+67648344,2026-03-08 05:00,Reilac Shiga FC,Roasso Kumamoto,1,0,,,,,,
+67648346,2026-03-08 05:00,Gainare Tottori,FC Ryukyu,0,0,,,,,,
+67648348,2026-03-08 05:00,Oita Trinita,Kagoshima United,0,0,,,,,,
+67648192,2026-03-14 04:00,Kochi United SC,FC Imabari,2,0,,,,,,
+67647870,2026-03-14 05:00,Vegalta Sendai,SC Sagamihara,3,1,,,,,,
+67647872,2026-03-14 05:00,Shonan Bellmare,Montedio Yamagata,2,1,,,,,,
+67648032,2026-03-14 05:00,RB Omiya Ardija,Fujieda MYFC,1,2,,,,,,
+67648034,2026-03-14 05:00,Ventforet Kofu,Iwaki FC,0,1,,,,,,
+67648036,2026-03-14 05:00,AC Nagano Parceiro,Matsumoto Yamaga FC,0,5,,,,,,
+67648038,2026-03-14 05:00,Jubilo Iwata,Hokkaido Consadole Sapporo,0,1,,,,,,
+67648194,2026-03-14 05:00,Nara Club,Albirex Niigata,0,0,,,,,,
+67648350,2026-03-14 05:00,Sagan Tosu,Giravanz Kitakyushu,1,0,,,,,,
+67648352,2026-03-14 05:00,Tegevajaro Miyazaki,Oita Trinita,1,0,,,,,,
+67648354,2026-03-14 05:00,FC Ryukyu,Renofa Yamaguchi,1,1,,,,,,
+67647874,2026-03-15 04:00,Vanraure Hachinohe FC,Tochigi City FC,0,1,,,,,,
+67647876,2026-03-15 04:00,Blaublitz Akita,Tochigi SC,2,0,,,,,,
+67648356,2026-03-15 04:00,Roasso Kumamoto,Gainare Tottori,0,1,,,,,,
+67648196,2026-03-15 04:05,Kataller Toyama,Zweigen Kanazawa,0,2,,,,,,
+67647878,2026-03-15 05:00,Yokohama FC,Thespakusatsu,3,0,,,,,,
+67648198,2026-03-15 05:00,Ehime FC,FC Osaka,0,1,,,,,,
+67648200,2026-03-15 05:00,Tokushima Vortis,Kamatamare Sanuki,1,0,,,,,,
+67648358,2026-03-15 05:00,Kagoshima United,Reilac Shiga FC,1,0,,,,,,
+67648040,2026-03-15 10:00,FC Gifu,Fukushima United FC,2,1,,,,,,
+67647880,2026-03-20 05:00,Thespakusatsu,Shonan Bellmare,0,2,,,,,,
+67648202,2026-03-20 05:00,Albirex Niigata,Kataller Toyama,2,3,,,,,,
+67647882,2026-03-21 05:00,Blaublitz Akita,Vanraure Hachinohe FC,1,0,,,,,,
+67647884,2026-03-21 05:00,SC Sagamihara,Yokohama FC,2,4,,,,,,
+67648042,2026-03-21 05:00,Jubilo Iwata,RB Omiya Ardija,1,4,,,,,,
+67648044,2026-03-21 05:00,AC Nagano Parceiro,Iwaki FC,1,3,,,,,,
+67648046,2026-03-21 05:00,Matsumoto Yamaga FC,FC Gifu,2,2,,,,,,
+67648048,2026-03-21 05:00,Hokkaido Consadole Sapporo,Ventforet Kofu,1,0,,,,,,
+67648050,2026-03-21 05:00,Fukushima United FC,Fujieda MYFC,3,3,,,,,,
+67648360,2026-03-21 05:00,Tegevajaro Miyazaki,Roasso Kumamoto,1,0,,,,,,
+67648362,2026-03-21 05:00,Oita Trinita,FC Ryukyu,2,3,,,,,,
+67647886,2026-03-22 05:00,Montedio Yamagata,Vegalta Sendai,0,1,,,,,,
+67647888,2026-03-22 05:00,Tochigi SC,Tochigi City FC,3,2,,,,,,
+67648204,2026-03-22 05:00,Zweigen Kanazawa,FC Osaka,0,0,,,,,,
+67648206,2026-03-22 05:00,Kamatamare Sanuki,Nara Club,3,1,,,,,,
+67648208,2026-03-22 05:00,Ehime FC,Kochi United SC,1,0,,,,,,
+67648210,2026-03-22 05:00,FC Imabari,Tokushima Vortis,2,1,,,,,,
+67648366,2026-03-22 05:00,Gainare Tottori,Kagoshima United,0,0,,,,,,
+67648368,2026-03-22 05:00,Renofa Yamaguchi,Giravanz Kitakyushu,0,1,,,,,,
+67648364,2026-03-22 06:00,Reilac Shiga FC,Sagan Tosu,0,2,,,,,,
+67647890,2026-03-28 05:00,Thespakusatsu,Tochigi SC,1,3,,,,,,
+67647892,2026-03-28 05:00,Yokohama FC,Shonan Bellmare,1,3,,,,,,
+67648052,2026-03-28 05:00,Ventforet Kofu,RB Omiya Ardija,2,1,,,,,,
+67648054,2026-03-28 05:00,Fujieda MYFC,Hokkaido Consadole Sapporo,3,5,,,,,,
+67648056,2026-03-28 05:00,FC Gifu,AC Nagano Parceiro,5,1,,,,,,
+67648212,2026-03-28 05:00,Nara Club,Zweigen Kanazawa,5,1,,,,,,
+67647894,2026-03-29 04:00,Vanraure Hachinohe FC,SC Sagamihara,2,2,2.200,3.100,3.000,2,1.825,1.975
+67648370,2026-03-29 04:00,Roasso Kumamoto,Kagoshima United,0,1,3.300,2.900,2.100,2.25,1.900,1.900
+67647896,2026-03-29 05:00,Blaublitz Akita,Vegalta Sendai,0,0,3.000,3.200,2.100,2.25,2.025,1.775
+67647898,2026-03-29 05:00,Montedio Yamagata,Tochigi City FC,1,2,2.550,3.600,2.250,2.25,2.025,1.775
+67648058,2026-03-29 05:00,Fukushima United FC,Matsumoto Yamaga FC,1,3,3.800,3.600,1.800,2.75,1.800,2.000
+67648060,2026-03-29 05:00,Iwaki FC,Jubilo Iwata,1,0,1.833,3.250,3.900,2.25,1.975,1.825
+67648214,2026-03-29 05:00,Kamatamare Sanuki,Ehime FC,1,0,3.400,3.400,1.909,2.25,1.850,1.950
+67648216,2026-03-29 05:00,Tokushima Vortis,Kochi United SC,3,0,1.833,3.100,4.500,2.5,2.050,1.750
+67648218,2026-03-29 05:00,FC Osaka,Albirex Niigata,0,0,2.500,2.875,2.800,2.25,2.000,1.800
+67648220,2026-03-29 05:00,Kataller Toyama,FC Imabari,1,1,2.400,3.100,2.625,2.25,1.900,1.900
+67648372,2026-03-29 05:00,Reilac Shiga FC,Tegevajaro Miyazaki,1,0,4.333,3.250,1.750,2.25,1.900,1.900
+67648374,2026-03-29 05:00,Gainare Tottori,Sagan Tosu,0,2,3.400,3.200,2.000,2.25,2.050,1.750
+67648376,2026-03-29 05:00,Renofa Yamaguchi,Oita Trinita,3,1,2.150,3.000,3.200,2,2.000,1.800
+67648378,2026-03-29 05:00,Giravanz Kitakyushu,FC Ryukyu,1,0,2.300,3.300,2.600,2.5,2.000,1.800
+67647900,2026-04-04 05:00,Tochigi City FC,SC Sagamihara,0,0,2.050,3.500,3.500,2.5,1.800,2.000
+67647902,2026-04-04 05:00,Shonan Bellmare,Tochigi SC,1,1,1.700,3.700,5.000,2.5,1.800,2.000
+67647904,2026-04-04 05:00,Yokohama FC,Blaublitz Akita,1,2,2.350,2.900,3.400,2.25,1.975,1.825
+67647906,2026-04-04 05:00,Vegalta Sendai,Thespakusatsu,2,2,,,,,,
+67648062,2026-04-04 05:00,Jubilo Iwata,Ventforet Kofu,1,0,2.250,3.000,3.600,2.25,1.925,1.875
+67648064,2026-04-04 05:00,Fujieda MYFC,AC Nagano Parceiro,0,2,1.571,3.900,5.750,2.75,1.875,1.925
+67648066,2026-04-04 05:00,RB Omiya Ardija,FC Gifu,3,0,1.615,4.200,4.500,2.75,1.900,1.900
+67648068,2026-04-04 05:00,Hokkaido Consadole Sapporo,Fukushima United FC,0,2,1.550,4.200,5.500,3,1.900,1.900
+67648222,2026-04-04 05:00,Albirex Niigata,Zweigen Kanazawa,0,0,1.900,3.400,4.100,2.5,1.950,1.850
+67648380,2026-04-04 08:00,FC Ryukyu,Roasso Kumamoto,0,1,4.750,3.600,1.750,2.25,1.800,2.000
+67647908,2026-04-05 04:00,Vanraure Hachinohe FC,Montedio Yamagata,0,2,1.850,3.250,4.100,2.25,1.975,1.825
+67648224,2026-04-05 04:30,FC Imabari,Ehime FC,0,1,2.250,3.500,2.750,2.25,2.025,1.775
+67648070,2026-04-05 05:00,Matsumoto Yamaga FC,Iwaki FC,2,2,2.750,3.200,2.375,2.5,2.000,1.800
+67648226,2026-04-05 05:00,Kataller Toyama,Nara Club,5,2,1.600,4.000,4.750,2.75,2.025,1.775
+67648228,2026-04-05 05:00,Tokushima Vortis,FC Osaka,1,0,2.250,2.875,3.300,2.25,2.025,1.775
+67648230,2026-04-05 05:00,Kochi United SC,Kamatamare Sanuki,2,0,1.800,3.300,4.333,2.25,1.975,1.825
+67648384,2026-04-05 05:00,Kagoshima United,Giravanz Kitakyushu,1,1,1.420,3.800,7.500,2.5,2.025,1.775
+67648386,2026-04-05 05:00,Tegevajaro Miyazaki,Renofa Yamaguchi,3,0,2.150,3.000,3.300,2.25,1.825,1.975
+67648388,2026-04-05 05:00,Sagan Tosu,Oita Trinita,0,1,2.450,3.200,2.625,2.25,1.825,1.975
+69283622,2026-04-08 09:30,Tochigi SC,Vanraure Hachinohe FC,0,3,2.450,2.750,3.000,1.75,1.900,1.900
+67648072,2026-04-11 05:00,Ventforet Kofu,Hokkaido Consadole Sapporo,2,1,2.700,3.100,2.750,2.25,2.050,1.750
+67648074,2026-04-11 05:00,FC Gifu,Fujieda MYFC,1,2,1.666,3.750,5.250,2.75,1.775,2.025
+67648232,2026-04-11 05:00,FC Osaka,Kataller Toyama,1,2,2.200,3.200,3.500,2.25,1.850,1.950
+67648390,2026-04-11 10:00,Oita Trinita,Renofa Yamaguchi,1,2,2.400,3.400,2.800,2,2.025,1.775
+67648076,2026-04-12 04:00,AC Nagano Parceiro,Jubilo Iwata,1,1,5.250,3.600,1.700,2.5,1.800,2.000
+67647910,2026-04-12 05:00,Blaublitz Akita,Shonan Bellmare,0,1,2.625,3.100,2.750,2,1.775,2.025
+67647912,2026-04-12 05:00,Montedio Yamagata,Yokohama FC,1,0,3.600,3.500,2.000,2.25,1.800,2.000
+67647914,2026-04-12 05:00,Tochigi SC,Thespakusatsu,5,1,,,,,,
+67647916,2026-04-12 05:00,Tochigi City FC,Vanraure Hachinohe FC,2,4,3.250,3.200,2.250,2,1.875,1.925
+67647918,2026-04-12 05:00,SC Sagamihara,Vegalta Sendai,0,3,4.000,3.500,1.900,2.5,1.975,1.825
+67648078,2026-04-12 05:00,Fukushima United FC,Iwaki FC,2,3,5.500,3.700,1.533,2.75,1.775,2.025
+67648080,2026-04-12 05:00,Matsumoto Yamaga FC,RB Omiya Ardija,4,1,3.100,3.500,2.200,2.75,1.950,1.850
+67648234,2026-04-12 05:00,Kochi United SC,Albirex Niigata,2,1,2.750,3.100,2.750,2,1.900,1.900
+67648236,2026-04-12 05:00,Ehime FC,Nara Club,3,2,1.700,3.800,3.900,2.75,1.975,1.825
+67648238,2026-04-12 05:00,Zweigen Kanazawa,FC Imabari,0,0,3.000,3.200,2.350,2,2.050,1.750
+67648240,2026-04-12 05:00,Kamatamare Sanuki,Tokushima Vortis,0,5,5.000,3.000,1.727,2.25,1.800,2.000
+67648392,2026-04-12 05:00,Reilac Shiga FC,FC Ryukyu,2,1,2.550,3.200,2.450,2.25,1.850,1.950
+67648394,2026-04-12 05:00,Giravanz Kitakyushu,Sagan Tosu,0,1,3.700,3.250,1.900,2.25,1.825,1.975
+67648396,2026-04-12 05:00,Roasso Kumamoto,Tegevajaro Miyazaki,0,5,3.900,3.200,2.050,2.25,2.025,1.775
+67648398,2026-04-12 05:00,Kagoshima United,Gainare Tottori,3,1,1.444,4.100,5.750,2.25,1.800,2.000
+67648242,2026-04-17 10:00,FC Osaka,Ehime FC,0,1,2.050,3.300,3.100,2.25,1.875,1.925
+67648082,2026-04-18 04:00,Hokkaido Consadole Sapporo,Matsumoto Yamaga FC,2,1,2.200,3.400,2.700,2.5,1.900,1.900
+67648400,2026-04-18 04:40,Renofa Yamaguchi,Kagoshima United,2,1,3.800,3.200,1.850,2,1.975,1.825
+67647920,2026-04-18 05:00,Vegalta Sendai,Tochigi City FC,5,0,1.533,3.700,5.250,2.75,1.950,1.850
+67647922,2026-04-18 05:00,Shonan Bellmare,Thespakusatsu,1,2,,,,,,
+67648084,2026-04-18 05:00,Ventforet Kofu,Fujieda MYFC,0,1,2.050,3.100,3.250,2.25,1.900,1.900
+67648086,2026-04-18 05:00,RB Omiya Ardija,Jubilo Iwata,1,2,1.571,4.000,4.333,2.5,2.025,1.775
+67648244,2026-04-18 05:00,Albirex Niigata,FC Imabari,1,0,2.150,3.400,2.800,2.25,1.975,1.825
+67648246,2026-04-18 05:00,Nara Club,Kamatamare Sanuki,1,1,2.350,3.300,2.600,2.5,1.950,1.850
+67648248,2026-04-18 05:00,Tokushima Vortis,Zweigen Kanazawa,2,1,1.533,3.400,6.000,2.25,1.900,1.900
+67648402,2026-04-18 07:00,FC Ryukyu,Giravanz Kitakyushu,0,2,2.000,3.400,3.000,2.25,1.975,1.825
+67647924,2026-04-19 05:00,Blaublitz Akita,Yokohama FC,1,3,2.750,2.800,2.500,1.75,1.800,2.000
+67647926,2026-04-19 05:00,Montedio Yamagata,Vanraure Hachinohe FC,1,0,3.100,3.100,2.100,2.25,1.875,1.925
+67647928,2026-04-19 05:00,Tochigi SC,SC Sagamihara,0,2,2.200,3.100,2.900,2.5,2.000,1.800
+67648088,2026-04-19 05:00,Fukushima United FC,FC Gifu,1,2,3.900,4.100,1.650,3,2.000,1.800
+67648090,2026-04-19 05:00,Iwaki FC,AC Nagano Parceiro,1,0,1.285,4.750,8.500,2.75,1.825,1.975
+67648250,2026-04-19 05:00,Kataller Toyama,Kochi United SC,4,0,2.000,3.100,3.400,2.5,1.900,1.900
+67648404,2026-04-19 05:00,Reilac Shiga FC,Oita Trinita,0,3,3.700,3.100,1.909,2.25,2.000,1.800
+67648406,2026-04-19 05:00,Gainare Tottori,Tegevajaro Miyazaki,0,1,5.000,3.800,1.550,2.5,2.025,1.775
+67648408,2026-04-19 06:00,Roasso Kumamoto,Sagan Tosu,0,2,3.000,3.000,2.200,2,1.850,1.950
+67648092,2026-04-25 04:00,Jubilo Iwata,FC Gifu,1,0,2.200,3.300,2.750,2.25,1.950,1.850
+67647930,2026-04-25 05:00,Vegalta Sendai,Montedio Yamagata,1,0,1.900,3.400,3.500,2.5,1.950,1.850
+67647932,2026-04-25 05:00,Tochigi City FC,Tochigi SC,2,2,2.150,3.500,2.750,2.5,1.900,1.900
+67647934,2026-04-25 05:00,Thespakusatsu,Yokohama FC,3,1,,,,,,
+67648094,2026-04-25 05:00,Hokkaido Consadole Sapporo,Iwaki FC,2,1,2.900,3.400,2.100,2.25,1.900,1.900
+67648096,2026-04-25 05:00,Fukushima United FC,Ventforet Kofu,0,1,2.700,3.600,2.150,2.75,1.975,1.825
+67648098,2026-04-25 05:00,Fujieda MYFC,RB Omiya Ardija,1,1,3.100,3.750,1.900,2.75,2.000,1.800
+67648252,2026-04-25 05:00,Zweigen Kanazawa,Nara Club,1,0,1.833,3.700,3.400,2.5,1.875,1.925
+67648254,2026-04-25 05:00,Albirex Niigata,FC Osaka,1,0,2.500,3.000,2.600,2.25,1.975,1.825
+67648256,2026-04-25 05:00,FC Imabari,Kataller Toyama,1,2,3.200,3.400,1.950,2.25,1.825,1.975
+67648410,2026-04-25 05:00,Gainare Tottori,Roasso Kumamoto,0,2,3.300,3.100,2.050,2.25,1.975,1.825
+67648412,2026-04-25 05:00,Giravanz Kitakyushu,Renofa Yamaguchi,2,2,3.500,3.300,1.909,2.25,1.925,1.875
+67648414,2026-04-25 05:00,Sagan Tosu,Reilac Shiga FC,2,0,1.300,4.500,8.000,2.25,1.825,1.975
+67648416,2026-04-25 05:00,Tegevajaro Miyazaki,Kagoshima United,1,0,2.250,3.100,2.900,2.25,2.000,1.800
+67647936,2026-04-25 08:00,SC Sagamihara,Shonan Bellmare,1,1,2.900,3.400,2.100,2.5,1.825,1.975
+67648418,2026-04-25 10:00,FC Ryukyu,Oita Trinita,0,0,3.900,3.400,1.833,2.25,1.950,1.850
+67647938,2026-04-26 04:00,Vanraure Hachinohe FC,Blaublitz Akita,1,0,2.750,2.600,2.750,2,1.875,1.925
+67648100,2026-04-26 05:00,Matsumoto Yamaga FC,AC Nagano Parceiro,0,1,1.500,4.200,5.000,2.75,1.950,1.850
+67648258,2026-04-26 05:00,Kochi United SC,Tokushima Vortis,2,1,3.400,3.250,1.950,2.25,1.950,1.850
+67648260,2026-04-26 06:00,Ehime FC,Kamatamare Sanuki,3,0,1.727,3.500,4.000,2.25,2.025,1.775
+67648102,2026-04-29 04:00,Iwaki FC,FC Gifu,0,1,1.950,3.300,3.500,2.5,1.875,1.925
+67647940,2026-04-29 05:00,Tochigi SC,Shonan Bellmare,1,1,3.200,3.200,2.150,2.5,2.000,1.800
+67647942,2026-04-29 05:00,SC Sagamihara,Tochigi City FC,1,0,2.375,3.200,2.700,2.5,1.975,1.825
+67647944,2026-04-29 05:00,Yokohama FC,Vanraure Hachinohe FC,4,1,2.100,2.900,3.600,2,1.775,2.025
+67647946,2026-04-29 05:00,Thespakusatsu,Vegalta Sendai,1,3,,,,,,
+67647948,2026-04-29 05:00,Blaublitz Akita,Montedio Yamagata,2,0,2.300,3.100,3.000,2,1.900,1.900
+67648104,2026-04-29 05:00,Hokkaido Consadole Sapporo,Fujieda MYFC,2,1,1.950,3.250,3.700,2.25,1.975,1.825
+67648106,2026-04-29 05:00,RB Omiya Ardija,Ventforet Kofu,1,2,2.250,3.200,2.800,2.5,1.975,1.825
+67648262,2026-04-29 05:00,Kataller Toyama,Albirex Niigata,2,0,2.150,3.200,3.000,2.25,2.000,1.800
+67648264,2026-04-29 05:00,FC Osaka,Tokushima Vortis,2,2,3.100,3.300,2.150,2,1.950,1.850
+67648266,2026-04-29 05:00,Nara Club,Kochi United SC,0,0,3.000,3.300,2.200,2.5,1.950,1.850
+67648268,2026-04-29 05:00,Kamatamare Sanuki,Zweigen Kanazawa,0,1,3.300,3.200,2.150,2.25,1.975,1.825
+67648420,2026-04-29 05:00,Oita Trinita,Roasso Kumamoto,0,1,2.300,2.875,3.200,2.25,1.750,2.050
+67648422,2026-04-29 05:00,Kagoshima United,Sagan Tosu,1,1,2.550,2.800,2.800,2.25,2.050,1.750
+67648424,2026-04-29 05:00,Tegevajaro Miyazaki,Giravanz Kitakyushu,3,0,1.571,3.750,5.000,2.25,1.900,1.900
+67648426,2026-04-29 05:00,Renofa Yamaguchi,FC Ryukyu,2,0,1.615,3.900,4.500,2.25,2.000,1.800
+67648428,2026-04-29 05:00,Reilac Shiga FC,Gainare Tottori,1,3,1.615,3.500,5.250,2,1.850,1.950
+67648270,2026-04-29 08:00,Ehime FC,FC Imabari,0,2,2.050,3.250,3.300,2.25,1.975,1.825
+67648108,2026-04-29 09:00,Matsumoto Yamaga FC,Jubilo Iwata,1,1,2.600,2.900,2.600,2,1.825,1.975
+67648110,2026-04-29 09:00,AC Nagano Parceiro,Fukushima United FC,1,3,3.000,3.250,2.100,2.5,1.925,1.875
+67647950,2026-05-02 05:00,Vegalta Sendai,Blaublitz Akita,1,3,1.950,3.300,3.300,2.25,1.800,2.000
+67647952,2026-05-02 05:00,Yokohama FC,SC Sagamihara,3,3,1.615,3.600,4.333,2.5,1.975,1.825
+67647954,2026-05-02 05:00,Shonan Bellmare,Tochigi City FC,1,2,1.900,3.250,3.600,2.5,1.850,1.950
+67648112,2026-05-02 05:00,Jubilo Iwata,Iwaki FC,1,1,3.100,3.200,2.100,2.25,1.950,1.850
+67648114,2026-05-02 05:00,FC Gifu,Hokkaido Consadole Sapporo,0,3,1.571,3.800,4.500,2.5,1.825,1.975
+67648272,2026-05-02 05:00,Tokushima Vortis,Ehime FC,0,6,2.050,3.100,3.300,2.25,1.825,1.975
+67648274,2026-05-02 05:00,Kochi United SC,FC Osaka,0,0,3.000,2.800,2.350,2.25,2.000,1.800
+67648430,2026-05-02 05:00,Sagan Tosu,Tegevajaro Miyazaki,1,1,3.100,2.900,2.200,2,2.050,1.750
+67648432,2026-05-02 06:00,Gainare Tottori,Renofa Yamaguchi,4,1,2.900,3.600,2.000,2.25,2.000,1.800
+67648116,2026-05-02 09:00,AC Nagano Parceiro,Fujieda MYFC,0,0,2.800,3.200,2.200,2,1.900,1.900
+67647956,2026-05-03 04:00,Vanraure Hachinohe FC,Thespakusatsu,0,1,,,,,,
+67648118,2026-05-03 04:00,Matsumoto Yamaga FC,Ventforet Kofu,0,1,2.450,2.875,2.800,2.25,1.875,1.925
+67647958,2026-05-03 05:00,Montedio Yamagata,Tochigi SC,2,2,2.300,3.200,2.750,2.25,1.900,1.900
+67648120,2026-05-03 05:00,Fukushima United FC,RB Omiya Ardija,1,2,3.100,4.200,1.800,2.75,1.950,1.850
+67648276,2026-05-03 05:00,FC Imabari,Nara Club,1,2,1.727,3.600,3.800,2.25,1.800,2.000
+67648278,2026-05-03 05:00,Albirex Niigata,Kamatamare Sanuki,2,1,1.727,3.250,4.500,2.25,2.025,1.775
+67648434,2026-05-03 05:00,Giravanz Kitakyushu,Oita Trinita,2,1,2.500,3.100,2.600,2,1.850,1.950
+67648436,2026-05-03 05:00,Roasso Kumamoto,Reilac Shiga FC,2,0,1.666,3.500,4.333,2.25,1.850,1.950
+68664142,2026-05-03 05:00,Zweigen Kanazawa,Kataller Toyama,0,1,3.200,3.200,2.050,2.25,1.975,1.825
+67648438,2026-05-03 09:00,FC Ryukyu,Kagoshima United,1,1,3.600,3.500,1.800,2.25,2.025,1.775
+67647960,2026-05-06 05:00,Vanraure Hachinohe FC,Shonan Bellmare,0,1,3.200,2.900,2.250,2.25,2.025,1.775
+67647962,2026-05-06 05:00,Tochigi City FC,Yokohama FC,2,2,3.500,3.250,2.050,2.5,1.800,2.000
+67647964,2026-05-06 05:00,Vegalta Sendai,Tochigi SC,2,1,1.750,3.400,4.333,2.5,2.000,1.800
+67647966,2026-05-06 05:00,Montedio Yamagata,Thespakusatsu,1,2,,,,,,
+67648122,2026-05-06 05:00,Hokkaido Consadole Sapporo,AC Nagano Parceiro,2,0,1.300,4.750,7.000,2.75,1.975,1.825
+67648124,2026-05-06 05:00,Fujieda MYFC,Fukushima United FC,1,1,1.666,3.500,4.500,2.75,1.900,1.900
+67648126,2026-05-06 05:00,RB Omiya Ardija,Iwaki FC,3,2,3.300,3.300,2.100,2.5,1.825,1.975
+67648128,2026-05-06 05:00,Ventforet Kofu,Jubilo Iwata,1,2,2.900,2.875,2.500,2,1.775,2.025
+67648280,2026-05-06 05:00,Zweigen Kanazawa,Ehime FC,0,2,3.500,3.250,2.000,2.25,1.825,1.975
+67648282,2026-05-06 05:00,Albirex Niigata,Tokushima Vortis,1,0,2.875,3.100,2.450,2.25,1.775,2.025
+67648284,2026-05-06 05:00,Kataller Toyama,Kamatamare Sanuki,1,1,1.650,4.333,4.100,2.75,1.800,2.000
+67648286,2026-05-06 05:00,Nara Club,FC Osaka,1,3,4.000,3.400,1.833,2.5,1.950,1.850
+67648288,2026-05-06 05:00,FC Imabari,Kochi United SC,1,0,2.250,3.250,3.000,2.25,1.850,1.950
+67648440,2026-05-06 05:00,Reilac Shiga FC,Renofa Yamaguchi,1,4,4.333,3.500,1.750,2.25,1.800,2.000
+67648442,2026-05-06 05:00,Kagoshima United,Oita Trinita,0,1,2.050,3.400,3.100,2,1.975,1.825
+67648444,2026-05-06 05:00,Tegevajaro Miyazaki,FC Ryukyu,1,0,1.300,5.250,8.500,2.75,1.925,1.875
+67648446,2026-05-06 05:00,Giravanz Kitakyushu,Roasso Kumamoto,1,2,2.300,3.200,2.875,2.25,1.975,1.825
+67648448,2026-05-06 05:00,Sagan Tosu,Gainare Tottori,4,0,1.750,3.600,4.200,2.25,1.800,2.000
+67647968,2026-05-06 06:00,Blaublitz Akita,SC Sagamihara,0,1,1.909,3.300,3.800,2.25,1.975,1.825
+67648130,2026-05-06 10:00,FC Gifu,Matsumoto Yamaga FC,0,3,2.100,3.100,3.000,2.25,1.825,1.975
+67647970,2026-05-09 05:00,Thespakusatsu,Tochigi City FC,0,0,,,,,,
+67648132,2026-05-09 05:00,Hokkaido Consadole Sapporo,RB Omiya Ardija,4,3,2.300,3.400,2.800,2.75,1.950,1.850
+67648134,2026-05-09 05:00,Iwaki FC,Ventforet Kofu,0,1,1.900,3.400,3.600,2.25,1.900,1.900
+67648290,2026-05-09 05:00,FC Osaka,FC Imabari,1,2,2.150,3.200,3.100,2.25,1.850,1.950
+67648450,2026-05-09 05:00,Renofa Yamaguchi,Tegevajaro Miyazaki,0,1,2.350,3.250,2.750,2.25,1.950,1.850
+67648136,2026-05-09 09:00,AC Nagano Parceiro,FC Gifu,2,3,3.750,3.400,1.850,2.5,2.000,1.800
+67648292,2026-05-10 04:30,Zweigen Kanazawa,Albirex Niigata,1,1,2.400,3.100,2.800,2,1.925,1.875
+67647972,2026-05-10 05:00,Vanraure Hachinohe FC,Vegalta Sendai,1,1,3.300,2.875,2.250,2.25,1.825,1.975
+67647974,2026-05-10 05:00,Montedio Yamagata,SC Sagamihara,2,3,2.400,3.250,2.750,2.5,2.000,1.800
+67647976,2026-05-10 05:00,Tochigi SC,Blaublitz Akita,0,0,2.750,3.100,2.450,2.25,1.950,1.850
+67647978,2026-05-10 05:00,Shonan Bellmare,Yokohama FC,0,1,3.000,3.400,2.150,2.25,2.000,1.800
+67648138,2026-05-10 05:00,Fukushima United FC,Jubilo Iwata,4,2,2.550,3.400,2.375,2.75,1.950,1.850
+67648140,2026-05-10 05:00,Matsumoto Yamaga FC,Fujieda MYFC,0,0,1.950,3.300,3.500,2.25,1.975,1.825
+67648294,2026-05-10 05:00,Kamatamare Sanuki,Kochi United SC,0,3,2.800,3.000,2.450,2.25,1.975,1.825
+67648296,2026-05-10 05:00,Tokushima Vortis,Nara Club,1,2,1.450,4.200,6.000,2.75,1.800,2.000
+67648452,2026-05-10 05:00,Reilac Shiga FC,Kagoshima United,1,0,6.000,4.000,1.480,2.5,1.950,1.850
+67648454,2026-05-10 05:00,Gainare Tottori,Giravanz Kitakyushu,1,1,2.550,3.100,2.625,2.25,1.900,1.900
+67648456,2026-05-10 05:00,Roasso Kumamoto,FC Ryukyu,0,1,1.800,3.250,4.500,2.25,1.850,1.950
+67648458,2026-05-10 05:00,Oita Trinita,Sagan Tosu,0,1,3.100,3.100,2.200,2,1.825,1.975
+67648298,2026-05-10 06:00,Ehime FC,Kataller Toyama,0,2,2.900,3.400,2.200,2.5,1.800,2.000
+70851614,2026-05-13 09:00,Gainare Tottori,Reilac Shiga FC,3,2,2.250,3.100,2.900,2,2.050,1.750
+67647980,2026-05-16 05:00,Shonan Bellmare,Vegalta Sendai,0,2,3.000,3.400,2.050,2.5,1.950,1.850
+67647982,2026-05-16 05:00,SC Sagamihara,Vanraure Hachinohe FC,1,1,2.700,2.800,2.550,1.75,1.775,2.025
+67647984,2026-05-16 05:00,Tochigi City FC,Montedio Yamagata,3,0,2.150,3.250,2.875,2.5,1.850,1.950
+67648142,2026-05-16 05:00,Fukushima United FC,Hokkaido Consadole Sapporo,0,3,3.750,3.500,1.800,2.75,1.825,1.975
+67648300,2026-05-16 05:00,Albirex Niigata,Nara Club,2,1,1.727,3.400,4.100,2.25,1.775,2.025
+67648460,2026-05-16 05:00,Sagan Tosu,Renofa Yamaguchi,1,1,1.900,3.250,3.500,2.25,1.950,1.850
+67648144,2026-05-16 05:30,Jubilo Iwata,Fujieda MYFC,0,3,2.200,3.000,3.100,2.25,2.050,1.750
+67648146,2026-05-16 07:00,Ventforet Kofu,FC Gifu,2,2,2.150,3.000,3.100,2.25,1.900,1.900
+67647986,2026-05-17 05:00,Blaublitz Akita,Thespakusatsu,3,1,,,,,,
+67647988,2026-05-17 05:00,Yokohama FC,Tochigi SC,1,0,1.600,3.800,4.500,2.75,1.950,1.850
+67648148,2026-05-17 05:00,Iwaki FC,Matsumoto Yamaga FC,1,1,1.900,3.400,3.500,2.25,1.800,2.000
+67648150,2026-05-17 05:00,RB Omiya Ardija,AC Nagano Parceiro,1,2,1.333,4.500,7.000,3.25,1.975,1.825
+67648302,2026-05-17 05:00,Kataller Toyama,Tokushima Vortis,2,2,2.050,3.300,3.100,2.5,2.000,1.800
+67648304,2026-05-17 05:00,FC Osaka,Zweigen Kanazawa,1,1,1.800,3.600,3.500,2.5,2.000,1.800
+67648306,2026-05-17 05:00,FC Imabari,Kamatamare Sanuki,1,2,1.550,3.800,4.750,2.5,1.850,1.950
+67648308,2026-05-17 05:00,Kochi United SC,Ehime FC,0,1,2.800,3.000,2.375,2.25,1.900,1.900
+67648464,2026-05-17 05:00,Kagoshima United,Roasso Kumamoto,2,1,1.800,3.250,4.000,2,1.750,2.050
+67648466,2026-05-17 05:00,Oita Trinita,Tegevajaro Miyazaki,1,2,3.900,2.900,1.950,2,1.850,1.950
+67648468,2026-05-17 09:00,FC Ryukyu,Gainare Tottori,1,3,2.200,3.100,3.000,2.5,2.000,1.800
+67647990,2026-05-23 05:00,Vegalta Sendai,Yokohama FC,0,3,2.600,3.500,2.250,2.5,1.900,1.900
+67647992,2026-05-23 05:00,Thespakusatsu,SC Sagamihara,7,2,,,,,,
+67648152,2026-05-23 05:00,Hokkaido Consadole Sapporo,Jubilo Iwata,0,1,1.900,3.500,3.400,2.5,1.875,1.925
+67648154,2026-05-23 05:00,Fujieda MYFC,Iwaki FC,0,0,3.300,3.100,2.050,2.25,2.000,1.800
+67648156,2026-05-23 05:00,FC Gifu,RB Omiya Ardija,0,2,2.700,3.500,2.150,2.75,1.825,1.975
+67648310,2026-05-23 05:00,Albirex Niigata,Ehime FC,2,1,2.300,3.250,2.700,2.25,1.825,1.975
+67648312,2026-05-23 05:00,Nara Club,Kataller Toyama,5,1,4.333,4.000,1.571,2.75,1.825,1.975
+67648470,2026-05-23 05:00,Renofa Yamaguchi,Roasso Kumamoto,5,6,2.050,3.200,3.100,2,1.825,1.975
+67648472,2026-05-23 05:00,Sagan Tosu,FC Ryukyu,5,6,1.450,4.100,5.750,2.5,1.875,1.925
+67648158,2026-05-23 07:00,AC Nagano Parceiro,Ventforet Kofu,4,4,2.875,3.200,2.250,2.25,1.975,1.825
+67647994,2026-05-24 04:00,Vanraure Hachinohe FC,Tochigi SC,0,0,2.150,3.000,3.200,2,1.900,1.900
+67647996,2026-05-24 05:00,Blaublitz Akita,Tochigi City FC,1,0,2.550,3.000,2.550,2.25,1.850,1.950
+67647998,2026-05-24 05:00,Montedio Yamagata,Shonan Bellmare,3,1,3.000,3.000,2.250,2.5,1.925,1.875
+67648160,2026-05-24 05:00,Matsumoto Yamaga FC,Fukushima United FC,3,3,1.850,3.300,3.600,2.5,1.825,1.975
+67648314,2026-05-24 05:00,Kamatamare Sanuki,FC Osaka,2,2,4.100,3.400,1.727,2.25,1.850,1.950
+67648316,2026-05-24 05:00,Tokushima Vortis,FC Imabari,3,3,2.200,3.100,3.000,2.5,1.900,1.900
+67648474,2026-05-24 05:00,Gainare Tottori,Oita Trinita,0,0,2.800,3.100,2.250,2.25,1.900,1.900
+67648476,2026-05-24 05:00,Giravanz Kitakyushu,Kagoshima United,1,5,4.200,3.300,1.727,2.25,1.900,1.900
+67648478,2026-05-24 05:00,Tegevajaro Miyazaki,Reilac Shiga FC,2,2,1.300,4.333,8.500,2.5,1.825,1.975
+68664144,2026-05-24 05:00,Zweigen Kanazawa,Kochi United SC,2,0,2.200,2.900,3.200,2,1.850,1.950
+71715480,2026-05-30 05:00,Vegalta Sendai,Ventforet Kofu,1,0,1.727,3.500,4.100,2.25,1.850,1.950
+71715868,2026-05-30 05:00,Shonan Bellmare,Iwaki FC,1,1,2.550,3.100,2.550,2,1.800,2.000
+71715870,2026-05-30 05:00,FC Osaka,Reilac Shiga FC,0,0,1.650,3.300,4.750,2.25,1.850,1.950
+71715872,2026-05-30 05:00,Tochigi City FC,Jubilo Iwata,2,2,2.250,3.200,2.900,2.5,2.000,1.800
+71715874,2026-05-30 05:00,Nara Club,Oita Trinita,3,3,3.100,3.100,2.250,2.25,1.975,1.825
+71715876,2026-05-30 05:00,SC Sagamihara,Fujieda MYFC,1,1,2.600,3.200,2.550,2.5,2.025,1.775
+71715878,2026-05-30 05:00,Kochi United SC,Renofa Yamaguchi,2,2,2.550,2.900,2.700,2.25,2.000,1.800
+71715880,2026-05-30 05:00,Yokohama FC,RB Omiya Ardija,2,1,1.800,3.800,3.400,2.75,1.825,1.975
+71715882,2026-05-30 05:00,Tokushima Vortis,Sagan Tosu,3,1,2.500,3.100,2.550,2.25,2.025,1.775
+71715884,2026-05-30 05:00,Albirex Niigata,Kagoshima United,0,0,3.000,3.200,2.150,2.25,1.875,1.925
+71715886,2026-05-30 07:00,Ehime FC,Roasso Kumamoto,0,1,2.150,3.100,3.100,2.25,2.000,1.800
+71715482,2026-05-30 09:00,Kataller Toyama,Tegevajaro Miyazaki,1,0,2.400,3.200,2.600,2.25,1.850,1.950
+71715888,2026-05-31 05:00,Blaublitz Akita,Hokkaido Consadole Sapporo,1,1,1.950,3.100,3.500,2.25,1.900,1.900
+71715890,2026-05-31 05:00,Thespakusatsu,FC Gifu,0,1,,,,,,
+71715892,2026-05-31 05:00,Zweigen Kanazawa,Gainare Tottori,1,3,2.150,2.900,3.300,2.25,1.925,1.875
+71715894,2026-05-31 05:00,Montedio Yamagata,Matsumoto Yamaga FC,1,1,2.500,3.100,2.500,2.25,1.850,1.950
+71715896,2026-05-31 05:00,FC Imabari,FC Ryukyu,1,2,1.615,3.200,5.250,2.25,1.875,1.925
+71715898,2026-05-31 05:00,Tochigi SC,AC Nagano Parceiro,0,0,1.615,3.250,5.000,2.5,2.000,1.800
+71715900,2026-05-31 05:00,Kamatamare Sanuki,Giravanz Kitakyushu,3,1,2.600,3.000,2.600,2.25,1.925,1.875
+71715902,2026-06-01 10:00,Vanraure Hachinohe FC,Fukushima United FC,0,1,1.800,3.100,4.200,2.25,1.925,1.875
+71838798,2026-06-05 10:00,Kamatamare Sanuki,AC Nagano Parceiro,0,0,2.350,2.800,3.100,2,1.975,1.825
+71835690,2026-06-06 05:00,Vegalta Sendai,Kataller Toyama,1,1,2.375,3.100,2.700,2.5,1.950,1.850
+71835856,2026-06-06 05:00,Tegevajaro Miyazaki,Ventforet Kofu,2,1,1.666,3.400,4.500,2.25,2.000,1.800
+71838800,2026-06-06 05:00,Tochigi City FC,Reilac Shiga FC,3,1,1.950,3.500,3.250,2.75,2.000,1.800
+71838802,2026-06-06 05:00,RB Omiya Ardija,Kochi United SC,2,1,2.050,3.250,3.100,2.5,1.850,1.950
+71838804,2026-06-06 05:00,Yokohama FC,Renofa Yamaguchi,2,1,1.600,3.750,4.500,2.75,2.000,1.800
+71838806,2026-06-06 05:00,SC Sagamihara,Roasso Kumamoto,3,0,2.200,3.000,3.100,2.25,1.850,1.950
+71838808,2026-06-06 05:00,Matsumoto Yamaga FC,Nara Club,0,2,1.700,3.600,4.000,2.75,1.950,1.850
+71838810,2026-06-06 05:00,Albirex Niigata,Hokkaido Consadole Sapporo,0,0,2.550,3.100,2.500,2.5,1.950,1.850
+71838812,2026-06-06 05:00,Fujieda MYFC,Ehime FC,1,0,2.800,3.100,2.300,2.25,1.850,1.950
+71838814,2026-06-06 06:00,FC Gifu,Gainare Tottori,1,1,1.900,3.400,3.500,2.5,1.800,2.000
+71838816,2026-06-06 07:00,Jubilo Iwata,FC Osaka,1,1,2.500,2.800,2.800,2,1.900,1.900
+71838818,2026-06-06 10:00,Sagan Tosu,Shonan Bellmare,1,0,2.050,3.000,3.400,2,1.850,1.950
+71874808,2026-06-07 04:00,Vanraure Hachinohe FC,FC Imabari,1,1,2.450,2.800,2.875,2,1.900,1.900
+71838820,2026-06-07 04:05,Tokushima Vortis,Iwaki FC,2,0,2.450,3.000,2.700,2.25,1.950,1.850
+71838822,2026-06-07 05:00,Blaublitz Akita,Kagoshima United,0,2,3.400,3.000,2.050,1.75,1.800,2.000
+71838824,2026-06-07 05:00,Tochigi SC,Giravanz Kitakyushu,1,1,1.650,3.300,4.750,2.25,1.800,2.000
+71838826,2026-06-07 05:00,Zweigen Kanazawa,Thespakusatsu,4,1,,,,,,
+71875328,2026-06-07 05:00,Fukushima United FC,FC Ryukyu,1,1,2.550,3.100,2.550,2.5,1.975,1.825
+71838828,2026-06-07 07:00,Oita Trinita,Montedio Yamagata,1,0,2.375,2.700,3.100,1.75,1.850,1.950
+72115580,2026-08-08 05:45,Hokkaido Consadole Sapporo,Tokushima Vortis,2,0,2.800,3.300,2.400,2.25,1.900,1.900
+72115582,2026-08-08 09:30,Vanraure Hachinohe FC,Kataller Toyama,2,0,3.000,3.250,2.300,2.25,1.825,1.975
+72115592,2026-08-08 09:30,Fujieda MYFC,Vegalta Sendai,2,0,3.600,3.300,2.000,2.25,1.950,1.850
+72115588,2026-08-08 10:00,RB Omiya Ardija,Albirex Niigata,1,0,2.050,3.300,3.500,2.5,1.875,1.925
+72115590,2026-08-08 10:00,Jubilo Iwata,Blaublitz Akita,1,1,2.450,3.000,3.000,2,1.900,1.900
+72115596,2026-08-08 10:00,Oita Trinita,Shonan Bellmare,0,1,2.875,3.000,2.500,2,1.875,1.925
+72115598,2026-08-08 10:00,Tegevajaro Miyazaki,Yokohama FC,0,1,2.800,3.200,2.500,2.25,1.950,1.850
+72115594,2026-08-08 10:30,Sagan Tosu,Ventforet Kofu,2,0,1.750,3.500,4.750,2.25,2.025,1.775
+72115586,2026-08-09 09:00,Iwaki FC,FC Imabari,2,1,1.950,3.300,3.800,2.25,1.900,1.900
+72115584,2026-08-09 10:00,Montedio Yamagata,Tochigi City FC,2,0,2.500,3.400,2.700,2.75,2.000,1.800
+72151036,2026-08-15 09:00,Blaublitz Akita,Kataller Toyama,0,4,3.000,3.200,2.350,2.25,1.900,1.900
+72151038,2026-08-15 09:00,Tochigi City FC,Vanraure Hachinohe FC,5,0,2.300,3.300,3.000,2.25,1.900,1.900
+72151046,2026-08-15 09:30,Fujieda MYFC,Iwaki FC,3,1,3.500,3.250,2.100,2.25,2.000,1.800
+72151034,2026-08-15 10:00,Vegalta Sendai,Oita Trinita,0,0,1.750,3.400,4.500,2.25,2.000,1.800
+72151040,2026-08-15 10:00,Shonan Bellmare,Montedio Yamagata,1,0,2.100,3.250,3.500,2.5,2.025,1.775
+72151042,2026-08-15 10:00,Ventforet Kofu,Tegevajaro Miyazaki,1,1,3.400,3.250,2.150,2.25,2.025,1.775
+72151044,2026-08-15 10:00,Albirex Niigata,Hokkaido Consadole Sapporo,2,1,2.400,3.200,2.900,2.25,1.975,1.825
+72151062,2026-08-15 10:00,FC Imabari,RB Omiya Ardija,2,3,3.000,3.400,2.300,2.75,2.000,1.800
+72151064,2026-08-16 09:00,Yokohama FC,Jubilo Iwata,3,1,1.900,3.500,3.900,2.5,2.025,1.775
+72151048,2026-08-16 10:00,Tokushima Vortis,Sagan Tosu,0,0,2.750,3.000,2.700,2,1.875,1.925
+72151066,2026-08-22 06:00,Hokkaido Consadole Sapporo,RB Omiya Ardija,1,4,3.000,3.600,2.200,3,1.975,1.825
+72151068,2026-08-22 08:00,Vanraure Hachinohe FC,Vegalta Sendai,0,2,4.500,3.000,1.909,2,1.950,1.850
+72151070,2026-08-22 09:00,Blaublitz Akita,Ventforet Kofu,3,0,2.200,3.100,3.400,2,1.775,2.025
+72151076,2026-08-22 09:30,Kataller Toyama,FC Imabari,4,0,1.750,3.600,4.333,2.75,1.800,2.000
+72151072,2026-08-22 10:00,Montedio Yamagata,Yokohama FC,2,0,4.333,3.600,1.750,2.5,1.900,1.900
+72151074,2026-08-22 10:00,Albirex Niigata,Fujieda MYFC,1,0,2.150,3.000,3.500,2,1.900,1.900
+72151078,2026-08-22 10:00,Jubilo Iwata,Tokushima Vortis,2,1,2.700,3.000,2.625,2.25,1.950,1.850
+72151080,2026-08-22 10:00,Sagan Tosu,Tochigi City FC,1,3,2.000,3.250,3.800,2.5,1.950,1.850
+72151082,2026-08-22 10:00,Oita Trinita,Iwaki FC,4,1,3.200,2.800,2.450,2,1.950,1.850
+72151084,2026-08-22 10:00,Tegevajaro Miyazaki,Shonan Bellmare,0,0,2.250,3.200,3.200,2.25,1.925,1.875
+72151090,2026-08-29 09:00,Iwaki FC,Albirex Niigata,2,3,2.350,3.250,3.000,2.25,1.900,1.900
+72151092,2026-08-29 09:00,Tochigi City FC,Jubilo Iwata,1,3,2.300,3.400,2.900,2.5,1.800,2.000
+72151086,2026-08-29 09:30,Vanraure Hachinohe FC,Blaublitz Akita,1,0,2.750,3.200,2.500,2,1.800,2.000
+72151100,2026-08-29 09:30,Kataller Toyama,Fujieda MYFC,2,3,1.700,3.900,4.333,2.75,1.850,1.950
+72151088,2026-08-29 10:00,Vegalta Sendai,Tegevajaro Miyazaki,4,2,2.500,3.200,2.800,2.25,2.025,1.775
+72151094,2026-08-29 10:00,RB Omiya Ardija,Shonan Bellmare,2,2,2.250,3.600,2.900,2.75,1.900,1.900
+72151096,2026-08-29 10:00,Yokohama FC,Sagan Tosu,2,2,2.100,3.400,3.300,2.25,1.800,2.000
+72151098,2026-08-29 10:00,Ventforet Kofu,Hokkaido Consadole Sapporo,2,1,3.000,3.500,2.200,2.5,1.900,1.900
+72151102,2026-08-29 10:00,Tokushima Vortis,Oita Trinita,1,0,2.300,3.200,3.200,2,2.050,1.750
+72151104,2026-08-29 10:00,FC Imabari,Montedio Yamagata,0,3,2.500,3.300,2.700,2.5,1.800,2.000
+72151118,2026-09-05 09:30,Fujieda MYFC,Vanraure Hachinohe FC,0,0,1.900,3.200,4.100,2,1.800,2.000
+72151110,2026-09-05 10:00,Montedio Yamagata,Ventforet Kofu,1,2,1.950,3.200,3.800,2.25,1.800,2.000
+72151114,2026-09-05 10:00,Shonan Bellmare,Vegalta Sendai,1,3,2.800,3.100,2.350,2.5,2.025,1.775
+72151120,2026-09-05 10:00,Tokushima Vortis,Iwaki FC,1,0,2.300,3.200,2.900,2.5,2.000,1.800
+72151122,2026-09-05 10:00,Sagan Tosu,Tegevajaro Miyazaki,2,0,2.500,3.100,2.700,2.25,2.000,1.800
+72151106,2026-09-06 04:00,Hokkaido Consadole Sapporo,Tochigi City FC,1,4,2.600,3.400,2.375,2.75,1.850,1.950
+72151108,2026-09-06 09:00,Blaublitz Akita,RB Omiya Ardija,0,0,3.300,3.300,2.050,2.5,1.900,1.900
+72151112,2026-09-06 09:00,Yokohama FC,Albirex Niigata,5,0,1.850,3.300,3.900,2.25,1.775,2.025
+72151116,2026-09-06 10:00,Jubilo Iwata,Kataller Toyama,0,1,2.150,3.200,3.100,2.75,1.950,1.850
+72151124,2026-09-06 10:00,Oita Trinita,FC Imabari,1,1,2.200,3.000,3.400,2.25,2.050,1.750
+72151130,2026-09-12 09:00,Blaublitz Akita,Tokushima Vortis,4,1,2.700,3.000,2.700,2,1.900,1.900
+72151132,2026-09-12 09:00,Iwaki FC,Yokohama FC,2,0,3.500,3.250,2.050,2.5,1.900,1.900
+72151126,2026-09-12 09:30,Vanraure Hachinohe FC,Shonan Bellmare,0,1,3.600,3.200,2.050,2,1.750,2.050
+72151140,2026-09-12 09:30,Kataller Toyama,Tochigi City FC,0,0,1.833,3.800,3.800,3.25,1.900,1.900
+72151134,2026-09-12 10:00,RB Omiya Ardija,Oita Trinita,0,0,1.727,3.600,4.500,2.5,1.850,1.950
+72151136,2026-09-12 10:00,Ventforet Kofu,Jubilo Iwata,0,1,4.750,3.200,1.833,2.25,1.975,1.825
+72151142,2026-09-12 10:00,FC Imabari,Sagan Tosu,1,0,4.000,3.400,1.850,2.5,2.000,1.800
+72151144,2026-09-12 10:00,Tegevajaro Miyazaki,Fujieda MYFC,3,2,1.950,3.250,3.900,2.25,1.900,1.900
+72151128,2026-09-13 09:00,Vegalta Sendai,Hokkaido Consadole Sapporo,1,1,1.571,3.900,5.250,2.75,1.900,1.900
+72151138,2026-09-13 09:00,Albirex Niigata,Montedio Yamagata,1,0,2.700,3.000,2.700,2.25,1.800,2.000
+72151148,2026-09-18 04:00,Vanraure Hachinohe FC,Tegevajaro Miyazaki,0,3,3.300,3.000,2.300,2,1.925,1.875
+72151146,2026-09-19 05:00,Hokkaido Consadole Sapporo,Oita Trinita,1,1,2.250,3.000,3.300,2,1.825,1.975
+72151162,2026-09-19 09:30,Fujieda MYFC,RB Omiya Ardija,1,1,3.000,3.600,2.200,2.75,1.950,1.850
+72151150,2026-09-19 10:00,Montedio Yamagata,Kataller Toyama,0,2,2.625,3.500,2.450,3,1.925,1.875
+72151154,2026-09-19 10:00,Yokohama FC,FC Imabari,2,1,1.480,4.000,6.500,2.75,1.975,1.825
+72151156,2026-09-19 10:00,Shonan Bellmare,Blaublitz Akita,1,1,2.200,3.100,3.300,2.25,1.950,1.850
+72151158,2026-09-19 10:00,Ventforet Kofu,Tokushima Vortis,0,1,2.900,3.100,2.500,2.25,2.050,1.750
+72151160,2026-09-19 10:00,Albirex Niigata,Jubilo Iwata,2,1,3.300,3.200,2.150,2.25,1.850,1.950
+72151164,2026-09-19 10:00,Sagan Tosu,Iwaki FC,1,3,1.833,3.300,4.333,2.25,1.900,1.900
+72151152,2026-09-20 08:00,Tochigi City FC,Vegalta Sendai,1,3,3.600,3.400,2.000,2.75,1.900,1.900
+72151166,2026-09-26 08:00,Blaublitz Akita,Albirex Niigata,2,2,2.350,3.000,3.200,2,1.775,2.025
+72151168,2026-09-26 08:00,Montedio Yamagata,Sagan Tosu,2,0,2.875,3.300,2.375,2.5,1.950,1.850
+72151170,2026-09-26 08:00,Iwaki FC,Vegalta Sendai,0,2,4.100,3.400,1.850,2.75,2.000,1.800
+72151172,2026-09-26 08:00,RB Omiya Ardija,Ventforet Kofu,5,1,1.533,4.000,5.750,2.75,1.900,1.900
+72151174,2026-09-26 08:00,Kataller Toyama,Yokohama FC,3,3,2.600,3.400,2.500,3,1.900,1.900
+72151176,2026-09-26 08:00,Jubilo Iwata,Vanraure Hachinohe FC,1,2,1.480,4.100,6.500,2.5,2.025,1.775
+72151178,2026-09-26 08:00,Tokushima Vortis,Tochigi City FC,3,0,2.625,3.100,2.700,2.75,2.000,1.800
+72151180,2026-09-26 08:00,FC Imabari,Shonan Bellmare,1,2,3.300,3.500,2.100,2.5,1.950,1.850
+72151182,2026-09-26 08:00,Oita Trinita,Fujieda MYFC,1,1,2.450,3.100,2.900,2,1.800,2.000
+72151184,2026-09-26 08:00,Tegevajaro Miyazaki,Hokkaido Consadole Sapporo,3,2,1.850,3.600,3.800,2.5,1.900,1.900
+72151198,2026-10-03 05:00,Albirex Niigata,Tokushima Vortis,2,1,2.450,3.100,2.875,2.25,1.975,1.825
+72151200,2026-10-03 05:00,Fujieda MYFC,Shonan Bellmare,1,1,2.500,3.200,2.750,2.25,1.850,1.950
+72151196,2026-10-03 07:00,Ventforet Kofu,Kataller Toyama,1,2,5.250,3.800,1.615,2.75,1.900,1.900
+72151194,2026-10-03 08:00,Tochigi City FC,FC Imabari,1,2,1.800,3.700,4.000,2.75,1.800,2.000
+72151202,2026-10-03 08:00,Oita Trinita,Montedio Yamagata,2,1,2.800,3.000,2.550,2,1.775,2.025
+72151186,2026-10-04 04:00,Hokkaido Consadole Sapporo,Iwaki FC,2,1,2.300,3.500,2.875,2.75,1.850,1.950
+72151188,2026-10-04 04:00,Vanraure Hachinohe FC,Yokohama FC,0,2,4.333,3.500,1.750,2.5,1.975,1.825
+72151192,2026-10-04 05:00,Blaublitz Akita,Sagan Tosu,1,0,2.900,3.200,2.375,2.25,1.975,1.825
+72151190,2026-10-04 06:00,Vegalta Sendai,Jubilo Iwata,2,1,1.950,3.600,3.500,2.5,1.800,2.000
+72151204,2026-10-04 10:00,Tegevajaro Miyazaki,RB Omiya Ardija,1,1,2.700,3.300,2.550,2.75,2.000,1.800
+72151210,2026-10-10 05:00,RB Omiya Ardija,Vanraure Hachinohe FC,3,1,1.533,3.900,5.750,2.75,1.800,2.000
+72151212,2026-10-10 05:00,Yokohama FC,Oita Trinita,1,2,1.666,3.500,5.250,2.25,1.875,1.925
+72151222,2026-10-10 05:00,Tokushima Vortis,FC Imabari,1,2,2.000,3.200,3.700,2.5,1.975,1.825
+72151224,2026-10-10 05:00,Sagan Tosu,Fujieda MYFC,1,0,1.900,3.400,3.900,2.25,1.875,1.925
+72151216,2026-10-10 07:00,Ventforet Kofu,Tochigi City FC,2,1,3.600,3.500,1.950,2.75,1.925,1.875
+72151220,2026-10-10 09:00,Jubilo Iwata,Hokkaido Consadole Sapporo,1,0,1.750,3.750,4.200,2.75,2.000,1.800
+72151206,2026-10-11 04:05,Montedio Yamagata,Vegalta Sendai,0,1,3.900,3.500,1.850,2.5,1.850,1.950
+72151218,2026-10-11 05:00,Kataller Toyama,Tegevajaro Miyazaki,1,1,2.100,3.400,3.400,2.75,1.850,1.950
+72151208,2026-10-11 06:00,Iwaki FC,Blaublitz Akita,1,0,2.150,3.300,3.200,2.25,1.800,2.000
+72151214,2026-10-11 09:00,Shonan Bellmare,Albirex Niigata,1,1,2.100,3.250,3.400,2.25,1.825,1.975
+72151226,2026-10-17 05:00,Hokkaido Consadole Sapporo,Blaublitz Akita,1,0,2.300,3.200,2.900,2.5,2.000,1.800
+72151228,2026-10-17 05:00,Vegalta Sendai,Tokushima Vortis,0,0,1.571,3.600,5.500,2.5,1.900,1.900
+72151232,2026-10-17 05:00,Tochigi City FC,Yokohama FC,1,1,3.200,3.500,2.050,3,1.875,1.925
+72151236,2026-10-17 05:00,Fujieda MYFC,Montedio Yamagata,0,0,2.450,3.250,2.625,2.5,1.975,1.825
+72151238,2026-10-17 05:00,FC Imabari,Vanraure Hachinohe FC,3,3,2.450,3.100,2.800,2.5,1.975,1.825
+72151240,2026-10-17 05:00,Sagan Tosu,RB Omiya Ardija,2,1,2.450,3.250,2.625,2.75,1.900,1.900
+72151242,2026-10-17 05:00,Oita Trinita,Albirex Niigata,5,1,2.500,3.100,2.800,2,1.775,2.025
+72151234,2026-10-17 09:00,Kataller Toyama,Shonan Bellmare,1,1,1.900,3.500,3.700,2.75,1.825,1.975
+72151244,2026-10-17 10:00,Tegevajaro Miyazaki,Jubilo Iwata,1,1,2.550,3.100,2.600,2.5,1.925,1.875
+72151230,2026-10-18 04:00,Iwaki FC,Ventforet Kofu,5,0,1.700,3.500,4.500,2.5,1.925,1.875
+72151248,2026-10-21 04:00,Montedio Yamagata,Hokkaido Consadole Sapporo,0,2,2.300,3.400,2.875,2.5,1.950,1.850
+72151246,2026-10-21 10:00,Vegalta Sendai,FC Imabari,3,1,1.480,4.000,6.500,2.75,1.925,1.875
+72151250,2026-10-21 10:00,Tochigi City FC,Fujieda MYFC,2,2,2.800,3.500,2.300,3,1.975,1.825
+72151252,2026-10-21 10:00,RB Omiya Ardija,Kataller Toyama,0,3,2.450,3.700,2.550,3.25,1.850,1.950
+72151254,2026-10-21 10:00,Shonan Bellmare,Iwaki FC,1,1,2.875,3.250,2.450,2.5,2.000,1.800
+72151256,2026-10-21 10:00,Ventforet Kofu,Yokohama FC,0,3,5.750,3.800,1.550,2.75,1.975,1.825
+72151258,2026-10-21 10:00,Albirex Niigata,Sagan Tosu,2,1,3.500,3.300,2.100,2.5,1.950,1.850
+72151260,2026-10-21 10:00,Jubilo Iwata,Oita Trinita,0,0,2.100,3.100,3.600,2.25,1.900,1.900
+72151262,2026-10-21 10:00,Tokushima Vortis,Vanraure Hachinohe FC,0,1,2.000,3.400,3.600,2.25,1.775,2.025
+72151264,2026-10-21 10:00,Tegevajaro Miyazaki,Blaublitz Akita,2,1,1.750,3.400,4.500,2.25,1.975,1.825
+72151272,2026-10-24 05:00,RB Omiya Ardija,Yokohama FC,2,2,2.600,3.500,2.450,3,1.850,1.950
+72151280,2026-10-24 05:00,Fujieda MYFC,Tokushima Vortis,0,1,2.550,3.200,2.800,2.25,1.900,1.900
+72151266,2026-10-25 05:00,Blaublitz Akita,FC Imabari,1,0,2.200,3.300,3.250,2.5,1.850,1.950
+72151268,2026-10-25 05:00,Montedio Yamagata,Tegevajaro Miyazaki,0,2,3.250,3.250,2.200,2.5,2.000,1.800
+72151276,2026-10-25 05:00,Albirex Niigata,Vegalta Sendai,2,1,3.800,3.400,1.900,2.5,1.900,1.900
+72151278,2026-10-25 05:00,Kataller Toyama,Hokkaido Consadole Sapporo,0,1,1.727,3.900,4.200,3,1.825,1.975
+72151282,2026-10-25 05:00,Sagan Tosu,Vanraure Hachinohe FC,2,0,1.600,3.700,6.000,2.5,2.025,1.775
+72151284,2026-10-25 05:00,Oita Trinita,Ventforet Kofu,1,1,1.900,3.200,4.333,2.5,2.025,1.775
+72151270,2026-10-25 06:00,Iwaki FC,Jubilo Iwata,1,1,2.450,3.300,2.750,2.5,2.000,1.800
+72151274,2026-10-25 09:00,Shonan Bellmare,Tochigi City FC,2,1,2.050,3.600,3.250,3,1.875,1.925
+72151286,2026-10-31 04:00,Hokkaido Consadole Sapporo,Shonan Bellmare,1,0,2.700,3.500,2.375,2.5,1.875,1.925
+72151288,2026-10-31 05:00,Vanraure Hachinohe FC,Montedio Yamagata,1,2,2.700,3.200,2.550,2.25,1.825,1.975
+72151290,2026-10-31 05:00,Vegalta Sendai,RB Omiya Ardija,1,2,1.850,3.900,3.700,3,2.000,1.800
+72151294,2026-10-31 05:00,Tochigi City FC,Iwaki FC,1,3,2.625,3.500,2.450,3,1.900,1.900
+72151296,2026-10-31 05:00,Albirex Niigata,Kataller Toyama,2,3,3.000,3.600,2.200,3,1.975,1.825
+72151298,2026-10-31 05:00,Jubilo Iwata,Sagan Tosu,2,0,2.550,3.200,2.750,2.25,1.800,2.000
+72151300,2026-10-31 05:00,Tokushima Vortis,Yokohama FC,0,1,3.400,3.300,2.100,2.5,1.850,1.950
+72151304,2026-10-31 05:00,Tegevajaro Miyazaki,Oita Trinita,2,0,1.800,3.400,4.500,2.25,1.950,1.850
+72151302,2026-10-31 05:05,FC Imabari,Ventforet Kofu,1,1,2.000,3.400,3.500,2.5,1.950,1.850
+72151292,2026-10-31 05:45,Blaublitz Akita,Fujieda MYFC,1,1,2.350,3.100,3.100,2.25,1.975,1.825
+72151316,2026-11-03 04:55,Kataller Toyama,Vegalta Sendai,1,0,2.900,3.600,2.200,3,2.000,1.800
+72151306,2026-11-03 05:00,Montedio Yamagata,Tokushima Vortis,1,0,2.875,3.100,2.450,2.25,1.975,1.825
+72151308,2026-11-03 05:00,RB Omiya Ardija,Iwaki FC,2,1,1.909,3.600,3.500,3,1.800,2.000
+72151310,2026-11-03 05:00,Yokohama FC,Blaublitz Akita,2,1,1.600,3.750,5.250,2.5,1.925,1.875
+72151312,2026-11-03 05:00,Shonan Bellmare,Sagan Tosu,0,1,3.100,3.300,2.200,2.5,2.000,1.800
+72151314,2026-11-03 05:00,Ventforet Kofu,Albirex Niigata,0,1,3.600,3.500,1.950,2.5,1.850,1.950
+72151318,2026-11-03 05:00,Fujieda MYFC,Jubilo Iwata,1,2,3.250,3.300,2.150,2.5,2.000,1.800
+72151322,2026-11-03 05:00,Oita Trinita,Vanraure Hachinohe FC,1,0,2.375,3.200,2.900,2,1.825,1.975
+72151324,2026-11-03 05:00,Tegevajaro Miyazaki,Tochigi City FC,3,0,1.615,3.900,4.750,3,1.950,1.850
+72151320,2026-11-03 05:50,FC Imabari,Hokkaido Consadole Sapporo,0,4,2.625,3.500,2.400,2.5,1.825,1.975
+72151330,2026-11-07 05:00,Blaublitz Akita,Oita Trinita,2,1,2.400,3.100,3.000,2,2.025,1.775
+72151332,2026-11-07 05:00,Iwaki FC,Montedio Yamagata,2,0,1.800,3.750,3.900,2.5,1.800,2.000
+72151336,2026-11-07 05:00,Yokohama FC,Fujieda MYFC,4,0,1.533,4.000,6.000,2.75,1.800,2.000
+72151338,2026-11-07 05:00,Albirex Niigata,FC Imabari,1,0,1.850,3.500,4.000,2.5,1.825,1.975
+72151342,2026-11-07 05:00,Tokushima Vortis,Tegevajaro Miyazaki,1,2,3.700,3.300,2.000,2.25,1.850,1.950
+72151344,2026-11-07 05:00,Sagan Tosu,Kataller Toyama,1,2,1.850,3.700,3.800,3,2.000,1.800
+72151326,2026-11-08 04:00,Vanraure Hachinohe FC,Hokkaido Consadole Sapporo,0,1,3.100,3.300,2.250,2.25,1.825,1.975
+72151334,2026-11-08 05:00,Tochigi City FC,RB Omiya Ardija,0,3,3.600,3.900,1.833,3.5,1.975,1.825
+72151340,2026-11-08 05:00,Jubilo Iwata,Shonan Bellmare,1,1,1.909,3.700,3.600,2.75,1.925,1.875
+72151328,2026-11-08 06:00,Vegalta Sendai,Ventforet Kofu,5,1,1.420,4.500,6.500,2.75,1.850,1.950

@@ -1,511 +1,511 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-62412942,2025-08-23 16:00,Alcione Milano,Triestina Calcio 1918,1,0,,,
-62412946,2025-08-23 16:00,AS Giana Erminio,AC Trento,0,2,,,
-62412940,2025-08-23 19:00,US Albinoleffe,Dolomiti Bellunesi,2,2,,,
-62412950,2025-08-23 19:00,Calcio Lecco 1912,ACD Ospitaletto,2,1,,,
-62433282,2025-08-23 19:00,Union Brescia,FC Arzignano Valchiampo,1,2,,,
-62412954,2025-08-24 16:00,US Pergolettese Crema,AC Renate,0,1,,,
-62412958,2025-08-24 16:00,Virtus Verona,AS Cittadella,1,1,,,
-62412948,2025-08-24 19:00,L.R. Vicenza,AC Lumezzane,5,0,,,
-62412956,2025-08-24 19:00,Pro Patria Busto Arsizio,Pro Vercelli 1892,2,3,,,
-62412952,2025-08-25 18:30,Novara FC,Inter Milano,1,1,,,
-62412962,2025-08-29 19:00,AS Cittadella,Alcione Milano,1,0,,,
-62412972,2025-08-29 19:00,Pro Vercelli 1892,US Albinoleffe,2,1,,,
-62412974,2025-08-30 16:00,AC Renate,AS Giana Erminio,1,1,,,
-62412978,2025-08-30 16:00,Triestina Calcio 1918,Calcio Lecco 1912,1,1,,,
-62412964,2025-08-31 13:30,Dolomiti Bellunesi,Novara FC,1,1,,,
-62412966,2025-08-31 13:30,Inter Milano,Pro Patria Busto Arsizio,2,2,,,
-62412968,2025-08-31 13:30,AC Lumezzane,US Pergolettese Crema,2,3,,,
-62412960,2025-08-31 16:00,FC Arzignano Valchiampo,Virtus Verona,3,2,,,
-62433284,2025-08-31 16:00,AC Trento,Union Brescia,0,2,,,
-62412970,2025-08-31 19:00,ACD Ospitaletto,L.R. Vicenza,0,0,,,
-62412980,2025-09-06 13:00,US Albinoleffe,AC Renate,2,3,,,
-62412982,2025-09-06 13:00,Alcione Milano,AC Lumezzane,1,0,,,
-62412994,2025-09-06 18:30,US Pergolettese Crema,AS Cittadella,3,1,,,
-62433286,2025-09-06 18:30,Union Brescia,Pro Vercelli 1892,5,0,,,
-62412990,2025-09-07 13:00,Calcio Lecco 1912,Dolomiti Bellunesi,3,0,,,
-62412992,2025-09-07 13:00,Novara FC,AC Trento,1,1,,,
-62412996,2025-09-07 13:00,Triestina Calcio 1918,ACD Ospitaletto,1,1,,,
-62412986,2025-09-07 15:30,AS Giana Erminio,Pro Patria Busto Arsizio,2,1,,,
-62412988,2025-09-07 15:30,L.R. Vicenza,FC Arzignano Valchiampo,2,1,,,
-62413000,2025-09-12 18:30,FC Arzignano Valchiampo,AS Giana Erminio,0,0,,,
-62413010,2025-09-12 18:30,ACD Ospitaletto,US Pergolettese Crema,1,2,,,
-62413004,2025-09-13 13:00,Dolomiti Bellunesi,Alcione Milano,1,1,,,
-62413008,2025-09-13 13:00,AC Lumezzane,Triestina Calcio 1918,1,2,,,
-62413014,2025-09-13 13:00,Pro Vercelli 1892,Virtus Verona,0,2,,,
-62433288,2025-09-13 13:00,AC Renate,Union Brescia,1,3,,,
-62413006,2025-09-14 13:00,Inter Milano,Calcio Lecco 1912,0,1,,,
-62413018,2025-09-14 13:00,AC Trento,US Albinoleffe,2,2,,,
-62413012,2025-09-14 15:30,Pro Patria Busto Arsizio,Novara FC,0,0,,,
-62413002,2025-09-15 18:30,AS Cittadella,L.R. Vicenza,0,1,,,
-63438015,2025-09-17 17:00,Virtus Verona,Inter Milano,1,2,,,
-62413022,2025-09-21 10:30,Alcione Milano,AC Renate,1,1,,,
-62413034,2025-09-21 10:30,US Pergolettese Crema,Inter Milano,0,2,,,
-62413026,2025-09-21 13:00,L.R. Vicenza,Pro Patria Busto Arsizio,3,0,,,
-62413028,2025-09-21 13:00,Calcio Lecco 1912,AC Trento,3,1,,,
-62413032,2025-09-21 13:00,Novara FC,Pro Vercelli 1892,0,1,,,
-62413030,2025-09-21 15:30,AC Lumezzane,ACD Ospitaletto,2,0,,,
-62413036,2025-09-21 15:30,Triestina Calcio 1918,FC Arzignano Valchiampo,2,1,,,
-62413038,2025-09-21 15:30,Virtus Verona,Dolomiti Bellunesi,1,1,,,
-62413020,2025-09-21 18:30,US Albinoleffe,AS Cittadella,2,1,,,
-62433290,2025-09-21 18:30,Union Brescia,AS Giana Erminio,2,0,,,
-62413040,2025-09-25 16:30,FC Arzignano Valchiampo,Alcione Milano,1,3,,,
-62413044,2025-09-25 16:30,AS Cittadella,AC Lumezzane,0,1,,,
-62413048,2025-09-25 16:30,AS Giana Erminio,Virtus Verona,1,3,,,
-62413052,2025-09-25 16:30,Pro Patria Busto Arsizio,US Albinoleffe,0,3,,,
-62413056,2025-09-25 16:30,AC Renate,ACD Ospitaletto,1,2,,,
-62413058,2025-09-25 16:30,AC Trento,US Pergolettese Crema,0,0,,,
-62413046,2025-09-25 18:45,Dolomiti Bellunesi,L.R. Vicenza,1,2,,,
-62413050,2025-09-25 18:45,Inter Milano,Triestina Calcio 1918,2,0,,,
-62413054,2025-09-25 18:45,Pro Vercelli 1892,Calcio Lecco 1912,0,1,,,
-62433292,2025-09-25 18:45,Union Brescia,Novara FC,1,1,,,
-62413074,2025-09-28 10:30,AC Trento,FC Arzignano Valchiampo,2,2,,,
-62413060,2025-09-28 13:00,US Albinoleffe,Novara FC,3,2,,,
-62413076,2025-09-28 13:00,Triestina Calcio 1918,AC Renate,3,0,,,
-62433294,2025-09-28 13:00,Virtus Verona,Union Brescia,1,1,,,
-62413072,2025-09-28 15:30,US Pergolettese Crema,Dolomiti Bellunesi,1,2,,,
-62413066,2025-09-28 18:30,Calcio Lecco 1912,AS Giana Erminio,0,0,,,
-62413068,2025-09-28 18:30,AC Lumezzane,Inter Milano,1,2,,,
-62413062,2025-09-29 18:30,AS Cittadella,Pro Patria Busto Arsizio,0,0,,,
-62413064,2025-09-29 18:30,L.R. Vicenza,Pro Vercelli 1892,2,0,,,
-62413070,2025-09-29 18:30,ACD Ospitaletto,Alcione Milano,0,1,,,
-62413086,2025-10-04 12:30,AS Giana Erminio,AC Lumezzane,2,1,,,
-62433298,2025-10-04 12:30,Union Brescia,US Pergolettese Crema,0,0,,,
-62413096,2025-10-04 15:30,AC Renate,AS Cittadella,0,0,,,
-62413098,2025-10-04 15:30,Virtus Verona,Calcio Lecco 1912,2,2,,,
-62413090,2025-10-05 10:30,Novara FC,Triestina Calcio 1918,0,0,,,
-62413092,2025-10-05 12:30,Pro Patria Busto Arsizio,AC Trento,2,2,,,
-62413094,2025-10-05 12:30,Pro Vercelli 1892,Dolomiti Bellunesi,4,0,,,
-62413080,2025-10-05 15:30,Alcione Milano,L.R. Vicenza,0,1,,,
-62413082,2025-10-05 18:30,FC Arzignano Valchiampo,US Albinoleffe,0,0,,,
-62413088,2025-10-05 18:30,Inter Milano,ACD Ospitaletto,2,2,,,
-62413106,2025-10-11 12:30,AS Giana Erminio,Novara FC,0,0,,,
-62413110,2025-10-11 15:30,L.R. Vicenza,Virtus Verona,2,1,,,
-62413114,2025-10-11 15:30,US Pergolettese Crema,Alcione Milano,0,2,,,
-62413102,2025-10-12 12:30,AS Cittadella,Triestina Calcio 1918,1,0,,,
-62413100,2025-10-12 15:30,US Albinoleffe,Calcio Lecco 1912,0,1,,,
-62413112,2025-10-12 15:30,ACD Ospitaletto,FC Arzignano Valchiampo,2,1,,,
-62433302,2025-10-12 18:30,Pro Patria Busto Arsizio,Union Brescia,0,2,,,
-62413104,2025-10-13 18:30,Dolomiti Bellunesi,AC Lumezzane,2,0,,,
-62413118,2025-10-13 18:30,AC Trento,Pro Vercelli 1892,1,0,,,
-62413120,2025-10-17 18:30,Alcione Milano,Inter Milano,1,2,,,
-62413128,2025-10-17 18:30,Novara FC,FC Arzignano Valchiampo,1,0,,,
-62413134,2025-10-18 12:30,AC Renate,Dolomiti Bellunesi,2,0,,,
-62413136,2025-10-18 12:30,Triestina Calcio 1918,US Pergolettese Crema,1,1,,,
-62413130,2025-10-18 15:30,ACD Ospitaletto,AS Cittadella,1,2,,,
-62413122,2025-10-19 12:30,L.R. Vicenza,US Albinoleffe,3,1,,,
-62413126,2025-10-19 15:30,AC Lumezzane,AC Trento,1,1,,,
-62413132,2025-10-19 15:30,Pro Vercelli 1892,AS Giana Erminio,0,0,,,
-62413138,2025-10-19 15:30,Virtus Verona,Pro Patria Busto Arsizio,0,1,,,
-62433304,2025-10-19 18:30,Calcio Lecco 1912,Union Brescia,0,1,,,
-64293981,2025-10-21 14:30,Inter Milano,AC Renate,1,1,,,
-62413150,2025-10-24 18:30,Novara FC,Virtus Verona,1,1,,,
-62433306,2025-10-25 12:30,Union Brescia,US Albinoleffe,2,1,,,
-62413140,2025-10-25 15:30,FC Arzignano Valchiampo,AC Lumezzane,3,3,,,
-62413156,2025-10-25 15:30,AC Renate,Calcio Lecco 1912,0,1,,,
-62413154,2025-10-26 13:30,Pro Vercelli 1892,US Pergolettese Crema,2,0,,,
-62413158,2025-10-26 13:30,AC Trento,L.R. Vicenza,1,1,,,
-62413146,2025-10-26 16:30,AS Giana Erminio,Alcione Milano,1,1,,,
-62413152,2025-10-26 16:30,Pro Patria Busto Arsizio,ACD Ospitaletto,0,0,,,
-62413144,2025-10-27 19:30,Dolomiti Bellunesi,Triestina Calcio 1918,1,0,,,
-62413148,2025-10-27 19:30,Inter Milano,AS Cittadella,0,1,,,
-62413174,2025-11-01 13:30,US Pergolettese Crema,Novara FC,2,2,,,
-62413178,2025-11-01 16:30,Virtus Verona,AC Trento,0,3,,,
-62433308,2025-11-02 11:30,Triestina Calcio 1918,Union Brescia,0,1,,,
-62413164,2025-11-02 13:30,AS Cittadella,Pro Vercelli 1892,2,1,,,
-62413166,2025-11-02 13:30,L.R. Vicenza,AS Giana Erminio,2,1,,,
-62413168,2025-11-02 19:30,Calcio Lecco 1912,FC Arzignano Valchiampo,5,1,,,
-62413170,2025-11-02 19:30,AC Lumezzane,AC Renate,0,0,,,
-62413160,2025-11-03 19:30,US Albinoleffe,Inter Milano,1,3,,,
-62413162,2025-11-03 19:30,Alcione Milano,Pro Patria Busto Arsizio,2,0,,,
-62413172,2025-11-03 19:30,ACD Ospitaletto,Dolomiti Bellunesi,3,1,,,
-62413180,2025-11-08 13:30,FC Arzignano Valchiampo,US Pergolettese Crema,1,0,,,
-62413184,2025-11-08 13:30,Dolomiti Bellunesi,AS Cittadella,0,1,,,
-62413196,2025-11-08 13:30,AC Renate,Virtus Verona,1,0,,,
-62413192,2025-11-08 16:30,Pro Patria Busto Arsizio,AC Lumezzane,1,1,,,
-62413188,2025-11-09 11:30,Inter Milano,L.R. Vicenza,1,2,,,
-62413194,2025-11-09 13:30,Pro Vercelli 1892,Triestina Calcio 1918,3,1,,,
-62413198,2025-11-09 13:30,AC Trento,ACD Ospitaletto,3,1,,,
-62433312,2025-11-09 13:30,Union Brescia,Alcione Milano,0,1,,,
-62413186,2025-11-09 16:30,AS Giana Erminio,US Albinoleffe,1,1,,,
-62413190,2025-11-09 16:30,Novara FC,Calcio Lecco 1912,1,0,,,
-62413204,2025-11-15 16:30,AS Cittadella,FC Arzignano Valchiampo,1,0,,,
-62413212,2025-11-15 16:30,AC Lumezzane,Pro Vercelli 1892,3,1,,,
-62413218,2025-11-15 19:30,Triestina Calcio 1918,AC Trento,1,1,,,
-62433314,2025-11-16 11:30,ACD Ospitaletto,Union Brescia,0,0,,,
-62413200,2025-11-16 13:30,US Albinoleffe,Virtus Verona,3,1,,,
-62413202,2025-11-16 13:30,Alcione Milano,Novara FC,0,1,,,
-62413208,2025-11-16 16:30,L.R. Vicenza,AC Renate,1,0,,,
-62413210,2025-11-16 16:30,Calcio Lecco 1912,Pro Patria Busto Arsizio,1,0,,,
-62413216,2025-11-17 19:30,US Pergolettese Crema,AS Giana Erminio,0,3,,,
-62413232,2025-11-21 19:30,Pro Patria Busto Arsizio,US Pergolettese Crema,3,1,,,
-62413220,2025-11-22 13:30,US Albinoleffe,AC Lumezzane,0,1,,,
-62413234,2025-11-22 13:30,Pro Vercelli 1892,Alcione Milano,1,0,,,
-62413222,2025-11-22 16:30,FC Arzignano Valchiampo,Dolomiti Bellunesi,2,2,,,
-62413238,2025-11-22 16:30,Virtus Verona,Triestina Calcio 1918,0,0,,,
-62413236,2025-11-23 11:30,AC Trento,Inter Milano,0,1,,,
-62413230,2025-11-23 13:30,Novara FC,AC Renate,0,1,,,
-62433316,2025-11-23 13:30,Union Brescia,L.R. Vicenza,1,1,,,
-62413226,2025-11-23 16:30,AS Giana Erminio,ACD Ospitaletto,1,0,,,
-62413228,2025-11-23 19:30,Calcio Lecco 1912,AS Cittadella,0,1,,,
-62413258,2025-11-28 19:30,Triestina Calcio 1918,Pro Patria Busto Arsizio,2,1,,,
-62413250,2025-11-29 13:30,AC Lumezzane,Novara FC,1,1,,,
-62413256,2025-11-29 13:30,AC Renate,FC Arzignano Valchiampo,1,2,,,
-62413252,2025-11-29 16:30,ACD Ospitaletto,Virtus Verona,1,1,,,
-62413254,2025-11-29 16:30,US Pergolettese Crema,US Albinoleffe,0,0,,,
-62413240,2025-11-30 13:30,Alcione Milano,AC Trento,2,0,,,
-62413246,2025-11-30 13:30,Inter Milano,Pro Vercelli 1892,1,1,,,
-62413248,2025-11-30 13:30,L.R. Vicenza,Calcio Lecco 1912,1,0,,,
-62413244,2025-11-30 16:30,Dolomiti Bellunesi,AS Giana Erminio,0,0,,,
-62433318,2025-12-01 19:30,AS Cittadella,Union Brescia,1,1,,,
-65542522,2025-12-03 17:30,Dolomiti Bellunesi,Inter Milano,1,0,,,
-62413276,2025-12-05 19:30,AC Trento,AS Cittadella,1,0,,,
-62413274,2025-12-06 13:30,Pro Vercelli 1892,AC Renate,1,1,,,
-62413262,2025-12-07 11:30,FC Arzignano Valchiampo,Inter Milano,1,1,,,
-62413270,2025-12-07 13:30,Novara FC,L.R. Vicenza,2,2,,,
-62433322,2025-12-07 13:30,Union Brescia,AC Lumezzane,0,1,,,
-62413272,2025-12-07 16:30,Pro Patria Busto Arsizio,Dolomiti Bellunesi,0,2,,,
-62413260,2025-12-08 13:30,US Albinoleffe,ACD Ospitaletto,1,1,,,
-62413268,2025-12-08 13:30,Calcio Lecco 1912,Alcione Milano,1,0,,,
-62413278,2025-12-08 13:30,Virtus Verona,US Pergolettese Crema,1,1,,,
-62413266,2025-12-08 14:00,AS Giana Erminio,Triestina Calcio 1918,2,1,,,
-62413290,2025-12-13 13:30,AC Lumezzane,Calcio Lecco 1912,1,1,2.750,3.000,2.450
-62413280,2025-12-13 16:30,Alcione Milano,Virtus Verona,0,1,1.950,3.250,3.400
-62413296,2025-12-13 16:30,AC Renate,AC Trento,1,1,3.000,3.000,2.250
-62413288,2025-12-14 11:30,Inter Milano,AS Giana Erminio,0,1,2.400,3.000,2.800
-62413284,2025-12-14 13:30,AS Cittadella,Novara FC,2,2,1.909,3.100,3.800
-62413294,2025-12-14 13:30,US Pergolettese Crema,L.R. Vicenza,0,1,5.000,3.200,1.650
-62433324,2025-12-14 13:30,Dolomiti Bellunesi,Union Brescia,0,1,5.000,3.200,1.650
-62413292,2025-12-14 16:30,ACD Ospitaletto,Pro Vercelli 1892,2,0,2.375,3.000,2.750
-62413298,2025-12-14 16:30,Triestina Calcio 1918,US Albinoleffe,5,2,2.150,3.000,3.100
-62413282,2025-12-14 19:30,FC Arzignano Valchiampo,Pro Patria Busto Arsizio,2,1,1.800,3.000,4.333
-62413300,2025-12-20 13:30,US Albinoleffe,Alcione Milano,2,0,2.100,3.400,3.100
-62413316,2025-12-20 13:30,AC Trento,Dolomiti Bellunesi,2,0,1.600,3.600,5.000
-62413312,2025-12-20 16:30,Pro Patria Busto Arsizio,AC Renate,0,3,3.900,3.200,1.900
-62413318,2025-12-20 16:30,Virtus Verona,AC Lumezzane,0,0,2.350,3.200,2.800
-62413306,2025-12-21 13:30,L.R. Vicenza,Triestina Calcio 1918,1,0,1.363,3.900,8.500
-62413314,2025-12-21 13:30,Pro Vercelli 1892,FC Arzignano Valchiampo,0,5,2.000,3.400,3.200
-62413304,2025-12-21 16:30,AS Giana Erminio,AS Cittadella,0,2,2.900,2.900,2.375
-62413308,2025-12-21 16:30,Calcio Lecco 1912,US Pergolettese Crema,1,0,1.850,3.100,4.100
-62413310,2025-12-21 16:30,Novara FC,ACD Ospitaletto,0,3,2.100,3.100,3.300
-62433326,2025-12-22 19:30,Union Brescia,Inter Milano,2,0,1.750,3.250,4.500
-62413322,2026-01-03 13:30,AS Cittadella,Virtus Verona,4,1,1.666,3.250,4.750
-62413336,2026-01-03 13:30,AC Trento,AS Giana Erminio,3,1,1.800,3.100,4.200
-62413330,2026-01-03 16:30,ACD Ospitaletto,Calcio Lecco 1912,1,1,2.750,2.875,2.500
-62413332,2026-01-03 16:30,Pro Vercelli 1892,Pro Patria Busto Arsizio,1,0,1.700,3.100,4.750
-62413334,2026-01-03 16:30,AC Renate,US Pergolettese Crema,2,1,2.000,2.800,3.750
-62413326,2026-01-04 13:30,Inter Milano,Novara FC,0,0,2.100,3.000,3.200
-62413328,2026-01-04 13:30,AC Lumezzane,L.R. Vicenza,1,1,5.500,3.400,1.550
-62433328,2026-01-04 13:30,FC Arzignano Valchiampo,Union Brescia,1,2,3.700,2.900,2.000
-62413324,2026-01-04 16:30,Dolomiti Bellunesi,US Albinoleffe,2,0,2.700,3.100,2.375
-62413338,2026-01-05 19:30,Triestina Calcio 1918,Alcione Milano,1,2,2.000,3.250,3.200
-62413340,2026-01-10 13:30,US Albinoleffe,Pro Vercelli 1892,2,1,2.250,3.000,2.875
-62413346,2026-01-10 13:30,AS Giana Erminio,AC Renate,0,1,2.700,2.800,2.500
-62413348,2026-01-10 13:30,L.R. Vicenza,ACD Ospitaletto,1,0,1.363,4.000,8.000
-62433330,2026-01-10 13:30,Union Brescia,AC Trento,2,1,1.800,3.200,4.200
-62413354,2026-01-10 16:30,US Pergolettese Crema,AC Lumezzane,0,2,2.200,3.000,3.100
-62413356,2026-01-10 16:30,Pro Patria Busto Arsizio,Inter Milano,1,2,4.000,3.100,1.833
-62413342,2026-01-11 13:30,Alcione Milano,AS Cittadella,2,0,3.300,2.875,2.150
-62413352,2026-01-11 13:30,Novara FC,Dolomiti Bellunesi,1,1,1.750,3.100,4.500
-62413358,2026-01-11 13:30,Virtus Verona,FC Arzignano Valchiampo,0,1,2.600,3.000,2.550
-62413350,2026-01-11 16:30,Calcio Lecco 1912,Triestina Calcio 1918,1,0,1.600,3.300,5.000
-62413362,2026-01-17 13:30,AS Cittadella,US Pergolettese Crema,3,3,1.650,3.200,5.250
-62413364,2026-01-17 13:30,Dolomiti Bellunesi,Calcio Lecco 1912,1,4,3.500,3.000,2.050
-62413378,2026-01-17 13:30,AC Trento,Novara FC,1,1,1.909,3.100,3.800
-62413368,2026-01-17 16:30,AC Lumezzane,Alcione Milano,1,0,2.150,3.000,3.250
-62413370,2026-01-17 16:30,ACD Ospitaletto,Triestina Calcio 1918,1,0,2.050,3.200,3.200
-62413372,2026-01-17 16:30,Pro Patria Busto Arsizio,AS Giana Erminio,0,4,3.100,2.900,2.250
-62413360,2026-01-18 13:30,FC Arzignano Valchiampo,L.R. Vicenza,1,2,4.500,3.200,1.727
-62433334,2026-01-18 13:30,Pro Vercelli 1892,Union Brescia,0,0,4.000,2.800,2.000
-62413366,2026-01-18 16:30,Inter Milano,Virtus Verona,1,0,,,
-62413376,2026-01-18 16:30,AC Renate,US Albinoleffe,1,1,2.000,3.000,3.500
-62413396,2026-01-23 19:30,Triestina Calcio 1918,AC Lumezzane,2,1,2.875,3.000,2.300
-62413380,2026-01-24 13:30,US Albinoleffe,AC Trento,1,2,2.600,3.100,2.450
-62433336,2026-01-24 13:30,Union Brescia,AC Renate,1,2,1.650,3.250,5.250
-62413398,2026-01-24 16:30,Virtus Verona,Pro Vercelli 1892,2,2,2.600,2.900,2.550
-62413386,2026-01-25 13:30,AS Giana Erminio,FC Arzignano Valchiampo,2,1,2.300,2.900,3.000
-62413392,2026-01-25 13:30,Novara FC,Pro Patria Busto Arsizio,3,1,1.650,3.200,5.000
-62413382,2026-01-25 16:30,Alcione Milano,Dolomiti Bellunesi,5,0,1.950,3.000,3.600
-62413394,2026-01-25 16:30,US Pergolettese Crema,ACD Ospitaletto,1,0,2.750,2.900,2.450
-62413388,2026-01-26 19:30,L.R. Vicenza,AS Cittadella,4,1,1.550,3.300,5.750
-62413390,2026-01-26 19:30,Calcio Lecco 1912,Inter Milano,0,2,,,
-62413400,2026-01-31 13:30,FC Arzignano Valchiampo,Triestina Calcio 1918,4,1,1.950,3.200,3.400
-62413404,2026-01-31 13:30,Dolomiti Bellunesi,Virtus Verona,1,0,2.450,3.100,2.550
-62413418,2026-01-31 13:30,AC Trento,Calcio Lecco 1912,1,1,2.050,3.000,3.400
-62413408,2026-01-31 16:30,Inter Milano,US Pergolettese Crema,1,1,,,
-62413410,2026-01-31 16:30,ACD Ospitaletto,AC Lumezzane,1,2,2.200,3.000,3.000
-62413402,2026-02-01 11:30,AS Cittadella,US Albinoleffe,0,1,1.833,3.000,4.500
-62413412,2026-02-01 11:30,Pro Patria Busto Arsizio,L.R. Vicenza,0,4,7.500,3.800,1.420
-62413414,2026-02-01 13:30,Pro Vercelli 1892,Novara FC,1,0,2.350,3.000,2.900
-62413416,2026-02-02 19:30,AC Renate,Alcione Milano,1,0,2.050,2.900,3.500
-62433338,2026-02-02 19:30,AS Giana Erminio,Union Brescia,0,2,3.750,3.000,1.909
-62413428,2026-02-07 13:30,AC Lumezzane,AS Cittadella,1,2,2.450,3.000,2.700
-62433340,2026-02-07 13:30,Novara FC,Union Brescia,0,0,3.100,3.000,2.150
-62413422,2026-02-07 16:30,Alcione Milano,FC Arzignano Valchiampo,1,0,2.625,2.875,2.750
-62413434,2026-02-07 16:30,US Pergolettese Crema,AC Trento,1,2,3.400,3.250,1.950
-62413438,2026-02-07 16:30,Virtus Verona,AS Giana Erminio,0,1,2.350,3.100,2.750
-62413420,2026-02-08 13:30,US Albinoleffe,Pro Patria Busto Arsizio,2,2,1.666,3.200,5.000
-62413426,2026-02-08 13:30,Calcio Lecco 1912,Pro Vercelli 1892,0,2,2.000,3.000,3.500
-62413432,2026-02-08 13:30,ACD Ospitaletto,AC Renate,1,1,2.900,2.900,2.350
-62413436,2026-02-08 13:30,Triestina Calcio 1918,Inter Milano,4,1,,,
-62413424,2026-02-08 16:30,L.R. Vicenza,Dolomiti Bellunesi,0,0,1.200,6.500,10.000
-62413440,2026-02-11 17:00,Alcione Milano,ACD Ospitaletto,0,0,2.350,3.000,2.900
-62413446,2026-02-11 17:00,Dolomiti Bellunesi,US Pergolettese Crema,1,2,2.800,3.000,2.400
-62413452,2026-02-11 17:00,Novara FC,US Albinoleffe,2,2,2.050,3.000,3.300
-62413458,2026-02-11 17:00,AC Renate,Triestina Calcio 1918,4,0,1.833,3.200,3.900
-62413442,2026-02-11 19:30,FC Arzignano Valchiampo,AC Trento,0,2,2.900,3.200,2.200
-62413448,2026-02-11 19:30,AS Giana Erminio,Calcio Lecco 1912,0,1,2.700,2.900,2.500
-62413450,2026-02-11 19:30,Inter Milano,AC Lumezzane,0,0,,,
-62413454,2026-02-11 19:30,Pro Patria Busto Arsizio,AS Cittadella,1,0,3.900,3.250,1.800
-62413456,2026-02-11 19:30,Pro Vercelli 1892,L.R. Vicenza,1,2,4.100,3.100,1.800
-62433344,2026-02-11 19:30,Union Brescia,Virtus Verona,3,1,1.363,4.200,7.000
-62413466,2026-02-15 11:30,L.R. Vicenza,Alcione Milano,0,1,1.363,4.000,8.000
-62413478,2026-02-15 11:30,Triestina Calcio 1918,Novara FC,0,1,2.600,2.875,2.600
-62413464,2026-02-15 13:30,Dolomiti Bellunesi,Pro Vercelli 1892,1,2,3.400,3.000,2.050
-62413460,2026-02-15 16:30,US Albinoleffe,FC Arzignano Valchiampo,2,0,2.350,3.000,2.900
-62413470,2026-02-15 16:30,AC Lumezzane,AS Giana Erminio,1,0,2.700,2.800,2.550
-62413476,2026-02-15 16:30,AC Trento,Pro Patria Busto Arsizio,2,0,1.450,4.000,5.750
-62413468,2026-02-15 19:30,Calcio Lecco 1912,Virtus Verona,2,2,1.750,3.200,4.333
-62413462,2026-02-16 19:30,AS Cittadella,AC Renate,2,1,2.100,3.000,3.250
-62413472,2026-02-16 19:30,ACD Ospitaletto,Inter Milano,2,2,,,
-62433346,2026-02-16 19:30,US Pergolettese Crema,Union Brescia,2,1,5.250,3.200,1.650
-62413490,2026-02-21 13:30,Novara FC,AS Giana Erminio,3,1,2.200,2.875,3.100
-62413480,2026-02-21 16:30,Alcione Milano,US Pergolettese Crema,1,0,2.150,2.900,3.300
-62413494,2026-02-21 16:30,AC Renate,Inter Milano,2,1,,,
-62413496,2026-02-21 16:30,Triestina Calcio 1918,AS Cittadella,2,3,3.600,3.200,1.950
-62413488,2026-02-22 13:30,AC Lumezzane,Dolomiti Bellunesi,3,0,1.750,3.200,4.200
-62413492,2026-02-22 13:30,Pro Vercelli 1892,AC Trento,1,3,3.000,3.000,2.200
-62413482,2026-02-22 16:30,FC Arzignano Valchiampo,ACD Ospitaletto,1,2,2.100,3.000,3.300
-62433348,2026-02-22 16:30,Union Brescia,Pro Patria Busto Arsizio,3,2,1.285,4.200,9.500
-62413486,2026-02-22 19:30,Calcio Lecco 1912,US Albinoleffe,0,0,2.150,2.900,3.200
-62413498,2026-02-23 19:30,Virtus Verona,L.R. Vicenza,0,1,6.250,3.750,1.450
-62413502,2026-02-27 19:30,FC Arzignano Valchiampo,Novara FC,1,1,2.600,2.900,2.600
-62413506,2026-02-27 19:30,AS Cittadella,ACD Ospitaletto,2,2,1.727,3.300,4.200
-62413510,2026-02-27 19:30,AS Giana Erminio,Pro Vercelli 1892,1,0,2.625,2.700,3.000
-62413514,2026-02-27 19:30,US Pergolettese Crema,Triestina Calcio 1918,2,0,2.000,3.000,3.500
-62413500,2026-02-28 13:30,US Albinoleffe,L.R. Vicenza,0,1,5.000,3.400,1.600
-62413508,2026-02-28 13:30,Dolomiti Bellunesi,AC Renate,0,3,3.000,3.100,2.200
-62433350,2026-02-28 13:30,Union Brescia,Calcio Lecco 1912,3,1,1.600,3.200,5.750
-62413516,2026-02-28 16:30,Pro Patria Busto Arsizio,Virtus Verona,2,2,2.250,3.200,2.800
-62413518,2026-02-28 16:30,AC Trento,AC Lumezzane,1,1,1.615,3.300,5.250
-62413512,2026-02-28 19:30,Inter Milano,Alcione Milano,0,0,,,
-62413522,2026-03-03 17:00,Alcione Milano,AS Giana Erminio,1,1,2.450,2.750,3.000
-62413530,2026-03-03 17:00,AC Lumezzane,FC Arzignano Valchiampo,0,1,2.250,2.900,3.000
-62413532,2026-03-03 17:00,ACD Ospitaletto,Pro Patria Busto Arsizio,0,0,1.650,3.400,4.750
-62413534,2026-03-03 17:00,US Pergolettese Crema,Pro Vercelli 1892,2,1,2.550,2.900,2.600
-62413524,2026-03-03 19:30,AS Cittadella,Inter Milano,1,1,,,
-62413526,2026-03-03 19:30,L.R. Vicenza,AC Trento,2,3,1.600,3.400,5.500
-62413528,2026-03-03 19:30,Calcio Lecco 1912,AC Renate,0,3,2.450,2.750,3.000
-62413536,2026-03-03 19:30,Triestina Calcio 1918,Dolomiti Bellunesi,2,3,1.850,3.200,3.700
-62413538,2026-03-03 19:30,Virtus Verona,Novara FC,0,2,2.800,2.900,2.375
-62433352,2026-03-03 19:30,US Albinoleffe,Union Brescia,1,0,4.200,3.200,1.800
-62413540,2026-03-07 13:30,FC Arzignano Valchiampo,Calcio Lecco 1912,0,1,2.450,3.000,2.625
-62413544,2026-03-07 13:30,Dolomiti Bellunesi,ACD Ospitaletto,4,1,3.200,2.875,2.250
-62413546,2026-03-07 13:30,AS Giana Erminio,L.R. Vicenza,1,3,4.750,3.000,1.750
-62413548,2026-03-07 13:30,Inter Milano,US Albinoleffe,0,1,,,
-62413550,2026-03-07 13:30,Novara FC,US Pergolettese Crema,1,1,1.909,3.000,3.900
-62413558,2026-03-07 13:30,AC Trento,Virtus Verona,1,0,1.480,3.700,6.000
-62413552,2026-03-07 16:30,Pro Patria Busto Arsizio,Alcione Milano,1,1,2.875,2.800,2.450
-62413554,2026-03-07 16:30,Pro Vercelli 1892,AS Cittadella,0,2,2.550,3.000,2.550
-62413556,2026-03-07 16:30,AC Renate,AC Lumezzane,0,0,1.800,3.250,3.900
-62433354,2026-03-07 16:30,Union Brescia,Triestina Calcio 1918,0,0,1.380,3.900,7.500
-62433356,2026-03-13 19:30,Alcione Milano,Union Brescia,0,0,3.400,2.900,2.100
-62413572,2026-03-14 16:30,ACD Ospitaletto,AC Trento,3,2,2.700,3.000,2.450
-62413574,2026-03-14 16:30,US Pergolettese Crema,FC Arzignano Valchiampo,0,1,2.300,2.750,3.100
-62413560,2026-03-14 19:30,US Albinoleffe,AS Giana Erminio,0,1,2.300,2.900,2.900
-62413576,2026-03-15 13:30,Triestina Calcio 1918,Pro Vercelli 1892,2,3,2.350,3.100,2.700
-62413564,2026-03-15 16:30,AS Cittadella,Dolomiti Bellunesi,2,1,1.571,3.600,5.250
-62413570,2026-03-15 16:30,AC Lumezzane,Pro Patria Busto Arsizio,1,0,1.750,3.300,4.000
-62413578,2026-03-15 16:30,Virtus Verona,AC Renate,2,2,3.300,3.100,2.000
-62413568,2026-03-15 19:30,Calcio Lecco 1912,Novara FC,0,0,2.300,2.900,3.200
-62413566,2026-03-16 19:30,L.R. Vicenza,Inter Milano,2,1,,,
-62413596,2026-03-20 19:30,AC Trento,Triestina Calcio 1918,2,2,1.444,4.200,6.250
-62413598,2026-03-20 19:30,Virtus Verona,US Albinoleffe,1,3,3.250,3.100,2.050
-62413584,2026-03-21 13:30,AS Giana Erminio,US Pergolettese Crema,2,0,2.050,2.800,3.800
-62433358,2026-03-21 13:30,Union Brescia,ACD Ospitaletto,0,0,1.571,3.500,5.250
-62413592,2026-03-21 16:30,Pro Vercelli 1892,AC Lumezzane,1,1,1.833,3.100,4.100
-62413594,2026-03-21 16:30,AC Renate,L.R. Vicenza,1,3,3.000,2.800,2.350
-62413590,2026-03-22 11:30,Pro Patria Busto Arsizio,Calcio Lecco 1912,1,4,3.400,3.000,2.050
-62413588,2026-03-22 13:30,Novara FC,Alcione Milano,3,0,1.950,2.900,3.800
-62413580,2026-03-22 16:30,FC Arzignano Valchiampo,AS Cittadella,1,0,2.750,3.000,2.450
-62413586,2026-03-22 16:30,Inter Milano,Dolomiti Bellunesi,1,2,,,
-62413610,2026-03-28 13:30,AC Lumezzane,US Albinoleffe,1,1,2.300,3.000,2.800
-62413612,2026-03-28 13:30,ACD Ospitaletto,AS Giana Erminio,3,2,2.350,2.900,2.900
-62413600,2026-03-28 16:30,Alcione Milano,Pro Vercelli 1892,1,1,2.550,2.900,2.550
-62413604,2026-03-28 16:30,Dolomiti Bellunesi,FC Arzignano Valchiampo,1,2,3.200,2.900,2.300
-62413614,2026-03-28 16:30,US Pergolettese Crema,Pro Patria Busto Arsizio,2,1,1.750,3.100,4.333
-62413616,2026-03-28 16:30,AC Renate,Novara FC,3,1,2.550,3.000,2.625
-62413618,2026-03-28 16:30,Triestina Calcio 1918,Virtus Verona,5,0,1.900,3.300,3.600
-62433360,2026-03-29 12:30,L.R. Vicenza,Union Brescia,1,1,1.833,3.000,4.100
-62413602,2026-03-29 15:30,AS Cittadella,Calcio Lecco 1912,2,1,1.950,3.200,3.400
-62413622,2026-04-03 18:30,FC Arzignano Valchiampo,AC Renate,0,0,2.700,3.000,2.500
-62413628,2026-04-03 18:30,Calcio Lecco 1912,L.R. Vicenza,2,0,4.200,3.400,1.700
-62413630,2026-04-03 18:30,Novara FC,AC Lumezzane,1,3,1.650,3.100,5.500
-62433362,2026-04-03 18:30,Union Brescia,AS Cittadella,2,1,1.909,3.000,3.700
-62413634,2026-04-04 12:30,Pro Vercelli 1892,Inter Milano,0,2,,,
-62413636,2026-04-04 15:30,AC Trento,Alcione Milano,1,0,1.615,3.500,4.750
-62413626,2026-04-06 12:30,AS Giana Erminio,Dolomiti Bellunesi,1,1,1.850,3.100,4.000
-62413632,2026-04-06 12:30,Pro Patria Busto Arsizio,Triestina Calcio 1918,1,1,2.750,3.200,2.300
-62413620,2026-04-06 15:30,US Albinoleffe,US Pergolettese Crema,3,0,2.100,3.000,3.300
-62413638,2026-04-06 15:30,Virtus Verona,ACD Ospitaletto,0,0,3.100,3.200,2.100
-70226700,2026-04-08 13:00,Inter Milano,AC Trento,2,1,,,
-62413640,2026-04-10 18:30,Alcione Milano,Calcio Lecco 1912,0,2,2.750,3.300,2.250
-62413654,2026-04-11 12:30,US Pergolettese Crema,Virtus Verona,1,2,2.200,3.000,3.100
-62413658,2026-04-11 12:30,Triestina Calcio 1918,AS Giana Erminio,2,0,3.500,3.000,2.000
-62433364,2026-04-11 12:30,AC Lumezzane,Union Brescia,1,0,4.500,3.500,1.650
-62413648,2026-04-11 15:30,L.R. Vicenza,Novara FC,3,1,1.480,3.800,5.500
-62413642,2026-04-12 15:30,AS Cittadella,AC Trento,1,3,2.050,3.300,3.100
-62413652,2026-04-12 15:30,ACD Ospitaletto,US Albinoleffe,3,0,2.350,2.900,3.000
-62413646,2026-04-12 18:30,Inter Milano,FC Arzignano Valchiampo,0,1,,,
-62413644,2026-04-13 18:30,Dolomiti Bellunesi,Pro Patria Busto Arsizio,2,4,1.900,3.250,3.600
-62413656,2026-04-13 18:30,AC Renate,Pro Vercelli 1892,2,1,2.050,3.100,3.300
-62413660,2026-04-19 12:30,US Albinoleffe,Triestina Calcio 1918,3,0,1.800,3.300,3.900
-62413664,2026-04-19 12:30,AS Giana Erminio,Inter Milano,2,0,,,
-62413666,2026-04-19 12:30,L.R. Vicenza,US Pergolettese Crema,0,0,1.450,3.900,5.750
-62413668,2026-04-19 12:30,Calcio Lecco 1912,AC Lumezzane,2,2,1.800,3.600,3.600
-62413670,2026-04-19 12:30,Novara FC,AS Cittadella,0,1,2.050,3.250,3.200
-62413672,2026-04-19 12:30,Pro Patria Busto Arsizio,FC Arzignano Valchiampo,2,3,3.100,3.000,2.200
-62413674,2026-04-19 12:30,Pro Vercelli 1892,ACD Ospitaletto,1,0,2.450,3.100,2.600
-62413676,2026-04-19 12:30,AC Trento,AC Renate,3,3,2.150,3.200,3.000
-62413678,2026-04-19 12:30,Virtus Verona,Alcione Milano,1,1,2.500,3.100,2.500
-62433366,2026-04-19 12:30,Union Brescia,Dolomiti Bellunesi,2,0,1.333,4.100,7.500
-62413680,2026-04-25 18:30,Alcione Milano,US Albinoleffe,2,1,2.625,2.875,2.550
-62413682,2026-04-25 18:30,FC Arzignano Valchiampo,Pro Vercelli 1892,3,0,1.600,3.250,5.750
-62413684,2026-04-25 18:30,AS Cittadella,AS Giana Erminio,0,2,2.100,3.000,3.400
-62413686,2026-04-25 18:30,Dolomiti Bellunesi,AC Trento,0,0,5.000,3.500,1.600
-62413690,2026-04-25 18:30,AC Lumezzane,Virtus Verona,4,1,1.800,3.500,3.700
-62413692,2026-04-25 18:30,ACD Ospitaletto,Novara FC,0,2,2.700,3.100,2.400
-62413694,2026-04-25 18:30,US Pergolettese Crema,Calcio Lecco 1912,3,0,6.500,3.800,1.420
-62413696,2026-04-25 18:30,AC Renate,Pro Patria Busto Arsizio,2,1,1.400,3.900,6.500
-62413698,2026-04-25 18:30,Triestina Calcio 1918,L.R. Vicenza,1,6,4.750,3.900,1.550
-62433368,2026-04-25 18:30,Inter Milano,Union Brescia,0,1,,,
-73292400,2026-08-21 19:00,Alcione Milano,AC Renate,3,1,3.250,2.875,2.200
-73292418,2026-08-21 19:00,Union Brescia,AC Carpi,3,1,1.300,4.750,8.000
-73292402,2026-08-22 16:00,AS Cittadella,US Pergolettese Crema,2,0,1.533,3.500,5.750
-73292408,2026-08-22 16:00,Juventus Next Gen,Novara FC,1,0,,,
-73292412,2026-08-22 16:00,ACD Ospitaletto,AC Lumezzane,2,0,2.300,2.900,3.000
-73292406,2026-08-22 19:00,AS Giana Erminio,US Albinoleffe,1,2,2.450,2.900,2.800
-73292410,2026-08-22 19:00,Calcio Lecco 1912,FC Arzignano Valchiampo,0,0,2.000,3.100,3.400
-73292414,2026-08-23 16:00,Pro Vercelli 1892,Calcio Desenzano,1,1,2.050,3.100,3.250
-73292416,2026-08-23 19:00,AC Trento,Treviso FBC 1993,2,1,1.650,3.500,4.500
-73292404,2026-08-24 19:00,US Folgore Caratese,Dolomiti Bellunesi,1,2,2.150,2.900,3.250
-73293096,2026-08-30 16:00,FC Arzignano Valchiampo,Pro Vercelli 1892,1,0,1.950,3.200,3.400
-73293098,2026-08-30 16:00,AC Carpi,Juventus Next Gen,3,3,,,
-73293102,2026-08-30 16:00,Dolomiti Bellunesi,Alcione Milano,0,0,2.375,2.875,2.875
-73293104,2026-08-30 19:00,AC Lumezzane,AS Giana Erminio,1,0,2.100,3.100,3.300
-73293108,2026-08-30 19:00,US Pergolettese Crema,Union Brescia,0,1,6.500,3.750,1.444
-73293106,2026-08-31 18:30,Novara FC,US Folgore Caratese,2,2,2.150,2.875,3.300
-73293094,2026-08-31 19:00,US Albinoleffe,ACD Ospitaletto,1,1,2.550,3.000,2.625
-73293100,2026-08-31 19:00,Calcio Desenzano,AC Trento,0,0,3.100,3.100,2.150
-73293110,2026-08-31 19:00,AC Renate,AS Cittadella,0,1,2.800,3.100,2.300
-73293112,2026-08-31 19:00,Treviso FBC 1993,Calcio Lecco 1912,1,0,2.100,3.100,3.200
-73293114,2026-09-06 13:00,US Albinoleffe,AC Carpi,0,1,2.100,3.100,3.200
-73293120,2026-09-06 13:00,AS Giana Erminio,Dolomiti Bellunesi,1,2,2.450,3.000,2.700
-73293122,2026-09-06 16:00,Juventus Next Gen,US Pergolettese Crema,0,0,,,
-73293118,2026-09-06 19:00,AS Cittadella,AC Lumezzane,2,1,1.615,3.600,4.333
-73293124,2026-09-06 19:00,ACD Ospitaletto,FC Arzignano Valchiampo,3,1,2.200,3.100,3.000
-73293132,2026-09-06 19:00,Union Brescia,Calcio Desenzano,1,0,1.480,3.900,6.000
-73293116,2026-09-07 19:00,Alcione Milano,Treviso FBC 1993,1,1,2.350,2.900,2.900
-73293126,2026-09-07 19:00,Pro Vercelli 1892,US Folgore Caratese,1,0,2.100,3.100,3.400
-73293128,2026-09-07 19:00,AC Renate,Novara FC,1,2,2.250,2.900,3.000
-73293130,2026-09-07 19:00,AC Trento,Calcio Lecco 1912,1,0,2.100,3.000,3.250
-73293136,2026-09-13 13:00,AC Carpi,AS Cittadella,1,2,3.600,3.200,1.909
-73293138,2026-09-13 13:00,Dolomiti Bellunesi,US Albinoleffe,0,0,2.400,3.000,2.750
-73293142,2026-09-13 13:00,Calcio Lecco 1912,AS Giana Erminio,1,0,1.950,2.875,3.900
-73293152,2026-09-13 13:00,Treviso FBC 1993,Pro Vercelli 1892,2,1,1.750,3.200,4.333
-73293140,2026-09-13 16:00,US Folgore Caratese,Alcione Milano,2,3,2.450,3.100,2.550
-73293144,2026-09-13 16:00,AC Lumezzane,AC Renate,2,2,2.600,3.100,2.450
-73293148,2026-09-13 16:00,ACD Ospitaletto,Juventus Next Gen,3,0,,,
-73293134,2026-09-13 19:00,FC Arzignano Valchiampo,Calcio Desenzano,1,2,2.100,2.900,3.250
-73293146,2026-09-13 19:00,Novara FC,US Pergolettese Crema,0,1,1.666,3.300,4.750
-73293150,2026-09-13 19:00,AC Trento,Union Brescia,0,0,3.600,3.000,1.950
-73293154,2026-09-17 16:30,US Albinoleffe,FC Arzignano Valchiampo,1,2,2.450,3.100,2.625
-73293158,2026-09-17 16:30,AS Cittadella,Juventus Next Gen,2,0,,,
-73293160,2026-09-17 16:30,Calcio Desenzano,Calcio Lecco 1912,1,3,2.600,3.100,2.450
-73293164,2026-09-17 16:30,AC Lumezzane,Novara FC,0,0,2.700,3.000,2.400
-73293166,2026-09-17 16:30,US Pergolettese Crema,US Folgore Caratese,0,0,2.500,3.100,2.550
-73293168,2026-09-17 16:30,Pro Vercelli 1892,Alcione Milano,2,2,2.400,3.000,2.800
-73293156,2026-09-17 19:00,AC Carpi,ACD Ospitaletto,2,2,2.875,3.000,2.300
-73293162,2026-09-17 19:00,AS Giana Erminio,AC Trento,2,2,3.300,3.000,2.050
-73293170,2026-09-17 19:00,AC Renate,Dolomiti Bellunesi,0,0,2.000,3.100,3.400
-73293172,2026-09-17 19:00,Union Brescia,Treviso FBC 1993,2,2,1.615,3.300,5.250
-73293182,2026-09-20 10:30,Juventus Next Gen,US Albinoleffe,3,5,,,
-73293186,2026-09-20 12:30,Novara FC,AC Carpi,2,2,1.900,3.100,3.800
-73293188,2026-09-20 12:30,ACD Ospitaletto,AS Cittadella,0,1,2.550,3.100,2.550
-73293176,2026-09-20 15:30,FC Arzignano Valchiampo,AC Renate,2,1,2.450,3.200,2.550
-73293174,2026-09-20 18:30,Alcione Milano,Union Brescia,0,4,4.333,3.750,1.600
-73293180,2026-09-20 18:30,US Folgore Caratese,AS Giana Erminio,1,1,2.150,3.100,3.000
-73293184,2026-09-20 18:30,Calcio Lecco 1912,US Pergolettese Crema,0,0,1.850,3.200,3.700
-73293178,2026-09-21 18:30,Dolomiti Bellunesi,AC Lumezzane,1,2,2.450,3.000,2.700
-73293190,2026-09-21 18:30,AC Trento,Pro Vercelli 1892,4,0,1.500,3.750,5.500
-73293192,2026-09-21 18:30,Treviso FBC 1993,Calcio Desenzano,0,0,1.750,3.200,4.200
-73293202,2026-09-26 12:30,AS Giana Erminio,Pro Vercelli 1892,1,1,2.100,3.250,3.000
-73293204,2026-09-26 12:30,AC Lumezzane,US Folgore Caratese,1,2,2.250,3.200,2.800
-73293208,2026-09-26 12:30,US Pergolettese Crema,AC Trento,0,0,4.000,3.200,1.800
-73293200,2026-09-26 15:30,Calcio Desenzano,Juventus Next Gen,0,0,2.400,3.200,2.625
-73293206,2026-09-26 15:30,Novara FC,ACD Ospitaletto,0,2,2.200,3.100,2.875
-73293198,2026-09-26 18:30,AS Cittadella,Calcio Lecco 1912,3,0,1.600,3.750,4.500
-73293212,2026-09-27 12:30,Union Brescia,Dolomiti Bellunesi,1,1,1.363,4.100,7.500
-73293196,2026-09-27 15:30,AC Carpi,FC Arzignano Valchiampo,0,3,3.000,3.100,2.150
-73293210,2026-09-27 15:30,AC Renate,Treviso FBC 1993,0,1,2.550,3.000,2.625
-73293194,2026-09-27 18:30,US Albinoleffe,Alcione Milano,1,1,2.350,3.000,2.900
-73293218,2026-10-03 12:30,AS Cittadella,US Albinoleffe,1,2,1.550,3.500,5.500
-73293216,2026-10-03 15:30,FC Arzignano Valchiampo,US Pergolettese Crema,2,2,1.950,3.000,3.800
-73293222,2026-10-03 18:30,US Folgore Caratese,Calcio Desenzano,1,2,2.100,3.000,3.200
-73293228,2026-10-03 18:30,ACD Ospitaletto,AC Renate,1,1,2.000,3.000,3.400
-73293230,2026-10-03 18:30,Pro Vercelli 1892,AC Carpi,2,0,2.200,3.200,2.800
-73293226,2026-10-04 10:30,Calcio Lecco 1912,Union Brescia,2,2,4.200,3.250,1.750
-73293232,2026-10-04 10:30,Treviso FBC 1993,AS Giana Erminio,0,0,1.700,3.200,4.750
-73293220,2026-10-04 15:30,Dolomiti Bellunesi,Novara FC,1,2,3.300,3.100,2.050
-73293214,2026-10-04 18:30,Alcione Milano,AC Trento,2,2,3.900,3.250,1.800
-73293252,2026-10-09 18:30,Union Brescia,Pro Vercelli 1892,2,0,1.333,4.333,7.000
-73293244,2026-10-10 12:30,US Pergolettese Crema,AC Carpi,2,1,2.150,3.000,3.100
-73293234,2026-10-10 15:30,FC Arzignano Valchiampo,Juventus Next Gen,2,1,2.200,3.200,2.900
-73293236,2026-10-10 15:30,Calcio Desenzano,Dolomiti Bellunesi,2,0,2.100,3.000,3.300
-73293240,2026-10-10 15:30,AC Lumezzane,US Albinoleffe,3,2,2.450,3.100,2.700
-73293242,2026-10-10 15:30,Novara FC,AS Cittadella,0,2,2.875,3.100,2.200
-73293246,2026-10-11 12:30,AC Renate,AS Giana Erminio,2,2,1.909,3.200,3.400
-73293238,2026-10-11 15:30,Calcio Lecco 1912,Alcione Milano,1,1,1.850,3.100,3.900
-73293248,2026-10-11 15:30,AC Trento,US Folgore Caratese,1,0,1.571,3.400,5.000
-73293250,2026-10-11 15:30,Treviso FBC 1993,ACD Ospitaletto,0,1,2.300,3.000,2.875
-74962148,2026-10-13 14:00,Juventus Next Gen,AC Lumezzane,0,0,1.900,3.400,3.400
-73293272,2026-10-16 18:30,Pro Vercelli 1892,Calcio Lecco 1912,0,5,2.900,3.100,2.200
-73293258,2026-10-17 12:30,AC Carpi,AC Lumezzane,3,1,2.100,3.100,3.000
-73293264,2026-10-17 15:30,US Folgore Caratese,Treviso FBC 1993,0,2,2.900,3.100,2.200
-73293254,2026-10-18 15:30,US Albinoleffe,Novara FC,2,2,2.350,3.100,2.750
-73293256,2026-10-18 15:30,Alcione Milano,Calcio Desenzano,4,1,2.300,3.000,2.900
-73293270,2026-10-18 15:30,ACD Ospitaletto,US Pergolettese Crema,2,3,1.750,3.250,4.100
-73293260,2026-10-19 18:30,AS Cittadella,FC Arzignano Valchiampo,1,0,1.700,3.300,4.200
-73293262,2026-10-19 18:30,Dolomiti Bellunesi,AC Trento,0,3,4.750,3.400,1.650
-73293266,2026-10-19 18:30,AS Giana Erminio,Union Brescia,2,1,5.250,3.700,1.533
-73293268,2026-10-19 18:30,Juventus Next Gen,AC Renate,2,1,2.250,3.100,2.875
-73293290,2026-10-24 12:30,Treviso FBC 1993,Dolomiti Bellunesi,2,1,1.480,3.700,6.000
-73293274,2026-10-24 15:30,Alcione Milano,AC Carpi,1,2,1.909,3.200,3.500
-73293292,2026-10-24 15:30,Union Brescia,AS Cittadella,2,1,2.050,3.100,3.300
-73293286,2026-10-25 11:30,AC Renate,US Albinoleffe,0,0,2.200,3.200,2.800
-73293288,2026-10-25 11:30,AC Trento,Juventus Next Gen,2,1,1.700,3.400,4.200
-73293278,2026-10-25 13:30,Calcio Desenzano,AS Giana Erminio,1,2,2.150,3.250,2.900
-73293276,2026-10-25 16:30,FC Arzignano Valchiampo,Novara FC,2,0,2.400,3.000,2.750
-73293280,2026-10-25 16:30,Calcio Lecco 1912,US Folgore Caratese,2,2,1.750,3.200,4.200
-73293282,2026-10-25 16:30,US Pergolettese Crema,AC Lumezzane,2,1,2.350,3.000,2.800
-73293284,2026-10-25 16:30,Pro Vercelli 1892,ACD Ospitaletto,2,1,3.000,3.250,2.050
-73293294,2026-10-30 19:30,US Albinoleffe,US Pergolettese Crema,3,2,2.050,3.000,3.400
-73293312,2026-10-31 13:30,ACD Ospitaletto,AC Trento,0,0,2.550,3.200,2.400
-73293304,2026-10-31 16:30,AS Giana Erminio,Alcione Milano,1,3,2.150,3.200,2.900
-73293302,2026-11-01 11:30,US Folgore Caratese,Union Brescia,0,4,4.500,3.300,1.650
-73293298,2026-11-01 13:30,AS Cittadella,Treviso FBC 1993,1,0,1.909,3.000,3.700
-73293300,2026-11-01 13:30,Dolomiti Bellunesi,Calcio Lecco 1912,0,4,4.100,3.250,1.750
-73293296,2026-11-01 16:30,AC Carpi,AC Renate,0,5,2.400,3.250,2.625
-73293308,2026-11-01 16:30,AC Lumezzane,FC Arzignano Valchiampo,1,1,2.500,3.200,2.450
-73293306,2026-11-02 19:30,Juventus Next Gen,Pro Vercelli 1892,1,1,1.909,3.400,3.250
-73293310,2026-11-02 19:30,Novara FC,Calcio Desenzano,1,0,2.150,3.000,3.000
-73293314,2026-11-06 19:30,Alcione Milano,AC Lumezzane,0,1,2.050,3.250,3.100
-73293332,2026-11-06 19:30,Union Brescia,FC Arzignano Valchiampo,3,2,1.444,3.900,6.250
-73293326,2026-11-07 13:30,Pro Vercelli 1892,Dolomiti Bellunesi,4,2,1.833,3.250,3.800
-73293324,2026-11-07 16:30,US Pergolettese Crema,AC Renate,2,3,2.625,3.100,2.450
-73293328,2026-11-07 16:30,AC Trento,US Albinoleffe,2,1,1.650,3.400,4.500
-73293320,2026-11-08 13:30,AS Giana Erminio,AS Cittadella,0,0,4.000,3.400,1.727
-73293322,2026-11-08 13:30,Calcio Lecco 1912,Juventus Next Gen,4,0,1.833,3.400,3.600
-73293316,2026-11-08 16:30,Calcio Desenzano,ACD Ospitaletto,0,1,3.000,3.250,2.100
-73293318,2026-11-08 16:30,US Folgore Caratese,AC Carpi,0,0,2.100,3.200,3.000
-73293330,2026-11-08 16:30,Treviso FBC 1993,Novara FC,2,0,1.727,3.100,4.750
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+62412942,2025-08-23 16:00,Alcione Milano,Triestina Calcio 1918,1,0,,,,,,
+62412946,2025-08-23 16:00,AS Giana Erminio,AC Trento,0,2,,,,,,
+62412940,2025-08-23 19:00,US Albinoleffe,Dolomiti Bellunesi,2,2,,,,,,
+62412950,2025-08-23 19:00,Calcio Lecco 1912,ACD Ospitaletto,2,1,,,,,,
+62433282,2025-08-23 19:00,Union Brescia,FC Arzignano Valchiampo,1,2,,,,,,
+62412954,2025-08-24 16:00,US Pergolettese Crema,AC Renate,0,1,,,,,,
+62412958,2025-08-24 16:00,Virtus Verona,AS Cittadella,1,1,,,,,,
+62412948,2025-08-24 19:00,L.R. Vicenza,AC Lumezzane,5,0,,,,,,
+62412956,2025-08-24 19:00,Pro Patria Busto Arsizio,Pro Vercelli 1892,2,3,,,,,,
+62412952,2025-08-25 18:30,Novara FC,Inter Milano,1,1,,,,,,
+62412962,2025-08-29 19:00,AS Cittadella,Alcione Milano,1,0,,,,,,
+62412972,2025-08-29 19:00,Pro Vercelli 1892,US Albinoleffe,2,1,,,,,,
+62412974,2025-08-30 16:00,AC Renate,AS Giana Erminio,1,1,,,,,,
+62412978,2025-08-30 16:00,Triestina Calcio 1918,Calcio Lecco 1912,1,1,,,,,,
+62412964,2025-08-31 13:30,Dolomiti Bellunesi,Novara FC,1,1,,,,,,
+62412966,2025-08-31 13:30,Inter Milano,Pro Patria Busto Arsizio,2,2,,,,,,
+62412968,2025-08-31 13:30,AC Lumezzane,US Pergolettese Crema,2,3,,,,,,
+62412960,2025-08-31 16:00,FC Arzignano Valchiampo,Virtus Verona,3,2,,,,,,
+62433284,2025-08-31 16:00,AC Trento,Union Brescia,0,2,,,,,,
+62412970,2025-08-31 19:00,ACD Ospitaletto,L.R. Vicenza,0,0,,,,,,
+62412980,2025-09-06 13:00,US Albinoleffe,AC Renate,2,3,,,,,,
+62412982,2025-09-06 13:00,Alcione Milano,AC Lumezzane,1,0,,,,,,
+62412994,2025-09-06 18:30,US Pergolettese Crema,AS Cittadella,3,1,,,,,,
+62433286,2025-09-06 18:30,Union Brescia,Pro Vercelli 1892,5,0,,,,,,
+62412990,2025-09-07 13:00,Calcio Lecco 1912,Dolomiti Bellunesi,3,0,,,,,,
+62412992,2025-09-07 13:00,Novara FC,AC Trento,1,1,,,,,,
+62412996,2025-09-07 13:00,Triestina Calcio 1918,ACD Ospitaletto,1,1,,,,,,
+62412986,2025-09-07 15:30,AS Giana Erminio,Pro Patria Busto Arsizio,2,1,,,,,,
+62412988,2025-09-07 15:30,L.R. Vicenza,FC Arzignano Valchiampo,2,1,,,,,,
+62413000,2025-09-12 18:30,FC Arzignano Valchiampo,AS Giana Erminio,0,0,,,,,,
+62413010,2025-09-12 18:30,ACD Ospitaletto,US Pergolettese Crema,1,2,,,,,,
+62413004,2025-09-13 13:00,Dolomiti Bellunesi,Alcione Milano,1,1,,,,,,
+62413008,2025-09-13 13:00,AC Lumezzane,Triestina Calcio 1918,1,2,,,,,,
+62413014,2025-09-13 13:00,Pro Vercelli 1892,Virtus Verona,0,2,,,,,,
+62433288,2025-09-13 13:00,AC Renate,Union Brescia,1,3,,,,,,
+62413006,2025-09-14 13:00,Inter Milano,Calcio Lecco 1912,0,1,,,,,,
+62413018,2025-09-14 13:00,AC Trento,US Albinoleffe,2,2,,,,,,
+62413012,2025-09-14 15:30,Pro Patria Busto Arsizio,Novara FC,0,0,,,,,,
+62413002,2025-09-15 18:30,AS Cittadella,L.R. Vicenza,0,1,,,,,,
+63438015,2025-09-17 17:00,Virtus Verona,Inter Milano,1,2,,,,,,
+62413022,2025-09-21 10:30,Alcione Milano,AC Renate,1,1,,,,,,
+62413034,2025-09-21 10:30,US Pergolettese Crema,Inter Milano,0,2,,,,,,
+62413026,2025-09-21 13:00,L.R. Vicenza,Pro Patria Busto Arsizio,3,0,,,,,,
+62413028,2025-09-21 13:00,Calcio Lecco 1912,AC Trento,3,1,,,,,,
+62413032,2025-09-21 13:00,Novara FC,Pro Vercelli 1892,0,1,,,,,,
+62413030,2025-09-21 15:30,AC Lumezzane,ACD Ospitaletto,2,0,,,,,,
+62413036,2025-09-21 15:30,Triestina Calcio 1918,FC Arzignano Valchiampo,2,1,,,,,,
+62413038,2025-09-21 15:30,Virtus Verona,Dolomiti Bellunesi,1,1,,,,,,
+62413020,2025-09-21 18:30,US Albinoleffe,AS Cittadella,2,1,,,,,,
+62433290,2025-09-21 18:30,Union Brescia,AS Giana Erminio,2,0,,,,,,
+62413040,2025-09-25 16:30,FC Arzignano Valchiampo,Alcione Milano,1,3,,,,,,
+62413044,2025-09-25 16:30,AS Cittadella,AC Lumezzane,0,1,,,,,,
+62413048,2025-09-25 16:30,AS Giana Erminio,Virtus Verona,1,3,,,,,,
+62413052,2025-09-25 16:30,Pro Patria Busto Arsizio,US Albinoleffe,0,3,,,,,,
+62413056,2025-09-25 16:30,AC Renate,ACD Ospitaletto,1,2,,,,,,
+62413058,2025-09-25 16:30,AC Trento,US Pergolettese Crema,0,0,,,,,,
+62413046,2025-09-25 18:45,Dolomiti Bellunesi,L.R. Vicenza,1,2,,,,,,
+62413050,2025-09-25 18:45,Inter Milano,Triestina Calcio 1918,2,0,,,,,,
+62413054,2025-09-25 18:45,Pro Vercelli 1892,Calcio Lecco 1912,0,1,,,,,,
+62433292,2025-09-25 18:45,Union Brescia,Novara FC,1,1,,,,,,
+62413074,2025-09-28 10:30,AC Trento,FC Arzignano Valchiampo,2,2,,,,,,
+62413060,2025-09-28 13:00,US Albinoleffe,Novara FC,3,2,,,,,,
+62413076,2025-09-28 13:00,Triestina Calcio 1918,AC Renate,3,0,,,,,,
+62433294,2025-09-28 13:00,Virtus Verona,Union Brescia,1,1,,,,,,
+62413072,2025-09-28 15:30,US Pergolettese Crema,Dolomiti Bellunesi,1,2,,,,,,
+62413066,2025-09-28 18:30,Calcio Lecco 1912,AS Giana Erminio,0,0,,,,,,
+62413068,2025-09-28 18:30,AC Lumezzane,Inter Milano,1,2,,,,,,
+62413062,2025-09-29 18:30,AS Cittadella,Pro Patria Busto Arsizio,0,0,,,,,,
+62413064,2025-09-29 18:30,L.R. Vicenza,Pro Vercelli 1892,2,0,,,,,,
+62413070,2025-09-29 18:30,ACD Ospitaletto,Alcione Milano,0,1,,,,,,
+62413086,2025-10-04 12:30,AS Giana Erminio,AC Lumezzane,2,1,,,,,,
+62433298,2025-10-04 12:30,Union Brescia,US Pergolettese Crema,0,0,,,,,,
+62413096,2025-10-04 15:30,AC Renate,AS Cittadella,0,0,,,,,,
+62413098,2025-10-04 15:30,Virtus Verona,Calcio Lecco 1912,2,2,,,,,,
+62413090,2025-10-05 10:30,Novara FC,Triestina Calcio 1918,0,0,,,,,,
+62413092,2025-10-05 12:30,Pro Patria Busto Arsizio,AC Trento,2,2,,,,,,
+62413094,2025-10-05 12:30,Pro Vercelli 1892,Dolomiti Bellunesi,4,0,,,,,,
+62413080,2025-10-05 15:30,Alcione Milano,L.R. Vicenza,0,1,,,,,,
+62413082,2025-10-05 18:30,FC Arzignano Valchiampo,US Albinoleffe,0,0,,,,,,
+62413088,2025-10-05 18:30,Inter Milano,ACD Ospitaletto,2,2,,,,,,
+62413106,2025-10-11 12:30,AS Giana Erminio,Novara FC,0,0,,,,,,
+62413110,2025-10-11 15:30,L.R. Vicenza,Virtus Verona,2,1,,,,,,
+62413114,2025-10-11 15:30,US Pergolettese Crema,Alcione Milano,0,2,,,,,,
+62413102,2025-10-12 12:30,AS Cittadella,Triestina Calcio 1918,1,0,,,,,,
+62413100,2025-10-12 15:30,US Albinoleffe,Calcio Lecco 1912,0,1,,,,,,
+62413112,2025-10-12 15:30,ACD Ospitaletto,FC Arzignano Valchiampo,2,1,,,,,,
+62433302,2025-10-12 18:30,Pro Patria Busto Arsizio,Union Brescia,0,2,,,,,,
+62413104,2025-10-13 18:30,Dolomiti Bellunesi,AC Lumezzane,2,0,,,,,,
+62413118,2025-10-13 18:30,AC Trento,Pro Vercelli 1892,1,0,,,,,,
+62413120,2025-10-17 18:30,Alcione Milano,Inter Milano,1,2,,,,,,
+62413128,2025-10-17 18:30,Novara FC,FC Arzignano Valchiampo,1,0,,,,,,
+62413134,2025-10-18 12:30,AC Renate,Dolomiti Bellunesi,2,0,,,,,,
+62413136,2025-10-18 12:30,Triestina Calcio 1918,US Pergolettese Crema,1,1,,,,,,
+62413130,2025-10-18 15:30,ACD Ospitaletto,AS Cittadella,1,2,,,,,,
+62413122,2025-10-19 12:30,L.R. Vicenza,US Albinoleffe,3,1,,,,,,
+62413126,2025-10-19 15:30,AC Lumezzane,AC Trento,1,1,,,,,,
+62413132,2025-10-19 15:30,Pro Vercelli 1892,AS Giana Erminio,0,0,,,,,,
+62413138,2025-10-19 15:30,Virtus Verona,Pro Patria Busto Arsizio,0,1,,,,,,
+62433304,2025-10-19 18:30,Calcio Lecco 1912,Union Brescia,0,1,,,,,,
+64293981,2025-10-21 14:30,Inter Milano,AC Renate,1,1,,,,,,
+62413150,2025-10-24 18:30,Novara FC,Virtus Verona,1,1,,,,,,
+62433306,2025-10-25 12:30,Union Brescia,US Albinoleffe,2,1,,,,,,
+62413140,2025-10-25 15:30,FC Arzignano Valchiampo,AC Lumezzane,3,3,,,,,,
+62413156,2025-10-25 15:30,AC Renate,Calcio Lecco 1912,0,1,,,,,,
+62413154,2025-10-26 13:30,Pro Vercelli 1892,US Pergolettese Crema,2,0,,,,,,
+62413158,2025-10-26 13:30,AC Trento,L.R. Vicenza,1,1,,,,,,
+62413146,2025-10-26 16:30,AS Giana Erminio,Alcione Milano,1,1,,,,,,
+62413152,2025-10-26 16:30,Pro Patria Busto Arsizio,ACD Ospitaletto,0,0,,,,,,
+62413144,2025-10-27 19:30,Dolomiti Bellunesi,Triestina Calcio 1918,1,0,,,,,,
+62413148,2025-10-27 19:30,Inter Milano,AS Cittadella,0,1,,,,,,
+62413174,2025-11-01 13:30,US Pergolettese Crema,Novara FC,2,2,,,,,,
+62413178,2025-11-01 16:30,Virtus Verona,AC Trento,0,3,,,,,,
+62433308,2025-11-02 11:30,Triestina Calcio 1918,Union Brescia,0,1,,,,,,
+62413164,2025-11-02 13:30,AS Cittadella,Pro Vercelli 1892,2,1,,,,,,
+62413166,2025-11-02 13:30,L.R. Vicenza,AS Giana Erminio,2,1,,,,,,
+62413168,2025-11-02 19:30,Calcio Lecco 1912,FC Arzignano Valchiampo,5,1,,,,,,
+62413170,2025-11-02 19:30,AC Lumezzane,AC Renate,0,0,,,,,,
+62413160,2025-11-03 19:30,US Albinoleffe,Inter Milano,1,3,,,,,,
+62413162,2025-11-03 19:30,Alcione Milano,Pro Patria Busto Arsizio,2,0,,,,,,
+62413172,2025-11-03 19:30,ACD Ospitaletto,Dolomiti Bellunesi,3,1,,,,,,
+62413180,2025-11-08 13:30,FC Arzignano Valchiampo,US Pergolettese Crema,1,0,,,,,,
+62413184,2025-11-08 13:30,Dolomiti Bellunesi,AS Cittadella,0,1,,,,,,
+62413196,2025-11-08 13:30,AC Renate,Virtus Verona,1,0,,,,,,
+62413192,2025-11-08 16:30,Pro Patria Busto Arsizio,AC Lumezzane,1,1,,,,,,
+62413188,2025-11-09 11:30,Inter Milano,L.R. Vicenza,1,2,,,,,,
+62413194,2025-11-09 13:30,Pro Vercelli 1892,Triestina Calcio 1918,3,1,,,,,,
+62413198,2025-11-09 13:30,AC Trento,ACD Ospitaletto,3,1,,,,,,
+62433312,2025-11-09 13:30,Union Brescia,Alcione Milano,0,1,,,,,,
+62413186,2025-11-09 16:30,AS Giana Erminio,US Albinoleffe,1,1,,,,,,
+62413190,2025-11-09 16:30,Novara FC,Calcio Lecco 1912,1,0,,,,,,
+62413204,2025-11-15 16:30,AS Cittadella,FC Arzignano Valchiampo,1,0,,,,,,
+62413212,2025-11-15 16:30,AC Lumezzane,Pro Vercelli 1892,3,1,,,,,,
+62413218,2025-11-15 19:30,Triestina Calcio 1918,AC Trento,1,1,,,,,,
+62433314,2025-11-16 11:30,ACD Ospitaletto,Union Brescia,0,0,,,,,,
+62413200,2025-11-16 13:30,US Albinoleffe,Virtus Verona,3,1,,,,,,
+62413202,2025-11-16 13:30,Alcione Milano,Novara FC,0,1,,,,,,
+62413208,2025-11-16 16:30,L.R. Vicenza,AC Renate,1,0,,,,,,
+62413210,2025-11-16 16:30,Calcio Lecco 1912,Pro Patria Busto Arsizio,1,0,,,,,,
+62413216,2025-11-17 19:30,US Pergolettese Crema,AS Giana Erminio,0,3,,,,,,
+62413232,2025-11-21 19:30,Pro Patria Busto Arsizio,US Pergolettese Crema,3,1,,,,,,
+62413220,2025-11-22 13:30,US Albinoleffe,AC Lumezzane,0,1,,,,,,
+62413234,2025-11-22 13:30,Pro Vercelli 1892,Alcione Milano,1,0,,,,,,
+62413222,2025-11-22 16:30,FC Arzignano Valchiampo,Dolomiti Bellunesi,2,2,,,,,,
+62413238,2025-11-22 16:30,Virtus Verona,Triestina Calcio 1918,0,0,,,,,,
+62413236,2025-11-23 11:30,AC Trento,Inter Milano,0,1,,,,,,
+62413230,2025-11-23 13:30,Novara FC,AC Renate,0,1,,,,,,
+62433316,2025-11-23 13:30,Union Brescia,L.R. Vicenza,1,1,,,,,,
+62413226,2025-11-23 16:30,AS Giana Erminio,ACD Ospitaletto,1,0,,,,,,
+62413228,2025-11-23 19:30,Calcio Lecco 1912,AS Cittadella,0,1,,,,,,
+62413258,2025-11-28 19:30,Triestina Calcio 1918,Pro Patria Busto Arsizio,2,1,,,,,,
+62413250,2025-11-29 13:30,AC Lumezzane,Novara FC,1,1,,,,,,
+62413256,2025-11-29 13:30,AC Renate,FC Arzignano Valchiampo,1,2,,,,,,
+62413252,2025-11-29 16:30,ACD Ospitaletto,Virtus Verona,1,1,,,,,,
+62413254,2025-11-29 16:30,US Pergolettese Crema,US Albinoleffe,0,0,,,,,,
+62413240,2025-11-30 13:30,Alcione Milano,AC Trento,2,0,,,,,,
+62413246,2025-11-30 13:30,Inter Milano,Pro Vercelli 1892,1,1,,,,,,
+62413248,2025-11-30 13:30,L.R. Vicenza,Calcio Lecco 1912,1,0,,,,,,
+62413244,2025-11-30 16:30,Dolomiti Bellunesi,AS Giana Erminio,0,0,,,,,,
+62433318,2025-12-01 19:30,AS Cittadella,Union Brescia,1,1,,,,,,
+65542522,2025-12-03 17:30,Dolomiti Bellunesi,Inter Milano,1,0,,,,,,
+62413276,2025-12-05 19:30,AC Trento,AS Cittadella,1,0,,,,,,
+62413274,2025-12-06 13:30,Pro Vercelli 1892,AC Renate,1,1,,,,,,
+62413262,2025-12-07 11:30,FC Arzignano Valchiampo,Inter Milano,1,1,,,,,,
+62413270,2025-12-07 13:30,Novara FC,L.R. Vicenza,2,2,,,,,,
+62433322,2025-12-07 13:30,Union Brescia,AC Lumezzane,0,1,,,,,,
+62413272,2025-12-07 16:30,Pro Patria Busto Arsizio,Dolomiti Bellunesi,0,2,,,,,,
+62413260,2025-12-08 13:30,US Albinoleffe,ACD Ospitaletto,1,1,,,,,,
+62413268,2025-12-08 13:30,Calcio Lecco 1912,Alcione Milano,1,0,,,,,,
+62413278,2025-12-08 13:30,Virtus Verona,US Pergolettese Crema,1,1,,,,,,
+62413266,2025-12-08 14:00,AS Giana Erminio,Triestina Calcio 1918,2,1,,,,,,
+62413290,2025-12-13 13:30,AC Lumezzane,Calcio Lecco 1912,1,1,2.750,3.000,2.450,2.25,2.050,1.750
+62413280,2025-12-13 16:30,Alcione Milano,Virtus Verona,0,1,1.950,3.250,3.400,2.25,1.875,1.925
+62413296,2025-12-13 16:30,AC Renate,AC Trento,1,1,3.000,3.000,2.250,2,1.775,2.025
+62413288,2025-12-14 11:30,Inter Milano,AS Giana Erminio,0,1,2.400,3.000,2.800,2.25,2.050,1.750
+62413284,2025-12-14 13:30,AS Cittadella,Novara FC,2,2,1.909,3.100,3.800,2,1.800,2.000
+62413294,2025-12-14 13:30,US Pergolettese Crema,L.R. Vicenza,0,1,5.000,3.200,1.650,2,1.825,1.975
+62433324,2025-12-14 13:30,Dolomiti Bellunesi,Union Brescia,0,1,5.000,3.200,1.650,2.25,2.025,1.775
+62413292,2025-12-14 16:30,ACD Ospitaletto,Pro Vercelli 1892,2,0,2.375,3.000,2.750,2,1.775,2.025
+62413298,2025-12-14 16:30,Triestina Calcio 1918,US Albinoleffe,5,2,2.150,3.000,3.100,2.25,1.950,1.850
+62413282,2025-12-14 19:30,FC Arzignano Valchiampo,Pro Patria Busto Arsizio,2,1,1.800,3.000,4.333,2,1.850,1.950
+62413300,2025-12-20 13:30,US Albinoleffe,Alcione Milano,2,0,2.100,3.400,3.100,2.25,1.900,1.900
+62413316,2025-12-20 13:30,AC Trento,Dolomiti Bellunesi,2,0,1.600,3.600,5.000,2.5,2.000,1.800
+62413312,2025-12-20 16:30,Pro Patria Busto Arsizio,AC Renate,0,3,3.900,3.200,1.900,2,1.950,1.850
+62413318,2025-12-20 16:30,Virtus Verona,AC Lumezzane,0,0,2.350,3.200,2.800,2.25,1.800,2.000
+62413306,2025-12-21 13:30,L.R. Vicenza,Triestina Calcio 1918,1,0,1.363,3.900,8.500,2.25,1.775,2.025
+62413314,2025-12-21 13:30,Pro Vercelli 1892,FC Arzignano Valchiampo,0,5,2.000,3.400,3.200,2.25,1.850,1.950
+62413304,2025-12-21 16:30,AS Giana Erminio,AS Cittadella,0,2,2.900,2.900,2.375,1.75,1.800,2.000
+62413308,2025-12-21 16:30,Calcio Lecco 1912,US Pergolettese Crema,1,0,1.850,3.100,4.100,2,1.975,1.825
+62413310,2025-12-21 16:30,Novara FC,ACD Ospitaletto,0,3,2.100,3.100,3.300,2.25,2.050,1.750
+62433326,2025-12-22 19:30,Union Brescia,Inter Milano,2,0,1.750,3.250,4.500,2.25,2.000,1.800
+62413322,2026-01-03 13:30,AS Cittadella,Virtus Verona,4,1,1.666,3.250,4.750,2.25,1.900,1.900
+62413336,2026-01-03 13:30,AC Trento,AS Giana Erminio,3,1,1.800,3.100,4.200,2,1.775,2.025
+62413330,2026-01-03 16:30,ACD Ospitaletto,Calcio Lecco 1912,1,1,2.750,2.875,2.500,2,1.800,2.000
+62413332,2026-01-03 16:30,Pro Vercelli 1892,Pro Patria Busto Arsizio,1,0,1.700,3.100,4.750,2,1.800,2.000
+62413334,2026-01-03 16:30,AC Renate,US Pergolettese Crema,2,1,2.000,2.800,3.750,2,2.050,1.750
+62413326,2026-01-04 13:30,Inter Milano,Novara FC,0,0,2.100,3.000,3.200,2.25,2.000,1.800
+62413328,2026-01-04 13:30,AC Lumezzane,L.R. Vicenza,1,1,5.500,3.400,1.550,2.25,1.925,1.875
+62433328,2026-01-04 13:30,FC Arzignano Valchiampo,Union Brescia,1,2,3.700,2.900,2.000,2,1.975,1.825
+62413324,2026-01-04 16:30,Dolomiti Bellunesi,US Albinoleffe,2,0,2.700,3.100,2.375,2.25,1.900,1.900
+62413338,2026-01-05 19:30,Triestina Calcio 1918,Alcione Milano,1,2,2.000,3.250,3.200,2.25,1.875,1.925
+62413340,2026-01-10 13:30,US Albinoleffe,Pro Vercelli 1892,2,1,2.250,3.000,2.875,2.25,2.000,1.800
+62413346,2026-01-10 13:30,AS Giana Erminio,AC Renate,0,1,2.700,2.800,2.500,2,2.000,1.800
+62413348,2026-01-10 13:30,L.R. Vicenza,ACD Ospitaletto,1,0,1.363,4.000,8.000,2.5,1.950,1.850
+62433330,2026-01-10 13:30,Union Brescia,AC Trento,2,1,1.800,3.200,4.200,2.25,2.000,1.800
+62413354,2026-01-10 16:30,US Pergolettese Crema,AC Lumezzane,0,2,2.200,3.000,3.100,2,1.875,1.925
+62413356,2026-01-10 16:30,Pro Patria Busto Arsizio,Inter Milano,1,2,4.000,3.100,1.833,2,2.050,1.750
+62413342,2026-01-11 13:30,Alcione Milano,AS Cittadella,2,0,3.300,2.875,2.150,2,1.850,1.950
+62413352,2026-01-11 13:30,Novara FC,Dolomiti Bellunesi,1,1,1.750,3.100,4.500,2.25,1.975,1.825
+62413358,2026-01-11 13:30,Virtus Verona,FC Arzignano Valchiampo,0,1,2.600,3.000,2.550,2.25,1.925,1.875
+62413350,2026-01-11 16:30,Calcio Lecco 1912,Triestina Calcio 1918,1,0,1.600,3.300,5.000,2.25,1.925,1.875
+62413362,2026-01-17 13:30,AS Cittadella,US Pergolettese Crema,3,3,1.650,3.200,5.250,2.25,2.025,1.775
+62413364,2026-01-17 13:30,Dolomiti Bellunesi,Calcio Lecco 1912,1,4,3.500,3.000,2.050,2.25,1.750,2.050
+62413378,2026-01-17 13:30,AC Trento,Novara FC,1,1,1.909,3.100,3.800,2.25,1.875,1.925
+62413368,2026-01-17 16:30,AC Lumezzane,Alcione Milano,1,0,2.150,3.000,3.250,2.25,2.025,1.775
+62413370,2026-01-17 16:30,ACD Ospitaletto,Triestina Calcio 1918,1,0,2.050,3.200,3.200,2.25,1.800,2.000
+62413372,2026-01-17 16:30,Pro Patria Busto Arsizio,AS Giana Erminio,0,4,3.100,2.900,2.250,2,1.950,1.850
+62413360,2026-01-18 13:30,FC Arzignano Valchiampo,L.R. Vicenza,1,2,4.500,3.200,1.727,2,1.750,2.050
+62433334,2026-01-18 13:30,Pro Vercelli 1892,Union Brescia,0,0,4.000,2.800,2.000,2,1.900,1.900
+62413366,2026-01-18 16:30,Inter Milano,Virtus Verona,1,0,,,,,,
+62413376,2026-01-18 16:30,AC Renate,US Albinoleffe,1,1,2.000,3.000,3.500,2,1.875,1.925
+62413396,2026-01-23 19:30,Triestina Calcio 1918,AC Lumezzane,2,1,2.875,3.000,2.300,2.25,1.900,1.900
+62413380,2026-01-24 13:30,US Albinoleffe,AC Trento,1,2,2.600,3.100,2.450,2.25,1.900,1.900
+62433336,2026-01-24 13:30,Union Brescia,AC Renate,1,2,1.650,3.250,5.250,2,1.875,1.925
+62413398,2026-01-24 16:30,Virtus Verona,Pro Vercelli 1892,2,2,2.600,2.900,2.550,2,1.800,2.000
+62413386,2026-01-25 13:30,AS Giana Erminio,FC Arzignano Valchiampo,2,1,2.300,2.900,3.000,2,1.850,1.950
+62413392,2026-01-25 13:30,Novara FC,Pro Patria Busto Arsizio,3,1,1.650,3.200,5.000,2.25,2.050,1.750
+62413382,2026-01-25 16:30,Alcione Milano,Dolomiti Bellunesi,5,0,1.950,3.000,3.600,2,1.775,2.025
+62413394,2026-01-25 16:30,US Pergolettese Crema,ACD Ospitaletto,1,0,2.750,2.900,2.450,2,1.850,1.950
+62413388,2026-01-26 19:30,L.R. Vicenza,AS Cittadella,4,1,1.550,3.300,5.750,2.25,2.000,1.800
+62413390,2026-01-26 19:30,Calcio Lecco 1912,Inter Milano,0,2,,,,,,
+62413400,2026-01-31 13:30,FC Arzignano Valchiampo,Triestina Calcio 1918,4,1,1.950,3.200,3.400,2.25,1.850,1.950
+62413404,2026-01-31 13:30,Dolomiti Bellunesi,Virtus Verona,1,0,2.450,3.100,2.550,2.25,1.875,1.925
+62413418,2026-01-31 13:30,AC Trento,Calcio Lecco 1912,1,1,2.050,3.000,3.400,2.25,2.050,1.750
+62413408,2026-01-31 16:30,Inter Milano,US Pergolettese Crema,1,1,,,,,,
+62413410,2026-01-31 16:30,ACD Ospitaletto,AC Lumezzane,1,2,2.200,3.000,3.000,2.25,1.975,1.825
+62413402,2026-02-01 11:30,AS Cittadella,US Albinoleffe,0,1,1.833,3.000,4.500,2.5,2.000,1.800
+62413412,2026-02-01 11:30,Pro Patria Busto Arsizio,L.R. Vicenza,0,4,7.500,3.800,1.420,2.25,1.850,1.950
+62413414,2026-02-01 13:30,Pro Vercelli 1892,Novara FC,1,0,2.350,3.000,2.900,2,1.800,2.000
+62413416,2026-02-02 19:30,AC Renate,Alcione Milano,1,0,2.050,2.900,3.500,2,1.850,1.950
+62433338,2026-02-02 19:30,AS Giana Erminio,Union Brescia,0,2,3.750,3.000,1.909,2,1.825,1.975
+62413428,2026-02-07 13:30,AC Lumezzane,AS Cittadella,1,2,2.450,3.000,2.700,2.25,1.900,1.900
+62433340,2026-02-07 13:30,Novara FC,Union Brescia,0,0,3.100,3.000,2.150,2,1.775,2.025
+62413422,2026-02-07 16:30,Alcione Milano,FC Arzignano Valchiampo,1,0,2.625,2.875,2.750,2,1.750,2.050
+62413434,2026-02-07 16:30,US Pergolettese Crema,AC Trento,1,2,3.400,3.250,1.950,2.25,1.950,1.850
+62413438,2026-02-07 16:30,Virtus Verona,AS Giana Erminio,0,1,2.350,3.100,2.750,2.25,2.050,1.750
+62413420,2026-02-08 13:30,US Albinoleffe,Pro Patria Busto Arsizio,2,2,1.666,3.200,5.000,2.25,1.950,1.850
+62413426,2026-02-08 13:30,Calcio Lecco 1912,Pro Vercelli 1892,0,2,2.000,3.000,3.500,2,1.850,1.950
+62413432,2026-02-08 13:30,ACD Ospitaletto,AC Renate,1,1,2.900,2.900,2.350,2,2.050,1.750
+62413436,2026-02-08 13:30,Triestina Calcio 1918,Inter Milano,4,1,,,,,,
+62413424,2026-02-08 16:30,L.R. Vicenza,Dolomiti Bellunesi,0,0,1.200,6.500,10.000,3,2.025,1.775
+62413440,2026-02-11 17:00,Alcione Milano,ACD Ospitaletto,0,0,2.350,3.000,2.900,2.25,2.050,1.750
+62413446,2026-02-11 17:00,Dolomiti Bellunesi,US Pergolettese Crema,1,2,2.800,3.000,2.400,2,1.800,2.000
+62413452,2026-02-11 17:00,Novara FC,US Albinoleffe,2,2,2.050,3.000,3.300,2.25,2.000,1.800
+62413458,2026-02-11 17:00,AC Renate,Triestina Calcio 1918,4,0,1.833,3.200,3.900,2.25,1.875,1.925
+62413442,2026-02-11 19:30,FC Arzignano Valchiampo,AC Trento,0,2,2.900,3.200,2.200,2.25,1.900,1.900
+62413448,2026-02-11 19:30,AS Giana Erminio,Calcio Lecco 1912,0,1,2.700,2.900,2.500,2,1.975,1.825
+62413450,2026-02-11 19:30,Inter Milano,AC Lumezzane,0,0,,,,,,
+62413454,2026-02-11 19:30,Pro Patria Busto Arsizio,AS Cittadella,1,0,3.900,3.250,1.800,2.25,1.900,1.900
+62413456,2026-02-11 19:30,Pro Vercelli 1892,L.R. Vicenza,1,2,4.100,3.100,1.800,2.25,1.750,2.050
+62433344,2026-02-11 19:30,Union Brescia,Virtus Verona,3,1,1.363,4.200,7.000,2.5,1.975,1.825
+62413466,2026-02-15 11:30,L.R. Vicenza,Alcione Milano,0,1,1.363,4.000,8.000,2.25,1.850,1.950
+62413478,2026-02-15 11:30,Triestina Calcio 1918,Novara FC,0,1,2.600,2.875,2.600,2.25,1.925,1.875
+62413464,2026-02-15 13:30,Dolomiti Bellunesi,Pro Vercelli 1892,1,2,3.400,3.000,2.050,2.25,2.025,1.775
+62413460,2026-02-15 16:30,US Albinoleffe,FC Arzignano Valchiampo,2,0,2.350,3.000,2.900,2.25,2.025,1.775
+62413470,2026-02-15 16:30,AC Lumezzane,AS Giana Erminio,1,0,2.700,2.800,2.550,2,1.875,1.925
+62413476,2026-02-15 16:30,AC Trento,Pro Patria Busto Arsizio,2,0,1.450,4.000,5.750,2.75,1.975,1.825
+62413468,2026-02-15 19:30,Calcio Lecco 1912,Virtus Verona,2,2,1.750,3.200,4.333,2.25,1.975,1.825
+62413462,2026-02-16 19:30,AS Cittadella,AC Renate,2,1,2.100,3.000,3.250,2,1.750,2.050
+62413472,2026-02-16 19:30,ACD Ospitaletto,Inter Milano,2,2,,,,,,
+62433346,2026-02-16 19:30,US Pergolettese Crema,Union Brescia,2,1,5.250,3.200,1.650,2,1.850,1.950
+62413490,2026-02-21 13:30,Novara FC,AS Giana Erminio,3,1,2.200,2.875,3.100,2,1.975,1.825
+62413480,2026-02-21 16:30,Alcione Milano,US Pergolettese Crema,1,0,2.150,2.900,3.300,2,1.925,1.875
+62413494,2026-02-21 16:30,AC Renate,Inter Milano,2,1,,,,,,
+62413496,2026-02-21 16:30,Triestina Calcio 1918,AS Cittadella,2,3,3.600,3.200,1.950,2.25,1.825,1.975
+62413488,2026-02-22 13:30,AC Lumezzane,Dolomiti Bellunesi,3,0,1.750,3.200,4.200,2.25,1.925,1.875
+62413492,2026-02-22 13:30,Pro Vercelli 1892,AC Trento,1,3,3.000,3.000,2.200,2.25,2.025,1.775
+62413482,2026-02-22 16:30,FC Arzignano Valchiampo,ACD Ospitaletto,1,2,2.100,3.000,3.300,2.25,2.000,1.800
+62433348,2026-02-22 16:30,Union Brescia,Pro Patria Busto Arsizio,3,2,1.285,4.200,9.500,2.5,1.900,1.900
+62413486,2026-02-22 19:30,Calcio Lecco 1912,US Albinoleffe,0,0,2.150,2.900,3.200,2,1.850,1.950
+62413498,2026-02-23 19:30,Virtus Verona,L.R. Vicenza,0,1,6.250,3.750,1.450,2.5,1.850,1.950
+62413502,2026-02-27 19:30,FC Arzignano Valchiampo,Novara FC,1,1,2.600,2.900,2.600,2,2.025,1.775
+62413506,2026-02-27 19:30,AS Cittadella,ACD Ospitaletto,2,2,1.727,3.300,4.200,2.25,1.900,1.900
+62413510,2026-02-27 19:30,AS Giana Erminio,Pro Vercelli 1892,1,0,2.625,2.700,3.000,2,2.000,1.800
+62413514,2026-02-27 19:30,US Pergolettese Crema,Triestina Calcio 1918,2,0,2.000,3.000,3.500,2.25,2.000,1.800
+62413500,2026-02-28 13:30,US Albinoleffe,L.R. Vicenza,0,1,5.000,3.400,1.600,2.25,1.950,1.850
+62413508,2026-02-28 13:30,Dolomiti Bellunesi,AC Renate,0,3,3.000,3.100,2.200,2.25,1.975,1.825
+62433350,2026-02-28 13:30,Union Brescia,Calcio Lecco 1912,3,1,1.600,3.200,5.750,2,1.900,1.900
+62413516,2026-02-28 16:30,Pro Patria Busto Arsizio,Virtus Verona,2,2,2.250,3.200,2.800,2.25,1.900,1.900
+62413518,2026-02-28 16:30,AC Trento,AC Lumezzane,1,1,1.615,3.300,5.250,2.5,1.850,1.950
+62413512,2026-02-28 19:30,Inter Milano,Alcione Milano,0,0,,,,,,
+62413522,2026-03-03 17:00,Alcione Milano,AS Giana Erminio,1,1,2.450,2.750,3.000,1.75,1.800,2.000
+62413530,2026-03-03 17:00,AC Lumezzane,FC Arzignano Valchiampo,0,1,2.250,2.900,3.000,2.25,1.975,1.825
+62413532,2026-03-03 17:00,ACD Ospitaletto,Pro Patria Busto Arsizio,0,0,1.650,3.400,4.750,2.25,1.875,1.925
+62413534,2026-03-03 17:00,US Pergolettese Crema,Pro Vercelli 1892,2,1,2.550,2.900,2.600,2,1.875,1.925
+62413524,2026-03-03 19:30,AS Cittadella,Inter Milano,1,1,,,,,,
+62413526,2026-03-03 19:30,L.R. Vicenza,AC Trento,2,3,1.600,3.400,5.500,2.25,1.825,1.975
+62413528,2026-03-03 19:30,Calcio Lecco 1912,AC Renate,0,3,2.450,2.750,3.000,2,2.000,1.800
+62413536,2026-03-03 19:30,Triestina Calcio 1918,Dolomiti Bellunesi,2,3,1.850,3.200,3.700,2.25,1.850,1.950
+62413538,2026-03-03 19:30,Virtus Verona,Novara FC,0,2,2.800,2.900,2.375,2.25,2.025,1.775
+62433352,2026-03-03 19:30,US Albinoleffe,Union Brescia,1,0,4.200,3.200,1.800,2.25,2.025,1.775
+62413540,2026-03-07 13:30,FC Arzignano Valchiampo,Calcio Lecco 1912,0,1,2.450,3.000,2.625,2,1.825,1.975
+62413544,2026-03-07 13:30,Dolomiti Bellunesi,ACD Ospitaletto,4,1,3.200,2.875,2.250,2,1.825,1.975
+62413546,2026-03-07 13:30,AS Giana Erminio,L.R. Vicenza,1,3,4.750,3.000,1.750,2,1.800,2.000
+62413548,2026-03-07 13:30,Inter Milano,US Albinoleffe,0,1,,,,,,
+62413550,2026-03-07 13:30,Novara FC,US Pergolettese Crema,1,1,1.909,3.000,3.900,2,1.775,2.025
+62413558,2026-03-07 13:30,AC Trento,Virtus Verona,1,0,1.480,3.700,6.000,2.5,1.850,1.950
+62413552,2026-03-07 16:30,Pro Patria Busto Arsizio,Alcione Milano,1,1,2.875,2.800,2.450,2,1.825,1.975
+62413554,2026-03-07 16:30,Pro Vercelli 1892,AS Cittadella,0,2,2.550,3.000,2.550,2.25,2.050,1.750
+62413556,2026-03-07 16:30,AC Renate,AC Lumezzane,0,0,1.800,3.250,3.900,2.25,1.900,1.900
+62433354,2026-03-07 16:30,Union Brescia,Triestina Calcio 1918,0,0,1.380,3.900,7.500,2.5,2.025,1.775
+62433356,2026-03-13 19:30,Alcione Milano,Union Brescia,0,0,3.400,2.900,2.100,2,1.975,1.825
+62413572,2026-03-14 16:30,ACD Ospitaletto,AC Trento,3,2,2.700,3.000,2.450,2.25,1.950,1.850
+62413574,2026-03-14 16:30,US Pergolettese Crema,FC Arzignano Valchiampo,0,1,2.300,2.750,3.100,2,2.000,1.800
+62413560,2026-03-14 19:30,US Albinoleffe,AS Giana Erminio,0,1,2.300,2.900,2.900,2,1.975,1.825
+62413576,2026-03-15 13:30,Triestina Calcio 1918,Pro Vercelli 1892,2,3,2.350,3.100,2.700,2.25,2.025,1.775
+62413564,2026-03-15 16:30,AS Cittadella,Dolomiti Bellunesi,2,1,1.571,3.600,5.250,2.5,1.950,1.850
+62413570,2026-03-15 16:30,AC Lumezzane,Pro Patria Busto Arsizio,1,0,1.750,3.300,4.000,2.5,2.000,1.800
+62413578,2026-03-15 16:30,Virtus Verona,AC Renate,2,2,3.300,3.100,2.000,2.25,1.975,1.825
+62413568,2026-03-15 19:30,Calcio Lecco 1912,Novara FC,0,0,2.300,2.900,3.200,2,1.950,1.850
+62413566,2026-03-16 19:30,L.R. Vicenza,Inter Milano,2,1,,,,,,
+62413596,2026-03-20 19:30,AC Trento,Triestina Calcio 1918,2,2,1.444,4.200,6.250,2.5,1.825,1.975
+62413598,2026-03-20 19:30,Virtus Verona,US Albinoleffe,1,3,3.250,3.100,2.050,2.25,1.975,1.825
+62413584,2026-03-21 13:30,AS Giana Erminio,US Pergolettese Crema,2,0,2.050,2.800,3.800,2,2.025,1.775
+62433358,2026-03-21 13:30,Union Brescia,ACD Ospitaletto,0,0,1.571,3.500,5.250,2.25,1.775,2.025
+62413592,2026-03-21 16:30,Pro Vercelli 1892,AC Lumezzane,1,1,1.833,3.100,4.100,2.25,1.850,1.950
+62413594,2026-03-21 16:30,AC Renate,L.R. Vicenza,1,3,3.000,2.800,2.350,2,1.850,1.950
+62413590,2026-03-22 11:30,Pro Patria Busto Arsizio,Calcio Lecco 1912,1,4,3.400,3.000,2.050,2.25,2.000,1.800
+62413588,2026-03-22 13:30,Novara FC,Alcione Milano,3,0,1.950,2.900,3.800,2,1.900,1.900
+62413580,2026-03-22 16:30,FC Arzignano Valchiampo,AS Cittadella,1,0,2.750,3.000,2.450,2,1.825,1.975
+62413586,2026-03-22 16:30,Inter Milano,Dolomiti Bellunesi,1,2,,,,,,
+62413610,2026-03-28 13:30,AC Lumezzane,US Albinoleffe,1,1,2.300,3.000,2.800,2,2.000,1.800
+62413612,2026-03-28 13:30,ACD Ospitaletto,AS Giana Erminio,3,2,2.350,2.900,2.900,2,1.825,1.975
+62413600,2026-03-28 16:30,Alcione Milano,Pro Vercelli 1892,1,1,2.550,2.900,2.550,2,1.825,1.975
+62413604,2026-03-28 16:30,Dolomiti Bellunesi,FC Arzignano Valchiampo,1,2,3.200,2.900,2.300,2,2.025,1.775
+62413614,2026-03-28 16:30,US Pergolettese Crema,Pro Patria Busto Arsizio,2,1,1.750,3.100,4.333,2.25,2.000,1.775
+62413616,2026-03-28 16:30,AC Renate,Novara FC,3,1,2.550,3.000,2.625,2.25,2.025,1.775
+62413618,2026-03-28 16:30,Triestina Calcio 1918,Virtus Verona,5,0,1.900,3.300,3.600,2.5,2.000,1.800
+62433360,2026-03-29 12:30,L.R. Vicenza,Union Brescia,1,1,1.833,3.000,4.100,2,1.850,1.950
+62413602,2026-03-29 15:30,AS Cittadella,Calcio Lecco 1912,2,1,1.950,3.200,3.400,2.25,1.950,1.850
+62413622,2026-04-03 18:30,FC Arzignano Valchiampo,AC Renate,0,0,2.700,3.000,2.500,2,1.900,1.900
+62413628,2026-04-03 18:30,Calcio Lecco 1912,L.R. Vicenza,2,0,4.200,3.400,1.700,2.25,1.825,1.975
+62413630,2026-04-03 18:30,Novara FC,AC Lumezzane,1,3,1.650,3.100,5.500,2.5,2.000,1.800
+62433362,2026-04-03 18:30,Union Brescia,AS Cittadella,2,1,1.909,3.000,3.700,2.25,2.025,1.775
+62413634,2026-04-04 12:30,Pro Vercelli 1892,Inter Milano,0,2,,,,,,
+62413636,2026-04-04 15:30,AC Trento,Alcione Milano,1,0,1.615,3.500,4.750,2.75,1.875,1.925
+62413626,2026-04-06 12:30,AS Giana Erminio,Dolomiti Bellunesi,1,1,1.850,3.100,4.000,2.25,1.975,1.825
+62413632,2026-04-06 12:30,Pro Patria Busto Arsizio,Triestina Calcio 1918,1,1,2.750,3.200,2.300,2.5,2.000,1.800
+62413620,2026-04-06 15:30,US Albinoleffe,US Pergolettese Crema,3,0,2.100,3.000,3.300,2,1.825,1.975
+62413638,2026-04-06 15:30,Virtus Verona,ACD Ospitaletto,0,0,3.100,3.200,2.100,2.25,1.850,1.950
+70226700,2026-04-08 13:00,Inter Milano,AC Trento,2,1,,,,,,
+62413640,2026-04-10 18:30,Alcione Milano,Calcio Lecco 1912,0,2,2.750,3.300,2.250,2,2.000,1.800
+62413654,2026-04-11 12:30,US Pergolettese Crema,Virtus Verona,1,2,2.200,3.000,3.100,2.25,1.850,1.950
+62413658,2026-04-11 12:30,Triestina Calcio 1918,AS Giana Erminio,2,0,3.500,3.000,2.000,2,1.950,1.850
+62433364,2026-04-11 12:30,AC Lumezzane,Union Brescia,1,0,4.500,3.500,1.650,2.5,1.950,1.850
+62413648,2026-04-11 15:30,L.R. Vicenza,Novara FC,3,1,1.480,3.800,5.500,2.5,1.875,1.925
+62413642,2026-04-12 15:30,AS Cittadella,AC Trento,1,3,2.050,3.300,3.100,2.5,1.900,1.900
+62413652,2026-04-12 15:30,ACD Ospitaletto,US Albinoleffe,3,0,2.350,2.900,3.000,2,1.800,2.000
+62413646,2026-04-12 18:30,Inter Milano,FC Arzignano Valchiampo,0,1,,,,,,
+62413644,2026-04-13 18:30,Dolomiti Bellunesi,Pro Patria Busto Arsizio,2,4,1.900,3.250,3.600,2.5,1.775,2.025
+62413656,2026-04-13 18:30,AC Renate,Pro Vercelli 1892,2,1,2.050,3.100,3.300,2.25,1.875,1.925
+62413660,2026-04-19 12:30,US Albinoleffe,Triestina Calcio 1918,3,0,1.800,3.300,3.900,2.5,2.025,1.775
+62413664,2026-04-19 12:30,AS Giana Erminio,Inter Milano,2,0,,,,,,
+62413666,2026-04-19 12:30,L.R. Vicenza,US Pergolettese Crema,0,0,1.450,3.900,5.750,2.75,1.775,2.025
+62413668,2026-04-19 12:30,Calcio Lecco 1912,AC Lumezzane,2,2,1.800,3.600,3.600,2.75,1.900,1.900
+62413670,2026-04-19 12:30,Novara FC,AS Cittadella,0,1,2.050,3.250,3.200,2.5,2.025,1.775
+62413672,2026-04-19 12:30,Pro Patria Busto Arsizio,FC Arzignano Valchiampo,2,3,3.100,3.000,2.200,2,2.050,1.750
+62413674,2026-04-19 12:30,Pro Vercelli 1892,ACD Ospitaletto,1,0,2.450,3.100,2.600,2.25,1.900,1.900
+62413676,2026-04-19 12:30,AC Trento,AC Renate,3,3,2.150,3.200,3.000,2.5,1.975,1.825
+62413678,2026-04-19 12:30,Virtus Verona,Alcione Milano,1,1,2.500,3.100,2.500,2.25,1.925,1.875
+62433366,2026-04-19 12:30,Union Brescia,Dolomiti Bellunesi,2,0,1.333,4.100,7.500,2.75,1.900,1.900
+62413680,2026-04-25 18:30,Alcione Milano,US Albinoleffe,2,1,2.625,2.875,2.550,2.25,1.950,1.850
+62413682,2026-04-25 18:30,FC Arzignano Valchiampo,Pro Vercelli 1892,3,0,1.600,3.250,5.750,2.25,1.875,1.925
+62413684,2026-04-25 18:30,AS Cittadella,AS Giana Erminio,0,2,2.100,3.000,3.400,2.25,2.050,1.750
+62413686,2026-04-25 18:30,Dolomiti Bellunesi,AC Trento,0,0,5.000,3.500,1.600,2.75,1.900,1.900
+62413690,2026-04-25 18:30,AC Lumezzane,Virtus Verona,4,1,1.800,3.500,3.700,2.5,1.825,1.975
+62413692,2026-04-25 18:30,ACD Ospitaletto,Novara FC,0,2,2.700,3.100,2.400,2.5,1.975,1.825
+62413694,2026-04-25 18:30,US Pergolettese Crema,Calcio Lecco 1912,3,0,6.500,3.800,1.420,2.25,1.875,1.925
+62413696,2026-04-25 18:30,AC Renate,Pro Patria Busto Arsizio,2,1,1.400,3.900,6.500,2.75,1.800,2.000
+62413698,2026-04-25 18:30,Triestina Calcio 1918,L.R. Vicenza,1,6,4.750,3.900,1.550,2.75,1.975,1.825
+62433368,2026-04-25 18:30,Inter Milano,Union Brescia,0,1,,,,,,
+73292400,2026-08-21 19:00,Alcione Milano,AC Renate,3,1,3.250,2.875,2.200,2,1.925,1.875
+73292418,2026-08-21 19:00,Union Brescia,AC Carpi,3,1,1.300,4.750,8.000,2.5,1.950,1.850
+73292402,2026-08-22 16:00,AS Cittadella,US Pergolettese Crema,2,0,1.533,3.500,5.750,2.25,1.875,1.925
+73292408,2026-08-22 16:00,Juventus Next Gen,Novara FC,1,0,,,,,,
+73292412,2026-08-22 16:00,ACD Ospitaletto,AC Lumezzane,2,0,2.300,2.900,3.000,2.25,1.975,1.825
+73292406,2026-08-22 19:00,AS Giana Erminio,US Albinoleffe,1,2,2.450,2.900,2.800,2,1.850,1.950
+73292410,2026-08-22 19:00,Calcio Lecco 1912,FC Arzignano Valchiampo,0,0,2.000,3.100,3.400,2,1.800,2.000
+73292414,2026-08-23 16:00,Pro Vercelli 1892,Calcio Desenzano,1,1,2.050,3.100,3.250,2.5,2.025,1.775
+73292416,2026-08-23 19:00,AC Trento,Treviso FBC 1993,2,1,1.650,3.500,4.500,2.25,1.975,1.825
+73292404,2026-08-24 19:00,US Folgore Caratese,Dolomiti Bellunesi,1,2,2.150,2.900,3.250,2,1.775,2.025
+73293096,2026-08-30 16:00,FC Arzignano Valchiampo,Pro Vercelli 1892,1,0,1.950,3.200,3.400,2.25,1.950,1.850
+73293098,2026-08-30 16:00,AC Carpi,Juventus Next Gen,3,3,,,,,,
+73293102,2026-08-30 16:00,Dolomiti Bellunesi,Alcione Milano,0,0,2.375,2.875,2.875,2,1.850,1.950
+73293104,2026-08-30 19:00,AC Lumezzane,AS Giana Erminio,1,0,2.100,3.100,3.300,2,1.800,2.000
+73293108,2026-08-30 19:00,US Pergolettese Crema,Union Brescia,0,1,6.500,3.750,1.444,2.5,2.000,1.800
+73293106,2026-08-31 18:30,Novara FC,US Folgore Caratese,2,2,2.150,2.875,3.300,2,1.800,2.000
+73293094,2026-08-31 19:00,US Albinoleffe,ACD Ospitaletto,1,1,2.550,3.000,2.625,2.25,2.025,1.775
+73293100,2026-08-31 19:00,Calcio Desenzano,AC Trento,0,0,3.100,3.100,2.150,2.25,1.875,1.925
+73293110,2026-08-31 19:00,AC Renate,AS Cittadella,0,1,2.800,3.100,2.300,2.25,1.950,1.850
+73293112,2026-08-31 19:00,Treviso FBC 1993,Calcio Lecco 1912,1,0,2.100,3.100,3.200,2,1.850,1.950
+73293114,2026-09-06 13:00,US Albinoleffe,AC Carpi,0,1,2.100,3.100,3.200,2.25,1.950,1.850
+73293120,2026-09-06 13:00,AS Giana Erminio,Dolomiti Bellunesi,1,2,2.450,3.000,2.700,2,1.900,1.900
+73293122,2026-09-06 16:00,Juventus Next Gen,US Pergolettese Crema,0,0,,,,,,
+73293118,2026-09-06 19:00,AS Cittadella,AC Lumezzane,2,1,1.615,3.600,4.333,2.5,1.825,1.975
+73293124,2026-09-06 19:00,ACD Ospitaletto,FC Arzignano Valchiampo,3,1,2.200,3.100,3.000,2.25,1.950,1.850
+73293132,2026-09-06 19:00,Union Brescia,Calcio Desenzano,1,0,1.480,3.900,6.000,2.25,1.975,1.825
+73293116,2026-09-07 19:00,Alcione Milano,Treviso FBC 1993,1,1,2.350,2.900,2.900,2,2.025,1.775
+73293126,2026-09-07 19:00,Pro Vercelli 1892,US Folgore Caratese,1,0,2.100,3.100,3.400,2.25,1.825,1.975
+73293128,2026-09-07 19:00,AC Renate,Novara FC,1,2,2.250,2.900,3.000,2.25,2.000,1.800
+73293130,2026-09-07 19:00,AC Trento,Calcio Lecco 1912,1,0,2.100,3.000,3.250,2.25,1.900,1.900
+73293136,2026-09-13 13:00,AC Carpi,AS Cittadella,1,2,3.600,3.200,1.909,2.25,1.850,1.950
+73293138,2026-09-13 13:00,Dolomiti Bellunesi,US Albinoleffe,0,0,2.400,3.000,2.750,2.25,2.025,1.775
+73293142,2026-09-13 13:00,Calcio Lecco 1912,AS Giana Erminio,1,0,1.950,2.875,3.900,2,1.800,2.000
+73293152,2026-09-13 13:00,Treviso FBC 1993,Pro Vercelli 1892,2,1,1.750,3.200,4.333,2,1.825,1.975
+73293140,2026-09-13 16:00,US Folgore Caratese,Alcione Milano,2,3,2.450,3.100,2.550,2,1.800,2.000
+73293144,2026-09-13 16:00,AC Lumezzane,AC Renate,2,2,2.600,3.100,2.450,2.25,1.800,2.000
+73293148,2026-09-13 16:00,ACD Ospitaletto,Juventus Next Gen,3,0,,,,,,
+73293134,2026-09-13 19:00,FC Arzignano Valchiampo,Calcio Desenzano,1,2,2.100,2.900,3.250,2,1.825,1.975
+73293146,2026-09-13 19:00,Novara FC,US Pergolettese Crema,0,1,1.666,3.300,4.750,2.25,1.975,1.825
+73293150,2026-09-13 19:00,AC Trento,Union Brescia,0,0,3.600,3.000,1.950,2.25,2.025,1.775
+73293154,2026-09-17 16:30,US Albinoleffe,FC Arzignano Valchiampo,1,2,2.450,3.100,2.625,2.25,1.975,1.825
+73293158,2026-09-17 16:30,AS Cittadella,Juventus Next Gen,2,0,,,,,,
+73293160,2026-09-17 16:30,Calcio Desenzano,Calcio Lecco 1912,1,3,2.600,3.100,2.450,2.25,1.900,1.900
+73293164,2026-09-17 16:30,AC Lumezzane,Novara FC,0,0,2.700,3.000,2.400,2.25,1.975,1.825
+73293166,2026-09-17 16:30,US Pergolettese Crema,US Folgore Caratese,0,0,2.500,3.100,2.550,2.25,1.875,1.925
+73293168,2026-09-17 16:30,Pro Vercelli 1892,Alcione Milano,2,2,2.400,3.000,2.800,2.25,1.950,1.850
+73293156,2026-09-17 19:00,AC Carpi,ACD Ospitaletto,2,2,2.875,3.000,2.300,2.25,1.950,1.850
+73293162,2026-09-17 19:00,AS Giana Erminio,AC Trento,2,2,3.300,3.000,2.050,2.25,1.925,1.875
+73293170,2026-09-17 19:00,AC Renate,Dolomiti Bellunesi,0,0,2.000,3.100,3.400,2.25,1.900,1.900
+73293172,2026-09-17 19:00,Union Brescia,Treviso FBC 1993,2,2,1.615,3.300,5.250,2.25,1.975,1.825
+73293182,2026-09-20 10:30,Juventus Next Gen,US Albinoleffe,3,5,,,,,,
+73293186,2026-09-20 12:30,Novara FC,AC Carpi,2,2,1.900,3.100,3.800,2.25,1.850,1.950
+73293188,2026-09-20 12:30,ACD Ospitaletto,AS Cittadella,0,1,2.550,3.100,2.550,2.25,1.800,2.000
+73293176,2026-09-20 15:30,FC Arzignano Valchiampo,AC Renate,2,1,2.450,3.200,2.550,2.5,2.000,1.800
+73293174,2026-09-20 18:30,Alcione Milano,Union Brescia,0,4,4.333,3.750,1.600,2.25,1.925,1.875
+73293180,2026-09-20 18:30,US Folgore Caratese,AS Giana Erminio,1,1,2.150,3.100,3.000,2.25,2.000,1.800
+73293184,2026-09-20 18:30,Calcio Lecco 1912,US Pergolettese Crema,0,0,1.850,3.200,3.700,2.25,1.900,1.900
+73293178,2026-09-21 18:30,Dolomiti Bellunesi,AC Lumezzane,1,2,2.450,3.000,2.700,2.25,2.025,1.775
+73293190,2026-09-21 18:30,AC Trento,Pro Vercelli 1892,4,0,1.500,3.750,5.500,2.75,1.950,1.850
+73293192,2026-09-21 18:30,Treviso FBC 1993,Calcio Desenzano,0,0,1.750,3.200,4.200,2.25,1.975,1.825
+73293202,2026-09-26 12:30,AS Giana Erminio,Pro Vercelli 1892,1,1,2.100,3.250,3.000,2.5,1.975,1.825
+73293204,2026-09-26 12:30,AC Lumezzane,US Folgore Caratese,1,2,2.250,3.200,2.800,2.5,2.000,1.800
+73293208,2026-09-26 12:30,US Pergolettese Crema,AC Trento,0,0,4.000,3.200,1.800,2.25,1.900,1.900
+73293200,2026-09-26 15:30,Calcio Desenzano,Juventus Next Gen,0,0,2.400,3.200,2.625,2.5,2.000,1.800
+73293206,2026-09-26 15:30,Novara FC,ACD Ospitaletto,0,2,2.200,3.100,2.875,2.25,1.775,2.025
+73293198,2026-09-26 18:30,AS Cittadella,Calcio Lecco 1912,3,0,1.600,3.750,4.500,2.5,1.950,1.850
+73293212,2026-09-27 12:30,Union Brescia,Dolomiti Bellunesi,1,1,1.363,4.100,7.500,2.5,2.000,1.800
+73293196,2026-09-27 15:30,AC Carpi,FC Arzignano Valchiampo,0,3,3.000,3.100,2.150,2.25,1.900,1.900
+73293210,2026-09-27 15:30,AC Renate,Treviso FBC 1993,0,1,2.550,3.000,2.625,2.25,1.850,1.950
+73293194,2026-09-27 18:30,US Albinoleffe,Alcione Milano,1,1,2.350,3.000,2.900,2.25,1.975,1.825
+73293218,2026-10-03 12:30,AS Cittadella,US Albinoleffe,1,2,1.550,3.500,5.500,2.5,1.975,1.825
+73293216,2026-10-03 15:30,FC Arzignano Valchiampo,US Pergolettese Crema,2,2,1.950,3.000,3.800,2,1.850,1.950
+73293222,2026-10-03 18:30,US Folgore Caratese,Calcio Desenzano,1,2,2.100,3.000,3.200,2.25,2.000,1.800
+73293228,2026-10-03 18:30,ACD Ospitaletto,AC Renate,1,1,2.000,3.000,3.400,2.5,2.000,1.800
+73293230,2026-10-03 18:30,Pro Vercelli 1892,AC Carpi,2,0,2.200,3.200,2.800,2.5,1.825,1.975
+73293226,2026-10-04 10:30,Calcio Lecco 1912,Union Brescia,2,2,4.200,3.250,1.750,2.25,1.950,1.850
+73293232,2026-10-04 10:30,Treviso FBC 1993,AS Giana Erminio,0,0,1.700,3.200,4.750,2.25,1.875,1.925
+73293220,2026-10-04 15:30,Dolomiti Bellunesi,Novara FC,1,2,3.300,3.100,2.050,2,1.825,1.975
+73293214,2026-10-04 18:30,Alcione Milano,AC Trento,2,2,3.900,3.250,1.800,2.5,1.975,1.825
+73293252,2026-10-09 18:30,Union Brescia,Pro Vercelli 1892,2,0,1.333,4.333,7.000,2.75,1.850,1.950
+73293244,2026-10-10 12:30,US Pergolettese Crema,AC Carpi,2,1,2.150,3.000,3.100,2.25,2.000,1.800
+73293234,2026-10-10 15:30,FC Arzignano Valchiampo,Juventus Next Gen,2,1,2.200,3.200,2.900,2.25,1.900,1.900
+73293236,2026-10-10 15:30,Calcio Desenzano,Dolomiti Bellunesi,2,0,2.100,3.000,3.300,2,1.775,2.025
+73293240,2026-10-10 15:30,AC Lumezzane,US Albinoleffe,3,2,2.450,3.100,2.700,2.25,1.875,1.925
+73293242,2026-10-10 15:30,Novara FC,AS Cittadella,0,2,2.875,3.100,2.200,2.5,2.000,1.800
+73293246,2026-10-11 12:30,AC Renate,AS Giana Erminio,2,2,1.909,3.200,3.400,2.25,1.775,2.025
+73293238,2026-10-11 15:30,Calcio Lecco 1912,Alcione Milano,1,1,1.850,3.100,3.900,2.25,1.825,1.975
+73293248,2026-10-11 15:30,AC Trento,US Folgore Caratese,1,0,1.571,3.400,5.000,2.25,1.800,2.000
+73293250,2026-10-11 15:30,Treviso FBC 1993,ACD Ospitaletto,0,1,2.300,3.000,2.875,2.25,2.000,1.800
+74962148,2026-10-13 14:00,Juventus Next Gen,AC Lumezzane,0,0,1.900,3.400,3.400,2.75,1.950,1.850
+73293272,2026-10-16 18:30,Pro Vercelli 1892,Calcio Lecco 1912,0,5,2.900,3.100,2.200,2.5,2.000,1.800
+73293258,2026-10-17 12:30,AC Carpi,AC Lumezzane,3,1,2.100,3.100,3.000,2.5,1.975,1.825
+73293264,2026-10-17 15:30,US Folgore Caratese,Treviso FBC 1993,0,2,2.900,3.100,2.200,2.25,1.950,1.850
+73293254,2026-10-18 15:30,US Albinoleffe,Novara FC,2,2,2.350,3.100,2.750,2.25,1.900,1.900
+73293256,2026-10-18 15:30,Alcione Milano,Calcio Desenzano,4,1,2.300,3.000,2.900,2.25,1.825,1.975
+73293270,2026-10-18 15:30,ACD Ospitaletto,US Pergolettese Crema,2,3,1.750,3.250,4.100,2.25,1.850,1.950
+73293260,2026-10-19 18:30,AS Cittadella,FC Arzignano Valchiampo,1,0,1.700,3.300,4.200,2.5,1.975,1.825
+73293262,2026-10-19 18:30,Dolomiti Bellunesi,AC Trento,0,3,4.750,3.400,1.650,2.25,1.850,1.950
+73293266,2026-10-19 18:30,AS Giana Erminio,Union Brescia,2,1,5.250,3.700,1.533,2.5,1.950,1.850
+73293268,2026-10-19 18:30,Juventus Next Gen,AC Renate,2,1,2.250,3.100,2.875,2.5,1.800,2.000
+73293290,2026-10-24 12:30,Treviso FBC 1993,Dolomiti Bellunesi,2,1,1.480,3.700,6.000,2.25,1.900,1.900
+73293274,2026-10-24 15:30,Alcione Milano,AC Carpi,1,2,1.909,3.200,3.500,2.5,1.800,2.000
+73293292,2026-10-24 15:30,Union Brescia,AS Cittadella,2,1,2.050,3.100,3.300,2.5,2.025,1.775
+73293286,2026-10-25 11:30,AC Renate,US Albinoleffe,0,0,2.200,3.200,2.800,2.5,1.950,1.850
+73293288,2026-10-25 11:30,AC Trento,Juventus Next Gen,2,1,1.700,3.400,4.200,2.5,1.875,1.925
+73293278,2026-10-25 13:30,Calcio Desenzano,AS Giana Erminio,1,2,2.150,3.250,2.900,2.5,1.950,1.850
+73293276,2026-10-25 16:30,FC Arzignano Valchiampo,Novara FC,2,0,2.400,3.000,2.750,2.25,1.975,1.825
+73293280,2026-10-25 16:30,Calcio Lecco 1912,US Folgore Caratese,2,2,1.750,3.200,4.200,2.25,1.950,1.850
+73293282,2026-10-25 16:30,US Pergolettese Crema,AC Lumezzane,2,1,2.350,3.000,2.800,2.25,1.900,1.900
+73293284,2026-10-25 16:30,Pro Vercelli 1892,ACD Ospitaletto,2,1,3.000,3.250,2.050,2.5,1.850,1.950
+73293294,2026-10-30 19:30,US Albinoleffe,US Pergolettese Crema,3,2,2.050,3.000,3.400,2.25,1.950,1.850
+73293312,2026-10-31 13:30,ACD Ospitaletto,AC Trento,0,0,2.550,3.200,2.400,2.5,1.950,1.850
+73293304,2026-10-31 16:30,AS Giana Erminio,Alcione Milano,1,3,2.150,3.200,2.900,2.5,1.950,1.850
+73293302,2026-11-01 11:30,US Folgore Caratese,Union Brescia,0,4,4.500,3.300,1.650,2.25,1.850,1.950
+73293298,2026-11-01 13:30,AS Cittadella,Treviso FBC 1993,1,0,1.909,3.000,3.700,2.25,1.975,1.825
+73293300,2026-11-01 13:30,Dolomiti Bellunesi,Calcio Lecco 1912,0,4,4.100,3.250,1.750,2.25,1.875,1.925
+73293296,2026-11-01 16:30,AC Carpi,AC Renate,0,5,2.400,3.250,2.625,2.5,1.875,1.925
+73293308,2026-11-01 16:30,AC Lumezzane,FC Arzignano Valchiampo,1,1,2.500,3.200,2.450,2.5,1.950,1.850
+73293306,2026-11-02 19:30,Juventus Next Gen,Pro Vercelli 1892,1,1,1.909,3.400,3.250,2.75,1.975,1.825
+73293310,2026-11-02 19:30,Novara FC,Calcio Desenzano,1,0,2.150,3.000,3.000,2.25,1.875,1.925
+73293314,2026-11-06 19:30,Alcione Milano,AC Lumezzane,0,1,2.050,3.250,3.100,2.5,1.800,2.000
+73293332,2026-11-06 19:30,Union Brescia,FC Arzignano Valchiampo,3,2,1.444,3.900,6.250,2.5,1.900,1.900
+73293326,2026-11-07 13:30,Pro Vercelli 1892,Dolomiti Bellunesi,4,2,1.833,3.250,3.800,2.5,2.025,1.775
+73293324,2026-11-07 16:30,US Pergolettese Crema,AC Renate,2,3,2.625,3.100,2.450,2.25,1.900,1.900
+73293328,2026-11-07 16:30,AC Trento,US Albinoleffe,2,1,1.650,3.400,4.500,2.5,1.950,1.850
+73293320,2026-11-08 13:30,AS Giana Erminio,AS Cittadella,0,0,4.000,3.400,1.727,2.5,1.900,1.900
+73293322,2026-11-08 13:30,Calcio Lecco 1912,Juventus Next Gen,4,0,1.833,3.400,3.600,2.5,1.800,2.000
+73293316,2026-11-08 16:30,Calcio Desenzano,ACD Ospitaletto,0,1,3.000,3.250,2.100,2.5,2.000,1.800
+73293318,2026-11-08 16:30,US Folgore Caratese,AC Carpi,0,0,2.100,3.200,3.000,2.25,1.850,1.950
+73293330,2026-11-08 16:30,Treviso FBC 1993,Novara FC,2,0,1.727,3.100,4.750,2.25,1.900,1.900

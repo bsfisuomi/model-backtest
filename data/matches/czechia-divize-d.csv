@@ -1,323 +1,323 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-54168113,2025-05-23 15:30,FC PBS Velka Bites,SFK Vrchovina,1,3,,,
-54168119,2025-05-24 08:15,TJ Tatran Bohunice,SK Tatran Zdirec Nad Doubravou,2,1,,,
-54168125,2025-05-24 08:15,FC Kurim,MSK Breclav,0,0,,,
-54168115,2025-05-24 15:00,FS Trebic,FC Velke Mezirici,1,1,,,
-54168121,2025-05-25 15:00,Tj Sokol Lanzhot,FC Slovan Havlickuv Brod,1,1,,,
-54168123,2025-05-25 15:00,TJ Sokol Tasovice,TJ Dalnice Sperice,5,0,,,
-54168137,2025-05-30 15:30,FC Velke Mezirici,FC PBS Velka Bites,0,3,,,
-54168129,2025-05-31 08:15,MSK Breclav,TJ Sokol Tasovice,1,1,,,
-54168141,2025-05-31 15:00,Zdar Nad Sazavou,SK Artis B,0,0,,,
-54168127,2025-06-01 15:00,Slavoj Polna,FC Kurim,0,6,,,
-54168153,2025-06-07 15:00,TJ Tatran Bohunice,TJ Dalnice Sperice,1,3,,,
-54168155,2025-06-08 15:00,Tj Sokol Lanzhot,MSK Breclav,0,0,,,
-54168157,2025-06-08 15:00,TJ Sokol Tasovice,FC Kurim,2,0,,,
-54168163,2025-06-13 15:30,MSK Breclav,TJ Tatran Bohunice,2,3,,,
-54168171,2025-06-13 15:30,FC Velke Mezirici,SK Artis B,2,1,,,
-54168159,2025-06-13 16:00,Slavoj Polna,TJ Sokol Tasovice,1,4,,,
-54168167,2025-06-14 08:15,FC Slovan Havlickuv Brod,FC PBS Velka Bites,2,0,,,
-54168173,2025-06-14 15:00,SFK Vrchovina,Zdar Nad Sazavou,3,1,,,
-62047766,2025-08-09 08:15,FC Kurim,AFC Humpolec,4,0,,,
-62047768,2025-08-09 08:30,FC Sparta Brno,Zdar Nad Sazavou,0,1,,,
-62047772,2025-08-09 15:00,FC PBS Velka Bites,FS Trebic,2,1,,,
-62047778,2025-08-10 08:15,FC Velke Mezirici,TJ Sokol Tasovice,2,2,,,
-62047770,2025-08-10 08:30,SK Artis B,TJ Dalnice Sperice,6,1,,,
-62047782,2025-08-16 08:15,TJ Tatran Bohunice,FC Kurim,2,2,,,
-62047786,2025-08-16 14:30,FS Trebic,1. SC Znojmo FK,2,4,,,
-62047792,2025-08-17 08:15,FC Slovan Havlickuv Brod,FC Velke Mezirici,1,3,,,
-62047794,2025-08-17 08:15,Zdar Nad Sazavou,FK Pelhimov,1,1,,,
-62047790,2025-08-17 14:30,TJ Sokol Tasovice,SK Artis B,1,5,,,
-62047796,2025-08-17 14:30,SK Tatran Zdirec Nad Doubravou,FC Sparta Brno,0,1,,,
-62047798,2025-08-23 08:15,FC Kurim,FS Trebic,1,1,,,
-62047800,2025-08-23 08:30,FC Sparta Brno,AFC Humpolec,1,1,,,
-62047802,2025-08-24 08:30,SK Artis B,FC Slovan Havlickuv Brod,1,1,,,
-62047804,2025-08-24 14:30,FC PBS Velka Bites,TJ Sokol Tasovice,3,2,,,
-62047808,2025-08-24 14:30,Zdar Nad Sazavou,SK Tatran Zdirec Nad Doubravou,3,2,,,
-62047814,2025-08-30 08:15,TJ Tatran Bohunice,FC Sparta Brno,2,0,,,
-62047830,2025-08-30 08:15,FC Slovan Havlickuv Brod,FC PBS Velka Bites,1,2,,,
-62047816,2025-08-30 14:30,AFC Humpolec,Zdar Nad Sazavou,3,2,,,
-62047834,2025-08-31 08:15,FC Velke Mezirici,SK Artis B,1,2,,,
-62047828,2025-08-31 14:30,TJ Sokol Tasovice,1. SC Znojmo FK,1,0,,,
-62047840,2025-09-06 08:15,FC Kurim,TJ Sokol Tasovice,0,2,,,
-62047842,2025-09-06 08:30,FC Sparta Brno,FS Trebic,5,1,,,
-62047854,2025-09-06 14:00,1. SC Znojmo FK,FC Slovan Havlickuv Brod,2,1,,,
-62047852,2025-09-06 15:00,FC PBS Velka Bites,FC Velke Mezirici,3,3,,,
-62047844,2025-09-07 14:00,Zdar Nad Sazavou,TJ Tatran Bohunice,0,1,,,
-62047862,2025-09-12 14:30,FS Trebic,Zdar Nad Sazavou,1,1,,,
-62047856,2025-09-13 08:15,TJ Tatran Bohunice,SK Tatran Zdirec Nad Doubravou,2,0,,,
-62047868,2025-09-13 08:15,FC Slovan Havlickuv Brod,FC Kurim,0,1,,,
-62047860,2025-09-13 08:30,SK Artis B,FC PBS Velka Bites,0,4,,,
-62047858,2025-09-13 14:00,AFC Humpolec,FK Pelhimov,0,1,,,
-62047870,2025-09-14 08:15,FC Velke Mezirici,1. SC Znojmo FK,2,2,,,
-62047866,2025-09-14 14:00,TJ Sokol Tasovice,FC Chotebor,3,0,,,
-62047872,2025-09-20 08:15,FC Kurim,FC Velke Mezirici,1,3,,,
-62047874,2025-09-20 08:30,FC Sparta Brno,TJ Sokol Tasovice,4,0,,,
-62047886,2025-09-20 13:30,1. SC Znojmo FK,SK Artis B,1,0,,,
-62047878,2025-09-21 13:30,Zdar Nad Sazavou,TJ Dalnice Sperice,1,0,,,
-62047890,2025-09-27 08:30,SK Artis B,FC Kurim,4,2,,,
-62047902,2025-09-28 08:15,FC Velke Mezirici,FC Chotebor,1,1,,,
-62047904,2025-10-04 08:15,FC Kurim,FC PBS Velka Bites,2,0,,,
-62047906,2025-10-04 08:15,TJ Tatran Bohunice,FS Trebic,0,1,,,
-62047914,2025-10-05 13:00,SK Tatran Zdirec Nad Doubravou,TJ Sokol Tasovice,1,0,,,
-62047932,2025-10-11 08:15,FC Slovan Havlickuv Brod,SK Tatran Zdirec Nad Doubravou,0,0,,,
-62047926,2025-10-11 13:00,FS Trebic,FK Pelhimov,1,1,,,
-62047920,2025-10-11 16:00,SK Artis B,FC Sparta Brno,0,1,,,
-62047934,2025-10-12 08:15,FC Velke Mezirici,Zdar Nad Sazavou,1,2,,,
-62047930,2025-10-12 13:00,TJ Sokol Tasovice,AFC Humpolec,1,2,,,
-62047936,2025-10-18 08:15,TJ Tatran Bohunice,TJ Sokol Tasovice,1,1,,,
-62047938,2025-10-18 08:30,FC Sparta Brno,FC PBS Velka Bites,2,1,,,
-62047946,2025-10-18 12:30,FS Trebic,TJ Dalnice Sperice,0,0,,,
-62047942,2025-10-19 12:30,Zdar Nad Sazavou,SK Artis B,0,4,,,
-62047944,2025-10-19 12:30,SK Tatran Zdirec Nad Doubravou,FC Velke Mezirici,2,1,,,
-62047952,2025-10-25 08:15,FC Kurim,FC Chotebor,3,0,,,
-62047964,2025-10-25 08:15,FC Slovan Havlickuv Brod,TJ Tatran Bohunice,2,1,,,
-62047956,2025-10-25 12:30,FC PBS Velka Bites,Zdar Nad Sazavou,2,1,,,
-62047966,2025-10-26 09:15,FC Velke Mezirici,AFC Humpolec,2,1,,,
-62047954,2025-10-26 13:00,SK Artis B,SK Tatran Zdirec Nad Doubravou,1,1,,,
-62047962,2025-10-26 13:30,TJ Sokol Tasovice,FS Trebic,2,1,,,
-64083053,2025-10-29 14:00,TJ Tatran Bohunice,FK Pelhimov,1,0,,,
-62047968,2025-11-01 09:15,TJ Tatran Bohunice,FC Velke Mezirici,1,0,,,
-62047970,2025-11-01 09:30,FC Sparta Brno,FC Kurim,0,2,,,
-62047976,2025-11-02 13:00,TJ Dalnice Sperice,TJ Sokol Tasovice,1,1,,,
-62047978,2025-11-02 13:00,Zdar Nad Sazavou,1. SC Znojmo FK,1,0,,,
-62047984,2025-11-08 09:15,FC Kurim,Zdar Nad Sazavou,3,1,,,
-62047994,2025-11-08 09:15,FC Slovan Havlickuv Brod,TJ Dalnice Sperice,2,0,,,
-62047996,2025-11-08 12:00,FC Velke Mezirici,FS Trebic,1,3,,,
-62047986,2025-11-08 13:00,TJ Sokol Tasovice,FK Pelhimov,2,4,,,
-62047990,2025-11-08 13:00,FC PBS Velka Bites,AFC Humpolec,1,3,,,
-62047992,2025-11-08 13:00,1. SC Znojmo FK,SK Tatran Zdirec Nad Doubravou,1,1,,,
-62047988,2025-11-09 15:00,SK Artis B,TJ Tatran Bohunice,1,1,,,
-63990505,2025-11-15 09:15,FC Slovan Havlickuv Brod,FC Sparta Brno,3,0,,,
-66053840,2026-03-07 09:15,FC Kurim,SK Tatran Zdirec Nad Doubravou,2,0,,,
-66053850,2026-03-07 09:15,FC Slovan Havlickuv Brod,TJ Sokol Tasovice,0,2,,,
-66053848,2026-03-07 13:00,FC Velke Mezirici,TJ Dalnice Sperice,1,0,,,
-66053842,2026-03-08 09:30,1. SC Znojmo FK,AFC Humpolec,2,3,,,
-66053836,2026-03-08 13:30,FK Pelhimov,FC Sparta Brno,3,1,,,
-66053844,2026-03-08 13:30,FC PBS Velka Bites,TJ Tatran Bohunice,0,1,,,
-66053838,2026-03-08 15:00,FC Chotebor,Zdar Nad Sazavou,0,1,,,
-66053846,2026-03-08 16:00,SK Artis B,FS Trebic,5,1,,,
-66053852,2026-03-14 09:15,FC Slovan Havlickuv Brod,FK Pelhimov,1,1,1.615,4.200,3.900
-66053858,2026-03-14 14:00,FS Trebic,FC PBS Velka Bites,1,1,2.400,3.700,2.350
-66053862,2026-03-14 14:00,AFC Humpolec,FC Kurim,1,3,3.500,4.000,1.727
-66053860,2026-03-15 09:30,1. SC Znojmo FK,TJ Tatran Bohunice,2,2,1.909,3.750,3.100
-66053854,2026-03-15 14:00,TJ Sokol Tasovice,FC Velke Mezirici,1,1,2.100,3.600,2.750
-66053856,2026-03-15 14:00,TJ Dalnice Sperice,SK Artis B,1,3,,,
-66053864,2026-03-15 14:00,SK Tatran Zdirec Nad Doubravou,FC Chotebor,1,0,1.450,4.100,5.250
-66053866,2026-03-15 14:00,Zdar Nad Sazavou,FC Sparta Brno,2,0,1.600,4.000,4.200
-66053870,2026-03-21 09:30,FC Sparta Brno,SK Tatran Zdirec Nad Doubravou,2,1,2.200,3.600,2.625
-66053878,2026-03-21 14:00,FC PBS Velka Bites,TJ Dalnice Sperice,3,0,1.750,3.700,3.700
-66053882,2026-03-22 09:15,FC Velke Mezirici,FC Slovan Havlickuv Brod,2,1,2.500,3.600,2.300
-66053876,2026-03-22 09:30,1. SC Znojmo FK,FS Trebic,5,0,1.333,5.250,6.000
-66053868,2026-03-22 14:00,FK Pelhimov,Zdar Nad Sazavou,0,0,,,
-66053872,2026-03-22 14:00,FC Chotebor,AFC Humpolec,2,1,2.400,3.700,2.350
-66053880,2026-03-22 16:00,SK Artis B,TJ Sokol Tasovice,5,0,1.270,5.000,8.500
-66053894,2026-03-27 17:00,TJ Tatran Bohunice,FC Chotebor,2,1,1.380,4.500,5.750
-66053886,2026-03-28 09:15,FC Slovan Havlickuv Brod,SK Artis B,1,6,,,
-66053892,2026-03-28 14:00,FS Trebic,FC Kurim,0,0,,,
-66053896,2026-03-28 14:00,AFC Humpolec,FC Sparta Brno,0,0,,,
-66053884,2026-03-29 08:15,FC Velke Mezirici,FK Pelhimov,2,2,1.833,4.200,3.000
-66053888,2026-03-29 13:00,TJ Sokol Tasovice,FC PBS Velka Bites,0,4,3.100,3.750,1.950
-66053890,2026-03-29 13:00,TJ Dalnice Sperice,1. SC Znojmo FK,0,4,3.600,3.700,1.750
-66053898,2026-03-29 13:00,SK Tatran Zdirec Nad Doubravou,Zdar Nad Sazavou,0,0,2.250,3.750,2.500
-66053904,2026-04-02 14:30,FC Sparta Brno,TJ Tatran Bohunice,0,0,2.700,3.600,2.150
-66053908,2026-04-03 08:15,FC Kurim,TJ Dalnice Sperice,4,0,1.181,6.000,10.000
-66053900,2026-04-03 13:30,FK Pelhimov,SK Tatran Zdirec Nad Doubravou,0,0,,,
-66053902,2026-04-03 13:30,Zdar Nad Sazavou,AFC Humpolec,0,0,,,
-66053910,2026-04-03 13:30,1. SC Znojmo FK,TJ Sokol Tasovice,0,0,,,
-66053912,2026-04-03 13:30,FC PBS Velka Bites,FC Slovan Havlickuv Brod,1,0,1.666,3.900,3.800
-66053906,2026-04-05 13:30,FC Chotebor,FS Trebic,0,0,,,
-66053914,2026-04-05 15:00,SK Artis B,FC Velke Mezirici,1,0,1.250,5.500,8.000
-66053920,2026-04-11 08:15,FC Slovan Havlickuv Brod,1. SC Znojmo FK,5,0,3.300,3.800,1.800
-66053928,2026-04-11 08:15,TJ Tatran Bohunice,Zdar Nad Sazavou,2,0,1.700,3.900,3.800
-66053926,2026-04-11 08:30,FS Trebic,FC Sparta Brno,3,3,,,
-66053930,2026-04-11 12:00,AFC Humpolec,SK Tatran Zdirec Nad Doubravou,4,0,2.200,3.400,2.800
-66053918,2026-04-12 08:15,FC Velke Mezirici,FC PBS Velka Bites,2,5,2.750,3.600,2.100
-66053922,2026-04-12 13:30,TJ Sokol Tasovice,FC Kurim,2,0,,,
-66053924,2026-04-12 13:30,TJ Dalnice Sperice,FC Chotebor,1,1,,,
-66053916,2026-04-12 15:00,SK Artis B,FK Pelhimov,3,1,1.142,7.500,12.000
-70503276,2026-04-14 15:00,SK Tatran Zdirec Nad Doubravou,Zdar Nad Sazavou,2,0,2.400,3.500,2.400
-70114510,2026-04-15 14:45,FC Kurim,TJ Tatran Bohunice,3,1,1.950,3.600,3.200
-66053944,2026-04-17 14:00,1. SC Znojmo FK,FC Velke Mezirici,2,2,1.666,4.000,3.800
-66053942,2026-04-18 08:15,FC Kurim,FC Slovan Havlickuv Brod,2,2,1.615,3.700,4.200
-66053938,2026-04-18 08:30,FC Sparta Brno,TJ Dalnice Sperice,8,0,1.550,4.000,4.750
-66053932,2026-04-19 14:00,FK Pelhimov,AFC Humpolec,1,1,,,
-66053934,2026-04-19 14:00,SK Tatran Zdirec Nad Doubravou,TJ Tatran Bohunice,2,0,,,
-66053936,2026-04-19 14:00,Zdar Nad Sazavou,FS Trebic,1,0,,,
-66053940,2026-04-19 14:00,FC Chotebor,TJ Sokol Tasovice,3,1,,,
-66053946,2026-04-19 14:00,FC PBS Velka Bites,SK Artis B,0,2,3.800,4.200,1.650
-66053954,2026-04-25 08:15,FC Slovan Havlickuv Brod,FC Chotebor,1,2,1.450,4.333,5.000
-66053962,2026-04-25 08:15,TJ Tatran Bohunice,AFC Humpolec,4,0,1.500,4.200,4.750
-66053948,2026-04-25 14:00,FC PBS Velka Bites,FK Pelhimov,4,1,,,
-66053952,2026-04-26 08:15,FC Velke Mezirici,FC Kurim,1,2,4.100,4.500,1.550
-66053960,2026-04-26 08:30,FS Trebic,SK Tatran Zdirec Nad Doubravou,0,0,2.100,3.900,2.700
-66053956,2026-04-26 14:00,TJ Sokol Tasovice,FC Sparta Brno,5,2,2.600,3.700,2.150
-66053958,2026-04-26 14:00,TJ Dalnice Sperice,Zdar Nad Sazavou,1,0,4.000,4.100,1.615
-66053950,2026-04-26 15:00,SK Artis B,1. SC Znojmo FK,2,1,1.363,5.000,5.500
-66053964,2026-05-01 14:30,FK Pelhimov,TJ Tatran Bohunice,0,0,,,
-66053974,2026-05-01 14:30,FC Chotebor,FC Velke Mezirici,0,0,,,
-66053978,2026-05-01 14:30,1. SC Znojmo FK,FC PBS Velka Bites,1,1,,,
-66053976,2026-05-02 08:15,FC Kurim,SK Artis B,0,0,2.900,3.400,2.050
-66053972,2026-05-02 08:30,FC Sparta Brno,FC Slovan Havlickuv Brod,8,2,2.150,3.900,2.500
-66053966,2026-05-03 14:30,AFC Humpolec,FS Trebic,0,0,,,
-66053968,2026-05-03 14:30,SK Tatran Zdirec Nad Doubravou,TJ Dalnice Sperice,2,0,1.533,4.100,4.500
-66053970,2026-05-03 14:30,Zdar Nad Sazavou,TJ Sokol Tasovice,0,0,,,
-66053988,2026-05-08 08:15,FC Slovan Havlickuv Brod,Zdar Nad Sazavou,0,0,,,
-66053994,2026-05-08 08:30,FS Trebic,TJ Tatran Bohunice,1,3,,,
-66053986,2026-05-08 15:00,FC Velke Mezirici,FC Sparta Brno,2,1,,,
-66053984,2026-05-08 16:00,SK Artis B,FC Chotebor,5,0,,,
-66053980,2026-05-10 08:30,1. SC Znojmo FK,FK Pelhimov,4,0,,,
-66053992,2026-05-10 12:00,TJ Dalnice Sperice,AFC Humpolec,2,0,2.350,4.000,2.250
-66053982,2026-05-10 14:30,FC PBS Velka Bites,FC Kurim,1,1,,,
-66053990,2026-05-10 14:30,TJ Sokol Tasovice,SK Tatran Zdirec Nad Doubravou,0,1,,,
-66053998,2026-05-16 08:15,TJ Tatran Bohunice,TJ Dalnice Sperice,1,0,,,
-66054010,2026-05-16 08:15,FC Kurim,1. SC Znojmo FK,3,1,,,
-66054000,2026-05-16 15:00,AFC Humpolec,TJ Sokol Tasovice,0,0,,,
-66054004,2026-05-16 15:00,Zdar Nad Sazavou,FC Velke Mezirici,0,3,,,
-66054002,2026-05-17 11:30,SK Tatran Zdirec Nad Doubravou,FC Slovan Havlickuv Brod,0,3,,,
-66053996,2026-05-17 15:00,FK Pelhimov,FS Trebic,5,2,,,
-66054008,2026-05-17 15:00,FC Chotebor,FC PBS Velka Bites,0,0,,,
-71540936,2026-05-20 16:00,FC Sparta Brno,SK Artis B,1,3,,,
-66054012,2026-05-23 08:15,FC Kurim,FK Pelhimov,8,1,,,
-66054022,2026-05-23 08:15,FC Slovan Havlickuv Brod,AFC Humpolec,2,0,,,
-66054016,2026-05-23 15:00,FC PBS Velka Bites,FC Sparta Brno,2,1,,,
-66054020,2026-05-24 08:15,FC Velke Mezirici,SK Tatran Zdirec Nad Doubravou,5,1,,,
-66054014,2026-05-24 08:30,1. SC Znojmo FK,FC Chotebor,3,1,,,
-66054018,2026-05-24 15:00,SK Artis B,Zdar Nad Sazavou,5,0,,,
-66054024,2026-05-24 15:00,TJ Sokol Tasovice,TJ Tatran Bohunice,0,3,,,
-66054026,2026-05-24 15:00,TJ Dalnice Sperice,FS Trebic,0,0,,,
-66054030,2026-05-30 08:30,FS Trebic,TJ Sokol Tasovice,1,1,,,
-66054032,2026-05-30 15:00,TJ Tatran Bohunice,FC Slovan Havlickuv Brod,2,1,,,
-66054034,2026-05-30 15:00,AFC Humpolec,FC Velke Mezirici,0,0,,,
-66054042,2026-05-30 15:00,FC Chotebor,FC Kurim,1,0,,,
-66054040,2026-05-31 08:30,1. SC Znojmo FK,FC Sparta Brno,5,1,,,
-66054028,2026-05-31 15:00,FK Pelhimov,TJ Dalnice Sperice,0,0,,,
-66054036,2026-05-31 15:00,SK Tatran Zdirec Nad Doubravou,SK Artis B,0,0,,,
-66054038,2026-05-31 15:00,Zdar Nad Sazavou,FC PBS Velka Bites,1,3,,,
-66054052,2026-06-05 15:00,SK Artis B,AFC Humpolec,5,1,,,
-66054048,2026-06-05 15:30,1. SC Znojmo FK,Zdar Nad Sazavou,10,1,,,
-66054054,2026-06-05 15:30,FC Velke Mezirici,TJ Tatran Bohunice,2,1,,,
-66054046,2026-06-06 08:15,FC Kurim,FC Sparta Brno,3,1,,,
-66054044,2026-06-06 15:00,FC Chotebor,FK Pelhimov,0,0,,,
-66054050,2026-06-07 15:00,FC PBS Velka Bites,SK Tatran Zdirec Nad Doubravou,2,0,,,
-66054056,2026-06-07 15:00,FC Slovan Havlickuv Brod,FS Trebic,2,2,1.571,4.100,4.200
-66054058,2026-06-07 15:00,TJ Sokol Tasovice,TJ Dalnice Sperice,5,2,,,
-66054066,2026-06-12 15:30,Tatran Bohunice,SK Artis B,0,0,,,
-66054060,2026-06-12 16:00,Pelhimov,S. Tasovice,1,2,,,
-66054064,2026-06-13 08:30,FS Trebic,Velke Mezirici,3,1,,,
-66054074,2026-06-13 08:30,Sparta Brno,FC Chotebor,2,1,,,
-66054062,2026-06-13 13:00,Dalnice Sperice,Havlickuv Brod,0,0,,,
-66054072,2026-06-13 13:00,Z. N. Sazavou,FC Kurim,0,2,,,
-66054070,2026-06-13 13:30,SK Tatran Zdirec Nad Doubravou,Znojmo,0,0,,,
-66054068,2026-06-13 14:30,AFC Humpolec,Velka Bites,0,0,,,
-72655510,2026-08-07 15:30,FC Velke Mezirici,AFC Humpolec,1,1,2.000,3.700,2.900
-72655502,2026-08-08 08:15,FC Kurim,FC Chotebor,8,1,1.285,5.000,7.500
-72655504,2026-08-08 08:30,FC Sparta Brno,FS Trebic,1,2,1.666,4.000,3.700
-72655506,2026-08-08 14:30,FC Dosta Bystrc-Kninicky,Zdar Nad Sazavou,2,3,2.100,3.750,2.700
-72655508,2026-08-08 14:30,Bedrichov,1. SC Znojmo FK,0,0,3.500,4.000,1.727
-72655512,2026-08-09 14:30,SK Tatran Zdirec Nad Doubravou,TJ Sokol Tasovice,1,3,1.900,3.900,3.100
-72655514,2026-08-09 14:30,FC PBS Velka Bites,TJ Tatran Bohunice,0,4,2.000,3.900,2.875
-72655516,2026-08-09 14:30,FK Pelhimov,FC Slovan Havlickuv Brod,1,0,,,
-72655532,2026-08-15 08:15,TJ Tatran Bohunice,SK Tatran Zdirec Nad Doubravou,1,1,1.333,4.500,7.000
-72655520,2026-08-15 14:30,FS Trebic,FC PBS Velka Bites,0,1,2.200,3.700,2.550
-72655528,2026-08-15 14:30,1. SC Znojmo FK,FC Kurim,2,1,,,
-72655518,2026-08-16 14:30,AFC Humpolec,Bedrichov,2,2,1.850,3.800,3.100
-72655524,2026-08-16 14:30,TJ Sokol Tasovice,FK Pelhimov,2,2,1.800,3.700,3.500
-72655526,2026-08-16 14:30,Zdar Nad Sazavou,FC Sparta Brno,1,1,1.909,3.700,3.000
-72655530,2026-08-16 14:30,FC Chotebor,FC Dosta Bystrc-Kninicky,2,2,,,
-72655522,2026-08-16 15:00,FC Slovan Havlickuv Brod,FC Velke Mezirici,3,1,,,
-72655542,2026-08-21 15:30,FC Velke Mezirici,TJ Sokol Tasovice,0,0,2.100,3.700,2.700
-72655534,2026-08-22 08:15,FC Kurim,AFC Humpolec,1,0,1.420,4.333,5.500
-72655536,2026-08-22 08:30,FC Sparta Brno,FC Chotebor,2,0,1.727,4.000,3.500
-72655538,2026-08-22 14:30,FC Dosta Bystrc-Kninicky,1. SC Znojmo FK,1,1,2.875,3.800,2.000
-72655540,2026-08-22 14:30,Bedrichov,FC Slovan Havlickuv Brod,1,4,2.400,3.750,2.300
-72655548,2026-08-22 14:30,FS Trebic,Zdar Nad Sazavou,0,5,,,
-72655544,2026-08-23 14:30,FC PBS Velka Bites,SK Tatran Zdirec Nad Doubravou,1,0,1.666,3.900,3.750
-72655546,2026-08-23 14:30,FK Pelhimov,TJ Tatran Bohunice,1,2,,,
-72655560,2026-08-28 15:00,TJ Tatran Bohunice,FC Velke Mezirici,3,3,1.380,4.500,5.750
-72655564,2026-08-28 15:00,FC Chotebor,FS Trebic,0,2,,,
-72655562,2026-08-29 14:00,1. SC Znojmo FK,FC Sparta Brno,3,0,,,
-72655552,2026-08-29 14:30,FC Slovan Havlickuv Brod,FC Kurim,1,3,3.200,3.800,1.850
-72655550,2026-08-30 14:00,AFC Humpolec,FC Dosta Bystrc-Kninicky,0,2,,,
-72655554,2026-08-30 14:00,SK Tatran Zdirec Nad Doubravou,FK Pelhimov,2,2,2.000,3.900,2.800
-72655556,2026-08-30 14:00,Zdar Nad Sazavou,FC PBS Velka Bites,2,2,,,
-72655558,2026-08-30 14:00,TJ Sokol Tasovice,Bedrichov,4,1,1.550,4.333,4.100
-72655566,2026-09-05 08:15,FC Kurim,TJ Sokol Tasovice,1,1,1.420,4.500,5.500
-72655568,2026-09-05 08:30,FC Sparta Brno,AFC Humpolec,1,0,2.000,3.800,2.750
-72655572,2026-09-05 14:00,Bedrichov,TJ Tatran Bohunice,0,4,4.750,4.200,1.500
-72655578,2026-09-05 14:00,FC PBS Velka Bites,FK Pelhimov,2,0,,,
-72655580,2026-09-05 14:00,FS Trebic,1. SC Znojmo FK,1,6,4.100,4.000,1.615
-72655576,2026-09-06 08:15,FC Velke Mezirici,SK Tatran Zdirec Nad Doubravou,3,2,2.050,3.900,2.700
-72655570,2026-09-06 14:00,FC Dosta Bystrc-Kninicky,FC Slovan Havlickuv Brod,0,0,2.300,4.000,2.300
-72655574,2026-09-06 14:00,Zdar Nad Sazavou,FC Chotebor,0,2,1.727,4.500,3.100
-72655594,2026-09-12 08:15,TJ Tatran Bohunice,FC Kurim,3,0,1.833,3.800,3.300
-72655586,2026-09-12 12:30,FC Slovan Havlickuv Brod,FC Sparta Brno,3,1,,,
-72655596,2026-09-12 14:00,FC Chotebor,FC PBS Velka Bites,0,0,,,
-72655592,2026-09-13 08:30,1. SC Znojmo FK,Zdar Nad Sazavou,2,0,1.550,4.500,4.100
-72655582,2026-09-13 13:30,AFC Humpolec,FS Trebic,1,2,,,
-72655584,2026-09-13 13:30,FK Pelhimov,FC Velke Mezirici,5,0,,,
-72655588,2026-09-13 13:30,TJ Sokol Tasovice,FC Dosta Bystrc-Kninicky,0,0,1.909,3.750,3.100
-72655590,2026-09-13 13:30,SK Tatran Zdirec Nad Doubravou,Bedrichov,3,0,,,
-72655598,2026-09-19 08:15,FC Kurim,SK Tatran Zdirec Nad Doubravou,6,1,1.333,4.750,7.000
-72655600,2026-09-19 08:30,FC Sparta Brno,TJ Sokol Tasovice,3,2,2.250,3.700,2.500
-72655602,2026-09-19 13:30,FC Dosta Bystrc-Kninicky,TJ Tatran Bohunice,1,3,4.333,4.100,1.571
-72655604,2026-09-19 13:30,Bedrichov,FK Pelhimov,1,5,3.300,4.200,1.727
-72655612,2026-09-19 13:30,FS Trebic,FC Slovan Havlickuv Brod,2,0,,,
-72655606,2026-09-19 14:00,FC Chotebor,1. SC Znojmo FK,4,2,,,
-72655608,2026-09-20 13:30,FC PBS Velka Bites,FC Velke Mezirici,2,0,1.666,3.800,4.000
-72655610,2026-09-20 13:30,Zdar Nad Sazavou,AFC Humpolec,1,2,1.500,4.333,4.500
-72655628,2026-09-25 14:15,TJ Tatran Bohunice,FC Sparta Brno,1,2,1.285,4.750,7.500
-72655618,2026-09-26 13:30,FC Slovan Havlickuv Brod,Zdar Nad Sazavou,4,2,,,
-72655620,2026-09-27 08:15,FC Velke Mezirici,Bedrichov,2,1,1.380,4.500,5.750
-72655614,2026-09-27 13:00,AFC Humpolec,FC Chotebor,0,0,,,
-72655616,2026-09-27 13:00,FK Pelhimov,FC Kurim,4,2,,,
-72655622,2026-09-27 13:00,TJ Sokol Tasovice,FS Trebic,1,1,1.727,4.000,3.500
-72655624,2026-09-27 13:00,SK Tatran Zdirec Nad Doubravou,FC Dosta Bystrc-Kninicky,3,2,2.250,3.700,2.450
-72655626,2026-09-27 13:00,1. SC Znojmo FK,FC PBS Velka Bites,1,1,1.900,4.100,3.000
-72655630,2026-10-03 08:15,FC Kurim,FC Velke Mezirici,3,0,1.333,4.750,6.500
-72655632,2026-10-03 08:30,FC Sparta Brno,SK Tatran Zdirec Nad Doubravou,3,1,1.666,4.100,3.700
-72655644,2026-10-03 13:00,FS Trebic,TJ Tatran Bohunice,1,0,,,
-72655634,2026-10-03 13:30,FC Dosta Bystrc-Kninicky,FK Pelhimov,2,1,2.700,3.800,2.100
-72655636,2026-10-04 13:00,FC Chotebor,FC Slovan Havlickuv Brod,0,1,,,
-72655638,2026-10-04 13:00,1. SC Znojmo FK,AFC Humpolec,0,2,1.285,5.000,7.500
-72655640,2026-10-04 13:00,FC PBS Velka Bites,Bedrichov,6,3,1.444,5.250,4.333
-72655642,2026-10-04 13:00,Zdar Nad Sazavou,TJ Sokol Tasovice,0,1,2.100,3.750,2.700
-72655654,2026-10-10 08:15,TJ Tatran Bohunice,Zdar Nad Sazavou,1,0,1.666,3.750,4.000
-72655646,2026-10-10 12:30,Bedrichov,FC Kurim,0,13,,,
-72655648,2026-10-10 12:30,SK Tatran Zdirec Nad Doubravou,FS Trebic,2,2,,,
-72655660,2026-10-10 13:00,FC Slovan Havlickuv Brod,1. SC Znojmo FK,4,2,,,
-72655650,2026-10-11 08:15,FC Velke Mezirici,FC Dosta Bystrc-Kninicky,4,4,2.250,3.750,2.500
-72655652,2026-10-11 12:30,TJ Sokol Tasovice,FC Chotebor,4,1,,,
-72655656,2026-10-11 12:30,AFC Humpolec,FC PBS Velka Bites,1,4,3.600,3.900,1.727
-72655658,2026-10-11 12:30,FK Pelhimov,FC Sparta Brno,0,3,,,
-72655662,2026-10-17 08:30,FC Sparta Brno,FC Velke Mezirici,5,1,1.571,4.200,4.200
-72655666,2026-10-17 12:30,FC Chotebor,TJ Tatran Bohunice,1,1,,,
-72655676,2026-10-17 12:30,FS Trebic,FK Pelhimov,4,2,,,
-72655664,2026-10-17 13:00,FC Dosta Bystrc-Kninicky,Bedrichov,4,0,,,
-72655668,2026-10-18 12:30,1. SC Znojmo FK,TJ Sokol Tasovice,1,0,1.900,4.100,3.000
-72655670,2026-10-18 12:30,Zdar Nad Sazavou,SK Tatran Zdirec Nad Doubravou,2,2,1.727,3.900,3.600
-72655672,2026-10-18 12:30,FC PBS Velka Bites,FC Kurim,1,3,2.350,3.750,2.350
-72655674,2026-10-18 12:30,AFC Humpolec,FC Slovan Havlickuv Brod,1,1,,,
-72655678,2026-10-24 08:15,FC Kurim,FC Dosta Bystrc-Kninicky,7,0,1.100,8.500,21.000
-72655688,2026-10-24 08:15,TJ Tatran Bohunice,1. SC Znojmo FK,2,1,2.000,3.750,2.875
-72655680,2026-10-24 12:00,Bedrichov,FC Sparta Brno,2,5,,,
-72655690,2026-10-24 12:30,FC Slovan Havlickuv Brod,FC PBS Velka Bites,0,2,,,
-72655684,2026-10-25 09:15,FC Velke Mezirici,FS Trebic,1,1,2.800,3.750,2.050
-72655682,2026-10-25 13:00,SK Tatran Zdirec Nad Doubravou,FC Chotebor,0,0,,,
-72655686,2026-10-25 13:00,TJ Sokol Tasovice,AFC Humpolec,4,2,1.420,4.200,5.750
-72655692,2026-10-25 13:00,FK Pelhimov,Zdar Nad Sazavou,0,4,,,
-72655694,2026-10-31 09:30,FC Sparta Brno,FC Kurim,2,2,2.700,4.000,2.000
-72655696,2026-10-31 13:00,FC Slovan Havlickuv Brod,TJ Sokol Tasovice,4,1,,,
-72655700,2026-10-31 13:00,FS Trebic,Bedrichov,1,0,,,
-72655704,2026-10-31 13:00,FC Chotebor,FK Pelhimov,2,4,,,
-72655702,2026-11-01 12:55,1. SC Znojmo FK,SK Tatran Zdirec Nad Doubravou,2,2,1.650,4.500,3.500
-72655698,2026-11-01 13:00,AFC Humpolec,TJ Tatran Bohunice,1,4,,,
-72655706,2026-11-01 13:00,Zdar Nad Sazavou,FC Velke Mezirici,1,2,1.800,4.000,3.200
-72655708,2026-11-01 13:00,FC PBS Velka Bites,FC Dosta Bystrc-Kninicky,3,4,1.533,4.200,4.500
-72655710,2026-11-07 09:15,FC Kurim,FS Trebic,4,0,1.222,6.000,8.000
-72655722,2026-11-07 09:15,TJ Tatran Bohunice,FC Slovan Havlickuv Brod,2,1,1.615,3.900,4.000
-72655716,2026-11-07 13:00,TJ Sokol Tasovice,FC PBS Velka Bites,2,2,,,
-72655720,2026-11-08 09:15,FC Velke Mezirici,FC Chotebor,2,3,1.800,4.000,3.250
-72655712,2026-11-08 13:00,FC Dosta Bystrc-Kninicky,FC Sparta Brno,1,4,2.500,4.000,2.150
-72655718,2026-11-08 13:00,SK Tatran Zdirec Nad Doubravou,AFC Humpolec,0,1,,,
-72655724,2026-11-08 13:00,FK Pelhimov,1. SC Znojmo FK,0,0,,,
-72655714,2026-11-08 14:30,Bedrichov,Zdar Nad Sazavou,0,3,,,
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+54168113,2025-05-23 15:30,FC PBS Velka Bites,SFK Vrchovina,1,3,,,,,,
+54168119,2025-05-24 08:15,TJ Tatran Bohunice,SK Tatran Zdirec Nad Doubravou,2,1,,,,,,
+54168125,2025-05-24 08:15,FC Kurim,MSK Breclav,0,0,,,,,,
+54168115,2025-05-24 15:00,FS Trebic,FC Velke Mezirici,1,1,,,,,,
+54168121,2025-05-25 15:00,Tj Sokol Lanzhot,FC Slovan Havlickuv Brod,1,1,,,,,,
+54168123,2025-05-25 15:00,TJ Sokol Tasovice,TJ Dalnice Sperice,5,0,,,,,,
+54168137,2025-05-30 15:30,FC Velke Mezirici,FC PBS Velka Bites,0,3,,,,,,
+54168129,2025-05-31 08:15,MSK Breclav,TJ Sokol Tasovice,1,1,,,,,,
+54168141,2025-05-31 15:00,Zdar Nad Sazavou,SK Artis B,0,0,,,,,,
+54168127,2025-06-01 15:00,Slavoj Polna,FC Kurim,0,6,,,,,,
+54168153,2025-06-07 15:00,TJ Tatran Bohunice,TJ Dalnice Sperice,1,3,,,,,,
+54168155,2025-06-08 15:00,Tj Sokol Lanzhot,MSK Breclav,0,0,,,,,,
+54168157,2025-06-08 15:00,TJ Sokol Tasovice,FC Kurim,2,0,,,,,,
+54168163,2025-06-13 15:30,MSK Breclav,TJ Tatran Bohunice,2,3,,,,,,
+54168171,2025-06-13 15:30,FC Velke Mezirici,SK Artis B,2,1,,,,,,
+54168159,2025-06-13 16:00,Slavoj Polna,TJ Sokol Tasovice,1,4,,,,,,
+54168167,2025-06-14 08:15,FC Slovan Havlickuv Brod,FC PBS Velka Bites,2,0,,,,,,
+54168173,2025-06-14 15:00,SFK Vrchovina,Zdar Nad Sazavou,3,1,,,,,,
+62047766,2025-08-09 08:15,FC Kurim,AFC Humpolec,4,0,,,,,,
+62047768,2025-08-09 08:30,FC Sparta Brno,Zdar Nad Sazavou,0,1,,,,,,
+62047772,2025-08-09 15:00,FC PBS Velka Bites,FS Trebic,2,1,,,,,,
+62047778,2025-08-10 08:15,FC Velke Mezirici,TJ Sokol Tasovice,2,2,,,,,,
+62047770,2025-08-10 08:30,SK Artis B,TJ Dalnice Sperice,6,1,,,,,,
+62047782,2025-08-16 08:15,TJ Tatran Bohunice,FC Kurim,2,2,,,,,,
+62047786,2025-08-16 14:30,FS Trebic,1. SC Znojmo FK,2,4,,,,,,
+62047792,2025-08-17 08:15,FC Slovan Havlickuv Brod,FC Velke Mezirici,1,3,,,,,,
+62047794,2025-08-17 08:15,Zdar Nad Sazavou,FK Pelhimov,1,1,,,,,,
+62047790,2025-08-17 14:30,TJ Sokol Tasovice,SK Artis B,1,5,,,,,,
+62047796,2025-08-17 14:30,SK Tatran Zdirec Nad Doubravou,FC Sparta Brno,0,1,,,,,,
+62047798,2025-08-23 08:15,FC Kurim,FS Trebic,1,1,,,,,,
+62047800,2025-08-23 08:30,FC Sparta Brno,AFC Humpolec,1,1,,,,,,
+62047802,2025-08-24 08:30,SK Artis B,FC Slovan Havlickuv Brod,1,1,,,,,,
+62047804,2025-08-24 14:30,FC PBS Velka Bites,TJ Sokol Tasovice,3,2,,,,,,
+62047808,2025-08-24 14:30,Zdar Nad Sazavou,SK Tatran Zdirec Nad Doubravou,3,2,,,,,,
+62047814,2025-08-30 08:15,TJ Tatran Bohunice,FC Sparta Brno,2,0,,,,,,
+62047830,2025-08-30 08:15,FC Slovan Havlickuv Brod,FC PBS Velka Bites,1,2,,,,,,
+62047816,2025-08-30 14:30,AFC Humpolec,Zdar Nad Sazavou,3,2,,,,,,
+62047834,2025-08-31 08:15,FC Velke Mezirici,SK Artis B,1,2,,,,,,
+62047828,2025-08-31 14:30,TJ Sokol Tasovice,1. SC Znojmo FK,1,0,,,,,,
+62047840,2025-09-06 08:15,FC Kurim,TJ Sokol Tasovice,0,2,,,,,,
+62047842,2025-09-06 08:30,FC Sparta Brno,FS Trebic,5,1,,,,,,
+62047854,2025-09-06 14:00,1. SC Znojmo FK,FC Slovan Havlickuv Brod,2,1,,,,,,
+62047852,2025-09-06 15:00,FC PBS Velka Bites,FC Velke Mezirici,3,3,,,,,,
+62047844,2025-09-07 14:00,Zdar Nad Sazavou,TJ Tatran Bohunice,0,1,,,,,,
+62047862,2025-09-12 14:30,FS Trebic,Zdar Nad Sazavou,1,1,,,,,,
+62047856,2025-09-13 08:15,TJ Tatran Bohunice,SK Tatran Zdirec Nad Doubravou,2,0,,,,,,
+62047868,2025-09-13 08:15,FC Slovan Havlickuv Brod,FC Kurim,0,1,,,,,,
+62047860,2025-09-13 08:30,SK Artis B,FC PBS Velka Bites,0,4,,,,,,
+62047858,2025-09-13 14:00,AFC Humpolec,FK Pelhimov,0,1,,,,,,
+62047870,2025-09-14 08:15,FC Velke Mezirici,1. SC Znojmo FK,2,2,,,,,,
+62047866,2025-09-14 14:00,TJ Sokol Tasovice,FC Chotebor,3,0,,,,,,
+62047872,2025-09-20 08:15,FC Kurim,FC Velke Mezirici,1,3,,,,,,
+62047874,2025-09-20 08:30,FC Sparta Brno,TJ Sokol Tasovice,4,0,,,,,,
+62047886,2025-09-20 13:30,1. SC Znojmo FK,SK Artis B,1,0,,,,,,
+62047878,2025-09-21 13:30,Zdar Nad Sazavou,TJ Dalnice Sperice,1,0,,,,,,
+62047890,2025-09-27 08:30,SK Artis B,FC Kurim,4,2,,,,,,
+62047902,2025-09-28 08:15,FC Velke Mezirici,FC Chotebor,1,1,,,,,,
+62047904,2025-10-04 08:15,FC Kurim,FC PBS Velka Bites,2,0,,,,,,
+62047906,2025-10-04 08:15,TJ Tatran Bohunice,FS Trebic,0,1,,,,,,
+62047914,2025-10-05 13:00,SK Tatran Zdirec Nad Doubravou,TJ Sokol Tasovice,1,0,,,,,,
+62047932,2025-10-11 08:15,FC Slovan Havlickuv Brod,SK Tatran Zdirec Nad Doubravou,0,0,,,,,,
+62047926,2025-10-11 13:00,FS Trebic,FK Pelhimov,1,1,,,,,,
+62047920,2025-10-11 16:00,SK Artis B,FC Sparta Brno,0,1,,,,,,
+62047934,2025-10-12 08:15,FC Velke Mezirici,Zdar Nad Sazavou,1,2,,,,,,
+62047930,2025-10-12 13:00,TJ Sokol Tasovice,AFC Humpolec,1,2,,,,,,
+62047936,2025-10-18 08:15,TJ Tatran Bohunice,TJ Sokol Tasovice,1,1,,,,,,
+62047938,2025-10-18 08:30,FC Sparta Brno,FC PBS Velka Bites,2,1,,,,,,
+62047946,2025-10-18 12:30,FS Trebic,TJ Dalnice Sperice,0,0,,,,,,
+62047942,2025-10-19 12:30,Zdar Nad Sazavou,SK Artis B,0,4,,,,,,
+62047944,2025-10-19 12:30,SK Tatran Zdirec Nad Doubravou,FC Velke Mezirici,2,1,,,,,,
+62047952,2025-10-25 08:15,FC Kurim,FC Chotebor,3,0,,,,,,
+62047964,2025-10-25 08:15,FC Slovan Havlickuv Brod,TJ Tatran Bohunice,2,1,,,,,,
+62047956,2025-10-25 12:30,FC PBS Velka Bites,Zdar Nad Sazavou,2,1,,,,,,
+62047966,2025-10-26 09:15,FC Velke Mezirici,AFC Humpolec,2,1,,,,,,
+62047954,2025-10-26 13:00,SK Artis B,SK Tatran Zdirec Nad Doubravou,1,1,,,,,,
+62047962,2025-10-26 13:30,TJ Sokol Tasovice,FS Trebic,2,1,,,,,,
+64083053,2025-10-29 14:00,TJ Tatran Bohunice,FK Pelhimov,1,0,,,,,,
+62047968,2025-11-01 09:15,TJ Tatran Bohunice,FC Velke Mezirici,1,0,,,,,,
+62047970,2025-11-01 09:30,FC Sparta Brno,FC Kurim,0,2,,,,,,
+62047976,2025-11-02 13:00,TJ Dalnice Sperice,TJ Sokol Tasovice,1,1,,,,,,
+62047978,2025-11-02 13:00,Zdar Nad Sazavou,1. SC Znojmo FK,1,0,,,,,,
+62047984,2025-11-08 09:15,FC Kurim,Zdar Nad Sazavou,3,1,,,,,,
+62047994,2025-11-08 09:15,FC Slovan Havlickuv Brod,TJ Dalnice Sperice,2,0,,,,,,
+62047996,2025-11-08 12:00,FC Velke Mezirici,FS Trebic,1,3,,,,,,
+62047986,2025-11-08 13:00,TJ Sokol Tasovice,FK Pelhimov,2,4,,,,,,
+62047990,2025-11-08 13:00,FC PBS Velka Bites,AFC Humpolec,1,3,,,,,,
+62047992,2025-11-08 13:00,1. SC Znojmo FK,SK Tatran Zdirec Nad Doubravou,1,1,,,,,,
+62047988,2025-11-09 15:00,SK Artis B,TJ Tatran Bohunice,1,1,,,,,,
+63990505,2025-11-15 09:15,FC Slovan Havlickuv Brod,FC Sparta Brno,3,0,,,,,,
+66053840,2026-03-07 09:15,FC Kurim,SK Tatran Zdirec Nad Doubravou,2,0,,,,,,
+66053850,2026-03-07 09:15,FC Slovan Havlickuv Brod,TJ Sokol Tasovice,0,2,,,,,,
+66053848,2026-03-07 13:00,FC Velke Mezirici,TJ Dalnice Sperice,1,0,,,,,,
+66053842,2026-03-08 09:30,1. SC Znojmo FK,AFC Humpolec,2,3,,,,,,
+66053836,2026-03-08 13:30,FK Pelhimov,FC Sparta Brno,3,1,,,,,,
+66053844,2026-03-08 13:30,FC PBS Velka Bites,TJ Tatran Bohunice,0,1,,,,,,
+66053838,2026-03-08 15:00,FC Chotebor,Zdar Nad Sazavou,0,1,,,,,,
+66053846,2026-03-08 16:00,SK Artis B,FS Trebic,5,1,,,,,,
+66053852,2026-03-14 09:15,FC Slovan Havlickuv Brod,FK Pelhimov,1,1,1.615,4.200,3.900,3.25,2.000,1.800
+66053858,2026-03-14 14:00,FS Trebic,FC PBS Velka Bites,1,1,2.400,3.700,2.350,3,1.975,1.825
+66053862,2026-03-14 14:00,AFC Humpolec,FC Kurim,1,3,3.500,4.000,1.727,3,1.900,1.900
+66053860,2026-03-15 09:30,1. SC Znojmo FK,TJ Tatran Bohunice,2,2,1.909,3.750,3.100,2.75,1.950,1.850
+66053854,2026-03-15 14:00,TJ Sokol Tasovice,FC Velke Mezirici,1,1,2.100,3.600,2.750,2.75,1.850,1.950
+66053856,2026-03-15 14:00,TJ Dalnice Sperice,SK Artis B,1,3,,,,,,
+66053864,2026-03-15 14:00,SK Tatran Zdirec Nad Doubravou,FC Chotebor,1,0,1.450,4.100,5.250,3,1.825,1.975
+66053866,2026-03-15 14:00,Zdar Nad Sazavou,FC Sparta Brno,2,0,1.600,4.000,4.200,2.75,1.800,2.000
+66053870,2026-03-21 09:30,FC Sparta Brno,SK Tatran Zdirec Nad Doubravou,2,1,2.200,3.600,2.625,2.75,1.925,1.875
+66053878,2026-03-21 14:00,FC PBS Velka Bites,TJ Dalnice Sperice,3,0,1.750,3.700,3.700,3,1.900,1.900
+66053882,2026-03-22 09:15,FC Velke Mezirici,FC Slovan Havlickuv Brod,2,1,2.500,3.600,2.300,2.75,1.850,1.950
+66053876,2026-03-22 09:30,1. SC Znojmo FK,FS Trebic,5,0,1.333,5.250,6.000,3.25,1.850,1.950
+66053868,2026-03-22 14:00,FK Pelhimov,Zdar Nad Sazavou,0,0,,,,,,
+66053872,2026-03-22 14:00,FC Chotebor,AFC Humpolec,2,1,2.400,3.700,2.350,2.75,1.800,2.000
+66053880,2026-03-22 16:00,SK Artis B,TJ Sokol Tasovice,5,0,1.270,5.000,8.500,3,1.825,1.975
+66053894,2026-03-27 17:00,TJ Tatran Bohunice,FC Chotebor,2,1,1.380,4.500,5.750,3,1.800,2.000
+66053886,2026-03-28 09:15,FC Slovan Havlickuv Brod,SK Artis B,1,6,,,,,,
+66053892,2026-03-28 14:00,FS Trebic,FC Kurim,0,0,,,,,,
+66053896,2026-03-28 14:00,AFC Humpolec,FC Sparta Brno,0,0,,,,,,
+66053884,2026-03-29 08:15,FC Velke Mezirici,FK Pelhimov,2,2,1.833,4.200,3.000,3,1.825,1.975
+66053888,2026-03-29 13:00,TJ Sokol Tasovice,FC PBS Velka Bites,0,4,3.100,3.750,1.950,2.75,1.825,1.975
+66053890,2026-03-29 13:00,TJ Dalnice Sperice,1. SC Znojmo FK,0,4,3.600,3.700,1.750,2.75,1.850,1.950
+66053898,2026-03-29 13:00,SK Tatran Zdirec Nad Doubravou,Zdar Nad Sazavou,0,0,2.250,3.750,2.500,2.75,1.900,1.900
+66053904,2026-04-02 14:30,FC Sparta Brno,TJ Tatran Bohunice,0,0,2.700,3.600,2.150,2.75,1.825,1.975
+66053908,2026-04-03 08:15,FC Kurim,TJ Dalnice Sperice,4,0,1.181,6.000,10.000,3.25,1.950,1.850
+66053900,2026-04-03 13:30,FK Pelhimov,SK Tatran Zdirec Nad Doubravou,0,0,,,,,,
+66053902,2026-04-03 13:30,Zdar Nad Sazavou,AFC Humpolec,0,0,,,,,,
+66053910,2026-04-03 13:30,1. SC Znojmo FK,TJ Sokol Tasovice,0,0,,,,,,
+66053912,2026-04-03 13:30,FC PBS Velka Bites,FC Slovan Havlickuv Brod,1,0,1.666,3.900,3.800,3,2.000,1.800
+66053906,2026-04-05 13:30,FC Chotebor,FS Trebic,0,0,,,,,,
+66053914,2026-04-05 15:00,SK Artis B,FC Velke Mezirici,1,0,1.250,5.500,8.000,3.5,1.850,1.950
+66053920,2026-04-11 08:15,FC Slovan Havlickuv Brod,1. SC Znojmo FK,5,0,3.300,3.800,1.800,3,2.000,1.800
+66053928,2026-04-11 08:15,TJ Tatran Bohunice,Zdar Nad Sazavou,2,0,1.700,3.900,3.800,3,2.025,1.775
+66053926,2026-04-11 08:30,FS Trebic,FC Sparta Brno,3,3,,,,,,
+66053930,2026-04-11 12:00,AFC Humpolec,SK Tatran Zdirec Nad Doubravou,4,0,2.200,3.400,2.800,2.75,1.975,1.825
+66053918,2026-04-12 08:15,FC Velke Mezirici,FC PBS Velka Bites,2,5,2.750,3.600,2.100,2.75,1.850,1.950
+66053922,2026-04-12 13:30,TJ Sokol Tasovice,FC Kurim,2,0,,,,,,
+66053924,2026-04-12 13:30,TJ Dalnice Sperice,FC Chotebor,1,1,,,,,,
+66053916,2026-04-12 15:00,SK Artis B,FK Pelhimov,3,1,1.142,7.500,12.000,3.75,1.850,1.950
+70503276,2026-04-14 15:00,SK Tatran Zdirec Nad Doubravou,Zdar Nad Sazavou,2,0,2.400,3.500,2.400,2.75,1.975,1.825
+70114510,2026-04-15 14:45,FC Kurim,TJ Tatran Bohunice,3,1,1.950,3.600,3.200,2.75,1.950,1.850
+66053944,2026-04-17 14:00,1. SC Znojmo FK,FC Velke Mezirici,2,2,1.666,4.000,3.800,3.25,1.950,1.850
+66053942,2026-04-18 08:15,FC Kurim,FC Slovan Havlickuv Brod,2,2,1.615,3.700,4.200,3,1.900,1.900
+66053938,2026-04-18 08:30,FC Sparta Brno,TJ Dalnice Sperice,8,0,1.550,4.000,4.750,3,1.975,1.825
+66053932,2026-04-19 14:00,FK Pelhimov,AFC Humpolec,1,1,,,,,,
+66053934,2026-04-19 14:00,SK Tatran Zdirec Nad Doubravou,TJ Tatran Bohunice,2,0,,,,,,
+66053936,2026-04-19 14:00,Zdar Nad Sazavou,FS Trebic,1,0,,,,,,
+66053940,2026-04-19 14:00,FC Chotebor,TJ Sokol Tasovice,3,1,,,,,,
+66053946,2026-04-19 14:00,FC PBS Velka Bites,SK Artis B,0,2,3.800,4.200,1.650,3,1.850,1.950
+66053954,2026-04-25 08:15,FC Slovan Havlickuv Brod,FC Chotebor,1,2,1.450,4.333,5.000,3,1.975,1.825
+66053962,2026-04-25 08:15,TJ Tatran Bohunice,AFC Humpolec,4,0,1.500,4.200,4.750,3,1.900,1.900
+66053948,2026-04-25 14:00,FC PBS Velka Bites,FK Pelhimov,4,1,,,,,,
+66053952,2026-04-26 08:15,FC Velke Mezirici,FC Kurim,1,2,4.100,4.500,1.550,3.25,1.975,1.825
+66053960,2026-04-26 08:30,FS Trebic,SK Tatran Zdirec Nad Doubravou,0,0,2.100,3.900,2.700,2.75,1.900,1.900
+66053956,2026-04-26 14:00,TJ Sokol Tasovice,FC Sparta Brno,5,2,2.600,3.700,2.150,2.75,1.800,2.000
+66053958,2026-04-26 14:00,TJ Dalnice Sperice,Zdar Nad Sazavou,1,0,4.000,4.100,1.615,3,1.925,1.875
+66053950,2026-04-26 15:00,SK Artis B,1. SC Znojmo FK,2,1,1.363,5.000,5.500,3.5,1.900,1.900
+66053964,2026-05-01 14:30,FK Pelhimov,TJ Tatran Bohunice,0,0,,,,,,
+66053974,2026-05-01 14:30,FC Chotebor,FC Velke Mezirici,0,0,,,,,,
+66053978,2026-05-01 14:30,1. SC Znojmo FK,FC PBS Velka Bites,1,1,,,,,,
+66053976,2026-05-02 08:15,FC Kurim,SK Artis B,0,0,2.900,3.400,2.050,2.75,1.925,1.875
+66053972,2026-05-02 08:30,FC Sparta Brno,FC Slovan Havlickuv Brod,8,2,2.150,3.900,2.500,3,1.900,1.900
+66053966,2026-05-03 14:30,AFC Humpolec,FS Trebic,0,0,,,,,,
+66053968,2026-05-03 14:30,SK Tatran Zdirec Nad Doubravou,TJ Dalnice Sperice,2,0,1.533,4.100,4.500,2.75,1.825,1.975
+66053970,2026-05-03 14:30,Zdar Nad Sazavou,TJ Sokol Tasovice,0,0,,,,,,
+66053988,2026-05-08 08:15,FC Slovan Havlickuv Brod,Zdar Nad Sazavou,0,0,,,,,,
+66053994,2026-05-08 08:30,FS Trebic,TJ Tatran Bohunice,1,3,,,,,,
+66053986,2026-05-08 15:00,FC Velke Mezirici,FC Sparta Brno,2,1,,,,,,
+66053984,2026-05-08 16:00,SK Artis B,FC Chotebor,5,0,,,,,,
+66053980,2026-05-10 08:30,1. SC Znojmo FK,FK Pelhimov,4,0,,,,,,
+66053992,2026-05-10 12:00,TJ Dalnice Sperice,AFC Humpolec,2,0,2.350,4.000,2.250,3,1.975,1.825
+66053982,2026-05-10 14:30,FC PBS Velka Bites,FC Kurim,1,1,,,,,,
+66053990,2026-05-10 14:30,TJ Sokol Tasovice,SK Tatran Zdirec Nad Doubravou,0,1,,,,,,
+66053998,2026-05-16 08:15,TJ Tatran Bohunice,TJ Dalnice Sperice,1,0,,,,,,
+66054010,2026-05-16 08:15,FC Kurim,1. SC Znojmo FK,3,1,,,,,,
+66054000,2026-05-16 15:00,AFC Humpolec,TJ Sokol Tasovice,0,0,,,,,,
+66054004,2026-05-16 15:00,Zdar Nad Sazavou,FC Velke Mezirici,0,3,,,,,,
+66054002,2026-05-17 11:30,SK Tatran Zdirec Nad Doubravou,FC Slovan Havlickuv Brod,0,3,,,,,,
+66053996,2026-05-17 15:00,FK Pelhimov,FS Trebic,5,2,,,,,,
+66054008,2026-05-17 15:00,FC Chotebor,FC PBS Velka Bites,0,0,,,,,,
+71540936,2026-05-20 16:00,FC Sparta Brno,SK Artis B,1,3,,,,,,
+66054012,2026-05-23 08:15,FC Kurim,FK Pelhimov,8,1,,,,,,
+66054022,2026-05-23 08:15,FC Slovan Havlickuv Brod,AFC Humpolec,2,0,,,,,,
+66054016,2026-05-23 15:00,FC PBS Velka Bites,FC Sparta Brno,2,1,,,,,,
+66054020,2026-05-24 08:15,FC Velke Mezirici,SK Tatran Zdirec Nad Doubravou,5,1,,,,,,
+66054014,2026-05-24 08:30,1. SC Znojmo FK,FC Chotebor,3,1,,,,,,
+66054018,2026-05-24 15:00,SK Artis B,Zdar Nad Sazavou,5,0,,,,,,
+66054024,2026-05-24 15:00,TJ Sokol Tasovice,TJ Tatran Bohunice,0,3,,,,,,
+66054026,2026-05-24 15:00,TJ Dalnice Sperice,FS Trebic,0,0,,,,,,
+66054030,2026-05-30 08:30,FS Trebic,TJ Sokol Tasovice,1,1,,,,,,
+66054032,2026-05-30 15:00,TJ Tatran Bohunice,FC Slovan Havlickuv Brod,2,1,,,,,,
+66054034,2026-05-30 15:00,AFC Humpolec,FC Velke Mezirici,0,0,,,,,,
+66054042,2026-05-30 15:00,FC Chotebor,FC Kurim,1,0,,,,,,
+66054040,2026-05-31 08:30,1. SC Znojmo FK,FC Sparta Brno,5,1,,,,,,
+66054028,2026-05-31 15:00,FK Pelhimov,TJ Dalnice Sperice,0,0,,,,,,
+66054036,2026-05-31 15:00,SK Tatran Zdirec Nad Doubravou,SK Artis B,0,0,,,,,,
+66054038,2026-05-31 15:00,Zdar Nad Sazavou,FC PBS Velka Bites,1,3,,,,,,
+66054052,2026-06-05 15:00,SK Artis B,AFC Humpolec,5,1,,,,,,
+66054048,2026-06-05 15:30,1. SC Znojmo FK,Zdar Nad Sazavou,10,1,,,,,,
+66054054,2026-06-05 15:30,FC Velke Mezirici,TJ Tatran Bohunice,2,1,,,,,,
+66054046,2026-06-06 08:15,FC Kurim,FC Sparta Brno,3,1,,,,,,
+66054044,2026-06-06 15:00,FC Chotebor,FK Pelhimov,0,0,,,,,,
+66054050,2026-06-07 15:00,FC PBS Velka Bites,SK Tatran Zdirec Nad Doubravou,2,0,,,,,,
+66054056,2026-06-07 15:00,FC Slovan Havlickuv Brod,FS Trebic,2,2,1.571,4.100,4.200,3,1.825,1.975
+66054058,2026-06-07 15:00,TJ Sokol Tasovice,TJ Dalnice Sperice,5,2,,,,,,
+66054066,2026-06-12 15:30,Tatran Bohunice,SK Artis B,0,0,,,,,,
+66054060,2026-06-12 16:00,Pelhimov,S. Tasovice,1,2,,,,,,
+66054064,2026-06-13 08:30,FS Trebic,Velke Mezirici,3,1,,,,,,
+66054074,2026-06-13 08:30,Sparta Brno,FC Chotebor,2,1,,,,,,
+66054062,2026-06-13 13:00,Dalnice Sperice,Havlickuv Brod,0,0,,,,,,
+66054072,2026-06-13 13:00,Z. N. Sazavou,FC Kurim,0,2,,,,,,
+66054070,2026-06-13 13:30,SK Tatran Zdirec Nad Doubravou,Znojmo,0,0,,,,,,
+66054068,2026-06-13 14:30,AFC Humpolec,Velka Bites,0,0,,,,,,
+72655510,2026-08-07 15:30,FC Velke Mezirici,AFC Humpolec,1,1,2.000,3.700,2.900,3,1.900,1.900
+72655502,2026-08-08 08:15,FC Kurim,FC Chotebor,8,1,1.285,5.000,7.500,3,1.900,1.900
+72655504,2026-08-08 08:30,FC Sparta Brno,FS Trebic,1,2,1.666,4.000,3.700,3.25,1.900,1.900
+72655506,2026-08-08 14:30,FC Dosta Bystrc-Kninicky,Zdar Nad Sazavou,2,3,2.100,3.750,2.700,3,1.900,1.900
+72655508,2026-08-08 14:30,Bedrichov,1. SC Znojmo FK,0,0,3.500,4.000,1.727,3,1.900,1.900
+72655512,2026-08-09 14:30,SK Tatran Zdirec Nad Doubravou,TJ Sokol Tasovice,1,3,1.900,3.900,3.100,2.75,1.800,2.000
+72655514,2026-08-09 14:30,FC PBS Velka Bites,TJ Tatran Bohunice,0,4,2.000,3.900,2.875,2.75,1.775,2.025
+72655516,2026-08-09 14:30,FK Pelhimov,FC Slovan Havlickuv Brod,1,0,,,,,,
+72655532,2026-08-15 08:15,TJ Tatran Bohunice,SK Tatran Zdirec Nad Doubravou,1,1,1.333,4.500,7.000,3,2.000,1.800
+72655520,2026-08-15 14:30,FS Trebic,FC PBS Velka Bites,0,1,2.200,3.700,2.550,3,1.900,1.900
+72655528,2026-08-15 14:30,1. SC Znojmo FK,FC Kurim,2,1,,,,,,
+72655518,2026-08-16 14:30,AFC Humpolec,Bedrichov,2,2,1.850,3.800,3.100,3,1.850,1.950
+72655524,2026-08-16 14:30,TJ Sokol Tasovice,FK Pelhimov,2,2,1.800,3.700,3.500,3.25,2.000,1.800
+72655526,2026-08-16 14:30,Zdar Nad Sazavou,FC Sparta Brno,1,1,1.909,3.700,3.000,3,1.900,1.900
+72655530,2026-08-16 14:30,FC Chotebor,FC Dosta Bystrc-Kninicky,2,2,,,,,,
+72655522,2026-08-16 15:00,FC Slovan Havlickuv Brod,FC Velke Mezirici,3,1,,,,,,
+72655542,2026-08-21 15:30,FC Velke Mezirici,TJ Sokol Tasovice,0,0,2.100,3.700,2.700,3,1.975,1.825
+72655534,2026-08-22 08:15,FC Kurim,AFC Humpolec,1,0,1.420,4.333,5.500,3.25,1.975,1.825
+72655536,2026-08-22 08:30,FC Sparta Brno,FC Chotebor,2,0,1.727,4.000,3.500,3.25,1.950,1.850
+72655538,2026-08-22 14:30,FC Dosta Bystrc-Kninicky,1. SC Znojmo FK,1,1,2.875,3.800,2.000,3,1.800,2.000
+72655540,2026-08-22 14:30,Bedrichov,FC Slovan Havlickuv Brod,1,4,2.400,3.750,2.300,3,1.900,1.900
+72655548,2026-08-22 14:30,FS Trebic,Zdar Nad Sazavou,0,5,,,,,,
+72655544,2026-08-23 14:30,FC PBS Velka Bites,SK Tatran Zdirec Nad Doubravou,1,0,1.666,3.900,3.750,3,1.900,1.900
+72655546,2026-08-23 14:30,FK Pelhimov,TJ Tatran Bohunice,1,2,,,,,,
+72655560,2026-08-28 15:00,TJ Tatran Bohunice,FC Velke Mezirici,3,3,1.380,4.500,5.750,3,1.850,1.950
+72655564,2026-08-28 15:00,FC Chotebor,FS Trebic,0,2,,,,,,
+72655562,2026-08-29 14:00,1. SC Znojmo FK,FC Sparta Brno,3,0,,,,,,
+72655552,2026-08-29 14:30,FC Slovan Havlickuv Brod,FC Kurim,1,3,3.200,3.800,1.850,2.75,1.825,1.975
+72655550,2026-08-30 14:00,AFC Humpolec,FC Dosta Bystrc-Kninicky,0,2,,,,,,
+72655554,2026-08-30 14:00,SK Tatran Zdirec Nad Doubravou,FK Pelhimov,2,2,2.000,3.900,2.800,3,1.800,2.000
+72655556,2026-08-30 14:00,Zdar Nad Sazavou,FC PBS Velka Bites,2,2,,,,,,
+72655558,2026-08-30 14:00,TJ Sokol Tasovice,Bedrichov,4,1,1.550,4.333,4.100,3.25,1.900,1.900
+72655566,2026-09-05 08:15,FC Kurim,TJ Sokol Tasovice,1,1,1.420,4.500,5.500,3.25,2.000,1.800
+72655568,2026-09-05 08:30,FC Sparta Brno,AFC Humpolec,1,0,2.000,3.800,2.750,3,1.850,1.950
+72655572,2026-09-05 14:00,Bedrichov,TJ Tatran Bohunice,0,4,4.750,4.200,1.500,3.25,1.925,1.875
+72655578,2026-09-05 14:00,FC PBS Velka Bites,FK Pelhimov,2,0,,,,,,
+72655580,2026-09-05 14:00,FS Trebic,1. SC Znojmo FK,1,6,4.100,4.000,1.615,3,1.900,1.900
+72655576,2026-09-06 08:15,FC Velke Mezirici,SK Tatran Zdirec Nad Doubravou,3,2,2.050,3.900,2.700,3,1.900,1.900
+72655570,2026-09-06 14:00,FC Dosta Bystrc-Kninicky,FC Slovan Havlickuv Brod,0,0,2.300,4.000,2.300,3,1.875,1.925
+72655574,2026-09-06 14:00,Zdar Nad Sazavou,FC Chotebor,0,2,1.727,4.500,3.100,3.5,2.000,1.800
+72655594,2026-09-12 08:15,TJ Tatran Bohunice,FC Kurim,3,0,1.833,3.800,3.300,3,2.000,1.800
+72655586,2026-09-12 12:30,FC Slovan Havlickuv Brod,FC Sparta Brno,3,1,,,,,,
+72655596,2026-09-12 14:00,FC Chotebor,FC PBS Velka Bites,0,0,,,,,,
+72655592,2026-09-13 08:30,1. SC Znojmo FK,Zdar Nad Sazavou,2,0,1.550,4.500,4.100,3.5,1.850,1.950
+72655582,2026-09-13 13:30,AFC Humpolec,FS Trebic,1,2,,,,,,
+72655584,2026-09-13 13:30,FK Pelhimov,FC Velke Mezirici,5,0,,,,,,
+72655588,2026-09-13 13:30,TJ Sokol Tasovice,FC Dosta Bystrc-Kninicky,0,0,1.909,3.750,3.100,3,1.900,1.900
+72655590,2026-09-13 13:30,SK Tatran Zdirec Nad Doubravou,Bedrichov,3,0,,,,,,
+72655598,2026-09-19 08:15,FC Kurim,SK Tatran Zdirec Nad Doubravou,6,1,1.333,4.750,7.000,3.25,1.975,1.825
+72655600,2026-09-19 08:30,FC Sparta Brno,TJ Sokol Tasovice,3,2,2.250,3.700,2.500,3,1.975,1.825
+72655602,2026-09-19 13:30,FC Dosta Bystrc-Kninicky,TJ Tatran Bohunice,1,3,4.333,4.100,1.571,2.75,1.850,1.950
+72655604,2026-09-19 13:30,Bedrichov,FK Pelhimov,1,5,3.300,4.200,1.727,3.25,1.800,2.000
+72655612,2026-09-19 13:30,FS Trebic,FC Slovan Havlickuv Brod,2,0,,,,,,
+72655606,2026-09-19 14:00,FC Chotebor,1. SC Znojmo FK,4,2,,,,,,
+72655608,2026-09-20 13:30,FC PBS Velka Bites,FC Velke Mezirici,2,0,1.666,3.800,4.000,3,1.850,1.950
+72655610,2026-09-20 13:30,Zdar Nad Sazavou,AFC Humpolec,1,2,1.500,4.333,4.500,3,1.900,1.900
+72655628,2026-09-25 14:15,TJ Tatran Bohunice,FC Sparta Brno,1,2,1.285,4.750,7.500,3.25,1.975,1.825
+72655618,2026-09-26 13:30,FC Slovan Havlickuv Brod,Zdar Nad Sazavou,4,2,,,,,,
+72655620,2026-09-27 08:15,FC Velke Mezirici,Bedrichov,2,1,1.380,4.500,5.750,3.5,1.975,1.825
+72655614,2026-09-27 13:00,AFC Humpolec,FC Chotebor,0,0,,,,,,
+72655616,2026-09-27 13:00,FK Pelhimov,FC Kurim,4,2,,,,,,
+72655622,2026-09-27 13:00,TJ Sokol Tasovice,FS Trebic,1,1,1.727,4.000,3.500,3,2.000,1.800
+72655624,2026-09-27 13:00,SK Tatran Zdirec Nad Doubravou,FC Dosta Bystrc-Kninicky,3,2,2.250,3.700,2.450,2.75,1.900,1.900
+72655626,2026-09-27 13:00,1. SC Znojmo FK,FC PBS Velka Bites,1,1,1.900,4.100,3.000,3,1.775,2.025
+72655630,2026-10-03 08:15,FC Kurim,FC Velke Mezirici,3,0,1.333,4.750,6.500,3.5,2.000,1.800
+72655632,2026-10-03 08:30,FC Sparta Brno,SK Tatran Zdirec Nad Doubravou,3,1,1.666,4.100,3.700,3,1.825,1.975
+72655644,2026-10-03 13:00,FS Trebic,TJ Tatran Bohunice,1,0,,,,,,
+72655634,2026-10-03 13:30,FC Dosta Bystrc-Kninicky,FK Pelhimov,2,1,2.700,3.800,2.100,3,1.825,1.975
+72655636,2026-10-04 13:00,FC Chotebor,FC Slovan Havlickuv Brod,0,1,,,,,,
+72655638,2026-10-04 13:00,1. SC Znojmo FK,AFC Humpolec,0,2,1.285,5.000,7.500,3.25,2.000,1.800
+72655640,2026-10-04 13:00,FC PBS Velka Bites,Bedrichov,6,3,1.444,5.250,4.333,3.75,1.925,1.875
+72655642,2026-10-04 13:00,Zdar Nad Sazavou,TJ Sokol Tasovice,0,1,2.100,3.750,2.700,3,1.900,1.900
+72655654,2026-10-10 08:15,TJ Tatran Bohunice,Zdar Nad Sazavou,1,0,1.666,3.750,4.000,3,1.950,1.850
+72655646,2026-10-10 12:30,Bedrichov,FC Kurim,0,13,,,,,,
+72655648,2026-10-10 12:30,SK Tatran Zdirec Nad Doubravou,FS Trebic,2,2,,,,,,
+72655660,2026-10-10 13:00,FC Slovan Havlickuv Brod,1. SC Znojmo FK,4,2,,,,,,
+72655650,2026-10-11 08:15,FC Velke Mezirici,FC Dosta Bystrc-Kninicky,4,4,2.250,3.750,2.500,3,1.850,1.950
+72655652,2026-10-11 12:30,TJ Sokol Tasovice,FC Chotebor,4,1,,,,,,
+72655656,2026-10-11 12:30,AFC Humpolec,FC PBS Velka Bites,1,4,3.600,3.900,1.727,3,2.000,1.800
+72655658,2026-10-11 12:30,FK Pelhimov,FC Sparta Brno,0,3,,,,,,
+72655662,2026-10-17 08:30,FC Sparta Brno,FC Velke Mezirici,5,1,1.571,4.200,4.200,3.25,1.825,1.975
+72655666,2026-10-17 12:30,FC Chotebor,TJ Tatran Bohunice,1,1,,,,,,
+72655676,2026-10-17 12:30,FS Trebic,FK Pelhimov,4,2,,,,,,
+72655664,2026-10-17 13:00,FC Dosta Bystrc-Kninicky,Bedrichov,4,0,,,,,,
+72655668,2026-10-18 12:30,1. SC Znojmo FK,TJ Sokol Tasovice,1,0,1.900,4.100,3.000,3.25,1.850,1.950
+72655670,2026-10-18 12:30,Zdar Nad Sazavou,SK Tatran Zdirec Nad Doubravou,2,2,1.727,3.900,3.600,3,1.975,1.825
+72655672,2026-10-18 12:30,FC PBS Velka Bites,FC Kurim,1,3,2.350,3.750,2.350,3,1.800,2.000
+72655674,2026-10-18 12:30,AFC Humpolec,FC Slovan Havlickuv Brod,1,1,,,,,,
+72655678,2026-10-24 08:15,FC Kurim,FC Dosta Bystrc-Kninicky,7,0,1.100,8.500,21.000,4,1.900,1.900
+72655688,2026-10-24 08:15,TJ Tatran Bohunice,1. SC Znojmo FK,2,1,2.000,3.750,2.875,2.75,1.850,1.950
+72655680,2026-10-24 12:00,Bedrichov,FC Sparta Brno,2,5,,,,,,
+72655690,2026-10-24 12:30,FC Slovan Havlickuv Brod,FC PBS Velka Bites,0,2,,,,,,
+72655684,2026-10-25 09:15,FC Velke Mezirici,FS Trebic,1,1,2.800,3.750,2.050,3.25,2.000,1.800
+72655682,2026-10-25 13:00,SK Tatran Zdirec Nad Doubravou,FC Chotebor,0,0,,,,,,
+72655686,2026-10-25 13:00,TJ Sokol Tasovice,AFC Humpolec,4,2,1.420,4.200,5.750,3,1.875,1.925
+72655692,2026-10-25 13:00,FK Pelhimov,Zdar Nad Sazavou,0,4,,,,,,
+72655694,2026-10-31 09:30,FC Sparta Brno,FC Kurim,2,2,2.700,4.000,2.000,3.5,1.850,1.950
+72655696,2026-10-31 13:00,FC Slovan Havlickuv Brod,TJ Sokol Tasovice,4,1,,,,,,
+72655700,2026-10-31 13:00,FS Trebic,Bedrichov,1,0,,,,,,
+72655704,2026-10-31 13:00,FC Chotebor,FK Pelhimov,2,4,,,,,,
+72655702,2026-11-01 12:55,1. SC Znojmo FK,SK Tatran Zdirec Nad Doubravou,2,2,1.650,4.500,3.500,3.5,1.950,1.850
+72655698,2026-11-01 13:00,AFC Humpolec,TJ Tatran Bohunice,1,4,,,,,,
+72655706,2026-11-01 13:00,Zdar Nad Sazavou,FC Velke Mezirici,1,2,1.800,4.000,3.200,3.25,1.875,1.925
+72655708,2026-11-01 13:00,FC PBS Velka Bites,FC Dosta Bystrc-Kninicky,3,4,1.533,4.200,4.500,3.25,1.800,2.000
+72655710,2026-11-07 09:15,FC Kurim,FS Trebic,4,0,1.222,6.000,8.000,3.5,1.800,2.000
+72655722,2026-11-07 09:15,TJ Tatran Bohunice,FC Slovan Havlickuv Brod,2,1,1.615,3.900,4.000,3,1.900,1.900
+72655716,2026-11-07 13:00,TJ Sokol Tasovice,FC PBS Velka Bites,2,2,,,,,,
+72655720,2026-11-08 09:15,FC Velke Mezirici,FC Chotebor,2,3,1.800,4.000,3.250,3.25,1.950,1.850
+72655712,2026-11-08 13:00,FC Dosta Bystrc-Kninicky,FC Sparta Brno,1,4,2.500,4.000,2.150,3.25,1.800,2.000
+72655718,2026-11-08 13:00,SK Tatran Zdirec Nad Doubravou,AFC Humpolec,0,1,,,,,,
+72655724,2026-11-08 13:00,FK Pelhimov,1. SC Znojmo FK,0,0,,,,,,
+72655714,2026-11-08 14:30,Bedrichov,Zdar Nad Sazavou,0,3,,,,,,

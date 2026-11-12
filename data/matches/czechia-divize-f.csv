@@ -1,264 +1,264 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-54168771,2025-06-01 08:15,MFK Havirov,TJ Bridlicna,5,1,,,
-54168777,2025-06-01 15:00,1. Bfk Frydlant Nad Ostravici,SK Beskyd Frenstat p.R.,1,1,,,
-54168809,2025-06-04 16:00,FK Novy Jicin,Opava B,2,2,,,
-54168789,2025-06-08 15:00,FK Bospor Bohumin,Pusta Polom,3,1,,,
-54168793,2025-06-08 15:00,SK Beskyd Frenstat p.R.,FK Novy Jicin,1,4,,,
-54168811,2025-06-11 16:00,1. Bfk Frydlant Nad Ostravici,FK Bospor Bohumin,2,1,,,
-54168813,2025-06-13 15:30,Pusta Polom,FC Vratimov,3,0,,,
-54168805,2025-06-14 15:00,MFK Havirov,FK Bilovec,3,1,,,
-54168801,2025-06-15 15:00,SK Polanka Nad Odrou,TJ Bridlicna,6,2,,,
-62048436,2025-08-09 08:15,FC Irp Cesky Tesin,TJ Bridlicna,0,2,,,
-62048468,2025-08-23 08:15,FC Irp Cesky Tesin,FK Petrvald Na Morave,1,2,,,
-62048478,2025-08-24 08:15,MFK Havirov,TJ Bridlicna,5,1,,,
-62048496,2025-08-29 15:00,FK Petrvald Na Morave,MFK Havirov,0,2,,,
-62048484,2025-08-29 15:30,TJ Bridlicna,FK Sumperk,0,0,,,
-62048490,2025-08-31 08:15,Opava B,FK Novy Jicin,0,2,,,
-63402895,2025-09-02 15:30,1. Bfk Frydlant Nad Ostravici,Pusta Polom,1,0,,,
-62048500,2025-09-06 08:15,FC Irp Cesky Tesin,MFK Havirov,0,4,,,
-62048534,2025-09-20 08:15,FC Vratimov,SK Stonava,3,1,,,
-63888971,2025-09-24 14:30,MFK Havirov,FK Sumperk,0,2,,,
-62048554,2025-09-28 08:15,MFK Havirov,FK Novy Jicin,5,1,,,
-62048568,2025-10-04 13:00,FK Novy Jicin,FK Sumperk,0,0,,,
-62048586,2025-10-12 08:15,MFK Havirov,SK Jiskra Rymarov,5,0,,,
-62048608,2025-10-19 12:30,FK Bospor Bohumin,FK Petrvald Na Morave,3,2,,,
-62048618,2025-10-26 09:15,MFK Havirov,FK Bospor Bohumin,2,1,,,
-62048622,2025-10-26 13:30,FK Bilovec,1. Bfk Frydlant Nad Ostravici,6,3,,,
-62048630,2025-11-01 09:15,FC Vratimov,MFK Havirov,1,6,,,
-62048636,2025-11-02 09:15,Opava B,FK Bilovec,2,5,,,
-62048644,2025-11-08 09:30,TJ Bridlicna,Opava B,3,1,,,
-62048648,2025-11-08 13:00,FK Novy Jicin,SK Sulko Zabreh,1,1,,,
-62048652,2025-11-09 09:15,MFK Havirov,SK Stonava,5,2,,,
-62048654,2025-11-09 13:00,FK Sumperk,FC Vratimov,1,2,,,
-62048658,2025-11-09 13:00,FK Bilovec,FC Irp Cesky Tesin,2,0,,,
-66054310,2026-03-07 09:15,FC Irp Cesky Tesin,SK Jiskra Rymarov,0,1,,,
-66054314,2026-03-07 13:30,FK Novy Jicin,FK Bospor Bohumin,2,2,,,
-66054316,2026-03-07 13:30,Tj Valasske Mezirici,FC Vratimov,3,0,,,
-66054324,2026-03-07 13:30,TJ Bridlicna,FK Bilovec,2,1,,,
-66054320,2026-03-08 09:15,MFK Havirov,1. Bfk Frydlant Nad Ostravici,1,3,,,
-66054312,2026-03-08 13:30,Pusta Polom,SK Sulko Zabreh,1,2,,,
-66054318,2026-03-08 13:30,FK Sumperk,SK Stonava,2,3,,,
-66054322,2026-03-08 14:00,FK Petrvald Na Morave,Opava B,0,5,,,
-66054330,2026-03-14 09:15,Opava B,MFK Havirov,2,1,4.333,4.333,1.533
-66054336,2026-03-14 09:15,FC Vratimov,FK Novy Jicin,0,0,,,
-66054326,2026-03-14 14:00,TJ Bridlicna,FC Irp Cesky Tesin,0,0,,,
-66054334,2026-03-14 14:00,SK Stonava,Tj Valasske Mezirici,2,1,1.833,4.100,3.100
-66054328,2026-03-15 14:00,FK Bilovec,FK Petrvald Na Morave,3,1,,,
-66054332,2026-03-15 14:00,1. Bfk Frydlant Nad Ostravici,FK Sumperk,0,2,2.050,3.900,2.750
-66054338,2026-03-15 14:00,FK Bospor Bohumin,Pusta Polom,3,1,1.333,5.000,6.000
-66054340,2026-03-15 14:00,SK Sulko Zabreh,SK Jiskra Rymarov,0,1,,,
-66054342,2026-03-21 09:15,FC Irp Cesky Tesin,SK Sulko Zabreh,0,1,3.300,4.200,1.727
-66054344,2026-03-21 14:00,SK Jiskra Rymarov,FK Bospor Bohumin,0,0,,,
-66054348,2026-03-21 14:00,FK Novy Jicin,SK Stonava,0,0,,,
-66054350,2026-03-21 14:00,Tj Valasske Mezirici,1. Bfk Frydlant Nad Ostravici,0,0,,,
-66054356,2026-03-21 14:00,FK Petrvald Na Morave,TJ Bridlicna,0,0,,,
-66054354,2026-03-22 09:15,MFK Havirov,FK Bilovec,2,0,1.700,4.000,3.500
-66054346,2026-03-22 14:00,Pusta Polom,FC Vratimov,0,2,2.750,4.000,2.000
-66054352,2026-03-22 14:00,FK Sumperk,Opava B,0,0,,,
-66054364,2026-03-28 09:15,Opava B,Tj Valasske Mezirici,1,2,2.150,3.800,2.600
-66054370,2026-03-28 09:15,FC Vratimov,SK Jiskra Rymarov,2,0,,,
-66054358,2026-03-28 14:00,FK Petrvald Na Morave,FC Irp Cesky Tesin,0,0,,,
-66054360,2026-03-28 14:00,TJ Bridlicna,MFK Havirov,0,0,,,
-66054368,2026-03-28 14:00,SK Stonava,Pusta Polom,0,0,,,
-66054362,2026-03-29 13:00,FK Bilovec,FK Sumperk,0,0,,,
-66054372,2026-03-29 13:00,FK Bospor Bohumin,SK Sulko Zabreh,1,0,1.500,4.200,4.750
-66054380,2026-04-03 12:00,Pusta Polom,1. Bfk Frydlant Nad Ostravici,1,1,,,
-66054376,2026-04-03 13:30,SK Sulko Zabreh,FC Vratimov,1,0,,,
-66054386,2026-04-03 13:30,FK Sumperk,TJ Bridlicna,0,0,,,
-66054374,2026-04-04 08:15,FC Irp Cesky Tesin,FK Bospor Bohumin,1,5,6.000,4.750,1.363
-66054378,2026-04-04 13:30,SK Jiskra Rymarov,SK Stonava,0,0,,,
-66054382,2026-04-04 13:30,FK Novy Jicin,Opava B,0,0,,,
-66054384,2026-04-04 13:30,Tj Valasske Mezirici,FK Bilovec,0,0,,,
-66054388,2026-04-05 08:15,MFK Havirov,FK Petrvald Na Morave,2,1,1.333,5.000,6.250
-66054404,2026-04-11 08:15,FC Vratimov,FK Bospor Bohumin,3,1,2.900,3.500,2.050
-66054394,2026-04-11 13:00,TJ Bridlicna,Tj Valasske Mezirici,0,0,,,
-66054392,2026-04-11 13:30,FK Petrvald Na Morave,FK Sumperk,2,0,2.200,3.500,2.625
-66054402,2026-04-11 13:30,SK Stonava,SK Sulko Zabreh,1,0,,,
-66054390,2026-04-12 08:15,MFK Havirov,FC Irp Cesky Tesin,2,0,1.125,9.000,15.000
-66054398,2026-04-12 08:15,Opava B,Pusta Polom,2,0,1.480,4.500,4.500
-66054396,2026-04-12 13:30,FK Bilovec,FK Novy Jicin,2,2,1.450,4.500,4.750
-66054400,2026-04-12 13:30,1. Bfk Frydlant Nad Ostravici,SK Jiskra Rymarov,0,4,2.200,3.500,2.625
-66054406,2026-04-18 08:15,FC Irp Cesky Tesin,FC Vratimov,0,2,,,
-66054412,2026-04-18 14:00,SK Jiskra Rymarov,Opava B,0,0,,,
-66054418,2026-04-18 14:00,Tj Valasske Mezirici,FK Petrvald Na Morave,1,1,,,
-66054408,2026-04-19 14:00,FK Bospor Bohumin,SK Stonava,5,1,1.615,4.500,3.600
-66054410,2026-04-19 14:00,SK Sulko Zabreh,1. Bfk Frydlant Nad Ostravici,1,3,1.900,3.750,3.200
-66054414,2026-04-19 14:00,Pusta Polom,FK Bilovec,1,0,,,
-66054420,2026-04-19 14:00,FK Sumperk,MFK Havirov,2,3,,,
-66054416,2026-04-19 14:30,TJ Bridlicna,FK Novy Jicin,0,0,,,
-70398052,2026-04-22 14:30,1. Bfk Frydlant Nad Ostravici,FK Novy Jicin,2,0,,,
-66054432,2026-04-25 08:15,Opava B,SK Sulko Zabreh,1,2,2.100,3.500,2.875
-66054428,2026-04-25 13:00,TJ Bridlicna,Pusta Polom,0,0,,,
-66054426,2026-04-25 14:00,FK Petrvald Na Morave,FK Novy Jicin,2,1,1.727,4.000,3.500
-66054436,2026-04-25 14:00,SK Stonava,FC Vratimov,0,0,,,
-66054424,2026-04-26 08:15,MFK Havirov,Tj Valasske Mezirici,5,0,1.363,5.000,5.750
-66054422,2026-04-26 14:00,FK Sumperk,FC Irp Cesky Tesin,0,0,,,
-66054430,2026-04-26 14:00,FK Bilovec,SK Jiskra Rymarov,5,2,1.571,4.200,4.200
-66054434,2026-04-26 14:00,1. Bfk Frydlant Nad Ostravici,FK Bospor Bohumin,1,1,3.000,3.900,1.950
-66054438,2026-05-01 08:15,FC Irp Cesky Tesin,SK Stonava,0,2,,,
-66054440,2026-05-01 08:15,FC Vratimov,1. Bfk Frydlant Nad Ostravici,0,0,,,
-66054448,2026-05-01 14:30,Pusta Polom,FK Petrvald Na Morave,0,0,,,
-66054450,2026-05-01 14:30,FK Novy Jicin,MFK Havirov,0,0,6.500,5.250,1.300
-66054452,2026-05-01 14:30,Tj Valasske Mezirici,FK Sumperk,5,1,,,
-66054446,2026-05-02 14:30,SK Jiskra Rymarov,TJ Bridlicna,0,0,,,
-66054442,2026-05-03 14:30,FK Bospor Bohumin,Opava B,1,2,1.480,4.500,4.750
-66054444,2026-05-03 14:30,SK Sulko Zabreh,FK Bilovec,1,1,2.300,3.800,2.400
-66054466,2026-05-08 08:15,Opava B,FC Vratimov,1,2,,,
-66054460,2026-05-08 14:30,FK Petrvald Na Morave,SK Jiskra Rymarov,1,1,,,
-66054468,2026-05-08 14:30,1. Bfk Frydlant Nad Ostravici,SK Stonava,1,3,,,
-66054462,2026-05-09 13:00,TJ Bridlicna,SK Sulko Zabreh,0,0,,,
-66054454,2026-05-09 14:30,Tj Valasske Mezirici,FC Irp Cesky Tesin,0,0,,,
-66054458,2026-05-10 08:15,MFK Havirov,Pusta Polom,1,1,1.181,6.500,10.000
-66054456,2026-05-10 14:30,FK Sumperk,FK Novy Jicin,0,0,,,
-66054464,2026-05-10 14:30,FK Bilovec,FK Bospor Bohumin,1,0,2.000,4.000,2.750
-66054470,2026-05-16 08:15,FC Irp Cesky Tesin,1. Bfk Frydlant Nad Ostravici,2,2,,,
-66054474,2026-05-16 08:15,FC Vratimov,FK Bilovec,2,2,,,
-66054480,2026-05-16 14:30,SK Jiskra Rymarov,MFK Havirov,0,0,,,
-66054472,2026-05-16 15:00,SK Stonava,Opava B,3,4,,,
-66054484,2026-05-16 15:00,FK Novy Jicin,Tj Valasske Mezirici,0,0,,,
-66054476,2026-05-17 15:00,FK Bospor Bohumin,TJ Bridlicna,4,0,,,
-66054478,2026-05-17 15:00,SK Sulko Zabreh,FK Petrvald Na Morave,0,0,,,
-66054482,2026-05-17 15:00,Pusta Polom,FK Sumperk,0,1,,,
-66054496,2026-05-23 13:00,TJ Bridlicna,FC Vratimov,0,0,,,
-66054486,2026-05-23 15:00,FK Novy Jicin,FC Irp Cesky Tesin,2,0,,,
-66054488,2026-05-23 15:00,Tj Valasske Mezirici,Pusta Polom,0,0,,,
-66054494,2026-05-23 15:00,FK Petrvald Na Morave,FK Bospor Bohumin,3,2,,,
-66054492,2026-05-24 08:15,MFK Havirov,SK Sulko Zabreh,4,1,,,
-66054500,2026-05-24 09:00,Opava B,1. Bfk Frydlant Nad Ostravici,5,1,,,
-66054490,2026-05-24 15:00,FK Sumperk,SK Jiskra Rymarov,0,0,,,
-66054498,2026-05-24 15:00,FK Bilovec,SK Stonava,1,0,,,
-66054502,2026-05-30 08:15,FC Irp Cesky Tesin,Opava B,0,4,,,
-66054508,2026-05-30 08:15,FC Vratimov,FK Petrvald Na Morave,3,2,,,
-66054506,2026-05-30 13:00,SK Stonava,TJ Bridlicna,0,0,,,
-66054514,2026-05-30 14:30,SK Jiskra Rymarov,Tj Valasske Mezirici,0,0,,,
-66054504,2026-05-31 15:00,1. Bfk Frydlant Nad Ostravici,FK Bilovec,0,0,,,
-66054510,2026-05-31 15:00,FK Bospor Bohumin,MFK Havirov,0,0,,,
-66054512,2026-05-31 15:00,SK Sulko Zabreh,FK Sumperk,0,0,,,
-66054516,2026-05-31 15:00,Pusta Polom,FK Novy Jicin,0,0,,,
-66054520,2026-06-05 15:30,FK Novy Jicin,SK Jiskra Rymarov,2,1,,,
-66054522,2026-06-05 15:30,Tj Valasske Mezirici,SK Sulko Zabreh,1,8,,,
-66054530,2026-06-06 13:00,TJ Bridlicna,1. Bfk Frydlant Nad Ostravici,0,0,,,
-66054528,2026-06-06 15:00,FK Petrvald Na Morave,SK Stonava,0,0,,,
-66054526,2026-06-07 08:15,MFK Havirov,FC Vratimov,0,3,,,
-66054518,2026-06-07 15:00,Pusta Polom,FC Irp Cesky Tesin,0,0,,,
-66054524,2026-06-07 15:00,FK Sumperk,FK Bospor Bohumin,0,0,,,
-66054532,2026-06-07 15:00,FK Bilovec,Opava B,0,3,,,
-66054536,2026-06-10 16:00,Opava B,TJ Bridlicna,1,1,,,
-66054540,2026-06-12 15:30,SK Stonava,Havirov,0,0,,,
-66054544,2026-06-12 15:30,FK Bospor Bohumin,Valasske,5,3,,,
-66054534,2026-06-13 08:15,Cesky Tesin,FK Bilovec,0,0,,,
-66054542,2026-06-13 08:15,Vratimov,Sumperk,0,0,,,
-66054548,2026-06-13 12:00,Rymarov,Pusta Polom,0,0,,,
-66054546,2026-06-13 13:00,Sulko Zabreh,FK Novy Jicin,0,0,,,
-66054538,2026-06-14 15:30,1. Bfk Frydlant Nad Ostravici,FK Petrvald Na Morave,2,2,,,
-72656372,2026-08-07 16:00,FC Hlucin,FK Bospor Bohumin,0,2,,,
-72656366,2026-08-08 08:15,FC Vratimov,SK Jiskra Rymarov,1,2,1.533,4.750,3.900
-72656374,2026-08-08 08:15,TJ Bridlicna,SK Sulko Zabreh,0,2,,,
-72656368,2026-08-08 14:30,FK Novy Jicin,SK Stonava,2,2,,,
-72656370,2026-08-09 14:30,MFK Kravare,Tj Valasske Mezirici,3,1,2.600,4.000,2.100
-72656376,2026-08-09 14:30,FK Bilovec,Opava B,1,1,1.600,4.333,3.900
-72656378,2026-08-09 14:30,Pusta Polom,1. Bfk Frydlant Nad Ostravici,3,0,,,
-72656380,2026-08-09 14:30,FK Sumperk,FK Frydek-Mistek B,2,1,,,
-72656382,2026-08-15 14:30,1. Bfk Frydlant Nad Ostravici,FK Novy Jicin,0,1,,,
-72656384,2026-08-15 14:30,SK Stonava,MFK Kravare,1,2,1.727,4.000,3.500
-72656386,2026-08-15 14:30,SK Jiskra Rymarov,FC Hlucin,1,2,,,
-72656390,2026-08-15 14:30,Tj Valasske Mezirici,FK Sumperk,1,1,2.250,3.750,2.450
-72656394,2026-08-16 08:15,Opava B,Pusta Polom,3,1,1.666,4.200,3.600
-72656388,2026-08-16 14:30,SK Sulko Zabreh,FK Bilovec,2,1,,,
-72656392,2026-08-16 14:30,FK Bospor Bohumin,TJ Bridlicna,4,2,1.444,4.333,5.250
-72656396,2026-08-16 14:30,FK Frydek-Mistek B,FC Vratimov,1,3,,,
-72656404,2026-08-21 16:00,FC Hlucin,TJ Bridlicna,4,0,1.420,4.333,5.500
-72656398,2026-08-22 08:15,FC Vratimov,Tj Valasske Mezirici,2,0,,,
-72656400,2026-08-22 14:30,FK Novy Jicin,Opava B,2,5,2.800,3.900,2.000
-72656402,2026-08-22 14:30,SK Jiskra Rymarov,FK Frydek-Mistek B,4,0,,,
-72656406,2026-08-22 14:30,MFK Kravare,1. Bfk Frydlant Nad Ostravici,7,2,1.950,3.800,2.900
-72656408,2026-08-23 14:30,FK Bilovec,FK Bospor Bohumin,0,5,2.750,4.000,2.000
-72656410,2026-08-23 14:30,Pusta Polom,SK Sulko Zabreh,2,2,,,
-72656412,2026-08-23 14:30,FK Sumperk,SK Stonava,0,3,,,
-72656420,2026-08-29 08:15,TJ Bridlicna,FK Bilovec,3,1,2.800,3.900,2.000
-72656424,2026-08-29 08:15,Opava B,MFK Kravare,0,3,1.700,4.000,3.600
-72656414,2026-08-29 14:00,1. Bfk Frydlant Nad Ostravici,FK Sumperk,1,5,2.350,3.750,2.400
-72656416,2026-08-29 14:00,SK Stonava,FC Vratimov,1,3,2.250,3.500,2.625
-72656418,2026-08-29 14:00,Tj Valasske Mezirici,SK Jiskra Rymarov,2,2,,,
-72656428,2026-08-29 14:00,FK Frydek-Mistek B,FC Hlucin,1,2,4.333,4.500,1.500
-72656422,2026-08-30 14:00,SK Sulko Zabreh,FK Novy Jicin,0,1,1.666,4.000,3.750
-72656426,2026-08-30 14:00,FK Bospor Bohumin,Pusta Polom,4,1,1.400,4.500,5.750
-72656436,2026-09-04 16:00,FC Hlucin,FK Bilovec,1,0,1.500,4.500,4.333
-72656430,2026-09-05 08:15,FC Vratimov,1. Bfk Frydlant Nad Ostravici,2,1,1.270,5.000,7.500
-72656432,2026-09-05 08:15,FK Novy Jicin,FK Bospor Bohumin,2,4,4.500,4.000,1.550
-72656434,2026-09-05 14:00,SK Jiskra Rymarov,SK Stonava,0,1,,,
-72656438,2026-09-06 14:00,MFK Kravare,SK Sulko Zabreh,1,0,,,
-72656440,2026-09-06 14:00,FK Frydek-Mistek B,Tj Valasske Mezirici,2,4,3.100,4.000,1.850
-72656444,2026-09-06 14:00,Pusta Polom,TJ Bridlicna,1,0,,,
-72656450,2026-09-12 09:00,TJ Bridlicna,FK Novy Jicin,2,4,1.727,4.000,3.500
-72656446,2026-09-12 13:30,1. Bfk Frydlant Nad Ostravici,SK Jiskra Rymarov,2,5,,,
-72656452,2026-09-12 13:30,Tj Valasske Mezirici,FC Hlucin,2,5,,,
-72656448,2026-09-12 14:00,SK Stonava,FK Frydek-Mistek B,2,1,,,
-72656460,2026-09-13 08:15,Opava B,FC Vratimov,3,0,2.300,3.900,2.375
-72656454,2026-09-13 13:30,FK Bilovec,Pusta Polom,1,0,1.800,4.000,3.200
-72656458,2026-09-13 13:30,FK Bospor Bohumin,MFK Kravare,5,1,2.200,4.000,2.450
-72656456,2026-09-13 14:00,SK Sulko Zabreh,FK Sumperk,1,0,2.050,3.600,2.800
-72656462,2026-09-19 08:15,FC Vratimov,SK Sulko Zabreh,3,1,1.600,4.000,4.100
-72656464,2026-09-19 13:30,FK Novy Jicin,FK Bilovec,3,0,,,
-72656466,2026-09-19 13:30,SK Jiskra Rymarov,Opava B,4,2,,,
-72656468,2026-09-20 13:30,MFK Kravare,TJ Bridlicna,2,2,1.420,4.500,5.500
-72656470,2026-09-20 13:30,FC Hlucin,Pusta Polom,4,1,,,
-72656472,2026-09-20 13:30,Tj Valasske Mezirici,SK Stonava,2,2,,,
-72656474,2026-09-20 13:30,FK Sumperk,FK Bospor Bohumin,1,3,,,
-72656476,2026-09-20 13:30,FK Frydek-Mistek B,1. Bfk Frydlant Nad Ostravici,5,1,,,
-72656478,2026-09-26 13:00,1. Bfk Frydlant Nad Ostravici,Tj Valasske Mezirici,0,6,,,
-72656490,2026-09-26 13:00,Opava B,FK Frydek-Mistek B,2,3,1.450,4.750,4.750
-72656480,2026-09-26 13:30,SK Stonava,FC Hlucin,4,1,,,
-72656484,2026-09-27 13:00,FK Bilovec,MFK Kravare,0,2,,,
-72656488,2026-09-27 13:00,FK Bospor Bohumin,FC Vratimov,2,3,,,
-72656492,2026-09-27 13:00,Pusta Polom,FK Novy Jicin,3,2,2.250,4.000,2.400
-72656482,2026-09-27 13:30,TJ Bridlicna,FK Sumperk,2,1,,,
-72656486,2026-09-27 13:30,SK Sulko Zabreh,SK Jiskra Rymarov,2,2,,,
-72656502,2026-10-02 16:00,FC Hlucin,FK Novy Jicin,1,1,1.400,4.750,5.250
-72656494,2026-10-03 08:15,FC Vratimov,TJ Bridlicna,2,1,1.444,4.750,4.750
-72656496,2026-10-03 13:00,SK Jiskra Rymarov,FK Bospor Bohumin,1,4,,,
-72656498,2026-10-03 13:00,SK Stonava,1. Bfk Frydlant Nad Ostravici,4,1,,,
-72656500,2026-10-03 13:00,Tj Valasske Mezirici,Opava B,3,0,,,
-72656504,2026-10-04 13:00,MFK Kravare,Pusta Polom,2,1,1.420,4.750,5.000
-72656506,2026-10-04 13:00,FK Sumperk,FK Bilovec,1,1,,,
-72656508,2026-10-04 13:00,FK Frydek-Mistek B,SK Sulko Zabreh,2,1,2.875,3.900,1.950
-72656518,2026-10-10 08:15,TJ Bridlicna,SK Jiskra Rymarov,2,1,3.100,3.900,1.900
-72656522,2026-10-10 08:15,Opava B,SK Stonava,4,1,2.250,3.750,2.500
-72656510,2026-10-10 12:30,1. Bfk Frydlant Nad Ostravici,FC Hlucin,3,0,9.500,6.500,1.222
-72656512,2026-10-10 12:30,FK Novy Jicin,MFK Kravare,0,4,2.450,4.200,2.100
-72656516,2026-10-11 12:30,FK Bilovec,FC Vratimov,2,1,3.900,4.200,1.600
-72656520,2026-10-11 12:30,FK Bospor Bohumin,FK Frydek-Mistek B,2,1,1.285,5.500,8.000
-72656524,2026-10-11 12:30,Pusta Polom,FK Sumperk,2,2,2.500,3.750,2.250
-72656514,2026-10-11 13:00,SK Sulko Zabreh,Tj Valasske Mezirici,1,1,,,
-72656540,2026-10-16 16:00,FC Hlucin,MFK Kravare,0,0,1.909,4.100,2.875
-72656526,2026-10-17 08:15,FC Vratimov,Pusta Polom,4,3,1.333,4.750,6.250
-72656528,2026-10-17 12:30,SK Jiskra Rymarov,FK Bilovec,5,0,,,
-72656530,2026-10-17 12:30,SK Stonava,SK Sulko Zabreh,0,2,1.800,4.000,3.250
-72656532,2026-10-17 12:30,1. Bfk Frydlant Nad Ostravici,Opava B,1,4,,,
-72656538,2026-10-17 12:30,Tj Valasske Mezirici,FK Bospor Bohumin,2,1,,,
-72656534,2026-10-18 12:30,FK Sumperk,FK Novy Jicin,0,0,2.050,3.800,2.750
-72656536,2026-10-18 12:30,FK Frydek-Mistek B,TJ Bridlicna,4,2,2.000,4.000,2.750
-72656550,2026-10-24 08:15,TJ Bridlicna,Tj Valasske Mezirici,0,1,2.800,3.900,2.000
-72656556,2026-10-24 08:15,Opava B,FC Hlucin,1,3,2.100,3.750,2.700
-72656542,2026-10-24 12:00,FK Novy Jicin,FC Vratimov,0,1,3.600,4.000,1.700
-72656546,2026-10-25 13:00,MFK Kravare,FK Sumperk,1,1,1.727,4.000,3.500
-72656548,2026-10-25 13:00,FK Bilovec,FK Frydek-Mistek B,2,2,2.100,3.900,2.625
-72656552,2026-10-25 13:00,Pusta Polom,SK Jiskra Rymarov,2,0,,,
-72656554,2026-10-25 13:00,FK Bospor Bohumin,SK Stonava,4,1,,,
-72656544,2026-10-25 13:30,SK Sulko Zabreh,1. Bfk Frydlant Nad Ostravici,2,1,,,
-72656572,2026-10-30 17:00,FC Hlucin,FK Sumperk,1,2,1.450,4.333,5.000
-72656558,2026-10-31 09:15,FC Vratimov,MFK Kravare,1,2,1.750,4.200,3.700
-72656560,2026-10-31 13:00,SK Jiskra Rymarov,FK Novy Jicin,2,2,,,
-72656562,2026-10-31 13:00,SK Stonava,TJ Bridlicna,2,1,,,
-72656564,2026-10-31 13:00,1. Bfk Frydlant Nad Ostravici,FK Bospor Bohumin,0,5,,,
-72656570,2026-10-31 13:00,Tj Valasske Mezirici,FK Bilovec,2,2,,,
-72656566,2026-11-01 09:15,Opava B,SK Sulko Zabreh,2,3,1.950,3.900,2.900
-72656568,2026-11-01 13:00,FK Frydek-Mistek B,Pusta Polom,1,1,1.500,4.750,4.000
-72656582,2026-11-07 09:15,TJ Bridlicna,1. Bfk Frydlant Nad Ostravici,6,2,1.480,4.750,4.500
-72656574,2026-11-07 13:00,FK Novy Jicin,FK Frydek-Mistek B,0,1,1.909,4.000,2.900
-72656586,2026-11-07 13:00,Pusta Polom,Tj Valasske Mezirici,3,2,3.000,4.200,1.850
-72656576,2026-11-08 13:00,SK Sulko Zabreh,FC Hlucin,0,4,,,
-72656578,2026-11-08 13:00,MFK Kravare,SK Jiskra Rymarov,2,1,1.727,4.333,3.300
-72656580,2026-11-08 13:00,FK Bilovec,SK Stonava,3,1,2.400,3.900,2.300
-72656584,2026-11-08 13:00,FK Bospor Bohumin,Opava B,3,0,1.380,5.250,5.250
-72656588,2026-11-08 13:00,FK Sumperk,FC Vratimov,1,2,,,
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+54168771,2025-06-01 08:15,MFK Havirov,TJ Bridlicna,5,1,,,,,,
+54168777,2025-06-01 15:00,1. Bfk Frydlant Nad Ostravici,SK Beskyd Frenstat p.R.,1,1,,,,,,
+54168809,2025-06-04 16:00,FK Novy Jicin,Opava B,2,2,,,,,,
+54168789,2025-06-08 15:00,FK Bospor Bohumin,Pusta Polom,3,1,,,,,,
+54168793,2025-06-08 15:00,SK Beskyd Frenstat p.R.,FK Novy Jicin,1,4,,,,,,
+54168811,2025-06-11 16:00,1. Bfk Frydlant Nad Ostravici,FK Bospor Bohumin,2,1,,,,,,
+54168813,2025-06-13 15:30,Pusta Polom,FC Vratimov,3,0,,,,,,
+54168805,2025-06-14 15:00,MFK Havirov,FK Bilovec,3,1,,,,,,
+54168801,2025-06-15 15:00,SK Polanka Nad Odrou,TJ Bridlicna,6,2,,,,,,
+62048436,2025-08-09 08:15,FC Irp Cesky Tesin,TJ Bridlicna,0,2,,,,,,
+62048468,2025-08-23 08:15,FC Irp Cesky Tesin,FK Petrvald Na Morave,1,2,,,,,,
+62048478,2025-08-24 08:15,MFK Havirov,TJ Bridlicna,5,1,,,,,,
+62048496,2025-08-29 15:00,FK Petrvald Na Morave,MFK Havirov,0,2,,,,,,
+62048484,2025-08-29 15:30,TJ Bridlicna,FK Sumperk,0,0,,,,,,
+62048490,2025-08-31 08:15,Opava B,FK Novy Jicin,0,2,,,,,,
+63402895,2025-09-02 15:30,1. Bfk Frydlant Nad Ostravici,Pusta Polom,1,0,,,,,,
+62048500,2025-09-06 08:15,FC Irp Cesky Tesin,MFK Havirov,0,4,,,,,,
+62048534,2025-09-20 08:15,FC Vratimov,SK Stonava,3,1,,,,,,
+63888971,2025-09-24 14:30,MFK Havirov,FK Sumperk,0,2,,,,,,
+62048554,2025-09-28 08:15,MFK Havirov,FK Novy Jicin,5,1,,,,,,
+62048568,2025-10-04 13:00,FK Novy Jicin,FK Sumperk,0,0,,,,,,
+62048586,2025-10-12 08:15,MFK Havirov,SK Jiskra Rymarov,5,0,,,,,,
+62048608,2025-10-19 12:30,FK Bospor Bohumin,FK Petrvald Na Morave,3,2,,,,,,
+62048618,2025-10-26 09:15,MFK Havirov,FK Bospor Bohumin,2,1,,,,,,
+62048622,2025-10-26 13:30,FK Bilovec,1. Bfk Frydlant Nad Ostravici,6,3,,,,,,
+62048630,2025-11-01 09:15,FC Vratimov,MFK Havirov,1,6,,,,,,
+62048636,2025-11-02 09:15,Opava B,FK Bilovec,2,5,,,,,,
+62048644,2025-11-08 09:30,TJ Bridlicna,Opava B,3,1,,,,,,
+62048648,2025-11-08 13:00,FK Novy Jicin,SK Sulko Zabreh,1,1,,,,,,
+62048652,2025-11-09 09:15,MFK Havirov,SK Stonava,5,2,,,,,,
+62048654,2025-11-09 13:00,FK Sumperk,FC Vratimov,1,2,,,,,,
+62048658,2025-11-09 13:00,FK Bilovec,FC Irp Cesky Tesin,2,0,,,,,,
+66054310,2026-03-07 09:15,FC Irp Cesky Tesin,SK Jiskra Rymarov,0,1,,,,,,
+66054314,2026-03-07 13:30,FK Novy Jicin,FK Bospor Bohumin,2,2,,,,,,
+66054316,2026-03-07 13:30,Tj Valasske Mezirici,FC Vratimov,3,0,,,,,,
+66054324,2026-03-07 13:30,TJ Bridlicna,FK Bilovec,2,1,,,,,,
+66054320,2026-03-08 09:15,MFK Havirov,1. Bfk Frydlant Nad Ostravici,1,3,,,,,,
+66054312,2026-03-08 13:30,Pusta Polom,SK Sulko Zabreh,1,2,,,,,,
+66054318,2026-03-08 13:30,FK Sumperk,SK Stonava,2,3,,,,,,
+66054322,2026-03-08 14:00,FK Petrvald Na Morave,Opava B,0,5,,,,,,
+66054330,2026-03-14 09:15,Opava B,MFK Havirov,2,1,4.333,4.333,1.533,3.25,1.800,2.000
+66054336,2026-03-14 09:15,FC Vratimov,FK Novy Jicin,0,0,,,,,,
+66054326,2026-03-14 14:00,TJ Bridlicna,FC Irp Cesky Tesin,0,0,,,,,,
+66054334,2026-03-14 14:00,SK Stonava,Tj Valasske Mezirici,2,1,1.833,4.100,3.100,3.25,1.850,1.950
+66054328,2026-03-15 14:00,FK Bilovec,FK Petrvald Na Morave,3,1,,,,,,
+66054332,2026-03-15 14:00,1. Bfk Frydlant Nad Ostravici,FK Sumperk,0,2,2.050,3.900,2.750,3,1.950,1.850
+66054338,2026-03-15 14:00,FK Bospor Bohumin,Pusta Polom,3,1,1.333,5.000,6.000,3.5,1.850,1.950
+66054340,2026-03-15 14:00,SK Sulko Zabreh,SK Jiskra Rymarov,0,1,,,,,,
+66054342,2026-03-21 09:15,FC Irp Cesky Tesin,SK Sulko Zabreh,0,1,3.300,4.200,1.727,3,1.900,1.900
+66054344,2026-03-21 14:00,SK Jiskra Rymarov,FK Bospor Bohumin,0,0,,,,,,
+66054348,2026-03-21 14:00,FK Novy Jicin,SK Stonava,0,0,,,,,,
+66054350,2026-03-21 14:00,Tj Valasske Mezirici,1. Bfk Frydlant Nad Ostravici,0,0,,,,,,
+66054356,2026-03-21 14:00,FK Petrvald Na Morave,TJ Bridlicna,0,0,,,,,,
+66054354,2026-03-22 09:15,MFK Havirov,FK Bilovec,2,0,1.700,4.000,3.500,3.5,1.975,1.825
+66054346,2026-03-22 14:00,Pusta Polom,FC Vratimov,0,2,2.750,4.000,2.000,3.25,1.950,1.850
+66054352,2026-03-22 14:00,FK Sumperk,Opava B,0,0,,,,,,
+66054364,2026-03-28 09:15,Opava B,Tj Valasske Mezirici,1,2,2.150,3.800,2.600,3.25,1.900,1.900
+66054370,2026-03-28 09:15,FC Vratimov,SK Jiskra Rymarov,2,0,,,,,,
+66054358,2026-03-28 14:00,FK Petrvald Na Morave,FC Irp Cesky Tesin,0,0,,,,,,
+66054360,2026-03-28 14:00,TJ Bridlicna,MFK Havirov,0,0,,,,,,
+66054368,2026-03-28 14:00,SK Stonava,Pusta Polom,0,0,,,,,,
+66054362,2026-03-29 13:00,FK Bilovec,FK Sumperk,0,0,,,,,,
+66054372,2026-03-29 13:00,FK Bospor Bohumin,SK Sulko Zabreh,1,0,1.500,4.200,4.750,3.25,1.850,1.950
+66054380,2026-04-03 12:00,Pusta Polom,1. Bfk Frydlant Nad Ostravici,1,1,,,,,,
+66054376,2026-04-03 13:30,SK Sulko Zabreh,FC Vratimov,1,0,,,,,,
+66054386,2026-04-03 13:30,FK Sumperk,TJ Bridlicna,0,0,,,,,,
+66054374,2026-04-04 08:15,FC Irp Cesky Tesin,FK Bospor Bohumin,1,5,6.000,4.750,1.363,3.25,1.800,2.000
+66054378,2026-04-04 13:30,SK Jiskra Rymarov,SK Stonava,0,0,,,,,,
+66054382,2026-04-04 13:30,FK Novy Jicin,Opava B,0,0,,,,,,
+66054384,2026-04-04 13:30,Tj Valasske Mezirici,FK Bilovec,0,0,,,,,,
+66054388,2026-04-05 08:15,MFK Havirov,FK Petrvald Na Morave,2,1,1.333,5.000,6.250,3.75,1.975,1.825
+66054404,2026-04-11 08:15,FC Vratimov,FK Bospor Bohumin,3,1,2.900,3.500,2.050,3,1.850,1.950
+66054394,2026-04-11 13:00,TJ Bridlicna,Tj Valasske Mezirici,0,0,,,,,,
+66054392,2026-04-11 13:30,FK Petrvald Na Morave,FK Sumperk,2,0,2.200,3.500,2.625,3,1.875,1.925
+66054402,2026-04-11 13:30,SK Stonava,SK Sulko Zabreh,1,0,,,,,,
+66054390,2026-04-12 08:15,MFK Havirov,FC Irp Cesky Tesin,2,0,1.125,9.000,15.000,3.75,1.875,1.925
+66054398,2026-04-12 08:15,Opava B,Pusta Polom,2,0,1.480,4.500,4.500,3.5,1.975,1.825
+66054396,2026-04-12 13:30,FK Bilovec,FK Novy Jicin,2,2,1.450,4.500,4.750,3.25,1.875,1.925
+66054400,2026-04-12 13:30,1. Bfk Frydlant Nad Ostravici,SK Jiskra Rymarov,0,4,2.200,3.500,2.625,3,1.900,1.900
+66054406,2026-04-18 08:15,FC Irp Cesky Tesin,FC Vratimov,0,2,,,,,,
+66054412,2026-04-18 14:00,SK Jiskra Rymarov,Opava B,0,0,,,,,,
+66054418,2026-04-18 14:00,Tj Valasske Mezirici,FK Petrvald Na Morave,1,1,,,,,,
+66054408,2026-04-19 14:00,FK Bospor Bohumin,SK Stonava,5,1,1.615,4.500,3.600,3.5,2.000,1.800
+66054410,2026-04-19 14:00,SK Sulko Zabreh,1. Bfk Frydlant Nad Ostravici,1,3,1.900,3.750,3.200,2.75,1.900,1.900
+66054414,2026-04-19 14:00,Pusta Polom,FK Bilovec,1,0,,,,,,
+66054420,2026-04-19 14:00,FK Sumperk,MFK Havirov,2,3,,,,,,
+66054416,2026-04-19 14:30,TJ Bridlicna,FK Novy Jicin,0,0,,,,,,
+70398052,2026-04-22 14:30,1. Bfk Frydlant Nad Ostravici,FK Novy Jicin,2,0,,,,,,
+66054432,2026-04-25 08:15,Opava B,SK Sulko Zabreh,1,2,2.100,3.500,2.875,2.75,1.850,1.950
+66054428,2026-04-25 13:00,TJ Bridlicna,Pusta Polom,0,0,,,,,,
+66054426,2026-04-25 14:00,FK Petrvald Na Morave,FK Novy Jicin,2,1,1.727,4.000,3.500,3.25,2.000,1.800
+66054436,2026-04-25 14:00,SK Stonava,FC Vratimov,0,0,,,,,,
+66054424,2026-04-26 08:15,MFK Havirov,Tj Valasske Mezirici,5,0,1.363,5.000,5.750,3.5,1.825,1.975
+66054422,2026-04-26 14:00,FK Sumperk,FC Irp Cesky Tesin,0,0,,,,,,
+66054430,2026-04-26 14:00,FK Bilovec,SK Jiskra Rymarov,5,2,1.571,4.200,4.200,3.25,1.850,1.950
+66054434,2026-04-26 14:00,1. Bfk Frydlant Nad Ostravici,FK Bospor Bohumin,1,1,3.000,3.900,1.950,3.25,1.925,1.875
+66054438,2026-05-01 08:15,FC Irp Cesky Tesin,SK Stonava,0,2,,,,,,
+66054440,2026-05-01 08:15,FC Vratimov,1. Bfk Frydlant Nad Ostravici,0,0,,,,,,
+66054448,2026-05-01 14:30,Pusta Polom,FK Petrvald Na Morave,0,0,,,,,,
+66054450,2026-05-01 14:30,FK Novy Jicin,MFK Havirov,0,0,6.500,5.250,1.300,3.25,1.925,1.875
+66054452,2026-05-01 14:30,Tj Valasske Mezirici,FK Sumperk,5,1,,,,,,
+66054446,2026-05-02 14:30,SK Jiskra Rymarov,TJ Bridlicna,0,0,,,,,,
+66054442,2026-05-03 14:30,FK Bospor Bohumin,Opava B,1,2,1.480,4.500,4.750,3.5,1.975,1.825
+66054444,2026-05-03 14:30,SK Sulko Zabreh,FK Bilovec,1,1,2.300,3.800,2.400,3.25,2.000,1.800
+66054466,2026-05-08 08:15,Opava B,FC Vratimov,1,2,,,,,,
+66054460,2026-05-08 14:30,FK Petrvald Na Morave,SK Jiskra Rymarov,1,1,,,,,,
+66054468,2026-05-08 14:30,1. Bfk Frydlant Nad Ostravici,SK Stonava,1,3,,,,,,
+66054462,2026-05-09 13:00,TJ Bridlicna,SK Sulko Zabreh,0,0,,,,,,
+66054454,2026-05-09 14:30,Tj Valasske Mezirici,FC Irp Cesky Tesin,0,0,,,,,,
+66054458,2026-05-10 08:15,MFK Havirov,Pusta Polom,1,1,1.181,6.500,10.000,3.75,1.875,1.925
+66054456,2026-05-10 14:30,FK Sumperk,FK Novy Jicin,0,0,,,,,,
+66054464,2026-05-10 14:30,FK Bilovec,FK Bospor Bohumin,1,0,2.000,4.000,2.750,3.25,1.850,1.950
+66054470,2026-05-16 08:15,FC Irp Cesky Tesin,1. Bfk Frydlant Nad Ostravici,2,2,,,,,,
+66054474,2026-05-16 08:15,FC Vratimov,FK Bilovec,2,2,,,,,,
+66054480,2026-05-16 14:30,SK Jiskra Rymarov,MFK Havirov,0,0,,,,,,
+66054472,2026-05-16 15:00,SK Stonava,Opava B,3,4,,,,,,
+66054484,2026-05-16 15:00,FK Novy Jicin,Tj Valasske Mezirici,0,0,,,,,,
+66054476,2026-05-17 15:00,FK Bospor Bohumin,TJ Bridlicna,4,0,,,,,,
+66054478,2026-05-17 15:00,SK Sulko Zabreh,FK Petrvald Na Morave,0,0,,,,,,
+66054482,2026-05-17 15:00,Pusta Polom,FK Sumperk,0,1,,,,,,
+66054496,2026-05-23 13:00,TJ Bridlicna,FC Vratimov,0,0,,,,,,
+66054486,2026-05-23 15:00,FK Novy Jicin,FC Irp Cesky Tesin,2,0,,,,,,
+66054488,2026-05-23 15:00,Tj Valasske Mezirici,Pusta Polom,0,0,,,,,,
+66054494,2026-05-23 15:00,FK Petrvald Na Morave,FK Bospor Bohumin,3,2,,,,,,
+66054492,2026-05-24 08:15,MFK Havirov,SK Sulko Zabreh,4,1,,,,,,
+66054500,2026-05-24 09:00,Opava B,1. Bfk Frydlant Nad Ostravici,5,1,,,,,,
+66054490,2026-05-24 15:00,FK Sumperk,SK Jiskra Rymarov,0,0,,,,,,
+66054498,2026-05-24 15:00,FK Bilovec,SK Stonava,1,0,,,,,,
+66054502,2026-05-30 08:15,FC Irp Cesky Tesin,Opava B,0,4,,,,,,
+66054508,2026-05-30 08:15,FC Vratimov,FK Petrvald Na Morave,3,2,,,,,,
+66054506,2026-05-30 13:00,SK Stonava,TJ Bridlicna,0,0,,,,,,
+66054514,2026-05-30 14:30,SK Jiskra Rymarov,Tj Valasske Mezirici,0,0,,,,,,
+66054504,2026-05-31 15:00,1. Bfk Frydlant Nad Ostravici,FK Bilovec,0,0,,,,,,
+66054510,2026-05-31 15:00,FK Bospor Bohumin,MFK Havirov,0,0,,,,,,
+66054512,2026-05-31 15:00,SK Sulko Zabreh,FK Sumperk,0,0,,,,,,
+66054516,2026-05-31 15:00,Pusta Polom,FK Novy Jicin,0,0,,,,,,
+66054520,2026-06-05 15:30,FK Novy Jicin,SK Jiskra Rymarov,2,1,,,,,,
+66054522,2026-06-05 15:30,Tj Valasske Mezirici,SK Sulko Zabreh,1,8,,,,,,
+66054530,2026-06-06 13:00,TJ Bridlicna,1. Bfk Frydlant Nad Ostravici,0,0,,,,,,
+66054528,2026-06-06 15:00,FK Petrvald Na Morave,SK Stonava,0,0,,,,,,
+66054526,2026-06-07 08:15,MFK Havirov,FC Vratimov,0,3,,,,,,
+66054518,2026-06-07 15:00,Pusta Polom,FC Irp Cesky Tesin,0,0,,,,,,
+66054524,2026-06-07 15:00,FK Sumperk,FK Bospor Bohumin,0,0,,,,,,
+66054532,2026-06-07 15:00,FK Bilovec,Opava B,0,3,,,,,,
+66054536,2026-06-10 16:00,Opava B,TJ Bridlicna,1,1,,,,,,
+66054540,2026-06-12 15:30,SK Stonava,Havirov,0,0,,,,,,
+66054544,2026-06-12 15:30,FK Bospor Bohumin,Valasske,5,3,,,,,,
+66054534,2026-06-13 08:15,Cesky Tesin,FK Bilovec,0,0,,,,,,
+66054542,2026-06-13 08:15,Vratimov,Sumperk,0,0,,,,,,
+66054548,2026-06-13 12:00,Rymarov,Pusta Polom,0,0,,,,,,
+66054546,2026-06-13 13:00,Sulko Zabreh,FK Novy Jicin,0,0,,,,,,
+66054538,2026-06-14 15:30,1. Bfk Frydlant Nad Ostravici,FK Petrvald Na Morave,2,2,,,,,,
+72656372,2026-08-07 16:00,FC Hlucin,FK Bospor Bohumin,0,2,,,,,,
+72656366,2026-08-08 08:15,FC Vratimov,SK Jiskra Rymarov,1,2,1.533,4.750,3.900,3.25,1.875,1.925
+72656374,2026-08-08 08:15,TJ Bridlicna,SK Sulko Zabreh,0,2,,,,,,
+72656368,2026-08-08 14:30,FK Novy Jicin,SK Stonava,2,2,,,,,,
+72656370,2026-08-09 14:30,MFK Kravare,Tj Valasske Mezirici,3,1,2.600,4.000,2.100,3.5,1.850,1.950
+72656376,2026-08-09 14:30,FK Bilovec,Opava B,1,1,1.600,4.333,3.900,3.5,1.825,1.975
+72656378,2026-08-09 14:30,Pusta Polom,1. Bfk Frydlant Nad Ostravici,3,0,,,,,,
+72656380,2026-08-09 14:30,FK Sumperk,FK Frydek-Mistek B,2,1,,,,,,
+72656382,2026-08-15 14:30,1. Bfk Frydlant Nad Ostravici,FK Novy Jicin,0,1,,,,,,
+72656384,2026-08-15 14:30,SK Stonava,MFK Kravare,1,2,1.727,4.000,3.500,3.5,1.950,1.850
+72656386,2026-08-15 14:30,SK Jiskra Rymarov,FC Hlucin,1,2,,,,,,
+72656390,2026-08-15 14:30,Tj Valasske Mezirici,FK Sumperk,1,1,2.250,3.750,2.450,3,1.850,1.950
+72656394,2026-08-16 08:15,Opava B,Pusta Polom,3,1,1.666,4.200,3.600,3,1.825,1.975
+72656388,2026-08-16 14:30,SK Sulko Zabreh,FK Bilovec,2,1,,,,,,
+72656392,2026-08-16 14:30,FK Bospor Bohumin,TJ Bridlicna,4,2,1.444,4.333,5.250,3.25,1.825,1.975
+72656396,2026-08-16 14:30,FK Frydek-Mistek B,FC Vratimov,1,3,,,,,,
+72656404,2026-08-21 16:00,FC Hlucin,TJ Bridlicna,4,0,1.420,4.333,5.500,3.25,2.000,1.800
+72656398,2026-08-22 08:15,FC Vratimov,Tj Valasske Mezirici,2,0,,,,,,
+72656400,2026-08-22 14:30,FK Novy Jicin,Opava B,2,5,2.800,3.900,2.000,3,1.925,1.875
+72656402,2026-08-22 14:30,SK Jiskra Rymarov,FK Frydek-Mistek B,4,0,,,,,,
+72656406,2026-08-22 14:30,MFK Kravare,1. Bfk Frydlant Nad Ostravici,7,2,1.950,3.800,2.900,3.25,1.900,1.900
+72656408,2026-08-23 14:30,FK Bilovec,FK Bospor Bohumin,0,5,2.750,4.000,2.000,3.25,2.000,1.800
+72656410,2026-08-23 14:30,Pusta Polom,SK Sulko Zabreh,2,2,,,,,,
+72656412,2026-08-23 14:30,FK Sumperk,SK Stonava,0,3,,,,,,
+72656420,2026-08-29 08:15,TJ Bridlicna,FK Bilovec,3,1,2.800,3.900,2.000,3.25,2.000,1.800
+72656424,2026-08-29 08:15,Opava B,MFK Kravare,0,3,1.700,4.000,3.600,3.25,2.000,1.800
+72656414,2026-08-29 14:00,1. Bfk Frydlant Nad Ostravici,FK Sumperk,1,5,2.350,3.750,2.400,3,1.975,1.825
+72656416,2026-08-29 14:00,SK Stonava,FC Vratimov,1,3,2.250,3.500,2.625,3,1.875,1.925
+72656418,2026-08-29 14:00,Tj Valasske Mezirici,SK Jiskra Rymarov,2,2,,,,,,
+72656428,2026-08-29 14:00,FK Frydek-Mistek B,FC Hlucin,1,2,4.333,4.500,1.500,3.5,1.850,1.950
+72656422,2026-08-30 14:00,SK Sulko Zabreh,FK Novy Jicin,0,1,1.666,4.000,3.750,3,1.800,2.000
+72656426,2026-08-30 14:00,FK Bospor Bohumin,Pusta Polom,4,1,1.400,4.500,5.750,3.5,1.825,1.975
+72656436,2026-09-04 16:00,FC Hlucin,FK Bilovec,1,0,1.500,4.500,4.333,3,1.775,2.025
+72656430,2026-09-05 08:15,FC Vratimov,1. Bfk Frydlant Nad Ostravici,2,1,1.270,5.000,7.500,3.5,1.925,1.875
+72656432,2026-09-05 08:15,FK Novy Jicin,FK Bospor Bohumin,2,4,4.500,4.000,1.550,3.25,1.875,1.925
+72656434,2026-09-05 14:00,SK Jiskra Rymarov,SK Stonava,0,1,,,,,,
+72656438,2026-09-06 14:00,MFK Kravare,SK Sulko Zabreh,1,0,,,,,,
+72656440,2026-09-06 14:00,FK Frydek-Mistek B,Tj Valasske Mezirici,2,4,3.100,4.000,1.850,3.25,1.800,2.000
+72656444,2026-09-06 14:00,Pusta Polom,TJ Bridlicna,1,0,,,,,,
+72656450,2026-09-12 09:00,TJ Bridlicna,FK Novy Jicin,2,4,1.727,4.000,3.500,3,1.800,2.000
+72656446,2026-09-12 13:30,1. Bfk Frydlant Nad Ostravici,SK Jiskra Rymarov,2,5,,,,,,
+72656452,2026-09-12 13:30,Tj Valasske Mezirici,FC Hlucin,2,5,,,,,,
+72656448,2026-09-12 14:00,SK Stonava,FK Frydek-Mistek B,2,1,,,,,,
+72656460,2026-09-13 08:15,Opava B,FC Vratimov,3,0,2.300,3.900,2.375,3.25,1.875,1.925
+72656454,2026-09-13 13:30,FK Bilovec,Pusta Polom,1,0,1.800,4.000,3.200,3.25,1.925,1.875
+72656458,2026-09-13 13:30,FK Bospor Bohumin,MFK Kravare,5,1,2.200,4.000,2.450,3.5,1.850,1.950
+72656456,2026-09-13 14:00,SK Sulko Zabreh,FK Sumperk,1,0,2.050,3.600,2.800,3,2.000,1.800
+72656462,2026-09-19 08:15,FC Vratimov,SK Sulko Zabreh,3,1,1.600,4.000,4.100,3,1.950,1.850
+72656464,2026-09-19 13:30,FK Novy Jicin,FK Bilovec,3,0,,,,,,
+72656466,2026-09-19 13:30,SK Jiskra Rymarov,Opava B,4,2,,,,,,
+72656468,2026-09-20 13:30,MFK Kravare,TJ Bridlicna,2,2,1.420,4.500,5.500,3.5,1.900,1.900
+72656470,2026-09-20 13:30,FC Hlucin,Pusta Polom,4,1,,,,,,
+72656472,2026-09-20 13:30,Tj Valasske Mezirici,SK Stonava,2,2,,,,,,
+72656474,2026-09-20 13:30,FK Sumperk,FK Bospor Bohumin,1,3,,,,,,
+72656476,2026-09-20 13:30,FK Frydek-Mistek B,1. Bfk Frydlant Nad Ostravici,5,1,,,,,,
+72656478,2026-09-26 13:00,1. Bfk Frydlant Nad Ostravici,Tj Valasske Mezirici,0,6,,,,,,
+72656490,2026-09-26 13:00,Opava B,FK Frydek-Mistek B,2,3,1.450,4.750,4.750,3.75,1.850,1.950
+72656480,2026-09-26 13:30,SK Stonava,FC Hlucin,4,1,,,,,,
+72656484,2026-09-27 13:00,FK Bilovec,MFK Kravare,0,2,,,,,,
+72656488,2026-09-27 13:00,FK Bospor Bohumin,FC Vratimov,2,3,,,,,,
+72656492,2026-09-27 13:00,Pusta Polom,FK Novy Jicin,3,2,2.250,4.000,2.400,3.25,1.925,1.875
+72656482,2026-09-27 13:30,TJ Bridlicna,FK Sumperk,2,1,,,,,,
+72656486,2026-09-27 13:30,SK Sulko Zabreh,SK Jiskra Rymarov,2,2,,,,,,
+72656502,2026-10-02 16:00,FC Hlucin,FK Novy Jicin,1,1,1.400,4.750,5.250,3.25,1.825,1.975
+72656494,2026-10-03 08:15,FC Vratimov,TJ Bridlicna,2,1,1.444,4.750,4.750,3.5,1.925,1.875
+72656496,2026-10-03 13:00,SK Jiskra Rymarov,FK Bospor Bohumin,1,4,,,,,,
+72656498,2026-10-03 13:00,SK Stonava,1. Bfk Frydlant Nad Ostravici,4,1,,,,,,
+72656500,2026-10-03 13:00,Tj Valasske Mezirici,Opava B,3,0,,,,,,
+72656504,2026-10-04 13:00,MFK Kravare,Pusta Polom,2,1,1.420,4.750,5.000,3.75,1.850,1.950
+72656506,2026-10-04 13:00,FK Sumperk,FK Bilovec,1,1,,,,,,
+72656508,2026-10-04 13:00,FK Frydek-Mistek B,SK Sulko Zabreh,2,1,2.875,3.900,1.950,3.25,1.875,1.925
+72656518,2026-10-10 08:15,TJ Bridlicna,SK Jiskra Rymarov,2,1,3.100,3.900,1.900,3.25,2.000,1.800
+72656522,2026-10-10 08:15,Opava B,SK Stonava,4,1,2.250,3.750,2.500,3,1.825,1.975
+72656510,2026-10-10 12:30,1. Bfk Frydlant Nad Ostravici,FC Hlucin,3,0,9.500,6.500,1.222,4,1.950,1.850
+72656512,2026-10-10 12:30,FK Novy Jicin,MFK Kravare,0,4,2.450,4.200,2.100,3.75,1.825,1.975
+72656516,2026-10-11 12:30,FK Bilovec,FC Vratimov,2,1,3.900,4.200,1.600,3,1.850,1.950
+72656520,2026-10-11 12:30,FK Bospor Bohumin,FK Frydek-Mistek B,2,1,1.285,5.500,8.000,3.5,1.925,1.875
+72656524,2026-10-11 12:30,Pusta Polom,FK Sumperk,2,2,2.500,3.750,2.250,3,1.850,1.950
+72656514,2026-10-11 13:00,SK Sulko Zabreh,Tj Valasske Mezirici,1,1,,,,,,
+72656540,2026-10-16 16:00,FC Hlucin,MFK Kravare,0,0,1.909,4.100,2.875,3.5,1.850,1.950
+72656526,2026-10-17 08:15,FC Vratimov,Pusta Polom,4,3,1.333,4.750,6.250,3.25,1.800,2.000
+72656528,2026-10-17 12:30,SK Jiskra Rymarov,FK Bilovec,5,0,,,,,,
+72656530,2026-10-17 12:30,SK Stonava,SK Sulko Zabreh,0,2,1.800,4.000,3.250,3,1.800,2.000
+72656532,2026-10-17 12:30,1. Bfk Frydlant Nad Ostravici,Opava B,1,4,,,,,,
+72656538,2026-10-17 12:30,Tj Valasske Mezirici,FK Bospor Bohumin,2,1,,,,,,
+72656534,2026-10-18 12:30,FK Sumperk,FK Novy Jicin,0,0,2.050,3.800,2.750,3.25,1.850,1.950
+72656536,2026-10-18 12:30,FK Frydek-Mistek B,TJ Bridlicna,4,2,2.000,4.000,2.750,3.5,1.950,1.850
+72656550,2026-10-24 08:15,TJ Bridlicna,Tj Valasske Mezirici,0,1,2.800,3.900,2.000,3.25,1.825,1.975
+72656556,2026-10-24 08:15,Opava B,FC Hlucin,1,3,2.100,3.750,2.700,3.25,1.975,1.825
+72656542,2026-10-24 12:00,FK Novy Jicin,FC Vratimov,0,1,3.600,4.000,1.700,3.25,1.925,1.875
+72656546,2026-10-25 13:00,MFK Kravare,FK Sumperk,1,1,1.727,4.000,3.500,3.25,1.975,1.825
+72656548,2026-10-25 13:00,FK Bilovec,FK Frydek-Mistek B,2,2,2.100,3.900,2.625,3.5,1.975,1.825
+72656552,2026-10-25 13:00,Pusta Polom,SK Jiskra Rymarov,2,0,,,,,,
+72656554,2026-10-25 13:00,FK Bospor Bohumin,SK Stonava,4,1,,,,,,
+72656544,2026-10-25 13:30,SK Sulko Zabreh,1. Bfk Frydlant Nad Ostravici,2,1,,,,,,
+72656572,2026-10-30 17:00,FC Hlucin,FK Sumperk,1,2,1.450,4.333,5.000,3.25,1.950,1.850
+72656558,2026-10-31 09:15,FC Vratimov,MFK Kravare,1,2,1.750,4.200,3.700,3.25,1.950,1.850
+72656560,2026-10-31 13:00,SK Jiskra Rymarov,FK Novy Jicin,2,2,,,,,,
+72656562,2026-10-31 13:00,SK Stonava,TJ Bridlicna,2,1,,,,,,
+72656564,2026-10-31 13:00,1. Bfk Frydlant Nad Ostravici,FK Bospor Bohumin,0,5,,,,,,
+72656570,2026-10-31 13:00,Tj Valasske Mezirici,FK Bilovec,2,2,,,,,,
+72656566,2026-11-01 09:15,Opava B,SK Sulko Zabreh,2,3,1.950,3.900,2.900,3.25,1.950,1.850
+72656568,2026-11-01 13:00,FK Frydek-Mistek B,Pusta Polom,1,1,1.500,4.750,4.000,3.5,1.975,1.825
+72656582,2026-11-07 09:15,TJ Bridlicna,1. Bfk Frydlant Nad Ostravici,6,2,1.480,4.750,4.500,3.5,1.950,1.850
+72656574,2026-11-07 13:00,FK Novy Jicin,FK Frydek-Mistek B,0,1,1.909,4.000,2.900,3.5,1.900,1.900
+72656586,2026-11-07 13:00,Pusta Polom,Tj Valasske Mezirici,3,2,3.000,4.200,1.850,3.25,1.800,2.000
+72656576,2026-11-08 13:00,SK Sulko Zabreh,FC Hlucin,0,4,,,,,,
+72656578,2026-11-08 13:00,MFK Kravare,SK Jiskra Rymarov,2,1,1.727,4.333,3.300,3.5,1.925,1.875
+72656580,2026-11-08 13:00,FK Bilovec,SK Stonava,3,1,2.400,3.900,2.300,3.25,1.950,1.850
+72656584,2026-11-08 13:00,FK Bospor Bohumin,Opava B,3,0,1.380,5.250,5.250,4,1.950,1.850
+72656588,2026-11-08 13:00,FK Sumperk,FC Vratimov,1,2,,,,,,

@@ -1,283 +1,283 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-56828259,2025-05-23 10:00,MFC Kremin Kremenchuk,FC Podillya Khmelnytskyi,0,2,,,
-56828261,2025-05-23 10:00,Dinaz Vyshgorod,FC Prykarpattya Ivano-Frankivsk,2,2,,,
-60922559,2025-06-04 09:00,FC Kolos Kovalivka 2,FC Podillya Khmelnytskyi,0,2,,,
-60922565,2025-06-08 09:00,FC Podillya Khmelnytskyi,FC Kolos Kovalivka 2,1,0,,,
-61021847,2025-06-12 09:00,MFC Metalurh Zaporizhya,FC Chernigiv,0,2,,,
-61840364,2025-08-08 12:00,FC Vorskla Poltava,FC Ucsa Tarasivka,3,0,,,
-61840368,2025-08-09 14:00,FC Livyi Bereh Kyiv,Probiy Gorodenka,3,1,,,
-61840372,2025-08-10 09:00,FC Metalist Kharkiv,FC Ingulets Petrove,1,2,,,
-61840378,2025-08-11 11:00,FSK Mariupol,FC Prykarpattya Ivano-Frankivsk,0,2,,,
-61840392,2025-08-15 10:00,FC Viktoriya Sumy,FC Livyi Bereh Kyiv,1,2,,,
-62493350,2025-08-16 10:00,MFC Metalurh Zaporizhya,FC Podillya Khmelnytskyi,1,1,,,
-61840382,2025-08-16 14:00,FC Chernomorets Odessa,FC Vorskla Poltava,0,0,,,
-61840394,2025-08-17 08:55,FC Prykarpattya Ivano-Frankivsk,FC Chernigiv,0,3,,,
-61840380,2025-08-17 11:00,FC Ucsa Tarasivka,FSK Mariupol,0,0,,,
-61840398,2025-08-29 10:00,FC Ucsa Tarasivka,FC Chernomorets Odessa,0,1,,,
-61840400,2025-08-29 12:30,FC Livyi Bereh Kyiv,FC Prykarpattya Ivano-Frankivsk,2,1,,,
-62493352,2025-08-30 11:00,FC Vorskla Poltava,MFC Metalurh Zaporizhya,0,1,,,
-61840404,2025-08-30 13:00,FC Metalist Kharkiv,Probiy Gorodenka,1,1,,,
-61840410,2025-08-31 09:00,FSK Mariupol,FC Chernigiv,1,0,,,
-61840406,2025-08-31 14:00,FC Niva Ternopil,Agrobiznes Volochisk,0,0,,,
-61840424,2025-09-05 10:30,FC Prykarpattya Ivano-Frankivsk,FSC Bukovyna Chernivtsi,1,2,,,
-62493356,2025-09-07 09:00,MFC Metalurh Zaporizhya,FC Ucsa Tarasivka,0,3,,,
-61840412,2025-09-07 13:00,FC Chernomorets Odessa,FSK Mariupol,2,0,,,
-61840442,2025-09-11 13:00,FSK Mariupol,FC Livyi Bereh Kyiv,1,0,,,
-61840436,2025-09-13 09:00,FC Metalist Kharkiv,FC Prykarpattya Ivano-Frankivsk,2,2,,,
-61840438,2025-09-13 11:00,FC Niva Ternopil,FC Viktoriya Sumy,2,1,,,
-62493370,2025-09-13 13:00,FC Chernomorets Odessa,MFC Metalurh Zaporizhya,3,0,,,
-61840428,2025-09-14 10:00,FC Vorskla Poltava,Agrobiznes Volochisk,0,0,,,
-61840430,2025-09-14 12:00,FC Ucsa Tarasivka,FC Ingulets Petrove,0,0,,,
-61840448,2025-09-19 10:00,Agrobiznes Volochisk,FC Ucsa Tarasivka,1,0,,,
-62493372,2025-09-21 10:00,MFC Metalurh Zaporizhya,FSK Mariupol,1,1,,,
-63769301,2025-09-25 09:00,MFC Metalurh Zaporizhya,FC Metalist Kharkiv,1,3,,,
-61840462,2025-09-27 09:00,FC Ucsa Tarasivka,Probiy Gorodenka,0,0,,,
-61840460,2025-09-27 11:00,FC Vorskla Poltava,FC Viktoriya Sumy,1,1,,,
-61840470,2025-09-28 11:30,FC Niva Ternopil,FC Chernigiv,2,0,,,
-61840464,2025-09-28 13:30,FC Chernomorets Odessa,Agrobiznes Volochisk,1,0,,,
-61840468,2025-09-29 10:00,FC Metalist Kharkiv,FC Livyi Bereh Kyiv,0,1,,,
-62493374,2025-09-29 10:45,MFC Metalurh Zaporizhya,FC Ingulets Petrove,0,0,,,
-61840474,2025-09-29 12:30,FSK Mariupol,FSC Bukovyna Chernivtsi,2,3,,,
-62493376,2025-10-04 09:30,Agrobiznes Volochisk,MFC Metalurh Zaporizhya,3,0,,,
-61840488,2025-10-04 12:30,FC Livyi Bereh Kyiv,FC Niva Ternopil,0,0,,,
-61840482,2025-10-05 09:00,FC Viktoriya Sumy,FC Ucsa Tarasivka,2,0,,,
-61840492,2025-10-08 09:00,FC Vorskla Poltava,FC Chernigiv,0,1,,,
-62493378,2025-10-08 11:00,MFC Metalurh Zaporizhya,Probiy Gorodenka,0,1,,,
-61840504,2025-10-08 12:00,FC Podillya Khmelnytskyi,FC Livyi Bereh Kyiv,0,2,,,
-61840502,2025-10-08 13:00,FC Niva Ternopil,FSC Bukovyna Chernivtsi,1,2,,,
-61840494,2025-10-09 09:00,FC Ucsa Tarasivka,FC Prykarpattya Ivano-Frankivsk,3,1,,,
-61840506,2025-10-09 10:15,FSK Mariupol,FC Metalist Kharkiv,0,1,,,
-61840518,2025-10-13 11:15,FC Livyi Bereh Kyiv,FC Vorskla Poltava,2,0,,,
-61840522,2025-10-13 12:15,FC Metalist Kharkiv,FC Niva Ternopil,1,2,,,
-61840508,2025-10-14 11:00,Agrobiznes Volochisk,FSK Mariupol,1,0,,,
-61840524,2025-10-18 09:00,FC Vorskla Poltava,FSC Bukovyna Chernivtsi,0,2,,,
-61840526,2025-10-18 12:00,FC Ucsa Tarasivka,FC Livyi Bereh Kyiv,0,1,,,
-61840534,2025-10-19 09:30,Agrobiznes Volochisk,Probiy Gorodenka,0,3,,,
-61840538,2025-10-19 11:30,FSK Mariupol,FC Niva Ternopil,0,2,,,
-61840528,2025-10-19 12:30,FC Chernomorets Odessa,FC Chernigiv,1,0,,,
-61840554,2025-10-24 12:00,FC Niva Ternopil,FC Podillya Khmelnytskyi,0,1,,,
-61840548,2025-10-26 13:00,FC Livyi Bereh Kyiv,FC Chernomorets Odessa,1,1,,,
-61840552,2025-10-26 13:00,FC Metalist Kharkiv,FC Vorskla Poltava,1,1,,,
-61840558,2025-11-02 13:00,FC Ucsa Tarasivka,FC Metalist Kharkiv,2,1,,,
-61840560,2025-11-02 13:00,FC Chernomorets Odessa,FSC Bukovyna Chernivtsi,1,2,,,
-61840566,2025-11-02 13:00,Agrobiznes Volochisk,FC Prykarpattya Ivano-Frankivsk,3,1,,,
-61840570,2025-11-02 13:00,FSK Mariupol,FC Podillya Khmelnytskyi,0,1,,,
-62493386,2025-11-02 13:00,MFC Metalurh Zaporizhya,FC Livyi Bereh Kyiv,0,5,,,
-61840620,2025-11-29 13:00,FC Vorskla Poltava,FC Chernomorets Odessa,3,0,,,
-61840624,2025-11-29 13:00,FC Livyi Bereh Kyiv,FC Viktoriya Sumy,3,0,,,
-61840626,2025-11-29 13:00,FSC Bukovyna Chernivtsi,Probiy Gorodenka,3,1,,,
-61840646,2026-03-20 10:00,FC Viktoriya Sumy,FSC Bukovyna Chernivtsi,1,3,,,
-61840642,2026-03-20 12:00,Agrobiznes Volochisk,FC Niva Ternopil,0,0,,,
-61840650,2026-03-21 08:00,FC Chernigiv,FSK Mariupol,1,4,,,
-61840648,2026-03-21 12:15,FC Prykarpattya Ivano-Frankivsk,FC Livyi Bereh Kyiv,0,0,,,
-61840636,2026-03-21 14:00,FC Chernomorets Odessa,FC Ucsa Tarasivka,1,0,,,
-62493396,2026-03-22 09:00,MFC Metalurh Zaporizhya,FC Vorskla Poltava,0,0,,,
-61840640,2026-03-22 11:00,FC Ingulets Petrove,FC Podillya Khmelnytskyi,0,0,,,
-61840644,2026-03-22 13:00,Probiy Gorodenka,FC Metalist Kharkiv,0,0,,,
-62493402,2026-03-28 10:00,FC Ucsa Tarasivka,MFC Metalurh Zaporizhya,1,3,,,
-61840660,2026-03-28 11:00,FC Metalist Kharkiv,FC Viktoriya Sumy,2,1,2.100,3.100,3.100
-61840664,2026-03-28 12:00,FC Podillya Khmelnytskyi,Agrobiznes Volochisk,0,1,,,
-61840656,2026-03-28 13:00,FC Livyi Bereh Kyiv,FC Chernigiv,1,1,,,
-61840666,2026-03-28 13:00,FSK Mariupol,FC Chernomorets Odessa,1,1,3.000,3.200,2.150
-65131116,2026-03-29 09:00,FC Chernigiv,FC Livyi Bereh Kyiv,4,0,,,
-61840652,2026-03-29 10:00,FC Vorskla Poltava,FC Ingulets Petrove,2,0,,,
-61840658,2026-03-29 11:30,FSC Bukovyna Chernivtsi,FC Prykarpattya Ivano-Frankivsk,0,0,,,
-61840662,2026-03-29 13:00,FC Niva Ternopil,Probiy Gorodenka,0,0,,,
-61840680,2026-04-03 09:00,FC Chernigiv,FSC Bukovyna Chernivtsi,0,1,,,
-61840676,2026-04-03 09:30,FC Viktoriya Sumy,FC Niva Ternopil,1,0,,,
-62493404,2026-04-03 10:00,MFC Metalurh Zaporizhya,FC Chernomorets Odessa,0,1,,,
-61840678,2026-04-03 11:00,FC Prykarpattya Ivano-Frankivsk,FC Metalist Kharkiv,0,0,,,
-61840674,2026-04-03 12:00,Probiy Gorodenka,FC Podillya Khmelnytskyi,3,0,,,
-61840682,2026-04-03 13:00,FC Livyi Bereh Kyiv,FSK Mariupol,3,1,,,
-61840670,2026-04-04 10:00,FC Ingulets Petrove,FC Ucsa Tarasivka,0,2,,,
-61840672,2026-04-04 12:00,Agrobiznes Volochisk,FC Vorskla Poltava,2,0,2.200,2.900,3.200
-61840696,2026-04-07 09:00,FC Podillya Khmelnytskyi,FC Viktoriya Sumy,1,2,,,
-61840692,2026-04-07 11:00,FC Metalist Kharkiv,FC Chernigiv,2,1,,,
-61840694,2026-04-07 14:30,FC Niva Ternopil,FC Prykarpattya Ivano-Frankivsk,1,1,,,
-61840686,2026-04-08 09:00,FC Ucsa Tarasivka,Agrobiznes Volochisk,2,1,,,
-62493410,2026-04-08 10:30,FSK Mariupol,MFC Metalurh Zaporizhya,2,1,,,
-61840684,2026-04-08 11:15,FC Vorskla Poltava,Probiy Gorodenka,0,2,,,
-61840690,2026-04-08 12:00,FSC Bukovyna Chernivtsi,FC Livyi Bereh Kyiv,2,1,,,
-61840688,2026-04-08 14:00,FC Chernomorets Odessa,FC Ingulets Petrove,2,0,,,
-61840710,2026-04-11 09:00,FC Chernigiv,FC Niva Ternopil,1,0,,,
-61840708,2026-04-11 11:30,FC Prykarpattya Ivano-Frankivsk,FC Podillya Khmelnytskyi,1,1,,,
-61840706,2026-04-12 08:00,FC Viktoriya Sumy,FC Vorskla Poltava,1,0,,,
-62493416,2026-04-12 10:00,FC Ingulets Petrove,MFC Metalurh Zaporizhya,0,0,,,
-61840714,2026-04-12 11:00,FSC Bukovyna Chernivtsi,FSK Mariupol,2,1,,,
-61840704,2026-04-12 12:00,Probiy Gorodenka,FC Ucsa Tarasivka,1,0,,,
-61840702,2026-04-12 13:00,Agrobiznes Volochisk,FC Chernomorets Odessa,1,2,,,
-61840712,2026-04-13 12:00,FC Livyi Bereh Kyiv,FC Metalist Kharkiv,3,0,1.727,3.200,4.500
-61840724,2026-04-17 11:00,FC Metalist Kharkiv,FSC Bukovyna Chernivtsi,1,2,7.500,4.333,1.333
-61840716,2026-04-18 09:00,FC Vorskla Poltava,FC Prykarpattya Ivano-Frankivsk,0,1,3.000,3.100,2.200
-61840728,2026-04-18 10:30,FC Podillya Khmelnytskyi,FC Chernigiv,0,0,,,
-61840726,2026-04-18 12:00,FC Niva Ternopil,FC Livyi Bereh Kyiv,0,0,7.000,3.700,1.420
-61840720,2026-04-18 13:30,FC Chernomorets Odessa,Probiy Gorodenka,1,0,1.444,3.800,6.250
-62493418,2026-04-19 08:00,MFC Metalurh Zaporizhya,Agrobiznes Volochisk,1,6,,,
-61840718,2026-04-19 10:00,FC Ucsa Tarasivka,FC Viktoriya Sumy,1,1,,,
-61840730,2026-04-19 12:00,FSK Mariupol,FC Ingulets Petrove,1,1,1.650,3.500,4.750
-61840742,2026-04-24 13:00,FC Livyi Bereh Kyiv,FC Podillya Khmelnytskyi,1,0,1.222,5.250,10.000
-61840738,2026-04-25 09:00,FC Prykarpattya Ivano-Frankivsk,FC Ucsa Tarasivka,1,2,,,
-62493426,2026-04-25 10:30,Probiy Gorodenka,MFC Metalurh Zaporizhya,3,1,,,
-61840746,2026-04-25 12:00,FC Metalist Kharkiv,FSK Mariupol,1,1,2.400,3.250,2.600
-61840740,2026-04-26 08:00,FC Chernigiv,FC Vorskla Poltava,1,2,,,
-61840736,2026-04-26 09:00,FC Viktoriya Sumy,FC Chernomorets Odessa,4,0,,,
-61840732,2026-04-26 10:30,Agrobiznes Volochisk,FC Ingulets Petrove,1,0,1.900,3.300,3.400
-61840744,2026-04-26 12:00,FSC Bukovyna Chernivtsi,FC Niva Ternopil,1,0,,,
-61840762,2026-05-01 12:00,FSK Mariupol,Agrobiznes Volochisk,4,0,2.250,3.200,2.800
-61840760,2026-05-02 10:30,FC Podillya Khmelnytskyi,FSC Bukovyna Chernivtsi,0,2,,,
-61840750,2026-05-02 12:00,FC Ucsa Tarasivka,FC Chernigiv,0,2,,,
-61840758,2026-05-02 13:30,FC Niva Ternopil,FC Metalist Kharkiv,2,0,,,
-61840748,2026-05-03 10:00,FC Vorskla Poltava,FC Livyi Bereh Kyiv,0,1,,,
-61840756,2026-05-03 10:00,FC Ingulets Petrove,Probiy Gorodenka,3,1,,,
-61840752,2026-05-03 12:00,FC Chernomorets Odessa,FC Prykarpattya Ivano-Frankivsk,3,0,,,
-62493428,2026-05-04 08:00,MFC Metalurh Zaporizhya,FC Viktoriya Sumy,0,3,,,
-61840772,2026-05-08 13:00,FC Livyi Bereh Kyiv,FC Ucsa Tarasivka,3,1,1.181,5.250,13.000
-61840770,2026-05-09 09:00,FC Chernigiv,FC Chernomorets Odessa,2,2,,,
-61840774,2026-05-09 10:00,FSC Bukovyna Chernivtsi,FC Vorskla Poltava,6,0,,,
-61840776,2026-05-09 11:30,FC Metalist Kharkiv,FC Podillya Khmelnytskyi,3,0,,,
-61840778,2026-05-09 13:30,FC Niva Ternopil,FSK Mariupol,0,3,4.000,3.200,1.800
-61840766,2026-05-10 08:00,FC Viktoriya Sumy,FC Ingulets Petrove,2,2,,,
-62493430,2026-05-10 10:00,FC Prykarpattya Ivano-Frankivsk,MFC Metalurh Zaporizhya,0,1,,,
-61840764,2026-05-10 12:00,Probiy Gorodenka,Agrobiznes Volochisk,1,0,,,
-62493432,2026-05-15 08:30,MFC Metalurh Zaporizhya,FC Chernigiv,0,0,,,
-61840782,2026-05-15 12:00,FC Ucsa Tarasivka,FSC Bukovyna Chernivtsi,0,5,,,
-61840790,2026-05-16 09:30,Agrobiznes Volochisk,FC Viktoriya Sumy,1,0,,,
-61840788,2026-05-16 11:00,FC Ingulets Petrove,FC Prykarpattya Ivano-Frankivsk,0,0,,,
-61840784,2026-05-16 13:30,FC Chernomorets Odessa,FC Livyi Bereh Kyiv,0,0,2.550,3.100,2.550
-61840780,2026-05-17 09:00,FC Vorskla Poltava,FC Metalist Kharkiv,1,1,,,
-61840792,2026-05-17 11:00,FC Podillya Khmelnytskyi,FC Niva Ternopil,1,2,,,
-61840794,2026-05-17 13:00,FSK Mariupol,Probiy Gorodenka,0,0,,,
-62493436,2026-05-22 10:00,FC Livyi Bereh Kyiv,MFC Metalurh Zaporizhya,4,0,,,
-61840796,2026-05-23 08:00,FC Viktoriya Sumy,Probiy Gorodenka,0,1,,,
-61840798,2026-05-23 10:00,FC Prykarpattya Ivano-Frankivsk,Agrobiznes Volochisk,1,1,2.250,2.900,3.000
-61840800,2026-05-23 10:00,FC Chernigiv,FC Ingulets Petrove,1,2,,,
-61840804,2026-05-23 10:00,FSC Bukovyna Chernivtsi,FC Chernomorets Odessa,1,3,,,
-61840806,2026-05-23 10:00,FC Metalist Kharkiv,FC Ucsa Tarasivka,2,0,1.727,3.250,4.333
-61840808,2026-05-23 10:00,FC Niva Ternopil,FC Vorskla Poltava,1,1,,,
-61840810,2026-05-23 10:00,FC Podillya Khmelnytskyi,FSK Mariupol,0,0,,,
-71639490,2026-05-26 09:00,FC Chernigiv,FC Metalist Kharkiv,1,2,2.050,3.000,3.300
-71638796,2026-05-29 08:30,MFC Metalurh Zaporizhya,FC Chernigiv,0,0,,,
-61840812,2026-05-30 10:00,FC Vorskla Poltava,FC Podillya Khmelnytskyi,1,1,,,
-61840814,2026-06-01 10:00,FC Ucsa Tarasivka,FC Niva Ternopil,3,0,,,
-61840820,2026-06-01 10:00,FC Ingulets Petrove,FC Livyi Bereh Kyiv,1,3,,,
-61840822,2026-06-01 10:00,Agrobiznes Volochisk,FC Chernigiv,0,0,,,
-61840824,2026-06-01 10:00,Probiy Gorodenka,FC Prykarpattya Ivano-Frankivsk,0,3,,,
-61840826,2026-06-01 10:00,FSK Mariupol,FC Viktoriya Sumy,2,1,,,
-71766730,2026-06-01 10:00,FC Chernomorets Odessa,FC Metalist Kharkiv,2,0,,,
-62493442,2026-06-02 10:00,MFC Metalurh Zaporizhya,FSC Bukovyna Chernivtsi,0,3,,,
-72550084,2026-07-24 11:00,FSK Mariupol,FC Viktoriya Sumy,0,1,1.950,3.250,3.400
-72550096,2026-07-24 13:00,FC Oleksandriya,FC Niva Ternopil,1,1,1.480,4.200,5.000
-72550082,2026-07-25 09:00,Agrobiznes Volochisk,SC Poltava,0,3,2.100,3.000,3.300
-72550088,2026-07-25 11:00,FC Lokomotiv Kyiv,FC Chernigiv,1,1,2.100,3.000,3.300
-72550094,2026-07-25 13:00,FC Polissya Zhytomyr 2,FC Ucsa Tarasivka,2,2,2.000,3.000,3.600
-72550086,2026-07-26 09:00,FC Kolos Kovalivka 2,FC Prykarpattya Ivano-Frankivsk,1,0,,,
-72550092,2026-07-26 11:00,Probiy Gorodenka,FC Ingulets Petrove,2,2,2.100,3.100,3.100
-72550090,2026-07-26 13:00,FC Kulykiv-Bilka,FC Metalist Kharkiv,2,1,,,
-72550098,2026-07-31 10:00,FC Ucsa Tarasivka,FC Oleksandriya,4,4,3.300,3.100,2.050
-72550110,2026-07-31 13:00,Agrobiznes Volochisk,FSK Mariupol,2,0,2.750,2.875,2.500
-72550104,2026-08-01 08:00,FC Chernigiv,FC Kulykiv-Bilka,1,1,2.350,3.200,2.700
-72550102,2026-08-01 10:00,FC Metalist Kharkiv,Probiy Gorodenka,3,1,2.150,3.250,2.900
-72550112,2026-08-01 12:30,SC Poltava,FC Niva Ternopil,1,1,2.100,3.100,3.100
-72550108,2026-08-02 08:00,FC Viktoriya Sumy,FC Kolos Kovalivka 2,2,0,1.850,3.000,4.100
-72550106,2026-08-02 11:00,FC Prykarpattya Ivano-Frankivsk,FC Lokomotiv Kyiv,2,2,,,
-72550100,2026-08-03 10:00,FC Ingulets Petrove,FC Polissya Zhytomyr 2,2,1,,,
-72550370,2026-08-07 10:00,FC Ucsa Tarasivka,FC Niva Ternopil,1,0,1.950,3.100,3.500
-72550118,2026-08-08 09:00,FC Lokomotiv Kyiv,FC Viktoriya Sumy,0,1,2.300,3.100,2.800
-72550116,2026-08-08 12:00,FC Kolos Kovalivka 2,Agrobiznes Volochisk,1,2,2.250,3.000,2.900
-72550120,2026-08-08 13:30,FC Kulykiv-Bilka,FC Prykarpattya Ivano-Frankivsk,2,1,2.750,3.100,2.350
-72550126,2026-08-08 13:30,FC Oleksandriya,FC Ingulets Petrove,3,0,,,
-72550124,2026-08-09 09:00,FC Polissya Zhytomyr 2,FC Metalist Kharkiv,0,1,1.900,2.900,3.500
-72550122,2026-08-09 11:00,Probiy Gorodenka,FC Chernigiv,1,1,,,
-72550114,2026-08-09 13:00,FSK Mariupol,SC Poltava,0,3,3.400,3.100,1.950
-72550142,2026-08-14 10:00,Agrobiznes Volochisk,FC Lokomotiv Kyiv,0,0,1.833,3.200,3.800
-72550138,2026-08-14 13:00,FC Prykarpattya Ivano-Frankivsk,Probiy Gorodenka,3,0,1.900,3.200,3.700
-72550140,2026-08-15 08:00,FC Viktoriya Sumy,FC Kulykiv-Bilka,2,1,2.250,3.000,2.900
-72550136,2026-08-15 09:00,FC Chernigiv,FC Polissya Zhytomyr 2,2,2,,,
-72550134,2026-08-15 10:00,FC Metalist Kharkiv,FC Oleksandriya,0,2,4.500,3.400,1.666
-72550130,2026-08-15 12:00,SC Poltava,FC Ucsa Tarasivka,0,0,1.950,3.200,3.500
-72550144,2026-08-16 09:00,FSK Mariupol,FC Kolos Kovalivka 2,3,1,2.000,3.200,3.300
-72550132,2026-08-16 11:00,FC Ingulets Petrove,FC Niva Ternopil,1,2,2.000,3.200,3.200
-72550148,2026-08-28 09:00,FC Lokomotiv Kyiv,FSK Mariupol,1,3,2.700,3.100,2.400
-72550146,2026-08-28 11:00,FC Kolos Kovalivka 2,SC Poltava,0,1,4.200,3.100,1.750
-72550160,2026-08-29 09:00,FC Ucsa Tarasivka,FC Ingulets Petrove,1,2,2.000,3.200,3.400
-72550154,2026-08-29 10:45,FC Polissya Zhytomyr 2,FC Prykarpattya Ivano-Frankivsk,1,2,,,
-72550156,2026-08-29 12:30,FC Oleksandriya,FC Chernigiv,1,0,,,
-72550152,2026-08-30 10:00,Probiy Gorodenka,FC Viktoriya Sumy,0,3,3.300,3.200,2.000
-72550150,2026-08-30 13:30,FC Kulykiv-Bilka,Agrobiznes Volochisk,5,1,1.900,3.200,3.800
-72550158,2026-08-30 13:45,FC Niva Ternopil,FC Metalist Kharkiv,1,1,2.350,3.100,2.700
-72550176,2026-09-04 10:00,FC Kolos Kovalivka 2,FC Lokomotiv Kyiv,1,0,2.700,3.000,2.450
-72550162,2026-09-04 12:00,SC Poltava,FC Ingulets Petrove,0,0,1.600,3.900,4.333
-72550166,2026-09-05 08:00,FC Chernigiv,FC Niva Ternopil,1,0,,,
-72550170,2026-09-05 09:00,FC Viktoriya Sumy,FC Polissya Zhytomyr 2,1,1,,,
-72550174,2026-09-05 09:30,FSK Mariupol,FC Kulykiv-Bilka,1,1,2.000,3.250,3.300
-72550164,2026-09-05 10:00,FC Metalist Kharkiv,FC Ucsa Tarasivka,3,1,1.850,3.300,3.600
-72550172,2026-09-05 11:00,Agrobiznes Volochisk,Probiy Gorodenka,6,0,1.650,3.500,4.333
-72550168,2026-09-05 12:00,FC Prykarpattya Ivano-Frankivsk,FC Oleksandriya,0,0,3.500,3.250,1.900
-72550190,2026-09-11 09:30,FC Ucsa Tarasivka,FC Chernigiv,3,2,2.300,3.100,2.800
-72550192,2026-09-12 09:00,FC Ingulets Petrove,FC Metalist Kharkiv,1,0,,,
-72550178,2026-09-12 10:30,FC Lokomotiv Kyiv,SC Poltava,2,1,3.750,3.250,1.850
-72550180,2026-09-12 12:00,FC Kulykiv-Bilka,FC Kolos Kovalivka 2,5,0,,,
-72550182,2026-09-13 10:00,Probiy Gorodenka,FSK Mariupol,0,2,3.600,3.300,1.850
-72550188,2026-09-13 12:00,FC Niva Ternopil,FC Prykarpattya Ivano-Frankivsk,1,2,2.625,3.200,2.400
-72550184,2026-09-14 10:00,FC Polissya Zhytomyr 2,Agrobiznes Volochisk,3,2,2.350,3.100,2.700
-72550186,2026-09-14 12:00,FC Oleksandriya,FC Viktoriya Sumy,1,0,1.850,3.250,3.800
-72550206,2026-09-19 09:00,FC Kolos Kovalivka 2,Probiy Gorodenka,4,2,,,
-72550194,2026-09-20 08:00,SC Poltava,FC Metalist Kharkiv,3,0,,,
-72550208,2026-09-20 09:30,FC Lokomotiv Kyiv,FC Kulykiv-Bilka,1,0,2.500,3.250,2.500
-72550198,2026-09-20 10:30,FC Prykarpattya Ivano-Frankivsk,FC Ucsa Tarasivka,1,0,,,
-72550202,2026-09-20 11:30,Agrobiznes Volochisk,FC Oleksandriya,1,0,4.200,3.500,1.700
-72550204,2026-09-20 12:30,FSK Mariupol,FC Polissya Zhytomyr 2,2,1,,,
-72550200,2026-09-21 08:00,FC Viktoriya Sumy,FC Niva Ternopil,1,3,1.571,3.600,5.500
-72550222,2026-09-26 09:00,FC Ingulets Petrove,FC Prykarpattya Ivano-Frankivsk,2,1,,,
-72550220,2026-09-26 10:00,FC Ucsa Tarasivka,FC Viktoriya Sumy,0,0,2.300,3.300,2.625
-72550212,2026-09-26 11:00,Probiy Gorodenka,FC Lokomotiv Kyiv,0,2,,,
-72550210,2026-09-26 12:30,FC Kulykiv-Bilka,SC Poltava,2,1,,,
-72550224,2026-09-27 09:00,FC Metalist Kharkiv,FC Chernigiv,2,0,2.250,3.100,2.900
-72550216,2026-09-27 11:00,FC Oleksandriya,FSK Mariupol,1,1,1.650,3.400,4.750
-72550218,2026-09-27 12:30,FC Niva Ternopil,Agrobiznes Volochisk,0,0,2.750,3.000,2.400
-72550214,2026-09-28 10:00,FC Polissya Zhytomyr 2,FC Kolos Kovalivka 2,0,3,1.833,3.600,3.300
-72550226,2026-10-02 11:00,SC Poltava,FC Chernigiv,3,2,1.850,3.250,3.700
-72550230,2026-10-03 08:00,FC Viktoriya Sumy,FC Ingulets Petrove,1,0,1.700,3.700,4.200
-72550238,2026-10-03 09:30,FC Lokomotiv Kyiv,FC Polissya Zhytomyr 2,3,3,1.600,3.800,4.750
-72550228,2026-10-03 11:30,FC Prykarpattya Ivano-Frankivsk,FC Metalist Kharkiv,0,0,2.150,3.100,3.100
-72550236,2026-10-04 09:30,FC Kolos Kovalivka 2,FC Oleksandriya,0,2,5.250,3.900,1.533
-72550232,2026-10-04 10:30,Agrobiznes Volochisk,FC Ucsa Tarasivka,3,2,1.900,3.300,3.600
-72550242,2026-10-04 12:00,FC Kulykiv-Bilka,Probiy Gorodenka,1,2,1.200,5.250,13.000
-72550234,2026-10-05 12:30,FSK Mariupol,FC Niva Ternopil,0,0,1.909,3.200,3.800
-72550256,2026-10-09 09:00,FC Metalist Kharkiv,FC Viktoriya Sumy,2,2,2.500,3.000,2.500
-72550254,2026-10-10 08:30,FC Ingulets Petrove,Agrobiznes Volochisk,0,1,,,
-72550244,2026-10-10 10:30,Probiy Gorodenka,SC Poltava,3,2,4.333,3.900,1.600
-72550252,2026-10-11 09:00,FC Ucsa Tarasivka,FSK Mariupol,1,2,4.000,3.400,1.750
-72550498,2026-10-11 09:30,FC Prykarpattya Ivano-Frankivsk,FC Chernigiv,0,1,1.833,3.200,4.100
-72550248,2026-10-11 10:00,FC Oleksandriya,FC Lokomotiv Kyiv,1,3,1.533,3.700,5.250
-72550250,2026-10-11 12:00,FC Niva Ternopil,FC Kolos Kovalivka 2,3,1,1.727,3.400,4.100
-72550246,2026-10-12 11:00,FC Polissya Zhytomyr 2,FC Kulykiv-Bilka,2,4,2.875,3.200,2.200
-72550262,2026-10-17 08:00,FC Viktoriya Sumy,FC Chernigiv,2,1,1.750,3.400,4.000
-72550264,2026-10-17 08:30,Agrobiznes Volochisk,FC Metalist Kharkiv,1,0,1.800,3.000,4.333
-72550268,2026-10-17 09:00,FC Kolos Kovalivka 2,FC Ucsa Tarasivka,0,0,,,
-72550266,2026-10-17 10:00,FSK Mariupol,FC Ingulets Petrove,4,1,,,
-72550260,2026-10-17 11:00,SC Poltava,FC Prykarpattya Ivano-Frankivsk,4,0,,,
-72550270,2026-10-18 09:00,FC Lokomotiv Kyiv,FC Niva Ternopil,0,0,,,
-72550272,2026-10-18 10:00,FC Kulykiv-Bilka,FC Oleksandriya,1,1,,,
-72550274,2026-10-18 11:00,Probiy Gorodenka,FC Polissya Zhytomyr 2,1,1,,,
-72550280,2026-10-23 10:00,FC Metalist Kharkiv,FSK Mariupol,0,2,3.100,3.000,2.200
-72550288,2026-10-24 09:00,FC Oleksandriya,Probiy Gorodenka,2,0,1.333,4.333,7.500
-72550284,2026-10-24 10:00,FC Prykarpattya Ivano-Frankivsk,FC Viktoriya Sumy,1,1,3.000,3.000,2.200
-72550286,2026-10-24 11:00,FC Polissya Zhytomyr 2,SC Poltava,1,2,,,
-72550276,2026-10-25 10:00,FC Ucsa Tarasivka,FC Lokomotiv Kyiv,3,2,2.875,3.200,2.250
-72550278,2026-10-25 11:00,FC Ingulets Petrove,FC Kolos Kovalivka 2,2,0,,,
-72550290,2026-10-25 12:30,FC Niva Ternopil,FC Kulykiv-Bilka,3,1,2.600,3.200,2.400
-72550294,2026-10-30 10:00,Agrobiznes Volochisk,FC Prykarpattya Ivano-Frankivsk,3,0,2.450,3.100,2.600
-72550300,2026-10-31 09:30,FC Lokomotiv Kyiv,FC Ingulets Petrove,2,1,1.833,3.500,3.600
-72550532,2026-10-31 10:00,FC Viktoriya Sumy,SC Poltava,2,1,,,
-72550536,2026-11-01 09:00,FSK Mariupol,FC Chernigiv,3,1,,,
-72550302,2026-11-01 10:00,FC Kulykiv-Bilka,FC Ucsa Tarasivka,2,0,,,
-72550304,2026-11-01 11:30,Probiy Gorodenka,FC Niva Ternopil,2,2,,,
-72550306,2026-11-02 11:30,FC Polissya Zhytomyr 2,FC Oleksandriya,0,0,2.800,3.300,2.150
-72550314,2026-11-06 09:30,FC Ingulets Petrove,FC Kulykiv-Bilka,1,1,3.100,3.400,2.000
-72550316,2026-11-07 10:00,FC Metalist Kharkiv,FC Lokomotiv Kyiv,4,2,2.000,3.250,3.200
-72550320,2026-11-07 11:00,FC Prykarpattya Ivano-Frankivsk,FSK Mariupol,1,1,2.900,3.100,2.200
-72550310,2026-11-07 12:00,FC Niva Ternopil,FC Polissya Zhytomyr 2,4,2,1.666,3.500,4.333
-72550312,2026-11-08 10:00,FC Ucsa Tarasivka,Probiy Gorodenka,1,1,,,
-72550308,2026-11-08 11:00,FC Oleksandriya,SC Poltava,1,0,1.750,3.400,3.800
-72550322,2026-11-09 09:00,FC Viktoriya Sumy,Agrobiznes Volochisk,2,0,2.000,2.900,3.750
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+56828259,2025-05-23 10:00,MFC Kremin Kremenchuk,FC Podillya Khmelnytskyi,0,2,,,,,,
+56828261,2025-05-23 10:00,Dinaz Vyshgorod,FC Prykarpattya Ivano-Frankivsk,2,2,,,,,,
+60922559,2025-06-04 09:00,FC Kolos Kovalivka 2,FC Podillya Khmelnytskyi,0,2,,,,,,
+60922565,2025-06-08 09:00,FC Podillya Khmelnytskyi,FC Kolos Kovalivka 2,1,0,,,,,,
+61021847,2025-06-12 09:00,MFC Metalurh Zaporizhya,FC Chernigiv,0,2,,,,,,
+61840364,2025-08-08 12:00,FC Vorskla Poltava,FC Ucsa Tarasivka,3,0,,,,,,
+61840368,2025-08-09 14:00,FC Livyi Bereh Kyiv,Probiy Gorodenka,3,1,,,,,,
+61840372,2025-08-10 09:00,FC Metalist Kharkiv,FC Ingulets Petrove,1,2,,,,,,
+61840378,2025-08-11 11:00,FSK Mariupol,FC Prykarpattya Ivano-Frankivsk,0,2,,,,,,
+61840392,2025-08-15 10:00,FC Viktoriya Sumy,FC Livyi Bereh Kyiv,1,2,,,,,,
+62493350,2025-08-16 10:00,MFC Metalurh Zaporizhya,FC Podillya Khmelnytskyi,1,1,,,,,,
+61840382,2025-08-16 14:00,FC Chernomorets Odessa,FC Vorskla Poltava,0,0,,,,,,
+61840394,2025-08-17 08:55,FC Prykarpattya Ivano-Frankivsk,FC Chernigiv,0,3,,,,,,
+61840380,2025-08-17 11:00,FC Ucsa Tarasivka,FSK Mariupol,0,0,,,,,,
+61840398,2025-08-29 10:00,FC Ucsa Tarasivka,FC Chernomorets Odessa,0,1,,,,,,
+61840400,2025-08-29 12:30,FC Livyi Bereh Kyiv,FC Prykarpattya Ivano-Frankivsk,2,1,,,,,,
+62493352,2025-08-30 11:00,FC Vorskla Poltava,MFC Metalurh Zaporizhya,0,1,,,,,,
+61840404,2025-08-30 13:00,FC Metalist Kharkiv,Probiy Gorodenka,1,1,,,,,,
+61840410,2025-08-31 09:00,FSK Mariupol,FC Chernigiv,1,0,,,,,,
+61840406,2025-08-31 14:00,FC Niva Ternopil,Agrobiznes Volochisk,0,0,,,,,,
+61840424,2025-09-05 10:30,FC Prykarpattya Ivano-Frankivsk,FSC Bukovyna Chernivtsi,1,2,,,,,,
+62493356,2025-09-07 09:00,MFC Metalurh Zaporizhya,FC Ucsa Tarasivka,0,3,,,,,,
+61840412,2025-09-07 13:00,FC Chernomorets Odessa,FSK Mariupol,2,0,,,,,,
+61840442,2025-09-11 13:00,FSK Mariupol,FC Livyi Bereh Kyiv,1,0,,,,,,
+61840436,2025-09-13 09:00,FC Metalist Kharkiv,FC Prykarpattya Ivano-Frankivsk,2,2,,,,,,
+61840438,2025-09-13 11:00,FC Niva Ternopil,FC Viktoriya Sumy,2,1,,,,,,
+62493370,2025-09-13 13:00,FC Chernomorets Odessa,MFC Metalurh Zaporizhya,3,0,,,,,,
+61840428,2025-09-14 10:00,FC Vorskla Poltava,Agrobiznes Volochisk,0,0,,,,,,
+61840430,2025-09-14 12:00,FC Ucsa Tarasivka,FC Ingulets Petrove,0,0,,,,,,
+61840448,2025-09-19 10:00,Agrobiznes Volochisk,FC Ucsa Tarasivka,1,0,,,,,,
+62493372,2025-09-21 10:00,MFC Metalurh Zaporizhya,FSK Mariupol,1,1,,,,,,
+63769301,2025-09-25 09:00,MFC Metalurh Zaporizhya,FC Metalist Kharkiv,1,3,,,,,,
+61840462,2025-09-27 09:00,FC Ucsa Tarasivka,Probiy Gorodenka,0,0,,,,,,
+61840460,2025-09-27 11:00,FC Vorskla Poltava,FC Viktoriya Sumy,1,1,,,,,,
+61840470,2025-09-28 11:30,FC Niva Ternopil,FC Chernigiv,2,0,,,,,,
+61840464,2025-09-28 13:30,FC Chernomorets Odessa,Agrobiznes Volochisk,1,0,,,,,,
+61840468,2025-09-29 10:00,FC Metalist Kharkiv,FC Livyi Bereh Kyiv,0,1,,,,,,
+62493374,2025-09-29 10:45,MFC Metalurh Zaporizhya,FC Ingulets Petrove,0,0,,,,,,
+61840474,2025-09-29 12:30,FSK Mariupol,FSC Bukovyna Chernivtsi,2,3,,,,,,
+62493376,2025-10-04 09:30,Agrobiznes Volochisk,MFC Metalurh Zaporizhya,3,0,,,,,,
+61840488,2025-10-04 12:30,FC Livyi Bereh Kyiv,FC Niva Ternopil,0,0,,,,,,
+61840482,2025-10-05 09:00,FC Viktoriya Sumy,FC Ucsa Tarasivka,2,0,,,,,,
+61840492,2025-10-08 09:00,FC Vorskla Poltava,FC Chernigiv,0,1,,,,,,
+62493378,2025-10-08 11:00,MFC Metalurh Zaporizhya,Probiy Gorodenka,0,1,,,,,,
+61840504,2025-10-08 12:00,FC Podillya Khmelnytskyi,FC Livyi Bereh Kyiv,0,2,,,,,,
+61840502,2025-10-08 13:00,FC Niva Ternopil,FSC Bukovyna Chernivtsi,1,2,,,,,,
+61840494,2025-10-09 09:00,FC Ucsa Tarasivka,FC Prykarpattya Ivano-Frankivsk,3,1,,,,,,
+61840506,2025-10-09 10:15,FSK Mariupol,FC Metalist Kharkiv,0,1,,,,,,
+61840518,2025-10-13 11:15,FC Livyi Bereh Kyiv,FC Vorskla Poltava,2,0,,,,,,
+61840522,2025-10-13 12:15,FC Metalist Kharkiv,FC Niva Ternopil,1,2,,,,,,
+61840508,2025-10-14 11:00,Agrobiznes Volochisk,FSK Mariupol,1,0,,,,,,
+61840524,2025-10-18 09:00,FC Vorskla Poltava,FSC Bukovyna Chernivtsi,0,2,,,,,,
+61840526,2025-10-18 12:00,FC Ucsa Tarasivka,FC Livyi Bereh Kyiv,0,1,,,,,,
+61840534,2025-10-19 09:30,Agrobiznes Volochisk,Probiy Gorodenka,0,3,,,,,,
+61840538,2025-10-19 11:30,FSK Mariupol,FC Niva Ternopil,0,2,,,,,,
+61840528,2025-10-19 12:30,FC Chernomorets Odessa,FC Chernigiv,1,0,,,,,,
+61840554,2025-10-24 12:00,FC Niva Ternopil,FC Podillya Khmelnytskyi,0,1,,,,,,
+61840548,2025-10-26 13:00,FC Livyi Bereh Kyiv,FC Chernomorets Odessa,1,1,,,,,,
+61840552,2025-10-26 13:00,FC Metalist Kharkiv,FC Vorskla Poltava,1,1,,,,,,
+61840558,2025-11-02 13:00,FC Ucsa Tarasivka,FC Metalist Kharkiv,2,1,,,,,,
+61840560,2025-11-02 13:00,FC Chernomorets Odessa,FSC Bukovyna Chernivtsi,1,2,,,,,,
+61840566,2025-11-02 13:00,Agrobiznes Volochisk,FC Prykarpattya Ivano-Frankivsk,3,1,,,,,,
+61840570,2025-11-02 13:00,FSK Mariupol,FC Podillya Khmelnytskyi,0,1,,,,,,
+62493386,2025-11-02 13:00,MFC Metalurh Zaporizhya,FC Livyi Bereh Kyiv,0,5,,,,,,
+61840620,2025-11-29 13:00,FC Vorskla Poltava,FC Chernomorets Odessa,3,0,,,,,,
+61840624,2025-11-29 13:00,FC Livyi Bereh Kyiv,FC Viktoriya Sumy,3,0,,,,,,
+61840626,2025-11-29 13:00,FSC Bukovyna Chernivtsi,Probiy Gorodenka,3,1,,,,,,
+61840646,2026-03-20 10:00,FC Viktoriya Sumy,FSC Bukovyna Chernivtsi,1,3,,,,,,
+61840642,2026-03-20 12:00,Agrobiznes Volochisk,FC Niva Ternopil,0,0,,,,,,
+61840650,2026-03-21 08:00,FC Chernigiv,FSK Mariupol,1,4,,,,,,
+61840648,2026-03-21 12:15,FC Prykarpattya Ivano-Frankivsk,FC Livyi Bereh Kyiv,0,0,,,,,,
+61840636,2026-03-21 14:00,FC Chernomorets Odessa,FC Ucsa Tarasivka,1,0,,,,,,
+62493396,2026-03-22 09:00,MFC Metalurh Zaporizhya,FC Vorskla Poltava,0,0,,,,,,
+61840640,2026-03-22 11:00,FC Ingulets Petrove,FC Podillya Khmelnytskyi,0,0,,,,,,
+61840644,2026-03-22 13:00,Probiy Gorodenka,FC Metalist Kharkiv,0,0,,,,,,
+62493402,2026-03-28 10:00,FC Ucsa Tarasivka,MFC Metalurh Zaporizhya,1,3,,,,,,
+61840660,2026-03-28 11:00,FC Metalist Kharkiv,FC Viktoriya Sumy,2,1,2.100,3.100,3.100,2.25,2.025,1.775
+61840664,2026-03-28 12:00,FC Podillya Khmelnytskyi,Agrobiznes Volochisk,0,1,,,,,,
+61840656,2026-03-28 13:00,FC Livyi Bereh Kyiv,FC Chernigiv,1,1,,,,,,
+61840666,2026-03-28 13:00,FSK Mariupol,FC Chernomorets Odessa,1,1,3.000,3.200,2.150,2.25,1.975,1.825
+65131116,2026-03-29 09:00,FC Chernigiv,FC Livyi Bereh Kyiv,4,0,,,,,,
+61840652,2026-03-29 10:00,FC Vorskla Poltava,FC Ingulets Petrove,2,0,,,,,,
+61840658,2026-03-29 11:30,FSC Bukovyna Chernivtsi,FC Prykarpattya Ivano-Frankivsk,0,0,,,,,,
+61840662,2026-03-29 13:00,FC Niva Ternopil,Probiy Gorodenka,0,0,,,,,,
+61840680,2026-04-03 09:00,FC Chernigiv,FSC Bukovyna Chernivtsi,0,1,,,,,,
+61840676,2026-04-03 09:30,FC Viktoriya Sumy,FC Niva Ternopil,1,0,,,,,,
+62493404,2026-04-03 10:00,MFC Metalurh Zaporizhya,FC Chernomorets Odessa,0,1,,,,,,
+61840678,2026-04-03 11:00,FC Prykarpattya Ivano-Frankivsk,FC Metalist Kharkiv,0,0,,,,,,
+61840674,2026-04-03 12:00,Probiy Gorodenka,FC Podillya Khmelnytskyi,3,0,,,,,,
+61840682,2026-04-03 13:00,FC Livyi Bereh Kyiv,FSK Mariupol,3,1,,,,,,
+61840670,2026-04-04 10:00,FC Ingulets Petrove,FC Ucsa Tarasivka,0,2,,,,,,
+61840672,2026-04-04 12:00,Agrobiznes Volochisk,FC Vorskla Poltava,2,0,2.200,2.900,3.200,1.75,1.750,2.050
+61840696,2026-04-07 09:00,FC Podillya Khmelnytskyi,FC Viktoriya Sumy,1,2,,,,,,
+61840692,2026-04-07 11:00,FC Metalist Kharkiv,FC Chernigiv,2,1,,,,,,
+61840694,2026-04-07 14:30,FC Niva Ternopil,FC Prykarpattya Ivano-Frankivsk,1,1,,,,,,
+61840686,2026-04-08 09:00,FC Ucsa Tarasivka,Agrobiznes Volochisk,2,1,,,,,,
+62493410,2026-04-08 10:30,FSK Mariupol,MFC Metalurh Zaporizhya,2,1,,,,,,
+61840684,2026-04-08 11:15,FC Vorskla Poltava,Probiy Gorodenka,0,2,,,,,,
+61840690,2026-04-08 12:00,FSC Bukovyna Chernivtsi,FC Livyi Bereh Kyiv,2,1,,,,,,
+61840688,2026-04-08 14:00,FC Chernomorets Odessa,FC Ingulets Petrove,2,0,,,,,,
+61840710,2026-04-11 09:00,FC Chernigiv,FC Niva Ternopil,1,0,,,,,,
+61840708,2026-04-11 11:30,FC Prykarpattya Ivano-Frankivsk,FC Podillya Khmelnytskyi,1,1,,,,,,
+61840706,2026-04-12 08:00,FC Viktoriya Sumy,FC Vorskla Poltava,1,0,,,,,,
+62493416,2026-04-12 10:00,FC Ingulets Petrove,MFC Metalurh Zaporizhya,0,0,,,,,,
+61840714,2026-04-12 11:00,FSC Bukovyna Chernivtsi,FSK Mariupol,2,1,,,,,,
+61840704,2026-04-12 12:00,Probiy Gorodenka,FC Ucsa Tarasivka,1,0,,,,,,
+61840702,2026-04-12 13:00,Agrobiznes Volochisk,FC Chernomorets Odessa,1,2,,,,,,
+61840712,2026-04-13 12:00,FC Livyi Bereh Kyiv,FC Metalist Kharkiv,3,0,1.727,3.200,4.500,2.25,1.975,1.825
+61840724,2026-04-17 11:00,FC Metalist Kharkiv,FSC Bukovyna Chernivtsi,1,2,7.500,4.333,1.333,2.25,1.875,1.925
+61840716,2026-04-18 09:00,FC Vorskla Poltava,FC Prykarpattya Ivano-Frankivsk,0,1,3.000,3.100,2.200,2,1.800,2.000
+61840728,2026-04-18 10:30,FC Podillya Khmelnytskyi,FC Chernigiv,0,0,,,,,,
+61840726,2026-04-18 12:00,FC Niva Ternopil,FC Livyi Bereh Kyiv,0,0,7.000,3.700,1.420,2.25,1.900,1.900
+61840720,2026-04-18 13:30,FC Chernomorets Odessa,Probiy Gorodenka,1,0,1.444,3.800,6.250,2.5,2.000,1.800
+62493418,2026-04-19 08:00,MFC Metalurh Zaporizhya,Agrobiznes Volochisk,1,6,,,,,,
+61840718,2026-04-19 10:00,FC Ucsa Tarasivka,FC Viktoriya Sumy,1,1,,,,,,
+61840730,2026-04-19 12:00,FSK Mariupol,FC Ingulets Petrove,1,1,1.650,3.500,4.750,2,1.750,2.050
+61840742,2026-04-24 13:00,FC Livyi Bereh Kyiv,FC Podillya Khmelnytskyi,1,0,1.222,5.250,10.000,2.75,1.975,1.825
+61840738,2026-04-25 09:00,FC Prykarpattya Ivano-Frankivsk,FC Ucsa Tarasivka,1,2,,,,,,
+62493426,2026-04-25 10:30,Probiy Gorodenka,MFC Metalurh Zaporizhya,3,1,,,,,,
+61840746,2026-04-25 12:00,FC Metalist Kharkiv,FSK Mariupol,1,1,2.400,3.250,2.600,2,1.850,1.950
+61840740,2026-04-26 08:00,FC Chernigiv,FC Vorskla Poltava,1,2,,,,,,
+61840736,2026-04-26 09:00,FC Viktoriya Sumy,FC Chernomorets Odessa,4,0,,,,,,
+61840732,2026-04-26 10:30,Agrobiznes Volochisk,FC Ingulets Petrove,1,0,1.900,3.300,3.400,2,1.850,1.950
+61840744,2026-04-26 12:00,FSC Bukovyna Chernivtsi,FC Niva Ternopil,1,0,,,,,,
+61840762,2026-05-01 12:00,FSK Mariupol,Agrobiznes Volochisk,4,0,2.250,3.200,2.800,2,2.025,1.775
+61840760,2026-05-02 10:30,FC Podillya Khmelnytskyi,FSC Bukovyna Chernivtsi,0,2,,,,,,
+61840750,2026-05-02 12:00,FC Ucsa Tarasivka,FC Chernigiv,0,2,,,,,,
+61840758,2026-05-02 13:30,FC Niva Ternopil,FC Metalist Kharkiv,2,0,,,,,,
+61840748,2026-05-03 10:00,FC Vorskla Poltava,FC Livyi Bereh Kyiv,0,1,,,,,,
+61840756,2026-05-03 10:00,FC Ingulets Petrove,Probiy Gorodenka,3,1,,,,,,
+61840752,2026-05-03 12:00,FC Chernomorets Odessa,FC Prykarpattya Ivano-Frankivsk,3,0,,,,,,
+62493428,2026-05-04 08:00,MFC Metalurh Zaporizhya,FC Viktoriya Sumy,0,3,,,,,,
+61840772,2026-05-08 13:00,FC Livyi Bereh Kyiv,FC Ucsa Tarasivka,3,1,1.181,5.250,13.000,2.5,1.825,1.975
+61840770,2026-05-09 09:00,FC Chernigiv,FC Chernomorets Odessa,2,2,,,,,,
+61840774,2026-05-09 10:00,FSC Bukovyna Chernivtsi,FC Vorskla Poltava,6,0,,,,,,
+61840776,2026-05-09 11:30,FC Metalist Kharkiv,FC Podillya Khmelnytskyi,3,0,,,,,,
+61840778,2026-05-09 13:30,FC Niva Ternopil,FSK Mariupol,0,3,4.000,3.200,1.800,2,1.850,1.950
+61840766,2026-05-10 08:00,FC Viktoriya Sumy,FC Ingulets Petrove,2,2,,,,,,
+62493430,2026-05-10 10:00,FC Prykarpattya Ivano-Frankivsk,MFC Metalurh Zaporizhya,0,1,,,,,,
+61840764,2026-05-10 12:00,Probiy Gorodenka,Agrobiznes Volochisk,1,0,,,,,,
+62493432,2026-05-15 08:30,MFC Metalurh Zaporizhya,FC Chernigiv,0,0,,,,,,
+61840782,2026-05-15 12:00,FC Ucsa Tarasivka,FSC Bukovyna Chernivtsi,0,5,,,,,,
+61840790,2026-05-16 09:30,Agrobiznes Volochisk,FC Viktoriya Sumy,1,0,,,,,,
+61840788,2026-05-16 11:00,FC Ingulets Petrove,FC Prykarpattya Ivano-Frankivsk,0,0,,,,,,
+61840784,2026-05-16 13:30,FC Chernomorets Odessa,FC Livyi Bereh Kyiv,0,0,2.550,3.100,2.550,2,1.775,2.025
+61840780,2026-05-17 09:00,FC Vorskla Poltava,FC Metalist Kharkiv,1,1,,,,,,
+61840792,2026-05-17 11:00,FC Podillya Khmelnytskyi,FC Niva Ternopil,1,2,,,,,,
+61840794,2026-05-17 13:00,FSK Mariupol,Probiy Gorodenka,0,0,,,,,,
+62493436,2026-05-22 10:00,FC Livyi Bereh Kyiv,MFC Metalurh Zaporizhya,4,0,,,,,,
+61840796,2026-05-23 08:00,FC Viktoriya Sumy,Probiy Gorodenka,0,1,,,,,,
+61840798,2026-05-23 10:00,FC Prykarpattya Ivano-Frankivsk,Agrobiznes Volochisk,1,1,2.250,2.900,3.000,2,1.975,1.825
+61840800,2026-05-23 10:00,FC Chernigiv,FC Ingulets Petrove,1,2,,,,,,
+61840804,2026-05-23 10:00,FSC Bukovyna Chernivtsi,FC Chernomorets Odessa,1,3,,,,,,
+61840806,2026-05-23 10:00,FC Metalist Kharkiv,FC Ucsa Tarasivka,2,0,1.727,3.250,4.333,2.25,1.975,1.825
+61840808,2026-05-23 10:00,FC Niva Ternopil,FC Vorskla Poltava,1,1,,,,,,
+61840810,2026-05-23 10:00,FC Podillya Khmelnytskyi,FSK Mariupol,0,0,,,,,,
+71639490,2026-05-26 09:00,FC Chernigiv,FC Metalist Kharkiv,1,2,2.050,3.000,3.300,2,1.800,2.000
+71638796,2026-05-29 08:30,MFC Metalurh Zaporizhya,FC Chernigiv,0,0,,,,,,
+61840812,2026-05-30 10:00,FC Vorskla Poltava,FC Podillya Khmelnytskyi,1,1,,,,,,
+61840814,2026-06-01 10:00,FC Ucsa Tarasivka,FC Niva Ternopil,3,0,,,,,,
+61840820,2026-06-01 10:00,FC Ingulets Petrove,FC Livyi Bereh Kyiv,1,3,,,,,,
+61840822,2026-06-01 10:00,Agrobiznes Volochisk,FC Chernigiv,0,0,,,,,,
+61840824,2026-06-01 10:00,Probiy Gorodenka,FC Prykarpattya Ivano-Frankivsk,0,3,,,,,,
+61840826,2026-06-01 10:00,FSK Mariupol,FC Viktoriya Sumy,2,1,,,,,,
+71766730,2026-06-01 10:00,FC Chernomorets Odessa,FC Metalist Kharkiv,2,0,,,,,,
+62493442,2026-06-02 10:00,MFC Metalurh Zaporizhya,FSC Bukovyna Chernivtsi,0,3,,,,,,
+72550084,2026-07-24 11:00,FSK Mariupol,FC Viktoriya Sumy,0,1,1.950,3.250,3.400,2.25,2.000,1.800
+72550096,2026-07-24 13:00,FC Oleksandriya,FC Niva Ternopil,1,1,1.480,4.200,5.000,2.25,1.950,1.850
+72550082,2026-07-25 09:00,Agrobiznes Volochisk,SC Poltava,0,3,2.100,3.000,3.300,2.25,1.900,1.900
+72550088,2026-07-25 11:00,FC Lokomotiv Kyiv,FC Chernigiv,1,1,2.100,3.000,3.300,2.25,2.050,1.750
+72550094,2026-07-25 13:00,FC Polissya Zhytomyr 2,FC Ucsa Tarasivka,2,2,2.000,3.000,3.600,2.25,1.975,1.825
+72550086,2026-07-26 09:00,FC Kolos Kovalivka 2,FC Prykarpattya Ivano-Frankivsk,1,0,,,,,,
+72550092,2026-07-26 11:00,Probiy Gorodenka,FC Ingulets Petrove,2,2,2.100,3.100,3.100,2.25,1.900,1.900
+72550090,2026-07-26 13:00,FC Kulykiv-Bilka,FC Metalist Kharkiv,2,1,,,,,,
+72550098,2026-07-31 10:00,FC Ucsa Tarasivka,FC Oleksandriya,4,4,3.300,3.100,2.050,2.25,1.975,1.825
+72550110,2026-07-31 13:00,Agrobiznes Volochisk,FSK Mariupol,2,0,2.750,2.875,2.500,2,1.850,1.950
+72550104,2026-08-01 08:00,FC Chernigiv,FC Kulykiv-Bilka,1,1,2.350,3.200,2.700,2.25,1.950,1.850
+72550102,2026-08-01 10:00,FC Metalist Kharkiv,Probiy Gorodenka,3,1,2.150,3.250,2.900,2,1.850,1.950
+72550112,2026-08-01 12:30,SC Poltava,FC Niva Ternopil,1,1,2.100,3.100,3.100,2.25,1.975,1.825
+72550108,2026-08-02 08:00,FC Viktoriya Sumy,FC Kolos Kovalivka 2,2,0,1.850,3.000,4.100,2,1.775,2.025
+72550106,2026-08-02 11:00,FC Prykarpattya Ivano-Frankivsk,FC Lokomotiv Kyiv,2,2,,,,,,
+72550100,2026-08-03 10:00,FC Ingulets Petrove,FC Polissya Zhytomyr 2,2,1,,,,,,
+72550370,2026-08-07 10:00,FC Ucsa Tarasivka,FC Niva Ternopil,1,0,1.950,3.100,3.500,2.25,1.775,2.025
+72550118,2026-08-08 09:00,FC Lokomotiv Kyiv,FC Viktoriya Sumy,0,1,2.300,3.100,2.800,2,1.775,2.025
+72550116,2026-08-08 12:00,FC Kolos Kovalivka 2,Agrobiznes Volochisk,1,2,2.250,3.000,2.900,2,1.800,2.000
+72550120,2026-08-08 13:30,FC Kulykiv-Bilka,FC Prykarpattya Ivano-Frankivsk,2,1,2.750,3.100,2.350,2.25,2.025,1.775
+72550126,2026-08-08 13:30,FC Oleksandriya,FC Ingulets Petrove,3,0,,,,,,
+72550124,2026-08-09 09:00,FC Polissya Zhytomyr 2,FC Metalist Kharkiv,0,1,1.900,2.900,3.500,2.25,1.850,1.950
+72550122,2026-08-09 11:00,Probiy Gorodenka,FC Chernigiv,1,1,,,,,,
+72550114,2026-08-09 13:00,FSK Mariupol,SC Poltava,0,3,3.400,3.100,1.950,2.25,1.825,1.975
+72550142,2026-08-14 10:00,Agrobiznes Volochisk,FC Lokomotiv Kyiv,0,0,1.833,3.200,3.800,2,1.850,1.950
+72550138,2026-08-14 13:00,FC Prykarpattya Ivano-Frankivsk,Probiy Gorodenka,3,0,1.900,3.200,3.700,2.25,1.800,2.000
+72550140,2026-08-15 08:00,FC Viktoriya Sumy,FC Kulykiv-Bilka,2,1,2.250,3.000,2.900,2,1.750,2.050
+72550136,2026-08-15 09:00,FC Chernigiv,FC Polissya Zhytomyr 2,2,2,,,,,,
+72550134,2026-08-15 10:00,FC Metalist Kharkiv,FC Oleksandriya,0,2,4.500,3.400,1.666,2.25,1.800,2.000
+72550130,2026-08-15 12:00,SC Poltava,FC Ucsa Tarasivka,0,0,1.950,3.200,3.500,2.5,1.950,1.850
+72550144,2026-08-16 09:00,FSK Mariupol,FC Kolos Kovalivka 2,3,1,2.000,3.200,3.300,2.25,1.900,1.900
+72550132,2026-08-16 11:00,FC Ingulets Petrove,FC Niva Ternopil,1,2,2.000,3.200,3.200,2.25,2.000,1.800
+72550148,2026-08-28 09:00,FC Lokomotiv Kyiv,FSK Mariupol,1,3,2.700,3.100,2.400,2.25,1.875,1.925
+72550146,2026-08-28 11:00,FC Kolos Kovalivka 2,SC Poltava,0,1,4.200,3.100,1.750,2.25,1.975,1.825
+72550160,2026-08-29 09:00,FC Ucsa Tarasivka,FC Ingulets Petrove,1,2,2.000,3.200,3.400,2.5,1.925,1.875
+72550154,2026-08-29 10:45,FC Polissya Zhytomyr 2,FC Prykarpattya Ivano-Frankivsk,1,2,,,,,,
+72550156,2026-08-29 12:30,FC Oleksandriya,FC Chernigiv,1,0,,,,,,
+72550152,2026-08-30 10:00,Probiy Gorodenka,FC Viktoriya Sumy,0,3,3.300,3.200,2.000,2.25,1.950,1.850
+72550150,2026-08-30 13:30,FC Kulykiv-Bilka,Agrobiznes Volochisk,5,1,1.900,3.200,3.800,2.25,2.000,1.800
+72550158,2026-08-30 13:45,FC Niva Ternopil,FC Metalist Kharkiv,1,1,2.350,3.100,2.700,2,1.775,2.025
+72550176,2026-09-04 10:00,FC Kolos Kovalivka 2,FC Lokomotiv Kyiv,1,0,2.700,3.000,2.450,2,1.800,2.000
+72550162,2026-09-04 12:00,SC Poltava,FC Ingulets Petrove,0,0,1.600,3.900,4.333,2.75,1.850,1.950
+72550166,2026-09-05 08:00,FC Chernigiv,FC Niva Ternopil,1,0,,,,,,
+72550170,2026-09-05 09:00,FC Viktoriya Sumy,FC Polissya Zhytomyr 2,1,1,,,,,,
+72550174,2026-09-05 09:30,FSK Mariupol,FC Kulykiv-Bilka,1,1,2.000,3.250,3.300,2.25,1.900,1.900
+72550164,2026-09-05 10:00,FC Metalist Kharkiv,FC Ucsa Tarasivka,3,1,1.850,3.300,3.600,2.25,1.925,1.875
+72550172,2026-09-05 11:00,Agrobiznes Volochisk,Probiy Gorodenka,6,0,1.650,3.500,4.333,2.25,1.825,1.975
+72550168,2026-09-05 12:00,FC Prykarpattya Ivano-Frankivsk,FC Oleksandriya,0,0,3.500,3.250,1.900,2.25,1.850,1.950
+72550190,2026-09-11 09:30,FC Ucsa Tarasivka,FC Chernigiv,3,2,2.300,3.100,2.800,2.25,1.900,1.900
+72550192,2026-09-12 09:00,FC Ingulets Petrove,FC Metalist Kharkiv,1,0,,,,,,
+72550178,2026-09-12 10:30,FC Lokomotiv Kyiv,SC Poltava,2,1,3.750,3.250,1.850,2.25,2.050,1.750
+72550180,2026-09-12 12:00,FC Kulykiv-Bilka,FC Kolos Kovalivka 2,5,0,,,,,,
+72550182,2026-09-13 10:00,Probiy Gorodenka,FSK Mariupol,0,2,3.600,3.300,1.850,2.25,1.825,1.975
+72550188,2026-09-13 12:00,FC Niva Ternopil,FC Prykarpattya Ivano-Frankivsk,1,2,2.625,3.200,2.400,2,1.800,2.000
+72550184,2026-09-14 10:00,FC Polissya Zhytomyr 2,Agrobiznes Volochisk,3,2,2.350,3.100,2.700,2.5,1.900,1.900
+72550186,2026-09-14 12:00,FC Oleksandriya,FC Viktoriya Sumy,1,0,1.850,3.250,3.800,2.25,1.850,1.950
+72550206,2026-09-19 09:00,FC Kolos Kovalivka 2,Probiy Gorodenka,4,2,,,,,,
+72550194,2026-09-20 08:00,SC Poltava,FC Metalist Kharkiv,3,0,,,,,,
+72550208,2026-09-20 09:30,FC Lokomotiv Kyiv,FC Kulykiv-Bilka,1,0,2.500,3.250,2.500,2.25,1.850,1.950
+72550198,2026-09-20 10:30,FC Prykarpattya Ivano-Frankivsk,FC Ucsa Tarasivka,1,0,,,,,,
+72550202,2026-09-20 11:30,Agrobiznes Volochisk,FC Oleksandriya,1,0,4.200,3.500,1.700,2.25,2.000,1.800
+72550204,2026-09-20 12:30,FSK Mariupol,FC Polissya Zhytomyr 2,2,1,,,,,,
+72550200,2026-09-21 08:00,FC Viktoriya Sumy,FC Niva Ternopil,1,3,1.571,3.600,5.500,2.25,1.975,1.825
+72550222,2026-09-26 09:00,FC Ingulets Petrove,FC Prykarpattya Ivano-Frankivsk,2,1,,,,,,
+72550220,2026-09-26 10:00,FC Ucsa Tarasivka,FC Viktoriya Sumy,0,0,2.300,3.300,2.625,2.5,1.975,1.825
+72550212,2026-09-26 11:00,Probiy Gorodenka,FC Lokomotiv Kyiv,0,2,,,,,,
+72550210,2026-09-26 12:30,FC Kulykiv-Bilka,SC Poltava,2,1,,,,,,
+72550224,2026-09-27 09:00,FC Metalist Kharkiv,FC Chernigiv,2,0,2.250,3.100,2.900,2,1.900,1.900
+72550216,2026-09-27 11:00,FC Oleksandriya,FSK Mariupol,1,1,1.650,3.400,4.750,2.25,1.850,1.950
+72550218,2026-09-27 12:30,FC Niva Ternopil,Agrobiznes Volochisk,0,0,2.750,3.000,2.400,2,1.775,2.025
+72550214,2026-09-28 10:00,FC Polissya Zhytomyr 2,FC Kolos Kovalivka 2,0,3,1.833,3.600,3.300,2.75,1.900,1.900
+72550226,2026-10-02 11:00,SC Poltava,FC Chernigiv,3,2,1.850,3.250,3.700,2.25,1.900,1.900
+72550230,2026-10-03 08:00,FC Viktoriya Sumy,FC Ingulets Petrove,1,0,1.700,3.700,4.200,2.75,1.900,1.900
+72550238,2026-10-03 09:30,FC Lokomotiv Kyiv,FC Polissya Zhytomyr 2,3,3,1.600,3.800,4.750,2.5,1.950,1.850
+72550228,2026-10-03 11:30,FC Prykarpattya Ivano-Frankivsk,FC Metalist Kharkiv,0,0,2.150,3.100,3.100,2.25,2.025,1.775
+72550236,2026-10-04 09:30,FC Kolos Kovalivka 2,FC Oleksandriya,0,2,5.250,3.900,1.533,2.5,1.800,2.000
+72550232,2026-10-04 10:30,Agrobiznes Volochisk,FC Ucsa Tarasivka,3,2,1.900,3.300,3.600,2.25,1.925,1.875
+72550242,2026-10-04 12:00,FC Kulykiv-Bilka,Probiy Gorodenka,1,2,1.200,5.250,13.000,2.75,1.825,1.975
+72550234,2026-10-05 12:30,FSK Mariupol,FC Niva Ternopil,0,0,1.909,3.200,3.800,2.25,2.025,1.775
+72550256,2026-10-09 09:00,FC Metalist Kharkiv,FC Viktoriya Sumy,2,2,2.500,3.000,2.500,2.25,2.000,1.800
+72550254,2026-10-10 08:30,FC Ingulets Petrove,Agrobiznes Volochisk,0,1,,,,,,
+72550244,2026-10-10 10:30,Probiy Gorodenka,SC Poltava,3,2,4.333,3.900,1.600,2.75,1.975,1.825
+72550252,2026-10-11 09:00,FC Ucsa Tarasivka,FSK Mariupol,1,2,4.000,3.400,1.750,2.25,1.850,1.950
+72550498,2026-10-11 09:30,FC Prykarpattya Ivano-Frankivsk,FC Chernigiv,0,1,1.833,3.200,4.100,2.25,2.025,1.775
+72550248,2026-10-11 10:00,FC Oleksandriya,FC Lokomotiv Kyiv,1,3,1.533,3.700,5.250,2.5,1.975,1.825
+72550250,2026-10-11 12:00,FC Niva Ternopil,FC Kolos Kovalivka 2,3,1,1.727,3.400,4.100,2.25,1.875,1.925
+72550246,2026-10-12 11:00,FC Polissya Zhytomyr 2,FC Kulykiv-Bilka,2,4,2.875,3.200,2.200,2.75,1.950,1.850
+72550262,2026-10-17 08:00,FC Viktoriya Sumy,FC Chernigiv,2,1,1.750,3.400,4.000,2.25,2.025,1.775
+72550264,2026-10-17 08:30,Agrobiznes Volochisk,FC Metalist Kharkiv,1,0,1.800,3.000,4.333,2,1.925,1.875
+72550268,2026-10-17 09:00,FC Kolos Kovalivka 2,FC Ucsa Tarasivka,0,0,,,,,,
+72550266,2026-10-17 10:00,FSK Mariupol,FC Ingulets Petrove,4,1,,,,,,
+72550260,2026-10-17 11:00,SC Poltava,FC Prykarpattya Ivano-Frankivsk,4,0,,,,,,
+72550270,2026-10-18 09:00,FC Lokomotiv Kyiv,FC Niva Ternopil,0,0,,,,,,
+72550272,2026-10-18 10:00,FC Kulykiv-Bilka,FC Oleksandriya,1,1,,,,,,
+72550274,2026-10-18 11:00,Probiy Gorodenka,FC Polissya Zhytomyr 2,1,1,,,,,,
+72550280,2026-10-23 10:00,FC Metalist Kharkiv,FSK Mariupol,0,2,3.100,3.000,2.200,2.25,2.050,1.750
+72550288,2026-10-24 09:00,FC Oleksandriya,Probiy Gorodenka,2,0,1.333,4.333,7.500,2.5,1.850,1.950
+72550284,2026-10-24 10:00,FC Prykarpattya Ivano-Frankivsk,FC Viktoriya Sumy,1,1,3.000,3.000,2.200,2,1.800,2.000
+72550286,2026-10-24 11:00,FC Polissya Zhytomyr 2,SC Poltava,1,2,,,,,,
+72550276,2026-10-25 10:00,FC Ucsa Tarasivka,FC Lokomotiv Kyiv,3,2,2.875,3.200,2.250,2.25,1.875,1.925
+72550278,2026-10-25 11:00,FC Ingulets Petrove,FC Kolos Kovalivka 2,2,0,,,,,,
+72550290,2026-10-25 12:30,FC Niva Ternopil,FC Kulykiv-Bilka,3,1,2.600,3.200,2.400,2.25,1.900,1.900
+72550294,2026-10-30 10:00,Agrobiznes Volochisk,FC Prykarpattya Ivano-Frankivsk,3,0,2.450,3.100,2.600,2.25,1.950,1.850
+72550300,2026-10-31 09:30,FC Lokomotiv Kyiv,FC Ingulets Petrove,2,1,1.833,3.500,3.600,2.25,1.800,2.000
+72550532,2026-10-31 10:00,FC Viktoriya Sumy,SC Poltava,2,1,,,,,,
+72550536,2026-11-01 09:00,FSK Mariupol,FC Chernigiv,3,1,,,,,,
+72550302,2026-11-01 10:00,FC Kulykiv-Bilka,FC Ucsa Tarasivka,2,0,,,,,,
+72550304,2026-11-01 11:30,Probiy Gorodenka,FC Niva Ternopil,2,2,,,,,,
+72550306,2026-11-02 11:30,FC Polissya Zhytomyr 2,FC Oleksandriya,0,0,2.800,3.300,2.150,2.75,1.900,1.900
+72550314,2026-11-06 09:30,FC Ingulets Petrove,FC Kulykiv-Bilka,1,1,3.100,3.400,2.000,2.5,2.000,1.800
+72550316,2026-11-07 10:00,FC Metalist Kharkiv,FC Lokomotiv Kyiv,4,2,2.000,3.250,3.200,2.25,1.975,1.825
+72550320,2026-11-07 11:00,FC Prykarpattya Ivano-Frankivsk,FSK Mariupol,1,1,2.900,3.100,2.200,2.25,1.925,1.875
+72550310,2026-11-07 12:00,FC Niva Ternopil,FC Polissya Zhytomyr 2,4,2,1.666,3.500,4.333,2.5,1.950,1.850
+72550312,2026-11-08 10:00,FC Ucsa Tarasivka,Probiy Gorodenka,1,1,,,,,,
+72550308,2026-11-08 11:00,FC Oleksandriya,SC Poltava,1,0,1.750,3.400,3.800,2.5,1.825,1.975
+72550322,2026-11-09 09:00,FC Viktoriya Sumy,Agrobiznes Volochisk,2,0,2.000,2.900,3.750,2.25,2.050,1.750

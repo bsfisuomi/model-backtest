@@ -1,401 +1,401 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-60530979,2025-05-25 09:30,CF La Nucia,UD Castellonense,1,2,,,
-60809173,2025-06-01 16:00,CD Utiel,UD Castellonense,1,1,,,
-60809235,2025-06-07 17:00,UD Castellonense,CD Utiel,1,1,,,
-63138799,2025-09-06 16:00,Hercules CF B,Atzeneta UE,0,3,,,
-63138809,2025-09-06 17:00,Ontinyent CF,AC Torrellano,0,1,,,
-63138815,2025-09-06 17:00,CF La Nucia,CD Roda,1,1,,,
-63138801,2025-09-07 16:00,CD Soneja,UD Alzira,0,1,,,
-63138811,2025-09-07 16:00,Crevillente Deportivo,FC Jove Espanol San Vicente,1,1,,,
-63138813,2025-09-07 16:00,CD Bunol,UD Vall de Uxo,0,0,,,
-63138803,2025-09-07 16:30,Atletico Saguntino,CD Utiel,2,0,,,
-63138805,2025-09-07 16:30,CF Villarreal C,Recambios Colon CF,5,0,,,
-63138807,2025-09-07 17:15,UD Castellonense,Atletico Levante UD,3,3,,,
-63138821,2025-09-12 16:00,CD Roda,CF Villarreal C,0,0,,,
-63138827,2025-09-13 16:00,AC Torrellano,UD Castellonense,2,0,,,
-63138825,2025-09-13 17:00,Atletico Levante UD,Hercules CF B,1,1,,,
-63138819,2025-09-13 17:30,FC Jove Espanol San Vicente,CF La Nucia,2,1,,,
-63138823,2025-09-14 14:00,Recambios Colon CF,Ontinyent CF,0,0,,,
-63138829,2025-09-14 14:00,CD Utiel,CD Bunol,0,1,,,
-63138817,2025-09-14 15:00,Atzeneta UE,Atletico Saguntino,1,2,,,
-63138833,2025-09-14 16:00,UD Vall de Uxo,CD Soneja,2,1,,,
-63138831,2025-09-14 16:30,UD Alzira,Crevillente Deportivo,1,1,,,
-63138835,2025-09-20 16:00,Hercules CF B,AC Torrellano,2,2,,,
-63138849,2025-09-20 16:00,Crevillente Deportivo,UD Vall de Uxo,1,1,,,
-63138851,2025-09-20 16:00,CF La Nucia,UD Alzira,1,0,,,
-63138839,2025-09-21 15:00,Atzeneta UE,Atletico Levante UD,0,1,,,
-63138837,2025-09-21 15:45,CD Soneja,CD Utiel,2,0,,,
-63138841,2025-09-21 16:00,Atletico Saguntino,CD Bunol,2,0,,,
-63138843,2025-09-21 16:00,CF Villarreal C,FC Jove Espanol San Vicente,4,0,,,
-63138847,2025-09-21 16:00,Ontinyent CF,CD Roda,1,2,,,
-63138845,2025-09-21 16:15,UD Castellonense,Recambios Colon CF,1,1,,,
-63138855,2025-09-27 15:00,CD Roda,UD Castellonense,0,3,,,
-63138859,2025-09-27 15:30,Atletico Levante UD,Atletico Saguntino,3,1,,,
-63138861,2025-09-27 15:30,AC Torrellano,Atzeneta UE,2,0,,,
-63138869,2025-09-27 16:00,CD Bunol,CD Soneja,3,0,,,
-63138853,2025-09-27 17:30,FC Jove Espanol San Vicente,Ontinyent CF,3,1,,,
-63138857,2025-09-28 14:00,Recambios Colon CF,Hercules CF B,1,1,,,
-63138863,2025-09-28 14:30,CD Utiel,Crevillente Deportivo,1,1,,,
-63138867,2025-09-28 15:00,UD Vall de Uxo,CF La Nucia,0,1,,,
-63138865,2025-09-28 15:30,UD Alzira,CF Villarreal C,0,2,,,
-63138873,2025-10-04 15:00,Atzeneta UE,Recambios Colon CF,2,1,,,
-63138877,2025-10-04 15:30,Atletico Levante UD,AC Torrellano,1,2,,,
-63138871,2025-10-04 16:30,Hercules CF B,CD Roda,1,0,,,
-63138885,2025-10-05 09:00,Crevillente Deportivo,CD Bunol,0,1,,,
-63138879,2025-10-05 10:00,CF Villarreal C,UD Vall de Uxo,0,3,,,
-63138881,2025-10-05 15:15,UD Castellonense,FC Jove Espanol San Vicente,2,0,,,
-63138875,2025-10-05 15:30,Atletico Saguntino,CD Soneja,1,0,,,
-63138883,2025-10-05 16:00,Ontinyent CF,UD Alzira,4,0,,,
-63138887,2025-10-05 16:00,CF La Nucia,CD Utiel,0,2,,,
-63138893,2025-10-10 15:30,CD Roda,Atzeneta UE,1,2,,,
-63138891,2025-10-11 15:00,FC Jove Espanol San Vicente,Hercules CF B,0,1,,,
-63138897,2025-10-12 09:30,AC Torrellano,Atletico Saguntino,2,0,,,
-63138899,2025-10-12 14:30,CD Utiel,CF Villarreal C,0,2,,,
-63138903,2025-10-12 14:30,UD Vall de Uxo,Ontinyent CF,1,1,,,
-63138889,2025-10-12 15:30,CD Soneja,Crevillente Deportivo,0,1,,,
-63138905,2025-10-12 16:00,CD Bunol,CF La Nucia,0,0,,,
-63138913,2025-10-18 10:00,Atletico Levante UD,CD Roda,5,1,,,
-63138917,2025-10-18 14:00,CF Villarreal C,CD Bunol,1,1,,,
-63138909,2025-10-18 14:30,Atzeneta UE,FC Jove Espanol San Vicente,2,1,,,
-63138907,2025-10-18 16:30,Hercules CF B,UD Alzira,2,2,,,
-63138915,2025-10-19 10:00,AC Torrellano,Recambios Colon CF,0,0,,,
-63138919,2025-10-19 15:15,UD Castellonense,UD Vall de Uxo,1,0,,,
-63138911,2025-10-19 15:30,Atletico Saguntino,Crevillente Deportivo,3,2,,,
-63138921,2025-10-19 16:00,Ontinyent CF,CD Utiel,0,0,,,
-63138923,2025-10-19 16:00,CF La Nucia,CD Soneja,1,1,,,
-64555810,2025-10-22 18:30,Recambios Colon CF,Atletico Levante UD,0,2,,,
-63138929,2025-10-25 14:00,CD Roda,AC Torrellano,0,0,,,
-63138925,2025-10-25 14:30,CD Soneja,CF Villarreal C,1,1,,,
-63138927,2025-10-25 15:00,FC Jove Espanol San Vicente,Atletico Levante UD,0,1,,,
-63138933,2025-10-25 15:00,CD Utiel,UD Castellonense,1,2,,,
-63138941,2025-10-25 15:00,CD Bunol,Ontinyent CF,1,3,,,
-63138937,2025-10-26 10:30,UD Vall de Uxo,Hercules CF B,1,1,,,
-63138935,2025-10-26 11:00,UD Alzira,Atzeneta UE,3,1,,,
-63138931,2025-10-26 15:00,Recambios Colon CF,Atletico Saguntino,1,2,,,
-63138939,2025-10-26 18:00,Crevillente Deportivo,CF La Nucia,2,2,,,
-64693136,2025-10-29 19:30,UD Alzira,UD Castellonense,0,2,,,
-63138949,2025-11-01 15:00,Recambios Colon CF,CD Roda,0,0,,,
-63138951,2025-11-01 15:00,Atletico Levante UD,UD Alzira,1,0,,,
-63138945,2025-11-01 15:30,Atzeneta UE,UD Vall de Uxo,0,1,,,
-63138955,2025-11-01 17:00,CF Villarreal C,Crevillente Deportivo,1,0,,,
-63138943,2025-11-01 17:30,Hercules CF B,CD Utiel,0,2,,,
-63138953,2025-11-02 11:00,AC Torrellano,FC Jove Espanol San Vicente,3,1,,,
-63138957,2025-11-02 15:15,UD Castellonense,CD Bunol,4,1,,,
-63138959,2025-11-02 16:00,Ontinyent CF,CD Soneja,1,0,,,
-63138947,2025-11-02 16:15,Atletico Saguntino,CF La Nucia,1,1,,,
-63138963,2025-11-08 16:00,FC Jove Espanol San Vicente,Recambios Colon CF,1,2,,,
-63138965,2025-11-08 16:00,CD Roda,Atletico Saguntino,2,4,,,
-63138971,2025-11-09 11:00,UD Vall de Uxo,Atletico Levante UD,0,0,,,
-63138977,2025-11-09 11:00,CF La Nucia,CF Villarreal C,1,3,,,
-63138967,2025-11-09 15:00,CD Utiel,Atzeneta UE,1,0,,,
-63138969,2025-11-09 16:00,UD Alzira,AC Torrellano,1,1,,,
-63138975,2025-11-09 16:00,CD Bunol,Hercules CF B,1,1,,,
-63138961,2025-11-09 16:30,CD Soneja,UD Castellonense,0,1,,,
-63138973,2025-11-09 17:30,Crevillente Deportivo,Ontinyent CF,1,2,,,
-63138981,2025-11-15 15:00,Atzeneta UE,CD Bunol,2,2,,,
-63138989,2025-11-15 15:00,Atletico Levante UD,CD Utiel,1,0,,,
-63138985,2025-11-15 16:00,CD Roda,FC Jove Espanol San Vicente,0,1,,,
-63138979,2025-11-15 17:30,Hercules CF B,CD Soneja,1,2,,,
-63138991,2025-11-16 10:30,AC Torrellano,UD Vall de Uxo,1,2,,,
-63138987,2025-11-16 15:00,Recambios Colon CF,UD Alzira,3,3,,,
-63138993,2025-11-16 15:15,UD Castellonense,Crevillente Deportivo,2,1,,,
-63138983,2025-11-16 16:00,Atletico Saguntino,CF Villarreal C,3,2,,,
-63138995,2025-11-16 16:30,Ontinyent CF,CF La Nucia,1,1,,,
-63138997,2025-11-22 16:00,CD Soneja,Atzeneta UE,1,0,,,
-63138999,2025-11-22 16:00,FC Jove Espanol San Vicente,Atletico Saguntino,0,1,,,
-63139001,2025-11-22 16:30,CF Villarreal C,Ontinyent CF,0,1,,,
-63139007,2025-11-23 10:30,UD Vall de Uxo,Recambios Colon CF,1,1,,,
-63139003,2025-11-23 15:30,CD Utiel,AC Torrellano,1,1,,,
-63139011,2025-11-23 15:30,CD Bunol,Atletico Levante UD,0,0,,,
-63139005,2025-11-23 16:00,UD Alzira,CD Roda,2,3,,,
-63139009,2025-11-23 16:00,Crevillente Deportivo,Hercules CF B,2,2,,,
-63139013,2025-11-23 16:00,CF La Nucia,UD Castellonense,0,2,,,
-63139023,2025-12-06 10:00,CD Roda,UD Vall de Uxo,2,1,,,
-63139017,2025-12-06 15:00,Atzeneta UE,Crevillente Deportivo,0,1,,,
-63139031,2025-12-06 15:15,UD Castellonense,CF Villarreal C,3,2,,,
-63139021,2025-12-06 16:00,Atletico Saguntino,Ontinyent CF,0,1,,,
-63139025,2025-12-06 16:00,Recambios Colon CF,CD Utiel,2,2,,,
-63139015,2025-12-06 17:30,Hercules CF B,CF La Nucia,1,3,,,
-63139029,2025-12-07 10:30,AC Torrellano,CD Bunol,2,3,,,
-63139019,2025-12-07 11:00,FC Jove Espanol San Vicente,UD Alzira,0,1,,,
-63139027,2025-12-07 11:00,Atletico Levante UD,CD Soneja,4,0,,,
-63139033,2025-12-13 11:00,CD Soneja,AC Torrellano,1,0,3.250,3.000,2.150
-66817086,2025-12-17 19:15,CD Bunol,Recambios Colon CF,2,0,1.900,3.200,3.600
-63139053,2025-12-20 15:00,Atzeneta UE,CF Villarreal C,1,3,,,
-63139059,2025-12-20 15:00,CD Roda,CD Bunol,1,2,3.000,3.000,2.250
-63139061,2025-12-20 15:00,Recambios Colon CF,CD Soneja,0,1,2.550,3.100,2.550
-63139055,2025-12-20 16:00,FC Jove Espanol San Vicente,CD Utiel,0,0,2.900,2.900,2.350
-63139057,2025-12-20 16:00,Atletico Saguntino,UD Castellonense,0,0,,,
-63139067,2025-12-20 16:00,UD Alzira,UD Vall de Uxo,0,1,,,
-63139051,2025-12-20 17:30,Hercules CF B,Ontinyent CF,1,0,3.250,3.100,2.050
-63139063,2025-12-20 17:30,Atletico Levante UD,CF La Nucia,2,2,,,
-63139065,2025-12-21 10:30,AC Torrellano,Crevillente Deportivo,0,2,1.615,3.400,5.000
-63139073,2026-01-04 10:45,CF Villarreal C,Atletico Levante UD,1,1,2.150,3.200,3.100
-63139075,2026-01-04 15:15,UD Castellonense,Hercules CF B,1,1,1.500,3.900,5.500
-63139069,2026-01-04 15:30,CD Soneja,CD Roda,0,1,2.100,3.000,3.250
-63139077,2026-01-04 15:30,CD Utiel,UD Alzira,1,1,1.909,3.100,3.800
-63139071,2026-01-04 16:00,Atletico Saguntino,UD Vall de Uxo,2,0,2.000,3.000,3.600
-63139079,2026-01-04 16:00,Ontinyent CF,Atzeneta UE,1,1,2.050,2.800,3.700
-63139083,2026-01-04 16:00,CD Bunol,FC Jove Espanol San Vicente,0,0,2.050,3.200,3.300
-63139085,2026-01-04 16:00,CF La Nucia,AC Torrellano,4,1,,,
-63139081,2026-01-04 16:30,Crevillente Deportivo,Recambios Colon CF,1,1,1.909,3.000,3.900
-67155442,2026-01-07 15:00,CF Villarreal C,Hercules CF B,0,1,1.363,4.000,8.000
-63139089,2026-01-10 15:00,Atzeneta UE,UD Castellonense,0,1,3.300,2.875,2.150
-63139097,2026-01-10 15:00,Atletico Levante UD,Ontinyent CF,0,0,1.650,3.100,5.250
-63139101,2026-01-10 15:30,UD Alzira,CD Bunol,1,1,2.200,3.000,3.000
-63139103,2026-01-10 15:30,UD Vall de Uxo,CD Utiel,0,1,2.150,2.750,3.500
-63139091,2026-01-10 16:00,FC Jove Espanol San Vicente,CD Soneja,3,1,2.500,2.900,2.750
-63139087,2026-01-11 10:30,Hercules CF B,Atletico Saguntino,0,2,3.250,2.900,2.150
-63139093,2026-01-11 10:30,CD Roda,Crevillente Deportivo,3,0,2.250,3.100,2.875
-63139099,2026-01-11 10:30,AC Torrellano,CF Villarreal C,3,2,3.100,3.100,2.150
-63139095,2026-01-11 15:00,Recambios Colon CF,CF La Nucia,0,1,5.000,3.500,1.571
-67145428,2026-01-14 18:00,UD Alzira,Atletico Saguntino,3,1,3.750,3.100,1.909
-67155440,2026-01-14 18:00,Crevillente Deportivo,Atletico Levante UD,0,1,4.750,3.100,1.700
-67155478,2026-01-14 18:00,UD Vall de Uxo,FC Jove Espanol San Vicente,2,1,1.600,3.200,6.000
-63139105,2026-01-17 15:00,Atzeneta UE,Hercules CF B,2,1,,,
-63139111,2026-01-17 15:00,Recambios Colon CF,CF Villarreal C,1,2,6.000,3.800,1.450
-63139109,2026-01-17 15:30,CD Roda,CF La Nucia,0,1,4.333,3.400,1.727
-63139117,2026-01-17 15:30,CD Utiel,Atletico Saguntino,1,3,2.350,3.000,2.875
-63139115,2026-01-18 10:30,AC Torrellano,Ontinyent CF,1,0,2.250,2.875,3.200
-63139107,2026-01-18 11:00,FC Jove Espanol San Vicente,Crevillente Deportivo,2,2,2.050,2.900,3.400
-63139113,2026-01-18 11:00,Atletico Levante UD,UD Castellonense,1,0,2.200,2.900,3.100
-63139119,2026-01-18 11:00,UD Alzira,CD Soneja,1,2,1.950,3.200,3.600
-63139121,2026-01-18 15:30,UD Vall de Uxo,CD Bunol,1,1,2.300,3.000,2.900
-67093608,2026-01-21 16:00,CF La Nucia,Atzeneta UE,1,1,1.615,3.300,4.750
-66979934,2026-01-21 18:45,Ontinyent CF,UD Castellonense,3,2,3.200,3.000,2.100
-67090206,2026-01-21 19:00,CD Utiel,CD Roda,2,0,2.000,3.000,3.500
-63139137,2026-01-24 17:00,CD Bunol,CD Utiel,1,0,2.250,3.000,3.000
-63139123,2026-01-24 17:30,Hercules CF B,Atletico Levante UD,0,0,,,
-63139129,2026-01-25 11:00,CF Villarreal C,CD Roda,4,1,1.480,3.900,5.500
-63139131,2026-01-25 15:15,UD Castellonense,AC Torrellano,1,1,1.900,3.000,3.800
-63139125,2026-01-25 15:30,CD Soneja,UD Vall de Uxo,1,0,2.700,2.900,2.550
-63139127,2026-01-25 16:00,Atletico Saguntino,Atzeneta UE,0,1,1.850,3.200,3.700
-63139133,2026-01-25 16:00,Ontinyent CF,Recambios Colon CF,0,0,1.650,3.000,5.500
-63139139,2026-01-25 16:00,CF La Nucia,FC Jove Espanol San Vicente,1,0,,,
-63139135,2026-01-25 17:15,Crevillente Deportivo,UD Alzira,2,0,2.150,2.750,3.400
-63139149,2026-02-01 10:30,AC Torrellano,Hercules CF B,3,0,,,
-63139147,2026-02-01 11:00,Atletico Levante UD,Atzeneta UE,1,0,1.650,3.300,5.250
-63139145,2026-02-01 15:00,Recambios Colon CF,UD Castellonense,0,1,5.000,3.200,1.666
-63139151,2026-02-01 15:30,CD Utiel,CD Soneja,1,2,2.100,3.100,3.200
-63139153,2026-02-01 15:30,UD Alzira,CF La Nucia,1,1,,,
-63139155,2026-02-01 15:30,UD Vall de Uxo,Crevillente Deportivo,3,1,2.050,3.000,3.400
-63139157,2026-02-01 15:30,CD Bunol,Atletico Saguntino,2,1,3.300,2.875,2.150
-63139161,2026-02-07 15:30,CD Soneja,CD Bunol,1,2,2.350,3.000,2.800
-63139163,2026-02-07 15:30,Atzeneta UE,AC Torrellano,1,0,2.450,3.000,2.700
-63139159,2026-02-07 17:30,Hercules CF B,Recambios Colon CF,2,0,,,
-63139167,2026-02-08 11:00,CF Villarreal C,UD Alzira,3,2,1.480,3.700,6.000
-63139169,2026-02-08 15:15,UD Castellonense,CD Roda,2,0,1.650,3.250,5.000
-63139165,2026-02-08 16:00,Atletico Saguntino,Atletico Levante UD,0,0,2.700,2.900,2.450
-63139171,2026-02-08 16:00,Ontinyent CF,FC Jove Espanol San Vicente,1,0,1.727,3.200,4.500
-63139175,2026-02-08 16:00,CF La Nucia,UD Vall de Uxo,1,0,,,
-63139173,2026-02-08 16:30,Crevillente Deportivo,CD Utiel,3,1,2.550,2.900,2.625
-63139185,2026-02-15 10:30,AC Torrellano,Atletico Levante UD,1,1,2.750,3.000,2.400
-63139179,2026-02-15 11:00,FC Jove Espanol San Vicente,UD Castellonense,0,4,3.400,2.800,2.150
-63139183,2026-02-15 15:00,Recambios Colon CF,Atzeneta UE,0,0,4.000,3.100,1.850
-63139187,2026-02-15 15:30,CD Utiel,CF La Nucia,0,0,3.400,2.875,2.100
-63139191,2026-02-15 15:30,UD Vall de Uxo,CF Villarreal C,2,0,2.800,3.000,2.350
-63139189,2026-02-15 16:00,UD Alzira,Ontinyent CF,0,0,3.200,2.750,2.300
-63139195,2026-02-21 15:00,Hercules CF B,FC Jove Espanol San Vicente,0,0,,,
-63139197,2026-02-21 15:30,Atzeneta UE,CD Roda,1,1,1.700,3.200,4.750
-63139201,2026-02-21 15:30,Atletico Levante UD,Recambios Colon CF,4,2,1.250,4.000,9.000
-63139203,2026-02-21 18:30,CF Villarreal C,CD Utiel,3,1,1.800,3.250,4.100
-63139205,2026-02-22 10:45,UD Castellonense,UD Alzira,4,1,1.615,3.100,5.500
-63139199,2026-02-22 16:00,Atletico Saguntino,AC Torrellano,2,1,1.750,3.200,4.333
-63139207,2026-02-22 16:00,Ontinyent CF,UD Vall de Uxo,1,0,2.900,2.700,2.500
-63139211,2026-02-22 16:00,CF La Nucia,CD Bunol,2,0,1.615,3.300,5.250
-63139209,2026-02-22 17:15,Crevillente Deportivo,CD Soneja,2,2,2.450,3.000,2.625
-63139217,2026-02-28 15:30,CD Roda,Atletico Levante UD,2,1,3.750,3.000,1.950
-63139215,2026-02-28 16:00,FC Jove Espanol San Vicente,Atzeneta UE,0,0,3.100,2.875,2.250
-63139219,2026-03-01 15:00,Recambios Colon CF,AC Torrellano,1,2,4.750,3.250,1.700
-63139221,2026-03-01 15:30,CD Utiel,Ontinyent CF,1,2,2.350,2.800,3.000
-63139225,2026-03-01 15:30,UD Vall de Uxo,UD Castellonense,1,1,,,
-63139229,2026-03-01 15:30,CD Bunol,CF Villarreal C,2,2,2.800,3.100,2.300
-63139213,2026-03-01 16:30,CD Soneja,CF La Nucia,0,0,4.333,3.200,1.750
-63139223,2026-03-01 16:30,UD Alzira,Hercules CF B,0,1,2.050,3.200,3.200
-63139227,2026-03-01 17:00,Crevillente Deportivo,Atletico Saguntino,0,0,2.800,3.100,2.300
-68723216,2026-03-04 18:00,FC Jove Espanol San Vicente,CF Villarreal C,4,1,3.900,3.400,1.800
-68908172,2026-03-04 18:30,CD Roda,Ontinyent CF,0,2,2.800,2.900,2.400
-63139231,2026-03-07 15:00,Hercules CF B,UD Vall de Uxo,0,1,2.550,2.900,2.625
-63139233,2026-03-07 16:00,Atzeneta UE,UD Alzira,1,2,1.727,3.200,4.500
-63139237,2026-03-08 10:30,Atletico Levante UD,FC Jove Espanol San Vicente,0,2,,,
-63139239,2026-03-08 10:30,AC Torrellano,CD Roda,0,2,1.700,3.300,4.500
-63139243,2026-03-08 10:30,UD Castellonense,CD Utiel,1,0,1.650,3.300,4.750
-63139235,2026-03-08 16:00,Atletico Saguntino,Recambios Colon CF,1,0,1.420,3.800,7.000
-63139245,2026-03-08 16:00,Ontinyent CF,CD Bunol,1,0,2.050,2.875,3.600
-63139247,2026-03-08 18:00,CF La Nucia,Crevillente Deportivo,3,0,1.400,3.750,7.500
-63139241,2026-03-08 18:30,CF Villarreal C,CD Soneja,2,0,1.666,3.400,4.500
-69346910,2026-03-11 19:00,CD Soneja,Atletico Saguntino,2,1,3.200,3.000,2.150
-69618212,2026-03-11 19:00,CD Bunol,Crevillente Deportivo,0,4,1.800,3.200,4.000
-63139251,2026-03-14 16:00,FC Jove Espanol San Vicente,AC Torrellano,1,0,2.750,3.000,2.375
-63139253,2026-03-14 16:00,CD Roda,Recambios Colon CF,2,1,1.800,3.100,4.200
-63139259,2026-03-14 16:00,UD Vall de Uxo,Atzeneta UE,1,0,2.150,2.875,3.250
-63139265,2026-03-14 16:00,CF La Nucia,Atletico Saguntino,1,0,1.666,3.200,4.750
-63139255,2026-03-15 15:30,CD Utiel,Hercules CF B,1,2,,,
-63139263,2026-03-15 16:00,CD Bunol,UD Castellonense,2,0,3.500,3.000,2.000
-63139249,2026-03-15 16:30,CD Soneja,Ontinyent CF,1,1,,,
-63139257,2026-03-15 16:30,UD Alzira,Atletico Levante UD,1,2,,,
-63139261,2026-03-15 17:15,Crevillente Deportivo,CF Villarreal C,1,2,3.000,3.250,2.150
-63139271,2026-03-21 17:00,Atletico Saguntino,CD Roda,1,1,1.666,3.300,4.750
-63139267,2026-03-21 17:30,Hercules CF B,CD Bunol,3,1,2.450,3.000,2.700
-63139277,2026-03-22 10:30,AC Torrellano,UD Alzira,3,0,,,
-63139281,2026-03-22 10:45,UD Castellonense,CD Soneja,2,0,1.500,3.600,6.000
-63139269,2026-03-22 11:00,Atzeneta UE,CD Utiel,1,3,,,
-63139275,2026-03-22 11:00,Atletico Levante UD,UD Vall de Uxo,1,0,,,
-63139273,2026-03-22 15:00,Recambios Colon CF,FC Jove Espanol San Vicente,1,2,3.800,3.100,1.909
-63139283,2026-03-22 16:00,Ontinyent CF,Crevillente Deportivo,0,2,1.950,3.100,3.600
-63139279,2026-03-22 17:00,CF Villarreal C,CF La Nucia,1,1,2.875,3.100,2.250
-69277778,2026-03-25 16:00,CD Roda,Hercules CF B,1,0,2.200,2.800,3.300
-63139293,2026-03-28 16:00,UD Alzira,Recambios Colon CF,2,0,1.571,3.400,6.000
-63139295,2026-03-28 16:00,UD Vall de Uxo,AC Torrellano,1,0,2.250,2.900,3.000
-63139289,2026-03-28 16:30,CF Villarreal C,Atletico Saguntino,1,2,2.600,3.000,2.500
-63139287,2026-03-29 10:00,FC Jove Espanol San Vicente,CD Roda,2,1,2.100,3.000,3.200
-63139291,2026-03-29 14:30,CD Utiel,Atletico Levante UD,0,3,,,
-63139301,2026-03-29 15:00,CF La Nucia,Ontinyent CF,2,0,1.666,3.500,4.500
-63139299,2026-03-29 15:30,CD Bunol,Atzeneta UE,2,0,2.550,3.100,2.550
-63139297,2026-03-29 16:30,Crevillente Deportivo,UD Castellonense,0,1,3.300,3.000,2.100
-63139309,2026-04-02 15:00,CD Roda,UD Alzira,0,0,2.250,3.200,2.900
-63139319,2026-04-02 17:30,Ontinyent CF,CF Villarreal C,0,2,2.500,2.900,2.750
-63139311,2026-04-02 18:00,Recambios Colon CF,UD Vall de Uxo,2,2,5.500,3.200,1.615
-63139305,2026-04-03 15:00,Atzeneta UE,CD Soneja,0,1,1.909,3.100,3.750
-63139315,2026-04-04 10:00,AC Torrellano,CD Utiel,1,0,,,
-63139313,2026-04-04 15:30,Atletico Levante UD,CD Bunol,4,0,,,
-63139317,2026-04-04 16:15,UD Castellonense,CF La Nucia,2,0,2.450,3.000,2.750
-63139303,2026-04-04 16:30,Hercules CF B,Crevillente Deportivo,1,1,2.300,3.000,3.000
-63139307,2026-04-05 16:00,Atletico Saguntino,FC Jove Espanol San Vicente,2,1,1.650,3.300,4.750
-63139321,2026-04-11 09:45,CD Soneja,Atletico Levante UD,2,2,,,
-63139335,2026-04-11 16:00,CD Bunol,AC Torrellano,0,0,2.875,3.000,2.300
-63139327,2026-04-11 16:30,UD Alzira,FC Jove Espanol San Vicente,1,0,2.375,3.000,2.750
-63139325,2026-04-11 18:00,CD Utiel,Recambios Colon CF,2,2,,,
-63139331,2026-04-12 15:00,UD Vall de Uxo,CD Roda,1,0,,,
-63139337,2026-04-12 15:00,CF La Nucia,Hercules CF B,1,0,,,
-63139323,2026-04-12 16:00,CF Villarreal C,UD Castellonense,3,0,2.625,3.100,2.400
-63139329,2026-04-12 16:00,Ontinyent CF,Atletico Saguntino,0,1,,,
-63139333,2026-04-12 16:00,Crevillente Deportivo,Atzeneta UE,2,3,2.250,3.000,2.900
-70664274,2026-04-15 17:30,CD Soneja,Hercules CF B,1,2,2.400,2.375,3.600
-63139341,2026-04-18 15:00,Atzeneta UE,CF La Nucia,0,0,4.100,3.100,1.800
-63139343,2026-04-18 15:00,FC Jove Espanol San Vicente,UD Vall de Uxo,1,1,,,
-63139347,2026-04-18 15:00,CD Roda,CD Utiel,3,1,2.200,2.800,3.250
-63139351,2026-04-18 15:00,Atletico Levante UD,Crevillente Deportivo,4,1,,,
-63139355,2026-04-18 16:15,UD Castellonense,Ontinyent CF,2,3,1.500,3.400,6.250
-63139339,2026-04-18 16:30,Hercules CF B,CF Villarreal C,0,4,,,
-63139353,2026-04-19 09:30,AC Torrellano,CD Soneja,0,1,1.571,3.600,5.000
-63139349,2026-04-19 14:00,Recambios Colon CF,CD Bunol,0,1,,,
-63139345,2026-04-19 16:00,Atletico Saguntino,UD Alzira,1,0,1.600,3.300,5.250
-63139357,2026-04-25 15:00,CD Soneja,Recambios Colon CF,2,3,,,
-63139361,2026-04-26 09:15,UD Castellonense,Atletico Saguntino,1,1,2.150,3.000,3.200
-63139367,2026-04-26 15:00,UD Vall de Uxo,UD Alzira,1,0,,,
-63139371,2026-04-26 15:00,CD Bunol,CD Roda,0,1,,,
-63139373,2026-04-26 15:00,CF La Nucia,Atletico Levante UD,3,2,,,
-63139359,2026-04-26 15:30,CF Villarreal C,Atzeneta UE,2,0,,,
-63139363,2026-04-26 16:00,CD Utiel,FC Jove Espanol San Vicente,1,1,,,
-63139365,2026-04-26 16:00,Ontinyent CF,Hercules CF B,0,1,,,
-63139369,2026-04-26 16:30,Crevillente Deportivo,AC Torrellano,2,4,,,
-63139381,2026-05-02 15:00,CD Roda,CD Soneja,0,1,,,
-63139375,2026-05-02 16:30,Hercules CF B,UD Castellonense,1,4,,,
-63139377,2026-05-02 16:30,Atzeneta UE,Ontinyent CF,2,1,,,
-63139379,2026-05-02 16:30,FC Jove Espanol San Vicente,CD Bunol,3,0,,,
-63139383,2026-05-02 16:30,Recambios Colon CF,Crevillente Deportivo,1,2,,,
-63139385,2026-05-02 16:30,Atletico Levante UD,CF Villarreal C,0,1,,,
-63139387,2026-05-02 16:30,AC Torrellano,CF La Nucia,0,3,,,
-63139389,2026-05-02 16:30,UD Alzira,CD Utiel,2,2,,,
-63139391,2026-05-02 16:30,UD Vall de Uxo,Atletico Saguntino,0,4,,,
-63139393,2026-05-09 14:30,CD Soneja,FC Jove Espanol San Vicente,5,2,,,
-63139395,2026-05-09 16:30,Atletico Saguntino,Hercules CF B,3,0,,,
-63139397,2026-05-09 16:30,CF Villarreal C,AC Torrellano,2,0,,,
-63139399,2026-05-09 16:30,UD Castellonense,Atzeneta UE,0,1,,,
-63139401,2026-05-09 16:30,CD Utiel,UD Vall de Uxo,1,0,,,
-63139403,2026-05-09 16:30,Ontinyent CF,Atletico Levante UD,0,1,,,
-63139405,2026-05-09 16:30,Crevillente Deportivo,CD Roda,2,0,,,
-63139407,2026-05-09 16:30,CD Bunol,UD Alzira,1,0,,,
-63139409,2026-05-09 16:30,CF La Nucia,Recambios Colon CF,3,0,,,
-71482460,2026-05-17 10:00,CF Villarreal C,Atletico Levante UD,1,3,,,
-71482464,2026-05-17 16:00,CF La Nucia,Atletico Saguntino,3,1,2.100,2.900,3.500
-71482472,2026-05-24 16:00,Atletico Saguntino,CF La Nucia,1,0,2.450,3.100,2.550
-71482476,2026-05-24 16:00,Atletico Levante UD,CF Villarreal C,1,2,,,
-71753242,2026-05-31 17:30,CF La Nucia,Atletico Levante UD,1,0,,,
-71753244,2026-06-07 09:00,Atletico Levante UD,CF La Nucia,1,1,,,
-73578798,2026-09-05 16:00,Hercules CF B,SC Torrevieja CF,1,2,2.300,2.900,2.900
-73578804,2026-09-05 16:00,CD Acero,Crevillente Deportivo,0,1,2.200,3.300,2.800
-73578808,2026-09-05 16:30,CD Bunol,Atzeneta UE,2,1,2.200,3.000,3.100
-73578800,2026-09-05 17:00,Torrent CF,CD Espanol San Vicente,4,0,,,
-73578794,2026-09-06 09:00,CD Eldense B,AC Torrellano,1,0,2.375,3.200,2.625
-73578796,2026-09-06 10:00,CD Roda,Ontinyent CF,2,1,2.250,3.000,3.000
-73578792,2026-09-06 16:00,CD Soneja,CF Villarreal C,0,3,3.400,3.200,1.950
-73578802,2026-09-06 17:00,Atletico Saguntino,Atletico Levante UD,2,1,,,
-73578806,2026-09-06 17:00,UD Vall de Uxo,CD Utiel,0,0,1.750,2.625,4.500
-73578824,2026-09-12 15:30,CD Utiel,CD Acero,1,1,,,
-73578818,2026-09-12 16:30,Atletico Levante UD,CD Bunol,0,0,,,
-73578814,2026-09-13 09:30,SC Torrevieja CF,UD Vall de Uxo,0,2,2.550,3.000,2.550
-73578816,2026-09-13 09:30,AC Torrellano,Torrent CF,1,2,3.200,3.100,2.100
-73578810,2026-09-13 10:00,CD Espanol San Vicente,Hercules CF B,2,2,2.250,2.875,3.200
-73578812,2026-09-13 15:30,Atzeneta UE,CD Eldense B,0,0,,,
-73578820,2026-09-13 16:00,CF Villarreal C,CD Roda,2,1,1.533,3.600,5.750
-73578822,2026-09-13 16:00,Ontinyent CF,Atletico Saguntino,1,0,3.000,3.000,2.250
-73578826,2026-09-13 16:30,Crevillente Deportivo,CD Soneja,2,2,1.850,3.100,4.000
-73578830,2026-09-19 14:00,CD Roda,Crevillente Deportivo,1,1,,,
-73578832,2026-09-19 15:30,Hercules CF B,AC Torrellano,3,1,3.200,3.100,2.100
-73578840,2026-09-19 16:00,CD Acero,SC Torrevieja CF,2,0,2.400,3.100,2.625
-73578834,2026-09-20 09:30,Atletico Levante UD,Ontinyent CF,2,0,,,
-73578836,2026-09-20 10:00,Torrent CF,Atzeneta UE,1,1,1.650,3.750,4.333
-73578828,2026-09-20 15:30,CD Soneja,CD Utiel,2,0,2.100,3.000,3.250
-73578842,2026-09-20 16:00,UD Vall de Uxo,CD Espanol San Vicente,2,1,1.727,3.200,4.500
-73578844,2026-09-20 16:00,CD Bunol,CD Eldense B,1,1,,,
-73578838,2026-09-20 16:30,Atletico Saguntino,CF Villarreal C,0,1,2.500,3.100,2.600
-73578856,2026-09-26 10:00,CF Villarreal C,Atletico Levante UD,0,2,,,
-73578850,2026-09-26 14:00,CD Eldense B,Torrent CF,3,1,2.750,3.200,2.300
-73578846,2026-09-26 15:00,CD Espanol San Vicente,CD Acero,1,1,2.375,3.100,2.700
-73578848,2026-09-26 15:00,Atzeneta UE,Hercules CF B,1,1,,,
-73578852,2026-09-27 09:30,SC Torrevieja CF,CD Soneja,2,0,2.200,3.100,3.000
-73578854,2026-09-27 09:30,AC Torrellano,UD Vall de Uxo,0,3,2.625,2.875,2.600
-73578860,2026-09-27 15:30,CD Utiel,CD Roda,1,1,2.050,3.000,3.400
-73578858,2026-09-27 16:00,Ontinyent CF,CD Bunol,3,0,2.200,3.000,3.100
-73578862,2026-09-27 16:00,Crevillente Deportivo,Atletico Saguntino,2,2,2.750,2.900,2.400
-73578864,2026-10-03 14:00,CD Soneja,CD Espanol San Vicente,1,2,1.900,3.100,3.900
-73578866,2026-10-03 15:00,CD Roda,SC Torrevieja CF,2,0,2.200,3.000,3.100
-73578868,2026-10-03 15:00,Hercules CF B,CD Eldense B,1,0,2.300,3.000,2.900
-73578876,2026-10-03 15:00,CD Acero,AC Torrellano,1,1,2.050,3.100,3.300
-73578878,2026-10-04 15:00,UD Vall de Uxo,Atzeneta UE,1,1,2.050,3.000,3.500
-73578872,2026-10-04 16:00,Ontinyent CF,CF Villarreal C,1,2,2.700,3.100,2.400
-73578874,2026-10-04 16:00,Atletico Saguntino,CD Utiel,3,2,1.500,3.500,5.750
-73578880,2026-10-04 16:00,CD Bunol,Torrent CF,0,1,3.200,3.100,2.150
-73578894,2026-10-09 10:00,Torrent CF,Hercules CF B,0,1,1.750,3.300,4.333
-73578896,2026-10-09 16:00,CD Utiel,Atletico Levante UD,0,3,,,
-73578892,2026-10-09 16:30,CF Villarreal C,CD Bunol,3,1,1.500,3.900,5.500
-73578882,2026-10-10 15:00,CD Espanol San Vicente,CD Roda,1,1,2.150,3.000,3.100
-73578884,2026-10-10 15:00,Atzeneta UE,CD Acero,1,1,,,
-73578898,2026-10-10 15:30,Crevillente Deportivo,Ontinyent CF,3,2,2.250,3.000,3.000
-73578888,2026-10-11 09:30,SC Torrevieja CF,Atletico Saguntino,2,2,,,
-73578890,2026-10-11 09:30,AC Torrellano,CD Soneja,2,0,2.150,3.200,3.000
-73578886,2026-10-11 15:00,CD Eldense B,UD Vall de Uxo,0,0,2.450,3.000,2.700
-73578906,2026-10-17 10:00,Atletico Levante UD,SC Torrevieja CF,4,1,,,
-73578912,2026-10-17 16:00,CD Acero,CD Eldense B,1,1,,,
-73578904,2026-10-17 16:30,CF Villarreal C,Crevillente Deportivo,1,0,1.420,4.100,6.250
-75413010,2026-10-20 17:00,Atletico Levante UD,Crevillente Deportivo,0,0,,,
-73578922,2026-10-24 14:00,CD Eldense B,CD Soneja,2,3,1.700,3.250,4.500
-73578924,2026-10-24 14:00,Hercules CF B,UD Vall de Uxo,1,1,,,
-73578918,2026-10-24 15:00,CD Espanol San Vicente,Atletico Levante UD,0,2,,,
-73578920,2026-10-24 15:00,Atzeneta UE,CD Roda,2,1,2.150,3.000,3.250
-73578926,2026-10-25 10:30,SC Torrevieja CF,Ontinyent CF,0,0,2.300,3.200,2.700
-73578928,2026-10-25 10:30,AC Torrellano,Atletico Saguntino,2,1,3.100,3.200,2.100
-73578930,2026-10-25 11:00,Torrent CF,CD Acero,1,2,1.727,3.300,4.333
-73578932,2026-10-25 16:30,CD Utiel,CF Villarreal C,0,1,4.333,3.500,1.700
-73578934,2026-10-25 16:30,Crevillente Deportivo,CD Bunol,0,1,1.900,3.300,3.600
-73578940,2026-10-31 11:30,CF Villarreal C,SC Torrevieja CF,2,1,1.333,4.500,7.000
-73578946,2026-10-31 16:30,Atletico Saguntino,Atzeneta UE,3,1,1.800,3.250,3.900
-73578938,2026-10-31 17:00,CD Roda,CD Eldense B,1,0,2.600,3.100,2.500
-73578952,2026-10-31 18:00,CD Bunol,UD Vall de Uxo,2,0,2.750,2.875,2.450
-73578942,2026-11-01 11:00,Atletico Levante UD,AC Torrellano,1,1,,,
-73578950,2026-11-01 15:00,Crevillente Deportivo,CD Utiel,1,1,1.700,3.600,4.100
-73578948,2026-11-01 15:30,CD Acero,Hercules CF B,0,0,2.100,3.100,3.400
-73578936,2026-11-01 16:00,CD Soneja,Torrent CF,0,2,3.000,3.100,2.150
-73578944,2026-11-01 16:00,Ontinyent CF,CD Espanol San Vicente,2,2,1.909,3.100,3.600
-73578956,2026-11-07 15:00,Atzeneta UE,Atletico Levante UD,0,0,,,
-73578958,2026-11-07 15:00,CD Eldense B,Atletico Saguntino,3,0,2.550,3.100,2.450
-73578962,2026-11-08 10:30,SC Torrevieja CF,Crevillente Deportivo,2,3,2.500,3.100,2.500
-73578954,2026-11-08 11:00,CD Espanol San Vicente,CF Villarreal C,1,0,,,
-73578960,2026-11-08 11:00,Hercules CF B,CD Soneja,1,0,1.950,3.100,3.600
-73578964,2026-11-08 11:00,AC Torrellano,Ontinyent CF,1,3,2.150,3.100,3.000
-73578966,2026-11-08 11:00,Torrent CF,CD Roda,3,1,1.800,3.300,3.900
-73578970,2026-11-08 15:30,UD Vall de Uxo,CD Acero,1,2,1.950,3.100,3.700
-73578968,2026-11-08 16:00,CD Utiel,CD Bunol,3,3,2.400,3.000,2.700
-76527128,2026-11-11 19:00,Ontinyent CF,CD Utiel,0,1,1.500,4.100,5.000
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+60530979,2025-05-25 09:30,CF La Nucia,UD Castellonense,1,2,,,,,,
+60809173,2025-06-01 16:00,CD Utiel,UD Castellonense,1,1,,,,,,
+60809235,2025-06-07 17:00,UD Castellonense,CD Utiel,1,1,,,,,,
+63138799,2025-09-06 16:00,Hercules CF B,Atzeneta UE,0,3,,,,,,
+63138809,2025-09-06 17:00,Ontinyent CF,AC Torrellano,0,1,,,,,,
+63138815,2025-09-06 17:00,CF La Nucia,CD Roda,1,1,,,,,,
+63138801,2025-09-07 16:00,CD Soneja,UD Alzira,0,1,,,,,,
+63138811,2025-09-07 16:00,Crevillente Deportivo,FC Jove Espanol San Vicente,1,1,,,,,,
+63138813,2025-09-07 16:00,CD Bunol,UD Vall de Uxo,0,0,,,,,,
+63138803,2025-09-07 16:30,Atletico Saguntino,CD Utiel,2,0,,,,,,
+63138805,2025-09-07 16:30,CF Villarreal C,Recambios Colon CF,5,0,,,,,,
+63138807,2025-09-07 17:15,UD Castellonense,Atletico Levante UD,3,3,,,,,,
+63138821,2025-09-12 16:00,CD Roda,CF Villarreal C,0,0,,,,,,
+63138827,2025-09-13 16:00,AC Torrellano,UD Castellonense,2,0,,,,,,
+63138825,2025-09-13 17:00,Atletico Levante UD,Hercules CF B,1,1,,,,,,
+63138819,2025-09-13 17:30,FC Jove Espanol San Vicente,CF La Nucia,2,1,,,,,,
+63138823,2025-09-14 14:00,Recambios Colon CF,Ontinyent CF,0,0,,,,,,
+63138829,2025-09-14 14:00,CD Utiel,CD Bunol,0,1,,,,,,
+63138817,2025-09-14 15:00,Atzeneta UE,Atletico Saguntino,1,2,,,,,,
+63138833,2025-09-14 16:00,UD Vall de Uxo,CD Soneja,2,1,,,,,,
+63138831,2025-09-14 16:30,UD Alzira,Crevillente Deportivo,1,1,,,,,,
+63138835,2025-09-20 16:00,Hercules CF B,AC Torrellano,2,2,,,,,,
+63138849,2025-09-20 16:00,Crevillente Deportivo,UD Vall de Uxo,1,1,,,,,,
+63138851,2025-09-20 16:00,CF La Nucia,UD Alzira,1,0,,,,,,
+63138839,2025-09-21 15:00,Atzeneta UE,Atletico Levante UD,0,1,,,,,,
+63138837,2025-09-21 15:45,CD Soneja,CD Utiel,2,0,,,,,,
+63138841,2025-09-21 16:00,Atletico Saguntino,CD Bunol,2,0,,,,,,
+63138843,2025-09-21 16:00,CF Villarreal C,FC Jove Espanol San Vicente,4,0,,,,,,
+63138847,2025-09-21 16:00,Ontinyent CF,CD Roda,1,2,,,,,,
+63138845,2025-09-21 16:15,UD Castellonense,Recambios Colon CF,1,1,,,,,,
+63138855,2025-09-27 15:00,CD Roda,UD Castellonense,0,3,,,,,,
+63138859,2025-09-27 15:30,Atletico Levante UD,Atletico Saguntino,3,1,,,,,,
+63138861,2025-09-27 15:30,AC Torrellano,Atzeneta UE,2,0,,,,,,
+63138869,2025-09-27 16:00,CD Bunol,CD Soneja,3,0,,,,,,
+63138853,2025-09-27 17:30,FC Jove Espanol San Vicente,Ontinyent CF,3,1,,,,,,
+63138857,2025-09-28 14:00,Recambios Colon CF,Hercules CF B,1,1,,,,,,
+63138863,2025-09-28 14:30,CD Utiel,Crevillente Deportivo,1,1,,,,,,
+63138867,2025-09-28 15:00,UD Vall de Uxo,CF La Nucia,0,1,,,,,,
+63138865,2025-09-28 15:30,UD Alzira,CF Villarreal C,0,2,,,,,,
+63138873,2025-10-04 15:00,Atzeneta UE,Recambios Colon CF,2,1,,,,,,
+63138877,2025-10-04 15:30,Atletico Levante UD,AC Torrellano,1,2,,,,,,
+63138871,2025-10-04 16:30,Hercules CF B,CD Roda,1,0,,,,,,
+63138885,2025-10-05 09:00,Crevillente Deportivo,CD Bunol,0,1,,,,,,
+63138879,2025-10-05 10:00,CF Villarreal C,UD Vall de Uxo,0,3,,,,,,
+63138881,2025-10-05 15:15,UD Castellonense,FC Jove Espanol San Vicente,2,0,,,,,,
+63138875,2025-10-05 15:30,Atletico Saguntino,CD Soneja,1,0,,,,,,
+63138883,2025-10-05 16:00,Ontinyent CF,UD Alzira,4,0,,,,,,
+63138887,2025-10-05 16:00,CF La Nucia,CD Utiel,0,2,,,,,,
+63138893,2025-10-10 15:30,CD Roda,Atzeneta UE,1,2,,,,,,
+63138891,2025-10-11 15:00,FC Jove Espanol San Vicente,Hercules CF B,0,1,,,,,,
+63138897,2025-10-12 09:30,AC Torrellano,Atletico Saguntino,2,0,,,,,,
+63138899,2025-10-12 14:30,CD Utiel,CF Villarreal C,0,2,,,,,,
+63138903,2025-10-12 14:30,UD Vall de Uxo,Ontinyent CF,1,1,,,,,,
+63138889,2025-10-12 15:30,CD Soneja,Crevillente Deportivo,0,1,,,,,,
+63138905,2025-10-12 16:00,CD Bunol,CF La Nucia,0,0,,,,,,
+63138913,2025-10-18 10:00,Atletico Levante UD,CD Roda,5,1,,,,,,
+63138917,2025-10-18 14:00,CF Villarreal C,CD Bunol,1,1,,,,,,
+63138909,2025-10-18 14:30,Atzeneta UE,FC Jove Espanol San Vicente,2,1,,,,,,
+63138907,2025-10-18 16:30,Hercules CF B,UD Alzira,2,2,,,,,,
+63138915,2025-10-19 10:00,AC Torrellano,Recambios Colon CF,0,0,,,,,,
+63138919,2025-10-19 15:15,UD Castellonense,UD Vall de Uxo,1,0,,,,,,
+63138911,2025-10-19 15:30,Atletico Saguntino,Crevillente Deportivo,3,2,,,,,,
+63138921,2025-10-19 16:00,Ontinyent CF,CD Utiel,0,0,,,,,,
+63138923,2025-10-19 16:00,CF La Nucia,CD Soneja,1,1,,,,,,
+64555810,2025-10-22 18:30,Recambios Colon CF,Atletico Levante UD,0,2,,,,,,
+63138929,2025-10-25 14:00,CD Roda,AC Torrellano,0,0,,,,,,
+63138925,2025-10-25 14:30,CD Soneja,CF Villarreal C,1,1,,,,,,
+63138927,2025-10-25 15:00,FC Jove Espanol San Vicente,Atletico Levante UD,0,1,,,,,,
+63138933,2025-10-25 15:00,CD Utiel,UD Castellonense,1,2,,,,,,
+63138941,2025-10-25 15:00,CD Bunol,Ontinyent CF,1,3,,,,,,
+63138937,2025-10-26 10:30,UD Vall de Uxo,Hercules CF B,1,1,,,,,,
+63138935,2025-10-26 11:00,UD Alzira,Atzeneta UE,3,1,,,,,,
+63138931,2025-10-26 15:00,Recambios Colon CF,Atletico Saguntino,1,2,,,,,,
+63138939,2025-10-26 18:00,Crevillente Deportivo,CF La Nucia,2,2,,,,,,
+64693136,2025-10-29 19:30,UD Alzira,UD Castellonense,0,2,,,,,,
+63138949,2025-11-01 15:00,Recambios Colon CF,CD Roda,0,0,,,,,,
+63138951,2025-11-01 15:00,Atletico Levante UD,UD Alzira,1,0,,,,,,
+63138945,2025-11-01 15:30,Atzeneta UE,UD Vall de Uxo,0,1,,,,,,
+63138955,2025-11-01 17:00,CF Villarreal C,Crevillente Deportivo,1,0,,,,,,
+63138943,2025-11-01 17:30,Hercules CF B,CD Utiel,0,2,,,,,,
+63138953,2025-11-02 11:00,AC Torrellano,FC Jove Espanol San Vicente,3,1,,,,,,
+63138957,2025-11-02 15:15,UD Castellonense,CD Bunol,4,1,,,,,,
+63138959,2025-11-02 16:00,Ontinyent CF,CD Soneja,1,0,,,,,,
+63138947,2025-11-02 16:15,Atletico Saguntino,CF La Nucia,1,1,,,,,,
+63138963,2025-11-08 16:00,FC Jove Espanol San Vicente,Recambios Colon CF,1,2,,,,,,
+63138965,2025-11-08 16:00,CD Roda,Atletico Saguntino,2,4,,,,,,
+63138971,2025-11-09 11:00,UD Vall de Uxo,Atletico Levante UD,0,0,,,,,,
+63138977,2025-11-09 11:00,CF La Nucia,CF Villarreal C,1,3,,,,,,
+63138967,2025-11-09 15:00,CD Utiel,Atzeneta UE,1,0,,,,,,
+63138969,2025-11-09 16:00,UD Alzira,AC Torrellano,1,1,,,,,,
+63138975,2025-11-09 16:00,CD Bunol,Hercules CF B,1,1,,,,,,
+63138961,2025-11-09 16:30,CD Soneja,UD Castellonense,0,1,,,,,,
+63138973,2025-11-09 17:30,Crevillente Deportivo,Ontinyent CF,1,2,,,,,,
+63138981,2025-11-15 15:00,Atzeneta UE,CD Bunol,2,2,,,,,,
+63138989,2025-11-15 15:00,Atletico Levante UD,CD Utiel,1,0,,,,,,
+63138985,2025-11-15 16:00,CD Roda,FC Jove Espanol San Vicente,0,1,,,,,,
+63138979,2025-11-15 17:30,Hercules CF B,CD Soneja,1,2,,,,,,
+63138991,2025-11-16 10:30,AC Torrellano,UD Vall de Uxo,1,2,,,,,,
+63138987,2025-11-16 15:00,Recambios Colon CF,UD Alzira,3,3,,,,,,
+63138993,2025-11-16 15:15,UD Castellonense,Crevillente Deportivo,2,1,,,,,,
+63138983,2025-11-16 16:00,Atletico Saguntino,CF Villarreal C,3,2,,,,,,
+63138995,2025-11-16 16:30,Ontinyent CF,CF La Nucia,1,1,,,,,,
+63138997,2025-11-22 16:00,CD Soneja,Atzeneta UE,1,0,,,,,,
+63138999,2025-11-22 16:00,FC Jove Espanol San Vicente,Atletico Saguntino,0,1,,,,,,
+63139001,2025-11-22 16:30,CF Villarreal C,Ontinyent CF,0,1,,,,,,
+63139007,2025-11-23 10:30,UD Vall de Uxo,Recambios Colon CF,1,1,,,,,,
+63139003,2025-11-23 15:30,CD Utiel,AC Torrellano,1,1,,,,,,
+63139011,2025-11-23 15:30,CD Bunol,Atletico Levante UD,0,0,,,,,,
+63139005,2025-11-23 16:00,UD Alzira,CD Roda,2,3,,,,,,
+63139009,2025-11-23 16:00,Crevillente Deportivo,Hercules CF B,2,2,,,,,,
+63139013,2025-11-23 16:00,CF La Nucia,UD Castellonense,0,2,,,,,,
+63139023,2025-12-06 10:00,CD Roda,UD Vall de Uxo,2,1,,,,,,
+63139017,2025-12-06 15:00,Atzeneta UE,Crevillente Deportivo,0,1,,,,,,
+63139031,2025-12-06 15:15,UD Castellonense,CF Villarreal C,3,2,,,,,,
+63139021,2025-12-06 16:00,Atletico Saguntino,Ontinyent CF,0,1,,,,,,
+63139025,2025-12-06 16:00,Recambios Colon CF,CD Utiel,2,2,,,,,,
+63139015,2025-12-06 17:30,Hercules CF B,CF La Nucia,1,3,,,,,,
+63139029,2025-12-07 10:30,AC Torrellano,CD Bunol,2,3,,,,,,
+63139019,2025-12-07 11:00,FC Jove Espanol San Vicente,UD Alzira,0,1,,,,,,
+63139027,2025-12-07 11:00,Atletico Levante UD,CD Soneja,4,0,,,,,,
+63139033,2025-12-13 11:00,CD Soneja,AC Torrellano,1,0,3.250,3.000,2.150,2,1.975,1.825
+66817086,2025-12-17 19:15,CD Bunol,Recambios Colon CF,2,0,1.900,3.200,3.600,2.25,2.050,1.750
+63139053,2025-12-20 15:00,Atzeneta UE,CF Villarreal C,1,3,,,,,,
+63139059,2025-12-20 15:00,CD Roda,CD Bunol,1,2,3.000,3.000,2.250,2,1.800,2.000
+63139061,2025-12-20 15:00,Recambios Colon CF,CD Soneja,0,1,2.550,3.100,2.550,2,1.800,2.000
+63139055,2025-12-20 16:00,FC Jove Espanol San Vicente,CD Utiel,0,0,2.900,2.900,2.350,1.75,1.775,2.025
+63139057,2025-12-20 16:00,Atletico Saguntino,UD Castellonense,0,0,,,,,,
+63139067,2025-12-20 16:00,UD Alzira,UD Vall de Uxo,0,1,,,,,,
+63139051,2025-12-20 17:30,Hercules CF B,Ontinyent CF,1,0,3.250,3.100,2.050,2,1.925,1.875
+63139063,2025-12-20 17:30,Atletico Levante UD,CF La Nucia,2,2,,,,,,
+63139065,2025-12-21 10:30,AC Torrellano,Crevillente Deportivo,0,2,1.615,3.400,5.000,2,1.775,2.025
+63139073,2026-01-04 10:45,CF Villarreal C,Atletico Levante UD,1,1,2.150,3.200,3.100,2.25,1.975,1.825
+63139075,2026-01-04 15:15,UD Castellonense,Hercules CF B,1,1,1.500,3.900,5.500,2.25,1.925,1.875
+63139069,2026-01-04 15:30,CD Soneja,CD Roda,0,1,2.100,3.000,3.250,2,1.975,1.825
+63139077,2026-01-04 15:30,CD Utiel,UD Alzira,1,1,1.909,3.100,3.800,2,1.850,1.950
+63139071,2026-01-04 16:00,Atletico Saguntino,UD Vall de Uxo,2,0,2.000,3.000,3.600,2,1.975,1.825
+63139079,2026-01-04 16:00,Ontinyent CF,Atzeneta UE,1,1,2.050,2.800,3.700,1.5,1.775,2.025
+63139083,2026-01-04 16:00,CD Bunol,FC Jove Espanol San Vicente,0,0,2.050,3.200,3.300,2.25,1.875,1.925
+63139085,2026-01-04 16:00,CF La Nucia,AC Torrellano,4,1,,,,,,
+63139081,2026-01-04 16:30,Crevillente Deportivo,Recambios Colon CF,1,1,1.909,3.000,3.900,2.25,2.000,1.800
+67155442,2026-01-07 15:00,CF Villarreal C,Hercules CF B,0,1,1.363,4.000,8.000,2.5,1.975,1.825
+63139089,2026-01-10 15:00,Atzeneta UE,UD Castellonense,0,1,3.300,2.875,2.150,2,1.875,1.925
+63139097,2026-01-10 15:00,Atletico Levante UD,Ontinyent CF,0,0,1.650,3.100,5.250,2,2.025,1.775
+63139101,2026-01-10 15:30,UD Alzira,CD Bunol,1,1,2.200,3.000,3.000,2,1.775,2.025
+63139103,2026-01-10 15:30,UD Vall de Uxo,CD Utiel,0,1,2.150,2.750,3.500,1.75,1.950,1.850
+63139091,2026-01-10 16:00,FC Jove Espanol San Vicente,CD Soneja,3,1,2.500,2.900,2.750,2,1.950,1.850
+63139087,2026-01-11 10:30,Hercules CF B,Atletico Saguntino,0,2,3.250,2.900,2.150,1.75,1.775,2.025
+63139093,2026-01-11 10:30,CD Roda,Crevillente Deportivo,3,0,2.250,3.100,2.875,2.25,1.775,2.025
+63139099,2026-01-11 10:30,AC Torrellano,CF Villarreal C,3,2,3.100,3.100,2.150,2,1.800,2.000
+63139095,2026-01-11 15:00,Recambios Colon CF,CF La Nucia,0,1,5.000,3.500,1.571,2,1.750,2.050
+67145428,2026-01-14 18:00,UD Alzira,Atletico Saguntino,3,1,3.750,3.100,1.909,2,1.975,1.825
+67155440,2026-01-14 18:00,Crevillente Deportivo,Atletico Levante UD,0,1,4.750,3.100,1.700,2,1.775,2.025
+67155478,2026-01-14 18:00,UD Vall de Uxo,FC Jove Espanol San Vicente,2,1,1.600,3.200,6.000,2,1.950,1.850
+63139105,2026-01-17 15:00,Atzeneta UE,Hercules CF B,2,1,,,,,,
+63139111,2026-01-17 15:00,Recambios Colon CF,CF Villarreal C,1,2,6.000,3.800,1.450,2.25,1.800,2.000
+63139109,2026-01-17 15:30,CD Roda,CF La Nucia,0,1,4.333,3.400,1.727,2.25,1.950,1.850
+63139117,2026-01-17 15:30,CD Utiel,Atletico Saguntino,1,3,2.350,3.000,2.875,2,2.000,1.800
+63139115,2026-01-18 10:30,AC Torrellano,Ontinyent CF,1,0,2.250,2.875,3.200,1.75,1.750,2.050
+63139107,2026-01-18 11:00,FC Jove Espanol San Vicente,Crevillente Deportivo,2,2,2.050,2.900,3.400,1.75,2.000,1.800
+63139113,2026-01-18 11:00,Atletico Levante UD,UD Castellonense,1,0,2.200,2.900,3.100,2,1.975,1.825
+63139119,2026-01-18 11:00,UD Alzira,CD Soneja,1,2,1.950,3.200,3.600,2,1.800,2.000
+63139121,2026-01-18 15:30,UD Vall de Uxo,CD Bunol,1,1,2.300,3.000,2.900,2,2.025,1.775
+67093608,2026-01-21 16:00,CF La Nucia,Atzeneta UE,1,1,1.615,3.300,4.750,2.25,1.775,2.025
+66979934,2026-01-21 18:45,Ontinyent CF,UD Castellonense,3,2,3.200,3.000,2.100,1.75,1.750,2.050
+67090206,2026-01-21 19:00,CD Utiel,CD Roda,2,0,2.000,3.000,3.500,2,2.000,1.800
+63139137,2026-01-24 17:00,CD Bunol,CD Utiel,1,0,2.250,3.000,3.000,2,2.000,1.800
+63139123,2026-01-24 17:30,Hercules CF B,Atletico Levante UD,0,0,,,,,,
+63139129,2026-01-25 11:00,CF Villarreal C,CD Roda,4,1,1.480,3.900,5.500,2.75,1.850,1.950
+63139131,2026-01-25 15:15,UD Castellonense,AC Torrellano,1,1,1.900,3.000,3.800,2,2.000,1.800
+63139125,2026-01-25 15:30,CD Soneja,UD Vall de Uxo,1,0,2.700,2.900,2.550,1.75,1.825,1.975
+63139127,2026-01-25 16:00,Atletico Saguntino,Atzeneta UE,0,1,1.850,3.200,3.700,2,2.000,1.800
+63139133,2026-01-25 16:00,Ontinyent CF,Recambios Colon CF,0,0,1.650,3.000,5.500,1.75,1.850,1.950
+63139139,2026-01-25 16:00,CF La Nucia,FC Jove Espanol San Vicente,1,0,,,,,,
+63139135,2026-01-25 17:15,Crevillente Deportivo,UD Alzira,2,0,2.150,2.750,3.400,1.75,2.000,1.800
+63139149,2026-02-01 10:30,AC Torrellano,Hercules CF B,3,0,,,,,,
+63139147,2026-02-01 11:00,Atletico Levante UD,Atzeneta UE,1,0,1.650,3.300,5.250,2,1.775,2.025
+63139145,2026-02-01 15:00,Recambios Colon CF,UD Castellonense,0,1,5.000,3.200,1.666,2,2.000,1.800
+63139151,2026-02-01 15:30,CD Utiel,CD Soneja,1,2,2.100,3.100,3.200,2,1.800,2.000
+63139153,2026-02-01 15:30,UD Alzira,CF La Nucia,1,1,,,,,,
+63139155,2026-02-01 15:30,UD Vall de Uxo,Crevillente Deportivo,3,1,2.050,3.000,3.400,2,2.025,1.775
+63139157,2026-02-01 15:30,CD Bunol,Atletico Saguntino,2,1,3.300,2.875,2.150,2,1.925,1.875
+63139161,2026-02-07 15:30,CD Soneja,CD Bunol,1,2,2.350,3.000,2.800,2,2.025,1.775
+63139163,2026-02-07 15:30,Atzeneta UE,AC Torrellano,1,0,2.450,3.000,2.700,2,1.900,1.900
+63139159,2026-02-07 17:30,Hercules CF B,Recambios Colon CF,2,0,,,,,,
+63139167,2026-02-08 11:00,CF Villarreal C,UD Alzira,3,2,1.480,3.700,6.000,2.25,1.825,1.975
+63139169,2026-02-08 15:15,UD Castellonense,CD Roda,2,0,1.650,3.250,5.000,2,1.825,1.975
+63139165,2026-02-08 16:00,Atletico Saguntino,Atletico Levante UD,0,0,2.700,2.900,2.450,1.75,1.800,2.000
+63139171,2026-02-08 16:00,Ontinyent CF,FC Jove Espanol San Vicente,1,0,1.727,3.200,4.500,2,1.950,1.850
+63139175,2026-02-08 16:00,CF La Nucia,UD Vall de Uxo,1,0,,,,,,
+63139173,2026-02-08 16:30,Crevillente Deportivo,CD Utiel,3,1,2.550,2.900,2.625,2,2.050,1.750
+63139185,2026-02-15 10:30,AC Torrellano,Atletico Levante UD,1,1,2.750,3.000,2.400,1.75,1.825,1.975
+63139179,2026-02-15 11:00,FC Jove Espanol San Vicente,UD Castellonense,0,4,3.400,2.800,2.150,1.75,1.825,1.975
+63139183,2026-02-15 15:00,Recambios Colon CF,Atzeneta UE,0,0,4.000,3.100,1.850,2,2.025,1.775
+63139187,2026-02-15 15:30,CD Utiel,CF La Nucia,0,0,3.400,2.875,2.100,2,1.775,2.025
+63139191,2026-02-15 15:30,UD Vall de Uxo,CF Villarreal C,2,0,2.800,3.000,2.350,2,1.825,1.975
+63139189,2026-02-15 16:00,UD Alzira,Ontinyent CF,0,0,3.200,2.750,2.300,1.5,1.850,1.950
+63139195,2026-02-21 15:00,Hercules CF B,FC Jove Espanol San Vicente,0,0,,,,,,
+63139197,2026-02-21 15:30,Atzeneta UE,CD Roda,1,1,1.700,3.200,4.750,2,1.950,1.850
+63139201,2026-02-21 15:30,Atletico Levante UD,Recambios Colon CF,4,2,1.250,4.000,9.000,2.25,1.850,1.950
+63139203,2026-02-21 18:30,CF Villarreal C,CD Utiel,3,1,1.800,3.250,4.100,2.25,2.000,1.800
+63139205,2026-02-22 10:45,UD Castellonense,UD Alzira,4,1,1.615,3.100,5.500,1.75,1.750,2.050
+63139199,2026-02-22 16:00,Atletico Saguntino,AC Torrellano,2,1,1.750,3.200,4.333,2,2.000,1.800
+63139207,2026-02-22 16:00,Ontinyent CF,UD Vall de Uxo,1,0,2.900,2.700,2.500,1.5,1.800,2.000
+63139211,2026-02-22 16:00,CF La Nucia,CD Bunol,2,0,1.615,3.300,5.250,2,1.900,1.900
+63139209,2026-02-22 17:15,Crevillente Deportivo,CD Soneja,2,2,2.450,3.000,2.625,2,1.900,1.900
+63139217,2026-02-28 15:30,CD Roda,Atletico Levante UD,2,1,3.750,3.000,1.950,2,2.000,1.800
+63139215,2026-02-28 16:00,FC Jove Espanol San Vicente,Atzeneta UE,0,0,3.100,2.875,2.250,2,2.000,1.800
+63139219,2026-03-01 15:00,Recambios Colon CF,AC Torrellano,1,2,4.750,3.250,1.700,2,1.950,1.850
+63139221,2026-03-01 15:30,CD Utiel,Ontinyent CF,1,2,2.350,2.800,3.000,1.75,1.875,1.925
+63139225,2026-03-01 15:30,UD Vall de Uxo,UD Castellonense,1,1,,,,,,
+63139229,2026-03-01 15:30,CD Bunol,CF Villarreal C,2,2,2.800,3.100,2.300,2.25,2.000,1.800
+63139213,2026-03-01 16:30,CD Soneja,CF La Nucia,0,0,4.333,3.200,1.750,2,2.000,1.800
+63139223,2026-03-01 16:30,UD Alzira,Hercules CF B,0,1,2.050,3.200,3.200,2.25,2.050,1.750
+63139227,2026-03-01 17:00,Crevillente Deportivo,Atletico Saguntino,0,0,2.800,3.100,2.300,2,1.950,1.850
+68723216,2026-03-04 18:00,FC Jove Espanol San Vicente,CF Villarreal C,4,1,3.900,3.400,1.800,2.25,1.950,1.850
+68908172,2026-03-04 18:30,CD Roda,Ontinyent CF,0,2,2.800,2.900,2.400,1.75,1.775,2.025
+63139231,2026-03-07 15:00,Hercules CF B,UD Vall de Uxo,0,1,2.550,2.900,2.625,1.75,1.875,1.925
+63139233,2026-03-07 16:00,Atzeneta UE,UD Alzira,1,2,1.727,3.200,4.500,2,1.850,1.950
+63139237,2026-03-08 10:30,Atletico Levante UD,FC Jove Espanol San Vicente,0,2,,,,,,
+63139239,2026-03-08 10:30,AC Torrellano,CD Roda,0,2,1.700,3.300,4.500,2,2.025,1.775
+63139243,2026-03-08 10:30,UD Castellonense,CD Utiel,1,0,1.650,3.300,4.750,2,1.775,2.025
+63139235,2026-03-08 16:00,Atletico Saguntino,Recambios Colon CF,1,0,1.420,3.800,7.000,2.25,1.925,1.875
+63139245,2026-03-08 16:00,Ontinyent CF,CD Bunol,1,0,2.050,2.875,3.600,2,1.950,1.850
+63139247,2026-03-08 18:00,CF La Nucia,Crevillente Deportivo,3,0,1.400,3.750,7.500,2,2.000,1.800
+63139241,2026-03-08 18:30,CF Villarreal C,CD Soneja,2,0,1.666,3.400,4.500,2.25,1.800,2.000
+69346910,2026-03-11 19:00,CD Soneja,Atletico Saguntino,2,1,3.200,3.000,2.150,2,2.025,1.775
+69618212,2026-03-11 19:00,CD Bunol,Crevillente Deportivo,0,4,1.800,3.200,4.000,2,1.800,2.000
+63139251,2026-03-14 16:00,FC Jove Espanol San Vicente,AC Torrellano,1,0,2.750,3.000,2.375,2,1.950,1.850
+63139253,2026-03-14 16:00,CD Roda,Recambios Colon CF,2,1,1.800,3.100,4.200,2,1.875,1.925
+63139259,2026-03-14 16:00,UD Vall de Uxo,Atzeneta UE,1,0,2.150,2.875,3.250,1.75,1.850,1.950
+63139265,2026-03-14 16:00,CF La Nucia,Atletico Saguntino,1,0,1.666,3.200,4.750,2,2.025,1.775
+63139255,2026-03-15 15:30,CD Utiel,Hercules CF B,1,2,,,,,,
+63139263,2026-03-15 16:00,CD Bunol,UD Castellonense,2,0,3.500,3.000,2.000,2,1.975,1.825
+63139249,2026-03-15 16:30,CD Soneja,Ontinyent CF,1,1,,,,,,
+63139257,2026-03-15 16:30,UD Alzira,Atletico Levante UD,1,2,,,,,,
+63139261,2026-03-15 17:15,Crevillente Deportivo,CF Villarreal C,1,2,3.000,3.250,2.150,2.25,1.900,1.900
+63139271,2026-03-21 17:00,Atletico Saguntino,CD Roda,1,1,1.666,3.300,4.750,2,1.825,1.975
+63139267,2026-03-21 17:30,Hercules CF B,CD Bunol,3,1,2.450,3.000,2.700,2,1.950,1.850
+63139277,2026-03-22 10:30,AC Torrellano,UD Alzira,3,0,,,,,,
+63139281,2026-03-22 10:45,UD Castellonense,CD Soneja,2,0,1.500,3.600,6.000,2.25,1.975,1.825
+63139269,2026-03-22 11:00,Atzeneta UE,CD Utiel,1,3,,,,,,
+63139275,2026-03-22 11:00,Atletico Levante UD,UD Vall de Uxo,1,0,,,,,,
+63139273,2026-03-22 15:00,Recambios Colon CF,FC Jove Espanol San Vicente,1,2,3.800,3.100,1.909,2,1.950,1.850
+63139283,2026-03-22 16:00,Ontinyent CF,Crevillente Deportivo,0,2,1.950,3.100,3.600,2,1.950,1.850
+63139279,2026-03-22 17:00,CF Villarreal C,CF La Nucia,1,1,2.875,3.100,2.250,2,1.825,1.975
+69277778,2026-03-25 16:00,CD Roda,Hercules CF B,1,0,2.200,2.800,3.300,2,1.900,1.900
+63139293,2026-03-28 16:00,UD Alzira,Recambios Colon CF,2,0,1.571,3.400,6.000,2.25,1.800,2.000
+63139295,2026-03-28 16:00,UD Vall de Uxo,AC Torrellano,1,0,2.250,2.900,3.000,1.75,2.050,1.750
+63139289,2026-03-28 16:30,CF Villarreal C,Atletico Saguntino,1,2,2.600,3.000,2.500,2.25,2.025,1.775
+63139287,2026-03-29 10:00,FC Jove Espanol San Vicente,CD Roda,2,1,2.100,3.000,3.200,2,1.900,1.900
+63139291,2026-03-29 14:30,CD Utiel,Atletico Levante UD,0,3,,,,,,
+63139301,2026-03-29 15:00,CF La Nucia,Ontinyent CF,2,0,1.666,3.500,4.500,2,2.050,1.750
+63139299,2026-03-29 15:30,CD Bunol,Atzeneta UE,2,0,2.550,3.100,2.550,2,1.950,1.850
+63139297,2026-03-29 16:30,Crevillente Deportivo,UD Castellonense,0,1,3.300,3.000,2.100,2,1.900,1.900
+63139309,2026-04-02 15:00,CD Roda,UD Alzira,0,0,2.250,3.200,2.900,2.25,2.000,1.800
+63139319,2026-04-02 17:30,Ontinyent CF,CF Villarreal C,0,2,2.500,2.900,2.750,2,1.850,1.950
+63139311,2026-04-02 18:00,Recambios Colon CF,UD Vall de Uxo,2,2,5.500,3.200,1.615,2,1.925,1.875
+63139305,2026-04-03 15:00,Atzeneta UE,CD Soneja,0,1,1.909,3.100,3.750,2.25,2.050,1.750
+63139315,2026-04-04 10:00,AC Torrellano,CD Utiel,1,0,,,,,,
+63139313,2026-04-04 15:30,Atletico Levante UD,CD Bunol,4,0,,,,,,
+63139317,2026-04-04 16:15,UD Castellonense,CF La Nucia,2,0,2.450,3.000,2.750,1.75,1.825,1.975
+63139303,2026-04-04 16:30,Hercules CF B,Crevillente Deportivo,1,1,2.300,3.000,3.000,2,1.950,1.850
+63139307,2026-04-05 16:00,Atletico Saguntino,FC Jove Espanol San Vicente,2,1,1.650,3.300,4.750,2,1.850,1.950
+63139321,2026-04-11 09:45,CD Soneja,Atletico Levante UD,2,2,,,,,,
+63139335,2026-04-11 16:00,CD Bunol,AC Torrellano,0,0,2.875,3.000,2.300,2,1.950,1.850
+63139327,2026-04-11 16:30,UD Alzira,FC Jove Espanol San Vicente,1,0,2.375,3.000,2.750,2,1.825,1.975
+63139325,2026-04-11 18:00,CD Utiel,Recambios Colon CF,2,2,,,,,,
+63139331,2026-04-12 15:00,UD Vall de Uxo,CD Roda,1,0,,,,,,
+63139337,2026-04-12 15:00,CF La Nucia,Hercules CF B,1,0,,,,,,
+63139323,2026-04-12 16:00,CF Villarreal C,UD Castellonense,3,0,2.625,3.100,2.400,2,1.800,2.000
+63139329,2026-04-12 16:00,Ontinyent CF,Atletico Saguntino,0,1,,,,,,
+63139333,2026-04-12 16:00,Crevillente Deportivo,Atzeneta UE,2,3,2.250,3.000,2.900,1.75,2.025,1.775
+70664274,2026-04-15 17:30,CD Soneja,Hercules CF B,1,2,2.400,2.375,3.600,1.75,1.775,2.025
+63139341,2026-04-18 15:00,Atzeneta UE,CF La Nucia,0,0,4.100,3.100,1.800,1.75,2.025,1.775
+63139343,2026-04-18 15:00,FC Jove Espanol San Vicente,UD Vall de Uxo,1,1,,,,,,
+63139347,2026-04-18 15:00,CD Roda,CD Utiel,3,1,2.200,2.800,3.250,2,1.850,1.950
+63139351,2026-04-18 15:00,Atletico Levante UD,Crevillente Deportivo,4,1,,,,,,
+63139355,2026-04-18 16:15,UD Castellonense,Ontinyent CF,2,3,1.500,3.400,6.250,1.75,1.975,1.825
+63139339,2026-04-18 16:30,Hercules CF B,CF Villarreal C,0,4,,,,,,
+63139353,2026-04-19 09:30,AC Torrellano,CD Soneja,0,1,1.571,3.600,5.000,2.25,1.775,2.025
+63139349,2026-04-19 14:00,Recambios Colon CF,CD Bunol,0,1,,,,,,
+63139345,2026-04-19 16:00,Atletico Saguntino,UD Alzira,1,0,1.600,3.300,5.250,2.25,2.025,1.775
+63139357,2026-04-25 15:00,CD Soneja,Recambios Colon CF,2,3,,,,,,
+63139361,2026-04-26 09:15,UD Castellonense,Atletico Saguntino,1,1,2.150,3.000,3.200,2,1.875,1.925
+63139367,2026-04-26 15:00,UD Vall de Uxo,UD Alzira,1,0,,,,,,
+63139371,2026-04-26 15:00,CD Bunol,CD Roda,0,1,,,,,,
+63139373,2026-04-26 15:00,CF La Nucia,Atletico Levante UD,3,2,,,,,,
+63139359,2026-04-26 15:30,CF Villarreal C,Atzeneta UE,2,0,,,,,,
+63139363,2026-04-26 16:00,CD Utiel,FC Jove Espanol San Vicente,1,1,,,,,,
+63139365,2026-04-26 16:00,Ontinyent CF,Hercules CF B,0,1,,,,,,
+63139369,2026-04-26 16:30,Crevillente Deportivo,AC Torrellano,2,4,,,,,,
+63139381,2026-05-02 15:00,CD Roda,CD Soneja,0,1,,,,,,
+63139375,2026-05-02 16:30,Hercules CF B,UD Castellonense,1,4,,,,,,
+63139377,2026-05-02 16:30,Atzeneta UE,Ontinyent CF,2,1,,,,,,
+63139379,2026-05-02 16:30,FC Jove Espanol San Vicente,CD Bunol,3,0,,,,,,
+63139383,2026-05-02 16:30,Recambios Colon CF,Crevillente Deportivo,1,2,,,,,,
+63139385,2026-05-02 16:30,Atletico Levante UD,CF Villarreal C,0,1,,,,,,
+63139387,2026-05-02 16:30,AC Torrellano,CF La Nucia,0,3,,,,,,
+63139389,2026-05-02 16:30,UD Alzira,CD Utiel,2,2,,,,,,
+63139391,2026-05-02 16:30,UD Vall de Uxo,Atletico Saguntino,0,4,,,,,,
+63139393,2026-05-09 14:30,CD Soneja,FC Jove Espanol San Vicente,5,2,,,,,,
+63139395,2026-05-09 16:30,Atletico Saguntino,Hercules CF B,3,0,,,,,,
+63139397,2026-05-09 16:30,CF Villarreal C,AC Torrellano,2,0,,,,,,
+63139399,2026-05-09 16:30,UD Castellonense,Atzeneta UE,0,1,,,,,,
+63139401,2026-05-09 16:30,CD Utiel,UD Vall de Uxo,1,0,,,,,,
+63139403,2026-05-09 16:30,Ontinyent CF,Atletico Levante UD,0,1,,,,,,
+63139405,2026-05-09 16:30,Crevillente Deportivo,CD Roda,2,0,,,,,,
+63139407,2026-05-09 16:30,CD Bunol,UD Alzira,1,0,,,,,,
+63139409,2026-05-09 16:30,CF La Nucia,Recambios Colon CF,3,0,,,,,,
+71482460,2026-05-17 10:00,CF Villarreal C,Atletico Levante UD,1,3,,,,,,
+71482464,2026-05-17 16:00,CF La Nucia,Atletico Saguntino,3,1,2.100,2.900,3.500,2,2.050,1.750
+71482472,2026-05-24 16:00,Atletico Saguntino,CF La Nucia,1,0,2.450,3.100,2.550,2.25,1.950,1.850
+71482476,2026-05-24 16:00,Atletico Levante UD,CF Villarreal C,1,2,,,,,,
+71753242,2026-05-31 17:30,CF La Nucia,Atletico Levante UD,1,0,,,,,,
+71753244,2026-06-07 09:00,Atletico Levante UD,CF La Nucia,1,1,,,,,,
+73578798,2026-09-05 16:00,Hercules CF B,SC Torrevieja CF,1,2,2.300,2.900,2.900,2,1.750,2.050
+73578804,2026-09-05 16:00,CD Acero,Crevillente Deportivo,0,1,2.200,3.300,2.800,2.5,1.900,1.900
+73578808,2026-09-05 16:30,CD Bunol,Atzeneta UE,2,1,2.200,3.000,3.100,2,1.950,1.850
+73578800,2026-09-05 17:00,Torrent CF,CD Espanol San Vicente,4,0,,,,,,
+73578794,2026-09-06 09:00,CD Eldense B,AC Torrellano,1,0,2.375,3.200,2.625,2.25,1.975,1.825
+73578796,2026-09-06 10:00,CD Roda,Ontinyent CF,2,1,2.250,3.000,3.000,1.75,1.800,2.000
+73578792,2026-09-06 16:00,CD Soneja,CF Villarreal C,0,3,3.400,3.200,1.950,2.25,1.950,1.850
+73578802,2026-09-06 17:00,Atletico Saguntino,Atletico Levante UD,2,1,,,,,,
+73578806,2026-09-06 17:00,UD Vall de Uxo,CD Utiel,0,0,1.750,2.625,4.500,1.75,1.750,2.050
+73578824,2026-09-12 15:30,CD Utiel,CD Acero,1,1,,,,,,
+73578818,2026-09-12 16:30,Atletico Levante UD,CD Bunol,0,0,,,,,,
+73578814,2026-09-13 09:30,SC Torrevieja CF,UD Vall de Uxo,0,2,2.550,3.000,2.550,2,1.800,2.000
+73578816,2026-09-13 09:30,AC Torrellano,Torrent CF,1,2,3.200,3.100,2.100,2.25,2.000,1.800
+73578810,2026-09-13 10:00,CD Espanol San Vicente,Hercules CF B,2,2,2.250,2.875,3.200,2,1.800,2.000
+73578812,2026-09-13 15:30,Atzeneta UE,CD Eldense B,0,0,,,,,,
+73578820,2026-09-13 16:00,CF Villarreal C,CD Roda,2,1,1.533,3.600,5.750,2.25,1.900,1.900
+73578822,2026-09-13 16:00,Ontinyent CF,Atletico Saguntino,1,0,3.000,3.000,2.250,2,2.000,1.800
+73578826,2026-09-13 16:30,Crevillente Deportivo,CD Soneja,2,2,1.850,3.100,4.000,2,1.750,2.050
+73578830,2026-09-19 14:00,CD Roda,Crevillente Deportivo,1,1,,,,,,
+73578832,2026-09-19 15:30,Hercules CF B,AC Torrellano,3,1,3.200,3.100,2.100,2,1.800,2.000
+73578840,2026-09-19 16:00,CD Acero,SC Torrevieja CF,2,0,2.400,3.100,2.625,,,
+73578834,2026-09-20 09:30,Atletico Levante UD,Ontinyent CF,2,0,,,,,,
+73578836,2026-09-20 10:00,Torrent CF,Atzeneta UE,1,1,1.650,3.750,4.333,2.25,1.900,1.900
+73578828,2026-09-20 15:30,CD Soneja,CD Utiel,2,0,2.100,3.000,3.250,2,1.775,2.025
+73578842,2026-09-20 16:00,UD Vall de Uxo,CD Espanol San Vicente,2,1,1.727,3.200,4.500,2,1.950,1.850
+73578844,2026-09-20 16:00,CD Bunol,CD Eldense B,1,1,,,,,,
+73578838,2026-09-20 16:30,Atletico Saguntino,CF Villarreal C,0,1,2.500,3.100,2.600,2.25,1.875,1.925
+73578856,2026-09-26 10:00,CF Villarreal C,Atletico Levante UD,0,2,,,,,,
+73578850,2026-09-26 14:00,CD Eldense B,Torrent CF,3,1,2.750,3.200,2.300,2,1.800,2.000
+73578846,2026-09-26 15:00,CD Espanol San Vicente,CD Acero,1,1,2.375,3.100,2.700,2.25,1.925,1.875
+73578848,2026-09-26 15:00,Atzeneta UE,Hercules CF B,1,1,,,,,,
+73578852,2026-09-27 09:30,SC Torrevieja CF,CD Soneja,2,0,2.200,3.100,3.000,2.25,1.875,1.925
+73578854,2026-09-27 09:30,AC Torrellano,UD Vall de Uxo,0,3,2.625,2.875,2.600,2,1.850,1.950
+73578860,2026-09-27 15:30,CD Utiel,CD Roda,1,1,2.050,3.000,3.400,2,1.775,2.025
+73578858,2026-09-27 16:00,Ontinyent CF,CD Bunol,3,0,2.200,3.000,3.100,2,1.925,1.875
+73578862,2026-09-27 16:00,Crevillente Deportivo,Atletico Saguntino,2,2,2.750,2.900,2.400,2,1.775,2.025
+73578864,2026-10-03 14:00,CD Soneja,CD Espanol San Vicente,1,2,1.900,3.100,3.900,2,1.750,2.050
+73578866,2026-10-03 15:00,CD Roda,SC Torrevieja CF,2,0,2.200,3.000,3.100,2.25,2.050,1.750
+73578868,2026-10-03 15:00,Hercules CF B,CD Eldense B,1,0,2.300,3.000,2.900,2.25,1.925,1.875
+73578876,2026-10-03 15:00,CD Acero,AC Torrellano,1,1,2.050,3.100,3.300,2.25,2.000,1.800
+73578878,2026-10-04 15:00,UD Vall de Uxo,Atzeneta UE,1,1,2.050,3.000,3.500,2,1.875,1.925
+73578872,2026-10-04 16:00,Ontinyent CF,CF Villarreal C,1,2,2.700,3.100,2.400,2.25,1.975,1.825
+73578874,2026-10-04 16:00,Atletico Saguntino,CD Utiel,3,2,1.500,3.500,5.750,2.25,2.000,1.800
+73578880,2026-10-04 16:00,CD Bunol,Torrent CF,0,1,3.200,3.100,2.150,2,1.775,2.025
+73578894,2026-10-09 10:00,Torrent CF,Hercules CF B,0,1,1.750,3.300,4.333,2.25,1.850,1.950
+73578896,2026-10-09 16:00,CD Utiel,Atletico Levante UD,0,3,,,,,,
+73578892,2026-10-09 16:30,CF Villarreal C,CD Bunol,3,1,1.500,3.900,5.500,2.5,1.975,1.825
+73578882,2026-10-10 15:00,CD Espanol San Vicente,CD Roda,1,1,2.150,3.000,3.100,2.25,2.000,1.800
+73578884,2026-10-10 15:00,Atzeneta UE,CD Acero,1,1,,,,,,
+73578898,2026-10-10 15:30,Crevillente Deportivo,Ontinyent CF,3,2,2.250,3.000,3.000,2,1.775,2.025
+73578888,2026-10-11 09:30,SC Torrevieja CF,Atletico Saguntino,2,2,,,,,,
+73578890,2026-10-11 09:30,AC Torrellano,CD Soneja,2,0,2.150,3.200,3.000,2.25,1.775,2.025
+73578886,2026-10-11 15:00,CD Eldense B,UD Vall de Uxo,0,0,2.450,3.000,2.700,2,1.825,1.975
+73578906,2026-10-17 10:00,Atletico Levante UD,SC Torrevieja CF,4,1,,,,,,
+73578912,2026-10-17 16:00,CD Acero,CD Eldense B,1,1,,,,,,
+73578904,2026-10-17 16:30,CF Villarreal C,Crevillente Deportivo,1,0,1.420,4.100,6.250,2.75,1.850,1.950
+75413010,2026-10-20 17:00,Atletico Levante UD,Crevillente Deportivo,0,0,,,,,,
+73578922,2026-10-24 14:00,CD Eldense B,CD Soneja,2,3,1.700,3.250,4.500,2.25,1.975,1.825
+73578924,2026-10-24 14:00,Hercules CF B,UD Vall de Uxo,1,1,,,,,,
+73578918,2026-10-24 15:00,CD Espanol San Vicente,Atletico Levante UD,0,2,,,,,,
+73578920,2026-10-24 15:00,Atzeneta UE,CD Roda,2,1,2.150,3.000,3.250,2.25,2.000,1.800
+73578926,2026-10-25 10:30,SC Torrevieja CF,Ontinyent CF,0,0,2.300,3.200,2.700,2,1.850,1.950
+73578928,2026-10-25 10:30,AC Torrellano,Atletico Saguntino,2,1,3.100,3.200,2.100,2.25,1.900,1.900
+73578930,2026-10-25 11:00,Torrent CF,CD Acero,1,2,1.727,3.300,4.333,2.25,1.850,1.950
+73578932,2026-10-25 16:30,CD Utiel,CF Villarreal C,0,1,4.333,3.500,1.700,2.5,1.925,1.875
+73578934,2026-10-25 16:30,Crevillente Deportivo,CD Bunol,0,1,1.900,3.300,3.600,2.25,1.900,1.900
+73578940,2026-10-31 11:30,CF Villarreal C,SC Torrevieja CF,2,1,1.333,4.500,7.000,2.75,2.000,1.800
+73578946,2026-10-31 16:30,Atletico Saguntino,Atzeneta UE,3,1,1.800,3.250,3.900,2.25,1.925,1.875
+73578938,2026-10-31 17:00,CD Roda,CD Eldense B,1,0,2.600,3.100,2.500,2.25,1.950,1.850
+73578952,2026-10-31 18:00,CD Bunol,UD Vall de Uxo,2,0,2.750,2.875,2.450,1.75,1.800,2.000
+73578942,2026-11-01 11:00,Atletico Levante UD,AC Torrellano,1,1,,,,,,
+73578950,2026-11-01 15:00,Crevillente Deportivo,CD Utiel,1,1,1.700,3.600,4.100,2.5,1.975,1.825
+73578948,2026-11-01 15:30,CD Acero,Hercules CF B,0,0,2.100,3.100,3.400,2.25,2.025,1.775
+73578936,2026-11-01 16:00,CD Soneja,Torrent CF,0,2,3.000,3.100,2.150,2.25,2.000,1.800
+73578944,2026-11-01 16:00,Ontinyent CF,CD Espanol San Vicente,2,2,1.909,3.100,3.600,2,1.775,2.025
+73578956,2026-11-07 15:00,Atzeneta UE,Atletico Levante UD,0,0,,,,,,
+73578958,2026-11-07 15:00,CD Eldense B,Atletico Saguntino,3,0,2.550,3.100,2.450,2.25,1.850,1.950
+73578962,2026-11-08 10:30,SC Torrevieja CF,Crevillente Deportivo,2,3,2.500,3.100,2.500,2.5,2.000,1.800
+73578954,2026-11-08 11:00,CD Espanol San Vicente,CF Villarreal C,1,0,,,,,,
+73578960,2026-11-08 11:00,Hercules CF B,CD Soneja,1,0,1.950,3.100,3.600,2.25,2.000,1.800
+73578964,2026-11-08 11:00,AC Torrellano,Ontinyent CF,1,3,2.150,3.100,3.000,2.25,1.975,1.825
+73578966,2026-11-08 11:00,Torrent CF,CD Roda,3,1,1.800,3.300,3.900,2.25,1.950,1.850
+73578970,2026-11-08 15:30,UD Vall de Uxo,CD Acero,1,2,1.950,3.100,3.700,2,1.850,1.950
+73578968,2026-11-08 16:00,CD Utiel,CD Bunol,3,3,2.400,3.000,2.700,2.25,2.050,1.750
+76527128,2026-11-11 19:00,Ontinyent CF,CD Utiel,0,1,1.500,4.100,5.000,2.75,2.000,1.800

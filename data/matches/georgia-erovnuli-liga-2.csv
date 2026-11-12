@@ -1,245 +1,245 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-57354385,2025-05-24 13:00,FC Samtredia,FC Spaeri,1,0,,,
-57354389,2025-05-24 13:00,FC Merani Martvili,Dinamo-2 Tbilisi,2,1,,,
-57354391,2025-05-24 16:00,FC Rustavi,FC Lokomotivi Tbilisi,2,1,,,
-57354397,2025-05-28 13:00,FC Meshakhte Tkibuli,FC IberiaTiblisi 1999 II,1,0,,,
-57354399,2025-05-28 13:00,FC Spaeri,FC Rustavi,0,0,,,
-57354395,2025-05-28 14:00,Dinamo-2 Tbilisi,FC Samtredia,2,2,,,
-57354403,2025-05-28 15:00,FC Lokomotivi Tbilisi,Sioni Bolnisi,0,0,,,
-57354401,2025-05-28 16:00,FC Gonio,FC Merani Martvili,3,0,,,
-57354407,2025-06-01 13:00,FC IberiaTiblisi 1999 II,FC Lokomotivi Tbilisi,1,1,,,
-57354409,2025-06-01 13:00,FC Samtredia,FC Gonio,1,1,,,
-57354411,2025-06-01 13:00,Sioni Bolnisi,FC Spaeri,0,1,,,
-57354413,2025-06-01 13:00,FC Merani Martvili,FC Meshakhte Tkibuli,1,0,,,
-57354405,2025-06-01 16:00,FC Rustavi,Dinamo-2 Tbilisi,2,0,,,
-57354419,2025-08-03 15:00,Dinamo-2 Tbilisi,Sioni Bolnisi,1,2,,,
-57354417,2025-08-04 13:00,FC Merani Martvili,FC IberiaTiblisi 1999 II,1,0,,,
-57354423,2025-08-04 15:00,FC Spaeri,FC Lokomotivi Tbilisi,3,1,,,
-57354421,2025-08-04 16:00,FC Gonio,FC Rustavi,1,2,,,
-57354431,2025-08-10 16:00,Sioni Bolnisi,FC Gonio,1,1,,,
-57354429,2025-08-11 13:00,FC Samtredia,FC Merani Martvili,4,1,,,
-57354433,2025-08-11 13:00,FC IberiaTiblisi 1999 II,FC Spaeri,1,1,,,
-57354427,2025-08-11 14:00,FC Lokomotivi Tbilisi,Dinamo-2 Tbilisi,4,2,,,
-57354425,2025-08-11 16:00,FC Rustavi,FC Meshakhte Tkibuli,1,0,,,
-57354443,2025-08-16 15:00,FC Spaeri,Dinamo-2 Tbilisi,3,3,,,
-57354435,2025-08-17 13:00,Sioni Bolnisi,FC Meshakhte Tkibuli,0,0,,,
-57354437,2025-08-18 13:00,FC Samtredia,FC IberiaTiblisi 1999 II,4,0,,,
-57354439,2025-08-18 15:00,FC Lokomotivi Tbilisi,FC Gonio,1,1,,,
-57354441,2025-08-18 16:00,FC Rustavi,FC Merani Martvili,2,0,,,
-57354445,2025-08-24 13:00,FC Samtredia,FC Rustavi,0,2,,,
-57354447,2025-08-25 13:00,FC Meshakhte Tkibuli,FC Lokomotivi Tbilisi,0,0,,,
-57354451,2025-08-25 13:00,FC Merani Martvili,Sioni Bolnisi,2,4,,,
-57354453,2025-08-25 16:00,FC Gonio,FC Spaeri,0,1,,,
-57354457,2025-08-30 14:00,FC Lokomotivi Tbilisi,FC Merani Martvili,1,1,,,
-57354461,2025-08-30 15:00,FC Spaeri,FC Meshakhte Tkibuli,1,0,,,
-57354463,2025-08-31 12:30,Sioni Bolnisi,FC Samtredia,0,3,,,
-57354467,2025-09-11 12:00,FC Merani Martvili,FC Spaeri,1,1,,,
-57354471,2025-09-11 12:00,FC Samtredia,FC Lokomotivi Tbilisi,2,0,,,
-57354469,2025-09-11 13:00,FC IberiaTiblisi 1999 II,FC Gonio,1,1,,,
-57354465,2025-09-11 17:00,FC Rustavi,Sioni Bolnisi,1,2,,,
-57354481,2025-09-15 14:00,Dinamo-2 Tbilisi,FC Merani Martvili,1,1,,,
-57354483,2025-09-15 14:00,FC Lokomotivi Tbilisi,FC Rustavi,3,2,,,
-57354475,2025-09-15 15:00,FC Gonio,FC Meshakhte Tkibuli,0,2,,,
-57354477,2025-09-15 15:00,FC Spaeri,FC Samtredia,1,1,,,
-57354479,2025-09-15 17:00,Sioni Bolnisi,FC IberiaTiblisi 1999 II,2,4,,,
-57354485,2025-09-19 12:00,Sioni Bolnisi,FC Lokomotivi Tbilisi,3,5,,,
-57354487,2025-09-19 12:00,FC Samtredia,Dinamo-2 Tbilisi,2,2,,,
-57354489,2025-09-19 12:00,FC IberiaTiblisi 1999 II,FC Meshakhte Tkibuli,2,1,,,
-57354491,2025-09-19 17:00,FC Rustavi,FC Spaeri,2,0,,,
-57354493,2025-09-20 12:00,FC Merani Martvili,FC Gonio,2,0,,,
-57354497,2025-09-27 14:00,Dinamo-2 Tbilisi,FC Rustavi,0,3,,,
-57354499,2025-09-27 14:00,FC Lokomotivi Tbilisi,FC IberiaTiblisi 1999 II,1,1,,,
-57354503,2025-09-27 15:00,FC Spaeri,Sioni Bolnisi,1,0,,,
-57354507,2025-10-01 11:00,FC IberiaTiblisi 1999 II,FC Merani Martvili,0,0,,,
-57354511,2025-10-01 11:00,FC Samtredia,FC Meshakhte Tkibuli,1,1,,,
-57354513,2025-10-01 14:00,FC Lokomotivi Tbilisi,FC Spaeri,0,3,,,
-57354505,2025-10-01 17:00,FC Rustavi,FC Gonio,1,0,,,
-57354509,2025-10-02 11:00,Sioni Bolnisi,Dinamo-2 Tbilisi,1,2,,,
-57354517,2025-10-05 11:00,FC Merani Martvili,FC Samtredia,1,1,,,
-57354523,2025-10-05 11:00,FC Meshakhte Tkibuli,FC Rustavi,1,3,,,
-57354515,2025-10-05 14:00,Dinamo-2 Tbilisi,FC Lokomotivi Tbilisi,1,3,,,
-57354521,2025-10-05 15:00,FC Spaeri,FC IberiaTiblisi 1999 II,1,1,,,
-57354519,2025-10-06 15:00,FC Gonio,Sioni Bolnisi,2,2,,,
-57354529,2025-10-17 11:00,FC Meshakhte Tkibuli,Sioni Bolnisi,1,0,,,
-57354531,2025-10-17 11:00,FC IberiaTiblisi 1999 II,FC Samtredia,0,1,,,
-57354527,2025-10-17 14:00,Dinamo-2 Tbilisi,FC Spaeri,2,1,,,
-57354543,2025-10-21 11:00,Sioni Bolnisi,FC Merani Martvili,1,0,,,
-57354539,2025-10-21 14:00,FC Lokomotivi Tbilisi,FC Meshakhte Tkibuli,0,1,,,
-57354541,2025-10-21 14:00,Dinamo-2 Tbilisi,FC IberiaTiblisi 1999 II,2,0,,,
-57354535,2025-10-21 15:00,FC Spaeri,FC Gonio,1,2,,,
-57354537,2025-10-21 15:00,FC Rustavi,FC Samtredia,3,0,,,
-57354545,2025-10-26 10:00,FC Samtredia,Sioni Bolnisi,2,1,,,
-57354549,2025-10-26 10:00,FC Merani Martvili,FC Lokomotivi Tbilisi,1,1,,,
-57354551,2025-10-26 10:00,FC IberiaTiblisi 1999 II,FC Rustavi,0,0,,,
-57354575,2025-11-28 14:00,FC Spaeri,FC Rustavi,2,1,,,
-57354581,2025-11-28 14:00,Dinamo-2 Tbilisi,FC Samtredia,1,2,,,
-57354585,2025-12-01 14:00,FC Samtredia,FC Gonio,3,2,,,
-57354587,2025-12-01 14:00,Sioni Bolnisi,FC Spaeri,3,0,,,
-57354589,2025-12-01 14:00,FC Merani Martvili,FC Meshakhte Tkibuli,1,1,,,
-57354591,2025-12-01 14:00,FC Rustavi,Dinamo-2 Tbilisi,3,0,,,
-57354593,2025-12-01 14:00,FC IberiaTiblisi 1999 II,FC Lokomotivi Tbilisi,2,1,,,
-57354595,2025-12-05 14:00,Dinamo-2 Tbilisi,Sioni Bolnisi,1,4,,,
-57354599,2025-12-05 14:00,FC Spaeri,FC Lokomotivi Tbilisi,2,3,,,
-57354603,2025-12-05 14:00,FC Merani Martvili,FC IberiaTiblisi 1999 II,3,2,,,
-66521004,2025-12-11 09:00,Aragvi Dusheti,FC Lokomotivi Tbilisi,2,3,2.300,3.200,2.700
-66521008,2025-12-11 09:30,FC IberiaTiblisi 1999 II,Odishi,2,2,1.900,3.400,3.500
-57354605,2025-12-12 14:00,FC Rustavi,FC Meshakhte Tkibuli,1,2,,,
-57354607,2025-12-12 14:00,FC Lokomotivi Tbilisi,Dinamo-2 Tbilisi,5,1,,,
-57354609,2025-12-12 14:00,FC Samtredia,FC Merani Martvili,1,2,,,
-57354611,2025-12-12 14:00,Sioni Bolnisi,FC Gonio,5,0,,,
-57354613,2025-12-12 14:00,FC IberiaTiblisi 1999 II,FC Spaeri,1,2,,,
-66521014,2025-12-15 09:00,Odishi,FC IberiaTiblisi 1999 II,2,1,2.700,3.700,2.150
-66521108,2025-12-15 12:00,FC Lokomotivi Tbilisi,Aragvi Dusheti,0,1,1.666,4.333,3.700
-67843184,2026-03-11 11:00,FC Merani Martvili,Odishi,2,3,,,
-67843186,2026-03-11 11:00,FC Gareji Sagarejo,Aragvi Dusheti,1,0,,,
-67843188,2026-03-11 11:00,Sioni Bolnisi,SFC Shturmi Sartichala,1,1,,,
-67843192,2026-03-11 11:00,FC Samtredia,FC Gori,2,2,,,
-67843190,2026-03-11 12:00,FC Kolkheti-1913 Poti,FC Telavi,0,1,,,
-67843194,2026-03-15 11:00,Aragvi Dusheti,FC Gori,1,0,,,
-67843196,2026-03-15 11:00,FC Gareji Sagarejo,FC Kolkheti-1913 Poti,2,1,,,
-67843198,2026-03-15 11:00,Odishi,Sioni Bolnisi,2,2,,,
-67843200,2026-03-15 15:00,SFC Shturmi Sartichala,FC Samtredia,3,2,,,
-67843202,2026-03-15 15:00,FC Telavi,FC Merani Martvili,0,0,,,
-70037764,2026-04-03 11:00,Sioni Bolnisi,FC Telavi,3,0,2.250,3.000,3.000
-70037766,2026-04-03 11:00,FC Samtredia,Odishi,2,0,2.050,3.300,3.000
-70037768,2026-04-03 11:00,FC Merani Martvili,FC Gareji Sagarejo,0,0,,,
-70037770,2026-04-03 11:00,FC Kolkheti-1913 Poti,Aragvi Dusheti,3,1,1.800,3.600,3.600
-70037774,2026-04-03 15:00,FC Gori,SFC Shturmi Sartichala,0,0,2.500,3.100,2.400
-70348530,2026-04-07 11:00,FC Gareji Sagarejo,Sioni Bolnisi,2,0,1.950,3.250,3.500
-70355814,2026-04-07 11:00,Aragvi Dusheti,SFC Shturmi Sartichala,0,2,2.800,3.300,2.150
-70355816,2026-04-07 11:00,Odishi,FC Gori,0,0,,,
-70355822,2026-04-07 11:00,FC Kolkheti-1913 Poti,FC Merani Martvili,5,1,2.450,3.000,2.700
-70355818,2026-04-07 15:00,FC Telavi,FC Samtredia,2,0,2.500,3.500,2.300
-69403328,2026-04-11 11:00,FC Gareji Sagarejo,Odishi,1,1,1.950,3.400,3.400
-70633750,2026-04-11 11:00,Sioni Bolnisi,FC Samtredia,3,0,2.250,3.400,2.700
-69460794,2026-04-11 15:00,FC Telavi,Aragvi Dusheti,1,0,1.420,3.900,6.500
-70527922,2026-04-17 15:00,FC Gori,FC Telavi,1,1,2.625,3.200,2.350
-70223772,2026-04-18 12:00,FC Merani Martvili,Aragvi Dusheti,1,1,1.333,4.500,6.500
-70223856,2026-04-18 12:00,FC Samtredia,FC Gareji Sagarejo,0,1,1.850,3.500,3.400
-70515820,2026-04-18 12:00,Sioni Bolnisi,FC Kolkheti-1913 Poti,0,1,1.833,3.300,3.750
-70148278,2026-04-18 15:00,SFC Shturmi Sartichala,Odishi,1,0,1.800,3.500,3.700
-67843236,2026-04-22 12:00,FC Gareji Sagarejo,FC Gori,1,0,1.850,3.300,3.700
-70223912,2026-04-22 12:00,FC Kolkheti-1913 Poti,FC Samtredia,1,3,2.100,3.000,3.250
-70223914,2026-04-22 12:00,FC Merani Martvili,Sioni Bolnisi,2,1,2.150,3.500,2.800
-67843242,2026-04-22 15:00,FC Telavi,SFC Shturmi Sartichala,1,1,2.250,3.100,2.875
-67843238,2026-04-22 17:00,Aragvi Dusheti,Odishi,2,1,3.000,3.200,2.150
-70224626,2026-04-26 12:00,Odishi,FC Telavi,3,1,,,
-70869324,2026-04-26 12:00,FC Samtredia,FC Merani Martvili,1,4,2.350,3.200,2.625
-67843244,2026-04-26 15:00,FC Gori,FC Kolkheti-1913 Poti,2,1,2.250,3.250,2.750
-67843250,2026-04-26 15:00,SFC Shturmi Sartichala,FC Gareji Sagarejo,1,2,1.650,3.500,4.500
-67843246,2026-04-26 16:00,Sioni Bolnisi,Aragvi Dusheti,1,1,1.571,3.750,4.750
-71052760,2026-05-02 12:00,FC Samtredia,Sioni Bolnisi,2,1,2.300,3.200,2.700
-71053594,2026-05-02 12:00,Odishi,FC Gareji Sagarejo,0,0,,,
-70906742,2026-05-02 15:00,FC Gori,FC Merani Martvili,0,3,2.300,3.000,2.875
-70906738,2026-05-02 16:00,SFC Shturmi Sartichala,FC Kolkheti-1913 Poti,1,0,1.571,3.700,5.000
-70906740,2026-05-02 17:00,Aragvi Dusheti,FC Telavi,2,1,2.625,3.000,2.450
-71122710,2026-05-06 12:00,FC Merani Martvili,SFC Shturmi Sartichala,0,0,2.100,3.300,2.900
-71122856,2026-05-06 12:00,FC Kolkheti-1913 Poti,Odishi,0,0,,,
-71125270,2026-05-06 12:00,FC Gareji Sagarejo,FC Telavi,2,0,2.625,3.000,2.500
-71125472,2026-05-06 12:00,FC Samtredia,Aragvi Dusheti,2,0,1.833,3.400,3.700
-71125470,2026-05-06 17:00,Sioni Bolnisi,FC Gori,1,1,1.900,3.200,3.700
-67843276,2026-05-10 12:00,Odishi,FC Merani Martvili,1,2,2.250,3.300,2.750
-67843282,2026-05-10 15:00,FC Telavi,FC Kolkheti-1913 Poti,3,1,2.050,3.200,3.200
-67843274,2026-05-10 16:00,FC Gori,FC Samtredia,2,1,2.350,3.200,2.700
-67843280,2026-05-10 16:00,SFC Shturmi Sartichala,Sioni Bolnisi,0,2,1.850,3.100,3.900
-67843278,2026-05-10 17:00,Aragvi Dusheti,FC Gareji Sagarejo,0,1,2.400,3.000,2.700
-71332666,2026-05-16 12:00,FC Merani Martvili,FC Telavi,0,0,2.150,3.000,3.100
-71341350,2026-05-16 12:00,FC Samtredia,SFC Shturmi Sartichala,1,1,2.300,3.250,2.700
-71341574,2026-05-16 15:00,FC Kolkheti-1913 Poti,FC Gareji Sagarejo,1,1,2.400,3.100,2.625
-71304054,2026-05-16 16:00,FC Gori,Aragvi Dusheti,0,1,1.950,3.250,3.400
-71303960,2026-05-16 17:00,Sioni Bolnisi,Odishi,1,0,1.550,3.750,5.000
-71427486,2026-05-20 12:00,FC Gareji Sagarejo,FC Merani Martvili,1,0,2.500,3.200,2.500
-71509096,2026-05-20 12:00,Odishi,FC Samtredia,0,0,,,
-71427488,2026-05-20 15:00,FC Telavi,Sioni Bolnisi,2,1,2.600,3.200,2.375
-71509098,2026-05-20 16:00,SFC Shturmi Sartichala,FC Gori,2,0,1.666,3.600,4.200
-71427484,2026-05-20 17:00,Aragvi Dusheti,FC Kolkheti-1913 Poti,2,1,2.200,3.200,2.800
-67843306,2026-05-24 12:00,FC Merani Martvili,FC Kolkheti-1913 Poti,1,0,1.950,3.500,3.200
-67843308,2026-05-24 12:00,FC Samtredia,FC Telavi,0,3,2.150,3.100,3.100
-67843304,2026-05-24 16:00,FC Gori,Odishi,1,3,2.050,3.000,3.400
-67843310,2026-05-24 16:00,SFC Shturmi Sartichala,Aragvi Dusheti,2,0,1.650,3.400,4.750
-67843312,2026-05-24 17:00,Sioni Bolnisi,FC Gareji Sagarejo,1,1,1.850,3.200,3.900
-67843320,2026-05-29 17:00,Aragvi Dusheti,FC Merani Martvili,1,1,2.500,2.875,2.700
-67843314,2026-05-30 12:00,FC Kolkheti-1913 Poti,Sioni Bolnisi,0,0,2.200,3.000,3.000
-67843316,2026-05-30 12:00,Odishi,SFC Shturmi Sartichala,2,1,3.300,3.300,1.950
-67843318,2026-05-30 12:00,FC Gareji Sagarejo,FC Samtredia,3,2,1.833,3.500,3.400
-67843322,2026-05-30 14:00,FC Telavi,FC Gori,1,0,1.850,3.250,3.700
-67843328,2026-06-13 13:00,Samtredia,Kolkheti Poti,2,2,2.150,3.200,2.900
-67843330,2026-06-13 13:00,Odishi,Dusheti,1,1,2.300,3.200,2.750
-67843324,2026-06-13 16:00,SFC Shturmi Sartichala,Telavi,0,2,1.900,3.100,3.700
-67843326,2026-06-13 16:00,FC Gori,Gareji Sagarejo,1,3,2.875,3.400,2.150
-67843332,2026-06-13 17:00,Sioni Bolnisi,Merani Martvili,2,0,2.000,3.400,3.200
-67843334,2026-06-17 13:00,Merani Martvili,Samtredia,2,1,1.500,4.100,5.000
-67843342,2026-06-17 13:00,Gareji Sagarejo,SFC Shturmi Sartichala,0,0,2.100,3.200,3.100
-67843338,2026-06-17 14:00,Kolkheti Poti,FC Gori,1,1,1.533,3.900,5.000
-67843336,2026-06-17 16:00,Telavi,Odishi,1,0,1.700,3.300,4.500
-67843340,2026-06-17 17:00,Dusheti,Sioni Bolnisi,3,2,2.900,3.250,2.150
-67843346,2026-06-22 13:00,Merani Martvili,FC Gori,0,2,1.550,4.000,4.500
-67843348,2026-06-22 13:00,Gareji Sagarejo,Odishi,1,2,1.615,3.500,4.750
-67843352,2026-06-22 14:00,Kolkheti Poti,SFC Shturmi Sartichala,0,0,2.400,3.200,2.625
-67843354,2026-06-22 16:00,Telavi,Dusheti,1,0,1.533,3.750,5.000
-67843350,2026-06-22 17:00,Sioni Bolnisi,Samtredia,3,2,1.850,3.400,3.500
-67843360,2026-08-08 13:00,Odishi,FC Kolkheti-1913 Poti,2,1,2.000,3.250,3.250
-67843356,2026-08-08 16:00,FC Telavi,FC Gareji Sagarejo,0,0,1.909,3.200,3.500
-67843358,2026-08-08 16:00,FC Gori,Sioni Bolnisi,4,1,3.100,3.100,2.100
-67843362,2026-08-08 16:00,SFC Shturmi Sartichala,FC Merani Martvili,2,1,1.833,3.600,3.400
-67843364,2026-08-08 17:00,Aragvi Dusheti,FC Samtredia,2,4,2.150,3.400,2.875
-67843372,2026-08-15 13:00,FC Merani Martvili,Odishi,0,0,1.850,3.300,3.500
-67843374,2026-08-15 13:00,FC Gareji Sagarejo,Aragvi Dusheti,0,2,2.050,3.300,3.000
-67843368,2026-08-15 14:00,FC Kolkheti-1913 Poti,FC Telavi,1,1,3.100,3.000,2.200
-67843366,2026-08-15 15:00,Sioni Bolnisi,SFC Shturmi Sartichala,0,1,2.100,3.000,3.250
-67843370,2026-08-15 15:00,FC Samtredia,FC Gori,1,0,2.150,3.300,2.900
-67843380,2026-08-22 13:00,FC Gareji Sagarejo,FC Kolkheti-1913 Poti,3,2,3.200,3.100,2.100
-67843382,2026-08-22 13:00,Odishi,Sioni Bolnisi,0,1,2.050,3.300,3.200
-67843376,2026-08-22 16:00,FC Telavi,FC Merani Martvili,1,0,1.700,3.100,4.750
-67843378,2026-08-22 16:00,SFC Shturmi Sartichala,FC Samtredia,0,1,1.850,3.400,3.600
-67843384,2026-08-22 17:00,Aragvi Dusheti,FC Gori,1,0,2.300,3.300,2.700
-67843386,2026-08-28 15:00,FC Samtredia,Odishi,3,0,1.666,3.600,4.333
-67843388,2026-08-29 12:30,FC Merani Martvili,FC Gareji Sagarejo,1,2,2.300,3.100,2.750
-67843392,2026-08-29 15:00,Sioni Bolnisi,FC Telavi,2,1,2.625,3.000,2.450
-67843390,2026-08-29 16:00,FC Gori,SFC Shturmi Sartichala,3,1,2.875,3.200,2.200
-67843394,2026-08-30 13:30,FC Kolkheti-1913 Poti,Aragvi Dusheti,1,1,1.750,3.500,4.100
-67843396,2026-09-06 12:30,FC Gareji Sagarejo,Sioni Bolnisi,3,3,2.150,3.200,3.000
-67843398,2026-09-06 12:30,Odishi,FC Gori,2,3,1.900,3.500,3.300
-67843400,2026-09-06 13:00,FC Kolkheti-1913 Poti,FC Merani Martvili,2,0,1.900,3.200,3.700
-67843404,2026-09-06 16:00,Aragvi Dusheti,SFC Shturmi Sartichala,3,4,2.450,3.250,2.500
-67843402,2026-09-07 16:00,FC Telavi,FC Samtredia,0,3,2.300,3.250,2.750
-73669932,2026-09-12 12:00,FC Merani Martvili,Aragvi Dusheti,3,1,2.000,3.250,3.250
-73669920,2026-09-12 14:00,FC Gori,FC Telavi,2,2,2.800,3.200,2.200
-73669924,2026-09-12 15:00,Sioni Bolnisi,FC Kolkheti-1913 Poti,1,1,2.450,3.100,2.625
-73669930,2026-09-12 15:00,FC Samtredia,FC Gareji Sagarejo,6,1,1.615,3.700,4.333
-73669926,2026-09-12 16:00,SFC Shturmi Sartichala,Odishi,2,0,1.833,3.400,3.700
-73669936,2026-09-16 12:00,FC Merani Martvili,Sioni Bolnisi,2,1,2.200,3.300,2.750
-73669950,2026-09-16 12:00,FC Gareji Sagarejo,FC Gori,2,1,2.000,3.300,3.200
-73669944,2026-09-16 13:00,FC Kolkheti-1913 Poti,FC Samtredia,1,0,3.100,3.500,1.950
-73669940,2026-09-16 15:00,FC Telavi,SFC Shturmi Sartichala,1,1,1.800,3.100,4.100
-73669946,2026-09-16 17:15,Aragvi Dusheti,Odishi,0,1,1.727,3.500,4.000
-67843432,2026-09-20 12:00,Odishi,FC Telavi,1,1,2.450,3.100,2.550
-67843434,2026-09-20 14:00,FC Gori,FC Kolkheti-1913 Poti,1,1,2.500,3.500,2.300
-67843426,2026-09-20 15:00,Sioni Bolnisi,Aragvi Dusheti,1,2,1.900,3.500,3.400
-67843430,2026-09-20 15:00,FC Samtredia,FC Merani Martvili,5,0,,,
-67843428,2026-09-20 16:00,SFC Shturmi Sartichala,FC Gareji Sagarejo,1,0,1.800,3.400,3.800
-67843440,2026-10-10 11:30,Odishi,FC Gareji Sagarejo,1,0,,,
-67843438,2026-10-10 14:00,FC Gori,FC Merani Martvili,2,1,,,
-67843444,2026-10-10 14:00,FC Samtredia,Sioni Bolnisi,3,0,1.480,4.000,5.500
-67843442,2026-10-10 16:00,SFC Shturmi Sartichala,FC Kolkheti-1913 Poti,2,0,1.950,3.250,3.300
-67843436,2026-10-10 17:00,Aragvi Dusheti,FC Telavi,1,4,2.900,3.100,2.250
-67843452,2026-10-17 11:30,FC Gareji Sagarejo,FC Telavi,2,1,2.900,3.200,2.200
-67843454,2026-10-17 11:30,FC Merani Martvili,SFC Shturmi Sartichala,3,1,,,
-67843448,2026-10-17 13:00,FC Kolkheti-1913 Poti,Odishi,4,0,1.833,3.400,3.600
-67843446,2026-10-17 14:00,FC Samtredia,Aragvi Dusheti,0,1,1.270,5.000,9.000
-67843450,2026-10-17 15:00,Sioni Bolnisi,FC Gori,1,0,2.100,3.500,2.800
-67843456,2026-10-24 11:00,Aragvi Dusheti,FC Gareji Sagarejo,0,0,2.050,3.300,3.200
-67843460,2026-10-24 12:00,FC Telavi,FC Kolkheti-1913 Poti,1,1,1.750,3.400,3.900
-67843462,2026-10-24 14:00,FC Gori,FC Samtredia,1,0,3.000,3.500,2.050
-67843464,2026-10-24 14:00,Odishi,FC Merani Martvili,3,0,,,
-67843458,2026-10-24 16:00,SFC Shturmi Sartichala,Sioni Bolnisi,1,0,1.800,3.250,4.000
-67843468,2026-10-31 11:00,FC Merani Martvili,FC Telavi,2,0,2.875,3.200,2.200
-67843472,2026-10-31 13:00,FC Kolkheti-1913 Poti,FC Gareji Sagarejo,3,0,1.571,3.700,4.750
-67843466,2026-10-31 14:00,FC Gori,Aragvi Dusheti,0,0,1.950,3.400,3.250
-67843470,2026-10-31 14:00,FC Samtredia,SFC Shturmi Sartichala,4,1,1.833,3.400,3.700
-67843474,2026-10-31 15:00,Sioni Bolnisi,Odishi,0,0,1.900,3.300,3.400
-67843478,2026-11-07 10:30,Aragvi Dusheti,FC Kolkheti-1913 Poti,1,0,2.800,3.400,2.200
-67843482,2026-11-07 10:30,FC Gareji Sagarejo,FC Merani Martvili,3,0,2.150,3.250,2.900
-67843476,2026-11-07 14:00,FC Telavi,Sioni Bolnisi,1,2,1.650,3.500,4.500
-67843480,2026-11-07 14:00,Odishi,FC Samtredia,0,3,,,
-67843484,2026-11-07 15:00,SFC Shturmi Sartichala,FC Gori,2,3,1.750,3.400,3.900
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+57354385,2025-05-24 13:00,FC Samtredia,FC Spaeri,1,0,,,,,,
+57354389,2025-05-24 13:00,FC Merani Martvili,Dinamo-2 Tbilisi,2,1,,,,,,
+57354391,2025-05-24 16:00,FC Rustavi,FC Lokomotivi Tbilisi,2,1,,,,,,
+57354397,2025-05-28 13:00,FC Meshakhte Tkibuli,FC IberiaTiblisi 1999 II,1,0,,,,,,
+57354399,2025-05-28 13:00,FC Spaeri,FC Rustavi,0,0,,,,,,
+57354395,2025-05-28 14:00,Dinamo-2 Tbilisi,FC Samtredia,2,2,,,,,,
+57354403,2025-05-28 15:00,FC Lokomotivi Tbilisi,Sioni Bolnisi,0,0,,,,,,
+57354401,2025-05-28 16:00,FC Gonio,FC Merani Martvili,3,0,,,,,,
+57354407,2025-06-01 13:00,FC IberiaTiblisi 1999 II,FC Lokomotivi Tbilisi,1,1,,,,,,
+57354409,2025-06-01 13:00,FC Samtredia,FC Gonio,1,1,,,,,,
+57354411,2025-06-01 13:00,Sioni Bolnisi,FC Spaeri,0,1,,,,,,
+57354413,2025-06-01 13:00,FC Merani Martvili,FC Meshakhte Tkibuli,1,0,,,,,,
+57354405,2025-06-01 16:00,FC Rustavi,Dinamo-2 Tbilisi,2,0,,,,,,
+57354419,2025-08-03 15:00,Dinamo-2 Tbilisi,Sioni Bolnisi,1,2,,,,,,
+57354417,2025-08-04 13:00,FC Merani Martvili,FC IberiaTiblisi 1999 II,1,0,,,,,,
+57354423,2025-08-04 15:00,FC Spaeri,FC Lokomotivi Tbilisi,3,1,,,,,,
+57354421,2025-08-04 16:00,FC Gonio,FC Rustavi,1,2,,,,,,
+57354431,2025-08-10 16:00,Sioni Bolnisi,FC Gonio,1,1,,,,,,
+57354429,2025-08-11 13:00,FC Samtredia,FC Merani Martvili,4,1,,,,,,
+57354433,2025-08-11 13:00,FC IberiaTiblisi 1999 II,FC Spaeri,1,1,,,,,,
+57354427,2025-08-11 14:00,FC Lokomotivi Tbilisi,Dinamo-2 Tbilisi,4,2,,,,,,
+57354425,2025-08-11 16:00,FC Rustavi,FC Meshakhte Tkibuli,1,0,,,,,,
+57354443,2025-08-16 15:00,FC Spaeri,Dinamo-2 Tbilisi,3,3,,,,,,
+57354435,2025-08-17 13:00,Sioni Bolnisi,FC Meshakhte Tkibuli,0,0,,,,,,
+57354437,2025-08-18 13:00,FC Samtredia,FC IberiaTiblisi 1999 II,4,0,,,,,,
+57354439,2025-08-18 15:00,FC Lokomotivi Tbilisi,FC Gonio,1,1,,,,,,
+57354441,2025-08-18 16:00,FC Rustavi,FC Merani Martvili,2,0,,,,,,
+57354445,2025-08-24 13:00,FC Samtredia,FC Rustavi,0,2,,,,,,
+57354447,2025-08-25 13:00,FC Meshakhte Tkibuli,FC Lokomotivi Tbilisi,0,0,,,,,,
+57354451,2025-08-25 13:00,FC Merani Martvili,Sioni Bolnisi,2,4,,,,,,
+57354453,2025-08-25 16:00,FC Gonio,FC Spaeri,0,1,,,,,,
+57354457,2025-08-30 14:00,FC Lokomotivi Tbilisi,FC Merani Martvili,1,1,,,,,,
+57354461,2025-08-30 15:00,FC Spaeri,FC Meshakhte Tkibuli,1,0,,,,,,
+57354463,2025-08-31 12:30,Sioni Bolnisi,FC Samtredia,0,3,,,,,,
+57354467,2025-09-11 12:00,FC Merani Martvili,FC Spaeri,1,1,,,,,,
+57354471,2025-09-11 12:00,FC Samtredia,FC Lokomotivi Tbilisi,2,0,,,,,,
+57354469,2025-09-11 13:00,FC IberiaTiblisi 1999 II,FC Gonio,1,1,,,,,,
+57354465,2025-09-11 17:00,FC Rustavi,Sioni Bolnisi,1,2,,,,,,
+57354481,2025-09-15 14:00,Dinamo-2 Tbilisi,FC Merani Martvili,1,1,,,,,,
+57354483,2025-09-15 14:00,FC Lokomotivi Tbilisi,FC Rustavi,3,2,,,,,,
+57354475,2025-09-15 15:00,FC Gonio,FC Meshakhte Tkibuli,0,2,,,,,,
+57354477,2025-09-15 15:00,FC Spaeri,FC Samtredia,1,1,,,,,,
+57354479,2025-09-15 17:00,Sioni Bolnisi,FC IberiaTiblisi 1999 II,2,4,,,,,,
+57354485,2025-09-19 12:00,Sioni Bolnisi,FC Lokomotivi Tbilisi,3,5,,,,,,
+57354487,2025-09-19 12:00,FC Samtredia,Dinamo-2 Tbilisi,2,2,,,,,,
+57354489,2025-09-19 12:00,FC IberiaTiblisi 1999 II,FC Meshakhte Tkibuli,2,1,,,,,,
+57354491,2025-09-19 17:00,FC Rustavi,FC Spaeri,2,0,,,,,,
+57354493,2025-09-20 12:00,FC Merani Martvili,FC Gonio,2,0,,,,,,
+57354497,2025-09-27 14:00,Dinamo-2 Tbilisi,FC Rustavi,0,3,,,,,,
+57354499,2025-09-27 14:00,FC Lokomotivi Tbilisi,FC IberiaTiblisi 1999 II,1,1,,,,,,
+57354503,2025-09-27 15:00,FC Spaeri,Sioni Bolnisi,1,0,,,,,,
+57354507,2025-10-01 11:00,FC IberiaTiblisi 1999 II,FC Merani Martvili,0,0,,,,,,
+57354511,2025-10-01 11:00,FC Samtredia,FC Meshakhte Tkibuli,1,1,,,,,,
+57354513,2025-10-01 14:00,FC Lokomotivi Tbilisi,FC Spaeri,0,3,,,,,,
+57354505,2025-10-01 17:00,FC Rustavi,FC Gonio,1,0,,,,,,
+57354509,2025-10-02 11:00,Sioni Bolnisi,Dinamo-2 Tbilisi,1,2,,,,,,
+57354517,2025-10-05 11:00,FC Merani Martvili,FC Samtredia,1,1,,,,,,
+57354523,2025-10-05 11:00,FC Meshakhte Tkibuli,FC Rustavi,1,3,,,,,,
+57354515,2025-10-05 14:00,Dinamo-2 Tbilisi,FC Lokomotivi Tbilisi,1,3,,,,,,
+57354521,2025-10-05 15:00,FC Spaeri,FC IberiaTiblisi 1999 II,1,1,,,,,,
+57354519,2025-10-06 15:00,FC Gonio,Sioni Bolnisi,2,2,,,,,,
+57354529,2025-10-17 11:00,FC Meshakhte Tkibuli,Sioni Bolnisi,1,0,,,,,,
+57354531,2025-10-17 11:00,FC IberiaTiblisi 1999 II,FC Samtredia,0,1,,,,,,
+57354527,2025-10-17 14:00,Dinamo-2 Tbilisi,FC Spaeri,2,1,,,,,,
+57354543,2025-10-21 11:00,Sioni Bolnisi,FC Merani Martvili,1,0,,,,,,
+57354539,2025-10-21 14:00,FC Lokomotivi Tbilisi,FC Meshakhte Tkibuli,0,1,,,,,,
+57354541,2025-10-21 14:00,Dinamo-2 Tbilisi,FC IberiaTiblisi 1999 II,2,0,,,,,,
+57354535,2025-10-21 15:00,FC Spaeri,FC Gonio,1,2,,,,,,
+57354537,2025-10-21 15:00,FC Rustavi,FC Samtredia,3,0,,,,,,
+57354545,2025-10-26 10:00,FC Samtredia,Sioni Bolnisi,2,1,,,,,,
+57354549,2025-10-26 10:00,FC Merani Martvili,FC Lokomotivi Tbilisi,1,1,,,,,,
+57354551,2025-10-26 10:00,FC IberiaTiblisi 1999 II,FC Rustavi,0,0,,,,,,
+57354575,2025-11-28 14:00,FC Spaeri,FC Rustavi,2,1,,,,,,
+57354581,2025-11-28 14:00,Dinamo-2 Tbilisi,FC Samtredia,1,2,,,,,,
+57354585,2025-12-01 14:00,FC Samtredia,FC Gonio,3,2,,,,,,
+57354587,2025-12-01 14:00,Sioni Bolnisi,FC Spaeri,3,0,,,,,,
+57354589,2025-12-01 14:00,FC Merani Martvili,FC Meshakhte Tkibuli,1,1,,,,,,
+57354591,2025-12-01 14:00,FC Rustavi,Dinamo-2 Tbilisi,3,0,,,,,,
+57354593,2025-12-01 14:00,FC IberiaTiblisi 1999 II,FC Lokomotivi Tbilisi,2,1,,,,,,
+57354595,2025-12-05 14:00,Dinamo-2 Tbilisi,Sioni Bolnisi,1,4,,,,,,
+57354599,2025-12-05 14:00,FC Spaeri,FC Lokomotivi Tbilisi,2,3,,,,,,
+57354603,2025-12-05 14:00,FC Merani Martvili,FC IberiaTiblisi 1999 II,3,2,,,,,,
+66521004,2025-12-11 09:00,Aragvi Dusheti,FC Lokomotivi Tbilisi,2,3,2.300,3.200,2.700,2.5,1.900,1.900
+66521008,2025-12-11 09:30,FC IberiaTiblisi 1999 II,Odishi,2,2,1.900,3.400,3.500,2.5,1.900,1.900
+57354605,2025-12-12 14:00,FC Rustavi,FC Meshakhte Tkibuli,1,2,,,,,,
+57354607,2025-12-12 14:00,FC Lokomotivi Tbilisi,Dinamo-2 Tbilisi,5,1,,,,,,
+57354609,2025-12-12 14:00,FC Samtredia,FC Merani Martvili,1,2,,,,,,
+57354611,2025-12-12 14:00,Sioni Bolnisi,FC Gonio,5,0,,,,,,
+57354613,2025-12-12 14:00,FC IberiaTiblisi 1999 II,FC Spaeri,1,2,,,,,,
+66521014,2025-12-15 09:00,Odishi,FC IberiaTiblisi 1999 II,2,1,2.700,3.700,2.150,3,1.825,1.975
+66521108,2025-12-15 12:00,FC Lokomotivi Tbilisi,Aragvi Dusheti,0,1,1.666,4.333,3.700,3.25,1.975,1.825
+67843184,2026-03-11 11:00,FC Merani Martvili,Odishi,2,3,,,,,,
+67843186,2026-03-11 11:00,FC Gareji Sagarejo,Aragvi Dusheti,1,0,,,,,,
+67843188,2026-03-11 11:00,Sioni Bolnisi,SFC Shturmi Sartichala,1,1,,,,,,
+67843192,2026-03-11 11:00,FC Samtredia,FC Gori,2,2,,,,,,
+67843190,2026-03-11 12:00,FC Kolkheti-1913 Poti,FC Telavi,0,1,,,,,,
+67843194,2026-03-15 11:00,Aragvi Dusheti,FC Gori,1,0,,,,,,
+67843196,2026-03-15 11:00,FC Gareji Sagarejo,FC Kolkheti-1913 Poti,2,1,,,,,,
+67843198,2026-03-15 11:00,Odishi,Sioni Bolnisi,2,2,,,,,,
+67843200,2026-03-15 15:00,SFC Shturmi Sartichala,FC Samtredia,3,2,,,,,,
+67843202,2026-03-15 15:00,FC Telavi,FC Merani Martvili,0,0,,,,,,
+70037764,2026-04-03 11:00,Sioni Bolnisi,FC Telavi,3,0,2.250,3.000,3.000,2.25,1.900,1.900
+70037766,2026-04-03 11:00,FC Samtredia,Odishi,2,0,2.050,3.300,3.000,2.5,1.800,2.000
+70037768,2026-04-03 11:00,FC Merani Martvili,FC Gareji Sagarejo,0,0,,,,,,
+70037770,2026-04-03 11:00,FC Kolkheti-1913 Poti,Aragvi Dusheti,3,1,1.800,3.600,3.600,2.5,1.850,1.950
+70037774,2026-04-03 15:00,FC Gori,SFC Shturmi Sartichala,0,0,2.500,3.100,2.400,2.25,1.800,2.000
+70348530,2026-04-07 11:00,FC Gareji Sagarejo,Sioni Bolnisi,2,0,1.950,3.250,3.500,2.5,1.800,2.000
+70355814,2026-04-07 11:00,Aragvi Dusheti,SFC Shturmi Sartichala,0,2,2.800,3.300,2.150,2.5,2.000,1.800
+70355816,2026-04-07 11:00,Odishi,FC Gori,0,0,,,,,,
+70355822,2026-04-07 11:00,FC Kolkheti-1913 Poti,FC Merani Martvili,5,1,2.450,3.000,2.700,2.25,2.000,1.800
+70355818,2026-04-07 15:00,FC Telavi,FC Samtredia,2,0,2.500,3.500,2.300,2.25,1.925,1.875
+69403328,2026-04-11 11:00,FC Gareji Sagarejo,Odishi,1,1,1.950,3.400,3.400,2.5,1.875,1.925
+70633750,2026-04-11 11:00,Sioni Bolnisi,FC Samtredia,3,0,2.250,3.400,2.700,2.5,2.025,1.775
+69460794,2026-04-11 15:00,FC Telavi,Aragvi Dusheti,1,0,1.420,3.900,6.500,2.25,1.975,1.825
+70527922,2026-04-17 15:00,FC Gori,FC Telavi,1,1,2.625,3.200,2.350,2.25,2.050,1.750
+70223772,2026-04-18 12:00,FC Merani Martvili,Aragvi Dusheti,1,1,1.333,4.500,6.500,2.25,1.950,1.850
+70223856,2026-04-18 12:00,FC Samtredia,FC Gareji Sagarejo,0,1,1.850,3.500,3.400,2.5,2.000,1.800
+70515820,2026-04-18 12:00,Sioni Bolnisi,FC Kolkheti-1913 Poti,0,1,1.833,3.300,3.750,2.5,1.925,1.875
+70148278,2026-04-18 15:00,SFC Shturmi Sartichala,Odishi,1,0,1.800,3.500,3.700,2.5,1.975,1.825
+67843236,2026-04-22 12:00,FC Gareji Sagarejo,FC Gori,1,0,1.850,3.300,3.700,2.25,1.900,1.900
+70223912,2026-04-22 12:00,FC Kolkheti-1913 Poti,FC Samtredia,1,3,2.100,3.000,3.250,2.5,1.925,1.875
+70223914,2026-04-22 12:00,FC Merani Martvili,Sioni Bolnisi,2,1,2.150,3.500,2.800,2,1.825,1.975
+67843242,2026-04-22 15:00,FC Telavi,SFC Shturmi Sartichala,1,1,2.250,3.100,2.875,2.25,1.775,2.025
+67843238,2026-04-22 17:00,Aragvi Dusheti,Odishi,2,1,3.000,3.200,2.150,2.25,2.025,1.775
+70224626,2026-04-26 12:00,Odishi,FC Telavi,3,1,,,,,,
+70869324,2026-04-26 12:00,FC Samtredia,FC Merani Martvili,1,4,2.350,3.200,2.625,2.5,1.800,2.000
+67843244,2026-04-26 15:00,FC Gori,FC Kolkheti-1913 Poti,2,1,2.250,3.250,2.750,2,1.750,2.050
+67843250,2026-04-26 15:00,SFC Shturmi Sartichala,FC Gareji Sagarejo,1,2,1.650,3.500,4.500,2,1.750,2.050
+67843246,2026-04-26 16:00,Sioni Bolnisi,Aragvi Dusheti,1,1,1.571,3.750,4.750,2.5,1.800,2.000
+71052760,2026-05-02 12:00,FC Samtredia,Sioni Bolnisi,2,1,2.300,3.200,2.700,2.5,2.000,1.800
+71053594,2026-05-02 12:00,Odishi,FC Gareji Sagarejo,0,0,,,,,,
+70906742,2026-05-02 15:00,FC Gori,FC Merani Martvili,0,3,2.300,3.000,2.875,2.25,2.050,1.750
+70906738,2026-05-02 16:00,SFC Shturmi Sartichala,FC Kolkheti-1913 Poti,1,0,1.571,3.700,5.000,2.25,1.800,2.000
+70906740,2026-05-02 17:00,Aragvi Dusheti,FC Telavi,2,1,2.625,3.000,2.450,2.5,1.825,1.975
+71122710,2026-05-06 12:00,FC Merani Martvili,SFC Shturmi Sartichala,0,0,2.100,3.300,2.900,2.5,2.000,1.800
+71122856,2026-05-06 12:00,FC Kolkheti-1913 Poti,Odishi,0,0,,,,,,
+71125270,2026-05-06 12:00,FC Gareji Sagarejo,FC Telavi,2,0,2.625,3.000,2.500,2,1.800,2.000
+71125472,2026-05-06 12:00,FC Samtredia,Aragvi Dusheti,2,0,1.833,3.400,3.700,2.5,1.850,1.950
+71125470,2026-05-06 17:00,Sioni Bolnisi,FC Gori,1,1,1.900,3.200,3.700,2.25,1.950,1.850
+67843276,2026-05-10 12:00,Odishi,FC Merani Martvili,1,2,2.250,3.300,2.750,2.5,1.800,2.000
+67843282,2026-05-10 15:00,FC Telavi,FC Kolkheti-1913 Poti,3,1,2.050,3.200,3.200,2.25,1.850,1.950
+67843274,2026-05-10 16:00,FC Gori,FC Samtredia,2,1,2.350,3.200,2.700,2.25,1.825,1.975
+67843280,2026-05-10 16:00,SFC Shturmi Sartichala,Sioni Bolnisi,0,2,1.850,3.100,3.900,2.5,1.850,1.950
+67843278,2026-05-10 17:00,Aragvi Dusheti,FC Gareji Sagarejo,0,1,2.400,3.000,2.700,2.25,2.000,1.800
+71332666,2026-05-16 12:00,FC Merani Martvili,FC Telavi,0,0,2.150,3.000,3.100,2,1.775,2.025
+71341350,2026-05-16 12:00,FC Samtredia,SFC Shturmi Sartichala,1,1,2.300,3.250,2.700,2.25,1.950,1.850
+71341574,2026-05-16 15:00,FC Kolkheti-1913 Poti,FC Gareji Sagarejo,1,1,2.400,3.100,2.625,2.25,1.925,1.875
+71304054,2026-05-16 16:00,FC Gori,Aragvi Dusheti,0,1,1.950,3.250,3.400,2.25,1.900,1.900
+71303960,2026-05-16 17:00,Sioni Bolnisi,Odishi,1,0,1.550,3.750,5.000,2.25,1.825,1.975
+71427486,2026-05-20 12:00,FC Gareji Sagarejo,FC Merani Martvili,1,0,2.500,3.200,2.500,2.25,1.825,1.975
+71509096,2026-05-20 12:00,Odishi,FC Samtredia,0,0,,,,,,
+71427488,2026-05-20 15:00,FC Telavi,Sioni Bolnisi,2,1,2.600,3.200,2.375,2.25,2.025,1.775
+71509098,2026-05-20 16:00,SFC Shturmi Sartichala,FC Gori,2,0,1.666,3.600,4.200,2.25,1.925,1.875
+71427484,2026-05-20 17:00,Aragvi Dusheti,FC Kolkheti-1913 Poti,2,1,2.200,3.200,2.800,2.5,2.000,1.800
+67843306,2026-05-24 12:00,FC Merani Martvili,FC Kolkheti-1913 Poti,1,0,1.950,3.500,3.200,2.75,1.950,1.850
+67843308,2026-05-24 12:00,FC Samtredia,FC Telavi,0,3,2.150,3.100,3.100,2.25,1.900,1.900
+67843304,2026-05-24 16:00,FC Gori,Odishi,1,3,2.050,3.000,3.400,2,1.750,2.050
+67843310,2026-05-24 16:00,SFC Shturmi Sartichala,Aragvi Dusheti,2,0,1.650,3.400,4.750,2.25,1.775,2.025
+67843312,2026-05-24 17:00,Sioni Bolnisi,FC Gareji Sagarejo,1,1,1.850,3.200,3.900,2.25,2.000,1.800
+67843320,2026-05-29 17:00,Aragvi Dusheti,FC Merani Martvili,1,1,2.500,2.875,2.700,2.25,1.900,1.900
+67843314,2026-05-30 12:00,FC Kolkheti-1913 Poti,Sioni Bolnisi,0,0,2.200,3.000,3.000,2.25,2.000,1.800
+67843316,2026-05-30 12:00,Odishi,SFC Shturmi Sartichala,2,1,3.300,3.300,1.950,2.25,1.900,1.900
+67843318,2026-05-30 12:00,FC Gareji Sagarejo,FC Samtredia,3,2,1.833,3.500,3.400,2.5,1.825,1.975
+67843322,2026-05-30 14:00,FC Telavi,FC Gori,1,0,1.850,3.250,3.700,2,1.900,1.900
+67843328,2026-06-13 13:00,Samtredia,Kolkheti Poti,2,2,2.150,3.200,2.900,2.5,1.850,1.950
+67843330,2026-06-13 13:00,Odishi,Dusheti,1,1,2.300,3.200,2.750,2.25,1.825,1.975
+67843324,2026-06-13 16:00,SFC Shturmi Sartichala,Telavi,0,2,1.900,3.100,3.700,2.25,1.900,1.900
+67843326,2026-06-13 16:00,FC Gori,Gareji Sagarejo,1,3,2.875,3.400,2.150,2.5,1.800,2.000
+67843332,2026-06-13 17:00,Sioni Bolnisi,Merani Martvili,2,0,2.000,3.400,3.200,2.75,1.975,1.825
+67843334,2026-06-17 13:00,Merani Martvili,Samtredia,2,1,1.500,4.100,5.000,3,1.850,1.950
+67843342,2026-06-17 13:00,Gareji Sagarejo,SFC Shturmi Sartichala,0,0,2.100,3.200,3.100,2.25,1.850,1.950
+67843338,2026-06-17 14:00,Kolkheti Poti,FC Gori,1,1,1.533,3.900,5.000,2.75,1.900,1.900
+67843336,2026-06-17 16:00,Telavi,Odishi,1,0,1.700,3.300,4.500,2.25,1.950,1.850
+67843340,2026-06-17 17:00,Dusheti,Sioni Bolnisi,3,2,2.900,3.250,2.150,2.25,1.950,1.850
+67843346,2026-06-22 13:00,Merani Martvili,FC Gori,0,2,1.550,4.000,4.500,2.75,1.950,1.850
+67843348,2026-06-22 13:00,Gareji Sagarejo,Odishi,1,2,1.615,3.500,4.750,2.5,2.025,1.775
+67843352,2026-06-22 14:00,Kolkheti Poti,SFC Shturmi Sartichala,0,0,2.400,3.200,2.625,2.25,1.825,1.975
+67843354,2026-06-22 16:00,Telavi,Dusheti,1,0,1.533,3.750,5.000,2.5,1.975,1.825
+67843350,2026-06-22 17:00,Sioni Bolnisi,Samtredia,3,2,1.850,3.400,3.500,2.5,1.850,1.950
+67843360,2026-08-08 13:00,Odishi,FC Kolkheti-1913 Poti,2,1,2.000,3.250,3.250,2.25,1.825,1.975
+67843356,2026-08-08 16:00,FC Telavi,FC Gareji Sagarejo,0,0,1.909,3.200,3.500,2.25,2.000,1.800
+67843358,2026-08-08 16:00,FC Gori,Sioni Bolnisi,4,1,3.100,3.100,2.100,2,1.750,2.050
+67843362,2026-08-08 16:00,SFC Shturmi Sartichala,FC Merani Martvili,2,1,1.833,3.600,3.400,2.25,1.800,2.000
+67843364,2026-08-08 17:00,Aragvi Dusheti,FC Samtredia,2,4,2.150,3.400,2.875,2.75,1.825,1.975
+67843372,2026-08-15 13:00,FC Merani Martvili,Odishi,0,0,1.850,3.300,3.500,2.5,2.000,1.800
+67843374,2026-08-15 13:00,FC Gareji Sagarejo,Aragvi Dusheti,0,2,2.050,3.300,3.000,2.5,1.975,1.825
+67843368,2026-08-15 14:00,FC Kolkheti-1913 Poti,FC Telavi,1,1,3.100,3.000,2.200,2,1.850,1.950
+67843366,2026-08-15 15:00,Sioni Bolnisi,SFC Shturmi Sartichala,0,1,2.100,3.000,3.250,2,1.800,2.000
+67843370,2026-08-15 15:00,FC Samtredia,FC Gori,1,0,2.150,3.300,2.900,2.75,1.875,1.925
+67843380,2026-08-22 13:00,FC Gareji Sagarejo,FC Kolkheti-1913 Poti,3,2,3.200,3.100,2.100,2.25,2.025,1.775
+67843382,2026-08-22 13:00,Odishi,Sioni Bolnisi,0,1,2.050,3.300,3.200,2.25,1.950,1.850
+67843376,2026-08-22 16:00,FC Telavi,FC Merani Martvili,1,0,1.700,3.100,4.750,2,1.800,2.000
+67843378,2026-08-22 16:00,SFC Shturmi Sartichala,FC Samtredia,0,1,1.850,3.400,3.600,2.5,1.850,1.950
+67843384,2026-08-22 17:00,Aragvi Dusheti,FC Gori,1,0,2.300,3.300,2.700,2.5,2.000,1.800
+67843386,2026-08-28 15:00,FC Samtredia,Odishi,3,0,1.666,3.600,4.333,2.5,1.850,1.950
+67843388,2026-08-29 12:30,FC Merani Martvili,FC Gareji Sagarejo,1,2,2.300,3.100,2.750,2.25,1.925,1.875
+67843392,2026-08-29 15:00,Sioni Bolnisi,FC Telavi,2,1,2.625,3.000,2.450,2,2.025,1.775
+67843390,2026-08-29 16:00,FC Gori,SFC Shturmi Sartichala,3,1,2.875,3.200,2.200,2.25,1.900,1.900
+67843394,2026-08-30 13:30,FC Kolkheti-1913 Poti,Aragvi Dusheti,1,1,1.750,3.500,4.100,2.75,1.950,1.850
+67843396,2026-09-06 12:30,FC Gareji Sagarejo,Sioni Bolnisi,3,3,2.150,3.200,3.000,2.25,1.950,1.850
+67843398,2026-09-06 12:30,Odishi,FC Gori,2,3,1.900,3.500,3.300,2.5,1.875,1.925
+67843400,2026-09-06 13:00,FC Kolkheti-1913 Poti,FC Merani Martvili,2,0,1.900,3.200,3.700,2.5,2.025,1.775
+67843404,2026-09-06 16:00,Aragvi Dusheti,SFC Shturmi Sartichala,3,4,2.450,3.250,2.500,2.25,1.850,1.950
+67843402,2026-09-07 16:00,FC Telavi,FC Samtredia,0,3,2.300,3.250,2.750,2.25,1.800,2.000
+73669932,2026-09-12 12:00,FC Merani Martvili,Aragvi Dusheti,3,1,2.000,3.250,3.250,2.5,1.950,1.850
+73669920,2026-09-12 14:00,FC Gori,FC Telavi,2,2,2.800,3.200,2.200,2.25,1.850,1.950
+73669924,2026-09-12 15:00,Sioni Bolnisi,FC Kolkheti-1913 Poti,1,1,2.450,3.100,2.625,2.25,1.825,1.975
+73669930,2026-09-12 15:00,FC Samtredia,FC Gareji Sagarejo,6,1,1.615,3.700,4.333,2.75,1.825,1.975
+73669926,2026-09-12 16:00,SFC Shturmi Sartichala,Odishi,2,0,1.833,3.400,3.700,2.5,1.975,1.825
+73669936,2026-09-16 12:00,FC Merani Martvili,Sioni Bolnisi,2,1,2.200,3.300,2.750,2.5,1.875,1.925
+73669950,2026-09-16 12:00,FC Gareji Sagarejo,FC Gori,2,1,2.000,3.300,3.200,2.5,2.025,1.775
+73669944,2026-09-16 13:00,FC Kolkheti-1913 Poti,FC Samtredia,1,0,3.100,3.500,1.950,2.75,2.000,1.800
+73669940,2026-09-16 15:00,FC Telavi,SFC Shturmi Sartichala,1,1,1.800,3.100,4.100,2,1.800,2.000
+73669946,2026-09-16 17:15,Aragvi Dusheti,Odishi,0,1,1.727,3.500,4.000,2.75,1.950,1.850
+67843432,2026-09-20 12:00,Odishi,FC Telavi,1,1,2.450,3.100,2.550,2.25,2.000,1.800
+67843434,2026-09-20 14:00,FC Gori,FC Kolkheti-1913 Poti,1,1,2.500,3.500,2.300,2.75,1.800,2.000
+67843426,2026-09-20 15:00,Sioni Bolnisi,Aragvi Dusheti,1,2,1.900,3.500,3.400,2.75,1.950,1.850
+67843430,2026-09-20 15:00,FC Samtredia,FC Merani Martvili,5,0,,,,,,
+67843428,2026-09-20 16:00,SFC Shturmi Sartichala,FC Gareji Sagarejo,1,0,1.800,3.400,3.800,2.5,1.900,1.900
+67843440,2026-10-10 11:30,Odishi,FC Gareji Sagarejo,1,0,,,,,,
+67843438,2026-10-10 14:00,FC Gori,FC Merani Martvili,2,1,,,,,,
+67843444,2026-10-10 14:00,FC Samtredia,Sioni Bolnisi,3,0,1.480,4.000,5.500,3,2.000,1.800
+67843442,2026-10-10 16:00,SFC Shturmi Sartichala,FC Kolkheti-1913 Poti,2,0,1.950,3.250,3.300,2.5,1.950,1.850
+67843436,2026-10-10 17:00,Aragvi Dusheti,FC Telavi,1,4,2.900,3.100,2.250,2.25,1.850,1.950
+67843452,2026-10-17 11:30,FC Gareji Sagarejo,FC Telavi,2,1,2.900,3.200,2.200,2.25,1.850,1.950
+67843454,2026-10-17 11:30,FC Merani Martvili,SFC Shturmi Sartichala,3,1,,,,,,
+67843448,2026-10-17 13:00,FC Kolkheti-1913 Poti,Odishi,4,0,1.833,3.400,3.600,2.5,1.950,1.850
+67843446,2026-10-17 14:00,FC Samtredia,Aragvi Dusheti,0,1,1.270,5.000,9.000,3,1.900,1.900
+67843450,2026-10-17 15:00,Sioni Bolnisi,FC Gori,1,0,2.100,3.500,2.800,2.75,1.875,1.925
+67843456,2026-10-24 11:00,Aragvi Dusheti,FC Gareji Sagarejo,0,0,2.050,3.300,3.200,2.5,1.875,1.925
+67843460,2026-10-24 12:00,FC Telavi,FC Kolkheti-1913 Poti,1,1,1.750,3.400,3.900,2.5,1.825,1.975
+67843462,2026-10-24 14:00,FC Gori,FC Samtredia,1,0,3.000,3.500,2.050,2.75,1.850,1.950
+67843464,2026-10-24 14:00,Odishi,FC Merani Martvili,3,0,,,,,,
+67843458,2026-10-24 16:00,SFC Shturmi Sartichala,Sioni Bolnisi,1,0,1.800,3.250,4.000,2.25,1.900,1.900
+67843468,2026-10-31 11:00,FC Merani Martvili,FC Telavi,2,0,2.875,3.200,2.200,2.25,1.800,2.000
+67843472,2026-10-31 13:00,FC Kolkheti-1913 Poti,FC Gareji Sagarejo,3,0,1.571,3.700,4.750,2.5,1.800,2.000
+67843466,2026-10-31 14:00,FC Gori,Aragvi Dusheti,0,0,1.950,3.400,3.250,2.5,1.800,2.000
+67843470,2026-10-31 14:00,FC Samtredia,SFC Shturmi Sartichala,4,1,1.833,3.400,3.700,2.5,1.925,1.875
+67843474,2026-10-31 15:00,Sioni Bolnisi,Odishi,0,0,1.900,3.300,3.400,2.5,1.975,1.825
+67843478,2026-11-07 10:30,Aragvi Dusheti,FC Kolkheti-1913 Poti,1,0,2.800,3.400,2.200,2.5,1.800,2.000
+67843482,2026-11-07 10:30,FC Gareji Sagarejo,FC Merani Martvili,3,0,2.150,3.250,2.900,2.5,1.975,1.825
+67843476,2026-11-07 14:00,FC Telavi,Sioni Bolnisi,1,2,1.650,3.500,4.500,2.5,2.000,1.800
+67843480,2026-11-07 14:00,Odishi,FC Samtredia,0,3,,,,,,
+67843484,2026-11-07 15:00,SFC Shturmi Sartichala,FC Gori,2,3,1.750,3.400,3.900,2.5,1.900,1.900

@@ -1,443 +1,443 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-57353181,2025-05-24 07:30,Hwaseong FC,Seoul E-Land FC,0,1,,,
-57353183,2025-05-24 07:30,Chungbuk Cheongju FC,Ansan Greeners FC,0,0,,,
-57353185,2025-05-24 10:00,Seongnam Ilhwa,Busan I Park,0,0,,,
-57353187,2025-05-24 10:00,Gyeongnam FC,Cheonan City FC,3,1,,,
-57353189,2025-05-25 07:30,Chungnam Asan FC,Bucheon FC 1995,2,2,,,
-57353191,2025-05-25 07:30,Incheon United FC,Jeonnam Dragons,2,0,,,
-57353193,2025-05-25 10:00,Suwon Bluewings,Gimpo FC,1,1,,,
-57353195,2025-05-31 07:30,Jeonnam Dragons,Hwaseong FC,3,2,,,
-57353197,2025-05-31 07:30,Seoul E-Land FC,Busan I Park,1,4,,,
-57353199,2025-05-31 10:00,Chungbuk Cheongju FC,Gyeongnam FC,1,2,,,
-57353201,2025-05-31 10:00,Ansan Greeners FC,Seongnam Ilhwa,1,0,,,
-57353203,2025-06-01 07:30,Chungnam Asan FC,Gimpo FC,2,0,,,
-57353205,2025-06-01 10:00,Suwon Bluewings,Bucheon FC 1995,4,1,,,
-57353207,2025-06-01 10:00,Cheonan City FC,Incheon United FC,3,3,,,
-57353209,2025-06-06 10:00,Chungbuk Cheongju FC,Chungnam Asan FC,0,2,,,
-57353211,2025-06-06 10:00,Seongnam Ilhwa,Suwon Bluewings,1,2,,,
-57353213,2025-06-07 10:00,Busan I Park,Ansan Greeners FC,0,2,,,
-57353215,2025-06-07 10:00,Jeonnam Dragons,Seoul E-Land FC,1,1,,,
-57353217,2025-06-07 10:00,Gyeongnam FC,Hwaseong FC,0,1,,,
-57353219,2025-06-08 10:00,Incheon United FC,Bucheon FC 1995,1,0,,,
-57353221,2025-06-08 10:00,Gimpo FC,Cheonan City FC,1,0,,,
-57353223,2025-06-14 10:00,Chungnam Asan FC,Cheonan City FC,0,1,,,
-57353225,2025-06-14 10:00,Bucheon FC 1995,Seoul E-Land FC,3,1,,,
-57353227,2025-06-14 10:00,Chungbuk Cheongju FC,Seongnam Ilhwa,0,1,,,
-57353229,2025-06-15 10:00,Jeonnam Dragons,Busan I Park,0,1,,,
-57353231,2025-06-15 10:00,Hwaseong FC,Ansan Greeners FC,0,0,,,
-57353233,2025-06-15 10:00,Gimpo FC,Gyeongnam FC,3,0,,,
-57353235,2025-06-15 10:00,Suwon Bluewings,Incheon United FC,1,2,,,
-57353237,2025-06-21 10:00,Incheon United FC,Hwaseong FC,2,0,,,
-57353241,2025-06-21 10:00,Cheonan City FC,Seoul E-Land FC,4,2,,,
-57353243,2025-06-21 10:00,Ansan Greeners FC,Bucheon FC 1995,0,1,,,
-57353245,2025-06-21 10:00,Seongnam Ilhwa,Chungnam Asan FC,0,2,,,
-57353247,2025-06-22 10:00,Jeonnam Dragons,Gimpo FC,0,0,,,
-57353249,2025-06-22 10:00,Busan I Park,Chungbuk Cheongju FC,2,2,,,
-57353251,2025-06-22 10:00,Gyeongnam FC,Suwon Bluewings,1,3,,,
-57353253,2025-06-28 10:00,Chungnam Asan FC,Seoul E-Land FC,1,1,,,
-57353255,2025-06-28 10:00,Bucheon FC 1995,Gyeongnam FC,2,0,,,
-57353257,2025-06-28 10:00,Ansan Greeners FC,Cheonan City FC,0,0,,,
-57353259,2025-06-28 10:00,Hwaseong FC,Seongnam Ilhwa,1,0,,,
-57353261,2025-06-29 10:00,Suwon Bluewings,Busan I Park,1,1,,,
-57353263,2025-06-29 10:00,Chungbuk Cheongju FC,Jeonnam Dragons,2,2,,,
-57353265,2025-06-29 10:00,Gimpo FC,Incheon United FC,1,1,,,
-57353267,2025-07-05 10:00,Chungnam Asan FC,Suwon Bluewings,2,3,,,
-57353269,2025-07-05 10:00,Jeonnam Dragons,Incheon United FC,2,1,,,
-57353271,2025-07-05 10:00,Chungbuk Cheongju FC,Seoul E-Land FC,2,1,,,
-57353273,2025-07-05 10:00,Gyeongnam FC,Ansan Greeners FC,1,1,,,
-57353275,2025-07-06 10:00,Seongnam Ilhwa,Cheonan City FC,0,0,,,
-57353277,2025-07-06 10:00,Hwaseong FC,Bucheon FC 1995,0,1,,,
-57353279,2025-07-06 10:00,Gimpo FC,Busan I Park,3,0,,,
-57353281,2025-07-12 10:00,Jeonnam Dragons,Gyeongnam FC,1,0,,,
-57353283,2025-07-12 10:00,Busan I Park,Seongnam Ilhwa,0,0,,,
-57353285,2025-07-12 10:00,Suwon Bluewings,Chungbuk Cheongju FC,1,0,,,
-57353287,2025-07-12 10:00,Cheonan City FC,Hwaseong FC,2,3,,,
-57353289,2025-07-13 10:00,Incheon United FC,Chungnam Asan FC,2,1,,,
-57353291,2025-07-13 10:00,Bucheon FC 1995,Gimpo FC,1,1,,,
-57353293,2025-07-13 10:00,Ansan Greeners FC,Seoul E-Land FC,2,2,,,
-57353339,2025-07-19 10:00,Jeonnam Dragons,Suwon Bluewings,3,4,,,
-57353341,2025-07-19 10:00,Gimpo FC,Ansan Greeners FC,2,2,,,
-57353343,2025-07-19 10:00,Seoul E-Land FC,Seongnam Ilhwa,0,1,,,
-57353345,2025-07-19 10:00,Hwaseong FC,Busan I Park,1,0,,,
-57353347,2025-07-20 10:00,Bucheon FC 1995,Chungnam Asan FC,5,3,,,
-57353349,2025-07-20 10:00,Chungbuk Cheongju FC,Cheonan City FC,2,1,,,
-57353351,2025-07-20 10:00,Gyeongnam FC,Incheon United FC,0,2,,,
-57353353,2025-07-26 10:00,Busan I Park,Bucheon FC 1995,4,2,,,
-57353355,2025-07-26 10:00,Cheonan City FC,Gyeongnam FC,4,0,,,
-57353357,2025-07-26 10:00,Chungbuk Cheongju FC,Gimpo FC,0,3,,,
-57353359,2025-07-26 10:00,Chungnam Asan FC,Hwaseong FC,1,1,,,
-57353361,2025-07-27 10:00,Incheon United FC,Ansan Greeners FC,4,2,,,
-57353363,2025-07-27 10:00,Suwon Bluewings,Seoul E-Land FC,0,2,,,
-57353365,2025-07-27 10:00,Seongnam Ilhwa,Jeonnam Dragons,2,2,,,
-57353367,2025-08-02 10:00,Bucheon FC 1995,Seongnam Ilhwa,2,3,,,
-57353369,2025-08-02 10:00,Seoul E-Land FC,Incheon United FC,0,0,,,
-57353371,2025-08-02 10:00,Jeonnam Dragons,Chungnam Asan FC,2,2,,,
-57353373,2025-08-02 10:00,Hwaseong FC,Gimpo FC,0,1,,,
-57353375,2025-08-02 10:00,Ansan Greeners FC,Chungbuk Cheongju FC,1,2,,,
-57353377,2025-08-02 10:00,Gyeongnam FC,Busan I Park,1,0,,,
-57353379,2025-08-02 10:00,Cheonan City FC,Suwon Bluewings,1,2,,,
-57353381,2025-08-09 10:00,Chungnam Asan FC,Gyeongnam FC,2,2,,,
-57353383,2025-08-09 10:00,Busan I Park,Incheon United FC,0,2,,,
-57353385,2025-08-09 10:00,Suwon Bluewings,Ansan Greeners FC,3,1,,,
-57353387,2025-08-09 11:00,Seongnam Ilhwa,Gimpo FC,0,0,,,
-57353389,2025-08-10 10:00,Seoul E-Land FC,Hwaseong FC,0,0,,,
-57353391,2025-08-10 10:00,Jeonnam Dragons,Cheonan City FC,3,4,,,
-57353393,2025-08-10 10:30,Chungbuk Cheongju FC,Bucheon FC 1995,0,1,,,
-57353395,2025-08-15 10:00,Jeonnam Dragons,Bucheon FC 1995,2,1,,,
-57353397,2025-08-15 10:00,Ansan Greeners FC,Chungnam Asan FC,0,2,,,
-57353401,2025-08-16 10:00,Gimpo FC,Suwon Bluewings,3,1,,,
-57353403,2025-08-16 10:00,Chungbuk Cheongju FC,Hwaseong FC,1,1,,,
-57353405,2025-08-16 10:30,Gyeongnam FC,Seoul E-Land FC,1,1,,,
-57353399,2025-08-16 11:00,Incheon United FC,Seongnam Ilhwa,1,2,,,
-57353407,2025-08-17 10:00,Cheonan City FC,Busan I Park,0,1,,,
-57353409,2025-08-23 10:00,Jeonnam Dragons,Ansan Greeners FC,2,0,,,
-57353413,2025-08-23 10:00,Seoul E-Land FC,Gimpo FC,1,1,,,
-57353415,2025-08-23 10:00,Seongnam Ilhwa,Gyeongnam FC,2,1,,,
-57353411,2025-08-23 10:30,Bucheon FC 1995,Cheonan City FC,0,0,,,
-57353417,2025-08-24 10:00,Chungbuk Cheongju FC,Incheon United FC,0,4,,,
-57353419,2025-08-24 10:00,Chungnam Asan FC,Busan I Park,0,1,,,
-57353421,2025-08-24 10:00,Hwaseong FC,Suwon Bluewings,1,1,,,
-57353423,2025-08-30 10:00,Incheon United FC,Chungnam Asan FC,1,1,,,
-57353425,2025-08-30 10:00,Suwon Bluewings,Seongnam Ilhwa,2,2,,,
-57353427,2025-08-30 10:00,Ansan Greeners FC,Hwaseong FC,0,1,,,
-57353429,2025-08-30 10:00,Gimpo FC,Jeonnam Dragons,2,0,,,
-57353433,2025-08-30 10:00,Busan I Park,Chungbuk Cheongju FC,2,2,,,
-57353431,2025-08-31 10:00,Gyeongnam FC,Bucheon FC 1995,1,2,,,
-57353435,2025-08-31 10:00,Cheonan City FC,Seoul E-Land FC,2,5,,,
-57353437,2025-09-06 10:00,Busan I Park,Suwon Bluewings,1,0,,,
-57353439,2025-09-06 10:00,Jeonnam Dragons,Seoul E-Land FC,1,2,,,
-57353441,2025-09-06 10:00,Chungbuk Cheongju FC,Gyeongnam FC,0,1,,,
-57353443,2025-09-06 10:00,Seongnam Ilhwa,Ansan Greeners FC,4,0,,,
-57353445,2025-09-07 10:00,Gimpo FC,Cheonan City FC,1,3,,,
-57353447,2025-09-07 10:00,Bucheon FC 1995,Incheon United FC,1,0,,,
-57353449,2025-09-07 10:00,Hwaseong FC,Chungnam Asan FC,1,1,,,
-57353451,2025-09-13 07:30,Chungnam Asan FC,Bucheon FC 1995,3,0,,,
-57353453,2025-09-13 10:00,Gyeongnam FC,Gimpo FC,0,2,,,
-57353455,2025-09-13 10:00,Seoul E-Land FC,Suwon Bluewings,0,1,,,
-57353457,2025-09-13 10:00,Cheonan City FC,Incheon United FC,3,4,,,
-57353459,2025-09-14 10:00,Jeonnam Dragons,Hwaseong FC,1,2,,,
-57353461,2025-09-14 10:00,Chungbuk Cheongju FC,Seongnam Ilhwa,0,1,,,
-57353463,2025-09-14 10:00,Ansan Greeners FC,Busan I Park,2,3,,,
-57353465,2025-09-20 07:30,Suwon Bluewings,Gyeongnam FC,1,2,,,
-57353467,2025-09-20 07:30,Bucheon FC 1995,Seoul E-Land FC,2,2,,,
-57353469,2025-09-20 10:00,Incheon United FC,Gimpo FC,1,2,,,
-57353471,2025-09-20 10:00,Seongnam Ilhwa,Chungnam Asan FC,3,0,,,
-57353473,2025-09-21 07:30,Ansan Greeners FC,Chungbuk Cheongju FC,0,0,,,
-57353475,2025-09-21 07:30,Cheonan City FC,Hwaseong FC,2,2,,,
-57353477,2025-09-21 10:00,Busan I Park,Jeonnam Dragons,1,1,,,
-57353479,2025-09-27 05:00,Jeonnam Dragons,Bucheon FC 1995,3,2,,,
-57353481,2025-09-27 07:30,Chungnam Asan FC,Suwon Bluewings,1,3,,,
-57353483,2025-09-27 10:00,Chungbuk Cheongju FC,Cheonan City FC,0,1,,,
-57353485,2025-09-28 07:30,Gyeongnam FC,Ansan Greeners FC,1,0,,,
-57353487,2025-09-28 07:30,Hwaseong FC,Busan I Park,1,1,,,
-57353489,2025-09-28 10:00,Gimpo FC,Seongnam Ilhwa,0,0,,,
-57353491,2025-09-28 10:00,Seoul E-Land FC,Incheon United FC,0,0,,,
-57353493,2025-10-03 05:00,Seongnam Ilhwa,Seoul E-Land FC,0,2,,,
-57353495,2025-10-04 05:00,Suwon Bluewings,Bucheon FC 1995,2,2,,,
-57353497,2025-10-04 05:00,Gimpo FC,Ansan Greeners FC,1,1,,,
-57353499,2025-10-04 07:30,Chungnam Asan FC,Chungbuk Cheongju FC,0,0,,,
-57353501,2025-10-04 07:30,Hwaseong FC,Incheon United FC,0,1,,,
-57353503,2025-10-05 05:00,Jeonnam Dragons,Cheonan City FC,4,1,,,
-57353505,2025-10-05 07:30,Busan I Park,Gyeongnam FC,1,1,,,
-57353507,2025-10-07 05:00,Seoul E-Land FC,Hwaseong FC,1,1,,,
-57353509,2025-10-07 07:30,Chungbuk Cheongju FC,Gimpo FC,0,2,,,
-57353511,2025-10-08 05:00,Incheon United FC,Suwon Bluewings,1,1,,,
-57353513,2025-10-08 05:00,Cheonan City FC,Busan I Park,0,0,,,
-57353515,2025-10-08 05:00,Gyeongnam FC,Jeonnam Dragons,2,3,,,
-57353517,2025-10-08 07:30,Bucheon FC 1995,Seongnam Ilhwa,1,0,,,
-57353519,2025-10-08 07:30,Ansan Greeners FC,Chungnam Asan FC,0,1,,,
-57353521,2025-10-11 05:00,Gimpo FC,Seoul E-Land FC,0,1,,,
-57353523,2025-10-11 07:30,Hwaseong FC,Chungbuk Cheongju FC,1,0,,,
-57353525,2025-10-12 05:00,Suwon Bluewings,Cheonan City FC,5,0,,,
-57353527,2025-10-12 05:00,Jeonnam Dragons,Ansan Greeners FC,0,1,,,
-57353529,2025-10-12 05:00,Busan I Park,Bucheon FC 1995,1,2,,,
-57353531,2025-10-12 07:30,Seongnam Ilhwa,Incheon United FC,2,2,,,
-57353533,2025-10-12 07:30,Chungnam Asan FC,Gyeongnam FC,1,0,,,
-57353535,2025-10-19 05:00,Ansan Greeners FC,Incheon United FC,0,1,,,
-57353537,2025-10-19 05:00,Seoul E-Land FC,Busan I Park,3,0,,,
-57353539,2025-10-19 05:00,Chungnam Asan FC,Gimpo FC,1,0,,,
-57353541,2025-10-19 05:00,Gyeongnam FC,Seongnam Ilhwa,0,1,,,
-57353543,2025-10-19 07:30,Chungbuk Cheongju FC,Jeonnam Dragons,0,3,,,
-57353545,2025-10-19 07:30,Bucheon FC 1995,Cheonan City FC,2,1,,,
-57353547,2025-10-19 07:30,Hwaseong FC,Suwon Bluewings,2,3,,,
-57353549,2025-10-25 05:00,Suwon Bluewings,Jeonnam Dragons,2,2,,,
-57353551,2025-10-25 05:00,Seongnam Ilhwa,Hwaseong FC,1,0,,,
-57353553,2025-10-25 07:30,Cheonan City FC,Ansan Greeners FC,0,0,,,
-57353555,2025-10-25 07:30,Busan I Park,Gimpo FC,4,1,,,
-57353557,2025-10-25 07:30,Chungbuk Cheongju FC,Bucheon FC 1995,0,0,,,
-57353559,2025-10-26 05:00,Incheon United FC,Gyeongnam FC,3,0,,,
-57353561,2025-10-26 07:30,Seoul E-Land FC,Chungnam Asan FC,4,1,,,
-57353563,2025-11-01 05:00,Gyeongnam FC,Seoul E-Land FC,0,0,,,
-57353565,2025-11-01 05:00,Suwon Bluewings,Chungbuk Cheongju FC,2,0,,,
-57353567,2025-11-01 07:30,Bucheon FC 1995,Ansan Greeners FC,2,0,,,
-57353569,2025-11-01 07:30,Gimpo FC,Hwaseong FC,5,1,,,
-57353571,2025-11-02 05:00,Incheon United FC,Busan I Park,0,0,,,
-57353573,2025-11-02 05:00,Jeonnam Dragons,Seongnam Ilhwa,0,2,,,
-57353575,2025-11-02 07:30,Chungnam Asan FC,Cheonan City FC,1,1,,,
-57353577,2025-11-08 05:00,Jeonnam Dragons,Incheon United FC,2,1,,,
-57353579,2025-11-08 05:00,Hwaseong FC,Gyeongnam FC,0,1,,,
-57353581,2025-11-08 07:30,Busan I Park,Chungnam Asan FC,0,3,,,
-57353583,2025-11-08 07:30,Cheonan City FC,Seongnam Ilhwa,1,3,,,
-57353585,2025-11-09 05:00,Chungbuk Cheongju FC,Seoul E-Land FC,0,2,,,
-57353587,2025-11-09 05:00,Ansan Greeners FC,Suwon Bluewings,1,1,,,
-57353589,2025-11-09 07:30,Gimpo FC,Bucheon FC 1995,0,1,,,
-57353591,2025-11-23 05:00,Chungnam Asan FC,Jeonnam Dragons,2,1,,,
-57353593,2025-11-23 05:00,Incheon United FC,Chungbuk Cheongju FC,0,1,,,
-57353595,2025-11-23 05:00,Suwon Bluewings,Gimpo FC,1,1,,,
-57353597,2025-11-23 05:00,Bucheon FC 1995,Hwaseong FC,0,0,,,
-57353599,2025-11-23 05:00,Seoul E-Land FC,Ansan Greeners FC,6,0,,,
-57353601,2025-11-23 05:00,Gyeongnam FC,Cheonan City FC,2,0,,,
-57353603,2025-11-23 05:00,Seongnam Ilhwa,Busan I Park,2,1,,,
-68046332,2026-02-28 05:00,Gimhae FC,Ansan Greeners FC,1,4,,,
-68046334,2026-02-28 07:30,Suwon Bluewings,Seoul E-Land FC,2,1,1.833,3.400,3.700
-68046338,2026-03-01 05:00,Daegu FC,Hwaseong FC,1,0,1.600,3.300,5.250
-68046340,2026-03-01 05:00,Chungbuk Cheongju FC,Suwon FC,1,4,3.250,3.000,2.100
-68046342,2026-03-01 07:30,Gyeongnam FC,Jeonnam Dragons,1,4,3.200,3.100,2.050
-68046344,2026-03-02 05:00,Chungnam Asan FC,Paju Citizen FC,3,2,,,
-68046346,2026-03-02 07:30,Busan I Park,Seongnam Ilhwa,1,1,2.500,2.875,2.750
-68046348,2026-03-07 05:00,Seoul E-Land FC,Gyeongnam FC,1,0,1.650,3.400,5.250
-68046350,2026-03-07 05:00,Paju Citizen FC,Suwon Bluewings,0,1,,,
-68046352,2026-03-07 07:30,Daegu FC,Jeonnam Dragons,4,2,1.850,3.400,3.600
-68046356,2026-03-08 05:00,Ansan Greeners FC,Busan I Park,1,3,3.900,3.000,2.000
-68046358,2026-03-08 05:00,Seongnam Ilhwa,Chungbuk Cheongju FC,2,2,1.727,3.250,4.750
-68046360,2026-03-08 07:30,Cheonan City FC,Gimpo FC,0,1,3.750,3.100,1.950
-68046362,2026-03-08 07:30,Hwaseong FC,Gimhae FC,2,0,2.100,3.100,3.100
-68046364,2026-03-14 05:00,Gimhae FC,Suwon FC,1,2,5.250,3.500,1.571
-68046366,2026-03-14 05:00,Seoul E-Land FC,Busan I Park,2,3,2.300,2.900,2.875
-68046368,2026-03-14 05:00,Suwon Bluewings,Jeonnam Dragons,2,0,1.800,3.400,3.700
-68046372,2026-03-14 07:30,Gyeongnam FC,Chungbuk Cheongju FC,2,2,2.450,2.900,2.700
-68046374,2026-03-15 05:00,Chungnam Asan FC,Daegu FC,2,3,2.900,3.300,2.150
-68046376,2026-03-15 05:00,Ansan Greeners FC,Paju Citizen FC,1,2,,,
-68046378,2026-03-15 07:30,Hwaseong FC,Cheonan City FC,2,2,2.100,3.000,3.250
-68046380,2026-03-21 05:00,Seongnam Ilhwa,Chungnam Asan FC,2,1,2.200,3.200,3.100
-68046382,2026-03-21 05:00,Paju Citizen FC,Jeonnam Dragons,2,0,,,
-68046384,2026-03-21 05:00,Gimhae FC,Suwon Bluewings,0,3,6.000,3.750,1.500
-68046386,2026-03-21 07:30,Cheonan City FC,Seoul E-Land FC,0,0,3.750,3.100,2.000
-68046388,2026-03-21 07:30,Chungbuk Cheongju FC,Ansan Greeners FC,1,1,2.200,3.100,3.200
-68046390,2026-03-22 05:00,Hwaseong FC,Yongin City FC,0,0,1.800,3.200,4.100
-68046392,2026-03-22 05:00,Busan I Park,Daegu FC,3,1,2.600,3.100,2.600
-68046394,2026-03-22 07:30,Gyeongnam FC,Gimpo FC,1,0,4.000,3.300,1.833
-68046396,2026-03-28 05:00,Yongin City FC,Suwon Bluewings,0,1,6.250,3.900,1.420
-68046398,2026-03-28 05:00,Chungnam Asan FC,Hwaseong FC,1,0,2.150,3.200,3.200
-68046400,2026-03-28 07:30,Seongnam Ilhwa,Gimpo FC,0,0,2.750,3.000,2.750
-68046402,2026-03-28 07:30,Cheonan City FC,Jeonnam Dragons,1,0,3.400,3.200,2.050
-68046404,2026-03-28 07:30,Ansan Greeners FC,Gyeongnam FC,1,1,3.250,3.300,2.150
-68046406,2026-03-29 05:00,Chungbuk Cheongju FC,Busan I Park,1,2,4.750,3.100,1.727
-68046408,2026-03-29 05:00,Suwon FC,Paju Citizen FC,2,1,,,
-68046410,2026-03-29 07:30,Daegu FC,Seoul E-Land FC,1,3,2.150,3.250,3.000
-68046412,2026-04-04 05:00,Yongin City FC,Jeonnam Dragons,2,2,3.200,3.200,2.050
-68046414,2026-04-04 05:00,Seoul E-Land FC,Suwon FC,3,0,2.625,3.100,2.400
-68046416,2026-04-04 07:30,Hwaseong FC,Seongnam Ilhwa,1,3,3.000,2.750,2.400
-68046418,2026-04-04 07:30,Gyeongnam FC,Busan I Park,1,2,4.200,3.100,1.800
-68046420,2026-04-05 05:00,Daegu FC,Gimpo FC,3,3,2.150,3.100,3.100
-68046422,2026-04-05 05:00,Suwon Bluewings,Chungbuk Cheongju FC,0,0,1.380,4.000,7.000
-68046424,2026-04-05 07:30,Paju Citizen FC,Gimhae FC,3,1,,,
-68046426,2026-04-05 07:30,Ansan Greeners FC,Chungnam Asan FC,1,3,4.000,3.300,1.750
-68046428,2026-04-11 05:00,Busan I Park,Yongin City FC,2,0,1.533,3.500,5.750
-68046430,2026-04-11 05:00,Suwon FC,Daegu FC,2,2,2.450,3.400,2.400
-68046432,2026-04-11 07:30,Paju Citizen FC,Seoul E-Land FC,1,3,,,
-68046434,2026-04-11 07:30,Hwaseong FC,Jeonnam Dragons,1,0,2.600,3.000,2.500
-68046436,2026-04-12 05:00,Suwon Bluewings,Gimpo FC,0,1,1.900,3.100,3.800
-68046438,2026-04-12 05:00,Cheonan City FC,Chungbuk Cheongju FC,2,2,2.450,3.000,2.700
-68046440,2026-04-12 07:30,Seongnam Ilhwa,Ansan Greeners FC,0,1,1.533,3.400,6.000
-68046442,2026-04-12 07:30,Chungnam Asan FC,Gimhae FC,1,1,1.666,3.300,4.500
-68046444,2026-04-18 05:00,Busan I Park,Suwon FC,2,1,2.550,3.300,2.450
-68046446,2026-04-18 05:00,Gyeongnam FC,Suwon Bluewings,0,1,5.000,3.400,1.650
-68046448,2026-04-18 07:30,Daegu FC,Cheonan City FC,1,2,1.550,3.800,5.250
-68046450,2026-04-18 07:30,Chungbuk Cheongju FC,Gimhae FC,1,1,2.250,3.250,2.900
-68046452,2026-04-19 05:00,Ansan Greeners FC,Seoul E-Land FC,0,2,7.000,4.333,1.380
-68046454,2026-04-19 05:00,Seongnam Ilhwa,Paju Citizen FC,0,1,,,
-68046456,2026-04-19 07:30,Hwaseong FC,Gimpo FC,2,2,3.900,2.900,2.050
-68046458,2026-04-19 07:30,Chungnam Asan FC,Jeonnam Dragons,2,2,2.050,3.400,3.200
-68046460,2026-04-25 05:00,Suwon Bluewings,Busan I Park,3,3,2.150,3.100,3.000
-68046462,2026-04-25 05:00,Paju Citizen FC,Gyeongnam FC,2,3,,,
-68046464,2026-04-25 07:30,Cheonan City FC,Seongnam Ilhwa,1,1,3.600,3.000,2.000
-68046466,2026-04-25 07:30,Ansan Greeners FC,Jeonnam Dragons,2,1,4.500,3.400,1.650
-68046468,2026-04-26 05:00,Suwon FC,Gimpo FC,1,1,2.375,3.200,2.600
-68046470,2026-04-26 05:00,Seoul E-Land FC,Hwaseong FC,1,2,1.650,3.300,4.750
-68046472,2026-04-26 07:30,Chungbuk Cheongju FC,Chungnam Asan FC,0,0,3.400,3.100,2.050
-68046474,2026-04-26 07:30,Yongin City FC,Gimhae FC,4,1,2.100,3.100,3.100
-68046476,2026-05-03 05:00,Daegu FC,Gyeongnam FC,2,0,1.650,3.750,4.500
-68046478,2026-05-03 05:00,Hwaseong FC,Ansan Greeners FC,2,0,1.750,3.500,4.200
-68046480,2026-05-03 05:00,Seoul E-Land FC,Gimpo FC,2,1,2.300,3.100,3.000
-68046482,2026-05-03 07:30,Cheonan City FC,Chungnam Asan FC,1,0,3.000,3.400,2.150
-68046484,2026-05-03 07:30,Paju Citizen FC,Chungbuk Cheongju FC,0,0,,,
-68046486,2026-05-03 07:30,Gimhae FC,Busan I Park,0,1,5.250,3.900,1.571
-68046488,2026-05-03 07:30,Yongin City FC,Seongnam Ilhwa,1,3,3.250,3.200,2.150
-68046490,2026-05-03 10:00,Suwon FC,Suwon Bluewings,3,1,3.250,3.600,2.000
-68046492,2026-05-09 05:00,Chungnam Asan FC,Seoul E-Land FC,3,0,3.000,3.200,2.150
-68046494,2026-05-09 05:00,Hwaseong FC,Suwon FC,1,1,3.200,3.100,2.100
-68046496,2026-05-09 07:30,Suwon Bluewings,Daegu FC,0,0,2.000,3.300,3.200
-68046498,2026-05-09 07:30,Chungbuk Cheongju FC,Gimpo FC,1,1,4.100,2.875,1.909
-68046500,2026-05-10 05:00,Seongnam Ilhwa,Jeonnam Dragons,0,0,2.100,3.100,3.200
-68046502,2026-05-10 07:30,Ansan Greeners FC,Yongin City FC,1,2,3.500,3.100,1.950
-68046504,2026-05-10 07:30,Busan I Park,Cheonan City FC,1,0,1.700,3.400,4.333
-68046506,2026-05-10 10:00,Gyeongnam FC,Gimhae FC,2,1,2.150,3.100,3.100
-68046508,2026-05-16 07:30,Seoul E-Land FC,Yongin City FC,2,2,1.600,3.600,4.750
-68046510,2026-05-16 07:30,Jeonnam Dragons,Chungbuk Cheongju FC,2,2,2.150,3.000,3.200
-68046512,2026-05-16 10:00,Cheonan City FC,Paju Citizen FC,0,0,,,
-68046514,2026-05-16 10:00,Ansan Greeners FC,Gimpo FC,0,1,5.500,3.750,1.500
-68046516,2026-05-17 07:30,Seongnam Ilhwa,Gyeongnam FC,1,1,1.850,3.000,4.200
-68046518,2026-05-17 07:30,Gimhae FC,Daegu FC,1,4,4.500,3.900,1.571
-68046520,2026-05-17 07:30,Hwaseong FC,Busan I Park,3,2,3.250,3.100,2.100
-68046804,2026-05-17 10:00,Chungnam Asan FC,Suwon FC,1,3,,,
-68046524,2026-05-23 07:30,Jeonnam Dragons,Gimhae FC,0,1,1.666,3.500,4.500
-68046528,2026-05-23 07:30,Gyeongnam FC,Suwon FC,3,2,3.400,3.400,2.000
-68046530,2026-05-23 10:00,Chungbuk Cheongju FC,Hwaseong FC,2,3,2.500,3.000,2.750
-68046532,2026-05-24 07:30,Yongin City FC,Chungnam Asan FC,0,0,2.700,3.250,2.400
-68046534,2026-05-24 10:00,Daegu FC,Ansan Greeners FC,3,0,1.333,4.750,7.000
-68046536,2026-05-24 10:00,Seoul E-Land FC,Seongnam Ilhwa,3,1,2.150,3.100,3.250
-68046538,2026-05-25 07:30,Suwon Bluewings,Cheonan City FC,3,2,1.800,3.400,4.100
-68046540,2026-05-25 07:30,Paju Citizen FC,Gimpo FC,0,1,,,
-68046542,2026-05-30 07:30,Busan I Park,Paju Citizen FC,4,1,,,
-68046544,2026-05-30 07:30,Chungnam Asan FC,Suwon Bluewings,2,1,4.200,3.500,1.666
-68046546,2026-05-30 07:30,Yongin City FC,Daegu FC,1,1,4.750,3.750,1.571
-68046548,2026-05-30 10:00,Gimhae FC,Gimpo FC,1,2,4.750,3.400,1.666
-68046550,2026-05-30 10:00,Suwon FC,Seongnam Ilhwa,0,1,2.100,3.300,2.900
-68046552,2026-05-31 07:30,Hwaseong FC,Gyeongnam FC,2,0,2.200,3.100,3.200
-68046554,2026-05-31 07:30,Jeonnam Dragons,Seoul E-Land FC,0,1,3.500,3.400,1.909
-68046556,2026-05-31 10:00,Ansan Greeners FC,Cheonan City FC,1,3,3.700,3.200,1.900
-68046558,2026-06-05 10:30,Daegu FC,Paju Citizen FC,1,0,,,
-68046560,2026-06-05 10:30,Busan I Park,Chungnam Asan FC,2,2,1.666,3.600,4.750
-68046562,2026-06-05 10:30,Seongnam Ilhwa,Gimhae FC,1,1,1.833,3.300,4.000
-68046564,2026-06-06 10:30,Gyeongnam FC,Yongin City FC,2,2,2.700,3.200,2.400
-68046566,2026-06-06 10:30,Hwaseong FC,Suwon Bluewings,1,2,3.250,3.250,2.100
-68046568,2026-06-07 10:30,Cheonan City FC,Suwon FC,2,2,3.100,3.300,2.150
-68046570,2026-06-07 10:30,Seoul E-Land FC,Chungbuk Cheongju FC,1,2,1.450,4.200,6.000
-68046572,2026-06-07 10:30,Gimpo FC,Jeonnam Dragons,2,2,1.850,3.300,4.000
-68046574,2026-07-04 10:30,Cheongju,Daegu,1,5,4.333,3.500,1.666
-68046576,2026-07-04 10:30,Ansan Greeners,Suwon,1,3,4.500,3.800,1.600
-68046580,2026-07-04 10:30,Suwon Bluewings,Seongnam,1,0,1.750,3.400,4.000
-72011348,2026-07-04 10:30,Paju Frontier,Yongin FC,0,1,2.550,3.200,2.450
-68046582,2026-07-05 10:30,Gimhae,Seoul E-Land,1,3,4.750,4.000,1.500
-68046584,2026-07-05 10:30,Gimpo,Chungnam Asan,0,2,1.750,3.300,4.100
-68046586,2026-07-05 10:30,Gyeongnam,Cheonan City,2,1,2.250,3.300,2.625
-68046588,2026-07-05 10:30,Jeonnam,Busan,3,3,2.875,3.400,2.100
-68046590,2026-07-10 10:30,Suwon FC,Jeonnam Dragons,5,0,1.700,3.900,4.000
-68046592,2026-07-10 10:30,Cheonan City FC,Gimhae FC,0,1,1.727,3.600,4.100
-68046594,2026-07-11 10:30,Ansan Greeners FC,Suwon Bluewings,2,1,7.000,5.000,1.333
-68046596,2026-07-11 10:30,Daegu FC,Seongnam Ilhwa,3,2,1.700,3.600,4.333
-68046598,2026-07-11 10:30,Hwaseong FC,Paju Frontier FC,1,2,1.666,3.500,4.750
-72011350,2026-07-11 10:30,Yongin FC,Chungbuk Cheongju FC,1,1,2.200,3.100,3.000
-68046602,2026-07-12 10:30,Chungnam Asan FC,Gyeongnam FC,1,1,2.150,3.250,3.000
-68046604,2026-07-12 10:30,Busan IPark,Gimpo FC,2,0,2.250,3.000,3.000
-68046606,2026-07-18 10:30,Jeonnam Dragons,Chungnam Asan FC,1,0,2.550,3.200,2.450
-68046608,2026-07-18 10:30,Gimpo FC,Daegu FC,1,1,3.600,3.250,1.909
-68046610,2026-07-18 10:30,Suwon FC,Seoul E-Land FC,2,2,2.500,3.500,2.300
-68046612,2026-07-18 10:30,Seongnam Ilhwa,Busan IPark,1,0,2.900,3.100,2.200
-68046614,2026-07-19 10:30,Gyeongnam FC,Ansan Greeners FC,5,0,1.700,3.400,4.200
-68046616,2026-07-19 10:30,Suwon Bluewings,Paju Frontier FC,0,0,1.380,4.100,6.500
-68046618,2026-07-19 10:30,Chungbuk Cheongju FC,Cheonan City FC,1,0,2.200,3.200,2.900
-72011354,2026-07-19 10:30,Yongin FC,Hwaseong FC,0,3,2.750,3.100,2.350
-68046622,2026-07-24 10:30,Seoul E-Land FC,Cheonan City FC,4,3,1.480,4.100,5.250
-68046624,2026-07-24 10:30,Gimhae FC,Chungbuk Cheongju FC,1,1,3.100,3.000,2.200
-68046626,2026-07-25 10:30,Busan IPark,Suwon Bluewings,1,4,2.625,3.100,2.400
-68046628,2026-07-25 10:30,Daegu FC,Suwon FC,1,2,2.000,3.500,3.000
-68046630,2026-07-25 10:30,Jeonnam Dragons,Gyeongnam FC,1,1,2.450,3.200,2.550
-68046632,2026-07-25 10:30,Hwaseong FC,Chungnam Asan FC,3,2,2.250,3.100,2.900
-68046636,2026-07-26 10:30,Paju Frontier FC,Ansan Greeners FC,0,1,1.666,3.500,4.333
-72011356,2026-07-26 10:30,Gimpo FC,Yongin FC,1,1,1.800,3.200,4.000
-68046638,2026-08-01 10:30,Chungnam Asan FC,Seongnam Ilhwa,2,0,2.350,3.100,2.625
-68046642,2026-08-01 10:30,Chungbuk Cheongju FC,Suwon Bluewings,2,3,4.750,3.750,1.571
-68046644,2026-08-01 10:30,Hwaseong FC,Daegu FC,5,1,3.100,3.400,2.000
-72011358,2026-08-01 10:30,Cheonan City FC,Yongin FC,2,2,2.400,3.200,2.550
-68046646,2026-08-02 10:30,Busan IPark,Seoul E-Land FC,1,2,2.500,3.600,2.300
-68046648,2026-08-02 10:30,Gimpo FC,Gyeongnam FC,1,1,1.900,3.100,3.700
-68046650,2026-08-02 10:30,Jeonnam Dragons,Paju Frontier FC,1,2,2.100,3.100,3.100
-68046652,2026-08-02 10:30,Ansan Greeners FC,Gimhae FC,2,2,2.550,3.200,2.500
-68046654,2026-08-07 11:00,Chungnam Asan FC,Ansan Greeners FC,1,1,1.444,4.100,5.750
-68046656,2026-08-07 11:00,Gimpo FC,Chungbuk Cheongju FC,3,0,1.700,3.300,4.333
-68046658,2026-08-07 11:00,Gyeongnam FC,Daegu FC,0,1,3.300,3.600,1.900
-68046660,2026-08-07 11:00,Hwaseong FC,Seoul E-Land FC,0,0,2.500,3.300,2.350
-68046662,2026-08-07 11:00,Suwon Bluewings,Gimhae FC,1,0,1.300,4.333,9.000
-72011360,2026-08-07 11:00,Yongin FC,Busan IPark,2,0,,,
-68046666,2026-08-08 11:00,Paju Frontier FC,Suwon FC,0,1,4.000,3.750,1.666
-68046668,2026-08-08 11:00,Seongnam Ilhwa,Cheonan City FC,3,2,2.150,3.100,3.300
-68046670,2026-08-15 10:30,Chungbuk Cheongju FC,Jeonnam Dragons,2,1,2.150,3.100,3.000
-68046672,2026-08-15 10:30,Gimhae FC,Gyeongnam FC,1,1,3.200,3.100,2.050
-68046674,2026-08-15 10:30,Suwon Bluewings,Suwon FC,2,2,1.900,3.500,3.300
-68046676,2026-08-15 10:30,Busan IPark,Hwaseong FC,0,0,2.250,3.200,2.875
-68046678,2026-08-16 10:30,Seoul E-Land FC,Ansan Greeners FC,3,1,1.333,4.750,7.000
-68046680,2026-08-16 10:30,Daegu FC,Chungnam Asan FC,2,0,1.850,3.500,3.600
-68046682,2026-08-16 10:30,Gimpo FC,Cheonan City FC,1,1,1.650,3.600,4.333
-68046684,2026-08-16 10:30,Paju Frontier FC,Seongnam Ilhwa,2,1,3.200,3.000,2.150
-68046686,2026-08-22 10:30,Daegu FC,Busan IPark,1,1,1.909,3.500,3.400
-68046688,2026-08-22 10:30,Suwon FC,Gimhae FC,2,0,1.444,4.000,5.750
-68046690,2026-08-22 10:30,Cheonan City FC,Suwon Bluewings,0,1,5.500,4.100,1.450
-68046692,2026-08-22 10:30,Ansan Greeners FC,Seongnam Ilhwa,1,2,4.333,3.400,1.700
-68046694,2026-08-23 10:30,Jeonnam Dragons,Hwaseong FC,1,0,3.500,3.500,1.850
-68046698,2026-08-23 10:30,Chungbuk Cheongju FC,Gyeongnam FC,1,1,2.400,3.200,2.500
-68046700,2026-08-23 10:30,Seoul E-Land FC,Paju Frontier FC,1,1,1.533,3.800,4.750
-72011362,2026-08-23 10:30,Chungnam Asan FC,Yongin FC,2,1,1.950,3.400,3.400
-68046702,2026-08-28 10:30,Ansan Greeners FC,Daegu FC,1,2,5.750,4.500,1.400
-68046704,2026-08-28 10:30,Jeonnam Dragons,Cheonan City FC,1,0,2.300,3.300,2.625
-68046706,2026-08-29 10:30,Gimpo FC,Suwon Bluewings,1,4,3.500,3.200,1.900
-68046708,2026-08-29 10:30,Gyeongnam FC,Paju Frontier FC,1,0,2.100,3.100,3.200
-68046710,2026-08-29 10:30,Hwaseong FC,Chungbuk Cheongju FC,2,1,1.850,3.200,3.600
-68046712,2026-08-29 10:30,Seongnam Ilhwa,Seoul E-Land FC,1,1,3.200,3.300,2.050
-68046716,2026-08-30 10:30,Suwon FC,Busan IPark,2,1,2.000,3.400,3.000
-72011066,2026-08-30 10:30,Gimhae FC,Yongin FC,0,3,2.875,3.100,2.250
-68046718,2026-09-04 10:30,Chungbuk Cheongju FC,Seoul E-Land FC,0,2,4.200,3.700,1.650
-68046720,2026-09-04 10:30,Paju Frontier FC,Daegu FC,0,0,4.750,3.900,1.533
-68046722,2026-09-05 10:00,Busan IPark,Ansan Greeners FC,0,1,1.420,4.200,5.750
-68046724,2026-09-05 10:00,Cheonan City FC,Hwaseong FC,1,1,3.100,3.250,2.050
-68046728,2026-09-05 10:00,Gimhae FC,Jeonnam Dragons,2,2,2.450,3.200,2.550
-72011068,2026-09-05 10:00,Yongin FC,Suwon FC,1,1,3.600,3.500,1.800
-68046730,2026-09-06 10:00,Suwon Bluewings,Chungnam Asan FC,2,0,1.550,3.750,4.750
-68046732,2026-09-06 10:00,Gimpo FC,Seongnam Ilhwa,1,2,2.250,3.000,2.875
-68046736,2026-09-12 07:30,Seoul E-Land FC,Suwon Bluewings,0,1,2.700,3.400,2.350
-72011070,2026-09-12 07:30,Daegu FC,Yongin FC,3,1,1.533,4.100,5.000
-68046738,2026-09-12 10:00,Ansan Greeners FC,Hwaseong FC,0,2,4.333,3.800,1.650
-68046740,2026-09-12 10:00,Chungnam Asan FC,Chungbuk Cheongju FC,0,1,2.050,3.250,3.300
-68046742,2026-09-13 07:30,Gyeongnam FC,Seongnam Ilhwa,1,0,2.750,3.200,2.400
-68046744,2026-09-13 07:30,Jeonnam Dragons,Gimpo FC,2,2,3.600,3.250,1.950
-68046746,2026-09-13 10:00,Busan IPark,Gimhae FC,2,0,1.650,3.800,4.500
-68046748,2026-09-13 10:00,Suwon FC,Cheonan City FC,1,1,1.615,3.800,4.333
-68046750,2026-09-19 07:30,Jeonnam Dragons,Suwon FC,0,3,3.800,3.600,1.727
-68046752,2026-09-19 07:30,Chungnam Asan FC,Cheonan City FC,3,1,2.050,3.250,3.000
-68046754,2026-09-19 10:00,Seoul E-Land FC,Daegu FC,2,1,2.200,3.400,2.750
-68046756,2026-09-19 10:00,Gimpo FC,Busan IPark,1,0,2.500,3.200,2.500
-68046758,2026-09-20 07:30,Ansan Greeners FC,Chungbuk Cheongju FC,2,3,3.200,3.400,1.950
-72011072,2026-09-20 07:30,Yongin FC,Gyeongnam FC,0,0,2.200,3.000,3.000
-68046762,2026-09-20 10:00,Gimhae FC,Paju Frontier FC,0,2,2.350,3.200,2.700
-68046764,2026-09-20 10:00,Seongnam Ilhwa,Hwaseong FC,2,2,2.700,3.100,2.350
-68046766,2026-10-09 05:00,Suwon FC,Hwaseong FC,1,0,1.833,3.500,3.500
-68046768,2026-10-09 07:30,Chungbuk Cheongju FC,Seongnam Ilhwa,3,1,2.550,3.000,2.500
-68046770,2026-10-09 07:30,Gimpo FC,Seoul E-Land FC,0,1,3.000,3.250,2.100
-68046774,2026-10-10 05:00,Paju Frontier FC,Busan IPark,1,1,3.300,3.250,1.950
-72011076,2026-10-10 05:00,Jeonnam Dragons,Yongin FC,2,1,2.500,3.100,2.500
-68046776,2026-10-10 07:30,Cheonan City FC,Gyeongnam FC,1,0,2.050,3.100,3.100
-68046778,2026-10-10 07:30,Gimhae FC,Chungnam Asan FC,1,1,3.300,3.300,1.909
-68046780,2026-10-11 05:00,Suwon Bluewings,Ansan Greeners FC,4,1,1.200,5.750,10.000
-68046782,2026-10-17 05:00,Daegu FC,Chungbuk Cheongju FC,3,1,1.533,3.900,4.750
-68046784,2026-10-17 05:00,Seongnam Ilhwa,Suwon FC,1,2,3.300,3.400,1.900
-68046788,2026-10-17 07:30,Gimpo FC,Paju Frontier FC,4,1,1.700,3.400,4.333
-68046790,2026-10-17 07:30,Gyeongnam FC,Chungnam Asan FC,0,0,2.875,3.000,2.250
-72011078,2026-10-17 07:30,Yongin FC,Ansan Greeners FC,0,4,1.700,3.500,4.100
-68046792,2026-10-18 05:00,Suwon Bluewings,Hwaseong FC,3,2,1.533,3.750,5.000
-68046794,2026-10-18 05:00,Seoul E-Land FC,Gimhae FC,6,2,1.300,4.500,7.500
-68046796,2026-10-18 07:30,Busan IPark,Jeonnam Dragons,2,1,1.800,3.500,3.700
-68046798,2026-10-24 05:00,Jeonnam Dragons,Daegu FC,2,4,4.333,3.800,1.600
-68046800,2026-10-24 07:30,Gimpo FC,Gimhae FC,1,2,1.615,3.600,4.500
-68046802,2026-10-25 05:00,Seongnam Ilhwa,Suwon Bluewings,0,2,4.750,3.600,1.600
-68046806,2026-10-25 05:00,Busan IPark,Gyeongnam FC,3,1,1.850,3.250,3.600
-71467884,2026-10-25 05:00,Suwon FC,Chungnam Asan FC,0,1,1.750,3.600,3.900
-68046808,2026-10-25 07:30,Cheonan City FC,Ansan Greeners FC,3,1,1.833,3.400,3.600
-68046812,2026-10-25 07:30,Paju Frontier FC,Hwaseong FC,1,1,4.333,3.500,1.650
-72011080,2026-10-25 07:30,Chungbuk Cheongju FC,Yongin FC,0,2,2.200,3.100,2.875
-68046814,2026-10-31 05:00,Gyeongnam FC,Hwaseong FC,1,0,3.300,3.250,2.050
-72011140,2026-10-31 05:00,Yongin FC,Seoul E-Land FC,4,2,5.250,3.900,1.533
-68046818,2026-10-31 07:30,Chungnam Asan FC,Gimpo FC,5,1,2.375,3.300,2.750
-68046820,2026-10-31 07:30,Daegu FC,Suwon Bluewings,2,2,2.550,3.500,2.450
-68046822,2026-11-01 05:00,Suwon FC,Ansan Greeners FC,1,0,1.270,5.250,9.500
-68046824,2026-11-01 05:00,Jeonnam Dragons,Seongnam Ilhwa,2,2,2.550,3.400,2.450
-68046826,2026-11-01 07:30,Chungbuk Cheongju FC,Paju Frontier FC,1,2,2.200,3.250,3.000
-68046828,2026-11-01 07:30,Gimhae FC,Cheonan City FC,3,3,2.700,3.300,2.375
-68046830,2026-11-07 05:00,Seongnam Ilhwa,Daegu FC,0,1,4.500,3.900,1.615
-68046832,2026-11-07 05:00,Suwon FC,Gyeongnam FC,3,0,1.480,3.900,6.250
-68046834,2026-11-07 07:30,Gimpo FC,Ansan Greeners FC,2,2,1.700,3.700,4.333
-68046836,2026-11-07 07:30,Gimhae FC,Hwaseong FC,0,1,3.900,3.700,1.750
-68046838,2026-11-07 07:30,Seoul E-Land FC,Jeonnam Dragons,3,2,1.444,4.200,6.000
-68046842,2026-11-08 05:00,Cheonan City FC,Busan IPark,1,0,3.200,3.400,2.050
-72011142,2026-11-08 05:00,Suwon Bluewings,Yongin FC,2,0,1.300,5.000,7.500
-68046844,2026-11-08 07:30,Paju Frontier FC,Chungnam Asan FC,1,1,4.750,3.500,1.666
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+57353181,2025-05-24 07:30,Hwaseong FC,Seoul E-Land FC,0,1,,,,,,
+57353183,2025-05-24 07:30,Chungbuk Cheongju FC,Ansan Greeners FC,0,0,,,,,,
+57353185,2025-05-24 10:00,Seongnam Ilhwa,Busan I Park,0,0,,,,,,
+57353187,2025-05-24 10:00,Gyeongnam FC,Cheonan City FC,3,1,,,,,,
+57353189,2025-05-25 07:30,Chungnam Asan FC,Bucheon FC 1995,2,2,,,,,,
+57353191,2025-05-25 07:30,Incheon United FC,Jeonnam Dragons,2,0,,,,,,
+57353193,2025-05-25 10:00,Suwon Bluewings,Gimpo FC,1,1,,,,,,
+57353195,2025-05-31 07:30,Jeonnam Dragons,Hwaseong FC,3,2,,,,,,
+57353197,2025-05-31 07:30,Seoul E-Land FC,Busan I Park,1,4,,,,,,
+57353199,2025-05-31 10:00,Chungbuk Cheongju FC,Gyeongnam FC,1,2,,,,,,
+57353201,2025-05-31 10:00,Ansan Greeners FC,Seongnam Ilhwa,1,0,,,,,,
+57353203,2025-06-01 07:30,Chungnam Asan FC,Gimpo FC,2,0,,,,,,
+57353205,2025-06-01 10:00,Suwon Bluewings,Bucheon FC 1995,4,1,,,,,,
+57353207,2025-06-01 10:00,Cheonan City FC,Incheon United FC,3,3,,,,,,
+57353209,2025-06-06 10:00,Chungbuk Cheongju FC,Chungnam Asan FC,0,2,,,,,,
+57353211,2025-06-06 10:00,Seongnam Ilhwa,Suwon Bluewings,1,2,,,,,,
+57353213,2025-06-07 10:00,Busan I Park,Ansan Greeners FC,0,2,,,,,,
+57353215,2025-06-07 10:00,Jeonnam Dragons,Seoul E-Land FC,1,1,,,,,,
+57353217,2025-06-07 10:00,Gyeongnam FC,Hwaseong FC,0,1,,,,,,
+57353219,2025-06-08 10:00,Incheon United FC,Bucheon FC 1995,1,0,,,,,,
+57353221,2025-06-08 10:00,Gimpo FC,Cheonan City FC,1,0,,,,,,
+57353223,2025-06-14 10:00,Chungnam Asan FC,Cheonan City FC,0,1,,,,,,
+57353225,2025-06-14 10:00,Bucheon FC 1995,Seoul E-Land FC,3,1,,,,,,
+57353227,2025-06-14 10:00,Chungbuk Cheongju FC,Seongnam Ilhwa,0,1,,,,,,
+57353229,2025-06-15 10:00,Jeonnam Dragons,Busan I Park,0,1,,,,,,
+57353231,2025-06-15 10:00,Hwaseong FC,Ansan Greeners FC,0,0,,,,,,
+57353233,2025-06-15 10:00,Gimpo FC,Gyeongnam FC,3,0,,,,,,
+57353235,2025-06-15 10:00,Suwon Bluewings,Incheon United FC,1,2,,,,,,
+57353237,2025-06-21 10:00,Incheon United FC,Hwaseong FC,2,0,,,,,,
+57353241,2025-06-21 10:00,Cheonan City FC,Seoul E-Land FC,4,2,,,,,,
+57353243,2025-06-21 10:00,Ansan Greeners FC,Bucheon FC 1995,0,1,,,,,,
+57353245,2025-06-21 10:00,Seongnam Ilhwa,Chungnam Asan FC,0,2,,,,,,
+57353247,2025-06-22 10:00,Jeonnam Dragons,Gimpo FC,0,0,,,,,,
+57353249,2025-06-22 10:00,Busan I Park,Chungbuk Cheongju FC,2,2,,,,,,
+57353251,2025-06-22 10:00,Gyeongnam FC,Suwon Bluewings,1,3,,,,,,
+57353253,2025-06-28 10:00,Chungnam Asan FC,Seoul E-Land FC,1,1,,,,,,
+57353255,2025-06-28 10:00,Bucheon FC 1995,Gyeongnam FC,2,0,,,,,,
+57353257,2025-06-28 10:00,Ansan Greeners FC,Cheonan City FC,0,0,,,,,,
+57353259,2025-06-28 10:00,Hwaseong FC,Seongnam Ilhwa,1,0,,,,,,
+57353261,2025-06-29 10:00,Suwon Bluewings,Busan I Park,1,1,,,,,,
+57353263,2025-06-29 10:00,Chungbuk Cheongju FC,Jeonnam Dragons,2,2,,,,,,
+57353265,2025-06-29 10:00,Gimpo FC,Incheon United FC,1,1,,,,,,
+57353267,2025-07-05 10:00,Chungnam Asan FC,Suwon Bluewings,2,3,,,,,,
+57353269,2025-07-05 10:00,Jeonnam Dragons,Incheon United FC,2,1,,,,,,
+57353271,2025-07-05 10:00,Chungbuk Cheongju FC,Seoul E-Land FC,2,1,,,,,,
+57353273,2025-07-05 10:00,Gyeongnam FC,Ansan Greeners FC,1,1,,,,,,
+57353275,2025-07-06 10:00,Seongnam Ilhwa,Cheonan City FC,0,0,,,,,,
+57353277,2025-07-06 10:00,Hwaseong FC,Bucheon FC 1995,0,1,,,,,,
+57353279,2025-07-06 10:00,Gimpo FC,Busan I Park,3,0,,,,,,
+57353281,2025-07-12 10:00,Jeonnam Dragons,Gyeongnam FC,1,0,,,,,,
+57353283,2025-07-12 10:00,Busan I Park,Seongnam Ilhwa,0,0,,,,,,
+57353285,2025-07-12 10:00,Suwon Bluewings,Chungbuk Cheongju FC,1,0,,,,,,
+57353287,2025-07-12 10:00,Cheonan City FC,Hwaseong FC,2,3,,,,,,
+57353289,2025-07-13 10:00,Incheon United FC,Chungnam Asan FC,2,1,,,,,,
+57353291,2025-07-13 10:00,Bucheon FC 1995,Gimpo FC,1,1,,,,,,
+57353293,2025-07-13 10:00,Ansan Greeners FC,Seoul E-Land FC,2,2,,,,,,
+57353339,2025-07-19 10:00,Jeonnam Dragons,Suwon Bluewings,3,4,,,,,,
+57353341,2025-07-19 10:00,Gimpo FC,Ansan Greeners FC,2,2,,,,,,
+57353343,2025-07-19 10:00,Seoul E-Land FC,Seongnam Ilhwa,0,1,,,,,,
+57353345,2025-07-19 10:00,Hwaseong FC,Busan I Park,1,0,,,,,,
+57353347,2025-07-20 10:00,Bucheon FC 1995,Chungnam Asan FC,5,3,,,,,,
+57353349,2025-07-20 10:00,Chungbuk Cheongju FC,Cheonan City FC,2,1,,,,,,
+57353351,2025-07-20 10:00,Gyeongnam FC,Incheon United FC,0,2,,,,,,
+57353353,2025-07-26 10:00,Busan I Park,Bucheon FC 1995,4,2,,,,,,
+57353355,2025-07-26 10:00,Cheonan City FC,Gyeongnam FC,4,0,,,,,,
+57353357,2025-07-26 10:00,Chungbuk Cheongju FC,Gimpo FC,0,3,,,,,,
+57353359,2025-07-26 10:00,Chungnam Asan FC,Hwaseong FC,1,1,,,,,,
+57353361,2025-07-27 10:00,Incheon United FC,Ansan Greeners FC,4,2,,,,,,
+57353363,2025-07-27 10:00,Suwon Bluewings,Seoul E-Land FC,0,2,,,,,,
+57353365,2025-07-27 10:00,Seongnam Ilhwa,Jeonnam Dragons,2,2,,,,,,
+57353367,2025-08-02 10:00,Bucheon FC 1995,Seongnam Ilhwa,2,3,,,,,,
+57353369,2025-08-02 10:00,Seoul E-Land FC,Incheon United FC,0,0,,,,,,
+57353371,2025-08-02 10:00,Jeonnam Dragons,Chungnam Asan FC,2,2,,,,,,
+57353373,2025-08-02 10:00,Hwaseong FC,Gimpo FC,0,1,,,,,,
+57353375,2025-08-02 10:00,Ansan Greeners FC,Chungbuk Cheongju FC,1,2,,,,,,
+57353377,2025-08-02 10:00,Gyeongnam FC,Busan I Park,1,0,,,,,,
+57353379,2025-08-02 10:00,Cheonan City FC,Suwon Bluewings,1,2,,,,,,
+57353381,2025-08-09 10:00,Chungnam Asan FC,Gyeongnam FC,2,2,,,,,,
+57353383,2025-08-09 10:00,Busan I Park,Incheon United FC,0,2,,,,,,
+57353385,2025-08-09 10:00,Suwon Bluewings,Ansan Greeners FC,3,1,,,,,,
+57353387,2025-08-09 11:00,Seongnam Ilhwa,Gimpo FC,0,0,,,,,,
+57353389,2025-08-10 10:00,Seoul E-Land FC,Hwaseong FC,0,0,,,,,,
+57353391,2025-08-10 10:00,Jeonnam Dragons,Cheonan City FC,3,4,,,,,,
+57353393,2025-08-10 10:30,Chungbuk Cheongju FC,Bucheon FC 1995,0,1,,,,,,
+57353395,2025-08-15 10:00,Jeonnam Dragons,Bucheon FC 1995,2,1,,,,,,
+57353397,2025-08-15 10:00,Ansan Greeners FC,Chungnam Asan FC,0,2,,,,,,
+57353401,2025-08-16 10:00,Gimpo FC,Suwon Bluewings,3,1,,,,,,
+57353403,2025-08-16 10:00,Chungbuk Cheongju FC,Hwaseong FC,1,1,,,,,,
+57353405,2025-08-16 10:30,Gyeongnam FC,Seoul E-Land FC,1,1,,,,,,
+57353399,2025-08-16 11:00,Incheon United FC,Seongnam Ilhwa,1,2,,,,,,
+57353407,2025-08-17 10:00,Cheonan City FC,Busan I Park,0,1,,,,,,
+57353409,2025-08-23 10:00,Jeonnam Dragons,Ansan Greeners FC,2,0,,,,,,
+57353413,2025-08-23 10:00,Seoul E-Land FC,Gimpo FC,1,1,,,,,,
+57353415,2025-08-23 10:00,Seongnam Ilhwa,Gyeongnam FC,2,1,,,,,,
+57353411,2025-08-23 10:30,Bucheon FC 1995,Cheonan City FC,0,0,,,,,,
+57353417,2025-08-24 10:00,Chungbuk Cheongju FC,Incheon United FC,0,4,,,,,,
+57353419,2025-08-24 10:00,Chungnam Asan FC,Busan I Park,0,1,,,,,,
+57353421,2025-08-24 10:00,Hwaseong FC,Suwon Bluewings,1,1,,,,,,
+57353423,2025-08-30 10:00,Incheon United FC,Chungnam Asan FC,1,1,,,,,,
+57353425,2025-08-30 10:00,Suwon Bluewings,Seongnam Ilhwa,2,2,,,,,,
+57353427,2025-08-30 10:00,Ansan Greeners FC,Hwaseong FC,0,1,,,,,,
+57353429,2025-08-30 10:00,Gimpo FC,Jeonnam Dragons,2,0,,,,,,
+57353433,2025-08-30 10:00,Busan I Park,Chungbuk Cheongju FC,2,2,,,,,,
+57353431,2025-08-31 10:00,Gyeongnam FC,Bucheon FC 1995,1,2,,,,,,
+57353435,2025-08-31 10:00,Cheonan City FC,Seoul E-Land FC,2,5,,,,,,
+57353437,2025-09-06 10:00,Busan I Park,Suwon Bluewings,1,0,,,,,,
+57353439,2025-09-06 10:00,Jeonnam Dragons,Seoul E-Land FC,1,2,,,,,,
+57353441,2025-09-06 10:00,Chungbuk Cheongju FC,Gyeongnam FC,0,1,,,,,,
+57353443,2025-09-06 10:00,Seongnam Ilhwa,Ansan Greeners FC,4,0,,,,,,
+57353445,2025-09-07 10:00,Gimpo FC,Cheonan City FC,1,3,,,,,,
+57353447,2025-09-07 10:00,Bucheon FC 1995,Incheon United FC,1,0,,,,,,
+57353449,2025-09-07 10:00,Hwaseong FC,Chungnam Asan FC,1,1,,,,,,
+57353451,2025-09-13 07:30,Chungnam Asan FC,Bucheon FC 1995,3,0,,,,,,
+57353453,2025-09-13 10:00,Gyeongnam FC,Gimpo FC,0,2,,,,,,
+57353455,2025-09-13 10:00,Seoul E-Land FC,Suwon Bluewings,0,1,,,,,,
+57353457,2025-09-13 10:00,Cheonan City FC,Incheon United FC,3,4,,,,,,
+57353459,2025-09-14 10:00,Jeonnam Dragons,Hwaseong FC,1,2,,,,,,
+57353461,2025-09-14 10:00,Chungbuk Cheongju FC,Seongnam Ilhwa,0,1,,,,,,
+57353463,2025-09-14 10:00,Ansan Greeners FC,Busan I Park,2,3,,,,,,
+57353465,2025-09-20 07:30,Suwon Bluewings,Gyeongnam FC,1,2,,,,,,
+57353467,2025-09-20 07:30,Bucheon FC 1995,Seoul E-Land FC,2,2,,,,,,
+57353469,2025-09-20 10:00,Incheon United FC,Gimpo FC,1,2,,,,,,
+57353471,2025-09-20 10:00,Seongnam Ilhwa,Chungnam Asan FC,3,0,,,,,,
+57353473,2025-09-21 07:30,Ansan Greeners FC,Chungbuk Cheongju FC,0,0,,,,,,
+57353475,2025-09-21 07:30,Cheonan City FC,Hwaseong FC,2,2,,,,,,
+57353477,2025-09-21 10:00,Busan I Park,Jeonnam Dragons,1,1,,,,,,
+57353479,2025-09-27 05:00,Jeonnam Dragons,Bucheon FC 1995,3,2,,,,,,
+57353481,2025-09-27 07:30,Chungnam Asan FC,Suwon Bluewings,1,3,,,,,,
+57353483,2025-09-27 10:00,Chungbuk Cheongju FC,Cheonan City FC,0,1,,,,,,
+57353485,2025-09-28 07:30,Gyeongnam FC,Ansan Greeners FC,1,0,,,,,,
+57353487,2025-09-28 07:30,Hwaseong FC,Busan I Park,1,1,,,,,,
+57353489,2025-09-28 10:00,Gimpo FC,Seongnam Ilhwa,0,0,,,,,,
+57353491,2025-09-28 10:00,Seoul E-Land FC,Incheon United FC,0,0,,,,,,
+57353493,2025-10-03 05:00,Seongnam Ilhwa,Seoul E-Land FC,0,2,,,,,,
+57353495,2025-10-04 05:00,Suwon Bluewings,Bucheon FC 1995,2,2,,,,,,
+57353497,2025-10-04 05:00,Gimpo FC,Ansan Greeners FC,1,1,,,,,,
+57353499,2025-10-04 07:30,Chungnam Asan FC,Chungbuk Cheongju FC,0,0,,,,,,
+57353501,2025-10-04 07:30,Hwaseong FC,Incheon United FC,0,1,,,,,,
+57353503,2025-10-05 05:00,Jeonnam Dragons,Cheonan City FC,4,1,,,,,,
+57353505,2025-10-05 07:30,Busan I Park,Gyeongnam FC,1,1,,,,,,
+57353507,2025-10-07 05:00,Seoul E-Land FC,Hwaseong FC,1,1,,,,,,
+57353509,2025-10-07 07:30,Chungbuk Cheongju FC,Gimpo FC,0,2,,,,,,
+57353511,2025-10-08 05:00,Incheon United FC,Suwon Bluewings,1,1,,,,,,
+57353513,2025-10-08 05:00,Cheonan City FC,Busan I Park,0,0,,,,,,
+57353515,2025-10-08 05:00,Gyeongnam FC,Jeonnam Dragons,2,3,,,,,,
+57353517,2025-10-08 07:30,Bucheon FC 1995,Seongnam Ilhwa,1,0,,,,,,
+57353519,2025-10-08 07:30,Ansan Greeners FC,Chungnam Asan FC,0,1,,,,,,
+57353521,2025-10-11 05:00,Gimpo FC,Seoul E-Land FC,0,1,,,,,,
+57353523,2025-10-11 07:30,Hwaseong FC,Chungbuk Cheongju FC,1,0,,,,,,
+57353525,2025-10-12 05:00,Suwon Bluewings,Cheonan City FC,5,0,,,,,,
+57353527,2025-10-12 05:00,Jeonnam Dragons,Ansan Greeners FC,0,1,,,,,,
+57353529,2025-10-12 05:00,Busan I Park,Bucheon FC 1995,1,2,,,,,,
+57353531,2025-10-12 07:30,Seongnam Ilhwa,Incheon United FC,2,2,,,,,,
+57353533,2025-10-12 07:30,Chungnam Asan FC,Gyeongnam FC,1,0,,,,,,
+57353535,2025-10-19 05:00,Ansan Greeners FC,Incheon United FC,0,1,,,,,,
+57353537,2025-10-19 05:00,Seoul E-Land FC,Busan I Park,3,0,,,,,,
+57353539,2025-10-19 05:00,Chungnam Asan FC,Gimpo FC,1,0,,,,,,
+57353541,2025-10-19 05:00,Gyeongnam FC,Seongnam Ilhwa,0,1,,,,,,
+57353543,2025-10-19 07:30,Chungbuk Cheongju FC,Jeonnam Dragons,0,3,,,,,,
+57353545,2025-10-19 07:30,Bucheon FC 1995,Cheonan City FC,2,1,,,,,,
+57353547,2025-10-19 07:30,Hwaseong FC,Suwon Bluewings,2,3,,,,,,
+57353549,2025-10-25 05:00,Suwon Bluewings,Jeonnam Dragons,2,2,,,,,,
+57353551,2025-10-25 05:00,Seongnam Ilhwa,Hwaseong FC,1,0,,,,,,
+57353553,2025-10-25 07:30,Cheonan City FC,Ansan Greeners FC,0,0,,,,,,
+57353555,2025-10-25 07:30,Busan I Park,Gimpo FC,4,1,,,,,,
+57353557,2025-10-25 07:30,Chungbuk Cheongju FC,Bucheon FC 1995,0,0,,,,,,
+57353559,2025-10-26 05:00,Incheon United FC,Gyeongnam FC,3,0,,,,,,
+57353561,2025-10-26 07:30,Seoul E-Land FC,Chungnam Asan FC,4,1,,,,,,
+57353563,2025-11-01 05:00,Gyeongnam FC,Seoul E-Land FC,0,0,,,,,,
+57353565,2025-11-01 05:00,Suwon Bluewings,Chungbuk Cheongju FC,2,0,,,,,,
+57353567,2025-11-01 07:30,Bucheon FC 1995,Ansan Greeners FC,2,0,,,,,,
+57353569,2025-11-01 07:30,Gimpo FC,Hwaseong FC,5,1,,,,,,
+57353571,2025-11-02 05:00,Incheon United FC,Busan I Park,0,0,,,,,,
+57353573,2025-11-02 05:00,Jeonnam Dragons,Seongnam Ilhwa,0,2,,,,,,
+57353575,2025-11-02 07:30,Chungnam Asan FC,Cheonan City FC,1,1,,,,,,
+57353577,2025-11-08 05:00,Jeonnam Dragons,Incheon United FC,2,1,,,,,,
+57353579,2025-11-08 05:00,Hwaseong FC,Gyeongnam FC,0,1,,,,,,
+57353581,2025-11-08 07:30,Busan I Park,Chungnam Asan FC,0,3,,,,,,
+57353583,2025-11-08 07:30,Cheonan City FC,Seongnam Ilhwa,1,3,,,,,,
+57353585,2025-11-09 05:00,Chungbuk Cheongju FC,Seoul E-Land FC,0,2,,,,,,
+57353587,2025-11-09 05:00,Ansan Greeners FC,Suwon Bluewings,1,1,,,,,,
+57353589,2025-11-09 07:30,Gimpo FC,Bucheon FC 1995,0,1,,,,,,
+57353591,2025-11-23 05:00,Chungnam Asan FC,Jeonnam Dragons,2,1,,,,,,
+57353593,2025-11-23 05:00,Incheon United FC,Chungbuk Cheongju FC,0,1,,,,,,
+57353595,2025-11-23 05:00,Suwon Bluewings,Gimpo FC,1,1,,,,,,
+57353597,2025-11-23 05:00,Bucheon FC 1995,Hwaseong FC,0,0,,,,,,
+57353599,2025-11-23 05:00,Seoul E-Land FC,Ansan Greeners FC,6,0,,,,,,
+57353601,2025-11-23 05:00,Gyeongnam FC,Cheonan City FC,2,0,,,,,,
+57353603,2025-11-23 05:00,Seongnam Ilhwa,Busan I Park,2,1,,,,,,
+68046332,2026-02-28 05:00,Gimhae FC,Ansan Greeners FC,1,4,,,,,,
+68046334,2026-02-28 07:30,Suwon Bluewings,Seoul E-Land FC,2,1,1.833,3.400,3.700,2.5,1.925,1.875
+68046338,2026-03-01 05:00,Daegu FC,Hwaseong FC,1,0,1.600,3.300,5.250,2.5,1.825,1.975
+68046340,2026-03-01 05:00,Chungbuk Cheongju FC,Suwon FC,1,4,3.250,3.000,2.100,2.25,1.925,1.875
+68046342,2026-03-01 07:30,Gyeongnam FC,Jeonnam Dragons,1,4,3.200,3.100,2.050,2.5,1.900,1.900
+68046344,2026-03-02 05:00,Chungnam Asan FC,Paju Citizen FC,3,2,,,,,,
+68046346,2026-03-02 07:30,Busan I Park,Seongnam Ilhwa,1,1,2.500,2.875,2.750,2,1.925,1.875
+68046348,2026-03-07 05:00,Seoul E-Land FC,Gyeongnam FC,1,0,1.650,3.400,5.250,2.5,1.975,1.825
+68046350,2026-03-07 05:00,Paju Citizen FC,Suwon Bluewings,0,1,,,,,,
+68046352,2026-03-07 07:30,Daegu FC,Jeonnam Dragons,4,2,1.850,3.400,3.600,2.5,1.800,2.000
+68046356,2026-03-08 05:00,Ansan Greeners FC,Busan I Park,1,3,3.900,3.000,2.000,2.25,2.025,1.775
+68046358,2026-03-08 05:00,Seongnam Ilhwa,Chungbuk Cheongju FC,2,2,1.727,3.250,4.750,2.25,2.025,1.775
+68046360,2026-03-08 07:30,Cheonan City FC,Gimpo FC,0,1,3.750,3.100,1.950,2.25,1.975,1.825
+68046362,2026-03-08 07:30,Hwaseong FC,Gimhae FC,2,0,2.100,3.100,3.100,2.25,2.000,1.800
+68046364,2026-03-14 05:00,Gimhae FC,Suwon FC,1,2,5.250,3.500,1.571,2.75,1.850,1.950
+68046366,2026-03-14 05:00,Seoul E-Land FC,Busan I Park,2,3,2.300,2.900,2.875,2.25,2.000,1.800
+68046368,2026-03-14 05:00,Suwon Bluewings,Jeonnam Dragons,2,0,1.800,3.400,3.700,2.75,1.850,1.950
+68046372,2026-03-14 07:30,Gyeongnam FC,Chungbuk Cheongju FC,2,2,2.450,2.900,2.700,2.25,1.975,1.825
+68046374,2026-03-15 05:00,Chungnam Asan FC,Daegu FC,2,3,2.900,3.300,2.150,2.5,1.900,1.900
+68046376,2026-03-15 05:00,Ansan Greeners FC,Paju Citizen FC,1,2,,,,,,
+68046378,2026-03-15 07:30,Hwaseong FC,Cheonan City FC,2,2,2.100,3.000,3.250,2.25,1.925,1.875
+68046380,2026-03-21 05:00,Seongnam Ilhwa,Chungnam Asan FC,2,1,2.200,3.200,3.100,2.25,1.900,1.900
+68046382,2026-03-21 05:00,Paju Citizen FC,Jeonnam Dragons,2,0,,,,,,
+68046384,2026-03-21 05:00,Gimhae FC,Suwon Bluewings,0,3,6.000,3.750,1.500,2.75,2.000,1.800
+68046386,2026-03-21 07:30,Cheonan City FC,Seoul E-Land FC,0,0,3.750,3.100,2.000,2.5,1.975,1.825
+68046388,2026-03-21 07:30,Chungbuk Cheongju FC,Ansan Greeners FC,1,1,2.200,3.100,3.200,2.25,1.975,1.825
+68046390,2026-03-22 05:00,Hwaseong FC,Yongin City FC,0,0,1.800,3.200,4.100,2.25,1.850,1.950
+68046392,2026-03-22 05:00,Busan I Park,Daegu FC,3,1,2.600,3.100,2.600,2.5,1.825,1.975
+68046394,2026-03-22 07:30,Gyeongnam FC,Gimpo FC,1,0,4.000,3.300,1.833,2.25,1.900,1.900
+68046396,2026-03-28 05:00,Yongin City FC,Suwon Bluewings,0,1,6.250,3.900,1.420,2.75,1.900,1.900
+68046398,2026-03-28 05:00,Chungnam Asan FC,Hwaseong FC,1,0,2.150,3.200,3.200,2.25,1.925,1.875
+68046400,2026-03-28 07:30,Seongnam Ilhwa,Gimpo FC,0,0,2.750,3.000,2.750,2,1.900,1.900
+68046402,2026-03-28 07:30,Cheonan City FC,Jeonnam Dragons,1,0,3.400,3.200,2.050,2.25,1.900,1.900
+68046404,2026-03-28 07:30,Ansan Greeners FC,Gyeongnam FC,1,1,3.250,3.300,2.150,2.25,1.800,2.000
+68046406,2026-03-29 05:00,Chungbuk Cheongju FC,Busan I Park,1,2,4.750,3.100,1.727,2.25,1.900,1.900
+68046408,2026-03-29 05:00,Suwon FC,Paju Citizen FC,2,1,,,,,,
+68046410,2026-03-29 07:30,Daegu FC,Seoul E-Land FC,1,3,2.150,3.250,3.000,2.5,1.900,1.900
+68046412,2026-04-04 05:00,Yongin City FC,Jeonnam Dragons,2,2,3.200,3.200,2.050,2.5,1.925,1.875
+68046414,2026-04-04 05:00,Seoul E-Land FC,Suwon FC,3,0,2.625,3.100,2.400,2.5,1.900,1.900
+68046416,2026-04-04 07:30,Hwaseong FC,Seongnam Ilhwa,1,3,3.000,2.750,2.400,2,1.750,2.050
+68046418,2026-04-04 07:30,Gyeongnam FC,Busan I Park,1,2,4.200,3.100,1.800,2.25,1.850,1.950
+68046420,2026-04-05 05:00,Daegu FC,Gimpo FC,3,3,2.150,3.100,3.100,2.25,1.875,1.925
+68046422,2026-04-05 05:00,Suwon Bluewings,Chungbuk Cheongju FC,0,0,1.380,4.000,7.000,2.75,1.975,1.825
+68046424,2026-04-05 07:30,Paju Citizen FC,Gimhae FC,3,1,,,,,,
+68046426,2026-04-05 07:30,Ansan Greeners FC,Chungnam Asan FC,1,3,4.000,3.300,1.750,2.5,1.900,1.900
+68046428,2026-04-11 05:00,Busan I Park,Yongin City FC,2,0,1.533,3.500,5.750,2.5,1.975,1.825
+68046430,2026-04-11 05:00,Suwon FC,Daegu FC,2,2,2.450,3.400,2.400,2.75,1.825,1.975
+68046432,2026-04-11 07:30,Paju Citizen FC,Seoul E-Land FC,1,3,,,,,,
+68046434,2026-04-11 07:30,Hwaseong FC,Jeonnam Dragons,1,0,2.600,3.000,2.500,2.25,1.950,1.850
+68046436,2026-04-12 05:00,Suwon Bluewings,Gimpo FC,0,1,1.900,3.100,3.800,2.25,1.850,1.950
+68046438,2026-04-12 05:00,Cheonan City FC,Chungbuk Cheongju FC,2,2,2.450,3.000,2.700,2.25,1.925,1.875
+68046440,2026-04-12 07:30,Seongnam Ilhwa,Ansan Greeners FC,0,1,1.533,3.400,6.000,2.25,1.900,1.900
+68046442,2026-04-12 07:30,Chungnam Asan FC,Gimhae FC,1,1,1.666,3.300,4.500,2.5,1.925,1.875
+68046444,2026-04-18 05:00,Busan I Park,Suwon FC,2,1,2.550,3.300,2.450,2.75,2.000,1.800
+68046446,2026-04-18 05:00,Gyeongnam FC,Suwon Bluewings,0,1,5.000,3.400,1.650,2.5,1.900,1.900
+68046448,2026-04-18 07:30,Daegu FC,Cheonan City FC,1,2,1.550,3.800,5.250,2.75,1.900,1.900
+68046450,2026-04-18 07:30,Chungbuk Cheongju FC,Gimhae FC,1,1,2.250,3.250,2.900,2.25,1.900,1.900
+68046452,2026-04-19 05:00,Ansan Greeners FC,Seoul E-Land FC,0,2,7.000,4.333,1.380,2.75,1.850,1.950
+68046454,2026-04-19 05:00,Seongnam Ilhwa,Paju Citizen FC,0,1,,,,,,
+68046456,2026-04-19 07:30,Hwaseong FC,Gimpo FC,2,2,3.900,2.900,2.050,2,1.950,1.850
+68046458,2026-04-19 07:30,Chungnam Asan FC,Jeonnam Dragons,2,2,2.050,3.400,3.200,2.5,1.925,1.875
+68046460,2026-04-25 05:00,Suwon Bluewings,Busan I Park,3,3,2.150,3.100,3.000,2.25,1.850,1.950
+68046462,2026-04-25 05:00,Paju Citizen FC,Gyeongnam FC,2,3,,,,,,
+68046464,2026-04-25 07:30,Cheonan City FC,Seongnam Ilhwa,1,1,3.600,3.000,2.000,2.25,1.800,2.000
+68046466,2026-04-25 07:30,Ansan Greeners FC,Jeonnam Dragons,2,1,4.500,3.400,1.650,2.25,2.025,1.775
+68046468,2026-04-26 05:00,Suwon FC,Gimpo FC,1,1,2.375,3.200,2.600,2.5,1.900,1.900
+68046470,2026-04-26 05:00,Seoul E-Land FC,Hwaseong FC,1,2,1.650,3.300,4.750,2.25,1.875,1.925
+68046472,2026-04-26 07:30,Chungbuk Cheongju FC,Chungnam Asan FC,0,0,3.400,3.100,2.050,2.25,1.825,1.975
+68046474,2026-04-26 07:30,Yongin City FC,Gimhae FC,4,1,2.100,3.100,3.100,2.25,1.875,1.925
+68046476,2026-05-03 05:00,Daegu FC,Gyeongnam FC,2,0,1.650,3.750,4.500,2.75,1.925,1.875
+68046478,2026-05-03 05:00,Hwaseong FC,Ansan Greeners FC,2,0,1.750,3.500,4.200,2.25,1.825,1.975
+68046480,2026-05-03 05:00,Seoul E-Land FC,Gimpo FC,2,1,2.300,3.100,3.000,2.25,1.975,1.825
+68046482,2026-05-03 07:30,Cheonan City FC,Chungnam Asan FC,1,0,3.000,3.400,2.150,2.5,1.875,1.925
+68046484,2026-05-03 07:30,Paju Citizen FC,Chungbuk Cheongju FC,0,0,,,,,,
+68046486,2026-05-03 07:30,Gimhae FC,Busan I Park,0,1,5.250,3.900,1.571,2.5,1.825,1.975
+68046488,2026-05-03 07:30,Yongin City FC,Seongnam Ilhwa,1,3,3.250,3.200,2.150,2.25,1.925,1.875
+68046490,2026-05-03 10:00,Suwon FC,Suwon Bluewings,3,1,3.250,3.600,2.000,2.75,1.950,1.850
+68046492,2026-05-09 05:00,Chungnam Asan FC,Seoul E-Land FC,3,0,3.000,3.200,2.150,2.5,1.950,1.850
+68046494,2026-05-09 05:00,Hwaseong FC,Suwon FC,1,1,3.200,3.100,2.100,2.25,1.800,2.000
+68046496,2026-05-09 07:30,Suwon Bluewings,Daegu FC,0,0,2.000,3.300,3.200,2.5,1.825,1.975
+68046498,2026-05-09 07:30,Chungbuk Cheongju FC,Gimpo FC,1,1,4.100,2.875,1.909,2,1.975,1.825
+68046500,2026-05-10 05:00,Seongnam Ilhwa,Jeonnam Dragons,0,0,2.100,3.100,3.200,2.25,1.900,1.900
+68046502,2026-05-10 07:30,Ansan Greeners FC,Yongin City FC,1,2,3.500,3.100,1.950,2.25,1.950,1.850
+68046504,2026-05-10 07:30,Busan I Park,Cheonan City FC,1,0,1.700,3.400,4.333,2.5,1.975,1.825
+68046506,2026-05-10 10:00,Gyeongnam FC,Gimhae FC,2,1,2.150,3.100,3.100,2.25,1.775,2.025
+68046508,2026-05-16 07:30,Seoul E-Land FC,Yongin City FC,2,2,1.600,3.600,4.750,2.5,1.800,2.000
+68046510,2026-05-16 07:30,Jeonnam Dragons,Chungbuk Cheongju FC,2,2,2.150,3.000,3.200,2.25,2.000,1.800
+68046512,2026-05-16 10:00,Cheonan City FC,Paju Citizen FC,0,0,,,,,,
+68046514,2026-05-16 10:00,Ansan Greeners FC,Gimpo FC,0,1,5.500,3.750,1.500,2.5,1.950,1.850
+68046516,2026-05-17 07:30,Seongnam Ilhwa,Gyeongnam FC,1,1,1.850,3.000,4.200,2,1.950,1.850
+68046518,2026-05-17 07:30,Gimhae FC,Daegu FC,1,4,4.500,3.900,1.571,2.75,1.875,1.925
+68046520,2026-05-17 07:30,Hwaseong FC,Busan I Park,3,2,3.250,3.100,2.100,2.25,1.975,1.825
+68046804,2026-05-17 10:00,Chungnam Asan FC,Suwon FC,1,3,,,,,,
+68046524,2026-05-23 07:30,Jeonnam Dragons,Gimhae FC,0,1,1.666,3.500,4.500,2.5,1.900,1.900
+68046528,2026-05-23 07:30,Gyeongnam FC,Suwon FC,3,2,3.400,3.400,2.000,2.5,1.800,2.000
+68046530,2026-05-23 10:00,Chungbuk Cheongju FC,Hwaseong FC,2,3,2.500,3.000,2.750,2,1.800,2.000
+68046532,2026-05-24 07:30,Yongin City FC,Chungnam Asan FC,0,0,2.700,3.250,2.400,2.5,1.950,1.850
+68046534,2026-05-24 10:00,Daegu FC,Ansan Greeners FC,3,0,1.333,4.750,7.000,2.75,1.800,2.000
+68046536,2026-05-24 10:00,Seoul E-Land FC,Seongnam Ilhwa,3,1,2.150,3.100,3.250,2.25,2.000,1.800
+68046538,2026-05-25 07:30,Suwon Bluewings,Cheonan City FC,3,2,1.800,3.400,4.100,2.5,2.000,1.800
+68046540,2026-05-25 07:30,Paju Citizen FC,Gimpo FC,0,1,,,,,,
+68046542,2026-05-30 07:30,Busan I Park,Paju Citizen FC,4,1,,,,,,
+68046544,2026-05-30 07:30,Chungnam Asan FC,Suwon Bluewings,2,1,4.200,3.500,1.666,2.5,1.950,1.850
+68046546,2026-05-30 07:30,Yongin City FC,Daegu FC,1,1,4.750,3.750,1.571,2.75,1.825,1.975
+68046548,2026-05-30 10:00,Gimhae FC,Gimpo FC,1,2,4.750,3.400,1.666,2.25,1.825,1.975
+68046550,2026-05-30 10:00,Suwon FC,Seongnam Ilhwa,0,1,2.100,3.300,2.900,2.5,1.825,1.975
+68046552,2026-05-31 07:30,Hwaseong FC,Gyeongnam FC,2,0,2.200,3.100,3.200,2.25,2.000,1.800
+68046554,2026-05-31 07:30,Jeonnam Dragons,Seoul E-Land FC,0,1,3.500,3.400,1.909,2.5,1.800,2.000
+68046556,2026-05-31 10:00,Ansan Greeners FC,Cheonan City FC,1,3,3.700,3.200,1.900,2.25,1.900,1.900
+68046558,2026-06-05 10:30,Daegu FC,Paju Citizen FC,1,0,,,,,,
+68046560,2026-06-05 10:30,Busan I Park,Chungnam Asan FC,2,2,1.666,3.600,4.750,2.5,1.900,1.900
+68046562,2026-06-05 10:30,Seongnam Ilhwa,Gimhae FC,1,1,1.833,3.300,4.000,2.25,1.850,1.950
+68046564,2026-06-06 10:30,Gyeongnam FC,Yongin City FC,2,2,2.700,3.200,2.400,2.5,2.000,1.800
+68046566,2026-06-06 10:30,Hwaseong FC,Suwon Bluewings,1,2,3.250,3.250,2.100,2.5,2.000,1.800
+68046568,2026-06-07 10:30,Cheonan City FC,Suwon FC,2,2,3.100,3.300,2.150,2.5,1.900,1.900
+68046570,2026-06-07 10:30,Seoul E-Land FC,Chungbuk Cheongju FC,1,2,1.450,4.200,6.000,3,2.000,1.800
+68046572,2026-06-07 10:30,Gimpo FC,Jeonnam Dragons,2,2,1.850,3.300,4.000,2.25,1.975,1.825
+68046574,2026-07-04 10:30,Cheongju,Daegu,1,5,4.333,3.500,1.666,2.5,1.850,1.950
+68046576,2026-07-04 10:30,Ansan Greeners,Suwon,1,3,4.500,3.800,1.600,3,2.000,1.800
+68046580,2026-07-04 10:30,Suwon Bluewings,Seongnam,1,0,1.750,3.400,4.000,2.25,1.875,1.925
+72011348,2026-07-04 10:30,Paju Frontier,Yongin FC,0,1,2.550,3.200,2.450,2.25,1.850,1.950
+68046582,2026-07-05 10:30,Gimhae,Seoul E-Land,1,3,4.750,4.000,1.500,2.75,1.850,1.950
+68046584,2026-07-05 10:30,Gimpo,Chungnam Asan,0,2,1.750,3.300,4.100,2.5,1.900,1.900
+68046586,2026-07-05 10:30,Gyeongnam,Cheonan City,2,1,2.250,3.300,2.625,2.5,1.850,1.950
+68046588,2026-07-05 10:30,Jeonnam,Busan,3,3,2.875,3.400,2.100,3,2.025,1.775
+68046590,2026-07-10 10:30,Suwon FC,Jeonnam Dragons,5,0,1.700,3.900,4.000,3,1.850,1.950
+68046592,2026-07-10 10:30,Cheonan City FC,Gimhae FC,0,1,1.727,3.600,4.100,2.5,1.950,1.850
+68046594,2026-07-11 10:30,Ansan Greeners FC,Suwon Bluewings,2,1,7.000,5.000,1.333,3,1.950,1.850
+68046596,2026-07-11 10:30,Daegu FC,Seongnam Ilhwa,3,2,1.700,3.600,4.333,2.5,1.950,1.850
+68046598,2026-07-11 10:30,Hwaseong FC,Paju Frontier FC,1,2,1.666,3.500,4.750,2.25,1.825,1.975
+72011350,2026-07-11 10:30,Yongin FC,Chungbuk Cheongju FC,1,1,2.200,3.100,3.000,2.25,1.825,1.975
+68046602,2026-07-12 10:30,Chungnam Asan FC,Gyeongnam FC,1,1,2.150,3.250,3.000,2.25,1.800,2.000
+68046604,2026-07-12 10:30,Busan IPark,Gimpo FC,2,0,2.250,3.000,3.000,2.25,1.825,1.975
+68046606,2026-07-18 10:30,Jeonnam Dragons,Chungnam Asan FC,1,0,2.550,3.200,2.450,2.5,1.825,1.975
+68046608,2026-07-18 10:30,Gimpo FC,Daegu FC,1,1,3.600,3.250,1.909,2.5,1.800,2.000
+68046610,2026-07-18 10:30,Suwon FC,Seoul E-Land FC,2,2,2.500,3.500,2.300,3,2.025,1.775
+68046612,2026-07-18 10:30,Seongnam Ilhwa,Busan IPark,1,0,2.900,3.100,2.200,2.25,1.850,1.950
+68046614,2026-07-19 10:30,Gyeongnam FC,Ansan Greeners FC,5,0,1.700,3.400,4.200,2.5,1.900,1.900
+68046616,2026-07-19 10:30,Suwon Bluewings,Paju Frontier FC,0,0,1.380,4.100,6.500,2.75,1.825,1.975
+68046618,2026-07-19 10:30,Chungbuk Cheongju FC,Cheonan City FC,1,0,2.200,3.200,2.900,2.5,1.875,1.925
+72011354,2026-07-19 10:30,Yongin FC,Hwaseong FC,0,3,2.750,3.100,2.350,2.25,1.775,2.025
+68046622,2026-07-24 10:30,Seoul E-Land FC,Cheonan City FC,4,3,1.480,4.100,5.250,3.25,2.000,1.800
+68046624,2026-07-24 10:30,Gimhae FC,Chungbuk Cheongju FC,1,1,3.100,3.000,2.200,2.25,1.950,1.850
+68046626,2026-07-25 10:30,Busan IPark,Suwon Bluewings,1,4,2.625,3.100,2.400,2.5,1.875,1.925
+68046628,2026-07-25 10:30,Daegu FC,Suwon FC,1,2,2.000,3.500,3.000,3.25,1.850,1.950
+68046630,2026-07-25 10:30,Jeonnam Dragons,Gyeongnam FC,1,1,2.450,3.200,2.550,2.5,2.000,1.800
+68046632,2026-07-25 10:30,Hwaseong FC,Chungnam Asan FC,3,2,2.250,3.100,2.900,2.25,1.900,1.900
+68046636,2026-07-26 10:30,Paju Frontier FC,Ansan Greeners FC,0,1,1.666,3.500,4.333,2.5,1.875,1.925
+72011356,2026-07-26 10:30,Gimpo FC,Yongin FC,1,1,1.800,3.200,4.000,2.25,1.875,1.925
+68046638,2026-08-01 10:30,Chungnam Asan FC,Seongnam Ilhwa,2,0,2.350,3.100,2.625,2.25,1.800,2.000
+68046642,2026-08-01 10:30,Chungbuk Cheongju FC,Suwon Bluewings,2,3,4.750,3.750,1.571,2.75,2.000,1.800
+68046644,2026-08-01 10:30,Hwaseong FC,Daegu FC,5,1,3.100,3.400,2.000,2.75,1.900,1.900
+72011358,2026-08-01 10:30,Cheonan City FC,Yongin FC,2,2,2.400,3.200,2.550,2.5,1.975,1.825
+68046646,2026-08-02 10:30,Busan IPark,Seoul E-Land FC,1,2,2.500,3.600,2.300,3,1.875,1.925
+68046648,2026-08-02 10:30,Gimpo FC,Gyeongnam FC,1,1,1.900,3.100,3.700,2.25,2.000,1.800
+68046650,2026-08-02 10:30,Jeonnam Dragons,Paju Frontier FC,1,2,2.100,3.100,3.100,2.5,1.900,1.900
+68046652,2026-08-02 10:30,Ansan Greeners FC,Gimhae FC,2,2,2.550,3.200,2.500,2.5,2.025,1.775
+68046654,2026-08-07 11:00,Chungnam Asan FC,Ansan Greeners FC,1,1,1.444,4.100,5.750,2.75,1.950,1.850
+68046656,2026-08-07 11:00,Gimpo FC,Chungbuk Cheongju FC,3,0,1.700,3.300,4.333,2.25,1.900,1.900
+68046658,2026-08-07 11:00,Gyeongnam FC,Daegu FC,0,1,3.300,3.600,1.900,3,1.975,1.825
+68046660,2026-08-07 11:00,Hwaseong FC,Seoul E-Land FC,0,0,2.500,3.300,2.350,3,2.025,1.775
+68046662,2026-08-07 11:00,Suwon Bluewings,Gimhae FC,1,0,1.300,4.333,9.000,2.75,1.850,1.950
+72011360,2026-08-07 11:00,Yongin FC,Busan IPark,2,0,,,,,,
+68046666,2026-08-08 11:00,Paju Frontier FC,Suwon FC,0,1,4.000,3.750,1.666,2.75,1.850,1.950
+68046668,2026-08-08 11:00,Seongnam Ilhwa,Cheonan City FC,3,2,2.150,3.100,3.300,2.25,1.900,1.900
+68046670,2026-08-15 10:30,Chungbuk Cheongju FC,Jeonnam Dragons,2,1,2.150,3.100,3.000,2.5,2.000,1.800
+68046672,2026-08-15 10:30,Gimhae FC,Gyeongnam FC,1,1,3.200,3.100,2.050,2.25,1.800,2.000
+68046674,2026-08-15 10:30,Suwon Bluewings,Suwon FC,2,2,1.900,3.500,3.300,2.75,1.875,1.925
+68046676,2026-08-15 10:30,Busan IPark,Hwaseong FC,0,0,2.250,3.200,2.875,2.75,2.000,1.800
+68046678,2026-08-16 10:30,Seoul E-Land FC,Ansan Greeners FC,3,1,1.333,4.750,7.000,3,1.900,1.900
+68046680,2026-08-16 10:30,Daegu FC,Chungnam Asan FC,2,0,1.850,3.500,3.600,2.75,1.800,2.000
+68046682,2026-08-16 10:30,Gimpo FC,Cheonan City FC,1,1,1.650,3.600,4.333,2.5,1.800,2.000
+68046684,2026-08-16 10:30,Paju Frontier FC,Seongnam Ilhwa,2,1,3.200,3.000,2.150,2,1.800,2.000
+68046686,2026-08-22 10:30,Daegu FC,Busan IPark,1,1,1.909,3.500,3.400,3,2.000,1.800
+68046688,2026-08-22 10:30,Suwon FC,Gimhae FC,2,0,1.444,4.000,5.750,3,1.950,1.850
+68046690,2026-08-22 10:30,Cheonan City FC,Suwon Bluewings,0,1,5.500,4.100,1.450,3,1.975,1.825
+68046692,2026-08-22 10:30,Ansan Greeners FC,Seongnam Ilhwa,1,2,4.333,3.400,1.700,2.5,1.975,1.825
+68046694,2026-08-23 10:30,Jeonnam Dragons,Hwaseong FC,1,0,3.500,3.500,1.850,2.5,1.800,2.000
+68046698,2026-08-23 10:30,Chungbuk Cheongju FC,Gyeongnam FC,1,1,2.400,3.200,2.500,2.5,2.025,1.775
+68046700,2026-08-23 10:30,Seoul E-Land FC,Paju Frontier FC,1,1,1.533,3.800,4.750,3,2.000,1.800
+72011362,2026-08-23 10:30,Chungnam Asan FC,Yongin FC,2,1,1.950,3.400,3.400,2.5,1.950,1.850
+68046702,2026-08-28 10:30,Ansan Greeners FC,Daegu FC,1,2,5.750,4.500,1.400,3.25,1.850,1.950
+68046704,2026-08-28 10:30,Jeonnam Dragons,Cheonan City FC,1,0,2.300,3.300,2.625,2.75,1.950,1.850
+68046706,2026-08-29 10:30,Gimpo FC,Suwon Bluewings,1,4,3.500,3.200,1.900,2.5,1.950,1.850
+68046708,2026-08-29 10:30,Gyeongnam FC,Paju Frontier FC,1,0,2.100,3.100,3.200,2.25,1.825,1.975
+68046710,2026-08-29 10:30,Hwaseong FC,Chungbuk Cheongju FC,2,1,1.850,3.200,3.600,2.5,1.850,1.950
+68046712,2026-08-29 10:30,Seongnam Ilhwa,Seoul E-Land FC,1,1,3.200,3.300,2.050,2.5,1.975,1.825
+68046716,2026-08-30 10:30,Suwon FC,Busan IPark,2,1,2.000,3.400,3.000,3,2.000,1.800
+72011066,2026-08-30 10:30,Gimhae FC,Yongin FC,0,3,2.875,3.100,2.250,2.25,1.800,2.000
+68046718,2026-09-04 10:30,Chungbuk Cheongju FC,Seoul E-Land FC,0,2,4.200,3.700,1.650,3,1.900,1.900
+68046720,2026-09-04 10:30,Paju Frontier FC,Daegu FC,0,0,4.750,3.900,1.533,3,2.025,1.775
+68046722,2026-09-05 10:00,Busan IPark,Ansan Greeners FC,0,1,1.420,4.200,5.750,3,1.975,1.825
+68046724,2026-09-05 10:00,Cheonan City FC,Hwaseong FC,1,1,3.100,3.250,2.050,2.5,1.900,1.900
+68046728,2026-09-05 10:00,Gimhae FC,Jeonnam Dragons,2,2,2.450,3.200,2.550,2.5,1.875,1.925
+72011068,2026-09-05 10:00,Yongin FC,Suwon FC,1,1,3.600,3.500,1.800,2.75,1.875,1.925
+68046730,2026-09-06 10:00,Suwon Bluewings,Chungnam Asan FC,2,0,1.550,3.750,4.750,2.75,1.950,1.850
+68046732,2026-09-06 10:00,Gimpo FC,Seongnam Ilhwa,1,2,2.250,3.000,2.875,2.25,1.975,1.825
+68046736,2026-09-12 07:30,Seoul E-Land FC,Suwon Bluewings,0,1,2.700,3.400,2.350,2.75,1.775,2.025
+72011070,2026-09-12 07:30,Daegu FC,Yongin FC,3,1,1.533,4.100,5.000,3,1.975,1.825
+68046738,2026-09-12 10:00,Ansan Greeners FC,Hwaseong FC,0,2,4.333,3.800,1.650,2.75,1.950,1.850
+68046740,2026-09-12 10:00,Chungnam Asan FC,Chungbuk Cheongju FC,0,1,2.050,3.250,3.300,2.5,1.900,1.900
+68046742,2026-09-13 07:30,Gyeongnam FC,Seongnam Ilhwa,1,0,2.750,3.200,2.400,2.25,1.825,1.975
+68046744,2026-09-13 07:30,Jeonnam Dragons,Gimpo FC,2,2,3.600,3.250,1.950,2.5,1.900,1.900
+68046746,2026-09-13 10:00,Busan IPark,Gimhae FC,2,0,1.650,3.800,4.500,2.75,1.950,1.850
+68046748,2026-09-13 10:00,Suwon FC,Cheonan City FC,1,1,1.615,3.800,4.333,3,1.925,1.875
+68046750,2026-09-19 07:30,Jeonnam Dragons,Suwon FC,0,3,3.800,3.600,1.727,3,1.900,1.900
+68046752,2026-09-19 07:30,Chungnam Asan FC,Cheonan City FC,3,1,2.050,3.250,3.000,2.5,1.800,2.000
+68046754,2026-09-19 10:00,Seoul E-Land FC,Daegu FC,2,1,2.200,3.400,2.750,3,1.900,1.900
+68046756,2026-09-19 10:00,Gimpo FC,Busan IPark,1,0,2.500,3.200,2.500,2.5,1.900,1.900
+68046758,2026-09-20 07:30,Ansan Greeners FC,Chungbuk Cheongju FC,2,3,3.200,3.400,1.950,2.5,1.975,1.825
+72011072,2026-09-20 07:30,Yongin FC,Gyeongnam FC,0,0,2.200,3.000,3.000,2.25,1.850,1.950
+68046762,2026-09-20 10:00,Gimhae FC,Paju Frontier FC,0,2,2.350,3.200,2.700,2.25,1.775,2.025
+68046764,2026-09-20 10:00,Seongnam Ilhwa,Hwaseong FC,2,2,2.700,3.100,2.350,2.25,1.850,1.950
+68046766,2026-10-09 05:00,Suwon FC,Hwaseong FC,1,0,1.833,3.500,3.500,3,1.950,1.850
+68046768,2026-10-09 07:30,Chungbuk Cheongju FC,Seongnam Ilhwa,3,1,2.550,3.000,2.500,2.5,2.025,1.775
+68046770,2026-10-09 07:30,Gimpo FC,Seoul E-Land FC,0,1,3.000,3.250,2.100,2.75,2.000,1.800
+68046774,2026-10-10 05:00,Paju Frontier FC,Busan IPark,1,1,3.300,3.250,1.950,2.5,1.950,1.850
+72011076,2026-10-10 05:00,Jeonnam Dragons,Yongin FC,2,1,2.500,3.100,2.500,2.5,1.875,1.925
+68046776,2026-10-10 07:30,Cheonan City FC,Gyeongnam FC,1,0,2.050,3.100,3.100,2.5,2.000,1.800
+68046778,2026-10-10 07:30,Gimhae FC,Chungnam Asan FC,1,1,3.300,3.300,1.909,2.5,1.925,1.875
+68046780,2026-10-11 05:00,Suwon Bluewings,Ansan Greeners FC,4,1,1.200,5.750,10.000,3.25,1.975,1.825
+68046782,2026-10-17 05:00,Daegu FC,Chungbuk Cheongju FC,3,1,1.533,3.900,4.750,3,2.025,1.775
+68046784,2026-10-17 05:00,Seongnam Ilhwa,Suwon FC,1,2,3.300,3.400,1.900,2.75,1.900,1.900
+68046788,2026-10-17 07:30,Gimpo FC,Paju Frontier FC,4,1,1.700,3.400,4.333,2.25,1.850,1.950
+68046790,2026-10-17 07:30,Gyeongnam FC,Chungnam Asan FC,0,0,2.875,3.000,2.250,2.5,2.025,1.775
+72011078,2026-10-17 07:30,Yongin FC,Ansan Greeners FC,0,4,1.700,3.500,4.100,2.5,1.875,1.925
+68046792,2026-10-18 05:00,Suwon Bluewings,Hwaseong FC,3,2,1.533,3.750,5.000,2.75,1.825,1.975
+68046794,2026-10-18 05:00,Seoul E-Land FC,Gimhae FC,6,2,1.300,4.500,7.500,2.75,1.800,2.000
+68046796,2026-10-18 07:30,Busan IPark,Jeonnam Dragons,2,1,1.800,3.500,3.700,2.75,1.975,1.825
+68046798,2026-10-24 05:00,Jeonnam Dragons,Daegu FC,2,4,4.333,3.800,1.600,3,1.800,2.000
+68046800,2026-10-24 07:30,Gimpo FC,Gimhae FC,1,2,1.615,3.600,4.500,2.5,1.900,1.900
+68046802,2026-10-25 05:00,Seongnam Ilhwa,Suwon Bluewings,0,2,4.750,3.600,1.600,2.75,1.975,1.825
+68046806,2026-10-25 05:00,Busan IPark,Gyeongnam FC,3,1,1.850,3.250,3.600,2.25,1.775,2.025
+71467884,2026-10-25 05:00,Suwon FC,Chungnam Asan FC,0,1,1.750,3.600,3.900,2.75,1.950,1.850
+68046808,2026-10-25 07:30,Cheonan City FC,Ansan Greeners FC,3,1,1.833,3.400,3.600,2.5,1.800,2.000
+68046812,2026-10-25 07:30,Paju Frontier FC,Hwaseong FC,1,1,4.333,3.500,1.650,2.5,1.900,1.900
+72011080,2026-10-25 07:30,Chungbuk Cheongju FC,Yongin FC,0,2,2.200,3.100,2.875,2.5,2.000,1.800
+68046814,2026-10-31 05:00,Gyeongnam FC,Hwaseong FC,1,0,3.300,3.250,2.050,2.5,1.950,1.850
+72011140,2026-10-31 05:00,Yongin FC,Seoul E-Land FC,4,2,5.250,3.900,1.533,2.75,1.925,1.875
+68046818,2026-10-31 07:30,Chungnam Asan FC,Gimpo FC,5,1,2.375,3.300,2.750,2.5,2.025,1.775
+68046820,2026-10-31 07:30,Daegu FC,Suwon Bluewings,2,2,2.550,3.500,2.450,3,1.875,1.925
+68046822,2026-11-01 05:00,Suwon FC,Ansan Greeners FC,1,0,1.270,5.250,9.500,3.25,1.925,1.875
+68046824,2026-11-01 05:00,Jeonnam Dragons,Seongnam Ilhwa,2,2,2.550,3.400,2.450,2.5,1.975,1.825
+68046826,2026-11-01 07:30,Chungbuk Cheongju FC,Paju Frontier FC,1,2,2.200,3.250,3.000,2.5,2.000,1.800
+68046828,2026-11-01 07:30,Gimhae FC,Cheonan City FC,3,3,2.700,3.300,2.375,2.5,1.900,1.900
+68046830,2026-11-07 05:00,Seongnam Ilhwa,Daegu FC,0,1,4.500,3.900,1.615,3,2.025,1.775
+68046832,2026-11-07 05:00,Suwon FC,Gyeongnam FC,3,0,1.480,3.900,6.250,2.75,1.875,1.925
+68046834,2026-11-07 07:30,Gimpo FC,Ansan Greeners FC,2,2,1.700,3.700,4.333,2.5,1.800,2.000
+68046836,2026-11-07 07:30,Gimhae FC,Hwaseong FC,0,1,3.900,3.700,1.750,2.75,2.000,1.800
+68046838,2026-11-07 07:30,Seoul E-Land FC,Jeonnam Dragons,3,2,1.444,4.200,6.000,3.25,1.975,1.825
+68046842,2026-11-08 05:00,Cheonan City FC,Busan IPark,1,0,3.200,3.400,2.050,2.75,2.000,1.800
+72011142,2026-11-08 05:00,Suwon Bluewings,Yongin FC,2,0,1.300,5.000,7.500,3,1.925,1.875
+68046844,2026-11-08 07:30,Paju Frontier FC,Chungnam Asan FC,1,1,4.750,3.500,1.666,2.5,1.850,1.950

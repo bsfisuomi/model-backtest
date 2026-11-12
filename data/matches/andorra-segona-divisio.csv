@@ -1,22 +1,22 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-73545464,2026-09-12 18:30,FS La Massana,City Escaldes FC,4,0,,,
-73545466,2026-09-13 10:00,CF Atletic America,UE Sant Julia,1,2,,,
-73545468,2026-09-13 10:00,UE Santa Coloma,Pirineus United FC,1,4,,,
-73545470,2026-09-20 10:00,City Escaldes FC,UE Santa Coloma,2,1,,,
-73545472,2026-09-20 16:00,UE Sant Julia,FS La Massana,0,3,,,
-73545474,2026-09-20 19:00,FC Santa Coloma B,CF Atletic America,3,3,,,
-73545478,2026-09-26 18:30,UE Santa Coloma,UE Sant Julia,1,2,,,
-73545476,2026-09-27 10:00,Pirineus United FC,City Escaldes FC,2,1,,,
-73545480,2026-09-27 10:00,FS La Massana,FC Santa Coloma B,9,0,,,
-73545486,2026-10-10 18:30,UE Sant Julia,Pirineus United FC,1,0,3.400,3.800,1.800
-73545482,2026-10-11 10:00,FC Santa Coloma B,UE Santa Coloma,1,3,,,
-73545484,2026-10-11 10:00,CF Atletic America,FS La Massana,1,2,,,
-73545492,2026-10-17 18:30,UE Santa Coloma,CF Atletic America,5,1,,,
-73545490,2026-10-18 10:00,City Escaldes FC,UE Sant Julia,1,1,2.900,4.100,1.850
-73545488,2026-10-18 13:00,Pirineus United FC,FC Santa Coloma B,7,2,,,
-73545494,2026-10-24 18:30,FC Santa Coloma B,City Escaldes FC,4,4,,,
-73545496,2026-10-25 11:00,CF Atletic America,Pirineus United FC,0,2,9.000,6.250,1.200
-73545498,2026-10-25 11:00,FS La Massana,UE Santa Coloma,3,0,,,
-73545504,2026-11-07 19:30,Pirineus United FC,FS La Massana,1,0,,,
-73545500,2026-11-08 11:00,UE Sant Julia,FC Santa Coloma B,4,0,1.250,6.000,7.500
-73545502,2026-11-08 14:00,City Escaldes FC,CF Atletic America,2,1,1.533,4.333,4.333
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+73545464,2026-09-12 18:30,FS La Massana,City Escaldes FC,4,0,,,,,,
+73545466,2026-09-13 10:00,CF Atletic America,UE Sant Julia,1,2,,,,,,
+73545468,2026-09-13 10:00,UE Santa Coloma,Pirineus United FC,1,4,,,,,,
+73545470,2026-09-20 10:00,City Escaldes FC,UE Santa Coloma,2,1,,,,,,
+73545472,2026-09-20 16:00,UE Sant Julia,FS La Massana,0,3,,,,,,
+73545474,2026-09-20 19:00,FC Santa Coloma B,CF Atletic America,3,3,,,,,,
+73545478,2026-09-26 18:30,UE Santa Coloma,UE Sant Julia,1,2,,,,,,
+73545476,2026-09-27 10:00,Pirineus United FC,City Escaldes FC,2,1,,,,,,
+73545480,2026-09-27 10:00,FS La Massana,FC Santa Coloma B,9,0,,,,,,
+73545486,2026-10-10 18:30,UE Sant Julia,Pirineus United FC,1,0,3.400,3.800,1.800,3.5,1.950,1.850
+73545482,2026-10-11 10:00,FC Santa Coloma B,UE Santa Coloma,1,3,,,,,,
+73545484,2026-10-11 10:00,CF Atletic America,FS La Massana,1,2,,,,,,
+73545492,2026-10-17 18:30,UE Santa Coloma,CF Atletic America,5,1,,,,,,
+73545490,2026-10-18 10:00,City Escaldes FC,UE Sant Julia,1,1,2.900,4.100,1.850,3.5,1.850,1.950
+73545488,2026-10-18 13:00,Pirineus United FC,FC Santa Coloma B,7,2,,,,,,
+73545494,2026-10-24 18:30,FC Santa Coloma B,City Escaldes FC,4,4,,,,,,
+73545496,2026-10-25 11:00,CF Atletic America,Pirineus United FC,0,2,9.000,6.250,1.200,3.75,1.900,1.900
+73545498,2026-10-25 11:00,FS La Massana,UE Santa Coloma,3,0,,,,,,
+73545504,2026-11-07 19:30,Pirineus United FC,FS La Massana,1,0,,,,,,
+73545500,2026-11-08 11:00,UE Sant Julia,FC Santa Coloma B,4,0,1.250,6.000,7.500,4.5,1.900,1.900
+73545502,2026-11-08 14:00,City Escaldes FC,CF Atletic America,2,1,1.533,4.333,4.333,,,

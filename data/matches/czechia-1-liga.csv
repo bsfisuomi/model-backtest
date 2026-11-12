@@ -1,402 +1,402 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-60000989,2025-05-24 14:00,Slavia Prague,FC Banik Ostrava,3,0,,,
-60000991,2025-05-24 14:00,FC Viktoria Plzen,FK Jablonec,4,1,,,
-60000993,2025-05-24 14:00,Sparta Prague,SK Sigma Olomouc,1,1,,,
-60495811,2025-05-25 11:30,FC Hradec Kralove,Bohemians Prague 1905,2,0,,,
-60001149,2025-05-25 14:00,FK Mlada Boleslav,1. FC Slovacko Uherske Hradiste,2,2,,,
-60001151,2025-05-25 14:00,FK Teplice,FK Pardubice,3,0,,,
-60001155,2025-05-25 14:00,Dukla Prague,SK Dynamo Ceske Budejovice,2,1,,,
-60810137,2025-05-28 16:00,MFk Vyskov,Dukla Prague,0,0,,,
-60810139,2025-05-28 16:00,FK Pardubice,MFK Chrudim,2,0,,,
-60810141,2025-06-01 13:00,MFK Chrudim,FK Pardubice,1,0,,,
-60810145,2025-06-01 13:00,Dukla Prague,MFk Vyskov,5,3,,,
-61324233,2025-07-18 17:00,FK Pardubice,FC Viktoria Plzen,1,5,,,
-61324221,2025-07-19 15:00,Bohemians Prague 1905,FC Banik Ostrava,1,0,,,
-61324225,2025-07-19 15:00,FK Teplice,FC Zlin,1,3,,,
-61324231,2025-07-19 15:00,MFK Karvina,Dukla Prague,2,0,,,
-61324227,2025-07-19 18:00,FK Jablonec,Sparta Prague,1,1,,,
-61324229,2025-07-20 13:00,1. FC Slovacko Uherske Hradiste,SK Sigma Olomouc,0,1,,,
-61324235,2025-07-20 15:00,FK Mlada Boleslav,FC Slovan Liberec,3,3,,,
-61324223,2025-07-20 18:00,Slavia Prague,FC Hradec Kralove,2,2,,,
-61324237,2025-07-26 15:00,SK Sigma Olomouc,Dukla Prague,0,0,,,
-61324243,2025-07-26 15:00,FC Zlin,1. FC Slovacko Uherske Hradiste,1,1,,,
-61324247,2025-07-26 15:00,FC Viktoria Plzen,FK Jablonec,1,1,,,
-61324249,2025-07-26 15:00,FC Hradec Kralove,MFK Karvina,1,2,,,
-61324253,2025-07-26 18:00,Bohemians Prague 1905,Slavia Prague,0,2,,,
-61324239,2025-07-27 13:00,FC Slovan Liberec,FK Pardubice,2,1,,,
-61324241,2025-07-27 18:00,Sparta Prague,FK Mlada Boleslav,3,2,,,
-61324259,2025-08-02 15:00,FK Teplice,Bohemians Prague 1905,3,0,,,
-61324261,2025-08-02 15:00,FK Jablonec,FC Hradec Kralove,2,0,,,
-61324265,2025-08-02 15:00,MFK Karvina,FC Zlin,0,1,,,
-61324257,2025-08-02 18:00,SK Sigma Olomouc,FC Slovan Liberec,2,1,,,
-61324263,2025-08-03 13:00,1. FC Slovacko Uherske Hradiste,Slavia Prague,0,1,,,
-61324255,2025-08-03 15:30,Dukla Prague,FC Banik Ostrava,1,1,,,
-61324267,2025-08-03 18:00,FK Pardubice,Sparta Prague,1,3,,,
-61324271,2025-08-09 15:00,FC Slovan Liberec,Dukla Prague,2,0,,,
-61324275,2025-08-09 15:00,FC Zlin,FK Mlada Boleslav,3,2,,,
-61324277,2025-08-09 15:00,FC Viktoria Plzen,1. FC Slovacko Uherske Hradiste,1,1,,,
-61324285,2025-08-09 18:00,Slavia Prague,FK Teplice,3,0,,,
-61324279,2025-08-10 13:00,FC Hradec Kralove,FK Pardubice,1,1,,,
-61324283,2025-08-10 13:00,Bohemians Prague 1905,FK Jablonec,0,1,,,
-61324281,2025-08-10 15:30,FC Banik Ostrava,MFK Karvina,1,2,,,
-61324273,2025-08-10 18:00,Sparta Prague,SK Sigma Olomouc,1,0,,,
-61324287,2025-08-16 15:00,Dukla Prague,FC Viktoria Plzen,2,0,,,
-61324289,2025-08-16 15:00,SK Sigma Olomouc,FC Zlin,1,0,,,
-61324295,2025-08-16 15:00,1. FC Slovacko Uherske Hradiste,FK Teplice,2,1,,,
-61324301,2025-08-16 15:00,FK Mlada Boleslav,FC Hradec Kralove,3,2,,,
-61324293,2025-08-16 18:00,FK Jablonec,Slavia Prague,1,1,,,
-61324297,2025-08-17 13:00,MFK Karvina,Bohemians Prague 1905,1,2,,,
-61324291,2025-08-17 18:00,FC Slovan Liberec,Sparta Prague,0,2,,,
-63003791,2025-08-19 16:00,FK Mlada Boleslav,FC Viktoria Plzen,0,5,,,
-61324305,2025-08-23 15:00,FC Zlin,FC Slovan Liberec,1,0,,,
-61324307,2025-08-23 15:00,FC Viktoria Plzen,MFK Karvina,2,1,,,
-61324317,2025-08-23 15:00,FK Teplice,FK Jablonec,0,1,,,
-61324315,2025-08-23 18:00,Slavia Prague,FK Pardubice,3,1,,,
-61324309,2025-08-24 13:00,FC Hradec Kralove,SK Sigma Olomouc,1,0,,,
-61324311,2025-08-24 15:30,FC Banik Ostrava,1. FC Slovacko Uherske Hradiste,2,0,,,
-61324303,2025-08-24 18:00,Sparta Prague,Dukla Prague,3,2,,,
-61324319,2025-08-30 15:00,Dukla Prague,FC Hradec Kralove,1,1,,,
-61324327,2025-08-30 15:00,1. FC Slovacko Uherske Hradiste,FK Jablonec,0,2,,,
-61324329,2025-08-30 15:00,MFK Karvina,FK Teplice,4,1,,,
-61324331,2025-08-30 15:00,FK Pardubice,Bohemians Prague 1905,1,1,,,
-61324333,2025-08-30 18:00,FK Mlada Boleslav,Slavia Prague,1,3,,,
-61324323,2025-08-31 13:00,FC Slovan Liberec,FC Viktoria Plzen,1,1,,,
-61324321,2025-08-31 15:30,SK Sigma Olomouc,FC Banik Ostrava,1,0,,,
-61324325,2025-08-31 18:00,Sparta Prague,FC Zlin,3,1,,,
-61324335,2025-09-13 13:00,FC Zlin,Dukla Prague,1,1,,,
-61324337,2025-09-13 13:00,FC Viktoria Plzen,SK Sigma Olomouc,1,0,,,
-61324341,2025-09-13 13:00,FC Banik Ostrava,FC Slovan Liberec,0,2,,,
-61324347,2025-09-13 13:00,FK Teplice,FK Mlada Boleslav,2,3,,,
-61324345,2025-09-13 16:00,Slavia Prague,MFK Karvina,3,1,,,
-61324349,2025-09-14 11:00,FK Jablonec,FK Pardubice,3,2,,,
-61324343,2025-09-14 13:30,Bohemians Prague 1905,1. FC Slovacko Uherske Hradiste,1,0,,,
-61324339,2025-09-14 16:00,FC Hradec Kralove,Sparta Prague,2,1,,,
-61324353,2025-09-20 13:00,FC Zlin,FC Hradec Kralove,1,2,,,
-61324361,2025-09-20 13:00,SK Sigma Olomouc,FK Teplice,0,0,,,
-61324363,2025-09-20 13:00,MFK Karvina,FK Jablonec,1,2,,,
-61324365,2025-09-20 13:00,FK Pardubice,1. FC Slovacko Uherske Hradiste,1,1,,,
-61324351,2025-09-20 16:00,Sparta Prague,FC Viktoria Plzen,2,1,,,
-61324357,2025-09-21 11:00,Dukla Prague,Bohemians Prague 1905,0,2,,,
-61324359,2025-09-21 13:30,FC Slovan Liberec,Slavia Prague,1,1,,,
-61324355,2025-09-21 16:30,FK Mlada Boleslav,FC Banik Ostrava,1,1,,,
-61324367,2025-09-26 17:00,Slavia Prague,Dukla Prague,2,0,,,
-61324369,2025-09-27 13:00,Bohemians Prague 1905,SK Sigma Olomouc,2,2,,,
-61324373,2025-09-27 13:00,FC Banik Ostrava,Sparta Prague,0,3,,,
-61324377,2025-09-27 13:00,1. FC Slovacko Uherske Hradiste,MFK Karvina,1,2,,,
-61324371,2025-09-27 16:00,FC Hradec Kralove,FC Slovan Liberec,2,3,,,
-61324379,2025-09-28 11:00,FK Teplice,FK Pardubice,0,0,,,
-61324381,2025-09-28 13:30,FK Jablonec,FK Mlada Boleslav,2,0,,,
-61324375,2025-09-28 16:30,FC Viktoria Plzen,FC Zlin,0,1,,,
-64004337,2025-10-01 16:00,FK Pardubice,FC Banik Ostrava,0,1,,,
-61324383,2025-10-04 13:00,Dukla Prague,FK Teplice,1,3,,,
-61324395,2025-10-04 13:00,FK Pardubice,MFK Karvina,2,1,,,
-61324397,2025-10-04 13:00,FK Mlada Boleslav,1. FC Slovacko Uherske Hradiste,0,0,,,
-61324387,2025-10-04 16:00,FC Slovan Liberec,Bohemians Prague 1905,0,0,,,
-61324391,2025-10-05 11:00,FC Zlin,FC Banik Ostrava,1,1,,,
-61324385,2025-10-05 13:30,SK Sigma Olomouc,FK Jablonec,2,0,,,
-61324393,2025-10-05 13:30,FC Viktoria Plzen,FC Hradec Kralove,3,3,,,
-61324389,2025-10-05 16:30,Sparta Prague,Slavia Prague,1,1,,,
-61324401,2025-10-18 13:00,Bohemians Prague 1905,FC Viktoria Plzen,0,1,,,
-61324405,2025-10-18 13:00,FK Teplice,FC Slovan Liberec,1,1,,,
-61324411,2025-10-18 13:00,MFK Karvina,SK Sigma Olomouc,1,1,,,
-61324413,2025-10-18 13:00,FK Pardubice,FK Mlada Boleslav,2,1,,,
-61324403,2025-10-18 16:00,Slavia Prague,FC Zlin,0,0,,,
-61324399,2025-10-19 11:00,FC Banik Ostrava,FC Hradec Kralove,0,1,,,
-61324409,2025-10-19 13:30,1. FC Slovacko Uherske Hradiste,Sparta Prague,0,0,,,
-61324407,2025-10-19 16:30,FK Jablonec,Dukla Prague,0,0,,,
-64453887,2025-10-22 16:30,Bohemians Prague 1905,FK Mlada Boleslav,1,1,,,
-61324415,2025-10-25 13:00,Dukla Prague,1. FC Slovacko Uherske Hradiste,1,0,,,
-61324459,2025-10-25 13:00,FC Zlin,FK Pardubice,2,2,,,
-61324463,2025-10-25 13:00,FC Hradec Kralove,FK Teplice,0,0,,,
-61324465,2025-10-25 13:00,FK Mlada Boleslav,MFK Karvina,2,4,,,
-61324455,2025-10-25 16:00,FC Slovan Liberec,FK Jablonec,0,2,,,
-61324445,2025-10-26 12:00,SK Sigma Olomouc,Slavia Prague,0,0,,,
-61324461,2025-10-26 17:30,FC Viktoria Plzen,FC Banik Ostrava,2,0,,,
-64852642,2025-10-28 16:00,Sparta Prague,Bohemians Prague 1905,2,1,,,
-61324467,2025-11-01 14:00,FK Pardubice,Dukla Prague,1,1,,,
-61324471,2025-11-01 14:00,1. FC Slovacko Uherske Hradiste,FC Slovan Liberec,0,3,,,
-61324475,2025-11-01 14:00,FK Jablonec,FC Zlin,1,3,,,
-61324481,2025-11-01 17:00,Slavia Prague,FC Banik Ostrava,2,0,,,
-61324469,2025-11-02 12:00,FK Mlada Boleslav,SK Sigma Olomouc,1,4,,,
-61324473,2025-11-02 14:30,MFK Karvina,Sparta Prague,2,1,,,
-61324479,2025-11-02 14:30,Bohemians Prague 1905,FC Hradec Kralove,1,2,,,
-61324477,2025-11-02 17:30,FK Teplice,FC Viktoria Plzen,1,2,,,
-61324487,2025-11-08 14:00,FC Zlin,Bohemians Prague 1905,0,1,,,
-61324491,2025-11-08 14:00,FC Hradec Kralove,1. FC Slovacko Uherske Hradiste,4,0,,,
-61324497,2025-11-08 14:00,Dukla Prague,FK Mlada Boleslav,0,1,,,
-61324483,2025-11-08 17:00,FC Banik Ostrava,FK Jablonec,0,1,,,
-61324493,2025-11-09 12:00,FC Slovan Liberec,MFK Karvina,6,0,,,
-61324489,2025-11-09 14:30,Sparta Prague,FK Teplice,2,2,,,
-61324495,2025-11-09 14:30,SK Sigma Olomouc,FK Pardubice,2,0,,,
-61324485,2025-11-09 17:30,FC Viktoria Plzen,Slavia Prague,3,5,,,
-61324499,2025-11-22 14:00,Dukla Prague,SK Sigma Olomouc,2,2,,,
-61324501,2025-11-22 14:00,FK Pardubice,FC Slovan Liberec,0,4,,,
-61324503,2025-11-22 14:00,FK Mlada Boleslav,Sparta Prague,1,2,,,
-61324511,2025-11-22 14:00,FK Teplice,FC Banik Ostrava,1,0,,,
-61324513,2025-11-22 17:00,Slavia Prague,Bohemians Prague 1905,3,1,,,
-61324509,2025-11-23 12:00,MFK Karvina,FC Hradec Kralove,4,3,,,
-61324507,2025-11-23 14:30,FK Jablonec,FC Viktoria Plzen,3,3,,,
-61324505,2025-11-23 17:30,1. FC Slovacko Uherske Hradiste,FC Zlin,2,0,,,
-61324515,2025-11-29 14:00,FC Banik Ostrava,Dukla Prague,3,1,,,
-61324521,2025-11-29 14:00,FC Hradec Kralove,FK Jablonec,2,0,,,
-61324525,2025-11-29 14:00,FC Zlin,MFK Karvina,1,3,,,
-61324523,2025-11-29 17:00,Slavia Prague,1. FC Slovacko Uherske Hradiste,3,0,,,
-61324519,2025-11-30 12:00,Bohemians Prague 1905,FK Teplice,0,1,,,
-61324517,2025-11-30 14:30,FC Slovan Liberec,SK Sigma Olomouc,1,0,,,
-61324529,2025-11-30 14:30,FC Viktoria Plzen,FK Mlada Boleslav,2,1,,,
-61324527,2025-11-30 17:30,Sparta Prague,FK Pardubice,2,4,,,
-61324545,2025-12-05 17:00,FK Teplice,Slavia Prague,1,2,,,
-61324531,2025-12-06 14:00,Dukla Prague,FC Slovan Liberec,1,1,,,
-61324535,2025-12-06 14:00,FK Mlada Boleslav,FC Zlin,3,1,,,
-61324537,2025-12-06 14:00,1. FC Slovacko Uherske Hradiste,FC Viktoria Plzen,3,0,,,
-61324533,2025-12-06 17:00,SK Sigma Olomouc,Sparta Prague,0,1,,,
-61324543,2025-12-07 12:00,FK Jablonec,Bohemians Prague 1905,1,0,,,
-61324541,2025-12-07 14:30,MFK Karvina,FC Banik Ostrava,0,0,,,
-61324539,2025-12-07 17:30,FK Pardubice,FC Hradec Kralove,1,0,,,
-61324555,2025-12-13 14:00,FK Teplice,1. FC Slovacko Uherske Hradiste,1,0,2.200,2.875,3.400
-61324559,2025-12-13 14:00,FC Banik Ostrava,FK Pardubice,1,4,1.727,3.400,4.500
-61324561,2025-12-13 14:00,FC Hradec Kralove,FK Mlada Boleslav,1,1,1.750,3.700,4.000
-61324553,2025-12-13 17:00,Slavia Prague,FK Jablonec,4,3,1.300,4.750,9.500
-61324557,2025-12-14 12:00,Bohemians Prague 1905,MFK Karvina,0,3,2.050,3.400,3.200
-61324547,2025-12-14 14:30,FC Viktoria Plzen,Dukla Prague,2,0,1.300,4.750,9.500
-61324549,2025-12-14 14:30,FC Zlin,SK Sigma Olomouc,5,0,3.000,3.000,2.375
-61324551,2025-12-14 17:30,Sparta Prague,FC Slovan Liberec,2,2,1.650,3.500,4.750
-61324569,2026-01-31 14:00,SK Sigma Olomouc,FC Hradec Kralove,1,0,2.050,3.300,3.600
-61324573,2026-01-31 14:00,FK Mlada Boleslav,Bohemians Prague 1905,2,2,2.800,3.200,2.550
-61324577,2026-01-31 14:00,FK Jablonec,FK Teplice,1,0,1.727,3.500,4.750
-61324563,2026-01-31 17:00,Dukla Prague,Sparta Prague,0,3,7.000,4.100,1.450
-61324571,2026-02-01 12:00,1. FC Slovacko Uherske Hradiste,FC Banik Ostrava,2,2,3.400,3.250,2.100
-61324565,2026-02-01 14:30,FC Slovan Liberec,FC Zlin,2,0,1.800,3.600,4.100
-61324567,2026-02-01 14:30,MFK Karvina,FC Viktoria Plzen,0,2,3.750,3.600,1.900
-61324575,2026-02-01 17:30,FK Pardubice,Slavia Prague,1,1,7.000,4.750,1.400
-61324581,2026-02-07 14:00,FC Banik Ostrava,SK Sigma Olomouc,2,0,2.450,3.100,2.625
-61324587,2026-02-07 14:00,FK Jablonec,1. FC Slovacko Uherske Hradiste,0,0,1.727,3.400,4.333
-61324589,2026-02-07 14:00,FK Teplice,MFK Karvina,2,0,2.625,3.200,2.550
-61324593,2026-02-07 17:00,Slavia Prague,FK Mlada Boleslav,4,0,1.200,6.000,12.000
-61324579,2026-02-08 12:00,FC Hradec Kralove,Dukla Prague,3,0,1.550,3.700,5.750
-61324585,2026-02-08 14:30,FC Zlin,Sparta Prague,0,3,6.000,3.700,1.533
-61324591,2026-02-08 14:30,Bohemians Prague 1905,FK Pardubice,1,2,2.150,3.300,3.100
-61324583,2026-02-08 17:30,FC Viktoria Plzen,FC Slovan Liberec,3,1,1.750,3.500,4.500
-61324595,2026-02-14 14:00,Dukla Prague,FC Zlin,0,0,2.700,2.900,2.700
-61324603,2026-02-14 14:00,1. FC Slovacko Uherske Hradiste,Bohemians Prague 1905,1,2,2.250,3.100,3.000
-61324605,2026-02-14 14:00,MFK Karvina,Slavia Prague,1,3,5.500,4.100,1.480
-61324597,2026-02-14 17:00,SK Sigma Olomouc,FC Viktoria Plzen,1,2,3.100,3.100,2.200
-61324609,2026-02-15 12:00,FK Pardubice,FK Jablonec,0,2,2.375,3.250,2.800
-61324601,2026-02-15 14:30,FC Slovan Liberec,FC Banik Ostrava,1,0,1.950,3.300,3.500
-61324607,2026-02-15 14:30,FK Mlada Boleslav,FK Teplice,0,0,2.150,3.100,3.200
-61324599,2026-02-15 17:30,Sparta Prague,FC Hradec Kralove,2,0,1.333,4.333,8.500
-61324613,2026-02-21 14:00,FC Hradec Kralove,FC Zlin,0,0,1.800,3.250,4.200
-61324623,2026-02-21 14:00,FK Jablonec,MFK Karvina,1,0,1.900,3.400,3.700
-61324625,2026-02-21 14:00,1. FC Slovacko Uherske Hradiste,FK Pardubice,2,0,2.450,3.100,2.700
-61324619,2026-02-21 17:00,Slavia Prague,FC Slovan Liberec,1,0,1.480,3.900,6.500
-61324617,2026-02-22 12:00,Bohemians Prague 1905,Dukla Prague,1,0,1.600,3.500,5.250
-61324615,2026-02-22 14:30,FC Banik Ostrava,FK Mlada Boleslav,0,0,1.533,4.000,5.250
-61324621,2026-02-22 14:30,FK Teplice,SK Sigma Olomouc,1,3,2.550,2.875,2.800
-61324611,2026-02-22 17:30,FC Viktoria Plzen,Sparta Prague,0,0,2.500,3.300,2.600
-61324627,2026-02-27 17:00,Dukla Prague,Slavia Prague,0,2,10.000,4.500,1.285
-61324631,2026-02-28 14:00,FC Slovan Liberec,FC Hradec Kralove,0,1,1.800,3.400,4.100
-61324639,2026-02-28 14:00,FK Pardubice,FK Teplice,1,1,2.200,3.000,3.250
-61324641,2026-02-28 14:00,FK Mlada Boleslav,FK Jablonec,3,0,3.000,3.400,2.150
-61324633,2026-02-28 17:00,Sparta Prague,FC Banik Ostrava,5,2,1.450,4.000,6.500
-61324637,2026-03-01 12:00,MFK Karvina,1. FC Slovacko Uherske Hradiste,0,2,1.800,3.500,3.900
-61324635,2026-03-01 14:30,FC Zlin,FC Viktoria Plzen,3,0,4.750,3.250,1.750
-61324629,2026-03-01 17:30,SK Sigma Olomouc,Bohemians Prague 1905,1,0,1.909,3.100,4.000
-61324643,2026-03-07 14:00,FK Teplice,Dukla Prague,0,0,1.800,3.300,5.000
-61324647,2026-03-07 14:00,Bohemians Prague 1905,FC Slovan Liberec,0,0,2.400,3.200,3.000
-61324657,2026-03-07 14:00,1. FC Slovacko Uherske Hradiste,FK Mlada Boleslav,2,2,2.250,3.250,3.250
-61324645,2026-03-07 17:00,FK Jablonec,SK Sigma Olomouc,1,2,2.300,3.100,3.250
-61324651,2026-03-08 12:00,FC Banik Ostrava,FC Zlin,6,2,1.800,3.500,4.500
-61324653,2026-03-08 14:30,FC Hradec Kralove,FC Viktoria Plzen,0,3,3.400,3.250,2.150
-61324655,2026-03-08 14:30,MFK Karvina,FK Pardubice,1,2,2.250,3.500,2.900
-61324649,2026-03-08 17:30,Slavia Prague,Sparta Prague,3,1,1.750,3.400,4.750
-61324659,2026-03-14 14:00,FC Hradec Kralove,FC Banik Ostrava,1,0,2.250,3.200,2.900
-61324667,2026-03-14 14:00,Dukla Prague,FK Jablonec,2,0,3.700,3.100,2.000
-61324673,2026-03-14 14:00,FK Mlada Boleslav,FK Pardubice,2,0,2.450,3.400,2.550
-61324663,2026-03-14 17:00,FC Zlin,Slavia Prague,1,3,7.500,3.800,1.420
-61324665,2026-03-15 12:00,FC Slovan Liberec,FK Teplice,1,1,1.666,3.300,5.250
-61324661,2026-03-15 14:30,FC Viktoria Plzen,Bohemians Prague 1905,2,0,1.444,4.100,6.250
-61324671,2026-03-15 14:30,SK Sigma Olomouc,MFK Karvina,2,2,1.800,3.300,4.100
-61324669,2026-03-15 17:30,Sparta Prague,1. FC Slovacko Uherske Hradiste,5,2,1.400,4.100,7.500
-61324675,2026-03-21 13:00,1. FC Slovacko Uherske Hradiste,Dukla Prague,1,2,,,
-61324677,2026-03-21 13:00,Slavia Prague,SK Sigma Olomouc,2,1,,,
-61324679,2026-03-21 13:00,FK Jablonec,FC Slovan Liberec,1,2,,,
-61324681,2026-03-21 13:00,Bohemians Prague 1905,Sparta Prague,2,0,,,
-61324683,2026-03-21 13:00,FK Pardubice,FC Zlin,3,1,,,
-61324685,2026-03-21 13:00,FC Banik Ostrava,FC Viktoria Plzen,0,1,,,
-61324687,2026-03-21 13:00,FK Teplice,FC Hradec Kralove,0,1,,,
-61324689,2026-03-21 13:00,MFK Karvina,FK Mlada Boleslav,0,3,,,
-61324691,2026-04-04 13:00,Dukla Prague,FK Pardubice,0,2,2.800,3.200,2.400
-61324693,2026-04-04 13:00,SK Sigma Olomouc,FK Mlada Boleslav,2,4,1.750,3.300,4.333
-61324695,2026-04-04 13:00,FC Slovan Liberec,1. FC Slovacko Uherske Hradiste,2,1,1.533,3.900,5.500
-61324699,2026-04-04 13:00,FC Zlin,FK Jablonec,0,3,3.100,3.100,2.200
-61324701,2026-04-04 16:00,FC Viktoria Plzen,FK Teplice,2,2,1.380,4.200,8.500
-61324703,2026-04-05 11:00,FC Hradec Kralove,Bohemians Prague 1905,2,0,1.950,3.300,3.500
-61324705,2026-04-05 13:30,FC Banik Ostrava,Slavia Prague,0,2,4.750,3.700,1.650
-61324697,2026-04-05 16:30,Sparta Prague,MFK Karvina,2,0,1.285,5.000,8.500
-61324707,2026-04-11 13:00,FK Jablonec,FC Banik Ostrava,2,1,2.000,3.300,3.300
-61324711,2026-04-11 13:00,Bohemians Prague 1905,FC Zlin,1,1,1.615,3.600,5.000
-61324715,2026-04-11 16:00,1. FC Slovacko Uherske Hradiste,FC Hradec Kralove,1,3,2.900,3.100,2.300
-61324717,2026-04-12 11:00,MFK Karvina,FC Slovan Liberec,3,1,3.000,3.400,2.100
-61324713,2026-04-12 13:30,FK Teplice,Sparta Prague,0,1,5.000,3.400,1.700
-61324719,2026-04-12 13:30,FK Pardubice,SK Sigma Olomouc,2,1,2.450,3.100,2.700
-61324721,2026-04-12 13:30,FK Mlada Boleslav,Dukla Prague,1,1,1.750,3.500,4.333
-61324709,2026-04-12 16:30,Slavia Prague,FC Viktoria Plzen,0,0,1.650,3.600,5.000
-61324723,2026-04-18 13:00,FC Banik Ostrava,Bohemians Prague 1905,0,2,2.100,3.400,3.100
-61324727,2026-04-18 13:00,FC Zlin,FK Teplice,3,2,2.450,2.900,2.875
-61324733,2026-04-18 13:00,Dukla Prague,MFK Karvina,1,2,2.375,3.300,2.700
-61324737,2026-04-18 13:00,FC Slovan Liberec,FK Mlada Boleslav,0,0,1.800,3.400,4.100
-61324729,2026-04-18 16:00,Sparta Prague,FK Jablonec,3,1,1.533,3.700,5.500
-61324731,2026-04-19 11:00,SK Sigma Olomouc,1. FC Slovacko Uherske Hradiste,2,1,1.533,3.800,6.000
-61324725,2026-04-19 13:30,FC Hradec Kralove,Slavia Prague,2,1,4.333,3.400,1.750
-61324735,2026-04-19 16:30,FC Viktoria Plzen,FK Pardubice,0,1,1.400,4.200,7.000
-71085566,2026-05-02 13:00,FC Banik Ostrava,FK Mlada Boleslav,0,0,1.833,3.600,3.700
-71085568,2026-05-02 13:00,FC Zlin,Dukla Prague,2,1,2.150,3.200,3.200
-71085618,2026-05-02 13:00,MFK Karvina,FK Pardubice,1,2,2.200,3.400,2.900
-71085622,2026-05-02 13:00,Bohemians Prague 1905,SK Sigma Olomouc,1,3,1.950,3.200,3.800
-71085516,2026-05-02 16:00,FC Slovan Liberec,Slavia Prague,1,2,4.333,3.400,1.750
-71085570,2026-05-03 11:00,FK Teplice,1. FC Slovacko Uherske Hradiste,1,1,2.000,3.250,3.600
-71085518,2026-05-03 13:30,FC Viktoria Plzen,FC Hradec Kralove,3,1,1.420,4.100,7.000
-71085520,2026-05-03 16:30,Sparta Prague,FK Jablonec,2,1,1.700,3.600,4.333
-71085572,2026-05-09 12:00,FK Mlada Boleslav,FC Zlin,1,1,1.700,3.500,4.500
-71085574,2026-05-09 12:00,FK Teplice,FC Banik Ostrava,2,1,2.875,3.100,2.350
-71085576,2026-05-09 12:00,Dukla Prague,1. FC Slovacko Uherske Hradiste,0,1,2.550,3.200,2.550
-71085522,2026-05-09 14:00,FC Viktoria Plzen,FC Slovan Liberec,2,0,1.700,3.500,4.500
-71085524,2026-05-09 17:00,Slavia Prague,Sparta Prague,3,2,1.571,3.900,5.000
-71085620,2026-05-10 13:00,FK Pardubice,MFK Karvina,1,2,1.950,3.600,3.400
-71085624,2026-05-10 13:00,SK Sigma Olomouc,Bohemians Prague 1905,0,2,1.800,3.400,4.200
-71085526,2026-05-10 16:30,FK Jablonec,FC Hradec Kralove,1,1,2.100,3.400,3.250
-71085578,2026-05-12 15:30,FK Mlada Boleslav,Dukla Prague,1,2,1.900,3.500,3.500
-71085580,2026-05-12 15:30,FC Zlin,FK Teplice,3,4,3.000,3.200,2.200
-71085582,2026-05-12 15:30,1. FC Slovacko Uherske Hradiste,FC Banik Ostrava,2,1,2.250,3.400,2.800
-71085528,2026-05-12 18:00,Sparta Prague,FC Viktoria Plzen,0,0,2.500,3.200,2.625
-71085530,2026-05-13 15:30,FC Hradec Kralove,FC Slovan Liberec,1,0,2.450,3.100,2.800
-71085532,2026-05-13 18:00,Slavia Prague,FK Jablonec,5,1,1.363,4.500,7.000
-71085584,2026-05-16 15:00,1. FC Slovacko Uherske Hradiste,FK Mlada Boleslav,1,3,1.850,3.500,3.600
-71085586,2026-05-16 15:00,FC Banik Ostrava,FC Zlin,2,0,1.444,4.000,7.000
-71085588,2026-05-16 15:00,FK Teplice,Dukla Prague,2,1,2.350,3.200,2.875
-71438748,2026-05-16 15:00,MFK Karvina,SK Sigma Olomouc,1,3,3.100,3.400,2.150
-71085534,2026-05-17 15:00,FC Hradec Kralove,Slavia Prague,3,1,2.625,3.400,2.400
-71085536,2026-05-17 15:00,FC Slovan Liberec,Sparta Prague,0,2,3.000,3.300,2.150
-71085538,2026-05-17 15:00,FC Viktoria Plzen,FK Jablonec,5,0,1.250,5.750,9.000
-71085590,2026-05-23 12:00,FK Mlada Boleslav,FK Teplice,0,2,1.800,3.700,3.700
-71085592,2026-05-23 12:00,FC Zlin,1. FC Slovacko Uherske Hradiste,1,0,2.375,3.200,2.750
-71085594,2026-05-23 12:00,Dukla Prague,FC Banik Ostrava,0,3,3.600,3.400,1.850
-71438750,2026-05-23 12:00,SK Sigma Olomouc,MFK Karvina,4,1,1.600,3.800,4.750
-71085540,2026-05-24 12:00,Slavia Prague,FC Viktoria Plzen,3,0,2.200,3.500,2.800
-71085542,2026-05-24 12:00,Sparta Prague,FC Hradec Kralove,2,1,1.200,6.000,10.000
-71085544,2026-05-24 12:00,FK Jablonec,FC Slovan Liberec,2,1,2.000,3.500,3.300
-71685808,2026-05-26 16:00,FC Banik Ostrava,FC Silon Taborsko,3,0,1.270,5.250,10.000
-71685812,2026-05-27 16:00,SK Artis Brno,1. FC Slovacko Uherske Hradiste,1,4,3.250,3.200,2.100
-71685810,2026-05-30 11:00,FC Silon Taborsko,FC Banik Ostrava,0,5,4.100,4.000,1.666
-71685814,2026-05-31 11:00,1. FC Slovacko Uherske Hradiste,SK Artis Brno,3,0,1.480,4.333,5.500
-72301574,2026-07-25 15:00,FC Viktoria Plzen,FC Slovan Liberec,1,3,1.500,4.000,5.250
-72301578,2026-07-25 15:00,FK Teplice,Bohemians Prague 1905,3,1,2.250,3.200,2.900
-72301580,2026-07-25 15:00,FC Zlin,FC Banik Ostrava,0,1,3.200,3.300,2.100
-72301566,2026-07-25 18:00,FC Zbrojovka Brno,Sparta Prague,3,1,4.100,3.800,1.650
-72301576,2026-07-26 13:00,Slavia Prague,1. FC Slovacko Uherske Hradiste,5,1,1.181,5.750,13.000
-72301570,2026-07-26 15:30,FK Jablonec,SK Sigma Olomouc,2,1,2.500,3.250,2.700
-72301568,2026-07-26 18:00,FC Hradec Kralove,FK Pardubice,2,1,2.050,3.400,3.300
-72587274,2026-07-27 16:00,SK Artis Brno,FK Mlada Boleslav,2,4,3.100,3.400,2.100
-72608104,2026-07-31 17:00,Sparta Prague,FC Zlin,3,1,1.200,6.250,11.000
-72608094,2026-08-01 15:00,FC Slovan Liberec,FK Teplice,0,1,,,
-72608096,2026-08-01 15:00,FC Banik Ostrava,Slavia Prague,0,4,,,
-72608102,2026-08-01 15:00,1. FC Slovacko Uherske Hradiste,SK Artis Brno,1,1,,,
-72608098,2026-08-01 18:00,FC Viktoria Plzen,FC Zbrojovka Brno,1,1,1.450,4.200,5.750
-72608100,2026-08-02 13:00,SK Sigma Olomouc,FK Mlada Boleslav,2,2,1.850,3.600,3.600
-72608090,2026-08-02 15:30,Bohemians Prague 1905,FC Hradec Kralove,0,0,3.000,3.400,2.150
-72608092,2026-08-02 18:00,FK Pardubice,FK Jablonec,0,2,2.200,3.300,3.000
-72607886,2026-08-07 17:00,FC Zbrojovka Brno,FC Slovan Liberec,0,1,2.600,3.300,2.500
-72607896,2026-08-08 15:00,FK Teplice,FC Viktoria Plzen,5,5,3.700,3.400,1.900
-72607898,2026-08-08 15:00,FC Zlin,Bohemians Prague 1905,0,2,2.350,3.100,2.875
-72607892,2026-08-08 18:00,FK Mlada Boleslav,Sparta Prague,2,0,3.400,3.400,1.950
-72607894,2026-08-09 13:00,Slavia Prague,FK Pardubice,2,1,1.222,5.750,11.000
-72607888,2026-08-09 15:00,FC Hradec Kralove,FC Banik Ostrava,2,1,2.150,3.200,3.200
-72607890,2026-08-09 15:00,FK Jablonec,1. FC Slovacko Uherske Hradiste,1,0,1.750,3.400,4.333
-72607884,2026-08-09 18:00,SK Artis Brno,SK Sigma Olomouc,1,2,4.100,3.700,1.727
-72607904,2026-08-15 15:00,FK Pardubice,FK Mlada Boleslav,1,1,2.250,3.400,2.800
-72607912,2026-08-15 15:00,1. FC Slovacko Uherske Hradiste,SK Sigma Olomouc,1,2,3.250,3.400,2.100
-72607914,2026-08-15 15:00,Sparta Prague,FK Teplice,4,1,1.380,4.500,7.000
-72607910,2026-08-15 18:00,FC Viktoria Plzen,FC Zlin,3,2,1.270,5.000,9.500
-72607908,2026-08-16 13:00,FC Banik Ostrava,SK Artis Brno,1,0,1.450,4.200,5.750
-72607906,2026-08-16 18:00,FC Slovan Liberec,Slavia Prague,1,1,4.100,3.700,1.750
-72607916,2026-08-22 15:00,SK Artis Brno,Sparta Prague,0,4,7.000,4.500,1.363
-72607922,2026-08-22 15:00,FK Mlada Boleslav,1. FC Slovacko Uherske Hradiste,2,1,1.833,3.400,3.900
-72607930,2026-08-22 15:00,FC Zlin,FC Slovan Liberec,0,1,4.100,3.500,1.800
-72607926,2026-08-22 18:00,Slavia Prague,Bohemians Prague 1905,2,2,1.270,5.250,8.000
-72607928,2026-08-23 15:00,FK Teplice,FC Zbrojovka Brno,0,2,2.150,3.100,3.250
-72607924,2026-08-23 18:00,SK Sigma Olomouc,FK Pardubice,3,1,1.800,3.500,4.000
-72607934,2026-08-29 15:00,FC Zbrojovka Brno,FC Zlin,3,2,1.750,3.500,4.500
-72607936,2026-08-29 15:00,FK Pardubice,SK Artis Brno,1,2,1.850,3.300,4.100
-72607940,2026-08-29 18:00,FC Banik Ostrava,SK Sigma Olomouc,1,0,2.500,3.400,2.450
-72607938,2026-08-30 13:00,FC Slovan Liberec,FC Hradec Kralove,2,0,1.800,3.600,4.000
-72607942,2026-08-30 15:00,FC Viktoria Plzen,1. FC Slovacko Uherske Hradiste,1,1,1.300,4.750,9.000
-72607946,2026-08-30 15:00,FK Teplice,FK Jablonec,2,0,2.300,3.100,3.000
-72607944,2026-08-30 18:00,Sparta Prague,Slavia Prague,0,3,2.550,3.400,2.500
-73671736,2026-09-02 16:00,FC Zbrojovka Brno,FC Hradec Kralove,1,0,2.500,3.300,2.550
-73736784,2026-09-02 18:00,Bohemians Prague 1905,FK Jablonec,1,1,2.375,3.250,2.700
-72607956,2026-09-05 13:00,SK Sigma Olomouc,Bohemians Prague 1905,3,0,1.666,3.600,4.500
-72607958,2026-09-05 13:00,Slavia Prague,FC Zbrojovka Brno,4,0,1.285,5.250,8.000
-72607960,2026-09-05 13:00,1. FC Slovacko Uherske Hradiste,FK Pardubice,0,0,2.350,3.250,2.750
-72607948,2026-09-05 16:00,SK Artis Brno,FC Viktoria Plzen,0,3,5.500,4.500,1.480
-72607954,2026-09-06 11:00,FK Mlada Boleslav,FC Banik Ostrava,4,0,2.200,3.400,2.750
-72607952,2026-09-06 13:00,FK Jablonec,FC Slovan Liberec,1,2,2.900,3.100,2.300
-72607962,2026-09-06 13:00,FC Zlin,FK Teplice,1,3,2.600,3.100,2.550
-72607950,2026-09-06 16:00,FC Hradec Kralove,Sparta Prague,2,1,3.000,3.400,2.150
-73853726,2026-09-09 15:00,FK Jablonec,FC Banik Ostrava,3,0,1.800,3.500,4.000
-74280036,2026-09-09 17:00,FC Hradec Kralove,FC Viktoria Plzen,0,0,3.100,3.400,2.100
-72607964,2026-09-12 13:00,Bohemians Prague 1905,1. FC Slovacko Uherske Hradiste,2,0,2.050,3.400,3.300
-72607966,2026-09-12 13:00,FC Zbrojovka Brno,SK Artis Brno,2,1,1.666,3.500,4.500
-72607968,2026-09-12 13:00,FC Slovan Liberec,FK Mlada Boleslav,3,0,1.571,3.900,4.750
-72607974,2026-09-12 16:00,Sparta Prague,FK Jablonec,2,0,1.571,3.800,5.000
-72607970,2026-09-13 11:00,FC Banik Ostrava,FK Pardubice,1,2,2.100,3.250,3.100
-72607972,2026-09-13 13:00,FC Viktoria Plzen,SK Sigma Olomouc,2,3,1.750,3.600,4.100
-72607978,2026-09-13 13:00,FC Zlin,FC Hradec Kralove,1,2,4.200,3.400,1.800
-72607976,2026-09-13 16:00,FK Teplice,Slavia Prague,0,2,5.250,4.000,1.500
-72607980,2026-09-19 13:00,SK Artis Brno,FC Slovan Liberec,0,0,4.500,3.600,1.650
-72607982,2026-09-19 13:00,FK Pardubice,Bohemians Prague 1905,2,1,2.050,3.500,3.200
-72607988,2026-09-19 13:00,FK Mlada Boleslav,FC Zbrojovka Brno,2,0,2.450,3.300,2.625
-72607994,2026-09-19 16:00,1. FC Slovacko Uherske Hradiste,FC Banik Ostrava,2,2,2.450,3.300,2.600
-72607984,2026-09-20 11:00,FC Hradec Kralove,FK Teplice,0,2,1.650,3.500,5.000
-72607986,2026-09-20 13:00,FK Jablonec,FC Zlin,1,1,1.480,3.800,6.250
-72607990,2026-09-20 13:00,SK Sigma Olomouc,Sparta Prague,0,3,3.000,3.500,2.100
-72607992,2026-09-20 16:00,Slavia Prague,FC Viktoria Plzen,2,1,1.550,4.000,5.000
-72608010,2026-10-09 16:00,FC Zlin,Slavia Prague,0,1,9.000,4.750,1.300
-72607998,2026-10-10 13:00,FC Zbrojovka Brno,FK Jablonec,0,1,2.550,3.200,2.550
-72608000,2026-10-10 13:00,FC Hradec Kralove,SK Artis Brno,2,4,1.615,3.750,4.750
-72608004,2026-10-10 13:00,FC Viktoria Plzen,FK Mlada Boleslav,3,0,1.550,4.000,5.000
-72607996,2026-10-10 16:00,Bohemians Prague 1905,FC Banik Ostrava,1,0,2.200,3.300,3.000
-72608002,2026-10-11 11:00,FC Slovan Liberec,1. FC Slovacko Uherske Hradiste,0,2,1.450,4.000,6.250
-72608008,2026-10-11 13:00,FK Teplice,SK Sigma Olomouc,1,1,2.600,3.250,2.500
-72608006,2026-10-11 16:00,Sparta Prague,FK Pardubice,2,0,1.450,4.200,6.000
-75339776,2026-10-14 16:00,Bohemians Prague 1905,FK Mlada Boleslav,1,0,2.100,3.700,2.900
-72608014,2026-10-17 13:00,FK Pardubice,FC Zlin,3,0,1.500,4.100,5.750
-72608018,2026-10-17 13:00,FK Mlada Boleslav,FK Teplice,1,0,1.950,3.700,3.250
-72608024,2026-10-17 13:00,Slavia Prague,FC Hradec Kralove,0,0,1.285,5.000,8.000
-72608022,2026-10-17 16:00,SK Sigma Olomouc,FC Slovan Liberec,1,0,2.550,3.300,2.550
-72608026,2026-10-18 11:00,1. FC Slovacko Uherske Hradiste,FC Zbrojovka Brno,1,2,2.600,3.250,2.500
-72608020,2026-10-18 13:00,FC Banik Ostrava,Sparta Prague,0,0,4.200,3.900,1.650
-72608016,2026-10-18 16:00,FK Jablonec,FC Viktoria Plzen,2,3,2.550,3.400,2.450
-72608028,2026-10-24 13:00,FC Zbrojovka Brno,Bohemians Prague 1905,2,2,2.050,3.400,3.250
-72608040,2026-10-24 13:00,FK Teplice,SK Artis Brno,0,0,1.909,3.400,3.600
-72608042,2026-10-24 13:00,FC Zlin,SK Sigma Olomouc,1,1,3.900,3.600,1.800
-72608036,2026-10-24 16:00,Slavia Prague,FK Mlada Boleslav,1,1,1.250,5.500,8.000
-72608030,2026-10-25 12:00,FC Hradec Kralove,FK Jablonec,1,2,2.350,3.250,2.750
-72608038,2026-10-25 14:00,Sparta Prague,1. FC Slovacko Uherske Hradiste,5,1,1.285,5.000,9.000
-72608034,2026-10-25 17:00,FC Viktoria Plzen,FK Pardubice,1,2,1.650,3.750,4.333
-72608044,2026-10-31 14:00,SK Artis Brno,FC Zlin,2,2,1.850,3.600,3.600
-72608048,2026-10-31 14:00,FK Pardubice,FC Slovan Liberec,1,2,2.550,3.200,2.550
-72608050,2026-10-31 14:00,FK Jablonec,Slavia Prague,0,5,3.700,3.300,1.909
-72608058,2026-10-31 14:00,1. FC Slovacko Uherske Hradiste,FK Teplice,1,3,2.625,3.250,2.450
-72608056,2026-10-31 17:00,SK Sigma Olomouc,FC Zbrojovka Brno,3,0,2.000,3.300,3.400
-72608052,2026-11-01 12:00,FK Mlada Boleslav,FC Hradec Kralove,3,1,2.350,3.500,2.700
-72608054,2026-11-01 14:00,FC Banik Ostrava,FC Viktoria Plzen,0,4,3.600,3.600,1.850
-72608046,2026-11-01 17:00,Bohemians Prague 1905,Sparta Prague,0,0,3.500,3.600,1.909
-76081362,2026-11-04 17:00,SK Artis Brno,Bohemians Prague 1905,1,2,2.375,3.400,2.700
-72608062,2026-11-07 14:00,FC Hradec Kralove,SK Sigma Olomouc,5,0,2.800,3.400,2.200
-72608066,2026-11-07 14:00,FC Slovan Liberec,Bohemians Prague 1905,1,0,1.500,3.900,5.750
-72608074,2026-11-07 14:00,FC Zlin,1. FC Slovacko Uherske Hradiste,0,1,2.625,3.250,2.450
-72608060,2026-11-07 17:00,FC Zbrojovka Brno,FC Banik Ostrava,1,3,1.900,3.400,3.600
-72608072,2026-11-08 12:00,FK Teplice,FK Pardubice,1,4,2.600,3.400,2.400
-72608064,2026-11-08 14:00,FK Jablonec,FK Mlada Boleslav,0,0,1.750,3.600,4.100
-72608070,2026-11-08 14:00,Slavia Prague,SK Artis Brno,4,1,1.142,8.000,15.000
-72608068,2026-11-08 17:00,FC Viktoria Plzen,Sparta Prague,1,1,2.250,3.600,2.750
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+60000989,2025-05-24 14:00,Slavia Prague,FC Banik Ostrava,3,0,,,,,,
+60000991,2025-05-24 14:00,FC Viktoria Plzen,FK Jablonec,4,1,,,,,,
+60000993,2025-05-24 14:00,Sparta Prague,SK Sigma Olomouc,1,1,,,,,,
+60495811,2025-05-25 11:30,FC Hradec Kralove,Bohemians Prague 1905,2,0,,,,,,
+60001149,2025-05-25 14:00,FK Mlada Boleslav,1. FC Slovacko Uherske Hradiste,2,2,,,,,,
+60001151,2025-05-25 14:00,FK Teplice,FK Pardubice,3,0,,,,,,
+60001155,2025-05-25 14:00,Dukla Prague,SK Dynamo Ceske Budejovice,2,1,,,,,,
+60810137,2025-05-28 16:00,MFk Vyskov,Dukla Prague,0,0,,,,,,
+60810139,2025-05-28 16:00,FK Pardubice,MFK Chrudim,2,0,,,,,,
+60810141,2025-06-01 13:00,MFK Chrudim,FK Pardubice,1,0,,,,,,
+60810145,2025-06-01 13:00,Dukla Prague,MFk Vyskov,5,3,,,,,,
+61324233,2025-07-18 17:00,FK Pardubice,FC Viktoria Plzen,1,5,,,,,,
+61324221,2025-07-19 15:00,Bohemians Prague 1905,FC Banik Ostrava,1,0,,,,,,
+61324225,2025-07-19 15:00,FK Teplice,FC Zlin,1,3,,,,,,
+61324231,2025-07-19 15:00,MFK Karvina,Dukla Prague,2,0,,,,,,
+61324227,2025-07-19 18:00,FK Jablonec,Sparta Prague,1,1,,,,,,
+61324229,2025-07-20 13:00,1. FC Slovacko Uherske Hradiste,SK Sigma Olomouc,0,1,,,,,,
+61324235,2025-07-20 15:00,FK Mlada Boleslav,FC Slovan Liberec,3,3,,,,,,
+61324223,2025-07-20 18:00,Slavia Prague,FC Hradec Kralove,2,2,,,,,,
+61324237,2025-07-26 15:00,SK Sigma Olomouc,Dukla Prague,0,0,,,,,,
+61324243,2025-07-26 15:00,FC Zlin,1. FC Slovacko Uherske Hradiste,1,1,,,,,,
+61324247,2025-07-26 15:00,FC Viktoria Plzen,FK Jablonec,1,1,,,,,,
+61324249,2025-07-26 15:00,FC Hradec Kralove,MFK Karvina,1,2,,,,,,
+61324253,2025-07-26 18:00,Bohemians Prague 1905,Slavia Prague,0,2,,,,,,
+61324239,2025-07-27 13:00,FC Slovan Liberec,FK Pardubice,2,1,,,,,,
+61324241,2025-07-27 18:00,Sparta Prague,FK Mlada Boleslav,3,2,,,,,,
+61324259,2025-08-02 15:00,FK Teplice,Bohemians Prague 1905,3,0,,,,,,
+61324261,2025-08-02 15:00,FK Jablonec,FC Hradec Kralove,2,0,,,,,,
+61324265,2025-08-02 15:00,MFK Karvina,FC Zlin,0,1,,,,,,
+61324257,2025-08-02 18:00,SK Sigma Olomouc,FC Slovan Liberec,2,1,,,,,,
+61324263,2025-08-03 13:00,1. FC Slovacko Uherske Hradiste,Slavia Prague,0,1,,,,,,
+61324255,2025-08-03 15:30,Dukla Prague,FC Banik Ostrava,1,1,,,,,,
+61324267,2025-08-03 18:00,FK Pardubice,Sparta Prague,1,3,,,,,,
+61324271,2025-08-09 15:00,FC Slovan Liberec,Dukla Prague,2,0,,,,,,
+61324275,2025-08-09 15:00,FC Zlin,FK Mlada Boleslav,3,2,,,,,,
+61324277,2025-08-09 15:00,FC Viktoria Plzen,1. FC Slovacko Uherske Hradiste,1,1,,,,,,
+61324285,2025-08-09 18:00,Slavia Prague,FK Teplice,3,0,,,,,,
+61324279,2025-08-10 13:00,FC Hradec Kralove,FK Pardubice,1,1,,,,,,
+61324283,2025-08-10 13:00,Bohemians Prague 1905,FK Jablonec,0,1,,,,,,
+61324281,2025-08-10 15:30,FC Banik Ostrava,MFK Karvina,1,2,,,,,,
+61324273,2025-08-10 18:00,Sparta Prague,SK Sigma Olomouc,1,0,,,,,,
+61324287,2025-08-16 15:00,Dukla Prague,FC Viktoria Plzen,2,0,,,,,,
+61324289,2025-08-16 15:00,SK Sigma Olomouc,FC Zlin,1,0,,,,,,
+61324295,2025-08-16 15:00,1. FC Slovacko Uherske Hradiste,FK Teplice,2,1,,,,,,
+61324301,2025-08-16 15:00,FK Mlada Boleslav,FC Hradec Kralove,3,2,,,,,,
+61324293,2025-08-16 18:00,FK Jablonec,Slavia Prague,1,1,,,,,,
+61324297,2025-08-17 13:00,MFK Karvina,Bohemians Prague 1905,1,2,,,,,,
+61324291,2025-08-17 18:00,FC Slovan Liberec,Sparta Prague,0,2,,,,,,
+63003791,2025-08-19 16:00,FK Mlada Boleslav,FC Viktoria Plzen,0,5,,,,,,
+61324305,2025-08-23 15:00,FC Zlin,FC Slovan Liberec,1,0,,,,,,
+61324307,2025-08-23 15:00,FC Viktoria Plzen,MFK Karvina,2,1,,,,,,
+61324317,2025-08-23 15:00,FK Teplice,FK Jablonec,0,1,,,,,,
+61324315,2025-08-23 18:00,Slavia Prague,FK Pardubice,3,1,,,,,,
+61324309,2025-08-24 13:00,FC Hradec Kralove,SK Sigma Olomouc,1,0,,,,,,
+61324311,2025-08-24 15:30,FC Banik Ostrava,1. FC Slovacko Uherske Hradiste,2,0,,,,,,
+61324303,2025-08-24 18:00,Sparta Prague,Dukla Prague,3,2,,,,,,
+61324319,2025-08-30 15:00,Dukla Prague,FC Hradec Kralove,1,1,,,,,,
+61324327,2025-08-30 15:00,1. FC Slovacko Uherske Hradiste,FK Jablonec,0,2,,,,,,
+61324329,2025-08-30 15:00,MFK Karvina,FK Teplice,4,1,,,,,,
+61324331,2025-08-30 15:00,FK Pardubice,Bohemians Prague 1905,1,1,,,,,,
+61324333,2025-08-30 18:00,FK Mlada Boleslav,Slavia Prague,1,3,,,,,,
+61324323,2025-08-31 13:00,FC Slovan Liberec,FC Viktoria Plzen,1,1,,,,,,
+61324321,2025-08-31 15:30,SK Sigma Olomouc,FC Banik Ostrava,1,0,,,,,,
+61324325,2025-08-31 18:00,Sparta Prague,FC Zlin,3,1,,,,,,
+61324335,2025-09-13 13:00,FC Zlin,Dukla Prague,1,1,,,,,,
+61324337,2025-09-13 13:00,FC Viktoria Plzen,SK Sigma Olomouc,1,0,,,,,,
+61324341,2025-09-13 13:00,FC Banik Ostrava,FC Slovan Liberec,0,2,,,,,,
+61324347,2025-09-13 13:00,FK Teplice,FK Mlada Boleslav,2,3,,,,,,
+61324345,2025-09-13 16:00,Slavia Prague,MFK Karvina,3,1,,,,,,
+61324349,2025-09-14 11:00,FK Jablonec,FK Pardubice,3,2,,,,,,
+61324343,2025-09-14 13:30,Bohemians Prague 1905,1. FC Slovacko Uherske Hradiste,1,0,,,,,,
+61324339,2025-09-14 16:00,FC Hradec Kralove,Sparta Prague,2,1,,,,,,
+61324353,2025-09-20 13:00,FC Zlin,FC Hradec Kralove,1,2,,,,,,
+61324361,2025-09-20 13:00,SK Sigma Olomouc,FK Teplice,0,0,,,,,,
+61324363,2025-09-20 13:00,MFK Karvina,FK Jablonec,1,2,,,,,,
+61324365,2025-09-20 13:00,FK Pardubice,1. FC Slovacko Uherske Hradiste,1,1,,,,,,
+61324351,2025-09-20 16:00,Sparta Prague,FC Viktoria Plzen,2,1,,,,,,
+61324357,2025-09-21 11:00,Dukla Prague,Bohemians Prague 1905,0,2,,,,,,
+61324359,2025-09-21 13:30,FC Slovan Liberec,Slavia Prague,1,1,,,,,,
+61324355,2025-09-21 16:30,FK Mlada Boleslav,FC Banik Ostrava,1,1,,,,,,
+61324367,2025-09-26 17:00,Slavia Prague,Dukla Prague,2,0,,,,,,
+61324369,2025-09-27 13:00,Bohemians Prague 1905,SK Sigma Olomouc,2,2,,,,,,
+61324373,2025-09-27 13:00,FC Banik Ostrava,Sparta Prague,0,3,,,,,,
+61324377,2025-09-27 13:00,1. FC Slovacko Uherske Hradiste,MFK Karvina,1,2,,,,,,
+61324371,2025-09-27 16:00,FC Hradec Kralove,FC Slovan Liberec,2,3,,,,,,
+61324379,2025-09-28 11:00,FK Teplice,FK Pardubice,0,0,,,,,,
+61324381,2025-09-28 13:30,FK Jablonec,FK Mlada Boleslav,2,0,,,,,,
+61324375,2025-09-28 16:30,FC Viktoria Plzen,FC Zlin,0,1,,,,,,
+64004337,2025-10-01 16:00,FK Pardubice,FC Banik Ostrava,0,1,,,,,,
+61324383,2025-10-04 13:00,Dukla Prague,FK Teplice,1,3,,,,,,
+61324395,2025-10-04 13:00,FK Pardubice,MFK Karvina,2,1,,,,,,
+61324397,2025-10-04 13:00,FK Mlada Boleslav,1. FC Slovacko Uherske Hradiste,0,0,,,,,,
+61324387,2025-10-04 16:00,FC Slovan Liberec,Bohemians Prague 1905,0,0,,,,,,
+61324391,2025-10-05 11:00,FC Zlin,FC Banik Ostrava,1,1,,,,,,
+61324385,2025-10-05 13:30,SK Sigma Olomouc,FK Jablonec,2,0,,,,,,
+61324393,2025-10-05 13:30,FC Viktoria Plzen,FC Hradec Kralove,3,3,,,,,,
+61324389,2025-10-05 16:30,Sparta Prague,Slavia Prague,1,1,,,,,,
+61324401,2025-10-18 13:00,Bohemians Prague 1905,FC Viktoria Plzen,0,1,,,,,,
+61324405,2025-10-18 13:00,FK Teplice,FC Slovan Liberec,1,1,,,,,,
+61324411,2025-10-18 13:00,MFK Karvina,SK Sigma Olomouc,1,1,,,,,,
+61324413,2025-10-18 13:00,FK Pardubice,FK Mlada Boleslav,2,1,,,,,,
+61324403,2025-10-18 16:00,Slavia Prague,FC Zlin,0,0,,,,,,
+61324399,2025-10-19 11:00,FC Banik Ostrava,FC Hradec Kralove,0,1,,,,,,
+61324409,2025-10-19 13:30,1. FC Slovacko Uherske Hradiste,Sparta Prague,0,0,,,,,,
+61324407,2025-10-19 16:30,FK Jablonec,Dukla Prague,0,0,,,,,,
+64453887,2025-10-22 16:30,Bohemians Prague 1905,FK Mlada Boleslav,1,1,,,,,,
+61324415,2025-10-25 13:00,Dukla Prague,1. FC Slovacko Uherske Hradiste,1,0,,,,,,
+61324459,2025-10-25 13:00,FC Zlin,FK Pardubice,2,2,,,,,,
+61324463,2025-10-25 13:00,FC Hradec Kralove,FK Teplice,0,0,,,,,,
+61324465,2025-10-25 13:00,FK Mlada Boleslav,MFK Karvina,2,4,,,,,,
+61324455,2025-10-25 16:00,FC Slovan Liberec,FK Jablonec,0,2,,,,,,
+61324445,2025-10-26 12:00,SK Sigma Olomouc,Slavia Prague,0,0,,,,,,
+61324461,2025-10-26 17:30,FC Viktoria Plzen,FC Banik Ostrava,2,0,,,,,,
+64852642,2025-10-28 16:00,Sparta Prague,Bohemians Prague 1905,2,1,,,,,,
+61324467,2025-11-01 14:00,FK Pardubice,Dukla Prague,1,1,,,,,,
+61324471,2025-11-01 14:00,1. FC Slovacko Uherske Hradiste,FC Slovan Liberec,0,3,,,,,,
+61324475,2025-11-01 14:00,FK Jablonec,FC Zlin,1,3,,,,,,
+61324481,2025-11-01 17:00,Slavia Prague,FC Banik Ostrava,2,0,,,,,,
+61324469,2025-11-02 12:00,FK Mlada Boleslav,SK Sigma Olomouc,1,4,,,,,,
+61324473,2025-11-02 14:30,MFK Karvina,Sparta Prague,2,1,,,,,,
+61324479,2025-11-02 14:30,Bohemians Prague 1905,FC Hradec Kralove,1,2,,,,,,
+61324477,2025-11-02 17:30,FK Teplice,FC Viktoria Plzen,1,2,,,,,,
+61324487,2025-11-08 14:00,FC Zlin,Bohemians Prague 1905,0,1,,,,,,
+61324491,2025-11-08 14:00,FC Hradec Kralove,1. FC Slovacko Uherske Hradiste,4,0,,,,,,
+61324497,2025-11-08 14:00,Dukla Prague,FK Mlada Boleslav,0,1,,,,,,
+61324483,2025-11-08 17:00,FC Banik Ostrava,FK Jablonec,0,1,,,,,,
+61324493,2025-11-09 12:00,FC Slovan Liberec,MFK Karvina,6,0,,,,,,
+61324489,2025-11-09 14:30,Sparta Prague,FK Teplice,2,2,,,,,,
+61324495,2025-11-09 14:30,SK Sigma Olomouc,FK Pardubice,2,0,,,,,,
+61324485,2025-11-09 17:30,FC Viktoria Plzen,Slavia Prague,3,5,,,,,,
+61324499,2025-11-22 14:00,Dukla Prague,SK Sigma Olomouc,2,2,,,,,,
+61324501,2025-11-22 14:00,FK Pardubice,FC Slovan Liberec,0,4,,,,,,
+61324503,2025-11-22 14:00,FK Mlada Boleslav,Sparta Prague,1,2,,,,,,
+61324511,2025-11-22 14:00,FK Teplice,FC Banik Ostrava,1,0,,,,,,
+61324513,2025-11-22 17:00,Slavia Prague,Bohemians Prague 1905,3,1,,,,,,
+61324509,2025-11-23 12:00,MFK Karvina,FC Hradec Kralove,4,3,,,,,,
+61324507,2025-11-23 14:30,FK Jablonec,FC Viktoria Plzen,3,3,,,,,,
+61324505,2025-11-23 17:30,1. FC Slovacko Uherske Hradiste,FC Zlin,2,0,,,,,,
+61324515,2025-11-29 14:00,FC Banik Ostrava,Dukla Prague,3,1,,,,,,
+61324521,2025-11-29 14:00,FC Hradec Kralove,FK Jablonec,2,0,,,,,,
+61324525,2025-11-29 14:00,FC Zlin,MFK Karvina,1,3,,,,,,
+61324523,2025-11-29 17:00,Slavia Prague,1. FC Slovacko Uherske Hradiste,3,0,,,,,,
+61324519,2025-11-30 12:00,Bohemians Prague 1905,FK Teplice,0,1,,,,,,
+61324517,2025-11-30 14:30,FC Slovan Liberec,SK Sigma Olomouc,1,0,,,,,,
+61324529,2025-11-30 14:30,FC Viktoria Plzen,FK Mlada Boleslav,2,1,,,,,,
+61324527,2025-11-30 17:30,Sparta Prague,FK Pardubice,2,4,,,,,,
+61324545,2025-12-05 17:00,FK Teplice,Slavia Prague,1,2,,,,,,
+61324531,2025-12-06 14:00,Dukla Prague,FC Slovan Liberec,1,1,,,,,,
+61324535,2025-12-06 14:00,FK Mlada Boleslav,FC Zlin,3,1,,,,,,
+61324537,2025-12-06 14:00,1. FC Slovacko Uherske Hradiste,FC Viktoria Plzen,3,0,,,,,,
+61324533,2025-12-06 17:00,SK Sigma Olomouc,Sparta Prague,0,1,,,,,,
+61324543,2025-12-07 12:00,FK Jablonec,Bohemians Prague 1905,1,0,,,,,,
+61324541,2025-12-07 14:30,MFK Karvina,FC Banik Ostrava,0,0,,,,,,
+61324539,2025-12-07 17:30,FK Pardubice,FC Hradec Kralove,1,0,,,,,,
+61324555,2025-12-13 14:00,FK Teplice,1. FC Slovacko Uherske Hradiste,1,0,2.200,2.875,3.400,2,1.925,1.875
+61324559,2025-12-13 14:00,FC Banik Ostrava,FK Pardubice,1,4,1.727,3.400,4.500,2.5,2.000,1.800
+61324561,2025-12-13 14:00,FC Hradec Kralove,FK Mlada Boleslav,1,1,1.750,3.700,4.000,2.75,1.900,1.900
+61324553,2025-12-13 17:00,Slavia Prague,FK Jablonec,4,3,1.300,4.750,9.500,2.75,1.800,2.000
+61324557,2025-12-14 12:00,Bohemians Prague 1905,MFK Karvina,0,3,2.050,3.400,3.200,2.75,1.900,1.900
+61324547,2025-12-14 14:30,FC Viktoria Plzen,Dukla Prague,2,0,1.300,4.750,9.500,2.75,1.850,1.950
+61324549,2025-12-14 14:30,FC Zlin,SK Sigma Olomouc,5,0,3.000,3.000,2.375,2.25,2.025,1.775
+61324551,2025-12-14 17:30,Sparta Prague,FC Slovan Liberec,2,2,1.650,3.500,4.750,2.5,2.000,1.800
+61324569,2026-01-31 14:00,SK Sigma Olomouc,FC Hradec Kralove,1,0,2.050,3.300,3.600,2.25,2.000,1.800
+61324573,2026-01-31 14:00,FK Mlada Boleslav,Bohemians Prague 1905,2,2,2.800,3.200,2.550,2.5,1.775,2.025
+61324577,2026-01-31 14:00,FK Jablonec,FK Teplice,1,0,1.727,3.500,4.750,2.25,1.900,1.900
+61324563,2026-01-31 17:00,Dukla Prague,Sparta Prague,0,3,7.000,4.100,1.450,2.25,2.025,1.775
+61324571,2026-02-01 12:00,1. FC Slovacko Uherske Hradiste,FC Banik Ostrava,2,2,3.400,3.250,2.100,2.25,1.850,1.950
+61324565,2026-02-01 14:30,FC Slovan Liberec,FC Zlin,2,0,1.800,3.600,4.100,2.5,1.975,1.825
+61324567,2026-02-01 14:30,MFK Karvina,FC Viktoria Plzen,0,2,3.750,3.600,1.900,2.75,1.875,1.925
+61324575,2026-02-01 17:30,FK Pardubice,Slavia Prague,1,1,7.000,4.750,1.400,2.75,1.975,1.825
+61324581,2026-02-07 14:00,FC Banik Ostrava,SK Sigma Olomouc,2,0,2.450,3.100,2.625,2.25,1.800,2.000
+61324587,2026-02-07 14:00,FK Jablonec,1. FC Slovacko Uherske Hradiste,0,0,1.727,3.400,4.333,2.5,1.900,1.900
+61324589,2026-02-07 14:00,FK Teplice,MFK Karvina,2,0,2.625,3.200,2.550,2.5,1.800,2.000
+61324593,2026-02-07 17:00,Slavia Prague,FK Mlada Boleslav,4,0,1.200,6.000,12.000,3.25,1.900,1.900
+61324579,2026-02-08 12:00,FC Hradec Kralove,Dukla Prague,3,0,1.550,3.700,5.750,2.5,2.000,1.800
+61324585,2026-02-08 14:30,FC Zlin,Sparta Prague,0,3,6.000,3.700,1.533,2.5,1.900,1.900
+61324591,2026-02-08 14:30,Bohemians Prague 1905,FK Pardubice,1,2,2.150,3.300,3.100,2.5,1.950,1.850
+61324583,2026-02-08 17:30,FC Viktoria Plzen,FC Slovan Liberec,3,1,1.750,3.500,4.500,2.5,1.900,1.900
+61324595,2026-02-14 14:00,Dukla Prague,FC Zlin,0,0,2.700,2.900,2.700,2,1.900,1.900
+61324603,2026-02-14 14:00,1. FC Slovacko Uherske Hradiste,Bohemians Prague 1905,1,2,2.250,3.100,3.000,2.25,1.900,1.900
+61324605,2026-02-14 14:00,MFK Karvina,Slavia Prague,1,3,5.500,4.100,1.480,3,1.850,1.950
+61324597,2026-02-14 17:00,SK Sigma Olomouc,FC Viktoria Plzen,1,2,3.100,3.100,2.200,2.25,1.825,1.975
+61324609,2026-02-15 12:00,FK Pardubice,FK Jablonec,0,2,2.375,3.250,2.800,2.5,2.025,1.775
+61324601,2026-02-15 14:30,FC Slovan Liberec,FC Banik Ostrava,1,0,1.950,3.300,3.500,2.5,1.850,1.950
+61324607,2026-02-15 14:30,FK Mlada Boleslav,FK Teplice,0,0,2.150,3.100,3.200,2.5,1.800,2.000
+61324599,2026-02-15 17:30,Sparta Prague,FC Hradec Kralove,2,0,1.333,4.333,8.500,2.75,1.950,1.850
+61324613,2026-02-21 14:00,FC Hradec Kralove,FC Zlin,0,0,1.800,3.250,4.200,2.25,1.950,1.850
+61324623,2026-02-21 14:00,FK Jablonec,MFK Karvina,1,0,1.900,3.400,3.700,2.75,1.950,1.850
+61324625,2026-02-21 14:00,1. FC Slovacko Uherske Hradiste,FK Pardubice,2,0,2.450,3.100,2.700,2.25,1.825,1.975
+61324619,2026-02-21 17:00,Slavia Prague,FC Slovan Liberec,1,0,1.480,3.900,6.500,2.75,2.000,1.800
+61324617,2026-02-22 12:00,Bohemians Prague 1905,Dukla Prague,1,0,1.600,3.500,5.250,2.5,2.025,1.775
+61324615,2026-02-22 14:30,FC Banik Ostrava,FK Mlada Boleslav,0,0,1.533,4.000,5.250,3,1.950,1.850
+61324621,2026-02-22 14:30,FK Teplice,SK Sigma Olomouc,1,3,2.550,2.875,2.800,2,1.950,1.850
+61324611,2026-02-22 17:30,FC Viktoria Plzen,Sparta Prague,0,0,2.500,3.300,2.600,2.5,1.900,1.900
+61324627,2026-02-27 17:00,Dukla Prague,Slavia Prague,0,2,10.000,4.500,1.285,2.75,1.800,2.000
+61324631,2026-02-28 14:00,FC Slovan Liberec,FC Hradec Kralove,0,1,1.800,3.400,4.100,2.5,1.900,1.900
+61324639,2026-02-28 14:00,FK Pardubice,FK Teplice,1,1,2.200,3.000,3.250,2.25,2.025,1.775
+61324641,2026-02-28 14:00,FK Mlada Boleslav,FK Jablonec,3,0,3.000,3.400,2.150,2.75,1.825,1.975
+61324633,2026-02-28 17:00,Sparta Prague,FC Banik Ostrava,5,2,1.450,4.000,6.500,3,1.825,1.975
+61324637,2026-03-01 12:00,MFK Karvina,1. FC Slovacko Uherske Hradiste,0,2,1.800,3.500,3.900,2.75,1.900,1.900
+61324635,2026-03-01 14:30,FC Zlin,FC Viktoria Plzen,3,0,4.750,3.250,1.750,2.25,1.950,1.850
+61324629,2026-03-01 17:30,SK Sigma Olomouc,Bohemians Prague 1905,1,0,1.909,3.100,4.000,2.25,2.025,1.775
+61324643,2026-03-07 14:00,FK Teplice,Dukla Prague,0,0,1.800,3.300,5.000,2,1.825,1.975
+61324647,2026-03-07 14:00,Bohemians Prague 1905,FC Slovan Liberec,0,0,2.400,3.200,3.000,,,
+61324657,2026-03-07 14:00,1. FC Slovacko Uherske Hradiste,FK Mlada Boleslav,2,2,2.250,3.250,3.250,2.5,1.975,1.825
+61324645,2026-03-07 17:00,FK Jablonec,SK Sigma Olomouc,1,2,2.300,3.100,3.250,2.25,1.950,1.850
+61324651,2026-03-08 12:00,FC Banik Ostrava,FC Zlin,6,2,1.800,3.500,4.500,2.25,1.900,1.900
+61324653,2026-03-08 14:30,FC Hradec Kralove,FC Viktoria Plzen,0,3,3.400,3.250,2.150,2.5,2.000,1.800
+61324655,2026-03-08 14:30,MFK Karvina,FK Pardubice,1,2,2.250,3.500,2.900,2.75,1.900,1.900
+61324649,2026-03-08 17:30,Slavia Prague,Sparta Prague,3,1,1.750,3.400,4.750,2.25,1.800,2.000
+61324659,2026-03-14 14:00,FC Hradec Kralove,FC Banik Ostrava,1,0,2.250,3.200,2.900,2.25,1.775,2.025
+61324667,2026-03-14 14:00,Dukla Prague,FK Jablonec,2,0,3.700,3.100,2.000,2.25,2.000,1.800
+61324673,2026-03-14 14:00,FK Mlada Boleslav,FK Pardubice,2,0,2.450,3.400,2.550,2.75,1.950,1.850
+61324663,2026-03-14 17:00,FC Zlin,Slavia Prague,1,3,7.500,3.800,1.420,2.5,2.025,1.775
+61324665,2026-03-15 12:00,FC Slovan Liberec,FK Teplice,1,1,1.666,3.300,5.250,2.25,1.900,1.900
+61324661,2026-03-15 14:30,FC Viktoria Plzen,Bohemians Prague 1905,2,0,1.444,4.100,6.250,2.75,1.925,1.875
+61324671,2026-03-15 14:30,SK Sigma Olomouc,MFK Karvina,2,2,1.800,3.300,4.100,2.5,1.950,1.850
+61324669,2026-03-15 17:30,Sparta Prague,1. FC Slovacko Uherske Hradiste,5,2,1.400,4.100,7.500,2.75,1.975,1.825
+61324675,2026-03-21 13:00,1. FC Slovacko Uherske Hradiste,Dukla Prague,1,2,,,,,,
+61324677,2026-03-21 13:00,Slavia Prague,SK Sigma Olomouc,2,1,,,,,,
+61324679,2026-03-21 13:00,FK Jablonec,FC Slovan Liberec,1,2,,,,,,
+61324681,2026-03-21 13:00,Bohemians Prague 1905,Sparta Prague,2,0,,,,,,
+61324683,2026-03-21 13:00,FK Pardubice,FC Zlin,3,1,,,,,,
+61324685,2026-03-21 13:00,FC Banik Ostrava,FC Viktoria Plzen,0,1,,,,,,
+61324687,2026-03-21 13:00,FK Teplice,FC Hradec Kralove,0,1,,,,,,
+61324689,2026-03-21 13:00,MFK Karvina,FK Mlada Boleslav,0,3,,,,,,
+61324691,2026-04-04 13:00,Dukla Prague,FK Pardubice,0,2,2.800,3.200,2.400,2.25,1.875,1.925
+61324693,2026-04-04 13:00,SK Sigma Olomouc,FK Mlada Boleslav,2,4,1.750,3.300,4.333,2.5,1.925,1.875
+61324695,2026-04-04 13:00,FC Slovan Liberec,1. FC Slovacko Uherske Hradiste,2,1,1.533,3.900,5.500,2.75,1.900,1.900
+61324699,2026-04-04 13:00,FC Zlin,FK Jablonec,0,3,3.100,3.100,2.200,2,2.000,1.800
+61324701,2026-04-04 16:00,FC Viktoria Plzen,FK Teplice,2,2,1.380,4.200,8.500,2.5,2.000,1.800
+61324703,2026-04-05 11:00,FC Hradec Kralove,Bohemians Prague 1905,2,0,1.950,3.300,3.500,2.25,1.975,1.825
+61324705,2026-04-05 13:30,FC Banik Ostrava,Slavia Prague,0,2,4.750,3.700,1.650,2.75,1.875,1.925
+61324697,2026-04-05 16:30,Sparta Prague,MFK Karvina,2,0,1.285,5.000,8.500,3.25,1.850,1.950
+61324707,2026-04-11 13:00,FK Jablonec,FC Banik Ostrava,2,1,2.000,3.300,3.300,2.5,1.900,1.900
+61324711,2026-04-11 13:00,Bohemians Prague 1905,FC Zlin,1,1,1.615,3.600,5.000,2.25,1.775,2.025
+61324715,2026-04-11 16:00,1. FC Slovacko Uherske Hradiste,FC Hradec Kralove,1,3,2.900,3.100,2.300,2.25,1.900,1.900
+61324717,2026-04-12 11:00,MFK Karvina,FC Slovan Liberec,3,1,3.000,3.400,2.100,2.75,1.975,1.825
+61324713,2026-04-12 13:30,FK Teplice,Sparta Prague,0,1,5.000,3.400,1.700,2.25,1.775,2.025
+61324719,2026-04-12 13:30,FK Pardubice,SK Sigma Olomouc,2,1,2.450,3.100,2.700,2.25,1.900,1.900
+61324721,2026-04-12 13:30,FK Mlada Boleslav,Dukla Prague,1,1,1.750,3.500,4.333,2.5,1.825,1.975
+61324709,2026-04-12 16:30,Slavia Prague,FC Viktoria Plzen,0,0,1.650,3.600,5.000,2.75,1.800,2.000
+61324723,2026-04-18 13:00,FC Banik Ostrava,Bohemians Prague 1905,0,2,2.100,3.400,3.100,2.75,1.975,1.825
+61324727,2026-04-18 13:00,FC Zlin,FK Teplice,3,2,2.450,2.900,2.875,2,1.900,1.900
+61324733,2026-04-18 13:00,Dukla Prague,MFK Karvina,1,2,2.375,3.300,2.700,2.5,1.900,1.900
+61324737,2026-04-18 13:00,FC Slovan Liberec,FK Mlada Boleslav,0,0,1.800,3.400,4.100,2.75,2.000,1.800
+61324729,2026-04-18 16:00,Sparta Prague,FK Jablonec,3,1,1.533,3.700,5.500,2.75,1.950,1.850
+61324731,2026-04-19 11:00,SK Sigma Olomouc,1. FC Slovacko Uherske Hradiste,2,1,1.533,3.800,6.000,2.5,1.825,1.975
+61324725,2026-04-19 13:30,FC Hradec Kralove,Slavia Prague,2,1,4.333,3.400,1.750,2.5,1.900,1.900
+61324735,2026-04-19 16:30,FC Viktoria Plzen,FK Pardubice,0,1,1.400,4.200,7.000,3,1.950,1.850
+71085566,2026-05-02 13:00,FC Banik Ostrava,FK Mlada Boleslav,0,0,1.833,3.600,3.700,2.75,1.875,1.925
+71085568,2026-05-02 13:00,FC Zlin,Dukla Prague,2,1,2.150,3.200,3.200,2.25,1.950,1.850
+71085618,2026-05-02 13:00,MFK Karvina,FK Pardubice,1,2,2.200,3.400,2.900,2.5,1.950,1.850
+71085622,2026-05-02 13:00,Bohemians Prague 1905,SK Sigma Olomouc,1,3,1.950,3.200,3.800,2,1.950,1.850
+71085516,2026-05-02 16:00,FC Slovan Liberec,Slavia Prague,1,2,4.333,3.400,1.750,2.5,1.850,1.950
+71085570,2026-05-03 11:00,FK Teplice,1. FC Slovacko Uherske Hradiste,1,1,2.000,3.250,3.600,2.5,1.800,2.000
+71085518,2026-05-03 13:30,FC Viktoria Plzen,FC Hradec Kralove,3,1,1.420,4.100,7.000,2.75,1.900,1.900
+71085520,2026-05-03 16:30,Sparta Prague,FK Jablonec,2,1,1.700,3.600,4.333,2.75,2.000,1.800
+71085572,2026-05-09 12:00,FK Mlada Boleslav,FC Zlin,1,1,1.700,3.500,4.500,2.75,1.950,1.850
+71085574,2026-05-09 12:00,FK Teplice,FC Banik Ostrava,2,1,2.875,3.100,2.350,2.25,1.950,1.850
+71085576,2026-05-09 12:00,Dukla Prague,1. FC Slovacko Uherske Hradiste,0,1,2.550,3.200,2.550,2.5,1.900,1.900
+71085522,2026-05-09 14:00,FC Viktoria Plzen,FC Slovan Liberec,2,0,1.700,3.500,4.500,3,1.825,1.975
+71085524,2026-05-09 17:00,Slavia Prague,Sparta Prague,3,2,1.571,3.900,5.000,2.5,1.875,1.925
+71085620,2026-05-10 13:00,FK Pardubice,MFK Karvina,1,2,1.950,3.600,3.400,2.75,1.850,1.950
+71085624,2026-05-10 13:00,SK Sigma Olomouc,Bohemians Prague 1905,0,2,1.800,3.400,4.200,2.5,1.825,1.975
+71085526,2026-05-10 16:30,FK Jablonec,FC Hradec Kralove,1,1,2.100,3.400,3.250,2.5,1.975,1.825
+71085578,2026-05-12 15:30,FK Mlada Boleslav,Dukla Prague,1,2,1.900,3.500,3.500,2.75,1.900,1.900
+71085580,2026-05-12 15:30,FC Zlin,FK Teplice,3,4,3.000,3.200,2.200,2.25,1.950,1.850
+71085582,2026-05-12 15:30,1. FC Slovacko Uherske Hradiste,FC Banik Ostrava,2,1,2.250,3.400,2.800,2.5,1.850,1.950
+71085528,2026-05-12 18:00,Sparta Prague,FC Viktoria Plzen,0,0,2.500,3.200,2.625,2.25,1.825,1.975
+71085530,2026-05-13 15:30,FC Hradec Kralove,FC Slovan Liberec,1,0,2.450,3.100,2.800,2.25,1.850,1.950
+71085532,2026-05-13 18:00,Slavia Prague,FK Jablonec,5,1,1.363,4.500,7.000,3,1.950,1.850
+71085584,2026-05-16 15:00,1. FC Slovacko Uherske Hradiste,FK Mlada Boleslav,1,3,1.850,3.500,3.600,2.75,1.900,1.900
+71085586,2026-05-16 15:00,FC Banik Ostrava,FC Zlin,2,0,1.444,4.000,7.000,2.5,1.850,1.950
+71085588,2026-05-16 15:00,FK Teplice,Dukla Prague,2,1,2.350,3.200,2.875,2.25,1.900,1.900
+71438748,2026-05-16 15:00,MFK Karvina,SK Sigma Olomouc,1,3,3.100,3.400,2.150,2.75,1.875,1.925
+71085534,2026-05-17 15:00,FC Hradec Kralove,Slavia Prague,3,1,2.625,3.400,2.400,2.5,1.825,1.975
+71085536,2026-05-17 15:00,FC Slovan Liberec,Sparta Prague,0,2,3.000,3.300,2.150,2.5,1.875,1.925
+71085538,2026-05-17 15:00,FC Viktoria Plzen,FK Jablonec,5,0,1.250,5.750,9.000,3.25,1.950,1.850
+71085590,2026-05-23 12:00,FK Mlada Boleslav,FK Teplice,0,2,1.800,3.700,3.700,3,2.025,1.775
+71085592,2026-05-23 12:00,FC Zlin,1. FC Slovacko Uherske Hradiste,1,0,2.375,3.200,2.750,2.5,1.950,1.850
+71085594,2026-05-23 12:00,Dukla Prague,FC Banik Ostrava,0,3,3.600,3.400,1.850,2.5,2.000,1.800
+71438750,2026-05-23 12:00,SK Sigma Olomouc,MFK Karvina,4,1,1.600,3.800,4.750,3,1.975,1.825
+71085540,2026-05-24 12:00,Slavia Prague,FC Viktoria Plzen,3,0,2.200,3.500,2.800,2.75,1.850,1.950
+71085542,2026-05-24 12:00,Sparta Prague,FC Hradec Kralove,2,1,1.200,6.000,10.000,3.25,1.925,1.875
+71085544,2026-05-24 12:00,FK Jablonec,FC Slovan Liberec,2,1,2.000,3.500,3.300,2.75,1.975,1.825
+71685808,2026-05-26 16:00,FC Banik Ostrava,FC Silon Taborsko,3,0,1.270,5.250,10.000,3,2.025,1.775
+71685812,2026-05-27 16:00,SK Artis Brno,1. FC Slovacko Uherske Hradiste,1,4,3.250,3.200,2.100,2.25,1.800,2.000
+71685810,2026-05-30 11:00,FC Silon Taborsko,FC Banik Ostrava,0,5,4.100,4.000,1.666,2.75,1.800,2.000
+71685814,2026-05-31 11:00,1. FC Slovacko Uherske Hradiste,SK Artis Brno,3,0,1.480,4.333,5.500,2.75,1.775,2.025
+72301574,2026-07-25 15:00,FC Viktoria Plzen,FC Slovan Liberec,1,3,1.500,4.000,5.250,2.75,1.950,1.850
+72301578,2026-07-25 15:00,FK Teplice,Bohemians Prague 1905,3,1,2.250,3.200,2.900,2.25,1.800,2.000
+72301580,2026-07-25 15:00,FC Zlin,FC Banik Ostrava,0,1,3.200,3.300,2.100,2.25,1.800,2.000
+72301566,2026-07-25 18:00,FC Zbrojovka Brno,Sparta Prague,3,1,4.100,3.800,1.650,3,2.025,1.775
+72301576,2026-07-26 13:00,Slavia Prague,1. FC Slovacko Uherske Hradiste,5,1,1.181,5.750,13.000,3,1.850,1.950
+72301570,2026-07-26 15:30,FK Jablonec,SK Sigma Olomouc,2,1,2.500,3.250,2.700,2.5,1.950,1.850
+72301568,2026-07-26 18:00,FC Hradec Kralove,FK Pardubice,2,1,2.050,3.400,3.300,2.5,1.950,1.850
+72587274,2026-07-27 16:00,SK Artis Brno,FK Mlada Boleslav,2,4,3.100,3.400,2.100,2.75,2.000,1.800
+72608104,2026-07-31 17:00,Sparta Prague,FC Zlin,3,1,1.200,6.250,11.000,3.25,1.975,1.825
+72608094,2026-08-01 15:00,FC Slovan Liberec,FK Teplice,0,1,,,,,,
+72608096,2026-08-01 15:00,FC Banik Ostrava,Slavia Prague,0,4,,,,,,
+72608102,2026-08-01 15:00,1. FC Slovacko Uherske Hradiste,SK Artis Brno,1,1,,,,,,
+72608098,2026-08-01 18:00,FC Viktoria Plzen,FC Zbrojovka Brno,1,1,1.450,4.200,5.750,3,2.025,1.775
+72608100,2026-08-02 13:00,SK Sigma Olomouc,FK Mlada Boleslav,2,2,1.850,3.600,3.600,2.75,1.825,1.975
+72608090,2026-08-02 15:30,Bohemians Prague 1905,FC Hradec Kralove,0,0,3.000,3.400,2.150,2.5,1.950,1.850
+72608092,2026-08-02 18:00,FK Pardubice,FK Jablonec,0,2,2.200,3.300,3.000,2.5,1.950,1.850
+72607886,2026-08-07 17:00,FC Zbrojovka Brno,FC Slovan Liberec,0,1,2.600,3.300,2.500,2.5,1.975,1.825
+72607896,2026-08-08 15:00,FK Teplice,FC Viktoria Plzen,5,5,3.700,3.400,1.900,2.5,2.000,1.800
+72607898,2026-08-08 15:00,FC Zlin,Bohemians Prague 1905,0,2,2.350,3.100,2.875,2.25,1.875,1.925
+72607892,2026-08-08 18:00,FK Mlada Boleslav,Sparta Prague,2,0,3.400,3.400,1.950,2.75,1.900,1.900
+72607894,2026-08-09 13:00,Slavia Prague,FK Pardubice,2,1,1.222,5.750,11.000,3.25,1.975,1.825
+72607888,2026-08-09 15:00,FC Hradec Kralove,FC Banik Ostrava,2,1,2.150,3.200,3.200,2.5,1.975,1.825
+72607890,2026-08-09 15:00,FK Jablonec,1. FC Slovacko Uherske Hradiste,1,0,1.750,3.400,4.333,2.25,1.775,2.025
+72607884,2026-08-09 18:00,SK Artis Brno,SK Sigma Olomouc,1,2,4.100,3.700,1.727,2.75,1.950,1.850
+72607904,2026-08-15 15:00,FK Pardubice,FK Mlada Boleslav,1,1,2.250,3.400,2.800,2.75,1.850,1.950
+72607912,2026-08-15 15:00,1. FC Slovacko Uherske Hradiste,SK Sigma Olomouc,1,2,3.250,3.400,2.100,2.5,2.000,1.800
+72607914,2026-08-15 15:00,Sparta Prague,FK Teplice,4,1,1.380,4.500,7.000,3,1.900,1.900
+72607910,2026-08-15 18:00,FC Viktoria Plzen,FC Zlin,3,2,1.270,5.000,9.500,2.75,1.800,2.000
+72607908,2026-08-16 13:00,FC Banik Ostrava,SK Artis Brno,1,0,1.450,4.200,5.750,3,2.025,1.775
+72607906,2026-08-16 18:00,FC Slovan Liberec,Slavia Prague,1,1,4.100,3.700,1.750,2.5,1.800,2.000
+72607916,2026-08-22 15:00,SK Artis Brno,Sparta Prague,0,4,7.000,4.500,1.363,3,1.850,1.950
+72607922,2026-08-22 15:00,FK Mlada Boleslav,1. FC Slovacko Uherske Hradiste,2,1,1.833,3.400,3.900,2.5,1.800,2.000
+72607930,2026-08-22 15:00,FC Zlin,FC Slovan Liberec,0,1,4.100,3.500,1.800,2.5,2.025,1.775
+72607926,2026-08-22 18:00,Slavia Prague,Bohemians Prague 1905,2,2,1.270,5.250,8.000,3.25,1.975,1.825
+72607928,2026-08-23 15:00,FK Teplice,FC Zbrojovka Brno,0,2,2.150,3.100,3.250,2.25,1.875,1.925
+72607924,2026-08-23 18:00,SK Sigma Olomouc,FK Pardubice,3,1,1.800,3.500,4.000,2.75,2.000,1.800
+72607934,2026-08-29 15:00,FC Zbrojovka Brno,FC Zlin,3,2,1.750,3.500,4.500,2.5,1.975,1.825
+72607936,2026-08-29 15:00,FK Pardubice,SK Artis Brno,1,2,1.850,3.300,4.100,2.5,1.850,1.950
+72607940,2026-08-29 18:00,FC Banik Ostrava,SK Sigma Olomouc,1,0,2.500,3.400,2.450,2.75,2.000,1.800
+72607938,2026-08-30 13:00,FC Slovan Liberec,FC Hradec Kralove,2,0,1.800,3.600,4.000,2.5,1.950,1.850
+72607942,2026-08-30 15:00,FC Viktoria Plzen,1. FC Slovacko Uherske Hradiste,1,1,1.300,4.750,9.000,2.75,1.775,2.025
+72607946,2026-08-30 15:00,FK Teplice,FK Jablonec,2,0,2.300,3.100,3.000,2.25,1.850,1.950
+72607944,2026-08-30 18:00,Sparta Prague,Slavia Prague,0,3,2.550,3.400,2.500,2.75,1.925,1.875
+73671736,2026-09-02 16:00,FC Zbrojovka Brno,FC Hradec Kralove,1,0,2.500,3.300,2.550,2.5,1.950,1.850
+73736784,2026-09-02 18:00,Bohemians Prague 1905,FK Jablonec,1,1,2.375,3.250,2.700,2.5,1.950,1.850
+72607956,2026-09-05 13:00,SK Sigma Olomouc,Bohemians Prague 1905,3,0,1.666,3.600,4.500,2.75,1.900,1.900
+72607958,2026-09-05 13:00,Slavia Prague,FC Zbrojovka Brno,4,0,1.285,5.250,8.000,3,1.800,2.000
+72607960,2026-09-05 13:00,1. FC Slovacko Uherske Hradiste,FK Pardubice,0,0,2.350,3.250,2.750,2.5,1.975,1.825
+72607948,2026-09-05 16:00,SK Artis Brno,FC Viktoria Plzen,0,3,5.500,4.500,1.480,3,1.975,1.825
+72607954,2026-09-06 11:00,FK Mlada Boleslav,FC Banik Ostrava,4,0,2.200,3.400,2.750,3,2.025,1.775
+72607952,2026-09-06 13:00,FK Jablonec,FC Slovan Liberec,1,2,2.900,3.100,2.300,2.25,1.950,1.850
+72607962,2026-09-06 13:00,FC Zlin,FK Teplice,1,3,2.600,3.100,2.550,2.25,1.975,1.825
+72607950,2026-09-06 16:00,FC Hradec Kralove,Sparta Prague,2,1,3.000,3.400,2.150,2.75,1.875,1.925
+73853726,2026-09-09 15:00,FK Jablonec,FC Banik Ostrava,3,0,1.800,3.500,4.000,2.5,1.825,1.975
+74280036,2026-09-09 17:00,FC Hradec Kralove,FC Viktoria Plzen,0,0,3.100,3.400,2.100,2.75,2.000,1.800
+72607964,2026-09-12 13:00,Bohemians Prague 1905,1. FC Slovacko Uherske Hradiste,2,0,2.050,3.400,3.300,2.5,1.900,1.900
+72607966,2026-09-12 13:00,FC Zbrojovka Brno,SK Artis Brno,2,1,1.666,3.500,4.500,2.5,1.900,1.900
+72607968,2026-09-12 13:00,FC Slovan Liberec,FK Mlada Boleslav,3,0,1.571,3.900,4.750,3,2.000,1.800
+72607974,2026-09-12 16:00,Sparta Prague,FK Jablonec,2,0,1.571,3.800,5.000,2.75,1.900,1.900
+72607970,2026-09-13 11:00,FC Banik Ostrava,FK Pardubice,1,2,2.100,3.250,3.100,2.5,1.800,2.000
+72607972,2026-09-13 13:00,FC Viktoria Plzen,SK Sigma Olomouc,2,3,1.750,3.600,4.100,2.75,1.900,1.900
+72607978,2026-09-13 13:00,FC Zlin,FC Hradec Kralove,1,2,4.200,3.400,1.800,2.25,1.825,1.975
+72607976,2026-09-13 16:00,FK Teplice,Slavia Prague,0,2,5.250,4.000,1.500,3,1.875,1.925
+72607980,2026-09-19 13:00,SK Artis Brno,FC Slovan Liberec,0,0,4.500,3.600,1.650,2.5,1.825,1.975
+72607982,2026-09-19 13:00,FK Pardubice,Bohemians Prague 1905,2,1,2.050,3.500,3.200,2.75,1.950,1.850
+72607988,2026-09-19 13:00,FK Mlada Boleslav,FC Zbrojovka Brno,2,0,2.450,3.300,2.625,2.75,1.925,1.875
+72607994,2026-09-19 16:00,1. FC Slovacko Uherske Hradiste,FC Banik Ostrava,2,2,2.450,3.300,2.600,,,
+72607984,2026-09-20 11:00,FC Hradec Kralove,FK Teplice,0,2,1.650,3.500,5.000,2.5,1.950,1.850
+72607986,2026-09-20 13:00,FK Jablonec,FC Zlin,1,1,1.480,3.800,6.250,2.5,1.950,1.850
+72607990,2026-09-20 13:00,SK Sigma Olomouc,Sparta Prague,0,3,3.000,3.500,2.100,2.75,1.800,2.000
+72607992,2026-09-20 16:00,Slavia Prague,FC Viktoria Plzen,2,1,1.550,4.000,5.000,3,1.950,1.850
+72608010,2026-10-09 16:00,FC Zlin,Slavia Prague,0,1,9.000,4.750,1.300,3,2.000,1.800
+72607998,2026-10-10 13:00,FC Zbrojovka Brno,FK Jablonec,0,1,2.550,3.200,2.550,2.5,1.925,1.875
+72608000,2026-10-10 13:00,FC Hradec Kralove,SK Artis Brno,2,4,1.615,3.750,4.750,2.75,1.875,1.925
+72608004,2026-10-10 13:00,FC Viktoria Plzen,FK Mlada Boleslav,3,0,1.550,4.000,5.000,3.25,1.850,1.950
+72607996,2026-10-10 16:00,Bohemians Prague 1905,FC Banik Ostrava,1,0,2.200,3.300,3.000,2.75,1.900,1.900
+72608002,2026-10-11 11:00,FC Slovan Liberec,1. FC Slovacko Uherske Hradiste,0,2,1.450,4.000,6.250,2.75,1.950,1.850
+72608008,2026-10-11 13:00,FK Teplice,SK Sigma Olomouc,1,1,2.600,3.250,2.500,2.5,1.900,1.900
+72608006,2026-10-11 16:00,Sparta Prague,FK Pardubice,2,0,1.450,4.200,6.000,3,1.825,1.975
+75339776,2026-10-14 16:00,Bohemians Prague 1905,FK Mlada Boleslav,1,0,2.100,3.700,2.900,3.25,2.025,1.775
+72608014,2026-10-17 13:00,FK Pardubice,FC Zlin,3,0,1.500,4.100,5.750,2.75,1.950,1.850
+72608018,2026-10-17 13:00,FK Mlada Boleslav,FK Teplice,1,0,1.950,3.700,3.250,3,1.875,1.925
+72608024,2026-10-17 13:00,Slavia Prague,FC Hradec Kralove,0,0,1.285,5.000,8.000,3,1.825,1.975
+72608022,2026-10-17 16:00,SK Sigma Olomouc,FC Slovan Liberec,1,0,2.550,3.300,2.550,2.5,1.900,1.900
+72608026,2026-10-18 11:00,1. FC Slovacko Uherske Hradiste,FC Zbrojovka Brno,1,2,2.600,3.250,2.500,2.5,1.950,1.850
+72608020,2026-10-18 13:00,FC Banik Ostrava,Sparta Prague,0,0,4.200,3.900,1.650,3,1.875,1.925
+72608016,2026-10-18 16:00,FK Jablonec,FC Viktoria Plzen,2,3,2.550,3.400,2.450,2.5,1.800,2.000
+72608028,2026-10-24 13:00,FC Zbrojovka Brno,Bohemians Prague 1905,2,2,2.050,3.400,3.250,2.5,1.900,1.900
+72608040,2026-10-24 13:00,FK Teplice,SK Artis Brno,0,0,1.909,3.400,3.600,2.75,2.000,1.800
+72608042,2026-10-24 13:00,FC Zlin,SK Sigma Olomouc,1,1,3.900,3.600,1.800,2.5,1.825,1.975
+72608036,2026-10-24 16:00,Slavia Prague,FK Mlada Boleslav,1,1,1.250,5.500,8.000,3.5,1.850,1.950
+72608030,2026-10-25 12:00,FC Hradec Kralove,FK Jablonec,1,2,2.350,3.250,2.750,2.5,1.900,1.900
+72608038,2026-10-25 14:00,Sparta Prague,1. FC Slovacko Uherske Hradiste,5,1,1.285,5.000,9.000,3,1.850,1.950
+72608034,2026-10-25 17:00,FC Viktoria Plzen,FK Pardubice,1,2,1.650,3.750,4.333,3,1.975,1.825
+72608044,2026-10-31 14:00,SK Artis Brno,FC Zlin,2,2,1.850,3.600,3.600,2.75,1.900,1.900
+72608048,2026-10-31 14:00,FK Pardubice,FC Slovan Liberec,1,2,2.550,3.200,2.550,2.5,1.900,1.900
+72608050,2026-10-31 14:00,FK Jablonec,Slavia Prague,0,5,3.700,3.300,1.909,2.5,1.875,1.925
+72608058,2026-10-31 14:00,1. FC Slovacko Uherske Hradiste,FK Teplice,1,3,2.625,3.250,2.450,2.5,1.800,2.000
+72608056,2026-10-31 17:00,SK Sigma Olomouc,FC Zbrojovka Brno,3,0,2.000,3.300,3.400,2.5,1.850,1.950
+72608052,2026-11-01 12:00,FK Mlada Boleslav,FC Hradec Kralove,3,1,2.350,3.500,2.700,3,2.025,1.775
+72608054,2026-11-01 14:00,FC Banik Ostrava,FC Viktoria Plzen,0,4,3.600,3.600,1.850,3,2.025,1.775
+72608046,2026-11-01 17:00,Bohemians Prague 1905,Sparta Prague,0,0,3.500,3.600,1.909,2.75,1.925,1.875
+76081362,2026-11-04 17:00,SK Artis Brno,Bohemians Prague 1905,1,2,2.375,3.400,2.700,2.5,1.850,1.950
+72608062,2026-11-07 14:00,FC Hradec Kralove,SK Sigma Olomouc,5,0,2.800,3.400,2.200,2.5,1.800,2.000
+72608066,2026-11-07 14:00,FC Slovan Liberec,Bohemians Prague 1905,1,0,1.500,3.900,5.750,2.75,2.000,1.800
+72608074,2026-11-07 14:00,FC Zlin,1. FC Slovacko Uherske Hradiste,0,1,2.625,3.250,2.450,2.5,1.950,1.850
+72608060,2026-11-07 17:00,FC Zbrojovka Brno,FC Banik Ostrava,1,3,1.900,3.400,3.600,2.5,1.850,1.950
+72608072,2026-11-08 12:00,FK Teplice,FK Pardubice,1,4,2.600,3.400,2.400,2.75,1.900,1.900
+72608064,2026-11-08 14:00,FK Jablonec,FK Mlada Boleslav,0,0,1.750,3.600,4.100,2.75,1.850,1.950
+72608070,2026-11-08 14:00,Slavia Prague,SK Artis Brno,4,1,1.142,8.000,15.000,3.5,1.825,1.975
+72608068,2026-11-08 17:00,FC Viktoria Plzen,Sparta Prague,1,1,2.250,3.600,2.750,2.75,1.950,1.850

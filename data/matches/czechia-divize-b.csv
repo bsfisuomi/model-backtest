@@ -1,308 +1,308 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-56008961,2025-05-23 16:00,FC Slavia Karlovy Vary,FK Banik Sokolov,0,0,,,
-56008949,2025-05-24 08:15,SK Hrebec,SK Steti,1,3,,,
-56008951,2025-05-24 08:15,SK Ujezd Praha 4,N. Byskovice,3,1,,,
-56008953,2025-05-24 08:15,FK Olympie Brezova,FK Meteor Prague VIII,1,0,,,
-56008957,2025-05-24 08:15,Tempo Prague,Admira PR B,3,3,,,
-56008977,2025-06-01 08:15,FK Meteor Prague VIII,SK Ujezd Praha 4,4,0,,,
-56008973,2025-06-01 12:00,Admira PR B,FC Predni Kopanina,3,1,,,
-56008995,2025-06-06 17:30,FC Slavia Karlovy Vary,SK Slany,2,0,,,
-56008981,2025-06-07 08:15,N. Byskovice,SK Steti,3,2,,,
-56008983,2025-06-07 08:15,SK Hrebec,FK Meteor Prague VIII,2,1,,,
-56009007,2025-06-14 08:15,Admira PR B,SK Ujezd Praha 4,1,1,,,
-56009009,2025-06-14 08:30,FC Viktoria Marianske Lazne,SK Hrebec,2,2,,,
-56009011,2025-06-15 08:15,FK Meteor Prague VIII,N. Byskovice,0,0,,,
-62047166,2025-08-08 17:00,FC Slavia Karlovy Vary,Tempo Prague,2,2,,,
-62047168,2025-08-09 08:15,FK Banik Sokolov,SK Steti,0,2,,,
-62047174,2025-08-09 15:00,FK Ostrov,Tj Spoje Praha,2,0,,,
-62047176,2025-08-09 15:00,SK Slany,SK Ujezd Praha 4,3,2,,,
-62047178,2025-08-10 08:15,FK Meteor Prague VIII,FC Predni Kopanina,3,1,,,
-62047180,2025-08-10 15:00,FK Seko Louny,SK Rapid Psary,2,2,,,
-62047184,2025-08-16 08:30,Tj Spoje Praha,SK Slany,1,1,,,
-62047186,2025-08-16 08:30,FK Usti Nad Labem II,FK Seko Louny,1,2,,,
-62047188,2025-08-16 15:00,SK Rapid Psary,FK Ostrov,1,2,,,
-62047190,2025-08-16 15:00,FC Predni Kopanina,Tempo Prague,0,4,,,
-62047192,2025-08-16 15:00,FC Chomutov,FC Slavia Karlovy Vary,0,2,,,
-62047194,2025-08-17 08:15,FK Meteor Prague VIII,FC Viktoria Marianske Lazne,0,3,,,
-62047196,2025-08-17 15:00,SK Ujezd Praha 4,FK Banik Sokolov,3,1,,,
-62047198,2025-08-23 08:15,FK Banik Sokolov,Tj Spoje Praha,4,2,,,
-62047204,2025-08-23 15:00,FK Seko Louny,FK Meteor Prague VIII,0,3,,,
-62047212,2025-08-23 16:00,FC Slavia Karlovy Vary,SK Steti,0,0,,,
-62047214,2025-08-30 08:15,SK Steti,Tempo Prague,1,1,,,
-62047216,2025-08-30 08:15,SK Ujezd Praha 4,FC Slavia Karlovy Vary,5,1,,,
-62047224,2025-08-30 15:00,FC Predni Kopanina,FC Chomutov,0,2,,,
-62047226,2025-08-31 08:15,FK Meteor Prague VIII,FK Ostrov,1,1,,,
-62047230,2025-09-06 08:15,FK Banik Sokolov,FK Usti Nad Labem II,1,2,,,
-62047236,2025-09-06 15:00,SK Slany,FK Meteor Prague VIII,0,1,,,
-62047238,2025-09-06 15:00,Tempo Prague,SK Ujezd Praha 4,1,3,,,
-62047240,2025-09-06 15:00,FC Chomutov,SK Steti,2,1,,,
-62047244,2025-09-07 15:00,FK Seko Louny,FC Predni Kopanina,1,1,,,
-62047246,2025-09-13 08:15,SK Ujezd Praha 4,FC Chomutov,3,1,,,
-62047248,2025-09-13 08:30,FC Viktoria Marianske Lazne,SK Slany,1,0,,,
-62047256,2025-09-13 15:00,FC Predni Kopanina,SK Steti,2,3,,,
-62047258,2025-09-14 08:15,FK Meteor Prague VIII,FK Banik Sokolov,1,0,,,
-62047264,2025-09-20 08:15,FK Banik Sokolov,FC Viktoria Marianske Lazne,3,2,,,
-62047274,2025-09-20 14:30,Tempo Prague,SK Rapid Psary,3,1,,,
-62047280,2025-09-27 08:30,FC Viktoria Marianske Lazne,FK Olympie Brezova,4,1,,,
-62047284,2025-09-27 14:30,FC Predni Kopanina,SK Ujezd Praha 4,2,1,,,
-62047290,2025-09-28 08:15,FK Meteor Prague VIII,FC Slavia Karlovy Vary,1,1,,,
-62047292,2025-09-28 14:30,FK Seko Louny,FK Banik Sokolov,2,1,,,
-62047296,2025-10-03 16:30,FC Chomutov,FK Usti Nad Labem II,1,0,,,
-62047300,2025-10-04 08:15,SK Ujezd Praha 4,Tj Spoje Praha,1,1,,,
-62047302,2025-10-04 08:15,FK Banik Sokolov,FK Ostrov,0,2,,,
-62047312,2025-10-11 08:30,FC Viktoria Marianske Lazne,Tempo Prague,1,1,,,
-62047318,2025-10-11 14:00,FC Predni Kopanina,Tj Spoje Praha,1,0,,,
-62047322,2025-10-12 08:15,FK Meteor Prague VIII,FC Chomutov,0,1,,,
-62047326,2025-10-17 16:30,FC Chomutov,FC Viktoria Marianske Lazne,3,1,,,
-62047332,2025-10-18 08:15,FK Banik Sokolov,FC Predni Kopanina,7,0,,,
-62047336,2025-10-18 09:00,Tj Spoje Praha,SK Rapid Psary,4,0,,,
-62047340,2025-10-18 16:00,FC Slavia Karlovy Vary,FK Ostrov,2,0,,,
-62047342,2025-10-25 08:15,FK Banik Sokolov,FK Olympie Brezova,2,0,,,
-62047344,2025-10-25 08:30,FK Usti Nad Labem II,Tj Spoje Praha,1,2,,,
-62047350,2025-10-25 12:30,FK Ostrov,Tempo Prague,0,5,,,
-62047352,2025-10-25 12:30,SK Slany,FC Slavia Karlovy Vary,2,2,,,
-62047354,2025-10-26 09:15,FK Meteor Prague VIII,SK Ujezd Praha 4,1,2,,,
-62047360,2025-10-31 17:30,FC Chomutov,FK Ostrov,1,1,,,
-62047374,2025-11-08 09:15,FK Banik Sokolov,Tempo Prague,5,2,,,
-62047378,2025-11-08 09:30,FC Viktoria Marianske Lazne,Tj Spoje Praha,1,1,,,
-62047380,2025-11-08 13:00,FK Ostrov,SK Steti,1,2,,,
-62047382,2025-11-08 13:00,SK Slany,FC Chomutov,0,2,,,
-62047384,2025-11-08 13:00,FC Predni Kopanina,FK Usti Nad Labem II,0,1,,,
-62047386,2025-11-09 09:15,FK Meteor Prague VIII,SK Rapid Psary,1,1,,,
-62047388,2025-11-09 13:00,FK Seko Louny,SK Ujezd Praha 4,3,6,,,
-62047398,2025-11-15 10:00,Tj Spoje Praha,FK Seko Louny,1,0,,,
-62047390,2025-11-15 12:00,FC Chomutov,FK Banik Sokolov,1,2,,,
-62047402,2025-11-15 12:30,Tempo Prague,FK Olympie Brezova,9,1,,,
-62047404,2025-11-15 15:00,FC Slavia Karlovy Vary,FC Predni Kopanina,4,3,,,
-66606066,2026-03-07 09:15,SK Rapid Psary,FK Seko Louny,3,1,,,
-66606068,2026-03-07 09:15,Tj Spoje Praha,FK Ostrov,0,2,,,
-66606070,2026-03-07 09:15,SK Ujezd Praha 4,SK Slany,0,2,,,
-66606074,2026-03-07 09:15,FC Chomutov,FK Olympie Brezova,2,1,,,
-66606076,2026-03-07 09:15,Tempo Prague,FC Slavia Karlovy Vary,2,0,,,
-66606064,2026-03-07 09:30,FK Usti Nad Labem II,FC Viktoria Marianske Lazne,1,2,,,
-66606062,2026-03-07 15:45,FC Predni Kopanina,FK Meteor Prague VIII,0,1,,,
-66606072,2026-03-08 09:15,SK Steti,FK Banik Sokolov,2,0,,,
-66606160,2026-03-14 09:15,FK Banik Sokolov,SK Ujezd Praha 4,1,1,,,
-66606168,2026-03-14 09:15,FC Viktoria Marianske Lazne,FK Meteor Prague VIII,0,0,,,
-66606166,2026-03-14 09:30,FK Seko Louny,FK Usti Nad Labem II,0,4,4.100,5.000,1.480
-66606154,2026-03-14 13:30,Tempo Prague,FC Predni Kopanina,5,2,,,
-66606162,2026-03-14 13:30,SK Slany,Tj Spoje Praha,0,0,,,
-66606164,2026-03-14 13:30,FK Ostrov,SK Rapid Psary,0,2,,,
-66606156,2026-03-14 16:00,FC Slavia Karlovy Vary,FC Chomutov,2,2,,,
-66606158,2026-03-15 09:15,FK Olympie Brezova,SK Steti,3,2,,,
-66606178,2026-03-21 09:15,Tj Spoje Praha,FK Banik Sokolov,1,2,,,
-66606180,2026-03-21 09:15,SK Ujezd Praha 4,FK Olympie Brezova,6,1,,,
-66606182,2026-03-21 09:15,SK Steti,FC Slavia Karlovy Vary,1,2,,,
-66606174,2026-03-21 09:30,FK Usti Nad Labem II,FK Ostrov,3,4,2.050,3.600,2.800
-66606170,2026-03-21 14:00,FC Predni Kopanina,FC Viktoria Marianske Lazne,1,2,,,
-66606176,2026-03-21 14:00,SK Rapid Psary,SK Slany,0,0,,,
-66606184,2026-03-21 16:00,FC Chomutov,Tempo Prague,1,0,,,
-66606172,2026-03-22 09:15,FK Meteor Prague VIII,FK Seko Louny,3,1,,,
-66606186,2026-03-27 17:30,FC Chomutov,FC Predni Kopanina,4,0,,,
-66606192,2026-03-28 09:15,FK Olympie Brezova,Tj Spoje Praha,3,1,,,
-66606194,2026-03-28 09:15,FK Banik Sokolov,SK Rapid Psary,0,1,,,
-66606188,2026-03-28 14:00,Tempo Prague,SK Steti,2,1,,,
-66606196,2026-03-28 14:00,SK Slany,FK Usti Nad Labem II,0,0,,,
-66606198,2026-03-28 14:00,FK Ostrov,FK Meteor Prague VIII,2,3,,,
-66606200,2026-03-28 14:00,FK Seko Louny,FC Viktoria Marianske Lazne,0,0,,,
-66606190,2026-03-28 17:00,FC Slavia Karlovy Vary,SK Ujezd Praha 4,2,3,,,
-66606204,2026-04-03 08:15,FC Viktoria Marianske Lazne,FK Ostrov,1,2,3.100,4.500,1.750
-66606206,2026-04-03 08:15,FK Meteor Prague VIII,SK Slany,2,0,,,
-66606210,2026-04-03 08:15,SK Rapid Psary,FK Olympie Brezova,2,0,,,
-66606214,2026-04-03 08:15,SK Ujezd Praha 4,Tempo Prague,2,1,,,
-66606216,2026-04-03 08:15,SK Steti,FC Chomutov,0,1,,,
-66606202,2026-04-03 08:30,FC Predni Kopanina,FK Seko Louny,1,2,,,
-66606212,2026-04-04 08:15,Tj Spoje Praha,FC Slavia Karlovy Vary,0,1,,,
-66606208,2026-04-04 08:30,FK Usti Nad Labem II,FK Banik Sokolov,1,2,1.700,4.100,3.750
-66606224,2026-04-10 17:00,FC Slavia Karlovy Vary,SK Rapid Psary,0,1,,,
-66606218,2026-04-11 08:15,SK Steti,FC Predni Kopanina,1,0,,,
-66606226,2026-04-11 08:15,FK Olympie Brezova,FK Usti Nad Labem II,0,0,,,
-66606228,2026-04-11 08:15,FK Banik Sokolov,FK Meteor Prague VIII,2,0,,,
-66606222,2026-04-11 14:30,Tempo Prague,Tj Spoje Praha,1,0,,,
-66606230,2026-04-11 14:30,SK Slany,FC Viktoria Marianske Lazne,0,0,,,
-66606232,2026-04-11 14:30,FK Ostrov,FK Seko Louny,1,2,,,
-66606238,2026-04-17 15:30,FC Viktoria Marianske Lazne,FK Banik Sokolov,0,3,,,
-66606246,2026-04-18 08:15,Tj Spoje Praha,FC Chomutov,1,4,,,
-66606248,2026-04-18 08:15,SK Ujezd Praha 4,SK Steti,2,1,,,
-66606242,2026-04-18 08:30,FK Usti Nad Labem II,FC Slavia Karlovy Vary,5,2,3.300,3.900,1.800
-66606234,2026-04-18 15:00,FC Predni Kopanina,FK Ostrov,0,0,,,
-66606236,2026-04-18 15:00,FK Seko Louny,SK Slany,1,5,,,
-66606244,2026-04-18 15:00,SK Rapid Psary,Tempo Prague,0,0,,,
-66606240,2026-04-19 08:15,FK Meteor Prague VIII,FK Olympie Brezova,3,0,,,
-66606254,2026-04-24 16:30,FC Chomutov,SK Rapid Psary,2,3,,,
-66606250,2026-04-25 08:15,SK Ujezd Praha 4,FC Predni Kopanina,7,1,,,
-66606252,2026-04-25 08:15,SK Steti,Tj Spoje Praha,0,0,,,
-66606260,2026-04-25 08:15,FK Olympie Brezova,FC Viktoria Marianske Lazne,0,0,,,
-66606262,2026-04-25 08:15,FK Banik Sokolov,FK Seko Louny,1,2,,,
-66606256,2026-04-25 15:00,Tempo Prague,FK Usti Nad Labem II,3,1,,,
-66606258,2026-04-25 15:00,FC Slavia Karlovy Vary,FK Meteor Prague VIII,0,0,,,
-66606264,2026-04-25 15:00,SK Slany,FK Ostrov,0,0,,,
-66606270,2026-05-01 08:15,FK Seko Louny,FK Olympie Brezova,3,0,,,
-66606280,2026-05-01 08:15,Tj Spoje Praha,SK Ujezd Praha 4,1,1,,,
-66606266,2026-05-01 15:00,FC Predni Kopanina,SK Slany,3,4,,,
-66606268,2026-05-01 15:00,FK Ostrov,FK Banik Sokolov,1,1,,,
-66606278,2026-05-02 08:15,SK Rapid Psary,SK Steti,5,0,,,
-66606276,2026-05-02 08:30,FK Usti Nad Labem II,FC Chomutov,3,0,2.875,4.100,1.900
-66606274,2026-05-03 08:15,FK Meteor Prague VIII,Tempo Prague,1,2,,,
-70937080,2026-05-05 16:00,FC Chomutov,SK Ujezd Praha 4,3,2,,,
-66606284,2026-05-08 08:15,SK Ujezd Praha 4,SK Rapid Psary,1,1,,,
-66606296,2026-05-08 08:30,FK Banik Sokolov,SK Slany,0,1,,,
-66606288,2026-05-08 15:00,FC Chomutov,FK Meteor Prague VIII,2,1,,,
-66606290,2026-05-08 15:00,Tempo Prague,FC Viktoria Marianske Lazne,2,0,,,
-66606292,2026-05-08 15:00,FC Slavia Karlovy Vary,FK Seko Louny,3,2,,,
-66606282,2026-05-09 08:15,Tj Spoje Praha,FC Predni Kopanina,0,1,,,
-66606286,2026-05-09 08:15,SK Steti,FK Usti Nad Labem II,3,3,2.750,3.750,2.050
-66606294,2026-05-09 08:15,FK Olympie Brezova,FK Ostrov,0,2,,,
-66606306,2026-05-15 15:30,FC Viktoria Marianske Lazne,FC Chomutov,0,3,3.900,4.100,1.650
-66606310,2026-05-16 08:30,FK Usti Nad Labem II,SK Ujezd Praha 4,1,1,2.500,3.900,2.150
-66606298,2026-05-16 15:00,FC Predni Kopanina,FK Banik Sokolov,0,0,,,
-66606300,2026-05-16 15:00,SK Slany,FK Olympie Brezova,5,1,,,
-66606302,2026-05-16 15:00,FK Ostrov,FC Slavia Karlovy Vary,0,0,,,
-66606304,2026-05-16 15:00,FK Seko Louny,Tempo Prague,1,2,4.100,4.500,1.533
-66606312,2026-05-16 15:00,SK Rapid Psary,Tj Spoje Praha,0,0,,,
-66606308,2026-05-17 08:15,FK Meteor Prague VIII,SK Steti,4,2,,,
-66606322,2026-05-22 16:30,FC Chomutov,FK Seko Louny,2,1,1.222,6.500,7.500
-66606326,2026-05-22 17:00,FC Slavia Karlovy Vary,SK Slany,2,2,,,
-66606316,2026-05-23 08:15,Tj Spoje Praha,FK Usti Nad Labem II,3,2,2.000,3.600,2.900
-66606318,2026-05-23 08:15,SK Ujezd Praha 4,FK Meteor Prague VIII,3,1,,,
-66606320,2026-05-23 08:15,SK Steti,FC Viktoria Marianske Lazne,5,3,1.950,3.800,3.000
-66606328,2026-05-23 08:15,FK Olympie Brezova,FK Banik Sokolov,2,4,,,
-66606314,2026-05-23 15:00,SK Rapid Psary,FC Predni Kopanina,0,0,,,
-66606324,2026-05-23 15:00,Tempo Prague,FK Ostrov,1,1,1.615,4.100,4.000
-66606332,2026-05-29 16:00,FK Banik Sokolov,FC Slavia Karlovy Vary,3,4,,,
-66606340,2026-05-30 08:15,FC Viktoria Marianske Lazne,SK Ujezd Praha 4,1,2,5.500,5.000,1.380
-66606344,2026-05-30 08:30,FK Usti Nad Labem II,SK Rapid Psary,0,0,,,
-66606330,2026-05-30 15:00,FC Predni Kopanina,FK Olympie Brezova,2,4,,,
-66606334,2026-05-30 15:00,SK Slany,Tempo Prague,2,1,,,
-66606336,2026-05-30 15:00,FK Ostrov,FC Chomutov,1,0,2.800,3.750,2.050
-66606338,2026-05-30 15:00,FK Seko Louny,SK Steti,0,3,2.200,3.900,2.500
-66606342,2026-05-31 08:15,FK Meteor Prague VIII,Tj Spoje Praha,2,1,,,
-71215834,2026-06-02 16:00,FC Viktoria Marianske Lazne,FC Slavia Karlovy Vary,1,4,,,
-66606356,2026-06-05 17:00,FC Chomutov,SK Slany,4,1,,,
-66606350,2026-06-06 08:15,Tj Spoje Praha,FC Viktoria Marianske Lazne,0,0,,,
-66606352,2026-06-06 08:15,SK Ujezd Praha 4,FK Seko Louny,4,1,1.200,6.250,8.000
-66606354,2026-06-06 08:15,SK Steti,FK Ostrov,0,0,,,
-66606346,2026-06-06 08:30,FK Usti Nad Labem II,FC Predni Kopanina,5,2,,,
-66606348,2026-06-06 15:00,SK Rapid Psary,FK Meteor Prague VIII,0,0,,,
-66606360,2026-06-06 16:00,FC Slavia Karlovy Vary,FK Olympie Brezova,7,0,,,
-66606358,2026-06-07 15:00,Tempo Prague,FK Banik Sokolov,1,1,,,
-66606376,2026-06-10 16:00,Meteor Prague VIII,FK Usti Nad Labem II,2,1,,,
-66606364,2026-06-13 08:15,Brezova,Tempo,0,0,,,
-66606366,2026-06-13 08:15,Sokolov,Chomutov,2,2,,,
-66606372,2026-06-13 08:15,FK Seko Louny,Tj Spoje Praha,0,0,,,
-66606374,2026-06-13 11:30,Marianske Lazne,SK Rapid Psary,1,1,,,
-66606368,2026-06-13 12:00,SK Slany,Steti,0,0,,,
-66606370,2026-06-13 13:00,Ostrov,SK Ujezd Praha 4,0,0,,,
-66606362,2026-06-13 15:00,Kopanina,Slavia Karlovy Vary,0,6,,,
-72654720,2026-08-07 16:30,FC Chomutov,SK Rapid Psary,2,1,1.727,4.000,3.500
-72654722,2026-08-07 17:00,FC Slavia Karlovy Vary,Sokol Hostoun,3,2,2.150,3.750,2.625
-72654718,2026-08-08 08:15,SK Steti,Tj Slovan Velvary,1,2,1.750,4.200,3.250
-72654730,2026-08-08 08:15,FK Banik Sokolov,FK Usti Nad Labem II,6,0,1.750,3.900,3.500
-72654728,2026-08-08 13:00,FC Hvezda Cheb,Brandys Nad Labem,4,3,,,
-72654724,2026-08-08 15:00,SK Slany,SK Ujezd Praha 4,2,2,2.300,4.333,2.200
-72654726,2026-08-08 15:00,FK Ostrov,Tempo Prague,2,3,2.625,3.600,2.200
-72654732,2026-08-09 08:15,FK Meteor Prague VIII,FC Slavoj Vysehrad,1,0,1.420,5.000,4.750
-72654734,2026-08-15 08:15,Brandys Nad Labem,FC Slavia Karlovy Vary,4,3,2.250,3.750,2.500
-72654736,2026-08-15 08:15,SK Ujezd Praha 4,FC Hvezda Cheb,4,0,,,
-72654740,2026-08-15 08:15,FK Banik Sokolov,FC Chomutov,0,1,2.050,3.800,2.700
-72654742,2026-08-15 08:15,FC Slavoj Vysehrad,SK Steti,3,1,,,
-72654738,2026-08-15 08:30,FK Usti Nad Labem II,Tempo Prague,1,1,,,
-72654744,2026-08-15 15:00,SK Rapid Psary,FK Meteor Prague VIII,3,0,2.200,3.700,2.625
-72654746,2026-08-15 15:00,Tj Slovan Velvary,SK Slany,1,1,3.700,4.200,1.650
-72654748,2026-08-16 15:00,Sokol Hostoun,FK Ostrov,6,0,1.420,4.333,5.250
-72654760,2026-08-21 16:00,FC Hvezda Cheb,Tj Slovan Velvary,3,4,3.400,3.700,1.833
-72654758,2026-08-21 16:30,FC Chomutov,FK Usti Nad Labem II,5,0,1.333,4.500,6.500
-72654750,2026-08-22 08:15,SK Steti,SK Rapid Psary,1,0,4.500,4.100,1.533
-72654752,2026-08-22 08:15,Tempo Prague,Sokol Hostoun,1,2,2.800,3.600,2.100
-72654754,2026-08-22 15:00,SK Slany,FC Slavoj Vysehrad,9,1,1.600,4.750,3.750
-72654756,2026-08-22 16:00,FC Slavia Karlovy Vary,SK Ujezd Praha 4,4,1,2.000,3.900,2.800
-72654766,2026-08-29 08:15,Brandys Nad Labem,Tempo Prague,1,2,2.450,3.800,2.250
-72654768,2026-08-29 08:15,SK Ujezd Praha 4,FK Ostrov,3,2,1.444,4.500,5.250
-72654778,2026-08-29 08:15,FC Chomutov,FK Meteor Prague VIII,4,0,1.615,4.000,4.000
-72654780,2026-08-29 08:15,FC Slavoj Vysehrad,FC Hvezda Cheb,1,2,1.600,3.900,4.500
-72654770,2026-08-29 08:30,FK Usti Nad Labem II,Sokol Hostoun,0,4,6.000,4.750,1.363
-72654774,2026-08-29 15:00,SK Rapid Psary,SK Slany,2,1,2.100,3.800,2.700
-72654776,2026-08-29 15:00,Tj Slovan Velvary,FC Slavia Karlovy Vary,2,1,2.500,3.700,2.250
-72654772,2026-08-30 08:15,FK Banik Sokolov,SK Steti,3,1,,,
-72654782,2026-09-05 08:15,SK Steti,FC Chomutov,1,2,4.750,4.200,1.480
-72654784,2026-09-05 15:00,SK Slany,FK Banik Sokolov,1,2,2.050,3.800,2.800
-72654786,2026-09-05 15:00,Tempo Prague,SK Ujezd Praha 4,1,2,2.050,3.800,2.750
-72654788,2026-09-05 15:00,FC Slavia Karlovy Vary,FC Slavoj Vysehrad,3,4,1.444,4.750,4.750
-72654792,2026-09-05 15:00,FC Hvezda Cheb,SK Rapid Psary,1,5,,,
-72654794,2026-09-06 08:15,FK Meteor Prague VIII,FK Usti Nad Labem II,1,3,1.550,4.500,4.000
-72654790,2026-09-06 13:30,FK Ostrov,Tj Slovan Velvary,3,1,2.400,3.900,2.350
-72654796,2026-09-06 15:00,Sokol Hostoun,Brandys Nad Labem,4,2,1.333,5.250,6.000
-72654798,2026-09-12 08:15,SK Ujezd Praha 4,Sokol Hostoun,0,2,2.875,3.900,2.000
-72654802,2026-09-12 08:15,FK Banik Sokolov,FC Hvezda Cheb,3,1,1.250,6.000,7.000
-72654804,2026-09-12 08:15,SK Rapid Psary,FC Slavia Karlovy Vary,1,2,,,
-72654810,2026-09-12 08:15,FC Slavoj Vysehrad,FK Ostrov,2,2,1.727,4.100,3.500
-72654800,2026-09-12 08:30,FK Usti Nad Labem II,Brandys Nad Labem,2,4,1.650,4.500,3.600
-72654806,2026-09-12 15:00,Tj Slovan Velvary,Tempo Prague,2,1,2.400,3.750,2.300
-72654808,2026-09-12 15:00,FC Chomutov,SK Slany,0,2,1.800,3.900,3.500
-72654812,2026-09-13 08:15,FK Meteor Prague VIII,SK Steti,2,2,1.500,4.500,4.500
-72654818,2026-09-18 17:00,FC Slavia Karlovy Vary,FK Banik Sokolov,2,0,2.050,4.000,2.625
-72654814,2026-09-19 08:15,SK Steti,FK Usti Nad Labem II,2,1,1.650,4.333,3.500
-72654816,2026-09-19 08:15,Brandys Nad Labem,SK Ujezd Praha 4,1,2,2.500,4.000,2.150
-72654820,2026-09-19 14:30,Tempo Prague,FC Slavoj Vysehrad,2,1,1.666,4.333,3.500
-72654822,2026-09-19 14:30,SK Slany,FK Meteor Prague VIII,0,2,1.700,4.200,3.400
-72654824,2026-09-19 14:30,FK Ostrov,SK Rapid Psary,1,3,,,
-72654826,2026-09-19 14:30,FC Hvezda Cheb,FC Chomutov,1,3,5.000,4.750,1.420
-72654828,2026-09-20 14:30,Sokol Hostoun,Tj Slovan Velvary,5,1,1.380,4.750,5.500
-73963662,2026-09-23 14:30,FK Meteor Prague VIII,FK Banik Sokolov,0,1,2.625,3.900,2.050
-74269358,2026-09-23 14:30,FK Ostrov,Brandys Nad Labem,2,3,2.150,3.900,2.550
-72654842,2026-09-25 14:30,FC Slavoj Vysehrad,Sokol Hostoun,1,2,5.000,4.200,1.480
-72654840,2026-09-25 16:30,FC Chomutov,FC Slavia Karlovy Vary,1,0,1.533,4.500,4.200
-72654830,2026-09-26 08:15,SK Steti,SK Slany,3,0,,,
-72654834,2026-09-26 08:15,FK Banik Sokolov,FK Ostrov,1,2,1.333,5.000,6.000
-72654836,2026-09-26 08:15,SK Rapid Psary,Tempo Prague,3,2,,,
-72654832,2026-09-26 08:30,FK Usti Nad Labem II,SK Ujezd Praha 4,1,1,3.000,4.100,1.900
-72654838,2026-09-26 14:30,Tj Slovan Velvary,Brandys Nad Labem,0,2,1.909,3.900,3.000
-72654844,2026-09-27 08:15,FK Meteor Prague VIII,FC Hvezda Cheb,7,2,1.380,4.333,6.250
-72654846,2026-10-03 08:15,Brandys Nad Labem,FC Slavoj Vysehrad,5,2,1.750,4.000,3.250
-72654848,2026-10-03 08:15,SK Ujezd Praha 4,Tj Slovan Velvary,2,1,1.444,4.500,5.000
-72654852,2026-10-03 14:00,SK Slany,FK Usti Nad Labem II,2,0,,,
-72654854,2026-10-03 14:00,Tempo Prague,FK Banik Sokolov,4,1,2.050,3.800,2.700
-72654856,2026-10-03 14:00,FK Ostrov,FC Chomutov,2,1,,,
-72654850,2026-10-03 15:00,FC Slavia Karlovy Vary,FK Meteor Prague VIII,2,3,1.909,3.900,3.000
-72654858,2026-10-03 15:00,FC Hvezda Cheb,SK Steti,1,1,,,
-72654860,2026-10-04 14:00,Sokol Hostoun,SK Rapid Psary,1,1,1.615,4.500,3.700
-72654862,2026-10-10 08:15,SK Steti,FC Slavia Karlovy Vary,2,2,,,
-72654868,2026-10-10 08:15,FK Banik Sokolov,Sokol Hostoun,2,1,3.250,3.800,1.833
-72654872,2026-10-10 08:15,FC Slavoj Vysehrad,SK Ujezd Praha 4,2,4,3.200,4.000,1.833
-72654864,2026-10-10 08:30,FK Usti Nad Labem II,Tj Slovan Velvary,0,0,2.150,3.750,2.625
-72654866,2026-10-10 14:00,SK Rapid Psary,Brandys Nad Labem,5,1,,,
-72654870,2026-10-10 14:00,FC Chomutov,Tempo Prague,2,2,,,
-72654874,2026-10-10 14:00,SK Slany,FC Hvezda Cheb,3,0,,,
-72654876,2026-10-11 08:15,FK Meteor Prague VIII,FK Ostrov,3,0,1.727,4.000,3.500
-72654878,2026-10-17 08:15,Brandys Nad Labem,FK Banik Sokolov,3,1,2.875,3.800,2.000
-72654880,2026-10-17 08:15,SK Ujezd Praha 4,SK Rapid Psary,2,2,2.000,3.800,2.875
-72654890,2026-10-17 12:00,FK Ostrov,SK Steti,1,4,2.100,3.750,2.700
-72654882,2026-10-17 13:30,Tj Slovan Velvary,FC Slavoj Vysehrad,0,3,,,
-72654884,2026-10-17 13:30,FC Slavia Karlovy Vary,SK Slany,1,1,,,
-72654886,2026-10-17 13:30,Tempo Prague,FK Meteor Prague VIII,4,2,1.650,4.000,3.900
-72654888,2026-10-17 15:00,FC Hvezda Cheb,FK Usti Nad Labem II,6,0,,,
-72654892,2026-10-18 13:30,Sokol Hostoun,FC Chomutov,1,3,1.800,3.700,3.400
-72654898,2026-10-23 17:00,FC Hvezda Cheb,FC Slavia Karlovy Vary,1,2,3.200,4.500,1.700
-72654894,2026-10-24 08:15,SK Steti,Tempo Prague,1,0,2.625,3.800,2.150
-72654900,2026-10-24 08:15,FK Banik Sokolov,SK Ujezd Praha 4,2,3,2.100,3.800,2.625
-72654896,2026-10-24 08:30,FK Usti Nad Labem II,FC Slavoj Vysehrad,4,1,1.850,4.100,3.000
-72654902,2026-10-24 12:30,SK Rapid Psary,Tj Slovan Velvary,3,1,1.200,5.750,9.500
-72654904,2026-10-24 12:30,FC Chomutov,Brandys Nad Labem,1,0,1.363,5.000,5.500
-72654906,2026-10-24 12:30,SK Slany,FK Ostrov,4,0,,,
-72654908,2026-10-25 09:15,FK Meteor Prague VIII,Sokol Hostoun,2,4,3.400,4.500,1.666
-72654910,2026-10-31 09:15,Brandys Nad Labem,FK Meteor Prague VIII,3,0,1.800,4.333,3.000
-72654912,2026-10-31 09:15,SK Ujezd Praha 4,FC Chomutov,1,2,2.350,3.800,2.350
-72654920,2026-10-31 09:15,FC Slavoj Vysehrad,SK Rapid Psary,1,2,4.750,5.000,1.420
-72654918,2026-10-31 09:30,Tempo Prague,SK Slany,2,2,1.850,4.100,3.000
-72654914,2026-10-31 13:00,Tj Slovan Velvary,FK Banik Sokolov,2,4,2.700,3.900,2.050
-72654922,2026-10-31 13:00,FK Ostrov,FC Hvezda Cheb,3,0,1.850,3.900,3.100
-72654916,2026-10-31 16:00,FC Slavia Karlovy Vary,FK Usti Nad Labem II,4,0,,,
-72654924,2026-11-01 13:00,Sokol Hostoun,SK Steti,5,1,1.250,5.500,7.500
-72654934,2026-11-06 17:30,FC Chomutov,Tj Slovan Velvary,3,1,1.250,6.000,7.000
-72654926,2026-11-07 09:15,SK Steti,Brandys Nad Labem,0,4,2.400,3.750,2.350
-72654930,2026-11-07 09:15,FK Banik Sokolov,FC Slavoj Vysehrad,4,1,1.480,4.750,4.500
-72654928,2026-11-07 09:30,FK Usti Nad Labem II,SK Rapid Psary,2,1,,,
-72654938,2026-11-07 13:00,SK Slany,Sokol Hostoun,1,2,3.800,4.000,1.666
-72654932,2026-11-07 16:00,FC Hvezda Cheb,Tempo Prague,0,3,3.700,4.200,1.650
-72654936,2026-11-08 09:15,FC Slavia Karlovy Vary,FK Ostrov,1,1,1.444,4.500,5.000
-72654940,2026-11-08 09:15,FK Meteor Prague VIII,SK Ujezd Praha 4,1,3,2.625,4.000,2.100
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+56008961,2025-05-23 16:00,FC Slavia Karlovy Vary,FK Banik Sokolov,0,0,,,,,,
+56008949,2025-05-24 08:15,SK Hrebec,SK Steti,1,3,,,,,,
+56008951,2025-05-24 08:15,SK Ujezd Praha 4,N. Byskovice,3,1,,,,,,
+56008953,2025-05-24 08:15,FK Olympie Brezova,FK Meteor Prague VIII,1,0,,,,,,
+56008957,2025-05-24 08:15,Tempo Prague,Admira PR B,3,3,,,,,,
+56008977,2025-06-01 08:15,FK Meteor Prague VIII,SK Ujezd Praha 4,4,0,,,,,,
+56008973,2025-06-01 12:00,Admira PR B,FC Predni Kopanina,3,1,,,,,,
+56008995,2025-06-06 17:30,FC Slavia Karlovy Vary,SK Slany,2,0,,,,,,
+56008981,2025-06-07 08:15,N. Byskovice,SK Steti,3,2,,,,,,
+56008983,2025-06-07 08:15,SK Hrebec,FK Meteor Prague VIII,2,1,,,,,,
+56009007,2025-06-14 08:15,Admira PR B,SK Ujezd Praha 4,1,1,,,,,,
+56009009,2025-06-14 08:30,FC Viktoria Marianske Lazne,SK Hrebec,2,2,,,,,,
+56009011,2025-06-15 08:15,FK Meteor Prague VIII,N. Byskovice,0,0,,,,,,
+62047166,2025-08-08 17:00,FC Slavia Karlovy Vary,Tempo Prague,2,2,,,,,,
+62047168,2025-08-09 08:15,FK Banik Sokolov,SK Steti,0,2,,,,,,
+62047174,2025-08-09 15:00,FK Ostrov,Tj Spoje Praha,2,0,,,,,,
+62047176,2025-08-09 15:00,SK Slany,SK Ujezd Praha 4,3,2,,,,,,
+62047178,2025-08-10 08:15,FK Meteor Prague VIII,FC Predni Kopanina,3,1,,,,,,
+62047180,2025-08-10 15:00,FK Seko Louny,SK Rapid Psary,2,2,,,,,,
+62047184,2025-08-16 08:30,Tj Spoje Praha,SK Slany,1,1,,,,,,
+62047186,2025-08-16 08:30,FK Usti Nad Labem II,FK Seko Louny,1,2,,,,,,
+62047188,2025-08-16 15:00,SK Rapid Psary,FK Ostrov,1,2,,,,,,
+62047190,2025-08-16 15:00,FC Predni Kopanina,Tempo Prague,0,4,,,,,,
+62047192,2025-08-16 15:00,FC Chomutov,FC Slavia Karlovy Vary,0,2,,,,,,
+62047194,2025-08-17 08:15,FK Meteor Prague VIII,FC Viktoria Marianske Lazne,0,3,,,,,,
+62047196,2025-08-17 15:00,SK Ujezd Praha 4,FK Banik Sokolov,3,1,,,,,,
+62047198,2025-08-23 08:15,FK Banik Sokolov,Tj Spoje Praha,4,2,,,,,,
+62047204,2025-08-23 15:00,FK Seko Louny,FK Meteor Prague VIII,0,3,,,,,,
+62047212,2025-08-23 16:00,FC Slavia Karlovy Vary,SK Steti,0,0,,,,,,
+62047214,2025-08-30 08:15,SK Steti,Tempo Prague,1,1,,,,,,
+62047216,2025-08-30 08:15,SK Ujezd Praha 4,FC Slavia Karlovy Vary,5,1,,,,,,
+62047224,2025-08-30 15:00,FC Predni Kopanina,FC Chomutov,0,2,,,,,,
+62047226,2025-08-31 08:15,FK Meteor Prague VIII,FK Ostrov,1,1,,,,,,
+62047230,2025-09-06 08:15,FK Banik Sokolov,FK Usti Nad Labem II,1,2,,,,,,
+62047236,2025-09-06 15:00,SK Slany,FK Meteor Prague VIII,0,1,,,,,,
+62047238,2025-09-06 15:00,Tempo Prague,SK Ujezd Praha 4,1,3,,,,,,
+62047240,2025-09-06 15:00,FC Chomutov,SK Steti,2,1,,,,,,
+62047244,2025-09-07 15:00,FK Seko Louny,FC Predni Kopanina,1,1,,,,,,
+62047246,2025-09-13 08:15,SK Ujezd Praha 4,FC Chomutov,3,1,,,,,,
+62047248,2025-09-13 08:30,FC Viktoria Marianske Lazne,SK Slany,1,0,,,,,,
+62047256,2025-09-13 15:00,FC Predni Kopanina,SK Steti,2,3,,,,,,
+62047258,2025-09-14 08:15,FK Meteor Prague VIII,FK Banik Sokolov,1,0,,,,,,
+62047264,2025-09-20 08:15,FK Banik Sokolov,FC Viktoria Marianske Lazne,3,2,,,,,,
+62047274,2025-09-20 14:30,Tempo Prague,SK Rapid Psary,3,1,,,,,,
+62047280,2025-09-27 08:30,FC Viktoria Marianske Lazne,FK Olympie Brezova,4,1,,,,,,
+62047284,2025-09-27 14:30,FC Predni Kopanina,SK Ujezd Praha 4,2,1,,,,,,
+62047290,2025-09-28 08:15,FK Meteor Prague VIII,FC Slavia Karlovy Vary,1,1,,,,,,
+62047292,2025-09-28 14:30,FK Seko Louny,FK Banik Sokolov,2,1,,,,,,
+62047296,2025-10-03 16:30,FC Chomutov,FK Usti Nad Labem II,1,0,,,,,,
+62047300,2025-10-04 08:15,SK Ujezd Praha 4,Tj Spoje Praha,1,1,,,,,,
+62047302,2025-10-04 08:15,FK Banik Sokolov,FK Ostrov,0,2,,,,,,
+62047312,2025-10-11 08:30,FC Viktoria Marianske Lazne,Tempo Prague,1,1,,,,,,
+62047318,2025-10-11 14:00,FC Predni Kopanina,Tj Spoje Praha,1,0,,,,,,
+62047322,2025-10-12 08:15,FK Meteor Prague VIII,FC Chomutov,0,1,,,,,,
+62047326,2025-10-17 16:30,FC Chomutov,FC Viktoria Marianske Lazne,3,1,,,,,,
+62047332,2025-10-18 08:15,FK Banik Sokolov,FC Predni Kopanina,7,0,,,,,,
+62047336,2025-10-18 09:00,Tj Spoje Praha,SK Rapid Psary,4,0,,,,,,
+62047340,2025-10-18 16:00,FC Slavia Karlovy Vary,FK Ostrov,2,0,,,,,,
+62047342,2025-10-25 08:15,FK Banik Sokolov,FK Olympie Brezova,2,0,,,,,,
+62047344,2025-10-25 08:30,FK Usti Nad Labem II,Tj Spoje Praha,1,2,,,,,,
+62047350,2025-10-25 12:30,FK Ostrov,Tempo Prague,0,5,,,,,,
+62047352,2025-10-25 12:30,SK Slany,FC Slavia Karlovy Vary,2,2,,,,,,
+62047354,2025-10-26 09:15,FK Meteor Prague VIII,SK Ujezd Praha 4,1,2,,,,,,
+62047360,2025-10-31 17:30,FC Chomutov,FK Ostrov,1,1,,,,,,
+62047374,2025-11-08 09:15,FK Banik Sokolov,Tempo Prague,5,2,,,,,,
+62047378,2025-11-08 09:30,FC Viktoria Marianske Lazne,Tj Spoje Praha,1,1,,,,,,
+62047380,2025-11-08 13:00,FK Ostrov,SK Steti,1,2,,,,,,
+62047382,2025-11-08 13:00,SK Slany,FC Chomutov,0,2,,,,,,
+62047384,2025-11-08 13:00,FC Predni Kopanina,FK Usti Nad Labem II,0,1,,,,,,
+62047386,2025-11-09 09:15,FK Meteor Prague VIII,SK Rapid Psary,1,1,,,,,,
+62047388,2025-11-09 13:00,FK Seko Louny,SK Ujezd Praha 4,3,6,,,,,,
+62047398,2025-11-15 10:00,Tj Spoje Praha,FK Seko Louny,1,0,,,,,,
+62047390,2025-11-15 12:00,FC Chomutov,FK Banik Sokolov,1,2,,,,,,
+62047402,2025-11-15 12:30,Tempo Prague,FK Olympie Brezova,9,1,,,,,,
+62047404,2025-11-15 15:00,FC Slavia Karlovy Vary,FC Predni Kopanina,4,3,,,,,,
+66606066,2026-03-07 09:15,SK Rapid Psary,FK Seko Louny,3,1,,,,,,
+66606068,2026-03-07 09:15,Tj Spoje Praha,FK Ostrov,0,2,,,,,,
+66606070,2026-03-07 09:15,SK Ujezd Praha 4,SK Slany,0,2,,,,,,
+66606074,2026-03-07 09:15,FC Chomutov,FK Olympie Brezova,2,1,,,,,,
+66606076,2026-03-07 09:15,Tempo Prague,FC Slavia Karlovy Vary,2,0,,,,,,
+66606064,2026-03-07 09:30,FK Usti Nad Labem II,FC Viktoria Marianske Lazne,1,2,,,,,,
+66606062,2026-03-07 15:45,FC Predni Kopanina,FK Meteor Prague VIII,0,1,,,,,,
+66606072,2026-03-08 09:15,SK Steti,FK Banik Sokolov,2,0,,,,,,
+66606160,2026-03-14 09:15,FK Banik Sokolov,SK Ujezd Praha 4,1,1,,,,,,
+66606168,2026-03-14 09:15,FC Viktoria Marianske Lazne,FK Meteor Prague VIII,0,0,,,,,,
+66606166,2026-03-14 09:30,FK Seko Louny,FK Usti Nad Labem II,0,4,4.100,5.000,1.480,3,1.775,2.025
+66606154,2026-03-14 13:30,Tempo Prague,FC Predni Kopanina,5,2,,,,,,
+66606162,2026-03-14 13:30,SK Slany,Tj Spoje Praha,0,0,,,,,,
+66606164,2026-03-14 13:30,FK Ostrov,SK Rapid Psary,0,2,,,,,,
+66606156,2026-03-14 16:00,FC Slavia Karlovy Vary,FC Chomutov,2,2,,,,,,
+66606158,2026-03-15 09:15,FK Olympie Brezova,SK Steti,3,2,,,,,,
+66606178,2026-03-21 09:15,Tj Spoje Praha,FK Banik Sokolov,1,2,,,,,,
+66606180,2026-03-21 09:15,SK Ujezd Praha 4,FK Olympie Brezova,6,1,,,,,,
+66606182,2026-03-21 09:15,SK Steti,FC Slavia Karlovy Vary,1,2,,,,,,
+66606174,2026-03-21 09:30,FK Usti Nad Labem II,FK Ostrov,3,4,2.050,3.600,2.800,3,2.000,1.800
+66606170,2026-03-21 14:00,FC Predni Kopanina,FC Viktoria Marianske Lazne,1,2,,,,,,
+66606176,2026-03-21 14:00,SK Rapid Psary,SK Slany,0,0,,,,,,
+66606184,2026-03-21 16:00,FC Chomutov,Tempo Prague,1,0,,,,,,
+66606172,2026-03-22 09:15,FK Meteor Prague VIII,FK Seko Louny,3,1,,,,,,
+66606186,2026-03-27 17:30,FC Chomutov,FC Predni Kopanina,4,0,,,,,,
+66606192,2026-03-28 09:15,FK Olympie Brezova,Tj Spoje Praha,3,1,,,,,,
+66606194,2026-03-28 09:15,FK Banik Sokolov,SK Rapid Psary,0,1,,,,,,
+66606188,2026-03-28 14:00,Tempo Prague,SK Steti,2,1,,,,,,
+66606196,2026-03-28 14:00,SK Slany,FK Usti Nad Labem II,0,0,,,,,,
+66606198,2026-03-28 14:00,FK Ostrov,FK Meteor Prague VIII,2,3,,,,,,
+66606200,2026-03-28 14:00,FK Seko Louny,FC Viktoria Marianske Lazne,0,0,,,,,,
+66606190,2026-03-28 17:00,FC Slavia Karlovy Vary,SK Ujezd Praha 4,2,3,,,,,,
+66606204,2026-04-03 08:15,FC Viktoria Marianske Lazne,FK Ostrov,1,2,3.100,4.500,1.750,3.75,1.950,1.850
+66606206,2026-04-03 08:15,FK Meteor Prague VIII,SK Slany,2,0,,,,,,
+66606210,2026-04-03 08:15,SK Rapid Psary,FK Olympie Brezova,2,0,,,,,,
+66606214,2026-04-03 08:15,SK Ujezd Praha 4,Tempo Prague,2,1,,,,,,
+66606216,2026-04-03 08:15,SK Steti,FC Chomutov,0,1,,,,,,
+66606202,2026-04-03 08:30,FC Predni Kopanina,FK Seko Louny,1,2,,,,,,
+66606212,2026-04-04 08:15,Tj Spoje Praha,FC Slavia Karlovy Vary,0,1,,,,,,
+66606208,2026-04-04 08:30,FK Usti Nad Labem II,FK Banik Sokolov,1,2,1.700,4.100,3.750,3.25,2.000,1.800
+66606224,2026-04-10 17:00,FC Slavia Karlovy Vary,SK Rapid Psary,0,1,,,,,,
+66606218,2026-04-11 08:15,SK Steti,FC Predni Kopanina,1,0,,,,,,
+66606226,2026-04-11 08:15,FK Olympie Brezova,FK Usti Nad Labem II,0,0,,,,,,
+66606228,2026-04-11 08:15,FK Banik Sokolov,FK Meteor Prague VIII,2,0,,,,,,
+66606222,2026-04-11 14:30,Tempo Prague,Tj Spoje Praha,1,0,,,,,,
+66606230,2026-04-11 14:30,SK Slany,FC Viktoria Marianske Lazne,0,0,,,,,,
+66606232,2026-04-11 14:30,FK Ostrov,FK Seko Louny,1,2,,,,,,
+66606238,2026-04-17 15:30,FC Viktoria Marianske Lazne,FK Banik Sokolov,0,3,,,,,,
+66606246,2026-04-18 08:15,Tj Spoje Praha,FC Chomutov,1,4,,,,,,
+66606248,2026-04-18 08:15,SK Ujezd Praha 4,SK Steti,2,1,,,,,,
+66606242,2026-04-18 08:30,FK Usti Nad Labem II,FC Slavia Karlovy Vary,5,2,3.300,3.900,1.800,3,1.975,1.825
+66606234,2026-04-18 15:00,FC Predni Kopanina,FK Ostrov,0,0,,,,,,
+66606236,2026-04-18 15:00,FK Seko Louny,SK Slany,1,5,,,,,,
+66606244,2026-04-18 15:00,SK Rapid Psary,Tempo Prague,0,0,,,,,,
+66606240,2026-04-19 08:15,FK Meteor Prague VIII,FK Olympie Brezova,3,0,,,,,,
+66606254,2026-04-24 16:30,FC Chomutov,SK Rapid Psary,2,3,,,,,,
+66606250,2026-04-25 08:15,SK Ujezd Praha 4,FC Predni Kopanina,7,1,,,,,,
+66606252,2026-04-25 08:15,SK Steti,Tj Spoje Praha,0,0,,,,,,
+66606260,2026-04-25 08:15,FK Olympie Brezova,FC Viktoria Marianske Lazne,0,0,,,,,,
+66606262,2026-04-25 08:15,FK Banik Sokolov,FK Seko Louny,1,2,,,,,,
+66606256,2026-04-25 15:00,Tempo Prague,FK Usti Nad Labem II,3,1,,,,,,
+66606258,2026-04-25 15:00,FC Slavia Karlovy Vary,FK Meteor Prague VIII,0,0,,,,,,
+66606264,2026-04-25 15:00,SK Slany,FK Ostrov,0,0,,,,,,
+66606270,2026-05-01 08:15,FK Seko Louny,FK Olympie Brezova,3,0,,,,,,
+66606280,2026-05-01 08:15,Tj Spoje Praha,SK Ujezd Praha 4,1,1,,,,,,
+66606266,2026-05-01 15:00,FC Predni Kopanina,SK Slany,3,4,,,,,,
+66606268,2026-05-01 15:00,FK Ostrov,FK Banik Sokolov,1,1,,,,,,
+66606278,2026-05-02 08:15,SK Rapid Psary,SK Steti,5,0,,,,,,
+66606276,2026-05-02 08:30,FK Usti Nad Labem II,FC Chomutov,3,0,2.875,4.100,1.900,3.25,1.800,2.000
+66606274,2026-05-03 08:15,FK Meteor Prague VIII,Tempo Prague,1,2,,,,,,
+70937080,2026-05-05 16:00,FC Chomutov,SK Ujezd Praha 4,3,2,,,,,,
+66606284,2026-05-08 08:15,SK Ujezd Praha 4,SK Rapid Psary,1,1,,,,,,
+66606296,2026-05-08 08:30,FK Banik Sokolov,SK Slany,0,1,,,,,,
+66606288,2026-05-08 15:00,FC Chomutov,FK Meteor Prague VIII,2,1,,,,,,
+66606290,2026-05-08 15:00,Tempo Prague,FC Viktoria Marianske Lazne,2,0,,,,,,
+66606292,2026-05-08 15:00,FC Slavia Karlovy Vary,FK Seko Louny,3,2,,,,,,
+66606282,2026-05-09 08:15,Tj Spoje Praha,FC Predni Kopanina,0,1,,,,,,
+66606286,2026-05-09 08:15,SK Steti,FK Usti Nad Labem II,3,3,2.750,3.750,2.050,3.25,2.000,1.800
+66606294,2026-05-09 08:15,FK Olympie Brezova,FK Ostrov,0,2,,,,,,
+66606306,2026-05-15 15:30,FC Viktoria Marianske Lazne,FC Chomutov,0,3,3.900,4.100,1.650,3,1.925,1.875
+66606310,2026-05-16 08:30,FK Usti Nad Labem II,SK Ujezd Praha 4,1,1,2.500,3.900,2.150,3.5,1.925,1.875
+66606298,2026-05-16 15:00,FC Predni Kopanina,FK Banik Sokolov,0,0,,,,,,
+66606300,2026-05-16 15:00,SK Slany,FK Olympie Brezova,5,1,,,,,,
+66606302,2026-05-16 15:00,FK Ostrov,FC Slavia Karlovy Vary,0,0,,,,,,
+66606304,2026-05-16 15:00,FK Seko Louny,Tempo Prague,1,2,4.100,4.500,1.533,3.25,1.800,2.000
+66606312,2026-05-16 15:00,SK Rapid Psary,Tj Spoje Praha,0,0,,,,,,
+66606308,2026-05-17 08:15,FK Meteor Prague VIII,SK Steti,4,2,,,,,,
+66606322,2026-05-22 16:30,FC Chomutov,FK Seko Louny,2,1,1.222,6.500,7.500,3.5,1.850,1.950
+66606326,2026-05-22 17:00,FC Slavia Karlovy Vary,SK Slany,2,2,,,,,,
+66606316,2026-05-23 08:15,Tj Spoje Praha,FK Usti Nad Labem II,3,2,2.000,3.600,2.900,3,1.975,1.825
+66606318,2026-05-23 08:15,SK Ujezd Praha 4,FK Meteor Prague VIII,3,1,,,,,,
+66606320,2026-05-23 08:15,SK Steti,FC Viktoria Marianske Lazne,5,3,1.950,3.800,3.000,3,1.950,1.850
+66606328,2026-05-23 08:15,FK Olympie Brezova,FK Banik Sokolov,2,4,,,,,,
+66606314,2026-05-23 15:00,SK Rapid Psary,FC Predni Kopanina,0,0,,,,,,
+66606324,2026-05-23 15:00,Tempo Prague,FK Ostrov,1,1,1.615,4.100,4.000,3,1.900,1.900
+66606332,2026-05-29 16:00,FK Banik Sokolov,FC Slavia Karlovy Vary,3,4,,,,,,
+66606340,2026-05-30 08:15,FC Viktoria Marianske Lazne,SK Ujezd Praha 4,1,2,5.500,5.000,1.380,3.5,1.950,1.850
+66606344,2026-05-30 08:30,FK Usti Nad Labem II,SK Rapid Psary,0,0,,,,,,
+66606330,2026-05-30 15:00,FC Predni Kopanina,FK Olympie Brezova,2,4,,,,,,
+66606334,2026-05-30 15:00,SK Slany,Tempo Prague,2,1,,,,,,
+66606336,2026-05-30 15:00,FK Ostrov,FC Chomutov,1,0,2.800,3.750,2.050,2.75,1.850,1.950
+66606338,2026-05-30 15:00,FK Seko Louny,SK Steti,0,3,2.200,3.900,2.500,3,1.800,2.000
+66606342,2026-05-31 08:15,FK Meteor Prague VIII,Tj Spoje Praha,2,1,,,,,,
+71215834,2026-06-02 16:00,FC Viktoria Marianske Lazne,FC Slavia Karlovy Vary,1,4,,,,,,
+66606356,2026-06-05 17:00,FC Chomutov,SK Slany,4,1,,,,,,
+66606350,2026-06-06 08:15,Tj Spoje Praha,FC Viktoria Marianske Lazne,0,0,,,,,,
+66606352,2026-06-06 08:15,SK Ujezd Praha 4,FK Seko Louny,4,1,1.200,6.250,8.000,3.75,1.825,1.975
+66606354,2026-06-06 08:15,SK Steti,FK Ostrov,0,0,,,,,,
+66606346,2026-06-06 08:30,FK Usti Nad Labem II,FC Predni Kopanina,5,2,,,,,,
+66606348,2026-06-06 15:00,SK Rapid Psary,FK Meteor Prague VIII,0,0,,,,,,
+66606360,2026-06-06 16:00,FC Slavia Karlovy Vary,FK Olympie Brezova,7,0,,,,,,
+66606358,2026-06-07 15:00,Tempo Prague,FK Banik Sokolov,1,1,,,,,,
+66606376,2026-06-10 16:00,Meteor Prague VIII,FK Usti Nad Labem II,2,1,,,,,,
+66606364,2026-06-13 08:15,Brezova,Tempo,0,0,,,,,,
+66606366,2026-06-13 08:15,Sokolov,Chomutov,2,2,,,,,,
+66606372,2026-06-13 08:15,FK Seko Louny,Tj Spoje Praha,0,0,,,,,,
+66606374,2026-06-13 11:30,Marianske Lazne,SK Rapid Psary,1,1,,,,,,
+66606368,2026-06-13 12:00,SK Slany,Steti,0,0,,,,,,
+66606370,2026-06-13 13:00,Ostrov,SK Ujezd Praha 4,0,0,,,,,,
+66606362,2026-06-13 15:00,Kopanina,Slavia Karlovy Vary,0,6,,,,,,
+72654720,2026-08-07 16:30,FC Chomutov,SK Rapid Psary,2,1,1.727,4.000,3.500,3,1.975,1.825
+72654722,2026-08-07 17:00,FC Slavia Karlovy Vary,Sokol Hostoun,3,2,2.150,3.750,2.625,3.25,1.900,1.900
+72654718,2026-08-08 08:15,SK Steti,Tj Slovan Velvary,1,2,1.750,4.200,3.250,3.25,1.900,1.900
+72654730,2026-08-08 08:15,FK Banik Sokolov,FK Usti Nad Labem II,6,0,1.750,3.900,3.500,3.25,2.000,1.800
+72654728,2026-08-08 13:00,FC Hvezda Cheb,Brandys Nad Labem,4,3,,,,,,
+72654724,2026-08-08 15:00,SK Slany,SK Ujezd Praha 4,2,2,2.300,4.333,2.200,3.25,1.950,1.850
+72654726,2026-08-08 15:00,FK Ostrov,Tempo Prague,2,3,2.625,3.600,2.200,2.75,1.825,1.975
+72654732,2026-08-09 08:15,FK Meteor Prague VIII,FC Slavoj Vysehrad,1,0,1.420,5.000,4.750,3.5,1.900,1.900
+72654734,2026-08-15 08:15,Brandys Nad Labem,FC Slavia Karlovy Vary,4,3,2.250,3.750,2.500,3,1.950,1.850
+72654736,2026-08-15 08:15,SK Ujezd Praha 4,FC Hvezda Cheb,4,0,,,,,,
+72654740,2026-08-15 08:15,FK Banik Sokolov,FC Chomutov,0,1,2.050,3.800,2.700,3,1.950,1.850
+72654742,2026-08-15 08:15,FC Slavoj Vysehrad,SK Steti,3,1,,,,,,
+72654738,2026-08-15 08:30,FK Usti Nad Labem II,Tempo Prague,1,1,,,,,,
+72654744,2026-08-15 15:00,SK Rapid Psary,FK Meteor Prague VIII,3,0,2.200,3.700,2.625,2.75,1.825,1.975
+72654746,2026-08-15 15:00,Tj Slovan Velvary,SK Slany,1,1,3.700,4.200,1.650,3.25,1.950,1.850
+72654748,2026-08-16 15:00,Sokol Hostoun,FK Ostrov,6,0,1.420,4.333,5.250,3,1.825,1.975
+72654760,2026-08-21 16:00,FC Hvezda Cheb,Tj Slovan Velvary,3,4,3.400,3.700,1.833,3.25,2.000,1.800
+72654758,2026-08-21 16:30,FC Chomutov,FK Usti Nad Labem II,5,0,1.333,4.500,6.500,3.25,1.950,1.850
+72654750,2026-08-22 08:15,SK Steti,SK Rapid Psary,1,0,4.500,4.100,1.533,3,1.875,1.925
+72654752,2026-08-22 08:15,Tempo Prague,Sokol Hostoun,1,2,2.800,3.600,2.100,3.25,1.975,1.825
+72654754,2026-08-22 15:00,SK Slany,FC Slavoj Vysehrad,9,1,1.600,4.750,3.750,3.5,2.000,1.800
+72654756,2026-08-22 16:00,FC Slavia Karlovy Vary,SK Ujezd Praha 4,4,1,2.000,3.900,2.800,3.25,1.975,1.825
+72654766,2026-08-29 08:15,Brandys Nad Labem,Tempo Prague,1,2,2.450,3.800,2.250,3.25,2.000,1.800
+72654768,2026-08-29 08:15,SK Ujezd Praha 4,FK Ostrov,3,2,1.444,4.500,5.250,3.25,1.950,1.850
+72654778,2026-08-29 08:15,FC Chomutov,FK Meteor Prague VIII,4,0,1.615,4.000,4.000,3,1.800,2.000
+72654780,2026-08-29 08:15,FC Slavoj Vysehrad,FC Hvezda Cheb,1,2,1.600,3.900,4.500,3,1.900,1.900
+72654770,2026-08-29 08:30,FK Usti Nad Labem II,Sokol Hostoun,0,4,6.000,4.750,1.363,3.25,1.900,1.900
+72654774,2026-08-29 15:00,SK Rapid Psary,SK Slany,2,1,2.100,3.800,2.700,3,1.850,1.950
+72654776,2026-08-29 15:00,Tj Slovan Velvary,FC Slavia Karlovy Vary,2,1,2.500,3.700,2.250,3.25,2.000,1.800
+72654772,2026-08-30 08:15,FK Banik Sokolov,SK Steti,3,1,,,,,,
+72654782,2026-09-05 08:15,SK Steti,FC Chomutov,1,2,4.750,4.200,1.480,3,1.975,1.825
+72654784,2026-09-05 15:00,SK Slany,FK Banik Sokolov,1,2,2.050,3.800,2.800,3,1.800,2.000
+72654786,2026-09-05 15:00,Tempo Prague,SK Ujezd Praha 4,1,2,2.050,3.800,2.750,3.25,1.950,1.850
+72654788,2026-09-05 15:00,FC Slavia Karlovy Vary,FC Slavoj Vysehrad,3,4,1.444,4.750,4.750,4,1.925,1.875
+72654792,2026-09-05 15:00,FC Hvezda Cheb,SK Rapid Psary,1,5,,,,,,
+72654794,2026-09-06 08:15,FK Meteor Prague VIII,FK Usti Nad Labem II,1,3,1.550,4.500,4.000,3.5,1.925,1.875
+72654790,2026-09-06 13:30,FK Ostrov,Tj Slovan Velvary,3,1,2.400,3.900,2.350,3.5,1.950,1.850
+72654796,2026-09-06 15:00,Sokol Hostoun,Brandys Nad Labem,4,2,1.333,5.250,6.000,3.75,1.850,1.950
+72654798,2026-09-12 08:15,SK Ujezd Praha 4,Sokol Hostoun,0,2,2.875,3.900,2.000,3.25,2.025,1.775
+72654802,2026-09-12 08:15,FK Banik Sokolov,FC Hvezda Cheb,3,1,1.250,6.000,7.000,3.75,1.825,1.975
+72654804,2026-09-12 08:15,SK Rapid Psary,FC Slavia Karlovy Vary,1,2,,,,,,
+72654810,2026-09-12 08:15,FC Slavoj Vysehrad,FK Ostrov,2,2,1.727,4.100,3.500,3.25,1.850,1.950
+72654800,2026-09-12 08:30,FK Usti Nad Labem II,Brandys Nad Labem,2,4,1.650,4.500,3.600,3.25,1.800,2.000
+72654806,2026-09-12 15:00,Tj Slovan Velvary,Tempo Prague,2,1,2.400,3.750,2.300,3.25,1.875,1.925
+72654808,2026-09-12 15:00,FC Chomutov,SK Slany,0,2,1.800,3.900,3.500,3.25,2.000,1.800
+72654812,2026-09-13 08:15,FK Meteor Prague VIII,SK Steti,2,2,1.500,4.500,4.500,3.5,1.925,1.875
+72654818,2026-09-18 17:00,FC Slavia Karlovy Vary,FK Banik Sokolov,2,0,2.050,4.000,2.625,3.25,1.900,1.900
+72654814,2026-09-19 08:15,SK Steti,FK Usti Nad Labem II,2,1,1.650,4.333,3.500,3.25,1.850,1.950
+72654816,2026-09-19 08:15,Brandys Nad Labem,SK Ujezd Praha 4,1,2,2.500,4.000,2.150,3.5,1.950,1.850
+72654820,2026-09-19 14:30,Tempo Prague,FC Slavoj Vysehrad,2,1,1.666,4.333,3.500,3.75,1.925,1.875
+72654822,2026-09-19 14:30,SK Slany,FK Meteor Prague VIII,0,2,1.700,4.200,3.400,3.25,1.800,2.000
+72654824,2026-09-19 14:30,FK Ostrov,SK Rapid Psary,1,3,,,,,,
+72654826,2026-09-19 14:30,FC Hvezda Cheb,FC Chomutov,1,3,5.000,4.750,1.420,3.5,1.900,1.900
+72654828,2026-09-20 14:30,Sokol Hostoun,Tj Slovan Velvary,5,1,1.380,4.750,5.500,3.25,1.800,2.000
+73963662,2026-09-23 14:30,FK Meteor Prague VIII,FK Banik Sokolov,0,1,2.625,3.900,2.050,3.25,1.950,1.850
+74269358,2026-09-23 14:30,FK Ostrov,Brandys Nad Labem,2,3,2.150,3.900,2.550,3.25,1.800,2.000
+72654842,2026-09-25 14:30,FC Slavoj Vysehrad,Sokol Hostoun,1,2,5.000,4.200,1.480,3.5,1.925,1.875
+72654840,2026-09-25 16:30,FC Chomutov,FC Slavia Karlovy Vary,1,0,1.533,4.500,4.200,3.25,1.900,1.900
+72654830,2026-09-26 08:15,SK Steti,SK Slany,3,0,,,,,,
+72654834,2026-09-26 08:15,FK Banik Sokolov,FK Ostrov,1,2,1.333,5.000,6.000,3.25,1.800,2.000
+72654836,2026-09-26 08:15,SK Rapid Psary,Tempo Prague,3,2,,,,,,
+72654832,2026-09-26 08:30,FK Usti Nad Labem II,SK Ujezd Praha 4,1,1,3.000,4.100,1.900,3.5,1.950,1.850
+72654838,2026-09-26 14:30,Tj Slovan Velvary,Brandys Nad Labem,0,2,1.909,3.900,3.000,3.5,1.950,1.850
+72654844,2026-09-27 08:15,FK Meteor Prague VIII,FC Hvezda Cheb,7,2,1.380,4.333,6.250,3,1.825,1.975
+72654846,2026-10-03 08:15,Brandys Nad Labem,FC Slavoj Vysehrad,5,2,1.750,4.000,3.250,4,1.900,1.900
+72654848,2026-10-03 08:15,SK Ujezd Praha 4,Tj Slovan Velvary,2,1,1.444,4.500,5.000,3.5,1.950,1.850
+72654852,2026-10-03 14:00,SK Slany,FK Usti Nad Labem II,2,0,,,,,,
+72654854,2026-10-03 14:00,Tempo Prague,FK Banik Sokolov,4,1,2.050,3.800,2.700,3,1.850,1.950
+72654856,2026-10-03 14:00,FK Ostrov,FC Chomutov,2,1,,,,,,
+72654850,2026-10-03 15:00,FC Slavia Karlovy Vary,FK Meteor Prague VIII,2,3,1.909,3.900,3.000,3.25,1.875,1.925
+72654858,2026-10-03 15:00,FC Hvezda Cheb,SK Steti,1,1,,,,,,
+72654860,2026-10-04 14:00,Sokol Hostoun,SK Rapid Psary,1,1,1.615,4.500,3.700,3.25,1.850,1.950
+72654862,2026-10-10 08:15,SK Steti,FC Slavia Karlovy Vary,2,2,,,,,,
+72654868,2026-10-10 08:15,FK Banik Sokolov,Sokol Hostoun,2,1,3.250,3.800,1.833,3.25,2.000,1.800
+72654872,2026-10-10 08:15,FC Slavoj Vysehrad,SK Ujezd Praha 4,2,4,3.200,4.000,1.833,3.5,2.000,1.800
+72654864,2026-10-10 08:30,FK Usti Nad Labem II,Tj Slovan Velvary,0,0,2.150,3.750,2.625,3.25,1.950,1.850
+72654866,2026-10-10 14:00,SK Rapid Psary,Brandys Nad Labem,5,1,,,,,,
+72654870,2026-10-10 14:00,FC Chomutov,Tempo Prague,2,2,,,,,,
+72654874,2026-10-10 14:00,SK Slany,FC Hvezda Cheb,3,0,,,,,,
+72654876,2026-10-11 08:15,FK Meteor Prague VIII,FK Ostrov,3,0,1.727,4.000,3.500,3.25,1.850,1.950
+72654878,2026-10-17 08:15,Brandys Nad Labem,FK Banik Sokolov,3,1,2.875,3.800,2.000,3.25,1.825,1.975
+72654880,2026-10-17 08:15,SK Ujezd Praha 4,SK Rapid Psary,2,2,2.000,3.800,2.875,3,1.825,1.975
+72654890,2026-10-17 12:00,FK Ostrov,SK Steti,1,4,2.100,3.750,2.700,3,1.800,2.000
+72654882,2026-10-17 13:30,Tj Slovan Velvary,FC Slavoj Vysehrad,0,3,,,,,,
+72654884,2026-10-17 13:30,FC Slavia Karlovy Vary,SK Slany,1,1,,,,,,
+72654886,2026-10-17 13:30,Tempo Prague,FK Meteor Prague VIII,4,2,1.650,4.000,3.900,3.25,1.925,1.875
+72654888,2026-10-17 15:00,FC Hvezda Cheb,FK Usti Nad Labem II,6,0,,,,,,
+72654892,2026-10-18 13:30,Sokol Hostoun,FC Chomutov,1,3,1.800,3.700,3.400,3,1.925,1.875
+72654898,2026-10-23 17:00,FC Hvezda Cheb,FC Slavia Karlovy Vary,1,2,3.200,4.500,1.700,3.5,1.925,1.875
+72654894,2026-10-24 08:15,SK Steti,Tempo Prague,1,0,2.625,3.800,2.150,3.25,1.950,1.850
+72654900,2026-10-24 08:15,FK Banik Sokolov,SK Ujezd Praha 4,2,3,2.100,3.800,2.625,3.25,1.975,1.825
+72654896,2026-10-24 08:30,FK Usti Nad Labem II,FC Slavoj Vysehrad,4,1,1.850,4.100,3.000,3.25,1.825,1.975
+72654902,2026-10-24 12:30,SK Rapid Psary,Tj Slovan Velvary,3,1,1.200,5.750,9.500,3.5,1.900,1.900
+72654904,2026-10-24 12:30,FC Chomutov,Brandys Nad Labem,1,0,1.363,5.000,5.500,3.5,1.950,1.850
+72654906,2026-10-24 12:30,SK Slany,FK Ostrov,4,0,,,,,,
+72654908,2026-10-25 09:15,FK Meteor Prague VIII,Sokol Hostoun,2,4,3.400,4.500,1.666,3.5,1.800,2.000
+72654910,2026-10-31 09:15,Brandys Nad Labem,FK Meteor Prague VIII,3,0,1.800,4.333,3.000,3.5,1.925,1.875
+72654912,2026-10-31 09:15,SK Ujezd Praha 4,FC Chomutov,1,2,2.350,3.800,2.350,3.25,2.000,1.800
+72654920,2026-10-31 09:15,FC Slavoj Vysehrad,SK Rapid Psary,1,2,4.750,5.000,1.420,3.5,1.875,1.925
+72654918,2026-10-31 09:30,Tempo Prague,SK Slany,2,2,1.850,4.100,3.000,3.25,1.800,2.000
+72654914,2026-10-31 13:00,Tj Slovan Velvary,FK Banik Sokolov,2,4,2.700,3.900,2.050,3.25,1.875,1.925
+72654922,2026-10-31 13:00,FK Ostrov,FC Hvezda Cheb,3,0,1.850,3.900,3.100,3.25,1.825,1.975
+72654916,2026-10-31 16:00,FC Slavia Karlovy Vary,FK Usti Nad Labem II,4,0,,,,,,
+72654924,2026-11-01 13:00,Sokol Hostoun,SK Steti,5,1,1.250,5.500,7.500,3.75,1.850,1.950
+72654934,2026-11-06 17:30,FC Chomutov,Tj Slovan Velvary,3,1,1.250,6.000,7.000,3.5,1.850,1.950
+72654926,2026-11-07 09:15,SK Steti,Brandys Nad Labem,0,4,2.400,3.750,2.350,3.25,1.875,1.925
+72654930,2026-11-07 09:15,FK Banik Sokolov,FC Slavoj Vysehrad,4,1,1.480,4.750,4.500,3.75,1.975,1.825
+72654928,2026-11-07 09:30,FK Usti Nad Labem II,SK Rapid Psary,2,1,,,,,,
+72654938,2026-11-07 13:00,SK Slany,Sokol Hostoun,1,2,3.800,4.000,1.666,3.25,1.875,1.925
+72654932,2026-11-07 16:00,FC Hvezda Cheb,Tempo Prague,0,3,3.700,4.200,1.650,3.5,1.900,1.900
+72654936,2026-11-08 09:15,FC Slavia Karlovy Vary,FK Ostrov,1,1,1.444,4.500,5.000,3.25,1.825,1.975
+72654940,2026-11-08 09:15,FK Meteor Prague VIII,SK Ujezd Praha 4,1,3,2.625,4.000,2.100,3.5,1.975,1.825

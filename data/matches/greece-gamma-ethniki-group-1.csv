@@ -1,25 +1,25 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-74037170,2026-10-10 13:00,Doxa N Sidirochoriou,Eleutheroupolis,2,2,,,
-74037172,2026-10-10 13:00,Mas Ardas Kastaneon,Paop Neas Amisou,3,2,,,
-74037174,2026-10-10 13:00,Doxa Dramas,Apollon Paralimniou FC,2,1,,,
-74037176,2026-10-10 13:00,AE Thrakis,AO Kavala 1965,0,1,,,
-74037178,2026-10-10 13:00,Aetos Orfanou,AO Xanthi FC,0,1,,,
-74037180,2026-10-18 13:00,AO Xanthi FC,Mas Ardas Kastaneon,3,0,,,
-74037182,2026-10-18 13:00,Doxa N Sidirochoriou,Aetos Orfanou,3,3,,,
-74037184,2026-10-18 13:00,Apollon Paralimniou FC,AO Kavala 1965,1,3,,,
-74037186,2026-10-18 13:00,Paop Neas Amisou,AE Thrakis,2,1,,,
-74037188,2026-10-18 13:00,Eleutheroupolis,Doxa Dramas,0,4,,,
-74037190,2026-10-25 13:00,Doxa Dramas,Doxa N Sidirochoriou,3,2,1.222,5.500,8.500
-74037192,2026-10-25 13:00,Apollon Paralimniou FC,Paop Neas Amisou,1,0,1.600,3.900,4.200
-74037194,2026-10-25 13:00,AO Kavala 1965,Eleutheroupolis,0,1,1.181,7.000,8.500
-74037196,2026-10-25 13:00,AE Thrakis,AO Xanthi FC,1,1,,,
-74037198,2026-10-25 13:00,Aetos Orfanou,Mas Ardas Kastaneon,4,1,,,
-74037200,2026-10-31 13:00,Doxa N Sidirochoriou,AO Kavala 1965,0,0,7.000,5.500,1.270
-74037206,2026-10-31 13:00,Eleutheroupolis,Paop Neas Amisou,3,0,1.750,3.600,3.800
-74037208,2026-10-31 13:00,AO Xanthi FC,Apollon Paralimniou FC,5,1,,,
-74037204,2026-11-01 13:00,Doxa Dramas,Aetos Orfanou,5,1,1.380,4.500,6.000
-74037210,2026-11-08 13:00,Paop Neas Amisou,Doxa N Sidirochoriou,1,0,,,
-74037212,2026-11-08 13:00,Apollon Paralimniou FC,Mas Ardas Kastaneon,1,3,1.650,3.500,4.500
-74037214,2026-11-08 13:00,AO Xanthi FC,Eleutheroupolis,1,0,1.363,4.500,7.000
-74037216,2026-11-08 13:00,Aetos Orfanou,AE Thrakis,4,2,,,
-74037218,2026-11-08 13:00,AO Kavala 1965,Doxa Dramas,0,3,3.200,3.400,1.950
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+74037170,2026-10-10 13:00,Doxa N Sidirochoriou,Eleutheroupolis,2,2,,,,,,
+74037172,2026-10-10 13:00,Mas Ardas Kastaneon,Paop Neas Amisou,3,2,,,,,,
+74037174,2026-10-10 13:00,Doxa Dramas,Apollon Paralimniou FC,2,1,,,,,,
+74037176,2026-10-10 13:00,AE Thrakis,AO Kavala 1965,0,1,,,,,,
+74037178,2026-10-10 13:00,Aetos Orfanou,AO Xanthi FC,0,1,,,,,,
+74037180,2026-10-18 13:00,AO Xanthi FC,Mas Ardas Kastaneon,3,0,,,,,,
+74037182,2026-10-18 13:00,Doxa N Sidirochoriou,Aetos Orfanou,3,3,,,,,,
+74037184,2026-10-18 13:00,Apollon Paralimniou FC,AO Kavala 1965,1,3,,,,,,
+74037186,2026-10-18 13:00,Paop Neas Amisou,AE Thrakis,2,1,,,,,,
+74037188,2026-10-18 13:00,Eleutheroupolis,Doxa Dramas,0,4,,,,,,
+74037190,2026-10-25 13:00,Doxa Dramas,Doxa N Sidirochoriou,3,2,1.222,5.500,8.500,2.75,1.950,1.850
+74037192,2026-10-25 13:00,Apollon Paralimniou FC,Paop Neas Amisou,1,0,1.600,3.900,4.200,2.5,1.800,2.000
+74037194,2026-10-25 13:00,AO Kavala 1965,Eleutheroupolis,0,1,1.181,7.000,8.500,3,1.850,1.950
+74037196,2026-10-25 13:00,AE Thrakis,AO Xanthi FC,1,1,,,,,,
+74037198,2026-10-25 13:00,Aetos Orfanou,Mas Ardas Kastaneon,4,1,,,,,,
+74037200,2026-10-31 13:00,Doxa N Sidirochoriou,AO Kavala 1965,0,0,7.000,5.500,1.270,3,1.825,1.975
+74037206,2026-10-31 13:00,Eleutheroupolis,Paop Neas Amisou,3,0,1.750,3.600,3.800,2.5,1.800,2.000
+74037208,2026-10-31 13:00,AO Xanthi FC,Apollon Paralimniou FC,5,1,,,,,,
+74037204,2026-11-01 13:00,Doxa Dramas,Aetos Orfanou,5,1,1.380,4.500,6.000,3,1.850,1.950
+74037210,2026-11-08 13:00,Paop Neas Amisou,Doxa N Sidirochoriou,1,0,,,,,,
+74037212,2026-11-08 13:00,Apollon Paralimniou FC,Mas Ardas Kastaneon,1,3,1.650,3.500,4.500,2.5,1.800,2.000
+74037214,2026-11-08 13:00,AO Xanthi FC,Eleutheroupolis,1,0,1.363,4.500,7.000,3,2.000,1.800
+74037216,2026-11-08 13:00,Aetos Orfanou,AE Thrakis,4,2,,,,,,
+74037218,2026-11-08 13:00,AO Kavala 1965,Doxa Dramas,0,3,3.200,3.400,1.950,2.5,1.875,1.925

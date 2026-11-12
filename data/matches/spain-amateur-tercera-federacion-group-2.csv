@@ -1,286 +1,286 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-63136013,2025-12-13 14:45,CD Praviano,UC Ceares,0,1,,,
-63136007,2025-12-14 11:00,Aviles Stadium CF,Sporting Atletico,0,1,,,
-63136009,2025-12-14 11:00,El San Martin Ra,CD Colunga,1,1,1.750,3.250,4.200
-63136015,2025-12-14 11:00,Real Titanico FC,CD Tuilla,1,1,,,
-63136017,2025-12-14 11:00,Navarro CF,Club Siero,0,3,,,
-63136019,2025-12-14 11:00,CD Covadonga,L'Entregu CF,3,0,1.480,3.700,5.750
-63136011,2025-12-14 11:30,SD Lenense,CD Mosconia,0,2,5.000,3.400,1.615
-63136023,2025-12-14 11:30,UD Llanera,CD Llanes,2,0,,,
-63136021,2025-12-14 16:00,UD Gijon Industrial,Caudal Deportivo,1,1,6.250,3.800,1.420
-63136025,2025-12-20 14:45,Sporting Atletico,CD Covadonga,1,1,,,
-63136037,2025-12-20 16:30,L'Entregu CF,El San Martin Ra,1,0,1.950,3.400,3.250
-63136027,2025-12-21 11:00,CD Llanes,Aviles Stadium CF,1,1,,,
-63136029,2025-12-21 11:00,Real Titanico FC,UD Llanera,1,2,8.500,5.000,1.250
-63136031,2025-12-21 11:00,UC Ceares,UD Gijon Industrial,1,0,1.650,3.400,4.750
-63136035,2025-12-21 11:00,CD Colunga,SD Lenense,4,1,,,
-63136041,2025-12-21 14:45,CD Tuilla,Club Siero,0,1,,,
-63136039,2025-12-21 16:30,CD Mosconia,CD Praviano,2,0,1.666,3.300,4.750
-63136033,2025-12-21 17:00,Caudal Deportivo,Navarro CF,2,1,1.200,5.750,10.000
-63136043,2026-01-04 11:00,Aviles Stadium CF,Real Titanico FC,0,0,1.909,3.100,3.800
-63136045,2026-01-04 11:00,El San Martin Ra,Sporting Atletico,0,2,,,
-63136047,2026-01-04 11:00,SD Lenense,L'Entregu CF,0,0,,,
-63136049,2026-01-04 11:00,CD Praviano,CD Colunga,1,0,1.800,3.400,3.900
-63136051,2026-01-04 11:00,Navarro CF,UC Ceares,1,1,3.400,3.100,2.050
-63136055,2026-01-04 11:00,CD Covadonga,CD Llanes,0,0,1.285,4.750,8.000
-63136059,2026-01-04 15:00,CD Tuilla,UD Llanera,1,2,,,
-63136053,2026-01-04 16:00,Club Siero,Caudal Deportivo,1,2,3.800,3.400,1.850
-63136057,2026-01-04 17:00,UD Gijon Industrial,CD Mosconia,0,2,5.250,3.500,1.550
-63136063,2026-01-11 10:30,Sporting Atletico,SD Lenense,3,0,,,
-63136065,2026-01-11 11:00,CD Llanes,El San Martin Ra,2,2,,,
-63136067,2026-01-11 11:00,Real Titanico FC,CD Covadonga,0,5,7.500,4.333,1.333
-63136069,2026-01-11 11:00,UC Ceares,Club Siero,1,0,1.700,3.400,4.333
-63136073,2026-01-11 11:00,CD Colunga,UD Gijon Industrial,1,1,,,
-63136077,2026-01-11 11:30,UD Llanera,Aviles Stadium CF,3,0,1.181,6.500,12.000
-63136075,2026-01-11 16:00,L'Entregu CF,CD Praviano,2,1,1.950,3.100,3.500
-63136079,2026-01-11 16:00,CD Mosconia,Navarro CF,2,0,1.400,3.900,7.000
-63136071,2026-01-11 16:30,Caudal Deportivo,CD Tuilla,6,1,1.181,5.750,11.000
-63136081,2026-01-18 11:00,Aviles Stadium CF,CD Tuilla,0,0,2.000,3.100,3.400
-63136083,2026-01-18 11:00,Sporting Atletico,CD Praviano,4,0,,,
-63136085,2026-01-18 11:00,CD Llanes,SD Lenense,3,0,,,
-63136087,2026-01-18 11:00,Real Titanico FC,El San Martin Ra,0,0,3.250,3.300,1.950
-63136089,2026-01-18 11:00,UC Ceares,Caudal Deportivo,1,0,3.500,3.200,1.900
-63136091,2026-01-18 11:00,CD Colunga,Navarro CF,1,1,,,
-63136095,2026-01-18 11:00,UD Llanera,CD Covadonga,0,5,2.150,3.000,3.200
-63136093,2026-01-18 16:00,L'Entregu CF,UD Gijon Industrial,1,1,1.450,4.100,5.250
-63136097,2026-01-18 16:00,CD Mosconia,Club Siero,1,1,1.500,3.750,5.250
-63136099,2026-01-25 11:00,El San Martin Ra,UD Llanera,0,1,,,
-63136101,2026-01-25 11:00,SD Lenense,Real Titanico FC,2,0,2.050,3.250,3.200
-63136103,2026-01-25 11:00,CD Praviano,CD Llanes,3,3,2.450,3.000,2.700
-63136105,2026-01-25 11:00,Navarro CF,L'Entregu CF,2,2,,,
-63136111,2026-01-25 11:00,CD Covadonga,Aviles Stadium CF,3,0,1.166,6.500,12.000
-63136113,2026-01-25 11:00,UD Gijon Industrial,Sporting Atletico,2,3,,,
-63136115,2026-01-25 15:15,CD Tuilla,UC Ceares,1,1,,,
-63136109,2026-01-25 16:30,Club Siero,CD Colunga,1,1,2.000,3.200,3.400
-63136107,2026-01-25 17:00,Caudal Deportivo,CD Mosconia,1,3,1.800,3.300,3.900
-63136117,2026-02-01 11:00,Aviles Stadium CF,El San Martin Ra,0,0,2.600,2.900,2.600
-63136119,2026-02-01 11:00,Sporting Atletico,Navarro CF,3,0,,,
-63136121,2026-02-01 11:00,CD Llanes,UD Gijon Industrial,1,1,,,
-63136123,2026-02-01 11:00,Real Titanico FC,CD Praviano,0,1,,,
-63136125,2026-02-01 11:00,CD Colunga,Caudal Deportivo,0,1,,,
-63136131,2026-02-01 11:00,UD Llanera,SD Lenense,3,0,1.142,7.000,15.000
-63136127,2026-02-01 15:30,CD Covadonga,CD Tuilla,2,1,1.090,8.500,23.000
-63136129,2026-02-01 16:00,L'Entregu CF,Club Siero,1,1,1.700,3.500,4.200
-63136133,2026-02-01 16:00,CD Mosconia,UC Ceares,1,0,1.650,3.300,5.000
-63136149,2026-02-07 17:00,UD Gijon Industrial,Real Titanico FC,3,2,,,
-63136147,2026-02-07 17:30,Club Siero,Sporting Atletico,0,4,,,
-63136135,2026-02-08 11:00,El San Martin Ra,CD Covadonga,0,2,6.250,3.400,1.500
-63136137,2026-02-08 11:00,SD Lenense,Aviles Stadium CF,1,1,2.450,3.000,2.750
-63136139,2026-02-08 11:00,CD Praviano,UD Llanera,0,2,5.500,3.500,1.550
-63136141,2026-02-08 11:00,Navarro CF,CD Llanes,1,1,,,
-63136143,2026-02-08 11:00,UC Ceares,CD Colunga,1,3,,,
-63136151,2026-02-08 15:30,CD Tuilla,CD Mosconia,0,3,,,
-63136145,2026-02-08 16:30,Caudal Deportivo,L'Entregu CF,1,0,1.400,4.100,6.250
-63136155,2026-02-15 11:00,El San Martin Ra,CD Tuilla,1,0,1.727,3.200,4.500
-63136157,2026-02-15 11:00,Sporting Atletico,Caudal Deportivo,3,1,,,
-63136159,2026-02-15 11:00,CD Llanes,Club Siero,2,2,,,
-63136161,2026-02-15 11:00,Real Titanico FC,Navarro CF,2,3,2.875,3.000,2.300
-63136163,2026-02-15 11:00,CD Colunga,CD Mosconia,1,0,,,
-63136153,2026-02-15 15:45,Aviles Stadium CF,CD Praviano,3,0,,,
-63136165,2026-02-15 16:00,CD Covadonga,SD Lenense,1,1,1.142,6.250,17.000
-63136169,2026-02-15 16:00,UD Llanera,UD Gijon Industrial,3,0,,,
-63136167,2026-02-15 16:30,L'Entregu CF,UC Ceares,2,1,2.100,3.100,3.200
-63136177,2026-02-21 15:30,UC Ceares,Sporting Atletico,0,0,,,
-63136175,2026-02-21 15:45,Navarro CF,UD Llanera,2,2,,,
-63136183,2026-02-21 17:00,UD Gijon Industrial,Aviles Stadium CF,1,1,,,
-63136171,2026-02-21 17:30,SD Lenense,El San Martin Ra,1,2,2.800,3.000,2.300
-63136173,2026-02-22 11:00,CD Praviano,CD Covadonga,1,3,7.500,3.500,1.420
-63136187,2026-02-22 15:45,CD Tuilla,CD Colunga,1,2,,,
-63136179,2026-02-22 16:30,Caudal Deportivo,CD Llanes,3,1,1.615,3.400,5.000
-63136181,2026-02-22 16:30,Club Siero,Real Titanico FC,2,0,1.700,3.300,4.500
-63136185,2026-02-22 16:30,CD Mosconia,L'Entregu CF,1,1,1.727,3.400,4.100
-63136189,2026-03-01 11:00,Aviles Stadium CF,Navarro CF,1,0,2.050,3.300,3.100
-63136191,2026-03-01 11:00,El San Martin Ra,CD Praviano,0,1,,,
-63136193,2026-03-01 11:00,Sporting Atletico,CD Mosconia,2,1,,,
-63136195,2026-03-01 11:00,SD Lenense,CD Tuilla,0,1,2.050,3.300,3.200
-63136197,2026-03-01 11:00,CD Llanes,UC Ceares,0,1,,,
-63136199,2026-03-01 11:00,Real Titanico FC,Caudal Deportivo,0,1,7.000,3.900,1.400
-63136201,2026-03-01 11:00,CD Covadonga,UD Gijon Industrial,6,0,,,
-63136205,2026-03-01 11:30,UD Llanera,Club Siero,1,0,1.250,5.250,8.000
-63136203,2026-03-01 16:30,L'Entregu CF,CD Colunga,0,0,1.750,3.300,4.100
-63136211,2026-03-07 16:00,UC Ceares,Real Titanico FC,2,1,1.571,3.600,5.000
-63136207,2026-03-08 11:00,CD Praviano,SD Lenense,0,1,1.666,3.300,4.800
-63136209,2026-03-08 11:00,Navarro CF,CD Covadonga,3,1,,,
-63136215,2026-03-08 11:00,CD Colunga,Sporting Atletico,0,5,,,
-63136219,2026-03-08 11:00,UD Gijon Industrial,El San Martin Ra,1,0,2.800,3.100,2.375
-63136223,2026-03-08 16:00,CD Tuilla,L'Entregu CF,0,1,,,
-63136213,2026-03-08 16:30,Caudal Deportivo,UD Llanera,0,3,2.375,3.100,2.700
-63136217,2026-03-08 16:30,Club Siero,Aviles Stadium CF,0,0,1.909,3.000,3.800
-63136221,2026-03-08 16:30,CD Mosconia,CD Llanes,1,0,1.750,3.400,3.900
-63136237,2026-03-14 16:00,Real Titanico FC,CD Mosconia,0,2,4.750,3.300,1.650
-63136227,2026-03-15 11:00,El San Martin Ra,Navarro CF,1,1,,,
-63136229,2026-03-15 11:00,Sporting Atletico,L'Entregu CF,2,0,,,
-63136231,2026-03-15 11:00,SD Lenense,UD Gijon Industrial,2,2,,,
-63136233,2026-03-15 11:00,CD Llanes,CD Colunga,2,1,,,
-63136235,2026-03-15 11:00,CD Praviano,CD Tuilla,3,1,1.833,3.200,3.900
-63136239,2026-03-15 11:00,CD Covadonga,Club Siero,5,0,,,
-63136241,2026-03-15 11:00,UD Llanera,UC Ceares,2,0,1.363,4.200,7.000
-63136225,2026-03-15 16:15,Aviles Stadium CF,Caudal Deportivo,0,1,5.500,3.500,1.533
-63136243,2026-03-22 11:00,Navarro CF,SD Lenense,1,2,1.833,3.400,3.700
-63136245,2026-03-22 11:00,UC Ceares,Aviles Stadium CF,0,2,1.600,3.300,5.250
-63136253,2026-03-22 11:00,UD Gijon Industrial,CD Praviano,1,1,2.400,3.000,2.700
-63136249,2026-03-22 15:30,CD Colunga,Real Titanico FC,1,0,,,
-63136259,2026-03-22 16:00,CD Tuilla,Sporting Atletico,1,0,,,
-63136247,2026-03-22 16:30,Caudal Deportivo,CD Covadonga,2,1,3.500,3.200,2.000
-63136251,2026-03-22 16:30,Club Siero,El San Martin Ra,1,2,2.150,3.100,3.000
-63136255,2026-03-22 16:30,L'Entregu CF,CD Llanes,4,3,1.950,3.300,3.400
-63136257,2026-03-22 16:30,CD Mosconia,UD Llanera,1,1,3.900,3.100,1.900
-63136263,2026-03-28 16:00,El San Martin Ra,Caudal Deportivo,1,0,3.900,3.100,1.900
-63136265,2026-03-28 16:00,SD Lenense,Club Siero,2,0,2.050,3.200,3.100
-63136273,2026-03-28 16:30,CD Covadonga,UC Ceares,6,1,1.300,4.333,8.500
-63136267,2026-03-29 10:00,CD Llanes,Sporting Atletico,3,3,,,
-63136269,2026-03-29 10:00,CD Praviano,Navarro CF,0,0,1.800,3.400,3.700
-63136271,2026-03-29 10:00,Real Titanico FC,L'Entregu CF,0,5,,,
-63136277,2026-03-29 10:30,UD Llanera,CD Colunga,1,0,,,
-63136275,2026-03-29 16:00,UD Gijon Industrial,CD Tuilla,0,2,2.000,3.300,3.200
-63136261,2026-03-29 16:15,Aviles Stadium CF,CD Mosconia,2,0,3.600,3.100,1.909
-63136281,2026-04-02 15:00,Navarro CF,UD Gijon Industrial,2,1,2.250,3.000,3.000
-63136295,2026-04-02 15:00,CD Tuilla,CD Llanes,3,2,2.550,3.000,2.500
-63136293,2026-04-02 15:30,CD Mosconia,CD Covadonga,1,2,3.400,2.875,2.100
-63136285,2026-04-02 16:00,Caudal Deportivo,SD Lenense,4,1,1.333,4.200,7.500
-63136287,2026-04-02 16:00,CD Colunga,Aviles Stadium CF,0,0,,,
-63136291,2026-04-02 16:00,L'Entregu CF,UD Llanera,0,1,3.600,3.750,1.727
-63136289,2026-04-02 17:15,Club Siero,CD Praviano,2,3,2.250,3.000,3.000
-63136283,2026-04-03 15:00,UC Ceares,El San Martin Ra,0,1,,,
-63136279,2026-04-05 10:00,Sporting Atletico,Real Titanico FC,7,0,,,
-63136297,2026-04-12 10:00,Aviles Stadium CF,L'Entregu CF,0,0,,,
-63136299,2026-04-12 10:00,El San Martin Ra,CD Mosconia,0,1,2.350,2.900,2.900
-63136305,2026-04-12 10:00,CD Praviano,Caudal Deportivo,0,1,,,
-63136307,2026-04-12 10:00,Real Titanico FC,CD Llanes,2,0,,,
-63136309,2026-04-12 10:00,Navarro CF,CD Tuilla,1,1,,,
-63136311,2026-04-12 10:00,CD Covadonga,CD Colunga,2,0,,,
-63136301,2026-04-12 15:00,SD Lenense,UC Ceares,4,2,,,
-63136315,2026-04-12 15:00,UD Llanera,Sporting Atletico,1,0,,,
-63136313,2026-04-12 16:00,UD Gijon Industrial,Club Siero,3,1,,,
-63136321,2026-04-18 15:00,UC Ceares,CD Praviano,3,2,,,
-63136329,2026-04-18 16:00,L'Entregu CF,CD Covadonga,0,4,,,
-63136319,2026-04-19 10:00,CD Llanes,UD Llanera,0,1,,,
-63136325,2026-04-19 10:00,CD Colunga,El San Martin Ra,2,3,,,
-63136317,2026-04-19 10:30,Sporting Atletico,Aviles Stadium CF,5,0,,,
-63136333,2026-04-19 15:00,CD Tuilla,Real Titanico FC,4,0,,,
-63136331,2026-04-19 16:00,CD Mosconia,SD Lenense,2,0,,,
-63136323,2026-04-19 16:30,Caudal Deportivo,UD Gijon Industrial,4,1,1.333,4.500,7.500
-63136327,2026-04-19 16:30,Club Siero,Navarro CF,1,0,2.050,3.400,3.000
-63136341,2026-04-25 16:00,CD Praviano,CD Mosconia,0,0,,,
-63136351,2026-04-25 17:00,UD Llanera,Real Titanico FC,3,0,,,
-63136335,2026-04-26 10:00,Aviles Stadium CF,CD Llanes,0,0,,,
-63136337,2026-04-26 10:00,El San Martin Ra,L'Entregu CF,1,0,,,
-63136339,2026-04-26 10:00,SD Lenense,CD Colunga,0,0,,,
-63136343,2026-04-26 10:00,Navarro CF,Caudal Deportivo,0,0,,,
-63136349,2026-04-26 10:00,UD Gijon Industrial,UC Ceares,0,0,,,
-63136347,2026-04-26 10:30,CD Covadonga,Sporting Atletico,5,0,,,
-63136345,2026-04-26 16:30,Club Siero,CD Tuilla,1,0,,,
-63136353,2026-05-03 15:00,Sporting Atletico,El San Martin Ra,2,0,,,
-63136355,2026-05-03 15:00,CD Llanes,CD Covadonga,0,0,,,
-63136357,2026-05-03 15:00,Real Titanico FC,Aviles Stadium CF,2,2,,,
-63136359,2026-05-03 15:00,UC Ceares,Navarro CF,0,0,,,
-63136361,2026-05-03 15:00,Caudal Deportivo,Club Siero,0,0,,,
-63136363,2026-05-03 15:00,CD Colunga,CD Praviano,0,0,,,
-63136365,2026-05-03 15:00,L'Entregu CF,SD Lenense,0,0,,,
-63136367,2026-05-03 15:00,UD Llanera,CD Tuilla,0,0,,,
-63136369,2026-05-03 15:00,CD Mosconia,UD Gijon Industrial,0,0,,,
-63136383,2026-05-09 15:30,CD Covadonga,Real Titanico FC,0,2,,,
-63136371,2026-05-10 15:00,Aviles Stadium CF,UD Llanera,1,2,,,
-63136373,2026-05-10 15:00,El San Martin Ra,CD Llanes,1,0,,,
-63136375,2026-05-10 15:00,SD Lenense,Sporting Atletico,0,0,,,
-63136377,2026-05-10 15:00,CD Praviano,L'Entregu CF,0,0,,,
-63136379,2026-05-10 15:00,Navarro CF,CD Mosconia,0,0,,,
-63136381,2026-05-10 15:00,Club Siero,UC Ceares,0,0,,,
-63136385,2026-05-10 15:00,UD Gijon Industrial,CD Colunga,6,2,,,
-63136387,2026-05-10 15:00,CD Tuilla,Caudal Deportivo,0,0,,,
-71454144,2026-05-17 15:00,CD Mosconia,CD Covadonga,0,0,3.600,3.200,1.909
-71454192,2026-05-17 16:30,Caudal Deportivo,Sporting Atletico,0,0,,,
-71454146,2026-05-24 10:00,CD Covadonga,CD Mosconia,2,1,1.650,3.250,5.000
-71454260,2026-05-24 10:00,Sporting Atletico,Caudal Deportivo,1,2,,,
-71719642,2026-05-31 16:30,Caudal Deportivo,CD Covadonga,2,1,2.450,3.200,2.550
-71719644,2026-06-07 10:00,CD Covadonga,Caudal Deportivo,2,4,1.900,3.400,3.500
-73554738,2026-09-06 10:00,CD Covadonga,Aviles Stadium CF,4,0,1.200,5.500,11.000
-73554748,2026-09-06 10:00,CD Llanes,CD Mosconia,1,5,,,
-73554750,2026-09-06 10:00,Condal Club,Club Siero,1,0,2.300,3.100,2.800
-73554742,2026-09-06 10:30,Astur CF,Caudal Deportivo,0,3,5.000,4.500,1.500
-73554740,2026-09-06 15:00,UC Ceares,UP Langreo,2,1,3.800,3.200,1.850
-73554744,2026-09-06 15:30,Andes CF,CD Colunga,1,2,,,
-73554734,2026-09-06 15:45,CD Praviano,Sporting Atletico,1,2,,,
-73554746,2026-09-06 16:00,UD Gijon Industrial,El San Martin Ra,2,0,,,
-73554736,2026-09-06 17:00,L'Entregu CF,CD Lealtad de Villaviciosa,0,1,,,
-73554784,2026-09-12 15:30,CD Lealtad de Villaviciosa,CD Praviano,1,2,,,
-74567866,2026-09-13 09:30,Sporting Atletico,CD Llanes,3,1,,,
-73554786,2026-09-13 10:00,Aviles Stadium CF,L'Entregu CF,0,1,2.550,3.000,2.550
-73554792,2026-09-13 10:00,CD Colunga,Astur CF,2,1,1.615,3.700,4.500
-73554788,2026-09-13 15:00,UP Langreo,CD Covadonga,2,2,2.250,2.900,2.900
-73555416,2026-09-13 15:30,El San Martin Ra,Condal Club,0,4,,,
-73554790,2026-09-13 16:00,Caudal Deportivo,UC Ceares,2,1,1.363,4.000,7.000
-73555184,2026-09-13 16:00,Club Siero,Andes CF,2,0,,,
-73554796,2026-09-13 16:30,CD Mosconia,UD Gijon Industrial,2,0,1.571,3.600,5.250
-73554802,2026-09-20 10:00,Sporting Atletico,CD Lealtad de Villaviciosa,1,0,,,
-73554804,2026-09-20 10:00,CD Praviano,Aviles Stadium CF,0,1,,,
-73554808,2026-09-20 10:00,CD Covadonga,Caudal Deportivo,4,0,2.200,3.200,2.875
-73555192,2026-09-20 10:00,Astur CF,Club Siero,0,1,,,
-74567868,2026-09-20 10:00,CD Llanes,UD Gijon Industrial,2,2,,,
-73554810,2026-09-20 15:00,UC Ceares,CD Colunga,3,4,1.950,3.250,3.400
-74567870,2026-09-20 15:00,Andes CF,El San Martin Ra,1,1,,,
-73555452,2026-09-20 15:30,Condal Club,CD Mosconia,0,0,,,
-73554806,2026-09-20 16:00,L'Entregu CF,UP Langreo,1,3,3.000,3.250,2.150
-73555178,2026-09-26 15:00,CD Colunga,CD Covadonga,1,2,,,
-74744546,2026-09-26 15:00,CD Mosconia,Andes CF,1,0,1.111,7.500,21.000
-73555218,2026-09-26 16:00,Club Siero,UC Ceares,2,0,1.900,3.400,3.500
-73555176,2026-09-26 17:30,Caudal Deportivo,L'Entregu CF,2,0,1.420,4.333,5.250
-73555172,2026-09-27 10:00,Aviles Stadium CF,Sporting Atletico,1,2,,,
-73555634,2026-09-27 10:00,UD Gijon Industrial,Condal Club,1,2,2.700,3.000,2.450
-73555752,2026-09-27 10:00,CD Lealtad de Villaviciosa,CD Llanes,1,1,,,
-74744548,2026-09-27 10:00,El San Martin Ra,Astur CF,2,2,2.100,3.200,3.100
-73555174,2026-09-27 15:00,UP Langreo,CD Praviano,3,2,,,
-74744550,2026-10-03 15:00,UC Ceares,El San Martin Ra,1,2,2.100,3.100,3.200
-73555204,2026-10-03 17:00,L'Entregu CF,CD Colunga,0,0,1.833,3.300,3.750
-73555198,2026-10-04 10:00,CD Lealtad de Villaviciosa,Aviles Stadium CF,2,0,1.420,4.000,6.250
-73555200,2026-10-04 10:00,Sporting Atletico,UP Langreo,1,1,,,
-73555202,2026-10-04 10:00,CD Praviano,Caudal Deportivo,1,1,,,
-73555540,2026-10-04 10:00,CD Llanes,Condal Club,1,1,,,
-74744552,2026-10-04 10:15,Astur CF,CD Mosconia,0,0,5.000,3.500,1.571
-73555234,2026-10-04 10:30,CD Covadonga,Club Siero,2,1,1.363,4.500,6.250
-74744554,2026-10-04 15:00,Andes CF,UD Gijon Industrial,0,3,,,
-73555212,2026-10-10 14:30,CD Colunga,CD Praviano,5,5,,,
-73555208,2026-10-10 16:00,UP Langreo,CD Lealtad de Villaviciosa,0,1,1.833,3.300,3.750
-74744560,2026-10-10 17:00,CD Mosconia,UC Ceares,2,2,1.533,3.700,5.500
-73555252,2026-10-10 18:00,Club Siero,L'Entregu CF,3,0,2.250,3.100,2.900
-73555210,2026-10-11 10:00,Caudal Deportivo,Sporting Atletico,1,1,,,
-73555240,2026-10-11 10:00,Condal Club,Andes CF,2,0,,,
-74744556,2026-10-11 10:00,Aviles Stadium CF,CD Llanes,2,1,2.375,3.200,2.625
-74744558,2026-10-11 10:00,El San Martin Ra,CD Covadonga,4,2,,,
-74744562,2026-10-11 10:00,UD Gijon Industrial,Astur CF,2,2,1.800,3.300,4.000
-73555226,2026-10-18 10:00,CD Lealtad de Villaviciosa,Caudal Deportivo,0,0,2.550,3.100,2.500
-73555228,2026-10-18 10:00,Sporting Atletico,CD Colunga,4,0,,,
-73555266,2026-10-18 10:00,CD Praviano,Club Siero,4,1,,,
-73555686,2026-10-18 10:00,UC Ceares,UD Gijon Industrial,0,1,2.050,3.200,3.100
-73555706,2026-10-18 10:00,Astur CF,Condal Club,1,1,3.200,3.200,2.050
-74744568,2026-10-18 10:00,CD Llanes,Andes CF,1,1,,,
-74744566,2026-10-18 10:30,CD Covadonga,CD Mosconia,4,0,1.800,3.300,3.800
-73555224,2026-10-18 14:45,Aviles Stadium CF,UP Langreo,0,0,,,
-74744564,2026-10-18 16:00,L'Entregu CF,El San Martin Ra,1,1,,,
-73555786,2026-10-24 14:00,UP Langreo,CD Llanes,1,0,1.363,4.250,7.000
-73555352,2026-10-24 17:45,Club Siero,Sporting Atletico,1,2,,,
-73555246,2026-10-25 11:00,CD Colunga,CD Lealtad de Villaviciosa,0,4,3.700,3.500,1.800
-73555378,2026-10-25 11:00,Condal Club,UC Ceares,0,0,1.800,3.300,4.000
-74744570,2026-10-25 11:00,El San Martin Ra,CD Praviano,1,0,2.400,3.200,2.600
-73555258,2026-10-25 14:45,Andes CF,Astur CF,3,3,,,
-74744572,2026-10-25 15:45,CD Mosconia,L'Entregu CF,3,1,1.800,3.500,3.750
-73555702,2026-10-25 16:00,UD Gijon Industrial,CD Covadonga,0,2,5.000,3.800,1.500
-73555244,2026-10-25 16:30,Caudal Deportivo,Aviles Stadium CF,2,1,1.300,4.750,7.500
-73555368,2026-10-31 14:45,CD Lealtad de Villaviciosa,Club Siero,3,0,,,
-73555678,2026-10-31 14:45,Sporting Atletico,El San Martin Ra,0,2,,,
-73555680,2026-10-31 14:45,CD Praviano,CD Mosconia,5,2,,,
-73555720,2026-10-31 17:15,L'Entregu CF,UD Gijon Industrial,1,4,1.909,3.250,3.500
-73555260,2026-11-01 11:00,Aviles Stadium CF,CD Colunga,1,1,2.150,3.250,2.900
-73555272,2026-11-01 11:00,UC Ceares,Andes CF,3,0,1.333,4.500,7.000
-74744574,2026-11-01 11:00,CD Llanes,Astur CF,1,0,,,
-73555778,2026-11-01 11:30,CD Covadonga,Condal Club,1,1,1.444,4.000,5.750
-73555276,2026-11-01 17:30,UP Langreo,Caudal Deportivo,0,1,2.450,3.100,2.500
-73555736,2026-11-07 17:30,UD Gijon Industrial,CD Praviano,1,0,2.375,3.200,2.600
-73555386,2026-11-07 18:15,Club Siero,Aviles Stadium CF,0,2,1.900,3.300,3.500
-73555346,2026-11-08 11:00,CD Colunga,UP Langreo,2,3,5.250,3.900,1.500
-73555450,2026-11-08 11:00,Condal Club,L'Entregu CF,1,0,1.950,3.100,3.600
-73555694,2026-11-08 11:00,El San Martin Ra,CD Lealtad de Villaviciosa,0,1,3.500,3.200,1.950
-73555360,2026-11-08 11:15,Astur CF,UC Ceares,0,0,2.150,3.100,3.000
-73555358,2026-11-08 14:45,Andes CF,CD Covadonga,2,3,,,
-73555696,2026-11-08 15:45,CD Mosconia,Sporting Atletico,1,1,,,
-74744576,2026-11-08 16:30,Caudal Deportivo,CD Llanes,1,2,1.300,4.500,8.000
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+63136013,2025-12-13 14:45,CD Praviano,UC Ceares,0,1,,,,,,
+63136007,2025-12-14 11:00,Aviles Stadium CF,Sporting Atletico,0,1,,,,,,
+63136009,2025-12-14 11:00,El San Martin Ra,CD Colunga,1,1,1.750,3.250,4.200,2.25,1.800,2.000
+63136015,2025-12-14 11:00,Real Titanico FC,CD Tuilla,1,1,,,,,,
+63136017,2025-12-14 11:00,Navarro CF,Club Siero,0,3,,,,,,
+63136019,2025-12-14 11:00,CD Covadonga,L'Entregu CF,3,0,1.480,3.700,5.750,2.5,2.000,1.800
+63136011,2025-12-14 11:30,SD Lenense,CD Mosconia,0,2,5.000,3.400,1.615,2.25,1.900,1.900
+63136023,2025-12-14 11:30,UD Llanera,CD Llanes,2,0,,,,,,
+63136021,2025-12-14 16:00,UD Gijon Industrial,Caudal Deportivo,1,1,6.250,3.800,1.420,2.5,1.900,1.900
+63136025,2025-12-20 14:45,Sporting Atletico,CD Covadonga,1,1,,,,,,
+63136037,2025-12-20 16:30,L'Entregu CF,El San Martin Ra,1,0,1.950,3.400,3.250,2.25,2.000,1.800
+63136027,2025-12-21 11:00,CD Llanes,Aviles Stadium CF,1,1,,,,,,
+63136029,2025-12-21 11:00,Real Titanico FC,UD Llanera,1,2,8.500,5.000,1.250,3,1.975,1.825
+63136031,2025-12-21 11:00,UC Ceares,UD Gijon Industrial,1,0,1.650,3.400,4.750,2.25,1.875,1.925
+63136035,2025-12-21 11:00,CD Colunga,SD Lenense,4,1,,,,,,
+63136041,2025-12-21 14:45,CD Tuilla,Club Siero,0,1,,,,,,
+63136039,2025-12-21 16:30,CD Mosconia,CD Praviano,2,0,1.666,3.300,4.750,2,1.800,2.000
+63136033,2025-12-21 17:00,Caudal Deportivo,Navarro CF,2,1,1.200,5.750,10.000,3,1.800,2.000
+63136043,2026-01-04 11:00,Aviles Stadium CF,Real Titanico FC,0,0,1.909,3.100,3.800,2.25,1.900,1.900
+63136045,2026-01-04 11:00,El San Martin Ra,Sporting Atletico,0,2,,,,,,
+63136047,2026-01-04 11:00,SD Lenense,L'Entregu CF,0,0,,,,,,
+63136049,2026-01-04 11:00,CD Praviano,CD Colunga,1,0,1.800,3.400,3.900,2.25,1.875,1.925
+63136051,2026-01-04 11:00,Navarro CF,UC Ceares,1,1,3.400,3.100,2.050,2.25,1.950,1.850
+63136055,2026-01-04 11:00,CD Covadonga,CD Llanes,0,0,1.285,4.750,8.000,2.75,1.900,1.900
+63136059,2026-01-04 15:00,CD Tuilla,UD Llanera,1,2,,,,,,
+63136053,2026-01-04 16:00,Club Siero,Caudal Deportivo,1,2,3.800,3.400,1.850,2.5,1.950,1.850
+63136057,2026-01-04 17:00,UD Gijon Industrial,CD Mosconia,0,2,5.250,3.500,1.550,2.25,1.950,1.850
+63136063,2026-01-11 10:30,Sporting Atletico,SD Lenense,3,0,,,,,,
+63136065,2026-01-11 11:00,CD Llanes,El San Martin Ra,2,2,,,,,,
+63136067,2026-01-11 11:00,Real Titanico FC,CD Covadonga,0,5,7.500,4.333,1.333,2.5,1.950,1.850
+63136069,2026-01-11 11:00,UC Ceares,Club Siero,1,0,1.700,3.400,4.333,2.25,1.875,1.925
+63136073,2026-01-11 11:00,CD Colunga,UD Gijon Industrial,1,1,,,,,,
+63136077,2026-01-11 11:30,UD Llanera,Aviles Stadium CF,3,0,1.181,6.500,12.000,3,1.900,1.900
+63136075,2026-01-11 16:00,L'Entregu CF,CD Praviano,2,1,1.950,3.100,3.500,2,1.850,1.950
+63136079,2026-01-11 16:00,CD Mosconia,Navarro CF,2,0,1.400,3.900,7.000,2.5,2.000,1.800
+63136071,2026-01-11 16:30,Caudal Deportivo,CD Tuilla,6,1,1.181,5.750,11.000,3,1.950,1.850
+63136081,2026-01-18 11:00,Aviles Stadium CF,CD Tuilla,0,0,2.000,3.100,3.400,2.25,1.850,1.950
+63136083,2026-01-18 11:00,Sporting Atletico,CD Praviano,4,0,,,,,,
+63136085,2026-01-18 11:00,CD Llanes,SD Lenense,3,0,,,,,,
+63136087,2026-01-18 11:00,Real Titanico FC,El San Martin Ra,0,0,3.250,3.300,1.950,2.25,1.950,1.850
+63136089,2026-01-18 11:00,UC Ceares,Caudal Deportivo,1,0,3.500,3.200,1.900,2.25,2.025,1.775
+63136091,2026-01-18 11:00,CD Colunga,Navarro CF,1,1,,,,,,
+63136095,2026-01-18 11:00,UD Llanera,CD Covadonga,0,5,2.150,3.000,3.200,2.25,1.850,1.950
+63136093,2026-01-18 16:00,L'Entregu CF,UD Gijon Industrial,1,1,1.450,4.100,5.250,2.5,1.900,1.900
+63136097,2026-01-18 16:00,CD Mosconia,Club Siero,1,1,1.500,3.750,5.250,2.5,2.000,1.800
+63136099,2026-01-25 11:00,El San Martin Ra,UD Llanera,0,1,,,,,,
+63136101,2026-01-25 11:00,SD Lenense,Real Titanico FC,2,0,2.050,3.250,3.200,2.25,2.025,1.775
+63136103,2026-01-25 11:00,CD Praviano,CD Llanes,3,3,2.450,3.000,2.700,2,1.850,1.950
+63136105,2026-01-25 11:00,Navarro CF,L'Entregu CF,2,2,,,,,,
+63136111,2026-01-25 11:00,CD Covadonga,Aviles Stadium CF,3,0,1.166,6.500,12.000,2.75,1.875,1.925
+63136113,2026-01-25 11:00,UD Gijon Industrial,Sporting Atletico,2,3,,,,,,
+63136115,2026-01-25 15:15,CD Tuilla,UC Ceares,1,1,,,,,,
+63136109,2026-01-25 16:30,Club Siero,CD Colunga,1,1,2.000,3.200,3.400,2.25,1.900,1.900
+63136107,2026-01-25 17:00,Caudal Deportivo,CD Mosconia,1,3,1.800,3.300,3.900,2.25,1.900,1.900
+63136117,2026-02-01 11:00,Aviles Stadium CF,El San Martin Ra,0,0,2.600,2.900,2.600,2,1.775,2.025
+63136119,2026-02-01 11:00,Sporting Atletico,Navarro CF,3,0,,,,,,
+63136121,2026-02-01 11:00,CD Llanes,UD Gijon Industrial,1,1,,,,,,
+63136123,2026-02-01 11:00,Real Titanico FC,CD Praviano,0,1,,,,,,
+63136125,2026-02-01 11:00,CD Colunga,Caudal Deportivo,0,1,,,,,,
+63136131,2026-02-01 11:00,UD Llanera,SD Lenense,3,0,1.142,7.000,15.000,3.25,2.000,1.800
+63136127,2026-02-01 15:30,CD Covadonga,CD Tuilla,2,1,1.090,8.500,23.000,3.25,2.000,1.800
+63136129,2026-02-01 16:00,L'Entregu CF,Club Siero,1,1,1.700,3.500,4.200,2.5,1.925,1.875
+63136133,2026-02-01 16:00,CD Mosconia,UC Ceares,1,0,1.650,3.300,5.000,2.25,2.050,1.750
+63136149,2026-02-07 17:00,UD Gijon Industrial,Real Titanico FC,3,2,,,,,,
+63136147,2026-02-07 17:30,Club Siero,Sporting Atletico,0,4,,,,,,
+63136135,2026-02-08 11:00,El San Martin Ra,CD Covadonga,0,2,6.250,3.400,1.500,2,2.050,1.750
+63136137,2026-02-08 11:00,SD Lenense,Aviles Stadium CF,1,1,2.450,3.000,2.750,2,1.950,1.850
+63136139,2026-02-08 11:00,CD Praviano,UD Llanera,0,2,5.500,3.500,1.550,2.25,2.000,1.800
+63136141,2026-02-08 11:00,Navarro CF,CD Llanes,1,1,,,,,,
+63136143,2026-02-08 11:00,UC Ceares,CD Colunga,1,3,,,,,,
+63136151,2026-02-08 15:30,CD Tuilla,CD Mosconia,0,3,,,,,,
+63136145,2026-02-08 16:30,Caudal Deportivo,L'Entregu CF,1,0,1.400,4.100,6.250,2.5,2.000,1.800
+63136155,2026-02-15 11:00,El San Martin Ra,CD Tuilla,1,0,1.727,3.200,4.500,2.25,2.025,1.775
+63136157,2026-02-15 11:00,Sporting Atletico,Caudal Deportivo,3,1,,,,,,
+63136159,2026-02-15 11:00,CD Llanes,Club Siero,2,2,,,,,,
+63136161,2026-02-15 11:00,Real Titanico FC,Navarro CF,2,3,2.875,3.000,2.300,2.25,1.775,2.025
+63136163,2026-02-15 11:00,CD Colunga,CD Mosconia,1,0,,,,,,
+63136153,2026-02-15 15:45,Aviles Stadium CF,CD Praviano,3,0,,,,,,
+63136165,2026-02-15 16:00,CD Covadonga,SD Lenense,1,1,1.142,6.250,17.000,3.25,1.900,1.900
+63136169,2026-02-15 16:00,UD Llanera,UD Gijon Industrial,3,0,,,,,,
+63136167,2026-02-15 16:30,L'Entregu CF,UC Ceares,2,1,2.100,3.100,3.200,2,1.800,2.000
+63136177,2026-02-21 15:30,UC Ceares,Sporting Atletico,0,0,,,,,,
+63136175,2026-02-21 15:45,Navarro CF,UD Llanera,2,2,,,,,,
+63136183,2026-02-21 17:00,UD Gijon Industrial,Aviles Stadium CF,1,1,,,,,,
+63136171,2026-02-21 17:30,SD Lenense,El San Martin Ra,1,2,2.800,3.000,2.300,2,1.950,1.850
+63136173,2026-02-22 11:00,CD Praviano,CD Covadonga,1,3,7.500,3.500,1.420,2,1.800,2.000
+63136187,2026-02-22 15:45,CD Tuilla,CD Colunga,1,2,,,,,,
+63136179,2026-02-22 16:30,Caudal Deportivo,CD Llanes,3,1,1.615,3.400,5.000,2.25,1.825,1.975
+63136181,2026-02-22 16:30,Club Siero,Real Titanico FC,2,0,1.700,3.300,4.500,2.5,1.975,1.825
+63136185,2026-02-22 16:30,CD Mosconia,L'Entregu CF,1,1,1.727,3.400,4.100,2.25,1.850,1.950
+63136189,2026-03-01 11:00,Aviles Stadium CF,Navarro CF,1,0,2.050,3.300,3.100,2.25,1.825,1.975
+63136191,2026-03-01 11:00,El San Martin Ra,CD Praviano,0,1,,,,,,
+63136193,2026-03-01 11:00,Sporting Atletico,CD Mosconia,2,1,,,,,,
+63136195,2026-03-01 11:00,SD Lenense,CD Tuilla,0,1,2.050,3.300,3.200,2.25,1.825,1.975
+63136197,2026-03-01 11:00,CD Llanes,UC Ceares,0,1,,,,,,
+63136199,2026-03-01 11:00,Real Titanico FC,Caudal Deportivo,0,1,7.000,3.900,1.400,2.5,2.025,1.775
+63136201,2026-03-01 11:00,CD Covadonga,UD Gijon Industrial,6,0,,,,,,
+63136205,2026-03-01 11:30,UD Llanera,Club Siero,1,0,1.250,5.250,8.000,3,1.975,1.825
+63136203,2026-03-01 16:30,L'Entregu CF,CD Colunga,0,0,1.750,3.300,4.100,2.25,1.850,1.950
+63136211,2026-03-07 16:00,UC Ceares,Real Titanico FC,2,1,1.571,3.600,5.000,2.5,1.950,1.850
+63136207,2026-03-08 11:00,CD Praviano,SD Lenense,0,1,1.666,3.300,4.800,2.25,2.025,1.775
+63136209,2026-03-08 11:00,Navarro CF,CD Covadonga,3,1,,,,,,
+63136215,2026-03-08 11:00,CD Colunga,Sporting Atletico,0,5,,,,,,
+63136219,2026-03-08 11:00,UD Gijon Industrial,El San Martin Ra,1,0,2.800,3.100,2.375,2,1.850,1.950
+63136223,2026-03-08 16:00,CD Tuilla,L'Entregu CF,0,1,,,,,,
+63136213,2026-03-08 16:30,Caudal Deportivo,UD Llanera,0,3,2.375,3.100,2.700,2.5,1.875,1.925
+63136217,2026-03-08 16:30,Club Siero,Aviles Stadium CF,0,0,1.909,3.000,3.800,2,1.775,2.025
+63136221,2026-03-08 16:30,CD Mosconia,CD Llanes,1,0,1.750,3.400,3.900,2.5,1.925,1.875
+63136237,2026-03-14 16:00,Real Titanico FC,CD Mosconia,0,2,4.750,3.300,1.650,2.25,1.900,1.900
+63136227,2026-03-15 11:00,El San Martin Ra,Navarro CF,1,1,,,,,,
+63136229,2026-03-15 11:00,Sporting Atletico,L'Entregu CF,2,0,,,,,,
+63136231,2026-03-15 11:00,SD Lenense,UD Gijon Industrial,2,2,,,,,,
+63136233,2026-03-15 11:00,CD Llanes,CD Colunga,2,1,,,,,,
+63136235,2026-03-15 11:00,CD Praviano,CD Tuilla,3,1,1.833,3.200,3.900,2.25,2.050,1.750
+63136239,2026-03-15 11:00,CD Covadonga,Club Siero,5,0,,,,,,
+63136241,2026-03-15 11:00,UD Llanera,UC Ceares,2,0,1.363,4.200,7.000,2.5,1.975,1.825
+63136225,2026-03-15 16:15,Aviles Stadium CF,Caudal Deportivo,0,1,5.500,3.500,1.533,2.25,1.800,2.000
+63136243,2026-03-22 11:00,Navarro CF,SD Lenense,1,2,1.833,3.400,3.700,2.25,1.875,1.925
+63136245,2026-03-22 11:00,UC Ceares,Aviles Stadium CF,0,2,1.600,3.300,5.250,2,1.775,2.025
+63136253,2026-03-22 11:00,UD Gijon Industrial,CD Praviano,1,1,2.400,3.000,2.700,2,1.925,1.875
+63136249,2026-03-22 15:30,CD Colunga,Real Titanico FC,1,0,,,,,,
+63136259,2026-03-22 16:00,CD Tuilla,Sporting Atletico,1,0,,,,,,
+63136247,2026-03-22 16:30,Caudal Deportivo,CD Covadonga,2,1,3.500,3.200,2.000,2,1.800,2.000
+63136251,2026-03-22 16:30,Club Siero,El San Martin Ra,1,2,2.150,3.100,3.000,2,1.825,1.975
+63136255,2026-03-22 16:30,L'Entregu CF,CD Llanes,4,3,1.950,3.300,3.400,2.25,1.950,1.850
+63136257,2026-03-22 16:30,CD Mosconia,UD Llanera,1,1,3.900,3.100,1.900,2.25,2.025,1.775
+63136263,2026-03-28 16:00,El San Martin Ra,Caudal Deportivo,1,0,3.900,3.100,1.900,2.25,2.025,1.775
+63136265,2026-03-28 16:00,SD Lenense,Club Siero,2,0,2.050,3.200,3.100,2.25,1.975,1.825
+63136273,2026-03-28 16:30,CD Covadonga,UC Ceares,6,1,1.300,4.333,8.500,2.5,1.975,1.825
+63136267,2026-03-29 10:00,CD Llanes,Sporting Atletico,3,3,,,,,,
+63136269,2026-03-29 10:00,CD Praviano,Navarro CF,0,0,1.800,3.400,3.700,2.25,1.900,1.900
+63136271,2026-03-29 10:00,Real Titanico FC,L'Entregu CF,0,5,,,,,,
+63136277,2026-03-29 10:30,UD Llanera,CD Colunga,1,0,,,,,,
+63136275,2026-03-29 16:00,UD Gijon Industrial,CD Tuilla,0,2,2.000,3.300,3.200,2.25,1.900,1.900
+63136261,2026-03-29 16:15,Aviles Stadium CF,CD Mosconia,2,0,3.600,3.100,1.909,2,1.850,1.950
+63136281,2026-04-02 15:00,Navarro CF,UD Gijon Industrial,2,1,2.250,3.000,3.000,2.5,1.850,1.950
+63136295,2026-04-02 15:00,CD Tuilla,CD Llanes,3,2,2.550,3.000,2.500,2.5,1.800,2.000
+63136293,2026-04-02 15:30,CD Mosconia,CD Covadonga,1,2,3.400,2.875,2.100,2,1.925,1.875
+63136285,2026-04-02 16:00,Caudal Deportivo,SD Lenense,4,1,1.333,4.200,7.500,2.5,1.850,1.950
+63136287,2026-04-02 16:00,CD Colunga,Aviles Stadium CF,0,0,,,,,,
+63136291,2026-04-02 16:00,L'Entregu CF,UD Llanera,0,1,3.600,3.750,1.727,2.25,1.925,1.875
+63136289,2026-04-02 17:15,Club Siero,CD Praviano,2,3,2.250,3.000,3.000,2,1.875,1.925
+63136283,2026-04-03 15:00,UC Ceares,El San Martin Ra,0,1,,,,,,
+63136279,2026-04-05 10:00,Sporting Atletico,Real Titanico FC,7,0,,,,,,
+63136297,2026-04-12 10:00,Aviles Stadium CF,L'Entregu CF,0,0,,,,,,
+63136299,2026-04-12 10:00,El San Martin Ra,CD Mosconia,0,1,2.350,2.900,2.900,2,2.000,1.800
+63136305,2026-04-12 10:00,CD Praviano,Caudal Deportivo,0,1,,,,,,
+63136307,2026-04-12 10:00,Real Titanico FC,CD Llanes,2,0,,,,,,
+63136309,2026-04-12 10:00,Navarro CF,CD Tuilla,1,1,,,,,,
+63136311,2026-04-12 10:00,CD Covadonga,CD Colunga,2,0,,,,,,
+63136301,2026-04-12 15:00,SD Lenense,UC Ceares,4,2,,,,,,
+63136315,2026-04-12 15:00,UD Llanera,Sporting Atletico,1,0,,,,,,
+63136313,2026-04-12 16:00,UD Gijon Industrial,Club Siero,3,1,,,,,,
+63136321,2026-04-18 15:00,UC Ceares,CD Praviano,3,2,,,,,,
+63136329,2026-04-18 16:00,L'Entregu CF,CD Covadonga,0,4,,,,,,
+63136319,2026-04-19 10:00,CD Llanes,UD Llanera,0,1,,,,,,
+63136325,2026-04-19 10:00,CD Colunga,El San Martin Ra,2,3,,,,,,
+63136317,2026-04-19 10:30,Sporting Atletico,Aviles Stadium CF,5,0,,,,,,
+63136333,2026-04-19 15:00,CD Tuilla,Real Titanico FC,4,0,,,,,,
+63136331,2026-04-19 16:00,CD Mosconia,SD Lenense,2,0,,,,,,
+63136323,2026-04-19 16:30,Caudal Deportivo,UD Gijon Industrial,4,1,1.333,4.500,7.500,3,2.000,1.800
+63136327,2026-04-19 16:30,Club Siero,Navarro CF,1,0,2.050,3.400,3.000,2.5,2.000,1.800
+63136341,2026-04-25 16:00,CD Praviano,CD Mosconia,0,0,,,,,,
+63136351,2026-04-25 17:00,UD Llanera,Real Titanico FC,3,0,,,,,,
+63136335,2026-04-26 10:00,Aviles Stadium CF,CD Llanes,0,0,,,,,,
+63136337,2026-04-26 10:00,El San Martin Ra,L'Entregu CF,1,0,,,,,,
+63136339,2026-04-26 10:00,SD Lenense,CD Colunga,0,0,,,,,,
+63136343,2026-04-26 10:00,Navarro CF,Caudal Deportivo,0,0,,,,,,
+63136349,2026-04-26 10:00,UD Gijon Industrial,UC Ceares,0,0,,,,,,
+63136347,2026-04-26 10:30,CD Covadonga,Sporting Atletico,5,0,,,,,,
+63136345,2026-04-26 16:30,Club Siero,CD Tuilla,1,0,,,,,,
+63136353,2026-05-03 15:00,Sporting Atletico,El San Martin Ra,2,0,,,,,,
+63136355,2026-05-03 15:00,CD Llanes,CD Covadonga,0,0,,,,,,
+63136357,2026-05-03 15:00,Real Titanico FC,Aviles Stadium CF,2,2,,,,,,
+63136359,2026-05-03 15:00,UC Ceares,Navarro CF,0,0,,,,,,
+63136361,2026-05-03 15:00,Caudal Deportivo,Club Siero,0,0,,,,,,
+63136363,2026-05-03 15:00,CD Colunga,CD Praviano,0,0,,,,,,
+63136365,2026-05-03 15:00,L'Entregu CF,SD Lenense,0,0,,,,,,
+63136367,2026-05-03 15:00,UD Llanera,CD Tuilla,0,0,,,,,,
+63136369,2026-05-03 15:00,CD Mosconia,UD Gijon Industrial,0,0,,,,,,
+63136383,2026-05-09 15:30,CD Covadonga,Real Titanico FC,0,2,,,,,,
+63136371,2026-05-10 15:00,Aviles Stadium CF,UD Llanera,1,2,,,,,,
+63136373,2026-05-10 15:00,El San Martin Ra,CD Llanes,1,0,,,,,,
+63136375,2026-05-10 15:00,SD Lenense,Sporting Atletico,0,0,,,,,,
+63136377,2026-05-10 15:00,CD Praviano,L'Entregu CF,0,0,,,,,,
+63136379,2026-05-10 15:00,Navarro CF,CD Mosconia,0,0,,,,,,
+63136381,2026-05-10 15:00,Club Siero,UC Ceares,0,0,,,,,,
+63136385,2026-05-10 15:00,UD Gijon Industrial,CD Colunga,6,2,,,,,,
+63136387,2026-05-10 15:00,CD Tuilla,Caudal Deportivo,0,0,,,,,,
+71454144,2026-05-17 15:00,CD Mosconia,CD Covadonga,0,0,3.600,3.200,1.909,2.25,2.025,1.775
+71454192,2026-05-17 16:30,Caudal Deportivo,Sporting Atletico,0,0,,,,,,
+71454146,2026-05-24 10:00,CD Covadonga,CD Mosconia,2,1,1.650,3.250,5.000,2,1.850,1.950
+71454260,2026-05-24 10:00,Sporting Atletico,Caudal Deportivo,1,2,,,,,,
+71719642,2026-05-31 16:30,Caudal Deportivo,CD Covadonga,2,1,2.450,3.200,2.550,2.25,1.900,1.900
+71719644,2026-06-07 10:00,CD Covadonga,Caudal Deportivo,2,4,1.900,3.400,3.500,2.5,1.975,1.825
+73554738,2026-09-06 10:00,CD Covadonga,Aviles Stadium CF,4,0,1.200,5.500,11.000,2.75,1.900,1.900
+73554748,2026-09-06 10:00,CD Llanes,CD Mosconia,1,5,,,,,,
+73554750,2026-09-06 10:00,Condal Club,Club Siero,1,0,2.300,3.100,2.800,2.25,1.950,1.850
+73554742,2026-09-06 10:30,Astur CF,Caudal Deportivo,0,3,5.000,4.500,1.500,3.25,1.825,1.975
+73554740,2026-09-06 15:00,UC Ceares,UP Langreo,2,1,3.800,3.200,1.850,2.25,2.000,1.800
+73554744,2026-09-06 15:30,Andes CF,CD Colunga,1,2,,,,,,
+73554734,2026-09-06 15:45,CD Praviano,Sporting Atletico,1,2,,,,,,
+73554746,2026-09-06 16:00,UD Gijon Industrial,El San Martin Ra,2,0,,,,,,
+73554736,2026-09-06 17:00,L'Entregu CF,CD Lealtad de Villaviciosa,0,1,,,,,,
+73554784,2026-09-12 15:30,CD Lealtad de Villaviciosa,CD Praviano,1,2,,,,,,
+74567866,2026-09-13 09:30,Sporting Atletico,CD Llanes,3,1,,,,,,
+73554786,2026-09-13 10:00,Aviles Stadium CF,L'Entregu CF,0,1,2.550,3.000,2.550,2.25,2.000,1.800
+73554792,2026-09-13 10:00,CD Colunga,Astur CF,2,1,1.615,3.700,4.500,2.5,1.975,1.825
+73554788,2026-09-13 15:00,UP Langreo,CD Covadonga,2,2,2.250,2.900,2.900,2,1.850,1.950
+73555416,2026-09-13 15:30,El San Martin Ra,Condal Club,0,4,,,,,,
+73554790,2026-09-13 16:00,Caudal Deportivo,UC Ceares,2,1,1.363,4.000,7.000,2.5,2.000,1.800
+73555184,2026-09-13 16:00,Club Siero,Andes CF,2,0,,,,,,
+73554796,2026-09-13 16:30,CD Mosconia,UD Gijon Industrial,2,0,1.571,3.600,5.250,2.25,1.875,1.925
+73554802,2026-09-20 10:00,Sporting Atletico,CD Lealtad de Villaviciosa,1,0,,,,,,
+73554804,2026-09-20 10:00,CD Praviano,Aviles Stadium CF,0,1,,,,,,
+73554808,2026-09-20 10:00,CD Covadonga,Caudal Deportivo,4,0,2.200,3.200,2.875,2.5,1.825,1.975
+73555192,2026-09-20 10:00,Astur CF,Club Siero,0,1,,,,,,
+74567868,2026-09-20 10:00,CD Llanes,UD Gijon Industrial,2,2,,,,,,
+73554810,2026-09-20 15:00,UC Ceares,CD Colunga,3,4,1.950,3.250,3.400,2.5,2.000,1.800
+74567870,2026-09-20 15:00,Andes CF,El San Martin Ra,1,1,,,,,,
+73555452,2026-09-20 15:30,Condal Club,CD Mosconia,0,0,,,,,,
+73554806,2026-09-20 16:00,L'Entregu CF,UP Langreo,1,3,3.000,3.250,2.150,2.5,2.000,1.800
+73555178,2026-09-26 15:00,CD Colunga,CD Covadonga,1,2,,,,,,
+74744546,2026-09-26 15:00,CD Mosconia,Andes CF,1,0,1.111,7.500,21.000,3,2.000,1.800
+73555218,2026-09-26 16:00,Club Siero,UC Ceares,2,0,1.900,3.400,3.500,2.25,1.800,2.000
+73555176,2026-09-26 17:30,Caudal Deportivo,L'Entregu CF,2,0,1.420,4.333,5.250,2.5,1.800,2.000
+73555172,2026-09-27 10:00,Aviles Stadium CF,Sporting Atletico,1,2,,,,,,
+73555634,2026-09-27 10:00,UD Gijon Industrial,Condal Club,1,2,2.700,3.000,2.450,2.25,1.900,1.900
+73555752,2026-09-27 10:00,CD Lealtad de Villaviciosa,CD Llanes,1,1,,,,,,
+74744548,2026-09-27 10:00,El San Martin Ra,Astur CF,2,2,2.100,3.200,3.100,2.25,1.800,2.000
+73555174,2026-09-27 15:00,UP Langreo,CD Praviano,3,2,,,,,,
+74744550,2026-10-03 15:00,UC Ceares,El San Martin Ra,1,2,2.100,3.100,3.200,2.25,1.900,1.900
+73555204,2026-10-03 17:00,L'Entregu CF,CD Colunga,0,0,1.833,3.300,3.750,2.5,1.975,1.825
+73555198,2026-10-04 10:00,CD Lealtad de Villaviciosa,Aviles Stadium CF,2,0,1.420,4.000,6.250,2.5,1.850,1.950
+73555200,2026-10-04 10:00,Sporting Atletico,UP Langreo,1,1,,,,,,
+73555202,2026-10-04 10:00,CD Praviano,Caudal Deportivo,1,1,,,,,,
+73555540,2026-10-04 10:00,CD Llanes,Condal Club,1,1,,,,,,
+74744552,2026-10-04 10:15,Astur CF,CD Mosconia,0,0,5.000,3.500,1.571,2.25,1.850,1.950
+73555234,2026-10-04 10:30,CD Covadonga,Club Siero,2,1,1.363,4.500,6.250,2.75,1.850,1.950
+74744554,2026-10-04 15:00,Andes CF,UD Gijon Industrial,0,3,,,,,,
+73555212,2026-10-10 14:30,CD Colunga,CD Praviano,5,5,,,,,,
+73555208,2026-10-10 16:00,UP Langreo,CD Lealtad de Villaviciosa,0,1,1.833,3.300,3.750,2.25,1.950,1.850
+74744560,2026-10-10 17:00,CD Mosconia,UC Ceares,2,2,1.533,3.700,5.500,2.5,1.900,1.900
+73555252,2026-10-10 18:00,Club Siero,L'Entregu CF,3,0,2.250,3.100,2.900,2.25,1.875,1.925
+73555210,2026-10-11 10:00,Caudal Deportivo,Sporting Atletico,1,1,,,,,,
+73555240,2026-10-11 10:00,Condal Club,Andes CF,2,0,,,,,,
+74744556,2026-10-11 10:00,Aviles Stadium CF,CD Llanes,2,1,2.375,3.200,2.625,2.5,2.000,1.800
+74744558,2026-10-11 10:00,El San Martin Ra,CD Covadonga,4,2,,,,,,
+74744562,2026-10-11 10:00,UD Gijon Industrial,Astur CF,2,2,1.800,3.300,4.000,2.25,1.850,1.950
+73555226,2026-10-18 10:00,CD Lealtad de Villaviciosa,Caudal Deportivo,0,0,2.550,3.100,2.500,2.25,1.900,1.900
+73555228,2026-10-18 10:00,Sporting Atletico,CD Colunga,4,0,,,,,,
+73555266,2026-10-18 10:00,CD Praviano,Club Siero,4,1,,,,,,
+73555686,2026-10-18 10:00,UC Ceares,UD Gijon Industrial,0,1,2.050,3.200,3.100,2.25,1.800,2.000
+73555706,2026-10-18 10:00,Astur CF,Condal Club,1,1,3.200,3.200,2.050,2.25,1.925,1.875
+74744568,2026-10-18 10:00,CD Llanes,Andes CF,1,1,,,,,,
+74744566,2026-10-18 10:30,CD Covadonga,CD Mosconia,4,0,1.800,3.300,3.800,2.25,1.825,1.975
+73555224,2026-10-18 14:45,Aviles Stadium CF,UP Langreo,0,0,,,,,,
+74744564,2026-10-18 16:00,L'Entregu CF,El San Martin Ra,1,1,,,,,,
+73555786,2026-10-24 14:00,UP Langreo,CD Llanes,1,0,1.363,4.250,7.000,2.5,1.875,1.925
+73555352,2026-10-24 17:45,Club Siero,Sporting Atletico,1,2,,,,,,
+73555246,2026-10-25 11:00,CD Colunga,CD Lealtad de Villaviciosa,0,4,3.700,3.500,1.800,2.5,1.950,1.850
+73555378,2026-10-25 11:00,Condal Club,UC Ceares,0,0,1.800,3.300,4.000,2.25,1.925,1.875
+74744570,2026-10-25 11:00,El San Martin Ra,CD Praviano,1,0,2.400,3.200,2.600,2.25,1.900,1.900
+73555258,2026-10-25 14:45,Andes CF,Astur CF,3,3,,,,,,
+74744572,2026-10-25 15:45,CD Mosconia,L'Entregu CF,3,1,1.800,3.500,3.750,2.25,1.800,2.000
+73555702,2026-10-25 16:00,UD Gijon Industrial,CD Covadonga,0,2,5.000,3.800,1.500,2.75,1.975,1.825
+73555244,2026-10-25 16:30,Caudal Deportivo,Aviles Stadium CF,2,1,1.300,4.750,7.500,3,1.950,1.850
+73555368,2026-10-31 14:45,CD Lealtad de Villaviciosa,Club Siero,3,0,,,,,,
+73555678,2026-10-31 14:45,Sporting Atletico,El San Martin Ra,0,2,,,,,,
+73555680,2026-10-31 14:45,CD Praviano,CD Mosconia,5,2,,,,,,
+73555720,2026-10-31 17:15,L'Entregu CF,UD Gijon Industrial,1,4,1.909,3.250,3.500,2.5,1.950,1.850
+73555260,2026-11-01 11:00,Aviles Stadium CF,CD Colunga,1,1,2.150,3.250,2.900,2.5,2.000,1.800
+73555272,2026-11-01 11:00,UC Ceares,Andes CF,3,0,1.333,4.500,7.000,2.75,1.825,1.975
+74744574,2026-11-01 11:00,CD Llanes,Astur CF,1,0,,,,,,
+73555778,2026-11-01 11:30,CD Covadonga,Condal Club,1,1,1.444,4.000,5.750,2.5,1.900,1.900
+73555276,2026-11-01 17:30,UP Langreo,Caudal Deportivo,0,1,2.450,3.100,2.500,2.25,1.875,1.925
+73555736,2026-11-07 17:30,UD Gijon Industrial,CD Praviano,1,0,2.375,3.200,2.600,2.5,1.950,1.850
+73555386,2026-11-07 18:15,Club Siero,Aviles Stadium CF,0,2,1.900,3.300,3.500,2.25,1.875,1.925
+73555346,2026-11-08 11:00,CD Colunga,UP Langreo,2,3,5.250,3.900,1.500,2.5,1.800,2.000
+73555450,2026-11-08 11:00,Condal Club,L'Entregu CF,1,0,1.950,3.100,3.600,2.25,2.025,1.775
+73555694,2026-11-08 11:00,El San Martin Ra,CD Lealtad de Villaviciosa,0,1,3.500,3.200,1.950,2.25,1.875,1.925
+73555360,2026-11-08 11:15,Astur CF,UC Ceares,0,0,2.150,3.100,3.000,2.25,1.925,1.875
+73555358,2026-11-08 14:45,Andes CF,CD Covadonga,2,3,,,,,,
+73555696,2026-11-08 15:45,CD Mosconia,Sporting Atletico,1,1,,,,,,
+74744576,2026-11-08 16:30,Caudal Deportivo,CD Llanes,1,2,1.300,4.500,8.000,2.75,1.950,1.850

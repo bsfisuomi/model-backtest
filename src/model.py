@@ -40,9 +40,9 @@ def _load(path):
             continue
         r["day"] = r["date"][:10]
         r["hg"], r["ag"] = int(float(r["home_goals"])), int(float(r["away_goals"]))
-        for k in ("close_1", "close_x", "close_2"):
+        for k in ("close_1", "close_x", "close_2", "close_tl", "close_over", "close_under"):
             try:
-                r[k] = float(r[k]) if r[k] else None
+                r[k] = float(r[k]) if r.get(k) else None
             except ValueError:
                 r[k] = None
         rows.append(r)
@@ -176,7 +176,9 @@ class LeagueModel:
             return None, len(last)
         return sum(g for _, g in last) / len(last), len(last)
 
-    def predict(self, home, away, day):
+    def predict(self, home, away, day, tg_source="goals"):
+        """tg_source "goals": team TG = average real total goals (the Excel model);
+        "goal_line": team TG = average closing goal-line mu (GoalLineModel.team_line)."""
         out = {"ha": self.ha}
         if self.ha is None:
             out["reason"] = "no home advantage (too little data)"
@@ -189,11 +191,16 @@ class LeagueModel:
         ph = 1 / (1 + math.exp(-(self.ha + s[home] - s[away])))
         pa = 1 - ph
         out.update(p_home=ph)
-        tgh, gh = self.team_goals_avg(home, day)
-        tga, ga = self.team_goals_avg(away, day)
+        if tg_source == "goal_line":
+            glm = GoalLineModel(self.slug)
+            tgh, gh = glm.team_line(home, day)
+            tga, ga = glm.team_line(away, day)
+        else:
+            tgh, gh = self.team_goals_avg(home, day)
+            tga, ga = self.team_goals_avg(away, day)
         out.update(g_home=gh, g_away=ga)
         if tgh is None or tga is None:
-            out["reason"] = "too few goal matches"
+            out["reason"] = "too few goal matches" if tg_source == "goals" else "too few closing goal lines"
             return out
         E = (M["tg_a"] + M["tg_b"] * abs(ph - pa) * 100) * ((tgh + tga) / 2) / M["tg_norm"]
         lh = math.exp(M["team_a"] + M["team_b"] * ph) * E / M["team_norm"]
@@ -254,3 +261,108 @@ def lines(spec):
     a, b, st = spec
     k = int(round((b - a) / st))
     return [round(a + i * st, 2) for i in range(k + 1)]
+
+
+# ---- Goal Line model: team goal ratings from bet365 closing goal lines -----------------------------
+def _total_probs(mu, line, n=20):
+    """(win, loss) stake fractions of OVER `line` when total goals ~ Poisson(mu)."""
+    pk = [math.exp(-mu) * mu ** k / math.factorial(k) for k in range(n)]
+    w = l = 0.0
+    parts = _split(line)
+    for part in parts:
+        for k, p in enumerate(pk):
+            m = k - part
+            if m > 1e-9:
+                w += p / len(parts)
+            elif m < -1e-9:
+                l += p / len(parts)
+    return w, l
+
+
+def implied_mu(line, over, under):
+    """Expected total goals implied by a closing goal line: the Poisson mean whose no-push over share
+    equals the de-vigged over probability."""
+    p = (1 / over) / (1 / over + 1 / under)
+    lo, hi = 0.05, 12.0
+    for _ in range(60):
+        mid = (lo + hi) / 2
+        w, l = _total_probs(mid, line)
+        if w / (w + l) < p:
+            lo = mid
+        else:
+            hi = mid
+    return (lo + hi) / 2
+
+
+class GoalLineModel:
+    """Total goals from bet365 closing goal lines.
+
+    Every closing main goal line is turned into the expected total mu at which it is 50/50
+    (implied_mu, margin removed). A team's goal line = the average mu of its last goals_matches (20)
+    matches with a closing goal line, in any collected league (so last season / the previous division
+    fill up when this season has fewer). Exactly 20 are required.
+    Match: mu = (team_home + team_away) / 2 - a team at 2.5 and a team at 3.0 give 2.75.
+    Totals are priced with Poisson(mu)."""
+
+    _idx = None
+
+    @classmethod
+    def index(cls):
+        if cls._idx is None:
+            by, _ = all_matches()
+            team = defaultdict(list)
+            seen = set()
+            for rows in by.values():
+                for r in rows:
+                    if r["event_id"] in seen or r["close_tl"] is None or not r["close_over"] or not r["close_under"]:
+                        continue
+                    seen.add(r["event_id"])
+                    mu = implied_mu(r["close_tl"], r["close_over"], r["close_under"])
+                    for t in (r["home"], r["away"]):
+                        team[t].append((r["date"], mu))
+            for t in team:
+                team[t].sort()
+            cls._idx = dict(team)
+        return cls._idx
+
+    def __init__(self, slug):
+        self.slug = slug
+        self.idx = self.index()
+
+    def team_line(self, team, before_day):
+        lst = self.idx.get(team, [])
+        i = bisect_left(lst, (before_day,))
+        last = lst[max(0, i - M["goals_matches"]):i]
+        if len(last) < M["goals_matches"]:
+            return None, len(last)
+        return sum(m for _, m in last) / len(last), len(last)
+
+    def predict(self, home, away, day):
+        th, nh = self.team_line(home, day)
+        ta, na = self.team_line(away, day)
+        out = {"n_home": nh, "n_away": na}
+        if th is None or ta is None:
+            out["reason"] = "too few closing goal lines"
+            return out
+        out.update(team_home=th, team_away=ta, mu=(th + ta) / 2)
+        return out
+
+
+def fair_line(mu):
+    """The quarter line closest to 50/50 for Poisson(mu) total goals."""
+    best = None
+    for k in range(2, 33):
+        ln = k / 4
+        w, l = _total_probs(mu, ln)
+        d = abs(w - l)
+        if best is None or d < best[0]:
+            best = (d, ln)
+    return best[1]
+
+
+def total_matrix(mu, n=20):
+    """Score matrix stand-in for totals pricing: all mass on (k, 0) so total = k."""
+    mat = np.zeros((n, n))
+    for k in range(n):
+        mat[k, 0] = math.exp(-mu) * mu ** k / math.factorial(k)
+    return mat

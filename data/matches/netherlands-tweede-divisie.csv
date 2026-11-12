@@ -1,283 +1,283 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-61967322,2025-12-13 13:30,ACV Assen,IJsselmeervogels,2,2,1.950,3.800,2.875
-61967324,2025-12-13 13:30,GVVV Veenendaal,Jong Almere City FC,0,4,1.950,3.900,2.900
-61967326,2025-12-13 13:30,Excelsior Maassluis,BVV Barendrecht,2,0,1.833,3.900,3.200
-61967328,2025-12-13 13:30,Rkav Volendam,Rijnsburgse Boys,3,4,4.750,4.500,1.500
-61967330,2025-12-13 13:30,Hoek,De Treffers Groesbeek,2,1,2.100,3.700,2.700
-61967332,2025-12-13 13:30,HHC Hardenberg,Amsterdamsche FC,4,1,,,
-61967334,2025-12-13 14:00,K.v.v. Quick Boys,Kozakken Boys Werkendam,1,1,1.571,3.800,4.750
-61967336,2025-12-13 14:00,SV Spakenburg,Koninklijke HFC,3,2,1.700,3.800,3.750
-61967338,2025-12-13 14:00,Jong Sparta Rotterdam,VV Katwijk,2,2,2.550,4.200,2.050
-61967358,2026-01-17 13:30,BVV Barendrecht,HHC Hardenberg,4,1,4.000,3.900,1.650
-61967360,2026-01-17 13:30,Rijnsburgse Boys,GVVV Veenendaal,5,0,1.750,4.100,3.300
-61967362,2026-01-17 13:30,Koninklijke HFC,Hoek,2,1,3.300,3.600,1.850
-61967364,2026-01-17 14:00,SV Spakenburg,Jong Sparta Rotterdam,1,1,1.500,4.750,4.200
-61967366,2026-01-17 14:00,Kozakken Boys Werkendam,ACV Assen,0,2,1.615,3.900,4.000
-61967368,2026-01-17 14:15,Amsterdamsche FC,IJsselmeervogels,1,0,,,
-61967370,2026-01-17 14:30,VV Katwijk,Rkav Volendam,1,2,1.363,4.750,5.750
-61967372,2026-01-17 14:30,Jong Almere City FC,K.v.v. Quick Boys,1,4,2.250,3.900,2.450
-61967374,2026-01-17 17:00,De Treffers Groesbeek,Excelsior Maassluis,4,1,1.800,3.600,3.600
-61967376,2026-01-24 13:30,ACV Assen,Jong Sparta Rotterdam,1,2,2.050,4.100,2.625
-61967378,2026-01-24 13:30,GVVV Veenendaal,De Treffers Groesbeek,3,3,2.350,3.750,2.350
-61967380,2026-01-24 13:30,Excelsior Maassluis,VV Katwijk,0,0,2.800,3.500,2.150
-61967382,2026-01-24 13:30,Rkav Volendam,Koninklijke HFC,1,0,2.750,3.800,2.050
-61967384,2026-01-24 13:30,Hoek,SV Spakenburg,1,1,3.000,4.000,1.900
-61967386,2026-01-24 13:30,HHC Hardenberg,Rijnsburgse Boys,1,3,2.300,3.700,2.400
-61967388,2026-01-24 14:00,K.v.v. Quick Boys,BVV Barendrecht,1,3,1.444,4.500,5.000
-61967390,2026-01-24 14:00,IJsselmeervogels,Jong Almere City FC,3,0,2.875,4.500,1.850
-61967392,2026-01-24 14:00,Kozakken Boys Werkendam,Amsterdamsche FC,1,3,,,
-61967396,2026-01-31 12:30,Rijnsburgse Boys,K.v.v. Quick Boys,1,1,2.050,3.500,3.000
-61967394,2026-01-31 13:30,BVV Barendrecht,IJsselmeervogels,2,4,1.900,3.800,3.100
-61967398,2026-01-31 13:30,Koninklijke HFC,Excelsior Maassluis,1,0,2.200,3.300,2.750
-61967400,2026-01-31 14:00,SV Spakenburg,Rkav Volendam,3,4,1.300,5.000,6.500
-61967402,2026-01-31 14:00,Jong Sparta Rotterdam,Hoek,1,4,3.000,3.800,1.950
-61967404,2026-01-31 14:15,Amsterdamsche FC,ACV Assen,1,1,,,
-61967406,2026-01-31 14:30,VV Katwijk,GVVV Veenendaal,2,1,2.200,3.750,2.600
-61967408,2026-01-31 14:30,Jong Almere City FC,Kozakken Boys Werkendam,3,1,2.050,3.700,2.875
-61967410,2026-01-31 17:00,De Treffers Groesbeek,HHC Hardenberg,1,2,2.100,3.500,2.800
-61967412,2026-02-07 13:30,ACV Assen,Hoek,0,1,2.900,3.600,2.000
-61967414,2026-02-07 13:30,GVVV Veenendaal,Koninklijke HFC,2,1,1.850,3.700,3.400
-61967416,2026-02-07 13:30,Excelsior Maassluis,SV Spakenburg,3,1,2.800,3.700,2.050
-61967418,2026-02-07 13:30,Rkav Volendam,Jong Sparta Rotterdam,1,1,2.050,4.100,2.550
-61967420,2026-02-07 13:30,HHC Hardenberg,VV Katwijk,1,1,1.909,3.750,3.100
-61967422,2026-02-07 14:00,K.v.v. Quick Boys,De Treffers Groesbeek,0,2,1.833,3.750,3.250
-61967424,2026-02-07 14:00,IJsselmeervogels,Rijnsburgse Boys,2,2,3.750,4.100,1.700
-61967426,2026-02-07 14:00,Kozakken Boys Werkendam,BVV Barendrecht,1,0,2.000,3.800,2.900
-61967428,2026-02-07 14:15,Amsterdamsche FC,Jong Almere City FC,0,0,,,
-68272510,2026-02-14 13:30,ACV Assen,SV Spakenburg,2,2,3.200,3.900,1.850
-68272512,2026-02-14 13:30,Excelsior Maassluis,Rijnsburgse Boys,1,2,3.200,3.800,1.833
-68272514,2026-02-14 13:30,GVVV Veenendaal,BVV Barendrecht,1,2,1.550,4.333,4.200
-68272518,2026-02-14 13:30,HHC Hardenberg,Jong Almere City FC,3,1,1.727,4.000,3.600
-68272522,2026-02-14 14:00,IJsselmeervogels,Kozakken Boys Werkendam,0,2,2.350,3.700,2.400
-68272524,2026-02-14 14:00,Jong Sparta Rotterdam,Koninklijke HFC,4,1,2.500,3.900,2.150
-68272526,2026-02-14 14:00,K.v.v. Quick Boys,Amsterdamsche FC,1,1,,,
-61967442,2026-02-21 12:30,VV Katwijk,K.v.v. Quick Boys,1,2,2.750,3.500,2.150
-61967430,2026-02-21 13:30,Rijnsburgse Boys,Kozakken Boys Werkendam,1,0,1.800,3.800,3.400
-61967432,2026-02-21 13:30,BVV Barendrecht,Amsterdamsche FC,2,0,,,
-61967434,2026-02-21 13:30,Hoek,Rkav Volendam,1,0,1.380,4.750,5.500
-61967436,2026-02-21 13:30,Koninklijke HFC,HHC Hardenberg,1,0,2.900,3.500,2.050
-61967444,2026-02-21 13:30,Jong Almere City FC,ACV Assen,2,4,1.571,4.333,4.100
-61967438,2026-02-21 14:00,SV Spakenburg,GVVV Veenendaal,3,2,1.950,4.000,2.900
-61967440,2026-02-21 14:00,Jong Sparta Rotterdam,Excelsior Maassluis,0,4,2.800,3.800,2.000
-61967446,2026-02-21 17:00,De Treffers Groesbeek,IJsselmeervogels,1,0,1.500,4.333,4.750
-61967448,2026-02-28 13:30,ACV Assen,Rkav Volendam,1,2,2.050,3.700,2.800
-61967450,2026-02-28 13:30,GVVV Veenendaal,Jong Sparta Rotterdam,3,0,1.550,4.500,4.100
-61967452,2026-02-28 13:30,Excelsior Maassluis,Hoek,3,1,2.550,3.600,2.250
-61967454,2026-02-28 13:30,HHC Hardenberg,SV Spakenburg,1,1,2.000,3.750,3.000
-61967456,2026-02-28 14:00,K.v.v. Quick Boys,Koninklijke HFC,0,1,1.600,3.700,4.500
-61967458,2026-02-28 14:00,IJsselmeervogels,VV Katwijk,2,3,2.900,3.800,1.909
-61967460,2026-02-28 14:00,Kozakken Boys Werkendam,De Treffers Groesbeek,0,2,2.750,3.600,2.100
-61967462,2026-02-28 14:15,Amsterdamsche FC,Rijnsburgse Boys,3,2,,,
-61967464,2026-02-28 14:30,Jong Almere City FC,BVV Barendrecht,3,3,1.909,4.000,2.900
-61967468,2026-03-07 13:30,BVV Barendrecht,ACV Assen,4,3,1.700,4.100,3.500
-61967470,2026-03-07 13:30,Rkav Volendam,Excelsior Maassluis,4,0,2.400,3.600,2.350
-61967472,2026-03-07 13:30,Rijnsburgse Boys,Jong Almere City FC,2,1,1.500,4.333,4.500
-61967474,2026-03-07 13:30,Hoek,GVVV Veenendaal,0,1,1.850,4.000,3.100
-61967466,2026-03-07 14:00,Koninklijke HFC,IJsselmeervogels,1,0,2.100,3.600,2.800
-61967476,2026-03-07 14:00,SV Spakenburg,K.v.v. Quick Boys,3,1,2.550,3.750,2.200
-61967478,2026-03-07 14:00,Jong Sparta Rotterdam,HHC Hardenberg,2,2,3.900,4.100,1.615
-61967480,2026-03-07 14:30,VV Katwijk,Kozakken Boys Werkendam,2,1,1.950,3.600,3.000
-61967482,2026-03-07 17:00,De Treffers Groesbeek,Amsterdamsche FC,1,1,,,
-61967484,2026-03-14 13:30,GVVV Veenendaal,Rkav Volendam,1,3,1.533,4.100,4.500
-61967486,2026-03-14 13:30,BVV Barendrecht,Rijnsburgse Boys,2,2,3.600,3.900,1.700
-61967488,2026-03-14 13:30,ACV Assen,Excelsior Maassluis,1,1,2.450,3.900,2.150
-61967490,2026-03-14 13:30,HHC Hardenberg,Hoek,1,3,2.050,3.400,2.900
-61967492,2026-03-14 14:00,IJsselmeervogels,SV Spakenburg,0,2,2.550,3.900,2.150
-61967494,2026-03-14 14:00,K.v.v. Quick Boys,Jong Sparta Rotterdam,5,1,1.400,5.250,4.750
-61967496,2026-03-14 14:00,Kozakken Boys Werkendam,Koninklijke HFC,1,2,1.909,3.600,3.200
-61967498,2026-03-14 14:15,Amsterdamsche FC,VV Katwijk,2,2,,,
-61967500,2026-03-14 14:30,Jong Almere City FC,De Treffers Groesbeek,2,3,2.500,4.000,2.150
-61967502,2026-03-21 13:30,Rkav Volendam,HHC Hardenberg,1,0,3.000,3.700,1.950
-61967504,2026-03-21 13:30,Excelsior Maassluis,GVVV Veenendaal,0,2,2.550,3.700,2.250
-61967506,2026-03-21 13:30,Rijnsburgse Boys,ACV Assen,1,1,1.400,4.500,5.500
-61967508,2026-03-21 13:30,Hoek,K.v.v. Quick Boys,1,1,2.450,3.500,2.450
-61967510,2026-03-21 13:30,Koninklijke HFC,Amsterdamsche FC,2,1,,,
-61967512,2026-03-21 14:00,SV Spakenburg,Kozakken Boys Werkendam,3,3,1.727,4.000,3.500
-61967514,2026-03-21 14:00,Jong Sparta Rotterdam,IJsselmeervogels,4,0,2.700,4.100,1.950
-61967516,2026-03-21 14:30,VV Katwijk,Jong Almere City FC,3,0,1.700,4.200,3.400
-61967518,2026-03-21 17:00,De Treffers Groesbeek,BVV Barendrecht,3,0,1.444,4.500,5.250
-61967524,2026-03-28 13:00,Rijnsburgse Boys,De Treffers Groesbeek,2,2,2.000,3.800,2.875
-61967520,2026-03-28 13:30,BVV Barendrecht,VV Katwijk,2,3,2.875,4.000,1.909
-61967522,2026-03-28 13:30,ACV Assen,GVVV Veenendaal,0,0,2.875,3.800,2.000
-61967526,2026-03-28 13:30,HHC Hardenberg,Excelsior Maassluis,4,0,1.500,4.000,4.750
-61967528,2026-03-28 14:00,IJsselmeervogels,Hoek,1,1,3.200,3.700,1.900
-61967530,2026-03-28 14:00,K.v.v. Quick Boys,Rkav Volendam,1,0,1.333,5.000,6.250
-61967532,2026-03-28 14:00,Kozakken Boys Werkendam,Jong Sparta Rotterdam,1,4,1.800,4.000,3.300
-61967534,2026-03-28 14:15,Amsterdamsche FC,SV Spakenburg,2,0,,,
-61967536,2026-03-28 14:30,Jong Almere City FC,Koninklijke HFC,2,1,1.833,3.900,3.100
-70532192,2026-04-04 12:30,Hoek,VV Katwijk,2,0,2.000,3.750,2.800
-70532198,2026-04-04 12:30,Rkav Volendam,De Treffers Groesbeek,0,1,3.900,4.000,1.650
-61967552,2026-04-11 11:30,VV Katwijk,Rijnsburgse Boys,3,2,2.750,3.750,2.050
-61967538,2026-04-11 12:30,GVVV Veenendaal,HHC Hardenberg,1,2,2.350,3.500,2.450
-61967540,2026-04-11 12:30,Hoek,Kozakken Boys Werkendam,1,2,1.615,3.800,4.333
-61967542,2026-04-11 12:30,Excelsior Maassluis,K.v.v. Quick Boys,1,2,4.333,3.400,1.666
-61967544,2026-04-11 12:30,Rkav Volendam,IJsselmeervogels,0,2,2.300,3.700,2.450
-61967546,2026-04-11 12:30,Koninklijke HFC,BVV Barendrecht,1,2,2.200,3.250,2.900
-61967548,2026-04-11 13:00,Jong Sparta Rotterdam,Amsterdamsche FC,2,0,,,
-61967550,2026-04-11 13:00,SV Spakenburg,Jong Almere City FC,1,0,1.571,4.200,4.200
-61967554,2026-04-11 16:00,De Treffers Groesbeek,ACV Assen,6,2,1.450,4.500,4.750
-61967556,2026-04-18 12:30,Rijnsburgse Boys,Koninklijke HFC,2,0,1.400,4.500,5.750
-61967558,2026-04-18 12:30,ACV Assen,HHC Hardenberg,0,2,3.200,3.800,1.909
-61967560,2026-04-18 12:30,BVV Barendrecht,SV Spakenburg,0,3,2.900,4.100,1.900
-61967562,2026-04-18 13:00,K.v.v. Quick Boys,GVVV Veenendaal,6,0,1.550,3.900,4.500
-61967564,2026-04-18 13:00,Kozakken Boys Werkendam,Rkav Volendam,0,0,1.727,4.000,3.500
-61967566,2026-04-18 13:00,IJsselmeervogels,Excelsior Maassluis,0,0,1.666,3.900,3.900
-61967568,2026-04-18 13:15,Amsterdamsche FC,Hoek,1,5,,,
-61967570,2026-04-18 13:30,Jong Almere City FC,Jong Sparta Rotterdam,3,0,1.833,4.500,2.875
-61967572,2026-04-18 16:00,De Treffers Groesbeek,VV Katwijk,4,1,1.833,3.800,3.250
-61967574,2026-04-25 12:30,GVVV Veenendaal,IJsselmeervogels,3,1,2.100,3.750,2.750
-61967576,2026-04-25 12:30,Excelsior Maassluis,Kozakken Boys Werkendam,1,2,2.100,3.600,2.700
-61967578,2026-04-25 12:30,Hoek,Jong Almere City FC,4,0,1.480,4.500,4.500
-61967580,2026-04-25 12:30,HHC Hardenberg,K.v.v. Quick Boys,1,2,2.600,3.600,2.200
-61967582,2026-04-25 12:30,Rkav Volendam,Amsterdamsche FC,0,3,,,
-61967584,2026-04-25 12:30,Koninklijke HFC,De Treffers Groesbeek,0,1,5.500,4.750,1.380
-61967586,2026-04-25 13:00,SV Spakenburg,Rijnsburgse Boys,3,2,2.750,4.000,2.050
-61967588,2026-04-25 13:00,Jong Sparta Rotterdam,BVV Barendrecht,4,1,2.300,4.000,2.300
-61967590,2026-04-25 13:30,VV Katwijk,ACV Assen,3,2,1.500,4.333,4.750
-61967592,2026-05-09 12:30,ACV Assen,K.v.v. Quick Boys,1,2,4.500,4.200,1.500
-61967594,2026-05-09 12:30,BVV Barendrecht,Hoek,4,2,3.800,4.500,1.571
-61967596,2026-05-09 12:30,Rijnsburgse Boys,Jong Sparta Rotterdam,4,2,1.400,5.000,5.000
-61967598,2026-05-09 13:00,IJsselmeervogels,HHC Hardenberg,2,0,2.750,3.400,2.100
-61967600,2026-05-09 13:00,Kozakken Boys Werkendam,GVVV Veenendaal,3,1,2.250,3.750,2.500
-61967602,2026-05-09 13:15,Amsterdamsche FC,Excelsior Maassluis,3,2,,,
-61967604,2026-05-09 13:30,VV Katwijk,Koninklijke HFC,4,0,1.480,4.200,4.750
-61967606,2026-05-09 13:30,Jong Almere City FC,Rkav Volendam,3,2,1.800,4.000,3.300
-61967608,2026-05-09 16:00,De Treffers Groesbeek,SV Spakenburg,0,0,1.750,4.100,3.500
-61967610,2026-05-16 13:30,ACV Assen,Koninklijke HFC,1,0,1.833,3.900,3.200
-61967612,2026-05-16 13:30,GVVV Veenendaal,Amsterdamsche FC,1,1,,,
-61967614,2026-05-16 13:30,Excelsior Maassluis,Jong Almere City FC,0,0,2.300,3.750,2.450
-61967616,2026-05-16 13:30,Rkav Volendam,BVV Barendrecht,5,2,2.200,4.000,2.375
-61967618,2026-05-16 13:30,K.v.v. Quick Boys,IJsselmeervogels,2,2,1.420,4.500,5.500
-61967620,2026-05-16 13:30,Hoek,Rijnsburgse Boys,2,0,2.200,4.000,2.350
-61967622,2026-05-16 13:30,HHC Hardenberg,Kozakken Boys Werkendam,3,3,1.750,3.800,3.600
-61967624,2026-05-16 13:30,SV Spakenburg,VV Katwijk,2,1,2.450,4.000,2.150
-61967626,2026-05-16 13:30,Jong Sparta Rotterdam,De Treffers Groesbeek,1,4,4.100,4.750,1.533
-61967628,2026-05-23 13:30,BVV Barendrecht,Excelsior Maassluis,1,2,2.450,3.750,2.250
-61967630,2026-05-23 13:30,Rijnsburgse Boys,Rkav Volendam,7,0,1.420,5.000,4.750
-61967632,2026-05-23 13:30,VV Katwijk,Jong Sparta Rotterdam,0,0,1.533,4.500,4.100
-61967634,2026-05-23 13:30,IJsselmeervogels,ACV Assen,2,4,3.100,3.750,1.909
-61967636,2026-05-23 13:30,Jong Almere City FC,GVVV Veenendaal,5,4,2.150,4.000,2.450
-61967638,2026-05-23 13:30,Kozakken Boys Werkendam,K.v.v. Quick Boys,1,2,4.000,3.900,1.650
-61967640,2026-05-23 13:30,Amsterdamsche FC,HHC Hardenberg,2,3,,,
-61967642,2026-05-23 13:30,Koninklijke HFC,SV Spakenburg,3,2,3.900,4.500,1.550
-61967644,2026-05-23 13:30,De Treffers Groesbeek,Hoek,2,2,1.950,4.000,2.800
-71732456,2026-05-27 18:00,VV Sparta Nijkerk,IJsselmeervogels,0,3,2.350,3.700,2.400
-71732466,2026-05-27 18:00,ADO 20 Heemskerk,FC Lisse,2,0,2.700,3.750,2.150
-71732468,2026-05-27 18:00,FC Rijnvogels,SV Dvs 33 Ermelo,1,0,2.200,3.600,2.625
-71732476,2026-05-27 18:00,VVSB Noordwijkerhout,Excelsior Maassluis,1,1,2.900,3.500,2.050
-71732484,2026-05-30 12:30,FC Lisse,ADO 20 Heemskerk,0,1,1.909,3.400,3.400
-71732494,2026-05-30 12:30,Excelsior Maassluis,VVSB Noordwijkerhout,3,0,1.650,3.700,4.200
-71732458,2026-05-30 13:00,IJsselmeervogels,VV Sparta Nijkerk,2,1,1.833,3.800,3.300
-71732486,2026-05-30 13:00,SV Dvs 33 Ermelo,FC Rijnvogels,2,2,2.200,3.400,2.750
-71829500,2026-06-03 18:00,ADO 20 Heemskerk,IJsselmeervogels,0,7,2.700,3.000,2.250
-71829502,2026-06-03 18:00,FC Rijnvogels,Excelsior Maassluis,0,0,3.100,3.400,2.000
-71829506,2026-06-06 12:30,Excelsior Maassluis,FC Rijnvogels,2,1,1.533,4.200,4.500
-71829504,2026-06-06 13:00,IJsselmeervogels,ADO 20 Heemskerk,1,0,1.380,5.000,5.750
-71957314,2026-06-06 17:00,FC Groningen,Jong Sparta Rotterdam,1,1,2.150,3.400,2.500
-72594440,2026-08-15 12:30,Hoek,Koninklijke HFC,3,1,1.550,4.100,4.500
-72594438,2026-08-15 13:00,BVV Barendrecht,HHC Hardenberg,1,3,2.750,3.700,2.050
-72594442,2026-08-15 13:00,Jong Sparta Rotterdam,Rohda Raalte,6,1,1.800,3.750,3.500
-72594444,2026-08-15 13:00,Kozakken Boys Werkendam,IJsselmeervogels,1,2,2.150,3.700,2.700
-72594446,2026-08-15 13:00,K.v.v. Quick Boys,Rkav Volendam,5,0,1.444,5.000,4.750
-72594448,2026-08-15 13:00,SV Spakenburg,VV Katwijk,1,0,1.750,3.900,3.500
-72594450,2026-08-15 13:15,Amsterdamsche FC,VV Kloetinge,1,3,,,
-72594452,2026-08-15 15:30,Jong Almere City FC,Rijnsburgse Boys,4,0,2.700,3.900,2.050
-72594454,2026-08-15 16:00,De Treffers Groesbeek,GVVV Veenendaal,5,1,1.444,4.333,5.250
-72594456,2026-08-22 12:00,Koninklijke HFC,BVV Barendrecht,1,2,2.000,3.800,2.800
-72594458,2026-08-22 12:30,GVVV Veenendaal,Amsterdamsche FC,2,3,,,
-72594460,2026-08-22 12:30,HHC Hardenberg,Jong Almere City FC,2,1,2.100,3.800,2.625
-72594462,2026-08-22 12:30,Rijnsburgse Boys,Jong Sparta Rotterdam,3,6,1.650,4.750,3.400
-72594464,2026-08-22 12:30,Rkav Volendam,SV Spakenburg,2,1,3.600,4.333,1.615
-72594466,2026-08-22 13:00,IJsselmeervogels,K.v.v. Quick Boys,0,1,3.400,3.800,1.800
-72594468,2026-08-22 13:00,VV Katwijk,Hoek,1,1,2.250,3.800,2.450
-72594470,2026-08-22 13:00,VV Kloetinge,Kozakken Boys Werkendam,3,3,2.375,3.600,2.400
-72594472,2026-08-23 12:00,Rohda Raalte,De Treffers Groesbeek,0,3,7.500,5.500,1.250
-72594476,2026-08-29 12:30,Hoek,SV Spakenburg,0,2,2.625,3.800,2.100
-72594474,2026-08-29 13:00,BVV Barendrecht,VV Katwijk,0,2,2.800,4.000,2.000
-72594478,2026-08-29 13:00,IJsselmeervogels,Rkav Volendam,1,1,1.700,3.900,3.500
-72594480,2026-08-29 13:00,Jong Sparta Rotterdam,HHC Hardenberg,1,3,2.700,4.000,2.000
-72594482,2026-08-29 13:00,Kozakken Boys Werkendam,GVVV Veenendaal,3,2,2.350,3.750,2.375
-72594484,2026-08-29 13:00,K.v.v. Quick Boys,VV Kloetinge,4,0,1.285,5.250,7.000
-72594488,2026-08-29 13:00,Jong Almere City FC,Koninklijke HFC,1,2,1.615,3.900,4.000
-72594486,2026-08-29 13:15,Amsterdamsche FC,Rohda Raalte,2,0,,,
-72594490,2026-08-29 16:00,De Treffers Groesbeek,Rijnsburgse Boys,1,1,1.500,4.500,4.200
-72594492,2026-09-05 12:00,Koninklijke HFC,Jong Sparta Rotterdam,2,2,2.450,3.800,2.250
-72594494,2026-09-05 12:30,GVVV Veenendaal,K.v.v. Quick Boys,0,3,4.000,4.100,1.600
-72594496,2026-09-05 12:30,HHC Hardenberg,De Treffers Groesbeek,2,2,2.625,3.700,2.150
-72594498,2026-09-05 12:30,Rijnsburgse Boys,Amsterdamsche FC,3,0,,,
-72594500,2026-09-05 12:30,Rkav Volendam,Hoek,2,1,2.700,3.800,2.050
-72594502,2026-09-05 13:00,VV Katwijk,Jong Almere City FC,3,2,2.050,3.800,2.700
-72594504,2026-09-05 13:00,VV Kloetinge,IJsselmeervogels,0,2,2.625,3.750,2.100
-72594506,2026-09-05 13:00,Rohda Raalte,Kozakken Boys Werkendam,1,2,4.750,4.200,1.480
-72594508,2026-09-05 13:00,SV Spakenburg,BVV Barendrecht,1,3,,,
-72594510,2026-09-12 13:00,BVV Barendrecht,Hoek,1,1,3.000,3.900,1.900
-72594514,2026-09-12 13:00,Jong Sparta Rotterdam,VV Katwijk,2,2,2.450,3.900,2.200
-72594516,2026-09-12 13:00,VV Kloetinge,Rkav Volendam,1,1,2.300,3.700,2.450
-72594518,2026-09-12 13:00,Kozakken Boys Werkendam,Rijnsburgse Boys,6,1,2.550,3.900,2.200
-72594520,2026-09-12 13:00,K.v.v. Quick Boys,Rohda Raalte,3,1,1.111,8.000,15.000
-72594524,2026-09-12 13:00,Jong Almere City FC,SV Spakenburg,0,3,2.550,4.000,2.150
-72594522,2026-09-12 13:15,Amsterdamsche FC,HHC Hardenberg,2,2,,,
-72594526,2026-09-12 16:00,De Treffers Groesbeek,Koninklijke HFC,1,1,1.420,4.500,5.250
-72594536,2026-09-19 11:30,Rijnsburgse Boys,K.v.v. Quick Boys,3,1,3.400,4.000,1.727
-72594528,2026-09-19 12:30,Koninklijke HFC,Amsterdamsche FC,1,3,,,
-72594530,2026-09-19 12:30,GVVV Veenendaal,VV Kloetinge,3,0,1.750,4.100,3.300
-72594532,2026-09-19 12:30,HHC Hardenberg,Kozakken Boys Werkendam,1,2,2.300,3.700,2.400
-72594534,2026-09-19 12:30,Hoek,Jong Almere City FC,2,2,1.750,3.900,3.400
-72594538,2026-09-19 12:30,Rkav Volendam,BVV Barendrecht,1,1,2.150,3.800,2.550
-72594540,2026-09-19 13:00,VV Katwijk,De Treffers Groesbeek,1,2,3.300,4.000,1.750
-72594542,2026-09-19 13:00,Rohda Raalte,IJsselmeervogels,0,1,4.500,4.333,1.500
-72594544,2026-09-19 13:00,SV Spakenburg,Jong Sparta Rotterdam,1,1,1.500,4.750,4.200
-72594546,2026-09-26 12:30,GVVV Veenendaal,Rkav Volendam,3,2,1.750,4.000,3.300
-72594548,2026-09-26 13:00,IJsselmeervogels,Rijnsburgse Boys,3,0,2.375,3.800,2.300
-72594550,2026-09-26 13:00,Jong Sparta Rotterdam,Hoek,3,0,2.600,3.900,2.100
-72594552,2026-09-26 13:00,VV Kloetinge,Rohda Raalte,3,3,1.571,4.200,4.200
-72594554,2026-09-26 13:00,Kozakken Boys Werkendam,Koninklijke HFC,1,1,1.666,3.900,3.800
-72594556,2026-09-26 13:00,K.v.v. Quick Boys,HHC Hardenberg,2,0,1.533,4.333,4.500
-72594560,2026-09-26 13:00,Jong Almere City FC,BVV Barendrecht,1,4,1.750,4.000,3.400
-72594558,2026-09-26 13:15,Amsterdamsche FC,VV Katwijk,0,1,,,
-72594562,2026-09-26 16:00,De Treffers Groesbeek,SV Spakenburg,5,0,2.100,4.000,2.550
-72594564,2026-10-03 12:00,Koninklijke HFC,K.v.v. Quick Boys,2,3,4.750,4.500,1.450
-72594568,2026-10-03 12:30,HHC Hardenberg,IJsselmeervogels,2,1,2.250,3.700,2.500
-72594570,2026-10-03 12:30,Hoek,De Treffers Groesbeek,3,1,3.200,4.000,1.800
-72594572,2026-10-03 12:30,Rijnsburgse Boys,VV Kloetinge,4,1,1.533,4.333,4.200
-72594574,2026-10-03 12:30,Rkav Volendam,Jong Almere City FC,1,4,1.950,4.000,2.875
-72594566,2026-10-03 13:00,BVV Barendrecht,Jong Sparta Rotterdam,3,2,2.200,4.100,2.400
-72594576,2026-10-03 13:00,VV Katwijk,Kozakken Boys Werkendam,1,5,2.350,3.700,2.375
-72594578,2026-10-03 13:00,Rohda Raalte,GVVV Veenendaal,1,3,4.500,5.000,1.444
-72594580,2026-10-03 13:00,SV Spakenburg,Amsterdamsche FC,2,1,,,
-72594592,2026-10-10 11:30,K.v.v. Quick Boys,VV Katwijk,6,0,1.571,4.200,4.200
-72594582,2026-10-10 12:30,GVVV Veenendaal,Rijnsburgse Boys,4,1,2.450,4.100,2.150
-72594584,2026-10-10 13:00,IJsselmeervogels,Koninklijke HFC,2,0,1.727,3.900,3.600
-72594586,2026-10-10 13:00,Jong Sparta Rotterdam,Jong Almere City FC,1,4,1.750,4.333,3.200
-72594588,2026-10-10 13:00,VV Kloetinge,HHC Hardenberg,3,3,3.200,3.900,1.850
-72594590,2026-10-10 13:00,Kozakken Boys Werkendam,SV Spakenburg,2,0,2.300,3.900,2.400
-72594594,2026-10-10 13:00,Rohda Raalte,Rkav Volendam,2,8,4.100,4.200,1.571
-72594596,2026-10-10 13:15,Amsterdamsche FC,Hoek,2,0,,,
-72594598,2026-10-10 16:00,De Treffers Groesbeek,BVV Barendrecht,4,0,1.363,5.000,5.500
-72594600,2026-10-17 12:00,Koninklijke HFC,VV Kloetinge,2,1,2.250,3.700,2.550
-72594604,2026-10-17 12:30,HHC Hardenberg,GVVV Veenendaal,2,1,2.050,3.800,2.750
-72594606,2026-10-17 12:30,Hoek,Kozakken Boys Werkendam,0,0,2.600,3.800,2.150
-72594608,2026-10-17 12:30,Rijnsburgse Boys,Rohda Raalte,1,0,1.270,5.750,7.000
-72594610,2026-10-17 12:30,Rkav Volendam,Jong Sparta Rotterdam,2,1,2.050,4.100,2.600
-72594602,2026-10-17 13:00,BVV Barendrecht,Amsterdamsche FC,4,1,,,
-72594612,2026-10-17 13:00,VV Katwijk,IJsselmeervogels,1,2,2.400,3.700,2.300
-72594614,2026-10-17 13:00,SV Spakenburg,K.v.v. Quick Boys,1,1,3.100,3.700,1.909
-72594616,2026-10-17 13:00,Jong Almere City FC,De Treffers Groesbeek,2,3,3.500,4.100,1.700
-72594618,2026-10-24 12:30,GVVV Veenendaal,Koninklijke HFC,2,0,1.727,4.100,3.500
-72594620,2026-10-24 12:30,Rijnsburgse Boys,Rkav Volendam,0,1,1.666,4.333,3.500
-72594622,2026-10-24 13:00,IJsselmeervogels,SV Spakenburg,2,1,2.350,3.750,2.350
-72594624,2026-10-24 13:00,VV Kloetinge,VV Katwijk,1,3,2.625,3.900,2.100
-72594626,2026-10-24 13:00,Kozakken Boys Werkendam,BVV Barendrecht,0,1,1.666,4.100,3.600
-72594628,2026-10-24 13:00,K.v.v. Quick Boys,Hoek,3,1,1.571,4.200,4.000
-72594630,2026-10-24 13:00,Rohda Raalte,HHC Hardenberg,0,1,6.000,5.000,1.363
-72594632,2026-10-24 13:15,Amsterdamsche FC,Jong Almere City FC,0,1,,,
-72594634,2026-10-24 16:00,De Treffers Groesbeek,Jong Sparta Rotterdam,3,3,1.420,5.000,4.750
-72594636,2026-11-07 13:00,Koninklijke HFC,Rohda Raalte,4,1,1.533,4.750,4.200
-72594640,2026-11-07 13:30,HHC Hardenberg,Rijnsburgse Boys,2,0,2.100,3.900,2.625
-72594642,2026-11-07 13:30,Hoek,IJsselmeervogels,0,3,2.150,3.400,2.600
-72594644,2026-11-07 13:30,Rkav Volendam,De Treffers Groesbeek,3,1,3.700,4.100,1.700
-72594638,2026-11-07 14:00,BVV Barendrecht,K.v.v. Quick Boys,1,2,3.600,4.100,1.666
-72594646,2026-11-07 14:00,Jong Sparta Rotterdam,Amsterdamsche FC,5,5,,,
-72594648,2026-11-07 14:00,VV Katwijk,GVVV Veenendaal,1,3,2.350,3.750,2.350
-72594650,2026-11-07 14:00,SV Spakenburg,VV Kloetinge,4,1,1.380,5.000,5.250
-72594652,2026-11-07 14:00,Jong Almere City FC,Kozakken Boys Werkendam,1,5,2.750,3.750,2.050
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+61967322,2025-12-13 13:30,ACV Assen,IJsselmeervogels,2,2,1.950,3.800,2.875,3.25,1.875,1.925
+61967324,2025-12-13 13:30,GVVV Veenendaal,Jong Almere City FC,0,4,1.950,3.900,2.900,3.25,1.825,1.975
+61967326,2025-12-13 13:30,Excelsior Maassluis,BVV Barendrecht,2,0,1.833,3.900,3.200,3,1.950,1.850
+61967328,2025-12-13 13:30,Rkav Volendam,Rijnsburgse Boys,3,4,4.750,4.500,1.500,3.5,1.900,1.900
+61967330,2025-12-13 13:30,Hoek,De Treffers Groesbeek,2,1,2.100,3.700,2.700,3,2.025,1.775
+61967332,2025-12-13 13:30,HHC Hardenberg,Amsterdamsche FC,4,1,,,,,,
+61967334,2025-12-13 14:00,K.v.v. Quick Boys,Kozakken Boys Werkendam,1,1,1.571,3.800,4.750,2.75,1.875,1.925
+61967336,2025-12-13 14:00,SV Spakenburg,Koninklijke HFC,3,2,1.700,3.800,3.750,3,1.825,1.975
+61967338,2025-12-13 14:00,Jong Sparta Rotterdam,VV Katwijk,2,2,2.550,4.200,2.050,3.75,1.850,1.950
+61967358,2026-01-17 13:30,BVV Barendrecht,HHC Hardenberg,4,1,4.000,3.900,1.650,3,1.950,1.850
+61967360,2026-01-17 13:30,Rijnsburgse Boys,GVVV Veenendaal,5,0,1.750,4.100,3.300,3.25,1.900,1.900
+61967362,2026-01-17 13:30,Koninklijke HFC,Hoek,2,1,3.300,3.600,1.850,2.5,1.800,2.000
+61967364,2026-01-17 14:00,SV Spakenburg,Jong Sparta Rotterdam,1,1,1.500,4.750,4.200,4,1.925,1.875
+61967366,2026-01-17 14:00,Kozakken Boys Werkendam,ACV Assen,0,2,1.615,3.900,4.000,2.75,1.825,1.975
+61967368,2026-01-17 14:15,Amsterdamsche FC,IJsselmeervogels,1,0,,,,,,
+61967370,2026-01-17 14:30,VV Katwijk,Rkav Volendam,1,2,1.363,4.750,5.750,3.5,1.825,1.975
+61967372,2026-01-17 14:30,Jong Almere City FC,K.v.v. Quick Boys,1,4,2.250,3.900,2.450,3,1.850,1.950
+61967374,2026-01-17 17:00,De Treffers Groesbeek,Excelsior Maassluis,4,1,1.800,3.600,3.600,2.75,1.900,1.900
+61967376,2026-01-24 13:30,ACV Assen,Jong Sparta Rotterdam,1,2,2.050,4.100,2.625,3.25,1.875,1.925
+61967378,2026-01-24 13:30,GVVV Veenendaal,De Treffers Groesbeek,3,3,2.350,3.750,2.350,3,1.875,1.925
+61967380,2026-01-24 13:30,Excelsior Maassluis,VV Katwijk,0,0,2.800,3.500,2.150,2.75,1.925,1.875
+61967382,2026-01-24 13:30,Rkav Volendam,Koninklijke HFC,1,0,2.750,3.800,2.050,3,1.950,1.850
+61967384,2026-01-24 13:30,Hoek,SV Spakenburg,1,1,3.000,4.000,1.900,3.25,1.950,1.850
+61967386,2026-01-24 13:30,HHC Hardenberg,Rijnsburgse Boys,1,3,2.300,3.700,2.400,3,1.900,1.900
+61967388,2026-01-24 14:00,K.v.v. Quick Boys,BVV Barendrecht,1,3,1.444,4.500,5.000,3.25,1.950,1.850
+61967390,2026-01-24 14:00,IJsselmeervogels,Jong Almere City FC,3,0,2.875,4.500,1.850,3.5,1.975,1.825
+61967392,2026-01-24 14:00,Kozakken Boys Werkendam,Amsterdamsche FC,1,3,,,,,,
+61967396,2026-01-31 12:30,Rijnsburgse Boys,K.v.v. Quick Boys,1,1,2.050,3.500,3.000,2.75,1.950,1.850
+61967394,2026-01-31 13:30,BVV Barendrecht,IJsselmeervogels,2,4,1.900,3.800,3.100,3.5,1.975,1.825
+61967398,2026-01-31 13:30,Koninklijke HFC,Excelsior Maassluis,1,0,2.200,3.300,2.750,2.5,1.825,1.975
+61967400,2026-01-31 14:00,SV Spakenburg,Rkav Volendam,3,4,1.300,5.000,6.500,3.75,1.900,1.900
+61967402,2026-01-31 14:00,Jong Sparta Rotterdam,Hoek,1,4,3.000,3.800,1.950,3.25,1.925,1.875
+61967404,2026-01-31 14:15,Amsterdamsche FC,ACV Assen,1,1,,,,,,
+61967406,2026-01-31 14:30,VV Katwijk,GVVV Veenendaal,2,1,2.200,3.750,2.600,3.25,2.000,1.800
+61967408,2026-01-31 14:30,Jong Almere City FC,Kozakken Boys Werkendam,3,1,2.050,3.700,2.875,3,1.850,1.950
+61967410,2026-01-31 17:00,De Treffers Groesbeek,HHC Hardenberg,1,2,2.100,3.500,2.800,2.75,1.800,2.000
+61967412,2026-02-07 13:30,ACV Assen,Hoek,0,1,2.900,3.600,2.000,3,1.825,1.975
+61967414,2026-02-07 13:30,GVVV Veenendaal,Koninklijke HFC,2,1,1.850,3.700,3.400,3,1.975,1.825
+61967416,2026-02-07 13:30,Excelsior Maassluis,SV Spakenburg,3,1,2.800,3.700,2.050,3,1.975,1.825
+61967418,2026-02-07 13:30,Rkav Volendam,Jong Sparta Rotterdam,1,1,2.050,4.100,2.550,3.5,1.900,1.900
+61967420,2026-02-07 13:30,HHC Hardenberg,VV Katwijk,1,1,1.909,3.750,3.100,3,1.975,1.825
+61967422,2026-02-07 14:00,K.v.v. Quick Boys,De Treffers Groesbeek,0,2,1.833,3.750,3.250,2.75,1.800,2.000
+61967424,2026-02-07 14:00,IJsselmeervogels,Rijnsburgse Boys,2,2,3.750,4.100,1.700,3.25,1.825,1.975
+61967426,2026-02-07 14:00,Kozakken Boys Werkendam,BVV Barendrecht,1,0,2.000,3.800,2.900,3,1.950,1.850
+61967428,2026-02-07 14:15,Amsterdamsche FC,Jong Almere City FC,0,0,,,,,,
+68272510,2026-02-14 13:30,ACV Assen,SV Spakenburg,2,2,3.200,3.900,1.850,3.25,1.950,1.850
+68272512,2026-02-14 13:30,Excelsior Maassluis,Rijnsburgse Boys,1,2,3.200,3.800,1.833,3,1.925,1.875
+68272514,2026-02-14 13:30,GVVV Veenendaal,BVV Barendrecht,1,2,1.550,4.333,4.200,3.5,1.900,1.900
+68272518,2026-02-14 13:30,HHC Hardenberg,Jong Almere City FC,3,1,1.727,4.000,3.600,3,1.875,1.925
+68272522,2026-02-14 14:00,IJsselmeervogels,Kozakken Boys Werkendam,0,2,2.350,3.700,2.400,3,1.925,1.875
+68272524,2026-02-14 14:00,Jong Sparta Rotterdam,Koninklijke HFC,4,1,2.500,3.900,2.150,3,1.850,1.950
+68272526,2026-02-14 14:00,K.v.v. Quick Boys,Amsterdamsche FC,1,1,,,,,,
+61967442,2026-02-21 12:30,VV Katwijk,K.v.v. Quick Boys,1,2,2.750,3.500,2.150,2.75,1.850,1.950
+61967430,2026-02-21 13:30,Rijnsburgse Boys,Kozakken Boys Werkendam,1,0,1.800,3.800,3.400,3,2.000,1.800
+61967432,2026-02-21 13:30,BVV Barendrecht,Amsterdamsche FC,2,0,,,,,,
+61967434,2026-02-21 13:30,Hoek,Rkav Volendam,1,0,1.380,4.750,5.500,3.25,1.850,1.950
+61967436,2026-02-21 13:30,Koninklijke HFC,HHC Hardenberg,1,0,2.900,3.500,2.050,2.75,2.000,1.800
+61967444,2026-02-21 13:30,Jong Almere City FC,ACV Assen,2,4,1.571,4.333,4.100,3.25,1.800,2.000
+61967438,2026-02-21 14:00,SV Spakenburg,GVVV Veenendaal,3,2,1.950,4.000,2.900,3.5,2.000,1.800
+61967440,2026-02-21 14:00,Jong Sparta Rotterdam,Excelsior Maassluis,0,4,2.800,3.800,2.000,3,1.850,1.950
+61967446,2026-02-21 17:00,De Treffers Groesbeek,IJsselmeervogels,1,0,1.500,4.333,4.750,3.25,1.925,1.875
+61967448,2026-02-28 13:30,ACV Assen,Rkav Volendam,1,2,2.050,3.700,2.800,3,1.825,1.975
+61967450,2026-02-28 13:30,GVVV Veenendaal,Jong Sparta Rotterdam,3,0,1.550,4.500,4.100,3.5,2.000,1.800
+61967452,2026-02-28 13:30,Excelsior Maassluis,Hoek,3,1,2.550,3.600,2.250,2.75,1.975,1.825
+61967454,2026-02-28 13:30,HHC Hardenberg,SV Spakenburg,1,1,2.000,3.750,3.000,3,1.950,1.850
+61967456,2026-02-28 14:00,K.v.v. Quick Boys,Koninklijke HFC,0,1,1.600,3.700,4.500,2.5,1.800,2.000
+61967458,2026-02-28 14:00,IJsselmeervogels,VV Katwijk,2,3,2.900,3.800,1.909,3.25,1.975,1.825
+61967460,2026-02-28 14:00,Kozakken Boys Werkendam,De Treffers Groesbeek,0,2,2.750,3.600,2.100,2.75,1.975,1.825
+61967462,2026-02-28 14:15,Amsterdamsche FC,Rijnsburgse Boys,3,2,,,,,,
+61967464,2026-02-28 14:30,Jong Almere City FC,BVV Barendrecht,3,3,1.909,4.000,2.900,3.5,2.000,1.800
+61967468,2026-03-07 13:30,BVV Barendrecht,ACV Assen,4,3,1.700,4.100,3.500,3,1.800,2.000
+61967470,2026-03-07 13:30,Rkav Volendam,Excelsior Maassluis,4,0,2.400,3.600,2.350,3,2.000,1.800
+61967472,2026-03-07 13:30,Rijnsburgse Boys,Jong Almere City FC,2,1,1.500,4.333,4.500,3.25,1.825,1.975
+61967474,2026-03-07 13:30,Hoek,GVVV Veenendaal,0,1,1.850,4.000,3.100,3,1.875,1.925
+61967466,2026-03-07 14:00,Koninklijke HFC,IJsselmeervogels,1,0,2.100,3.600,2.800,2.75,1.850,1.950
+61967476,2026-03-07 14:00,SV Spakenburg,K.v.v. Quick Boys,3,1,2.550,3.750,2.200,3,2.000,1.800
+61967478,2026-03-07 14:00,Jong Sparta Rotterdam,HHC Hardenberg,2,2,3.900,4.100,1.615,3.25,1.950,1.850
+61967480,2026-03-07 14:30,VV Katwijk,Kozakken Boys Werkendam,2,1,1.950,3.600,3.000,2.75,1.925,1.875
+61967482,2026-03-07 17:00,De Treffers Groesbeek,Amsterdamsche FC,1,1,,,,,,
+61967484,2026-03-14 13:30,GVVV Veenendaal,Rkav Volendam,1,3,1.533,4.100,4.500,3.25,1.850,1.950
+61967486,2026-03-14 13:30,BVV Barendrecht,Rijnsburgse Boys,2,2,3.600,3.900,1.700,3.25,1.875,1.925
+61967488,2026-03-14 13:30,ACV Assen,Excelsior Maassluis,1,1,2.450,3.900,2.150,2.75,2.000,1.800
+61967490,2026-03-14 13:30,HHC Hardenberg,Hoek,1,3,2.050,3.400,2.900,2.75,1.875,1.925
+61967492,2026-03-14 14:00,IJsselmeervogels,SV Spakenburg,0,2,2.550,3.900,2.150,3.25,1.800,2.000
+61967494,2026-03-14 14:00,K.v.v. Quick Boys,Jong Sparta Rotterdam,5,1,1.400,5.250,4.750,3.5,1.975,1.825
+61967496,2026-03-14 14:00,Kozakken Boys Werkendam,Koninklijke HFC,1,2,1.909,3.600,3.200,2.5,1.800,2.000
+61967498,2026-03-14 14:15,Amsterdamsche FC,VV Katwijk,2,2,,,,,,
+61967500,2026-03-14 14:30,Jong Almere City FC,De Treffers Groesbeek,2,3,2.500,4.000,2.150,3.25,2.000,1.800
+61967502,2026-03-21 13:30,Rkav Volendam,HHC Hardenberg,1,0,3.000,3.700,1.950,3,1.900,1.900
+61967504,2026-03-21 13:30,Excelsior Maassluis,GVVV Veenendaal,0,2,2.550,3.700,2.250,2.75,1.800,2.000
+61967506,2026-03-21 13:30,Rijnsburgse Boys,ACV Assen,1,1,1.400,4.500,5.500,3.5,2.000,1.800
+61967508,2026-03-21 13:30,Hoek,K.v.v. Quick Boys,1,1,2.450,3.500,2.450,2.5,1.825,1.975
+61967510,2026-03-21 13:30,Koninklijke HFC,Amsterdamsche FC,2,1,,,,,,
+61967512,2026-03-21 14:00,SV Spakenburg,Kozakken Boys Werkendam,3,3,1.727,4.000,3.500,3,1.825,1.975
+61967514,2026-03-21 14:00,Jong Sparta Rotterdam,IJsselmeervogels,4,0,2.700,4.100,1.950,3.5,1.875,1.925
+61967516,2026-03-21 14:30,VV Katwijk,Jong Almere City FC,3,0,1.700,4.200,3.400,3.25,1.875,1.925
+61967518,2026-03-21 17:00,De Treffers Groesbeek,BVV Barendrecht,3,0,1.444,4.500,5.250,3.25,1.850,1.950
+61967524,2026-03-28 13:00,Rijnsburgse Boys,De Treffers Groesbeek,2,2,2.000,3.800,2.875,3,2.000,1.800
+61967520,2026-03-28 13:30,BVV Barendrecht,VV Katwijk,2,3,2.875,4.000,1.909,3.25,1.875,1.925
+61967522,2026-03-28 13:30,ACV Assen,GVVV Veenendaal,0,0,2.875,3.800,2.000,3,1.900,1.900
+61967526,2026-03-28 13:30,HHC Hardenberg,Excelsior Maassluis,4,0,1.500,4.000,4.750,2.75,1.900,1.900
+61967528,2026-03-28 14:00,IJsselmeervogels,Hoek,1,1,3.200,3.700,1.900,3,1.875,1.925
+61967530,2026-03-28 14:00,K.v.v. Quick Boys,Rkav Volendam,1,0,1.333,5.000,6.250,3.25,1.975,1.825
+61967532,2026-03-28 14:00,Kozakken Boys Werkendam,Jong Sparta Rotterdam,1,4,1.800,4.000,3.300,3.25,1.825,1.975
+61967534,2026-03-28 14:15,Amsterdamsche FC,SV Spakenburg,2,0,,,,,,
+61967536,2026-03-28 14:30,Jong Almere City FC,Koninklijke HFC,2,1,1.833,3.900,3.100,3,1.800,2.000
+70532192,2026-04-04 12:30,Hoek,VV Katwijk,2,0,2.000,3.750,2.800,3,1.950,1.850
+70532198,2026-04-04 12:30,Rkav Volendam,De Treffers Groesbeek,0,1,3.900,4.000,1.650,3,1.850,1.950
+61967552,2026-04-11 11:30,VV Katwijk,Rijnsburgse Boys,3,2,2.750,3.750,2.050,3.25,1.975,1.825
+61967538,2026-04-11 12:30,GVVV Veenendaal,HHC Hardenberg,1,2,2.350,3.500,2.450,3,2.000,1.800
+61967540,2026-04-11 12:30,Hoek,Kozakken Boys Werkendam,1,2,1.615,3.800,4.333,2.75,1.800,2.000
+61967542,2026-04-11 12:30,Excelsior Maassluis,K.v.v. Quick Boys,1,2,4.333,3.400,1.666,2.75,1.900,1.900
+61967544,2026-04-11 12:30,Rkav Volendam,IJsselmeervogels,0,2,2.300,3.700,2.450,3.25,1.975,1.825
+61967546,2026-04-11 12:30,Koninklijke HFC,BVV Barendrecht,1,2,2.200,3.250,2.900,3,1.800,2.000
+61967548,2026-04-11 13:00,Jong Sparta Rotterdam,Amsterdamsche FC,2,0,,,,,,
+61967550,2026-04-11 13:00,SV Spakenburg,Jong Almere City FC,1,0,1.571,4.200,4.200,3.5,1.825,1.975
+61967554,2026-04-11 16:00,De Treffers Groesbeek,ACV Assen,6,2,1.450,4.500,4.750,3,1.900,1.900
+61967556,2026-04-18 12:30,Rijnsburgse Boys,Koninklijke HFC,2,0,1.400,4.500,5.750,3.25,1.925,1.875
+61967558,2026-04-18 12:30,ACV Assen,HHC Hardenberg,0,2,3.200,3.800,1.909,3,1.975,1.825
+61967560,2026-04-18 12:30,BVV Barendrecht,SV Spakenburg,0,3,2.900,4.100,1.900,3.5,1.925,1.875
+61967562,2026-04-18 13:00,K.v.v. Quick Boys,GVVV Veenendaal,6,0,1.550,3.900,4.500,2.75,1.900,1.900
+61967564,2026-04-18 13:00,Kozakken Boys Werkendam,Rkav Volendam,0,0,1.727,4.000,3.500,3,1.850,1.950
+61967566,2026-04-18 13:00,IJsselmeervogels,Excelsior Maassluis,0,0,1.666,3.900,3.900,3,1.850,1.950
+61967568,2026-04-18 13:15,Amsterdamsche FC,Hoek,1,5,,,,,,
+61967570,2026-04-18 13:30,Jong Almere City FC,Jong Sparta Rotterdam,3,0,1.833,4.500,2.875,3.75,1.925,1.875
+61967572,2026-04-18 16:00,De Treffers Groesbeek,VV Katwijk,4,1,1.833,3.800,3.250,3,1.800,2.000
+61967574,2026-04-25 12:30,GVVV Veenendaal,IJsselmeervogels,3,1,2.100,3.750,2.750,3,1.825,1.975
+61967576,2026-04-25 12:30,Excelsior Maassluis,Kozakken Boys Werkendam,1,2,2.100,3.600,2.700,2.75,1.875,1.925
+61967578,2026-04-25 12:30,Hoek,Jong Almere City FC,4,0,1.480,4.500,4.500,3.25,1.875,1.925
+61967580,2026-04-25 12:30,HHC Hardenberg,K.v.v. Quick Boys,1,2,2.600,3.600,2.200,2.75,1.950,1.850
+61967582,2026-04-25 12:30,Rkav Volendam,Amsterdamsche FC,0,3,,,,,,
+61967584,2026-04-25 12:30,Koninklijke HFC,De Treffers Groesbeek,0,1,5.500,4.750,1.380,3.25,1.850,1.950
+61967586,2026-04-25 13:00,SV Spakenburg,Rijnsburgse Boys,3,2,2.750,4.000,2.050,3.5,1.900,1.900
+61967588,2026-04-25 13:00,Jong Sparta Rotterdam,BVV Barendrecht,4,1,2.300,4.000,2.300,3.75,1.950,1.850
+61967590,2026-04-25 13:30,VV Katwijk,ACV Assen,3,2,1.500,4.333,4.750,3.25,1.825,1.975
+61967592,2026-05-09 12:30,ACV Assen,K.v.v. Quick Boys,1,2,4.500,4.200,1.500,3,1.975,1.825
+61967594,2026-05-09 12:30,BVV Barendrecht,Hoek,4,2,3.800,4.500,1.571,3.5,1.925,1.875
+61967596,2026-05-09 12:30,Rijnsburgse Boys,Jong Sparta Rotterdam,4,2,1.400,5.000,5.000,4,1.975,1.825
+61967598,2026-05-09 13:00,IJsselmeervogels,HHC Hardenberg,2,0,2.750,3.400,2.100,3,1.950,1.850
+61967600,2026-05-09 13:00,Kozakken Boys Werkendam,GVVV Veenendaal,3,1,2.250,3.750,2.500,3,1.900,1.900
+61967602,2026-05-09 13:15,Amsterdamsche FC,Excelsior Maassluis,3,2,,,,,,
+61967604,2026-05-09 13:30,VV Katwijk,Koninklijke HFC,4,0,1.480,4.200,4.750,3.25,1.875,1.925
+61967606,2026-05-09 13:30,Jong Almere City FC,Rkav Volendam,3,2,1.800,4.000,3.300,3.25,1.850,1.950
+61967608,2026-05-09 16:00,De Treffers Groesbeek,SV Spakenburg,0,0,1.750,4.100,3.500,3.25,1.850,1.950
+61967610,2026-05-16 13:30,ACV Assen,Koninklijke HFC,1,0,1.833,3.900,3.200,3,2.000,1.800
+61967612,2026-05-16 13:30,GVVV Veenendaal,Amsterdamsche FC,1,1,,,,,,
+61967614,2026-05-16 13:30,Excelsior Maassluis,Jong Almere City FC,0,0,2.300,3.750,2.450,3.25,2.000,1.800
+61967616,2026-05-16 13:30,Rkav Volendam,BVV Barendrecht,5,2,2.200,4.000,2.375,3.75,1.975,1.825
+61967618,2026-05-16 13:30,K.v.v. Quick Boys,IJsselmeervogels,2,2,1.420,4.500,5.500,3,1.775,2.025
+61967620,2026-05-16 13:30,Hoek,Rijnsburgse Boys,2,0,2.200,4.000,2.350,3.5,2.000,1.800
+61967622,2026-05-16 13:30,HHC Hardenberg,Kozakken Boys Werkendam,3,3,1.750,3.800,3.600,3,1.825,1.975
+61967624,2026-05-16 13:30,SV Spakenburg,VV Katwijk,2,1,2.450,4.000,2.150,3.75,1.800,2.000
+61967626,2026-05-16 13:30,Jong Sparta Rotterdam,De Treffers Groesbeek,1,4,4.100,4.750,1.533,3.75,1.875,1.925
+61967628,2026-05-23 13:30,BVV Barendrecht,Excelsior Maassluis,1,2,2.450,3.750,2.250,3.25,1.900,1.900
+61967630,2026-05-23 13:30,Rijnsburgse Boys,Rkav Volendam,7,0,1.420,5.000,4.750,4,1.900,1.900
+61967632,2026-05-23 13:30,VV Katwijk,Jong Sparta Rotterdam,0,0,1.533,4.500,4.100,4.25,2.000,1.800
+61967634,2026-05-23 13:30,IJsselmeervogels,ACV Assen,2,4,3.100,3.750,1.909,3.25,1.900,1.900
+61967636,2026-05-23 13:30,Jong Almere City FC,GVVV Veenendaal,5,4,2.150,4.000,2.450,3.75,1.875,1.925
+61967638,2026-05-23 13:30,Kozakken Boys Werkendam,K.v.v. Quick Boys,1,2,4.000,3.900,1.650,3,1.825,1.975
+61967640,2026-05-23 13:30,Amsterdamsche FC,HHC Hardenberg,2,3,,,,,,
+61967642,2026-05-23 13:30,Koninklijke HFC,SV Spakenburg,3,2,3.900,4.500,1.550,3.5,1.850,1.950
+61967644,2026-05-23 13:30,De Treffers Groesbeek,Hoek,2,2,1.950,4.000,2.800,3.25,1.825,1.975
+71732456,2026-05-27 18:00,VV Sparta Nijkerk,IJsselmeervogels,0,3,2.350,3.700,2.400,3,1.800,2.000
+71732466,2026-05-27 18:00,ADO 20 Heemskerk,FC Lisse,2,0,2.700,3.750,2.150,2.5,1.800,2.000
+71732468,2026-05-27 18:00,FC Rijnvogels,SV Dvs 33 Ermelo,1,0,2.200,3.600,2.625,2.75,1.800,2.000
+71732476,2026-05-27 18:00,VVSB Noordwijkerhout,Excelsior Maassluis,1,1,2.900,3.500,2.050,2.75,1.850,1.950
+71732484,2026-05-30 12:30,FC Lisse,ADO 20 Heemskerk,0,1,1.909,3.400,3.400,2.5,1.900,1.900
+71732494,2026-05-30 12:30,Excelsior Maassluis,VVSB Noordwijkerhout,3,0,1.650,3.700,4.200,2.75,1.825,1.975
+71732458,2026-05-30 13:00,IJsselmeervogels,VV Sparta Nijkerk,2,1,1.833,3.800,3.300,3.25,2.000,1.800
+71732486,2026-05-30 13:00,SV Dvs 33 Ermelo,FC Rijnvogels,2,2,2.200,3.400,2.750,2.75,1.875,1.925
+71829500,2026-06-03 18:00,ADO 20 Heemskerk,IJsselmeervogels,0,7,2.700,3.000,2.250,2.75,1.950,1.850
+71829502,2026-06-03 18:00,FC Rijnvogels,Excelsior Maassluis,0,0,3.100,3.400,2.000,2.5,1.825,1.975
+71829506,2026-06-06 12:30,Excelsior Maassluis,FC Rijnvogels,2,1,1.533,4.200,4.500,3,1.875,1.925
+71829504,2026-06-06 13:00,IJsselmeervogels,ADO 20 Heemskerk,1,0,1.380,5.000,5.750,3,1.825,1.975
+71957314,2026-06-06 17:00,FC Groningen,Jong Sparta Rotterdam,1,1,2.150,3.400,2.500,3.25,1.900,1.900
+72594440,2026-08-15 12:30,Hoek,Koninklijke HFC,3,1,1.550,4.100,4.500,3,2.000,1.800
+72594438,2026-08-15 13:00,BVV Barendrecht,HHC Hardenberg,1,3,2.750,3.700,2.050,3.25,1.900,1.900
+72594442,2026-08-15 13:00,Jong Sparta Rotterdam,Rohda Raalte,6,1,1.800,3.750,3.500,3.25,1.950,1.850
+72594444,2026-08-15 13:00,Kozakken Boys Werkendam,IJsselmeervogels,1,2,2.150,3.700,2.700,3,1.825,1.975
+72594446,2026-08-15 13:00,K.v.v. Quick Boys,Rkav Volendam,5,0,1.444,5.000,4.750,3,1.825,1.975
+72594448,2026-08-15 13:00,SV Spakenburg,VV Katwijk,1,0,1.750,3.900,3.500,3.5,2.000,1.800
+72594450,2026-08-15 13:15,Amsterdamsche FC,VV Kloetinge,1,3,,,,,,
+72594452,2026-08-15 15:30,Jong Almere City FC,Rijnsburgse Boys,4,0,2.700,3.900,2.050,3.5,1.925,1.875
+72594454,2026-08-15 16:00,De Treffers Groesbeek,GVVV Veenendaal,5,1,1.444,4.333,5.250,3.25,1.950,1.850
+72594456,2026-08-22 12:00,Koninklijke HFC,BVV Barendrecht,1,2,2.000,3.800,2.800,3,1.850,1.950
+72594458,2026-08-22 12:30,GVVV Veenendaal,Amsterdamsche FC,2,3,,,,,,
+72594460,2026-08-22 12:30,HHC Hardenberg,Jong Almere City FC,2,1,2.100,3.800,2.625,3.25,2.000,1.800
+72594462,2026-08-22 12:30,Rijnsburgse Boys,Jong Sparta Rotterdam,3,6,1.650,4.750,3.400,3.75,1.800,2.000
+72594464,2026-08-22 12:30,Rkav Volendam,SV Spakenburg,2,1,3.600,4.333,1.615,3.75,2.000,1.800
+72594466,2026-08-22 13:00,IJsselmeervogels,K.v.v. Quick Boys,0,1,3.400,3.800,1.800,3,1.950,1.850
+72594468,2026-08-22 13:00,VV Katwijk,Hoek,1,1,2.250,3.800,2.450,3.25,2.000,1.800
+72594470,2026-08-22 13:00,VV Kloetinge,Kozakken Boys Werkendam,3,3,2.375,3.600,2.400,3,1.950,1.850
+72594472,2026-08-23 12:00,Rohda Raalte,De Treffers Groesbeek,0,3,7.500,5.500,1.250,3.25,1.900,1.900
+72594476,2026-08-29 12:30,Hoek,SV Spakenburg,0,2,2.625,3.800,2.100,3.25,1.925,1.875
+72594474,2026-08-29 13:00,BVV Barendrecht,VV Katwijk,0,2,2.800,4.000,2.000,3.5,1.900,1.900
+72594478,2026-08-29 13:00,IJsselmeervogels,Rkav Volendam,1,1,1.700,3.900,3.500,3.25,1.975,1.825
+72594480,2026-08-29 13:00,Jong Sparta Rotterdam,HHC Hardenberg,1,3,2.700,4.000,2.000,3.5,1.875,1.925
+72594482,2026-08-29 13:00,Kozakken Boys Werkendam,GVVV Veenendaal,3,2,2.350,3.750,2.375,3.25,1.950,1.850
+72594484,2026-08-29 13:00,K.v.v. Quick Boys,VV Kloetinge,4,0,1.285,5.250,7.000,3,1.800,2.000
+72594488,2026-08-29 13:00,Jong Almere City FC,Koninklijke HFC,1,2,1.615,3.900,4.000,3,1.825,1.975
+72594486,2026-08-29 13:15,Amsterdamsche FC,Rohda Raalte,2,0,,,,,,
+72594490,2026-08-29 16:00,De Treffers Groesbeek,Rijnsburgse Boys,1,1,1.500,4.500,4.200,3.75,1.975,1.825
+72594492,2026-09-05 12:00,Koninklijke HFC,Jong Sparta Rotterdam,2,2,2.450,3.800,2.250,3.25,1.850,1.950
+72594494,2026-09-05 12:30,GVVV Veenendaal,K.v.v. Quick Boys,0,3,4.000,4.100,1.600,3.25,1.975,1.825
+72594496,2026-09-05 12:30,HHC Hardenberg,De Treffers Groesbeek,2,2,2.625,3.700,2.150,3.25,2.000,1.800
+72594498,2026-09-05 12:30,Rijnsburgse Boys,Amsterdamsche FC,3,0,,,,,,
+72594500,2026-09-05 12:30,Rkav Volendam,Hoek,2,1,2.700,3.800,2.050,3,1.800,2.000
+72594502,2026-09-05 13:00,VV Katwijk,Jong Almere City FC,3,2,2.050,3.800,2.700,3.25,1.850,1.950
+72594504,2026-09-05 13:00,VV Kloetinge,IJsselmeervogels,0,2,2.625,3.750,2.100,3,1.825,1.975
+72594506,2026-09-05 13:00,Rohda Raalte,Kozakken Boys Werkendam,1,2,4.750,4.200,1.480,3.25,1.925,1.875
+72594508,2026-09-05 13:00,SV Spakenburg,BVV Barendrecht,1,3,,,,,,
+72594510,2026-09-12 13:00,BVV Barendrecht,Hoek,1,1,3.000,3.900,1.900,3.25,1.975,1.825
+72594514,2026-09-12 13:00,Jong Sparta Rotterdam,VV Katwijk,2,2,2.450,3.900,2.200,3.5,1.825,1.975
+72594516,2026-09-12 13:00,VV Kloetinge,Rkav Volendam,1,1,2.300,3.700,2.450,3,1.825,1.975
+72594518,2026-09-12 13:00,Kozakken Boys Werkendam,Rijnsburgse Boys,6,1,2.550,3.900,2.200,3.25,1.800,2.000
+72594520,2026-09-12 13:00,K.v.v. Quick Boys,Rohda Raalte,3,1,1.111,8.000,15.000,3.5,1.900,1.900
+72594524,2026-09-12 13:00,Jong Almere City FC,SV Spakenburg,0,3,2.550,4.000,2.150,3.5,1.900,1.900
+72594522,2026-09-12 13:15,Amsterdamsche FC,HHC Hardenberg,2,2,,,,,,
+72594526,2026-09-12 16:00,De Treffers Groesbeek,Koninklijke HFC,1,1,1.420,4.500,5.250,3.25,1.850,1.950
+72594536,2026-09-19 11:30,Rijnsburgse Boys,K.v.v. Quick Boys,3,1,3.400,4.000,1.727,3.25,1.825,1.975
+72594528,2026-09-19 12:30,Koninklijke HFC,Amsterdamsche FC,1,3,,,,,,
+72594530,2026-09-19 12:30,GVVV Veenendaal,VV Kloetinge,3,0,1.750,4.100,3.300,3.5,1.975,1.825
+72594532,2026-09-19 12:30,HHC Hardenberg,Kozakken Boys Werkendam,1,2,2.300,3.700,2.400,3.25,2.000,1.800
+72594534,2026-09-19 12:30,Hoek,Jong Almere City FC,2,2,1.750,3.900,3.400,3.25,2.000,1.800
+72594538,2026-09-19 12:30,Rkav Volendam,BVV Barendrecht,1,1,2.150,3.800,2.550,3.25,1.900,1.900
+72594540,2026-09-19 13:00,VV Katwijk,De Treffers Groesbeek,1,2,3.300,4.000,1.750,3.25,1.925,1.875
+72594542,2026-09-19 13:00,Rohda Raalte,IJsselmeervogels,0,1,4.500,4.333,1.500,3.25,1.975,1.825
+72594544,2026-09-19 13:00,SV Spakenburg,Jong Sparta Rotterdam,1,1,1.500,4.750,4.200,3.75,1.800,2.000
+72594546,2026-09-26 12:30,GVVV Veenendaal,Rkav Volendam,3,2,1.750,4.000,3.300,3.25,1.900,1.900
+72594548,2026-09-26 13:00,IJsselmeervogels,Rijnsburgse Boys,3,0,2.375,3.800,2.300,3.25,1.875,1.925
+72594550,2026-09-26 13:00,Jong Sparta Rotterdam,Hoek,3,0,2.600,3.900,2.100,3.5,1.975,1.825
+72594552,2026-09-26 13:00,VV Kloetinge,Rohda Raalte,3,3,1.571,4.200,4.200,3.25,1.800,2.000
+72594554,2026-09-26 13:00,Kozakken Boys Werkendam,Koninklijke HFC,1,1,1.666,3.900,3.800,3.25,2.000,1.800
+72594556,2026-09-26 13:00,K.v.v. Quick Boys,HHC Hardenberg,2,0,1.533,4.333,4.500,3,1.775,2.025
+72594560,2026-09-26 13:00,Jong Almere City FC,BVV Barendrecht,1,4,1.750,4.000,3.400,3.5,2.000,1.800
+72594558,2026-09-26 13:15,Amsterdamsche FC,VV Katwijk,0,1,,,,,,
+72594562,2026-09-26 16:00,De Treffers Groesbeek,SV Spakenburg,5,0,2.100,4.000,2.550,3.5,1.925,1.875
+72594564,2026-10-03 12:00,Koninklijke HFC,K.v.v. Quick Boys,2,3,4.750,4.500,1.450,3,1.800,2.000
+72594568,2026-10-03 12:30,HHC Hardenberg,IJsselmeervogels,2,1,2.250,3.700,2.500,2.75,1.775,2.025
+72594570,2026-10-03 12:30,Hoek,De Treffers Groesbeek,3,1,3.200,4.000,1.800,3,1.900,1.900
+72594572,2026-10-03 12:30,Rijnsburgse Boys,VV Kloetinge,4,1,1.533,4.333,4.200,3.75,1.925,1.875
+72594574,2026-10-03 12:30,Rkav Volendam,Jong Almere City FC,1,4,1.950,4.000,2.875,3.5,1.975,1.825
+72594566,2026-10-03 13:00,BVV Barendrecht,Jong Sparta Rotterdam,3,2,2.200,4.100,2.400,4,1.950,1.850
+72594576,2026-10-03 13:00,VV Katwijk,Kozakken Boys Werkendam,1,5,2.350,3.700,2.375,3.25,1.975,1.825
+72594578,2026-10-03 13:00,Rohda Raalte,GVVV Veenendaal,1,3,4.500,5.000,1.444,3.5,1.925,1.875
+72594580,2026-10-03 13:00,SV Spakenburg,Amsterdamsche FC,2,1,,,,,,
+72594592,2026-10-10 11:30,K.v.v. Quick Boys,VV Katwijk,6,0,1.571,4.200,4.200,3.25,1.950,1.850
+72594582,2026-10-10 12:30,GVVV Veenendaal,Rijnsburgse Boys,4,1,2.450,4.100,2.150,3.75,1.950,1.850
+72594584,2026-10-10 13:00,IJsselmeervogels,Koninklijke HFC,2,0,1.727,3.900,3.600,3,1.925,1.875
+72594586,2026-10-10 13:00,Jong Sparta Rotterdam,Jong Almere City FC,1,4,1.750,4.333,3.200,4,2.000,1.800
+72594588,2026-10-10 13:00,VV Kloetinge,HHC Hardenberg,3,3,3.200,3.900,1.850,3,1.800,2.000
+72594590,2026-10-10 13:00,Kozakken Boys Werkendam,SV Spakenburg,2,0,2.300,3.900,2.400,3.5,2.000,1.800
+72594594,2026-10-10 13:00,Rohda Raalte,Rkav Volendam,2,8,4.100,4.200,1.571,3.25,1.975,1.825
+72594596,2026-10-10 13:15,Amsterdamsche FC,Hoek,2,0,,,,,,
+72594598,2026-10-10 16:00,De Treffers Groesbeek,BVV Barendrecht,4,0,1.363,5.000,5.500,3.5,1.850,1.950
+72594600,2026-10-17 12:00,Koninklijke HFC,VV Kloetinge,2,1,2.250,3.700,2.550,3.25,2.000,1.800
+72594604,2026-10-17 12:30,HHC Hardenberg,GVVV Veenendaal,2,1,2.050,3.800,2.750,3.25,1.950,1.850
+72594606,2026-10-17 12:30,Hoek,Kozakken Boys Werkendam,0,0,2.600,3.800,2.150,3,1.800,2.000
+72594608,2026-10-17 12:30,Rijnsburgse Boys,Rohda Raalte,1,0,1.270,5.750,7.000,4,1.975,1.825
+72594610,2026-10-17 12:30,Rkav Volendam,Jong Sparta Rotterdam,2,1,2.050,4.100,2.600,3.75,1.850,1.950
+72594602,2026-10-17 13:00,BVV Barendrecht,Amsterdamsche FC,4,1,,,,,,
+72594612,2026-10-17 13:00,VV Katwijk,IJsselmeervogels,1,2,2.400,3.700,2.300,3.25,2.000,1.800
+72594614,2026-10-17 13:00,SV Spakenburg,K.v.v. Quick Boys,1,1,3.100,3.700,1.909,3,1.925,1.875
+72594616,2026-10-17 13:00,Jong Almere City FC,De Treffers Groesbeek,2,3,3.500,4.100,1.700,3.25,1.925,1.875
+72594618,2026-10-24 12:30,GVVV Veenendaal,Koninklijke HFC,2,0,1.727,4.100,3.500,3.25,1.875,1.925
+72594620,2026-10-24 12:30,Rijnsburgse Boys,Rkav Volendam,0,1,1.666,4.333,3.500,3.75,1.950,1.850
+72594622,2026-10-24 13:00,IJsselmeervogels,SV Spakenburg,2,1,2.350,3.750,2.350,3.25,1.825,1.975
+72594624,2026-10-24 13:00,VV Kloetinge,VV Katwijk,1,3,2.625,3.900,2.100,3.25,1.850,1.950
+72594626,2026-10-24 13:00,Kozakken Boys Werkendam,BVV Barendrecht,0,1,1.666,4.100,3.600,3.5,1.975,1.825
+72594628,2026-10-24 13:00,K.v.v. Quick Boys,Hoek,3,1,1.571,4.200,4.000,3.25,1.975,1.825
+72594630,2026-10-24 13:00,Rohda Raalte,HHC Hardenberg,0,1,6.000,5.000,1.363,3.25,1.875,1.925
+72594632,2026-10-24 13:15,Amsterdamsche FC,Jong Almere City FC,0,1,,,,,,
+72594634,2026-10-24 16:00,De Treffers Groesbeek,Jong Sparta Rotterdam,3,3,1.420,5.000,4.750,4,1.975,1.825
+72594636,2026-11-07 13:00,Koninklijke HFC,Rohda Raalte,4,1,1.533,4.750,4.200,3.25,1.975,1.825
+72594640,2026-11-07 13:30,HHC Hardenberg,Rijnsburgse Boys,2,0,2.100,3.900,2.625,3.25,1.850,1.950
+72594642,2026-11-07 13:30,Hoek,IJsselmeervogels,0,3,2.150,3.400,2.600,3,1.950,1.850
+72594644,2026-11-07 13:30,Rkav Volendam,De Treffers Groesbeek,3,1,3.700,4.100,1.700,3.25,1.925,1.875
+72594638,2026-11-07 14:00,BVV Barendrecht,K.v.v. Quick Boys,1,2,3.600,4.100,1.666,3.25,1.925,1.875
+72594646,2026-11-07 14:00,Jong Sparta Rotterdam,Amsterdamsche FC,5,5,,,,,,
+72594648,2026-11-07 14:00,VV Katwijk,GVVV Veenendaal,1,3,2.350,3.750,2.350,3.25,1.800,2.000
+72594650,2026-11-07 14:00,SV Spakenburg,VV Kloetinge,4,1,1.380,5.000,5.250,3.5,1.875,1.925
+72594652,2026-11-07 14:00,Jong Almere City FC,Kozakken Boys Werkendam,1,5,2.750,3.750,2.050,3.25,1.900,1.900

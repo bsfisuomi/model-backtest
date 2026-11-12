@@ -1,257 +1,257 @@
-event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2
-73927976,2026-08-28 15:00,Sanatatea Cluj,ACS Academica Transilvania Tg-Mures,5,0,,,
-73927978,2026-08-28 15:00,CS Lotus Baile Felix,Acad Viitorul Cluj,2,1,,,
-73927972,2026-08-29 15:00,Csm Sighetu Marmatiei,FCM Baia Mare,1,2,5.000,4.100,1.480
-73927974,2026-08-29 15:00,CS Crisul Santandrei,AFC Unirea Tasnad,3,0,,,
-73927980,2026-08-29 15:00,CS Bihorul Beius,FC Unirea Dej,2,0,,,
-73927982,2026-08-29 15:00,Scm Zalau,CS Academica Recea,0,1,1.111,7.500,17.000
-74087674,2026-09-04 14:00,ACS Progresul Mogosoaia,SC FC Voluntari II,1,0,1.333,4.500,7.000
-74087676,2026-09-04 14:00,CSM Alexandria,AFC Progresul 1944 Spartac,1,0,,,
-74087678,2026-09-04 14:00,Oxigen Bucuresti,ACS Omega Buc,1,2,,,
-74087680,2026-09-04 14:00,CSM Cetatea Turnu Magurele,Fotbal Club FCSB 2,9,0,,,
-74087682,2026-09-04 14:00,ACS Inter Ilfov,Scm Dunarea Giurgiu,1,3,2.400,3.750,2.400
-74087684,2026-09-04 14:00,FC Dinamo Bucuresti 1948 2,ACS Axi Arena,0,2,2.250,3.600,2.500
-74088280,2026-09-04 14:00,Unirea Bascov,CS Drobeta Turnu Severin,0,2,2.400,3.700,2.350
-74089362,2026-09-04 14:00,Universitatea Alba Iulia,ACS Viitorul Arad,2,2,3.600,3.500,1.833
-74089364,2026-09-04 14:00,CSC Ghiroda SI Giarmata Vii,CS Metalurgistul Cugir,3,3,2.900,3.600,2.050
-74089368,2026-09-04 14:00,CS Timisul Sag,CSM Deva,1,1,,,
-74089370,2026-09-04 14:00,ACS Progresul Pecica,Stinta Poli Timisoara 2,5,2,,,
-74089622,2026-09-04 14:00,Acad Viitorul Cluj,CS Bihorul Beius,1,1,2.350,3.300,2.600
-74089624,2026-09-04 14:00,FC Unirea Dej,Scm Zalau,0,2,,,
-74088278,2026-09-04 17:00,Csm Targu Jiu,Acso Filiasi,3,1,1.550,4.000,4.500
-74088282,2026-09-05 14:00,CSM Jiul Petrosani,Asfc Pausesti Otasau,1,1,,,
-74088284,2026-09-05 14:00,CS Vulturii Farcasesti,ACS Oltul Curtisoara,3,1,1.666,4.000,3.800
-74088286,2026-09-05 14:00,CS Universitatea Craiova II,ACS Academica Bals,3,1,1.444,4.500,5.000
-74088288,2026-09-05 14:00,ACS Petrolul Hartiesti,CS Minerul Lupeni,0,1,,,
-74089366,2026-09-05 14:00,ACS Cil Blaj,CSM Unirea Alba Iulia,2,1,5.750,5.500,1.333
-74089372,2026-09-05 14:00,ACS Unirea Santana,AFC Nera Bogodinti,2,0,,,
-74089626,2026-09-05 14:00,Csm Sighetu Marmatiei,CS Crisul Santandrei,4,2,,,
-74089628,2026-09-05 14:00,ACS Academica Transilvania Tg-Mures,CS Lotus Baile Felix,1,3,,,
-74089630,2026-09-05 14:00,AFC Unirea Tasnad,Sanatatea Cluj,1,1,,,
-74089632,2026-09-05 14:00,FCM Baia Mare,CS Academica Recea,3,1,,,
-74085598,2026-09-11 14:00,ACS FC Bacau II,AFC Viitorul Onesti,3,2,,,
-74086454,2026-09-11 14:00,ACS Medias 2022,Cso Baicoi,1,1,,,
-74086456,2026-09-11 14:00,ACS Kids Tampa Brasov,AFC Inter Stars Sibiu,0,2,,,
-74086458,2026-09-11 14:00,ACS Aro Muscelul C-Lung Muscel,CSM Corona Brasov,1,3,,,
-74086824,2026-09-11 14:00,CS Electrosid Titu,CS Paulesti,3,0,,,
-74086826,2026-09-11 14:00,Csm Ramnicu Sarat,ACS Progresul Draganesti,1,1,,,
-74087300,2026-09-11 14:00,ACS Inainte Modelu,CS Gloria Baneasa,1,0,,,
-74087302,2026-09-11 14:00,AFC Dunarea 2005 Calarasi,ACS Recolta Gheorghe Doja,0,3,,,
-74087304,2026-09-11 14:00,ASC Otelul Galati II,CSA Axiopolis Sport Cernavoda,0,2,,,
-74087686,2026-09-11 14:00,Fotbal Club FCSB 2,ACS Inter Ilfov,2,4,,,
-74087688,2026-09-11 14:00,SC FC Voluntari II,FC Dinamo Bucuresti 1948 2,0,1,,,
-74087690,2026-09-11 14:00,ACS Axi Arena,CSM Cetatea Turnu Magurele,1,0,,,
-74088290,2026-09-11 14:00,Acso Filiasi,CS Vulturii Farcasesti,4,2,,,
-74088292,2026-09-11 14:00,CS Drobeta Turnu Severin,CSM Jiul Petrosani,4,0,,,
-74089374,2026-09-11 14:00,Stinta Poli Timisoara 2,Universitatea Alba Iulia,3,2,,,
-74089380,2026-09-11 14:00,CSM Deva,ACS Progresul Pecica,3,1,,,
-74089634,2026-09-11 14:00,CS Lotus Baile Felix,AFC Unirea Tasnad,5,0,,,
-74089636,2026-09-11 14:00,CS Academica Recea,FC Unirea Dej,0,3,,,
-74089638,2026-09-11 14:00,Sanatatea Cluj,Csm Sighetu Marmatiei,0,0,1.800,3.600,3.600
-74085600,2026-09-12 14:00,Csm FC Vaslui,CS Aerostar Bacau,3,0,1.615,3.900,4.100
-74085602,2026-09-12 14:00,CS Gheorgheni,CSM Pascani,4,2,,,
-74085604,2026-09-12 14:00,AS Usv Iasi,CSM Ceahlaul Piatra Neamt,1,0,,,
-74085606,2026-09-12 14:00,CS Bradul Putna,AFC Odorheiu Secuiesc,1,1,,,
-74085608,2026-09-12 14:00,Csm Adjud 1946,Acs Kse Targu Secuiesc,2,2,1.800,3.900,3.300
-74086460,2026-09-12 14:00,CS Tricolorul Breaza,Asc Olimpic Zarnesti,1,2,,,
-74086462,2026-09-12 14:00,CS Carpati Covasna,Cso Teleajenul Valeni de Munte,1,3,,,
-74086464,2026-09-12 14:00,Csm Sacele,ACS Sepsi Osk Sfantu Gheorghe 2,0,3,2.400,3.600,2.400
-74086828,2026-09-12 14:00,FC Petrolul Berca,CS Tunari,2,2,13.000,8.000,1.142
-74086830,2026-09-12 14:00,FC Pucioasa,CS Blejoi,1,1,,,
-74086832,2026-09-12 14:00,ACS Vointa 2024 Crevedia,Csm Flacara Moreni,1,3,,,
-74086834,2026-09-12 14:00,CSO Plopeni,ACS Viitorul Corbeanca,2,0,1.750,3.700,3.750
-74087306,2026-09-12 14:00,AS FC Agricola Borcea,ACS Progresul Fundulea,4,2,,,
-74087308,2026-09-12 14:00,CS Agigea,CS Sporting Liesti,2,0,,,
-74087310,2026-09-12 14:00,CS Portul Constanta,ASC Unirea Branistea,1,3,4.333,3.900,1.600
-74087692,2026-09-12 14:00,Scm Dunarea Giurgiu,Oxigen Bucuresti,2,2,,,
-74087694,2026-09-12 14:00,AFC Progresul 1944 Spartac,ACS Progresul Mogosoaia,1,2,1.600,3.900,4.333
-74087696,2026-09-12 14:00,ACS Omega Buc,CSM Alexandria,1,0,,,
-74088296,2026-09-12 14:00,ACS Oltul Curtisoara,CS Universitatea Craiova II,1,4,,,
-74088298,2026-09-12 14:00,CS Minerul Lupeni,Unirea Bascov,3,0,,,
-74088300,2026-09-12 14:00,Asfc Pausesti Otasau,Csm Targu Jiu,1,1,,,
-74089376,2026-09-12 14:00,CSM Unirea Alba Iulia,CSC Ghiroda SI Giarmata Vii,0,0,1.181,6.500,10.000
-74089378,2026-09-12 14:00,ACS Viitorul Arad,ACS Unirea Santana,1,0,,,
-74089382,2026-09-12 14:00,AFC Nera Bogodinti,ACS Cil Blaj,1,2,,,
-74089640,2026-09-12 14:00,Scm Zalau,Acad Viitorul Cluj,0,0,,,
-74089642,2026-09-12 14:00,CS Bihorul Beius,ACS Academica Transilvania Tg-Mures,2,0,,,
-74089644,2026-09-12 14:00,CS Crisul Santandrei,FCM Baia Mare,1,0,4.333,4.000,1.571
-74087698,2026-09-18 14:00,CSM Alexandria,Scm Dunarea Giurgiu,2,2,2.250,3.400,2.625
-74087700,2026-09-18 14:00,Oxigen Bucuresti,Fotbal Club FCSB 2,1,2,,,
-74087702,2026-09-18 14:00,ACS Inter Ilfov,ACS Axi Arena,2,0,2.350,3.700,2.450
-74087704,2026-09-18 14:00,CSM Cetatea Turnu Magurele,SC FC Voluntari II,2,2,,,
-74088304,2026-09-18 14:00,CS Universitatea Craiova II,ACS Petrolul Hartiesti,3,2,,,
-74089386,2026-09-18 14:00,ACS Cil Blaj,ACS Viitorul Arad,3,1,1.850,4.000,3.000
-74089388,2026-09-18 14:00,CSC Ghiroda SI Giarmata Vii,AFC Nera Bogodinti,2,1,1.480,4.333,4.750
-74089392,2026-09-18 14:00,Universitatea Alba Iulia,CSM Deva,0,0,5.000,4.500,1.444
-74089394,2026-09-18 14:00,CS Metalurgistul Cugir,CSM Unirea Alba Iulia,2,2,5.000,4.100,1.480
-74089646,2026-09-18 14:00,Acad Viitorul Cluj,CS Academica Recea,6,2,2.400,3.600,2.400
-74088302,2026-09-18 17:00,Csm Targu Jiu,CS Drobeta Turnu Severin,1,1,1.727,3.900,3.600
-74089648,2026-09-19 14:00,CS Crisul Santandrei,Sanatatea Cluj,0,2,,,
-74089650,2026-09-19 14:00,AFC Unirea Tasnad,CS Bihorul Beius,0,0,,,
-74089652,2026-09-19 14:00,ACS Academica Transilvania Tg-Mures,Scm Zalau,2,3,,,
-74089654,2026-09-19 14:00,Csm Sighetu Marmatiei,CS Lotus Baile Felix,1,1,,,
-74089656,2026-09-19 14:00,FCM Baia Mare,FC Unirea Dej,5,1,,,
-74089398,2026-09-22 14:00,Stinta Poli Timisoara 2,ACS Cil Blaj,1,2,,,
-74089658,2026-09-22 14:00,Sanatatea Cluj,FCM Baia Mare,0,2,2.750,3.600,2.150
-74089668,2026-09-22 14:00,CS Lotus Baile Felix,CS Crisul Santandrei,2,2,,,
-74086478,2026-09-23 14:00,ACS Kids Tampa Brasov,Asc Olimpic Zarnesti,0,1,4.500,4.333,1.533
-74086848,2026-09-23 14:00,CS Electrosid Titu,ACS Viitorul Corbeanca,0,0,1.900,3.800,3.100
-74087326,2026-09-23 14:00,AFC Dunarea 2005 Calarasi,CS Sporting Liesti,3,2,,,
-74087712,2026-09-23 14:00,ACS Omega Buc,ACS Progresul Mogosoaia,1,0,1.833,3.500,3.500
-74087718,2026-09-23 14:00,Scm Dunarea Giurgiu,AFC Progresul 1944 Spartac,1,0,,,
-74088314,2026-09-23 14:00,ACS Petrolul Hartiesti,Unirea Bascov,0,6,3.500,3.800,1.750
-74088320,2026-09-23 14:00,CS Drobeta Turnu Severin,CS Vulturii Farcasesti,3,2,1.666,4.000,3.800
-74089660,2026-09-23 14:00,Scm Zalau,AFC Unirea Tasnad,4,0,,,
-74089662,2026-09-23 14:00,CS Bihorul Beius,Csm Sighetu Marmatiei,0,3,,,
-74089664,2026-09-23 14:00,CS Academica Recea,ACS Academica Transilvania Tg-Mures,7,1,1.850,3.900,3.200
-74089666,2026-09-23 14:00,FC Unirea Dej,Acad Viitorul Cluj,0,2,2.700,4.100,2.000
-74596554,2026-09-23 14:00,ASC Otelul Galati II,CS Gloria Baneasa,1,2,2.750,3.400,2.250
-74087724,2026-09-25 14:00,CSM Alexandria,ACS Axi Arena,2,0,,,
-74087726,2026-09-25 14:00,Oxigen Bucuresti,SC FC Voluntari II,1,2,1.850,3.600,3.400
-74088326,2026-09-25 14:00,Acso Filiasi,Asfc Pausesti Otasau,1,1,1.480,4.200,5.250
-74089414,2026-09-25 14:00,CS Timisul Sag,Universitatea Alba Iulia,1,0,1.500,4.200,4.500
-74089670,2026-09-25 14:00,Sanatatea Cluj,CS Lotus Baile Felix,1,1,1.800,3.700,3.600
-74088328,2026-09-25 17:00,Csm Targu Jiu,ACS Academica Bals,1,0,,,
-74089672,2026-09-26 14:00,AFC Unirea Tasnad,CS Academica Recea,1,2,,,
-74089674,2026-09-26 14:00,Csm Sighetu Marmatiei,Scm Zalau,0,2,,,
-74089676,2026-09-26 14:00,ACS Academica Transilvania Tg-Mures,FC Unirea Dej,0,0,,,
-74089678,2026-09-26 14:00,CS Crisul Santandrei,CS Bihorul Beius,2,1,,,
-74089680,2026-09-26 14:00,FCM Baia Mare,Acad Viitorul Cluj,2,2,,,
-74087734,2026-10-02 12:00,SC FC Voluntari II,CSM Alexandria,0,2,4.750,4.500,1.480
-74087736,2026-10-02 12:00,Fotbal Club FCSB 2,ACS Omega Buc,1,2,5.500,4.333,1.420
-74087740,2026-10-02 12:00,ACS Axi Arena,AFC Progresul 1944 Spartac,2,1,,,
-74088338,2026-10-02 12:00,CS Drobeta Turnu Severin,Acso Filiasi,3,0,1.700,4.100,3.600
-74088344,2026-10-02 12:00,Unirea Bascov,CSM Jiul Petrosani,1,1,2.050,3.500,2.900
-74088348,2026-10-02 12:00,ACS Academica Bals,CS Vulturii Farcasesti,3,2,,,
-74089422,2026-10-02 12:00,Stinta Poli Timisoara 2,CS Metalurgistul Cugir,1,1,,,
-74089424,2026-10-02 12:00,Universitatea Alba Iulia,ACS Unirea Santana,0,1,3.800,3.900,1.666
-74089682,2026-10-02 12:00,CS Academica Recea,Csm Sighetu Marmatiei,1,0,2.600,3.600,2.200
-74089684,2026-10-02 12:00,Acad Viitorul Cluj,ACS Academica Transilvania Tg-Mures,4,2,1.300,4.750,7.500
-74089686,2026-10-02 12:00,CS Lotus Baile Felix,FCM Baia Mare,0,4,5.750,4.500,1.380
-74089688,2026-10-02 12:00,FC Unirea Dej,AFC Unirea Tasnad,0,0,3.900,3.900,1.666
-74087742,2026-10-03 12:00,Scm Dunarea Giurgiu,ACS Progresul Mogosoaia,1,1,1.750,3.700,3.700
-74088340,2026-10-03 12:00,CS Minerul Lupeni,ACS Oltul Curtisoara,2,0,,,
-74088346,2026-10-03 12:00,Asfc Pausesti Otasau,CS Universitatea Craiova II,1,0,,,
-74089426,2026-10-03 12:00,ACS Progresul Pecica,ACS Cil Blaj,2,1,,,
-74089428,2026-10-03 12:00,ACS Viitorul Arad,CSM Unirea Alba Iulia,0,4,,,
-74089430,2026-10-03 12:00,AFC Nera Bogodinti,CS Timisul Sag,0,0,,,
-74089690,2026-10-03 12:00,Scm Zalau,CS Crisul Santandrei,1,2,,,
-74089692,2026-10-03 12:00,CS Bihorul Beius,Sanatatea Cluj,1,3,,,
-74089694,2026-10-09 12:00,Sanatatea Cluj,Scm Zalau,1,1,1.950,3.500,3.250
-74089696,2026-10-09 12:00,CS Lotus Baile Felix,CS Bihorul Beius,0,1,,,
-74085744,2026-10-10 12:00,CSM Ceahlaul Piatra Neamt,CSM Pascani,1,1,1.909,3.600,3.200
-74085746,2026-10-10 12:00,AFC Viitorul Onesti,AFC Odorheiu Secuiesc,2,4,,,
-74085748,2026-10-10 12:00,AS Usv Iasi,CS Bradul Putna,0,1,1.222,5.500,9.000
-74085750,2026-10-10 12:00,Csm Adjud 1946,CS Gheorgheni,4,1,,,
-74085752,2026-10-10 12:00,Acs Kse Targu Secuiesc,CS Aerostar Bacau,3,0,,,
-74086518,2026-10-10 12:00,CS Carpati Covasna,CS Tricolorul Breaza,0,4,,,
-74086520,2026-10-10 12:00,Cso Teleajenul Valeni de Munte,ACS Sepsi Osk Sfantu Gheorghe 2,1,3,1.615,4.200,4.000
-74086522,2026-10-10 12:00,Cso Baicoi,Asc Olimpic Zarnesti,1,1,1.615,4.100,4.000
-74086524,2026-10-10 12:00,CSM Corona Brasov,AFC Inter Stars Sibiu,2,0,1.700,3.900,3.750
-74086892,2026-10-10 12:00,ACS Vointa 2024 Crevedia,CS Electrosid Titu,1,2,1.500,4.200,4.750
-74086894,2026-10-10 12:00,FC Pucioasa,FC Petrolul Berca,3,2,,,
-74087362,2026-10-10 12:00,CS Gloria Baneasa,CSA Axiopolis Sport Cernavoda,3,1,,,
-74087364,2026-10-10 12:00,CS Agigea,ASC Otelul Galati II,2,2,,,
-74087366,2026-10-10 12:00,CS Sporting Liesti,ACS Progresul Fundulea,0,2,1.333,4.500,7.000
-74087368,2026-10-10 12:00,ASC Unirea Branistea,ACS Recolta Gheorghe Doja,2,1,,,
-74087370,2026-10-10 12:00,CS Portul Constanta,AS FC Agricola Borcea,0,8,,,
-74088354,2026-10-10 12:00,Asfc Pausesti Otasau,CS Drobeta Turnu Severin,0,4,,,
-74088356,2026-10-10 12:00,CS Vulturii Farcasesti,ACS Petrolul Hartiesti,3,0,,,
-74088358,2026-10-10 12:00,CS Universitatea Craiova II,CSM Jiul Petrosani,4,1,1.800,3.600,3.600
-74088360,2026-10-10 12:00,ACS Oltul Curtisoara,ACS Academica Bals,2,1,,,
-74089440,2026-10-10 12:00,CSM Unirea Alba Iulia,Stinta Poli Timisoara 2,2,0,,,
-74089444,2026-10-10 12:00,AFC Nera Bogodinti,ACS Viitorul Arad,1,4,,,
-74089698,2026-10-10 12:00,Csm Sighetu Marmatiei,FC Unirea Dej,3,0,,,
-74089700,2026-10-10 12:00,AFC Unirea Tasnad,Acad Viitorul Cluj,1,0,,,
-74089702,2026-10-10 12:00,FCM Baia Mare,ACS Academica Transilvania Tg-Mures,6,0,,,
-74089704,2026-10-10 12:00,CS Crisul Santandrei,CS Academica Recea,0,2,,,
-74085754,2026-10-16 12:00,CS Aerostar Bacau,AFC Viitorul Onesti,1,1,,,
-74085758,2026-10-16 12:00,AFC Odorheiu Secuiesc,AS Usv Iasi,2,2,3.800,3.700,1.700
-74088362,2026-10-16 12:00,CS Drobeta Turnu Severin,CS Universitatea Craiova II,3,1,1.450,4.333,5.250
-74088368,2026-10-16 12:00,Unirea Bascov,CS Vulturii Farcasesti,1,0,3.300,3.800,1.800
-74089448,2026-10-16 12:00,Stinta Poli Timisoara 2,AFC Nera Bogodinti,1,0,,,
-74089706,2026-10-16 12:00,FC Unirea Dej,CS Crisul Santandrei,1,2,6.000,4.200,1.400
-74089708,2026-10-16 12:00,CS Academica Recea,Sanatatea Cluj,1,3,3.600,3.500,1.800
-74089710,2026-10-16 12:00,Acad Viitorul Cluj,Csm Sighetu Marmatiei,1,2,2.100,3.500,2.800
-74085760,2026-10-17 12:00,CS Gheorgheni,CSM Ceahlaul Piatra Neamt,2,2,,,
-74085762,2026-10-17 12:00,Csm FC Vaslui,Csm Adjud 1946,2,0,1.500,4.000,5.000
-74085764,2026-10-17 12:00,CS Bradul Putna,ACS FC Bacau II,3,1,,,
-74086532,2026-10-17 12:00,Asc Olimpic Zarnesti,Cso Teleajenul Valeni de Munte,4,1,,,
-74086534,2026-10-17 12:00,Csm Sacele,CS Carpati Covasna,4,0,,,
-74086536,2026-10-17 12:00,CS Tricolorul Breaza,Cso Baicoi,0,5,,,
-74086898,2026-10-17 12:00,CS Tunari,CS Blejoi,4,0,1.550,4.200,4.333
-74086902,2026-10-17 12:00,CSO Plopeni,Csm Flacara Moreni,0,3,,,
-74086904,2026-10-17 12:00,FC Petrolul Berca,Csm Ramnicu Sarat,4,4,,,
-74086906,2026-10-17 12:00,CS Paulesti,ACS Vointa 2024 Crevedia,1,3,,,
-74087376,2026-10-17 12:00,ACS Progresul Fundulea,CS Portul Constanta,6,0,1.062,8.000,19.000
-74087378,2026-10-17 12:00,ACS Recolta Gheorghe Doja,CS Gloria Baneasa,6,5,,,
-74087382,2026-10-17 12:00,CSA Axiopolis Sport Cernavoda,CS Sporting Liesti,1,4,2.350,3.700,2.350
-74088364,2026-10-17 12:00,ACS Petrolul Hartiesti,ACS Oltul Curtisoara,1,2,,,
-74088370,2026-10-17 12:00,CS Minerul Lupeni,Asfc Pausesti Otasau,1,1,,,
-74089450,2026-10-17 12:00,ACS Viitorul Arad,CS Timisul Sag,1,0,,,
-74089452,2026-10-17 12:00,ACS Unirea Santana,ACS Cil Blaj,0,0,2.200,3.500,2.700
-74089454,2026-10-17 12:00,ACS Progresul Pecica,CS Metalurgistul Cugir,1,2,2.500,3.600,2.250
-74089712,2026-10-17 12:00,Scm Zalau,CS Lotus Baile Felix,1,1,,,
-74089714,2026-10-17 12:00,CS Bihorul Beius,FCM Baia Mare,0,0,,,
-74089716,2026-10-17 12:00,ACS Academica Transilvania Tg-Mures,AFC Unirea Tasnad,1,2,,,
-74085766,2026-10-23 12:00,ACS FC Bacau II,AFC Odorheiu Secuiesc,2,1,,,
-74086538,2026-10-23 12:00,ACS Aro Muscelul C-Lung Muscel,AFC Inter Stars Sibiu,1,2,,,
-74086540,2026-10-23 12:00,ACS Medias 2022,ACS Sepsi Osk Sfantu Gheorghe 2,3,2,,,
-74086908,2026-10-23 12:00,CS Blejoi,ACS Viitorul Corbeanca,1,0,1.480,4.200,5.500
-74086910,2026-10-23 12:00,Csm Ramnicu Sarat,CS Electrosid Titu,3,2,2.625,3.700,2.150
-74086912,2026-10-23 12:00,Csm Flacara Moreni,ACS Progresul Draganesti,6,0,,,
-74087384,2026-10-23 12:00,ACS Inainte Modelu,AS FC Agricola Borcea,0,1,,,
-74087386,2026-10-23 12:00,AFC Dunarea 2005 Calarasi,ASC Otelul Galati II,2,0,,,
-74087770,2026-10-23 12:00,CSM Alexandria,ACS Inter Ilfov,0,3,,,
-74087772,2026-10-23 12:00,Fotbal Club FCSB 2,ACS Axi Arena,6,0,2.300,3.600,2.500
-74088374,2026-10-23 12:00,Acso Filiasi,ACS Petrolul Hartiesti,3,0,,,
-74088376,2026-10-23 12:00,CS Drobeta Turnu Severin,CS Minerul Lupeni,3,0,2.500,3.300,2.500
-74089458,2026-10-23 12:00,CS Timisul Sag,ACS Cil Blaj,3,0,,,
-74089460,2026-10-23 12:00,CSC Ghiroda SI Giarmata Vii,ACS Unirea Santana,3,0,,,
-74089718,2026-10-23 12:00,Sanatatea Cluj,FC Unirea Dej,1,0,1.111,7.500,19.000
-74089720,2026-10-23 12:00,CS Lotus Baile Felix,CS Academica Recea,1,5,,,
-74085768,2026-10-24 12:00,AS Usv Iasi,CS Aerostar Bacau,3,3,1.909,3.700,3.200
-74085770,2026-10-24 12:00,Csm Adjud 1946,CS Bradul Putna,1,1,,,
-74085772,2026-10-24 12:00,CS Gheorgheni,Csm FC Vaslui,2,2,,,
-74085774,2026-10-24 12:00,AFC Viitorul Onesti,CSM Pascani,2,2,,,
-74085776,2026-10-24 12:00,CSM Ceahlaul Piatra Neamt,Acs Kse Targu Secuiesc,0,2,,,
-74086542,2026-10-24 12:00,CS Tricolorul Breaza,Csm Sacele,0,2,,,
-74086544,2026-10-24 12:00,Cso Baicoi,Cso Teleajenul Valeni de Munte,4,2,1.480,4.100,4.750
-74086546,2026-10-24 12:00,CS Carpati Covasna,ACS Kids Tampa Brasov,0,3,2.000,3.250,3.250
-74086914,2026-10-24 12:00,FC Pucioasa,CS Paulesti,1,0,,,
-74086916,2026-10-24 12:00,CSO Plopeni,FC Petrolul Berca,3,5,2.400,3.500,2.400
-74086918,2026-10-24 12:00,ACS Vointa 2024 Crevedia,CS Tunari,0,2,5.250,4.500,1.420
-74087388,2026-10-24 12:00,CS Sporting Liesti,ACS Recolta Gheorghe Doja,7,0,,,
-74087390,2026-10-24 12:00,ASC Unirea Branistea,CS Gloria Baneasa,3,1,,,
-74087392,2026-10-24 12:00,CS Agigea,ACS Progresul Fundulea,2,4,,,
-74087394,2026-10-24 12:00,CS Portul Constanta,CSA Axiopolis Sport Cernavoda,1,6,,,
-74087774,2026-10-24 12:00,ACS Progresul Mogosoaia,Oxigen Bucuresti,4,2,1.700,3.900,3.800
-74087776,2026-10-24 12:00,AFC Progresul 1944 Spartac,CSM Cetatea Turnu Magurele,0,0,3.500,3.700,1.800
-74087778,2026-10-24 12:00,Scm Dunarea Giurgiu,SC FC Voluntari II,5,3,,,
-74087780,2026-10-24 12:00,ACS Omega Buc,FC Dinamo Bucuresti 1948 2,2,0,1.480,4.100,4.750
-74088378,2026-10-24 12:00,CS Vulturii Farcasesti,CSM Jiul Petrosani,0,0,1.750,3.700,3.800
-74088382,2026-10-24 12:00,Asfc Pausesti Otasau,ACS Academica Bals,2,1,,,
-74088384,2026-10-24 12:00,ACS Oltul Curtisoara,Unirea Bascov,4,2,,,
-74089464,2026-10-24 12:00,CSM Unirea Alba Iulia,ACS Progresul Pecica,4,0,1.083,10.000,21.000
-74089466,2026-10-24 12:00,ACS Viitorul Arad,Stinta Poli Timisoara 2,2,1,,,
-74089468,2026-10-24 12:00,AFC Nera Bogodinti,CSM Deva,1,2,,,
-74089722,2026-10-24 12:00,Csm Sighetu Marmatiei,ACS Academica Transilvania Tg-Mures,5,0,,,
-74089724,2026-10-24 12:00,CS Bihorul Beius,Scm Zalau,1,1,,,
-74089726,2026-10-24 12:00,CS Crisul Santandrei,Acad Viitorul Cluj,3,1,1.666,3.800,4.000
-74089728,2026-10-24 12:00,FCM Baia Mare,AFC Unirea Tasnad,3,1,1.300,4.750,7.500
-74085780,2026-10-30 13:00,AFC Odorheiu Secuiesc,Csm Adjud 1946,0,2,2.250,3.600,2.550
-74089474,2026-10-30 13:00,Stinta Poli Timisoara 2,CS Timisul Sag,1,4,,,
-74089730,2026-10-30 13:00,FC Unirea Dej,CS Lotus Baile Felix,2,0,,,
-74089732,2026-10-30 13:00,CS Academica Recea,CS Bihorul Beius,5,1,1.666,3.800,4.000
-74089734,2026-10-30 13:00,Acad Viitorul Cluj,Sanatatea Cluj,2,3,3.000,3.600,2.000
-74086554,2026-10-30 16:00,AFC Inter Stars Sibiu,CS Carpati Covasna,5,0,1.142,8.500,13.000
-74088386,2026-10-30 17:00,Csm Targu Jiu,CS Vulturii Farcasesti,2,1,1.615,3.800,4.200
-74089736,2026-10-31 13:00,AFC Unirea Tasnad,Csm Sighetu Marmatiei,3,3,2.875,3.700,2.100
-74089738,2026-10-31 13:00,Scm Zalau,FCM Baia Mare,2,3,,,
-74089740,2026-10-31 13:00,ACS Academica Transilvania Tg-Mures,CS Crisul Santandrei,2,2,7.500,6.000,1.222
-74089742,2026-11-06 12:00,FC Unirea Dej,CS Bihorul Beius,0,1,,,
-74089744,2026-11-06 12:00,CS Academica Recea,Scm Zalau,2,3,2.300,3.500,2.500
-74089746,2026-11-06 12:00,Acad Viitorul Cluj,CS Lotus Baile Felix,2,1,2.050,3.500,2.900
-74089748,2026-11-07 12:00,FCM Baia Mare,Csm Sighetu Marmatiei,4,0,1.420,4.750,5.000
-74089750,2026-11-07 12:00,AFC Unirea Tasnad,CS Crisul Santandrei,1,1,,,
-74089752,2026-11-07 12:00,ACS Academica Transilvania Tg-Mures,Sanatatea Cluj,0,1,,,
+event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,close_over,close_under
+73927976,2026-08-28 15:00,Sanatatea Cluj,ACS Academica Transilvania Tg-Mures,5,0,,,,,,
+73927978,2026-08-28 15:00,CS Lotus Baile Felix,Acad Viitorul Cluj,2,1,,,,,,
+73927972,2026-08-29 15:00,Csm Sighetu Marmatiei,FCM Baia Mare,1,2,5.000,4.100,1.480,2.75,1.825,1.975
+73927974,2026-08-29 15:00,CS Crisul Santandrei,AFC Unirea Tasnad,3,0,,,,,,
+73927980,2026-08-29 15:00,CS Bihorul Beius,FC Unirea Dej,2,0,,,,,,
+73927982,2026-08-29 15:00,Scm Zalau,CS Academica Recea,0,1,1.111,7.500,17.000,3.25,1.825,1.975
+74087674,2026-09-04 14:00,ACS Progresul Mogosoaia,SC FC Voluntari II,1,0,1.333,4.500,7.000,3.25,1.875,1.925
+74087676,2026-09-04 14:00,CSM Alexandria,AFC Progresul 1944 Spartac,1,0,,,,,,
+74087678,2026-09-04 14:00,Oxigen Bucuresti,ACS Omega Buc,1,2,,,,,,
+74087680,2026-09-04 14:00,CSM Cetatea Turnu Magurele,Fotbal Club FCSB 2,9,0,,,,,,
+74087682,2026-09-04 14:00,ACS Inter Ilfov,Scm Dunarea Giurgiu,1,3,2.400,3.750,2.400,3.5,2.000,1.800
+74087684,2026-09-04 14:00,FC Dinamo Bucuresti 1948 2,ACS Axi Arena,0,2,2.250,3.600,2.500,3,1.875,1.925
+74088280,2026-09-04 14:00,Unirea Bascov,CS Drobeta Turnu Severin,0,2,2.400,3.700,2.350,2.75,1.900,1.900
+74089362,2026-09-04 14:00,Universitatea Alba Iulia,ACS Viitorul Arad,2,2,3.600,3.500,1.833,3,1.850,1.950
+74089364,2026-09-04 14:00,CSC Ghiroda SI Giarmata Vii,CS Metalurgistul Cugir,3,3,2.900,3.600,2.050,3.25,2.000,1.800
+74089368,2026-09-04 14:00,CS Timisul Sag,CSM Deva,1,1,,,,,,
+74089370,2026-09-04 14:00,ACS Progresul Pecica,Stinta Poli Timisoara 2,5,2,,,,,,
+74089622,2026-09-04 14:00,Acad Viitorul Cluj,CS Bihorul Beius,1,1,2.350,3.300,2.600,2.5,1.875,1.925
+74089624,2026-09-04 14:00,FC Unirea Dej,Scm Zalau,0,2,,,,,,
+74088278,2026-09-04 17:00,Csm Targu Jiu,Acso Filiasi,3,1,1.550,4.000,4.500,3,1.900,1.900
+74088282,2026-09-05 14:00,CSM Jiul Petrosani,Asfc Pausesti Otasau,1,1,,,,,,
+74088284,2026-09-05 14:00,CS Vulturii Farcasesti,ACS Oltul Curtisoara,3,1,1.666,4.000,3.800,3.25,1.900,1.900
+74088286,2026-09-05 14:00,CS Universitatea Craiova II,ACS Academica Bals,3,1,1.444,4.500,5.000,3.25,1.950,1.850
+74088288,2026-09-05 14:00,ACS Petrolul Hartiesti,CS Minerul Lupeni,0,1,,,,,,
+74089366,2026-09-05 14:00,ACS Cil Blaj,CSM Unirea Alba Iulia,2,1,5.750,5.500,1.333,3.25,1.925,1.875
+74089372,2026-09-05 14:00,ACS Unirea Santana,AFC Nera Bogodinti,2,0,,,,,,
+74089626,2026-09-05 14:00,Csm Sighetu Marmatiei,CS Crisul Santandrei,4,2,,,,,,
+74089628,2026-09-05 14:00,ACS Academica Transilvania Tg-Mures,CS Lotus Baile Felix,1,3,,,,,,
+74089630,2026-09-05 14:00,AFC Unirea Tasnad,Sanatatea Cluj,1,1,,,,,,
+74089632,2026-09-05 14:00,FCM Baia Mare,CS Academica Recea,3,1,,,,,,
+74085598,2026-09-11 14:00,ACS FC Bacau II,AFC Viitorul Onesti,3,2,,,,,,
+74086454,2026-09-11 14:00,ACS Medias 2022,Cso Baicoi,1,1,,,,,,
+74086456,2026-09-11 14:00,ACS Kids Tampa Brasov,AFC Inter Stars Sibiu,0,2,,,,,,
+74086458,2026-09-11 14:00,ACS Aro Muscelul C-Lung Muscel,CSM Corona Brasov,1,3,,,,,,
+74086824,2026-09-11 14:00,CS Electrosid Titu,CS Paulesti,3,0,,,,,,
+74086826,2026-09-11 14:00,Csm Ramnicu Sarat,ACS Progresul Draganesti,1,1,,,,,,
+74087300,2026-09-11 14:00,ACS Inainte Modelu,CS Gloria Baneasa,1,0,,,,,,
+74087302,2026-09-11 14:00,AFC Dunarea 2005 Calarasi,ACS Recolta Gheorghe Doja,0,3,,,,,,
+74087304,2026-09-11 14:00,ASC Otelul Galati II,CSA Axiopolis Sport Cernavoda,0,2,,,,,,
+74087686,2026-09-11 14:00,Fotbal Club FCSB 2,ACS Inter Ilfov,2,4,,,,,,
+74087688,2026-09-11 14:00,SC FC Voluntari II,FC Dinamo Bucuresti 1948 2,0,1,,,,,,
+74087690,2026-09-11 14:00,ACS Axi Arena,CSM Cetatea Turnu Magurele,1,0,,,,,,
+74088290,2026-09-11 14:00,Acso Filiasi,CS Vulturii Farcasesti,4,2,,,,,,
+74088292,2026-09-11 14:00,CS Drobeta Turnu Severin,CSM Jiul Petrosani,4,0,,,,,,
+74089374,2026-09-11 14:00,Stinta Poli Timisoara 2,Universitatea Alba Iulia,3,2,,,,,,
+74089380,2026-09-11 14:00,CSM Deva,ACS Progresul Pecica,3,1,,,,,,
+74089634,2026-09-11 14:00,CS Lotus Baile Felix,AFC Unirea Tasnad,5,0,,,,,,
+74089636,2026-09-11 14:00,CS Academica Recea,FC Unirea Dej,0,3,,,,,,
+74089638,2026-09-11 14:00,Sanatatea Cluj,Csm Sighetu Marmatiei,0,0,1.800,3.600,3.600,2.75,1.800,2.000
+74085600,2026-09-12 14:00,Csm FC Vaslui,CS Aerostar Bacau,3,0,1.615,3.900,4.100,3,1.900,1.900
+74085602,2026-09-12 14:00,CS Gheorgheni,CSM Pascani,4,2,,,,,,
+74085604,2026-09-12 14:00,AS Usv Iasi,CSM Ceahlaul Piatra Neamt,1,0,,,,,,
+74085606,2026-09-12 14:00,CS Bradul Putna,AFC Odorheiu Secuiesc,1,1,,,,,,
+74085608,2026-09-12 14:00,Csm Adjud 1946,Acs Kse Targu Secuiesc,2,2,1.800,3.900,3.300,3,1.800,2.000
+74086460,2026-09-12 14:00,CS Tricolorul Breaza,Asc Olimpic Zarnesti,1,2,,,,,,
+74086462,2026-09-12 14:00,CS Carpati Covasna,Cso Teleajenul Valeni de Munte,1,3,,,,,,
+74086464,2026-09-12 14:00,Csm Sacele,ACS Sepsi Osk Sfantu Gheorghe 2,0,3,2.400,3.600,2.400,3,1.800,2.000
+74086828,2026-09-12 14:00,FC Petrolul Berca,CS Tunari,2,2,13.000,8.000,1.142,3.5,1.900,1.900
+74086830,2026-09-12 14:00,FC Pucioasa,CS Blejoi,1,1,,,,,,
+74086832,2026-09-12 14:00,ACS Vointa 2024 Crevedia,Csm Flacara Moreni,1,3,,,,,,
+74086834,2026-09-12 14:00,CSO Plopeni,ACS Viitorul Corbeanca,2,0,1.750,3.700,3.750,2.75,1.950,1.850
+74087306,2026-09-12 14:00,AS FC Agricola Borcea,ACS Progresul Fundulea,4,2,,,,,,
+74087308,2026-09-12 14:00,CS Agigea,CS Sporting Liesti,2,0,,,,,,
+74087310,2026-09-12 14:00,CS Portul Constanta,ASC Unirea Branistea,1,3,4.333,3.900,1.600,3.25,2.000,1.800
+74087692,2026-09-12 14:00,Scm Dunarea Giurgiu,Oxigen Bucuresti,2,2,,,,,,
+74087694,2026-09-12 14:00,AFC Progresul 1944 Spartac,ACS Progresul Mogosoaia,1,2,1.600,3.900,4.333,3,1.900,1.900
+74087696,2026-09-12 14:00,ACS Omega Buc,CSM Alexandria,1,0,,,,,,
+74088296,2026-09-12 14:00,ACS Oltul Curtisoara,CS Universitatea Craiova II,1,4,,,,,,
+74088298,2026-09-12 14:00,CS Minerul Lupeni,Unirea Bascov,3,0,,,,,,
+74088300,2026-09-12 14:00,Asfc Pausesti Otasau,Csm Targu Jiu,1,1,,,,,,
+74089376,2026-09-12 14:00,CSM Unirea Alba Iulia,CSC Ghiroda SI Giarmata Vii,0,0,1.181,6.500,10.000,3.5,1.850,1.950
+74089378,2026-09-12 14:00,ACS Viitorul Arad,ACS Unirea Santana,1,0,,,,,,
+74089382,2026-09-12 14:00,AFC Nera Bogodinti,ACS Cil Blaj,1,2,,,,,,
+74089640,2026-09-12 14:00,Scm Zalau,Acad Viitorul Cluj,0,0,,,,,,
+74089642,2026-09-12 14:00,CS Bihorul Beius,ACS Academica Transilvania Tg-Mures,2,0,,,,,,
+74089644,2026-09-12 14:00,CS Crisul Santandrei,FCM Baia Mare,1,0,4.333,4.000,1.571,3,2.000,1.800
+74087698,2026-09-18 14:00,CSM Alexandria,Scm Dunarea Giurgiu,2,2,2.250,3.400,2.625,2.5,1.825,1.975
+74087700,2026-09-18 14:00,Oxigen Bucuresti,Fotbal Club FCSB 2,1,2,,,,,,
+74087702,2026-09-18 14:00,ACS Inter Ilfov,ACS Axi Arena,2,0,2.350,3.700,2.450,3.25,2.000,1.800
+74087704,2026-09-18 14:00,CSM Cetatea Turnu Magurele,SC FC Voluntari II,2,2,,,,,,
+74088304,2026-09-18 14:00,CS Universitatea Craiova II,ACS Petrolul Hartiesti,3,2,,,,,,
+74089386,2026-09-18 14:00,ACS Cil Blaj,ACS Viitorul Arad,3,1,1.850,4.000,3.000,2.75,1.950,1.850
+74089388,2026-09-18 14:00,CSC Ghiroda SI Giarmata Vii,AFC Nera Bogodinti,2,1,1.480,4.333,4.750,3.25,2.000,1.800
+74089392,2026-09-18 14:00,Universitatea Alba Iulia,CSM Deva,0,0,5.000,4.500,1.444,2.75,1.800,2.000
+74089394,2026-09-18 14:00,CS Metalurgistul Cugir,CSM Unirea Alba Iulia,2,2,5.000,4.100,1.480,2.75,1.825,1.975
+74089646,2026-09-18 14:00,Acad Viitorul Cluj,CS Academica Recea,6,2,2.400,3.600,2.400,2.5,1.800,2.000
+74088302,2026-09-18 17:00,Csm Targu Jiu,CS Drobeta Turnu Severin,1,1,1.727,3.900,3.600,2.75,1.825,1.975
+74089648,2026-09-19 14:00,CS Crisul Santandrei,Sanatatea Cluj,0,2,,,,,,
+74089650,2026-09-19 14:00,AFC Unirea Tasnad,CS Bihorul Beius,0,0,,,,,,
+74089652,2026-09-19 14:00,ACS Academica Transilvania Tg-Mures,Scm Zalau,2,3,,,,,,
+74089654,2026-09-19 14:00,Csm Sighetu Marmatiei,CS Lotus Baile Felix,1,1,,,,,,
+74089656,2026-09-19 14:00,FCM Baia Mare,FC Unirea Dej,5,1,,,,,,
+74089398,2026-09-22 14:00,Stinta Poli Timisoara 2,ACS Cil Blaj,1,2,,,,,,
+74089658,2026-09-22 14:00,Sanatatea Cluj,FCM Baia Mare,0,2,2.750,3.600,2.150,2.5,1.825,1.975
+74089668,2026-09-22 14:00,CS Lotus Baile Felix,CS Crisul Santandrei,2,2,,,,,,
+74086478,2026-09-23 14:00,ACS Kids Tampa Brasov,Asc Olimpic Zarnesti,0,1,4.500,4.333,1.533,3.25,1.950,1.850
+74086848,2026-09-23 14:00,CS Electrosid Titu,ACS Viitorul Corbeanca,0,0,1.900,3.800,3.100,2.75,1.775,2.025
+74087326,2026-09-23 14:00,AFC Dunarea 2005 Calarasi,CS Sporting Liesti,3,2,,,,,,
+74087712,2026-09-23 14:00,ACS Omega Buc,ACS Progresul Mogosoaia,1,0,1.833,3.500,3.500,3,1.875,1.925
+74087718,2026-09-23 14:00,Scm Dunarea Giurgiu,AFC Progresul 1944 Spartac,1,0,,,,,,
+74088314,2026-09-23 14:00,ACS Petrolul Hartiesti,Unirea Bascov,0,6,3.500,3.800,1.750,3,1.950,1.850
+74088320,2026-09-23 14:00,CS Drobeta Turnu Severin,CS Vulturii Farcasesti,3,2,1.666,4.000,3.800,3.25,1.900,1.900
+74089660,2026-09-23 14:00,Scm Zalau,AFC Unirea Tasnad,4,0,,,,,,
+74089662,2026-09-23 14:00,CS Bihorul Beius,Csm Sighetu Marmatiei,0,3,,,,,,
+74089664,2026-09-23 14:00,CS Academica Recea,ACS Academica Transilvania Tg-Mures,7,1,1.850,3.900,3.200,3.25,2.000,1.800
+74089666,2026-09-23 14:00,FC Unirea Dej,Acad Viitorul Cluj,0,2,2.700,4.100,2.000,2.75,1.950,1.850
+74596554,2026-09-23 14:00,ASC Otelul Galati II,CS Gloria Baneasa,1,2,2.750,3.400,2.250,3,1.975,1.825
+74087724,2026-09-25 14:00,CSM Alexandria,ACS Axi Arena,2,0,,,,,,
+74087726,2026-09-25 14:00,Oxigen Bucuresti,SC FC Voluntari II,1,2,1.850,3.600,3.400,2.75,1.825,1.975
+74088326,2026-09-25 14:00,Acso Filiasi,Asfc Pausesti Otasau,1,1,1.480,4.200,5.250,3.25,1.975,1.825
+74089414,2026-09-25 14:00,CS Timisul Sag,Universitatea Alba Iulia,1,0,1.500,4.200,4.500,3.25,1.825,1.975
+74089670,2026-09-25 14:00,Sanatatea Cluj,CS Lotus Baile Felix,1,1,1.800,3.700,3.600,2.5,1.825,1.975
+74088328,2026-09-25 17:00,Csm Targu Jiu,ACS Academica Bals,1,0,,,,,,
+74089672,2026-09-26 14:00,AFC Unirea Tasnad,CS Academica Recea,1,2,,,,,,
+74089674,2026-09-26 14:00,Csm Sighetu Marmatiei,Scm Zalau,0,2,,,,,,
+74089676,2026-09-26 14:00,ACS Academica Transilvania Tg-Mures,FC Unirea Dej,0,0,,,,,,
+74089678,2026-09-26 14:00,CS Crisul Santandrei,CS Bihorul Beius,2,1,,,,,,
+74089680,2026-09-26 14:00,FCM Baia Mare,Acad Viitorul Cluj,2,2,,,,,,
+74087734,2026-10-02 12:00,SC FC Voluntari II,CSM Alexandria,0,2,4.750,4.500,1.480,3.25,1.875,1.925
+74087736,2026-10-02 12:00,Fotbal Club FCSB 2,ACS Omega Buc,1,2,5.500,4.333,1.420,3.25,1.900,1.900
+74087740,2026-10-02 12:00,ACS Axi Arena,AFC Progresul 1944 Spartac,2,1,,,,,,
+74088338,2026-10-02 12:00,CS Drobeta Turnu Severin,Acso Filiasi,3,0,1.700,4.100,3.600,3,1.975,1.825
+74088344,2026-10-02 12:00,Unirea Bascov,CSM Jiul Petrosani,1,1,2.050,3.500,2.900,2.75,1.975,1.825
+74088348,2026-10-02 12:00,ACS Academica Bals,CS Vulturii Farcasesti,3,2,,,,,,
+74089422,2026-10-02 12:00,Stinta Poli Timisoara 2,CS Metalurgistul Cugir,1,1,,,,,,
+74089424,2026-10-02 12:00,Universitatea Alba Iulia,ACS Unirea Santana,0,1,3.800,3.900,1.666,3,1.975,1.825
+74089682,2026-10-02 12:00,CS Academica Recea,Csm Sighetu Marmatiei,1,0,2.600,3.600,2.200,3,1.900,1.900
+74089684,2026-10-02 12:00,Acad Viitorul Cluj,ACS Academica Transilvania Tg-Mures,4,2,1.300,4.750,7.500,2.75,1.850,1.950
+74089686,2026-10-02 12:00,CS Lotus Baile Felix,FCM Baia Mare,0,4,5.750,4.500,1.380,2.75,1.975,1.825
+74089688,2026-10-02 12:00,FC Unirea Dej,AFC Unirea Tasnad,0,0,3.900,3.900,1.666,3,2.000,1.800
+74087742,2026-10-03 12:00,Scm Dunarea Giurgiu,ACS Progresul Mogosoaia,1,1,1.750,3.700,3.700,3,1.900,1.900
+74088340,2026-10-03 12:00,CS Minerul Lupeni,ACS Oltul Curtisoara,2,0,,,,,,
+74088346,2026-10-03 12:00,Asfc Pausesti Otasau,CS Universitatea Craiova II,1,0,,,,,,
+74089426,2026-10-03 12:00,ACS Progresul Pecica,ACS Cil Blaj,2,1,,,,,,
+74089428,2026-10-03 12:00,ACS Viitorul Arad,CSM Unirea Alba Iulia,0,4,,,,,,
+74089430,2026-10-03 12:00,AFC Nera Bogodinti,CS Timisul Sag,0,0,,,,,,
+74089690,2026-10-03 12:00,Scm Zalau,CS Crisul Santandrei,1,2,,,,,,
+74089692,2026-10-03 12:00,CS Bihorul Beius,Sanatatea Cluj,1,3,,,,,,
+74089694,2026-10-09 12:00,Sanatatea Cluj,Scm Zalau,1,1,1.950,3.500,3.250,2.5,1.850,1.950
+74089696,2026-10-09 12:00,CS Lotus Baile Felix,CS Bihorul Beius,0,1,,,,,,
+74085744,2026-10-10 12:00,CSM Ceahlaul Piatra Neamt,CSM Pascani,1,1,1.909,3.600,3.200,3,1.950,1.850
+74085746,2026-10-10 12:00,AFC Viitorul Onesti,AFC Odorheiu Secuiesc,2,4,,,,,,
+74085748,2026-10-10 12:00,AS Usv Iasi,CS Bradul Putna,0,1,1.222,5.500,9.000,3,1.800,2.000
+74085750,2026-10-10 12:00,Csm Adjud 1946,CS Gheorgheni,4,1,,,,,,
+74085752,2026-10-10 12:00,Acs Kse Targu Secuiesc,CS Aerostar Bacau,3,0,,,,,,
+74086518,2026-10-10 12:00,CS Carpati Covasna,CS Tricolorul Breaza,0,4,,,,,,
+74086520,2026-10-10 12:00,Cso Teleajenul Valeni de Munte,ACS Sepsi Osk Sfantu Gheorghe 2,1,3,1.615,4.200,4.000,3.5,1.900,1.900
+74086522,2026-10-10 12:00,Cso Baicoi,Asc Olimpic Zarnesti,1,1,1.615,4.100,4.000,3.25,1.950,1.850
+74086524,2026-10-10 12:00,CSM Corona Brasov,AFC Inter Stars Sibiu,2,0,1.700,3.900,3.750,3,1.825,1.975
+74086892,2026-10-10 12:00,ACS Vointa 2024 Crevedia,CS Electrosid Titu,1,2,1.500,4.200,4.750,3,1.800,2.000
+74086894,2026-10-10 12:00,FC Pucioasa,FC Petrolul Berca,3,2,,,,,,
+74087362,2026-10-10 12:00,CS Gloria Baneasa,CSA Axiopolis Sport Cernavoda,3,1,,,,,,
+74087364,2026-10-10 12:00,CS Agigea,ASC Otelul Galati II,2,2,,,,,,
+74087366,2026-10-10 12:00,CS Sporting Liesti,ACS Progresul Fundulea,0,2,1.333,4.500,7.000,3.25,1.825,1.975
+74087368,2026-10-10 12:00,ASC Unirea Branistea,ACS Recolta Gheorghe Doja,2,1,,,,,,
+74087370,2026-10-10 12:00,CS Portul Constanta,AS FC Agricola Borcea,0,8,,,,,,
+74088354,2026-10-10 12:00,Asfc Pausesti Otasau,CS Drobeta Turnu Severin,0,4,,,,,,
+74088356,2026-10-10 12:00,CS Vulturii Farcasesti,ACS Petrolul Hartiesti,3,0,,,,,,
+74088358,2026-10-10 12:00,CS Universitatea Craiova II,CSM Jiul Petrosani,4,1,1.800,3.600,3.600,2.75,1.900,1.900
+74088360,2026-10-10 12:00,ACS Oltul Curtisoara,ACS Academica Bals,2,1,,,,,,
+74089440,2026-10-10 12:00,CSM Unirea Alba Iulia,Stinta Poli Timisoara 2,2,0,,,,,,
+74089444,2026-10-10 12:00,AFC Nera Bogodinti,ACS Viitorul Arad,1,4,,,,,,
+74089698,2026-10-10 12:00,Csm Sighetu Marmatiei,FC Unirea Dej,3,0,,,,,,
+74089700,2026-10-10 12:00,AFC Unirea Tasnad,Acad Viitorul Cluj,1,0,,,,,,
+74089702,2026-10-10 12:00,FCM Baia Mare,ACS Academica Transilvania Tg-Mures,6,0,,,,,,
+74089704,2026-10-10 12:00,CS Crisul Santandrei,CS Academica Recea,0,2,,,,,,
+74085754,2026-10-16 12:00,CS Aerostar Bacau,AFC Viitorul Onesti,1,1,,,,,,
+74085758,2026-10-16 12:00,AFC Odorheiu Secuiesc,AS Usv Iasi,2,2,3.800,3.700,1.700,2.75,2.000,1.800
+74088362,2026-10-16 12:00,CS Drobeta Turnu Severin,CS Universitatea Craiova II,3,1,1.450,4.333,5.250,3,1.975,1.825
+74088368,2026-10-16 12:00,Unirea Bascov,CS Vulturii Farcasesti,1,0,3.300,3.800,1.800,3,2.000,1.800
+74089448,2026-10-16 12:00,Stinta Poli Timisoara 2,AFC Nera Bogodinti,1,0,,,,,,
+74089706,2026-10-16 12:00,FC Unirea Dej,CS Crisul Santandrei,1,2,6.000,4.200,1.400,2.75,1.850,1.950
+74089708,2026-10-16 12:00,CS Academica Recea,Sanatatea Cluj,1,3,3.600,3.500,1.800,3,1.925,1.875
+74089710,2026-10-16 12:00,Acad Viitorul Cluj,Csm Sighetu Marmatiei,1,2,2.100,3.500,2.800,2.75,1.875,1.925
+74085760,2026-10-17 12:00,CS Gheorgheni,CSM Ceahlaul Piatra Neamt,2,2,,,,,,
+74085762,2026-10-17 12:00,Csm FC Vaslui,Csm Adjud 1946,2,0,1.500,4.000,5.000,3,1.900,1.900
+74085764,2026-10-17 12:00,CS Bradul Putna,ACS FC Bacau II,3,1,,,,,,
+74086532,2026-10-17 12:00,Asc Olimpic Zarnesti,Cso Teleajenul Valeni de Munte,4,1,,,,,,
+74086534,2026-10-17 12:00,Csm Sacele,CS Carpati Covasna,4,0,,,,,,
+74086536,2026-10-17 12:00,CS Tricolorul Breaza,Cso Baicoi,0,5,,,,,,
+74086898,2026-10-17 12:00,CS Tunari,CS Blejoi,4,0,1.550,4.200,4.333,3.25,2.000,1.800
+74086902,2026-10-17 12:00,CSO Plopeni,Csm Flacara Moreni,0,3,,,,,,
+74086904,2026-10-17 12:00,FC Petrolul Berca,Csm Ramnicu Sarat,4,4,,,,,,
+74086906,2026-10-17 12:00,CS Paulesti,ACS Vointa 2024 Crevedia,1,3,,,,,,
+74087376,2026-10-17 12:00,ACS Progresul Fundulea,CS Portul Constanta,6,0,1.062,8.000,19.000,3.25,1.950,1.850
+74087378,2026-10-17 12:00,ACS Recolta Gheorghe Doja,CS Gloria Baneasa,6,5,,,,,,
+74087382,2026-10-17 12:00,CSA Axiopolis Sport Cernavoda,CS Sporting Liesti,1,4,2.350,3.700,2.350,3.25,1.975,1.825
+74088364,2026-10-17 12:00,ACS Petrolul Hartiesti,ACS Oltul Curtisoara,1,2,,,,,,
+74088370,2026-10-17 12:00,CS Minerul Lupeni,Asfc Pausesti Otasau,1,1,,,,,,
+74089450,2026-10-17 12:00,ACS Viitorul Arad,CS Timisul Sag,1,0,,,,,,
+74089452,2026-10-17 12:00,ACS Unirea Santana,ACS Cil Blaj,0,0,2.200,3.500,2.700,2.75,1.875,1.925
+74089454,2026-10-17 12:00,ACS Progresul Pecica,CS Metalurgistul Cugir,1,2,2.500,3.600,2.250,3,1.975,1.825
+74089712,2026-10-17 12:00,Scm Zalau,CS Lotus Baile Felix,1,1,,,,,,
+74089714,2026-10-17 12:00,CS Bihorul Beius,FCM Baia Mare,0,0,,,,,,
+74089716,2026-10-17 12:00,ACS Academica Transilvania Tg-Mures,AFC Unirea Tasnad,1,2,,,,,,
+74085766,2026-10-23 12:00,ACS FC Bacau II,AFC Odorheiu Secuiesc,2,1,,,,,,
+74086538,2026-10-23 12:00,ACS Aro Muscelul C-Lung Muscel,AFC Inter Stars Sibiu,1,2,,,,,,
+74086540,2026-10-23 12:00,ACS Medias 2022,ACS Sepsi Osk Sfantu Gheorghe 2,3,2,,,,,,
+74086908,2026-10-23 12:00,CS Blejoi,ACS Viitorul Corbeanca,1,0,1.480,4.200,5.500,3,1.950,1.850
+74086910,2026-10-23 12:00,Csm Ramnicu Sarat,CS Electrosid Titu,3,2,2.625,3.700,2.150,3.25,1.950,1.850
+74086912,2026-10-23 12:00,Csm Flacara Moreni,ACS Progresul Draganesti,6,0,,,,,,
+74087384,2026-10-23 12:00,ACS Inainte Modelu,AS FC Agricola Borcea,0,1,,,,,,
+74087386,2026-10-23 12:00,AFC Dunarea 2005 Calarasi,ASC Otelul Galati II,2,0,,,,,,
+74087770,2026-10-23 12:00,CSM Alexandria,ACS Inter Ilfov,0,3,,,,,,
+74087772,2026-10-23 12:00,Fotbal Club FCSB 2,ACS Axi Arena,6,0,2.300,3.600,2.500,3,1.825,1.975
+74088374,2026-10-23 12:00,Acso Filiasi,ACS Petrolul Hartiesti,3,0,,,,,,
+74088376,2026-10-23 12:00,CS Drobeta Turnu Severin,CS Minerul Lupeni,3,0,2.500,3.300,2.500,2.5,1.800,2.000
+74089458,2026-10-23 12:00,CS Timisul Sag,ACS Cil Blaj,3,0,,,,,,
+74089460,2026-10-23 12:00,CSC Ghiroda SI Giarmata Vii,ACS Unirea Santana,3,0,,,,,,
+74089718,2026-10-23 12:00,Sanatatea Cluj,FC Unirea Dej,1,0,1.111,7.500,19.000,3,1.800,2.000
+74089720,2026-10-23 12:00,CS Lotus Baile Felix,CS Academica Recea,1,5,,,,,,
+74085768,2026-10-24 12:00,AS Usv Iasi,CS Aerostar Bacau,3,3,1.909,3.700,3.200,3,1.925,1.875
+74085770,2026-10-24 12:00,Csm Adjud 1946,CS Bradul Putna,1,1,,,,,,
+74085772,2026-10-24 12:00,CS Gheorgheni,Csm FC Vaslui,2,2,,,,,,
+74085774,2026-10-24 12:00,AFC Viitorul Onesti,CSM Pascani,2,2,,,,,,
+74085776,2026-10-24 12:00,CSM Ceahlaul Piatra Neamt,Acs Kse Targu Secuiesc,0,2,,,,,,
+74086542,2026-10-24 12:00,CS Tricolorul Breaza,Csm Sacele,0,2,,,,,,
+74086544,2026-10-24 12:00,Cso Baicoi,Cso Teleajenul Valeni de Munte,4,2,1.480,4.100,4.750,3,1.800,2.000
+74086546,2026-10-24 12:00,CS Carpati Covasna,ACS Kids Tampa Brasov,0,3,2.000,3.250,3.250,3,1.925,1.875
+74086914,2026-10-24 12:00,FC Pucioasa,CS Paulesti,1,0,,,,,,
+74086916,2026-10-24 12:00,CSO Plopeni,FC Petrolul Berca,3,5,2.400,3.500,2.400,3,1.800,2.000
+74086918,2026-10-24 12:00,ACS Vointa 2024 Crevedia,CS Tunari,0,2,5.250,4.500,1.420,3.5,2.000,1.800
+74087388,2026-10-24 12:00,CS Sporting Liesti,ACS Recolta Gheorghe Doja,7,0,,,,,,
+74087390,2026-10-24 12:00,ASC Unirea Branistea,CS Gloria Baneasa,3,1,,,,,,
+74087392,2026-10-24 12:00,CS Agigea,ACS Progresul Fundulea,2,4,,,,,,
+74087394,2026-10-24 12:00,CS Portul Constanta,CSA Axiopolis Sport Cernavoda,1,6,,,,,,
+74087774,2026-10-24 12:00,ACS Progresul Mogosoaia,Oxigen Bucuresti,4,2,1.700,3.900,3.800,3.25,2.000,1.800
+74087776,2026-10-24 12:00,AFC Progresul 1944 Spartac,CSM Cetatea Turnu Magurele,0,0,3.500,3.700,1.800,2.75,1.950,1.850
+74087778,2026-10-24 12:00,Scm Dunarea Giurgiu,SC FC Voluntari II,5,3,,,,,,
+74087780,2026-10-24 12:00,ACS Omega Buc,FC Dinamo Bucuresti 1948 2,2,0,1.480,4.100,4.750,3.25,2.000,1.800
+74088378,2026-10-24 12:00,CS Vulturii Farcasesti,CSM Jiul Petrosani,0,0,1.750,3.700,3.800,3,1.975,1.825
+74088382,2026-10-24 12:00,Asfc Pausesti Otasau,ACS Academica Bals,2,1,,,,,,
+74088384,2026-10-24 12:00,ACS Oltul Curtisoara,Unirea Bascov,4,2,,,,,,
+74089464,2026-10-24 12:00,CSM Unirea Alba Iulia,ACS Progresul Pecica,4,0,1.083,10.000,21.000,3.75,1.900,1.900
+74089466,2026-10-24 12:00,ACS Viitorul Arad,Stinta Poli Timisoara 2,2,1,,,,,,
+74089468,2026-10-24 12:00,AFC Nera Bogodinti,CSM Deva,1,2,,,,,,
+74089722,2026-10-24 12:00,Csm Sighetu Marmatiei,ACS Academica Transilvania Tg-Mures,5,0,,,,,,
+74089724,2026-10-24 12:00,CS Bihorul Beius,Scm Zalau,1,1,,,,,,
+74089726,2026-10-24 12:00,CS Crisul Santandrei,Acad Viitorul Cluj,3,1,1.666,3.800,4.000,3,2.000,1.800
+74089728,2026-10-24 12:00,FCM Baia Mare,AFC Unirea Tasnad,3,1,1.300,4.750,7.500,2.75,1.825,1.975
+74085780,2026-10-30 13:00,AFC Odorheiu Secuiesc,Csm Adjud 1946,0,2,2.250,3.600,2.550,3,1.950,1.850
+74089474,2026-10-30 13:00,Stinta Poli Timisoara 2,CS Timisul Sag,1,4,,,,,,
+74089730,2026-10-30 13:00,FC Unirea Dej,CS Lotus Baile Felix,2,0,,,,,,
+74089732,2026-10-30 13:00,CS Academica Recea,CS Bihorul Beius,5,1,1.666,3.800,4.000,3,1.975,1.825
+74089734,2026-10-30 13:00,Acad Viitorul Cluj,Sanatatea Cluj,2,3,3.000,3.600,2.000,3,1.950,1.850
+74086554,2026-10-30 16:00,AFC Inter Stars Sibiu,CS Carpati Covasna,5,0,1.142,8.500,13.000,4,1.900,1.900
+74088386,2026-10-30 17:00,Csm Targu Jiu,CS Vulturii Farcasesti,2,1,1.615,3.800,4.200,2.75,1.900,1.900
+74089736,2026-10-31 13:00,AFC Unirea Tasnad,Csm Sighetu Marmatiei,3,3,2.875,3.700,2.100,2.75,1.950,1.850
+74089738,2026-10-31 13:00,Scm Zalau,FCM Baia Mare,2,3,,,,,,
+74089740,2026-10-31 13:00,ACS Academica Transilvania Tg-Mures,CS Crisul Santandrei,2,2,7.500,6.000,1.222,3.25,1.900,1.900
+74089742,2026-11-06 12:00,FC Unirea Dej,CS Bihorul Beius,0,1,,,,,,
+74089744,2026-11-06 12:00,CS Academica Recea,Scm Zalau,2,3,2.300,3.500,2.500,3,2.000,1.800
+74089746,2026-11-06 12:00,Acad Viitorul Cluj,CS Lotus Baile Felix,2,1,2.050,3.500,2.900,2.75,1.950,1.850
+74089748,2026-11-07 12:00,FCM Baia Mare,Csm Sighetu Marmatiei,4,0,1.420,4.750,5.000,3.25,1.825,1.975
+74089750,2026-11-07 12:00,AFC Unirea Tasnad,CS Crisul Santandrei,1,1,,,,,,
+74089752,2026-11-07 12:00,ACS Academica Transilvania Tg-Mures,Sanatatea Cluj,0,1,,,,,,
