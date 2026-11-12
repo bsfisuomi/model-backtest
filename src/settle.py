@@ -2,8 +2,8 @@
 
   python3 src/settle.py
 
-closing_odds = bet365 closing odds for that market/line/side (Odds-API.io historical odds; falls back to
-the last odds seen in a scan); clv = odds / closing_odds - 1.
+closing_odds = bet365 closing odds on the SAME line as the bet (Odds-API.io historical odds, else the latest
+main-line price from the scan if it is still the same line); clv = odds / closing_odds - 1.
 """
 import datetime as dt
 import os
@@ -69,7 +69,11 @@ def main():
         for mk, line, side, odd in offers((d.get("bookmakers") or {}).get(BOOK, [])):
             if mk == b["market"] and abs(line - float(b["line"])) < 1e-9 and side == b["side"]:
                 close = odd
-        close = close or (float(b["last_seen_odds"]) if b.get("last_seen_odds") else None)
+        if close:
+            b["closing_line"] = b["line"]
+        elif b.get("latest_odds") and b.get("latest_line") not in ("", None) and abs(float(b["latest_line"]) - float(b["line"])) < 1e-9:
+            close = float(b["latest_odds"])
+            b["closing_line"] = b["line"]
         if close:
             b["closing_odds"] = close
             b["clv"] = round(float(b["odds"]) / close - 1, 4)

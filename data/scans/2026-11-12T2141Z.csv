@@ -1,0 +1,1113 @@
+league,event_id,kickoff_utc,home,away,market,kind,line,side,odds,time_utc,fair_odds,ev
+ukraine-persha-liga,72550322,2026-11-09 09:00,FC Viktoriya Sumy,Agrobiznes Volochisk,ah,opening,-0.25,home,2.025,2026-11-08 12:25,1.934,0.0405
+ukraine-persha-liga,72550322,2026-11-09 09:00,FC Viktoriya Sumy,Agrobiznes Volochisk,ah,opening,-0.25,away,1.775,2026-11-08 12:25,2.071,-0.1226
+ukraine-persha-liga,72550322,2026-11-09 09:00,FC Viktoriya Sumy,Agrobiznes Volochisk,ah,latest,-0.25,home,1.775,2026-11-09 03:57,1.934,-0.0703
+ukraine-persha-liga,72550322,2026-11-09 09:00,FC Viktoriya Sumy,Agrobiznes Volochisk,ah,latest,-0.25,away,2.025,2026-11-09 03:57,2.071,-0.0191
+ukraine-persha-liga,72550322,2026-11-09 09:00,FC Viktoriya Sumy,Agrobiznes Volochisk,total,opening,2.25,over,2,2026-11-08 12:25,2.286,-0.1084
+ukraine-persha-liga,72550322,2026-11-09 09:00,FC Viktoriya Sumy,Agrobiznes Volochisk,total,opening,2.25,under,1.8,2026-11-08 12:25,1.777,0.011
+ukraine-persha-liga,72550322,2026-11-09 09:00,FC Viktoriya Sumy,Agrobiznes Volochisk,total,latest,2.0,over,1.75,2026-11-09 03:57,1.932,-0.0691
+ukraine-persha-liga,72550322,2026-11-09 09:00,FC Viktoriya Sumy,Agrobiznes Volochisk,total,latest,2.0,under,2.05,2026-11-09 03:57,2.072,-0.0079
+bulgaria-vtora-liga,72466614,2026-11-09 12:30,PFC Chernomorets Burgas,FC Yantra Gabrovo,ah,opening,-0.5,home,1.85,2026-11-02 14:27,2.086,-0.1131
+bulgaria-vtora-liga,72466614,2026-11-09 12:30,PFC Chernomorets Burgas,FC Yantra Gabrovo,ah,opening,-0.5,away,1.95,2026-11-02 14:27,1.921,0.0152
+bulgaria-vtora-liga,72466614,2026-11-09 12:30,PFC Chernomorets Burgas,FC Yantra Gabrovo,ah,latest,-0.75,home,1.975,2026-11-09 12:28,2.464,-0.1739
+bulgaria-vtora-liga,72466614,2026-11-09 12:30,PFC Chernomorets Burgas,FC Yantra Gabrovo,ah,latest,-0.75,away,1.825,2026-11-09 12:28,1.683,0.0739
+bulgaria-vtora-liga,72466614,2026-11-09 12:30,PFC Chernomorets Burgas,FC Yantra Gabrovo,total,opening,2.25,over,1.775,2026-11-02 14:27,2.143,-0.1488
+bulgaria-vtora-liga,72466614,2026-11-09 12:30,PFC Chernomorets Burgas,FC Yantra Gabrovo,total,opening,2.25,under,2.025,2026-11-02 14:27,1.875,0.0693
+bulgaria-vtora-liga,72466614,2026-11-09 12:30,PFC Chernomorets Burgas,FC Yantra Gabrovo,total,latest,2.25,over,1.85,2026-11-09 12:28,2.143,-0.1184
+bulgaria-vtora-liga,72466614,2026-11-09 12:30,PFC Chernomorets Burgas,FC Yantra Gabrovo,total,latest,2.25,under,1.95,2026-11-09 12:28,1.875,0.0346
+bulgaria-vtora-liga,72466622,2026-11-09 15:00,SFC Etar Veliko Tarnovo,PFC Montana 1921,ah,opening,-1.0,home,2.025,2026-11-02 14:37,2.733,-0.1993
+bulgaria-vtora-liga,72466622,2026-11-09 15:00,SFC Etar Veliko Tarnovo,PFC Montana 1921,ah,opening,-1.0,away,1.775,2026-11-02 14:37,1.577,0.0965
+bulgaria-vtora-liga,72466622,2026-11-09 15:00,SFC Etar Veliko Tarnovo,PFC Montana 1921,ah,latest,-0.5,home,1.825,2026-11-09 14:57,1.952,-0.0652
+bulgaria-vtora-liga,72466622,2026-11-09 15:00,SFC Etar Veliko Tarnovo,PFC Montana 1921,ah,latest,-0.5,away,1.975,2026-11-09 14:57,2.05,-0.0366
+bulgaria-vtora-liga,72466622,2026-11-09 15:00,SFC Etar Veliko Tarnovo,PFC Montana 1921,total,opening,3.0,over,1.85,2026-11-02 14:37,2.321,-0.1575
+bulgaria-vtora-liga,72466622,2026-11-09 15:00,SFC Etar Veliko Tarnovo,PFC Montana 1921,total,opening,3.0,under,1.95,2026-11-02 14:37,1.757,0.0853
+bulgaria-vtora-liga,72466622,2026-11-09 15:00,SFC Etar Veliko Tarnovo,PFC Montana 1921,total,latest,2.75,over,1.925,2026-11-09 14:57,1.99,-0.0289
+bulgaria-vtora-liga,72466622,2026-11-09 15:00,SFC Etar Veliko Tarnovo,PFC Montana 1921,total,latest,2.75,under,1.875,2026-11-09 14:57,2.01,-0.0598
+bulgaria-vtora-liga,72466618,2026-11-09 15:30,FC Fratria Varna,PFK Sportist Svoge,ah,opening,-1.25,home,1.825,2026-11-02 14:30,2.29,-0.1765
+bulgaria-vtora-liga,72466618,2026-11-09 15:30,FC Fratria Varna,PFK Sportist Svoge,ah,opening,-1.25,away,1.975,2026-11-02 14:30,1.775,0.0978
+bulgaria-vtora-liga,72466618,2026-11-09 15:30,FC Fratria Varna,PFK Sportist Svoge,ah,latest,-1.5,home,1.95,2026-11-09 15:11,2.634,-0.2597
+bulgaria-vtora-liga,72466618,2026-11-09 15:30,FC Fratria Varna,PFK Sportist Svoge,ah,latest,-1.5,away,1.85,2026-11-09 15:11,1.612,0.1477
+bulgaria-vtora-liga,72466618,2026-11-09 15:30,FC Fratria Varna,PFK Sportist Svoge,total,opening,2.75,over,2,2026-11-02 14:30,2.507,-0.1806
+bulgaria-vtora-liga,72466618,2026-11-09 15:30,FC Fratria Varna,PFK Sportist Svoge,total,opening,2.75,under,1.8,2026-11-02 14:30,1.663,0.0733
+bulgaria-vtora-liga,72466618,2026-11-09 15:30,FC Fratria Varna,PFK Sportist Svoge,total,latest,2.75,over,2,2026-11-09 15:17,2.507,-0.1806
+bulgaria-vtora-liga,72466618,2026-11-09 15:30,FC Fratria Varna,PFK Sportist Svoge,total,latest,2.75,under,1.8,2026-11-09 15:17,1.663,0.0733
+georgia-erovnuli-liga,75674346,2026-11-09 16:00,FC Iberia 1999,FC Gagra,ah,opening,-1.25,home,1.9,2026-11-07 23:57,2.889,-0.2993
+georgia-erovnuli-liga,75674346,2026-11-09 16:00,FC Iberia 1999,FC Gagra,ah,opening,-1.25,away,1.9,2026-11-07 23:57,1.53,0.2119
+georgia-erovnuli-liga,75674346,2026-11-09 16:00,FC Iberia 1999,FC Gagra,ah,latest,-1.25,home,1.9,2026-11-09 15:49,2.889,-0.2993
+georgia-erovnuli-liga,75674346,2026-11-09 16:00,FC Iberia 1999,FC Gagra,ah,latest,-1.25,away,1.9,2026-11-09 15:49,1.53,0.2119
+georgia-erovnuli-liga,75674346,2026-11-09 16:00,FC Iberia 1999,FC Gagra,total,opening,2.75,over,1.875,2026-11-07 23:57,2.43,-0.2037
+georgia-erovnuli-liga,75674346,2026-11-09 16:00,FC Iberia 1999,FC Gagra,total,opening,2.75,under,1.925,2026-11-07 23:57,1.699,0.1185
+georgia-erovnuli-liga,75674346,2026-11-09 16:00,FC Iberia 1999,FC Gagra,total,latest,2.75,over,1.85,2026-11-09 15:41,2.43,-0.2129
+georgia-erovnuli-liga,75674346,2026-11-09 16:00,FC Iberia 1999,FC Gagra,total,latest,2.75,under,1.95,2026-11-09 15:41,1.699,0.1316
+israel-national-league,75661174,2026-11-09 17:00,Hapoel Kfar Saba FC,Maccabi Bney Reine,ah,opening,0.25,home,2,2026-11-08 02:38,2.159,-0.0652
+israel-national-league,75661174,2026-11-09 17:00,Hapoel Kfar Saba FC,Maccabi Bney Reine,ah,opening,0.25,away,1.8,2026-11-08 02:38,1.863,-0.0298
+israel-national-league,75661174,2026-11-09 17:00,Hapoel Kfar Saba FC,Maccabi Bney Reine,ah,latest,0.25,home,1.9,2026-11-09 14:16,2.159,-0.1061
+israel-national-league,75661174,2026-11-09 17:00,Hapoel Kfar Saba FC,Maccabi Bney Reine,ah,latest,0.25,away,1.9,2026-11-09 14:16,1.863,0.0177
+israel-national-league,75661174,2026-11-09 17:00,Hapoel Kfar Saba FC,Maccabi Bney Reine,total,opening,3.5,over,2.5,2026-11-08 02:31,2.595,-0.0367
+israel-national-league,75661174,2026-11-09 17:00,Hapoel Kfar Saba FC,Maccabi Bney Reine,total,opening,3.5,under,1.5,2026-11-08 02:31,1.627,-0.078
+israel-national-league,75661174,2026-11-09 17:00,Hapoel Kfar Saba FC,Maccabi Bney Reine,total,latest,2.75,over,1.825,2026-11-09 14:10,1.788,0.0186
+israel-national-league,75661174,2026-11-09 17:00,Hapoel Kfar Saba FC,Maccabi Bney Reine,total,latest,2.75,under,1.975,2026-11-09 14:10,2.27,-0.1154
+israel-national-league,75661176,2026-11-09 17:00,FC Kafr Qasim,Hapoel Afula FC,ah,opening,0.25,home,1.775,2026-11-08 02:38,1.798,-0.0109
+israel-national-league,75661176,2026-11-09 17:00,FC Kafr Qasim,Hapoel Afula FC,ah,opening,0.25,away,2.025,2026-11-08 02:38,2.253,-0.0866
+israel-national-league,75661176,2026-11-09 17:00,FC Kafr Qasim,Hapoel Afula FC,ah,latest,0.0,home,1.975,2026-11-09 15:49,2.151,-0.0579
+israel-national-league,75661176,2026-11-09 17:00,FC Kafr Qasim,Hapoel Afula FC,ah,latest,0.0,away,1.825,2026-11-09 15:49,1.869,-0.0167
+israel-national-league,75661176,2026-11-09 17:00,FC Kafr Qasim,Hapoel Afula FC,total,opening,3.5,over,3.25,2026-11-08 01:47,5.575,-0.417
+israel-national-league,75661176,2026-11-09 17:00,FC Kafr Qasim,Hapoel Afula FC,total,opening,3.5,under,1.333,2026-11-08 01:47,1.219,0.0939
+israel-national-league,75661176,2026-11-09 17:00,FC Kafr Qasim,Hapoel Afula FC,total,latest,2.5,over,1.85,2026-11-09 15:49,2.663,-0.3052
+israel-national-league,75661176,2026-11-09 17:00,FC Kafr Qasim,Hapoel Afula FC,total,latest,2.5,under,1.95,2026-11-09 15:49,1.601,0.2177
+israel-national-league,75661178,2026-11-09 17:00,Ironi Modiin,Hapoel Acre FC,ah,opening,-0.75,home,1.975,2026-11-08 02:53,2.376,-0.1487
+israel-national-league,75661178,2026-11-09 17:00,Ironi Modiin,Hapoel Acre FC,ah,opening,-0.75,away,1.825,2026-11-08 02:53,1.727,0.0501
+israel-national-league,75661178,2026-11-09 17:00,Ironi Modiin,Hapoel Acre FC,ah,latest,-0.5,home,1.975,2026-11-09 16:44,2.043,-0.0332
+israel-national-league,75661178,2026-11-09 17:00,Ironi Modiin,Hapoel Acre FC,ah,latest,-0.5,away,1.825,2026-11-09 16:44,1.959,-0.0684
+israel-national-league,75661178,2026-11-09 17:00,Ironi Modiin,Hapoel Acre FC,total,opening,3.5,over,2.75,2026-11-08 02:14,3.689,-0.2545
+israel-national-league,75661178,2026-11-09 17:00,Ironi Modiin,Hapoel Acre FC,total,opening,3.5,under,1.4,2026-11-08 02:14,1.372,0.0205
+israel-national-league,75661178,2026-11-09 17:00,Ironi Modiin,Hapoel Acre FC,total,latest,2.5,over,1.825,2026-11-09 16:30,2.042,-0.1063
+israel-national-league,75661178,2026-11-09 17:00,Ironi Modiin,Hapoel Acre FC,total,latest,2.5,under,1.975,2026-11-09 16:30,1.96,0.0078
+norway-eliteserien,76509750,2026-11-09 18:00,Kristiansund BK,Vaalerenga IF,ah,opening,0.5,home,1.85,2026-11-02 10:28,1.826,0.0129
+norway-eliteserien,76509750,2026-11-09 18:00,Kristiansund BK,Vaalerenga IF,ah,opening,0.5,away,1.95,2026-11-02 10:28,2.21,-0.1176
+norway-eliteserien,76509750,2026-11-09 18:00,Kristiansund BK,Vaalerenga IF,ah,latest,0.25,home,1.95,2026-11-09 17:31,2.036,-0.0376
+norway-eliteserien,76509750,2026-11-09 18:00,Kristiansund BK,Vaalerenga IF,ah,latest,0.25,away,1.85,2026-11-09 17:31,1.965,-0.0521
+norway-eliteserien,76509750,2026-11-09 18:00,Kristiansund BK,Vaalerenga IF,total,opening,3.5,over,2,2026-11-02 10:14,2.198,-0.0902
+norway-eliteserien,76509750,2026-11-09 18:00,Kristiansund BK,Vaalerenga IF,total,opening,3.5,under,1.727,2026-11-02 10:14,1.834,-0.0586
+norway-eliteserien,76509750,2026-11-09 18:00,Kristiansund BK,Vaalerenga IF,total,latest,3.5,over,1.833,2026-11-09 17:28,2.198,-0.1662
+norway-eliteserien,76509750,2026-11-09 18:00,Kristiansund BK,Vaalerenga IF,total,latest,3.5,under,1.833,2026-11-09 17:28,1.834,-0.0008
+romania-superliga,72388088,2026-11-09 18:00,FC Botosani,ASC Otelul Galati,ah,opening,-0.25,home,1.8,2026-11-04 05:24,1.91,-0.0506
+romania-superliga,72388088,2026-11-09 18:00,FC Botosani,ASC Otelul Galati,ah,opening,-0.25,away,2,2026-11-04 05:24,2.098,-0.0411
+romania-superliga,72388088,2026-11-09 18:00,FC Botosani,ASC Otelul Galati,ah,latest,-0.25,home,1.95,2026-11-09 17:41,1.91,0.0182
+romania-superliga,72388088,2026-11-09 18:00,FC Botosani,ASC Otelul Galati,ah,latest,-0.25,away,1.85,2026-11-09 17:41,2.098,-0.1037
+romania-superliga,72388088,2026-11-09 18:00,FC Botosani,ASC Otelul Galati,total,opening,3.5,over,3,2026-11-04 05:17,3.235,-0.0727
+romania-superliga,72388088,2026-11-09 18:00,FC Botosani,ASC Otelul Galati,total,opening,3.5,under,1.363,2026-11-04 05:17,1.447,-0.0583
+romania-superliga,72388088,2026-11-09 18:00,FC Botosani,ASC Otelul Galati,total,latest,2.5,over,1.9,2026-11-09 17:41,1.881,0.0102
+romania-superliga,72388088,2026-11-09 18:00,FC Botosani,ASC Otelul Galati,total,latest,2.5,under,1.9,2026-11-09 17:41,2.135,-0.1102
+italy-serie-c-group-b,73294070,2026-11-09 19:30,ASD Pineto Calcio,Vis Pesaro 1898,ah,opening,-0.75,home,1.9,2026-11-03 11:37,2.285,-0.1472
+italy-serie-c-group-b,73294070,2026-11-09 19:30,ASD Pineto Calcio,Vis Pesaro 1898,ah,opening,-0.75,away,1.9,2026-11-03 11:37,1.778,0.0598
+italy-serie-c-group-b,73294070,2026-11-09 19:30,ASD Pineto Calcio,Vis Pesaro 1898,ah,latest,-0.5,home,1.9,2026-11-09 19:12,1.966,-0.0335
+italy-serie-c-group-b,73294070,2026-11-09 19:30,ASD Pineto Calcio,Vis Pesaro 1898,ah,latest,-0.5,away,1.9,2026-11-09 19:12,2.035,-0.0665
+italy-serie-c-group-b,73294070,2026-11-09 19:30,ASD Pineto Calcio,Vis Pesaro 1898,total,opening,1.5,over,1.333,2026-11-03 11:31,1.471,-0.0937
+italy-serie-c-group-b,73294070,2026-11-09 19:30,ASD Pineto Calcio,Vis Pesaro 1898,total,opening,1.5,under,3.25,2026-11-03 11:31,3.124,0.0405
+italy-serie-c-group-b,73294070,2026-11-09 19:30,ASD Pineto Calcio,Vis Pesaro 1898,total,latest,2.5,over,1.925,2026-11-09 19:17,2.401,-0.1984
+italy-serie-c-group-b,73294070,2026-11-09 19:30,ASD Pineto Calcio,Vis Pesaro 1898,total,latest,2.5,under,1.875,2026-11-09 19:17,1.714,0.0942
+italy-serie-c-group-c,73294810,2026-11-09 19:30,Calcio Foggia,Barletta Calcio,ah,opening,-0.25,home,1.85,2026-11-03 11:35,2.096,-0.0972
+italy-serie-c-group-c,73294810,2026-11-09 19:30,Calcio Foggia,Barletta Calcio,ah,opening,-0.25,away,1.95,2026-11-03 11:35,1.913,0.0162
+italy-serie-c-group-c,73294810,2026-11-09 19:30,Calcio Foggia,Barletta Calcio,ah,latest,-0.25,home,1.875,2026-11-09 19:27,2.096,-0.0873
+italy-serie-c-group-c,73294810,2026-11-09 19:30,Calcio Foggia,Barletta Calcio,ah,latest,-0.25,away,1.925,2026-11-09 19:27,1.913,0.0053
+italy-serie-c-group-c,73294810,2026-11-09 19:30,Calcio Foggia,Barletta Calcio,total,opening,1.5,over,1.363,2026-11-03 11:29,2.02,-0.3253
+italy-serie-c-group-c,73294810,2026-11-09 19:30,Calcio Foggia,Barletta Calcio,total,opening,1.5,under,3,2026-11-03 11:29,1.98,0.515
+italy-serie-c-group-c,73294810,2026-11-09 19:30,Calcio Foggia,Barletta Calcio,total,latest,2.25,over,2,2026-11-09 19:27,3.731,-0.4032
+italy-serie-c-group-c,73294810,2026-11-09 19:30,Calcio Foggia,Barletta Calcio,total,latest,2.25,under,1.8,2026-11-09 19:27,1.366,0.2759
+spain-laliga-2,72477578,2026-11-09 19:30,CE Sabadell FC,Real Sociedad San Sebastian B,ah,opening,-0.75,home,1.95,2026-11-02 17:40,1.941,0.004
+spain-laliga-2,72477578,2026-11-09 19:30,CE Sabadell FC,Real Sociedad San Sebastian B,ah,opening,-0.75,away,1.85,2026-11-02 17:40,2.062,-0.0905
+spain-laliga-2,72477578,2026-11-09 19:30,CE Sabadell FC,Real Sociedad San Sebastian B,ah,latest,-0.5,home,1.85,2026-11-09 19:29,1.742,0.0621
+spain-laliga-2,72477578,2026-11-09 19:30,CE Sabadell FC,Real Sociedad San Sebastian B,ah,latest,-0.5,away,1.95,2026-11-09 19:29,2.348,-0.1695
+spain-laliga-2,72477578,2026-11-09 19:30,CE Sabadell FC,Real Sociedad San Sebastian B,total,opening,1.5,over,1.333,2026-11-02 16:58,1.296,0.0285
+spain-laliga-2,72477578,2026-11-09 19:30,CE Sabadell FC,Real Sociedad San Sebastian B,total,opening,1.5,under,3.25,2026-11-02 16:58,4.378,-0.2576
+spain-laliga-2,72477578,2026-11-09 19:30,CE Sabadell FC,Real Sociedad San Sebastian B,total,latest,2.5,over,2,2026-11-09 18:51,1.872,0.0685
+spain-laliga-2,72477578,2026-11-09 19:30,CE Sabadell FC,Real Sociedad San Sebastian B,total,latest,2.5,under,1.8,2026-11-09 18:51,2.147,-0.1617
+england-amateur-national-league-south,75018348,2026-11-09 19:45,Chelmsford City,Ebbsfleet United FC,ah,opening,0.25,home,1.95,2026-11-08 11:17,1.821,0.0619
+england-amateur-national-league-south,75018348,2026-11-09 19:45,Chelmsford City,Ebbsfleet United FC,ah,opening,0.25,away,1.85,2026-11-08 11:17,2.218,-0.1447
+england-amateur-national-league-south,75018348,2026-11-09 19:45,Chelmsford City,Ebbsfleet United FC,ah,latest,0.75,home,1.8,2026-11-09 18:15,1.475,0.1976
+england-amateur-national-league-south,75018348,2026-11-09 19:45,Chelmsford City,Ebbsfleet United FC,ah,latest,0.75,away,2,2026-11-09 18:15,3.107,-0.319
+england-amateur-national-league-south,75018348,2026-11-09 19:45,Chelmsford City,Ebbsfleet United FC,total,opening,3.5,over,2.5,2026-11-08 10:19,3.466,-0.2787
+england-amateur-national-league-south,75018348,2026-11-09 19:45,Chelmsford City,Ebbsfleet United FC,total,opening,3.5,under,1.5,2026-11-08 10:19,1.405,0.0672
+england-amateur-national-league-south,75018348,2026-11-09 19:45,Chelmsford City,Ebbsfleet United FC,total,latest,3.0,over,1.975,2026-11-09 17:51,2.701,-0.2094
+england-amateur-national-league-south,75018348,2026-11-09 19:45,Chelmsford City,Ebbsfleet United FC,total,latest,3.0,under,1.825,2026-11-09 17:51,1.588,0.1164
+italy-serie-c-group-c,73294816,2026-11-09 19:45,AZ Picerno,SSC Bari,ah,opening,0.25,home,1.825,2026-11-03 11:38,1.889,-0.029
+italy-serie-c-group-c,73294816,2026-11-09 19:45,AZ Picerno,SSC Bari,ah,opening,0.25,away,1.975,2026-11-03 11:38,2.125,-0.0607
+italy-serie-c-group-c,73294816,2026-11-09 19:45,AZ Picerno,SSC Bari,ah,latest,0.25,home,1.975,2026-11-09 19:35,1.889,0.0392
+italy-serie-c-group-c,73294816,2026-11-09 19:45,AZ Picerno,SSC Bari,ah,latest,0.25,away,1.825,2026-11-09 19:35,2.125,-0.1214
+italy-serie-c-group-c,73294816,2026-11-09 19:45,AZ Picerno,SSC Bari,total,opening,1.5,over,1.333,2026-11-03 11:16,1.484,-0.1019
+italy-serie-c-group-c,73294816,2026-11-09 19:45,AZ Picerno,SSC Bari,total,opening,1.5,under,3.25,2026-11-03 11:16,3.065,0.0602
+italy-serie-c-group-c,73294816,2026-11-09 19:45,AZ Picerno,SSC Bari,total,latest,2.25,over,1.85,2026-11-09 19:37,2.12,-0.1105
+italy-serie-c-group-c,73294816,2026-11-09 19:45,AZ Picerno,SSC Bari,total,latest,2.25,under,1.95,2026-11-09 19:37,1.893,0.0262
+romania-liga-2,76121460,2026-11-10 17:30,AFC Metalul Buzau,Csa Steaua Bucuresti,ah,opening,-0.25,home,1.8,2026-11-09 13:00,1.941,-0.0634
+romania-liga-2,76121460,2026-11-10 17:30,AFC Metalul Buzau,Csa Steaua Bucuresti,ah,opening,-0.25,away,2,2026-11-09 13:00,2.063,-0.0265
+romania-liga-2,76121460,2026-11-10 17:30,AFC Metalul Buzau,Csa Steaua Bucuresti,ah,latest,-0.25,home,1.85,2026-11-10 17:21,1.941,-0.0409
+romania-liga-2,76121460,2026-11-10 17:30,AFC Metalul Buzau,Csa Steaua Bucuresti,ah,latest,-0.25,away,1.95,2026-11-10 17:21,2.063,-0.0476
+romania-liga-2,76121460,2026-11-10 17:30,AFC Metalul Buzau,Csa Steaua Bucuresti,total,opening,2.75,over,2,2026-11-09 13:00,2.308,-0.1187
+romania-liga-2,76121460,2026-11-10 17:30,AFC Metalul Buzau,Csa Steaua Bucuresti,total,opening,2.75,under,1.8,2026-11-09 13:00,1.765,0.0178
+romania-liga-2,76121460,2026-11-10 17:30,AFC Metalul Buzau,Csa Steaua Bucuresti,total,latest,2.5,over,1.975,2026-11-10 17:21,2.018,-0.0214
+romania-liga-2,76121460,2026-11-10 17:30,AFC Metalul Buzau,Csa Steaua Bucuresti,total,latest,2.5,under,1.825,2026-11-10 17:21,1.982,-0.0792
+england-amateur-national-league-north,75445664,2026-11-10 19:45,Scarborough Athletic,Marine FC,ah,opening,-0.25,home,1.825,2026-11-08 11:11,1.809,0.0076
+england-amateur-national-league-north,75445664,2026-11-10 19:45,Scarborough Athletic,Marine FC,ah,opening,-0.25,away,1.975,2026-11-08 11:11,2.236,-0.1022
+england-amateur-national-league-north,75445664,2026-11-10 19:45,Scarborough Athletic,Marine FC,ah,latest,-0.5,home,1.9,2026-11-10 18:25,2.064,-0.0794
+england-amateur-national-league-north,75445664,2026-11-10 19:45,Scarborough Athletic,Marine FC,ah,latest,-0.5,away,1.9,2026-11-10 18:25,1.94,-0.0206
+england-amateur-national-league-north,75445664,2026-11-10 19:45,Scarborough Athletic,Marine FC,total,opening,3.5,over,3,2026-11-08 11:04,3.345,-0.1031
+england-amateur-national-league-north,75445664,2026-11-10 19:45,Scarborough Athletic,Marine FC,total,opening,3.5,under,1.363,2026-11-08 11:04,1.426,-0.0445
+england-amateur-national-league-north,75445664,2026-11-10 19:45,Scarborough Athletic,Marine FC,total,latest,2.75,over,1.85,2026-11-10 18:25,2.169,-0.1309
+england-amateur-national-league-north,75445664,2026-11-10 19:45,Scarborough Athletic,Marine FC,total,latest,2.75,under,1.95,2026-11-10 18:25,1.855,0.0455
+england-amateur-national-league-north,76077312,2026-11-10 19:45,Darlington FC,Oxford City,ah,opening,0.5,home,1.775,2026-11-08 11:17,1.607,0.1049
+england-amateur-national-league-north,76077312,2026-11-10 19:45,Darlington FC,Oxford City,ah,opening,0.5,away,2.025,2026-11-08 11:17,2.649,-0.2355
+england-amateur-national-league-north,76077312,2026-11-10 19:45,Darlington FC,Oxford City,ah,latest,0.75,home,1.9,2026-11-10 19:25,1.439,0.2869
+england-amateur-national-league-north,76077312,2026-11-10 19:45,Darlington FC,Oxford City,ah,latest,0.75,away,1.9,2026-11-10 19:25,3.278,-0.3765
+england-amateur-national-league-north,76077312,2026-11-10 19:45,Darlington FC,Oxford City,total,opening,3.5,over,2.25,2026-11-08 11:00,3.862,-0.4175
+england-amateur-national-league-north,76077312,2026-11-10 19:45,Darlington FC,Oxford City,total,opening,3.5,under,1.571,2026-11-08 11:00,1.349,0.1643
+england-amateur-national-league-north,76077312,2026-11-10 19:45,Darlington FC,Oxford City,total,latest,3.0,over,1.85,2026-11-10 19:25,3.025,-0.3043
+england-amateur-national-league-north,76077312,2026-11-10 19:45,Darlington FC,Oxford City,total,latest,3.0,under,1.95,2026-11-10 19:25,1.494,0.2392
+england-amateur-national-league-south,76122398,2026-11-10 19:45,Hemel Hempstead Town,Torquay United,ah,opening,0.5,home,1.9,2026-11-08 11:38,1.768,0.0749
+england-amateur-national-league-south,76122398,2026-11-10 19:45,Hemel Hempstead Town,Torquay United,ah,opening,0.5,away,1.9,2026-11-08 11:38,2.303,-0.1749
+england-amateur-national-league-south,76122398,2026-11-10 19:45,Hemel Hempstead Town,Torquay United,ah,latest,0.5,home,1.8,2026-11-10 19:21,1.768,0.0184
+england-amateur-national-league-south,76122398,2026-11-10 19:45,Hemel Hempstead Town,Torquay United,ah,latest,0.5,away,1.85,2026-11-10 19:21,2.303,-0.1966
+england-amateur-national-league-south,76122398,2026-11-10 19:45,Hemel Hempstead Town,Torquay United,total,opening,3.5,over,2.625,2026-11-08 11:24,3.39,-0.2258
+england-amateur-national-league-south,76122398,2026-11-10 19:45,Hemel Hempstead Town,Torquay United,total,opening,3.5,under,1.444,2026-11-08 11:24,1.418,0.0181
+england-amateur-national-league-south,76122398,2026-11-10 19:45,Hemel Hempstead Town,Torquay United,total,latest,2.75,over,1.8,2026-11-10 19:36,2.192,-0.1591
+england-amateur-national-league-south,76122398,2026-11-10 19:45,Hemel Hempstead Town,Torquay United,total,latest,2.75,under,2,2026-11-10 19:36,1.839,0.078
+czechia-msfl,72597858,2026-11-13 13:00,SK Sigma Olomouc B,FC Zbrojovka Brno B,ah,opening,-0.75,home,1.85,2026-11-12 04:07,1.911,-0.0286
+czechia-msfl,72597858,2026-11-13 13:00,SK Sigma Olomouc B,FC Zbrojovka Brno B,ah,opening,-0.75,away,1.95,2026-11-12 04:07,2.097,-0.0627
+czechia-msfl,72597858,2026-11-13 13:00,SK Sigma Olomouc B,FC Zbrojovka Brno B,ah,latest,-0.75,home,1.9,2026-11-12 18:48,1.911,-0.0053
+czechia-msfl,72597858,2026-11-13 13:00,SK Sigma Olomouc B,FC Zbrojovka Brno B,ah,latest,-0.75,away,1.9,2026-11-12 18:48,2.097,-0.084
+czechia-msfl,72597858,2026-11-13 13:00,SK Sigma Olomouc B,FC Zbrojovka Brno B,total,opening,3.5,over,1.975,2026-11-12 04:07,2.001,-0.0128
+czechia-msfl,72597858,2026-11-13 13:00,SK Sigma Olomouc B,FC Zbrojovka Brno B,total,opening,3.5,under,1.825,2026-11-12 04:07,1.999,-0.0872
+czechia-msfl,72597858,2026-11-13 13:00,SK Sigma Olomouc B,FC Zbrojovka Brno B,total,latest,3.0,over,1.9,2026-11-12 18:48,1.581,0.1596
+czechia-msfl,72597858,2026-11-13 13:00,SK Sigma Olomouc B,FC Zbrojovka Brno B,total,latest,3.0,under,1.9,2026-11-12 18:48,2.722,-0.2386
+montenegro-1-cfl,72304366,2026-11-13 15:00,FK Jezero Plav,FK Buducnost,ah,opening,0.25,home,1.825,2026-11-12 13:44,1.861,-0.0165
+montenegro-1-cfl,72304366,2026-11-13 15:00,FK Jezero Plav,FK Buducnost,ah,opening,0.25,away,1.975,2026-11-12 13:44,2.162,-0.074
+montenegro-1-cfl,72304366,2026-11-13 15:00,FK Jezero Plav,FK Buducnost,ah,latest,0.25,home,1.825,2026-11-12 13:44,1.861,-0.0165
+montenegro-1-cfl,72304366,2026-11-13 15:00,FK Jezero Plav,FK Buducnost,ah,latest,0.25,away,1.975,2026-11-12 13:44,2.162,-0.074
+montenegro-1-cfl,72304366,2026-11-13 15:00,FK Jezero Plav,FK Buducnost,total,opening,2.25,over,1.9,2026-11-12 13:44,2.23,-0.1282
+montenegro-1-cfl,72304366,2026-11-13 15:00,FK Jezero Plav,FK Buducnost,total,opening,2.25,under,1.9,2026-11-12 13:44,1.813,0.0415
+montenegro-1-cfl,72304366,2026-11-13 15:00,FK Jezero Plav,FK Buducnost,total,latest,2.25,over,1.9,2026-11-12 13:44,2.23,-0.1282
+montenegro-1-cfl,72304366,2026-11-13 15:00,FK Jezero Plav,FK Buducnost,total,latest,2.25,under,1.9,2026-11-12 13:44,1.813,0.0415
+denmark-2nd-division,72499156,2026-11-13 18:00,FC Roskilde,Nykoebing FC,ah,opening,0.0,home,1.85,2026-11-10 17:48,1.915,-0.0256
+denmark-2nd-division,72499156,2026-11-13 18:00,FC Roskilde,Nykoebing FC,ah,opening,0.0,away,1.95,2026-11-10 17:48,2.093,-0.0519
+denmark-2nd-division,72499156,2026-11-13 18:00,FC Roskilde,Nykoebing FC,ah,latest,0.0,home,1.8,2026-11-12 02:25,1.915,-0.0454
+denmark-2nd-division,72499156,2026-11-13 18:00,FC Roskilde,Nykoebing FC,ah,latest,0.0,away,2,2026-11-12 02:25,2.093,-0.0338
+denmark-2nd-division,72499156,2026-11-13 18:00,FC Roskilde,Nykoebing FC,total,opening,3.5,over,2.1,2026-11-10 17:07,2.796,-0.249
+denmark-2nd-division,72499156,2026-11-13 18:00,FC Roskilde,Nykoebing FC,total,opening,3.5,under,1.666,2026-11-10 17:07,1.557,0.0702
+denmark-2nd-division,72499156,2026-11-13 18:00,FC Roskilde,Nykoebing FC,total,latest,3.0,over,2,2026-11-12 09:45,2.17,-0.0608
+denmark-2nd-division,72499156,2026-11-13 18:00,FC Roskilde,Nykoebing FC,total,latest,3.0,under,1.8,2026-11-12 09:45,1.855,-0.0229
+denmark-2nd-division,72499160,2026-11-13 18:00,HIK Hellerup,B93 Copenhagen,ah,opening,0.5,home,1.975,2026-11-10 17:16,2.2,-0.1021
+denmark-2nd-division,72499160,2026-11-13 18:00,HIK Hellerup,B93 Copenhagen,ah,opening,0.5,away,1.825,2026-11-10 17:16,1.834,-0.0047
+denmark-2nd-division,72499160,2026-11-13 18:00,HIK Hellerup,B93 Copenhagen,ah,latest,0.75,home,1.875,2026-11-11 19:18,1.951,-0.0347
+denmark-2nd-division,72499160,2026-11-13 18:00,HIK Hellerup,B93 Copenhagen,ah,latest,0.75,away,1.925,2026-11-11 19:18,2.051,-0.0545
+denmark-2nd-division,72499160,2026-11-13 18:00,HIK Hellerup,B93 Copenhagen,total,opening,3.5,over,2.375,2026-11-10 17:13,2.511,-0.0541
+denmark-2nd-division,72499160,2026-11-13 18:00,HIK Hellerup,B93 Copenhagen,total,opening,3.5,under,1.533,2026-11-10 17:13,1.662,-0.0776
+denmark-2nd-division,72499160,2026-11-13 18:00,HIK Hellerup,B93 Copenhagen,total,latest,3.0,over,1.8,2026-11-11 06:08,1.952,-0.0605
+denmark-2nd-division,72499160,2026-11-13 18:00,HIK Hellerup,B93 Copenhagen,total,latest,3.0,under,2,2026-11-11 06:08,2.05,-0.0191
+denmark-2nd-division,72499164,2026-11-13 18:00,Skive IK,Thisted FC,ah,opening,-0.5,home,1.8,2026-11-10 17:56,1.974,-0.0882
+denmark-2nd-division,72499164,2026-11-13 18:00,Skive IK,Thisted FC,ah,opening,-0.5,away,2,2026-11-10 17:56,2.027,-0.0131
+denmark-2nd-division,72499164,2026-11-13 18:00,Skive IK,Thisted FC,ah,latest,-0.5,home,1.825,2026-11-12 12:17,1.974,-0.0755
+denmark-2nd-division,72499164,2026-11-13 18:00,Skive IK,Thisted FC,ah,latest,-0.5,away,1.975,2026-11-12 12:17,2.027,-0.0255
+denmark-2nd-division,72499164,2026-11-13 18:00,Skive IK,Thisted FC,total,opening,3.5,over,3,2026-11-10 17:22,3.812,-0.2131
+denmark-2nd-division,72499164,2026-11-13 18:00,Skive IK,Thisted FC,total,opening,3.5,under,1.363,2026-11-10 17:22,1.356,0.0055
+denmark-2nd-division,72499164,2026-11-13 18:00,Skive IK,Thisted FC,total,latest,2.5,over,1.85,2026-11-12 12:17,2.085,-0.1127
+denmark-2nd-division,72499164,2026-11-13 18:00,Skive IK,Thisted FC,total,latest,2.5,under,1.95,2026-11-12 12:17,1.922,0.0148
+italy-serie-c-group-a,73293348,2026-11-13 19:30,ACD Ospitaletto,Dolomiti Bellunesi,ah,opening,-1.0,home,1.775,2026-11-10 13:49,2.722,-0.2606
+italy-serie-c-group-a,73293348,2026-11-13 19:30,ACD Ospitaletto,Dolomiti Bellunesi,ah,opening,-1.0,away,2.025,2026-11-10 13:49,1.581,0.2106
+italy-serie-c-group-a,73293348,2026-11-13 19:30,ACD Ospitaletto,Dolomiti Bellunesi,ah,latest,-1.0,home,1.825,2026-11-12 05:40,2.722,-0.2469
+italy-serie-c-group-a,73293348,2026-11-13 19:30,ACD Ospitaletto,Dolomiti Bellunesi,ah,latest,-1.0,away,1.975,2026-11-12 05:40,1.581,0.1869
+italy-serie-c-group-a,73293348,2026-11-13 19:30,ACD Ospitaletto,Dolomiti Bellunesi,total,opening,3.5,over,3,2026-11-10 13:36,4.26,-0.2957
+italy-serie-c-group-a,73293348,2026-11-13 19:30,ACD Ospitaletto,Dolomiti Bellunesi,total,opening,3.5,under,1.363,2026-11-10 13:36,1.307,0.043
+italy-serie-c-group-a,73293348,2026-11-13 19:30,ACD Ospitaletto,Dolomiti Bellunesi,total,latest,2.5,over,1.875,2026-11-12 19:58,2.238,-0.162
+italy-serie-c-group-a,73293348,2026-11-13 19:30,ACD Ospitaletto,Dolomiti Bellunesi,total,latest,2.5,under,1.925,2026-11-12 19:58,1.808,0.0647
+italy-serie-c-group-b,73294084,2026-11-13 19:30,Latina Calcio,Campobasso FC,ah,opening,-0.25,home,1.95,2026-11-10 15:08,2.058,-0.0453
+italy-serie-c-group-b,73294084,2026-11-13 19:30,Latina Calcio,Campobasso FC,ah,opening,-0.25,away,1.85,2026-11-10 15:08,1.945,-0.0423
+italy-serie-c-group-b,73294084,2026-11-13 19:30,Latina Calcio,Campobasso FC,ah,latest,-0.25,home,1.8,2026-11-12 16:28,2.058,-0.1084
+italy-serie-c-group-b,73294084,2026-11-13 19:30,Latina Calcio,Campobasso FC,ah,latest,-0.25,away,2,2026-11-12 16:28,1.945,0.0243
+italy-serie-c-group-b,73294084,2026-11-13 19:30,Latina Calcio,Campobasso FC,total,opening,1.5,over,1.3,2026-11-10 14:57,1.422,-0.0859
+italy-serie-c-group-b,73294084,2026-11-13 19:30,Latina Calcio,Campobasso FC,total,opening,1.5,under,3.4,2026-11-10 14:57,3.369,0.0092
+italy-serie-c-group-b,73294084,2026-11-13 19:30,Latina Calcio,Campobasso FC,total,latest,2.25,over,1.85,2026-11-12 07:25,1.959,-0.0485
+italy-serie-c-group-b,73294084,2026-11-13 19:30,Latina Calcio,Campobasso FC,total,latest,2.25,under,1.95,2026-11-12 07:25,2.043,-0.0395
+spain-laliga-2,72477592,2026-11-13 19:30,CD Leganes,Burgos CF,ah,opening,-0.25,home,1.8,2026-11-09 19:38,1.862,-0.0287
+spain-laliga-2,72477592,2026-11-13 19:30,CD Leganes,Burgos CF,ah,opening,-0.25,away,2,2026-11-09 19:38,2.16,-0.0639
+spain-laliga-2,72477592,2026-11-13 19:30,CD Leganes,Burgos CF,ah,latest,-0.25,home,1.975,2026-11-11 20:04,1.862,0.0523
+spain-laliga-2,72477592,2026-11-13 19:30,CD Leganes,Burgos CF,ah,latest,-0.25,away,1.825,2026-11-11 20:04,2.16,-0.1338
+spain-laliga-2,72477592,2026-11-13 19:30,CD Leganes,Burgos CF,total,opening,1.5,over,1.444,2026-11-09 19:31,1.482,-0.0259
+spain-laliga-2,72477592,2026-11-13 19:30,CD Leganes,Burgos CF,total,opening,1.5,under,2.625,2026-11-09 19:31,3.073,-0.1459
+spain-laliga-2,72477592,2026-11-13 19:30,CD Leganes,Burgos CF,total,latest,2.25,over,1.975,2026-11-11 06:53,2.115,-0.0575
+spain-laliga-2,72477592,2026-11-13 19:30,CD Leganes,Burgos CF,total,latest,2.25,under,1.825,2026-11-11 06:53,1.897,-0.0328
+northern-ireland-premiership,72346410,2026-11-13 19:45,Ballymena United,Linfield FC,ah,opening,0.75,home,1.85,2026-11-09 14:54,1.695,0.0806
+northern-ireland-premiership,72346410,2026-11-13 19:45,Ballymena United,Linfield FC,ah,opening,0.75,away,1.95,2026-11-09 14:54,2.438,-0.1768
+northern-ireland-premiership,72346410,2026-11-13 19:45,Ballymena United,Linfield FC,ah,latest,0.75,home,1.95,2026-11-10 09:37,1.695,0.1327
+northern-ireland-premiership,72346410,2026-11-13 19:45,Ballymena United,Linfield FC,ah,latest,0.75,away,1.85,2026-11-10 09:37,2.438,-0.213
+northern-ireland-premiership,72346410,2026-11-13 19:45,Ballymena United,Linfield FC,total,opening,3.5,over,3,2026-11-09 14:25,3.671,-0.1829
+northern-ireland-premiership,72346410,2026-11-13 19:45,Ballymena United,Linfield FC,total,opening,3.5,under,1.363,2026-11-09 14:25,1.374,-0.0082
+northern-ireland-premiership,72346410,2026-11-13 19:45,Ballymena United,Linfield FC,total,latest,2.75,over,2,2026-11-10 09:37,2.333,-0.1271
+northern-ireland-premiership,72346410,2026-11-13 19:45,Ballymena United,Linfield FC,total,latest,2.75,under,1.8,2026-11-10 09:37,1.75,0.0253
+northern-ireland-premiership,72346412,2026-11-13 19:45,Coleraine FC,Portadown FC,ah,opening,-2.0,home,1.975,2026-11-09 14:55,2.666,-0.2061
+northern-ireland-premiership,72346412,2026-11-13 19:45,Coleraine FC,Portadown FC,ah,opening,-2.0,away,1.825,2026-11-09 14:55,1.6,0.1117
+northern-ireland-premiership,72346412,2026-11-13 19:45,Coleraine FC,Portadown FC,ah,latest,-1.75,home,1.8,2026-11-11 18:08,2.241,-0.1766
+northern-ireland-premiership,72346412,2026-11-13 19:45,Coleraine FC,Portadown FC,ah,latest,-1.75,away,2,2026-11-11 18:08,1.806,0.0965
+northern-ireland-premiership,72346412,2026-11-13 19:45,Coleraine FC,Portadown FC,total,opening,3.5,over,2.1,2026-11-09 14:29,2.103,-0.0012
+northern-ireland-premiership,72346412,2026-11-13 19:45,Coleraine FC,Portadown FC,total,opening,3.5,under,1.666,2026-11-09 14:29,1.907,-0.1264
+northern-ireland-premiership,72346412,2026-11-13 19:45,Coleraine FC,Portadown FC,total,latest,3.25,over,1.95,2026-11-12 00:33,1.878,0.0344
+northern-ireland-premiership,72346412,2026-11-13 19:45,Coleraine FC,Portadown FC,total,latest,3.25,under,1.85,2026-11-12 00:33,2.139,-0.1208
+northern-ireland-premiership,72346414,2026-11-13 19:45,Crusaders FC,Carrick Rangers,ah,opening,1.0,home,1.825,2026-11-09 15:33,1.628,0.0946
+northern-ireland-premiership,72346414,2026-11-13 19:45,Crusaders FC,Carrick Rangers,ah,opening,1.0,away,1.975,2026-11-09 15:33,2.592,-0.1862
+northern-ireland-premiership,72346414,2026-11-13 19:45,Crusaders FC,Carrick Rangers,ah,latest,1.0,home,1.825,2026-11-12 06:58,1.628,0.0946
+northern-ireland-premiership,72346414,2026-11-13 19:45,Crusaders FC,Carrick Rangers,ah,latest,1.0,away,1.975,2026-11-12 06:58,2.592,-0.1862
+northern-ireland-premiership,72346414,2026-11-13 19:45,Crusaders FC,Carrick Rangers,total,opening,3.5,over,2.1,2026-11-09 15:08,2.308,-0.0901
+northern-ireland-premiership,72346414,2026-11-13 19:45,Crusaders FC,Carrick Rangers,total,opening,3.5,under,1.666,2026-11-09 15:08,1.765,-0.0559
+northern-ireland-premiership,72346414,2026-11-13 19:45,Crusaders FC,Carrick Rangers,total,latest,3.25,over,1.95,2026-11-09 15:33,2.055,-0.0453
+northern-ireland-premiership,72346414,2026-11-13 19:45,Crusaders FC,Carrick Rangers,total,latest,3.25,under,1.85,2026-11-09 15:33,1.948,-0.0449
+northern-ireland-premiership,72346416,2026-11-13 19:45,Glentoran FC,Bangor FC,ah,opening,-1.5,home,1.95,2026-11-09 16:23,2.612,-0.2535
+northern-ireland-premiership,72346416,2026-11-13 19:45,Glentoran FC,Bangor FC,ah,opening,-1.5,away,1.85,2026-11-09 16:23,1.62,0.1418
+northern-ireland-premiership,72346416,2026-11-13 19:45,Glentoran FC,Bangor FC,ah,latest,-1.5,home,1.95,2026-11-09 17:00,2.612,-0.2535
+northern-ireland-premiership,72346416,2026-11-13 19:45,Glentoran FC,Bangor FC,ah,latest,-1.5,away,1.85,2026-11-09 17:00,1.62,0.1418
+northern-ireland-premiership,72346416,2026-11-13 19:45,Glentoran FC,Bangor FC,total,opening,3.5,over,2.5,2026-11-09 15:17,3.597,-0.3051
+northern-ireland-premiership,72346416,2026-11-13 19:45,Glentoran FC,Bangor FC,total,opening,3.5,under,1.5,2026-11-09 15:17,1.385,0.083
+northern-ireland-premiership,72346416,2026-11-13 19:45,Glentoran FC,Bangor FC,total,latest,3.0,over,2,2026-11-12 07:19,2.808,-0.2245
+northern-ireland-premiership,72346416,2026-11-13 19:45,Glentoran FC,Bangor FC,total,latest,3.0,under,1.8,2026-11-12 07:19,1.553,0.124
+northern-ireland-premiership,75047768,2026-11-13 19:45,Larne FC,Dungannon Swifts,ah,opening,-1.5,home,2.25,2026-11-09 14:55,2.507,-0.1024
+northern-ireland-premiership,75047768,2026-11-13 19:45,Larne FC,Dungannon Swifts,ah,opening,-1.5,away,1.571,2026-11-09 14:55,1.664,-0.0557
+northern-ireland-premiership,75047768,2026-11-13 19:45,Larne FC,Dungannon Swifts,ah,latest,-1.0,home,1.825,2026-11-09 15:54,1.927,-0.0408
+northern-ireland-premiership,75047768,2026-11-13 19:45,Larne FC,Dungannon Swifts,ah,latest,-1.0,away,1.975,2026-11-09 15:54,2.078,-0.0382
+northern-ireland-premiership,75047768,2026-11-13 19:45,Larne FC,Dungannon Swifts,total,opening,3.5,over,2.625,2026-11-09 14:25,2.493,0.0531
+northern-ireland-premiership,75047768,2026-11-13 19:45,Larne FC,Dungannon Swifts,total,opening,3.5,under,1.444,2026-11-09 14:25,1.67,-0.1353
+northern-ireland-premiership,75047768,2026-11-13 19:45,Larne FC,Dungannon Swifts,total,latest,2.75,over,1.925,2026-11-12 17:17,1.735,0.0975
+northern-ireland-premiership,75047768,2026-11-13 19:45,Larne FC,Dungannon Swifts,total,latest,2.75,under,1.875,2026-11-12 17:17,2.361,-0.183
+ukraine-persha-liga,72550324,2026-11-14 10:00,SC Poltava,Agrobiznes Volochisk,ah,opening,-0.25,home,2.025,2026-11-12 11:41,1.779,0.1201
+ukraine-persha-liga,72550324,2026-11-14 10:00,SC Poltava,Agrobiznes Volochisk,ah,opening,-0.25,away,1.775,2026-11-12 11:41,2.283,-0.1936
+ukraine-persha-liga,72550324,2026-11-14 10:00,SC Poltava,Agrobiznes Volochisk,ah,latest,-0.25,home,2.025,2026-11-12 11:41,1.779,0.1201
+ukraine-persha-liga,72550324,2026-11-14 10:00,SC Poltava,Agrobiznes Volochisk,ah,latest,-0.25,away,1.775,2026-11-12 11:41,2.283,-0.1936
+ukraine-persha-liga,72550324,2026-11-14 10:00,SC Poltava,Agrobiznes Volochisk,total,opening,2.25,over,1.8,2026-11-12 11:41,1.938,-0.062
+ukraine-persha-liga,72550324,2026-11-14 10:00,SC Poltava,Agrobiznes Volochisk,total,opening,2.25,under,2,2026-11-12 11:41,2.066,-0.0279
+ukraine-persha-liga,72550324,2026-11-14 10:00,SC Poltava,Agrobiznes Volochisk,total,latest,2.25,over,1.8,2026-11-12 11:41,1.938,-0.062
+ukraine-persha-liga,72550324,2026-11-14 10:00,SC Poltava,Agrobiznes Volochisk,total,latest,2.25,under,2,2026-11-12 11:41,2.066,-0.0279
+poland-ii-liga,72398810,2026-11-14 11:00,Gornik Leczna,KS Hutnik Krakow SSA,ah,opening,-0.75,home,1.95,2026-11-10 12:58,2.3,-0.135
+poland-ii-liga,72398810,2026-11-14 11:00,Gornik Leczna,KS Hutnik Krakow SSA,ah,opening,-0.75,away,1.85,2026-11-10 12:58,1.769,0.0405
+poland-ii-liga,72398810,2026-11-14 11:00,Gornik Leczna,KS Hutnik Krakow SSA,ah,latest,-0.5,home,1.8,2026-11-12 10:34,2.007,-0.1031
+poland-ii-liga,72398810,2026-11-14 11:00,Gornik Leczna,KS Hutnik Krakow SSA,ah,latest,-0.5,away,2,2026-11-12 10:34,1.993,0.0035
+poland-ii-liga,72398810,2026-11-14 11:00,Gornik Leczna,KS Hutnik Krakow SSA,total,opening,3.5,over,2.5,2026-11-10 12:48,2.782,-0.1014
+poland-ii-liga,72398810,2026-11-14 11:00,Gornik Leczna,KS Hutnik Krakow SSA,total,opening,3.5,under,1.5,2026-11-10 12:48,1.561,-0.0392
+poland-ii-liga,72398810,2026-11-14 11:00,Gornik Leczna,KS Hutnik Krakow SSA,total,latest,2.75,over,1.85,2026-11-12 10:34,1.884,-0.0158
+poland-ii-liga,72398810,2026-11-14 11:00,Gornik Leczna,KS Hutnik Krakow SSA,total,latest,2.75,under,1.95,2026-11-12 10:34,2.132,-0.0757
+poland-ii-liga,72398812,2026-11-14 11:00,Podhale Nowy Targ,Avia Swidnik,ah,opening,-0.25,home,1.8,2026-11-10 13:03,1.915,-0.0524
+poland-ii-liga,72398812,2026-11-14 11:00,Podhale Nowy Targ,Avia Swidnik,ah,opening,-0.25,away,2,2026-11-10 13:03,2.093,-0.0389
+poland-ii-liga,72398812,2026-11-14 11:00,Podhale Nowy Targ,Avia Swidnik,ah,latest,-0.25,home,1.8,2026-11-10 13:03,1.915,-0.0524
+poland-ii-liga,72398812,2026-11-14 11:00,Podhale Nowy Targ,Avia Swidnik,ah,latest,-0.25,away,2,2026-11-10 13:03,2.093,-0.0389
+poland-ii-liga,72398812,2026-11-14 11:00,Podhale Nowy Targ,Avia Swidnik,total,opening,3.5,over,2.5,2026-11-10 12:56,3.406,-0.2661
+poland-ii-liga,72398812,2026-11-14 11:00,Podhale Nowy Targ,Avia Swidnik,total,opening,3.5,under,1.5,2026-11-10 12:56,1.416,0.0597
+poland-ii-liga,72398812,2026-11-14 11:00,Podhale Nowy Targ,Avia Swidnik,total,latest,2.75,over,1.8,2026-11-10 13:03,2.2,-0.1618
+poland-ii-liga,72398812,2026-11-14 11:00,Podhale Nowy Targ,Avia Swidnik,total,latest,2.75,under,2,2026-11-10 13:03,1.833,0.081
+poland-iii-liga-group-1,72514886,2026-11-14 12:00,Swit Nowy Dwor Mazowiecki,ZKS Olimpia Elblag,ah,opening,-0.75,home,1.85,2026-11-12 15:34,2.005,-0.0686
+poland-iii-liga-group-1,72514886,2026-11-14 12:00,Swit Nowy Dwor Mazowiecki,ZKS Olimpia Elblag,ah,opening,-0.75,away,1.95,2026-11-12 15:34,1.995,-0.0198
+poland-iii-liga-group-1,72514886,2026-11-14 12:00,Swit Nowy Dwor Mazowiecki,ZKS Olimpia Elblag,ah,latest,-0.75,home,1.85,2026-11-12 15:34,2.005,-0.0686
+poland-iii-liga-group-1,72514886,2026-11-14 12:00,Swit Nowy Dwor Mazowiecki,ZKS Olimpia Elblag,ah,latest,-0.75,away,1.95,2026-11-12 15:34,1.995,-0.0198
+poland-iii-liga-group-1,72514886,2026-11-14 12:00,Swit Nowy Dwor Mazowiecki,ZKS Olimpia Elblag,total,opening,3.0,over,1.825,2026-11-12 15:34,2.033,-0.0793
+poland-iii-liga-group-1,72514886,2026-11-14 12:00,Swit Nowy Dwor Mazowiecki,ZKS Olimpia Elblag,total,opening,3.0,under,1.975,2026-11-12 15:34,1.968,0.0026
+poland-iii-liga-group-1,72514886,2026-11-14 12:00,Swit Nowy Dwor Mazowiecki,ZKS Olimpia Elblag,total,latest,3.0,over,1.825,2026-11-12 15:34,2.033,-0.0793
+poland-iii-liga-group-1,72514886,2026-11-14 12:00,Swit Nowy Dwor Mazowiecki,ZKS Olimpia Elblag,total,latest,3.0,under,1.975,2026-11-12 15:34,1.968,0.0026
+poland-iii-liga-group-2,72516166,2026-11-14 12:00,Elana Torun,Blekitni Stargard,ah,opening,0.25,home,1.975,2026-11-12 16:14,2.149,-0.0721
+poland-iii-liga-group-2,72516166,2026-11-14 12:00,Elana Torun,Blekitni Stargard,ah,opening,0.25,away,1.825,2026-11-12 16:14,1.87,-0.0214
+poland-iii-liga-group-2,72516166,2026-11-14 12:00,Elana Torun,Blekitni Stargard,ah,latest,0.25,home,1.975,2026-11-12 16:14,2.149,-0.0721
+poland-iii-liga-group-2,72516166,2026-11-14 12:00,Elana Torun,Blekitni Stargard,ah,latest,0.25,away,1.825,2026-11-12 16:14,1.87,-0.0214
+poland-iii-liga-group-2,72516166,2026-11-14 12:00,Elana Torun,Blekitni Stargard,total,opening,3.0,over,1.8,2026-11-12 16:14,1.814,-0.0059
+poland-iii-liga-group-2,72516166,2026-11-14 12:00,Elana Torun,Blekitni Stargard,total,opening,3.0,under,2,2026-11-12 16:14,2.229,-0.0801
+poland-iii-liga-group-2,72516166,2026-11-14 12:00,Elana Torun,Blekitni Stargard,total,latest,3.0,over,1.8,2026-11-12 16:14,1.814,-0.0059
+poland-iii-liga-group-2,72516166,2026-11-14 12:00,Elana Torun,Blekitni Stargard,total,latest,3.0,under,2,2026-11-12 16:14,2.229,-0.0801
+poland-iii-liga-group-2,72516170,2026-11-14 12:00,Zks Kluczevia Stargard,MKS Viktoria Wrzesnia,ah,opening,-1.0,home,1.95,2026-11-12 16:42,2.268,-0.1077
+poland-iii-liga-group-2,72516170,2026-11-14 12:00,Zks Kluczevia Stargard,MKS Viktoria Wrzesnia,ah,opening,-1.0,away,1.85,2026-11-12 16:42,1.789,0.0263
+poland-iii-liga-group-2,72516170,2026-11-14 12:00,Zks Kluczevia Stargard,MKS Viktoria Wrzesnia,ah,latest,-1.0,home,1.95,2026-11-12 16:42,2.268,-0.1077
+poland-iii-liga-group-2,72516170,2026-11-14 12:00,Zks Kluczevia Stargard,MKS Viktoria Wrzesnia,ah,latest,-1.0,away,1.85,2026-11-12 16:42,1.789,0.0263
+poland-iii-liga-group-2,72516170,2026-11-14 12:00,Zks Kluczevia Stargard,MKS Viktoria Wrzesnia,total,opening,2.75,over,1.775,2026-11-12 16:42,1.798,-0.0114
+poland-iii-liga-group-2,72516170,2026-11-14 12:00,Zks Kluczevia Stargard,MKS Viktoria Wrzesnia,total,opening,2.75,under,2.025,2026-11-12 16:42,2.253,-0.09
+poland-iii-liga-group-2,72516170,2026-11-14 12:00,Zks Kluczevia Stargard,MKS Viktoria Wrzesnia,total,latest,2.75,over,1.775,2026-11-12 16:42,1.798,-0.0114
+poland-iii-liga-group-2,72516170,2026-11-14 12:00,Zks Kluczevia Stargard,MKS Viktoria Wrzesnia,total,latest,2.75,under,2.025,2026-11-12 16:42,2.253,-0.09
+slovakia-2-liga,72305324,2026-11-14 12:00,OFK Banik Lehota Pod Vtacnikom,FC Vion Zlate Moravce - Vrable,ah,opening,-0.25,home,2.05,2026-11-10 11:33,2.065,-0.0066
+slovakia-2-liga,72305324,2026-11-14 12:00,OFK Banik Lehota Pod Vtacnikom,FC Vion Zlate Moravce - Vrable,ah,opening,-0.25,away,1.75,2026-11-10 11:33,1.939,-0.086
+slovakia-2-liga,72305324,2026-11-14 12:00,OFK Banik Lehota Pod Vtacnikom,FC Vion Zlate Moravce - Vrable,ah,latest,0.0,home,1.8,2026-11-12 14:46,1.794,0.0026
+slovakia-2-liga,72305324,2026-11-14 12:00,OFK Banik Lehota Pod Vtacnikom,FC Vion Zlate Moravce - Vrable,ah,latest,0.0,away,2,2026-11-12 14:46,2.26,-0.0882
+slovakia-2-liga,72305324,2026-11-14 12:00,OFK Banik Lehota Pod Vtacnikom,FC Vion Zlate Moravce - Vrable,total,opening,2.75,over,1.825,2026-11-10 11:33,1.737,0.0453
+slovakia-2-liga,72305324,2026-11-14 12:00,OFK Banik Lehota Pod Vtacnikom,FC Vion Zlate Moravce - Vrable,total,opening,2.75,under,1.975,2026-11-10 11:33,2.358,-0.1442
+slovakia-2-liga,72305324,2026-11-14 12:00,OFK Banik Lehota Pod Vtacnikom,FC Vion Zlate Moravce - Vrable,total,latest,2.75,over,1.825,2026-11-10 11:33,1.737,0.0453
+slovakia-2-liga,72305324,2026-11-14 12:00,OFK Banik Lehota Pod Vtacnikom,FC Vion Zlate Moravce - Vrable,total,latest,2.75,under,1.975,2026-11-10 11:33,2.358,-0.1442
+slovakia-2-liga,72305328,2026-11-14 12:00,MSK Povazska Bystrica,FK Pohronie Ziar Nad Hronom Dolna Zdana,ah,opening,-0.5,home,1.925,2026-11-10 11:23,1.846,0.0429
+slovakia-2-liga,72305328,2026-11-14 12:00,MSK Povazska Bystrica,FK Pohronie Ziar Nad Hronom Dolna Zdana,ah,opening,-0.5,away,1.875,2026-11-10 11:23,2.182,-0.1408
+slovakia-2-liga,72305328,2026-11-14 12:00,MSK Povazska Bystrica,FK Pohronie Ziar Nad Hronom Dolna Zdana,ah,latest,-0.5,home,1.925,2026-11-10 11:23,1.846,0.0429
+slovakia-2-liga,72305328,2026-11-14 12:00,MSK Povazska Bystrica,FK Pohronie Ziar Nad Hronom Dolna Zdana,ah,latest,-0.5,away,1.875,2026-11-10 11:23,2.182,-0.1408
+slovakia-2-liga,72305328,2026-11-14 12:00,MSK Povazska Bystrica,FK Pohronie Ziar Nad Hronom Dolna Zdana,total,opening,3.0,over,1.85,2026-11-10 11:23,2.119,-0.0987
+slovakia-2-liga,72305328,2026-11-14 12:00,MSK Povazska Bystrica,FK Pohronie Ziar Nad Hronom Dolna Zdana,total,opening,3.0,under,1.95,2026-11-10 11:23,1.893,0.0232
+slovakia-2-liga,72305328,2026-11-14 12:00,MSK Povazska Bystrica,FK Pohronie Ziar Nad Hronom Dolna Zdana,total,latest,3.0,over,1.85,2026-11-10 11:23,2.119,-0.0987
+slovakia-2-liga,72305328,2026-11-14 12:00,MSK Povazska Bystrica,FK Pohronie Ziar Nad Hronom Dolna Zdana,total,latest,3.0,under,1.95,2026-11-10 11:23,1.893,0.0232
+denmark-3rd-division,72500822,2026-11-14 12:00,Ishoej IF,Sundby BK,ah,opening,-0.25,home,1.875,2026-11-10 17:41,1.882,-0.0033
+denmark-3rd-division,72500822,2026-11-14 12:00,Ishoej IF,Sundby BK,ah,opening,-0.25,away,1.925,2026-11-10 17:41,2.134,-0.086
+denmark-3rd-division,72500822,2026-11-14 12:00,Ishoej IF,Sundby BK,ah,latest,-0.25,home,1.875,2026-11-10 17:41,1.882,-0.0033
+denmark-3rd-division,72500822,2026-11-14 12:00,Ishoej IF,Sundby BK,ah,latest,-0.25,away,1.925,2026-11-10 17:41,2.134,-0.086
+denmark-3rd-division,72500822,2026-11-14 12:00,Ishoej IF,Sundby BK,total,opening,3.0,over,1.9,2026-11-10 17:41,2.337,-0.145
+denmark-3rd-division,72500822,2026-11-14 12:00,Ishoej IF,Sundby BK,total,opening,3.0,under,1.9,2026-11-10 17:41,1.748,0.0674
+denmark-3rd-division,72500822,2026-11-14 12:00,Ishoej IF,Sundby BK,total,latest,3.0,over,1.9,2026-11-10 17:41,2.337,-0.145
+denmark-3rd-division,72500822,2026-11-14 12:00,Ishoej IF,Sundby BK,total,latest,3.0,under,1.9,2026-11-10 17:41,1.748,0.0674
+poland-iii-liga-group-1,72514874,2026-11-14 12:00,LKS 1926 Lomza,KS Warta Sieradz,ah,opening,1.0,home,1.9,2026-11-12 16:24,1.453,0.2399
+poland-iii-liga-group-1,72514874,2026-11-14 12:00,LKS 1926 Lomza,KS Warta Sieradz,ah,opening,1.0,away,1.9,2026-11-12 16:24,3.209,-0.3178
+poland-iii-liga-group-1,72514874,2026-11-14 12:00,LKS 1926 Lomza,KS Warta Sieradz,ah,latest,1.0,home,1.9,2026-11-12 16:24,1.453,0.2399
+poland-iii-liga-group-1,72514874,2026-11-14 12:00,LKS 1926 Lomza,KS Warta Sieradz,ah,latest,1.0,away,1.9,2026-11-12 16:24,3.209,-0.3178
+poland-iii-liga-group-1,72514874,2026-11-14 12:00,LKS 1926 Lomza,KS Warta Sieradz,total,opening,3.25,over,2,2026-11-12 16:24,2.643,-0.2162
+poland-iii-liga-group-1,72514874,2026-11-14 12:00,LKS 1926 Lomza,KS Warta Sieradz,total,opening,3.25,under,1.8,2026-11-12 16:24,1.608,0.1057
+poland-iii-liga-group-1,72514874,2026-11-14 12:00,LKS 1926 Lomza,KS Warta Sieradz,total,latest,3.25,over,2,2026-11-12 16:24,2.643,-0.2162
+poland-iii-liga-group-1,72514874,2026-11-14 12:00,LKS 1926 Lomza,KS Warta Sieradz,total,latest,3.25,under,1.8,2026-11-12 16:24,1.608,0.1057
+poland-ii-liga,72398818,2026-11-14 12:00,Slask II Wroclaw,KS Lechia Zielona Gora,ah,opening,0.25,home,1.8,2026-11-10 13:02,1.633,0.0906
+poland-ii-liga,72398818,2026-11-14 12:00,Slask II Wroclaw,KS Lechia Zielona Gora,ah,opening,0.25,away,2,2026-11-10 13:02,2.581,-0.199
+poland-ii-liga,72398818,2026-11-14 12:00,Slask II Wroclaw,KS Lechia Zielona Gora,ah,latest,0.25,home,1.8,2026-11-12 19:53,1.633,0.0906
+poland-ii-liga,72398818,2026-11-14 12:00,Slask II Wroclaw,KS Lechia Zielona Gora,ah,latest,0.25,away,2,2026-11-12 19:53,2.581,-0.199
+poland-ii-liga,72398818,2026-11-14 12:00,Slask II Wroclaw,KS Lechia Zielona Gora,total,opening,3.5,over,2.2,2026-11-10 12:53,2.441,-0.0986
+poland-ii-liga,72398818,2026-11-14 12:00,Slask II Wroclaw,KS Lechia Zielona Gora,total,opening,3.5,under,1.615,2026-11-10 12:53,1.694,-0.0467
+poland-ii-liga,72398818,2026-11-14 12:00,Slask II Wroclaw,KS Lechia Zielona Gora,total,latest,3.5,over,1.975,2026-11-12 19:53,2.441,-0.1908
+poland-ii-liga,72398818,2026-11-14 12:00,Slask II Wroclaw,KS Lechia Zielona Gora,total,latest,3.5,under,1.825,2026-11-12 19:53,1.694,0.0773
+bulgaria-vtora-liga,72466634,2026-11-14 12:30,Marek Dupnica,PFC Chernomorets Burgas,ah,opening,0.25,home,1.925,2026-11-09 14:06,1.684,0.1223
+bulgaria-vtora-liga,72466634,2026-11-14 12:30,Marek Dupnica,PFC Chernomorets Burgas,ah,opening,0.25,away,1.875,2026-11-09 14:06,2.463,-0.2036
+bulgaria-vtora-liga,72466634,2026-11-14 12:30,Marek Dupnica,PFC Chernomorets Burgas,ah,latest,0.25,home,1.925,2026-11-09 14:06,1.684,0.1223
+bulgaria-vtora-liga,72466634,2026-11-14 12:30,Marek Dupnica,PFC Chernomorets Burgas,ah,latest,0.25,away,1.875,2026-11-09 14:06,2.463,-0.2036
+bulgaria-vtora-liga,72466634,2026-11-14 12:30,Marek Dupnica,PFC Chernomorets Burgas,total,opening,2.25,over,1.875,2026-11-09 14:06,2.359,-0.1775
+bulgaria-vtora-liga,72466634,2026-11-14 12:30,Marek Dupnica,PFC Chernomorets Burgas,total,opening,2.25,under,1.925,2026-11-09 14:06,1.736,0.0942
+bulgaria-vtora-liga,72466634,2026-11-14 12:30,Marek Dupnica,PFC Chernomorets Burgas,total,latest,2.25,over,1.875,2026-11-09 14:06,2.359,-0.1775
+bulgaria-vtora-liga,72466634,2026-11-14 12:30,Marek Dupnica,PFC Chernomorets Burgas,total,latest,2.25,under,1.925,2026-11-09 14:06,1.736,0.0942
+england-league-two,72342364,2026-11-14 12:30,Exeter City,Cheltenham Town,ah,opening,-0.5,home,2.025,2026-10-31 18:39,2.193,-0.0767
+england-league-two,72342364,2026-11-14 12:30,Exeter City,Cheltenham Town,ah,opening,-0.5,away,1.825,2026-10-31 18:39,1.838,-0.0071
+england-league-two,72342364,2026-11-14 12:30,Exeter City,Cheltenham Town,ah,latest,-0.5,home,1.925,2026-11-11 11:47,2.193,-0.1223
+england-league-two,72342364,2026-11-14 12:30,Exeter City,Cheltenham Town,ah,latest,-0.5,away,1.925,2026-11-11 11:47,1.838,0.0473
+england-league-two,72342364,2026-11-14 12:30,Exeter City,Cheltenham Town,total,opening,3.5,over,3.25,2026-10-31 18:22,4.163,-0.2193
+england-league-two,72342364,2026-11-14 12:30,Exeter City,Cheltenham Town,total,opening,3.5,under,1.333,2026-10-31 18:22,1.316,0.0128
+england-league-two,72342364,2026-11-14 12:30,Exeter City,Cheltenham Town,total,latest,2.5,over,2,2026-11-10 13:32,2.205,-0.0929
+england-league-two,72342364,2026-11-14 12:30,Exeter City,Cheltenham Town,total,latest,2.5,under,1.85,2026-11-10 13:32,1.83,0.0109
+denmark-3rd-division,72500826,2026-11-14 13:00,Bronshoj BK,Vanloese IF,ah,opening,-0.5,home,1.875,2026-11-10 17:45,1.931,-0.0292
+denmark-3rd-division,72500826,2026-11-14 13:00,Bronshoj BK,Vanloese IF,ah,opening,-0.5,away,1.925,2026-11-10 17:45,2.074,-0.0717
+denmark-3rd-division,72500826,2026-11-14 13:00,Bronshoj BK,Vanloese IF,ah,latest,-0.5,home,1.95,2026-11-11 21:26,1.931,0.0097
+denmark-3rd-division,72500826,2026-11-14 13:00,Bronshoj BK,Vanloese IF,ah,latest,-0.5,away,1.85,2026-11-11 21:26,2.074,-0.1079
+denmark-3rd-division,72500826,2026-11-14 13:00,Bronshoj BK,Vanloese IF,total,opening,2.75,over,1.85,2026-11-10 17:45,2.341,-0.1869
+denmark-3rd-division,72500826,2026-11-14 13:00,Bronshoj BK,Vanloese IF,total,opening,2.75,under,1.95,2026-11-10 17:45,1.746,0.1044
+denmark-3rd-division,72500826,2026-11-14 13:00,Bronshoj BK,Vanloese IF,total,latest,2.75,over,1.975,2026-11-11 21:26,2.341,-0.1394
+denmark-3rd-division,72500826,2026-11-14 13:00,Bronshoj BK,Vanloese IF,total,latest,2.75,under,1.825,2026-11-11 21:26,1.746,0.0406
+denmark-3rd-division,72500828,2026-11-14 13:00,Hoersholm-Usseroed IK,Naesby BK,ah,opening,0.0,home,1.85,2026-11-10 17:41,2.327,-0.1585
+denmark-3rd-division,72500828,2026-11-14 13:00,Hoersholm-Usseroed IK,Naesby BK,ah,opening,0.0,away,1.95,2026-11-10 17:41,1.753,0.0866
+denmark-3rd-division,72500828,2026-11-14 13:00,Hoersholm-Usseroed IK,Naesby BK,ah,latest,0.0,home,1.875,2026-11-11 22:48,2.327,-0.1502
+denmark-3rd-division,72500828,2026-11-14 13:00,Hoersholm-Usseroed IK,Naesby BK,ah,latest,0.0,away,1.925,2026-11-11 22:48,1.753,0.0756
+denmark-3rd-division,72500828,2026-11-14 13:00,Hoersholm-Usseroed IK,Naesby BK,total,opening,3.5,over,1.95,2026-11-10 17:41,2.35,-0.1701
+denmark-3rd-division,72500828,2026-11-14 13:00,Hoersholm-Usseroed IK,Naesby BK,total,opening,3.5,under,1.85,2026-11-10 17:41,1.741,0.0626
+denmark-3rd-division,72500828,2026-11-14 13:00,Hoersholm-Usseroed IK,Naesby BK,total,latest,3.25,over,1.85,2026-11-11 22:48,2.091,-0.1025
+denmark-3rd-division,72500828,2026-11-14 13:00,Hoersholm-Usseroed IK,Naesby BK,total,latest,3.25,under,1.95,2026-11-11 22:48,1.917,0.0154
+czechia-msfl,72597860,2026-11-14 13:00,CSK Uhersky Brod,SK Artis B,ah,opening,0.5,home,1.875,2026-11-12 03:06,1.847,0.015
+czechia-msfl,72597860,2026-11-14 13:00,CSK Uhersky Brod,SK Artis B,ah,opening,0.5,away,1.925,2026-11-12 03:06,2.18,-0.117
+czechia-msfl,72597860,2026-11-14 13:00,CSK Uhersky Brod,SK Artis B,ah,latest,0.5,home,1.875,2026-11-12 03:06,1.847,0.015
+czechia-msfl,72597860,2026-11-14 13:00,CSK Uhersky Brod,SK Artis B,ah,latest,0.5,away,1.925,2026-11-12 03:06,2.18,-0.117
+czechia-msfl,72597860,2026-11-14 13:00,CSK Uhersky Brod,SK Artis B,total,opening,3.0,over,1.85,2026-11-12 03:06,2.36,-0.1678
+czechia-msfl,72597860,2026-11-14 13:00,CSK Uhersky Brod,SK Artis B,total,opening,3.0,under,1.95,2026-11-12 03:06,1.735,0.096
+czechia-msfl,72597860,2026-11-14 13:00,CSK Uhersky Brod,SK Artis B,total,latest,3.0,over,1.85,2026-11-12 03:06,2.36,-0.1678
+czechia-msfl,72597860,2026-11-14 13:00,CSK Uhersky Brod,SK Artis B,total,latest,3.0,under,1.95,2026-11-12 03:06,1.735,0.096
+czechia-msfl,72597862,2026-11-14 13:00,TJ Unie Hlubina,MFk Karvina B,ah,opening,-0.5,home,1.95,2026-11-12 03:17,1.737,0.1224
+czechia-msfl,72597862,2026-11-14 13:00,TJ Unie Hlubina,MFk Karvina B,ah,opening,-0.5,away,1.85,2026-11-12 03:17,2.356,-0.2148
+czechia-msfl,72597862,2026-11-14 13:00,TJ Unie Hlubina,MFk Karvina B,ah,latest,-0.5,home,1.95,2026-11-12 03:17,1.737,0.1224
+czechia-msfl,72597862,2026-11-14 13:00,TJ Unie Hlubina,MFk Karvina B,ah,latest,-0.5,away,1.85,2026-11-12 03:17,2.356,-0.2148
+czechia-msfl,72597862,2026-11-14 13:00,TJ Unie Hlubina,MFk Karvina B,total,opening,3.25,over,1.85,2026-11-12 03:17,1.84,0.0049
+czechia-msfl,72597862,2026-11-14 13:00,TJ Unie Hlubina,MFk Karvina B,total,opening,3.25,under,1.95,2026-11-12 03:17,2.191,-0.0981
+czechia-msfl,72597862,2026-11-14 13:00,TJ Unie Hlubina,MFk Karvina B,total,latest,3.25,over,1.85,2026-11-12 03:17,1.84,0.0049
+czechia-msfl,72597862,2026-11-14 13:00,TJ Unie Hlubina,MFk Karvina B,total,latest,3.25,under,1.95,2026-11-12 03:17,2.191,-0.0981
+czechia-msfl,72597868,2026-11-14 13:00,SK Polanka Nad Odrou,1. FC Slovacko B,ah,opening,0.5,home,2,2026-11-12 04:20,1.992,0.0042
+czechia-msfl,72597868,2026-11-14 13:00,SK Polanka Nad Odrou,1. FC Slovacko B,ah,opening,0.5,away,1.8,2026-11-12 04:20,2.008,-0.1038
+czechia-msfl,72597868,2026-11-14 13:00,SK Polanka Nad Odrou,1. FC Slovacko B,ah,latest,0.5,home,2,2026-11-12 04:20,1.992,0.0042
+czechia-msfl,72597868,2026-11-14 13:00,SK Polanka Nad Odrou,1. FC Slovacko B,ah,latest,0.5,away,1.8,2026-11-12 04:20,2.008,-0.1038
+czechia-msfl,72597868,2026-11-14 13:00,SK Polanka Nad Odrou,1. FC Slovacko B,total,opening,3.0,over,1.825,2026-11-12 04:20,2.13,-0.1111
+czechia-msfl,72597868,2026-11-14 13:00,SK Polanka Nad Odrou,1. FC Slovacko B,total,opening,3.0,under,1.975,2026-11-12 04:20,1.885,0.0371
+czechia-msfl,72597868,2026-11-14 13:00,SK Polanka Nad Odrou,1. FC Slovacko B,total,latest,3.0,over,1.825,2026-11-12 04:20,2.13,-0.1111
+czechia-msfl,72597868,2026-11-14 13:00,SK Polanka Nad Odrou,1. FC Slovacko B,total,latest,3.0,under,1.975,2026-11-12 04:20,1.885,0.0371
+czechia-msfl,72597870,2026-11-14 13:00,FK Frydek-Mistek,MFK Vitkovice,ah,opening,-1.0,home,1.95,2026-11-12 04:50,2.372,-0.1349
+czechia-msfl,72597870,2026-11-14 13:00,FK Frydek-Mistek,MFK Vitkovice,ah,opening,-1.0,away,1.85,2026-11-12 04:50,1.729,0.0531
+czechia-msfl,72597870,2026-11-14 13:00,FK Frydek-Mistek,MFK Vitkovice,ah,latest,-1.0,home,1.95,2026-11-12 04:50,2.372,-0.1349
+czechia-msfl,72597870,2026-11-14 13:00,FK Frydek-Mistek,MFK Vitkovice,ah,latest,-1.0,away,1.85,2026-11-12 04:50,1.729,0.0531
+czechia-msfl,72597870,2026-11-14 13:00,FK Frydek-Mistek,MFK Vitkovice,total,opening,2.75,over,1.8,2026-11-12 04:50,2.099,-0.1266
+czechia-msfl,72597870,2026-11-14 13:00,FK Frydek-Mistek,MFK Vitkovice,total,opening,2.75,under,2,2026-11-12 04:50,1.91,0.0419
+czechia-msfl,72597870,2026-11-14 13:00,FK Frydek-Mistek,MFK Vitkovice,total,latest,2.75,over,1.8,2026-11-12 04:50,2.099,-0.1266
+czechia-msfl,72597870,2026-11-14 13:00,FK Frydek-Mistek,MFK Vitkovice,total,latest,2.75,under,2,2026-11-12 04:50,1.91,0.0419
+czechia-msfl,72597872,2026-11-14 13:00,SK Unicov,FC Zlin B,ah,opening,-1.0,home,1.85,2026-11-12 04:46,2.129,-0.1019
+czechia-msfl,72597872,2026-11-14 13:00,SK Unicov,FC Zlin B,ah,opening,-1.0,away,1.95,2026-11-12 04:46,1.886,0.0265
+czechia-msfl,72597872,2026-11-14 13:00,SK Unicov,FC Zlin B,ah,latest,-1.0,home,1.85,2026-11-12 04:46,2.129,-0.1019
+czechia-msfl,72597872,2026-11-14 13:00,SK Unicov,FC Zlin B,ah,latest,-1.0,away,1.95,2026-11-12 04:46,1.886,0.0265
+czechia-msfl,72597872,2026-11-14 13:00,SK Unicov,FC Zlin B,total,opening,3.25,over,1.9,2026-11-12 04:46,1.999,-0.044
+czechia-msfl,72597872,2026-11-14 13:00,SK Unicov,FC Zlin B,total,opening,3.25,under,1.9,2026-11-12 04:46,2.001,-0.0451
+czechia-msfl,72597872,2026-11-14 13:00,SK Unicov,FC Zlin B,total,latest,3.25,over,1.9,2026-11-12 04:46,1.999,-0.044
+czechia-msfl,72597872,2026-11-14 13:00,SK Unicov,FC Zlin B,total,latest,3.25,under,1.9,2026-11-12 04:46,2.001,-0.0451
+czechia-msfl,72597866,2026-11-14 13:00,FC Vsetin,SK Hranice,ah,opening,0.0,home,1.925,2026-11-12 03:42,1.713,0.0919
+czechia-msfl,72597866,2026-11-14 13:00,FC Vsetin,SK Hranice,ah,opening,0.0,away,1.875,2026-11-12 03:42,2.402,-0.1633
+czechia-msfl,72597866,2026-11-14 13:00,FC Vsetin,SK Hranice,ah,latest,0.0,home,1.925,2026-11-12 03:42,1.713,0.0919
+czechia-msfl,72597866,2026-11-14 13:00,FC Vsetin,SK Hranice,ah,latest,0.0,away,1.875,2026-11-12 03:42,2.402,-0.1633
+czechia-msfl,72597866,2026-11-14 13:00,FC Vsetin,SK Hranice,total,opening,2.75,over,1.875,2026-11-12 03:42,2.25,-0.1482
+czechia-msfl,72597866,2026-11-14 13:00,FC Vsetin,SK Hranice,total,opening,2.75,under,1.925,2026-11-12 03:42,1.8,0.0617
+czechia-msfl,72597866,2026-11-14 13:00,FC Vsetin,SK Hranice,total,latest,2.75,over,1.875,2026-11-12 03:42,2.25,-0.1482
+czechia-msfl,72597866,2026-11-14 13:00,FC Vsetin,SK Hranice,total,latest,2.75,under,1.925,2026-11-12 03:42,1.8,0.0617
+czechia-msfl,72597874,2026-11-14 13:00,SFK Vrchovina,FK Hodonin,ah,opening,0.5,home,1.875,2026-11-12 05:34,1.696,0.1056
+czechia-msfl,72597874,2026-11-14 13:00,SFK Vrchovina,FK Hodonin,ah,opening,0.5,away,1.925,2026-11-12 05:34,2.437,-0.2101
+czechia-msfl,72597874,2026-11-14 13:00,SFK Vrchovina,FK Hodonin,ah,latest,0.5,home,1.875,2026-11-12 05:34,1.696,0.1056
+czechia-msfl,72597874,2026-11-14 13:00,SFK Vrchovina,FK Hodonin,ah,latest,0.5,away,1.925,2026-11-12 05:34,2.437,-0.2101
+czechia-msfl,72597874,2026-11-14 13:00,SFK Vrchovina,FK Hodonin,total,opening,3.0,over,1.975,2026-11-12 05:34,2.288,-0.1061
+czechia-msfl,72597874,2026-11-14 13:00,SFK Vrchovina,FK Hodonin,total,opening,3.0,under,1.825,2026-11-12 05:34,1.777,0.0212
+czechia-msfl,72597874,2026-11-14 13:00,SFK Vrchovina,FK Hodonin,total,latest,3.0,over,1.975,2026-11-12 05:34,2.288,-0.1061
+czechia-msfl,72597874,2026-11-14 13:00,SFK Vrchovina,FK Hodonin,total,latest,3.0,under,1.825,2026-11-12 05:34,1.777,0.0212
+spain-laliga-2,72477602,2026-11-14 13:00,Real Valladolid,CD Castellon,ah,opening,0.0,home,1.9,2026-11-09 19:58,2.328,-0.1347
+spain-laliga-2,72477602,2026-11-14 13:00,Real Valladolid,CD Castellon,ah,opening,0.0,away,1.9,2026-11-09 19:58,1.753,0.0614
+spain-laliga-2,72477602,2026-11-14 13:00,Real Valladolid,CD Castellon,ah,latest,0.25,home,1.95,2026-11-12 18:00,1.932,0.0079
+spain-laliga-2,72477602,2026-11-14 13:00,Real Valladolid,CD Castellon,ah,latest,0.25,away,1.85,2026-11-12 18:00,2.073,-0.093
+spain-laliga-2,72477602,2026-11-14 13:00,Real Valladolid,CD Castellon,total,opening,3.5,over,2.75,2026-11-09 19:42,4.067,-0.3238
+spain-laliga-2,72477602,2026-11-14 13:00,Real Valladolid,CD Castellon,total,opening,3.5,under,1.4,2026-11-09 19:42,1.326,0.0557
+spain-laliga-2,72477602,2026-11-14 13:00,Real Valladolid,CD Castellon,total,latest,2.75,over,1.875,2026-11-11 19:09,2.528,-0.2307
+spain-laliga-2,72477602,2026-11-14 13:00,Real Valladolid,CD Castellon,total,latest,2.75,under,1.925,2026-11-11 19:09,1.654,0.1461
+czechia-fnl,76639082,2026-11-14 13:00,SK Hanacka Slavia Kromeriz,FK Fotbal Trinec,ah,opening,-0.5,home,2.025,2026-11-10 10:33,2.199,-0.0793
+czechia-fnl,76639082,2026-11-14 13:00,SK Hanacka Slavia Kromeriz,FK Fotbal Trinec,ah,opening,-0.5,away,1.775,2026-11-10 10:33,1.834,-0.032
+czechia-fnl,76639082,2026-11-14 13:00,SK Hanacka Slavia Kromeriz,FK Fotbal Trinec,ah,latest,-0.5,home,2,2026-11-12 14:43,2.199,-0.0907
+czechia-fnl,76639082,2026-11-14 13:00,SK Hanacka Slavia Kromeriz,FK Fotbal Trinec,ah,latest,-0.5,away,1.8,2026-11-12 14:43,1.834,-0.0184
+czechia-fnl,76639082,2026-11-14 13:00,SK Hanacka Slavia Kromeriz,FK Fotbal Trinec,total,opening,3.5,over,2.625,2026-11-10 10:19,3.304,-0.2055
+czechia-fnl,76639082,2026-11-14 13:00,SK Hanacka Slavia Kromeriz,FK Fotbal Trinec,total,opening,3.5,under,1.444,2026-11-10 10:19,1.434,0.0069
+czechia-fnl,76639082,2026-11-14 13:00,SK Hanacka Slavia Kromeriz,FK Fotbal Trinec,total,latest,2.75,over,1.85,2026-11-12 11:34,2.149,-0.1236
+czechia-fnl,76639082,2026-11-14 13:00,SK Hanacka Slavia Kromeriz,FK Fotbal Trinec,total,latest,2.75,under,1.95,2026-11-12 11:34,1.871,0.0378
+netherlands-tweede-divisie,72594654,2026-11-14 13:30,GVVV Veenendaal,SV Spakenburg,ah,opening,0.25,home,1.95,2026-11-12 14:28,1.946,0.0018
+netherlands-tweede-divisie,72594654,2026-11-14 13:30,GVVV Veenendaal,SV Spakenburg,ah,opening,0.25,away,1.85,2026-11-12 14:28,2.057,-0.089
+netherlands-tweede-divisie,72594654,2026-11-14 13:30,GVVV Veenendaal,SV Spakenburg,ah,latest,0.25,home,1.95,2026-11-12 14:28,1.946,0.0018
+netherlands-tweede-divisie,72594654,2026-11-14 13:30,GVVV Veenendaal,SV Spakenburg,ah,latest,0.25,away,1.85,2026-11-12 14:28,2.057,-0.089
+netherlands-tweede-divisie,72594654,2026-11-14 13:30,GVVV Veenendaal,SV Spakenburg,total,opening,3.5,over,1.95,2026-11-12 14:28,2.461,-0.2076
+netherlands-tweede-divisie,72594654,2026-11-14 13:30,GVVV Veenendaal,SV Spakenburg,total,opening,3.5,under,1.85,2026-11-12 14:28,1.685,0.0982
+netherlands-tweede-divisie,72594654,2026-11-14 13:30,GVVV Veenendaal,SV Spakenburg,total,latest,3.5,over,1.95,2026-11-12 14:28,2.461,-0.2076
+netherlands-tweede-divisie,72594654,2026-11-14 13:30,GVVV Veenendaal,SV Spakenburg,total,latest,3.5,under,1.85,2026-11-12 14:28,1.685,0.0982
+netherlands-tweede-divisie,72594656,2026-11-14 13:30,HHC Hardenberg,Rkav Volendam,ah,opening,-0.5,home,1.875,2026-11-12 16:47,1.91,-0.0181
+netherlands-tweede-divisie,72594656,2026-11-14 13:30,HHC Hardenberg,Rkav Volendam,ah,opening,-0.5,away,1.925,2026-11-12 16:47,2.099,-0.0831
+netherlands-tweede-divisie,72594656,2026-11-14 13:30,HHC Hardenberg,Rkav Volendam,ah,latest,-0.75,home,1.925,2026-11-12 18:41,2.149,-0.0929
+netherlands-tweede-divisie,72594656,2026-11-14 13:30,HHC Hardenberg,Rkav Volendam,ah,latest,-0.75,away,1.875,2026-11-12 18:41,1.87,0.0022
+netherlands-tweede-divisie,72594656,2026-11-14 13:30,HHC Hardenberg,Rkav Volendam,total,opening,3.25,over,2,2026-11-12 16:47,2.07,-0.0299
+netherlands-tweede-divisie,72594656,2026-11-14 13:30,HHC Hardenberg,Rkav Volendam,total,opening,3.25,under,1.8,2026-11-12 16:47,1.935,-0.0621
+netherlands-tweede-divisie,72594656,2026-11-14 13:30,HHC Hardenberg,Rkav Volendam,total,latest,3.25,over,1.925,2026-11-12 18:41,2.07,-0.0622
+netherlands-tweede-divisie,72594656,2026-11-14 13:30,HHC Hardenberg,Rkav Volendam,total,latest,3.25,under,1.875,2026-11-12 18:41,1.935,-0.0276
+netherlands-tweede-divisie,72594658,2026-11-14 13:30,Rijnsburgse Boys,Koninklijke HFC,ah,opening,-0.75,home,2,2026-11-12 15:20,1.847,0.074
+netherlands-tweede-divisie,72594658,2026-11-14 13:30,Rijnsburgse Boys,Koninklijke HFC,ah,opening,-0.75,away,1.8,2026-11-12 15:20,2.181,-0.1557
+netherlands-tweede-divisie,72594658,2026-11-14 13:30,Rijnsburgse Boys,Koninklijke HFC,ah,latest,-0.75,home,2,2026-11-12 15:20,1.847,0.074
+netherlands-tweede-divisie,72594658,2026-11-14 13:30,Rijnsburgse Boys,Koninklijke HFC,ah,latest,-0.75,away,1.8,2026-11-12 15:20,2.181,-0.1557
+netherlands-tweede-divisie,72594658,2026-11-14 13:30,Rijnsburgse Boys,Koninklijke HFC,total,opening,3.25,over,1.85,2026-11-12 15:20,1.871,-0.0099
+netherlands-tweede-divisie,72594658,2026-11-14 13:30,Rijnsburgse Boys,Koninklijke HFC,total,opening,3.25,under,1.95,2026-11-12 15:20,2.148,-0.0825
+netherlands-tweede-divisie,72594658,2026-11-14 13:30,Rijnsburgse Boys,Koninklijke HFC,total,latest,3.25,over,1.85,2026-11-12 15:20,1.871,-0.0099
+netherlands-tweede-divisie,72594658,2026-11-14 13:30,Rijnsburgse Boys,Koninklijke HFC,total,latest,3.25,under,1.95,2026-11-12 15:20,2.148,-0.0825
+italy-serie-c-group-a,73293334,2026-11-14 13:30,US Albinoleffe,Union Brescia,ah,opening,0.75,home,1.925,2026-11-10 16:36,1.916,0.0043
+italy-serie-c-group-a,73293334,2026-11-14 13:30,US Albinoleffe,Union Brescia,ah,opening,0.75,away,1.875,2026-11-10 16:36,2.092,-0.0911
+italy-serie-c-group-a,73293334,2026-11-14 13:30,US Albinoleffe,Union Brescia,ah,latest,0.75,home,1.925,2026-11-10 16:36,1.916,0.0043
+italy-serie-c-group-a,73293334,2026-11-14 13:30,US Albinoleffe,Union Brescia,ah,latest,0.75,away,1.875,2026-11-10 16:36,2.092,-0.0911
+italy-serie-c-group-a,73293334,2026-11-14 13:30,US Albinoleffe,Union Brescia,total,opening,3.5,over,3.4,2026-11-10 16:03,3.641,-0.0663
+italy-serie-c-group-a,73293334,2026-11-14 13:30,US Albinoleffe,Union Brescia,total,opening,3.5,under,1.3,2026-11-10 16:03,1.379,-0.057
+italy-serie-c-group-a,73293334,2026-11-14 13:30,US Albinoleffe,Union Brescia,total,latest,2.5,over,1.95,2026-11-10 16:36,2.025,-0.0373
+italy-serie-c-group-a,73293334,2026-11-14 13:30,US Albinoleffe,Union Brescia,total,latest,2.5,under,1.85,2026-11-10 16:36,1.975,-0.0634
+italy-serie-c-group-a,73293336,2026-11-14 13:30,FC Arzignano Valchiampo,Alcione Milano,ah,opening,-0.25,home,1.8,2026-11-10 16:21,1.913,-0.0513
+italy-serie-c-group-a,73293336,2026-11-14 13:30,FC Arzignano Valchiampo,Alcione Milano,ah,opening,-0.25,away,2,2026-11-10 16:21,2.095,-0.0392
+italy-serie-c-group-a,73293336,2026-11-14 13:30,FC Arzignano Valchiampo,Alcione Milano,ah,latest,-0.25,home,1.925,2026-11-12 11:26,1.913,0.0052
+italy-serie-c-group-a,73293336,2026-11-14 13:30,FC Arzignano Valchiampo,Alcione Milano,ah,latest,-0.25,away,1.875,2026-11-12 11:26,2.095,-0.0908
+italy-serie-c-group-a,73293336,2026-11-14 13:30,FC Arzignano Valchiampo,Alcione Milano,total,opening,1.5,over,1.333,2026-11-10 16:03,1.428,-0.0667
+italy-serie-c-group-a,73293336,2026-11-14 13:30,FC Arzignano Valchiampo,Alcione Milano,total,opening,1.5,under,3.25,2026-11-10 16:03,3.335,-0.0255
+italy-serie-c-group-a,73293336,2026-11-14 13:30,FC Arzignano Valchiampo,Alcione Milano,total,latest,2.5,over,1.825,2026-11-11 12:08,2.269,-0.1957
+italy-serie-c-group-a,73293336,2026-11-14 13:30,FC Arzignano Valchiampo,Alcione Milano,total,latest,2.5,under,1.975,2026-11-11 12:08,1.788,0.1046
+italy-serie-c-group-a,73293352,2026-11-14 13:30,AC Renate,Calcio Desenzano,ah,opening,-0.5,home,2,2026-11-10 15:56,2.306,-0.1326
+italy-serie-c-group-a,73293352,2026-11-14 13:30,AC Renate,Calcio Desenzano,ah,opening,-0.5,away,1.8,2026-11-10 15:56,1.766,0.0194
+italy-serie-c-group-a,73293352,2026-11-14 13:30,AC Renate,Calcio Desenzano,ah,latest,-0.5,home,2,2026-11-10 15:56,2.306,-0.1326
+italy-serie-c-group-a,73293352,2026-11-14 13:30,AC Renate,Calcio Desenzano,ah,latest,-0.5,away,1.8,2026-11-10 15:56,1.766,0.0194
+italy-serie-c-group-a,73293352,2026-11-14 13:30,AC Renate,Calcio Desenzano,total,opening,3.5,over,3.25,2026-11-10 15:54,6.675,-0.5131
+italy-serie-c-group-a,73293352,2026-11-14 13:30,AC Renate,Calcio Desenzano,total,opening,3.5,under,1.333,2026-11-10 15:54,1.176,0.1333
+italy-serie-c-group-a,73293352,2026-11-14 13:30,AC Renate,Calcio Desenzano,total,latest,2.5,over,1.9,2026-11-10 15:56,2.997,-0.3661
+italy-serie-c-group-a,73293352,2026-11-14 13:30,AC Renate,Calcio Desenzano,total,latest,2.5,under,1.9,2026-11-10 15:56,1.501,0.2661
+italy-serie-c-group-b,73294092,2026-11-14 13:30,Reggiana 1919,US Livorno 1915,ah,opening,-0.5,home,1.9,2026-11-10 15:53,2.003,-0.0514
+italy-serie-c-group-b,73294092,2026-11-14 13:30,Reggiana 1919,US Livorno 1915,ah,opening,-0.5,away,1.9,2026-11-10 15:53,1.997,-0.0486
+italy-serie-c-group-b,73294092,2026-11-14 13:30,Reggiana 1919,US Livorno 1915,ah,latest,-0.5,home,1.95,2026-11-12 12:39,2.003,-0.0264
+italy-serie-c-group-b,73294092,2026-11-14 13:30,Reggiana 1919,US Livorno 1915,ah,latest,-0.5,away,1.85,2026-11-12 12:39,1.997,-0.0737
+italy-serie-c-group-b,73294092,2026-11-14 13:30,Reggiana 1919,US Livorno 1915,total,opening,3.5,over,3,2026-11-10 14:45,3.778,-0.2059
+italy-serie-c-group-b,73294092,2026-11-14 13:30,Reggiana 1919,US Livorno 1915,total,opening,3.5,under,1.363,2026-11-10 14:45,1.36,0.0022
+italy-serie-c-group-b,73294092,2026-11-14 13:30,Reggiana 1919,US Livorno 1915,total,latest,2.5,over,1.95,2026-11-12 12:39,2.073,-0.0594
+italy-serie-c-group-b,73294092,2026-11-14 13:30,Reggiana 1919,US Livorno 1915,total,latest,2.5,under,1.85,2026-11-12 12:39,1.932,-0.0424
+italy-serie-c-group-b,73294096,2026-11-14 13:30,Vis Pesaro 1898,US Pianese,ah,opening,0.25,home,1.775,2026-11-10 16:00,1.71,0.0322
+italy-serie-c-group-b,73294096,2026-11-14 13:30,Vis Pesaro 1898,US Pianese,ah,opening,0.25,away,2.025,2026-11-10 16:00,2.409,-0.1347
+italy-serie-c-group-b,73294096,2026-11-14 13:30,Vis Pesaro 1898,US Pianese,ah,latest,0.25,home,1.8,2026-11-12 18:56,1.71,0.0445
+italy-serie-c-group-b,73294096,2026-11-14 13:30,Vis Pesaro 1898,US Pianese,ah,latest,0.25,away,2,2026-11-12 18:56,2.409,-0.1435
+italy-serie-c-group-b,73294096,2026-11-14 13:30,Vis Pesaro 1898,US Pianese,total,opening,1.5,over,1.333,2026-11-10 14:59,1.683,-0.208
+italy-serie-c-group-b,73294096,2026-11-14 13:30,Vis Pesaro 1898,US Pianese,total,opening,1.5,under,3.25,2026-11-10 14:59,2.464,0.3189
+italy-serie-c-group-b,73294096,2026-11-14 13:30,Vis Pesaro 1898,US Pianese,total,latest,2.5,over,1.9,2026-11-12 19:41,3.091,-0.3853
+italy-serie-c-group-b,73294096,2026-11-14 13:30,Vis Pesaro 1898,US Pianese,total,latest,2.5,under,1.9,2026-11-12 19:41,1.478,0.2853
+italy-serie-c-group-c,73294828,2026-11-14 13:30,S.S.D. Casarano Calcio,AZ Picerno,ah,opening,-0.25,home,1.825,2026-11-10 15:29,1.754,0.0358
+italy-serie-c-group-c,73294828,2026-11-14 13:30,S.S.D. Casarano Calcio,AZ Picerno,ah,opening,-0.25,away,1.975,2026-11-10 15:29,2.327,-0.1329
+italy-serie-c-group-c,73294828,2026-11-14 13:30,S.S.D. Casarano Calcio,AZ Picerno,ah,latest,-0.5,home,2,2026-11-12 12:40,1.995,0.0026
+italy-serie-c-group-c,73294828,2026-11-14 13:30,S.S.D. Casarano Calcio,AZ Picerno,ah,latest,-0.5,away,1.8,2026-11-12 12:40,2.005,-0.1023
+italy-serie-c-group-c,73294828,2026-11-14 13:30,S.S.D. Casarano Calcio,AZ Picerno,total,opening,3.5,over,3.25,2026-11-10 14:58,3.224,0.008
+italy-serie-c-group-c,73294828,2026-11-14 13:30,S.S.D. Casarano Calcio,AZ Picerno,total,opening,3.5,under,1.333,2026-11-10 14:58,1.45,-0.0804
+italy-serie-c-group-c,73294828,2026-11-14 13:30,S.S.D. Casarano Calcio,AZ Picerno,total,latest,2.75,over,2,2026-11-12 12:40,2.109,-0.0458
+italy-serie-c-group-c,73294828,2026-11-14 13:30,S.S.D. Casarano Calcio,AZ Picerno,total,latest,2.75,under,1.8,2026-11-12 12:40,1.902,-0.0477
+denmark-2nd-division,72499172,2026-11-14 14:00,BK Fremad Amager,Brabrand IF,ah,opening,-0.25,home,1.875,2026-11-10 17:51,1.766,0.0537
+denmark-2nd-division,72499172,2026-11-14 14:00,BK Fremad Amager,Brabrand IF,ah,opening,-0.25,away,1.925,2026-11-10 17:51,2.305,-0.1439
+denmark-2nd-division,72499172,2026-11-14 14:00,BK Fremad Amager,Brabrand IF,ah,latest,-0.25,home,1.975,2026-11-12 12:41,1.766,0.1031
+denmark-2nd-division,72499172,2026-11-14 14:00,BK Fremad Amager,Brabrand IF,ah,latest,-0.25,away,1.825,2026-11-12 12:41,2.305,-0.1818
+denmark-2nd-division,72499172,2026-11-14 14:00,BK Fremad Amager,Brabrand IF,total,opening,3.5,over,2.75,2026-11-10 17:13,3.803,-0.2768
+denmark-2nd-division,72499172,2026-11-14 14:00,BK Fremad Amager,Brabrand IF,total,opening,3.5,under,1.4,2026-11-10 17:13,1.357,0.0318
+denmark-2nd-division,72499172,2026-11-14 14:00,BK Fremad Amager,Brabrand IF,total,latest,2.5,over,1.825,2026-11-12 19:12,2.082,-0.1233
+denmark-2nd-division,72499172,2026-11-14 14:00,BK Fremad Amager,Brabrand IF,total,latest,2.5,under,1.975,2026-11-12 19:12,1.925,0.0262
+netherlands-tweede-divisie,72594660,2026-11-14 14:00,IJsselmeervogels,BVV Barendrecht,ah,opening,-1.0,home,1.975,2026-11-12 14:26,2.42,-0.1429
+netherlands-tweede-divisie,72594660,2026-11-14 14:00,IJsselmeervogels,BVV Barendrecht,ah,opening,-1.0,away,1.825,2026-11-12 14:26,1.704,0.0551
+netherlands-tweede-divisie,72594660,2026-11-14 14:00,IJsselmeervogels,BVV Barendrecht,ah,latest,-1.0,home,1.975,2026-11-12 14:26,2.42,-0.1429
+netherlands-tweede-divisie,72594660,2026-11-14 14:00,IJsselmeervogels,BVV Barendrecht,ah,latest,-1.0,away,1.825,2026-11-12 14:26,1.704,0.0551
+netherlands-tweede-divisie,72594660,2026-11-14 14:00,IJsselmeervogels,BVV Barendrecht,total,opening,3.25,over,1.8,2026-11-12 14:26,2.153,-0.1457
+netherlands-tweede-divisie,72594660,2026-11-14 14:00,IJsselmeervogels,BVV Barendrecht,total,opening,3.25,under,2,2026-11-12 14:26,1.868,0.063
+netherlands-tweede-divisie,72594660,2026-11-14 14:00,IJsselmeervogels,BVV Barendrecht,total,latest,3.25,over,1.8,2026-11-12 14:26,2.153,-0.1457
+netherlands-tweede-divisie,72594660,2026-11-14 14:00,IJsselmeervogels,BVV Barendrecht,total,latest,3.25,under,2,2026-11-12 14:26,1.868,0.063
+netherlands-tweede-divisie,72594666,2026-11-14 14:00,K.v.v. Quick Boys,Jong Almere City FC,ah,opening,-1.75,home,1.9,2026-11-12 14:42,2.595,-0.2426
+netherlands-tweede-divisie,72594666,2026-11-14 14:00,K.v.v. Quick Boys,Jong Almere City FC,ah,opening,-1.75,away,1.9,2026-11-12 14:42,1.627,0.152
+netherlands-tweede-divisie,72594666,2026-11-14 14:00,K.v.v. Quick Boys,Jong Almere City FC,ah,latest,-1.25,home,1.875,2026-11-12 18:55,2.018,-0.0635
+netherlands-tweede-divisie,72594666,2026-11-14 14:00,K.v.v. Quick Boys,Jong Almere City FC,ah,latest,-1.25,away,1.925,2026-11-12 18:55,1.982,-0.0257
+netherlands-tweede-divisie,72594666,2026-11-14 14:00,K.v.v. Quick Boys,Jong Almere City FC,total,opening,3.5,over,1.8,2026-11-12 14:42,1.894,-0.0498
+netherlands-tweede-divisie,72594666,2026-11-14 14:00,K.v.v. Quick Boys,Jong Almere City FC,total,opening,3.5,under,2,2026-11-12 14:42,2.118,-0.0558
+netherlands-tweede-divisie,72594666,2026-11-14 14:00,K.v.v. Quick Boys,Jong Almere City FC,total,latest,3.5,over,1.95,2026-11-12 18:55,1.894,0.0294
+netherlands-tweede-divisie,72594666,2026-11-14 14:00,K.v.v. Quick Boys,Jong Almere City FC,total,latest,3.5,under,1.85,2026-11-12 18:55,2.118,-0.1266
+serbia-prva-liga,72121020,2026-11-14 15:00,FK Borac Cacak,FK Loznica,ah,opening,-0.75,home,1.775,2026-11-12 11:07,2.195,-0.168
+serbia-prva-liga,72121020,2026-11-14 15:00,FK Borac Cacak,FK Loznica,ah,opening,-0.75,away,2.025,2026-11-12 11:07,1.837,0.09
+serbia-prva-liga,72121020,2026-11-14 15:00,FK Borac Cacak,FK Loznica,ah,latest,-0.75,home,1.775,2026-11-12 11:07,2.195,-0.168
+serbia-prva-liga,72121020,2026-11-14 15:00,FK Borac Cacak,FK Loznica,ah,latest,-0.75,away,2.025,2026-11-12 11:07,1.837,0.09
+serbia-prva-liga,72121020,2026-11-14 15:00,FK Borac Cacak,FK Loznica,total,opening,2.5,over,1.825,2026-11-12 11:07,2.059,-0.1136
+serbia-prva-liga,72121020,2026-11-14 15:00,FK Borac Cacak,FK Loznica,total,opening,2.5,under,1.975,2026-11-12 11:07,1.944,0.0157
+serbia-prva-liga,72121020,2026-11-14 15:00,FK Borac Cacak,FK Loznica,total,latest,2.5,over,1.825,2026-11-12 11:07,2.059,-0.1136
+serbia-prva-liga,72121020,2026-11-14 15:00,FK Borac Cacak,FK Loznica,total,latest,2.5,under,1.975,2026-11-12 11:07,1.944,0.0157
+scotland-championship,72202730,2026-11-14 15:00,Ayr United FC,Raith Rovers FC,ah,opening,0.25,home,1.875,2026-11-07 18:24,1.84,0.0161
+scotland-championship,72202730,2026-11-14 15:00,Ayr United FC,Raith Rovers FC,ah,opening,0.25,away,1.925,2026-11-07 18:24,2.19,-0.1033
+scotland-championship,72202730,2026-11-14 15:00,Ayr United FC,Raith Rovers FC,ah,latest,0.25,home,1.825,2026-11-11 18:08,1.84,-0.0071
+scotland-championship,72202730,2026-11-14 15:00,Ayr United FC,Raith Rovers FC,ah,latest,0.25,away,1.975,2026-11-11 18:08,2.19,-0.0838
+scotland-championship,72202730,2026-11-14 15:00,Ayr United FC,Raith Rovers FC,total,opening,1.5,over,1.363,2026-11-07 18:08,1.569,-0.1312
+scotland-championship,72202730,2026-11-14 15:00,Ayr United FC,Raith Rovers FC,total,opening,1.5,under,3,2026-11-07 18:08,2.758,0.0877
+scotland-championship,72202730,2026-11-14 15:00,Ayr United FC,Raith Rovers FC,total,latest,2.25,over,1.95,2026-11-12 15:18,2.349,-0.1469
+scotland-championship,72202730,2026-11-14 15:00,Ayr United FC,Raith Rovers FC,total,latest,2.25,under,1.85,2026-11-12 15:18,1.742,0.0539
+scotland-championship,72202734,2026-11-14 15:00,Livingston FC,Greenock Morton FC,ah,opening,-1.25,home,1.8,2026-11-07 19:03,2.164,-0.1477
+scotland-championship,72202734,2026-11-14 15:00,Livingston FC,Greenock Morton FC,ah,opening,-1.25,away,2,2026-11-07 19:03,1.859,0.0666
+scotland-championship,72202734,2026-11-14 15:00,Livingston FC,Greenock Morton FC,ah,latest,-1.75,home,1.95,2026-11-08 19:10,2.944,-0.304
+scotland-championship,72202734,2026-11-14 15:00,Livingston FC,Greenock Morton FC,ah,latest,-1.75,away,1.85,2026-11-08 19:10,1.514,0.1995
+scotland-championship,72202734,2026-11-14 15:00,Livingston FC,Greenock Morton FC,total,opening,3.5,over,2.5,2026-11-07 18:55,3.077,-0.1876
+scotland-championship,72202734,2026-11-14 15:00,Livingston FC,Greenock Morton FC,total,opening,3.5,under,1.5,2026-11-07 18:55,1.481,0.0125
+scotland-championship,72202734,2026-11-14 15:00,Livingston FC,Greenock Morton FC,total,latest,3.0,over,1.825,2026-11-12 18:33,2.39,-0.1835
+scotland-championship,72202734,2026-11-14 15:00,Livingston FC,Greenock Morton FC,total,latest,3.0,under,1.975,2026-11-12 18:33,1.72,0.1153
+england-league-one,72341358,2026-11-14 15:00,AFC Wimbledon,Blackpool FC,ah,opening,0.0,home,2.025,2026-10-31 17:27,2.084,-0.0198
+england-league-one,72341358,2026-11-14 15:00,AFC Wimbledon,Blackpool FC,ah,opening,0.0,away,1.825,2026-10-31 17:27,1.923,-0.0359
+england-league-one,72341358,2026-11-14 15:00,AFC Wimbledon,Blackpool FC,ah,latest,0.0,home,1.925,2026-11-11 12:08,2.084,-0.0536
+england-league-one,72341358,2026-11-14 15:00,AFC Wimbledon,Blackpool FC,ah,latest,0.0,away,1.925,2026-11-11 12:08,1.923,0.0008
+england-league-one,72341358,2026-11-14 15:00,AFC Wimbledon,Blackpool FC,total,opening,3.5,over,2.75,2026-10-31 17:17,5.837,-0.5289
+england-league-one,72341358,2026-11-14 15:00,AFC Wimbledon,Blackpool FC,total,opening,3.5,under,1.4,2026-10-31 17:17,1.207,0.1602
+england-league-one,72341358,2026-11-14 15:00,AFC Wimbledon,Blackpool FC,total,latest,2.5,over,1.825,2026-11-09 19:40,2.744,-0.3349
+england-league-one,72341358,2026-11-14 15:00,AFC Wimbledon,Blackpool FC,total,latest,2.5,under,2.025,2026-11-09 19:40,1.573,0.2871
+england-league-one,72341362,2026-11-14 15:00,Doncaster Rovers,Leyton Orient London,ah,opening,-0.25,home,2,2026-10-31 18:14,1.911,0.0401
+england-league-one,72341362,2026-11-14 15:00,Doncaster Rovers,Leyton Orient London,ah,opening,-0.25,away,1.85,2026-10-31 18:14,2.098,-0.1015
+england-league-one,72341362,2026-11-14 15:00,Doncaster Rovers,Leyton Orient London,ah,latest,-0.25,home,2,2026-11-08 19:17,1.911,0.0401
+england-league-one,72341362,2026-11-14 15:00,Doncaster Rovers,Leyton Orient London,ah,latest,-0.25,away,1.85,2026-11-08 19:17,2.098,-0.1015
+england-league-one,72341362,2026-11-14 15:00,Doncaster Rovers,Leyton Orient London,total,opening,3.5,over,2.5,2026-10-31 17:27,5.322,-0.5302
+england-league-one,72341362,2026-11-14 15:00,Doncaster Rovers,Leyton Orient London,total,opening,3.5,under,1.5,2026-10-31 17:27,1.231,0.2181
+england-league-one,72341362,2026-11-14 15:00,Doncaster Rovers,Leyton Orient London,total,latest,2.75,over,2.025,2026-11-08 19:17,3.132,-0.3182
+england-league-one,72341362,2026-11-14 15:00,Doncaster Rovers,Leyton Orient London,total,latest,2.75,under,1.825,2026-11-08 19:17,1.469,0.2181
+england-league-one,72341368,2026-11-14 15:00,Milton Keynes Dons,Burton Albion,ah,opening,-1.0,home,2,2026-10-31 18:31,2.599,-0.174
+england-league-one,72341368,2026-11-14 15:00,Milton Keynes Dons,Burton Albion,ah,opening,-1.0,away,1.85,2026-10-31 18:31,1.625,0.1043
+england-league-one,72341368,2026-11-14 15:00,Milton Keynes Dons,Burton Albion,ah,latest,-0.75,home,1.875,2026-11-10 05:07,2.124,-0.103
+england-league-one,72341368,2026-11-14 15:00,Milton Keynes Dons,Burton Albion,ah,latest,-0.75,away,1.975,2026-11-10 05:07,1.889,0.0397
+england-league-one,72341368,2026-11-14 15:00,Milton Keynes Dons,Burton Albion,total,opening,3.5,over,2.5,2026-10-31 17:37,3.672,-0.3191
+england-league-one,72341368,2026-11-14 15:00,Milton Keynes Dons,Burton Albion,total,opening,3.5,under,1.5,2026-10-31 17:37,1.374,0.0915
+england-league-one,72341368,2026-11-14 15:00,Milton Keynes Dons,Burton Albion,total,latest,2.75,over,1.85,2026-11-09 21:15,2.333,-0.1844
+england-league-one,72341368,2026-11-14 15:00,Milton Keynes Dons,Burton Albion,total,latest,2.75,under,2,2026-11-09 21:15,1.75,0.1271
+england-league-one,72341372,2026-11-14 15:00,Sheffield Wednesday,Plymouth Argyle,ah,opening,-0.25,home,2,2026-10-31 19:01,2.195,-0.0774
+england-league-one,72341372,2026-11-14 15:00,Sheffield Wednesday,Plymouth Argyle,ah,opening,-0.25,away,1.85,2026-10-31 19:01,1.837,0.0063
+england-league-one,72341372,2026-11-14 15:00,Sheffield Wednesday,Plymouth Argyle,ah,latest,-0.25,home,1.975,2026-11-12 15:52,2.195,-0.0873
+england-league-one,72341372,2026-11-14 15:00,Sheffield Wednesday,Plymouth Argyle,ah,latest,-0.25,away,1.875,2026-11-12 15:52,1.837,0.0181
+england-league-one,72341372,2026-11-14 15:00,Sheffield Wednesday,Plymouth Argyle,total,opening,3.5,over,2.375,2026-10-31 17:35,3.505,-0.3224
+england-league-one,72341372,2026-11-14 15:00,Sheffield Wednesday,Plymouth Argyle,total,opening,3.5,under,1.533,2026-10-31 17:35,1.399,0.0956
+england-league-one,72341372,2026-11-14 15:00,Sheffield Wednesday,Plymouth Argyle,total,latest,3.0,over,1.975,2026-11-12 17:38,2.732,-0.2161
+england-league-one,72341372,2026-11-14 15:00,Sheffield Wednesday,Plymouth Argyle,total,latest,3.0,under,1.875,2026-11-12 17:38,1.577,0.1472
+england-league-one,72341374,2026-11-14 15:00,Stevenage FC,Mansfield Town,ah,opening,-0.25,home,2.025,2026-10-31 18:07,2.2,-0.0686
+england-league-one,72341374,2026-11-14 15:00,Stevenage FC,Mansfield Town,ah,opening,-0.25,away,1.825,2026-10-31 18:07,1.833,-0.004
+england-league-one,72341374,2026-11-14 15:00,Stevenage FC,Mansfield Town,ah,latest,-0.25,home,2.025,2026-10-31 18:07,2.2,-0.0686
+england-league-one,72341374,2026-11-14 15:00,Stevenage FC,Mansfield Town,ah,latest,-0.25,away,1.825,2026-10-31 18:07,1.833,-0.004
+england-league-one,72341374,2026-11-14 15:00,Stevenage FC,Mansfield Town,total,opening,3.5,over,3.25,2026-10-31 17:23,4.306,-0.2453
+england-league-one,72341374,2026-11-14 15:00,Stevenage FC,Mansfield Town,total,opening,3.5,under,1.333,2026-10-31 17:23,1.302,0.0234
+england-league-one,72341374,2026-11-14 15:00,Stevenage FC,Mansfield Town,total,latest,2.25,over,1.8,2026-11-09 05:46,1.961,-0.0717
+england-league-one,72341374,2026-11-14 15:00,Stevenage FC,Mansfield Town,total,latest,2.25,under,2.05,2026-11-09 05:46,2.04,0.0042
+england-league-one,72341376,2026-11-14 15:00,Stockport County FC,Reading FC,ah,opening,-0.5,home,1.825,2026-10-31 18:07,1.915,-0.047
+england-league-one,72341376,2026-11-14 15:00,Stockport County FC,Reading FC,ah,opening,-0.5,away,2.025,2026-10-31 18:07,2.093,-0.0324
+england-league-one,72341376,2026-11-14 15:00,Stockport County FC,Reading FC,ah,latest,-0.5,home,1.85,2026-11-09 20:08,1.915,-0.034
+england-league-one,72341376,2026-11-14 15:00,Stockport County FC,Reading FC,ah,latest,-0.5,away,2,2026-11-09 20:08,2.093,-0.0443
+england-league-one,72341376,2026-11-14 15:00,Stockport County FC,Reading FC,total,opening,3.5,over,2.5,2026-10-31 17:26,3.249,-0.2306
+england-league-one,72341376,2026-11-14 15:00,Stockport County FC,Reading FC,total,opening,3.5,under,1.5,2026-10-31 17:26,1.445,0.0384
+england-league-one,72341376,2026-11-14 15:00,Stockport County FC,Reading FC,total,latest,2.75,over,1.8,2026-11-12 07:01,2.121,-0.1346
+england-league-one,72341376,2026-11-14 15:00,Stockport County FC,Reading FC,total,latest,2.75,under,2.05,2026-11-12 07:01,1.892,0.0743
+england-league-one,72341378,2026-11-14 15:00,Wigan Athletic,Barnsley FC,ah,opening,0.0,home,1.8,2026-10-31 18:19,1.775,0.0101
+england-league-one,72341378,2026-11-14 15:00,Wigan Athletic,Barnsley FC,ah,opening,0.0,away,2.05,2026-10-31 18:19,2.291,-0.0752
+england-league-one,72341378,2026-11-14 15:00,Wigan Athletic,Barnsley FC,ah,latest,-0.25,home,2,2026-11-11 21:52,2.127,-0.0512
+england-league-one,72341378,2026-11-14 15:00,Wigan Athletic,Barnsley FC,ah,latest,-0.25,away,1.85,2026-11-11 21:52,1.887,-0.017
+england-league-one,72341378,2026-11-14 15:00,Wigan Athletic,Barnsley FC,total,opening,3.5,over,2.375,2026-10-31 17:22,5.112,-0.5354
+england-league-one,72341378,2026-11-14 15:00,Wigan Athletic,Barnsley FC,total,opening,3.5,under,1.533,2026-10-31 17:22,1.243,0.2331
+england-league-one,72341378,2026-11-14 15:00,Wigan Athletic,Barnsley FC,total,latest,3.0,over,1.975,2026-11-12 14:24,4.081,-0.4119
+england-league-one,72341378,2026-11-14 15:00,Wigan Athletic,Barnsley FC,total,latest,3.0,under,1.875,2026-11-12 14:24,1.325,0.3317
+england-league-one,72341380,2026-11-14 15:00,Wycombe Wanderers,Huddersfield Town,ah,opening,0.25,home,1.85,2026-10-31 18:41,1.8,0.0243
+england-league-one,72341380,2026-11-14 15:00,Wycombe Wanderers,Huddersfield Town,ah,opening,0.25,away,2,2026-10-31 18:41,2.249,-0.0979
+england-league-one,72341380,2026-11-14 15:00,Wycombe Wanderers,Huddersfield Town,ah,latest,0.25,home,1.925,2026-11-09 08:32,1.8,0.0611
+england-league-one,72341380,2026-11-14 15:00,Wycombe Wanderers,Huddersfield Town,ah,latest,0.25,away,1.925,2026-11-09 08:32,2.249,-0.1274
+england-league-one,72341380,2026-11-14 15:00,Wycombe Wanderers,Huddersfield Town,total,opening,3.5,over,2.625,2026-10-31 18:29,2.501,0.0497
+england-league-one,72341380,2026-11-14 15:00,Wycombe Wanderers,Huddersfield Town,total,opening,3.5,under,1.444,2026-10-31 18:29,1.666,-0.1334
+england-league-one,72341380,2026-11-14 15:00,Wycombe Wanderers,Huddersfield Town,total,latest,2.75,over,1.9,2026-11-08 23:27,1.739,0.0824
+england-league-one,72341380,2026-11-14 15:00,Wycombe Wanderers,Huddersfield Town,total,latest,2.75,under,1.95,2026-11-08 23:27,2.353,-0.1524
+england-league-two,72342358,2026-11-14 15:00,Bristol Rovers,Chesterfield FC,ah,opening,0.0,home,1.925,2026-10-31 18:43,1.846,0.0316
+england-league-two,72342358,2026-11-14 15:00,Bristol Rovers,Chesterfield FC,ah,opening,0.0,away,1.925,2026-10-31 18:43,2.182,-0.0869
+england-league-two,72342358,2026-11-14 15:00,Bristol Rovers,Chesterfield FC,ah,latest,0.25,home,1.8,2026-11-12 14:25,1.637,0.0866
+england-league-two,72342358,2026-11-14 15:00,Bristol Rovers,Chesterfield FC,ah,latest,0.25,away,2.05,2026-11-12 14:25,2.57,-0.1758
+england-league-two,72342358,2026-11-14 15:00,Bristol Rovers,Chesterfield FC,total,opening,3.5,over,2.625,2026-10-31 18:22,3.74,-0.2981
+england-league-two,72342358,2026-11-14 15:00,Bristol Rovers,Chesterfield FC,total,opening,3.5,under,1.444,2026-10-31 18:22,1.365,0.0579
+england-league-two,72342358,2026-11-14 15:00,Bristol Rovers,Chesterfield FC,total,latest,2.75,over,2,2026-11-08 19:20,2.367,-0.1381
+england-league-two,72342358,2026-11-14 15:00,Bristol Rovers,Chesterfield FC,total,latest,2.75,under,1.85,2026-11-08 19:20,1.732,0.0609
+england-league-two,72342360,2026-11-14 15:00,Colchester United,Gillingham FC,ah,opening,-0.25,home,1.875,2026-10-31 18:52,1.826,0.0233
+england-league-two,72342360,2026-11-14 15:00,Colchester United,Gillingham FC,ah,opening,-0.25,away,1.975,2026-10-31 18:52,2.21,-0.0928
+england-league-two,72342360,2026-11-14 15:00,Colchester United,Gillingham FC,ah,latest,-0.25,home,1.825,2026-11-10 13:03,1.826,-0.0006
+england-league-two,72342360,2026-11-14 15:00,Colchester United,Gillingham FC,ah,latest,-0.25,away,2.025,2026-11-10 13:03,2.21,-0.0731
+england-league-two,72342360,2026-11-14 15:00,Colchester United,Gillingham FC,total,opening,3.5,over,3.25,2026-10-31 18:21,3.817,-0.1486
+england-league-two,72342360,2026-11-14 15:00,Colchester United,Gillingham FC,total,opening,3.5,under,1.333,2026-10-31 18:21,1.355,-0.0162
+england-league-two,72342360,2026-11-14 15:00,Colchester United,Gillingham FC,total,latest,2.5,over,1.975,2026-11-12 14:25,2.087,-0.0536
+england-league-two,72342360,2026-11-14 15:00,Colchester United,Gillingham FC,total,latest,2.5,under,1.875,2026-11-12 14:25,1.92,-0.0235
+england-league-two,72342362,2026-11-14 15:00,Crewe Alexandra,Newport County,ah,opening,-0.5,home,2.025,2026-10-31 18:57,1.99,0.0178
+england-league-two,72342362,2026-11-14 15:00,Crewe Alexandra,Newport County,ah,opening,-0.5,away,1.825,2026-10-31 18:57,2.01,-0.0922
+england-league-two,72342362,2026-11-14 15:00,Crewe Alexandra,Newport County,ah,latest,-0.25,home,1.825,2026-11-12 13:15,1.738,0.0436
+england-league-two,72342362,2026-11-14 15:00,Crewe Alexandra,Newport County,ah,latest,-0.25,away,2.025,2026-11-12 13:15,2.354,-0.1223
+england-league-two,72342362,2026-11-14 15:00,Crewe Alexandra,Newport County,total,opening,3.5,over,3,2026-10-31 18:47,3.832,-0.2172
+england-league-two,72342362,2026-11-14 15:00,Crewe Alexandra,Newport County,total,opening,3.5,under,1.363,2026-10-31 18:47,1.353,0.0074
+england-league-two,72342362,2026-11-14 15:00,Crewe Alexandra,Newport County,total,latest,2.5,over,1.975,2026-11-11 08:18,2.092,-0.0559
+england-league-two,72342362,2026-11-14 15:00,Crewe Alexandra,Newport County,total,latest,2.5,under,1.875,2026-11-11 08:18,1.916,-0.0213
+england-league-two,72342368,2026-11-14 15:00,Port Vale,Accrington Stanley,ah,opening,-0.5,home,1.95,2026-10-31 18:29,1.934,0.0083
+england-league-two,72342368,2026-11-14 15:00,Port Vale,Accrington Stanley,ah,opening,-0.5,away,1.9,2026-10-31 18:29,2.071,-0.0824
+england-league-two,72342368,2026-11-14 15:00,Port Vale,Accrington Stanley,ah,latest,-0.5,home,2,2026-11-11 16:14,1.934,0.0342
+england-league-two,72342368,2026-11-14 15:00,Port Vale,Accrington Stanley,ah,latest,-0.5,away,1.85,2026-11-11 16:14,2.071,-0.1066
+england-league-two,72342368,2026-11-14 15:00,Port Vale,Accrington Stanley,total,opening,1.5,over,1.3,2026-10-31 18:11,1.424,-0.087
+england-league-two,72342368,2026-11-14 15:00,Port Vale,Accrington Stanley,total,opening,1.5,under,3.4,2026-10-31 18:11,3.359,0.0121
+england-league-two,72342368,2026-11-14 15:00,Port Vale,Accrington Stanley,total,latest,2.25,over,1.85,2026-11-08 19:20,1.963,-0.0503
+england-league-two,72342368,2026-11-14 15:00,Port Vale,Accrington Stanley,total,latest,2.25,under,2,2026-11-08 19:20,2.038,-0.0162
+england-league-two,72342374,2026-11-14 15:00,Salford City,Northampton Town,ah,opening,-0.75,home,1.8,2026-10-31 18:53,2.052,-0.1075
+england-league-two,72342374,2026-11-14 15:00,Salford City,Northampton Town,ah,opening,-0.75,away,2.05,2026-10-31 18:53,1.95,0.0447
+england-league-two,72342374,2026-11-14 15:00,Salford City,Northampton Town,ah,latest,-0.75,home,1.8,2026-11-12 11:35,2.052,-0.1075
+england-league-two,72342374,2026-11-14 15:00,Salford City,Northampton Town,ah,latest,-0.75,away,2.05,2026-11-12 11:35,1.95,0.0447
+england-league-two,72342374,2026-11-14 15:00,Salford City,Northampton Town,total,opening,3.5,over,3,2026-10-31 18:39,3.952,-0.241
+england-league-two,72342374,2026-11-14 15:00,Salford City,Northampton Town,total,opening,3.5,under,1.363,2026-10-31 18:39,1.339,0.0182
+england-league-two,72342374,2026-11-14 15:00,Salford City,Northampton Town,total,latest,2.5,over,1.975,2026-11-11 08:05,2.133,-0.0742
+england-league-two,72342374,2026-11-14 15:00,Salford City,Northampton Town,total,latest,2.5,under,1.875,2026-11-11 08:05,1.882,-0.0039
+england-league-two,72342376,2026-11-14 15:00,Shrewsbury Town,Oldham Athletic,ah,opening,0.0,home,2,2026-10-31 19:04,2.299,-0.0948
+england-league-two,72342376,2026-11-14 15:00,Shrewsbury Town,Oldham Athletic,ah,opening,0.0,away,1.85,2026-10-31 19:04,1.77,0.033
+england-league-two,72342376,2026-11-14 15:00,Shrewsbury Town,Oldham Athletic,ah,latest,0.0,home,1.85,2026-11-11 12:40,2.299,-0.1423
+england-league-two,72342376,2026-11-14 15:00,Shrewsbury Town,Oldham Athletic,ah,latest,0.0,away,2,2026-11-11 12:40,1.77,0.0948
+england-league-two,72342376,2026-11-14 15:00,Shrewsbury Town,Oldham Athletic,total,opening,1.5,over,1.3,2026-10-31 18:44,1.419,-0.0836
+england-league-two,72342376,2026-11-14 15:00,Shrewsbury Town,Oldham Athletic,total,opening,1.5,under,3.4,2026-10-31 18:44,3.389,0.0032
+england-league-two,72342376,2026-11-14 15:00,Shrewsbury Town,Oldham Athletic,total,latest,2.5,over,2,2026-11-12 14:30,2.239,-0.1069
+england-league-two,72342376,2026-11-14 15:00,Shrewsbury Town,Oldham Athletic,total,latest,2.5,under,1.85,2026-11-12 14:30,1.807,0.0239
+england-league-two,72342378,2026-11-14 15:00,Swindon Town,Grimsby Town,ah,opening,0.5,home,1.825,2026-10-31 19:23,1.834,-0.005
+england-league-two,72342378,2026-11-14 15:00,Swindon Town,Grimsby Town,ah,opening,0.5,away,2.025,2026-10-31 19:23,2.199,-0.079
+england-league-two,72342378,2026-11-14 15:00,Swindon Town,Grimsby Town,ah,latest,0.5,home,1.8,2026-11-12 16:39,1.834,-0.0186
+england-league-two,72342378,2026-11-14 15:00,Swindon Town,Grimsby Town,ah,latest,0.5,away,2.05,2026-11-12 16:39,2.199,-0.0677
+england-league-two,72342378,2026-11-14 15:00,Swindon Town,Grimsby Town,total,opening,3.5,over,2.375,2026-10-31 19:06,3.792,-0.3737
+england-league-two,72342378,2026-11-14 15:00,Swindon Town,Grimsby Town,total,opening,3.5,under,1.533,2026-10-31 19:06,1.358,0.1287
+england-league-two,72342378,2026-11-14 15:00,Swindon Town,Grimsby Town,total,latest,3.0,over,2.05,2026-11-12 18:03,2.967,-0.2419
+england-league-two,72342378,2026-11-14 15:00,Swindon Town,Grimsby Town,total,latest,3.0,under,1.8,2026-11-12 18:03,1.508,0.1513
+england-league-two,72342380,2026-11-14 15:00,Walsall FC,Barnet FC,ah,opening,0.25,home,1.775,2026-10-31 19:09,2.032,-0.1119
+england-league-two,72342380,2026-11-14 15:00,Walsall FC,Barnet FC,ah,opening,0.25,away,2.1,2026-10-31 19:09,1.969,0.059
+england-league-two,72342380,2026-11-14 15:00,Walsall FC,Barnet FC,ah,latest,0.25,home,1.825,2026-11-10 01:21,2.032,-0.0902
+england-league-two,72342380,2026-11-14 15:00,Walsall FC,Barnet FC,ah,latest,0.25,away,2.025,2026-11-10 01:21,1.969,0.0253
+england-league-two,72342380,2026-11-14 15:00,Walsall FC,Barnet FC,total,opening,3.5,over,2.625,2026-10-31 18:42,2.566,0.0228
+england-league-two,72342380,2026-11-14 15:00,Walsall FC,Barnet FC,total,opening,3.5,under,1.444,2026-10-31 18:42,1.638,-0.1187
+england-league-two,72342380,2026-11-14 15:00,Walsall FC,Barnet FC,total,latest,2.75,over,1.825,2026-10-31 19:09,1.773,0.0262
+england-league-two,72342380,2026-11-14 15:00,Walsall FC,Barnet FC,total,latest,2.75,under,2.025,2026-10-31 19:09,2.294,-0.1042
+poland-ii-liga,72398824,2026-11-14 15:00,MKS Chojniczanka Chojnice,Zawisza Bydgoszcz,ah,opening,-0.25,home,1.95,2026-11-10 13:06,1.906,0.0206
+poland-ii-liga,72398824,2026-11-14 15:00,MKS Chojniczanka Chojnice,Zawisza Bydgoszcz,ah,opening,-0.25,away,1.85,2026-11-10 13:06,2.104,-0.1067
+poland-ii-liga,72398824,2026-11-14 15:00,MKS Chojniczanka Chojnice,Zawisza Bydgoszcz,ah,latest,-0.25,home,1.95,2026-11-10 13:06,1.906,0.0206
+poland-ii-liga,72398824,2026-11-14 15:00,MKS Chojniczanka Chojnice,Zawisza Bydgoszcz,ah,latest,-0.25,away,1.85,2026-11-10 13:06,2.104,-0.1067
+poland-ii-liga,72398824,2026-11-14 15:00,MKS Chojniczanka Chojnice,Zawisza Bydgoszcz,total,opening,3.5,over,2.25,2026-11-10 12:55,2.662,-0.1546
+poland-ii-liga,72398824,2026-11-14 15:00,MKS Chojniczanka Chojnice,Zawisza Bydgoszcz,total,opening,3.5,under,1.571,2026-11-10 12:55,1.602,-0.0193
+poland-ii-liga,72398824,2026-11-14 15:00,MKS Chojniczanka Chojnice,Zawisza Bydgoszcz,total,latest,3.0,over,1.825,2026-11-10 13:06,2.066,-0.0907
+poland-ii-liga,72398824,2026-11-14 15:00,MKS Chojniczanka Chojnice,Zawisza Bydgoszcz,total,latest,3.0,under,1.975,2026-11-10 13:06,1.938,0.0149
+spain-laliga-2,72477598,2026-11-14 15:15,Real Sociedad San Sebastian B,Sporting Gijon,ah,opening,0.25,home,1.8,2026-11-09 20:23,1.68,0.062
+spain-laliga-2,72477598,2026-11-14 15:15,Real Sociedad San Sebastian B,Sporting Gijon,ah,opening,0.25,away,2,2026-11-09 20:23,2.471,-0.165
+spain-laliga-2,72477598,2026-11-14 15:15,Real Sociedad San Sebastian B,Sporting Gijon,ah,latest,0.0,home,1.75,2026-11-12 07:55,1.921,-0.0651
+spain-laliga-2,72477598,2026-11-14 15:15,Real Sociedad San Sebastian B,Sporting Gijon,ah,latest,0.0,away,2.05,2026-11-12 07:55,2.085,-0.0124
+spain-laliga-2,72477598,2026-11-14 15:15,Real Sociedad San Sebastian B,Sporting Gijon,total,opening,3.5,over,3,2026-11-09 19:56,4.145,-0.2762
+spain-laliga-2,72477598,2026-11-14 15:15,Real Sociedad San Sebastian B,Sporting Gijon,total,opening,3.5,under,1.363,2026-11-09 19:56,1.318,0.0341
+spain-laliga-2,72477598,2026-11-14 15:15,Real Sociedad San Sebastian B,Sporting Gijon,total,latest,2.5,over,2,2026-11-11 21:22,2.199,-0.0904
+spain-laliga-2,72477598,2026-11-14 15:15,Real Sociedad San Sebastian B,Sporting Gijon,total,latest,2.5,under,1.8,2026-11-11 21:22,1.834,-0.0187
+netherlands-eerste-divisie,72044810,2026-11-14 15:30,NAC Breda,FC Emmen,ah,opening,-1.0,home,1.85,2026-11-09 12:00,2.001,-0.0584
+netherlands-eerste-divisie,72044810,2026-11-14 15:30,NAC Breda,FC Emmen,ah,opening,-1.0,away,1.95,2026-11-09 12:00,1.999,-0.0192
+netherlands-eerste-divisie,72044810,2026-11-14 15:30,NAC Breda,FC Emmen,ah,latest,-1.0,home,1.825,2026-11-11 23:34,2.001,-0.0682
+netherlands-eerste-divisie,72044810,2026-11-14 15:30,NAC Breda,FC Emmen,ah,latest,-1.0,away,1.975,2026-11-11 23:34,1.999,-0.0095
+netherlands-eerste-divisie,72044810,2026-11-14 15:30,NAC Breda,FC Emmen,total,opening,3.5,over,2.1,2026-11-09 11:25,2.245,-0.0647
+netherlands-eerste-divisie,72044810,2026-11-14 15:30,NAC Breda,FC Emmen,total,opening,3.5,under,1.666,2026-11-09 11:25,1.803,-0.076
+netherlands-eerste-divisie,72044810,2026-11-14 15:30,NAC Breda,FC Emmen,total,latest,3.25,over,1.95,2026-11-09 12:00,2.0,-0.0224
+netherlands-eerste-divisie,72044810,2026-11-14 15:30,NAC Breda,FC Emmen,total,latest,3.25,under,1.85,2026-11-09 12:00,2.0,-0.0667
+spain-amateur-tercera-federacion-group-7,73581356,2026-11-14 16:00,Mexico FC,CD Leganes B,ah,opening,0.25,home,1.9,2026-11-12 16:22,1.918,-0.0081
+spain-amateur-tercera-federacion-group-7,73581356,2026-11-14 16:00,Mexico FC,CD Leganes B,ah,opening,0.25,away,1.9,2026-11-12 16:22,2.09,-0.0797
+spain-amateur-tercera-federacion-group-7,73581356,2026-11-14 16:00,Mexico FC,CD Leganes B,ah,latest,0.25,home,1.9,2026-11-12 16:22,1.918,-0.0081
+spain-amateur-tercera-federacion-group-7,73581356,2026-11-14 16:00,Mexico FC,CD Leganes B,ah,latest,0.25,away,1.9,2026-11-12 16:22,2.09,-0.0797
+spain-amateur-tercera-federacion-group-7,73581356,2026-11-14 16:00,Mexico FC,CD Leganes B,total,opening,2.5,over,1.875,2026-11-12 16:22,1.747,0.0732
+spain-amateur-tercera-federacion-group-7,73581356,2026-11-14 16:00,Mexico FC,CD Leganes B,total,opening,2.5,under,1.925,2026-11-12 16:22,2.338,-0.1768
+spain-amateur-tercera-federacion-group-7,73581356,2026-11-14 16:00,Mexico FC,CD Leganes B,total,latest,2.5,over,1.875,2026-11-12 16:22,1.747,0.0732
+spain-amateur-tercera-federacion-group-7,73581356,2026-11-14 16:00,Mexico FC,CD Leganes B,total,latest,2.5,under,1.925,2026-11-12 16:22,2.338,-0.1768
+italy-serie-c-group-a,73293338,2026-11-14 16:30,AC Carpi,AS Giana Erminio,ah,opening,0.0,home,1.775,2026-11-10 16:16,1.761,0.006
+italy-serie-c-group-a,73293338,2026-11-14 16:30,AC Carpi,AS Giana Erminio,ah,opening,0.0,away,2.025,2026-11-10 16:16,2.315,-0.0918
+italy-serie-c-group-a,73293338,2026-11-14 16:30,AC Carpi,AS Giana Erminio,ah,latest,-0.25,home,1.95,2026-11-12 18:49,2.08,-0.0541
+italy-serie-c-group-a,73293338,2026-11-14 16:30,AC Carpi,AS Giana Erminio,ah,latest,-0.25,away,1.85,2026-11-12 18:49,1.926,-0.0343
+italy-serie-c-group-a,73293338,2026-11-14 16:30,AC Carpi,AS Giana Erminio,total,opening,1.5,over,1.3,2026-11-10 16:03,1.389,-0.064
+italy-serie-c-group-a,73293338,2026-11-14 16:30,AC Carpi,AS Giana Erminio,total,opening,1.5,under,3.4,2026-11-10 16:03,3.572,-0.0481
+italy-serie-c-group-a,73293338,2026-11-14 16:30,AC Carpi,AS Giana Erminio,total,latest,2.5,over,1.85,2026-11-12 18:49,2.149,-0.139
+italy-serie-c-group-a,73293338,2026-11-14 16:30,AC Carpi,AS Giana Erminio,total,latest,2.5,under,1.95,2026-11-12 18:49,1.871,0.0424
+italy-serie-c-group-a,73293344,2026-11-14 16:30,AC Lumezzane,AC Trento,ah,opening,0.5,home,1.925,2026-11-10 17:17,1.847,0.0423
+italy-serie-c-group-a,73293344,2026-11-14 16:30,AC Lumezzane,AC Trento,ah,opening,0.5,away,1.875,2026-11-10 17:17,2.181,-0.1402
+italy-serie-c-group-a,73293344,2026-11-14 16:30,AC Lumezzane,AC Trento,ah,latest,0.5,home,1.975,2026-11-12 12:48,1.847,0.0693
+italy-serie-c-group-a,73293344,2026-11-14 16:30,AC Lumezzane,AC Trento,ah,latest,0.5,away,1.825,2026-11-12 12:48,2.181,-0.1631
+italy-serie-c-group-a,73293344,2026-11-14 16:30,AC Lumezzane,AC Trento,total,opening,3.5,over,3,2026-11-10 16:08,4.497,-0.3329
+italy-serie-c-group-a,73293344,2026-11-14 16:30,AC Lumezzane,AC Trento,total,opening,3.5,under,1.363,2026-11-10 16:08,1.286,0.0599
+italy-serie-c-group-a,73293344,2026-11-14 16:30,AC Lumezzane,AC Trento,total,latest,2.5,over,1.8,2026-11-12 12:48,2.317,-0.223
+italy-serie-c-group-a,73293344,2026-11-14 16:30,AC Lumezzane,AC Trento,total,latest,2.5,under,2,2026-11-12 12:48,1.759,0.1367
+italy-serie-c-group-b,73294080,2026-11-14 16:30,AS Gubbio,US Grosseto,ah,opening,0.25,home,1.8,2026-11-10 14:55,1.66,0.0716
+italy-serie-c-group-b,73294080,2026-11-14 16:30,AS Gubbio,US Grosseto,ah,opening,0.25,away,2,2026-11-10 14:55,2.514,-0.1743
+italy-serie-c-group-b,73294080,2026-11-14 16:30,AS Gubbio,US Grosseto,ah,latest,0.0,home,2.025,2026-11-12 18:52,1.927,0.0359
+italy-serie-c-group-b,73294080,2026-11-14 16:30,AS Gubbio,US Grosseto,ah,latest,0.0,away,1.775,2026-11-12 18:52,2.079,-0.103
+italy-serie-c-group-b,73294080,2026-11-14 16:30,AS Gubbio,US Grosseto,total,opening,3.5,over,3.4,2026-11-10 14:48,5.846,-0.4184
+italy-serie-c-group-b,73294080,2026-11-14 16:30,AS Gubbio,US Grosseto,total,opening,3.5,under,1.3,2026-11-10 14:48,1.206,0.0776
+italy-serie-c-group-b,73294080,2026-11-14 16:30,AS Gubbio,US Grosseto,total,latest,2.75,over,1.975,2026-11-12 18:52,3.377,-0.3751
+italy-serie-c-group-b,73294080,2026-11-14 16:30,AS Gubbio,US Grosseto,total,latest,2.75,under,1.825,2026-11-12 18:52,1.421,0.2571
+italy-serie-c-group-c,73294824,2026-11-14 16:30,SSC Bari,Calcio Foggia,ah,opening,-0.5,home,1.85,2026-11-10 15:37,2.111,-0.1235
+italy-serie-c-group-c,73294824,2026-11-14 16:30,SSC Bari,Calcio Foggia,ah,opening,-0.5,away,1.95,2026-11-10 15:37,1.9,0.0262
+italy-serie-c-group-c,73294824,2026-11-14 16:30,SSC Bari,Calcio Foggia,ah,latest,-0.5,home,1.85,2026-11-12 16:31,2.111,-0.1235
+italy-serie-c-group-c,73294824,2026-11-14 16:30,SSC Bari,Calcio Foggia,ah,latest,-0.5,away,1.95,2026-11-12 16:31,1.9,0.0262
+italy-serie-c-group-c,73294824,2026-11-14 16:30,SSC Bari,Calcio Foggia,total,opening,1.5,over,1.333,2026-11-10 15:24,1.679,-0.206
+italy-serie-c-group-c,73294824,2026-11-14 16:30,SSC Bari,Calcio Foggia,total,opening,1.5,under,3.25,2026-11-10 15:24,2.473,0.3142
+italy-serie-c-group-c,73294824,2026-11-14 16:30,SSC Bari,Calcio Foggia,total,latest,2.25,over,1.9,2026-11-12 16:31,2.661,-0.2472
+italy-serie-c-group-c,73294824,2026-11-14 16:30,SSC Bari,Calcio Foggia,total,latest,2.25,under,1.9,2026-11-12 16:31,1.602,0.1608
+england-league-two,72342366,2026-11-14 17:30,Fleetwood Town,Tranmere Rovers FC,ah,opening,-0.5,home,2.025,2026-10-31 19:18,2.238,-0.0954
+england-league-two,72342366,2026-11-14 17:30,Fleetwood Town,Tranmere Rovers FC,ah,opening,-0.5,away,1.825,2026-10-31 19:18,1.807,0.0097
+england-league-two,72342366,2026-11-14 17:30,Fleetwood Town,Tranmere Rovers FC,ah,latest,-0.5,home,1.975,2026-11-11 12:02,2.238,-0.1177
+england-league-two,72342366,2026-11-14 17:30,Fleetwood Town,Tranmere Rovers FC,ah,latest,-0.5,away,1.875,2026-11-11 12:02,1.807,0.0374
+england-league-two,72342366,2026-11-14 17:30,Fleetwood Town,Tranmere Rovers FC,total,opening,3.5,over,3,2026-10-31 18:37,4.39,-0.3167
+england-league-two,72342366,2026-11-14 17:30,Fleetwood Town,Tranmere Rovers FC,total,opening,3.5,under,1.363,2026-10-31 18:37,1.295,0.0526
+england-league-two,72342366,2026-11-14 17:30,Fleetwood Town,Tranmere Rovers FC,total,latest,2.5,over,1.85,2026-11-08 19:30,2.281,-0.1891
+england-league-two,72342366,2026-11-14 17:30,Fleetwood Town,Tranmere Rovers FC,total,latest,2.5,under,2,2026-11-08 19:30,1.78,0.1233
+spain-primera-federacion-group-2,73068198,2026-11-14 17:30,CE Europa,UE Sant Andreu,ah,opening,0.0,home,1.875,2026-11-10 13:50,1.86,0.0059
+spain-primera-federacion-group-2,73068198,2026-11-14 17:30,CE Europa,UE Sant Andreu,ah,opening,0.0,away,1.925,2026-11-10 13:50,2.163,-0.0785
+spain-primera-federacion-group-2,73068198,2026-11-14 17:30,CE Europa,UE Sant Andreu,ah,latest,0.0,home,1.9,2026-11-12 15:05,1.86,0.0154
+spain-primera-federacion-group-2,73068198,2026-11-14 17:30,CE Europa,UE Sant Andreu,ah,latest,0.0,away,1.9,2026-11-12 15:05,2.163,-0.0867
+spain-primera-federacion-group-2,73068198,2026-11-14 17:30,CE Europa,UE Sant Andreu,total,opening,1.5,over,1.3,2026-11-10 13:42,1.525,-0.1475
+spain-primera-federacion-group-2,73068198,2026-11-14 17:30,CE Europa,UE Sant Andreu,total,opening,1.5,under,3.4,2026-11-10 13:42,2.905,0.1705
+spain-primera-federacion-group-2,73068198,2026-11-14 17:30,CE Europa,UE Sant Andreu,total,latest,2.25,over,1.9,2026-11-12 10:26,2.229,-0.1279
+spain-primera-federacion-group-2,73068198,2026-11-14 17:30,CE Europa,UE Sant Andreu,total,latest,2.25,under,1.9,2026-11-12 10:26,1.814,0.0413
+spain-laliga-2,72477584,2026-11-14 17:30,UD Almeria,FC Andorra,ah,opening,-0.75,home,1.775,2026-11-09 20:11,1.955,-0.0814
+spain-laliga-2,72477584,2026-11-14 17:30,UD Almeria,FC Andorra,ah,opening,-0.75,away,2.025,2026-11-09 20:11,2.047,-0.0097
+spain-laliga-2,72477584,2026-11-14 17:30,UD Almeria,FC Andorra,ah,latest,-0.75,home,1.775,2026-11-11 19:32,1.955,-0.0814
+spain-laliga-2,72477584,2026-11-14 17:30,UD Almeria,FC Andorra,ah,latest,-0.75,away,2.025,2026-11-11 19:32,2.047,-0.0097
+spain-laliga-2,72477584,2026-11-14 17:30,UD Almeria,FC Andorra,total,opening,3.5,over,2.5,2026-11-09 19:52,2.587,-0.0335
+spain-laliga-2,72477584,2026-11-14 17:30,UD Almeria,FC Andorra,total,opening,3.5,under,1.5,2026-11-09 19:52,1.63,-0.0799
+spain-laliga-2,72477584,2026-11-14 17:30,UD Almeria,FC Andorra,total,latest,3.0,over,1.95,2026-11-11 00:20,2.009,-0.0229
+spain-laliga-2,72477584,2026-11-14 17:30,UD Almeria,FC Andorra,total,latest,3.0,under,1.85,2026-11-11 00:20,1.991,-0.0549
+spain-laliga-2,72477594,2026-11-14 17:30,RCD Mallorca,Cordoba CF,ah,opening,-0.75,home,1.8,2026-11-09 20:05,2.107,-0.1277
+spain-laliga-2,72477594,2026-11-14 17:30,RCD Mallorca,Cordoba CF,ah,opening,-0.75,away,2,2026-11-09 20:05,1.903,0.0445
+spain-laliga-2,72477594,2026-11-14 17:30,RCD Mallorca,Cordoba CF,ah,latest,-0.5,home,1.9,2026-11-12 19:07,1.853,0.0253
+spain-laliga-2,72477594,2026-11-14 17:30,RCD Mallorca,Cordoba CF,ah,latest,-0.5,away,1.9,2026-11-12 19:07,2.172,-0.1253
+spain-laliga-2,72477594,2026-11-14 17:30,RCD Mallorca,Cordoba CF,total,opening,3.5,over,2.5,2026-11-09 19:45,3.791,-0.3406
+spain-laliga-2,72477594,2026-11-14 17:30,RCD Mallorca,Cordoba CF,total,opening,3.5,under,1.5,2026-11-09 19:45,1.358,0.1043
+spain-laliga-2,72477594,2026-11-14 17:30,RCD Mallorca,Cordoba CF,total,latest,3.0,over,1.95,2026-11-12 19:07,2.966,-0.2681
+spain-laliga-2,72477594,2026-11-14 17:30,RCD Mallorca,Cordoba CF,total,latest,3.0,under,1.85,2026-11-12 19:07,1.509,0.1771
+netherlands-eerste-divisie,72044812,2026-11-14 19:00,Almere City FC,Helmond Sport,ah,opening,-1.25,home,1.9,2026-11-09 11:28,2.168,-0.1096
+netherlands-eerste-divisie,72044812,2026-11-14 19:00,Almere City FC,Helmond Sport,ah,opening,-1.25,away,1.9,2026-11-09 11:28,1.856,0.0208
+netherlands-eerste-divisie,72044812,2026-11-14 19:00,Almere City FC,Helmond Sport,ah,latest,-1.25,home,1.9,2026-11-09 11:28,2.168,-0.1096
+netherlands-eerste-divisie,72044812,2026-11-14 19:00,Almere City FC,Helmond Sport,ah,latest,-1.25,away,1.9,2026-11-09 11:28,1.856,0.0208
+netherlands-eerste-divisie,72044812,2026-11-14 19:00,Almere City FC,Helmond Sport,total,opening,3.5,over,1.833,2026-11-09 11:19,2.251,-0.1857
+netherlands-eerste-divisie,72044812,2026-11-14 19:00,Almere City FC,Helmond Sport,total,opening,3.5,under,1.833,2026-11-09 11:19,1.799,0.0187
+netherlands-eerste-divisie,72044812,2026-11-14 19:00,Almere City FC,Helmond Sport,total,latest,3.5,over,1.975,2026-11-12 07:32,2.251,-0.1226
+netherlands-eerste-divisie,72044812,2026-11-14 19:00,Almere City FC,Helmond Sport,total,latest,3.5,under,1.825,2026-11-12 07:32,1.799,0.0142
+netherlands-eerste-divisie,72044814,2026-11-14 19:00,De Graafschap,TOP Oss,ah,opening,-1.0,home,1.975,2026-11-09 11:23,2.09,-0.0429
+netherlands-eerste-divisie,72044814,2026-11-14 19:00,De Graafschap,TOP Oss,ah,opening,-1.0,away,1.825,2026-11-09 11:23,1.918,-0.0377
+netherlands-eerste-divisie,72044814,2026-11-14 19:00,De Graafschap,TOP Oss,ah,latest,-1.0,home,1.975,2026-11-09 11:23,2.09,-0.0429
+netherlands-eerste-divisie,72044814,2026-11-14 19:00,De Graafschap,TOP Oss,ah,latest,-1.0,away,1.825,2026-11-09 11:23,1.918,-0.0377
+netherlands-eerste-divisie,72044814,2026-11-14 19:00,De Graafschap,TOP Oss,total,opening,3.5,over,1.833,2026-11-09 11:16,2.137,-0.1421
+netherlands-eerste-divisie,72044814,2026-11-14 19:00,De Graafschap,TOP Oss,total,opening,3.5,under,1.833,2026-11-09 11:16,1.88,-0.0249
+netherlands-eerste-divisie,72044814,2026-11-14 19:00,De Graafschap,TOP Oss,total,latest,3.5,over,1.975,2026-11-09 21:51,2.137,-0.0756
+netherlands-eerste-divisie,72044814,2026-11-14 19:00,De Graafschap,TOP Oss,total,latest,3.5,under,1.825,2026-11-09 21:51,1.88,-0.0292
+netherlands-eerste-divisie,72044816,2026-11-14 19:00,FC Dordrecht,Heracles Almelo,ah,opening,1.25,home,1.95,2026-11-09 11:58,1.867,0.0396
+netherlands-eerste-divisie,72044816,2026-11-14 19:00,FC Dordrecht,Heracles Almelo,ah,opening,1.25,away,1.85,2026-11-09 11:58,2.153,-0.1258
+netherlands-eerste-divisie,72044816,2026-11-14 19:00,FC Dordrecht,Heracles Almelo,ah,latest,1.25,home,1.95,2026-11-09 11:58,1.867,0.0396
+netherlands-eerste-divisie,72044816,2026-11-14 19:00,FC Dordrecht,Heracles Almelo,ah,latest,1.25,away,1.85,2026-11-09 11:58,2.153,-0.1258
+netherlands-eerste-divisie,72044816,2026-11-14 19:00,FC Dordrecht,Heracles Almelo,total,opening,3.5,over,2.1,2026-11-09 11:24,1.9,0.1051
+netherlands-eerste-divisie,72044816,2026-11-14 19:00,FC Dordrecht,Heracles Almelo,total,opening,3.5,under,1.666,2026-11-09 11:24,2.111,-0.2107
+netherlands-eerste-divisie,72044816,2026-11-14 19:00,FC Dordrecht,Heracles Almelo,total,latest,3.25,over,1.925,2026-11-12 19:50,1.706,0.1154
+netherlands-eerste-divisie,72044816,2026-11-14 19:00,FC Dordrecht,Heracles Almelo,total,latest,3.25,under,1.875,2026-11-12 19:50,2.417,-0.2013
+netherlands-eerste-divisie,72044818,2026-11-14 19:00,RKC Waalwijk,FC Den Bosch,ah,opening,-0.5,home,1.875,2026-11-09 11:38,1.827,0.0263
+netherlands-eerste-divisie,72044818,2026-11-14 19:00,RKC Waalwijk,FC Den Bosch,ah,opening,-0.5,away,1.925,2026-11-09 11:38,2.209,-0.1287
+netherlands-eerste-divisie,72044818,2026-11-14 19:00,RKC Waalwijk,FC Den Bosch,ah,latest,-0.5,home,1.875,2026-11-09 11:38,1.827,0.0263
+netherlands-eerste-divisie,72044818,2026-11-14 19:00,RKC Waalwijk,FC Den Bosch,ah,latest,-0.5,away,1.925,2026-11-09 11:38,2.209,-0.1287
+netherlands-eerste-divisie,72044818,2026-11-14 19:00,RKC Waalwijk,FC Den Bosch,total,opening,3.5,over,1.909,2026-11-09 11:23,2.474,-0.2284
+netherlands-eerste-divisie,72044818,2026-11-14 19:00,RKC Waalwijk,FC Den Bosch,total,opening,3.5,under,1.8,2026-11-09 11:23,1.678,0.0725
+netherlands-eerste-divisie,72044818,2026-11-14 19:00,RKC Waalwijk,FC Den Bosch,total,latest,3.5,over,2,2026-11-12 05:38,2.474,-0.1917
+netherlands-eerste-divisie,72044818,2026-11-14 19:00,RKC Waalwijk,FC Den Bosch,total,latest,3.5,under,1.8,2026-11-12 05:38,1.678,0.0725
+netherlands-eerste-divisie,72044820,2026-11-14 19:00,Roda JC Kerkrade,FC Volendam,ah,opening,-0.5,home,1.95,2026-11-09 11:30,2.128,-0.0838
+netherlands-eerste-divisie,72044820,2026-11-14 19:00,Roda JC Kerkrade,FC Volendam,ah,opening,-0.5,away,1.85,2026-11-09 11:30,1.886,-0.0192
+netherlands-eerste-divisie,72044820,2026-11-14 19:00,Roda JC Kerkrade,FC Volendam,ah,latest,-0.5,home,1.95,2026-11-09 11:30,2.128,-0.0838
+netherlands-eerste-divisie,72044820,2026-11-14 19:00,Roda JC Kerkrade,FC Volendam,ah,latest,-0.5,away,1.85,2026-11-09 11:30,1.886,-0.0192
+netherlands-eerste-divisie,72044820,2026-11-14 19:00,Roda JC Kerkrade,FC Volendam,total,opening,3.5,over,2.1,2026-11-09 11:24,2.609,-0.195
+netherlands-eerste-divisie,72044820,2026-11-14 19:00,Roda JC Kerkrade,FC Volendam,total,opening,3.5,under,1.666,2026-11-09 11:24,1.622,0.0274
+netherlands-eerste-divisie,72044820,2026-11-14 19:00,Roda JC Kerkrade,FC Volendam,total,latest,3.25,over,1.9,2026-11-09 11:30,2.317,-0.16
+netherlands-eerste-divisie,72044820,2026-11-14 19:00,Roda JC Kerkrade,FC Volendam,total,latest,3.25,under,1.9,2026-11-09 11:30,1.759,0.0711
+netherlands-eerste-divisie,72044822,2026-11-14 19:00,VVV Venlo,FC Eindhoven,ah,opening,-0.75,home,1.775,2026-11-09 11:52,1.88,-0.0497
+netherlands-eerste-divisie,72044822,2026-11-14 19:00,VVV Venlo,FC Eindhoven,ah,opening,-0.75,away,2.025,2026-11-09 11:52,2.137,-0.0467
+netherlands-eerste-divisie,72044822,2026-11-14 19:00,VVV Venlo,FC Eindhoven,ah,latest,-1.0,home,1.975,2026-11-12 04:33,2.136,-0.0592
+netherlands-eerste-divisie,72044822,2026-11-14 19:00,VVV Venlo,FC Eindhoven,ah,latest,-1.0,away,1.825,2026-11-12 04:33,1.88,-0.0231
+netherlands-eerste-divisie,72044822,2026-11-14 19:00,VVV Venlo,FC Eindhoven,total,opening,3.5,over,2.1,2026-11-09 11:45,2.007,0.0464
+netherlands-eerste-divisie,72044822,2026-11-14 19:00,VVV Venlo,FC Eindhoven,total,opening,3.5,under,1.666,2026-11-09 11:45,1.993,-0.1641
+netherlands-eerste-divisie,72044822,2026-11-14 19:00,VVV Venlo,FC Eindhoven,total,latest,3.25,over,1.925,2026-11-11 12:42,1.796,0.0642
+netherlands-eerste-divisie,72044822,2026-11-14 19:00,VVV Venlo,FC Eindhoven,total,latest,3.25,under,1.875,2026-11-11 12:42,2.256,-0.1512
+belgium-nationale-1-vv,72533332,2026-11-14 19:00,K. Lyra-Lierse,KFC Dessel Sport,ah,opening,0.25,home,1.875,2026-11-12 15:46,1.807,0.0334
+belgium-nationale-1-vv,72533332,2026-11-14 19:00,K. Lyra-Lierse,KFC Dessel Sport,ah,opening,0.25,away,1.925,2026-11-12 15:46,2.239,-0.1249
+belgium-nationale-1-vv,72533332,2026-11-14 19:00,K. Lyra-Lierse,KFC Dessel Sport,ah,latest,0.5,home,1.85,2026-11-12 19:46,1.662,0.1134
+belgium-nationale-1-vv,72533332,2026-11-14 19:00,K. Lyra-Lierse,KFC Dessel Sport,ah,latest,0.5,away,1.95,2026-11-12 19:46,2.512,-0.2236
+belgium-nationale-1-vv,72533332,2026-11-14 19:00,K. Lyra-Lierse,KFC Dessel Sport,total,opening,3.25,over,1.9,2026-11-12 15:46,1.8,0.0499
+belgium-nationale-1-vv,72533332,2026-11-14 19:00,K. Lyra-Lierse,KFC Dessel Sport,total,opening,3.25,under,1.9,2026-11-12 15:46,2.25,-0.1393
+belgium-nationale-1-vv,72533332,2026-11-14 19:00,K. Lyra-Lierse,KFC Dessel Sport,total,latest,3.25,over,1.85,2026-11-12 19:46,1.8,0.025
+belgium-nationale-1-vv,72533332,2026-11-14 19:00,K. Lyra-Lierse,KFC Dessel Sport,total,latest,3.25,under,1.95,2026-11-12 19:46,2.25,-0.1195
+spain-laliga-2,72477596,2026-11-14 20:00,Real Oviedo,Girona FC,ah,opening,0.0,home,1.9,2026-11-09 20:06,1.913,-0.0049
+spain-laliga-2,72477596,2026-11-14 20:00,Real Oviedo,Girona FC,ah,opening,0.0,away,1.9,2026-11-09 20:06,2.096,-0.0695
+spain-laliga-2,72477596,2026-11-14 20:00,Real Oviedo,Girona FC,ah,latest,-0.25,home,2.05,2026-11-12 08:25,2.242,-0.0748
+spain-laliga-2,72477596,2026-11-14 20:00,Real Oviedo,Girona FC,ah,latest,-0.25,away,1.75,2026-11-12 08:25,1.805,-0.0265
+spain-laliga-2,72477596,2026-11-14 20:00,Real Oviedo,Girona FC,total,opening,1.5,over,1.363,2026-11-09 19:44,1.323,0.0305
+spain-laliga-2,72477596,2026-11-14 20:00,Real Oviedo,Girona FC,total,opening,1.5,under,3,2026-11-09 19:44,4.099,-0.2681
+spain-laliga-2,72477596,2026-11-14 20:00,Real Oviedo,Girona FC,total,latest,2.5,over,2,2026-11-11 20:33,1.95,0.0255
+spain-laliga-2,72477596,2026-11-14 20:00,Real Oviedo,Girona FC,total,latest,2.5,under,1.8,2026-11-11 20:33,2.052,-0.1229
+czechia-msfl,72597864,2026-11-15 09:15,MFK Havirov,FK Blansko,ah,opening,-0.25,home,2,2026-11-12 05:17,1.906,0.0434
+czechia-msfl,72597864,2026-11-15 09:15,MFK Havirov,FK Blansko,ah,opening,-0.25,away,1.8,2026-11-12 05:17,2.104,-0.1269
+czechia-msfl,72597864,2026-11-15 09:15,MFK Havirov,FK Blansko,ah,latest,-0.25,home,2,2026-11-12 05:17,1.906,0.0434
+czechia-msfl,72597864,2026-11-15 09:15,MFK Havirov,FK Blansko,ah,latest,-0.25,away,1.8,2026-11-12 05:17,2.104,-0.1269
+czechia-msfl,72597864,2026-11-15 09:15,MFK Havirov,FK Blansko,total,opening,3.0,over,1.8,2026-11-12 05:17,2.354,-0.1826
+czechia-msfl,72597864,2026-11-15 09:15,MFK Havirov,FK Blansko,total,opening,3.0,under,2,2026-11-12 05:17,1.739,0.1167
+czechia-msfl,72597864,2026-11-15 09:15,MFK Havirov,FK Blansko,total,latest,3.0,over,1.8,2026-11-12 05:17,2.354,-0.1826
+czechia-msfl,72597864,2026-11-15 09:15,MFK Havirov,FK Blansko,total,latest,3.0,under,2,2026-11-12 05:17,1.739,0.1167
+slovakia-2-liga,72305332,2026-11-15 09:30,Slovan Bratislava B,OFK Dynamo Malzenice,ah,opening,-0.5,home,1.8,2026-11-10 10:41,2.066,-0.1287
+slovakia-2-liga,72305332,2026-11-15 09:30,Slovan Bratislava B,OFK Dynamo Malzenice,ah,opening,-0.5,away,2,2026-11-10 10:41,1.938,0.0319
+slovakia-2-liga,72305332,2026-11-15 09:30,Slovan Bratislava B,OFK Dynamo Malzenice,ah,latest,-0.5,home,1.85,2026-11-12 15:24,2.066,-0.1045
+slovakia-2-liga,72305332,2026-11-15 09:30,Slovan Bratislava B,OFK Dynamo Malzenice,ah,latest,-0.5,away,1.95,2026-11-12 15:24,1.938,0.0061
+slovakia-2-liga,72305332,2026-11-15 09:30,Slovan Bratislava B,OFK Dynamo Malzenice,total,opening,2.75,over,1.8,2026-11-10 10:41,1.948,-0.0675
+slovakia-2-liga,72305332,2026-11-15 09:30,Slovan Bratislava B,OFK Dynamo Malzenice,total,opening,2.75,under,2,2026-11-10 10:41,2.055,-0.0236
+slovakia-2-liga,72305332,2026-11-15 09:30,Slovan Bratislava B,OFK Dynamo Malzenice,total,latest,2.75,over,1.775,2026-11-12 15:24,1.948,-0.0789
+slovakia-2-liga,72305332,2026-11-15 09:30,Slovan Bratislava B,OFK Dynamo Malzenice,total,latest,2.75,under,2.025,2026-11-12 15:24,2.055,-0.0128
+slovakia-2-liga,72305334,2026-11-15 09:30,MSK Zilina B,FK Inter Bratislava,ah,opening,0.0,home,1.925,2026-11-10 10:46,2.002,-0.0288
+slovakia-2-liga,72305334,2026-11-15 09:30,MSK Zilina B,FK Inter Bratislava,ah,opening,0.0,away,1.875,2026-11-10 10:46,1.998,-0.0463
+slovakia-2-liga,72305334,2026-11-15 09:30,MSK Zilina B,FK Inter Bratislava,ah,latest,0.0,home,1.975,2026-11-12 14:40,2.002,-0.01
+slovakia-2-liga,72305334,2026-11-15 09:30,MSK Zilina B,FK Inter Bratislava,ah,latest,0.0,away,1.825,2026-11-12 14:40,1.998,-0.0651
+slovakia-2-liga,72305334,2026-11-15 09:30,MSK Zilina B,FK Inter Bratislava,total,opening,3.0,over,1.9,2026-11-10 10:46,2.391,-0.1596
+slovakia-2-liga,72305334,2026-11-15 09:30,MSK Zilina B,FK Inter Bratislava,total,opening,3.0,under,1.9,2026-11-10 10:46,1.719,0.0819
+slovakia-2-liga,72305334,2026-11-15 09:30,MSK Zilina B,FK Inter Bratislava,total,latest,3.0,over,1.95,2026-11-12 14:40,2.391,-0.1434
+slovakia-2-liga,72305334,2026-11-15 09:30,MSK Zilina B,FK Inter Bratislava,total,latest,3.0,under,1.85,2026-11-12 14:40,1.719,0.0593
+portugal-liga-portugal-2,72531678,2026-11-15 11:00,CD Tondela,SC Farense,ah,opening,-0.25,home,1.825,2026-11-10 16:06,1.982,-0.0681
+portugal-liga-portugal-2,72531678,2026-11-15 11:00,CD Tondela,SC Farense,ah,opening,-0.25,away,1.975,2026-11-10 16:06,2.018,-0.0183
+portugal-liga-portugal-2,72531678,2026-11-15 11:00,CD Tondela,SC Farense,ah,latest,-0.25,home,1.8,2026-11-11 14:45,1.982,-0.0789
+portugal-liga-portugal-2,72531678,2026-11-15 11:00,CD Tondela,SC Farense,ah,latest,-0.25,away,2,2026-11-11 14:45,2.018,-0.0077
+portugal-liga-portugal-2,72531678,2026-11-15 11:00,CD Tondela,SC Farense,total,opening,1.5,over,1.333,2026-11-10 15:39,1.518,-0.1217
+portugal-liga-portugal-2,72531678,2026-11-15 11:00,CD Tondela,SC Farense,total,opening,1.5,under,3.25,2026-11-10 15:39,2.932,0.1086
+portugal-liga-portugal-2,72531678,2026-11-15 11:00,CD Tondela,SC Farense,total,latest,2.25,over,1.85,2026-11-11 14:45,2.209,-0.141
+portugal-liga-portugal-2,72531678,2026-11-15 11:00,CD Tondela,SC Farense,total,latest,2.25,under,1.95,2026-11-11 14:45,1.827,0.0584
+bulgaria-vtora-liga,72466626,2026-11-15 11:30,PFC Dobrudzha Dobrich,SFC Etar Veliko Tarnovo,ah,opening,0.5,home,1.8,2026-11-09 14:51,1.678,0.0728
+bulgaria-vtora-liga,72466626,2026-11-15 11:30,PFC Dobrudzha Dobrich,SFC Etar Veliko Tarnovo,ah,opening,0.5,away,2,2026-11-09 14:51,2.475,-0.192
+bulgaria-vtora-liga,72466626,2026-11-15 11:30,PFC Dobrudzha Dobrich,SFC Etar Veliko Tarnovo,ah,latest,0.5,home,1.8,2026-11-09 14:51,1.678,0.0728
+bulgaria-vtora-liga,72466626,2026-11-15 11:30,PFC Dobrudzha Dobrich,SFC Etar Veliko Tarnovo,ah,latest,0.5,away,2,2026-11-09 14:51,2.475,-0.192
+bulgaria-vtora-liga,72466626,2026-11-15 11:30,PFC Dobrudzha Dobrich,SFC Etar Veliko Tarnovo,total,opening,2.75,over,1.8,2026-11-09 14:51,2.389,-0.2196
+bulgaria-vtora-liga,72466626,2026-11-15 11:30,PFC Dobrudzha Dobrich,SFC Etar Veliko Tarnovo,total,opening,2.75,under,2,2026-11-09 14:51,1.72,0.145
+bulgaria-vtora-liga,72466626,2026-11-15 11:30,PFC Dobrudzha Dobrich,SFC Etar Veliko Tarnovo,total,latest,2.75,over,1.8,2026-11-09 14:51,2.389,-0.2196
+bulgaria-vtora-liga,72466626,2026-11-15 11:30,PFC Dobrudzha Dobrich,SFC Etar Veliko Tarnovo,total,latest,2.75,under,2,2026-11-09 14:51,1.72,0.145
+italy-serie-c-group-a,73293346,2026-11-15 11:30,Novara FC,Calcio Lecco 1912,ah,opening,0.25,home,1.8,2026-11-10 16:17,1.643,0.0816
+italy-serie-c-group-a,73293346,2026-11-15 11:30,Novara FC,Calcio Lecco 1912,ah,opening,0.25,away,2,2026-11-10 16:17,2.554,-0.1859
+italy-serie-c-group-a,73293346,2026-11-15 11:30,Novara FC,Calcio Lecco 1912,ah,latest,0.25,home,1.8,2026-11-10 16:17,1.643,0.0816
+italy-serie-c-group-a,73293346,2026-11-15 11:30,Novara FC,Calcio Lecco 1912,ah,latest,0.25,away,2,2026-11-10 16:17,2.554,-0.1859
+italy-serie-c-group-a,73293346,2026-11-15 11:30,Novara FC,Calcio Lecco 1912,total,opening,1.5,over,1.3,2026-11-10 16:10,1.518,-0.1435
+italy-serie-c-group-a,73293346,2026-11-15 11:30,Novara FC,Calcio Lecco 1912,total,opening,1.5,under,3.4,2026-11-10 16:10,2.931,0.16
+italy-serie-c-group-a,73293346,2026-11-15 11:30,Novara FC,Calcio Lecco 1912,total,latest,2.5,over,2.025,2026-11-10 16:17,2.55,-0.2058
+italy-serie-c-group-a,73293346,2026-11-15 11:30,Novara FC,Calcio Lecco 1912,total,latest,2.5,under,1.775,2026-11-10 16:17,1.645,0.0789
+italy-serie-c-group-c,73294834,2026-11-15 11:30,Giugliano Calcio 1928,AC Savoia 1908,ah,opening,-0.25,home,1.925,2026-11-10 15:36,2.122,-0.0801
+italy-serie-c-group-c,73294834,2026-11-15 11:30,Giugliano Calcio 1928,AC Savoia 1908,ah,opening,-0.25,away,1.875,2026-11-10 15:36,1.891,-0.0074
+italy-serie-c-group-c,73294834,2026-11-15 11:30,Giugliano Calcio 1928,AC Savoia 1908,ah,latest,-0.25,home,1.95,2026-11-12 16:34,2.122,-0.0699
+italy-serie-c-group-c,73294834,2026-11-15 11:30,Giugliano Calcio 1928,AC Savoia 1908,ah,latest,-0.25,away,1.85,2026-11-12 16:34,1.891,-0.0188
+italy-serie-c-group-c,73294834,2026-11-15 11:30,Giugliano Calcio 1928,AC Savoia 1908,total,opening,3.5,over,3.25,2026-11-10 15:14,4.571,-0.289
+italy-serie-c-group-c,73294834,2026-11-15 11:30,Giugliano Calcio 1928,AC Savoia 1908,total,opening,3.5,under,1.333,2026-11-10 15:14,1.28,0.0414
+italy-serie-c-group-c,73294834,2026-11-15 11:30,Giugliano Calcio 1928,AC Savoia 1908,total,latest,2.5,over,1.95,2026-11-10 15:36,2.341,-0.1671
+italy-serie-c-group-c,73294834,2026-11-15 11:30,Giugliano Calcio 1928,AC Savoia 1908,total,latest,2.5,under,1.85,2026-11-10 15:36,1.746,0.0598
+denmark-2nd-division,72499176,2026-11-15 12:00,Naestved BK,FA 2000,ah,opening,-0.75,home,1.8,2026-11-10 17:12,1.884,-0.0391
+denmark-2nd-division,72499176,2026-11-15 12:00,Naestved BK,FA 2000,ah,opening,-0.75,away,2,2026-11-10 17:12,2.131,-0.054
+denmark-2nd-division,72499176,2026-11-15 12:00,Naestved BK,FA 2000,ah,latest,-0.5,home,1.8,2026-11-12 10:03,1.699,0.0591
+denmark-2nd-division,72499176,2026-11-15 12:00,Naestved BK,FA 2000,ah,latest,-0.5,away,2,2026-11-12 10:03,2.43,-0.1768
+denmark-2nd-division,72499176,2026-11-15 12:00,Naestved BK,FA 2000,total,opening,3.5,over,2.625,2026-11-10 16:54,3.263,-0.1954
+denmark-2nd-division,72499176,2026-11-15 12:00,Naestved BK,FA 2000,total,opening,3.5,under,1.444,2026-11-10 16:54,1.442,0.0014
+denmark-2nd-division,72499176,2026-11-15 12:00,Naestved BK,FA 2000,total,latest,2.75,over,1.8,2026-11-11 15:09,2.128,-0.137
+denmark-2nd-division,72499176,2026-11-15 12:00,Naestved BK,FA 2000,total,latest,2.75,under,2,2026-11-11 15:09,1.887,0.0534
+bulgaria-vtora-liga,72466628,2026-11-15 12:30,PFK Sportist Svoge,PFC Spartak Pleven,ah,opening,-0.25,home,1.925,2026-11-09 15:41,2.119,-0.0788
+bulgaria-vtora-liga,72466628,2026-11-15 12:30,PFK Sportist Svoge,PFC Spartak Pleven,ah,opening,-0.25,away,1.875,2026-11-09 15:41,1.894,-0.0085
+bulgaria-vtora-liga,72466628,2026-11-15 12:30,PFK Sportist Svoge,PFC Spartak Pleven,ah,latest,-0.25,home,1.925,2026-11-09 15:41,2.119,-0.0788
+bulgaria-vtora-liga,72466628,2026-11-15 12:30,PFK Sportist Svoge,PFC Spartak Pleven,ah,latest,-0.25,away,1.875,2026-11-09 15:41,1.894,-0.0085
+bulgaria-vtora-liga,72466628,2026-11-15 12:30,PFK Sportist Svoge,PFC Spartak Pleven,total,opening,2.25,over,1.925,2026-11-09 15:41,2.061,-0.0571
+bulgaria-vtora-liga,72466628,2026-11-15 12:30,PFK Sportist Svoge,PFC Spartak Pleven,total,opening,2.25,under,1.875,2026-11-09 15:41,1.943,-0.0304
+bulgaria-vtora-liga,72466628,2026-11-15 12:30,PFK Sportist Svoge,PFC Spartak Pleven,total,latest,2.25,over,1.925,2026-11-09 15:41,2.061,-0.0571
+bulgaria-vtora-liga,72466628,2026-11-15 12:30,PFK Sportist Svoge,PFC Spartak Pleven,total,latest,2.25,under,1.875,2026-11-09 15:41,1.943,-0.0304
+bulgaria-vtora-liga,72466632,2026-11-15 12:30,FC Yantra Gabrovo,PFC Ludogorets Razgrad II,ah,opening,-0.75,home,1.875,2026-11-09 14:50,2.061,-0.0788
+bulgaria-vtora-liga,72466632,2026-11-15 12:30,FC Yantra Gabrovo,PFC Ludogorets Razgrad II,ah,opening,-0.75,away,1.925,2026-11-09 14:50,1.943,-0.0079
+bulgaria-vtora-liga,72466632,2026-11-15 12:30,FC Yantra Gabrovo,PFC Ludogorets Razgrad II,ah,latest,-0.75,home,1.875,2026-11-09 14:50,2.061,-0.0788
+bulgaria-vtora-liga,72466632,2026-11-15 12:30,FC Yantra Gabrovo,PFC Ludogorets Razgrad II,ah,latest,-0.75,away,1.925,2026-11-09 14:50,1.943,-0.0079
+bulgaria-vtora-liga,72466632,2026-11-15 12:30,FC Yantra Gabrovo,PFC Ludogorets Razgrad II,total,opening,2.5,over,1.85,2026-11-09 14:50,2.19,-0.1554
+bulgaria-vtora-liga,72466632,2026-11-15 12:30,FC Yantra Gabrovo,PFC Ludogorets Razgrad II,total,opening,2.5,under,1.95,2026-11-09 14:50,1.84,0.0597
+bulgaria-vtora-liga,72466632,2026-11-15 12:30,FC Yantra Gabrovo,PFC Ludogorets Razgrad II,total,latest,2.5,over,1.85,2026-11-09 14:50,2.19,-0.1554
+bulgaria-vtora-liga,72466632,2026-11-15 12:30,FC Yantra Gabrovo,PFC Ludogorets Razgrad II,total,latest,2.5,under,1.95,2026-11-09 14:50,1.84,0.0597
+bulgaria-vtora-liga,72466638,2026-11-15 12:30,Gorna Oryahovitsa,PFC CSKA SOFIA II,ah,opening,0.0,home,2.025,2026-11-09 14:22,2.163,-0.0467
+bulgaria-vtora-liga,72466638,2026-11-15 12:30,Gorna Oryahovitsa,PFC CSKA SOFIA II,ah,opening,0.0,away,1.775,2026-11-09 14:22,1.86,-0.0335
+bulgaria-vtora-liga,72466638,2026-11-15 12:30,Gorna Oryahovitsa,PFC CSKA SOFIA II,ah,latest,0.0,home,2.025,2026-11-09 14:22,2.163,-0.0467
+bulgaria-vtora-liga,72466638,2026-11-15 12:30,Gorna Oryahovitsa,PFC CSKA SOFIA II,ah,latest,0.0,away,1.775,2026-11-09 14:22,1.86,-0.0335
+bulgaria-vtora-liga,72466638,2026-11-15 12:30,Gorna Oryahovitsa,PFC CSKA SOFIA II,total,opening,2.5,over,2,2026-11-09 14:22,2.143,-0.0667
+bulgaria-vtora-liga,72466638,2026-11-15 12:30,Gorna Oryahovitsa,PFC CSKA SOFIA II,total,opening,2.5,under,1.8,2026-11-09 14:22,1.875,-0.04
+bulgaria-vtora-liga,72466638,2026-11-15 12:30,Gorna Oryahovitsa,PFC CSKA SOFIA II,total,latest,2.5,over,2,2026-11-09 14:22,2.143,-0.0667
+bulgaria-vtora-liga,72466638,2026-11-15 12:30,Gorna Oryahovitsa,PFC CSKA SOFIA II,total,latest,2.5,under,1.8,2026-11-09 14:22,1.875,-0.04
+bulgaria-vtora-liga,72466640,2026-11-15 13:30,PFK Beroe Stara Zagora,PFC Vihren Sandanski,ah,opening,0.25,home,1.875,2026-11-09 15:11,1.776,0.0484
+bulgaria-vtora-liga,72466640,2026-11-15 13:30,PFK Beroe Stara Zagora,PFC Vihren Sandanski,ah,opening,0.25,away,1.925,2026-11-09 15:11,2.289,-0.1379
+bulgaria-vtora-liga,72466640,2026-11-15 13:30,PFK Beroe Stara Zagora,PFC Vihren Sandanski,ah,latest,0.25,home,1.875,2026-11-09 15:11,1.776,0.0484
+bulgaria-vtora-liga,72466640,2026-11-15 13:30,PFK Beroe Stara Zagora,PFC Vihren Sandanski,ah,latest,0.25,away,1.925,2026-11-09 15:11,2.289,-0.1379
+bulgaria-vtora-liga,72466640,2026-11-15 13:30,PFK Beroe Stara Zagora,PFC Vihren Sandanski,total,opening,2.5,over,1.9,2026-11-09 15:11,2.075,-0.0844
+bulgaria-vtora-liga,72466640,2026-11-15 13:30,PFK Beroe Stara Zagora,PFC Vihren Sandanski,total,opening,2.5,under,1.9,2026-11-09 15:11,1.93,-0.0156
+bulgaria-vtora-liga,72466640,2026-11-15 13:30,PFK Beroe Stara Zagora,PFC Vihren Sandanski,total,latest,2.5,over,1.9,2026-11-09 15:11,2.075,-0.0844
+bulgaria-vtora-liga,72466640,2026-11-15 13:30,PFK Beroe Stara Zagora,PFC Vihren Sandanski,total,latest,2.5,under,1.9,2026-11-09 15:11,1.93,-0.0156
+netherlands-eerste-divisie,72044824,2026-11-15 13:30,MVV Maastricht,Vitesse Arnhem,ah,opening,0.25,home,2,2026-11-09 11:54,2.13,-0.0536
+netherlands-eerste-divisie,72044824,2026-11-15 13:30,MVV Maastricht,Vitesse Arnhem,ah,opening,0.25,away,1.8,2026-11-09 11:54,1.885,-0.0395
+netherlands-eerste-divisie,72044824,2026-11-15 13:30,MVV Maastricht,Vitesse Arnhem,ah,latest,0.25,home,1.9,2026-11-09 18:50,2.13,-0.0948
+netherlands-eerste-divisie,72044824,2026-11-15 13:30,MVV Maastricht,Vitesse Arnhem,ah,latest,0.25,away,1.9,2026-11-09 18:50,1.885,0.007
+netherlands-eerste-divisie,72044824,2026-11-15 13:30,MVV Maastricht,Vitesse Arnhem,total,opening,3.5,over,2.5,2026-11-09 11:42,3.108,-0.1956
+netherlands-eerste-divisie,72044824,2026-11-15 13:30,MVV Maastricht,Vitesse Arnhem,total,opening,3.5,under,1.5,2026-11-09 11:42,1.474,0.0174
+netherlands-eerste-divisie,72044824,2026-11-15 13:30,MVV Maastricht,Vitesse Arnhem,total,latest,3.0,over,2.025,2026-11-12 17:48,2.414,-0.1251
+netherlands-eerste-divisie,72044824,2026-11-15 13:30,MVV Maastricht,Vitesse Arnhem,total,latest,3.0,under,1.775,2026-11-12 17:48,1.707,0.0308
+italy-serie-c-group-b,73294088,2026-11-15 13:30,Delfino Pescara,US Sambenedettese,ah,opening,-1.0,home,1.9,2026-11-10 15:10,2.36,-0.1464
+italy-serie-c-group-b,73294088,2026-11-15 13:30,Delfino Pescara,US Sambenedettese,ah,opening,-1.0,away,1.9,2026-11-10 15:10,1.735,0.0712
+italy-serie-c-group-b,73294088,2026-11-15 13:30,Delfino Pescara,US Sambenedettese,ah,latest,-1.0,home,1.9,2026-11-10 15:10,2.36,-0.1464
+italy-serie-c-group-b,73294088,2026-11-15 13:30,Delfino Pescara,US Sambenedettese,ah,latest,-1.0,away,1.9,2026-11-10 15:10,1.735,0.0712
+italy-serie-c-group-b,73294088,2026-11-15 13:30,Delfino Pescara,US Sambenedettese,total,opening,3.5,over,2.625,2026-11-10 15:04,3.593,-0.2694
+italy-serie-c-group-b,73294088,2026-11-15 13:30,Delfino Pescara,US Sambenedettese,total,opening,3.5,under,1.444,2026-11-10 15:04,1.386,0.0421
+italy-serie-c-group-b,73294088,2026-11-15 13:30,Delfino Pescara,US Sambenedettese,total,latest,2.75,over,1.85,2026-11-10 15:10,2.294,-0.1722
+italy-serie-c-group-b,73294088,2026-11-15 13:30,Delfino Pescara,US Sambenedettese,total,latest,2.75,under,1.95,2026-11-10 15:10,1.773,0.0889
+italy-serie-c-group-b,73294094,2026-11-15 13:30,Spezia Calcio,Vado FC,ah,opening,-1.5,home,1.8,2026-11-10 15:08,2.753,-0.3463
+italy-serie-c-group-b,73294094,2026-11-15 13:30,Spezia Calcio,Vado FC,ah,opening,-1.5,away,2,2026-11-10 15:08,1.57,0.2736
+italy-serie-c-group-b,73294094,2026-11-15 13:30,Spezia Calcio,Vado FC,ah,latest,-1.75,home,1.925,2026-11-12 17:43,3.39,-0.3903
+italy-serie-c-group-b,73294094,2026-11-15 13:30,Spezia Calcio,Vado FC,ah,latest,-1.75,away,1.875,2026-11-12 17:43,1.418,0.2907
+italy-serie-c-group-b,73294094,2026-11-15 13:30,Spezia Calcio,Vado FC,total,opening,3.5,over,2.5,2026-11-10 14:43,3.965,-0.3695
+italy-serie-c-group-b,73294094,2026-11-15 13:30,Spezia Calcio,Vado FC,total,opening,3.5,under,1.5,2026-11-10 14:43,1.337,0.1217
+italy-serie-c-group-b,73294094,2026-11-15 13:30,Spezia Calcio,Vado FC,total,latest,3.0,over,2,2026-11-12 17:43,3.11,-0.28
+italy-serie-c-group-b,73294094,2026-11-15 13:30,Spezia Calcio,Vado FC,total,latest,3.0,under,1.8,2026-11-12 17:43,1.474,0.1735
+italy-serie-c-group-c,73294830,2026-11-15 13:30,Cavese 1919,FC Crotone,ah,opening,-0.25,home,1.825,2026-11-10 15:28,1.969,-0.064
+italy-serie-c-group-c,73294830,2026-11-15 13:30,Cavese 1919,FC Crotone,ah,opening,-0.25,away,1.975,2026-11-10 15:28,2.031,-0.0242
+italy-serie-c-group-c,73294830,2026-11-15 13:30,Cavese 1919,FC Crotone,ah,latest,-0.25,home,1.825,2026-11-10 15:28,1.969,-0.064
+italy-serie-c-group-c,73294830,2026-11-15 13:30,Cavese 1919,FC Crotone,ah,latest,-0.25,away,1.975,2026-11-10 15:28,2.031,-0.0242
+italy-serie-c-group-c,73294830,2026-11-15 13:30,Cavese 1919,FC Crotone,total,opening,1.5,over,1.3,2026-11-10 15:02,1.342,-0.0311
+italy-serie-c-group-c,73294830,2026-11-15 13:30,Cavese 1919,FC Crotone,total,opening,1.5,under,3.4,2026-11-10 15:02,3.926,-0.134
+italy-serie-c-group-c,73294830,2026-11-15 13:30,Cavese 1919,FC Crotone,total,latest,2.5,over,2,2026-11-10 15:28,2.007,-0.0035
+italy-serie-c-group-c,73294830,2026-11-15 13:30,Cavese 1919,FC Crotone,total,latest,2.5,under,1.8,2026-11-10 15:28,1.993,-0.0969
+italy-serie-c-group-c,73294836,2026-11-15 13:30,Potenza Calcio,Scafatese Calcio 1922,ah,opening,-0.75,home,1.925,2026-11-10 15:57,2.018,-0.0409
+italy-serie-c-group-c,73294836,2026-11-15 13:30,Potenza Calcio,Scafatese Calcio 1922,ah,opening,-0.75,away,1.875,2026-11-10 15:57,1.982,-0.0478
+italy-serie-c-group-c,73294836,2026-11-15 13:30,Potenza Calcio,Scafatese Calcio 1922,ah,latest,-0.75,home,1.875,2026-11-12 19:52,2.018,-0.0628
+italy-serie-c-group-c,73294836,2026-11-15 13:30,Potenza Calcio,Scafatese Calcio 1922,ah,latest,-0.75,away,1.925,2026-11-12 19:52,1.982,-0.0255
+italy-serie-c-group-c,73294836,2026-11-15 13:30,Potenza Calcio,Scafatese Calcio 1922,total,opening,3.5,over,2.5,2026-11-10 14:47,2.66,-0.0603
+italy-serie-c-group-c,73294836,2026-11-15 13:30,Potenza Calcio,Scafatese Calcio 1922,total,opening,3.5,under,1.5,2026-11-10 14:47,1.602,-0.0638
+italy-serie-c-group-c,73294836,2026-11-15 13:30,Potenza Calcio,Scafatese Calcio 1922,total,latest,3.0,over,2.025,2026-11-12 19:52,2.065,-0.0152
+italy-serie-c-group-c,73294836,2026-11-15 13:30,Potenza Calcio,Scafatese Calcio 1922,total,latest,3.0,under,1.775,2026-11-12 19:52,1.939,-0.0655
+belgium-nationale-1-vv,72533336,2026-11-15 14:00,Jong Cercle,KVC Houtvenne,ah,opening,0.25,home,1.775,2026-11-12 16:43,1.825,-0.0243
+belgium-nationale-1-vv,72533336,2026-11-15 14:00,Jong Cercle,KVC Houtvenne,ah,opening,0.25,away,2.025,2026-11-12 16:43,2.212,-0.0747
+belgium-nationale-1-vv,72533336,2026-11-15 14:00,Jong Cercle,KVC Houtvenne,ah,latest,0.25,home,1.775,2026-11-12 16:43,1.825,-0.0243
+belgium-nationale-1-vv,72533336,2026-11-15 14:00,Jong Cercle,KVC Houtvenne,ah,latest,0.25,away,2.025,2026-11-12 16:43,2.212,-0.0747
+belgium-nationale-1-vv,72533336,2026-11-15 14:00,Jong Cercle,KVC Houtvenne,total,opening,3.0,over,1.8,2026-11-12 16:43,1.886,-0.0355
+belgium-nationale-1-vv,72533336,2026-11-15 14:00,Jong Cercle,KVC Houtvenne,total,opening,3.0,under,2,2026-11-12 16:43,2.129,-0.047
+belgium-nationale-1-vv,72533336,2026-11-15 14:00,Jong Cercle,KVC Houtvenne,total,latest,3.0,over,1.8,2026-11-12 16:43,1.886,-0.0355
+belgium-nationale-1-vv,72533336,2026-11-15 14:00,Jong Cercle,KVC Houtvenne,total,latest,3.0,under,2,2026-11-12 16:43,2.129,-0.047
+belgium-nationale-1-vv,72533340,2026-11-15 14:00,Oud Heverlee Leuven B,KFC Merelbeke,ah,opening,-0.75,home,1.975,2026-11-12 15:40,2.077,-0.044
+belgium-nationale-1-vv,72533340,2026-11-15 14:00,Oud Heverlee Leuven B,KFC Merelbeke,ah,opening,-0.75,away,1.825,2026-11-12 15:40,1.928,-0.0478
+belgium-nationale-1-vv,72533340,2026-11-15 14:00,Oud Heverlee Leuven B,KFC Merelbeke,ah,latest,-0.5,home,1.85,2026-11-12 19:52,1.862,-0.0066
+belgium-nationale-1-vv,72533340,2026-11-15 14:00,Oud Heverlee Leuven B,KFC Merelbeke,ah,latest,-0.5,away,1.95,2026-11-12 19:52,2.16,-0.0971
+belgium-nationale-1-vv,72533340,2026-11-15 14:00,Oud Heverlee Leuven B,KFC Merelbeke,total,opening,3.25,over,1.8,2026-11-12 15:40,1.898,-0.0463
+belgium-nationale-1-vv,72533340,2026-11-15 14:00,Oud Heverlee Leuven B,KFC Merelbeke,total,opening,3.25,under,2,2026-11-12 15:40,2.113,-0.0477
+belgium-nationale-1-vv,72533340,2026-11-15 14:00,Oud Heverlee Leuven B,KFC Merelbeke,total,latest,3.25,over,1.85,2026-11-12 19:52,1.898,-0.0228
+belgium-nationale-1-vv,72533340,2026-11-15 14:00,Oud Heverlee Leuven B,KFC Merelbeke,total,latest,3.25,under,1.95,2026-11-12 19:52,2.113,-0.0689
+belgium-nationale-1-vv,72533344,2026-11-15 14:00,KVV Zelzate,Belisia Bilzen SV,ah,opening,0.25,home,1.95,2026-11-12 15:20,1.916,0.0157
+belgium-nationale-1-vv,72533344,2026-11-15 14:00,KVV Zelzate,Belisia Bilzen SV,ah,opening,0.25,away,1.85,2026-11-12 15:20,2.091,-0.1027
+belgium-nationale-1-vv,72533344,2026-11-15 14:00,KVV Zelzate,Belisia Bilzen SV,ah,latest,0.25,home,1.9,2026-11-12 21:20,1.916,-0.0075
+belgium-nationale-1-vv,72533344,2026-11-15 14:00,KVV Zelzate,Belisia Bilzen SV,ah,latest,0.25,away,1.9,2026-11-12 21:20,2.091,-0.0815
+belgium-nationale-1-vv,72533344,2026-11-15 14:00,KVV Zelzate,Belisia Bilzen SV,total,opening,3.25,over,1.975,2026-11-12 15:20,1.873,0.0485
+belgium-nationale-1-vv,72533344,2026-11-15 14:00,KVV Zelzate,Belisia Bilzen SV,total,opening,3.25,under,1.825,2026-11-12 15:20,2.145,-0.1333
+belgium-nationale-1-vv,72533344,2026-11-15 14:00,KVV Zelzate,Belisia Bilzen SV,total,latest,3.0,over,1.8,2026-11-12 21:20,1.649,0.0719
+belgium-nationale-1-vv,72533344,2026-11-15 14:00,KVV Zelzate,Belisia Bilzen SV,total,latest,3.0,under,2,2026-11-12 21:20,2.541,-0.1673
+spain-laliga-2,72477590,2026-11-15 15:15,Granada CF,UD Las Palmas,ah,opening,-0.75,home,1.9,2026-11-09 20:15,2.166,-0.109
+spain-laliga-2,72477590,2026-11-15 15:15,Granada CF,UD Las Palmas,ah,opening,-0.75,away,1.9,2026-11-09 20:15,1.858,0.0201
+spain-laliga-2,72477590,2026-11-15 15:15,Granada CF,UD Las Palmas,ah,latest,-0.75,home,2.025,2026-11-12 19:52,2.166,-0.0577
+spain-laliga-2,72477590,2026-11-15 15:15,Granada CF,UD Las Palmas,ah,latest,-0.75,away,1.775,2026-11-12 19:52,1.858,-0.0397
+spain-laliga-2,72477590,2026-11-15 15:15,Granada CF,UD Las Palmas,total,opening,3.5,over,3,2026-11-09 19:36,2.506,0.1971
+spain-laliga-2,72477590,2026-11-15 15:15,Granada CF,UD Las Palmas,total,opening,3.5,under,1.363,2026-11-09 19:36,1.664,-0.1809
+spain-laliga-2,72477590,2026-11-15 15:15,Granada CF,UD Las Palmas,total,latest,2.5,over,1.85,2026-11-12 14:27,1.609,0.1499
+spain-laliga-2,72477590,2026-11-15 15:15,Granada CF,UD Las Palmas,total,latest,2.5,under,1.95,2026-11-12 14:27,2.642,-0.262
+portugal-liga-portugal-2,72531672,2026-11-15 15:30,FC Penafiel,Lusitania FC Lourosa,ah,opening,-0.25,home,1.975,2026-11-10 16:00,2.077,-0.0427
+portugal-liga-portugal-2,72531672,2026-11-15 15:30,FC Penafiel,Lusitania FC Lourosa,ah,opening,-0.25,away,1.825,2026-11-10 16:00,1.929,-0.0468
+portugal-liga-portugal-2,72531672,2026-11-15 15:30,FC Penafiel,Lusitania FC Lourosa,ah,latest,-0.25,home,1.975,2026-11-10 16:00,2.077,-0.0427
+portugal-liga-portugal-2,72531672,2026-11-15 15:30,FC Penafiel,Lusitania FC Lourosa,ah,latest,-0.25,away,1.825,2026-11-10 16:00,1.929,-0.0468
+portugal-liga-portugal-2,72531672,2026-11-15 15:30,FC Penafiel,Lusitania FC Lourosa,total,opening,1.5,over,1.333,2026-11-10 15:50,1.34,-0.0054
+portugal-liga-portugal-2,72531672,2026-11-15 15:30,FC Penafiel,Lusitania FC Lourosa,total,opening,1.5,under,3.25,2026-11-10 15:50,3.939,-0.1748
+portugal-liga-portugal-2,72531672,2026-11-15 15:30,FC Penafiel,Lusitania FC Lourosa,total,latest,2.5,over,1.8,2026-11-12 09:51,2.003,-0.1012
+portugal-liga-portugal-2,72531672,2026-11-15 15:30,FC Penafiel,Lusitania FC Lourosa,total,latest,2.5,under,2,2026-11-12 09:51,1.997,0.0013
+italy-serie-c-group-a,73293340,2026-11-15 16:30,AS Cittadella,US Folgore Caratese,ah,opening,-1.25,home,1.975,2026-11-10 16:00,3.083,-0.3122
+italy-serie-c-group-a,73293340,2026-11-15 16:30,AS Cittadella,US Folgore Caratese,ah,opening,-1.25,away,1.825,2026-11-10 16:00,1.48,0.2025
+italy-serie-c-group-a,73293340,2026-11-15 16:30,AS Cittadella,US Folgore Caratese,ah,latest,-1.0,home,1.775,2026-11-12 17:02,2.618,-0.2374
+italy-serie-c-group-a,73293340,2026-11-15 16:30,AS Cittadella,US Folgore Caratese,ah,latest,-1.0,away,2.025,2026-11-12 17:02,1.618,0.1854
+italy-serie-c-group-a,73293340,2026-11-15 16:30,AS Cittadella,US Folgore Caratese,total,opening,3.5,over,3.4,2026-11-10 15:54,5.055,-0.3274
+italy-serie-c-group-a,73293340,2026-11-15 16:30,AS Cittadella,US Folgore Caratese,total,opening,3.5,under,1.3,2026-11-10 15:54,1.247,0.0428
+italy-serie-c-group-a,73293340,2026-11-15 16:30,AS Cittadella,US Folgore Caratese,total,latest,2.5,over,1.975,2026-11-12 17:02,2.498,-0.2095
+italy-serie-c-group-a,73293340,2026-11-15 16:30,AS Cittadella,US Folgore Caratese,total,latest,2.5,under,1.825,2026-11-12 17:02,1.667,0.0945
+italy-serie-c-group-a,73293350,2026-11-15 16:30,US Pergolettese Crema,Pro Vercelli 1892,ah,opening,-0.25,home,2,2026-11-10 16:18,2.233,-0.0894
+italy-serie-c-group-a,73293350,2026-11-15 16:30,US Pergolettese Crema,Pro Vercelli 1892,ah,opening,-0.25,away,1.8,2026-11-10 16:18,1.811,-0.0053
+italy-serie-c-group-a,73293350,2026-11-15 16:30,US Pergolettese Crema,Pro Vercelli 1892,ah,latest,-0.25,home,1.95,2026-11-12 21:00,2.233,-0.1086
+italy-serie-c-group-a,73293350,2026-11-15 16:30,US Pergolettese Crema,Pro Vercelli 1892,ah,latest,-0.25,away,1.85,2026-11-12 21:00,1.811,0.0184
+italy-serie-c-group-a,73293350,2026-11-15 16:30,US Pergolettese Crema,Pro Vercelli 1892,total,opening,3.5,over,3.25,2026-11-10 15:55,5.164,-0.3706
+italy-serie-c-group-a,73293350,2026-11-15 16:30,US Pergolettese Crema,Pro Vercelli 1892,total,opening,3.5,under,1.333,2026-11-10 15:55,1.24,0.0749
+italy-serie-c-group-a,73293350,2026-11-15 16:30,US Pergolettese Crema,Pro Vercelli 1892,total,latest,2.5,over,1.975,2026-11-12 21:00,2.533,-0.2203
+italy-serie-c-group-a,73293350,2026-11-15 16:30,US Pergolettese Crema,Pro Vercelli 1892,total,latest,2.5,under,1.825,2026-11-12 21:00,1.652,0.1046
+italy-serie-c-group-b,73294090,2026-11-15 16:30,Ravenna FC 1913,Forli FC,ah,opening,-1.25,home,1.95,2026-11-10 15:22,2.658,-0.2321
+italy-serie-c-group-b,73294090,2026-11-15 16:30,Ravenna FC 1913,Forli FC,ah,opening,-1.25,away,1.85,2026-11-10 15:22,1.603,0.1342
+italy-serie-c-group-b,73294090,2026-11-15 16:30,Ravenna FC 1913,Forli FC,ah,latest,-1.25,home,1.8,2026-11-10 15:24,2.658,-0.2813
+italy-serie-c-group-b,73294090,2026-11-15 16:30,Ravenna FC 1913,Forli FC,ah,latest,-1.25,away,2,2026-11-10 15:24,1.603,0.2157
+italy-serie-c-group-b,73294090,2026-11-15 16:30,Ravenna FC 1913,Forli FC,total,opening,3.5,over,2.75,2026-11-10 14:55,4.013,-0.3147
+italy-serie-c-group-b,73294090,2026-11-15 16:30,Ravenna FC 1913,Forli FC,total,opening,3.5,under,1.4,2026-11-10 14:55,1.332,0.0511
+italy-serie-c-group-b,73294090,2026-11-15 16:30,Ravenna FC 1913,Forli FC,total,latest,2.75,over,1.95,2026-11-10 15:22,2.502,-0.1968
+italy-serie-c-group-b,73294090,2026-11-15 16:30,Ravenna FC 1913,Forli FC,total,latest,2.75,under,1.85,2026-11-10 15:22,1.666,0.0986
+italy-serie-c-group-c,73294832,2026-11-15 16:30,Cosenza Calcio,Casertana FC,ah,opening,0.0,home,2.025,2026-11-10 15:39,2.533,-0.1471
+italy-serie-c-group-c,73294832,2026-11-15 16:30,Cosenza Calcio,Casertana FC,ah,opening,0.0,away,1.775,2026-11-10 15:39,1.652,0.0544
+italy-serie-c-group-c,73294832,2026-11-15 16:30,Cosenza Calcio,Casertana FC,ah,latest,0.25,home,1.8,2026-11-12 17:04,2.05,-0.1058
+italy-serie-c-group-c,73294832,2026-11-15 16:30,Cosenza Calcio,Casertana FC,ah,latest,0.25,away,2,2026-11-12 17:04,1.952,0.0213
+italy-serie-c-group-c,73294832,2026-11-15 16:30,Cosenza Calcio,Casertana FC,total,opening,1.5,over,1.333,2026-11-10 14:48,1.406,-0.0519
+italy-serie-c-group-c,73294832,2026-11-15 16:30,Cosenza Calcio,Casertana FC,total,opening,1.5,under,3.25,2026-11-10 14:48,3.463,-0.0615
+italy-serie-c-group-c,73294832,2026-11-15 16:30,Cosenza Calcio,Casertana FC,total,latest,2.25,over,1.85,2026-11-12 21:30,1.918,-0.031
+italy-serie-c-group-c,73294832,2026-11-15 16:30,Cosenza Calcio,Casertana FC,total,latest,2.25,under,1.95,2026-11-12 21:30,2.089,-0.058
+spain-laliga-2,72477586,2026-11-15 17:30,SD Eibar,Cadiz CF,ah,opening,-0.75,home,1.8,2026-11-09 20:02,1.841,-0.0197
+spain-laliga-2,72477586,2026-11-15 17:30,SD Eibar,Cadiz CF,ah,opening,-0.75,away,2,2026-11-09 20:02,2.189,-0.0762
+spain-laliga-2,72477586,2026-11-15 17:30,SD Eibar,Cadiz CF,ah,latest,-0.75,home,1.8,2026-11-09 20:02,1.841,-0.0197
+spain-laliga-2,72477586,2026-11-15 17:30,SD Eibar,Cadiz CF,ah,latest,-0.75,away,2,2026-11-09 20:02,2.189,-0.0762
+spain-laliga-2,72477586,2026-11-15 17:30,SD Eibar,Cadiz CF,total,opening,3.5,over,3,2026-11-09 19:54,2.725,0.101
+spain-laliga-2,72477586,2026-11-15 17:30,SD Eibar,Cadiz CF,total,opening,3.5,under,1.363,2026-11-09 19:54,1.58,-0.1372
+spain-laliga-2,72477586,2026-11-15 17:30,SD Eibar,Cadiz CF,total,latest,2.75,over,1.95,2026-11-11 06:52,1.854,0.0459
+spain-laliga-2,72477586,2026-11-15 17:30,SD Eibar,Cadiz CF,total,latest,2.75,under,1.85,2026-11-11 06:52,2.171,-0.1312
+poland-ii-liga,72398816,2026-11-15 18:30,ZKS Stal Stalowa Wola,Olimpia Grudziadz,ah,opening,0.25,home,1.75,2026-11-10 13:20,1.763,-0.0066
+poland-ii-liga,72398816,2026-11-15 18:30,ZKS Stal Stalowa Wola,Olimpia Grudziadz,ah,opening,0.25,away,2.05,2026-11-10 13:20,2.31,-0.0978
+poland-ii-liga,72398816,2026-11-15 18:30,ZKS Stal Stalowa Wola,Olimpia Grudziadz,ah,latest,0.25,home,1.75,2026-11-10 13:20,1.763,-0.0066
+poland-ii-liga,72398816,2026-11-15 18:30,ZKS Stal Stalowa Wola,Olimpia Grudziadz,ah,latest,0.25,away,2.05,2026-11-10 13:20,2.31,-0.0978
+poland-ii-liga,72398816,2026-11-15 18:30,ZKS Stal Stalowa Wola,Olimpia Grudziadz,total,opening,3.5,over,2.625,2026-11-10 12:57,3.736,-0.2974
+poland-ii-liga,72398816,2026-11-15 18:30,ZKS Stal Stalowa Wola,Olimpia Grudziadz,total,opening,3.5,under,1.444,2026-11-10 12:57,1.365,0.0575
+poland-ii-liga,72398816,2026-11-15 18:30,ZKS Stal Stalowa Wola,Olimpia Grudziadz,total,latest,2.75,over,1.825,2026-11-10 13:20,2.365,-0.2034
+poland-ii-liga,72398816,2026-11-15 18:30,ZKS Stal Stalowa Wola,Olimpia Grudziadz,total,latest,2.75,under,1.975,2026-11-10 13:20,1.733,0.1247
+greece-super-league-2,74172540,2026-11-16 12:45,Panionios Athens,Olympiacos Piraeus B,ah,opening,-1.75,home,1.975,2026-11-09 17:52,3.164,-0.3387
+greece-super-league-2,74172540,2026-11-16 12:45,Panionios Athens,Olympiacos Piraeus B,ah,opening,-1.75,away,1.825,2026-11-09 17:52,1.462,0.2237
+greece-super-league-2,74172540,2026-11-16 12:45,Panionios Athens,Olympiacos Piraeus B,ah,latest,-1.75,home,1.975,2026-11-09 17:52,3.164,-0.3387
+greece-super-league-2,74172540,2026-11-16 12:45,Panionios Athens,Olympiacos Piraeus B,ah,latest,-1.75,away,1.825,2026-11-09 17:52,1.462,0.2237
+greece-super-league-2,74172540,2026-11-16 12:45,Panionios Athens,Olympiacos Piraeus B,total,opening,2.75,over,1.85,2026-11-09 17:52,2.294,-0.1724
+greece-super-league-2,74172540,2026-11-16 12:45,Panionios Athens,Olympiacos Piraeus B,total,opening,2.75,under,1.95,2026-11-09 17:52,1.773,0.0891
+greece-super-league-2,74172540,2026-11-16 12:45,Panionios Athens,Olympiacos Piraeus B,total,latest,2.75,over,1.85,2026-11-09 17:52,2.294,-0.1724
+greece-super-league-2,74172540,2026-11-16 12:45,Panionios Athens,Olympiacos Piraeus B,total,latest,2.75,under,1.95,2026-11-09 17:52,1.773,0.0891
+slovakia-2-liga,72305330,2026-11-16 16:00,1. FC Tatran Presov,MFK Zvolen,ah,opening,-1.0,home,1.825,2026-11-10 10:34,2.39,-0.1801
+slovakia-2-liga,72305330,2026-11-16 16:00,1. FC Tatran Presov,MFK Zvolen,ah,opening,-1.0,away,1.975,2026-11-10 10:34,1.72,0.1132
+slovakia-2-liga,72305330,2026-11-16 16:00,1. FC Tatran Presov,MFK Zvolen,ah,latest,-1.25,home,1.9,2026-11-11 21:09,2.763,-0.2751
+slovakia-2-liga,72305330,2026-11-16 16:00,1. FC Tatran Presov,MFK Zvolen,ah,latest,-1.25,away,1.9,2026-11-11 21:09,1.567,0.187
+slovakia-2-liga,72305330,2026-11-16 16:00,1. FC Tatran Presov,MFK Zvolen,total,opening,3.0,over,1.875,2026-11-10 10:34,2.347,-0.1561
+slovakia-2-liga,72305330,2026-11-16 16:00,1. FC Tatran Presov,MFK Zvolen,total,opening,3.0,under,1.925,2026-11-10 10:34,1.742,0.0813
+slovakia-2-liga,72305330,2026-11-16 16:00,1. FC Tatran Presov,MFK Zvolen,total,latest,3.0,over,1.875,2026-11-10 10:34,2.347,-0.1561
+slovakia-2-liga,72305330,2026-11-16 16:00,1. FC Tatran Presov,MFK Zvolen,total,latest,3.0,under,1.925,2026-11-10 10:34,1.742,0.0813
+italy-serie-c-group-c,73294840,2026-11-16 19:30,ASD Sorrento 1945,SS Monopoli,ah,opening,0.0,home,1.875,2026-11-10 15:45,1.937,-0.0225
+italy-serie-c-group-c,73294840,2026-11-16 19:30,ASD Sorrento 1945,SS Monopoli,ah,opening,0.0,away,1.925,2026-11-10 15:45,2.067,-0.048
+italy-serie-c-group-c,73294840,2026-11-16 19:30,ASD Sorrento 1945,SS Monopoli,ah,latest,0.0,home,1.875,2026-11-10 15:45,1.937,-0.0225
+italy-serie-c-group-c,73294840,2026-11-16 19:30,ASD Sorrento 1945,SS Monopoli,ah,latest,0.0,away,1.925,2026-11-10 15:45,2.067,-0.048
+italy-serie-c-group-c,73294840,2026-11-16 19:30,ASD Sorrento 1945,SS Monopoli,total,opening,1.5,over,1.444,2026-11-10 14:52,1.626,-0.112
+italy-serie-c-group-c,73294840,2026-11-16 19:30,ASD Sorrento 1945,SS Monopoli,total,opening,1.5,under,2.625,2026-11-10 14:52,2.597,0.0108
+italy-serie-c-group-c,73294840,2026-11-16 19:30,ASD Sorrento 1945,SS Monopoli,total,latest,2.0,over,1.825,2026-11-10 15:45,2.117,-0.1007
+italy-serie-c-group-c,73294840,2026-11-16 19:30,ASD Sorrento 1945,SS Monopoli,total,latest,2.0,under,1.975,2026-11-10 15:45,1.895,0.0307
+italy-serie-c-group-b,73294086,2026-11-16 19:45,Perugia Calcio Spa,SEF Torres Sassari,ah,opening,-0.25,home,1.8,2026-11-10 15:05,1.772,0.0136
+italy-serie-c-group-b,73294086,2026-11-16 19:45,Perugia Calcio Spa,SEF Torres Sassari,ah,opening,-0.25,away,2,2026-11-10 15:05,2.295,-0.1115
+italy-serie-c-group-b,73294086,2026-11-16 19:45,Perugia Calcio Spa,SEF Torres Sassari,ah,latest,-0.5,home,1.875,2026-11-12 18:20,2.041,-0.0815
+italy-serie-c-group-b,73294086,2026-11-16 19:45,Perugia Calcio Spa,SEF Torres Sassari,ah,latest,-0.5,away,1.925,2026-11-12 18:20,1.96,-0.018
+italy-serie-c-group-b,73294086,2026-11-16 19:45,Perugia Calcio Spa,SEF Torres Sassari,total,opening,3.5,over,3.25,2026-11-10 14:48,4.39,-0.2596
+italy-serie-c-group-b,73294086,2026-11-16 19:45,Perugia Calcio Spa,SEF Torres Sassari,total,opening,3.5,under,1.333,2026-11-10 14:48,1.295,0.0293
+italy-serie-c-group-b,73294086,2026-11-16 19:45,Perugia Calcio Spa,SEF Torres Sassari,total,latest,2.5,over,1.8,2026-11-12 18:20,2.281,-0.2109
+italy-serie-c-group-b,73294086,2026-11-16 19:45,Perugia Calcio Spa,SEF Torres Sassari,total,latest,2.5,under,2,2026-11-12 18:20,1.781,0.1232

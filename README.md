@@ -2,7 +2,7 @@
 
 Pappersspel i verkligheten för 1X2-/styrkemodellen och Total Goals-modellen, i alla europeiska ligor där bet365 har odds. Hit hör också de ligor som fanns i den ursprungliga Excel-filen.
 
-Modellen räknar ut förväntade mål och sätter egna odds på bet365:s **asiatiska linjer**, alltså handikapp (Spread) och totaler. Spel med **EV ≥ 10 %** bokförs. Allt körs **manuellt**, inget schema.
+Modellen räknar ut förväntade mål och sätter egna odds på bet365:s **öppningslinor**, det vill säga den första huvudlinan i asiatiskt handikapp (Spread) och i totaler. Båda sidor av varje lina jämförs. Spel med **EV ≥ 10 %** bokförs till öppningspriset, och modellen räknar då bara med data som fanns dagen linan öppnade. Allt körs **manuellt**, inget schema.
 
 Data och odds: **Odds-API.io** med bet365. Därifrån kommer historiska stängningsodds på 1X2 och resultat för lagstyrkorna, och aktuella AH- och totalodds för skanningen.
 
@@ -28,7 +28,7 @@ Data och odds: **Odds-API.io** med bet365. Därifrån kommer historiska stängni
 export ODDSAPIIO_KEY=...
 python3 src/discover.py --from 2026-11-03 --to 2026-11-11   # vilka ligor bet365 hade under en period -> config/leagues.json
 python3 src/collect.py                                     # stängningsodds 1X2 + resultat (första gången ~540 dagar bakåt)
-python3 src/scan.py --days 3                               # skanna bet365 AH/totaler, bokför spel med EV >= 10 %
+python3 src/scan.py --days 7 --backfill-days 4            # bet365 öppningslinor AH/totaler, bokför spel med EV >= 10 %
 python3 src/settle.py                                      # avräkna spel, stängningsodds på samma linje och CLV
 python3 tests/test_excel.py
 ```
@@ -40,11 +40,12 @@ python3 tests/test_excel.py
 | `config/leagues.json` | Ligor (Odds-API-slug, HA för Excel-ligorna), modellkonstanter, EV-gräns |
 | `data/matches/<liga>.csv` | Avgjorda matcher: resultat och bet365-stängning 1X2 |
 | `data/prices/latest.csv` | Modellen per kommande match: P 2-väg, E, λ, fair AH 0 och 2,5 mål |
-| `data/scans/<tid>.csv` | Varje bet365-odds som jämförts, med fair odds och EV |
-| `data/bets.csv` | Bokförda spel: odds, fair odds, EV, modellvärden, bet365 1X2 vid skanningen, senast sedda odds, resultat, vinst, stängningsodds och CLV |
+| `data/scans/<tid>.csv` | Öppnings- och senaste huvudlina per match och marknad, med fair odds och EV |
+| `data/bets.csv` | Bokförda spel: öppningslina, odds och tid, fair odds, EV, modellvärden, senaste lina och odds, resultat, vinst, stängningsodds på samma lina och CLV |
 
 ## Kända begränsningar
 
 - Odds-API:s historik börjar omkring maj 2025. Ligor som bytt slug, eller saknar förra säsongen där, har bara denna säsong. HA skattas då på denna säsong, och lagen når 20 matcher för målsnittet först efter 20 omgångar.
 - Ligor med färre än 60 matcher med odds får ingen HA och prissätts inte. Det gäller ofta damligor och små serier.
-- Flera spel kan bokföras på samma match och marknad (t.ex. under 1,5, 1,75 och 2). Avvikelserna är störst i ytterlinjerna, där Poisson och bet365 skiljer sig mest.
+- Odds-API sparar linehistorik (och därmed öppningslinan) bara några dagar. **Skanna minst var 3–4:e dag**, annars missas öppningslinor för matcher som hunnit spelas. `--backfill-days 4` plockar upp nyss spelade matcher.
+- Öppningslinor finns bara för huvudlinan, inte för hela stegen av alternativa linjer.
