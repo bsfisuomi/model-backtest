@@ -298,9 +298,9 @@ class GoalLineModel:
     """Total goals from bet365 closing goal lines.
 
     Every closing main goal line is turned into the expected total mu at which it is 50/50
-    (implied_mu, margin removed). A team's goal line = the average mu of its last goals_matches (20)
+    (implied_mu, margin removed). A team's goal line = the average mu of its last goal_line_max_matches (20)
     matches with a closing goal line, in any collected league (so last season / the previous division
-    fill up when this season has fewer). Exactly 20 are required.
+    fill up when this season has fewer). At least goal_line_min_matches (10) are required.
     Match: mu = (team_home + team_away) / 2 - a team at 2.5 and a team at 3.0 give 2.75.
     Totals are priced with Poisson(mu)."""
 
@@ -332,8 +332,8 @@ class GoalLineModel:
     def team_line(self, team, before_day):
         lst = self.idx.get(team, [])
         i = bisect_left(lst, (before_day,))
-        last = lst[max(0, i - M["goals_matches"]):i]
-        if len(last) < M["goals_matches"]:
+        last = lst[max(0, i - M.get("goal_line_max_matches", 20)):i]
+        if len(last) < M.get("goal_line_min_matches", 10):
             return None, len(last)
         return sum(m for _, m in last) / len(last), len(last)
 

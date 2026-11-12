@@ -1557,7 +1557,9 @@
   "tg_norm": 3.6247,
   "team_a": -0.3104,
   "team_b": 1.1921,
-  "team_norm": 2.75
+  "team_norm": 2.75,
+  "goal_line_min_matches": 10,
+  "goal_line_max_matches": 20
  },
  "betting": {
   "min_ev": 0.1,

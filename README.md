@@ -29,7 +29,7 @@ Steg 1, lika för båda: **lagens snittmål från stängda goal lines.**
 | Del | Regel |
 | --- | --- |
 | Stängning → μ | Varje stängd huvudlina (den jämnaste) räknas om till förväntade mål μ, det Poisson-medel där linans marginalfria över-sannolikhet (push borträknad) stämmer exakt. Exempel: 2,5 på 1,75/2,05 ger μ = 2,84. |
-| Lagets snitt | Snitt-μ i lagets **senaste 20** matcher med stängningslina, i alla insamlade ligor. Förra säsongen och förra serien fyller på. **Exakt 20** krävs. |
+| Lagets snitt | Snitt-μ i lagets **senaste upp till 20** matcher med stängningslina, i alla insamlade ligor. Förra säsongen och förra serien fyller på. **Minst 10** krävs, eftersom stängningslinan redan ger en stabil riktning till skillnad från faktiska mål. |
 
 Steg 2, två modeller:
 
