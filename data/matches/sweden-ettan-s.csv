@@ -1,0 +1,481 @@
+scope,season_id,season,tournament_id,match_id,round,kickoff_utc,home,home_id,away,away_id,home_goals,away_goals,open_1,open_x,open_2,close_1,close_x,close_2
+previous,57892,"Ettan, Sodra 2024",68,11988867,1,2024-03-29 12:00,Lunds BK,1829,FC Rosengård,7095,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988866,1,2024-03-29 13:00,Torns IF,62560,Torslanda IK,1790,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988865,1,2024-03-29 14:00,Falkenbergs FF,1812,FC Trollhättan,1791,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988864,1,2024-03-30 12:00,Eskilsminne IF,62558,Tvååkers IF,22356,0,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988860,1,2024-03-30 15:00,Oskarshamns AIK,22320,Ljungskile SK,1824,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988861,1,2024-03-30 15:00,Jönköpings Södra,1841,BK Olympic,47812,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988862,1,2024-03-31 14:00,Onsala BK,49956,Ariana FC Malmö,409200,0,5,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988863,1,2024-03-31 14:00,Ängelholms FF,1788,Norrby IF,1849,0,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988859,2,2024-04-06 09:00,FC Rosengård,7095,Torns IF,62560,5,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988856,2,2024-04-06 11:00,Norrby IF,1849,Jönköpings Södra,1841,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988852,2,2024-04-06 14:00,Tvååkers IF,22356,Oskarshamns AIK,22320,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988855,2,2024-04-06 14:00,FC Trollhättan,1791,Eskilsminne IF,62558,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988858,2,2024-04-06 14:00,BK Olympic,47812,Onsala BK,49956,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988857,2,2024-04-06 16:45,Ariana FC Malmö,409200,Falkenbergs FF,1812,0,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988851,2,2024-04-07 14:00,Torslanda IK,1790,Ängelholms FF,1788,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988853,2,2024-04-07 14:00,Ljungskile SK,1824,Lunds BK,1829,0,4,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988850,3,2024-04-12 17:00,Lunds BK,1829,Eskilsminne IF,62558,1,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988848,3,2024-04-13 11:00,Onsala BK,49956,Ljungskile SK,1824,2,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988849,3,2024-04-13 11:00,Ängelholms FF,1788,FC Rosengård,7095,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988844,3,2024-04-13 14:00,Torslanda IK,1790,BK Olympic,47812,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988847,3,2024-04-13 14:00,Jönköpings Södra,1841,Falkenbergs FF,1812,1,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988843,3,2024-04-14 14:00,Norrby IF,1849,Ariana FC Malmö,409200,1,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988846,3,2024-04-14 14:00,Torns IF,62560,Oskarshamns AIK,22320,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988842,3,2024-04-14 15:00,FC Trollhättan,1791,Tvååkers IF,22356,1,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988840,4,2024-04-19 17:00,Ariana FC Malmö,409200,Ängelholms FF,1788,3,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988841,4,2024-04-20 11:00,FC Rosengård,7095,Onsala BK,49956,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988837,4,2024-04-20 14:00,Eskilsminne IF,62558,Jönköpings Södra,1841,1,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988839,4,2024-04-20 14:00,Oskarshamns AIK,22320,Torslanda IK,1790,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988845,4,2024-04-20 14:00,Lunds BK,1829,FC Trollhättan,1791,3,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988836,4,2024-04-21 11:00,Tvååkers IF,22356,BK Olympic,47812,1,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988833,4,2024-04-21 13:00,Ljungskile SK,1824,Torns IF,62560,0,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988834,4,2024-04-21 13:00,Falkenbergs FF,1812,Norrby IF,1849,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988831,5,2024-04-26 17:00,Ängelholms FF,1788,Lunds BK,1829,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988832,5,2024-04-26 17:00,Torslanda IK,1790,FC Trollhättan,1791,2,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988829,5,2024-04-27 11:00,Onsala BK,49956,Falkenbergs FF,1812,2,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988830,5,2024-04-27 11:00,Torns IF,62560,Tvååkers IF,22356,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988827,5,2024-04-27 14:00,Ariana FC Malmö,409200,Oskarshamns AIK,22320,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988828,5,2024-04-27 14:00,BK Olympic,47812,Norrby IF,1849,0,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988835,5,2024-04-27 14:30,Jönköpings Södra,1841,FC Rosengård,7095,1,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988823,5,2024-04-28 14:00,Ljungskile SK,1824,Eskilsminne IF,62558,3,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988822,6,2024-05-04 11:00,Jönköpings Södra,1841,Torslanda IK,1790,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988826,6,2024-05-04 11:00,FC Rosengård,7095,Tvååkers IF,22356,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988817,6,2024-05-04 14:00,Onsala BK,49956,Oskarshamns AIK,22320,2,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988818,6,2024-05-04 14:00,Norrby IF,1849,Torns IF,62560,0,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988819,6,2024-05-04 14:00,Ängelholms FF,1788,Ljungskile SK,1824,2,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988820,6,2024-05-04 14:00,FC Trollhättan,1791,BK Olympic,47812,2,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988821,6,2024-05-04 14:00,Falkenbergs FF,1812,Eskilsminne IF,62558,3,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988727,6,2024-05-05 14:00,Ariana FC Malmö,409200,Lunds BK,1829,3,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988815,7,2024-05-08 16:30,Ljungskile SK,1824,FC Trollhättan,1791,1,5,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988814,7,2024-05-08 17:00,Ariana FC Malmö,409200,FC Rosengård,7095,2,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988805,7,2024-05-09 11:00,Tvååkers IF,22356,Norrby IF,1849,3,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988810,7,2024-05-09 11:00,BK Olympic,47812,Ängelholms FF,1788,1,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988811,7,2024-05-09 11:00,Eskilsminne IF,62558,Onsala BK,49956,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988812,7,2024-05-09 11:00,Torslanda IK,1790,Falkenbergs FF,1812,2,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988809,7,2024-05-09 12:00,Torns IF,62560,Jönköpings Södra,1841,4,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988806,7,2024-05-09 14:00,Oskarshamns AIK,22320,Lunds BK,1829,2,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988807,8,2024-05-11 14:00,FC Rosengård,7095,Ljungskile SK,1824,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988804,8,2024-05-12 11:00,Torns IF,62560,Onsala BK,49956,2,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988800,8,2024-05-12 14:00,Norrby IF,1849,Lunds BK,1829,0,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988808,8,2024-05-12 14:00,FC Trollhättan,1791,Oskarshamns AIK,22320,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988816,8,2024-05-12 14:00,Torslanda IK,1790,Ariana FC Malmö,409200,3,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988813,8,2024-05-13 16:30,BK Olympic,47812,Eskilsminne IF,62558,2,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988802,8,2024-05-13 17:00,Ängelholms FF,1788,Falkenbergs FF,1812,0,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988796,8,2024-05-13 17:15,Jönköpings Södra,1841,Tvååkers IF,22356,1,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988798,9,2024-05-17 17:00,FC Rosengård,7095,BK Olympic,47812,2,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988793,9,2024-05-18 14:00,Oskarshamns AIK,22320,Ängelholms FF,1788,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988797,9,2024-05-18 14:00,Eskilsminne IF,62558,Torslanda IK,1790,0,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988801,9,2024-05-18 14:00,Falkenbergs FF,1812,Torns IF,62560,5,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988792,9,2024-05-19 14:00,Onsala BK,49956,Norrby IF,1849,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988794,9,2024-05-19 14:00,Ariana FC Malmö,409200,FC Trollhättan,1791,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988795,9,2024-05-19 14:00,Ljungskile SK,1824,Jönköpings Södra,1841,2,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988799,9,2024-05-19 14:00,Lunds BK,1829,Tvååkers IF,22356,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988780,10,2024-05-23 17:00,Norrby IF,1849,FC Trollhättan,1791,3,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988791,10,2024-05-24 17:00,Torns IF,62560,Ariana FC Malmö,409200,3,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988790,10,2024-05-24 17:15,Tvååkers IF,22356,Ljungskile SK,1824,0,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988788,10,2024-05-25 11:00,Eskilsminne IF,62558,FC Rosengård,7095,2,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988789,10,2024-05-25 11:00,Onsala BK,49956,Torslanda IK,1790,0,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988787,10,2024-05-25 14:00,Falkenbergs FF,1812,Oskarshamns AIK,22320,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988785,10,2024-05-27 17:00,Jönköpings Södra,1841,Ängelholms FF,1788,1,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988786,10,2024-05-27 17:00,BK Olympic,47812,Lunds BK,1829,1,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988782,11,2024-05-31 17:00,Ljungskile SK,1824,Falkenbergs FF,1812,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988779,11,2024-06-01 11:00,Torslanda IK,1790,Tvååkers IF,22356,1,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988774,11,2024-06-01 14:00,FC Rosengård,7095,Norrby IF,1849,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988775,11,2024-06-01 14:00,Ängelholms FF,1788,Onsala BK,49956,3,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988777,11,2024-06-01 14:00,Lunds BK,1829,Jönköpings Södra,1841,2,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988778,11,2024-06-01 14:00,Ariana FC Malmö,409200,BK Olympic,47812,2,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988784,11,2024-06-01 14:00,Oskarshamns AIK,22320,Eskilsminne IF,62558,2,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988781,11,2024-06-02 14:00,FC Trollhättan,1791,Torns IF,62560,2,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988773,12,2024-06-05 17:00,Oskarshamns AIK,22320,Jönköpings Södra,1841,1,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988783,12,2024-06-06 11:00,Torslanda IK,1790,Ljungskile SK,1824,1,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988772,12,2024-06-07 17:00,BK Olympic,47812,Torns IF,62560,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988770,12,2024-06-08 11:00,Tvååkers IF,22356,Ariana FC Malmö,409200,0,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988763,12,2024-06-08 14:00,Onsala BK,49956,Lunds BK,1829,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988769,12,2024-06-08 14:00,Falkenbergs FF,1812,FC Rosengård,7095,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988771,12,2024-06-08 14:00,Eskilsminne IF,62558,Norrby IF,1849,3,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988767,12,2024-06-09 15:00,FC Trollhättan,1791,Ängelholms FF,1788,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988766,13,2024-06-14 17:00,Torns IF,62560,Eskilsminne IF,62558,0,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988754,13,2024-06-15 14:00,Ängelholms FF,1788,Tvååkers IF,22356,0,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988758,13,2024-06-15 14:00,Norrby IF,1849,Oskarshamns AIK,22320,6,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988764,13,2024-06-15 14:00,FC Rosengård,7095,FC Trollhättan,1791,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988765,13,2024-06-15 14:00,Lunds BK,1829,Torslanda IK,1790,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988756,13,2024-06-16 14:00,Jönköpings Södra,1841,Onsala BK,49956,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988757,13,2024-06-16 14:00,BK Olympic,47812,Falkenbergs FF,1812,0,5,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988761,13,2024-06-16 14:00,Ariana FC Malmö,409200,Ljungskile SK,1824,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988750,14,2024-06-19 17:00,Torns IF,62560,Ängelholms FF,1788,4,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988759,14,2024-06-19 17:00,Torslanda IK,1790,Norrby IF,1849,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988749,14,2024-06-20 17:00,Falkenbergs FF,1812,Lunds BK,1829,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988752,14,2024-06-20 17:00,Eskilsminne IF,62558,Ariana FC Malmö,409200,2,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988760,14,2024-06-20 17:00,Tvååkers IF,22356,Onsala BK,49956,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988742,14,2024-06-23 14:00,Oskarshamns AIK,22320,FC Rosengård,7095,0,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988745,14,2024-06-23 14:00,Ljungskile SK,1824,BK Olympic,47812,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988747,14,2024-06-24 17:00,FC Trollhättan,1791,Jönköpings Södra,1841,1,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988753,15,2024-06-25 17:00,Lunds BK,1829,Torns IF,62560,2,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988762,15,2024-06-27 17:00,Norrby IF,1849,Ljungskile SK,1824,3,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988744,15,2024-06-29 11:00,Onsala BK,49956,FC Trollhättan,1791,2,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988739,15,2024-06-29 14:00,Jönköpings Södra,1841,Ariana FC Malmö,409200,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988743,15,2024-06-29 14:00,BK Olympic,47812,Oskarshamns AIK,22320,1,4,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988751,15,2024-06-29 14:00,Tvååkers IF,22356,Falkenbergs FF,1812,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988755,15,2024-06-29 14:00,Ängelholms FF,1788,Eskilsminne IF,62558,2,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988740,15,2024-06-30 11:00,FC Rosengård,7095,Torslanda IK,1790,0,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988746,16,2024-07-03 17:00,Eskilsminne IF,62558,BK Olympic,47812,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988738,16,2024-08-03 11:00,Torns IF,62560,Falkenbergs FF,1812,0,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988734,16,2024-08-03 14:00,Torslanda IK,1790,Jönköpings Södra,1841,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988735,16,2024-08-03 14:00,Oskarshamns AIK,22320,Tvååkers IF,22356,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988730,16,2024-08-04 14:00,FC Trollhättan,1791,FC Rosengård,7095,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988737,16,2024-08-04 14:00,Ariana FC Malmö,409200,Onsala BK,49956,5,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988732,16,2024-08-05 17:00,Lunds BK,1829,Ängelholms FF,1788,4,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988741,16,2024-08-05 17:00,Ljungskile SK,1824,Norrby IF,1849,0,4,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988733,17,2024-08-10 11:00,Onsala BK,49956,Torns IF,62560,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988736,17,2024-08-10 11:00,Ängelholms FF,1788,BK Olympic,47812,0,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988726,17,2024-08-10 14:00,Ljungskile SK,1824,Oskarshamns AIK,22320,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988731,17,2024-08-10 14:00,Falkenbergs FF,1812,Tvååkers IF,22356,2,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,12305652,17,2024-08-10 14:00,Lunds BK,1829,Ariana FC Malmö,409200,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988729,17,2024-08-11 11:00,FC Rosengård,7095,Eskilsminne IF,62558,0,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988722,17,2024-08-12 17:00,Norrby IF,1849,Torslanda IK,1790,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988723,17,2024-08-12 17:00,Jönköpings Södra,1841,FC Trollhättan,1791,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988721,18,2024-08-16 16:30,Tvååkers IF,22356,Ängelholms FF,1788,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988719,18,2024-08-16 17:00,Lunds BK,1829,Falkenbergs FF,1812,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988724,18,2024-08-17 11:00,Torslanda IK,1790,Onsala BK,49956,3,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988713,18,2024-08-17 14:00,Jönköpings Södra,1841,Torns IF,62560,3,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988718,18,2024-08-17 14:00,Oskarshamns AIK,22320,Norrby IF,1849,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988725,18,2024-08-17 14:00,Eskilsminne IF,62558,Ljungskile SK,1824,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988707,18,2024-08-17 15:00,FC Trollhättan,1791,Ariana FC Malmö,409200,3,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988716,18,2024-08-19 16:00,BK Olympic,47812,FC Rosengård,7095,4,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988715,19,2024-08-24 11:00,Onsala BK,49956,Jönköpings Södra,1841,1,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988708,19,2024-08-24 14:00,Ängelholms FF,1788,Oskarshamns AIK,22320,2,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988709,19,2024-08-24 14:00,Ljungskile SK,1824,FC Rosengård,7095,1,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988712,19,2024-08-24 14:00,BK Olympic,47812,FC Trollhättan,1791,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988717,19,2024-08-24 14:00,Norrby IF,1849,Eskilsminne IF,62558,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988710,19,2024-08-25 14:00,Ariana FC Malmö,409200,Tvååkers IF,22356,4,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988714,19,2024-08-25 14:00,Falkenbergs FF,1812,Torslanda IK,1790,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988705,19,2024-08-27 16:30,Torns IF,62560,Lunds BK,1829,3,4,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988702,20,2024-08-31 11:00,FC Rosengård,7095,Ängelholms FF,1788,3,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988704,20,2024-08-31 11:00,Torslanda IK,1790,Torns IF,62560,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988711,20,2024-08-31 11:00,Lunds BK,1829,BK Olympic,47812,4,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988701,20,2024-08-31 14:00,Oskarshamns AIK,22320,Ariana FC Malmö,409200,4,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988703,20,2024-08-31 14:00,Falkenbergs FF,1812,Onsala BK,49956,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988699,20,2024-09-01 11:00,Tvååkers IF,22356,Eskilsminne IF,62558,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988697,20,2024-09-02 17:00,FC Trollhättan,1791,Ljungskile SK,1824,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988706,20,2024-09-02 17:00,Jönköpings Södra,1841,Norrby IF,1849,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988698,21,2024-09-07 11:00,Tvååkers IF,22356,FC Rosengård,7095,1,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988694,21,2024-09-07 14:00,Eskilsminne IF,62558,Oskarshamns AIK,22320,0,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988695,21,2024-09-07 14:00,Torns IF,62560,Ljungskile SK,1824,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988700,21,2024-09-07 14:00,Ariana FC Malmö,409200,Torslanda IK,1790,1,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988690,21,2024-09-08 14:00,Onsala BK,49956,BK Olympic,47812,0,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988692,21,2024-09-08 14:00,Ängelholms FF,1788,Jönköpings Södra,1841,2,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988691,21,2024-09-08 16:00,FC Trollhättan,1791,Lunds BK,1829,0,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988689,21,2024-09-09 17:00,Norrby IF,1849,Falkenbergs FF,1812,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988688,22,2024-09-13 17:00,FC Rosengård,7095,Ariana FC Malmö,409200,0,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988685,22,2024-09-14 11:00,Ängelholms FF,1788,Torns IF,62560,0,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988687,22,2024-09-14 11:00,BK Olympic,47812,Tvååkers IF,22356,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988683,22,2024-09-14 14:00,Lunds BK,1829,Oskarshamns AIK,22320,4,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988686,22,2024-09-14 14:00,Eskilsminne IF,62558,FC Trollhättan,1791,4,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988680,22,2024-09-15 14:00,Norrby IF,1849,Onsala BK,49956,3,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988682,22,2024-09-15 14:00,Ljungskile SK,1824,Torslanda IK,1790,3,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988684,22,2024-09-15 14:00,Falkenbergs FF,1812,Jönköpings Södra,1841,3,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988681,23,2024-09-20 17:00,Ariana FC Malmö,409200,Eskilsminne IF,62558,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988678,23,2024-09-21 11:00,Torslanda IK,1790,FC Rosengård,7095,2,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988679,23,2024-09-21 11:00,Falkenbergs FF,1812,Ljungskile SK,1824,2,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988674,23,2024-09-21 14:00,Oskarshamns AIK,22320,BK Olympic,47812,2,4,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988676,23,2024-09-21 14:00,Jönköpings Södra,1841,Lunds BK,1829,3,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988664,23,2024-09-22 11:00,Tvååkers IF,22356,FC Trollhättan,1791,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988673,23,2024-09-22 11:00,Onsala BK,49956,Ängelholms FF,1788,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988677,23,2024-09-22 14:00,Torns IF,62560,Norrby IF,1849,2,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988663,24,2024-09-27 17:00,FC Trollhättan,1791,Falkenbergs FF,1812,3,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988672,24,2024-09-28 11:00,Eskilsminne IF,62558,Torns IF,62560,2,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988662,24,2024-09-28 14:00,Ängelholms FF,1788,Torslanda IK,1790,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988666,24,2024-09-28 14:00,Lunds BK,1829,Onsala BK,49956,2,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988671,24,2024-09-28 14:00,FC Rosengård,7095,Oskarshamns AIK,22320,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988660,24,2024-09-29 13:00,Ljungskile SK,1824,Ariana FC Malmö,409200,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988658,24,2024-09-29 14:00,BK Olympic,47812,Jönköpings Södra,1841,4,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988669,24,2024-09-30 17:00,Norrby IF,1849,Tvååkers IF,22356,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988667,25,2024-10-04 17:00,Torns IF,62560,BK Olympic,47812,0,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988657,25,2024-10-05 11:00,Tvååkers IF,22356,Lunds BK,1829,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988665,25,2024-10-05 11:00,Falkenbergs FF,1812,Ängelholms FF,1788,0,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988654,25,2024-10-05 14:00,Oskarshamns AIK,22320,FC Trollhättan,1791,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988655,25,2024-10-05 14:00,Jönköpings Södra,1841,Ljungskile SK,1824,0,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988656,25,2024-10-06 13:00,Torslanda IK,1790,Eskilsminne IF,62558,2,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988670,25,2024-10-06 13:00,Onsala BK,49956,FC Rosengård,7095,2,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988668,25,2024-10-06 14:00,Ariana FC Malmö,409200,Norrby IF,1849,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988651,26,2024-10-12 11:00,Tvååkers IF,22356,Torns IF,62560,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988652,26,2024-10-12 11:00,Eskilsminne IF,62558,Lunds BK,1829,3,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988653,26,2024-10-12 11:00,BK Olympic,47812,Ariana FC Malmö,409200,3,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988659,26,2024-10-12 11:00,Ljungskile SK,1824,Onsala BK,49956,2,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988661,26,2024-10-12 13:00,Oskarshamns AIK,22320,Falkenbergs FF,1812,0,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988648,26,2024-10-13 11:00,Norrby IF,1849,Ängelholms FF,1788,1,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988650,26,2024-10-13 14:00,FC Rosengård,7095,Jönköpings Södra,1841,0,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988649,26,2024-10-14 17:00,FC Trollhättan,1791,Torslanda IK,1790,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988646,27,2024-10-19 11:00,Torns IF,62560,FC Rosengård,7095,0,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988644,27,2024-10-19 14:00,Ängelholms FF,1788,FC Trollhättan,1791,3,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988645,27,2024-10-19 14:00,Torslanda IK,1790,Oskarshamns AIK,22320,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988647,27,2024-10-19 14:00,Jönköpings Södra,1841,Eskilsminne IF,62558,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988640,27,2024-10-20 11:00,Onsala BK,49956,Tvååkers IF,22356,2,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988643,27,2024-10-20 13:00,Norrby IF,1849,BK Olympic,47812,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988636,27,2024-10-20 14:00,Lunds BK,1829,Ljungskile SK,1824,4,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988638,27,2024-10-20 14:00,Falkenbergs FF,1812,Ariana FC Malmö,409200,1,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988639,28,2024-10-25 17:00,Ariana FC Malmö,409200,Torns IF,62560,4,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988634,28,2024-10-26 11:00,Tvååkers IF,22356,Jönköpings Södra,1841,2,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988641,28,2024-10-26 11:00,FC Trollhättan,1791,Norrby IF,1849,3,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988637,28,2024-10-26 13:00,Ljungskile SK,1824,Ängelholms FF,1788,3,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988635,28,2024-10-26 14:00,Oskarshamns AIK,22320,Onsala BK,49956,3,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988629,28,2024-10-27 12:00,FC Rosengård,7095,Lunds BK,1829,4,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988633,28,2024-10-27 12:00,Eskilsminne IF,62558,Falkenbergs FF,1812,1,4,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988625,28,2024-10-27 15:00,BK Olympic,47812,Torslanda IK,1790,2,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988605,29,2024-11-02 12:00,Onsala BK,49956,Eskilsminne IF,62558,0,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988606,29,2024-11-02 12:00,Ljungskile SK,1824,Tvååkers IF,22356,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988610,29,2024-11-02 15:00,Falkenbergs FF,1812,BK Olympic,47812,2,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988619,29,2024-11-02 15:00,Torslanda IK,1790,Lunds BK,1829,2,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988630,29,2024-11-02 15:00,Torns IF,62560,FC Trollhättan,1791,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988618,29,2024-11-03 12:00,Ängelholms FF,1788,Ariana FC Malmö,409200,3,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988632,29,2024-11-03 14:00,Norrby IF,1849,FC Rosengård,7095,2,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988628,29,2024-11-03 15:00,Jönköpings Södra,1841,Oskarshamns AIK,22320,0,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988608,30,2024-11-10 14:00,Lunds BK,1829,Norrby IF,1849,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988611,30,2024-11-10 14:00,FC Rosengård,7095,Falkenbergs FF,1812,0,0,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988612,30,2024-11-10 14:00,Eskilsminne IF,62558,Ängelholms FF,1788,5,2,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988613,30,2024-11-10 14:00,BK Olympic,47812,Ljungskile SK,1824,4,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988614,30,2024-11-10 14:00,Oskarshamns AIK,22320,Torns IF,62560,1,1,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988616,30,2024-11-10 14:00,Ariana FC Malmö,409200,Jönköpings Södra,1841,0,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988621,30,2024-11-10 14:00,Tvååkers IF,22356,Torslanda IK,1790,2,3,,,,,,
+previous,57892,"Ettan, Sodra 2024",68,11988627,30,2024-11-10 14:00,FC Trollhättan,1791,Onsala BK,49956,4,0,,,,,,
+current,70854,"Ettan, Sodra 2025",68,13342483,1,2025-03-28 18:00,FC Trollhättan,1791,Skövde AIK,7063,6,1,2.2,3.4,2.75,2.2,3.4,2.75
+current,70854,"Ettan, Sodra 2025",68,13342481,1,2025-03-29 12:00,Eskilsminne IF,62558,Ljungskile SK,1824,0,3,1.7273,3.5,4.0,1.7273,3.5,4.0
+current,70854,"Ettan, Sodra 2025",68,13342482,1,2025-03-29 12:00,FC Rosengård,7095,Husqvarna FF,1820,2,1,1.8,3.4,3.8,1.8,3.4,3.8
+current,70854,"Ettan, Sodra 2025",68,13342488,1,2025-03-29 12:00,Ängelholms FF,1788,Hässleholms IF,22274,0,1,2.25,3.2,2.875,2.25,3.2,2.875
+current,70854,"Ettan, Sodra 2025",68,13342484,1,2025-03-29 15:00,IFK Skovde FK,189476,Ariana FC Malmö,409200,0,1,3.0,3.5,2.05,3.0,3.5,2.05
+current,70854,"Ettan, Sodra 2025",68,13342486,1,2025-03-29 15:00,Norrby IF,1849,BK Olympic,47812,4,0,1.95,3.4,3.25,1.95,3.4,3.25
+current,70854,"Ettan, Sodra 2025",68,13342487,1,2025-03-29 15:00,Torslanda IK,1790,Oskarshamns AIK,22320,3,0,2.05,3.3,3.1,2.05,3.3,3.1
+current,70854,"Ettan, Sodra 2025",68,13342485,1,2025-03-30 14:00,Jönköpings Södra,1841,Lunds BK,1829,2,0,2.5,3.4,2.45,2.5,3.4,2.45
+current,70854,"Ettan, Sodra 2025",68,13342492,2,2025-04-04 17:00,Hässleholms IF,22274,FC Rosengård,7095,0,1,2.5,3.5,2.35,2.5,3.5,2.35
+current,70854,"Ettan, Sodra 2025",68,13342489,2,2025-04-05 11:00,Ariana FC Malmö,409200,Jönköpings Södra,1841,0,0,2.4,3.6,2.4,2.4,3.6,2.4
+current,70854,"Ettan, Sodra 2025",68,13342493,2,2025-04-05 11:00,Ljungskile SK,1824,Norrby IF,1849,0,2,2.5,3.6,2.3,2.5,3.6,2.3
+current,70854,"Ettan, Sodra 2025",68,13342496,2,2025-04-05 11:00,Skövde AIK,7063,Eskilsminne IF,62558,1,1,2.1,3.5,2.8,2.1,3.5,2.8
+current,70854,"Ettan, Sodra 2025",68,13342490,2,2025-04-05 14:00,BK Olympic,47812,IFK Skovde FK,189476,2,1,1.7273,3.6,3.9,1.7273,3.6,3.9
+current,70854,"Ettan, Sodra 2025",68,13342491,2,2025-04-05 14:00,Husqvarna FF,1820,FC Trollhättan,1791,3,0,2.875,3.4,2.1,2.875,3.4,2.1
+current,70854,"Ettan, Sodra 2025",68,13342495,2,2025-04-05 14:00,Oskarshamns AIK,22320,Ängelholms FF,1788,0,0,2.5,3.5,2.35,2.5,3.5,2.35
+current,70854,"Ettan, Sodra 2025",68,13342494,2,2025-04-06 14:00,Lunds BK,1829,Torslanda IK,1790,1,0,1.6154,3.75,4.3333,1.6154,3.75,4.3333
+current,70854,"Ettan, Sodra 2025",68,13342497,3,2025-04-11 17:00,Ariana FC Malmö,409200,Hässleholms IF,22274,3,0,1.65,3.9,4.1,1.65,3.9,4.1
+current,70854,"Ettan, Sodra 2025",68,13342499,3,2025-04-12 11:00,FC Rosengård,7095,Ängelholms FF,1788,1,1,1.95,3.5,3.1,1.95,3.5,3.1
+current,70854,"Ettan, Sodra 2025",68,13342503,3,2025-04-12 11:00,Skövde AIK,7063,Ljungskile SK,1824,1,4,1.7273,3.6,3.9,1.7273,3.6,3.9
+current,70854,"Ettan, Sodra 2025",68,13342498,3,2025-04-12 14:00,Eskilsminne IF,62558,IFK Skovde FK,189476,1,1,1.5,3.8,5.25,1.5,3.8,5.25
+current,70854,"Ettan, Sodra 2025",68,13342500,3,2025-04-12 14:00,FC Trollhättan,1791,Lunds BK,1829,1,5,2.45,3.6,2.35,2.45,3.6,2.35
+current,70854,"Ettan, Sodra 2025",68,13342501,3,2025-04-12 14:00,Husqvarna FF,1820,BK Olympic,47812,2,3,2.4,3.6,2.4,2.4,3.6,2.4
+current,70854,"Ettan, Sodra 2025",68,13342504,3,2025-04-13 11:00,Torslanda IK,1790,Jönköpings Södra,1841,2,0,2.875,3.2,2.25,2.875,3.2,2.25
+current,70854,"Ettan, Sodra 2025",68,13342502,3,2025-04-13 14:00,Oskarshamns AIK,22320,Norrby IF,1849,0,1,4.3333,3.6,1.65,4.3333,3.6,1.65
+current,70854,"Ettan, Sodra 2025",68,13342511,4,2025-04-17 17:00,Norrby IF,1849,Skövde AIK,7063,2,2,1.3333,5.0,6.0,1.3333,5.0,6.0
+current,70854,"Ettan, Sodra 2025",68,13342505,4,2025-04-18 11:00,BK Olympic,47812,Torslanda IK,1790,0,6,2.1,3.75,2.7,2.1,3.75,2.7
+current,70854,"Ettan, Sodra 2025",68,13342509,4,2025-04-18 11:00,Ljungskile SK,1824,Husqvarna FF,1820,3,1,1.8,3.75,3.4,1.8,3.75,3.4
+current,70854,"Ettan, Sodra 2025",68,13342512,4,2025-04-18 11:00,Ängelholms FF,1788,Ariana FC Malmö,409200,2,1,2.3,3.7,2.4,2.3,3.7,2.4
+current,70854,"Ettan, Sodra 2025",68,13342506,4,2025-04-18 14:00,Hässleholms IF,22274,FC Trollhättan,1791,0,2,2.4,3.6,2.4,2.4,3.6,2.4
+current,70854,"Ettan, Sodra 2025",68,13342507,4,2025-04-18 14:00,IFK Skovde FK,189476,FC Rosengård,7095,1,2,2.7,3.6,2.15,2.7,3.6,2.15
+current,70854,"Ettan, Sodra 2025",68,13342510,4,2025-04-18 14:00,Lunds BK,1829,Oskarshamns AIK,22320,3,0,1.5714,4.0,4.3333,1.5714,4.0,4.3333
+current,70854,"Ettan, Sodra 2025",68,13342508,4,2025-04-21 14:00,Jönköpings Södra,1841,Eskilsminne IF,62558,3,1,2.15,3.3,2.875,2.15,3.3,2.875
+current,70854,"Ettan, Sodra 2025",68,13342513,5,2025-04-26 11:00,FC Rosengård,7095,Eskilsminne IF,62558,1,0,1.6667,3.6,4.2,1.6667,3.6,4.2
+current,70854,"Ettan, Sodra 2025",68,13342517,5,2025-04-26 11:00,Ljungskile SK,1824,FC Trollhättan,1791,2,0,2.2,3.6,2.625,2.2,3.6,2.625
+current,70854,"Ettan, Sodra 2025",68,13342514,5,2025-04-26 14:00,Husqvarna FF,1820,Hässleholms IF,22274,2,2,2.25,3.5,2.6,2.25,3.5,2.6
+current,70854,"Ettan, Sodra 2025",68,13342515,5,2025-04-26 14:00,IFK Skovde FK,189476,Skövde AIK,7063,0,2,2.6,3.5,2.25,2.6,3.5,2.25
+current,70854,"Ettan, Sodra 2025",68,13342519,5,2025-04-26 14:00,Oskarshamns AIK,22320,BK Olympic,47812,0,0,3.0,3.4,2.05,3.0,3.4,2.05
+current,70854,"Ettan, Sodra 2025",68,13342520,5,2025-04-27 14:00,Torslanda IK,1790,Ängelholms FF,1788,2,4,2.0,3.4,3.25,2.0,3.4,3.25
+current,70854,"Ettan, Sodra 2025",68,13342516,5,2025-04-28 17:00,Jönköpings Södra,1841,Norrby IF,1849,1,0,2.5,3.5,2.35,2.5,3.5,2.35
+current,70854,"Ettan, Sodra 2025",68,13342518,5,2025-04-28 17:00,Lunds BK,1829,Ariana FC Malmö,409200,0,0,2.0,3.5,3.0,2.0,3.5,3.0
+current,70854,"Ettan, Sodra 2025",68,13342521,6,2025-05-03 11:00,Ariana FC Malmö,409200,Husqvarna FF,1820,3,1,1.9091,3.5,3.25,1.9091,3.5,3.25
+current,70854,"Ettan, Sodra 2025",68,13342523,6,2025-05-03 11:00,Eskilsminne IF,62558,Torslanda IK,1790,0,0,2.625,3.4,2.25,2.625,3.4,2.25
+current,70854,"Ettan, Sodra 2025",68,13342527,6,2025-05-03 11:00,Skövde AIK,7063,Jönköpings Södra,1841,1,0,2.25,3.5,2.6,2.25,3.5,2.6
+current,70854,"Ettan, Sodra 2025",68,13342524,6,2025-05-03 14:00,FC Trollhättan,1791,Oskarshamns AIK,22320,3,3,1.8,3.5,3.6,1.8,3.5,3.6
+current,70854,"Ettan, Sodra 2025",68,13342526,6,2025-05-03 14:00,Norrby IF,1849,Lunds BK,1829,2,2,2.25,3.6,2.55,2.25,3.6,2.55
+current,70854,"Ettan, Sodra 2025",68,13342528,6,2025-05-03 14:00,Ängelholms FF,1788,IFK Skovde FK,189476,4,3,1.5333,3.6,5.5,1.5333,3.6,5.5
+current,70854,"Ettan, Sodra 2025",68,13342525,6,2025-05-04 14:00,Hässleholms IF,22274,Ljungskile SK,1824,1,4,2.05,3.6,2.9,2.05,3.6,2.9
+current,70854,"Ettan, Sodra 2025",68,13342522,6,2025-05-05 17:00,BK Olympic,47812,FC Rosengård,7095,2,2,3.2,3.5,2.0,3.2,3.5,2.0
+current,70854,"Ettan, Sodra 2025",68,13342534,7,2025-05-09 17:00,Lunds BK,1829,Hässleholms IF,22274,1,0,1.4444,3.8,6.25,1.4444,3.8,6.25
+current,70854,"Ettan, Sodra 2025",68,13342536,7,2025-05-10 11:00,Torslanda IK,1790,IFK Skovde FK,189476,0,0,1.42,4.0,6.25,1.42,4.0,6.25
+current,70854,"Ettan, Sodra 2025",68,13342531,7,2025-05-10 14:00,Husqvarna FF,1820,Eskilsminne IF,62558,0,2,2.75,3.4,2.2,2.75,3.4,2.2
+current,70854,"Ettan, Sodra 2025",68,13342533,7,2025-05-10 14:00,Ljungskile SK,1824,Oskarshamns AIK,22320,1,3,1.5714,3.3,5.75,1.5714,3.3,5.75
+current,70854,"Ettan, Sodra 2025",68,13342535,7,2025-05-10 14:00,Skövde AIK,7063,Ariana FC Malmö,409200,2,2,3.3,3.6,1.85,3.3,3.6,1.85
+current,70854,"Ettan, Sodra 2025",68,13342529,7,2025-05-11 14:00,FC Rosengård,7095,Norrby IF,1849,1,1,2.625,3.2,2.4,2.625,3.2,2.4
+current,70854,"Ettan, Sodra 2025",68,13342530,7,2025-05-11 14:00,FC Trollhättan,1791,Ängelholms FF,1788,0,0,2.1,3.5,2.8,2.1,3.5,2.8
+current,70854,"Ettan, Sodra 2025",68,13342532,7,2025-05-11 14:00,Jönköpings Södra,1841,BK Olympic,47812,1,0,1.5714,3.7,5.0,1.5714,3.7,5.0
+current,70854,"Ettan, Sodra 2025",68,13342540,8,2025-05-16 17:00,IFK Skovde FK,189476,Husqvarna FF,1820,5,0,2.3,3.4,2.625,2.3,3.4,2.625
+current,70854,"Ettan, Sodra 2025",68,13342543,8,2025-05-16 17:00,Norrby IF,1849,FC Trollhättan,1791,1,1,1.5,4.0,5.0,1.5,4.0,5.0
+current,70854,"Ettan, Sodra 2025",68,13342538,8,2025-05-17 11:00,Eskilsminne IF,62558,Ariana FC Malmö,409200,2,2,2.75,3.4,2.2,2.75,3.4,2.2
+current,70854,"Ettan, Sodra 2025",68,13342539,8,2025-05-17 14:00,Hässleholms IF,22274,Torslanda IK,1790,2,0,2.75,3.4,2.2,2.75,3.4,2.2
+current,70854,"Ettan, Sodra 2025",68,13342541,8,2025-05-17 14:00,Jönköpings Södra,1841,FC Rosengård,7095,3,0,2.2,3.3,2.8,2.2,3.3,2.8
+current,70854,"Ettan, Sodra 2025",68,13342542,8,2025-05-17 14:00,Ljungskile SK,1824,Lunds BK,1829,3,0,2.4,3.6,2.4,2.4,3.6,2.4
+current,70854,"Ettan, Sodra 2025",68,13342544,8,2025-05-18 14:00,Oskarshamns AIK,22320,Skövde AIK,7063,3,0,2.7,3.5,2.2,2.7,3.5,2.2
+current,70854,"Ettan, Sodra 2025",68,13342537,8,2025-05-19 16:30,BK Olympic,47812,Ängelholms FF,1788,2,2,2.8,3.25,2.25,2.8,3.25,2.25
+current,70854,"Ettan, Sodra 2025",68,13342547,9,2025-05-23 17:00,FC Rosengård,7095,Lunds BK,1829,0,1,2.3,3.4,2.6,2.3,3.4,2.6
+current,70854,"Ettan, Sodra 2025",68,13342551,9,2025-05-23 17:00,Torslanda IK,1790,FC Trollhättan,1791,4,1,1.75,3.75,3.6,1.75,3.75,3.6
+current,70854,"Ettan, Sodra 2025",68,13342546,9,2025-05-24 11:00,BK Olympic,47812,Eskilsminne IF,62558,2,1,2.5,3.2,2.5,2.5,3.2,2.5
+current,70854,"Ettan, Sodra 2025",68,13342549,9,2025-05-24 11:00,Hässleholms IF,22274,Oskarshamns AIK,22320,1,1,2.5,3.2,2.5,2.5,3.2,2.5
+current,70854,"Ettan, Sodra 2025",68,13342550,9,2025-05-24 11:00,IFK Skovde FK,189476,Norrby IF,1849,1,0,3.3,3.4,1.9091,3.3,3.4,1.9091
+current,70854,"Ettan, Sodra 2025",68,13342545,9,2025-05-24 14:00,Ariana FC Malmö,409200,Ljungskile SK,1824,3,2,1.5714,3.9,4.5,1.5714,3.9,4.5
+current,70854,"Ettan, Sodra 2025",68,13342548,9,2025-05-24 14:00,Husqvarna FF,1820,Jönköpings Södra,1841,0,1,3.3,3.6,1.9,3.3,3.6,1.9
+current,70854,"Ettan, Sodra 2025",68,13342552,9,2025-05-24 14:00,Ängelholms FF,1788,Skövde AIK,7063,1,2,1.8,3.75,3.4,1.8,3.75,3.4
+current,70854,"Ettan, Sodra 2025",68,13342554,10,2025-05-28 17:00,Jönköpings Södra,1841,Hässleholms IF,22274,2,1,1.6,3.75,4.8,1.6,3.75,4.8
+current,70854,"Ettan, Sodra 2025",68,13342555,10,2025-05-28 17:00,Ljungskile SK,1824,IFK Skovde FK,189476,11,0,1.5714,4.2,4.3333,1.5714,4.2,4.3333
+current,70854,"Ettan, Sodra 2025",68,13342556,10,2025-05-28 17:00,Lunds BK,1829,Eskilsminne IF,62558,2,2,1.5714,3.75,5.0,1.5714,3.75,5.0
+current,70854,"Ettan, Sodra 2025",68,13342559,10,2025-05-28 17:00,Skövde AIK,7063,Husqvarna FF,1820,3,3,1.6667,4.0,4.0,1.6667,4.0,4.0
+current,70854,"Ettan, Sodra 2025",68,13342560,10,2025-05-29 11:00,Torslanda IK,1790,Ariana FC Malmö,409200,0,0,3.0,3.5,2.1,3.0,3.5,2.1
+current,70854,"Ettan, Sodra 2025",68,13342553,10,2025-05-29 14:00,FC Trollhättan,1791,BK Olympic,47812,0,3,1.7,4.0,3.8,1.7,4.0,3.8
+current,70854,"Ettan, Sodra 2025",68,13342557,10,2025-05-29 14:00,Norrby IF,1849,Ängelholms FF,1788,2,0,1.6667,4.0,4.0,1.6667,4.0,4.0
+current,70854,"Ettan, Sodra 2025",68,13342558,10,2025-05-29 14:00,Oskarshamns AIK,22320,FC Rosengård,7095,0,2,3.3,3.4,2.0,3.3,3.4,2.0
+current,70854,"Ettan, Sodra 2025",68,13342564,11,2025-06-01 11:00,FC Rosengård,7095,Torslanda IK,1790,1,0,1.7273,3.5,4.1,1.7273,3.5,4.1
+current,70854,"Ettan, Sodra 2025",68,13342565,11,2025-06-01 11:00,Husqvarna FF,1820,Oskarshamns AIK,22320,0,2,2.15,3.5,2.8,2.15,3.5,2.8
+current,70854,"Ettan, Sodra 2025",68,13342567,11,2025-06-01 11:00,IFK Skovde FK,189476,Jönköpings Södra,1841,0,3,5.5,4.0,1.48,5.5,4.0,1.48
+current,70854,"Ettan, Sodra 2025",68,13342568,11,2025-06-01 11:00,Ängelholms FF,1788,Lunds BK,1829,1,2,2.625,3.4,2.3,2.625,3.4,2.3
+current,70854,"Ettan, Sodra 2025",68,13342561,11,2025-06-01 14:00,Ariana FC Malmö,409200,Norrby IF,1849,0,2,1.9091,3.4,3.4,1.9091,3.4,3.4
+current,70854,"Ettan, Sodra 2025",68,13342562,11,2025-06-01 14:00,BK Olympic,47812,Ljungskile SK,1824,1,1,2.45,3.5,2.375,2.45,3.5,2.375
+current,70854,"Ettan, Sodra 2025",68,13342563,11,2025-06-01 14:00,Eskilsminne IF,62558,FC Trollhättan,1791,2,2,1.85,3.6,3.5,1.85,3.6,3.5
+current,70854,"Ettan, Sodra 2025",68,13342566,11,2025-06-01 14:00,Hässleholms IF,22274,Skövde AIK,7063,3,1,2.0,3.5,3.1,2.0,3.5,3.1
+current,70854,"Ettan, Sodra 2025",68,13342570,12,2025-06-05 17:00,FC Trollhättan,1791,IFK Skovde FK,189476,4,0,1.3333,4.5,7.0,1.3333,4.5,7.0
+current,70854,"Ettan, Sodra 2025",68,13342572,12,2025-06-06 11:00,Lunds BK,1829,BK Olympic,47812,2,1,1.5,4.0,5.0,1.5,4.0,5.0
+current,70854,"Ettan, Sodra 2025",68,13342576,12,2025-06-06 11:00,Torslanda IK,1790,Husqvarna FF,1820,3,1,1.6667,3.6,4.2,1.6667,3.6,4.2
+current,70854,"Ettan, Sodra 2025",68,13342569,12,2025-06-06 14:00,Eskilsminne IF,62558,Ängelholms FF,1788,1,6,2.0,3.4,3.1,2.0,3.4,3.1
+current,70854,"Ettan, Sodra 2025",68,13342574,12,2025-06-07 14:00,Oskarshamns AIK,22320,Ariana FC Malmö,409200,1,3,3.4,3.5,1.85,3.4,3.5,1.85
+current,70854,"Ettan, Sodra 2025",68,13342575,12,2025-06-07 14:00,Skövde AIK,7063,FC Rosengård,7095,4,1,2.6,3.5,2.25,2.6,3.5,2.25
+current,70854,"Ettan, Sodra 2025",68,13342571,12,2025-06-08 14:00,Ljungskile SK,1824,Jönköpings Södra,1841,2,0,2.55,3.5,2.25,2.55,3.5,2.25
+current,70854,"Ettan, Sodra 2025",68,13342573,12,2025-06-08 14:00,Norrby IF,1849,Hässleholms IF,22274,1,2,1.6,3.75,4.5,1.6,3.75,4.5
+current,70854,"Ettan, Sodra 2025",68,13342579,13,2025-06-12 17:00,Hässleholms IF,22274,BK Olympic,47812,1,1,2.05,3.5,3.0,2.05,3.5,3.0
+current,70854,"Ettan, Sodra 2025",68,13342581,13,2025-06-14 11:00,Jönköpings Södra,1841,Oskarshamns AIK,22320,1,0,1.3636,4.1,8.0,1.3636,4.1,8.0
+current,70854,"Ettan, Sodra 2025",68,13342583,13,2025-06-14 11:00,Skövde AIK,7063,Torslanda IK,1790,3,2,2.1,3.5,2.875,2.1,3.5,2.875
+current,70854,"Ettan, Sodra 2025",68,13342578,13,2025-06-14 14:00,FC Rosengård,7095,Ljungskile SK,1824,0,2,1.85,3.5,3.5,1.85,3.5,3.5
+current,70854,"Ettan, Sodra 2025",68,13342582,13,2025-06-14 14:00,Norrby IF,1849,Eskilsminne IF,62558,1,1,1.65,3.5,4.5,1.65,3.5,4.5
+current,70854,"Ettan, Sodra 2025",68,13342584,13,2025-06-14 14:00,Ängelholms FF,1788,Husqvarna FF,1820,6,1,1.4444,3.75,6.5,1.4444,3.75,6.5
+current,70854,"Ettan, Sodra 2025",68,13342577,13,2025-06-15 14:00,Ariana FC Malmö,409200,FC Trollhättan,1791,3,3,1.65,3.5,4.3333,1.65,3.5,4.3333
+current,70854,"Ettan, Sodra 2025",68,13342580,13,2025-06-15 14:00,IFK Skovde FK,189476,Lunds BK,1829,3,2,6.0,3.9,1.45,6.0,3.9,1.45
+current,70854,"Ettan, Sodra 2025",68,13342591,14,2025-06-18 17:00,Torslanda IK,1790,Ljungskile SK,1824,1,1,3.1,3.75,1.95,3.1,3.75,1.95
+current,70854,"Ettan, Sodra 2025",68,13342585,14,2025-06-19 17:00,BK Olympic,47812,Ariana FC Malmö,409200,1,1,3.8,3.6,1.8,3.8,3.6,1.8
+current,70854,"Ettan, Sodra 2025",68,13342586,14,2025-06-19 17:00,Eskilsminne IF,62558,Hässleholms IF,22274,0,3,2.15,3.5,3.0,2.15,3.5,3.0
+current,70854,"Ettan, Sodra 2025",68,13342588,14,2025-06-19 17:00,Husqvarna FF,1820,Norrby IF,1849,1,1,5.0,4.1,1.5333,5.0,4.1,1.5333
+current,70854,"Ettan, Sodra 2025",68,13342590,14,2025-06-19 17:00,Lunds BK,1829,Skövde AIK,7063,3,0,1.4444,4.75,5.25,1.4444,4.75,5.25
+current,70854,"Ettan, Sodra 2025",68,13342592,14,2025-06-19 17:00,Ängelholms FF,1788,Jönköpings Södra,1841,1,2,2.6,3.6,2.35,2.6,3.6,2.35
+current,70854,"Ettan, Sodra 2025",68,13342587,14,2025-06-22 14:00,FC Trollhättan,1791,FC Rosengård,7095,0,2,2.25,3.7,2.55,2.25,3.7,2.55
+current,70854,"Ettan, Sodra 2025",68,13342589,14,2025-06-22 14:00,IFK Skovde FK,189476,Oskarshamns AIK,22320,1,1,2.6,3.6,2.2,2.6,3.6,2.2
+current,70854,"Ettan, Sodra 2025",68,13342595,15,2025-06-26 17:00,Husqvarna FF,1820,Lunds BK,1829,2,1,4.75,3.75,1.5714,4.75,3.75,1.5714
+current,70854,"Ettan, Sodra 2025",68,13342599,15,2025-06-26 17:00,Norrby IF,1849,Torslanda IK,1790,4,2,1.65,3.9,3.9,1.65,3.9,3.9
+current,70854,"Ettan, Sodra 2025",68,13342593,15,2025-06-27 17:00,Ariana FC Malmö,409200,FC Rosengård,7095,1,2,2.05,3.5,3.0,2.05,3.5,3.0
+current,70854,"Ettan, Sodra 2025",68,13342596,15,2025-06-28 11:00,Hässleholms IF,22274,IFK Skovde FK,189476,3,1,1.5,4.0,5.25,1.5,4.0,5.25
+current,70854,"Ettan, Sodra 2025",68,13342594,15,2025-06-28 14:00,BK Olympic,47812,Skövde AIK,7063,0,2,2.2,3.4,2.75,2.2,3.4,2.75
+current,70854,"Ettan, Sodra 2025",68,13342597,15,2025-06-28 14:00,Jönköpings Södra,1841,FC Trollhättan,1791,2,1,1.42,4.1,5.75,1.42,4.1,5.75
+current,70854,"Ettan, Sodra 2025",68,13342598,15,2025-06-28 14:00,Ljungskile SK,1824,Ängelholms FF,1788,3,2,1.75,3.6,3.75,1.75,3.6,3.75
+current,70854,"Ettan, Sodra 2025",68,13342600,15,2025-06-28 14:00,Oskarshamns AIK,22320,Eskilsminne IF,62558,0,0,2.1,3.4,2.9,2.1,3.4,2.9
+current,70854,"Ettan, Sodra 2025",68,13342601,16,2025-07-02 17:00,Eskilsminne IF,62558,BK Olympic,47812,2,0,1.7273,4.0,3.5,1.7273,4.0,3.5
+current,70854,"Ettan, Sodra 2025",68,13342605,16,2025-08-02 11:00,Lunds BK,1829,Husqvarna FF,1820,3,3,1.45,4.0,5.75,1.45,4.0,5.75
+current,70854,"Ettan, Sodra 2025",68,13342602,16,2025-08-02 14:00,FC Rosengård,7095,Jönköpings Södra,1841,0,1,2.55,2.8,2.7,2.55,2.8,2.7
+current,70854,"Ettan, Sodra 2025",68,13342606,16,2025-08-02 14:00,Oskarshamns AIK,22320,Torslanda IK,1790,0,1,2.15,3.4,3.0,2.15,3.4,3.0
+current,70854,"Ettan, Sodra 2025",68,13342608,16,2025-08-02 14:00,Ängelholms FF,1788,Norrby IF,1849,0,4,2.2,3.5,2.8,2.2,3.5,2.8
+current,70854,"Ettan, Sodra 2025",68,13342603,16,2025-08-04 17:00,FC Trollhättan,1791,Ljungskile SK,1824,2,2,2.8,3.5,2.15,2.8,3.5,2.15
+current,70854,"Ettan, Sodra 2025",68,13342604,16,2025-08-04 17:00,Hässleholms IF,22274,Ariana FC Malmö,409200,2,1,2.75,3.3,2.25,2.75,3.3,2.25
+current,70854,"Ettan, Sodra 2025",68,13342607,16,2025-08-04 17:00,Skövde AIK,7063,IFK Skovde FK,189476,0,0,1.6154,4.0,4.0,1.6154,4.0,4.0
+current,70854,"Ettan, Sodra 2025",68,13342611,17,2025-08-09 11:00,Husqvarna FF,1820,Skövde AIK,7063,4,1,2.3,4.0,2.35,2.3,4.0,2.35
+current,70854,"Ettan, Sodra 2025",68,13342612,17,2025-08-09 11:00,IFK Skovde FK,189476,Ljungskile SK,1824,0,4,4.3333,4.2,1.55,4.3333,4.2,1.55
+current,70854,"Ettan, Sodra 2025",68,13342616,17,2025-08-09 11:00,Torslanda IK,1790,FC Rosengård,7095,1,1,2.6,3.4,2.3,2.6,3.4,2.3
+current,70854,"Ettan, Sodra 2025",68,13342609,17,2025-08-09 14:00,Ariana FC Malmö,409200,Eskilsminne IF,62558,3,0,1.95,3.3,3.4,1.95,3.3,3.4
+current,70854,"Ettan, Sodra 2025",68,13342613,17,2025-08-09 14:00,Jönköpings Södra,1841,Ängelholms FF,1788,0,0,1.6154,3.5,4.75,1.6154,3.5,4.75
+current,70854,"Ettan, Sodra 2025",68,13342614,17,2025-08-09 14:00,Lunds BK,1829,FC Trollhättan,1791,1,1,1.6,3.8,4.5,1.6,3.8,4.5
+current,70854,"Ettan, Sodra 2025",68,13342615,17,2025-08-10 14:00,Norrby IF,1849,Oskarshamns AIK,22320,3,0,1.5,3.6,5.75,1.5,3.6,5.75
+current,70854,"Ettan, Sodra 2025",68,13342610,17,2025-08-11 16:30,BK Olympic,47812,Hässleholms IF,22274,2,1,2.35,3.6,2.45,2.35,3.6,2.45
+current,70854,"Ettan, Sodra 2025",68,13342624,18,2025-08-15 17:00,Ängelholms FF,1788,BK Olympic,47812,0,3,2.0,3.4,3.1,2.0,3.4,3.1
+current,70854,"Ettan, Sodra 2025",68,13342617,18,2025-08-16 11:00,Eskilsminne IF,62558,Lunds BK,1829,2,1,2.5,3.2,2.5,2.5,3.2,2.5
+current,70854,"Ettan, Sodra 2025",68,13342622,18,2025-08-16 11:00,Oskarshamns AIK,22320,Hässleholms IF,22274,1,4,2.5,3.2,2.5,2.5,3.2,2.5
+current,70854,"Ettan, Sodra 2025",68,13342623,18,2025-08-16 11:00,Skövde AIK,7063,Norrby IF,1849,2,4,2.75,3.3,2.25,2.75,3.3,2.25
+current,70854,"Ettan, Sodra 2025",68,13342618,18,2025-08-16 14:00,FC Rosengård,7095,IFK Skovde FK,189476,3,2,1.5,3.8,5.5,1.5,3.8,5.5
+current,70854,"Ettan, Sodra 2025",68,13342619,18,2025-08-16 14:00,FC Trollhättan,1791,Husqvarna FF,1820,3,3,1.7273,3.5,4.0,1.7273,3.5,4.0
+current,70854,"Ettan, Sodra 2025",68,13342621,18,2025-08-16 14:30,Ljungskile SK,1824,Ariana FC Malmö,409200,3,1,1.9,3.4,3.5,1.9,3.4,3.5
+current,70854,"Ettan, Sodra 2025",68,13342620,18,2025-08-17 14:00,Jönköpings Södra,1841,Torslanda IK,1790,5,0,1.5,3.7,5.25,1.5,3.7,5.25
+current,70854,"Ettan, Sodra 2025",68,13342626,19,2025-08-23 11:00,BK Olympic,47812,Husqvarna FF,1820,2,0,1.6154,3.9,4.0,1.6154,3.9,4.0
+current,70854,"Ettan, Sodra 2025",68,13342628,19,2025-08-23 11:00,Hässleholms IF,22274,Eskilsminne IF,62558,2,1,1.5714,3.7,4.75,1.5714,3.7,4.75
+current,70854,"Ettan, Sodra 2025",68,13342632,19,2025-08-23 11:00,Torslanda IK,1790,Skövde AIK,7063,1,1,1.75,3.5,3.9,1.75,3.5,3.9
+current,70854,"Ettan, Sodra 2025",68,13342625,19,2025-08-23 14:00,Ariana FC Malmö,409200,Oskarshamns AIK,22320,1,0,1.5,4.0,5.0,1.5,4.0,5.0
+current,70854,"Ettan, Sodra 2025",68,13342627,19,2025-08-23 14:00,FC Rosengård,7095,FC Trollhättan,1791,1,3,1.6667,3.6,4.1,1.6667,3.6,4.1
+current,70854,"Ettan, Sodra 2025",68,13342629,19,2025-08-23 14:00,IFK Skovde FK,189476,Ängelholms FF,1788,1,1,2.7,3.8,2.1,2.7,3.8,2.1
+current,70854,"Ettan, Sodra 2025",68,13342630,19,2025-08-24 14:00,Lunds BK,1829,Ljungskile SK,1824,1,3,2.45,3.5,2.4,2.45,3.5,2.4
+current,70854,"Ettan, Sodra 2025",68,13342631,19,2025-08-25 17:00,Norrby IF,1849,Jönköpings Södra,1841,2,1,2.25,3.5,2.625,2.25,3.5,2.625
+current,70854,"Ettan, Sodra 2025",68,13342633,20,2025-08-30 11:00,Eskilsminne IF,62558,FC Rosengård,7095,1,0,2.75,3.3,2.25,2.75,3.3,2.25
+current,70854,"Ettan, Sodra 2025",68,13342640,20,2025-08-30 11:00,Ängelholms FF,1788,Torslanda IK,1790,3,0,1.8,3.5,3.6,1.8,3.5,3.6
+current,70854,"Ettan, Sodra 2025",68,13342635,20,2025-08-30 14:00,Husqvarna FF,1820,Ariana FC Malmö,409200,0,0,3.5,3.75,1.8,3.5,3.75,1.8
+current,70854,"Ettan, Sodra 2025",68,13342638,20,2025-08-30 14:00,Lunds BK,1829,Norrby IF,1849,2,1,2.4,3.6,2.4,2.4,3.6,2.4
+current,70854,"Ettan, Sodra 2025",68,13342639,20,2025-08-30 14:00,Skövde AIK,7063,Oskarshamns AIK,22320,3,0,2.25,3.6,2.6,2.25,3.6,2.6
+current,70854,"Ettan, Sodra 2025",68,13342634,20,2025-08-31 14:00,FC Trollhättan,1791,Hässleholms IF,22274,0,4,2.25,3.5,2.625,2.25,3.5,2.625
+current,70854,"Ettan, Sodra 2025",68,13342637,20,2025-08-31 14:00,Ljungskile SK,1824,BK Olympic,47812,4,1,1.7273,3.75,3.8,1.7273,3.75,3.8
+current,70854,"Ettan, Sodra 2025",68,13342636,20,2025-09-01 17:00,Jönköpings Södra,1841,IFK Skovde FK,189476,2,1,1.1818,6.5,10.0,1.1818,6.5,10.0
+current,70854,"Ettan, Sodra 2025",68,13342644,21,2025-09-05 17:00,Hässleholms IF,22274,Lunds BK,1829,1,0,2.0,3.5,3.0,2.0,3.5,3.0
+current,70854,"Ettan, Sodra 2025",68,13342645,21,2025-09-06 11:00,IFK Skovde FK,189476,Torslanda IK,1790,2,1,3.0,3.6,2.0,3.0,3.6,2.0
+current,70854,"Ettan, Sodra 2025",68,13342648,21,2025-09-06 11:00,Ängelholms FF,1788,FC Rosengård,7095,1,1,2.1,3.6,2.8,2.1,3.6,2.8
+current,70854,"Ettan, Sodra 2025",68,13342643,21,2025-09-06 14:00,FC Trollhättan,1791,Eskilsminne IF,62558,1,2,,,,,,
+current,70854,"Ettan, Sodra 2025",68,13342647,21,2025-09-06 14:00,Oskarshamns AIK,22320,Husqvarna FF,1820,1,3,1.8,3.6,3.6,1.8,3.6,3.6
+current,70854,"Ettan, Sodra 2025",68,13342641,21,2025-09-07 14:00,Ariana FC Malmö,409200,Skövde AIK,7063,1,1,,,,,,
+current,70854,"Ettan, Sodra 2025",68,13342642,21,2025-09-07 14:00,BK Olympic,47812,Jönköpings Södra,1841,1,1,,,,,,
+current,70854,"Ettan, Sodra 2025",68,13342646,21,2025-09-08 17:00,Norrby IF,1849,Ljungskile SK,1824,4,2,,,,,,
+current,70854,"Ettan, Sodra 2025",68,13342655,22,2025-09-12 17:00,Skövde AIK,7063,FC Trollhättan,1791,1,2,2.625,3.8,2.15,2.625,3.8,2.15
+current,70854,"Ettan, Sodra 2025",68,13342652,22,2025-09-13 11:00,Husqvarna FF,1820,Ängelholms FF,1788,0,1,2.4,3.6,2.4,2.4,3.6,2.4
+current,70854,"Ettan, Sodra 2025",68,13342656,22,2025-09-13 12:30,Torslanda IK,1790,BK Olympic,47812,1,5,2.7,3.4,2.25,2.7,3.4,2.25
+current,70854,"Ettan, Sodra 2025",68,13342649,22,2025-09-13 14:00,Ariana FC Malmö,409200,IFK Skovde FK,189476,2,1,1.27,5.25,7.5,1.27,5.25,7.5
+current,70854,"Ettan, Sodra 2025",68,13342651,22,2025-09-13 14:00,FC Rosengård,7095,Oskarshamns AIK,22320,0,1,1.5333,3.7,5.25,1.5333,3.7,5.25
+current,70854,"Ettan, Sodra 2025",68,13342653,22,2025-09-13 14:00,Ljungskile SK,1824,Hässleholms IF,22274,3,0,1.7273,3.7,3.8,1.7273,3.7,3.8
+current,70854,"Ettan, Sodra 2025",68,13342650,22,2025-09-14 14:00,Eskilsminne IF,62558,Norrby IF,1849,2,3,2.9,3.4,2.1,2.9,3.4,2.1
+current,70854,"Ettan, Sodra 2025",68,13342654,22,2025-09-14 14:00,Lunds BK,1829,Jönköpings Södra,1841,1,2,2.75,3.4,2.15,2.75,3.4,2.15
+current,70854,"Ettan, Sodra 2025",68,13342660,23,2025-09-19 17:00,Jönköpings Södra,1841,Husqvarna FF,1820,0,0,1.5,4.3333,4.75,1.5,4.3333,4.75
+current,70854,"Ettan, Sodra 2025",68,13342657,23,2025-09-20 11:00,BK Olympic,47812,Lunds BK,1829,3,2,2.2,3.4,2.7,2.2,3.4,2.7
+current,70854,"Ettan, Sodra 2025",68,13342663,23,2025-09-20 11:00,Torslanda IK,1790,Eskilsminne IF,62558,2,1,2.375,3.4,2.5,2.375,3.4,2.5
+current,70854,"Ettan, Sodra 2025",68,13342658,23,2025-09-20 14:00,FC Rosengård,7095,Skövde AIK,7063,3,1,1.5714,4.2,4.2,1.5714,4.2,4.2
+current,70854,"Ettan, Sodra 2025",68,13342659,23,2025-09-20 14:00,IFK Skovde FK,189476,Hässleholms IF,22274,0,1,4.75,3.6,1.6,4.75,3.6,1.6
+current,70854,"Ettan, Sodra 2025",68,13342662,23,2025-09-20 14:00,Oskarshamns AIK,22320,FC Trollhättan,1791,2,0,2.8,3.5,2.15,2.8,3.5,2.15
+current,70854,"Ettan, Sodra 2025",68,13342661,23,2025-09-21 14:00,Norrby IF,1849,Ariana FC Malmö,409200,2,1,1.8333,3.5,3.5,1.8333,3.5,3.5
+current,70854,"Ettan, Sodra 2025",68,13342664,23,2025-09-21 14:00,Ängelholms FF,1788,Ljungskile SK,1824,1,2,2.9,3.6,2.0,2.9,3.6,2.0
+current,70854,"Ettan, Sodra 2025",68,13342670,24,2025-09-26 17:00,Lunds BK,1829,FC Rosengård,7095,1,0,2.0,3.6,3.0,2.0,3.6,3.0
+current,70854,"Ettan, Sodra 2025",68,13342666,24,2025-09-27 11:00,Eskilsminne IF,62558,Husqvarna FF,1820,0,2,1.7273,3.8,3.7,1.7273,3.8,3.7
+current,70854,"Ettan, Sodra 2025",68,13342669,24,2025-09-27 11:00,Ljungskile SK,1824,Torslanda IK,1790,3,0,1.2,5.5,9.5,1.2,5.5,9.5
+current,70854,"Ettan, Sodra 2025",68,13342672,24,2025-09-27 13:00,Skövde AIK,7063,Ängelholms FF,1788,0,0,2.5,3.75,2.25,2.5,3.75,2.25
+current,70854,"Ettan, Sodra 2025",68,13342665,24,2025-09-27 14:00,BK Olympic,47812,Norrby IF,1849,0,2,2.45,3.4,2.4,2.45,3.4,2.4
+current,70854,"Ettan, Sodra 2025",68,13342668,24,2025-09-27 14:00,Hässleholms IF,22274,Jönköpings Södra,1841,1,2,2.45,3.4,2.4,2.45,3.4,2.4
+current,70854,"Ettan, Sodra 2025",68,13342671,24,2025-09-27 14:00,Oskarshamns AIK,22320,IFK Skovde FK,189476,1,0,1.6154,3.75,4.3333,1.6154,3.75,4.3333
+current,70854,"Ettan, Sodra 2025",68,13342667,24,2025-09-28 14:00,FC Trollhättan,1791,Ariana FC Malmö,409200,2,1,2.75,3.4,2.2,2.75,3.4,2.2
+current,70854,"Ettan, Sodra 2025",68,13342673,25,2025-10-03 17:00,Ariana FC Malmö,409200,Lunds BK,1829,0,1,1.9,3.5,3.4,1.9,3.5,3.4
+current,70854,"Ettan, Sodra 2025",68,13342675,25,2025-10-04 11:00,Husqvarna FF,1820,Ljungskile SK,1824,2,0,4.0,3.75,1.6667,4.0,3.75,1.6667
+current,70854,"Ettan, Sodra 2025",68,13342676,25,2025-10-04 14:00,IFK Skovde FK,189476,BK Olympic,47812,3,1,3.9,3.6,1.7273,3.9,3.6,1.7273
+current,70854,"Ettan, Sodra 2025",68,13342679,25,2025-10-04 14:00,Torslanda IK,1790,Hässleholms IF,22274,0,5,3.3,3.5,1.9,3.3,3.5,1.9
+current,70854,"Ettan, Sodra 2025",68,13342680,25,2025-10-04 14:00,Ängelholms FF,1788,FC Trollhättan,1791,1,2,2.0,3.75,2.875,2.0,3.75,2.875
+current,70854,"Ettan, Sodra 2025",68,13342674,25,2025-10-05 14:00,Eskilsminne IF,62558,Oskarshamns AIK,22320,3,1,1.7,3.6,3.9,1.7,3.6,3.9
+current,70854,"Ettan, Sodra 2025",68,13342678,25,2025-10-05 14:00,Norrby IF,1849,FC Rosengård,7095,2,1,1.7273,3.6,3.9,1.7273,3.6,3.9
+current,70854,"Ettan, Sodra 2025",68,13342677,25,2025-10-06 17:00,Jönköpings Södra,1841,Skövde AIK,7063,1,0,1.3,4.5,7.5,1.3,4.5,7.5
+current,70854,"Ettan, Sodra 2025",68,13342681,26,2025-10-10 17:00,Ariana FC Malmö,409200,Ängelholms FF,1788,1,3,1.8,3.5,3.6,1.8,3.5,3.6
+current,70854,"Ettan, Sodra 2025",68,13342684,26,2025-10-10 17:00,Husqvarna FF,1820,IFK Skovde FK,189476,1,2,1.5333,4.0,4.75,1.5333,4.0,4.75
+current,70854,"Ettan, Sodra 2025",68,13342686,26,2025-10-11 11:00,Ljungskile SK,1824,Eskilsminne IF,62558,3,0,1.38,4.3333,5.75,1.38,4.3333,5.75
+current,70854,"Ettan, Sodra 2025",68,13342683,26,2025-10-11 14:00,FC Trollhättan,1791,Torslanda IK,1790,4,0,1.6154,4.2,3.9,1.6154,4.2,3.9
+current,70854,"Ettan, Sodra 2025",68,13342687,26,2025-10-11 14:00,Oskarshamns AIK,22320,Jönköpings Södra,1841,0,0,3.75,3.7,1.7273,3.75,3.7,1.7273
+current,70854,"Ettan, Sodra 2025",68,13342688,26,2025-10-11 14:00,Skövde AIK,7063,Lunds BK,1829,1,0,3.0,3.6,2.0,3.0,3.6,2.0
+current,70854,"Ettan, Sodra 2025",68,13342682,26,2025-10-12 11:00,FC Rosengård,7095,BK Olympic,47812,1,3,2.15,3.4,2.8,2.15,3.4,2.8
+current,70854,"Ettan, Sodra 2025",68,13342685,26,2025-10-12 14:00,Hässleholms IF,22274,Norrby IF,1849,1,0,2.7,3.7,2.1,2.7,3.7,2.1
+current,70854,"Ettan, Sodra 2025",68,13342693,27,2025-10-17 17:00,IFK Skovde FK,189476,FC Trollhättan,1791,1,4,3.8,3.7,1.7273,3.8,3.7,1.7273
+current,70854,"Ettan, Sodra 2025",68,13342695,27,2025-10-17 17:00,Lunds BK,1829,Ängelholms FF,1788,1,2,2.2,3.6,2.6,2.2,3.6,2.6
+current,70854,"Ettan, Sodra 2025",68,13342691,27,2025-10-18 11:00,FC Rosengård,7095,Ariana FC Malmö,409200,1,3,2.4,3.6,2.4,2.4,3.6,2.4
+current,70854,"Ettan, Sodra 2025",68,13342696,27,2025-10-18 11:00,Torslanda IK,1790,Norrby IF,1849,1,3,6.0,4.3333,1.4,6.0,4.3333,1.4
+current,70854,"Ettan, Sodra 2025",68,13342689,27,2025-10-18 14:00,BK Olympic,47812,Oskarshamns AIK,22320,2,2,1.5714,3.75,4.75,1.5714,3.75,4.75
+current,70854,"Ettan, Sodra 2025",68,13342690,27,2025-10-18 14:00,Eskilsminne IF,62558,Skövde AIK,7063,4,0,2.15,3.5,2.75,2.15,3.5,2.75
+current,70854,"Ettan, Sodra 2025",68,13342692,27,2025-10-18 14:00,Hässleholms IF,22274,Husqvarna FF,1820,1,0,1.6667,3.75,4.0,1.6667,3.75,4.0
+current,70854,"Ettan, Sodra 2025",68,13342694,27,2025-10-19 14:00,Jönköpings Södra,1841,Ljungskile SK,1824,1,3,2.35,2.875,3.0,2.35,2.875,3.0
+current,70854,"Ettan, Sodra 2025",68,13342697,28,2025-10-25 11:00,Ariana FC Malmö,409200,BK Olympic,47812,4,2,1.85,3.7,3.3,1.85,3.7,3.3
+current,70854,"Ettan, Sodra 2025",68,13342698,28,2025-10-25 11:00,FC Trollhättan,1791,Jönköpings Södra,1841,0,1,3.1,3.5,1.95,3.1,3.5,1.95
+current,70854,"Ettan, Sodra 2025",68,13342700,28,2025-10-25 12:00,Ljungskile SK,1824,FC Rosengård,7095,2,0,1.4,4.0,7.0,1.4,4.0,7.0
+current,70854,"Ettan, Sodra 2025",68,13342699,28,2025-10-25 14:00,Husqvarna FF,1820,Torslanda IK,1790,5,0,1.48,4.1,5.0,1.48,4.1,5.0
+current,70854,"Ettan, Sodra 2025",68,13342702,28,2025-10-25 14:00,Oskarshamns AIK,22320,Lunds BK,1829,2,2,1.95,3.5,3.25,1.95,3.5,3.25
+current,70854,"Ettan, Sodra 2025",68,13342703,28,2025-10-25 14:00,Skövde AIK,7063,Hässleholms IF,22274,0,1,3.4,3.7,1.8,3.4,3.7,1.8
+current,70854,"Ettan, Sodra 2025",68,13342701,28,2025-10-26 15:00,Norrby IF,1849,IFK Skovde FK,189476,4,0,1.2,5.75,10.0,1.2,5.75,10.0
+current,70854,"Ettan, Sodra 2025",68,13342704,28,2025-10-26 15:00,Ängelholms FF,1788,Eskilsminne IF,62558,2,2,2.2,3.3,2.8,2.2,3.3,2.8
+current,70854,"Ettan, Sodra 2025",68,13342706,29,2025-11-01 12:00,FC Rosengård,7095,Hässleholms IF,22274,1,2,3.2,3.3,2.0,3.2,3.3,2.0
+current,70854,"Ettan, Sodra 2025",68,13342709,29,2025-11-01 12:00,Ljungskile SK,1824,Skövde AIK,7063,5,1,1.2857,4.75,8.0,1.2857,4.75,8.0
+current,70854,"Ettan, Sodra 2025",68,13342710,29,2025-11-01 12:00,Norrby IF,1849,Husqvarna FF,1820,4,1,1.6154,3.9,4.1,1.6154,3.9,4.1
+current,70854,"Ettan, Sodra 2025",68,13342707,29,2025-11-01 15:00,IFK Skovde FK,189476,Eskilsminne IF,62558,1,3,3.8,3.9,1.7,3.8,3.9,1.7
+current,70854,"Ettan, Sodra 2025",68,13342708,29,2025-11-01 15:00,Jönköpings Södra,1841,Ariana FC Malmö,409200,1,0,1.5714,3.8,4.75,1.5714,3.8,4.75
+current,70854,"Ettan, Sodra 2025",68,13342712,29,2025-11-01 15:00,Ängelholms FF,1788,Oskarshamns AIK,22320,1,2,1.8,3.4,3.75,1.8,3.4,3.75
+current,70854,"Ettan, Sodra 2025",68,13342711,29,2025-11-02 13:00,Torslanda IK,1790,Lunds BK,1829,3,1,3.0,3.4,2.05,3.0,3.4,2.05
+current,70854,"Ettan, Sodra 2025",68,13342705,29,2025-11-02 15:00,BK Olympic,47812,FC Trollhättan,1791,2,3,2.6,3.8,2.15,2.6,3.8,2.15
+current,70854,"Ettan, Sodra 2025",68,13342713,30,2025-11-08 14:00,Ariana FC Malmö,409200,Torslanda IK,1790,1,4,1.65,3.7,4.2,1.65,3.7,4.2
+current,70854,"Ettan, Sodra 2025",68,13342714,30,2025-11-08 14:00,Eskilsminne IF,62558,Jönköpings Södra,1841,4,2,3.4,3.3,1.9,3.4,3.3,1.9
+current,70854,"Ettan, Sodra 2025",68,13342715,30,2025-11-08 14:00,FC Trollhättan,1791,Norrby IF,1849,2,3,4.75,4.2,1.5,4.75,4.2,1.5
+current,70854,"Ettan, Sodra 2025",68,13342716,30,2025-11-08 14:00,Husqvarna FF,1820,FC Rosengård,7095,5,0,1.38,4.2,6.5,1.38,4.2,6.5
+current,70854,"Ettan, Sodra 2025",68,13342717,30,2025-11-08 14:00,Hässleholms IF,22274,Ängelholms FF,1788,3,0,1.8,3.4,3.8,1.8,3.4,3.8
+current,70854,"Ettan, Sodra 2025",68,13342718,30,2025-11-08 14:00,Lunds BK,1829,IFK Skovde FK,189476,1,0,1.48,4.0,5.0,1.48,4.0,5.0
+current,70854,"Ettan, Sodra 2025",68,13342719,30,2025-11-08 14:00,Oskarshamns AIK,22320,Ljungskile SK,1824,2,1,2.6,3.5,2.25,2.6,3.5,2.25
+current,70854,"Ettan, Sodra 2025",68,13342720,30,2025-11-08 14:00,Skövde AIK,7063,BK Olympic,47812,3,2,1.9,3.8,3.1,1.9,3.8,3.1
