@@ -53,5 +53,5 @@ python3 tests/test_excel.py           # modellen = Excel
 ## Kända luckor
 
 - I SportsAPI Pro är bet365:s öppnings- och stängningspris identiska för II liga. Det priset används som stängning.
-- Sweden Ettan Norra/Södra: API:et listar ingen säsong 2026, så ligorna hoppas över tills den finns.
-- Saudi Pro League: API:et ger inga odds för avslutade matcher (404), så styrkor kan inte skattas.
+- Sweden Ettan Norra/Södra: API:et listar ingen säsong 2026. Det som ligger som `current` är säsong 2025, och ligorna ger därför inga meningsfulla priser förrän säsongen finns i API:et (eller sätts med `current_season` i configen).
+- I många ligor ger bet365-flödet i SportsAPI Pro bara 1X2. Där bokförs inga spel förrän bet365-adaptern är inkopplad.

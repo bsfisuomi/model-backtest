@@ -1,0 +1,89 @@
+league,match_id,kickoff_utc,home,away,market,line,side,odds,fair_odds,ev
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,total,0.5,over,1.05,1.101,-0.0464
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,total,0.5,under,11.0,10.892,0.0099
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,total,1.5,over,1.25,1.451,-0.1388
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,total,1.5,under,3.75,3.215,0.1665
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,total,2.5,over,1.85,2.341,-0.2098
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,total,2.5,under,1.95,1.746,0.117
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,total,3.5,over,3.0,4.571,-0.3437
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,total,3.5,under,1.3636,1.28,0.0653
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,total,4.5,over,6.0,10.596,-0.4338
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,total,4.5,under,1.125,1.104,0.0188
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,total,5.5,over,13.0,28.607,-0.5456
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,total,5.5,under,1.04,1.036,0.0036
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,total,6.5,over,26.0,88.43,-0.706
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,total,6.5,under,1.01,1.011,-0.0014
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,total,7.5,over,51.0,308.557,-0.8347
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,total,7.5,under,1.002,1.003,-0.0012
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,ah,-0.5,home,1.85,2.165,-0.1457
+peru-liga-1,16281160,2026-11-15 18:00,Comerciantes Unidos,Sport Boys,ah,-0.5,away,1.95,1.858,0.0495
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,total,0.5,over,1.04,1.072,-0.0297
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,total,0.5,under,12.0,14.923,-0.1958
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,total,1.5,over,1.2222,1.33,-0.0811
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,total,1.5,under,4.0,4.03,-0.0074
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,total,2.5,over,1.8,1.972,-0.0873
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,total,2.5,under,2.0,2.029,-0.0142
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,total,3.5,over,2.75,3.49,-0.212
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,total,3.5,under,1.4,1.402,-0.0012
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,total,4.5,over,5.5,7.272,-0.2436
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,total,4.5,under,1.1429,1.159,-0.0143
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,total,5.5,over,11.0,17.555,-0.3734
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,total,5.5,under,1.05,1.06,-0.0098
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,total,6.5,over,23.0,48.371,-0.5245
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,total,6.5,under,1.0125,1.021,-0.0084
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,total,7.5,over,51.0,150.12,-0.6603
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,total,7.5,under,1.002,1.007,-0.0047
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,ah,0.0,home,2.025,1.655,0.1667
+peru-liga-1,16281155,2026-11-15 20:15,ACD Juan Pablo II,Deportivo Garcilaso,ah,-0.0,away,1.775,2.526,-0.2219
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,total,0.5,over,1.05,1.063,-0.0119
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,total,0.5,under,11.0,16.957,-0.3513
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,total,1.5,over,1.25,1.292,-0.0324
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,total,1.5,under,3.75,4.427,-0.1529
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,total,2.5,over,1.85,1.859,-0.005
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,total,2.5,under,1.95,2.164,-0.0988
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,total,3.5,over,3.25,3.176,0.0234
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,total,3.5,under,1.3333,1.46,-0.0866
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,total,4.5,over,6.0,6.364,-0.0572
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,total,4.5,under,1.125,1.186,-0.0518
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,total,5.5,over,13.0,14.745,-0.1184
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,total,5.5,under,1.04,1.073,-0.0305
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,total,6.5,over,26.0,38.938,-0.3323
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,total,6.5,under,1.01,1.026,-0.0159
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,total,7.5,over,51.0,115.714,-0.5593
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,total,7.5,under,1.002,1.009,-0.0067
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,ah,0.0,home,1.85,1.481,0.1898
+peru-liga-1,17522423,2026-11-16 18:00,Universidad Técnica de Cajamarca,Los Chankas CYC,ah,-0.0,away,1.95,3.08,-0.2793
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,total,0.5,over,1.04,1.061,-0.02
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,total,0.5,under,13.0,17.33,-0.2499
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,total,1.5,over,1.2222,1.286,-0.0495
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,total,1.5,under,4.0,4.498,-0.1108
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,total,2.5,over,1.7273,1.842,-0.0622
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,total,2.5,under,2.075,2.188,-0.0516
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,total,3.5,over,2.75,3.127,-0.1207
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,total,3.5,under,1.4,1.47,-0.0477
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,total,4.5,over,5.5,6.227,-0.1168
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,total,4.5,under,1.1429,1.191,-0.0406
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,total,5.5,over,11.0,14.331,-0.2324
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,total,5.5,under,1.05,1.075,-0.0233
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,total,6.5,over,23.0,37.58,-0.388
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,total,6.5,under,1.0125,1.027,-0.0144
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,total,7.5,over,51.0,110.881,-0.54
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,total,7.5,under,1.002,1.009,-0.007
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,ah,-1.0,home,1.825,2.068,-0.0888
+peru-liga-1,16281154,2026-11-16 20:15,Cusco FC,Asociación Deportiva Tarma,ah,-1.0,away,1.975,1.936,0.0151
+peru-liga-1,16281152,2026-11-16 20:15,CD Moquegua,Club Atlético Grau,total,0.5,over,1.05,1.136,-0.0757
+peru-liga-1,16281152,2026-11-16 20:15,CD Moquegua,Club Atlético Grau,total,0.5,under,11.0,8.351,0.3172
+peru-liga-1,16281152,2026-11-16 20:15,CD Moquegua,Club Atlético Grau,total,1.5,over,1.2857,1.597,-0.195
+peru-liga-1,16281152,2026-11-16 20:15,CD Moquegua,Club Atlético Grau,total,1.5,under,3.5,2.675,0.3086
+peru-liga-1,16281152,2026-11-16 20:15,CD Moquegua,Club Atlético Grau,total,2.5,over,1.95,2.806,-0.305
+peru-liga-1,16281152,2026-11-16 20:15,CD Moquegua,Club Atlético Grau,total,2.5,under,1.85,1.554,0.1906
+peru-liga-1,16281152,2026-11-16 20:15,CD Moquegua,Club Atlético Grau,total,3.5,over,3.4,6.038,-0.4369
+peru-liga-1,16281152,2026-11-16 20:15,CD Moquegua,Club Atlético Grau,total,3.5,under,1.3,1.198,0.0847
+peru-liga-1,16281152,2026-11-16 20:15,CD Moquegua,Club Atlético Grau,total,4.5,over,6.5,15.535,-0.5816
+peru-liga-1,16281152,2026-11-16 20:15,CD Moquegua,Club Atlético Grau,total,4.5,under,1.1111,1.069,0.0396
+peru-liga-1,16281152,2026-11-16 20:15,CD Moquegua,Club Atlético Grau,total,5.5,over,15.0,46.736,-0.679
+peru-liga-1,16281152,2026-11-16 20:15,CD Moquegua,Club Atlético Grau,total,5.5,under,1.0303,1.022,0.0083
+peru-liga-1,16281152,2026-11-16 20:15,CD Moquegua,Club Atlético Grau,total,6.5,over,29.0,161.403,-0.8203
+peru-liga-1,16281152,2026-11-16 20:15,CD Moquegua,Club Atlético Grau,total,6.5,under,1.0067,1.006,0.0005
+peru-liga-1,16281152,2026-11-16 20:15,CD Moquegua,Club Atlético Grau,ah,-1.0,home,1.8,4.244,-0.4394
+peru-liga-1,16281152,2026-11-16 20:15,CD Moquegua,Club Atlético Grau,ah,-1.0,away,2.0,1.308,0.4034

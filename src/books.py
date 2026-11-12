@@ -30,7 +30,7 @@ def sportsapi_bet365(event):
                 side = "home" if team == home else "away" if team == away else None
                 if side is None:
                     continue
-                line = hcp if side == "home" else -hcp
+                line = (hcp if side == "home" else -hcp) + 0.0   # + 0.0 turns -0.0 into 0.0
                 out.append({"market": "ah", "line": line, "side": side, "odds": api.frac_to_dec(c["fractionalValue"])})
         elif name == "Match goals" and m.get("choiceGroup"):
             line = float(m["choiceGroup"])
