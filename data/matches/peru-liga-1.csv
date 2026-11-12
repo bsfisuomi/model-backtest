@@ -1,0 +1,630 @@
+scope,season_id,season,tournament_id,match_id,round,kickoff_utc,home,home_id,away,away_id,home_goals,away_goals,open_1,open_x,open_2,close_1,close_x,close_2
+previous,70962,Liga 1 2025,406,13352939,1,2025-02-07 20:00,Sport Huancayo,33895,Alianza Atlético de Sullana,2307,2,1,,,,,,
+previous,70962,Liga 1 2025,406,13352933,1,2025-02-08 18:00,Melgar,2308,Universidad Técnica de Cajamarca,87854,3,0,,,,,,
+previous,70962,Liga 1 2025,406,13352937,1,2025-02-08 20:15,Club Atlético Grau,282538,Ayacucho FC,33894,1,0,,,,,,
+previous,70962,Liga 1 2025,406,13352931,1,2025-02-09 00:00,Alianza Lima,2311,Cusco FC,63760,3,0,,,,,,
+previous,70962,Liga 1 2025,406,13352938,1,2025-02-09 18:00,Alianza Universidad,306660,Club Sporting Cristal,2302,2,2,,,,,,
+previous,70962,Liga 1 2025,406,13352936,1,2025-02-09 20:00,Sport Boys,2312,ACD Juan Pablo II,511206,1,0,,,,,,
+previous,70962,Liga 1 2025,406,13352932,1,2025-02-09 20:30,Comerciantes Unidos,213609,Universitario de Deportes,2305,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13352934,1,2025-02-09 23:00,Cienciano,2301,Asociación Deportiva Tarma,335557,2,2,,,,,,
+previous,70962,Liga 1 2025,406,13352935,1,2025-02-10 20:00,Los Chankas CYC,252254,Deportivo Garcilaso,458584,2,2,,,,,,
+previous,70962,Liga 1 2025,406,13387758,2,2025-02-14 22:30,Cusco FC,63760,Melgar,2308,0,1,,,,,,
+previous,70962,Liga 1 2025,406,13387752,2,2025-02-15 16:00,Universidad Técnica de Cajamarca,87854,Deportivo Binacional,275839,0,4,,,,,,
+previous,70962,Liga 1 2025,406,13387755,2,2025-02-15 18:00,Asociación Deportiva Tarma,335557,Club Atlético Grau,282538,4,3,,,,,,
+previous,70962,Liga 1 2025,406,13387751,2,2025-02-15 20:30,Alianza Atlético de Sullana,2307,Alianza Lima,2311,3,1,,,,,,
+previous,70962,Liga 1 2025,406,13387756,2,2025-02-16 00:30,Universitario de Deportes,2305,Cienciano,2301,3,2,,,,,,
+previous,70962,Liga 1 2025,406,13387757,2,2025-02-16 16:00,Club Sporting Cristal,2302,Sport Boys,2312,2,1,,,,,,
+previous,70962,Liga 1 2025,406,13387753,2,2025-02-16 18:15,ACD Juan Pablo II,511206,Sport Huancayo,33895,0,1,,,,,,
+previous,70962,Liga 1 2025,406,13387754,2,2025-02-16 20:30,Deportivo Garcilaso,458584,Comerciantes Unidos,213609,2,1,,,,,,
+previous,70962,Liga 1 2025,406,13387759,2,2025-02-17 20:00,Ayacucho FC,33894,Alianza Universidad,306660,3,2,,,,,,
+previous,70962,Liga 1 2025,406,13387774,3,2025-02-22 01:00,Alianza Lima,2311,ACD Juan Pablo II,511206,1,0,,,,,,
+previous,70962,Liga 1 2025,406,13387771,3,2025-02-22 18:00,Comerciantes Unidos,213609,Los Chankas CYC,252254,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13387770,3,2025-02-22 20:00,Sport Boys,2312,Ayacucho FC,33894,2,1,,,,,,
+previous,70962,Liga 1 2025,406,13387766,3,2025-02-22 20:30,Sport Huancayo,33895,Club Sporting Cristal,2302,0,1,,,,,,
+previous,70962,Liga 1 2025,406,13387767,3,2025-02-23 00:00,Cienciano,2301,Deportivo Garcilaso,458584,2,3,,,,,,
+previous,70962,Liga 1 2025,406,13387773,3,2025-02-23 18:00,Alianza Universidad,306660,Asociación Deportiva Tarma,335557,2,3,,,,,,
+previous,70962,Liga 1 2025,406,13387769,3,2025-02-24 00:00,Melgar,2308,Alianza Atlético de Sullana,2307,2,1,,,,,,
+previous,70962,Liga 1 2025,406,13387772,3,2025-02-24 23:00,Deportivo Binacional,275839,Cusco FC,63760,1,2,,,,,,
+previous,70962,Liga 1 2025,406,13523646,4,2025-02-27 20:30,Asociación Deportiva Tarma,335557,Sport Boys,2312,2,2,,,,,,
+previous,70962,Liga 1 2025,406,13523648,4,2025-02-28 20:00,Deportivo Garcilaso,458584,Club Atlético Grau,282538,2,0,,,,,,
+previous,70962,Liga 1 2025,406,13523647,4,2025-03-01 18:00,Cusco FC,63760,Universidad Técnica de Cajamarca,87854,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13523644,4,2025-03-01 20:30,Alianza Atlético de Sullana,2307,Deportivo Binacional,275839,4,1,,,,,,
+previous,70962,Liga 1 2025,406,13523626,4,2025-03-02 01:00,Club Sporting Cristal,2302,Alianza Lima,2311,1,2,,,,,,
+previous,70962,Liga 1 2025,406,13523624,4,2025-03-02 18:00,Ayacucho FC,33894,Sport Huancayo,33895,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13523625,4,2025-03-02 23:00,Universitario de Deportes,2305,Alianza Universidad,306660,4,0,,,,,,
+previous,70962,Liga 1 2025,406,13565846,5,2025-03-07 18:00,Alianza Universidad,306660,Deportivo Garcilaso,458584,0,0,,,,,,
+previous,70962,Liga 1 2025,406,13565847,5,2025-03-08 01:00,Alianza Lima,2311,Ayacucho FC,33894,2,0,,,,,,
+previous,70962,Liga 1 2025,406,13565842,5,2025-03-08 18:00,Universidad Técnica de Cajamarca,87854,Alianza Atlético de Sullana,2307,0,0,,,,,,
+previous,70962,Liga 1 2025,406,13565844,5,2025-03-08 20:30,Sport Huancayo,33895,Asociación Deportiva Tarma,335557,2,1,,,,,,
+previous,70962,Liga 1 2025,406,13565845,5,2025-03-08 23:00,Melgar,2308,Club Sporting Cristal,2302,1,0,,,,,,
+previous,70962,Liga 1 2025,406,13565843,5,2025-03-09 20:00,Sport Boys,2312,Universitario de Deportes,2305,0,2,,,,,,
+previous,70962,Liga 1 2025,406,13565841,5,2025-03-10 00:30,Cienciano,2301,Comerciantes Unidos,213609,3,2,,,,,,
+previous,70962,Liga 1 2025,406,13565883,5,2025-03-10 20:00,Club Atlético Grau,282538,Los Chankas CYC,252254,2,1,,,,,,
+previous,70962,Liga 1 2025,406,13565884,5,2025-03-10 23:00,Deportivo Binacional,275839,ACD Juan Pablo II,511206,2,0,,,,,,
+previous,70962,Liga 1 2025,406,13566000,4,2025-03-23 20:00,Los Chankas CYC,252254,Cienciano,2301,0,0,,,,,,
+previous,70962,Liga 1 2025,406,13596389,6,2025-03-27 18:00,Comerciantes Unidos,213609,Club Atlético Grau,282538,2,2,,,,,,
+previous,70962,Liga 1 2025,406,13596390,6,2025-03-27 20:30,Ayacucho FC,33894,Melgar,2308,2,3,,,,,,
+previous,70962,Liga 1 2025,406,13596386,6,2025-03-28 20:30,Alianza Atlético de Sullana,2307,Cusco FC,63760,2,4,,,,,,
+previous,70962,Liga 1 2025,406,13596385,6,2025-03-29 01:00,Universitario de Deportes,2305,Sport Huancayo,33895,3,1,,,,,,
+previous,70962,Liga 1 2025,406,13596391,6,2025-03-29 18:00,Asociación Deportiva Tarma,335557,Alianza Lima,2311,3,0,,,,,,
+previous,70962,Liga 1 2025,406,13596384,6,2025-03-29 20:30,Club Sporting Cristal,2302,Deportivo Binacional,275839,5,0,,,,,,
+previous,70962,Liga 1 2025,406,13596387,6,2025-03-29 23:00,Deportivo Garcilaso,458584,Sport Boys,2312,4,0,,,,,,
+previous,70962,Liga 1 2025,406,13596383,6,2025-03-30 18:00,Los Chankas CYC,252254,Alianza Universidad,306660,3,1,,,,,,
+previous,70962,Liga 1 2025,406,13596388,6,2025-03-30 20:30,ACD Juan Pablo II,511206,Universidad Técnica de Cajamarca,87854,4,2,,,,,,
+previous,70962,Liga 1 2025,406,13668056,7,2025-04-04 22:30,Deportivo Binacional,275839,Ayacucho FC,33894,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13668057,7,2025-04-05 01:00,Sport Huancayo,33895,Deportivo Garcilaso,458584,0,3,,,,,,
+previous,70962,Liga 1 2025,406,13668058,7,2025-04-05 15:15,Club Atlético Grau,282538,Cienciano,2301,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13672966,7,2025-04-05 20:15,Melgar,2308,Asociación Deportiva Tarma,335557,4,0,,,,,,
+previous,70962,Liga 1 2025,406,13668495,7,2025-04-06 00:00,Alianza Lima,2311,Universitario de Deportes,2305,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13668478,7,2025-04-06 18:15,Cusco FC,63760,ACD Juan Pablo II,511206,4,2,,,,,,
+previous,70962,Liga 1 2025,406,13668480,7,2025-04-06 19:00,Sport Boys,2312,Los Chankas CYC,252254,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13668481,7,2025-04-06 20:30,Universidad Técnica de Cajamarca,87854,Club Sporting Cristal,2302,4,1,,,,,,
+previous,70962,Liga 1 2025,406,13668479,7,2025-04-06 23:00,Alianza Universidad,306660,Comerciantes Unidos,213609,0,2,,,,,,
+previous,70962,Liga 1 2025,406,13679408,8,2025-04-11 18:15,Ayacucho FC,33894,Universidad Técnica de Cajamarca,87854,0,1,,,,,,
+previous,70962,Liga 1 2025,406,13679410,8,2025-04-11 20:30,Los Chankas CYC,252254,Sport Huancayo,33895,1,3,,,,,,
+previous,70962,Liga 1 2025,406,13679409,8,2025-04-12 20:30,ACD Juan Pablo II,511206,Alianza Atlético de Sullana,2307,1,0,,,,,,
+previous,70962,Liga 1 2025,406,13679411,8,2025-04-13 00:00,Cienciano,2301,Alianza Universidad,306660,0,1,,,,,,
+previous,70962,Liga 1 2025,406,13679403,8,2025-04-13 16:00,Club Sporting Cristal,2302,Cusco FC,63760,1,0,,,,,,
+previous,70962,Liga 1 2025,406,13679405,8,2025-04-13 18:15,Comerciantes Unidos,213609,Sport Boys,2312,0,4,,,,,,
+previous,70962,Liga 1 2025,406,13679395,8,2025-04-13 20:30,Asociación Deportiva Tarma,335557,Deportivo Binacional,275839,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13679402,8,2025-04-14 00:00,Universitario de Deportes,2305,Melgar,2308,4,1,,,,,,
+previous,70962,Liga 1 2025,406,13679398,8,2025-04-15 00:30,Deportivo Garcilaso,458584,Alianza Lima,2311,0,1,,,,,,
+previous,70962,Liga 1 2025,406,13679387,9,2025-04-18 01:00,Alianza Universidad,306660,Club Atlético Grau,282538,0,0,,,,,,
+previous,70962,Liga 1 2025,406,13679397,9,2025-04-18 20:00,Melgar,2308,Deportivo Garcilaso,458584,1,2,,,,,,
+previous,70962,Liga 1 2025,406,13679386,9,2025-04-18 22:30,Deportivo Binacional,275839,Universitario de Deportes,2305,1,3,,,,,,
+previous,70962,Liga 1 2025,406,13679390,9,2025-04-19 01:00,Alianza Lima,2311,Los Chankas CYC,252254,1,0,,,,,,
+previous,70962,Liga 1 2025,406,13679389,9,2025-04-19 18:00,Sport Boys,2312,Cienciano,2301,2,2,,,,,,
+previous,70962,Liga 1 2025,406,13679388,9,2025-04-19 20:30,Alianza Atlético de Sullana,2307,Club Sporting Cristal,2302,1,0,,,,,,
+previous,70962,Liga 1 2025,406,13679393,9,2025-04-20 00:00,Cusco FC,63760,Ayacucho FC,33894,3,0,,,,,,
+previous,70962,Liga 1 2025,406,13679396,9,2025-04-20 18:15,Universidad Técnica de Cajamarca,87854,Asociación Deportiva Tarma,335557,0,1,,,,,,
+previous,70962,Liga 1 2025,406,13679427,9,2025-04-20 20:30,Sport Huancayo,33895,Comerciantes Unidos,213609,4,2,,,,,,
+previous,70962,Liga 1 2025,406,13679394,10,2025-04-26 18:00,Ayacucho FC,33894,Alianza Atlético de Sullana,2307,0,2,,,,,,
+previous,70962,Liga 1 2025,406,13679400,10,2025-04-26 23:30,Deportivo Garcilaso,458584,Deportivo Binacional,275839,0,1,,,,,,
+previous,70962,Liga 1 2025,406,13679392,10,2025-04-27 18:15,Los Chankas CYC,252254,Melgar,2308,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13679399,10,2025-04-27 20:30,Club Atlético Grau,282538,Sport Boys,2312,3,3,,,,,,
+previous,70962,Liga 1 2025,406,13679391,10,2025-04-27 23:00,Universitario de Deportes,2305,Universidad Técnica de Cajamarca,87854,6,0,,,,,,
+previous,70962,Liga 1 2025,406,13679407,10,2025-04-28 18:00,Club Sporting Cristal,2302,ACD Juan Pablo II,511206,3,2,,,,,,
+previous,70962,Liga 1 2025,406,13679404,10,2025-04-28 20:30,Asociación Deportiva Tarma,335557,Cusco FC,63760,2,1,,,,,,
+previous,70962,Liga 1 2025,406,13679401,10,2025-04-29 00:00,Cienciano,2301,Sport Huancayo,33895,2,1,,,,,,
+previous,70962,Liga 1 2025,406,13741842,11,2025-05-02 00:30,Melgar,2308,Comerciantes Unidos,213609,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13741841,11,2025-05-02 20:30,Sport Huancayo,33895,Club Atlético Grau,282538,3,0,,,,,,
+previous,70962,Liga 1 2025,406,13741845,11,2025-05-03 00:30,Alianza Lima,2311,Cienciano,2301,0,1,,,,,,
+previous,70962,Liga 1 2025,406,13741843,11,2025-05-03 18:00,Universidad Técnica de Cajamarca,87854,Deportivo Garcilaso,458584,2,1,,,,,,
+previous,70962,Liga 1 2025,406,13741844,11,2025-05-03 20:30,ACD Juan Pablo II,511206,Ayacucho FC,33894,0,0,,,,,,
+previous,70962,Liga 1 2025,406,13741840,11,2025-05-03 23:30,Cusco FC,63760,Universitario de Deportes,2305,2,0,,,,,,
+previous,70962,Liga 1 2025,406,13741839,11,2025-05-04 18:00,Sport Boys,2312,Alianza Universidad,306660,4,2,,,,,,
+previous,70962,Liga 1 2025,406,13741899,11,2025-05-04 20:30,Alianza Atlético de Sullana,2307,Asociación Deportiva Tarma,335557,2,0,,,,,,
+previous,70962,Liga 1 2025,406,13811574,11,2025-05-04 23:00,Deportivo Binacional,275839,Los Chankas CYC,252254,1,2,,,,,,
+previous,70962,Liga 1 2025,406,13803205,12,2025-05-09 20:30,Comerciantes Unidos,213609,Deportivo Binacional,275839,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13803206,12,2025-05-10 17:00,Ayacucho FC,33894,Club Sporting Cristal,2302,1,4,,,,,,
+previous,70962,Liga 1 2025,406,13803198,12,2025-05-10 20:30,Club Atlético Grau,282538,Alianza Lima,2311,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13803201,12,2025-05-11 02:00,Cienciano,2301,Melgar,2308,1,2,,,,,,
+previous,70962,Liga 1 2025,406,13803204,12,2025-05-11 18:00,Los Chankas CYC,252254,Universidad Técnica de Cajamarca,87854,2,1,,,,,,
+previous,70962,Liga 1 2025,406,13803207,12,2025-05-11 20:15,Asociación Deportiva Tarma,335557,ACD Juan Pablo II,511206,2,2,,,,,,
+previous,70962,Liga 1 2025,406,13803202,12,2025-05-11 22:30,Deportivo Garcilaso,458584,Cusco FC,63760,1,3,,,,,,
+previous,70962,Liga 1 2025,406,13803208,12,2025-05-11 23:30,Universitario de Deportes,2305,Alianza Atlético de Sullana,2307,0,1,,,,,,
+previous,70962,Liga 1 2025,406,13803200,12,2025-05-12 20:30,Alianza Universidad,306660,Sport Huancayo,33895,0,1,,,,,,
+previous,70962,Liga 1 2025,406,13803203,13,2025-05-16 20:30,Alianza Atlético de Sullana,2307,Deportivo Garcilaso,458584,1,0,,,,,,
+previous,70962,Liga 1 2025,406,13803195,13,2025-05-17 20:00,Universidad Técnica de Cajamarca,87854,Comerciantes Unidos,213609,2,0,,,,,,
+previous,70962,Liga 1 2025,406,13803199,13,2025-05-17 20:30,Club Sporting Cristal,2302,Asociación Deportiva Tarma,335557,2,1,,,,,,
+previous,70962,Liga 1 2025,406,13803194,13,2025-05-17 23:00,Cusco FC,63760,Los Chankas CYC,252254,3,3,,,,,,
+previous,70962,Liga 1 2025,406,13803209,13,2025-05-18 18:15,Sport Huancayo,33895,Sport Boys,2312,1,0,,,,,,
+previous,70962,Liga 1 2025,406,13803197,13,2025-05-18 20:30,ACD Juan Pablo II,511206,Universitario de Deportes,2305,2,0,,,,,,
+previous,70962,Liga 1 2025,406,13803193,13,2025-05-18 23:00,Melgar,2308,Club Atlético Grau,282538,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13803196,13,2025-05-19 22:30,Deportivo Binacional,275839,Cienciano,2301,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13803300,13,2025-05-20 01:00,Alianza Lima,2311,Alianza Universidad,306660,2,0,,,,,,
+previous,70962,Liga 1 2025,406,13893166,14,2025-05-23 02:00,Universitario de Deportes,2305,Club Sporting Cristal,2302,2,0,,,,,,
+previous,70962,Liga 1 2025,406,13893173,14,2025-05-23 20:30,Alianza Universidad,306660,Melgar,2308,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13893165,14,2025-05-24 01:00,Sport Boys,2312,Alianza Lima,2311,0,1,,,,,,
+previous,70962,Liga 1 2025,406,13893172,14,2025-05-24 18:00,Comerciantes Unidos,213609,Cusco FC,63760,1,2,,,,,,
+previous,70962,Liga 1 2025,406,13893169,14,2025-05-24 20:30,Club Atlético Grau,282538,Deportivo Binacional,275839,3,0,,,,,,
+previous,70962,Liga 1 2025,406,13893167,14,2025-05-24 23:00,Cienciano,2301,Universidad Técnica de Cajamarca,87854,6,1,,,,,,
+previous,70962,Liga 1 2025,406,13893171,14,2025-05-25 18:00,Asociación Deportiva Tarma,335557,Ayacucho FC,33894,0,1,,,,,,
+previous,70962,Liga 1 2025,406,13893170,14,2025-05-25 23:00,Deportivo Garcilaso,458584,ACD Juan Pablo II,511206,4,0,,,,,,
+previous,70962,Liga 1 2025,406,13937277,14,2025-06-01 20:00,Los Chankas CYC,252254,Alianza Atlético de Sullana,2307,1,2,,,,,,
+previous,70962,Liga 1 2025,406,13943931,15,2025-06-12 20:00,Alianza Atlético de Sullana,2307,Comerciantes Unidos,213609,3,0,,,,,,
+previous,70962,Liga 1 2025,406,13943941,15,2025-06-13 20:00,Universidad Técnica de Cajamarca,87854,Club Atlético Grau,282538,0,2,,,,,,
+previous,70962,Liga 1 2025,406,13943936,15,2025-06-14 00:00,Cusco FC,63760,Cienciano,2301,0,0,,,,,,
+previous,70962,Liga 1 2025,406,13943927,15,2025-06-14 18:15,Melgar,2308,Sport Boys,2312,2,1,,,,,,
+previous,70962,Liga 1 2025,406,13943928,15,2025-06-14 20:30,ACD Juan Pablo II,511206,Los Chankas CYC,252254,3,0,,,,,,
+previous,70962,Liga 1 2025,406,13943935,15,2025-06-15 01:00,Alianza Lima,2311,Sport Huancayo,33895,0,0,,,,,,
+previous,70962,Liga 1 2025,406,13943940,15,2025-06-15 16:00,Club Sporting Cristal,2302,Deportivo Garcilaso,458584,3,2,,,,,,
+previous,70962,Liga 1 2025,406,13943932,15,2025-06-15 20:00,Ayacucho FC,33894,Universitario de Deportes,2305,0,1,,,,,,
+previous,70962,Liga 1 2025,406,13943939,15,2025-06-15 22:30,Deportivo Binacional,275839,Alianza Universidad,306660,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13939385,10,2025-06-19 00:00,Comerciantes Unidos,213609,Alianza Lima,2311,0,1,,,,,,
+previous,70962,Liga 1 2025,406,13943937,16,2025-06-19 20:00,Club Atlético Grau,282538,Cusco FC,63760,0,0,,,,,,
+previous,70962,Liga 1 2025,406,13943923,16,2025-06-20 23:00,Alianza Universidad,306660,Universidad Técnica de Cajamarca,87854,1,2,,,,,,
+previous,70962,Liga 1 2025,406,13943967,16,2025-06-21 02:00,Universitario de Deportes,2305,Asociación Deportiva Tarma,335557,5,0,,,,,,
+previous,70962,Liga 1 2025,406,13943929,16,2025-06-21 18:00,Sport Huancayo,33895,Melgar,2308,2,2,,,,,,
+previous,70962,Liga 1 2025,406,13943926,16,2025-06-21 20:15,Los Chankas CYC,252254,Club Sporting Cristal,2302,3,1,,,,,,
+previous,70962,Liga 1 2025,406,13943924,16,2025-06-22 00:00,Deportivo Garcilaso,458584,Ayacucho FC,33894,2,1,,,,,,
+previous,70962,Liga 1 2025,406,13943934,16,2025-06-22 18:00,Sport Boys,2312,Deportivo Binacional,275839,3,1,,,,,,
+previous,70962,Liga 1 2025,406,13943933,16,2025-06-22 20:15,Comerciantes Unidos,213609,ACD Juan Pablo II,511206,3,0,,,,,,
+previous,70962,Liga 1 2025,406,13943930,16,2025-06-22 22:30,Cienciano,2301,Alianza Atlético de Sullana,2307,3,2,,,,,,
+previous,70962,Liga 1 2025,406,13939386,3,2025-06-26 00:00,Club Atlético Grau,282538,Universitario de Deportes,2305,0,2,,,,,,
+previous,70962,Liga 1 2025,406,13943925,17,2025-06-27 18:00,Ayacucho FC,33894,Los Chankas CYC,252254,1,2,,,,,,
+previous,70962,Liga 1 2025,406,13943922,17,2025-06-27 20:15,ACD Juan Pablo II,511206,Cienciano,2301,2,2,,,,,,
+previous,70962,Liga 1 2025,406,13943938,17,2025-06-27 22:30,Deportivo Binacional,275839,Sport Huancayo,33895,1,0,,,,,,
+previous,70962,Liga 1 2025,406,13944433,17,2025-06-28 18:00,Asociación Deportiva Tarma,335557,Deportivo Garcilaso,458584,0,0,,,,,,
+previous,70962,Liga 1 2025,406,13943952,17,2025-06-28 20:15,Universidad Técnica de Cajamarca,87854,Sport Boys,2312,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13943945,17,2025-06-28 23:15,Melgar,2308,Alianza Lima,2311,0,1,,,,,,
+previous,70962,Liga 1 2025,406,13943953,17,2025-06-29 16:00,Club Sporting Cristal,2302,Comerciantes Unidos,213609,2,0,,,,,,
+previous,70962,Liga 1 2025,406,13943947,17,2025-06-29 20:00,Alianza Atlético de Sullana,2307,Club Atlético Grau,282538,2,1,,,,,,
+previous,70962,Liga 1 2025,406,13943949,17,2025-06-29 23:00,Cusco FC,63760,Alianza Universidad,306660,4,1,,,,,,
+previous,70962,Liga 1 2025,406,13940654,4,2025-07-02 20:00,ACD Juan Pablo II,511206,Melgar,2308,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13943954,18,2025-07-04 18:00,Sport Huancayo,33895,Universidad Técnica de Cajamarca,87854,1,0,,,,,,
+previous,70962,Liga 1 2025,406,13943970,18,2025-07-04 20:15,Los Chankas CYC,252254,Asociación Deportiva Tarma,335557,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13943942,18,2025-07-05 18:00,Comerciantes Unidos,213609,Ayacucho FC,33894,0,1,,,,,,
+previous,70962,Liga 1 2025,406,13943950,18,2025-07-05 20:15,Cienciano,2301,Club Sporting Cristal,2302,1,1,,,,,,
+previous,70962,Liga 1 2025,406,13943944,18,2025-07-05 22:30,Alianza Universidad,306660,Alianza Atlético de Sullana,2307,2,0,,,,,,
+previous,70962,Liga 1 2025,406,13943951,18,2025-07-06 01:00,Alianza Lima,2311,Deportivo Binacional,275839,5,1,,,,,,
+previous,70962,Liga 1 2025,406,13943946,18,2025-07-06 18:00,Sport Boys,2312,Cusco FC,63760,1,2,,,,,,
+previous,70962,Liga 1 2025,406,13943943,18,2025-07-06 20:15,Club Atlético Grau,282538,ACD Juan Pablo II,511206,2,0,,,,,,
+previous,70962,Liga 1 2025,406,13943948,18,2025-07-06 22:30,Deportivo Garcilaso,458584,Universitario de Deportes,2305,0,1,,,,,,
+previous,70962,Liga 1 2025,406,14048575,19,2025-07-11 20:00,Asociación Deportiva Tarma,335557,Comerciantes Unidos,213609,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14048578,19,2025-07-12 16:30,Deportivo Binacional,275839,Melgar,2308,1,1,,,,,,
+previous,70962,Liga 1 2025,406,14048574,19,2025-07-12 20:00,Universidad Técnica de Cajamarca,87854,Alianza Lima,2311,0,0,,,,,,
+previous,70962,Liga 1 2025,406,14048576,19,2025-07-12 20:00,Universitario de Deportes,2305,Los Chankas CYC,252254,0,0,,,,,,
+previous,70962,Liga 1 2025,406,14048577,19,2025-07-12 20:30,Alianza Atlético de Sullana,2307,Sport Boys,2312,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14048600,19,2025-07-13 16:00,Club Sporting Cristal,2302,Club Atlético Grau,282538,2,1,,,,,,
+previous,70962,Liga 1 2025,406,14048602,19,2025-07-13 18:15,Ayacucho FC,33894,Cienciano,2301,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14049250,19,2025-07-13 20:30,ACD Juan Pablo II,511206,Alianza Universidad,306660,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14048601,19,2025-07-13 23:30,Cusco FC,63760,Sport Huancayo,33895,3,0,,,,,,
+previous,70962,Liga 1 2025,406,14088132,1,2025-07-18 20:00,Alianza Atlético de Sullana,2307,Sport Huancayo,33895,0,0,,,,,,
+previous,70962,Liga 1 2025,406,14088086,1,2025-07-19 00:00,Deportivo Garcilaso,458584,Los Chankas CYC,252254,3,0,,,,,,
+previous,70962,Liga 1 2025,406,14088096,1,2025-07-19 02:00,Universitario de Deportes,2305,Comerciantes Unidos,213609,3,1,,,,,,
+previous,70962,Liga 1 2025,406,14088091,1,2025-07-19 18:00,Universidad Técnica de Cajamarca,87854,Melgar,2308,1,2,,,,,,
+previous,70962,Liga 1 2025,406,14088094,1,2025-07-19 20:15,Asociación Deportiva Tarma,335557,Cienciano,2301,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14088085,1,2025-07-19 23:00,Cusco FC,63760,Alianza Lima,2311,2,0,,,,,,
+previous,70962,Liga 1 2025,406,14088092,1,2025-07-20 16:00,Club Sporting Cristal,2302,Alianza Universidad,306660,3,0,,,,,,
+previous,70962,Liga 1 2025,406,14088088,1,2025-07-20 18:15,Ayacucho FC,33894,Club Atlético Grau,282538,1,2,,,,,,
+previous,70962,Liga 1 2025,406,14088083,1,2025-07-20 20:30,ACD Juan Pablo II,511206,Sport Boys,2312,3,0,,,,,,
+previous,70962,Liga 1 2025,406,14088089,2,2025-07-25 20:00,Sport Huancayo,33895,ACD Juan Pablo II,511206,5,1,,,,,,
+previous,70962,Liga 1 2025,406,14088087,2,2025-07-25 23:00,Deportivo Binacional,275839,Universidad Técnica de Cajamarca,87854,0,0,,,,,,
+previous,70962,Liga 1 2025,406,14088131,2,2025-07-26 18:00,Alianza Universidad,306660,Ayacucho FC,33894,1,2,,,,,,
+previous,70962,Liga 1 2025,406,14088098,2,2025-07-26 20:30,Sport Boys,2312,Club Sporting Cristal,2302,0,2,,,,,,
+previous,70962,Liga 1 2025,406,14088090,2,2025-07-26 23:30,Cienciano,2301,Universitario de Deportes,2305,1,1,,,,,,
+previous,70962,Liga 1 2025,406,14088093,2,2025-07-27 18:00,Melgar,2308,Cusco FC,63760,0,2,,,,,,
+previous,70962,Liga 1 2025,406,14088084,2,2025-07-27 20:15,Comerciantes Unidos,213609,Deportivo Garcilaso,458584,0,0,,,,,,
+previous,70962,Liga 1 2025,406,14088133,2,2025-07-27 23:00,Alianza Lima,2311,Alianza Atlético de Sullana,2307,1,1,,,,,,
+previous,70962,Liga 1 2025,406,14107590,3,2025-07-30 18:00,Ayacucho FC,33894,Sport Boys,2312,0,0,,,,,,
+previous,70962,Liga 1 2025,406,14107588,3,2025-07-30 20:15,Club Sporting Cristal,2302,Sport Huancayo,33895,5,0,,,,,,
+previous,70962,Liga 1 2025,406,14107592,3,2025-07-31 18:00,Asociación Deportiva Tarma,335557,Alianza Universidad,306660,0,3,,,,,,
+previous,70962,Liga 1 2025,406,14107591,3,2025-07-31 20:15,Cusco FC,63760,Deportivo Binacional,275839,2,0,,,,,,
+previous,70962,Liga 1 2025,406,14107589,3,2025-08-01 00:00,ACD Juan Pablo II,511206,Alianza Lima,2311,1,2,,,,,,
+previous,70962,Liga 1 2025,406,14107754,3,2025-08-01 02:00,Universitario de Deportes,2305,Club Atlético Grau,282538,3,1,,,,,,
+previous,70962,Liga 1 2025,406,14107749,3,2025-08-01 18:00,Los Chankas CYC,252254,Comerciantes Unidos,213609,3,2,,,,,,
+previous,70962,Liga 1 2025,406,14107752,3,2025-08-01 20:15,Alianza Atlético de Sullana,2307,Melgar,2308,0,0,,,,,,
+previous,70962,Liga 1 2025,406,14107753,3,2025-08-02 00:00,Deportivo Garcilaso,458584,Cienciano,2301,2,1,,,,,,
+previous,70962,Liga 1 2025,406,14186416,4,2025-08-03 20:00,Sport Huancayo,33895,Ayacucho FC,33894,3,1,,,,,,
+previous,70962,Liga 1 2025,406,14186417,4,2025-08-04 18:00,Universidad Técnica de Cajamarca,87854,Cusco FC,63760,1,2,,,,,,
+previous,70962,Liga 1 2025,406,14186606,4,2025-08-04 20:00,Sport Boys,2312,Asociación Deportiva Tarma,335557,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14186612,4,2025-08-05 00:00,Cienciano,2301,Los Chankas CYC,252254,3,0,,,,,,
+previous,70962,Liga 1 2025,406,14186608,4,2025-08-05 17:00,Alianza Universidad,306660,Universitario de Deportes,2305,0,2,,,,,,
+previous,70962,Liga 1 2025,406,14186607,4,2025-08-05 20:00,Melgar,2308,ACD Juan Pablo II,511206,1,1,,,,,,
+previous,70962,Liga 1 2025,406,14186609,4,2025-08-06 01:00,Alianza Lima,2311,Club Sporting Cristal,2302,0,0,,,,,,
+previous,70962,Liga 1 2025,406,14186611,4,2025-08-06 20:00,Club Atlético Grau,282538,Deportivo Garcilaso,458584,1,1,,,,,,
+previous,70962,Liga 1 2025,406,14186610,4,2025-08-06 22:30,Deportivo Binacional,275839,Alianza Atlético de Sullana,2307,2,0,,,,,,
+previous,70962,Liga 1 2025,406,14199324,5,2025-08-08 20:00,Comerciantes Unidos,213609,Cienciano,2301,1,1,,,,,,
+previous,70962,Liga 1 2025,406,14199319,5,2025-08-09 18:00,Ayacucho FC,33894,Alianza Lima,2311,0,1,,,,,,
+previous,70962,Liga 1 2025,406,14199317,5,2025-08-09 20:15,Asociación Deportiva Tarma,335557,Sport Huancayo,33895,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14199318,5,2025-08-09 23:30,Universitario de Deportes,2305,Sport Boys,2312,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14199322,5,2025-08-10 16:00,Club Sporting Cristal,2302,Melgar,2308,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14199323,5,2025-08-10 18:15,Los Chankas CYC,252254,Club Atlético Grau,282538,3,2,,,,,,
+previous,70962,Liga 1 2025,406,14199321,5,2025-08-10 20:30,ACD Juan Pablo II,511206,Deportivo Binacional,275839,0,0,,,,,,
+previous,70962,Liga 1 2025,406,14199320,5,2025-08-11 20:00,Alianza Atlético de Sullana,2307,Universidad Técnica de Cajamarca,87854,2,0,,,,,,
+previous,70962,Liga 1 2025,406,14199340,5,2025-08-12 00:00,Deportivo Garcilaso,458584,Alianza Universidad,306660,1,1,,,,,,
+previous,70962,Liga 1 2025,406,14289286,6,2025-08-15 20:00,Club Atlético Grau,282538,Comerciantes Unidos,213609,1,2,,,,,,
+previous,70962,Liga 1 2025,406,14289285,6,2025-08-16 01:00,Sport Boys,2312,Deportivo Garcilaso,458584,0,1,,,,,,
+previous,70962,Liga 1 2025,406,14289290,6,2025-08-16 20:15,Universidad Técnica de Cajamarca,87854,ACD Juan Pablo II,511206,0,0,,,,,,
+previous,70962,Liga 1 2025,406,14289289,6,2025-08-16 22:30,Deportivo Binacional,275839,Club Sporting Cristal,2302,1,3,,,,,,
+previous,70962,Liga 1 2025,406,14289294,6,2025-08-17 01:00,Alianza Lima,2311,Asociación Deportiva Tarma,335557,3,1,,,,,,
+previous,70962,Liga 1 2025,406,14289292,6,2025-08-17 17:00,Sport Huancayo,33895,Universitario de Deportes,2305,1,1,,,,,,
+previous,70962,Liga 1 2025,406,14289291,6,2025-08-17 20:00,Melgar,2308,Ayacucho FC,33894,2,1,,,,,,
+previous,70962,Liga 1 2025,406,14289293,6,2025-08-17 23:30,Cusco FC,63760,Alianza Atlético de Sullana,2307,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14289334,7,2025-08-22 20:15,ACD Juan Pablo II,511206,Cusco FC,63760,0,0,,,,,,
+previous,70962,Liga 1 2025,406,14289333,7,2025-08-23 16:00,Club Sporting Cristal,2302,Universidad Técnica de Cajamarca,87854,2,2,,,,,,
+previous,70962,Liga 1 2025,406,14289685,7,2025-08-23 18:15,Los Chankas CYC,252254,Sport Boys,2312,2,1,,,,,,
+previous,70962,Liga 1 2025,406,14289684,7,2025-08-23 20:30,Comerciantes Unidos,213609,Alianza Universidad,306660,1,2,,,,,,
+previous,70962,Liga 1 2025,406,14289683,7,2025-08-23 23:00,Deportivo Garcilaso,458584,Sport Huancayo,33895,1,1,,,,,,
+previous,70962,Liga 1 2025,406,14293319,7,2025-08-24 18:00,Asociación Deportiva Tarma,335557,Melgar,2308,2,2,,,,,,
+previous,70962,Liga 1 2025,406,14289686,7,2025-08-24 20:15,Cienciano,2301,Club Atlético Grau,282538,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14289687,7,2025-08-24 22:30,Universitario de Deportes,2305,Alianza Lima,2311,0,0,,,,,,
+previous,70962,Liga 1 2025,406,14409923,6,2025-08-30 20:00,Alianza Universidad,306660,Los Chankas CYC,252254,2,1,,,,,,
+previous,70962,Liga 1 2025,406,14279752,2,2025-08-31 20:00,Club Atlético Grau,282538,Asociación Deportiva Tarma,335557,2,0,,,,,,
+previous,70962,Liga 1 2025,406,14439042,8,2025-09-12 18:00,Universidad Técnica de Cajamarca,87854,Ayacucho FC,33894,0,1,,,,,,
+previous,70962,Liga 1 2025,406,14439044,8,2025-09-12 20:15,Sport Huancayo,33895,Los Chankas CYC,252254,1,2,,,,,,
+previous,70962,Liga 1 2025,406,14439049,8,2025-09-13 18:00,Sport Boys,2312,Comerciantes Unidos,213609,0,1,,,,,,
+previous,70962,Liga 1 2025,406,14439043,8,2025-09-13 20:15,Alianza Atlético de Sullana,2307,ACD Juan Pablo II,511206,0,1,,,,,,
+previous,70962,Liga 1 2025,406,14439046,8,2025-09-14 00:00,Alianza Lima,2311,Deportivo Garcilaso,458584,3,4,,,,,,
+previous,70962,Liga 1 2025,406,14439047,8,2025-09-14 17:30,Alianza Universidad,306660,Cienciano,2301,0,3,,,,,,
+previous,70962,Liga 1 2025,406,14439048,8,2025-09-14 20:00,Melgar,2308,Universitario de Deportes,2305,1,2,,,,,,
+previous,70962,Liga 1 2025,406,14439045,8,2025-09-14 22:30,Cusco FC,63760,Club Sporting Cristal,2302,3,2,,,,,,
+previous,70962,Liga 1 2025,406,14558492,9,2025-09-16 20:00,Asociación Deportiva Tarma,335557,Universidad Técnica de Cajamarca,87854,3,1,,,,,,
+previous,70962,Liga 1 2025,406,14558493,9,2025-09-17 18:00,Club Sporting Cristal,2302,Alianza Atlético de Sullana,2307,0,0,,,,,,
+previous,70962,Liga 1 2025,406,14558497,9,2025-09-17 20:15,Comerciantes Unidos,213609,Sport Huancayo,33895,2,0,,,,,,
+previous,70962,Liga 1 2025,406,14558496,9,2025-09-18 00:30,Cienciano,2301,Sport Boys,2312,2,2,,,,,,
+previous,70962,Liga 1 2025,406,14558495,9,2025-09-18 18:00,Ayacucho FC,33894,Cusco FC,63760,0,1,,,,,,
+previous,70962,Liga 1 2025,406,14558499,9,2025-09-18 20:15,Club Atlético Grau,282538,Alianza Universidad,306660,2,0,,,,,,
+previous,70962,Liga 1 2025,406,14558494,9,2025-09-19 00:30,Deportivo Garcilaso,458584,Melgar,2308,1,1,,,,,,
+previous,70962,Liga 1 2025,406,14558471,10,2025-09-21 00:00,Universidad Técnica de Cajamarca,87854,Universitario de Deportes,2305,1,2,,,,,,
+previous,70962,Liga 1 2025,406,14558470,10,2025-09-21 18:00,Melgar,2308,Los Chankas CYC,252254,6,1,,,,,,
+previous,70962,Liga 1 2025,406,14558464,10,2025-09-21 20:15,ACD Juan Pablo II,511206,Club Sporting Cristal,2302,0,0,,,,,,
+previous,70962,Liga 1 2025,406,14558468,10,2025-09-21 22:30,Sport Huancayo,33895,Cienciano,2301,5,2,,,,,,
+previous,70962,Liga 1 2025,406,14558466,10,2025-09-22 01:00,Alianza Lima,2311,Comerciantes Unidos,213609,4,0,,,,,,
+previous,70962,Liga 1 2025,406,14558467,10,2025-09-22 20:00,Alianza Atlético de Sullana,2307,Ayacucho FC,33894,3,0,,,,,,
+previous,70962,Liga 1 2025,406,14558465,10,2025-09-23 00:15,Cusco FC,63760,Asociación Deportiva Tarma,335557,0,2,,,,,,
+previous,70962,Liga 1 2025,406,14558469,10,2025-09-23 00:30,Sport Boys,2312,Club Atlético Grau,282538,1,1,,,,,,
+previous,70962,Liga 1 2025,406,14636613,11,2025-09-25 20:00,Ayacucho FC,33894,ACD Juan Pablo II,511206,2,1,,,,,,
+previous,70962,Liga 1 2025,406,14636612,11,2025-09-26 00:00,Deportivo Garcilaso,458584,Universidad Técnica de Cajamarca,87854,0,0,,,,,,
+previous,70962,Liga 1 2025,406,14636615,11,2025-09-26 16:00,Alianza Universidad,306660,Sport Boys,2312,2,3,,,,,,
+previous,70962,Liga 1 2025,406,14636614,11,2025-09-26 18:15,Asociación Deportiva Tarma,335557,Alianza Atlético de Sullana,2307,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14636618,11,2025-09-26 20:30,Club Atlético Grau,282538,Sport Huancayo,33895,3,1,,,,,,
+previous,70962,Liga 1 2025,406,14636617,11,2025-09-27 20:00,Comerciantes Unidos,213609,Melgar,2308,1,1,,,,,,
+previous,70962,Liga 1 2025,406,14636616,11,2025-09-27 23:00,Universitario de Deportes,2305,Cusco FC,63760,3,2,,,,,,
+previous,70962,Liga 1 2025,406,14636619,11,2025-09-28 23:00,Cienciano,2301,Alianza Lima,2311,2,1,,,,,,
+previous,70962,Liga 1 2025,406,14636621,12,2025-09-29 18:00,Universidad Técnica de Cajamarca,87854,Los Chankas CYC,252254,2,0,,,,,,
+previous,70962,Liga 1 2025,406,14636622,12,2025-09-29 20:15,Club Sporting Cristal,2302,Ayacucho FC,33894,3,0,,,,,,
+previous,70962,Liga 1 2025,406,14636623,12,2025-09-30 18:00,Sport Huancayo,33895,Alianza Universidad,306660,5,1,,,,,,
+previous,70962,Liga 1 2025,406,14636629,12,2025-09-30 20:15,ACD Juan Pablo II,511206,Asociación Deportiva Tarma,335557,1,1,,,,,,
+previous,70962,Liga 1 2025,406,14636620,12,2025-10-01 00:30,Cusco FC,63760,Deportivo Garcilaso,458584,4,0,,,,,,
+previous,70962,Liga 1 2025,406,14637138,12,2025-10-01 23:00,Alianza Atlético de Sullana,2307,Universitario de Deportes,2305,0,2,,,,,,
+previous,70962,Liga 1 2025,406,14636626,12,2025-10-02 01:30,Alianza Lima,2311,Club Atlético Grau,282538,2,1,,,,,,
+previous,70962,Liga 1 2025,406,14636627,12,2025-10-03 00:30,Melgar,2308,Cienciano,2301,2,0,,,,,,
+previous,70962,Liga 1 2025,406,14636624,13,2025-10-03 20:00,Comerciantes Unidos,213609,Universidad Técnica de Cajamarca,87854,2,1,,,,,,
+previous,70962,Liga 1 2025,406,14636625,13,2025-10-04 18:00,Los Chankas CYC,252254,Cusco FC,63760,2,1,,,,,,
+previous,70962,Liga 1 2025,406,14636628,13,2025-10-04 20:15,Asociación Deportiva Tarma,335557,Club Sporting Cristal,2302,3,2,,,,,,
+previous,70962,Liga 1 2025,406,14636632,13,2025-10-05 00:00,Sport Boys,2312,Sport Huancayo,33895,2,1,,,,,,
+previous,70962,Liga 1 2025,406,14636631,13,2025-10-05 17:00,Alianza Universidad,306660,Alianza Lima,2311,2,1,,,,,,
+previous,70962,Liga 1 2025,406,14636864,13,2025-10-05 20:00,Club Atlético Grau,282538,Melgar,2308,0,0,,,,,,
+previous,70962,Liga 1 2025,406,14636865,13,2025-10-05 22:30,Deportivo Garcilaso,458584,Alianza Atlético de Sullana,2307,2,4,,,,,,
+previous,70962,Liga 1 2025,406,14636863,13,2025-10-05 23:00,Universitario de Deportes,2305,ACD Juan Pablo II,511206,3,0,,,,,,
+previous,70962,Liga 1 2025,406,14753642,14,2025-10-12 18:00,Ayacucho FC,33894,Asociación Deportiva Tarma,335557,2,2,,,,,,
+previous,70962,Liga 1 2025,406,14753640,14,2025-10-12 20:30,Alianza Atlético de Sullana,2307,Los Chankas CYC,252254,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14753641,14,2025-10-12 23:00,Cusco FC,63760,Comerciantes Unidos,213609,1,1,,,,,,
+previous,70962,Liga 1 2025,406,14753643,14,2025-10-13 18:00,Universidad Técnica de Cajamarca,87854,Cienciano,2301,0,2,,,,,,
+previous,70962,Liga 1 2025,406,14753645,14,2025-10-13 20:15,ACD Juan Pablo II,511206,Deportivo Garcilaso,458584,0,1,,,,,,
+previous,70962,Liga 1 2025,406,14753646,14,2025-10-14 23:00,Melgar,2308,Alianza Universidad,306660,2,1,,,,,,
+previous,70962,Liga 1 2025,406,14753647,14,2025-10-17 01:00,Alianza Lima,2311,Sport Boys,2312,3,1,,,,,,
+previous,70962,Liga 1 2025,406,14817011,15,2025-10-18 18:00,Los Chankas CYC,252254,ACD Juan Pablo II,511206,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14817018,15,2025-10-18 20:15,Comerciantes Unidos,213609,Alianza Atlético de Sullana,2307,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14817012,15,2025-10-18 23:00,Cienciano,2301,Cusco FC,63760,1,2,,,,,,
+previous,70962,Liga 1 2025,406,14817013,15,2025-10-19 20:00,Club Atlético Grau,282538,Universidad Técnica de Cajamarca,87854,0,2,,,,,,
+previous,70962,Liga 1 2025,406,14817017,15,2025-10-19 22:30,Deportivo Garcilaso,458584,Club Sporting Cristal,2302,0,1,,,,,,
+previous,70962,Liga 1 2025,406,14817014,15,2025-10-20 18:15,Sport Huancayo,33895,Alianza Lima,2311,1,2,,,,,,
+previous,70962,Liga 1 2025,406,14817016,15,2025-10-20 23:00,Sport Boys,2312,Melgar,2308,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14817015,15,2025-10-21 01:15,Universitario de Deportes,2305,Ayacucho FC,33894,2,1,,,,,,
+previous,70962,Liga 1 2025,406,14886561,14,2025-10-24 01:00,Club Sporting Cristal,2302,Universitario de Deportes,2305,0,1,,,,,,
+previous,70962,Liga 1 2025,406,14843658,16,2025-10-24 20:00,ACD Juan Pablo II,511206,Comerciantes Unidos,213609,0,1,,,,,,
+previous,70962,Liga 1 2025,406,14841182,16,2025-10-25 18:00,Ayacucho FC,33894,Deportivo Garcilaso,458584,4,2,,,,,,
+previous,70962,Liga 1 2025,406,14841190,16,2025-10-25 20:15,Alianza Atlético de Sullana,2307,Cienciano,2301,0,1,,,,,,
+previous,70962,Liga 1 2025,406,14841192,16,2025-10-25 23:00,Cusco FC,63760,Club Atlético Grau,282538,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14841186,16,2025-10-26 16:00,Club Sporting Cristal,2302,Los Chankas CYC,252254,0,1,,,,,,
+previous,70962,Liga 1 2025,406,14841191,16,2025-10-26 18:15,Universidad Técnica de Cajamarca,87854,Alianza Universidad,306660,3,2,,,,,,
+previous,70962,Liga 1 2025,406,14843657,16,2025-10-26 20:30,Asociación Deportiva Tarma,335557,Universitario de Deportes,2305,1,2,,,,,,
+previous,70962,Liga 1 2025,406,14841185,16,2025-10-26 23:00,Melgar,2308,Sport Huancayo,33895,2,0,,,,,,
+previous,70962,Liga 1 2025,406,14841189,17,2025-11-01 01:00,Alianza Lima,2311,Melgar,2308,2,2,,,,,,
+previous,70962,Liga 1 2025,406,14841193,17,2025-11-01 18:00,Los Chankas CYC,252254,Ayacucho FC,33894,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14841188,17,2025-11-01 20:15,Comerciantes Unidos,213609,Club Sporting Cristal,2302,1,4,,,,,,
+previous,70962,Liga 1 2025,406,14841194,17,2025-11-01 23:00,Deportivo Garcilaso,458584,Asociación Deportiva Tarma,335557,1,0,,,,,,
+previous,70962,Liga 1 2025,406,14841198,17,2025-11-02 18:00,Alianza Universidad,306660,Cusco FC,63760,2,2,,,,,,
+previous,70962,Liga 1 2025,406,14841196,17,2025-11-02 20:30,Club Atlético Grau,282538,Alianza Atlético de Sullana,2307,1,1,,,,,,
+previous,70962,Liga 1 2025,406,14841195,17,2025-11-02 23:00,Cienciano,2301,ACD Juan Pablo II,511206,2,1,,,,,,
+previous,70962,Liga 1 2025,406,14841197,17,2025-11-02 23:00,Sport Boys,2312,Universidad Técnica de Cajamarca,87854,2,2,,,,,,
+previous,70962,Liga 1 2025,406,14862824,9,2025-11-05 20:15,Los Chankas CYC,252254,Alianza Lima,2311,1,2,,,,,,
+previous,70962,Liga 1 2025,406,14935671,18,2025-11-07 18:00,Cusco FC,63760,Sport Boys,2312,3,0,,,,,,
+previous,70962,Liga 1 2025,406,14935672,18,2025-11-07 20:15,Club Sporting Cristal,2302,Cienciano,2301,2,1,,,,,,
+previous,70962,Liga 1 2025,406,14935674,18,2025-11-08 02:00,Universitario de Deportes,2305,Deportivo Garcilaso,458584,0,0,,,,,,
+previous,70962,Liga 1 2025,406,14935676,18,2025-11-08 20:15,ACD Juan Pablo II,511206,Club Atlético Grau,282538,3,1,,,,,,
+previous,70962,Liga 1 2025,406,14935680,18,2025-11-09 18:00,Universidad Técnica de Cajamarca,87854,Sport Huancayo,33895,0,3,,,,,,
+previous,70962,Liga 1 2025,406,14935678,18,2025-11-09 20:15,Alianza Atlético de Sullana,2307,Alianza Universidad,306660,2,1,,,,,,
+previous,70962,Liga 1 2025,406,14935679,18,2025-11-10 20:00,Asociación Deportiva Tarma,335557,Los Chankas CYC,252254,1,0,,,,,,
+previous,70962,Liga 1 2025,406,15038227,19,2025-11-16 20:00,Sport Boys,2312,Alianza Atlético de Sullana,2307,0,1,,,,,,
+previous,70962,Liga 1 2025,406,15038228,19,2025-11-19 20:00,Club Atlético Grau,282538,Club Sporting Cristal,2302,1,2,,,,,,
+previous,70962,Liga 1 2025,406,15038233,19,2025-11-22 20:30,Los Chankas CYC,252254,Universitario de Deportes,2305,3,1,,,,,,
+previous,70962,Liga 1 2025,406,15038229,19,2025-11-23 20:00,Alianza Universidad,306660,ACD Juan Pablo II,511206,3,0,,,,,,
+previous,70962,Liga 1 2025,406,15038230,19,2025-11-23 20:00,Sport Huancayo,33895,Cusco FC,63760,1,2,,,,,,
+previous,70962,Liga 1 2025,406,15038231,19,2025-11-23 20:00,Comerciantes Unidos,213609,Asociación Deportiva Tarma,335557,0,0,,,,,,
+previous,70962,Liga 1 2025,406,15038232,19,2025-11-23 20:00,Cienciano,2301,Ayacucho FC,33894,2,1,,,,,,
+previous,70962,Liga 1 2025,406,15038234,19,2025-11-23 20:00,Alianza Lima,2311,Universidad Técnica de Cajamarca,87854,3,0,,,,,,
+previous,70962,Liga 1 2025,406,15142340,28,2025-12-03 01:00,Club Sporting Cristal,2302,Alianza Lima,2311,1,1,,,,,,
+previous,70962,Liga 1 2025,406,15145889,28,2025-12-07 01:00,Alianza Lima,2311,Club Sporting Cristal,2302,7,8,,,,,,
+previous,70962,Liga 1 2025,406,15192858,29,2025-12-11 01:00,Club Sporting Cristal,2302,Cusco FC,63760,1,0,,,,,,
+previous,70962,Liga 1 2025,406,15193017,29,2025-12-14 23:00,Cusco FC,63760,Club Sporting Cristal,2302,2,0,,,,,,
+current,88529,Liga 1 2026,406,15362086,1,2026-01-30 17:00,Sport Huancayo,33895,Alianza Lima,2311,1,2,2.4,3.2,2.75,2.5,3.25,2.75
+current,88529,Liga 1 2026,406,15362081,1,2026-01-30 20:15,Universidad Técnica de Cajamarca,87854,Club Atlético Grau,282538,2,0,2.2,3.25,3.1,2.05,3.3,3.5
+current,88529,Liga 1 2026,406,15362094,1,2026-01-31 18:00,Sport Boys,2312,Los Chankas CYC,252254,1,1,1.8,3.4,4.3333,1.65,3.6,5.25
+current,88529,Liga 1 2026,406,15362080,1,2026-01-31 20:15,ACD Juan Pablo II,511206,FC Cajamarca,1082002,3,3,2.5,3.25,2.55,2.1,3.4,3.3
+current,88529,Liga 1 2026,406,15362082,1,2026-01-31 23:30,Melgar,2308,Cienciano,2301,2,0,1.7,3.6,4.75,1.73,3.4,4.75
+current,88529,Liga 1 2026,406,15362090,1,2026-02-01 18:00,Deportivo Garcilaso,458584,Club Sporting Cristal,2302,1,1,2.9,3.25,2.25,2.88,3.4,2.35
+current,88529,Liga 1 2026,406,15362077,1,2026-02-01 20:15,Alianza Atlético de Sullana,2307,Cusco FC,63760,1,0,2.35,3.2,3.0,2.25,3.2,3.25
+current,88529,Liga 1 2026,406,15362084,1,2026-02-01 23:00,Universitario de Deportes,2305,Asociación Deportiva Tarma,335557,2,0,1.27,5.0,11.0,1.2,5.5,12.0
+current,88529,Liga 1 2026,406,15371229,1,2026-02-02 20:00,Comerciantes Unidos,213609,CD Moquegua,492848,1,0,2.2,3.2,3.3,2.05,3.3,3.7
+current,88529,Liga 1 2026,406,15438955,2,2026-02-06 20:00,CD Moquegua,492848,Universidad Técnica de Cajamarca,87854,2,3,2.38,3.25,2.88,2.3,3.2,3.0
+current,88529,Liga 1 2026,406,15438954,2,2026-02-07 18:00,Asociación Deportiva Tarma,335557,Sport Boys,2312,1,0,1.45,4.0,7.0,1.5,3.8,6.5
+current,88529,Liga 1 2026,406,15438846,2,2026-02-07 20:15,Club Atlético Grau,282538,Sport Huancayo,33895,0,0,2.0,3.4,3.5,2.25,2.7,3.9
+current,88529,Liga 1 2026,406,15438843,2,2026-02-08 01:00,Cusco FC,63760,Universitario de Deportes,2305,1,1,2.5,3.0,2.8,2.3,3.1,3.1
+current,88529,Liga 1 2026,406,15438836,2,2026-02-08 16:00,Club Sporting Cristal,2302,Melgar,2308,1,2,1.8,3.4,4.3333,1.83,3.3,4.3333
+current,88529,Liga 1 2026,406,15438841,2,2026-02-08 18:15,Los Chankas CYC,252254,Alianza Atlético de Sullana,2307,1,0,1.95,3.3,3.8,1.75,3.4,4.5
+current,88529,Liga 1 2026,406,15438840,2,2026-02-08 20:30,Cienciano,2301,ACD Juan Pablo II,511206,6,1,1.38,4.5,7.0,1.29,5.5,9.5
+current,88529,Liga 1 2026,406,15438847,2,2026-02-08 23:00,Alianza Lima,2311,Comerciantes Unidos,213609,2,1,1.14,6.5,17.0,1.25,5.0,12.0
+current,88529,Liga 1 2026,406,15438956,2,2026-02-09 20:30,FC Cajamarca,1082002,Deportivo Garcilaso,458584,1,1,1.65,3.8,5.0,1.9,3.4,4.1
+current,88529,Liga 1 2026,406,15445913,3,2026-02-13 20:00,Universidad Técnica de Cajamarca,87854,Cusco FC,63760,1,0,3.8,3.6,1.85,3.1,3.2,2.25
+current,88529,Liga 1 2026,406,15445903,3,2026-02-14 01:30,Universitario de Deportes,2305,Cienciano,2301,2,1,1.3,4.75,9.5,1.25,5.5,9.0
+current,88529,Liga 1 2026,406,15445916,3,2026-02-14 18:00,Deportivo Garcilaso,458584,Asociación Deportiva Tarma,335557,1,0,2.25,3.2,3.0,1.95,3.3,3.7
+current,88529,Liga 1 2026,406,15446513,3,2026-02-14 20:15,ACD Juan Pablo II,511206,Club Sporting Cristal,2302,0,2,2.9,3.4,2.25,3.2,3.3,2.2
+current,88529,Liga 1 2026,406,15445911,3,2026-02-14 22:30,Sport Boys,2312,Club Atlético Grau,282538,1,0,1.95,3.2,3.9,1.75,3.3,4.5
+current,88529,Liga 1 2026,406,15445909,3,2026-02-15 01:00,Alianza Atlético de Sullana,2307,Alianza Lima,2311,0,0,3.0,3.1,2.3,3.7,3.25,1.9
+current,88529,Liga 1 2026,406,15445908,3,2026-02-15 18:00,Sport Huancayo,33895,FC Cajamarca,1082002,2,0,1.67,3.7,4.75,1.67,3.5,5.0
+current,88529,Liga 1 2026,406,15445914,3,2026-02-15 20:15,Comerciantes Unidos,213609,Los Chankas CYC,252254,1,1,2.0,3.3,3.4,2.15,3.3,3.0
+current,88529,Liga 1 2026,406,15445912,3,2026-02-15 23:30,Melgar,2308,CD Moquegua,492848,4,0,1.33,4.75,9.0,1.18,5.75,17.0
+current,88529,Liga 1 2026,406,15445904,4,2026-02-21 01:00,Alianza Lima,2311,Sport Boys,2312,1,0,1.36,4.3333,9.0,1.4,4.1,7.5
+current,88529,Liga 1 2026,406,15446515,4,2026-02-21 18:00,FC Cajamarca,1082002,Melgar,2308,3,1,2.75,3.1,2.45,3.9,3.1,1.9
+current,88529,Liga 1 2026,406,15445906,4,2026-02-21 21:00,Club Sporting Cristal,2302,Universitario de Deportes,2305,2,2,3.3,3.3,2.1,3.5,3.0,2.1
+current,88529,Liga 1 2026,406,15445910,4,2026-02-22 00:00,Cienciano,2301,Alianza Atlético de Sullana,2307,1,1,1.42,4.1,7.5,1.33,4.3333,10.0
+current,88529,Liga 1 2026,406,15446514,4,2026-02-22 16:00,Asociación Deportiva Tarma,335557,Universidad Técnica de Cajamarca,87854,2,2,1.6,3.6,5.75,1.8,3.4,4.3333
+current,88529,Liga 1 2026,406,15445905,4,2026-02-22 18:15,Los Chankas CYC,252254,Sport Huancayo,33895,3,2,2.2,3.25,3.0,2.5,3.1,2.75
+current,88529,Liga 1 2026,406,15445907,4,2026-02-22 20:30,Club Atlético Grau,282538,ACD Juan Pablo II,511206,1,2,1.53,3.7,6.25,1.62,3.5,5.5
+current,88529,Liga 1 2026,406,15445915,4,2026-02-22 23:30,Cusco FC,63760,Comerciantes Unidos,213609,3,1,1.17,6.0,13.0,1.29,5.25,8.5
+current,88529,Liga 1 2026,406,15447031,4,2026-02-23 20:00,CD Moquegua,492848,Deportivo Garcilaso,458584,1,0,3.4,3.0,2.15,2.8,2.9,2.7
+current,88529,Liga 1 2026,406,15536568,5,2026-02-27 20:00,Alianza Atlético de Sullana,2307,Asociación Deportiva Tarma,335557,0,0,1.83,3.2,4.3333,1.83,3.3,4.5
+current,88529,Liga 1 2026,406,15536572,5,2026-02-27 22:45,Melgar,2308,Los Chankas CYC,252254,1,2,1.3,4.75,9.0,1.33,5.0,8.0
+current,88529,Liga 1 2026,406,15536575,5,2026-02-28 01:15,Deportivo Garcilaso,458584,Cienciano,2301,2,3,2.55,3.4,2.5,3.0,3.1,2.3
+current,88529,Liga 1 2026,406,15536567,5,2026-02-28 16:00,Sport Huancayo,33895,Club Sporting Cristal,2302,2,1,2.3,3.3,2.88,1.75,3.7,4.1
+current,88529,Liga 1 2026,406,15536569,5,2026-02-28 18:15,Universidad Técnica de Cajamarca,87854,Alianza Lima,2311,0,1,4.75,3.7,1.65,3.0,3.25,2.3
+current,88529,Liga 1 2026,406,15536573,5,2026-03-01 00:00,Sport Boys,2312,CD Moquegua,492848,0,0,1.45,3.75,7.5,1.53,3.7,6.25
+current,88529,Liga 1 2026,406,15536574,5,2026-03-01 18:00,Comerciantes Unidos,213609,Club Atlético Grau,282538,3,1,2.3,3.1,3.2,2.05,3.1,3.8
+current,88529,Liga 1 2026,406,15536929,5,2026-03-01 20:30,ACD Juan Pablo II,511206,Cusco FC,63760,2,1,3.1,3.2,2.25,3.1,3.3,2.2
+current,88529,Liga 1 2026,406,15536571,5,2026-03-01 23:00,Universitario de Deportes,2305,FC Cajamarca,1082002,1,0,1.3,4.75,9.5,1.22,5.25,13.0
+current,88529,Liga 1 2026,406,15590541,6,2026-03-06 20:30,Club Atlético Grau,282538,FC Cajamarca,1082002,1,0,2.1,3.1,3.5,1.7,3.4,5.25
+current,88529,Liga 1 2026,406,15590544,6,2026-03-07 16:00,CD Moquegua,492848,Sport Huancayo,33895,2,1,3.7,3.2,2.0,2.9,2.88,2.55
+current,88529,Liga 1 2026,406,15590543,6,2026-03-07 18:15,Comerciantes Unidos,213609,Universidad Técnica de Cajamarca,87854,1,2,2.25,3.3,2.9,2.75,2.75,2.88
+current,88529,Liga 1 2026,406,15590587,6,2026-03-07 20:30,Club Sporting Cristal,2302,Alianza Atlético de Sullana,2307,3,1,1.55,3.7,6.0,1.6,3.6,6.0
+current,88529,Liga 1 2026,406,15590540,6,2026-03-08 00:00,Cusco FC,63760,Deportivo Garcilaso,458584,1,0,1.75,3.4,4.5,2.2,3.2,3.2
+current,88529,Liga 1 2026,406,15590539,6,2026-03-08 18:15,Asociación Deportiva Tarma,335557,ACD Juan Pablo II,511206,2,3,1.45,4.1,6.0,1.48,4.3333,6.0
+current,88529,Liga 1 2026,406,15590545,6,2026-03-08 20:30,Los Chankas CYC,252254,Universitario de Deportes,2305,3,1,4.3333,3.2,1.85,4.0,3.0,2.0
+current,88529,Liga 1 2026,406,15590542,6,2026-03-09 22:30,Cienciano,2301,Sport Boys,2312,3,1,1.33,4.5,8.5,1.45,4.3333,6.5
+current,88529,Liga 1 2026,406,15590586,6,2026-03-10 01:30,Alianza Lima,2311,Melgar,2308,3,1,1.75,3.4,4.75,1.53,3.75,6.5
+current,88529,Liga 1 2026,406,15607093,7,2026-03-13 20:00,FC Cajamarca,1082002,Comerciantes Unidos,213609,3,4,1.57,3.7,5.75,1.75,3.6,4.2
+current,88529,Liga 1 2026,406,15607090,7,2026-03-14 18:00,Sport Huancayo,33895,Asociación Deportiva Tarma,335557,0,1,1.7,3.5,5.25,1.7,3.5,5.5
+current,88529,Liga 1 2026,406,15607095,7,2026-03-14 20:15,ACD Juan Pablo II,511206,Los Chankas CYC,252254,2,3,2.0,3.4,3.3,1.8,3.5,4.1
+current,88529,Liga 1 2026,406,15607092,7,2026-03-14 23:00,Deportivo Garcilaso,458584,Alianza Lima,2311,1,1,3.1,3.1,2.3,2.9,3.0,2.55
+current,88529,Liga 1 2026,406,15607094,7,2026-03-15 01:30,Universitario de Deportes,2305,Universidad Técnica de Cajamarca,87854,2,0,1.17,6.25,17.0,1.25,5.0,12.0
+current,88529,Liga 1 2026,406,15607096,7,2026-03-15 16:00,Club Sporting Cristal,2302,Sport Boys,2312,3,0,1.3,4.75,9.5,1.42,4.1,7.0
+current,88529,Liga 1 2026,406,15607091,7,2026-03-15 18:15,Melgar,2308,Club Atlético Grau,282538,0,0,1.3,4.5,10.0,1.3,4.3333,10.0
+current,88529,Liga 1 2026,406,15607097,7,2026-03-15 20:30,Alianza Atlético de Sullana,2307,CD Moquegua,492848,3,0,1.65,3.3,5.5,1.53,3.6,6.5
+current,88529,Liga 1 2026,406,15607098,7,2026-03-15 23:00,Cusco FC,63760,Cienciano,2301,1,2,1.85,3.3,3.9,2.05,3.25,3.2
+current,88529,Liga 1 2026,406,15655700,8,2026-03-20 20:30,Asociación Deportiva Tarma,335557,Melgar,2308,1,1,2.8,3.2,2.45,2.75,3.1,2.5
+current,88529,Liga 1 2026,406,15655433,8,2026-03-21 00:30,Cienciano,2301,FC Cajamarca,1082002,3,0,1.53,4.0,5.75,1.44,4.75,5.5
+current,88529,Liga 1 2026,406,15655692,8,2026-03-21 16:00,CD Moquegua,492848,Cusco FC,63760,1,2,3.4,3.1,2.05,3.4,2.9,2.15
+current,88529,Liga 1 2026,406,15655436,8,2026-03-21 18:15,Comerciantes Unidos,213609,Universitario de Deportes,2305,0,0,7.0,3.6,1.5,4.5,3.1,1.8
+current,88529,Liga 1 2026,406,15655437,8,2026-03-21 20:30,Los Chankas CYC,252254,Club Sporting Cristal,2302,3,2,2.6,3.2,2.63,3.1,3.3,2.2
+current,88529,Liga 1 2026,406,15655438,8,2026-03-21 23:30,Alianza Lima,2311,ACD Juan Pablo II,511206,2,0,1.2,5.5,13.0,1.22,5.25,11.0
+current,88529,Liga 1 2026,406,15655439,8,2026-03-22 18:00,Universidad Técnica de Cajamarca,87854,Alianza Atlético de Sullana,2307,1,1,2.0,3.1,3.75,1.8,3.25,4.5
+current,88529,Liga 1 2026,406,15655435,8,2026-03-22 20:30,Club Atlético Grau,282538,Deportivo Garcilaso,458584,0,0,1.57,3.5,6.0,1.73,3.3,4.75
+current,88529,Liga 1 2026,406,15655434,8,2026-03-22 23:00,Sport Boys,2312,Sport Huancayo,33895,3,0,2.2,3.25,3.1,2.05,3.25,3.4
+current,88529,Liga 1 2026,406,15714336,9,2026-04-03 16:00,Club Sporting Cristal,2302,CD Moquegua,492848,1,2,1.29,4.5,10.0,1.2,5.0,13.0
+current,88529,Liga 1 2026,406,15714347,9,2026-04-03 20:00,Alianza Atlético de Sullana,2307,Club Atlético Grau,282538,2,2,1.75,3.25,4.75,2.1,2.9,3.6
+current,88529,Liga 1 2026,406,15714346,9,2026-04-03 23:15,Cienciano,2301,Asociación Deportiva Tarma,335557,3,2,1.62,3.8,4.75,1.57,3.8,5.0
+current,88529,Liga 1 2026,406,15714349,9,2026-04-04 18:15,Deportivo Garcilaso,458584,Sport Boys,2312,3,2,1.57,3.7,5.75,1.57,3.6,5.75
+current,88529,Liga 1 2026,406,15714348,9,2026-04-04 20:30,Melgar,2308,Cusco FC,63760,1,3,1.75,3.5,4.5,1.91,3.4,3.7
+current,88529,Liga 1 2026,406,15714337,9,2026-04-05 01:00,Universitario de Deportes,2305,Alianza Lima,2311,1,0,2.4,3.0,3.0,2.05,3.1,3.6
+current,88529,Liga 1 2026,406,15714351,9,2026-04-05 18:15,Sport Huancayo,33895,Comerciantes Unidos,213609,1,1,1.38,4.3333,7.5,1.5,3.7,6.5
+current,88529,Liga 1 2026,406,15716001,9,2026-04-05 20:30,ACD Juan Pablo II,511206,Universidad Técnica de Cajamarca,87854,2,1,2.0,3.2,3.6,2.15,3.1,3.2
+current,88529,Liga 1 2026,406,15716009,9,2026-04-06 20:00,FC Cajamarca,1082002,Los Chankas CYC,252254,0,1,2.2,3.3,3.0,2.4,3.2,2.63
+current,88529,Liga 1 2026,406,15881918,10,2026-04-14 18:00,CD Moquegua,492848,ACD Juan Pablo II,511206,3,0,2.2,3.25,3.1,1.83,3.5,3.9
+current,88529,Liga 1 2026,406,15881919,10,2026-04-14 20:15,Asociación Deportiva Tarma,335557,Alianza Lima,2311,0,1,2.8,3.2,2.4,3.2,2.9,2.3
+current,88529,Liga 1 2026,406,15881791,10,2026-04-15 01:00,Sport Boys,2312,Melgar,2308,1,3,2.6,3.4,2.45,2.2,3.4,3.0
+current,88529,Liga 1 2026,406,15881790,10,2026-04-15 20:00,Universidad Técnica de Cajamarca,87854,Sport Huancayo,33895,2,2,2.1,3.3,3.25,1.73,3.5,4.3333
+current,88529,Liga 1 2026,406,15885653,11,2026-04-17 20:00,Los Chankas CYC,252254,Club Atlético Grau,282538,2,0,1.85,3.3,4.2,1.7,3.5,5.0
+current,88529,Liga 1 2026,406,15885655,11,2026-04-18 18:00,FC Cajamarca,1082002,Asociación Deportiva Tarma,335557,2,2,2.35,3.25,2.9,2.6,3.3,2.6
+current,88529,Liga 1 2026,406,15885654,11,2026-04-18 20:15,ACD Juan Pablo II,511206,Comerciantes Unidos,213609,2,2,1.8,3.4,4.2,2.1,3.2,3.5
+current,88529,Liga 1 2026,406,15885657,11,2026-04-18 22:30,Sport Huancayo,33895,Deportivo Garcilaso,458584,2,1,1.7,3.5,5.0,1.85,3.3,4.2
+current,88529,Liga 1 2026,406,15885652,11,2026-04-19 01:00,Alianza Lima,2311,Cusco FC,63760,8,0,1.44,4.1,7.0,1.44,4.2,7.0
+current,88529,Liga 1 2026,406,15885659,11,2026-04-19 16:00,Club Sporting Cristal,2302,Universidad Técnica de Cajamarca,87854,3,2,1.62,3.6,5.0,1.38,4.75,7.5
+current,88529,Liga 1 2026,406,15885660,11,2026-04-19 20:00,Alianza Atlético de Sullana,2307,Sport Boys,2312,0,1,2.0,3.1,3.75,1.91,3.25,4.1
+current,88529,Liga 1 2026,406,15885656,11,2026-04-19 22:15,Melgar,2308,Universitario de Deportes,2305,2,1,2.3,3.1,3.0,2.3,3.1,3.2
+current,88529,Liga 1 2026,406,15885918,11,2026-04-20 00:30,Cienciano,2301,CD Moquegua,492848,2,1,1.33,4.75,8.0,1.42,3.9,8.0
+current,88529,Liga 1 2026,406,15881789,10,2026-04-22 18:00,Comerciantes Unidos,213609,Alianza Atlético de Sullana,2307,1,0,2.35,3.0,3.1,2.25,2.9,3.5
+current,88529,Liga 1 2026,406,15881788,10,2026-04-22 20:15,Club Atlético Grau,282538,Club Sporting Cristal,2302,4,1,2.75,3.2,2.5,3.25,3.1,2.25
+current,88529,Liga 1 2026,406,15881787,10,2026-04-22 23:00,Cusco FC,63760,FC Cajamarca,1082002,1,0,1.33,4.5,9.5,1.5,4.2,6.25
+current,88529,Liga 1 2026,406,15881794,10,2026-04-23 01:30,Universitario de Deportes,2305,Deportivo Garcilaso,458584,4,1,1.38,4.1,9.0,1.29,5.0,11.0
+current,88529,Liga 1 2026,406,15881793,10,2026-04-23 20:00,Los Chankas CYC,252254,Cienciano,2301,1,0,2.3,3.5,2.8,2.2,3.25,2.8
+current,88529,Liga 1 2026,406,15929412,12,2026-04-25 18:00,CD Moquegua,492848,FC Cajamarca,1082002,2,1,2.0,3.4,3.4,1.95,3.4,3.6
+current,88529,Liga 1 2026,406,15929229,12,2026-04-25 20:30,Comerciantes Unidos,213609,Club Sporting Cristal,2302,1,0,2.8,3.2,2.4,1.67,3.75,4.5
+current,88529,Liga 1 2026,406,15929226,12,2026-04-26 00:00,Sport Boys,2312,ACD Juan Pablo II,511206,1,1,1.65,3.5,5.0,1.53,4.0,6.0
+current,88529,Liga 1 2026,406,15929228,12,2026-04-26 16:00,Universidad Técnica de Cajamarca,87854,Cienciano,2301,2,2,2.88,3.4,2.3,1.9,3.6,3.75
+current,88529,Liga 1 2026,406,15929227,12,2026-04-26 18:15,Cusco FC,63760,Sport Huancayo,33895,2,1,1.7,3.4,4.75,1.95,3.3,3.5
+current,88529,Liga 1 2026,406,15929231,12,2026-04-26 20:30,Club Atlético Grau,282538,Alianza Lima,2311,0,1,4.2,3.1,1.9,4.75,3.25,1.75
+current,88529,Liga 1 2026,406,15929230,12,2026-04-26 23:00,Universitario de Deportes,2305,Alianza Atlético de Sullana,2307,1,2,1.27,4.75,12.0,1.4,4.2,9.0
+current,88529,Liga 1 2026,406,15931822,12,2026-04-27 20:00,Asociación Deportiva Tarma,335557,Los Chankas CYC,252254,4,0,2.45,3.2,2.7,2.25,3.3,2.75
+current,88529,Liga 1 2026,406,15929225,12,2026-04-28 00:00,Deportivo Garcilaso,458584,Melgar,2308,1,0,2.6,3.1,2.6,2.63,2.9,2.8
+current,88529,Liga 1 2026,406,15930122,13,2026-05-02 18:00,FC Cajamarca,1082002,Sport Boys,2312,3,2,2.05,3.25,3.5,2.25,3.2,3.1
+current,88529,Liga 1 2026,406,15930120,13,2026-05-02 20:15,Asociación Deportiva Tarma,335557,Club Atlético Grau,282538,1,0,1.62,3.5,5.75,1.75,3.4,4.5
+current,88529,Liga 1 2026,406,15930121,13,2026-05-02 22:30,Cienciano,2301,Comerciantes Unidos,213609,1,0,1.36,4.3333,8.0,1.5,4.1,6.25
+current,88529,Liga 1 2026,406,15930115,13,2026-05-03 01:00,Alianza Lima,2311,CD Moquegua,492848,2,1,1.14,6.5,17.0,1.13,7.5,17.0
+current,88529,Liga 1 2026,406,15930114,13,2026-05-03 16:00,Club Sporting Cristal,2302,Cusco FC,63760,2,2,1.91,3.4,3.7,1.73,3.7,4.3333
+current,88529,Liga 1 2026,406,15930119,13,2026-05-03 18:15,ACD Juan Pablo II,511206,Universitario de Deportes,2305,1,4,5.5,3.7,1.57,5.75,3.9,1.55
+current,88529,Liga 1 2026,406,15930118,13,2026-05-03 20:30,Alianza Atlético de Sullana,2307,Sport Huancayo,33895,4,1,1.9,3.25,4.0,1.8,3.6,4.5
+current,88529,Liga 1 2026,406,15930117,13,2026-05-03 23:00,Melgar,2308,Universidad Técnica de Cajamarca,87854,2,0,1.5,4.0,6.0,1.42,4.3333,7.0
+current,88529,Liga 1 2026,406,15930116,13,2026-05-04 18:00,Los Chankas CYC,252254,Deportivo Garcilaso,458584,0,1,1.91,3.25,3.9,1.8,3.5,4.0
+current,88529,Liga 1 2026,406,16022827,14,2026-05-08 20:00,Universidad Técnica de Cajamarca,87854,FC Cajamarca,1082002,1,2,1.75,3.5,4.2,1.8,3.5,4.0
+current,88529,Liga 1 2026,406,16022828,14,2026-05-09 18:00,CD Moquegua,492848,Asociación Deportiva Tarma,335557,2,2,2.45,3.1,2.8,2.15,3.3,3.1
+current,88529,Liga 1 2026,406,16022830,14,2026-05-09 20:15,Club Atlético Grau,282538,Cienciano,2301,1,2,2.55,3.2,2.63,1.9,3.4,3.8
+current,88529,Liga 1 2026,406,16022826,14,2026-05-10 01:00,Alianza Lima,2311,Club Sporting Cristal,2302,1,1,1.53,3.9,5.75,1.62,3.8,4.5
+current,88529,Liga 1 2026,406,16022824,14,2026-05-10 18:00,Sport Huancayo,33895,ACD Juan Pablo II,511206,2,1,1.5,3.8,6.0,1.4,4.3333,6.5
+current,88529,Liga 1 2026,406,16022822,14,2026-05-10 20:15,Comerciantes Unidos,213609,Melgar,2308,1,1,3.25,3.25,2.15,2.7,3.0,2.6
+current,88529,Liga 1 2026,406,16022829,14,2026-05-10 22:30,Cusco FC,63760,Los Chankas CYC,252254,1,1,1.65,3.6,5.0,1.8,3.5,4.2
+current,88529,Liga 1 2026,406,16022825,14,2026-05-11 18:00,Deportivo Garcilaso,458584,Alianza Atlético de Sullana,2307,2,1,1.53,3.7,6.25,1.85,3.25,4.5
+current,88529,Liga 1 2026,406,16022823,14,2026-05-12 01:30,Sport Boys,2312,Universitario de Deportes,2305,0,0,3.5,3.3,2.05,3.3,3.1,2.2
+current,88529,Liga 1 2026,406,16022831,15,2026-05-15 20:00,FC Cajamarca,1082002,Club Sporting Cristal,2302,3,1,2.7,3.25,2.45,2.5,3.3,2.7
+current,88529,Liga 1 2026,406,16022832,15,2026-05-16 01:00,Universitario de Deportes,2305,Club Atlético Grau,282538,0,1,1.27,5.0,9.5,1.38,4.3333,8.5
+current,88529,Liga 1 2026,406,16022835,15,2026-05-16 18:00,Melgar,2308,Sport Huancayo,33895,4,1,1.55,4.0,5.25,1.62,3.7,5.0
+current,88529,Liga 1 2026,406,16022833,15,2026-05-16 20:15,ACD Juan Pablo II,511206,Alianza Atlético de Sullana,2307,0,2,2.1,3.2,3.4,3.3,3.2,2.15
+current,88529,Liga 1 2026,406,16022834,15,2026-05-16 22:45,Cienciano,2301,Alianza Lima,2311,0,1,2.3,3.3,2.8,2.1,3.1,3.25
+current,88529,Liga 1 2026,406,16022839,15,2026-05-17 01:30,Sport Boys,2312,Cusco FC,63760,1,0,2.25,3.3,3.1,2.15,3.3,3.4
+current,88529,Liga 1 2026,406,16022837,15,2026-05-17 16:00,Asociación Deportiva Tarma,335557,Comerciantes Unidos,213609,2,0,1.62,3.6,5.25,1.85,3.25,4.0
+current,88529,Liga 1 2026,406,16022838,15,2026-05-17 18:15,Deportivo Garcilaso,458584,Universidad Técnica de Cajamarca,87854,2,0,1.44,4.0,7.0,1.95,3.3,3.7
+current,88529,Liga 1 2026,406,16022836,15,2026-05-17 20:30,Los Chankas CYC,252254,CD Moquegua,492848,1,0,1.42,4.2,7.0,1.4,4.3333,7.5
+current,88529,Liga 1 2026,406,16147467,16,2026-05-22 20:00,ACD Juan Pablo II,511206,Melgar,2308,1,1,3.0,3.25,2.2,3.5,3.6,1.95
+current,88529,Liga 1 2026,406,16147469,16,2026-05-23 17:45,CD Moquegua,492848,Universitario de Deportes,2305,0,0,7.0,3.8,1.48,3.1,2.75,2.5
+current,88529,Liga 1 2026,406,16147471,16,2026-05-23 20:00,Universidad Técnica de Cajamarca,87854,Sport Boys,2312,0,0,2.0,3.25,3.6,1.8,3.5,4.3333
+current,88529,Liga 1 2026,406,16147474,16,2026-05-23 22:15,Cusco FC,63760,Club Atlético Grau,282538,1,0,1.5,4.0,5.5,1.55,4.1,5.5
+current,88529,Liga 1 2026,406,16147468,16,2026-05-24 01:30,Alianza Lima,2311,Los Chankas CYC,252254,3,0,1.25,5.25,9.5,1.22,5.75,11.0
+current,88529,Liga 1 2026,406,16147473,16,2026-05-24 16:00,Club Sporting Cristal,2302,Asociación Deportiva Tarma,335557,2,1,1.62,3.8,5.0,1.6,4.0,5.0
+current,88529,Liga 1 2026,406,16147470,16,2026-05-24 18:15,Sport Huancayo,33895,Cienciano,2301,2,2,2.1,3.4,3.1,2.0,3.5,3.5
+current,88529,Liga 1 2026,406,16147490,16,2026-05-24 20:30,Alianza Atlético de Sullana,2307,FC Cajamarca,1082002,1,1,1.62,3.6,5.0,1.45,4.2,6.5
+current,88529,Liga 1 2026,406,16147472,16,2026-05-25 20:30,Comerciantes Unidos,213609,Deportivo Garcilaso,458584,0,0,2.05,3.2,3.6,2.15,3.1,3.6
+current,88529,Liga 1 2026,406,16153069,17,2026-05-29 20:00,Club Atlético Grau,282538,CD Moquegua,492848,1,0,1.62,3.6,5.5,1.5,3.9,6.5
+current,88529,Liga 1 2026,406,16153068,17,2026-05-30 16:00,Asociación Deportiva Tarma,335557,Cusco FC,63760,1,2,2.1,3.25,3.3,2.25,3.2,3.1
+current,88529,Liga 1 2026,406,16153074,17,2026-05-30 20:00,Deportivo Garcilaso,458584,ACD Juan Pablo II,511206,4,1,1.33,4.3333,8.5,1.33,4.75,9.0
+current,88529,Liga 1 2026,406,16153073,17,2026-05-30 22:30,Sport Boys,2312,Comerciantes Unidos,213609,1,0,1.67,3.5,5.0,1.55,3.6,6.25
+current,88529,Liga 1 2026,406,16153075,17,2026-05-31 01:00,Universitario de Deportes,2305,Sport Huancayo,33895,2,1,1.25,5.25,11.0,1.4,4.5,7.5
+current,88529,Liga 1 2026,406,16153078,17,2026-05-31 16:00,Melgar,2308,Alianza Atlético de Sullana,2307,3,1,1.48,3.9,6.5,1.62,3.75,5.25
+current,88529,Liga 1 2026,406,16153415,17,2026-05-31 18:15,FC Cajamarca,1082002,Alianza Lima,2311,1,1,4.5,3.5,1.73,4.2,3.3,1.9
+current,88529,Liga 1 2026,406,16153076,17,2026-05-31 20:15,Los Chankas CYC,252254,Universidad Técnica de Cajamarca,87854,2,2,1.67,3.6,4.75,2.15,3.25,3.3
+current,88529,Liga 1 2026,406,16153077,17,2026-05-31 22:00,Cienciano,2301,Club Sporting Cristal,2302,3,2,1.91,3.4,3.6,1.7,3.8,4.5
+current,88529,Liga 1 2026,406,16281111,1,2026-07-17 18:00,FC Cajamarca,1082002,ACD Juan Pablo II,511206,2,2,1.95,3.4,3.5,2.2,3.5,2.8
+current,88529,Liga 1 2026,406,16281116,1,2026-07-17 20:15,Club Sporting Cristal,2302,Deportivo Garcilaso,458584,1,0,1.36,4.5,7.0,1.4,4.5,6.5
+current,88529,Liga 1 2026,406,16281110,1,2026-07-18 01:00,Cienciano,2301,Melgar,2308,1,3,2.1,3.3,3.2,1.95,3.4,3.6
+current,88529,Liga 1 2026,406,16281112,1,2026-07-18 16:00,CD Moquegua,492848,Comerciantes Unidos,213609,2,2,1.8,3.3,4.3333,2.2,3.25,3.25
+current,88529,Liga 1 2026,406,16281108,1,2026-07-18 18:15,Asociación Deportiva Tarma,335557,Universitario de Deportes,2305,1,2,3.2,3.2,2.2,3.0,3.25,2.3
+current,88529,Liga 1 2026,406,16281114,1,2026-07-18 20:30,Club Atlético Grau,282538,Universidad Técnica de Cajamarca,87854,3,1,1.73,3.4,4.75,1.75,3.4,5.0
+current,88529,Liga 1 2026,406,16281113,1,2026-07-18 23:30,Cusco FC,63760,Alianza Atlético de Sullana,2307,4,1,1.55,3.75,5.75,1.45,4.1,6.5
+current,88529,Liga 1 2026,406,16281115,1,2026-07-19 16:00,Los Chankas CYC,252254,Sport Boys,2312,1,0,1.62,3.5,5.0,2.0,3.4,3.5
+current,88529,Liga 1 2026,406,16281109,1,2026-07-20 00:00,Alianza Lima,2311,Sport Huancayo,33895,2,1,1.3,5.0,9.0,1.44,4.3333,6.5
+current,88529,Liga 1 2026,406,16281126,2,2026-07-24 20:00,Alianza Atlético de Sullana,2307,Los Chankas CYC,252254,3,1,2.05,3.3,3.5,1.6,3.9,5.0
+current,88529,Liga 1 2026,406,16280780,2,2026-07-25 01:30,Universitario de Deportes,2305,Cusco FC,63760,2,1,1.53,3.9,6.0,1.44,4.3333,7.5
+current,88529,Liga 1 2026,406,16280778,2,2026-07-25 15:30,Sport Boys,2312,Asociación Deportiva Tarma,335557,2,0,1.9,3.3,4.0,1.67,3.5,5.25
+current,88529,Liga 1 2026,406,16280781,2,2026-07-25 18:00,Sport Huancayo,33895,Club Atlético Grau,282538,2,0,1.55,3.75,5.75,1.65,3.6,5.0
+current,88529,Liga 1 2026,406,16281117,2,2026-07-25 20:15,ACD Juan Pablo II,511206,Cienciano,2301,2,0,3.0,3.4,2.25,2.4,3.5,2.63
+current,88529,Liga 1 2026,406,16281128,2,2026-07-26 01:00,Melgar,2308,Club Sporting Cristal,2302,2,1,1.8,3.5,4.0,1.73,3.7,4.3333
+current,88529,Liga 1 2026,406,16281121,2,2026-07-26 18:00,Universidad Técnica de Cajamarca,87854,CD Moquegua,492848,0,0,1.83,3.3,4.2,1.62,3.75,5.25
+current,88529,Liga 1 2026,406,16281122,2,2026-07-26 20:30,Comerciantes Unidos,213609,Alianza Lima,2311,2,2,4.3333,3.4,1.8,3.5,2.9,2.2
+current,88529,Liga 1 2026,406,16281120,2,2026-07-27 00:00,Deportivo Garcilaso,458584,FC Cajamarca,1082002,2,1,1.6,3.7,5.25,1.73,3.5,4.75
+current,88529,Liga 1 2026,406,16280787,3,2026-07-31 20:00,Los Chankas CYC,252254,Comerciantes Unidos,213609,3,2,1.55,3.7,5.75,1.8,3.5,4.0
+current,88529,Liga 1 2026,406,16281125,3,2026-08-01 18:00,FC Cajamarca,1082002,Sport Huancayo,33895,0,2,2.3,3.25,3.0,2.9,3.4,2.3
+current,88529,Liga 1 2026,406,16280785,3,2026-08-01 20:30,Club Atlético Grau,282538,Sport Boys,2312,0,1,2.0,3.1,3.8,2.3,3.0,3.4
+current,88529,Liga 1 2026,406,16280783,3,2026-08-01 23:00,Cusco FC,63760,Universidad Técnica de Cajamarca,87854,4,1,1.38,4.3333,8.5,1.48,4.2,6.25
+current,88529,Liga 1 2026,406,16280779,3,2026-08-02 01:30,Alianza Lima,2311,Alianza Atlético de Sullana,2307,3,1,1.29,4.75,10.0,1.38,4.5,8.5
+current,88529,Liga 1 2026,406,16280784,3,2026-08-02 16:00,Club Sporting Cristal,2302,ACD Juan Pablo II,511206,2,0,1.2,6.0,12.0,1.33,4.75,9.0
+current,88529,Liga 1 2026,406,16281118,3,2026-08-02 18:15,Asociación Deportiva Tarma,335557,Deportivo Garcilaso,458584,0,1,2.4,3.2,2.88,2.05,3.3,3.5
+current,88529,Liga 1 2026,406,16281123,3,2026-08-02 20:30,CD Moquegua,492848,Melgar,2308,0,0,3.25,3.2,2.2,4.3333,3.5,1.75
+current,88529,Liga 1 2026,406,16280786,3,2026-08-02 23:30,Cienciano,2301,Universitario de Deportes,2305,2,0,2.5,3.2,2.7,1.91,3.3,3.9
+current,88529,Liga 1 2026,406,16280795,4,2026-08-06 20:00,Alianza Atlético de Sullana,2307,Cienciano,2301,1,0,1.91,3.4,3.75,2.15,3.25,3.2
+current,88529,Liga 1 2026,406,16280798,4,2026-08-07 18:00,Sport Huancayo,33895,Los Chankas CYC,252254,1,1,1.65,3.7,5.0,1.55,4.2,5.5
+current,88529,Liga 1 2026,406,16280789,4,2026-08-07 20:15,Comerciantes Unidos,213609,Cusco FC,63760,3,1,2.9,3.1,2.3,2.6,3.2,2.7
+current,88529,Liga 1 2026,406,16280791,4,2026-08-08 01:30,Universitario de Deportes,2305,Club Sporting Cristal,2302,1,1,1.75,3.6,4.1,1.85,3.5,4.0
+current,88529,Liga 1 2026,406,16280788,4,2026-08-08 18:00,Universidad Técnica de Cajamarca,87854,Asociación Deportiva Tarma,335557,1,1,2.05,3.25,3.4,1.73,3.5,4.5
+current,88529,Liga 1 2026,406,16281127,4,2026-08-08 20:30,ACD Juan Pablo II,511206,Club Atlético Grau,282538,0,0,2.3,3.2,3.0,2.2,3.1,3.1
+current,88529,Liga 1 2026,406,16280793,4,2026-08-09 01:00,Sport Boys,2312,Alianza Lima,2311,1,1,3.9,3.3,1.9,3.7,3.4,1.85
+current,88529,Liga 1 2026,406,16280782,4,2026-08-09 18:00,Deportivo Garcilaso,458584,CD Moquegua,492848,2,0,1.48,4.0,6.25,1.6,3.75,5.25
+current,88529,Liga 1 2026,406,16280790,4,2026-08-09 20:30,Melgar,2308,FC Cajamarca,1082002,2,4,1.4,4.5,7.0,1.25,5.25,12.0
+current,88529,Liga 1 2026,406,16280792,5,2026-08-14 20:00,Club Atlético Grau,282538,Comerciantes Unidos,213609,1,0,1.8,3.3,4.5,2.35,3.1,3.1
+current,88529,Liga 1 2026,406,16280796,5,2026-08-14 23:00,Cusco FC,63760,ACD Juan Pablo II,511206,2,0,1.29,5.0,9.0,2.45,3.1,2.8
+current,88529,Liga 1 2026,406,16281119,5,2026-08-15 18:00,Asociación Deportiva Tarma,335557,Alianza Atlético de Sullana,2307,1,1,2.0,3.3,3.5,1.75,3.6,4.3333
+current,88529,Liga 1 2026,406,16280799,5,2026-08-15 20:30,Los Chankas CYC,252254,Melgar,2308,0,3,2.55,3.3,2.55,3.25,3.6,2.05
+current,88529,Liga 1 2026,406,16280794,5,2026-08-16 00:30,Alianza Lima,2311,Universidad Técnica de Cajamarca,87854,1,0,1.22,5.5,12.0,1.29,5.0,9.5
+current,88529,Liga 1 2026,406,16280806,5,2026-08-16 16:00,Club Sporting Cristal,2302,Sport Huancayo,33895,4,1,1.53,3.9,5.5,1.83,3.5,4.1
+current,88529,Liga 1 2026,406,16281134,5,2026-08-16 18:15,CD Moquegua,492848,Sport Boys,2312,1,1,,,,,,
+current,88529,Liga 1 2026,406,16281124,5,2026-08-16 20:30,FC Cajamarca,1082002,Universitario de Deportes,2305,2,3,4.5,3.5,1.7,3.8,3.4,1.91
+current,88529,Liga 1 2026,406,16280800,5,2026-08-16 23:30,Cienciano,2301,Deportivo Garcilaso,458584,0,0,1.95,3.3,3.6,1.67,3.9,4.3333
+current,88529,Liga 1 2026,406,16281129,6,2026-08-21 17:00,FC Cajamarca,1082002,Club Atlético Grau,282538,1,3,2.15,3.2,3.3,2.15,3.2,3.3
+current,88529,Liga 1 2026,406,16280801,6,2026-08-21 20:00,Alianza Atlético de Sullana,2307,Club Sporting Cristal,2302,3,1,2.35,3.2,2.88,3.0,3.4,2.2
+current,88529,Liga 1 2026,406,16280683,6,2026-08-22 16:00,Sport Huancayo,33895,CD Moquegua,492848,0,2,1.42,4.3333,7.0,1.33,5.0,8.0
+current,88529,Liga 1 2026,406,16280797,6,2026-08-22 18:15,Universidad Técnica de Cajamarca,87854,Comerciantes Unidos,213609,1,3,2.15,3.1,3.4,2.1,3.25,3.4
+current,88529,Liga 1 2026,406,16281133,6,2026-08-22 20:30,ACD Juan Pablo II,511206,Asociación Deportiva Tarma,335557,5,1,1.95,3.4,3.5,1.8,3.5,4.2
+current,88529,Liga 1 2026,406,16280804,6,2026-08-23 00:00,Deportivo Garcilaso,458584,Cusco FC,63760,4,1,2.75,3.2,2.45,2.63,3.1,2.75
+current,88529,Liga 1 2026,406,16280802,6,2026-08-23 18:00,Sport Boys,2312,Cienciano,2301,5,1,2.05,3.3,3.4,1.95,3.4,3.75
+current,88529,Liga 1 2026,406,16280803,6,2026-08-23 20:30,Melgar,2308,Alianza Lima,2311,1,1,2.2,3.25,3.1,2.15,3.1,3.6
+current,88529,Liga 1 2026,406,16280805,6,2026-08-23 23:30,Universitario de Deportes,2305,Los Chankas CYC,252254,3,0,1.2,5.5,13.0,1.22,6.0,11.0
+current,88529,Liga 1 2026,406,16280810,7,2026-08-28 20:30,Comerciantes Unidos,213609,FC Cajamarca,1082002,2,3,1.7,3.5,4.75,1.55,3.9,5.5
+current,88529,Liga 1 2026,406,16280809,7,2026-08-29 18:00,Los Chankas CYC,252254,ACD Juan Pablo II,511206,3,4,1.42,4.1,6.5,1.75,3.6,4.1
+current,88529,Liga 1 2026,406,16280807,7,2026-08-29 20:30,Universidad Técnica de Cajamarca,87854,Universitario de Deportes,2305,2,4,3.1,3.2,2.2,3.3,3.25,2.1
+current,88529,Liga 1 2026,406,16280808,7,2026-08-30 00:30,Alianza Lima,2311,Deportivo Garcilaso,458584,0,1,1.33,4.5,9.0,1.25,5.0,13.0
+current,88529,Liga 1 2026,406,16281132,7,2026-08-30 16:00,CD Moquegua,492848,Alianza Atlético de Sullana,2307,1,4,2.3,3.0,3.2,2.88,2.9,2.55
+current,88529,Liga 1 2026,406,16281130,7,2026-08-30 18:15,Asociación Deportiva Tarma,335557,Sport Huancayo,33895,1,3,2.55,3.25,2.55,2.25,3.3,2.9
+current,88529,Liga 1 2026,406,16280815,7,2026-08-30 20:30,Sport Boys,2312,Club Sporting Cristal,2302,1,0,3.1,3.4,2.15,2.4,3.3,2.7
+current,88529,Liga 1 2026,406,16280811,7,2026-08-31 00:00,Cienciano,2301,Cusco FC,63760,1,2,2.0,3.5,3.3,2.25,3.4,2.8
+current,88529,Liga 1 2026,406,16280812,7,2026-09-01 20:00,Club Atlético Grau,282538,Melgar,2308,1,0,2.63,3.1,2.63,2.5,3.2,2.75
+current,88529,Liga 1 2026,406,16281131,8,2026-09-04 18:00,FC Cajamarca,1082002,Cienciano,2301,2,5,2.8,3.3,2.3,3.5,3.5,1.9
+current,88529,Liga 1 2026,406,16280814,8,2026-09-04 20:15,Alianza Atlético de Sullana,2307,Universidad Técnica de Cajamarca,87854,3,2,1.67,3.6,5.0,1.6,3.9,5.0
+current,88529,Liga 1 2026,406,16280817,8,2026-09-05 20:00,Sport Huancayo,33895,Sport Boys,2312,2,1,1.53,3.8,6.0,1.85,3.5,3.7
+current,88529,Liga 1 2026,406,16280813,8,2026-09-05 23:00,Cusco FC,63760,CD Moquegua,492848,2,0,1.27,5.0,10.0,1.2,5.5,13.0
+current,88529,Liga 1 2026,406,16280819,8,2026-09-06 01:30,Universitario de Deportes,2305,Comerciantes Unidos,213609,2,2,1.25,5.0,11.0,1.38,4.75,8.0
+current,88529,Liga 1 2026,406,16280818,8,2026-09-06 16:00,Club Sporting Cristal,2302,Los Chankas CYC,252254,5,0,1.27,5.25,9.5,1.4,4.75,6.25
+current,88529,Liga 1 2026,406,16280816,8,2026-09-06 18:30,Deportivo Garcilaso,458584,Club Atlético Grau,282538,4,2,1.6,3.6,5.75,1.5,3.8,7.0
+current,88529,Liga 1 2026,406,16281135,8,2026-09-06 20:00,ACD Juan Pablo II,511206,Alianza Lima,2311,1,1,4.75,3.6,1.7,3.7,3.6,1.83
+current,88529,Liga 1 2026,406,16280821,8,2026-09-06 23:30,Melgar,2308,Asociación Deportiva Tarma,335557,3,0,1.36,4.5,7.5,1.3,5.0,8.0
+current,88529,Liga 1 2026,406,16280822,9,2026-09-11 20:00,Universidad Técnica de Cajamarca,87854,ACD Juan Pablo II,511206,1,2,2.0,3.25,3.6,1.91,3.5,3.75
+current,88529,Liga 1 2026,406,16280824,9,2026-09-12 00:00,Cusco FC,63760,Melgar,2308,0,1,2.15,3.4,3.1,2.05,3.5,3.3
+current,88529,Liga 1 2026,406,16280826,9,2026-09-12 15:30,Los Chankas CYC,252254,FC Cajamarca,1082002,1,2,1.8,3.4,4.1,1.85,3.5,3.9
+current,88529,Liga 1 2026,406,16280823,9,2026-09-12 18:00,Comerciantes Unidos,213609,Sport Huancayo,33895,0,1,2.6,3.2,2.6,2.1,3.25,3.5
+current,88529,Liga 1 2026,406,16280820,9,2026-09-13 01:00,Alianza Lima,2311,Universitario de Deportes,2305,1,2,2.1,3.2,3.5,2.3,2.88,3.5
+current,88529,Liga 1 2026,406,16281137,9,2026-09-13 15:00,CD Moquegua,492848,Club Sporting Cristal,2302,1,2,4.0,3.6,1.8,3.7,3.4,1.91
+current,88529,Liga 1 2026,406,16280827,9,2026-09-13 18:00,Sport Boys,2312,Deportivo Garcilaso,458584,1,0,2.0,3.25,3.6,1.67,3.4,5.0
+current,88529,Liga 1 2026,406,16280825,9,2026-09-13 20:15,Club Atlético Grau,282538,Alianza Atlético de Sullana,2307,3,1,2.05,3.1,3.5,2.5,3.0,2.88
+current,88529,Liga 1 2026,406,16280828,10,2026-09-18 20:00,Alianza Atlético de Sullana,2307,Comerciantes Unidos,213609,2,1,1.8,3.4,4.2,1.6,3.7,5.25
+current,88529,Liga 1 2026,406,16280829,10,2026-09-19 01:00,Alianza Lima,2311,Asociación Deportiva Tarma,335557,2,0,1.2,5.75,13.0,1.27,4.75,9.5
+current,88529,Liga 1 2026,406,16281138,10,2026-09-19 18:00,FC Cajamarca,1082002,Cusco FC,63760,1,2,2.75,3.4,2.35,2.9,3.6,2.15
+current,88529,Liga 1 2026,406,16280840,10,2026-09-19 20:30,Club Sporting Cristal,2302,Club Atlético Grau,282538,3,1,1.36,4.3333,8.0,1.3,5.0,9.0
+current,88529,Liga 1 2026,406,16280850,10,2026-09-19 23:00,Deportivo Garcilaso,458584,Universitario de Deportes,2305,4,0,2.5,3.2,2.7,2.45,3.1,2.8
+current,88529,Liga 1 2026,406,16280830,10,2026-09-20 01:15,Melgar,2308,Sport Boys,2312,1,1,1.48,3.9,6.5,1.4,4.2,8.0
+current,88529,Liga 1 2026,406,16280838,10,2026-09-20 18:00,Sport Huancayo,33895,Universidad Técnica de Cajamarca,87854,3,2,1.38,4.3333,7.5,1.29,5.25,10.0
+current,88529,Liga 1 2026,406,16281139,10,2026-09-20 20:30,ACD Juan Pablo II,511206,CD Moquegua,492848,4,0,1.7,3.6,4.75,1.7,3.75,4.5
+current,88529,Liga 1 2026,406,17059625,9,2026-09-23 20:00,Asociación Deportiva Tarma,335557,Cienciano,2301,2,1,2.75,3.3,2.35,3.3,3.7,2.0
+current,88529,Liga 1 2026,406,16978897,10,2026-09-30 20:00,Cienciano,2301,Los Chankas CYC,252254,1,1,1.44,4.2,6.25,1.4,4.5,6.5
+current,88529,Liga 1 2026,406,16281142,11,2026-10-08 18:00,CD Moquegua,492848,Cienciano,2301,0,2,2.75,3.3,2.38,3.5,3.6,1.95
+current,88529,Liga 1 2026,406,16280839,11,2026-10-08 20:30,Club Atlético Grau,282538,Los Chankas CYC,252254,0,0,1.57,3.75,5.5,1.6,3.7,5.0
+current,88529,Liga 1 2026,406,16280836,11,2026-10-10 01:00,Deportivo Garcilaso,458584,Sport Huancayo,33895,0,1,2.05,3.4,3.4,2.2,3.2,3.25
+current,88529,Liga 1 2026,406,16281140,11,2026-10-10 18:00,Asociación Deportiva Tarma,335557,FC Cajamarca,1082002,0,0,1.9,3.5,3.7,1.95,3.3,3.6
+current,88529,Liga 1 2026,406,16280832,11,2026-10-10 20:30,Comerciantes Unidos,213609,ACD Juan Pablo II,511206,1,1,2.1,3.3,3.4,2.1,3.3,3.5
+current,88529,Liga 1 2026,406,16280837,11,2026-10-11 00:00,Universitario de Deportes,2305,Melgar,2308,2,2,1.73,3.5,4.5,1.9,2.88,4.5
+current,88529,Liga 1 2026,406,16280831,11,2026-10-11 18:00,Universidad Técnica de Cajamarca,87854,Club Sporting Cristal,2302,0,1,4.0,3.6,1.8,3.5,3.6,1.95
+current,88529,Liga 1 2026,406,16280834,11,2026-10-11 20:30,Sport Boys,2312,Alianza Atlético de Sullana,2307,1,3,2.05,3.25,3.4,2.05,3.5,3.3
+current,88529,Liga 1 2026,406,16280833,11,2026-10-11 23:30,Cusco FC,63760,Alianza Lima,2311,1,2,2.25,3.2,3.1,2.25,3.2,3.1
+current,88529,Liga 1 2026,406,16280847,12,2026-10-16 18:00,Sport Huancayo,33895,Cusco FC,63760,2,1,2.2,3.4,3.0,1.7,3.9,4.3333
+current,88529,Liga 1 2026,406,16280843,12,2026-10-16 20:30,Los Chankas CYC,252254,Asociación Deportiva Tarma,335557,2,1,2.2,3.4,3.0,2.3,3.1,2.88
+current,88529,Liga 1 2026,406,16281143,12,2026-10-17 20:00,ACD Juan Pablo II,511206,Sport Boys,2312,2,0,2.2,3.25,3.1,2.45,3.2,2.7
+current,88529,Liga 1 2026,406,16280842,12,2026-10-17 23:00,Melgar,2308,Deportivo Garcilaso,458584,4,2,1.62,3.75,5.0,1.38,4.5,7.0
+current,88529,Liga 1 2026,406,16280841,12,2026-10-18 01:30,Alianza Lima,2311,Club Atlético Grau,282538,3,1,1.25,5.25,11.0,1.25,5.5,12.0
+current,88529,Liga 1 2026,406,16280846,12,2026-10-18 16:00,Club Sporting Cristal,2302,Comerciantes Unidos,213609,4,2,1.3,4.75,9.5,1.36,4.5,8.0
+current,88529,Liga 1 2026,406,16281141,12,2026-10-18 18:15,FC Cajamarca,1082002,CD Moquegua,492848,0,1,1.8,3.6,4.1,1.8,3.5,4.3333
+current,88529,Liga 1 2026,406,16280835,12,2026-10-18 20:30,Alianza Atlético de Sullana,2307,Universitario de Deportes,2305,1,4,3.0,3.4,2.15,3.25,3.3,2.05
+current,88529,Liga 1 2026,406,16280845,12,2026-10-18 23:30,Cienciano,2301,Universidad Técnica de Cajamarca,87854,1,0,1.33,4.75,8.0,1.22,5.5,10.0
+current,88529,Liga 1 2026,406,16280844,13,2026-10-23 18:00,Universidad Técnica de Cajamarca,87854,Melgar,2308,1,2,5.25,3.7,1.62,5.5,4.3333,1.48
+current,88529,Liga 1 2026,406,16280853,13,2026-10-23 20:15,Club Atlético Grau,282538,Asociación Deportiva Tarma,335557,1,1,1.62,3.6,5.25,1.95,3.25,3.9
+current,88529,Liga 1 2026,406,16280855,13,2026-10-24 17:45,Sport Huancayo,33895,Alianza Atlético de Sullana,2307,4,1,1.53,3.9,5.5,1.38,4.75,7.5
+current,88529,Liga 1 2026,406,16280851,13,2026-10-24 20:15,Cusco FC,63760,Club Sporting Cristal,2302,3,1,2.3,3.4,2.8,1.9,3.7,3.7
+current,88529,Liga 1 2026,406,16280856,13,2026-10-25 01:30,Universitario de Deportes,2305,ACD Juan Pablo II,511206,3,0,1.36,4.75,7.5,1.3,5.0,8.5
+current,88529,Liga 1 2026,406,16280849,13,2026-10-25 16:00,Comerciantes Unidos,213609,Cienciano,2301,3,1,2.6,3.25,2.6,2.9,3.4,2.3
+current,88529,Liga 1 2026,406,16281144,13,2026-10-25 18:15,CD Moquegua,492848,Alianza Lima,2311,0,1,6.5,3.9,1.5,5.75,3.8,1.55
+current,88529,Liga 1 2026,406,16280854,13,2026-10-25 20:30,Sport Boys,2312,FC Cajamarca,1082002,4,2,1.5,4.1,5.75,1.6,4.0,5.25
+current,88529,Liga 1 2026,406,17113008,13,2026-10-25 23:00,Deportivo Garcilaso,458584,Los Chankas CYC,252254,4,1,1.42,4.5,6.5,1.57,4.0,5.25
+current,88529,Liga 1 2026,406,16281146,14,2026-10-27 20:00,ACD Juan Pablo II,511206,Sport Huancayo,33895,2,0,2.5,3.3,2.625,3.2,3.4,2.0
+current,88529,Liga 1 2026,406,16281147,14,2026-10-28 16:00,Asociación Deportiva Tarma,335557,CD Moquegua,492848,2,0,1.5714,3.75,5.5,1.57,3.8,5.25
+current,88529,Liga 1 2026,406,16281145,14,2026-10-28 18:15,FC Cajamarca,1082002,Universidad Técnica de Cajamarca,87854,1,3,1.65,3.7,5.0,2.15,3.4,2.9
+current,88529,Liga 1 2026,406,16280859,14,2026-10-28 20:30,Alianza Atlético de Sullana,2307,Deportivo Garcilaso,458584,3,2,1.65,3.6,5.0,1.6,3.8,5.0
+current,88529,Liga 1 2026,406,16280860,14,2026-10-29 00:00,Cienciano,2301,Club Atlético Grau,282538,3,0,1.42,4.3333,7.0,1.27,5.25,10.0
+current,88529,Liga 1 2026,406,16280857,14,2026-10-29 18:00,Los Chankas CYC,252254,Cusco FC,63760,0,1,2.9,3.4,2.25,2.9,3.6,2.2
+current,88529,Liga 1 2026,406,16280858,14,2026-10-29 20:30,Club Sporting Cristal,2302,Alianza Lima,2311,3,2,2.35,3.25,2.88,2.5,3.1,2.8
+current,88529,Liga 1 2026,406,16280863,14,2026-10-30 00:30,Melgar,2308,Comerciantes Unidos,213609,1,1,1.29,5.0,11.0,1.33,4.75,10.0
+current,88529,Liga 1 2026,406,16280862,15,2026-10-31 20:30,Alianza Atlético de Sullana,2307,ACD Juan Pablo II,511206,1,0,1.62,3.8,5.0,1.8,3.5,4.3333
+current,88529,Liga 1 2026,406,16281148,15,2026-11-01 16:00,CD Moquegua,492848,Los Chankas CYC,252254,0,0,2.1,3.4,3.1,1.95,3.3,3.6
+current,88529,Liga 1 2026,406,16280870,15,2026-11-01 18:15,Cusco FC,63760,Sport Boys,2312,0,1,1.48,4.0,6.0,1.48,3.9,6.0
+current,88529,Liga 1 2026,406,16280868,15,2026-11-01 20:30,Club Atlético Grau,282538,Universitario de Deportes,2305,1,3,4.1,3.25,1.85,8.0,4.75,1.36
+current,88529,Liga 1 2026,406,16280865,15,2026-11-02 16:00,Sport Huancayo,33895,Melgar,2308,2,0,2.2,3.4,3.0,2.05,3.5,3.3
+current,88529,Liga 1 2026,406,16280867,15,2026-11-02 18:15,Universidad Técnica de Cajamarca,87854,Deportivo Garcilaso,458584,2,3,2.63,3.3,2.45,3.1,3.5,2.2
+current,88529,Liga 1 2026,406,16280869,15,2026-11-02 20:30,Club Sporting Cristal,2302,FC Cajamarca,1082002,5,0,1.22,5.75,12.0,1.22,5.75,11.0
+current,88529,Liga 1 2026,406,17374076,15,2026-11-03 20:00,Comerciantes Unidos,213609,Asociación Deportiva Tarma,335557,2,2,1.75,3.5,4.3333,1.8,3.4,4.5
+current,88529,Liga 1 2026,406,17374077,15,2026-11-04 01:00,Alianza Lima,2311,Cienciano,2301,1,0,1.48,4.1,6.25,1.42,5.0,6.0
+current,88529,Liga 1 2026,406,17373452,14,2026-11-05 01:30,Universitario de Deportes,2305,Sport Boys,2312,2,2,1.4,4.3333,7.5,1.36,4.3333,8.5
+current,88529,Liga 1 2026,406,16280871,16,2026-11-06 20:00,Club Atlético Grau,282538,Cusco FC,63760,3,0,2.3,3.25,3.0,2.4,3.5,2.63
+current,88529,Liga 1 2026,406,16281150,16,2026-11-07 18:00,Asociación Deportiva Tarma,335557,Club Sporting Cristal,2302,1,1,2.3,3.3,2.8,2.7,3.4,2.45
+current,88529,Liga 1 2026,406,16281151,16,2026-11-07 20:30,FC Cajamarca,1082002,Alianza Atlético de Sullana,2307,2,0,2.25,3.3,2.88,2.38,3.4,2.8
+current,88529,Liga 1 2026,406,16280872,16,2026-11-07 23:00,Melgar,2308,ACD Juan Pablo II,511206,2,1,1.3,5.0,8.5,1.25,5.75,10.0
+current,88529,Liga 1 2026,406,16280873,16,2026-11-08 01:30,Cienciano,2301,Sport Huancayo,33895,1,2,2.55,3.3,2.55,1.91,3.6,3.7
+current,88529,Liga 1 2026,406,16280874,16,2026-11-08 18:00,Los Chankas CYC,252254,Alianza Lima,2311,1,1,3.9,3.5,1.9,3.9,3.5,1.9
+current,88529,Liga 1 2026,406,16280875,16,2026-11-08 20:30,Sport Boys,2312,Universidad Técnica de Cajamarca,87854,0,0,1.4,4.1,7.5,1.73,3.6,4.5
+current,88529,Liga 1 2026,406,16281149,16,2026-11-08 23:00,Deportivo Garcilaso,458584,Comerciantes Unidos,213609,0,0,1.62,4.0,4.5,1.5,4.0,6.0
+current,88529,Liga 1 2026,406,16280876,16,2026-11-09 01:30,Universitario de Deportes,2305,CD Moquegua,492848,2,2,1.17,6.5,15.0,1.22,5.75,11.0
