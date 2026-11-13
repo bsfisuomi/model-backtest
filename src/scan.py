@@ -139,8 +139,8 @@ def main():
     skipped = {}
 
     for e in sorted(evs, key=lambda e: e["date"]):
-        if e["date"][:16].replace("T", " ") <= now_txt:   # started meanwhile -> never bet
-            continue
+        if e["date"][:16].replace("T", " ") <= dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M"):
+            continue   # started (also while this scan waited on the API) -> never bet
         slug = e["league"]
         if slug not in models:
             models[slug] = LeagueModel(slug)
@@ -229,6 +229,8 @@ def main():
                     e_v = ev(mat, mk, line, side, float(odd))
                     if e_v < min_ev:
                         continue
+                    if ko <= dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M"):
+                        continue   # kicked off while scanning -> never bet
                     lo = dict(sides(mk, la)).get(side) if la.get("hdp") is not None else ""
                     b = {**base, "bet_id": bid, "model": model_name, "logged_utc": now_txt, "market": mk, "line": line,
                          "side": side, "odds": odd, "opened_utc": ts(op["timestamp"]),
