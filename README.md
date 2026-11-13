@@ -38,7 +38,7 @@ Steg 2, två modeller:
 | `goal_line_tg` | Din Total Goals-formel med lagens goal line-snitt i stället för faktiska mål: E = (3,2811 + 0,008833·\|P hemma − P borta\|) · ((snitt hemma + snitt borta)/2) / 3,6247, uppdelat på lagen som i Excel |
 | `goal_line_avg` | (snitt hemma + snitt borta) / 2. Ett lag på 50/50 vid 2,5 och ett vid 3,0 ger 50/50 vid **2,75** |
 
-Båda prissätter den goal line som öppnade 50/50 hos bet365, med Poisson. `model_line` i spelloggen är modellens 50/50-lina. Ursprungsmodellen (`excel`, faktiska mål) prissätter fortfarande AH och totaler. Varje modells spel loggas separat.
+Båda prissätter den goal line som öppnade 50/50 hos bet365, med Poisson. **Pappersbokföringen använder bara de här två modellerna** (`betting.active_models` i configen). Excel-modellen är avstängd där. `model_line` i spelloggen är modellens 50/50-lina. Ursprungsmodellen (`excel`, faktiska mål) prissätter fortfarande AH och totaler. Varje modells spel loggas separat.
 
 ## Körning
 

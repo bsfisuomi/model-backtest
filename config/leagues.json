@@ -1582,6 +1582,10 @@
   "total_balanced_range": [
    1.7,
    2.2
+  ],
+  "active_models": [
+   "goal_line_tg",
+   "goal_line_avg"
   ]
  },
  "discovered": {

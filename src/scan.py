@@ -149,10 +149,13 @@ def main():
         base = {"league": slug, "event_id": e["id"], "kickoff_utc": ko, "home": e["home"], "away": e["away"]}
         # skip the API calls for markets no model can price for this match
         today = now.strftime("%Y-%m-%d")
-        can_ah = "lam_home" in lm.predict(e["home"], e["away"], today)
+        active = set(CFG["betting"].get("active_models", ["excel", "goal_line_tg", "goal_line_avg"]))
+        can_ah = "excel" in active and "lam_home" in lm.predict(e["home"], e["away"], today)
         if slug not in glm:
             glm[slug] = GoalLineModel(slug)
-        can_tot = can_ah or "mu" in glm[slug].predict(e["home"], e["away"], today)
+        can_tot = ("lam_home" in lm.predict(e["home"], e["away"], today, tg_source="goal_line") and "goal_line_tg" in active) \
+            or ("mu" in glm[slug].predict(e["home"], e["away"], today) and "goal_line_avg" in active) \
+            or ("excel" in active and "lam_home" in lm.predict(e["home"], e["away"], today))
         for mname, mk in (("Spread", "ah"), ("Totals", "total")):
             if (mk == "ah" and not can_ah) or (mk == "total" and not can_tot):
                 continue
@@ -200,6 +203,7 @@ def main():
                     priced.append(("goal_line_avg", total_matrix(gp["mu"]), gp))
                 else:
                     skipped[f"goal_line_avg: {gp['reason']}"] = skipped.get(f"goal_line_avg: {gp['reason']}", 0) + 1
+            priced = [x for x in priced if x[0] in active]
             for model_name, mat, pr in priced:
                 for kind, entry in (("opening", op), ("latest", la)):
                     if not entry or entry.get("hdp") is None:
