@@ -3,7 +3,9 @@
   python3 src/scan.py [--days 35] [league-slug ...]
 
 For every match bet365 lists right now that has not started (kickoff within --days) the bet365 opening main line of the Asian handicap
-("Spread"; only 50/50 lines, both prices within betting.ah_balanced_range) and of the total ("Totals") is read from Odds-API.io /odds/movements. The model is evaluated
+("Spread"; only 50/50 lines, both prices within betting.ah_balanced_range) and the goal line ("Totals") that
+opened closest to 50/50 (both prices within betting.total_balanced_range) are read from Odds-API.io
+/odds/movements. The model is evaluated
 with the data available on the day the line opened. Each side with EV >= betting.min_ev is logged once in
 data/bets.csv at the opening price. Matches that have already started are never logged.
 
@@ -92,6 +94,29 @@ def matches(leagues, days):
     return now, evs
 
 
+def opening_5050_total(event_id):
+    """The goal line that OPENED closest to 50/50, with its opening and latest prices.
+    Candidates: today's most balanced bet365 line and its +-0.25 neighbours (line history per line)."""
+    cur = o.get("/odds", eventId=event_id, bookmakers=BOOK) or {}
+    ladder = next((m["odds"] for m in (cur.get("bookmakers") or {}).get(BOOK, []) if m["name"] == "Totals"), [])
+    ladder = [t for t in ladder if t.get("over") and t.get("under")]
+    if not ladder:
+        return None, None
+    main = float(min(ladder, key=lambda t: abs(float(t["over"]) - float(t["under"])))["hdp"])
+    best = None
+    for ln in (main - 0.25, main, main + 0.25):
+        if ln <= 0:
+            continue
+        d = o.get("/odds/movements", eventId=event_id, bookmaker=BOOK, market="Totals", marketLine=f"{ln:g}")
+        op = d.get("opening") if isinstance(d, dict) else None
+        if not op or not op.get("home") or not op.get("away"):
+            continue
+        gap = abs(float(op["home"]) - float(op["away"]))
+        if best is None or gap < best[0]:
+            best = (gap, op, d.get("latest") or {})
+    return (best[1], best[2]) if best else (None, None)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--days", type=float, default=35)
@@ -122,12 +147,29 @@ def main():
         lm = models[slug]
         ko = e["date"][:16].replace("T", " ")
         base = {"league": slug, "event_id": e["id"], "kickoff_utc": ko, "home": e["home"], "away": e["away"]}
+        # skip the API calls for markets no model can price for this match
+        today = now.strftime("%Y-%m-%d")
+        can_ah = "lam_home" in lm.predict(e["home"], e["away"], today)
+        if slug not in glm:
+            glm[slug] = GoalLineModel(slug)
+        can_tot = can_ah or "mu" in glm[slug].predict(e["home"], e["away"], today)
         for mname, mk in (("Spread", "ah"), ("Totals", "total")):
-            d = o.get("/odds/movements", eventId=e["id"], bookmaker=BOOK, market=mname)
+            if (mk == "ah" and not can_ah) or (mk == "total" and not can_tot):
+                continue
+            if mk == "total":
+                op, la = opening_5050_total(e["id"])
+                d = {"opening": op, "latest": la} if op else None
+            else:
+                d = o.get("/odds/movements", eventId=e["id"], bookmaker=BOOK, market=mname)
             op = d.get("opening") if isinstance(d, dict) else None
             if not op or op.get("hdp") is None:
                 stats["no opening line"] += 1
                 continue
+            if mk == "total":  # only 50/50 total lines: both opening prices inside the balanced range
+                lo_b, hi_b = CFG["betting"].get("total_balanced_range", [1.70, 2.20])
+                if not all(x and lo_b <= float(x) <= hi_b for _, x in sides(mk, op)):
+                    stats["total not 50/50"] = stats.get("total not 50/50", 0) + 1
+                    continue
             la = d.get("latest") or {}
             day = ts(op["timestamp"])[:10]
             line = float(op["hdp"]) + 0.0

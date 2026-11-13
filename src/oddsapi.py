@@ -30,8 +30,11 @@ def get(path, retries=4, **params):
                            capture_output=True, text=True)
         body, _, code = r.stdout.rpartition("\n")
         if code == "429":
-            print(f"  rate limited: {body[:160]}", flush=True)
-            time.sleep(20 * (i + 1))
+            import re
+            m = re.search(r"resets in (\d+) minutes? and (\d+) seconds?", body)
+            wait = int(m.group(1)) * 60 + int(m.group(2)) + 5 if m else 30
+            print(f"  rate limited, waiting {wait}s", flush=True)
+            time.sleep(min(wait, 3700))
             continue
         if code == "404":
             return None

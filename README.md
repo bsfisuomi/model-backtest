@@ -2,7 +2,7 @@
 
 Pappersspel i verkligheten för 1X2-/styrkemodellen och Total Goals-modellen. Det gäller alla ligor där bet365 har odds: europeiska ligor plus de ligor som bet365 hade ute vid skanningen 2026-11-12, inklusive Excel-ligorna. Cuper, playoff och landslag ingår inte.
 
-Modellen räknar ut förväntade mål och sätter egna odds på bet365:s **öppningslinor**, det vill säga den första huvudlinan i asiatiskt handikapp (Spread, **bara 50/50-linor** där båda sidor öppnar mellan 1,70 och 2,20) och i totaler. Båda sidor av varje lina jämförs. Spel med **EV ≥ 10 %** bokförs till öppningspriset, och modellen räknar då bara med data som fanns dagen linan öppnade. Allt körs **manuellt**, inget schema.
+Modellen räknar ut förväntade mål och sätter egna odds på bet365:s **öppningslinor**, det vill säga den första huvudlinan i asiatiskt handikapp (Spread) och den goal line som **öppnade närmast 50/50** på totaler. **Bara 50/50-linor** bokförs, alltså där båda sidor öppnade mellan 1,70 och 2,20. Båda sidor av varje lina jämförs. Spel med **EV ≥ 10 %** bokförs till öppningspriset, och modellen räknar då bara med data som fanns dagen linan öppnade. Allt körs **manuellt**, inget schema.
 
 Data och odds: **Odds-API.io** med bet365. Därifrån kommer historiska stängningsodds på 1X2 och resultat för lagstyrkorna, och aktuella AH- och totalodds för skanningen.
 
@@ -29,7 +29,7 @@ Steg 1, lika för båda: **lagens snittmål från stängda goal lines.**
 | Del | Regel |
 | --- | --- |
 | Stängning → μ | Varje stängd huvudlina (den jämnaste) räknas om till förväntade mål μ, det Poisson-medel där linans marginalfria över-sannolikhet (push borträknad) stämmer exakt. Exempel: 2,5 på 1,75/2,05 ger μ = 2,84. |
-| Lagets snitt | Snitt-μ i lagets **senaste upp till 20** matcher med stängningslina, i alla insamlade ligor. Förra säsongen och förra serien fyller på. **Minst 10** krävs, eftersom stängningslinan redan ger en stabil riktning till skillnad från faktiska mål. |
+| Lagets snitt | Snitt-μ i lagets **10 senaste** matcher med stängningslina, i alla insamlade ligor. Förra säsongen och förra serien fyller på. Stängningslinan ger redan en stabil riktning, till skillnad från faktiska mål. |
 
 Steg 2, två modeller:
 
@@ -38,7 +38,7 @@ Steg 2, två modeller:
 | `goal_line_tg` | Din Total Goals-formel med lagens goal line-snitt i stället för faktiska mål: E = (3,2811 + 0,008833·\|P hemma − P borta\|) · ((snitt hemma + snitt borta)/2) / 3,6247, uppdelat på lagen som i Excel |
 | `goal_line_avg` | (snitt hemma + snitt borta) / 2. Ett lag på 50/50 vid 2,5 och ett vid 3,0 ger 50/50 vid **2,75** |
 
-Båda prissätter bet365:s öppningslina på totaler med Poisson. `model_line` i spelloggen är modellens 50/50-lina. Ursprungsmodellen (`excel`, faktiska mål) prissätter fortfarande AH och totaler. Varje modells spel loggas separat.
+Båda prissätter den goal line som öppnade 50/50 hos bet365, med Poisson. `model_line` i spelloggen är modellens 50/50-lina. Ursprungsmodellen (`excel`, faktiska mål) prissätter fortfarande AH och totaler. Varje modells spel loggas separat.
 
 ## Körning
 

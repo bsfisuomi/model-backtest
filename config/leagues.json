@@ -1559,7 +1559,7 @@
   "team_b": 1.1921,
   "team_norm": 2.75,
   "goal_line_min_matches": 10,
-  "goal_line_max_matches": 20
+  "goal_line_max_matches": 10
  },
  "betting": {
   "min_ev": 0.1,
@@ -1576,6 +1576,10 @@
    0.25
   ],
   "ah_balanced_range": [
+   1.7,
+   2.2
+  ],
+  "total_balanced_range": [
    1.7,
    2.2
   ]
