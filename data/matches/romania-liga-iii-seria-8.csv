@@ -255,3 +255,6 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 74089748,2026-11-07 12:00,FCM Baia Mare,Csm Sighetu Marmatiei,4,0,1.420,4.750,5.000,3.25,1.825,1.975
 74089750,2026-11-07 12:00,AFC Unirea Tasnad,CS Crisul Santandrei,1,1,,,,,,
 74089752,2026-11-07 12:00,ACS Academica Transilvania Tg-Mures,Sanatatea Cluj,0,1,,,,,,
+74089754,2026-11-13 12:00,CS Academica Recea,FCM Baia Mare,0,5,4.000,4.000,1.615,3.5,1.900,1.900
+74089756,2026-11-13 12:00,Sanatatea Cluj,AFC Unirea Tasnad,5,0,1.300,5.000,7.000,2.75,1.825,1.975
+74089758,2026-11-13 12:00,CS Lotus Baile Felix,ACS Academica Transilvania Tg-Mures,5,1,1.420,4.200,5.500,3.25,2.000,1.800
