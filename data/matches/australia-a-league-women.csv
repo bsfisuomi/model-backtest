@@ -133,3 +133,6 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 73928284,2026-11-07 04:00,Central Coast Mariners,Newcastle Jets,1,1,1.750,3.900,3.700,3,2.000,1.800
 73928168,2026-11-07 06:00,Brisbane Roar FC,Melbourne Victory,2,0,5.250,4.100,1.533,2.75,1.850,1.950
 73928170,2026-11-07 08:00,Perth Glory FC,Canberra United FC,0,1,2.450,3.250,2.625,2.5,1.900,1.900
+73928174,2026-11-14 04:00,Melbourne City FC,Newcastle Jets,1,1,1.222,5.500,8.500,3.25,1.825,1.975
+73928176,2026-11-14 04:00,Melbourne Victory,Adelaide United FC,1,1,1.550,3.700,4.750,2.5,1.825,1.975
+73928178,2026-11-14 06:00,Central Coast Mariners,Perth Glory FC,0,1,1.900,3.400,3.500,2.5,1.800,2.000
