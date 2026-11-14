@@ -193,3 +193,6 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 72304564,2026-11-08 12:00,FK Lovcen,FK Iskra Danilovgrad,1,0,,,,,,
 72304566,2026-11-08 12:00,FK Jedinstvo Bijelo Polje,FK Zeta Golubovci,1,0,,,,,,
 72304568,2026-11-08 12:00,FK Podgorica,FK Budva,3,0,1.500,3.900,5.250,2.75,1.900,1.900
+72304574,2026-11-14 12:00,FK Zeta Golubovci,FK Lovcen,1,0,2.150,3.100,3.100,2.25,1.850,1.950
+72304576,2026-11-14 12:00,FK Budva,FK Jedinstvo Bijelo Polje,1,1,,,,,,
+72304578,2026-11-14 12:00,FK Podgorica,FK Berane,4,2,1.250,5.000,8.500,3,1.975,1.825
