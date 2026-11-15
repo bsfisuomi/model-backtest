@@ -54,3 +54,6 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 72406786,2026-11-08 16:10,Rangers LFC,Heart of Midlothian WFC,1,0,1.833,3.600,3.400,2.75,1.875,1.925
 76201062,2026-11-11 19:45,Heart of Midlothian WFC,Montrose FC,2,1,1.025,19.000,41.000,4.75,1.850,1.950
 72406790,2026-11-14 14:10,Heart of Midlothian WFC,Hibernian LFC,1,2,1.909,3.500,3.300,3,1.975,1.825
+72406794,2026-11-15 12:00,Celtic LFC,Rangers LFC,2,1,4.100,3.900,1.615,3,1.975,1.825
+72406792,2026-11-15 13:00,Aberdeen LFC,Motherwell LFC,1,0,6.000,4.333,1.400,3,1.900,1.900
+72406798,2026-11-15 13:00,Glasgow City LFC,Montrose FC,6,0,1.030,15.000,41.000,4.25,1.900,1.900

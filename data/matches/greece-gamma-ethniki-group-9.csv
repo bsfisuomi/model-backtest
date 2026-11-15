@@ -47,3 +47,7 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 74041066,2026-11-08 13:00,Asteras Magoulas,A.P.O. Thyella Rafina FC,0,0,,,,,,
 75077926,2026-11-08 13:00,Kyanous Asteras Varis,AE Mykonou,1,0,,,,,,
 75077924,2026-11-14 13:00,AE Mykonou,Neas Ionias,1,2,,,,,,
+74041070,2026-11-15 13:00,Pannaxiakos,Kyanous Asteras Varis,0,0,,,,,,
+74041074,2026-11-15 13:00,AO Neos Acharnaikos,Asteras Magoulas,0,2,,,,,,
+74041076,2026-11-15 13:00,A.P.O. Thyella Rafina FC,Ilisiakos FC,0,0,2.500,3.000,2.625,2,1.825,1.975
+74041078,2026-11-15 13:00,Saronikos Anavisou,GS Ilioupoli,0,1,2.700,3.000,2.400,2.25,2.050,1.750
