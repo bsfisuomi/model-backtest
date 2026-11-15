@@ -64,3 +64,8 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 72204328,2026-11-07 15:00,Elgin City FC,Dumbarton FC,0,2,1.650,3.750,4.200,3,1.950,1.850
 72204330,2026-11-07 15:00,Forfar Athletic FC,Edinburgh City FC,1,1,2.800,3.100,2.250,2.5,2.025,1.775
 72204332,2026-11-07 15:00,Stranraer FC,Stirling Albion FC,3,0,1.700,3.700,3.800,3,1.950,1.850
+72204334,2026-11-14 15:00,Dumbarton FC,Annan Athletic FC,0,5,1.650,3.900,4.200,3,1.975,1.825
+72204336,2026-11-14 15:00,Edinburgh City FC,Clyde FC,2,6,3.100,3.700,1.950,2.75,1.850,1.950
+72204338,2026-11-14 15:00,Forfar Athletic FC,Spartans FC,2,1,3.400,3.500,1.900,2.75,1.925,1.875
+72204340,2026-11-14 15:00,Kelty Hearts FC,Stranraer FC,0,1,2.750,3.400,2.150,2.75,1.825,1.975
+72204342,2026-11-14 15:00,Stirling Albion FC,Elgin City FC,2,1,3.000,3.600,2.000,3,1.975,1.825
