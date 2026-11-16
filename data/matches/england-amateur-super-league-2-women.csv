@@ -42,3 +42,8 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 73346546,2026-11-08 14:00,Ipswich Town Lfc,Bristol City WFC,1,2,2.350,3.600,2.400,3,1.950,1.850
 73346548,2026-11-08 15:00,Leicester City WFC,Watford LFC,0,1,1.550,4.200,4.100,3.25,1.850,1.950
 73346550,2026-11-14 18:00,Sheffield United LFC,Bristol City WFC,1,3,4.000,4.100,1.600,3.25,1.900,1.900
+73346552,2026-11-15 14:00,Wolverhampton Wanderers WFC,Durham LFC,4,2,1.615,4.200,3.800,3.5,1.925,1.875
+73346554,2026-11-15 14:00,Watford LFC,Ipswich Town Lfc,1,2,3.600,4.000,1.700,3,1.850,1.950
+73346556,2026-11-15 14:00,Sunderland AFC,Newcastle United WFC,0,0,3.100,3.500,1.950,2.5,1.825,1.975
+73346558,2026-11-15 14:00,Nottingham Forest Lfc,Leicester City WFC,1,1,1.727,3.800,3.700,3,1.975,1.825
+73346560,2026-11-15 14:00,Burnley FC Women,Southampton FC,0,5,4.200,4.100,1.600,3.25,2.000,1.800
