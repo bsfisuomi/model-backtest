@@ -737,3 +737,6 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 72340024,2026-11-07 15:00,Queens Park Rangers,Lincoln City,2,1,1.600,3.900,5.250,2.75,2.025,1.825
 72340026,2026-11-07 15:00,Watford FC,Middlesbrough FC,0,0,6.250,4.333,1.480,3,2.025,1.825
 72340028,2026-11-07 15:00,West Bromwich Albion,Millwall FC,3,0,1.909,3.400,3.900,2.5,1.900,1.950
+72340040,2026-11-21 12:30,Millwall FC,Queens Park Rangers,0,1,2.500,3.400,2.700,2.75,1.975,1.875
+72340042,2026-11-21 12:30,Norwich City,Cardiff City,2,1,1.600,4.500,4.500,3.75,1.900,1.950
+72340046,2026-11-21 12:30,Southampton FC,Derby County,2,0,1.550,4.333,5.500,2.75,1.800,2.050
