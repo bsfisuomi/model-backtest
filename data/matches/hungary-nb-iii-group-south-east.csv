@@ -131,3 +131,7 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 72880064,2026-11-21 12:00,Szolnoki MAV FC,Bekescsaba 1912 Elore,1,0,,,,,,
 72880068,2026-11-21 12:00,Gyulai FC,BKV Elore,4,0,1.050,15.000,23.000,5,1.950,1.850
 72880070,2026-11-21 12:00,III Keruleti Tve,Hodmezovasarhelyi FC,2,1,1.500,4.100,5.000,2.75,1.825,1.975
+72880062,2026-11-22 10:00,Budapest Honved MFA,Vasas SC II,3,0,2.050,3.750,2.800,3.25,1.950,1.850
+72880066,2026-11-22 10:00,Ujpest FC II,Sandorfalvi Ske,1,2,1.285,5.250,7.500,3.5,1.925,1.875
+72880072,2026-11-22 12:00,Esmtk Budapest,Csepel SC,2,1,1.333,4.750,6.000,3.5,1.975,1.825
+72880074,2026-11-22 12:00,Dabas FC,Monori SE,0,1,2.300,3.750,2.400,3.25,1.950,1.850

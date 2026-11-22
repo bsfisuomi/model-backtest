@@ -178,3 +178,5 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 73095054,2026-11-15 14:00,Inter Milano,Juventus Turin,2,3,2.000,3.500,3.000,2.75,1.850,1.950
 73095070,2026-11-21 11:30,Parma Calcio,SSD Napoli,2,0,2.300,3.500,2.550,2.75,1.775,2.025
 73095068,2026-11-21 14:00,AC Milan,Sassuolo Calcio,3,2,1.333,4.750,6.500,3.25,1.950,1.850
+73095062,2026-11-22 11:30,SSD FC Como,AS Roma,0,2,5.750,5.000,1.400,3.25,2.000,1.800
+73095072,2026-11-22 11:30,SSD Nuova Ternana 1925,Inter Milano,0,4,6.500,5.000,1.333,3,1.925,1.875

@@ -1040,7 +1040,7 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 28609415230,2026-11-20 18:00,SKS Oskar Przysucha,Polonia II Warszawa,0,5,3.100,4.000,1.833,3.25,1.800,2.000
 29264566231,2026-11-20 18:00,MKS Mieszko Gniezno,Huragan Pobiedziska,4,0,,,,,,
 29676870595,2026-11-21 10:00,KS Wierzyca Pelplin,SKS Stoczniowiec Gdańsk,1,2,,,,,,
-30182573004,2026-11-21 10:00,Jaguar Gdańsk,KS Sparta Sycewice,5,0,,,,,,
+30182573004,2026-11-21 10:00,Jaguar Gdańsk,KS Sparta Sycewice,6,0,,,,,,
 31485266463,2026-11-21 10:00,KS Rozwój Katowice,GKS Szombierki Bytom,1,2,4.500,4.750,1.480,3.25,1.825,1.975
 31705733489,2026-11-21 10:00,LZS Mustang Ostaszewo,GKS Łokietek Brześć Kujawski,4,1,,,,,,
 31918392993,2026-11-21 10:00,Podbeskidzie II Bielsko-Biała,TS Gwarek Tarnowskie Góry,5,1,,,,,,
@@ -1087,3 +1087,8 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 30640720557,2026-11-21 13:00,LKS Błyskawica Gać,Prochowiczanka Prochowice,3,3,,,,,,
 31258883168,2026-11-21 13:00,Polonia Chodzież,Avia Kamionki,0,1,,,,,,
 29206117375,2026-11-21 17:00,MLKS Victoria Sulejówek,Makowianka Maków Mazowiecki,0,3,2.600,4.000,2.100,3.25,1.825,1.975
+28131395704,2026-11-22 12:00,Cartusia Kartuzy,Anioły Garczegorze,0,0,,,,,,
+28211129147,2026-11-22 12:00,Czarni Czarna Białostocka,MKS Supraślanka Supraśl,4,0,,,,,,
+28407542744,2026-11-22 12:00,MKS Kotwica Kołobrzeg,Biali Sądów,0,0,1.850,4.000,3.000,3.5,2.000,1.800
+31413272340,2026-11-22 12:00,MKS Polonia Słubice,TS Celuloza Kostrzyn Nad Odrą,4,0,,,,,,
+28691243881,2026-11-22 13:00,MKS Dąb Dębno,KS Iskierka Szczecin,3,1,,,,,,
