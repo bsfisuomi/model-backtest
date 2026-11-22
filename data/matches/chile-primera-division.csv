@@ -373,3 +373,6 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 67682104,2026-11-08 23:00,Universidad de Concepcion,CD O´Higgins,3,2,2.800,3.300,2.400,2.5,1.850,1.950
 67682108,2026-11-20 21:00,Cobresal,Audax Italiano,3,2,2.200,3.600,2.900,2.5,1.800,2.000
 67682114,2026-11-20 23:30,CD Palestino,Deportes Union La Calera,0,1,1.850,3.600,3.900,2.5,1.875,1.925
+67682110,2026-11-21 15:00,Coquimbo Unido,CD Everton Vina del Mar,2,1,,,,,,
+67682116,2026-11-21 21:00,CD O´Higgins,Universidad de Chile,0,1,3.900,3.700,1.800,2.75,1.975,1.825
+67682120,2026-11-21 23:30,Universidad de Concepcion,Nublense,2,3,2.150,3.100,3.400,2.25,1.875,1.925

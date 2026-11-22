@@ -511,3 +511,6 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 72478686,2026-11-08 20:00,Atletico Madrid,FC Barcelona,1,2,3.600,4.500,1.800,3.5,1.875,1.975
 72478708,2026-11-20 20:00,Athletic Bilbao,Espanyol Barcelona,0,1,1.420,4.750,7.500,2.75,1.875,1.975
 72478706,2026-11-21 13:00,Deportivo Alaves,RC Deportivo de A Coruna,3,1,2.100,3.400,3.600,2.25,1.825,2.025
+72478720,2026-11-21 15:15,Rayo Vallecano,Valencia CF,0,1,2.000,3.500,3.800,2.5,2.050,1.800
+72478724,2026-11-21 17:30,Sevilla FC,Real Betis Seville,1,1,2.800,3.400,2.500,2.5,1.925,1.925
+72478722,2026-11-21 20:00,Real Madrid,RC Celta de Vigo,2,1,1.166,8.500,13.000,3.5,1.875,1.975

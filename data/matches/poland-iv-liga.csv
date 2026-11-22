@@ -1054,6 +1054,7 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 30238189559,2026-11-21 11:00,KS Mszczonowianka,RKS Ursus Warszawa,3,2,2.150,4.000,2.500,3.5,1.975,1.825
 30595091846,2026-11-21 11:00,KP Chemik Police,CRS Pogoń Barlinek,1,0,,,,,,
 30666042914,2026-11-21 11:00,Polonia Golina,ŚKS Warta Śrem,0,1,,,,,,
+31532652689,2026-11-21 11:00,LKS Ina Ińsko,Astra Ustronie Morskie,3,3,,,,,,
 31810046239,2026-11-21 11:00,Czarni Pruszcz Gdański,Dolina Speranda Niepoględzie,6,0,1.062,12.000,15.000,4.75,1.850,1.950
 31955566778,2026-11-21 11:00,KS Sprotavia Szprotawa,LKS Odra Nietków,3,1,,,,,,
 32133151561,2026-11-21 11:00,MGKS Kujawiak Kowal,RKS Lech Rypin,0,0,,,,,,
@@ -1068,18 +1069,21 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 29940639248,2026-11-21 12:00,KP Piast Iłowa,MKS Korona Kożuchów,1,7,,,,,,
 30148534704,2026-11-21 12:00,BKS Sparta Brodnica,SLKS Start Pruszcz,2,0,,,,,,
 30377314957,2026-11-21 12:00,Arkonia Szczecin,KS Świt II Szczecin,1,3,1.850,4.200,3.000,3.75,1.875,1.925
+30384621905,2026-11-21 12:00,KP Starogard Gdański,KS Stolem Gniewino,0,2,,,,,,
 30949045217,2026-11-21 12:00,Pogoń Lębork,MKS Chojniczanka II Chojnice,2,3,,,,,,
 30964312699,2026-11-21 12:00,KS Noteć Gębice,KS Pogoń Mogilno,1,3,,,,,,
-31029234324,2026-11-21 12:00,Gryf Wejherowo,Radunia Stężyca,3,0,,,,,,
+31029234324,2026-11-21 12:00,Gryf Wejherowo,Radunia Stężyca,4,0,,,,,,
 31031568377,2026-11-21 12:00,KS Sokół Bożepole Wielkie,Gryf Słupsk,2,4,,,,,,
 31083621683,2026-11-21 12:00,MKS Piaseczno,Talent Warszawa,4,1,,,,,,
 31113449318,2026-11-21 12:00,MLKS Nadnarwianka Pułtusk,KS Legionovia Legionowo,1,3,,,,,,
-31267782465,2026-11-21 12:00,Victoria Szczaniec,MKS Ilanka Rzepin,0,1,,,,,,
+31267782465,2026-11-21 12:00,Victoria Szczaniec,MKS Ilanka Rzepin,2,1,,,,,,
 31276043478,2026-11-21 12:00,MKS Unia Wąbrzeźno,KS Unia Solec Kujawski,0,0,,,,,,
 31578652719,2026-11-21 12:00,MKS Stal Sulęcin,MKS Łucznik Strzelce Krajeńskie,0,1,,,,,,
 31588253134,2026-11-21 12:00,Hutnik Warszawa,MKS Podlasie Sokołów Podlaski,1,1,,,,,,
 31811636110,2026-11-21 12:00,Wybrzeże Rewalskie Rewal,Pogoń II Szczecin,0,1,,,,,,
 31997430010,2026-11-21 12:00,WKS Róża Różanki,MKS Czarni Żagań,3,1,,,,,,
 28250447708,2026-11-21 12:30,KS Gwardia Koszalin,Orzeł Wałcz,6,0,1.181,7.000,9.000,4.25,1.850,1.950
+30110592993,2026-11-21 13:00,Sparta Gryfice,GKS Manowo,5,1,,,,,,
 30640720557,2026-11-21 13:00,LKS Błyskawica Gać,Prochowiczanka Prochowice,3,3,,,,,,
 31258883168,2026-11-21 13:00,Polonia Chodzież,Avia Kamionki,0,1,,,,,,
+29206117375,2026-11-21 17:00,MLKS Victoria Sulejówek,Makowianka Maków Mazowiecki,0,3,2.600,4.000,2.100,3.25,1.825,1.975

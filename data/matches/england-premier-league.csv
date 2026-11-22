@@ -490,3 +490,9 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 72221390,2026-11-08 14:00,Sunderland AFC,Chelsea FC,1,0,3.000,3.500,2.250,2.5,1.900,1.950
 72221386,2026-11-08 16:30,Manchester United,Aston Villa,4,4,1.950,4.000,3.400,3.25,2.000,1.850
 72221406,2026-11-21 12:30,Manchester City,Fulham FC,1,1,1.363,5.250,7.500,3.25,1.950,1.900
+72221392,2026-11-21 15:00,Aston Villa,Sunderland AFC,0,0,,,,,,
+72221394,2026-11-21 15:00,AFC Bournemouth,Nottingham Forest,2,0,,,,,,
+72221398,2026-11-21 15:00,Chelsea FC,Leeds United,1,4,,,,,,
+72221400,2026-11-21 15:00,Coventry City,Crystal Palace,3,2,,,,,,
+72221410,2026-11-21 15:00,Tottenham Hotspur,Ipswich Town,2,0,,,,,,
+72221408,2026-11-21 17:30,Newcastle United,Arsenal FC,2,2,6.000,4.333,1.533,2.75,2.000,1.850
