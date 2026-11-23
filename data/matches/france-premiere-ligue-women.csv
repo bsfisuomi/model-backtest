@@ -185,3 +185,5 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 72700304,2026-11-21 15:00,RC Lens,Montpellier FC,0,1,,,,,,
 72700310,2026-11-21 17:00,Le Havre AC,FC Nantes,2,4,3.700,3.500,1.800,2.75,1.950,1.850
 72700314,2026-11-21 20:00,Paris Saint-Germain,Saint Malo,1,0,1.050,13.000,29.000,3.5,1.950,1.850
+72700306,2026-11-22 14:00,Paris FC,FC Fleury,2,1,1.400,4.200,6.000,2.75,1.800,2.000
+72700312,2026-11-22 14:00,Olympique Lyon,RC Strasbourg Alsace,5,2,1.071,10.000,29.000,5.25,1.950,1.850

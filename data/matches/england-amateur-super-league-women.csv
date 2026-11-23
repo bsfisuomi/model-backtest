@@ -73,3 +73,6 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 73346130,2026-11-21 17:15,London City Lionesses,Crystal Palace,6,2,1.181,7.000,13.000,3.5,1.800,1.909
 73346126,2026-11-22 12:00,Manchester City WFC,Tottenham Hotspur FC,1,3,1.363,4.750,7.000,3.5,1.875,1.925
 73346136,2026-11-22 12:00,Birmingham City WFC,Manchester United WFC,1,2,6.000,4.750,1.444,3,1.975,1.825
+73346132,2026-11-22 14:00,Everton FC,Brighton and Hove Albion WFC,0,1,4.333,3.500,1.800,2.5,1.900,1.900
+73346134,2026-11-22 14:00,Charlton Athletic,Aston Villa WFC,1,1,4.500,3.900,1.666,2.75,1.950,1.850
+73346124,2026-11-22 14:30,Arsenal WFC,West Ham United FC,0,0,1.181,6.500,15.000,3.25,1.900,1.900
