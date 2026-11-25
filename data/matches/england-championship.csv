@@ -749,3 +749,11 @@ event_id,date,home,away,home_goals,away_goals,close_1,close_x,close_2,close_tl,c
 72340052,2026-11-21 15:00,West Ham United,Preston North End,1,1,,,,,,
 72340054,2026-11-21 15:00,Wolverhampton Wanderers,Charlton Athletic,2,1,,,,,,
 72340034,2026-11-22 12:00,Burnley FC,Blackburn Rovers,2,2,1.800,4.000,3.900,2.75,1.925,1.925
+72340056,2026-11-24 19:45,Bristol City,Wrexham AFC,1,1,2.250,3.100,3.300,2.25,2.025,1.825
+72340058,2026-11-24 19:45,Cardiff City,Preston North End,0,4,1.420,4.750,6.500,3.25,1.825,2.025
+72340060,2026-11-24 19:45,Charlton Athletic,Lincoln City,4,0,2.550,3.100,2.800,2.25,1.975,1.875
+72340062,2026-11-24 19:45,Middlesbrough FC,Swansea City,2,1,1.450,4.333,6.500,3.25,2.025,1.825
+72340064,2026-11-24 19:45,Norwich City,Queens Park Rangers,1,1,1.950,3.600,3.600,3,2.050,1.800
+72340066,2026-11-24 19:45,Portsmouth FC,West Ham United,1,0,4.500,3.600,1.750,2.5,1.875,1.975
+72340068,2026-11-24 19:45,Sheffield United,Southampton FC,1,1,2.150,3.300,3.300,2.75,1.875,1.975
+72340070,2026-11-24 20:00,Wolverhampton Wanderers,Derby County,3,0,1.250,5.250,12.000,2.75,1.800,2.050
