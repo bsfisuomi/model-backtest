@@ -1,27 +1,10 @@
 league,event_id,kickoff_utc,home,away,p_home_2way,exp_goals,lam_home,lam_away,fair_ah0_home,fair_ah0_away,fair_o25,fair_u25
-ukraine-premier-league,72409812,2026-11-27 11:00,FC Livyi Bereh Kyiv,Kolos Kovalivka,0.5089,1.774,0.896,0.877,1.969,2.032,3.812,1.356
-north-macedonia-1-mfl,72045838,2026-11-27 11:00,KF Shkendija Haracine,FC Bregalnica 2008 AD,0.6264,1.982,1.139,0.843,1.635,2.575,3.14,1.467
-poland-iii-liga-group-3,72516808,2026-11-27 12:00,LKS Goczalkowice-Zdroj,Zaglebie Sosnowiec,0.4327,2.415,1.111,1.304,2.295,1.772,2.303,1.768
-kosovo-superliga,77062258,2026-11-27 12:00,KF Malisheva,KF Llapi,0.7802,2.865,1.894,0.971,1.321,4.116,1.832,2.202
-croatia-prva-nl,73070232,2026-11-27 12:30,NK Sesvete,HNK Vukovar 1991,0.654,3.063,1.81,1.254,1.525,2.904,1.692,2.444
-croatia-prva-nl,73070236,2026-11-27 12:30,NK Mladost Zdralovi,NK BSK Bijelo Brdo,0.667,2.171,1.298,0.872,1.539,2.854,2.707,1.586
-albania-kategoria-e-pare,73753192,2026-11-27 12:30,KS Pogradeci,KF Iliria Fushe-Kruje,0.7527,2.365,1.528,0.837,1.383,3.608,2.374,1.728
-albania-kategoria-superiore,72814314,2026-11-27 12:30,KF Tirana,Skenderbeu Korce,0.6804,2.135,1.294,0.841,1.515,2.941,2.779,1.562
-egypt-2-division-a,73078880,2026-11-27 12:30,Tanta FC,El Mansurah,0.5306,1.978,1.025,0.953,1.896,2.116,3.15,1.465
-israel-national-league,72284202,2026-11-27 13:00,Maccabi Kabilio Jaffa,FC Kafr Qasim,0.5622,2.503,1.344,1.159,1.785,2.274,2.189,1.841
-israel-national-league,72284206,2026-11-27 13:00,Hapoel Kfar Shalem FC,Hapoel Kfar Saba FC,0.6215,3.713,2.123,1.59,1.579,2.728,1.395,3.531
-israel-national-league,72284208,2026-11-27 13:00,Hapoel Acre FC,Maccabi Herzliya,0.3274,2.35,0.936,1.413,2.926,1.519,2.398,1.716
-albania-kategoria-e-pare,73753200,2026-11-27 15:00,Flamurtari Vlore,Besa Kavaje,0.6509,2.667,1.571,1.096,1.549,2.822,2.007,1.993
-czechia-fnl,72300900,2026-11-27 15:00,FC Vysocina Jihlava,FK Fotbal Trinec,0.76,2.967,1.929,1.038,1.343,3.914,1.756,2.322
-azerbaijan-premier-league,73409352,2026-11-27 15:00,Neftchi Baku PFC,Zira FK,0.6905,3.019,1.847,1.173,1.453,3.206,1.721,2.387
-romania-superliga,72388116,2026-11-27 15:30,FC Universitatea Cluj,ACS Sepsi OSK Sfantu Gheorghe,0.727,2.667,1.685,0.981,1.407,3.458,2.007,1.993
 bulgaria-parva-liga,71998296,2026-11-27 16:30,FC Lokomotiv 1929 Sofia,PFC Slavia Sofia,0.6796,2.258,1.367,0.891,1.51,2.96,2.545,1.647
 poland-ii-liga,72398856,2026-11-27 16:30,ZKS Stal Stalowa Wola,Legia Warszawa II,0.5866,3.221,1.776,1.445,1.691,2.447,1.601,2.663
 poland-ekstraklasa,72043352,2026-11-27 17:00,RKS Rakow Czestochowa,GKS Piast Gliwice,0.6632,3.299,1.966,1.333,1.496,3.016,1.562,2.78
 croatia-hnl,71913150,2026-11-27 17:00,NK Istra 1961,NK Varazdin,0.4546,2.457,1.162,1.295,2.192,1.839,2.246,1.803
 poland-iii-liga-group-1,72514914,2026-11-27 17:00,Wigry Suwalki,Jagiellonia II Bialystok,0.7151,3.384,2.116,1.267,1.394,3.539,1.522,2.916
 czechia-fnl,72300898,2026-11-27 17:00,Dukla Prague,FC Silon Taborsko,0.6802,2.88,1.745,1.135,1.479,3.086,1.82,2.219
-czechia-fnl,72300910,2026-11-27 17:00,FK Usti nad Labem,SK Hanacka Slavia Kromeriz,0.7388,2.912,1.859,1.052,1.377,3.655,1.796,2.256
 cyprus-1st-division,73160486,2026-11-27 17:00,AEK Larnaca,Apollon Limassol,0.5928,2.851,1.583,1.269,1.685,2.46,1.843,2.187
 cyprus-1st-division,73160488,2026-11-27 17:00,AEL Limassol,Olympiakos Nicosia,0.6953,2.826,1.736,1.09,1.453,3.206,1.863,2.159
 turkiye-super-lig,72723344,2026-11-27 17:00,Alanyaspor,Konyaspor,0.5587,2.428,1.299,1.129,1.798,2.254,2.285,1.778
@@ -29,20 +12,16 @@ turkiye-super-lig,72723346,2026-11-27 17:00,Caykur Rizespor,Kasimpasa Istanbul,0
 czechia-1-liga,72796066,2026-11-27 17:00,SK Artis Brno,1. FC Slovacko Uherske Hradiste,0.5304,3.174,1.645,1.53,1.879,2.138,1.627,2.595
 germany-2-bundesliga,72513996,2026-11-27 17:30,1. FC Heidenheim,1 FC Nuremberg,0.6333,3.274,1.895,1.379,1.565,2.771,1.574,2.743
 germany-2-bundesliga,72514000,2026-11-27 17:30,VfL Bochum,SV Darmstadt 98,0.6982,2.805,1.728,1.077,1.449,3.227,1.881,2.136
-albania-kategoria-superiore,72814310,2026-11-27 17:30,FC Dinamo City,Partizani Tirana,0.7265,2.793,1.765,1.028,1.401,3.491,1.891,2.123
+albania-kategoria-superiore,72814310,2026-11-27 17:30,FC Dinamo City,Partizani Tirana,0.7259,2.792,1.763,1.029,1.403,3.484,1.892,2.122
 spain-primera-federacion-group-1,72559272,2026-11-27 18:00,Athletic Bilbao B,Cultural Leonesa,0.5758,2.19,1.194,0.997,1.754,2.325,2.669,1.599
 portugal-liga-portugal-2,72531690,2026-11-27 18:00,CD Feirense,Portimonense SAD,0.482,1.782,0.872,0.91,2.065,1.939,3.779,1.36
 germany-3-liga,72680312,2026-11-27 18:00,Hansa Rostock,TSV Havelse,0.8651,4.197,2.958,1.239,1.18,6.559,1.267,4.748
 austria-bundesliga,72345600,2026-11-27 18:30,Grazer AK 1902,SCR Altach,0.4883,2.664,1.314,1.351,2.048,1.954,2.01,1.991
 romania-superliga,72388126,2026-11-27 18:30,FC Petrolul Ploiesti,ACS Champions FC Arges,0.5497,2.138,1.132,1.006,1.832,2.201,2.774,1.564
 hungary-nb-i,72302696,2026-11-27 18:30,WKW ETO FC Gyor,Debreceni VSC,0.6088,2.971,1.677,1.294,1.637,2.569,1.754,2.327
-netherlands-eerste-divisie,72044850,2026-11-27 19:00,FC Dordrecht,Vitesse Arnhem,0.4453,2.959,1.383,1.576,2.254,1.797,1.762,2.312
 netherlands-eerste-divisie,72044852,2026-11-27 19:00,Jong Ajax Amsterdam,Heracles Almelo,0.198,3.841,1.258,2.584,4.942,1.254,1.356,3.813
-netherlands-eerste-divisie,72044854,2026-11-27 19:00,Jong AZ Alkmaar,TOP Oss,0.6904,3.593,2.197,1.396,1.43,3.328,1.437,3.289
-netherlands-eerste-divisie,72044856,2026-11-27 19:00,Jong FC Utrecht,Almere City FC,0.3671,3.395,1.431,1.964,2.782,1.561,1.517,2.935
 netherlands-eerste-divisie,72044858,2026-11-27 19:00,MVV Maastricht,Jong PSV Eindhoven,0.5465,2.691,1.42,1.271,1.83,2.204,1.984,2.017
 netherlands-eerste-divisie,72044860,2026-11-27 19:00,NAC Breda,FC Den Bosch,0.8221,3.611,2.467,1.145,1.24,5.16,1.43,3.325
-netherlands-eerste-divisie,72044862,2026-11-27 19:00,VVV Venlo,RKC Waalwijk,0.5041,3.062,1.538,1.523,1.983,2.017,1.693,2.442
 netherlands-eredivisie,72041270,2026-11-27 19:00,FC Groningen,Willem II Tilburg,0.834,4.272,2.944,1.328,1.205,5.867,1.251,4.978
 bolivia-division-profesional,75449106,2026-11-27 19:00,Academia del Balompie Boliviano,CD Real Tomayapo,0.7498,3.132,2.019,1.113,1.35,3.856,1.651,2.537
 switzerland-challenge-league,72176650,2026-11-27 19:15,FC Winterthur,FC Rapperswil-Jona,0.7404,3.655,2.337,1.318,1.342,3.922,1.415,3.411
@@ -84,9 +63,14 @@ japan-j-league-3,72152256,2026-11-28 05:00,Kochi United SC,Nara Club,0.4949,2.74
 japan-jleague,72149914,2026-11-28 06:00,Kashima Antlers,Fagiano Okayama,0.6755,2.948,1.778,1.17,1.485,3.06,1.77,2.299
 japan-jleague,72149932,2026-11-28 06:00,Vissel Kobe,JEF United Chiba,0.7982,2.994,2.008,0.986,1.293,4.417,1.738,2.356
 japan-jleague,72149918,2026-11-28 07:00,Kashiwa Reysol,Sanfrecce Hiroshima,0.4419,3.104,1.445,1.659,2.277,1.783,1.668,2.498
+romania-liga-2,73086768,2026-11-28 09:00,CS Afumati,ACSM Resita,0.5109,2.436,1.234,1.202,1.959,2.043,2.275,1.784
+romania-liga-2,73086774,2026-11-28 09:00,AFC Metalul Buzau,ACS FC Bacau,0.6619,2.657,1.582,1.075,1.526,2.901,2.017,1.983
+romania-liga-2,73086778,2026-11-28 09:00,CSC 1599 Selimbar,Csa Steaua Bucuresti,0.3969,2.771,1.216,1.555,2.516,1.66,1.91,2.099
+romania-liga-2,73323816,2026-11-28 09:00,Asa Targu Mures,Csm Olimpia Satu Mare,0.7776,2.965,1.956,1.009,1.32,4.13,1.757,2.32
+romania-liga-2,73086784,2026-11-28 09:00,CS Dinamo Bucuresti,CSC Dumbravita,0.382,3.008,1.294,1.714,2.633,1.612,1.728,2.374
 bulgaria-parva-liga,71998290,2026-11-28 10:45,PFC Lokomotiv Plovdiv,FK Spartak 1918 Varna,0.6467,2.246,1.318,0.929,1.578,2.732,2.566,1.639
 poland-ii-liga,72398850,2026-11-28 11:00,Gornik Leczna,OKS Swit Szczecin,0.7582,3.299,2.142,1.157,1.331,4.022,1.561,2.781
-ukraine-premier-league,72409814,2026-11-28 11:00,FC Obolon Kyiv,FC Zorya Luhansk,0.3218,2.356,0.932,1.425,2.968,1.508,2.388,1.721
+ukraine-premier-league,72409814,2026-11-28 11:00,FC Obolon Kyiv,FC Zorya Luhansk,0.3219,2.356,0.932,1.424,2.968,1.508,2.388,1.72
 ukraine-premier-league,72409822,2026-11-28 11:00,FC Dynamo Kyiv,FC Chernomorets Odessa,0.8899,2.848,2.042,0.806,1.209,5.794,1.846,2.183
 poland-iii-liga-group-2,72516196,2026-11-28 11:00,Sks Unia Swarzedz,KKS 1925 Kalisz,0.636,2.89,1.677,1.213,1.573,2.745,1.812,2.231
 poland-iii-liga-group-2,72516200,2026-11-28 11:00,Gedania Gdansk,Elana Torun,0.5933,3.66,2.033,1.627,1.659,2.519,1.413,3.422
@@ -95,7 +79,8 @@ poland-iii-liga-group-2,72516208,2026-11-28 11:00,MKS Viktoria Wrzesnia,Polonia 
 portugal-liga-portugal-2,72531684,2026-11-28 11:00,AVS Futebol SAD,Leixoes SC,0.3971,2.532,1.111,1.42,2.495,1.669,2.154,1.867
 poland-ii-liga,72398846,2026-11-28 11:30,Slask II Wroclaw,Podhale Nowy Targ,0.4405,3.06,1.421,1.638,2.283,1.78,1.695,2.439
 poland-ii-liga,72398854,2026-11-28 11:30,Olimpia Grudziadz,Avia Swidnik,0.6437,2.828,1.654,1.174,1.558,2.792,1.861,2.161
-croatia-prva-nl,73070238,2026-11-28 11:45,NK Segesta,NK Dubrava Zagreb,0.8006,2.734,1.837,0.897,1.302,4.311,1.943,2.061
+croatia-prva-nl,73070238,2026-11-28 11:45,NK Segesta,NK Dubrava Zagreb,0.8008,2.735,1.838,0.897,1.302,4.314,1.942,2.061
+montenegro-1-cfl,72304378,2026-11-28 12:00,FK Otrant-Olympic Ulcinj,FK Mornar Bar,0.4774,2.268,1.103,1.164,2.089,1.919,2.529,1.654
 germany-2-bundesliga,72513998,2026-11-28 12:00,Hertha BSC,Karlsruher SC,0.7713,3.32,2.179,1.141,1.312,4.203,1.552,2.813
 germany-2-bundesliga,72514002,2026-11-28 12:00,Dynamo Dresden,FC St. Pauli,0.5175,2.581,1.318,1.264,1.933,2.071,2.097,1.912
 germany-2-bundesliga,72514004,2026-11-28 12:00,Holstein Kiel,1 FC Kaiserslautern,0.6032,2.102,1.18,0.922,1.685,2.46,2.849,1.541
@@ -106,9 +91,10 @@ poland-iii-liga-group-3,73209204,2026-11-28 12:00,KS Sleza Wroclaw,BTP Stal Brze
 hungary-nb-ii,72501252,2026-11-28 12:00,Mezokovesd Zsory SE,Szentlorinc SE,0.7348,2.575,1.638,0.936,1.399,3.505,2.104,1.905
 wales-cymru-premier,72522186,2026-11-28 12:30,Barry Town United FC,Caernarfon Town FC,0.3938,3.421,1.495,1.926,2.589,1.629,1.505,2.979
 romania-superliga,72388120,2026-11-28 12:30,SC FC Voluntari,FC CFR 1907 Cluj,0.4948,2.746,1.364,1.381,2.021,1.979,1.932,2.073
+bulgaria-vtora-liga,72466660,2026-11-28 12:30,FC Pirin Blagoevgrad,PFC Dobrudzha Dobrich,0.4223,2.923,1.327,1.597,2.376,1.727,1.787,2.27
 bulgaria-vtora-liga,72466662,2026-11-28 12:30,PFC Montana 1921,PFK Sportist Svoge,0.7931,2.515,1.68,0.835,1.322,4.106,2.173,1.852
 hungary-nb-i,72302704,2026-11-28 12:30,Vasas FC,Budapest Honved FC,0.6207,2.964,1.694,1.27,1.607,2.646,1.758,2.319
-croatia-prva-nl,73070234,2026-11-28 12:30,NK Dugopolje,Orijent 1919 Rijeka,0.6693,2.667,1.599,1.068,1.511,2.959,2.007,1.993
+croatia-prva-nl,73070234,2026-11-28 12:30,NK Dugopolje,Orijent 1919 Rijeka,0.6695,2.667,1.6,1.068,1.51,2.961,2.007,1.993
 england-championship,72340082,2026-11-28 12:30,Blackburn Rovers,Charlton Athletic,0.6526,2.939,1.734,1.205,1.534,2.874,1.776,2.288
 england-championship,72340086,2026-11-28 12:30,Lincoln City,Wolverhampton Wanderers,0.2999,2.858,1.094,1.763,3.257,1.443,1.837,2.194
 england-championship,72340090,2026-11-28 12:30,Preston North End,Norwich City,0.3123,3.239,1.263,1.976,3.226,1.449,1.592,2.69
@@ -118,15 +104,16 @@ england-league-two,72342406,2026-11-28 12:30,Bristol Rovers,Tranmere Rovers FC,0
 england-league-two,72342412,2026-11-28 12:30,Exeter City,Crawley Town,0.6814,2.211,1.341,0.87,1.509,2.963,2.63,1.613
 england-national-league,72740864,2026-11-28 12:30,AFC Fylde,Aldershot Town FC,0.7378,3.038,1.938,1.099,1.372,3.686,1.709,2.411
 england-national-league,72740866,2026-11-28 12:30,Woking FC,Barrow AFC,0.5361,2.815,1.468,1.347,1.864,2.158,1.873,2.146
-albania-kategoria-superiore,72814318,2026-11-28 12:30,FK Vora,KF Teuta,0.3836,2.333,1.006,1.327,2.555,1.643,2.424,1.702
-croatia-druga-nl,72952526,2026-11-28 12:30,NK Lucko,NK Bjelovar,0.5404,2.659,1.394,1.266,1.852,2.174,2.015,1.985
-croatia-druga-nl,72952534,2026-11-28 12:30,NK Radnik Krizevci,NK Grobnican,0.7674,3.003,1.965,1.038,1.331,4.019,1.732,2.367
-azerbaijan-premier-league,73409346,2026-11-28 12:30,Turan Tovuz,FK Kapaz,0.7914,2.199,1.467,0.732,1.341,3.932,2.652,1.605
+albania-kategoria-superiore,72814318,2026-11-28 12:30,FK Vora,KF Teuta,0.3828,2.334,1.005,1.329,2.56,1.641,2.422,1.703
+croatia-druga-nl,72952526,2026-11-28 12:30,NK Lucko,NK Bjelovar,0.5409,2.66,1.395,1.265,1.85,2.177,2.014,1.986
+croatia-druga-nl,72952534,2026-11-28 12:30,NK Radnik Krizevci,NK Grobnican,0.7678,3.004,1.966,1.038,1.331,4.024,1.731,2.368
+azerbaijan-premier-league,73409346,2026-11-28 12:30,Turan Tovuz,FK Kapaz,0.7915,2.199,1.467,0.732,1.341,3.934,2.652,1.605
 greece-super-league-2,74172566,2026-11-28 12:45,GS Marko,PAOK Thessaloniki B,0.8772,2.478,1.761,0.716,1.236,5.233,2.22,1.82
 greece-super-league-2,74172562,2026-11-28 13:00,Asteras Tripolis B,Niki Volou 1924 PAE,0.2696,2.188,0.801,1.387,3.345,1.426,2.674,1.597
 netherlands-tweede-divisie,72594690,2026-11-28 13:00,Koninklijke HFC,Rkav Volendam,0.5041,3.039,1.527,1.512,1.983,2.017,1.708,2.413
 turkiye-super-lig,72723356,2026-11-28 13:00,Samsunspor,Genclerbirligi SK,0.6587,3.071,1.822,1.248,1.515,2.942,1.688,2.454
 czechia-fnl,72300906,2026-11-28 13:00,1.SK Prostejov,FK Viktoria Zizkov,0.5412,2.614,1.371,1.243,1.85,2.177,2.062,1.942
+moldova-super-liga,73866648,2026-11-28 13:00,Dacia Buiucani,FC Zimbru Chisinau,0.2096,3.009,1.004,2.006,4.317,1.301,1.727,2.375
 spain-laliga-2,72477640,2026-11-28 13:00,UD Las Palmas,FC Andorra,0.5525,3.165,1.681,1.483,1.801,2.249,1.632,2.582
 spain-laliga,72478726,2026-11-28 13:00,Real Betis Seville,Rayo Vallecano,0.733,2.827,1.796,1.031,1.39,3.567,1.862,2.16
 germany-3-liga,72680308,2026-11-28 13:00,SC Preussen 06 Munster,SC Verl,0.5545,3.098,1.65,1.449,1.795,2.258,1.671,2.49
@@ -154,6 +141,10 @@ italy-serie-a,71945430,2026-11-28 14:00,Frosinone Calcio,Parma Calcio,0.7424,3.1
 czechia-1-liga,72796036,2026-11-28 14:00,FK Teplice,FC Slovan Liberec,0.4205,3.068,1.389,1.679,2.395,1.717,1.69,2.45
 czechia-1-liga,72796142,2026-11-28 14:00,FK Mlada Boleslav,SK Sigma Olomouc,0.4985,2.514,1.255,1.259,2.006,1.994,2.175,1.851
 portugal-liga-portugal-2,72531686,2026-11-28 14:00,GD Chaves,CD Tondela,0.4363,2.668,1.233,1.435,2.289,1.776,2.006,1.994
+armenia-premier-league,75881470,2026-11-28 14:00,FC Urartu Yerevan,FC Shirak Gyumri,0.7413,2.608,1.669,0.939,1.388,3.58,2.068,1.937
+san-marino-campionato-sammarinese,76224052,2026-11-28 14:00,AC Juvenes/Dogana,SS Murata,0.8568,3.21,2.25,0.961,1.222,5.503,1.607,2.647
+san-marino-campionato-sammarinese,76224054,2026-11-28 14:00,SS Folgore Falciano Calcio,FC Fiorentino,0.7876,3.267,2.172,1.094,1.294,4.406,1.578,2.731
+san-marino-campionato-sammarinese,76224056,2026-11-28 14:00,SC Faetano,SS Pennarossa,0.347,2.964,1.215,1.749,2.88,1.532,1.759,2.318
 slovakia-superliga,72042352,2026-11-28 14:30,FK Zeleziarne Podbrezova,DAC 1904 Dunajska Streda,0.4224,3.136,1.423,1.712,2.388,1.721,1.649,2.541
 slovakia-superliga,72042356,2026-11-28 14:30,KFC Komarno,MSK Zilina,0.4744,3.005,1.457,1.548,2.112,1.899,1.73,2.37
 germany-bundesliga,72513336,2026-11-28 14:30,FSV Mainz,Union Berlin,0.7985,3.704,2.484,1.219,1.263,4.804,1.398,3.511
@@ -229,9 +220,11 @@ poland-iii-liga-group-1,72514912,2026-11-28 15:00,KS Warta Sieradz,LKS Lodz II,0
 northern-ireland-premiership,77225716,2026-11-28 15:00,Bangor FC,Carrick Rangers,0.3157,3.01,1.18,1.83,3.148,1.466,1.727,2.375
 greece-super-league,72936154,2026-11-28 15:00,Volos NPS,Asteras Tripolis,0.5164,2.694,1.373,1.321,1.936,2.068,1.981,2.02
 greece-super-league,72936160,2026-11-28 15:00,POT Iraklis,Panaitolikos Agrinio,0.6548,2.476,1.464,1.012,1.549,2.821,2.222,1.818
-albania-kategoria-superiore,72814312,2026-11-28 15:00,Vllaznia Shkoder,KF Laci,0.6645,2.365,1.411,0.954,1.535,2.87,2.375,1.727
+nigeria-premier-league,74886196,2026-11-28 15:00,Plateau United,Ikorodu City,0.7304,2.62,1.661,0.959,1.404,3.477,2.055,1.948
+albania-kategoria-superiore,72814312,2026-11-28 15:00,Vllaznia Shkoder,KF Laci,0.6636,2.364,1.41,0.954,1.536,2.864,2.376,1.727
 norway-eliteserien,67015482,2026-11-28 15:00,Bodoe/Glimt,KFUM Oslo,0.9447,3.815,2.833,0.981,1.135,8.383,1.363,3.752
-azerbaijan-premier-league,73409350,2026-11-28 15:00,Sabah Masazir,Araz Nakhchivan PFK,0.8842,3.387,2.419,0.968,1.192,6.217,1.52,2.921
+azerbaijan-premier-league,73409350,2026-11-28 15:00,Sabah Masazir,Araz Nakhchivan PFK,0.8843,3.387,2.419,0.968,1.192,6.219,1.52,2.921
+spain-amateur-tercera-federacion-group-13,73586690,2026-11-28 15:15,SFC Minerva,UCAM Murcia II,0.3807,2.625,1.127,1.498,2.603,1.624,2.05,1.953
 spain-laliga,72478738,2026-11-28 15:15,Malaga CF,Athletic Bilbao,0.309,3.394,1.317,2.077,3.292,1.436,1.517,2.934
 netherlands-eerste-divisie,72044864,2026-11-28 15:30,FC Emmen,Helmond Sport,0.7682,3.833,2.509,1.324,1.296,4.382,1.358,3.794
 netherlands-eredivisie,72041268,2026-11-28 15:30,Excelsior Rotterdam,SC Telstar,0.681,3.576,2.168,1.408,1.448,3.23,1.443,3.258
@@ -244,6 +237,7 @@ austria-bundesliga,72345598,2026-11-28 16:00,FK Austria Wien,Wolfsberger AC,0.65
 cyprus-1st-division,73160490,2026-11-28 16:00,Anorthosis Famagusta,Karmiotissa FC,0.7631,2.687,1.752,0.935,1.352,3.839,1.987,2.013
 spain-amateur-tercera-federacion-group-6,73579016,2026-11-28 16:00,CD Utiel,AC Torrellano,0.49,2.275,1.124,1.151,2.038,1.963,2.517,1.659
 spain-segunda-federacion-group-v,72509506,2026-11-28 16:00,Calvo Sotelo Puertollano,Atletico Madrid C,0.625,2.874,1.65,1.225,1.6,2.666,1.825,2.213
+armenia-premier-league,75881472,2026-11-28 16:00,FC Noah Yerevan,FC BKMA Yerevan,0.9412,3.557,2.636,0.921,1.146,7.872,1.45,3.221
 italy-serie-b,73093170,2026-11-28 16:15,L.R. Vicenza,Cesena FC,0.5974,3.096,1.727,1.369,1.664,2.506,1.672,2.488
 france-ligue-1,72036310,2026-11-28 16:15,Angers SCO,Racing Club De Lens,0.2778,3.091,1.146,1.946,3.534,1.395,1.675,2.481
 italy-serie-c-group-a,73293384,2026-11-28 16:30,AC Lumezzane,Calcio Desenzano,0.5741,2.236,1.216,1.019,1.758,2.32,2.585,1.631
@@ -307,10 +301,16 @@ guatemala-liga-nacional-apertura,72475112,2026-11-28 21:00,CD Suchitepequez,CSD 
 guatemala-liga-nacional-apertura,72475114,2026-11-28 21:00,Aurora FC,CSD Coban Imperial,0.6175,2.887,1.645,1.243,1.618,2.617,1.815,2.228
 guatemala-liga-nacional-apertura,72475116,2026-11-28 21:00,CD Malacateco,CD Marquense,0.7154,2.298,1.438,0.86,1.445,3.249,2.478,1.676
 bolivia-division-profesional,75449112,2026-11-28 21:15,Guabira Montero,FC Universitario de Vinto,0.6572,3.24,1.92,1.32,1.511,2.956,1.591,2.691
+mexico-liga-primera-premier-group-stage,74100812,2026-11-28 21:30,Cordobes FC,Tritones Vallarta MFC,0.6089,1.917,1.082,0.835,1.679,2.473,3.325,1.43
+mexico-liga-primera-premier-group-stage,74100810,2026-11-28 21:30,Zacatepec FC,Los Cabos United,0.6784,2.53,1.53,1.0,1.499,3.004,2.156,1.865
+mexico-liga-primera-premier-group-stage,74101062,2026-11-28 21:30,Racing de Veracruz,Pioneros de Cancun,0.7705,3.033,1.989,1.044,1.326,4.07,1.712,2.405
+mexico-liga-primera-premier-group-stage,74101064,2026-11-28 23:00,Deportiva Venados,Chapulineros de Oaxaca,0.7666,2.95,1.929,1.021,1.335,3.986,1.768,2.302
 paraguay-division-de-honor-clausura,73038674,2026-11-28 23:00,Sportivo Trinidense,Recoleta FC,0.7218,2.787,1.753,1.033,1.409,3.442,1.896,2.116
 chile-primera-division,67682122,2026-11-28 23:30,Colo-Colo,Deportes La Serena,0.8206,3.848,2.625,1.222,1.233,5.287,1.354,3.827
 bolivia-division-profesional,75449114,2026-11-28 23:30,CA Nacional Potosi,Oriente Petrolero,0.7426,3.096,1.984,1.112,1.362,3.759,1.672,2.487
+mexico-liga-primera-premier-group-stage,74101066,2026-11-29 00:00,Jaguares FC,Tapachula Soconusco FC,0.7796,2.916,1.927,0.989,1.319,4.132,1.793,2.261
 brazil-brasileiro-serie-a,66887200,2026-11-29 00:00,Botafogo FR RJ,EC Bahia BA,0.61,2.325,1.314,1.011,1.659,2.518,2.435,1.697
+mexico-liga-primera-premier-group-stage,74101068,2026-11-29 01:00,Club Celaya FC,Inter Playa Del Carmen,0.7378,2.757,1.759,0.998,1.386,3.593,1.922,2.084
 japan-j-league-3,72152258,2026-11-29 04:00,Roasso Kumamoto,FC Osaka,0.5104,2.094,1.06,1.034,1.963,2.039,2.868,1.535
 republic-of-korea-k-league-2,68046866,2026-11-29 05:00,Cheonan City FC,Daegu FC,0.2929,2.968,1.125,1.843,3.349,1.426,1.756,2.324
 republic-of-korea-k-league-2,68046870,2026-11-29 05:00,Gimpo FC,Hwaseong FC,0.5172,2.49,1.27,1.219,1.935,2.069,2.205,1.83
@@ -334,21 +334,22 @@ japan-jleague-2,72151412,2026-11-29 06:00,Iwaki FC,Hokkaido Consadole Sapporo,0.
 austria-2-liga,72440788,2026-11-29 09:30,FC Hertha Wels,FAC Wien,0.5088,2.819,1.424,1.395,1.965,2.036,1.869,2.151
 greece-super-league-2,74172564,2026-11-29 10:30,Hellas Syrou,AE Larissa FC,0.384,2.164,0.933,1.231,2.536,1.651,2.72,1.581
 spain-amateur-tercera-federacion-group-7,73581390,2026-11-29 10:30,AD Torrejon CF,CD Leganes B,0.5705,2.819,1.527,1.291,1.751,2.331,1.869,2.15
-azerbaijan-premier-league,73409344,2026-11-29 10:30,Shamakhi FK,Gabala FK,0.5513,2.326,1.234,1.092,1.823,2.215,2.435,1.697
+azerbaijan-premier-league,73409344,2026-11-29 10:30,Shamakhi FK,Gabala FK,0.5514,2.326,1.234,1.092,1.823,2.216,2.434,1.697
 poland-ii-liga,72398852,2026-11-29 11:00,KS Hutnik Krakow SSA,Sandecja Nowy Sacz,0.4854,2.577,1.266,1.311,2.059,1.944,2.102,1.908
 poland-ii-liga,72398858,2026-11-29 11:00,Sokol Kleczew,Zawisza Bydgoszcz,0.4137,3.15,1.413,1.736,2.441,1.694,1.641,2.561
-ukraine-premier-league,72409808,2026-11-29 11:00,FC Kryvbas Kriviy Rih,Veres Rivne,0.602,2.626,1.472,1.154,1.668,2.497,2.049,1.954
+ukraine-premier-league,72409808,2026-11-29 11:00,FC Kryvbas Kriviy Rih,Veres Rivne,0.6021,2.626,1.472,1.154,1.668,2.497,2.049,1.954
 ukraine-premier-league,72409820,2026-11-29 11:00,FC Epitsentr Kamianets-Podilskyi,LNZ Cherkasy,0.3061,2.074,0.802,1.273,3.025,1.494,2.912,1.523
 poland-iii-liga-group-1,72514906,2026-11-29 11:00,Lechia Tomaszow Mazowiecki,Wisla Plock II,0.5332,3.248,1.688,1.56,1.868,2.152,1.587,2.703
 poland-iii-liga-group-1,72514918,2026-11-29 11:00,Widzew Lodz II,Zabkovia Zabki,0.584,3.241,1.782,1.459,1.698,2.432,1.591,2.692
 poland-iii-liga-group-3,73074646,2026-11-29 11:00,Zaglebie Lubin II,KS Polonia Nysa,0.741,3.324,2.126,1.197,1.355,3.818,1.55,2.819
+portugal-liga-portugal-2,72531696,2026-11-29 11:00,FC Penafiel,SL Benfica B,0.6025,2.651,1.486,1.164,1.666,2.502,2.024,1.977
 netherlands-eerste-divisie,72044866,2026-11-29 11:15,FC Volendam,FC Eindhoven,0.7381,3.906,2.493,1.413,1.336,3.977,1.337,3.966
 netherlands-eredivisie,72041266,2026-11-29 11:15,ADO Den Haag,FC Utrecht,0.4993,3.351,1.674,1.677,2.003,1.997,1.537,2.862
 italy-serie-c-group-a,73293376,2026-11-29 11:30,FC Arzignano Valchiampo,AC Trento,0.4227,2.31,1.049,1.261,2.34,1.746,2.459,1.685
 italy-serie-c-group-b,73294134,2026-11-29 11:30,Spezia Calcio,ASD Pineto Calcio,0.8297,2.478,1.703,0.776,1.282,4.545,2.219,1.82
 bulgaria-parva-liga,71998286,2026-11-29 11:30,FC Arda Kardzhali,FC CSKA 1948,0.5271,2.617,1.351,1.266,1.898,2.113,2.058,1.945
 italy-serie-a,71945442,2026-11-29 11:30,Udinese Calcio,ACF Fiorentina,0.4078,3.349,1.491,1.858,2.49,1.671,1.538,2.86
-croatia-prva-nl,73070242,2026-11-29 11:45,HNK Cibalia Vinkovci,NK Opatija,0.6591,2.408,1.429,0.978,1.544,2.84,2.313,1.762
+croatia-prva-nl,73070242,2026-11-29 11:45,HNK Cibalia Vinkovci,NK Opatija,0.6594,2.408,1.43,0.978,1.543,2.842,2.313,1.762
 england-championship,72340096,2026-11-29 12:00,Swansea City,Cardiff City,0.6071,3.183,1.794,1.39,1.635,2.576,1.622,2.608
 england-premier-league,72221418,2026-11-29 12:00,Everton FC,Liverpool FC,0.3486,2.423,0.995,1.428,2.789,1.559,2.292,1.774
 czechia-1-liga,72796042,2026-11-29 12:00,Slavia Prague,FC Banik Ostrava,0.8815,3.437,2.45,0.987,1.192,6.209,1.498,3.006
@@ -364,7 +365,7 @@ turkiye-super-lig,72723342,2026-11-29 13:00,Eyupspor,Istanbul Basaksehir,0.2646,
 switzerland-super-league,74379778,2026-11-29 13:00,FC Luzern,FC Lugano,0.4547,3.269,1.546,1.722,2.214,1.823,1.577,2.734
 spain-laliga-2,72477636,2026-11-29 13:00,Granada CF,AD Ceuta,0.7673,2.899,1.897,1.003,1.336,3.974,1.805,2.242
 spain-laliga,72478744,2026-11-29 13:00,Valencia CF,CA Osasuna,0.615,2.571,1.461,1.111,1.637,2.571,2.108,1.902
-azerbaijan-premier-league,73409348,2026-11-29 13:00,Qarabag FK,Sumqayit FK,0.8808,3.218,2.293,0.925,1.201,5.978,1.603,2.658
+azerbaijan-premier-league,73409348,2026-11-29 13:00,Qarabag FK,Sumqayit FK,0.8809,3.218,2.293,0.925,1.201,5.979,1.603,2.658
 hungary-nb-i,72302706,2026-11-29 13:15,Ferencvarosi Budapest,Zalaegerszeg TE,0.8594,3.187,2.238,0.95,1.221,5.533,1.62,2.614
 italy-serie-c-group-a,73293380,2026-11-29 13:30,AS Cittadella,Pro Vercelli 1892,0.7904,2.617,1.744,0.873,1.32,4.124,2.058,1.945
 italy-serie-c-group-b,73294126,2026-11-29 13:30,Perugia Calcio Spa,US Livorno 1915,0.6178,2.599,1.481,1.118,1.629,2.591,2.078,1.928
@@ -409,9 +410,9 @@ switzerland-super-league,74379780,2026-11-29 15:30,FC Thun,FC St. Gallen 1879,0.
 switzerland-super-league,74379782,2026-11-29 15:30,FC Sion,Young Boys Bern,0.5012,3.533,1.769,1.764,1.995,2.005,1.46,3.176
 netherlands-eerste-divisie,72044868,2026-11-29 15:45,Roda JC Kerkrade,De Graafschap,0.6369,2.77,1.609,1.161,1.576,2.736,1.911,2.098
 netherlands-eredivisie,72041278,2026-11-29 15:45,PEC Zwolle,AZ Alkmaar,0.218,3.623,1.225,2.399,4.497,1.286,1.426,3.348
-ukraine-premier-league,72409816,2026-11-29 16:00,Karpaty Lviv,FC Polissya Zhytomyr,0.3575,2.461,1.023,1.437,2.734,1.577,2.241,1.806
+ukraine-premier-league,72409816,2026-11-29 16:00,Karpaty Lviv,FC Polissya Zhytomyr,0.3576,2.461,1.024,1.437,2.734,1.577,2.241,1.805
 austria-bundesliga,72345594,2026-11-29 16:00,FC Salzburg,LASK Linz,0.5716,3.267,1.773,1.494,1.735,2.36,1.578,2.731
-croatia-prva-nl,73070230,2026-11-29 16:00,NK Karlovac 1919,NK Kustosija Zagreb,0.592,2.446,1.357,1.09,1.701,2.426,2.261,1.793
+croatia-prva-nl,73070230,2026-11-29 16:00,NK Karlovac 1919,NK Kustosija Zagreb,0.5922,2.447,1.357,1.089,1.701,2.427,2.26,1.793
 norway-eliteserien,67015484,2026-11-29 16:00,SK Brann,Kristiansund BK,0.8369,3.716,2.567,1.15,1.222,5.514,1.394,3.537
 norway-eliteserien,67015492,2026-11-29 16:00,Sandefjord Fotball,Tromsoe IL,0.4331,3.142,1.446,1.696,2.327,1.754,1.645,2.55
 norway-eliteserien,67015494,2026-11-29 16:00,IK Start,Sarpsborg 08,0.4944,2.951,1.466,1.485,2.024,1.977,1.768,2.303
@@ -432,7 +433,7 @@ greece-super-league,72936150,2026-11-29 17:00,Aris Thessaloniki,Olympiacos Pirae
 cyprus-1st-division,73160496,2026-11-29 17:00,Pafos FC,Aris Limassol FC,0.6967,2.803,1.724,1.079,1.452,3.213,1.882,2.133
 italy-serie-a,71945436,2026-11-29 17:00,AS Roma,AC Monza,0.8922,4.303,3.09,1.213,1.156,7.425,1.245,5.078
 czechia-1-liga,72796038,2026-11-29 17:00,FC Zlin,Sparta Prague,0.1874,3.199,1.03,2.17,4.743,1.267,1.613,2.631
-albania-kategoria-superiore,72814316,2026-11-29 17:30,KF Egnatia Rrogozhine,Af Elbasani,0.6976,2.904,1.788,1.116,1.446,3.245,1.802,2.247
+albania-kategoria-superiore,72814316,2026-11-29 17:30,KF Egnatia Rrogozhine,Af Elbasani,0.6969,2.903,1.786,1.117,1.447,3.238,1.802,2.246
 spain-laliga-2,72477630,2026-11-29 17:30,Cadiz CF,Cordoba CF,0.4372,2.924,1.353,1.571,2.295,1.772,1.787,2.271
 spain-laliga,72478728,2026-11-29 17:30,RC Celta de Vigo,Villarreal CF,0.4675,2.579,1.24,1.339,2.136,1.88,2.1,1.909
 romania-superliga,72388118,2026-11-29 18:00,Rapid Bucuresti 1923,FC Botosani,0.7453,2.818,1.81,1.008,1.371,3.693,1.87,2.15
@@ -574,4 +575,5 @@ spain-laliga,72478750,2026-12-06 20:00,Atletico Madrid,Real Betis Seville,0.7616
 greece-super-league,72936174,2026-12-07 17:00,Panaitolikos Agrinio,Atromitos Athinon,0.4694,2.553,1.23,1.323,2.128,1.887,2.129,1.886
 italy-serie-a,71945464,2026-12-07 17:30,Venezia FC,Sassuolo Calcio,0.5616,3.016,1.619,1.397,1.774,2.293,1.723,2.383
 italy-serie-a,71945448,2026-12-07 19:45,ACF Fiorentina,Cagliari Calcio,0.7554,3.038,1.968,1.07,1.346,3.887,1.709,2.411
+france-ligue-2,72037484,2026-12-07 19:45,Rodez Aveyron Football,Stade Reims,0.4269,2.964,1.353,1.611,2.353,1.739,1.759,2.318
 spain-laliga,72478762,2026-12-07 20:00,Sevilla FC,Malaga CF,0.7657,3.492,2.281,1.211,1.312,4.201,1.476,3.103
